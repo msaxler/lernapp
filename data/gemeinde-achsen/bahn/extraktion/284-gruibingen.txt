@@ -1,0 +1,394 @@
+ENTITÄT: ort
+BEZEICHNUNG: Gruibingen
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/zahlen-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Göppingen
+  bundesland: Baden-Württemberg
+  einwohner: 2302 [Stand 31.12.2022]
+  gemarkungsgroesse: 23 [km²]
+  hoehenlage_ortskern: 565 [m ÜNN]
+  hoechster_punkt: 805 [m ÜNN]
+  tiefster_punkt: 490 [m ÜNN]
+  lage: Oberes Filstal, Schwäbische Alb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung: ohne Unterbrechung vom Frühmittelalter bis heute
+  erste_urkundliche_erwaehnung: 861
+  urkundliche_quelle: Stiftungsbrief des Klosters Wiesensteig (bezeichnet als "in griubingaro marco")
+  status_15_jahrhundert: Freidorf
+  hohe_gerichtsbarkeit: vorhanden
+  marktrecht: "uraltes" Marktrecht
+  eigenes_mass: ja
+  herrschaftsansprueche_6_7_jahrhundert: Herrschaftszentrum
+  konfession_nach_reformation: evangelisch
+GUELTIG_AB: 861
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wappen
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In Grün ein silbernes (weißes) Widderhorn in Form einer linken Unterschnecke
+  wappenfigur: Widderhorn
+  ursprung_wappenfigur: Ortsadel Gruibingen
+  farben: weiß, grün
+  erste_erwaehnung_siegel: 1930
+  ausgestaltung_nach_vorbild: Siegel des Albrecht von Gruibingen
+  ausgestaltungsjahr: 1958
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Martinskirche
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  besiedlung_beleg_ab: Frühmittelalter
+  grabungsfunde_ab: 600-700 n.Chr., Merowingerzeit
+  funktion_frueh: Grablege, Herrschaftszentrum
+  fund_goldohrring_jahr: um 700
+  fund_goldohrring_beschreibung: eines der reichsten Gräber in der Alamannia
+  fund_geistlichengrab_jahr: um 600
+  herkunft_finds: burgundischer Raum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Martinskirche
+QUELLE: https://www.gruibingen.de/leben-wohnen/kirchen-pfarraemter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzender_kirchengemeinderat: Philipp Kuch
+  pfarramt_adresse: Kirchplatz 4, 73344 Gruibingen
+  telefon: 07335 5200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Christ-Königs-Kirche
+QUELLE: https://www.gruibingen.de/leben-wohnen/kirchen-pfarraemter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  einweihung: 19.07.1964
+  grund_errichtung: Zuwanderung von über 300 Heimatvertriebenen nach dem Zweiten Weltkrieg
+  anfaengliche_seelsorge: von Bad Ditzenbach aus
+  raumnutzung: evangelische Martinskirche für Messen genutzt
+  zugeordnung_pfarrgemeinde: ab Neubesetzung Mühlhausen
+  seelsorgeeinheit_seit_2000: Oberes Filstal
+  pfarrer: Herr Baumgartner
+  pfarrer_sitz: Wiesensteig
+  kirchengemeinderat: Ivan Belak
+  mesnerin: Karin Straub
+  adresse: Rechbergstraße 1, Telefon 07335 2526
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brand
+BEZEICHNUNG: Brand 1647
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1647
+  zeitpunkt: gegen Ende des 30-jährigen Krieges
+  grund: Plünderung durch schwedische Soldaten, Brandstiftung
+  haeuser_und_scheunen: 130
+  erhaltene_gebaeude: Kirche, Pfarrhaus, Fruchtkasten, Zehntscheuer
+GUELTIG_BIS: 1647
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: brand
+BEZEICHNUNG: Brand 1668
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1668
+  tag: Karfreitag
+  verursacher: Dorfschmied
+  umfang: ganzer Ort mit Ausnahme von Kirche, Pfarrhaus, Fruchtkasten, Zehntscheuer und einem Bauernhaus
+  erhaltenes_bauernhaus: "zue oberst im dorff gestanden"
+  todesfaelle: 7 Menschen
+  verluste: Pferde, Rindvieh, Schafe, Hab und Gut
+GUELTIG_BIS: 1668
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kindertagesstaette
+BEZEICHNUNG: Kita Schneckenhäusle
+QUELLE: https://www.gruibingen.de/leben-wohnen/kindergarten/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  paedagogische_fachkraefte: 17
+  betreuungsplaetze_unter_3: 20
+  raeume_unter_3: 2
+  konzept_ueber_3: teiloffenes Konzept
+  funktionsraeume_ueber_3: 3
+  vorschulkinder_betreuung_seit: September 2018
+  vorschulkinder_ort: Raum in der Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Jahrhundertstein
+QUELLE: https://www.gruibingen.de/freizeit-tourismus/tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Uli Gsell
+  material: Jurakalkstein
+  komponenten: 3 stehende Felsplatten
+  lage: Bossler, Gruibinger Wiesle
+  hoehenlage: ca. 760 [m ÜNN]
+  thema: 20. Jahrhundert
+  beschreibung: begehbarer Raum mit eingemeißelten Worten, Begriffen und Ideen zu Politik, Kultur, Technik, Wissenschaft und Alltag
+  ideengeberin: Hellmuth Moll
+  finanzierung: überwiegend Spenden
+  buergemeister_zur_einweihung: Roland Schweikert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Albrecht von Gruibingen
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Ortsadel
+  relevanz: Siegel diente als Vorbild für Wappengestaltung 1958
+GUELTIG_BIS: 1958 [Bezug]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kriegsereignis
+BEZEICHNUNG: 30-jähriger Krieg
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1618-1648
+  todesfaelle_gruibingen: 131 Männer
+  todesfaelle_zeitraum: 1634-1637
+  todesursachen: Kriegseinwirkungen, Seuchen, Krankheiten
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Ältestes Wohnhaus Gruibingens, Schillerstraße 1
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1547
+  typ: Bauernhaus
+  superlativ: einziges Bauernhaus aus dem Spätmittelalter
+  beschreibung: vermittelt Vorstellung der Häuser im damaligen Gruibingen
+GUELTIG_AB: 1547
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Pfarrhaus
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: um 1550
+GUELTIG_AB: 1550
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fruchtkasten
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: um 1550
+GUELTIG_AB: 1550
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Zehntscheuer
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: um 1550
+GUELTIG_AB: 1550
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Schule Gruibingen
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1552
+GUELTIG_AB: 1552
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Amthaus
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1559
+GUELTIG_AB: 1559
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bevoelkerungszustand
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 16. Jahrhundert
+  haeuser_und_scheunen: 140-150
+  wirtschaftende_maenner: ca. 190, genauigkeit: ca.
+  geschaetzte_einwohner: 600-700, genauigkeit: ca.
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: entwicklungsphase
+BEZEICHNUNG: Wiederaufbau nach Brand 1668
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beginn: rasch nach 1668
+  ergebnis_18_jahrhundert: einstige Größe weitgehend wieder erreicht
+  folge: wurde unbedeutender Flecken im Oberamt Göppingen (früher einer der "ansehnlichsten")
+GUELTIG_AB: 1668
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: entwicklungsphase
+BEZEICHNUNG: 19. Jahrhundert Industrialisierung
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  industrialisierung_erreichte_gruibingen: nein
+  wirtschaftliche_ausrichtung: Landwirtschaft und kleine Nebengewerbe
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahnbau
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeitraum: 1934-1937
+  bedeutung: bot Erwerbsmöglichkeiten außerhalb der Landwirtschaft
+GUELTIG_AB: 1934
+GUELTIG_BIS: 1937
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: entwicklungsphase
+BEZEICHNUNG: 20. Jahrhundert nach Zweitem Weltkrieg
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwicklung: stattliches Dorf mit guter Infrastruktur, mehreren Handwerksbetrieben und mittelständischen Unternehmen
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: landschaftselement
+BEZEICHNUNG: Schwäbische Alb
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/zahlen-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_gruibingen: Oberes Filstal, von vielen zur Alb gezählt
+  verbindung: über Gesteinsschichten "Sickenbühl" mit Hauptmasse verbunden
+  charakterisierung: tief eingeschnittene Bäche, Bergformationen, Streuobstwiesen, Wacholderheiden, Buchen-Hangwälder
+  landschaftsbild: herausragendes Landschaftsbild zu allen Jahreszeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: landschaftselement
+BEZEICHNUNG: Bosslermassiv
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/zahlen-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Schutz vor Sturm und schweren Gewittern
+  klimaeffekt: macht Klima deutlich milder als auf Albhochfläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jürgen Böhringer
+QUELLE: https://www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beitrag: Verfasser des Textes zur Chronik der Gemeinde und zum Jahrhundertstein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Roland Schweikert
+QUELLE: https://www.gruibingen.de/freizeit-tourismus/tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Bürgermeister (zur Zeit des Jahrhundertstein-Projekts)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hellmuth Moll
+QUELLE: https://www.gruibingen.de/freizeit-tourismus/tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Ideengeber für das Jahrhundertstein-Projekt
+  konzeptidee: Erinnerung an das 20. Jahrhundert mit seinen menschlichen Leiden und großen Fortschritten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Uli Gsell
+QUELLE: https://www.gruibingen.de/freizeit-tourismus/tourismus/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Künstler
+  werk: Jahrhundertstein
+  entwurfsauswahl: ausgewählter künstlerischer Entwurf aus fünf Alternativen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

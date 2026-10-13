@@ -1,0 +1,622 @@
+ENTITÄT: ort
+BEZEICHNUNG: Niefern-Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 12401
+  einwohner_maennlich: 6134
+  einwohner_weiblich: 6267
+  gemarkungsflaeche: 2202 ha
+  waldflaeche: 525 ha
+  hoehe_min: 230 m
+  hoehe_max: 432 m
+  haushalte: 5225
+  entfernung_pforzheim: 7 km
+  entfernung_stuttgart: 40 km
+  entfernung_karlsruhe: 30 km
+  entfernung_flughafen_stuttgart: 40 km
+  entfernung_flughafen_frankfurt: 160 km
+  entfernung_flughafen_rheinnuenster: 60 km
+  verkehrsanbindung: A8 mit Ausfahrt Pforzheim Ost, B10
+  bahnhof: ja, Strecke Karlsruhe-Stuttgart
+  beschreibung: liegt an Pforte des Nordschwarzwaldes, Landesentwicklungsachse Karlsruhe-Pforzheim-Mühlacker
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Niefern
+ORTSTEIL_BEZUG: Niefern
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwaehnung: 1082-1091
+  erste_erwaehnung_kontext: Schenkungsbücher Kloster Hirsau
+  namensherkunft_alt: Neuefähre (ahd. niu fara)
+  namensherkunft_neuer: keltischer Ursprung
+  besiedlung_vorgeschichte: ja
+  besiedlung_roemisch: ja
+  besiedlung_fraenkisch: ja
+  entwicklung_nach_wwii: Industrieort mit ca. 4000 Arbeitsplaetzen
+  grund_industrialisierung: guenstige Verkehrslage an B10 und Autobahnanschluss
+GUELTIG_AB: 1082
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Öschelbronn
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 835
+  erste_erwaehnung_quelle: Lorscher Codex
+  ursprungsname: Nessenbrunn
+  ursprungsname_deutung: alemannische Sippensiedlung eines Nesso
+  spaeterer_name: Eschenbronn
+  bedeutung_name: Brunnen bei den Eschen
+  rom_gutshof: ja
+  rom_gutshof_fund_jahr: 1933
+  rom_gutshof_verbindung: mit Pforzheim und Furt bei Dürrmenz
+  kloster_besitz: Kloster Maulbronn
+  zu_wuerttemberg: 1504
+  zu_baden: 1810
+  grund_baden: napoleonische Gebietsreform
+  brueande: 1609, 1852, 1909, 1911, 1933
+  brand_1933_haeuser: 203
+  brand_1852_kirche_zerstoert: ja
+  wiederaufbau_stil: fraenkisch-alemannischer Fachwerkstil
+  krämermarkt: vierteljährlich
+GUELTIG_AB: 835
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gemeinde_fusion
+BEZEICHNUNG: Zusammenschluss Niefern und Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum_fusion: 1. August 1971
+  art: freiwillig
+  umbenennungsdatum: 18. November 1971
+  neuer_name: Niefern-Öschelbronn
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Niefern
+ORTSTEIL_BEZUG: Niefern
+QUELLE: https://www.niefern-oeschelbronn.de/leben-wohnen/kirchen/evangelische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: gotisch
+  entstehung: 13. und 14. Jahrhundert
+  patronin: Maria
+  kulturdenkmalstatus: ja
+  rang_enzkreis: dritter Platz nach Kloster Maulbronn und Pfarrkirche Tiefenbronn
+  besonderheit_tonnengeweolbe: ja
+  ausstattung_lettner: ja
+  reformation_funktion: Stifts- oder Chorherrenkirche, vermutlich Filiale Pforzheimer Schlosskirche
+  malereien_chor_entdeckung: um 1900
+  malereien_thema: Ringen des Menschen um Erloesung
+  malereien_motive: Jesus mit Aposteln, Propheten AT, Martyrium Bartholomaeus, Heilstreppe, Drachenkampf Georg, Wurzel Jesse
+  sondermalerei: Schutzmantel-Madonna an Südwand
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Öschelbronn (St. Georg)
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: 1609 erbaut
+  brand_1852: ja
+  wiederaufbau: nach Brand 1852
+  gegenwart: heutige Form nach Brand
+GUELTIG_AB: 1609
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche Niefern-Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/leben-wohnen/kirchen/katholische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeinde: Herz Jesu Pforzheim
+  pfarrbüro_adresse: Birkenstr. 19, 75223 Niefern-Öschelbronn
+  pfarrbüro_telefon: 07233-3924
+  pfarrbüro_oeffnungszeiten: Montag und Donnerstag 09:00-12:00
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelisch-methodistische Kirche
+ORTSTEIL_BEZUG: Niefern-Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/leben-wohnen/kirchen/evangelische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gottesdienstraum_adresse: Uhlandstr. 1
+  postadresse: Marktplatz 11, 75223 Niefern-Öschelbronn
+  telefon: 07233/9438690
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: glaubensgemeinschaft
+BEZEICHNUNG: Christengemeinschaft im Johanneshaus
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/leben-wohnen/kirchen/sonstige-glaubensgemeinschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Eichhof, 75223 Öschelbronn
+  telefon: 07233 67-0
+  fax: 07233 67-100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: glaubensgemeinschaft
+BEZEICHNUNG: Neuapostolische Kirche
+ORTSTEIL_BEZUG: Niefern
+QUELLE: https://www.niefern-oeschelbronn.de/leben-wohnen/kirchen/sonstige-glaubensgemeinschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchenbezirk: Pforzheim
+  adresse: Tannenbergstraße 32/1, 75223 Niefern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: glaubensgemeinschaft
+BEZEICHNUNG: Zeugen Jehovas
+ORTSTEIL_BEZUG: Niefern-Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/leben-wohnen/kirchen/sonstige-glaubensgemeinschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  königreichssaal_adresse: Schloßstraße 72, 75223 Niefern-Öschelbronn
+  telefon: 07233 5540
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Niefernburg
+ORTSTEIL_BEZUG: Niefern
+QUELLE: https://www.niefern-oeschelbronn.de/freizeit-gaeste/sehenswertes/die-niefernburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_spuren: 12. Jahrhundert
+  ursprung: Stadel
+  umwandlung_schloss_jahr: 1555
+  umwandlung_schloss_durch: Markgraf Karl II. schenkte an Martin Amelius (Achtsynit)
+  umbau: von Grund auf
+  ausstattung: Wirtschaftsgebäude, Säge- und Mahlmühle
+  papiermuehle_einrichtung: 1672
+  funktion_ab_1856: Rettungshaus fuer Waisenkinder
+  funktion_1935: Maedchenheim unter Leitung Diakonissenhaus Nonnenweiher
+  leiterin_1935: Oberschwester Lina Gilbert
+  leitungswechsel_1971: Christel und Adolf Glanz (36 Maedchen)
+  erweiterung_1991: unter Rainer Kohl
+  geburtstag_jubilaeum: 24.-25. Juni 2006 (150 Jahre Rettungshaus)
+  bewohner_2006: über 50 junge Menschen
+  mitarbeiter_2006: über 50 Paedagogen und Mitarbeiter
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Martin Amelius (Achtsynit)
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kanzler von Markgraf Karl II.
+  geschenk_jahr: 1555
+  geschenk: Ort Niefern mit altem Burgstadel an der Enz
+  grund_geschenk: Verdienste um die Reformation
+  bautaetigkeit: Niefernburg von Grund auf erbaut und erweitert
+  bauten: Wirtschaftsgebäude, Säge- und Mahlmühle
+  wappe: 3 goldene sechsstrahlige Sterne
+  wappen_verwendung: im aktuellen Wappen Niefern-Öschelbronn über Brunnen
+  denkmal: Ameliussaal in der Kirnbachhalle benannt nach ihm
+  grabmal: in Schloss- und Stiftskirche St. Michael Pforzheim
+  lebensdaten: 1523-1592
+GUELTIG_AB: 1523
+GUELTIG_BIS: 1592
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wappensymbol
+BEZEICHNUNG: Wappen Niefern-Öschelbronn (aktuell)
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In Blau ein goldener Brunnen mit zwei Röhren, aus denen ein silberner Wasserstrahl fließt, darüber drei goldene sechsstrahlige Sterne
+  brunnen_symbolik: Wasserversorgung aus Brunnen, Lebensträger
+  sterne_symbolik: aus Wappen Martin Amelius (Achtsynit)
+  farben_bedeutung: Blau und Gold erinnern an ursprüngliches Ortsgeschlecht Herren von Niefern
+  hauptmotiv: Brunnen
+  grund_aenderung: Vereinheitlichung der beiden Ortsteile, nicht mehr Betonung der Landesteile
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappensymbol
+BEZEICHNUNG: Historisches Wappen Niefern (1564)
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: gespalten, links Badisches Wappen, rechts Fischreiherfuß in Klaue einen Fisch haltend
+  entstehung_jahr: 1564
+  grund_entstehung: Markgrafen von Baden erwarben 1529 letztes Viertel Niefern
+  verwendung_gänsefuß: seit 1580 auf Grenzsteinen, ab ca. 1750 auf Ortsfahne, ab 19. Jahrhundert im Ortssiegel
+  erneuerung: um 1910 auf Vorschlag Generallandesarchiv Karlsruhe
+GUELTIG_AB: 1564
+GUELTIG_BIS: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: wappensymbol
+BEZEICHNUNG: Historisches Wappen Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Brunnen mit Brunnenstock um ein Wasserrohr, links und rechts ein Hufeisen, darüber eine Geweihstange
+  ursprung: Schlussstein von Chor 1609 erbauter Kirche oder 1852 zerstoerter Kirche
+  brunnentrog_form: Sechseck-Gestalt mit 2 Röhren
+  buchstaben_trog: e.b. = Eschenbronn
+  siegel_jahr: 1755
+  siegel_motive: Brunnen und zwei Hufeisen
+  stempel_motiv_geweihstange: ja
+  aenderung_1810: Öschelbronn kam zu Baden
+  erneuerung_1907: auf Anregung Generallandesarchiv
+  geweihstange_1907: auf Wunsch des Gemeinderates hinzugefügt (württembergisch)
+  fleckenzeichen: Hufeisen
+GUELTIG_AB: 1609
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Kirnbachmuseum
+ORTSTEIL_BEZUG: Niefern
+QUELLE: https://www.niefern-oeschelbronn.de/freizeit-gaeste/kultur/museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Bürgerhaus Niefern, Hauptstraße 25
+  ort_geschichte: früheres Rathaus und Schulhaus
+  ort_wiederaufbau: nach Brand 1822
+  ort_renovierung: 1994-1997
+  gruendung: 1984
+  initiative: Kulturkreis (gegründet 1982)
+  ursprung: zwei Räume der ehemaligen Polizeistation im alten Rathaus
+  einweihung: Mai 1984
+  erweiterung: mehrfach nach 1984
+  oeffnungszeiten: Sonntag 10:30-12:00 Uhr und erster Sonntag 14:30-16:30 Uhr, sowie nach Vereinbarung
+  traegerschaft: ehrenamtlich
+  bezeichnung: Heimatmuseum, Heimstube
+  alternativname: Nieferns Gute Stube
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Wappenbrunnen
+ORTSTEIL_BEZUG: Niefern
+QUELLE: https://www.niefern-oeschelbronn.de/freizeit-gaeste/sehenswertes/die-brunnengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Kirchplatz Niefern
+  aufstellung: seit 1986
+  initiative: Karl-Helmut Wagner (Ortschronist)
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Pferdebrunnen
+ORTSTEIL_BEZUG: Niefern
+QUELLE: https://www.niefern-oeschelbronn.de/freizeit-gaeste/sehenswertes/die-brunnengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Hauptstraße, Niefern
+  einweihung: 30. November 2013
+  idea_beschaffung: Ulrich Kollmar
+  kuenstler: Bärbel Dieckmann (Berlin)
+  motiv: Reiterin mit Pferd
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Brunnen Öschelbronn (Alte Brunnentrog)
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/freizeit-gaeste/sehenswertes/die-brunnengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort_ursprung: Pfarrstraße
+  standort_neu: Allmendplatz bei Linde
+  umsetzung: 2004
+  ausstattung: gusseiserner Einlauf
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Rathausbrunnen Öschelbronn
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/freizeit-gaeste/sehenswertes/die-brunnengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_erstellung: 1910
+  grund_jahr: 100-jähriges Jubiläum Badisches Öschelbronn (1810)
+  standort: St. Georgskirche
+  aufstellung: 2004
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Fero-Freymark-Brunnen
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/freizeit-gaeste/sehenswertes/die-brunnengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Marktplatz Öschelbronn, bei Linde
+  aufstellung: 2004
+  kuben: 3
+  wasserstrahlen: 3
+  symbolik: Erinnerung an Trümmer der Brandkatastrophe 10. September 1933
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Brunnen-Gesamtkunstwerk Eichhofpark
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/freizeit-gaeste/sehenswertes/die-brunnengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Eichhofpark, Anlage Johanneshaus und Klink
+  funktion: Quelltrichter mit gepflanztem Wasser
+  form: Schleifen von Schale zu Schale bis Großtrog bei Johanneshauspforte
+  ausstattung: Blumenmeere, Biotope mit Seerosen, Algen und Fischen
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Bruchtalsee
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/freizeit-gaeste/sehenswertes/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entdeckung: seit 1982
+  standort: mittleres Bruchtal, Öschelbronn
+  typ: Anglersee
+  bedeutung: Besuchermagnet für Naherholung
+  biotop: ja
+  fauna: Stockenten, Greifvögel
+  gewässerfauna: Fische, Lurche, Frösche, Krebse, Insekten, Kleinlebewesen
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: befestigung
+BEZEICHNUNG: Schanzengraben (Eppinger Linie)
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_bau: 1695-1697
+  bauherr: Markgraf Ludwig von Baden (Türkenlouis)
+  grund: Schutz gegen die Franzosen
+  strecke: von Waldschanze (Gemarkung Niefern) über Tannenberg zum Wald Steckhof (Gemarkung Öschelbronn) in Richtung Mühlacker und bis Eppingen
+  erhaltenszustand: im Abschnitt Niefern-Öschelbronn sehr gut erhalten
+GUELTIG_AB: 1695
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: grenzstein
+BEZEICHNUNG: Ältester Landesgrenzstein (1579)
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1579
+  standort: alte Badische Grenze, Grenzabschnitt am unteren Enzberg, Lattenwald hinunter zur Enz
+  finder: Mathias Rosbund (HAV-Mühlacker)
+  jahreszahl_bearbeitung: herausgearbeitet
+  buchstabe_baden: B
+  buchstabe_wuerttemberg: W
+  nieferner_zeichen: Enten-/Gänsefuß mit Sporn
+  steinnummer: 188
+  rueckseite_zeichen: Fleckenzeichen Enzberg (seltene Variante), zwei konzentrische Kreise
+  beschreibung: Stein fasziniert durch Ursprünglichkeit
+GUELTIG_AB: 1579
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: grenzstein
+BEZEICHNUNG: Landesgrenzstein 1588
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1588
+  standort_ursprung: Grenzabschnitt Bräuningsmühle bis Lärchenweg (Badische Grenze vor 1810)
+  status_2017: restauriert, im Rathaus Niefern ausgestellt
+  ersatz: topographischer Grenzpunkt seit März 2017
+GUELTIG_AB: 1588
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: grenzstein
+BEZEICHNUNG: Ältester Grenzstein
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1478
+  superlativ: ältester Grenzstein auf Gemarkung Niefern-Öschelbronn
+GUELTIG_AB: 1478
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kulturdenkmal
+BEZEICHNUNG: Fachwerkdorf Öschelbronn
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/freizeit-gaeste/sehenswertes/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: Brand 10. September 1933 zerstörte ca. 200 Gebäude
+  wiederaufbau_jahre: 1934-1935
+  wiederaufbau_stil: fränkisch-alemannischer Fachwerkstil
+  wiederaufbau_regie: Drittes Reich
+  qualitaet_beurteilung: eines der schönsten Dörfer des Enzkreises
+  besonderheit_straßen: Gartenstraße, Untere Bachstraße, Brühlstraße mit schönsten Fachwerkfassaden
+GUELTIG_AB: 1934
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brandkatastrophe
+BEZEICHNUNG: Brand Öschelbronn 1933
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 10. September 1933
+  zerstoerte_haeuser: 203
+  funde_danach: Spuren römischen Gutshofes
+  grund_haeufigkeit_braende: Schüssellage des Ortes
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: muehle
+BEZEICHNUNG: Papiermühle
+ORTSTEIL_BEZUG: Niefern
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1672
+  standort: Sägemühle der Niefernburg
+  gruender: Markgraf von Baden
+  grund_gruendung: helfend eingreifend, Niefern war sehr arm
+  anlass_helfung: Grenzlage zu Württemberg
+  bedeutung: Wiege der Nieferner Industrie
+GUELTIG_AB: 1672
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hallenbad
+ORTSTEIL_BEZUG: Niefern-Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Freizeitanlage für Bevölkerung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Erhard Fahlbusch-Freibad
+ORTSTEIL_BEZUG: Niefern-Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: beheiztes Freibad mit großer Liegewiese
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sportstadion
+ORTSTEIL_BEZUG: Niefern-Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Sportanlage für Bevölkerung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Großsporthalle
+ORTSTEIL_BEZUG: Niefern-Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Sporthalle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Ameliussaal
+ORTSTEIL_BEZUG: Niefern
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kultursaal
+  benannt_nach: Martin Amelius (Achtsynit)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kulturbahnhof
+ORTSTEIL_BEZUG: Niefern-Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kultursaal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Steighalle
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Mehrzweckhalle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: koerperschaft
+BEZEICHNUNG: Kulturkreis
+QUELLE: https://www.niefern-oeschelbronn.de/freizeit-gaeste/kultur/museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1982
+  initiative: Heimatmuseum (1984)
+  angebot_erster: Heimstube
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

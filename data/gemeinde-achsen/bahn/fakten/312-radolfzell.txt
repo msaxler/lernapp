@@ -1,0 +1,470 @@
+ID: 312-radolfzell/001
+ENTITÄT: ort
+BEZEICHNUNG: Radolfzell am Bodensee
+QUELLE: https://www.radolfzell.de/Unser-Radolfzell/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 30000
+  ist_kreisstadt: true
+  rang_bodenseeufer: drittgrößte Stadt am deutschen Bodenseeufer
+  lage: westliches Ufer des Bodensees
+  gründungsjahr: 826
+  charakter: Kultur- und Musikstadt
+  altstadt: historisch, autofrei, mit Geschäften Cafés und Ateliers
+  wirtschaftsbranchen: Maschinenbau, Fahrzeugtechnik, Pumpentechnik, Lebensmittelproduktion, IT-Technologie
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/002
+ENTITÄT: ort
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  marktrecht_jahr: 1100
+  marktrecht_verleihung_durch: Reichenauer Abt Ulrich von Dapfen
+  marktrecht_besonderheit: erster in Südwestdeutschland nachweisbarer Versuch der Schaffung eines eigenen städtischen Grund- und Bodenrechtes
+  stadtrecht_jahr: 1267
+  stadtrecht_verleihung_durch: Reichenauer Abt Albrecht von Ramstein
+  entwicklung: von Fischer- und Weinbauernsiedlung zu Wallfahrtsort, später wichtigstes Industriezentrum am Untersee
+  eigenschaft_wallfahrtsort: gepflegte Traditionen basierend auf Reliquien der Heiligen Theopont, Senesius und Zeno
+GUELTIG_AB: 826
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 312-radolfzell/003
+ENTITÄT: heiliger
+BEZEICHNUNG: Theopont
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Blutzeuger, kleinasiatischer Ursprung
+  reliquie_form: Gebeine
+  herkunft: Oberitalien
+  ankunft_radolfzell_jahr: 830
+  benannt_nach: zusammen mit Markusreliquien für Reichenau bestimmt, von Bischofs Radolf an den Bodensee gebracht
+  bestattungsort: Gotteshaus (Kirche) in Radolfzell
+GUELTIG_AB: 830
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 312-radolfzell/004
+ENTITÄT: heiliger
+BEZEICHNUNG: Senesius
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Blutzeuger, kleinasiatischer Ursprung
+  reliquie_form: Gebeine
+  herkunft: Oberitalien
+  ankunft_radolfzell_jahr: 830
+  benannt_nach: zusammen mit Markusreliquien für Reichenau bestimmt, von Bischofs Radolf an den Bodensee gebracht
+  bestattungsort: Gotteshaus (Kirche) in Radolfzell
+GUELTIG_AB: 830
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 312-radolfzell/005
+ENTITÄT: heiliger
+BEZEICHNUNG: Zeno
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Veroneser Bischofs
+  reliquie_form: Teil des Hauptes
+  ankunft_radolfzell: später (nach 830)
+  bestattungsort: Radolfs Cellengründung am Bodensee
+GUELTIG_AB: 9. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 312-radolfzell/006
+ENTITÄT: person
+BEZEICHNUNG: Bischofs Radolf (Ratoldus)
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Bischofs von Verona
+  aktion_gründung: Gründung der Cella Ratoldi
+  gründungsjahr: ca. 826
+  gründungsort: Nordwestende des Untersees, auf Gelände des Klosters Reichenau, 2 Meilen vom Kloster entfernt
+  gründungsbeschreibung: Errichtung von Häusern und Kirche
+  aktion_reliquien: brachte Gebeine der Heiligen Theopont und Senesius aus Oberitalien an den Bodensee
+  amtsverzicht: 840
+  todesjahr: ca. 847
+  todesjahr_ort: in der von ihm gegründeten Zelle
+  lebensdauer: ca. 40 Jahre Dienst für Reich und Kirche vor Amtsverzicht
+GUELTIG_AB: 826
+GUELTIG_BIS: 847
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 312-radolfzell/007
+ENTITÄT: ereignis
+BEZEICHNUNG: Gründung der Cella Ratoldi
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 826
+  genauigkeit: ca.
+  gründer: Bischofs Radolf
+  location: Nordwestende des Untersees auf Gelände des Klosters Reichenau
+  beschreibung: Schaffung von Häusern und Kirche, Besiedlung eines Platzes 2 Meilen vom Kloster Reichenau
+  signifikanz: Grundstein für noch heute gepflegte Wallfahrtstradition
+GUELTIG_AB: 826
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 312-radolfzell/008
+ENTITÄT: ereignis
+BEZEICHNUNG: Ankunft der Reliquien der Heiligen an den Bodensee
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 830
+  person: Bischofs Radolf
+  reliquien: Gebeine von Theopont und Senesius (kleinasiatische Blutzeuger)
+  zusätzliche_reliquien: später Teil des Hauptes des Veroneser Bischofs Zeno
+  herkunft: Oberitalien
+  bestattungsort: Gotteshaus (Kirche) in Radolfzell
+  bedeutung: Grundstein für Wallfahrtstradition Radolfzells
+GUELTIG_AB: 830
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 312-radolfzell/009
+ENTITÄT: ereignis
+BEZEICHNUNG: Verleihung von Marktrechten
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1100
+  verleihende_autorität: Reichenauer Abt Ulrich von Dapfen mit Zustimmung Heinrichs IV.
+  beschreibung: Schaffung eines von der Kelhofgemeinde getrennten Handelsplatzes mit eigenem Recht
+  beschreibung_ort: neben dem Bauern- und Fischerdorf und der Kirche Radolfs, auf bisher unbebauten Gelände
+  signifikanz: erster in Südwestdeutschland nachweisbarer Versuch der Schaffung eines eigenen städtischen Grund- und Bodenrechtes, 20 Jahre vor Freiburg im Breisgau
+  bedeutung: Voraussetzung und erster Anstoß für Entstehung der Stadt Radolfzell
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/010
+ENTITÄT: ereignis
+BEZEICHNUNG: Verleihung von Stadtrechten und Privilegien
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1267
+  verleihende_autorität: Reichenauer Abt Albrecht von Ramstein
+  urkunde_inhalt: Privilegien der Radolfzeller Bürgerschaft mit Rechten und Freiheiten
+  bedeutung: Abschluss des Stadtwerdungsprozesses
+  auswirkung: Vereinigung Marktbewohner und Reichenauer Hofgemeinde zur Bürgergemeinde
+  auswirkung_detail: Alles, was Mauer und Graben umschloss, genoss fortan städtische Freiheiten
+  stadtrollen_etabliert: Stadtammann an der Spitze, Ratsgremium als satzungsgebende Vertretung der Bürger
+  stadtmerkmale_erreicht: Marktrecht, Befestigung und Selbstverwaltung
+  langzeitwirkung: grundlegende Voraussetzung für städtische Entwicklung Radolfzells bis in moderne Zeit
+GUELTIG_AB: 1267
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/011
+ENTITÄT: ereignis
+BEZEICHNUNG: Inhaftierung Papst Johannes XXIII. in Radolfzell
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  person: Papst Johannes XXIII. (erster dieses Namens und dieser Zählung)
+  zeitraum: 1415-05-17 bis 1415-06-03
+  vorgeschichte: Teilnehmer beim Konstanzer Konzil, Amtsverzicht 1415-03-02, Rückkehr des Verzichts, Flucht aus Konstanz, Gefangennahme in Freiburg
+  unterkunft_radolfzell_1: Wirtshaus
+  unterkunft_radolfzell_2: fester Turm (möglicherweise damals noch der Reichenau gehörende Burg)
+  ereignis: Wille zur Absetzung als Papst eingewilligt am 1415-05-29
+GUELTIG_AB: 1415
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/012
+ENTITÄT: ereignis
+BEZEICHNUNG: Verleihung der Halsgerichtsordnung (Strafgesetzbuch)
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1506
+  verleihende_autorität: König Maximilian I.
+  bedeutung: Verleihung eigener Strafgerichtsbarkeit und Unabhängigkeit
+  beschreibung: Ordnungen und Gesetze für Strafgerichtsbarkeit mit detaillierten Strafen (Mord, Verrat, Raub, Kirchenschändung, Falscheid etc.)
+GUELTIG_AB: 1506
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/013
+ENTITÄT: ereignis
+BEZEICHNUNG: Belagerung Radolfzells im Bauernkrieg
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1525-04 bis 1525-06
+  teilnehmer_bauern: Hegauer Bauern vereinigt mit denen aus Schwarzwald, Klettgau und Baar
+  bauernstärke: auf ca. 10000 Mann angewachsen
+  besetzte_städte: Engen, Aach
+  belagerung_höhepunkt: Ende Mai 1525
+  verlauf: Ausbrüche der Stadtbesatzungen von Stockach und Radolfzell, Anzünden einiger Dörfer
+  ausgang: Hilfe der Truppen des Schwäbischen Bundes, Mut der Verteidiger retteten die Stadt
+  gefechte: zwei Gefechte bei Steißlingen und bei Hilzingen, Bauern geschlagen und zur bedingungslosen Kapitulation gezwungen
+  konsequenzen: Gemeinden Böhringen und Überlingen am Ried mussten Wälder als Entschädigung an Radolfzeller abtreten
+GUELTIG_AB: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/014
+ENTITÄT: ereignis
+BEZEICHNUNG: Besuch Kaiser Ferdinands I. in Radolfzell
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1563
+  person: Kaiser Ferdinand I.
+  beschreibung: Besuch eines Habsburger Herrschers
+GUELTIG_AB: 1563
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 312-radolfzell/015
+ENTITÄT: ereignis
+BEZEICHNUNG: Auswirkungen des Dreißigjährigen Krieges auf Radolfzell
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leid: besonders schlimm heimgesucht
+  todesursachen: durch Truppen eingeschleppte Seuche und Pest
+  sterblichkeit: ca. die Hälfte der Radolfzeller Einwohner starb
+  situation_nach_krieg: nur noch ca. 400 Menschen in der Stadt lebend
+GUELTIG_AB: 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 312-radolfzell/016
+ENTITÄT: organisation
+BEZEICHNUNG: Adelsgesellschaft zum St. Jörgenschild
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Rittergesellschaft
+  mitglieder: im Hegau ansässige Ritter
+  tätigkeit_seit: mindestens seit 15. Jahrhundert (regelmäßige Zusammenkünfte)
+  versammlungsort: Radolfzell
+  gebäude_jahr: 1609
+  gebäude_spender: Junker Hans von Schellenberg
+  gebäude_geschenk_zweck: zu bequemer Traktierung ihrer Handlungen
+  gebäude_nutzung_bis: Ende 1805
+  gebäude_funktion: Versammlungsort und Verwaltungssitz der Reichsritterschaft im Hegau
+  wappen_symbole: Falken, Fisch, Schwert und Zepter (schmücken noch immer das Portal)
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 312-radolfzell/017
+ENTITÄT: bauwerk
+BEZEICHNUNG: Ritterschaftsgebäude (heute Amtsgericht)
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1609
+  spender: Junker Hans von Schellenberg
+  empfänger: Adelsgesellschaft zum St. Jörgenschild
+  beschreibung: stattliches Gebäude mit Wappen (Falken, Fisch, Schwert und Zepter) am Portal neben dem Rathaus
+  umbau: mehrfach umgebaut und erweitert
+  historische_nutzung: Versammlungsort und Verwaltungssitz der Reichsritterschaft im Hegau
+  historische_nutzung_bis: Ende 1805
+  heutige_nutzung: Amtsgericht
+GUELTIG_AB: 1609
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/018
+ENTITÄT: bauwerk
+BEZEICHNUNG: Österreichisches Schlößchen
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: Erinnerung an jahrhundertelange Zugehörigkeit der Stadt zu Österreich
+  dauer_österreich: Österreichische Vorlande seit mindestens 16. Jahrhundert (Kaiser Ferdinand I. 1563)
+GUELTIG_AB: 16. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 312-radolfzell/019
+ENTITÄT: bauwerk
+BEZEICHNUNG: Heilig-Geist-Spital
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1386
+  typ: Spital (Krankenhaus/Altenheim)
+  funktion: Einrichtung bürgerschaftlicher Solidarität
+GUELTIG_AB: 1386
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 312-radolfzell/020
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Haselberger, Helmut
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1940
+  todesjahr: 2026
+  lebensdauer: 1940-2026
+GUELTIG_AB: 1940
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/021
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Maurer, Bernhard
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1930
+  todesjahr: 2010
+  lebensdauer: 1930-2010
+GUELTIG_AB: 1930
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/022
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Messmer, Werner
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1924
+  todesjahr: 2016
+  lebensdauer: 1924-2016
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/023
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Bücheler, Karl
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1913
+  todesjahr: 1987
+  lebensdauer: 1913-1987
+GUELTIG_AB: 1913
+GUELTIG_BIS: 1987
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/024
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Gouin, Maurice
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1924
+  todesjahr: 2013
+  lebensdauer: 1924-2013
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/025
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Troll, Gustav
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1895
+  todesjahr: 1979
+  lebensdauer: 1895-1979
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1979
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/026
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Zuber, Josef
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1897
+  todesjahr: 1969
+  lebensdauer: 1897-1969
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/027
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Kratt, August
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1882
+  todesjahr: 1969
+  lebensdauer: 1882-1969
+GUELTIG_AB: 1882
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/028
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Schiesser, Malvine
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1850
+  todesjahr: 1929
+  lebensdauer: 1850-1929
+GUELTIG_AB: 1850
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/029
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Wolf, Karl
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1858
+  todesjahr: 1932
+  lebensdauer: 1858-1932
+GUELTIG_AB: 1858
+GUELTIG_BIS: 1932
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/030
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Werber, Friedrich
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1843
+  todesjahr: 1920
+  lebensdauer: 1843-1920
+GUELTIG_AB: 1843
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/031
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Pfaff, Arsenius
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1820
+  todesjahr: 1898
+  lebensdauer: 1820-1898
+GUELTIG_AB: 1820
+GUELTIG_BIS: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/032
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: von Scheffel, Joseph Victor
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1826
+  todesjahr: 1886
+  lebensdauer: 1826-1886
+GUELTIG_AB: 1826
+GUELTIG_BIS: 1886
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 312-radolfzell/033
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Gerwig, Robert
+QUELLE: https://www.radolfzell.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1820
+  todesjahr: 1858
+  lebensdauer: 1820-1858
+GUELTIG_AB: 1820
+GUELTIG_BIS: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95

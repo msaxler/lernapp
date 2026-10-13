@@ -1,0 +1,891 @@
+ID: 291-jettingen-scheppach/001
+ENTITÄT: ort
+BEZEICHNUNG: Jettingen-Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Markt
+  gesamtfläche: 5414 ha
+  gesamtfläche_km2: 54.14
+  gültig_ab: 1970
+  grund_gemeindereform: Zusammenfassung mehrerer Ortsteile in den Jahren 1970-1978
+  erste_erwähnung_elektrifizierung: ca. 1920
+  bedeutende_infrastruktur_bahnstrecke: Augsburg-Ulm (Anfang 1850er Jahre)
+  bedeutende_infrastruktur_autobahn: A8 (Einweihung 9. Dezember 1938)
+  wirtschaft_bis_mitte_20jh: feudal-naturalwirtschaftlich geprägt
+  handwerkszweige: Metzger, Käser, Müller, Wirte, Krämer, Schmiede, Bäcker, Schreiner, Gerber
+  besonderheit_wirtschaft: Torfstich und ausgeprägtes Weberhandwerk
+  weberhandwerk_seit: 17. Jahrhundert belegt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 291-jettingen-scheppach/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Jettingen
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_vermutung: Alemannen Anfang 6. Jahrhundert
+  erste_urkundliche_erwähnung: 1030
+  herrschaftsgeschichte_ursprung: Edlen von Eberstall
+  einwohner_q3_2026: 3913
+  davon_ausländisch: 737
+  davon_deutsche: 3044
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 291-jettingen-scheppach/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Scheppach
+ORTSTEIL_BEZUG: Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1125
+  herrschafts_ursprung: Rittersitz
+  charakterisierung: Vorderösterreichischer Ort (1301)
+  wirtschaft: ausgeprägtes Weberhandwerk
+  einwohner_q3_2026: 1962
+  davon_ausländisch: 259
+  davon_deutsche: 1521
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 291-jettingen-scheppach/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Freihalden
+ORTSTEIL_BEZUG: Freihalden
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1352
+  gründung_zeit: 13. Jahrhundert
+  einwohner_1840: 340
+  einwohner_1852: 536
+  einwohner_1854: 304
+  einwohner_1938: 386
+  einwohner_1947: 732
+  bahnhaltestelle_seit: 1893
+  elektrifizierung: 1925
+  kanalisation: zweite Hälfte 1960er Jahre
+  straßenausbau: zweite Hälfte 1960er Jahre
+  umwandlung: von landwirtschaftlich geprägt zu Pendlergemeinde
+  einwohner_q3_2026: 847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 291-jettingen-scheppach/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ried
+ORTSTEIL_BEZUG: Ried
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1293
+  gründung_zeit: 13. Jahrhundert
+  herrschaftsgeschichte_ursprung: Edlen von Eberstall
+  einwohner_q3_2026: 471
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 291-jettingen-scheppach/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schönenberg
+ORTSTEIL_BEZUG: Schönenberg
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1199
+  herrschaftsgeschichte_ursprung: Kloster Wettenhausen
+  gründung_kloster: 1330
+  einwohner_q3_2026: 186
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 291-jettingen-scheppach/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eberstall
+ORTSTEIL_BEZUG: Eberstall
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaftsgeschichte_ursprung: Edlen von Eberstall
+  einwohner_q3_2026: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 291-jettingen-scheppach/008
+ENTITÄT: mühle
+BEZEICHNUNG: Scheppacher Mühle
+ORTSTEIL_BEZUG: Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1211
+  lage: an der Mindel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 291-jettingen-scheppach/009
+ENTITÄT: fabrik
+BEZEICHNUNG: Zwirnerei und Nähfadenfabrik Göggingen
+ORTSTEIL_BEZUG: Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_betrieb: 1893
+  herkunftsort: Göggingen
+  standort: Scheppacher Mühle an der Mindel
+  benannt_nach: Göggingen
+  grund_ansiedlung: Webertradition in Scheppach
+GUELTIG_BIS: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/010
+ENTITÄT: fabrik
+BEZEICHNUNG: Mechanische Weberei Hildenbrand
+ORTSTEIL_BEZUG: Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  übernahme: 1914
+  herkunftsort: Göppingen
+  spezialisierung: Herstellung von Blautuch, Schuhfutter, Bettdamast, Flanell- und Nachthemden
+  mitarbeiter_1930: 130
+  umwandlung_zweiter_weltkrieg: Rüstungsschmiede für V2-Rohrenproduktion
+  bombardierung: 1945
+  bombardierung_durchgeführt_von: Amerikaner
+  wiederaufbau: nach dem Krieg
+  stilllegung: Mitte 1980er Jahre
+  grund_stilllegung: Konkurs, Strukturkrise deutsche Textilindustrie
+  verlust_berufsstand: Weberhandwerk seit 17. Jahrhundert beendet
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 291-jettingen-scheppach/011
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/jettingen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1475
+  baustil: Gotik
+  modernisierung_architekt: Alexander v. Branca
+  modernisierung: 1966
+  renovierung: 2003
+  dachsanierung: 2015
+  sehenswürdigkeit: Gotischer Chorraum mit Epitaphien derer von Stain (1500)
+  sehenswürdigkeit: Gotische Madonna ca. 1480
+  adresse: Hauptstr. 40, 89343 Jettingen-Scheppach, OT Jettingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/012
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Michaelskapelle
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/jettingen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1766-1769
+  erbaut_zeitraum: 1766 bis 1769
+  architekt: Josef Dossenberger
+  renovierung: 1995
+  sehenswürdigkeit: Fresko von Johann Anwander
+  lage: südöstlich der Pfarrkirche (nahe Herrenstraße)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 291-jettingen-scheppach/013
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Leonhardskapelle
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/jettingen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jh: 15. Jahrhundert
+  renovierung: 1975
+  renovierung: 2004
+  adresse: Weberstr. 28, 89343 Jettingen-Scheppach, OT Jettingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 291-jettingen-scheppach/014
+ENTITÄT: gebäude
+BEZEICHNUNG: Franziskushaus
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/jettingen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1907
+  architekt: Dominikus Böhm
+  erweiterung: 1982-1983
+  funktionen: Pfarr- und Jugendheim, Haus der Begegnung für Jung und Alt, Jugendbegegnungsstätte, Erwachsenenbildungsstätte, Markt- und Pfarrbücherei, Kindertagesstätte St. Martin
+  adresse: Weberstr. 18, 89343 Jettingen-Scheppach, OT Jettingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 291-jettingen-scheppach/015
+ENTITÄT: kindertagesstätte
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/jettingen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: 4-gruppiger Kindergarten mit Kinderkrippe
+  adresse: Krankenhausstraße 6, 89343 Jettingen-Scheppach, OT Jettingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 291-jettingen-scheppach/016
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Peter und Paul
+ORTSTEIL_BEZUG: Ried
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/ried/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1507
+  renovierung_orgel: 1758
+  renovierung_innenraum: 1906
+  renovierung_gesamt: 2014-2015
+  sehenswürdigkeit: Spätgotischer Taufstein mit achteckigem Fuß ca. 1507
+  adresse: Hauptstr. 324, 89343 Jettingen-Scheppach, OT Ried
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/017
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Sebastians-Kapelle
+ORTSTEIL_BEZUG: Ried
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/ried/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ortsverbindungsstraße in Richtung Eberstall
+  adresse: 89343 Jettingen-Scheppach OT Ried
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 291-jettingen-scheppach/018
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Mariä Himmelfahrt
+ORTSTEIL_BEZUG: Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/scheppach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jh: 18. Jahrhundert
+  baustil_gebäude: Barock
+  baustil_innenraum: Rokoko
+  architekt: Josef Dossenberger
+  renovierung_grund: Brand
+  renovierung: 2001-2003
+  sehenswürdigkeit: Gotischer Sattelturm
+  sehenswürdigkeit: Fresken und Altarbilder von Franz Martin Kuen (1770/71)
+  sehenswürdigkeit: Fresken aus 15. Jahrhundert in alten Sakristei
+  adresse: Kirchberg 20, 89343 Jettingen-Scheppach, OT Scheppach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/019
+ENTITÄT: wallfahrtskirche
+BEZEICHNUNG: Allerheiligen
+ORTSTEIL_BEZUG: Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/scheppach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 1395
+  erbaut_jh: 18. Jahrhundert
+  baustil: Rokoko
+  architekt_langhaus: Simpert Kraemer
+  architekt_chor_turm: Josef Dossenberger
+  wallfahrt_seit: 14. Jahrhundert
+  wallfahrt_grund_früher: Bitte um glückliche Niederkunft
+  wallfahrt_grund_heute: Männer- und Friedenswallfahrt
+  sehenswürdigkeit: Decken- und Wandfresken um 1755 (Werke Johann Baptist Enderles)
+  sehenswürdigkeit: Gemälde von Johann Georg Lederer (1738)
+  sehenswürdigkeit: Kruzifix aus Umkreis Gregor Erhart (um 1510/1520)
+  sehenswürdigkeit: Tabernakel von Sebastian Konzmann (1747)
+  sehenswürdigkeit: Spätgotische Pietá
+  sehenswürdigkeit: Kreuzwegstationen (um 1746-48)
+  adresse: Allerheiligenstr. 72, 89343 Jettingen-Scheppach, OT Scheppach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 291-jettingen-scheppach/020
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Mariä Verkündigung
+ORTSTEIL_BEZUG: Freihalden
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/freihalden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1929
+  architekt: Prof. Dominikus Böhm
+  altarraum_neugestaltung: 1968
+  altarraum_gestalter: Freiherr von Branca
+  renovierung: 2013-2014
+  sehenswürdigkeit: Schutzmantelmadonna-Fresko (Theo Landmann, Danziger Künstler)
+  sehenswürdigkeit: Bleiverglafte Fenster
+  sehenswürdigkeit: Marienkapelle auf Friedhofsgelände
+  adresse: Obere Dorfstr. 29, 89343 Jettingen-Scheppach, OT Freihalden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/021
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Leonhard
+ORTSTEIL_BEZUG: Schönenberg
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/schoenenberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1776
+  architekt: Josef Dossenberger
+  renovierung: 1993-1995
+  sehenswürdigkeit: Deckenfresko von Konrad Huber (1776)
+  adresse: Leonhardsweg 1, 89343 Jettingen-Scheppach, OT Schönenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/022
+ENTITÄT: gemeindezentrum
+BEZEICHNUNG: Philipp-Melanchthon-Haus
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/kirchen/evangelische-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 2003-2005
+  konfession: Evangelisch-lutherisch
+  adresse: Messerschmittstraße 39, 89343 Jettingen-Scheppach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 291-jettingen-scheppach/023
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Hebsack-Eiche
+ORTSTEIL_BEZUG: Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hebsack bei Jettingen-Scheppach, oberhalb Wallfahrtskirche Allerheiligen
+  alter_ca: 375 Jahre
+  alter_bei_dreissigjähriger_krieg: keimte am Ende des 30-jährigen Krieges
+  historischer_kontext: Gebiet gehörte damals zu Vorderösterreich
+  historischer_kontext: Niederländischer Postkurs von Brüssel nach Trient verlief an Eiche vorbei
+  historischer_kontext: Poststation in Scheppach
+  historischer_kontext: Wurde bayerisch nach Napoleons Siegen über Habsburger
+  historischer_kontext: Erlebte Bau der Bahnstrecke Augsburg-Ulm im Alter von ca. 200 Jahren
+  historischer_kontext: Waldgemeinschaft Scheppach 1882
+  historischer_kontext: Gründung Naturpark Augsburg – Westliche Wälder 1974
+  infotafel_seit: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 291-jettingen-scheppach/024
+ENTITÄT: tierbestand
+BEZEICHNUNG: Storchenpaar
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Weißstorch
+  standort: Rathaus Jettingen
+  bruttätigkeit: jährlich
+  nest_seit: seit jeher
+  webcam_seit: April 2014
+  überwinterung_männchen: seit einigen Jahren
+  überwinterung_weibchen: seit einigen Jahren
+  jungstörche_zugverhalten: Herbst-Migration gen Süden
+  besonderheit: Männchen vermutlich aus Storchenaufzuchtstation, verlor Reisetrieb
+  fütterung_bei_nahrungsmangel: von Bauhofmitarbeitern mit Fleisch und Leckereien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 291-jettingen-scheppach/025
+ENTITÄT: naturpark
+BEZEICHNUNG: Augsburg – Westliche Wälder
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_jettingen: Jettingen-Scheppach liegt am Eingang
+  gründung: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 291-jettingen-scheppach/026
+ENTITÄT: lehrpfad
+BEZEICHNUNG: Arboretum Freihalden
+ORTSTEIL_BEZUG: Freihalden
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Wald- und Baumlehrpfad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 291-jettingen-scheppach/027
+ENTITÄT: lehrpfad
+BEZEICHNUNG: Torferlebnispfad
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Torf
+  schutzgebiet_verbunden: Landschaftsschutzgebiet Bremental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 291-jettingen-scheppach/028
+ENTITÄT: flächennutzung
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gesamtfläche_ha: 5414
+  gesamtfläche_km2: 54.14
+  siedlungsflächen_ha: 477
+  siedlungsflächen_prozent: 8.8
+  wohnbauflächen_ha: 174
+  wohnbauflächen_prozent: 3.2
+  industrie_gewerbeflächen_ha: 111
+  industrie_gewerbeflächen_prozent: 2.1
+  verkehrsflächen_ha: 376
+  verkehrsflächen_prozent: 6.9
+  vegetationsflächen_ha: 4494
+  vegetationsflächen_prozent: 83.0
+  landwirtschaft_ha: 2227
+  landwirtschaft_prozent: 41.1
+  wald_ha: 2049
+  wald_prozent: 37.9
+  gewässer_ha: 67
+  gewässer_prozent: 1.2
+  gültig_ab: 31.12.2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 291-jettingen-scheppach/029
+ENTITÄT: gemarkung
+BEZEICHNUNG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche_ha: 1487
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/030
+ENTITÄT: gemarkung
+BEZEICHNUNG: Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche_ha: 2445
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/031
+ENTITÄT: gemarkung
+BEZEICHNUNG: Freihalden
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche_ha: 523
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/032
+ENTITÄT: gemarkung
+BEZEICHNUNG: Ried
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche_ha: 387
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/033
+ENTITÄT: gemarkung
+BEZEICHNUNG: Schönenberg
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche_ha: 572
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/034
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnstrecke Stuttgart-München/Ulm-Augsburg
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stationen: Bahnhof Jettingen
+  haltepunkte: Haltepunkt Freihalden
+  bauzeit: Anfang 1850er Jahre
+  inbetriebnahme: 1. Oktober 1854
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/035
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn A8
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  route: München-Stuttgart
+  eu_bezeichnung: E52
+  anschlussstelle: 69 Burgau
+  bauzeit: 1930er Jahre
+  einweihung: 9. Dezember 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 291-jettingen-scheppach/036
+ENTITÄT: höhenangabe
+BEZEICHNUNG: Bahnhof Jettingen
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe_m_ü_nn: 472
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 291-jettingen-scheppach/037
+ENTITÄT: höhenangabe
+BEZEICHNUNG: Pfarrkirche Jettingen
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe_m_ü_nn: 470
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 291-jettingen-scheppach/038
+ENTITÄT: höhenangabe
+BEZEICHNUNG: Pfarrkirche Scheppach
+ORTSTEIL_BEZUG: Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe_m_ü_nn: 487
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 291-jettingen-scheppach/039
+ENTITÄT: höhenangabe
+BEZEICHNUNG: Pfarrkirche Freihalden
+ORTSTEIL_BEZUG: Freihalden
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe_m_ü_nn: 503
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 291-jettingen-scheppach/040
+ENTITÄT: höhenangabe
+BEZEICHNUNG: Pfarrkirche Ried
+ORTSTEIL_BEZUG: Ried
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe_m_ü_nn: 485
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 291-jettingen-scheppach/041
+ENTITÄT: höhenangabe
+BEZEICHNUNG: Pfarrkirche Schönenberg
+ORTSTEIL_BEZUG: Schönenberg
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe_m_ü_nn: 530
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 291-jettingen-scheppach/042
+ENTITÄT: höhenangabe
+BEZEICHNUNG: Kirche Eberstall
+ORTSTEIL_BEZUG: Eberstall
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe_m_ü_nn: 502
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 291-jettingen-scheppach/043
+ENTITÄT: höhenangabe
+BEZEICHNUNG: Wallfahrtskirche Allerheiligen
+ORTSTEIL_BEZUG: Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe_m_ü_nn: 511
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 291-jettingen-scheppach/044
+ENTITÄT: höhenangabe
+BEZEICHNUNG: Höchster Punkt
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ettenbeurer Wald
+  höhe_m_ü_nn: 539
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 291-jettingen-scheppach/045
+ENTITÄT: bevölkerungsstatistik
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/einwohnerzahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_gesamt_q3_2026: 7438
+  einwohner_gesamt_12_2025: 7160
+  einwohner_deutsche_q3_2026: 5986
+  einwohner_ausländisch_q3_2026: 1077
+  einwohner_gesamt_12_2024: 7187
+  einwohner_gesamt_12_2023: 7618
+  einwohner_gesamt_12_2022: 7638
+  einwohner_gesamt_12_2021: 7636
+  einwohner_gesamt_12_2020: 7553
+  einwohner_gesamt_12_2019: 7498
+  einwohner_gesamt_12_2018: 7388
+  einwohner_gesamt_12_2017: 7420
+  einwohner_gesamt_12_2016: 7362
+  einwohner_gesamt_12_2015: 7363
+  einwohner_gesamt_12_2014: 7274
+  einwohner_gesamt_12_2013: 7178
+  einwohner_gesamt_12_2012: 7188
+  einwohner_gesamt_12_2011: 7101
+  einwohner_gesamt_12_2010: 7111
+  einwohner_gesamt_12_2009: 6984
+  einwohner_gesamt_12_2008: 7039
+  einwohner_gesamt_12_2007: 7093
+  einwohner_gesamt_12_2006: 7039
+  einwohner_gesamt_12_2005: 7049
+  einwohner_gesamt_12_2004: 7076
+  einwohner_gesamt_12_2003: 7125
+  einwohner_gesamt_12_2002: 7100
+  einwohner_gesamt_12_2001: 7049
+  einwohner_gesamt_12_2000: 6987
+  einwohner_gesamt_12_1999: 6876
+  einwohner_gesamt_12_1998: 6779
+  einwohner_gesamt_12_1997: 6757
+  einwohner_gesamt_12_1996: 6749
+  einwohner_gesamt_12_1995: 6775
+  einwohner_gesamt_12_1991: 6125
+  einwohner_gesamt_05_1987: 5744
+  einwohner_gesamt_12_1981: 5754
+  einwohner_gesamt_05_1970: 5746
+  einwohner_gesamt_06_1961: 5333
+  einwohner_gesamt_09_1950: 5522
+  einwohner_gesamt_05_1939: 3345
+  einwohner_gesamt_06_1925: 3526
+  einwohner_gesamt_12_1900: 3328
+  einwohner_gesamt_12_1871: 3186
+  einwohner_gesamt_12_1840: 3577
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 291-jettingen-scheppach/046
+ENTITÄT: trinkwasserqualität
+BEZEICHNUNG: Jettingen und Scheppach
+ORTSTEIL_BEZUG: Jettingen, Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/statistiken-und-mehr/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  untersuchung_datum: 29.08.2024
+  arsen_mg_l: <0.0005
+  blei_mg_l: <0.001
+  cadmium_mg_l: <0.0003
+  chrom_mg_l: <0.0005
+  cyanid_mg_l: <0.005
+  fluorid_mg_l: 0.083
+  natrium_mg_l: 16.3
+  nickel_mg_l: <0.002
+  nitrat_mg_l: 10.7
+  nitrit_mg_l: <0.01
+  calcium_mg_l: 82.6
+  magnesium_mg_l: 26.2
+  eisen_mg_l: <0.01
+  gesamthärte_mmol_l: 3.14
+  gesamthärte_dh: 17.6
+  härtebereich: hart
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 291-jettingen-scheppach/047
+ENTITÄT: trinkwasserqualität
+BEZEICHNUNG: Freihalden
+ORTSTEIL_BEZUG: Freihalden
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/statistiken-und-mehr/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  untersuchung_datum: 29.08.2024
+  arsen_mg_l: 0.0022
+  blei_mg_l: <0.001
+  cadmium_mg_l: <0.0003
+  chrom_mg_l: <0.0005
+  cyanid_mg_l: <0.005
+  fluorid_mg_l: 0.103
+  natrium_mg_l: 4.4
+  nickel_mg_l: <0.002
+  nitrat_mg_l: <0.5
+  nitrit_mg_l: 0.01
+  calcium_mg_l: 54.3
+  magnesium_mg_l: 17.4
+  eisen_mg_l: <0.01
+  gesamthärte_mmol_l: 2.07
+  gesamthärte_dh: 11.6
+  härtebereich: mittel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 291-jettingen-scheppach/048
+ENTITÄT: trinkwasserqualität
+BEZEICHNUNG: Schönenberg
+ORTSTEIL_BEZUG: Schönenberg
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/statistiken-und-mehr/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  untersuchung_datum: 29.08.2024
+  arsen_mg_l: <0.0005
+  blei_mg_l: <0.001
+  cadmium_mg_l: <0.0003
+  chrom_mg_l: <0.0005
+  cyanid_mg_l: <0.005
+  fluorid_mg_l: 0.088
+  natrium_mg_l: 9.8
+  nickel_mg_l: <0.002
+  nitrat_mg_l: 18.3
+  nitrit_mg_l: 0.01
+  calcium_mg_l: 97.0
+  magnesium_mg_l: 23.8
+  eisen_mg_l: <0.01
+  gesamthärte_mmol_l: 3.4
+  härtebereich: hart
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 291-jettingen-scheppach/049
+ENTITÄT: trinkwasserqualität
+BEZEICHNUNG: Ried und Eberstall
+ORTSTEIL_BEZUG: Ried, Eberstall
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/statistiken-und-mehr/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  untersuchung_datum: 26.06.2022
+  arsen_mg_l: 0.0013
+  blei_mg_l: <0.001
+  cadmium_mg_l: <0.0003
+  chrom_mg_l: <0.0005
+  cyanid_mg_l: <0.005
+  fluorid_mg_l: 0.118
+  natrium_mg_l: 3.4
+  nickel_mg_l: 0.002
+  nitrat_mg_l: <0.5
+  nitrit_mg_l: <0.01
+  calcium_mg_l: 73.6
+  magnesium_mg_l: 22.4
+  eisen_mg_l: <0.01
+  gesamthärte_mmol_l: 2.76
+  härtebereich: hart
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 291-jettingen-scheppach/050
+ENTITÄT: wohngebäude_statistik
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/zahlen-daten-fakten/groesse-nutzung-der-flaechen-etc/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wohngebäude_2023: 2238
+  wohngebäude_2020: 2206
+  wohngebäude_2010: 2114
+  wohngebäude_2000: 1962
+  wohngebäude_1990: 1615
+  wohnungen_2023: 3254
+  wohnungen_2020: 3202
+  wohnungen_2010: 3031
+  wohnungen_2000: 2838
+  wohnungen_1990: 2168
+  wohnfläche_qm_2023: 368996
+  wohnfläche_qm_2020: 362213
+  wohnfläche_qm_2010: 321394
+  wohnfläche_qm_2000: 295267
+  wohnfläche_qm_1990: 225388
+  durchschnittliche_wohnfläche_2023: 113.4
+  durchschnittliche_wohnfläche_2020: 113.1
+  durchschnittliche_wohnfläche_2010: 106
+  durchschnittliche_wohnfläche_2000: 104.0
+  durchschnittliche_wohnfläche_1990: 104.0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 291-jettingen-scheppach/051
+ENTITÄT: schloss
+BEZEICHNUNG: Eberstall
+ORTSTEIL_BEZUG: Eberstall
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitz: Privatbesitz
+  eigenschaft: Historisches Gebäude
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 291-jettingen-scheppach/052
+ENTITÄT: schloss
+BEZEICHNUNG: Jettingen
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühere_bezeichnung: Stauffenberg-Schloss
+  besitz: Privatbesitz
+  eigenschaft: Historisches Gebäude
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 291-jettingen-scheppach/053
+ENTITÄT: schloss
+BEZEICHNUNG: Klingenburg
+ORTSTEIL_BEZUG: unbekannt
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitz: Privatbesitz
+  eigenschaft: Historisches Gebäude
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 291-jettingen-scheppach/054
+ENTITÄT: gedenkstätte
+BEZEICHNUNG: Gruftkapelle der Familie Graf von Stauffenberg
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Friedhof Jettingen
+  eigenschaft: Historisches Baudenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 291-jettingen-scheppach/055
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Kreuzwegstationen
+ORTSTEIL_BEZUG: Scheppach
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Allerheiligenberg
+  erstellung: um 1746-48
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 291-jettingen-scheppach/056
+ENTITÄT: kapelle
+BEZEICHNUNG: Blutskapelle
+ORTSTEIL_BEZUG: Jettingen
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Pfarrkirche Jettingen
+  eigenschaft: Historisches Baudenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 291-jettingen-scheppach/057
+ENTITÄT: buch
+BEZEICHNUNG: Vogelwelt im Mindeltal
+QUELLE: https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autor: Stefan Böhm
+  thema: Vogelarten im Mindeltal
+  inhalt: Beschreibung von Vogelarten in ihren Lebensräumen rund um Mindelstausee und Bremental
+  vertrieb: Schreibwarengeschäft Böck, Hauptstr. 36, 89343 Jettingen-Scheppach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 291-jettingen-scheppach/058
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Jettingen (1491-1970)
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/wappen-und-logo/ehem-wappen-jettingen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In Silber eine schwarze Wolfsangel
+  herkunft: Wappen der Ritter von Stain (drei schwarze Wolfsangeln)
+  erste_siegel: 1518
+  zweites_siegel: 1637
+  datierung_marktwappen: 1491
+  tingierung: schwarz in Silber (1811)
+  gültig_bis: 1970
+GUELTIG_AB: 1491
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 291-jettingen-scheppach/059
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Jettingen (1836-1970)
+QUELLE: https://www.jettingen-scheppach.de/content/jettingen-scheppach/wappen-und-logo/ehem-wappen-jettingen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Geteilt von Blau und Silber; oben goldene Großbuchstaben 'Iettingen'; unten zwei pflügende Bauern mit rotem Pflug vor goldenem Ährenfeld
+  inhalt: Darstellung der Sage der Burkhardts (letzte überlebende Bewohner des zerstörten Ortes nach 30-jährigem Krieg)
+  verleihung: König Ludwig I. von Bayern am 24.04.1836
+  siegel_fertigung_erstmaliges: 1931 (irrtümlich)
+  siegel_verwendung_1931_1940: 1931-1940
+  siegel_verwendung_1940_1972: 1940-1972
+  wappenzeichnung_künstler: Jettinger Malermeister Hartmann (1933)
+  ablösung: 1972 durch neues Marktwappen
+GUELTIG_AB: 1836
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90

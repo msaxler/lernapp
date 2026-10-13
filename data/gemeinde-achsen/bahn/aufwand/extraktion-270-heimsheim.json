@@ -1,0 +1,50 @@
+{
+ "stufe": "extraktion",
+ "ort": "270-heimsheim",
+ "prompt": "prompt-stufe1-v0.6.txt",
+ "modell_wunsch": "haiku",
+ "modelle": [
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 36771,
+ "token_ein": 27623,
+ "token_aus": 19932,
+ "usage": {
+  "input_tokens": 9,
+  "cache_creation_input_tokens": 20486,
+  "cache_read_input_tokens": 7128,
+  "output_tokens": 19932,
+  "output_tokens_details": {
+   "thinking_tokens": 11565
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 20486,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 9,
+    "output_tokens": 19932,
+    "cache_read_input_tokens": 7128,
+    "cache_creation_input_tokens": 20486,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 20486
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.1413538,
+ "sekunden": 153,
+ "fehler": false,
+ "zeit": "2026-10-13T21:11:16"
+}

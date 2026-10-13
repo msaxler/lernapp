@@ -1,0 +1,499 @@
+ID: 302-adelzhausen/001
+ENTITÄT: ort
+BEZEICHNUNG: Adelzhausen
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ältester_urkundlich_belegter_ort_im: Landkreis Aichach-Friedberg
+  erstmalige_erwähnung: 782
+  gründer: Adalhelm
+  namensherkunft: Der Ortsgründer Adalhelm schenkte seinen Besitz nebst Kirche dem Bistum Freising
+  einwohner: 1750
+  genauigkeit_einwohner: ca.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/002
+ENTITÄT: ort
+BEZEICHNUNG: Adelzhausen
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Aichach-Friedberg
+  verwaltungsgemeinschaft: Dasing
+  höhe: 489 [m ü. NHN]
+  fläche: 16.96 [km²]
+  einwohner: 1866
+  bevölkerungsdichte: 104 [Einwohner je km²]
+  postleitzahl: 86559
+  kfz_kennzeichen: AIC, FDB
+  gemeindeschlüssel: 09 7 71 111
+  vorwahlen: 08258, 08208
+  gemeindegliederung: 12 [Ortsteile]
+  verwaltungsadresse: Kirchstraße 7, 86453 Dasing
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 302-adelzhausen/003
+ENTITÄT: ort
+BEZEICHNUNG: Adelzhausen
+QUELLE: https://de.wikipedia.org/wiki/Adelzhausen | Wikipedia
+EIGENSCHAFTEN:
+  region: östlicher Teil des Landkreises Aichach-Friedberg
+  gewässer: Ecknach
+  entfernung_augsburg: ca. 15 [km östlich]
+  lage: Region Augsburg
+  mitglied_verwaltungsgemeinschaft: Dasing
+  einwohner_1961: 853
+  einwohner_1970: 862
+  einwohner_1987: 1084
+  einwohner_1991: 1173
+  einwohner_1995: 1257
+  einwohner_2000: 1431
+  einwohner_2005: 1535
+  einwohner_2010: 1608
+  einwohner_2015: 1680
+  einwohner_2019: 1726
+  wachstum_1988_2019: 609 [Personen]
+  wachstum_prozentual_1988_2019: 54.5 [%]
+  superlativ: Nach Mering der stärkste prozentuale Zuwachs einer Gemeinde im Landkreis (1988-2019)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 302-adelzhausen/004
+ENTITÄT: person
+BEZEICHNUNG: Adalhelm
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Ortsgründer
+  handlung: schenkte Besitz nebst Kirche (Adalhelmshusir) dem Bistum Freising
+  handlung_jahr: 782
+GUELTIG_AB: 782
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 302-adelzhausen/005
+ENTITÄT: person
+BEZEICHNUNG: Johannes Treffler
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 302-adelzhausen/006
+ENTITÄT: person
+BEZEICHNUNG: Lorenz Braun
+QUELLE: https://de.wikipedia.org/wiki/Adelzhausen | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  partei: Parteilose Wählergemeinschaft
+  amtsbeginn: Mai 2008
+  wiederwahl: 15. März 2020 für weitere 6 Jahre
+GUELTIG_AB: 2008
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 302-adelzhausen/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Elisabeth
+ORTSTEIL_BEZUG: Adelzhausen
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_historisch: nördlicher Ortsrand auf einer kleinen Anhöhe
+  standzeit: 1200 [Jahre]
+  besonderheit: burgartiger Eindruck
+  beschreibung: Pfarrkirche, 1200 Jahre lang am nördlichen Ortsrand, dann durch Wohnbauten und Schule in den Mittelpunkt des Dorfes gerückt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius
+ORTSTEIL_BEZUG: Heretshausen
+QUELLE: https://www.adelzhausen.de/leben-erleben/kirchen-und-soziales/kirchen-und-kapellen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kirche
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/009
+ENTITÄT: kirche
+BEZEICHNUNG: St. Leonhard
+ORTSTEIL_BEZUG: Heretshausen
+QUELLE: https://www.adelzhausen.de/leben-erleben/kirchen-und-soziales/kirchen-und-kapellen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Sebastian
+ORTSTEIL_BEZUG: Landmannsdorf
+QUELLE: https://www.adelzhausen.de/leben-erleben/kirchen-und-soziales/kirchen-und-kapellen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/011
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Salvator
+ORTSTEIL_BEZUG: Adelzhausen
+QUELLE: https://www.adelzhausen.de/leben-erleben/kirchen-und-soziales/kirchen-und-kapellen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kapelle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/012
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Nepomuk
+ORTSTEIL_BEZUG: Burgadelzhausen
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heiliger: Heiliger Nepomuk
+  übergang_zur_gemeinde: 1976
+  grund_übergang: Gemeindegebietsreform
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/013
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Johannes Gualbertus
+ORTSTEIL_BEZUG: Weinsbach
+QUELLE: https://www.adelzhausen.de/leben-erleben/kirchen-und-soziales/kirchen-und-kapellen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kapelle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/014
+ENTITÄT: befestigung
+BEZEICHNUNG: Adelzhauser Burgstall
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Ministerialburg
+  erbauer: die Adelzhauser (niedriges Adelsgeschlecht)
+  bauzeit: 1300
+  genauigkeit_bauzeit: vermutlich
+  besonderheit: typisches Beispiel für den Rest einer Ministerialburg
+  beschreibung: Rest einer Ministerialburg, von denen es in der nahen Umgebung noch einige gibt
+  erhaltungszustand: heute nichts mehr zu sehen
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 302-adelzhausen/015
+ENTITÄT: befestigung
+BEZEICHNUNG: Burgstall Bäckerberg
+QUELLE: https://de.wikipedia.org/wiki/Adelzhausen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Bodendenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 302-adelzhausen/016
+ENTITÄT: adelsfamilie
+BEZEICHNUNG: Herren von Adelzhausen
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1210
+  status: Ministerialen der Pfalzgrafen, später der Herzöge von Bayern
+  vermögen: reich begütert
+  aussterben: 1635
+  aussterben_grund: Aussterben im Mannesstamm
+  wappenbestandteil: silberner Adler mit goldenem Schnabel
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/017
+ENTITÄT: adelsfamilie
+BEZEICHNUNG: die Adelzhauser
+QUELLE: https://de.wikipedia.org/wiki/Adelzhausen | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwähnung_jahr: 1350
+  erste_erwähnung_kontext: Urkunde des Klosters St. Ulrich und Afra in Augsburg nennt die Brüder Heinrich, Reimbot und Palmer
+  gerichtsbarkeit_beginn: begann Gericht über das Dorf Adelzhausen auszuüben
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 302-adelzhausen/018
+ENTITÄT: adelsfamilie
+BEZEICHNUNG: Familie Eisenreich
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 15.-16. Jahrhundert
+  grundbesitz: reicher Grundbesitz im Gemeindegebiet
+  wappenbestandteil: Mühleisen
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 302-adelzhausen/019
+ENTITÄT: siedlung
+BEZEICHNUNG: Sedelhof
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Hof
+  entstehung: 700
+  genauigkeit_entstehung: ca.
+  lage_ursprünglich: vermutlich bei der Kirche
+  bedeutung: der heutige Ort Adelzhausen geht auf diesen Hof zurück
+GUELTIG_AB: 700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 302-adelzhausen/020
+ENTITÄT: straße
+BEZEICHNUNG: Ochsenstraße
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auch_bekannt_als: Römerstraße, Salzstraße
+  verlauf: Augsburg – Freising – Reichenhall bis in den Orient
+  funktion_historisch: wichtige Straße, die von Adelzhausen und Heretshausen beschützt werden musste
+  funktion_handelsroute: Handelsroute
+  ochsentrift_volumen: bis zu 7000 ungarische Schlachtochsen pro Jahr
+  ochsentrift_distanz: bis zu 1000 [Kilometer]
+  ochsentrift_herkunft: Ungarn
+  ochsentrift_ziel: Augsburg
+  warencharakter: ungarische Schlachtochsen galten als Delikatesse
+  ochsentrift_ende: um 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/021
+ENTITÄT: wanderweg
+BEZEICHNUNG: Altbaierischer Oxenweg
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge: 25 [Kilometer]
+  länge_genauigkeit: ca.
+  länge_bereich: Landkreis Aichach-Friedberg
+  ursprung: historische Handelsroute von Ungarn nach Augsburg
+  verlauf_orte: Augsburg - Friedberg - Heimatshausen - Paar - Harthausen - Heimat - Malzhausen - Zieglbach - Adelzhausen - Heretshausen - Tödtenried - Kiemertshofen
+  markierung: mit Signet Altbaierischer Oxenweg (grüner stilisierter Ochse mit angedeutetem Weg)
+  informationstafeln: ja
+  wiederbelebung_jahr: 2009
+  wiederbelebung_akteure: Leader-Aktionsgruppen aus Deutschland, Österreich und Ungarn
+  auszeichnung: Best Practice Project in Brüssel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/022
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heretshausen
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_historisch: musste wichtige Straße von Augsburg nach Freising beschützen
+  eingemeindung: 1. April 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/023
+ENTITÄT: ortsteil
+BEZEICHNUNG: Burgadelzhausen
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschiche-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1. Juli 1976 (Gebietsteile)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/024
+ENTITÄT: ortsteil
+BEZEICHNUNG: Irschenhofen
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Dorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 302-adelzhausen/025
+ENTITÄT: ortsteil
+BEZEICHNUNG: Landmannsdorf
+QUELLE: https://de.wikipedia.org/wiki/Adelzhausen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kirchdorf
+  römerzeit: Ziegelei (archäologischer Befund)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/026
+ENTITÄT: ortsteil
+BEZEICHNUNG: Michelau
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Weiler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 302-adelzhausen/027
+ENTITÄT: ortsteil
+BEZEICHNUNG: Tremmel
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Weiler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 302-adelzhausen/028
+ENTITÄT: ortsteil
+BEZEICHNUNG: Weinsbach
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Einöde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 302-adelzhausen/029
+ENTITÄT: ortsteil
+BEZEICHNUNG: Haunsried
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Einöde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 302-adelzhausen/030
+ENTITÄT: ortsteil
+BEZEICHNUNG: Brandbauer
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Einöde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 302-adelzhausen/031
+ENTITÄT: ortsteil
+BEZEICHNUNG: Brandfischer
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Einöde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 302-adelzhausen/032
+ENTITÄT: ortsteil
+BEZEICHNUNG: Holzschuster
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Einöde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 302-adelzhausen/033
+ENTITÄT: schule
+BEZEICHNUNG: Volksschule / Grundschule
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1795
+  schulhauseinweihung: 1965
+  schulreform_integration: 1969
+  schulgliederung_ab_1969: Grundschule für die Gemeinden Adelzhausen und Sielenbach
+  schüler: 203 (2023/24)
+  lehrer: 11 (2023/24)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/034
+ENTITÄT: einrichtung
+BEZEICHNUNG: Haus für Kinder
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kindergartengruppen: 2
+  kinderkrippe: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 302-adelzhausen/035
+ENTITÄT: gebäude
+BEZEICHNUNG: Bürgerhaus
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: modern
+  nutzer: Gemeindeverwaltung, Feuerwehr, Pfarrsaal, Jugend- und Mehrzweckräume
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 302-adelzhausen/036
+ENTITÄT: gebäude
+BEZEICHNUNG: Sporthalle
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 2002
+  lage: Schulgelände
+  nutzer: Schule und Vereine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/037
+ENTITÄT: anlage
+BEZEICHNUNG: Sportanlage
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/rundgang-durch-die-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: Vereinsheim, Spielfelder, Tennisplätze, Asphaltstockbahnen, Kinderspielplatz
+  funktion: Bereicherung des Freizeitangebots
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/038
+ENTITÄT: wappen
+DESIGNIERUNG: Gemeindewappen Adelzhausen
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: In Rot über einem waagrecht gelegten silbernen Mühleisen ein halber silberner Adler mit goldenem Schnabel
+  bedeutung: bezieht sich auf zwei Adelsgeschlechter, die in Adelzhausen ansässig waren und für den Ort von großer Bedeutung waren
+  adler_herkunft: Wappen der Herren von Adelzhausen (erste urkundliche Erwähnung um 1210)
+  mühleisen_herkunft: Wappen der Familie Eisenreich (15. und 16. Jahrhundert)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 302-adelzhausen/039
+ENTITÄT: verwaltungsgemeinschaft
+DESIGNIERUNG: Verwaltungsgemeinschaft Dasing
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mitgliedsgemeinde: Adelzhausen
+  adresse: Kirchstraße 7, 86453 Dasing
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/040
+ENTITÄT: landkreis
+DESIGNIERUNG: Aichach-Friedberg
+QUELLE: https://www.adelzhausen.de/unsere-gemeinde/kennenlernen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mitgliedsgemeinde: Adelzhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/041
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Adelzhausen | Wikipedia
+EIGENSCHAFTEN:
+  zusammensetzung: Erster Bürgermeister + 12 Gemeinderatsmitglieder
+  sitze_pwg_2026: 11 [Stimmenanteil: 88,3 %]
+  sitze_afd_2026: 1 [Stimmenanteil: 11,7 %]
+  wahlbeteiligung_2026: 74.9 [%]
+  wahlbeteiligung_2020: 62.3 [%]
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 302-adelzhausen/042
+ENTITÄT: ereignis
+BEZEICHNUNG: Gemeindegebietsreform
+QUELLE: https://de.wikipedia.org/wiki/Adelzhausen | Wikipedia
+EIGENSCHAFTEN:
+  year: 1972
+  eingemeindung: Heretshausen am 1. April 1972
+  eingemeindung_2: Gebietsteile der Gemeinde Burgadelzhausen am 1. Juli 1976
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95

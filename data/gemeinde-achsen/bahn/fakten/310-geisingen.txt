@@ -1,0 +1,364 @@
+ID: 310-geisingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmals_urkundlich_erwähnt_jahr: 764
+  urkundliche_erwähnung_quelle: Schenkungsurkunde des Klosters Sankt Gallen
+  siedlungstyp: alemannische Siedlung
+  rang_alter_in_region: einer der ältesten Orte der Baar
+  öffentlicher_gerichtsplatz_ab_jahr: 829
+  stadtgründung_jahre_vermutlich: 1280-1300
+  gründer: Herren von Wartenberg
+  erste_urkundliche_stadternennnung_jahr: 1329
+  beherrscher_ab_1321: Grafen von Fürstenberg
+  grund_übergabe_fürstenberg: Aussterben der Wartenberger
+  befestigung_mit_türmen_und_mauern_ab: Mitte 14. Jahrhundert
+  befestigter_mittelpunkt: wirtschaftlicher Mittelpunkt der Ostbaar
+  lage_verkehrlich: Schnittpunkt alter und wichtiger Straßen
+GUELTIG_AB: 764
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 310-geisingen/002
+ENTITÄT: brand_ereignis
+BEZEICHNUNG: Brandkatastrophe Geisingen 1487
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1487
+  ausmass: Geisingen weitgehend zerstört
+  sage_erloeschung: Nach der Sage trugen die Geisinger die Agathafigur aus der Kirche in die Hauptstraße; daraufhin erlosch das Feuer
+  sage_zuverlässigkeit: vermutlich
+GUELTIG_AB: 1487
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 310-geisingen/003
+ENTITÄT: herrschaftssitz
+BEZEICHNUNG: Regierungssitz Fürstenberg Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_jahre: 3 Jahrzehnte im 16. Jahrhundert
+  historischer_kontext: Epoche zwischen Bauernkrieg und Dreißigjährigem Krieg
+  entwicklung: Städtchen in höchster Blüte, zahlreiche Handwerker niedergelassen
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1530
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 310-geisingen/004
+ENTITÄT: jahrmarkt
+BESCHREIBUNG: 2. Jahrmarkt Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ordinal: zweiter
+  zeitpunkt_against_ende_16jh: Ende 16. Jahrhundert
+GUELTIG_AB: 1590
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 310-geisingen/005
+ENTITÄT: bauwerk
+BEZEICHNUNG: Kaufhaus Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr_ca: 1580
+GUELTIG_AB: 1580
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 310-geisingen/006
+ENTITÄT: ort
+BEZEICHNUNG: Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dreißigjähriger_krieg_auswirkungen: schwere Heimsuchungen, Truppendurchzüge, Kriegslasten
+  eroberung_schweden_jahr: 1632
+  folgen_eroberung_schweden: Ausplünderung
+  pest_auswirkung: Großteil der Bevölkerung fiel der Pest zum Opfer
+  französische_revolutionskriege_folgen: unsagbares Elend
+  napoleonische_kriege_folgen: unsagbares Elend
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1809
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 310-geisingen/007
+ENTITÄT: ort
+BEZEICHNUNG: Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  großherzogtum_baden_anschluss_jahr: 1806
+  grund_anschluss_baden: Machtanspruch Napoleons, Entstehung Großherzogtum Baden
+  hungersnot_ausmass: furchtbar
+  hungersnot_jahre: Anfang 19. Jahrhundert
+  hungersnot_folge: Auswanderungen in Donauländer und Amerika
+  industrialisierung_ab_mitte_19_jh: wirtschaftliche Lage verbessert sich durch Ansiedlung von Industrie
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1870
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 310-geisingen/008
+ENTITÄT: ort
+BEZEICHNUNG: Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtrechte_entzug_jahr: 1921
+  grund_stadtrechte_entzug: Badische Gemeindeordnung
+  stadtrechte_dauer_jahre: über 600
+  stadtrechtsverlust_grund_zeitlich: nach Ersten Weltkrieg
+  stadt_bezeichnung_wiedererlaubnis_jahr: 1956
+  behoerde_wiedererlaubnis: Land Baden-Württemberg
+  grund_wiedererlaubnis: Aufwärtsentwicklung nach Zweitem Weltkrieg auf wirtschaftlichem, kulturellem und städtebaulichem Gebiet
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 310-geisingen/009
+ENTITÄT: ort
+BEZEICHNUNG: Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis_zugehörigkeit_ab_jahr: 1973
+  landkreis_name: Tuttlingen
+  eingemeindet_orte_1972: Gutmadingen, Kirchen-Hausen
+  eingemeindet_orte_1974: Aulfingen, Leipferdingen
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 310-geisingen/010
+ENTITÄT: ort
+BEZEICHNUNG: Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/Daten-und-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl_gesamt: 6.242
+  einwohnerzahl_hauptort: 3.081
+  bundesland: Baden-Württemberg
+  region: Schwarzwald-Baar-Heuberg
+  landkreis: Tuttlingen
+  gemarkungsfläche_gesamt_ha: 7.374
+  gemarkungsfläche_hauptort_ha: 2.163
+  waldfläche_ha: 3.551
+  landwirtschaftliche_fläche_ha: 3.019
+  grundsteuer_a_satz: 220 v.H.
+  grundsteuer_b_satz: 350 v.H.
+  gewerbesteuer_satz: 340 v.H.
+  wassergebühr_euro_m3: 2,83
+  abwassergebühr_schmutzwasser_euro_m3: 3,20
+  abwassergebühr_niederschlagswasser_euro_m3: 0,59
+  hundesteuer_ersthund_jaehrlich_euro: 120
+  hundesteuer_zweithund_jaehrlich_euro: 260
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 310-geisingen/011
+ENTITÄT: wasserversorgung
+BESCHREIBUNG: Trinkwasser Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/Daten-und-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anbieter: Zweckverband Wasserversorgung Unteres Aitrachtal
+  qualität: sehr gut
+  nitratwert_mg_l: 6,3
+  nitratwert_grenzwert_trinkwasserverordnung_mg_l: 50
+  sauerstoffgehalt_mg_l: 8,0
+  sauerstoffgehalt_mindestgehalt_mg_l: 3,0
+  gesamthärte_mmol_l: 1,41
+  gesamthärte_dh: 7,93
+  härtebereich: weich
+  untersuchungsinstitut: Eurofins Institut Jäger GmbH, Tübingen
+  untersuchungsdatum: 30.09.2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 310-geisingen/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Aulfingen
+ORTSTEIL_BEZUG: Aulfingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindet_jahr: 1974
+  einwohnerzahl: 540
+  gemarkungsfläche_ha: 1.204
+  rang_größe: kleinster Stadtteil
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 310-geisingen/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gutmadingen
+ORTSTEIL_BEZUG: Gutmadingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindet_jahr: 1972
+  einwohnerzahl: 835
+  gemarkungsfläche_ha: 1.164
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 310-geisingen/014
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kirchen-Hausen
+ORTSTEIL_BEZUG: Kirchen-Hausen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindet_jahr: 1972
+  einwohnerzahl: 1.011
+  gemarkungsfläche_ha: 1.504
+  rang_größe: größter Stadtteil
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 310-geisingen/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Leipferdingen
+ORTSTEIL_BEZUG: Leipferdingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindet_jahr: 1974
+  einwohnerzahl: 775
+  gemarkungsfläche_ha: 1.339
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 310-geisingen/016
+ENTITÄT: ort
+BEZEICHNUNG: Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_regional: Südwesten Landkreis Tuttlingen
+  lage_gewässer: an der jungen Donau
+  höhenlage_meter: 650-900
+  verkehrliche_bedeutung: Unterzentrumsfunktion durch Lage im Schnittpunkt A 81 und B 31
+  autobahn_a81_verlauf: Stuttgart - Singen
+  bundesstraße_b31_verlauf: Ulm - Freiburg
+  öpnv_anbindung: Ringzug zur Kreisstadt Tuttlingen
+  arbeitsschwerpunkte: Medizintechnik, Straßenbau, Werkzeugbau, Logistik, Handwerk, Zuführ- und Präzisionstechnik
+  sozialversicherungspflichtige_arbeitsplätze: 3.100
+  unternehmenskultur: eigentümergeführte Mittelständler, Weltmarktführer, Handwerksbetriebe mit teilweise jahrhundertelanger Geschichte
+  patentanmeldungen_baden_württemberg: trägt dazu bei, dass Baden-Württemberg an Spitze der Patentanmeldungen bleibt
+  naturräume: große Wald- und Naturgebiete mit vielfältiger Fauna und Flora
+  wandererlebnis: Paradies für Natur- und Wanderfreunde
+  radwanderweg: Donau-Rad-Wanderweg
+  radwanderweg_verlauf: donauabwärts bis Schwarzes Meer
+  inlinesport_infrastruktur: arena geisingen - europaweit einmaliges Zentrum für Inlinesport
+  freizeitgebiet: DANUTERRA
+  schulen_grundschule: Grundschule in Geisingen, zwei kleinere in Stadtteilen
+  schulen_ganztagsangebot: offenes Ganztagesangebot für Eltern
+  kindergärten: gut ausgestattete in allen Stadtteilen, teilweise Ganztagesbetreuung und Kleinkindbetreuung
+  vereine_anzahl: über 70 mit sportlichem oder kulturellem Freizeitangebot
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 310-geisingen/017
+ENTITÄT: waldbestand
+BEZEICHNUNG: Stadtwald Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/Stadtwald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  existenz_seit: Jahrhunderte
+  erste_aufzeichnungen_jahr: 1618
+  grund_erste_aufzeichnungen: Teilung der Holzrechte zwischen Fürstlich Fürstenbergischer Standesherrschaft und Stadt
+  rechtsstreit_1779_ursache: Waldungen Amtensteig und Warmensteig
+  rechtsstreit_1779_entscheidung: zugunsten der Stadt
+  holznutzung_überlieferung: seit urfürdenklichen Zeiten den Geisinger Bürgern zugestanden
+  herrenkäpfle_ausmarktung_jahr: 1780
+  herrenkäpfle_zuspruch: FF-Standesherrschaft
+  gabholz_regelung_erste_jahr: 1781
+  flächenmaß_aufzeichnungen_ab_jahr: 1811
+  standesherrschaft_verzicht_jahr: 1812
+  standesherrschaft_verzicht_grund: gegen Abtretung der städtischen Königswiese und Verzicht auf Waidrecht
+  beförsterung_ab_jahr: 1837
+  taxation_vermessung_einteilung_zeitraum: 100 Jahre ab 1837
+  distrikte_1837: 5 Distrikte
+  distrikte_seit_1895: Neueinteilung in Distrikt I und Herrenkampf
+  arrondierung_jahr: 1937
+  arrondierung_grund: Tausch mit FF-Standesherrschaft zu geschlossenem Ganzen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 310-geisingen/018
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Geisingen - Gyöngyöstarján
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/Partnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnergemeinde_name: Gyöngyöstarján
+  partnergemeinde_land: Ungarn
+  offizielle_partnerschaft_ab_jahr: 2003
+  erste_kontaktaufnahme_jahr: 1999
+  austausch_arten: Besuche, Schüleraustausche zwischen Schulen, Vereinsbesuche
+  präsentation_first_jahr: 2005
+  präsentation_anlass: Straßenfest Geisingen
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 310-geisingen/019
+ENTITÄT: ort
+BEZEICHNUNG: Gyöngyöstarján
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait/Partnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Ungarn
+  lage_budapest: 90 km nordöstlich
+  lage_detail: südlicher Rand des Mátra-Gebirges
+  einwohnerzahl: 2.500
+  wirtschaftsschwerpunkt: überwiegend landwirtschaftlich, Weinbau
+  erste_urkundliche_erwähnung_jahr: 1275
+  namensherkunft: György Tarján aus dem Geschlecht der Aba
+  gebirgsregion: Mátra-Gebirge - höchster Gebirgszug Ungarns
+  weinkeller_bau_jahre: 1736-1746
+  weinkeller_ursprungslänge_meter: 192
+  weinkeller_heutige_länge_meter: 540
+  weinkeller_verzweigungen_länge_meter: 200
+  weinproduktion_jaehrlich_hl: 75.000
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 310-geisingen/020
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Markuskirche
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  kirchengemeinde: Evangelische Kirchengemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 310-geisingen/021
+ENTITÄT: kirche
+BEZEICHNUNG: Röm.-Kath. Kirchengemeinde
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  gemeinde_name: Hl. Dreifaltigkeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 310-geisingen/022
+ENTITÄT: sportanlage
+BEZEICHNUNG: Arena Geisingen
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  freizeitgebiet: DANUTERRA
+  sport: Inlinesport
+  charakterisierung: europaweit einmaliges Zentrum für Inlinesport
+  funktion: Wettkampf- und Trainingsanlage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 310-geisingen/023
+ENTITÄT: verein
+BEZEICHNUNG: Schwarzwaldverein Geisingen e.V.
+QUELLE: https://www.geisingen.de/de/unser-staedtle/Vereine/Vereine-nach-Stadtteilen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivität_belegt: Besuch Gyöngyöstarján
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

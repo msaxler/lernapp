@@ -1,0 +1,187 @@
+ENTITÄT: archaeologische_fundstelle
+BEZEICHNUNG: Bodman-Schachen
+ORTSTEIL_BEZUG: Bodman
+QUELLE: https://www.bodman-ludwigshafen.de/de/Urlaub-am-See/Erleben-und-geniessen/Welterbe-Pfahlbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_weltkulturerbe_unesco: true
+  welterbe_name: Prähistorische Pfahlbauten rund um die Alpen
+  kulturen: Singener Gruppe, Arbon-Kultur
+  zeitliche_reichweite: bis 5000 v.Chr.
+  siedlungen_repraesentiert: 30+
+  schnurkeramische_pfahlfelder: ja
+  kontakte_fruebbronzezeit: Norditalien
+GUELTIG_AB: 7000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: archaeologische_fundstelle
+BEZEICHNUNG: Ludwigshafen (Pfahlbauten)
+ORTSTEIL_BEZUG: Ludwigshafen
+QUELLE: https://www.bodman-ludwigshafen.de/de/Urlaub-am-See/Erleben-und-geniessen/Welterbe-Pfahlbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fundart: Wandmalereien und Lehmrelief, bemalte Wandfragmente
+  zeitraum_bergung: 1990-1994
+  charakterisierung_fund: Sensationsfund
+  superlativ: älteste Wandmalereien nördlich der Alpen
+  hauslaenge_ca: 8
+  haustyp: jungneolithisches Pfahlhaus
+  frauendarstellungen_anzahl: mindestens 7
+  figuren_charakteristik: Oberkörper, fast lebensgroß
+  deutung: vermutlich Ahnfrauen oder gottähnliche Gestaltungen
+  lagerung: Archäologisches Landesmuseum Konstanz, Dauerausstellung mit Rekonstruktion in Originalgröße
+GUELTIG_AB: -5000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: spielplatz
+BEZEICHNUNG: Welterbe-Abenteuer-Spielplatz Bodman
+ORTSTEIL_BEZUG: Bodman
+QUELLE: https://www.bodman-ludwigshafen.de/de/Urlaub-am-See/Erleben-und-geniessen/Welterbe-Pfahlbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Seestraße, Uferanlage
+  thema: Welterbe Pfahlbauten
+  gestaltung: Nachempfundene Dorfanlage Bodman-Schachen
+  zielgruppe: Kinder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: spielplatz
+BEZEICHNUNG: Welterbe-Abenteuer-Spielplatz Ludwigshafen
+ORTSTEIL_BEZUG: Ludwigshafen
+QUELLE: https://www.bodman-ludwigshafen.de/de/Urlaub-am-See/Erleben-und-geniessen/Welterbe-Pfahlbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Parkstraße, Uferanlage
+  thema: Welterbe Pfahlbauten
+  gestaltung: Pfahlbaudorf mit unregelmäßig angeordneten Gebäuden und Brückenverbindungen
+  auszeichnung: Deutscher Spielraumpreis
+  preis_jahr: 2017
+  zielgruppe: Kinder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radroute
+BEZEICHNUNG: Palafittes Route
+QUELLE: https://www.bodman-ludwigshafen.de/de/Urlaub-am-See/Erleben-und-geniessen/Welterbe-Pfahlbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Radtour
+  streckenverlauf: rund um Überlinger See
+  inhalte: Fundstellen, Welterbe-Punkte
+  abkuerzung: per Schiff
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Christuskirche
+ORTSTEIL_BEZUG: Ludwigshafen
+QUELLE: https://www.bodman-ludwigshafen.de/de/Daheim-am-See/Unsere-Gemeinde/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  strasse: Mühlbachstraße 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Otmar
+ORTSTEIL_BEZUG: Ludwigshafen
+QUELLE: https://www.bodman-ludwigshafen.de/de/Daheim-am-See/Unsere-Gemeinde/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  strasse: St. Otmar Straße 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul
+ORTSTEIL_BEZUG: Bodman
+QUELLE: https://www.bodman-ludwigshafen.de/de/Daheim-am-See/Unsere-Gemeinde/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  strasse: In der Stelle 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Anna
+ORTSTEIL_BEZUG: Ludwigshafen
+QUELLE: https://www.bodman-ludwigshafen.de/de/Daheim-am-See/Unsere-Gemeinde/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strasse: Radolfzeller Straße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+QUELLE: https://www.bodman-ludwigshafen.de/de/Urlaub-am-See/Erleben-und-geniessen/Sehenswert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: Doppelgemeinde
+  lage: beide Orte an Ufern des Überlinger Sees
+  charakterisierung: idyllisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Bodman
+ORTSTEIL_BEZUG: Bodman
+QUELLE: https://www.bodman-ludwigshafen.de/de/Daheim-am-See/Unsere-Gemeinde/Kirchen/Friedhoefe-Waldruh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ort der Bestattung, des Gedenkens und der Ruhe; Geschichte als aufgeschlagenes Geschichtsbuch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Ludwigshafen
+ORTSTEIL_BEZUG: Ludwigshafen
+QUELLE: https://www.bodman-ludwigshafen.de/de/Daheim-am-See/Unsere-Gemeinde/Kirchen/Friedhoefe-Waldruh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ort der Bestattung, des Gedenkens und der Ruhe
+  grabarten_spezial: Einzelgräber mit Tieferbettung zur Doppelbelegung, Urnengräber vor Urnenwand, Urnengräber im anonymen Grabfeld
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Waldruh St. Katharinen
+QUELLE: https://www.bodman-ludwigshafen.de/de/Daheim-am-See/Unsere-Gemeinde/Kirchen/Friedhoefe-Waldruh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Oase der Stille mit Vielfalt des grünen Lebensraumes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: grabfeld
+BEZEICHNUNG: Gärtnergepflegte Grabfelder
+QUELLE: https://www.bodman-ludwigshafen.de/de/Daheim-am-See/Unsere-Gemeinde/Kirchen/Friedhoefe-Waldruh/Gaertnergepflegte-Grabfelder | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: angelegt wie kleine, liebevoll gestaltete Parklandschaften
+  bepflanzung: edle Gehölze, Stauden, Bodendecker
+  grabsteine: zeigen genaue Grabstelle an
+  barrierefreiheit: ja
+  grabpflege_verantwortung: Friedhofsgärtnereien
+  partner: Genossenschaft Badischer Friedhofsgärtner eG
+  garantierte_grabpflege: ja
+  pflegepflicht_angehoerige: keine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

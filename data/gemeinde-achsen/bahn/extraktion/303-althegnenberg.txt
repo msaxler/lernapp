@@ -1,0 +1,445 @@
+ENTITÄT: ort
+BEZEICHNUNG: Althegnenberg
+QUELLE: https://www.althegnenberg.de/heimatgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_urkundliche_erwaenung: 1096
+  erwaehnungsform_original: haginiperc
+  namensherkunft: umhegte Siedlung am Berg
+  groesse_in_huben: 12
+  befestigung: mit Umwallung umgeben
+  kirche_vorhanden: ja
+  kirche_geweiht_von: Domherr Ulrich von Augsburg
+  kirche_geweiht_wann: Mitte 11. Jahrhundert
+GUELTIG_AB: 1096
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Althegnenberg
+QUELLE: https://www.althegnenberg.de/zahlen-und-daten-athegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: Bayern
+  regierungsbezirk: Oberbayern
+  landkreis: Fürstenfeldbruck
+  hoehe: 536 [m ü. NHN]
+  flaeche: 16.09 [km²]
+  einwohner: 2033
+  einwohnerstand: 30.06.2024
+  bevoelkerungsdichte: 129 [Einwohner je km²]
+  postleitzahl: 82278
+  vorwahl: 08202
+  kfz_kennzeichen: FFB
+  gemeindeschluessel: 09179114
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Althegnenberg
+QUELLE: https://www.althegnenberg.de/chronik-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft_ausfuehrlich: aus Hegnenberg entstanden durch Verlagerung der Hegnenberger-Burg um 1300 nach Hofhegnenberg
+  industriezeitalter_beginn: 1840
+  industriezeitalter_grund: Bau der München-Augsburger-Eisenbahn
+  gemeindegruendung_jahr: 1818
+  gemeindegruendung_anlage: Gemeindeedikt
+  gemeindegruendung_bestandteile: Althegnenberg, Lindenhof
+  hoeneberg_vereinigung: 1. Juli 1972
+  wettbewerb_sieger_1996: ja
+  wettbewerb_name_1996: Unser Dorf soll schöner werden
+GUELTIG_AB: 1096
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Althegnenberg
+QUELLE: https://www.althegnenberg.de/wappen-und-fahne-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappenbeschreibung: Schräg geteilt von Silber und Blau; oben eine schräg gestellte rote Schafschere, unten ein wachsender silberner Pferdekopf mit goldener Mähne
+  wappenfuehrung_seit: 1971
+  wappenbeschluss_datum: 22.01.1971
+  wappenbeschluss_behoerde: Regierung von Oberbayern
+  feldfarben_bedeutung: bayerische Landesherrschaft
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: geschlecht
+BEZEICHNUNG: Hegnenberger
+QUELLE: https://www.althegnenberg.de/heimatgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Ministerialengeschlecht
+  herkunft: Oberschwaben (Schmalegg bei Ravensburg)
+  herkunft_anlass: hatten das welfische Kloster Altomünster zu beschützen
+  status_zu_welfen: bis 1191
+  status_zu_staufern: 1191-1268, Aufstieg zu Reichsministerialen
+  status_zu_wittelsbachern: nach 1268
+  besitzungen_regionen: Bayern und Schwaben
+  rollen: Ratgeber, Vertraute der Mächtigen, Zeugen bei Königskrönungen, Klostergründungen, Rechtsgeschäften
+  stammsitz_verlagerung_jahr: um 1300
+  stammsitz_verlagerung_entfernung: 4 [km westlich]
+  stammsitz_verlagerung_ziel: Hofhegnenberg
+GUELTIG_AB: 1192
+GUELTIG_BIS: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: geschlecht
+BEZEICHNUNG: Hegnenberger
+QUELLE: https://www.althegnenberg.de/chronik-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nenung_named: Engelschalk und Hermann von Hegnenberg
+  erste_nennung_jahr: 1192
+  hofmark_bestandteile: Hofhegnenberg, Althegnenberg, Hörbach, Hausen, Steindorf, Tegernbach, zeitweise Steinach
+  hofmark_bestandteile_anzahl: 7
+  hofmarksherren_ab_1540: Grafen von Hegnenberg-Dux
+  hofmark_bestand_bis: 1848
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burganlage
+BEZEICHNUNG: Burgberg / Burgstall Althegnenberg
+QUELLE: https://www.althegnenberg.de/heimatgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südöstlicher Rand des Ortes Althegnenberg
+  art: Motte (künstlich aufgeschüttete)
+  befestigung: Wassergraben
+  burg_standort: ja
+  burg_zeit: 12. und 13. Jahrhundert
+  burg_besitzer: Hegnenberger
+  burg_groesse: klein
+  nachfolger: Bergkapelle
+  nachfolger_zeitpunkt: um 1676
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes der Täufer / St. Johannes Baptist
+ORTSTEIL_BEZUG: Althegnenberg
+QUELLE: https://www.althegnenberg.de/heimatgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch katholisch
+  standort: Mitte des Ortes
+  erbauerung_jahr: 1938
+  architect: Thomas Wechs
+  bautyp: Saalkirche
+  struktur: mit eingezogener Apsis, angefügter Sakristei, südlichem Flankenturm
+  ausstattung_altaere: barock (vom Vorgängerbau übernommen)
+  vorgaengerbau_art: romanische Kirche
+  vorgaengerbau_verbleib: Weihestein und Memorienstein aus 11. Jahrhundert erhalten
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Andreas
+ORTSTEIL_BEZUG: Hörbach
+QUELLE: https://www.althegnenberg.de/heimatgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch katholisch
+  konstruktion_kern: romanischer Saalbau
+  konstruktion_kern_zeit: 12./13. Jahrhundert
+  konstruktion_langhaus_teil: mittlerer Teil noch erhalten
+  konstruktion_langhaus_dekor: romanischer Bogenfries an südlicher Wand
+  bauplatz_chor: Spätgotik, ca. 1450
+  bauplatz_fenster: Spitzbogenfenster (ca. 1450)
+  bauplatz_turm: Barockzeit, Doppelzwiebel, fertiggestellt 1719
+  erweiterung_jahr: 1909
+  erweiterung_richtung: Westen
+  innenausstattung_epoche: Barock
+  hochaltar_patron: St. Andreas
+  hochaltar_assistenten: St. Wolfgang, St. Sylvester
+  seitenaltar_links: St. Maria mit Christuskind
+  seitenaltar_rechts: St. Sebastian
+  kunstwerk_kruzifix_renaissance: ca. 1500 (Künstler unbekannt, fast lebensgroß)
+  kunstwerk_kruzifix_barock: 1690 von Lorenz Luidl (unter Empore)
+  kunstwerk_figuren: Lorenz Luidl (Landsberger Barockbildhauer)
+  kunstwerk_deckenfresken: 1914 von Otto Hämmerle aus München
+  kunstwerk_aeltestes: römischer Grabstein (2. Jahrhundert n.Ch., Fragment mit bärtigem Römer)
+  kunstwerk_aeltestes_beleg: Ziegel mit römischer Inschrift
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Maria / Bergkapelle / ehemalige Wallfahrtskapelle St. Maria
+ORTSTEIL_BEZUG: Althegnenberg
+QUELLE: https://www.althegnenberg.de/heimatgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Burgberg (ehemals Burg der Hegnenberger)
+  baumeister: Jobst Mospruckher (Bregenzer)
+  baumeister_ursprung: Bregenzer Baumeister
+  baujahr: 1676
+  bautyp: achteckiger Zentralbau (Oktogon)
+  vorbild: Altöttinger Gnadenkapelle
+  erweiterung_1: 1762/63 (Langhaus, wegen regional bedeutsamer Wallfahrt)
+  umgestaltung_1883: farbenfrohe, dekorative Fassung im Stil der Zeit
+  wallfahrt_status: regional recht bedeutsam
+  aktuelle_traeger: Gemeinde Althegnenberg
+  aktuelle_nutzung: evangelisch-lutherische Pfarrgemeinde Gotteshaus
+GUELTIG_AB: 1676
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hörbach
+QUELLE: https://www.althegnenberg.de/heimatgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnungen_anzahl: 3
+  erste_urkundliche_erwaehnungen_zeit: ca. 1130
+  erste_urkundliche_erwaehnungen_quellen: Klöster verschiedener Ordnung
+  erste_urkundliche_personennamen: Engildie de Hurewin (ca. 1133), Teginhart de Huirwin (1133-1135), Heinrich de Hurnwinin (ca. 1140)
+  erste_urkundliche_kontext: Besitzungen derer von Seefeld (am Wörthsee)
+  etymologie: horwec / horwin = sumpfig, schmutzig
+  kirche_st_andreas_erbauerung: ca. 1200
+  lage_zu_althegnenberg: einen Kilometer südlich
+  eingemeindung_datum: 1. Juli 1972
+  eingemeindung_grund: Gemeindegebietsreform
+  typ: Kirchdorf
+GUELTIG_AB: 1130
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lindenhof
+QUELLE: https://www.althegnenberg.de/heimatgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_grund: Spruch (Rechtsspruch) zwischen Grundherren
+  entstehung_parteien_1: Grundherren zu Althegnenberg und Hochdorf
+  entstehung_parteien_2: Herren von Welden
+  entstehung_objekt: Holz Lindach (gehörte Herren von Welden)
+  hof_angelegt_nach: 1493
+  lage_zu_althegnenberg: circa 600 Meter nördlich
+  kapelle: Feldkapelle
+GUELTIG_AB: 1493
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: feldkapelle
+BEZEICHNUNG: Feldkapelle Lindenhof
+ORTSTEIL_BEZUG: Lindenhof
+QUELLE: https://www.althegnenberg.de/sehenswuerdigkeiten-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauerung_jahr: 1806
+  beschreibung: Kleiner Putzbau mit zweiseitig geschlossenem Chor und profiliertem Traufband
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Täuferbrunnen
+ORTSTEIL_BEZUG: Hörbach
+QUELLE: https://www.althegnenberg.de/heimatgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: neben der Kirche St. Andreas
+  bezug_historisch: brutale Ausrottung der Täufer
+  ausrottung_jahr: 1527
+GUELTIG_AB: 1527
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archaeologische_staette
+BEZEICHNUNG: Eisenzeitliche Eisenverhüttung
+ORTSTEIL_BEZUG: Hörbach
+QUELLE: https://www.althegnenberg.de/heimatgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: in unmittelbarer Nähe des Dorfes
+  lage_details: nahe Hörbach
+  periode: Eisenzeit
+  ausgrabung_jahr: 2004
+  ausgrabung_organisation: Historischer Verein Fürstenfelbruck
+  status: Ueberreste
+GUELTIG_AB: -800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: buegermeister
+BEZEICHNUNG: Rainer Spicker
+QUELLE: https://www.althegnenberg.de/zahlen-und-daten-athegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: 1. Bürgermeister
+  partei: Bürgerinitiative
+  stand: 30.06.2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buegermeister
+BEZEICHNUNG: Schmid Ludwig
+QUELLE: https://www.althegnenberg.de/zahlen-und-daten-athegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: 2. Bürgermeister
+  partei: CSU
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buegermeister
+BEZEICHNUNG: Neubauer Peter
+QUELLE: https://www.althegnenberg.de/zahlen-und-daten-athegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: 3. Bürgermeister
+  partei: Dorfgemeinschaft Hörbach/Althegnenberg
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Ehemaliges Forsthaus des Oberjägers von Hofhegnenberg
+ORTSTEIL_BEZUG: Althegnenberg
+QUELLE: https://www.althegnenberg.de/sehenswuerdigkeiten-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bahnhofstraße 5
+  erbauerung_jahr: 1865
+  fassadengestaltung_zeit: Anfang 20. Jahrhundert
+  beschreibung: Zweigeschossiger Putzbau mit Satteldach und flachem Mittelrisalit
+  nebengebaeude: erdgeschossiger Satteldachbau (gleichzeitig mit Hauptbau)
+  einfriedung: Einfahrtstor, gusseisern, um 1900/1910
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Pfarrhaus
+ORTSTEIL_BEZUG: Althegnenberg
+QUELLE: https://www.althegnenberg.de/sehenswuerdigkeiten-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hochdorfer Straße 1
+  erbauerung_jahr: 1768
+  baustil: barock
+  beschreibung: Zweigeschossiger barocker Putzbau mit steilem Satteldach
+GUELTIG_AB: 1768
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bauernhaus des Dreiseithofes
+ORTSTEIL_BEZUG: Althegnenberg
+QUELLE: https://www.althegnenberg.de/sehenswuerdigkeiten-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Münchner Straße 4
+  erbauerung_zeit: erste Hälfte 19. Jahrhundert
+  beschreibung: Zweigeschossiger Putzbau mit Satteldach und Figurennische mit barocker Madonnenfigur
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bauernhaus des Dreiseithofes, sogenannter Jackerbauer
+ORTSTEIL_BEZUG: Althegnenberg
+QUELLE: https://www.althegnenberg.de/sehenswuerdigkeiten-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Münchner Straße 5
+  erbauerung_wohnstallhaus_zeit: 18. Jahrhundert
+  beschreibung_wohnstallhaus: Zweigeschossiges Wohnstallhaus mit Putzgliederung und Satteldach
+  erbauerung_austragshaus_zeit: frühes 19. Jahrhundert
+  beschreibung_austragshaus: ehemaliges Austragshaus mit Backhaus, zweigeschossiger Putzbau
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Ehemalige Schmiede
+ORTSTEIL_BEZUG: Althegnenberg
+QUELLE: https://www.althegnenberg.de/sehenswuerdigkeiten-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Nähe Schmiedgasse
+  erbauerung_zeit: um 1910
+  beschreibung: Erdgeschossige Anlage mit Zwerchhaus
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Ehemaliges Bauernhaus, genannt "Beim Schmied"
+ORTSTEIL_BEZUG: Hörbach
+QUELLE: https://www.althegnenberg.de/sehenswuerdigkeiten-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Luttenwanger Straße 2 a
+  erbauerung_zeit: vor 1861
+  beschreibung: Zweigeschossiger Einfirsthof mit Satteldach und Putzgliederung
+  nebengebaeude: erdgeschossiger Satteldachbau (gleichzeitig)
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Ehemaliges Bauernhaus
+ORTSTEIL_BEZUG: Hörbach
+QUELLE: https://www.althegnenberg.de/sehenswuerdigkeiten-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Luttenwanger Straße 11
+  erbauerung_jahr: 1856
+  beschreibung: Zweigeschossiger Wohnstallbau mit Satteldach und Putzgliederungen
+GUELTIG_AB: 1856
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Ehemaliges Weberanwesen, genannt "Beim Keller"
+ORTSTEIL_BEZUG: Hörbach
+QUELLE: https://www.althegnenberg.de/sehenswuerdigkeiten-althegnenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Sandbrunnenstraße 3
+  erbauerung_jahr: 1865
+  umbau_jahr: 1895
+  beschreibung_hauptbau: Zweigeschossiger Wohnstallbau mit Satteldach
+  nebengebaeude_stallstadel: massiver Stallstadel mit angebautem Holzverschlag, 1891
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

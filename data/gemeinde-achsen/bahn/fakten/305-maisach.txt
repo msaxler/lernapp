@@ -1,0 +1,587 @@
+ID: 305-maisach/001
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Maisach
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 806
+  namensform_urtext: Meisaha
+  größe_damalig: beachtlich für die Zeit (erschlossen aus Abgabenhöhe)
+  wirtshaus_seit: 1556 (zusammen mit Brauerei)
+  brauerei_seit: 1556
+GUELTIG_AB: 806
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gernlinden
+ORTSTEIL_BEZUG: Gernlinden
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_nennung: 1322
+  ursprüngliche_form: Einöde
+  siedlungsbeginn: 1919 (nach Landübergabe durch Graf Toerring)
+  ursprungliche_bezeichnung_periode: Einöde zwischen 1695 und 1919
+  grundlage_besiedlung: Landessiedlung und Eigeninitiative
+GUELTIG_AB: 1322
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 305-maisach/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Überacker
+ORTSTEIL_BEZUG: Überacker
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 819
+  ortsadel_periode: 1287–1459
+  ortsadel_name: Edlen von Kopfsberg
+  weitere_herrschaften: Herren von Perg (1319), Herren von Fußberg (ab 1413), Edlen von Thal (ab 1165)
+  mühlen_bedeutung: zwei Mühlen an der Maisach (bis nach Zweiter Weltkrieg bedeutsam)
+GUELTIG_AB: 819
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 305-maisach/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rottbach
+ORTSTEIL_BEZUG: Rottbach
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundenführung: zwischen 1126 und 1361 (Oaso und Tutilo)
+  ortsadel_periode: 1126–1361
+  ortsadel_name: Edlen von Rottbach
+  burg_lage: nordwestlich des Dorfes
+  wirtshaus_seit: 1389 (nachgewiesen)
+  eisenhofer: Besitzer aus Dachauer Gebiet
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 305-maisach/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Germerswang
+ORTSTEIL_BEZUG: Germerswang
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: um 780
+  namenselement: wang (bedeutet alte Wiesen- und Weideplätze)
+  landschaft_bezeichnung: gute Wiesen- und Weideplätze
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 305-maisach/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Malching
+ORTSTEIL_BEZUG: Malching
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung_zeitform: Mahaleihhi
+  namenselement: Mal-Eiche (germanische Gerichtsstätte)
+  gerichtsform_struktur: dreigeteilt (Untermalching Betstätte, Obermalching Maleiche/Urteilsstätte, Galgen Vollstreckungsort)
+  bahnhaltepunkt_einrichtung: 1927
+  gerichtsbarkeit_später: niedere Gerichtsbarkeit durch Klosterrichter
+  besitztum_teilung: Teil nach Freising, Teil nach Bernried nach 800
+  klosterherrschaft_periode: 1456–1803 unter Kloster Bernried
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 305-maisach/007
+ENTITÄT: person
+BEZEICHNUNG: Heinrich von Maisach
+ORTSTEIL_BEZUG: Maisach
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Abt
+  kloster: St. Ulrich und Afra in Augsburg
+  amtszeit: 1175–1181
+  herkunft: Ortsadel Maisach
+GUELTIG_AB: 1175
+GUELTIG_BIS: 1181
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 305-maisach/008
+ENTITÄT: kloster
+BEZEICHNUNG: St. Ulrich und Afra
+ORTSTEIL_BEZUG:
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Augsburg
+  besitzung_maisach: Germerswang Untermühle (Besitz ab 1160)
+  neubau_muehle: 1423
+GUELTIG_AB: 1160
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 305-maisach/009
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Ettal
+ORTSTEIL_BEZUG:
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1332
+  beschenkung_durch: Herzog Ludwig der Bayer (zum Kaiser gewählt)
+  gerichtsherrschaft_erstmaliger_nachweis: 1343
+  hofmark_bezeichnung_seit: Mitte 16. Jahrhundert
+  herrschaft_über_maisach: 1343–1746
+GUELTIG_AB: 1343
+GUELTIG_BIS: 1746
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/010
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Fürstenfeld
+ORTSTEIL_BEZUG:
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_maisach_tausch: 1746
+  herrschaft_über_maisach_bis: 1803
+GUELTIG_AB: 1746
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/011
+ENTITÄT: mühle
+BEZEICHNUNG: Untermühle
+ORTSTEIL_BEZUG: Germerswang
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 1160
+  superlativ: älteste Mühle innerhalb der Maisacher Gemeindegrenzen
+  neubau: 1423
+  besitzer_neubau: Kloster Ulrich und Afra
+  stilllegung: vor einigen Jahrzehnten
+GUELTIG_AB: 1160
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 305-maisach/012
+ENTITÄT: mühle
+BEZEICHNUNG: Obermühle
+ORTSTEIL_BEZUG: Germerswang
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: Säge angegliedert
+  stilllegung: vor einigen Jahrzehnten
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 305-maisach/013
+ENTITÄT: mühle
+BEZEICHNUNG: Mühlen
+ORTSTEIL_BEZUG: Überacker und Fußberg
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gewässer: Maisach
+  bedeutung_zeitraum: 1200 Jahre bis nach Zweiter Weltkrieg
+  stilllegung: nach Zweiter Weltkrieg
+GUELTIG_AB: ca. 1200
+GUELTIG_BIS: ca. 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 305-maisach/014
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: München-Augsburg
+ORTSTEIL_BEZUG: Maisach
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haltepunkt_eröffnung: 1839
+  auswirkung_entwicklung: Zuzug von Bahnangestellten und Fabrikarbeitern, Bevölkerungswachstum
+GUELTIG_AB: 1839
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/015
+ENTITÄT: sbahn_linie
+BEZEICHNUNG: S-Bahn bis Nannhofen
+ORTSTITEL_BEZUG: Germerswang, Malching
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erweiterung_jahr: 1988
+  auswirkung: Anbindung an München in kurzen Abständen, erhöhte Nachfrage Bauplätze
+GUELTIG_AB: 1988
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/016
+ENTITÄT: schulhaus
+BEZEICHNUNG: Schulhaus
+ORTSTEIL_BEZUG: Germerswang
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1951
+  nutzungsende: 1976
+  neufunktion: Kern eines Bürgerzentrums (Kindergarten, Jugendraum, Feuerwehrgebäude, Schützenheim)
+GUELTIG_AB: 1951
+GUELTIG_BIS: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 305-maisach/017
+ENTITÄT: burg
+BEZEICHNUNG: Burg Rottbach
+ORTSTEIL_BEZUG: Rottbach
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bewohner: Edlen von Rottbach
+  lage: nordwestlich des Dorfes
+  besitzer_später: Sighart Hudler von München (1389), dann Kloster Fürstenfeld (1402)
+  schicksal: abgebrochen
+  grund_verkauf: Verschuldung der Burgherren
+GUELTIG_AB: 1126
+GUELTIG_BIS: ca. 1402
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 305-maisach/018
+ENTITÄT: burg
+BEZEICHNUNG: Burg Zötzelhofen
+ORTSTEIL_BEZUG: Zötzelhofen
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bewohner_vermutung: Zweig der Eisenhofer Familie
+  status: vermutlich
+  schicksal: abgebrochen
+GUELTIG_AB:
+GUELTIG_BIS: ca. 1402
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 305-maisach/019
+ENTITÄT: weiher
+BEZEICHNUNG: Weiher Zötzelhofen
+ORTSTEIL_BEZUG: Zötzelhofen
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlage_durch: Herzog Albrecht IV.
+  bestand_weiher: bereits südlich bestehender Weiher
+  zusätzlicher_neubau: neuer Weiher
+  zusätzliches: Weiherhüterhaus gebaut
+  ablassung: um 1860
+  umnutzung_nach: ab 1995 Golfplatz
+GUELTIG_AB: ca. 1400
+GUELTIG_BIS: ca. 1860
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 305-maisach/020
+ENTITÄT: golfplatz
+BEZEICHNUNG: Golfplatz
+ORTSTEIL_BEZUG: Zötzelhofen
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umgestaltung_beginn: ab 1995
+  vorgänger_gelände: Weiherfläche
+  standort_gebäude_vorgänger: Weiherhüterhaus
+GUELTIG_AB: 1995
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 305-maisach/021
+ENTITÄT: flugplatz
+BEZEICHNUNG: Flugplatz
+ORTSTEIL_BEZUG: Maisach
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_jahr: 1935
+  fund_während_bau: Gräber mit Beigaben aus Bronzezeit (2000–1500 v. Chr.)
+GUELTIG_AB: 1935
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 305-maisach/022
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof
+ORTSTEIL_BEZUG: Gernlinden
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  freilegung_jahr: 1928
+  funde: Urnengräber aus Urnenfelderzeit
+  datierung: 1200–750 v. Chr.
+GUELTIG_AB: ca. 1200
+GUELTIG_BIS: ca. 750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 305-maisach/023
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Maisach
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Fürstenfeldbruck
+  regierungsbezirk: Oberbayern
+  gemeindefläche: 53.69 [km²]
+  rang_fläche: flächengrößte Gemeinde im Landkreis
+  höhenlage: 515 [m über NN]
+  einwohner_stand: 13955 (31.12.2025)
+  einwohner_basis: Zensus 2022
+  ortsteile_und_weiler: 25
+  sbahn_stationen: 3 (Maisach, Gernlinden, Malching)
+  entfernung_münchen: 30 [km]
+  entfernung_augsburg: 45 [km]
+  finanzhaushaltsvolumen_2025: 62.4 [Millionen Euro]
+  gemeindeverbindungsstraßen: 50 [km]
+  ortsstraßen: 57 [km]
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 305-maisach/024
+ENTITÄT: bevölkerungsentwicklung
+ORTSTEIL_BEZUG: Maisach
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_1840: 500
+  einwohner_1880: 750 (genauigkeit: ca.)
+  einwohner_1900: 929
+  einwohner_1910: 1166
+  einwohner_1920: 1469 (nach Bezug erster Häuser in Gernlinden)
+  einwohner_1950: 4466 (nach Zuwanderung Vertriebene nach WWII)
+  einwohner_1978: 9537 (nach Gemeindezusammenlegung)
+  einwohner_ca_1994: 11000 (ca. 16 Jahre nach 1978)
+  einwohner_1999: 12000 (Annäherung)
+  einwohner_später: 14238
+GUELTIG_AB: 1840
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 305-maisach/025
+ENTITÄT: wappen
+ORTSTEIL_BEZUG: Maisach
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/wappen-logo | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: auf rotem Hintergrund drei gebogene silberne Balken, überdeckt mit senkrecht gestelltem goldenem Schwert
+  farben: rot, silber (Zisterzienserbalkens), gold
+  herkunft_balken: vom Wappen der Edelfreien von Weilheim (Regenbogen in blau-rot-grünem Bogen im weißen Feld)
+  zeitpunkt_nachfolge: um 1200
+  herkunft_schwert: Gerichtssymbol des alten Schrannenbezirks des Klosters Ettal
+  bedeutung_schwert: erinnert an Gerichtssymbol
+  gerichtsherrschaft_erstmaliger_nachweis: 1343
+  hofmark_bezeichnung: seit Mitte 16. Jahrhundert
+  farbgebung_bezug: Zisterzienerbalken (Rot und Silber) verweist auf Zugehörigkeit zum Kloster Fürstenfeld 1746–1803
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/026
+ENTITÄT: logo
+ORTSTEIL_BEZUG: Maisach
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/wappen-logo | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  basis: Schriftzug "Gemeinde Maisach"
+  stilelemente: geschwungene Linien in unterschiedlichen Farben
+  schreibweise: "m" klein für Anknüpfung an vormaliges Logo
+  farbe_gemeinde_schriftzug: silbergrau (aus Wappen)
+  linie_blau: Fluss Maisach
+  linie_silbergrau: Eisenbahn (unterbrochen), Straße (durchgezogen)
+  linie_markierung_schiene: Markierungen für große Gemeindeteile
+  linie_grün_gerade: Schotterebene
+  linie_grün_bogen: Hügelland
+  entwurf_nach_oben_schwung: symbolisiert Dynamik, Weiterentwicklung, Fortschritt, Zukunftsorientiertheit
+  druck_graustufen: ja (Ökologie- und Kostengründe)
+  grafiker: Franz Laube
+  gremium: Gemeinderat
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/027
+ENTITÄT: signet
+ORTSTEIL_BEZUG: Maisach
+QUELLE: https://www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/wappen-logo | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  basis: verkürztes Logo
+  zweck: Wiedererkennungszeichen
+  hauptelemente: "m", drei farbige Linien (Blau=Fluss, Silber=Bahn/Straßen, Grün=Natur/Landschaft)
+  anwendung: Roll-ups, Präsentationen, Drucksachen, Gemeindebroschüre
+  grafiker: Franz Laube
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/028
+ENTITÄT: pfarrverband
+BEZEICHNUNG: Katholischer Pfarrverband Maisacher Land
+ORTSTEIL_BEZUG: Maisach
+QUELLE: https://www.maisach.de/leben-in-maisach/familie-soziales/kirchengemeinden-pfarraemter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarreien_anzahl: 5
+  pfarreien: St. Vitus (Maisach), St. Margareth (Malching), St. Michael (Rottbach), St. Bartholomäus (Überacker), Hl. Bruder Konrad (Gernlinden)
+  sitz: Pfarrverband in Maisach, Kirchenstraße 14
+  telefon: 08141/39080
+  fax: 08141/390818
+  email: PV-Maisach@ebmuc.de
+  homepage: www.erzbistum-muenchen.de/pv-maisacher-land
+  pfarrer: Terance Palliparambil
+  pastoralreferent: Thomas Bartl
+  diakon: Rainer Ullmann
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/029
+ENTITÄT: kirche
+BEZEICHNUNG: St. Vitus
+ORTSTEIL_BEZUG: Maisach
+QUELLE: https://www.maisach.de/leben-in-maisach/familie-soziales/kirchengemeinden-pfarraemter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrverband_sitz: ja
+  adresse: Kirchenstraße 14, 82216 Maisach
+  pfarrbüro: vorhanden
+  telefon_pfarrbüro: 08141/3908-0
+  fax_pfarrbüro: 08141/3908-18
+  email: PV-Maisach@ebmuc.de
+  homepage: www.erzbistum-muenchen.de/maisach-st-vitus
+  pfarrgemeinderat_vorsitz: Armin Müller
+  pfarrgemeinderat_vorsitz_adresse: Gernlindener Straße 15, 82216 Maisach
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/030
+ENTITÄT: kirche
+BEZEICHNUNG: St. Bartholomäus
+ORTSTEIL_BEZUG: Überacker
+QUELLE: https://www.maisach.de/leben-in-maisach/familie-soziales/kirchengemeinden-pfarraemter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrverband: Maisacher Land
+  adresse: Bartholomäusstraße 5, 82216 Maisach
+  telefon: 08135/9947230
+  telefon_sekretärin: 08135/8532 (privat)
+  email: St-Bartholomaeus.Ueberacker@ebmuc.de
+  homepage: www.erzbistum-muenchen.de/ueberacker-st-bartholomaeus
+  pfarrgemeinderat_vorsitz: Maria Nebelmeier
+  pfarrgemeinderat_vorsitz_adresse: Pfarrstraße 2a, 82216 Maisach
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/031
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael
+ORTSTEIL_BEZUG: Rottbach
+QUELLE: https://www.maisach.de/leben-in-maisach/familie-soziales/kirchengemeinden-pfarraemter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrverband: Maisacher Land
+  pfarrbüro: St. Bartholomäus Überacker
+  telefon: 08135/9947230
+  telefon_sekretärin: 08135/8532 (privat)
+  email: St-Bartholomaeus.Ueberacker@ebmuc.de
+  homepage: www.erzbistum-muenchen.de/rottbach-st-michael
+  pfarrgemeinderat_vorsitz: Elfriede Walch
+  pfarrgemeinderat_vorsitz_adresse: Deisenhofen 12, 82216 Maisach
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/032
+ENTITÄT: kirche
+BEZEICHNUNG: St. Margareth
+ORTSTEIL_BEZUG: Malching
+QUELLE: https://www.maisach.de/leben-in-maisach/familie-soziales/kirchengemeinden-pfarraemter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrverband: Maisacher Land
+  filiale: St. Michael (Germerswang)
+  adresse: Pfarrer-Dippel-Str. 4, 82216 Maisach
+  telefon: 08141/2283961
+  email: St-Margareth.Malching@ebmuc.de
+  homepage: www.erzbistum-muenchen.de/malching-st-margareth
+  pfarrgemeinderat_vorsitz: Thomas Käser
+  pfarrgemeinderat_vorsitz_adresse: Dorfstraße 11a, 82216 Maisach
+  pfarrgemeinderat_vorsitz_telefon: 08141/305987
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/033
+ENTITÄT: kirche
+BEZEICHNUNG: Hl. Bruder Konrad
+ORTSTEIL_BEZUG: Gernlinden
+QUELLE: https://www.maisach.de/leben-in-maisach/familie-soziales/kirchengemeinden-pfarraemter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrverband: Maisacher Land
+  adresse: Buschingstr. 4, 82216 Maisach
+  telefon: 08142/4780-0
+  email: bruder-konrad.gernlinden@ebmuc.de
+  homepage: www.erzbistum-muenchen.de/bruder-konrad-gernlinden
+  pfarrgemeinderat_vorsitz: Elisabeth Schacherl
+  pfarrgemeinderat_vorsitz_adresse: Fichtenstraße 2, 82216 Maisach
+  pfarrgemeinderat_vorsitz_telefon: 08142/446600
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/034
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael
+ORTSTEIL_BEZUG: Germerswang
+QUELLE: https://www.maisach.de/leben-in-maisach/familie-soziales/kirchengemeinden-pfarraemter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrverband: Maisacher Land
+  mutterkirche: St. Margareth (Malching)
+  status: Filiale
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 305-maisach/035
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelisch-Lutherische Kirchengemeinde Olching-Maisach
+ORTSTEIL_BEZUG: Maisach, Gernlinden
+QUELLE: https://www.maisach.de/leben-in-maisach/familie-soziales/kirchengemeinden-pfarraemter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  adresse_pfarramt: Wolfstraße 11, 82140 Olching
+  telefon: 08142/17200
+  email: pfarramt.olching@elkb.de
+  homepage: www.evangelisch-olching-maisach.de
+  pfarrer: Steffen Barth
+  gottesdienst_maisach_rhythmus: 14-täglich am 1., 3. und ggf. 5. Sonntag
+  gottesdienst_maisach_uhrzeit: 10:15 Uhr
+  gottesdienst_maisach_ort: Evangelisches Emmaus-Gemeindezentrum, Schulstraße 16
+  kindergottesdienst_maisach: jeden 1. Sonntag im Monat (parallel Hauptgottesdienst)
+  gottesdienst_gernlinden_rhythmus: jeden 3. Sonntag im Monat
+  gottesdienst_gernlinden_uhrzeit: 18:30 Uhr (Abendandacht)
+  gottesdienst_gernlinden_ort: Kirche Bruder Konrad
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

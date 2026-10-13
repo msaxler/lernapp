@@ -1,0 +1,568 @@
+ZIELORT: Sindelfingen (Stadt)
+LAGE: 15 km südwestlich von Stuttgart (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Sindelfingen
+
+GRUNDDATEN:
+  landkreis: Böblingen  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 61.428  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 50,83  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1208  [berechnet aus Einwohner und Fläche]
+  kfz: LEO (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 425 | 449 | 468 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2831948)]
+  naechste_grossstadt: Stuttgart, 15 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 15 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Sindelfingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 71063–71069  [Wikidata P281]
+  vorwahl: 07031  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30,6 %, AfD 18,8 %, SPD 15,9 %, GRÜNE 12 %, Die Linke 7,6 %, FDP 6,5 %, BSW 5 %; Wahlbeteiligung 80,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Markus Kleemann (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Schaffhausen, Corbeil-Essonnes, Sondrio, Dronfield, Győr, Torgau, Chełm  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Leonberg (Stadt)
+  landkreis: Böblingen  [dewiki Infobox]
+  einwohner: 49.514  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 48,73  [Wikidata P2046; Altbestand staedte.json]
+  kfz: VAI (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 386 | 382  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json]
+  naechste_grossstadt: Stuttgart, 12 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Höfingen, Bahnhof Leonberg, Bahnhof Rutesheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,7 %, GRÜNE 15,5 %, AfD 15,3 %, SPD 15 %, FDP 8,1 %, Die Linke 5,8 %; Wahlbeteiligung 83,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Sindelfingen):
+ID: 272-sindelfingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Sindelfingen
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1263
+  besiedlung_jungsteinzeit: true
+  römische_siedlung: 1.-3. Jahrhundert
+  alemannische_besiedlung: nach Römerzeit
+  ist_großstadt: true
+  großstadt_seit: 1962
+  hexenverfolgungen_opfer: 17 [mindestens]
+  hexenverfolgungen_zeitraum: 16.-17. Jahrhundert
+  bauernkriegsschlacht_datum: 12.05.1525
+  bauernkriegsschlacht_ort: Goldberg
+  handweberei_zentrum_ab: 18. Jahrhundert
+  daimler_ansiedlung: 1915
+  wwii_luftangriffe: true
+GUELTIG_AB: 1263
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 272-sindelfingen/002
+ENTITÄT: ort
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_gesamt: 64501 [Stand 01.10.2026]
+  einwohner_maennlich: 32091
+  einwohner_weiblich: 32410
+  breite_geografisch: 48° 42' 35'' [nördliche Breite, Rathausplatz]
+  laenge_geografisch: 9° 00' 23'' [östliche Länge, Rathausplatz]
+  hoehe_rathausplatz: 443 [m über NN]
+  hoehe_maichingen_altes_rathaus: 460 [m]
+  hoehe_darmsheim_dorfplatz: 425 [m]
+  hoechster_punkt_name: Dachsklinge
+  hoechster_punkt_hoehe: 543 [m]
+  tiefster_punkt_hoehe: 409 [m, Schwippe Gemarkungsgrenze Darmsheim/Döffingen]
+  gesamtflaeche: 5085 [ha = 50,85 km²]
+  bebaute_grundstuecke: 1020 [ha = 10,2 km²]
+  waldflaeche: 2082 [ha = 20,82 km²]
+  stadtverwaltung_beschaeftigte: 1330 [Vollzeit und Teilzeit, Stand 31.07.2022]
+  stadtverwaltung_beamte: 62
+  stadtverwaltung_auszubildende: 73
+  stadtverwaltung_gesamt: 1465
+  pädagogischer_bereich_kitas: 507
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 272-sindelfingen/003
+ENTITÄT: ort
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/uebersicht | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fairtrade_stadt: true
+  fairtrade_stadt_ab: 13.10.2013
+  fairtrade_stadt_titelerneuerung: 2025
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 272-sindelfingen/004
+ENTITÄT: kirche
+BEZEICHNUNG: Martinskirche
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1066
+  gründer: Adalbert II. von Calw
+  weihe: 1083
+  krypta_weihe: 1100
+  dachwerk_zeitraum: 1132
+  sakristei_neubau: 1270
+  architektur: dreischiffige Basilika mit Hochchor und Krypta
+  turm_ursprünglich: frei stehend
+  turm_holzteile_datierung: 1085
+  reformation: 1576/77 [Hochchor Abbruch, Krypta Planierung]
+  restaurierung_zeitraum: 1863-1869
+  restaurierung_architekt: Christian Friedrich von Leins
+  michaelskapelle_abbruch: 1863
+  innengestaltung_modern: 1933, 1973
+  relief_sandstein: 1477 [Eberhard im Bart und Mechthild von der Pfalz]
+  mauerwerk_freilegung: 1925
+  superlativ: eine der bedeutendsten romanischen Kirchen im deutschen Südwesten
+  funktion: Pfarrkirche für Sindelfingen seit Stadtgründung
+GUELTIG_AB: 1066
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 272-sindelfingen/005
+ENTITÄT: stift
+BEZEICHNUNG: Chorherrenstift (ursprüngliches)
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1066
+  gründer: Adalbert II. von Calw
+  charakterisierung: bedeutsam und wohlhabend
+  geistliches_zentrum: true
+  verlagerung_ziel: Tübingen
+  verlagerung_jahr: 1477
+  verlagerung_grund: Grundstock für neue Universität
+  verlagerung_initiator: Graf Eberhard [im Jahr 1477]
+  bedeutung: wichtiger Geburtshelfer einer der ältesten Universitäten Deutschlands
+GUELTIG_AB: 1066
+GUELTIG_BIS: 1477
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 272-sindelfingen/006
+ENTITÄT: stift
+BEZEICHNUNG: Augustiner-Chorherrenstift
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angesiedlung: nach 1477
+  gründer: Graf Eberhard im Bart und Mechthild von der Pfalz
+  charakter: strenge geistliche Gemeinschaft mit Klostercharakter
+  bestand_bis: 1536
+  mauer_erbaut: bald nach 1477
+  mauer_status: großteils erhalten
+  klosterbezirk_größe: ca. Hälfte des früheren Stiftsbezirks
+  helferhaus: Haus des zweiten Stadtpfarrers
+  helferhaus_bestand: 1664 bis ca. 1905
+GUELTIG_AB: 1477
+GUELTIG_BIS: 1536
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 272-sindelfingen/007
+ENTITÄT: rathaus
+BEZEICHNUNG: Mittleres Rathaus
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_zeitraum: 1843-1845
+  stil: klassizistisch
+  grund_neubau: Altes Rathaus war baufällig und zu klein
+  grund_neubau_bewohnerzahl: ca. 4000
+  grund_verlagerung: Hoffnung auf künftiges Wachstum
+  standortverlagerung: aus der Altstadt heraus
+  marktplatz_schaffung: durch Abriss städtischer Schafstall
+  bombenschäden: 1944
+  brand: 1948
+  wiederaufbau: 1949
+  wiederaufbau_änderung: höheres Dach
+  rathaus_funktion_bis: 1970
+  funktion_nach_1970: Polizeiwache und Stadtkasse
+  heutige_nutzung: Galerie der Stadt Sindelfingen und Touristeninformation (i-Punkt)
+GUELTIG_AB: 1843
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 272-sindelfingen/008
+ENTITÄT: galerie
+BEZEICHNUNG: Galerie der Stadt Sindelfingen
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1990
+  umgestaltung_zeitraum: 1987-1990
+  architekt_umgestaltung: Josef Paul Kleihues [Berlin]
+  anbau_stil: postmoderner oktogonaler Anbau
+  kunstsammlung_erwerb: 1986 [Diethelm Lütze Sammlung]
+  kunstsammlung_umfang: über 1200 Werke
+  kunstsammlung_bereiche: Malerei, Bildhauerei, Grafik
+  kunstsammlung_schwerpunkt: süddeutsche Kunst des späten 19. und 20. Jahrhunderts
+  sammlungserweiterung: fortlaufend
+  ausstellungen: regelmäßig
+  ausstellungsfokus: zeitgenössische Kunst
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 272-sindelfingen/009
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtbibliothek
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1910
+  standort_bis_1970: Altes Rathaus [beengt, mittelalterlich]
+  gebäude_neu_fertiggestellt: 1970
+  vorgängergebäude: Städtische Festhalle
+  architekten: Reiner Graf, Max Speidel, Wolf Maier [Stuttgart]
+  stil: Brutalismus [béton brut = roher Beton]
+  baumaterial: Sichtbeton
+  besonderheit_fenster: große Glasflächen
+  besonderheit_dachgesims: ausladendes geschwungenes Dachgesims [erinnert an Le Corbusier]
+  deckenleuchten: ungewöhnlich, futuristisch wirkend
+  funktion: Lesebetrieb plus zahlreiche Aktionen und Veranstaltungen
+  bedeutung: wichtiges Element des Sindelfinger Kulturlebens
+GUELTIG_AB: 1910
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 272-sindelfingen/010
+ENTITÄT: friedhof
+BEZEICHNUNG: Armesünder-Friedhof
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angelegt_ab: 1570
+  grund_anlage: Kirchhof an Martinskirche genügte nicht mehr
+  vorgänger_vermutung: Marienkapelle im Mittelalter an dieser Stelle
+  namenherkunft_18_jhd: Armesünderkirchhof
+  bestattete_18_jhd: Hingerichtete, Suizidanten, Ungetaufte
+  massengrab_1688: 17 Franzosen [geplündert, von kaiserlichen Soldaten getötet, im hiesigen Rathaus]
+  privatisierung_teilweise: 1815 [Teil des Geländes]
+GUELTIG_AB: 1570
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 272-sindelfingen/011
+ENTITÄT: gewässer
+BEZEICHNUNG: Klostersee
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge_ehemals: 450 [m]
+  namenherkunft: Nähe zum Stiftsbezirk
+  ursprung_vermutung: bei Stadtgründung 1263 oder danach für Verteidigungszwecke angestaut
+  besitz_bis_1741: Herrschaft Württemberg
+  besitz_danach: jeweilige Seemüller
+  seemühle_bestand_ab: ca. 1475
+  eisgewinnung_19_jhd: für Brauereien wichtig
+  freibad_eröffnung: 1927 [Seemüller Kienle]
+  freibad_ende: 1930
+  mühle_außer_betrieb: ab 1930
+  gebäude_abbruch: 1976
+  städtischer_besitz: 1958
+  landesgartenschau: 1990 [Umgestaltung des Geländes]
+GUELTIG_AB: 1263 [Vermutung]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/012
+ENTITÄT: gebäude
+BEZEICHNUNG: Propstei
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1420/21
+  erbauer: Heinrich Tegen [Chorherr]
+  erbauer_ausbildung: Wien und Bologna
+  erbauer_titel: Doktor des Kirchenrechts
+  erbauer_funktion: Ratgeber der Grafen von Württemberg
+  funktion_ab_1433: Wohnung des Propstes [nach Wahl zum Propst]
+  architektur: zweigeschossiger Steinsockel [ursprünglich]
+  besonderheit: Schießscharte auf der Gartenseite
+  vermutung: ältere Mauer des Stiftsbezirks einbezogen
+  nutzung_nach_1536: Beamtenhausungen und Ämter [Schultheiß, Vogt, Oberamtmann, Kammer-, Finanz-, Schulamt]
+  klosterpforte: erhalten neben dem Haus
+GUELTIG_AB: 1420/21
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 272-sindelfingen/013
+ENTITÄT: gebäude
+BEZEICHNUNG: Klosterbibliothek
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1518
+  standort: zwischen Propstei und Kirche
+  vermutung: Bibliothek der Stiftsherren
+  buchbestände_erhaltung: nur wenige Bände erhalten
+  buchbestände_standort_heute: Württembergische Landesbibliothek Stuttgart, Universitätsbibliothek Tübingen
+  stadtmuseum_bestände: mehrere Pergament-Einzelblätter aus dem Stift [darunter zwei Notenblätter]
+  pergamentblätter_verwendung: später zum Einbinden von städtischen Rechnungen
+  ausgrabungen: zugeschütteter Keller eines Vorgängerbaus
+  ausgrabungen_fund: Überreste großer Vorratsgefäße, interessanter Backmodel
+  backmodel_nachbildung: im Stadtmuseum ausgestellt
+GUELTIG_AB: 1518
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 272-sindelfingen/014
+ENTITÄT: gebäude
+BEZEICHNUNG: Geistliche Verwaltung
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: ca. 1620
+  standort: an Stelle eines alten Stiftsgebäudes
+  funktion_bis_1807: Sitz des Geistlichen Verwalters
+  geistlicher_verwalter_aufgabe: Erträge aus ehemals geistlichen Besitzungen für den Herzog einziehen
+  privatisierung: 1807
+  erwerber_1860: Johann Jakob Burger [Leinwandhandlung]
+  leinwandhandlung_bestand: über vier Generationen bis 1950er
+  leinwandhandlung_name: Leinenburger
+  verkauf_stadt: 1972
+  nutzung_nach_1972: Familien-Bildungsstätte
+GUELTIG_AB: 1620
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 272-sindelfingen/015
+ENTITÄT: schule
+BEZEICHNUNG: Alte Webschule
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1900
+  gründung_grund: Förderung des lokalen Gewerbes [Weberei]
+  unabhängige_webmeister_1890: 340
+  architektur: Backsteinbau mit Elementen aus Jugendstil und Historismus
+  charakterisierung_bau: eines der modernsten Gebäude der Stadt zur damaligen Zeit
+  schulleiter: engagiert [ausgezeichneter Ruf durch deren Reihe]
+  besucher: auch von Auswärtigen
+  umzug: 1976 zur Gottlieb-Daimler-Schule
+  heutige_nutzung: Haus der Handweberei
+  interessengemeinschaft: Interessengemeinschaft Handweberei e.V.
+  interessengemeinschaft_ziel: Bewahrung überlieferter Handwerkstechniken
+  interessengemeinschaft_aktivität: Fachkurse
+  museum: Webereimuseum seit 2000
+  museum_fokus: historische Bedeutung der Weberei für Stadtgeschichte
+  immaterielles_kulturerbe: 2023 in Bundesweites Verzeichnis aufgenommen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 272-sindelfingen/016
+ENTITÄT: siedlung
+BEZEICHNUNG: Schnödeneck
+QUELLE: https://www.sindelfingen.de/bauen-wirtschaft/bauen/denkmalpflege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_zeitraum: 1919-1921
+  denkmalschutz: seit 1984
+  gründungsgrund: Wohnraum durch Daimler-Ansiedlung notwendig
+  zusammenarbeit: Bau- und Sparverein
+  architekt: Paul Schmitthenner [berühmter Architekt und Professor der Stuttgarter Schule]
+  architektur_thema: das Neue und richtige Bauen
+  hausarten: 12 verschiedene
+  hausgruppen: 18
+  lage_ursprünglich: östlicher Stadtrand
+  lage_heute: mitten in der Stadt
+  charakteristiken: Gauben, Kaminköpfe, Mistwege, Kleingärten zur Selbstversorgung
+  mistwege_funktion: öffentliches Fußwegesystem für Stallgang und Kleingartenpflege
+  beschreibung: Gartenhofsiedlung
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 272-sindelfingen/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Darmsheim
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1971
+  einwohner: 4331 [Stand 01.10.2026]
+  höhenlage: 425 [m über NN, Dorfplatz]
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ID: 272-sindelfingen/018
+ENTITÄT: ortsteil
+BEZEICHNUNG: Maichingen
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1971
+  einwohner: 14158 [Stand 01.10.2026]
+  höhenlage: 460 [m über NN, Altes Rathaus]
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ID: 272-sindelfingen/019
+ENTITÄT: turm
+BEZEICHNUNG: Wasserturm auf der Steige
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 65 [m]
+  fußpunkt_höhe: 531 [m über NN]
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 272-sindelfingen/020
+ENTITÄT: turm
+BEZEICHNUNG: Wasserturm auf dem Goldberg
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 51 [m]
+  fußpunkt_höhe: 468 [m über NN]
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 272-sindelfingen/021
+ENTITÄT: naturmerkmal
+BEZEICHNUNG: Dachsklinge
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 543 [m]
+  superlativ: höchster Geländepunkt Sindelfingens
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 272-sindelfingen/022
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+QUELLE: https://www.sindelfingen.de/leben-wohnen/glaube/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gemeinde: Christuskirchengemeinde
+  pfarramt_adresse: Vordere Halde 23, 71063 Sindelfingen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/023
+ENTITÄT: kirche
+BEZEICHNUNG: Nikodemuskirche
+QUELLE: https://www.sindelfingen.de/leben-wohnen/glaube/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gemeinde: Christuskirchengemeinde
+  pfarramt_adresse: Nikolaus-Lenau-Platz 21, 71067 Sindelfingen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/024
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche
+QUELLE: https://www.sindelfingen.de/leben-wohnen/glaube/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gemeinde: Johanneskirchengemeinde
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/025
+ENTITÄT: kirche
+BEZEICHNUNG: Versöhnungskirche
+QUELLE: https://www.sindelfingen.de/leben-wohnen/glaube/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  adresse: Goldbergstraße 33, 71065 Sindelfingen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/026
+ENTITÄT: kirche
+BEZEICHNUNG: Erlöserkirche
+QUELLE: https://www.sindelfingen.de/leben-wohnen/glaube/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-methodistisch
+  adresse: Maichinger Straße 22, 71063 Sindelfingen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/027
+ENTITÄT: kirche
+BEZEICHNUNG: Dreifaltigkeit
+QUELLE: https://www.sindelfingen.de/leben-wohnen/glaube/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Bleichmühlestraße 11, 71065 Sindelfingen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/028
+ENTITÄT: kirche
+BEZEICHNUNG: St. Franziskus
+QUELLE: https://www.sindelfingen.de/leben-wohnen/glaube/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Nikolaus-Lenau-Platz, 71067 Sindelfingen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/029
+ENTITÄT: kirche
+BEZEICHNUNG: St. Joseph
+QUELLE: https://www.sindelfingen.de/leben-wohnen/glaube/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Liebenzeller Straße 44, 71067 Sindelfingen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/030
+ENTITÄT: kirche
+BEZEICHNUNG: St. Maria
+QUELLE: https://www.sindelfingen.de/leben-wohnen/glaube/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Goldbergstraße 26, 71065 Sindelfingen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/031
+ENTITÄT: kirche
+BEZEICHNUNG: St. Paulus
+QUELLE: https://www.sindelfingen.de/leben-wohnen/glaube/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Theodor-Heuss-Straße 80, 71067 Sindelfingen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/032
+ENTITÄT: kirche
+BEZEICHNUNG: St. Anna Maichingen
+QUELLE: https://www.sindelfingen.de/leben-wohnen/glaube/kirchen | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Maichingen
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Sindelfinger Straße 132, 71069 Sindelfingen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 272-sindelfingen/033
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Daimler-Motoren-Gesellschaft
+QUELLE: https://www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ansiedlung_jahr: 1915
+  auswirkung: entscheidender Entwicklungsschub für die Stadt
+  folge: Umwandlung aus beschaulichem Landstädtchen zu moderner und internationaler Industriestadt
+GUELTIG_AB: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+

@@ -7842,6 +7842,10 @@ window.QA_DATEN = {
 ],
 "82-tuningen": [
 "Bräunlingen hat fast doppelt so viele Einwohner wie Tuningen."
+],
+"310-geisingen": [
+"Kreisgrenze: Geisingen gehört zum Landkreis Tuttlingen, Bräunlingen zum Schwarzwald-Baar-Kreis.",
+"Geisingen und Bräunlingen sind fast gleich groß: rund 6.200 und 5.800 Einwohner."
 ]
 },
 "ags": "08326006",
@@ -7979,6 +7983,14 @@ window.QA_DATEN = {
 ],
 "82-tuningen": [
 "Hüfingen hat zweieinhalbmal so viele Einwohner wie Tuningen."
+],
+"310-geisingen": [
+"Kreisgrenze: Geisingen gehört zum Landkreis Tuttlingen, Hüfingen zum Schwarzwald-Baar-Kreis.",
+"Hüfingen hat rund 1.900 Einwohner mehr als Geisingen."
+],
+"311-immendingen": [
+"Kreisgrenze: Immendingen gehört zum Landkreis Tuttlingen, Hüfingen zum Schwarzwald-Baar-Kreis.",
+"Hüfingen hat rund 1.400 Einwohner mehr als Immendingen."
 ]
 },
 "ags": "08326027",
@@ -8176,6 +8188,14 @@ window.QA_DATEN = {
 ],
 "82-tuningen": [
 "Donaueschingen hat fast siebenmal so viele Einwohner wie Tuningen."
+],
+"310-geisingen": [
+"Kreisgrenze: Geisingen gehört zum Landkreis Tuttlingen, Donaueschingen zum Schwarzwald-Baar-Kreis.",
+"Donaueschingen hat dreieinhalbmal so viele Einwohner wie Geisingen."
+],
+"311-immendingen": [
+"Kreisgrenze: Immendingen gehört zum Landkreis Tuttlingen, Donaueschingen zum Schwarzwald-Baar-Kreis.",
+"Donaueschingen hat fast dreieinhalbmal so viele Einwohner wie Immendingen."
 ]
 },
 "ags": "08326012",
@@ -8393,6 +8413,14 @@ window.QA_DATEN = {
 "83-rottweil": [
 "Kreisgrenze: Rottweil gehört zum Landkreis Rottweil, Bad Dürrheim zum Schwarzwald-Baar-Kreis.",
 "Rottweil hat fast doppelt so viele Einwohner wie Bad Dürrheim."
+],
+"310-geisingen": [
+"Kreisgrenze: Geisingen gehört zum Landkreis Tuttlingen, Bad Dürrheim zum Schwarzwald-Baar-Kreis.",
+"Bad Dürrheim hat gut doppelt so viele Einwohner wie Geisingen."
+],
+"311-immendingen": [
+"Kreisgrenze: Immendingen gehört zum Landkreis Tuttlingen, Bad Dürrheim zum Schwarzwald-Baar-Kreis.",
+"Bad Dürrheim hat doppelt so viele Einwohner wie Immendingen."
 ]
 },
 "ags": "08326003",
@@ -8610,6 +8638,10 @@ window.QA_DATEN = {
 "83-rottweil": [
 "Kreisgrenze: Rottweil gehört zum Landkreis Rottweil, Villingen-Schwenningen zum Schwarzwald-Baar-Kreis.",
 "Villingen-Schwenningen hat dreieinhalbmal so viele Einwohner wie Rottweil."
+],
+"310-geisingen": [
+"Kreisgrenze: Geisingen gehört zum Landkreis Tuttlingen, Villingen-Schwenningen zum Schwarzwald-Baar-Kreis.",
+"Villingen-Schwenningen hat fünfzehnmal so viele Einwohner wie Geisingen."
 ]
 },
 "ags": "08326074",
@@ -8827,6 +8859,14 @@ window.QA_DATEN = {
 "83-rottweil": [
 "Kreisgrenze: Rottweil gehört zum Landkreis Rottweil, Tuningen zum Schwarzwald-Baar-Kreis.",
 "Rottweil hat fast achtmal so viele Einwohner wie Tuningen."
+],
+"310-geisingen": [
+"Kreisgrenze: Geisingen gehört zum Landkreis Tuttlingen, Tuningen zum Schwarzwald-Baar-Kreis.",
+"Geisingen hat fast doppelt so viele Einwohner wie Tuningen."
+],
+"311-immendingen": [
+"Kreisgrenze: Immendingen gehört zum Landkreis Tuttlingen, Tuningen zum Schwarzwald-Baar-Kreis.",
+"Immendingen hat doppelt so viele Einwohner wie Tuningen."
 ]
 },
 "ags": "08326061",
@@ -10719,6 +10759,10 @@ window.QA_DATEN = {
 "95-starzach": [
 "Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
 "Herrenberg hat achtmal so viele Einwohner wie Starzach."
+],
+"272-sindelfingen": [
+"Sindelfingen hat fast doppelt so viele Einwohner wie Herrenberg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Sindelfingen die AfD, in Herrenberg die Grünen."
 ]
 },
 "ags": "08115021",
@@ -10964,6 +11008,10 @@ window.QA_DATEN = {
 "95-starzach": [
 "Ammerbuch hat gut zweieinhalbmal so viele Einwohner wie Starzach.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Starzach die AfD, in Ammerbuch die Grünen."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Ammerbuch zum Landkreis Tübingen.",
+"Sindelfingen hat gut fünfmal so viele Einwohner wie Ammerbuch."
 ]
 },
 "ags": "08416048",
@@ -14484,6 +14532,10 @@ window.QA_DATEN = {
 "35-stutensee": [
 "Kreisgrenze: Stutensee gehört zum Landkreis Karlsruhe, Durmersheim zum Landkreis Rastatt.",
 "Stutensee hat gut doppelt so viele Einwohner wie Durmersheim."
+],
+"266-karlsbad": [
+"Kreisgrenze: Karlsbad gehört zum Landkreis Karlsruhe, Durmersheim zum Landkreis Rastatt.",
+"Karlsbad hat rund 4.400 Einwohner mehr als Durmersheim."
 ]
 },
 "ags": "08216009",
@@ -14697,6 +14749,14 @@ window.QA_DATEN = {
 "96-bruchsal": [
 "Kreisgrenze: Bruchsal gehört zum Landkreis Karlsruhe, Karlsruhe ist kreisfrei.",
 "Bundestagswahl 2025: In Bruchsal lag die CDU vorn, in Karlsruhe die Grünen."
+],
+"266-karlsbad": [
+"Kreisgrenze: Karlsbad gehört zum Landkreis Karlsruhe, Karlsruhe ist kreisfrei.",
+"Bundestagswahl 2025: In Karlsbad lag die CDU vorn, in Karlsruhe die Grünen."
+],
+"267-remchingen": [
+"Kreisgrenze: Remchingen gehört zum Enzkreis, Karlsruhe ist kreisfrei.",
+"Bundestagswahl 2025: In Remchingen lag die CDU vorn, in Karlsruhe die Grünen."
 ]
 },
 "ags": "08212000",
@@ -14903,6 +14963,14 @@ window.QA_DATEN = {
 ],
 "96-bruchsal": [
 "Bruchsal hat fast doppelt so viele Einwohner wie Stutensee."
+],
+"266-karlsbad": [
+"Stutensee hat gut anderthalbmal so viele Einwohner wie Karlsbad.",
+"Karlsbad liegt rund 150 Meter höher als Stutensee."
+],
+"267-remchingen": [
+"Kreisgrenze: Remchingen gehört zum Enzkreis, Stutensee zum Landkreis Karlsruhe.",
+"Stutensee hat gut doppelt so viele Einwohner wie Remchingen."
 ]
 },
 "ags": "08215109",
@@ -29632,6 +29700,22 @@ window.QA_DATEN = {
 "Kreisgrenze: Pforzheim ist kreisfrei, Vaihingen an der Enz gehört zum Landkreis Ludwigsburg.",
 "Bundestagswahl 2025: In Pforzheim lag die AfD vorn, in Vaihingen an der Enz die CDU."
 ],
+"268-niefern-oeschelbronn": [
+"Kreisgrenze: Niefern-Öschelbronn gehört zum Enzkreis, Vaihingen an der Enz zum Landkreis Ludwigsburg.",
+"Vaihingen an der Enz hat fast zweieinhalbmal so viele Einwohner wie Niefern-Öschelbronn."
+],
+"269-wurmberg": [
+"Kreisgrenze: Wurmberg gehört zum Enzkreis, Vaihingen an der Enz zum Landkreis Ludwigsburg.",
+"Vaihingen an der Enz hat fast neunmal so viele Einwohner wie Wurmberg."
+],
+"270-heimsheim": [
+"Kreisgrenze: Heimsheim gehört zum Enzkreis, Vaihingen an der Enz zum Landkreis Ludwigsburg.",
+"Vaihingen an der Enz hat gut fünfmal so viele Einwohner wie Heimsheim."
+],
+"271-rutesheim": [
+"Kreisgrenze: Rutesheim gehört zum Landkreis Böblingen, Vaihingen an der Enz zum Landkreis Ludwigsburg.",
+"Vaihingen an der Enz hat gut zweieinhalbmal so viele Einwohner wie Rutesheim."
+],
 "100-leonberg": [
 "Kreisgrenze: Leonberg gehört zum Landkreis Böblingen, Vaihingen an der Enz zum Landkreis Ludwigsburg.",
 "Leonberg hat gut anderthalbmal so viele Einwohner wie Vaihingen an der Enz."
@@ -29819,6 +29903,427 @@ window.QA_DATEN = {
 "km_vom_vorigen": 17.7
 },
 {
+"slug": "266-karlsbad",
+"name": "Karlsbad",
+"lat": 48.91444,
+"lon": 8.50639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsbad",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 13 km südöstlich von Karlsruhe.",
+"frage": "Worauf geht der Name der Gemeinde Karlsbad zurück?",
+"optionen": [
+"Man übernahm den Namen des böhmischen Kurorts.",
+"Er erinnert an einen Kaiser, der hier badete.",
+"Er stammt von einer alten Flurbezeichnung.",
+"Er geht auf ein Fürstenbad des 18. Jahrhunderts zurück."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der gleichnamige böhmische Kurort liegt als Erklärung nahe, ist aber nicht gemeint. Der Name bezieht sich auf das Fürstenbad, das Markgraf Karl Wilhelm von Baden-Durlach in Langensteinbach errichten ließ. Es lag unterhalb der Barbarakapelle und diente dem Fürstenhaus als Sommerresidenz. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Karlsbad_(Baden)",
+"faktencheck": "unsicher",
+"id": "266-karlsbad/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Karlsbad",
+"steckbrief": "Gemeinde mit 38 km² Fläche, 13 km südöstlich von Karlsruhe.",
+"frage": "Wie viele Einwohner zählte Karlsbad Ende 2025?",
+"optionen": [
+"15.000 bis unter 20.000",
+"10.000 bis unter 15.000",
+"5.000 bis unter 10.000",
+"unter 5.000"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Wort Gemeinde klingt nach Dorf, doch im Umland von Großstädten haben viele Gemeinden die Größe einer Kleinstadt. Ende 2025 zählte Karlsbad 16.137 Einwohner. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "266-karlsbad/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Karlsbad",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 13 km südöstlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ittersbach feierte 1982 sein 750-jähriges Ortsjubiläum.",
+"Langensteinbach feierte 1997 sein 800-jähriges Ortsjubiläum.",
+"Karlsbad feierte 2011 sein 60-jähriges Gemeindejubiläum."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Weil die Ortsteile jahrhundertealt sind, traut man auch der Gemeinde ein höheres Alter zu. Tatsächlich feierte Karlsbad 2011 sein 40-jähriges Bestehen, mit einem Fest in der Talblickhalle in Auerbach. Die Gemeinde ist also deutlich jünger als ihre Dörfer. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.karlsbad.de/website/de/gemeinde-buerger/willkommen/geschichte",
+"faktencheck": "bestätigt",
+"id": "266-karlsbad/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Karlsbad",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 13 km südöstlich von Karlsruhe.",
+"frage": "Bei der Bundestagswahl 2025 wurde die CDU in Karlsbad stärkste Kraft. Wie hoch war ihr Zweitstimmenanteil?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer das bundesweite Ergebnis der Union im Kopf hat, tippt eher tiefer. In Karlsbad holte die CDU 32,8 Prozent der Zweitstimmen, fast doppelt so viel wie die AfD auf Platz zwei. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "266-karlsbad/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsbad",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 13 km südöstlich von Karlsruhe.",
+"frage": "Ein späterer DFB-Nationalspieler spielte bis 1985 beim SV Spielberg in Karlsbad. Wer war das?",
+"optionen": [
+"Es war Carsten Jancker.",
+"Es war Dietmar Hamann.",
+"Es war Marko Rehmer.",
+"Es war Jens Nowotny."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Alle vier gehören zur selben Spielergeneration, das macht die Wahl schwer. Jens Nowotny spielte als Junge beim SV Spielberg, später in der Jugend des Karlsruher SC, bevor er DFB-Nationalspieler wurde. Richtig war 4.",
+"quelle": "Bayer 04 Leverkusen, bayer04.de",
+"faktencheck": "korrigiert",
+"id": "266-karlsbad/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Karlsbad",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 13 km südöstlich von Karlsruhe.",
+"frage": "Wie viele Einwohner leben in Karlsbad im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"400 bis unter 550",
+"250 bis unter 400",
+"100 bis unter 250",
+"unter 100"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Lage am Nordrand des Schwarzwalds lässt an eine dünn besiedelte Gemeinde denken. Doch auf gut 38 Quadratkilometern leben über 16.000 Menschen, das ergibt rund 425 Einwohner je Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "266-karlsbad/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsbad",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 13 km südöstlich von Karlsruhe.",
+"frage": "Die klassizistische Ludwigskirche in Langensteinbach entstand 1826 bis 1828. Wer lieferte den Entwurf?",
+"optionen": [
+"Den Entwurf lieferte Leo von Klenze.",
+"Den Entwurf lieferte Karl Friedrich Schinkel.",
+"Den Entwurf lieferte Friedrich Weinbrenner.",
+"Den Entwurf lieferte Gottfried Semper."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schinkel und Klenze sind große Namen des Klassizismus, darum liegen sie nahe. Der Entwurf stammt aber von Friedrich Weinbrenner aus Karlsruhe. Nach seinem Tod 1826 vollendete sein Schüler Karl August Schwarz den Bau. Richtig war 3.",
+"quelle": "Badische Landesbibliothek, regionalia.blb-karlsruhe.de",
+"faktencheck": "korrigiert",
+"id": "266-karlsbad/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "98-ludwigsburg",
+"anschluss": [
+"Wahlbeteiligung zur Bundestagswahl 2025: Karlsbad 86,2 %, Ludwigsburg 82,3 %.",
+"Fläche: Karlsbad misst 38 km², Ludwigsburg kaum mehr, 43 km²."
+],
+"anschluesse": {
+"33-durmersheim": [
+"Kreisgrenze: Durmersheim gehört zum Landkreis Rastatt, Karlsbad zum Landkreis Karlsruhe.",
+"Karlsbad hat rund 4.400 Einwohner mehr als Durmersheim."
+],
+"34-karlsruhe": [
+"Kreisgrenze: Karlsruhe ist kreisfrei, Karlsbad gehört zum Landkreis Karlsruhe.",
+"Bundestagswahl 2025: In Karlsruhe lagen die Grünen vorn, in Karlsbad die CDU."
+],
+"35-stutensee": [
+"Stutensee hat gut anderthalbmal so viele Einwohner wie Karlsbad.",
+"Karlsbad liegt rund 150 Meter höher als Stutensee."
+],
+"267-remchingen": [
+"Kreisgrenze: Remchingen gehört zum Enzkreis, Karlsbad zum Landkreis Karlsruhe.",
+"Karlsbad hat rund 4.400 Einwohner mehr als Remchingen."
+],
+"99-pforzheim": [
+"Kreisgrenze: Pforzheim ist kreisfrei, Karlsbad gehört zum Landkreis Karlsruhe.",
+"Bundestagswahl 2025: In Pforzheim lag die AfD vorn, in Karlsbad die CDU."
+],
+"98-ludwigsburg": [
+"Wahlbeteiligung zur Bundestagswahl 2025: Karlsbad 86,2 %, Ludwigsburg 82,3 %.",
+"Fläche: Karlsbad misst 38 km², Ludwigsburg kaum mehr, 43 km²."
+]
+},
+"ags": "08215096",
+"ortsteil": false,
+"km_vom_vorigen": 50.1
+},
+{
+"slug": "267-remchingen",
+"name": "Remchingen",
+"lat": 48.95,
+"lon": 8.57639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Remchingen",
+"steckbrief": "Gemeinde mit rund 11.800 Einwohnern, 12 km nordwestlich von Pforzheim.",
+"frage": "Das 2020 eröffnete neue Rathaus von Remchingen hat fünf Ecken. Wofür stehen sie?",
+"optionen": [
+"Die Ecken stehen für fünf Partnerstädte.",
+"Die Ecken stehen für fünf Gründerfamilien.",
+"Die Ecken stehen für fünf Ortsteile.",
+"Die Ecken stehen für fünf Gemeinderatsfraktionen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Fünf Partnerstädte klingen nach einer weltoffenen Gemeinde, doch gemeint ist etwas Näherliegendes. Die Ecken stehen für Wilferdingen, Singen, Nöttingen, Darmsbach und den Sperlingshof, den die Gemeinde als fünften „Ortsteil“ zählt. Im neuen Rathaus wurden die Rathäuser der einzelnen Ortsteile zusammengelegt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.remchingen.de/sperlingshof-ortsportrait/der-sperlingshof-id_2509/; www.remchingen.de/geschichte/eine-gemeinde-mit-geschichte-id_232/",
+"faktencheck": "korrigiert",
+"id": "267-remchingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Remchingen",
+"steckbrief": "Gemeinde mit rund 11.800 Einwohnern, 12 km nordwestlich von Pforzheim.",
+"frage": "Wie groß ist die Fläche der Gemeinde Remchingen?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 15 km²",
+"15 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer bei einem Ort nahe Pforzheim an dichte Bebauung denkt, schätzt eher klein. Doch Remchingen misst 24,06 Quadratkilometer, und viel davon ist Grün: Wald und landwirtschaftliche Fläche sind etwa gleich groß. Richtig war 4.",
+"quelle": "Wikidata P2046; Gemeinde-Webseite, www.remchingen.de/zahlen/remchingen-in-zahlen-id_242/?cb=1791905176",
+"faktencheck": "bestätigt",
+"id": "267-remchingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Remchingen",
+"steckbrief": "Gemeinde mit rund 11.800 Einwohnern, 12 km nordwestlich von Pforzheim.",
+"frage": "Es geht um den Sperlingshof bei Wilferdingen. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Waisenhaus am Sperlingshof gründete ein katholischer Orden.",
+"Auf dem Sperlingshof wurde einst Falschgeld hergestellt.",
+"Am Sperlingshof stand einst eine Station für Rompilger."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Wallfahrtskirche am selben Ort lässt an einen katholischen Orden denken. Doch die Evangelisch-Lutherische Freikirche gründete die Kinderfreundgesellschaft, und der umgebaute Hof diente dann als Waisenhaus. Pilger auf dem Weg nach Rom und eine Falschmünzerei gehören beide zur Geschichte des Sperlingshofs. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.remchingen.de/sperlingshof-ortsportrait/der-sperlingshof-id_2509/?cb=1791906873",
+"faktencheck": "korrigiert",
+"id": "267-remchingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Remchingen",
+"steckbrief": "Gemeinde mit rund 11.800 Einwohnern, 12 km nordwestlich von Pforzheim.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Remchingen nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"FDP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hinter der CDU erwarten viele die SPD, die lange die zweite große Volkspartei war. In Remchingen kam aber die AfD auf Platz zwei, deutlich vor der SPD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "267-remchingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Remchingen",
+"steckbrief": "Gemeinde mit rund 11.800 Einwohnern, 12 km nordwestlich von Pforzheim.",
+"frage": "1888 fuhr Bertha Benz mit dem Motorwagen ihres Mannes durch den Ortsteil Singen. Wo steht die Remchinger Grundschule mit ihrem Namen?",
+"optionen": [
+"Die Schule steht im Ortsteil Singen.",
+"Die Schule steht im Ortsteil Wilferdingen.",
+"Die Schule steht im Ortsteil Nöttingen.",
+"Die Schule steht im Ortsteil Darmsbach."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Singen liegt nahe, denn dort rollte Bertha Benz auf ihrer Fahrt nach Pforzheim durch. Die Grundschule mit ihrem Namen steht aber in Nöttingen. In Singen gibt es die Bergschule, in Wilferdingen die Peter-Härtling-Grundschule. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.remchingen.de/portrait/remchingen-eine-gemeinde-mit-kleinstadtcharakter-id_233/?cb=1791905723",
+"faktencheck": "bestätigt",
+"id": "267-remchingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Remchingen",
+"steckbrief": "Gemeinde mit rund 11.800 Einwohnern, 12 km nordwestlich von Pforzheim.",
+"frage": "Zu welchem Landkreis gehört Remchingen?",
+"optionen": [
+"Landkreis Karlsruhe",
+"Landkreis Calw",
+"Landkreis Ludwigsburg",
+"Enzkreis"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Remchingen liegt zwischen Karlsruhe und Pforzheim, da scheint der Landkreis Karlsruhe naheliegend. Die Gemeinde gehört aber zum Enzkreis, in dessen Westen sie liegt. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "267-remchingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Remchingen",
+"steckbrief": "Gemeinde mit rund 11.800 Einwohnern, 12 km nordwestlich von Pforzheim.",
+"frage": "Ein römischer Meilenstein aus Nöttingen nennt eine Entfernung. Ab welchem Ort zählt sie?",
+"optionen": [
+"Die Inschrift zählt ab Baden-Baden.",
+"Die Inschrift zählt ab Pforzheim.",
+"Die Inschrift zählt ab Straßburg.",
+"Die Inschrift zählt ab Rom."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre Rom, wohin der Redensart nach alle Wege führen, oder das nahe Pforzheim. Die Inschrift zählt aber ab Aurelia Aquensis, dem heutigen Baden-Baden, gemessen in Leugen, einem gallischen Wegmaß. Der Stein steht heute im Landesmuseum Karlsruhe. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.remchingen.de/noettingen-ortsgeschichte/noettinger-geschichte_id_241/",
+"faktencheck": "bestätigt",
+"id": "267-remchingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Remchingen",
+"steckbrief": "Gemeinde mit rund 11.800 Einwohnern, 12 km nordwestlich von Pforzheim.",
+"frage": "Im Remchinger Freibad liegt ein auffälliger Rasenhügel. Was zeigt er an?",
+"optionen": [
+"Er ist ein keltisches Hügelgrab.",
+"Er zeigt, wo einst Teile einer Wasserburg standen.",
+"Er zeigt, wo die Pfinz entspringt.",
+"Er zeigt, wo die Pfinz einst in den Rhein mündete."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Rasenhügel erinnert an ein Hügelgrab, wie man sie aus keltischer Zeit kennt. Er zeigt aber, wo einst Teile der Wasserburg der Herren von Remchingen standen. Im Orleans'schen Erbfolgekrieg brannten Franzosen sie ab; heute liegt auf dem Gelände das Freibad. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.remchingen.de/geschichte/remchinger-wappen-id_238/ und www.remchingen.de/geschichte/eine-gemeinde-mit-geschichte-id_232/ (Zu 3 und 4: Die Pfinz entspringt bei Pfinzweiler (Straubenhardt) und fließt durch Remchingen weiter zum Rhein. Beides steht im Abschnitt über die Ortsteile auf der Gemeinde-Webseite.)",
+"faktencheck": "korrigiert",
+"id": "267-remchingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Remchingen",
+"steckbrief": "Gemeinde mit rund 11.800 Einwohnern, 12 km nordwestlich von Pforzheim.",
+"frage": "Die Pfinz fließt durch Nöttingen, Wilferdingen und Singen. Woher kommt ihr Name?",
+"optionen": [
+"Er erinnert an die Finken am Ufer.",
+"Er ist vom Namen der Nachbargemeinde Pfinztal abgeleitet.",
+"Er geht auf einen fränkischen Grundherrn zurück.",
+"Er gilt als keltisch und soll träge fließendes Wasser bedeuten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Klang erinnert an den Finken, und Pfinztal klingt nach dem Ursprung. Doch die Gemeinde Pfinztal ist viel jünger und nach dem Fluss benannt. Der Name gilt als keltisch und soll träge fließendes Wasser bedeuten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.remchingen.de/noettingen-ortsgeschichte/noettinger-geschichte-id_241/ und www.remchingen.de/portrait/remchingen-eine-gemeinde-mit-kleinstadtcharakter-id_233/",
+"faktencheck": "korrigiert",
+"id": "267-remchingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Remchingen",
+"steckbrief": "Gemeinde mit rund 11.800 Einwohnern, 12 km nordwestlich von Pforzheim.",
+"frage": "In Darmsbach erinnert die Lindenstraße an eine Linde, die Heinrich Freyburger 1872 pflanzte. Warum pflanzte er sie?",
+"optionen": [
+"Er pflanzte sie auf den Frieden mit Frankreich.",
+"Er pflanzte sie zur Geburt seines Sohnes.",
+"Er pflanzte sie als neue Gerichtslinde.",
+"Er pflanzte sie nach einem großen Dorfbrand."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Dorflinde lässt an Gerichtstage oder Familienfeste denken. Freyburger pflanzte sie aber in einem Garten, auf den Frieden zwischen Deutschland und Frankreich. Sie stand, bis sie dem Straßenbau weichen musste; heute erinnert nur die Lindenstraße an sie. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.remchingen.de/darmsbach-ortsgeschichte/darmsbacher-geschichte_id_507/",
+"faktencheck": "bestätigt",
+"id": "267-remchingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "266-karlsbad",
+"anschluss": [
+"Kreisgrenze: In Karlsbad steht KA am Auto, in Remchingen PF.",
+"Remchingens A8-Anschlüsse heißen Karlsbad und Pforzheim-West."
+],
+"anschluesse": {
+"34-karlsruhe": [
+"Kreisgrenze: Karlsruhe ist kreisfrei, Remchingen gehört zum Enzkreis.",
+"Bundestagswahl 2025: In Karlsruhe lagen die Grünen vorn, in Remchingen die CDU."
+],
+"35-stutensee": [
+"Kreisgrenze: Stutensee gehört zum Landkreis Karlsruhe, Remchingen zum Enzkreis.",
+"Stutensee hat gut doppelt so viele Einwohner wie Remchingen."
+],
+"266-karlsbad": [
+"Kreisgrenze: In Karlsbad steht KA am Auto, in Remchingen PF.",
+"Remchingens A8-Anschlüsse heißen Karlsbad und Pforzheim-West."
+],
+"99-pforzheim": [
+"Kreisgrenze: Pforzheim ist kreisfrei, Remchingen gehört zum Enzkreis.",
+"Bundestagswahl 2025: In Pforzheim lag die AfD vorn, in Remchingen die CDU."
+],
+"268-niefern-oeschelbronn": [
+"Niefern-Öschelbronn und Remchingen sind fast gleich groß: rund 13.000 und 12.000 Einwohner."
+],
+"269-wurmberg": [
+"Remchingen hat dreieinhalbmal so viele Einwohner wie Wurmberg.",
+"Wurmberg liegt rund 280 Meter höher als Remchingen."
+]
+},
+"ags": "08236071",
+"ortsteil": false,
+"km_vom_vorigen": 6.5
+},
+{
 "slug": "99-pforzheim",
 "name": "Pforzheim",
 "lat": 48.89088,
@@ -30004,24 +30509,928 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "98-ludwigsburg",
-"anschluss": [
-"Wahlbeteiligung Bundestagswahl 2025: Ludwigsburg 82,3 Prozent, Pforzheim 75,7 Prozent.",
-"Einwohner: Pforzheim hat rund 134.000, Ludwigsburg rund 93.000."
-],
+"anschluss_von": "267-remchingen",
+"anschluss": [],
 "anschluesse": {
 "97-vaihingen": [
 "Kreisgrenze: Vaihingen an der Enz gehört zum Landkreis Ludwigsburg, Pforzheim ist kreisfrei.",
 "Bundestagswahl 2025: In Vaihingen an der Enz lag die CDU vorn, in Pforzheim die AfD."
 ],
-"98-ludwigsburg": [
-"Wahlbeteiligung Bundestagswahl 2025: Ludwigsburg 82,3 Prozent, Pforzheim 75,7 Prozent.",
-"Einwohner: Pforzheim hat rund 134.000, Ludwigsburg rund 93.000."
+"266-karlsbad": [
+"Kreisgrenze: Karlsbad gehört zum Landkreis Karlsruhe, Pforzheim ist kreisfrei.",
+"Bundestagswahl 2025: In Karlsbad lag die CDU vorn, in Pforzheim die AfD."
+],
+"267-remchingen": [
+"Kreisgrenze: Remchingen gehört zum Enzkreis, Pforzheim ist kreisfrei.",
+"Bundestagswahl 2025: In Remchingen lag die CDU vorn, in Pforzheim die AfD."
+],
+"268-niefern-oeschelbronn": [
+"Kreisgrenze: Niefern-Öschelbronn gehört zum Enzkreis, Pforzheim ist kreisfrei.",
+"Bundestagswahl 2025: In Niefern-Öschelbronn lag die CDU vorn, in Pforzheim die AfD."
+],
+"269-wurmberg": [
+"Kreisgrenze: Wurmberg gehört zum Enzkreis, Pforzheim ist kreisfrei.",
+"Bundestagswahl 2025: In Wurmberg lag die CDU vorn, in Pforzheim die AfD."
+],
+"270-heimsheim": [
+"Kreisgrenze: Heimsheim gehört zum Enzkreis, Pforzheim ist kreisfrei.",
+"Bundestagswahl 2025: In Heimsheim lag die CDU vorn, in Pforzheim die AfD."
+],
+"271-rutesheim": [
+"Kreisgrenze: Rutesheim gehört zum Landkreis Böblingen, Pforzheim ist kreisfrei.",
+"Bundestagswahl 2025: In Rutesheim lag die CDU vorn, in Pforzheim die AfD."
 ]
 },
 "ags": "08231000",
 "ortsteil": false,
-"km_vom_vorigen": 35.8
+"km_vom_vorigen": 11.3
+},
+{
+"slug": "268-niefern-oeschelbronn",
+"name": "Niefern-Öschelbronn",
+"lat": 48.91639,
+"lon": 8.78417,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niefern-Öschelbronn",
+"steckbrief": "Rund 12.600 Einwohner, 7 km nordöstlich von Pforzheim.",
+"frage": "Markgraf Ludwig von Baden, genannt Türkenlouis, ließ 1695 bis 1697 einen Schanzengraben durch die Gemarkung ziehen. Gegen wen sollte er schützen?",
+"optionen": [
+"Er sollte gegen die Franzosen schützen.",
+"Er sollte gegen die Türken schützen.",
+"Er sollte gegen Württemberg schützen.",
+"Er sollte gegen die Schweden schützen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Beiname Türkenlouis lenkt den Blick auf die Türkenkriege. Doch der Schanzengraben, ein Verteidigungsgraben der Eppinger Linie, sollte gegen die Franzosen schützen. Im Abschnitt Niefern-Öschelbronn ist er sehr gut erhalten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte",
+"faktencheck": "bestätigt",
+"id": "268-niefern-oeschelbronn/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niefern-Öschelbronn",
+"steckbrief": "Rund 12.600 Einwohner, 7 km nordöstlich von Pforzheim, an der Pforte des Nordschwarzwalds.",
+"frage": "Wie hoch über dem Meeresspiegel liegt der Ort Niefern-Öschelbronn?",
+"optionen": [
+"unter 200 m",
+"200 bis unter 300 m",
+"300 bis unter 400 m",
+"400 m und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Schwarzwald klingt nach Bergen und großer Höhe. Doch Niefern-Öschelbronn liegt erst an der Pforte des Nordschwarzwalds, auf 240 bis 241 Metern über dem Meer. Richtig war 2.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "268-niefern-oeschelbronn/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Niefern-Öschelbronn",
+"steckbrief": "Rund 12.600 Einwohner, 7 km nordöstlich von Pforzheim.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Heimatmuseum begann in Räumen einer früheren Polizeistation.",
+"Nieferns altes Wappen zeigte einen Reiherfuß mit Fisch.",
+"Niefern und Öschelbronn wurden gegen ihren Willen vereinigt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Heimatmuseum in einer Polizeistation klingt erfunden, doch es begann in Räumen der früheren Polizeistation im alten Rathaus. Auch der Reiherfuß mit Fisch stand in Nieferns altem Wappen. Gelogen ist der Zwang: Niefern und Öschelbronn schlossen sich freiwillig zusammen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.niefern-oeschelbronn.de/freizeit-gaeste/kultur/museum; www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/wappen; www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "268-niefern-oeschelbronn/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niefern-Öschelbronn",
+"steckbrief": "Rund 12.600 Einwohner, 7 km nordöstlich von Pforzheim im Enzkreis.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Niefern-Öschelbronn?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wo fünf Parteien nennenswert Stimmen holen, schätzt man den Sieger leicht zu niedrig. In Niefern-Öschelbronn kam die CDU auf 30,9 Prozent, vor der AfD mit 26,7 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "268-niefern-oeschelbronn/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niefern-Öschelbronn",
+"steckbrief": "Rund 12.600 Einwohner, 7 km nordöstlich von Pforzheim.",
+"frage": "Im Ortsteil Öschelbronn prägen Fachwerkfassaden ganze Straßen. Wie kam das Dorf zu diesem Bild?",
+"optionen": [
+"Es wurde nach einem Großbrand neu aufgebaut.",
+"Es blieb von großen Bränden stets verschont.",
+"Man versetzte Fachwerkhäuser aus der Umgebung hierher.",
+"Ein Filmstudio baute die Fassaden als Kulisse."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Fachwerkfassaden wirken, als habe das Dorf die Jahrhunderte unbeschadet überstanden. Doch nach einem Großbrand wurde Öschelbronn unter der Regie des Dritten Reichs neu aufgebaut, im fränkisch-alemannischen Fachwerkstil. Besonders schöne Fassaden zeigen Gartenstraße, Untere Bachstraße und Brühlstraße. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.niefern-oeschelbronn.de/freizeit-gaeste/sehenswertes/sehenswuerdigkeiten",
+"faktencheck": "bestätigt",
+"id": "268-niefern-oeschelbronn/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Niefern-Öschelbronn",
+"steckbrief": "Rund 12.600 Einwohner, 7 km nordöstlich von Pforzheim, 32 km Luftlinie von Stuttgart.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Niefern-Öschelbronn?",
+"optionen": [
+"LB",
+"PF",
+"KA",
+"BB"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Stuttgart und Karlsruhe liegen nicht weit, das macht LB, KA oder BB verlockend. Niefern-Öschelbronn gehört aber zum Enzkreis, und dessen Hauptkennzeichen ist PF. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "268-niefern-oeschelbronn/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niefern-Öschelbronn",
+"steckbrief": "Rund 12.600 Einwohner, 7 km nordöstlich von Pforzheim, an der Pforte des Nordschwarzwalds.",
+"frage": "Nach dem großen Brand von 1933 stieß man im Ortskern von Öschelbronn auf Spuren aus alter Zeit. Was kam laut Ortsgeschichte zum Vorschein?",
+"optionen": [
+"Man fand Reste einer mittelalterlichen Wasserburg.",
+"Man fand ein keltisches Fürstengrab.",
+"Man fand Spuren eines römischen Gutshofs.",
+"Man fand Reste einer frühen Glashütte."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Rand des Nordschwarzwalds denkt man eher an Burgen und Glashütten als an Römer. Doch in Öschelbronn kamen Spuren eines römischen Gutshofs zutage, verbunden mit Pforzheim und einer Furt bei Dürrmenz. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "268-niefern-oeschelbronn/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niefern-Öschelbronn",
+"steckbrief": "Rund 12.600 Einwohner, 7 km nordöstlich von Pforzheim.",
+"frage": "Markgraf Karl II. schenkte 1555 seinem Kanzler Martin Amelius den Ort Niefern. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Er hatte den Markgrafen im Krieg gerettet.",
+"Er hatte sich um die Reformation verdient gemacht.",
+"Er hatte eine Tochter des Markgrafen geheiratet.",
+"Er hatte eine Seuche im Land eingedämmt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein ganzer Ort als Geschenk klingt nach Heldentat oder Familienbande. Die Ortsgeschichte nennt Amelius' Verdienste um die Reformation. In Niefern baute er den alten Burgstadel zur Niefernburg aus, dazu eine Säge- und Mahlmühle. Nach ihm heißt der Ameliussaal in der Kirnbachhalle. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "268-niefern-oeschelbronn/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niefern-Öschelbronn",
+"steckbrief": "Rund 12.600 Einwohner, 7 km nordöstlich von Pforzheim.",
+"frage": "Im 17. Jahrhundert ließ der Markgraf von Baden in Niefern eine Papiermühle einrichten. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Niefern war sehr arm, die Grenzlage schadete zusätzlich.",
+"Niefern war reich und sollte mehr Steuern bringen.",
+"Niefern sollte Württemberg mit Papier beliefern.",
+"Sie war ein Hochzeitsgeschenk an die Markgräfin."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Baut ein Landesherr eine Mühle, denkt man an Einnahmen. Die Ortsgeschichte erzählt es anders: Niefern war sehr arm und durch seine Lage an der Grenze zu Württemberg zusätzlich im Nachteil. Da griff der Markgraf helfend ein und richtete in der Sägemühle der Niefernburg eine Papiermühle ein. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.niefern-oeschelbronn.de/unsere-gemeinde/gemeindeportrait/ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "268-niefern-oeschelbronn/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niefern-Öschelbronn",
+"steckbrief": "Rund 12.600 Einwohner, 7 km nordöstlich von Pforzheim.",
+"frage": "1910 erhielt Öschelbronn einen Rathausbrunnen. Welches Jubiläum war der Anlass?",
+"optionen": [
+"Die erste Erwähnung lag genau tausend Jahre zurück.",
+"Öschelbronn gehörte seit genau vierhundert Jahren zu Württemberg.",
+"Öschelbronn gehörte seit genau hundert Jahren zu Baden.",
+"Öschelbronn war vor genau hundert Jahren württembergisch geworden."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Brunnen am Rathaus lässt an Dorfgeschichte denken, etwa an die erste Urkunde. Gefeiert wurde aber die Zugehörigkeit: Öschelbronn war lange württembergisch und kam durch die napoleonische Gebietsreform an Baden. Der Brunnen steht heute bei der St. Georgskirche. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.niefern-oeschelbronn.de/freizeit-gaeste/sehenswertes/die-brunnengemeinde",
+"faktencheck": "korrigiert",
+"id": "268-niefern-oeschelbronn/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "99-pforzheim",
+"anschluss": [
+"Bundestagswahl 2025: Niefern-Öschelbronn hatte eine höhere Wahlbeteiligung als Pforzheim.",
+"Grabmal in Pforzheim: Martin Amelius, Erbauer der Niefernburg in Niefern-Öschelbronn."
+],
+"anschluesse": {
+"97-vaihingen": [
+"Kreisgrenze: Vaihingen an der Enz gehört zum Landkreis Ludwigsburg, Niefern-Öschelbronn zum Enzkreis.",
+"Vaihingen an der Enz hat fast zweieinhalbmal so viele Einwohner wie Niefern-Öschelbronn."
+],
+"267-remchingen": [
+"Remchingen und Niefern-Öschelbronn sind fast gleich groß: rund 12.000 und 13.000 Einwohner."
+],
+"99-pforzheim": [
+"Bundestagswahl 2025: Niefern-Öschelbronn hatte eine höhere Wahlbeteiligung als Pforzheim.",
+"Grabmal in Pforzheim: Martin Amelius, Erbauer der Niefernburg in Niefern-Öschelbronn."
+],
+"269-wurmberg": [
+"Niefern-Öschelbronn hat fast viermal so viele Einwohner wie Wurmberg.",
+"Wurmberg liegt rund 210 Meter höher als Niefern-Öschelbronn."
+],
+"270-heimsheim": [
+"Niefern-Öschelbronn hat fast zweieinhalbmal so viele Einwohner wie Heimsheim.",
+"Heimsheim liegt rund 170 Meter höher als Niefern-Öschelbronn."
+],
+"271-rutesheim": [
+"Kreisgrenze: Rutesheim gehört zum Landkreis Böblingen, Niefern-Öschelbronn zum Enzkreis.",
+"Niefern-Öschelbronn hat rund 1.500 Einwohner mehr als Rutesheim."
+]
+},
+"ags": "08236046",
+"ortsteil": false,
+"km_vom_vorigen": 6.6
+},
+{
+"slug": "269-wurmberg",
+"name": "Wurmberg",
+"lat": 48.87111,
+"lon": 8.81833,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wurmberg / Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim. / Zu Wurmberg gehört das einstige Lucerne, bis 1808 eine eigene Gemeinde. Wer hat die Siedlung gegründet? / 1. Auswanderer aus Luzern in der Schweiz gründeten sie. / 2. Bergleute aus dem Erzgebirge gründeten sie. / 3. Glasmacher aus Böhmen gründeten sie. / 4. Waldenser, die als Glaubensflüchtlinge kamen, gründeten sie.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name erinnert an die Schweizer Stadt Luzern, deren französischer Name Lucerne lautet. Doch gegründet haben die Siedlung 1699 Waldenser, reformierte Glaubensflüchtlinge aus dem Queyras im Dauphiné und aus dem Piemont. Sie sprachen Französisch und weihten 1728 in Lucerne eine eigene Kirche ein. Richtig war 4. /",
+"quelle": "Landeskirchliches Archiv Stuttgart, wkgo.de; Landratsamt Enzkreis, enzkreis-geschichte.de",
+"faktencheck": "korrigiert",
+"id": "269-wurmberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wurmberg",
+"steckbrief": "Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim.",
+"frage": "Wie viele Einwohner leben in Wurmberg durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 600",
+"600 bis unter 1.200",
+"1.200 bis unter 2.500",
+"2.500 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. So nah an Pforzheim denkt man an dichte Vorstadt. Doch die 3.300 Einwohner verteilen sich auf 7,35 Quadratkilometer Gemarkung. Das ergibt 449 Einwohner je Quadratkilometer, Einwohnerstand Ende 2025. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "269-wurmberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wurmberg",
+"steckbrief": "Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Zweiten Weltkrieg blieb Wurmberg von Zerstörungen verschont.",
+"Das Kloster Maulbronn erwarb die Ortsherrschaft über Wurmberg.",
+"Die Kirche in Wurmberg gehörte anfangs zu Wiernsheim."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Dass ein Kloster die Herrschaft über ein Dorf erwarb, klingt erfunden, war aber im Mittelalter verbreitet. Gelogen ist die erste Aussage: Kurz vor Ende des Zweiten Weltkriegs beschossen französische Soldaten Wurmberg und zerstörten etwa ein Drittel der Gebäude. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wurmberg",
+"faktencheck": "bestätigt",
+"id": "269-wurmberg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Wurmberg",
+"steckbrief": "Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Wurmberg die zweitmeisten Zweitstimmen?",
+"optionen": [
+"CDU",
+"SPD",
+"AfD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit war die SPD lange die Nummer zwei hinter der Union, darum liegt sie nahe. In Wurmberg aber holte die AfD 30,6 Prozent, hinter der CDU mit 34,2 Prozent. Die SPD kam auf 10,2 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "269-wurmberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wurmberg / Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim. / Der Wurmberger Ortsteil Neubärental wurde Anfang des 18. Jahrhunderts von Menschen aus Bärenthal in Hohenzollern gegründet. Welchen Grund für ihren Wegzug nennt die Ortsgeschichte? / 1. Ein Großbrand hatte ihr Heimatdorf zerstört. / 2. Eine Seuche hatte ihr Heimatdorf entvölkert. / 3. Ihr Heimatdorf musste einem Stausee weichen. / 4. Sie wurden wegen ihres reformierten Glaubens vertrieben.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Brände und Seuchen trieben damals viele Menschen aus ihren Dörfern, darum liegt das nahe. Doch die Siedler waren Reformierte, die aus Bärenthal ausgewiesen wurden. Als Glaubensflüchtlinge gründeten sie Neubärental, das kirchlich eng mit dem Waldenserort Lucerne verbunden war. Richtig war 4. /",
+"quelle": "Landratsamt Enzkreis, enzkreis-geschichte.de; LEO-BW",
+"faktencheck": "korrigiert",
+"id": "269-wurmberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wurmberg",
+"steckbrief": "Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim.",
+"frage": "Wie weit ist es von Wurmberg in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 35 km",
+"35 bis unter 50 km",
+"50 bis unter 70 km",
+"70 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Pforzheim denkt man sich auf halbem Weg zwischen Karlsruhe und Stuttgart, also schätzt man weit. Doch Wurmberg liegt schon östlich von Pforzheim, ein Stück näher an Stuttgart: 28 Kilometer Luftlinie. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "269-wurmberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wurmberg / Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim. / Am 10. Juli 1968 traf ein Naturereignis Wurmberg und richtete große Schäden an Gebäuden an. Welches? / 1. Ein Erdbeben beschädigte viele Häuser. / 2. Ein Tornado zog über den Ort. / 3. Der Boden brach ein, Häuser sackten ab. / 4. Ein Waldbrand griff auf die Häuser über.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wirbelstürme verbindet man eher mit Amerika als mit dem Heckengäu, darum denken viele zuerst an anderes. Doch an diesem Tag wütete ein Tornado über Wurmberg und beschädigte etwa 70 Häuser. Richtig war 2. /",
+"quelle": "Landeskirchliches Archiv Stuttgart, wkgo.de",
+"faktencheck": "korrigiert",
+"id": "269-wurmberg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wurmberg",
+"steckbrief": "Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim.",
+"frage": "Wurmberg ist 1221 erstmals sicher urkundlich belegt. Worum ging es in diesem Schriftstück?",
+"optionen": [
+"Es regelte einen Streit um Weiderechte.",
+"Es verzeichnete die Abgaben der Bauernhöfe.",
+"Es bestätigte die Gründung einer Kapelle.",
+"Es besiegelte den Verkauf einer Mühle."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele Dörfer tauchen zuerst in Abgabenlisten oder Kaufurkunden auf, darum liegt das nahe. Wurmberg dagegen erscheint in einer Bestätigung über die Gründung einer Kapelle. Später erhielt Wurmberg Pfarreirechte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.wurmberg.de/geschichte/",
+"faktencheck": "bestätigt",
+"id": "269-wurmberg/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "268-niefern-oeschelbronn",
+"anschluss": [
+"Höhe: Wurmberg liegt gut 200 Meter höher als Niefern-Öschelbronn.",
+"Bahn: Haltepunkt Niefern liegt Wurmberg näher als Pforzheim Hbf."
+],
+"anschluesse": {
+"97-vaihingen": [
+"Kreisgrenze: Vaihingen an der Enz gehört zum Landkreis Ludwigsburg, Wurmberg zum Enzkreis.",
+"Vaihingen an der Enz hat fast neunmal so viele Einwohner wie Wurmberg."
+],
+"267-remchingen": [
+"Remchingen hat dreieinhalbmal so viele Einwohner wie Wurmberg.",
+"Wurmberg liegt rund 280 Meter höher als Remchingen."
+],
+"99-pforzheim": [
+"Kreisgrenze: Pforzheim ist kreisfrei, Wurmberg gehört zum Enzkreis.",
+"Bundestagswahl 2025: In Pforzheim lag die AfD vorn, in Wurmberg die CDU."
+],
+"268-niefern-oeschelbronn": [
+"Höhe: Wurmberg liegt gut 200 Meter höher als Niefern-Öschelbronn.",
+"Bahn: Haltepunkt Niefern liegt Wurmberg näher als Pforzheim Hbf."
+],
+"270-heimsheim": [
+"Heimsheim hat gut anderthalbmal so viele Einwohner wie Wurmberg."
+],
+"271-rutesheim": [
+"Kreisgrenze: Rutesheim gehört zum Landkreis Böblingen, Wurmberg zum Enzkreis.",
+"Rutesheim hat fast dreieinhalbmal so viele Einwohner wie Wurmberg."
+],
+"100-leonberg": [
+"Kreisgrenze: Leonberg gehört zum Landkreis Böblingen, Wurmberg zum Enzkreis.",
+"Leonberg hat fünfzehnmal so viele Einwohner wie Wurmberg."
+]
+},
+"ags": "08236068",
+"ortsteil": false,
+"km_vom_vorigen": 5.6
+},
+{
+"slug": "270-heimsheim",
+"name": "Heimsheim",
+"lat": 48.80556,
+"lon": 8.86194,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heimsheim",
+"steckbrief": "Stadt im Enzkreis mit rund 5.500 Einwohnern, 15 km südöstlich von Pforzheim.",
+"frage": "Heimsheims Wappen zeigt schräggekreuzte goldene Ähren. Was steckt nach Angabe der Stadt dahinter?",
+"optionen": [
+"Sie erinnern an eine überstandene Hungersnot.",
+"Sie stammen aus dem Wappen Württembergs.",
+"Der Stadtname klingt nach „heimsen“, also ernten.",
+"Ein Kloster schenkte der Stadt ihre Äcker."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ähren deutet man schnell als Erinnerung an Not oder Reichtum. Doch Heimsheims Wappen ist ein „redendes“: Es spielt mit dem Stadtnamen, der an „heimsen“ erinnert, also ernten. Darum zeigt es schräggekreuzte goldene Ähren. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.heimsheim.de/unsere-stadt/geschichte/wappen",
+"faktencheck": "bestätigt",
+"id": "270-heimsheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heimsheim",
+"steckbrief": "Stadt im Enzkreis, 15 km südöstlich von Pforzheim, gut 14 km² Fläche.",
+"frage": "Wie viele Menschen leben in Heimsheim?",
+"optionen": [
+"unter 2.500",
+"2.500 bis unter 4.000",
+"4.000 bis unter 5.000",
+"5.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Kleinstadt im Enzkreis tippt man schnell zu niedrig. Ende 2025 zählte Heimsheim 5.531 Einwohner und lag damit klar über der Marke von 5.000. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "270-heimsheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Heimsheim",
+"steckbrief": "Stadt im Enzkreis mit rund 5.500 Einwohnern, 15 km südöstlich von Pforzheim.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Heimsheim hat eine eigene Ausfahrt an der Autobahn.",
+"Heimsheim hatte früher einen eigenen Bahnhof.",
+"Heimsheims Barockschloss diente lange als Schulhaus."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Bahnhof wirkt für eine alte Stadt zwischen Pforzheim und Stuttgart selbstverständlich. Doch Heimsheim erhielt nie einen Bahnanschluss. Einen gewissen Ersatz bietet die eigene Autobahnausfahrt. Das Barockschloss war tatsächlich lange Schulhaus. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.heimsheim.de/unsere-stadt/geschichte/stadtgeschichtlicher-ueberblick",
+"faktencheck": "korrigiert",
+"id": "270-heimsheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heimsheim",
+"steckbrief": "Stadt im Enzkreis mit rund 5.500 Einwohnern, 15 km südöstlich von Pforzheim.",
+"frage": "Wie hoch war die Wahlbeteiligung in Heimsheim bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 85 %",
+"85 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Wahl 2025 brachte bundesweit eine hohe Beteiligung, da liegt ein noch höherer Tipp nahe. In Heimsheim gaben 83,7 Prozent ihre Stimme ab, knapp unter 85. Stärkste Partei wurde die CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "270-heimsheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heimsheim",
+"steckbrief": "Stadt im Enzkreis mit rund 5.500 Einwohnern, 15 km südöstlich von Pforzheim.",
+"frage": "Heimsheims Wahrzeichen heißt Schleglerschloss, wie der Ritterbund, dessen Könige sich hier versammelten. Was ergab die Untersuchung des Baus?",
+"optionen": [
+"Es stand schon vor der Gründung des Ritterbunds.",
+"Die Schlegler ließen es als Versammlungshaus bauen.",
+"Es entstand erst nach der Gefangennahme der Schleglerkönige.",
+"Es brannte bei der Gefangennahme der Schlegler nieder."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt vermuten, die Schlegler hätten hier selbst getagt. Doch Quellen und bauhistorische Untersuchungen zeigen: Die Herren von Gemmingen errichteten den Wohnturm erst nach der Gefangennahme der Schleglerkönige. Später bauten ihn die Herren von Württemberg zum herrschaftlichen Fruchtkasten um. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.heimsheim.de/freizeit-kultur/freizeitangebote/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "270-heimsheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heimsheim",
+"steckbrief": "Stadt im Enzkreis mit rund 5.500 Einwohnern, 15 km südöstlich von Pforzheim.",
+"frage": "Wie weit ist Heimsheim in Luftlinie von Stuttgart entfernt?",
+"optionen": [
+"unter 11 km",
+"11 bis unter 16 km",
+"16 bis unter 21 km",
+"21 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer Heimsheim südöstlich von Pforzheim sucht, vermutet es auf halbem Weg nach Stuttgart. Tatsächlich ist die Landeshauptstadt in Luftlinie 23 Kilometer entfernt, weiter als Pforzheim. Heimsheim liegt im Heckengäu, in der Vorlandschaft des Nordschwarzwalds. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "270-heimsheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heimsheim",
+"steckbrief": "Stadt im Enzkreis mit rund 5.500 Einwohnern, 15 km südöstlich von Pforzheim.",
+"frage": "Ludwig Uhland dichtete über die Gefangennahme der Schleglerkönige in Heimsheim. Wie geriet die Stadt dabei der Überlieferung nach in Brand?",
+"optionen": [
+"Man schoss Stroh an der Stadtmauer in Brand.",
+"Die Schlegler legten selbst Feuer, um zu fliehen.",
+"Ein Blitz schlug während der Versammlung ein.",
+"Ein Küchenfeuer in der Ritterherberge geriet außer Kontrolle."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Versammlung von Rittern liegt ein Unglück im eigenen Quartier nahe. Doch als Graf Eberhard der Milde vor die Stadt zog, soll der Überlieferung nach ein Strohhaufen an der Stadtmauer in Brand geschossen worden sein. Er trug das Feuer in die enggedrängte Stadt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.heimsheim.de/freizeit-kultur/kultur/schleglerbund-schleglerschloss",
+"faktencheck": "korrigiert",
+"id": "270-heimsheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heimsheim",
+"steckbrief": "Stadt im Enzkreis mit rund 5.500 Einwohnern, 15 km südöstlich von Pforzheim.",
+"frage": "Reichsgraf von Graevenitz ließ sich in Heimsheim ein Barockschloss bauen, verlor sein Lehen aber 1733. Wem wurde Heimsheim 1734 übereignet?",
+"optionen": [
+"Der Stadt Heimsheim selbst.",
+"Herzogin Maria Augusta.",
+"Dem Kloster Maulbronn.",
+"Einem Neffen des Grafen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Fällt ein Lehen zurück, liegt nahe, dass der Herzog es selbst behält. Doch 1734 wurde Heimsheim Herzogin Maria Augusta übereignet, und das Schloss diente ihr als Witwensitz. Graevenitz, württembergischer Premierminister, hatte Heimsheim zur Miniaturresidenz umbauen lassen. Im Festsaal prangt Carlo Carlones Deckengemälde „Herakles am Scheideweg“. Die Stadt kaufte das Schloss erst 1812. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert und /freizeit-kultur/freizeitangebote/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "270-heimsheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heimsheim",
+"steckbrief": "Stadt im Enzkreis mit rund 5.500 Einwohnern, 15 km südöstlich von Pforzheim.",
+"frage": "Die Schlegler, ein Ritterbund, verteidigten alte Ritterrechte gegen Württemberg und die freien Städte. Welches Abzeichen trugen sie?",
+"optionen": [
+"Sie trugen eine kleine goldene Krone.",
+"Sie trugen ein rotes Kreuz auf Weiß.",
+"Sie trugen einen silbernen Sporn als Zeichen.",
+"Sie trugen einen Dreschflegel als Abzeichen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Rittern, deren Anführer Könige hießen, denkt man an Kronen oder Sporen. Doch ihr Zeichen war ein Schlegel, also ein Dreschflegel. Vorläufer war der am Martinstag gegründete Bund der Martinsvögel; nach dessen Auflösung gründeten die Ritter den neuen Bund der Schlegler. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.heimsheim.de/freizeit-kultur/kultur/schleglerbund-schleglerschloss",
+"faktencheck": "korrigiert",
+"id": "270-heimsheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heimsheim",
+"steckbrief": "Stadt im Enzkreis mit rund 5.500 Einwohnern, 15 km südöstlich von Pforzheim.",
+"frage": "Bei welchem Anlass wird Heimsheim erstmals schriftlich erwähnt?",
+"optionen": [
+"Kaiser Otto der Große traf hier seine Söhne.",
+"Karl der Große schenkte das Dorf einem Kloster.",
+"Ein Graf verkaufte das Dorf an Württemberg.",
+"Friedrich Barbarossa hielt hier einen Hoftag ab."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schenkungen an Klöster sind die übliche erste Spur alter Dörfer. Heimsheim erscheint dagegen in einer Chronik als „Heimbodesheim“: Kaiser Otto der Große traf dort 965, kurz nach seiner Kaiserkrönung in Rom, seine Söhne. Dabei waren König Otto II. und Erzbischof Wilhelm von Mainz. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.heimsheim.de/unsere-stadt/geschichte/stadtgeschichtlicher-ueberblick; LEO-BW, Historisches Ortslexikon",
+"faktencheck": "korrigiert",
+"id": "270-heimsheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "269-wurmberg",
+"anschluss": [
+"Bundestagswahl 2025: AfD in Wurmberg 30,6, in Heimsheim 16,3 Prozent.",
+"Fläche: Heimsheim ist fast doppelt so groß wie Wurmberg."
+],
+"anschluesse": {
+"97-vaihingen": [
+"Kreisgrenze: Vaihingen an der Enz gehört zum Landkreis Ludwigsburg, Heimsheim zum Enzkreis.",
+"Vaihingen an der Enz hat gut fünfmal so viele Einwohner wie Heimsheim."
+],
+"99-pforzheim": [
+"Kreisgrenze: Pforzheim ist kreisfrei, Heimsheim gehört zum Enzkreis.",
+"Bundestagswahl 2025: In Pforzheim lag die AfD vorn, in Heimsheim die CDU."
+],
+"268-niefern-oeschelbronn": [
+"Niefern-Öschelbronn hat fast zweieinhalbmal so viele Einwohner wie Heimsheim.",
+"Heimsheim liegt rund 170 Meter höher als Niefern-Öschelbronn."
+],
+"269-wurmberg": [
+"Bundestagswahl 2025: AfD in Wurmberg 30,6, in Heimsheim 16,3 Prozent.",
+"Fläche: Heimsheim ist fast doppelt so groß wie Wurmberg."
+],
+"271-rutesheim": [
+"Kreisgrenze: Rutesheim gehört zum Landkreis Böblingen, Heimsheim zum Enzkreis.",
+"Rutesheim hat doppelt so viele Einwohner wie Heimsheim."
+],
+"100-leonberg": [
+"Kreisgrenze: Leonberg gehört zum Landkreis Böblingen, Heimsheim zum Enzkreis.",
+"Leonberg hat neunmal so viele Einwohner wie Heimsheim."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Heimsheim zum Enzkreis.",
+"Sindelfingen hat elfmal so viele Einwohner wie Heimsheim."
+]
+},
+"ags": "08236025",
+"ortsteil": false,
+"km_vom_vorigen": 8.0
+},
+{
+"slug": "271-rutesheim",
+"name": "Rutesheim",
+"lat": 48.80972,
+"lon": 8.945,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rutesheim",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 17 km westlich von Stuttgart.",
+"frage": "Rutesheim bekam einst eine recht breite, schnurgerade Ortsdurchfahrt. Wie kam es dazu?",
+"optionen": [
+"Man verbreiterte sie für eine Straßenbahn nach Stuttgart.",
+"Nach einem Großbrand baute man den Ort neu.",
+"Die Straße diente als Exerzierplatz für Soldaten.",
+"Sie wurde als langgestreckter Viehmarkt angelegt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Schnurgerade Straßen kennt man eher von geplanten Städten, doch Rutesheim ist ein alter Ort. Ein Großbrand zerstörte in wenigen Stunden zahlreiche Wohnhäuser, Scheunen, Wagenschuppen und das Rathaus. Beim Wiederaufbau entstanden eine recht breite, schnurgerade Ortsdurchfahrt und geordnete Grundstückszuschnitte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html (Hinweis: Die neue Option 1 ist erfunden. Eine Straßenbahn nach Rutesheim ist nirgends belegt, das sollte im nächsten Lauf als Negativnachweis aufgenommen werden.)",
+"faktencheck": "korrigiert",
+"id": "271-rutesheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rutesheim",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 17 km westlich von Stuttgart.",
+"frage": "Wie groß ist die Fläche des Stadtgebiets von Rutesheim?",
+"optionen": [
+"unter 6 km²",
+"6 bis unter 11 km²",
+"11 bis unter 18 km²",
+"18 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 11.000 Einwohnern rechnet man mit einer kleinen, dicht bebauten Gemarkung. Doch den größten Teil der Fläche nehmen landwirtschaftliche Flächen und Stadtwald ein; bebaut ist nur ein kleiner Teil. Insgesamt umfasst die Gemarkung 16,22 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046; Flächennutzung: Gemeinde-Webseite, www.rutesheim.de/start/buerger+_+stadt/zahlen+und+fakten.html",
+"faktencheck": "bestätigt",
+"id": "271-rutesheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rutesheim",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 17 km westlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Hildemar schenkte Kloster Lorsch einen Rutesheimer Hof.",
+"Ein Pfarrer schrieb die Ortschronik des Ortsteils Perouse.",
+"Rutesheim erhielt seine Stadtrechte bereits im späten Mittelalter."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mittelalterliche Stadtrechte haben viele württembergische Städtchen, darum klingt die Lüge glaubhaft. Rutesheim aber blieb lange eine Gemeinde; die Stadtrechte verlieh der Ministerrat des Landes erst in diesem Jahrhundert. Die Schenkung Hildemars steht im Codex des Klosters Lorsch, die Chronik von Perouse schrieb Pfarrer Herbert Vinçon. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "271-rutesheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rutesheim",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern im Landkreis Böblingen, 17 km westlich von Stuttgart.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Rutesheim?",
+"optionen": [
+"unter 38 %",
+"38 bis unter 42 %",
+"42 bis unter 46 %",
+"46 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In Württemberg denkt man bei einer Kleinstadt im Stuttgarter Umland schnell an eine sehr klare CDU-Mehrheit. In Rutesheim holte die CDU 36,6 Prozent der Zweitstimmen und lag damit klar vorn; SPD, AfD und Grüne folgten dicht beieinander. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "271-rutesheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rutesheim",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 17 km westlich von Stuttgart.",
+"frage": "Rutesheims Ortsteil Perouse trägt einen ungewöhnlichen Namen. Warum wurde er so benannt?",
+"optionen": [
+"Er erinnert an einen französischen Gutsherrn.",
+"Die ersten Siedler nannten ihn nach ihrer Heimat.",
+"Er ehrt einen Herzog, der die Siedlung förderte.",
+"Er ist nach einem Bach in der Nähe benannt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der französische Klang lässt an einen adligen Gutsherrn denken. Gegründet haben Perouse Waldenser, Angehörige einer evangelischen Glaubensbewegung. Sie benannten den Ort nach ihrem Heimatort Perosa im unteren Tal des Chisone. Familiennamen wie Baret, Mouris, Simondet und Vinçon haben sich erhalten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html (Hinweis: Die neuen Optionen 3 und 4 sind erfunden. Der Quelltext nennt als einzigen Grund für den Namen den Heimatort Perosa.)",
+"faktencheck": "korrigiert",
+"id": "271-rutesheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rutesheim",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern im Landkreis Böblingen, westlich von Stuttgart.",
+"frage": "Wie weit liegt Rutesheim in Luftlinie von der Landeshauptstadt Stuttgart entfernt, gemessen von Ortsmitte zu Stadtmitte?",
+"optionen": [
+"unter 10 km",
+"10 bis unter 15 km",
+"15 bis unter 25 km",
+"25 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Weil das Umland Stuttgarts eng zusammengewachsen ist, schätzt man den Abstand leicht zu klein. Von der Ortsmitte Rutesheims bis zur Stuttgarter Stadtmitte sind es in Luftlinie 17 Kilometer. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "271-rutesheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rutesheim",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 17 km westlich von Stuttgart.",
+"frage": "Woher hat Rutesheim nach der Ortsgeschichte vermutlich seinen Namen?",
+"optionen": [
+"Der Name kommt von Weidenruten am Bach.",
+"Der Name erinnert an eine alte Waldrodung.",
+"Der Name kommt von Wünschelruten der Brunnenbauer.",
+"Der Name geht auf den Gründer zurück."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer „Rute“ hört, denkt an Gerten, Wünschelruten oder an Rodungen, die im Schwäbischen oft in Ortsnamen stecken. Doch nach der Ortsgeschichte ist ein Mann namens Ruotmar wohl der Gründer und Namensvater. Urkundlich erwähnt wurde der Ort als Villa Rothmaresheim. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "271-rutesheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rutesheim",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 17 km westlich von Stuttgart.",
+"frage": "Die Rutesheimer tragen einen Spitznamen. Worauf geht er zurück?",
+"optionen": [
+"Er geht auf eine örtliche Speise zurück.",
+"Er erinnert an einen Streich gegen Nachbarn.",
+"Er spielt auf ein altes Wappentier an.",
+"Er stammt von der Farbe alter Trachten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele schwäbische Necknamen erzählen von Streichen und Missgeschicken, darum liegt diese Deutung nahe. In Rutesheim steckt aber ein Gericht dahinter: der Rohstrugel, die Rutesheimer Nationalspeise aus Nudelteig, Äpfeln und einer Eier-Milch-Soße, im Ofen gebacken. Beim jährlichen Rohstrugel-Fußballturnier gibt es ihn frisch gebacken. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "271-rutesheim/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "270-heimsheim",
+"anschluss": [
+"Die Waldenser des Rutesheimer Ortsteils Perouse kamen in Heimsheim an.",
+"Rutesheims Ortsteil Perouse bekam 1895 Wasser aus Heimsheimer Quellen."
+],
+"anschluesse": {
+"97-vaihingen": [
+"Kreisgrenze: Vaihingen an der Enz gehört zum Landkreis Ludwigsburg, Rutesheim zum Landkreis Böblingen.",
+"Vaihingen an der Enz hat gut zweieinhalbmal so viele Einwohner wie Rutesheim."
+],
+"99-pforzheim": [
+"Kreisgrenze: Pforzheim ist kreisfrei, Rutesheim gehört zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Pforzheim lag die AfD vorn, in Rutesheim die CDU."
+],
+"268-niefern-oeschelbronn": [
+"Kreisgrenze: Niefern-Öschelbronn gehört zum Enzkreis, Rutesheim zum Landkreis Böblingen.",
+"Niefern-Öschelbronn hat rund 1.500 Einwohner mehr als Rutesheim."
+],
+"269-wurmberg": [
+"Kreisgrenze: Wurmberg gehört zum Enzkreis, Rutesheim zum Landkreis Böblingen.",
+"Rutesheim hat fast dreieinhalbmal so viele Einwohner wie Wurmberg."
+],
+"270-heimsheim": [
+"Die Waldenser des Rutesheimer Ortsteils Perouse kamen in Heimsheim an.",
+"Rutesheims Ortsteil Perouse bekam 1895 Wasser aus Heimsheimer Quellen."
+],
+"100-leonberg": [
+"Leonberg hat viereinhalbmal so viele Einwohner wie Rutesheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Leonberg die Grünen, in Rutesheim die SPD."
+],
+"272-sindelfingen": [
+"Sindelfingen hat fast sechsmal so viele Einwohner wie Rutesheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Sindelfingen die AfD, in Rutesheim die SPD."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Rutesheim zum Landkreis Böblingen.",
+"Leinfelden-Echterdingen hat fast viermal so viele Einwohner wie Rutesheim."
+],
+"101-stuttgart": [
+"Kreisgrenze: Stuttgart ist kreisfrei, Rutesheim gehört zum Landkreis Böblingen.",
+"Stuttgart hat rund 55-mal so viele Einwohner wie Rutesheim."
+]
+},
+"ags": "08115042",
+"ortsteil": false,
+"km_vom_vorigen": 6.1
 },
 {
 "slug": "100-leonberg",
@@ -30229,11 +31638,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "99-pforzheim",
-"anschluss": [
-"Leonbergs Pferdemarkt sollte dem Pforzheimer Pferdemarkt Konkurrenz machen.",
-"Bundestagswahl 2025: Stärkste Partei in Pforzheim AfD, in Leonberg CDU."
-],
+"anschluss_von": "271-rutesheim",
+"anschluss": [],
 "anschluesse": {
 "97-vaihingen": [
 "Kreisgrenze: Vaihingen an der Enz gehört zum Landkreis Ludwigsburg, Leonberg zum Landkreis Böblingen.",
@@ -30243,18 +31649,451 @@ window.QA_DATEN = {
 "Kreisgrenze: Ludwigsburg gehört zum Landkreis Ludwigsburg, Leonberg zum Landkreis Böblingen.",
 "Ludwigsburg hat fast doppelt so viele Einwohner wie Leonberg."
 ],
+"269-wurmberg": [
+"Kreisgrenze: Wurmberg gehört zum Enzkreis, Leonberg zum Landkreis Böblingen.",
+"Leonberg hat fünfzehnmal so viele Einwohner wie Wurmberg."
+],
+"270-heimsheim": [
+"Kreisgrenze: Heimsheim gehört zum Enzkreis, Leonberg zum Landkreis Böblingen.",
+"Leonberg hat neunmal so viele Einwohner wie Heimsheim."
+],
+"271-rutesheim": [
+"Leonberg hat viereinhalbmal so viele Einwohner wie Rutesheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rutesheim die SPD, in Leonberg die Grünen."
+],
+"272-sindelfingen": [
+"Sindelfingen hat rund 12.000 Einwohner mehr als Leonberg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Sindelfingen die AfD, in Leonberg die Grünen."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Leonberg zum Landkreis Böblingen.",
+"Leonberg hat rund 8.100 Einwohner mehr als Leinfelden-Echterdingen."
+],
 "101-stuttgart": [
 "Kreisgrenze: Stuttgart ist kreisfrei, Leonberg gehört zum Landkreis Böblingen.",
 "Stuttgart hat zwölfmal so viele Einwohner wie Leonberg."
-],
-"99-pforzheim": [
-"Leonbergs Pferdemarkt sollte dem Pforzheimer Pferdemarkt Konkurrenz machen.",
-"Bundestagswahl 2025: Stärkste Partei in Pforzheim AfD, in Leonberg CDU."
 ]
 },
 "ags": "08115028",
 "ortsteil": false,
-"km_vom_vorigen": 24.8
+"km_vom_vorigen": 5.1
+},
+{
+"slug": "272-sindelfingen",
+"name": "Sindelfingen",
+"lat": 48.71333,
+"lon": 9.00278,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sindelfingen",
+"steckbrief": "Stadt mit rund 61.000 Einwohnern, 15 km südwestlich von Stuttgart.",
+"frage": "1477 verlor Sindelfingen sein wohlhabendes Chorherrenstift. Was wurde aus ihm?",
+"optionen": [
+"Es brannte bei einem Stadtbrand nieder.",
+"Es wurde in ein Spital umgewandelt.",
+"Es wurde zur Burg der Grafen ausgebaut.",
+"Es wurde Grundstock einer neuen Universität."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wenn ein reiches Stift verschwindet, denkt man an Feuer oder Krieg. Doch Graf Eberhard ließ das Sindelfinger Chorherrenstift nach Tübingen verlegen, als Grundstock für die neue Universität dort. Sindelfingen wurde so zum Geburtshelfer der Tübinger Universität. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "272-sindelfingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sindelfingen",
+"steckbrief": "Stadt mit rund 61.000 Einwohnern, 15 km südwestlich von Stuttgart.",
+"frage": "Wie viele Einwohner kommen in Sindelfingen auf einen Quadratkilometer?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 2.500",
+"2.500 bis unter 4.000",
+"4.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Industriestadt direkt bei Stuttgart wirkt dicht bebaut, deshalb tippen viele hoch. Doch zur Stadt gehören auch die eingemeindeten Ortsteile Maichingen und Darmsheim sowie viel Wald. Auf einen Quadratkilometer kommen etwa 1.200 Einwohner. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 31.12.2025) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "272-sindelfingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Sindelfingen",
+"steckbrief": "Stadt mit rund 61.000 Einwohnern, 15 km südwestlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Am Goldberg gab es im Bauernkrieg eine Schlacht.",
+"Die Siedlung Schnödeneck wurde für Weber gebaut.",
+"Der Turm der Martinskirche stand ursprünglich frei."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Sindelfingen war ein Zentrum der Handweberei, daher klingt eine Webersiedlung glaubhaft. Doch die Gartenhofsiedlung Schnödeneck entstand, weil die Ansiedlung von Daimler Wohnraum nötig machte. Geplant hat sie der Architekt Paul Schmitthenner. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.sindelfingen.de/bauen-wirtschaft/bauen/denkmalpflege",
+"faktencheck": "bestätigt",
+"id": "272-sindelfingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sindelfingen",
+"steckbrief": "Stadt mit rund 61.000 Einwohnern, 15 km südwestlich von Stuttgart.",
+"frage": "Wie hoch war die Wahlbeteiligung in Sindelfingen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 77 %",
+"77 bis unter 82 %",
+"82 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 mobilisierte stark, daher liegt ein Wert über 82 Prozent nahe. In Sindelfingen lag die Wahlbeteiligung bei 80,2 Prozent. Stärkste Kraft wurde die CDU, zweitstärkste die AfD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025",
+"faktencheck": "bestätigt",
+"id": "272-sindelfingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sindelfingen",
+"steckbrief": "Stadt mit rund 61.000 Einwohnern, 15 km südwestlich von Stuttgart.",
+"frage": "Die Ansiedlung der Daimler-Motoren-Gesellschaft gab Sindelfingen den entscheidenden Entwicklungsschub. Wann war das?",
+"optionen": [
+"Das war im Jahr 1896.",
+"Das war im Jahr 1936.",
+"Das war im Jahr 1951.",
+"Das war im Jahr 1915."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele verbinden Daimler mit dem Wirtschaftswunder nach dem Zweiten Weltkrieg, als das Auto zum Massenprodukt wurde. Doch die Daimler-Motoren-Gesellschaft kam schon 1915, mitten im Ersten Weltkrieg. Aus dem beschaulichen Landstädtchen wurde danach eine moderne, internationale Industriestadt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "272-sindelfingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Sindelfingen",
+"steckbrief": "Stadt mit rund 61.000 Einwohnern, 15 km südwestlich von Stuttgart.",
+"frage": "Zu welchem Landkreis gehört Sindelfingen?",
+"optionen": [
+"Böblingen",
+"Esslingen",
+"Ludwigsburg",
+"Calw"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rund um Stuttgart liegen mehrere Landkreise dicht beieinander, da sind Esslingen oder Ludwigsburg naheliegende Tipps. Sindelfingen liegt aber südwestlich der Landeshauptstadt und gehört zum Landkreis Böblingen. Richtig war 1.",
+"quelle": "dewiki Infobox, Artikel Sindelfingen",
+"faktencheck": "bestätigt",
+"id": "272-sindelfingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sindelfingen",
+"steckbrief": "Stadt mit rund 61.000 Einwohnern, 15 km südwestlich von Stuttgart.",
+"frage": "Einige Pergamentblätter aus dem Sindelfinger Stift, darunter Notenblätter, sind erhalten. Wofür nutzte man sie später?",
+"optionen": [
+"Man spannte sie als Ersatz für Fensterglas auf.",
+"Man band damit städtische Rechnungen ein.",
+"Man wickelte darin Waren auf dem Markt ein.",
+"Man bespannte damit Trommeln der Stadtwache."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Pergament ist zäh und lässt Licht durch, als Ersatz für teures Glas klingt das plausibel. Die Blätter aus dem Stift dienten aber später zum Einbinden städtischer Rechnungen. Einige davon bewahrt heute das Stadtmuseum. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg",
+"faktencheck": "bestätigt",
+"id": "272-sindelfingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sindelfingen",
+"steckbrief": "Stadt mit rund 61.000 Einwohnern, 15 km südwestlich von Stuttgart.",
+"frage": "Beim Bau des Mittleren Rathauses 1843–1845 entstand erstmals ein großer Marktplatz. Welches Gebäude musste dafür weichen?",
+"optionen": [
+"Das Alte Rathaus wurde abgebrochen.",
+"Das Salzhaus wurde abgebrochen.",
+"Der städtische Schafstall wurde abgebrochen.",
+"Die Universitätszehntscheuer wurde abgebrochen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Alte Rathaus war baufällig und zu klein geworden, daher liegt sein Abriss nahe. Doch es steht bis heute und beherbergt zusammen mit dem Salzhaus das Stadtmuseum. Für den neuen Marktplatz am Mittleren Rathaus wurde ein städtischer Schafstall abgerissen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.sindelfingen.de/stadt-sindelfingen/stadtportrait/stadtgeschichtlicher-weg",
+"faktencheck": "korrigiert",
+"id": "272-sindelfingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "100-leonberg",
+"anschluss": [
+"Einwohner: Sindelfingen hat rund 12.000 mehr als Leonberg.",
+"Bundestagswahl 2025: Leonberg hatte eine höhere Wahlbeteiligung als Sindelfingen."
+],
+"anschluesse": {
+"91-herrenberg": [
+"Sindelfingen hat fast doppelt so viele Einwohner wie Herrenberg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Herrenberg die Grünen, in Sindelfingen die AfD."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Sindelfingen zum Landkreis Böblingen.",
+"Sindelfingen hat gut fünfmal so viele Einwohner wie Ammerbuch."
+],
+"270-heimsheim": [
+"Kreisgrenze: Heimsheim gehört zum Enzkreis, Sindelfingen zum Landkreis Böblingen.",
+"Sindelfingen hat elfmal so viele Einwohner wie Heimsheim."
+],
+"271-rutesheim": [
+"Sindelfingen hat fast sechsmal so viele Einwohner wie Rutesheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rutesheim die SPD, in Sindelfingen die AfD."
+],
+"100-leonberg": [
+"Einwohner: Sindelfingen hat rund 12.000 mehr als Leonberg.",
+"Bundestagswahl 2025: Leonberg hatte eine höhere Wahlbeteiligung als Sindelfingen."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Sindelfingen zum Landkreis Böblingen.",
+"Sindelfingen hat anderthalbmal so viele Einwohner wie Leinfelden-Echterdingen."
+],
+"101-stuttgart": [
+"Kreisgrenze: Stuttgart ist kreisfrei, Sindelfingen gehört zum Landkreis Böblingen.",
+"Stuttgart hat zehnmal so viele Einwohner wie Sindelfingen."
+],
+"274-ostfildern": [
+"Kreisgrenze: Ostfildern gehört zum Landkreis Esslingen, Sindelfingen zum Landkreis Böblingen.",
+"Sindelfingen hat anderthalbmal so viele Einwohner wie Ostfildern."
+]
+},
+"ags": "08115045",
+"ortsteil": false,
+"km_vom_vorigen": 9.8
+},
+{
+"slug": "273-leinfelden-echterdingen",
+"name": "Leinfelden-Echterdingen",
+"lat": 48.69278,
+"lon": 9.14278,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leinfelden-Echterdingen",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 10 km südlich von Stuttgart.",
+"frage": "1991 stieß man in Leinfelden-Echterdingen auf eine Siedlung aus der Jungsteinzeit. Wo genau?",
+"optionen": [
+"Die Funde lagen auf dem Flughafengelände.",
+"Man stieß beim Bau der Neuen Messe darauf.",
+"Sie lag an der S-Bahn-Linie Leinfelden–Echterdingen.",
+"Sie lag unter dem alten Rathaus Echterdingen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Flughafen oder Messe liegen nahe, denn große Baustellen bringen oft Funde ans Licht. Die Siedlung kam jedoch an der S-Bahn-Linie zwischen Leinfelden und Echterdingen zutage. Ihre Bewohner gehörten zur Kultur der Bandkeramik, benannt nach den Bandmustern auf ihren Tongefäßen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.leinfelden-echterdingen.de/Startseite/Stadt/Stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "273-leinfelden-echterdingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leinfelden-Echterdingen",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 10 km südlich von Stuttgart.",
+"frage": "Wie viele Einwohner kommen in Leinfelden-Echterdingen auf einen Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 800",
+"800 bis unter 1.200",
+"1.200 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an Krautäcker und Wald denkt, schätzt eher niedrig. Doch die Stadt liegt nahe Stuttgart und ist dicht besiedelt: Rechnerisch kommen 1.387 Einwohner auf einen Quadratkilometer (Stand Ende 2025). Richtig war 4.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "273-leinfelden-echterdingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Leinfelden-Echterdingen",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 10 km südlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Musberg wurde erstmals in einer päpstlichen Urkunde erwähnt.",
+"Die Riesenschanze ist eine keltische Viereckanlage.",
+"Die Stadt entstand aus genau zwei früheren Gemeinden."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Doppelname legt zwei Gemeinden nahe. Tatsächlich schlossen sich bei der Gemeindereform vier Gemeinden zusammen: Echterdingen, Leinfelden, Musberg und Stetten. Musberg wird wirklich erstmals in einer päpstlichen Urkunde genannt, und die Riesenschanze ist eine keltische Viereckanlage, eine von Wall und Graben umgebene Anlage. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.leinfelden-echterdingen.de/Startseite/Stadt/Stadtgeschichte.html und www.leinfelden-echterdingen.de/Startseite/Stadt/Zahlen_Fakten.html",
+"faktencheck": "korrigiert",
+"id": "273-leinfelden-echterdingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leinfelden-Echterdingen",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 10 km südlich von Stuttgart.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Leinfelden-Echterdingen?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 35 %",
+"35 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Stuttgarter Umland erwarten viele eine CDU weit über 35 Prozent. Sie wurde zwar klar stärkste Kraft, kam aber auf 33,2 Prozent. Auf Platz zwei landeten die Grünen. Stand: Bundestagswahl vom 23. Februar 2025. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "273-leinfelden-echterdingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leinfelden-Echterdingen",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 10 km südlich von Stuttgart.",
+"frage": "Graf Zeppelins Luftschiff LZ 4 landete am 5. August 1908 bei Echterdingen. Warum ging es dort nieder?",
+"optionen": [
+"Echterdingen war als Ziel der Fahrt geplant.",
+"Der Graf wollte dort Ehrengäste an Bord nehmen.",
+"Ein Motorschaden auf der 24-Stunden-Fahrt erzwang die Landung.",
+"Ein Passagier an Bord war schwer erkrankt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Landung auf einer Wiese wirkt wie ein geplanter Auftritt vor Publikum. Tatsächlich erzwang ein Motorschaden auf der 24-Stunden-Fahrt die Landung. Am selben Nachmittag zerstörte ein Gewitter das Luftschiff. Die Spendenaktion danach heißt „Wunder von Echterdingen“. Richtig war 3.",
+"quelle": "Stadtmuseum Leinfelden-Echterdingen, bawue.museum-digital.de/pdf/object/69970.pdf",
+"faktencheck": "korrigiert",
+"id": "273-leinfelden-echterdingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Leinfelden-Echterdingen",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 10 km südlich von Stuttgart.",
+"frage": "Zu welchem Landkreis gehört Leinfelden-Echterdingen?",
+"optionen": [
+"Landkreis Böblingen",
+"Landkreis Ludwigsburg",
+"Landkreis Reutlingen",
+"Landkreis Esslingen"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Böblingen liegt nahe, denn der Kreis Böblingen grenzt wie Esslingen an Stuttgart. Leinfelden-Echterdingen gehört aber zum Landkreis Esslingen; das Hauptkennzeichen ist ES. Richtig war 4.",
+"quelle": "dewiki Infobox (Landkreis); Wikidata P395 (Kennzeichen)",
+"faktencheck": "bestätigt",
+"id": "273-leinfelden-echterdingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Leinfelden-Echterdingen",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 10 km südlich von Stuttgart.",
+"frage": "Wie viele Berufspendler kommen laut Stadt von auswärts zur Arbeit nach Leinfelden-Echterdingen?",
+"optionen": [
+"30.000 und mehr",
+"15.000 bis unter 30.000",
+"5.000 bis unter 15.000",
+"unter 5.000"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe vor den Toren Stuttgarts hält man eher für einen Wohnort, aus dem Menschen in die Großstadt pendeln. Doch laut Stadt kommen jeden Werktag 33.974 Einpendler, deutlich mehr als Auspendler. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.leinfelden-echterdingen.de/Startseite/Stadt/Zahlen_Fakten.html",
+"faktencheck": "korrigiert",
+"id": "273-leinfelden-echterdingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leinfelden-Echterdingen",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 10 km südlich von Stuttgart.",
+"frage": "In Musberg lief bis 1995 ein Skilift am „Piz Mus“. Woher kommt dieser Name?",
+"optionen": [
+"Er geht auf einen alten Flurnamen zurück.",
+"Er verbindet ein Alpenwort mit dem Ortsnamen.",
+"Er war der Spitzname des Liftbetreibers.",
+"Er ist ein schwäbisches Wort für Hang."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein alter Flurname läge nahe, denn viele Hänge tragen solche Namen. Doch der Hang heißt eigentlich Hauberg. Bürgermeister Gustav Egler taufte ihn „Piz Mus“: das alpine „Piz“ für Gipfel vor dem Ortsnamen Musberg. Der Schlepplift stand 1995 still, wegen schneearmer Winter, Erbstreit und nötiger Investitionen. Richtig war 2.",
+"quelle": "Stuttgarter Zeitung, stuttgarter-zeitung.de (Unser Stuttgart-Album: Piz Mus)",
+"faktencheck": "korrigiert",
+"id": "273-leinfelden-echterdingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "272-sindelfingen",
+"anschluss": [
+"Nachbarn: Sindelfingen grenzt im Westen an Leinfelden-Echterdingen.",
+"Wahlbeteiligung 2025: Leinfelden-Echterdingen 86,1 Prozent, Sindelfingen nur 80,2."
+],
+"anschluesse": {
+"271-rutesheim": [
+"Kreisgrenze: Rutesheim gehört zum Landkreis Böblingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
+"Leinfelden-Echterdingen hat fast viermal so viele Einwohner wie Rutesheim."
+],
+"100-leonberg": [
+"Kreisgrenze: Leonberg gehört zum Landkreis Böblingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
+"Leonberg hat rund 8.100 Einwohner mehr als Leinfelden-Echterdingen."
+],
+"272-sindelfingen": [
+"Nachbarn: Sindelfingen grenzt im Westen an Leinfelden-Echterdingen.",
+"Wahlbeteiligung 2025: Leinfelden-Echterdingen 86,1 Prozent, Sindelfingen nur 80,2."
+],
+"101-stuttgart": [
+"Kreisgrenze: Stuttgart ist kreisfrei, Leinfelden-Echterdingen gehört zum Landkreis Esslingen.",
+"Stuttgart hat fünfzehnmal so viele Einwohner wie Leinfelden-Echterdingen."
+],
+"102-esslingen": [
+"Esslingen am Neckar hat fast zweieinhalbmal so viele Einwohner wie Leinfelden-Echterdingen.",
+"Leinfelden-Echterdingen liegt rund 190 Meter höher als Esslingen am Neckar."
+],
+"274-ostfildern": [
+"Ostfildern und Leinfelden-Echterdingen sind fast gleich groß: rund 40.000 und 41.000 Einwohner."
+],
+"275-denkendorf": [
+"Leinfelden-Echterdingen hat gut dreieinhalbmal so viele Einwohner wie Denkendorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Denkendorf die AfD, in Leinfelden-Echterdingen die Grünen."
+],
+"276-wendlingen": [
+"Leinfelden-Echterdingen hat gut zweieinhalbmal so viele Einwohner wie Wendlingen am Neckar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wendlingen am Neckar die AfD, in Leinfelden-Echterdingen die Grünen."
+]
+},
+"ags": "08116078",
+"ortsteil": false,
+"km_vom_vorigen": 10.5
 },
 {
 "slug": "101-stuttgart",
@@ -30422,23 +32261,44 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "100-leonberg",
-"anschluss": [
-"Höhenlage: Leonberg liegt mehr als 100 Meter höher als Stuttgart.",
-"Bundestagswahl 2025: Grüne in Stuttgart 21,7, in Leonberg 15,5 Prozent."
-],
+"anschluss_von": "273-leinfelden-echterdingen",
+"anschluss": [],
 "anschluesse": {
 "98-ludwigsburg": [
 "Kreisgrenze: Ludwigsburg gehört zum Landkreis Ludwigsburg, Stuttgart ist kreisfrei.",
 "Stuttgart hat fast siebenmal so viele Einwohner wie Ludwigsburg."
 ],
+"271-rutesheim": [
+"Kreisgrenze: Rutesheim gehört zum Landkreis Böblingen, Stuttgart ist kreisfrei.",
+"Stuttgart hat rund 55-mal so viele Einwohner wie Rutesheim."
+],
 "100-leonberg": [
-"Höhenlage: Leonberg liegt mehr als 100 Meter höher als Stuttgart.",
-"Bundestagswahl 2025: Grüne in Stuttgart 21,7, in Leonberg 15,5 Prozent."
+"Kreisgrenze: Leonberg gehört zum Landkreis Böblingen, Stuttgart ist kreisfrei.",
+"Stuttgart hat zwölfmal so viele Einwohner wie Leonberg."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Stuttgart ist kreisfrei.",
+"Stuttgart hat zehnmal so viele Einwohner wie Sindelfingen."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Stuttgart ist kreisfrei.",
+"Stuttgart hat fünfzehnmal so viele Einwohner wie Leinfelden-Echterdingen."
 ],
 "102-esslingen": [
 "Kreisgrenze: Esslingen am Neckar gehört zum Landkreis Esslingen, Stuttgart ist kreisfrei.",
 "Stuttgart hat gut sechsmal so viele Einwohner wie Esslingen am Neckar."
+],
+"274-ostfildern": [
+"Kreisgrenze: Ostfildern gehört zum Landkreis Esslingen, Stuttgart ist kreisfrei.",
+"Stuttgart hat fünfzehnmal so viele Einwohner wie Ostfildern."
+],
+"275-denkendorf": [
+"Kreisgrenze: Denkendorf gehört zum Landkreis Esslingen, Stuttgart ist kreisfrei.",
+"Stuttgart hat rund 55-mal so viele Einwohner wie Denkendorf."
+],
+"276-wendlingen": [
+"Kreisgrenze: Wendlingen am Neckar gehört zum Landkreis Esslingen, Stuttgart ist kreisfrei.",
+"Stuttgart hat rund 40-mal so viele Einwohner wie Wendlingen am Neckar."
 ],
 "103-plochingen": [
 "Kreisgrenze: Plochingen gehört zum Landkreis Esslingen, Stuttgart ist kreisfrei.",
@@ -30447,7 +32307,7 @@ window.QA_DATEN = {
 },
 "ags": "08111000",
 "ortsteil": false,
-"km_vom_vorigen": 12.5
+"km_vom_vorigen": 9.8
 },
 {
 "slug": "102-esslingen",
@@ -30665,9 +32525,24 @@ window.QA_DATEN = {
 "Kreisgrenze: Ludwigsburg gehört zum Landkreis Ludwigsburg, Esslingen am Neckar zum Landkreis Esslingen.",
 "Ludwigsburg und Esslingen am Neckar sind fast gleich groß: rund 93.000 und 95.000 Einwohner."
 ],
+"273-leinfelden-echterdingen": [
+"Esslingen am Neckar hat fast zweieinhalbmal so viele Einwohner wie Leinfelden-Echterdingen.",
+"Leinfelden-Echterdingen liegt rund 190 Meter höher als Esslingen am Neckar."
+],
 "101-stuttgart": [
 "Kennzeichen: In Stuttgart steht S am Auto, in Esslingen ES.",
 "Einwohner: Stuttgart hat gut sechsmal so viele wie Esslingen."
+],
+"274-ostfildern": [
+"Esslingen am Neckar hat fast zweieinhalbmal so viele Einwohner wie Ostfildern."
+],
+"275-denkendorf": [
+"Esslingen am Neckar hat fast neunmal so viele Einwohner wie Denkendorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Denkendorf die AfD, in Esslingen am Neckar die Grünen."
+],
+"276-wendlingen": [
+"Esslingen am Neckar hat sechsmal so viele Einwohner wie Wendlingen am Neckar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wendlingen am Neckar die AfD, in Esslingen am Neckar die Grünen."
 ],
 "103-plochingen": [
 "Esslingen am Neckar hat fast siebenmal so viele Einwohner wie Plochingen.",
@@ -30676,11 +32551,674 @@ window.QA_DATEN = {
 "104-kirchheim-teck": [
 "Esslingen am Neckar hat fast zweieinhalbmal so viele Einwohner wie Kirchheim unter Teck.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Kirchheim unter Teck die AfD, in Esslingen am Neckar die Grünen."
+],
+"278-ebersbach-fils": [
+"Kreisgrenze: Ebersbach an der Fils gehört zum Landkreis Göppingen, Esslingen am Neckar zum Landkreis Esslingen.",
+"Esslingen am Neckar hat sechsmal so viele Einwohner wie Ebersbach an der Fils."
 ]
 },
 "ags": "08116019",
 "ortsteil": false,
 "km_vom_vorigen": 10.4
+},
+{
+"slug": "274-ostfildern",
+"name": "Ostfildern",
+"lat": 48.72278,
+"lon": 9.26306,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ostfildern",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 9 km südöstlich von Stuttgart.",
+"frage": "Der Stadtteil Parksiedlung entstand nach dem Zweiten Weltkrieg für Heimatvertriebene und Ausgebombte. Auf welchem Gelände wurde er gebaut?",
+"optionen": [
+"Er entstand auf einem aufgelassenen Steinbruch.",
+"Er entstand auf dem Gelände einer Ziegelei.",
+"Er entstand auf einem stillgelegten Fabrikgelände.",
+"Er entstand auf dem Gelände eines Gestüts."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Nach dem Krieg wurde vielerorts auf Brachflächen von Gewerbe gebaut, das liegt nahe. Die Parksiedlung aber entstand auf dem Gelände des ehemaligen Königlichen Privatgestüts Weil. Philipp Albrecht von Württemberg stellte es großzügig zur Verfügung. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ostfildern.de/stadtportrait",
+"faktencheck": "bestätigt",
+"id": "274-ostfildern/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ostfildern",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 9 km südöstlich von Stuttgart.",
+"frage": "Wie groß ist das Stadtgebiet von Ostfildern?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 40 km²",
+"40 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Weil Ostfildern aus Kemnat, Nellingen, Ruit und Scharnhausen entstand, schätzt man die Stadt leicht größer. Doch das Stadtgebiet misst nur 22,81 Quadratkilometer; Ostfildern ist dicht besiedelt. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "274-ostfildern/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ostfildern",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 9 km südöstlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Herzog Carl Eugen ließ in Scharnhausen ein Lustschloss bauen.",
+"Zum historischen Kern Nellingens gehört ein romanischer Kirchturm.",
+"Ostfildern besaß schon im Mittelalter das Stadtrecht."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach alter Landschaft, das macht die Lüge glaubhaft. Ostfildern entstand aber erst bei der Kommunalreform aus Kemnat, Nellingen, Ruit und Scharnhausen; Stadt wurde es erst danach. Sein Lustschloss nutzte Carl Eugen als Rückzugsort und Jagdquartier. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.ostfildern.de/stadtchronik",
+"faktencheck": "bestätigt",
+"id": "274-ostfildern/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ostfildern",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 9 km südöstlich von Stuttgart.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Ostfildern die stärkste Partei?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 28 %",
+"28 bis unter 36 %",
+"36 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. So nah an Stuttgart vermutet man leicht ein zersplittertes Ergebnis. Doch die CDU holte bei der Bundestagswahl 2025 in Ostfildern 32,6 Prozent der Zweitstimmen, rund doppelt so viel wie die Grünen auf Platz zwei. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "274-ostfildern/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ostfildern",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 9 km südöstlich von Stuttgart.",
+"frage": "Bevor die amerikanischen Streitkräfte dort Kasernen bauten: Was lag von 1938 bis 1945 auf dem Gelände des heutigen Scharnhauser Parks?",
+"optionen": [
+"Dort lag eine Munitionsanstalt des Heeres.",
+"Dort lag ein Übungsplatz für Panzertruppen.",
+"Dort lag eine Versuchsanstalt für Raketen.",
+"Dort lag ein Fliegerhorst der Luftwaffe."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein großes Militärgelände lässt an Heer oder Rüstung denken. Tatsächlich war es ein Fliegerhorst der Luftwaffe. Danach beschlagnahmten es die Amerikaner; als Nellingen Barracks diente es bis zu ihrem Abzug infolge weltpolitischer Veränderungen. Ein bewusst erhaltener Zaunrest erinnert daran. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ostfildern.de/historisches",
+"faktencheck": "korrigiert",
+"id": "274-ostfildern/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ostfildern",
+"steckbrief": "Stadt im Landkreis Esslingen mit rund 40.000 Einwohnern, südöstlich von Stuttgart.",
+"frage": "Wie weit liegt Ostfildern in Luftlinie von der Landeshauptstadt Stuttgart entfernt, Ortsmitte zu Stadtmitte?",
+"optionen": [
+"unter 10 km",
+"10 bis unter 20 km",
+"20 bis unter 35 km",
+"35 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Als eigene Große Kreisstadt mit mehreren Stadtteilen wirkt Ostfildern leicht weiter entfernt. Doch von Ortsmitte zu Stadtmitte Stuttgart sind es Luftlinie nur 9 Kilometer; eine Stadtbahn verbindet beide Städte. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "274-ostfildern/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ostfildern",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 9 km südöstlich von Stuttgart.",
+"frage": "Im Stadtteil Kemnat sitzt heute der Reiseverlag MairDumont. Womit war Kemnat schon früher überregional bekannt geworden?",
+"optionen": [
+"Kemnat war ein vielbesuchter Wallfahrtsort.",
+"Kemnat hatte einen herrschaftlichen Schafhof.",
+"Kemnat hatte eine weithin bekannte Glockengießerei.",
+"Kemnat hatte ein vielbesuchtes Heilbad."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Verlagsort denkt man an Handwerk oder Gewerbe, und Wallfahrten machten viele Dörfer bekannt. Kemnat aber war als Schafhof der Herrschaft Württemberg überregional bekannt. Vom kleinen Ort wuchs es zur Wohn- und Gewerbegemeinde; Druck und Verlag haben dort Tradition. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ostfildern.de/stadtportrait",
+"faktencheck": "unsicher",
+"id": "274-ostfildern/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ostfildern",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 9 km südöstlich von Stuttgart.",
+"frage": "Der Scharnhauser Pfarrerssohn Philipp Matthäus Hahn wurde selbst Pfarrer, zuerst in Onstmettingen. Für welchen Industriezweig legte er dort den Grundstock?",
+"optionen": [
+"Er legte den Grundstock der Textilindustrie.",
+"Er legte den Grundstock der Papierindustrie.",
+"Er legte den Grundstock der Feinmechanikerindustrie.",
+"Er legte den Grundstock der Porzellanindustrie."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Pfarrer als Industriepionier überrascht, und Textil läge näher. Hahn aber konstruierte astronomische Uhren und legte damit in Onstmettingen den Grundstock der Feinmechanikerindustrie. Das machte Herzog Carl Eugen zu seinem Förderer. Scharnhausen nannte er das Paradies seiner Jugend. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ostfildern.de/historisches",
+"faktencheck": "korrigiert",
+"id": "274-ostfildern/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ostfildern",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 9 km südöstlich von Stuttgart.",
+"frage": "In Nellingen beherbergt ein Gebäude heute Theater, Musikschule und Volkshochschule. Was war es früher?",
+"optionen": [
+"Es war ein Depot der Straßenbahn.",
+"Es war die Halle einer Maschinenfabrik.",
+"Es war eine Markthalle für Obst und Gemüse.",
+"Es war eine Brauerei mit eigener Mälzerei."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kulturhallen waren oft einmal Fabriken, das liegt nahe. In Nellingen aber war es ein Straßenbahndepot: Eine Straßenbahn verband den Ort mit dem Neckartal. Nellingen entwickelte sich zur Arbeiterwohngemeinde. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ostfildern.de/stadtportrait",
+"faktencheck": "bestätigt",
+"id": "274-ostfildern/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ostfildern",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 9 km südöstlich von Stuttgart.",
+"frage": "Charlotte Reihlen, Tochter des Kemnater Pfarrers, schuf die Neufassung eines Bildes, das weltweit in pietistischen Haushalten verbreitet war. Was zeigt es?",
+"optionen": [
+"Es zeigt die Arche Noah in der Sintflut.",
+"Es zeigt den Turmbau zu Babel.",
+"Es zeigt die Hochzeit zu Kana.",
+"Es zeigt den breiten und den schmalen Weg."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Erbauungsbilder zeigten oft bekannte Bibelgeschichten, das liegt nahe. Reihlens Bild aber stellt den breiten und den schmalen Weg dar; als Chromolithografie (Farbdruck) verbreitete es sich weltweit. Die Frau eines wohlhabenden Stuttgarter Kaufmanns lebte selbst fast ärmlich und half Mädchen, Frauen und Armen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ostfildern.de/historisches",
+"faktencheck": "unsicher",
+"id": "274-ostfildern/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "102-esslingen",
+"anschluss": [
+"Fläche: Esslingen ist rund doppelt so groß wie Ostfildern.",
+"Philipp Matthäus Hahn aus Ostfildern-Scharnhausen besuchte die Lateinschule in Esslingen."
+],
+"anschluesse": {
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Ostfildern zum Landkreis Esslingen.",
+"Sindelfingen hat anderthalbmal so viele Einwohner wie Ostfildern."
+],
+"273-leinfelden-echterdingen": [
+"Leinfelden-Echterdingen und Ostfildern sind fast gleich groß: rund 41.000 und 40.000 Einwohner."
+],
+"101-stuttgart": [
+"Kreisgrenze: Stuttgart ist kreisfrei, Ostfildern gehört zum Landkreis Esslingen.",
+"Stuttgart hat fünfzehnmal so viele Einwohner wie Ostfildern."
+],
+"102-esslingen": [
+"Fläche: Esslingen ist rund doppelt so groß wie Ostfildern.",
+"Philipp Matthäus Hahn aus Ostfildern-Scharnhausen besuchte die Lateinschule in Esslingen."
+],
+"275-denkendorf": [
+"Ostfildern hat dreieinhalbmal so viele Einwohner wie Denkendorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Denkendorf die AfD, in Ostfildern die Grünen."
+],
+"276-wendlingen": [
+"Ostfildern hat zweieinhalbmal so viele Einwohner wie Wendlingen am Neckar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wendlingen am Neckar die AfD, in Ostfildern die Grünen."
+],
+"103-plochingen": [
+"Ostfildern hat gut zweieinhalbmal so viele Einwohner wie Plochingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Plochingen die SPD, in Ostfildern die Grünen."
+],
+"104-kirchheim-teck": [
+"Kirchheim unter Teck und Ostfildern sind fast gleich groß: rund 42.000 und 40.000 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kirchheim unter Teck die AfD, in Ostfildern die Grünen."
+],
+"278-ebersbach-fils": [
+"Kreisgrenze: Ebersbach an der Fils gehört zum Landkreis Göppingen, Ostfildern zum Landkreis Esslingen.",
+"Ostfildern hat zweieinhalbmal so viele Einwohner wie Ebersbach an der Fils."
+]
+},
+"ags": "08116080",
+"ortsteil": false,
+"km_vom_vorigen": 4.0
+},
+{
+"slug": "275-denkendorf",
+"name": "Denkendorf",
+"lat": 48.69583,
+"lon": 9.3175,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Denkendorf",
+"steckbrief": "Gemeinde mit rund 11.000 Einwohnern, 14 km südöstlich von Stuttgart.",
+"frage": "Das Gemeindewappen zeigt das Hochkreuz des Patriarchen von Jerusalem. Welchen Grund nennt die Gemeinde dafür?",
+"optionen": [
+"Es stammt aus dem Wappen der Herzöge von Württemberg.",
+"Die Gemeinde ist mit Jerusalem verschwistert.",
+"Es soll die Bedeutung des Klosters für den Ort zeigen.",
+"Es wurde aus dem Wappen der Reichsstadt Esslingen übernommen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Kreuz im Wappen lässt an Landesherren oder Nachbarstädte denken. Doch laut Gemeinde zeigt das Wappen, wie wichtig das Kloster für den Ort war. Es gehörte den Chorherren vom Heiligen Grab, einer Gemeinschaft von Geistlichen, und war direkt dem Patriarchen von Jerusalem unterstellt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.denkendorf.de/gemeinde-politik/ueber-uns/geschichte und www.denkendorf.de/leben-wohnen/kirchen (Neue NEGATIVNACHWEISE: 1 Württemberg führt Hirschstangen, kein Jerusalemkreuz; 4 Esslingen führt den Reichsadler. Beides ist Allgemeinwissen der Heraldik und sollte bei der Endprüfung kurz gegengelesen werden.)",
+"faktencheck": "korrigiert",
+"id": "275-denkendorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Denkendorf",
+"steckbrief": "Gemeinde mit rund 11.000 Einwohnern, 14 km südöstlich von Stuttgart.",
+"frage": "Wie viele Einwohner leben in Denkendorf rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 500",
+"500 bis unter 800",
+"800 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wald und Streuobstwiesen lassen an ein Dorf mit viel Platz denken. Doch rechnerisch wohnen in Denkendorf rund 852 Menschen auf einem Quadratkilometer, Stand Ende 2025. Richtig war 4.",
+"quelle": "berechnet aus Wikidata P1082 (Einwohner, Stand 2025-12-31) und Wikidata P2046 (Fläche)",
+"faktencheck": "bestätigt",
+"id": "275-denkendorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Denkendorf",
+"steckbrief": "Gemeinde mit rund 11.000 Einwohnern, 14 km südöstlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Klosterschule bildete einst Offiziere für Württemberg aus.",
+"In den Klostergebäuden war zeitweise eine Senffabrik.",
+"Nach dem Krieg erwarb die Landeskirche das Kloster."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Senffabrik klingt erfunden, stimmt aber: So wurde das Kloster zeitweise genutzt. Gelogen waren die Offiziere. Die Klosterschule bereitete auf das Theologiestudium in Tübingen vor. Und nach dem Zweiten Weltkrieg erwarb die Evangelische Landeskirche das Kloster. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.denkendorf.de/gemeinde-politik/ueber-uns/kloster",
+"faktencheck": "bestätigt",
+"id": "275-denkendorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Denkendorf",
+"steckbrief": "Gemeinde mit rund 11.000 Einwohnern, 14 km südöstlich von Stuttgart.",
+"frage": "Welche Partei wurde in Denkendorf bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"FDP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Umland einer Großstadt liegen SPD oder Grüne als Verfolger nahe. Hinter der CDU kam aber die AfD auf 17,7 Prozent, knapp vor der SPD mit 15,6 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "275-denkendorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Denkendorf",
+"steckbrief": "Gemeinde mit rund 11.000 Einwohnern, 14 km südöstlich von Stuttgart.",
+"frage": "Beim Kloster Denkendorf steht ein Hölderlin-Brunnen. Warum trägt er den Namen des Dichters?",
+"optionen": [
+"Hölderlin wurde in Denkendorf geboren.",
+"Hölderlin war Pfarrer an der Klosterkirche.",
+"Hölderlin war Schüler der Klosterschule.",
+"Hölderlin starb im Denkendorfer Kloster."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Brunnen mit Dichternamen lässt an den Geburtsort denken. Doch Friedrich Hölderlin kam nach Denkendorf, um zu lernen: Er war Schüler der Klosterschule, und nach diesem ehemaligen Klosterschüler ist der Brunnen benannt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.denkendorf.de/gemeinde-politik/ueber-uns/kloster",
+"faktencheck": "bestätigt",
+"id": "275-denkendorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Denkendorf",
+"steckbrief": "Gemeinde mit rund 11.000 Einwohnern im Landkreis Esslingen, südöstlich von Stuttgart, Vorwahl 0711.",
+"frage": "Wie weit liegt die Ortsmitte von Denkendorf in Luftlinie von der Stuttgarter Stadtmitte entfernt?",
+"optionen": [
+"unter 6 km",
+"6 bis unter 10 km",
+"10 bis unter 13 km",
+"13 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Stuttgarter Vorwahl 0711 lässt an einen Vorort direkt an der Stadtgrenze denken. Von Ortsmitte zu Stadtmitte sind es aber rund 14 Kilometer Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "275-denkendorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Denkendorf",
+"steckbrief": "Gemeinde mit rund 11.000 Einwohnern, 14 km südöstlich von Stuttgart.",
+"frage": "Von 1954 bis 2018 hatte Denkendorf nur zwei Bürgermeister. Wie verteilten sich die Jahre auf die beiden?",
+"optionen": [
+"Beide amtierten je 32 Jahre.",
+"Der erste 40, der zweite 24 Jahre.",
+"Der erste 24, der zweite 40 Jahre.",
+"Der erste 18, der zweite 46 Jahre."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zwei gleich lange Amtszeiten wirken zu glatt, um wahr zu sein. Doch Walter Dieterich und Peter Jahn waren nacheinander je 32 Jahre lang Bürgermeister. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister",
+"faktencheck": "bestätigt",
+"id": "275-denkendorf/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Denkendorf",
+"steckbrief": "Gemeinde mit rund 11.000 Einwohnern, 14 km südöstlich von Stuttgart.",
+"frage": "Johann Albrecht Bengel lehrte 28 Jahre an der Denkendorfer Klosterschule. Wofür würdigt ihn die Gemeinde?",
+"optionen": [
+"Er konstruierte eine frühe Rechenmaschine.",
+"Er gab dem württembergischen Pietismus eigene Prägung.",
+"Er brachte die Kartoffel nach Württemberg.",
+"Er vermaß Württemberg für eine Landkarte."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein gelehrter Klosterlehrer als Tüftler klingt plausibel, denn Klöster waren Orte der Wissenschaft. Die Gemeinde würdigt Johann Albrecht Bengel aber als Präger des württembergischen Pietismus, einer protestantischen Frömmigkeitsbewegung: Er gab ihm eine eigenständige Prägung und machte den Namen Denkendorfs über die Landesgrenzen hinaus bekannt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.denkendorf.de/gemeinde-politik/ueber-uns/kloster",
+"faktencheck": "korrigiert",
+"id": "275-denkendorf/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "274-ostfildern",
+"anschluss": [
+"Einwohner: Ostfildern hat mehr als dreimal so viele wie Denkendorf.",
+"Gymnasium: Denkendorf ist am Schulverbund in Ostfildern-Nellingen beteiligt."
+],
+"anschluesse": {
+"273-leinfelden-echterdingen": [
+"Leinfelden-Echterdingen hat gut dreieinhalbmal so viele Einwohner wie Denkendorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Leinfelden-Echterdingen die Grünen, in Denkendorf die AfD."
+],
+"101-stuttgart": [
+"Kreisgrenze: Stuttgart ist kreisfrei, Denkendorf gehört zum Landkreis Esslingen.",
+"Stuttgart hat rund 55-mal so viele Einwohner wie Denkendorf."
+],
+"102-esslingen": [
+"Esslingen am Neckar hat fast neunmal so viele Einwohner wie Denkendorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Esslingen am Neckar die Grünen, in Denkendorf die AfD."
+],
+"274-ostfildern": [
+"Einwohner: Ostfildern hat mehr als dreimal so viele wie Denkendorf.",
+"Gymnasium: Denkendorf ist am Schulverbund in Ostfildern-Nellingen beteiligt."
+],
+"276-wendlingen": [
+"Wendlingen am Neckar hat fast anderthalbmal so viele Einwohner wie Denkendorf."
+],
+"103-plochingen": [
+"Plochingen hat rund 3.400 Einwohner mehr als Denkendorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Plochingen die SPD, in Denkendorf die AfD."
+],
+"104-kirchheim-teck": [
+"Kirchheim unter Teck hat fast viermal so viele Einwohner wie Denkendorf."
+],
+"277-aichelberg": [
+"Kreisgrenze: Aichelberg gehört zum Landkreis Göppingen, Denkendorf zum Landkreis Esslingen.",
+"Denkendorf hat fast neunmal so viele Einwohner wie Aichelberg."
+],
+"278-ebersbach-fils": [
+"Kreisgrenze: Ebersbach an der Fils gehört zum Landkreis Göppingen, Denkendorf zum Landkreis Esslingen.",
+"Ebersbach an der Fils hat rund 4.400 Einwohner mehr als Denkendorf."
+]
+},
+"ags": "08116015",
+"ortsteil": false,
+"km_vom_vorigen": 5.0
+},
+{
+"slug": "276-wendlingen",
+"name": "Wendlingen am Neckar",
+"lat": 48.67472,
+"lon": 9.38167,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wendlingen am Neckar",
+"steckbrief": "Stadt mit rund 16.000 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Auf Wendlinger Gemarkung lag ein römischer Gutshof. Was gab 2015 und 2016 den Anlass für neue Grabungen?",
+"optionen": [
+"Ein Sturm hatte Mauerreste freigelegt.",
+"Eine neue Bahnstrecke wurde gebaut.",
+"Ein Bauer stieß beim Pflügen auf Mauern.",
+"Ein Schatzsucher meldete einen Münzfund."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Zufallsfund liegt nahe, denn so tauchen viele römische Reste auf. Doch der Gutshof war längst bekannt; nach einer früheren Grabung hatte man das Bad mangels Geld wieder abgedeckt. Anlass der neuen Grabungen war die ICE-Neubaustrecke Stuttgart–Ulm. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.wendlingen.de/unsere-stadt/geschichtliches/roemerbad",
+"faktencheck": "bestätigt",
+"id": "276-wendlingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wendlingen am Neckar",
+"steckbrief": "Stadt mit rund 16.000 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Wie viele Einwohner leben in Wendlingen am Neckar durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Kleinstadt denkt, sieht Felder und Wiesen ringsum und schätzt niedrig. Doch in Wendlingen am Neckar kommen rechnerisch 1.317 Einwohner auf einen Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "276-wendlingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wendlingen am Neckar",
+"steckbrief": "Stadt mit rund 16.000 Einwohnern im Landkreis Esslingen, 19 km südöstlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Millstatt am See in Kärnten wurde Wendlingens Partnerstadt.",
+"Wendlingens Freundschaftsstadt Markneukirchen liegt in Thüringen.",
+"In Wendlingen liegen Stolpersteine des Künstlers Gunter Demnig."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war Thüringen: Wendlingens Freundschaftsstadt Markneukirchen liegt in Sachsen. Verdächtiger wirkt oft die Kärntner Partnerstadt, weil Österreich fern scheint. Doch Millstatt am See ist echt, und Demnig schuf die Wendlinger Stolpersteine. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.wendlingen.de/unsere-stadt/stadtportrait",
+"faktencheck": "korrigiert",
+"id": "276-wendlingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wendlingen am Neckar",
+"steckbrief": "Stadt mit rund 16.000 Einwohnern im Landkreis Esslingen, 19 km südöstlich von Stuttgart.",
+"frage": "Wie hoch war in Wendlingen am Neckar die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 84 %",
+"84 bis unter 86 %",
+"86 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Umland großer Städte gehen oft viele Menschen wählen, daher tippen viele hoch. In Wendlingen am Neckar lag die Wahlbeteiligung bei der Bundestagswahl 2025 bei 83,5 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "276-wendlingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wendlingen am Neckar",
+"steckbrief": "Stadt mit rund 16.000 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Im Juli 2013 bezog das Wendlinger Stadtarchiv ein neues Quartier in der Brückenstraße 15. Wie nennt die Stadt dieses Gebäude?",
+"optionen": [
+"Gebäude der ehemaligen Schule",
+"Gebäude der ehemaligen Volksbank",
+"Gebäude des ehemaligen Kinos",
+"Gebäude der ehemaligen Feuerwache"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine alte Schule liegt nahe, denn Archive landen oft in frei gewordenen öffentlichen Gebäuden. Die Stadt nennt das neue Quartier aber das Gebäude der ehemaligen Volksbank. Die Bestände sortierte das Kreisarchiv Esslingen neu und übergab sie. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.wendlingen.de/unsere-stadt/geschichtliches/stadtarchiv",
+"faktencheck": "korrigiert",
+"id": "276-wendlingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wendlingen am Neckar",
+"steckbrief": "Stadt mit rund 16.000 Einwohnern am Neckar, 19 km südöstlich von Stuttgart.",
+"frage": "Wie groß ist die Gemarkung von Wendlingen am Neckar?",
+"optionen": [
+"unter 6 km²",
+"6 bis unter 10 km²",
+"10 bis unter 15 km²",
+"15 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt dieser Größe vermuten viele eine weitläufige Gemarkung. Wendlingen am Neckar kommt aber mit 12,15 Quadratkilometern aus. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "276-wendlingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wendlingen am Neckar",
+"steckbrief": "Stadt mit rund 16.000 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Das Stadtmuseum erzählt vom Leben in den drei Stadtteilen seit dem Mittelalter. Welches Thema bildet dabei den roten Faden?",
+"optionen": [
+"Der Weinbau bildet den roten Faden.",
+"Die Kirchengeschichte bildet den roten Faden.",
+"Das Neckarhochwasser bildet den roten Faden.",
+"Die Verkehrswege bilden den roten Faden."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Neckar denken viele zuerst an Weinberge, also läge der Weinbau nahe. Das Stadtmuseum im denkmalgeschützten Pfarrhausensemble folgt aber den Verkehrswegen durch die Geschichte des Ortes; daneben zeigt es die Textil- und Möbelindustrie. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.wendlingen.de/unsere-stadt/stadtportrait",
+"faktencheck": "bestätigt",
+"id": "276-wendlingen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "275-denkendorf",
+"anschluss": [
+"Einwohner: Wendlingen am Neckar hat rund 4.900 mehr als Denkendorf.",
+"Fläche: Denkendorf hat weniger Einwohner, aber mehr Fläche als Wendlingen."
+],
+"anschluesse": {
+"273-leinfelden-echterdingen": [
+"Leinfelden-Echterdingen hat gut zweieinhalbmal so viele Einwohner wie Wendlingen am Neckar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Leinfelden-Echterdingen die Grünen, in Wendlingen am Neckar die AfD."
+],
+"101-stuttgart": [
+"Kreisgrenze: Stuttgart ist kreisfrei, Wendlingen am Neckar gehört zum Landkreis Esslingen.",
+"Stuttgart hat rund 40-mal so viele Einwohner wie Wendlingen am Neckar."
+],
+"102-esslingen": [
+"Esslingen am Neckar hat sechsmal so viele Einwohner wie Wendlingen am Neckar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Esslingen am Neckar die Grünen, in Wendlingen am Neckar die AfD."
+],
+"274-ostfildern": [
+"Ostfildern hat zweieinhalbmal so viele Einwohner wie Wendlingen am Neckar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ostfildern die Grünen, in Wendlingen am Neckar die AfD."
+],
+"275-denkendorf": [
+"Einwohner: Wendlingen am Neckar hat rund 4.900 mehr als Denkendorf.",
+"Fläche: Denkendorf hat weniger Einwohner, aber mehr Fläche als Wendlingen."
+],
+"103-plochingen": [
+"Wendlingen am Neckar hat rund 1.500 Einwohner mehr als Plochingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Plochingen die SPD, in Wendlingen am Neckar die AfD."
+],
+"104-kirchheim-teck": [
+"Kirchheim unter Teck hat gut zweieinhalbmal so viele Einwohner wie Wendlingen am Neckar."
+],
+"277-aichelberg": [
+"Kreisgrenze: Aichelberg gehört zum Landkreis Göppingen, Wendlingen am Neckar zum Landkreis Esslingen.",
+"Wendlingen am Neckar hat gut zwölfmal so viele Einwohner wie Aichelberg."
+],
+"278-ebersbach-fils": [
+"Kreisgrenze: Ebersbach an der Fils gehört zum Landkreis Göppingen, Wendlingen am Neckar zum Landkreis Esslingen.",
+"Ebersbach an der Fils und Wendlingen am Neckar sind fast gleich groß: rund 16.000 und 16.000 Einwohner."
+],
+"279-uhingen": [
+"Kreisgrenze: Uhingen gehört zum Landkreis Göppingen, Wendlingen am Neckar zum Landkreis Esslingen.",
+"Wendlingen am Neckar hat rund 1.800 Einwohner mehr als Uhingen."
+]
+},
+"ags": "08116071",
+"ortsteil": false,
+"km_vom_vorigen": 5.3
 },
 {
 "slug": "103-plochingen",
@@ -30887,23 +33425,44 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "102-esslingen",
-"anschluss": [
-"Einwohner: Esslingen hat fast siebenmal so viele wie Plochingen.",
-"Bundestagswahl 2025: Grüne holten in Esslingen mehr als in Plochingen."
-],
+"anschluss_von": "276-wendlingen",
+"anschluss": [],
 "anschluesse": {
 "101-stuttgart": [
 "Kreisgrenze: Stuttgart ist kreisfrei, Plochingen gehört zum Landkreis Esslingen.",
 "Stuttgart hat rund 40-mal so viele Einwohner wie Plochingen."
 ],
 "102-esslingen": [
-"Einwohner: Esslingen hat fast siebenmal so viele wie Plochingen.",
-"Bundestagswahl 2025: Grüne holten in Esslingen mehr als in Plochingen."
+"Esslingen am Neckar hat fast siebenmal so viele Einwohner wie Plochingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Esslingen am Neckar die Grünen, in Plochingen die SPD."
+],
+"274-ostfildern": [
+"Ostfildern hat gut zweieinhalbmal so viele Einwohner wie Plochingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ostfildern die Grünen, in Plochingen die SPD."
+],
+"275-denkendorf": [
+"Plochingen hat rund 3.400 Einwohner mehr als Denkendorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Denkendorf die AfD, in Plochingen die SPD."
+],
+"276-wendlingen": [
+"Wendlingen am Neckar hat rund 1.500 Einwohner mehr als Plochingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wendlingen am Neckar die AfD, in Plochingen die SPD."
 ],
 "104-kirchheim-teck": [
 "Kirchheim unter Teck hat dreimal so viele Einwohner wie Plochingen.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Kirchheim unter Teck die AfD, in Plochingen die SPD."
+],
+"277-aichelberg": [
+"Kreisgrenze: Aichelberg gehört zum Landkreis Göppingen, Plochingen zum Landkreis Esslingen.",
+"Plochingen hat elfmal so viele Einwohner wie Aichelberg."
+],
+"278-ebersbach-fils": [
+"Kreisgrenze: Ebersbach an der Fils gehört zum Landkreis Göppingen, Plochingen zum Landkreis Esslingen.",
+"Ebersbach an der Fils und Plochingen sind fast gleich groß: rund 16.000 und 15.000 Einwohner."
+],
+"279-uhingen": [
+"Kreisgrenze: Uhingen gehört zum Landkreis Göppingen, Plochingen zum Landkreis Esslingen.",
+"Uhingen und Plochingen sind fast gleich groß: rund 14.000 und 15.000 Einwohner."
 ],
 "105-goeppingen": [
 "Kreisgrenze: Göppingen gehört zum Landkreis Göppingen, Plochingen zum Landkreis Esslingen.",
@@ -30912,7 +33471,7 @@ window.QA_DATEN = {
 },
 "ags": "08116056",
 "ortsteil": false,
-"km_vom_vorigen": 8.4
+"km_vom_vorigen": 4.8
 },
 {
 "slug": "104-kirchheim-teck",
@@ -31110,18 +33669,786 @@ window.QA_DATEN = {
 "Esslingen am Neckar hat fast zweieinhalbmal so viele Einwohner wie Kirchheim unter Teck.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Esslingen am Neckar die Grünen, in Kirchheim unter Teck die AfD."
 ],
+"274-ostfildern": [
+"Ostfildern und Kirchheim unter Teck sind fast gleich groß: rund 40.000 und 42.000 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ostfildern die Grünen, in Kirchheim unter Teck die AfD."
+],
+"275-denkendorf": [
+"Kirchheim unter Teck hat fast viermal so viele Einwohner wie Denkendorf."
+],
+"276-wendlingen": [
+"Kirchheim unter Teck hat gut zweieinhalbmal so viele Einwohner wie Wendlingen am Neckar."
+],
 "103-plochingen": [
 "Kirchheim hat fast dreimal so viele Einwohner wie Plochingen.",
 "Bundestagswahl 2025: Zweite wurde in Kirchheim AfD, in Plochingen SPD."
 ],
+"277-aichelberg": [
+"Kreisgrenze: Aichelberg gehört zum Landkreis Göppingen, Kirchheim unter Teck zum Landkreis Esslingen.",
+"Kirchheim unter Teck hat rund 35-mal so viele Einwohner wie Aichelberg."
+],
+"278-ebersbach-fils": [
+"Kreisgrenze: Ebersbach an der Fils gehört zum Landkreis Göppingen, Kirchheim unter Teck zum Landkreis Esslingen.",
+"Kirchheim unter Teck hat gut zweieinhalbmal so viele Einwohner wie Ebersbach an der Fils."
+],
+"279-uhingen": [
+"Kreisgrenze: Uhingen gehört zum Landkreis Göppingen, Kirchheim unter Teck zum Landkreis Esslingen.",
+"Kirchheim unter Teck hat dreimal so viele Einwohner wie Uhingen."
+],
 "105-goeppingen": [
 "Kreisgrenze: Göppingen gehört zum Landkreis Göppingen, Kirchheim unter Teck zum Landkreis Esslingen.",
 "Göppingen hat rund 16.000 Einwohner mehr als Kirchheim unter Teck."
+],
+"280-eislingen": [
+"Kreisgrenze: Eislingen/Fils gehört zum Landkreis Göppingen, Kirchheim unter Teck zum Landkreis Esslingen.",
+"Kirchheim unter Teck hat fast doppelt so viele Einwohner wie Eislingen/Fils."
+],
+"284-gruibingen": [
+"Kreisgrenze: Gruibingen gehört zum Landkreis Göppingen, Kirchheim unter Teck zum Landkreis Esslingen.",
+"Kirchheim unter Teck hat neunzehnmal so viele Einwohner wie Gruibingen."
+],
+"285-muehlhausen-taele": [
+"Kreisgrenze: Mühlhausen im Täle gehört zum Landkreis Göppingen, Kirchheim unter Teck zum Landkreis Esslingen.",
+"Kirchheim unter Teck hat rund 40-mal so viele Einwohner wie Mühlhausen im Täle."
 ]
 },
 "ags": "08116033",
 "ortsteil": false,
 "km_vom_vorigen": 7.5
+},
+{
+"slug": "277-aichelberg",
+"name": "Aichelberg",
+"lat": 48.63778,
+"lon": 9.56417,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Aichelberg",
+"steckbrief": "Aichelberg ist eine Gemeinde mit rund 1.300 Einwohnern, 31 km nordöstlich von Reutlingen.",
+"frage": "Wie groß ist die Fläche der Gemeinde Aichelberg insgesamt?",
+"optionen": [
+"unter 1,5 km²",
+"1,5 bis unter 2,5 km²",
+"2,5 bis unter 3,5 km²",
+"3,5 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem so kleinen Dorf liegt eine winzige Gemarkung nahe. Doch Aichelberg misst 4,01 Quadratkilometer, darunter Wald, Grünland und Ackerland. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "277-aichelberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Aichelberg",
+"steckbrief": "Aichelberg ist eine Gemeinde mit rund 1.300 Einwohnern, 31 km nordöstlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine Autobahn durchschneidet das Gemeindegebiet von Aichelberg.",
+"Die evangelische Kirche im Ort Aichelberg stammt aus dem Mittelalter.",
+"Ein italienischer Unternehmer baute die Neue Steige."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine mittelalterliche Kirche liegt nahe, denn viele Dörfer der Gegend haben eine. Doch Aichelbergs Christuskirche entstand erst nach dem Zweiten Weltkrieg. Mit ihr erfüllte sich der Wunsch, evangelischen Gottesdienst in einem Kirchenraum zu feiern. Wahr sind die Autobahn und die Neue Steige, gebaut vom Italiener Hettarazi. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.aichelberg.de/seite/734011/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "277-aichelberg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Aichelberg",
+"steckbrief": "Aichelberg ist eine Gemeinde mit rund 1.300 Einwohnern, 31 km nordöstlich von Reutlingen.",
+"frage": "Wie hoch war die Wahlbeteiligung in Aichelberg bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 88 %",
+"88 bis unter 92 %",
+"92 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine höhere Beteiligung liegt nahe, wenn man an ein eng verbundenes Dorf denkt. Bei der Bundestagswahl 2025 gingen in Aichelberg 86,8 Prozent zur Wahl. Stärkste Partei wurde die CDU vor der AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "277-aichelberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aichelberg",
+"steckbrief": "Aichelberg ist eine Gemeinde mit rund 1.300 Einwohnern, 31 km nordöstlich von Reutlingen.",
+"frage": "Wer gründete das Dorf Aichelberg nach der Ortsgeschichte vermutlich?",
+"optionen": [
+"Mönche siedelten sich bei ihrem Klosterhof an.",
+"Bergleute ließen sich zum Erzabbau am Berg nieder.",
+"Handwerker vom Burgbau blieben und ließen sich nieder.",
+"Flüchtlinge aus einem zerstörten Nachbardorf siedelten sich an."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mönche liegen nahe, denn viele Dörfer wuchsen um einen Klosterhof. Nach der Ortsgeschichte waren es aber vermutlich Handwerker, die die Grafenburg bauten. Möglich machten das wohl zahlreiche Quellen in Höhe des Dorfes. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.aichelberg.de/seite/734011/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "277-aichelberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Aichelberg",
+"steckbrief": "Aichelberg ist eine Gemeinde mit rund 1.300 Einwohnern, 31 km nordöstlich von Reutlingen.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Aichelberg?",
+"optionen": [
+"ES",
+"RT",
+"WN",
+"GP"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. RT liegt nahe, weil Reutlingen die nächste Großstadt ist. Aichelberg gehört aber zum Landkreis Göppingen, und dessen Hauptkennzeichen ist GP. Richtig war 4.",
+"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "277-aichelberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aichelberg",
+"steckbrief": "Aichelberg ist eine Gemeinde mit rund 1.300 Einwohnern, 31 km nordöstlich von Reutlingen.",
+"frage": "1958 bekam Aichelberg ein neues Wappen mit drei silbernen Eicheln. Welcher Grund wird dafür genannt?",
+"optionen": [
+"Ein Graf verlangte sein altes Familienzeichen zurück.",
+"Man wollte sich von einem gleichnamigen Ort abheben.",
+"Die Gemeinde feierte damit ihre Erhebung zur Stadt.",
+"Die alte Eichel ähnelte einem bekannten Firmenzeichen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtrecht liegt nahe, denn neue Wappen kommen oft mit neuem Rang. Aichelberg blieb aber Gemeinde. Den Ausschlag gab ein zweites Aichelberg im Landkreis Esslingen, heute Ortsteil von Aichwald. Die Farben Weiß-Rot stammen von den Grafen von Aichelberg. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen)",
+"faktencheck": "bestätigt",
+"id": "277-aichelberg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aichelberg",
+"steckbrief": "Aichelberg ist eine Gemeinde mit rund 1.300 Einwohnern, 31 km nordöstlich von Reutlingen.",
+"frage": "1519 wurde Aichelberg nahezu restlos zerstört. Wer oder was steckte dahinter?",
+"optionen": [
+"Aufständische Bauern zündeten die Häuser an.",
+"Ein Blitzschlag löste einen Brand im Dorf aus.",
+"Ein Erdbeben ließ die Häuser einstürzen.",
+"Soldaten eines Bündnisses brannten das Dorf nieder."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Aufständische Bauern liegen nahe, doch der Bauernkrieg kam erst einige Jahre später. Es waren Soldaten des Schwäbischen Bundes; sie brannten die Häuser des Dorfes nieder. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.aichelberg.de/seite/734011/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "277-aichelberg/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aichelberg",
+"steckbrief": "Aichelberg ist eine Gemeinde mit rund 1.300 Einwohnern, 31 km nordöstlich von Reutlingen.",
+"frage": "Wie ist der Berg Aichelberg entstanden?",
+"optionen": [
+"Ein Gletscher schob ihn als Schutthügel auf.",
+"Er ist der Schlot eines alten Vulkans.",
+"Er ist der Rand eines Meteoritenkraters.",
+"Menschen schütteten ihn als Burghügel auf."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Gletscherhügel liegt nahe, denn im Alpenvorland sind viele Hügel Gletscherschutt. Doch der Berg ist ein Schlot des Schwäbischen Vulkans. Ein Aufschluss an diesem Schlot ist seit 2011 ein Geopoint des UNESCO-Geoparks Schwäbische Alb. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.aichelberg.de/verzeichnis/visitenkarte.php?mandat=257335",
+"faktencheck": "korrigiert",
+"id": "277-aichelberg/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "104-kirchheim-teck",
+"anschluss": [
+"Bis 1938 gehörte Aichelberg zum Oberamt Kirchheim unter Teck.",
+"Kirchheim unter Teck hat 33-mal so viele Einwohner wie Aichelberg."
+],
+"anschluesse": {
+"275-denkendorf": [
+"Kreisgrenze: Denkendorf gehört zum Landkreis Esslingen, Aichelberg zum Landkreis Göppingen.",
+"Denkendorf hat fast neunmal so viele Einwohner wie Aichelberg."
+],
+"276-wendlingen": [
+"Kreisgrenze: Wendlingen am Neckar gehört zum Landkreis Esslingen, Aichelberg zum Landkreis Göppingen.",
+"Wendlingen am Neckar hat gut zwölfmal so viele Einwohner wie Aichelberg."
+],
+"103-plochingen": [
+"Kreisgrenze: Plochingen gehört zum Landkreis Esslingen, Aichelberg zum Landkreis Göppingen.",
+"Plochingen hat elfmal so viele Einwohner wie Aichelberg."
+],
+"104-kirchheim-teck": [
+"Bis 1938 gehörte Aichelberg zum Oberamt Kirchheim unter Teck.",
+"Kirchheim unter Teck hat 33-mal so viele Einwohner wie Aichelberg."
+],
+"278-ebersbach-fils": [
+"Ebersbach an der Fils hat zwölfmal so viele Einwohner wie Aichelberg."
+],
+"279-uhingen": [
+"Uhingen hat elfmal so viele Einwohner wie Aichelberg."
+],
+"105-goeppingen": [
+"Göppingen hat rund 45-mal so viele Einwohner wie Aichelberg."
+],
+"280-eislingen": [
+"Eislingen/Fils hat siebzehnmal so viele Einwohner wie Aichelberg."
+],
+"281-suessen": [
+"Süßen hat achtmal so viele Einwohner wie Aichelberg."
+],
+"282-gingen": [
+"Gingen an der Fils hat dreieinhalbmal so viele Einwohner wie Aichelberg."
+],
+"283-kuchen": [
+"Kuchen hat fast viereinhalbmal so viele Einwohner wie Aichelberg."
+],
+"284-gruibingen": [
+"Gruibingen hat gut anderthalbmal so viele Einwohner wie Aichelberg."
+],
+"285-muehlhausen-taele": [
+"Aichelberg hat rund 200 Einwohner mehr als Mühlhausen im Täle."
+],
+"106-geislingen": [
+"Geislingen an der Steige hat rund zwanzigmal so viele Einwohner wie Aichelberg."
+]
+},
+"ags": "08117002",
+"ortsteil": false,
+"km_vom_vorigen": 8.4
+},
+{
+"slug": "278-ebersbach-fils",
+"name": "Ebersbach an der Fils",
+"lat": 48.71472,
+"lon": 9.52361,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebersbach an der Fils",
+"steckbrief": "Ebersbach an der Fils hat rund 15.500 Einwohner und liegt 26 km östlich von Stuttgart.",
+"frage": "Ein in Ebersbach geborener Räuber und Mörder lieferte Schiller den Stoff für eine Erzählung. Welchen Spitznamen trug er?",
+"optionen": [
+"Sein Spitzname lautete „Filsfuchs“.",
+"Sein Spitzname lautete „Sonnenwirtle“.",
+"Sein Spitzname lautete „Schurwaldhannes“.",
+"Sein Spitzname lautete „Lammwirtle“."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Räuber denkt man an Wald und Versteck, daher klingen Schurwald oder Fuchs passend. Johann Friedrich Schwahn aus Ebersbach, wegen Raub und Mord zum Tode verurteilt, hieß aber „Sonnenwirtle“. Schiller machte aus seiner Geschichte die Erzählung „Der Verbrecher aus verlorener Ehre“. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ebersbach.de/ortsteil/Ebersbach-district317",
+"faktencheck": "bestätigt",
+"id": "278-ebersbach-fils/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ebersbach an der Fils",
+"steckbrief": "Ebersbach an der Fils hat rund 15.500 Einwohner und liegt im Filstal, 26 km östlich von Stuttgart.",
+"frage": "Auf welcher Höhe über dem Meer liegt Ebersbach an der Fils?",
+"optionen": [
+"unter 150 m",
+"150 bis unter 260 m",
+"260 bis unter 340 m",
+"340 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an die nahe Schwäbische Alb denkt, schätzt leicht zu hoch. Ebersbach liegt aber unten im Filstal: Die Quellen nennen 280 und 292 Meter. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "278-ebersbach-fils/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ebersbach an der Fils",
+"steckbrief": "Ebersbach an der Fils zählt rund 15.500 Einwohner und liegt 26 km östlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bei der Veitskirche soll einst eine Burg gestanden haben.",
+"Eine Kurierpost über Brüssel hatte hier eine Station.",
+"Das Stadtwappen zeigt einen Hirsch auf grünem Boden."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Hirsch ist ein beliebtes Wappentier in Württemberg und wirkt darum glaubwürdig. Ebersbach führt aber, passend zum Namen, einen gelben Eber auf grünem Boden vor rotem Hintergrund. Bei der Veitskirche soll der Überlieferung nach eine Burg gestanden haben, und an der Kurierpost von Innsbruck über Brüssel hatte Ebersbach eine Poststation. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.ebersbach.de/ortsteil/Ebersbach-district317; Geschichtspfad Ebersbach an der Fils (PDF)",
+"faktencheck": "korrigiert",
+"id": "278-ebersbach-fils/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ebersbach an der Fils",
+"steckbrief": "Ebersbach an der Fils, eine Stadt mit rund 15.500 Einwohnern, liegt 26 km östlich von Stuttgart.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Ebersbach an der Fils die stärkste Partei?",
+"optionen": [
+"unter 34 %",
+"34 bis unter 38 %",
+"38 bis unter 42 %",
+"42 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg gilt als CDU-Land, deshalb tippen viele höher. Die CDU lag in Ebersbach zwar klar vorn, kam aber auf 33,1 Prozent der Zweitstimmen. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "278-ebersbach-fils/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebersbach an der Fils",
+"steckbrief": "Ebersbach an der Fils hat rund 15.500 Einwohner und liegt 26 km östlich von Stuttgart.",
+"frage": "Der in Ebersbach geborene Matthäus Hehl wurde Bischof der Herrnhuter Brüdergemeine. Wo starb er 1787?",
+"optionen": [
+"Er starb in Riga im Baltikum.",
+"Er starb in Lititz in Pennsylvania.",
+"Er starb in Kapstadt in Südafrika.",
+"Er starb in Sankt Petersburg in Russland."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Herrnhuter, eine pietistische Glaubensgemeinschaft, waren in vielen Ländern tätig, und schwäbische Auswanderer zog es oft nach Osten. Matthäus Hehl aber starb als Bischof in Lititz, Pennsylvania, auf der anderen Seite des Atlantiks. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ebersbach.de/ortsteil/Ebersbach-district317",
+"faktencheck": "bestätigt",
+"id": "278-ebersbach-fils/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Ebersbach an der Fils",
+"steckbrief": "Ebersbach an der Fils, rund 15.500 Einwohner, liegt 26 km östlich von Stuttgart.",
+"frage": "Welche Stadt in Sachsen ist Partnerstadt von Ebersbach an der Fils?",
+"optionen": [
+"Zittau",
+"Bautzen",
+"Ebersbach-Neugersdorf",
+"Löbau"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bautzen oder Zittau kennt man eher, sie wirken als Partner naheliegend. Doch die Partnerschaft verbindet zwei Namensvettern: Ebersbach an der Fils und Ebersbach-Neugersdorf in Sachsen. Die zweite Partnerstadt ist Bourg-lès-Valence in Südostfrankreich. Richtig war 3.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "278-ebersbach-fils/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Ebersbach an der Fils",
+"steckbrief": "Ebersbach an der Fils hat heute rund 15.500 Einwohner und liegt 26 km östlich von Stuttgart.",
+"frage": "Um 1600 zählte Ebersbach etwa 1000 Einwohner. Wie viele Tote forderte die Epidemie von 1589 im Ort?",
+"optionen": [
+"unter 100",
+"100 bis unter 250",
+"250 bis unter 500",
+"500 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Seuche in einem kleinen Ort rechnet man eher mit Dutzenden Toten. Doch die Epidemie forderte in Ebersbach 650 Tote. Wenige Jahre später folgte eine weitere Epidemie. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ebersbach.de/resources/02 Datenobjekte/PDF-Dateien/Stadtarchiv/Geschichtspfad Ebersbach an der Fils_web.pdf",
+"faktencheck": "bestätigt",
+"id": "278-ebersbach-fils/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebersbach an der Fils",
+"steckbrief": "Ebersbach an der Fils, eine Stadt mit rund 15.500 Einwohnern, liegt 26 km östlich von Stuttgart.",
+"frage": "Als ältester Beleg für Ebersbach gilt ein Eintrag um 1160/70 im Traditionsbuch eines Klosters. Was hält dieser Eintrag fest?",
+"optionen": [
+"Ein Ministerial schenkte Güter für seine Pflegetöchter.",
+"Ein Händler verkaufte dem Kloster seine Mühle.",
+"Das Kloster kaufte Weinberge an der Fils.",
+"Ein Ritter stiftete dem Kloster eine Kapelle."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Klosterbücher verzeichnen oft Käufe und Abgaben, das liegt nahe. Doch der kaiserliche Ministerial Arnolf, ein Dienstmann im Reichsdienst, schenkte dem Kloster Ursberg sechs Güter für seine drei Pflegetöchter. Nach seinem Dienstsitz nannte er sich „von Ebersbach“. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ebersbach.de/ortsteil/Ebersbach-district317 NEGATIVNACHWEIS 4 (neu): Weg (c). Die Fakten nennen für den Eintrag nur die Schenkung Arnolfs; eine Kapellenstiftung ist erfunden.",
+"faktencheck": "korrigiert",
+"id": "278-ebersbach-fils/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebersbach an der Fils",
+"steckbrief": "Ebersbach an der Fils hat rund 15.500 Einwohner und liegt 26 km östlich von Stuttgart.",
+"frage": "Eine Uferböschung in Ebersbach hieß einst Badrain. Woher hatte sie ihren Namen?",
+"optionen": [
+"Dort badeten die Leute früher in der Fils.",
+"Dort sprudelte einst eine heilende Quelle.",
+"Sie war nach einer früheren Badstube benannt.",
+"Dort wusch man früher die Schafe."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Böschung am Wasser denkt man ans Baden im Fluss. Der Name ging aber auf die Badstube zurück, ein öffentliches Badehaus, wie es früher viele Orte hatten. Sie stand in der heutigen Georg-Weingardt-Straße und brannte später ab. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ebersbach.de/resources/02 Datenobjekte/PDF-Dateien/Stadtarchiv/Geschichtspfad Ebersbach an der Fils_web.pdf",
+"faktencheck": "korrigiert",
+"id": "278-ebersbach-fils/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "277-aichelberg",
+"anschluss": [
+"Einwohner: Ebersbach zählt rund zwölfmal so viele wie Aichelberg.",
+"Bundestagswahl 2025: Aichelberg wählte deutlich stärker AfD als Ebersbach."
+],
+"anschluesse": {
+"102-esslingen": [
+"Kreisgrenze: Esslingen am Neckar gehört zum Landkreis Esslingen, Ebersbach an der Fils zum Landkreis Göppingen.",
+"Esslingen am Neckar hat sechsmal so viele Einwohner wie Ebersbach an der Fils."
+],
+"274-ostfildern": [
+"Kreisgrenze: Ostfildern gehört zum Landkreis Esslingen, Ebersbach an der Fils zum Landkreis Göppingen.",
+"Ostfildern hat zweieinhalbmal so viele Einwohner wie Ebersbach an der Fils."
+],
+"275-denkendorf": [
+"Kreisgrenze: Denkendorf gehört zum Landkreis Esslingen, Ebersbach an der Fils zum Landkreis Göppingen.",
+"Ebersbach an der Fils hat rund 4.400 Einwohner mehr als Denkendorf."
+],
+"276-wendlingen": [
+"Kreisgrenze: Wendlingen am Neckar gehört zum Landkreis Esslingen, Ebersbach an der Fils zum Landkreis Göppingen.",
+"Wendlingen am Neckar und Ebersbach an der Fils sind fast gleich groß: rund 16.000 und 16.000 Einwohner."
+],
+"103-plochingen": [
+"Kreisgrenze: Plochingen gehört zum Landkreis Esslingen, Ebersbach an der Fils zum Landkreis Göppingen.",
+"Plochingen und Ebersbach an der Fils sind fast gleich groß: rund 15.000 und 16.000 Einwohner."
+],
+"104-kirchheim-teck": [
+"Kreisgrenze: Kirchheim unter Teck gehört zum Landkreis Esslingen, Ebersbach an der Fils zum Landkreis Göppingen.",
+"Kirchheim unter Teck hat gut zweieinhalbmal so viele Einwohner wie Ebersbach an der Fils."
+],
+"277-aichelberg": [
+"Einwohner: Ebersbach zählt rund zwölfmal so viele wie Aichelberg.",
+"Bundestagswahl 2025: Aichelberg wählte deutlich stärker AfD als Ebersbach."
+],
+"279-uhingen": [
+"Uhingen und Ebersbach an der Fils sind fast gleich groß: rund 14.000 und 16.000 Einwohner."
+],
+"105-goeppingen": [
+"Göppingen hat fast viermal so viele Einwohner wie Ebersbach an der Fils."
+],
+"280-eislingen": [
+"Eislingen/Fils hat fast anderthalbmal so viele Einwohner wie Ebersbach an der Fils."
+],
+"281-suessen": [
+"Ebersbach an der Fils hat anderthalbmal so viele Einwohner wie Süßen."
+],
+"282-gingen": [
+"Ebersbach an der Fils hat dreieinhalbmal so viele Einwohner wie Gingen an der Fils."
+],
+"284-gruibingen": [
+"Ebersbach an der Fils hat siebenmal so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 270 Meter höher als Ebersbach an der Fils."
+],
+"285-muehlhausen-taele": [
+"Ebersbach an der Fils hat vierzehnmal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 250 Meter höher als Ebersbach an der Fils."
+]
+},
+"ags": "08117018",
+"ortsteil": false,
+"km_vom_vorigen": 9.1
+},
+{
+"slug": "279-uhingen",
+"name": "Uhingen",
+"lat": 48.70583,
+"lon": 9.59194,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Uhingen",
+"steckbrief": "Uhingen ist eine Stadt mit rund 14.200 Einwohnern, 32 km östlich von Stuttgart.",
+"frage": "Bis 1830 musste im Uhinger Rathaus alljährlich ein Umtrunk stattfinden. Welchen Grund nennt die Stadt dafür?",
+"optionen": [
+"Sonst wäre die Ausschank-Konzession verloren gegangen.",
+"Er erinnerte an die Rettung vor einem Großbrand.",
+"So feierte man jährlich das Ende der Pest.",
+"Damit wurde jedes Jahr der neue Schultheiß begrüßt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Fest im Rathaus klingt nach Brauchtum oder Gedenken. Doch der Grund war nüchterner: Im Rathaus gab es eine Küche für Hochzeitsfeste, und die Gemeinde besaß eine Wirtschaftsgerechtigkeit, also das Recht zum Ausschank. Um diese Konzession nicht zu verlieren, musste jährlich ein Umtrunk im Rathaus abgehalten werden. Erst mit einem Umbau wurde die Küche abgebaut. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.uhingen.de/Leben-in-Uhingen/Liebenswertes-Uhingen/Historisch/Historische-Gebaeude",
+"faktencheck": "korrigiert",
+"id": "279-uhingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Uhingen",
+"steckbrief": "Uhingen ist eine Stadt mit rund 14.200 Einwohnern, 32 km östlich von Stuttgart.",
+"frage": "Wie viele Einwohner kommen in Uhingen im Schnitt auf einen Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 700",
+"700 bis unter 1.500",
+"1.500 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Stuttgart lässt an dichte Vorstadtbebauung denken. Doch eine Stadtgemarkung umfasst meist auch Felder und Wald, das senkt den Durchschnitt. Uhingen kommt auf rund 573 Einwohner je Quadratkilometer, berechnet aus Einwohnerzahl und Fläche. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "279-uhingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Uhingen",
+"steckbrief": "Uhingen ist eine Stadt mit rund 14.200 Einwohnern, 32 km östlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Uhinger Bleicherei gründeten einheimische Weber als Genossenschaft.",
+"Der Berchtoldshof war einst ein württembergisches Lehen.",
+"Das Kieswerk am Epplesee begann als Fuhrgeschäft."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bleicherei klingt nach Handwerk aus dem Ort. Doch Stuttgarter Industrielle hatten die „Bleicherei, Färberei und Appreturanstalt Stuttgart“ (Stoffveredelung) als Aktiengesellschaft gegründet; diese erwarb in Uhingen das Gelände einer Holzschleiferei. Wahr sind: Der Berchtoldshof war ursprünglich ein württembergisches Lehen, und das ehemalige Kieswerk am Epplesee ging aus einem Fuhrgeschäft hervor. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.uhingen.de/Leben-in-Uhingen/Liebenswertes-Uhingen/Historisch/Stadtgeschichte-erleben und www.uhingen.de/Leben-in-Uhingen/Liebenswertes-Uhingen/Historisch/Historische-Gebaeude",
+"faktencheck": "korrigiert",
+"id": "279-uhingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Uhingen",
+"steckbrief": "Uhingen ist eine Stadt mit rund 14.200 Einwohnern im Landkreis Göppingen, 32 km östlich von Stuttgart.",
+"frage": "Welche Partei wurde in Uhingen bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"FDP",
+"AfD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einer alten Industriestadt liegt die SPD als Zweite nahe. Doch hinter der CDU mit 30,3 Prozent kam die AfD auf 26,2 Prozent, die SPD nur auf 14,6. Grüne und FDP lagen weit dahinter. Stand: 23. Februar 2025. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "279-uhingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Uhingen",
+"steckbrief": "Uhingen ist eine Stadt mit rund 14.200 Einwohnern, 32 km östlich von Stuttgart; über der Stadt liegt Schloss Filseck.",
+"frage": "Burkhardt von Berlichingen ließ auf Filseck ein Renaissance-Schloss bauen. Warum verwaltete bald seine Ehefrau den Schlossbau?",
+"optionen": [
+"Er saß wegen vorgeworfener finanzieller Unregelmäßigkeiten in Haft.",
+"Er zog für mehrere Jahre in den Krieg.",
+"Er diente als Gesandter am kaiserlichen Hof.",
+"Er lag nach einem Reitunfall schwer krank."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Adligen jener Zeit denkt man an Kriegsdienst oder Hofämter. Doch Berlichingen kam wegen ihm vorgeworfener finanzieller Unregelmäßigkeiten in Haft, und seine Ehefrau musste sich um den Schlossbau kümmern. Später ging Filseck an seine Erbtöchter. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.uhingen.de/Leben-in-Uhingen/Liebenswertes-Uhingen/Historisch/Historische-Gebaeude",
+"faktencheck": "korrigiert",
+"id": "279-uhingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Uhingen",
+"steckbrief": "Uhingen ist eine Stadt mit rund 14.200 Einwohnern im Landkreis Göppingen, östlich von Stuttgart.",
+"frage": "Wie weit ist Uhingen in Luftlinie von der Landeshauptstadt Stuttgart entfernt (Ortsmitte bis Stadtmitte)?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 40 km",
+"40 bis unter 60 km",
+"60 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein eigener Landkreis lässt an große Entfernung denken. Doch von Uhingens Ortsmitte bis zur Stuttgarter Stadtmitte sind es in Luftlinie nur 32 Kilometer. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "279-uhingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Uhingen",
+"steckbrief": "Uhingen ist eine Stadt mit rund 14.200 Einwohnern, 32 km östlich von Stuttgart.",
+"frage": "Eine Station der Route der Industriekultur in Uhingen trägt den Namen Bosch. Woran erinnert sie?",
+"optionen": [
+"An ein Zweigwerk von Robert Boschs Firma.",
+"An eine Weberei des Fabrikanten Gottlob Bosch.",
+"An eine Konditorei, die Adolf Bosch gründete.",
+"An eine Ziegelei, die Wilhelm Bosch betrieb."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Bosch denkt man in Württemberg sofort an Robert Bosch und seine Elektrotechnik. Doch die Station meint die Confiserie Bosch: Adolf Bosch aus dem Remstal gründete in Uhingen eine Konditorei an der Bahnhofstraße. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.uhingen.de/Leben-in-Uhingen/Liebenswertes-Uhingen/Historisch/Stadtgeschichte-erleben",
+"faktencheck": "bestätigt",
+"id": "279-uhingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Uhingen",
+"steckbrief": "Uhingen ist eine Stadt mit rund 14.200 Einwohnern, 32 km östlich von Stuttgart.",
+"frage": "Das Alte Schulhaus in Uhingen wurde erst später Schule. Wofür wurde es ursprünglich gebaut?",
+"optionen": [
+"Als Pfarrhaus der evangelischen Kirchengemeinde.",
+"Als Wohnhaus mit Scheune eines Schultheißen.",
+"Als Gasthaus mit eigener Brauerei.",
+"Als Lagerhaus eines Textilhändlers."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem alten Gebäude im Ort denkt man an Pfarrhaus oder Gasthaus. Erbaut wurde es aber als Wohnhaus mit Scheune; Inhaber war Wilhelm Gottfried Hosch, Schultheiß, also Ortsvorsteher, und Verwaltungsaktuar. Erst später kaufte die Gemeinde es und richtete Schulsäle und Lehrerwohnungen ein. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.uhingen.de/Leben-in-Uhingen/Liebenswertes-Uhingen/Historisch/Historische-Gebaeude",
+"faktencheck": "korrigiert",
+"id": "279-uhingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Uhingen",
+"steckbrief": "Uhingen ist eine Stadt mit rund 14.200 Einwohnern, 32 km östlich von Stuttgart.",
+"frage": "Der Turm der Uhinger Cäcilienkirche ist älter als die heutige Kirche. Welchen Beleg dafür nennt die Stadt?",
+"optionen": [
+"Eine eingemeißelte Jahreszahl über dem Turmportal.",
+"Eine Urkunde über den Bau des Turms.",
+"Der Turm steht schräg zum Kirchenschiff.",
+"Ein gräflich-württembergisches Wappen in Stein."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Jahreszahl oder Urkunde wäre der übliche Nachweis. Die Stadt verweist aber auf ein gräflich-württembergisches Wappen in Stein am Turm. Gräflich heißt: aus der Zeit, als Württemberg noch Grafschaft war. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.uhingen.de/Leben-in-Uhingen/Liebenswertes-Uhingen/Historisch/Historische-Gebaeude",
+"faktencheck": "bestätigt",
+"id": "279-uhingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Uhingen",
+"steckbrief": "Uhingen ist eine Stadt mit rund 14.200 Einwohnern, 32 km östlich von Stuttgart.",
+"frage": "Die Mühle Röhm in Uhingen bestand schon im Jahr 1550; ein Getreidemahlwerk kam erst später dazu. Wozu diente sie damals?",
+"optionen": [
+"Sie diente als Säge-, Schleif- und Gipsmühle.",
+"Sie stellte als Papiermühle Schreibpapier her.",
+"Sie walkte als Walkmühle Tuch für Weber.",
+"Sie presste als Ölmühle Leinsamen zu Öl."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einem Ort mit Weberei und Bleicherei läge eine Walkmühle für Tuch nahe. Doch die damals „Untere Mühle“ genannte Anlage bestand schon zu jener Zeit als Säge-, Schleif- und Gipsmühle. Ein Mahlwerk für Getreide kam erst später hinzu. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.uhingen.de/Leben-in-Uhingen/Liebenswertes-Uhingen/Historisch/Stadtgeschichte-erleben",
+"faktencheck": "korrigiert",
+"id": "279-uhingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "278-ebersbach-fils",
+"anschluss": [
+"Bundestagswahl 2025: AfD in Uhingen 26,2, in Ebersbach 19,3 Prozent.",
+"Einwohner: Ebersbach hat rund 1.300 mehr als Uhingen."
+],
+"anschluesse": {
+"276-wendlingen": [
+"Kreisgrenze: Wendlingen am Neckar gehört zum Landkreis Esslingen, Uhingen zum Landkreis Göppingen.",
+"Wendlingen am Neckar hat rund 1.800 Einwohner mehr als Uhingen."
+],
+"103-plochingen": [
+"Kreisgrenze: Plochingen gehört zum Landkreis Esslingen, Uhingen zum Landkreis Göppingen.",
+"Plochingen und Uhingen sind fast gleich groß: rund 15.000 und 14.000 Einwohner."
+],
+"104-kirchheim-teck": [
+"Kreisgrenze: Kirchheim unter Teck gehört zum Landkreis Esslingen, Uhingen zum Landkreis Göppingen.",
+"Kirchheim unter Teck hat dreimal so viele Einwohner wie Uhingen."
+],
+"277-aichelberg": [
+"Uhingen hat elfmal so viele Einwohner wie Aichelberg."
+],
+"278-ebersbach-fils": [
+"Bundestagswahl 2025: AfD in Uhingen 26,2, in Ebersbach 19,3 Prozent.",
+"Einwohner: Ebersbach hat rund 1.300 mehr als Uhingen."
+],
+"105-goeppingen": [
+"Göppingen hat gut viermal so viele Einwohner wie Uhingen."
+],
+"280-eislingen": [
+"Eislingen/Fils hat gut anderthalbmal so viele Einwohner wie Uhingen."
+],
+"281-suessen": [
+"Uhingen hat fast anderthalbmal so viele Einwohner wie Süßen."
+],
+"282-gingen": [
+"Uhingen hat gut dreimal so viele Einwohner wie Gingen an der Fils."
+],
+"283-kuchen": [
+"Uhingen hat gut zweieinhalbmal so viele Einwohner wie Kuchen."
+],
+"284-gruibingen": [
+"Uhingen hat gut sechsmal so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 270 Meter höher als Uhingen."
+],
+"285-muehlhausen-taele": [
+"Uhingen hat dreizehnmal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 250 Meter höher als Uhingen."
+],
+"106-geislingen": [
+"Geislingen an der Steige hat doppelt so viele Einwohner wie Uhingen.",
+"Geislingen an der Steige liegt rund 170 Meter höher als Uhingen."
+]
+},
+"ags": "08117051",
+"ortsteil": false,
+"km_vom_vorigen": 5.1
 },
 {
 "slug": "105-goeppingen",
@@ -31309,19 +34636,45 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "104-kirchheim-teck",
-"anschluss": [
-"Kennzeichen: GP in Göppingen, ES in Kirchheim unter Teck.",
-"AfD-Zweitstimmen 2025: Göppingen 24,8 %, Kirchheim unter Teck 17,6 %."
-],
+"anschluss_von": "279-uhingen",
+"anschluss": [],
 "anschluesse": {
 "103-plochingen": [
 "Kreisgrenze: Plochingen gehört zum Landkreis Esslingen, Göppingen zum Landkreis Göppingen.",
 "Göppingen hat viermal so viele Einwohner wie Plochingen."
 ],
 "104-kirchheim-teck": [
-"Kennzeichen: GP in Göppingen, ES in Kirchheim unter Teck.",
-"AfD-Zweitstimmen 2025: Göppingen 24,8 %, Kirchheim unter Teck 17,6 %."
+"Kreisgrenze: Kirchheim unter Teck gehört zum Landkreis Esslingen, Göppingen zum Landkreis Göppingen.",
+"Göppingen hat rund 16.000 Einwohner mehr als Kirchheim unter Teck."
+],
+"277-aichelberg": [
+"Göppingen hat rund 45-mal so viele Einwohner wie Aichelberg."
+],
+"278-ebersbach-fils": [
+"Göppingen hat fast viermal so viele Einwohner wie Ebersbach an der Fils."
+],
+"279-uhingen": [
+"Göppingen hat gut viermal so viele Einwohner wie Uhingen."
+],
+"280-eislingen": [
+"Göppingen hat gut zweieinhalbmal so viele Einwohner wie Eislingen/Fils."
+],
+"281-suessen": [
+"Göppingen hat fast sechsmal so viele Einwohner wie Süßen."
+],
+"282-gingen": [
+"Göppingen hat dreizehnmal so viele Einwohner wie Gingen an der Fils."
+],
+"283-kuchen": [
+"Göppingen hat elfmal so viele Einwohner wie Kuchen."
+],
+"284-gruibingen": [
+"Göppingen hat rund 25-mal so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 240 Meter höher als Göppingen."
+],
+"285-muehlhausen-taele": [
+"Göppingen hat rund 55-mal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 220 Meter höher als Göppingen."
 ],
 "106-geislingen": [
 "Göppingen hat gut doppelt so viele Einwohner wie Geislingen an der Steige."
@@ -31329,7 +34682,1436 @@ window.QA_DATEN = {
 },
 "ags": "08117026",
 "ortsteil": false,
-"km_vom_vorigen": 16.0
+"km_vom_vorigen": 4.5
+},
+{
+"slug": "280-eislingen",
+"name": "Eislingen/Fils",
+"lat": 48.69333,
+"lon": 9.70667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eislingen/Fils",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.",
+"frage": "1916 nahm die Firma Zeller+Gmelin in Eislingen eine Seilbahn in Betrieb. Wozu diente sie?",
+"optionen": [
+"Sie brachte Holz für die Papierherstellung ins Werk.",
+"Sie transportierte Kalkstein für ein Zementwerk.",
+"Sie transportierte Schiefer, um daraus Öl zu gewinnen.",
+"Sie brachte sonntags Ausflügler auf einen Aussichtsberg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Werksseilbahn denkt man zuerst an Holz oder Steine. Doch im Ersten Weltkrieg waren Schmierstoffe knapp und teuer. Deshalb transportierte Zeller+Gmelin mit der Bahn Schiefer, um daraus Öl zu gewinnen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad",
+"faktencheck": "bestätigt",
+"id": "280-eislingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eislingen/Fils",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.",
+"frage": "Wie groß ist die Gemarkung von Eislingen/Fils?",
+"optionen": [
+"unter 6 km²",
+"6 bis unter 10 km²",
+"10 bis unter 15 km²",
+"15 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Stadt im Filstal denkt, tippt gern auf eine knappe Gemarkung zwischen Nachbarorten. Die Gemarkung von Eislingen/Fils umfasst aber 16,41 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "280-eislingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Eislingen/Fils",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Schloss diente einst Adligen als Sommerresidenz.",
+"Kleineislingen stand einst unter württembergischer Herrschaft.",
+"Die Lutherkirche steht im alten Dorf Großeislingen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Schloss als Sommersitz klingt nach Erfindung, ist aber belegt. Gelogen ist Aussage 3: Die Lutherkirche steht im alten Dorf Kleineislingen, dem heutigen Eislingen Süd. Das passt zu Württemberg, das nach der Reformation evangelisch wurde. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad; www.eislingen.de/historisches",
+"faktencheck": "korrigiert",
+"id": "280-eislingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eislingen/Fils",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.",
+"frage": "Welchen Zweitstimmenanteil holte die stärkste Partei in Eislingen/Fils bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 28 %",
+"28 bis unter 33 %",
+"33 bis unter 38 %",
+"38 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an alte CDU-Hochburgen im Südwesten denkt, schätzt leicht zu hoch. Bei der Bundestagswahl 2025 lag die CDU in Eislingen/Fils zwar vorn, aber mit 30,1 Prozent der Zweitstimmen nur knapp vor der AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "280-eislingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eislingen/Fils",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.",
+"frage": "1950 eröffnete Eislingen eine Brücke, die Bürgermeister Erwin Maier „Brücke des guten Einvernehmens“ nannte. Was ermöglichte sie laut Stadt?",
+"optionen": [
+"Dass Eislingen und Salach zu einer Gemeinde zusammenwuchsen.",
+"Dass Eislingen und Göppingen zu einer Stadt zusammenwuchsen.",
+"Dass der katholische Norden und der evangelische Süden zu einer Stadt zusammenwuchsen.",
+"Dass der evangelische Norden und der katholische Süden zu einer Stadt zusammenwuchsen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Salach und Göppingen liegen nah, sind aber bis heute eigene Gemeinden. Die Brücke verband die beiden Hälften Eislingens: Laut Stadt ermöglichte sie, dass der katholische Norden und der evangelische Süden zu einer gemeinsamen Stadt zusammenwuchsen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad (Vermerk: Option 4 nennt die Konfessionsverteilung und berührt damit Karte 3. Bitte prüfen, dass Karte 3 sie nicht verrät.)",
+"faktencheck": "korrigiert",
+"id": "280-eislingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eislingen/Fils",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.",
+"frage": "Wie viele Einwohner leben in Eislingen/Fils rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 800",
+"800 bis unter 1.200",
+"1.200 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Rund 22.000 Einwohner klingen nach einer Stadt mit viel Platz. Doch Eislingen/Fils ist dicht besiedelt: Auf einen Quadratkilometer kommen rechnerisch 1.351 Einwohner. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "280-eislingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eislingen/Fils",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.",
+"frage": "Zwischen 1945 und 1955 sprach die junge Generation in Eislingen „Eislinger Manisch“, das nur Einheimische verstanden. Worauf deutet der Name hin?",
+"optionen": [
+"Er deutet auf die Sprache der Sinti und Roma hin.",
+"Er spielt auf aufgedrehtes, hektisches Reden an.",
+"Er stammt vom englischen „man“ der US-Soldaten.",
+"Er geht auf die Arbeiter einer Manufaktur zurück."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Manisch“ klingt heute nach aufgedreht, und das passt scheinbar gut zu Jugendsprache. Doch der Name deutet auf eine Nähe zur Sprache der Sinti und Roma hin. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad",
+"faktencheck": "korrigiert",
+"id": "280-eislingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eislingen/Fils",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.",
+"frage": "Großeislingen nahm 1906 ein von Silber und Blau geviertes Wappen an, das 1933 die neue Stadt übernahm. Woran sollte die Vierung erinnern?",
+"optionen": [
+"An die Fils und ihre Mühlen.",
+"An eine Kreuzung alter Handelswege.",
+"An die einstige Lehenherrschaft Würzburgs.",
+"An Groß- und Kleineislingen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Blau lässt an die Fils denken, die Teilung an Groß- und Kleineislingen. Doch die Vierung, also die Teilung über Kreuz, sollte an die einstige würzburgische Lehenherrschaft erinnern. Kurios: Das Würzburger Wappen ist silber-rot geviert, Silber-Blau wurde irrtümlich gewählt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.eislingen.de/de/Leben-in-Eislingen/Unsere-Stadt/Zahlen-Fakten/Wappen",
+"faktencheck": "korrigiert",
+"id": "280-eislingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eislingen/Fils",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.",
+"frage": "1846 richtete der Unternehmer Wilhelm Jung in Eislingen eine Baumwollweberei ein, daraus entstand die Textilfabrik Jung & Sixt. Was hatte er dafür gekauft?",
+"optionen": [
+"Ein aufgelöstes Kloster.",
+"Eine Wassermühle.",
+"Eine Ziegelei.",
+"Eine Brauerei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster liegt nahe, denn viele frühe Fabriken zogen in leere Klostergebäude. Wilhelm Jung aber kaufte eine Wassermühle an der Fils und richtete sie als Baumwollweberei ein. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad",
+"faktencheck": "korrigiert",
+"id": "280-eislingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eislingen/Fils",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.",
+"frage": "Um 125 nach Christus lag im heutigen Eislingen ein römisches Kastell. Womit hing sein Ende um 159 vermutlich zusammen?",
+"optionen": [
+"Rom nahm die Grenze an die Donau zurück.",
+"Germanen eroberten es, Rom gab das Filstal auf.",
+"Rom zog die Grenze auf die Schwäbische Alb zurück.",
+"Der Limes wurde ins Remstal verlegt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Rückzug vor den Germanen liegt nahe. Hier rückte die Grenze aber vor: Um 159 wurde der Limes vom Filstal ins Remstal verlegt, und länger bestand das Kastell vermutlich nicht. Möglicherweise markierte es zuvor die Grenze zwischen Raetien und Obergermanien. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.eislingen.de/historisches",
+"faktencheck": "korrigiert",
+"id": "280-eislingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "105-goeppingen",
+"anschluss": [
+"Einwohner: Göppingen hat gut zweieinhalbmal so viele wie Eislingen/Fils.",
+"Bundestagswahl 2025: AfD in Eislingen/Fils stärker als in Göppingen."
+],
+"anschluesse": {
+"104-kirchheim-teck": [
+"Kreisgrenze: Kirchheim unter Teck gehört zum Landkreis Esslingen, Eislingen/Fils zum Landkreis Göppingen.",
+"Kirchheim unter Teck hat fast doppelt so viele Einwohner wie Eislingen/Fils."
+],
+"277-aichelberg": [
+"Eislingen/Fils hat siebzehnmal so viele Einwohner wie Aichelberg."
+],
+"278-ebersbach-fils": [
+"Eislingen/Fils hat fast anderthalbmal so viele Einwohner wie Ebersbach an der Fils."
+],
+"279-uhingen": [
+"Eislingen/Fils hat gut anderthalbmal so viele Einwohner wie Uhingen."
+],
+"105-goeppingen": [
+"Einwohner: Göppingen hat gut zweieinhalbmal so viele wie Eislingen/Fils.",
+"Bundestagswahl 2025: AfD in Eislingen/Fils stärker als in Göppingen."
+],
+"281-suessen": [
+"Eislingen/Fils hat gut doppelt so viele Einwohner wie Süßen."
+],
+"282-gingen": [
+"Eislingen/Fils hat fünfmal so viele Einwohner wie Gingen an der Fils."
+],
+"283-kuchen": [
+"Eislingen/Fils hat viermal so viele Einwohner wie Kuchen."
+],
+"284-gruibingen": [
+"Eislingen/Fils hat zehnmal so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 230 Meter höher als Eislingen/Fils."
+],
+"285-muehlhausen-taele": [
+"Eislingen/Fils hat zwanzigmal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 210 Meter höher als Eislingen/Fils."
+],
+"106-geislingen": [
+"Geislingen an der Steige hat rund 5.600 Einwohner mehr als Eislingen/Fils."
+],
+"286-amstetten": [
+"Kreisgrenze: Amstetten gehört zum Alb-Donau-Kreis, Eislingen/Fils zum Landkreis Göppingen.",
+"Eislingen/Fils hat gut fünfmal so viele Einwohner wie Amstetten."
+]
+},
+"ags": "08117019",
+"ortsteil": false,
+"km_vom_vorigen": 4.1
+},
+{
+"slug": "281-suessen",
+"name": "Süßen",
+"lat": 48.67972,
+"lon": 9.7575,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Süßen",
+"steckbrief": "Die Stadt mit rund 10.000 Einwohnern liegt 36 km nordwestlich von Ulm.",
+"frage": "Süßen klingt nach Zucker oder Honig. Woher stammt der Ortsname laut der Stadt?",
+"optionen": [
+"Er erinnert an besonders süßes Quellwasser.",
+"Er meinte Waldgrundstück oder Rinderweide am Wald.",
+"Er geht auf den Namen eines Gründers zurück.",
+"Er stammt von einem alten Wort für Sumpf."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Gleichklang mit „süß“ liegt nahe, führt aber in die Irre. Die Stadt leitet den Namen von „Siezun“ ab. Das geht auf althochdeutsch „siaza“ oder „sioza“ zurück und bezeichnet ein Waldgrundstück oder einen Rinderweideplatz am Wald. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.suessen.de/home/stadt+und+politik/stadtinfo.html",
+"faktencheck": "bestätigt",
+"id": "281-suessen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Süßen",
+"steckbrief": "Süßen ist eine Stadt mit rund 10.000 Einwohnern, 36 km nordwestlich von Ulm.",
+"frage": "Wie groß ist die Fläche der Gemarkung von Süßen?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 15 km²",
+"15 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe stellt man sich oft weitläufig vor, zumal viele Kleinstädte durch Eingemeindungen gewachsen sind. Süßens Gemarkung misst aber 12,79 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "281-suessen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Süßen",
+"steckbrief": "Süßen hat rund 10.000 Einwohner und liegt 36 km nordwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Pest von 1596 verschonte Großsüßen vollständig.",
+"1396 kam Großsüßen ganz zu Ulm.",
+"Ab 1847 hatte Kleinsüßen einen eigenen Bahnhof."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bahnhof schon 1847 wirkt früh, doch damals erreichte die Strecke Stuttgart–Ulm Kleinsüßen. Auch dass Großsüßen 1396 ganz zu Ulm kam, stimmt. Gelogen ist die Verschonung: Die Pest forderte 1596 in Großsüßen viele Tote. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.suessen.de/home/stadt+und+politik/stadtinfo.html",
+"faktencheck": "korrigiert",
+"id": "281-suessen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Süßen",
+"steckbrief": "Süßen, eine Stadt mit rund 10.000 Einwohnern, liegt 36 km nordwestlich von Ulm.",
+"frage": "Bei der Bundestagswahl 2025 wurde die CDU in Süßen stärkste Kraft. Welche Partei kam bei den Zweitstimmen auf Platz zwei?",
+"optionen": [
+"AfD",
+"SPD",
+"GRÜNE",
+"FDP"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Lange war im Südwesten die SPD der übliche Verfolger der CDU, daher liegt sie als Tipp nahe. Bei der Bundestagswahl 2025 lag in Süßen aber die AfD mit 24,5 Prozent klar auf Platz zwei, vor der SPD mit 15 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025",
+"faktencheck": "bestätigt",
+"id": "281-suessen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Süßen",
+"steckbrief": "Süßen hat rund 10.000 Einwohner und liegt 36 km nordwestlich von Ulm.",
+"frage": "Am 18. Januar 1806 zog Napoleon mit Truppen durchs Filstal; bei Großsüßen stand ihm zu Ehren ein Triumphbogen. Woher kam er?",
+"optionen": [
+"Er kam vom Feldzug in Russland zurück.",
+"Er kehrte von der Schlacht bei Austerlitz zurück.",
+"Er kam von seiner Krönung in Mailand zurück.",
+"Er kam aus dem Krieg in Spanien zurück."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Russland und Spanien liegen nahe, weil man Napoleon vor allem mit diesen großen Feldzügen verbindet. Sie kamen aber später. Damals kehrte er von der Schlacht bei Austerlitz zurück. Den Triumphbogen bei Großsüßen ließ der württembergische König Friedrich I. errichten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.suessen.de/home/stadt+und+politik/stadtinfo.html",
+"faktencheck": "korrigiert",
+"id": "281-suessen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Süßen",
+"steckbrief": "Süßen ist eine Stadt mit rund 10.000 Einwohnern, 36 km nordwestlich von Ulm.",
+"frage": "Wie viele Einwohner kommen in Süßen rechnerisch auf einen Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 600",
+"600 bis unter 900",
+"900 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Kleinstadt dieser Größe verbindet man leicht mit ländlicher, locker bebauter Umgebung. Rechnerisch leben in Süßen aber 791 Menschen auf einem Quadratkilometer, gemessen an den Einwohnern Ende 2025. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 31.12.2025) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "281-suessen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Süßen",
+"steckbrief": "Süßen zählt rund 10.000 Einwohner und liegt 36 km nordwestlich von Ulm.",
+"frage": "Großsüßen und Kleinsüßen waren bis 1933 getrennte Gemeinden. Welche Konfession prägte die beiden Dörfer?",
+"optionen": [
+"Beide Dörfer waren evangelisch.",
+"Beide Dörfer waren katholisch.",
+"Großsüßen war katholisch, Kleinsüßen evangelisch.",
+"Großsüßen war evangelisch, Kleinsüßen katholisch."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der gemeinsame Name lässt eine gemeinsame Kirche vermuten. Doch die Dörfer trennte nicht nur eine Landesgrenze, sondern auch der Glaube: In Großsüßen wurde die Reformation eingeführt, es war evangelisch. Kleinsüßen blieb katholisch. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.suessen.de/home/stadt+und+politik/stadtinfo.html",
+"faktencheck": "korrigiert",
+"id": "281-suessen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Süßen",
+"steckbrief": "Die Stadt Süßen hat rund 10.000 Einwohner und liegt 36 km nordwestlich von Ulm.",
+"frage": "Für die Straßen im Süßener Gebiet Rabenwiesen beschloss der Gemeinderat eine gemeinsame Namensidee. Wen ehren die Namen?",
+"optionen": [
+"Sie ehren Widerstandskämpfer im Dritten Reich.",
+"Sie ehren heimische Vogelarten.",
+"Sie ehren frühere Bürgermeister der Stadt.",
+"Sie ehren Komponisten der Klassik."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Gebietsname Rabenwiesen lädt zu Vogelnamen ein. Der Gemeinderat entschied sich aber für Widerstandskämpfer im Dritten Reich. Die Straßennamen ehren ihren Mut und ihre Entschlossenheit gegen das Regime und ihren Einsatz für Freiheit, Gerechtigkeit und Menschlichkeit. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.suessen.de/home/stadt+und+politik/stadtinfo.html",
+"faktencheck": "bestätigt",
+"id": "281-suessen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Süßen",
+"steckbrief": "Süßen, Stadt mit rund 10.000 Einwohnern, liegt 36 km nordwestlich von Ulm.",
+"frage": "Der Schulmeister Valentin Feinstlin wurde 1552 verurteilt und hingerichtet. Weshalb?",
+"optionen": [
+"Er hatte Geld aus der Kirchenkasse gestohlen.",
+"Er hatte einen Schüler zu Tode geprügelt.",
+"Er hatte einen Brand gelegt.",
+"Er hatte im Wirtshaus einen Mann im Streit erschlagen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Schulmeister denkt man zuerst an Vergehen im Amt, an Geld oder an Gewalt. Feinstlin aber wurde wegen Brandstiftung verurteilt und hingerichtet. Feuer war für die eng bebauten Dörfer jener Zeit eine tödliche Gefahr. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.suessen.de/home/stadt+und+politik/stadtinfo.html",
+"faktencheck": "korrigiert",
+"id": "281-suessen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "280-eislingen",
+"anschluss": [
+"Einwohner: Eislingen/Fils hat mehr als doppelt so viele wie Süßen.",
+"Bundestagswahl 2025: Süßen hatte 83,1, Eislingen/Fils 78,3 Prozent Wahlbeteiligung."
+],
+"anschluesse": {
+"277-aichelberg": [
+"Süßen hat achtmal so viele Einwohner wie Aichelberg."
+],
+"278-ebersbach-fils": [
+"Ebersbach an der Fils hat anderthalbmal so viele Einwohner wie Süßen."
+],
+"279-uhingen": [
+"Uhingen hat fast anderthalbmal so viele Einwohner wie Süßen."
+],
+"105-goeppingen": [
+"Göppingen hat fast sechsmal so viele Einwohner wie Süßen."
+],
+"280-eislingen": [
+"Einwohner: Eislingen/Fils hat mehr als doppelt so viele wie Süßen.",
+"Bundestagswahl 2025: Süßen hatte 83,1, Eislingen/Fils 78,3 Prozent Wahlbeteiligung."
+],
+"282-gingen": [
+"Süßen hat fast zweieinhalbmal so viele Einwohner wie Gingen an der Fils."
+],
+"283-kuchen": [
+"Süßen hat fast doppelt so viele Einwohner wie Kuchen."
+],
+"284-gruibingen": [
+"Süßen hat viereinhalbmal so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 200 Meter höher als Süßen."
+],
+"285-muehlhausen-taele": [
+"Süßen hat neunmal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 180 Meter höher als Süßen."
+],
+"106-geislingen": [
+"Geislingen an der Steige hat gut zweieinhalbmal so viele Einwohner wie Süßen."
+],
+"107-merklingen": [
+"Kreisgrenze: Merklingen gehört zum Alb-Donau-Kreis, Süßen zum Landkreis Göppingen.",
+"Süßen hat gut viereinhalbmal so viele Einwohner wie Merklingen."
+],
+"286-amstetten": [
+"Kreisgrenze: Amstetten gehört zum Alb-Donau-Kreis, Süßen zum Landkreis Göppingen.",
+"Süßen hat fast zweieinhalbmal so viele Einwohner wie Amstetten."
+]
+},
+"ags": "08117049",
+"ortsteil": false,
+"km_vom_vorigen": 4.0
+},
+{
+"slug": "282-gingen",
+"name": "Gingen an der Fils",
+"lat": 48.65806,
+"lon": 9.78194,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gingen an der Fils",
+"steckbrief": "Gemeinde mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.",
+"frage": "Im Jahr 915 kam Gingen an das Kloster Lorsch an der Bergstraße. Wie kam es dazu?",
+"optionen": [
+"Eine Königin schenkte es für ihr Seelenheil.",
+"Ein verschuldeter Graf verpfändete es dem Kloster.",
+"Das Kloster kaufte es einem Herzog ab.",
+"Ein Bischof tauschte es gegen Land ein."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Kauf liegt nahe, denn Klöster erwarben oft Land. Doch Königin Kunigunde schenkte Gingen samt Höfen dem Kloster Lorsch – für ihr Seelenheil. Das Kloster ließ ein Bethaus errichten und förderte Gingen als Verwaltungszentrum. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik",
+"faktencheck": "bestätigt",
+"id": "282-gingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gingen an der Fils",
+"steckbrief": "Gemeinde im Filstal mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.",
+"frage": "Wie viele Einwohner leben in Gingen im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 600",
+"600 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bahnlinie, Bundesstraße und die Lage im Taltrichter der Fils lassen an eine dicht bebaute Gemeinde denken. Doch auf gut zehn Quadratkilometern Fläche kommen rechnerisch 443 Einwohner je Quadratkilometer. Richtig war 2.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "282-gingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gingen an der Fils",
+"steckbrief": "Gemeinde mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Jahrhundertelang gehörte Gingen zur Reichsstadt Ulm.",
+"In der Reformation blieb Gingen katholisch.",
+"Eine alte Ölmühle erzeugte später elektrischen Strom."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Mühle klingt erfunden, stimmt aber: Johannes Bader nutzte ihre Wasserkraft für Strom. Ambrosius Blarer reformierte das Ulmer Dorf; schließlich wurde ganz Gingen evangelisch. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gingen.de/gemeinde-wirtschaft/geschichte/gemarkung-gingen",
+"faktencheck": "bestätigt",
+"id": "282-gingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gingen an der Fils",
+"steckbrief": "Gingen an der Fils: Gemeinde mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.",
+"frage": "Wie hoch war in Gingen die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Spanne in der Mitte wirkt oft am sichersten. In Gingen gingen bei der Bundestagswahl 2025 aber 86,1 Prozent der Wahlberechtigten zur Wahl. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "282-gingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gingen an der Fils / Gemeinde an der Fils mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm. / Die Gingener tragen den Spitznamen „Schnapper“. Welche Herkunft des Spitznamens hält die Ortsgeschichte für die plausibelste? / 1. Sie schnappten dem Nachbarort ein Quellrecht weg. 2. Sie brannten früher besonders viel Schnaps. 3. Sie fingen Forellen mit bloßen Händen. 4. Sie galten als bissige, schnippische Streithähne.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schnaps liegt beim Wortklang nahe. Die Gemeinde hält aber eine andere Version für die plausibelste: Kuchen und Gingen wollten beide die Sieben-Brunnen-Quelle fassen. Der Überlieferung nach unterschrieb der Gingener Schultes am 3. Mai 1887 gerade, als die Kuchener Vertreter eintraten. Damit war das Recht „weggeschnappt“. Richtig war 1. (49 Wörter)",
+"quelle": "Gemeinde-Webseite, www.gingen.de/gemeinde-wirtschaft/geschichte/spitzname-schnapper",
+"faktencheck": "korrigiert",
+"id": "282-gingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Gingen an der Fils",
+"steckbrief": "Gemeinde mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm und 46 km von Stuttgart.",
+"frage": "Zu welchem Landkreis gehört Gingen an der Fils?",
+"optionen": [
+"Alb-Donau-Kreis",
+"Landkreis Göppingen",
+"Landkreis Esslingen",
+"Ostalbkreis"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Ulm spricht für den Alb-Donau-Kreis, der die Stadt umgibt. Doch Gingen gehört zum Landkreis Göppingen, Hauptkennzeichen GP. Richtig war 2.",
+"quelle": "dewiki Infobox (Landkreis); Wikidata P395 (Kennzeichen)",
+"faktencheck": "bestätigt",
+"id": "282-gingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gingen an der Fils / Gemeinde im Filstal mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm. / Um 1400 war eine Gräfin von Helfenstein Dorfherrin von Gingen und lebte von seinen Abgaben. Aus welchem Herrscherhaus stammte sie? / 1. Aus dem Königshaus von Norwegen. 2. Aus dem Königshaus von Portugal. 3. Aus dem Herrscherhaus von Bosnien. 4. Aus dem Königshaus von Schottland.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schottland liegt nahe, weil Fürstenhöfe Töchter quer durch Europa verheirateten. Doch Maria von Bosnien, die Frau des Grafen Ulrich von Helfenstein, stammte aus dem bosnischen Herrscherhaus, das den ersten König Bosniens stellte. Ihren Lebensunterhalt bestritt sie aus Gingens Abgaben. Richtig war 3. (45 Wörter)",
+"quelle": "",
+"faktencheck": "korrigiert",
+"id": "282-gingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gingen an der Fils",
+"steckbrief": "Gemeinde mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.",
+"frage": "Die Schlagwerk GmbH, Hersteller von Cajons und anderen Percussion-Instrumenten, zog 1994 nach Gingen. Wo war sie gegründet worden?",
+"optionen": [
+"Sie wurde in Schwäbisch Gmünd gegründet.",
+"Sie wurde in Giengen an der Brenz gegründet.",
+"Sie wurde in Schorndorf gegründet.",
+"Sie wurde in Aalen gegründet."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Giengen wirkt wie ein Tippfehler für Gingen und darum wie eine Falle. Doch Schlagwerk wurde wirklich im fast gleichnamigen Giengen an der Brenz gegründet und kam über einen Zwischenhalt nach Gingen. Gerhard Priel von Schlagwerk erkannte das Potenzial des Cajons, einer Kistentrommel. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gingen.de/freizeit-tourismus/historischer-rundweg/13-schlagwerk",
+"faktencheck": "bestätigt",
+"id": "282-gingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gingen an der Fils",
+"steckbrief": "Gemeinde an der Fils mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.",
+"frage": "Gingen war Station einer Postroute, die der spätere Kaiser Maximilian 1490 einrichtete. Welche Städte verband sie?",
+"optionen": [
+"Die Route verband Hamburg mit Venedig.",
+"Die Route verband Köln mit Wien.",
+"Die Route verband Frankfurt mit Mailand.",
+"Die Route verband Mechelen mit Innsbruck."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Frankfurt und Mailand klingen nach großen Handelsstädten. Doch die Route lief von Mechelen im heutigen Belgien nach Innsbruck. In Gingen stand eine Geleit- und Poststation: bewaffnete Reiter schützten Reisende vor Überfällen, eine Schmiede reparierte Wagen und Kutschen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gingen.de/freizeit-tourismus/historischer-rundweg/6-postroute",
+"faktencheck": "korrigiert",
+"id": "282-gingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gingen an der Fils",
+"steckbrief": "Gemeinde mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.",
+"frage": "Mitte des 15. Jahrhunderts wurde Gingen vollständig zerstört. Was war der Grund?",
+"optionen": [
+"Württembergische Truppen verwüsteten es im Städtekrieg.",
+"Ein Hochwasser der Fils riss das Dorf fort.",
+"Ein Erdbeben auf der Schwäbischen Alb zerstörte es.",
+"Ein Bergsturz vom Albtrauf begrub das Dorf."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Hochwasser liegt nahe, denn Gingen liegt direkt an der Fils. Doch im Städtekrieg zerstörten württembergische Truppen das damals ulmische Dorf vollständig. Beim Wiederaufbau erhielt die Johanneskirche einen größeren Chor und ihre gotische Gestalt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gingen.de/gemeinde-wirtschaft/geschichte/gemarkung-gingen; www.gingen.de/gemeinde-wirtschaft/geschichte/perle-des-filstals",
+"faktencheck": "korrigiert",
+"id": "282-gingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "281-suessen",
+"anschluss": [
+"Einwohner: Süßen hat mehr als doppelt so viele wie Gingen.",
+"Zwischen Gingen und Süßen liegt eine keltische Viereckschanze."
+],
+"anschluesse": {
+"277-aichelberg": [
+"Gingen an der Fils hat dreieinhalbmal so viele Einwohner wie Aichelberg."
+],
+"278-ebersbach-fils": [
+"Ebersbach an der Fils hat dreieinhalbmal so viele Einwohner wie Gingen an der Fils."
+],
+"279-uhingen": [
+"Uhingen hat gut dreimal so viele Einwohner wie Gingen an der Fils."
+],
+"105-goeppingen": [
+"Göppingen hat dreizehnmal so viele Einwohner wie Gingen an der Fils."
+],
+"280-eislingen": [
+"Eislingen/Fils hat fünfmal so viele Einwohner wie Gingen an der Fils."
+],
+"281-suessen": [
+"Einwohner: Süßen hat mehr als doppelt so viele wie Gingen.",
+"Zwischen Gingen und Süßen liegt eine keltische Viereckschanze."
+],
+"283-kuchen": [
+"Kuchen hat rund 1.000 Einwohner mehr als Gingen an der Fils."
+],
+"284-gruibingen": [
+"Gingen an der Fils hat doppelt so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 180 Meter höher als Gingen an der Fils."
+],
+"285-muehlhausen-taele": [
+"Gingen an der Fils hat viermal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 160 Meter höher als Gingen an der Fils."
+],
+"106-geislingen": [
+"Geislingen an der Steige hat gut sechsmal so viele Einwohner wie Gingen an der Fils."
+],
+"107-merklingen": [
+"Kreisgrenze: Merklingen gehört zum Alb-Donau-Kreis, Gingen an der Fils zum Landkreis Göppingen.",
+"Gingen an der Fils hat gut doppelt so viele Einwohner wie Merklingen."
+],
+"286-amstetten": [
+"Kreisgrenze: Amstetten gehört zum Alb-Donau-Kreis, Gingen an der Fils zum Landkreis Göppingen.",
+"Amstetten und Gingen an der Fils sind fast gleich groß: rund 4.200 und 4.400 Einwohner."
+]
+},
+"ags": "08117025",
+"ortsteil": false,
+"km_vom_vorigen": 3.0
+},
+{
+"slug": "283-kuchen",
+"name": "Kuchen",
+"lat": 48.63917,
+"lon": 9.79917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kuchen",
+"steckbrief": "Kuchen hat rund 5.500 Einwohner und liegt 30 km nordwestlich von Ulm.",
+"frage": "Woher der Name Kuchen stammt, ist nicht sicher. Eine Deutung schließt die Ortsgeschichte aber zweifelsfrei aus. Welche?",
+"optionen": [
+"Der Name geht auf einen Ortsherrn Kuoch zurück.",
+"Der Name kommt von einem Flurnamen für Erdscholle.",
+"Der Name beschreibt das Gelände bildhaft als Gebäck.",
+"Der Name stammt vom keltischen Wort für Felsen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Gebäck klingt wie ein Scherz, doch Lutz Reichardt hält eine bildhafte Bezeichnung des Geländes nach Gebäckarten für möglich. Georg Burkhardt denkt an einen Ortsherrn Kuoch oder einen Flurnamen; urkundlich heißt der Ort Kuochheim. Zweifelsfrei ausgeschlossen ist nur die keltische Herleitung von „Cuc“, Felsen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.kuchen.de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "283-kuchen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kuchen",
+"steckbrief": "Kuchen im Filstal hat rund 5.500 Einwohner und liegt 30 km nordwestlich von Ulm.",
+"frage": "Wie viele Einwohner leben in Kuchen je Quadratkilometer Gemeindefläche?",
+"optionen": [
+"unter 700",
+"700 bis unter 1.200",
+"1.200 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bahnlinie und Bundesstraße im Filstal lassen an dichte Bebauung denken. Doch zur Markung gehören viel Wald und Feld. Auf den Quadratkilometer kommen in Kuchen 612 Einwohner. Richtig war 1.",
+"quelle": "Wikidata P1082 (Einwohner, Stand 2025-12-31) und P2046 (Fläche), daraus berechnet",
+"faktencheck": "bestätigt",
+"id": "283-kuchen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kuchen",
+"steckbrief": "Kuchen hat rund 5.500 Einwohner und liegt 30 km nordwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kuchen war im Mittelalter zeitweise eine Stadt.",
+"Kuchen gehörte nach 1800 kurze Zeit zu Bayern.",
+"Kuchen gehörte niemals zum Gebiet der Reichsstadt Ulm."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bayern klingt mitten in Württemberg fremd und stimmt doch. Gelogen ist der Satz über Ulm: Kuchen wurde im Spätmittelalter ulmisch, und die Reichsstadt ließ später die Jakobuskirche erneuern. Stadt war Kuchen nur zeitweise, danach Marktflecken. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.kuchen.de/geschichte.html und www.kuchen.de/jakobuskirche.html",
+"faktencheck": "korrigiert",
+"id": "283-kuchen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kuchen",
+"steckbrief": "Kuchen hat rund 5.500 Einwohner und liegt 30 km nordwestlich von Ulm.",
+"frage": "Bundestagswahl 2025 in Kuchen: Wie viel Prozent der Zweitstimmen holte die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In Württemberg erwartet man oft eine übermächtige CDU. In Kuchen kam sie 2025 auf 34 Prozent der Zweitstimmen, klar vor der AfD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "283-kuchen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kuchen",
+"steckbrief": "Kuchen hat rund 5.500 Einwohner und liegt 30 km nordwestlich von Ulm.",
+"frage": "Der Kuchener Fabrikgründer Arnold Staub erhielt 1867 auf der Pariser Weltausstellung hohe Auszeichnungen. Welchen Grund nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Er hatte eine neuartige Spinnmaschine erfunden.",
+"Er belieferte den französischen Hof mit Tuch.",
+"Er hatte Frankreichs Kaiser einen Wandteppich gewebt.",
+"Er förderte Bildung und Sitte seiner Arbeiter."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Baumwollfabrik denkt man an Maschinen oder Stoffe. Der Schweizer Staub hatte in Paris aber eine Beschreibung seiner sozialen Einrichtungen vorgelegt, etwa Badeanstalt, Kinderschule und Bibliothek. Für seine Verdienste um die geistige und sittliche Hebung und Bildung des Arbeiterstandes erhielt er einen Preis und eine Goldmedaille. Napoleon III. überreichte ihm persönlich das Ritterkreuz der Ehrenlegion. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.kuchen.de/geschichte.html und www.kuchen.de/historische-arbeitersiedlung.html",
+"faktencheck": "korrigiert",
+"id": "283-kuchen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kuchen",
+"steckbrief": "Kuchen im Filstal hat rund 5.500 Einwohner und liegt 30 km nordwestlich von Ulm.",
+"frage": "Welches Hauptkennzeichen gilt für Autos aus Kuchen?",
+"optionen": [
+"GP",
+"UL",
+"ES",
+"HDH"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ulm ist die nächste Großstadt, da liegt UL nahe. Kuchen gehört aber zum Landkreis Göppingen, und dessen Hauptkennzeichen ist GP. Richtig war 1.",
+"quelle": "Wikidata P395; Landkreis: dewiki Infobox",
+"faktencheck": "korrigiert",
+"id": "283-kuchen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kuchen",
+"steckbrief": "Kuchen hat rund 5.500 Einwohner und liegt 30 km nordwestlich von Ulm.",
+"frage": "Gottfried von Spitzenberg gehört zur Kuchener Ortsgeschichte. Welches Amt übte er ab 1172 für Kaiser Friedrich Barbarossa aus?",
+"optionen": [
+"Er diente ihm als Mundschenk.",
+"Er diente ihm als Kanzler.",
+"Er führte als Marschall sein Heer.",
+"Er verwaltete als Kämmerer seinen Schatz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Adliger am Kaiserhof lässt an Heer oder Hofdienst denken. Gottfried aber hatte Theologie und Recht studiert. Als Kanzler war er maßgeblich an den Friedensschlüssen von Venedig und Konstanz beteiligt, später Bischof von Würzburg. Vom Kreuzzug mit Barbarossa kehrte er nicht zurück. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kuchen.de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "283-kuchen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kuchen",
+"steckbrief": "Kuchen im Filstal hat rund 5.500 Einwohner und liegt 30 km nordwestlich von Ulm.",
+"frage": "Die Kuchener tragen einen Spottnamen: „Gsälzhäfa“. Woher stammt er nach der Vermutung der Ortsgeschichte?",
+"optionen": [
+"Kuchen war einst für Kirschmarmelade bekannt.",
+"Der Ortsname erinnerte an Kuchen mit Marmelade.",
+"Kuchener Töpfer machten Töpfe für Marmelade.",
+"Das Dorf liegt im Tal wie im Topf."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Kuchen denkt man schnell an Gebäck mit Marmelade. Diese Deutung hält die Ortsgeschichte aber für unbegründet. Sie vermutet ein altes Gewerbe: Häfner, also Töpfer, waren in Kuchen wohl stärker vertreten als ringsum. Unter ihrem irdenen Geschirr waren wohl auch Töpfe für Gsälz, schwäbisch Marmelade. Die Kuchener nehmen den Spott ohne Groll an. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kuchen.de/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "283-kuchen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kuchen",
+"steckbrief": "Kuchen hat rund 5.500 Einwohner und liegt 30 km nordwestlich von Ulm.",
+"frage": "Im Dezember 1526 wandten sich sieben Bürger aus Kuchen mit einer Bitte an den Ulmer Rat. Worum baten sie?",
+"optionen": [
+"Sie baten, die Reformation einzuführen.",
+"Sie baten um eine eigene Pfarrkirche.",
+"Sie baten um Schutz vor aufständischen Bauern.",
+"Sie baten um Erlass des Zehnten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. So kurz nach dem Bauernkrieg liegt ein Streit um Abgaben nahe. Die Kuchener wollten aber den neuen Glauben. Eine Pfarrkirche hatten sie längst. Ulm führte die Reformation erst später in seinem Gebiet ein, zusammen mit einer Schule. Ein Fürsprecher stammte aus Kuchen: der Ulmer Arzt Wolfgang Rychart. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.kuchen.de/geschichte.html",
+"faktencheck": "unsicher",
+"id": "283-kuchen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kuchen",
+"steckbrief": "Kuchen hat rund 5.500 Einwohner und liegt 30 km nordwestlich von Ulm.",
+"frage": "Im Wappen von Kuchen steht ein silberner Elefant auf einem goldenen Berg. Woran erinnert er?",
+"optionen": [
+"Er erinnert an Hannibals Zug über die Alpen.",
+"Er erinnert an die Grafen von Helfenstein.",
+"Er erinnert an Abul Abbas, Karls des Großen Elefanten.",
+"Er erinnert an den Gasthof „Zum Elefanten“."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Elefant in Schwaben verlangt nach einer exotischen Geschichte. Die Erklärung der Gemeinde ist schlichter: Er erinnert daran, dass Kuchen früher zum Besitz der Grafen von Helfenstein gehörte. Die rote Rose darunter weist auf Geislingen, zu dessen Oberamt Kuchen gehörte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kuchen.de/zahlen-daten-fakten.html",
+"faktencheck": "unsicher",
+"id": "283-kuchen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "282-gingen",
+"anschluss": [
+"Einwohner: Kuchen hat rund 1.000 mehr als Gingen an der Fils.",
+"Bundestagswahl 2025: Gingen hatte höhere Wahlbeteiligung als Kuchen."
+],
+"anschluesse": {
+"277-aichelberg": [
+"Kuchen hat fast viereinhalbmal so viele Einwohner wie Aichelberg."
+],
+"279-uhingen": [
+"Uhingen hat gut zweieinhalbmal so viele Einwohner wie Kuchen."
+],
+"105-goeppingen": [
+"Göppingen hat elfmal so viele Einwohner wie Kuchen."
+],
+"280-eislingen": [
+"Eislingen/Fils hat viermal so viele Einwohner wie Kuchen."
+],
+"281-suessen": [
+"Süßen hat fast doppelt so viele Einwohner wie Kuchen."
+],
+"282-gingen": [
+"Einwohner: Kuchen hat rund 1.000 mehr als Gingen an der Fils.",
+"Bundestagswahl 2025: Gingen hatte höhere Wahlbeteiligung als Kuchen."
+],
+"284-gruibingen": [
+"Kuchen hat zweieinhalbmal so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 160 Meter höher als Kuchen."
+],
+"285-muehlhausen-taele": [
+"Kuchen hat fünfmal so viele Einwohner wie Mühlhausen im Täle."
+],
+"106-geislingen": [
+"Geislingen an der Steige hat fünfmal so viele Einwohner wie Kuchen."
+],
+"107-merklingen": [
+"Kreisgrenze: Merklingen gehört zum Alb-Donau-Kreis, Kuchen zum Landkreis Göppingen.",
+"Kuchen hat zweieinhalbmal so viele Einwohner wie Merklingen."
+],
+"286-amstetten": [
+"Kreisgrenze: Amstetten gehört zum Alb-Donau-Kreis, Kuchen zum Landkreis Göppingen.",
+"Kuchen hat rund 1.200 Einwohner mehr als Amstetten."
+]
+},
+"ags": "08117033",
+"ortsteil": false,
+"km_vom_vorigen": 2.5
+},
+{
+"slug": "284-gruibingen",
+"name": "Gruibingen",
+"lat": 48.59472,
+"lon": 9.64278,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gruibingen",
+"steckbrief": "Gemeinde mit rund 2.200 Einwohnern, 34 km nordwestlich von Ulm.",
+"frage": "1668 brannte Gruibingen an einem Karfreitag fast völlig nieder. Wie entstand das Feuer laut Ortsgeschichte?",
+"optionen": [
+"Ein Blitz schlug in eine Scheune ein.",
+"Ein Kind spielte in der Scheune mit Feuer.",
+"Das Feuer ging vom Dorfschmied aus.",
+"Funken aus einem Backofen entzündeten ein Dach."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Blitz liegt nahe, denn Gewitter waren auf dem Land eine häufige Brandursache. Laut Ortsgeschichte ging das Feuer aber vom Dorfschmied aus. Es zerstörte fast den ganzen Ort; stehen blieben nur Kirche, Pfarrhaus, Fruchtkasten (ein Kornspeicher), Zehntscheuer und ein Bauernhaus. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte",
+"faktencheck": "korrigiert",
+"id": "284-gruibingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gruibingen",
+"steckbrief": "Gemeinde im oberen Filstal, gut 23 km² groß, 34 km nordwestlich von Ulm.",
+"frage": "Wie viele Einwohner hatte Gruibingen Ende 2025?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf im oberen Filstal, abseits der Großstädte, schätzt man leicht kleiner. Gruibingen zählte Ende 2025 aber 2.226 Einwohner, auf gut 23 km² Fläche rund 97 je Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "284-gruibingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gruibingen",
+"steckbrief": "Gemeinde mit rund 2.200 Einwohnern, 34 km nordwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im 19. Jahrhundert machte die Industrialisierung das Dorf zum Fabrikort.",
+"Der Autobahnbau brachte Arbeit außerhalb der Landwirtschaft.",
+"Früher besaß das Dorf Marktrecht und eigenes Maß."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Lüge liegt nahe, denn das Filstal flussabwärts ist ein altes Industrietal. Die Industrialisierung des 19. Jahrhunderts erreichte Gruibingen aber nicht; das Dorf lebte weiter von Landwirtschaft und kleinen Nebengewerben. Arbeit außerhalb der Landwirtschaft bot erst der Autobahnbau. Marktrecht und eigenes Maß nennt die Ortsgeschichte tatsächlich. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/geschichte",
+"faktencheck": "korrigiert",
+"id": "284-gruibingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Gruibingen",
+"steckbrief": "Gemeinde mit rund 2.200 Einwohnern im Landkreis Göppingen, 34 km nordwestlich von Ulm.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Gruibingen bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"FDP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt als alte Volkspartei nahe. Bei den Zweitstimmen kam in Gruibingen aber die AfD mit 22,9 % auf Platz zwei, hinter der CDU mit 32,9 %. Die SPD erreichte 14,4 %, die Grünen 8,6 %. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "284-gruibingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gruibingen",
+"steckbrief": "Gemeinde mit rund 2.200 Einwohnern, 34 km nordwestlich von Ulm.",
+"frage": "Gruibingen wurde in der Reformation evangelisch. Warum bekam der Ort 1964 eine katholische Kirche?",
+"optionen": [
+"Ein Kloster ließ sie für Pilger errichten.",
+"Katholiken durften die evangelische Kirche nicht nutzen.",
+"Nach dem Krieg zogen viele Heimatvertriebene zu.",
+"Ein katholischer Pfarrer nahm im Dorf Sitz."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Streit um die Kirche läge nahe, doch die Katholiken feierten ihre Messen anfangs in der evangelischen Martinskirche, betreut von Bad Ditzenbach aus. Gebaut wurde die Christ-Königs-Kirche, weil nach dem Zweiten Weltkrieg viele Heimatvertriebene zugezogen waren. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gruibingen.de/leben-wohnen/kirchen-pfarraemter",
+"faktencheck": "korrigiert",
+"id": "284-gruibingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gruibingen",
+"steckbrief": "Gemeinde mit rund 2.200 Einwohnern im oberen Filstal, 34 km nordwestlich von Ulm.",
+"frage": "Wie weit ist es von Gruibingen in der Luftlinie bis Stuttgart, Ortsmitte bis Stadtmitte?",
+"optionen": [
+"unter 15 km",
+"15 bis unter 25 km",
+"25 bis unter 35 km",
+"35 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Göppingen gilt vielen als Stuttgarter Umland, darum schätzt man leicht zu kurz. Von Gruibingen im oberen Filstal liegt Ulm mit 34 km sogar näher; bis Stuttgart sind es 40 km Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "284-gruibingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gruibingen",
+"steckbrief": "Gemeinde mit rund 2.200 Einwohnern, 34 km nordwestlich von Ulm.",
+"frage": "Gruibingens Wappen zeigt ein silbernes Widderhorn auf Grün. Worauf geht das Widderhorn zurück?",
+"optionen": [
+"Es stammt vom Siegel des alten Ortsadels.",
+"Es erinnert an die Schafweiden der Alb.",
+"Es zeigt das Zeichen eines alten Grenzsteins.",
+"Es erinnert an einen Widder aus einer Ortssage."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schafe liegen nahe: Wacholderheiden prägen die Landschaft um Gruibingen, und solche Heiden entstehen durch Schafbeweidung. Das Widderhorn war aber die Wappenfigur des Ortsadels, der Herren von Gruibingen. Vorbild für die heutige Form war ein Siegel des Albrecht von Gruibingen von 1391. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gruibingen.de/gemeinde-gruibingen/geschichte-wappen/wappen; LEO-BW, Wappen von Gruibingen",
+"faktencheck": "korrigiert",
+"id": "284-gruibingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gruibingen",
+"steckbrief": "Gemeinde mit rund 2.200 Einwohnern im oberen Filstal, 34 km nordwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Gruibinger Tal ist seit dem Frühmittelalter durchgehend besiedelt.",
+"Der Bossler beschert dem Dorf ein raues Klima.",
+"Spenden finanzierten den Jahrhundertstein am Bossler überwiegend."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Auf der Alb denkt man an Wind und Kälte, das liegt nahe. Doch laut Gemeinde schützt das Bosslermassiv Gruibingen vor Sturm und schweren Gewittern, und durch die Lage im Oberen Filstal ist das Klima deutlich milder als auf der Albhochfläche. Den Jahrhundertstein auf dem Bossler bezahlten überwiegend Spenden. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gruibingen.de/gemeinde-gruibingen/zahlen-daten",
+"faktencheck": "korrigiert",
+"id": "284-gruibingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "283-kuchen",
+"anschluss": [
+"Fläche: Gruibingen ist mehr als doppelt so groß wie Kuchen.",
+"Einwohner: Kuchen zählt mehr als doppelt so viele wie Gruibingen."
+],
+"anschluesse": {
+"104-kirchheim-teck": [
+"Kreisgrenze: Kirchheim unter Teck gehört zum Landkreis Esslingen, Gruibingen zum Landkreis Göppingen.",
+"Kirchheim unter Teck hat neunzehnmal so viele Einwohner wie Gruibingen."
+],
+"277-aichelberg": [
+"Gruibingen hat gut anderthalbmal so viele Einwohner wie Aichelberg."
+],
+"278-ebersbach-fils": [
+"Ebersbach an der Fils hat siebenmal so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 270 Meter höher als Ebersbach an der Fils."
+],
+"279-uhingen": [
+"Uhingen hat gut sechsmal so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 270 Meter höher als Uhingen."
+],
+"105-goeppingen": [
+"Göppingen hat rund 25-mal so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 240 Meter höher als Göppingen."
+],
+"280-eislingen": [
+"Eislingen/Fils hat zehnmal so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 230 Meter höher als Eislingen/Fils."
+],
+"281-suessen": [
+"Süßen hat viereinhalbmal so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 200 Meter höher als Süßen."
+],
+"282-gingen": [
+"Gingen an der Fils hat doppelt so viele Einwohner wie Gruibingen.",
+"Gruibingen liegt rund 180 Meter höher als Gingen an der Fils."
+],
+"283-kuchen": [
+"Fläche: Gruibingen ist mehr als doppelt so groß wie Kuchen.",
+"Einwohner: Kuchen zählt mehr als doppelt so viele wie Gruibingen."
+],
+"285-muehlhausen-taele": [
+"Gruibingen hat doppelt so viele Einwohner wie Mühlhausen im Täle."
+],
+"106-geislingen": [
+"Geislingen an der Steige hat gut zwölfmal so viele Einwohner wie Gruibingen."
+],
+"107-merklingen": [
+"Kreisgrenze: Merklingen gehört zum Alb-Donau-Kreis, Gruibingen zum Landkreis Göppingen.",
+"Merklingen und Gruibingen sind fast gleich groß: rund 2.200 und 2.200 Einwohner."
+],
+"286-amstetten": [
+"Kreisgrenze: Amstetten gehört zum Alb-Donau-Kreis, Gruibingen zum Landkreis Göppingen.",
+"Amstetten hat fast doppelt so viele Einwohner wie Gruibingen."
+]
+},
+"ags": "08117028",
+"ortsteil": false,
+"km_vom_vorigen": 12.5
+},
+{
+"slug": "285-muehlhausen-taele",
+"name": "Mühlhausen im Täle",
+"lat": 48.57889,
+"lon": 9.65833,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mühlhausen im Täle",
+"steckbrief": "Gemeinde mit rund 1.100 Einwohnern, 32 km nordwestlich von Ulm.",
+"frage": "Das Gemeindewappen zeigt einen silbernen Kuckuck auf einem silbernen Zweig. Woher kommt dieser Vogel?",
+"optionen": [
+"Er stammt aus dem Wappen der Helfensteiner.",
+"Die Nachbarorte nennen die Mühlhäuser „Kuckuck“.",
+"Das alte Gemeindesiegel zeigte schon einen Kuckuck.",
+"Er stammt aus dem Wappen der Rechberger."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wappenbilder stammen oft von Ortsherren oder alten Siegeln, darum liegt das nahe. Doch die Helfensteiner führten einen Elefanten, von Rechberg stammen nur die Farben Rot und Weiß, und das alte Siegel zeigte eine Spange. Der Vogel ist ein Neckname: So nennen die Nachbarorte die Mühlhäuser. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/wappen",
+"faktencheck": "korrigiert",
+"id": "285-muehlhausen-taele/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mühlhausen im Täle",
+"steckbrief": "Gemeinde mit rund 1.100 Einwohnern im Landkreis Göppingen, 32 km nordwestlich von Ulm.",
+"frage": "Wie groß ist die Gemarkung von Mühlhausen im Täle?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 5 km²",
+"5 bis unter 8 km²",
+"8 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Landgemeinden haben oft weitläufige Gemarkungen mit viel Wald und Feld, darum schätzt man leicht größer. Mühlhausen im Täle kommt aber nur auf 6,33 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "285-muehlhausen-taele/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Mühlhausen im Täle",
+"steckbrief": "Gemeinde mit rund 1.100 Einwohnern, 32 km nordwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Augsburger malte das Hochaltarbild von St. Margaretha.",
+"Die Todtsburger Höhle ist ein einstiger Bergwerksstollen.",
+"Die Helfensteiner errichteten ihr Schloss auf alter Burgstelle."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Stollen klingt plausibel, denn beim Erschließen für Besucher wurde tatsächlich gesprengt. Doch die Todtsburger Höhle ist eine Tropfsteinhöhle mit Sinterbecken und Tropfsteinsäulen. Das Hochaltarbild malte der Augsburger Maler Johann Georg Bergmüller, und das Helfensteiner Schloss stand dort, wo zuvor eine Burg war. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.muehlhausen-taele.de/freizeit-tourismus/freizeittipps-ausflugsziele/todtsburger-hoehle",
+"faktencheck": "korrigiert",
+"id": "285-muehlhausen-taele/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mühlhausen im Täle",
+"steckbrief": "Gemeinde im Landkreis Göppingen mit rund 1.100 Einwohnern, 32 km nordwestlich von Ulm.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in Mühlhausen im Täle?",
+"optionen": [
+"85 % und mehr",
+"80 bis unter 85 %",
+"75 bis unter 80 %",
+"unter 75 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine tiefere Spanne liegt nahe, denn bundesweit gingen anteilig weniger Menschen wählen. In Mühlhausen im Täle lag die Wahlbeteiligung aber bei 86,2 Prozent. Stärkste Partei wurde die CDU vor der AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "285-muehlhausen-taele/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mühlhausen im Täle",
+"steckbrief": "Gemeinde mit rund 1.100 Einwohnern, 32 km nordwestlich von Ulm.",
+"frage": "Wie weit ist es in Luftlinie von Mühlhausen im Täle bis Stuttgart?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 35 km",
+"35 bis unter 50 km",
+"50 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Steckbrief nennt Ulm, also schätzt man Stuttgart leicht viel weiter weg. Tatsächlich sind es nur 42 Kilometer Luftlinie, zehn mehr als nach Ulm. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "285-muehlhausen-taele/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mühlhausen im Täle",
+"steckbrief": "Gemeinde mit rund 1.100 Einwohnern, 32 km nordwestlich von Ulm.",
+"frage": "Für die Stauferzeit ist im Ort die Mühle eines Mannes namens Esso überliefert. Wie hieß sie später?",
+"optionen": [
+"Sie hieß später Teufelsmühle.",
+"Sie hieß später Rabenmühle.",
+"Sie hieß später Wolfsmühle.",
+"Sie hieß später Hexenmühle."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Teufel, Raben und Wölfe stecken in vielen Mühlennamen, darum klingen sie plausibel. Essos Mühle, nach ihrem Besitzer benannt, hieß in späterer Zeit aber Exen- oder Hexenmühle. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/geschichte",
+"faktencheck": "korrigiert",
+"id": "285-muehlhausen-taele/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mühlhausen im Täle",
+"steckbrief": "Gemeinde mit rund 1.100 Einwohnern, 32 km nordwestlich von Ulm.",
+"frage": "Erstmals belegt ist der Ort 861 als „Mulenhuson“. In welcher Urkunde?",
+"optionen": [
+"In einer Schenkungsurkunde an Kloster Lorsch.",
+"In einer Urkunde des Klosters St. Gallen.",
+"In der Gründungsurkunde des Klosters Wiesensteig.",
+"In einer Königsurkunde für das Bistum Konstanz."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Lorsch und St. Gallen liegen nahe, denn in ihren Urkunden tauchen viele Orte Südwestdeutschlands früh auf. Mulenhuson aber steht in der Gründungsurkunde des Klosters Wiesensteig. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/geschichte",
+"faktencheck": "bestätigt",
+"id": "285-muehlhausen-taele/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "284-gruibingen",
+"anschluss": [
+"Fahnenweihe 1983: Gruibingens Feuerwehr stand bei Mühlhausen im Täle Pate.",
+"Einwohner: Gruibingen hat doppelt so viele wie Mühlhausen im Täle."
+],
+"anschluesse": {
+"104-kirchheim-teck": [
+"Kreisgrenze: Kirchheim unter Teck gehört zum Landkreis Esslingen, Mühlhausen im Täle zum Landkreis Göppingen.",
+"Kirchheim unter Teck hat rund 40-mal so viele Einwohner wie Mühlhausen im Täle."
+],
+"277-aichelberg": [
+"Aichelberg hat rund 200 Einwohner mehr als Mühlhausen im Täle."
+],
+"278-ebersbach-fils": [
+"Ebersbach an der Fils hat vierzehnmal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 250 Meter höher als Ebersbach an der Fils."
+],
+"279-uhingen": [
+"Uhingen hat dreizehnmal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 250 Meter höher als Uhingen."
+],
+"105-goeppingen": [
+"Göppingen hat rund 55-mal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 220 Meter höher als Göppingen."
+],
+"280-eislingen": [
+"Eislingen/Fils hat zwanzigmal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 210 Meter höher als Eislingen/Fils."
+],
+"281-suessen": [
+"Süßen hat neunmal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 180 Meter höher als Süßen."
+],
+"282-gingen": [
+"Gingen an der Fils hat viermal so viele Einwohner wie Mühlhausen im Täle.",
+"Mühlhausen im Täle liegt rund 160 Meter höher als Gingen an der Fils."
+],
+"283-kuchen": [
+"Kuchen hat fünfmal so viele Einwohner wie Mühlhausen im Täle."
+],
+"284-gruibingen": [
+"Fahnenweihe 1983: Gruibingens Feuerwehr stand bei Mühlhausen im Täle Pate.",
+"Einwohner: Gruibingen hat doppelt so viele wie Mühlhausen im Täle."
+],
+"106-geislingen": [
+"Geislingen an der Steige hat rund 25-mal so viele Einwohner wie Mühlhausen im Täle."
+],
+"107-merklingen": [
+"Kreisgrenze: Merklingen gehört zum Alb-Donau-Kreis, Mühlhausen im Täle zum Landkreis Göppingen.",
+"Merklingen hat fast doppelt so viele Einwohner wie Mühlhausen im Täle."
+],
+"286-amstetten": [
+"Kreisgrenze: Amstetten gehört zum Alb-Donau-Kreis, Mühlhausen im Täle zum Landkreis Göppingen.",
+"Amstetten hat fast viermal so viele Einwohner wie Mühlhausen im Täle."
+]
+},
+"ags": "08117035",
+"ortsteil": false,
+"km_vom_vorigen": 2.1
 },
 {
 "slug": "106-geislingen",
@@ -31517,24 +36299,53 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "105-goeppingen",
-"anschluss": [
-"Einwohner: Göppingen hat gut doppelt so viele wie Geislingen.",
-"Landkreis: Göppingen und Geislingen gehören beide zum Landkreis Göppingen."
-],
+"anschluss_von": "285-muehlhausen-taele",
+"anschluss": [],
 "anschluesse": {
+"277-aichelberg": [
+"Geislingen an der Steige hat rund zwanzigmal so viele Einwohner wie Aichelberg."
+],
+"279-uhingen": [
+"Geislingen an der Steige hat doppelt so viele Einwohner wie Uhingen.",
+"Geislingen an der Steige liegt rund 170 Meter höher als Uhingen."
+],
 "105-goeppingen": [
-"Einwohner: Göppingen hat gut doppelt so viele wie Geislingen.",
-"Landkreis: Göppingen und Geislingen gehören beide zum Landkreis Göppingen."
+"Göppingen hat gut doppelt so viele Einwohner wie Geislingen an der Steige."
+],
+"280-eislingen": [
+"Geislingen an der Steige hat rund 5.600 Einwohner mehr als Eislingen/Fils."
+],
+"281-suessen": [
+"Geislingen an der Steige hat gut zweieinhalbmal so viele Einwohner wie Süßen."
+],
+"282-gingen": [
+"Geislingen an der Steige hat gut sechsmal so viele Einwohner wie Gingen an der Fils."
+],
+"283-kuchen": [
+"Geislingen an der Steige hat fünfmal so viele Einwohner wie Kuchen."
+],
+"284-gruibingen": [
+"Geislingen an der Steige hat gut zwölfmal so viele Einwohner wie Gruibingen."
+],
+"285-muehlhausen-taele": [
+"Geislingen an der Steige hat rund 25-mal so viele Einwohner wie Mühlhausen im Täle."
 ],
 "107-merklingen": [
 "Kreisgrenze: Merklingen gehört zum Alb-Donau-Kreis, Geislingen an der Steige zum Landkreis Göppingen.",
 "Geislingen an der Steige hat dreizehnmal so viele Einwohner wie Merklingen."
+],
+"286-amstetten": [
+"Kreisgrenze: Amstetten gehört zum Alb-Donau-Kreis, Geislingen an der Steige zum Landkreis Göppingen.",
+"Geislingen an der Steige hat fast siebenmal so viele Einwohner wie Amstetten."
+],
+"287-dornstadt": [
+"Kreisgrenze: Dornstadt gehört zum Alb-Donau-Kreis, Geislingen an der Steige zum Landkreis Göppingen.",
+"Geislingen an der Steige hat dreimal so viele Einwohner wie Dornstadt."
 ]
 },
 "ags": "08117024",
 "ortsteil": false,
-"km_vom_vorigen": 15.7
+"km_vom_vorigen": 13.6
 },
 {
 "slug": "107-merklingen",
@@ -31727,13 +36538,491 @@ window.QA_DATEN = {
 "Geislingen hat fast dreizehnmal so viele Einwohner wie Merklingen."
 ],
 "anschluesse": {
+"281-suessen": [
+"Kreisgrenze: Süßen gehört zum Landkreis Göppingen, Merklingen zum Alb-Donau-Kreis.",
+"Süßen hat gut viereinhalbmal so viele Einwohner wie Merklingen."
+],
+"282-gingen": [
+"Kreisgrenze: Gingen an der Fils gehört zum Landkreis Göppingen, Merklingen zum Alb-Donau-Kreis.",
+"Gingen an der Fils hat gut doppelt so viele Einwohner wie Merklingen."
+],
+"283-kuchen": [
+"Kreisgrenze: Kuchen gehört zum Landkreis Göppingen, Merklingen zum Alb-Donau-Kreis.",
+"Kuchen hat zweieinhalbmal so viele Einwohner wie Merklingen."
+],
+"284-gruibingen": [
+"Kreisgrenze: Gruibingen gehört zum Landkreis Göppingen, Merklingen zum Alb-Donau-Kreis.",
+"Gruibingen und Merklingen sind fast gleich groß: rund 2.200 und 2.200 Einwohner."
+],
+"285-muehlhausen-taele": [
+"Kreisgrenze: Mühlhausen im Täle gehört zum Landkreis Göppingen, Merklingen zum Alb-Donau-Kreis.",
+"Merklingen hat fast doppelt so viele Einwohner wie Mühlhausen im Täle."
+],
 "106-geislingen": [
 "Geislingen hat fast dreizehnmal so viele Einwohner wie Merklingen."
+],
+"286-amstetten": [
+"Amstetten hat doppelt so viele Einwohner wie Merklingen."
+],
+"287-dornstadt": [
+"Dornstadt hat fast viereinhalbmal so viele Einwohner wie Merklingen."
 ]
 },
 "ags": "08425079",
 "ortsteil": false,
 "km_vom_vorigen": 14.1
+},
+{
+"slug": "286-amstetten",
+"name": "Amstetten",
+"lat": 48.57762,
+"lon": 9.8756,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Amstetten",
+"steckbrief": "Gemeinde mit rund 4.200 Einwohnern, 22 km nordwestlich von Ulm.",
+"frage": "Im Gemeindewappen von Amstetten ist unter anderem ein Rad zu sehen. Wofür steht es?",
+"optionen": [
+"Das Rad stammt aus dem Helfensteiner Wappen.",
+"Das Rad ist das Zeichen des heiligen Laurentius.",
+"Das Rad steht für den Ortsteil Bahnhof.",
+"Das Rad stammt aus dem Ulmer Wappen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ulm liegt nahe, denn die Farben Schwarz und Weiß stammen tatsächlich von der Stadt Ulm. Das Rad aber ist ein Zeichen für Verkehr und Industrie und steht für den Ortsteil Bahnhof. Die Schäferschippe erinnert an die Schafzucht, die früher in der Gegend verbreitet war. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.amstetten.de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "286-amstetten/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Amstetten",
+"steckbrief": "Gemeinde mit rund 4.200 Einwohnern, 22 km nordwestlich von Ulm.",
+"frage": "Wie viele Einwohner leben in Amstetten im Durchschnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 50",
+"50 bis unter 65",
+"65 bis unter 80",
+"80 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer nur an ein Dorf auf dem Land denkt, schätzt eher niedriger. Doch auf 49,8 Quadratkilometern leben 4.248 Menschen, rund 85 je Quadratkilometer. Richtig war 4.",
+"quelle": "GRUNDDATEN, berechnet aus Wikidata P1082 (Einwohner, Stand 31.12.2025) und Wikidata P2046 (Fläche)",
+"faktencheck": "bestätigt",
+"id": "286-amstetten/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Amstetten",
+"steckbrief": "Gemeinde mit rund 4.200 Einwohnern, 22 km nordwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Durch Amstetten verlief einst ein römischer Verkehrsweg.",
+"Die Laurentiuskirche im Dorf ist katholisch.",
+"Die Laurentiuskirche war früher eine Wehrkirche."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name des heiligen Laurentius klingt katholisch, denn viele katholische Kirchen tragen Heiligennamen. Die Laurentiuskirche ist aber evangelisch. Sie war früher eine Wehrkirche, also befestigt, und durch Amstetten verlief einst ein römischer Verkehrsweg nach Augsburg und an den Rhein. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.amstetten.de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "286-amstetten/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Amstetten",
+"steckbrief": "Gemeinde mit rund 4.200 Einwohnern, 22 km nordwestlich von Ulm.",
+"frage": "Wie hoch war in Amstetten die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 86 %",
+"86 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In kleinen Gemeinden wird oft besonders fleißig gewählt, darum liegt eine höhere Spanne nahe. Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Amstetten bei 84 Prozent. Stärkste Partei wurde die CDU vor der AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025",
+"faktencheck": "bestätigt",
+"id": "286-amstetten/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Amstetten",
+"steckbrief": "Gemeinde mit rund 4.200 Einwohnern, 22 km nordwestlich von Ulm.",
+"frage": "Zu welchem Landkreis gehört Amstetten?",
+"optionen": [
+"Landkreis Göppingen",
+"Landkreis Heidenheim",
+"Landkreis Biberach",
+"Alb-Donau-Kreis"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Göppingen liegt nahe, denn früher gehörte Amstetten zum Oberamt Geislingen, einem württembergischen Verwaltungsbezirk, und Geislingen liegt heute im Landkreis Göppingen. Später kam Amstetten zum Landkreis Ulm, heute gehört es zum Alb-Donau-Kreis. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "286-amstetten/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Amstetten",
+"steckbrief": "Gemeinde mit rund 4.200 Einwohnern, 22 km nordwestlich von Ulm.",
+"frage": "1850 ging die Bahn über die Geislinger Steige in Betrieb, und Amstetten erhielt einen Bahnhof. Was folgte daraus für den Ort?",
+"optionen": [
+"Um den Bahnhof wuchs ein neuer, größerer Ortsteil.",
+"Das alte Dorf wurde an den Bahnhof verlegt.",
+"Am Bahnhof entstand nur ein kleiner Weiler.",
+"Das Dorf wurde zur Stadt erhoben."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele Landbahnhöfe blieben einsame Halte, daher liegt ein kleiner Weiler nahe. In Amstetten aber wurde der Bahnhof zur Keimzelle eines neuen Ortsteils, der das alte Dorf an Einwohnern weit überflügelt hat. Die Steige selbst gilt als technische Meisterleistung ihrer Zeit. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.amstetten.de/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "286-amstetten/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Amstetten",
+"steckbrief": "Gemeinde mit rund 4.200 Einwohnern, 22 km nordwestlich von Ulm.",
+"frage": "Die erste urkundliche Erwähnung Amstettens stammt von 1275. In welchem Schriftstück steht sie?",
+"optionen": [
+"In einer Schenkungsurkunde für Kloster Blaubeuren.",
+"In einem Zehntbuch des Bistums Konstanz.",
+"In einer Urkunde des Bischofs von Eichstätt.",
+"In einem Güterverzeichnis der Grafen von Württemberg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Klöster und Landesherren stellten viele frühe Urkunden aus, daher liegen sie nahe. Amstetten erscheint aber im Zehntbuch des Bistums Konstanz, einem Verzeichnis kirchlicher Abgaben, und zwar schon mit eigener Pfarrkirche. Der Ort selbst ist älter und geht auf alamannische Siedler zurück. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.amstetten.de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "286-amstetten/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Amstetten",
+"steckbrief": "Gemeinde mit rund 4.200 Einwohnern, 22 km nordwestlich von Ulm.",
+"frage": "Lange waren die Grafen von Helfenstein Herren über Amstetten. Dann kam der Ort an Ulm. Wie geschah das?",
+"optionen": [
+"Ulm eroberte den Ort in einer Fehde.",
+"Die Grafen starben aus, Ulm erbte alles.",
+"Die Bauern unterstellten sich freiwillig Ulm.",
+"Die verschuldeten Grafen verkauften den Großteil an Ulm."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Dass ein Grafenhaus ausstirbt und andere erben, war im Mittelalter häufig und liegt nahe. Doch die Helfensteiner, Nachkommen der Herren von Stubersheim, verkauften den Großteil ihrer Grafschaft an die Reichsstadt Ulm, wegen hoher Schulden und aus weiteren Gründen. Dabei hatten sie wichtige Ämter im Dienst von Kaiser und Reich besetzt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.amstetten.de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "286-amstetten/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "107-merklingen",
+"anschluss": [
+"Einwohner: Amstetten hat fast doppelt so viele wie Merklingen.",
+"Wahlbeteiligung 2025: In Merklingen 88,4 Prozent, in Amstetten 84 Prozent."
+],
+"anschluesse": {
+"280-eislingen": [
+"Kreisgrenze: Eislingen/Fils gehört zum Landkreis Göppingen, Amstetten zum Alb-Donau-Kreis.",
+"Eislingen/Fils hat gut fünfmal so viele Einwohner wie Amstetten."
+],
+"281-suessen": [
+"Kreisgrenze: Süßen gehört zum Landkreis Göppingen, Amstetten zum Alb-Donau-Kreis.",
+"Süßen hat fast zweieinhalbmal so viele Einwohner wie Amstetten."
+],
+"282-gingen": [
+"Kreisgrenze: Gingen an der Fils gehört zum Landkreis Göppingen, Amstetten zum Alb-Donau-Kreis.",
+"Gingen an der Fils und Amstetten sind fast gleich groß: rund 4.400 und 4.200 Einwohner."
+],
+"283-kuchen": [
+"Kreisgrenze: Kuchen gehört zum Landkreis Göppingen, Amstetten zum Alb-Donau-Kreis.",
+"Kuchen hat rund 1.200 Einwohner mehr als Amstetten."
+],
+"284-gruibingen": [
+"Kreisgrenze: Gruibingen gehört zum Landkreis Göppingen, Amstetten zum Alb-Donau-Kreis.",
+"Amstetten hat fast doppelt so viele Einwohner wie Gruibingen."
+],
+"285-muehlhausen-taele": [
+"Kreisgrenze: Mühlhausen im Täle gehört zum Landkreis Göppingen, Amstetten zum Alb-Donau-Kreis.",
+"Amstetten hat fast viermal so viele Einwohner wie Mühlhausen im Täle."
+],
+"106-geislingen": [
+"Kreisgrenze: Geislingen an der Steige gehört zum Landkreis Göppingen, Amstetten zum Alb-Donau-Kreis.",
+"Geislingen an der Steige hat fast siebenmal so viele Einwohner wie Amstetten."
+],
+"107-merklingen": [
+"Einwohner: Amstetten hat fast doppelt so viele wie Merklingen.",
+"Wahlbeteiligung 2025: In Merklingen 88,4 Prozent, in Amstetten 84 Prozent."
+],
+"287-dornstadt": [
+"Dornstadt hat gut doppelt so viele Einwohner wie Amstetten."
+]
+},
+"ags": "08425008",
+"ortsteil": false,
+"km_vom_vorigen": 11.8
+},
+{
+"slug": "287-dornstadt",
+"name": "Dornstadt",
+"lat": 48.46917,
+"lon": 9.94167,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dornstadt",
+"steckbrief": "Gemeinde mit rund 9.200 Einwohnern, 9 km nordwestlich von Ulm.",
+"frage": "1951 entstand auf einem ehemaligen Wehrmachtsflugplatz in Dornstadt ein Altersheim. Für wen war es gedacht?",
+"optionen": [
+"Für alte Piloten des früheren Flugplatzes.",
+"Für Emigranten aus osteuropäischen Ländern.",
+"Für alte Bauersleute aus den Albdörfern.",
+"Für ausgemusterte Soldaten der neuen Bundeswehr."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Heim auf einem Flugplatz lässt an Flieger oder Soldaten denken. Doch der Landesverband der Inneren Mission gründete es als Altersheim für Emigranten aus osteuropäischen Ländern. Aus dem Altersheim wurde später ein Betreuungs- und Pflegezentrum. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt",
+"faktencheck": "bestätigt",
+"id": "287-dornstadt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dornstadt",
+"steckbrief": "Gemeinde 9 km nordwestlich von Ulm mit rund 59 Quadratkilometern Fläche.",
+"frage": "Wie viele Einwohner hat die Gemeinde Dornstadt?",
+"optionen": [
+"unter 4.000",
+"4.000 bis unter 7.000",
+"7.000 bis unter 11.000",
+"11.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Gemeinde im Umland denkt man leicht an ein großes Dorf. Doch zu Dornstadt gehören seit der Gemeindereform auch Bollingen, Scharenstetten, Temmenhausen und Tomerdingen. Ende 2025 zählte die Gemeinde 9.233 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "287-dornstadt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Dornstadt",
+"steckbrief": "Gemeinde mit rund 9.200 Einwohnern, 9 km nordwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Franzosen brannten Scharenstetten einst fast vollständig nieder.",
+"Temmenhausen schloss sich einst der Reformation an.",
+"Dornstadt hat nie zum Staat Bayern gehört."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Ulm denkt, denkt an Württemberg. Doch nach der Herrschaft der Abtei Elchingen kam Dornstadt zunächst an Bayern, danach an Württemberg. Dass Franzosen Scharenstetten niederbrannten und Temmenhausen sich der Reformation anschloss, stimmt. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt",
+"faktencheck": "bestätigt",
+"id": "287-dornstadt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dornstadt",
+"steckbrief": "Gemeinde mit rund 9.200 Einwohnern, 9 km nordwestlich von Ulm.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Dornstadt die stärkste Partei?",
+"optionen": [
+"unter 40 Prozent",
+"40 bis unter 45 Prozent",
+"45 bis unter 50 Prozent",
+"50 Prozent und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Württemberg erwartet man leicht eine absolute Mehrheit der CDU. Sie wurde in Dornstadt zwar klar stärkste Kraft, kam aber auf 38,1 Prozent der Zweitstimmen. Zweitstärkste Partei wurde die AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "287-dornstadt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dornstadt",
+"steckbrief": "Gemeinde mit rund 9.200 Einwohnern, 9 km nordwestlich von Ulm; Tomerdingen ist ein Ortsteil.",
+"frage": "1634 schrien die Frauen von Tomerdingen einen Reformator nieder. Womit dankte man ihnen?",
+"optionen": [
+"Sie wurden vom Zehnten an die Kirche befreit.",
+"Sie durften in der Kirche rechts sitzen.",
+"Sie bekamen ein eigenes Kirchenfenster gestiftet.",
+"Sie durften beim Kirchweihfest den Tanz eröffnen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Befreiung von Abgaben wäre ein naheliegender Lohn gewesen. Doch die Tomerdinger Weiber, die den Reformator Bonifax Stölzlin niedergeschrien hatten, durften in der Martinskirche die rechten Bänke belegen. Die Reformation fand in Tomerdingen keinen Anklang. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen",
+"faktencheck": "bestätigt",
+"id": "287-dornstadt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Dornstadt",
+"steckbrief": "Gemeinde mit rund 9.200 Einwohnern, 9 km nordwestlich von Ulm.",
+"frage": "Zu welchem Landkreis gehört Dornstadt?",
+"optionen": [
+"Landkreis Göppingen",
+"Landkreis Heidenheim",
+"Alb-Donau-Kreis",
+"Landkreis Biberach"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Kreise Göppingen, Heidenheim und Biberach liegen nahe, und Ulm selbst ist kreisfrei. Doch Dornstadt gehört zum Alb-Donau-Kreis; das Hauptkennzeichen ist UL. Richtig war 3.",
+"quelle": "dewiki Infobox (Landkreis); Wikidata P395 (Kennzeichen)",
+"faktencheck": "bestätigt",
+"id": "287-dornstadt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Dornstadt",
+"steckbrief": "Gemeinde mit rund 9.200 Einwohnern, 9 km nordwestlich von Ulm.",
+"frage": "Anfang der 1960er Jahre entstand in Dornstadt die Rommelkaserne. Wie viele Soldaten waren dort zu Spitzenzeiten stationiert?",
+"optionen": [
+"unter 300",
+"300 bis unter 800",
+"800 bis 2.000",
+"mehr als 2.000"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für eine Gemeinde dieser Größe wirken einige hundert Soldaten naheliegend. Doch in der nach Rommel benannten Kaserne auf dem Lerchenfeld waren zu Spitzenzeiten mehr als 2.000 Soldaten stationiert. Anfangs lagen dort unter anderem ein Panzerbataillon und ein Nachschubbataillon. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.dornstadt.de/unsere-gemeinde/gemeinde-dornstadt/portrait",
+"faktencheck": "korrigiert",
+"id": "287-dornstadt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dornstadt",
+"steckbrief": "Gemeinde mit rund 9.200 Einwohnern, 9 km nordwestlich von Ulm.",
+"frage": "Im Ortsteil Bollingen gab es früher Schneckengärten. Wozu züchtete man dort Schnecken?",
+"optionen": [
+"Sie waren ein Leckerbissen in der Fastenzeit.",
+"Ihre Häuser wurden zu Kalk gebrannt.",
+"Sie dienten den Bauern als Hühnerfutter.",
+"Ihr Schleim wurde zu Leim verarbeitet."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land denkt man bei Schnecken eher an Futter als an Feinkost. Doch die Bollinger Schnecken waren ein Leckerbissen für die Fastenzeit und wurden bis nach Wien, Paris und Nancy geliefert. Die Schneckengärten waren eine historische Besonderheit Bollingens. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.dornstadt.de/unsere-gemeinde/geschichte/bollingen",
+"faktencheck": "bestätigt",
+"id": "287-dornstadt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dornstadt",
+"steckbrief": "Gemeinde mit rund 9.200 Einwohnern, 9 km nordwestlich von Ulm.",
+"frage": "Die Martinskirche im Ortsteil Tomerdingen wurde vor 926 zerstört. Wer hat sie nach der Ortsgeschichte zerstört?",
+"optionen": [
+"Die Normannen zerstörten die Kirche.",
+"Die Awaren zerstörten die Kirche.",
+"Die Ungarn zerstörten die Kirche.",
+"Die Slawen zerstörten die Kirche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. An Normannen denkt man zuerst, ihre Raubzüge sind berühmt. Doch nach der Ortsgeschichte zerstörten die Ungarn die Martinskirche. Der Glockenturm wurde später wieder aufgebaut. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen",
+"faktencheck": "korrigiert",
+"id": "287-dornstadt/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dornstadt",
+"steckbrief": "Gemeinde mit rund 9.200 Einwohnern, 9 km nordwestlich von Ulm.",
+"frage": "Um 540 war Tomerdingen, heute ein Ortsteil, in Unterdorf und Oberdorf geteilt, jedes mit eigenem Herrenhof. Wem gehörten die Herrenhöfe?",
+"optionen": [
+"Einer gehörte Römern, der andere Kelten.",
+"Einer gehörte Thüringern, der andere Bajuwaren.",
+"Einer gehörte Goten, der andere Langobarden.",
+"Einer gehörte Alamannen, der andere Franken."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Kelten und Römer liegen nahe, denn eine keltische Viereckschanze und ein römischer Gutshof sind in Tomerdingen belegt. Doch der Herrenhof im Unterdorf gehörte den Alamannen, der im Oberdorf den Franken. Zum Unterdorf gehörte die Marienkirche, zum Oberdorf St. Martin. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen",
+"faktencheck": "bestätigt",
+"id": "287-dornstadt/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "286-amstetten",
+"anschluss": [
+"Einwohner: Dornstadt hat gut doppelt so viele wie Amstetten.",
+"Bundestagswahl 2025: AfD in Amstetten 24,8, in Dornstadt 19,8 Prozent."
+],
+"anschluesse": {
+"106-geislingen": [
+"Kreisgrenze: Geislingen an der Steige gehört zum Landkreis Göppingen, Dornstadt zum Alb-Donau-Kreis.",
+"Geislingen an der Steige hat dreimal so viele Einwohner wie Dornstadt."
+],
+"107-merklingen": [
+"Dornstadt hat fast viereinhalbmal so viele Einwohner wie Merklingen."
+],
+"286-amstetten": [
+"Einwohner: Dornstadt hat gut doppelt so viele wie Amstetten.",
+"Bundestagswahl 2025: AfD in Amstetten 24,8, in Dornstadt 19,8 Prozent."
+],
+"108-ulm": [
+"Kreisgrenze: Ulm ist kreisfrei, Dornstadt gehört zum Alb-Donau-Kreis.",
+"Ulm hat vierzehnmal so viele Einwohner wie Dornstadt."
+],
+"109-neu-ulm": [
+"Landesgrenze: Neu-Ulm liegt in Bayern, Dornstadt in Baden-Württemberg.",
+"Bundestagswahl 2025: In Neu-Ulm lag die CSU vorn, in Dornstadt die CDU."
+],
+"288-elchingen": [
+"Landesgrenze: Elchingen liegt in Bayern, Dornstadt in Baden-Württemberg.",
+"Bundestagswahl 2025: In Elchingen lag die CSU vorn, in Dornstadt die CDU."
+]
+},
+"ags": "08425031",
+"ortsteil": false,
+"km_vom_vorigen": 13.0
 },
 {
 "slug": "108-ulm",
@@ -31901,24 +37190,29 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "107-merklingen",
-"anschluss": [
-"Die Schnellfahrstrecke Wendlingen–Ulm führt über Merklingen.",
-"Kennzeichen: In Ulm und in Merklingen steht UL am Auto."
-],
+"anschluss_von": "287-dornstadt",
+"anschluss": [],
 "anschluesse": {
+"287-dornstadt": [
+"Kreisgrenze: Dornstadt gehört zum Alb-Donau-Kreis, Ulm ist kreisfrei.",
+"Ulm hat vierzehnmal so viele Einwohner wie Dornstadt."
+],
 "109-neu-ulm": [
 "Landesgrenze: Neu-Ulm liegt in Bayern, Ulm in Baden-Württemberg.",
 "Bundestagswahl 2025: In Neu-Ulm lag die CSU vorn, in Ulm die CDU."
 ],
-"107-merklingen": [
-"Die Schnellfahrstrecke Wendlingen–Ulm führt über Merklingen.",
-"Kennzeichen: In Ulm und in Merklingen steht UL am Auto."
+"288-elchingen": [
+"Landesgrenze: Elchingen liegt in Bayern, Ulm in Baden-Württemberg.",
+"Bundestagswahl 2025: In Elchingen lag die CSU vorn, in Ulm die CDU."
+],
+"289-leipheim": [
+"Landesgrenze: Leipheim liegt in Bayern, Ulm in Baden-Württemberg.",
+"Bundestagswahl 2025: In Leipheim lag die CSU vorn, in Ulm die CDU."
 ]
 },
 "ags": "08421000",
 "ortsteil": false,
-"km_vom_vorigen": 21.3
+"km_vom_vorigen": 8.7
 },
 {
 "slug": "109-neu-ulm",
@@ -32112,14 +37406,467 @@ window.QA_DATEN = {
 "Ein Vertrag zwischen Ulm und Neu-Ulm führte zum Illerkanal."
 ],
 "anschluesse": {
+"287-dornstadt": [
+"Landesgrenze: Dornstadt liegt in Baden-Württemberg, Neu-Ulm in Bayern.",
+"Bundestagswahl 2025: In Dornstadt lag die CDU vorn, in Neu-Ulm die CSU."
+],
 "108-ulm": [
 "Kennzeichen: In Ulm steht UL am Auto, in Neu-Ulm NU.",
 "Ein Vertrag zwischen Ulm und Neu-Ulm führte zum Illerkanal."
+],
+"288-elchingen": [
+"Neu-Ulm hat gut sechsmal so viele Einwohner wie Elchingen."
+],
+"289-leipheim": [
+"Kreisgrenze: Leipheim gehört zum Landkreis Günzburg, Neu-Ulm zum Landkreis Neu-Ulm.",
+"Neu-Ulm hat fast neunmal so viele Einwohner wie Leipheim."
 ]
 },
 "ags": "09775135",
 "ortsteil": false,
 "km_vom_vorigen": 1.8
+},
+{
+"slug": "288-elchingen",
+"name": "Elchingen",
+"lat": 48.45167,
+"lon": 10.09778,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Elchingen",
+"steckbrief": "Gemeinde mit rund 9.800 Einwohnern, 10 km nordöstlich von Ulm.",
+"frage": "Der Name Elchingen steht auf der Innenseite des Triumphbogens in Paris. Warum?",
+"optionen": [
+"Ein Marschall Napoleons wurde hier geboren.",
+"Hier schloss Bayern sein Bündnis mit Napoleon.",
+"Napoleons Truppen siegten hier über die Österreicher.",
+"Ein Elchinger Mönch rettete Napoleon das Leben."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend: Auf dem Bogen stehen auch Namen von Napoleons Generälen. Elchingen steht dort aber für eine Schlacht: Napoleons Truppen unter Marschall Ney besiegten hier das österreichische Heer. Tags darauf begann die Belagerung Ulms. Ney erhielt später von Napoleon den Titel Duc d'Elchingen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.elchingen.de/index.php?id=44&Detail=51",
+"faktencheck": "bestätigt",
+"id": "288-elchingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Elchingen",
+"steckbrief": "Gemeinde an der Donau mit rund 9.800 Einwohnern, 10 km nordöstlich von Ulm.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Elchingen?",
+"optionen": [
+"unter 250 m",
+"250 bis unter 350 m",
+"350 bis unter 450 m",
+"450 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Ort an der Donau denkt man an ein tiefes Flusstal. Doch die Donau fließt hier schon weit oben: Elchingen liegt auf 462 bis 465 Metern Höhe, je nach Quelle. Der Ortsteil Oberelchingen liegt noch höher. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "288-elchingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Elchingen",
+"steckbrief": "Gemeinde mit rund 9.800 Einwohnern, 10 km nordöstlich von Ulm.",
+"frage": "Zu Elchingen gehören Oberelchingen mit seinem früheren Benediktinerkloster und das Dorf Unterelchingen. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Klosterkirche wurde nach der Aufhebung zur Pfarrkirche.",
+"Bayerische Soldaten besetzten das Kloster bei der Säkularisation.",
+"Unterelchingen gehörte bis zur Säkularisation dem Oberelchinger Kloster."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Kloster lag gleich nebenan, also scheint es naheliegend, dass ihm auch Unterelchingen gehörte. Doch das Dorf war an das Zisterzienserkloster Salem verkauft worden, das es bis zur Säkularisation behielt. Daran erinnert im Unterelchinger Wappen der in Silber und Rot geschachte Schrägbalken der Zisterzienser. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.elchingen.de/index.php?id=44&Detail=51 (Wappen: www.elchingen.de/index.php?id=42)",
+"faktencheck": "korrigiert",
+"id": "288-elchingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Elchingen",
+"steckbrief": "Bayerische Gemeinde mit rund 9.800 Einwohnern, 10 km nordöstlich von Ulm.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Elchingen die stärkste Partei?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 40 %",
+"40 bis unter 50 %",
+"50 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In Bayern denkt man schnell an absolute CSU-Mehrheiten. In Elchingen blieb die CSU als stärkste Partei aber klar darunter: Sie holte bei der Bundestagswahl 2025 38,7 Prozent der Zweitstimmen, weit vor der AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "288-elchingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Elchingen",
+"steckbrief": "Gemeinde an der Donau mit rund 9.800 Einwohnern, 10 km nordöstlich von Ulm.",
+"frage": "Wie erklärt die Ortsnamenforschung die Herkunft des Namens Elchingen?",
+"optionen": [
+"Er stammt vermutlich von Elchen im Donautal.",
+"Er stammt vermutlich von einem keltischen Flusswort.",
+"Er stammt vermutlich von einem Personennamen.",
+"Er stammt vermutlich von Erlen am Donauufer."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Elche drängen sich auf, so klingt der Name heute. Die Namenforschung sieht aber einen Menschen dahinter: Elchingen heißt wohl „bei den Leuten des Alhihho“. Die Endung -ingen zeigt an, dass ein Ort zu einer Person oder ihren Leuten gehört. Richtig war 3.",
+"quelle": "Historisches Ortsnamenbuch, www.geschichte-bayerns.de/ortsnamen/artikel/Neu-Ulm/Oberelchingen/6pu3o",
+"faktencheck": "korrigiert",
+"id": "288-elchingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Elchingen",
+"steckbrief": "Bayerische Gemeinde mit rund 9.800 Einwohnern, 10 km nordöstlich von Ulm.",
+"frage": "Wie weit ist es von Elchingen in Luftlinie bis zur Landeshauptstadt München?",
+"optionen": [
+"unter 40 km",
+"40 bis unter 70 km",
+"70 bis unter 100 km",
+"100 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Elchingen liegt in Bayern, da wirkt München gefühlt nah. Doch die Gemeinde liegt an der Grenze zu Baden-Württemberg, gleich bei Ulm. Bis zur Landeshauptstadt sind es 115 Kilometer Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "288-elchingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Elchingen",
+"steckbrief": "Gemeinde mit rund 9.800 Einwohnern, 10 km nordöstlich von Ulm.",
+"frage": "Als Weihetag des früheren Klosters Elchingen wird der 15. August 1128 vermutet. Warum ist er nicht bewiesen?",
+"optionen": [
+"Mehrere Brände vernichteten alle Originaldokumente des Klosters.",
+"Ein Hochwasser zerstörte das Archiv des Klosters.",
+"Feuchtigkeit und Mäuse zerstörten die alten Pergamente.",
+"Die Urkunden gingen bei der Klosteraufhebung verloren."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei verlorenen Klosterurkunden denkt man oft an die Aufhebung, als viele Archive zerstreut wurden. Hier geschah es viel früher: Mehrere Brände vernichteten alle Originaldokumente. Darum lässt sich der vermutete Weihetag nicht beweisen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.elchingen.de/index.php?id=44&Detail=51",
+"faktencheck": "korrigiert",
+"id": "288-elchingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Elchingen",
+"steckbrief": "Gemeinde mit rund 9.800 Einwohnern, 10 km nordöstlich von Ulm.",
+"frage": "Im großen Speisesaal des Autohofs Seligweiler bei Elchingen läuft eine Markierung quer durch den Raum, sogar über Tische. Was zeigt sie?",
+"optionen": [
+"Sie zeigt die Europäische Wasserscheide.",
+"Sie zeigt die Grenze zwischen Bayern und Baden-Württemberg.",
+"Sie zeigt den Verlauf des 48. Breitengrads.",
+"Sie zeigt die Grenze zwischen Schwaben und Franken."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Linie quer durch einen Saal klingt nach Geografie-Kuriosität wie einer Wasserscheide. Hier ist es eine Landesgrenze: Der große Speisesaal liegt zur Hälfte in Bayern, zur Hälfte in Baden-Württemberg. So kann man in Bayern sitzen, während die Suppe in Baden-Württemberg steht. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Elchingen",
+"faktencheck": "unsicher",
+"id": "288-elchingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Elchingen",
+"steckbrief": "Gemeinde mit rund 9.800 Einwohnern, 10 km nordöstlich von Ulm.",
+"frage": "Das Benediktinerkloster in Oberelchingen stand nicht von Anfang an an seinem späteren Platz. Wo lag es zuerst?",
+"optionen": [
+"Es lag zuerst an der Iller.",
+"Es lag zuerst im Lonetal.",
+"Es lag zuerst im Blautal.",
+"Es lag zuerst an der Donau."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein stilles Seitental wie das Blautal klingt nach typischer Klosterlage. Das Elchinger Kloster lag aber anfangs an der Donau. Erst später wurde es in eine Burg verlegt. Durch das Kloster entstand der Ort Oberelchingen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.elchingen.de/index.php?id=42&Detail=46",
+"faktencheck": "bestätigt",
+"id": "288-elchingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "109-neu-ulm",
+"anschluss": [
+"Landkreis: Elchingen gehört wie Neu-Ulm zum Landkreis Neu-Ulm.",
+"Bundestagswahl 2025: Elchingen hatte höhere Wahlbeteiligung als Neu-Ulm."
+],
+"anschluesse": {
+"287-dornstadt": [
+"Landesgrenze: Dornstadt liegt in Baden-Württemberg, Elchingen in Bayern.",
+"Bundestagswahl 2025: In Dornstadt lag die CDU vorn, in Elchingen die CSU."
+],
+"108-ulm": [
+"Landesgrenze: Ulm liegt in Baden-Württemberg, Elchingen in Bayern.",
+"Bundestagswahl 2025: In Ulm lag die CDU vorn, in Elchingen die CSU."
+],
+"109-neu-ulm": [
+"Landkreis: Elchingen gehört wie Neu-Ulm zum Landkreis Neu-Ulm.",
+"Bundestagswahl 2025: Elchingen hatte höhere Wahlbeteiligung als Neu-Ulm."
+],
+"289-leipheim": [
+"Kreisgrenze: Leipheim gehört zum Landkreis Günzburg, Elchingen zum Landkreis Neu-Ulm.",
+"Elchingen hat rund 2.400 Einwohner mehr als Leipheim."
+],
+"110-guenzburg": [
+"Kreisgrenze: Günzburg gehört zum Landkreis Günzburg, Elchingen zum Landkreis Neu-Ulm.",
+"Günzburg hat gut doppelt so viele Einwohner wie Elchingen."
+],
+"290-offingen": [
+"Kreisgrenze: Offingen gehört zum Landkreis Günzburg, Elchingen zum Landkreis Neu-Ulm.",
+"Elchingen hat gut doppelt so viele Einwohner wie Offingen."
+]
+},
+"ags": "09775139",
+"ortsteil": false,
+"km_vom_vorigen": 10.5
+},
+{
+"slug": "289-leipheim",
+"name": "Leipheim",
+"lat": 48.44889,
+"lon": 10.22083,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leipheim",
+"steckbrief": "Leipheim, eine Stadt mit rund 7.400 Einwohnern, liegt 18 km östlich von Ulm.",
+"frage": "Der Fliegerhorst Leipheim war ab 1940 Zweigwerk der Messerschmitt-Werke Augsburg. Welches Flugzeug startete hier am 18. Juli 1942 zu seinem ersten Flug mit reinem Düsenantrieb?",
+"optionen": [
+"Die Junkers Ju 52",
+"Die Messerschmitt Me 262",
+"Die Messerschmitt Bf 109",
+"Die Focke-Wulf Fw 190"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Messerschmitt denkt man zuerst an die Bf 109, das bekannte Jagdflugzeug. Doch in Leipheim flog die Me 262 erstmals nur mit Düsen; ihr Erstflug 1941 war noch mit Propeller. Sie gilt als erstes in Serie gebautes Düsenflugzeug der Welt. Luftangriffe zerstörten hier viele Maschinen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.leipheim.de/de/stadtinfo/entdecken/fliegerhorst; Flugmuseum Messerschmitt, flugmuseum-messerschmitt.com (WÖRTER RÜCKSEITE: 50)",
+"faktencheck": "korrigiert",
+"id": "289-leipheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leipheim",
+"steckbrief": "Leipheim, eine Stadt mit rund 7.400 Einwohnern, liegt an der Donau, 18 km östlich von Ulm.",
+"frage": "Wie viele Einwohner leben in Leipheim durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 400",
+"400 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer „Stadt“ hört, denkt an dichte Bebauung. Doch zu Leipheim gehören auch Donauried, Auwald und Ortsteile wie Riedheim und Weißingen. So kommen im Schnitt rund 230 Einwohner auf einen Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "289-leipheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Leipheim",
+"steckbrief": "Leipheim, eine Stadt mit rund 7.400 Einwohnern, liegt 18 km östlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Stadt Augsburg besaß Leipheim über Jahrhunderte hinweg.",
+"Die Leipheimer Linde bekam im Orkan einen Stammriss.",
+"Kaiserliche Truppen plünderten Leipheim im Dreißigjährigen Krieg."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Augsburg liegt nahe: Leipheim gehört heute zu Bayern und liegt an der Bahn nach Augsburg. Doch gekauft hat es die Stadt Ulm, die es jahrhundertelang behielt. Die Linde trug von Orkan „Lothar“ einen Riss davon. Im Dreißigjährigen Krieg flohen die wenigen verbliebenen Einwohner nach Ulm; kaiserliche Truppen plünderten das verlassene Städtlein. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte und www.leipheim.de/de/stadtinfo/entdecken/leipheimer-linde",
+"faktencheck": "korrigiert",
+"id": "289-leipheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Leipheim",
+"steckbrief": "Leipheim, eine Stadt mit rund 7.400 Einwohnern, liegt im bayerischen Landkreis Günzburg, 18 km östlich von Ulm.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Welche Partei wurde in Leipheim zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"CSU",
+"SPD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer in Bayern auf Platz zwei tippt, denkt oft an SPD oder Grüne. In Leipheim lagen sie mit 11,8 und 8,6 Prozent weit zurück. Vorn lag die CSU mit 30,1 Prozent, dicht gefolgt von der AfD mit 29,5 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "289-leipheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leipheim",
+"steckbrief": "Leipheim, eine Stadt mit rund 7.400 Einwohnern, liegt am Südufer der Donau, 18 km östlich von Ulm.",
+"frage": "1330 erhielt Leipheim von Kaiser Ludwig dem Bayern das Stadtrecht. Wofür war es nach der Stadtgeschichte eine Belohnung?",
+"optionen": [
+"Bürger hatten den Kaiser vor Feinden versteckt.",
+"Die Ortsherren dienten dem Kaiser auf Italienzügen.",
+"Leipheimer Fischer setzten kaiserliche Truppen über die Donau.",
+"Ein Leipheimer Bader heilte den kranken Kaiser."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Man denkt an eine Tat der Bürger, schließlich ging es um ihre Stadt. Belohnt wurden aber die Ortsherren: Die Brüder Diepold und Gerwig III. aus dem Geschlecht der Güssen hatten dem Kaiser auf seinen Italienzügen gedient. Leipheims Stadtwappen ist das Stammwappen der Güssen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.leipheim.de/de/stadtinfo/unsere-stadt/daten-zahlen",
+"faktencheck": "bestätigt",
+"id": "289-leipheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leipheim",
+"steckbrief": "Leipheim, eine bayerische Stadt mit rund 7.400 Einwohnern, liegt 18 km östlich von Ulm.",
+"frage": "Wie weit ist es von Leipheim in Luftlinie bis zur Landeshauptstadt München?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 90 km",
+"90 bis unter 120 km",
+"120 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In Bayern schätzt man die eigene Landeshauptstadt gern näher. Doch Leipheim liegt nach eigener Beschreibung in der Mitte zwischen Stuttgart und München, gleich bei Ulm. Bis München sind es 106 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "289-leipheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leipheim",
+"steckbrief": "Leipheim, eine Stadt mit rund 7.400 Einwohnern, liegt an der Donau, 18 km östlich von Ulm.",
+"frage": "Im Bauernkrieg unterlagen die Bauern 1525 bei Leipheim dem Schwäbischen Bund. Welche Rolle spielte dabei der Leipheimer Pfarrer Jakob Wehe?",
+"optionen": [
+"Er predigte gegen die aufständischen Bauern.",
+"Er segnete die Truppen des Schwäbischen Bundes.",
+"Er blieb neutral und pflegte die Verwundeten.",
+"Er hielt zu den aufständischen Bauern."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Pfarrer auf Seiten der Obrigkeit liegt nahe, die Kirche gehörte ja selbst zu den Herren. Doch Jakob Wehe wirkte im Sinne Martin Luthers, hielt zu den Aufständischen und galt als ihr Rädelsführer. Nach der Niederlage wurde er geköpft. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte",
+"faktencheck": "bestätigt",
+"id": "289-leipheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leipheim",
+"steckbrief": "Leipheim, eine Stadt mit rund 7.400 Einwohnern, liegt 18 km östlich von Ulm.",
+"frage": "Das Leipheimer Kinderfest wird seit über 200 Jahren gefeiert. Welchen Anlass nennt die Stadtgeschichte für seine Gründung?",
+"optionen": [
+"Ein Kind bewahrte die Stadt vor einem Großbrand.",
+"Ein Fürst stiftete es zur Geburt seines Sohnes.",
+"Die Stadt dankte für eine überstandene Hungersnot.",
+"Die Stadt feierte die Eröffnung ihrer neuen Schule."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Kinderfest denkt man zuerst an Schule oder einen Stifter. Doch es entstand aus Dankbarkeit: Der Ausbruch des Vulkans Tambora in Indonesien hatte ein „Jahr ohne Sommer“ gebracht, mit Missernten und teurem Getreide. Nach der Hungersnot feierte Leipheim Erntedank und ein Freudenfest für die Kinder. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte und www.leipheim.de/de/stadtinfo/kinderfest/hintergrund",
+"faktencheck": "korrigiert",
+"id": "289-leipheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leipheim",
+"steckbrief": "Leipheim, eine Stadt mit rund 7.400 Einwohnern, liegt an der Donau, 18 km östlich von Ulm.",
+"frage": "Bis 1893 feierte Leipheim sein Kinderfest an einem uralten Baum, dem Alber. Was wurde dem Baum zum Verhängnis?",
+"optionen": [
+"Ein Blitz setzte den Baum in Brand.",
+"Kinder zündelten an dem alten Baum.",
+"Ein Donauhochwasser unterspülte seine Wurzeln.",
+"Ein Sturm brach ihm die Krone ab."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Blitz liegt nahe, denn hohe alte Bäume ziehen ihn an. Doch es waren Kinder, die am Alber zündelten, ausgerechnet am Ort ihres eigenen Festes. Danach wurde der Baum gefällt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.leipheim.de/de/stadtinfo/kinderfest/hintergrund",
+"faktencheck": "bestätigt",
+"id": "289-leipheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "288-elchingen",
+"anschluss": [
+"Die Gemeinde Elchingen hat mehr Einwohner als die Stadt Leipheim.",
+"Kloster Elchingen besaß schon im Mittelalter Leipheims Pfarrkirche St. Veit."
+],
+"anschluesse": {
+"108-ulm": [
+"Landesgrenze: Ulm liegt in Baden-Württemberg, Leipheim in Bayern.",
+"Bundestagswahl 2025: In Ulm lag die CDU vorn, in Leipheim die CSU."
+],
+"109-neu-ulm": [
+"Kreisgrenze: Neu-Ulm gehört zum Landkreis Neu-Ulm, Leipheim zum Landkreis Günzburg.",
+"Neu-Ulm hat fast neunmal so viele Einwohner wie Leipheim."
+],
+"288-elchingen": [
+"Die Gemeinde Elchingen hat mehr Einwohner als die Stadt Leipheim.",
+"Kloster Elchingen besaß schon im Mittelalter Leipheims Pfarrkirche St. Veit."
+],
+"110-guenzburg": [
+"Günzburg hat fast dreimal so viele Einwohner wie Leipheim."
+],
+"290-offingen": [
+"Leipheim hat gut anderthalbmal so viele Einwohner wie Offingen."
+],
+"111-burgau": [
+"Burgau hat fast anderthalbmal so viele Einwohner wie Leipheim."
+],
+"291-jettingen-scheppach": [
+"Jettingen-Scheppach und Leipheim sind fast gleich groß: rund 7.000 und 7.400 Einwohner."
+]
+},
+"ags": "09774155",
+"ortsteil": false,
+"km_vom_vorigen": 9.1
 },
 {
 "slug": "110-guenzburg",
@@ -32327,23 +38074,247 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "109-neu-ulm",
-"anschluss": [
-"Neu-Ulm hat rund dreimal so viele Einwohner wie Günzburg.",
-"Bundestagswahl 2025: Neu-Ulm hatte eine höhere Wahlbeteiligung als Günzburg."
-],
+"anschluss_von": "289-leipheim",
+"anschluss": [],
 "anschluesse": {
+"288-elchingen": [
+"Kreisgrenze: Elchingen gehört zum Landkreis Neu-Ulm, Günzburg zum Landkreis Günzburg.",
+"Günzburg hat gut doppelt so viele Einwohner wie Elchingen."
+],
+"289-leipheim": [
+"Günzburg hat fast dreimal so viele Einwohner wie Leipheim."
+],
+"290-offingen": [
+"Günzburg hat fünfmal so viele Einwohner wie Offingen."
+],
 "111-burgau": [
 "Günzburg hat doppelt so viele Einwohner wie Burgau."
 ],
-"109-neu-ulm": [
-"Neu-Ulm hat rund dreimal so viele Einwohner wie Günzburg.",
-"Bundestagswahl 2025: Neu-Ulm hatte eine höhere Wahlbeteiligung als Günzburg."
+"291-jettingen-scheppach": [
+"Günzburg hat dreimal so viele Einwohner wie Jettingen-Scheppach."
 ]
 },
 "ags": "09774135",
 "ortsteil": false,
-"km_vom_vorigen": 21.4
+"km_vom_vorigen": 3.7
+},
+{
+"slug": "290-offingen",
+"name": "Offingen",
+"lat": 48.48583,
+"lon": 10.3625,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offingen",
+"steckbrief": "Offingen ist eine Gemeinde mit rund 4.400 Einwohnern, 29 km östlich von Ulm.",
+"frage": "Woher hat Offingen nach der Ortsgeschichte seinen Namen?",
+"optionen": [
+"Er beschreibt freies, unbewaldetes Land.",
+"Er geht auf einen Bach zurück.",
+"Er stammt von einer römischen Straßenstation.",
+"Er geht auf einen Sippenanführer zurück."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach „offen“ und damit nach freiem, unbewaldetem Land. Die Gemeinde erzählt es anders: Offingen geht auf die Gründung einer alemannischen Sippe zurück, deren Anführer Offo genannt wurde. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, offingen.de/geschichte/",
+"faktencheck": "bestätigt",
+"id": "290-offingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Offingen",
+"steckbrief": "Offingen ist eine Gemeinde im Landkreis Günzburg mit rund 4.400 Einwohnern, 29 km östlich von Ulm.",
+"frage": "Wie groß ist das Gemeindegebiet von Offingen?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 35 km²",
+"35 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an ländliches Schwaben denkt, erwartet weite Feldfluren und damit eine große Gemarkung. Offingens Gemeindegebiet misst aber nur 14,91 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "290-offingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Offingen",
+"steckbrief": "Offingen ist eine Gemeinde mit rund 4.400 Einwohnern, 29 km östlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schloss Landstrost wurde nach einem Erdrutsch abgetragen.",
+"Die Freybergeiche starb an Trockenheit und Grundwasserschwankungen.",
+"Das Offinger Schloss wurde für einen Bischof erbaut."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bischof liegt nahe, denn Offingen gehörte einst zum Besitz des Augsburger Bischofs. Das Schloss diente aber der Ortsherrschaft von Freyberg als Gerichtsgebäude und Wohnstätte. Schloss Landstrost wurde wirklich wegen eines Erdrutsches abgetragen, und die Freybergeiche starb an Trockenheit und schwankendem Grundwasser. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, offingen.de/sehenswuerdigkeiten/ und offingen.de/geschichte/",
+"faktencheck": "korrigiert",
+"id": "290-offingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Offingen",
+"steckbrief": "Offingen ist eine Gemeinde im bayerischen Schwaben mit rund 4.400 Einwohnern, 29 km östlich von Ulm.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Offingen?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Bayern liegt die CSU oft weit vorn, darum tippen viele auf die oberste Spanne. In Offingen kam sie auf 34,2 Prozent der Zweitstimmen; zweitstärkste Partei wurde die AfD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "290-offingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offingen",
+"steckbrief": "Offingen ist eine Gemeinde mit rund 4.400 Einwohnern, 29 km östlich von Ulm.",
+"frage": "Offingen gehört seit 1806 zu Bayern. Welchen Grund nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Die Freyberger vererbten ihre Herrschaft an Bayern.",
+"Bayern kaufte den Ort den Habsburgern ab.",
+"Der Wiener Kongress sprach den Ort Bayern zu.",
+"Süddeutsche Staaten hatten sich mit Napoleon verbündet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Erbe der Freyberger liegt nahe, denn sie waren lange Ortsherren. Ihre Herrschaft dauerte aber noch Jahrzehnte über den Wechsel zu Bayern hinaus. Die Ortsgeschichte nennt als Grund das Bündnis süddeutscher Staaten mit Kaiser Napoleon. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, offingen.de/geschichte/",
+"faktencheck": "bestätigt",
+"id": "290-offingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Offingen",
+"steckbrief": "Offingen ist eine Gemeinde mit rund 4.400 Einwohnern, 29 km östlich von Ulm.",
+"frage": "Wie viele Einwohner leben in Offingen im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 800",
+"800 bis unter 1.500",
+"1.500 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Bahnhöfe Offingen und Neuoffingen lassen an einen dicht besiedelten Ort denken. Rechnerisch kommen aber nur 293 Einwohner auf einen Quadratkilometer. Zum Gemeindegebiet gehören auch Donauried und Donauauwald. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "290-offingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Offingen",
+"steckbrief": "Offingen ist eine Gemeinde mit rund 4.400 Einwohnern, 29 km östlich von Ulm.",
+"frage": "Nach dem Zweiten Weltkrieg hatte Offingen 1.800 Einwohner. Wie viele Heimatvertriebene nahm der Ort damals auf?",
+"optionen": [
+"unter 300",
+"300 bis unter 1.500",
+"1.500 bis unter 3.000",
+"3.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine kleine Zahl liegt nahe, weil ein Ort dieser Größe kaum Platz zu bieten scheint. Offingen nahm aber 1.000 Heimatvertriebene aus dem Sudetenland, Mähren und Schlesien auf. Mit ihnen kamen neue Erwerbszweige wie die Handschuhproduktion. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, offingen.de/geschichte/",
+"faktencheck": "bestätigt",
+"id": "290-offingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offingen",
+"steckbrief": "Offingen ist eine Gemeinde mit rund 4.400 Einwohnern, 29 km östlich von Ulm.",
+"frage": "Das Offinger Wappen zeigt schwarze Wolfsangeln. Woher stammen sie nach Angabe der Gemeinde?",
+"optionen": [
+"Sie erinnern an die Wolfsjagd im Donauried.",
+"Sie stammen vom Wappen der Freiherren von Freyberg.",
+"Sie stammen vom Wappen der Freiherren vom Stain.",
+"Sie stammen vom Wappen des Klosters Ursberg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wolfsangeln wirken wie ein Zeichen für die Wolfsjagd im Auwald. Tatsächlich stammen sie aus dem Wappen der Freiherren vom Stain. Die goldenen Kugeln daneben kommen von den Freiherren von Freyberg-Schütz-Eisenberg. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, offingen.de/zahlen-daten-fakten-2/",
+"faktencheck": "bestätigt",
+"id": "290-offingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offingen",
+"steckbrief": "Offingen ist eine Gemeinde mit rund 4.400 Einwohnern, 29 km östlich von Ulm.",
+"frage": "Die Barbara-Kapelle verfiel im Dreißigjährigen Krieg bis auf die Grundmauern. Wem diente sie laut Ortsgeschichte früher vor allem als Andachtsstätte?",
+"optionen": [
+"Sie diente den Bewohnern einer nahen Burg.",
+"Sie diente den Bergleuten eines nahen Stollens.",
+"Sie diente den Fischern und Schiffern am Fluss.",
+"Sie diente den Arbeitern der örtlichen Ziegelei."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die heilige Barbara gilt als Schutzpatronin der Bergleute, daher liegt ein Stollen nahe. Die Kapelle bei Landstrost diente früher aber vor allem den Bewohnern der Burg Landstrost als Andachtsstätte. Nach dem Verfall wurde sie wieder aufgebaut. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, offingen.de/sehenswuerdigkeiten/",
+"faktencheck": "korrigiert",
+"id": "290-offingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "110-guenzburg",
+"anschluss": [
+"Offingens Steinbrunnen hatte bis 1951 den Trog des Günzburger Stadtbrunnens.",
+"Bundestagswahl 2025: AfD in Offingen 29,8, in Günzburg 22,9 Prozent."
+],
+"anschluesse": {
+"288-elchingen": [
+"Kreisgrenze: Elchingen gehört zum Landkreis Neu-Ulm, Offingen zum Landkreis Günzburg.",
+"Elchingen hat gut doppelt so viele Einwohner wie Offingen."
+],
+"289-leipheim": [
+"Leipheim hat gut anderthalbmal so viele Einwohner wie Offingen."
+],
+"110-guenzburg": [
+"Offingens Steinbrunnen hatte bis 1951 den Trog des Günzburger Stadtbrunnens.",
+"Bundestagswahl 2025: AfD in Offingen 29,8, in Günzburg 22,9 Prozent."
+],
+"111-burgau": [
+"Burgau hat zweieinhalbmal so viele Einwohner wie Offingen."
+],
+"291-jettingen-scheppach": [
+"Jettingen-Scheppach hat gut anderthalbmal so viele Einwohner wie Offingen."
+],
+"292-zusmarshausen": [
+"Kreisgrenze: Zusmarshausen gehört zum Landkreis Augsburg, Offingen zum Landkreis Günzburg.",
+"Zusmarshausen hat anderthalbmal so viele Einwohner wie Offingen."
+]
+},
+"ags": "09774171",
+"ortsteil": false,
+"km_vom_vorigen": 7.7
 },
 {
 "slug": "111-burgau",
@@ -32491,20 +38462,1572 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "110-guenzburg",
-"anschluss": [
-"Laut Stadt Burgau sind es nach Günzburg nur 10 Kilometer.",
-"Einwohner: Günzburg hat ungefähr doppelt so viele wie Burgau."
-],
+"anschluss_von": "290-offingen",
+"anschluss": [],
 "anschluesse": {
+"289-leipheim": [
+"Burgau hat fast anderthalbmal so viele Einwohner wie Leipheim."
+],
 "110-guenzburg": [
-"Laut Stadt Burgau sind es nach Günzburg nur 10 Kilometer.",
-"Einwohner: Günzburg hat ungefähr doppelt so viele wie Burgau."
+"Günzburg hat doppelt so viele Einwohner wie Burgau."
+],
+"290-offingen": [
+"Burgau hat zweieinhalbmal so viele Einwohner wie Offingen."
+],
+"291-jettingen-scheppach": [
+"Burgau hat anderthalbmal so viele Einwohner wie Jettingen-Scheppach.",
+"Jettingen-Scheppach hat gut doppelt so viel Fläche wie Burgau, aber weniger Einwohner."
+],
+"292-zusmarshausen": [
+"Kreisgrenze: Zusmarshausen gehört zum Landkreis Augsburg, Burgau zum Landkreis Günzburg.",
+"Burgau hat gut anderthalbmal so viele Einwohner wie Zusmarshausen."
+],
+"293-dinkelscherben": [
+"Kreisgrenze: Dinkelscherben gehört zum Landkreis Augsburg, Burgau zum Landkreis Günzburg.",
+"Burgau hat gut anderthalbmal so viele Einwohner wie Dinkelscherben."
 ]
 },
 "ags": "09774121",
 "ortsteil": false,
-"km_vom_vorigen": 10.3
+"km_vom_vorigen": 6.8
+},
+{
+"slug": "291-jettingen-scheppach",
+"name": "Jettingen-Scheppach",
+"lat": 48.38333,
+"lon": 10.43333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Jettingen-Scheppach",
+"steckbrief": "Markt mit rund 7.000 Einwohnern, 33 km östlich von Ulm.",
+"frage": "Auf dem Friedhof von Jettingen steht die Gruftkapelle einer bekannten Adelsfamilie. Welcher?",
+"optionen": [
+"Es ist die Gruft der Wittelsbacher.",
+"Es ist die Gruft der Stauffenbergs.",
+"Es ist die Gruft der Hohenzollern.",
+"Es ist die Gruft der Thurn und Taxis."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In Bayern denkt man bei Adel zuerst an die Wittelsbacher. Doch auf dem Jettinger Friedhof steht die Gruftkapelle der Familie Graf von Stauffenberg – ein Name, den viele vom Hitler-Attentat kennen. Auch das Jettinger Schloss hieß früher Stauffenberg-Schloss. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/",
+"faktencheck": "bestätigt",
+"id": "291-jettingen-scheppach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Jettingen-Scheppach",
+"steckbrief": "Markt an der Mindel mit rund 7.000 Einwohnern, 33 km östlich von Ulm.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Jettingen-Scheppach?",
+"optionen": [
+"unter 300 m",
+"300 bis unter 450 m",
+"450 bis unter 550 m",
+"550 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer keine Berge erwartet, schätzt leicht zu tief. Doch schon das Land um Ulm liegt weit über dem Meer, und Jettingen-Scheppach liegt je nach Quelle auf 470 bis 474 Metern. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 3336896)",
+"faktencheck": "bestätigt",
+"id": "291-jettingen-scheppach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Jettingen-Scheppach",
+"steckbrief": "Markt mit rund 7.000 Einwohnern in Bayern, 33 km östlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Josef Dossenberger entwarf hier mehrere Gotteshäuser.",
+"Scheppach wurde erst unter Bismarck bayerisch.",
+"Im Gemeindegebiet wurde früher Torf gestochen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Torfstechen klingt nach Norddeutschland, wurde im Gemeindegebiet aber betrieben. Auch Josef Dossenberger entwarf hier tatsächlich mehrere Gotteshäuser. Gelogen ist Bismarck: Das Gebiet um Scheppach gehörte zu Vorderösterreich und wurde nach Napoleons Siegen über die Habsburger bayerisch. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/",
+"faktencheck": "bestätigt",
+"id": "291-jettingen-scheppach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Jettingen-Scheppach",
+"steckbrief": "Markt mit rund 7.000 Einwohnern in Bayern, 33 km östlich von Ulm.",
+"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in Jettingen-Scheppach?",
+"optionen": [
+"unter 85 %",
+"85 bis unter 88 %",
+"88 bis unter 91 %",
+"91 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 mobilisierte bundesweit stark, deshalb liegt ein Tipp über 85 Prozent nahe. In Jettingen-Scheppach gingen 83,9 Prozent der Wahlberechtigten wählen – viel, aber knapp unter dieser Marke. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "291-jettingen-scheppach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Jettingen-Scheppach",
+"steckbrief": "Markt mit rund 7.000 Einwohnern, 33 km östlich von Ulm.",
+"frage": "Das 1836 verliehene Wappen Jettingens zeigte zwei pflügende Bauern. Welche Sage stellte es dar?",
+"optionen": [
+"Sie fanden beim Pflügen einen Schatz.",
+"Sie überlebten als Letzte einen verheerenden Krieg.",
+"Ihr Pflug stieß auf eine verschüttete Glocke.",
+"Sie retteten das Dorf vor einer Hungersnot."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Fund beim Pflügen liegt nahe, solche Geschichten erzählt man vielerorts. Doch das Wappen, verliehen von König Ludwig I., zeigte die Burkhardts: Der Sage nach überlebten sie als letzte Bewohner den Dreißigjährigen Krieg im zerstörten Ort. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.jettingen-scheppach.de/content/jettingen-scheppach/wappen-und-logo/ehem-wappen-jettingen/",
+"faktencheck": "unsicher",
+"id": "291-jettingen-scheppach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Jettingen-Scheppach",
+"steckbrief": "Markt mit rund 7.000 Einwohnern an der A8, 33 km östlich von Ulm.",
+"frage": "Welches Hauptkennzeichen gilt für Autos aus Jettingen-Scheppach?",
+"optionen": [
+"UL",
+"A",
+"GZ",
+"NU"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Steckbrief nennt Ulm, und die Bahnstrecke führt weiter nach Augsburg – beide Städte drängen sich als Tipp auf. Doch Jettingen-Scheppach gehört zum Landkreis Günzburg, dessen Hauptkennzeichen GZ ist. Richtig war 3.",
+"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
+"faktencheck": "korrigiert",
+"id": "291-jettingen-scheppach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Jettingen-Scheppach",
+"steckbrief": "Markt mit rund 7.000 Einwohnern, 33 km östlich von Ulm.",
+"frage": "1893 kam eine Zwirnerei und Nähfadenfabrik an die Scheppacher Mühle. Welchen Grund nennt die Ortsgeschichte für die Ansiedlung?",
+"optionen": [
+"Unter Scheppach lagerte abbaubare Steinkohle.",
+"Scheppach lag damals an einer Zollgrenze.",
+"Ein nahes Salzbergwerk brauchte viel Garn.",
+"Scheppach hatte eine alte Webertradition."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Steinkohle klingt nach Industrie, denn Fabriken brauchten Energie. Die Ortsgeschichte nennt aber die Webertradition in Scheppach als Grund: Deshalb ließ sich die Zwirnerei aus Göggingen an der Scheppacher Mühle an der Mindel nieder. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.jettingen-scheppach.de/content/jettingen-scheppach/geschichte/",
+"faktencheck": "bestätigt",
+"id": "291-jettingen-scheppach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Jettingen-Scheppach",
+"steckbrief": "Markt mit rund 7.000 Einwohnern, 33 km östlich von Ulm.",
+"frage": "Die Wallfahrtskirche Allerheiligen in Scheppach ist seit dem 14. Jahrhundert Wallfahrtsziel. Welches frühere Anliegen der Pilger nennt die Gemeinde?",
+"optionen": [
+"Sie baten um Regen für die Felder.",
+"Sie baten um Heilung kranker Augen.",
+"Sie baten um eine glückliche Niederkunft.",
+"Sie baten um Schutz vor Viehseuchen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land beteten Pilger oft für Ernte und Vieh, das liegt nahe. Nach Allerheiligen kamen sie früher aber mit der Bitte um eine glückliche Niederkunft. Heute ist es eine Männer- und Friedenswallfahrt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.jettingen-scheppach.de/content/kirchen/scheppach/",
+"faktencheck": "bestätigt",
+"id": "291-jettingen-scheppach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Jettingen-Scheppach",
+"steckbrief": "Markt mit rund 7.000 Einwohnern, 33 km östlich von Ulm.",
+"frage": "Ein altes Wappen Jettingens zeigte eine schwarze Wolfsangel auf Silber. Woher stammte dieses Zeichen?",
+"optionen": [
+"Es stammte aus dem Wappen eines Rittergeschlechts.",
+"Es war das Zeichen der örtlichen Jäger.",
+"Es kopierte einen alten Grenzstein am Waldrand.",
+"Es stammte aus dem Siegel der Weberzunft."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Wolfsangel lässt an Wolfsjagd und Wald denken. Die Gemeinde führt das Zeichen aber auf die Ritter von Stain zurück, deren Wappen schwarze Wolfsangeln trug. Im gotischen Chorraum der Pfarrkirche St. Martin erinnern Epitaphien an die von Stain. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.jettingen-scheppach.de/content/jettingen-scheppach/wappen-und-logo/ehem-wappen-jettingen/",
+"faktencheck": "bestätigt",
+"id": "291-jettingen-scheppach/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "111-burgau",
+"anschluss": [
+"A8: Die Anschlussstelle für Jettingen-Scheppach heißt Burgau.",
+"Fläche: Jettingen-Scheppach ist mehr als doppelt so groß wie Burgau."
+],
+"anschluesse": {
+"289-leipheim": [
+"Leipheim und Jettingen-Scheppach sind fast gleich groß: rund 7.400 und 7.000 Einwohner."
+],
+"110-guenzburg": [
+"Günzburg hat dreimal so viele Einwohner wie Jettingen-Scheppach."
+],
+"290-offingen": [
+"Jettingen-Scheppach hat gut anderthalbmal so viele Einwohner wie Offingen."
+],
+"111-burgau": [
+"A8: Die Anschlussstelle für Jettingen-Scheppach heißt Burgau.",
+"Fläche: Jettingen-Scheppach ist mehr als doppelt so groß wie Burgau."
+],
+"292-zusmarshausen": [
+"Kreisgrenze: Zusmarshausen gehört zum Landkreis Augsburg, Jettingen-Scheppach zum Landkreis Günzburg.",
+"Zusmarshausen und Jettingen-Scheppach sind fast gleich groß: rund 6.700 und 7.000 Einwohner."
+],
+"293-dinkelscherben": [
+"Kreisgrenze: Dinkelscherben gehört zum Landkreis Augsburg, Jettingen-Scheppach zum Landkreis Günzburg.",
+"Dinkelscherben und Jettingen-Scheppach sind fast gleich groß: rund 6.700 und 7.000 Einwohner."
+]
+},
+"ags": "09774144",
+"ortsteil": false,
+"km_vom_vorigen": 5.8
+},
+{
+"slug": "292-zusmarshausen",
+"name": "Zusmarshausen",
+"lat": 48.38333,
+"lon": 10.58333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zusmarshausen",
+"steckbrief": "Gemeinde mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "Im Mai 1648, im Dreißigjährigen Krieg, kämpften Heere zwischen Zusmarshausen und Hainhofen. Wofür steht diese Schlacht in der Ortsgeschichte?",
+"optionen": [
+"Sie gilt als letzte große Schlacht des Krieges in Deutschland.",
+"Danach wurde Zusmarshausen zur Stadt erhoben.",
+"In ihr ging die Burg Wolfsberg unter.",
+"Durch sie taucht Zusmarshausen erstmals in Urkunden auf."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Burgen fielen in diesem Krieg viele, darum liegt die Burg Wolfsberg nahe. Doch die hatte Augsburg schon 1462 zerstört. Die Schlacht zwischen Zusmarshausen und Hainhofen gilt als letzte große Schlacht des Dreißigjährigen Krieges in Deutschland und als militärische Grundlage für den Westfälischen Frieden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.zusmarshausen.de/seite/458224/geschichte.html und www.zusmarshausen.de/seite/458241/sehenswürdigkeiten.html",
+"faktencheck": "korrigiert",
+"id": "292-zusmarshausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Zusmarshausen",
+"steckbrief": "Gemeinde mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "Wie viele Einwohner kommen in Zusmarshausen auf einen Quadratkilometer?",
+"optionen": [
+"unter 50",
+"50 bis unter 150",
+"150 bis unter 300",
+"300 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. So nah an Augsburg tippt man leicht auf dichte Besiedlung. Doch die Gemeinde ist weitläufig und großteils bewaldet; sie liegt im Naturpark Augsburg Westliche Wälder. Auf einen Quadratkilometer kommen 97 Einwohner. Richtig war 2.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "292-zusmarshausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Zusmarshausen",
+"steckbrief": "Gemeinde mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In Zusmarshausen erschien früher eine Zeitung.",
+"Der Ortsteil Gabelbach bekam einst eine Eisenbahnstation.",
+"Das Stiftschloss ließ einst ein Bayernherzog bauen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Schloss im heutigen Bayern lässt an Bayerns Herzöge denken. Doch das Stiftschloss ließ Bischof Heinrich IV. von Lichtenau bauen, als Sitz des bischöflichen Pflegeamts. Die Zeitung hieß Schwäbischer Landbote. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.zusmarshausen.de/seite/458224/geschichte.html und www.zusmarshausen.de/seite/458241/sehenswürdigkeiten.html",
+"faktencheck": "korrigiert",
+"id": "292-zusmarshausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Zusmarshausen",
+"steckbrief": "Gemeinde im Landkreis Augsburg mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die CSU bei der Bundestagswahl 2025 in Zusmarshausen?",
+"optionen": [
+"unter 28 %",
+"28 bis unter 33 %",
+"33 bis unter 38 %",
+"38 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. So nah an einer Großstadt erwartet man leicht ein schwächeres CSU-Ergebnis. In Zusmarshausen holte die CSU aber 40,8 Prozent der Zweitstimmen, mit weitem Abstand vor der AfD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "292-zusmarshausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zusmarshausen",
+"steckbrief": "Gemeinde mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "Gegen Ende des Zweiten Weltkriegs bauten Zwangsarbeiter im Wald bei Zusmarshausen Düsenjäger vom Typ Me 262 in Serie. Wovon starteten die Jets?",
+"optionen": [
+"Die Jets starteten von der Reichsautobahn.",
+"Die Jets starteten von einem Feld bei Gabelbach.",
+"Die Jets starteten von einer Wiese bei Wörleschwang.",
+"Die Jets starteten von einer Piste am Wolfsberg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein geheimes Werk im Wald lässt an eine versteckte Piste in der Nähe denken. Doch das Waldwerk Kuno nutzte die Reichsautobahn als Startbahn. Die Arbeit mussten Häftlinge des Konzentrationslagers Burgau leisten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.zusmarshausen.de/seite/580958/museum.html",
+"faktencheck": "unsicher",
+"id": "292-zusmarshausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Zusmarshausen",
+"steckbrief": "Gemeinde mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "Wie weit ist es von Zusmarshausen nach München, in Luftlinie gemessen?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 90 km",
+"90 bis unter 120 km",
+"120 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer den Weg über Augsburg im Kopf hat, schätzt leicht zu viel, denn Straßenkilometer sind länger als die Luftlinie. Zwischen Zusmarshausen und der Landeshauptstadt München liegen in Luftlinie 78 Kilometer. Richtig war 2.",
+"quelle": "GRUNDDATEN, berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "292-zusmarshausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zusmarshausen",
+"steckbrief": "Gemeinde mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "Bis 1983 gehörte Horgau als Ortsteil zu Zusmarshausen. Was wurde dann aus Horgau?",
+"optionen": [
+"Horgau wurde in eine Nachbarstadt eingemeindet.",
+"Horgau ging in einer neuen Großgemeinde auf.",
+"Horgau wurde wieder eine selbstständige Gemeinde.",
+"Horgau wurde als Ortsteil einem Nachbarmarkt zugeschlagen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gebietsreformen fassten meist kleine Orte zu größeren zusammen, darum liegt ein weiterer Zusammenschluss nahe. Horgau ging den umgekehrten Weg: Nach der Ortsgeschichte von Zusmarshausen wurde es wieder eine selbstständige Gemeinde. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.zusmarshausen.de/seite/458224/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "292-zusmarshausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zusmarshausen",
+"steckbrief": "Gemeinde mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "In der Gemeinde Zusmarshausen liegt der Rothsee. Wie ist er entstanden?",
+"optionen": [
+"Er ist ein Rest aus der Eiszeit.",
+"Er wurde bei einer Flurbereinigung angelegt.",
+"Er entstand durch einen Dammbruch bei Hochwasser.",
+"Er entstand in einem eingestürzten Erdfall."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein See in der Landschaft wirkt natürlich, und an Eiszeitseen denkt man in Bayern schnell. Der Rothsee ist aber jung: Er wurde bei einer Flurbereinigung angelegt, also bei der Neuordnung der Felder und Wiesen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.zusmarshausen.de/seite/458224/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "292-zusmarshausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zusmarshausen",
+"steckbrief": "Gemeinde mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "In der Gemeinde Zusmarshausen liegt Friedensdorf, gegründet 1948. Für wen entstand die Siedlung?",
+"optionen": [
+"Sie entstand für Familien amerikanischer Besatzungssoldaten.",
+"Sie entstand für Mönche eines neuen Klosters.",
+"Sie entstand für Arbeiter einer neuen Fabrik.",
+"Sie entstand für Vertriebene des Zweiten Weltkriegs."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt fromm, daher liegt ein kirchlicher Zweck nahe. Doch die Siedlung sollte Vertriebenen des Zweiten Weltkriegs eine neue Heimat geben. Den Namen wünschte sich Leopold Schwarz, auf dessen Betreiben sie entstand; den Grund stifteten Brauereibesitzer Konrad Schwarz und die Gemeinde Vallried. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.zusmarshausen.de/seite/458241/sehenswürdigkeiten.html",
+"faktencheck": "korrigiert",
+"id": "292-zusmarshausen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "291-jettingen-scheppach",
+"anschluss": [
+"Kennzeichen: In Jettingen-Scheppach steht GZ am Auto, in Zusmarshausen A.",
+"Fläche: Zusmarshausen ist größer, Jettingen-Scheppach hat mehr Einwohner."
+],
+"anschluesse": {
+"290-offingen": [
+"Kreisgrenze: Offingen gehört zum Landkreis Günzburg, Zusmarshausen zum Landkreis Augsburg.",
+"Zusmarshausen hat anderthalbmal so viele Einwohner wie Offingen."
+],
+"111-burgau": [
+"Kreisgrenze: Burgau gehört zum Landkreis Günzburg, Zusmarshausen zum Landkreis Augsburg.",
+"Burgau hat gut anderthalbmal so viele Einwohner wie Zusmarshausen."
+],
+"291-jettingen-scheppach": [
+"Kennzeichen: In Jettingen-Scheppach steht GZ am Auto, in Zusmarshausen A.",
+"Fläche: Zusmarshausen ist größer, Jettingen-Scheppach hat mehr Einwohner."
+],
+"293-dinkelscherben": [
+"Dinkelscherben und Zusmarshausen sind fast gleich groß: rund 6.700 und 6.700 Einwohner."
+],
+"294-adelsried": [
+"Zusmarshausen hat gut zweieinhalbmal so viele Einwohner wie Adelsried."
+],
+"295-gessertshausen": [
+"Zusmarshausen hat anderthalbmal so viele Einwohner wie Gessertshausen."
+],
+"296-neusaess": [
+"Neusäß hat dreieinhalbmal so viele Einwohner wie Zusmarshausen.",
+"Zusmarshausen hat gut zweieinhalbmal so viel Fläche wie Neusäß, aber weniger Einwohner."
+]
+},
+"ags": "09772223",
+"ortsteil": false,
+"km_vom_vorigen": 11.1
+},
+{
+"slug": "293-dinkelscherben",
+"name": "Dinkelscherben",
+"lat": 48.35,
+"lon": 10.58333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dinkelscherben",
+"steckbrief": "Markt mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "Woher stammt der Ortsname Dinkelscherben?",
+"optionen": [
+"Er erinnert an Dinkelfelder und Töpferscherben.",
+"Er stammt von einer zerbrochenen Kirchenglocke.",
+"Er bezeichnet eine Furt über die Zusam.",
+"Er bedeutet Siedlung am Weidegrund eines Mannes."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Dinkel und Scherben drängen sich beim Hören auf, doch diese Lesart ist eine spätere Fehldeutung. Der Name geht auf Dankilo oder Tenchilo zurück und bedeutet die Siedlung am Weidegrund des Dankilo. Erstmals belegt ist er als Tenchelserum. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Dinkelscherben",
+"faktencheck": "unsicher",
+"id": "293-dinkelscherben/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dinkelscherben",
+"steckbrief": "Markt mit rund 68 km² Fläche, 23 km westlich von Augsburg.",
+"frage": "Wie viele Einwohner hat der Markt Dinkelscherben?",
+"optionen": [
+"unter 7.000",
+"7.000 bis unter 10.000",
+"10.000 bis unter 15.000",
+"15.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bahnanschluss und die Nähe zu Augsburg lassen einen größeren Ort vermuten. Doch Dinkelscherben zählte Ende 2025 genau 6.719 Einwohner. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "293-dinkelscherben/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Dinkelscherben",
+"steckbrief": "Rund 6.700 Einwohner, 23 km westlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein bayerischer König erhob Dinkelscherben zum Markt.",
+"Jahrhundertelang gehörte der Ort dem Augsburger Domkapitel.",
+"Das Ortswappen zeigt Dinkelhalme in einem Blumentopf."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bayern hatte Könige, doch Dinkelscherben kam erst mit der Säkularisation zu Bayern. Zum Markt erhob den Ort Kaiser Maximilian I., als er dem Augsburger Domkapitel gehörte. Das Wappen mit Blumentopf und Dinkelhalmen verlieh König Ferdinand. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Dinkelscherben",
+"faktencheck": "bestätigt",
+"id": "293-dinkelscherben/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Dinkelscherben",
+"steckbrief": "Markt mit rund 6.700 Einwohnern im Landkreis Augsburg, 23 km westlich der Stadt.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Dinkelscherben nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CSU",
+"GRÜNE",
+"AfD",
+"SPD"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dass die CSU im ländlichen Schwaben vorn liegt, ist erwartbar: In Dinkelscherben holte sie 39,1 Prozent. Für Platz zwei tippen viele auf SPD oder Grüne, doch den holte die AfD mit 19,1 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "293-dinkelscherben/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dinkelscherben",
+"steckbrief": "Markt an der Bahnstrecke Augsburg–Ulm, rund 6.700 Einwohner, 23 km westlich von Augsburg.",
+"frage": "Am 31. Juli 1928 ereignete sich in Dinkelscherben ein schweres Eisenbahnunglück. Wie kam es dazu?",
+"optionen": [
+"Ein Zug entgleiste in einer zu engen Kurve.",
+"Eine Dampflok explodierte im Bahnhof.",
+"Ein Zug rammte ein Fuhrwerk am Bahnübergang.",
+"Wegen gestörter Weichen und Signale fuhren Züge aufeinander."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei alten Bahnunglücken denkt man schnell an Kesselexplosionen, enge Kurven oder Bahnübergänge. In Dinkelscherben fuhr jedoch ein Zug auf einen anderen auf, weil Weichen und Signale gestört waren. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Dinkelscherben",
+"faktencheck": "unsicher",
+"id": "293-dinkelscherben/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dinkelscherben",
+"steckbrief": "Markt mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "Wie weit ist es von Dinkelscherben in Luftlinie bis zur Landeshauptstadt München?",
+"optionen": [
+"unter 80 km",
+"80 bis unter 100 km",
+"100 bis unter 120 km",
+"120 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer erst bis Augsburg und dann weiter nach München fährt, schätzt die Strecke leicht zu lang. Luftlinie sind es von der Ortsmitte nur 77 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "293-dinkelscherben/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Dinkelscherben",
+"steckbrief": "Rund 6.700 Einwohner, 23 km westlich von Augsburg.",
+"frage": "Im Juni 2024 traf ein Hochwasser Dinkelscherben. Auf welche Summe wurde der Schaden im Ort geschätzt?",
+"optionen": [
+"unter 10 Millionen Euro",
+"10 bis unter 100 Millionen Euro",
+"100 bis unter 500 Millionen Euro",
+"500 Millionen Euro und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Für einen Markt dieser Größe wirkt schon ein einstelliger Millionenschaden gewaltig. Der Bürgermeister schätzte aber einen zweistelligen Millionenbetrag: Hunderte Menschen und viele Betriebe waren betroffen, Straßen sackten ab. Richtig war 2.",
+"quelle": "Markt Dinkelscherben, Amtsblatt Nr. 14/2024, dinkelscherben.info",
+"faktencheck": "korrigiert",
+"id": "293-dinkelscherben/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dinkelscherben",
+"steckbrief": "Markt mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "Alle sieben Jahre tanzen in Dinkelscherben die Schäffler. Welche Regel gilt für die Tänzer?",
+"optionen": [
+"Nur unverheiratete Männer dürfen mittanzen.",
+"Nur verheiratete Männer dürfen mittanzen.",
+"Männer und Frauen tanzen gemeinsam als Paare.",
+"Auch Gäste ohne Wohnsitz im Ort tanzen mit."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Zunfttänzen denkt man an gestandene Handwerksmeister, oft mit Familie. In Dinkelscherben tanzen aber nur unverheiratete Männer mit, volljährig und mit Wohnsitz im Ort. Getanzt wird an Wochenenden und Feiertagen zwischen Heilig-Drei-König und Faschingsdienstag. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Dinkelscherben",
+"faktencheck": "unsicher",
+"id": "293-dinkelscherben/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dinkelscherben",
+"steckbrief": "Rund 6.700 Einwohner, 23 km westlich von Augsburg.",
+"frage": "1604 wurde in Dinkelscherben ein Spital gegründet. Wer gründete es?",
+"optionen": [
+"Eine Augsburger Kaufmannsfamilie gründete das Spital.",
+"Ein Kaiser gründete es für den Markt.",
+"Ein Augsburger Domdekan gründete es.",
+"Ein Wirt aus dem Ort gründete es."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Spitäler gründeten oft reiche Kaufleute oder Landesherren. Hier aber stand dahinter Hieronymus Stor von Ostrach, Domdekan in Augsburg, also ein leitender Geistlicher am Dom. Zugleich war er Pfleger auf der nahen Burg Zusameck. Richtig war 3.",
+"quelle": "Heimatmuseum Reischenau, heimatmuseum-reischenau.de",
+"faktencheck": "korrigiert",
+"id": "293-dinkelscherben/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dinkelscherben",
+"steckbrief": "Markt mit rund 6.700 Einwohnern, 23 km westlich von Augsburg.",
+"frage": "Im 15. und 16. Jahrhundert war die Burg Zusameck Zentralort der Gegend. Was ist von ihr heute erhalten?",
+"optionen": [
+"Ihr Bergfried steht noch als Aussichtsturm.",
+"Von der Burg ist nichts mehr erhalten.",
+"Ihr Hauptbau dient heute als Gasthaus.",
+"Erhalten ist nur noch die Burgkapelle."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Von vielen Burgen bleibt wenigstens ein Turm oder eine Ruine. Von Zusameck liegen auf dem Schlossberg nur noch Reste im Boden. Als einziges Gebäude steht die Burgkapelle aus gotischer Zeit. Richtig war 4.",
+"quelle": "Markt Dinkelscherben, dinkelscherben.info; Pfarreiengemeinschaft Dinkelscherben, pg-dinkel.de",
+"faktencheck": "korrigiert",
+"id": "293-dinkelscherben/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "292-zusmarshausen",
+"anschluss": [
+"Einwohner: Dinkelscherben zählt nur 58 mehr als Zusmarshausen.",
+"Autobahn: Von Dinkelscherben geht es über Zusmarshausen auf die A8."
+],
+"anschluesse": {
+"111-burgau": [
+"Kreisgrenze: Burgau gehört zum Landkreis Günzburg, Dinkelscherben zum Landkreis Augsburg.",
+"Burgau hat gut anderthalbmal so viele Einwohner wie Dinkelscherben."
+],
+"291-jettingen-scheppach": [
+"Kreisgrenze: Jettingen-Scheppach gehört zum Landkreis Günzburg, Dinkelscherben zum Landkreis Augsburg.",
+"Jettingen-Scheppach und Dinkelscherben sind fast gleich groß: rund 7.000 und 6.700 Einwohner."
+],
+"292-zusmarshausen": [
+"Einwohner: Dinkelscherben zählt nur 58 mehr als Zusmarshausen.",
+"Autobahn: Von Dinkelscherben geht es über Zusmarshausen auf die A8."
+],
+"294-adelsried": [
+"Dinkelscherben hat gut zweieinhalbmal so viele Einwohner wie Adelsried."
+],
+"295-gessertshausen": [
+"Dinkelscherben hat anderthalbmal so viele Einwohner wie Gessertshausen."
+],
+"296-neusaess": [
+"Neusäß hat dreieinhalbmal so viele Einwohner wie Dinkelscherben.",
+"Dinkelscherben hat gut zweieinhalbmal so viel Fläche wie Neusäß, aber weniger Einwohner."
+]
+},
+"ags": "09772131",
+"ortsteil": false,
+"km_vom_vorigen": 3.7
+},
+{
+"slug": "294-adelsried",
+"name": "Adelsried",
+"lat": 48.41667,
+"lon": 10.71667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Adelsried",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 14 km westlich von Augsburg.",
+"frage": "Woraus ist Adelsried nach der Ortsgeschichte der Gemeinde entstanden?",
+"optionen": [
+"Ein Adelsgeschlecht gründete hier seinen Gutshof.",
+"Der Ort wuchs aus einer römischen Straßenstation.",
+"Der Ort entstand aus einem bischöflichen Forsthof.",
+"Der Ort begann als Rastplatz einer Handelsstraße."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das „Adel“ im Ortsnamen lässt an ein Adelsgut denken. Die Ortsgeschichte erzählt etwas anderes: Am Anfang stand ein Forsthof des Augsburger Bischofs, daneben lagen Rodungsgüter. Eine frühe Namensform lautet „Adeloldesriet“. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte",
+"faktencheck": "bestätigt",
+"id": "294-adelsried/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Adelsried",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 14 km westlich von Augsburg.",
+"frage": "Wie groß ist das Gemeindegebiet von Adelsried?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 5 km²",
+"5 bis unter 9 km²",
+"9 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dorf dieser Größe denkt man an wenig Fläche. Zur Gemeinde gehören neben dem Hauptort die Ortsteile Kruichen und Engelshof; das Gemeindegebiet misst 9,7 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "294-adelsried/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Adelsried",
+"steckbrief": "Rund 2.600 Einwohner, 14 km westlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Ortsteil Engelshof hatte früher eine eigene Pfarrei.",
+"Russische Truppen hielten Adelsried einst jahrzehntelang besetzt.",
+"Ein Augsburger Stift war bis zur Säkularisation Grundherr."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Russische Soldaten so nah bei Augsburg klingen erfunden, und doch lagen sie wirklich in Adelsried: Sie bezogen hier ein Standquartier, allerdings nur einen Monat lang. Der Engelshof hatte tatsächlich eine eigene Pfarrei. Grundherr bis zur Säkularisation, der Auflösung geistlicher Herrschaften, war das Augsburger Chorherrenstift Heilig Kreuz. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "294-adelsried/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Adelsried",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 14 km westlich von Augsburg.",
+"frage": "Wie hoch war die Wahlbeteiligung in Adelsried bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 88 %",
+"88 bis unter 92 %",
+"92 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kleinen Dörfern traut man oft eine besonders hohe Beteiligung zu. Ganz so hoch lag Adelsried nicht: Die Wahlbeteiligung betrug 87,4 Prozent, knapp unter der nächsten Spanne. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "294-adelsried/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Adelsried",
+"steckbrief": "Rund 2.600 Einwohner, 14 km westlich von Augsburg.",
+"frage": "An der A 8 steht die Autobahnkirche von Adelsried. Wer hat sie gestiftet?",
+"optionen": [
+"Der Staat stiftete sie beim Autobahnbau.",
+"Eine Baufirma der Autobahn stiftete sie.",
+"Ein Ehepaar hat die Kirche gestiftet.",
+"Die Gemeinde stiftete sie für Reisende."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Kirche direkt an der Autobahn wirkt wie ein Projekt von Staat oder Baufirmen. Gestiftet haben sie aber Georg und Marie Luise Haindl. Der Architekt Raimund von Doblhoff verband Holz und Ziegel mit Beton und Glas; in der Form knüpft der Bau an gotische Wegekapellen an. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.adelsried.de/de/gemeinde/kirchen/autobahnkirche",
+"faktencheck": "korrigiert",
+"id": "294-adelsried/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Adelsried",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 14 km westlich von Augsburg.",
+"frage": "Wie weit ist es von Adelsried in Luftlinie bis München?",
+"optionen": [
+"unter 45 km",
+"45 bis unter 55 km",
+"55 bis unter 65 km",
+"65 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Augsburg und München wirken wie Nachbarn, also schätzt man Adelsried nah an der Landeshauptstadt. Doch der Ort liegt westlich von Augsburg, auf der von München abgewandten Seite. So kommen 71 Kilometer Luftlinie zusammen. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "294-adelsried/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Adelsried",
+"steckbrief": "Rund 2.600 Einwohner, 14 km westlich von Augsburg.",
+"frage": "Adelsried liegt in einem von Wäldern umgebenen Becken. Wie ist diese Landschaft laut Ortsgeschichte entstanden?",
+"optionen": [
+"Das Becken wurde in den Kaltzeiten ausgeräumt.",
+"Ein Meteorit schlug hier einen Krater.",
+"Ein erloschener Vulkan hinterließ die Senke.",
+"Der Boden sackte über Salzschichten ab."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Becken mitten im Wald erinnert an einen Meteoritenkrater. Hier aber haben Ausräumungsvorgänge während der Kaltzeiten die Landschaft geformt, also Abtragung im eiszeitlichen Klima. Im Untergrund liegen Sande der Oberen Süßwassermolasse. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte",
+"faktencheck": "bestätigt",
+"id": "294-adelsried/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Adelsried",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 14 km westlich von Augsburg.",
+"frage": "Die Ortsgeschichte nennt in Adelsried einen Platz namens „Schindküche“. Wofür diente er der Sage nach?",
+"optionen": [
+"Dort wurden einst Holzschindeln gefertigt.",
+"Dort wurden verendete Tiere vergraben.",
+"Dort kochten Waldarbeiter ihr Essen.",
+"Dort wurde Pech aus Harz gesotten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Schind“ klingt nach Schindeln, „Küche“ nach Kochen. Der Sage nach wurden dort aber verendete Tiere vergraben und so dem Schinder übergeben, also dem Abdecker. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "294-adelsried/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Adelsried",
+"steckbrief": "Rund 2.600 Einwohner, 14 km westlich von Augsburg.",
+"frage": "1796 wurde der Adelsrieder Wirt Aloys Strehle von Franzosen gehängt. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Er hatte einen Soldaten im Streit erschlagen.",
+"Er hatte ihnen vergifteten Wein ausgeschenkt.",
+"Er hatte Deserteure in seiner Taverne versteckt.",
+"Sie hielten ihn für einen Spion."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Wirt denkt man an Streit in der Gaststube. Strehle hatte jedoch das unmenschliche Betragen der Franzosen kritisiert und war geflohen. Sie hielten ihn für einen Spion und hängten ihn nahe dem Engelshof. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte",
+"faktencheck": "bestätigt",
+"id": "294-adelsried/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Adelsried",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 14 km westlich von Augsburg.",
+"frage": "Die Kirche St. Nikolaus im Engelshof wurde 1823 abgerissen. Was geschah laut Ortsgeschichte mit ihren Steinen?",
+"optionen": [
+"Sie wurden beim Bau des Schulhauses verwendet.",
+"Sie dienten einer Brücke über die Laugna.",
+"Sie wurden als Grabsteine auf dem Friedhof verwendet.",
+"Ein Bauer kaufte sie für seinen Stall."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Steine einer Kirche, so denkt man, bleiben einem frommen Zweck treu. Nach der Ortsgeschichte aber wurden sie beim Bau des Schulhauses in Adelsried wiederverwendet. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte",
+"faktencheck": "bestätigt",
+"id": "294-adelsried/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "293-dinkelscherben",
+"anschluss": [
+"Fläche: Dinkelscherben ist fast siebenmal so groß wie Adelsried.",
+"Evangelisch: Adelsried und Dinkelscherben gehören zu einer Kirchengemeinde."
+],
+"anschluesse": {
+"292-zusmarshausen": [
+"Zusmarshausen hat gut zweieinhalbmal so viele Einwohner wie Adelsried."
+],
+"293-dinkelscherben": [
+"Fläche: Dinkelscherben ist fast siebenmal so groß wie Adelsried.",
+"Evangelisch: Adelsried und Dinkelscherben gehören zu einer Kirchengemeinde."
+],
+"295-gessertshausen": [
+"Gessertshausen hat gut anderthalbmal so viele Einwohner wie Adelsried."
+],
+"296-neusaess": [
+"Neusäß hat neunmal so viele Einwohner wie Adelsried."
+],
+"297-gersthofen": [
+"Gersthofen hat neunmal so viele Einwohner wie Adelsried."
+],
+"112-augsburg": [
+"Kreisgrenze: Augsburg ist kreisfrei, Adelsried gehört zum Landkreis Augsburg.",
+"Augsburg hat rund 115-mal so viele Einwohner wie Adelsried."
+]
+},
+"ags": "09772111",
+"ortsteil": false,
+"km_vom_vorigen": 12.3
+},
+{
+"slug": "295-gessertshausen",
+"name": "Gessertshausen",
+"lat": 48.33333,
+"lon": 10.73333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gessertshausen",
+"steckbrief": "Gessertshausen hat rund 4.400 Einwohner und liegt 13 km westlich von Augsburg.",
+"frage": "Die Taufkirche Dietkirch steht heute an der Schmutter. Was berichtet die Ortsgeschichte über ihren ursprünglichen Standort?",
+"optionen": [
+"Sie stand ursprünglich tief im Wald.",
+"Sie stand ursprünglich auf einer Insel.",
+"Sie stand ursprünglich auf einer Bergkuppe.",
+"Sie stand ursprünglich hoch am Talhang."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele Kirchen stehen auf Anhöhen, sichtbar und sicher vor Hochwasser; das liegt nahe. Die Taufkirche Dietkirch aber lag nach der Ortsgeschichte ursprünglich auf einer Insel; heute steht sie an der Schmutter. Für die weite Umgebung war sie wichtig. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gessertshausen.de/unsere-gemeinde/geschichte-wappen/geschichte-von-gessertshausen",
+"faktencheck": "bestätigt",
+"id": "295-gessertshausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gessertshausen",
+"steckbrief": "Rund 4.400 Einwohner, 13 km westlich von Augsburg gelegen.",
+"frage": "Wie groß ist die Fläche der Gemeinde Gessertshausen?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 25 km²",
+"25 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Einwohnerzahl klingt nach einer kleinen Gemeinde mit wenig Fläche. Gessertshausen umfasst aber 41,35 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "295-gessertshausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gessertshausen",
+"steckbrief": "Die Gemeinde 13 km westlich von Augsburg zählt rund 4.400 Einwohner.",
+"frage": "Es geht um Wilhelm Brücklmeier, einst Pfarrer von St. Georg in Margertshausen. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Er wurde zum Priesterjubiläum Ehrenbürger der Gemeinde.",
+"Er übernahm später auch die Nachbarpfarrei Döpshofen.",
+"Er verließ Margertshausen schon nach wenigen Jahren."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dass ein Priesterjubiläum zur Ehrenbürgerschaft führt, klingt ungewöhnlich, stimmt aber. Wer später noch eine Nachbarpfarrei dazunimmt, geht kaum nach wenigen Jahren; daran ließ sich die Lüge erkennen. Wilhelm Brücklmeier war über Jahrzehnte Pfarrer von St. Georg in Margertshausen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.gessertshausen.de/unsere-gemeinde/ortsportraet/ehrenringtraeger-und-ehrenbuerger",
+"faktencheck": "bestätigt",
+"id": "295-gessertshausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gessertshausen",
+"steckbrief": "Gessertshausen, rund 4.400 Einwohner, liegt ländlich 13 km westlich von Augsburg.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die CSU, stärkste Partei in Gessertshausen, bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 40 %",
+"40 bis unter 45 %",
+"45 bis unter 50 %",
+"50 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land in Bayern erwartet man die CSU schnell nahe der absoluten Mehrheit. In Gessertshausen holte sie 39,2 Prozent der Zweitstimmen, gut doppelt so viel wie die zweitplatzierte AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "295-gessertshausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gessertshausen",
+"steckbrief": "Gessertshausen liegt 13 km westlich von Augsburg und hat rund 4.400 Einwohner.",
+"frage": "Max Strehle saß 31 Jahre im Landtag. Bei welchem Anlass machte ihn Gessertshausen 2022 zum Ehrenbürger?",
+"optionen": [
+"Er wurde beim 150. Feuerwehrjubiläum geehrt.",
+"Er wurde bei der 950-Jahr-Feier Deubachs geehrt.",
+"Er wurde beim 100. Gründungsfest des Musikvereins geehrt.",
+"Er wurde beim 75. Jubiläum des Sportvereins geehrt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Vereinsjubiläen sind ein häufiger Rahmen für Ehrungen; das liegt nahe. Gessertshausen machte Max Strehle aber bei der 950-Jahr-Feier in Deubach zum Ehrenbürger. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gessertshausen.de/unsere-gemeinde/ortsportraet/ehrenringtraeger-und-ehrenbuerger",
+"faktencheck": "unsicher",
+"id": "295-gessertshausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gessertshausen",
+"steckbrief": "Nur 13 km westlich von Augsburg leben in Gessertshausen rund 4.400 Menschen.",
+"frage": "Wie viele Einwohner leben in Gessertshausen durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 50",
+"50 bis unter 100",
+"100 bis unter 200",
+"200 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. So nah an Augsburg erwartet man dichte Besiedlung wie im Speckgürtel einer Großstadt. Gessertshausen kommt aber auf 106 Einwohner je Quadratkilometer; die Gemeinde hat viel Fläche für ihre Einwohnerzahl. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "295-gessertshausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gessertshausen",
+"steckbrief": "Die Gemeinde Gessertshausen, 13 km westlich von Augsburg, hat rund 4.400 Einwohner.",
+"frage": "Josef Kastner saß von 1978 bis 2008 im Gemeinderat von Gessertshausen. In welchem Gemeinderat saß er schon ab 1966?",
+"optionen": [
+"Er saß zuerst im Gemeinderat von Margertshausen.",
+"Er saß zuerst im Gemeinderat von Döpshofen.",
+"Er saß zuerst im Gemeinderat von Dietkirch.",
+"Er saß zuerst im Gemeinderat von Deubach."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Margertshausen, Döpshofen und Dietkirch liegen nahe, denn sie waren eigene Pfarreien. Josef Kastner saß aber zuerst im Gemeinderat von Deubach, danach in dem von Gessertshausen. Ehrenbürger wurde er für herausragendes bürgerschaftliches Engagement. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gessertshausen.de/unsere-gemeinde/ortsportraet/ehrenringtraeger-und-ehrenbuerger",
+"faktencheck": "bestätigt",
+"id": "295-gessertshausen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "294-adelsried",
+"anschluss": [
+"Fläche: Gessertshausen ist gut viermal so groß wie Adelsried.",
+"Bundestagswahl 2025: Wahlbeteiligung in Adelsried 87,4, in Gessertshausen 87,1 Prozent."
+],
+"anschluesse": {
+"292-zusmarshausen": [
+"Zusmarshausen hat anderthalbmal so viele Einwohner wie Gessertshausen."
+],
+"293-dinkelscherben": [
+"Dinkelscherben hat anderthalbmal so viele Einwohner wie Gessertshausen."
+],
+"294-adelsried": [
+"Fläche: Gessertshausen ist gut viermal so groß wie Adelsried.",
+"Bundestagswahl 2025: Wahlbeteiligung in Adelsried 87,4, in Gessertshausen 87,1 Prozent."
+],
+"296-neusaess": [
+"Neusäß hat gut fünfmal so viele Einwohner wie Gessertshausen."
+],
+"297-gersthofen": [
+"Gersthofen hat gut fünfmal so viele Einwohner wie Gessertshausen."
+],
+"112-augsburg": [
+"Kreisgrenze: Augsburg ist kreisfrei, Gessertshausen gehört zum Landkreis Augsburg.",
+"Augsburg hat rund 70-mal so viele Einwohner wie Gessertshausen."
+],
+"298-friedberg-bayern": [
+"Kreisgrenze: Friedberg gehört zum Landkreis Aichach-Friedberg, Gessertshausen zum Landkreis Augsburg.",
+"Friedberg hat siebenmal so viele Einwohner wie Gessertshausen."
+],
+"299-kissing": [
+"Kreisgrenze: Kissing gehört zum Landkreis Aichach-Friedberg, Gessertshausen zum Landkreis Augsburg.",
+"Kissing hat gut zweieinhalbmal so viele Einwohner wie Gessertshausen."
+]
+},
+"ags": "09772148",
+"ortsteil": false,
+"km_vom_vorigen": 9.3
+},
+{
+"slug": "296-neusaess",
+"name": "Neusäß",
+"lat": 48.4,
+"lon": 10.83333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neusäß",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 6 km nordwestlich von Augsburg.",
+"frage": "Das Neusässer Stadtwappen zeigt ein silbernes Doppel-R. Woher stammt dieses Zeichen?",
+"optionen": [
+"Es stammt aus dem Wappen der Familie Langenmantel.",
+"Es stammt aus dem Wappen der Familie Fugger.",
+"Es steht für den Pestheiligen Rochus.",
+"Es stammt aus dem Wappen der Stadt Regensburg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Fugger liegen nahe: Sie sind die berühmte Augsburger Kaufmannsfamilie, und das Schloss Hainhofen war einst ihr Sitz. Doch das Doppel-R kommt aus dem Wappen der Augsburger Patrizierfamilie Langenmantel. Auch die Taube stammt aus Augsburg: vom Heilig-Geist-Spital. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtwappen; www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes (Schloss Hainhofen)",
+"faktencheck": "korrigiert",
+"id": "296-neusaess/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Neusäß",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 6 km nordwestlich von Augsburg.",
+"frage": "Wie viele Einwohner leben in Neusäß im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. So nah an Augsburg erwartet man großstädtisch dichte Bebauung. Doch Neusäß besteht aus mehreren Stadtteilen, die einst eigene Orte waren. Auf einen Quadratkilometer kommen 913 Einwohner, Stand Ende 2025. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "296-neusaess/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Neusäß",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 6 km nordwestlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Westheims Loretokirche ahmt im Chor den Petersdom nach.",
+"Ein Augsburger Bankier kaufte einst das Liebertschlösschen.",
+"Ein Graf Fugger ließ die Hainhofer Antoniuskapelle bauen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Fugger als Bauherren klingen zu prominent, stimmen aber: Graf Anton Fugger ließ die Kapelle errichten. Gelogen war der Petersdom. Der Name Loreto verrät es: Der Chor bildet das Heilige Haus von Nazareth nach. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes",
+"faktencheck": "bestätigt",
+"id": "296-neusaess/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Neusäß",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 6 km nordwestlich von Augsburg.",
+"frage": "Bundestagswahl 2025: Welche Partei holte in Neusäß die zweitmeisten Zweitstimmen?",
+"optionen": [
+"Grüne",
+"SPD",
+"Die Linke",
+"AfD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. So nah an der Großstadt Augsburg tippt man leicht auf die Grünen. Sie kamen auf 13,6 Prozent, die AfD auf 15,9 Prozent. Weit vorn lag die CSU mit 40,1 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "296-neusaess/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neusäß",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 6 km nordwestlich von Augsburg.",
+"frage": "Der Bismarckturm steht im Neusässer Stadtteil Steppach. Wem gehört er heute?",
+"optionen": [
+"Er gehört der Stadt Augsburg.",
+"Er gehört der Stadt Neusäß.",
+"Er gehört dem Landkreis Augsburg.",
+"Er gehört dem Freistaat Bayern."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Turm im eigenen Stadtgebiet gehört meist der eigenen Stadt, daher liegt Neusäß nahe. Doch Eigentümerin ist die Stadt Augsburg; betreut wird der Turm vom Erholungsverein Augsburg. Errichtet wurde er zu Ehren des ehemaligen Reichskanzlers. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes; www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "296-neusaess/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Neusäß",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 6 km nordwestlich von Augsburg.",
+"frage": "Zu welchem Kreis gehört die Stadt Neusäß?",
+"optionen": [
+"Landkreis Aichach-Friedberg",
+"Landkreis Augsburg",
+"Kreisfreie Stadt Augsburg",
+"Landkreis Dillingen an der Donau"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. So nah an Augsburg wirkt Neusäß wie ein Stadtteil der Großstadt. Doch Neusäß ist eine eigene Stadt im Landkreis Augsburg, der nur den Namen der kreisfreien Stadt teilt. Regierungsbezirk ist Schwaben. Richtig war 2.",
+"quelle": "dewiki Infobox (Landkreis); Gemeinde-Webseite, www.neusaess.de/de/Leben-in-Neusaess/Unsere-Stadt/Zahlen-und-Fakten (Landkreis, Regierungsbezirk)",
+"faktencheck": "korrigiert",
+"id": "296-neusaess/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neusäß",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 6 km nordwestlich von Augsburg.",
+"frage": "1178 stellte eine Urkunde die Besitzungen der Stiftsherren von St. Moritz in Augsburg unter Schutz, darunter ein Anwesen in „Niusazen“. Wer stellte sie aus?",
+"optionen": [
+"Kaiser Friedrich Barbarossa stellte sie aus.",
+"Herzog Heinrich der Löwe stellte sie aus.",
+"Papst Alexander III. stellte sie aus.",
+"Papst Lucius III. stellte sie aus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Barbarossa liegt nahe: Er war Kaiser jener Zeit, und Kaiser vergaben solche Schutzbriefe oft. Doch es war eine Bulle, also eine feierliche Papsturkunde, von Papst Alexander III. Sie schützte den Besitz der Stiftsherren von St. Moritz, darunter das Anwesen in „Niusazen“. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "296-neusaess/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neusäß",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 6 km nordwestlich von Augsburg.",
+"frage": "Laut Stadtgeschichte lässt manches auf eine alemannische Ortsgründung Täfertingens im 6./7. Jahrhundert schließen. Worauf stützt sie das?",
+"optionen": [
+"Eine Urkunde eines Alemannenherzogs nennt den Ort.",
+"Grabfunde und die Namensendung „-ingen“ sprechen dafür.",
+"Reste einer alemannischen Fliehburg wurden ausgegraben.",
+"Eine römische Chronik erwähnt dort alemannische Siedler."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Urkunde klingt nach einem sicheren Beweis. Doch aus so früher Zeit fehlen schriftliche Nachrichten meist. Die Stadtgeschichte stützt sich auf Grabstätten und auf die Endung „-ingen“, die als typisch für alemannische Gründungen gilt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "296-neusaess/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "295-gessertshausen",
+"anschluss": [
+"Gessertshausen hat mehr Fläche, Neusäß gut fünfmal so viele Einwohner.",
+"Bundestagswahl 2025: Gessertshausen hatte höhere Wahlbeteiligung als Neusäß."
+],
+"anschluesse": {
+"292-zusmarshausen": [
+"Neusäß hat dreieinhalbmal so viele Einwohner wie Zusmarshausen.",
+"Zusmarshausen hat gut zweieinhalbmal so viel Fläche wie Neusäß, aber weniger Einwohner."
+],
+"293-dinkelscherben": [
+"Neusäß hat dreieinhalbmal so viele Einwohner wie Dinkelscherben.",
+"Dinkelscherben hat gut zweieinhalbmal so viel Fläche wie Neusäß, aber weniger Einwohner."
+],
+"294-adelsried": [
+"Neusäß hat neunmal so viele Einwohner wie Adelsried."
+],
+"295-gessertshausen": [
+"Gessertshausen hat mehr Fläche, Neusäß gut fünfmal so viele Einwohner.",
+"Bundestagswahl 2025: Gessertshausen hatte höhere Wahlbeteiligung als Neusäß."
+],
+"297-gersthofen": [
+"Gersthofen und Neusäß sind fast gleich groß: rund 23.000 und 23.000 Einwohner."
+],
+"112-augsburg": [
+"Kreisgrenze: Augsburg ist kreisfrei, Neusäß gehört zum Landkreis Augsburg.",
+"Augsburg hat dreizehnmal so viele Einwohner wie Neusäß."
+],
+"298-friedberg-bayern": [
+"Kreisgrenze: Friedberg gehört zum Landkreis Aichach-Friedberg, Neusäß zum Landkreis Augsburg.",
+"Friedberg hat rund 7.000 Einwohner mehr als Neusäß."
+],
+"299-kissing": [
+"Kreisgrenze: Kissing gehört zum Landkreis Aichach-Friedberg, Neusäß zum Landkreis Augsburg.",
+"Neusäß hat doppelt so viele Einwohner wie Kissing."
+],
+"300-mering": [
+"Kreisgrenze: Mering gehört zum Landkreis Aichach-Friedberg, Neusäß zum Landkreis Augsburg.",
+"Neusäß hat anderthalbmal so viele Einwohner wie Mering."
+],
+"301-dasing": [
+"Kreisgrenze: Dasing gehört zum Landkreis Aichach-Friedberg, Neusäß zum Landkreis Augsburg.",
+"Neusäß hat viermal so viele Einwohner wie Dasing."
+]
+},
+"ags": "09772184",
+"ortsteil": false,
+"km_vom_vorigen": 10.5
+},
+{
+"slug": "297-gersthofen",
+"name": "Gersthofen",
+"lat": 48.41667,
+"lon": 10.86667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gersthofen",
+"steckbrief": "Die Stadt mit rund 23.400 Einwohnern liegt 6 km nordwestlich von Augsburg.",
+"frage": "1931 startete der Schweizer Physiker Auguste Piccard in Gersthofen mit einem Ballon. Was hatte er vor?",
+"optionen": [
+"Er wollte Ballonpost über weite Strecken erproben.",
+"Er wollte einen Fallschirm aus großer Höhe testen.",
+"Er wollte möglichst lange ohne Landung fahren.",
+"Er wollte zum Forschen in die Stratosphäre aufsteigen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ballonfahrt klingt nach Rekordjagd über weite Strecken, darum liegt eine lange Dauerfahrt nahe. Piccard ging es aber um Forschung: Mit seinem Assistenten Paul Kipfer stieg er in die Stratosphäre auf, die Luftschicht über dem Wetter, und erreichte eine Höhe, die vor ihm niemand erreicht hatte. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gersthofen",
+"faktencheck": "bestätigt",
+"id": "297-gersthofen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gersthofen",
+"steckbrief": "Gersthofen hat rund 23.400 Einwohner und grenzt 6 km nordwestlich von Augsburg an die Großstadt.",
+"frage": "Wie viele Einwohner leben in Gersthofen auf einem Quadratkilometer?",
+"optionen": [
+"unter 800",
+"800 bis unter 1.200",
+"1.200 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Direkt neben Augsburg denkt man an dichte Bebauung wie in der Großstadt. Doch zum Stadtgebiet gehören auch vier Dörfer: Batzenhofen, Edenbergen, Hirblingen und Rettenbergen. So kommen auf einen Quadratkilometer nur 688 Einwohner. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "297-gersthofen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gersthofen",
+"steckbrief": "Die Stadt mit rund 23.400 Einwohnern liegt 6 km nordwestlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Wasserwerk Gersthofen gehört zum UNESCO-Welterbe.",
+"Das Wasserwerk Gersthofen ging erst nach dem Zweiten Weltkrieg in Betrieb.",
+"Batzenhofen und Hirblingen gehören heute zu Gersthofen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Wasserwerk als UNESCO-Welterbe klingt erfunden, ist aber wahr: Es gehört zum Augsburger Wassermanagement-System. Gelogen ist das Alter: Das Wasserwerk ging schon 1901 in Betrieb. Batzenhofen und Hirblingen sind tatsächlich Ortsteile von Gersthofen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, gersthofen.de/stadt/unsere-stadt/stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "297-gersthofen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gersthofen",
+"steckbrief": "Gersthofen ist eine Stadt mit rund 23.400 Einwohnern, 6 km nordwestlich von Augsburg.",
+"frage": "Wie hoch war in Gersthofen die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 78 %",
+"78 bis unter 84 %",
+"84 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer bei einer Stadt am Rand einer Großstadt an wenig Wahlinteresse denkt, tippt zu niedrig. Bei der Bundestagswahl 2025 gaben in Gersthofen 81,7 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Kraft wurde die CSU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "297-gersthofen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gersthofen",
+"steckbrief": "Die Stadt mit rund 23.400 Einwohnern liegt 6 km nordwestlich von Augsburg.",
+"frage": "Ab 1917 tat der Maler Paul Klee am Flugplatz Gersthofen Dienst. Welche Aufgabe hatte er dort?",
+"optionen": [
+"Er flog als Beobachter über die Front.",
+"Er kochte in der Küche der Kaserne.",
+"Er unterrichtete Rekruten im Morsen.",
+"Er war Schreiber des Kassenwarts."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Flugplatz im Ersten Weltkrieg lässt an Einsätze über der Front denken. Klee aber war Schreiber des Kassenwarts. Der Posten ersparte ihm den Fronteinsatz, und er konnte außerhalb der Kaserne malen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gersthofen",
+"faktencheck": "unsicher",
+"id": "297-gersthofen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Gersthofen",
+"steckbrief": "Gersthofen hat rund 23.400 Einwohner und liegt 6 km nordwestlich von Augsburg.",
+"frage": "Zu welchem Landkreis gehört Gersthofen?",
+"optionen": [
+"Landkreis Augsburg",
+"Landkreis Aichach-Friedberg",
+"Landkreis Dillingen an der Donau",
+"Landkreis Donau-Ries"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nördlich von Augsburg denkt man leicht an Donau-Ries oder Dillingen, östlich an Aichach-Friedberg. Gersthofen gehört aber zum Landkreis Augsburg. Der Kreis trägt den Namen der Großstadt, obwohl diese selbst nicht dazugehört. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "297-gersthofen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gersthofen",
+"steckbrief": "Die Stadt mit rund 23.400 Einwohnern liegt 6 km nordwestlich von Augsburg.",
+"frage": "1999 zahlte die Stadt Gersthofen jedem Einwohner 100 D-Mark aus. Warum?",
+"optionen": [
+"Sie glich damit den Lärm einer Großbaustelle aus.",
+"Sie hatte im Vorjahr einen Haushaltsüberschuss.",
+"Ein Gericht hatte zu hohe Gebühren beanstandet.",
+"Sie feierte damit die Einführung des Euro."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wenn eine Stadt Geld an alle verteilt, vermutet man eine Pflicht, etwa nach einem Urteil. Gersthofen hatte aber im Vorjahr einen Überschuss im Haushalt und gab einen Teil davon an die Bürger weiter. Das Landratsamt fand das gerade noch akzeptabel. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gersthofen",
+"faktencheck": "unsicher",
+"id": "297-gersthofen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gersthofen",
+"steckbrief": "Gersthofen zählt rund 23.400 Einwohner und liegt 6 km nordwestlich von Augsburg.",
+"frage": "1969 wurde Nogent-sur-Oise nördlich von Paris Partnerstadt von Gersthofen. Zu welchem Anlass?",
+"optionen": [
+"Man schloss sie zur Einweihung einer Lechbrücke.",
+"Man schloss sie bei einem großen Ballonfest.",
+"Man schloss sie zur Tausendjahrfeier Gersthofens.",
+"Man schloss sie nach einem gemeinsamen Jugendlager."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Ballonfest liegt nahe, denn Gersthofen hat ein Ballonmuseum. Anlass war aber die Tausendjahrfeier: 969 wird Gersthofen in einer Urkunde des Augsburger Bischofs Ulrich erstmals erwähnt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gersthofen",
+"faktencheck": "unsicher",
+"id": "297-gersthofen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„1854 riss man die alte Pfarrkirche St. Jakobus major bis auf den Turm ab. Im Fundament stieß man auf ältere Steine. Wovon?“ (die Optionen bleiben gleich) – RÜCKSEITE: Du hattest [Option] getippt. Unter einer Kirche vermutet man eher Mittelalterliches, etwa eine Burg. Doch im Fundament steckten Reste eines römischen Merkurheiligtums, darunter ein Weihestein, den ein Mann namens Senno dem Gott Merkur gestiftet hatte. Ob dort ein Tempel stand oder die Steine erst später hergebracht wurden, ist offen. Richtig war 1.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Unter einer Kirche vermutet man eher Mittelalterliches, etwa eine Burg. Doch die Kirche steht auf Resten eines römischen Heiligtums. Gestiftet hat es ein romanisierter Kelte namens Senno, gewidmet war es möglicherweise dem Gott Mercurius. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gersthofen",
+"faktencheck": "korrigiert",
+"id": "297-gersthofen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "296-neusaess",
+"anschluss": [
+"Einwohner: Gersthofen hat nur knapp 400 mehr als Neusäß.",
+"Bundestagswahl 2025: Die AfD war in Gersthofen stärker als in Neusäß."
+],
+"anschluesse": {
+"294-adelsried": [
+"Gersthofen hat neunmal so viele Einwohner wie Adelsried."
+],
+"295-gessertshausen": [
+"Gersthofen hat gut fünfmal so viele Einwohner wie Gessertshausen."
+],
+"296-neusaess": [
+"Einwohner: Gersthofen hat nur knapp 400 mehr als Neusäß.",
+"Bundestagswahl 2025: Die AfD war in Gersthofen stärker als in Neusäß."
+],
+"112-augsburg": [
+"Kreisgrenze: Augsburg ist kreisfrei, Gersthofen gehört zum Landkreis Augsburg.",
+"Augsburg hat dreizehnmal so viele Einwohner wie Gersthofen."
+],
+"298-friedberg-bayern": [
+"Kreisgrenze: Friedberg gehört zum Landkreis Aichach-Friedberg, Gersthofen zum Landkreis Augsburg.",
+"Friedberg hat rund 6.600 Einwohner mehr als Gersthofen."
+],
+"299-kissing": [
+"Kreisgrenze: Kissing gehört zum Landkreis Aichach-Friedberg, Gersthofen zum Landkreis Augsburg.",
+"Gersthofen hat doppelt so viele Einwohner wie Kissing."
+],
+"300-mering": [
+"Kreisgrenze: Mering gehört zum Landkreis Aichach-Friedberg, Gersthofen zum Landkreis Augsburg.",
+"Gersthofen hat anderthalbmal so viele Einwohner wie Mering."
+],
+"301-dasing": [
+"Kreisgrenze: Dasing gehört zum Landkreis Aichach-Friedberg, Gersthofen zum Landkreis Augsburg.",
+"Gersthofen hat viermal so viele Einwohner wie Dasing."
+]
+},
+"ags": "09772147",
+"ortsteil": false,
+"km_vom_vorigen": 3.1
 },
 {
 "slug": "112-augsburg",
@@ -32672,20 +40195,1167 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "111-burgau",
-"anschluss": [
-"Kennzeichen: In Burgau steht GZ am Auto, in Augsburg A.",
-"Einwohnerzahl: Augsburg hat gut 28-mal so viele wie Burgau."
-],
+"anschluss_von": "297-gersthofen",
+"anschluss": [],
 "anschluesse": {
-"111-burgau": [
-"Kennzeichen: In Burgau steht GZ am Auto, in Augsburg A.",
-"Einwohnerzahl: Augsburg hat gut 28-mal so viele wie Burgau."
+"294-adelsried": [
+"Kreisgrenze: Adelsried gehört zum Landkreis Augsburg, Augsburg ist kreisfrei.",
+"Augsburg hat rund 115-mal so viele Einwohner wie Adelsried."
+],
+"295-gessertshausen": [
+"Kreisgrenze: Gessertshausen gehört zum Landkreis Augsburg, Augsburg ist kreisfrei.",
+"Augsburg hat rund 70-mal so viele Einwohner wie Gessertshausen."
+],
+"296-neusaess": [
+"Kreisgrenze: Neusäß gehört zum Landkreis Augsburg, Augsburg ist kreisfrei.",
+"Augsburg hat dreizehnmal so viele Einwohner wie Neusäß."
+],
+"297-gersthofen": [
+"Kreisgrenze: Gersthofen gehört zum Landkreis Augsburg, Augsburg ist kreisfrei.",
+"Augsburg hat dreizehnmal so viele Einwohner wie Gersthofen."
+],
+"298-friedberg-bayern": [
+"Kreisgrenze: Friedberg gehört zum Landkreis Aichach-Friedberg, Augsburg ist kreisfrei.",
+"Augsburg hat zehnmal so viele Einwohner wie Friedberg."
+],
+"299-kissing": [
+"Kreisgrenze: Kissing gehört zum Landkreis Aichach-Friedberg, Augsburg ist kreisfrei.",
+"Augsburg hat rund 25-mal so viele Einwohner wie Kissing."
+],
+"300-mering": [
+"Kreisgrenze: Mering gehört zum Landkreis Aichach-Friedberg, Augsburg ist kreisfrei.",
+"Augsburg hat zwanzigmal so viele Einwohner wie Mering."
+],
+"301-dasing": [
+"Kreisgrenze: Dasing gehört zum Landkreis Aichach-Friedberg, Augsburg ist kreisfrei.",
+"Augsburg hat rund 50-mal so viele Einwohner wie Dasing."
+],
+"302-adelzhausen": [
+"Kreisgrenze: Adelzhausen gehört zum Landkreis Aichach-Friedberg, Augsburg ist kreisfrei.",
+"Augsburg hat rund 160-mal so viele Einwohner wie Adelzhausen."
+],
+"303-althegnenberg": [
+"Kreisgrenze: Althegnenberg gehört zum Landkreis Fürstenfeldbruck, Augsburg ist kreisfrei.",
+"Augsburg hat rund 145-mal so viele Einwohner wie Althegnenberg."
 ]
 },
 "ags": "09761000",
 "ortsteil": false,
-"km_vom_vorigen": 36.9
+"km_vom_vorigen": 5.8
+},
+{
+"slug": "298-friedberg-bayern",
+"name": "Friedberg",
+"lat": 48.35,
+"lon": 10.98333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedberg",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 7 km östlich von Augsburg.",
+"frage": "Die Herrgottsruhkirche ist eine Wallfahrtskirche. Worauf geht sie laut Stadtgeschichte zurück?",
+"optionen": [
+"Ein Hirtenkind soll hier Maria gesehen haben.",
+"Ein Pilger hatte ein Gelöbnis abgelegt.",
+"Ein Herzog stiftete sie nach einer gewonnenen Schlacht.",
+"Ein Gnadenbild wurde hier im Fluss angeschwemmt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Wallfahrtskirchen denkt man zuerst an Erscheinungen oder wundertätige Bilder. Die Herrgottsruhkirche geht laut Stadtgeschichte auf etwas anderes zurück: das Gelöbnis eines Friedberger Jerusalem-Pilgers. Ihr heutiges Rokoko-Gewand erhielt die Kirche später, unter anderem von Cosmas Damian Asam und Matthäus Günther. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.friedberg.de/politik-verwaltung/stadtportrait/geschichte-friedberg/",
+"faktencheck": "bestätigt",
+"id": "298-friedberg-bayern/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Friedberg",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 7 km östlich von Augsburg.",
+"frage": "In welchem Zeitraum wird Friedberg erstmals erwähnt?",
+"optionen": [
+"vor 1100",
+"1100 bis 1199",
+"1200 bis 1299",
+"ab 1300"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Burg und Stadtmauer lassen leicht ein höheres Alter vermuten. Erstmals erwähnt wird Friedberg aber 1264. Das betrifft nur den Beleg: Funde gibt es laut Stadtgeschichte schon aus der Vor- und Frühgeschichte. Richtig war 3.",
+"quelle": "Wikidata P1249",
+"faktencheck": "bestätigt",
+"id": "298-friedberg-bayern/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Friedberg",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 7 km östlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Burg Friedberg blieb nach einem Brand Ruine.",
+"Ein Kurfürst ließ im Friedberger Schloss Fayencen fertigen.",
+"Friedberger Uhrmacher firmierten zeitweise unter entstelltem Namen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Entstellte Namen klingen nach Erfindung, doch gegen ausländische Konkurrenz firmierten Friedberger Uhrmacher tatsächlich mit entstelltem Namen und falscher Ortsangabe. Fayencen, also bemalte Keramik, ließ Kurfürst Max III. Joseph im Schloss fertigen. Erfunden ist die Ruine: Nach dem Brand baute Jörg Stern die Burg als Vierflügelanlage neu auf. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.friedberg.de/politik-verwaltung/stadtportrait/geschichte-friedberg/",
+"faktencheck": "bestätigt",
+"id": "298-friedberg-bayern/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Friedberg",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 7 km östlich von Augsburg.",
+"frage": "Welche Partei holte in Friedberg bei der Bundestagswahl 2025 die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"GRÜNE",
+"SPD",
+"CSU"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. So nah an der Großstadt Augsburg liegen die Grünen als Nummer zwei nahe. In Friedberg kam aber hinter der CSU mit 43 Prozent die AfD mit 15,7 Prozent auf Platz zwei, vor Grünen mit 13,1 und SPD mit 10,8 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "298-friedberg-bayern/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedberg",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 7 km östlich von Augsburg.",
+"frage": "Eine Friedberger Kirche wirkt auf viele Besucher wie ein Fremdkörper. Wie entstand der heutige Bau? (RÜCKSEITE unverändert)",
+"optionen": [
+"Sie wurde nach Bombenschäden modern wiederaufgebaut.",
+"Sie wurde nach italienischen Vorbildern neu gebaut.",
+"Sie wurde Stein für Stein hierher versetzt.",
+"Sie wurde im Jugendstil neu errichtet."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Bau, der nicht ins Stadtbild passt, lässt an Kriegsschäden denken. Tatsächlich stürzte der Turm der alten gotischen Hallenkirche ein. Der Neubau entstand neuromanisch, also in romanischen Formen, nach italienischen Vorbildern – für viele Besucher ein Fremdkörper. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.friedberg.de/politik-verwaltung/stadtportrait/geschichte-friedberg/",
+"faktencheck": "korrigiert",
+"id": "298-friedberg-bayern/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Friedberg",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 7 km östlich von Augsburg.",
+"frage": "Welche dieser Städte ist eine Partnerstadt von Friedberg?",
+"optionen": [
+"Annecy in Frankreich",
+"Meran in Südtirol",
+"Chippenham in England",
+"Kufstein in Tirol"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Für eine bayerische Stadt liegt ein Partner in Tirol oder Südtirol nahe – und mit Völs am Schlern gibt es tatsächlich einen in Südtirol. Der englische Partner aber ist Chippenham. Dazu kommen Bressuire, La Crosse und ein Namensvetter: Friedberg. Richtig war 3.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "298-friedberg-bayern/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedberg",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 7 km östlich von Augsburg.",
+"frage": "Friedberg gehörte lange zu Oberbayern, ab 1944 zu Schwaben. Was entschied sich 1950?",
+"optionen": [
+"Der Landtag gliederte die Stadt wieder Oberbayern an.",
+"Eine Volksabstimmung brachte die Rückkehr nach Oberbayern.",
+"Eine geplante Volksabstimmung fand nie statt.",
+"Eine Volksabstimmung ergab eine Mehrheit für Schwaben."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer weiß, dass Friedberg lange oberbayerisch war, erwartet leicht eine Rückkehr nach Kriegsende. Doch die Zuordnung zu Schwaben, entstanden in der NS-Zeit, blieb: Bei der Volksabstimmung stimmte die Mehrheit für den Verbleib bei Schwaben. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.friedberg.de/politik-verwaltung/stadtportrait/geschichte-friedberg/",
+"faktencheck": "bestätigt",
+"id": "298-friedberg-bayern/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedberg",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 7 km östlich von Augsburg.",
+"frage": "In Friedberg steht eine Mariensäule, der später ein Brunnen beigefügt wurde. Worauf geht die Säule zurück?",
+"optionen": [
+"Sie erfüllt ein Gelübde aus einer Pestzeit.",
+"Sie dankt für das Ende des Dreißigjährigen Kriegs.",
+"Sie erinnert an die Verleihung des Stadtrechts.",
+"Sie dankt für die Rettung vor einem Hochwasser."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele Mariensäulen danken für überstandene Kriegsnot, und Friedberg litt im Dreißigjährigen Krieg schwer. Diese Säule aber erfüllt ein Gelübde, das in schwerer Zeit abgelegt wurde: während der Pest. Den Brunnen fügte man erst später hinzu. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.friedberg.de/politik-verwaltung/stadtportrait/geschichte-friedberg/",
+"faktencheck": "unsicher",
+"id": "298-friedberg-bayern/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedberg",
+"steckbrief": "Stadt mit rund 30.000 Einwohnern, 7 km östlich von Augsburg.",
+"frage": "Herzogin Christine von Lothringen hatte ihren Witwensitz auf der Burg Friedberg. Was wurde dadurch aus der Stadt?",
+"optionen": [
+"Die Stadt verarmte unter den Kosten ihrer Hofhaltung.",
+"Die Stadt wurde ein Ort klösterlicher Stille.",
+"Die Stadt wurde ein Mittelpunkt bayerischen Hoflebens.",
+"Die Stadt wurde vorübergehend Bayerns Hauptstadt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine prunk- und genusssüchtige Herzogin lässt an leere Kassen denken. Die Stadtgeschichte erzählt anderes: Mit Festen, Turnieren, Scheibenschießen und Schlittenfahrten wurde Friedberg ein Mittelpunkt des Hoflebens in Bayern, und ihre Hofhaltung brachte wirtschaftlichen Aufschwung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.friedberg.de/politik-verwaltung/stadtportrait/geschichte-friedberg/",
+"faktencheck": "bestätigt",
+"id": "298-friedberg-bayern/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "112-augsburg",
+"anschluss": [
+"Wahlbeteiligung 2025: In Friedberg 87,4 Prozent, in Augsburg 79,4 Prozent.",
+"Einwohner: Augsburg hat rund zehnmal so viele wie Friedberg."
+],
+"anschluesse": {
+"295-gessertshausen": [
+"Kreisgrenze: Gessertshausen gehört zum Landkreis Augsburg, Friedberg zum Landkreis Aichach-Friedberg.",
+"Friedberg hat siebenmal so viele Einwohner wie Gessertshausen."
+],
+"296-neusaess": [
+"Kreisgrenze: Neusäß gehört zum Landkreis Augsburg, Friedberg zum Landkreis Aichach-Friedberg.",
+"Friedberg hat rund 7.000 Einwohner mehr als Neusäß."
+],
+"297-gersthofen": [
+"Kreisgrenze: Gersthofen gehört zum Landkreis Augsburg, Friedberg zum Landkreis Aichach-Friedberg.",
+"Friedberg hat rund 6.600 Einwohner mehr als Gersthofen."
+],
+"112-augsburg": [
+"Wahlbeteiligung 2025: In Friedberg 87,4 Prozent, in Augsburg 79,4 Prozent.",
+"Einwohner: Augsburg hat rund zehnmal so viele wie Friedberg."
+],
+"299-kissing": [
+"Friedberg hat zweieinhalbmal so viele Einwohner wie Kissing."
+],
+"300-mering": [
+"Friedberg hat doppelt so viele Einwohner wie Mering."
+],
+"301-dasing": [
+"Friedberg hat fünfmal so viele Einwohner wie Dasing."
+],
+"302-adelzhausen": [
+"Friedberg hat sechzehnmal so viele Einwohner wie Adelzhausen."
+],
+"113-odelzhausen": [
+"Kreisgrenze: Odelzhausen gehört zum Landkreis Dachau, Friedberg zum Landkreis Aichach-Friedberg.",
+"Friedberg hat gut fünfmal so viele Einwohner wie Odelzhausen."
+],
+"303-althegnenberg": [
+"Kreisgrenze: Althegnenberg gehört zum Landkreis Fürstenfeldbruck, Friedberg zum Landkreis Aichach-Friedberg.",
+"Friedberg hat fast fünfzehnmal so viele Einwohner wie Althegnenberg."
+]
+},
+"ags": "09771130",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 6.7
+},
+{
+"slug": "299-kissing",
+"name": "Kissing",
+"lat": 48.3,
+"lon": 10.98333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kissing",
+"steckbrief": "Gemeinde mit rund 11.700 Einwohnern, 10 km südöstlich von Augsburg.",
+"frage": "Der „Bayerische Hiasl“ aus Kissing gilt als deutscher Robin Hood. Welchen Grund nennt die Ortsgeschichte dafür, dass er seine Stelle als Jagdgehilfe verlor?",
+"optionen": [
+"Er hatte einen Pater verspottet.",
+"Er war beim Wildern ertappt worden.",
+"Er hatte Geld aus der Schlosskasse genommen.",
+"Er hatte sich mit dem Förster geprügelt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wildern liegt nahe, denn der Hiasl ging als Wildschütze in die Geschichte ein. Seine Stelle als Jagdgehilfe auf Schloss Mergenthau verlor er laut Ortsgeschichte aber, weil er einen Pater als „Katzenschützen“ verspottet haben soll. Sicher belegt ist das nicht. Gefasst wurde er in einem Wirtshaus in Osterzell, hingerichtet in Dillingen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.kissing.de/leben-wohnen/ortsgeschichte/kissing-und-sein-beruehmter-und-umstrittener-held-der-deutsche-robin-hood/der-hiasl-sein-leben-seine-legende-fakten-selbstinszenierung-fremdstilisierung",
+"faktencheck": "korrigiert",
+"id": "299-kissing/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kissing",
+"steckbrief": "Gemeinde mit rund 11.700 Einwohnern, 10 km südöstlich von Augsburg.",
+"frage": "Wie groß ist das Gemeindegebiet von Kissing?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 30 km²",
+"30 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Gemeinde im Augsburger Umland denkt, erwartet viel Feld und Wald und damit eine große Fläche. Kissing misst aber nur 23,12 Quadratkilometer und ist entsprechend dicht besiedelt. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "299-kissing/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kissing",
+"steckbrief": "Gemeinde mit rund 11.700 Einwohnern, 10 km südöstlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kirche St. Stephan entstand als Wehrkirche.",
+"Kissing wurde in der Reformationszeit evangelisch.",
+"Die Burgstallkapelle ließen Jesuiten erbauen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Lüge klingt glaubhaft, weil sich die nahe Reichsstadt Augsburg schnell Luther zuwandte. In Kissing aber merkte man von der Reformation wenig, und seine Kirchen blieben von Verwüstungen wie in Augsburg verschont; das katholische Hochstift Augsburg und Bayern wurden Verbündete. Wahr sind die Wehrkirche St. Stephan mit Schießfenstern und die von Jesuiten gebaute Burgstallkapelle. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.kissing.de/leben-wohnen/ortsgeschichte/kirchen-in-kissing-die-augsburger-bischoefe-und-die-kirche-st-stephan und www.kissing.de/leben-wohnen/ortsgeschichte/augsburg-kissing-und-die-reformation",
+"faktencheck": "korrigiert",
+"id": "299-kissing/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kissing",
+"steckbrief": "Gemeinde mit rund 11.700 Einwohnern, 10 km südöstlich von Augsburg.",
+"frage": "Seit 1945 ziehen Gelübdeprozessionen zur Burgstallkapelle, jeweils am 13. von Mai bis Oktober. Worauf bezieht sich das Datum?",
+"optionen": [
+"Sie erinnern an die Erscheinungen von Fátima.",
+"Am 13. Mai marschierten die Amerikaner ein.",
+"Am 13. wurde die Burgstallkapelle geweiht.",
+"Am 13. wurde der Bayerische Hiasl hingerichtet."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Kriegsende liegt nahe: Pfarrer Josef Zimmermann brachte beim Einmarsch der Amerikaner die SS dazu, aus Kissing hinaus Stellung zu beziehen, und rief die Prozessionen ins Leben. Das Datum aber folgt Fátima, wo die Marienerscheinungen vom 13. Mai bis zum 13. Oktober erfolgten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.kissing.de/leben-wohnen/ortsgeschichte/das-kissing-der-jesuiten/das-grosse-erbe-der-jesuiten-in-kissing-die-burgstallkapelle",
+"faktencheck": "korrigiert",
+"id": "299-kissing/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kissing",
+"steckbrief": "Gemeinde mit rund 11.700 Einwohnern, 10 km südöstlich von Augsburg.",
+"frage": "Wie weit ist Kissing in Luftlinie von der Landeshauptstadt München entfernt?",
+"optionen": [
+"unter 30 km",
+"30 bis unter 60 km",
+"60 bis unter 90 km",
+"90 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Augsburg und München wirken wie zwei weit getrennte Großstädte, also tippt man schnell auf eine große Entfernung. Kissing liegt aber südöstlich von Augsburg und damit schon ein Stück Richtung München: In Luftlinie sind es 47 Kilometer bis zur Landeshauptstadt. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "299-kissing/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kissing",
+"steckbrief": "Gemeinde mit rund 11.700 Einwohnern, 10 km südöstlich von Augsburg.",
+"frage": "1447 wurde Hans Meuting Grundherr von Kissing. Wie kam er laut Ortsgeschichte an das Dorf?",
+"optionen": [
+"Er erbte das Dorf von seinem Vater.",
+"Er bekam das Dorf als Mitgift.",
+"Er kaufte das Dorf dem Bischof ab.",
+"Er eroberte das Dorf in einer Fehde."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Fehde liegt nahe, denn Bayern und das Hochstift Augsburg bekämpften sich lange, auch Kissing brannte dabei nieder. Meuting aber kaufte dem Bischof das Dorf samt Neuhaus und Mühlrecht ab, dazu wurde ihm das Dorfgericht auf Lebenszeit verliehen. Das Blutgericht lag bei Bayern. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kissing.de/leben-wohnen/ortsgeschichte/das-kissing-der-augsburger-bischoefe (dazu …/kissing-und-das-lehnssystem und …/kissing-zwischen-augsburg-und-baiern)",
+"faktencheck": "korrigiert",
+"id": "299-kissing/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kissing",
+"steckbrief": "Gemeinde mit rund 11.700 Einwohnern, 10 km südöstlich von Augsburg.",
+"frage": "1872 verschwand die alte Barock-Madonna aus der Burgstallkapelle in Kissing. Was war geschehen?",
+"optionen": [
+"Diebe stahlen die Figur aus der Kapelle.",
+"Sie wurde bei einer Restaurierung entfernt.",
+"Sie verbrannte nach einem Blitzeinschlag.",
+"Soldaten nahmen sie als Kriegsbeute mit."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Diebstahl liegt nahe, denn alte Heiligenfiguren verschwinden oft auf diesem Weg. Hier aber entfernte man die Madonna absichtlich, bei einer sogenannten purifizierenden Restaurierung, und ersetzte sie durch eine neue Figur. Später wurde die Kapelle vollständig restauriert, und die Fassade erhielt ihr ursprüngliches Ocker statt Blau zurück. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kissing.de/leben-wohnen/ortsgeschichte/das-kissing-der-jesuiten/das-grosse-erbe-der-jesuiten-in-kissing-die-burgstallkapelle",
+"faktencheck": "korrigiert",
+"id": "299-kissing/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "298-friedberg-bayern",
+"anschluss": [
+"1296 wurde Friedberg überfallen und Kissings Burg Mergenthau zerstört.",
+"Fläche: Friedberg ist mehr als dreimal so groß wie Kissing."
+],
+"anschluesse": {
+"295-gessertshausen": [
+"Kreisgrenze: Gessertshausen gehört zum Landkreis Augsburg, Kissing zum Landkreis Aichach-Friedberg.",
+"Kissing hat gut zweieinhalbmal so viele Einwohner wie Gessertshausen."
+],
+"296-neusaess": [
+"Kreisgrenze: Neusäß gehört zum Landkreis Augsburg, Kissing zum Landkreis Aichach-Friedberg.",
+"Neusäß hat doppelt so viele Einwohner wie Kissing."
+],
+"297-gersthofen": [
+"Kreisgrenze: Gersthofen gehört zum Landkreis Augsburg, Kissing zum Landkreis Aichach-Friedberg.",
+"Gersthofen hat doppelt so viele Einwohner wie Kissing."
+],
+"112-augsburg": [
+"Kreisgrenze: Augsburg ist kreisfrei, Kissing gehört zum Landkreis Aichach-Friedberg.",
+"Augsburg hat rund 25-mal so viele Einwohner wie Kissing."
+],
+"298-friedberg-bayern": [
+"1296 wurde Friedberg überfallen und Kissings Burg Mergenthau zerstört.",
+"Fläche: Friedberg ist mehr als dreimal so groß wie Kissing."
+],
+"300-mering": [
+"Mering hat rund 3.700 Einwohner mehr als Kissing."
+],
+"301-dasing": [
+"Kissing hat doppelt so viele Einwohner wie Dasing."
+],
+"302-adelzhausen": [
+"Kissing hat gut sechsmal so viele Einwohner wie Adelzhausen."
+],
+"113-odelzhausen": [
+"Kreisgrenze: Odelzhausen gehört zum Landkreis Dachau, Kissing zum Landkreis Aichach-Friedberg.",
+"Kissing hat doppelt so viele Einwohner wie Odelzhausen."
+],
+"303-althegnenberg": [
+"Kreisgrenze: Althegnenberg gehört zum Landkreis Fürstenfeldbruck, Kissing zum Landkreis Aichach-Friedberg.",
+"Kissing hat fast sechsmal so viele Einwohner wie Althegnenberg."
+],
+"304-mammendorf": [
+"Kreisgrenze: Mammendorf gehört zum Landkreis Fürstenfeldbruck, Kissing zum Landkreis Aichach-Friedberg.",
+"Kissing hat fast zweieinhalbmal so viele Einwohner wie Mammendorf."
+]
+},
+"ags": "09771142",
+"ortsteil": false,
+"km_vom_vorigen": 5.6
+},
+{
+"slug": "300-mering",
+"name": "Mering",
+"lat": 48.2625,
+"lon": 10.98444,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mering",
+"steckbrief": "Ein Markt mit rund 15.000 Einwohnern, 14 km südöstlich von Augsburg.",
+"frage": "Im Spanischen Erbfolgekrieg brannte Mering 1704 vollständig nieder. Wer verursachte das nach der Ortsgeschichte?",
+"optionen": [
+"Spanier brannten den Ort nieder.",
+"Schweden brannten den Ort nieder.",
+"Türken brannten den Ort nieder.",
+"Engländer und Holländer brannten den Ort nieder."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name des Kriegs lenkt den Blick auf Spanien, und bei Schweden denkt man an den Dreißigjährigen Krieg. Die Ortsgeschichte nennt aber England und Holland als Verursacher: Im Spanischen Erbfolgekrieg brannte Mering vollständig nieder. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, mering.de/unsere-marktgemeinde/mering-stellt-sich-vor",
+"faktencheck": "bestätigt",
+"id": "300-mering/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mering",
+"steckbrief": "Ein Markt mit rund 15.000 Einwohnern, 14 km südöstlich von Augsburg.",
+"frage": "Wie viele Einwohner kommen in Mering rechnerisch auf einen Quadratkilometer Gemeindegebiet?",
+"optionen": [
+"unter 700",
+"700 bis unter 1.200",
+"1.200 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rund 15.000 Einwohner so nah an Augsburg, das klingt nach dichter Vorstadt. Doch zum Gemeindegebiet gehören auch die Ortsteile Baierberg, Meringerzell, Reifersbrunn und St. Afra. Rechnerisch kommen so rund 571 Menschen auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Wikidata P1082 (Einwohner, Stand 2025-12-31) und Wikidata P2046 (Fläche)",
+"faktencheck": "bestätigt",
+"id": "300-mering/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Mering",
+"steckbrief": "Ein Markt mit rund 15.000 Einwohnern, 14 km südöstlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"1492 wurde Mering das Marktrecht verliehen.",
+"1898 wurde die Ammerseebahn über Mering eröffnet.",
+"Bis 1941 gehörte Mering zu Niederbayern."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist Niederbayern: Noch 1912 gehörte Mering zu Altbayern, im Bereich des heutigen Regierungsbezirks Oberbayern. 1941 wurde der Markt bei einer Neuordnung der Verwaltung Augsburg zugeteilt. Wer die Ammerseebahn nur am See vermutet, hält eher die zweite Aussage für erfunden. Die Aussagen zu Marktrecht und Bahn stimmen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, mering.de/unsere-marktgemeinde/mering-stellt-sich-vor",
+"faktencheck": "korrigiert",
+"id": "300-mering/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mering",
+"steckbrief": "Ein Markt mit rund 15.000 Einwohnern im Umland von Augsburg, 14 km südöstlich der Stadt.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Mering bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 35 %",
+"35 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In Bayern denkt man schnell an sehr hohe CSU-Ergebnisse, gerade auf dem Land. Mering liegt aber nah an Augsburg. Stärkste Partei wurde die CSU mit 36,7 Prozent der Zweitstimmen. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "300-mering/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mering",
+"steckbrief": "Ein Markt mit rund 15.000 Einwohnern, 14 km südöstlich von Augsburg.",
+"frage": "Das Meringer Wappen zeigt ein gestürztes Schwert. Was hat es mit diesem Schwert auf sich?",
+"optionen": [
+"Es erinnert an ein Gericht im Ort.",
+"Es erinnert an einen Ritter aus Mering.",
+"Es steht für eine Waffenschmiede im Ort.",
+"Es zeigt ein in Mering gefundenes Hunnenschwert."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein gestürztes Schwert, also mit der Spitze nach unten, lässt an Gericht und Urteil denken. Gemeint ist aber ein Hunnenschwert, ein Krummsäbel, den man in Mering gefunden hat. Daneben zeigt das Wappen die Zinnenmauer der einstigen Welfenburg. Verliehen hat es König Ludwig I. von Bayern. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, mering.de/unsere-marktgemeinde/mering-stellt-sich-vor",
+"faktencheck": "bestätigt",
+"id": "300-mering/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mering",
+"steckbrief": "Ein Markt mit rund 15.000 Einwohnern, 14 km südöstlich von Augsburg.",
+"frage": "Wie weit ist es von Mering in Luftlinie bis München, der Landeshauptstadt?",
+"optionen": [
+"unter 50 km",
+"50 bis unter 65 km",
+"65 bis unter 80 km",
+"80 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer Mering bei Augsburg verortet, schätzt München leicht weit weg. Doch Mering liegt südöstlich von Augsburg, also schon ein Stück in Richtung München. In Luftlinie sind es 46 Kilometer bis zur Landeshauptstadt. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "300-mering/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mering",
+"steckbrief": "Ein Markt mit rund 15.000 Einwohnern, 14 km südöstlich von Augsburg.",
+"frage": "Im Oktober 1911 stimmte Merings Gemeindeversammlung ab, ob der Ort ein Markt mit städtischer Verfassung werden sollte. Wie viele Stimmen waren dafür?",
+"optionen": [
+"112 von 205 Stimmen waren dafür.",
+"197 von 205 Stimmen waren dafür.",
+"64 von 205 Stimmen waren dafür.",
+"Alle 205 Stimmen waren dafür."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein neuer Rang für den Ort klingt nach Streit, also liegt ein knappes Ergebnis nahe. Doch die Gemeindeversammlung war fast einig: 197 von 205 Stimmen waren dafür. Das Königliche Staatsministerium des Innern entschied, und Mering wurde Markt mit städtischer Verfassung, ein Markt, der wie eine Stadt verwaltet wird. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, mering.de/unsere-marktgemeinde/mering-stellt-sich-vor",
+"faktencheck": "bestätigt",
+"id": "300-mering/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mering",
+"steckbrief": "Ein Markt mit rund 15.000 Einwohnern, 14 km südöstlich von Augsburg.",
+"frage": "Mering ist nach heutigem Wissen erstmals 1021 schriftlich belegt. Wer erwähnte den Ort damals nach der Ortsgeschichte?",
+"optionen": [
+"Herzog Heinrich der Löwe erwähnte den Ort.",
+"Kaiser Otto der Große erwähnte den Ort.",
+"Kaiser Heinrich II. erwähnte den Ort.",
+"Kaiser Konrad II. erwähnte den Ort."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Umland von Augsburg denkt man schnell an Otto den Großen und die Lechfeldschlacht. Otto starb aber schon 973, Heinrich der Löwe lebte erst im 12. Jahrhundert, und Konrad II. wurde erst 1024 König. Die erste bekannte schriftliche Erwähnung Merings steht in einer Urkunde Kaiser Heinrichs II. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, mering.de/unsere-marktgemeinde/mering-stellt-sich-vor",
+"faktencheck": "korrigiert",
+"id": "300-mering/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mering",
+"steckbrief": "Ein Markt mit rund 15.000 Einwohnern, 14 km südöstlich von Augsburg.",
+"frage": "Die Gemeinde zählt die Familie Luidl aus Mering zu den besonders bedeutsamen Themen der Ortsgeschichte. Worin bestand ihr Handwerk?",
+"optionen": [
+"Die Luidls waren Bildhauer des Barock.",
+"Die Luidls waren Glockengießer des Barock.",
+"Die Luidls waren Orgelbauer des Barock.",
+"Die Luidls waren Goldschmiede des Barock."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Barock heißt Kirchen, und in Kirchen hängen Glocken und stehen Orgeln, das liegt nahe. Die Luidls aber waren eine Bildhauerfamilie des Barock aus Mering. Die Gemeinde zählt sie zu den für Merings Geschichte besonders bedeutsamen Themen ihres Heimatmuseums. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, mering.de/unsere-marktgemeinde/einrichtungen/i297-heimatmuseum",
+"faktencheck": "korrigiert",
+"id": "300-mering/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "299-kissing",
+"anschluss": [
+"Einwohner: Mering zählt gut 15.300, Kissing knapp 11.700.",
+"Bundestagswahl 2025: Grüne in Mering 14,7, in Kissing 11,3 Prozent."
+],
+"anschluesse": {
+"296-neusaess": [
+"Kreisgrenze: Neusäß gehört zum Landkreis Augsburg, Mering zum Landkreis Aichach-Friedberg.",
+"Neusäß hat anderthalbmal so viele Einwohner wie Mering."
+],
+"297-gersthofen": [
+"Kreisgrenze: Gersthofen gehört zum Landkreis Augsburg, Mering zum Landkreis Aichach-Friedberg.",
+"Gersthofen hat anderthalbmal so viele Einwohner wie Mering."
+],
+"112-augsburg": [
+"Kreisgrenze: Augsburg ist kreisfrei, Mering gehört zum Landkreis Aichach-Friedberg.",
+"Augsburg hat zwanzigmal so viele Einwohner wie Mering."
+],
+"298-friedberg-bayern": [
+"Friedberg hat doppelt so viele Einwohner wie Mering."
+],
+"299-kissing": [
+"Einwohner: Mering zählt gut 15.300, Kissing knapp 11.700.",
+"Bundestagswahl 2025: Grüne in Mering 14,7, in Kissing 11,3 Prozent."
+],
+"301-dasing": [
+"Mering hat gut zweieinhalbmal so viele Einwohner wie Dasing."
+],
+"302-adelzhausen": [
+"Mering hat achtmal so viele Einwohner wie Adelzhausen."
+],
+"113-odelzhausen": [
+"Kreisgrenze: Odelzhausen gehört zum Landkreis Dachau, Mering zum Landkreis Aichach-Friedberg.",
+"Mering hat gut zweieinhalbmal so viele Einwohner wie Odelzhausen."
+],
+"303-althegnenberg": [
+"Kreisgrenze: Althegnenberg gehört zum Landkreis Fürstenfeldbruck, Mering zum Landkreis Aichach-Friedberg.",
+"Mering hat gut siebenmal so viele Einwohner wie Althegnenberg."
+],
+"304-mammendorf": [
+"Kreisgrenze: Mammendorf gehört zum Landkreis Fürstenfeldbruck, Mering zum Landkreis Aichach-Friedberg.",
+"Mering hat dreimal so viele Einwohner wie Mammendorf."
+]
+},
+"ags": "09771146",
+"ortsteil": false,
+"km_vom_vorigen": 4.2
+},
+{
+"slug": "301-dasing",
+"name": "Dasing",
+"lat": 48.38361,
+"lon": 11.04833,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dasing",
+"steckbrief": "Gemeinde mit rund 5.800 Einwohnern, 11 km östlich von Augsburg.",
+"frage": "Im Jahr 828 wurde eine Schenkung zu „Tegisinga“, dem heutigen Dasing, an Maria zu Freising erneuert. Wie wurde sie laut Ortsgeschichte bestätigt?",
+"optionen": [
+"Man bestätigte sie mit einem Handschlag.",
+"Man bestätigte sie mit einem Kniefall.",
+"Man bestätigte sie durch Ohrenzupfen.",
+"Man bestätigte sie mit einem Kuss."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Handschlag liegt nahe, er besiegelt bis heute Geschäfte. Die Ortsgeschichte nennt aber eine andere Geste: Die Schenkung an Maria zu Freising wurde „per aures trakti“ bestätigt, durch Ohrenzupfen. Das war früher auch ein Zeichen zur Begrüßung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.dasing.de/unsere-gemeinde/kennenlernen/geschichte-wappen",
+"faktencheck": "korrigiert",
+"id": "301-dasing/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dasing",
+"steckbrief": "Gemeinde mit rund 5.800 Einwohnern, 11 km östlich von Augsburg.",
+"frage": "Wie viele Einwohner kommen in Dasing auf einen Quadratkilometer Gemeindefläche?",
+"optionen": [
+"unter 50",
+"50 bis unter 90",
+"90 bis unter 130",
+"130 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer sich ein Dorf zwischen Feldern vorstellt, schätzt eher niedrig. Rechnet man die Einwohner auf die ganze Gemeindefläche um, kommen in Dasing 143 Menschen auf einen Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "301-dasing/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Dasing",
+"steckbrief": "Gemeinde mit rund 5.800 Einwohnern, 11 km östlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Dasings Wappenrauten stammen von den Herren von Massenhausen.",
+"Durchziehende französische Soldaten plünderten das Dorf mehrmals.",
+"Große Bauernhöfe breiteten sich wie schutzsuchend um den Hang der Martinskirche aus."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Herren von Massenhausen liegen nahe, denn ihre Parte und ihre Sterne stehen tatsächlich im Wappen. Die blauen Rauten aber weisen auf die Wittelsbacher hin, die in Taiting, Rieden und Laimering früh reichen Grundbesitz hatten. Zugleich stehen sie für die fünf Orte Dasing, Wessiszell, Taiting, Rieden und Laimering. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.dasing.de/unsere-gemeinde/kennenlernen/geschichte-wappen",
+"faktencheck": "korrigiert",
+"id": "301-dasing/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Dasing",
+"steckbrief": "Gemeinde mit rund 5.800 Einwohnern, 11 km östlich von Augsburg.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Dasing nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"AfD",
+"SPD",
+"FREIE WÄHLER"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Bayern liegen Freie Wähler oder SPD auf Platz zwei nahe. In Dasing kam aber die AfD mit 20,1 Prozent hinter die CSU mit 44,7 Prozent. Grüne und SPD blieben unter neun Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "301-dasing/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dasing",
+"steckbrief": "Gemeinde mit rund 5.800 Einwohnern, 11 km östlich von Augsburg.",
+"frage": "Worauf geht der Ortsname Dasing laut Gemeindegeschichte zurück?",
+"optionen": [
+"Der Name geht auf ein Tier zurück.",
+"Der Name geht auf ein Gewässer zurück.",
+"Der Name geht auf einen Personennamen zurück.",
+"Der Name geht auf ein Bauwerk zurück."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Beim Klang von „Das“ denkt man schnell an den Dachs. Doch der Name bedeutet „Siedlung der Leute des Tagiso“. Frühere Formen lauteten Tegesingen, Täsingen, Tesingen und Däsing. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.dasing.de/unsere-gemeinde/kennenlernen/geschichte-wappen",
+"faktencheck": "bestätigt",
+"id": "301-dasing/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dasing",
+"steckbrief": "Gemeinde mit rund 5.800 Einwohnern, 11 km östlich von Augsburg.",
+"frage": "Wie groß ist das Gemeindegebiet von Dasing?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 35 km²",
+"35 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für eine Gemeinde dieser Größe schätzt man eher wenig Fläche. Doch zur Gemeinde gehören neben Kirchdörfern auch Weiler und Einöden. Zusammen sind es 40,83 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "301-dasing/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dasing",
+"steckbrief": "Gemeinde mit rund 5.800 Einwohnern, 11 km östlich von Augsburg.",
+"frage": "Auf den Höhen von St. Franziskus stand einst ein prächtiges Schloss. Was geschah 1632 mit ihm?",
+"optionen": [
+"Es brannte beim Ansturm feindlicher Truppen nieder.",
+"Ein Blitzschlag setzte es in Brand.",
+"Ein Feuer in der Schlossküche zerstörte es.",
+"Ein Erdrutsch am Hang brachte es zum Einsturz."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Blitz liegt für ein Schloss auf der Höhe nahe. Doch beim Ansturm der Schweden ging das prächtige Schloss, das das Paartal beherrschte, in Flammen auf. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.dasing.de/unsere-gemeinde/kennenlernen/geschichte-wappen",
+"faktencheck": "bestätigt",
+"id": "301-dasing/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dasing",
+"steckbrief": "Gemeinde mit rund 5.800 Einwohnern, 11 km östlich von Augsburg.",
+"frage": "Das Heimatkundliche Museum Dasing zeigt alte Landmaschinen und bäuerliche Trachten. Wozu diente sein Gebäude, bevor das Museum einzog?",
+"optionen": [
+"Es war ein Schulhaus.",
+"Es war ein Lagerhaus.",
+"Es war eine Brauerei.",
+"Es war der Pfarrhof."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Schulhaus liegt nahe, zumal das Museum ein altes Schulzimmer zeigt. Vorher war das Gebäude aber das Raiffeisen-Lagerhaus. Heute stehen dort alte landwirtschaftliche Maschinen, bäuerliche Trachten wie das „Dasinger Gwand“, eine alte Küche und Fotos aus dem Dorfleben. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.dasing.de/leben-erleben/freizeit-kultur/heimatkundliches-museum",
+"faktencheck": "korrigiert",
+"id": "301-dasing/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "300-mering",
+"anschluss": [
+"Fläche: Mering hat mehr Einwohner als Dasing, aber weniger Fläche.",
+"Bundestagswahl 2025: CSU in Dasing 44,7 Prozent, in Mering 36,7."
+],
+"anschluesse": {
+"296-neusaess": [
+"Kreisgrenze: Neusäß gehört zum Landkreis Augsburg, Dasing zum Landkreis Aichach-Friedberg.",
+"Neusäß hat viermal so viele Einwohner wie Dasing."
+],
+"297-gersthofen": [
+"Kreisgrenze: Gersthofen gehört zum Landkreis Augsburg, Dasing zum Landkreis Aichach-Friedberg.",
+"Gersthofen hat viermal so viele Einwohner wie Dasing."
+],
+"112-augsburg": [
+"Kreisgrenze: Augsburg ist kreisfrei, Dasing gehört zum Landkreis Aichach-Friedberg.",
+"Augsburg hat rund 50-mal so viele Einwohner wie Dasing."
+],
+"298-friedberg-bayern": [
+"Friedberg hat fünfmal so viele Einwohner wie Dasing."
+],
+"299-kissing": [
+"Kissing hat doppelt so viele Einwohner wie Dasing."
+],
+"300-mering": [
+"Fläche: Mering hat mehr Einwohner als Dasing, aber weniger Fläche.",
+"Bundestagswahl 2025: CSU in Dasing 44,7 Prozent, in Mering 36,7."
+],
+"302-adelzhausen": [
+"Dasing hat gut dreimal so viele Einwohner wie Adelzhausen."
+],
+"113-odelzhausen": [
+"Kreisgrenze: Odelzhausen gehört zum Landkreis Dachau, Dasing zum Landkreis Aichach-Friedberg.",
+"Odelzhausen und Dasing sind fast gleich groß: rund 5.700 und 5.800 Einwohner."
+],
+"303-althegnenberg": [
+"Kreisgrenze: Althegnenberg gehört zum Landkreis Fürstenfeldbruck, Dasing zum Landkreis Aichach-Friedberg.",
+"Dasing hat fast dreimal so viele Einwohner wie Althegnenberg."
+],
+"306-sulzemoos": [
+"Kreisgrenze: Sulzemoos gehört zum Landkreis Dachau, Dasing zum Landkreis Aichach-Friedberg.",
+"Dasing hat doppelt so viele Einwohner wie Sulzemoos."
+]
+},
+"ags": "09771122",
+"ortsteil": false,
+"km_vom_vorigen": 14.3
+},
+{
+"slug": "302-adelzhausen",
+"name": "Adelzhausen",
+"lat": 48.35,
+"lon": 11.13333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Adelzhausen",
+"steckbrief": "Rund 1.900 Einwohner, 18 km östlich von Augsburg.",
+"frage": "Der Ortsgründer Adalhelm verschenkte einst seinen Besitz samt Kirche. An wen?",
+"optionen": [
+"Er schenkte ihn dem Bistum Augsburg.",
+"Er schenkte ihn dem Bistum Freising.",
+"Er schenkte ihn dem Bistum Regensburg.",
+"Er schenkte ihn dem Bistum Salzburg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Augsburg liegt viel näher, darum tippen viele auf das dortige Bistum. Doch Adalhelm schenkte seinen Besitz samt Kirche dem Bistum Freising. Genannt wird der Ort dabei Adalhelmshusir. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen",
+"faktencheck": "bestätigt",
+"id": "302-adelzhausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Adelzhausen",
+"steckbrief": "Gemeinde im Landkreis Aichach-Friedberg, 18 km östlich von Augsburg.",
+"frage": "Wie viele Einwohner hat die Gemeinde Adelzhausen?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 bis unter 2.500",
+"2.500 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Gemeinde mit Weilern und Einöden wirkt klein. Doch Ende 2025 zählte sie 1.875 Einwohner, verteilt auf mehrere Ortsteile wie Heretshausen und Irschenhofen. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "302-adelzhausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Adelzhausen",
+"steckbrief": "Rund 1.900 Einwohner, 18 km östlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Heretshausen musste einst eine wichtige Straße beschützen.",
+"Das Wappen-Mühleisen stammt von den Herren von Adelzhausen.",
+"Familie Eisenreich besaß einst reichen Grundbesitz im Gemeindegebiet."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Herren von Adelzhausen tragen den Ortsnamen, darum liegt nahe, dass das ganze Wappen von ihnen stammt. Doch von ihnen kommt nur der halbe silberne Adler. Das Mühleisen stammt aus dem Wappen der Familie Eisenreich. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen",
+"faktencheck": "korrigiert",
+"id": "302-adelzhausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Adelzhausen",
+"steckbrief": "Rund 1.900 Einwohner im Landkreis Aichach-Friedberg, 18 km östlich von Augsburg.",
+"frage": "Wie hoch war die Wahlbeteiligung in Adelzhausen bei der Bundestagswahl 2025?",
+"optionen": [
+"90 % und mehr",
+"85 bis unter 90 %",
+"80 bis unter 85 %",
+"unter 80 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Über neunzig Prozent wirken wie eine Ausnahme, deshalb liegt ein mittlerer Wert nahe. Doch bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Adelzhausen bei 91,3 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "302-adelzhausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Adelzhausen",
+"steckbrief": "Rund 1.900 Einwohner, 18 km östlich von Augsburg.",
+"frage": "Die Pfarrkirche St. Elisabeth steht heute mitten im Dorf. Wie kam es dazu?",
+"optionen": [
+"Sie wurde Stein für Stein dorthin versetzt.",
+"Wohnbauten und Schule wuchsen um sie herum.",
+"Das Dorf wurde von Anfang an rund um sie angelegt.",
+"Man errichtete sie neu in der Dorfmitte."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Kirche mitten im Dorf wirkt, als habe sie schon immer dort gestanden oder sei dort neu gebaut worden. Doch St. Elisabeth stand lange auf einer kleinen Anhöhe am nördlichen Ortsrand. Erst Wohnbauten und die Schule rückten sie in den Mittelpunkt. Sie macht einen burgartigen Eindruck. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen (Neuer Negativnachweis 3: Weg (a). Nach 007 stand die Kirche lange am nördlichen Ortsrand, also nicht in der Mitte eines um sie angelegten Dorfs.)",
+"faktencheck": "korrigiert",
+"id": "302-adelzhausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Adelzhausen",
+"steckbrief": "Rund 1.900 Einwohner, 18 km östlich von Augsburg.",
+"frage": "Wie viele Einwohner kommen in Adelzhausen auf einen Quadratkilometer?",
+"optionen": [
+"unter 50",
+"50 bis unter 100",
+"100 bis unter 150",
+"150 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf auf dem Land klingt nach viel Platz und wenigen Menschen. Doch Ende 2025 lebten rund 1.900 Einwohner auf knapp 17 Quadratkilometern, das ergibt 111 je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "302-adelzhausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Adelzhausen",
+"steckbrief": "Rund 1.900 Einwohner, 18 km östlich von Augsburg.",
+"frage": "Auf einer alten Handelsroute über Adelzhausen trieb man einst ungarische Schlachtochsen nach Augsburg. Bis zu wie viele waren es im Jahr?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 3.000",
+"3.000 bis unter 6.000",
+"6.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Fußmarsch aus Ungarn bis nach Augsburg klingt nach kleinen Herden. Doch das Fleisch ungarischer Ochsen galt als Delikatesse. Bis zu 7.000 Tiere im Jahr wurden auf diesem Weg nach Augsburg getrieben. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen",
+"faktencheck": "korrigiert",
+"id": "302-adelzhausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Adelzhausen",
+"steckbrief": "Rund 1.900 Einwohner, 18 km östlich von Augsburg.",
+"frage": "Worauf geht der heutige Ort Adelzhausen laut Ortsgeschichte zurück?",
+"optionen": [
+"Auf eine Burg des örtlichen Adels.",
+"Auf einen Hof aus früher Zeit.",
+"Auf eine Mühle am Dorfbach.",
+"Auf ein Jagdschloss der Herzöge."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Adel“ im Ortsnamen und ein alter Burgstall lassen an eine Burg denken. Doch die Burg der Adelzhauser entstand vermutlich viel später, zu sehen ist von ihr nichts mehr. Der Ort geht auf einen Hof zurück, den Sedelhof. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen",
+"faktencheck": "bestätigt",
+"id": "302-adelzhausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Adelzhausen",
+"steckbrief": "Rund 1.900 Einwohner, 18 km östlich von Augsburg.",
+"frage": "Adelzhausen ist laut Gemeinde der älteste urkundlich belegte Ort im Landkreis Aichach-Friedberg. Aus welchem Jahrhundert stammt der erste Beleg?",
+"optionen": [
+"Der erste Beleg stammt aus dem 8. Jahrhundert.",
+"Der erste Beleg stammt aus dem 10. Jahrhundert.",
+"Der erste Beleg stammt aus dem 12. Jahrhundert.",
+"Der erste Beleg stammt aus dem 14. Jahrhundert."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele Dörfer tauchen erst im Hochmittelalter in Urkunden auf, darum liegt ein späteres Jahrhundert nahe. Adelzhausen wird aber schon 782 erstmals erwähnt, laut Gemeinde früher als jeder andere Ort im Landkreis. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.adelzhausen.de/unsere-gemeinde/kennenlernen/geschichte-und-wappen",
+"faktencheck": "unsicher",
+"id": "302-adelzhausen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "301-dasing",
+"anschluss": [
+"Adelzhausen gehört zur Verwaltungsgemeinschaft Dasing.",
+"Einwohner: Dasing hat gut dreimal so viele wie Adelzhausen."
+],
+"anschluesse": {
+"112-augsburg": [
+"Kreisgrenze: Augsburg ist kreisfrei, Adelzhausen gehört zum Landkreis Aichach-Friedberg.",
+"Augsburg hat rund 160-mal so viele Einwohner wie Adelzhausen."
+],
+"298-friedberg-bayern": [
+"Friedberg hat sechzehnmal so viele Einwohner wie Adelzhausen."
+],
+"299-kissing": [
+"Kissing hat gut sechsmal so viele Einwohner wie Adelzhausen."
+],
+"300-mering": [
+"Mering hat achtmal so viele Einwohner wie Adelzhausen."
+],
+"301-dasing": [
+"Adelzhausen gehört zur Verwaltungsgemeinschaft Dasing.",
+"Einwohner: Dasing hat gut dreimal so viele wie Adelzhausen."
+],
+"113-odelzhausen": [
+"Kreisgrenze: Odelzhausen gehört zum Landkreis Dachau, Adelzhausen zum Landkreis Aichach-Friedberg.",
+"Odelzhausen hat dreimal so viele Einwohner wie Adelzhausen."
+],
+"303-althegnenberg": [
+"Kreisgrenze: Althegnenberg gehört zum Landkreis Fürstenfeldbruck, Adelzhausen zum Landkreis Aichach-Friedberg.",
+"Althegnenberg hat rund 200 Einwohner mehr als Adelzhausen."
+],
+"304-mammendorf": [
+"Kreisgrenze: Mammendorf gehört zum Landkreis Fürstenfeldbruck, Adelzhausen zum Landkreis Aichach-Friedberg.",
+"Mammendorf hat gut zweieinhalbmal so viele Einwohner wie Adelzhausen."
+],
+"305-maisach": [
+"Kreisgrenze: Maisach gehört zum Landkreis Fürstenfeldbruck, Adelzhausen zum Landkreis Aichach-Friedberg.",
+"Maisach hat gut siebenmal so viele Einwohner wie Adelzhausen."
+],
+"306-sulzemoos": [
+"Kreisgrenze: Sulzemoos gehört zum Landkreis Dachau, Adelzhausen zum Landkreis Aichach-Friedberg.",
+"Sulzemoos hat anderthalbmal so viele Einwohner wie Adelzhausen."
+]
+},
+"ags": "09771111",
+"ortsteil": false,
+"km_vom_vorigen": 7.3
 },
 {
 "slug": "113-odelzhausen",
@@ -32873,24 +41543,1018 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "112-augsburg",
-"anschluss": [
-"Kennzeichen: In Odelzhausen steht DAH am Auto, in Augsburg A.",
-"Einwohner: Augsburg hat gut fünfzigmal so viele wie Odelzhausen."
-],
+"anschluss_von": "302-adelzhausen",
+"anschluss": [],
 "anschluesse": {
+"298-friedberg-bayern": [
+"Kreisgrenze: Friedberg gehört zum Landkreis Aichach-Friedberg, Odelzhausen zum Landkreis Dachau.",
+"Friedberg hat gut fünfmal so viele Einwohner wie Odelzhausen."
+],
+"299-kissing": [
+"Kreisgrenze: Kissing gehört zum Landkreis Aichach-Friedberg, Odelzhausen zum Landkreis Dachau.",
+"Kissing hat doppelt so viele Einwohner wie Odelzhausen."
+],
+"300-mering": [
+"Kreisgrenze: Mering gehört zum Landkreis Aichach-Friedberg, Odelzhausen zum Landkreis Dachau.",
+"Mering hat gut zweieinhalbmal so viele Einwohner wie Odelzhausen."
+],
+"301-dasing": [
+"Kreisgrenze: Dasing gehört zum Landkreis Aichach-Friedberg, Odelzhausen zum Landkreis Dachau.",
+"Dasing und Odelzhausen sind fast gleich groß: rund 5.800 und 5.700 Einwohner."
+],
+"302-adelzhausen": [
+"Kreisgrenze: Adelzhausen gehört zum Landkreis Aichach-Friedberg, Odelzhausen zum Landkreis Dachau.",
+"Odelzhausen hat dreimal so viele Einwohner wie Adelzhausen."
+],
+"303-althegnenberg": [
+"Kreisgrenze: Althegnenberg gehört zum Landkreis Fürstenfeldbruck, Odelzhausen zum Landkreis Dachau.",
+"Odelzhausen hat fast dreimal so viele Einwohner wie Althegnenberg."
+],
+"304-mammendorf": [
+"Kreisgrenze: Mammendorf gehört zum Landkreis Fürstenfeldbruck, Odelzhausen zum Landkreis Dachau.",
+"Odelzhausen hat rund 700 Einwohner mehr als Mammendorf."
+],
+"305-maisach": [
+"Kreisgrenze: Maisach gehört zum Landkreis Fürstenfeldbruck, Odelzhausen zum Landkreis Dachau.",
+"Maisach hat zweieinhalbmal so viele Einwohner wie Odelzhausen."
+],
+"306-sulzemoos": [
+"Odelzhausen hat doppelt so viele Einwohner wie Sulzemoos."
+],
 "114-olching": [
 "Kreisgrenze: Olching gehört zum Landkreis Fürstenfeldbruck, Odelzhausen zum Landkreis Dachau.",
 "Olching hat fast fünfmal so viele Einwohner wie Odelzhausen."
 ],
-"112-augsburg": [
-"Kennzeichen: In Odelzhausen steht DAH am Auto, in Augsburg A.",
-"Einwohner: Augsburg hat gut fünfzigmal so viele wie Odelzhausen."
+"307-groebenzell": [
+"Kreisgrenze: Gröbenzell gehört zum Landkreis Fürstenfeldbruck, Odelzhausen zum Landkreis Dachau.",
+"Gröbenzell hat fast dreieinhalbmal so viele Einwohner wie Odelzhausen."
+],
+"308-dachau": [
+"Dachau hat gut achtmal so viele Einwohner wie Odelzhausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Dachau die Grünen, in Odelzhausen die AfD."
 ]
 },
 "ags": "09174135",
 "ortsteil": false,
-"km_vom_vorigen": 21.9
+"km_vom_vorigen": 5.2
+},
+{
+"slug": "303-althegnenberg",
+"name": "Althegnenberg",
+"lat": 48.23333,
+"lon": 11.06667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Althegnenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 20 km südöstlich von Augsburg.",
+"frage": "Woher hat Althegnenberg das „Alt“ in seinem Namen?",
+"optionen": [
+"Der Zusatz kam erst mit dem Bahnanschluss.",
+"Der Zusatz kam erst mit der Gebietsreform.",
+"Ein Kloster nannte so seinen ältesten Besitz.",
+"Die Burg der Ortsherren wurde woandershin verlegt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein später Zusatz klingt plausibel, denn „Alt“ trennt oft zwei Orte gleichen Namens. Hier ist der Name aber mittelalterlich: Die Hegnenberger verlegten ihre Burg nach Hofhegnenberg. Zurück blieb das alte Hegnenberg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.althegnenberg.de/chronik-althegnenberg",
+"faktencheck": "korrigiert",
+"id": "303-althegnenberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Althegnenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 20 km südöstlich von Augsburg.",
+"frage": "Wie groß ist das Gemeindegebiet von Althegnenberg?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 35 km²",
+"35 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Felder und Wälder rund um ein Dorf denkt, schätzt leicht zu groß. Das Gemeindegebiet umfasst aber nur 16,09 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "303-althegnenberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Althegnenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 20 km südöstlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Burgberg am Ortsrand ist ein natürlicher Hügel.",
+"Im Gemeindewappen ist eine rote Schafschere zu sehen.",
+"Nahe Hörbach wurde in der Eisenzeit Eisen verhüttet."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Hügel wirkt wie ein Werk der Natur, zumal der Ortsname eine Siedlung am Berg meint. Doch der Burgberg ist eine Motte: ein künstlich aufgeschütteter Hügel, einst von einem Wassergraben umschlossen. Darauf stand im Mittelalter die kleine Burg der Hegnenberger. Wappen und Eisenverhüttung stimmen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.althegnenberg.de/heimatgeschichte",
+"faktencheck": "korrigiert",
+"id": "303-althegnenberg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Althegnenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 20 km südöstlich von Augsburg.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Althegnenberg bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"SPD",
+"AfD",
+"FREIE WÄHLER"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Grünen lagen nahe, denn im Umland der Großstädte schneiden sie oft gut ab; in Althegnenberg holten sie 14,1 Prozent. Vorn lag wie erwartet die CSU, auf Platz zwei kam die AfD mit 17,5 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "303-althegnenberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Althegnenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 20 km südöstlich von Augsburg.",
+"frage": "Das Geschlecht der Hegnenberger kam aus Schmalegg bei Ravensburg in Oberschwaben. Welche Aufgabe hatte es?",
+"optionen": [
+"Es sollte eine Brücke über den Lech bewachen.",
+"Es sollte einen Bischof auf seinen Reisen begleiten.",
+"Es sollte für den Kaiser Steuern eintreiben.",
+"Es sollte ein Kloster beschützen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Amt an Brücke, Kasse oder Bischofshof liegt nahe, denn Dienstleute hatten viele Aufgaben. Die Hegnenberger dienten den Welfen als Ministerialen, also unfreie Dienstleute. Ihr Auftrag: das welfische Kloster Altomünster zu beschützen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.althegnenberg.de/heimatgeschichte",
+"faktencheck": "korrigiert",
+"id": "303-althegnenberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Althegnenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 20 km südöstlich von Augsburg.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Althegnenberg?",
+"optionen": [
+"FFB",
+"A",
+"AIC",
+"LL"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Augsburg liegt deutlich näher als München, da wirkt ein schwäbisches Kennzeichen naheliegend. Althegnenberg gehört aber zum oberbayerischen Landkreis Fürstenfeldbruck, und dessen Kennzeichen ist FFB. Richtig war 1.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "303-althegnenberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Althegnenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 20 km südöstlich von Augsburg.",
+"frage": "Die Bergkapelle St. Maria in Althegnenberg ist ein achteckiger Bau. Welches Bauwerk war ihr Vorbild?",
+"optionen": [
+"Der Felsendom in Jerusalem stand Pate.",
+"Die Gnadenkapelle in Altötting stand Pate.",
+"Die Pfalzkapelle in Aachen stand Pate.",
+"Das Baptisterium in Florenz stand Pate."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Achteckbauten denkt man an berühmte Vorbilder wie Aachen oder Jerusalem. Der Bregenzer Baumeister der Kapelle orientierte sich aber an der Gnadenkapelle im bayerischen Wallfahrtsort Altötting. Auch die Bergkapelle zog Pilger an: Die Wallfahrt wurde so bedeutsam, dass die Kapelle später ein Langhaus bekam. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.althegnenberg.de/heimatgeschichte",
+"faktencheck": "korrigiert",
+"id": "303-althegnenberg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Althegnenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 20 km südöstlich von Augsburg.",
+"frage": "Neben der Kirche St. Andreas im Ortsteil Hörbach steht der Täuferbrunnen. Woran erinnert er?",
+"optionen": [
+"Er erinnert an eine alte Taufquelle.",
+"Er erinnert an das Taufbecken der Vorgängerkirche.",
+"Er erinnert an die brutale Ausrottung der Täufer.",
+"Er erinnert an die Gründung der Pfarrei."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name lenkt die Gedanken zur Taufe, zumal der Brunnen neben der Kirche steht. Gemeint sind aber die Täufer, eine Glaubensbewegung der Reformationszeit, die nur Erwachsene taufte und dafür verfolgt wurde. An ihre brutale Ausrottung erinnert der Brunnen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.althegnenberg.de/heimatgeschichte",
+"faktencheck": "korrigiert",
+"id": "303-althegnenberg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Althegnenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 20 km südöstlich von Augsburg.",
+"frage": "Woher hat der Ortsteil Hörbach seinen Namen?",
+"optionen": [
+"Er beschreibt eine sumpfige, schmutzige Gegend.",
+"Er meint einen Bach, den man rauschen hört.",
+"Er meint einen Bach, der dem Herrn gehörte.",
+"Er erinnert an ein Heer, das hier lagerte."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der heutige Name klingt nach einem Bach, den man rauschen hört. Frühe Urkunden nennen aber Leute „de Hurewin“ oder „de Huirwin“. Dahinter steckt das alte Wort „horwec“ für sumpfig und schmutzig. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.althegnenberg.de/heimatgeschichte",
+"faktencheck": "korrigiert",
+"id": "303-althegnenberg/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Althegnenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 20 km südöstlich von Augsburg.",
+"frage": "Was gilt als ältestes Kunstwerk aus der Kirche St. Andreas im Ortsteil Hörbach?",
+"optionen": [
+"Ein romanisches Holzkreuz aus der Bauzeit.",
+"Ein Taufstein aus karolingischer Zeit.",
+"Ein gotisches Marienbild eines Wanderkünstlers.",
+"Ein Grabstein aus der Römerzeit."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein romanisches Stück liegt nahe, denn der Kern der Kirche ist ein romanischer Saalbau. Als noch weit älter gilt aber das Bruchstück eines römischen Grabsteins; es zeigt einen bärtigen Römer. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.althegnenberg.de/heimatgeschichte",
+"faktencheck": "korrigiert",
+"id": "303-althegnenberg/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "113-odelzhausen",
+"anschluss": [
+"Einwohner: Odelzhausen hat fast dreimal so viele wie Althegnenberg.",
+"Wahlbeteiligung 2025: In Althegnenberg 89,6, in Odelzhausen 83,6 Prozent."
+],
+"anschluesse": {
+"112-augsburg": [
+"Kreisgrenze: Augsburg ist kreisfrei, Althegnenberg gehört zum Landkreis Fürstenfeldbruck.",
+"Augsburg hat rund 145-mal so viele Einwohner wie Althegnenberg."
+],
+"298-friedberg-bayern": [
+"Kreisgrenze: Friedberg gehört zum Landkreis Aichach-Friedberg, Althegnenberg zum Landkreis Fürstenfeldbruck.",
+"Friedberg hat fast fünfzehnmal so viele Einwohner wie Althegnenberg."
+],
+"299-kissing": [
+"Kreisgrenze: Kissing gehört zum Landkreis Aichach-Friedberg, Althegnenberg zum Landkreis Fürstenfeldbruck.",
+"Kissing hat fast sechsmal so viele Einwohner wie Althegnenberg."
+],
+"300-mering": [
+"Kreisgrenze: Mering gehört zum Landkreis Aichach-Friedberg, Althegnenberg zum Landkreis Fürstenfeldbruck.",
+"Mering hat gut siebenmal so viele Einwohner wie Althegnenberg."
+],
+"301-dasing": [
+"Kreisgrenze: Dasing gehört zum Landkreis Aichach-Friedberg, Althegnenberg zum Landkreis Fürstenfeldbruck.",
+"Dasing hat fast dreimal so viele Einwohner wie Althegnenberg."
+],
+"302-adelzhausen": [
+"Kreisgrenze: Adelzhausen gehört zum Landkreis Aichach-Friedberg, Althegnenberg zum Landkreis Fürstenfeldbruck.",
+"Althegnenberg hat rund 200 Einwohner mehr als Adelzhausen."
+],
+"113-odelzhausen": [
+"Einwohner: Odelzhausen hat fast dreimal so viele wie Althegnenberg.",
+"Wahlbeteiligung 2025: In Althegnenberg 89,6, in Odelzhausen 83,6 Prozent."
+],
+"304-mammendorf": [
+"Mammendorf hat zweieinhalbmal so viele Einwohner wie Althegnenberg."
+],
+"305-maisach": [
+"Maisach hat fast siebenmal so viele Einwohner wie Althegnenberg."
+],
+"306-sulzemoos": [
+"Kreisgrenze: Sulzemoos gehört zum Landkreis Dachau, Althegnenberg zum Landkreis Fürstenfeldbruck.",
+"Sulzemoos hat rund 800 Einwohner mehr als Althegnenberg."
+],
+"114-olching": [
+"Olching hat dreizehnmal so viele Einwohner wie Althegnenberg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Olching die Grünen, in Althegnenberg die AfD."
+]
+},
+"ags": "09179114",
+"ortsteil": false,
+"km_vom_vorigen": 12.7
+},
+{
+"slug": "304-mammendorf",
+"name": "Mammendorf",
+"lat": 48.2,
+"lon": 11.15,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mammendorf",
+"steckbrief": "Gemeinde mit rund 5.100 Einwohnern, 27 km südöstlich von Augsburg.",
+"frage": "Das Mammendorfer Gemeindewappen zeigt unten eine schwarze Schafschere. Woher stammt sie?",
+"optionen": [
+"Sie kommt vom Siegel des Klosters Fürstenfeld.",
+"Sie kommt vom Zeichen der Mammendorfer Schäferzunft.",
+"Sie kommt vom Wappen der Herren von Haldenberg.",
+"Sie kommt vom Wappen der Freiherren von Lotzbeck."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Schafschere lässt an Schäfer denken, die Deutung liegt nahe. Doch sie stammt aus dem Wappen der Herren von Haldenberg, die im Oberdorf, dem Westteil des heutigen Mammendorf, saßen. Der Löwe kommt von den Lotzbeck, der rot-silberne Balken steht für die Zisterzienser von Fürstenfeld. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.mammendorf.de/wappen-und-fahne-mammendorf",
+"faktencheck": "bestätigt",
+"id": "304-mammendorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mammendorf",
+"steckbrief": "Gemeinde im Landkreis Fürstenfeldbruck mit rund 5.100 Einwohnern, 27 km südöstlich von Augsburg.",
+"frage": "Wie hoch liegt Mammendorf über dem Meeresspiegel?",
+"optionen": [
+"unter 400 m",
+"400 bis unter 470 m",
+"470 bis unter 520 m",
+"520 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an das flache Land zwischen Augsburg und München denkt, schätzt oft tiefer. Doch das Alpenvorland steigt nach Süden an, und Mammendorf liegt auf 536 Metern. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "304-mammendorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Mammendorf",
+"steckbrief": "Gemeinde mit rund 5.100 Einwohnern, 27 km südöstlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Kloster Fürstenfeld war Grundherr im Gemeindegebiet.",
+"Die Schweden verschonten Mammendorf im Dreißigjährigen Krieg.",
+"Auf Kirchengrund entstand eine Siedlung für Flüchtlingsfamilien."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf auf dem Land wirkt wie ein Ort, an dem Kriege vorbeiziehen. Doch die Schweden zogen von Augsburg über Mammendorf nach München und auf dem Rückweg wieder hindurch; dabei zündeten sie den Ort an und töteten Einwohner. Fürstenfeld war tatsächlich Grundherr, und Pfarrer Bauer ermöglichte die Flüchtlingssiedlung auf Kirchengrund. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.mammendorf.de/chronik-mammendorf; www.mammendorf.de/wappen-und-fahne-mammendorf",
+"faktencheck": "korrigiert",
+"id": "304-mammendorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mammendorf",
+"steckbrief": "Gemeinde im Landkreis Fürstenfeldbruck mit rund 5.100 Einwohnern, 27 km südöstlich von Augsburg.",
+"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in Mammendorf?",
+"optionen": [
+"unter 84 %",
+"84 bis unter 89 %",
+"89 bis unter 93 %",
+"93 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Wahlmüdigkeit denkt, schätzt leicht zu niedrig. Bei der Bundestagswahl 2025 gingen in Mammendorf 87,6 Prozent der Wahlberechtigten wählen; stärkste Kraft wurde die CSU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "304-mammendorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mammendorf",
+"steckbrief": "Gemeinde im Landkreis Fürstenfeldbruck mit rund 5.100 Einwohnern, 27 km südöstlich von Augsburg.",
+"frage": "Im April 1945 wehte am Turm der St.-Nikolaus-Kirche eine weiße Fahne. Wer hatte sie gehisst?",
+"optionen": [
+"Es war der Ortspfarrer.",
+"Es war der Bürgermeister.",
+"Es war ein Gärtnermeister.",
+"Es war der Dorflehrer."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Fahne am Kirchturm denkt man zuerst an den Pfarrer. Gehisst hat sie aber Gärtnermeister Schmid, nachdem der Ort mit Granaten beschossen worden war; laut Chronik wäre es sonst noch schlimmer gekommen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.mammendorf.de/chronik-mammendorf",
+"faktencheck": "korrigiert",
+"id": "304-mammendorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mammendorf",
+"steckbrief": "Gemeinde im Landkreis Fürstenfeldbruck mit rund 5.100 Einwohnern, 27 km südöstlich von Augsburg.",
+"frage": "Wie weit ist Mammendorf in Luftlinie von der Landeshauptstadt München entfernt?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 25 km",
+"25 bis unter 30 km",
+"30 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Landkreis Fürstenfeldbruck klingt nach Münchner Umland, deshalb schätzen viele die Strecke kürzer. Doch Mammendorf liegt näher an Augsburg als an der Landeshauptstadt: Bis München sind es 32 Kilometer Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "304-mammendorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mammendorf",
+"steckbrief": "Gemeinde mit rund 5.100 Einwohnern, 27 km südöstlich von Augsburg.",
+"frage": "Als erste Erwähnung Mammendorfs gilt eine Urkunde des Bistums Freising, vermutlich von 759. Wovon berichtet sie?",
+"optionen": [
+"Ein Edler beschenkte die Kirche zu Puch.",
+"Kaiser Ludwig der Bayer übergab Höfe an Fürstenfeld.",
+"König Pippin bestätigte die Grenzen des Dorfs.",
+"Das Kloster Benediktbeuern kaufte dort einen Hof."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kaiser Ludwig der Bayer übergab Mammendorfer Höfe erst 1319 an Fürstenfeld. Die frühe Urkunde berichtet von einer frommen Gabe: Der Edle David von Mammindorf schenkte im Beisein Herzog Tassilos Besitzungen an die Kirche zu Puch. Sie stammt aus der Sammlung des Bistums Freising. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.mammendorf.de/chronik-mammendorf (WÖRTER RÜCKSEITE: 50; der Satz über Korbinian ist gestrichen, damit die Rückseite bei 50 Wörtern bleibt.)",
+"faktencheck": "korrigiert",
+"id": "304-mammendorf/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "303-althegnenberg",
+"anschluss": [
+"Einwohner: Mammendorf hat mehr als doppelt so viele wie Althegnenberg.",
+"Bundestagswahl 2025: Die CSU war in Mammendorf stärker als in Althegnenberg."
+],
+"anschluesse": {
+"299-kissing": [
+"Kreisgrenze: Kissing gehört zum Landkreis Aichach-Friedberg, Mammendorf zum Landkreis Fürstenfeldbruck.",
+"Kissing hat fast zweieinhalbmal so viele Einwohner wie Mammendorf."
+],
+"300-mering": [
+"Kreisgrenze: Mering gehört zum Landkreis Aichach-Friedberg, Mammendorf zum Landkreis Fürstenfeldbruck.",
+"Mering hat dreimal so viele Einwohner wie Mammendorf."
+],
+"302-adelzhausen": [
+"Kreisgrenze: Adelzhausen gehört zum Landkreis Aichach-Friedberg, Mammendorf zum Landkreis Fürstenfeldbruck.",
+"Mammendorf hat gut zweieinhalbmal so viele Einwohner wie Adelzhausen."
+],
+"113-odelzhausen": [
+"Kreisgrenze: Odelzhausen gehört zum Landkreis Dachau, Mammendorf zum Landkreis Fürstenfeldbruck.",
+"Odelzhausen hat rund 700 Einwohner mehr als Mammendorf."
+],
+"303-althegnenberg": [
+"Einwohner: Mammendorf hat mehr als doppelt so viele wie Althegnenberg.",
+"Bundestagswahl 2025: Die CSU war in Mammendorf stärker als in Althegnenberg."
+],
+"305-maisach": [
+"Maisach hat fast dreimal so viele Einwohner wie Mammendorf."
+],
+"306-sulzemoos": [
+"Kreisgrenze: Sulzemoos gehört zum Landkreis Dachau, Mammendorf zum Landkreis Fürstenfeldbruck.",
+"Mammendorf hat fast doppelt so viele Einwohner wie Sulzemoos."
+],
+"114-olching": [
+"Olching hat gut fünfmal so viele Einwohner wie Mammendorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Olching die Grünen, in Mammendorf die AfD."
+],
+"307-groebenzell": [
+"Gröbenzell hat fast viermal so viele Einwohner wie Mammendorf.",
+"Mammendorf hat fast dreieinhalbmal so viel Fläche wie Gröbenzell, aber weniger Einwohner."
+]
+},
+"ags": "09179136",
+"ortsteil": false,
+"km_vom_vorigen": 7.2
+},
+{
+"slug": "305-maisach",
+"name": "Maisach",
+"lat": 48.21667,
+"lon": 11.26667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Maisach",
+"steckbrief": "Maisach ist eine Gemeinde mit rund 14.000 Einwohnern im Landkreis Fürstenfeldbruck, westlich von München.",
+"frage": "Zur Gemeinde Maisach gehört Malching. Welche Herkunft des Namens nennt die Ortsgeschichte der Gemeinde?",
+"optionen": [
+"Dort stand eine Mühle, die Getreide mahlte.",
+"Unter einer Eiche dort wurde Gericht gehalten.",
+"Dort wurde auf einem Hof Malz hergestellt.",
+"Ein Siedler gab dem Ort seinen Namen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer „Mal“ hört, denkt ans Mahlen, zumal an der Maisach einst Mühlen standen. Die Ortsgeschichte deutet den Namen aber als Mal-Eiche, eine germanische Gerichtsstätte. Vermutlich lagen die Betstätte in Untermalching, die Mal-Eiche als Urteilsstätte in Obermalching und der Vollstreckungsort im heutigen Weiler Galgen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte",
+"faktencheck": "korrigiert",
+"id": "305-maisach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Maisach",
+"steckbrief": "Maisach ist eine Gemeinde mit rund 14.000 Einwohnern im Landkreis Fürstenfeldbruck, westlich von München.",
+"frage": "Wie viele Einwohner kommen in der Gemeinde Maisach auf einen Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 400",
+"400 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. So nah an München erwartet man dichte Vorstadt. Doch Maisach ist eine weitläufige Gemeinde aus vielen Ortsteilen und Weilern; auf einen Quadratkilometer kommen 261 Einwohner. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "305-maisach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Maisach",
+"steckbrief": "Maisach ist eine Gemeinde mit rund 14.000 Einwohnern im Landkreis Fürstenfeldbruck, westlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Beim Flugplatzbau fand man Gräber der Bronzezeit.",
+"Germerswangs altes Schulhaus wurde Kern eines Bürgerzentrums.",
+"Maisach bekam erst mit der S-Bahn einen Bahnhalt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Pendler nach München denkt, denkt an die S-Bahn. Doch Maisach hatte schon an der frühen Bahnstrecke München–Augsburg einen Haltepunkt; danach zogen Bahnangestellte und Fabrikarbeiter zu. Die S-Bahn kam erst viel später. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte",
+"faktencheck": "bestätigt",
+"id": "305-maisach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Maisach",
+"steckbrief": "Maisach ist eine Gemeinde mit rund 14.000 Einwohnern im Landkreis Fürstenfeldbruck, westlich von München.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Maisach bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 40 %",
+"40 bis unter 45 %",
+"45 bis unter 50 %",
+"50 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In Oberbayern rechnen viele mit einer absoluten Mehrheit der CSU. In Maisach kam sie auf 38,9 Prozent, vor AfD, Grünen und SPD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "305-maisach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Maisach",
+"steckbrief": "Maisach ist eine Gemeinde mit rund 14.000 Einwohnern im Landkreis Fürstenfeldbruck, westlich von München.",
+"frage": "Im Maisacher Gemeindewappen liegt ein goldenes Schwert über silbernen Balken. Woran erinnert das Schwert?",
+"optionen": [
+"Es erinnert an den Kirchenpatron St. Vitus.",
+"Es erinnert an das Gericht des Klosters Ettal.",
+"Es erinnert an die Edlen von Rottbach.",
+"Es erinnert an einen Sieg über die Ungarn."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Schwert lässt an Ritter und Kämpfe denken. Im Wappen steht es aber für Recht: Es war Gerichtssymbol des Klosters Ettal, das in Maisach Gerichtsherr war. Die gebogenen Balken stammen von den Edelfreien von Weilheim, Rot und Silber verweisen auf das Kloster Fürstenfeld. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/wappen-logo",
+"faktencheck": "bestätigt",
+"id": "305-maisach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Maisach",
+"steckbrief": "Maisach ist eine Gemeinde mit rund 14.000 Einwohnern im Landkreis Fürstenfeldbruck, westlich von München.",
+"frage": "Wie weit ist die Ortsmitte von Maisach in Luftlinie von der Münchner Stadtmitte entfernt?",
+"optionen": [
+"unter 10 km",
+"10 bis unter 20 km",
+"20 bis unter 30 km",
+"30 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Maisach liegt nicht im Landkreis München, sondern im Landkreis Fürstenfeldbruck, und wirkt deshalb weiter draußen. In Luftlinie trennen die Ortsmitte und die Münchner Stadtmitte aber nur 25 Kilometer. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "305-maisach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Maisach",
+"steckbrief": "Maisach ist eine Gemeinde mit rund 14.000 Einwohnern im Landkreis Fürstenfeldbruck, westlich von München.",
+"frage": "Bei Zötzelhofen ließ Herzog Albrecht IV. einen Weiher anlegen, der um 1860 abgelassen wurde. Was entstand ab 1995 auf der Fläche?",
+"optionen": [
+"Dort wurde ein Badesee angelegt.",
+"Dort entstand ein Gewerbegebiet.",
+"Dort wurde Kies abgebaut.",
+"Dort entstand ein Golfplatz."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wo einst Wasser stand, denkt man an einen Badesee. Albrecht IV. ließ neben einem bestehenden Weiher einen neuen anlegen, samt Haus für den Weiherhüter. Später wurde die frühere Weiherfläche zum Golfplatz umgestaltet. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte",
+"faktencheck": "bestätigt",
+"id": "305-maisach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Maisach",
+"steckbrief": "Maisach ist eine Gemeinde mit rund 14.000 Einwohnern im Landkreis Fürstenfeldbruck, westlich von München.",
+"frage": "Im Gemeindelogo von Maisach beginnt eine silbergraue Linie unterbrochen und läuft dann durchgezogen weiter. Wofür steht der unterbrochene Teil?",
+"optionen": [
+"Er steht für die Eisenbahn.",
+"Er steht für die Gemeindegrenze.",
+"Er steht für den Fluss.",
+"Er steht für die Straße."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine gestrichelte Linie erinnert an die Mittellinie einer Straße. Im Logo ist es umgekehrt: Der unterbrochene Teil ist die Eisenbahn, seine Markierungen stehen zugleich für die großen Gemeindeteile; durchgezogen weitergeführt wird die Linie zur Straße. Blau steht für die Maisach, Grün für Schotterebene und Hügelland. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/wappen-logo",
+"faktencheck": "korrigiert",
+"id": "305-maisach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Maisach",
+"steckbrief": "Maisach ist eine Gemeinde mit rund 14.000 Einwohnern im Landkreis Fürstenfeldbruck, westlich von München.",
+"frage": "Bei Rottbach, heute Ortsteil von Maisach, stand einst eine Burg. Warum kam sie nach der Ortsgeschichte in andere Hände?",
+"optionen": [
+"Ein Brand hatte die Burg zerstört.",
+"Die Herren traten in ein Kloster ein.",
+"Es gab Schulden.",
+"Der Herzog zwang die Herren zur Abgabe."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Verschwundene Burgen erklärt man gern mit Feuer. Die Ortsgeschichte nennt aber Schulden: Wegen Verschuldung ging die Burg an den Münchner Bürger Sighart Hudler. Er verkaufte sie an das Kloster Fürstenfeld, das sie abbrechen ließ. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte",
+"faktencheck": "korrigiert",
+"id": "305-maisach/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Maisach",
+"steckbrief": "Maisach ist eine Gemeinde mit rund 14.000 Einwohnern im Landkreis Fürstenfeldbruck, westlich von München.",
+"frage": "Gernlinden, heute Ortsteil von Maisach, war zwischen 1695 und 1919 eine Einöde. Wie begann danach die Besiedlung?",
+"optionen": [
+"Ein Kloster teilte seinen Grundbesitz auf.",
+"Ein Graf gab Land zur Besiedlung ab.",
+"Ein Militärgelände wurde aufgegeben und bebaut.",
+"Ein Fabrikant baute Häuser für seine Arbeiter."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Neue Siedlungen entstanden oft um Fabriken oder Kasernen. Gernlinden, bis dahin nur als Einöde mit einem Gut genannt, wuchs anders: Nachdem Graf Toerring das Gut übergeben hatte, bauten Landessiedlung und Siedler in Eigeninitiative. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.maisach.de/leben-in-maisach/wissenswertes-zur-gemeinde/geschichte",
+"faktencheck": "korrigiert",
+"id": "305-maisach/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "304-mammendorf",
+"anschluss": [
+"Nächste Großstadt ist für Mammendorf Augsburg, für Maisach München.",
+"Einwohner: Maisach hat fast dreimal so viele wie Mammendorf."
+],
+"anschluesse": {
+"302-adelzhausen": [
+"Kreisgrenze: Adelzhausen gehört zum Landkreis Aichach-Friedberg, Maisach zum Landkreis Fürstenfeldbruck.",
+"Maisach hat gut siebenmal so viele Einwohner wie Adelzhausen."
+],
+"113-odelzhausen": [
+"Kreisgrenze: Odelzhausen gehört zum Landkreis Dachau, Maisach zum Landkreis Fürstenfeldbruck.",
+"Maisach hat zweieinhalbmal so viele Einwohner wie Odelzhausen."
+],
+"303-althegnenberg": [
+"Maisach hat fast siebenmal so viele Einwohner wie Althegnenberg."
+],
+"304-mammendorf": [
+"Nächste Großstadt ist für Mammendorf Augsburg, für Maisach München.",
+"Einwohner: Maisach hat fast dreimal so viele wie Mammendorf."
+],
+"306-sulzemoos": [
+"Kreisgrenze: Sulzemoos gehört zum Landkreis Dachau, Maisach zum Landkreis Fürstenfeldbruck.",
+"Maisach hat fünfmal so viele Einwohner wie Sulzemoos."
+],
+"114-olching": [
+"Olching hat doppelt so viele Einwohner wie Maisach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Olching die Grünen, in Maisach die AfD."
+],
+"307-groebenzell": [
+"Gröbenzell hat rund 5.300 Einwohner mehr als Maisach.",
+"Maisach hat gut achtmal so viel Fläche wie Gröbenzell, aber weniger Einwohner."
+],
+"308-dachau": [
+"Kreisgrenze: Dachau gehört zum Landkreis Dachau, Maisach zum Landkreis Fürstenfeldbruck.",
+"Dachau hat dreieinhalbmal so viele Einwohner wie Maisach."
+],
+"309-karlsfeld": [
+"Kreisgrenze: Karlsfeld gehört zum Landkreis Dachau, Maisach zum Landkreis Fürstenfeldbruck.",
+"Karlsfeld hat anderthalbmal so viele Einwohner wie Maisach."
+]
+},
+"ags": "09179134",
+"ortsteil": false,
+"km_vom_vorigen": 8.8
+},
+{
+"slug": "306-sulzemoos",
+"name": "Sulzemoos",
+"lat": 48.29021,
+"lon": 11.26449,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sulzemoos",
+"steckbrief": "Gemeinde mit rund 2.800 Einwohnern, 29 km östlich von Augsburg.",
+"frage": "Der Maler Hans Huber nannte sich Huber-Sulzemoos. Welchen Grund nennt die Ortschronik für den Namenszusatz?",
+"optionen": [
+"Er war dankbar für Heimat und Kindheit.",
+"Die Gemeinde verlieh ihm den Namen als Ehrung.",
+"Er hatte das Schloss Sulzemoos gekauft.",
+"Er hatte sich im Dorf ein Atelier gebaut."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Namenszusatz klingt nach einer Ehrung von außen, doch Hans Huber nahm ihn selbst an. Geboren im heutigen Gasthaus Baumgartner in Sulzemoos, fügte er den Dorfnamen aus Dankbarkeit für Heimat und Kindheit hinzu. Bekannt wurde er als „Maler des deutschen Gemütes“. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.sulzemoos.de/geschichtesulzemoos/chronik/ortschronik/spnz1850.htm",
+"faktencheck": "korrigiert",
+"id": "306-sulzemoos/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sulzemoos",
+"steckbrief": "Gemeinde im Landkreis Dachau auf rund 19 Quadratkilometern, 29 km östlich von Augsburg.",
+"frage": "Wie viele Menschen leben in der Gemeinde Sulzemoos mit all ihren Ortsteilen?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 3.000",
+"3.000 bis unter 6.000",
+"6.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an das Umland von München denkt, rechnet leicht mit einer größeren Gemeinde. Sulzemoos zählte Ende 2025 aber 2.841 Einwohner und liegt damit knapp unter der Grenze zur nächsten Spanne. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "306-sulzemoos/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Sulzemoos",
+"steckbrief": "Gemeinde mit rund 2.800 Einwohnern, 29 km östlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Spanischen Erbfolgekrieg blieb das Schloss verschont.",
+"In Sulzemoos wurde ein späterer bayerischer Staatsminister geboren.",
+"Michael Wening hielt das Schloss im Kupferstich fest."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Staatsminister aus einem Dorf klingt erfunden, stimmt aber: Joseph Baumgartner wurde in Sulzemoos geboren. Auch Michael Wening stach das Schloss in Kupfer. Gelogen ist die Schonung: Im Spanischen Erbfolgekrieg legten Truppen Österreichs und Englands nach einer Niederschrift Schloss und Oberdorf in Schutt und Asche. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.sulzemoos.de/geschichtesulzemoos/chronik/ortschronik/mnz.htm und …/ortschronik/spnz1900.htm",
+"faktencheck": "korrigiert",
+"id": "306-sulzemoos/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Sulzemoos",
+"steckbrief": "Gemeinde mit rund 2.800 Einwohnern, 29 km östlich von Augsburg.",
+"frage": "Welche Partei wurde in Sulzemoos bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"SPD",
+"CSU",
+"AfD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Im Münchner Umland schneiden die Grünen oft stark ab, daher liegt dieser Tipp nahe. In Sulzemoos lag bei den Zweitstimmen die CSU mit 48,3 Prozent vorn, dahinter die AfD mit 19 Prozent; Grüne und SPD folgten mit Abstand. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "306-sulzemoos/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sulzemoos",
+"steckbrief": "Gemeinde mit rund 2.800 Einwohnern, 29 km östlich von Augsburg.",
+"frage": "Der berüchtigte Räuber Mathias Kneißl ging in Sulzemoos zur Schule. Welchen Grund nennt die Ortschronik dafür?",
+"optionen": [
+"Seine Eltern hatten dort eine Mühle gekauft.",
+"Er war in Sulzemoos geboren worden.",
+"Er lebte als Waise beim Dorfpfarrer.",
+"Er arbeitete als Hütejunge im Schloss."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Weil er so eng mit dem Ort verbunden ist, halten viele Sulzemoos für Kneißls Geburtsort. Geboren wurde er aber in Unterweikertshofen. Seine Eltern erwarben die Schachermühle, die zur Gemeinde Sulzemoos gehörte, und so ging er bei Lehrer Wagner zur Schule. Bekannt wurde er als „Schachermühlen-Hias“. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.sulzemoos.de/geschichtesulzemoos/chronik/ortschronik/spnz1850.htm und …/ortschronik/spnz1900.htm",
+"faktencheck": "korrigiert",
+"id": "306-sulzemoos/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sulzemoos",
+"steckbrief": "Gemeinde mit rund 2.800 Einwohnern, 29 km östlich von Augsburg.",
+"frage": "Wie weit ist es von Sulzemoos in Luftlinie bis zur Landeshauptstadt München?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 35 km",
+"35 bis unter 50 km",
+"50 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Landkreis Dachau gilt als Münchner Umland, deshalb schätzen viele die Strecke kürzer. Tatsächlich liegt Sulzemoos 29 km Luftlinie von München entfernt, also genauso weit wie von Augsburg. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "306-sulzemoos/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sulzemoos",
+"steckbrief": "Gemeinde mit rund 2.800 Einwohnern, 29 km östlich von Augsburg.",
+"frage": "Die Ortschronik verzeichnet für den 25. April 1944 einen Bomberabsturz vom Typ Lancaster. Zu welcher Luftwaffe gehörte die Maschine?",
+"optionen": [
+"Sie gehörte zur Royal Canadian Air Force.",
+"Sie gehörte zu den US-Luftstreitkräften.",
+"Sie gehörte zur Royal Australian Air Force.",
+"Sie gehörte zur Royal New Zealand Air Force."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Über Bayern flogen im Krieg viele amerikanische Bomber, daher liegt dieser Tipp nahe. Die Lancaster war jedoch ein britisches Flugzeug, das auch Staffeln aus dem Commonwealth flogen. Diese Maschine gehörte zur Royal Australian Air Force; keiner der Besatzungsmänner überlebte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.sulzemoos.de/geschichtesulzemoos/chronik/ortschronik/spnz1900.htm",
+"faktencheck": "korrigiert",
+"id": "306-sulzemoos/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sulzemoos",
+"steckbrief": "Gemeinde mit rund 2.800 Einwohnern, 29 km östlich von Augsburg.",
+"frage": "Das Gemeindewappen zeigt zwei silberne Flügel mit schwarzem Balken. Woher stammen sie?",
+"optionen": [
+"Sie stehen für den heiligen Florian.",
+"Sie stammen aus dem Wappen der Familie Hund.",
+"Sie stehen für das Kloster Fürstenfeld.",
+"Sie stammen aus dem Wappen der Schaezler."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Flügel erinnern an Engel und Heilige, deshalb liegt Florian nahe. Sein Zeichen im Wappen ist aber das Kreuz, für die Florianskirche in Wiedenzhausen. Die Flügel stammen aus dem Wappen der Familie Hund und erinnern an Dr. Wiguläus Hund, einst Besitzer der Hofmark. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.sulzemoos.de/geschichte-und-wappen",
+"faktencheck": "bestätigt",
+"id": "306-sulzemoos/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sulzemoos",
+"steckbrief": "Gemeinde mit rund 2.800 Einwohnern, 29 km östlich von Augsburg.",
+"frage": "Die Volksschule Sulzemoos wurde 1782 gegründet. Wer baute 1788 ihr Schulhaus?",
+"optionen": [
+"Der Dorfpfarrer ließ es auf eigene Kosten bauen.",
+"Der Baron ließ es für das Dorf errichten.",
+"Die Gemeinde baute es aus ihrer Kasse.",
+"Der Vater des Lehrers baute es."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Pfarrer Johann Kammerloher hatte die Schule gegründet, darum liegt er als Bauherr nahe. Er stiftete aber die Lehrmittel, Baron Geebäckh das Mobiliar. Das Schulhaus baute der Vater des Lehrers Sebastian Kiemer, eines Mesnersohns; es war Familienbesitz. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.sulzemoos.de/geschichtesulzemoos/chronik/ortschronik/mnz.htm",
+"faktencheck": "bestätigt",
+"id": "306-sulzemoos/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sulzemoos",
+"steckbrief": "Gemeinde mit rund 2.800 Einwohnern, 29 km östlich von Augsburg.",
+"frage": "Im November 1948 baute Landarzt Dr. Hertkorn am Steindlbach eine finnische Sauna. Was machte sie laut Ortschronik bis dahin einzigartig in Deutschland?",
+"optionen": [
+"Dort waren zugleich Heilbehandlungen und Strahlentherapie vorgesehen.",
+"Sie wurde nur mit Torf beheizt.",
+"Sie stand auf Pfählen mitten im Bach.",
+"Sie war nur für Kriegsheimkehrer offen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Sauna am Bach denkt man zuerst an Bauweise oder Brennstoff. Die Ortschronik hebt anderes hervor: Als bis dahin einzige Sauna in Deutschland sah sie zugleich Heilbehandlungen und Strahlentherapie vor, also eine Behandlung mit Strahlen. Das passt zu ihrem Erbauer, einem Landarzt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.sulzemoos.de/geschichtesulzemoos/chronik/ortschronik/spnz1900.htm",
+"faktencheck": "korrigiert",
+"id": "306-sulzemoos/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "305-maisach",
+"anschluss": [
+"Kreisgrenze: In Maisach steht FFB am Auto, in Sulzemoos DAH.",
+"Bundestagswahl 2025: Die CSU war in Sulzemoos stärker als in Maisach."
+],
+"anschluesse": {
+"301-dasing": [
+"Kreisgrenze: Dasing gehört zum Landkreis Aichach-Friedberg, Sulzemoos zum Landkreis Dachau.",
+"Dasing hat doppelt so viele Einwohner wie Sulzemoos."
+],
+"302-adelzhausen": [
+"Kreisgrenze: Adelzhausen gehört zum Landkreis Aichach-Friedberg, Sulzemoos zum Landkreis Dachau.",
+"Sulzemoos hat anderthalbmal so viele Einwohner wie Adelzhausen."
+],
+"113-odelzhausen": [
+"Odelzhausen hat doppelt so viele Einwohner wie Sulzemoos."
+],
+"303-althegnenberg": [
+"Kreisgrenze: Althegnenberg gehört zum Landkreis Fürstenfeldbruck, Sulzemoos zum Landkreis Dachau.",
+"Sulzemoos hat rund 800 Einwohner mehr als Althegnenberg."
+],
+"304-mammendorf": [
+"Kreisgrenze: Mammendorf gehört zum Landkreis Fürstenfeldbruck, Sulzemoos zum Landkreis Dachau.",
+"Mammendorf hat fast doppelt so viele Einwohner wie Sulzemoos."
+],
+"305-maisach": [
+"Kreisgrenze: In Maisach steht FFB am Auto, in Sulzemoos DAH.",
+"Bundestagswahl 2025: Die CSU war in Sulzemoos stärker als in Maisach."
+],
+"114-olching": [
+"Kreisgrenze: Olching gehört zum Landkreis Fürstenfeldbruck, Sulzemoos zum Landkreis Dachau.",
+"Olching hat fast zehnmal so viele Einwohner wie Sulzemoos."
+],
+"307-groebenzell": [
+"Kreisgrenze: Gröbenzell gehört zum Landkreis Fürstenfeldbruck, Sulzemoos zum Landkreis Dachau.",
+"Gröbenzell hat fast siebenmal so viele Einwohner wie Sulzemoos."
+],
+"308-dachau": [
+"Dachau hat siebzehnmal so viele Einwohner wie Sulzemoos.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Dachau die Grünen, in Sulzemoos die AfD."
+],
+"309-karlsfeld": [
+"Karlsfeld hat fast achtmal so viele Einwohner wie Sulzemoos."
+]
+},
+"ags": "09174146",
+"ortsteil": false,
+"km_vom_vorigen": 8.2
 },
 {
 "slug": "114-olching",
@@ -33078,20 +42742,716 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "113-odelzhausen",
-"anschluss": [
-"Fläche: Olching und Odelzhausen messen beide rund 30 km².",
-"Einwohner: Olching zählt fast fünfmal so viele wie Odelzhausen."
-],
+"anschluss_von": "306-sulzemoos",
+"anschluss": [],
 "anschluesse": {
 "113-odelzhausen": [
-"Fläche: Olching und Odelzhausen messen beide rund 30 km².",
-"Einwohner: Olching zählt fast fünfmal so viele wie Odelzhausen."
+"Kreisgrenze: Odelzhausen gehört zum Landkreis Dachau, Olching zum Landkreis Fürstenfeldbruck.",
+"Olching hat fast fünfmal so viele Einwohner wie Odelzhausen."
+],
+"303-althegnenberg": [
+"Olching hat dreizehnmal so viele Einwohner wie Althegnenberg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Althegnenberg die AfD, in Olching die Grünen."
+],
+"304-mammendorf": [
+"Olching hat gut fünfmal so viele Einwohner wie Mammendorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Mammendorf die AfD, in Olching die Grünen."
+],
+"305-maisach": [
+"Olching hat doppelt so viele Einwohner wie Maisach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Maisach die AfD, in Olching die Grünen."
+],
+"306-sulzemoos": [
+"Kreisgrenze: Sulzemoos gehört zum Landkreis Dachau, Olching zum Landkreis Fürstenfeldbruck.",
+"Olching hat fast zehnmal so viele Einwohner wie Sulzemoos."
+],
+"307-groebenzell": [
+"Olching hat fast anderthalbmal so viele Einwohner wie Gröbenzell."
+],
+"308-dachau": [
+"Kreisgrenze: Dachau gehört zum Landkreis Dachau, Olching zum Landkreis Fürstenfeldbruck.",
+"Dachau hat gut anderthalbmal so viele Einwohner wie Olching."
+],
+"309-karlsfeld": [
+"Kreisgrenze: Karlsfeld gehört zum Landkreis Dachau, Olching zum Landkreis Fürstenfeldbruck.",
+"Olching hat rund 6.000 Einwohner mehr als Karlsfeld."
 ]
 },
 "ags": "09179142",
 "ortsteil": false,
-"km_vom_vorigen": 16.3
+"km_vom_vorigen": 10.7
+},
+{
+"slug": "307-groebenzell",
+"name": "Gröbenzell",
+"lat": 48.1927,
+"lon": 11.37188,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gröbenzell",
+"steckbrief": "Gemeinde mit rund 19.000 Einwohnern, 16 km westlich von München.",
+"frage": "In Gröbenzell steht die Russenbrücke. Wer hat sie gebaut?",
+"optionen": [
+"Russische Auswanderer bauten sie in Eigenarbeit.",
+"Russische Bahnarbeiter bauten sie beim Bahnbau.",
+"Kriegsgefangene aus einem Lager bauten sie.",
+"Soldaten der Roten Armee bauten sie."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an russische Auswanderer oder Soldaten denken. Gebaut haben die Jugendstilbrücke aber Kriegsgefangene aus dem Lager Eschenhof in Eschenried. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.groebenzell.de/ueber-grobenzell/gemeindeportrait/",
+"faktencheck": "korrigiert",
+"id": "307-groebenzell/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gröbenzell",
+"steckbrief": "Gemeinde mit rund 19.000 Einwohnern, 16 km westlich von München.",
+"frage": "Wie groß ist die Gemeindefläche von Gröbenzell?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 4 km²",
+"4 bis unter 6 km²",
+"6 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei 4 bis unter 6 landet, wer Gröbenzell für einen kompakten Vorort hält. Die Gemeinde misst 6,36 Quadratkilometer und liegt damit knapp in der obersten Spanne. Für so viele Einwohner ist das trotzdem wenig Fläche. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "307-groebenzell/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gröbenzell",
+"steckbrief": "Gemeinde mit rund 19.000 Einwohnern, 16 km westlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die evangelische Gemeinde im Ort heißt Zachäusgemeinde.",
+"Das Hartmannhaus zeigt Elemente des Jugendstils.",
+"Die Alte Schule wurde ursprünglich als Wirtshaus gebaut."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Haus wird heute bewirtet, deshalb wirkt ein früheres Wirtshaus glaubhaft. Doch der Name stimmt: Gebaut wurde es als Schulhaus, heute beherbergt es auch das Heimat- und Torfmuseum. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.groebenzell.de/ueber-grobenzell/gemeindeportrait/",
+"faktencheck": "korrigiert",
+"id": "307-groebenzell/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gröbenzell",
+"steckbrief": "Gemeinde mit rund 19.000 Einwohnern, 16 km westlich von München.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Gröbenzell?",
+"optionen": [
+"unter 35 %",
+"35 bis unter 40 %",
+"40 bis unter 45 %",
+"45 % oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im bayerischen Umland liegt ein CSU-Ergebnis über 40 Prozent nahe. In Gröbenzell kam die CSU auf 38,5 Prozent der Zweitstimmen, dahinter folgten die Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "307-groebenzell/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gröbenzell",
+"steckbrief": "Gemeinde mit rund 19.000 Einwohnern, 16 km westlich von München.",
+"frage": "2011 stand in Gröbenzell der Stadtstatus zur Debatte. Wer entschied, dass es Gemeinde blieb?",
+"optionen": [
+"Das Innenministerium lehnte einen Antrag ab.",
+"Der Kreistag stimmte gegen die Stadterhebung.",
+"Die Bürger stimmten in einem Bürgerentscheid dafür.",
+"Ein Gericht untersagte die Stadterhebung."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Über Stadtrechte entscheidet am Ende der Staat, deshalb wirkt ein abgelehnter Antrag plausibel. In Gröbenzell kam es nicht so weit: Die Bürger entschieden per Bürgerentscheid, Gemeinde zu bleiben, statt den Stadtstatus anzustreben. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.groebenzell.de/ueber-grobenzell/gemeindeportrait/",
+"faktencheck": "bestätigt",
+"id": "307-groebenzell/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gröbenzell",
+"steckbrief": "Gemeinde mit rund 19.000 Einwohnern, 16 km westlich von München.",
+"frage": "Wie viele Einwohner leben in Gröbenzell auf einem Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.500",
+"2.500 oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Gröbenzell nennt sich selbst Gartenstadt, das klingt nach lockerer Bebauung und mittlerer Dichte. Doch auf der kleinen Gemeindefläche wohnen viele Menschen, rechnerisch 3.020 je Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "307-groebenzell/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gröbenzell",
+"steckbrief": "Gemeinde mit rund 19.000 Einwohnern, 16 km westlich von München.",
+"frage": "Die Villa Zierer im Weiherweg wird als Drehort für Film und Fernsehen angeboten. Nach wem ist sie benannt?",
+"optionen": [
+"Nach einem Schriftsteller.",
+"Nach einem Filmproduzenten.",
+"Nach einer Opernsängerin.",
+"Nach einem Fabrikanten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Filmvilla denkt man schnell an einen Produzenten, der sich sein eigenes Set baut. Benannt ist das Haus aber nach dem Schriftsteller Otto Zierer (1909–1983), dem es gehörte. Der Architekt Hans von Peschke baute es 1955 im mediterranen Stil. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gröbenzell; FilmFernsehFonds Bayern, filmlocations-bayern.de",
+"faktencheck": "korrigiert",
+"id": "307-groebenzell/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gröbenzell",
+"steckbrief": "Gemeinde mit rund 19.000 Einwohnern, 16 km westlich von München.",
+"frage": "Woher hat Gröbenzell seinen Namen?",
+"optionen": [
+"Er erinnert an eine Mönchszelle am Gröbenbach.",
+"Er erinnert an eine Zollstelle am Gröbenbach.",
+"Er erinnert an einen Ritter namens Gröben.",
+"Er erinnert an eine Mühle am Gröbenbach."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Endung -zell klingt nach einer Klosterzelle, wie bei vielen Orten im Süden. Der Name stammt aber von einer landesherrlichen Zollstelle am Gröbenbach, dem „Gröbenzoll“. Sie bestand bis ins frühe 19. Jahrhundert. Richtig war 2.",
+"quelle": "Haus der Bayerischen Geschichte, hdbg.eu; Gemeinde Gröbenzell, groebenzell.de",
+"faktencheck": "korrigiert",
+"id": "307-groebenzell/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gröbenzell",
+"steckbrief": "Gemeinde mit rund 19.000 Einwohnern, 16 km westlich von München.",
+"frage": "Die Bronzefigur Sterntaler war ursprünglich eine Brunnenfigur. Wer stiftete sie?",
+"optionen": [
+"Ein Märchenverein stiftete sie für Kinder.",
+"Der Bildhauer schenkte sie der Gemeinde.",
+"Eine Spielwarenfabrik stiftete sie zum Firmenjubiläum.",
+"Die örtliche Sparkasse stiftete sie."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Märchenmotiv lässt an Kinder und Vereine denken. Doch das Mädchen fängt mit hochgehaltenem Rock Silbertaler auf, und gestiftet hat es die Sparkasse. Die Figur von Ferdinand Auerhammer stand zuerst rechts neben der Sparkasse. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gröbenzell",
+"faktencheck": "unsicher",
+"id": "307-groebenzell/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gröbenzell",
+"steckbrief": "Gemeinde mit rund 19.000 Einwohnern, 16 km westlich von München.",
+"frage": "In Gröbenzell steht ein Denkmal für den Dichter Gerhart Hauptmann. Wer hat es gestiftet?",
+"optionen": [
+"Die Landsmannschaft Schlesien am Ort stiftete es.",
+"Ein Münchner Theater stiftete es zum Jubiläum.",
+"Ein Berliner Verlag seiner Werke stiftete es.",
+"Ein Literaturkreis aus Dresden stiftete es."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dichterdenkmal denkt man an Theater, Verlage oder Literaturfreunde. Gestiftet hat es 1986 aber die Landsmannschaft Schlesien Gröbenzell, und das passt: Gerhart Hauptmann stammte aus Schlesien. Geschaffen hat das Denkmal der Bildhauer Herbert Thomas. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gröbenzell",
+"faktencheck": "korrigiert",
+"id": "307-groebenzell/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "114-olching",
+"anschluss": [
+"Gemeindegründung: Gröbenzell entstand 1952 auch aus Teilen Olchings.",
+"Bundestagswahl 2025: Die Grünen schnitten in Gröbenzell stärker ab als in Olching."
+],
+"anschluesse": {
+"113-odelzhausen": [
+"Kreisgrenze: Odelzhausen gehört zum Landkreis Dachau, Gröbenzell zum Landkreis Fürstenfeldbruck.",
+"Gröbenzell hat fast dreieinhalbmal so viele Einwohner wie Odelzhausen."
+],
+"304-mammendorf": [
+"Gröbenzell hat fast viermal so viele Einwohner wie Mammendorf.",
+"Mammendorf hat fast dreieinhalbmal so viel Fläche wie Gröbenzell, aber weniger Einwohner."
+],
+"305-maisach": [
+"Gröbenzell hat rund 5.300 Einwohner mehr als Maisach.",
+"Maisach hat gut achtmal so viel Fläche wie Gröbenzell, aber weniger Einwohner."
+],
+"306-sulzemoos": [
+"Kreisgrenze: Sulzemoos gehört zum Landkreis Dachau, Gröbenzell zum Landkreis Fürstenfeldbruck.",
+"Gröbenzell hat fast siebenmal so viele Einwohner wie Sulzemoos."
+],
+"114-olching": [
+"Gemeindegründung: Gröbenzell entstand 1952 auch aus Teilen Olchings.",
+"Bundestagswahl 2025: Die Grünen schnitten in Gröbenzell stärker ab als in Olching."
+],
+"308-dachau": [
+"Kreisgrenze: Dachau gehört zum Landkreis Dachau, Gröbenzell zum Landkreis Fürstenfeldbruck.",
+"Dachau hat zweieinhalbmal so viele Einwohner wie Gröbenzell."
+],
+"309-karlsfeld": [
+"Kreisgrenze: Karlsfeld gehört zum Landkreis Dachau, Gröbenzell zum Landkreis Fürstenfeldbruck.",
+"Karlsfeld hat rund 2.200 Einwohner mehr als Gröbenzell."
+],
+"115-muenchen": [
+"Kreisgrenze: München ist kreisfrei, Gröbenzell gehört zum Landkreis Fürstenfeldbruck.",
+"München hat rund 80-mal so viele Einwohner wie Gröbenzell."
+]
+},
+"ags": "09179126",
+"ortsteil": false,
+"km_vom_vorigen": 4.2
+},
+{
+"slug": "308-dachau",
+"name": "Dachau",
+"lat": 48.26028,
+"lon": 11.43417,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dachau",
+"steckbrief": "Stadt mit rund 47.000 Einwohnern, 17 km nordwestlich von München.",
+"frage": "Im Dachauer Stadtwappen windet sich eine blaue Schlange mit roter Zunge. Wie kam sie hinein?",
+"optionen": [
+"Sie steht für die gewundene Amper.",
+"Sie stammt aus dem Wappen einer Herzogsbraut.",
+"Sie erinnert an Schlangen im Dachauer Moos.",
+"Sie stammt vom Wappen der früheren Ortsgrafen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Amper liegt nahe, denn auch ein Fluss windet sich. Doch die Schlange stammt aus dem Wappen der Visconti: Herzog Ernst heiratete Elisabetha Visconti und schenkte ihr Dachau als Morgengabe. Der Löwe daneben steht für die Wittelsbacher. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.dachau.de/stadtgeschichte-stadtwappen/; Haus der Bayerischen Geschichte, www.hdbg.eu/gemeinden/ (WÖRTER RÜCKSEITE: 44)",
+"faktencheck": "korrigiert",
+"id": "308-dachau/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dachau",
+"steckbrief": "Stadt mit rund 47.000 Einwohnern, 17 km nordwestlich von München.",
+"frage": "Wie viele Einwohner kommen in Dachau auf einen Quadratkilometer?",
+"optionen": [
+"unter 800",
+"800 bis unter 1.200",
+"1.200 bis unter 1.600",
+"1.600 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Kleinstadt im Grünen denkt, tippt niedriger. Doch auf 34,96 Quadratkilometern leben in Dachau 47.461 Menschen, rund 1.358 je Quadratkilometer. Richtig war 3.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "308-dachau/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Dachau",
+"steckbrief": "Stadt mit rund 47.000 Einwohnern, 17 km nordwestlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Erst der Erste Weltkrieg brachte der Dachauer Malerkolonie ihre Blütezeit.",
+"Im Dreißigjährigen Krieg wurde der Markt Dachau belagert und geplündert.",
+"Das Dachauer Schloss diente den Wittelsbachern einst als Sommerresidenz."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Wittelsbacher Sommerresidenz so nah an München wirkt verdächtig, stimmt aber, ebenso Belagerung und Plünderung im Dreißigjährigen Krieg. Gelogen ist die Blütezeit: Mit dem Ersten Weltkrieg kam der Niedergang des Ortes, Dachau verarmte. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.dachau.de/stadtgeschichte-stadtwappen/ und www.dachau.de/dachauer-schlosskonzerte/",
+"faktencheck": "korrigiert",
+"id": "308-dachau/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Dachau",
+"steckbrief": "Stadt mit rund 47.000 Einwohnern, 17 km nordwestlich von München.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: In Dachau lag die CSU vorn. Welche Partei wurde zweitstärkste Kraft?",
+"optionen": [
+"Grüne",
+"AfD",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn bundesweit wurde sie zweitstärkste Partei. In Dachau landeten die Grünen mit 15,1 Prozent knapp vor der AfD mit 14,4 Prozent. Die SPD wurde Vierte. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "308-dachau/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dachau",
+"steckbrief": "Stadt mit rund 47.000 Einwohnern, 17 km nordwestlich von München.",
+"frage": "Nach dem Zweiten Weltkrieg entstand das neue Stadtviertel Dachau-Ost. Welchen Grund nennt die Stadtgeschichte?",
+"optionen": [
+"Maler der Künstlerkolonie bauten sich dort Ateliers.",
+"Heimatvertriebene aus den deutschen Ostgebieten zogen zu.",
+"Ein Kurbetrieb an einer Heilquelle zog Zuzügler an.",
+"Abgebrannte Altstadtbewohner wurden dorthin umgesiedelt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Künstlerviertel liegt nahe, Dachaus Malerkolonie ist bekannt. Doch sie war da längst vorbei. Dachau-Ost entstand, weil nach dem Krieg Heimatvertriebene aus den deutschen Ostgebieten zuzogen. Die Einwohnerzahl stieg dadurch schnell. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.dachau.de/stadtgeschichte-stadtwappen/",
+"faktencheck": "bestätigt",
+"id": "308-dachau/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Dachau",
+"steckbrief": "Stadt mit rund 47.000 Einwohnern, 17 km nordwestlich von München.",
+"frage": "Dachau liegt dicht vor München. Zu welchem Landkreis gehört die Stadt?",
+"optionen": [
+"Landkreis München",
+"Landkreis Fürstenfeldbruck",
+"Landkreis Dachau",
+"Landkreis Freising"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Landkreis München liegt nahe, so dicht liegt Dachau an der Landeshauptstadt. Doch Dachau gehört zum gleichnamigen Landkreis und ist eine Große Kreisstadt. Richtig war 3.",
+"quelle": "dewiki Infobox (GRUNDDATEN); Gemeinde-Webseite, www.dachau.de/stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "308-dachau/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dachau",
+"steckbrief": "Stadt mit rund 47.000 Einwohnern, 17 km nordwestlich von München.",
+"frage": "Der Name Dachau wurde zum Symbol für das NS-Konzentrationslager. Seit wann ist Dachau eine Stadt?",
+"optionen": [
+"Dachau wurde 1270 zur Stadt erhoben.",
+"Dachau wurde 1805 zur Stadt erhoben.",
+"Dachau wurde 1890 zur Stadt erhoben.",
+"Dachau wurde 1933 zur Stadt erhoben."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein alter Ort mit Schloss, da tippt man auf das Mittelalter. Doch Dachau war lange ein Markt. Zur Stadt erhoben wurde es erst 1933, im selben Jahr, in dem das Konzentrationslager errichtet wurde. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.dachau.de/stadtgeschichte-stadtwappen/",
+"faktencheck": "bestätigt",
+"id": "308-dachau/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dachau",
+"steckbrief": "Stadt mit rund 47.000 Einwohnern, 17 km nordwestlich von München.",
+"frage": "Um 1900 sagte man über das Dachauer Straßenbild einen Satz. Welchen?",
+"optionen": [
+"Jeder zehnte Passant war ein Maler.",
+"Jeder zehnte Passant war ein Soldat.",
+"Jeder zehnte Passant war ein Pilger.",
+"Jeder zehnte Passant war ein Student."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Soldaten liegen nahe, so nah an der Residenzstadt München. Doch Dachau war neben Worpswede eine bedeutende deutsche Malerkolonie. Max Liebermann, Lovis Corinth und Carl Spitzweg sind bis heute mit der Stadt verbunden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.dachau.de/stadtgeschichte-stadtwappen/",
+"faktencheck": "korrigiert",
+"id": "308-dachau/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dachau",
+"steckbrief": "Stadt mit rund 47.000 Einwohnern, 17 km nordwestlich von München.",
+"frage": "Dachau ist im Jahr 805 erstmals in einer Urkunde belegt. Was hält diese Urkunde fest?",
+"optionen": [
+"Ein König verlieh dem Ort das Marktrecht.",
+"Ein Kloster verzeichnete dort Abgaben seiner Bauern.",
+"Eine Adlige schenkte ihren Grundbesitz einem Bistum.",
+"Ein Reisebericht beschreibt eine Brücke über die Amper."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Marktrecht liegt nahe, viele Ortsgeschichten beginnen damit. Doch die Urkunde hält eine Schenkung fest: Die Edle Erchana aus dem Geschlecht der Aribonen gab ihren gesamten Grundbesitz in Dahauua dem Bistum Freising. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.dachau.de/stadtgeschichte-stadtwappen/",
+"faktencheck": "unsicher",
+"id": "308-dachau/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "307-groebenzell",
+"anschluss": [
+"Kennzeichen: In Gröbenzell steht FFB am Auto, in Dachau DAH.",
+"Einwohner: Dachau hat mehr als doppelt so viele wie Gröbenzell."
+],
+"anschluesse": {
+"113-odelzhausen": [
+"Dachau hat gut achtmal so viele Einwohner wie Odelzhausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Odelzhausen die AfD, in Dachau die Grünen."
+],
+"305-maisach": [
+"Kreisgrenze: Maisach gehört zum Landkreis Fürstenfeldbruck, Dachau zum Landkreis Dachau.",
+"Dachau hat dreieinhalbmal so viele Einwohner wie Maisach."
+],
+"306-sulzemoos": [
+"Dachau hat siebzehnmal so viele Einwohner wie Sulzemoos.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Sulzemoos die AfD, in Dachau die Grünen."
+],
+"114-olching": [
+"Kreisgrenze: Olching gehört zum Landkreis Fürstenfeldbruck, Dachau zum Landkreis Dachau.",
+"Dachau hat gut anderthalbmal so viele Einwohner wie Olching."
+],
+"307-groebenzell": [
+"Kennzeichen: In Gröbenzell steht FFB am Auto, in Dachau DAH.",
+"Einwohner: Dachau hat mehr als doppelt so viele wie Gröbenzell."
+],
+"309-karlsfeld": [
+"Dachau hat gut doppelt so viele Einwohner wie Karlsfeld.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Karlsfeld die AfD, in Dachau die Grünen."
+],
+"115-muenchen": [
+"Kreisgrenze: München ist kreisfrei, Dachau gehört zum Landkreis Dachau.",
+"München hat rund 30-mal so viele Einwohner wie Dachau."
+],
+"127-eching": [
+"Kreisgrenze: Eching gehört zum Landkreis Freising, Dachau zum Landkreis Dachau.",
+"Dachau hat gut dreimal so viele Einwohner wie Eching."
+],
+"128-neufahrn": [
+"Kreisgrenze: Neufahrn bei Freising gehört zum Landkreis Freising, Dachau zum Landkreis Dachau.",
+"Dachau hat fast zweieinhalbmal so viele Einwohner wie Neufahrn bei Freising."
+]
+},
+"ags": "09174115",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 8.8
+},
+{
+"slug": "309-karlsfeld",
+"name": "Karlsfeld",
+"lat": 48.227,
+"lon": 11.46701,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsfeld",
+"steckbrief": "Die Gemeinde mit rund 21.400 Einwohnern liegt 13 km nordwestlich von München.",
+"frage": "Das Karlsfelder Wappen zeigt einen überdachten Ziehbrunnen. Welchen Grund nennt die Gemeinde dafür?",
+"optionen": [
+"Er ist das Wappenbild einer Familie von Klosterpröpsten.",
+"Er erinnert an eine heilkräftige Quelle im Moos.",
+"Er ist das Zeichen einer früheren Brunnenbauer-Zunft.",
+"Er zeigt den Brunnen eines alten Postwirtshauses."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Brunnen im Wappen lässt an Wasser denken, an eine Quelle oder ein Wirtshaus. Doch der Ziehbrunnen ist das Wappenbild der altbayerischen Familie Brunner. Aus ihr stammten verschiedene Pröpste des Klosters Indersdorf, das Beziehungen zum Karlsfelder Gebiet hatte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.karlsfeld.de/Ortsgeschichte.n25.html",
+"faktencheck": "bestätigt",
+"id": "309-karlsfeld/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Karlsfeld",
+"steckbrief": "Rund 21.400 Menschen leben in Karlsfeld, 13 km nordwestlich von München.",
+"frage": "Wie viele Einwohner leben in Karlsfeld im Durchschnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 800",
+"800 bis unter 1.600",
+"1.600 bis unter 3.000",
+"3.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Gemeinde klingt nach Feldern ringsum, daher schätzen viele niedrig. Doch Karlsfelds Einwohner teilen sich nur 15,61 Quadratkilometer; rechnerisch sind das 1.373 je Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "309-karlsfeld/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Karlsfeld",
+"steckbrief": "Karlsfeld zählt rund 21.400 Einwohner und liegt 13 km nordwestlich von München.",
+"frage": "Es geht um den Karlsfelder Ortsteil Rothschwaige. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Rothschwaige gehörte früher den Grafen von Dachau.",
+"Die Rothschwaige wurde erst in der Neuzeit gegründet.",
+"Die Rothschwaige war früher ein Hof für Vieh."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Moos um Karlsfeld lässt an eine junge Siedlung denken, also wirkt eine späte Gründung glaubhaft. Doch die Rothschwaige reicht bis ins Mittelalter zurück: Sie gehörte den Grafen von Dachau und kam später an das Kloster Indersdorf. Schon ihr Name verrät den Viehhof. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.karlsfeld.de/Ortsgeschichte.n25.html",
+"faktencheck": "bestätigt",
+"id": "309-karlsfeld/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Karlsfeld",
+"steckbrief": "Die Gemeinde mit rund 21.400 Einwohnern liegt 13 km nordwestlich von München.",
+"frage": "Wie hoch war die Wahlbeteiligung in Karlsfeld bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 72 %",
+"72 bis unter 77 %",
+"77 bis unter 81 %",
+"81 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Vororte mit vielen Zugezogenen gelten oft als wahlmüde, daher liegen niedrigere Spannen nahe. In Karlsfeld gaben bei der Bundestagswahl 2025 aber 82,9 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "korrigiert",
+"id": "309-karlsfeld/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Karlsfeld",
+"steckbrief": "Die Gemeinde zählt rund 21.400 Einwohner und liegt 13 km nordwestlich von München.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Karlsfeld?",
+"optionen": [
+"M",
+"DAH",
+"FFB",
+"FS"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. So nah an München liegt M nahe. Doch Karlsfeld gehört zum Landkreis Dachau, und dessen Hauptkennzeichen ist DAH. Richtig war 2.",
+"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "309-karlsfeld/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsfeld",
+"steckbrief": "Karlsfeld, rund 21.400 Einwohner, liegt 13 km nordwestlich von München.",
+"frage": "Der Karlsfelder See entstand aus einer Kiesgrube, die sich mit Grundwasser füllte. Wozu diente er von 1945 bis 1968?",
+"optionen": [
+"Segler trugen darauf ihre Regatten aus.",
+"Gemüsegärtner bewässerten daraus ihre Felder.",
+"Soldaten übten dort mit Schwimmpanzern.",
+"Wasserflugzeuge einer Fluglinie landeten darauf."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein großer Baggersee lockt Segler, Gärtner oder Flieger, daher liegen zivile Nutzungen nahe. Doch nach dem Krieg diente das Gelände der US-Armee als Truppenübungsplatz für Schwimmpanzer. Erst danach wurde es zum Freizeit- und Erholungsgelände mit Badesee umgebaut. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Karlsfeld",
+"faktencheck": "unsicher",
+"id": "309-karlsfeld/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsfeld",
+"steckbrief": "Die Gemeinde mit rund 21.400 Einwohnern liegt 13 km nordwestlich von München.",
+"frage": "Der Eichinger Weiher an der alten Würm ist ein kleiner Grundwassersee. Wozu wurde er einst ausgebaggert?",
+"optionen": [
+"Er entstand als Badeweiher für eine Kurklinik.",
+"Er lieferte Kies für einen Autobauer.",
+"Er wurde als Fischweiher für Karpfen angelegt.",
+"Er entstand als Eisweiher einer Brauerei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein stiller Weiher an der alten Würm lässt an Fischzucht, Badebetrieb oder Natureis denken; solche Teiche gibt es vielerorts. Doch der Eichinger Weiher wurde 1936 ausgebaggert, um Kies für das BMW-Werk in Allach zu gewinnen. Richtig war 2.",
+"quelle": "Gemeinde Karlsfeld, karlsfeld.de/Biotope-in-Karlsfeld.o775.html",
+"faktencheck": "korrigiert",
+"id": "309-karlsfeld/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "308-dachau",
+"anschluss": [
+"Bundestagswahl 2025: AfD in Karlsfeld und Dachau je 14,4 Prozent.",
+"Die Karlsfelder Rothschwaige gehörte einst den Grafen von Dachau."
+],
+"anschluesse": {
+"305-maisach": [
+"Kreisgrenze: Maisach gehört zum Landkreis Fürstenfeldbruck, Karlsfeld zum Landkreis Dachau.",
+"Karlsfeld hat anderthalbmal so viele Einwohner wie Maisach."
+],
+"306-sulzemoos": [
+"Karlsfeld hat fast achtmal so viele Einwohner wie Sulzemoos."
+],
+"114-olching": [
+"Kreisgrenze: Olching gehört zum Landkreis Fürstenfeldbruck, Karlsfeld zum Landkreis Dachau.",
+"Olching hat rund 6.000 Einwohner mehr als Karlsfeld."
+],
+"307-groebenzell": [
+"Kreisgrenze: Gröbenzell gehört zum Landkreis Fürstenfeldbruck, Karlsfeld zum Landkreis Dachau.",
+"Karlsfeld hat rund 2.200 Einwohner mehr als Gröbenzell."
+],
+"308-dachau": [
+"Bundestagswahl 2025: AfD in Karlsfeld und Dachau je 14,4 Prozent.",
+"Die Karlsfelder Rothschwaige gehörte einst den Grafen von Dachau."
+],
+"115-muenchen": [
+"Kreisgrenze: München ist kreisfrei, Karlsfeld gehört zum Landkreis Dachau.",
+"München hat rund 70-mal so viele Einwohner wie Karlsfeld."
+],
+"127-eching": [
+"Kreisgrenze: Eching gehört zum Landkreis Freising, Karlsfeld zum Landkreis Dachau.",
+"Karlsfeld hat fast anderthalbmal so viele Einwohner wie Eching."
+],
+"128-neufahrn": [
+"Kreisgrenze: Neufahrn bei Freising gehört zum Landkreis Freising, Karlsfeld zum Landkreis Dachau.",
+"Neufahrn bei Freising und Karlsfeld sind fast gleich groß: rund 21.000 und 21.000 Einwohner."
+]
+},
+"ags": "09174126",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 4.4
 },
 {
 "slug": "115-muenchen",
@@ -33259,24 +43619,482 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "114-olching",
-"anschluss": [
-"Einwohner: München zählt rund 55-mal so viele wie Olching.",
-"Bundestagswahl 2025: Olching hatte eine höhere Wahlbeteiligung als München."
-],
+"anschluss_von": "309-karlsfeld",
+"anschluss": [],
 "anschluesse": {
+"307-groebenzell": [
+"Kreisgrenze: Gröbenzell gehört zum Landkreis Fürstenfeldbruck, München ist kreisfrei.",
+"München hat rund 80-mal so viele Einwohner wie Gröbenzell."
+],
+"308-dachau": [
+"Kreisgrenze: Dachau gehört zum Landkreis Dachau, München ist kreisfrei.",
+"München hat rund 30-mal so viele Einwohner wie Dachau."
+],
+"309-karlsfeld": [
+"Kreisgrenze: Karlsfeld gehört zum Landkreis Dachau, München ist kreisfrei.",
+"München hat rund 70-mal so viele Einwohner wie Karlsfeld."
+],
 "127-eching": [
 "Kreisgrenze: Eching gehört zum Landkreis Freising, München ist kreisfrei.",
 "München hat rund 100-mal so viele Einwohner wie Eching."
-],
-"114-olching": [
-"Einwohner: München zählt rund 55-mal so viele wie Olching.",
-"Bundestagswahl 2025: Olching hatte eine höhere Wahlbeteiligung als München."
 ]
 },
 "ags": "09162000",
 "ortsteil": false,
-"km_vom_vorigen": 20.4
+"km_vom_vorigen": 12.8
+},
+{
+"slug": "310-geisingen",
+"name": "Geisingen",
+"lat": 47.92222,
+"lon": 8.64639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geisingen",
+"steckbrief": "Stadt mit rund 6.200 Einwohnern, 60 km östlich von Freiburg im Breisgau.",
+"frage": "Nach über 600 Jahren als Stadt verlor Geisingen 1921 sein Stadtrecht. Was war der Grund?",
+"optionen": [
+"Die französische Besatzung entzog es als Strafe.",
+"Ein Freiburger Gericht erklärte die Stadturkunde ungültig.",
+"Die Badische Gemeindeordnung nahm es der Stadt.",
+"Die Fürstenberger zogen ihr altes Privileg zurück."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die französische Besatzung liegt nahe, denn die Zeit nach dem Ersten Weltkrieg war voller Strafen und Abtretungen. Doch es war Landesrecht: Die Badische Gemeindeordnung nahm Geisingen den Stadttitel. Erst nach dem Aufschwung nach dem Zweiten Weltkrieg erlaubte das Land Baden-Württemberg die Bezeichnung wieder. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte",
+"faktencheck": "bestätigt",
+"id": "310-geisingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Geisingen",
+"steckbrief": "Kleinstadt an der jungen Donau mit rund 6.200 Einwohnern, 60 km östlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Stadt Geisingen samt aller Stadtteile?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 45 km²",
+"45 bis unter 65 km²",
+"65 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Kleinstadt denkt man an eine kleine Gemarkung. Doch zu Geisingen gehören die eingemeindeten Orte Gutmadingen, Kirchen-Hausen, Aulfingen und Leipferdingen, dazu viel Wald. Zusammen sind es 73,75 km². Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "310-geisingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Geisingen",
+"steckbrief": "Stadt an der jungen Donau, rund 6.200 Einwohner, 60 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Wartenberger übernahmen Geisingen von den ausgestorbenen Fürstenbergern.",
+"Schweden eroberten und plünderten Geisingen im Dreißigjährigen Krieg.",
+"Die Fürstenberger hatten zeitweise ihren Regierungssitz in Geisingen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein fürstenbergischer Regierungssitz im kleinen Geisingen klingt unwahrscheinlich, stimmt aber. Gelogen war die Reihenfolge: Der Überlieferung nach sollen die Herren von Wartenberg die Stadt gegründet haben, und nach ihrem Aussterben kam Geisingen an die Grafen von Fürstenberg. Auch die Schweden plünderten Geisingen wirklich. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte",
+"faktencheck": "korrigiert",
+"id": "310-geisingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Geisingen",
+"steckbrief": "Ländliche Kleinstadt mit rund 6.200 Einwohnern, 60 km östlich von Freiburg im Breisgau.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Geisingen die zweitmeisten Zweitstimmen?",
+"optionen": [
+"CDU",
+"AfD",
+"SPD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, denn sie ist eine der beiden alten Volksparteien. In Geisingen kam bei der Bundestagswahl 2025 aber die AfD hinter der CDU auf Platz zwei, deutlich vor SPD und Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "310-geisingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geisingen",
+"steckbrief": "Stadt mit rund 6.200 Einwohnern, 60 km östlich von Freiburg im Breisgau.",
+"frage": "Der Sage nach erlosch der Brand, der Geisingen 1487 weitgehend zerstörte, auf besondere Weise. Was hatten die Geisinger getan?",
+"optionen": [
+"Sie leiteten die Donau durch die Gassen.",
+"Sie gelobten der Muttergottes eine jährliche Wallfahrt.",
+"Sie trugen die Agathafigur auf die Hauptstraße.",
+"Sie läuteten die Glocke des heiligen Florian."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der heilige Florian liegt nahe, denn er ist der bekannte Schutzpatron gegen Feuer. Doch der Sage nach trugen die Geisinger die Agathafigur aus der Kirche in die Hauptstraße, und daraufhin erlosch das Feuer. Ob es so war, bleibt Sage; der Brand hatte die Stadt weitgehend zerstört. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.geisingen.de/de/unser-staedtle/Stadtportrait/1250-Jahre-Die-Geschichte",
+"faktencheck": "unsicher",
+"id": "310-geisingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Geisingen",
+"steckbrief": "Stadt mit rund 6.200 Einwohnern, 60 km östlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist es von Geisingen in der Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 40 km",
+"40 bis unter 70 km",
+"70 bis unter 100 km",
+"100 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Geisingen liegt an der Autobahn nach Stuttgart, da wirkt die Landeshauptstadt nah. Doch in der Luftlinie sind es 103 km, deutlich weiter als nach Freiburg im Breisgau. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "310-geisingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geisingen",
+"steckbrief": "Stadt an der jungen Donau mit rund 6.200 Einwohnern, 60 km östlich von Freiburg im Breisgau.",
+"frage": "Im Freizeitgebiet DANUTERRA liegt die arena geisingen. Wofür ist sie laut Stadt ein europaweit einmaliges Zentrum?",
+"optionen": [
+"Sie ist ein Zentrum für Inlinesport.",
+"Sie ist ein Zentrum für Kanusport.",
+"Sie ist ein Zentrum für Eisstockschießen.",
+"Sie ist ein Zentrum für Bogenschießen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kanusport liegt nahe, denn Geisingen liegt an der jungen Donau. Doch die arena geisingen ist eine Wettkampf- und Trainingsanlage für Inlinesport; die Stadt nennt sie ein europaweit einmaliges Zentrum dafür. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.geisingen.de/de/unser-staedtle/Stadtportrait",
+"faktencheck": "bestätigt",
+"id": "310-geisingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geisingen",
+"steckbrief": "Stadt mit rund 6.200 Einwohnern, 60 km östlich von Freiburg im Breisgau.",
+"frage": "Seit 2003 hat Geisingen offiziell eine Partnergemeinde. Wo liegt sie?",
+"optionen": [
+"Sie liegt in Frankreich, im Elsass.",
+"Sie liegt in Ungarn, am Mátra-Gebirge.",
+"Sie liegt in Italien, am Gardasee.",
+"Sie liegt in Polen, in Schlesien."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Frankreich liegt nahe, denn viele badische Gemeinden pflegen Partnerschaften mit dem nahen Nachbarland. Geisingens Partnergemeinde ist aber Gyöngyöstarján in Ungarn, am südlichen Rand des Mátra-Gebirges. Es gibt Besuche, Schüleraustausche und Vereinsbesuche. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.geisingen.de/de/unser-staedtle/Stadtportrait/Partnerschaften",
+"faktencheck": "bestätigt",
+"id": "310-geisingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "115-muenchen",
+"anschluss": [
+"Höhe: Geisingen liegt über 140 Meter höher als München.",
+"Einwohner: München hat über 240-mal so viele wie Geisingen."
+],
+"anschluesse": {
+"77-braeunlingen": [
+"Kreisgrenze: Bräunlingen gehört zum Schwarzwald-Baar-Kreis, Geisingen zum Landkreis Tuttlingen.",
+"Bräunlingen und Geisingen sind fast gleich groß: rund 5.800 und 6.200 Einwohner."
+],
+"78-huefingen": [
+"Kreisgrenze: Hüfingen gehört zum Schwarzwald-Baar-Kreis, Geisingen zum Landkreis Tuttlingen.",
+"Hüfingen hat rund 1.900 Einwohner mehr als Geisingen."
+],
+"79-donaueschingen": [
+"Kreisgrenze: Donaueschingen gehört zum Schwarzwald-Baar-Kreis, Geisingen zum Landkreis Tuttlingen.",
+"Donaueschingen hat dreieinhalbmal so viele Einwohner wie Geisingen."
+],
+"80-bad-duerrheim": [
+"Kreisgrenze: Bad Dürrheim gehört zum Schwarzwald-Baar-Kreis, Geisingen zum Landkreis Tuttlingen.",
+"Bad Dürrheim hat gut doppelt so viele Einwohner wie Geisingen."
+],
+"81-villingen-schwenningen": [
+"Kreisgrenze: Villingen-Schwenningen gehört zum Schwarzwald-Baar-Kreis, Geisingen zum Landkreis Tuttlingen.",
+"Villingen-Schwenningen hat fünfzehnmal so viele Einwohner wie Geisingen."
+],
+"82-tuningen": [
+"Kreisgrenze: Tuningen gehört zum Schwarzwald-Baar-Kreis, Geisingen zum Landkreis Tuttlingen.",
+"Geisingen hat fast doppelt so viele Einwohner wie Tuningen."
+],
+"311-immendingen": [
+"Immendingen und Geisingen sind fast gleich groß: rund 6.600 und 6.200 Einwohner."
+],
+"116-engen": [
+"Kreisgrenze: Engen gehört zum Landkreis Konstanz, Geisingen zum Landkreis Tuttlingen.",
+"Engen hat fast doppelt so viele Einwohner wie Geisingen."
+],
+"115-muenchen": [
+"Höhe: Geisingen liegt über 140 Meter höher als München.",
+"Einwohner: München hat über 240-mal so viele wie Geisingen."
+]
+},
+"ags": "08327018",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 219.1
+},
+{
+"slug": "311-immendingen",
+"name": "Immendingen",
+"lat": 47.94,
+"lon": 8.73306,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Immendingen",
+"steckbrief": "Immendingen ist eine Gemeinde mit rund 6.600 Einwohnern, 66 km östlich von Freiburg im Breisgau.",
+"frage": "Was wurde 1835 im Oberen Schloss von Immendingen eingerichtet?",
+"optionen": [
+"Dort entstand eine Uhrenfabrik, die als erste Badens gilt.",
+"Dort entstand eine Maschinenfabrik, die als erste Badens gilt.",
+"Dort entstand eine Textilfabrik, die als erste Badens gilt.",
+"Dort entstand eine Zigarrenfabrik, die als erste Badens gilt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Uhrenfabrik liegt nahe, denn der Schwarzwald ist für Uhren bekannt. Doch im Oberen Schloss entstand eine Maschinenfabrik, die als erste Badens gilt. Später zog die Fabrik ins Untere Schloss um. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.immendingen.de/startseite/informieren/geschichtliches.html",
+"faktencheck": "korrigiert",
+"id": "311-immendingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Immendingen",
+"steckbrief": "Immendingen ist eine Gemeinde mit rund 6.600 Einwohnern, 66 km östlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Immendingen?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 45 km²",
+"45 bis unter 80 km²",
+"80 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Ort dieser Größe lässt eine kleinere Fläche erwarten. Doch zur Gemeinde gehören auch Hattingen, Hintschingen, Ippingen, Mauenheim und Zimmern, eingemeindet im Zuge der Gemeindereform. Zusammen sind es 74,05 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046; Ortschaften: Gemeinde-Webseite, www.immendingen.de/startseite/informieren/geschichtliches.html",
+"faktencheck": "korrigiert",
+"id": "311-immendingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Immendingen",
+"steckbrief": "Immendingen ist eine Gemeinde mit rund 6.600 Einwohnern, 66 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bei Immendingen versickert die Donau im Untergrund.",
+"Der Ortsname geht auf römische Siedler zurück.",
+"Zur Landschaft um Immendingen gehört der Hegauvulkan Höwenegg."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Römer klingen plausibel, denn sie hinterließen im Südwesten viele Spuren. Doch der Name geht auf einen alemannischen Stammesvater zurück, der sich mit seiner Sippe im Talgrund der Donau niederließ. Donauversinkung und Höwenegg sind echt. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.immendingen.de/startseite/informieren/geschichtliches.html und gemeindeportrait.html",
+"faktencheck": "korrigiert",
+"id": "311-immendingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Immendingen",
+"steckbrief": "Immendingen ist eine Gemeinde im Landkreis Tuttlingen mit rund 6.600 Einwohnern, 66 km östlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war die Wahlbeteiligung in Immendingen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 85 %",
+"85 bis unter 88 %",
+"88 bis unter 91 %",
+"91 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Wahl war stark umkämpft, da liegt eine noch höhere Beteiligung nahe. In Immendingen gaben 82,2 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Partei wurde die CDU vor der AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "311-immendingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Immendingen",
+"steckbrief": "Immendingen ist eine Gemeinde mit rund 6.600 Einwohnern, 66 km östlich von Freiburg im Breisgau.",
+"frage": "In der Immendinger Kaserne lag von 1996 bis 2011 auch ein ausländisches Regiment. Woher kam es?",
+"optionen": [
+"Es kam aus den USA.",
+"Es kam aus Frankreich.",
+"Es kam aus Kanada.",
+"Es kam aus Großbritannien."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die USA liegen nahe, denn amerikanische Truppen waren lange in Süddeutschland stationiert. Doch in Immendingen lag das 3. Französische Husarenregiment. Nach Schließung der Garnison war auf dem Gelände ein Prüf- und Technologiezentrum von Daimler vorgesehen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.immendingen.de/startseite/informieren/geschichtliches.html",
+"faktencheck": "bestätigt",
+"id": "311-immendingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Immendingen",
+"steckbrief": "Immendingen ist eine Gemeinde mit rund 6.600 Einwohnern, 66 km östlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist es von Immendingen nach Stuttgart, gemessen in Luftlinie?",
+"optionen": [
+"unter 50 km",
+"50 bis unter 80 km",
+"80 bis unter 110 km",
+"110 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an die 66 Kilometer nach Freiburg denkt, schätzt Stuttgart ähnlich nah. Doch die Landeshauptstadt liegt 99 Kilometer Luftlinie entfernt, anderthalbmal so weit. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "311-immendingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Immendingen",
+"steckbrief": "Immendingen ist eine Gemeinde mit rund 6.600 Einwohnern, 66 km östlich von Freiburg im Breisgau.",
+"frage": "Bei Immendingen wurde schon im Mittelalter Bohnerz entdeckt. Woher hat das Bohnerz seinen Namen?",
+"optionen": [
+"Bauern fanden es beim Bohnenanbau im Acker.",
+"Bergleute gewannen es durch Bohren in Fels.",
+"Es galt als so wertlos wie Bohnen.",
+"Es kommt oft in bohnenförmigen Gebilden vor."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Acker liegt nahe, weil man bei Bohnen zuerst an Landwirtschaft denkt. Doch der Name beschreibt das Erz selbst: Der braune Eisenstein bildet oft bohnenförmige Gebilde. Ein frühes Schmelzwerk dafür stand auf der Gemarkung Ippingen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.immendingen.de/startseite/informieren/geschichtliches.html",
+"faktencheck": "korrigiert",
+"id": "311-immendingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Immendingen",
+"steckbrief": "Immendingen ist eine Gemeinde mit rund 6.600 Einwohnern, 66 km östlich von Freiburg im Breisgau.",
+"frage": "1812 beschloss ein Adelshaus, in Bachzimmern ein neues Schmelzwerk zu bauen, die Amalienhütte. Welches?",
+"optionen": [
+"Das Haus Fürstenberg ließ die Hütte bauen.",
+"Das Haus Württemberg ließ die Hütte bauen.",
+"Das Haus Hohenzollern ließ die Hütte bauen.",
+"Das Haus Habsburg ließ die Hütte bauen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Württemberg liegt nahe, weil das heutige Bundesland den Namen trägt. Doch bauen ließ die Hütte das Haus Fürstenberg, das zuvor schon das Obere Schloss in Immendingen gekauft hatte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.immendingen.de/startseite/informieren/geschichtliches.html",
+"faktencheck": "korrigiert",
+"id": "311-immendingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Immendingen",
+"steckbrief": "Immendingen ist eine Gemeinde mit rund 6.600 Einwohnern, 66 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Bauernkrieg wurde Immendingen mit harten Strafen belegt.",
+"Im Dreißigjährigen Krieg wurde Immendingen geplündert.",
+"Die Napoleonischen Kriege brachten Immendingen Wohlstand."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Dreißigjährige Krieg wirkt verdächtig, denn die Gegend blieb lange verschont. Doch danach kamen Plünderung, Brandschatzung, Hunger und Pest. Gelogen ist der Wohlstand: Truppendurchzüge der Napoleonischen Heere stürzten Immendingen in tiefe Schulden. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.immendingen.de/startseite/informieren/geschichtliches.html",
+"faktencheck": "korrigiert",
+"id": "311-immendingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Immendingen",
+"steckbrief": "Immendingen ist eine Gemeinde mit rund 6.600 Einwohnern, 66 km östlich von Freiburg im Breisgau.",
+"frage": "Das Immendinger Wappen zeigt oben einen roten Löwen. Auf wen geht das Wappen zurück?",
+"optionen": [
+"Es stammt von den Herren von Schreckenstein.",
+"Es stammt von den Herren von Immendingen.",
+"Es stammt von den Herren von Reischach.",
+"Es stammt vom Haus Fürstenberg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Schreckenstein oder Reischach liegen nahe, denn beide Geschlechter saßen einst in Immendinger Schlössern. Doch das Wappen geht auf die Herren von Immendingen zurück. Unten zeigt es blaue und silberne Streifen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.immendingen.de/startseite/informieren/gemeindeportrait.html",
+"faktencheck": "bestätigt",
+"id": "311-immendingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "310-geisingen",
+"anschluss": [
+"Einwohner: Immendingen hat rund 470 mehr als Geisingen.",
+"Bundestagswahl 2025: AfD in Immendingen 29,4, in Geisingen 23,9 Prozent."
+],
+"anschluesse": {
+"78-huefingen": [
+"Kreisgrenze: Hüfingen gehört zum Schwarzwald-Baar-Kreis, Immendingen zum Landkreis Tuttlingen.",
+"Hüfingen hat rund 1.400 Einwohner mehr als Immendingen."
+],
+"79-donaueschingen": [
+"Kreisgrenze: Donaueschingen gehört zum Schwarzwald-Baar-Kreis, Immendingen zum Landkreis Tuttlingen.",
+"Donaueschingen hat fast dreieinhalbmal so viele Einwohner wie Immendingen."
+],
+"80-bad-duerrheim": [
+"Kreisgrenze: Bad Dürrheim gehört zum Schwarzwald-Baar-Kreis, Immendingen zum Landkreis Tuttlingen.",
+"Bad Dürrheim hat doppelt so viele Einwohner wie Immendingen."
+],
+"82-tuningen": [
+"Kreisgrenze: Tuningen gehört zum Schwarzwald-Baar-Kreis, Immendingen zum Landkreis Tuttlingen.",
+"Immendingen hat doppelt so viele Einwohner wie Tuningen."
+],
+"310-geisingen": [
+"Einwohner: Immendingen hat rund 470 mehr als Geisingen.",
+"Bundestagswahl 2025: AfD in Immendingen 29,4, in Geisingen 23,9 Prozent."
+],
+"116-engen": [
+"Kreisgrenze: Engen gehört zum Landkreis Konstanz, Immendingen zum Landkreis Tuttlingen.",
+"Engen hat gut anderthalbmal so viele Einwohner wie Immendingen."
+]
+},
+"ags": "08327025",
+"ortsteil": false,
+"km_vom_vorigen": 6.8
 },
 {
 "slug": "116-engen",
@@ -33458,27 +44276,32 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "115-muenchen",
-"anschluss": [
-"Höhe: Engen und München liegen beide gut 500 Meter hoch.",
-"Bundestagswahl 2025: Die FDP lag in Engen und München gleichauf."
-],
+"anschluss_von": "311-immendingen",
+"anschluss": [],
 "anschluesse": {
+"310-geisingen": [
+"Kreisgrenze: Geisingen gehört zum Landkreis Tuttlingen, Engen zum Landkreis Konstanz.",
+"Engen hat fast doppelt so viele Einwohner wie Geisingen."
+],
+"311-immendingen": [
+"Kreisgrenze: Immendingen gehört zum Landkreis Tuttlingen, Engen zum Landkreis Konstanz.",
+"Engen hat gut anderthalbmal so viele Einwohner wie Immendingen."
+],
 "117-singen": [
 "Bundestagswahl 2025: In Singen lag die AfD vorn, in Engen die CDU.",
 "Singen hat gut viermal so viele Einwohner wie Engen."
 ],
+"312-radolfzell": [
+"Radolfzell am Bodensee hat fast dreimal so viele Einwohner wie Engen.",
+"Engen liegt rund 260 Meter höher als Radolfzell am Bodensee."
+],
 "118-stockach": [
 "Stockach hat gut anderthalbmal so viele Einwohner wie Engen."
-],
-"115-muenchen": [
-"Höhe: Engen und München liegen beide gut 500 Meter hoch.",
-"Bundestagswahl 2025: Die FDP lag in Engen und München gleichauf."
 ]
 },
 "ags": "08335022",
 "ortsteil": false,
-"km_vom_vorigen": 211.0
+"km_vom_vorigen": 10.1
 },
 {
 "slug": "117-singen",
@@ -33696,14 +44519,257 @@ window.QA_DATEN = {
 "Singen hat gut viermal so viele Einwohner wie Engen.",
 "Bundestagswahl 2025: In Singen lag AfD vorn, in Engen CDU."
 ],
+"312-radolfzell": [
+"Bundestagswahl 2025: In Radolfzell am Bodensee lag die CDU vorn, in Singen die AfD.",
+"Singen hat anderthalbmal so viele Einwohner wie Radolfzell am Bodensee."
+],
 "118-stockach": [
 "Bundestagswahl 2025: In Stockach lag die CDU vorn, in Singen die AfD.",
 "Singen hat gut zweieinhalbmal so viele Einwohner wie Stockach."
+],
+"313-bodman-ludwigshafen": [
+"Bundestagswahl 2025: In Bodman-Ludwigshafen lag die CDU vorn, in Singen die AfD.",
+"Singen hat zehnmal so viele Einwohner wie Bodman-Ludwigshafen."
 ]
 },
 "ags": "08335075",
 "ortsteil": false,
 "km_vom_vorigen": 11.2
+},
+{
+"slug": "312-radolfzell",
+"name": "Radolfzell am Bodensee",
+"lat": 47.73694,
+"lon": 8.96972,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Radolfzell am Bodensee",
+"steckbrief": "Stadt mit rund 32.000 Einwohnern, 86 km südlich von Reutlingen.",
+"frage": "1415 wurde Papst Johannes XXIII., der vom Konstanzer Konzil geflohen war, in Radolfzell festgehalten. Wo hatte man ihn gefangen genommen?",
+"optionen": [
+"Man nahm ihn in Basel gefangen.",
+"Man nahm ihn in Straßburg gefangen.",
+"Man nahm ihn in Freiburg gefangen.",
+"Man nahm ihn in Zürich gefangen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Basel liegt nahe: Die Stadt am Rhein war von Konstanz aus schnell erreichbar. Gefasst wurde der Papst aber in Freiburg. In Radolfzell, untergebracht in einem Wirtshaus und einem festen Turm, willigte er in seine Absetzung ein. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.radolfzell.de/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "312-radolfzell/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Radolfzell am Bodensee",
+"steckbrief": "Stadt am westlichen Bodenseeufer mit fünf Bahnstationen, 86 km südlich von Reutlingen.",
+"frage": "Wie viele Einwohner hat Radolfzell am Bodensee?",
+"optionen": [
+"unter 10.000",
+"10.000 bis unter 20.000",
+"20.000 bis unter 30.000",
+"30.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am See denkt man an kleine Uferorte mit Booten und Fischern, deshalb schätzen viele zu niedrig. Doch die vielen Bahnstationen verraten mehr: Radolfzell zählte Ende 2025 31.689 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "312-radolfzell/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Radolfzell am Bodensee",
+"steckbrief": "Stadt mit rund 32.000 Einwohnern, 86 km südlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kaiser Ferdinand I. besuchte einst die Stadt.",
+"Ein Konstanzer Bischof verlieh der Stadt das Stadtrecht.",
+"König Maximilian I. verlieh der Stadt eine eigene Halsgerichtsordnung."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Bischof im nahen Konstanz liegt als Stadtherr nahe. Das Stadtrecht verlieh aber der Reichenauer Abt Albrecht von Ramstein; damit verschmolzen Marktbewohner und Hofgemeinde zu einer Bürgergemeinde. Ferdinand I. kam wirklich zu Besuch, und Maximilian I. verlieh der Stadt eine eigene Halsgerichtsordnung, ein Strafgesetzbuch. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.radolfzell.de/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "312-radolfzell/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Radolfzell am Bodensee",
+"steckbrief": "Stadt mit rund 32.000 Einwohnern, 86 km südlich von Reutlingen.",
+"frage": "Wie hoch war die Wahlbeteiligung in Radolfzell bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 85 %",
+"85 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In Städten gehen oft weniger Menschen wählen als auf dem Land, darum tippen viele niedriger. In Radolfzell gaben bei der Bundestagswahl 2025 aber 83,4 Prozent (Stand 23.02.2025) ihre Stimme ab. Stärkste Kraft wurde die CDU, vor den Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "312-radolfzell/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Radolfzell am Bodensee",
+"steckbrief": "Stadt mit rund 32.000 Einwohnern, 86 km südlich von Reutlingen.",
+"frage": "Um 826 gründete ein Bischof am Untersee eine Zelle mit Häusern und Kirche, aus der Radolfzell erwuchs. Wo war er Bischof?",
+"optionen": [
+"Er war Bischof von Konstanz.",
+"Er war Bischof von Chur.",
+"Er war Bischof von Verona.",
+"Er war Bischof von Basel."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Bodensee denkt man zuerst an Konstanz. Doch Radolf, auch Ratoldus genannt, war Bischof von Verona. Auf Land des Klosters Reichenau gründete er die Cella Ratoldi, eine kleine geistliche Niederlassung, und brachte Gebeine der Heiligen Theopont und Senesius aus Oberitalien an den See. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.radolfzell.de/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "312-radolfzell/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Radolfzell am Bodensee",
+"steckbrief": "Stadt mit rund 32.000 Einwohnern, 86 km südlich von Reutlingen.",
+"frage": "Zu welchem Landkreis gehört Radolfzell am Bodensee?",
+"optionen": [
+"Landkreis Tuttlingen",
+"Bodenseekreis",
+"Landkreis Sigmaringen",
+"Landkreis Konstanz"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Namenszusatz am Bodensee lockt zum Bodenseekreis. Doch an den See grenzen mehrere Kreise, und Radolfzell gehört zum Landkreis Konstanz, der nach der großen Stadt am See heißt, nicht nach dem See. Hauptkennzeichen ist deshalb KN. Richtig war 4.",
+"quelle": "dewiki Infobox; Kennzeichen: Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "312-radolfzell/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Radolfzell am Bodensee",
+"steckbrief": "Stadt mit rund 32.000 Einwohnern, 86 km südlich von Reutlingen.",
+"frage": "Im Dreißigjährigen Krieg starb etwa die Hälfte der Radolfzeller an eingeschleppten Seuchen. Wie viele Menschen lebten danach noch in der Stadt?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.500",
+"2.500 bis unter 5.000",
+"5.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer von der heutigen Größe ausgeht, rechnet mit Tausenden. Doch nach dem Krieg lebten nur noch etwa 400 Menschen in der Stadt. Truppen hatten Seuche und Pest eingeschleppt, Radolfzell war besonders schlimm heimgesucht worden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.radolfzell.de/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "312-radolfzell/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Radolfzell am Bodensee",
+"steckbrief": "Stadt mit rund 32.000 Einwohnern, 86 km südlich von Reutlingen.",
+"frage": "Radolfzells Marktrecht von 1100 nennt die Stadtgeschichte den ersten nachweisbaren Versuch eines eigenen städtischen Bodenrechts im Südwesten. Wie viel früher als Freiburg im Breisgau?",
+"optionen": [
+"Radolfzell war fünf Jahre früher dran.",
+"Radolfzell war zwanzig Jahre früher dran.",
+"Radolfzell war fünfzig Jahre früher dran.",
+"Radolfzell war hundert Jahre früher dran."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer „erster Versuch“ hört, vermutet einen großen Vorsprung. Es waren zwanzig Jahre: Der Reichenauer Abt Ulrich von Dapfen schuf mit Zustimmung Heinrichs IV. neben dem Bauern- und Fischerdorf einen Handelsplatz mit eigenem Recht. Das war der erste Anstoß zur Stadt Radolfzell. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.radolfzell.de/stadtgeschichte",
+"faktencheck": "unsicher",
+"id": "312-radolfzell/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Radolfzell am Bodensee",
+"steckbrief": "Stadt mit rund 32.000 Einwohnern, 86 km südlich von Reutlingen.",
+"frage": "1609 verschenkte Junker Hans von Schellenberg sein Haus in Radolfzell, das heute neben dem Rathaus steht. Wem war es damals zugedacht?",
+"optionen": [
+"Es war für die Fischerzunft bestimmt.",
+"Es war für den Abt der Reichenau bestimmt.",
+"Es war für die Weinbauernzunft bestimmt.",
+"Es war für die Hegauer Rittergesellschaft bestimmt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Fisch im Wappen am Portal lässt an Fischer denken. Doch Falken, Fisch, Schwert und Zepter zieren das Haus der Adelsgesellschaft zum St. Jörgenschild, der Ritter aus dem Hegau. Es diente als Versammlungsort und Verwaltungssitz der Reichsritterschaft im Hegau. Heute sitzt dort das Amtsgericht. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.radolfzell.de/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "312-radolfzell/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Radolfzell am Bodensee",
+"steckbrief": "Stadt mit rund 32.000 Einwohnern, 86 km südlich von Reutlingen.",
+"frage": "Im Bauernkrieg belagerten aufständische Bauern Radolfzell vergeblich. Was mussten Böhringen und Überlingen am Ried der Stadt danach laut Stadtgeschichte als Entschädigung überlassen?",
+"optionen": [
+"Sie traten der Stadt Wälder ab.",
+"Sie traten der Stadt Weinberge ab.",
+"Sie traten der Stadt Fischrechte ab.",
+"Sie traten der Stadt Mühlen ab."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am See liegen Fischrechte nahe, im Hinterland Weinberge. Die Stadtgeschichte nennt aber Wälder. Mit Hilfe des Schwäbischen Bundes hatten die Verteidiger die Stadt gehalten; bei Steißlingen und Hilzingen wurden die Bauern geschlagen und zur bedingungslosen Kapitulation gezwungen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.radolfzell.de/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "312-radolfzell/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "117-singen",
+"anschluss": [
+"Bundestagswahl 2025: Stärkste Partei in Radolfzell CDU, in Singen AfD."
+],
+"anschluesse": {
+"116-engen": [
+"Radolfzell am Bodensee hat fast dreimal so viele Einwohner wie Engen.",
+"Engen liegt rund 260 Meter höher als Radolfzell am Bodensee."
+],
+"117-singen": [
+"Bundestagswahl 2025: Stärkste Partei in Radolfzell CDU, in Singen AfD."
+],
+"118-stockach": [
+"Radolfzell am Bodensee hat fast doppelt so viele Einwohner wie Stockach.",
+"Stockach liegt rund 220 Meter höher als Radolfzell am Bodensee."
+],
+"313-bodman-ludwigshafen": [
+"Radolfzell am Bodensee hat fast siebenmal so viele Einwohner wie Bodman-Ludwigshafen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bodman-Ludwigshafen die AfD, in Radolfzell am Bodensee die Grünen."
+],
+"119-ueberlingen": [
+"Kreisgrenze: Überlingen gehört zum Bodenseekreis, Radolfzell am Bodensee zum Landkreis Konstanz.",
+"Radolfzell am Bodensee hat rund 8.900 Einwohner mehr als Überlingen."
+]
+},
+"ags": "08335063",
+"ortsteil": false,
+"km_vom_vorigen": 10.1
 },
 {
 "slug": "118-stockach",
@@ -33891,18 +44957,22 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "117-singen",
-"anschluss": [
-"Bundestagswahl 2025: AfD vorn in Singen, CDU vorn in Stockach.",
-"Fläche: Stockach ist größer als Singen, hat aber weniger Einwohner."
-],
+"anschluss_von": "312-radolfzell",
+"anschluss": [],
 "anschluesse": {
 "116-engen": [
 "Stockach hat gut anderthalbmal so viele Einwohner wie Engen."
 ],
 "117-singen": [
-"Bundestagswahl 2025: AfD vorn in Singen, CDU vorn in Stockach.",
-"Fläche: Stockach ist größer als Singen, hat aber weniger Einwohner."
+"Bundestagswahl 2025: In Singen lag die AfD vorn, in Stockach die CDU.",
+"Singen hat gut zweieinhalbmal so viele Einwohner wie Stockach."
+],
+"312-radolfzell": [
+"Radolfzell am Bodensee hat fast doppelt so viele Einwohner wie Stockach.",
+"Stockach liegt rund 220 Meter höher als Radolfzell am Bodensee."
+],
+"313-bodman-ludwigshafen": [
+"Stockach hat gut dreieinhalbmal so viele Einwohner wie Bodman-Ludwigshafen."
 ],
 "119-ueberlingen": [
 "Kreisgrenze: Überlingen gehört zum Bodenseekreis, Stockach zum Landkreis Konstanz.",
@@ -33911,7 +44981,184 @@ window.QA_DATEN = {
 },
 "ags": "08335079",
 "ortsteil": false,
-"km_vom_vorigen": 16.2
+"km_vom_vorigen": 13.1
+},
+{
+"slug": "313-bodman-ludwigshafen",
+"name": "Bodman-Ludwigshafen",
+"lat": 47.81778,
+"lon": 9.05778,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bodman-Ludwigshafen",
+"steckbrief": "Gemeinde mit rund 4.800 Einwohnern, 76 km südlich von Reutlingen.",
+"frage": "Im Ortsteil Ludwigshafen fand man in einem jungsteinzeitlichen Pfahlhaus bemalte Wandteile mit mindestens sieben Frauenfiguren, deren Oberkörper fast lebensgroß dargestellt sind. Was stellen sie vermutlich dar?",
+"optionen": [
+"Sie zeigen vermutlich Ahnfrauen oder gottähnliche Gestalten.",
+"Sie zeigen vermutlich Händlerinnen auf einem Markt.",
+"Sie zeigen vermutlich Tänzerinnen bei einem Erntefest.",
+"Sie zeigen vermutlich Fischerinnen bei der Arbeit."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Frauen an einer Hauswand lassen an Szenen aus dem Alltag oder von Festen denken. Gedeutet werden die Figuren aber vermutlich als Ahnfrauen oder gottähnliche Gestalten. Die Gemeinde nennt die geborgenen Wandteile einen Sensationsfund. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bodman-ludwigshafen.de/de/Urlaub-am-See/Erleben-und-geniessen/Welterbe-Pfahlbauten",
+"faktencheck": "korrigiert",
+"id": "313-bodman-ludwigshafen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bodman-Ludwigshafen",
+"steckbrief": "Gemeinde mit rund 4.800 Einwohnern, 76 km südlich von Reutlingen.",
+"frage": "Wie groß ist die Fläche der Gemeinde Bodman-Ludwigshafen?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 35 km²",
+"35 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Gemeinde dieser Größe liegt eine kleine Fläche nahe. Bodman-Ludwigshafen misst aber 28,04 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "313-bodman-ludwigshafen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bodman-Ludwigshafen",
+"steckbrief": "Gemeinde mit rund 4.800 Einwohnern, 76 km südlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Welterbe-Pfahlbauten bei Bodman stammen aus der Römerzeit.",
+"Bodman und Ludwigshafen liegen beide am Überlinger See.",
+"Bodmans katholische Kirche heißt St. Peter und Paul."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei alten Siedlungsresten am Wasser denkt man schnell an die Römer. Die Pfahlbauten von Bodman-Schachen sind aber prähistorisch und gehören zum Welterbe „Prähistorische Pfahlbauten rund um die Alpen“. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.bodman-ludwigshafen.de/de/Urlaub-am-See/Erleben-und-geniessen/Welterbe-Pfahlbauten",
+"faktencheck": "korrigiert",
+"id": "313-bodman-ludwigshafen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bodman-Ludwigshafen",
+"steckbrief": "Gemeinde mit rund 4.800 Einwohnern, 76 km südlich von Reutlingen.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Bodman-Ludwigshafen bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"SPD",
+"FDP",
+"AfD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Bodensee liegt der Gedanke nahe, die Grünen kämen hinter der CDU, die klar vorn lag. Die Grünen blieben aber knapp hinter der AfD, die zweitstärkste Kraft wurde; die SPD folgte auf Platz vier. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "313-bodman-ludwigshafen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bodman-Ludwigshafen",
+"steckbrief": "Gemeinde mit rund 4.800 Einwohnern, 76 km südlich von Reutlingen.",
+"frage": "Ein Spielplatz an der Uferanlage in Ludwigshafen gewann 2017 einen Preis beim Deutschen Spielraumpreis. Was stellt er dar?",
+"optionen": [
+"Er stellt ein Pfahlbaudorf mit Brücken dar.",
+"Er stellt eine Ritterburg mit Wassergraben dar.",
+"Er stellt einen alten Raddampfer dar.",
+"Er stellt einen Bauernhof mit Tieren dar."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am See denkt man bei einem Spielplatz leicht an Schiffe oder Burgen. Dieser greift aber das Welterbe Pfahlbauten auf: ein Pfahlbaudorf mit unregelmäßig angeordneten Gebäuden, die Brücken verbinden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bodman-ludwigshafen.de/de/Urlaub-am-See/Erleben-und-geniessen/Welterbe-Pfahlbauten",
+"faktencheck": "korrigiert",
+"id": "313-bodman-ludwigshafen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bodman-Ludwigshafen",
+"steckbrief": "Gemeinde mit rund 4.800 Einwohnern, 76 km südlich von Reutlingen.",
+"frage": "Mit welcher Stadt ist Bodman-Ludwigshafen durch eine Partnerschaft verbunden?",
+"optionen": [
+"Ribeauvillé",
+"Mügeln",
+"Malcesine",
+"Bad Ischl"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Am Bodensee liegen Partner in Frankreich, Italien oder Österreich nahe, wie sie viele Orte im Südwesten haben. Bodman-Ludwigshafen ist aber mit Mügeln in Sachsen verbunden. Richtig war 2.",
+"quelle": "Wikidata P190",
+"faktencheck": "unsicher",
+"id": "313-bodman-ludwigshafen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bodman-Ludwigshafen",
+"steckbrief": "Gemeinde mit rund 4.800 Einwohnern, 76 km südlich von Reutlingen.",
+"frage": "In Bodman-Ludwigshafen gibt es die „Waldruh St. Katharinen“. Was ist das?",
+"optionen": [
+"Sie ist ein Kurhaus.",
+"Sie ist ein Wildgehege.",
+"Sie ist eine Begräbnisstätte.",
+"Sie ist eine Jugendherberge."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Erholung im Grünen, etwa in einem Kurhaus. Die Waldruh St. Katharinen ist aber neben den Friedhöfen in Bodman und Ludwigshafen eine Begräbnisstätte der Gemeinde. Ihre Friedhöfe beschreibt die Gemeinde als Oasen der Stille. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.bodman-ludwigshafen.de/de/Daheim-am-See/Unsere-Gemeinde/Kirchen/Friedhoefe-Waldruh",
+"faktencheck": "korrigiert",
+"id": "313-bodman-ludwigshafen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "118-stockach",
+"anschluss": [
+"Einwohner: Stockach hat fast viermal so viele wie Bodman-Ludwigshafen.",
+"Bundestagswahl 2025: Wahlbeteiligung in Bodman-Ludwigshafen 85,8, in Stockach 80,1 Prozent."
+],
+"anschluesse": {
+"117-singen": [
+"Bundestagswahl 2025: In Singen lag die AfD vorn, in Bodman-Ludwigshafen die CDU.",
+"Singen hat zehnmal so viele Einwohner wie Bodman-Ludwigshafen."
+],
+"312-radolfzell": [
+"Radolfzell am Bodensee hat fast siebenmal so viele Einwohner wie Bodman-Ludwigshafen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Radolfzell am Bodensee die Grünen, in Bodman-Ludwigshafen die AfD."
+],
+"118-stockach": [
+"Einwohner: Stockach hat fast viermal so viele wie Bodman-Ludwigshafen.",
+"Bundestagswahl 2025: Wahlbeteiligung in Bodman-Ludwigshafen 85,8, in Stockach 80,1 Prozent."
+],
+"119-ueberlingen": [
+"Kreisgrenze: Überlingen gehört zum Bodenseekreis, Bodman-Ludwigshafen zum Landkreis Konstanz.",
+"Überlingen hat fast fünfmal so viele Einwohner wie Bodman-Ludwigshafen."
+],
+"314-uhldingen-muehlhofen": [
+"Kreisgrenze: Uhldingen-Mühlhofen gehört zum Bodenseekreis, Bodman-Ludwigshafen zum Landkreis Konstanz.",
+"Uhldingen-Mühlhofen hat gut anderthalbmal so viele Einwohner wie Bodman-Ludwigshafen."
+]
+},
+"ags": "08335098",
+"ortsteil": false,
+"km_vom_vorigen": 5.1
 },
 {
 "slug": "119-ueberlingen",
@@ -34099,15 +45346,24 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "118-stockach",
-"anschluss": [
-"Kennzeichen: In Stockach steht KN am Auto, in Überlingen FN.",
-"Bundestagswahl 2025: Grüne in Überlingen Zweite, in Stockach nur Vierte."
-],
+"anschluss_von": "313-bodman-ludwigshafen",
+"anschluss": [],
 "anschluesse": {
+"312-radolfzell": [
+"Kreisgrenze: Radolfzell am Bodensee gehört zum Landkreis Konstanz, Überlingen zum Bodenseekreis.",
+"Radolfzell am Bodensee hat rund 8.900 Einwohner mehr als Überlingen."
+],
 "118-stockach": [
-"Kennzeichen: In Stockach steht KN am Auto, in Überlingen FN.",
-"Bundestagswahl 2025: Grüne in Überlingen Zweite, in Stockach nur Vierte."
+"Kreisgrenze: Stockach gehört zum Landkreis Konstanz, Überlingen zum Bodenseekreis.",
+"Überlingen hat rund 5.300 Einwohner mehr als Stockach."
+],
+"313-bodman-ludwigshafen": [
+"Kreisgrenze: Bodman-Ludwigshafen gehört zum Landkreis Konstanz, Überlingen zum Bodenseekreis.",
+"Überlingen hat fast fünfmal so viele Einwohner wie Bodman-Ludwigshafen."
+],
+"314-uhldingen-muehlhofen": [
+"Überlingen hat fast dreimal so viele Einwohner wie Uhldingen-Mühlhofen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Uhldingen-Mühlhofen die AfD, in Überlingen die Grünen."
 ],
 "120-meersburg": [
 "Überlingen hat fast viermal so viele Einwohner wie Meersburg."
@@ -34115,7 +45371,179 @@ window.QA_DATEN = {
 },
 "ags": "08435059",
 "ortsteil": false,
-"km_vom_vorigen": 14.8
+"km_vom_vorigen": 9.8
+},
+{
+"slug": "314-uhldingen-muehlhofen",
+"name": "Uhldingen-Mühlhofen",
+"lat": 47.73333,
+"lon": 9.24583,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Uhldingen-Mühlhofen",
+"steckbrief": "Die Gemeinde hat rund 8.100 Einwohner und liegt 84 km südlich von Reutlingen.",
+"frage": "Die Marienkapelle Alt-Birnau war Wallfahrtsstätte, bis die Wallfahrt verlegt wurde. Welchen Grund nennt die Gemeinde dafür?",
+"optionen": [
+"Ein Brand hatte die alte Kapelle zerstört.",
+"Ein Hangrutsch bedrohte die alte Kapelle.",
+"Zwei Parteien stritten um Gaststätte und Neubauten.",
+"Eine Seuche hatte die Pilger ferngehalten."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Unglück liegt nahe, denn alte Kapellen gingen oft durch Feuer oder Hangrutsch verloren. Die Gemeinde nennt aber einen Streit: Die Stadt Überlingen und das Kloster Salem gerieten über Gaststättenbetrieb und Neubauten in Konflikt. Deshalb wurde die Wallfahrtsstätte verlegt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.uhldingen-muehlhofen.de/de/Freizeit-Kultur/Historische-Kirchenbauten",
+"faktencheck": "unsicher",
+"id": "314-uhldingen-muehlhofen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Uhldingen-Mühlhofen",
+"steckbrief": "Die Gemeinde im Bodenseekreis hat rund 8.100 Einwohner und liegt 84 km südlich von Reutlingen.",
+"frage": "Wie viele Einwohner kommen in Uhldingen-Mühlhofen rechnerisch auf einen Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 450",
+"450 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Gut 8.000 Einwohner klingen nach einer Landgemeinde mit viel Platz. Doch die Gemeindefläche ist mit 15,66 Quadratkilometern klein, so kommen rechnerisch 517 Menschen auf einen Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "314-uhldingen-muehlhofen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Uhldingen-Mühlhofen",
+"steckbrief": "Die Gemeinde hat rund 8.100 Einwohner und liegt 84 km südlich von Reutlingen am Bodensee.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Meersburg gehörte einst zur Pfarrei Seefelden.",
+"Ein Abt von Salem ließ die Nikolauskapelle bauen.",
+"Die Wolfgangkapelle ist ein Bau der Nachkriegszeit."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Meersburg als Teil der Pfarrei Seefelden klingt verdächtig, stimmt aber. Auch die Nikolauskapelle ließ ein Abt von Salem bauen. Gelogen ist die Nachkriegszeit: Die Wolfgangkapelle in Oberuhldingen ist viel älter, Abt Stephan I. Jung ließ sie im Barock ausstatten. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.uhldingen-muehlhofen.de/de/Freizeit-Kultur/Historische-Kirchenbauten",
+"faktencheck": "bestätigt",
+"id": "314-uhldingen-muehlhofen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Uhldingen-Mühlhofen",
+"steckbrief": "Die Gemeinde hat rund 8.100 Einwohner und liegt 84 km südlich von Reutlingen.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Wie viel Prozent holte die stärkste Partei in Uhldingen-Mühlhofen?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 35 %",
+"35 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Fernab der Großstädte erwartet man oft eine übermächtige CDU. Sie wurde auch stärkste Partei, kam aber auf 33,5 Prozent der Zweitstimmen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "314-uhldingen-muehlhofen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Uhldingen-Mühlhofen",
+"steckbrief": "Die Gemeinde hat rund 8.100 Einwohner und liegt 84 km südlich von Reutlingen.",
+"frage": "Schloss Maurach liegt unterhalb der Basilika Birnau. Wozu diente der Barockbau einst?",
+"optionen": [
+"Es war das Jagdschloss eines Grafen.",
+"Es war der Witwensitz einer Fürstin.",
+"Es war Wirtschaftsgebäude und Hafen eines Klosters.",
+"Es war das Landhaus eines Kaufmanns."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Wort Schloss lässt an Adel denken, an Jagd oder Landsitz. Doch Maurach gehörte zum Kloster Salem: Einst diente es dem Kloster als Wirtschaftsgebäude und Hafen und den Äbten als Sommersitz. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.uhldingen-muehlhofen.de/de/Freizeit-Kultur/Historische-Kirchenbauten",
+"faktencheck": "korrigiert",
+"id": "314-uhldingen-muehlhofen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Uhldingen-Mühlhofen",
+"steckbrief": "Die Gemeinde hat rund 8.100 Einwohner und liegt 84 km südlich von Reutlingen.",
+"frage": "Wie weit ist es von Uhldingen-Mühlhofen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 85 km",
+"85 bis unter 110 km",
+"110 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Reutlingen ist nur 84 Kilometer entfernt, da wirkt Stuttgart nah. Doch Stuttgart liegt noch ein Stück nördlich von Reutlingen: Bis zur Landeshauptstadt sind es 117 Kilometer Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "314-uhldingen-muehlhofen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Uhldingen-Mühlhofen",
+"steckbrief": "Die Gemeinde hat rund 8.100 Einwohner und liegt 84 km südlich von Reutlingen.",
+"frage": "Die Barockkirche Birnau über dem Bodensee trägt den Ehrentitel Basilika minor. Welcher Papst verlieh ihn ihr?",
+"optionen": [
+"Papst Paul VI. verlieh den Titel.",
+"Papst Benedikt XIV. verlieh den Titel.",
+"Papst Pius XII. verlieh den Titel.",
+"Papst Johannes Paul II. verlieh den Titel."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Papst aus der Bauzeit liegt nahe, denn die Kirche ist barock. Doch den Ehrentitel Basilika minor, den nur ein Papst verleiht, gab ihr erst Paul VI. Erbaut hat sie Peter Thumb, ausgestattet Joseph Anton Feuchtmayer und Gottfried Bernhard Göz. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.uhldingen-muehlhofen.de/de/Freizeit-Kultur/Historische-Kirchenbauten",
+"faktencheck": "bestätigt",
+"id": "314-uhldingen-muehlhofen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "119-ueberlingen",
+"anschluss": [
+"Einwohner: Überlingen hat fast dreimal so viele wie Uhldingen-Mühlhofen.",
+"Bundestagswahl 2025: Überlingen hatte Grüne, Uhldingen-Mühlhofen AfD auf Platz zwei."
+],
+"anschluesse": {
+"313-bodman-ludwigshafen": [
+"Kreisgrenze: Bodman-Ludwigshafen gehört zum Landkreis Konstanz, Uhldingen-Mühlhofen zum Bodenseekreis.",
+"Uhldingen-Mühlhofen hat gut anderthalbmal so viele Einwohner wie Bodman-Ludwigshafen."
+],
+"119-ueberlingen": [
+"Einwohner: Überlingen hat fast dreimal so viele wie Uhldingen-Mühlhofen.",
+"Bundestagswahl 2025: Überlingen hatte Grüne, Uhldingen-Mühlhofen AfD auf Platz zwei."
+],
+"120-meersburg": [
+"Uhldingen-Mühlhofen hat rund 2.100 Einwohner mehr als Meersburg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Meersburg die Grünen, in Uhldingen-Mühlhofen die AfD."
+],
+"121-friedrichshafen": [
+"Friedrichshafen hat fast achtmal so viele Einwohner wie Uhldingen-Mühlhofen."
+]
+},
+"ags": "08435066",
+"ortsteil": false,
+"km_vom_vorigen": 7.1
 },
 {
 "slug": "120-meersburg",
@@ -34303,15 +45731,15 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "119-ueberlingen",
-"anschluss": [
-"Einwohner: Überlingen hat fast viermal so viele wie Meersburg.",
-"Bundestagswahl 2025: CDU-Anteil in Meersburg höher als in Überlingen."
-],
+"anschluss_von": "314-uhldingen-muehlhofen",
+"anschluss": [],
 "anschluesse": {
 "119-ueberlingen": [
-"Einwohner: Überlingen hat fast viermal so viele wie Meersburg.",
-"Bundestagswahl 2025: CDU-Anteil in Meersburg höher als in Überlingen."
+"Überlingen hat fast viermal so viele Einwohner wie Meersburg."
+],
+"314-uhldingen-muehlhofen": [
+"Uhldingen-Mühlhofen hat rund 2.100 Einwohner mehr als Meersburg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Uhldingen-Mühlhofen die AfD, in Meersburg die Grünen."
 ],
 "121-friedrichshafen": [
 "Friedrichshafen hat gut zehnmal so viele Einwohner wie Meersburg.",
@@ -34320,7 +45748,7 @@ window.QA_DATEN = {
 },
 "ags": "08435036",
 "ortsteil": false,
-"km_vom_vorigen": 11.2
+"km_vom_vorigen": 4.6
 },
 {
 "slug": "121-friedrichshafen",
@@ -34514,9 +45942,15 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Zweite in Meersburg die Grünen, in Friedrichshafen die AfD."
 ],
 "anschluesse": {
+"314-uhldingen-muehlhofen": [
+"Friedrichshafen hat fast achtmal so viele Einwohner wie Uhldingen-Mühlhofen."
+],
 "120-meersburg": [
 "Einwohner: Friedrichshafen hat gut zehnmal so viele wie Meersburg.",
 "Bundestagswahl 2025: Zweite in Meersburg die Grünen, in Friedrichshafen die AfD."
+],
+"315-eriskirch": [
+"Friedrichshafen hat dreizehnmal so viele Einwohner wie Eriskirch."
 ],
 "122-lindau": [
 "Landesgrenze: Lindau liegt in Bayern, Friedrichshafen in Baden-Württemberg.",
@@ -34526,6 +45960,191 @@ window.QA_DATEN = {
 "ags": "08435016",
 "ortsteil": false,
 "km_vom_vorigen": 16.3
+},
+{
+"slug": "315-eriskirch",
+"name": "Eriskirch",
+"lat": 47.62917,
+"lon": 9.52917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eriskirch",
+"steckbrief": "Gemeinde mit rund 4.750 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Im Wappen von Eriskirch steht neben einer Kirche eine goldene Lilie. Wofür steht die Lilie?",
+"optionen": [
+"Sie erinnert an eine Stiftung französischer Mönche.",
+"Sie ehrt einen Ritter mit Lilien im Schild.",
+"Sie erinnert an einen mittelalterlichen Lilienhandel.",
+"Sie erinnert an die vielen Schwertlilien im Gemeindegebiet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Lilie soll an das häufige Vorkommen von Schwertlilien auf der Markung erinnern, also im Gemeindegebiet. Die Kirche daneben bezieht sich auf den Ortsnamen. Vorgeschlagen wurde die Lilie schon 1936. An französische Mönche denkt man, weil die Lilie als Zeichen Frankreichs bekannt ist. Richtig war 4.",
+"quelle": "LEO-BW, leo-bw.de (Ortslexikon Eriskirch)",
+"faktencheck": "korrigiert",
+"id": "315-eriskirch/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eriskirch",
+"steckbrief": "Bodenseegemeinde mit rund 4.750 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Wie groß ist das Gemeindegebiet von Eriskirch?",
+"optionen": [
+"unter 16 km²",
+"16 bis unter 25 km²",
+"25 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eriskirch misst 14,61 Quadratkilometer. Größer zu schätzen liegt nahe, weil Seegemeinden mit ihren langen Uferwegen weitläufig wirken. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "315-eriskirch/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Eriskirch",
+"steckbrief": "Gemeinde am Bodensee mit rund 4.750 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Grundschule des Orts heißt Irisschule.",
+"Die Schussen mündet bei Eriskirch in den Bodensee.",
+"Die Partnergemeinde Egnach liegt in Österreich."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Egnach liegt im Thurgau, also in der Schweiz. Österreich liegt nahe, weil es ebenfalls an den Bodensee grenzt. Die Schussen mündet tatsächlich bei Eriskirch, und die Irisschule ist die Grundschule des Orts. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Eriskirch",
+"faktencheck": "bestätigt",
+"id": "315-eriskirch/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eriskirch",
+"steckbrief": "Gemeinde mit rund 4.750 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Wie viel Prozent holte in Eriskirch die stärkste Partei?",
+"optionen": [
+"unter 28 %",
+"28 bis unter 34 %",
+"34 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die CDU holte 36,3 Prozent, deutlich vor der AfD. Über 40 Prozent liegt nahe, weil die CDU in ländlichen Gemeinden Baden-Württembergs oft sehr stark ist. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "315-eriskirch/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eriskirch",
+"steckbrief": "Gemeinde mit rund 4.750 Einwohnern, 92 km südlich von Ulm.",
+"frage": "In der Eriskircher Kirche Mariä Himmelfahrt sind gotische Wandmalereien zu sehen. Warum waren sie lange nicht sichtbar?",
+"optionen": [
+"Ein Kirchenbrand hatte sie mit Ruß bedeckt.",
+"Ein Bischof ließ sie als anstößig verhängen.",
+"Ein späterer Anbau verdeckte die bemalte Wand.",
+"Sie wurden beim barocken Umbau übertüncht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Beim barocken Umbau nach dem Dreißigjährigen Krieg wurden die Malereien übertüncht. Erst eine spätere Wiederherstellung legte sie wieder frei. An Ruß denkt man, weil Brände alte Kirchen oft schwärzten. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Eriskirch",
+"faktencheck": "bestätigt",
+"id": "315-eriskirch/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Eriskirch",
+"steckbrief": "Gemeinde mit rund 4.750 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Zu welchem Landkreis gehört Eriskirch heute?",
+"optionen": [
+"Bodenseekreis",
+"Landkreis Ravensburg",
+"Landkreis Lindau (Bodensee)",
+"Landkreis Konstanz"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eriskirch gehört zum Bodenseekreis. Ravensburg liegt nahe, weil die Stadt als Zentrum Oberschwabens nicht weit entfernt ist. Lindau ist eine Falle: Es liegt zwar am selben See, gehört aber zu Bayern. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "315-eriskirch/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eriskirch",
+"steckbrief": "Gemeinde mit rund 4.750 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Die Kirche Mariä Himmelfahrt war einst Wallfahrtsziel. Ihr Gnadenbild zeigt die thronende Gottesmutter mit Christus. Worauf thront sie?",
+"optionen": [
+"Sie thront auf einem liegenden Löwen.",
+"Sie thront auf einem Sockel mit Mondgesicht.",
+"Sie thront auf einer Weltkugel mit Schlange.",
+"Sie thront auf einer Wolke mit Engeln."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Gnadenbild, das verehrte Andachtsbild der Wallfahrer, zeigt Maria auf einem Sockel mit Mondgesicht. Die Wolke liegt nahe, weil Himmelfahrtsbilder Maria oft so zeigen. Der Mond gehört dagegen zu vielen Mariendarstellungen, oft als Sichel unter ihren Füßen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Eriskirch",
+"faktencheck": "unsicher",
+"id": "315-eriskirch/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eriskirch",
+"steckbrief": "Gemeinde mit rund 4.750 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Eriskirch kam 1810 an Württemberg. Auf welchem Weg?",
+"optionen": [
+"Württemberg kaufte das Gebiet einem Grafen ab.",
+"Es kam als Mitgift einer Fürstenhochzeit.",
+"Ein Grenzvertrag sprach es Württemberg zu.",
+"Eine Abstimmung der Bauern entschied darüber."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Grenzvertrag regelte den Übergang; danach gehörte Eriskirch zum Oberamt Tettnang, einem württembergischen Verwaltungsbezirk. Ein Kauf liegt nahe, weil Herrschaften damals oft gegen Geld den Besitzer wechselten. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Eriskirch",
+"faktencheck": "bestätigt",
+"id": "315-eriskirch/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "121-friedrichshafen",
+"anschluss": [
+"Bundestagswahl 2025: In Eriskirch wählten 85,9, in Friedrichshafen 80,6 Prozent.",
+"Die Herrschaft Baumgarten bei Eriskirch ging einst an Buchhorn, das heutige Friedrichshafen."
+],
+"anschluesse": {
+"121-friedrichshafen": [
+"Bundestagswahl 2025: In Eriskirch wählten 85,9, in Friedrichshafen 80,6 Prozent.",
+"Die Herrschaft Baumgarten bei Eriskirch ging einst an Buchhorn, das heutige Friedrichshafen."
+],
+"122-lindau": [
+"Landesgrenze: Lindau liegt in Bayern, Eriskirch in Baden-Württemberg.",
+"Bundestagswahl 2025: In Lindau lag die CSU vorn, in Eriskirch die CDU."
+]
+},
+"ags": "08435013",
+"ortsteil": false,
+"km_vom_vorigen": 4.7
 },
 {
 "slug": "122-lindau",
@@ -34732,15 +46351,16 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "121-friedrichshafen",
-"anschluss": [
-"Kreisgrenze: In Friedrichshafen steht FN am Auto, in Lindau LI.",
-"Einwohner: Friedrichshafen hat mehr als doppelt so viele wie Lindau."
-],
+"anschluss_von": "315-eriskirch",
+"anschluss": [],
 "anschluesse": {
 "121-friedrichshafen": [
-"Kreisgrenze: In Friedrichshafen steht FN am Auto, in Lindau LI.",
-"Einwohner: Friedrichshafen hat mehr als doppelt so viele wie Lindau."
+"Landesgrenze: Friedrichshafen liegt in Baden-Württemberg, Lindau in Bayern.",
+"Bundestagswahl 2025: In Friedrichshafen lag die CDU vorn, in Lindau die CSU."
+],
+"315-eriskirch": [
+"Landesgrenze: Eriskirch liegt in Baden-Württemberg, Lindau in Bayern.",
+"Bundestagswahl 2025: In Eriskirch lag die CDU vorn, in Lindau die CSU."
 ],
 "123-wangen": [
 "Landesgrenze: Wangen im Allgäu liegt in Baden-Württemberg, Lindau in Bayern.",
@@ -34749,7 +46369,7 @@ window.QA_DATEN = {
 },
 "ags": "09776116",
 "ortsteil": false,
-"km_vom_vorigen": 19.5
+"km_vom_vorigen": 14.8
 },
 {
 "slug": "123-wangen",
@@ -35656,6 +47276,14 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Eching hatte höhere Wahlbeteiligung als Landsberg am Lech."
 ],
 "anschluesse": {
+"308-dachau": [
+"Kreisgrenze: Dachau gehört zum Landkreis Dachau, Eching zum Landkreis Freising.",
+"Dachau hat gut dreimal so viele Einwohner wie Eching."
+],
+"309-karlsfeld": [
+"Kreisgrenze: Karlsfeld gehört zum Landkreis Dachau, Eching zum Landkreis Freising.",
+"Karlsfeld hat fast anderthalbmal so viele Einwohner wie Eching."
+],
 "115-muenchen": [
 "Kreisgrenze: München ist kreisfrei, Eching gehört zum Landkreis Freising.",
 "München hat rund 100-mal so viele Einwohner wie Eching."
@@ -35833,6 +47461,14 @@ window.QA_DATEN = {
 "Die A9-Ausfahrt trägt beide Namen: Eching/Neufahrn."
 ],
 "anschluesse": {
+"308-dachau": [
+"Kreisgrenze: Dachau gehört zum Landkreis Dachau, Neufahrn bei Freising zum Landkreis Freising.",
+"Dachau hat fast zweieinhalbmal so viele Einwohner wie Neufahrn bei Freising."
+],
+"309-karlsfeld": [
+"Kreisgrenze: Karlsfeld gehört zum Landkreis Dachau, Neufahrn bei Freising zum Landkreis Freising.",
+"Karlsfeld und Neufahrn bei Freising sind fast gleich groß: rund 21.000 und 21.000 Einwohner."
+],
 "127-eching": [
 "Einwohner: Neufahrn hat rund 21.100, Eching rund 14.700.",
 "Die A9-Ausfahrt trägt beide Namen: Eching/Neufahrn."

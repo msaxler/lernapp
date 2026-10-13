@@ -1,0 +1,622 @@
+ZIELORT: Karlsbad (Gemeinde)
+LAGE: 13 km südöstlich von Karlsruhe (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Karlsbad (Baden)
+
+GRUNDDATEN:
+  landkreis: Karlsruhe  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 16.137  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 38,01  [Wikidata P2046]
+  dichte_ew_km2: 425  [berechnet aus Einwohner und Fläche]
+  kfz: KA (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 264  [Wikidata P2044; dewiki Infobox]
+  naechste_grossstadt: Karlsruhe, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 51 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Fischweier, Ittersbach, Ittersbach Industrie, Ittersbach Rathaus, Langensteinbach, Langensteinbach Schießhüttenäcker, Langensteinbach St. Barbara, Spielberg (Baden)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 76307  [Wikidata P281]
+  vorwahl: 07202, 07248  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,8 %, AfD 17,7 %, SPD 16,5 %, GRÜNE 13,3 %, Die Linke 5,7 %, FDP 5,4 %; Wahlbeteiligung 86,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Björn Kornmüller (FDP) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Ludwigsburg (Stadt)
+  landkreis: Ludwigsburg  [dewiki Infobox]
+  einwohner: 93.002  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 43,34  [Wikidata P2046; Altbestand staedte.json]
+  kfz: LB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 293 | 256 | 298 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2875392)]
+  naechste_grossstadt: Stuttgart, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Ludwigsburg  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,8 %, GRÜNE 17,5 %, AfD 15,9 %, SPD 15,8 %, Die Linke 9 %, FDP 5,9 %; Wahlbeteiligung 82,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Karlsbad):
+ID: 266-karlsbad/001
+ENTITÄT: ort
+BEZEICHNUNG: Karlsbad
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlicher Landkreis Karlsruhe, Baden-Württemberg
+  naturraum: Nordrand des Schwarzwalds
+  plateau: Alb-Pfinz-Plateau
+  naturpark: Schwarzwald Mitte/Nord
+  gründungsdatum: 1. September 1971
+  gründungstyp: Gemeindereform
+  fusionsgemeinden: Auerbach, Ittersbach, Langensteinbach, Mutschelbach, Spielberg
+  nächste_städte: Karlsruhe, Ettlingen, Pforzheim
+  namensherkunft: bezieht sich auf 1719 errichtetes Fürstenbad in Langensteinbach, nicht auf böhmisches Karlsbad
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Auerbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1278
+  erste_besitzer: Herren von Remchingen
+  weitere_besitzer: Kloster Herrenalb
+  übergang_zu_baden: 1603
+  übergang_grund: Tausch mit Markgraf Ernst Friedrich von Baden-Durlach
+GUELTIG_AB: 1278
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ittersbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1232
+  ursprünglicher_name: Utilspur
+  namensentwicklung: wandelte sich zum heutigen Ortsnamen Ittersbach
+  herrschaften_früher: Herrenalb, Frauenalb, württembergisch, badisch
+  endgültig_badisch: nach dem Dreißigjährigen Krieg
+  administrativ_unterstellt: Amt Langensteinbach
+  industrieansiedlung: ca. 1854
+  wirtschaftliche_quellen: Kalksteinbrüche und Ziegelbrennereien
+  nachkrieg_entwicklung: wirtschaftlicher Aufschwung durch moderne Industrie
+GUELTIG_AB: 1232
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Langensteinbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  geschichte_zurück_bis: 1197
+  besonderheit_18_jh: im 18. Jahrhundert als Fürstenbad berühmt
+  fürstenbad_errichtet: 1719
+  fürstenbad_erbauer: Markgraf Karl Wilhelm von Baden-Durlach
+  fürstenbad_lage: unterhalb der Barbarakapelle
+  fürstenbad_funktion: Sommerresidenz für Fürstenhaus
+GUELTIG_AB: 1197
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mutschelbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  geschichte_zurück_bis: 1278
+  strukturveränderung_1936: Gemeinde Mutschelbach gegründet aus drei Waldenserdörfern
+  waldenserdörfer: Ober-, Mittel-, Untermutschelbach
+GUELTIG_AB: 1278
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Spielberg
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1281
+  status_nach_reformation: württembergisch
+  übergang_zu_baden: 1603
+  übergang_zusammen_mit: Langensteinbach
+  zielterritorium: Markgrafschaft Baden-Durlach
+GUELTIG_AB: 1281
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/007
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Blau vorn bis zur Schildmitte am rechten Schildrand beginnend drei unten, nach hinten gebogene und in einem Punkt des linken Schildrandes auslaufende silberne (weiße) Pfähle, in der Schildmitte eine Schale in verwechselten Farben.
+  symbolik_schale: Erinnerung an ehemaliges Fürstenbad in Langensteinbach
+  symbolik_pfähle: Symbolisieren die fünf Ortsteile
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/008
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Björn Kornmüller
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  partei: FDP
+  amtsantritt: 12. Juni 2023
+  wahl_ergebnis_prozent: 78
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/009
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Jens Timm
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 2015
+  amtszeit_bis: 2023
+GUELTIG_AB: 2015
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/010
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Rudi Knodel
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 1999
+  amtszeit_bis: 2015
+  zusatz: Ehrenbürger
+GUELTIG_AB: 1999
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/011
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  größe_normal: 24 ehrenamtliche Mitglieder
+  amtszeit: 5 Jahre
+  besonderheit: Unechte Teilortswahl mit Mindestsitzgarantie pro Ortsteil
+  sitze_langensteinbach_min: 9
+  sitze_ittersbach_min: 5
+  sitze_spielberg_min: 4
+  sitze_auerbach_min: 3
+  sitze_mutschelbach_min: 3
+  größe_2024: 25 Sitze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/012
+ENTITÄT: kirche
+BEZEICHNUNG: Ludwigskirche
+ORTSTEIL_BEZUG: Langensteinbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  baustil: klassizistisch
+  bauzeit: 1826-1828
+  architekt: Friedrich Weinbrenner (Entwurf), August Schwarz (Ausführung)
+  besonderheit: kraftvoller Kirchturm auf Vorderseite aus Langhaus
+GUELTIG_AB: 1826
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 266-karlsbad/013
+ENTITÄT: ruine
+BEZEICHNUNG: St.-Barbara-Ruine
+ORTSTEIL_BEZUG: Langensteinbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  lage: im Wald von Langensteinbach
+  frühere_funktion: bekannter Wallfahrtsort und Fluchtkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 266-karlsbad/014
+ENTITÄT: burg
+BEZEICHNUNG: Burg Langensteinbach
+ORTSTEIL_BEZUG: Langensteinbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  alternativname: Römerturm
+  typ: Turmburg
+  lage: unweit der St.-Barbara-Ruine
+  status: nur Reste erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/015
+ENTITÄT: brunnen
+BEZEICHNUNG: Röhrl-Brunnen
+ORTSTEIL_BEZUG: Ittersbach
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/heimatgeschichtliches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Heimatsymbol Ittersbachs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 266-karlsbad/016
+ENTITÄT: wüstung
+BEZEICHNUNG: Wolmersbur
+ORTSTEIL_BEZUG: Ittersbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  status: abgegangen im 15. Jahrhundert
+GUELTIG_BIS: 15
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/017
+ENTITÄT: wüstung
+BEZEICHNUNG: Vitzenloch
+ORTSTEIL_BEZUG: Mutschelbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwähnung: 1295
+  verkauf_1259: Rudolf von Roßwag verkaufte Dörfer Muschelenbach und Vitzenbach an Kloster Herrenalb
+  möglicherweise_identisch_mit: Mitteldorf
+  genaue_lage: unbekannt, vermutlich Nähe Mutschelbach und Wilferdingen
+  genauigkeit: vermutlich
+GUELTIG_AB: 1259
+GUELTIG_BIS: 1295
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 266-karlsbad/018
+ENTITÄT: verein
+BEZEICHNUNG: Heimatverein Karlsbad
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/heimatgeschichtliches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: aus ehemals "Ittersbacher" Heimatverein
+  schwerpunkt_ortsteil: Ittersbach
+  einrichtung: Heimatmuseum
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 266-karlsbad/019
+ENTITÄT: arbeitskreis
+BEZEICHNUNG: Arbeitskreis Heimatforschung Spielberg
+ORTSTEIL_BEZUG: Spielberg
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/heimatgeschichtliches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beteiligung_projekt: Heimatgeschichte-Plattform im Internet
+  status_2004: aktiv
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 266-karlsbad/020
+ENTITÄT: arbeitskreis
+BEZEICHNUNG: Arbeitskreis Ortschronik Langensteinbach
+ORTSTEIL_BEZUG: Langensteinbach
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/heimatgeschichtliches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beteiligung_projekt: Heimatgeschichte-Plattform im Internet
+  status_2004: aktiv
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 266-karlsbad/021
+ENTITÄT: verein
+BEZEICHNUNG: Förderverein Haus Conrath
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/heimatgeschichtliches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beteiligung_projekt: Heimatgeschichte-Plattform im Internet
+  status_2004: aktiv
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 266-karlsbad/022
+ENTITÄT: heimatforscher
+BEZEICHNUNG: Horst Sommer
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/heimatgeschichtliches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: überörtlicher Heimatforscher
+  beteiligung_projekt: Heimatgeschichte-Plattform im Internet
+  status_2004: aktiv
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 266-karlsbad/023
+ENTITÄT: schulzentrum
+BEZEICHNUNG: Schulzentrum Am Schelmenbusch
+ORTSTEIL_BEZUG: Langensteinbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  gymnasium: Gymnasium Karlsbad
+  realschule: vorhanden
+  werkrealschule: vorhanden (ehem. Hauptschule)
+  sporthallen: 3 Hallen (Jahnhalle/Dreifeldhalle, Schelmenbuschhalle, Beckerhalle)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 266-karlsbad/024
+ENTITÄT: schule
+BEZEICHNUNG: Ludwig-Guttmann-Schule
+ORTSTEIL_BEZUG: Langensteinbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  ausrichtung: Schule für Körperbehinderte
+  träger: Landkreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 266-karlsbad/025
+ENTITÄT: einrichtung
+BEZEICHNUNG: Gemeindebücherei Karlsbad
+ORTSTEIL_BEZUG: Langensteinbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  medienangebot: Bildung, Kultur und Freizeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/026
+ENTITÄT: klinikum
+BEZEICHNUNG: SRH Klinikum Karlsbad-Langensteinbach
+ORTSTEIL_BEZUG: Langensteinbach
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  mitarbeiter_ca: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/027
+ENTITÄT: unternehmen
+BEZEICHNUNG: Nero AG
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Software (CD/DVD-Brennersoftware)
+  ansässig_bis: 2014
+  heute: Karlsruhe
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/028
+ENTITÄT: unternehmen
+BEZEICHNUNG: Harman/Becker Automotive Systems
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Autoradio- und Navigationssysteme-Hersteller
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/029
+ENTITÄT: unternehmen
+BEZEICHNUNG: Herrmann Ultraschalltechnik
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Hersteller von Ultraschall-Schweißmaschinen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/030
+ENTITÄT: symbol
+BEZEICHNUNG: Traube
+ORTSTEIL_BEZUG: Langensteinbach
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/heimatgeschichtliches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Heimatsymbol für die Vergangenheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 266-karlsbad/031
+ENTITÄT: symbol
+BEZEICHNUNG: Kochschule
+ORTSTEIL_BEZUG: Ittersbach
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/heimatgeschichtliches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Heimatsymbol für die Vergangenheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 266-karlsbad/032
+ENTITÄT: symbol
+BEZEICHNUNG: Dorfplatz mit alter Brücke
+ORTSTEIL_BEZUG: Mutschelbach
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/heimatgeschichtliches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Heimatsymbol für die Vergangenheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 266-karlsbad/033
+ENTITÄT: gebäude
+BEZEICHNUNG: ehemaliges Rathaus
+ORTSTEIL_BEZUG: Spielberg
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  status: sehenswert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 266-karlsbad/034
+ENTITÄT: jubiläum
+BEZEICHNUNG: 700 Jahre Auerbach und Mutschelbach
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1978
+  ortsteile: Auerbach und Mutschelbach
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 266-karlsbad/035
+ENTITÄT: jubiläum
+BEZEICHNUNG: 700 Jahre Spielberg
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/geschichte | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Spielberg
+EIGENSCHAFTEN:
+  jahr: 1981
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 266-karlsbad/036
+ENTITÄT: jubiläum
+BEZEICHNUNG: 750 Jahre Ittersbach
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/geschichte | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Ittersbach
+EIGENSCHAFTEN:
+  jahr: 1982
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 266-karlsbad/037
+ENTITÄT: jubiläum
+BEZEICHNUNG: 800 Jahre Langensteinbach
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/geschichte | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Langensteinbach
+EIGENSCHAFTEN:
+  jahr: 1997
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 266-karlsbad/038
+ENTITÄT: jubiläum
+BEZEICHNUNG: 40 Jahre Karlsbad
+QUELLE: https://www.karlsbad.de/website/de/gemeinde-buerger/willkommen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2011
+  datum: 9. Oktober 2011
+  ort_feier: Talblickhalle (Auerbach)
+  anlass: 40-jähriges Bestehen der Gemeinde
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 266-karlsbad/039
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Schernberg
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  ort: Schernberg
+  kreis: Kyffhäuserkreis
+  bundesland: Thüringen
+  land: Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/040
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Heldrungen
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  ort: Heldrungen
+  kreis: Kyffhäuserkreis
+  bundesland: Thüringen
+  land: Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/041
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Hüttau
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  ort: Hüttau
+  region: Salzburger Land
+  land: Österreich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/042
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Friedrich Heck
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  geboren: Obermutschelbach
+  beruf: Schulvorsteher
+  politik: Mitglied des Deutschen Reichstags
+  lebensdaten: 1865-1939
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/043
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Fritz Rau
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  aufgewachsen_in: Ittersbach
+  beruf: Konzert- und Tourneeveranstalter
+  lebensdaten: 1930-2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/044
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Jens Nowotny
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1974
+  verein: SV Spielberg bis 1985
+  karriere: DFB-Fußballnationalspieler
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/045
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Max Giesinger
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1988
+  beruf: Sänger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/046
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Stadtbahn S11
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Karlsruher Verkehrsverbund (KVV)
+  strecke: Hochstetten – Karlsruhe – Ettlingen – Waldbronn – Langensteinbach – Spielberg – Ittersbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/047
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Stadtbahn S12
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Karlsruher Verkehrsverbund (KVV)
+  strecke: Karlsruhe-Rheinhafen – Ettlingen – Waldbronn – Langensteinbach – Spielberg – Ittersbach
+  besonderheit: Eilzug
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 266-karlsbad/048
+ENTITÄT: gewerbesteuer
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 2022
+  einnahmen_mio_euro: 8.91
+  hebesatz_prozent: 345
+  vergleich_deutschland: unter Durchschnitt (407 %)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 266-karlsbad/049
+ENTITÄT: naturraum
+BEZEICHNUNG: Naturpark-Radweg Schwarzwald Mitte/Nord
+QUELLE: https://de.wikipedia.org/wiki/Karlsbad_(Baden) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Landes-Radfernweg
+  lage: Albtal
+  strecke: Malsch – Ettlingen – Albtal – Marxzell – Straubenhardt – Neuenbürg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

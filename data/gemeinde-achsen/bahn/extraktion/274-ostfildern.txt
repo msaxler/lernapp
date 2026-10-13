@@ -1,0 +1,638 @@
+ENTITÄT: ort
+BEZEICHNUNG: Ostfildern
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 40000
+  ist_große_kreisstadt: true
+  gueltig_ab_jahr: 1976
+  ist_stadt_seit: 1976
+  lage: Neckar- und Körschtal
+  region: Stuttgart
+  verkehrsanbindung: Stadtbahnanbindung Stuttgart, Busverbindung Messe, nähe Flughafen
+  hochschulen_erreichbar: Stuttgart, Hohenheim, Tübingen, Esslingen (weniger als 30 Minuten)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_datum: 1. Januar 1975
+  gründung_aus_gemeinden: Kemnat, Nellingen, Ruit, Scharnhausen
+  grund_gründung: Kommunalreform
+  amtsverweser_1975: Richard Schall
+  gemeinderat_grösse_1975: 60 Mitglieder
+  stadt_ab: 1. Januar 1976
+  große_kreisstadt_ab: 1. Juli 1976
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Nellingen
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 10500
+  superlativ: größter Stadtteil Ostfilderns
+  zentrale_achse: Hindenburgstraße
+  historischer_kern: Klosterhof, romanischer Kirchturm, Propsteigebäude
+  infrastruktur: Schul- und Sportzentrum, Hallenbad, KuBinO (Stadthalle, Bibliothek, Bildungsangebote), Stadtbahnhaltestelle U7
+  kulturelles_zentrum: ehemaliges Straßenbahndepot mit Theater, Musikschule, Volkshochschule
+  geschichte: Arbeiterwohngemeinde ab 19. Jahrhundert
+  straßenbahn_verbindung: Neckartal (ab 19. Jahrhundert)
+  jährliches_ereignis: Nellinger Kirbe (Herbst)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Parksiedlung
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 3000
+  charakterisierung: jung, grün, gewachsen
+  gründung: nach Zweitem Weltkrieg
+  gründung_gelände: ehemaliges Königliches Privatgestüt Weil
+  gründung_zweck: Heimatvertriebene und Ausgebombte aufnehmen
+  gründer_initiator: Philipp Albrecht von Württemberg
+  schulen: Lindenschule
+  kirchen_anzahl: zwei
+  infrastruktur: aktives Vereinsleben, Quartiersplatz Herzog-Philipp-Platz
+  besonderheit: Panoramaplattform Breslauer Straße mit Blick ins Neckartal, Panoramaweg
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Scharnhauser Park
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 8500
+  charakterisierung: Stadt des 21. Jahrhunderts, Modellcharakter
+  ursprung: ehemaliger US-Militärstandort
+  bauformen: Reihenhäuser, Geschosswohnungsbau, Einzelhandel, Gewerbe
+  architektur: preisgekrönt
+  zentrale_gestaltung: Landschaftstreppe (ca. 1 Kilometer)
+  grünflächen: Bürgergärten, Baumhain, angrenzend Landschaftsschutzgebiet
+  ökologie: Regenwassermanagement, Holzheizkraftwerk, kurze Wege
+  verkehrskonzept: Stadtbahnanbindung
+  familienfreundlichkeit: Kindertageseinrichtungen, Jugendtreff, Aktivwerkstatt, Spielmöglichkeiten
+  nahversorgung: Wochenmarkt zentraler Platz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ruit
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 8100
+  entwicklung: vom Straßendorf zur modernen Gemeinde mit hoher Lebensqualität
+  städtebau_fokus: Kronenplatz, Grüne Mitte
+  infrastruktur: Landessportschule (Zinsholz), Medius Klinik, Rathaus Ruit mit Bauverwaltung, Jugendhaus, Samariterstift
+  nahversorgung: Wochenmarkt
+  geschichte: bäuerliche Siedlung
+  ersterwähnung: 1173
+  historische_entwicklung: Arbeitergemeinde durch Nähe Neckartal und Stuttgart, starkes Wachstum nach Zweitem Weltkrieg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kemnat
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 5400
+  lage: Osten Ostfilderns
+  entwicklung: seit 1960er Jahren von kleinem Ort zu prosperierender Wohn- und Gewerbegemeinde
+  industrie_tradition: Druck- und Verlagswesen
+  hauptunternehmen: MairDumont (größter deutscher Reiseverlag)
+  geschichte: erstmals 1229 erwähnt
+  historische_bedeutung: Schafhof der Herrschaft Württemberg (überregionale Bekanntheit)
+  jährliches_ereignis: Kirbe
+  geplante_umgestaltung: Heumadener Straße (ab 2024) mit Einkaufsmöglichkeiten, Kindergarten, betreutes Wohnen
+GUELTIG_AB: 1229
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Scharnhausen
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: idyllisch im Körschtal (landschaftlich abweichend von Filderebene)
+  charakterisierung: naturnahe Lage, beliebter Wohnstandort
+  geschichte: eng mit Haus Württemberg verbunden
+  bauwerke: Schlössle (Lustschloss), Gestütgebäude, Amortempel
+  berühmte_persönlichkeit: Geburtsort Philipp Matthäus Hahn (Pfarrer, Astronom, Ingenieur)
+  historischer_verlauf: lange Zeit bescheidenes Bauerndorf, Perspektiven ab Industrialisierung Neckartals
+  identität: naturnahe Lage, historischer Kern, gewachsene Identität
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Philipp Matthäus Hahn
+ORTSTEIL_BEZUG: Scharnhausen
+QUELLE: https://www.ostfildern.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1739
+  tod_jahr: 1790
+  superlativ: größter Sohn der Stadt
+  beruf: Pfarrer, Astronom, Ingenieur
+  vater: Scharnhauser Pfarrer
+  ausbildung_privat: Latein, Griechisch, Hebräisch
+  schulen: Lateinschulen Esslingen und Nürtingen
+  studium: Theologiestudium Tübingen (ab 1756, abgeschlossen mit 20 Jahren)
+  studium_nebengebiet: mechanische, astronomische, chemische und alchimistische Schriften
+  karriere: Pfarrer Onstmettingen, dann Kornwestheim, dann Echterdingen
+  berühmtheit: Konstrukteur astronomischer Uhren, Waagen
+  patron: Herzog Carl Eugen (Förderer, bekannt als "Uhrmacher Gottes")
+  bedeutung: Gründer Grundstock der Feinmechanikerindustrie
+  zitat: "mein Paradies bis ins fünfzehnte Jahr" (über Scharnhausen, 1781)
+GUELTIG_AB: 1739
+GUELTIG_BIS: 1790
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Herzog Carl Eugen
+ORTSTEIL_BEZUG: Scharnhausen
+QUELLE: https://www.ostfildern.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1728
+  tod_jahr: 1793
+  titel: württembergischer Herzog
+  charakterisierung: schillernde Figur in Landesgeschichte
+  schloss_scharnhausen: frühklassizistisches Schlössle mit Säulenportikus
+  schloss_erbaut: 1784
+  lebensgefährtin: Franziska von Hohenheim
+  aufenthalte_scharnhausen: 1783-1788 mehr als 200 Mal
+  zweck_aufenthalte: Retraite (Rückzugsort), Jagdquartier
+  gartenanlage: Englischer Garten mit geschwungenen Wegen, Teichen, Gebäuden, Wildgehege
+  bedeutung: Keimzelle des späteren Königlichen Privatgestüts und heutigen Scharnhauser Parks
+  förderung: Unterstützer Philipp Matthäus Hahn
+GUELTIG_AB: 1728
+GUELTIG_BIS: 1793
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Charlotte Reihlen
+ORTSTEIL_BEZUG: Kemnat
+QUELLE: https://www.ostfildern.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1805
+  tod_jahr: 1868
+  superlativ: berühmteste Tochter Ostfilderns
+  vater: Wilhelm Mohl (Kemnater Pfarrer)
+  ehemann: Friedrich Reihlen (wohlhabender Stuttgarter Kaufmann)
+  wohnort_kindheit: Kemnat (erste drei Jahre), dann Weissach bei Böblingen
+  wendepunkt: früher Tod zweiter Sohn führte zu pietistischer Erweckung (1830)
+  lebensstil: fast ärmlich lebend trotz Wohlstand
+  wirken: Unterstützung Mädchen, Frauen, Arme
+  schule_gründung: Mörike-Gymnasium (ab 1856, ca. 500 Schülerinnen, heute Stuttgarter evangelisches Gymnasium)
+  publikationen: Armengesangbuch, günstige Bibel
+  initiierte_institution: Stuttgarter Diakonissenanstalt (gegründet 1854)
+  berühmtestes_werk: Neufassung Darstellung "Der breite und der schmale Weg" (Chromolithografie, weltweite Verbreitung in pietistischen Haushalten)
+GUELTIG_AB: 1805
+GUELTIG_BIS: 1868
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bernhard Krol
+ORTSTEIL_BEZUG: Kemnat
+QUELLE: https://www.ostfildern.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_ort_jahr: Berlin, 1920
+  tod_ort_jahr: Ostfildern-Kemnat, 2013
+  beruf: Komponist, Hornist
+  zugehörigkeit: Radio-Sinfonieorchester Stuttgart (langjähriges Mitglied)
+  werke: Orchesterwerke, Kammermusik, Kirchenmusik
+  wohnort: Ostfildern
+  engagement: katholische Kirchengemeinde Kemnat
+  anliegen: musikalische Förderung Jugend, zeitgenössische Musik
+  vermächtnis: Bernhard-Krol-Wettbewerb (zweijährlich, für zeitgenössische Musik, Landkreis Esslingen)
+GUELTIG_AB: 1920
+GUELTIG_BIS: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Philipp Albrecht von Württemberg
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  initiative: Gründung Parksiedlung
+  beitrag: Gelände des ehemaligen Königlichen Privatgestüts großzügig zur Verfügung gestellt
+  zweck: Aufnahme Heimatvertriebene und Ausgebombte nach Zweitem Weltkrieg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gerhard Koch
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Bürgermeister/Oberbürgermeister
+  wahl_datum: 8. Juni 1975
+  wahl_ergebnis: 69,23 Prozent
+  verpflichtung: 22. August 1975
+  wiederwahl_datum: 5. Juni 1983
+  wiederwahl_ergebnis: 90,75 Prozent
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Herbert Rösch
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Beigeordneter
+  wahl_datum: 17. Dezember 1975
+  wiederwahl_datum: Dezember 1983
+  wiederwahl_ergebnis: klare Mehrheit
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gustav Bylow
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Beigeordneter
+  wahl_datum: 17. Dezember 1975
+  wiederwahl_datum: Dezember 1983
+  wiederwahl_ergebnis: klare Mehrheit
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Sadri Berisha
+ORTSTEIL_BEZUG: Kemnat
+QUELLE: https://www.ostfildern.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nationalität: Kosovo-Albaner
+  alter_bei_tod: 55 Jahre
+  arbeit: Gastarbeiter, Tiefbaufirma Ostfildern
+  aufenthaltsdauer_deutschland: 21 Jahre
+  charakter: ruhig, fleißig, freundlich, gesellig
+  todesfalls: Opfer brutaler Angriff in Arbeiterwohnheim Kemnat
+  todesanlass: ausländerfeindliche Motivation
+  todestag: 8. Juli 1992
+  verletzter_mitbewohner: Sahit E.
+  gedächtnis: Traueranzeige über 1000 Unterschriften, Spenden 20000 Mark
+GUELTIG_AB: 1937
+GUELTIG_BIS: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Thomas W.
+ORTSTEIL_BEZUG: Kemnat
+QUELLE: https://www.ostfildern.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tatbeteiligung: Haupttäter Mord Sadri Berisha (1992)
+  bruder: Roland W. (mitangeklagt)
+  vorstrafen: mehrmals wegen Körperverletzung verurteilt
+  verein_verdacht: Verbindungen zu rechtsradikalem Gedankengut
+  wohnung_befund: fremdenfeindliche Parolen
+  behauptung: nicht politisch motiviert
+  verurteilung: lebenslange Freiheitsstrafe
+  grund_verurteilung: Mord und versuchter Mord
+GUELTIG_AB: 1992
+GUELTIG_BIS: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Hindenburgstraße
+ORTSTEIL_BEZUG: Nellingen
+QUELLE: https://www.ostfildern.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benennung_datum: 2. Mai 1933
+  benannt_nach: Paul von Hindenburg
+  zeitlicher_kontext: zeitgleich Umbenennung Otto-Schuster-Straße in "Adolf Hitler-Straße"
+  bewertung_kritik: von Teil der Bevölkerung heute kritisch beurteilt (Rolle bei Hitlers Ernennung zum Reichskanzler 1933)
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Heinrich-Heine-Gymnasium
+ORTSTEIL_BEZUG: Nellingen
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1976
+  unterrichtsbeginn: 13 Monate vor offizieller Einweihung
+  offizielle_einweihung: September 1977
+  gymnasium_beteiligung: zweites Gymnasium des Gymnasialen Schulverbands Ostfilder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Erich Kästner-Grundschule
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Justinus-Kerner-Schule
+ORTSTEIL_BEZUG: Ruit
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erweiterung_beginn: August 1980
+  erweiterung_inhalte: zwei neue Klassenzimmer Pavillon-Stil
+  erweiterung_einweihung: Juni 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Lindenschule
+ORTSTEIL_BEZUG: Parksiedlung
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Paracelsus-Krankenhaus
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  existenz_seit: 1969
+  status_1977: Lehrkrankenhaus
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: klinik
+BEZEICHNUNG: Medius Klinik Ruit
+ORTSTEIL_BEZUG: Ruit
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: altenheim
+BEZEICHNUNG: Samariterstift
+ORTSTEIL_BEZUG: Ruit
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  träger: Samariterstiftung Nürtingen
+  grundsteinlegung: 3. Mai 1982
+  einweihung: 7. September 1984
+  zielgruppe: Seniorinnen und Senioren
+  besonderheit: Benefizessen-Tradition (seit 1985 mit Restaurantköchen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schlössle
+ORTSTEIL_BEZUG: Scharnhausen
+QUELLE: https://www.ostfildern.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alternative_bezeichnung: Lustschloss
+  erbaut: 1784
+  bauherr: Herzog Carl Eugen
+  stil: frühklassizistisch
+  architektur_merkmal: markanter Säulenportikus
+  umgebung: Englischer Garten mit geschwungenen Wegen, Teichen, Gebäuden, Wildgehege
+  status: heute in Privatbesitz
+  bedeutung: Keimzelle des späteren Königlichen Privatgestüts
+  funktion_historisch: Retraite, Jagdquartier
+GUELTIG_AB: 1784
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Amortempel
+ORTSTEIL_BEZUG: Scharnhausen
+QUELLE: https://www.ostfildern.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Rest des früheren Englischen Gartens
+  referenz_bauwerk: bei Scharnhauser Schlössle
+  renovierung: September 1984 abgeschlossen
+  status: beliebtes Ausflugsziel
+GUELTIG_AB: 1784
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Nellingen Barracks
+ORTSTEIL_BEZUG: Scharnhauser Park
+QUELLE: https://www.ostfildern.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_alt: US-Kaserne
+  geschichte_fliegerhorst: 1938-1945 Fliegerhorst Reichsluftwaffe
+  geschichte_beschlagnahme: 1947 von USA beschlagnahmt
+  kaserne_gründung: 1951
+  funktion_1951: Mannschaftsquartiere, Offizierswohnungen, Werkstatt- und Versorgungsgebäude
+  ausbau_1969: Hauptquartier Instandhaltung, Transport, Munition, medizinische Versorgung, Nachschub VII. US-Korps
+  nutzungsende: November 1992
+  grund_nutzungsende: Abzug nach weltpolitischen Veränderungen (Fall der Mauer)
+  nachnutzung: zivile Entwicklung Scharnhauser Park
+  erinnerung: Zaunrest bewusst erhalten
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Theater An der Halle
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: prägt Stadtleben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Drachenfest
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: traditionsreich
+  bedeutung: prägt Stadtleben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Nellinger Kirbe
+ORTSTEIL_BEZUG: Nellingen
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahreszeit: Herbst
+  frequenz: jährlich
+  charakterisierung: Höhepunkt im Stadtleben
+  bestandteile: Markt, Musik, Bewirtung, Kirbelauf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Montluel
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schwesterstadt_von: Ostfildern
+  verschwisterungsurkunde: 9. September 1978
+  kontakte_seit: 1974
+  erste_feier: Mai 1978 in Montluel
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gedenkort
+BEZEICHNUNG: Erinnerung Sadri Berisha
+ORTSTEIL_BEZUG: Kemnat
+QUELLE: https://www.ostfildern.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: Mord Kosovo-Albaner Sadri Berisha (ausländerfeindliche Motivation)
+  datum: 8. Juli 1992
+  spuren: tiefe Spuren im kollektiven Gedächtnis
+  gedenkveranstaltungen: ja
+  demonstrationen: drei Demonstrationen durchgeführt (erste 300 Personen, zweite Schweigemarsch, dritte mit Sachbeschädigungen)
+  traueranzeige: über 1000 Unterschriften
+  spenden: 20000 Mark für Familien Opfer
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Stadttag
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: erstes Stadtfest
+  datum: 18. Juni 1976
+  dauer: viertägig
+  motto: "Lernen Sie Ihre Nachbarn kennen, besuchen Sie die anderen Stadtteile"
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadtwappen
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung_datum: 22. Dezember 1976
+  verleihung_durch: Regierungspräsident Roemer
+  bezug: Symbol der Stadtwerdung
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: KuBinO
+ORTSTEIL_BEZUG: Nellingen
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestandteile: Stadthalle, Bibliothek, Bildungsangebote
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Landessportschule Ruit
+ORTSTEIL_BEZUG: Ruit
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Zinsholz
+  bedeutung: trägt zu Sportangebot der Stadt bei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Talwiesen
+ORTSTEIL_BEZUG: Ruit
+QUELLE: https://www.ostfildern.de/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 28. Juni 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: einrichtung
+BEZEICHNUNG: Kleinkunstreihe Nachtstudio
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: prägt Stadtleben kulturell
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: garten
+BEZEICHNUNG: Gartentraum
+QUELLE: https://www.ostfildern.de/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Bürgergärten
+  bedeutung: prägt Stadtleben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6

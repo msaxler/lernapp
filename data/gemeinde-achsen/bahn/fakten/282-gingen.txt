@@ -1,0 +1,679 @@
+ID: 282-gingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Gingen an der Fils
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_nennung: 915
+  benannt_nach: vermutlich Alamannen (-ingen-Endung)
+  einwohner_anzahl: 4300-4400
+  lage_geografisch: Filstal, Bundesstraße 10, Bahnlinie Stuttgart-Ulm
+  ist_urpfarrei: true
+  landschaftlicher_charakter: Albvorland, Taltrichter der Fils, umrahmt von Schwäbischer Alb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 282-gingen/002
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/10-johanneskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weihedatum_kapelle: 1. Februar 984
+  weihe_durch: Bischof Gebhart (Konstanz)
+  ursprung: Privatkapelle auf Anweisung des Abts Salemannus (Kloster Lorsch)
+  wehrturm_errichtet: vor 1280
+  wehrturm_spitzhelm: 1463
+  langhaus_erweitert: 1512
+  weltengericht_fresko: 1524
+  architekturstil: gotisch (nach Um-/Wiederaufbau)
+  kircheninschrift_bedeutung: älteste Kircheninschrift im deutschsprachigen Raum
+  kircheninschrift_datierung_form: dionysische Zeitrechnung (Form der Datierung auf Basis des Geburtsjahres Jesu)
+  superlativ: älteste Kircheninschrift im deutschsprachigen Raum
+GUELTIG_AB: 984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 282-gingen/003
+ENTITÄT: kirche
+BEZEICHNUNG: St. Barbara
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/gemarkung-gingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  weihedatum: 1967
+  grund_neubau: Zuzug von katholischen Flüchtlingen nach 2. Weltkrieg
+  baugebiet: neues Baugebiet (nach 1945)
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 282-gingen/004
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Lorsch
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Bergstraße
+  erhielt_gingen: 915
+  grund_schenkung: Seelenheil der Königin Kunigunde
+  errichtete: erstes Bethaus/erste Kapelle
+  foerderte: Verwaltungszentrum, Wachstum und Bedeutung des Dorfes
+  uebergang_hochstift_mainz: 1232
+GUELTIG_AB: 915
+GUELTIG_BIS: 1232
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 282-gingen/005
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Königin Kunigunde
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: schenkte Gingen mit 13 Höfen und Einzelhöfen dem Kloster Lorsch
+  handlung_jahr: 915
+  grund: Seelenheil
+  titel: deutsche Königin, später Kaiserin
+GUELTIG_AB: 915
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 282-gingen/006
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Claudia Messorina
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: römisch
+  titel: erste namentlich bekannte Persönlichkeit des Landkreises Göppingen
+  handlung: stiftete zwei Weihesteine für den Gott Merkur
+  zeitperiode: Römerzeit (85-480 n.Chr.)
+GUELTIG_AB: 85
+GUELTIG_BIS: 480
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 282-gingen/007
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Maria von Bosnien
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/gemarkung-gingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Gräfin von Helfenstein
+  rolle: Dorfherrin
+  verheiratet_mit: Graf Ulrich V. von Helfenstein
+  verwandt_mit: erster bosnischer König (Bruder)
+  zeitraum_herrschaft: 1396-1403
+  finanzierung_lebensunterhalt: aus Abgaben Gingens
+GUELTIG_AB: 1396
+GUELTIG_BIS: 1403
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 282-gingen/008
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Christian von Meerheim
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/gemarkung-gingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Offizier
+  todesursache: Duell
+  beerdigung_ort: Johanneskirche Gingen
+  kontext_historisch: Spanischer Erbfolgekrieg, 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 282-gingen/009
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Gerhard Priel
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/13-schlagwerk | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Gründer/Leiter Schlagwerk GmbH
+  erkenntnis_zeitpunkt: 1980er
+  innovation: erkannte Potenzial des Cajon
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 282-gingen/010
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Johannes Bader
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/5-drei-muehlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: erwarb Ölmühle
+  handlung_jahr: 1882
+  innovation: nutzte Wasserkraft zur Gewinnung von elektrischem Strom
+GUELTIG_AB: 1882
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 282-gingen/011
+ENTITÄT: muehle
+BEZEICHNUNG: Obere Mühle
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/5-drei-muehlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Mühlgasse 4-6
+  energiequelle: Mühlkanal (Wasserkraft)
+  zweck_original: Getreide mahlen für Kloster Lorsch
+  gruen_dung_zeitraum: ab 10. Jahrhundert
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 282-gingen/012
+ENTITÄT: muehle
+BEZEICHNUNG: Ölmühle
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/5-drei-muehlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bahnhofstraße 10
+  energiequelle: Mühlkanal (Wasserkraft)
+  errichtung_jahr: ab 1540
+  rohstoff: Leinsamen (aus angebautem Lein)
+  produkt: Leinöl
+  weitere_produkte: Gips, Bretter
+  wandlung_zu_elektrizitaetswerk: 1882 (Johannes Bader)
+  stilllegung: Mitte 1960er (Trockenlegung Mühlkanal)
+GUELTIG_AB: 1540
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 282-gingen/013
+ENTITÄT: muehle
+BEZEICHNUNG: Untere Mühle
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/5-drei-muehlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  energiequelle: Seitenarm des Mühlkanals
+  errichtung_zeitpunkt: ab Ende 16. Jahrhundert
+  produkt_original: Getreide
+  weitere_produkte: Gips, Bretter
+GUELTIG_AB: 1590
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 282-gingen/014
+ENTITÄT: bauwerk
+BEZEICHNUNG: Bahnhof Gingen
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/14-bahnhof | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 394 m
+  bahnlinie: Filstalbahn Stuttgart-Ulm
+  grundstuecke_kauf: 1846
+  bau_gingen_abschnitt: nach 1847
+  status_historisch: lange letzte Station bis Geislingen-Kuchen
+  erstellung_gueterbach: ja
+  funktion_gueterverkehr: Versand Eisenerz (Kuchen), Textilwaren (Staub ab 1857), Holz-Leder-Kunststoffprodukte (ab 1900)
+  schliessung_gueterbach: 1970er
+  status_aktuell: Haltestation
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 282-gingen/015
+ENTITÄT: firma
+BEZEICHNUNG: Schlagwerk GmbH
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/13-schlagwerk | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  produkt: Musikinstrumente (Schlitztrommeln, Tempel-blocks, Effekt-Percussion, Cajons)
+  gruendung_ort: Giengen/Brenz
+  gruendung_jahr: 1982
+  umzug_nach_geislingen: 1980er (aus Platzgründen)
+  umzug_nach_gingen: 1994
+  adresse_gingen_1: ehemalige Kochlöffelfabrik
+  expansion_gingen_2: 2005 (modernes Hauptquartier, Gewerbegebiet untere Schorteile)
+  produkt_flaggschiff: Cajon la Peru
+  expansion_flaeche: 2014 (Verdopplung Produktionsfläche)
+  eigenschaft_besonderheit: einziger Musikinstrumentenhersteller in Ginger Gewerbelandschaft
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 282-gingen/016
+ENTITÄT: quellen_mineralquelle
+BEZEICHNUNG: Sauerbrunnen / Mineralquelle Gingen
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/2-sauerbrunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bohrlage: Bahnhofsstraße
+  bohr_beschluss: 1931
+  bohr_erfolg: 1932
+  bohr_tiefe: 149 m
+  mineralisierung: glauber-, bitter- und kochsalzhaltiges Wasser
+  eigenschaften_medizinisch: abführende Wirkung
+  vermarktung_start: ab 1933
+  brunnen_errichtung: 1933/1934
+  zweck_geplant: Kuranlage mit Brunnen, Badehaus, Ruheplatz
+  verfallsdatum: Stilllegung 1960er
+  quelle_zugeschuettet: Jahre später (nach 1960er)
+  neuerrichtung_brunnen: 1999 (modernes Brunnenbecken)
+GUELTIG_AB: 1932
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 282-gingen/017
+ENTITÄT: postamt
+BEZEICHNUNG: Postamt Gingen (Altes Postgebäude)
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/4-alte-post | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstes_gebaeude_erbauerung: 1902
+  neues_gebaeude: gegenüber (um Größe zu erreichen)
+  umfunktionierung: 1998 (Postagentur statt Postamt)
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 282-gingen/018
+ENTITÄT: postroute
+BEZEICHNUNG: Postroute Mechelen-Innsbruck
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/6-postroute | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Kaiser Maximilian
+  etablierung: 1490
+  streckenverlauf: Mechelen (Belgien) - Innsbruck (Österreich)
+  stationen_in_deutschland: 15
+  station_gingen: ja
+  infrastruktur_geleit_post: Reitstall, Wohngebäude, Schmiede
+GUELTIG_AB: 1490
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 282-gingen/019
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Geleit- und Poststation Gingen
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/6-postroute | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Reichsstadt Ulm
+  funktion: Schutz der Reisenden vor Überfällen (bewaffnete Reiter)
+  infrastruktur_gebaeude: Reitstall, Wohngebäude
+  infrastruktur_platz: dreieckiger Platz (für Fuhrwerke zum Wenden)
+  infrastruktur_schmiede: für Reparatur von Wagen, Kutschen, Pferdegeschirren
+GUELTIG_AB: 1490
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 282-gingen/020
+ENTITÄT: wasserversorgung
+BEZEICHNUNG: Wasserleitung Gingen
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/spitzname-schnapper | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  quelle: Sieben-Brunnen-Quelle
+  quelle_standort: unterhalb der Hunnenburg (Kuchener Markung)
+  fassungsrecht_erwerbung: 3. Mai 1887 (vor Kuchen)
+  fassungsrecht_kosten: 5 Mark Jahrespacht
+  planung_gemeinderat: 10. November 1890
+  kostenvoranschlag: 41.300 Mark
+  kostenveranschlag_realisiert: 60.000 Mark
+  finanzierung_schuldenaufnahme: 50.000 Mark (50 Jahre Laufzeit)
+  finanzierung_darlehen: 11.000 Mark (zinslos, AKV)
+  rohre_bestellt: 26. März 1890
+  bau_abschluss: November 1890
+  einweihung_festakt: 11. November 1890 (Böllerschüsse, Fest im "Lamm")
+  verbindungen_anzahl: vom alten Schulhaus bis Bahnhof mit Hausanschlüssen
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 282-gingen/021
+ENTITÄT: kulturelle_eigenschaft
+BEZEICHNUNG: Spitzname "Schnapper"
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/spitzname-schnapper | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass_erzaehlung: Wettbewerb mit Kuchen um Fassungsrechte der Sieben-Brunnen-Quelle
+  plausibelste_version_ereignis: Gingener Schultes setzte Unterschrift am 3. Mai 1887 genau vor Kucher Vertretern
+  metapher: "weggeschnappt" (Rechte)
+  verwendung_zeitspanne: über 100 Jahre (seit ca. 1887)
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 282-gingen/022
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Viereckschanze
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kultur: keltisch
+  zeitperiode: 750 v.Chr. - 85 n.Chr.
+  standort_region: zwischen Gingen und Süßen
+  besonderheit: einzige Viereckschanze im Landkreis
+GUELTIG_AB: -750
+GUELTIG_BIS: -85
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 282-gingen/023
+ENTITÄT: hoefe_historisch
+BEZEICHNUNG: Urhöfe Gingen
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/8-urhoefe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 3 aneinander angrenzende Höfe
+  gruendung_kultur: Alamannen (bei Siedlungsgründung)
+  bautyp_urspruenglich: typischerweise 12 Höfe pro Alamannen-Siedlung
+  status_historisch: Hofgerechtigkeit bis ins 19. Jahrhundert erhalten
+  bewohner_pro_hof: ca. 30-40 Personen
+GUELTIG_AB: 500
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 282-gingen/024
+ENTITÄT: hof
+BEZEICHNUNG: Taverne/Versammlungshof
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/8-urhoefe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse_historisch: Große Gasse 1 (später auch Große Gasse 5)
+  funktion: Taverne und Versammlungsort des Dorfes
+  besonderheit_recht: Braurecht
+  besonderheit_verwaltung: Verwaltungszentrum des Ortes
+  verwaltungsumfang: Siedlungen Grünenberg und Lorscher Besitzungen bis Aasrücken (zwischen Hohenstaufen und Rechberg)
+  adresse_19_jhd: Große Gasse 5, Hausname "Hofbauer"
+GUELTIG_AB: 900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 282-gingen/025
+ENTITÄT: hof
+BEZEICHNUNG: Widdumhof
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/8-urhoefe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bauerngasse 6-10
+  funktion: Versorgung des Pfarrers
+GUELTIG_AB: 900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 282-gingen/026
+ENTITÄT: wehr_wasserfall
+BEZEICHNUNG: Oberes Wehr / Gingener Wehr (Gemarkungsgrenze)
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/15-wasser | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Gemarkungsgrenze zwischen Gingen und Kuchen
+  beschreibung: an der Fils
+  geschichte: Ursprung des Mühlkanals
+GUELTIG_AB: 900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 282-gingen/027
+ENTITÄT: wehr_wasserfall
+BEZEICHNUNG: Rossgumpen
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/15-wasser | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: hoher Wasserfall
+  standort: flussabwärts vom oberen Wehr
+  status_aktuell: verschwunden
+GUELTIG_AB: 900
+GUELTIG_BIS: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 282-gingen/028
+ENTITÄT: wehr_wasserfall
+BEZEICHNUNG: Wasserfall (oberer Steg bis Bahnhofstraße)
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/15-wasser | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: zwischen oberem Steg und Brücke in der Bahnhofstraße
+  beschreibung: kleiner Wasserfall
+  status_aktuell: beseitigt (ökologische Gründe, 2. Hälfte 20. Jahrhundert)
+GUELTIG_AB: 900
+GUELTIG_BIS: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 282-gingen/029
+ENTITÄT: wehr_wasserfall
+BEZEICHNUNG: Großes Wehr (unterhalb Bahnhofstraße)
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/15-wasser | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: unterhalb der Brücke in der Bahnhofstraße
+  beschreibung: großes Wehr
+  status_aktuell: verschwunden/beseitigt
+  bestand_bis: 2. Hälfte 19. Jahrhundert
+GUELTIG_AB: 900
+GUELTIG_BIS: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 282-gingen/030
+ENTITÄT: infrastruktur_elektrizitaetswerk
+BEZEICHNUNG: Gingener Elektrizitätswerk
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/5-drei-muehlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  basis: Wasserkraft der Ölmühle
+  gruender: Johannes Bader
+  gruendung_jahr: 1882
+  grundlage_verlust: Trockenlegung des Mühlkanals (Mitte 1960er)
+GUELTIG_AB: 1882
+GUELTIG_BIS: 1965
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 282-gingen/031
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Filstalbahn Stuttgart-Ulm
+QUELLE: https://www.gingen.de/freizeit-tourismus/historischer-rundweg/14-bahnhof | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Königreich Württemberg
+  planungsbeginn: 1843
+  streckenabschnitt_gesamtkeit: Cannstatt - Ulm
+  bauzeit: 1845-1850
+  besonderheit: erste durchgehende Strecke Neckar-Donau-Bodensee
+  steinbruch_gingen: oberhalb Bahnhofsgelände am Hohenstein (Material für Bahndamm bis Geislingen)
+  steigung_zwischen_suessen_geislingen: 115 Höhenmeter (Damm mit gleichmäßiger Steigung)
+GUELTIG_AB: 1845
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 282-gingen/032
+ENTITÄT: historischer_konflikt
+BEZEICHNUNG: Städtekrieg Württemberg gegen Ulm
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/gemarkung-gingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1449-1453
+  geschaediger_ort: Gingen
+  beschaedigung: vollständige Zerstörung durch württembergische Truppen
+  folge_kirchenbau: Vergrößerung des Chores, Um- und Wiederaufbau der Kirche zu gotischer Gestalt
+  fresko_weltengericht: 1524 (monumentales Weltengericht mit italienischem Renaissance-Einfluss)
+GUELTIG_AB: 1449
+GUELTIG_BIS: 1453
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 282-gingen/033
+ENTITÄT: historischer_konflikt
+BEZEICHNUNG: 30-jähriger Krieg - Pest und Brände
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/gemarkung-gingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontext: 30-jähriger Krieg
+  pest_zeitraum: 1628-1629
+  niedergang_brand: 1634
+  erneute_brandschatzung: 1635 (durch Wild- und Rheingrafen Johann Kasimir, unter schwedischem Kommando)
+  wiederaufbau_zeitraum: bis 1660
+  wiederaufbau_ortsplan: prägt bis heute die Struktur von Straßen und Gebäuden im Ortskern
+  wiederaufbau_amtshaus: Fertigstellung 1659 (heute Gasthof Sonne, Ulmer Amtshaus)
+  wiederaufbau_altar: neuer Altar in Johanneskirche 1659 (Altarbild "Heiliges Abendmahl" erhalten)
+GUELTIG_AB: 1628
+GUELTIG_BIS: 1660
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 282-gingen/034
+ENTITÄT: historischer_konflikt
+BEZEICHNUNG: Spanischer Erbfolgekrieg
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/gemarkung-gingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: Anfang 18. Jahrhundert
+  ereignis_gingen: Heerlager (alliiert), anno 1703
+GUELTIG_AB: 1701
+GUELTIG_BIS: 1714
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 282-gingen/035
+ENTITÄT: historischer_konflikt
+BEZEICHNUNG: Auswanderungsbewegungen
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/gemarkung-gingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursachen: Not, Missernten, wirtschaftliche Instabilität
+  zeitpunkte: Mitte 18. Jahrhundert, um 1770, 1785, 1816
+  zielregionen: Ungarn, Balkan (Serbien, Rumänien), Nordamerika
+  volksgruppe: Donauschwaben
+GUELTIG_AB: 1750
+GUELTIG_BIS: 1820
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.84
+---
+ID: 282-gingen/036
+ENTITÄT: reformation
+BEZEICHNUNG: Reformation Gingen
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/gemarkung-gingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: Pfingsten 1531
+  durchfuehrende_person: Reformator Ambrosius Blarer
+  anzahl_gemeinden: 7 Gemeinden (Gingen + 6 weitere, die zur Reichsstadt Ulm gehörten)
+  folge_konfessionszugehoerigkeit: ganz Gingen wurde evangelisch
+  status_bis_wk2: rein evangelisch bis Beginn 2. Weltkrieg
+  umbruch_nach_wk2: Zuzug katholischer Flüchtlinge (neues Baugebiet, St. Barbara 1967)
+GUELTIG_AB: 1531
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 282-gingen/037
+ENTITÄT: herzogtum_staat
+BEZEICHNUNG: Königreich Württemberg
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inkorporation_gingens: 1810
+  vorgaenger_status: bayerisch (1803-1810)
+  grund_zugehörigkeit_aktuell: Teil Evangelischer Landeskirche in Württemberg (Kirche)
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 282-gingen/038
+ENTITÄT: herzogtum_staat
+BEZEICHNUNG: Reichsstadt Ulm (Territorium)
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inkorporation_gingens: 1403
+  gingen_status: zweitgrößtes Dorf im gesamten reichsstädtischen Territorium
+  amtmann_residenz: ja, bis 1774
+  wirtschaft_gingen_unter_ulm: Dreifelder-Wirtschaft, Leinenweberei, Tuche-Export nach Süden
+  herrschaft_dauer: 1403-1803 (400 Jahre)
+GUELTIG_AB: 1403
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 282-gingen/039
+ENTITÄT: grafschaft_staat
+BEZEICHNUNG: Grafschaft Helfenstein (Herrschaft über Gingen)
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inkorporation_gingens: nach 1300 (mehrere Jahrzehnte nach Staufer-Aussterben 1268)
+  konkurrenten_um_gingen_anteile: Herren von Rechberg, Grafen von Württemberg
+  grund_bedeutung: strategische Lage am Eingang des Filstales
+  grund_wohlstand: fruchtbare Ackerböden, Feuchtigkeit, gute Absatzmöglichkeiten über Verbindungsstraße
+  finanzielle_bedeutung: Versorgung Gräfin Maria von Bosnien in Geislingen (1372-1403)
+  herrschaft_dauer: nach 1300 - 1403
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1403
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 282-gingen/040
+ENTITÄT: staaten_herrschaft
+BEZEICHNUNG: Stauferreich (Dorfherrschaft Gingen)
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerb_gingens: König Konrad III. kaufte Gingen vom Kloster Lorsch
+  status_gingen: staufisches Reichsgut
+  verwalter: Ritter von Gingen (residiert in Gingen bis Helfensteiner Machtübernahme)
+  kirchenpatronat: Kloster Lorsch / Erzbistum Mainz (nicht Stauffer)
+  besonderheit_konstellation: Dorfherrschaft König und Kirchenpatronat Erzkanzler (deutscher Erzbischof) vereint
+  herrschaft_dauer: 1147-1268
+GUELTIG_AB: 1147
+GUELTIG_BIS: 1268
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 282-gingen/041
+ENTITÄT: hochstift_bistum
+BEZEICHNUNG: Erzbistum Mainz (Kirchenpatronat)
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchenpatronat_inkorporation: 1232 (mit Kloster Lorsch)
+  kirchenpatronat_dauer: 1232-1605
+  hindernis_reformation: Erzbischof Albrecht von Brandenburg verhinderte 1531 Reformation teilweise
+  vollstaendige_reformierung: 1605
+  nachfolger_patronatsherr: 1803-1810 bayerischer König (katholisch, evangelische Kirche)
+GUELTIG_AB: 1232
+GUELTIG_BIS: 1605
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 282-gingen/042
+ENTITÄT: settlement_period
+BEZEICHNUNG: Besiedlung Gingen - Steinzeit
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: jüngere Steinzeit, vor ca. 6000 Jahren
+  bewohner: steinzeitliche Menschen
+  fundort: Hochebene des Grünenbergs
+GUELTIG_AB: -6000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 282-gingen/043
+ENTITÄT: settlement_period
+BEZEICHNUNG: Besiedlung Gingen - Filstal
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: spätestens vor 4000 Jahren
+  region: Gingener Filstal
+GUELTIG_AB: -4000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 282-gingen/044
+ENTITÄT: kulturelle_periode
+BEZEICHNUNG: Alamannische Besiedlung Gingen
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: zwischen 3. und 5. Jahrhundert
+  aktion: gründeten Siedlung mit -ingen-Endungen
+  namensursprung: vermutlich Namensgeber des Ortes Gingen
+GUELTIG_AB: 300
+GUELTIG_BIS: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 282-gingen/045
+ENTITÄT: industrie_wirtschaftszweig
+BEZEICHNUNG: Leineweberei / Textilhandwerk
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_unter_ulm: 1403-1803
+  rohstoff_anbau: Lein auf Gingener Ackerflächen
+  produkt: Tuche
+  absatz_ziel: Export nach Süden (über Reichsstadt Ulm)
+GUELTIG_AB: 1403
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 282-gingen/046
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Holz-, Horn- und Kunststoffverarbeitung
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_etablierung: ab Mitte 19. Jahrhundert
+  grund_ansiedlung: ausreichend Fläche, gute Verkehrsanbindung (Eisenbahn)
+  produkte: Güter für täglichen Bedarf (Export)
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 282-gingen/047
+ENTITÄT: jubilaeum
+BEZEICHNUNG: 1111 Jahre Gingen
+QUELLE: https://www.gingen.de/gemeinde-wirtschaft/geschichte/1111-jahre-gingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2026
+  berechnung: 915 + 1111 Jahre
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92

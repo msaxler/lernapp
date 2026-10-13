@@ -1,0 +1,711 @@
+ENTITÄT: ort
+BEZEICHNUNG: Offingen
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: "Gründung einer alemannischen Sippe, deren Anführer 'Offo' genannt wurde"
+  besiedlung_jungsteinzeit: ca. 1800 v. Chr.
+  erste_urkundliche_erwahnung: 1186
+  erste_urkundliche_erwahnung_detail: "Papst Urban III. bestätigte, dass der Ort Teil des Besitzes des Augsburger Bischofs Udalschalk war"
+  bezug_habsburgischer_markgrafschaft_burgau: 1301
+  markt_titel_verleihung: 14. Juli 1971
+  markt_titel_verleiher: "Innenminister Dr. Bruno Merk"
+  gehoert_zu_bayern_seit: 1806
+  grund_bayern: "Bündnis süddeutscher Staaten mit Kaiser Napoléon"
+GUELTIG_AB: 1186
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herren von Westernach
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_offingen: 1380-1518
+GUELTIG_AB: 1380
+GUELTIG_BIS: 1518
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herren von Stain zu Reisensburg
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_offingen: 1518-1599
+GUELTIG_AB: 1518
+GUELTIG_BIS: 1599
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herrn von Schellenberg zu Hüfingen
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_offingen: 1599-1659
+GUELTIG_AB: 1599
+GUELTIG_BIS: 1659
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Freiherren von Freyberg-Eisenberg
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_offingen: 1659-1848
+  erwerb_schloss_landstrost_jahr: 1659
+GUELTIG_AB: 1659
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Ursberg
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerb_offingen_jahr: 1209
+  grund_erwerb: Schenkung
+GUELTIG_AB: 1209
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Landstrost
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung_1750: "wohlgebautes Schloss nebst einer Schweizerei mit angenehmen über die Donau sehenden Prospekt"
+  abgetragen_jahr: 1872
+  grund_abtragung: Erdrutsch
+GUELTIG_BIS: 1872
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Offinger Schloss
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1748
+  nutzung_heute: Pfarrhof
+GUELTIG_AB: 1748
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Donau-Begradigung
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1826-1864
+GUELTIG_AB: 1826
+GUELTIG_BIS: 1864
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnlinie Augsburg-Ulm
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1850-1853
+GUELTIG_AB: 1850
+GUELTIG_BIS: 1853
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Donautalbahn
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschluss_neuoffingen: 1876
+  verlauf: "von Regensburg"
+GUELTIG_AB: 1876
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Ziegelei
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1851
+GUELTIG_AB: 1851
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Papierfabrik
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1879
+  betrieb_bis: 1935
+  betreiber: Schmitz
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1935
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Filzfabrik (Bayerische Wollfilzfabrik)
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1896
+  standort_ersetzt: "Mahl-, Öl und Sägemühle"
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Holzschleiferei
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1910
+  standort: "Lüßhof an der Mindel"
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Superphosphat-Düngemittelfabrik Silbermann
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1928
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Angriff auf Offingen
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 24.-25. April 1945
+  angreifer: Amerikaner
+  angriffsart: "Panzer und Infanterie"
+  zerstoerte_anwesen: 26
+  gefallene_deutsche_soldaten: 86
+  gefallene_zivile_offingen: 5
+  grund_verteidigung: "Linie entlang der Donau gegen Americaner"
+  infrastruktur_zerstoert: "Donaubrücken"
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Aufnahme Heimatvertriebener (Nachkriegszeit)
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 1000
+  herkunftsregionen: "Sudetenland, Mähren, Schlesien"
+  einwohner_offingen_damals: 1800
+  folgen: "neue Erwerbszweige wie Handschuhproduktion"
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schnuttenbach
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "rechter Mindeltalhang östlich des Hauptortes Offingen"
+  urspruengliche_eigentümer: "Graf von Dillingen"
+  erste_schaenkung_kloester: Kloster Neresheim
+  erste_urkundliche_erwahnung: 1298
+  feuerstätten_1750: 18
+  besitzer_1750: 5
+  zugehörigkeit_1750: "Markgrafschaft Burgau (Vorderösterreich)"
+  einwohner_1860: 126
+  einwohner_1900: 142
+  einwohner_1950: "knapp 600"
+  grund_bevoelkerungswachstum_1950: "Heimatvertriebene und Barackenlager für Zwangsarbeiter des 3. Reichs"
+  eingemeindung_offingen: "30. April 1978"
+  grund_eingemeindung: "Gebietsreform in Bayern"
+  pfarrei: Gundremmingen
+GUELTIG_AB: 1298
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Ursula
+ORTSTEIL_BEZUG: Schnuttenbach
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 12.-13. Jahrhundert
+  superlativ: "ältester noch stehender Kirchenbau im Bereich Günzburg"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: lager
+BEZEICHNUNG: Barackenlager Schnuttenbach (Zwangsarbeiterlager)
+ORTSTEIL_BEZUG: Schnuttenbach
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet_durch: "Machthaber des 3. Reichs"
+  zweck_original: "Unterkunft für Zwangsarbeiter"
+  arbeitseinsatz: "Kunstdüngerfabrik (Flugzeugteile für Messerschmidt) und Landwirtschaft"
+  zweck_nachkrieg: "Sammellager für heimkehrende Fremdarbeiter, Kriegsgefangenenlager für SS-Angehörige, Unterkunft für Heimatvertriebene"
+  abbau_ab: 1954
+GUELTIG_BIS: 1954
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten-2/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 4422
+  stand_einwohner: "31.12.2025"
+  fläche: 14.93
+  fläche_einheit: "km²"
+  postleitzahl: 89362
+  landkreis: Günzburg
+  landkreis_postleitzahl: 89312
+  regierungsbezirk: Schwaben
+  bundesland: Bayern
+  entfernung_stuttgart: "ca. 110 km"
+  entfernung_muenchen: "ca. 110 km"
+  entfernung_a7: "ca. 25 km"
+  entfernung_a8: "ca. 5-10 km"
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten-2/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Schild gespalten; vorne in Gold drei übereinander stehende schwarze Wolfsangeln, hinten unter weißem Schildhaupt in Blau drei 2:1 gestellte goldene Kugeln"
+  element_wolfsangeln: "aus Wappen der Freiherren vom Stain"
+  element_kugeln: "aus Wappen der Freiherren von Freyberg-Schütz-Eisenberg"
+  wolfsangeln_herkunft_jahr: 1518
+  kugeln_herkunft_jahr: 1659
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnstrecke: "Paris – Karlsruhe – Stuttgart – Ulm – Augsburg – München – Salzburg – Wien"
+  verbindungen_staendlich: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungseinheit
+BEZEICHNUNG: Verwaltungsgemeinschaft Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Offingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: finanzinstitut
+BEZEICHNUNG: VR-Bank Donau Mindel
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Filiale
+  standort: Offingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: finanzinstitut
+BEZEICHNUNG: Sparkasse Günzburg-Krumbach
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Filiale
+  standort: Offingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Musikschule Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: "größte im Landkreis Günzburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grund- und Mittelschule Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreuung: "Mittags- und Hausaufgabenbetreuung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freizeitpark
+BEZEICHNUNG: LEGO Freizeitpark
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Günzburg
+  eroeffnung: "Mai 2002"
+  besucher_jaehrlich: 1300000
+  besucherherkunft: "Deutschland, Schweiz, Österreich, Italien, Niederlande"
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Donauradwanderweg
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: "Ulm – Regensburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Kulturradweg VIA DANUBIA
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "führt durch Offingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Donauried
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "nördliches Ortsgebiet"
+  eigenschaft: "Naturraum von europäischem Rang"
+  auwald: "Donauauwald"
+  nutzung: "Badenutzung durch Seen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Schleebachtal
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "östliches Ortsgebiet"
+  nutzung: "Spazierwege"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: pfarramt
+BEZEICHNUNG: St. Georg
+QUELLE: https://offingen.de/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: "Pfarrer-Miller-Straße 6, 89362 Offingen"
+  telefon: "08224 1809"
+  fax: "08224 1877"
+  website: "www.pfarrei-offingen.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: pfarramt
+BEZEICHNUNG: St. Martin
+QUELLE: https://offingen.de/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  zustaendigkeit: Gundremmingen
+  adresse: "Pfarrer-Miller-Straße 6, 89362 Offingen"
+  telefon: "08224 1809"
+  fax: "08224 1877"
+  website: "www.pfarrei-gundremmingen.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: pfarramt
+BEZEICHNUNG: Evangelisch-Lutherisches Pfarramt
+QUELLE: https://offingen.de/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  sitz: Günzburg
+  zustaendigkeit: Offingen
+  adresse: "Augsburger Straße 31, 89312 Günzburg"
+  telefon: "08224 6479"
+  fax: "08224 21808"
+  website: "www.guenzburg-evangelisch.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Offingen
+QUELLE: https://offingen.de/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Marktstraße 19, 89362 Offingen"
+  funktion: "Sitz der Verwaltungsgemeinschaft Offingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Barbara-Kapelle
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "bei Landstrost"
+  denkmalschutz: true
+  zerstoerung_30jaehriger_krieg: "bis auf Grundmauern"
+  wiederaufbau: 1680
+  aktuelles_bauwerk: "ca. 1900"
+  urspruengliche_funktion: "Andachtsstätte für Bewohner der Burg Landstrost"
+GUELTIG_AB: 1680
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Steinbrunnen
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1902
+  grund_bau: "Loslösung von privaten Brunnen; hygienische Wasserversorgung"
+  originalbrunnentrog: "gußeiserner Brunnentrog des Günzburger Stadtbrunnens (bis 1951)"
+  neubau_jahr: 1951
+  neubau_initiator: "Dr. Helmut Offermann"
+  neubau_architekt: "Baurat Eduard Härtinger"
+  neubau_material_trog: Muschelkalk
+  neubau_material_säule: Holz
+  neubau_deko: "Blech-Fisch"
+  renovation_2002: true
+  renovation_material_säule: Granit
+  renovation_fisch: Bronze
+  renovation_sponsor: "Faschingsgesellschaft Offonia / Firma BWF"
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Donautal / Donau-Auwald
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: "europaweit bedeutsame Biotopverbundachse"
+  ausdehnung: "Schwarzwald bis Schwarzes Meer"
+  charakter: "eschenreicher Auwald"
+  flora: "Bärlauch, Bergdisteln, Buschwindröschen, Märzenbecher"
+  steilhanghöhe: "bis 60 Meter"
+  fauna_highlight: "blauschimmernder Eisvogel"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Versöhnerkirche (Evangelische Kirche)
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  erbaut: 1965
+  adresse: Lüßhofstraße
+  standort_vorher: "Friedhof St. Wendelin"
+  grund_neubau: "Industrialisierung und Zuzug evangelischer Christen, besonders nach Zweitem Weltkrieg"
+  eroeffnung_gottesdienste: "1945 unter Pfarrer Georg Kuhn"
+  gottesdienste_orte_anfang: "Schule, Kameradschaftshaus, St. Leonhardskapelle"
+  gottesdienste_frequenz: "alle 14 Tage"
+  betreuung_durch: "Pfarramt Günzburg"
+  evangelische_christen_nachkrieg: 200
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Feldkapelle
+ORTSTEIL_BEZUG: Schnuttenbach
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 2003
+  erbauung_art: "ehrenamtliches Engagement der Bürgerschaft"
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Freybergeiche
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Donau-Auwald bei Neuoffingen"
+  alter: 250
+  alter_einheit: Jahre
+  hoehe: 30
+  hoehe_einheit: Meter
+  stammdurchmesser: 1.5
+  stammdurchmesser_einheit: m
+  umfang_aeste: 3.5
+  umfang_aeste_einheit: m
+  umfang_aeste_detail: "12 Hauptäste"
+  todesursache: "wechselnde Grundwasserstände und Trockenphasen"
+  abgestorben: "August 2003"
+  ueberreste_nutzung: "Grünfläche an der Steigstraße"
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  erbaut: 1615
+  erweiterung: 1922
+  umgebung: "Schlosswiesen, Grünzug"
+GUELTIG_AB: 1615
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Offinger Schloss (Pfarrschloss)
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1748
+  urspruengliche_funktion: "Gerichtsgebäude und Wohnstätte der Ortsherrschaft von Freyberg"
+  heutige_nutzung: "Pfarrerwohnung und Pfarreiverwaltung"
+  besitzer: "Katholische Kirchenstiftung"
+GUELTIG_AB: 1748
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Klaiberhaus
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1844
+  gruender: "Gastwirt Anton Klaiber"
+  originalfunktion: Wohngebäude
+  baustil: "schwäbischer Baustil (einziges solch erhaltenes Offinger Anwesen)"
+  renovierung: 2002
+  erdgeschoss: "Sportschießanlage und Schützenstube"
+  erstes_stock: "Gemeindesaal (100 Personen) und Heimatstube"
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Milchbäuerin
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 2003
+  lage: "Westseite Hauptstraße (seit Sommer 2003)"
+  bedeutung: "erinnert an landwirtschaftliche Prägung mit über 90 Milchlieferanten"
+  gegenwart: "heute 1 milchproduzierender Betrieb"
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Sinnespark
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Umfeld Seniorenwohnanlage"
+  ausstattung: "Kneippanlage, Barfußpfad, Summstein"
+  summstein_effekt: "ganzer Körper vibriert"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freizeitanlage
+BEZEICHNUNG: Skaterplatz
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 2008
+  lage: "neben Sportgelände im Bogen"
+  zielgruppe: Jugendliche
+  beliebtheit: "sehr gut angenommen"
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Ursulakapelle
+ORTSTEIL_BEZUG: Schnuttenbach
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 12.-13. Jahrhundert
+  baustil: frühgotisch
+  superlativ: "ältester noch stehender Kirchenbau im Altlandkreis Günzburg"
+  problem_1970er: "zu klein, Platzmangel"
+  neubau_anbau: 1977
+  neubau_veranlassung: "Pfarrer Harlacher (1970)"
+  gottesdienste_heute: "im Anbau"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

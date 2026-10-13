@@ -1,0 +1,706 @@
+ZIELORT: Offingen (Gemeinde)
+LAGE: 29 km östlich von Ulm (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Offingen
+
+GRUNDDATEN:
+  landkreis: Günzburg  [dewiki Infobox]
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 4365  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 14,91  [Wikidata P2046]
+  dichte_ew_km2: 293  [berechnet aus Einwohner und Fläche]
+  kfz: GZ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 440 | 446 | 448  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2857770)]
+  naechste_grossstadt: Ulm, 29 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 98 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Neuoffingen, Offingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 89362  [Wikidata P281]
+  vorwahl: 08224  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 34,2 %, AfD 29,8 %, SPD 11,8 %, GRÜNE 6,9 %; Wahlbeteiligung 81,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Thomas Wörz (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Günzburg (Stadt)
+  landkreis: Günzburg  [dewiki Infobox]
+  einwohner: 21.291  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 55,4  [Wikidata P2046; Altbestand staedte.json]
+  kfz: GZ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 470 | 465  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2913555)]
+  naechste_grossstadt: Ulm, 21 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Günzburg  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 35,6 %, AfD 22,9 %, SPD 12,3 %, GRÜNE 9 %, Die Linke 5,9 %; Wahlbeteiligung 78,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Offingen):
+ID: 290-offingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Offingen
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: "Gründung einer alemannischen Sippe, deren Anführer 'Offo' genannt wurde"
+  besiedlung_jungsteinzeit: ca. 1800 v. Chr.
+  erste_urkundliche_erwahnung: 1186
+  erste_urkundliche_erwahnung_detail: "Papst Urban III. bestätigte, dass der Ort Teil des Besitzes des Augsburger Bischofs Udalschalk war"
+  bezug_habsburgischer_markgrafschaft_burgau: 1301
+  markt_titel_verleihung: 14. Juli 1971
+  markt_titel_verleiher: "Innenminister Dr. Bruno Merk"
+  gehoert_zu_bayern_seit: 1806
+  grund_bayern: "Bündnis süddeutscher Staaten mit Kaiser Napoléon"
+GUELTIG_AB: 1186
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/002
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herren von Westernach
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_offingen: 1380-1518
+GUELTIG_AB: 1380
+GUELTIG_BIS: 1518
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/003
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herren von Stain zu Reisensburg
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_offingen: 1518-1599
+GUELTIG_AB: 1518
+GUELTIG_BIS: 1599
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/004
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herrn von Schellenberg zu Hüfingen
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_offingen: 1599-1659
+GUELTIG_AB: 1599
+GUELTIG_BIS: 1659
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/005
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Freiherren von Freyberg-Eisenberg
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_offingen: 1659-1848
+  erwerb_schloss_landstrost_jahr: 1659
+GUELTIG_AB: 1659
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/006
+ENTITÄT: kloster
+BEZEICHNUNG: Ursberg
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerb_offingen_jahr: 1209
+  grund_erwerb: Schenkung
+GUELTIG_AB: 1209
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/007
+ENTITÄT: schloss
+BEZEICHNUNG: Landstrost
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung_1750: "wohlgebautes Schloss nebst einer Schweizerei mit angenehmen über die Donau sehenden Prospekt"
+  abgetragen_jahr: 1872
+  grund_abtragung: Erdrutsch
+GUELTIG_BIS: 1872
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/008
+ENTITÄT: schloss
+BEZEICHNUNG: Offinger Schloss
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1748
+  nutzung_heute: Pfarrhof
+GUELTIG_AB: 1748
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/009
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Donau-Begradigung
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1826-1864
+GUELTIG_AB: 1826
+GUELTIG_BIS: 1864
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/010
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnlinie Augsburg-Ulm
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1850-1853
+GUELTIG_AB: 1850
+GUELTIG_BIS: 1853
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/011
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Donautalbahn
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschluss_neuoffingen: 1876
+  verlauf: "von Regensburg"
+GUELTIG_AB: 1876
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/012
+ENTITÄT: betrieb
+BEZEICHNUNG: Ziegelei
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1851
+GUELTIG_AB: 1851
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 290-offingen/013
+ENTITÄT: betrieb
+BEZEICHNUNG: Papierfabrik
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1879
+  betrieb_bis: 1935
+  betreiber: Schmitz
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1935
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/014
+ENTITÄT: betrieb
+BEZEICHNUNG: Filzfabrik (Bayerische Wollfilzfabrik)
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1896
+  standort_ersetzt: "Mahl-, Öl und Sägemühle"
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/015
+ENTITÄT: betrieb
+BEZEICHNUNG: Holzschleiferei
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1910
+  standort: "Lüßhof an der Mindel"
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 290-offingen/016
+ENTITÄT: betrieb
+BEZEICHNUNG: Superphosphat-Düngemittelfabrik Silbermann
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1928
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 290-offingen/017
+ENTITÄT: ereignis
+BEZEICHNUNG: Angriff auf Offingen
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 24.-25. April 1945
+  angreifer: Amerikaner
+  angriffsart: "Panzer und Infanterie"
+  zerstoerte_anwesen: 26
+  gefallene_deutsche_soldaten: 86
+  gefallene_zivile_offingen: 5
+  grund_verteidigung: "Linie entlang der Donau gegen Americaner"
+  infrastruktur_zerstoert: "Donaubrücken"
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/018
+ENTITÄT: ereignis
+BEZEICHNUNG: Aufnahme Heimatvertriebener (Nachkriegszeit)
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 1000
+  herkunftsregionen: "Sudetenland, Mähren, Schlesien"
+  einwohner_offingen_damals: 1800
+  folgen: "neue Erwerbszweige wie Handschuhproduktion"
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schnuttenbach
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "rechter Mindeltalhang östlich des Hauptortes Offingen"
+  urspruengliche_eigentümer: "Graf von Dillingen"
+  erste_schaenkung_kloester: Kloster Neresheim
+  erste_urkundliche_erwahnung: 1298
+  feuerstätten_1750: 18
+  besitzer_1750: 5
+  zugehörigkeit_1750: "Markgrafschaft Burgau (Vorderösterreich)"
+  einwohner_1860: 126
+  einwohner_1900: 142
+  einwohner_1950: "knapp 600"
+  grund_bevoelkerungswachstum_1950: "Heimatvertriebene und Barackenlager für Zwangsarbeiter des 3. Reichs"
+  eingemeindung_offingen: "30. April 1978"
+  grund_eingemeindung: "Gebietsreform in Bayern"
+  pfarrei: Gundremmingen
+GUELTIG_AB: 1298
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/020
+ENTITÄT: kirche
+BEZEICHNUNG: St. Ursula
+ORTSTEIL_BEZUG: Schnuttenbach
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 12.-13. Jahrhundert
+  superlativ: "ältester noch stehender Kirchenbau im Bereich Günzburg"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/021
+ENTITÄT: lager
+BEZEICHNUNG: Barackenlager Schnuttenbach (Zwangsarbeiterlager)
+ORTSTEIL_BEZUG: Schnuttenbach
+QUELLE: https://offingen.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet_durch: "Machthaber des 3. Reichs"
+  zweck_original: "Unterkunft für Zwangsarbeiter"
+  arbeitseinsatz: "Kunstdüngerfabrik (Flugzeugteile für Messerschmidt) und Landwirtschaft"
+  zweck_nachkrieg: "Sammellager für heimkehrende Fremdarbeiter, Kriegsgefangenenlager für SS-Angehörige, Unterkunft für Heimatvertriebene"
+  abbau_ab: 1954
+GUELTIG_BIS: 1954
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/022
+ENTITÄT: ort
+BEZEICHNUNG: Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten-2/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 4422
+  stand_einwohner: "31.12.2025"
+  fläche: 14.93
+  fläche_einheit: "km²"
+  postleitzahl: 89362
+  landkreis: Günzburg
+  landkreis_postleitzahl: 89312
+  regierungsbezirk: Schwaben
+  bundesland: Bayern
+  entfernung_stuttgart: "ca. 110 km"
+  entfernung_muenchen: "ca. 110 km"
+  entfernung_a7: "ca. 25 km"
+  entfernung_a8: "ca. 5-10 km"
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/023
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten-2/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Schild gespalten; vorne in Gold drei übereinander stehende schwarze Wolfsangeln, hinten unter weißem Schildhaupt in Blau drei 2:1 gestellte goldene Kugeln"
+  element_wolfsangeln: "aus Wappen der Freiherren vom Stain"
+  element_kugeln: "aus Wappen der Freiherren von Freyberg-Schütz-Eisenberg"
+  wolfsangeln_herkunft_jahr: 1518
+  kugeln_herkunft_jahr: 1659
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/024
+ENTITÄT: bahnhof
+BEZEICHNUNG: Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnstrecke: "Paris – Karlsruhe – Stuttgart – Ulm – Augsburg – München – Salzburg – Wien"
+  verbindungen_staendlich: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/025
+ENTITÄT: verwaltungseinheit
+BEZEICHNUNG: Verwaltungsgemeinschaft Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Offingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/026
+ENTITÄT: finanzinstitut
+BEZEICHNUNG: VR-Bank Donau Mindel
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Filiale
+  standort: Offingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/027
+ENTITÄT: finanzinstitut
+BEZEICHNUNG: Sparkasse Günzburg-Krumbach
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Filiale
+  standort: Offingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/028
+ENTITÄT: schule
+BEZEICHNUNG: Musikschule Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: "größte im Landkreis Günzburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/029
+ENTITÄT: schule
+BEZEICHNUNG: Grund- und Mittelschule Offingen
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreuung: "Mittags- und Hausaufgabenbetreuung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/030
+ENTITÄT: freizeitpark
+BEZEICHNUNG: LEGO Freizeitpark
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Günzburg
+  eroeffnung: "Mai 2002"
+  besucher_jaehrlich: 1300000
+  besucherherkunft: "Deutschland, Schweiz, Österreich, Italien, Niederlande"
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/031
+ENTITÄT: radweg
+BEZEICHNUNG: Donauradwanderweg
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: "Ulm – Regensburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/032
+ENTITÄT: radweg
+BEZEICHNUNG: Kulturradweg VIA DANUBIA
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "führt durch Offingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/033
+ENTITÄT: naturraum
+BEZEICHNUNG: Donauried
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "nördliches Ortsgebiet"
+  eigenschaft: "Naturraum von europäischem Rang"
+  auwald: "Donauauwald"
+  nutzung: "Badenutzung durch Seen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/034
+ENTITÄT: naturraum
+BEZEICHNUNG: Schleebachtal
+QUELLE: https://offingen.de/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "östliches Ortsgebiet"
+  nutzung: "Spazierwege"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/035
+ENTITÄT: pfarramt
+BEZEICHNUNG: St. Georg
+QUELLE: https://offingen.de/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: "Pfarrer-Miller-Straße 6, 89362 Offingen"
+  telefon: "08224 1809"
+  fax: "08224 1877"
+  website: "www.pfarrei-offingen.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/036
+ENTITÄT: pfarramt
+BEZEICHNUNG: St. Martin
+QUELLE: https://offingen.de/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  zustaendigkeit: Gundremmingen
+  adresse: "Pfarrer-Miller-Straße 6, 89362 Offingen"
+  telefon: "08224 1809"
+  fax: "08224 1877"
+  website: "www.pfarrei-gundremmingen.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/037
+ENTITÄT: pfarramt
+BEZEICHNUNG: Evangelisch-Lutherisches Pfarramt
+QUELLE: https://offingen.de/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  sitz: Günzburg
+  zustaendigkeit: Offingen
+  adresse: "Augsburger Straße 31, 89312 Günzburg"
+  telefon: "08224 6479"
+  fax: "08224 21808"
+  website: "www.guenzburg-evangelisch.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/038
+ENTITÄT: rathaus
+BEZEICHNUNG: Offingen
+QUELLE: https://offingen.de/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Marktstraße 19, 89362 Offingen"
+  funktion: "Sitz der Verwaltungsgemeinschaft Offingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/039
+ENTITÄT: kapelle
+BEZEICHNUNG: Barbara-Kapelle
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "bei Landstrost"
+  denkmalschutz: true
+  zerstoerung_30jaehriger_krieg: "bis auf Grundmauern"
+  wiederaufbau: 1680
+  aktuelles_bauwerk: "ca. 1900"
+  urspruengliche_funktion: "Andachtsstätte für Bewohner der Burg Landstrost"
+GUELTIG_AB: 1680
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/040
+ENTITÄT: brunnen
+BEZEICHNUNG: Steinbrunnen
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1902
+  grund_bau: "Loslösung von privaten Brunnen; hygienische Wasserversorgung"
+  originalbrunnentrog: "gußeiserner Brunnentrog des Günzburger Stadtbrunnens (bis 1951)"
+  neubau_jahr: 1951
+  neubau_initiator: "Dr. Helmut Offermann"
+  neubau_architekt: "Baurat Eduard Härtinger"
+  neubau_material_trog: Muschelkalk
+  neubau_material_säule: Holz
+  neubau_deko: "Blech-Fisch"
+  renovation_2002: true
+  renovation_material_säule: Granit
+  renovation_fisch: Bronze
+  renovation_sponsor: "Faschingsgesellschaft Offonia / Firma BWF"
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/041
+ENTITÄT: naturraum
+BEZEICHNUNG: Donautal / Donau-Auwald
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: "europaweit bedeutsame Biotopverbundachse"
+  ausdehnung: "Schwarzwald bis Schwarzes Meer"
+  charakter: "eschenreicher Auwald"
+  flora: "Bärlauch, Bergdisteln, Buschwindröschen, Märzenbecher"
+  steilhanghöhe: "bis 60 Meter"
+  fauna_highlight: "blauschimmernder Eisvogel"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/042
+ENTITÄT: kirche
+BEZEICHNUNG: Versöhnerkirche (Evangelische Kirche)
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  erbaut: 1965
+  adresse: Lüßhofstraße
+  standort_vorher: "Friedhof St. Wendelin"
+  grund_neubau: "Industrialisierung und Zuzug evangelischer Christen, besonders nach Zweitem Weltkrieg"
+  eroeffnung_gottesdienste: "1945 unter Pfarrer Georg Kuhn"
+  gottesdienste_orte_anfang: "Schule, Kameradschaftshaus, St. Leonhardskapelle"
+  gottesdienste_frequenz: "alle 14 Tage"
+  betreuung_durch: "Pfarramt Günzburg"
+  evangelische_christen_nachkrieg: 200
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/043
+ENTITÄT: kapelle
+BEZEICHNUNG: Feldkapelle
+ORTSTEIL_BEZUG: Schnuttenbach
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 2003
+  erbauung_art: "ehrenamtliches Engagement der Bürgerschaft"
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/044
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Freybergeiche
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Donau-Auwald bei Neuoffingen"
+  alter: 250
+  alter_einheit: Jahre
+  hoehe: 30
+  hoehe_einheit: Meter
+  stammdurchmesser: 1.5
+  stammdurchmesser_einheit: m
+  umfang_aeste: 3.5
+  umfang_aeste_einheit: m
+  umfang_aeste_detail: "12 Hauptäste"
+  todesursache: "wechselnde Grundwasserstände und Trockenphasen"
+  abgestorben: "August 2003"
+  ueberreste_nutzung: "Grünfläche an der Steigstraße"
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/045
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  erbaut: 1615
+  erweiterung: 1922
+  umgebung: "Schlosswiesen, Grünzug"
+GUELTIG_AB: 1615
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/046
+ENTITÄT: schloss
+BEZEICHNUNG: Offinger Schloss (Pfarrschloss)
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1748
+  urspruengliche_funktion: "Gerichtsgebäude und Wohnstätte der Ortsherrschaft von Freyberg"
+  heutige_nutzung: "Pfarrerwohnung und Pfarreiverwaltung"
+  besitzer: "Katholische Kirchenstiftung"
+GUELTIG_AB: 1748
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/047
+ENTITÄT: gebaeude
+BEZEICHNUNG: Klaiberhaus
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1844
+  gruender: "Gastwirt Anton Klaiber"
+  originalfunktion: Wohngebäude
+  baustil: "schwäbischer Baustil (einziges solch erhaltenes Offinger Anwesen)"
+  renovierung: 2002
+  erdgeschoss: "Sportschießanlage und Schützenstube"
+  erstes_stock: "Gemeindesaal (100 Personen) und Heimatstube"
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 290-offingen/048
+ENTITÄT: denkmal
+BEZEICHNUNG: Milchbäuerin
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 2003
+  lage: "Westseite Hauptstraße (seit Sommer 2003)"
+  bedeutung: "erinnert an landwirtschaftliche Prägung mit über 90 Milchlieferanten"
+  gegenwart: "heute 1 milchproduzierender Betrieb"
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/049
+ENTITÄT: park
+BEZEICHNUNG: Sinnespark
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Umfeld Seniorenwohnanlage"
+  ausstattung: "Kneippanlage, Barfußpfad, Summstein"
+  summstein_effekt: "ganzer Körper vibriert"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 290-offingen/050
+ENTITÄT: freizeitanlage
+BEZEICHNUNG: Skaterplatz
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 2008
+  lage: "neben Sportgelände im Bogen"
+  zielgruppe: Jugendliche
+  beliebtheit: "sehr gut angenommen"
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 290-offingen/051
+ENTITÄT: kapelle
+BEZEICHNUNG: Ursulakapelle
+ORTSTEIL_BEZUG: Schnuttenbach
+QUELLE: https://offingen.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 12.-13. Jahrhundert
+  baustil: frühgotisch
+  superlativ: "ältester noch stehender Kirchenbau im Altlandkreis Günzburg"
+  problem_1970er: "zu klein, Platzmangel"
+  neubau_anbau: 1977
+  neubau_veranlassung: "Pfarrer Harlacher (1970)"
+  gottesdienste_heute: "im Anbau"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

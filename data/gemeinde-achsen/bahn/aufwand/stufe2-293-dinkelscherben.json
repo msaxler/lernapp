@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "293-dinkelscherben",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 21486,
+ "token_ein": 527860,
+ "token_aus": 15708,
+ "usage": {
+  "input_tokens": 22,
+  "cache_creation_input_tokens": 60501,
+  "cache_read_input_tokens": 467337,
+  "output_tokens": 15708,
+  "output_tokens_details": {
+   "thinking_tokens": 7220
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 60501,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 7117,
+    "cache_read_input_tokens": 64906,
+    "cache_creation_input_tokens": 2497,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 2497
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.7535914000000001,
+ "sekunden": 245,
+ "fehler": false,
+ "zeit": "2026-10-13T23:47:50"
+}

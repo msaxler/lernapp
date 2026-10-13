@@ -1,0 +1,851 @@
+ENTITÄT: ort
+BEZEICHNUNG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1225
+  namensherkunft: mittelhochdeutsch „dorneconstat" (dornige Stätte)
+  settlement_periode: mehrere Jahrhunderte vor 1225
+  reformation_durchsetzung: nicht erfolgreich
+  pfarrei_erhebung: 1674
+  vormalige_kirchliche_zustaendigkeit: Pfarrei Tomerdingen (Filiale)
+  herrschaft_benediktinerabtei_elchingen: mehrere Jahrhunderte bis 1803
+  staatliche_zugehoerigkeit_1803: Kurfürstentum Bayern
+  staatliche_zugehoerigkeit_1810: Königreich Württemberg
+  gemeindereform_jahr: 1975
+  gemeindereform_komponenten: Zusammenschluss mit Bollingen, Bollingen/Böttingen, Scharenstetten, Temmenhausen, Tomerdingen
+  einwohner: 8600
+  lage_kreis: Alb-Donau-Kreis
+  verwaltungsgemeinschaft: Vereinbarte Verwaltungsgemeinschaft mit Beimerstetten und Westerstetten
+  entfernung_stuttgart: ca. 1 Stunde
+  entfernung_augsburg: ca. 1 Stunde
+  entfernung_ulm: 10 Minuten (Bundesstraße 10)
+  gemeindeflaeche: 5916 ha
+  landwirtschaftliche_flaeche: 3660 ha
+  waldfläche: 1540 ha
+  auszeichnung_fairtrade_town: true
+  auszeichnung_bne_dekade_kommune_unesco: true
+GUELTIG_AB: 1225
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Dornstadt
+ORTSTEIL_BEZUG: Dornstadt (Hauptort)
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/gemeinde-dornstadt/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe_ueber_meeresspiegel: 590 m
+  einwohner_stand_2022: 9195
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bollingen
+ORTSTEIL_BEZUG: Bollingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/bollingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_nachweise_seit: 12. Jahrhundert
+  historische_herrschaft_helfensteiner: true
+  historische_herrschaft_ulmer_augustinerchorherrenstift_st_michael: true
+  niederes_gericht_jahr: 1487
+  niederes_gericht_verleihung_durch: Kaiser Friedrich III.
+  staatliche_zugehoerigkeit_1806: Bayern
+  staatliche_zugehoerigkeit_1810: Württemberg
+  kirche_stephanus_baujahr: 1853
+  kirche_stephanus_vorgaenger: Deutschordenskirche
+  kirche_stephanus_renovierung: 1950er Jahre
+  schulrathaus_baujahr: 1911
+  mehrzweckhalle_baujahr: 1980er Jahre
+  schneckengaerten_historische_besonderheit: true
+  schneckengaerten_export_menge_1855: über 100000
+  schneckengaerten_export_ziele: Wien, Paris, Nancy
+  schneckengaerten_verwendung: Leckerbissen während Fastenzeit
+  neubaugebiete_entwicklung: 1960er Jahre bis heute
+  kindergarten_baujahr: 1970/71
+  leichenhalle_baujahr: 1970/71
+  friedhof_erweiterung: 1970/71
+  einwohner: 1111
+  hoehe_ueber_meeresspiegel: 611 m
+GUELTIG_AB: 12
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: weiler
+BEZEICHNUNG: Böttingen
+ORTSTEIL_BEZUG: Bollingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/bollingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchliche_zustaendigkeit_bis: 1825
+  kirchliche_zustaendigkeit: Tomerdingen
+  verwaltungszustaendigkeit: Deutschordensamt Bollingen
+  grundherrschaft_deutscher_orden: true
+  grundherrschaft_kaplanei_klingenstein: true
+  grundherrschaft_kloster_klarissen_soeflingen: true
+  kapelle_privatkapelle_kunstwerk: Flachschnitzwerk Ulmer Schule 1627
+  einwohner: 53
+  hoehe_ueber_meeresspiegel: 604 m
+GUELTIG_BIS: 1825
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephanus
+ORTSTEIL_BEZUG: Bollingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/bollingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heiliger_patron: hl. Märtyrer Stephanus
+  baujahr: 1853
+  vorgaenger: Deutschordenskirche
+  renovierung_periode: 1950er Jahre
+  renovierungsart: gründlich
+GUELTIG_AB: 1853
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Tomerdingen
+ORTSTEIL_BEZUG: Tomerdingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_erwaehnung: 1225
+  urkundliche_erwaehnung_quelle: Papst Honorius III.
+  historische_funktion: Marktflecken
+  jungsteinzeit_fundstuecke: true
+  keltische_viereckschanze: true
+  roemischer_gutshof: true
+  hugelgraeber_hallstattzeit: true
+  namensherkunft: alamannischer Anführer Thomar, Endung ingen (alte Gerichtsstätte)
+  namensherkunft_genauigkeit: vermutlich
+  teilung_um_540: Herrenhof der Alamannen (Unterdorf mit Marienkirche), Herrenhof der Franken (Oberdorf mit St. Martin)
+  st_martin_zerstoerung_ungarn: vor 926
+  st_martin_wiederaufbau_glockenturm: 940
+  papst_calixt_ii_bestaetigung_abtei_elchingen: 1122/23
+  abtei_elchingen_gruender: Graf Adelbert von Ravenstein und Gemahlin Berta
+  pfarreien_ab_1335: zwei Pfarreien (Martinspfarrei Klein-Tomerdingen, Liebfrauenpfarrei Groß-Tomerdingen)
+  liebfrauenpfarrei_zugehoerigkeit_bis: 1693
+  liebfrauenpfarrei_zugehoerigkeit: Ulmer Deutschordenskommende
+  buergermeister_anzahl: zwei
+  reformator_bonifax_stoelzlin_niedergeschrien: 1634
+  reformation_erfolg: keinen Anklang
+  tomerdinger_weiber_dank: rechte Bänke in Martinskirche
+  pfarrstelle_verlegung_nach_dornstadt: 1674
+  josef_wannenmacher_geburtsjahr: 1722
+  josef_wannenmacher_berufe: Barockmaler, Kirchenmaler
+  josef_wannenmacher_werke: Bilder in Tomerdingen, Scharenstetten, Elchingen, St. Gallen, Rottweil
+  staatliche_zugehoerigkeit_1803: Bayern
+  staatliche_zugehoerigkeit_1819: Württemberg
+  marienkirche_ersatz: 1843
+  marienkirche_vorgaenger: Deutschordenskirche
+  feuerwehr_gruendung: 1866
+  feuerwehr_besonderheit: eine der ersten mit neuer Fahrzeugspritze
+  brandeigenschaft_geschichtlich: Brandschatzungen und Kriegswirren häufig
+  einaescherung_periode: 1209/1246
+  grossbrand: 1876
+  grossbrand_gebaeude: 26 Gebäude
+  gemeindereform_jahr: 1975
+  gemeindereform_action: Eingliederung in Gemeinde Dornstadt
+  volksschule_neubau: 1953
+  volksschule_sanierung: 2001
+  friedhof_und_leichenhalle: neue Anlage nach Gemeindereform 1975
+  einwohner: ca. 1700
+  hoehe_ueber_meeresspiegel: 625 m
+GUELTIG_AB: 1225
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martinskirche
+ORTSTEIL_BEZUG: Tomerdingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heiliger_patron: hl. Martin
+  herrenhof_zerstoerung_ungarn: vor 926
+  glockenturm_wiederaufbau: 940
+  superlativ: eine der ältesten ländlichen Kirchen in Süddeutschland
+  kirchenglocke_baujahr: 12. Jahrhundert
+  kirchenglocke_superlativ: älteste Glocke des Landes
+  kirchenbesitz_jahr: 1848
+  kirchenbesitz_eigentum: Gemeinde
+  urkundliche_erwaehnung: 1125
+  urkundliche_erwaehnung_quelle: Papst Honorius III. als „capellam Sti martini"
+GUELTIG_AB: 940
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Marienkirche
+ORTSTEIL_BEZUG: Tomerdingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrenhof_zugehoerigkeit: Herrenhof der Alamannen (Unterdorf)
+  neubau_ersatz: 1843
+  vorgaenger: Deutschordenskirche
+GUELTIG_BIS: 1843
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: abtei
+BEZEICHNUNG: Elchingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  orden: Benediktinerabtei
+  gruender: Graf Adelbert von Ravenstein
+  gruenderin: Gemahlin Berta (Enkelin von Kaiser Heinrich IV.)
+  bestaetigung_papst_calixt_ii: 1122/23
+  besitztum_tomerdingen: bestaetigt 1122/23
+  besitztum_bereiche: Tomerdingen, Bermaringen
+  verbindung_tomerdingen: über Jahrhunderte eng verbunden
+  aufhebung: 1803
+GUELTIG_AB: 1122
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Temmenhausen
+ORTSTEIL_BEZUG: Temmenhausen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/temmenhausen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_erwaehnung: 1225
+  urkundliche_erwaehnung_als: Timenhusen
+  urkundliche_erwaehnung_quelle: Papst Honorius III.
+  urkundliche_erwaehnung_inhalt: Ort mit Gütern der Abtei Elchingen
+  historische_herrschaft_helfensteiner: Mehrheitlich bis wechsel
+  historische_herrschaft_geistliche_weltliche_herren: true
+  reichsstadt_ulm_uebernahme: um 1500
+  reichsstadt_ulm_dauer: drei Jahrhunderte
+  reformation_anschluss: 16. Jahrhundert
+  kirchliche_verbindung_vor_reformation: Tomerdingen
+  kirchliche_verbindung_nach_reformation: Bermaringen
+  staatliche_zugehoerigkeit_1803: Bayern (mit Reichsstadt Ulm)
+  staatliche_zugehoerigkeit_1810: Württemberg
+  zehnten_abloesung: 19. Jahrhundert (wichtigstes Ereignis)
+  nikolauskapelle_erwaehnung: 1324
+  nikolauskaplanei_stiftung: 1436
+  nikolauskaplanei_stiftung_akteur: Bürgerschaft von Tymenhausen
+  kirche_gotischer_taufstein_mit_dreipasszier: 1598
+  kirche_altar: hochbarocker Altar im Chor
+  kirche_renovierung: 1955
+  kirche_renovierung_inhalte: Decke, Kanzel, Orgel (wertvolle Hölzer erhalten), Apostelkreuze und gotische Bemalungen freigelegt
+  schulhaus_baujahr: 1955
+  schulhaus_lage: am Berg
+  gemeindeverwaltung_einzug: 1973
+  buergerhaus_baujahr: Mitte 1990er Jahre
+  buergerhaus_ausstattung: Versammlungsräume, Kindergarten
+  einwohner: ca. 640
+  hoehe_ueber_meeresspiegel: 640 m
+GUELTIG_AB: 1225
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Nikolauskirche
+ORTSTEIL_BEZUG: Temmenhausen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/temmenhausen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heiliger_patron: hl. Nikolaus
+  kapelle_erwaehnung: 1324
+  kaplanei_stiftung: 1436
+  kaplanei_name: Zum hl. Nikolaus
+  baugeschichte: aus alter Kapelle durch Anbau von Turm und Langhaus entstanden
+  taufstein_stil: gotisch
+  taufstein_zier: Dreipasszier
+  taufstein_baujahr: 1598
+  altar_stil: hochbarock
+  altar_lage: Chor
+  renovierung: 1955
+GUELTIG_AB: 1324
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Scharenstetten
+ORTSTEIL_BEZUG: Scharenstetten
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/scharenstetten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_erwaehnung: 1260
+  urkundliche_erwaehnung_quelle: Reichsschenk Walther vom Limpurg
+  urkundliche_erwaehnung_titel: Urkunde
+  besiedlung_bronzezeit: true
+  namensherkunft: Name Scaro (vermutlicher Gründer)
+  ortsadel: Herren von Scharenstetten
+  ortsadel_dienste: im Dienste der Grafen von Helfenstein
+  ortswappen_herkunft: Wappen der Herren von Scharenstetten (drei übereinander liegende Steinbockshörner)
+  herren_von_scharenstetten_abgang: vermutlich 1396
+  abgang_grund: Helfensteiner verkaufen an Reichsstadt Ulm zur Schuldentilgung
+  ulmer_herrschaft_dauer: bis 1803
+  ulmer_herrschaft_verwaltung: Ulmer Ratsherren, Amtmann im Amtshaus
+  kriegsnöte_17_jahrhundert: true
+  brand_1688: ganzes Dorf bis auf fünf Firste
+  brand_1688_quelle: Franzosen
+  staatliche_zugehoerigkeit_1803_1810: Bayern
+  staatliche_zugehoerigkeit_ab_1810: Württemberg
+  wasserleitung_von_lautern_baujahr: 1874
+  feuer_1870: grossteil Dorf verwüstet
+  kirche_laurentius_turmbaujahr: 11. Jahrhundert
+  kirche_laurentius_turmausstattung: gekuppelte doppelbogige Schallfenstern
+  kirche_laurentius_kirchenschiff_baujahr: ca. 200 Jahre vor 1958 (ca. 1758)
+  kirche_laurentius_renovierung: 1958
+  kirche_laurentius_renovierung_funde: Bilder aus 14. Jahrhundert freigelegt
+  kirche_kunstwerk_apostelbilder: 1767
+  kirche_kunstwerk_apostelbilder_kuenstler: Josef Wannenmacher (Barockmaler Tomerdingen)
+  altar_spitzwerk_baujahr: um 1450
+  altar_spitzwerk_kuenstler_schule: Hans Multscher
+  altar_spitzwerk_herkunft: seit Bildersturm in Ulmer Magazin gelagert
+  altar_spitzwerk_bedeutung: wichtigste intakt erhaltene Werk aus Multscher-Schule
+  einwohner: 802
+  hoehe_ueber_meeresspiegel: 707 m
+GUELTIG_AB: 1260
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Laurentiuskirche
+ORTSTEIL_BEZUG: Scharenstetten
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/scharenstetten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heiliger_patron: hl. Laurentius
+  turm_baujahr: 11. Jahrhundert
+  turm_ausstattung: gekuppelte doppelbogige Schallfenstern
+  kirchenschiff_baujahr: ca. 200 Jahre vor 1958
+  renovierung: 1958
+  renovierung_funde: Bilder aus 14. Jahrhundert
+  apostelbilder_baujahr: 1767
+  apostelbilder_kuenstler: Josef Wannenmacher
+  fluegelabtar_baujahr: um 1450
+  fluegelabtar_kuenstler_schule: Hans Multscher
+  fluegelabtar_beschaffenheit: wichtigste intakt erhaltene Werk aus Multscher-Schule
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Ulrichskirche
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_kirche_dornstadt_vermutet: um 1200
+  erste_kirche_dornstadt_typ: vermutet
+  neubau_baujahre: 1885-1887
+  baustil: neugotisch
+  material: Backsteinbau
+  heiliger_patron: hl. Bischof Ulrich
+  neubau_nochmal: 1967
+  neubau_grund: Backsteinbau musste Platz machen
+  heiliger_patron_neu: hl. Bischof Ulrich
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: kaserne
+BEZEICHNUNG: Rommelkaserne
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/gemeinde-dornstadt/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr_anfang: Anfang 1960er Jahre
+  baujahr_erste_soldaten: 1962
+  bauort: Lerchenfeld
+  benennung: 1965 (drei Jahre nach Erstsoldaten)
+  benennung_nach: Rommel
+  urspruengliche_verband_panzerbataillon_303: true
+  urspruengliche_verband_nachschubbataillon_210: true
+  panzerregiment_200_gruendung: 1971
+  panzerregiment_200_umwandlung_panzerbrigade_28: 1975
+  soldaten_anzahl_maximal: mehr als 2000
+  panzerbrigade_28_aufloesung: 1993
+  instandsetzungsregiment_21_einzug: Mitte 1993
+  instandsetzungsregiment_21_umwandlung_logistikregiment_21: 1996
+  logistikregiment_47_sitz: seit 2002
+  stationierte_einheiten: Logistikbataillon 471, Kraftfahrausbildungszentrum Dornstadt, Logistische Steuerstelle 6, 3. und 4. Kompanie des Lazarettregimentes 41
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schulzentrum
+BEZEICHNUNG: Bühl-Schulzentrum
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1969
+  ausstattung_initial: Turnhalle
+  erweiterung_1974: Förderschulgebäude
+  erweiterung_1981: Realschule
+  schulen_untergebracht: Grundschule, Förderschule, Hauptschule mit Werkalschule, Realschule
+  schueler_anzahl: knapp 900
+  hauptschule_umwandlung: 2010/11 zu Werkalschule
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Ulrichsschule
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr_initial: vor Ersten Weltkrieg
+  erweiterung: 1951
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Hauptschule Dornstadt
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1967
+  umwandlung_werkalschule: 2010/11
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Realschule Dornstadt
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1970
+  neubau_erweiterte_schulzentrum: 1981
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BESCHREIBUNG: Förderschule
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1971
+  neubau_schulzentrum: 1974
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: sportstaette
+BEZEICHNUNG: Stadion
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1971
+  lage: westlich der Bühl-Schulen
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportstaette
+BEZEICHNUNG: Hallenbad
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1977/78
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportstaette
+BEZEICHNUNG: Sporthalle
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1992
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Kultur- und Sporttreff
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1995
+  ausstattung: repräsentativer Bürgersaal, Veranstaltungshallen
+  nutzung: beliebter Ort für Veranstaltungen aller Art, nahezu ganz Jahr ausgebucht
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: altersheim
+BEZEICHNUNG: Betreuungs- und Pflegezentrum
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_als_altersheim: 1951
+  gruendung_fläche: ehemaliger Wehrmachtsflugplatz
+  gruendung_traeger: Landesverband der Inneren Mission
+  zweck: Altersheim für Emigranten aus osteuropäischen Ländern
+  expansion_1980er_jahre: wesentliche Erweiterung und Ausbau
+  traeger_heute: Evangelische Heimstiftung
+  plätze_maximum: bis zu 580
+  fokus_heute: Pflege und Gerontopsychiatrie
+  ausbildungsstaetten: Altenpflegeschule, Schule für Heilerziehungspflege, Diakonisches Institut für Soziale Berufe
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Josef Wannenmacher
+ORTSTEIL_BEZUG: Tomerdingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1722
+  herkunft: Tomerdingen
+  beruf: Barockmaler
+  beruf_zusatz: Kirchenmaler
+  werke_orte: Tomerdingen, Scharenstetten, Elchingen, St. Gallen, Rottweil
+  kunstwerke_laurentiuskirche_scharenstetten: Apostelbilder 1767
+  renommee: berühmtester Sohn Tomerdingens
+GUELTIG_AB: 1722
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Berta, Gräfin von Ravenstein
+ORTSTEIL_BEZUG: Tomerdingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verwandtschaft: Enkelin von Kaiser Heinrich IV.
+  ehemann_erstens: Graf Adelbert von Ravenstein (Gründer Benediktinerabtei Elchingen)
+  ehemann_zweitens: Graf Heinrich
+  abtei_elchingen_gruenderschaft: gemeinsam mit Adelbert
+  grosszuegigkeit: Wohltäterin der Tomerdinger und Bermaringer Bürgerschaft
+  stift_boll_gruendung: nach Tod von Heinrich
+GUELTIG_AB: 1122
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Max Hilscher
+ORTSTEIL_BEZUG: Tomerdingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Gruendung erster größerer Gewerbebetrieb
+  zeitraum: nach Zweitem Weltkrieg
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reformation Tomerdingen Dornstadt Bollingen Westerstetten
+ORTSTEIL_BEZUG: Tomerdingen, Dornstadt, Bollingen, Westerstetten
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1634
+  verlauf: Reformator Bonifax Stölzlin von Tomerdinger Weibern niedergeschrien
+  erfolg: keinen Anklang
+  konsequenz: Reformation fand in Tomerdingen, Dornstadt, Bollingen und Westerstetten keinen Anklang
+  dank_privileg: Tomerdinger Weiber durften in Martinskirche rechte Bänke belegen
+GUELTIG_AB: 1634
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Brand Scharenstetten
+ORTSTEIL_BEZUG: Scharenstetten
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/scharenstetten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1688
+  ausmass: ganzes Dorf bis auf fünf Firste
+  ursache: Franzosen
+GUELTIG_AB: 1688
+GUELTIG_BIS: 1688
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Grossbrand Scharenstetten
+ORTSTEIL_BEZUG: Scharenstetten
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/scharenstetten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1870
+  ausmass: Großteil Dorf verwüstet
+GUELTIG_AB: 1870
+GUELTIG_BIS: 1870
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BESCHREIBUNG: Grossbrand Tomerdingen
+ORTSTEIL_BEZUG: Tomerdingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1876
+  gebaeude: 26 Gebäude
+GUELTIG_AB: 1876
+GUELTIG_BIS: 1876
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Einaescherung Tomerdingen
+ORTSTEIL_BEZUG: Tomerdingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/tomerdingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1209-1246
+GUELTIG_AB: 1209
+GUELTIG_BIS: 1246
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Peter-und-Paul-Kapelle
+ORTSTEIL_BEZUG: Böttingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/ortsteile/bollingen-boettingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruengliches_baujahr: 15. Jahrhundert
+  kirchenpatrone: Peter und Paul
+  altar_baujahr: 1627
+  altar_stil: Renaissance
+  apostelbildes_baujahr: 1723
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Marienkapelle
+ORTSTEIL_BEZUG: Böttingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/ortsteile/bollingen-boettingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1877
+  standort: privates Hofgelände
+  relief_marientod_baujahr: vermutlich um 1510
+  relief_marientod_beschaffenheit: auf dem Altar
+GUELTIG_AB: 1877
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Kiesental
+ORTSTEIL_BEZUG: Bollingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/ortsteile/bollingen-boettingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausweisung: Landschaftsschutzgebiet
+  charakteristika: Wacholderheiden, Laub- und Nadelbäume
+  naherholungsgebiet_bedeutung: lokal und regional
+  aktivitaeten: Spaziergang, Nordic Walking, Radfahren
+  nordic_walking_strecken: drei zertifizierte Strecken des Deutschen Skiverbands
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: archiv
+BEZEICHNUNG: Gemeindearchiv Dornstadt
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/geschichte/gemeindearchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abdeckung_ortsteile: Dornstadt, Bollingen, Scharenstetten, Temmenhausen, Tomerdingen
+  aufgabe: Unterlagen, Dokumente und Medien mit Bezug zur Gemeinde dauerhaft sichern und der Öffentlichkeit zugänglich machen
+  bestandsverzeichnung_periode: circa 2001-2005
+  bestandsverzeichnung_bis: circa Gemeindereform 31.12.1974
+  verzeichnung_durch: ehemaliger Archivar
+  kooperation: Stadtarchiv Blaustein, Stadtarchiv Laichingen
+  kooperation_betreuung: gemeinsame Archivarin
+  zugang: Terminvereinbarung notwendig
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Ulrichskirche
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/leben-wohnen/glaube/katholische-kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kaplanei_typ: Katholische Kirchengemeinde St. Ulrich
+  seelsorgeeinheit_partner: St. Stephanus (Bollingen), Mariä Himmelfahrt (Tomerdingen)
+  filialgemeinden: Beimerstetten, Bernstadt, Hörvelsingen, Scharenstetten, Temmenhausen
+  pfarrer: Ralf Weber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Mariä Himmelfahrt
+ORTSTEIL_BEZUG: Tomerdingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/leben-wohnen/glaube/katholische-kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kaplanei_typ: Katholische Kirchengemeinde
+  seelsorgeeinheit_partner: St. Ulrich (Dornstadt), St. Stephanus (Bollingen)
+  pfarrer: Ralf Weber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Markushaus
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/leben-wohnen/glaube/evangelische-kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kaplanei_typ: Evangelische Kirchengemeinde Dornstadt
+  gottesdienst_tag: Sonntag
+  gottesdienst_zeit: 10:00 Uhr
+  kinderkirche_rhythmus: sonntags vierzehntägig
+  kinderkirche_zeit: 10:00 Uhr
+  pfarrer: Dieter Ebert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bollingen
+ORTSTEIL_BEZUG: Bollingen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/ortsteile/bollingen-boettingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_2002: überschreitet Tausend
+  einwohner_aktuell: 1111
+  flaeche_hektar: 732 (gemeinsam mit Böttingen)
+  hoehe_ueber_meeresspiegel: 611 m
+  geschichte_entwicklung: kontinuierlich angewachsen in letzten Jahrzehnten
+  wohnort_charakterisierung: attraktiv für Beschäftigte im wissenschaftlichen Bereich (Nähe Ulm)
+  vorteil_kombination: stadtnahes Wohnen mit ländlich gepräg Dorf
+  infrastruktur_kindergarten: zwei Kindergärten
+  infrastruktur_grundschule: Außenstelle Bühl-Grundschule (Klassen 1 und 2)
+  infrastruktur_mehrzweckhalle: true
+  dorfladen_eroeffnung: 2002
+  dorfladen_lage: Alte Molke
+  aktivitaeten_kirchengemeinde: vielfältig
+  aktivitaeten_vereine: aktiv
+  aktivitaeten_jugendtreff: vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Scharenstetten
+ORTSTEIL_BEZUG: Scharenstetten
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/ortsteile/scharenstetten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_albhochflaeche: Kuppenalb
+  einwohner: 802
+  gemarkungsflaeche_hektar: 1094
+  hoehe_maximal: 707 m
+  wasserturm_hoehe: 28 m
+  kirchturm_hoehe: 23 m
+  wahrzeichen: Wasserturm und Kirchturm
+  charakterisierung_idyllisch: true
+  charakterisierung_natuerlich: true
+  charakterisierung_liebenswert: true
+  kindergarten_gemeindeigene: true
+  kindergarten_altersgruppen: auch für Kinder ab ersten Lebensjahr
+  grundschule_lage: 3 km Nachbarort Temmenhausen
+  grundschule_beförderung: öffentlicher Nahverkehr
+  vereinsleben_stellenwert: sehr groß
+  jugendarbeit: sehr gut
+  wirtschaft_struktur: Landwirtschaft, Handwerk, Handel, Dienstleister, Lebensmittelgeschäft, Getränkehandel, Hofladen, zwei Gaststätten, Ortsverwaltung, Arztsprechstunden
+  entfernung_autobahn_a8: 8 km
+  entfernung_bundesstrasse_b10: 3 km
+  lage_wirtschaftsregion: florierend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Temmenhausen
+ORTSTEIL_BEZUG: Temmenhausen
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/ortsteile/temmenhausen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_range: ca. 640
+  charakterisierung: bevölkerungsmäßig kleinster Dornstadter Teilort
+  dorfleben_charakterisierung: ländlich und aktiv
+  vereinsleben: Freiwillige Feuerwehr, Gemischter Chor, Landfrauen, Schwäbischer Albverein
+  jaehrliche_ereignisse: Gartenfest, Nikolaustag Dorftreffen, Adventszeit Adventsfenster
+  feiertag_charakterisierung: Hl. Abend Glühwein und Schmalzbrote der Feuerwehr, Chorsingen auf Dorfplatz
+  wanderweg_ferner: Fränkisch-Schwäbischer Jakobsweg führt durchs Dorf
+  herberge_pilger_1: Gasthof am Berg (mit Hotel, Restaurant, Pilgerwein)
+  herberge_pilger_2: Krone (Dorfplatz, Wildgerichte)
+  kindergarten: evangelischer Kindergarten (ab 2 3/4 Jahren)
+  spielkreis: vorhanden (im Bürgerhaus)
+  grundschule_nahe: benachbart
+  bürgerhaus_funktion: zentral für Dorfleben
+  bürgerhaus_ausstattung: Sportunterricht, Vereinszimmer, Familienfeste
+  arbeitsplätze_nah: nördlich Ulm schnell erreichbar
+  internet_dsl: maximal 50 Mbit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dornstadt
+ORTSTEIL_BEZUG: Dornstadt
+QUELLE: https://www.dornstadt.de/unsere-gemeinde/ortsteile/dornstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Hauptort der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

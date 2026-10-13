@@ -1,0 +1,591 @@
+ID: 288-elchingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Elchingen
+QUELLE: https://www.elchingen.de/index.php?id=156 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Neu-Ulm
+  regierungsbezirk: Schwaben
+  bundesland: Bayern
+  lage_geografisch: an der Donau, rund 7 km östlich von Ulm/Neu-Ulm, an Grenze zu Baden-Württemberg
+  koordinaten: 48° 27' N, 10° 6' O
+  postleitzahl: 89275
+  flaeche: 2489.7302 ha
+  einwohnerzahl: 9768
+  einwohnerzahl_stand: 31.12.2025
+  gemeindeteile: Thalfingen, Oberelchingen, Unterelchingen
+  sitz_gemeindeverwaltung: Thalfingen
+  namensherkunft: vermutlich Siedlung eines Stammesführers namens Alicho im frühen 12. Jahrhundert
+  genauigkeit_namensherkunft: vermutlich
+  wappen: keine
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 288-elchingen/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Thalfingen
+QUELLE: https://www.elchingen.de/index.php?id=156 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 472 m ü. M.
+  hoehe_bahnhof: 464.938 m ü. NN
+  hoehe_kirche: 473.043 m ü. NN
+  hoehe_albhochflaeche: 570 m ü. M.
+  flaeche: 883 ha
+  einwohnerzahl: 3374
+  lage: zwischen Donau und Südhang der Schwäbischen Alb
+  vorwahl: 0731
+  ortsnetz: Neu-Ulm
+  erste_urkundliche_erwaehnung: 1225
+  bahnhof_eroeffnet: 1875
+  bahnstrecke: Aalen-Ulm
+GUELTIG_AB: 1225
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberelchingen
+QUELLE: https://www.elchingen.de/index.php?id=156 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 530 m ü. M.
+  hoehe_klostersteige: 462.558 m ü. NN
+  hoehe_kirche: 530.771 m ü. NN
+  flaeche: 731 ha
+  einwohnerzahl: 3024
+  lage: zwischen Donau und Südhang der Schwäbischen Alb
+  ursprung: entstanden durch Benediktinerkloster Elchingen
+  vorgaenger: Burg an Stelle des Klosters
+  vorwahl: 07308
+  ortsnetz: Nersingen
+  bahnhaltestelle_seit: 1900
+  autobahnanschluss_seit: 1954
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unterelchingen
+QUELLE: https://www.elchingen.de/index.php?id=42 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 462 m ü. M.
+  hoehe_kirche: 473.818 m ü. NN
+  flaeche: 876 ha
+  einwohnerzahl: 2863
+  lage: südlich, historisch mit Ulm verbunden
+  urspruenglicher_name: Elchingen
+  vorwahl: 07308
+  ortsnetz: Nersingen
+  bahnhof_seit: 1875
+  klosterbesitz_initial: um 800, Kloster Reichenau (mit Ulm)
+  verkaeufer_1294: Konrad von Plochingen
+  kaeufer_1294: Zisterzienserkloster Salem
+  klosterbesitz_bis: 1802
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/005
+ENTITÄT: kloster
+BEZEICHNUNG: Benediktinerkloster Elchingen (Oberelchingen)
+ORTSTEIL_BEZUG: Oberelchingen
+QUELLE: https://www.elchingen.de/index.php?id=42&Detail=46 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  orden: Benediktiner
+  stiftung: nach 1100
+  gründung_datierung: Anfang 12. Jahrhundert
+  urspruengliche_lage: an der Donau
+  verlagerung_in_burg: um 1140
+  vorgaenger_bauwerk: Burg
+  namensherkunft: von benachbartem Ort Unterelchingen (der lange Zeit nur Elchingen hieß)
+  zerstoerungen: 1546, Dreißigjähriger Krieg
+  klostergebaeude_erneuert: zuletzt um Wende 17./18. Jahrhundert
+  klosterkirche: St. Peter und Paul
+  kirchenkern_baustil: romanisch
+  kirchenkern_errichtet: 1146
+  moenchschor_ausgestattet: 1774, Spätrokoko
+  langhaus_ausgestattet: 1782-1785, klassizistisch
+  kuenstler_gemälde: Januarius Zick (Trierer Hofmaler)
+  pfarrkirche_seit: 1804
+  wallfahrtsziel: Gnadenbild der schmerzhaften Mutter Gottes
+  wallfahrtsziel_seit: Jahrhunderte
+  besetzung_bayerisch: 1802
+  aufhebung: 1802
+  gebaeude_verkauft: 1807
+  abbruch: teilweise (außer Kirche, Martinstor, Amtshaus/Grundschule, Teil Klostermauer)
+  pfarrhof_erbaut: 1844
+  pfarrei_versehen_seit: 1921
+  pfarrei_orden: Ordenspriester der Kongregation der Oblaten
+  klostermodell_fertiggestellt: 2002
+  authentische_dokumente_vernichtet: 1395, Brände auch 1430 und 1469
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1802
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 288-elchingen/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul
+ORTSTEIL_BEZUG: Oberelchingen
+QUELLE: https://www.elchingen.de/index.php?id=42&Detail=46 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Klosterkirche des Benediktinerklosters Elchingen
+  pfarrkirche_seit: 1804
+  baustil_kern: romanisch
+  kern_errichtet: 1146
+  moenchschor_stil: Spätrokoko
+  moenchschor_ausgestattet: 1774
+  langhaus_stil: klassizistisch
+  langhaus_ausgestattet: 1782-1785
+  kuenstler_gemälde: Januarius Zick (Trierer Hofmaler)
+  besonderheit: Gnadenbild der schmerzhaften Mutter Gottes
+  wallfahrtsziel_seit: Jahrhunderte
+GUELTIG_AB: 1146
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius
+ORTSTEIL_BEZUG: Thalfingen
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ortsmitte von Thalfingen
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael
+ORTSTEIL_BEZUG: Unterelchingen
+QUELLE: https://www.elchingen.de/index.php?id=54 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarramt: Kath. Pfarramt St. Michael Unterelchingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/009
+ENTITÄT: kirche
+BEZEICHNUNG: St. Thomas
+QUELLE: https://www.elchingen.de/index.php?id=54 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  pfarramt: Ev.-Luth. Pfarramt St. Thomas
+  adresse: Donaustraße 22
+  pfarrerin: Anja Saltenberger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/010
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht von Elchingen
+QUELLE: https://www.elchingen.de/index.php?id=44&Detail=51 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 14. Oktober 1805
+  kontext: Dritter Koalitionskrieg, Napoleonische Kriege
+  belligerenten: Napoleons Truppen vs. österreichisches Heer
+  kommandeur_napoleon: Marschall Ney
+  kommandeur_oesterreich: Karl Mack von Leiberich
+  ergebnis: Sieg der Napoleontruppen
+  folge_unmittelbar: Niederlage der österreichischen Armee eingeleitet
+  folge_nachfolgetag: Belagerung Ulms
+  folge_oesterreich: Kapitulation Karl Mack von Leiberich
+  folge_regional: Beendigung der Vorherrschaft Österreichs und der freien Reichsstadt Ulm, Gebietsneuordnung von Württemberg und Bayern
+  folge_heiliges_roemisches_reich: 1806 Kaiser Franz II. legte Krone nieder, Reich endete
+  ehre_ney: 1806 Titel Duc d'Elchingen von Napoleon verliehen
+  wirkung_international: Ortsname Elchingen auf Innenseite Arc de Triomphe (Triumphbogen) Paris
+GUELTIG_AB: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 288-elchingen/011
+ENTITÄT: gemeinde
+BEZEICHNUNG: Gemeinde Elchingen
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1. Mai 1978
+  kontext_gründung: bayerische Gebietsreform
+  zusammenschluss_aus: Thalfingen, Oberelchingen, Unterelchingen
+  erste_kommunalwahlen: 5. März 1978
+  gemeinderat_mitglieder: 20
+  gemeinderat_buengermeister: 1 Erster Bürgermeister
+  sitz_gemeindeverwaltung: Thalfingen
+  wappen_gemeinde: keine
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 288-elchingen/012
+ENTITÄT: buergermeister
+BEZEICHNUNG: Anton Lang
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  partei: parteilos
+  nominiert_von: CSU
+  amtsantritt: 1984
+  amtsende: 2008
+  wiederwaehlen: mehrfach (1984, 1990, 1996, 2002, 2008)
+  tod_im_amt: 2008 (kurz nach Wahl)
+GUELTIG_AB: 1984
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/013
+ENTITÄT: buergermeister
+BEZEICHNUNG: Joachim Eisenkolb
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  partei: parteilos
+  nominiert_von: Grüne (2008), Grüne und FW (2014, 2020)
+  amtsantritt: 2008
+  amtsende: 2020
+  stichwahl_2008: ja
+  wiederwaehlen: 2014, 2020
+GUELTIG_AB: 2008
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/014
+ENTITÄT: buergermeister
+BEZEICHNUNG: Daniel Schaefer
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  partei: parteilos
+  nominiert_von: Grüne
+  amtsantritt: 2026
+  stichwahl: ja
+  unterstuetzung_spd: ja (aber nur Grüne reichten formal ein)
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/015
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Thalfingen
+ORTSTEIL_BEZUG: Thalfingen
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnet: 1875
+  bahnstrecke: Aalen-Ulm
+GUELTIG_AB: 1875
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/016
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Unterelchingen
+ORTSTEIL_BEZUG: Unterelchingen
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnet: 1875
+  bahnstrecke: Aalen-Ulm
+GUELTIG_AB: 1875
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/017
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Haltestelle Oberelchingen
+ORTSTEIL_BEZUG: Oberelchingen
+QUELLE: https://www.elchingen.de/index.php?id=42&Detail=46 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnstrecke: Ulm-Aalen
+  haltestelle_seit: 1900
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/018
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahnanschluss Oberelchingen
+ORTSTEIL_BEZUG: Oberelchingen
+QUELLE: https://www.elchingen.de/index.php?id=42&Detail=46 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autobahn: A8
+  autobahnkreuz: Ulm-Elchingen (mit A7)
+  anschluss_seit: 1954
+  beschreibung: Ein- und Ausfahrt A8 Oberelchingen
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/019
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Buslinie ElchBus 591
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  liniennummer: 591
+  startdatum: 9. Januar 2023
+  bushaltestellen_gesamt: 25
+  bushaltestellen_oberelchingen: 9
+  bushaltestellen_thalfingen: 8
+  bushaltestellen_unterelchingen: 8
+  besonderheit: Fahrkarten billiger als DING-Verbundtarif, Gemeinde trägt Differenz
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/020
+ENTITÄT: energieanlage
+BEZEICHNUNG: Windkraftanlage
+ORTSTEIL_BEZUG: Thalfingen
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: Ende 2005
+  zweck: Energieversorgung der Region
+  besonderheit: Prototyp mit Rotorblättern 4 Meter länger als Serienmodell
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 288-elchingen/021
+ENTITÄT: energieanlage
+BEZEICHNUNG: Biogasanlage
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 2008
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/022
+ENTITÄT: energieanlage
+BEZEICHNUNG: Laufwasserkraftwerk Oberelchingen
+ORTSTEIL_BEZUG: Oberelchingen
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Obere Donau Kraftwerke AG
+  erbaut: 1960
+  standort: in der Donau
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/023
+ENTITÄT: oertlichkeit
+BEZEICHNUNG: Autohof Seligweiler
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: nördlich von Thalfingen
+  besonderheit: Großer Speisesaal verläuft zur Hälfte auf bayerischer, zur Hälfte auf baden-württembergischer Seite, Grenzlinie verdeutlicht durch Markierung auch durch Tische
+  touristisches_angebot: ermöglicht Besuchern, in Bayern zu sitzen während sich Suppe in Baden-Württemberg befindet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/024
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Thalfingen
+ORTSTEIL_BEZUG: Thalfingen
+QUELLE: https://www.elchingen.de/index.php?id=42 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In Silber gekreuzt ein roter Abtstab und ein roter Enterhaken, belegt mit einem gesenkten blauen Wellenbalken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/025
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Oberelchingen
+ORTSTEIL_BEZUG: Oberelchingen
+QUELLE: https://www.elchingen.de/index.php?id=42 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Geteilt von Rot und Schwarz durch eine liegende goldene Mondsichel; oben das Brustbild der goldgekrönten, blaugekleideten Muttergottes in goldenem Strahlenkranz mit dem Kind auf dem linken Arm; unten ein schräger, grüner Rautenkranz, beseitet von zwei sechsstrahligen goldenen Sternen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/026
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Unterelchingen
+ORTSTEIL_BEZUG: Unterelchingen
+QUELLE: https://www.elchingen.de/index.php?id=42 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Blauer Löwe im goldenen Feld aus dem Wappenbild der Windberg/Stöffeln, kombiniert mit dem in Silber und Rot geschachten Schrägbalken der Zisterzienser
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/027
+ENTITÄT: kloster
+BEZEICHNUNG: Zisterzienserkloster Salem
+QUELLE: https://www.elchingen.de/index.php?id=44&Detail=51 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  orden: Zisterzienser
+  erwerb_unterelchingen: 1294
+  kaeufer_1294: Konrad von Plochingen
+  besitz_unterelchingen_bis: 1802
+  besitz_unterelchingen_endete: Säkularisation 1802
+GUELTIG_AB: 1294
+GUELTIG_BIS: 1802
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/028
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Reichenau
+QUELLE: https://www.elchingen.de/index.php?id=42 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitz_unterelchingen_ab: um 800
+  besitz_zusammenhang: mit Ulm zusammen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 288-elchingen/029
+ENTITÄT: person
+BEZEICHNUNG: Marschall Ney
+QUELLE: https://www.elchingen.de/index.php?id=44&Detail=51 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle_1805: Kommandeur von Napoleons Truppen bei Schlacht von Elchingen
+  titelverleihung: 1806
+  titel: Duc d'Elchingen
+  titelverleiher: Napoleon
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/030
+ENTITÄT: person
+BEZEICHNUNG: Konrad von Plochingen
+QUELLE: https://www.elchingen.de/index.php?id=44&Detail=51 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion_1294: verkaufte Unterelchingen an Zisterzienserkloster Salem
+GUELTIG_AB: 1294
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/031
+ENTITÄT: person
+BEZEICHNUNG: Januarius Zick
+QUELLE: https://www.elchingen.de/index.php?id=42&Detail=46 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Hofmaler
+  herkunftsort: Trier
+  werk: Gemälde in Kirche St. Peter und Paul Oberelchingen
+  werk_ausstattung: Langhaus 1782-1785 klassizistisch
+GUELTIG_AB: 1782
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/032
+ENTITÄT: person
+BEZEICHNUNG: Karl Mack von Leiberich
+QUELLE: https://www.elchingen.de/index.php?id=44&Detail=51 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle_1805: Kommandeur österreichisches Heer, Schlacht von Elchingen
+  folge: Kapitulation in Ulm
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/033
+ENTITÄT: person
+BEZEICHNUNG: Alicho
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  zeit: frühes 12. Jahrhundert
+  status: Stammesführer / Stammesoberhaupt (lokal)
+  bedeutung: vermutlicher Namensgeber von Elchingen (Entwicklung: Alicho → Alechingen → Aelchingen → Elchingen)
+  genauigkeit: vermutlich
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 288-elchingen/034
+ENTITÄT: ereignis
+BEZEICHNUNG: Brände in Elchingen
+QUELLE: https://www.elchingen.de/index.php?id=44&Detail=51 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahre: 1395, 1430, 1469
+  betroffenes_objekt: Kloster Oberelchingen
+  folge_1395: alle authentischen Dokumente vernichtet, Weihdatum 15. August 1128 konnte nicht bewiesen werden
+GUELTIG_AB: 1395
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/035
+ENTITÄT: ereignis
+BEZEICHNUNG: Säkularisation in Elchingen
+QUELLE: https://www.elchingen.de/index.php?id=44&Detail=51 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1802
+  betroffene_objekte: Kloster Oberelchingen, Unterelchingen
+  betreiber: Bayerische Soldaten (Kloster Oberelchingen)
+GUELTIG_AB: 1802
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/036
+ENTITÄT: ereignis
+BEZEICHNUNG: Reichsdeputationshauptschluss
+QUELLE: https://www.elchingen.de/index.php?id=44&Detail=51 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1803
+  folge: Oberelchingen, Unterelchingen, Thalfingen gingen an Bayern
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/037
+ENTITÄT: ereignis
+BEZEICHNUNG: Bahnstrecke Aalen-Ulm Eröffnung Streckenabschnitt
+QUELLE: https://www.elchingen.de/index.php?id=42&Detail=46 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnhof_thalfingen_eroeffnet: 1875
+  bahnhof_unterelchingen_eroeffnet: 1875
+GUELTIG_AB: 1875
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 288-elchingen/038
+ENTITÄT: wanderweg
+BEZEICHNUNG: Hauptwanderweg 2 (Schwäbische-Alb-Südrand-Weg)
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  betreuer: Schwäbischer Albverein
+  verlauf_durch_elchingen: gemeinsam mit Hauptwanderweg 4 zwischen Langenau und Ulm
+  gemeinsam_mit: Hauptwanderweg 4 (Main-Donau-Bodensee-Weg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/039
+ENTITÄT: wanderweg
+BEZEICHNUNG: Hauptwanderweg 4 (Main-Donau-Bodensee-Weg)
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  betreuer: Schwäbischer Albverein
+  verlauf_durch_elchingen: gemeinsam mit Hauptwanderweg 2 zwischen Langenau und Ulm
+  gemeinsam_mit: Hauptwanderweg 2 (Schwäbische-Alb-Südrand-Weg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/040
+ENTITÄT: wanderweg
+BEZEICHNUNG: Jakobsweg (Nürnberg-Konstanz-Route)
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: von Nürnberg über Ulm nach Konstanz
+  fortsetzung: zum Oberschwäbischen Jakobsweg
+  durchquerung_elchingen: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/041
+ENTITÄT: radweg
+BEZEICHNUNG: Donauradweg
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  regional_klassifizierung: süddeutscher Fernradweg
+  verlauf_entlang: Donau
+  durchquerung_elchingen: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 288-elchingen/042
+ENTITÄT: radweg
+BEZEICHNUNG: EuroVelo-Radweg Flüsseroute EV 6
+QUELLE: https://de.wikipedia.org/wiki/Elchingen | Wikipedia
+EIGENSCHAFTEN:
+  klassifizierung: europäischer Fernradweg
+  verlauf: vom Atlantik bis zum Schwarzen Meer
+  durchquerung_elchingen: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

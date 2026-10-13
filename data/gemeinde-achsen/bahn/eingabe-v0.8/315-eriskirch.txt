@@ -1,0 +1,856 @@
+ZIELORT: Eriskirch (Gemeinde)
+LAGE: 92 km südlich von Ulm (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Eriskirch
+
+GRUNDDATEN:
+  landkreis: Bodenseekreis  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 4752  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 14,61  [Wikidata P2046]
+  dichte_ew_km2: 325  [berechnet aus Einwohner und Fläche]
+  kfz: FN (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 400 | 401 | 411  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2929626)]
+  naechste_grossstadt: Ulm, 92 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 131 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Eriskirch  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 88097  [Wikidata P281]
+  vorwahl: 07541  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 36,3 %, AfD 20,1 %, SPD 14 %, GRÜNE 10,5 %, FDP 5,6 %, Die Linke 5 %; Wahlbeteiligung 85,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Arman Aigner (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Nerchau  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Friedrichshafen (Stadt)
+  landkreis: Bodenseekreis  [dewiki Infobox]
+  einwohner: 62.781  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 69,94 | 69,93  [Wikidata P2046; Altbestand staedte.json]
+  kfz: FN (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 400 | 405  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2924585)]
+  naechste_grossstadt: Ulm, 91 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Friedrichshafen Stadt, Friedrichshafen Flughafen, Friedrichshafen Landratsamt, Friedrichshafen Ost, Friedrichshafen-Fischbach, Friedrichshafen-Kluftern, Friedrichshafen-Manzell, Löwental, Marstetten-Aitrach  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,4 %, AfD 21 %, SPD 14,4 %, GRÜNE 12,2 %, Die Linke 6,2 %, FDP 5,5 %; Wahlbeteiligung 80,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Eriskirch):
+ID: 315-eriskirch/001
+ENTITÄT: ort
+BEZEICHNUNG: Eriskirch
+QUELLE: https://www.eriskirch.de/leben-und-freizeit/ortsportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_erholungsort: true
+  lage_meter_ueber_nn: 400.5
+  gehoert_zu: Rhein-Bodensee-Hügelland
+  liegt_am: Bodensee
+  flaeche_hektar: 1458.88
+  ortsteile_groesser: Eriskirch, Mariabrunn, Schlatt
+  wohnplaetze_anzahl: 14
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 315-eriskirch/002
+ENTITÄT: ort
+BEZEICHNUNG: Eriskirch
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  lage_relativ: etwa in der Mitte zwischen Friedrichshafen und Langenargen, sieben Kilometer südlich von Tettnang
+  lage_gewaesser: am Bodensee, an Mündung der Schussen
+  charakteristika: ausgedehnte Waldflächen
+  urkundliche_erwaehnung_erste: 1257
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 315-eriskirch/003
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Eriskircher Ried
+QUELLE: https://www.eriskirch.de/leben-und-freizeit/ortsportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche_hektar: 450
+  lage: zwischen bebauten Ortsteilen und Bodensee
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/004
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Eriskircher Ried
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_hektar: 550
+  superlativ: größtes Naturschutzgebiet am nördlichen Bodenseeufer
+  besonderheit_flora: größter Bestand blau blühender Sibirischer Schwertlilie in Deutschland
+  zustand_oekologisch: guter ökologischer Zustand trotz früherer Hochwasser und Nutzung als Truppenübungsplatz
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/005
+ENTITÄT: kirche
+BEZEICHNUNG: Mariä Himmelfahrt
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: um 1400
+  architekturstil_urspruenglich: frühgotisch
+  architekturstil_chor: hochgotisch
+  ausstattung_wandmalereien: seltene Seccomalereien von 1420–1430 mit „Armenbibel" und „Hostienmühle"
+  ausstattung_glasfenster: zwei bunte Glasfenster gestiftet von Grafen von Montfort
+  gnadenbild_jahr: 1350
+  gnadenbild_beschreibung: Gottesmutter mit Christus, thronend auf Sockel mit Mondgesicht
+  wandbild: Darstellung einer Hostienmühle
+  wandbild_legende: Legende der Begegnung der drei Lebenden und drei Toten um 1430
+  glocken_historisch: Glocken V (13. Jh.), VI (14. Jh.), I (16. Jh.)
+  umgestaltung_1666: teilweise barockisiert, Wandmalereien übertüncht, Dachstuhl angehoben
+  wiederherstellung_1933: gotische Wandmalereien freigelegt
+  verwendung: Pfarrkirche und ehemalige Wallfahrtskirche
+  wallfahrts_zeitraum: blühende Wallfahrt bis ins 19. Jahrhundert
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 315-eriskirch/006
+ENTITÄT: glocke
+BEZEICHNUNG: Franziskus
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  kirche: Mariä Himmelfahrt
+  jahr_guss: 2007
+  anlass: 750. Jubiläumsjahr
+  segnungsdatum: 29. April 2007
+  segnender_bischof: Gebhard Fürst
+  aufzug_hand: 6. Mai 2007, über 200 Kinder und Erwachsene
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/007
+ENTITÄT: glocke
+BEZEICHNUNG: Benedikt XVI.
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  kirche: Mariä Himmelfahrt
+  jahr_guss: 2007
+  anlass: 750. Jubiläumsjahr
+  segnungsdatum: 29. April 2007
+  segnender_bischof: Gebhard Fürst
+  aufzug_hand: 6. Mai 2007, über 200 Kinder und Erwachsene
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/008
+ENTITÄT: kirche
+BEZEICHNUNG: Zu unserer lieben Frau
+ORTSTEIL_BEZUG: Mariabrunn
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  erbauung_zeitraum: 18. Jahrhundert
+  stifter: Grafen von Montfort
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/009
+ENTITÄT: kirche
+BEZEICHNUNG: Kreuzkirche
+ORTSTEIL_BEZUG: Schlatt
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  erbauungsjahr: 1970
+  konfession: evangelisch
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/010
+ENTITÄT: pfarrgemeinde
+BEZEICHNUNG: Eriskirch
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  nachgewiesen_seit: 1353
+GUELTIG_AB: 1353
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/011
+ENTITÄT: pfarrgemeinde
+BEZEICHNUNG: Mariabrunn
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  pfarrgemeinde_seit: 1823
+GUELTIG_AB: 1823
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/012
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Langenargen-Eriskirch
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  mitglieder_anzahl: 800
+  mitglieder_stand_jahr: 2004
+  kirchenbezirk: Ravensburg
+  landeskirche: Evangelische Landeskirche in Württemberg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/013
+ENTITÄT: schule
+BEZEICHNUNG: Irisschule
+QUELLE: https://www.eriskirch.de/leben-und-freizeit/ortsportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 315-eriskirch/014
+ENTITÄT: kindergaerten
+QUELLE: https://www.eriskirch.de/leben-und-freizeit/ortsportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 3
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 315-eriskirch/015
+ENTITÄT: unternehmen
+BEZEICHNUNG: DRIAM Anlagenbau
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  branche: Maschinenbau
+  spezialisierung: Großcoater für Beschichten von Tabletten und Dragees
+  marktposition: Weltmarktführer
+  standort_hauptsitz: Eriskirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/016
+ENTITÄT: bruecke
+BEZEICHNUNG: Eriskircher Brücke
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  lage: bei Ortsmitte über Schussen
+  material: Holz
+  erbauungsjahr: 1828
+  pfaehle_anzahl: 96
+  pfaehle_schlagtag: 13. Februar 1828
+  historische_bedeutung: Verbindung von Oberdorf nach Eriskirch, bildete Grenze zwischen Reichsstadt Buchhorn und Grafschaft Montfort
+GUELTIG_AB: 1828
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/017
+ENTITÄT: bruecke
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ortsteil Oberbaumgarten über Schussen
+  material: Holz
+  erbauungsjahr: 1824
+GUELTIG_AB: 1824
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/018
+ENTITÄT: burg
+BEZEICHNUNG: Baumgarten
+ORTSTEIL_BEZUG: Oberbaumgarten
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Reste der Burg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 315-eriskirch/019
+ENTITÄT: institution
+BEZEICHNUNG: Naturschutzzentrum
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  standort_vorher: früheres Bahnhofsgebäude
+  spezialisierung: Tier- und Pflanzenwelt und Naturschutz des Eriskircher Riedes
+  ausstellungen: Natur am Bodensee
+  angebote: Führungen durch Eriskircher Ried
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/020
+ENTITÄT: gemeindeverwaltungsverband
+BESCHREIBUNG: Verwaltungsverband Eriskirch, Langenargen, Kressbronn
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  mitgliedsgemeinden: Eriskirch, Langenargen, Kressbronn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/021
+ENTITÄT: buergermeister
+BEZEICHNUNG: Markus Spieth
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  partei: parteilos
+  amtsantritt: 2009
+  wahltermin: 5. April 2009
+  wahlbeteiligung: 64.72 %
+  wahlstimmen: 79.11 %
+GUELTIG_AB: 2009
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/022
+ENTITÄT: buergermeister
+BEZEICHNUNG: Arman Aigner
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  partei: parteilos
+  wahltermin_erste: 9. April 2017
+  wahlbeteiligung_erste: 59.3 %
+  wahlstimmen_erste: 51.7 %
+  wiederwahltermin: 2025
+  wiederwahlstimmen: 53.86 %
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/023
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Carl Lehle
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1872
+  todesjahr: 1939
+  beruf: Ruderer
+GUELTIG_AB: 1872
+GUELTIG_BIS: 1939
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/024
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Fridolin Endraß
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1893
+  todesjahr: 1940
+  beruf: Gewerkschaftsfunktionär
+  aktivitaet: Widerstandskämpfer gegen das NS-Regime
+  geburtsort: Mariabrunn
+GUELTIG_AB: 1893
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/025
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Eckert
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1898
+  todesjahr: 1980
+  beruf: Maler und Ziselier
+GUELTIG_AB: 1898
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Roswitha Riess
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1937
+  beruf: Politikerin
+  position: Mitglied des Bayerischen Landtags
+  geburtsort: Mariabrunn
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Josef Wund
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1938
+  todesjahr: 2017
+  beruf: Architekt und Unternehmer
+  geburtsort: Mariabrunn
+GUELTIG_AB: 1938
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/028
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Ernst Zodel
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  grund: Verdienste um Erhalt der Selbstständigkeit der Gemeinde und kommunalpolitisches Engagement
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/029
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Bernhard Vesenmayer
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  grund: ehrenamtliches Engagement in Kultur, Bildung, Politik, sozialer und kirchlicher Bereich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/030
+ENTITÄT: gemeindepartnerschaft
+BEZEICHNUNG: Nerchau
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  land_region: Sachsen, Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/031
+ENTITÄT: gemeindepartnerschaft
+BEZEICHNUNG: Egnach
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  land_region: Thurgau, Schweiz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/032
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mariabrunn
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/033
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schlatt
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: vor 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/034
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schussenreute
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/035
+ENTITÄT: ortsteil
+BEZEICHNUNG: Röcken
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/036
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ziegelhaus
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/037
+ENTITÄT: ortsteil
+BEZEICHNUNG: Knöbelhof
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/038
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wolfzennen
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/039
+ENTITÄT: ortsteil
+BEZEICHNUNG: Langenacker
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/040
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hofstatt
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/041
+ENTITÄT: ortsteil
+BEZEICHNUNG: Braitenrain
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/042
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dillmannshof
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/043
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gmünd
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/044
+ENTITÄT: ortsteil
+BEZEICHNUNG: Moos
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/045
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberbaumgarten
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1818
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/046
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unterbaumgarten
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindungsjahr: 1818
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/047
+ENTITÄT: kuenstler
+BEZEICHNUNG: Meister von Eriskirch
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: um 1420
+  werke: Ausstattung in Wallfahrtskirche Mariä Himmelfahrt
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 315-eriskirch/048
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Herrschaft Baumgarten unter Hochstift Konstanz
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  herrschafter: Hochstift Konstanz
+  verkauf_ziel: Freie Reichsstadt Buchhorn (heute Friedrichshafen)
+  widerstand_population: erbitterte Widerstände Eriskircher Bauern
+GUELTIG_BIS: 1472
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/049
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eriskirch wird Wallfahrtsort
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  entwicklung_zeitraum: Ende 14. Jahrhundert
+  ausstattung_malerei: gotische Wandmalereien um 1420
+  ausstattung_glas: Glasfenster um 1420
+  bluestenzeit: bis ins 19. Jahrhundert
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/050
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Barockisierung Kirche Mariä Himmelfahrt
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1666
+  anlass: nach dem Dreißigjährigen Krieg
+  aenderungen: Wandmalereien übertüncht, Dachstuhl Langhaus angehoben, Apostelstatuen hinzugefügt
+GUELTIG_AB: 1666
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/051
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Freilegung gotischer Wandmalereien
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1933
+  kirche: Mariä Himmelfahrt
+  beschreibung: Wiederherstellung barocker Übermalungen
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/052
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eriskirch kommt an Württemberg
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1810
+  grund: Grenzvertrag
+  folge: Zuordnung zum Oberamt Tettnang
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/053
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bahnanschluss
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1899
+  bahnstrecke: Friedrichshafen–Lindau
+  anschluss_bahnen: Württembergische Staatseisenbahnen, Bayerische Staatseisenbahnen
+  folge: wirtschaftlicher Aufschwung
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/054
+ENTITÄT: historisches_ereignis
+BESCHREIBUNG: Verwaltungsreform NS-Zeit
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1938
+  folge: Zugehörigkeit zum Landkreis Friedrichshafen
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/055
+ENTITÄT: historisches_ereignis
+BESCHREIBUNG: Eriskirch in Französischer Besatzungszone
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1945
+  status: Land Württemberg-Hohenzollern
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/056
+ENTITÄT: historisches_ereignis
+BESCHREIBUNG: Eriskirch kommt zu Baden-Württemberg
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1952
+  grund: Württemberg-Hohenzollern geht in Baden-Württemberg auf
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/057
+ENTITÄT: historisches_ereignis
+BESCHREIBUNG: Eriskirch Bestandteil des Bodenseekreises
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1973
+  grund: Kreisreform Baden-Württemberg
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/058
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Schwäbisch-alemannische Fasnet
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  regelmassigkeit: regelmäßig
+  narrengruppen: Streibemahder, Schussenhexen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/059
+ENTITÄT: route_touristisch
+BEZEICHNUNG: Oberschwäbische Barockstraße
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: durch Eriskirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/060
+ENTITÄT: route_radweg
+BEZEICHNUNG: Bodensee-Radweg
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: durch Eriskirch
+  zusatz_route: D-Route 8 (Rhein-Route) auf Nordseite des Sees
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/061
+ENTITÄT: route_radweg
+BEZEICHNUNG: Bodensee-Rundweg
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: durch Eriskirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/062
+ENTITÄT: route_radweg
+BEZEICHNUNG: Alltagsroute Radnetz Baden-Württemberg
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  verbindungen: Friedrichshafen, über Langenargen und Kressbronn bis Landesgrenze Lindau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/063
+ENTITÄT: strasse
+BEZEICHNUNG: Bundesstraße 31
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: durch Eriskirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/064
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Friedrichshafen–Lindau
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: durch Eriskirch
+  inbetriebnahme: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/065
+ENTITÄT: verband_verkehr
+BEZEICHNUNG: Bodensee-Oberschwaben Verkehrsverbund
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  kurzbezeichnung: bodo
+  mitglied: Eriskirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 315-eriskirch/066
+ENTITÄT: verband_energie
+BEZEICHNUNG: Regionalwerk Bodensee
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  versorgt: Eriskirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 315-eriskirch/067
+ENTITÄT: infrastruktur_sozial
+BESCHREIBUNG: Soziale Institutionen Eriskirch
+QUELLE: https://www.eriskirch.de/leben-und-freizeit/ortsportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sozialstation: vorhanden
+  nachbarschaftshilfe: vorhanden
+  reparaturcafe: vorhanden
+  buergerstiftung: Bürgerstiftung Eriskirch
+  angebote_altersgruppen: Lebensräume für Jung und Alt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 315-eriskirch/068
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  zusammensetzung: 14 ehrenamtliche Gemeinderäte, Bürgermeister als Vorsitzender
+  buergermeister_stimmberechtigung: true
+  wahltermin_2024: 9. Juni 2024
+  cdu_prozent_2024: 53.73
+  cdu_sitze_2024: 8
+  freie_waehlervereinigung_prozent_2024: 46.27
+  freie_waehlervereinigung_sitze_2024: 6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/069
+ENTITÄT: wappen
+BESCHREIBUNG: Wappen Gemeinde Eriskirch
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In gespaltenem Schild vorne in Blau eine goldene Lilie, hinten in Gold eine blau bedachte silberne Kirche mit rechtsstehendem spitzem Turm
+  lilie_symbolik: Erinnerung an häufiges Vorkommen von Schwertlilien (Iris) auf der Markung
+  kirche_symbolik: Bezug zum Gemeindenamen
+  typ: redendes Wappen (Iris + Kirche = Eriskirch)
+  lilie_vorgeschlagen: 1936
+  verleihungsdatum: 30. Juni 1952
+  verleihende_stelle: Abwicklungsstelle Innenministerium Württemberg-Hohenzollern
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 315-eriskirch/070
+ENTITÄT: roemer_bauewerk
+BESCHREIBUNG: Römische Brücke über Schussen
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  jahr: um 50 n. Chr.
+  konstruktion: Brücke über Schussen
+  nachgewiesen_durch: archäologische Funde
+GUELTIG_AB: 50
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 315-eriskirch/071
+ENTITÄT: roemer_siedlung
+BEZEICHNUNG: Römischer Vicus von Eriskirch
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  lage: westliches Schussenufer
+  forschungsstand: weitgehend unerforscht
+  zeitraum: um 50 n. Chr.
+GUELTIG_AB: 50
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 315-eriskirch/072
+ENTITÄT: siedlung_steinzeit
+QUELLE: https://de.wikipedia.org/wiki/Eriskirch | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: Steinzeit
+  nachweis: archäologische Funde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.55
+

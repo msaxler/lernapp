@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung",
+ "ort": "284-gruibingen",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 54082,
+ "token_ein": 47998,
+ "token_aus": 9975,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 41094,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 9975,
+  "output_tokens_details": {
+   "thinking_tokens": 6216
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 41094,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 9975,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 41094,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 41094
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.5296404,
+ "sekunden": 86,
+ "fehler": false,
+ "zeit": "2026-10-13T21:53:50"
+}

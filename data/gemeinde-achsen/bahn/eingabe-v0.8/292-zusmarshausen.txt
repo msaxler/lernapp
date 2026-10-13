@@ -1,0 +1,666 @@
+ZIELORT: Zusmarshausen (Gemeinde)
+LAGE: 23 km westlich von Augsburg (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Zusmarshausen
+
+GRUNDDATEN:
+  landkreis: Augsburg  [dewiki Infobox]
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 6661  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 68,6  [Wikidata P2046]
+  dichte_ew_km2: 97  [berechnet aus Einwohner und Fläche]
+  kfz: A (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 463 | 466 | 465  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2803655)]
+  naechste_grossstadt: Augsburg, 23 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 78 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 86441  [Wikidata P281]
+  vorwahl: 08291  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 40,8 %, AfD 18,3 %, GRÜNE 10,7 %, SPD 10 %, FREIE WÄHLER 6,3 %; Wahlbeteiligung 87,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Ben Matthes (Bürgerliste) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Jettingen-Scheppach (Gemeinde)
+  landkreis: Günzburg  [dewiki Infobox]
+  einwohner: 6976  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 54,12  [Wikidata P2046]
+  kfz: GZ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 470 | 474 | 472  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 3336896)]
+  naechste_grossstadt: Ulm, 33 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Freihalden, Jettingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 41,5 %, AfD 23,8 %, SPD 8,4 %, GRÜNE 5,9 %, FREIE WÄHLER 5,4 %, Die Linke 5,1 %; Wahlbeteiligung 83,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Zusmarshausen):
+ID: 292-zusmarshausen/001
+ENTITÄT: ort
+BEZEICHNUNG: Zusmarshausen
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Markt
+  höhe_über_nn_min: 438 [m]
+  höhe_über_nn_max: 526 [m]
+  gesamtfläche: 68.71 [km²]
+  gueltig_ab_fläche: 1978
+  einwohnerzahl: 6470
+  einwohnerzahl_quelle_jahr: 2020
+  einwohnerzahl_genauigkeit: "ca."
+  landkreis: Augsburg
+  naturpark: Augsburg Westliche Wälder
+  landschaftsschutzgebiet_anteil: 80 [%]
+  waldfläche_anteil: 70 [%]
+  erste_urkundliche_erwähnung: 892
+  benannt_nach: "vermutlich nach dem Ort an der Brücke (römischer Brückenort Pontone)"
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/002
+ENTITÄT: ort
+BEZEICHNUNG: Zusmarshausen
+ORTSTEIL_BEZUG: Zusmarshausen
+QUELLE: https://www.zusmarshausen.de/seite/458002/zusmarshausen-und-seine-ortsteile.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 6733
+  einwohnerzahl_referenzdatum: "Dezember 2020"
+  arbeitsplätze: 2800
+  arbeitsplätze_referenzdatum: "Juni 2019"
+  arbeitsplätze_typ: sozialversicherungspflichtig
+  entfernung_augsburg: 25 [km]
+  entfernung_ulm: 50 [km]
+  entfernung_münchen: 85 [km]
+  entfernung_stuttgart: 130 [km]
+  autobahn_anbindung: "A 8 München-Stuttgart (E 52) mit direkter Anschlussstelle"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 292-zusmarshausen/003
+ENTITÄT: fundstelle_altsteinzeit
+BEZEICHNUNG: Wörleschwang
+ORTSTEIL_BEZUG: Wörleschwang
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fund: Faustkeil
+  zeitperiode: Altsteinzeit
+GUELTIG_AB: -10000
+IST_VERMUTWEISE_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 292-zusmarshausen/004
+ENTITÄT: römischer_brückenort
+BEZEICHNUNG: Pontone
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: "Siedlung an der Römerstraße Augsburg-Mainz"
+  benannt_nach: "Ort an der Brücke"
+  römerstraße: Augsburg-Mainz
+  funde: "Trockenofen zur Ziegelherstellung, Münzen, Keramik, Steinwerkzeuge, Eisennägel"
+GUELTIG_AB: 100
+GUELTIG_BIS: 400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/005
+ENTITÄT: ort
+BEZEICHNUNG: Zusmarshausen
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_mittelalter: Königspfalz
+  nutzung_mittelalter: "Rastaufenthalte der Reisekönige und Bischöfe"
+  lage_mittelalter: Hauptverbindungsstraße zwischen Ulm und Augsburg
+GUELTIG_AB: 700
+GUELTIG_BIS: 1400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 292-zusmarshausen/006
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Übernachtung König Arnulf von Kärnten
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Zusmarshausen
+  person: König Arnulf von Kärnten
+  datum: 889-12
+  beschreibung: "Vermutlich erste Übernachtung des Königs"
+  genauigkeit: vermutlich
+GUELTIG_AB: 889
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 292-zusmarshausen/007
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Erste urkundliche Erwähnung Zusmarshausens
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1892-01-21
+  person: König Arnulf von Kärnten
+  urkunde_inhalt: "Bestätigung für Bischof Hatto von der Reichenau"
+  folge: Lehensübergabe an die Markgrafschaft Burgau
+GUELTIG_AB: 892
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 292-zusmarshausen/008
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Schlacht des Dreißigjährigen Krieges
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1648-05-17
+  ort: "zwischen Zusmarshausen und Hainhofen"
+  bedeutung: "letzte Schlacht des Dreißigjährigen Krieges in Deutschland"
+  konsequenz: "militärische Grundlage für den Westfälischen Frieden (fünf Monate später)"
+  leid: "Ort litt unter durchziehenden Soldaten, wurde ausgebeutet und verwüstet"
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 292-zusmarshausen/009
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Friedensfest 350. Jahrestag
+QUELLE: https://www.zusmarshausen.de/seite/458241/sehenswürdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1998
+  anlass: "350. Jahrestag der letzten Schlacht des Dreißigjährigen Krieges (1648)"
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/010
+ENTITÄT: poststation
+BEZEICHNUNG: Posthalterei Zusmarshausen (Thurn-und-Taxis-Linie)
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1648-05-17
+  lage: "an der Verkehrsroute Paris-Wien"
+  anlass: "Friedensfestlegung nach Dreißigjährigem Krieg"
+  gäste: "Marie Antoinette, Napoleon I (1805), Zar Nikolaus, Kaiser Franz von Österreich, bayerische Könige"
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/011
+ENTITÄT: posthalterei
+BEZEICHNUNG: Alte Posthalterei
+QUELLE: https://www.zusmarshausen.de/seite/458241/sehenswürdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1684
+  funktion: "Poststation für Pferdewechsel der Thurn-und-Taxis-Linie"
+  gäste: "Bayernkönig Max I., Carl Gustaf von Schweden und weitere Prominente"
+  heute: "Hotel Alte Posthalterei"
+GUELTIG_AB: 1684
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/012
+ENTITÄT: schloss
+BEZEICHNUNG: Stiftschloss
+QUELLE: https://www.zusmarshausen.de/seite/458241/sehenswürdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1505
+  bischof: Heinrich IV von Lichtenau
+  ursprüngliche_funktion: Sitz des bischöflichen Pflegeamtes
+  sommersitz: "Bischof Clemens Wenzeslaus (1768-1812)"
+  heute: Forstbetriebe Zusmarshausen
+GUELTIG_AB: 1505
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/013
+ENTITÄT: spital
+BEZEICHNUNG: Giseberthaus
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1534
+  adresse: Augsburger Str. 11
+  gegründet_durch: "Augsburger Fürstbischöfe"
+  ursprüngliche_funktion: Spital
+  finanzierung: Stiftung
+  heute: "Heimatmuseum, VHS Augsburger Land e.V., Postverteilungsstelle"
+GUELTIG_AB: 1534
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 292-zusmarshausen/014
+ENTITÄT: museum
+BEZEICHNUNG: Museum Zusmarshausen / Heimatmuseum
+QUELLE: https://www.zusmarshausen.de/seite/580958/museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Augsburger Str. 11
+  standort: "historischer Dachboden des 17. Jahrhunderts"
+  gebäude: "ehemaliges fürstbischöfliches Spital"
+  dauerausstellung: "Geschichten eines schwäbischen Marktortes"
+  sonderausstellung_kunst: "Kunst in der Region (jährlich im Gewölberaum)"
+  besonderheit: "Sonderabteilung zum Waldwerk Kuno mit Exponaten zur Me 262"
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/015
+ENTITÄT: geheimwerk
+BEZEICHNUNG: Waldwerk Kuno
+QUELLE: https://www.zusmarshausen.de/seite/580958/museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: "Waldstück nördlich der A8 bei Zusmarshausen"
+  zeitraum: "letzte Monate des Zweiten Weltkrieges"
+  tätigkeit: "Serienmäßige Herstellung von Düsenjäger Me 262"
+  startbahn: "Reichsautobahn A8"
+  zwangsarbeiter: "Insassen des Konzentrationslagers Burgau"
+  codenummer: Kuno
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/016
+ENTITÄT: burgruine
+BEZEICHNUNG: Burg Wolfsberg / Steinekirch
+QUELLE: https://www.zusmarshausen.de/seite/458241/sehenswürdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Wolfsberg
+  gründer_vermutlich: "Rittergeschlecht Fraße"
+  gründung: "11. oder 12. Jahrhundert"
+  gründung_genauigkeit: vermutlich
+  erste_erwähnung_als_burgherren: "1233 (Fraße-Geschlecht)"
+  besitzer_1250: "Schwelcher (Ritter vom Wolfsberg)"
+  besitzer_1388: "Bayernherzöge (Übergang im Städtekrieg)"
+  zerstörung: 1462
+  zerstörer: "Streitmacht der Stadt Augsburg"
+  wiederaufbau: "nie wieder aufgebaut"
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1462
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/017
+ENTITÄT: pfarrof
+BEZEICHNUNG: Alter Pfarrhof
+QUELLE: https://www.zusmarshausen.de/seite/458241/sehenswürdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Marktplatz 7
+  erbaut: 1817
+  architekt_pfarrer: Johann Nepomuk Kriehofer
+  pfarrer_amtszeit: "1811-1836"
+  vorgängerbau: "Baufälliges Gebäude aus vermutlich 16. Jahrhundert"
+  bewohner_bis: 1994
+  nebengebäude: Pfarrstadel
+  heute: "Empfangs- und Trauungsraum der Gemeinde, Proberäume Sing- und Musikschule Zusmarshausen-Horgau"
+GUELTIG_AB: 1817
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/018
+ENTITÄT: rathaus
+BEZEICHNUNG: Ehemaliges Rathaus
+QUELLE: https://www.zusmarshausen.de/seite/458241/sehenswürdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Augsburger Str. 1
+  erste_erwähnung: 1612
+  schaden_dreißigjähriger_krieg: stark
+GUELTIG_AB: 1612
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 292-zusmarshausen/019
+ENTITÄT: siedlung
+BEZEICHNUNG: Friedensdorf
+QUELLE: https://www.zusmarshausen.de/seite/458241/sehenswürdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: 1948
+  anlass: "Neuer Wohnraum für Vertriebene des Zweiten Weltkrieges"
+  gründer: "Präsens Leopold Schwarz"
+  namensgebung: "auf Wunsch von Leopold Schwarz"
+  geldgeber: "Brauereibesitzer Konrad Schwarz (10 Tagwerk Äcker und Wiesen)"
+  bodenspende: "Gemeinde Vallried (87 Dezimal Grund kostenlos)"
+  architekt: "Strohmmayr aus Stadtbergen (kostenlos)"
+  ersthaus: "Familie Schwarz (1948)"
+  zweites_haus: "auf Gemeindekosten fertiggestellt"
+  finanzierung_weitere: "Wohnungsbauhilfe GmbH des Landkreises Augsburg"
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/020
+ENTITÄT: kirche_katholisch
+BEZEICHNUNG: Maria Immaculata
+ORTSTEIL_BEZUG: Zusmarshausen
+QUELLE: https://www.zusmarshausen.de/seite/580932/zusmarshausen-(katholische-kirche).html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse_kirche: Am Kirchplatz 1
+  adresse_pfarramt: Am Kirchplatz 4
+  erste_kirche: "Holzkirche (um 800)"
+  romanische_steinkirche: "um 1000"
+  gotische_kirche: "bis 1692"
+  barockisierung: "1712 (Neubau des Chores)"
+  neubau_langhaus: "1939-1944"
+  neubau_langhaus_architekt: Michael Kurz
+  neubau_langhaus_weihe: 1942-10-22
+  innenrestaurierung: "1979-1980"
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 292-zusmarshausen/021
+ENTITÄT: kirche_evangelisch
+BEZEICHNUNG: Auferstehungskirche
+ORTSTEIL_BEZUG: Zusmarshausen
+QUELLE: https://www.zusmarshausen.de/seite/580924/zusmarshausen-(evangelische-kirche).html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Arnulfstr. 15
+  gemeinde: Evang.-Luth. Kirchengemeinde Zusmarshausen
+  erbaut: "1956-1957"
+  anbau_gemeindesaal: 1988
+  weitere_kirchen: "St. Michael in Wörleschwang, St. Martin in Gabelbach, Kirchen in Adelsried, Dinkelscherben und Welden"
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/022
+ENTITÄT: kirche_katholisch
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Gabelbach
+QUELLE: https://www.zusmarshausen.de/seite/458002/zusmarshausen-und-seine-ortsteile.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: Barockausstattung
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 292-zusmarshausen/023
+ENTITÄT: kirche_katholisch
+BEZEICHNUNG: St. Michael
+ORTSTEIL_BEZUG: Wörleschwang
+QUELLE: https://www.zusmarshausen.de/seite/458002/zusmarshausen-und-seine-ortsteile.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: Fresken
+  fresken_zeitalter: 15. Jahrhundert
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 292-zusmarshausen/024
+ENTITÄT: zeitung
+BEZEICHNUNG: Schwäbischer Landbote
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erscheinungsort: Zusmarshausen
+  erscheinungszeitraum: "1873-1943"
+GUELTIG_AB: 1873
+GUELTIG_BIS: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 292-zusmarshausen/025
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Distriktskrankenhaus Frühlingsstraße
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Frühlingsstraße
+  gründung: 1871
+  größe: "Kleines Distriktskrankenhaus"
+GUELTIG_AB: 1871
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 292-zusmarshausen/026
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Distriktskrankenhaus Hochstiftstraße
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Hochstiftstraße
+  bau: "1911-1912"
+  fertigstellung: 1912
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/027
+ENTITÄT: eisenbahnstation
+BEZEICHNUNG: Gabelbach
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Gabelbach
+  inbetriebnahme: 1887-10-05
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/028
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Gemeindliche Wasserversorgung und Pumpwerk
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1909
+  standort_pumpwerk: Roth
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/029
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Elektrizität
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1912
+  beschreibung: "Einführung der Elektrizität"
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/030
+ENTITÄT: schule
+BEZEICHNUNG: Handarbeitsschule
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1926
+  besonderheit: "Erster Kindergarten"
+GUELTIG_AB: 1926
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/031
+ENTITÄT: schulgebäude
+BEZEICHNUNG: Neue Schule
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: "1953-1955"
+  heute: Rathaus
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/032
+ENTITÄT: anlage
+BEZEICHNUNG: Kläranlage
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: "1964-1966"
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/033
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Rothsee
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlegung: 1974
+  anlass: "Flurbereinigung"
+  betrieb: "Sommer- und Winterbetrieb"
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/034
+ENTITÄT: schulgebäude
+BEZEICHNUNG: Grund- und Hauptschule
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1976
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/035
+ENTITÄT: schulgebäude
+BEZEICHNUNG: Staatliche Realschule
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 2002
+  mensa_fertigstellung: 2013
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/036
+ENTITÄT: einrichtung
+BEZEICHNUNG: Seniorenzentrum
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 2003
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/037
+ENTITÄT: ortsteil
+BEZEICHNUNG: Horgau
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_bis_1983: Ortsteil Zusmarshausens
+  status_ab_1983: wieder selbstständige Gemeinde
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/038
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wörleschwang
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kindergarten: "1993-1994 fertiggestellt"
+  ortsumfahrung: "2001 freigegeben"
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/039
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gabelbach
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kindergarten: "1993-1994 fertiggestellt"
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/040
+ENTITÄT: ortsteil
+BEZEICHNUNG: Streitheim
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kindergarten: "1998 fertiggestellt"
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/041
+ENTITÄT: mahnmal
+BEZEICHNUNG: Mahnmal für Kriegsflüchtlinge
+QUELLE: https://www.zusmarshausen.de/seite/458241/sehenswürdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1951-08-19
+  anlass: "Gedenken an Tote aus ihrer Heimat von Kriegsflüchtlingen"
+  ursprünglicher_standort: "nördlich der Autobahnausfahrt Zusmarshausen"
+  nutzung: "alljährliche Totenfeier der Sudetendeutschen vor Allerheiligen"
+  umsetzung: 2009
+  neuer_standort: "Kirche in Friedensdorf"
+  grund_umsetzung: "Sechsspuriger Ausbau BAB A8"
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 292-zusmarshausen/042
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Wollbach
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erschließung: "1997-1998"
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/043
+ENTITÄT: baugebiet
+BEZEICHNUNG: Steineberg
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erschließung: "2000-2001"
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/044
+ENTITÄT: vereinigung
+BEZEICHNUNG: REAL West e.V.
+QUELLE: https://www.zusmarshausen.de/seite/581462/regionalentwicklung-augsburg-land-west-e.-v..html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vollname: Regionalentwicklung Augsburg Land West e.V.
+  adresse: Hauptstr. 16, 86850 Fischach
+  funktion: "Dachverband für Teilregionen"
+  mitgliedsteilregionen: "Holzwinkel, Reischenau, Zusam/Roth, Stauden"
+  ziel: "Bündelung der Interessen und Kooperation zu gemeinsamen Erreichung von Zielen"
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 292-zusmarshausen/045
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sporthallen-Erweiterung
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 2006
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/046
+ENTITÄT: garten
+BEZEICHNUNG: Generationengarten
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 2013
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/047
+ENTITÄT: feuerwehrgerätehaus
+BEZEICHNUNG: Feuerwehrgerätehaus Zusmarshausen Anbau
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anbau_fertigstellung: 2013
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 292-zusmarshausen/048
+ENTITÄT: erdstall
+BEZEICHNUNG: Erdstall neben der Kirche
+QUELLE: https://www.zusmarshausen.de/seite/458224/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: "neben der Kirche Maria Immaculata"
+  alter: "früherer Zeit"
+  bedeutung: "unbekannt"
+  beschreibung: "Bedeutung bislang nicht bekannt"
+GUELTIG_AB: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+

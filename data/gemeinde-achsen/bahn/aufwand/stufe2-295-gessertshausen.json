@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "295-gessertshausen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 5125,
+ "token_ein": 119869,
+ "token_aus": 2945,
+ "usage": {
+  "input_tokens": 10,
+  "cache_creation_input_tokens": 20296,
+  "cache_read_input_tokens": 99563,
+  "output_tokens": 2945,
+  "output_tokens_details": {
+   "thinking_tokens": 1562
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 20296,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 2075,
+    "cache_read_input_tokens": 26499,
+    "cache_creation_input_tokens": 699,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 699
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.3384346,
+ "sekunden": 45,
+ "fehler": false,
+ "zeit": "2026-10-13T23:44:57"
+}

@@ -1,0 +1,428 @@
+ID: 294-adelsried/001
+ENTITÄT: ort
+BEZEICHNUNG: Adelsried
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nordwestlich von Augsburg
+  ursprungsgebiet: Laugna
+  ortstyp: Pfarrdorf
+  gründung_epoche: 11. Jahrhundert (zweite Rodungsperiode)
+  entstehung_anlage: Bischöflich Augsburgischer Forsthof mit benachbarten Rodungsgütern
+  ersterwähnung_ortsname: 919 ("Adeloldesriet")
+  ortsteile_struktur: Kruichen, Engelshof (ehemals selbständig) plus Hauptort
+  grundherr_1621_1803: Augsburger Chorherrenstift Heilig Kreuz
+  säkularisation: 1803
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 294-adelsried/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kruichen
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1290 ("Chrivchen")
+  erwerb_kloster: 1485 (Heilig Kreuz)
+  status_historisch: ehemals selbständig
+GUELTIG_AB: 1290
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Engelshof
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1404 ("Engelbrechtshofen")
+  ausstattung_historisch: selbständige Pfarrei
+  pfarrei_aufgelöst: 1485
+  pfarrei_zusammenlegung: mit Adelsried
+  erwerber: Kloster Heilig Kreuz (1485)
+GUELTIG_AB: 1404
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes Baptist
+QUELLE: https://www.adelsried.de/de/gemeinde/kirchen/katholische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  architekturstil: Barock
+  grundsteinlegung: 1733-07-27
+  lage: Zentrum des Dorfes auf kleinem Hügel, Kirchgasse 4
+  langhaus_länge: 34.10 [m]
+  kirchturm_höhe: 27.70 [m]
+  kirchturm_untergeschosse_alter: 16. Jahrhundert
+  renovierungen: 1887-88, 1947-48 (Innen), 1978, 1978-1986 (Gesamt), 1979 (Mauer), 1981 (Außen), 1985 (Innen), ab 2009
+GUELTIG_AB: 1733
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 294-adelsried/005
+ENTITÄT: kirche
+BEZEICHNUNG: Maria - Schutz der Reisenden (Autobahnkirche)
+QUELLE: https://www.adelsried.de/de/gemeinde/kirchen/autobahnkirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: BAB 8 München-Stuttgart
+  weihe: 1958-10-12
+  stifter: Georg und Marie Luise Haindl
+  architekt: Freiherr Raimund von Doblhoff (1914-1993)
+  erster_seelsorger: P. Gregor Max Ruf OP
+  planungszeit: 1955-1958
+  architektur_vorbild: gotische Wegekapelle
+  materialien: Holz, Ziegel, Beton, Glas
+  altarausstattung: gotisches Kruzifix 14. Jh., Korpus 3 m hoch
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/006
+ENTITÄT: kirche
+BEZEICHNUNG: Gnadenkirche (Evangelisch-Lutherische Kirche)
+QUELLE: https://www.adelsried.de/de/gemeinde/kirchen/evangelisch-lutherische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  adresse: Im Deutenloh 12
+  gründung: 1989
+  kirchengemeinde: Zusmarshausen - Adelsried - Dinkelscherben - Welden
+  gemeindeglieder_lokal: ca. 600
+  gemeindeglieder_gesamt: ca. 2700
+  zuwachs_jährlich: ca. 100
+  gebiet_fläche: ca. 600 [Quadratkilometer]
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolaus
+ORTSTEIL_BEZUG: Engelshof
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abgerissen: 1823
+  steine_wiederverwendung: Schulhausbau Adelsried
+GUELTIG_BIS: 1823
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/008
+ENTITÄT: infrastruktur_bahn
+BEZEICHNUNG: Weldenbahn
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/weldenbahn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge: 19 [km]
+  strecke: Oberhausen bis Welden
+  kosten: 1289600 [Mark]
+  gemeindebeitrag_adelsried: 4530 [Mark]
+  erdmassen: 52588 [cbm]
+  gleise: 18884 [m]
+  weichen: 25
+  arbeiter_durchschnitt: 224
+  baubeginn: 1902-03-01
+  eröffnung: 1903-12-05
+  stilllegung: 1986-10
+  beschreibung: "Motor im Holzwinkel", ermöglichte Ansiedlung und wirtschaftliches Wachstum
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1986
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 294-adelsried/009
+ENTITÄT: infrastruktur_radweg
+BEZEICHNUNG: Landrat Dr. Frey Radweg
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/weldenbahn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_auf: ehemalige Bahntrasse Weldenbahn
+  betreiber: Landkreis
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/010
+ENTITÄT: ereignis
+BEZEICHNUNG: Bombardierung Bahnhof Aystetten (Weldenbahn-Kontext)
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/weldenbahn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: II. Weltkrieg
+  bomben: 4
+  waggons_betroffen: 10
+  nahvolltreffer: 3
+  direkttreffer: 1
+  waggons_zerstört: 3
+  lokomotive_zerstört: ja
+  waggons_beschädigt: 7
+  tote: 40
+  folge_bahnbetrieb: Stilllegung
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 294-adelsried/011
+ENTITÄT: ereignis
+BEZEICHNUNG: Französische Invasion
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1796 (Samstag nach Maria Himmelfahrt, 7 Uhr abends)
+  truppenstärke: 8000-9000 [Mann]
+  auswirkungen: Schreckensherrschaft, Verstecken der Bevölkerung, mehrere hundert Brände
+  viehverlust_kloster: ca. 400 [Stück, 395 geschlachtet in 2 Tagen]
+  kirchenschändung: Monstranz gestohlen
+  opfer_namentlich: Aloys Strehle (Tavernwirt, gehängt 1796-08-22)
+GUELTIG_AB: 1796
+GUELTIG_BIS: 1796
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/012
+ENTITÄT: ereignis
+BEZEICHNUNG: Russische Besatzung
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1798-11-06 bis 1798-12-06
+GUELTIG_AB: 1798
+GUELTIG_BIS: 1798
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 294-adelsried/013
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter französischer Durchmarsch
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1800 (Fronleichnamstag)
+  schuldenfolge: 3000 [Gulden Gemeindeschuld]
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 294-adelsried/014
+ENTITÄT: schule
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/weldenbahn-1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwicklung_zeitraum: ca. 250 Jahre
+  schüler_anfangs: 70
+  schüler_1900: 120
+  klassenzimmer_anfangs: 1
+  klassenzimmer_später: 2, 3, 4, geplant 12
+  schulpflicht_einführung: Ende 18. Jahrhundert
+  schulverband: Adelsried-Bonstetten (gegründet 1969)
+  grundschule_neubau: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/015
+ENTITÄT: visitation_schulgebäude
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/weldenbahn-1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1889-01-04
+  inspector: Britzelmayer (Kreisschulinspektor)
+  visitationstermin: 1888-10-26
+  mängel: fehlende Fußleisten, fehlerhafte Fensterlücke, fehlende Vorhänge, beschädigtes Abtrittrohr, Wassereintritt in Keller
+GUELTIG_AB: 1889
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/016
+ENTITÄT: schulgebäude_erweiterung
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/weldenbahn-1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  antragsdatum: 1896-01-07
+  antragsteller: Bezirksamt Zusmarshausen
+  zielempfänger: Königliche Regierung von Schwaben und Neuburg
+  fertigstellung: 1896 (Herbst)
+  genehmigung_datum: 1895-11-17 (Gemeinderatsbeschluss)
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/017
+ENTITÄT: geografische_formation
+BEZEICHNUNG: Adelsrieder Becken
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Ausräumungslandschaft / Rodungsgebiet
+  entstehung: Ausräumungsvorgänge während der Kaltzeiten
+  charakteristik: von Wäldern umgeben, beckenförmig (oberflächlich), Hügelland im Inneren
+  untergrund: Sande der Oberen Süßwassermolasse
+  erhebungen: Hasenberg, Guggenbühel, Tannenlohe, Staufenberg (N), Axtesberg (W), Reitenberg (SO), Pfannenberg (S)
+  oberflächenmerkmale: Windkanter, Fließerdedecken, umgelagerte Gerölle
+  entwässerung: Laugna (südlich Autobahn)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/018
+ENTITÄT: tongruben
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hafnergehau und Reitenberg
+  material: Hafnererden (Gesteinsabrieb + Tone verwitterter Feldspäte)
+  eigenschaft_material: kalkfrei oder kalkarm
+  genese: Tertiär und Quartär
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 294-adelsried/019
+ENTITÄT: sage
+BEZEICHNUNG: Schlossgrube
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Schloss im Moor versunken, Hahnenruf noch Tage danach hörbar
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 294-adelsried/020
+ENTITÄT: sage
+BEZEICHNUNG: Schikuche / Schindküche
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ort zur Bestattung verendeter Tiere, dem Schinder übergeben
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 294-adelsried/021
+ENTITÄT: flurnamen_sammlung
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_flurnamen: 144
+  sammler: Friedrich Geiger
+  grundlage: Katastern, Heimatbuch Josef Gerstmayr 1929
+  erhaltene_straßennamen_daraus: Am Grundberg, Höllweg, Steigfeldstraße, Oberes Sandfeld, Deutenloh, Haldenweg
+  verwendung: genaue Lagebezeichnung nach Himmelsrichtung und Flurnummer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/022
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Miniatur-Landwirtschaft
+QUELLE: https://www.adelsried.de/de/leben/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Alois Wundlechner
+  material: Holz (Schnitzereien)
+  thema: Geräte und Gegenstände aus früherer Landwirtschaft
+  technik: aus Erinnerung ohne Plan oder Maßstabzeichnung
+  präsentation: "Tag des Dorfes" 2007
+  problem: Kein geeigneter Platz zur permanenten Ausstellung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 294-adelsried/023
+ENTITÄT: künstler
+BEZEICHNUNG: Hans Malzer
+QUELLE: https://www.adelsried.de/de/leben/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spezialisierung: Skulpturen und sakrale Kunst
+  verbreitung: Werke in jeder Holzwinkelgemeinde und darüber hinaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 294-adelsried/024
+ENTITÄT: infrastruktur_radweg
+BEZEICHNUNG: Holzwinkelradweg
+QUELLE: https://www.adelsried.de/de/leben/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: Adelsried - Welden - Emersacker
+  charakteristika: leicht abschüssig, steigungsfrei, gut ausgeschildert, geteert
+  fahrzeit_minimum: 2.5 [Stunden]
+  markierung: orange-farbige Schilder, Uhrzeigersinn
+  schwierigkeiten: Waldwirtschaftsweg Stättnerwald steil, Staatsstraße in Lauterbrunn/Heretsried erforderlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/025
+ENTITÄT: infrastruktur_radweg
+BEZEICHNUNG: Radwanderweg Neusäß - Welden
+QUELLE: https://www.adelsried.de/de/leben/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  streckenabschnitt_adelsried: zwischen Adelsried und Kruichen
+  eignung: besonders für kleine Kinder
+  schwierigkeit: keine Steigungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 294-adelsried/026
+ENTITÄT: person
+BEZEICHNUNG: Aloys Strehle
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Tavernwirt
+  aktion: Kritik am unmenschlichen Betragen der Franzosen
+  flucht: ja
+  tod: gehängt am 1796-08-22 nahe Engelshof
+  grund_tod: von Franzosen für Spion gehalten
+  verifikation: Sterberegister Pfarrei Adelsried
+GUELTIG_BIS: 1796
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/027
+ENTITÄT: person
+BEZEICHNUNG: Freiherr Raimund von Doblhoff
+QUELLE: https://www.adelsried.de/de/gemeinde/kirchen/autobahnkirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_tod: 1914-1993
+  beruf: Architekt
+  hauptwerk: Autobahnkirche Adelsried (Planung 1955-1958)
+  architekturansatz: Kombination traditioneller Materialien (Holz, Ziegel) mit modernen (Beton, Glas)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 294-adelsried/028
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Geiger
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivität: Heimatkundliche Forschung, Sammlung von Flurnamen und Hofnamen
+  sammlung_umfang: 144 Flurnamen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 294-adelsried/029
+ENTITÄT: person
+BEZEICHNUNG: Josef Gerstmayr
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Hauptlehrer
+  werk: Heimatbuch 1929
+  dokumentation: Flurnamen aus Adelsried und Kruichen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/030
+ENTITÄT: kloster
+BEZEICHNUNG: Benediktinerstift St. Ulrich und Afra
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ulrichsried
+  besitz_adelsried: ja
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 294-adelsried/031
+ENTITÄT: kloster
+BEZEICHNUNG: Augsburger Chorherrenstift Heilig Kreuz
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_ursprung: Vogtesweiler
+  ankauf_adelhartzried: 1309 (Güter Schrage von Knöringen)
+  ankauf_kruichen_engelshof: 1485
+  grundherrenschaft: 1621-1803
+  säkularisation: 1803
+  viehbestand_1796: ca. 400 [Stück, davon 395 geschlachtet]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 294-adelsried/032
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Schrage von Knöringen
+QUELLE: https://www.adelsried.de/de/gemeinde/geschichte/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Emersacker
+  rolle: Lehensträger von Bischöflichen Gütern
+  güterverkauf: 1309 an Chorherrenstift Heilig Kreuz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

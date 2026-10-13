@@ -1,0 +1,267 @@
+ENTITÄT: ort
+BEZEICHNUNG: Kissing
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/das-kissing-der-augsburger-bischoefe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lehnsherrschaft: Hochstift Augsburg (ab 1447)
+  grundherr: Hans Meuting (ab 1447)
+  blutgerichtshoheit: Haus Wittelsbach (ab Mittelalter)
+  niedergerichtsbarkeit: Hochstift Augsburg (ab 1447)
+GUELTIG_AB: 1447
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hans Meuting (der Ältere)
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/das-kissing-der-augsburger-bischoefe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Dorfrichter von Kissing (auf Lebenszeit verliehen)
+  herkunft_funktion: Beliehener des Bischofs von Augsburg
+  grundherrschaft_gebiete: Kissing, Neuhaus, Mergenthau
+  erwerbsmodus: Kauf vom Bischof (das Dorf Kissing mit Neuhaus und Mühlrecht)
+GUELTIG_AB: 1447
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter
+ORTSTEIL_BEZUG: Petersberg
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/kissing-und-seine-erste-urkundliche-erwaehnung/kirchengeschichte-und-ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: Gründungskirche von Kissing
+  patrozinium: Petrus
+  funktion_geschichte: ursprüngliche Pfarrkirche, später verdrängt von St. Stephan
+  archäologie: unterirdische Gänge und Kammern unter dem Petersberg deuten auf vorchristliche Besiedelung
+GUELTIG_AB: 8
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephan
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/kirchen-in-kissing-die-augsburger-bischoefe-und-die-kirche-st-stephan | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_datum: um 1200
+  architekturstil_original: romanisch
+  bautyp: Wehrkirche
+  mauern: sehr hoch, mit Lichtschlitzen und Schießfenstern
+  zerstörung: Ende 13. Jahrhundert oder 14. Jahrhundert (bairisch-augsburgische Fehde)
+  wiederaufbau: um 1400
+  architekturstil_wiederaufbau: gotisch
+  besonderheit: Wehrgänge aus Holz
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Veste Mergenthau
+ORTSTEIL_BEZUG: Mergenthau
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/das-kissing-der-augsburger-bischoefe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft: bischöfliche Burg
+  zerstörungen: 1296, 1372 (in Schutt und Asche gelegt)
+  grund_zerstörung: bairisch-augsburgische Fehden
+GUELTIG_AB: 1200
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: konflikt
+BEZEICHNUNG: Bairisch-augsburgische Fehden
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/kissing-zwischen-augsburg-und-baiern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  parteien: Haus Wittelsbach (Bayern) und Hochstift Augsburg
+  zeitraum: Mittelalter bis 16. Jahrhundert
+  ereignis_1296: Überfall auf Friedberg durch Augsburger; Zerstörung Mergenthau
+  ereignis_1367_74: Krieg zwischen Bayern und Augsburg; Dorf Kissing niedergebrannt
+  ereignis_1372: Mergenthau zerstört
+  konfliktursachen: gegenseitige Territorialansprüche und Vogteirechte
+GUELTIG_AB: 1131
+GUELTIG_BIS: 1571
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: vertrag
+BEZEICHNUNG: Vertrag zwischen Herzogtum Bayern und Hochstift Augsburg
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/kissing-zwischen-augsburg-und-baiern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1571
+  inhalt: Abgrenzung der gegenseitigen Zuständigkeiten in juristischer und richterlicher Hinsicht
+  regelung_hohegerichtsbarkeit: Bayern erhält endgültig die Halsgerichtsbarkeit
+  unterstellung_bauern: bayerischer Herzog erhält Musterungsrecht
+GUELTIG_AB: 1571
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Matthaeus Clostermayr (Bayerischer Hiasl)
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/kissing-und-sein-beruehmter-und-umstrittener-held-der-deutsche-robin-hood | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1736
+  geburtsort: Kissing
+  beruf: Wildschütze, Räuber
+  tätigkeitsgebiet: Wälder am Lech südlich von Augsburg
+  partnerschaft: Monika Baumiller
+  kind: Sohn Korbinian
+  beschäftigung: Jagdgehilfe auf Schloss Mergenthau
+  grund_verlust_arbeit: Verspottung eines Paters (Katzenschütze)
+  todesart: Hinrichtung mit Rad, Enthauptung, Zerteilung
+  straftaten_anklagen: vielfältige Wilddiebereien, öffentliche Gewalttaten, Landesfriedbrüche, Raub, Totschläge (neun Totschläge)
+  festnahme_datum: 14. Januar 1770 (Wirtshaus Osterzell)
+  hinrichtung_datum: 6. September 1771
+  hinrichtung_ort: Dillingen
+  legend_aspekt: "Deutscher Robin Hood", Helfer der Armen, Wilderer-König
+  sozialer_kontext: bekämpfte Wildplage, unterstützt von Kleinbauern, wohlgesonnen durch Dorfgeistlichkeit
+GUELTIG_AB: 1736
+GUELTIG_BIS: 1771
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Burgstallkapelle (Marienkapelle, Kapelle der Schmerzhaften Muttergottes)
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/das-kissing-der-jesuiten/das-grosse-erbe-der-jesuiten-in-kissing-die-burgstallkapelle | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 1681
+  weihe_datum: 26. September 1685
+  bauherren: Jesuiten
+  patrozinium: Schmerzhaften Muttergottes
+  architekturstil: Barock
+  grundriss: griechisches Kreuz
+  besonderheit_architektur: Kreuz-Kuppel-Komposition, achteckiger Unterbau mit Kuppel und Laterne
+  lage: Burgstallhügel (künstliche Anhöhe, ehemaliger Burgstandort)
+  funktion_geschichte: Wallfahrtsort
+  restaurierung_1872: purifizierenden Restaurierung (alte Barock-Madonna entfernt)
+  sanierung_1982_1984: vollständig restauriert
+  wiederherstellung_fassade: 2017 (ursprüngliche Ockerfarbe statt Blau)
+  wallfahrtstradition_modern: Gelübdeprozessionen seit 1945 (auf Initiative Dr. Josef Zimmermann)
+GUELTIG_AB: 1685
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Josef Zimmermann
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/das-kissing-der-jesuiten/das-grosse-erbe-der-jesuiten-in-kissing-die-burgstallkapelle | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Pfarrer in Kissing, später Weihbischof von Augsburg
+  dienstzeit_kissing: 1941–1946
+  funktion_weihbischof: 1953–1976
+  ehrentitel: Ehrenbürger von Kissing (1952)
+  grund_ehrentitel: mutiges Eintreten für die Gemeinde beim Einmarsch der amerikanischen Truppen im April 1945
+  handlung_1945: Überzeugung der SS, Kissing nicht zu zerstören; Läuten der Glocke als Signal
+  begründung_wallfahrt: Gelübdeprozessionen zum Burgstall seit 1945 (am 13. Mai, Juni, Juli, August, September, Oktober)
+GUELTIG_AB: 1941
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Monika Baumiller
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/kissing-und-sein-beruehmter-und-umstrittener-held-der-deutsche-robin-hood/der-hiasl-sein-leben-seine-legende-fakten-selbstinszenierung-fremdstilisierung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Tochter des Seheransenbauern Baumiller
+  beziehung_zu: Matthaeus Clostermayr (Hiasl)
+  beruf_kontext: Bauersfamilie
+  kind: Sohn Korbinian (unehelich mit Hiasl)
+  dokumentation: Taufeintrag im Kissinger Kirchenbuch
+  legende: Modell für "Maid Marian" (Robin-Hood-Parallele)
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Gelübdeprozessionen zur Burgstallkapelle
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/das-kissing-der-jesuiten/das-grosse-erbe-der-jesuiten-in-kissing-die-burgstallkapelle | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1945
+  initiator: Dr. Josef Zimmermann
+  rhythmus: monatlich (Mai bis Oktober)
+  daten: 13. Mai, 13. Juni, 13. Juli, 13. August, 13. September, 13. Oktober
+  bezug: Fátima-Erscheinungen (1917)
+  gelübde_dauer: 100 Jahre (1945–2045)
+  modernes_format: Lichterprozessionen
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mergenthau
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/kissing-und-sein-beruehmter-und-umstrittener-held-der-deutsche-robin-hood | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_zu_kissing: nördlich
+  besonderheit: Wald ("Hiaslweg")
+  geschichte: Standort der Veste Mergenthau (bischöfliche Burg), Schloss Mergenthau (Jesuitensitz)
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: reformation_ereignis
+BEZEICHNUNG: Reformation und ihre Auswirkungen auf Kissing
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/augsburg-kissing-und-die-reformation | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 16. Jahrhundert
+  auswirkungen_kissing: Kissing blieb katholisch, keine Verwüstungen wie in Augsburg
+  folge_kissing_status: Bündnis zwischen Hochstift Augsburg und Haus Bayern (beide katholisch)
+  stabilisierung: Status quo wurde tragfähig trotz rechtlicher Widersprüchlichkeiten
+GUELTIG_AB: 1520
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Alte Schule
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/kissing-und-sein-beruehmter-und-umstrittener-held-der-deutsche-robin-hood | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Bachernstraße
+  besonderheit: Hiasldenkmal (errichtet 1986) vor dem Gebäude
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Hiasldenkmal
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/kissing-und-sein-beruehmter-und-umstrittener-held-der-deutsche-robin-hood | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1986
+  lage: vor der Alten Schule, Bachernstraße
+  anlass: 250. Geburtstag des Bayerischen Hiasl
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Historischer Förderverein "Bayerischer Hiasl" Kissing e.V.
+QUELLE: https://www.kissing.de/leben-wohnen/ortsgeschichte/kissing-und-sein-beruehmter-und-umstrittener-held-der-deutsche-robin-hood | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1997
+  aktivitäten: Hiasl-Wanderweg, Geschichtsforschung
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

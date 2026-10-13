@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "310-geisingen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 10791,
+ "token_ein": 245034,
+ "token_aus": 5941,
+ "usage": {
+  "input_tokens": 16,
+  "cache_creation_input_tokens": 31485,
+  "cache_read_input_tokens": 213533,
+  "output_tokens": 5941,
+  "output_tokens_details": {
+   "thinking_tokens": 2676
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 31485,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 2745,
+    "cache_read_input_tokens": 36500,
+    "cache_creation_input_tokens": 1887,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1887
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.6898156000000001,
+ "sekunden": 95,
+ "fehler": false,
+ "zeit": "2026-10-14T00:30:17"
+}

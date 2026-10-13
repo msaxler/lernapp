@@ -1,0 +1,484 @@
+ID: 280-eislingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/de/Leben-in-Eislingen/Unsere-Stadt/Zahlen-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  regierungsbezirk: Stuttgart
+  landkreis: Göppingen
+  fläche: 16,4 [Quadratkilometer]
+  postleitzahl: 73054
+  vorwahl: 07161
+  gemeindeschlüssel: 08 11 70 19
+  website: www.eislingen.de
+  höhe_stadtmitte: 336 [Meter über Meeresspiegel]
+  höchster_punkt: 480 [Meter, Hof Etzberg]
+  tiefster_punkt: 320 [Meter, westliche Markungsgrenze]
+  geografische_länge: 9°42' östlich
+  geografische_breite: 48°42' nördlich
+  einwohner_gesamt: 22132
+  einwohner_maennlich: 11015
+  einwohner_weiblich: 11117
+  einwohner_auslaendisch: 5688
+  oberbuergermeister: Oliver Marzian
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 280-eislingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Eislingen
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung: Isininga
+  urkundliche_ersterwähnung_jahr: 861
+  urkundliche_quelle: Stiftungsurkunde des Klosters Wiesenstein
+  gehört_zu: alte Urmarkungen des Filstals
+  erste_besiedlung_epoche: Alemannische Einwanderung im frühen Mittelalter
+  markungsgröße: 1642 [Hektar]
+  besiedlung_roman: um 125 nach Christus, Römisches Kastel, Verlegung Limes um 159 nach Christus
+  besiedlung_alemannisch_spuren: um 500 nach Christus
+  stadt_status_seit: 24.09.1933
+  gründung_grund: Vereinigung von Großeislingen (Nordstadt) und Kleineislingen (Südstadt)
+GUELTIG_AB: 500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 280-eislingen/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Krummwälden
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung_jahr: 1275
+  verbundung_mit_eislingen: oft mit Entwicklung von Eislingen verbunden
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 280-eislingen/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Großeislingen
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historischer_status: Dorf
+  status_bis_1933: Großeislingen
+  neuer_name_ab_1933: Eislingen Nord (Nordstadt)
+  herrschaft_bis_1803: zu zwei Dritteln unter Würzburg, zu einem Drittel unter Württemberg
+  herbschaft_vor_1803: mehrfach wechselnde und aufteilende Herrschaften
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 280-eislingen/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kleineislingen
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historischer_status: Dorf
+  status_bis_1933: Kleineislingen
+  neuer_name_ab_1933: Eislingen Süd (Südstadt)
+  herrschaft_ab_1492: Württemberg
+  zustand_heute: nahezu spurlos verschwunden
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 280-eislingen/006
+ENTITÄT: hoffsiedlung
+BEZEICHNUNG: Etzberg
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_hoehe: 480 [Meter über Meeresspiegel, höchster Punkt der Markung]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 280-eislingen/007
+ENTITÄT: hoffsiedlung
+BEZEICHNUNG: Stumpenhof
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 280-eislingen/008
+ENTITÄT: hoffsiedlung
+BEZEICHNUNG: Näherhof
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 280-eislingen/009
+ENTITÄT: weiler
+BEZEICHNUNG: Eschenbäche
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 280-eislingen/010
+ENTITÄT: roemisches_kastel
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: um 125 nach Christus
+  lage: heutiges Eislingen
+  bestand_bis: ca. 159 nach Christus (Verlegung des Limes ins Remstal)
+  genauigkeit_name_garnison: unbekannt
+  moegliche_funktion: markierte die Grenze der römischen Provinzen Raetien und Obergermanien
+GUELTIG_AB: 125
+GUELTIG_BIS: 159
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 280-eislingen/011
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  adresse: Königstraße 17, 73054 Eislingen
+  gemeinde: Evangelische Kirchengemeinde Eislingen-Ottenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 280-eislingen/012
+ENTITÄT: kirche
+BEZEICHNUNG: Lutherkirche
+ORTSTEIL_BEZUG: Eislingen Süd
+QUELLE: https://www.eislingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  adresse: Schulstraße 25, 73054 Eislingen
+  gemeinde: Evangelische Kirchengemeinde Eislingen-Ottenbach
+  historischer_bezug: im alten Dorf Kleineislingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 280-eislingen/013
+ENTITÄT: kirche
+BEZEICHNUNG: Sankt Markus-Kirche
+ORTSTEIL_BEZUG: Eislingen Nord
+QUELLE: https://www.eislingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Kirchstraße 33, 73054 Eislingen
+  gemeinde: Katholische Kirchengemeinde St. Markus-Liebfrauen
+  superlativ: ältester Kirchplatz der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 280-eislingen/014
+ENTITÄT: kirche
+BEZEICHNUNG: Liebfrauenkirche
+ORTSTEIL_BEZUG: Eislingen Nord
+QUELLE: https://www.eislingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Eberhardstraße 30, 73054 Eislingen
+  gemeinde: Katholische Kirchengemeinde St. Markus-Liebfrauen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 280-eislingen/015
+ENTITÄT: kapelle
+BEZEICHNUNG: Sankt Anna-Kapelle
+ORTSTEIL_BEZUG: Eislingen Nord
+QUELLE: https://www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Salacher Straße, 73054 Eislingen
+  erbaut: Ende 15. Jahrhundert
+  superlativ: ältestes Gebäude auf Eislinger Markung
+  zustand: äußerlich nahezu unverändert bis heute
+GUELTIG_AB: 1475
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 280-eislingen/016
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schloss
+ORTSTEIL_BEZUG: Eislingen Nord
+QUELLE: https://www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schlossplatz, 73054 Eislingen
+  charakterisierung: herrschaftliches Äußeres prägt Stadtbild
+  funktion_historisch_1: Sommerresidenz für Adel
+  funktion_historisch_2: Bürogebäude
+  funktion_aktuell: Stadtbücherei
+  umnutzung_zur_buecherei_jahr: 1989
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 280-eislingen/017
+ENTITÄT: seilbahn
+ORTSTEIL_BEZUG: Eislingen Nord
+QUELLE: https://www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Schlossstraße
+  betreiber: Unternehmen Zeller+Gmelin
+  inbetriebnahme: 1916
+  laenge: 1350 [Meter]
+  zweck: Transport von Schiefer zur Ölgewinnung
+  kontext: Schmierstoffe knapp und teuer während Ersten Weltkriegs
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 280-eislingen/018
+ENTITÄT: industrie_betrieb
+BEZEICHNUNG: Textilfabrik Jung & Sixt
+ORTSTEIL_BEZUG: Eislingen Süd
+QUELLE: https://www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Mühlbachstraße (heute Firma Mahle-Süko)
+  gruender: Wilhelm Jung
+  grundung_jahr: 1846
+  ausgangsanlage: Wassermühle an der Fils
+  umfunktionierung: Baumwollweberei
+  bedeutung: einer der ersten Industriebetriebe Eislingens
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 280-eislingen/019
+ENTITÄT: bruecke
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Bahnhofstraße
+  eroeffnung: 1950
+  benennung_durch: Bürgermeister Erwin Maier
+  name: Die Brücke des guten Einvernehmens
+  bedeutung: Zusammenwachsen des katholischen Nordens und evangelischen Südens zu gemeinsamer Stadt
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 280-eislingen/020
+ENTITÄT: muehle
+BEZEICHNUNG: Obere Mühle
+ORTSTEIL_BEZUG: Eislingen Nord
+QUELLE: https://www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Mühlesgässle
+  zeitraum_nutzung: Mittelalter bis Industrialisierung 19. Jahrhundert
+  funktion_1: Energiequelle für Handwerksbetriebe
+  funktion_2: beschreibung: "möglicherweise auch spirituelle/religiöse Bedeutung für Seelenheil nach dem Tod"
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 280-eislingen/021
+ENTITÄT: gasthaus
+BEZEICHNUNG: Adler
+ORTSTEIL_BEZUG: Eislingen Nord
+QUELLE: https://www.eislichen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hauptstraße
+  betrieb: Bierbrauerei
+  funktion_gesellschaftlich: Zentrum gesellschaftlichen und politischen Lebens
+  besonderheit: Adler-Saal als Mittelpunkt des Geschehens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 280-eislingen/022
+ENTITÄT: buergermeister
+BEZEICHNUNG: Erwin Maier
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Bürgermeister
+GUELTIG_AB: 1948
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 280-eislingen/023
+ENTITÄT: buergermeister
+BEZEICHNUNG: Oliver Marzian
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/de/Leben-in-Eislingen/Unsere-Stadt/Zahlen-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Oberbürgermeister
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 280-eislingen/024
+ENTITÄT: pfarrer
+BEZEICHNUNG: Ursula Pelkner
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Pfarrerin
+  kirche: Christuskirche
+  gemeinde: Evangelische Kirchengemeinde Eislingen-Ottenbach
+  funktion: Geschäftsführung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 280-eislingen/025
+ENTITÄT: pfarrer
+BEZEICHNUNG: Rainer Kittel
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Pfarrer
+  kirche: Christuskirche
+  gemeinde: Evangelische Kirchengemeinde Eislingen-Ottenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 280-eislingen/026
+ENTITÄT: pfarrer
+BEZEICHNUNG: Julia Glock
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Pfarrerin
+  kirche: Lutherkirche
+  gemeinde: Evangelische Kirchengemeinde Eislingen-Ottenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 280-eislingen/027
+ENTITÄT: pfarrer
+BEZEICHNUNG: Ambros Tungel
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Pfarrer
+  kirchen: Sankt Markus-Kirche, Liebfrauenkirche
+  gemeinde: Katholische Kirchengemeinde St. Markus-Liebfrauen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 280-eislingen/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ernst Mühlhäuser
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Fotograf
+  herkunft: Eislingen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 280-eislingen/029
+ENTITÄT: sprache
+BEZEICHNUNG: Eislinger Manisch
+ORTSTEIL_BEZUG: Eislingen Süd
+QUELLE: https://www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_verbreitung: 1945-1955
+  sprachgruppe: junge Generation
+  verstaendnis: nur von Einheimischen verstanden
+  etymologie_hinweis: Name deutet auf Nähe zur Sprache der Sinti und Roma hin
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 280-eislingen/030
+ENTITÄT: ereignis
+BEZEICHNUNG: Vereinigung Großeislingens und Kleineislingens
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 24.09.1933
+  teil_1: Großeislingen (zukünftig Nordstadt)
+  teil_2: Kleineislingen (zukünftig Südstadt)
+  folge: Erhebung zur Stadt Eislingen/Fils
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 280-eislingen/031
+ENTITÄT: ereignis
+BEZEICHNUNG: Einmarsch amerikanischer Soldaten
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 20.04.1945
+  kontext: Ende der NS-Herrschaft
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 280-eislingen/032
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Ort der Vielfalt
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung_jahr: 2010
+  grund: erfolgreiches Konzept zur Integration
+  kontext: Bürger aus mehr als 80 Nationen leben und arbeiten in Eislingen
+  integrationsausschuss: vertritt Interessen der Bürger ausländischer Herkunft
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 280-eislingen/033
+ENTITÄT: verkehrstrasse
+BEZEICHNUNG: Filstalbahn
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: Stuttgart durch das Filstal nach Ulm
+  auswirkung_auf_eislingen: Aufcschwung in der Industrialisierung in der Neuzeit
+  effekt_transport: Kürzere Zeiten für Rohstoffe und fertige Waren
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 280-eislingen/034
+ENTITÄT: historisches_dokument
+BEZEICHNUNG: Filstalpanorama
+ORTSTEIL_BEZUG: Eislingen/Fils
+QUELLE: https://www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Karte
+  zeitraum: um 1535
+  inhalt_bedeutung: erster Nachweis von Weinkelterung in Großeislingen seit frühem Mittelalter
+GUELTIG_AB: 1535
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 280-eislingen/035
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Kleineislingens
+ORTSTEIL_BEZUG: Eislingen Süd
+QUELLE: https://www.eislingen.de/de/Leben-in-Eislingen/Unsere-Stadt/Zahlen-Fakten/Wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In Blau schräg-gekreuzt eine silberne (Streit-)Gabel und ein gestürztes silbernes Schwert
+  herkunft: Familie Wernzhäuser (abgewandelt)
+  archiv_empfehlung_jahr: 1912
+  offizielle_annahme_jahr: 1929
+  fehler_1930: um 90° gedreht in Gemeindesiegeln des Jahres 1930
+  anmerkung: keine älteren Wappenvarianten bekannt, kein Wappen vorhanden 1535
+GUELTIG_AB: 1929
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 280-eislingen/036
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Großeislingens
+ORTSTEIL_BEZUG: Eislingen Nord
+QUELLE: https://www.eislingen.de/de/Leben-in-Eislingen/Unsere-Stadt/Zahlen-Fakten/Wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Von Silber und Blau geviert, in den oberen Feldern eine liegende schwarze Hirschstange
+  annahme_datum: 04.10.1906
+  symbolik_vierung: erinnert an einstige würzburgische Lehenherrschaft
+  symbolik_hirschstange: deutet auf einstigen württembergischen Anteil an Großeislingen
+  fehler: Silber-blaue statt Silber-rote Vierung gegenüber Würzburger Wappen
+  uebernahme_1933: von neuer Gemeinde Eislingen übernommen nach Zusammenlegung
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

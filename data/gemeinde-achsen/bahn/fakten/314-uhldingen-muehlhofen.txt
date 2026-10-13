@@ -1,0 +1,162 @@
+ID: 314-uhldingen-muehlhofen/001
+ENTITÄT: kirche
+BEZEICHNUNG: Basilika Birnau
+ORTSTEIL_BEZUG: Birnau-Maurach
+QUELLE: https://www.uhldingen-muehlhofen.de/de/Freizeit-Kultur/Historische-Kirchenbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1746-1750
+  baustil: Barock mit Rokoko-Ausstattung
+  baumeister: Peter Thumb (Voralberger)
+  ausstattung_kuenstler: Joseph Anton Feuchtmayer, Gottfried Bernhard Göz
+  lage: über dem Bodensee
+  chor_ausrichtung: Nord
+  status: Basilika minor
+  status_erhoben_von: Papst Paul VI.
+  superlativ: schönste und beeindruckendste Kirche am Bodensee
+GUELTIG_AB: 1746
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 314-uhldingen-muehlhofen/002
+ENTITÄT: kapelle
+BEZEICHNUNG: Marienkapelle Alt-Birnau
+ORTSTEIL_BEZUG: Nußdorf
+QUELLE: https://www.uhldingen-muehlhofen.de/de/Freizeit-Kultur/Historische-Kirchenbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundlich_bezeugt_ab: 1222
+  funktion: Wallfahrtsstätte
+  benannt_nach: Maria
+  grund_verlegung: Konflikte zwischen Stadt Überlingen und Kloster Salem um Gaststättenbetrieb und Neubauten
+GUELTIG_AB: 1222
+GUELTIG_BIS: 1746
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 314-uhldingen-muehlhofen/003
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Martin
+ORTSTEIL_BEZUG: Seefelden
+QUELLE: https://www.uhldingen-muehlhofen.de/de/Freizeit-Kultur/Historische-Kirchenbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundlich_erwähnt_ab: 1165
+  superlativ: gehört zu den ältesten Kirchen im Linzgau
+  bauzeit_langhaus_chor: 15. Jahrhundert
+  kirchturm_alter: älter als Langhaus und Chor
+  ehemaliger_pfarrbereich: Nußdorf, Deisendorf, Tüfingen, Mimmenhausen, Baitenhausen, Grasbeuren, Riedetsweiler, Meersburg, Stetten
+  vermutung_grund: möglicherweise Vorgängerbauten, Michaelskapelle im Turm nicht belegbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 314-uhldingen-muehlhofen/004
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Nikolaus Kapelle
+ORTSTEIL_BEZUG: Gebhardsweiler
+QUELLE: https://www.uhldingen-muehlhofen.de/de/Freizeit-Kultur/Historische-Kirchenbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1719
+  erbaut_von: Abt Stephan I. Jung von Salem
+  dimension_laenge: 49 Fuß
+  dimension_breite: 20 Fuß
+  dimension_hoehe: 17,5 Fuß
+  altar_darstellung: Maria auf Wolken mit Rosenkranz, heiliger Franziskus, heiliger Dominikus
+  altar_seitendarstellungen: heiliger Bischof Martin, heiliger Bischof Nikolaus
+  geheimnis_des_rosenkranzes: bildlich dargestellt in Tafeln
+GUELTIG_AB: 1719
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 314-uhldingen-muehlhofen/005
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Quirinius-Kapelle
+ORTSTEIL_BEZUG: Unteruhldingen
+QUELLE: https://www.uhldingen-muehlhofen.de/de/Freizeit-Kultur/Historische-Kirchenbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1505
+  baustil: Spätgotik
+  altar_oberer_aufbau: heilige Dreifaltigkeit
+  altar_gehsims_links: heilige Katharina von Alexandrien
+  altar_gehsims_rechts: heilige Agatha
+  altar_nische_original: Madonna in barocken Gewändern
+  altar_nische_aktuell: gekrönte Marienfigur
+  marienfigur_stifter: Katholische Frauengemeinschaft
+  marienfigur_stiftung_jahr: 1984
+GUELTIG_AB: 1505
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 314-uhldingen-muehlhofen/006
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Wolfgang-Kapelle
+ORTSTEIL_BEZUG: Oberuhldingen
+QUELLE: https://www.uhldingen-muehlhofen.de/de/Freizeit-Kultur/Historische-Kirchenbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit_ursprung: 16. Jahrhundert
+  bauzeit_ausstattung: um 1711
+  ausgestattet_von: Abt Stephan I. Jung
+  baustil_ausstattung: Barock
+  geweiht_fuer: heiliger Wolfgang von Regensburg
+  raum_bedeutung: prägt Ortskern von Oberuhldingen
+  schutzstatus: denkmalgeschützt
+  beschreibung: eines der wenigen denkmalgeschützten Gebäude in der Gemeinde
+  altarbild_thema: heiliger Josef erbittet Segen Gottes durch Maria für Reichsstift Salem
+  altarbild_unterteil: Ansicht Kloster Salem
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 314-uhldingen-muehlhofen/007
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Maurach
+ORTSTEIL_BEZUG: Birnau-Maurach
+QUELLE: https://www.uhldingen-muehlhofen.de/de/Freizeit-Kultur/Historische-Kirchenbauten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: Barock
+  ursprungsfunktion: Wirtschaftsgebäude und Hafen des Klosters Salem
+  funktion_aebte: Sommersitz
+  aktuelle_funktion: Tagungszentrum
+  lage: unterhalb der Basilika Birnau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 314-uhldingen-muehlhofen/008
+ENTITÄT: gemeindeverwaltungsverband
+BEZEICHNUNG: Gemeindeverwaltungsverband Meersburg
+QUELLE: https://www.uhldingen-muehlhofen.de/de/Wirtschaft-Bauen/GVV | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rechtsform: Körperschaft des öffentlichen Rechts
+  typ: freiwilliger Zusammenschluss
+  mitglieder: Stadt Meersburg, Gemeinde Daisendorf, Gemeinde Hagnau am Bodensee, Gemeinde Stetten, Gemeinde Uhldingen-Mühlhofen
+  region: Bodenseekreis
+  bundesland: Baden-Württemberg
+  aufgaben: Untere Baurechtsbehörde, Untere Denkmalschutzbehörde, Gaststätten- und Gewerberecht
+  sitz_geschaeftsstelle: Meersburger Rathaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 314-uhldingen-muehlhofen/009
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Breitbandnetzausbau GVV Meersburg
+QUELLE: https://www.uhldingen-muehlhofen.de/de/Wirtschaft-Bauen/GVV | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projektbeteiligte: TeleData, Stadtwerke am See, Gemeindeverwaltungsverband Meersburg
+  gemeinden_betroffen: Uhldingen-Mühlhofen, Meersburg, Stetten, Hagnau
+  technologie: Glasfasertechnologie, FTTC, FTTB
+  foerderprogramm: Breitbandinitiative II Baden-Württemberg
+  foerderprogramm_start: 2012
+  ziel: Unterversorgung abbauen, weisse Flecken versorgen
+  schwellenwert_privat_alt: 2 MBit/s
+  schwellenwert_privat_neu: 30 MBit/s
+  schwellenwert_gewerbe_alt: 25 MBit/s
+  schwellenwert_gewerbe_neu: 50 MBit/s
+  bauabschnitt_1_zeitraum: 2016-02 bis 2016-08
+  bauabschnitt_1_kostenbudget: ca. 2 Mio. Euro
+  bauabschnitt_1_foerdersumme: ca. 1,1 Mio. Euro
+  bauabschnitt_1_gebiete_uhldingen: Unteruhldingen, Oberuhldingen südlich
+  bauabschnitt_2_gebiete_uhldingen: Oberuhldingen nördlich, Mühlhofen
+  bauabschnitt_2_bauzeit_geplant: 2017-02 bis 2017-06
+  telekom_parallelmassnahme_jahresende: 2016
+  telekom_zielgeschwindigkeit: bis zu 100 MBit/s
+  telekom_uhldingen_muehlhofen: kein Ausbau
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

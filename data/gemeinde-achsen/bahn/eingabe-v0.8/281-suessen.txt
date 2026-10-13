@@ -1,0 +1,575 @@
+ZIELORT: Süßen (Stadt)
+LAGE: 36 km nordwestlich von Ulm (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Süßen
+
+GRUNDDATEN:
+  landkreis: Göppingen  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 10.115  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 12,79  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 791  [berechnet aus Einwohner und Fläche]
+  kfz: GP (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 364 | 361  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2824545)]
+  naechste_grossstadt: Ulm, 36 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 44 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Süßen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 73079  [Wikidata P281]
+  vorwahl: 07162  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,2 %, AfD 24,5 %, SPD 15 %, GRÜNE 8,7 %, FDP 6 %, Die Linke 5,7 %; Wahlbeteiligung 83,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Marc Kersting (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Törökbálint  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Eislingen/Fils (Stadt)
+  landkreis: Göppingen  [dewiki Infobox]
+  einwohner: 22.168  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 16,41  [Wikidata P2046; Altbestand staedte.json]
+  kfz: GP (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 336 | 338  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2931414)]
+  naechste_grossstadt: Ulm, 39 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Eislingen (Fils)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30,1 %, AfD 27,2 %, SPD 14,5 %, GRÜNE 7,2 %, Die Linke 5,9 %, BSW 5,3 %, FDP 5,2 %; Wahlbeteiligung 78,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Süßen):
+ID: 281-suessen/001
+ENTITÄT: ort
+BEZEICHNUNG: Süßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: leitet sich aus "Siezun" her, das auf althochdeutsch "siaza" oder "sioza" zurückgeht und ein Waldgrundstück oder Rinderweideplatz am Wald bezeichnet
+  erste_nennung: 1071
+  erste_nennung_quelle: Urkunde des Klosters Lorsch
+  status_ab_1996: Stadt
+  vereinigung_grosssuessen_kleinsuessen: 1933
+  landkreis_seit: 1938 Landkreis Göppingen
+  jubilaeum_erste_nennung: 950 Jahre, gefeiert 2021
+  jubilaeum_stadterhebung: 25 Jahre, gefeiert 2021
+  einwohner_1981: über 8.300
+  einwohner_1996: 10.300
+  arbeitsplaetze_1981: rund 5.000
+  arbeitsplaetze_1996: 5.000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/002
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Großsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verpfaendung_an_ulm: 1382 durch Grafen von Helfenstein
+  gaenzer_uebergang_zu_ulm: 1396
+  zerstoerung_schwäbischer_städtekrieg: 1449 durch Graf Ulrich v. Württemberg
+  reformation_einfuehrung: 1535
+  pest_tote_1596: 158
+  pest_weitere_epidemien: 1607, 1627
+  kirche_schenkunng: 1267 Kirche geschenkt an Prämonstratensekloster Adelberg
+  brand: 1707 zwei Drittel zerstört, 16. Juli, französische Truppen, Spanischer Erbfolgekrieg
+  bayrisch_seit: 1802
+  württembergisch_seit: 1810
+  oberamt: Geislingen (bis 1938)
+  erste_fabrik: 1830, Bandfabrik
+  vereinigung_mit_kleinsuessen: 1933
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/003
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Kleinsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  herren_von_bubenhofen_ab: Mitte 16. Jahrhundert
+  marienkirche_erhoebung: 1493 zur Pfarrkirche
+  marienkirche_rechte_uebernahme: 1493 Rechte der einstigen Hürbelsbacher Pfarrkirche
+  pappenheimer_erbschaft: 1553 Herren von Bubenhofen erben Kleinsüßener Besitz
+  eisenbahn_ankunft: 1847 Eisenbahnlinie Stuttgart - Ulm, Bahnhof in Kleinsüßen
+  nebenbahn: 1901 Süßen - Weißenstein
+  württembergisch_seit: 1806
+  vereinigung_mit_grosssuessen: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/004
+ENTITÄT: person
+BEZEICHNUNG: Johann Georg Fischer
+ORTSTEIL_BEZUG: Großsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Dichter und Lehrer
+  geburt: 25. Oktober 1816
+  tod: 4. Mai 1897
+GUELTIG_AB: 1816
+GUELTIG_BIS: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/005
+ENTITÄT: person
+BEZEICHNUNG: Valentin Feinstlin
+ORTSTEIL_BEZUG: Großsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Schulmeister
+  strafe: Verurteilung und Hinrichtung
+  grund: Brandstiftung
+GUELTIG_AB: 1552
+GUELTIG_BIS: 1552
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/006
+ENTITÄT: person
+BEZEICHNUNG: Katharina Ruess
+ORTSTEIL_BEZUG: Großsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strafe: Enthauptung und Verbrennung in Ulm
+  grund: Hexenwahn
+GUELTIG_AB: 1613
+GUELTIG_BIS: 1613
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/007
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Brand von Großsüßen im Spanischen Erbfolgekrieg
+ORTSTEIL_BEZUG: Großsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 16. Juli 1707
+  grund: französische Soldaten zogen durch den Ort
+  umfang: zwei Drittel von Großsüßen
+GUELTIG_AB: 1707
+GUELTIG_BIS: 1707
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/008
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Pest in Süßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode_anfang: 1596
+  periode_ende: 1648
+  tote_grosssuessen_1596: 158
+  pestepidemien: 1607, 1627
+  bevölkerungsverlust: erfasste fast die Hälfte der Einwohnerschaft
+GUELTIG_AB: 1596
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/009
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg in Süßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hauptereignis_jahr: 1634 Nördlinger Schlacht
+  tote_total: 180
+  tote_auf_flucht: 31
+  tote_pest_darauf: 134 starben im darauffolgenden Jahr
+GUELTIG_AB: 1634
+GUELTIG_BIS: 1634
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/010
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zweiter Weltkrieg in Süßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gefallene_vermisste: 371
+  einmarsch_amerikaner: 20. April 1945
+  heimatvertriebene_1946: über 1600
+  heimatvertriebene_anteil: 42 % der Einwohnerschaft
+  heimatvertriebene_bis_1948: rund 1.400
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/011
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Judenverfolgung in Süßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Drittes Reich
+  beschreibung: zahlreiche jüdische Mitbürger in Konzentrationslager deportiert und ermordet
+  gedenken_2008: Verlegung Stolpersteine für Familie Lang, deportiert und ermordet 1941
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/012
+ENTITÄT: kirche
+BEZEICHNUNG: Ulrichskirche
+ORTSTEIL_BEZUG: Großsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: gotisch
+  reformation_einfuehrung: 1531/1535
+  brand: 1707 ausgebrannt
+  konfession_nach_reformation: evangelisch
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/013
+ENTITÄT: kirche
+BEZEICHNUNG: Marienkirche
+ORTSTEIL_BEZUG: Kleinsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrkirche_erhoebung: 1493
+  rechte_uebernahme: 1493 Rechte der einstigen Hürbelsbacher Pfarrkirche übertragen
+  konfession: katholisch
+GUELTIG_AB: 1493
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/014
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Großsüßen (Schenk an Adelberg)
+ORTSTEIL_BEZUG: Großsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schenk_durch: Graf Ludwig von Spitzenberg-Helfenstein und Sohn Eberhard
+  schenk_an: Prämonstratensekloster Adelberg
+  schenk_mit: alle Rechte
+GUELTIG_AB: 1267
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 281-suessen/015
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Süßen
+QUELLE: https://www.suessen.de/home/buerger+und+service/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarramt_sued_leiterin: Pfarrerin Michaela Köger
+  pfarramt_nord_leiter: Pfarrer Christian Gräfe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/016
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde Mariä Himmelfahrt
+QUELLE: https://www.suessen.de/home/buerger+und+service/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrer: Pater Joseph Shaji
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/017
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Neuapostolische Kirche
+QUELLE: https://www.suessen.de/home/buerger+und+service/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsteher: Frank Wysotzki
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/018
+ENTITÄT: bauwerk
+BEZEICHNUNG: Marktbrunnen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1981
+  motiv: zeigt Ereignisse aus über 950jähriger Geschichte Süßens
+  beschreibung: Brunnensäule bekrönt vom Süßener Wappen sowie Wappen von Groß- und Kleinsüßen
+GUELTIG_AB: 1981
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/019
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Mühlkanal
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: wichtig für Industrialisierung Großsüßens seit 1830
+  ausstattung: Mühlen und Wasserbetriebwerke
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 281-suessen/020
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahn Stuttgart - Ulm
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erreichte_kleinsuessen: 1847
+  bahnhof_errichtung: 1847 Bahnhof in Kleinsüßen
+GUELTIG_AB: 1847
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/021
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Nebenbahn Süßen - Weißenstein
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1901
+GUELTIG_AB: 1901
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/022
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Fachmarktzentrum
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Bühlstraße
+  entwicklung_seit: 2004
+GUELTIG_AB: 2004
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/023
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Umgehungsstraße B466 neu
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verlauf: zwischen Süßen und Donzdorf
+  einweihung: 2016
+GUELTIG_AB: 2016
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/024
+ENTITÄT: infrastruktur
+BEZEICHNUNG: B10 neu
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2011
+  endet_bei: Süßen Ost
+GUELTIG_AB: 2011
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/025
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kulturhaus
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sanierung_erweiterung: 2010
+  adresse: Marktstraße 13-16
+GUELTIG_AB: 2010
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/026
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kulturhalle und Sporthalle FITplus
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2018
+  betreiber: TSV Süßen Sportvereinszentrum
+GUELTIG_AB: 2018
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/027
+ENTITÄT: projekt
+BEZEICHNUNG: Straßennamen erklärt
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebiet: Rabenwiesen
+  gemeinderat_beschluss: 1997
+  benennung_nach: Widerstandskämpfer im Dritten Reich
+  massnahme: QR-Codes an Straßenschildern
+  vermoegen_geehrt: Mut und Entschlossenheit gegen Regime, Freiheit, Gerechtigkeit, Menschlichkeit
+GUELTIG_AB: 1997
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/028
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Vereinigung Großsüßen und Kleinsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 15. September 1933
+  bisherige_trennung: durch Landesgrenze und konfessionelle Grenze (Großsüßen evangelisch, Kleinsüßen katholisch)
+GUELTIG_AB: 1933
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 281-suessen/029
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Triumphbogen zu Ehren Napoleons
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 18. Januar 1806
+  ort: zwischen Großsüßen und Kleineislingen
+  grund: zu Ehren Napoleons
+  kontext: König Friedrich I. ließ errichten, Napoleon zog von Austerlitz zurück
+GUELTIG_AB: 1806
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/030
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Großsüßen
+ORTSTEIL_BEZUG: Großsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldisch: Schräglinsbalken
+  herkunft: Wappen des einstigen Ortsadels
+GUELTIG_AB: 
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/031
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Kleinsüßen
+ORTSTEIL_BEZUG: Kleinsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldisch: gespaltener Schild, vorne zwei rote Löwen, hinten drei Zickzacken
+GUELTIG_AB: 
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 281-suessen/032
+ENTITÄT: person
+BEZEICHNUNG: Graf Ludwig von Spitzenberg-Helfenstein
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: schenkung der Kirche von Großsüßen an Prämonstratensekloster Adelberg
+  schenkungsjahr: 1267
+  wappentier: Elefant
+GUELTIG_AB: 1267
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/033
+ENTITÄT: person
+BEZEICHNUNG: Eberhard von Spitzenberg-Helfenstein
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: schenkung Kirche mit Vater Ludwig
+  schenkungsjahr: 1267
+GUELTIG_AB: 1267
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/034
+ENTITÄT: person
+BEZEICHNUNG: Graf Ulrich v. Württemberg
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: Zerstörung von Großsüßen
+  kontext: Schwäbischer Städtekrieg
+GUELTIG_AB: 1449
+GUELTIG_BIS: 1449
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/035
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Napoleon I.
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Durchzug mit Truppen durch Filstal
+  datum: 18. Januar 1806
+  kontext: Rückkehr von der Schlacht bei Austerlitz
+GUELTIG_AB: 1806
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 281-suessen/036
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Bandfabrik
+ORTSTEIL_BEZUG: Großsüßen
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: erste Fabrik in Großsüßen
+  erbaurt: 1830
+  nachfolger: heute Anwesen der Fa. Schuler
+GUELTIG_AB: 1830
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 281-suessen/037
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Strassacker
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode_gruendung: 1919-1925 Gründerzeit
+GUELTIG_AB: 1919
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 281-suessen/038
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: KellerBau
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode_gruendung: 1919-1925 Gründerzeit
+GUELTIG_AB: 1919
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 281-suessen/039
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Spindelfabrik
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode_gruendung: 1919-1925 Gründerzeit
+GUELTIG_AB: 1919
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 281-suessen/040
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Staufen-Wolle
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode_gruendung: 1919-1925 Gründerzeit
+GUELTIG_AB: 1919
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 281-suessen/041
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Kammgarnspinnerei
+QUELLE: https://www.suessen.de/home/stadt+und+politik/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode_gruendung: 1919-1925 Gründerzeit
+GUELTIG_AB: 1919
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+

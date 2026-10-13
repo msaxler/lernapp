@@ -1,0 +1,307 @@
+ID: 285-muehlhausen-taele/001
+ENTITÄT: ort
+BEZEICHNUNG: Mühlhausen im Täle
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstnennung: 861 (als "Mulenhuson" in Gründungsurkunde Kloster Wiesensteig)
+  postleitzahl: 73347
+  gesamtfläche: 633 [ha]
+  wald_anteil: 287 [ha]
+  landwirtschaftsfläche: 244 [ha]
+  siedlungs_verkehrsfläche: 99 [ha]
+  gewässerfläche: 3 [ha]
+  kreis: Göppingen
+  landratsamt: Göppingen
+  regierungspräsidium: Stuttgart
+  länder: Baden-Württemberg
+  einwohner_30_9_2021: 1.136
+  einwohner_30_6_2020: 1.113
+  einwohner_30_6_2019: 1.114
+  einwohner_31_12_2017: 1.069
+  verwaltungszugehörigkeit_ab: 1806
+  verbandsgemeinde: GVV Oberes Filstal
+GUELTIG_AB: 861
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 285-muehlhausen-taele/002
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Eselhöfe
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/zahlen-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 73349
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 285-muehlhausen-taele/003
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeindewappen Mühlhausen im Täle
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: In Rot auf silbernem Zweig ein silberner Kuckuck
+  ortsfarben: Weiß-Rot
+  annahme_jetzige_form: 1930
+  benannt_nach: Kuckuck ist der Neckname der umliegenden Ortschaften für die Einwohner Mühlhausens
+  grund_symbolik: Der Kuckuck ist ein "schöner und kluger Vogel"
+  farbenherkunft: Rot-Weiß sind die Farben des Hauses Rechberg
+  verleihung_datum: 19. Februar 1959
+  verliehen_von: Innenministerium
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 285-muehlhausen-taele/004
+ENTITÄT: flagge
+BEZEICHNUNG: Gemeinedeflagge Mühlhausen im Täle
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung_datum: 19. Februar 1959
+  verliehen_von: Innenministerium
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 285-muehlhausen-taele/005
+ENTITÄT: mühle
+BEZEICHNUNG: Esso's Mühle
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  später_namen: Exen- oder Hexenmühle
+  lage: Fils
+  eigenschaft_zeitperiode: staufische Zeit
+  eigentuemer_stauferzeit: Esso
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 285-muehlhausen-taele/006
+ENTITÄT: schloss
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Grafen von Helfenstein
+  vorgänger: Burg des Berthold von Mühlhausen
+  bewohner_18_jh: kaiserlicher Notar
+  abgerissen: 1780
+  ursprünglicher_platz: frühere Burgstelle
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 285-muehlhausen-taele/007
+ENTITÄT: burg
+BEZEICHNUNG: Burg des Berthold von Mühlhausen
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigentümer: Berthold von Mühlhausen
+  zeitperiode: Stauferzeit
+  dokumentation_grundbuch: 1566 als Burgstall geführt
+  nachfolgebau: Schloss der Helfensteiner
+GUELTIG_AB: Stauferzeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 285-muehlhausen-taele/008
+ENTITÄT: gräberfeld
+BEZEICHNUNG: Reihergräberfeld Parkstraße
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitperiode: Merowinger-Zeit (6./7. Jahrhundert)
+  lage: Parkstraße
+GUELTIG_AB: 500
+GUELTIG_BIS: 700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 285-muehlhausen-taele/009
+ENTITÄT: friedhof
+BEZEICHNUNG: Alamannischer Friedhof Warmen
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ehemalige Flur "Warmen", südwestlich des Hohlbachs, jenseits der Fils
+  zeitperiode: 6./7. Jahrhundert (alamannisch)
+  zugehörige_siedlung: vermutlich Tiufental (später aufgegeben)
+GUELTIG_AB: 500
+GUELTIG_BIS: 700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 285-muehlhausen-taele/010
+ENTITÄT: siedlung
+BEZEICHNUNG: Tiufental
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/archaeologie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: süd des Hohlbachs (ehemalige Flur "Warmen")
+  zeitperiode: alamannische Zeit
+  status: längst aufgegeben
+GUELTIG_BIS: Mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 285-muehlhausen-taele/011
+ENTITÄT: person
+BEZEICHNUNG: Hermann Allmendinger
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/geschichte-wappen/bedeutende-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Kirchenmaler, Bildmaler, Fotograf
+  geboren_datum: 10. Oktober 1871
+  geboren_ort: Mühlhausen im Täle
+  gestorben_datum: 16. Mai 1926
+  gestorben_ort: auf dem Weg von Oggelsbeuren nach Biberach
+  beerdigung_ort: Friedhof Mühlhausen
+  eltern: alte Familie Mühlhausens, Vater früh verstorben
+  erstausbildung: Bäcker (Lehrzeit abgebrochen)
+  ausbildung_gipser: Nürnberg, dann Gruppe Mühlhäuser Gipser
+  ausbildung_maler_ab: ca. 1891 bei Onkel in Deggingen
+  ausbildung_schule: Malschule Siebenrock in Stuttgart
+  meisterbrief: 1898
+  akademie: Kunstakademie Stuttgart
+  heirat_datum: 1901
+  heirat_partner: Johanna Alt
+  heirat_partner_ort: Gosbach
+  kinder: sieben
+  hauptwerke: Kirchenmalerei, Fresken, Landschaftsmaler, Dorfansichten, Personen, Darstellungen aus der Geschichte der Helfensteiner
+  kriegsdienst: Erster Weltkrieg (unbeschadet)
+  letzte_arbeit: Fresken in der Kirche Oggelsbeuren
+  gedenkstein: am Todesort
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 285-muehlhausen-taele/012
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Mühlhausen
+QUELLE: https://www.muehlhausen-taele.de/gemeinde-muehlhausen/freiwillige-feuerwehr/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1848
+  initial_ausrüstung: kleine Spritze mit zwei Pumpen
+  spritze_1861: Firma Heinrich Kurtz Cannstatt mit Saugrohr und Heronsball
+  spritze_1861_bedienung: 8 Männer
+  einsatzfahrzeuge_bis_1960: Spritze und Hydrantenwagen mit Standrohr
+  ts8_schaffung: 1960
+  lf8_schaffung: 23. März 1974
+  lf8_baujahr: 1959
+  lf8_marke: Faun
+  lf8_verkehrszug: 1979 durch TÜV
+  lf16ts_schaffung: 22. November 1980
+  lf16ts_hersteller: Magirus
+  lf20kat_s_schaffung: Juli 2018
+  lf16ts_außerbetrieb: Oktober 2018
+  feuerwehrmagazin_antrag: 2006
+  feuerwehrmagazin_fertigstellung: 2008
+  feuerwehrmagazin_adresse: Gosbacher Straße
+  bürgersaal: angebaut an Feuerwehrmagazin
+  fahne_weihe: 8./9. Oktober 1983
+  fahne_patenwehren: Gruibingen und Wiesensteig
+  kreisfeuerwehrtag_1966: 22.-24. Juli 1966
+  kreisfeuerwehrtag_1980: 13.-15. Juli 1980
+  kommandanten_seit_1945: Nille Berthold, Veit Paul sen., Jakob Eugen, Hanold Josef, Seibold Paul, Schefthaler Erich, Rieker Alois, Wahl Werner, Axmann Ulrich, Farion Steven
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 285-muehlhausen-taele/013
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Pusteblume
+QUELLE: https://www.muehlhausen-taele.de/leben-wohnen/bildung-erziehung/kindergarten-pusteblume/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  trägerschaft: Katholische Kirchengemeinde
+  adresse: Brühlstraße 6
+  postleitzahl: 73347
+  altersgruppe_ab: 3 Jahren
+  gruppen: zwei altersgemischte
+  leitung: Luisa Vögele
+  telefon: 07335 6547
+  registrierung: KIBEO-BW
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 285-muehlhausen-taele/014
+ENTITÄT: kirche
+BEZEICHNUNG: St. Margaretha
+QUELLE: https://www.muehlhausen-taele.de/leben-wohnen/kirchen-pfarraemter/katholische-kirchengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  ersterwähnung: 1467
+  turm_erneuerung: 1715 (fast vollständig)
+  hochaltarbild_motiv: Christus und Margaretha
+  hochaltarbild_künstler: Johann Georg Bergmüller
+  hochaltarbild_künstler_herkunft: Augsburg
+  hochaltarbild_entstehung: kurz vor Weihe (ca. 1724)
+  weihe_jahr: ca. 1724
+  pfarrer: Ralf Baumgartner
+  pfarrbüro_adresse: Kirchstraße 17
+  pfarrbüro_postleitzahl: 73347
+  pfarrbüro_telefon: 07335 6481
+  vorsitzender_kgr: Ralf Baumgartner
+  stellvertreter_kgr: z.Z. vakant
+GUELTIG_AB: 1467
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 285-muehlhausen-taele/015
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde
+QUELLE: https://www.muehlhausen-taele.de/leben-wohnen/kirchen-pfarraemter/evangelische-kirchengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  pfarrerin: Angelika Schoblocher
+  adresse: Hauptstraße 63
+  ortschaft: Wiesensteig
+  postleitzahl: 73349
+  telefon: 07335 7197
+  fax: 07335 921932
+  vorsitzender_kgr: Pfarrerin Angelika Schoblocher
+  stellvertreterin_kgr: Helga Frank
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 285-muehlhausen-taele/016
+ENTITÄT: höhle
+BEZEICHNUNG: Todtsburger Höhle
+QUELLE: https://www.muehlhausen-taele.de/freizeit-tourismus/freizeittipps-ausflugsziele/todtsburger-hoehle | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südlich von Mühlhausen, Waldparkplatz an der Eselsteige, Richtung Eselhöfe
+  erschlossung_publikum: 1895
+  erschliessungsmethode: Sprengungen, Bretter über Wasserstellen, Wegbau
+  vorhöhle_bodenfläche: ca. 120 [m²]
+  vorhöhle_höhe: ca. 2 [m]
+  gang_breite_nach_vorhöhle: 6 [m]
+  sinter_beschaffenheit: bedeutende Mächtigkeit, dunkle Farbtönung, kreis- und stufenförmig
+  spalt_osten: 3,5 [m] hoch mit Tropfsteinsäule
+  gang_nach_12m_verengung: 12 [m]
+  halle_3_besonderheit: Nymphenbad
+  schönste_stelle: dritter Raum mit Sinterbecken und Tropfsteinsäulen, Farbtönungen vom Milchweiß bis Schwarzblau
+  tropfsteinkaskade_entfernung_eingang: 110 [m]
+  neuentdeckter_teil_1961: 5 [m] vor Kaskade, Schluf nach rechts, ca. 20 [m] parallel zur alten Höhle
+  alter_schätzung: ca. 8.300 [Jahre]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 285-muehlhausen-taele/017
+ENTITÄT: höhle
+BEZEICHNUNG: Todtsburger Schacht
+QUELLE: https://www.muehlhausen-taele.de/freizeit-tourismus/freizeittipps-ausflugsziele/todtsburger-schacht | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südlich von Mühlhausen, Hochhalde zwischen Todtsburger Höhle und Ulmer Felsen
+  eingang_meereshöhe: 772 [m]
+  eingang_grösse: gerade noch durchzwängen möglich
+  eingangshalle_tiefe: 12 [m]
+  eingangshalle_dimension: ca. 8 x 8 [m], Höhe 15 [m]
+  schächte_ostseite: zwei Schächte in der Tiefe
+  schlucht_süd: südliche Richtung, bis 20 [m] Tiefe
+  seeigelhalle_tiefe: 44 [m]
+  seeigelhalle_dimension: 18 [m] Länge, 7 [m] Breite, 12 [m] Höhe
+  versturzhalle_länge: 12 [m]
+  versturzhalle_höhe: 11 [m]
+  kameradenschacht_tiefe: 28 [m]
+  tropfsteingalerie_tiefe: 12 [m]
+  untere_halle_tiefe: 72 [m]
+  untere_halle_dimension: 28 [m] Länge, 15 [m] Breite, 26 [m] Höhe
+  untere_halle_größe_bedeutung: zu den größten Hallen in den Höhlen der Alb
+  wassertümpel_tiefe: 72 [m]
+  wassertümpel_fläche: ca. 25 [m²]
+  wassertümpel_wassertief_schneeschmelze: 4 [m]
+  zweiter_zugang: enger Schacht von Schlucht aus, von Schlucht südlich der Eingangshalle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88

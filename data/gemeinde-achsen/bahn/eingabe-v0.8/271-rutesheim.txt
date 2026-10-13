@@ -1,0 +1,478 @@
+ZIELORT: Rutesheim (Stadt)
+LAGE: 17 km westlich von Stuttgart (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Rutesheim
+
+GRUNDDATEN:
+  landkreis: Böblingen  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 11.047  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 16,22  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 681  [berechnet aus Einwohner und Fläche]
+  kfz: BB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 447 | 440  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2842824)]
+  naechste_grossstadt: Stuttgart, 17 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 17 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 71277  [Wikidata P281]
+  vorwahl: 07152  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 36,6 %, SPD 15,8 %, AfD 15,2 %, GRÜNE 14,1 %, FDP 7 %; Wahlbeteiligung 88,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Tobias Pokrop — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Scheibbs, Saalburg-Ebersdorf, Perosa Argentina  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Einwohner je Quadratkilometer), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Heimsheim (Stadt)
+  landkreis: Enzkreis  [dewiki Infobox]
+  einwohner: 5531  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 14,3  [Wikidata P2046; Altbestand staedte.json]
+  kfz: PF (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 413 | 403 | 406  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2907359)]
+  naechste_grossstadt: Pforzheim, 15 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35,7 %, AfD 16,3 %, GRÜNE 14,9 %, SPD 13,8 %, FDP 7,1 %, Die Linke 5,1 %; Wahlbeteiligung 83,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Rutesheim):
+ID: 271-rutesheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Rutesheim
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelaende: flache Senke in wellig bewegtem Gelände
+  besiedlung_kelten_um: -500
+  besiedlung_roemer: vor Christi Geburt
+  besiedlung_alemannen_um: 300
+  besiedlung_franken_um: 500
+  gruender: Ruotmar
+  besiedlung_grund_flussnamen_herkunft: Flußnamen wie "Glems" und "Neckar" stammen von Kelten
+  erstmals_urkundlich_erwaehnt_jahr: 767
+  urkundliche_bezeichnung: Villa Rothmaresheim in pago Enzigowe
+  urkundliche_erwaehnung_quelle: Codex des Klosters Lorsch an der Bergstraße
+  urkundliche_erwaehnung_transaktion: Hildemar schenkte dem Kloster einen Hof mit 40 Jaucherten Ackerlandes
+  superlativ_urkundliche_erwaehnung: ältester urkundlich erwähnter Ort im früheren Kreis Leonberg
+  kirche_erstes_erscheinen_um: 1100
+  stadtbrand_datum: 30.06.1837
+  stadtbrand_dauer_stunden: 3-4
+  stadtbrand_zerstoert_rathaus: 1
+  stadtbrand_zerstoert_freistehende_wohngebaeude: 47
+  stadtbrand_zerstoert_wohngebaeude_mit_scheunen: 20
+  stadtbrand_zerstoert_wagenschuppen: 85
+  stadtbrand_zerstoert_sonstiges: Waschhäuser, Ställe
+  stadtbrand_folge_wiederaufbau: breite schnurgerade Ortsdurchfahrt und geordnete Grundstückszuschnitte
+  stadtrechte_verleihung_datum: 01.07.2008
+  stadtrechte_verleihung_quelle: Ministerrat des Landes Baden-Württemberg
+  jubilaeum_1250_jahre_feier_jahr: 2017
+  jubilaeum_1250_jahre_veranstaltung: mehrmonatige Ausstellung "Rutesheims Weg durch die Zeit"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 271-rutesheim/002
+ENTITÄT: ort
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/zahlen+und+fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl_gesamt: 11207
+  einwohnerzahl_rutesheim: 9850
+  einwohnerzahl_perouse: 1357
+  anteil_frauen: 5647
+  anteil_maenner: 5560
+  auslaendische_bevoelkerung_prozent: 12.5
+  gesamtflaeche_ha: 1622
+  rathaus_hoehe_ueber_nn: 447
+  koordinaten_nord: 48°48'
+  koordinaten_ost: 8°57'
+  hoechster_punkt_stockhau_hoehe: 490
+  hoechster_punkt_perouse_muehlweg_hoehe: 486
+  siedlungsflaeche_ha: 198
+  erholungs_sportflaechen_ha: 69
+  verkehrsflaechen_ha: 141
+  landwirtschaftliche_flaechen_ha: 668
+  stadtwald_ha: 536
+  sonstige_flaechen_ha: 10
+  sozialversicherungspflichtige_beschaeftigte_2017: 3300
+  berufs_einpendler: 2630
+  berufs_auspendler: 3934
+  kraftfahrzeugbestand: 7920
+  pkw_anteil: 6209
+  kraftraeder: 544
+  lkw_bus: 204
+  zugmaschinen: 187
+  arbeitsmaschinen_sonstige_kfz: 110
+  anhaenger: 666
+  pkw_je_1000_einwohner: 611
+  wohngebaeude_insgesamt: 2258
+  wohnungen_insgesamt: 4369
+  einwohner_je_wohnung: 2.3
+  wohnflaeche_je_einwohner_qm: 39
+GUELTIG_AB: 2025
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 271-rutesheim/003
+ENTITÄT: siedlung
+BEZEICHNUNG: Miemingen
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ethnie: Alemannen
+  bauweise: Holzhütten
+  lage_relativ: am Wasserbach
+  zeit_besiedlung_um: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 271-rutesheim/004
+ENTITÄT: siedlung
+BEZEICHNUNG: Bächingen
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ethnie: Alemannen
+  bauweise: Holzhütten
+  lage_relativ: am Wasserbach
+  zeit_besiedlung_um: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 271-rutesheim/005
+ENTITÄT: siedlung
+BEZEICHNUNG: Brucklingen
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ethnie: Alemannen
+  bauweise: Holzhütten
+  lage_relativ: am Wasserbach
+  zeit_besiedlung_um: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 271-rutesheim/006
+ENTITÄT: stadt_brand
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 30.06.1837
+  dauer_stunden: 3-4
+  zerstoerte_gebaeudetyp_rathaus: 1
+  zerstoerte_gebaeudetyp_freistehende_wohngebaeude: 47
+  zerstoerte_gebaeudetyp_wohngebaeude_mit_scheunen: 20
+  zerstoerte_gebaeudetyp_wagenschuppen: 85
+  zerstoerte_gebaeudetyp_waschhaeuser: mehrere
+  zerstoerte_gebaeudetyp_staelle: mehrere
+  folgen_wiederaufbau: breite schnurgerade Ortsdurchfahrt und geordnete Grundstückszuschnitte
+GUELTIG_AB: 1837
+GUELTIG_BIS: 1837
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 271-rutesheim/007
+ENTITÄT: speise
+BEZEICHNUNG: Rohstrugel
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Rutesheimer Nationalspeise
+  spitzname_grund: Rutesheimer haben ihren Spitznamen aufgrund dieser schmackhaften Nationalspeise erhalten
+  bekanntheid: in näherer Umgebung nicht serviert, außer die Köchin stammt aus Rutesheim
+  tradition_pflege: Landfrauenverein Rutesheim e.V. und Fußballabteilung SKV Rutesheim
+  turnier_name: Rohstrugel-Fußballturnier
+  turnier_monat: Oktober (Ende)
+  turnier_ort: Sporthalle Bühl I
+  turnier_haeufigkeit: jährlich
+  turnier_pokal_form: echte Rohstrugel-Form
+  zubereitungszeit_minuten: ca. 45-60
+  backtemperatur_celsius: 200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 271-rutesheim/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Perouse
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  waldenserort: true
+  waldenser_ankunftsdatum: 13.06.1699
+  waldenser_familien_anzahl: 71
+  waldenser_personen_anzahl: 242
+  waldenser_ankunftsort: Heimsheim
+  namenherkunft: Heimatort Perosa im unteren Tal des Chisone
+  waldensernamen_erhalten: Baret, Mouris, Simondet, Vinçon
+  waldensernamen_zugezogen: Baral, Charrier, Gayde, Jaimet, Roux, Servay
+  gotteshaus_errichtet_jahr: 1738
+  gotteshaus_beschreibung: schlichtes Gotteshaus in der Hauptstraße
+  waldenserwappen_inschrift: "Lux lucet in tenebris" (Das Licht leuchtet in der Finsternis)
+  markungsrechte_kauf_jahr: 1839
+  markungsrechte_kaufpreis_gulden: 3924
+  markungsflaeche_ha: 266.5
+  markungsrechte_bedeutung: 140 Jahre nach Gründung eigenständige Gemeinde
+  markungsflaeche_bewertung: sehr klein, arme Gemeinde
+  krauthanbau_beginn_um: 1885
+  krauthanbau_erfolg: beste Erfahrungen und Geld, heute für gute Qualität bekannt
+  spar_darlehenskasse_gruendung_jahr: 1888
+  spar_darlehenskasse_heute: Volksbank
+  wasserleitung_baubeginn_jahr: 1893
+  wasserleitung_baubeginn_veranlasser: Pfarrer Wilhelm Kopp
+  wasserleitung_fertigstellung_jahr: 1895
+  wasserleitung_einweihung: Wasserfest
+  wasserleitung_quelle: Heimsheimer Quellen
+  wasserleitung_anschluss_rutesheim_jahr: 1985
+  wasserleitung_anschluss_rutesheim_quelle: Falleitung vom Hochbehälter Stockhau in Rutesheim
+  historisches_gebaeude_pfarrhaus_evangelisch: 1762
+  historisches_gebaeude_zehntscheuer: Jahr unbekannt
+  historisches_gebaeude_rathaus: 1867
+  historisches_gebaeude_henri_arnaud_denkmal: 1899
+  infrastruktur_schulhaus_errichtet: 1951
+  infrastruktur_friedhof_erweiterung: 1961
+  infrastruktur_friedhofhalle: 1961
+  infrastruktur_kanalisation: 1962
+  infrastruktur_klaeranlage: 1962
+  infrastruktur_kindergarten: 1968
+  infrastruktur_gemeindehalle: 1970
+  infrastruktur_begegnungsstaette_aeltere_buerger: 1987
+  infrastruktur_feuerwehrgeraetehaus: 1983
+  infrastruktur_ortsbücherei_einrichtung: 1973
+  infrastruktur_breitbandkabel: ab 1992
+  infrastruktur_ortsumgehung_landesstrasse: 1998
+  infrastruktur_gemeindehaus_evangelisch: 1986
+  gedenkstein_300_jahre_perouse: 1999
+  infrastruktur_neues_loeschfahrzeug: 1994
+  sanierung_abgeschlossen: 2002
+  zusammenschluss_rutesheim_datum: 01.01.1972
+  zusammenschluss_abstimmung_pro_prozent: 73
+  einwohner_beim_zusammenschluss: 900
+  einwohner_aktuell: 1250
+  baugebiete_erschlossen: Bauplatzwiesen, Hanfländer, Vallon
+  schulschueler_ab_1964: Heimsheim
+  schulschueler_ab_1973: Rutesheim
+  grundschule_auflosung_jahr: 1973
+GUELTIG_AB: 1699
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 271-rutesheim/009
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ruotmar
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Gründer und Namensvater der Gemeinde Rutesheim
+  benannt_nach: Name der Gemeinde abgeleitet von Ruotmar
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 271-rutesheim/010
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Kopp
+ORTSTEIL_BEZUG: Perouse
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pfarrer
+  leistung: "unermeudlich tätig", erreichte Bau einer Wasserleitung von Heimsheimer Quellen nach Perouse
+  leistung_jahr: 1893
+GUELTIG_AB: um 1893
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 271-rutesheim/011
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Herbert Vinçon
+ORTSTEIL_BEZUG: Perouse
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pfarrer
+  werk: schrieb Ortschronik Perouse
+  veroeffentlichung_jahr: 1999
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 271-rutesheim/012
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Angelika Rühle
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pfarrerin
+  kirche: Johanneskirche Rutesheim, Evangelische Kirchengemeinde Rutesheim
+  fusioniert_seit: 01.01.2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 271-rutesheim/013
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gasto Peter Lyimo
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pater
+  kirche: Katholische Kirchengemeinde St. Raphael
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 271-rutesheim/014
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Chidi Emezi
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pater
+  kirche: Katholische Kirchengemeinde St. Raphael
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 271-rutesheim/015
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gottfried Liese
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pastor
+  kirche: Evangelisch-methodistische Kirchengemeinde Rutesheim - Markuskirche
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 271-rutesheim/016
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Andreas Schmauderer
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Ansprechpartner
+  kirche: Neuapostolische Kirche Rutesheim
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 271-rutesheim/017
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rolf Vincon
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/obstsortenmuseum+haesel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Leiter städtischer Bauhof
+  aufgabe: Leitung von Pflanzung und Pflege des Obstsortenmuseums Häsel
+  zeitraum_beginn: 1987
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 271-rutesheim/018
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Beutelspacher-Stehle
+ORTSTEIL_BEZUG: Perouse
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Künstler/in
+  werk: fertigte Gedenkstein "300 Jahre Perouse"
+  aufstellung_jahr: 1999
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 271-rutesheim/019
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche Rutesheim
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: evangelisch
+  pfarrerin: Angelika Rühle
+  strasse: Kirchstraße 15
+  fusioniert: 01.01.2025
+  fusioniert_mit_kirchen: Thomaskirche Heuweg/Silberberg, Waldenserkirche Perouse
+  neue_gemeinde: Evangelische Kirchengemeinde Rutesheim
+GUELTIG_AB: um 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 271-rutesheim/020
+ENTITÄT: kirche
+BEZEICHNUNG: Thomaskirche Heuweg/Silberberg
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: evangelisch
+  fusioniert: 01.01.2025
+  fusioniert_mit_kirchen: Johanneskirche Rutesheim, Waldenserkirche Perouse
+  neue_gemeinde: Evangelische Kirchengemeinde Rutesheim
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 271-rutesheim/021
+ENTITÄT: kirche
+BEZEICHNUNG: Waldenserkirche Perouse
+ORTSTEIL_BEZUG: Perouse
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: evangelisch
+  waldensergemeinde: true
+  fusioniert: 01.01.2025
+  fusioniert_mit_kirchen: Johanneskirche Rutesheim, Thomaskirche Heuweg/Silberberg
+  neue_gemeinde: Evangelische Kirchengemeinde Rutesheim
+  waldenserwappen_inschrift: "Lux lucet in tenebris" (Das Licht leuchtet in der Finsternis)
+GUELTIG_AB: 1738
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 271-rutesheim/022
+ENTITÄT: kirche
+BEZEICHNUNG: St. Raphael
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: katholisch
+  strasse: Schubertstraße 12
+  paeter: Gasto Peter Lyimo, Chidi Emezi
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 271-rutesheim/023
+ENTITÄT: kirche
+BEZEICHNUNG: Markuskirche
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: evangelisch-methodistisch
+  gemeinde: Evangelisch-methodistische Kirchengemeinde Rutesheim
+  strasse: Leonberger Straße 12
+  pastor: Gottfried Liese
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 271-rutesheim/024
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche Rutesheim
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: neuapostolisch
+  strasse: Raiffeisenstraße 23
+  ansprechpartner: Andreas Schmauderer
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 271-rutesheim/025
+ENTITÄT: museum
+BEZEICHNUNG: Obstsortenmuseum Häsel
+QUELLE: https://www.rutesheim.de/start/buerger+_+stadt/obstsortenmuseum+haesel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_pflanztermin: 14.11.1987
+  anzahl_obstbaeume_gepflanzt: 187
+  arten_gepflanzt: Äpfel, Birnen, Süßkirschen, Sauerkirschen, Zwetschgen, Renekloden, Mirabellen, Nussbäume
+  helfer_anzahl: 54
+  helfer_organisation: Obst- und Gartenbaoverein Rutesheim e.V.
+  finanzierung: Stadt Rutesheim (alle Kosten)
+  pflege_verantwortung: Obst- und Gartenbaoverein Rutesheim e.V. und städtischer Bauhof
+  bauhof_leiter: Rolf Vincon
+  aktuelle_sorten_aepfel: 143
+  aktuelle_sorten_birnen: 18
+  aktuelle_sorten_suesskirschen: 20
+  aktuelle_sorten_sauerkirschen: 3
+  aktuelle_sorten_zwetschgen: 9
+  aktuelle_sorten_walnussbaeum: 2
+  erreichbarkeit: Straße Rutesheim nach Renningen, südlich der A8 Stuttgart-Karlsruhe, am ersten Feldweg rechts
+  zugaenglichkeit: für jeden zugänglich
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+

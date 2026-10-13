@@ -1,0 +1,253 @@
+ID: 286-amstetten/001
+ENTITÄT: ort
+BEZEICHNUNG: Amstetten
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_zeitraum: 7./8. Jahrhundert
+  gruendung_grund: Besiedlung durch Alamannen im Zuge des frühmittelalterlichen Siedlungsausbaus
+  erste_urkundliche_erwaehnung: 1275
+  erste_urkundliche_erwaehnung_kontext: mit eigener Pfarrkirche in Zehntbuch des Bistums Konstanz
+  roemer_verkehrsweg_durchquerung: ja, verlief nach Süden zu Augsburg und nach Norden an den Rhein
+  grundherrschaft_älteste: Herren von Stubersheim
+  grundherrschaft_älteste_ab: Ende 11. Jahrhundert
+  herrschaft_grafen_helfenstein: ja, Nachkommen der Herren von Stubersheim
+  herrschaft_helfenstein_bis: 1396
+  herrschaft_grund_ende: hohe Schulden und mehrfache andere Gründe
+  herrschaft_ulm: 1396–1803
+  herrschaft_württemberg_ab: 1810
+  state_württemberg: Königreich Württemberg
+  verwaltung_oberamt: Geislingen (bis 1938)
+  verwaltung_landkreis_ab: 1938, Landkreis Ulm
+  verwaltung_landkreis_aktuell: Alb-Donau-Kreis
+  gemeindereform: 1972–1975
+  gemeindereform_gebiete: Amstetten, Bräunisheim, Hofstett-Emerbuch, Reutti, Schalkstetten, Stubersheim
+  einwohner_oberamtsbeschreibung_1842: ca. 300
+  einwohner_1842_charakterisierung: wohlhabend, in meist strohgedeckten Häusern
+  wappen_beschreibung: schwarze Schäferschippe auf weißem Grund mit fünfspeichigem weißem Rad
+  wappen_symbolik_schafzucht: Schafzucht, früher in dieser Gegend verbreitet
+  wappen_symbolik_rad: Zeichen für Verkehr und Industrie, steht für Ortsteil Bahnhof
+  wappen_farben: schwarz und weiß von der Stadt Ulm (früheres Territorium)
+GUELTIG_AB: 700
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 286-amstetten/002
+ENTITÄT: kirche
+BEZEICHNUNG: Laurentiuskirche
+ORTSTEIL_BEZUG: Dorf
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  typ: ehemalige Wehrkirche
+  status_ort: Wahrzeichen des Dorfes
+  turm_älteste_bauteile: Jahr 1000
+  urspruenglicher_stil: romanisch
+  umbau_jahr: 1499
+  umbau_stil: gotisch
+  umbau_architekt: Bernhard Winkler, Ulmer Münsterbaumeister
+  wandmalereien: ja, aus 14. und 17. Jahrhundert
+  superlativ: Wahrzeichen des Dorfes, bedeutsames Sakralbauwerk
+GUELTIG_AB: 1000
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 286-amstetten/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bahnhof
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: Keimzelle eines neuen Ortsteils nach Bahnhoferöffnung 1850
+  bedeutung: hat das alte Dorf von der Einwohnerzahl her weit überflügelt
+  infrastruktur_vielfaeltig: ja, Neubaugebiete mit Infrastruktur, Kultur und Vereinsleben
+GUELTIG_AB: 1850
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 286-amstetten/004
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+ORTSTEIL_BEZUG: Bahnhof
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1990
+GUELTIG_AB: 1990
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 286-amstetten/005
+ENTITÄT: schule
+BEZEICHNUNG: Aurainschule
+ORTSTEIL_BEZUG: Bahnhof
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1978
+GUELTIG_AB: 1978
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 286-amstetten/006
+ENTITÄT: sporthalle
+BEZEICHNUNG: Aurainhalle
+ORTSTEIL_BEZUG: Bahnhof
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1982
+GUELTIG_AB: 1982
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 286-amstetten/007
+ENTITÄT: kirche
+BEZEICHNUNG: Friedenskirche
+ORTSTEIL_BEZUG: Bahnhof
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  fertigstellung: 1966
+GUELTIG_AB: 1966
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 286-amstetten/008
+ENTITÄT: kirche
+BEZEICHNUNG: Erlöserkirche
+ORTSTEIL_BEZUG: Bahnhof
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  fertigstellung: 1966
+GUELTIG_AB: 1966
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 286-amstetten/009
+ENTITÄT: verkehrsbauwerk
+BEZEICHNUNG: Geislinger Steige
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Eisenbahnstrecke
+  inbetriebnahme: 1850
+  laenge_km: 5,6
+  hoehe_m: 112
+  steigungsverhaeltnis_maximal: 1:44,5
+  planer: Oberbaurat Etzel, Ingenieur Michael Knoll (aus Geislingen)
+  bedeutung: technische Meisterleistung ihrer Zeit
+  funktion: Albaufstieg
+  superlativ: technische Meisterleistung ihrer Zeit
+GUELTIG_AB: 1850
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 286-amstetten/010
+ENTITÄT: adeliges_geschlecht
+BEZEICHNUNG: Herren von Stubersheim
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle_amstetten: älteste fassbare Grundherrschaft
+  erwaehnung_ab: Ende 11. Jahrhundert
+  urkunden_status: erscheinen in Urkunden
+GUELTIG_AB: 1100
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 286-amstetten/011
+ENTITÄT: adeliges_geschlecht
+BEZEICHNUNG: Grafen von Helfenstein
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verhaeltnis_stubersheim: Nachkommen und Erben
+  stammburg_ort: Felsen hoch über der Stadt Geislingen
+  herrschaftsgebiet_von: Heidenheim
+  herrschaftsgebiet_bis: Blaubeuren
+  herrschaftsgebiet_umfang: weites Gebiet
+  politische_rolle: besetzte wichtige Ämter im Dienst von Kaiser und Reich
+  verkauf_grafschaft: Großteil an Reichsstadt Ulm
+  verkauf_jahr: 1396
+  verkauf_grund: hohe Schulden und mehrfache andere Gründe
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1396
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 286-amstetten/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schalkstetten
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindereform_eingliderung: ja
+  gemeindereform_zeitraum: 1972–1975
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 286-amstetten/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bräunisheim
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindereform_eingliederung: ja
+  gemeindereform_zeitraum: 1972–1975
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 286-amstetten/014
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hofstett-Emerbuch
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindereform_eingliederung: ja
+  gemeindereform_zeitraum: 1972–1975
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 286-amstetten/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Reutti
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindereform_eingliederung: ja
+  gemeindereform_zeitraum: 1972–1975
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 286-amstetten/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stubersheim
+QUELLE: http://www.amstetten.de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindereform_eingliederung: ja
+  gemeindereform_zeitraum: 1972–1975
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 286-amstetten/017
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Celles-sur-Belle
+QUELLE: http://www.amstetten.de/sehenswuerdigkeiten-in-celles-sur-belle.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  bedeutendstes_bauwerk: Abtei
+  abtei_zeitlicher_ursprung: romanische Zeit
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7

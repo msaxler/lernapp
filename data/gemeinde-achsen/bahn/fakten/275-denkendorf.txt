@@ -1,0 +1,705 @@
+ID: 275-denkendorf/001
+ENTITÄT: ort
+BEZEICHNUNG: Denkendorf
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 73770
+  telefon_vorwahl: 0711
+  einwohnerzahl: 11000
+  genauigkeit_einwohnerzahl: ca.
+  landkreis: Esslingen
+  kfz_kennzeichen: ES
+  regierungsbezirk: Stuttgart
+  region: Filderebene, Metropolregion Stuttgart
+  hoehenlage_rathaus: 289.90
+  hoehenlage_rathaus_einheit: m über NN
+  hoechster_punkt: 358
+  hoechster_punkt_einheit: m über NN
+  hoechster_punkt_location: Spiethhof
+  tiefster_punkt: 248
+  tiefster_punkt_einheit: m über NN
+  tiefster_punkt_location: Unteres Körschtal, Gemarkungsgrenze zu Deizisau
+  gemarkungsflaeche: 1350
+  gemarkungsflaeche_einheit: ha
+  siedlungs_verkehrsflaeche: 295
+  siedlungs_verkehrsflaeche_einheit: ha
+  siedlungs_verkehrsflaeche_genauigkeit: ca.
+  landwirtschaftliche_flaeche: 522
+  landwirtschaftliche_flaeche_einheit: ha
+  landwirtschaftliche_flaeche_genauigkeit: ca.
+  waldflaeche: 473
+  waldflaeche_einheit: ha
+  waldflaeche_genauigkeit: ca.
+  wasserflaeche: 7
+  wasserflaeche_einheit: ha
+  wasserflaeche_genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/002
+ENTITÄT: ort
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: 900
+  alter_genauigkeit: ca.
+  alter_einheit: Jahre
+  geschichte_grund: Kloster und Klosterschule, Ort erwähnt seit 1129
+  lage_beschreibung: Filderebene, bewaldete Hänge des Körschtals, Streuobstwiesen, Sulzbachtälchen, Waldgebiet Sauhag
+  verkehr_anbindung: A8, Bundesstraße 10, ÖPNV (Linie 119), Relex-Bus, Bürgerbus, Jakobsweg
+  radtour: FilderRadRunde
+  naturdenkmal: Erlachsee
+  naturdenkmal_beschreibung: größtes Feuchtbiotop auf den Fildern
+  slogan: Wir leben Zusammenhalt
+GUELTIG_AB: 1129
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 275-denkendorf/003
+ENTITÄT: ort
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/kloster | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_urkundliche_erwaehnung: 1129
+  grund_erwaehnung: Klosteranlage
+GUELTIG_AB: 1129
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/004
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Gemeinde Denkendorf
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  symbol: Hochkreuz des Patriarchen von Jerusalem
+  bedeutung: zeigt die Bedeutung des Klosters für den Ort
+  grund_symbol: Kloster gehörte den Chorherren vom Heiligen Grab
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/005
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Gemeinde Denkendorf
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/logo | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  farben: Blau, Gelb
+  status: bleibt neben dem Logo weiterhin bestehen für Amtliches
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/006
+ENTITÄT: logo
+BEZEICHNUNG: Logo der Gemeinde Denkendorf
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/logo | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einfuehrung: 2020
+  hauptbestandteil: Initialbuchstabe D, kreativ und modernes Signet
+  visualisierungen: Wasser, Aktivität
+  farben: Blau, Gelb (Wappenfarben)
+  wasserbezuege: Körsch, Sulzbach, Freibad
+  aktivitaet_beschreibung: Veranstaltungen im Jahreskalender, Ehrenamt, Dynamik der Bürgerschaft
+  slogan: Wir leben Zusammenhalt
+  slogan_bedeutung: Lebensqualität und Wir-Gefühl durch aktive Vereine und Organisationen
+  designer: burkert gestaltung GmbH aus Ulm
+  varianten_farben: Bücherei in Hellgrün, Freibad in Türkis
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/007
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Denkendorf
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/kloster | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft: Juwel der Gemeinde
+  gruendung: 1129
+  gruendung_grund: Stift der Chorherren vom Heiligen Grab
+  gruendung_grund_detail: direkt dem Patriarchen von Jerusalem unterstellt
+  bestandteile_klosterhof: Klosterkirche, Krypta, Stauferstele, Pfarrscheuer, Klostersee
+  bestandteile_maierhof: Kelter, Zehntscheuer, Hölderlin-Brunnen
+  klosterschule_evangelisch: 1553
+  klosterschule_evangelisch_beschreibung: eine der ersten evangelischen Klosterschulen in Württemberg
+  klosterschule_zweck: Vorbereitung auf Theologiestudium in Tübingen
+  klosterschule_zweite_errichtung: 1713
+  klosterschule_zweite_dauer: knapp 100 Jahre
+  klosterschule_zweite_struktur: zwei Jahre Unterricht in Denkendorf, dann auf Höhere Klosterschulen
+  verwendung_zeitweise: Senffabrik
+  verwendung_nach_wwii_erwerber: Evangelische Landeskirche
+  verwendung_nach_wwii: Evangelisches Diakonieseminar, Evangelische Fortbildungsstätte
+  klosterschueler_bekannt: über 1200
+  klosterschueler_pfarrer: 839
+  wahrnehmung: Touristenmagnet, Anziehungspunkt für geschichtsinteressierte Besucher
+  hauptanziehungspunkt: true
+  sanierung_kelter: 1995
+  kelter_denkmalschutz: ja
+  sanierung_zehnscheuer: 1998-2000
+  zehnscheuer_frueherer_name: Zehntscheuer
+  wirtschaftsgebaude_bauhistorie: bauhistorisch wertvolles Gebäudeensemble
+  sanierung_wuerdigung: landesweite Öffnungsveranstaltung zum Tag des offenen Denkmals 2001
+  veranstaltungen: öffentliche Vereins- und Gemeindefeste, Schlehenfest
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/008
+ENTITÄT: kirche
+BEZEICHNUNG: Klosterkirche
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/kloster | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historisch: true
+  krypta: ja
+  bedeutung: bedeutende Krypta
+  nutzung: Gottesdienste
+  lage: Klosterhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/009
+ENTITÄT: kirche
+BEZEICHNUNG: Klosterkirche
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historisch: true
+  wahrzeichen: Wahrzeichen Denkendorfs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 275-denkendorf/010
+ENTITÄT: kirche
+BEZEICHNUNG: Auferstehungskirche
+QUELLE: https://www.denkendorf.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1971
+  kirche_typ: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/011
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johann Baptist
+QUELLE: https://www.denkendorf.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche_typ: katholisch
+  gemeinde_errichtung: 1961
+  gemeinde_errichtung_grund: als eigene Gemeinde errichtet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/012
+ENTITÄT: museum
+BEZEICHNUNG: Rolf-Deuschle-Heimatmuseum
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ausstellung von historischen Ausstellungsstücken von Arbeits- und Lebensbedingungen der Denkendorfer Bürger über Jahrhunderte
+  besonderheit: Bürgermeister Galerie (seit 1873 Bürgermeister Denkendorfs)
+  ausstellung_ort: Erdgeschoss Rathaus
+  sonderausstellungen: Pausierung bei Sonderausstellungen oder Ausstellung der Künstlergruppe Spectrum
+  leitung: Rolf Deuschle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 275-denkendorf/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Zum Alten Bären
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Gasthaus
+  bauart: Fachwerkhaus
+  groesse: groß
+  bedeutung: historisches Gebäude, erhalten bei Ortskernsanierung
+  baualter: Jahrhundert-alt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 275-denkendorf/014
+ENTITÄT: gebaeude
+BEZEICHNUNG: Krone
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Gasthaus
+  bauart: Fachwerkhaus
+  groesse: groß
+  bedeutung: historisches Gebäude, erhalten bei Ortskernsanierung
+  baualter: Jahrhundert-alt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 275-denkendorf/015
+ENTITÄT: gebaeude
+BEZEICHNUNG: historisches Postgebäude
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Postgebäude
+  bedeutung: historisches Gebäude, erhalten bei Ortskernsanierung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 275-denkendorf/016
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Ehgartner
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: historisches Gebäude, erhalten bei Ortskernsanierung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 275-denkendorf/017
+ENTITÄT: bauwerk
+BEZEICHNUNG: Kelter Denkendorf
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalschutz: ja
+  sanierung: 1995
+  sanierungsart: umfangreiche Sanierung
+  konservierung: dauerhaft erhalten
+  lage: am Fuße des Klosters
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/018
+ENTITÄT: bauwerk
+BEZEICHNUNG: Kelter Denkendorf
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/kloster | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Wirtschaftsgebäude des Klosters
+  denkmalschutz: ja
+  sanierung: 1995
+  sanierungsart: umfangreiche Sanierung
+  konservierung: dauerhaft erhalten
+  lage: Maierhof
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/019
+ENTITÄT: bauwerk
+BEZEICHNUNG: Zehntscheuer
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: frühere Zehntscheuer
+  sanierung: 1998-2000
+  sanierungsart: umfangreiche Sanierungen
+  konservierung: dauerhaft erhalten
+  lage: am Fuße des Klosters
+GUELTIG_AB: 1998
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/020
+ENTITÄT: bauwerk
+BEZEICHNUNG: Zehntscheuer
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/kloster | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Wirtschaftsgebäude des Klosters
+  sanierung: 1998-2000
+  sanierungsart: umfangreiche Sanierungen
+  konservierung: dauerhaft erhalten
+  lage: Maierhof
+GUELTIG_AB: 1998
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/021
+ENTITÄT: brunnen
+BEZEICHNUNG: Hölderlin-Brunnen
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/kloster | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Friedrich Hölderlin, ehemaliger Klosterschüler
+  lage: Maierhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 275-denkendorf/022
+ENTITÄT: see
+BEZEICHNUNG: Klostersee
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft: idyllisch
+  lage: Klosterhof
+  verwendung: Freizeitbereich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 275-denkendorf/023
+ENTITÄT: see
+BEZEICHNUNG: Erlachsee
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft: größtes Feuchtbiotop auf den Fildern
+  superlativ: größtes Feuchtbiotop auf den Fildern
+  naturschutz: Naturdenkmäler und Landschaftsschutzgebiete
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 275-denkendorf/024
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Lindenbaum an der Mädershalde
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/fotowettbewerb | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bekannt: ja
+  lage: Mädershalde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 275-denkendorf/025
+ENTITÄT: fest
+BEZEICHNUNG: Schlehenfest
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haendigkeit: alle zwei Jahre
+  beliebtheitsgrad: beliebt
+  lage: in und um das Kloster
+  organisator: ARGE
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 275-denkendorf/026
+ENTITÄT: fest
+BEZEICHNUNG: Weihnachtstreff
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haendigkeit: alljährlich
+  lage: Rathausplatz
+  organisator: ARGE
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 275-denkendorf/027
+ENTITÄT: schule
+BEZEICHNUNG: Albert-Schweitzer-Schule
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Grundschule und Realschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/028
+ENTITÄT: schule
+BEZEICHNUNG: Ludwig-Uhland-Schule
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/029
+ENTITÄT: schule
+BEZEICHNUNG: Otto-Hahn-Gymnasium
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Gymnasium
+  schulverbund: Schulverbund Ostfilder
+  standort: Ostfildern Nellingen
+  denkendorf_beteiligung: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/030
+ENTITÄT: schule
+BEZEICHNUNG: Heinrich-Heine-Gymnasium
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Gymnasium
+  schulverbund: Schulverbund Ostfilder
+  standort: Ostfildern Nellingen
+  denkendorf_beteiligung: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/031
+ENTITÄT: kinderbetreuung
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  plaetze_gesamt: 445
+  einrichtungen: 9
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 275-denkendorf/032
+ENTITÄT: pflegeheim
+BEZEICHNUNG: Martin-Luther-Haus
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betten_plaetze: 77
+  stationaer: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 275-denkendorf/033
+ENTITÄT: bibliothek
+BEZEICHNUNG: Bücherei Denkendorf
+QUELLE: https://www.denkendorf.de/freizeit-kultur/buecherei/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leitung: Marieke Mauser
+  stellvertretung: Stefanie Schmitt
+  lesepaten: Judith Bolk, Reinhard Coffey, Andrea Escher
+  kooperationen: Schulen, Kindergärten
+  leitbild: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 275-denkendorf/034
+ENTITÄT: einrichtung
+BEZEICHNUNG: Generationentreff Denkendorf
+QUELLE: https://www.denkendorf.de/freizeit-kultur/generationentreff/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2016
+  eroeffnung_jahreszeit: Frühjahr
+  adresse: Limburgweg 15, 73770 Denkendorf
+  leitung: Petra Kißler
+  motto: Bürger für Bürger
+  gruppen_angebote: 25
+  sitz_betreutes_wohnen: ja
+  buerozeiten: Mo/Mi 8-13 Uhr, Do 14-17 Uhr
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/035
+ENTITÄT: organisatie
+BEZEICHNUNG: ARGE (Arbeitsgemeinschaft Denkendorfer Vereine)
+QUELLE: https://www.denkendorf.de/freizeit-kultur/arge-denkendorfer-vereine/ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  organisationstyp: Dachorganisation
+  mitglieder_typ: zahlreiche aktive Vereine
+  aufgabe_hauptorgane: Schlehenfest (alle zwei Jahre), Weihnachtstreff (alljährlich), andere Fest- und Gemeindefeste
+  koordination: Vereinstermine
+  materialverwaltung: Geräte und Materialien zum Ausleihen
+  geschaeftsstelle_adresse: Lucas-Cranach-Weg 21, 73770 Denkendorf
+  geschaeftsstelle_leitung: Sarah Lang
+  kontakt_mobil: 01575-9174828
+  vorsitzende: Benjamin Grammlich, Matthias Schöllkopf
+  stellvertr_vorsitzende: Karin Grau, Rolf Fetzer
+  finanzen: Bianka Schwier
+  schriftfuehrerin: Birgit Krattenmacher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/036
+ENTITÄT: buergermeister
+BEZEICHNUNG: Ralf Barth
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_start: 2018
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/037
+ENTITÄT: buergermeister
+BEZEICHNUNG: Peter Jahn
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_von: 1986
+  amtszeit_bis: 2018
+  amtszeit_dauer_jahre: 32
+GUELTIG_AB: 1986
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/038
+ENTITÄT: buergermeister
+BEZEICHNUNG: Walter Dieterich
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_von: 1954
+  amtszeit_bis: 1986
+  amtszeit_dauer_jahre: 32
+GUELTIG_AB: 1954
+GUELTIG_BIS: 1986
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/039
+ENTITÄT: buergermeister
+BEZEICHNUNG: Fritz Stumpp
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_von: 1946
+  amtszeit_bis: 1954
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1954
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/040
+ENTITÄT: buergermeister
+BEZEICHNUNG: Adolf Silber
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_von: 1945
+  amtszeit_bis: 1946
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/041
+ENTITÄT: buergermeister
+BEZEICHNUNG: Paul Roller
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_von: 1938
+  amtszeit_bis: 1943
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/042
+ENTITÄT: buergermeister
+BEZEICHNUNG: Karl Geiger
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_von: 1909
+  amtszeit_bis: 1938
+  amtszeit_von_2: 1943
+  amtszeit_bis_2: 1945
+  beschreibung: zweite Amtszeit unterbrochen
+GUELTIG_AB: 1909
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/043
+ENTITÄT: buergermeister
+BEZEICHNUNG: Carl Wintergerst
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_von: 1900
+  amtszeit_bis: 1908
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/044
+ENTITÄT: buergermeister
+BEZEICHNUNG: Christian Rommel
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_von: 1888
+  amtszeit_bis: 1900
+GUELTIG_AB: 1888
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/045
+ENTITÄT: buergermeister
+BEZEICHNUNG: Carl Rothweiler
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_von: 1874
+  amtszeit_bis: 1888
+GUELTIG_AB: 1874
+GUELTIG_BIS: 1888
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/046
+ENTITÄT: buergermeister
+BEZEICHNUNG: Wendel Friedrich Keller
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_von: 1873
+  amtszeit_bis: 1874
+GUELTIG_AB: 1873
+GUELTIG_BIS: 1874
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/047
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Hölderlin
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/kloster | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Klosterschüler, deutscher Dichter
+  superlativ: berühmtester Zögling der Klosterschule
+  aufenthalt_beginn: 1784
+  aufenthalt_ende: 1786
+  beruf: Dichter
+  bedeutung: überregionale Bekanntheit Denkendorfs
+GUELTIG_AB: 1784
+GUELTIG_BIS: 1786
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/048
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Albrecht Bengel
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/kloster | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Klosterpräzeptor
+  amtsdauer: 28
+  amtsdauer_einheit: Jahre
+  amtszeit_von: 1713
+  amtszeit_bis: 1741
+  bedeutung: Präger des württembergischen Pietismus
+  bedeutung_geografisch: über Landesgrenzen hinaus
+  bedeutung_detail: gab württembergischem Pietismus eigenständige Prägung
+GUELTIG_AB: 1713
+GUELTIG_BIS: 1741
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 275-denkendorf/049
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Meximieux
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  bewerbung: Partnerstadt Denkendorf
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 275-denkendorf/050
+ENTITÄT: wettbewerb
+BEZEICHNUNG: Drück drauf - Fotowettbewerb
+QUELLE: https://www.denkendorf.de/gemeinde-politik/ueber-uns/fotowettbewerb | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  start: 2020
+  themen: Der Natur Denkendorfs auf der Spur, Wir leben Zusammenhalt in Denkendorf
+  einsendungen: 57
+  sieger_fotos: 24
+  jury_groesse: 6
+  ausstellung_ort: Rathaus
+  ausstellung_zeitraum: August bis Oktober 2021
+  preisgeld_1_platz: 100
+  preisgeld_1_platz_einheit: Euro
+  preisgeld_2_platz: 50
+  preisgeld_2_platz_einheit: Euro
+  preisgeld_3_platz: 25
+  preisgeld_3_platz_einheit: Euro
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 275-denkendorf/051
+ENTITÄT: gebaeude
+BEZEICHNUNG: Blarer-Haus
+ORTSTEIL_BEZUG: Kloster
+QUELLE: https://www.denkendorf.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1960
+  verwendung_historisch: Unterkunft für Flüchtlinge 2015-2016
+  geplante_zukunft: Abriss, Neubau eines Pflegestifts
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 275-denkendorf/052
+ENTITÄT: einrichtung
+BEZEICHNUNG: Evangelische Fortbildungsstätte Kloster Denkendorf
+QUELLE: https://www.denkendorf.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1972
+  verbund: Evangelisches Bildungszentrum
+  verbund_sitz: Birkach
+  verbund_dauer_bis: 2010
+GUELTIG_AB: 1972
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

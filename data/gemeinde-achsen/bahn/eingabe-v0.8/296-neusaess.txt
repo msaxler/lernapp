@@ -1,0 +1,751 @@
+ZIELORT: Neusäß (Stadt)
+LAGE: 6 km nordwestlich von Augsburg (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Neusäß
+
+GRUNDDATEN:
+  landkreis: Augsburg  [dewiki Infobox]
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 23.026  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 25,22  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 913  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 485 | 483  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2864252)]
+  naechste_grossstadt: Augsburg, 6 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 62 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 1150  [Wikidata P1249]
+  bahnhof: Neusäß, Westheim (Schwab)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 86356  [Wikidata P281]
+  vorwahl: 0821  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 40,1 %, AfD 15,9 %, GRÜNE 13,6 %, SPD 11,4 %, Die Linke 5,7 %; Wahlbeteiligung 85,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Richard Greiner (CSU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Markkleeberg, Cusset, Bracciano, Eksjö  [Wikidata P190]
+  kfz: A (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Gessertshausen (Gemeinde)
+  landkreis: Augsburg  [dewiki Infobox]
+  einwohner: 4380  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 41,35  [Wikidata P2046]
+  kfz: A (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 478 | 482  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2920812)]
+  naechste_grossstadt: Augsburg, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Gessertshausen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 39,2 %, AfD 18,7 %, GRÜNE 12,1 %, SPD 10,8 %, FREIE WÄHLER 5,5 %, Die Linke 5,3 %; Wahlbeteiligung 87,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Neusäß):
+ID: 296-neusaess/001
+ENTITÄT: ort
+BEZEICHNUNG: Neusäß
+QUELLE: https://www.neusaess.de/de/Leben-in-Neusaess/Unsere-Stadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 23500
+  motto: Mitten im Schönen
+  postleitzahl: 86356
+  telefon_vorwahl: 0821
+  bundesland: Freistaat Bayern
+  regierungsbezirk: Schwaben
+  landkreis: Augsburg
+  flaeche: 25,2 km²
+  breite: 48°24' Nord
+  laenge: 10°50' Ost
+  hoehe: 485 m ü.M.
+  ortsteile_anzahl: 8
+  superlativ: drittgrößte Stadt im Landkreis Augsburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 296-neusaess/002
+ENTITÄT: ort
+BEZEICHNUNG: Neusäß
+QUELLE: https://www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadterhebung_datum: 10.06.1988
+  einwohner_geschaetzte_zahl_1940: 5000
+  einwohner_geschaetzte_zahl_1960: 10000
+  einwohner_geschaetzte_zahl_1990: 20000
+GUELTIG_AB: 1940
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/003
+ENTITÄT: ort
+BEZEICHNUNG: Neusäß
+QUELLE: https://www.neusaess.de/de/Leben-in-Neusaess/Unsere-Stadt/Zahlen-und-Fakten/Einwohnerentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_am_01_01_2025: 23543
+  einwohner_am_31_12_2024: 23543
+  einwohner_am_31_12_2023: 23448
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 296-neusaess/004
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen Neusäß
+QUELLE: https://www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtwappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: In Rot ein goldener Pfahl, vorne eine nimbierte silberne Taube, hinten der silberne Doppelbuchstabe R
+  element_taube_herkunft: Wappen des Heilig-Geist-Spitals zu Augsburg
+  element_doppel_r_herkunft: Wappen der Augsburger Patrizierfamilie Langenmantel
+  element_pfahl_herkunft: Wappen der Markgrafschaft Burgau
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 296-neusaess/005
+ENTITÄT: gebietsreform
+BEZEICHNUNG: Gebietsreform 1972
+QUELLE: https://www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1972
+  beteiligte_orte: Hainhofen, Hammel, Neusäß, Schlipsheim, Westheim
+  beschreibung: Zusammenschluss zur Großgemeinde Neusäß
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 296-neusaess/006
+ENTITÄT: gebietsreform
+BEZEICHNUNG: Gebietsreform 1978
+QUELLE: https://www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1978
+  hinzugekommene_orte: Ottmarshausen, Steppach, Täfertingen
+  beschreibung: Erweiterung der Großgemeinde Neusäß auf acht Stadtteile
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 296-neusaess/007
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Emmauskirche
+ORTSTEIL_BEZUG: Alt-Neusäß
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1974
+  architekt: Hans Schrammel
+  umbau_jahr: 1999
+  neuweihung: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/008
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Philippuskirche
+ORTSTEIL_BEZUG: Westheim
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1928
+  architekt: Sachse
+  erweiterung_jahr: 1965
+  erweiterung_architekt: Hans Schrammel
+  sanierung_beginn: 2009
+  festgottesdienst_sanierung: 11.12.2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/009
+ENTITÄT: kapelle
+BEZEICHNUNG: Ehemalige Schlosskapelle Sankt Cosmas und Damian
+ORTSTEIL_BEZUG: Westheim
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1587
+  erweiterung_und_ausstattung: 1777
+  ausstattung: Rokoko-Altar mit Schnitzfiguren
+  architektur: Spitzbogenfenster und Kreuzgradgewölbe
+GUELTIG_AB: 1587
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/010
+ENTITÄT: kapelle
+BEZEICHNUNG: Feldkapelle
+ORTSTEIL_BEZUG: Schlipsheim
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1750
+  genauigkeit: ca.
+  lage_von_ortsmitte: 800 m westlich
+  ausstattung: lebensgroße Figur des gegeißelten Heilands
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/011
+ENTITÄT: kapelle
+BEZEICHNUNG: Katholische Kapelle Sankt Ägidius
+ORTSTEIL_BEZUG: Alt-Neusäß
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kernbau: 16. Jahrhundert
+  umbau_1602: 1602
+  umbau_und_neuausstattung: 1711
+  herkunft: ursprünglich zum abgegangenen Remboldschlösschen
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/012
+ENTITÄT: kapelle
+BEZEICHNUNG: Katholische Kapelle Sankt Antonius von Padua
+ORTSTEIL_BEZUG: Hainhofen
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1580
+  genauigkeit: spätes 16. Jahrhundert
+  erbauer: Graf Anton Fugger
+  altarbild: Johann Rieger aus Dinkelscherben
+  altarbild_jahr: 1728
+GUELTIG_AB: 1580
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/013
+ENTITÄT: kapelle
+BEZEICHNUNG: Katholische Kapelle Sankt Nikolaus von Tolentino
+ORTSTEIL_BEZUG: Schlipsheim
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Hauskapelle eines früheren Schlosses
+  neubau: 1793
+  neubau_erbauer: Heilig-Kreuz-Stift Augsburg
+  ausstattung: Fresken aus dem 18. Jahrhundert und Altargemälde
+GUELTIG_AB: 1793
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/014
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche Mariä Himmelfahrt
+ORTSTEIL_BEZUG: Täfertingen
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauweise: Kern spätgotische Anlage
+  langhaus_und_turm_erhoehung: 1710-1720
+  ausmalung: 1791
+  ausmalung_kuenstler: Johann Josef Anton Huber
+  ausmalung_stilrichtung: klassizistisch mit Architekturmalerei
+  turmsanierung: 2012
+  zwiebelkuppel_erneuerung: 2012
+  werke: spätgotische Reliefgruppe und sitzende Muttergottes aus frühem 15. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/015
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche Sankt Ägidius
+ORTSTEIL_BEZUG: Alt-Neusäß
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1952-1953
+  architekt: Thomas Wechs
+  ausstattung: Muttergottes aus frühem 18. Jahrhundert
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/016
+ENTITÄT: kirche
+BEZEICHNUNG: Ehemalige Katholische Pfarrkirche Sankt Gallus
+ORTSTEIL_BEZUG: Steppach
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 12. Jahrhundert
+  neubau: 1626
+  neubau_baumeister: Johann Alberthal
+  neubau_stil: Renaissance
+  deckenfresko: 1740
+  deckenfresko_kuenstler: Johann Georg Lederer
+  deckenfresko_uebermalt: 1866
+  kirchenerweiterung: 1866
+  ausstattung: erste Hälfte 18. Jahrhundert
+  pfarrhaus: Mitte 18. Jahrhundert
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/017
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche Sankt Nikolaus von Flüe
+ORTSTEIL_BEZUG: Westheim
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1961-1962
+  architekt: Alfred Back
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/018
+ENTITÄT: kirche
+BEZEICHNUNG: Neue Katholische Pfarrkirche Sankt Raphael
+ORTSTEIL_BEZUG: Steppach
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekten: Robert Gerum und Karl Rubner
+  einweihung: 31.07.1983
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/019
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche Sankt Stephanus
+ORTSTEIL_BEZUG: Hainhofen
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchturm_unterteil: 14. Jahrhundert
+  kirchturm_erhoehung: um 1500
+  kirchturm_umgestaltung: 1570
+  genauigkeit: ca.
+  langhaus_neubau: 1718
+  wandfresken: spätes 14. Jahrhundert
+  wandfresken_thema: Leidensgeschichte Christi
+  grabdenkmale: Familie von Rehlingen
+  pfarrhaus_schwibboegen: 4 Schwibbögen
+  pfarrhaus_satteldachanbau: erste Hälfte 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/020
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche Sankt Thomas Morus
+ORTSTEIL_BEZUG: Alt-Neusäß
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1970-1972
+  architekt: Alexander von Branca
+  plastiken: Ernst Steinacker
+  plastiken_herkunft: Wemding
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/021
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche Sankt Vitus
+ORTSTEIL_BEZUG: Ottmarshausen
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1965-1967
+  architekt: Karl Sendlinger
+  ausstattung: alte Holzfiguren, Madonna aus zweiter Hälfte 15. Jahrhundert
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/022
+ENTITÄT: wallfahrtskirche
+BEZEICHNUNG: Katholische Wallfahrtskirche Sankt Maria von Loreto
+ORTSTEIL_BEZUG: Westheim
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  chor_und_loretokapelle_baujahr: 1602
+  chor_nachbildung: heiliges Haus von Nazareth
+  langhaus_erweiterung: 1728
+  ausbau: 1758
+  ausmalung: 1793
+  ausmalung_kuenstler: Johann Josef Anton Huber
+  ausstattung: Weihnachtskrippe
+  gueltig_ab_erbauung: 1602
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/023
+ENTITÄT: schloss
+BEZEICHNUNG: Caritas-Seniorenzentrum Notburga
+ORTSTEIL_BEZUG: Westheim
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: mittelalterliches Wasserschloss
+  ursprung_zuschreibung: Familie Langenmantel
+  barocker_hauptbau_schaetzung: nach 1561
+  grund_schaetzung: Familie Langenmantel 1561 geadelt
+  neues_schloss: Ende 17. Jahrhundert
+  neues_schloss_nutzung: heute Caritas-Seniorenzentrum Notburga
+  altes_schloss_abriss: 1972
+  erweiterungsbau_statt_altes_schloss: 1972
+GUELTIG_AB: 1561
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/024
+ENTITÄT: schloss
+BEZEICHNUNG: Liebertschlösschen
+ORTSTEIL_BEZUG: Alt-Neusäß
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerber: Benedikt Adam von Liebert
+  erwerb_jahr: 1762
+  erwerber_beschreibung: Augsburger Bankier
+  erwerber_weitere_werke: Erbauer des Augsburger Schaetzlerpalais
+  besitzverhaeltnis: Privatbesitz
+  isT_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 296-neusaess/025
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Hainhofen
+ORTSTEIL_BEZUG: Hainhofen
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorlaeufer: mittelalterliches Wasserschloss
+  barockes_hochschloss_baujahr: 1730
+  barockes_hochschloss_architektur: viergeschossiger Walmdachbau
+  klassizistisches_langschloss_baujahr: 1760-1780
+  fruehe_besitzer: Patrizierfamilien Fugger und von Rehlingen
+  besitzverhaeltnis: Privatbesitz
+  restaurierung: aufwändig und umfassend
+  denkmalpreis_schwaben: 2013
+GUELTIG_AB: 1730
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/026
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Hammel
+ORTSTEIL_BEZUG: Hammel
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hauptbau_kern: 16. Jahrhundert
+  hauptbau_erneuerung: um 1890
+  architektur_spaetgotik: Stilelemente der Fassade
+  kapelle: aus früher Zeit erhalten
+  umfassungsmauer_mit_wehrtuerme: 1560
+  malakowturm: vorhanden mit späterem Holzaufbau
+  gartenportale: barocke Portale
+  besitzer_seit: ca. 1700
+  besitzer: Familie von Stetten
+GUELTIG_AB: 1560
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/027
+ENTITÄT: archive
+BEZEICHNUNG: Stadtarchiv Neusäß
+QUELLE: https://www.neusaess.de/Archiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: zentrale Dienststelle für Fragen zur Neusässer Stadtgeschichte
+  bestaende_zeitraum: bis ins 17. Jahrhundert zurück
+  bestaende_umfang: alle acht Stadtteile
+  bestaende_schwerpunkt: 19. und 20. Jahrhundert
+  bestandsverwaltung: Urkunden, Akten, Bände, Fotos, Karten, Film- und Tonaufnahmen, private Nachlässe
+  registereinsicht: Ehe- und Lebenspartnerschaftsregister bis 1933, Geburtenregister bis 1907, Sterberegister bis 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/028
+ENTITÄT: monument
+BEZEICHNUNG: Bismarckturm
+ORTSTEIL_BEZUG: Steppach
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1905
+  architekt: Wilhelm Heinrich Kreis
+  architekt_herkunft: Dresden
+  grund: zu Ehren des ehemaligen Reichskanzlers und aufgrund damaligen Nationalstolzes
+  renovierung: 1983
+  renovierung_umfang: komplett neu renoviert
+  besitz: Stadt Augsburg
+  verwaltung: Erholungsverein Augsburg
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1905
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/029
+ENTITÄT: burgstall
+BEZEICHNUNG: Burgstall auf dem Hammelberg
+ORTSTEIL_BEZUG: Hammel
+QUELLE: https://www.neusaess.de/de/Kultur-und-Freizeit/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_mittelalter: Sitz eines Ministerialengeschlechts
+  funktion_zeitraum: 11. und 12. Jahrhundert
+  weiterer_standort: um 1150 kurze Zeit Standort eines Augustiner-Chorherrenstifts
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1150
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/030
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr
+QUELLE: https://www.neusaess.de/de/Leben-in-Neusaess/Feuerwehren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Freiwillige Feuerwehr
+  stadtteil_einheiten: 8
+  verfuegbarkeit: 365 Tage pro Jahr, 24 Stunden pro Tag
+  einsatzart: ehrenamtlich und unentgeltlich
+  fahrzeuge_loeschgruppenfahrzeuge: mind. 1 pro Feuerwehr, insgesamt 8
+  fahrzeuge_mehrzweckfahrzeuge: bei den meisten Feuerwehren
+  stuetzpunktfeuerwehr: Neusäß
+  spezialausstattung_stuetzpunkt: zentrale Atemschutz- und Schlauchwerkstatt, Drehleiter, Gerätewagen Umwelt
+  abc_zug_stationierung: Stützpunktfeuerwehr Neusäß
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/031
+ENTITÄT: besiedlung
+BEZEICHNUNG: Allemanische Ortsgründung Täfertingen
+ORTSTEIL_BEZUG: Täfertingen
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 6./7. Jahrhundert
+  befunde: Grabstätten, Dorfnamenendung "-ingen"
+  schlussfolgerung: allemanische Ortsgründung
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 600
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/032
+ENTITÄT: besiedlung
+BEZEICHNUNG: Archäologische Funde Ottmarshausen
+ORTSTEIL_BEZUG: Ottmarshausen
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fund: Gotteshaus
+  zeitraum: 9. Jahrhundert
+  beschreibung: Geburtsstunde des Ortes
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/033
+ENTITÄT: siedlung
+BEZEICHNUNG: Besiedlung Schlipsheim und Steppach
+ORTSTEIL_BEZUG: Schlipsheim, Steppach
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 10. Jahrhundert
+  erste_urkundliche_erwaehnung_steppach: 1150
+  erste_urkundliche_erwaehnung_quellenauthor: Augsburger Bischof Walther
+GUELTIG_AB: 900
+GUELTIG_BIS: 1150
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/034
+ENTITÄT: siedlung
+BEZEICHNUNG: Siedlung Westheim
+ORTSTEIL_BEZUG: Westheim
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 11. Jahrhundert
+  beschreibung: erste dauerhafte Siedlungen
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/035
+ENTITÄT: kloster
+BEZEICHNUNG: Augustiner-Chorherren-Stift
+ORTSTEIL_BEZUG: Hammel
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprungslage: Muttershofen bei Lützelburg
+  verlegung: auf den Hügel Hamel bei Augsburg
+  zeitraum_verlegung: 12. Jahrhundert
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/036
+ENTITÄT: papstliche_bulle
+BEZEICHNUNG: Bulle Papst Alexander III.
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  papst: Alexander III.
+  datum: 24. Oktober 1178
+  inhalt: Besitzungen der Stiftsherren der Augsburger Sankt Moritz-Kirche unter Schutz
+  erwaehnte_orte: Anwesen in Niusazen
+GUELTIG_AB: 1178
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/037
+ENTITÄT: burg
+BEZEICHNUNG: Burg auf Westheimer Flur
+ORTSTEIL_BEZUG: Westheim
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Geschlecht der de westhain
+  zeitraum: 13. Jahrhundert
+  bauwerk: Burg
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/038
+ENTITÄT: kapelle
+BEZEICHNUNG: Wallfahrtskirche Sankt Maria von Loreto
+ORTSTEIL_BEZUG: Westheim
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauwerk: Wallfahrtskirche
+  lage: Kobel
+  zeitraum: 17. Jahrhundert
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/039
+ENTITÄT: schlosskapelle
+BEZEICHNUNG: Sankt Kosmas und Damian
+ORTSTEIL_BEZUG: Westheim
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 16. Jahrhundert
+  beschreibung: Schlosskapelle in Westheim
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/040
+ENTITÄT: schloss
+BEZEICHNUNG: Hammeler Schloss
+ORTSTEIL_BEZUG: Hammel
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 16. Jahrhundert
+  beschreibung: Schloss in Hammel
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/041
+ENTITÄT: kapelle
+BEZEICHNUNG: Sankt Ägidius-Kapelle
+ORTSTEIL_BEZUG: Alt-Neusäß
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 16. Jahrhundert
+  beschreibung: Kapelle in Neusäß
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/042
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Schlipsheim
+ORTSTEIL_BEZUG: Schlipsheim
+QUELLE: https://www.neusaess.de/de/Rathaus/Staedtische-Beteiligungen/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abriss: 19. Jahrhundert
+  grund_abriss: baufälliger Zustand
+  erhalten: angebaute Kapelle Sankt Nikolaus von Tolentino renoviert
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/043
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Glasfaserausbau Schlipsheim und Vogelsang
+ORTSTEIL_BEZUG: Schlipsheim
+QUELLE: https://www.neusaess.de/Breitband | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anbieter: LEW Highspeed
+  planungs_und_bau_zeitraum: Mitte 2025 bis Ende Q1 2026
+  bauphase_start: Q2 2026
+  netzmontage_start: Q4 2026
+  inbetriebnahme_start: Anfang 2027
+  fertigstellung_geplant: Ende 2027
+  kosten: von LEW vollständig eigenwirtschaftlich getragen
+  preis_hausanschluss: 399 Euro Sonderpreis während Bauphase
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2025
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 296-neusaess/044
+ENTITÄT: ortsteil
+BEZEICHNUNG: Alt-Neusäß
+QUELLE: https://www.neusaess.de/de/Leben-in-Neusaess/Unsere-Stadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Teil der Stadt Neusäß
+  fluss: rechts oder links Schmutter
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/045
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hainhofen
+QUELLE: https://www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammenschluss_neusaess: 1972
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/046
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hammel
+QUELLE: https://www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammenschluss_neusaess: 1972
+  wappen_genehmigung: 1954
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/047
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ottmarshausen
+QUELLE: https://www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammenschluss_neusaess: 1978
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/048
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schlipsheim
+QUELLE: https://www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtwappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammenschluss_neusaess: 1972
+  wappen_genehmigung: 1950er Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/049
+ENTITÄT: ortsteil
+BEZEICHNUNG: Steppach
+QUELLE: https://www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammenschluss_neusaess: 1978
+  erste_urkundliche_erwaehnung: 1150
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/050
+ENTITÄT: ortsteil
+BEZEICHNUNG: Täfertingen
+QUELLE: https://www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammenschluss_neusaess: 1978
+  besiedlung_friehzeit: 6./7. Jahrhundert
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 296-neusaess/051
+ENTITÄT: ortsteil
+BEZEICHNUNG: Westheim
+QUELLE: https://www.neusaess.de/de/Rathaus/Stadtarchiv/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammenschluss_neusaess: 1972
+  besiedlung_friehzeit: 11. Jahrhundert
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

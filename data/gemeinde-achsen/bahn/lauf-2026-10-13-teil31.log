@@ -1,0 +1,64 @@
+Orte: 286-amstetten 287-dornstadt 288-elchingen 289-leipheim 290-offingen 291-jettingen-scheppach 292-zusmarshausen 293-dinkelscherben 294-adelsried 295-gessertshausen
+== Extraktion (Haiku) 23:20:17
+286-amstetten        extraktion ein  21243  aus   9396   0.08 USD    70 s  claude-haiku-4-5-20251001
+287-dornstadt        extraktion ein  31734  aus  13303   0.12 USD   111 s  claude-haiku-4-5-20251001
+288-elchingen        extraktion ein  24083  aus  13608   0.10 USD   108 s  claude-haiku-4-5-20251001
+289-leipheim         extraktion ein  25033  aus  11251   0.09 USD   106 s  claude-haiku-4-5-20251001
+290-offingen         extraktion ein  23089  aus  22148   0.14 USD   169 s  claude-haiku-4-5-20251001
+291-jettingen-scheppach extraktion ein  33285  aus  16021   0.13 USD   111 s  claude-haiku-4-5-20251001
+292-zusmarshausen    extraktion ein  23874  aus  10608   0.09 USD    83 s  claude-haiku-4-5-20251001
+293-dinkelscherben   extraktion ein  21637  aus  10394   0.08 USD    79 s  claude-haiku-4-5-20251001
+294-adelsried        extraktion ein  25648  aus  17907   0.13 USD   149 s  claude-haiku-4-5-20251001
+295-gessertshausen   extraktion ein  92607  aus  33720   0.28 USD   210 s  claude-haiku-4-5-20251001
+zusammen: 13765 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+286-amstetten      14915 Zeichen
+287-dornstadt      36712 Zeichen
+288-elchingen      26147 Zeichen
+289-leipheim       26505 Zeichen
+290-offingen       26886 Zeichen
+291-jettingen-scheppach   38050 Zeichen
+292-zusmarshausen   27321 Zeichen
+293-dinkelscherben   25923 Zeichen
+294-adelsried      21764 Zeichen
+295-gessertshausen   10516 Zeichen
+== Karten (claude-opus-5-5) 23:26:38
+286-amstetten        karten     ein  35246  aus  44761   1.12 USD   390 s  claude-opus-5-5
+287-dornstadt        karten     ein  48303  aus  40050   1.13 USD   342 s  claude-opus-5-5
+288-elchingen        karten     ein  42187  aus  48242   1.25 USD   432 s  claude-opus-5-5
+289-leipheim         karten     ein  42151  aus  37843   1.04 USD   324 s  claude-opus-5-5
+290-offingen         karten     ein  42857  aus  29546   0.88 USD   254 s  claude-opus-5-5
+291-jettingen-scheppach karten     ein  49559  aus  41073   1.16 USD   353 s  claude-opus-5-5
+292-zusmarshausen    karten     ein  42981  aus  41087   1.11 USD   362 s  claude-opus-5-5
+293-dinkelscherben   karten     ein  42122  aus  34532   0.97 USD   299 s  claude-opus-5-5
+294-adelsried        karten     ein  36571  aus  40568   1.05 USD   360 s  claude-opus-5-5
+295-gessertshausen   karten     ein  32435  aus  29689   0.80 USD   256 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 23:39:07
+286-amstetten        pruefung   ein  45676  aus   7547   0.46 USD    66 s  claude-opus-5-5
+287-dornstadt        pruefung   ein  74783  aus  10271   0.75 USD    92 s  claude-opus-5-5
+288-elchingen        pruefung   ein  49895  aus   8687   0.52 USD    78 s  claude-opus-5-5
+289-leipheim         pruefung   ein  58410  aus  10009   0.61 USD    85 s  claude-opus-5-5
+290-offingen         pruefung   ein  56095  aus   8539   0.57 USD    75 s  claude-opus-5-5
+291-jettingen-scheppach pruefung   ein  71438  aus   9630   0.71 USD    85 s  claude-opus-5-5
+292-zusmarshausen    pruefung   ein  54852  aus  10205   0.59 USD    86 s  claude-opus-5-5
+293-dinkelscherben   pruefung   ein  45630  aus   6249   0.44 USD    60 s  claude-opus-5-5
+294-adelsried        pruefung   ein  54672  aus  16048   0.70 USD   138 s  claude-opus-5-5
+295-gessertshausen   pruefung   ein  51048  aus   7001   0.49 USD    67 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 23:42:51
+286-amstetten        stufe2     ein 238410  aus   5349   0.63 USD    88 s  claude-opus-5-5,claude-haiku-4-5-20251001
+287-dornstadt        FEHLER keine Karte an Stufe 2 – kein Lauf
+288-elchingen        stufe2     ein 255264  aus   7247   0.76 USD   109 s  claude-opus-5-5,claude-haiku-4-5-20251001
+289-leipheim         stufe2     ein 138422  aus   3184   0.30 USD    48 s  claude-opus-5-5,claude-haiku-4-5-20251001
+290-offingen         stufe2     ein 221847  aus   4929   0.54 USD    81 s  claude-opus-5-5,claude-haiku-4-5-20251001
+291-jettingen-scheppach stufe2     ein 116749  aus   2187   0.33 USD    54 s  claude-opus-5-5,claude-haiku-4-5-20251001
+292-zusmarshausen    stufe2     ein 160995  aus   4712   0.53 USD    83 s  claude-opus-5-5,claude-haiku-4-5-20251001
+293-dinkelscherben   stufe2     ein 527860  aus  15708   1.75 USD   245 s  claude-opus-5-5,claude-haiku-4-5-20251001
+294-adelsried        FEHLER keine Karte an Stufe 2 – kein Lauf
+295-gessertshausen   stufe2     ein 119869  aus   2945   0.34 USD    45 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 23:47:50
+Urteile: {'korrigiert': 874, 'bestätigt': 1531, 'gesperrt': 68, 'unsicher': 171} | im Vorrat: 2576 Karten an 295 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     295 Orte, 2576 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 2914386 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 23:47:52

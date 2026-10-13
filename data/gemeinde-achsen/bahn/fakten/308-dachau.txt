@@ -1,0 +1,503 @@
+ID: 308-dachau/001
+ENTITÄT: ort
+BEZEICHNUNG: Dachau
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung_datum: 15. August 805
+  erste_urkundliche_erwähnung_form: Schenkung an Bistum Freising durch Erchana (Edles Geschlecht der Aribonen)
+  ursprüngliche_bezeichnung: Dahauua
+  erstmals_als_markt_genannt: 1270
+  zur_stadt_erhoben_datum: 15. November 1933
+  zur_großen_kreisstadt_erhoben_datum: 1. Februar 1973
+  ist_kreisstadt: true
+  ist_große_kreisstadt: true
+  einwohner: 48000 (ca.)
+  einwohner_aktuell: 48361
+  einwohner_aktuell_datum: Januar 2023
+GUELTIG_AB: 805
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 308-dachau/002
+ENTITÄT: ort
+QUELLE: https://www.dachau.de/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: Bayern
+  regierungsbezirk: Oberbayern
+  landkreis: Dachau
+  lage_geografisch: nordwestlich von München
+  fluss: Amper
+  gesamtfläche: 34.96 km²
+  höchster_punkt: 519.4 m (Schloss Dachau)
+  niedrigster_punkt: 472.9 m (Zentralkläranlage)
+  postleitzahl: 85221
+  telefonvorwahl: 08131
+  oberbürgermeister: Florian Hartmann
+  oberbürgermeister_partei: SPD
+  verwaltungsadresse: Konrad-Adenauer-Straße 2-6
+  verkehrslage_bahn: Bahnstrecke München-Ingolstadt, S-Bahn-Verbindung nach München
+  verkehrslage_autobahn_nähe: A 8 (München-Stuttgart), A 9 (München-Nürnberg), A 92 (München-Deggendorf)
+  entfernung_flughafen_münchen: ca. 30 km
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 308-dachau/003
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Dachau-Ost
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund_entstehung: Zuzug von Heimatvertriebenen aus deutschen Ostgebieten nach Zweitem Weltkrieg
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/004
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Dachau
+QUELLE: https://www.dachau.de/dachauer-schlosskonzerte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühere_funktion: Sommerresidenz der Wittelsbacher
+  architektur_saal: Renaissancesaal
+  nutzung_aktuell: Austragungsort Dachauer Schlosskonzerte
+  höhe_standort: 519.4 m (höchster Punkt Dachaus)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/005
+ENTITÄT: stadtwappen
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hintergrund_farbe: blau
+  element_1_feld: rot
+  element_1_beschreibung: silberner Sporn
+  element_1_herkunft_vermutung_1: möglicherweise Wappen eines Schloßpflegers Hanns der Marschalck (1371-1373)
+  element_1_herkunft_vermutung_2: möglicherweise von Kaiser Ludwig dem Bayer verliehen als Abzeichen der Tapferkeit bei Ampfing (1322)
+  element_2_feld: schwarz
+  element_2_beschreibung: linksgewendeter, rot gekrönter und rot bewehrter goldener Löwe
+  element_2_herkunft: Wappen der Grafen von Dachau
+  element_2_herkunft_anmerkung: Grafen von Dachau verstorben 1178 ohne männliche Nachkommenschaft
+  element_3_feld: silber
+  element_3_beschreibung: blaue Schlange mit roter Zunge
+  element_3_bedeutung: Geschlecht der Visconti
+  element_3_grund: Herzog Ernst heiratete 1396 Elisabetha Visconti und schenkte ihr Dachau als Morgengabe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 308-dachau/006
+ENTITÄT: gedenkstätte
+BEZEICHNUNG: KZ-Gedenkstätte Dachau
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestandteile: Museum und Archiv
+  programm_zeitzeugen: Gespräche mit Zeitzeugen und Überlebenden
+  programm_gedenkveranstaltungen: jährlich
+  programm_symposium: jährliches Zeitgeschichtssymposium
+  programm_führungen: qualifizierte Führungen auf dem Gelände des ehemaligen Schutzhaftlagers
+  programm_jugendliche: Veranstaltungen für Jugendliche aus In- und Ausland
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 308-dachau/007
+ENTITÄT: konzentrationslager
+BEZEICHNUNG: Konzentrationslager Dachau
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1933
+  name: von Anfang an Dachau
+  folge_stadt: Schatten über die Stadt, Wandel von angesehener Künstlerstadt zum Symbol menschenverachtenden Terrors des NS-Regimes
+  status: ehemaliges Schutzhaftlager
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 308-dachau/008
+ENTITÄT: malerkolonie
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Dachau
+  zeitraum: 19. Jahrhundert bis ca. 1900
+  grund_gründung: Landschaftsmaler suchten nach Motiven in der Natur und fanden Gefallen an reizvollen Moor- und Sumpflandschaft
+  künstlerische_bedeutung: neben Worpswede bedeutende deutsche Malerkolonie
+  besonderheit_zeit_um_1900: jeder zehnte Passant, dem man auf den Straßen Dachaus begegnete, war ein Maler
+  niedergang: kam mit Ersten Weltkrieg – Dachau verarmte, zählte bald zu Gemeinden mit höchster Arbeitslosigkeit
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 308-dachau/009
+ENTITÄT: künstler
+BEZEICHNUNG: Carl Spitzweg
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit: Maler
+  verbindung_dachau: Name bis heute mit Stadt verbunden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/010
+ENTITÄT: künstler
+BEZEICHNUNG: Max Liebermann
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit: Maler
+  verbindung_dachau: Name bis heute mit Stadt verbunden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/011
+ENTITÄT: künstler
+BEZEICHNUNG: Lovis Corinth
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit: Maler
+  verbindung_dachau: Name bis heute mit Stadt verbunden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/012
+ENTITÄT: künstler
+BEZEICHNUNG: Ludwig Dill
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit: Maler
+  verbindung_dachau: Name bis heute mit Stadt verbunden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/013
+ENTITÄT: künstler
+BEZEICHNUNG: Adolf Hölzel
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit: Maler
+  verbindung_dachau: Name bis heute mit Stadt verbunden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/014
+ENTITÄT: künstler
+BEZEICHNUNG: Arthur Langhammer
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit: Maler
+  verbindung_dachau: Name bis heute mit Stadt verbunden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/015
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Schwedische Belagerung und Plünderung Dachaus
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_historisch: Dreißigjähriger Krieg
+  beschreibung: Markt wurde belagert und geplündert
+  bedeutung_für_bevölkerung: schlimmste Zeit, die die Bevölkerung erlebte
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 308-dachau/016
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Kämpfe bei Ampfing
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1322
+  beteiligte: Bürger von Dachau
+  charakterisierung: Tapferkeit
+  bezug_stadtwappen: möglicherweise Grund für Verleihung des Sporns durch Kaiser Ludwig den Bayer
+GUELTIG_AB: 1322
+GUELTIG_BIS: 1322
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 308-dachau/017
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Erster Weltkrieg – Niedergang Dachaus
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  folgen: Dachau verarmte, zählte bald zu Gemeinden mit höchster Arbeitslosigkeit
+  grund_niedergang: Der Krieg brachte Niedergang des Ortes als Künstlerkolonie
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 308-dachau/018
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Aufnahme von Heimatvertriebenen nach dem Zweiten Weltkrieg
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Nach 1945
+  herkunft: deutsche Ostgebiete
+  folgen: Schneller Anstieg der Einwohnerzahl, Entstehung des neuen Stadtviertels Dachau-Ost
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 308-dachau/019
+ENTITÄT: publikation
+BEZEICHNUNG: Zeitschrift Amperland
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: heimatkundliche Fachzeitschrift
+  inhalte: Artikel zu Stadt und Landkreis Dachau
+  verfügbarkeit: online abrufbar
+  website: https://www.zeitschrift-amperland.de/
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/020
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Dachauer Symposium zur Zeitgeschichte
+QUELLE: https://www.dachau.de/dachauer-symposium-zur-zeitgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seit: 2000
+  veranstalter: Stadt Dachau
+  kooperationspartner: Max-Mannheimer-Studienzentrum / Internationales Jugendgästehaus
+  häufigkeit: jährlich
+  thema: wissenschaftlicher Austausch über Geschichte des Nationalsozialismus
+  publikation_reihe: Dachauer Symposium zur Zeitgeschichte
+  publikation_verlag: Wallstein (Göttingen)
+  wissenschaftliche_leitung: Prof. Dr. Sybille Steinbacher (Universität Frankfurt am Main, Direktorin Fritz Bauer Institut)
+  bedeutung: Forum wissenschaftlichen Austauschs in internationaler Zeitgeschichtsforschung und interessierter Öffentlichkeit
+  beitrag_zu_stadt: trägt in besonderem Maße zur Bedeutung Dachaus als Lern- und Erinnerungsort bei
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 308-dachau/021
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Dachauer Symposium zur Zeitgeschichte 2026
+QUELLE: https://www.dachau.de/dachauer-symposium-zur-zeitgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 16./17. Oktober 2026
+  ort: Max Mannheimer Haus
+  thema: Künstlerische Erinnerungszeichen in KZ-Gedenkstätten von 1945 bis heute
+  untertitel: Ästhetik, Ikonografien, Funktionen, Kontroversen
+  wissenschaftliche_leitung: Verena Krieger (Friedrich-Schiller-Universität Jena)
+  projektleitung: Sybille Steinbacher
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 308-dachau/022
+ENTITÄT: veranstaltungsreihe
+BEZEICHNUNG: Dachauer Schlosskonzerte
+QUELLE: https://www.dachau.de/dachauer-schlosskonzerte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  häufigkeit: fünfmal pro Jahr
+  ort: Dachauer Schloss, Renaissancesaal
+  musikgenre: klassische Musik
+  künstler_herkunft: renommierte und preisgekrönte Solistinnen und Solisten, Ensembles und Orchester aus aller Welt
+  seit: viele Jahrzehnte
+  ticketing_art: Einzelkarten und Jahresabonnement
+  abonnement_kategorie_a_preis: 140 EUR
+  abonnement_kategorie_b_preis: 132 EUR
+  abonnement_merkmal: übertragbar, alle fünf Konzerte eines Konzertjahres
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 308-dachau/023
+ENTITÄT: institution
+BEZEICHNUNG: Max-Mannheimer-Studienzentrum / Internationales Jugendgästehaus
+QUELLE: https://www.dachau.de/dachauer-symposium-zur-zeitgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Roßwachtstraße 15, 85221 Dachau
+  telefon_1: +49 (0) 81 31 61 77-10
+  telefon_2: +49 (0) 81 31 3 22 95-50
+  email: bildung@mmsz-dachau.de
+  website: www.mmsz-dachau.de
+  leitung: Felizitas Raith
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/024
+ENTITÄT: person
+BEZEICHNUNG: Erchana
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel_stand: Edle
+  herkunft: altes Grafengeschlecht der Aribonen
+  aktion: Schenkung ihres gesamten Grundbesitzes in Dahauua an Bistum Freising
+  aktion_datum: 15. August 805
+  bedeutung: Urkunde aus dieser Schenkung ist die erste bekannte urkundliche Erwähnung Dachaus
+GUELTIG_AB: 805
+GUELTIG_BIS: 805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/025
+ENTITÄT: person
+BEZEICHNUNG: Hanns der Marschalck
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Schloßpfleger
+  amtszeit: 1371-1373
+  vermutung_bezug: Sporn im Stadtwappen könnte sein Wappen gewesen sein
+GUELTIG_AB: 1371
+GUELTIG_BIS: 1373
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.55
+---
+ID: 308-dachau/026
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Ludwig der Bayer
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vermutung: könnte Sporn als Wappen verliehen haben
+  grund: Abzeichen der Tapferkeit der Dachauer Bürger bei Ampfing
+  grund_jahr: 1322
+  genauigkeit: vermutlich
+GUELTIG_AB: 1322
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.55
+---
+ID: 308-dachau/027
+ENTITÄT: person
+BEZEICHNUNG: Herzog Ernst
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Heirat mit Elisabetha Visconti
+  aktion_jahr: 1396
+  schenkung: Dachau an Elisabetha Visconti als Morgengabe
+GUELTIG_AB: 1396
+GUELTIG_BIS: 1396
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 308-dachau/028
+ENTITÄT: person
+BEZEICHNUNG: Elisabetha Visconti
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft_geschlecht: Visconti
+  ereignis: Heirat mit Herzog Ernst
+  ereignis_jahr: 1396
+  morgengabe: Dachau
+  bedeutung_stadtwappen: Grund für Symbol der blauen Schlange im Stadtwappen
+GUELTIG_AB: 1396
+GUELTIG_BIS: 1396
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 308-dachau/029
+ENTITÄT: person
+BEZEICHNUNG: Florian Hartmann
+QUELLE: https://www.dachau.de/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Oberbürgermeister der Stadt Dachau
+  partei: SPD
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/030
+ENTITÄT: person
+BEZEICHNUNG: Prof. Dr. Sybille Steinbacher
+QUELLE: https://www.dachau.de/dachauer-symposium-zur-zeitgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_dachau: Wissenschaftliche Leiterin Dachauer Symposium zur Zeitgeschichte
+  universität: Universität Frankfurt am Main
+  position_universität: Direktorin Fritz Bauer Institut
+  lehrfeld: Geschichte und Wirkung des Holocaust am Historischen Seminar der Goethe-Universität Frankfurt am Main
+  titel: Professorin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/031
+ENTITÄT: person
+BEZEICHNUNG: Felizitas Raith
+QUELLE: https://www.dachau.de/dachauer-symposium-zur-zeitgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Leiterin des Max Mannheimer Studienzentrums, Dachau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/032
+ENTITÄT: person
+BEZEICHNUNG: Verena Krieger
+QUELLE: https://www.dachau.de/dachauer-symposium-zur-zeitgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Professorin
+  fachgebiet: Kunstgeschichte
+  universität: Friedrich-Schiller-Universität Jena
+  rolle_symposium_2026: Wissenschaftliche Leitung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/033
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Dachauer Moos
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Sumpfgebiet
+  lage: südlich von Dachau
+  charakterisierung: reizvolle Moor- und Sumpflandschaft
+  kulturelle_bedeutung: zog Maler an
+GUELTIG_AB: 805
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 308-dachau/034
+ENTITÄT: bistum
+BEZEICHNUNG: Bistum Freising
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_geschichte: Empfänger der Schenkung von Grundbesitz in Dahauua durch Erchana
+  ereignis_datum: 15. August 805
+GUELTIG_AB: 805
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 308-dachau/035
+ENTITÄT: adliges_geschlecht
+BEZEICHNUNG: Grafen von Dachau
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappen: linksgewendeter, rot gekrönter und rot bewehrter goldener Löwe
+  ende_herrschaft: 1178
+  grund_ende: verstorben ohne Hinterlassung männlicher Nachkommenschaft
+  wappen_bedeutung: Symbol im Stadtwappen
+GUELTIG_AB: 1000
+GUELTIG_BIS: 1178
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 308-dachau/036
+ENTITÄT: adliges_geschlecht
+BEZEICHNUNG: Aribonen
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: altes Grafengeschlecht
+  bekannte_mitglieder: Erchana (Edle)
+  bedeutung: Herkunft Erchanas, die 805 Grundbesitz in Dahauua dem Bistum Freising schenkte
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 308-dachau/037
+ENTITÄT: adliges_geschlecht
+BEZEICHNUNG: Visconti
+QUELLE: https://www.dachau.de/stadtgeschichte-stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung_dachau: Elisabetha Visconti heiratete 1396 Herzog Ernst und erhielt Dachau als Morgengabe
+  wappen_bedeutung: Symbol der blauen Schlange mit roter Zunge im Stadtwappen
+GUELTIG_AB: 1396
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 308-dachau/038
+ENTITÄT: forschungsinstitut
+BEZEICHNUNG: Fritz Bauer Institut
+QUELLE: https://www.dachau.de/dachauer-symposium-zur-zeitgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Universität Frankfurt am Main (Goethe-Universität)
+  direktion: Prof. Dr. Sybille Steinbacher
+  website: fritz-bauer-institut.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

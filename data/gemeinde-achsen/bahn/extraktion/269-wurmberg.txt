@@ -1,0 +1,517 @@
+ENTITÄT: ort
+DESIGNIERUNG: Wurmberg
+QUELLE: https://www.wurmberg.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung_form: Wurenberc
+  urkundliche_ersterwahnung_moeglichkeit: 1194
+  urkundliche_ersterwahnung_gesichert: 1221
+  urkundliche_ersterwahnung_anlass: Bestätigung über Gründung einer Kapelle
+  benannt_nach: (unbekannt)
+  kirche_gehoerte_anfangs_zu: Wiernsheim
+  erhielt_pfarreirechte: ja
+GUELTIG_AB: 1194
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  kreis: Enzkreis
+  bundesland: Baden-Württemberg
+  entfernung_zu_pforzheim: ca. 10 km östlich
+  region: Heckengäu
+  hoehenzug: Platte
+  hoehenzug_region: Nordschwarzwald
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+DESIGNIERUNG: Neubärental
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1720
+  grund: Religionsflüchtlinge – Katholiken aus Bärenthal (Hohenzollern) zum Protestantismus übergetreten
+  herkunftsort: Bärenthal, Hohenzollern
+  urspruengliche_siedler: ca. 40 Personen
+  konfession: evangelisch-reformiert
+  tornado_10_juli_1968: besonders schwer betroffen
+GUELTIG_AB: 1720
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+DESIGNIERUNG: Lucerne
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  siedlung_typ: waldensisch
+  eigenstaendige_gemeinde: ja
+  eigenstaendige_gemeinde_periode: 1699–1808
+  aufgegangen_in: Wurmberg
+  kirche: Waldenserkirche
+  schule: französischsprachig
+  herkunft: Waldenser-Flüchtlinge aus Italien
+  kirchengemeinde_bildung_mit_neubaerenthal: 1725
+  gemeindegottesdienste: zweisprachig (französisch-deutsch)
+  eingliederung_evangelische_landeskirche: 1824
+GUELTIG_AB: 1699
+GUELTIG_BIS: 1808
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: institution
+DESIGNIERUNG: Kloster Maulbronn
+QUELLE: https://www.wurmberg.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schenker_von: Herren von Iptingen
+  schenker_form: Wurenberc
+  schenker_jahr_moeglichkeit: 1194
+  ortsherrschaft_erworben: ja
+  land_uebergang_zu: Württemberg
+  land_uebergang_jahr: 1504–1509
+GUELTIG_AB: 1194
+GUELTIG_BIS: 1504
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+DESIGNIERUNG: Evangelische Kirche Wurmberg
+QUELLE: https://www.wurmberg.de/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Öschelbronner Str. 23, 75449 Wurmberg
+  telefon: 07044 43490
+  webseite: https://www.ev-kirche-wurmberg.de
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+DESIGNIERUNG: Evangelische Kirche Wurmberg
+QUELLE: https://www.wurmberg.de/geschichte/572/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fotografie_aufnahme_jahr: 1957
+GUELTIG_AB: 1957
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kirche
+DESIGNIERUNG: Waldenserkirche Lucerne
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil: Lucerne
+  existenz_periode: 1699–1808
+  konfession: Waldenser
+  zweisprachige_gottesdienste: ja
+GUELTIG_AB: 1699
+GUELTIG_BIS: 1808
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+DESIGNIERUNG: Katholische Kirche (Pfarrgemeinde Heilig Kreuz)
+QUELLE: https://www.wurmberg.de/kirchen/184/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrgemeinde: Heilig Kreuz
+  zugehorig_gemeinden: Wiernsheim, Mönsheim, Wurmberg
+  seelsorgeeinheit: Süd
+  dekanat: Mühlacker
+  pfarrer: Norbert Bentele
+  pfarrer_adresse: Mozartstr. 7, 71296 Heimsheim
+  pfarrer_telefon: 07033 / 33072
+  pfarrburo_adresse: Hindenburgstr. 23, 75446 Wiernsheim
+  pfarrburo_telefon: 07044 / 5956
+  webseite: http://www.kath-kirche-wurmberg.de/
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: glaubensgemeinschaft
+DESIGNIERUNG: Freie Evangeliumschristen-Gemeinde Wurmberg
+QUELLE: https://www.wurmberg.de/kirchen/200/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Dachsteinstr. 17, 75449 Wurmberg
+  ansprechpartner: Emil Jeske, Alexander Opfer
+  telefon_jeske: 0173 / 6821488
+  telefon_opfer: 0152 / 53649946
+GUELTIG_AB: 2012
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: glaubensgemeinschaft
+DESIGNIERUNG: Freie Evangeliumschristen-Gemeinde Wurmberg
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 2012
+  uebergeordnete_organisation: Bruderschaft der Freien Evangeliums Christen Gemeinden
+GUELTIG_AB: 2012
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchenchor
+DESIGNIERUNG: Evangelischer Kirchenchor Wurmberg
+QUELLE: https://www.wurmberg.de/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Öschelbronner Str. 23, 75449 Wurmberg
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: jugendorganisation
+DESIGNIERUNG: Evang. Gemeinde-Jugend Wurmberg
+QUELLE: https://www.wurmberg.de/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Öschelbronner Str. 23, 75449 Wurmberg
+  telefon: 07044 / 43490
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: adelsfamilie
+DESIGNIERUNG: Herren von Iptingen
+QUELLE: https://www.wurmberg.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schenker_an: Kloster Maulbronn
+  schenker_gut: Wurenberc (Wurmberg)
+  schenker_jahr_moeglichkeit: 1194
+GUELTIG_AB: 1194
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: buegermeister
+DESIGNIERUNG: Helmut Sickmüller
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1978–2010
+  partei: parteilos
+GUELTIG_AB: 1978
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buegermeister
+DESIGNIERUNG: Jörg-Michael Teply
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 2010
+GUELTIG_AB: 2010
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+DESIGNIERUNG: Richard Krust
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  berufsbezeichnung: Bogenschütze
+  geboren: 4. August 1928
+  status: Sohn der Gemeinde Wurmberg
+GUELTIG_AB: 1928
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: pfarrer
+DESIGNIERUNG: Norbert Bentele
+QUELLE: https://www.wurmberg.de/kirchen/184/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrgemeinde: Heilig Kreuz
+  adresse: Mozartstr. 7, 71296 Heimsheim
+  telefon: 07033 / 33072
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: publikation
+DESIGNIERUNG: Ortschronik Wurmberg – Ein Dorf im Wandel der Zeit
+QUELLE: https://www.wurmberg.de/heimatbuch/ortschronik-wurmberg-ein-dorf-im-wandel-der-zeit-id_565/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: ausführliche Übersicht über die Geschichte der Gemeinde Wurmberg und der umliegenden Region
+  erhaeltlich_bei: Gemeindeverwaltung Wurmberg, Uhlandstr. 15, 75449 Wurmberg
+  preis: 24,80 Euro
+  haendler_telefon: (auf Nachfrage erhältlich)
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Hugenotten- und Waldenserpfad
+QUELLE: https://www.wurmberg.de/hugenottenpfad/eroeffnung-des-hugenotten-und-waldenserpfades-wurmberg-macht-die-geschichte-der-hugenotten-und-waldenser-erlebbar-id_685/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnung_datum: 22. April 2012
+  region: um Pforzheim und Heckengäu
+GUELTIG_AB: 2012
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+DESIGNIERUNG: Grundschule Wurmberg
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil: Wurmberg
+  schultyp: Grundschule
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+DESIGNIERUNG: Bundesautobahn 8
+QUELLE: https://www.wurmberg.de/zahlen/zahlen-daten-fakten-id_589/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  route: Karlsruhe – Stuttgart
+  anschlussstelle: Pforzheim-Süd / Wurmberg
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+DESIGNIERUNG: Anschlussstelle Pforzheim-Süd
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  eroffnung: 2007
+  bundesautobahn: A8
+  versorgung: direkte Autobahnanbindung für die Gemeinde Wurmberg
+GUELTIG_AB: 2007
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+DESIGNIERUNG: Haltepunkt Niefern
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Pforzheim–Mühlacker
+  entfernung_zu_wurmberg: näher als Pforzheim Hbf
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+DESIGNIERUNG: Buslinien VVPE
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  liniennummern: 739, 761, 763, 769
+  verband: Verkehrsverbund Pforzheim-Enzkreis
+  verbindung: Wurmberg – Pforzheim
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+DESIGNIERUNG: Beschuss durch französische Soldaten
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  monat_jahr: April 1945
+  zeitkontext: Ende des Zweiten Weltkriegs
+  folgen: ca. ein Drittel der Gebäude zerstört, neun Einwohner getötet
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis
+DESIGNIERUNG: Tornado über Pforzheim
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  datum: 10. Juli 1968
+  betroffene_orte: Neubärental (besonders schwer betroffen)
+GUELTIG_AB: 1968
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verwaltungsstruktur
+DESIGNIERUNG: Gemeinderat Wurmberg
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  groesse: 14 gewählte ehrenamtliche Gemeinderäte
+  vorsitzender: Bürgermeister (stimmberechtigt)
+  kommunalwahl_2024_beteiligung: 69,63 %
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungseinheit
+DESIGNIERUNG: Gemeindeverwaltung Wurmberg
+QUELLE: https://www.wurmberg.de/heimatbuch/ortschronik-wurmberg-ein-dorf-im-wandel-der-zeit-id_565/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Uhlandstr. 15, 75449 Wurmberg
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: flur_oder_hoehenzug
+DESIGNIERUNG: Platte
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Höhenzug im Nordschwarzwald
+  lage_wurmberg: Wurmberg liegt auf der Platte
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: region
+DESIGNIERUNG: Heckengäu
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  enthaelt_ort: Wurmberg
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungskreis
+DESIGNIERUNG: Enzkreis
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  enthaelt_gemeinde: Wurmberg
+  uebernahme_jahr: 1973
+  vorgaenger_kreis: Landkreis Vaihingen
+GUELTIG_AB: 1973
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verwaltungskreis
+DESIGNIERUNG: Landkreis Vaihingen
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  enthaelt_gemeinde: Wurmberg
+  uebernahme_jahr: 1938
+  vorgaenger: Oberamt Maulbronn (NS-Kreisreform in Württemberg)
+  nachfolger: Enzkreis (Kreisreform Baden-Württemberg)
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verwaltungsamt
+DESIGNIERUNG: Oberamt Maulbronn
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  enthaelt_gemeinde: Wurmberg
+  zeitraum_ab: Anfang 19. Jahrhundert (Neugliederung Königreich Württemberg)
+  zeitraum_bis: 1938
+  vorgaenger: Klosteramt
+  nachfolger: Landkreis Vaihingen
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verwaltungsland
+DESIGNIERUNG: Württemberg-Baden
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  enthaelt_gemeinde: Wurmberg
+  zeitraum_von: Nach Abzug der Franzosen, Amerikanische Besatzungszone
+  zeitraum_bis: 1952
+  nachfolger: Baden-Württemberg
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: energieanlage
+DESIGNIERUNG: Einflügler-Windkraftanlage
+QUELLE: https://de.wikipedia.org/wiki/Wurmberg | Wikipedia
+EIGENSCHAFTEN:
+  standort: Gehöft südlich von Wurmberg
+  superlativ: möglicherweise einzige in Baden-Württemberg
+  leistung: 5 kW
+  nabenhoehe: 13,7 m
+  rotorblatt_laenge: 4 m
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

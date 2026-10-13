@@ -1,0 +1,696 @@
+ZIELORT: Mering (Gemeinde)
+LAGE: 14 km südöstlich von Augsburg (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Mering
+
+GRUNDDATEN:
+  landkreis: Aichach-Friedberg  [dewiki Infobox]
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 15.329  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 26,83  [Wikidata P2046]
+  dichte_ew_km2: 571  [berechnet aus Einwohner und Fläche]
+  kfz: AIC (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 521 | 526 | 511  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2871813)]
+  naechste_grossstadt: Augsburg, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 46 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Mering, Haltepunkt Mering-Sankt Afra  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 86415  [Wikidata P281]
+  vorwahl: 08233  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 36,7 %, AfD 16,7 %, GRÜNE 14,7 %, SPD 12,9 %; Wahlbeteiligung 87,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Florian A. Mayer (CSU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Belley, Ambérieu-en-Bugey  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Kissing (Gemeinde)
+  landkreis: Aichach-Friedberg  [dewiki Infobox]
+  einwohner: 11.671  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 23,12  [Wikidata P2046]
+  kfz: AIC (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 523 | 501  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2890202)]
+  naechste_grossstadt: Augsburg, 10 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Kissing  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 38,3 %, AfD 19,6 %, SPD 12,3 %, GRÜNE 11,3 %, Die Linke 5,1 %; Wahlbeteiligung 87,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Mering):
+ID: 300-mering/001
+ENTITÄT: ort
+BEZEICHNUNG: Mering
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verwaltungsform: Marktgemeinde
+  landkreis: Aichach-Friedberg
+  regierungsbezirk: Schwaben
+  bundesland: Bayern
+  einwohner: 15000
+  gemarkungsflaeche: 2649 [ha]
+  ortsteile: Baierberg, Meringerzell, Reifersbrunn, St. Afra
+  schulen_grundschule: 2
+  schulen_realschule: 1
+  schulen_gymnasium: 1
+  vereine: über 100
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 300-mering/002
+ENTITÄT: ort
+BEZEICHNUNG: Mering
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwaehnung: 1021
+  erwaehnung_datum: 14. November 1021
+  erwaehnt_durch: Kaiser Heinrich II.
+GUELTIG_AB: 1021
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 300-mering/003
+ENTITÄT: ort
+BEZEICHNUNG: Mering
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Vollständige Niederbrennung
+  grund: Spanischer Erbfolgekrieg
+  verursacher: England und Holland
+GUELTIG_AB: 1704
+GUELTIG_BIS: 1704
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 300-mering/004
+ENTITÄT: ort
+BEZEICHNUNG: Mering
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  regierungsbezirk_bis_1941: Oberbayern (Altbayern)
+  regierungsbezirk_ab_1941: Schwaben
+  verwaltungszuteilung: Augsburg (ab 1941)
+GUELTIG_AB: 1941
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/005
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Mering
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung_datum: 29. März 1838
+  verleihung_durch: König Ludwig I. von Bayern
+  beschreibung: silberne Zinnenmauer mit schwarzer Spitze, in der ein gestürztes Hunnenschwert
+  heraldische_symbole: Zinnenmauer der Welfenburg, gestürztes Hunnenschwert
+  schwert_fund: 1808 in Mering gefunden
+GUELTIG_AB: 1838
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/006
+ENTITÄT: marktrecht
+BEZEICHNUNG: Marktrecht Mering
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung_jahr: 1492
+  verliehen_durch: Erasmus Diepperskircher (Pfleger)
+  markttypen: Viehmarkt und Wochenmarkt mit Schrann
+  markort_urspruenglich: St. Franziskus
+  markort_spaeter: Innerort
+  unterbrechung_perioden: 1528-1530 (Missernten), 1532-1570 (Verbot)
+GUELTIG_AB: 1492
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/007
+ENTITÄT: eisenbahnlinie
+BEZEICHNUNG: Eisenbahnlinie München-Augsburg
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1840
+  strecke: München-Augsburg
+  einwohner_bei_bau: 1609
+GUELTIG_AB: 1840
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 300-mering/008
+ENTITÄT: eisenbahnlinie
+BEZEICHNUNG: Ammerseebahn (Augsburg-Mering-Weilheim)
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 23. Dezember 1898
+  strecke: Augsburg-Mering-Weilheim
+GUELTIG_AB: 1898
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/009
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Mering
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1926
+  standort: Kirchplatz
+GUELTIG_AB: 1926
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 300-mering/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Pfarrkirche
+  grabplatte_nordeingang: Erasmus Diepperskircher und Anna Schütz
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 300-mering/011
+ENTITÄT: person
+BEZEICHNUNG: Erasmus Diepperskircher
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Pfleger
+  errungenschaft: Durchsetzung des Marktrechts für Mering 1492
+  grabstelle: Pfarrkirche St. Michael (Nordeingang, Rotmarmor)
+  ehefrau: Anna Schütz
+  ehefrau_herkunft: Nürnberg
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/012
+ENTITÄT: person
+BEZEICHNUNG: Rupert Dischl
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1878-1960
+  geburtsort: Lindenberg im Allgäu
+  titel: Dekan und Bischöflich Geistlicher Rat
+  auszeichnung: Ehrenbürger
+  pfarrer_amtsantritt: 20. Oktober 1926
+  pfarrer_vorgaenger_dienst: Schiltberg
+  pfarrer_arbeitsgebiet: Mering
+  ehrenbuergerschaft_verleihung: 1952
+  ehrenbuergerschaft_anlass: 50-jähriges Priesterjubiläum
+GUELTIG_AB: 1926
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/013
+ENTITÄT: person
+BEZEICHNUNG: Kurt Engelhard
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1925-2010
+  titel: Dekan und Bischöflich Geistlicher Rat
+  auszeichnung: Ehrenbürger
+  kriegsgefangenschaft_rückkehr: 1948
+  priesterweihe_jahr: 1955
+  priesterweihe_ort: München
+  erste_messe: Heimatgemeinde Senden
+  kaplan_stationen: Lindau, Sonthofen
+  kurat_position: 1960-1965, Kath. Jugendfürsorgeverein Augsburg
+  pfarrer_mering_ab: 1. Oktober 1965
+  pfarrer_mering_bis: 1996
+  pfarrer_vorgaenger: Ignaz Steinhardt
+  auszeichnung_goldener_ehrenring: 1980
+  auszeichnung_bundesverdienstkreuz: 1988 (Bundespräsident Richard von Weizsäcker)
+  auszeichnung_ehrenburger: 1990
+  leistungen: Kirchenrenovierung mit eigenem Altar, Kindergartenerweiterung, Verein für Ambulante Kranken- und Altenpflege (1975), Pfarrzentrum, Jugendheim, traditioneller Bunter Abend
+GUELTIG_AB: 1965
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 300-mering/014
+ENTITÄT: person
+BEZEICHNUNG: Franz Grundner
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1857-1927
+  geburtsort: Schlossberg bei Rosenheim
+  funktion: Hauptlehrer und Oberlehrer
+  auszeichnung: Ehrenbürger
+  ausbildung: Rosenheim und Freising
+  lehrstaetten_vorher: Gars am Inn, Augsburg-Lechhausen, St. Leonhard bei Laufen, Bachern, Bad Aibling
+  lehrer_mering_von: 1891
+  lehrer_mering_bis: 1923
+  hauptlehrer_ernennung: 2. Januar 1908
+  jubilaeum: 25 Jahre Schuldienst (1917)
+GUELTIG_AB: 1891
+GUELTIG_BIS: 1927
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/015
+ENTITÄT: person
+BEZEICHNUNG: Josef Heinrich
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1910-1991
+  herkunft: Heirat nach Mering 1943 (Felizitas Mussinan)
+  parteiaffiliation: SPD
+  gewerkschaftsmitglied: ja
+  beruf_initial: Tischler
+  beruf_spaeter: Betriebsprüfer bei Regierung von Schwaben
+  parteisekretaer: 1946-1948 (SPD Augsburg Mitbegründer)
+  buergermeister_zweiter: seit 1952
+  buergermeister_erster: seit 1960
+  buergermeister_dauer: 3 Legislaturperioden bis 1978
+  auszeichnung: Ehrenbürger
+GUELTIG_AB: 1952
+GUELTIG_BIS: 1991
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/016
+ENTITÄT: heimatmuseum
+BEZEICHNUNG: Heimatmuseum Mering
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/einrichtungen/i297-heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 4. Januar 1997
+  traegerschaft: Marktgemeinde mit Heimatverein Mering e.V.
+  renovation_von: Anfang 2001
+  renovation_bis: April 2003
+  urspruenglicher_standort: Bürgerzentrum Schlossmühle
+  aktueller_standort: Ludwig Park, Frühlingstr. 15
+  aktueller_standort_ursprung: ehemaliger Showroom Firma Ludwig Leuchten
+  oeffnungszeiten: jeden Sonntag 14-17 Uhr
+  eintritt: kostenlos
+  leiter_1_vorsitzender: Joachim Pagel
+  leiter_2_vorsitzender: Toni Schlickenrieder
+  website: www.heimatverein-mering.de
+GUELTIG_AB: 1997
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 300-mering/017
+ENTITÄT: ausstellung
+BEZEICHNUNG: 1000 Jahre in 10 Objekten
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/einrichtungen/i297-heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Ludwig Park, Heimatmuseum Mering
+  anlass: Jubiläumsjahr 2021 (1000 Jahre Mering)
+  eroeffnung: 2022 (coronaverschoben)
+  stationen: 10 Stationen mit 10 Objekten aus Museumsfundus
+  thema: 1000-jährige Geschichte Merings
+GUELTIG_AB: 2022
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 300-mering/018
+ENTITÄT: ausstellung
+BEZEICHNUNG: 125 Jahre Ammerseebahn
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/einrichtungen/i297-heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Ludwig Park, Heimatmuseum Mering
+  thema: Eisenbahngeschichte Bahnstrecke Mering-Weilheim
+  bahnstrecke_eroeffnung: 23. Dezember 1898
+  bahnstrecke_name: Ammerseebahn
+  inhalte: Fahrkarten, historische Waggons, Formsignale, zeitgenössische Photos, Bilder, Zeichnungen, Plakate, historische Gegenstände, bedienbare Installationen, Überraschungen für Kinder
+  oeffnungszeiten: jeden Sonntag 14-17 Uhr
+  verlaengerung_termine: 07.04., 14.04.
+  verlaengerung_grund: große Resonanz
+  produzent: Modellbahnfreunde Mering
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 300-mering/019
+ENTITÄT: publikation
+BEZEICHNUNG: Meringer Ortschronik
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/info-service/aktuelles/n6831-die-meringer-ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  veroeffentlichung: 18. November 2022
+  umfang: 732 Seiten
+  autorinnen_autoren: 37
+  inhalt: Geschichte des Marktes Mering der letzten 1000 Jahre
+  verfuegbar_buchhandlung_platzbecker: ab 19. November 2022, Marktplatz 4, 86415 Mering
+  verfuegbar_rathaus: ab 21. November 2022, Kirchplatz 4, 86415 Mering
+GUELTIG_AB: 2022
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/020
+ENTITÄT: verein
+BEZEICHNUNG: Heimatverein Mering e.V.
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/einrichtungen/i297-heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Sachwalter und organisatorischer Träger des Heimatmuseums
+  vorsitzender_1: Joachim Pagel
+  vorsitzender_2: Toni Schlickenrieder
+  website: www.heimatverein-mering.de
+GUELTIG_AB: 1997
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/021
+ENTITÄT: verein
+BEZEICHNUNG: Modellbahnfreunde Mering
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/einrichtungen/i297-heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitaet: Produktion von Ausstellungen zu Eisenbahngeschichte
+  ausstellung: 125 Jahre Ammerseebahn
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 300-mering/022
+ENTITÄT: verein
+BEZEICHNUNG: Mering ist bunt
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ziele: gegen Intoleranz und für Gleichberechtigung einsetzend
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 300-mering/023
+ENTITÄT: freizeitanlage
+BEZEICHNUNG: Freizeitgelände am Badanger
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/kultur-und-freizeit/sehenswuerdigkeiten-lieblingsorte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Freizeitgelände und Lieblingsort
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 300-mering/024
+ENTITÄT: brunnen
+BEZEICHNUNG: Sperlingsbrunnen
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/kultur-und-freizeit/sehenswuerdigkeiten-lieblingsorte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Sehenswürdigkeit und Lieblingsort
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 300-mering/025
+ENTITÄT: platz
+BEZEICHNUNG: Marktplatz
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: großzügiger Marktplatz
+  wochenmarkt: jeden Freitag
+  infrastruktur: kostenloses WLAN-Hotspot
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 300-mering/026
+ENTITÄT: freizeiteinrichtung
+BEZEICHNUNG: Freibad
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: ausgedehnte Liege- und Spielwiesen, Sonnensegel
+  zielgruppe: kleine Besucher
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 300-mering/027
+ENTITÄT: bibliothek
+BEZEICHNUNG: Bücherei Mering
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: moderne Bücherei
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 300-mering/028
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wander- und Radwege
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: gut ausgebaute Wander- und Radwege
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 300-mering/029
+ENTITÄT: soziale_einrichtung
+BEZEICHNUNG: Kleiderkammer
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: soziale Einrichtung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 300-mering/030
+ENTITÄT: soziale_einrichtung
+BEZEICHNUNG: Bürgernetz
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: soziale Einrichtung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 300-mering/031
+ENTITÄT: soziale_einrichtung
+BEZEICHNUNG: Tafel
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: soziale Einrichtung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 300-mering/032
+ENTITÄT: kindergarten
+BEZEICHNUNG: Integrativer Kindergarten
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: erste integrative Kindergartengruppe des Landkreises Aichach-Friedberg
+  ausstattung: behindertengerechte Kinderbetreuung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 300-mering/033
+ENTITÄT: ortschaft
+BEZEICHNUNG: Baierberg
+ORTSTEIL_BEZUG: ja
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Ortsteil von Mering
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/034
+ENTITÄT: ortschaft
+BEZEICHNUNG: Meringerzell
+ORTSTEIL_BEZUG: ja
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Ortsteil von Mering
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/035
+ENTITÄT: ortschaft
+BEZEICHNUNG: Reifersbrunn
+ORTSTEIL_BEZUG: ja
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Ortsteil von Mering
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/036
+ENTITÄT: ortschaft
+BEZEICHNUNG: St. Afra
+ORTSTEIL_BEZUG: ja
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Ortsteil von Mering
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/037
+ENTITÄT: befestigung
+BEZEICHNUNG: Welfenburg
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: alte Welfenburg, ehemals in Mering
+  status: ehemals vorhanden
+  wappenverwendung: Zinnenmauer der Welfenburg im Meringer Wappen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 300-mering/038
+ENTITÄT: fund
+BEZEICHNUNG: Hunnenschwert
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fundjahr: 1808
+  fundort: Mering
+  bezeichnung_alternativ: Krummsäbel
+  wappenverwendung: gestürztes Hunnenschwert im Meringer Wappen
+GUELTIG_AB: 1808
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 300-mering/039
+ENTITÄT: filmproduktion
+BEZEICHNUNG: 3D-Film über Mering
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/einrichtungen/i297-heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  produzenten: Günter und Verena Peschke
+  kooperation: Heimatverein Mering
+  projektion_ort: Vorführraum Ludwig Park
+  ausstattung: zwei Beamer, Spezial-Leinwand, Konstruktionselemente (von Peschkes gestiftet)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 300-mering/040
+ENTITÄT: bildhauerfamilie
+BEZEICHNUNG: Luidl
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/einrichtungen/i297-heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  epoche: Barock
+  kunstform: Bildhauerei
+  herkunft: Mering
+  museum_ausstellung: ja, mit großerer Breite im Heimatmuseum
+  bedeutung: kunsthandwerklich besonders bedeutsam für die Geschichte Merings
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 300-mering/041
+ENTITÄT: keramik_handwerk
+BEZEICHNUNG: Lipp-Keramik
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/einrichtungen/i297-heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kunstform: Keramik
+  herkunft: Mering
+  kunsthandwerkliche_bedeutung: ja
+  museum_ausstellung: ja, mit großerer Breite im Heimatmuseum
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 300-mering/042
+ENTITÄT: verwaltungsform
+BEZEICHNUNG: Märkte mit städtischer Verfassung
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/unsere-marktgemeinde/mering-stellt-sich-vor | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mering_ernennung: 1. Januar 1912
+  antrag_von: 52 Gemeindebürger
+  antrag_datum: 1. Oktober 1911
+  gemeindeversammlung_abstimmung: 8. Oktober 1911
+  abstimmung_ergebnis: 197 von 205 Stimmen (ja)
+  behoerde_entscheid: Königliches Staatsministerium des Innern
+  entscheid_datum: 18. November 1911
+GUELTIG_AB: 1912
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 300-mering/043
+ENTITÄT: partnergemeinde_oder_kooperation
+BEZEICHNUNG: Schützenverein Ambérieu
+ORTSTEIL_BEZUG: 
+QUELLE: https://mering.de/info-service/aktuelles/n6831-die-meringer-ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Ambérieu
+  kooperation: Zusammenarbeit mit Meringer Schützenvereinen geplant
+  kooperation_anmeldung_datum: 5. Oktober 2026
+  beschreibung: knüpfen neue Bande zwischen Ambérieu und Mering
+GUELTIG_AB: 2026
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+

@@ -1,0 +1,448 @@
+ID: 277-aichelberg/001
+ENTITÄT: ort
+BEZEICHNUNG: Aichelberg
+QUELLE: https://www.aichelberg.de/seite/734012/daten-fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Göppingen
+  regierungsbezirk: Stuttgart
+  postleitzahl: 73101
+  vorwahl: 07164
+  einwohnerzahl: 1313
+  höhenlage_m: 482
+  markungsfläche_gesamt_ha: 401
+  markungsfläche_wald_ha: 118
+  markungsfläche_ackerland_ha: 79
+  markungsfläche_grünland_ha: 110
+  grundsteuer_a_vH: 540
+  grundsteuer_b_vH: 520
+  gewerbesteuer_vH: 400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 277-aichelberg/002
+ENTITÄT: ort
+BEZEICHNUNG: Aichelberg
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  region: Region Stuttgart
+  höhenlage_min_m: 357
+  höhenlage_max_m: 615
+  entfernung_kreisstadt_km: 10
+  lage_geographisch: Nordrand Schwäbische Alb, Albaufstieg Bundesautobahn 8
+  lage_überregional: zwischen Stuttgart und Ulm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 277-aichelberg/003
+ENTITÄT: ort
+BEZEICHNUNG: Aichelberg
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  gründung_als_selbstständige_gemeinde: 1876
+  datum_gründung: 19. Mai 1876
+  zugehörigkeit_vor_1876: Gesamtgemeinde Zell u.A.
+  oberamt_bis_1938: Oberamt Kirchheim unter Teck
+  zugehörigkeit_ab_1938: Landkreis Göppingen
+  zugehörigkeit_ab_1952: Baden-Württemberg
+GUELTIG_AB: 1876
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 277-aichelberg/004
+ENTITÄT: burg
+BEZEICHNUNG: Grafenburg
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: auf dem Aichelberg
+  bauzeit: 1200
+  zustand_im_text: Ruine
+  zerstörung_jahr: 1525
+  grund_zerstörung: Bauernkrieg
+  steine_verwendet_für: Boller Schwefelbad (ab 1596)
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 277-aichelberg/005
+ENTITÄT: burg
+BEZEICHNUNG: Grafenburg (Aichelberg)
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1220
+  besitzer_ab_1330: Grafen von Kirchheim
+  besitzer_ab_1334: Haus Württemberg
+  niedergebrannt_jahr: 1525
+  grund_zerstörung: Bauernkrieg
+GUELTIG_AB: 1220
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 277-aichelberg/006
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Grafen von Aichelberg
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung_jahr: 1210
+  herkunft: hohe Abstammung
+  reichweite_grafschaft_13jh: beträchtlicher Umfang
+  übergabe_besitz_jahr: 1350
+  übergabe_an: Grafen von Württemberg
+GUELTIG_AB: 1210
+GUELTIG_BIS: 1350
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 277-aichelberg/007
+ENTITÄT: gründungsgeschichte
+BEZEICHNUNG: Dorfgründung Aichelberg
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vermutliche_gründer: Handwerker beim Burgbau
+  zeitraum: um 1200
+  grund_gründung: zahlreiche Quellen in Höhe des Dorfes
+  grund_vermutung: Wasserzugang ermöglichte Siedlung
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 277-aichelberg/008
+ENTITÄT: zerstörungsereignis
+BEZEICHNUNG: Zerstörung 1519
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1519
+  akteur: Soldaten des Schwäbischen Bundes
+  umfang: nahezu restlose Zerstörung
+  häuser_niedergebrannt: 13
+GUELTIG_BIS: 1519
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 277-aichelberg/009
+ENTITÄT: zerstörungsereignis
+BEZEICHNUNG: Zerstörung 1519
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1519
+  akteur: Soldaten des Schwäbischen Bundes
+  häuser_niedergebrannt: 13
+GUELTIG_BIS: 1519
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 277-aichelberg/010
+ENTITÄT: pestseuche
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  ausbruch_jahr: 1628
+GUELTIG_BIS: 1628
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 277-aichelberg/011
+ENTITÄT: infrastrukturprojekt
+BEZEICHNUNG: Neue Steige
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1898
+  bauunternehmer: Hettarazi (italienisch)
+  kostenanteil_gemeinde_reichsmark: 18000
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 277-aichelberg/012
+ENTITÄT: infrastrukturprojekt
+BEZEICHNUNG: Reichsautobahn (Albaufstieg)
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1936-1938
+  auswirkung: zerschneidet Gemarkung auf 5,3 km
+  viadukt_länge_m: 940
+  bedeutung_text: wichtiger europäischer Verkehrsweg
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 277-aichelberg/013
+ENTITÄT: infrastrukturprojekt
+BEZEICHNUNG: Aichelberg-Autobahnalbaufstieg
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1986-1990
+  grund: Ausbauprojekt
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 277-aichelberg/014
+ENTITÄT: wasserversorgung
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  quelle_bis_1935: Brunnen (vor allem immer laufender Brunnen beim Rathaus)
+  quellen_im_oberen_ortsteil_bis_1956: 23 Brunnen von Bergquellen
+  neue_versorgung_ab_1935: Quellfassung Sitery mit Pumpwerk
+  versorgung_ab_1948: Kornberg- und Blau-Lauter-Gruppe
+  bezugsrecht_l_pro_s: 3,1
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 277-aichelberg/015
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1958-1959
+  konfession: evangelisch
+  grund_bau: Erfüllung des Wunsches evangelischen Gottesdienst in kirchlichem Raum
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 277-aichelberg/016
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Christuskirche
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1959
+  architekt: Manfred Wizgall
+  architekt_lebensjahre: 1914-1974
+  herkunft_architekt: Reutlingen
+  besonderheit: Bleiglasfenster mit starken Farben
+  fenster_entwurf: Martin Domke
+  fenster_künstler_wohnort: Hepsisau
+  fenster_darstellung: Geburt, Leiden, Grab Jesu; Auferstehung; Christus mit Aposteln; Bildverkündigung
+  bronze_kunstwerke: Kreuz, Leuchter, Taufbecken (Martin Domke)
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 277-aichelberg/017
+ENTITÄT: bürgerhaus
+BESCHREIBUNG: Feuerwehr- und Bürgerhaus
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung_jahr: 1988
+  funktionen: Vereinsraum, Veranstaltungsort
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 277-aichelberg/018
+ENTITÄT: berg
+BEZEICHNUNG: Aichelberg
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  höhe_m_ü_NHN: 564.2
+  ursprung_geologie: vulkanischer Schlot des Schwäbischen Vulkans
+  gestein: vulkanische Tuffe, Weißjura-Kalk
+  auszeichnung: besonderes Geotop und Geopoint UNESCO Geopark Schwäbische Alb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 277-aichelberg/019
+ENTITÄT: berg
+BEZEICHNUNG: Turmberg
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  höhe_m_ü_NHN: 608.6
+  ursprung_geologie: vulkanischer Schlot des Schwäbischen Vulkans
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 277-aichelberg/020
+ENTITÄT: berg
+BEZEICHNUNG: Boßler
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  höhe_m_ü_NHN: 799.9
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 277-aichelberg/021
+ENTITÄT: bürgermeisterin
+BEZEICHNUNG: Heike Schwarz
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 15. Januar 2022
+  wahl_datum: 17. Oktober 2021
+  wahl_ergebnis_prozent: 98.8
+  amtsantritt_typ: first wahlgang
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 277-aichelberg/022
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Martin Eisele
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 1. August 2001
+  wiedergewählt: Mai 2017
+  ergebnis_mai_2017_prozent: 56.7
+  amtszeit: dritte Amtszeit
+  amtsende_grund: gesundheitliche Gründe
+  amtsende_datum: Ende November 2021
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 277-aichelberg/023
+ENTITÄT: gemeindewappen
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Rot über silbernem Dreiberg drei (2:1) steigende silberne Eicheln
+  farben: Weiß-Rot (Farben der Grafen von Aichelberg)
+  vorgänger_wappen_1949: grüne Eichel auf silbernem Grund
+  neues_wappen_einführung: 25. Januar 1958
+  grund_neugestaltung: Unterscheidung von gleichnamiger Gemeinde im Landkreis Esslingen (heute Ortsteil Aichwald)
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 277-aichelberg/024
+ENTITÄT: künstler
+BEZEICHNUNG: Martin Domke
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  wohnort: Hepsisau
+  werke_für_christuskirche: Bleiglasfenster, Bronzekreuz, Leuchter, Taufbecken
+  beschreibung_fenster: Darstellungen zu Geburt, Leiden, Auferstehung, Apostel und Christus als Weltenherrscher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 277-aichelberg/025
+ENTITÄT: architekt
+BEZEICHNUNG: Manfred Wizgall
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1914-1974
+  herkunft: Reutlingen
+  werk: Entwurf Evangelische Christuskirche
+  baujahr_werk: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 277-aichelberg/026
+ENTITÄT: radweg
+BEZEICHNUNG: Schwäbische-Alb-Radweg
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Fernradweg
+  streckenverlauf: vom Bodensee nach Donauwörth
+  passage: führt an Aichelberg vorbei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 277-aichelberg/027
+ENTITÄT: radweg
+BEZEICHNUNG: Württemberger Tälerradweg
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  streckenverlauf: von Crailsheim nach Ulm und weiter über Göppingen nach Schwäbisch Gmünd
+  passage_aichelberg: verbindet Aichelberg an Zell unter Aichelberg mit Bad Boll und mit Holzmaden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 277-aichelberg/028
+ENTITÄT: tunnel
+BEZEICHNUNG: Boßlertunnel
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  infrastruktur_typ: Schnellfahrstrecke Wendlingen–Ulm
+  bauphase: im Bau
+  portal_lage: neben Autobahn A8
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 277-aichelberg/029
+ENTITÄT: viadukt
+BEZEICHNUNG: Aichelberg-Viadukt
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  infrastruktur: Autobahn 8 Albaufstieg
+  beschreibung: lange, gebogene Brücke
+  entfernt_im_zeitraum: 1985-1990
+  grund_entfernung: Ausbau der Strecke
+  ersatz: dreispuriger Aufstieg in Einschnitt mit kurzem Tunnel und Grünbrücke für Wildwechsel
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 277-aichelberg/030
+ENTITÄT: badeanstalt
+BEZEICHNUNG: Boller Schwefelbad
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: Sommer 1596
+  material_bau: zum großen Teil Steine der zerstörten Grafenburg
+GUELTIG_AB: 1596
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 277-aichelberg/031
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.aichelberg.de/seite/734011/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: um 1876
+  zusammen_mit: Schulhaus
+  kostenaufwand_reichsmark: 24000
+GUELTIG_AB: 1876
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 277-aichelberg/032
+ENTITÄT: baum
+BEZEICHNUNG: Luthereiche
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: in Nähe der Straße Alte Steige
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 277-aichelberg/033
+ENTITÄT: museum
+BEZEICHNUNG: Urwelt-Museum Hauff
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Nachbargemeinde Holzmaden
+  sammlung: Fossilienfunde vor allem vom Autobahnbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 277-aichelberg/034
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Grabungsschutzgebiet Holzmaden
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  gegründung_jahr: 1979
+  beteiligung_aichelberg: Gemeinde ist Teil
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 277-aichelberg/035
+ENTITÄT: geopark
+BEZEICHNUNG: UNESCO Geopark Schwäbische Alb
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  auszeichnung_für: Aichelberg-Aufschluss (besonderes Geotop und Geopoint)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 277-aichelberg/036
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Zell-Aichelberg
+QUELLE: https://de.wikipedia.org/wiki/Aichelberg_(Landkreis_Göppingen) | Wikipedia
+EIGENSCHAFTEN:
+  umfasst_gemeinden: Zell unter Aichelberg, Aichelberg
+  zugehörigkeit_kirchenbezirk_ab_1976: Kirchenbezirk Göppingen
+  zugehörigkeit_kirchenbezirk_davor: Kirchenbezirk Kirchheim unter Teck
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

@@ -1,0 +1,363 @@
+ID: 311-immendingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Immendingen
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Donauversinkung
+  namensherkunft: Name geht auf alemannischen Stammesvater zurück
+  ursprung: alemannisch
+  erste_urkundliche_erwähnung: 1101
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 311-immendingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Immendingen
+QUELLE: https://www.immendingen.de/startseite/informieren/gemeindeportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühe_besiedlung: um 1500 v. Chr.
+  gemarkungsfläche_gesamt: 7403 ha
+  besonderheiten_naturraum: Donauversinkung, Hegauvulkan Höwenegg
+  wappen_beschreibung: geteilter Schild mit wachsendem rotem Löwen (Silber oben), dreifach geteilt mit blauen und silbernen Streifen (unten)
+  wappen_herkunft: Herren von Immendingen
+  wappen_annahme_jahr: 1900
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 311-immendingen/003
+ENTITÄT: ort
+BEZEICHNUNG: Immendingen
+QUELLE: https://www.immendingen.de/startseite/wirtschaft+_+bauen/zahlen_+daten_+fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 6921
+  einwohnerzahl_kernort: 3341
+  bundesland: Baden-Württemberg
+  regierungsbezirk: Freiburg
+  landkreis: Tuttlingen
+  höhe: 662 m ü. NN
+  bevölkerungsdichte: 79 Einwohner/km²
+  postleitzahl: 78194
+  vorwahl: 07462
+  kennzeichen: TUT
+  gründung: um 1101
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 311-immendingen/004
+ENTITÄT: ortschaft
+BEZEICHNUNG: Hattingen
+QUELLE: https://www.immendingen.de/startseite/wirtschaft+_+bauen/zahlen_+daten_+fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 822
+  gemarkungsfläche: 1354 ha
+  vorwahl: 07462
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 311-immendingen/005
+ENTITÄT: ortschaft
+BEZEICHNUNG: Hintschingen
+QUELLE: https://www.immendingen.de/startseite/wirtschaft+_+bauen/zahlen_+daten_+fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 259
+  gemarkungsfläche: 539 ha
+  vorwahl: 07462
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 311-immendingen/006
+ENTITÄT: ortschaft
+BEZEICHNUNG: Ippingen
+QUELLE: https://www.immendingen.de/startseite/wirtschaft+_+bauen/zahlen_+daten_+fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 433
+  gemarkungsfläche: 1064 ha
+  vorwahl: 07706
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 311-immendingen/007
+ENTITÄT: ortschaft
+BEZEICHNUNG: Mauenheim
+QUELLE: https://www.immendingen.de/startseite/wirtschaft+_+bauen/zahlen_+daten_+fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 566
+  gemarkungsfläche: 809 ha
+  vorwahl: 07733
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 311-immendingen/008
+ENTITÄT: ortschaft
+BEZEICHNUNG: Zimmern
+QUELLE: https://www.immendingen.de/startseite/wirtschaft+_+bauen/zahlen_+daten_+fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1500
+  gemarkungsfläche: 1540 ha
+  vorwahl: 07462
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 311-immendingen/009
+ENTITÄT: schloss
+BEZEICHNUNG: Oberes Schloss
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühe_funktion: Sitz der Herren von Schreckenstein
+  erwerb_durch_fürstenberg: 1807
+  erste_maschinenfabrik_badens_gründung: 1835
+  renovierung_grundlegend: 1963
+  funktion_seit_1963: Sitz der Gemeindeverwaltung
+GUELTIG_AB: 1807
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 311-immendingen/010
+ENTITÄT: schloss
+BEZEICHNUNG: Unteres Schloss
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühe_funktion: Sitz der Herren von Reischach
+  spätere_funktion: Standort der Maschinenfabrik (nach Verlagerung von Oberem Schloss)
+GUELTIG_AB: 1835
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 311-immendingen/011
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Immendingen
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_historisch: bedeutender Eisenbahnknotenpunkt
+  strecke_donaueschingen_immendingen: 1867
+  strecke_immendingen_tuttlingen: 1870
+  wutachtalbahn_eröffnung: 1890
+  betriebsleitung_ringzug: seit 2003
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 311-immendingen/012
+ENTITÄT: schmelzwerk
+BEZEICHNUNG: Amalienhütte
+ORTSTEIL_BEZUG: Bachzimmern
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1812
+  betreiber: Haus Fürstenberg
+  material: Bohnerz
+GUELTIG_AB: 1812
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 311-immendingen/013
+ENTITÄT: rohstoff
+BEZEICHNUNG: Bohnerz
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entdeckung: Mittelalter
+  herkunft_name: benannt nach bohnenförmigen Gebilden des braunen Eisensteins
+  frühe_verarbeitung: Schmelzwerk auf Gemarkung Ippingen (Anfang 17. Jahrhundert)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 311-immendingen/014
+ENTITÄT: funde
+BEZEICHNUNG: Römische Münzen
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 55
+  fundjahr: 1905
+  prägungsorte: London, Trier
+  motive: Kaiserbilder (Trajan, Decius, Konstantin)
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 311-immendingen/015
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Reichskrieg gegen eidgenössische Bauern
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1444
+  auswirkung: Immendingen schwer in Mitleidenschaft gezogen
+GUELTIG_AB: 1444
+GUELTIG_BIS: 1444
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 311-immendingen/016
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Bauernkrieg
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1524
+  auswirkung: Immendingen mit harten Strafen belegt
+GUELTIG_AB: 1524
+GUELTIG_BIS: 1524
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 311-immendingen/017
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_verschonung: bis 1632
+  auswirkung_danach: Plünderung, Brandschatzung, Hunger und Pest
+GUELTIG_AB: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 311-immendingen/018
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Eroberungskriege Ludwigs XIV.
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auswirkung: Immendingen litt erheblich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 311-immendingen/019
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Napoleonische Kriege
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auswirkung: tiefe Verschuldung durch Truppendurchzüge
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 311-immendingen/020
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Eingemeindung von Ortschaften
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindete_orte: Hattingen, Hintschingen, Ippingen, Mauenheim, Zimmern
+  prozess: freiwillige Gemeindereform
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 311-immendingen/021
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Kreisreform
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_landkreis: Landkreis Donaueschingen
+  neuer_landkreis: Landkreis Tuttlingen
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 311-immendingen/022
+ENTITÄT: militärstandort
+BEZEICHNUNG: Bundeswehrgarnison Immendingen
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1958
+  kasernenname: Oberfeldwebel-Schreiber-Kaserne
+  französisches_regiment_zeit: 1996-2011
+  französisches_regiment_name: 3. Französisches Husarenregiment
+  schließung: 2016
+  grund_schließung: Bundeswehrreform (angekündigt 26. Oktober 2011) auf Wunsch der Gemeinde
+  nachnutzungsziel: Daimler Prüf- und Technologiezentrum
+  fläche_gelände: 520 ha
+GUELTIG_AB: 1958
+GUELTIG_BIS: 2016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 311-immendingen/023
+ENTITÄT: kirche
+BEZEICHNUNG: Versöhnungskirche
+QUELLE: https://www.immendingen.de/startseite/leben/kirchen+_+kapellen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gemeinde: Evangelische Pfarrgemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 311-immendingen/024
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche
+QUELLE: https://www.immendingen.de/startseite/leben/kirchen+_+kapellen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  gemeinde: Röm.-Kath. Kirchengemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 311-immendingen/025
+ENTITÄT: kirche
+BEZEICHNUNG: St. Wendelin
+ORTSTEIL_BEZUG: Hintschingen
+QUELLE: https://www.immendingen.de/startseite/leben/kirchen+_+kapellen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  gemeinde: Röm.-Kath. Kirchengemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 311-immendingen/026
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche Immendingen
+QUELLE: https://www.immendingen.de/startseite/leben/kirchen+_+kapellen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 311-immendingen/027
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Donauhalle
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Veranstaltungs- und Mehrzweckhalle
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 311-immendingen/028
+ENTITÄT: schule
+BEZEICHNUNG: Schlossschule
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1965
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 311-immendingen/029
+ENTITÄT: schule
+BEZEICHNUNG: Reischach Realschule
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1975
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 311-immendingen/030
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Großsporthalle
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1985
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 311-immendingen/031
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Freizeitze ntrum
+QUELLE: https://www.immendingen.de/startseite/informieren/geschichtliches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausweisung: um 1985
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

@@ -1,0 +1,64 @@
+Orte: 276-wendlingen 277-aichelberg 278-ebersbach-fils 279-uhingen 280-eislingen 281-suessen 282-gingen 283-kuchen 284-gruibingen 285-muehlhausen-taele
+== Extraktion (Haiku) 21:33:45
+276-wendlingen       extraktion ein 111958  aus  36163   0.32 USD   270 s  claude-haiku-4-5-20251001
+277-aichelberg       extraktion ein  22955  aus   7384   0.07 USD    57 s  claude-haiku-4-5-20251001
+278-ebersbach-fils   extraktion ein  25622  aus  10399   0.09 USD    85 s  claude-haiku-4-5-20251001
+279-uhingen          extraktion ein  22379  aus  15149   0.11 USD   133 s  claude-haiku-4-5-20251001
+280-eislingen        extraktion ein  29898  aus  10362   0.10 USD    81 s  claude-haiku-4-5-20251001
+281-suessen          extraktion ein  20420  aus  17701   0.12 USD   122 s  claude-haiku-4-5-20251001
+282-gingen           extraktion ein  30779  aus  11912   0.11 USD    99 s  claude-haiku-4-5-20251001
+283-kuchen           extraktion ein  24987  aus  11037   0.09 USD    95 s  claude-haiku-4-5-20251001
+284-gruibingen       extraktion ein  21028  aus  12120   0.09 USD    86 s  claude-haiku-4-5-20251001
+285-muehlhausen-taele extraktion ein  25274  aus   8693   0.08 USD    77 s  claude-haiku-4-5-20251001
+zusammen: 13385 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+276-wendlingen     17019 Zeichen
+277-aichelberg     21306 Zeichen
+278-ebersbach-fils   25971 Zeichen
+279-uhingen        19046 Zeichen
+280-eislingen      23324 Zeichen
+281-suessen        23707 Zeichen
+282-gingen         31728 Zeichen
+283-kuchen         24607 Zeichen
+284-gruibingen     19672 Zeichen
+285-muehlhausen-taele   18340 Zeichen
+== Karten (claude-opus-5-5) 21:38:15
+276-wendlingen       karten     ein  36302  aus  26233   0.76 USD   225 s  claude-opus-5-5
+277-aichelberg       karten     ein  39361  aus  38576   1.03 USD   330 s  claude-opus-5-5
+278-ebersbach-fils   karten     ein  42166  aus  32701   0.94 USD   284 s  claude-opus-5-5
+279-uhingen          karten     ein  37363  aus  32011   0.89 USD   271 s  claude-opus-5-5
+280-eislingen        karten     ein  40466  aus  43497   1.14 USD   378 s  claude-opus-5-5
+281-suessen          karten     ein  38098  aus  34302   0.94 USD   293 s  claude-opus-5-5
+282-gingen           karten     ein  45385  aus  36504   1.04 USD   320 s  claude-opus-5-5
+283-kuchen           karten     ein  40932  aus  40847   1.09 USD   349 s  claude-opus-5-5
+284-gruibingen       karten     ein  38072  aus  31557   0.88 USD   272 s  claude-opus-5-5
+285-muehlhausen-taele karten     ein  37171  aus  41766   1.08 USD   366 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 21:50:40
+276-wendlingen       pruefung   ein  66301  aus   8306   0.64 USD    76 s  claude-opus-5-5
+277-aichelberg       pruefung   ein  45890  aus   8302   0.48 USD    73 s  claude-opus-5-5
+278-ebersbach-fils   pruefung   ein  56942  aus   8832   0.58 USD    76 s  claude-opus-5-5
+279-uhingen          pruefung   ein  48931  aus  12393   0.59 USD   104 s  claude-opus-5-5
+280-eislingen        pruefung   ein  62042  aus  12746   0.70 USD   115 s  claude-opus-5-5
+281-suessen          pruefung   ein  50094  aus  10517   0.56 USD    91 s  claude-opus-5-5
+282-gingen           pruefung   ein  68066  aus  16234   0.82 USD   141 s  claude-opus-5-5
+283-kuchen           pruefung   ein  56426  aus  13115   0.66 USD   109 s  claude-opus-5-5
+284-gruibingen       pruefung   ein  47998  aus   9975   0.53 USD    86 s  claude-opus-5-5
+285-muehlhausen-taele pruefung   ein  49884  aus  10373   0.55 USD    90 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 21:54:17
+276-wendlingen       stufe2     ein 163483  aus   4601   0.58 USD    71 s  claude-opus-5-5,claude-haiku-4-5-20251001
+277-aichelberg       stufe2     ein 476108  aus  10541   1.14 USD   180 s  claude-opus-5-5,claude-haiku-4-5-20251001
+278-ebersbach-fils   stufe2     ein 161538  aus   3197   0.37 USD    58 s  claude-opus-5-5,claude-haiku-4-5-20251001
+279-uhingen          FEHLER keine Karte an Stufe 2 – kein Lauf
+280-eislingen        stufe2     ein 195523  aus   6399   0.49 USD    90 s  claude-opus-5-5,claude-haiku-4-5-20251001
+281-suessen          stufe2     ein 120072  aus   2614   0.35 USD    42 s  claude-opus-5-5,claude-haiku-4-5-20251001
+282-gingen           stufe2     ein 216684  aus   5466   0.54 USD    86 s  claude-opus-5-5,claude-haiku-4-5-20251001
+283-kuchen           stufe2     ein 172337  aus   4241   0.46 USD    60 s  claude-opus-5-5,claude-haiku-4-5-20251001
+284-gruibingen       stufe2     ein 116350  aus   2344   0.33 USD    46 s  claude-opus-5-5,claude-haiku-4-5-20251001
+285-muehlhausen-taele stufe2     ein 242576  aus   8230   0.80 USD   110 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 21:57:37
+Urteile: {'korrigiert': 853, 'bestätigt': 1469, 'gesperrt': 67, 'unsicher': 164} | im Vorrat: 2486 Karten an 285 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     285 Orte, 2486 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 2828055 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 21:57:39

@@ -1,0 +1,583 @@
+ID: 270-heimsheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappen: zwei schräggekreuzte goldene Ähren
+  wappenbedeutung: "redende" Wappen, bezug zu heimsen (ernten)
+  siegel_ab: 1481
+  wappenzeichnung_ab: 1535
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 270-heimsheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/stadtgeschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ca. 15 km südöstlich von Pforzheim
+  region: Heckengäu, Vorlandschaft Nordschwarzwaldes
+  erste_urkundliche_erwahnung: "Heimbodesheim", 965, anlässlich Treffen Kaiser Otto der Große mit seinen Söhnen
+  alteste_siedlungsspuren: Jungsteinzeit, ca. 2400 v.Chr.
+  romerstrasse: Ettlingen-Pforzheim-Cannstatt, ca. 80-100 n.Chr., noch erkennbar
+  markungsfläche: 1450, genauigkeit: "ca.", einheit: "ha"
+  hoehe_stadtlage: 413, einheit: "m NN"
+  tiefster_punkt: 390, einheit: "m NN"
+  hoechster_punkt: 515, einheit: "m NN"
+  stadtrechte: 1295 erstmals als Stadt erwähnt; 1456 Erneuerung durch Kaiser Friedrich III.
+  landkreis: Enzkreis, GUELTIG_AB: 1973
+  zerstoerung_dreissigjähriger_krieg: 1634, 18.9., völlige Zerstörung durch kroatische kaiserliche Truppen
+  zerstoerung_zweiter_weltkrieg: 1945, 18.4., 75% zerstört durch alliierte Flugzeuge
+  wiederaufbau_unter_bürgermeistern: Friedrich Klingel, Hugo Heuscher, Karl Schuler (1948-1973)
+  charakterisierung_vor_1945: enggedrängte Bebauung auf mittelalterlichem Grundriss
+  einwohner_1961: 1899
+  einwohner_1950: 1214
+  einwohner_vor_wwii: 1153
+  fluechtlingsaufnahme: 1949-1951 verdreifachung, 1963 insgesamt 347 Vertriebene; Gesamteinwohner 1949: 1154, 1963: 2087
+GUELTIG_AB: 965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 270-heimsheim/003
+ENTITÄT: ort
+BEZEICHNUNG: Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/zahlen-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 5623, GUELTIG_AB: 2024
+  einwohner: 5244, GUELTIG_AB: 2020
+  einwohner: 5439, GUELTIG_AB: 2010
+  einwohner: 5138, GUELTIG_AB: 2000
+  einwohner: 4730, GUELTIG_AB: 1990
+  einwohner: 4224, GUELTIG_AB: 1980
+  einwohner: 2757, GUELTIG_AB: 1970
+  gesamtfläche: 1432, einheit: "ha"
+  landwirtschaftliche_nutzung: 822.4, einheit: "ha"
+  wald: 389.9, einheit: "ha"
+  siedlungsflächen: 85.9, einheit: "ha"
+  verkehrsflächen: 96.9, einheit: "ha"
+  erholungsflächen: 4.2, einheit: "ha"
+  gewässer: 3.3, einheit: "ha"
+  hoehe_altes_rathaus: 403.40, einheit: "m"
+  hoehe_hoechster_punkt: 510.5, einheit: "m"
+  hoehe_tiefster_punkt: 392.3, einheit: "m"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 270-heimsheim/004
+ENTITÄT: kirche
+BEZEICHNUNG: erste Heimsheimer Kirche
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: um 1050
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 270-heimsheim/005
+ENTITÄT: kirche
+BEZEICHNUNG: Maria
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: um 1282
+  beschreibung: erste eindeutig nachzuweisende Kirche am Ort, gegen Ende 13. Jahrhundert
+  patrozinium: Maria
+GUELTIG_AB: 1282
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 270-heimsheim/006
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirchengemeinde Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  reformation_heimsheim: 1554, später als rein württembergische Gebiete wegen Gemmingen-Einfluss
+  pfarrer: Jan-Hendrik Schweizer
+GUELTIG_AB: 1554
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 270-heimsheim/007
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrei Heilig Geist
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  gruendung: 1977
+  patrozinium: Heilig Geist
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/008
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelisch-methodistische Kirche
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-methodistisch
+  kapelle_erbauung: 1875
+  gemeindezentrumneubau: 1980 an Stelle der ehemaligen Kapelle
+GUELTIG_AB: 1875
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 270-heimsheim/009
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+  einweihung: 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/010
+ENTITÄT: kirche
+BEZEICHNUNG: Liebenzeller Gemeinschaft
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  event: Einweihung des Gemeinschaftshauses der Liebenzeller Mission, 1972
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 270-heimsheim/011
+ENTITÄT: schloss
+BEZEICHNUNG: Schleglerschloss
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/freizeit-kultur/freizeitangebote/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: um 1415
+  dendrochronologie: älteste Hölzer 1413 gefällt
+  erbauer: Herren von Gemmingen
+  ursprung: Wohnturm
+  umbau: 1578 zum Herrschaftlichen Fruchtkasten durch Herren von Württemberg
+  nutzung_fruchtkasten: mehrere Jahrhunderte
+  wiederentdeckung_geschichte: 1956 Kuratorium gegründet, ab 1995 nach Sanierung wieder eröffnet
+  archäologische_erkenntnis: Erbauung erst nach Gefangennahme der Schleglerkönige 1395, nicht davor
+  eigentuemer_ab_2020: Stadt Heimsheim
+  aktuelle_sanierung: intensive Arbeiten wegen Brandschutzmängel mit 3D-Scanner-Vermessung
+  wahrer_wahrzeichen: "Der Schleglerkasten ist das eigentliche Wahrzeichen"
+GUELTIG_AB: 1415
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/012
+ENTITÄT: schloss
+BEZEICHNUNG: Graevenitz'sches Schloss
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/freizeit-kultur/freizeitangebote/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauherr: Reichsgraf Friedrich Wilhelm von Graevenitz
+  baumeister: Paolo Retti (italienischer Baumeister)
+  bauzeit: 1729/30
+  stil: Barock
+  vorgaenger: alte Burg
+  lehensverhältnis_von: Herzog Eberhard Ludwig von Württemberg
+  lehen_verlust: 1733
+  uebereignung: 1734 an Herzogin Maria Augusta als Witwensitz
+  erwerb_stadt: 1812
+  nutzung_schulhaus: 1812-1974
+  umbau_rathaus: 1982/83 grundlegende Renovierung
+  nutzung_rathaus: seit 1982
+  besonderheit: Festsaal mit Stuckmarmorwänden und Deckengemälde "Herakles am Scheideweg" von Carlo Carlone
+GUELTIG_AB: 1729
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 270-heimsheim/013
+ENTITÄT: schleglerbund
+BEZEICHNUNG: 
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/freizeit-kultur/kultur/schleglerbund-schleglerschloss | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger_name: Martinsvögel
+  gruendung_martinsvogel: 1366, 11.11. (Martinstag)
+  gruender: Truchsess von Höflingen, Wolf von Steinegg, Georg von Enzberg u.a.
+  zweck: Verteidigung alter Ritterrechte gegen Württemberg und freie Städte
+  erster_ueberfall: 1367 Wildbad, misslungen
+  konfliktzeitraum: ca. 30 Jahre, "Schleglerkrieg"
+  umbenennung: späte 1380er Jahre zu Schlegler
+  abzeichen: Schlegel (Dreschflegel)
+  heimat: Heimsheim Versammlungsort der Schleglerkönige
+  auflösung: 1396
+GUELTIG_AB: 1366
+GUELTIG_BIS: 1396
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/014
+ENTITÄT: ereignis
+BEZEICHNUNG: Gefangennahme der Schleglerkönige
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1395, 24. September
+  kontext: Versammlung der Schleglerkönige in Heimsheim
+  akteur: Graf Eberhard der Milde von Württemberg
+  folgen: Gefangennahme Anführer, Zerstörung Burg und Stadt, Brand
+  beschreibung_brandursache: Strohhaufen an Stadtmauer in Brand geschossen, Feuer trägt sich in enggedrängte Stadt
+  literarische_rezeption: Gedicht "Die drei Könige zu Heimsen" von Ludwig Uhland, später populär
+GUELTIG_AB: 1395
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/015
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ludwig Uhland
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/stadtgeschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werk: Gedicht "Die drei Könige zu Heimsen"
+  beschreibung: Gedicht über Schleglerkönige, erlangte später Popularität
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/016
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Wilhelm von Graevenitz
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Reichsgraf, württembergischer Premierminister
+  belehnung: 1724 mit Stadt und Herrschaft Heimsheim
+  lehen: von Herzog Eberhard Ludwig
+  schloss_neubau: 1729/30 Graevenitz'sches Schloss
+  miniaturresidenz: Umbau Heimsheims zu Miniaturresidenz
+  lehensverlust: 1733
+GUELTIG_AB: 1724
+GUELTIG_BIS: 1733
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 270-heimsheim/017
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Kaiser Otto der Große
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/stadtgeschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_heimsheim: 965 Treffen mit Söhnen in Heimbodesheim
+  kontext: kurz zuvor in Rom zum Kaiser gekrönt
+  teilnehmer: König Otto II., Erzbischof Wilhelm von Mainz
+  bedeutung: erste urkundliche Erwähnung Heimsheims
+GUELTIG_AB: 965
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 270-heimsheim/018
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Eberhard der Milde
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Graf von Württemberg
+  handlung: Gefangennahme Schleglerkönige 1395, Zerstörung Heimsheim
+  gegner: Schleglerbund
+GUELTIG_AB: 1395
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/019
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlage: 1588 außerhalb der Stadt
+  erweiterungen: 1796, 1873, 1966, 1986/87
+  kriegerdenkmal: 1923
+GUELTIG_AB: 1588
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/020
+ENTITÄT: brunnen
+BEZEICHNUNG: Großer Brunnen
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marktplatz
+  errichtung: 1769
+GUELTIG_AB: 1769
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/021
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_erstes: 1679
+  neubau: 1781
+  zerstörung_wwii: 1945 mit historischen Unterlagen
+  wiederaufbau: 1949/50
+  vergangenheit: später Sitz im Graevenitz'schen Schloss
+GUELTIG_AB: 1679
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/022
+ENTITÄT: schule
+BEZEICHNUNG: Realschule Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1862
+  genehmigung: 1872
+  schulmeister_ersterwähnung: 1456
+  auflösung: 1958 einklassiges Progymnasium
+GUELTIG_AB: 1872
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/023
+ENTITÄT: schule
+BEZEICHNUNG: Ludwig-Uhland-Schule
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufbau: ab 1962 Grund-, Haupt- und Realschule
+  erster_bauabschnitt: 1964
+  erweiterungen: 1974, 1989
+  schulzentrum: für umliegende Gemeinden
+  ruf: guter Ruf erhalten
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 270-heimsheim/024
+ENTITÄT: wasserversorgung
+BEZEICHNUNG: Wasserversorgung Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  brunnen_1852: 5 Laufbrunnen und 3 Pumpbrunnen
+  hausanschlüsse: ab 1906
+  gemeinsame_versorgung_perouse: 1905
+  seequellen: 1937 erschlossen
+  hochbehaelter_stecheraecker: 1937, erneuert 1980
+  bodenseewasser: ab 1991 völlige Versorgung
+  mischwasser: ab 1998 aus Bodenseewasser und Eigenwasser
+GUELTIG_AB: 1852
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/025
+ENTITÄT: elektrizitaet
+BEZEICHNUNG: Elektrifizierung Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstes_elektrisches_licht: 1911, 29. Mai
+  kirche_und_öffentliche_gebäude: 1915
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 270-heimsheim/026
+ENTITÄT: telekommunikation
+BEZEICHNUNG: Telekommunikation Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_poststelle: 1862
+  erste_telefonzelle: 1886 in Poststelle
+  telefon_rathaus: 1905
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/027
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1860
+GUELTIG_AB: 1860
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/028
+ENTITÄT: feuerwehr_gebäude
+BEZEICHNUNG: Feuerwehrgerätehaus Graf-Eberhard-Straße
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  uebergabe: 1949
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/029
+ENTITÄT: feuerwehr_gebäude
+BEZEICHNUNG: Feuerwehrhaus Steinstraße
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1993
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/030
+ENTITÄT: stadthalle
+BEZEICHNUNG: Stadthalle Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1982
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/031
+ENTITÄT: veranstaltungsreihe
+BEZEICHNUNG: Schlosskonzerte Heimsheim
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/freizeit-kultur/kultur/schlosskonzerte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frequenz: zweimal jährlich (Frühjahr und Herbst)
+  ort: Graevenitz'sches Schloss, barocker Schlosssaal
+  musik: Alte Musik, Klassik bis Kunstmusik
+  schwerpunkt: Außergewöhnliches und selten Gehörtes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/032
+ENTITÄT: veranstaltungsreihe
+BEZEICHNUNG: Schleglerspiele
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstaufführung: 1951
+  weitere_aufführungen: 1965, 2000 ("Die Könige zu Heimsheim"), 2006, 2014
+  ort: vor historischer Kulisse beider Schlösser
+  regie: Kuratorium Schleglerschloss
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/033
+ENTITÄT: gemeinde_organisation
+BEZEICHNUNG: Kuratorium Schleglerschloss
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1956 durch Zusammenschluss Heimsheimer Bürger, Vereine, Organisationen
+  ziel: Schleglerschloss als historischen Mittelpunkt restaurieren und erhalten, Heimstatt bürgerlichen Gemeinschaftslebens
+  auszeichnung: 1982 "Vorbildliche kommunale Bürgeraktion" durch Landesregierung
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/034
+ENTITÄT: waldenser_siedlung
+BEZEICHNUNG: Perouse
+ORTSTEIL_BEZUG: Perouse
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-19-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1699, 13. Juni
+  grund: herzoglicher Befehl, reformierte Glaubensflüchtlinge aus Piemont (Waldenser)
+  initial_konflikt: einheimische Bevölkerung ungern, wiederholte Auseinandersetzungen bis 1950er Jahre
+GUELTIG_AB: 1699
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/035
+ENTITÄT: justizvollzugsanstalt
+BEZEICHNUNG: Justizvollzugsanstalt Heimsheim-Umgebung
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land_erwerb: 1978 (Betonwerk Wolfer & Goebel)
+  bauzeit: 1986/90 durch Land Baden-Württemberg
+  betriebsaufnahme: 1990
+  initial_widerstand: Ähnliche Skepsis wie gegen Waldenser-Ansiedlung
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/036
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Bundesautobahn A 8
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/zahlen-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: Stuttgart-Karlsruhe
+  bau_beginn: 1930er Jahre (Reichsautobahn)
+  merkmal: eigene Ausfahrt Heimsheim
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 270-heimsheim/037
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: fehlender Bahnanschluss
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/stadtgeschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Heimsheim erhielt nie Bahnanschluss
+  konsequenz: begrenzte wirtschaftliche Entwicklung
+  ersatz: Nähe zur Autobahnausfahrt mit eigener Ausfahrt bietet Ersatz
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 270-heimsheim/038
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Lerchenrain
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  uebergabe: 1956
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 270-heimsheim/039
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Bloßenberg
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnung: 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 270-heimsheim/040
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Lailberg
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1978
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 270-heimsheim/041
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Heerstraße
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.heimsheim.de/unsere-stadt/geschichte/zeittafel-bis-20-jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1997
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

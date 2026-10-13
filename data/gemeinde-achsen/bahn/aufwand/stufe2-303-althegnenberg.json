@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "303-althegnenberg",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 13837,
+ "token_ein": 221380,
+ "token_aus": 8646,
+ "usage": {
+  "input_tokens": 14,
+  "cache_creation_input_tokens": 31735,
+  "cache_read_input_tokens": 189631,
+  "output_tokens": 8646,
+  "output_tokens_details": {
+   "thinking_tokens": 4418
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 31735,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 6604,
+    "cache_read_input_tokens": 36135,
+    "cache_creation_input_tokens": 2502,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 2502
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7516112,
+ "sekunden": 112,
+ "fehler": false,
+ "zeit": "2026-10-14T00:10:14"
+}

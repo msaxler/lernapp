@@ -1,0 +1,613 @@
+ID: 293-dinkelscherben/001
+ENTITÄT: ort
+BEZEICHNUNG: Dinkelscherben
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  status: Markt
+  region: Schwaben
+  landkreis: Augsburg
+  entfernung_augsburg: 25 [km, westlich]
+  in_naturpark: Augsburg-Westliche Wälder
+  landschaft: Reischenau
+  fluss_durch_gemeindegebiet: Zusam
+  gemeindeteile: 21
+  gemarkungen: 10
+  entstehung: 11. Jahrhundert
+  grund_entstehung: Waldrodung
+  ersterwähnung: 1162
+  ersterwähnung_ortsname: Tenchelserum
+  namensherkunft: Von Wort "Dankilo" oder "Tenchilo", bedeutet "die Siedlung am Weidegrund des Dankilo"
+  namensumdeutung: Fehldeutung seit Mitte 14. Jahrhundert zu "Dinkelscherben" (ursprünglich nicht erkannter Ursprung)
+  markterhebung_jahr: 1514
+  markterhebung_durch: Kaiser Maximilian I.
+  besitzer_mittelalter_zeitraum: 1400-1803
+  besitzer_mittelalter: Domkapitel Augsburg
+  säkularisation: 1803
+  zu_bayern_seit: 1803
+  gemeindeedikt: 1818
+  bezirksamt_zumarshausen_zeitraum: 1862-1929
+  bezirksamt_augsburg_seit: 1929
+  landkreis_bezeichnung_seit: 1939
+  eingemeindet_anried: 1972-07-01
+  eingemeindet_ettelried: 1977-01-01
+  eingemeindet_weitere_zeitraum: 1978-05-01
+  eingemeindet_weitere: Breitenbronn, Fleinhausen, Grünenbaindt, Häder, Lindach, Oberschöneberg, Ried
+  eisenbahnunfall_datum: 1928-07-31
+  eisenbahnunfall_typ: Auffahrunfall zweier Züge durch Weichen- und Signalstörung
+  eisenbahnunfall_tote: 23
+  hochwasser_monat: Juni 2024
+  hochwasser_überflutete_keller: ca. 150
+  hochwasser_wasserhöhe_supermarkt: über 50 [cm]
+  hochwasser_schätzung: 2-stellige [Millionen Euro]
+  hochwasser_helfer_feuerwehr: 200
+  hochwasser_helfer_franken: 120
+  wappen_farben_hintergrund: Rot und Silber
+  wappen_element: grüner Blumenscherben mit drei goldenen Dinkelhalmen
+  wappen_bedeutung: Fehldeutung des Ortsnamens
+  wappen_historisch_1540_form: senkrecht geteiltes Schild (links rot, rechts weiß) mit grünem Blumentopf und drei goldenen Ähren
+  wappen_verleihung_jahr: 1540
+  wappen_verleihung_durch: König Ferdinand
+  wappen_farben_bedeutung: Farben des Domstifts Augsburg
+  einwohner_1988: 6176
+  einwohner_2018: 6425
+  einwohnerwachstum_1988_2018: 249
+  einwohnerwachstum_prozent_1988_2018: 4
+  einwohnerwachstum_vergleich: geringster Zuwachs im Landkreis Augsburg in diesem Zeitraum
+GUELTIG_AB: 1162
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 293-dinkelscherben/002
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Ulrich Fahrner
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  partei: CSU
+  amtsantritt: 2026
+  wahltermin: 2026-03-08
+  wahlquote: 80 [%]
+  amtszeit_dauer: 6 [Jahre]
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 293-dinkelscherben/003
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Anna
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  baujahr: 1507
+  turm_anbau: 1580
+  barockisierung_zeitraum: 18. Jahrhundert
+  ortsbild_dominant: true
+GUELTIG_AB: 1507
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 293-dinkelscherben/004
+ENTITÄT: burgkapelle
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  zugehörige_burg: Burg Zusameck
+  besonderheit: einziges erhaltenes Gebäude der Burg Zusameck
+  superlativ: einziges erhaltenes Gebäude der Burg Zusameck
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 293-dinkelscherben/005
+ENTITÄT: spital
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  gründungsjahr: 1604
+  gründer: Johann Hieronymus Stir von Ostrach
+  gründer_titel: Augsburger Domdekan
+  denkmalschutz: true
+  erhalt_bedrohung_2019: true
+  erhalt_bedrohung_grund: Schließungsgefahr
+  rettung_engagement: Dinkelscherbener Bevölkerung
+  heutige_nutzung: Seniorenheim
+  bestandsdauer_beschreibung: bis heute besteht
+GUELTIG_AB: 1604
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 293-dinkelscherben/006
+ENTITÄT: heimatmuseum
+BEZEICHNUNG: Heimatmuseum Reischenau
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  abteilungen: 3
+  abteilung_1: Exponate aus der Vor- und Frühgeschichte der Reischenau
+  abteilung_2: Dokumentation des bäuerlichen Alltags des 18. und 19. Jahrhunderts
+  abteilung_3: Scherer-Galerie
+  scherer_galerie_inhalt: Großteil des Nachlasses der Malerbrüder Scherer
+  scherer_galerie_einzigkeit: weltweit einmalig und einzige Galerie mit Großteil des Nachlasses
+  superlativ: weltweit einmalige Scherer-Galerie
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/007
+ENTITÄT: malerbrüder
+BEZEICHNUNG: Scherer
+ORTSTEIL_BEZUG: Ettelried
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  tätigkeitsgebiet: viele Länder Europas
+  spezialität: Glasmalerei
+  werke_verbreitung: auch in Amerika
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 293-dinkelscherben/008
+ENTITÄT: kulturpfad
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  routen: 3
+  route_1_gebiet: Hauptort Dinkelscherben
+  route_1_begehbar: Fuß
+  route_2_gebiet: östliches Gemeindegebiet (Häder, Teile Reischenau)
+  route_2_empfehlung: Fahrrad
+  route_3_gebiet: südlicher Teil (Reischenau, Grünenbaindt, Fleinhausen) sowie westliche Ortsteile
+  route_3_empfehlung: Fahrrad
+  informationsmittel: Stelen mit Informationen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/009
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Dinkelscherben
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  gleise: 5
+  linie_1: Regional-Express-Linie 9 (Ulm – Augsburg – München)
+  linie_2: Regionalbahn-Linie 86 (Dinkelscherben – Augsburg – München)
+  taktwechsel_wochentag: Montag bis Samstag
+  takt_tagsüber: ca. halbstündlich im Wechsel
+  takt_ulm: stündlich
+  takt_sonntag_feiertag: stündlich (Augsburg und München)
+  eröffnung_teil_1: 1853-09-26
+  eröffnung_teil_1_strecke: Augsburg–Dinkelscherben
+  eröffnung_teil_2: 1854-05-01
+  eröffnung_teil_2_strecke: Dinkelscherben–Burgau
+  eröffnung_lokalbahn: 1894-12-15
+  lokalbahn_name: Dinkelscherben–Thannhausen
+  lokalbahn_verbindung: Thannhausen und Ziemetshausen mit Hauptstrecke
+  lokalbahn_personenverkehr_ende: 1966-09-24
+  lokalbahn_güterverkehr_ende: 2000-01-31
+  lokalbahn_güterverkehr_ende_grund: sinkendes Güteraufkommen, Abbau danach
+GUELTIG_AB: 1853
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 293-dinkelscherben/010
+ENTITÄT: burg
+BEZEICHNUNG: Burg Zusameck
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  besitzer_15_16_jh: Domstift
+  funktionen_15_16_jh: Zentralort der Region (Ausbau durch Domstift), Hochgericht, Pfarrei
+  erhaltene_reste: Burgkapelle
+  wanderweg_name: Otto-Schneider-Rundweg
+GUELTIG_AB: 15. Jahrhundert
+GUELTIG_BIS: 16. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/011
+ENTITÄT: fluss
+BEZEICHNUNG: Zusam
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  verlauf_richtung: Süd nach Nord
+  verlaufsmuster: mäandernd
+  bereich: Gemeindegebiet Dinkelscherben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 293-dinkelscherben/012
+ENTITÄT: naturpark
+BEZEICHNUNG: Augsburg-Westliche Wälder
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  lage_dinkelscherben: inmitten des Naturparks
+  nutzung_wanderwege: viele Kilometer Wanderwege
+  nutzung_radtouren: geeignet für Radtouren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/013
+ENTITÄT: schäfflertanz
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  häufigkeit: alle sieben Jahre
+  tradition_seit: 1893
+  superlativ: längste Tradition in ganz Bayerisch-Schwaben
+  sagenherkunft: nach Pestjahren 1517 in München
+  sagenherkunft_genauigkeit: vermutlich
+  zeitraum_durchführung: Heilig-Drei-König bis Faschingsdienstag
+  tage_durchführung: Wochenenden und Feiertage
+  teilnehmer_anforderung_alter: mindestens 18 Jahre
+  teilnehmer_anforderung_geschlecht: männlich
+  teilnehmer_anforderung_familienstand: unverheiratet
+  teilnehmer_anforderung_wohnort: Wohnsitz in Dinkelscherben
+  ausfälle: Erste und Zweite Weltkrieg
+  choreographie_element: Buchsbögen mit Tanzfiguren
+  choreographie_element_2: Fassklopfer
+  choreographie_element_3: Clowns (Satire)
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/014
+ENTITÄT: panoramabad
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  schwimmerbassin_größe: 50 [m]
+  features: Sprungturm, Rutsche, Liegewiese, Kinderspielplatz, beheiztes Kinderplanschbecken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 293-dinkelscherben/015
+ENTITÄT: sportinfrastruktur
+BEZEICHNUNG: Trimm-dich-Pfad
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  lage: Kaiserberg am Rande des Ortes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 293-dinkelscherben/016
+ENTITÄT: sportinfrastruktur
+BEZEICHNUNG: Naturlehrpfad
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  lage: Kaiserberg am Rande des Ortes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 293-dinkelscherben/017
+ENTITÄT: sportverein
+BEZEICHNUNG: TSV-Dinkelscherben e. V.
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  sportgelände_lage: Kaiserberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 293-dinkelscherben/018
+ENTITÄT: infrastruktur
+BEZEICHNUNG: E-Bike-Ladestationen
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 2
+  kostenlos: true
+  verbreitungsgebiet: Dinkelscherben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 293-dinkelscherben/019
+ENTITÄT: infrastruktur
+BEZEICHNUNG: öffentliche Spielplätze
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: mehrere
+  verbreitungsgebiet: gesamtes Gemeindegebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 293-dinkelscherben/020
+ENTITÄT: musikvereinigung
+BEZEICHNUNG: Musikvereinigung Dinkelscherben
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltungen: diverse Konzerte, Sommerfest im Rathausgarten, Neujahrsspielen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 293-dinkelscherben/021
+ENTITÄT: musikveranstaltung
+BEZEICHNUNG: Rathauskonzerte
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  genre: Klassische Musik
+  häufigkeit: regelmäßige Abstände
+  ort: Rathaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 293-dinkelscherben/022
+ENTITÄT: musikfestival
+BEZEICHNUNG: Dinkel-Festival
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: letztes Juli-Wochenende
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 293-dinkelscherben/023
+ENTITÄT: kulturveranstaltung
+BEZEICHNUNG: Reischenauer Markstoi
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  häufigkeit: alle drei Jahre
+  zeitraum: Faschingszeit
+  beschreibung: Kulturwochen mit zahlreichen Veranstaltungen aus allen möglichen kulturellen Bereichen
+  teilnehmer: dutzende Vereine, Gruppen und engagierte Bürger
+  tradition_seit: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 293-dinkelscherben/024
+ENTITÄT: vereinsleben
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  anzahl_vereine_gruppen: über 100
+  beschreibung: gestalten aktiv und oftmals ehrenamtlich das kulturelle Leben im Gemeindegebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 293-dinkelscherben/025
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Manfred Porkert
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1933
+  todesjahr: 2015
+  fachgebiet: Sinologie, Chinesische Medizin
+  akademische_position: Professor an der Universität München
+  wohnort_verbindung: lebte in Dinkelscherben
+GUELTIG_AB: 1933
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 293-dinkelscherben/026
+ENTITÄT: künstler
+BEZEICHNUNG: Johann Rieger
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  tätigkeiten: Maler und Zeichner
+  geburtsjahr: 1655
+  todesjahr: 1730
+GUELTIG_AB: 1655
+GUELTIG_BIS: 1730
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/027
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Anton Höfer
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1764
+  todesjahr: 1837
+  tätigkeiten: Lehrer und Kirchenmusiker
+  geburtsort_ortsteil: Ettelried
+GUELTIG_AB: 1764
+GUELTIG_BIS: 1837
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/028
+ENTITÄT: künstler
+BEZEICHNUNG: Joseph Scherer
+ORTSTEIL_BEZUG: Ettelried
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1814
+  todesjahr: 1873
+  tätigkeiten: Maler und Glasmaler
+GUELTIG_AB: 1814
+GUELTIG_BIS: 1873
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/029
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Julius Streicher
+ORTSTEIL_BEZUG: Fleinhausen
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1885
+  todesjahr: 1946
+  tätigkeiten: Publizist und Politiker
+  parteien: DSP, NSDAP
+GUELTIG_AB: 1885
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 293-dinkelscherben/030
+ENTITÄT: künstler
+BEZEICHNUNG: Anna Stobitzer
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1886
+  geburtsort: Harburg
+  todesjahr: 1948
+  tätigkeiten: Malerin
+GUELTIG_AB: 1886
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/031
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Otto Geiselhart
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1890
+  todesjahr: 1933
+  tätigkeiten: Politiker
+  partei: SPD
+GUELTIG_AB: 1890
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/032
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Josef Fischer
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1898
+  todesjahr_vermutung: nach 1963
+  positionen: Landrat im Landkreis Grafenau, Richter am Bayerischen Verwaltungsgerichtshof
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 293-dinkelscherben/033
+ENTITÄT: geistlicher
+BEZEICHNUNG: Adalbert Mayer
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1934
+  todesjahr: 2023
+  konfession: römisch-katholisch
+  tätigkeiten: Geistlicher, Kirchenrechtler, Hochschullehrer
+GUELTIG_AB: 1934
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/034
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Eduard Oswald
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1947
+  partei: CSU
+  positionen: Bundesminister a. D., Vizepräsident des Deutschen Bundestages a. D.
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 293-dinkelscherben/035
+ENTITÄT: künstler
+BEZEICHNUNG: Maximilian Hornung
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1986
+  tätigkeiten: Musiker
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 293-dinkelscherben/036
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Kalb
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1989
+  tätigkeiten: Filmproduzent, Regisseur und Moderator
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 293-dinkelscherben/037
+ENTITÄT: sportler
+BEZEICHNUNG: Julian Kania
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 2001
+  sport: Fußball
+  position: Spieler
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 293-dinkelscherben/038
+ENTITÄT: unternehmen
+BEZEICHNUNG: Ferrum GmbH
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  mutterkonzern: Buderus
+  ansässigkeit: Dinkelscherben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 293-dinkelscherben/039
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Zusmarshausen
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Norden
+  autobahn_anschluss: A8 über Anschlussstelle Zusmarshausen
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/040
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Horgau
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Nordosten
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/041
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Kutzenhausen
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Osten
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/042
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Ustersbach
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Süden
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/043
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Fischach
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Süden
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/044
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Schmellerforst
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Südwesten
+  status: gemeindefreies Gebiet
+  landkreis: Augsburg
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/045
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Ziemetshausen
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Südwesten
+  landkreis: Günzburg
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/046
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Burtenbach
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Westen
+  landkreis: Günzburg
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 293-dinkelscherben/047
+ENTITÄT: eisenbahnstrecke
+BEZEICHNUNG: Bahnstrecke Augsburg–Ulm
+QUELLE: https://de.wikipedia.org/wiki/Dinkelscherben | Wikipedia
+EIGENSCHAFTEN:
+  ursprungsname: Bayerische Maximiliansbahn
+  teilstrecke_1: Augsburg–Dinkelscherben
+  teilstrecke_1_eröffnung: 1853-09-26
+  teilstrecke_2: Dinkelscherben–Burgau
+  teilstrecke_2_eröffnung: 1854-05-01
+GUELTIG_AB: 1853
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

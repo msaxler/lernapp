@@ -1,0 +1,296 @@
+ebene_egerlaender"
+  bestandteile_fest: "Prozession von Kirche St. Kolumban zum Marktplatz, Erntedankgottesdienst, Krämermarkt, Festumzug, Unterhaltungsprogramm mit Musik und Tanz"
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Saint-Leu-la-Forêt
+QUELLE: https://www.wendlingen.de/unsere-stadt/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft_seit: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Millstatt am See
+QUELLE: https://www.wendlingen.de/unsere-stadt/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Österreich
+  bundesland: Kärnten
+  partnerschaft_seit: 1992
+  austausch_regelmaessig: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Dorog
+QUELLE: https://www.wendlingen.de/unsere-stadt/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Ungarn
+  partnerschaft_seit: 1997
+  traeger: "Freundeskreise"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: freundschaft
+BEZEICHNUNG: Markneukirchen
+QUELLE: https://www.wendlingen.de/unsere-stadt/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Sachsen
+  beginn: "nach Wiedervereinigung"
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freundschaft
+BEZEICHNUNG: Cheb (Eger)
+QUELLE: https://www.wendlingen.de/unsere-stadt/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Tschechien
+  historischer_name: Eger
+  beginn: "nach Wiedervereinigung"
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: signet
+BEZEICHNUNG: Signet Wendlingen am Neckar
+QUELLE: https://www.wendlingen.de/unsere-stadt/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstellung_jahr: 1979
+  motiv: "stilisiertes Blatt"
+  symbolik: "Dynamik, Frische, Lebendigkeit"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtleitbild
+BEZEICHNUNG: Stadtleitbild Wendlingen am Neckar
+QUELLE: https://www.wendlingen.de/unsere-stadt/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_prozess: Stadtmarketingprozess
+  entstehung_jahr: 1999
+  wortlaut: "Wendlingen am Neckar, unsere freundliche Stadt zwischen Großstadtregion und Schwäbischer Alb verbindet industrielle Vergangenheit mit moderner Arbeitswelt, Offenheit mit sozialer Nähe, Naturerlebnis mit lebendiger Innenstadt in einem Umfeld, das von Freude am gemeinsamen Engagement geprägt ist"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Wendlingen am Neckar
+QUELLE: https://www.wendlingen.de/unsere-stadt/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_jahr: 2004
+  eroeffnung_monat: September
+  location_description: "denkmalgeschütztes Pfarrhausensemble"
+  gebaeudekomplex: "barockes Pfarrhaus (1753/54), Pfarrscheuer (1751/52), Drittelscheuer (1457/58), Pfarrgarten mit Wasch- und Backhaus (1811)"
+  ausstellungsthema_chronologie: "Leben seit Mittelalter in drei Stadtteilen"
+  ausstellungsthema_reoter_faden: Verkehrswege
+  ausstellung_industrie: "Textil- und Möbelindustrie 19./20. Jahrhundert"
+  erweiterung_2022_objekt: Drittelscheuer
+  erweiterung_2022_inhalt: "Vor- und Frühgeschichte mit archäologischen Fundstücken"
+  auszeichnung_jahr: 2005
+  auszeichnung_monat: Herbst
+  auszeichnung_name: "Vorbildliches Heimatmuseum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Steffen Weigel
+QUELLE: https://www.wendlingen.de/rathaus-service/stadtverwaltung/buergermeisterportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Bürgermeister
+  amtsantritt: "01.10.2011"
+  familienstand: verheiratet
+  ehefrau: "Esther Müllerschön"
+  kinder_anzahl: 1
+  partei: SPD
+  ausbildung: "Diplom-Verwaltungswirt (FH)"
+  ausbildung_institution: "Hochschule für Verwaltung Ludwigsburg"
+  abschluss_jahr: 1992
+  karriere_station_1: "Stadtverwaltung Friedrichshafen (1992)"
+  karriere_position_1: "Amt für Vermessung und Liegenschaften"
+  karriere_station_2: "Stadtverwaltung Kirchheim unter Teck (1996-2011)"
+  karriere_position_2_aenderung: "mehrere Positionen einschließlich Leiter Personalamt, Geschäftskreis Kultur/Soziales, Hauptverwaltung"
+  ehrenamt_richter_arbeitsrecht: true
+  ehrenamt_richter_arbeitsrecht_gericht: "Arbeitsgericht Stuttgart"
+  ehrenamt_richter_sozialrecht: true
+  ehrenamt_richter_sozialrecht_gericht: "Landessozialgericht"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadt
+DESIGNATIO: Wendlingen am Neckar
+QUELLE: https://www.wendlingen.de/unsere-stadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 16013
+  einwohner_datum: "31. März 2026"
+  einwohner_m: 7921
+  einwohner_w: 8092
+  flaeche_gesamt: 1215
+  flaeche_einheit: ha
+  ausdehnung_ns: 5.2
+  ausdehnung_ns_einheit: km
+  ausdehnung_ow: 4.9
+  ausdehnung_ow_einheit: km
+  hoehe_min: 255
+  hoehe_max: 345
+  hoehe_einheit: m
+  hoehe_min_ort: Neckartal
+  hoehe_max_ort: Wendlinger Wald
+  flaeche_siedlung: 325
+  flaeche_verkehr: 160
+  flaeche_vegetation: 694
+  flaeche_wasser: 36
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Eusebiuskirche
+ORTSTEIL_BEZUG: Wendlingen
+QUELLE: https://www.wendlingen.de/leben-soziales/kirchen-glaube | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gottesdienstzeit: "10:00 Uhr"
+  kindergottesdienst_zeit: "10:00 Uhr sonntags (außerhalb Ferien)"
+  kindergottesdienst_ort: "Brennerstüble Ev. Pfarramt Nord"
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Jakobskirche
+ORTSTEIL_BEZUG: Bodelshofen
+QUELLE: https://www.wendlingen.de/leben-soziales/kirchen-glaube | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gottesdienstzeit: "11:00 Uhr Sonntag"
+  gottesdienst_frequenz: "jeden zweiten und vierten Sonntag"
+  zustaendiger_pfarrer: "Peter Brändle"
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Kolumban
+ORTSTEIL_BEZUG: Unterboihingen
+QUELLE: https://www.wendlingen.de/leben-soziales/kirchen-glaube | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gottesdienstzeit_sa: "18:30 Uhr Eucharistiefeier"
+  gottesdienstzeit_so: "09:30 Uhr Eucharistiefeier"
+  wochenabwechslung: "Eucharistiefeier und Wortgottesfeier"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: dienst
+BEZEICHNUNG: "Trauungen Stadtmuseum"
+QUELLE: https://www.wendlingen.de/freizeit-kultur/stadtmuseum/heiraten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: "Garten Stadtmuseum"
+  zeitraum_monatlich: "Mai bis September"
+  max_gaeste: 30
+  samstagstermine_2026: ["9. Mai", "6. Juni", "4. Juli", "8. August", "5. September"]
+  samstagtermine_zeitfenster: "10:00-14:00 Uhr"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: "Backhaus (ehemaliges Wasch- und Backhaus)"
+QUELLE: https://www.wendlingen.de/freizeit-kultur/stadtmuseum/backhaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zugehoerigkeit: Stadtmuseum
+  inbetriebnahme: 2005
+  betreiber: "Museumsverein Wendlingen-Unterboihingen e.V."
+  nutzung: "historisches Backen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: roemischer_gutshof
+BEZEICHNUNG: "Römischer Gutshof Wendlingen am Neckar"
+QUELLE: https://www.wendlingen.de/unsere-stadt/geschichtliches/roemerbad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bekannt_seit: 1835
+  location_gewann: "Steigäcker"
+  ausgrabung_erste_jahr: 1961
+  ausgrabung_erste_monat: Oktober
+  badeanlage_laenge: 22
+  badeanlage_breite: 13.25
+  badeanlage_einheit: m
+  badeanlage_groesse_bewertung: "eines der größten selbstständigen römischen Bäder im Bereich eines Gutshofes"
+  ausgrabung_wiederherstellung: "abgedeckt wegen fehlender finanzieller Mittel"
+  ausgrabung_weitere_jahre: ["2015", "2016"]
+  ausgrabung_weitere_grund: "ICE Neubaustrecke Stuttgart-Ulm"
+  ausgrabung_behoerde: "Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart"
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: archiv
+BEZEICHNUNG: Stadtarchiv Wendlingen am Neckar
+QUELLE: https://www.wendlingen.de/unsere-stadt/geschichtliches/stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_aufzeichnungen: 1938
+  neusortierung_uebergabe: 2014
+  uebergabe_datum: "25. Februar 2014"
+  uebergabe_durch: "Kreisarchiv Esslingen"
+  location_aktuell: "Brückenstraße 15, 73240 Wendlingen am Neckar"
+  location_gebaeude: "ehemalige Volksbank"
+  location_umzug_jahr: 2013
+  location_umzug_monat: Juli
+  aelteste_archivalie: "Heiligenlagerbuch 1616"
+  archivzeitraum: "1616-1997"
+  oeffnungstag: "jeden dritten Mittwoch im Monat"
+  oeffnungszeit: "08:00-12:00, 14:00-17:00"
+  bestandsgroesse: "über 200 laufende Meter"
+  kontakt_telefon: "0711 3902-42340"
+  kontakt_email: "Kreisarchiv(@)LRA-ES.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stolpersteine
+DESIGNATIO: "Stolpersteine Wendlingen am Neckar"
+QUELLE: https://www.wendlingen.de/unsere-stadt/geschichtliches/stolpersteine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_verlegung_jahr: 2023
+  erste_verlegung_anzahl: 3
+  zweite_verlegung_datum: "22. November 2025"
+  zweite_verlegung_anzahl: 3
+  gedenkstein_ukrainisch_jahr: 2024
+  gedenkstein_ukrainisch_monat: April
+  gedenkstein_ukrainisch_location: "Waldrand Richtung Rübholz"
+  initiator_lokal: "Bürgerverein Wendlingen am Neckar"
+  kuenstler: "Gunter Demnig"
+  groesse_stein: "10 x 10 cm"
+  material_stein: goldene
+  global_verlegungen: 116000
+  global_laender: 31
+  global_kommunen: 1860
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

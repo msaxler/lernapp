@@ -1,0 +1,580 @@
+ENTITÄT: ort
+BEZEICHNUNG: Leipheim
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: Alemannen
+  gründung_zeitraum: 500-550
+  burg_standort: nordöstlich des Dorfes
+  burg_funktion: Sicherung des Donauübergangs
+  burg_dokumentiert_ab: 1050
+  stadtrecht_verleihung: 17. November 1330
+  stadtrecht_verleihende_person: Kaiser Ludwig der Bayer
+  marktrecht_verleihung: 1327
+  marktrecht_verleihende_person: Kaiser Ludwig der Bayer
+  stadtrecht_bezugsort: Ulm
+  verkauf_an_ulm: 1453
+  verkauf_preis: 23.300 Rheinische Gulden
+  zugehörigkeit_ulm_dauer: 1453-1802
+  einwohner_1400er: 1000-1250
+  hauptberufe_mittelalter: Ackerbau, Handweberei, Flachs- und Hopfenanbau
+  einwohner_1725: 1500
+  bahnhof: 1853
+  bahnstrecke: Ulm-Augsburg
+  autobahn: 1937
+  autobahnbrücke_donau: 1937
+  fliegerhorst: 1937
+  flugzeugwerk: ab 1940
+  einwohner_heute: 7000
+  fläche: 32.15 [km²]
+  höhe: 470 [m ü.NN]
+  koordinaten: 48° 27' 0'' Nord - 10° 13' 14'' Ost
+  lage_geografisch: südliches Donauufer, Terrasse
+  lage_regional: Mitte zwischen Stuttgart und München
+  lage_regional2: zwischen Ulm und Augsburg
+  verkehrslage: an Bundesautobahn A 8
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Leipheim
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/daten-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappen_beschreibung: Blau mit goldenem, mit drei roten Sternen belegtem Schrägbalken
+  wappen_herkunft: Stammwappen des Adelsgeschlechts der Güssen
+  wappenfarben: rot-gelb-blau
+  naturraum_nord: Donauried mit Niedermoorkomplex
+  naturraum_zentral: Donautal mit Donau und Auwald
+  naturraum_topografie: Leite (Hangkante nach Norden zur Donau)
+  naturraum_sued: Hochterrasse
+  naturraum_großlandschaften: Iller-Lech-Schotterplatten und Schwäbische Alb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Veit
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dokumentiert_seit: 1225
+  besitzer_seit: ca. 1143
+  besitzer: Kloster Elchingen
+  besitznachweise: Papst Honorius III. Bulle
+  beschreibung: gotisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Güssen
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rank: Niederadel
+  besitz_leipheim_von: 1267
+  besitz_leipheim_bis: 1373
+  erste_namentliche_nennung: 1267
+  erste_nennung_person: Gerwig I.
+  verleihung_marktrecht: 1327
+  verleihung_marktrecht_person: Kaiser Ludwig der Bayer
+  verleihung_stadtrecht: 1330
+  verleihung_stadtrecht_personen: Gebrüder Diepold und Gerwig III.
+  verleihung_stadtrecht_person_kaiser: Kaiser Ludwig der Bayer
+  verkauf_stadt_grund: wirtschaftliche Gründe
+  verkauf_stadt_empfänger: Grafen von Württemberg
+  verkauf_stadt_zeitraum: ab 1373 schrittweise
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1267
+GUELTIG_BIS: 1373
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: stiftung
+BEZEICHNUNG: Hospitalstiftung zum Heiligen Geist
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründer: Adelsgeschlecht Güssen
+  gründungsjahr: 1315
+  übertragung_stadt: 1368
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Bauernkrieg
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schlacht_datum: 4. April 1525
+  ort: Leipheim
+  teilnehmer_bauern: 4000-5000
+  tote_bauern: ca. 1000
+  todesfälle_art: erschlagen, erstochen, ertränkt in der Donau
+  rädelsführer_genannt: Pfarrer Jakob Wehe
+  rädelsführer_schicksal: geköpft
+  grund: Einkommenseinbuße der Weber (Webstühle-Restriktion ab 1512), Forderung nach guten alten Rechten
+  gegner: Schwäbischer Bund
+  resultat: Niederlage der Bauern
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1525
+GUELTIG_BIS: 1525
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg - Leicheim
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1634
+  auslöser: Schlacht bei Nördlingen
+  folge_einwohner: wenige verbliebene flohen nach Ulm
+  folge_stadt: Plünderung und Brandschatzung durch kaiserliche Truppen
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1634
+GUELTIG_BIS: 1634
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Kinderfest
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsjahr: 1818
+  grund: Dankbarkeit für überstandene Hungersnot 1816/17
+  zweck: Erntedankfest, Hoffnungszeichen, Freudenfest für Kinder
+  termin: 2. Wochenende im Juli
+  erste_feier_nach_krieg: 1949
+  jubiläum_200_jahre: 2017
+  besonderheit: Kinder sind Hauptakteure
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Hungersnot
+QUELLE: https://www.leipheim.de/de/stadtinfo/kinderfest/hintergrund | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursache: Vulkanausbruch Tambora (April 1815)
+  vulkan_ort: indonesische Insel Sumbava
+  klimafolge: globale Klimaveränderungen in Nordamerika und Europa
+  bezeichnung: "Jahr ohne Sommer" (1816)
+  auswirkungen: Missernten, erhöhte Sterblichkeit Nutztiere, gestiegene Getreidepreise, Überschwemmungen bis 1817
+  superlativ: schlimmste Hungersnot des 19. Jahrhunderts
+  zeitraum: 1816-1817
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1816
+GUELTIG_BIS: 1817
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Leipheim
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1853
+  strecke: Ulm-Augsburg
+  kategorie: Hauptstrecke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn A 8
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung_abschnitt: 1937
+  bauwerk: Brücke über die Donau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: flugplatz
+BEZEICHNUNG: Fliegerhorst Leipheim
+QUELLE: https://www.leipheim.de/de/stadtinfo/entdecken/fliegerhorst | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1936
+  baujahr: 1937
+  grund_bau: strategische Gründe, Nachschubsicherung per Eisenbahn und Autobahn
+  funktion_ab_1940: Zweigwerk Messerschmitt-Werke Augsburg
+  flugzeugwerk_produkte: Me 262, Me 321/323 "Giganten"
+  me_262_jungfernflug: 18. Juli 1942
+  beschreibung_me_262: erstes serienreifes Düsenflugzeug der Welt
+  beschreibung_me_321_323: größte Lastenflugzeuge jener Zeit
+  bombenschäden_1944: schwere Schäden, 53 Me 262 zerstört
+  luftangriffe: April, Juli, November 1944, April 1945
+  kämpfe: 25. April 1945
+  besetzung: US-Armee
+  verwendung_1946_1949: Lager für Displaced Persons
+  usa_rückkehr: Oktober 1950
+  ausbau_1954: 11 ha Landwirtschaftsfläche requiriert
+  usa_unterstützung: Schulbau, Rodelbahn, Donau-Hochwasserschutz-Arbeiten
+  fliegende_verbände: ab 1957 stationiert
+  bundeswehr_übernahme: 1959
+  nato_unterstellung: 1964
+  nato_status_1975: Reserveflugplatz
+  nato_status_1979: Einsatzplatz
+  alpha_jet_rolle: ab 1978/79 Übergabebereich zwischen Fertigung und Verbänden
+  flugbetrieb_ende: 1994
+  bundeswehr_präsenz_2005: nichtfliegende Einheiten
+  militärische_nutzung_ende: 31.12.2008
+  nachnutzung: Interkommunales Gewerbegebiet "AREAL Pro"
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1937
+GUELTIG_BIS: 2008
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: flugzeugtyp
+BEZEICHNUNG: Messerschmitt Me 262
+QUELLE: https://www.leipheim.de/de/stadtinfo/entdecken/fliegerhorst | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  klassifizierung: Düsenflugzeug
+  superlativ: erstes serienreifes Düsenflugzeug der Welt
+  jungfernflug: 18. Juli 1942
+  jungfernflug_ort: Fliegerhorst Leipheim
+  verwendung: Abwehrflugzeug gegen alliierte Bomberströme
+  produktion_ort: Fliegerhorst Leipheim
+  vulnerabilität: schwach bei Start und Landung (alliierte Jagdflugzeuge)
+  kampfschäden_1944: 53 Stück zerstört
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: flugzeugtyp
+BEZEICHNUNG: Messerschmitt Me 321/323 "Giganten"
+QUELLE: https://www.leipheim.de/de/stadtinfo/entdecken/fliegerhorst | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größte Lastenflugzeuge jener Zeit
+  produktion_ort: Fliegerhorst Leipheim
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Wanzl
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ansiedlung: nach 2. Weltkrieg
+  produkt: Einkaufswagen
+  produktion_jaehrlich: 1.4 Millionen
+  vertrieb: weltweit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: building
+BEZEICHNUNG: Schloss Leipheim
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: altehrwürdig, überragt den Schloßhof
+  restaurierung: Schloßhof renoviert und neu gestaltet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: building
+BEZEICHNUNG: Zehntstadel
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Kulturzentrum
+  ausstattung: Heimat- und Bauernkriegsmuseum "Blaue Ente"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Riedheim
+ORTSTEIL_BEZUG: Riedheim
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1292
+  eingemeindung: 1971
+  zentrum: Dorfkirche
+  einrichtungen: Dorfzentrum mit Schützenheim Moosdeif´l, Kindergarten, Feuerwehrhaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Weißingen
+ORTSTEIL_BEZUG: Weißingen
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: alemannische Gründung, 5. Jahrhundert
+  name_erneuerung: nach Gründung Kloster Elchingen (Anfang 12. Jahrhundert)
+  kloster_zugehörigkeit: von altersher dem Kloster Elchingen zugehörig
+  erste_urkunde: Bulle des Papstes Honorius III. von 1225
+  urkunde_inhalt: Kloster im Besitz eines Hofes und zweier Pachtfischer
+  verkauf_1644: Benediktiner-Reichsabtei Elchingen verkauft Besitz an Ulmer Bürger
+  einwohner_1722: 41
+  einwohner_1900: 67
+  einwohner_aktuell: ca. 90
+  eingemeindung: 1971
+  wirtschaft: Landwirtschaft geprägt
+  tourismus: Donauradwanderweg führt durch den Ort
+  freizeit: "Radler-Tankstelle" (Biergarten) in Sommermonaten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Pfarrer Jakob Wehe
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wirken_ab: 1523/24
+  reformatorische_ausrichtung: Sinne Dr. Martin Luthers
+  bauernkrieg_rolle: hielt zu den Aufständischen
+  hinrichtung: 5. April 1525
+  todesart: Enthauptung
+  rolle_bauernkrieg: Rädelsführer
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1523
+GUELTIG_BIS: 1525
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Pfarrer Johann Wilhelm Diez
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wirken_von: 1695
+  wirken_bis: 1727
+  beschreibung_werk: 73 Verse Lobrede, Schilderung Leipheim als Gemeinde mit 1500 Seelen
+  jahr_werk: 1725
+  zitat: "wovon man nicht eine betteln sieht und kein Kind der Hunger quält"
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1695
+GUELTIG_BIS: 1727
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Gerwig I.
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschlecht: Güssen
+  erste_nennung: 1267
+  besonderheit: erster Güsse mit Besitz Leipheim
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1267
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Gebrüder Diepold und Gerwig III.
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/daten-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschlecht: Niederadelsgeschlecht Güssen von Güssenberg
+  erfolg: erwirkten Stadtrecht für Leipheim als Belohnung für Dienste auf Italienzügen
+  begünstiger: Kaiser Ludwig der Bayer
+  verleihung_jahr: 1330
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1330
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Erhard Schad
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/daten-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Ulmer Patrizier
+  amt: Vogt in Leipheim
+  amtszeit_von: 1631
+  amtszeit_bis: 1651
+  leistung: verteidigte Leipheim dreimal gegen kaiserliche Truppen
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1631
+GUELTIG_BIS: 1651
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johann Martin Miller
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/daten-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kindheit_ort: Leipheim
+  spätere_position: Dekan am Ulmer Münster
+  bekanntheit: Roman "Sieghard, eine Klostergeschichte"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wappensymbol
+BEZEICHNUNG: Schrägbalken mit Sternen
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/daten-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  farbe_wappen: Blau
+  farbe_balken: Gold
+  farbe_sterne: Rot
+  anzahl_sterne: 3
+  herkunft: Stammwappen Adelsgeschlecht Güssen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimat- und Bauernkriegsmuseum "Blaue Ente"
+QUELLE: https://www.leipheim.de/de/freizeit/kultur/museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: ehemaliges Gasthaus "Blaue Ente" am Stadtberg
+  altbau_thema: Stadtgeschichte Leipheims
+  stadel_thema: Bauernkrieg
+  stadel_obergeschoss: Bauernkrieg vom Großen zum Kleinen mit stufenförmiger Wandübersicht
+  stadel_diorama: Bauernkriegsschlacht-Diorama
+  stadel_dachspitz: Kriegsfolgen mit Grab und Skeletten aus Bauernkriegszeit
+  altbau_inhalte: Güssen, Hospitalstiftung, Stadtwerdung, Fliegerhorst, alte Gaststube mit Hausbrauerei
+  selbstgebrautes_bier: Museumsbier
+  gründer: Historischer Arbeitskreis
+  konzeption: Ethnologin Susanne Fuder mit Historischem Arbeitskreis
+  umsetzung: Werkstatt für Gestaltung aus Augsburg
+  mitgliedschaft: Arbeitsgemeinschaft der deutschen Bauernkriegsmuseen
+  öffnungszeiten_sonntag: 14:00-17:00 Uhr
+  eintritt_erwachsene: 4 Euro
+  eintritt_ermäßigt: 3 Euro
+  eintritt_familie: 7 Euro
+  eintritt_gruppe_10plus: 3 Euro pro Person
+  eintritt_kinder_unter_10: frei
+  eintritt_schulklassen: frei
+  eintritt_kindergartengruppen: frei
+  führungen_dauer: ca. 1 Stunde
+  führungen_max_personen: 15
+  führungen_kosten: 30 Euro (zzgl. Eintritt)
+  angebot_mostprobe: nach Vereinbarung
+  angebot_bierprobe: nach Vereinbarung
+  angebot_brautag: mit Weißwurstfrühstück
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Ausstellungsgebäude "Mühlentechnik"
+ORTSTEIL_BEZUG: Weinhof
+QUELLE: https://www.leipheim.de/de/freizeit/kultur/museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zugehörigkeit: Heimat- und Bauernkriegsmuseum Blaue Ente
+  thema: Mühlentechnik, Leipheimer Wasserspuren
+  mühlen: Obere und Untere Mühle
+  antriebsenergie: Mühlbach mit Wasser aus Hangquellen
+  ausstellung: Mahltechnik mit Schautafeln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Leipheimer Linde
+QUELLE: https://www.leipheim.de/de/stadtinfo/entdecken/leipheimer-linde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Stadtrand in Richtung Bubesheim
+  alter_geschätzt: ca. 600 Jahre
+  erste_urkundliche_erwähnung_quelle: Kaufurkunde zwischen Graf Urlich von Württemberg und Freier Reichsstadt Ulm
+  stadtbuch_erwähnung_ab: 1675
+  stadtbuch_bezeichnung: "Auf der Linden"
+  brand_1979: überstand
+  sturm_dezember_1999: Orkan "Lothar" - mehrere Meter langer Riss im Stamm
+  sanierungen: wiederholte Investitionen der Stadt
+  radikalschnitt_november_2007: Reduktion von 30 Meter auf 8 Meter Höhe
+  radikalschnitt_grund: Erhaltung als Naturdenkmal
+  radikalschnitt_fachmann: Falk Dolze (Sachverständiger Baumpflege und Baumstatik)
+  prognose_nach_schnitt: Neuaustrieb der Krone
+  kunstwerk: Teil alte Krone von Bernhard Schmit (Rettenbacher Künstler) zu Holz-Skulptur verarbeitet
+  kunstwerk_ort: Leipheimer Rathaus, besichtigbar während Öffnungszeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Fonyód
+QUELLE: https://www.leipheim.de/de/stadtinfo/unsere-stadt/partnergemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1993
+  grund_suche: Jugend-, Kultur- und Sport-Ausschuss Leipheim
+  grund_wahl: osteuropäische Partnerstadt an der Donau, Ungarn
+  initiator: Dr. Thomas Butkay, Leipheimer Zahnarzt aus Ungarn
+  fonyod_erste_erwähnung: 1082
+  fonyod_erwähnung_als: Siedlung "Fundoldo"
+  fonyod_dorf_erklaert: 1905
+  fonyod_stadtrang: 1989
+  fonyod_einwohner_permanent: 5300
+  fonyod_ferienwohnungen: 2100
+  fonyod_wochenendhäuser: 3500
+  fonyod_standort: am Balaton (Plattensee)
+  fonyod_dampfschiff: Kisfaludy, Mitte 19. Jahrhundert regelmäßig
+  fonyod_personenschiffverkehr: ab Jahrhundertwende
+  fonyod_badezug: 15. Juni 1900, erster
+  fonyod_fest: St. Stephanstag, ca. 20. August
+  delegation_leipheim: kommt jährlich zum Fest
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kulturveranstaltung
+BEZEICHNUNG: Alber
+QUELLE: https://www.leipheim.de/de/stadtinfo/kinderfest/hintergrund | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baum_alter_geschätzt: ca. 600 Jahre
+  verwendung: Ort der Kinderfestfeier
+  verwendung_zeitraum: bis 1893
+  zerstörung_ursache: Zündelei durch Kinder
+  fällung: 1893
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1893
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: katholische_kirche
+BEZEICHNUNG: Kirche am Fliegerhorst
+QUELLE: https://www.leipheim.de/de/stadtinfo/entdecken/fliegerhorst | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: nach über 400 Jahren wieder Kirchenbau
+  grund_bau: Zuzug vieler Katholiken mit Bau- und Horstpersonal
+  größe: kleine Kirche
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: krieg_ereignisse
+BEZEICHNUNG: Kriegsfolgen Leipheim 2. Weltkrieg
+QUELLE: https://www.leipheim.de/de/stadtinfo/entdecken/fliegerhorst | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kampfhandlungen: 25. April 1945
+  kampfhandlungen_grund: SS rückt von Günzburg an zur Donau-Verteidigung gegen US-Vormarsch
+  besetzung: US-Armee
+  gefallene_leipheimer: 137
+  vermisste_leipheimer: 65
+  zeitraum: 1940-1945
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+VERTRAUEN_EXTRAKTION: 0.90
