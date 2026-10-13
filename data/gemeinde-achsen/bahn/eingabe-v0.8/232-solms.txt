@@ -1,0 +1,594 @@
+ZIELORT: Solms (Stadt)
+LAGE: 46 km südöstlich von Siegen (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Solms
+
+GRUNDDATEN:
+  landkreis: Lahn-Dill-Kreis  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 13.567  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 34,02  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 399  [berechnet aus Einwohner und Fläche]
+  kfz: WZ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 144 | 153 | 156 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 9973269)]
+  naechste_grossstadt: Siegen, 46 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 52 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Albshausen, Bahnhof Braunfels-Oberndorf  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 35606  [Wikidata P281]
+  vorwahl: 06442  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,5 %, AfD 24,7 %, SPD 19 %, GRÜNE 7,3 %, Die Linke 5,8 %; Wahlbeteiligung 81,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Katharina Didlapp — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: La Grand-Combe, Liezen, Schmiedefeld am Rennsteig  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Leun (Stadt)
+  landkreis: Lahn-Dill-Kreis  [dewiki Infobox]
+  einwohner: 5712  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 28,66  [Wikidata P2046; Altbestand staedte.json]
+  kfz: WZ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 155 | 159  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2878351)]
+  naechste_grossstadt: Siegen, 43 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Leun/Braunfels  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 29,6 %, CDU 27,3 %, SPD 16,7 %, GRÜNE 8,6 %, Die Linke 6,2 %; Wahlbeteiligung 81 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Solms):
+ID: 232-solms/001
+ENTITÄT: ort
+BEZEICHNUNG: Solms
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Zusammenfluss von Lahn und Solmsbach, Hintertaunus und Ausläufer des Westerwaldes
+  historische_region: Grafschaft und später Fürstentum Solms-Braunfels
+  stadtteile: Albshausen, Burgsolms, Oberndorf, Niederbiel, Oberbiel
+  anzahl_stadtteile: 5
+  besiedlung_seit: Vorgeschichte (Grabungsfunde)
+  siedlungskontinuitaet: erhalten über Zeiten
+GUELTIG_AB: 788
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 232-solms/002
+ENTITÄT: ort
+BEZEICHNUNG: Solms
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 13986
+  genauigkeit: "ca."
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 232-solms/003
+ENTITÄT: ort
+BEZEICHNUNG: Solms
+QUELLE: https://www.solms.de/artikel/2025/oktober/historischer-tag-in-solms-burgsolmserin-katharina-didlapp-als-erste-frau-und-parteiunabhaengige-buergermeisterin-vereidigt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_stadt: true
+  beschaeftigte_verwaltung_infrastruktur: 278
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 232-solms/004
+ENTITÄT: stadtrechtsverleihung
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Solms
+  datum: 11. April 1978
+  vergebende_stelle: Hessisches Innenministerium
+  amtsinhaber: Ekkehard Gries
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 232-solms/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Burgsolms
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/burgsolms/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 788
+  genauigkeit_erwaehnung: "umstritten"
+  superlativ: größter Stadtteil Solms
+  fruehe_besiedlung: La-Tène-Zeit
+  gruen_als: Sitz der Edlen von Solms (um 1100)
+GUELTIG_AB: 788
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 232-solms/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberbiel
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/oberbiel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2694
+  genauigkeit: "Einwohnerstatistik vom 31.12.2013"
+  erste_erwaehnung: 802
+  lage: Bieler Mark
+GUELTIG_BIS: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 232-solms/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberndorf
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/oberndorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 788
+  genauigkeit: "umstritten, vermutlich ist Oberndorf gemeint (Mutterkirche)"
+  historische_namen: Solmesso (1128), Superior Sulmisse / Obersolms (um 1300)
+GUELTIG_AB: 788
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Albshausen
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/albshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 800
+  historischer_name: Alboldeshusen (802 im Lorscher Codex)
+  lage: Wanendorfer Mark, Gebiet um die Lahn zwischen Wetzlar und Solms
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Niederbiel
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/niederbiel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 802
+  lage: Bieler Mark
+  fruehe_kirchliche_zugehoerigkeit: Filiale von Oberbiel
+  getrennte_erwaehnung: 14. Jahrhundert
+GUELTIG_AB: 802
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/010
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Altenberg
+ORTSTEIL_BEZUG: Oberbiel
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  orden: Prämonstratenser
+  gruendung_zeitraum: 1164-1179
+  schutz: Reich
+  bluetephase_unter: selige Gertrud (Tochter der Hl. Elisabeth)
+  eigenstaendigkeit_bis: 1802
+  eigenstaendigkeit_grund: Uebereignung an Haus Solms-Braunfels als Entschaedigung fuer verlorene linksrheinische Gebiete
+GUELTIG_AB: 1164
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 232-solms/011
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Altenberg
+ORTSTEIL_BEZUG: Oberbiel
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/oberbiel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  saekularsiation: 1803
+  grund_saekularsiation: Entschaedigung für verlorene Besitztümer in Elsaß-Lothringen
+  entschaedigung_empfaenger: Fürsten zu Solms-Braunfels
+  heutige_nutzung: Klosterkirche von evangelischer Kirchengemeinde Oberbiel genutzt
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 232-solms/012
+ENTITÄT: burg
+BEZEICHNUNG: Burg Solms
+ORTSTEIL_BEZUG: Burgsolms
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Stammsitz der Grafen von Solms
+  belagerung: 1384
+  belagerender: Rheinisch-Schwäbischer Städtebund
+  belagerungsgrund: Fehden um Grafschaft Solms zwischen Reichsstadt Wetzlar, Grafen von Nassau, Landgraf von Hessen, Erzbischof von Mainz
+  zerstoerung: 1384
+  zerstoerungsgrund: Belagerung
+  bergfried: ja
+  bergfried_abbruch: 1953
+GUELTIG_AB: ca. 1100
+GUELTIG_BIS: 1384
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 232-solms/013
+ENTITÄT: burg
+BEZEICHNUNG: Burg Solms
+ORTSTEIL_BEZUG: Burgsolms
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/burgsolms/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Wasserburg
+  belagerung: 1384
+  belagerender: Wetterauer Städtebund (auf Betreiben der Reichsstadt Wetzlar)
+  flucht_herr: Graf Johann von Solms-Burgsolms (nach Burg Greifenstein)
+  zerstoerung: 1384, nicht wieder aufgebaut
+  bergfried_name: Storchenmauer
+  bergfried_hoehe: 14 Meter
+  bergfried_abtrag: 1952-1954
+  grund_abtrag: wiederkehrende Steinschläge
+  namensursprung: Stadtteilname geht auf Burg zurück
+GUELTIG_AB: ca. 1100
+GUELTIG_BIS: 1384
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 232-solms/014
+ENTITÄT: huette
+BEZEICHNUNG: Georgshütte
+ORTSTEIL_BEZUG: Burgsolms
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Fürstenhaus Solms-Braunfels
+  erbueginn: ab 1873
+  groesse: zu den größten Anlagen ihrer Art in der Region
+  eigentuemer_ab: 1884
+  eigentuemer_name: Firma Buderus
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/015
+ENTITÄT: fabrik
+BEZEICHNUNG: Landmaschinenfabrik Hollmann
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueherer_standort: Oberndorfer Hütte
+  teilung: 1898
+  neuer_standort: Burgsolms
+  heutige_nutzung: Industrie- und Heimatmuseum Solms
+GUELTIG_AB: ca. 1800er
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 232-solms/016
+ENTITÄT: fabrik
+BEZEICHNUNG: Drahtzieherei Herwig / Präzisionskugellagerfirma Kling
+ORTSTEIL_BEZUG: Oberbiel
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Lahninsel in Oberbiel
+  urspung: Drahtzieherei Herwig
+  umbenennung: 1939
+  neuer_name: Präzisionskugellagerfirma Kling
+  erweiterung_produktion: nach 1945 auch Büromaschinen
+  schließung: 1978
+GUELTIG_AB: ca. 1800er
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/017
+ENTITÄT: grube
+BEZEICHNUNG: Grube Fortuna
+ORTSTEIL_BEZUG: Oberbiel
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/oberbiel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rohstoff: Eisenerz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 232-solms/018
+ENTITÄT: huette
+BEZEICHNUNG: Oberndorfer Hütte
+ORTSTEIL_BEZUG: Oberndorf
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/oberndorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1666
+  gruender: Graf Heinrich Trajektin von Solms-Braunfels
+  funktion: Verhüttung von Eisenerz aus umliegenden Gruben
+  aufgegeben: 1859
+  heutige_nutzung: Gewerbegebiet
+GUELTIG_AB: 1666
+GUELTIG_BIS: 1859
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 232-solms/019
+ENTITÄT: bahn
+BEZEICHNUNG: Lahntalbahn
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/burgsolms/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: Koblenz–Gießen
+  haltestellen: Burgsolmser Bahnhof, Albshäuser Bahnhof
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 232-solms/020
+ENTITÄT: infrastruktur_event
+BEZEICHNUNG: Schiffbarmachung der Lahn
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1847
+  effekt: beschleunigte Entwicklung des Eisenbergbaus und der Industrie
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/021
+ENTITÄT: infrastruktur_event
+BEZEICHNUNG: Bau der Eisenbahnstrecke durch das Lahntal
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1964-1968
+  effekt: beschleunigte Entwicklung des Eisenbergbaus und der Industrie
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 232-solms/022
+ENTITÄT: infrastruktur_event
+BEZEICHNUNG: Bau der Landstraße von Burgsolms nach Wetzlar
+ORTSTEIL_BEZUG: Albshausen
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/albshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1781
+  effekt: beeinflusste Entwicklung von Albshausen
+GUELTIG_AB: 1781
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/023
+ENTITÄT: infrastruktur_event
+BEZEICHNUNG: Eröffnung der Lahntalbahn
+ORTSTEIL_BEZUG: Albshausen
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/albshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1863
+  effekt: markierte nördliche Bebauungsgrenze, Bahnhof war Umschlagplatz für Rohstoffe
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/024
+ENTITÄT: ereignis
+BEZEICHNUNG: Verwüstung durch Französische Revolution
+ORTSTEIL_BEZUG: Niederbiel
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/niederbiel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1796
+  beschreibung: Ortskern stark verwüstet durch Truppen der Französischen Revolution
+GUELTIG_AB: 1796
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/025
+ENTITÄT: ereignis
+BEZEICHNUNG: Zustrom von Flüchtlingen und Heimatvertriebenen
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1945-1947
+  auswirkung: Veränderung der Bevölkerungsstruktur nachhaltig und positiv
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1947
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/026
+ENTITÄT: gemeindevereinigung
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Gemeinde Bielhausen (Albshausen + Oberbiel) und Gemeinde Solms (Burgsolms + Oberndorf) schließen sich zusammen
+  datum: 1. Juli 1971
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/027
+ENTITÄT: gemeindevereinigung
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Gemeinde Bielhausen, Niederbiel und Solms vereinigen sich zur neuen Gemeinde Solms
+  datum: 1. Januar 1977
+  grund: hessische Gebietsreform auf Grundlage eines Landesgesetzes
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 232-solms/028
+ENTITÄT: person
+BEZEICHNUNG: Katharina Didlapp
+QUELLE: https://www.solms.de/artikel/2025/oktober/historischer-tag-in-solms-burgsolmserin-katharina-didlapp-als-erste-frau-und-parteiunabhaengige-buergermeisterin-vereidigt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: 44
+  funktion: Bürgermeisterin der Stadt Solms
+  partei: parteiunabhängig
+  superlativ: erste Frau als Bürgermeisterin Solms
+  superlativ2: erste parteiunabhängige Bürgermeisterin Solms
+  wahl_datum: 24. August 2025
+  wahl_ergebnis: 51.29 Prozent
+  gegenkandidaten: Gerhard Lambeck (FWG)
+  amtseid: ca. 1. Woche Oktober 2025 (Dienstagabend vor 8. Oktober 2025)
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 232-solms/029
+ENTITÄT: person
+BEZEICHNUNG: Frank Inderthal
+QUELLE: https://www.solms.de/artikel/2025/oktober/historischer-tag-in-solms-burgsolmserin-katharina-didlapp-als-erste-frau-und-parteiunabhaengige-buergermeisterin-vereidigt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fruehere_funktion: Bürgermeister der Stadt Solms
+  neue_funktion: Ehrenbürgermeister
+  ernennung_datum: 8. Oktober 2025
+  ernennung_art: einstimmig
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 232-solms/030
+ENTITÄT: person
+BEZEICHNUNG: Frank Inderthal
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtprojekte/burgsolms-aktiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_damals: Bürgermeister der Stadt Solms
+  initiative: Gruendung Arbeitsgruppe "Ab in die Mitte" (November 2010)
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/031
+ENTITÄT: person
+BEZEICHNUNG: Marquard von Solms
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: erster aus dem Geschlecht der edelfreien Herren von Solms, tritt in historisches Rampenlicht
+  ersten_urkundlichen_auftreten: 1129
+GUELTIG_AB: 1129
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/032
+ENTITÄT: person
+BEZEICHNUNG: Johann von Solms-Burgsolms
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/burgsolms/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Graf
+  ereignis: floh 1384 zur Burg Greifenstein bei Belagerung von Burg Solms
+GUELTIG_AB: 1384
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/033
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Trajektin von Solms-Braunfels
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/oberndorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Graf
+  aktion: Gruendung der Oberndorfer Hütte 1666
+GUELTIG_AB: 1666
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/034
+ENTITÄT: person
+BEZEICHNUNG: Randolf
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Schenkung einer Kirche über dem Flusse Solmissa mit weiterem Besitz an Reichskloster Lorsch
+  aktion_ziel: Stadtteile Burgsolms und Oberndorf (bzw. Oberndorf als Mutterkirche)
+GUELTIG_AB: 788
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 232-solms/035
+ENTITÄT: person
+BEZEICHNUNG: Gertrud
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: selige
+  herkunft: Tochter der Hl. Elisabeth
+  rolle: Bluetezeit des Klosters Altenberg unter ihrem Einfluss
+GUELTIG_AB: ca. 1164-1179
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 232-solms/036
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Industrie- und Heimatmuseum Solms
+ORTSTEIL_BEZUG: Burgsolms
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ehemaliges Fabrikgebäude der Landmaschinenfabrik Hollmann
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/037
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Frei- und Hallenbad Solmser Land
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/burgsolms/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standorte: Burgsolms, Albshausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/038
+ENTITÄT: verein
+BEZEICHNUNG: BURGSOLMS AKTIV
+ORTSTEIL_BEZUG: Burgsolms
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtprojekte/burgsolms-aktiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger: Arbeitsgruppe "Ab in die Mitte"
+  gruendung_vorgaenger: November 2010
+  initiator_vorgaenger: Frank Inderthal (damaliger Bürgermeister)
+  ziel: Attraktivität und Aufenthaltsqualität der Burgsolmser Innenstadt
+  beispielveranstaltungen: Grillmeisterschaft, Brückenlauf, Kirmes "Wej froiher", Federweißerfest, Lesungen im Leerstand, Tanznachmittage
+  ergebnis: denkmalgeschützte Gesamtanlage mit Einzeldenkmälern in Lindenstraße und angrenzenden Straßen
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 232-solms/039
+ENTITÄT: geopunkt
+BEZEICHNUNG: STEIN-STARKES ERLEBNIS SOLMS
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/burgsolms/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Zeit-Steine
+  anzahl: 2
+  standort: Burgsolms
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 232-solms/040
+ENTITÄT: geopunkt
+BEZEICHNUNG: STEIN-STARKES ERLEBNIS SOLMS
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/oberbiel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Zeit-Stein
+  standort: Oberbiel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 232-solms/041
+ENTITÄT: geopunkt
+BEZEICHNUNG: STEIN-STARKES ERLEBNIS SOLMS
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/albshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Zeit-Stein
+  standort: Albshausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 232-solms/042
+ENTITÄT: geopunkt
+BEZEICHNUNG: STEIN-STARKES ERLEBNIS SOLMS
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/oberndorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Zeit-Stein
+  standort: Oberndorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 232-solms/043
+ENTITÄT: geopunkt
+BEZEICHNUNG: STEIN-STARKES ERLEBNIS SOLMS
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtteile/niederbiel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Geopunkt
+  standort: Niederbiel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 232-solms/044
+ENTITÄT: quelle
+BEZEICHNUNG: Lorscher Codex
+QUELLE: https://www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Urkundliches Quellenwerk mit Erwähnungen von Schenkungen an Reichskloster Lorsch (788, 800, 802)
+  enthalt_erwaehnung: Kirche am Flusse Solmissa, Albshausen, Bieler Mark
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+

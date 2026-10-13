@@ -1,0 +1,288 @@
+ZIELORT: Leun (Stadt)
+LAGE: 43 km südöstlich von Siegen (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Leun
+
+GRUNDDATEN:
+  landkreis: Lahn-Dill-Kreis  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 5712  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 28,66  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 199  [berechnet aus Einwohner und Fläche]
+  kfz: WZ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 155 | 159  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2878351)]
+  naechste_grossstadt: Siegen, 43 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 52 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Leun/Braunfels  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 35638  [Wikidata P281]
+  vorwahl: 06473  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 29,6 %, CDU 27,3 %, SPD 16,7 %, GRÜNE 8,6 %, Die Linke 6,2 %; Wahlbeteiligung 81 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Alexander Schneider — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Rastenberg, Feytiat  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Löhnberg (Gemeinde)
+  landkreis: Limburg-Weilburg  [dewiki Infobox]
+  einwohner: 4686  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 33,84  [Wikidata P2046]
+  kfz: WEL (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 145 | 147  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2876194)]
+  naechste_grossstadt: Siegen, 43 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Löhnberg  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 24,2 %, AfD 23,7 %, SPD 22,2 %, GRÜNE 8,4 %, Die Linke 7 %; Wahlbeteiligung 80,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Leun):
+ID: 231-leun/001
+ENTITÄT: ort
+BEZEICHNUNG: Leun
+QUELLE: https://www.leun.de/rathaus-politik/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 771
+  lage: an alter Handelsstraße, Lahn-Tal
+  charakterisierung: mittelalterlich geprägt, denkmalgeschützt
+  marktrechte_verleihung_zeitpunkt: ca. Ende 15. Jahrhundert
+  bruecke_lahn: steinerne Brücke, lange Zeit einzige zwischen Wetzlar und Weilburg
+  stadtrechte_verleihung: 1664
+  stadtrechte_verleihender: Graf von Solms
+  stadtrechte_erneuerung: 1954
+  zusammenschluss_zu_stadt_leun: 31.12.1971
+  stadtteile: Leun (inkl. Lahnbahnhof), Biskirchen, Bissenberg, Stockhausen
+  merkmale: Bürgerhäuser aus 17. Jahrhundert, Teile der Stadtbefestigung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 231-leun/002
+ENTITÄT: stadtteil
+BEZEICHNUNG: Leun (incl. Leun-Lahnbahnhof)
+ORTSTEIL_BEZUG: Leun
+QUELLE: https://www.leun.de/rathaus-politik/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 2743
+  einwohnerzahl_stand: 30.06.2022
+  flaeche_ha: 1182.42
+  wasserharte_dh: zwischen 6.0 und 6.6
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 231-leun/003
+ENTITÄT: stadtteil_teil
+BEZEICHNUNG: Leun-Lahnbahnhof
+ORTSTEIL_BEZUG: Leun
+QUELLE: https://www.leun.de/rathaus-politik/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnhofsbezeichnung: Leun - Braunfels
+  lage: Talsenke, umgeben von Östlichen Hintertaunus an drei Seiten, Ende des Isertals
+  entstehung_datierung: ca. 1432
+  brueckenverbindung_zu_leun: bis 2. Weltkrieg vorhanden, 1980er Jahre Fußgängerbrücke errichtet
+  eisenbahnbau: 1863 Lahntal-Eisenbahn
+  funktion: Verladeort für Eisenerze aus Lahn-Dill-Gebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 231-leun/004
+ENTITÄT: stadtteil
+BEZEICHNUNG: Biskirchen
+ORTSTEIL_BEZUG: Biskirchen
+QUELLE: https://www.leun.de/rathaus-politik/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1569
+  einwohnerzahl_stand: 30.06.2022
+  flaeche_ha: 638.22
+  wasserharte_dh: zwischen 6.0 und 6.6
+  lage: Mündung des Ulmbaches in die Lahn
+  erste_urkundliche_erwaehnung: 1245
+  namensherkunft: ursprünglicher Name Bischofskirchen, benannt nach Konradiner-Bischof Rudolf von Würzburg
+  bischof_rudolf_zeitraum: 892-908
+  bischof_rudolf_beziehung: Bruder König Konrads I.
+  kirche_aenderung: 1871 Neubau am oberen Ortsausgang
+  heilquellen: kohlesäurehaltigen Heil- und Mineralquellen
+  gertrudisbrunnen_erwaehnung: 1650
+  karlssprudel_inbetriebnahme: 1896
+  erholungsort_anerkennung: 1968
+  wettbewerb_unser_dorf_soll_schoener_werden: 1963 Bundessieger mit Goldplakette
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 231-leun/005
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stockhausen
+ORTSTEIL_BEZUG: Stockhausen
+QUELLE: https://www.leun.de/rathaus-politik/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 979
+  einwohnerzahl_stand: 30.06.2022
+  flaeche_ha: 719.56
+  wasserharte_dh: zwischen 6.0 und 6.6
+  lage: entlang Lahn, Grundbachtal, L-förmig
+  ursprung_zeitraum: 400-800 n.Chr. (fränkische Landnahme)
+  erste_urkundliche_erwaehnung: 1245
+  funktion_historisch: Verladeort für Eisenerze aus Lindenbach-Tal und Grube Prinz Berhardt
+  bahnstation: 1863
+  lindenbachbahn: 1884
+  ulmtalbahn: 1921
+  ortsbild: mittelalterliche Reihendorf-Entwicklung
+  kapelle_zerstoerung: um 1600, zerstört im 30jährigen Krieg
+  kreuzkapelle: Ersatz für zerstörte Kapelle
+  verwaltungssitz_seit: 1972 Mittelpunkt der Stadt Leun
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 231-leun/006
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bissenberg
+ORTSTEIL_BEZUG: Bissenberg
+QUELLE: https://www.leun.de/rathaus-politik/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 733
+  einwohnerzahl_stand: 30.06.2022
+  flaeche_ha: 326.22
+  wasserharte_dh: zwischen 6.0 und 6.6
+  lage_verhaeltnis: 70 m höher als Biskirchen, oberhalb des Ulmtals
+  groesse: kleinster Stadtteil Leuns
+  ursprung: wahrscheinlich mittelalterliche klösterliche Niederlassung
+  kirche_bauzeit: romanische Zeit
+  kirche_konfession: evangelisch
+  kirche_umgestaltung: 1723 heutige Form
+  kirche_funktion: Wahrzeichen des Ortes
+  zerstoerungen: erhebliche Zerstörungen im 30jährigen Krieg
+  erste_urkundliche_erwaehnung: 1313 als Bissynberg
+  namensherkunft: anfangs Bischofsberg, wahrscheinlich Folge zu enger Siedlung in Biskirchen
+  galgenberg: vermutlich Richtstätte des Centgerichts Olmena
+  waldschmiede: Mittelalter, Solmser Grafen
+  bedeutung_heute: Fremdenverkehr, Wanderwegenetz-Ausgangspunkt
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 231-leun/007
+ENTITÄT: verein
+BEZEICHNUNG: Verein für Heimatgeschichte Leun e.V.
+ORTSTEIL_BEZUG: Leun
+QUELLE: https://www.leun.de/strukturierte-daten/organisationen/vereine/gemeldete-vereine/verein-fuer-heimatgeschichte-leun-e-v/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kategorie: Natur + Kultur
+  ansprechpartner: Karl-Günter Süß
+  telefon: 06473/9225202
+  email: k-g-suess@t-online.de
+  adresse: Limburger Straße 21 A, 35638 Leun
+  funktion_museum: Sammlungsverwaltung Stadtmuseum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 231-leun/008
+ENTITÄT: verein
+BEZEICHNUNG: Ortsgeschichte Stockhausen an der Lahn e.V.
+ORTSTEIL_BEZUG: Stockhausen
+QUELLE: https://www.leun.de/strukturierte-daten/organisationen/vereine/gemeldete-vereine/ortsgeschichte-stockhausen-an-der-lahn-e-v/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kategorie: Natur + Kultur
+  ansprechpartner: Mario Zutt
+  telefon: 06473/411895
+  email: mzutt@gmx.net
+  adresse: Bahnhofstraße 31, 35638 Leun-Stockhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 231-leun/009
+ENTITÄT: verein
+BEZEICHNUNG: Biber-Club-Verein für Hessische-Nordamerikanische Geschichte e.V.
+ORTSTEIL_BEZUG: Leun
+QUELLE: https://www.leun.de/strukturierte-daten/organisationen/vereine/gemeldete-vereine/biber-club-verein-fuer-hessische-nordamerikanische-geschichte-e-v/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kategorie: sonstiges
+  ansprechpartner: Günter Wigand
+  telefon: 0177-2405057
+  email: gwlupo56@t-online.de
+  adresse: Hüttenstraße 20, 35638 Leun
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 231-leun/010
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum
+ORTSTEIL_BEZUG: Leun
+QUELLE: https://www.leun.de/freizeit-kultur/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1984
+  ausstellungsflaeche_m2: 500
+  schwerpunkte: Wohn- und Arbeitswelt der letzten 200 Jahre, Bergbau, Handwerk, Land- und Forstwirtschaft
+  sammlungen: Spielzeugausstellung, 50er-Jahre-Zimmer, Hufschmiede, landwirtschaftliche Maschinen
+  originalurkunde: Stadtrechtsverleihung 1664
+  traeger: Stadt Leun
+  sammlungen_verwaltung: Verein für Heimatgeschichte Leun e.V. (ehrenamtlich)
+  oeffnungszeiten_regelmaessig: jeden 1. Sonntag im Monat 14-17 Uhr
+  sondergruppen: nach Absprache möglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 231-leun/011
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Leun / Tiefenbach
+ORTSTEIL_BEZUG: Leun
+QUELLE: https://www.leun.de/freizeit-kultur/kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarramt_adresse: Pfarrgasse 11, 35638 Leun
+  telefon: 06473/1250
+  fax: 06473/411374
+  email: leun@ekir.de, tiefenbach@ekir.de
+  website: http://evangelische-kirchengemeinde-leun.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 231-leun/012
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Biskirchen
+ORTSTEIL_BEZUG: Biskirchen
+QUELLE: https://www.leun.de/freizeit-kultur/kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrerin: Cornelia Heynen-Rust
+  adresse: Bissenberger Straße 6, 35638 Leun
+  telefon: 06473/3652
+  fax: 06473/3652
+  website: http://biskirchen.ekir.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 231-leun/013
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde Leun (Pfarrei St. Anna)
+ORTSTEIL_BEZUG: Leun
+QUELLE: https://www.leun.de/freizeit-kultur/kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrei_name: St. Anna
+  adresse: Adalbert-Stifter-Straße 2, 35638 Leun
+  telefon: 06442/9535323
+  fax: 06442/9535319
+  emails: st.anna@braunfels.bistumlimburg.de, M.Menge@braunfels.bistumlimburg.de, A.Ferincevic@braunfels.bistumlimburg.de
+  website: www.st-anna-braunfels.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 231-leun/014
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Feuerwehr Biskirchen
+ORTSTEIL_BEZUG: Biskirchen
+QUELLE: https://www.leun.de/rathaus-politik/feuerwehren/feuerwehr-biskirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  personal_aktive: mehr als 30
+  fahrzeuge: Hilfeleistungslöschfahrzeug HLF 20/16, Löschgruppenfahrzeug LF 10 KatS, Einsatzleitwagen ELW1
+  aufnahmevoraussetzung_erwachsene: ab 18 Jahren
+  jugendfeuerwehr_ab: 10 Jahren
+  minifeuerwehr_ab: 6 Jahren
+  adresse: Schulstraße 14-16, 35638 Leun-Biskirchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+

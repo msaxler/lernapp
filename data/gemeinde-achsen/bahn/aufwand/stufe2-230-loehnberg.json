@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "230-loehnberg",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 13551,
+ "token_ein": 509044,
+ "token_aus": 8151,
+ "usage": {
+  "input_tokens": 32,
+  "cache_creation_input_tokens": 34417,
+  "cache_read_input_tokens": 474595,
+  "output_tokens": 8151,
+  "output_tokens_details": {
+   "thinking_tokens": 3081
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 34417,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3650,
+    "cache_read_input_tokens": 40095,
+    "cache_creation_input_tokens": 1224,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1224
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.8288950000000002,
+ "sekunden": 180,
+ "fehler": false,
+ "zeit": "2026-10-13T09:46:26"
+}

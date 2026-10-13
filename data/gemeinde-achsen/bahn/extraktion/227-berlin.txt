@@ -1,0 +1,446 @@
+ENTITÄT: ort
+BEZEICHNUNG: Berlin
+QUELLE: https://www.berlin.de/wir-ueber-uns/8100503-4219174-erklaerung-zur-barrierefreiheit.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_landeshauptstadt: true
+  webauftritt_barrierefrei: teilweise
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: BerlinOnline GmbH
+QUELLE: https://www.berlin.de/wir-ueber-uns/8100503-4219174-erklaerung-zur-barrierefreiheit.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: zuständige Stelle für Webauftritt Berlin
+  kontaktperson: Robert Neukum
+  kontakt_email: info@berlinonline.de
+  kontakt_telefon: 030 5771180-20
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Humboldt Forum
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Stadtschloss
+  charakter: kulturelles Stadtquartier und modernes Museum
+  thema: Dialog zwischen Kunst und Wissenschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Topographie des Terrors
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Dokumentationsstätte
+  thema: NS-Verbrechen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Gedenkstätte Berliner Mauer
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Geschichte Berlins vom Bau bis zum Fall der Mauer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum für Naturkunde
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: eine der ältesten musealen Einrichtungen in Berlin
+  geschichtlicher_ursprung: Geschichte geht vor die Gründung der Berliner Universität im Jahre 1810 zurück
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Technikmuseum
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 28500
+  flaeche_einheit: m²
+  thema: Beziehungen zwischen Mensch und Technik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Futurium
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  untertitel: Haus der Zukünfte
+  thema: Zukunftsgestaltung in Berlin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Jüdisches Museum Berlin
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2001
+  bedeutung: herausragende Institution in der europäischen Museumslandschaft
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Neue Nationalgalerie
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlung: europäische Malerei und Plastik des 20. Jahrhunderts von der klassischen Moderne bis zur Kunst der 60er Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: DDR Museum
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Leben in der DDR
+  beschreibung: Trabi, FDJ, Plattenbau und Co.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Berlin Story Bunker
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: 800 Jahre Geschichte Berlins
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Brandenburger Tor
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: Symbol der deutschen Einheit
+  superlativ: gehört zu Berlins wichtigsten Sehenswürdigkeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Checkpoint Charlie
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: ehemaliger Grenzübergang
+  standort: Friedrichstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Alexanderplatz
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: einer der lebendigsten Plätze Berlins
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: mahnmal
+BEZEICHNUNG: Holocaust-Mahnmal
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  widmung: erinnert an die von den Nationalsozialisten ermordeten Juden Europas
+  zusatzanlage: unterirdisch gelegener "Ort der Information"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fernsehturm Berlin
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: höchstes Bauwerk in Deutschland
+  charakter: markantestes Wahrzeichen Berlins
+  standort: Alexanderplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Siegessäule
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: goldene Skulptur auf der Spitze
+  aussichtsplattform: ja
+  panorama: Tiergarten und Umgebung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Reichstag
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Sitz des deutschen Bundestages
+  merkmal: gläserne Kuppel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: East Side Gallery
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Überrest der Berliner Mauer
+  superlativ: längste Open-Air-Galerie der Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Potsdamer Platz
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubebauung_nach: Wiedervereinigung
+  charakter: Ensemble aus Hochhäusern und futuristischen Neubauten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museumskomplex
+BEZEICHNUNG: Museumsinsel
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: einer der herausragenden Museumskomplexe Europas
+  weltkulturerbe: UNESCO-Weltkulturerbe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Berliner Dom
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: markante Gestaltungsmerkmale
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Stadtschloss Berlin
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wiederaufbau: ja
+  gestaltung: alte Fassade mit neuem Nutzungskonzept
+  nutzung: Humboldt Forum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeudekomplex
+BEZEICHNUNG: Hackesche Höfe und Hackescher Markt
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: historisches Gebäudeensemble
+  angebot: Geschäfte, Kultur und Nachtleben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: boulevard
+BEZEICHNUNG: Kurfürstendamm
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Westen der Stadt
+  charakter: weltberühmter Boulevard, Bummelmeile, architektonisch und kulturell interessant
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: zoo
+BEZEICHNUNG: Zoo Berlin
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: ältester Zoo Deutschlands
+  beschreibung: einer der artenreichsten Zoos der Welt
+  tradition: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Teufelsberg
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Grunewald
+  funktion: Trümmerberg, Aussichtspunkt, Monument der Geschichte
+  besonderheit: verfallene US-amerikanische Abhörstation auf dem Gipfel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Charlottenburg
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größte Schlossanlage Berlins
+  besonderheit: mehrmals umgebaut und erweitert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kaiser-Wilhelm-Gedächtniskirche
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  merkmal: Turmruine
+  symbolik: Zeichen gegen den Krieg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: garten
+BEZEICHNUNG: Botanischer Garten
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Berlin-Steglitz
+  superlativ: einer der größten und artenreichsten botanischen Gärten der Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rotes Rathaus
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Sitz der Regierenden Bürgermeisterin/des Bürgermeisters und des Senats
+  namenherkunft: Name ist unpolitisch gemeint
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Tiergarten
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: grünes Herz Berlins
+  lage_zwischen: Brandenburger Tor und Zoo
+  funktion: Raum für Erholung, Sport und Freizeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bundeskanzleramt
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Büro der Bundeskanzlerin/des Bundeskanzlers
+  lage: Regierungsviertel
+  charakter: modernes Gebäude
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Mauerpark
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: ehemaliger Mauerstreifen
+  lage_zwischen: Prenzlauer Berg und Wedding
+  aktivitaeten: Flohmarkt, Grillen, Karaoke an Wochenenden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: uhr
+BEZEICHNUNG: Weltzeituhr
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  installation: DDR-Zeiten
+  standort: Alexanderplatz
+  nutzung: beliebter Treffpunkt
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gartenanlage
+BEZEICHNUNG: Gärten der Welt
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Erholungspark Marzahn
+  themengaerten: 9
+  beschreibung: Gartenkultur aus der ganzen Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: insel
+BEZEICHNUNG: Pfaueninsel
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Havel
+  charakter: verwunschenes Werk der Romantik
+  erreichbarkeit: Fähre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: synagoge
+BEZEICHNUNG: Neue Synagoge
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Oranienburger Straße
+  superlativ: war einst die größte und bedeutendste Synagoge Deutschlands
+  erhaltung: Reste erhalten
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

@@ -1,0 +1,531 @@
+ID: 229-weilburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Weilburg
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 906
+  name_erste_erwähnung: Wilineburg
+  lage_fluss: an der Lahn
+  lage_region: zwischen Taunus und Westerwald, Bundesland Hessen, Landkreis Limburg-Weilburg
+  koordinaten_länge: 8° 16' östlich
+  koordinaten_breite: 50° 29' nördlich
+  höhe_kernstadt: 165 m über NN
+  höhe_niedrigster_punkt: 125.9 m über NN (Lahn, Stadtteil Kirschhofen)
+  höhe_höchster_punkt: 370.1 m über NN (Hohenstein, Stadtteil Hasselbach)
+  topografie_ursprung: fast ganz von der Lahn umflossener Bergkegel
+  befestigung_grund: alte Fernverkehrsstraße über die Lahn
+  status_residenzstadt_ab: 1535
+  status_residenzstadt_bis: 1816
+  status_kreisstadt_ab: 1866
+  status_kreisstadt_bis: 1974
+  charakterisierung: barocke Residenzstadt
+  funktion_schulstadt: true
+  status_luftkurort: true
+GUELTIG_AB: 906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 229-weilburg/002
+ENTITÄT: person
+BEZEICHNUNG: Herzog Konrad der Ältere von Franken
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Beisetzung in Weilburg
+  anlass_erwähnung: Anlaß der ersten Erwähnung "Wilineburg" 906
+GUELTIG_AB: 906
+GUELTIG_BIS: 906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 229-weilburg/003
+ENTITÄT: person
+BEZEICHNUNG: König Konrad I.
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: König des Deutschen Reiches
+  beziehung_zu_ort: Gründer des Walpurgisstifts zum Gedächtnis an seinen Vater
+  ereignis_bedeutung: Weilburger Testament 918
+  ereignis_inhalt: Übergabe der Kroninsignien an Sachsenherzog Heinrich den Vogler
+  beschreibung_charakter: zerbrochen an dem Versuch, die auseinanderstrebenden Stämme des Reiches wieder zu einigen
+GUELTIG_AB: 911
+GUELTIG_BIS: 918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/004
+ENTITÄT: person
+BEZEICHNUNG: Graf Adolf von Nassau
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_waehlung: Wahl zum deutschen König durch Kurfürsten
+  aktion_erwerb_herrschaft: Kauf der Herrschaft Weilburg
+  aktion_erwerb_jahr: 1294
+  aktion_stadtrecht: Verleihung des berühmten Freibriefs mit Stadtrecht
+  aktion_stadtrecht_jahr: 1295
+  aktion_rechte_inhalt: Bürgern Weilburgs gleiche Rechte wie Frankfurtern zugesichert
+GUELTIG_AB: 1294
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/005
+ENTITÄT: dokument
+BEZEICHNUNG: Weilburger Freibrief
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aussteller: Graf Adolf von Nassau
+  ausstellung_jahr: 1295
+  inhalt: Stadtrecht für Weilburg
+  besonderheit_herkunft: Frankfurter Boten beschrieben mündlich ihre Stadtrechte, da Frankfurt selbst keine schriftlichen Aufzeichnungen besaß
+  ruhm_grund: Frankfurter beschafften sich später ihre eigenen Stadtrechte in Weilburg ab
+  aufbewahrung: älteste Aufzeichnung der Frankfurter Stadtrechte wird noch heute in Weilburg verwahrt
+GUELTIG_AB: 1295
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/006
+ENTITÄT: kapelle
+BEZEICHNUNG: Heilig-Grab-Kapelle
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1505
+  funktion_original: Nachbildung der Heiligen Stätten in Jerusalem
+  anlass_bau: Erinnerung an Pilgerfahrt des Grafen Johann Ludwig Nassau von Saarbrücken
+  funktion_zeit: Passionsstätte bis zur Einführung der Reformation
+GUELTIG_AB: 1505
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/007
+ENTITÄT: ort
+BEZEICHNUNG: Kalvarienberg
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: auf dem alten Friedhof, außerhalb des alten Stadtkerns
+  besonderheit: spätgotische Kreuzigungsgruppe
+  anlass_errichtung: Erinnerung an Pilgerfahrt des Grafen Johann Ludwig Nassau von Saarbrücken
+  funktion_zeit: Passionsstätte bis zur Einführung der Reformation
+  zusammenhang: zusammen mit Heilig-Grab-Kapelle als Nachbildung der Heiligen Stätten in Jerusalem
+GUELTIG_AB: 1505
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/008
+ENTITÄT: burg
+BEZEICHNUNG: Konradinerburg
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Befestigungsanlage des Konradinerkastells
+  grundung_vermutung: nach römischem Beispiel errichtetes fränkisches Kastell
+  grundung_ab: 906
+  bauliche_reste: nur das Fundament des heutigen Schlosses erhalten
+  abriss: abgerissen durch Graf Philipp III. um 1535
+GUELTIG_AB: 906
+GUELTIG_BIS: 1535
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/009
+ENTITÄT: stift
+BEZEICHNUNG: Walpurgisstift
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: König Konrad I.
+  gruendung_grund: zum Gedächtnis an seinen Vater Herzog Konrad der Ältere
+  gruendung_jahr: 911
+  typ: Chorherrenstift
+  besonderheit: später wurde eine Schule angegliedert
+GUELTIG_AB: 911
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/010
+ENTITÄT: schloss
+BEZEICHNUNG: Hochschloss Weilburg
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauherr: Graf Philipp III.
+  baubeginn: 1535
+  architekturstil: nordische Renaissance
+  bauform: vierflügeliges Schloss
+  besonderheit_hof: malerischer Schloßhof, bis heute fast unverändert erhalten
+  vorgaenger: Abriss der alten Konradinerburg durch Bauherr
+GUELTIG_AB: 1535
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/011
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Weilburg (Baden bei Wien)
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Baden bei Wien, Österreich
+  erbauer: Erzherzog Karl von Österreich
+  errichtung_grund: Erinnerung an die Heimat seiner Ehefrau Prinzessin Henriette von Nassau-Weilburg
+  zerstoerung: 1945
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 229-weilburg/012
+ENTITÄT: person
+BEZEICHNUNG: Prinzessin Henriette von Nassau-Weilburg
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heirat_partner: Erzherzog Karl von Österreich
+  heirat_jahr: 1815
+  partner_titel: "Löwe von Aspern", Enkel Kaiserin Maria Theresias
+  kulturleistung: Einführung des mit Kerzen geschmückten Weihnachtsbaums in Wien (nach Überlieferung)
+GUELTIG_AB: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 229-weilburg/013
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schiffstunnel Lahn
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchbohrung: Weilburger Bergrücken
+  anlass: Kanalisierung der Lahn von der Mündung bis Weilburg
+  initiator: Herzog Adolf
+  baujahr: 1847
+  status_betrieb: heute noch in Betrieb
+  seltenheit: europäische Rarität, nur an der Rhone gibt es eine Parallele
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/014
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Lahntal-Eisenbahn
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1862
+  besonderheit_kosten: damals teuerste Bahnstrecke Deutschlands
+  bedeutung: Anschluß Weilburgs an das europäische Schienennetz
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 229-weilburg/015
+ENTITÄT: schule
+BEZEICHNUNG: Chorherren-Stiftschule
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_belege_ab: 1231
+GUELTIG_AB: 1231
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 229-weilburg/016
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Philippinum
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_form: unabhängige lateinische Freischule
+  gruendung_ab: 1540
+  entwicklung: später Gymnasium
+  ruf_paedagogen: ausgezeichnete Pädagogen
+  besonderheit_funktion: lange Zeit einzige Anstalt Nassaus, die Universitätsreife vermittelte
+  notabler_schueler: Heinrich von Gagern (Präsident der deutschen Nationalversammlung von 1848)
+GUELTIG_AB: 1540
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/017
+ENTITÄT: person
+BEZEICHNUNG: Heinrich von Gagern
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Präsident der deutschen Nationalversammlung
+  position_jahr: 1848
+  bildungsort: Schüler des Gymnasium Philippinum
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/018
+ENTITÄT: ereignis
+BEZEICHNUNG: Großbrand
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 18.10.1972
+  schaedigung: "Bürgerhaus 'Alte Reitschule', Teile des Schlosses, Heimat- und Bergbaumuseum, Privathäuser in der Innenstadt"
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/019
+ENTITÄT: person
+BEZEICHNUNG: Graf Johann Ernst
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaftszeit: 1683-1719
+  baumeister: Rothweil
+  umgestaltung: umfassende bauliche Neugestaltung Weilburgs
+  charakterisierung_erfolg: Umwandlung Weilburgs zur "barocken Residenzstadt"
+  bauwerke: Schloßkirche, Schloßgarten, Orangerien, Altes Rathaus, Marktplatz mit Neptunbrunnen, angrenzende Bürgerhäuser, Lindenalleen, Ausbau Windhofs zu Jagdschloss
+GUELTIG_AB: 1683
+GUELTIG_BIS: 1719
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 229-weilburg/020
+ENTITÄT: brunnen
+BEZEICHNUNG: Neptunbrunnen
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marktplatz
+  erbauer: Graf Johann Ernst
+  errichtung_zeit: 1683-1719
+  architekturstil: Barock
+GUELTIG_AB: 1683
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Graf Johann Ernst
+  errichtung_zeit: 1683-1719
+  architekturstil: Barock
+GUELTIG_AB: 1683
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/022
+ENTITÄT: garten
+BEZEICHNUNG: Schloßgarten
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Graf Johann Ernst
+  errichtung_zeit: 1683-1719
+  architekturstil: Barock
+GUELTIG_AB: 1683
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/023
+ENTITÄT: gebaeude
+BEZEICHNUNG: Orangerien
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Graf Johann Ernst
+  errichtung_zeit: 1683-1719
+  architekturstil: Barock
+  vorbild: fast originalgetreue Nachbildung des Grand Trianon in Versailles
+GUELTIG_AB: 1683
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 229-weilburg/024
+ENTITÄT: kirche
+BEZEICHNUNG: Schloßkirche
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Graf Johann Ernst
+  errichtung_zeit: 1683-1719
+  architekturstil: Barock
+GUELTIG_AB: 1683
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/025
+ENTITÄT: allee
+BEZEICHNUNG: Lindenalleen
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: vor den Toren der Stadt
+  erbauer: Graf Johann Ernst
+  errichtung_zeit: 1683-1719
+  breite: "breite Lindenalleen"
+GUELTIG_AB: 1683
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 229-weilburg/026
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ahausen
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 30.12.1970
+  einwohnerzahl_30_06_2026: 680
+  fluchtlingsquote_1966: 26 Prozent
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/027
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bermbach
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 30.12.1970
+  einwohnerzahl_30_06_2026: 347
+  fluchtlingsquote_1966: 19 Prozent
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/028
+ENTITÄT: ortsteil
+BEZEICHNUNG: Drommershausen
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 30.12.1970
+  einwohnerzahl_30_06_2026: 532
+  fluchtlingsquote_1966: 15 Prozent
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/029
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gaudernbach
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 30.12.1970
+  einwohnerzahl_30_06_2026: 809
+  fluchtlingsquote_1966: 28 Prozent
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/030
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hasselbach
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 30.12.1970
+  einwohnerzahl_30_06_2026: 408
+  fluchtlingsquote_1966: 21 Prozent
+  topografie_hoechster_punkt: Hohenstein 370.1 m über NN
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/031
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hirschhausen
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 30.12.1970
+  einwohnerzahl_30_06_2026: 688
+  fluchtlingsquote_1966: 23 Prozent
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/032
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kirschhofen
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 30.12.1970
+  einwohnerzahl_30_06_2026: 632
+  fluchtlingsquote_1966: 23 Prozent
+  topografie_niedrigster_punkt: Lahn 125.9 m über NN
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/033
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kubach
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1.7.1974
+  einwohnerzahl_30_06_2026: 1591
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/034
+ENTITÄT: ortsteil
+BEZEICHNUNG: Odersbach
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 30.12.1970
+  einwohnerzahl_30_06_2026: 970
+  fluchtlingsquote_1966: 18 Prozent
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/035
+ENTITÄT: ortsteil
+BEZEICHNUNG: Waldhausen
+QUELLE: https://www.weilburg.de/mein-weilburg/zahlen-fakten/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 30.12.1970
+  einwohnerzahl_30_06_2026: 1437
+  fluchtlingsquote_1966: 16 Prozent
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/036
+ENTITÄT: verein
+BEZEICHNUNG: Weltladen Regenbogen Weilburg e.V.
+QUELLE: https://www.weilburg.de/mein-weilburg/fairtrade-stadt-weilburg/geschichte-des-fairtrade-in-weilburg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 15.1.1996
+  standort_eins_adresse: Mauerstraße 10 a
+  standort_eins_eroeffnung: 9.3.1996
+  standort_zwei_adresse: Mauerstraße 9
+  standort_zwei_eroeffnung: 2.3.2018
+  mitglieder_aktuell: 82
+  geschaeftsfuehrung: Elke Rehwald-Stahl, Andrea Schlothauer
+  ehrenamtliche: 22
+  umsatz_charakterisierung: über Bundesdurchschnitt für Fairtrade-Produkte
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/037
+ENTITÄT: zertifizierung
+BEZEICHNUNG: Fairtrade-Stadt Weilburg
+QUELLE: https://www.weilburg.de/mein-weilburg/fairtrade-stadt-weilburg/geschichte-des-fairtrade-in-weilburg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bewerbungsbeschluss: 30.8.2012
+  verleihung: 24.5.2013
+  rang_deutschland_verleihung: 152. in Deutschland
+  rang_deutschland_aktuell: über 700 in Deutschland
+  erneuerungen: 2015, 2018, 2021
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/038
+ENTITÄT: bewegung
+BEZEICHNUNG: Fairer Handel in Weilburg
+QUELLE: https://www.weilburg.de/mein-weilburg/fairtrade-stadt-weilburg/geschichte-des-fairtrade-in-weilburg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  start: 1984
+  start_initiator: Pfarrer Albert Keller
+  start_format: monatlicher Verkauf von Fairtrade-Produkten auf der Kirchentreppe nach Sonntagsgottesdienst
+  entwicklung_1: wöchentliche Verkäufe im Pfarrzentrum
+  entwicklung_2: 1995 Idee eines Weltladens
+  entwicklung_3: 1996 Gründung Weltladen Regenbogen
+  charakterisierung: "regelrechte Bewegung für den Fairen Handel"
+  umsatz_charakterisierung: Umsatzzahlen über dem Bundesdurchschnitt
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 229-weilburg/039
+ENTITÄT: person
+BEZEICHNUNG: Pfarrer Albert Keller
+QUELLE: https://www.weilburg.de/mein-weilburg/fairtrade-stadt-weilburg/geschichte-des-fairtrade-in-weilburg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  initiator: Initiative Fairer Handel in Weilburg
+  initiative_jahr: 1984
+  initiative_start: Verkauf von Fairtrade-Produkten auf Kirchentreppe nach Sonntagsgottesdienst
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88

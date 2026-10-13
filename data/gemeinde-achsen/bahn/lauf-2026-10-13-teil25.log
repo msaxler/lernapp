@@ -1,0 +1,64 @@
+Orte: 225-stendal 226-rathenow 227-berlin 228-runkel 229-weilburg 230-loehnberg 231-leun 232-solms 233-wetzlar 234-lahnau
+== Extraktion (Haiku) 09:20:11
+225-stendal          extraktion ein  34050  aus  18316   0.15 USD   132 s  claude-haiku-4-5-20251001
+226-rathenow         extraktion ein  26302  aus  23097   0.15 USD   178 s  claude-haiku-4-5-20251001
+227-berlin           extraktion ein  21951  aus   6366   0.06 USD    46 s  claude-haiku-4-5-20251001
+228-runkel           extraktion ein  38108  aus  16104   0.14 USD   139 s  claude-haiku-4-5-20251001
+229-weilburg         extraktion ein  32292  aus  20068   0.15 USD   148 s  claude-haiku-4-5-20251001
+230-loehnberg        extraktion ein  22726  aus   4277   0.05 USD    36 s  claude-haiku-4-5-20251001
+231-leun             extraktion ein  24153  aus   9297   0.08 USD    88 s  claude-haiku-4-5-20251001
+232-solms            extraktion ein  25498  aus  17404   0.12 USD   128 s  claude-haiku-4-5-20251001
+233-wetzlar          extraktion ein  62738  aus  16228   0.19 USD   155 s  claude-haiku-4-5-20251001
+234-lahnau           extraktion ein  26470  aus   9475   0.09 USD    80 s  claude-haiku-4-5-20251001
+zusammen: 11152 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+225-stendal        22226 Zeichen
+226-rathenow       28047 Zeichen
+227-berlin         18864 Zeichen
+228-runkel         37466 Zeichen
+229-weilburg       24806 Zeichen
+230-loehnberg      12214 Zeichen
+231-leun           15157 Zeichen
+232-solms          24746 Zeichen
+233-wetzlar        44783 Zeichen
+234-lahnau         20999 Zeichen
+== Karten (claude-opus-5-5) 09:25:06
+225-stendal          karten     ein  40348  aus  27822   0.83 USD   236 s  claude-opus-5-5
+226-rathenow         karten     ein  43264  aus  34596   0.98 USD   296 s  claude-opus-5-5
+227-berlin           karten     ein  37840  aus  31505   0.88 USD   272 s  claude-opus-5-5
+228-runkel           karten     ein  48901  aus  41280   1.16 USD   358 s  claude-opus-5-5
+229-weilburg         karten     ein  41322  aus  42128   1.12 USD   367 s  claude-opus-5-5
+230-loehnberg        karten     ein  33498  aus  30655   0.83 USD   269 s  claude-opus-5-5
+231-leun             karten     ein  35313  aus  32855   0.89 USD   287 s  claude-opus-5-5
+232-solms            karten     ein  41459  aus  33080   0.94 USD   287 s  claude-opus-5-5
+233-wetzlar          karten     ein  53366  aus  34983   1.07 USD   301 s  claude-opus-5-5
+234-lahnau           karten     ein  39256  aus  55290   1.37 USD   481 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 09:39:14
+225-stendal          pruefung   ein  42077  aus   5985   0.40 USD    53 s  claude-opus-5-5
+226-rathenow         pruefung   ein  59438  aus  12410   0.67 USD   108 s  claude-opus-5-5
+227-berlin           pruefung   ein  47175  aus   5584   0.44 USD    51 s  claude-opus-5-5
+228-runkel           pruefung   ein  80804  aus  11538   0.82 USD   106 s  claude-opus-5-5
+229-weilburg         pruefung   ein  64675  aus  15706   0.78 USD   141 s  claude-opus-5-5
+230-loehnberg        pruefung   ein  42522  aus   7911   0.44 USD    71 s  claude-opus-5-5
+231-leun             pruefung   ein  46101  aus   8790   0.49 USD    77 s  claude-opus-5-5
+232-solms            pruefung   ein  56413  aus  10726   0.61 USD    91 s  claude-opus-5-5
+233-wetzlar          pruefung   ein  58651  aus   8827   0.59 USD    81 s  claude-opus-5-5
+234-lahnau           pruefung   ein  56185  aus  14859   0.69 USD   130 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 09:43:26
+225-stendal          stufe2     ein 257984  aus  10616   0.95 USD   132 s  claude-opus-5-5,claude-haiku-4-5-20251001
+226-rathenow         stufe2     ein 145630  aus   3463   0.44 USD    74 s  claude-opus-5-5,claude-haiku-4-5-20251001
+227-berlin           FEHLER keine Karte an Stufe 2 – kein Lauf
+228-runkel           stufe2     ein 149521  aus   2083   0.35 USD    47 s  claude-opus-5-5,claude-haiku-4-5-20251001
+229-weilburg         stufe2     ein 236656  aus   4680   0.59 USD    86 s  claude-opus-5-5,claude-haiku-4-5-20251001
+230-loehnberg        stufe2     ein 509044  aus   8151   0.83 USD   180 s  claude-opus-5-5,claude-haiku-4-5-20251001
+231-leun             FEHLER keine Karte an Stufe 2 – kein Lauf
+232-solms            stufe2     ein 325715  aus   3879   0.49 USD    82 s  claude-opus-5-5,claude-haiku-4-5-20251001
+233-wetzlar          stufe2     ein 358798  aus  15570   1.23 USD   174 s  claude-opus-5-5,claude-haiku-4-5-20251001
+234-lahnau           stufe2     ein 289186  aus   6994   0.73 USD   108 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 09:47:35
+Urteile: {'korrigiert': 683, 'bestätigt': 1226, 'gesperrt': 49, 'unsicher': 136} | im Vorrat: 2045 Karten an 234 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     234 Orte, 2045 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 2390710 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 09:47:36

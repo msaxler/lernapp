@@ -1,0 +1,452 @@
+ZIELORT: Berlin (Stadt)
+LAGE: 2 km südwestlich von Berlin (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Berlin
+
+GRUNDDATEN:
+  bundesland: Berlin  [über die Gemeinde]
+  einwohner: 3.700.577  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 891,12  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 4153  [berechnet aus Einwohner und Fläche]
+  kfz: B (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 34 | 43 — MEHRERE WERTE  [Wikidata P2044; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2950159)]
+  naechste_grossstadt: Berlin, 2 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 1244 | 1237  [Wikidata P1249; Altbestand geschichte.json]
+  bahnhof: Auswandererbahnhof Ruhleben, Bahnhof Berlin Eberswalder Straße, Bahnhof Berlin Greifswalder Straße, Bahnhof Berlin Hohenzollerndamm, Bahnhof Berlin Schichauweg, Bahnhof Berlin-Mahlsdorf, Berlin Görlitzer Bahnhof, Berlin Hauptbahnhof Tunnel (S-Bahn), Berlin Nordbahnhof, Berlin Wriezener Bahnhof, Berlin Wuhlheide Rangierbahnhof, Berlin-Halensee Südkopf, Postbahnhof am Ostbahnhof, S-Bahnhof Biesdorf, S-Bahnhof Friedrichshagen, S-Bahnhof Halensee, S-Bahnhof Heerstraße, S-Bahnhof Hirschgarten, S-Bahnhof Messe Süd, S-Bahnhof Pankow-Heinersdorf, S-Bahnhof Pichelsberg, S-Bahnhof Poelchaustraße, U-Bahnhof Hellersdorf  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 10115–14199  [Wikidata P281]
+  vorwahl: 030  [Wikidata P473]
+  partnerstaedte: Los Angeles, Paris, Madrid, Istanbul, Warschau, Moskau, Brüssel, Budapest, Taschkent, Mexiko-Stadt, Peking, Jakarta, Tokio, Buenos Aires, Prag, Windhoek, London, Kiew, Tel Aviv-Jaffa  [Wikidata P190]
+  gewaesser: Spree, Havel  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT ersterwaehnung: Jahr der ersten Erwähnung (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT partnerstaedte: Partnerstadt (Ersatz: Einwohner je Quadratkilometer), A, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Rathenow (Stadt)
+  landkreis: Havelland  [dewiki Infobox]
+  einwohner: 24.761  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 113,1  [Wikidata P2046; Altbestand staedte.json]
+  kfz: HVL (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 29 | 31 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2850213)]
+  naechste_grossstadt: Potsdam, 54 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Rathenow, Bahnhof Rathenow Nord  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 35,1 %, CDU 18,9 %, SPD 15,4 %, Die Linke 11,7 %, BSW 10 %; Wahlbeteiligung 74,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Berlin):
+ID: 227-berlin/001
+ENTITÄT: ort
+BEZEICHNUNG: Berlin
+QUELLE: https://www.berlin.de/wir-ueber-uns/8100503-4219174-erklaerung-zur-barrierefreiheit.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_landeshauptstadt: true
+  webauftritt_barrierefrei: teilweise
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 227-berlin/002
+ENTITÄT: organisation
+BEZEICHNUNG: BerlinOnline GmbH
+QUELLE: https://www.berlin.de/wir-ueber-uns/8100503-4219174-erklaerung-zur-barrierefreiheit.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: zuständige Stelle für Webauftritt Berlin
+  kontaktperson: Robert Neukum
+  kontakt_email: info@berlinonline.de
+  kontakt_telefon: 030 5771180-20
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/003
+ENTITÄT: museum
+BEZEICHNUNG: Humboldt Forum
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Stadtschloss
+  charakter: kulturelles Stadtquartier und modernes Museum
+  thema: Dialog zwischen Kunst und Wissenschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/004
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Topographie des Terrors
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Dokumentationsstätte
+  thema: NS-Verbrechen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/005
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Gedenkstätte Berliner Mauer
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Geschichte Berlins vom Bau bis zum Fall der Mauer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/006
+ENTITÄT: museum
+BEZEICHNUNG: Museum für Naturkunde
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: eine der ältesten musealen Einrichtungen in Berlin
+  geschichtlicher_ursprung: Geschichte geht vor die Gründung der Berliner Universität im Jahre 1810 zurück
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 227-berlin/007
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Technikmuseum
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 28500
+  flaeche_einheit: m²
+  thema: Beziehungen zwischen Mensch und Technik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/008
+ENTITÄT: museum
+BEZEICHNUNG: Futurium
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  untertitel: Haus der Zukünfte
+  thema: Zukunftsgestaltung in Berlin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/009
+ENTITÄT: museum
+BEZEICHNUNG: Jüdisches Museum Berlin
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2001
+  bedeutung: herausragende Institution in der europäischen Museumslandschaft
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/010
+ENTITÄT: museum
+BEZEICHNUNG: Neue Nationalgalerie
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlung: europäische Malerei und Plastik des 20. Jahrhunderts von der klassischen Moderne bis zur Kunst der 60er Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/011
+ENTITÄT: museum
+BEZEICHNUNG: DDR Museum
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Leben in der DDR
+  beschreibung: Trabi, FDJ, Plattenbau und Co.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/012
+ENTITÄT: museum
+BEZEICHNUNG: Berlin Story Bunker
+QUELLE: https://www.berlin.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: 800 Jahre Geschichte Berlins
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/013
+ENTITÄT: bauwerk
+BEZEICHNUNG: Brandenburger Tor
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: Symbol der deutschen Einheit
+  superlativ: gehört zu Berlins wichtigsten Sehenswürdigkeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/014
+ENTITÄT: ort
+BEZEICHNUNG: Checkpoint Charlie
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: ehemaliger Grenzübergang
+  standort: Friedrichstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/015
+ENTITÄT: platz
+BEZEICHNUNG: Alexanderplatz
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: einer der lebendigsten Plätze Berlins
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 227-berlin/016
+ENTITÄT: mahnmal
+BEZEICHNUNG: Holocaust-Mahnmal
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  widmung: erinnert an die von den Nationalsozialisten ermordeten Juden Europas
+  zusatzanlage: unterirdisch gelegener "Ort der Information"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/017
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fernsehturm Berlin
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: höchstes Bauwerk in Deutschland
+  charakter: markantestes Wahrzeichen Berlins
+  standort: Alexanderplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/018
+ENTITÄT: bauwerk
+BEZEICHNUNG: Siegessäule
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: goldene Skulptur auf der Spitze
+  aussichtsplattform: ja
+  panorama: Tiergarten und Umgebung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/019
+ENTITÄT: gebaeude
+BEZEICHNUNG: Reichstag
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Sitz des deutschen Bundestages
+  merkmal: gläserne Kuppel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/020
+ENTITÄT: kunstwerk
+BEZEICHNUNG: East Side Gallery
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Überrest der Berliner Mauer
+  superlativ: längste Open-Air-Galerie der Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/021
+ENTITÄT: platz
+BEZEICHNUNG: Potsdamer Platz
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubebauung_nach: Wiedervereinigung
+  charakter: Ensemble aus Hochhäusern und futuristischen Neubauten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/022
+ENTITÄT: museumskomplex
+BEZEICHNUNG: Museumsinsel
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: einer der herausragenden Museumskomplexe Europas
+  weltkulturerbe: UNESCO-Weltkulturerbe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/023
+ENTITÄT: kirche
+BEZEICHNUNG: Berliner Dom
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: markante Gestaltungsmerkmale
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 227-berlin/024
+ENTITÄT: schloss
+BEZEICHNUNG: Stadtschloss Berlin
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wiederaufbau: ja
+  gestaltung: alte Fassade mit neuem Nutzungskonzept
+  nutzung: Humboldt Forum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/025
+ENTITÄT: gebaeudekomplex
+BEZEICHNUNG: Hackesche Höfe und Hackescher Markt
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: historisches Gebäudeensemble
+  angebot: Geschäfte, Kultur und Nachtleben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/026
+ENTITÄT: boulevard
+BEZEICHNUNG: Kurfürstendamm
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Westen der Stadt
+  charakter: weltberühmter Boulevard, Bummelmeile, architektonisch und kulturell interessant
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 227-berlin/027
+ENTITÄT: zoo
+BEZEICHNUNG: Zoo Berlin
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: ältester Zoo Deutschlands
+  beschreibung: einer der artenreichsten Zoos der Welt
+  tradition: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/028
+ENTITÄT: berg
+BEZEICHNUNG: Teufelsberg
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Grunewald
+  funktion: Trümmerberg, Aussichtspunkt, Monument der Geschichte
+  besonderheit: verfallene US-amerikanische Abhörstation auf dem Gipfel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/029
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Charlottenburg
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größte Schlossanlage Berlins
+  besonderheit: mehrmals umgebaut und erweitert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/030
+ENTITÄT: kirche
+BEZEICHNUNG: Kaiser-Wilhelm-Gedächtniskirche
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  merkmal: Turmruine
+  symbolik: Zeichen gegen den Krieg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/031
+ENTITÄT: garten
+BEZEICHNUNG: Botanischer Garten
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Berlin-Steglitz
+  superlativ: einer der größten und artenreichsten botanischen Gärten der Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/032
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rotes Rathaus
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Sitz der Regierenden Bürgermeisterin/des Bürgermeisters und des Senats
+  namenherkunft: Name ist unpolitisch gemeint
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/033
+ENTITÄT: park
+BEZEICHNUNG: Tiergarten
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: grünes Herz Berlins
+  lage_zwischen: Brandenburger Tor und Zoo
+  funktion: Raum für Erholung, Sport und Freizeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/034
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bundeskanzleramt
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Büro der Bundeskanzlerin/des Bundeskanzlers
+  lage: Regierungsviertel
+  charakter: modernes Gebäude
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/035
+ENTITÄT: park
+BEZEICHNUNG: Mauerpark
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: ehemaliger Mauerstreifen
+  lage_zwischen: Prenzlauer Berg und Wedding
+  aktivitaeten: Flohmarkt, Grillen, Karaoke an Wochenenden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/036
+ENTITÄT: uhr
+BEZEICHNUNG: Weltzeituhr
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  installation: DDR-Zeiten
+  standort: Alexanderplatz
+  nutzung: beliebter Treffpunkt
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/037
+ENTITÄT: gartenanlage
+BEZEICHNUNG: Gärten der Welt
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Erholungspark Marzahn
+  themengaerten: 9
+  beschreibung: Gartenkultur aus der ganzen Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/038
+ENTITÄT: insel
+BEZEICHNUNG: Pfaueninsel
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Havel
+  charakter: verwunschenes Werk der Romantik
+  erreichbarkeit: Fähre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 227-berlin/039
+ENTITÄT: synagoge
+BEZEICHNUNG: Neue Synagoge
+QUELLE: https://www.berlin.de/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Oranienburger Straße
+  superlativ: war einst die größte und bedeutendste Synagoge Deutschlands
+  erhaltung: Reste erhalten
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

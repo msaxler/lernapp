@@ -1,0 +1,806 @@
+ENTITÄT: ort
+BEZEICHNUNG: Runkel
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_urkundliche_erwaehnung: 1159
+  lage: Lahntal, halbwegs zwischen Koblenz und Gießen
+  lage_grenzregion: natürliche Grenze zwischen Taunus und Westerwald
+  bauwerk: Burg
+  beschreibung_baustil: musterhaftes Beispiel frühmittelalterlichen Verteidigungsbaues
+GUELTIG_AB: 1159
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Runkel
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 43.72 [qkm]
+  einwohner: 9461
+  bildung_infrastruktur: Grundschule und Integrierte Gesamtschule Johann-Christian-Senckenberg-Schule
+  bahnanbindung: Lahnstrecke Gießen-Koblenz mit Anschlüssen zu Wiesbaden, Frankfurt, Köln
+  verkehr_autobahn: 7 [km] bis Autobahnanschluss Frankfurt-Köln
+  naturschutzgebiete: "Arfurter Felsen, Karlsteine von Runkel und Villmar, Wehrley von Runkel, Runkeler Laach"
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Runkel
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bildung_durch_zusammenschluss: Steeden, Ennerich, Schadeck, Arfurt, Eschenau, Hofen, Wirbelau, Dehrn
+  zusammenschluss_datum_erste_phase: 1970-12-01
+  zusammenschluss_datum_zweite_phase: 1970-12-31
+  zusammenschluss_datum_dritte_phase: 1974-07-01
+GUELTIG_AB: 1970
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Runkel
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_erwaehnung: 1159
+  gruender_vermutung: Friedrich Barbarossa (Hohenstaufen-Kaiser)
+  bauherr_moeglichkeit: Siegfried von Runkel als Sachverwalter des Reiches
+  zeitliche_erwaehnung_kontext: Siegfried von Runkel als Bürge und Zeuge für Gräfin Beatrix von Laurenburg
+  erweiterung_zeitraum: 13.–14. Jahrhundert nach Westen
+  gaengigerweise_uneinnehmbar_mittelalter: true
+  beisitz_aktuell: Familie zu Wied
+GUELTIG_AB: 1159
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Schadeck
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_erwaehnung: 1288
+  gruender: Heinrich von Runkel
+  grund_gruendung: Familienstreit mit Siegfried; von Heinrich erbaut "zum Trutz"
+  lage: gegenüber der Burg Runkel, jenseits der Lahn
+GUELTIG_AB: 1288
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bruecke
+BEZEICHNUNG: Lahnbrücke Runkel
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1440
+  fertigstellung: 1448
+  grund_verzoegerung: Streitigkeiten mit Graf Reinhard von Westerburg
+  beschreibung: eine der ältesten Brücken an der Lahn in ihrem alten Zustand erhalten
+GUELTIG_AB: 1448
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Glockenturm
+ORTSTEIL_BEZUG: Runkel
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: ehemaliger Wachturm an Ecke der Runkeler Stadtmauer
+  glockenaufhaengung_jahr: 1725
+  gehoert_zu: evangelische Kirche
+GUELTIG_AB: 1725
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: burgmannenhaus
+BEZEICHNUNG: Burgmannenhaus (Burgstraße 31)
+ORTSTEIL_BEZUG: Runkel
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/runkel-an-der-lahn/das-burgmannenhaus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  burgsitz_name: Unter Großhenne
+  belehnung_familie: Burgmänner Schütz zu Holzhausen
+  belehnung_herkunft: rheinischer Uradel, mittelrheinische Ritterschaft
+  ersterwaehnung_burgmaenner: 1254
+  erster_nachweis_burgsitz_lehnsrevers: 1424
+  gebaeude_funktion: strategische Bedeutung, Schutz von Stadttor und Brücke
+  bauweise: massiv, wehrhaft
+  umbauten_1560: erste umfangreiche bauliche Veränderungen
+  umbauten_um_1651: Anpassung an neue Zeit nach 30-jährigem Krieg; Gewölbekeller, Treppenturm, Fassadenaufwertung mit Kuppelfenstern
+  lehnsverhältnis_ende: 1717 (Erwerb durch Gräfliches Haus Wied-Runkel)
+  administrative_nutzung: 1760–1811 Verwaltung und Kanzlei-Direktoren von Wied-Runkel
+  versteigert: 1809, 1835
+  nachfolgende_besitzerschaft: privatem Besitz
+  bemerkung_rittersaal: Obergeschoss-Rittersaal später in mehrere Räume unterteilt
+GUELTIG_AB: 1254
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: fachwerkhaus
+BEZEICHNUNG: Burgstraße 30
+ORTSTEIL_BEZUG: Runkel
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/runkel-an-der-lahn/burgstrasse-30/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: frühes 18. Jahrhundert
+  bauweise: Fachwerk
+  besonderheiten: Mann-Figur, Profilbügen, Kreuzformen
+  lage: am Eingang zum Tal (enge Gassen unterhalb einer Burg)
+  nachtraeglicher_einbau: Treppenaufgang (ueberbaut)
+  fassade_19jh: verputzt (um Brandgefahr zu verringern und massiv auszusehen)
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fachwerkhaus
+BEZEICHNUNG: Burgstraße 37
+ORTSTEIL_BEZUG: Runkel
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/runkel-an-der-lahn/burgstrasse-37/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit_vermutet: vermutlich 18. Jahrhundert
+  fassadenumgestaltung: 19. Jahrhundert, Biedermeier- und Klassizismus-Stil
+  beschreibung_fassade: gerundete Freitreppe, Fensterabschlüsse im Erdgeschoss, Zahnschnittfries unterhalb Dachtraufe
+  eigentumerschaft_ab_1841: Christian Wilhelmi (Schlossermeister) und Ehefrau Juliane (geb. Kiefer)
+  vorbesitz_wilhelmi: 1835–1841 Burgstraße 18 (Schulberg), dann 6 Jahre Burgstraße 31 (Burgmannenhaus)
+  schmiede_standort: außerhalb der Stadtmauer hinter dem Wohnhaus
+  nachfolger_wilhelm_wilhelmi: Schlosser, wechselte zum Kaufmann; Kohlen, Bretter, Wolle, Schuhe, Pfeifen, Spezereien im Laden
+GUELTIG_AB: 1841
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: historisches_bauwerk
+BEZEICHNUNG: Historische Altstadt
+ORTSTEIL_BEZUG: Runkel
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristikum: Fachwerkhäuser
+  beschreibung: laden zum romantischen Spaziergang ein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: muehle
+BEZEICHNUNG: Hofener Mühle
+ORTSTEIL_BEZUG: Hofen
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: malerisch mit efeuberankten Fachwerkfassaden
+  denkmalstatus: Kulturdenkmal
+  muehlentyp: Getreidemühle
+  technische_ausstattung: vollständig erhaltene Getreidemühle, Wasserkraftwerk
+  aktuelle_nutzung: Café, Gästezimmer, Führungen
+  fuehrung_dauer: ca. 45 Minuten
+  fuehrung_inhalt: Mühlengeschichte, Mühlentechnik, Wasserkraftnutzung, Lokalgeschichte der letzten 300 Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Dehrn
+ORTSTEIL_BEZUG: Dehrn
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Dehrner Wahrzeichen, imposant wehrhaft über der Gemeinde
+  wirkung_ortsbild: prägt das Ortsbild imposant
+GUELTIG_AB: 1197
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Steeden
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/steeden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hufeisenbogen der Lahn nach Süden offen; Beginn des Limburger Beckens
+  siedlungstyp: Reihendorf
+  einwohner: ca. 1550
+  rang_einwohner: drittgrößter Stadtteil der Stadt Runkel
+  erstmalige_erwaehnung: 821
+  erwaehnung_821_kontext: Schenkung der Waltrada an Kloster St. Bonifaz (Wormsgau, Trachgau, Lahngau; Besitztümer Weil, Bernbach, Weilbach)
+  urspruengliche_erstwaehnung_bekannt: 1258 (Siegfried von Westerburg und Graf Otto von Nassau; Marquard von Steden genannt)
+  ortsname_herkunft: vom Wort "Gestade" (Ufer) abgeleitet; über "stedi–Stedin/steden" entwickelt
+  prahistorischer_boden: true
+  hoehlen_wildscheuer: 6 [m] breit, 7 [m] hoch, 18 [m] tief; Südwestöffnung; zerstört 1950er Jahre durch Kalkabbau
+  hoehlen_wildhaus: ca. 65 [m] südlich von Wildscheuer; 54 [cm] breit, 3,5 [m] hoch, 11 [m] tief; Felsspalte; zerstört 1950er Jahre durch Kalkabbau
+  wildkesselchen: Felsblock mit Vertiefung am Fuße des Wildhauses; Wasser nie versiegt
+  wild_puetz: ca. 20 Fuß tief gegenüber den Höhlen
+  wildborn: Quelle; "gar heilsam für die Augen"
+  johanneskapelle: erstmals 1290 urkundlich erwähnt; ursprünglich Besitzung des Stiftes Dietkirchen
+  johanneskapelle_geweihung: um 1140 durch Kloster St. Irminen Trier-Oeren (Benediktinerkloster)
+  johanneskapelle_baustil: romanisch
+  lage_30jaehriger_krieg: Durchmarschgebiet verschiedener Heere
+  feldlager_lage: zwischen Runkel/Schadeck, Dehrn, Ahlbach und Niedertiefenbach
+  folgen_30jaehriger_krieg: Hungersnöte, Verkauf von Ackerland an Hofener Bauern; Grund für kleine heutige Gemarkung
+  ortsecknamen: "Steedener Kuckucke" (wegen Armut nach dem Krieg)
+  bahnlinie_1: Lahntalbahn Koblenz–Gießen seit 1862 (Bahnhof Kerkerbach)
+  bahnlinie_2: Kerkerbachbahn (stillgelegt 1984) mit Stationen Kerkerbach-West und Kerkerbach-Ost
+  personenzugverkehr_kerkerbachbahn: bis 1959 in Richtung Schupbach
+  radweg: auf der Trasse in Richtung Schupbach/Hintermeilingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hofen
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/hofen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 434
+  siedlungscharakter: ursprünglicher Ortskern, geschlossenes Dorf
+  erstmalige_erwaehnung: ab 13. Jahrhundert
+  fruehe_wirtschaft: rein landwirtschaftlich geprägt
+  bahnerschliessung: Kerkerbachbahn Bahnbetrieb
+  bahnbetrieb_einstellung: 1968
+  dorferneuerung: 2002–2010
+  besonderheit_wiegehaeuschchen: Viehwaage neben dem Brunnen (ursprüngliche Form selten)
+  oberhofer_muehle: verfallen; Spuren des alten Mühlgrabens und Wehres
+  untere_hofer_muehle: in Richtung Schadeck; in bestem Zustand; Denkmalschutz; intakter Mühlgraben mit ständigem Wasserdurchfluss; Stromerzeugung mit neuer Technik
+  fauna: Rehe und Wildschweine im Wald
+  radweg_kerkerbachradweg: seit 2011 (Wandermöglichkeiten im Tal)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dehrn
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/dehrn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: ca. 2200
+  rang_einwohner: größter Stadtteil von Runkel
+  erstmalige_erwaehnung: 1197
+  beitritt_runkel: 1974-07-01
+  lage: rechtes Ufer der Lahn; Fuße des Westerwaldes; natürliche Grenze Taunus–Westerwald
+  fruehe_wirtschaft: von Landwirtschaft geprägt
+  hafen: Dehrner Hafen (Heimathafen Bootsclub Limburg)
+  historische_schifffahrt: zwischen Dehrn und Limburg Personenschifffahrt; frühe 1960er Jahre Frachtschifffahrt von Lahnmündung bis Dehrn
+  schloss_dehrn: Dehrner Wahrzeichen
+  nikolaus_kapelle: 12. Jahrhundert; saniert und restauriert; unterhalb Schloss Dehrn
+  nikolaus_kapelle_veranstaltung: alljährlich Nikolausmarkt in der Adventszeit
+  pfarrkirche_st_nikolaus: 1926 fertiggestellt; Heiligen "Sankt Nikolaus" geweiht; auf Anhöhe rechts unterhalb Schloss
+  kirchenchor: "St. Nikolaus" mit Orchesterbegleitung
+  dehrner_kirmes: 2. Wochenende im Juli; Hochamt mit Kirchenchor und Musik
+  kindergarten_st_nikolaus: bis zu 120 Kinder in fünf Gruppen
+  grundschule_dehrn: mit Anbau erweitert durch Eigenleistung der Eltern
+  brunnen_alt: Stein-Brunnen vor "Altem Rathaus" (Ecke Steingasse/Römerstraße); historisches Vieh-Tränkwasser
+  handpumpe_gusseisen: restauriert in Wilhelmstraße
+  kapelle_maria_am_weg: im Ahlbacher Weg
+  altes_wasserhaus: 1905; im Ahlbacher Weg
+  feuerwehr_vereinshaus: Freiwillige Feuerwehr im Erdgeschoss; Verwaltungsstelle Dehrn, Saal, Sitzungsraum im Obergeschoss
+  dorfplatz: schön gestaltet mit Dehrner Wappen (drei Ähren); Brunnen mit Bronze-Obelisk "Dehrner Rabe"
+  spielplatz_dehrn: auf dem Dorfplatz hinter Pavillon
+  buergerhaus_dehrn: am Festplatz an der Lahn; Heimat von "TuS 05 Dehrn"
+  festgelaende: Festwiese, Multifunktionsplatz
+  sportplatz: Rasenplatz über Lahnbrücke
+  tennisclub_dehrn: im ehemaligen Steinbruch des Reisterberges
+  dehrner_wald: Naherholungsgebiet
+  historischer_stadtrundgang: 28 Standorte mit Hinweisen zu Gebäuden und Einrichtungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Arfurt
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/arfurt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: ca. 900
+  größe: klein, aber fein
+  erstmalige_erwaehnung: 1148
+  erwaehnung_1148_kontext: Schenkung des Königshofs Villmar
+  urkundlicher_name_1148: Arenvurt
+  lage: Grenzbereich zwischen Westerwald und Taunus an der Lahn
+  geografischer_mittelpunkt: seit Mai 2024 geografischer Mittelpunkt des Landkreises Limburg-Weilburg
+  konfession: katholische Enklave inmitten mehrheitlich evangelischer Dörfer
+  brauchtum: Kirchweih-, Linden- oder Pfarrfest
+  anreise_bahn: Lahntalbahn Haltepunkt Arfurt (Strecke Gießen–Koblenz, stündlich)
+  bahnhof: denkmalgeschütztes Stationsgebäude (Fachwerk und Wellblech)
+  anreise_strasse: Kreisstraße K 464
+  bushalt: mehrmals täglich zu Limburg und Weilburg
+  wanderweg: Lahnwanderweg und Lahnhöhenweg
+  pfarrkirche_st_lambertus: 1827–1829 erbaut; erste neu errichtete Kirche des jungen Bistums Limburg
+  pfarrkirche_baustil: klassizistisch; Doppelturmfassade; Barockaltar ca. 1760 aus Marienstatt
+  himmelsfenster: am 25. Mai 2024 eingeweiht; hölzerner Bilderrahmen am Lahnwanderweg; Aussicht über Lahntal
+  kapelle: 1716 errichtet oberhalb ehemaliger Steinbruch
+  bildstöcke: zahlreiche historische
+  alter_friedhof: in den Lahnterrassen mit historischen Grabsteinen
+  kindergarten_kita: seit 1931
+  grundschule: Zweigstelle der Johann-Christian-Senckenberg-Schule Runkel
+  baeckerei: alteingesessen mit Biergarten
+  verkehr: Kreisstraße führt nicht durch Ort; wenig Verkehr
+  mehrzweckhalle: Zentrum; mit Schule, Spielplatz, Tennis- und Rasenplatz SV Arfurt
+  lambertusplatz: zentraler Treffpunkt für Veranstaltungen
+  alte_schule: Katholische öffentliche Bücherei, Kirchenchor-Übungsraum, Heimatmuseum, Jugendraum
+  freiwillige_feuerwehr: Sitz neben "Alte Schule"
+  vereine: Sportverein, Feuerwehr, Festausschuss, Kirchenchor, Tanzsportverein, Linnebachtiroler, Lambertusbrüder, Kameradschaftsverein
+  bauland: Bauplätze und Altbestand im Dorfkern; neue Baugebiete in Planung (Bereich K 464)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eschenau
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/eschenau/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 300
+  rang_einwohner: kleinster Stadtteil seit 1971
+  lage: am Fuße des Westerwaldes; zu beiden Seiten des Kerkerbaches; Kerkerbachtal
+  kernteile: kleinerer Dorfteil links, größerer rechts des Kerkerbaches
+  gemarkung_flaeche: 260 [ha]
+  gemarkung_wald: 72 [ha]
+  gemarkung_wasser: 2.5 [ha]
+  gemarkung_feld: 185.5 [ha]
+  infrastruktur_schule: 1902 erbaut; 1972 zu Dorfgemeinschaftshaus umgebaut
+  infrastruktur_backhaus: alt; Juni Backesfest, August Pizzafest
+  infrastruktur_feuerwehrhalle: 1966 erbaut
+  infrastruktur_wasserhaus: 1926 erbaut in Richtung Schupbach; speist seit 1975 Springbrunnen
+  infrastruktur_bruecke: 1894 erbaut (Steinbrücke) verbindet beide Dorfteilhälften
+  spielplatz: hinter Dorfgemeinschaftshaus
+  grillplatz: am Waldrand in Richtung Runkeler Straße
+  muehle_zu_eschenau: zur Gemarkung gehörig
+  aussiedlerhoefe: 4 Stück zur Gemarkung gehörig
+  friedhof: am Ortsrand in Richtung Niedertiefenbach
+  fischtreppe: Herbst 2003 zwischen Eschenau und Christianshütte gebaut
+  wald_wanderwege: ausgedehnt, ideal für Radfahrer, Jogger, Reiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wirbelau
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/wirbelau/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: halbwegs zwischen Weilburg und Runkel; Kreuzung Landesstraßen L 3020 und L 3452
+  erstmalige_erwaehnung: 1235
+  erwaehnung_1235_name: Wirinlouwe
+  beitritt_runkel: 1970-12-31
+  status_vorher: selbstständige Gemeinde
+  grenzgruppen: Beselich, Weilburg, Weinbach, Villmar
+  kirche_alt: romanische ehemalige Wehrkirche vor 1100
+  glockenstuehle: 1982 neue Glocken gehangen
+  schule_alt: 1699 errichtet; Türmlein mit zwei Glocken, Schlaguhr
+  schule_neu: 1952/53 an der Horstertstraße; inzwischen zu Kindergarten umgebaut
+  gemeindehalle_umbau: 1959 Umbau zu moderner Mehrzweckhalle
+  gemeindehaus_evangelisch: Dezember 1989 eingeweiht neben Glockenturm
+  feuerwehrgeraetehaus: 1984 übergeben (vor 50-jährigem Jubiläum)
+  statue_gretchen: Dezember 2001 aufgestellt; Massenkalk (Wirbelauer Marmor); Künstler Karl Winter, Limburg
+  statue_standort: Gabelung Brunnen-/Horstertstraße
+  bodenschaetze_bergbau: Eisenerz und Marmor seit vorletztem Jahrhundert bis 1960er Jahre
+  landwirtschaft_frueher: jeder Haushalt betrieb bis 2. Weltkrieg Landwirtschaft
+  strasse_lahn_gravenecker_bruecke: 1911–1913 erbaut
+  wasserleitung: 1920
+  wasserquelle_initial: Quelle an der Grenze zu Seelbach im oberen Märzgraben
+  pumpstation: 1960er Jahre errichtet im Märzgraben nahe Falkenbacher Straße (später wegen Wasserverbrauch)
+  pumpstation_georg_joseph: seit 1971 Wasserversorgung mit Villmar und Beselich aus ehemaliger Eisenerzgrube
+  abwasser_klaeranlage: 1985 unterhalb "Wirbelauer Mühle"
+  elektrizitaet: 1921
+  gasstation: 1990 nahe Wirbelauer Sportplatz
+  gasanschluss_haushalte: 1990
+  fastnacht_kappensitzungen: je 2 pro Saison
+  fastnacht_maskenbaelle: 2 pro Saison
+  fastnacht_kindersitzung: alljährlich
+  fastnacht_kindermaskenball: alljährlich
+  fastnacht_umzug: alljährlich am Fastnachtsdienstag; mehrere tausend Zuschauer; berühmt über Kreisgrenzen
+  vereinskultur: umfangreich (siehe Veranstaltungskalender www.vereine-wirbelau.de)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ennerich
+ORTSTEIL_BEZUG: Runkel
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: einziger Stadtteil vollständig links der Lahn
+  lage: südwestlicher Teil von Runkel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Runkel
+ORTSTEIL_BEZUG: Runkel
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Burgstraße 20, Runkel
+  kirchengemeinde: Evangelische Gesamtkirchengemeinde Mittleres Lahntal
+  gemeindehaus: Schadecker Straße 7a, Runkel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Mariä Heimsuchung
+ORTSTEIL_BEZUG: Runkel
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrei: Heilig Geist Goldener Grund/Lahn
+  adresse_kirche: Auf dem Kreiser 8, Runkel
+  adresse_pfarrheim: Auf dem Kreiser 8, Runkel
+  pfarrer: Jan Gerrit Engelmann
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Lambertus
+ORTSTEIL_BEZUG: Arfurt
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse_kirche: Langgasse 12, Arfurt
+  adresse_pfarrheim: Langgasse 22, Arfurt
+  pfarrei: Heilig Geist Goldener Grund/Lahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Steeden
+ORTSTEIL_BEZUG: Steeden
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Unter der Kapelle, Steeden
+  kirchengemeinde: Evangelische Gesamtkirchengemeinde Mittleres Lahntal
+  gemeindehaus: Am Löwen 1, Steeden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelisch-Lutherische Immanuel-Gemeinde Steeden
+ORTSTEIL_BEZUG: Steeden
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  adresse_gottesdienst: Steedener Hauptstraße 1, Steeden
+  pfarrer: Martin Blechschmidt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Selbstständige Evangelisch-Lutherische Kirche Zionsgemeinde Steeden
+ORTSTEIL_BEZUG: Steeden
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  adresse: Steedener Hauptstraße 47, Runkel
+  pfarrstelle: Daniel Schröder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Hofen
+ORTSTEIL_BEZUG: Hofen
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Unterdorfstraße 2, Hofen
+  kirchengemeinde: Evangelische Gesamtkirchengemeinde Mittleres Lahntal
+  raumausstattung: Gemeinderaum in der Kirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Evangelische Kapelle
+ORTSTEIL_BEZUG: Eschenau
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bergstraße, Eschenau
+  kirchengemeinde: Evangelisches Pfarramt Schupbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Wirbelau
+ORTSTEIL_BEZUG: Wirbelau
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Friedhof, Wirbelau
+  kirchengemeinde: Evangelische Gemeinde Wirbelau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Schadeck
+ORTSTEIL_BEZUG: Schadeck
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schloßstraße, Schadeck
+  kirchengemeinde: Evangelische Gesamtkirchengemeinde Mittleres Lahntal
+  gemeindehaus: Am Dallenberg 17, Schadeck
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Ennerich
+ORTSTEIL_BEZUG: Ennerich
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Limburger Straße, Ennerich
+  kirchengemeinde: Evangelische Gesamtkirchengemeinde Mittleres Lahntal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Nikolaus
+ORTSTEIL_BEZUG: Dehrn
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse_kirche: Kirchgasse 5, Dehrn
+  adresse_pfarrheim: Blankenstraße, Dehrn
+  kirchengemeinde: Katholische Kirchengemeinde "St. Nikolaus Dehrn"
+  pfarrverwalter: Gereon Reberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Nikolauskapelle
+ORTSTEIL_BEZUG: Dehrn
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/dehrn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 12. Jahrhundert
+  zustand: saniert und restauriert
+  veranstaltung_nikolausmarkt: alljährlich in Adventszeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: johanneskapelle
+BEZEICHNUNG: Johanneskapelle
+ORTSTEIL_BEZUG: Steeden
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/steeden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_erwaehnung: 1290
+  zugehoerigkeit_1290: Besitzung des Stiftes Dietkirchen
+  geweihung: um 1140 durch Kloster St. Irminen Trier-Oeren (Benediktinerkloster)
+  baustil: romanisch
+  kirchen_fenster_nordseite_chor: alte romanische Fassung
+GUELTIG_AB: 1290
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Siegfried von Runkel
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitliche_erwaehnung: 1159
+  funktion: Sachverwalter des Reiches (Vermutung)
+  rolle: Bürge und Zeuge für Gräfin Beatrix von Laurenburg bei Belehnung mit Burg Nassau
+  beziehung_zu_runkel: möglicherweise Erbauer der Burg Runkel
+GUELTIG_AB: 1159
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Heinrich von Runkel
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitliche_erwaehnung: um 1250
+  aktion: vertrieben durch Siegfried
+  reaktion: erbaute Burg Schadeck "zum Trutz"
+  grund_aktion: Familienstreitigkeiten
+GUELTIG_AB: 1250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dietrich von Runkel (der Dritte)
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitliche_erwaehnung: 1315
+  aktion_1376: Zehnten Schupbach und Aumenau in Besitz gebracht; Schloßbauten neben der Burg errichtet
+GUELTIG_AB: 1315
+GUELTIG_BIS: 1376
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Philipp Ludwig (Graf)
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: vertrieb Landesherr Graf Hermann II. aus Schloß und Herrschaft Runkel
+  grund: Familienstreit; Bruder glaubte sich bei Erbteilung benachteiligt
+  datum: 1622-09-09
+GUELTIG_AB: 1622
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Melanchthon (Luthers Freund und Helfer)
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuch: 1543 zu Gast auf Schloß Runkel
+  gastgeber: Graf Johann IV. von Wied
+  beziehung: Freund und Helfer Martin Luthers
+GUELTIG_AB: 1543
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Ludwig (Letzte des Hauses Wied-Runkel)
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: Letzte des wied- und runkelischen Hauses
+  titel_erwerb: 1791 Fürstenwürde
+  tod: 1824
+  nachfolge: Wied-Runkel fällt an die Linie Wied-Neuwied
+GUELTIG_AB: 1791
+GUELTIG_BIS: 1824
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Christian Wilhelmi (Schlossermeister)
+ORTSTEIL_BEZUG: Runkel
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/runkel-an-der-lahn/burgstrasse-37/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Schlossermeister
+  ehefrauin: Juliane, geb. Kiefer
+  uebernahme_burgstrasse_37: 1841
+  verkauf_burgstrasse_18: 1835
+  besitz_burgstrasse_31: 6 Jahre vor Übernahme von Burgstraße 37
+  schmiede_betrieb: außerhalb der Stadtmauer hinter dem Wohnhaus
+  fassadenmodernisierung_zuschreibung: Wilhelmi
+GUELTIG_AB: 1841
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Wilhelmi (Schlosser und Kaufmann)
+ORTSTEIL_BEZUG: Runkel
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/runkel-an-der-lahn/burgstrasse-37/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  familienbeziehung: Nachfahre von Christian Wilhelmi
+  ursprung_beruf: Schlosser
+  karrierewechsel: zum Kaufmann
+  ladensortiment: Kohlen, Bretter, Wolle, Schuhe, Pfeifen, Spezereien
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reformation in Runkel
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1568
+GUELTIG_AB: 1568
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Brandkatastrophe Runkel
+QUELLE: https://www.runkel-lahn.de/bildung-kultur/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1634-10-15
+  beschreibung: "Runkels schwärzester Tag im 30-jährigen Krieg"
+  akteure: Kroaten des Grafen Isolani
+  aktion: erstiegen die Mauern, legten Ort und Schloß in Asche
+  bewertung: "uraltes schönes Schloß"
+GUELTIG_AB: 1634
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geografischer_punkt
+BEZEICHNUNG: Arfurter Himmelsfenster
+ORTSTEIL_BEZUG: Arfurt
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/stadtteile/arfurt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_datum: 2024-05-25
+  anlass: 50-jähriges Kreisjubiläum Limburg-Weilburg
+  beschreibung: hölzerner Bilderrahmen
+  lage: am Lahnwanderweg
+  funktion: markiert geografischen Mittelpunkt Landkreis
+  aussicht: Blick über Lahntal; bei klaren Tagen bis zum Feldberg
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Arfurter Felsen
+ORTSTEIL_BEZUG: Arfurt
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flora_fauna: selten vorkommende Pflanzen, Farnarten, Moosflora
+  schutzstatus: Naturschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Karlsteine von Runkel und Villmar
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flora_fauna: botanische, geologische und ornithologische Besonderheiten
+  schutzstatus: Naturschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Wehrley von Runkel
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flora_fauna: botanische, geologische und ornithologische Besonderheiten
+  schutzstatus: Naturschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Runkeler Laach
+QUELLE: https://www.runkel-lahn.de/stadt-rathaus/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flora_fauna: botanische, geologische und ornithologische Besonderheiten
+  schutzstatus: Naturschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

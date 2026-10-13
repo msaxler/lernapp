@@ -1,0 +1,682 @@
+ENTITÄT: ort
+BEZEICHNUNG: Rathenow
+QUELLE: https://www.rathenow.de/leben-in-rathenow/rathenow-stellt-sich-vor/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_jahre: 800+
+  bekannt_als: Wiege der optischen Industrie in Deutschland
+  gruendung_optische_industrie: 1801
+GUELTIG_AB: 1220
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Rathenow
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_kreisstadt: true
+  ist_bundesgartenschau_stadt: true
+  ist_im_sternenpark_westhavelland: true
+  zentrum_grosster_naturpark_brandenburg: true
+  gartenschau_landesgartenschau_jahr: 2006
+  gartenschau_bundesgartenschau_jahr: 2015
+GUELTIG_AB: 1216
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Rathenow
+QUELLE: https://www.rathenow.de/wirtschaft-standort/zahlen-daten-fakten/strukturdaten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gesamtflaeche_km2: 111.7
+  flaeche_ohne_ortsteile_km2: 45.7
+  mittlere_hoehe_m: 35
+  einwohner: 25420
+  bevoelkerungsdichte_pro_km2: 227.57
+  auslaenderanteil_prozent: 13.9
+  durchschnittsalter_jahre: 47.5
+  beschaeftigte_insgesamt: 9838
+  sozialversicherungspflichtige_beschaeftigte: 8876
+  geringfuegig_beschaeftigte: 962
+  einpendler: 4511
+  auspendler: 4560
+  pendler_saldo: -49
+  betriebe_gesamt: 1430
+  gewerbeanmeldung_pro_jahr: 164
+  gewerbeabmeldung_pro_jahr: 147
+  schueler_schuljahr_2022_2023: 3326
+  gewerbesteuerhebesatz_prozent: 350
+  grundsteuer_a_prozent: 300
+  grundsteuer_b_prozent: 450
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Sankt-Marien-Andreas-Kirche
+QUELLE: https://www.rathenow.de/leben-in-rathenow/rathenow-stellt-sich-vor/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaengerbau_jahr: 1220
+  standort: Kirchberg
+GUELTIG_AB: 1220
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien-Andreas-Kirche
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung_baustoff_und_stil: Holzbauweise
+  ursprung_zeitraum: 11. Jahrhundert
+  romanische_basilika_bauzeit: 1160
+  romanische_basilika_typ: kreuzförmige Pfeilerbasilika
+  vorbild: Jerichower Klosterkirche
+  standort_beschreibung: Altstadtinsel, umschlossen von vier Armen der Havel
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: J.H.A. Duncker
+QUELLE: https://www.rathenow.de/leben-in-rathenow/rathenow-stellt-sich-vor/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Prediger
+  privileg_jahr: 1801
+  privileg_inhalt: Bau einer optischen Industrieanstalt
+GUELTIG_AB: 1801
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Havel
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: slawisches Volk Heveller, Originalname Hevel
+  namensumwandlung: im Laufe der Jahrhunderte zu Havel
+GUELTIG_AB: -1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: wappen_und_siegel
+QUELLE: https://www.rathenow.de/leben-in-rathenow/rathenow-stellt-sich-vor/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aeltestes_siegel_jahr: 1347
+  siegel_beschreibung: Burg mit zwei Zinnentürmen, dazwischen Geharnischter in gegittertem Feld
+  damaliger_stadtherr_vermutung: Markgraf von Brandenburg
+GUELTIG_AB: 1347
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: apotheke
+BEZEICHNUNG: Altstädtische Apotheke
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Steinstraße 1
+  seit_jahr: 1901
+  superlativ: älteste noch in Betrieb befindliche Apotheke der Mittelmark Brandenburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Bismarckturm
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Rathenower Weinberg
+  einweihung_datum: 24. Juni 1914
+  anlass: Ehrung Otto von Bismarck, ehemaliger Reichskanzler und Fürst
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: optisches_instrument
+BEZEICHNUNG: Rathenower Brachymedial-Fernrohr
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: weltweit größtes seiner Bauart
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Otto Haesler
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Architekt
+  wohnort_vor_auftrag: Celle
+  wohnort_seit: 1906
+  auftrag_jahr: 1928
+  auftraggeber: Rathenower Bauverein
+  projektuebersicht: 600 Wohnungen am Friedrich-Ebert-Ring
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum der Stadt Rathenow
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Förderverein Heimatmuseum der Stadt Rathenow e.V.
+  art: Dauerausstellung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Matrosenstation
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur_stil: norwegischer Stil
+  vorbild: kaiserliche Matrosenstation Kongsnaes in Potsdam
+  vorbild_bauzeit: 1892-1895
+GUELTIG_AB: 1892
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Denkmal des Großen Kurfürsten
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Sandstein
+  stil: Barock
+  superlativ: bedeutendste barocke Sandsteindenkmal Norddeutschlands
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: leuchtturm
+BEZEICHNUNG: Leuchtturm Rathenow
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: ehemaliges Molenfeuer aus Warnemünde
+  aufstellung_jahr: 2009
+  standort: vor den Toren des Optikpark Rathenow
+  superlativ: Brandenburgs höchster Leuchtturm
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Optik Industrie Museum
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestaende_gesamtanzahl: ca. 15000
+  bestaende_beschreibung: optische Instrumente, Brillen, wissenschaftliche Geräte und Maschinen
+  fachbibliothek_anzahl_publikationen: ca. 10000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Verwaltungsgebäude der Nitsche & Günther AG
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung_zeitraum: um 1912
+  material_haupteingang: sizilianischer Sandstein
+  vorbild: Berliner Prachtbauten
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Altstadtinsel
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestandteile: historischer Kern, Teile der alten Stadtmauer, Kirchberg, St. Marien-Andreas-Kirche
+  lage: umschlossen von vier Armen der Havel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hafen
+BEZEICHNUNG: Rathenower Hafen
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historische_bedeutung: In den 20er und 30er Jahren warteten Tagelöhner auf Lastkähne
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1939
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: schleuse
+BEZEICHNUNG: Rathenower Sportbootschleuse
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Am Alten Hafen
+  nachbarschaft: neben dem Denkmal des Großen Kurfürsten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schleusenwärterhäuschen
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur_stil: neugotisch
+  standort: bei Rathenower Sportbootschleuse
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: befestigung
+BEZEICHNUNG: Rathenower Stadtmauer
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  befund: Gebäudestandteil der alten Schmiede
+  zustand: Originalzustand
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Weinbergfriedhof
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: gehört zu den landschaftlich schönsten Anlagen dieser Art in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Rathenower Ziegelindustrie
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: mehrere Jahrhunderte
+  bedeutung_historisch: ja
+  einfluss: Rotes Rathaus Berlin, Holländisches Viertel Potsdam, viele Gebäude in Rathenow
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: moehle
+BEZEICHNUNG: Bockwindmühle
+ORTSTEIL_BEZUG: Bamme
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_vermutlich_jahr: 1334
+  entfernung_rathenow: ca. 6 km südöstlich
+  superlativ: eine der ältesten Bockwindmühlen des Havellandes
+GUELTIG_AB: 1334
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Bolle
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1882
+  bauherr: Carl Bolle, Milchkönig von Berlin
+  originalfunktion: Sommersitz
+GUELTIG_AB: 1882
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: tier_zuchtstaette
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tierart: Pferde
+  besonderheit: jährliche Hengstparaden
+  superlativ: eine der ältesten Pferdezuchtstätten Deutschlands
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Filmtierschule Harsch
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spezialisierung: Training von Zwei- und Vierbeinern für Filmrollen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: sagenweg
+BEZEICHNUNG: Frau Harke-Sagenpfad
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: sachen-anhaltinischer Elb-Havel-Winkel, Erholungsort Kamern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: naturschutzgebiet
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Buckow bei Nennhausen
+  art: Forschungs- und Aufzuchtstation für Großtrappen
+  tierbeschreibung: gehören zu schwersten flugfähigen Vogelarten der Erde
+  superlativ: größte europäische Forschungs- und Aufzuchtstation für Großtrappen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturpark
+BEZEICHNUNG: Naturpark Westhavelland
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: 70 km westlich von Berlin
+  charakteristik: gehört zu gewässerreichsten Regionen Deutschlands
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sternenpark
+BEZEICHNUNG: Sternenpark Westhavelland
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristik: gehört zu dunkelsten Orten in Deutschland
+  vergleich: vergleichbar mit Namibia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: flugplatz
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Gemeinde Stölln, Ländchen Rhinow
+  superlativ: ältester Flugplatz der Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: herrenhaus
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1723
+  grundform: Dreiflügelanlage
+  ueberformung_jahr: 1858
+  ueberformung_stil: klassizistisch
+GUELTIG_AB: 1723
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schloss
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1737
+  umgestaltung_jahr: ca. 1860
+  umgestaltung_stil: gotisierende Form
+GUELTIG_AB: 1737
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Spielzeug- und Kinderbuchmuseum Havelland
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Der Große Kurfürst
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_datum: 14. bis 15. Juni 1675
+  ereignis: übernachtung in Rathenow
+  ereignis_anlass: vor Angriff auf die von schwedischen Truppen besetzte Stadt
+GUELTIG_AB: 1675
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: slawendorf
+BEZEICHNUNG: Slawendorf Brandenburg
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Zeitreise ins slawische Leben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Optikpark
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besucherzahl: viele tausende
+  standort: Nebenarm der Havel in Rathenow
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bruecke
+BEZEICHNUNG: Weinbergbrücke
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_m: 348
+  verbindung: Optikpark und Weinberg
+  ueberspanntes: zwei Havelarme und Hellers Loch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Hohennauener-Ferchesarer Seengebiet
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_km: 10
+  verbindung: Havel und Witzker See
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Bienenmuseum
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fruehere_standort: Möthlow
+  neuer_standort: Karls Erlebnishof in Elstal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunsthof
+BEZEICHNUNG: Kunsthof Gräningen
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Hans Zimmermann, Künstler und Imker
+  thema: Kunst in der Imkerei
+  besonderheit: wohl weltweit einmaliges Ensemble
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Kolonistenhof Großderschau
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Geschichte der Urbarmachung des Rhinluchs und Dossebruchs unter Friedrich II.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: hof
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: Vierseitenhof
+  praegung: fränkische Prägung
+  baujahrhundert: 17. Jahrhundert
+  status: denkmalgeschützt
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Grütz
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung_stadtkern_km: ca. 10
+  entfernung_richtung: nordwestlich
+  form: Sackgassendorf
+  lage: an der Havel
+  umgebung: zwischen Landschafts- und Naturschutzgebieten
+  besonderheit: Nadelwehr an der Grützer Schleuse
+  infrastruktur_sonderheit: Nadelwehr, in Deutschland noch intakt
+  naechstes_nadelwehr_entfernung_km: ca. 12
+  naechstes_nadelwehr_lage: havelabwarts zwischen Gülpe, Garz und Strodehne
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Ländchen Rhinow
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Vogelparadies
+  besonderheit: einzigartige Natur des Elblaufes, Flusslandschaft Untere Havelniederung, Biosphärenreservat Mittelelbe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Frau Harke
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Schutzpatronin des Havellandes
+  tätigkeit: Stadtführungen in historischem Gewand
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Paulus von Rotenaw
+QUELLE: https://www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit: Stadtführungen mit mittelalterlichem Gesang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Böhne
+QUELLE: https://www.rathenow.de/leben-in-rathenow/rathenow-stellt-sich-vor/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_von_rathenow: südwestlich Richtung Genthin
+  entfernung_km: ca. 5
+  erstmalige_urkundliche_erwaehnung_jahr: 1381
+  gepraegt_durch: Eiszeit und Nacheiszeit
+GUELTIG_AB: 1381
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Göttlin
+QUELLE: https://www.rathenow.de/leben-in-rathenow/rathenow-stellt-sich-vor/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_urkundliche_erwaehnung_jahr: ca. 1381/82
+  quelle_erwaehnung: Lehnbücher der Erzbischöfe von Magdeburg
+  besiedlung_seit_vermutlich: Jungsteinzeit
+  besiedlung_zeitraum_jahr: 3000-1500 v.u.Z.
+GUELTIG_AB: 1381
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Semlin
+QUELLE: https://www.rathenow.de/leben-in-rathenow/rathenow-stellt-sich-vor/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_urkundliche_erwaehnung_jahr: 1441
+  ruf: oft Mekka des Segelsports im Westhavelland
+  charakterisierung: idyllische Landschaft
+  zielgruppe: Natur- und Wasserfreunde
+GUELTIG_AB: 1441
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Steckelsdorf
+QUELLE: https://www.rathenow.de/leben-in-rathenow/rathenow-stellt-sich-vor/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umgebung: Landschaft mit Wiesen, Wäldern und Wasser
+  entwicklung_zeitraum: letzte Jahre
+  entwicklung_zu: attraktives Wohngebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verwaltungsmassnahme
+QUELLE: https://www.rathenow.de/leben-in-rathenow/rathenow-stellt-sich-vor/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Eingemeindung von Böhne, Göttlin, Grütz, Semlin und Steckelsdorf
+  datum: 1. Januar 2002
+  status_seitdem: Ortsteile der Stadt Rathenow
+  charakterisierung_ortsbuergermeister: rührig
+  infrastruktur_v_dsl: überwiegend gut ausgebaut
+  infrastruktur_lte_5g: überwiegend gut ausgebaut
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

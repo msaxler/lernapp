@@ -43905,6 +43905,12 @@ window.QA_DATEN = {
 "180-diez": [
 "Landesgrenze: Diez liegt in Rheinland-Pfalz, Hünfelden in Hessen.",
 "Diez hat rund 1.700 Einwohner mehr als Hünfelden."
+],
+"228-runkel": [
+"Runkel und Hünfelden sind fast gleich groß: rund 9.400 und 9.700 Einwohner."
+],
+"229-weilburg": [
+"Weilburg hat rund 3.300 Einwohner mehr als Hünfelden."
 ]
 },
 "ags": "06533008",
@@ -44081,6 +44087,12 @@ window.QA_DATEN = {
 "182-heiligenroth": [
 "Landesgrenze: Heiligenroth liegt in Rheinland-Pfalz, Limburg an der Lahn in Hessen.",
 "Limburg an der Lahn hat rund 25-mal so viele Einwohner wie Heiligenroth."
+],
+"228-runkel": [
+"Limburg an der Lahn hat fast viermal so viele Einwohner wie Runkel."
+],
+"229-weilburg": [
+"Limburg an der Lahn hat gut zweieinhalbmal so viele Einwohner wie Weilburg."
 ]
 },
 "ags": "06533009",
@@ -44317,6 +44329,16 @@ window.QA_DATEN = {
 "182-heiligenroth": [
 "Landesgrenze: Heiligenroth liegt in Rheinland-Pfalz, Elz in Hessen.",
 "Elz hat fast sechsmal so viele Einwohner wie Heiligenroth."
+],
+"228-runkel": [
+"Runkel hat rund 1.300 Einwohner mehr als Elz."
+],
+"229-weilburg": [
+"Weilburg hat gut anderthalbmal so viele Einwohner wie Elz."
+],
+"230-loehnberg": [
+"Elz hat gut anderthalbmal so viele Einwohner wie Löhnberg.",
+"Löhnberg hat doppelt so viel Fläche wie Elz, aber weniger Einwohner."
 ]
 },
 "ags": "06533006",
@@ -44514,6 +44536,10 @@ window.QA_DATEN = {
 "182-heiligenroth": [
 "Kreisgrenze: Heiligenroth gehört zum Westerwaldkreis, Diez zum Rhein-Lahn-Kreis.",
 "Diez hat achtmal so viele Einwohner wie Heiligenroth."
+],
+"228-runkel": [
+"Landesgrenze: Runkel liegt in Hessen, Diez in Rheinland-Pfalz.",
+"Diez hat rund 2.000 Einwohner mehr als Runkel."
 ]
 },
 "ags": "07141029",
@@ -53239,6 +53265,2092 @@ window.QA_DATEN = {
 "ags": "15083411",
 "ortsteil": false,
 "km_vom_vorigen": 13.3
+},
+{
+"slug": "225-stendal",
+"name": "Stendal",
+"lat": 52.6,
+"lon": 11.85,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stendal",
+"steckbrief": "Rund 38.000 Einwohner, 54 km nördlich von Magdeburg.",
+"frage": "Nördlich von Stendal begann 1974 der Bau eines Kernkraftwerks. Was wurde aus dem Kraftwerk?",
+"optionen": [
+"Es lieferte jahrzehntelang Strom für die DDR.",
+"Es wurde nie in Betrieb genommen.",
+"Es lieferte nach der Wende noch Strom.",
+"Es lief nur kurz im Probebetrieb."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein so großes Bauprojekt, denkt man, ging auch ans Netz. Doch 1990 verfügte die Treuhand den Baustopp, als der erste Block erst zu drei Vierteln fertig war. Ab 1992 wurde die Anlage größtenteils abgerissen, heute steht dort ein Industriepark. Richtig war 2.",
+"quelle": "Volksstimme, volksstimme.de",
+"faktencheck": "korrigiert",
+"id": "225-stendal/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stendal",
+"steckbrief": "Rund 38.000 Einwohner, 54 km nördlich von Magdeburg.",
+"frage": "Wie viele Einwohner leben in Stendal im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 75",
+"75 bis unter 125",
+"125 bis unter 250",
+"250 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt dieser Größe erwartet man dichte Bebauung. Doch Stendals Stadtgebiet ist mit knapp 270 Quadratkilometern weitläufig. So kommen auf einen Quadratkilometer nur 141 Einwohner. Richtig war 3.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "225-stendal/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Stendal",
+"steckbrief": "Hansestadt mit rund 38.000 Einwohnern, 54 km nördlich von Magdeburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In Stendal fuhr einst eine Pferdebahn.",
+"Stendal besaß einst eine eigene Münzstätte.",
+"Stendals Händler besaßen nie eigene Seeschiffe."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Stendal liegt weit von der Küste, da wirkt Seehandel abwegig. Doch eine Stendaler Seefahrergilde handelte mit eigenen Schiffen im Ost- und Nordseeraum. Pferdebahn und Münzstätte gab es wirklich. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stendal",
+"faktencheck": "unsicher",
+"id": "225-stendal/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stendal",
+"steckbrief": "Rund 38.000 Einwohner, 54 km nördlich von Magdeburg.",
+"frage": "Bei der Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Stendal?",
+"optionen": [
+"unter 37 %",
+"37 bis unter 41 %",
+"41 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die AfD schnitt 2025 im Osten vielerorts besonders stark ab, da schätzt man leicht zu hoch. In Stendal holte sie 36 Prozent der Zweitstimmen, fast doppelt so viel wie die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "225-stendal/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Um 1160 gründete Albrecht der Bär in Stendal einen Markt. Nach welchem Recht sollten die Stendaler laut seiner Urkunde leben? 1. Nach Lübecker Recht. 2. Nach Magdeburger Recht. 3. Nach Soester Recht. 4. Nach Freiburger Recht. RÜCKSEITE: Du hattest [Option] getippt. Lübecker Recht liegt nahe, weil es im Norden weit verbreitet war. Doch Albrecht der Bär erlaubte den Stendalern, nach demselben Recht zu leben wie die Bürger Magdeburgs. Ob die Urkunde echt ist, ist allerdings umstritten. Richtig war 2.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Lübecker Recht liegt nahe, weil es im Norden weit verbreitet war. Doch Albrecht der Bär, Markgraf von Brandenburg, gründete den Markt und verlieh Stendal das Magdeburger Stadtrecht. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stendal",
+"faktencheck": "korrigiert",
+"id": "225-stendal/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Stendal",
+"steckbrief": "Rund 38.000 Einwohner, 54 km nördlich von Magdeburg.",
+"frage": "In welchem Landkreis liegt die Stadt Stendal?",
+"optionen": [
+"Altmarkkreis Salzwedel",
+"Landkreis Börde",
+"Landkreis Stendal",
+"Landkreis Jerichower Land"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Altmarkkreis Salzwedel klingt nach der Region nördlich von Magdeburg und wirkt naheliegend. Doch Stendal gehört zum gleichnamigen Landkreis Stendal. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "225-stendal/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Der Boxer Max Schmeling wurde 1940 in Stendal militärisch ausgebildet. Wozu? (Optionen unverändert, ohne „dort“ → „Er wurde zum … ausgebildet.“) RÜCKSEITE: Du hattest [Option] getippt. Bei Stendal denkt man an den Flugplatz und an Piloten. Doch Schmeling wurde 1940 zur Wehrmacht eingezogen und zum Fallschirmjäger ausgebildet; 1941 sprang er über Kreta ab. Richtig war 4.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Auf einem Flugplatz denkt man zuerst an Piloten. Doch in Borstel bestand eine Fallschirmschule, die Fallschirmjäger ausbildete, und Max Schmeling gehörte zu ihren Absolventen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stendal",
+"faktencheck": "korrigiert",
+"id": "225-stendal/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stendal",
+"steckbrief": "Rund 38.000 Einwohner, 54 km nördlich von Magdeburg.",
+"frage": "Was verbindet Stendals französische Partnerstadt Grenoble mit dem Namen Stendal?",
+"optionen": [
+"Dort wurde der Schriftsteller Stendhal geboren.",
+"Dort steht eine Kopie des Stendaler Rolands.",
+"Ein Stadtteil von Grenoble heißt ebenfalls Stendal.",
+"Stendaler Kaufleute haben Grenoble einst gegründet."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein gleichnamiger Stadtteil klingt nach der einfachsten Erklärung. Doch die Verbindung ist ein Schriftsteller: In Grenoble wurde Marie-Henri Beyle geboren, bekannt unter dem Pseudonym Stendhal. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stendal",
+"faktencheck": "bestätigt",
+"id": "225-stendal/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stendal",
+"steckbrief": "Rund 38.000 Einwohner, 54 km nördlich von Magdeburg.",
+"frage": "Das St.-Katharinen-Kloster in Stendal hat einst Kurfürst Friedrich II. gegründet. Was ist heute in den Gebäuden?",
+"optionen": [
+"Heute ist darin die Stadtbibliothek Stendal.",
+"Heute ist darin das Winckelmann-Museum.",
+"Heute sind darin Musikforum und Altmärkisches Museum.",
+"Heute ist darin das Stendaler Rathaus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein altes Kloster als Bibliothek oder Rathaus liegt nahe. Doch das Katharinenkloster, 1456 von Kurfürst Friedrich II. für Benediktinerinnen gegründet, beherbergt heute die Konzerthalle Musikforum und das Altmärkische Museum. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stendal",
+"faktencheck": "korrigiert",
+"id": "225-stendal/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "224-oebisfelde",
+"anschluss": [
+"Stendal hat fast dreimal so viele Einwohner wie Oebisfelde-Weferlingen.",
+"Wahlbeteiligung 2025: Oebisfelde-Weferlingen 81,6 Prozent, Stendal 74,1 Prozent."
+],
+"anschluesse": {
+"224-oebisfelde": [
+"Stendal hat fast dreimal so viele Einwohner wie Oebisfelde-Weferlingen.",
+"Wahlbeteiligung 2025: Oebisfelde-Weferlingen 81,6 Prozent, Stendal 74,1 Prozent."
+]
+},
+"ags": "15090535",
+"ortsteil": false,
+"km_vom_vorigen": 61.5
+},
+{
+"slug": "226-rathenow",
+"name": "Rathenow",
+"lat": 52.6,
+"lon": 12.33333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rathenow",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam.",
+"frage": "Rathenow ist als Wiege der optischen Industrie bekannt. Wer erhielt 1801 das Privileg, eine optische Industrieanstalt zu bauen?",
+"optionen": [
+"Ein Prediger bekam das Privileg.",
+"Ein Offizier bekam das Privileg.",
+"Ein Apotheker bekam das Privileg.",
+"Ein Glashüttenbesitzer bekam das Privileg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Glashüttenbesitzer läge nahe, denn ohne Glas gibt es keine Linsen. Doch das Privileg erhielt ein Geistlicher: der Prediger J.H.A. Duncker. Damit begann in Rathenow die optische Industrie. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.rathenow.de/leben-in-rathenow/rathenow-stellt-sich-vor/geschichte/",
+"faktencheck": "bestätigt",
+"id": "226-rathenow/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rathenow",
+"steckbrief": "Kreisstadt 54 km nordwestlich von Potsdam.",
+"frage": "Wie viele Menschen leben in Rathenow?",
+"optionen": [
+"unter 12.000",
+"12.000 bis unter 28.000",
+"28.000 bis unter 45.000",
+"45.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Kreisstadt mit Industriegeschichte wirkt oft größer, als sie ist. Rathenow zählt 24.761 Einwohner, Stand Ende 2025. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "226-rathenow/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rathenow",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Altstadtinsel wird von Armen der Elbe umschlossen.",
+"Die Weinbergbrücke verbindet den Optikpark mit dem Weinberg.",
+"Der Bismarckturm von Rathenow steht auf dem Weinberg."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Elbe klingt glaubhaft, denn sie ist in der Gegend nicht fern. Doch die Altstadtinsel mit dem Kirchberg ist von Armen der Havel umschlossen. Brücke und Bismarckturm stimmen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/",
+"faktencheck": "bestätigt",
+"id": "226-rathenow/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Rathenow",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Welche Partei wurde in Rathenow zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"Die Linke",
+"CDU"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, denn Brandenburg galt lange als ihr Stammland. Doch hinter der AfD mit 35,1 Prozent folgte die CDU mit 18,9 Prozent, vor der SPD mit 15,4 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "226-rathenow/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rathenow",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam.",
+"frage": "Rathenow liegt fern der Küste und hat doch einen Leuchtturm. Woher stammt er?",
+"optionen": [
+"Er stand früher als Molenfeuer in Warnemünde.",
+"Er war früher Wasserturm einer Rathenower Fabrik.",
+"Er wurde als Aussichtsturm für den Optikpark gebaut.",
+"Er leitete früher Schiffe auf der Havel."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Turm für die Havelschiffer läge nahe, schließlich liegt Rathenow an der Havel. Doch der Leuchtturm ist ein ehemaliges Molenfeuer aus Warnemünde, also ein Leuchtfeuer an einer Hafenmole. Heute steht er vor den Toren des Optikparks. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/",
+"faktencheck": "bestätigt",
+"id": "226-rathenow/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Rathenow",
+"steckbrief": "Kreisstadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam.",
+"frage": "Welches Hauptkennzeichen hat der Landkreis, in dem Rathenow liegt?",
+"optionen": [
+"PM",
+"HVL",
+"SDL",
+"OPR"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. PM klingt nach Potsdam, der nächsten Großstadt. Doch Rathenow gehört zum Landkreis Havelland, dessen Hauptkennzeichen HVL ist. Richtig war 2.",
+"quelle": "Wikidata P395; Landkreis: dewiki Infobox",
+"faktencheck": "korrigiert",
+"id": "226-rathenow/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rathenow",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam.",
+"frage": "Das Verwaltungsgebäude der Nitsche & Günther AG entstand um 1912. Woher stammte der Sandstein seines Haupteingangs?",
+"optionen": [
+"Der Stein kam aus dem Elbsandsteingebirge.",
+"Der Stein kam aus Steinbrüchen am Main.",
+"Der Stein kam aus Sizilien.",
+"Der Stein kam aus Schlesien."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Elbsandsteingebirge läge nahe, sein Name verspricht ja Sandstein. Doch den Haupteingang hatte man in Anlehnung an Berliner Prachtbauten aus sizilianischem Sandstein gestaltet. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/",
+"faktencheck": "korrigiert",
+"id": "226-rathenow/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rathenow / Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam. / Die St. Marien-Andreas-Kirche wurde als romanische Basilika errichtet. Welche Kirche gilt als ihr Vorbild? / 1. Vorbild war der Dom in Havelberg. / 2. Vorbild war der Dom in Magdeburg. / 3. Vorbild war der Dom in Brandenburg. / 4. Vorbild war die Klosterkirche in Jerichow.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein großer Dom läge als Vorbild nahe. Doch als Vorbild der kreuzförmigen Pfeilerbasilika gilt die Jerichower Klosterkirche. Ihre Ursprünge sollen auf eine Holzkirche zurückgehen. Richtig war 4. (31 Wörter)",
+"quelle": "Gemeinde-Webseite, www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/",
+"faktencheck": "korrigiert",
+"id": "226-rathenow/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rathenow",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam.",
+"frage": "1928 bekam der Architekt Otto Haesler aus Celle einen Auftrag in Rathenow. Worum ging es?",
+"optionen": [
+"Er sollte das Rathaus neu planen.",
+"Er sollte zahlreiche neue Wohnungen planen.",
+"Er sollte den Bahnhof neu gestalten.",
+"Er sollte eine Fabrik für Brillen entwerfen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Rathaus läge nahe, denn Städte holten sich für Rathäuser gern namhafte Architekten. Doch Auftraggeber war der Rathenower Bauverein, und Haesler plante Wohnungen am Friedrich-Ebert-Ring. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/",
+"faktencheck": "bestätigt",
+"id": "226-rathenow/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rathenow",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam.",
+"frage": "Im Juni 1675 griff der Große Kurfürst das besetzte Rathenow an. Wer hielt die Stadt besetzt?",
+"optionen": [
+"Truppen aus Schweden hielten die Stadt besetzt.",
+"Truppen aus Frankreich hielten die Stadt besetzt.",
+"Truppen aus Dänemark hielten die Stadt besetzt.",
+"Truppen aus Spanien hielten die Stadt besetzt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Frankreich läge nahe, seine Heere zogen damals oft durch das Reich. Doch die Stadt hatten schwedische Truppen besetzt. In Rathenow steht heute ein barockes Sandsteindenkmal des Großen Kurfürsten, gleich neben der Sportbootschleuse. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/",
+"faktencheck": "korrigiert",
+"id": "226-rathenow/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "225-stendal",
+"anschluss": [
+"Einwohner: Stendal zählt rund 13.000 Menschen mehr als Rathenow.",
+"Kennzeichen: In Stendal steht SDL am Auto, in Rathenow HVL."
+],
+"anschluesse": {
+"225-stendal": [
+"Einwohner: Stendal zählt rund 13.000 Menschen mehr als Rathenow.",
+"Kennzeichen: In Stendal steht SDL am Auto, in Rathenow HVL."
+]
+},
+"ags": "12063252",
+"ortsteil": false,
+"km_vom_vorigen": 32.6
+},
+{
+"slug": "227-berlin",
+"name": "Berlin",
+"lat": 52.51667,
+"lon": 13.38333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Berlin",
+"steckbrief": "Rund 3,7 Millionen Einwohner, Stadtstaat an Spree und Havel.",
+"frage": "Im Roten Rathaus sitzt der Berliner Senat. Wie ist der Name des Gebäudes gemeint?",
+"optionen": [
+"Er bekennt sich zur Arbeiterbewegung.",
+"Er spielt auf linke Stadtregierungen an.",
+"Er war als Kampfansage an die Monarchie gemeint.",
+"Er ist gar nicht politisch gemeint."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Rot klingt nach Politik, und im Roten Rathaus sitzen Senat und Regierende Bürgermeisterin oder Bürgermeister – da liegt eine Anspielung auf linke Parteifarben nahe. Doch laut Stadtportal ist der Name unpolitisch gemeint. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.berlin.de/sehenswuerdigkeiten/",
+"faktencheck": "bestätigt",
+"id": "227-berlin/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Berlin",
+"steckbrief": "Rund 3,7 Millionen Einwohner, Stadtstaat an Spree und Havel.",
+"frage": "Aus welcher Zeit stammt die erste Erwähnung Berlins?",
+"optionen": [
+"vor 1250",
+"1250 bis unter 1400",
+"1400 bis unter 1550",
+"1550 oder später"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele verbinden Berlin eher mit Kaiserzeit und Mauer als mit dem Mittelalter, darum schätzen sie später. Die Quellen nennen für die erste Erwähnung 1237 und 1244, beides vor 1250. Richtig war 1.",
+"quelle": "Wikidata P1249 (1244); Altbestand geschichte.json (1237)",
+"faktencheck": "bestätigt",
+"id": "227-berlin/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Berlin",
+"steckbrief": "Rund 3,7 Millionen Einwohner, Stadtstaat an Spree und Havel.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Mauerpark liegt auf einem ehemaligen Mauerstreifen.",
+"Die Weltzeituhr am Alexanderplatz stammt aus der Nachwendezeit.",
+"Der Checkpoint Charlie an der Friedrichstraße war ein Grenzübergang."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Weltzeituhr ist ein beliebter Treffpunkt, deshalb hält man sie leicht für ein Werk der Nachwendezeit. Sie wurde aber schon zu DDR-Zeiten am Alexanderplatz installiert. Der Mauerpark liegt tatsächlich auf ehemaligem Mauerstreifen, und an der Friedrichstraße lag der Grenzübergang Checkpoint Charlie. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.berlin.de/sehenswuerdigkeiten/",
+"faktencheck": "bestätigt",
+"id": "227-berlin/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Berlin",
+"steckbrief": "Rund 3,7 Millionen Einwohner, Stadtstaat an Spree und Havel.",
+"frage": "Wie groß ist die Fläche Berlins?",
+"optionen": [
+"unter 300 km²",
+"300 bis unter 600 km²",
+"600 bis unter 1.000 km²",
+"1.000 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Millionenstädten denken viele an eng bebaute Viertel und schätzen die Fläche klein. Berlin umfasst aber 891,12 Quadratkilometer, genug Platz auch für Parks wie den Tiergarten. Richtig war 3.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "227-berlin/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Berlin",
+"steckbrief": "Rund 3,7 Millionen Einwohner, Stadtstaat an Spree und Havel.",
+"frage": "Auf dem Teufelsberg im Grunewald verfällt eine US-amerikanische Abhörstation. Woraus besteht der Berg selbst?",
+"optionen": [
+"Er ist ein natürlicher Hügel der Eiszeit.",
+"Er ist Abraum eines alten Braunkohletagebaus.",
+"Er ist ein erloschener kleiner Vulkan.",
+"Er ist aus Trümmern aufgeschüttet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Berg im Grunewald wirkt natürlich, und Hügel im Flachland hält man gern für Reste der Eiszeit. Der Teufelsberg ist aber ein Trümmerberg, also aus Schutt aufgeschüttet. Heute ist er Aussichtspunkt und Monument der Geschichte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.berlin.de/sehenswuerdigkeiten/",
+"faktencheck": "bestätigt",
+"id": "227-berlin/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Berlin",
+"steckbrief": "Rund 3,7 Millionen Einwohner, Stadtstaat an Spree und Havel.",
+"frage": "Wie viele Menschen leben in Berlin im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"rund 4.150",
+"rund 1.900",
+"rund 8.600",
+"rund 12.300"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Millionenstadt rechnen viele mit dichtem Häusermeer und schätzen höher. Berlin verteilt seine Einwohner aber auf viel Fläche: Im Schnitt leben rund 4.150 Menschen auf einem Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "227-berlin/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Berlin",
+"steckbrief": "Rund 3,7 Millionen Einwohner, Stadtstaat an Spree und Havel.",
+"frage": "Das Berliner Stadtschloss wurde mit alter Fassade wieder aufgebaut. Was ist heute darin untergebracht?",
+"optionen": [
+"Der Amtssitz des Bundespräsidenten.",
+"Das Humboldt Forum, ein Museum.",
+"Das Berliner Abgeordnetenhaus.",
+"Das Bundesministerium der Finanzen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein wiederaufgebautes Schloss – da denkt man an einen Amtssitz für Staat oder Parlament. Doch die alte Fassade umschließt ein neues Nutzungskonzept: das Humboldt Forum, kulturelles Stadtquartier und modernes Museum für den Dialog zwischen Kunst und Wissenschaft. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.berlin.de/sehenswuerdigkeiten/ (Nutzung); www.berlin.de/museum/ (Humboldt Forum)",
+"faktencheck": "bestätigt",
+"id": "227-berlin/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Berlin",
+"steckbrief": "Rund 3,7 Millionen Einwohner, Stadtstaat an Spree und Havel.",
+"frage": "Am Potsdamer Platz steht ein Ensemble aus Hochhäusern und futuristischen Neubauten. Wann entstand dieses Ensemble?",
+"optionen": [
+"Es entstand nach der Wiedervereinigung.",
+"Es entstand in den Goldenen Zwanzigern.",
+"Es entstand beim Wiederaufbau nach dem Krieg.",
+"Es entstand als Prestigeprojekt der DDR."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Hochhäuser und kühne Bauten passen zum Glanz der Zwanzigerjahre oder zum Wiederaufbau nach dem Krieg, deshalb liegt eine frühere Zeit nahe. Doch das heutige Ensemble aus Hochhäusern und futuristischen Neubauten entstand bei der Neubebauung nach der Wiedervereinigung. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.berlin.de/sehenswuerdigkeiten/",
+"faktencheck": "korrigiert",
+"id": "227-berlin/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "226-rathenow",
+"anschluss": [
+"Einwohner: Berlin hat rund 150-mal so viele wie Rathenow.",
+"Kennzeichen: In Rathenow steht HVL am Auto, in Berlin B."
+],
+"anschluesse": {
+"226-rathenow": [
+"Einwohner: Berlin hat rund 150-mal so viele wie Rathenow.",
+"Kennzeichen: In Rathenow steht HVL am Auto, in Berlin B."
+]
+},
+"ags": "11000000",
+"ortsteil": false,
+"km_vom_vorigen": 71.6
+},
+{
+"slug": "228-runkel",
+"name": "Runkel",
+"lat": 50.40528,
+"lon": 8.155,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Runkel",
+"steckbrief": "Runkel ist eine Stadt mit rund 9.400 Einwohnern, 36 km nördlich von Wiesbaden.",
+"frage": "Gegenüber der Burg Runkel steht jenseits der Lahn die Burg Schadeck. Wer baute sie und warum?",
+"optionen": [
+"Der Kaiser ließ sie als Reichsburg errichten.",
+"Ein Kloster baute sie als Fluchtburg.",
+"Ein Vertriebener baute sie nach einem Familienstreit.",
+"Die Stadt baute sie als Zollstation."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Zwei Burgen einander gegenüber sehen nach geplanter Verteidigung des Flusses aus. Doch hinter Burg Schadeck steckt ein Familienstreit: Siegfried vertrieb Heinrich von Runkel, und Heinrich baute die neue Burg jenseits der Lahn „zum Trutz“, direkt gegenüber der Burg Runkel. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.runkel-lahn.de/bildung-kultur/geschichte/",
+"faktencheck": "bestätigt",
+"id": "228-runkel/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Runkel",
+"steckbrief": "Runkel ist eine Stadt mit rund 9.400 Einwohnern, 36 km nördlich von Wiesbaden.",
+"frage": "Wie groß ist die Fläche der Stadt Runkel mit all ihren Stadtteilen?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Altstadt mit Burg und Fachwerkgassen wirkt klein. Doch die heutige Stadt entstand durch den Zusammenschluss mit Dörfern wie Dehrn, Steeden, Arfurt und Wirbelau, und deren Fluren zählen mit. So kommt Runkel auf 43,71 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "228-runkel/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Runkel",
+"steckbrief": "Runkel ist eine Stadt mit rund 9.400 Einwohnern, 36 km nördlich von Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Burgmannenhaus schützte einst Stadttor und Brücke.",
+"Ein Glockenturm war einst Wachturm der Stadtmauer.",
+"Den Dreißigjährigen Krieg überstand Runkel ohne Brand."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mauern und Burg klingen nach Schutz, und manche Städte blieben im Krieg tatsächlich verschont. Runkel nicht: Kroaten des Grafen Isolani erstiegen die Mauern und legten Ort und Schloss in Asche. Wahr sind dagegen der Wachturm, der heute Glockenturm ist, und das Burgmannenhaus als Schutz für Tor und Brücke. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.runkel-lahn.de/bildung-kultur/geschichte/",
+"faktencheck": "bestätigt",
+"id": "228-runkel/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Runkel",
+"steckbrief": "Runkel ist eine Stadt mit rund 9.400 Einwohnern, 36 km nördlich von Wiesbaden.",
+"frage": "Bei der Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Runkel die stärkste Partei?",
+"optionen": [
+"unter 28 %",
+"28 bis unter 36 %",
+"36 bis unter 44 %",
+"44 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land erwartet man oft eine übermächtige Union. Die CDU lag in Runkel zwar klar vorn, mit 34,1 Prozent der Zweitstimmen. Doch AfD und SPD folgten als Zweite und Dritte und banden viele Stimmen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "228-runkel/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Runkel",
+"steckbrief": "Runkel ist eine Stadt mit rund 9.400 Einwohnern, 36 km nördlich von Wiesbaden.",
+"frage": "Der Bau der Lahnbrücke in Runkel zog sich im 15. Jahrhundert über Jahre hin. Welchen Grund dafür nennt die Ortsgeschichte?",
+"optionen": [
+"Eine Seuche raffte die Bauleute dahin.",
+"Hochwasser rissen die halbfertigen Bögen fort.",
+"Ein Streit mit einem Grafen bremste den Bau.",
+"Der Kaiser verweigerte lange seine Genehmigung."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Brückenbau am Fluss denkt man zuerst an Hochwasser oder Seuchen, die damals viele Baustellen stilllegten. Die Ortsgeschichte nennt aber Streitigkeiten mit Graf Reinhard von Westerburg als Grund, warum sich der Bau hinzog. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.runkel-lahn.de/bildung-kultur/geschichte/",
+"faktencheck": "korrigiert",
+"id": "228-runkel/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Runkel",
+"steckbrief": "Runkel ist eine Stadt mit rund 9.400 Einwohnern im Lahntal, halbwegs zwischen Koblenz und Gießen.",
+"frage": "Wie weit ist es von Runkel in Luftlinie bis zur Landeshauptstadt Wiesbaden?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 28 km",
+"28 bis unter 34 km",
+"34 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wiesbaden ist die nächste Großstadt, und über den Taunus wirkt der Weg kurz. In Luftlinie sind es von der Ortsmitte Runkels bis zur Stadtmitte Wiesbadens aber 36 Kilometer. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "228-runkel/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Runkel",
+"steckbrief": "Runkel ist eine Stadt mit rund 9.400 Einwohnern, 36 km nördlich von Wiesbaden.",
+"frage": "Melanchthon, Freund und Helfer Martin Luthers, war 1543 auf Schloss Runkel zu Gast. Wer war sein Gastgeber?",
+"optionen": [
+"Sein Gastgeber war Graf Johann IV. von Wied.",
+"Sein Gastgeber war Landgraf Philipp von Hessen.",
+"Sein Gastgeber war Kurfürst Johann Friedrich von Sachsen.",
+"Sein Gastgeber war Graf Wilhelm von Nassau-Dillenburg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Reformator denkt man an die großen Schutzherren der Reformation in Sachsen oder Hessen, zumal Runkel heute in Hessen liegt. Auf Schloss Runkel aber war Melanchthon, Freund und Helfer Martin Luthers, Gast von Graf Johann IV. von Wied. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.runkel-lahn.de/bildung-kultur/geschichte/",
+"faktencheck": "bestätigt",
+"id": "228-runkel/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Runkel",
+"steckbrief": "Runkel ist eine Stadt mit rund 9.400 Einwohnern, 36 km nördlich von Wiesbaden.",
+"frage": "Der Runkeler Stadtteil Steeden hat heute eine kleine Gemarkung. Welchen Grund dafür nennt die Ortsgeschichte?",
+"optionen": [
+"Die Lahn riss bei Hochwassern Uferland fort.",
+"Nach Krieg und Hunger verkaufte Steeden Ackerland.",
+"Der Landesherr schlug Felder seiner Burg zu.",
+"Bei der Gründung erhielt Steeden nur wenig Land."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf in einem Lahnbogen könnte Land an den Fluss verloren haben. Die Ortsgeschichte erzählt anderes: Im Dreißigjährigen Krieg zogen Heere durch, Hungersnöte folgten, und Steeden verkaufte Ackerland an Bauern aus Hofen. Daher ist die Gemarkung, also die Ortsflur, heute klein. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.runkel-lahn.de/stadt-rathaus/stadtteile/steeden/",
+"faktencheck": "bestätigt",
+"id": "228-runkel/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Runkel",
+"steckbrief": "Runkel ist eine Stadt mit rund 9.400 Einwohnern, 36 km nördlich von Wiesbaden.",
+"frage": "Am Lahnwanderweg bei Arfurt, einem Stadtteil von Runkel, steht ein hölzerner Bilderrahmen, das Himmelsfenster. Was markiert er?",
+"optionen": [
+"Er markiert die Stelle einer verschwundenen Burg.",
+"Er markiert einen alten Hochwasserstand der Lahn.",
+"Er markiert den Ort eines früheren Klosters.",
+"Er markiert den Mittelpunkt des Landkreises."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einer Burgenstadt läge eine verschwundene Burg nahe, doch der Rahmen hat einen jüngeren Anlass: Zum Jubiläum des Landkreises Limburg-Weilburg eingeweiht, markiert er dessen geografischen Mittelpunkt. Der Blick reicht über das Lahntal, an klaren Tagen bis zum Feldberg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.runkel-lahn.de/stadt-rathaus/stadtteile/arfurt/",
+"faktencheck": "bestätigt",
+"id": "228-runkel/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "227-berlin",
+"anschluss": [
+"Einwohner: Berlin hat rund 390-mal so viele wie Runkel.",
+"Fläche: Berlin ist nur rund zwanzigmal so groß wie Runkel."
+],
+"anschluesse": {
+"177-huenfelden": [
+"Hünfelden und Runkel sind fast gleich groß: rund 9.700 und 9.400 Einwohner."
+],
+"178-limburg": [
+"Limburg an der Lahn hat fast viermal so viele Einwohner wie Runkel."
+],
+"179-elz": [
+"Runkel hat rund 1.300 Einwohner mehr als Elz."
+],
+"180-diez": [
+"Landesgrenze: Diez liegt in Rheinland-Pfalz, Runkel in Hessen.",
+"Diez hat rund 2.000 Einwohner mehr als Runkel."
+],
+"229-weilburg": [
+"Weilburg hat rund 3.600 Einwohner mehr als Runkel."
+],
+"230-loehnberg": [
+"Runkel hat doppelt so viele Einwohner wie Löhnberg."
+],
+"227-berlin": [
+"Einwohner: Berlin hat rund 390-mal so viele wie Runkel.",
+"Fläche: Berlin ist nur rund zwanzigmal so groß wie Runkel."
+]
+},
+"ags": "06533013",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 431.5
+},
+{
+"slug": "229-weilburg",
+"name": "Weilburg",
+"lat": 50.48333,
+"lon": 8.25,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weilburg",
+"steckbrief": "Weilburg, Stadt mit rund 13.000 Einwohnern, liegt 44 km nördlich von Wiesbaden.",
+"frage": "Wozu ließ Herzog Adolf den Weilburger Bergrücken durchbohren?",
+"optionen": [
+"Der Tunnel diente als Stollen im Erzbergbau.",
+"Der Tunnel diente Schiffen auf der kanalisierten Lahn.",
+"Der Tunnel diente als Mühlgraben für Wasserräder.",
+"Der Tunnel diente als Trinkwasserleitung zur Stadt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Tunnel im Berg klingt nach Bergbau oder Wasserleitung. Doch Herzog Adolf ließ den Weilburger Bergrücken für Schiffe durchbohren, als die Lahn von der Mündung bis Weilburg kanalisiert wurde. Der Schiffstunnel ist bis heute in Betrieb. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "229-weilburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weilburg",
+"steckbrief": "Weilburg, Stadt mit rund 13.000 Einwohnern, liegt 44 km nördlich von Wiesbaden.",
+"frage": "Wie viele Einwohner kommen in Weilburg auf einen Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 300",
+"300 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine barocke Residenzstadt klingt nach enger Bebauung, also liegt ein hoher Wert nahe. Doch zur Stadt gehören auch eingemeindete Stadtteile wie Kubach, Waldhausen und Odersbach, und ihre Fluren ziehen den Schnitt nach unten: Auf einen Quadratkilometer kommen 226 Einwohner. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "229-weilburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Weilburg",
+"steckbrief": "Weilburg, Stadt mit rund 13.000 Einwohnern, liegt 44 km nördlich von Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Orangerien sind Schloss Schönbrunn in Wien nachgebildet.",
+"Heinrich von Gagern ging in Weilburg zur Schule.",
+"Konrad I. gründete das Walpurgisstift zum Gedächtnis an seinen Vater."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schönbrunn klingt nach höfischer Pracht und passt zum Schloss. Doch Graf Johann Ernst ließ die Orangerien als fast originalgetreue Nachbildung des Grand Trianon in Versailles bauen. Gagern war Schüler des Gymnasiums Philippinum, und Konrad I. gründete das Walpurgisstift zum Gedächtnis an seinen Vater. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "229-weilburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Weilburg",
+"steckbrief": "Weilburg, Stadt mit rund 13.000 Einwohnern, liegt 44 km nördlich von Wiesbaden.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Weilburg nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"CDU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, sie war in Hessen lange eine Volkspartei mit vielen Hochburgen. In Weilburg kam die AfD jedoch auf 23,8 Prozent der Zweitstimmen, vor der SPD mit 20,9 Prozent. Stärkste Partei wurde die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "229-weilburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weilburg",
+"steckbrief": "Weilburg, Stadt mit rund 13.000 Einwohnern, liegt 44 km nördlich von Wiesbaden.",
+"frage": "Weilburg erhielt 1295 die Rechte der Frankfurter Bürger. Wie erfuhr man in Weilburg, was diese Rechte besagten?",
+"optionen": [
+"Ein Schreiber kopierte die Frankfurter Stadtrechtsurkunde.",
+"Frankfurter schrieben die Rechte aus dem Gedächtnis auf.",
+"Frankfurter Boten trugen die Rechte in Weilburg mündlich vor.",
+"Die Chorherren des Walpurgisstifts besaßen Frankfurts Rechtsbuch."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Stadtrechte stellt man sich als Urkunde vor, also liegt eine Abschrift nahe. Doch Frankfurt hatte selbst nichts Schriftliches. Man schrieb auf, was man im Kopf hatte, und gab es dem Weilburger Boten mit. Später mussten die Frankfurter ihre eigenen Stadtrechte in Weilburg abschreiben. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "229-weilburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weilburg",
+"steckbrief": "Weilburg, Stadt mit rund 13.000 Einwohnern, liegt 44 km nördlich von Wiesbaden.",
+"frage": "Wie groß ist das Weilburger Stadtgebiet?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 40 km²",
+"40 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Kernstadt an der Lahn wirkt kompakt, daher liegt ein kleiner Wert nahe. Doch das Stadtgebiet reicht von der Lahn bei Kirschhofen, seinem tiefsten Punkt, bis zum Hohenstein bei Hasselbach, seinem höchsten. Zusammen sind es 57,51 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "korrigiert",
+"id": "229-weilburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weilburg",
+"steckbrief": "Weilburg, Stadt mit rund 13.000 Einwohnern, liegt 44 km nördlich von Wiesbaden.",
+"frage": "Das Weilburger Testament König Konrads I. von 918 regelte eine Übergabe der Kroninsignien. An wen?",
+"optionen": [
+"Sie gingen an den Bayernherzog Arnulf.",
+"Sie gingen an den westfränkischen König Karl.",
+"Sie gingen an den Schwabenherzog Burchard.",
+"Sie gingen an Sachsenherzog Heinrich den Vogler."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Mächtige Herzöge wie Arnulf oder Burchard wirken als Erben der Krone naheliegend. Doch Konrad, zerbrochen am Versuch, die auseinanderstrebenden Stämme des Reiches wieder zu einigen, sah im Weilburger Testament die Übergabe an den Sachsenherzog Heinrich den Vogler vor. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "229-weilburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weilburg",
+"steckbrief": "Weilburg, Stadt mit rund 13.000 Einwohnern, liegt 44 km nördlich von Wiesbaden.",
+"frage": "Prinzessin Henriette von Nassau-Weilburg heiratete Erzherzog Karl von Österreich. Was soll sie der Überlieferung nach in Wien eingeführt haben?",
+"optionen": [
+"Sie soll den Adventskranz eingeführt haben.",
+"Sie soll den Christkindlmarkt eingeführt haben.",
+"Sie soll den Weihnachtsbaum mit Kerzen eingeführt haben.",
+"Sie soll den Barbarazweig eingeführt haben."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Adventskranz liegt nahe, er gehört heute fest zur Vorweihnachtszeit. Nach der Überlieferung führte Henriette aber den mit Kerzen geschmückten Weihnachtsbaum in Wien ein. Ihr Mann, der „Löwe von Aspern“, ließ in Baden bei Wien ein Schloss Weilburg errichten, zur Erinnerung an die Heimat seiner Frau. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "229-weilburg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weilburg",
+"steckbrief": "Weilburg, Stadt mit rund 13.000 Einwohnern, liegt 44 km nördlich von Wiesbaden.",
+"frage": "Die Heilig-Grab-Kapelle von 1505 bildete die Heiligen Stätten in Jerusalem nach. Woran sollte sie nach der Stadtgeschichte erinnern?",
+"optionen": [
+"Sie erinnerte an die Pilgerfahrt eines Grafen.",
+"Sie erinnerte an das Ende einer Pest.",
+"Sie erinnerte an einen Kreuzzug heimischer Ritter.",
+"Sie erinnerte an ein Wunder in der Stadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Kreuzzug liegt nahe, denn Jerusalem war sein Ziel. Doch nach der Stadtgeschichte erinnerten Kapelle und Kreuzigungsgruppe auf dem Kalvarienberg an die Pilgerfahrt des Grafen Johann Ludwig Nassau von Saarbrücken. Bis zur Reformation dienten sie als Passionsstätte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "229-weilburg/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weilburg",
+"steckbrief": "Weilburg, Stadt mit rund 13.000 Einwohnern, liegt 44 km nördlich von Wiesbaden.",
+"frage": "Weilburg entstand auf einem fast ganz von der Lahn umflossenen Bergkegel. Welchen Grund nennt die Stadtgeschichte für seine Befestigung?",
+"optionen": [
+"Am Berg sprudelte eine begehrte Salzquelle.",
+"Auf dem Berg lag ein heidnisches Heiligtum.",
+"Die Burg sicherte die Grenze gegen die Sachsen.",
+"Dort führte eine alte Fernstraße über die Lahn."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Burg auf einem Flussberg klingt nach Grenzschutz, zumal Franken und Sachsen im frühen Mittelalter rivalisierten. Die Stadtgeschichte nennt als Grund der Befestigung aber eine alte Fernverkehrsstraße über die Lahn. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "229-weilburg/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "228-runkel",
+"anschluss": [
+"Kennzeichen: In Runkel und Weilburg steht gleichermaßen WEL am Auto.",
+"Bundestagswahl 2025: CDU in Runkel 34,1, in Weilburg 26,7 Prozent."
+],
+"anschluesse": {
+"177-huenfelden": [
+"Weilburg hat rund 3.300 Einwohner mehr als Hünfelden."
+],
+"178-limburg": [
+"Limburg an der Lahn hat gut zweieinhalbmal so viele Einwohner wie Weilburg."
+],
+"179-elz": [
+"Weilburg hat gut anderthalbmal so viele Einwohner wie Elz."
+],
+"228-runkel": [
+"Kennzeichen: In Runkel und Weilburg steht gleichermaßen WEL am Auto.",
+"Bundestagswahl 2025: CDU in Runkel 34,1, in Weilburg 26,7 Prozent."
+],
+"230-loehnberg": [
+"Weilburg hat fast dreimal so viele Einwohner wie Löhnberg."
+],
+"231-leun": [
+"Kreisgrenze: Leun gehört zum Lahn-Dill-Kreis, Weilburg zum Landkreis Limburg-Weilburg.",
+"Bundestagswahl 2025: In Leun lag die AfD vorn, in Weilburg die CDU."
+],
+"232-solms": [
+"Kreisgrenze: Solms gehört zum Lahn-Dill-Kreis, Weilburg zum Landkreis Limburg-Weilburg.",
+"Solms und Weilburg sind fast gleich groß: rund 14.000 und 13.000 Einwohner."
+],
+"233-wetzlar": [
+"Kreisgrenze: Wetzlar gehört zum Lahn-Dill-Kreis, Weilburg zum Landkreis Limburg-Weilburg.",
+"Wetzlar hat gut viermal so viele Einwohner wie Weilburg."
+]
+},
+"ags": "06533017",
+"ortsteil": false,
+"km_vom_vorigen": 11.0
+},
+{
+"slug": "230-loehnberg",
+"name": "Löhnberg",
+"lat": 50.51667,
+"lon": 8.26667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löhnberg",
+"steckbrief": "Gemeinde im Landkreis Limburg-Weilburg mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Ein denkmalgeschützter Hof in Löhnberg heißt im Volksmund „Ochsenstall“. Was war laut Gemeinde für seinen Bau maßgeblich?",
+"optionen": [
+"Das Versicherungsgeld nach einem Burgbrand.",
+"Die Stiftung eines reichen Viehhändlers.",
+"Der Erlös aus einem Ochsenmarkt.",
+"Ein Lotteriegewinn der Gemeinde."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Spitzname „Ochsenstall“ lockt auf die Spur von Viehhandel und Ochsenmärkten. Maßgeblich für den Bau war aber die Summe aus der Brandversicherung der Laneburg, die abgebrannt war. Im Denkmalbuch heißt er „Städtischer Hof“. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, gemeinde-loehnberg.de/freizeit-erleben/rathaus/mehrgenerationenhaus",
+"faktencheck": "korrigiert",
+"id": "230-loehnberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Löhnberg",
+"steckbrief": "Gemeinde im Landkreis Limburg-Weilburg mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Wie viele Einwohner kommen in Löhnberg auf einen Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 400",
+"400 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Gemeinde mit Bahnhof und einigen tausend Einwohnern wirkt schnell dicht besiedelt. Die Einwohner verteilen sich aber auf den Hauptort und mehrere Ortsteile. Rechnerisch leben in Löhnberg rund 138 Menschen je Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "230-loehnberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Löhnberg",
+"steckbrief": "Gemeinde im Landkreis Limburg-Weilburg mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Laneburg steht westlich der Lahn.",
+"Obershausen ist erstmals in einem Testament belegt.",
+"Löhnbergs Wassermuseum entstand mit einer Universität."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Testament klingt nach einer typischen frühen Urkunde, in der Besitz weitergegeben wird. Nach der Ortsgeschichte der Gemeinde erscheint Obershausen aber erstmals in einer Tauschurkunde, in der Leibeigene getauscht wurden. Die Laneburg steht tatsächlich westlich der Lahn, und das Wassermuseum entstand mit dem Institut für Biologiedidaktik der Universität Gießen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, gemeinde-loehnberg.de/freizeit-erleben/rathaus/geschichte-der-ortsteile",
+"faktencheck": "korrigiert",
+"id": "230-loehnberg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Löhnberg",
+"steckbrief": "Hessische Gemeinde mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Wie hoch war in Löhnberg die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 75 %",
+"75 bis unter 80 %",
+"80 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Kleinen Gemeinden traut man oft eine eher mäßige Beteiligung zu. In Löhnberg gaben bei der Bundestagswahl 2025 aber 80,9 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "230-loehnberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„Löhnberg / Gemeinde mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen. / Bei Sanierungsarbeiten am Schloss Laneburg kamen Silbermünzen aus einer Außenmauer zum Vorschein. In welche Lage stellt die Gemeinde das Versteck? / 1. Man fürchtete einen Einfall französischer Truppen. / 2. Ein Fremder auf der Durchreise versteckte dort seine Beute. / 3. Sie wurden als Glücksbringer eingemauert. / 4. Man schützte das Geld vor Plünderern im Dreißigjährigen Krieg.“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Münzen in einer Mauer lassen an Beute, einen Glücksbringer oder den Dreißigjährigen Krieg denken. Doch die jüngste Münze stammt von 1687, und ein Fremder wäre am Versteck sofort aufgefallen. Vermutlich gehörte das Silber Johann Philipp Diehler oder jemandem aus seinem Umfeld. Damals war die Lage an der Lahn unruhig, und man fürchtete einen Einfall der Franzosen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, gemeinde-loehnberg.de/freizeit-erleben/politik/sehenswuerdigkeiten",
+"faktencheck": "korrigiert",
+"id": "230-loehnberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Löhnberg",
+"steckbrief": "Gemeinde im Landkreis Limburg-Weilburg mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Wie groß ist die Fläche der Gemeinde Löhnberg?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 40 km²",
+"40 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Gemeinde dieser Einwohnerzahl liegt eine kleine Fläche nahe. Löhnberg umfasst aber 33,84 Quadratkilometer und ist damit größer, als die Einwohnerzahl vermuten lässt. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "230-loehnberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löhnberg",
+"steckbrief": "Gemeinde im Landkreis Limburg-Weilburg mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Der Ortsteil Selters ist für seine Mineralquellen bekannt. Woher stammt sein Name nach der Ortsgeschichte der Gemeinde?",
+"optionen": [
+"Er kommt vom Salz in den Quellen.",
+"Er erinnert an einen Ritter des Ortes.",
+"Römer benannten die Stelle nach tanzendem Wasser.",
+"Er stammt von einer mittelalterlichen Zollstelle."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Selters denkt man an Mineralwasser, und auch ein Ritter oder eine Zollstelle klingen nach möglichen Namensgebern. Die Ortsgeschichte der Gemeinde leitet den Namen aber vom römischen „Aqua Saltare“ ab, dem sprudelnden, „tanzenden“ Wasser, das aus der Tiefe dringt. Aus diesem Saltare wurde im Laufe der Zeit Selters. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, gemeinde-loehnberg.de/freizeit-erleben/rathaus/geschichte-der-ortsteile",
+"faktencheck": "korrigiert",
+"id": "230-loehnberg/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "229-weilburg",
+"anschluss": [
+"Einwohner: Weilburg hat fast dreimal so viele wie Löhnberg.",
+"Bundestagswahl 2025: Löhnberg und Weilburg wählten jeweils CDU vor AfD."
+],
+"anschluesse": {
+"179-elz": [
+"Elz hat gut anderthalbmal so viele Einwohner wie Löhnberg.",
+"Löhnberg hat doppelt so viel Fläche wie Elz, aber weniger Einwohner."
+],
+"228-runkel": [
+"Runkel hat doppelt so viele Einwohner wie Löhnberg."
+],
+"229-weilburg": [
+"Einwohner: Weilburg hat fast dreimal so viele wie Löhnberg.",
+"Bundestagswahl 2025: Löhnberg und Weilburg wählten jeweils CDU vor AfD."
+],
+"231-leun": [
+"Kreisgrenze: Leun gehört zum Lahn-Dill-Kreis, Löhnberg zum Landkreis Limburg-Weilburg.",
+"Bundestagswahl 2025: In Leun lag die AfD vorn, in Löhnberg die CDU."
+],
+"232-solms": [
+"Kreisgrenze: Solms gehört zum Lahn-Dill-Kreis, Löhnberg zum Landkreis Limburg-Weilburg.",
+"Solms hat fast dreimal so viele Einwohner wie Löhnberg."
+],
+"233-wetzlar": [
+"Kreisgrenze: Wetzlar gehört zum Lahn-Dill-Kreis, Löhnberg zum Landkreis Limburg-Weilburg.",
+"Wetzlar hat zwölfmal so viele Einwohner wie Löhnberg."
+]
+},
+"ags": "06533010",
+"ortsteil": false,
+"km_vom_vorigen": 3.9
+},
+{
+"slug": "231-leun",
+"name": "Leun",
+"lat": 50.55,
+"lon": 8.36667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leun",
+"steckbrief": "Kleinstadt im Lahntal mit rund 5.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Welcher Ort wurde 1972 Verwaltungssitz der neuen Stadt Leun?",
+"optionen": [
+"Verwaltungssitz wurde der Kernort Leun.",
+"Verwaltungssitz wurde der Stadtteil Biskirchen.",
+"Verwaltungssitz wurde der Stadtteil Bissenberg.",
+"Verwaltungssitz wurde der Stadtteil Stockhausen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist der Kernort Leun, denn er gibt der ganzen Stadt den Namen. Verwaltungssitz wurde nach dem Zusammenschluss 1972 aber Stockhausen, weil es den geografischen Mittelpunkt der neuen Stadt bildet. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.leun.de/rathaus-politik/stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "231-leun/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leun",
+"steckbrief": "Stadt im Lahntal, 43 km südöstlich von Siegen.",
+"frage": "Wie viele Einwohner hat die Stadt Leun mit allen Stadtteilen?",
+"optionen": [
+"unter 7.000",
+"7.000 bis unter 12.000",
+"12.000 bis unter 20.000",
+"20.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Wort Stadt lässt mehr Menschen erwarten. Leun zählte Ende 2025 aber 5.712 Einwohner, alle Stadtteile zusammen. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "231-leun/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Leun",
+"steckbrief": "Kleinstadt im Lahntal mit rund 5.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Stadtteil Biskirchen gewann einen bundesweiten Dorfwettbewerb.",
+"Ein Solmser Graf verlieh Leun die Stadtrechte.",
+"Der Stadtteil Bissenberg liegt tiefer als Biskirchen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Solmser Graf klingt erfunden, stimmt aber: Er verlieh Leun die Stadtrechte. Auch Biskirchen wurde Bundessieger bei „Unser Dorf soll schöner werden“. Nur Bissenberg stimmt nicht: Es liegt höher als Biskirchen, oberhalb des Ulmtals. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.leun.de/rathaus-politik/stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "231-leun/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leun",
+"steckbrief": "Kleinstadt im Lahntal mit rund 5.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Leun die stärkste Partei?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei vielen Parteien tippt man leicht niedriger. In Leun lag die AfD mit 29,6 Prozent vorn, knapp vor der CDU mit 27,3 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "231-leun/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leun",
+"steckbrief": "Kleinstadt im Lahntal mit rund 5.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Der Leuner Stadtteil Biskirchen hieß im Mittelalter Bischofskirchen. Nach welchem Bischof ist er laut Ortsgeschichte benannt?",
+"optionen": [
+"Namensgeber war Erzbischof Radbod von Trier.",
+"Namensgeber war Bischof Biso von Paderborn.",
+"Namensgeber war Bischof Erchanbald von Eichstätt.",
+"Namensgeber war Bischof Rudolf von Würzburg."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Biso liegt nahe, denn sein Name scheint in Biskirchen anzuklingen. Die Ortsgeschichte nennt aber Rudolf von Würzburg, einen Konradiner, Grundherrn und Kirchenstifter des Ortes. Aus Bischofskirchen wurde Biskirchen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.leun.de/rathaus-politik/stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "231-leun/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leun",
+"steckbrief": "Kleinstadt im Lahntal mit rund 5.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Wie viele Einwohner leben in Leun durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 250",
+"250 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Stadt denkt, schätzt leicht zu hoch. Doch die 5.712 Einwohner verteilen sich auf 28,66 Quadratkilometer, das sind 199 je Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "231-leun/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leun",
+"steckbrief": "Kleinstadt im Lahntal mit rund 5.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Worauf geht der Leuner Stadtteil Stockhausen laut Ortsgeschichte zurück?",
+"optionen": [
+"Stockhausen wurde von römischen Veteranen gegründet.",
+"Stockhausen entstand zur Zeit der fränkischen Landnahme.",
+"Stockhausen wurde von Glaubensflüchtlingen gegründet.",
+"Stockhausen entstand um einen keltischen Fürstensitz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Glaubensflüchtlinge liegen nahe, denn so entstanden in Hessen manche Dörfer. Stockhausen ist aber älter: Die Ortsgeschichte führt es auf die Zeit der fränkischen Landnahme zurück. Sein Ortskern weist auf ein mittelalterliches Reihendorf hin. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.leun.de/rathaus-politik/stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "231-leun/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "230-loehnberg",
+"anschluss": [
+"Kreisgrenze: In Löhnberg steht WEL am Auto, in Leun WZ.",
+"Bundestagswahl 2025: Stärkste Partei in Löhnberg CDU, in Leun AfD."
+],
+"anschluesse": {
+"229-weilburg": [
+"Kreisgrenze: Weilburg gehört zum Landkreis Limburg-Weilburg, Leun zum Lahn-Dill-Kreis.",
+"Bundestagswahl 2025: In Weilburg lag die CDU vorn, in Leun die AfD."
+],
+"230-loehnberg": [
+"Kreisgrenze: In Löhnberg steht WEL am Auto, in Leun WZ.",
+"Bundestagswahl 2025: Stärkste Partei in Löhnberg CDU, in Leun AfD."
+],
+"232-solms": [
+"Bundestagswahl 2025: In Solms lag die CDU vorn, in Leun die AfD.",
+"Solms hat fast zweieinhalbmal so viele Einwohner wie Leun."
+],
+"233-wetzlar": [
+"Bundestagswahl 2025: In Wetzlar lag die CDU vorn, in Leun die AfD.",
+"Wetzlar hat fast zehnmal so viele Einwohner wie Leun."
+],
+"234-lahnau": [
+"Bundestagswahl 2025: In Lahnau lag die CDU vorn, in Leun die AfD.",
+"Lahnau hat fast anderthalbmal so viele Einwohner wie Leun."
+]
+},
+"ags": "06532016",
+"ortsteil": false,
+"km_vom_vorigen": 8.0
+},
+{
+"slug": "232-solms",
+"name": "Solms",
+"lat": 50.53972,
+"lon": 8.40722,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Solms",
+"steckbrief": "Solms ist eine Stadt mit rund 13.600 Einwohnern, 46 km südöstlich von Siegen.",
+"frage": "Das Kloster Altenberg bei Oberbiel verlor Anfang des 19. Jahrhunderts seine Eigenständigkeit. Warum kam es an das Haus Solms-Braunfels?",
+"optionen": [
+"Die Grafen kauften es dem Orden ab.",
+"Es war ein Hochzeitsgeschenk an die Grafen.",
+"Es war Entschädigung für verlorene linksrheinische Gebiete.",
+"Die Grafen eroberten es in einer Fehde."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Kauf liegt nahe, denn Adelshäuser rundeten ihren Besitz oft durch Käufe ab. Doch das Kloster wurde dem Haus Solms-Braunfels übereignet: als Entschädigung für verlorene linksrheinische Gebiete. Damit endete seine Eigenständigkeit. Die Klosterkirche nutzte von da an die evangelische Kirchengemeinde Oberbiel. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/ und www.solms.de/leben-wohnen/stadtportrait/stadtteile/oberbiel/",
+"faktencheck": "korrigiert",
+"id": "232-solms/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Solms",
+"steckbrief": "Solms ist eine Stadt mit rund 13.600 Einwohnern, 46 km südöstlich von Siegen.",
+"frage": "Wie groß ist die Fläche des gesamten Stadtgebiets von Solms?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 22 km²",
+"22 bis unter 30 km²",
+"30 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Kleinstadt an der Lahn denkt, schätzt die Fläche oft kleiner. Doch zur Stadt gehören fünf Stadtteile: Albshausen, Burgsolms, Oberndorf, Niederbiel und Oberbiel. Zusammen kommen sie auf 34,02 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "232-solms/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Solms",
+"steckbrief": "Solms ist eine Stadt mit rund 13.600 Einwohnern, 46 km südöstlich von Siegen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die zerstörte Burg Solms wurde wieder aufgebaut.",
+"Die letzten Reste der Burg Solms hießen Storchenmauer.",
+"Der belagerte Burgherr floh zur Burg Greifenstein."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Wiederaufbau klingt plausibel, denn der Stadtteil Burgsolms trägt die Burg im Namen. Doch die Wasserburg wurde bei der Belagerung zerstört und nie wieder aufgebaut. Ihre letzten Reste, die Storchenmauer, trug man später wegen wiederkehrender Steinschläge ab. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.solms.de/leben-wohnen/stadtportrait/stadtteile/burgsolms/",
+"faktencheck": "korrigiert",
+"id": "232-solms/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Solms",
+"steckbrief": "Solms ist eine Stadt mit rund 13.600 Einwohnern, 46 km südöstlich von Siegen.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Welche Partei wurde in Solms zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"SPD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, denn in alten Hütten- und Industrieorten war sie lange stark. In Solms holte jedoch die AfD 24,7 Prozent, die SPD nur 19 Prozent. Vorn lag die CDU mit 29,5 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "232-solms/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Solms",
+"steckbrief": "Solms ist eine Stadt mit rund 13.600 Einwohnern, 46 km südöstlich von Siegen.",
+"frage": "Kloster Altenberg bei Oberbiel erlebte seine Blütezeit unter einer seligen Gertrud. Wessen Tochter war sie?",
+"optionen": [
+"Sie war eine Tochter der heiligen Hildegard.",
+"Sie war eine Tochter einer Gräfin von Nassau.",
+"Sie war eine Tochter der heiligen Elisabeth.",
+"Sie war eine Tochter der Kaiserin Beatrix."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Gräfin aus der Nachbarschaft läge nahe, denn Klöster wurden oft von Töchtern des regionalen Adels geprägt. Tatsächlich war Gertrud eine Tochter der heiligen Elisabeth. Unter ihrem Einfluss blühte das Kloster auf, das zum Orden der Prämonstratenser gehörte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "232-solms/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Solms",
+"steckbrief": "Solms ist eine Stadt mit rund 13.600 Einwohnern, 46 km südöstlich von Siegen.",
+"frage": "Zu welchem Landkreis gehört Solms heute?",
+"optionen": [
+"Landkreis Gießen",
+"Landkreis Limburg-Weilburg",
+"Hochtaunuskreis",
+"Lahn-Dill-Kreis"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Gießen und Limburg liegen ebenfalls an der Lahn, deshalb wirken ihre Kreise naheliegend. Solms gehört aber zum Lahn-Dill-Kreis in Hessen. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "232-solms/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Solms",
+"steckbrief": "Solms ist eine Stadt mit rund 13.600 Einwohnern, 46 km südöstlich von Siegen.",
+"frage": "Albshausen und Oberbiel bildeten vor der heutigen Stadt Solms eine gemeinsame Gemeinde. Wie hieß sie?",
+"optionen": [
+"Die Gemeinde hieß Bielhausen.",
+"Die Gemeinde hieß Albsbiel.",
+"Die Gemeinde hieß Lahnbiel.",
+"Die Gemeinde hieß Oberalbshausen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Albsbiel wirkt naheliegend, weil Kunstnamen oft aus den Anfängen der Ortsnamen gebildet werden. Die Gemeinde hieß Bielhausen – ein Name, in dem Oberbiel und Albshausen anklingen. Im Zuge der hessischen Gebietsreform ging sie mit Niederbiel und der Gemeinde Solms in der heutigen Stadt auf. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "232-solms/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Solms",
+"steckbrief": "Solms ist eine Stadt mit rund 13.600 Einwohnern, 46 km südöstlich von Siegen.",
+"frage": "Solms ist erstmals 788 urkundlich belegt, allerdings umstritten. Was wurde damals festgehalten?",
+"optionen": [
+"Ein Adliger verkaufte dem Kloster Fulda eine Mühle.",
+"Ein Bischof weihte eine Brücke über die Lahn.",
+"Ein Mann schenkte dem Kloster Lorsch eine Kirche.",
+"Ein König verlieh Zollrechte an der Lahn."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Zoll oder eine Brücke liegt nahe, weil der Ort an der Lahn liegt. Tatsächlich schenkte ein Mann namens Randolf eine Kirche „über dem Flusse Solmissa“ samt weiterem Besitz dem Reichskloster Lorsch. Gemeint ist vermutlich Oberndorf mit seiner Mutterkirche; sicher ist das nicht. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/",
+"faktencheck": "unsicher",
+"id": "232-solms/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Solms",
+"steckbrief": "Solms ist eine Stadt mit rund 13.600 Einwohnern, 46 km südöstlich von Siegen.",
+"frage": "Ab 1873 entstand in Burgsolms die Georgshütte. Wer ließ sie bauen?",
+"optionen": [
+"Eine Genossenschaft von Bergleuten baute sie.",
+"Ein Fürstenhaus ließ sie bauen.",
+"Ein Kloster ließ sie errichten.",
+"Eine Eisenbahngesellschaft baute sie."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Bahngesellschaft oder Bergleute liegen nahe, denn Bahn und Bergbau prägten die Gegend. Gebaut hat die Hütte jedoch das Fürstenhaus Solms-Braunfels. Später ging sie an die Firma Buderus. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.solms.de/leben-wohnen/stadtportrait/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "232-solms/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "231-leun",
+"anschluss": [
+"Einwohner: Solms hat mehr als doppelt so viele wie Leun.",
+"Bundestagswahl 2025: Stärkste Partei in Leun AfD, in Solms CDU."
+],
+"anschluesse": {
+"229-weilburg": [
+"Kreisgrenze: Weilburg gehört zum Landkreis Limburg-Weilburg, Solms zum Lahn-Dill-Kreis.",
+"Weilburg und Solms sind fast gleich groß: rund 13.000 und 14.000 Einwohner."
+],
+"230-loehnberg": [
+"Kreisgrenze: Löhnberg gehört zum Landkreis Limburg-Weilburg, Solms zum Lahn-Dill-Kreis.",
+"Solms hat fast dreimal so viele Einwohner wie Löhnberg."
+],
+"231-leun": [
+"Einwohner: Solms hat mehr als doppelt so viele wie Leun.",
+"Bundestagswahl 2025: Stärkste Partei in Leun AfD, in Solms CDU."
+],
+"233-wetzlar": [
+"Wetzlar hat viermal so viele Einwohner wie Solms."
+],
+"234-lahnau": [
+"Solms hat gut anderthalbmal so viele Einwohner wie Lahnau.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Lahnau die SPD, in Solms die AfD."
+]
+},
+"ags": "06532021",
+"ortsteil": false,
+"km_vom_vorigen": 3.1
+},
+{
+"slug": "233-wetzlar",
+"name": "Wetzlar",
+"lat": 50.56667,
+"lon": 8.5,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wetzlar",
+"steckbrief": "Stadt an der Lahn mit rund 55.000 Einwohnern, 48 km südöstlich von Siegen.",
+"frage": "Ein Turm der Wetzlarer Stadtmauer heißt Schneiderturm, aber auch Säuturm. Woher kommt der zweite Name?",
+"optionen": [
+"Dort wurden früher die Schweine geschlachtet.",
+"Durch seine Pforte trieb man Schweine zur Weide.",
+"Bauern säten vor dem Turm ihr Getreide aus.",
+"Im Turm wurden früher Betrunkene eingesperrt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ans Schlachten denkt man schnell, denn „Säu“ sind Schweine. Gemeint war aber Friedlicheres: Durch die Turmpforte trieben Bauern ihre Säue auf die Weide vor der Stadtmauer. Seinen ersten Namen verdankt der Turm der Schneiderzunft, die für ihn und dieses Mauerstück zuständig war. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wetzlar",
+"faktencheck": "unsicher",
+"id": "233-wetzlar/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wetzlar",
+"steckbrief": "Stadt an der Lahn mit rund 55.000 Einwohnern, 48 km südöstlich von Siegen.",
+"frage": "Wie groß ist das Wetzlarer Stadtgebiet?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 55 km²",
+"55 bis unter 90 km²",
+"90 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer nur an die Kernstadt denkt, schätzt leicht zu klein. Zum Stadtgebiet gehören aber auch acht Stadtteile. Zusammen sind es 75,65 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046; Gemeinde-Webseite, www.wetzlar.de/leben-in-wetzlar/stadtportraet/index.php",
+"faktencheck": "bestätigt",
+"id": "233-wetzlar/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wetzlar",
+"steckbrief": "Stadt an der Lahn mit rund 55.000 Einwohnern, 48 km südöstlich von Siegen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Goethe arbeitete als Praktikant am Wetzlarer Reichskammergericht.",
+"Goethes Wetzlarer Liebe Charlotte Buff heiratete ihn später.",
+"Ein Wetzlarer Suizid lieferte ein Vorbild für Werther."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Suizid klingt erfunden, ist aber echt: Karl Wilhelm Jerusalem erschoss sich 1772 in Wetzlar und wurde ein Vorbild für Werther. Gelogen ist die Hochzeit. Goethes Liebe zu Charlotte Buff blieb glücklos; sie heiratete 1773 Johann Christian Kestner, hannoverscher Gesandtschaftssekretär am Reichskammergericht. Die Lüge war 2.",
+"quelle": "Stadt Wetzlar (Städtische Museen); Deutsche Biographie",
+"faktencheck": "korrigiert",
+"id": "233-wetzlar/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wetzlar",
+"steckbrief": "Stadt an der Lahn mit rund 55.000 Einwohnern, 48 km südöstlich von Siegen.",
+"frage": "Wie hoch war die Wahlbeteiligung in Wetzlar bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 79 %",
+"79 bis unter 82 %",
+"82 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Bundestagswahl schätzt man die Beteiligung leicht hoch ein. In Wetzlar gingen aber 77,8 Prozent der Wahlberechtigten wählen. In Solms, ebenfalls im Lahn-Dill-Kreis, waren es 81,9 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "korrigiert",
+"id": "233-wetzlar/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wetzlar",
+"steckbrief": "Stadt an der Lahn mit rund 55.000 Einwohnern, 48 km südöstlich von Siegen.",
+"frage": "Der Wetzlarer Dom ist das Wahrzeichen der Stadt. Was ist an seiner Nutzung heute besonders?",
+"optionen": [
+"Er dient nur noch als Konzertsaal.",
+"Katholiken und Protestanten nutzen ihn gemeinsam.",
+"Nur eine orthodoxe Gemeinde feiert darin Gottesdienst.",
+"Nur die katholische Gemeinde feiert dort Gottesdienst."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Dom wirkt katholisch, deshalb liegt eine einzige Konfession nahe. Tatsächlich nutzen Katholiken und Protestanten den Bau seit der Reformation bis heute gemeinsam. Solche Kirchen heißen Simultankirchen; diese gilt als älteste im Bereich der Evangelischen Kirche im Rheinland. Offiziell ist sie die ehemalige Stifts- und Pfarrkirche Unserer Lieben Frau. Richtig war 2.",
+"quelle": "Stadt Wetzlar, wetzlar.de",
+"faktencheck": "korrigiert",
+"id": "233-wetzlar/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Wetzlar",
+"steckbrief": "Stadt an Lahn und Dill mit rund 55.000 Einwohnern, 48 km südöstlich von Siegen.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Wetzlar?",
+"optionen": [
+"GI",
+"LM",
+"WZ",
+"MR"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. GI liegt nahe, denn Gießen liegt ebenfalls an der Lahn in Mittelhessen. Wetzlar ist aber selbst Kreisstadt, und zwar des Lahn-Dill-Kreises. Dessen Hauptkennzeichen ist WZ. Richtig war 3.",
+"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
+"faktencheck": "unsicher",
+"id": "233-wetzlar/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wetzlar",
+"steckbrief": "Stadt an der Lahn mit rund 55.000 Einwohnern, 48 km südöstlich von Siegen.",
+"frage": "Oskar Barnack entwickelte in Wetzlar noch vor dem Ersten Weltkrieg die Leica. Woher stammt ihr Name?",
+"optionen": [
+"Er ist nach Barnacks Tochter benannt.",
+"Er kürzt „Licht“ und „Camera“ ab.",
+"Er spielt auf das Wort „leicht“ an.",
+"Er verbindet „Leitz“ und „Camera“."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Leicht“ liegt nahe, denn die Kleinbildkamera war handlich. Der Name ist aber ein Kürzel: lei für Leitz, die Wetzlarer Optikfirma, und ca für Camera. Aus Leitz gingen später Leica Camera und Leica Microsystems hervor. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wetzlar",
+"faktencheck": "bestätigt",
+"id": "233-wetzlar/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wetzlar",
+"steckbrief": "Stadt an der Lahn mit rund 55.000 Einwohnern, 48 km südöstlich von Siegen.",
+"frage": "1285 kam ein Mann nach Wetzlar, der sich als der längst tote Kaiser Friedrich II. ausgab. Was geschah mit ihm?",
+"optionen": [
+"Er wurde festgenommen und als Ketzer verbrannt.",
+"Er wurde als Narr verspottet und fortgejagt.",
+"Man sperrte ihn lebenslang auf dem Kalsmunt ein.",
+"Er wurde begnadigt und ins Kloster geschickt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine milde Strafe für einen Hochstapler läge nahe. Doch König Rudolf von Habsburg zog vor Wetzlar und erzwang die Auslieferung von Tile Kolup. Er ließ ihn als Ketzer verbrennen, am 7. Juli 1285 oder kurz davor. Richtig war 1.",
+"quelle": "Neue Deutsche Biographie, deutsche-biographie.de",
+"faktencheck": "korrigiert",
+"id": "233-wetzlar/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wetzlar",
+"steckbrief": "Stadt an der Lahn mit rund 55.000 Einwohnern, 48 km südöstlich von Siegen.",
+"frage": "Nach dem Zweiten Weltkrieg bekam die Michaelskapelle am Dom eine Pfeifenorgel. Woraus entstand sie?",
+"optionen": [
+"Sie wurde ganz aus neuen Teilen gebaut.",
+"Sie war eine umgebaute Kinoorgel.",
+"Sie wurde aus Material zerstörter Kirchen gebaut.",
+"Sie war ein Geschenk einer amerikanischen Gemeinde."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Neubau liegt nahe, denn nach dem Krieg wurde vieles neu errichtet. Die Orgel entstand aber aus Material zerstörter Kirchen, vor allem aus der Domorgel. Selbst den Spieltisch barg man aus den Trümmern des Doms. Die Kapelle diente damals als Ersatz-Gottesdienstraum für den zerstörten Dom. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wetzlar",
+"faktencheck": "unsicher",
+"id": "233-wetzlar/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wetzlar",
+"steckbrief": "Stadt an der Lahn mit rund 55.000 Einwohnern, 48 km südöstlich von Siegen.",
+"frage": "Wetzlar beherbergt die weltweit größte öffentlich zugängliche Sammlung einer Literaturgattung. Welcher?",
+"optionen": [
+"Es ist eine Sammlung juristischer Schriften.",
+"Es ist eine Sammlung phantastischer Literatur.",
+"Es ist eine Sammlung optischer Fachliteratur.",
+"Es ist eine Sammlung von Kochbüchern."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Recht oder Optik liegen nahe, denn dafür ist Wetzlar bekannt. Die Phantastische Bibliothek sammelt jedoch Science Fiction, Fantasy, Horror, Utopien, Märchen, Sagen und Mythen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wetzlar",
+"faktencheck": "unsicher",
+"id": "233-wetzlar/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "232-solms",
+"anschluss": [
+"Einwohner: Wetzlar hat rund viermal so viele wie Solms."
+],
+"anschluesse": {
+"229-weilburg": [
+"Kreisgrenze: Weilburg gehört zum Landkreis Limburg-Weilburg, Wetzlar zum Lahn-Dill-Kreis.",
+"Wetzlar hat gut viermal so viele Einwohner wie Weilburg."
+],
+"230-loehnberg": [
+"Kreisgrenze: Löhnberg gehört zum Landkreis Limburg-Weilburg, Wetzlar zum Lahn-Dill-Kreis.",
+"Wetzlar hat zwölfmal so viele Einwohner wie Löhnberg."
+],
+"231-leun": [
+"Bundestagswahl 2025: In Leun lag die AfD vorn, in Wetzlar die CDU.",
+"Wetzlar hat fast zehnmal so viele Einwohner wie Leun."
+],
+"232-solms": [
+"Einwohner: Wetzlar hat rund viermal so viele wie Solms."
+],
+"234-lahnau": [
+"Wetzlar hat fast siebenmal so viele Einwohner wie Lahnau.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Lahnau die SPD, in Wetzlar die AfD."
+]
+},
+"ags": "06532023",
+"ortsteil": false,
+"km_vom_vorigen": 7.2
+},
+{
+"slug": "234-lahnau",
+"name": "Lahnau",
+"lat": 50.56667,
+"lon": 8.56667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahnau",
+"steckbrief": "Lahnau hat rund 8.100 Einwohner und liegt 51 km nördlich von Frankfurt am Main.",
+"frage": "Die Herren von Buseck kauften 1532 das ehemalige Kloster Dorlar. Wie begründete der Erzbischof von Trier seine Zustimmung zum Verkauf?",
+"optionen": [
+"Das Kloster sei der Ketzerei verfallen.",
+"Der Kaiser habe den Verkauf befohlen.",
+"Die Pest habe alle Mönche dahingerafft.",
+"Der Papst habe das Kloster aufgehoben."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Krieg, Seuche oder ein Machtwort von Kaiser oder Papst haben manches Kloster beendet, das liegt nahe. Das Kloster Dorlar aber hatte mit der Reformation geendet. Der Erzbischof von Trier genehmigte den Verkauf, „weil der Ketzerei verfallen“. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.lahnau.de/Leben-in-Lahnau/Geschichte/",
+"faktencheck": "unsicher",
+"id": "234-lahnau/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lahnau",
+"steckbrief": "Lahnau hat rund 8.100 Einwohner und liegt 51 km nördlich von Frankfurt am Main.",
+"frage": "Wie viele Einwohner kommen in Lahnau auf einen Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Lahnau besteht aus drei einst selbstständigen Dörfern an der Lahn – das klingt nach viel Feld und wenigen Menschen, also nach einer kleinen Zahl. Doch Lahnau liegt zwischen Gießen und Wetzlar, und auf jeden Quadratkilometer kommen 340 Einwohner. Richtig war 2.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "234-lahnau/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Lahnau",
+"steckbrief": "Lahnau hat rund 8.100 Einwohner und liegt 51 km nördlich von Frankfurt am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Atzbach, Dorlar und Waldgirmes besaßen gemeinsam einen Wald.",
+"Bei Atzbach wurde eine Schmiede der Keltenzeit ausgegraben.",
+"Die Waldgirmeser Kirche überstand den Dreißigjährigen Krieg unbeschadet."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Wald im Besitz mehrerer Dörfer klingt ausgedacht, stimmt aber: Den Königstuhl besaßen sie einst als gemeinsamen Markwald. Gelogen war die Kirche. Gegen Ende des Dreißigjährigen Kriegs plünderten marodierende Schweden die Waldgirmeser Kirche und zerstörten sie teilweise. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.lahnau.de/Leben-in-Lahnau/Geschichte/",
+"faktencheck": "bestätigt",
+"id": "234-lahnau/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lahnau",
+"steckbrief": "Lahnau hat rund 8.100 Einwohner und liegt 51 km nördlich von Frankfurt am Main.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Lahnau die stärkste Partei?",
+"optionen": [
+"unter 22 %",
+"22 bis unter 25 %",
+"25 bis unter 28 %",
+"28 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Vier Parteien kamen in Lahnau auf zweistellige Ergebnisse, da liegt für die stärkste eine eher niedrige Zahl nahe. Doch die CDU kam auf 29,5 Prozent der Zweitstimmen; die SPD folgte als zweitstärkste Partei. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "234-lahnau/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahnau",
+"steckbrief": "Lahnau hat rund 8.100 Einwohner und liegt 51 km nördlich von Frankfurt am Main.",
+"frage": "Das Heimatmuseum Waldgirmes ist ein ehemaliges Schulhaus. Woraus besteht sein Mauerwerk?",
+"optionen": [
+"Es besteht aus ungebrannten Lehmziegeln.",
+"Es besteht aus gebrannten Backsteinen.",
+"Es besteht aus behauenem Sandstein.",
+"Es besteht aus dunklen Basaltsteinen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Schulhaus, das bis heute steht, traut man eher Stein oder Backstein zu – Lehm klingt vergänglich. Doch das Mauerwerk des Waldgirmeser Schulhauses besteht aus ungebrannten Lehmziegeln, sogenannten Adoben, und der Bau ist ein Kulturdenkmal. Auf Initiative von Hedwig Schmidt wurde es Heimatmuseum. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.lahnau.de/Kultur-Vereine/Museen/Heimatmuseum/",
+"faktencheck": "korrigiert",
+"id": "234-lahnau/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Lahnau",
+"steckbrief": "Lahnau hat rund 8.100 Einwohner und liegt 51 km nördlich von Frankfurt am Main.",
+"frage": "Welche Stadt ist Partnerstadt der Gemeinde Lahnau?",
+"optionen": [
+"Colchester in England",
+"Wincanton in England",
+"Avignon in Frankreich",
+"Siena in Italien"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Klangvolle Namen wie Avignon oder Siena liegen nahe, denn mancher Ort schmückt sich gern mit einer berühmten Partnerstadt. Lahnau, eine Gemeinde aus drei einst selbstständigen Dörfern, ist mit dem englischen Wincanton verbunden. Richtig war 2.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "234-lahnau/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahnau",
+"steckbrief": "Lahnau hat rund 8.100 Einwohner und liegt 51 km nördlich von Frankfurt am Main.",
+"frage": "Das Heimatmuseum Waldgirmes zeigt die Gussform eines Reiterstandbilds. Wen stellt das Standbild dar?",
+"optionen": [
+"Es stellt Kaiser Karl den Großen dar.",
+"Es stellt Kaiser Wilhelm I. dar.",
+"Es stellt den römischen Kaiser Augustus dar.",
+"Es stellt König Konrad I. dar."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Reiterstandbild im hessischen Dorfmuseum lässt eher an Karl den Großen oder Kaiser Wilhelm denken, deren Reiterbilder vielerorts stehen. Doch der Braunfelser Künstler Heinrich Janke schuf ein Reiterstandbild des römischen Kaisers Augustus. Dessen Gussform steht in der Remise, einem Nebengebäude des Museums. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.lahnau.de/Kultur-Vereine/Museen/Heimatmuseum/",
+"faktencheck": "korrigiert",
+"id": "234-lahnau/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahnau",
+"steckbrief": "Lahnau hat rund 8.100 Einwohner und liegt 51 km nördlich von Frankfurt am Main.",
+"frage": "Am Eberacker bei Dorlar lag um 10 v. Chr. ein Feldlager. Wessen Lager war es?",
+"optionen": [
+"Germanische Chatten hatten dort ihr Lager.",
+"Römische Truppen hatten dort ihr Lager.",
+"Keltische Krieger hatten dort ihr Lager.",
+"Germanische Sueben hatten dort ihr Lager."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Rechts des Rheins denkt man eher an Germanen oder Kelten, weil Rom meist am Rhein endete. Doch Grabungen der Römisch-Germanischen Kommission wiesen am Eberacker ein römisches Feldlager nach, aus der Zeit der Drususfeldzüge. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.lahnau.de/Leben-in-Lahnau/Geschichte/",
+"faktencheck": "bestätigt",
+"id": "234-lahnau/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahnau",
+"steckbrief": "Lahnau hat rund 8.100 Einwohner und liegt 51 km nördlich von Frankfurt am Main.",
+"frage": "1333 kamen Atzbach und Dorlar an Nassau-Weilburg. Wie gelangte Graf Johann an die beiden Dörfer?",
+"optionen": [
+"Er kaufte sie Graf Hartrad VI. ab.",
+"Er eroberte sie in einer Fehde mit Merenberg.",
+"Er bekam sie als Pfand von Merenberg.",
+"Er heiratete Gertrud von Merenberg."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Kauf, Pfand oder Fehde – so wechselten Dörfer im Mittelalter oft den Herrn, das liegt nahe. Hier entschied eine Hochzeit: Mit dem Tod Hartrads VI. erlosch die männliche Linie der Merenberger. Seine Tochter Gertrud heiratete Graf Johann von Nassau-Weilburg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.lahnau.de/Leben-in-Lahnau/Geschichte/",
+"faktencheck": "bestätigt",
+"id": "234-lahnau/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahnau",
+"steckbrief": "Lahnau hat rund 8.100 Einwohner und liegt 51 km nördlich von Frankfurt am Main.",
+"frage": "Im Jahr 1866 wechselte Waldgirmes den Staat und wurde preußisch. Welchen Grund nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Sein bisheriger Staat hatte einen Krieg verloren.",
+"Preußen hatte das Dorf seinem Landesherrn abgekauft.",
+"Eine Fürstenhochzeit hatte das Dorf an Preußen gebracht.",
+"Preußen hatte das Dorf nach einem Erbfall übernommen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kauf, Heirat und Erbe waren lange die üblichen Wege, auf denen Dörfer den Herrn wechselten – das liegt nahe. Doch für Waldgirmes entschied ein Krieg: Sein bisheriger Staat hatte den Deutschen Krieg verloren, und das Dorf kam an Preußen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.lahnau.de/Leben-in-Lahnau/Geschichte/",
+"faktencheck": "bestätigt",
+"id": "234-lahnau/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "233-wetzlar",
+"anschluss": [
+"Einwohner: Wetzlar hat fast siebenmal so viele wie Lahnau.",
+"Bundestagswahl 2025: Lahnau hatte 85,1, Wetzlar 77,8 Prozent Wahlbeteiligung."
+],
+"anschluesse": {
+"231-leun": [
+"Bundestagswahl 2025: In Leun lag die AfD vorn, in Lahnau die CDU.",
+"Lahnau hat fast anderthalbmal so viele Einwohner wie Leun."
+],
+"232-solms": [
+"Solms hat gut anderthalbmal so viele Einwohner wie Lahnau.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Solms die AfD, in Lahnau die SPD."
+],
+"233-wetzlar": [
+"Einwohner: Wetzlar hat fast siebenmal so viele wie Lahnau.",
+"Bundestagswahl 2025: Lahnau hatte 85,1, Wetzlar 77,8 Prozent Wahlbeteiligung."
+]
+},
+"ags": "06532015",
+"ortsteil": false,
+"km_vom_vorigen": 4.7
 }
 ]
 }

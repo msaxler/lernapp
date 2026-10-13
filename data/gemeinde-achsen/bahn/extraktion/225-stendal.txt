@@ -1,0 +1,593 @@
+ENTITÄT: ort
+BEZEICHNUNG: Stendal
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  ist_kreisstadt: true
+  einwohner_aktuel: 37750
+  region: Altmark
+  bundesland: Sachsen-Anhalt
+  entfernung_berlin: 120 [km]
+  entfernung_hannover: 150 [km]
+  entfernung_leipzig: 160 [km]
+  entfernung_hamburg: 180 [km]
+  entfernung_magdeburg: 55 [km]
+  amtlicher_beiname: Hansestadt
+  hanse_zugehoerigkeit: 1358-1518
+  groesse_stadtteil_kernstadt_plus_ortschaften: 19
+  superlativ: größte Stadt in der Altmark
+  niederschlag_jahresmittel_1981_2010: 493 [mm]
+  niederschlag_jahresmittel_1999_2019: 685 [mm]
+  temperatur_juli: 19.7 [°C]
+  temperatur_januar: 1.3 [°C]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolaus (Dom)
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  stil: Backsteingotik
+  baustart: 1423
+  standort_vorher: ehemalige Stendaler Burg (seit 1215)
+  beschaedigung_wwii: teilweise zerstört (Kreuzgang, Fresken, Blendmaßwerk, Gitterfriese)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien (Kaufmannskirche)
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  stil: Backsteingotik
+  erste_urkundliche_erwaehnung: 1283
+  glocken_1917_eingeschmolzen: 1 Glocke für Rüstung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Jacobi
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  stil: Backsteingotik
+  gruendung: 12. Jahrhundert
+  gueltig_ab: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Petri
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  stil: Backsteingotik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Anna
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  stil: spätgotisch
+  bauzeit: 15. Jahrhundert
+  standort: Mönchskirchhof
+  vorgaenger_funktion: Kirche des Franziskanerinnen-Klosters
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: St.-Katharinen-Kloster
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1456
+  gruender: Kurfürst Friedrich II.
+  urspruengliche_nutzung_1456: Benediktinerinnen, dann 1469 Augustinerinnen, nach 1500 evangelische Benediktinerinnen
+  heutige_nutzung: Konzerthalle Musikforum und Altmärkisches Museum
+GUELTIG_AB: 1456
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Franziskanerkloster
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  baustart: 1230
+  standort: Mönchskirchhof
+  refektorium_bauzeit: 14. Jahrhundert
+  refektorium_heutige_nutzung: Stadtbibliothek Stendal
+GUELTIG_AB: 1230
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 15. Jahrhundert in mehreren Abschnitten
+  bauteile: Gewandhaus, Chor, Seitenflügel
+  vertafelung_rathausfestsaal: fertiggestellt 1462
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: befestigung
+BEZEICHNUNG: Tangermünder Tor
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: um 1300
+  erhaltungszustand: erhalten und besichtigbar
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: befestigung
+BEZEICHNUNG: Uenglinger Tor
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1440
+  erhaltungszustand: erhalten und besichtigbar
+GUELTIG_AB: 1440
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: befestigung
+BEZEICHNUNG: Pulverturm
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: um 1450
+  bauweise: Sockel aus Findlingen
+  fruehe_nutzung: Wehranlage
+  nutzung_ab_1722: Pulvermagazin
+  renovierung: 1990
+GUELTIG_AB: 1450
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kaufhaus (historisch)
+ORTSTIEL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1188
+  standort: Marktplatz
+  baustoff: Ziegelstein-Mauerwerk
+  laenge: ca. 60 [m]
+  superlativ: ältestes Kaufhaus und eines der größten und bedeutendsten nördlich der Alpen
+GUELTIG_AB: 1188
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Lateinschule Brüderstraße
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1338
+  nachfolger: Gymnasium
+  beruechtigter_schueler: Johann Joachim Winckelmann (Archäologe), Besuch 1726-1736
+GUELTIG_AB: 1338
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Stendal Hauptbahnhof
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1871
+  baustart: 1869
+  bedeutung: wichtigster SPNV-Knoten im Norden Sachsen-Anhalts
+GUELTIG_AB: 1871
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Magdeburg–Stendal–Wittenberge
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1849
+GUELTIG_AB: 1849
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: werkstatt
+BEZEICHNUNG: Reichsbahn-Ausbesserungswerk Stendal (RAW)
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  entstehung_aus: Eisenbahn-Hauptwerkstatt (errichtet 1873)
+  umwandlung_von: 1881 Übergang auf Königlich Preußische Eisenbahn, nach 1920 zu RAW
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kaserne
+BEZEICHNUNG: Husaren-Kaserne
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1905
+  standort: ehemalige Gardeleger Straße (heute Scharnhorststraße)
+  erster_bewaehner: Magdeburgisches Husaren-Regiment Nr. 10 (ab 1884 in Stendal)
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: flugplatz
+BEZEICHNUNG: Flugplatz Stendal-Borstel
+ORTSTEIL_BEZUG: Borstel
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  fallschirmschule_aufstellung: 1936
+  fallschirmjaeger_ausbildung_bis: 1944
+  notable_absolvent: Max Schmeling (Boxer)
+  sonderkommando_elbe_start: 7. April 1945
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: flugplatz
+BEZEICHNUNG: Verkehrslandeplatz Stendal (EDOV)
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  rang: meistfrequentierter Flugplatz Sachsen-Anhalts
+  nutzer: Sportfliegerei, Geschäftsflieger, Bundespolizei, Bundeswehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Winckelmann-Museum
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  standort: Geburtshaus von Johann Joachim Winckelmann
+  ausstellungsbereich: Archäologie, Kunstgeschichte 18.–19. Jahrhundert bis Moderne
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Altmärkisches Museum
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1888
+  standort: ehemalige Katharinenkloster-Gebäude
+  sammelschwerpunkte: Geschichte und Kulturgeschichte von Stendal und Altmark
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: theater
+BEZEICHNUNG: Theater der Altmark
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1946
+  schwerpunkt: Kinder- und Jugendtheater
+  funktion: kulturelles Zentrum der Stadt und Region
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: tiergarten
+BEZEICHNUNG: Tiergarten Stendal
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  groesse: ca. 6 [Hektar]
+  standort: am Stadtsee
+  wiederoeffnung: 1952
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Roland
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  aufstellung: 1525
+  standort: Rathaus
+GUELTIG_AB: 1525
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Baudenkmal für Deutsche Einheit
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 27. September 2014
+  standort: Ostpark zwischen Ostwall und Parkstraße
+  pflanzung_durch: Oberbürgermeister Klaus Schmotz mit Gästen aus Partnerstadt Lemgo
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: muenzstaette
+BEZEICHNUNG: Münzstätte Stendal
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  praegezeitraum: 1192-1543
+  gepraegte_muenzen: Stendaler Mark, Stendaler Silber
+  qualitaet_silber: wegen hoher Qualität weit akzeptiert
+  superlativ: neben Brandenburg an der Havel älteste Münzstätte der Mark Brandenburg
+GUELTIG_AB: 1192
+GUELTIG_BIS: 1543
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gilde
+BEZEICHNUNG: Stendaler Seefahrergilde
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  bildung: 13. Jahrhundert
+  aktivitaet: Handel mit eigenen Schiffen im Ost- und Nordseeraum
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Stendaler Aufruhr
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1530
+  charakter: die einzigen zweifelsfrei religiös motivierten Unruhen am Vorabend der Reformation in Brandenburg
+GUELTIG_AB: 1530
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: epidemie
+BEZEICHNUNG: Pestepidemie
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1682
+  todesfaelle_insgesamt: 1205
+  todesfaelle_kinder: 537
+GUELTIG_AB: 1682
+GUELTIG_BIS: 1682
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Stendaler Pferdebahn
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  betriebsende: 1926
+  betriebsdauer: 34 Jahre
+GUELTIG_AB: 1892
+GUELTIG_BIS: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kraftwerk
+BEZEICHNUNG: Kernkraftwerk Stendal
+ORTSTEIL_BEZUG: nördlich von Stendal
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  baustart: 1974
+  baustopp: 17. September 1990
+  betriebsstatus: nie in Betrieb gegangen
+  abriss: nach Wiedervereinigung beschlossen und durchgeführt
+GUELTIG_AB: 1974
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stendal-Stadtsee
+ORTSTEIL_BEZUG: Stadtsee
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_ende_2017: 10223
+  superlativ: einwohnerreichster Stadtteil
+  soziale_charakter: sozialer Brennpunkt
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Puławy
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Lemgo
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Svitavy
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  land: Tschechien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Grenoble
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  beziehung_zu_stendhal: Geburtsort des Schriftstellers Marie-Henri Beyle (Pseudonym Stendhal)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule Magdeburg-Stendal (h²)
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  typ: Fachhochschule
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: 1. FC Lok Stendal
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+  heimstadion: Stadion am Hölzchen (Wilhelm-Helfers-Kampfbahn)
+  stadion_kapazitaet: 6000
+  stadion_sitze: 1000
+  wettbewerb_aktuell_seit_2025_26: Fußball-Oberliga Nordost
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Stendaler Hanse-Cup
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  seit: 2013
+  standort: Stadion am Galgenberg
+  beschreibung: internationale Leichtathletik-Veranstaltung für Senioren-Mehrkämpfer
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: begruender
+BEZEICHNUNG: Albrecht der Bär
+ORTSTEIL_BEZUG: Stendal
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  titel: Markgraf von Brandenburg
+  gruendung_stadt: um 1160
+  gruendung_massnahmen: gründete Markt, verlieh Magdeburger Stadtrecht
+  lebensdaten: um 1100–1170
+GUELTIG_AB: 1160
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: oberbuergermeister
+BEZEICHNUNG: Klaus Schmotz
+ORTSTEIL_BEZUG: Stendal
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 2001-2022
+  parteiaffiliaeti on: CDU
+  wahlresultat_2001: 74.9 Prozent
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: oberbuergermeister
+BEZEICHNUNG: Bastian Sieler
+ORTSTEIL_BEZUG: Stendal
+QUELLE: https://de.wikipedia.org/wiki/Stendal | Wikipedia
+EIGENSCHAFTEN:
+  wahltermin: 24. April 2022
+  wahlresultat: 55.2 Prozent
+  parteiaffiliaeti on: parteilos
+  amtsdauer: 7 Jahre
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

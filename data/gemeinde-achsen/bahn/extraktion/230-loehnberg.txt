@@ -1,0 +1,184 @@
+ENTITÄT: ort
+BEZEICHNUNG: Löhnberg
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/rathaus/daten-zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtlicher_name: Gemeinde Löhnberg
+  postleitzahl: 35792
+  einwohner: 2846
+  einwohner_einheit: Ortsteil (Stand 01.07.2025)
+  telefon_vorwahl: 06471
+  landkreis: Limburg-Weilburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Niedershausen
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/rathaus/daten-zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1009
+  einwohner_einheit: (Stand 01.07.2025)
+  telefon_vorwahl: 06471
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Obershausen
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/rathaus/daten-zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 555
+  einwohner_einheit: (Stand 01.07.2025)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Selters
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/rathaus/daten-zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 309
+  einwohner_einheit: (Stand 01.07.2025)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burganlage
+BEZEICHNUNG: Laneburg
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/rathaus/geschichte-der-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe_felssporn: 166
+  hoehe_felssporn_einheit: m
+  lage_ufer: westlich der Lahn
+  erste_nennung_jahr: 1324
+  brand_jahr: 1900
+  zustand_nach_brand: Ruine
+  beschreibung: prägt die Landschaft
+GUELTIG_AB: 1324
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+DESIGNAT ION: Kirche Niedershausen
+ORTSTEIL_BEZUG: Niedershausen
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/rathaus/geschichte-der-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit_beginn: ca. 912-933
+  genauigkeit: vermutlich
+  quelle_nennung: Urkunde
+GUELTIG_AB: 912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Mehrgenerationenhaus Löhnberg
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/rathaus/mehrgenerationenhaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1905
+  bauart: denkmalgeschützter Vierkanthof
+  denkmalbuch_bezeichnung: Städtischer Hof
+  volkstümliche_bezeichnung: Ochsenstall
+  grund_errichtung: Versicherungssumme aus Brandversicherung der Laneburg nach Brand 1900
+  bauamt_bezeichnung: Gehöftanlage Löhnberg
+  aufgenommen_bundesprogram: 2006
+  aufgenommen_bundesprogram_name: Mehrgenerationenhäuser (Bundesfamilienministerium)
+  initiative_lokale_buendnisse_beitritt: 2010
+  motto: Alt für Jung, Jung für Alt
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: muenzschatz
+BEZEICHNUNG: Münzschatz Laneburg
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/politik/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_muenzen: 211
+  material: Silber
+  entdeckung_jahr: 2000
+  entdeckung_kontext: Sanierungsarbeiten Schloss Laneburg
+  entdeckung_datum: 15. März 2000
+  fundstelle: Außenmauer, ca. 2 m rechts vom sog. Landgräflichen Turm
+  schlussmünze: 24 Mariengroschen 1687 aus Zellerfeld
+  vermutliche_verbergung: 1687-1688
+  vermutlicher_besitzer: Johann Philipp Diehler oder Person aus seinem sozialen Umfeld
+  amtskeller_residenz_zeitraum: 1683-1709
+  grund_verbergung: Unruhen durch französische Truppen, Pfälzischer Erbfolgekrieg (1688-1697), Befürchtung von Franzoseneinfall
+  präsentation_öffentlichkeit: Kreissparkasse (Geschäftsstelle)
+  präsentation_dauerhafte_stätte_ab: 2010
+  präsentation_dauerhafte_stätte: Geschäftsräume Kreissparkasse Weilburg Löhnberg
+  eigen tum: Gemeinde Löhnberg
+GUELTIG_AB: 1687
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Wassermuseum Löhnberg
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/politik/loehnberger-wassermuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeoffnung: 2015
+  konzeption_partner: Institut für Biologiedidaktik Justus-Liebig-Universität Gießen
+  lage: Areal des Mehrgenerationenhauses
+  geopunkt_seit: 2017
+  geopunkt_name: Geopark Westerwald-Lahn-Taunus
+  stationen: 5
+  thema: Wasser
+  schwerpunkte: Trinkwasserversorgung, Naturraum Lahn und Kallenbach, Kurbadgebiet Obershausen, Selters Mineralquellen, Fossilien
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: mineralquelle
+BEZEICHNUNG: Selters Mineralquellen
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/politik/loehnberger-wassermuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bekannheit: weltweit bekannt
+  brunnenanlage_original: 1888
+  brunnenanlage_erweiterung: 1894
+  kohlensäurewerk: 1902
+  neuselters: 1906
+  augusta_victoria: 1896
+  selters_augusta_victoria: 1905
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Obershausen
+ORTSTEIL_BEZUG: Obershausen
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/rathaus/geschichte-der-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung_jahr: 1307
+  erste_nennung_kontext: Tauschurkunde (Tausch von Leibeigenen)
+  lateinische_bezeichnung: Superio Rulshusen
+GUELTIG_AB: 1307
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Selters
+ORTSTEIL_BEZUG: Selters
+QUELLE: https://gemeinde-loehnberg.de/freizeit-erleben/rathaus/geschichte-der-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Römisches "Aqua Saltare" für sprudelndes, "tanzendes" Wasser
+  römische_präsenz_zeitraum: 50 v. Chr. bis 475 n. Chr.
+  beschreibung: Stellen, an denen sprudelndes Wasser aus der Tiefe an die Oberfläche dringt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

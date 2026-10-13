@@ -1,0 +1,448 @@
+ID: 234-lahnau/001
+ENTITÄT: ort
+BEZEICHNUNG: Lahnau
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1979-08-01
+  gründungsart: fusion
+  grund_fusion: drei ehemals selbstständige Dörfer
+  bestandteile: Atzbach, Dorlar, Waldgirmes
+  lage: zwischen Gießen und Wetzlar, nördliche Lahnseite
+  verkehrserreichbarkeit: beschreibung: gute Busverbindungen nach Gießen und Wetzlar, B 49 Auffahrt in Dorlar, Autobahnnetz
+  bevölkerung: 8100
+  genauigkeit: ca.
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 234-lahnau/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Atzbach
+ORTSTEIL_BEZUG: Atzbach
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 774
+  urkundlicher_name: Ettisbach
+  quelle_urkunde: Codex Laurishamensis, 15. Dezember
+  gründungszeit: 5.-8. Jahrhundert
+  gründungsart: fränkische Siedlung
+  namensherkunft: "Ettis" vermutlich keltischen Ursprungs, bezieht sich auf das Gewässer
+  endsilbe_bach: altgermanisches Wort
+GUELTIG_AB: 774
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 234-lahnau/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dorlar
+ORTSTEIL_BEZUG: Dorlar
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungszeit: 4. Jahrhundert
+  gründungsart: vorfränkische Siedlung
+  ortstyp: "lar"-Ort
+  erste_urkundliche_erwähnung: 1258
+  urkundliche_rolle: Mutterkirche für Atzbach, Naunheim, Waldgirmes (8. Jh. im Lorscher Codex genannte Dörfer)
+  etymologie_lar: "Leere", Herkunft und Bedeutung strittig
+GUELTIG_AB: 400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 234-lahnau/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Waldgirmes
+ORTSTEIL_BEZUG: Waldgirmes
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nationale_zugehörigkeit_wechsel: 1866
+  grund_wechsel: Deutscher Krieg 1866 verloren
+  neue_nation: Preußen
+GUELTIG_AB: 1866
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 234-lahnau/005
+ENTITÄT: kirche
+BEZEICHNUNG: Dorlarer Kirche
+ORTSTEIL_BEZUG: Dorlar
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: um 1218
+  grund_gründung: Brandkatastrophe
+  baustil: frühgotisch
+  frühere_funktion: Eigenkirche der Merenberger und deren Begräbnisstätte
+  ersterwähnung_als_eigenkirche: 13. Jahrhundert
+  kirchenspiel_bildung: 1610 (mit Atzbach)
+  kirchenspiel_gültig_bis: 1959
+GUELTIG_AB: 1218
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 234-lahnau/006
+ENTITÄT: kirche
+BEZEICHNUNG: Waldgirmeser Kirche
+ORTSTEIL_BEZUG: Waldgirmes
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: evangelisch
+  bauzeit: Mitte 14. Jahrhundert
+  dachreiter_typ: welscher Dachreiter
+  dachreiter_bauzeit: Mitte 17. Jahrhundert
+  beschädigung_dreißigjähriger_krieg: Plünderung und teilweise Zerstörung durch marodierende Schweden gegen Ende des Krieges
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 234-lahnau/007
+ENTITÄT: wald
+BEZEICHNUNG: Königstuhl
+ORTSTEIL_BEZUG: Waldgirmes, Dorlar, Atzbach
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historische_namen: Spitzenberg, Hämuskopf, Himberg
+  walmart: Markwaldungen
+  gemeinsamer_besitz: Atzbach, Dorlar, Waldgirmes
+  erste_teilung: vor 1585
+  erste_teilung_grund: Rodheimer Mark
+  endgültige_teilung: 1766
+  aussteinung_vertrag: 11. August 1773
+  grenzsteine: teilweise noch vorhanden
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 234-lahnau/008
+ENTITÄT: kloster
+BEZEICHNUNG: Prämonstratenser-Nonnenkloster Dorlar
+ORTSTEIL_BEZUG: Dorlar
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1297
+  gründer: Merenberger
+  einweihung: 1304
+  oberhoheit: Abt des Klosters Rommersdorf bei Neuwied
+  umwandlung_zu_mönchskloster: 1437
+  grund_umwandlung: wirtschaftliche Gründe
+  bestand_bis: 1526
+  grund_ende: Reformation Oktober 1526
+  mönche_zahl_ende: 3-4
+  verkauf: 12. März 1532
+  verkauft_an: Herren von Buseck
+  kaufpreis: 2300 Gulden
+  genehmigung_verkauf: 1531 durch Erzbischof Trier
+  genehmigungsgrund: "weil der Ketzerei verfallen"
+GUELTIG_AB: 1297
+GUELTIG_BIS: 1532
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 234-lahnau/009
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Merenberger
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  territorium: Atzbach, Dorlar
+  übernahme_zeitpunkt: um 1180
+  grund_übernahme: Erbschaft von Hermann III. (östliche Hälfte Grafschaft Gleiberg)
+  patronatsrechte_kirchen: Atzbach, Waldgirmes, Naunheim (Mitte 13. Jahrhundert)
+  aussterben: 1328
+  aussterben_grund: männliche Linie erlosch (Hartrad VI.)
+  aussterben_folge: Übergang an Nassau-Weilburg durch Heirat Gertruds mit Graf Johann 1333
+GUELTIG_AB: 1180
+GUELTIG_BIS: 1328
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 234-lahnau/010
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Nassau-Weilburg
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  übernahme_gebiet: Atzbach, Dorlar
+  übernahme_datum: 1333
+  übernahme_grund: Heirat Gertruds von Merenberg mit Graf Johann von Nassau-Weilburg
+  herrschaft_dauer: bis 1816
+  herrschaftsende_grund: Übergang an Preußen
+GUELTIG_AB: 1333
+GUELTIG_BIS: 1816
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 234-lahnau/011
+ENTITÄT: person
+BEZEICHNUNG: Hartrad VI.
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Graf der Merenberger
+  tod: 1328
+  grund_bedeutsamkeit: mit seinem Tod erlosch die männliche Linie der Merenberger
+  nachfolge: Tochter Gertrud heiratete Graf Johann von Nassau-Weilburg
+GUELTIG_BIS: 1328
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 234-lahnau/012
+ENTITÄT: person
+BEZEICHNUNG: Otto
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: von Konradiner-Familie, vermutlich Graf
+  zeitraum: 911-918
+  aktion: veranlasste vermutlich Errichtung der Burg Gleiberg
+  bruder: Graf Konrad (König Konrad I., 911-918)
+GUELTIG_AB: 911
+GUELTIG_BIS: 918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 234-lahnau/013
+ENTITÄT: person
+BEZEICHNUNG: König Konrad I.
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: König des Deutschen Reiches
+  zeitraum: 911-918
+  herkunft: Graf Konrad, Sohn von Konradiner, Bruder Ottos
+GUELTIG_AB: 911
+GUELTIG_BIS: 918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 234-lahnau/014
+ENTITÄT: person
+BEZEICHNUNG: Hedwig Schmidt
+QUELLE: https://www.lahnau.de/Kultur-Vereine/Museen/Heimatmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1914-12-08
+  tod: 1980-05-25
+  rolle: Initiatorin Heimatmuseum
+  anlass: 1200-Jahr-Feier Waldgirmes 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 234-lahnau/015
+ENTITÄT: person
+BEZEICHNUNG: Karl-Heinz Wagner
+QUELLE: https://www.lahnau.de/Kultur-Vereine/Museen/Heimatmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kunstwerk: Guaschgemälde
+  standort_kunstwerk: Nordseite Heimatmuseum Waldgirmes
+  inhalt_kunstwerk: wirtschaftliche Erwerbsquellen der Heimat in den letzten 200 Jahren
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 234-lahnau/016
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Janke
+QUELLE: https://www.lahnau.de/Kultur-Vereine/Museen/Heimatmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wohnort: Braunfels
+  kunstwerk: Gussform des Reiterstandbildes Kaiser Augustus
+  standort_bronzeguss: Römerforum
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 234-lahnau/017
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Waldgirmes
+ORTSTEIL_BEZUG: Waldgirmes
+QUELLE: https://www.lahnau.de/Kultur-Vereine/Museen/Heimatmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alternativname: Hedwig Schmidt Haus
+  standort_adresse: Friedenstraße 20, 35633 Lahnau
+  gründung: 1971-05-29
+  gründungsanlass: 1200-Jahr-Feier Waldgirmes
+  gründungsinitiator: Hedwig Schmidt
+  gebäude_frühere_funktion: Schulhaus
+  gebäude_baujahr: 1840-1841
+  gebäude_baustil: klassizistisch
+  gebäude_konstruktion: ca. 350000 ungebrannte Lehmziegel (Adoben) mit seltenen "Ganzen Windelböden"
+  gebäude_bedeutung: Kulturdenkmal
+  ausstellungsfläche_gebäude: 530 qm
+  ausstellungsfläche_hof: 350 qm
+  erweiterung_lehrerwohnung: 1977
+  erweiterung_speicher: 1986
+  erweiterung_scheune1: 1989
+  erweiterung_scheune2: 1991
+  nachbau_leiternhaus: 1994
+  erweiterung_remise: 2006
+  gussform_standort: Remise
+  gussform_künstler: Heinrich Janke (Braunfels)
+  gussform_motiv: Reiterstandbild Kaiser Augustus
+  hofreite_kern: 1620
+  hofreite_bauweise: Fachwerk
+  scheune_bauweise: Fachwerk
+  scheune_baujahr: 19. Jahrhundert
+  brunnen: historischer Brunnen mit Brunnenhäuschen
+  kirchengebäude_im_hof: evangelische Gemeindekirche Waldgirmes (Mitte 14. Jh.)
+  telefon: 06441/64522
+  öffnungszeiten: Mittwochs 15-17 Uhr, März-Oktober jeden ersten Sonntag 15-17 Uhr, nach Vereinbarung
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 234-lahnau/018
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Faustkeil
+ORTSTEIL_BEZUG: Atzbach
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: ca. 49000 v. Chr.
+  genauigkeit: ca.
+  bedeutung: gehört zu den ältesten Artefakten Hessens
+  superlativ: älteste Artefakte Hessens
+  fundort: Gemarkung Atzbach
+GUELTIG_AB: -49000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 234-lahnau/019
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Schmiede aus der Keltenzeit
+ORTSTEIL_BEZUG: Atzbach
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 3. Jahrhundert v. Chr.
+  fundort: nordöstlich des alten Atzbach
+  ausgrabung: 2000
+  bedeutung: besondere archäologische Bedeutung
+GUELTIG_AB: -300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 234-lahnau/020
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: römisches Feldlager
+ORTSTEIL_BEZUG: Dorlar
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: um 10 v. Chr.
+  fundort: Eberacker bei Dorlar
+  historischer_kontext: Zeit der Drususfeldzüge
+  nachweis: archäologische Grabungen Römisch-Germanische Kommission Frankfurt am Main 1991-1992
+  legionsstärke: ja
+GUELTIG_AB: -10
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 234-lahnau/021
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Kirchenbau
+ORTSTEIL_BEZUG: Dorlar
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Mitte 8. Jahrhundert
+  nachweis: archäologische Grabungen Landesamt für Denkmalpflege 1985-1986
+GUELTIG_AB: 750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 234-lahnau/022
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Taufstein
+ORTSTEIL_BEZUG: Dorlar
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 12. Jahrhundert
+  standort: Dorlarer Kirche
+  zeitbestimmung_durch: Kirchenhistoriker Peter Weyrauch, Darmstadt
+  quelle_zeitbestimmung: Jahrbuch Heimatkundliche Arbeitsgemeinschaft Lahntal e.V. Nr. 7, Seite 62
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 234-lahnau/023
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Dorlar/Atzbach
+ORTSTEIL_BEZUG: Dorlar, Atzbach
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Bürgerservice/Kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrerin: Manuela Bünger
+  pfarramt_adresse: Bahnhofstr. 2, 35633 Lahnau
+  telefon: 06441/61395
+  website: www.gemeinde-lebt.de
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 234-lahnau/024
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Waldgirmes
+ORTSTEIL_BEZUG: Waldgirmes
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Bürgerservice/Kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrer: Daniel Cremers
+  pfarrer_telefon: 06441-669270
+  pfarrer_email: daniel.cremers@ekhn.de
+  pfarrerin: Esther Reininghaus-Cremers
+  pfarrerin_telefon: 06441-669271
+  pfarrerin_email: esther.reininghaus-cremers@ekhn.de
+  pfarramt_adresse: Pestalozzistraße 5, 35633 Lahnau
+  gemeindebüro: Pestalozzistr. 7, 35633 Lahnau
+  telefon_zentrale: 06441/66000
+  fax: 06441/6690557
+  email: kirchengemeinde.waldgirmes@ekhn.de
+  website: https://ev-kirchengemeinde-waldgirmes.dekanat-big.de/
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 234-lahnau/025
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde Mariä Schmerzen
+ORTSTEIL_BEZUG: Atzbach, Dorlar, Waldgirmes
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Bürgerservice/Kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindereferentin: Alexandra Mühl
+  pfarrer: Ernst Martin Benner
+  adresse: Auweg 1, 35633 Lahnau
+  telefon: 06409 6628820, 06441 4470911
+  email: st.anna@biebertal.bistumlimburg.de
+  website: https://www.sankt-anna-biebertal.de/
+  zuständig_für: Atzbach, Dorlar, Waldgirmes, Wetzlar-Dutenhofen, Wetzlar-Münchholzhausen
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 234-lahnau/026
+ENTITÄT: fläche_statistik
+BEZEICHNUNG: Flächenverteilung Lahnau gesamt
+QUELLE: https://www.lahnau.de/Wirtschaft/Standort-in-Lahnau/Zahlen-Daten-und-Fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gesamtfläche_qm: 23934774
+  wohn_gewerbe_fläche_qm: 2265061
+  sport_grünanlagen_qm: 205466
+  verkehrsflächen_qm: 2037810
+  landwirtschaftliche_flächen_qm: 10284711
+  wald_qm: 8565242
+  wasserflächen_qm: 390953
+  sonstige_flächen_qm: 185531
+  gemeindeeigentum_qm: 10741226
+  stand: 2011-12
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 234-lahnau/027
+ENTITÄT: impfzentrum
+BEZEICHNUNG: Impfzentrum Lahn-Dill-Kreis
+ORTSTEIL_BEZUG: Lahnau
+QUELLE: https://www.lahnau.de/Kurzmenü/Impfzentrum-in-Lahnau-endgültig-geschlossen.php?ModID=255&FID=2996.1652.1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unterkunft: Lahnauhalle
+  letzter_öffnungstag: 2021-09-30
+  schließung: 2021-10-01
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 234-lahnau/028
+ENTITÄT: geschichtsverein
+BEZEICHNUNG: Geschichtsverein Lahnau
+QUELLE: https://www.lahnau.de/Kultur-Vereine/Museen/Heimatmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  website: www.geschichtsverein-lahnau.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 234-lahnau/029
+ENTITÄT: ort
+BEZEICHNUNG: Naunheim
+QUELLE: https://www.lahnau.de/Leben-in-Lahnau/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Dorf, Nachbar von Waldgirmes
+  kirche_patronatsrecht: Merenberger (Mitte 13. Jahrhundert)
+  kirchenspiel: mit Waldgirmes (ab 1610 bis 1959)
+VERTRAUEN_EXTRAKTION: 0.7

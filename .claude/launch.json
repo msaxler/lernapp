@@ -6,6 +6,12 @@
       "runtimeExecutable": "python",
       "runtimeArgs": ["-m", "http.server", "8765", "--directory", "apps/quizaway"],
       "port": 8765
+    },
+    {
+      "name": "quizaway-reise",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8766", "--directory", "apps/quizaway-reise/artifact"],
+      "port": 8766
     }
   ]
 }

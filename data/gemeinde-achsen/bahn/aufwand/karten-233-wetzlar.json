@@ -1,0 +1,50 @@
+{
+ "stufe": "karten",
+ "ort": "233-wetzlar",
+ "prompt": "prompt-karten-v0.8.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 61458,
+ "token_ein": 53366,
+ "token_aus": 34983,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 46462,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 34983,
+  "output_tokens_details": {
+   "thinking_tokens": 24647
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 46462,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 34983,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 46462,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 46462
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.0727444,
+ "sekunden": 301,
+ "fehler": false,
+ "zeit": "2026-10-13T09:36:05"
+}
