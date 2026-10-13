@@ -1,0 +1,435 @@
+ID: 244-wildeck/001
+ENTITÄT: ort
+BEZEICHNUNG: Wildeck
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsdatum: 31.12.1971
+  grund_gründung: Gebietsreform, Zusammenlegung von Gemeinden
+  entstanden_aus: Obersuhl, Hönebach, Bosserode, Richelsdorf, Raßdorf
+  fläche: 39.86 km²
+  einwohner_bei_gründung: 6314
+  genauigkeit_einwohner: ca.
+  naturraum_lage: Talgebiet mittlere Werra und Südabhänge Richelsdorfer Gebirge
+  lage_detail: etwa zur Hälfte Talgebiet Werra, zur anderen Hälfte an Südabhängen Richelsdorfer Gebirge
+  grenzlage: Grenze zwischen Hessen und Thüringen, ehemalige Grenze BRD-DDR
+  namensherkunft: bezieht sich auf mittelalterliches fuldisches Amt Wildeck
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 244-wildeck/002
+ENTITÄT: ort
+BEZEICHNUNG: Obersuhl
+ORTSTEIL_BEZUG: Obersuhl
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1322 als "Ubern Sula"
+  ersterwähnung_quelle: lagis.hessen.de historisches Ortslexikon
+  im_verwaltungsbezirk_seit: 1364
+  administrative_herkunft: im Verwaltungsbezirk der Burg Wildeck seit 1364
+GUELTIG_AB: 1322
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 244-wildeck/003
+ENTITÄT: ort
+BEZEICHNUNG: Hönebach
+ORTSTEIL_BEZUG: Hönebach
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1306 als "Henebach"
+  ersterwähnung_quelle: lagis.hessen.de historisches Ortslexikon
+  im_verwaltungsbezirk_seit: 1364
+GUELTIG_AB: 1306
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 244-wildeck/004
+ENTITÄT: ort
+BEZEICHNUNG: Bosserode
+ORTSTEIL_BEZUG: Bosserode
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1396 als "Busenrode"
+  ersterwähnung_quelle: lagis.hessen.de historisches Ortslexikon
+GUELTIG_AB: 1396
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 244-wildeck/005
+ENTITÄT: ort
+BEZEICHNUNG: Richelsdorf
+ORTSTEIL_BEZUG: Richelsdorf
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1277 als "Richolvistorf"
+  ersterwähnung_quelle: lagis.hessen.de historisches Ortslexikon
+GUELTIG_AB: 1277
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 244-wildeck/006
+ENTITÄT: ort
+BEZEICHNUNG: Raßdorf
+ORTSTEIL_BEZUG: Raßdorf
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1538 als "Rastendorf"
+  ersterwähnung_quelle: lagis.hessen.de historisches Ortslexikon
+  schloss_lage: Schloßberg bei Raßdorf (Amtssitz Burg Wildeck)
+GUELTIG_AB: 1538
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 244-wildeck/007
+ENTITÄT: ort
+BEZEICHNUNG: Almushof
+ORTSTEIL_BEZUG: Obersuhl
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Weiler
+  im_verwaltungsbezirk_seit: 1364
+  lage: in der Gemarkung Obersuhl
+GUELTIG_AB: 1364
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 244-wildeck/008
+ENTITÄT: ort
+BEZEICHNUNG: Schildhof
+ORTSTEIL_BEZUG: Obersuhl
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Weiler
+  im_verwaltungsbezirk_seit: 1364
+  lage: in der Gemarkung Obersuhl
+GUELTIG_AB: 1364
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 244-wildeck/009
+ENTITÄT: ort
+BEZEICHNUNG: Libenz
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: kleine Täler im Richelsdorfer Gebirge
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 244-wildeck/010
+ENTITÄT: burg
+BEZEICHNUNG: Burg Wildeck
+ORTSTEIL_BEZUG: Raßdorf
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtssitz: ja
+  amtssitz_ort: Schloßberg bei Raßdorf
+  mittelalterliches_amt: Wildeck (fuldisch)
+  lage: Burgberg
+GUELTIG_AB: 1150
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 244-wildeck/011
+ENTITÄT: burg
+BEZEICHNUNG: Burg Wildeck
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/wildecker-tal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit_beginn: 1150
+  bauzeit_ende: 1250
+  bauzeit_genauigkeit: ca.
+  alter_angabe: vor etwa 800 Jahren
+  erbaut_von: Thüringer Landgrafen aus Geschlecht der Ludowinger, vermutlich
+  verkauft: 1364 an Ritter von Trott
+  verkauft_alternativ: 1406 an Landgraf Hermann II. von Hessen
+  zustand_periode_1: 1500-1540 verfällt zur Ruine
+  besonderheit_periode_1: Räuberbande haust zeitweise in Gemäuer
+  zustand_periode_2: 1540-1720 verfällt weitgehend
+  beschreibung: von historischen Gebäuden außer altem Brunnenschacht nichts mehr erhalten
+  wahrzeichen_zugehorig: Torbogen und Mauerwerk stammen vom späteren Jagdschloss Blumenstein
+GUELTIG_AB: 1150
+GUELTIG_BIS: 1540
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 244-wildeck/012
+ENTITÄT: burg
+BEZEICHNUNG: Jagdschloss Blumenstein
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/wildecker-tal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1727
+  erbaut_von: Landgraf Ernst von Rotenburg
+  gründungsanlass: Jagdleidenschaft des Landgrafen
+  fundament: Mauerreste der Burgruine Wildeck eingeebnet
+  grund_bau: als geeigneter Ort für Jagdleidenschaft entdeckt
+  zustand: herrschaftliches Gebäude
+  torbogen: erhalten als Wahrzeichen
+  wahrzeichen: markanter Torbogen ist Wahrzeichen der Gemeinde Wildeck
+  aufgelöst: allmählich zur Ruine verfallen
+GUELTIG_AB: 1727
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 244-wildeck/013
+ENTITÄT: schloss
+BEZEICHNUNG: Sommerschloss (Wildecker Tal)
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/wildecker-tal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit_beginn: 1770
+  erbaut_von: Landgraf Konstantin von Rotenburg (Sohn von Ernst)
+  zweck: repräsentatives Sommerschloss
+  funktion_ursprung: Umgestaltung Wildecker Tal zu Parkanlage
+  grund_aufgabe_bergschloss: nach Fertigstellung verlägerten sich alle Aktivitäten ins Tal
+  aufgelöst: auf Abbruch verkauft
+GUELTIG_AB: 1770
+GUELTIG_BIS: 1834
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 244-wildeck/014
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gästehaus (Wildecker Tal)
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/wildecker-tal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1806
+  erhaltung: erhalten (von historischen Gebäuden neben einigen Mauerresten)
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 244-wildeck/015
+ENTITÄT: denkmal
+BEZEICHNUNG: Obelisk (Wildecker Tal)
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/wildecker-tal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 22 m
+  material: Sandstein gemauert
+  erbaut_von: Landgraf Karl Emanuel von Hessen-Rothenburg, vermutlich
+  erbaut_jahr: ca. 1790
+  zweck: für seine Frau Maria Leopoldine von Liechtenstein
+  stilform: ungewöhnliche ägyptische Form, zur damaligen Zeit modern
+  teil_anlage: Bestandteil der Parkanlage des Sommerschlosses Blumenstein
+GUELTIG_AB: 1790
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 244-wildeck/016
+ENTITÄT: denkmal
+BEZEICHNUNG: Inselsteich (mit Liebesinsel)
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/wildecker-tal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teil_anlage: Bestandteil der Parkanlage des Sommerschlosses Blumenstein
+  besonderheit: Liebesinsel
+  pappeln_ursprung: früher zehn Pappeln an den Ufern
+  steinsockel_hoehe: 1.35 m
+  steinsockel_gestaltung: naturalistisch gearbeitete Bordüre, Relief griechische Amphore
+  inschrift_sprache: Lateinisch
+  inschrift_text: QUAM RAPUIT INVIDA MORS RESTITUTA
+  inschrift_uebersetzung: Die der neidische Tod geraubt hat, ist wiederhergestellt
+GUELTIG_AB: 1770
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 244-wildeck/017
+ENTITÄT: ruine
+BEZEICHNUNG: Ruine Blumenstein
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/wildecker-tal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  torbogen: erhalten
+  mauerwerk: erhalten
+  herkunft_torbogen: stammt nicht von Burg Wildeck, sondern vom später errichteten Jagdschloss Blumenstein
+  herkunft_mauerwerk: stammt von Jagdschloss Blumenstein
+  beschreibung: Ruinenreste des Jagdschlosses Blumenstein
+GUELTIG_AB: 1727
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 244-wildeck/018
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Rhäden
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/naturschutzgebiet-rhaeden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemarkung: Wildeck und Stadt Werra-Suhl-Tal (Wartburgkreis/Thüringen)
+  unterteilung: Obersuhler Rhäden und Dankmarshäuser Rhäden
+  bedeutung: überregionale Bedeutung
+  fläche: ca. 250 ha
+  lebensraum: Vogelarten (teil bedrohter und gefährdeter), andere Tier- und Pflanzenarten
+  vogelarten_nachgewiesen: 250+
+  rundweg_laenge: ca. 8 km
+  aussichtsplattformen: 4
+  teil_biotopverbund: Grünes Band Deutschland
+  informationszentrum: Blumensteinschule Wildeck-Obersuhl
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 244-wildeck/019
+ENTITÄT: museum
+BEZEICHNUNG: Grenzmuseum
+ORTSTEIL_BEZUG: Obersuhl
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/grenzlehrpfad-grenzmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnet: 3. Oktober 2005
+  eroffnet_anlass: 15. Jahrestag Deutsche Einheit
+  initiative: Wildecker Geschichtsverein
+  dauerausstellung: Geschichte innerdeutscher Grenze 1945-1989
+  exponaten: Fotos, Grenzsperr- und Sicherungsanlagen Relief und Modelle
+  ort: hessisch Wildeck-Obersuhl, im ehemaligen Grenzwachgebäude
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 244-wildeck/020
+ENTITÄT: lehrpfad
+BEZEICHNUNG: Grenzlehrpfad
+ORTSTEIL_BEZUG: Obersuhl
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/grenzlehrpfad-grenzmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnet: 2009
+  eroffnet_anlass: 20 Jahre Öffnung innerdeutscher Grenze
+  eroffnet_anlassdetail: Fest- und Gedenkwoche mit ehemaligen Grenzgemeinden Berka/Werra, Gerstungen
+  laenge: ca. 800 m
+  verlauf: entlang der ehemaligen innerdeutschen Grenze, endet am Grenzmuseum
+  stationen: acht Schaukästen und Sondertafeln
+  begehbar: ganzjährig, selbstständig oder mit begleiteter Führung
+  themenbereiche: Stufen des Grenzausbaus, Unmenschlichkeit der Grenze, Auswirkungen auf Leben beiderseits
+  besonderheit_bestaende: Reste von Grenzsperranlagen sichtbar im Bereich Bahnlinie
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 244-wildeck/021
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Camp Romeo
+ORTSTEIL_BEZUG: Bosserode
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/gedenkstaette-camp-romeo/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber_ursprung: US-Army
+  funktion_ursprung: Border Observation Point
+  lage: Punkt an innerdeutscher Grenze, Fulda GAP
+  fulda_gap_charakterisierung: potentielles Aufmarschgebiet bei militärischer Eskalation Kalten Krieges
+  autobahnbau: 1978, Trasse verlief direkt an Punkt vorbei
+  beobachtungsposten_status: einer der dichtesten an potentieller Vormarschroute
+  gedenkstein: seit Wiedervereinigung 1990
+  informationstafel_aufgestellt: 3. Oktober 2012
+  informationstafel_titel: Ein Ort im Kalten Krieg
+  informationstafel_inhalt: chronologische Übersicht Geschichte und Funktion, Fotos, Zeitungsartikel
+  aussichtsturm_nachbau_erbaut: 2025 von Metallbauer Simeon Koch im Rahmen Meisterprüfung
+  aussichtsturm_nachbau_eingeweiht: 28.09.2025
+  plaetze_umgestaltung: Gemeindebauhof gestaltete Platz neu, attraktiver Ort der Begegnung und Erinnerung
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 244-wildeck/022
+ENTITÄT: amt
+BEZEICHNUNG: Wildeck (mittelalterliches fuldisches Amt)
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: fuldisches Amt
+  zeit_periode: Mittelalter
+  amtssitz: Schloßberg bei Raßdorf
+  amtssitz_gebaeude: Burg und Schloß Wildeck
+  verwaltungsbezirk_seit_1364: Obersuhl, Hönebach, Weiler Almushof, Schildhof
+  namenspatenschaft: Gemeinde Wildeck benannt nach diesem Amt
+GUELTIG_AB: 1364
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 244-wildeck/023
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeindewappen Wildeck
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genehmigung_obersuhl: 21.08.1968 (Erlaubnis hessischer Minister des Innern)
+  genehmigung_wildeck: 06.07.1977 (Erlaubnis hessischer Minister des Innern)
+  schildgestaltung: Gold und Grün durch Balken von unten-links zu oben-rechts geteilt
+  oberer_teil_farbe: Gold
+  oberer_teil_symbol: Krämerwaage
+  unterer_teil_farbe: Grün
+  unterer_teil_symbol: drei senkrechte goldene Ähren
+  schildrand: rot-weiß gestückter U-förmiger Rahmen
+  schildrand_oben_offen: ja
+  schildrand_bedeutung_offen: Grenzlage zwischen Ländern Hessen und Thüringen, BRD-DDR
+  symbolik_allgemein: wirtschaftliche und geografische Eigenheiten
+  symbolik_kraemerwaage: Handel, regionale Wirtschaftsform
+  symbolik_aehren: Landwirtschaft, Lage im Gerstengau
+  symbolik_farbe_gruen: Fruchtbarkeit der Landwirtschaft
+  symbolik_farbe_gold: Symbol des Handels
+  figur_form_bedeutung: Wildecker und Obersuhler Gemarkung ragt wie Keil in Thüringer Gebiet
+  stückung_farben: hessische und thüringeschen Landesfarben
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 244-wildeck/024
+ENTITÄT: stromversorgung
+BEZEICHNUNG: Stromversorgung Obersuhl
+ORTSTEIL_BEZUG: Obersuhl
+QUELLE: https://www.wildeck.de/gemeindewerke/stromversorgung/geschichte-der-stromversorgung-in-obersuhl/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  elektrifizierung_jahr: 1911
+  elektrifizierung_quell: elektrische Oberleitung von Obersuhl an Spannung gelegt
+  stromliefer_anfang: Kraftzentrale Berkaer Kalischacht Alexandershall
+  trafostation_anfang_lage: Ecke Bothenweg/Goethestraße
+  trafostation_anfang_funktion: versorgte ganze Dorf bis nach Zweitem Weltkrieg
+  kreisfernleitungsnetz_ablehnung_jahr: 27.06.1925
+  kreisfernleitungsnetz_ablehnung_grund: Kostengründe
+  ueberland_anschluss_jahr: 1953
+  ueberland_anschluss_betreiber: EAM (Elektrizitäts-Aktien-Gesellschaft Mitteldeutschland)
+  verlauf_erdkabel_beginn: 1964
+  verlauf_erdkabel_abschluss: 1970
+  spannungstransformationen_ursprung: 5000V → 220V (früher)
+  spannungstransformationen_aktuell: 20000V → 220/380V
+  umspannstationen: kontinuierlich erhöht auf inzwischen neun
+  stromverbrauch_1950er: 100000-150000 kWh pro Jahr (Anfang 1950er)
+  stromverbrauch_1962: 1 Million kWh
+  stromverbrauch_1987: 6 Millionen kWh
+  ortsnetz_eigentuemer: Gemeinde
+  oberleitungen_untergrund_verhaeltnis: ca. 40 km Kabel verlegt, Oberleitungen bis auf 100m verschwunden
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 244-wildeck/025
+ENTITÄT: geschichtsverein
+BEZEICHNUNG: Wildecker Geschichtsverein
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/grenzlehrpfad-grenzmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit_grenzmuseum: Eröffnung 3. Oktober 2005
+  tätigkeit_grenzlehrpfad: Initiative zur Errichtung 2009
+  tätigkeit_publikationen: mehrere Publikationen zu Lokal- und Grenzgeschichte
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 244-wildeck/026
+ENTITÄT: geschichtsverein
+BEZEICHNUNG: Geschichtsverein des Altkreises Rotenburg an der Fulda
+QUELLE: https://www.wildeck.de/rathaus-buergerservice/bekanntmachungen/2025/01-12-2025-rund-um-den-alheimer-geschichte-und-geschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  publikation: Rund um den Alheimer (Schriftenreihe)
+  publikation_band_2023: Band 44/2023 (2022 herausgegeben)
+  publikation_band_2024: Band 45/2024 (2023 herausgegeben)
+  publikation_band_2025: Band 46/2025 (2024 herausgegeben)
+  publikation_band_2026: Band 47/2026 (2025 herausgegeben, ab dieser Ausgabe mit farbigen Fotos und Abbildungen)
+  publikation_inhalt_besonderheit_2026: Beitrag zu Überlegungen um Jahr 1840 bezüglich Nachnutzung Schloss Wildeck
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 244-wildeck/027
+ENTITÄT: landschaft
+BEZEICHNUNG: Wildecker Tal
+QUELLE: https://www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/wildecker-tal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueherer_name: Hessisches Sanssouci
+  frueherer_name_grund: fantastisches Schloss und Parkanlagen
+  charakterisierung_historisch: reizende ländliche Einsamkeit (nach Pfarrer Gutberlet 1818)
+  parkanlage_umgestaltung_jahr: 1770
+  umgestaltung_von: Landgraf Konstantin
+  historiches_gebaeude_erhalten: 1806 Gästehaus
+GUELTIG_AB: 1727
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

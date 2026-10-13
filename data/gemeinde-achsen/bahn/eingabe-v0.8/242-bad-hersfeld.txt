@@ -1,0 +1,779 @@
+ZIELORT: Bad Hersfeld (Stadt)
+LAGE: 52 km südlich von Kassel (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Bad Hersfeld
+
+GRUNDDATEN:
+  landkreis: Hersfeld-Rotenburg  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 30.632  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 73,87  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 415  [berechnet aus Einwohner und Fläche]
+  kfz: HEF (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 212 | 209  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2953439)]
+  naechste_grossstadt: Kassel, 52 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 135 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Bad Hersfeld  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 36251  [Wikidata P281]
+  vorwahl: 06621  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,1 %, AfD 23,3 %, SPD 21,2 %, GRÜNE 8,1 %, Die Linke 6,7 %; Wahlbeteiligung 78,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Anke Hofmann (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Bad Salzungen, L’Haÿ-les-Roses, Šumperk  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Einwohner je Quadratkilometer), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Niederaula (Gemeinde)
+  landkreis: Hersfeld-Rotenburg  [dewiki Infobox]
+  einwohner: 5201  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 64,16  [Wikidata P2046]
+  kfz: HEF (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 213 | 214  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2863638)]
+  naechste_grossstadt: Kassel, 58 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Niederaula, Bahnhof Niederjossa, Haltepunkt Kleba, Haltepunkt Niederjossa West  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,3 %, AfD 25,2 %, SPD 21,7 %, GRÜNE 5,5 %; Wahlbeteiligung 84,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Bad Hersfeld):
+ID: 242-bad-hersfeld/001
+ENTITÄT: ort
+BEZEICHNUNG: Bad Hersfeld
+QUELLE: https://www.bad-hersfeld.de/stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_kreisstadt: true
+  bürgermeisterin: Anke Hofmann
+  einwohner: 31.283
+  einwohner_stand: 31.12.2022
+  fläche_km2: 73,81
+  kfz_kennzeichen: HEF
+  postleitzahl: 36251
+  regierungsbezirk: Kassel
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 242-bad-hersfeld/002
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen Bad Hersfeld
+QUELLE: https://www.bad-hersfeld.de/stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: gespalten
+  vorne_symbol: Löwe von Hessen (linksgewendet, golden gekrönt, golden bewehrt, neunfach von Silber und Rot geteilt)
+  hinten_symbol: rotes Doppelkreuz mit Fußspitze
+  doppelkreuz_name: Hersfelder Doppelkreuz
+  herkunft_doppelkreuz: Benediktinerabtei Hersfeld
+  herkunft_löwe: Eroberung durch Landgraf Philipp I. im Deutschen Bauernkrieg 1525
+  gültig_ab: 1559
+  stadtfarben: weiß-rot
+  wahlspruch_deutsch: "Hersfeld die Stadt/sie führt im Schild / Ein Kreuz und einen Löwe wild; / In Kreuz und Leid hab' Löwenmut / Und trau auf Gott/ es wird wohl gut."
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 242-bad-hersfeld/003
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  ist_kurstadt: true
+  ist_festspielstadt: true
+  ist_kreisstadt: true
+  kreisstadt_von: Landkreis Hersfeld-Rotenburg
+  lage: Nordosten von Hessen
+  lage_region: Hersfelder Senke
+  fluss_hauptstadt: Fulda
+  nebenfluss_1: Haune
+  nebenfluss_2: Geisbach
+  nebenfluss_3: Solz
+  nachbargebirge_südwesten: Vogelsberggebiet
+  nachbargebirge_nordwesten: Knüllgebirge
+  nachbargebirge_nordosten: Seulingswald
+  höchster_punkt: Laxberg
+  höchster_punkt_höhe_m: 408
+  höchster_punkt_region: Knüllgebirge
+  tiefster_punkt_m: 195
+  tiefster_punkt_stelle: Mündungsbereich Solz in Fulda
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 242-bad-hersfeld/004
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  entfernung_kassel_km: 52
+  entfernung_kassel_richtung: nördlich
+  entfernung_giessen_km: 79
+  entfernung_giessen_richtung: südwestlich
+  entfernung_fulda_km: 36
+  entfernung_fulda_richtung: südlich
+  entfernung_eisenach_km: 45
+  entfernung_eisenach_richtung: östlich
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/005
+ENTITÄT: klima
+BEZEICHNUNG: Klimaverhältnisse Bad Hersfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  klimazone: warmgemäßigte Klimazone
+  jahresmitteltemperatur_grad_celsius: 8,7
+  jahresniederschlag_mm: 718,1
+  mittlere_jahressonnenscheindauer_stunden: 1385,4
+  sommertage_pro_jahr: 34
+  frosttage_pro_jahr: 86
+  eistage_pro_jahr: 22
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/006
+ENTITÄT: bauwerk
+BEZEICHNUNG: Stiftskirche (Stiftsruine)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  typ: romanische Kirchenruine
+  superlativ: größte romanische Kirchenruine Europas
+  nutzung: Spielstätte Bad Hersfelder Festspiele
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 242-bad-hersfeld/007
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Bad Hersfelder Festspiele
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  typ: Opernfestspiele
+  gültig_ab: 1951
+  regelmäßigkeit: jährlich
+  spielort: Stiftsruine
+  zeitraum: Juni bis August
+  gültig_bis: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 242-bad-hersfeld/008
+ENTITÄT: glocke
+BEZEICHNUNG: Lullusglocke
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  standort: Katharinenturm (Klosterbezirk)
+  superlativ: älteste datierte Glocke Deutschlands
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 242-bad-hersfeld/009
+ENTITÄT: bauwerk
+BEZEICHNUNG: Stadtkirche (gotisch)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  baustil: gotisch
+  kirchturm_baujahr: 14. Jahrhundert
+  beschreibung: Kirchturm ist das Wahrzeichen Bad Hersfelds
+  standort: Zentrum der Altstadt
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/010
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  baujahr_initial: ca. 1371
+  baustil_initial: gotisch
+  baujahr_umgestaltung_start: 1607
+  baujahr_umgestaltung_ende: 1612
+  baustil_umgestaltung: Weserrenaissance
+  standort: Zentrum Altstadt (neben Kirchplatz)
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/011
+ENTITÄT: bauwerk
+BEZEICHNUNG: Küsterhaus
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1452
+  baustil: Fachwerkbau
+  superlativ: ältestes Fachwerkhaus der Stadt
+  standort: Kirchplatz
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 242-bad-hersfeld/012
+ENTITÄT: kloster
+BEZEICHNUNG: Benediktinerkloster Hersfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  gründer: Erzbischof Lullus
+  gründungsjahr: 769
+  gründungsort_name: Haerulfisfelt
+  gründer_vorgänger: Sturmius (736, mönchische Einsiedelei)
+  gründer_lehre: beide waren Schüler des Bonifatius
+GUELTIG_AB: 769
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 242-bad-hersfeld/013
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Erste Marktort-Erwähnung
+  ereignis_jahr: 1142
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/014
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Erste Stadt-Erwähnung
+  ereignis_jahr: 1170
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/015
+ENTITÄT: ereignis
+BEZEICHNUNG: Vitalisnacht
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1378
+  beschreibung: Machtkampf zwischen Abtei und Stadt erreicht Höhepunkt
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/016
+ENTITÄT: ereignis
+BEZEICHNUNG: Großbrand in Bad Hersfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1439
+  beschreibung: große Teile der Stadt zerstört
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/017
+ENTITÄT: person
+BEZEICHNUNG: Abt Ludwig V.
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Abt von Hersfeld
+  amtszeit: 1571-1588
+  bedeutung: löste Baublüte aus; ließ Abteigebäude im Stil der Weserrenaissance um- und ausbauen
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 242-bad-hersfeld/018
+ENTITÄT: ereignis
+BEZEICHNUNG: Deutscher Bauernkrieg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1525
+  folge_für_hersfeld: große Teile der Stadt und Abtei fallen an Hessen
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/019
+ENTITÄT: ereignis
+BEZEICHNUNG: Siebenjähriger Krieg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1761
+  folge: Stiftskirche und Klostergebäude brannten nieder
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/020
+ENTITÄT: ereignis
+BEZEICHNUNG: Rettung Hersfelds vor napoleonischer Zerstörung
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1807
+  akteur: badischer Oberstleutnant Lingg von Linggenfeld
+  methode: führte Napoleons Befehl "wörtlich" aus (zündete nur vier einzelne Gebäude an statt überall)
+  folge: Stadt entging knapper Vernichtung
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/021
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Becomes Kreisstadt
+  ereignis_jahr: 1821
+  ereignis_kontext: des Landkreises Hersfeld in Kurhessen
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 242-bad-hersfeld/022
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Bahnhof-Eröffnung
+  ereignis_jahr: 1866
+  ereignis_folge: Eisenbahnverkehr aufgenommen
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/023
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn-Anbindung
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1938
+  beschreibung: Straßenauffahrt zur Autobahn (heute A 4)
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 242-bad-hersfeld/024
+ENTITÄT: ereignis
+BEZEICHNUNG: Rettung Hersfelds vor Zerstörung durch US-Truppen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1945
+  akteure: zwei gefangengenommene Offiziere
+  methode: verbürgten sich für friedliche Übergabe
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 242-bad-hersfeld/025
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Kriegsgarnison der US-Armee
+  zeitraum: 1945-1993
+  einheit: US-Armee Armored Cavalry Regiments (ACR)
+  aufgabe: Sicherung der innerdeutschen Grenze (Fulda Gap)
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/026
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Heilbad-Status verliehen
+  ereignis_jahr: 1949
+  ereignis_datum: 4. März 1949
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/027
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Hessisches Staatsbad
+  ereignis_jahr: 1963
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/028
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Kalkobes
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. Juli 1918
+  typ: selbständige Gemeinde
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/029
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Meisebach (Johannesberg)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1928
+  typ: Gutsbezirk
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 242-bad-hersfeld/030
+ENTITÄT: eingemeindung
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  gemeinden: Allmershausen, Asbach, Beiershausen, Heenes, Kathus, Kohlhausen, Petersberg, Sorga
+  datum: 31. Dezember 1971
+  typ: Hessische Gebietsreform
+  basis: freiwillig
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/031
+ENTITÄT: religion
+BEZEICHNUNG: Evangelische Kirche
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  kirche: Evangelische Kirche Kurhessen-Waldeck
+  mehrheit: Stadt war mehrheitlich evangelisch
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 242-bad-hersfeld/032
+ENTITÄT: religion
+BEZEICHNUNG: Katholisches Bistum
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  bistum: Bistum Fulda
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 242-bad-hersfeld/033
+ENTITÄT: person
+BEZEICHNUNG: Anke Hofmann
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Bürgermeisterin
+  gültig_ab: 1. Januar 2023
+  amtszeit_jahre: 6
+  wahl_datum: 2. Oktober 2022
+  wahlbeteiligung_prozent: 40,5
+  stimmen_prozent: 57,3
+  vorgänger: Thomas Fehling
+  partei: parteiunabhängig
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 242-bad-hersfeld/034
+ENTITÄT: person
+BEZEICHNUNG: Lullus
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: ca. 710 – 786
+  funktion_1: erster regulärer Erzbischof von Mainz
+  funktion_2: erster Abt des Klosters Hersfeld
+  lehre: Schüler des Missionsbischofs Bonifatius
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 242-bad-hersfeld/035
+ENTITÄT: person
+BEZEICHNUNG: Sturmius
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Mönch
+  tätigkeit: errichtete 736 mönchische Einsiedelei in Haerulfisfelt
+  lehre: Schüler des Missionsbischofs Bonifatius
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/036
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  ältestes_siegel_jahr: seit 1256
+  ältestes_siegel_symbol: Heiliger Wigbert
+  kleines_siegel_14_jahrhundert: Patrone Simon und Judas Thaddäus der Benediktinerabtei
+  spätgotisches_stadtsiegel: Doppelkreuz allein
+  änderung_1525: hessischer Löwe nach Eroberung durch Landgraf Philipp
+  durchsetzung_ab: 1559 (Verbindung Löwe und Doppelkreuz)
+  wahlspruch_latein: JUSTITIAM PACEM ET VERITATEM DILIGITE
+  wahlspruch_deutsch: "Liebt Gerechtigkeit, Frieden und Wahrheit"
+  auf_turrahmen: Renaissance-Rathaus
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/037
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: L'Haÿ-les-Roses
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  département: Val-de-Marne
+  gültig_ab: 1988
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/038
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Bad Salzungen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  bundesland: Thüringen
+  gültig_ab: 1990
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/039
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Šumperk (Mährisch Schönberg)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  land: Tschechien
+  gültig_ab: 1994
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/040
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Malmesbury
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  land: Großbritannien
+  typ: Freundschaftsabkommen
+  gültig_ab: 2016
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/041
+ENTITÄT: patenschaft
+BEZEICHNUNG: Deutschmährer aus Mährisch-Schönberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  typ: Vertriebenenpatenschaft
+  gültig_ab: 1954
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 242-bad-hersfeld/042
+ENTITÄT: patenschaft
+BEZEICHNUNG: Schnellboot S 75 Zobel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  typ: Patenschaft deutsche Marine
+  gültig_ab: 1973
+  gültig_bis: 2016
+  enddatum_grund: Außerdienststellung des Schnellbootes
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/043
+ENTITÄT: patenschaft
+BEZEICHNUNG: Intercity-Express-2-Triebzug
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 2003
+  ereignis: Taufe auf den Namen "Bad Hersfeld"
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 242-bad-hersfeld/044
+ENTITÄT: park
+BEZEICHNUNG: Kurpark
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  fläche_ha: ca. 6,5
+  gültig_ab: 2009
+  besonderheit: gehört zum European Garden Heritage Network seit 2009
+  ausstattung: Kurhaus, Wandelhalle, Quellpavillon
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/045
+ENTITÄT: park
+BEZEICHNUNG: Leonardt-Müller-Anlage
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  lage: entlang der Stadtmauer
+  besonderheit: zwei Nordschulteiche
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 242-bad-hersfeld/046
+ENTITÄT: denkmal
+BEZEICHNUNG: Vitaliskreuz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  standort: Leonardt-Müller-Anlage
+  bezug: Überfall Abt auf Stadt Vitalisnacht 1378
+  beschreibung: Kopie (Original im Museum)
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/047
+ENTITÄT: denkmal
+BEZEICHNUNG: Bischofsfigur (Lullus)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  material: Stein
+  standort: Lullusbrunnen vor Rathaus
+  gültig_ab: 1866
+  beschreibung: erinnert an Stadtgründer
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/048
+ENTITÄT: denkmal
+BEZEICHNUNG: Standbild Lingg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  person: Johann Baptist Lingg von Linggenfeld
+  standort: Linggplatz
+  gültig_ab: 1896
+  beschreibung: Retter Hersfelds im Vierten Koalitionskrieg
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/049
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegerdenkmal
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  künstler: Arnold Rechberg
+  standort: Rathausplatz
+  gültig_ab: 1925
+  beschreibung: erinnert an Tote des Ersten Weltkrieges
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/050
+ENTITÄT: denkmal
+BEZEICHNUNG: Mückenstürmer
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  typ: Figurengruppe
+  standort: Linggplatz
+  gültig_ab: 2003
+  beschreibung: Ursprung des Spitznamens Hersfelder
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 242-bad-hersfeld/051
+ENTITÄT: denkmal
+BEZEICHNUNG: Konrad-Duden und Konrad-Zuse Bronze
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  standort: Stiftsbezirk
+  gültig_ab: 2005
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 242-bad-hersfeld/052
+ENTITÄT: denkmal
+BEZEICHNUNG: Stolpersteine
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 43
+  bezug: Hersfelder Juden, Opfer des Holocaust
+  verlegung_daten: 6. September 2010 und 29. März 2011
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/053
+ENTITÄT: denkmal
+BEZEICHNUNG: Gedenktafel Holocaust
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  standort: Stadtmauer
+  gültig_ab: 2016
+  namen_anzahl: 119
+  beschreibung: Opfer des Holocaust
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/054
+ENTITÄT: ereignis
+BEZEICHNUNG: Synagogen-Brand
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  datum: 8. November 1938
+  kontext: Novemberpogrome 1938
+  superlativ: erste Stadt in Deutschland, in der ein jüdisches Gotteshaus zerstört wurde
+  gedenken: alljährliche Gedenkfeier
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 242-bad-hersfeld/055
+ENTITÄT: sport_verein
+BEZEICHNUNG: Hersfelder Schützengilde
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  gültig_ab: 1252
+  superlativ: einer der ältesten noch aktiven Vereine Deutschlands
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/056
+ENTITÄT: sport_verein
+BEZEICHNUNG: SVA Bad Hersfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  sport: Fußball
+  gültig_bis: 2018
+  fusion: mit SG Hessen Hersfeld zur SG Festspielstadt Hersfeld
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 242-bad-hersfeld/057
+ENTITÄT: sport_verein
+BEZEICHNUNG: SG Hessen Hersfeld (Handball Frauen)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  sport: Handball
+  liga: Handball-Bundesliga der Frauen
+  gültig_ab: 1997/1998
+  gültig_bis: 2002/2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/058
+ENTITÄT: sport_verein
+BEZEICHNUNG: Hersfelder Wanderverein
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  gültig_ab: 1885
+  beschreibung: Wanderheim "Haus Silberdistel" auf Wehneberg
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 242-bad-hersfeld/059
+ENTITÄT: universität
+BEZEICHNUNG: Konrad-Duden-Schule
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  gründungsjahr: 1570
+  gründer: Hersfelder Abt Michael
+  ursprungsname: Klosterschule
+  ausbildungsname_ab_1956: "Alte Klosterschule"
+  ausbildungsform_ab_1956: Gymnasium für Jungen und altsprachliches Gymnasium
+  modellschule_obersberg_gründung: Ende 1960er Jahre
+  umbenannt: 1980 (zu Ehren Konrad Dudens)
+  direktor_konrad_duden: 1876-1905
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 242-bad-hersfeld/060
+ENTITÄT: person
+BEZEICHNUNG: Konrad Duden
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Direktor des königlichen Hersfelder Gymnasiums
+  amtszeit: 1876–1905
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 242-bad-hersfeld/061
+ENTITÄT: heilquelle
+BEZEICHNUNG: Lullusquelle
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  urkundliche_erwähnung: seit 1518
+  verschüttung: 17. Jahrhundert (Hochwasser)
+  wieder_erschlossen: 1904
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/062
+ENTITÄT: heilquelle
+BEZEICHNUNG: Vitalisbrunnen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  erbohrt: 1949
+  mineralstoffgehalt: stark glaubersalzhaltig
+  kurbetrieb_status: seit 1949 Heilbad
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 242-bad-hersfeld/063
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Bad Hersfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: (Kassel-)Bebra–Fulda
+  ic_ice_verbindung: Frankfurt Flughafen – Dresden
+  ic_ice_takt: 2 Stunden
+  regionalbetreiber: Cantus Verkehrsgesellschaft
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 242-bad-hersfeld/064
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Flugplatz Johannesberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  status: Sonderlandeplatz
+  landebahn_länge_m: 671
+  landebahn_breite_m: 18
+  landebahn_ausrichtung: Nord-Süd
+  höhe_m_ü_nn: 284
+  gründung_jahr_start: 1952
+  gründung_jahr_ende: 1953
+  gründer: US-Armee
+  originaler_name: US-Army-Airfield Werve-Thompson
+  übernahme_jahr: 1993
+  übernahme_actor: Motor-Flieger-Club Bad Hersfeld
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 242-bad-hersfeld/065
+ENTITÄT: zeitung
+BEZEICHNUNG: Hersfelder Zeitung
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1763
+  erscheinung: täglich
+  verlag_seit: 2002 (Dirk-Ippen-Verlag)
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 242-bad-hersfeld/066
+ENTITÄT: zeitung
+BEZEICHNUNG: Kreisanzeiger
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gratis-Zeitung
+  erscheinung: zweimal Woche
+  gültig_ab: 1980
+  verlag_seit: 2002 (Dirk-Ippen-Verlag)
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 242-bad-hersfeld/067
+ENTITÄT: radiostation
+BEZEICHNUNG: FantasticRadio Hersfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  gültig_ab: 1. Mai 2008
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 242-bad-hersfeld/068
+ENTITÄT: literatur_stipendium
+BEZEICHNUNG: Stadtschreiber-Stipendium Bad Hersfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Hersfeld | Wikipedia
+EIGENSCHAFTEN:
+  gültig_ab: 2026
+  regelmäßigkeit: jährlich
+VERTRAUEN_EXTRAKTION: 0.85
+

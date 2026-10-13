@@ -1,0 +1,512 @@
+ZIELORT: Grünberg (Stadt)
+LAGE: 57 km nördlich von Offenbach am Main (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Grünberg (Hessen)
+
+GRUNDDATEN:
+  landkreis: Gießen  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 13.627  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 89,22  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 153  [berechnet aus Einwohner und Fläche]
+  kfz: GI (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 275 | 264 | 269  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2914432)]
+  naechste_grossstadt: Offenbach am Main, 57 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 76 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Grünberg (Oberhess), Bahnhof Göbelnrod  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 35305  [Wikidata P281]
+  vorwahl: 06401  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,5 %, AfD 24,9 %, SPD 16,8 %, GRÜNE 9,2 %, Die Linke 6,3 %; Wahlbeteiligung 82,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Marcel Schlosser (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Condom, Mrągowo  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Reiskirchen (Gemeinde)
+  landkreis: Gießen  [dewiki Infobox]
+  einwohner: 10.307  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 44,99  [Wikidata P2046]
+  kfz: GI (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 230 | 222 | 228  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2848543)]
+  naechste_grossstadt: Frankfurt am Main, 55 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Ettingshausen, Bahnhof Reiskirchen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,2 %, AfD 26,1 %, SPD 17,4 %, GRÜNE 7,3 %, Die Linke 6,7 %; Wahlbeteiligung 82,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Grünberg):
+ID: 237-gruenberg/001
+ENTITÄT: ort
+BEZEICHNUNG: Grünberg
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_fachwerkstadt: true
+  ist_luftkurort: true
+  ist_eine_der_aeltesten_staedte_hessens: true
+  beschreibung_marktplatz: Handelszentrum an alter Route „durch die kurzen Hessen" von Frankfurt nach Mitteldeutschland, genannt „Gut Stubb"
+GUELTIG_AB: 1186
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 237-gruenberg/002
+ENTITÄT: turm
+BEZEICHNUNG: Diebsturm
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/2-diebsturm/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1300
+  genauigkeit_bauzeit: "ca."
+  grundriss_form: tropfenform
+  funktion_urspruenglich: stadtbefestigung, gefaengnis
+  umnutzung_1895_1896: wasserturm
+  nutzung_zweiter_weltkrieg: munitionslager
+  schaeden_zweiter_weltkrieg: teilweise durch alliierte truppen gesprengt
+  funktion_nach_restaurierung: aussichtsturm
+  aussicht: Taunus und Vogelsberg bei klarem Wetter
+  ausstellung_inhalt: Geschichte der Stadtbefestigung
+  ist_wahrzeichen: true
+  superlativ: Wahrzeichen der Stadt
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 237-gruenberg/003
+ENTITÄT: turm
+BEZEICHNUNG: Wartturm
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/16-wartturm/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: auf einer Anhoehe noerdlich vor der alten Stadtmauer, etwas ausserhalb der Stadt
+  funktion: Verteidigungsposten, Aussichtsturm
+  schutz: Kreisgraben und Wall
+  aussicht: Blick ueber Stadt und umliegende Felder und Waelden
+  erreichbarkeit_von_altstadt: ca. 1 km zu Fuss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 237-gruenberg/004
+ENTITÄT: kloster
+BEZEICHNUNG: Barfüßerkloster
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/3-barfuesserkloster/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  orden: Franziskanisch (Barfüßer)
+  baustil: gotisch
+  gruendung: mitte 13. Jahrhundert
+  erste_urkunde: 1272
+  saekularisierung: 1528
+  verbleib_moenche_nach_1528: Limburg
+  abbau_gebaeudeteil: Ende 16. Jahrhundert (alle außer Wohnhaus der Moenche)
+  standort_mauerwerk: Außenmauer des Wohnhauses direkt auf Stadtmauer
+  nutzung_heute: kulturelle Veranstaltungen und standesamtliche Trauungen
+  besonderheit_gewoelbekeller: Gewölbekeller im Inneren mit Brunnen
+  erhaltener_teil: Treppenturm im Norden
+GUELTIG_AB: 1250
+GUELTIG_BIS: 1528
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 237-gruenberg/005
+ENTITÄT: kloster
+BEZEICHNUNG: Antoniterkloster
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/4-antoniterkloster/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1193
+  benoannt_nach: Heiliger Antonius
+  foerderer: Thüringischer Landgraf
+  bedeutung_fuer_geschichte_gruenbergs: große Bedeutung
+  einflussbereich: sehr einflussreich im mitteldeutschen Raum
+  aufloesung: 1526
+  querbau_funktion_urspruenglich: Kirche
+  querbau_erkennungsmerkmale: Strebenpfeiler, gotisches Sakristeifenster
+  querbau_umbau_1527: zu Magazin und Wohnungen umgebaut
+  moenachsbau_baujahr: 1398
+  moenachsbau_eigenschaft: urspruenglich über Außenmauern hinausgegangen
+  schloss_benennnung_seit: nach Umbau ab 1577
+  schloss_funktion_in_klosterzeit: Hospital
+  umbau_nach_reformation: Witwensitz des Hessischen Landgrafen durch Architekt Eberth Baldewein
+  innenhof_reliefs: Hochrelief des Heiligen Antonius
+  innenhof_wappen: Wappen eines Präzeptors
+  marstall_nutzung_heute: Volksbank
+GUELTIG_AB: 1193
+GUELTIG_BIS: 1526
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 237-gruenberg/006
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1586-1587
+  erbauer: Amtmann Hermann Rüdiger aus Hersfeld
+  baustil: Renaissance
+  portraestalter: wahrscheinlich Eberth Baldewein (Landgräflicher Baumeister aus Marburg)
+  stadt_eigentuemer_seit: 1593
+  erdgeschoss_funktion: Markt- und Handelsraum
+  erdgeschoss_merkmal: Eiserne Elle neben Eingangstür erinnert an Handelsfunktion
+  portal_beschreibung: Steinernes Portal mit Skulpturen
+  besonserheit_renaissance_malereien: Detailgetreu restaurierte Renaissance-Malereien um Fenster
+  besonderheit_steinskulptur: Skulptur eines Mannes in spanischer Tracht an Gebäudeecke
+  superlativ: eines der schönsten Gebäude am Marktplatz
+GUELTIG_AB: 1586
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 237-gruenberg/007
+ENTITÄT: brunnen
+BEZEICHNUNG: Marktbrunnen
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Ziehbrunnen, kreisförmig gemauert
+  tiefe: 36 Meter
+  nutzung_bis_ca_1500: Grundwasserschöpfung
+  verfuellung: 1820
+  verfallen_in_vergessenheit: 1820 bis 1980
+  wiederentdeckung: 1980 (bei Bauarbeiten für Hessentag)
+  merkmal: Brunnengucker (Figur, die in Brunnen schaut)
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 237-gruenberg/008
+ENTITÄT: gebaeude
+BEZEICHNUNG: Poststation
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1668
+  baustil: Barock
+  erdgeschoss: hohe Halle
+  erdgeschoss_original_funktion: Pferdestallungen
+  umbau_neuzeitlich: Stallungen und Scheunen zu Wohn- und Geschäftshäusern
+  bewertung: eine der besonders schönen Barockbauten
+GUELTIG_AB: 1668
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 237-gruenberg/009
+ENTITÄT: gebaeude
+BEZEICHNUNG: ehemaliges Lutherhaus
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/6-ehemaliges-lutherhaus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: gotisch
+  beschreibung: beeindruckendes gotisches Gebäude
+  luther_besuch: Luther übernachtung 30. April - 1. Mai 1521
+  luther_besuch_kontext: Rückreise vom Reichstag zu Worms
+  luther_besuch_gewissheit: soll (vermutlich)
+  abriss_jahr: 1891
+  abriss_grund: Baufälligkeit
+  standort_heute: Baulücke an Marktplatz / Marktgasse
+  pilgerweg_bezug: Lutherweg 1521 (Wittenberg - Reichstag Worms - Wartburg Eisenach)
+GUELTIG_BIS: 1891
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 237-gruenberg/010
+ENTITÄT: burg
+BEZEICHNUNG: ehemalige Burg / Burgmannshaus
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1186
+  gruender: Landgraf Ludwig III
+  bedeutung_stadtgeschichte: Anfang der Stadtgeschichte Grünbergs
+  zerstoerung_verursacher: Mainzer Truppen
+  wiederaufbau: bald nach Zerstörung
+  form: Halbkreisanlage (entlang heutiger Straße Burggraben Richtung Nordwesten)
+  gehoerende_gebaeudeteil: 7 weitere Gebäude inkl. Brauhaus (erbaut 1441)
+  bebauung_heute: 3 Terrassenhäuser
+  stadtmauer_sichtbar: alte Stadtmauer noch an mehreren Stellen sichtbar
+GUELTIG_AB: 1186
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 237-gruenberg/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: ehemaliges Brauhaus
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/8-brauhaus-wasserkunst/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr_urspruenglich: 1441 (als Teil der Burganlage)
+  baujahr_neugestaltung: 18. Jahrhundert
+  baustil: Fachwerkgebäude des 18. Jh.
+  umbau_zu_wohnhaus: 1921
+  erdgeschoss_nutzung_heute: Stadtbücherei und Trauzimmer
+  standort: Winterplatz
+GUELTIG_AB: 1441
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 237-gruenberg/012
+ENTITÄT: brunnen
+BEZEICHNUNG: Löwenbrunnen (am Winterplatz)
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/8-brauhaus-wasserkunst/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: Löwe (Nachbildung des alten Marktbrunnen-Löwen)
+  symbolik: hält den Grünberger Wappenreiter
+  original_verbleib: im Gebäude des alten Wasserwerks auf Winterplatz
+  standort_replica: Winterplatz
+GUELTIG_AB: 1820
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 237-gruenberg/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Steinhaus am Abhang (neben Brauhaus)
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/8-brauhaus-wasserkunst/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1582
+  baustoff: Stein
+  funktion: Ende der Druckwasserleitung (aus 60m tiefer gelegener Quelle)
+  druckwasserleitung_seit: 1492
+  druckwasserleitung_systeme: unterschiedliche Systeme (seit 1492)
+GUELTIG_AB: 1582
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 237-gruenberg/014
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtkirche
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1846-1852
+  baustil: neugotisch
+  vorgaenger_kirche: Marienkirche (gotisch)
+  vorgaenger_zeitraum: 2. Hälfte 13. Jh. bis 1816
+  vorgaenger_einsturz: 1816
+  vorgaenger_vorbild: Elisabethenkirche in Marburg
+  vorgaenger_ruine_bestand: jahrelang nach Einsturz
+  gottesdienste_waehrend_ruine: in Hospitalkirche
+  gottesdienste_heute: in Stadtkirche
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 237-gruenberg/015
+ENTITÄT: kirche
+BEZEICHNUNG: Hospitalkirche
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_historisch: Gottesdienstort während Ruine der Marienkirche
+  zeitraum_funktion: ab 1816 bis ca. 1852
+GUELTIG_AB: 1816
+GUELTIG_BIS: 1852
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 237-gruenberg/016
+ENTITÄT: skulptur
+BEZEICHNUNG: Tränenweibchen
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Sepulchral-/Grabskulptur
+  kuenstler: Samuel Nahls
+  schaffungsjahr: 1770
+  standort_original: südliche Seite Pfarrkirche
+  standort_heute: Replica neben Pfarrkirche (an Ecke Brückelchen-Straße)
+GUELTIG_AB: 1770
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 237-gruenberg/017
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Gottlieb Welcker
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/en-stadtfuehrer.pdf?cid=25a | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtshaus: Ecke Brückelchen-Straße bei Pfarrkirche
+  lebensdaten: 1784-1868
+  professionalitaet: Professor in Bonn
+  fachgebiet: klassische Archäologie
+  superlativ: einer der führenden klassischen Archäologen seiner Zeit
+  bekanntschaften: Freund von Alexander von Humboldt
+GUELTIG_AB: 1784
+GUELTIG_BIS: 1868
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 237-gruenberg/018
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Theo Koch
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtshaus_adresse: Neustadt 42
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.40
+---
+ID: 237-gruenberg/019
+ENTITÄT: museum
+BEZEICHNUNG: Museum im Spital / Augustinerinnenkloster / Hospitalkirche
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hintergasse 22-24
+  funktion: Museum
+  themen: Wasser, Natur, Kultur, Technik (per Ausstellungsräume im alten Wasserwerk)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 237-gruenberg/020
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus der Zünfte / Alte Schmiede
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Judengasse 5
+  nutzung_original: Schmiede
+  nutzung_heute: Haus der Zünfte mit Sammlung alter Handwerkszeugtile (Friseur, Schuster usw.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 237-gruenberg/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: Welckerhaus / Alte Kaplanei
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Brückelchen 1
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.35
+---
+ID: 237-gruenberg/022
+ENTITÄT: gebaeude
+BEZEICHNUNG: Universitätshaus / Stammlersches Haus
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Rosengasse 8
+  baujahr: Anfang 16. Jahrhundert
+  baustil: Fachwerkbau
+  funktion_urspruenglich: Speicher des Antoniterklosters
+  funktion_1542: Unterkunft Marburger Universität (Pestzeitenflüchtling, wahrscheinlich)
+  funktion_1613: Unterkunft Gießener Universität (Pestzeitenflüchtling, wahrscheinlich)
+  funktion_teils: Verwaltungsgebäude des Universitätsvogts
+  superlativ: Oberhessens höchster Fachwerkbau
+  eigentuemer_neuzeit: Stammler (daher auch Stammler-Haus genannt)
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 237-gruenberg/023
+ENTITÄT: tal
+BEZEICHNUNG: Brunnental
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/14-brunnental/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nordöstlich des Winterplatzes
+  topografie: Gelände fällt 60 m steil ab; bildet mit gegenüberliegendem Hang ein Tal
+  gewaesser: Äschersbach fließt durch
+  quellwasser_beschaffenheit: klares Quellwasser aus vielen unterirdischen Basaltspalten
+  sammlung_quellwasser: in zwei Teichen
+  muehlen_betriebene: Mühle zum heiligen Born, Stadtmühle, Steinmühle (historisch)
+  wasserversorgung_seit: 1419
+  naherholung_entwicklung_beginn: 1901 (Grünberger Verkehrsverein legte Wege an)
+  naherholung_ankauf_grundstuecke: 1908 (auf der Stadt gegenüberliegenden Seite)
+  hoeheunderschied: 60 Meter
+GUELTIG_AB: 1419
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 237-gruenberg/024
+ENTITÄT: wasseranlage
+BEZEICHNUNG: Grünberger Wasserkunst
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historische-wasserkunst/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  system_seit: 1419
+  komponenten: Wasserräder, Wasserpumpen
+  quelle_wasser: Quellwasser aus Brunnental
+  versorgung_ziel: Wasserversorgung der Stadt bis heute
+  gebaeude_brunnenhaus_berg: 1593
+  gebaeude_quellwasserhaus: 1854
+  gebaeude_maschinenhaus_wasserradhaus: 1895
+  gebaeude_wasserwerk: 1910
+  gebaeude_wasserwerk_besonderheit: restaurierte Drei-Kolbenpumpe (von Wasserrad angetrieben)
+  druckwasserleitung_seit: 1492
+  druckwasserleitung_beschreibung: mittels unterschiedlicher Systeme Wasser aus ca. 60 m tiefer gelegener Quelle gepumpt
+GUELTIG_AB: 1419
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 237-gruenberg/025
+ENTITÄT: platz
+BEZEICHNUNG: Marktplatz
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historischer_name: „Gut Stubb" (Salon)
+  lage_historisch: direkt an alter Handelsstraße „durch die kurzen Hessen" (Frankfurt - Mitteldeutschland)
+  funktion_historisch: bürgerliches Zentrum der Stadt
+  funktion_heute: Treffpunkt für Jung und Alt
+  rundgang_laenge: ca. 1,2 km (ohne Brunnental und Wartturm)
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 237-gruenberg/026
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Lutherweg 1521 (Passage Grünberg)
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/6-ehemaliges-lutherhaus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Martin Luther Rückreise vom Reichstag zu Worms
+  datum: 30. April - 1. Mai 1521
+  unterkunft: ehemaliges Lutherhaus (Marktplatz / Ecke Marktgasse)
+  pilgerweg_beschreibung: Nachempfindung der Route Wittenberg - Reichstag Worms - Wartburg Eisenach
+  pilgerweg_name: „Lutherweg 1521"
+GUELTIG_AB: 1521
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 237-gruenberg/027
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Gallusmarkt
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/en-stadtfuehrer.pdf?cid=25a | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: Mitte Oktober
+  besucher_attraktion: lockt tausende Besucher an
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 237-gruenberg/028
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Folk Festival „Grimmich Folk"
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/en-stadtfuehrer.pdf?cid=25a | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: 2. Wochenende August
+  besucher_attraktion: lockt tausende Besucher an
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 237-gruenberg/029
+ENTITÄT: architekturstil
+BEZEICHNUNG: Fachwerkhäuser (Mittelalter)
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: ca. 1500
+  erkennungsmerkmale: stark vorkragende Geschosse, halbkreisförmige Fachwerksmuster, „Mann" oder „wilde Mann" Verstre­bungen
+  konstruktionsweise: Ständerbauweise
+  hessische_bedeutung: Grünberg hat nach Limburg und Alsfeld die meisten erhaltenen Bauten aus dieser Zeit
+  superlativ: 21 spätmittelalterliche Fachwerkhäuser - die meisten nach Limburg und Alsfeld
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 237-gruenberg/030
+ENTITÄT: architekturstil
+BEZEICHNUNG: Renaissance-Fachwerk
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erkennungsmerkmale: Verzierungen, Schneckengiebel, geschwungene Andreaskreuze
+  besonderheit_gruenberg: geschwungene Andreaskreuze im Giebel des Rathauses, Renaissance-Erker am Schloss (Antoniterkloster)
+GUELTIG_AB: 1586
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 237-gruenberg/031
+ENTITÄT: architekturstil
+BEZEICHNUNG: Gotischer Baustil
+QUELLE: https://www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1500-1525
+  erkennungsmerkmale: Spitzbögen
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+

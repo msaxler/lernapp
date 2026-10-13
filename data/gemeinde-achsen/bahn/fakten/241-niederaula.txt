@@ -1,0 +1,1388 @@
+ID: 241-niederaula/001
+ENTITÄT: ort
+BEZEICHNUNG: Niederaula
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  bundesland: Hessen
+  regierungsbezirk: Kassel
+  landkreis: Hersfeld-Rotenburg
+  höhe_hauptort: 214 [m ü. NN]
+  fläche: 64.17 [km²]
+  postleitzahl: 36272
+  vorwahl: 06625
+  kfz_kennzeichen: HEF
+  koordinaten: 50° 48′ N, 9° 36′ O
+  tiefste_lage: 203 [m ü. NN]
+  höchster_punkt_mengshäuser_kuppe: 473 [m ü. NN]
+  einwohner: 5765 [31.12.2015]
+  bevölkerungsdichte: 90 [Einwohner/km²]
+  ortsteile_anzahl: 8
+  ist_marktgemeinde: true
+  wappen_verliehen: 1978 [28. Februar]
+  lage_geografisch: an der Fulda, zwischen Rhön und Knüllgebirge
+  entfernung_bad_hersfeld: 10 [km nordöstlich]
+  entfernung_alsfeld: 24 [km westlich]
+  entfernung_fulda: 29 [km südlich]
+  ist_logistisches_zentrum: true
+GUELTIG_AB: 779
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 241-niederaula/002
+ENTITÄT: ort
+BEZEICHNUNG: Niederaula
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 5638 [31.12.2021]
+  fläche: 64.18 [km²]
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/003
+ENTITÄT: ort
+BEZEICHNUNG: Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung_jahr: 779
+  schenkung_durch_karl_den_großen: true
+  beschenkter: Kloster Hersfeld
+  benannt_nach: Flussname Aula (bedeutet Eulenbach)
+  justizamt_seit: 1831
+  bahnhof_seit: 1906 [Strecke Bad Hersfeld-Treysa]
+  eisenbahnknotenpunkt_seit: 1913-1914 [Strecken Niederaula-Alsfeld und Niederaula-Schlitz]
+  marktgemeinde_titel_seit: 2000 [19.08.2000]
+  gründung_großgemeinde: 1970-1972 [schrittweise Eingemeindungen]
+  einwohnerverlust_30jähriger_krieg: 1647 [von 900 auf 200 Haushalte, im Ort von 134 auf 18]
+  jüdische_einwohner_1933: 72 [in 32 Familien]
+  ermordete_jüdische_einwohner: 48 [in Konzentrationslagern 1938-1945]
+  besetzung_durch_usa: 1945 [30. März]
+  flüchtlinge_ankünfte: 1946-1951 [aus Schlesien, Sudetenland, Egerland]
+  eigene_kirche_flüchtlinge: 1953 [am Hungerberg durch katholische Flüchtlinge]
+GUELTIG_AB: 779
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 241-niederaula/004
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Marktgemeinde Niederaula
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  farben: rot, silber, gold
+  motiv_eule: silbern, goldbewehrt, herschauend
+  motiv_stern: achtstrahliger, silberner
+  motiv_wellenbalken: silberner, vierfach gewellt, 4 Wellen
+  bedeutung_eule: leitet sich von Flussname Aula ab (Eulenbach)
+  bedeutung_wellen: repräsentieren 4 Flüsse (Fulda, Aula, Jossa, Hattenbach)
+  bedeutung_stern: repräsentiert 8 Ortsteile
+  verliehen_am: 1978 [28. Februar]
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 241-niederaula/005
+ENTITÄT: flagge
+BEZEICHNUNG: Flagge der Marktgemeinde Niederaula
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  farben: rot-weiß-rot
+  farbverhältnis: 2:7:2
+  wappen_in_mittelbahn_oberer_hälfte: true
+  verliehen_am: 1978 [28. Februar]
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 241-niederaula/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Niederaula
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 17.92 [km²]
+  einwohner: 2615 [31.12.2021]
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mengshausen
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 8.10 [km²]
+  einwohner: 584 [31.12.2021]
+  erste_urkundliche_erwähnung: 1003
+ORTSTEIL_BEZUG: Mengshausen
+GUELTIG_AB: 1003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Solms
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 2.76 [km²]
+  erste_urkundliche_erwähnung: 1213
+  mehrzweckgebäude_einweihung: 2007
+ORTSTEIL_BEZUG: Solms
+GUELTIG_AB: 1213
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Niederjossa
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 6.61 [km²]
+  einwohner: 743 [31.12.2021]
+  erste_urkundliche_erwähnung: 782
+  1000_jahrfeier: 2007
+  ortsdurchfahrt_erneuerung: 2005
+  dollen_dorf_platzierung_hessentag: 3. Platz [2009]
+ORTSTEIL_BEZUG: Niederjossa
+GUELTIG_AB: 782
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/010
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hattenbach
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 13.50 [km²]
+  einwohner: 544 [31.12.2021]
+  erste_urkundliche_erwähnung: 1234
+ORTSTEIL_BEZUG: Hattenbach
+GUELTIG_AB: 1234
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/011
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kleba
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 2.70 [km²]
+  einwohner: 185 [31.12.2021]
+  erste_urkundliche_erwähnung: 1361
+  gewerbegebiet_friedrichsfeld: 2008 [interkommunal mit Kirchheim]
+ORTSTEIL_BEZUG: Kleba
+GUELTIG_AB: 1361
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kerspenhausen
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 8.40 [km²]
+  einwohner: 794 [31.12.2021]
+  erste_urkundliche_erwähnung: 1146
+  bürgerzentrum_einweihung: 2006
+ORTSTEIL_BEZUG: Kerspenhausen
+GUELTIG_AB: 1146
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hilperhausen
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 4.19 [km²]
+  erste_urkundliche_erwähnung: 1185
+ORTSTEIL_BEZUG: Hilperhausen
+GUELTIG_AB: 1185
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/014
+ENTITÄT: fluss
+BEZEICHNUNG: Fulda
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fließt_durch_niederaula: true
+  beschreibung: eine der 4 Flüsse durch Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/015
+ENTITÄT: fluss
+BEZEICHNUNG: Aula
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fließt_durch_niederaula: true
+  bedeutung: Eulenbach
+  beschreibung: eine der 4 Flüsse durch Niederaula, namensgebend für die Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/016
+ENTITÄT: fluss
+BEZEICHNUNG: Jossa
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fließt_durch_niederaula: true
+  beschreibung: eine der 4 Flüsse durch Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/017
+ENTITÄT: fluss
+BEZEICHNUNG: Hattenbach
+QUELLE: https://www.niederaula.de/seite/183349/zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fließt_durch_niederaula: true
+  beschreibung: eine der 4 Flüsse durch Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/018
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Niederaula
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  kirchenschiff_erbaut: 1775
+  turm_stil: romanisch [mittelalterlich, frühere Bauteile]
+  weitere_baustile_spuren: gotik
+  turm_details: gotisches Fenster im unteren Stockwerk, Schießlöcher auf zweiter Etage, Rundbogenblenden mit Doppelfenstern im obersten Stockwerk
+  anzahl_vorgängerbauten: mindestens 2
+  superlativ: hat mindestens zwei Vorgängerbauten mit romanischem und gotischem Stil
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1775
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/019
+ENTITÄT: kirche
+BEZEICHNUNG: Herz Jesu
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Hungerberg 7, 36272 Niederaula
+  pfarrei: St. Lullus Bad Hersfeld/Niederaula-Kirchheim
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/020
+ENTITÄT: kirche_gemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Niederaula & Kerspenhausen
+QUELLE: https://www.niederaula.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kirchweg 4, 36272 Niederaula
+  telefon: (06625) 33 22
+  telefax: (06625) 91 89 53
+  email: pfarramt.niederaula@ekkw.de
+  website: www.kirchengemeinde-niederaula-kerspenhausen.de
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/021
+ENTITÄT: kirche_gemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Niederjossa-Hattenbach-Mengshausen
+QUELLE: https://www.niederaula.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Elsetstraße 14, 36272 Niederaula
+  telefon: (06625) 78 78
+  telefax: (06625) 91 99 17
+  email: pfarramt@kirche-niederjossa.de
+  website: www.kirche-niederjossa.de
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/022
+ENTITÄT: kirche_gemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde St. Lullus
+QUELLE: https://www.niederaula.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Hungerberg 7, 36272 Niederaula
+  website: www.katholische-kirche-hersfeld-rotenburg.de
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/023
+ENTITÄT: kirche_gemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde St. Marien
+QUELLE: https://www.niederaula.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Fuldastraße 5, 36251 Bad Hersfeld
+  telefon: (06621) 42 25 3
+ORTSTEIL_BEZUG: Bad Hersfeld
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/024
+ENTITÄT: kirche_gemeinde
+BEZEICHNUNG: Evangelische Gemeinschaft Aulatal
+QUELLE: https://www.niederaula.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: An der Mulde 4, 36272 Niederaula
+  telefon: (06675) 304
+  email: info@eg-n.de
+  website: www.eg-n.de
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/025
+ENTITÄT: kirche_gemeinde
+BEZEICHNUNG: EC-Aulatal
+QUELLE: https://www.niederaula.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: An der Mulde 4, 36272 Niederaula
+  telefon: (06625) 34 30 59
+  email: info@tec-n.de
+  website: www.eg-n.de
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/026
+ENTITÄT: bauwerk
+BEZEICHNUNG: Heussner-Turm
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Aussichtsturm
+  lage: Mengshäuser Kuppe
+ORTSTEIL_BEZUG: Mengshausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/027
+ENTITÄT: bauwerk
+BEZEICHNUNG: Burgstall Wallenfels
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  funktion: historische Befestigung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/028
+ENTITÄT: bauwerk
+BEZEICHNUNG: Kuppenturm
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Mengshäuser Kuppe
+  sanierung: 1990 [vollständige Sanierung]
+ORTSTEIL_BEZUG: Mengshausen
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/029
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 2000 [24. September 2000]
+  vorgängerbau: Stein'sche Scheune [denkmalgeschützt, umgebaut]
+  funktion: Verwaltung
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/030
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bahnhof Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnstrecke: Bad Hersfeld-Treysa
+  errichtung: 1906
+  brand: 2004
+  abriss: 2004 [nach Brand]
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1906
+GUELTIG_BIS: 2004
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/031
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gesamtschule Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 1974
+  stufen: Förderstufe und Sekundarstufe I
+  großsporthalle_einweihung: 1988 [neben der Gesamtschule]
+  sanierung: 2005 [Komplettsanierung]
+  25jahres_jubiläum: 2002
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/032
+ENTITÄT: gebaeude
+BEZEICHNUNG: Sportzentrum Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1981
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/033
+ENTITÄT: gebaeude
+BEZEICHNUNG: Großsporthalle Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1988
+  lage: neben der Gesamtschule Niederaula
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/034
+ENTITÄT: gebaeude
+BEZEICHNUNG: Forstamt Niederaula (mit Gaststätte und Gemeinschaftszentrum)
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umbau_und_sanierung: 1980
+  nutzung: historisches Gebäude mit Neubau (Gaststätte und Gemeinschaftszentrum)
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/035
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kindergarten Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_einweihung: 1994
+  kinderkrippe_einweihung: 2009
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/036
+ENTITÄT: gebaeude
+BEZEICHNUNG: Feuerwehrgerätehaus mit DRK-Rettungswache
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1998
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/037
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bügerhaus Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wiedereinweihung: 2001 [nach Umbau- und Erweiterungsarbeiten]
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/038
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bürgerzentrum Kerspenhausen
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 2006
+ORTSTEIL_BEZUG: Kerspenhausen
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/039
+ENTITÄT: gebaeude
+BEZEICHNUNG: Internationales Postverteilerzentrum Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 2000
+  betreiber: Deutsche Post
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/040
+ENTITÄT: gebaeude
+BEZEICHNUNG: Mehrzweckgebäude Solms (ehemaliges Stein'sches Wohnhaus)
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umwandlung_und_erweiterung: 2008
+  funktion: multifunktionell
+ORTSTEIL_BEZUG: Solms
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/041
+ENTITÄT: klaeranlag
+BEZEICHNUNG: Zentrale vollbiologische Kläranlage Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1981
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/042
+ENTITÄT: klaeranlag
+BEZEICHNUNG: Mechanisch-biologische Kläranlage Kerspenhausen
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1993
+ORTSTEIL_BEZUG: Kerspenhausen
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/043
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Erdgasversorgungsnetz Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschluss: 2000
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/044
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Neubaustrecke Hannover-Würzburg
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1991
+  betreiber: Deutsche Bundesbahn
+  verlauf: westlich der Gemeinde mit Aula-Talbrücke und Hattenbergtunnel, ohne Halt
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/045
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erschließung: 1992
+  wohnbaugebiete_ausgewiesen: ca. 100 Wohnhäuser
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/046
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Interkommunales Gewerbegebiet Friedrichsfeld
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erschließung: 2008
+  zwischen: Kleba und Kirchheim
+  kooperation: interkommunal
+ORTSTEIL_BEZUG: Kleba
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/047
+ENTITÄT: industrie_anlage
+BEZEICHNUNG: Ziegelei Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1906
+  gleisanschluss: true
+  beschreibung: erster Schritt zur Industrieansiedlung
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/048
+ENTITÄT: unternehmen
+BEZEICHNUNG: Postverteilerzentrum Deutsche Post
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  typ: Logistik
+  lage: Niederaula
+  beschreibung: internationales Postverteilerzentrum
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/049
+ENTITÄT: unternehmen
+BEZEICHNUNG: TNT Innight GmbH & Co. KG
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  typ: Logistik
+  funktion: Umschlagplatz
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/050
+ENTITÄT: unternehmen
+BEZEICHNUNG: UPS Verteilerzentrum
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  typ: Logistik
+  funktion: Verteilerzentrum
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/051
+ENTITÄT: unternehmen
+BEZEICHNUNG: GO! Express & Logistics
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  typ: Logistik
+  funktion: Sortierzentrum
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/052
+ENTITÄT: unternehmen
+BEZEICHNUNG: System Alliance
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  typ: Logistik
+  funktion: Umschlagplatz
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/053
+ENTITÄT: unternehmen
+BEZEICHNUNG: Rhenus Group
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  typ: Logistik
+  funktion: Logistikzentrum
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/054
+ENTITÄT: unternehmen
+BEZEICHNUNG: Stappert Spezial-Stahl Handel GmbH
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  typ: Handel/Logistik
+  lager: Stapelplatz
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/055
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gies GmbH & Co. Kunststoffwerk KG
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  typ: Herstellung
+  produkt: Kunststoffbehälter
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/056
+ENTITÄT: unternehmen
+BEZEICHNUNG: Rotpunkt Dr. Anso Zimmermann GmbH
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  typ: Herstellung
+  produkt: Isolierkannen
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/057
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Eulenmarkt Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_veranstaltung: 2002
+  fokus: Vermarktung regionaler Erzeugnisse
+  turnus: jährlich [vermutlich]
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 241-niederaula/058
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Gewerbeausstellung Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  3_niederaulaer_ausgabe: 2000 [19.08.2000]
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 241-niederaula/059
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: 1000-Jahr-Feier Mengshausen
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2003
+ORTSTEIL_BEZUG: Mengshausen
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/060
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: 1225-Jahr-Feier Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2004
+  grund: Jubiläum der ersten Erwähnung 779
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/061
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: 1225-Jahr-Feier Niederjossa
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2007
+  grund: Jubiläum der ersten Erwähnung 782
+ORTSTEIL_BEZUG: Niederjossa
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/062
+ENTITÄT: verein
+BEZEICHNUNG: Skatverein Aulataler Asse
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  erfolg_pokalsieg: 2007 [deutscher Pokalsieg in Duisburg]
+  spielgemeinschaft: Alter Markt aus Borken
+  verband: International Skat Players Association
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/063
+ENTITÄT: verein
+BEZEICHNUNG: Schützengilde Mengshausen
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  bekannt_für: Behindertensportlerin Manuela Schmermund ist Mitglied
+ORTSTEIL_BEZUG: Mengshausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 241-niederaula/064
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Hersfeld
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schenker: Karl der Große
+  schenkungsjahr: 779
+  geschenk: Niederaula mit Umland
+  beschreibung: Kloster der Apostel Simon und Thaddäus an der Fulda
+  bischöfliches_amt_zeit_schenkung: Bischof Lullus
+GUELTIG_AB: 779
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/065
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Kraft Weiffenbach
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1526
+  geburtsort: Niederaula
+  todesjahr: 1595
+  todesort: Rotenburg an der Fulda
+  funktion: Abt der Reichsabtei Hersfeld
+  amtszeit_abt: 1588-1592
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1526
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/066
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Wolrad Burchardi
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1734
+  geburtsmonat_tag: 22. August
+  geburtsort: Niederaula
+  todesjahr: 1793
+  todesmonat_tag: 25. Juli
+  todesort: Herborn
+  funktion: Rechtswissenschaftler und Hochschullehrer
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1734
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/067
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Heinrich Nuhn (ältere Person)
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1813
+  geburtsmonat_tag: 14. Juni
+  geburtsort: Niederaula
+  todesjahr: 1884
+  todesmonat_tag: 24. Mai
+  todesort: Niederaula
+  funktionen: Bürgermeister, Mitglied der Zweiten Kammer der kurhessischen Ständeversammlung
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1813
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/068
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johann Jakob Wiederhold
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1817
+  geburtsmonat_tag: 14. Juni
+  geburtsort: Niederaula
+  todesjahr: 1890
+  todesmonat_tag: 7. April
+  todesort: Düsseldorf
+  funktion: Schneidermeister und Lackfabrikant
+  gründung_unternehmen: Hermann Wiederhold Lackfabriken in Düsseldorf, später in Hilden
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1817
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/069
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Conrad Wahn
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1851
+  geburtsmonat_tag: 12. Oktober
+  geburtsort: Niederaula
+  todesjahr: 1927
+  todesmonat_tag: 14. Dezember
+  todesort: Kornelimünster
+  funktion: Architekt, Stadtbaumeister von Metz
+  amtszeit_baubaumeister: seit 1877
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1851
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/070
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Kaspar Stang
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1871
+  geburtsmonat_tag: 5. Oktober
+  geburtsort: Niederaula
+  todesjahr: 1937
+  todesmonat_tag: 11. Juni
+  todesort: Arnstadt
+  funktionen: Kürschnermeister, Politiker
+  parteien: USPD, SPD
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1871
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/071
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Karl Patry
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1898
+  geburtsmonat_tag: 11. Oktober
+  geburtsort: Hattenbach
+  todesjahr: 1958
+  todesmonat_tag: 16. September
+  funktionen: Gutsbesitzer, Agrarfunktionär, NSDAP-Politiker, SS-Brigadeführer, Kriegsverwaltungsbeamter
+ORTSTEIL_BEZUG: Hattenbach
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/072
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Heinrich Nuhn (jüngere Person)
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1938
+  geburtsmonat_tag: 11. Februar
+  geburtsort: Niederaula
+  funktionen: Historiker, Pädagoge
+  mitgliedschaft: Kommission für die Geschichte der Juden in Hessen
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/073
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christoph Heubner
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1949
+  geburtsmonat_tag: 6. Mai
+  geburtsort: Niederaula
+  funktionen: Schriftsteller, Exekutiv-Vizepräsident des Internationalen Auschwitz Komitees
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/074
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Reinhard Dittel
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1956
+  geburtsmonat_tag: 10. Juni
+  geburtsort: Solms
+  todesjahr: 2024
+  todesmonat_tag: 17. Juli
+  todesort: Bad Hersfeld
+  funktionen: Physiotherapeut, Sachbuchautor, Verleger
+ORTSTEIL_BEZUG: Solms
+GUELTIG_AB: 1956
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/075
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Manuela Schmermund
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1971
+  geburtsmonat_tag: 30. Dezember
+  geburtsort: Mengshausen
+  funktionen: Sportschützin, Behindertensportlerin
+  gold_athen_2004: Luftgewehr
+  bronze_athen_2004: Kleinkaliber
+  silber_london_2012: Olympische Spiele
+  silber_peking_2008: Olympische Spiele
+  europameisterin: 2005
+  merkmale: querschnittgelähmt nach Verkehrsunfall
+  verein: Schützengilde Mengshausen
+ORTSTEIL_BEZUG: Mengshausen
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 241-niederaula/076
+ENTITÄT: buergermeister
+BEZEICHNUNG: Thomas Rohrbach
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 2009 [1. Februar]
+  wahl: 2008 [7. September, Wahlbeteiligung 73,7%, 54,3% der Stimmen]
+  wiedergewählt: 2020 [November]
+  amtsdauer: 2009-2027
+  vorgänger: Helmut Opfer (SPD)
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 241-niederaula/077
+ENTITÄT: buergermeister
+BEZEICHNUNG: Helmut Opfer
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  amtsdauer: 1991-2009
+  amtszeiten: drei Amtszeiten
+GUELTIG_AB: 1991
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/078
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Schenkung Niederaulas durch Karl den Großen
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 779
+  schenker: Karl der Große
+  beschenkter: Kloster Hersfeld
+  beschenkter_detail: Kloster der Apostel Simon und Thaddäus
+  lage_kloster: an der Fulda
+  beschenkt: Niederaula mit Umland
+  urkunde_typ: Schenkungsurkunde
+  bischöfliches_amt: Bischof Lullus
+GUELTIG_AB: 779
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 241-niederaula/079
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gericht Niederaula 1427
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1427
+  dazugehörige_orte: Niederaula, Niederjossa, Mengshausen, Kerspenhausen, Asbach, Beiershausen, Kleba, Kirchheim, Heddersdorf, Gersdorf, Willingshain
+  wüstungen: Neuendorf, Kisselbach
+GUELTIG_AB: 1427
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/080
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bevölkerungsverlust durch 30-jährigen Krieg
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1647
+  gericht_niederaula_haushaltungen: 200 [vorher 900]
+  ort_niederaula_haushaltungen: 18 [vorher 134]
+  prozentsatz_gericht: 22%
+  prozentsatz_ort: 13%
+GUELTIG_AB: 1647
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/081
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Jüdische Gemeinde Niederaula 1933
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1933
+  jüdische_mitbürger: 72
+  jüdische_familien: 32
+  vorgänge_nachfolgejahre: Verkauf von Anwesen und Auswanderung
+  enteignung_jahr: 1938
+  abtransport: Lager Theresienstadt
+  ermordete_bis_1953: 48 [in Konzentrations- und Vernichtungslagern]
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 241-niederaula/082
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Besetzung durch US-Streitkräfte 1945
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1945 [30. März]
+  besetzende_kraft: amerikanische Verbände
+  beschlagnahmte_häuser: 49
+  auswirkungen: keine nennenswerten Schäden durch Bombardierungen oder Kriegseinwirkungen
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/083
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Flüchtlinge und Heimatvertriebene
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1946-1951
+  herkunftsregionen: Schlesien, Sudetenland, Egerland
+  religionsgruppe: zumeist katholisch
+  kirche_errichtung: 1953 [am Hungerberg]
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1953
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/084
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung Mengshausen
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1970 [31. Dezember]
+  form: freiwillige Eingemeindung
+  gesamtort_einwohner_nach_fustion: 2187 [Niederaula] + 614 [Mengshausen] = 2801
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/085
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung von Hattenbach, Kleba, Niederjossa, Solms
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1971 [31. Dezember]
+  eingemeindete_orte: Hattenbach, Kleba, Niederjossa, Solms
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/086
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung von Kerspenhausen mit Roßbach und Hilperhausen
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1972 [1. August]
+  eingemeindete_orte: Kerspenhausen mit Roßbach und Hilperhausen
+  gesamtgemeinde_einwohner: 5519
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/087
+ENTITÄT: feuer
+BEZEICHNUNG: Brand Saals Hassenpflug
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2009
+  lage: Hersfelder Straße
+  bezeichnung: Großbrand des ehemaligen Saals Hassenpflug
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/088
+ENTITÄT: politische_partei
+BEZEICHNUNG: Sozialdemokratische Partei Deutschlands (SPD) Ortsverein Niederaula
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  gründung_ortsverein: vor 1919
+  100_jahr_jubiläum: 2019
+  fusion_ortsvereinie: 2017 [Niederaula, Niederjossa, Hattenbach wurden zum neuen Ortsverein Niederaula zusammengelegt]
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/089
+ENTITÄT: politische_partei
+BEZEICHNUNG: Bündnis 90/Die Grünen Niederaula
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  gründung_vor_ort: vor 1986
+  30_jahr_jubiläum: 2016 [27. Februar]
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/090
+ENTITÄT: politische_partei
+BEZEICHNUNG: Wählergemeinschaft Gemeinde Niederaula (WGN)
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 2020 [Dezember, im Ortsteil Niederjossa]
+  erste_kommunalwahl: 2021
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/091
+ENTITÄT: politische_partei
+BEZEICHNUNG: Bürgerliste Niederaula (BLN)
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  erste_teilnahme_kommunalwahl: 2016
+  bürgermeisterwahl_2021: stellte Kandidat Gerhard Eckstein
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 241-niederaula/092
+ENTITÄT: fahrroutenetz
+BEZEICHNUNG: Hessischer Radfernweg R1 (Fulda-Radweg)
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  länge: 250 [km]
+  strecke: von den Höhen der Rhön entlang der Fulda bis Bad Karlshafen an der Weser
+  verlauf: durch Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/093
+ENTITÄT: fahrroutenetz
+BEZEICHNUNG: Hessischer Radfernweg R7
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: Werra und Taunus über den Vogelsberg
+  verlauf: durch Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/094
+ENTITÄT: fahrroutenetz
+BEZEICHNUNG: D-Route 9 (Weser-Romantische Straße)
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  länge: 1197 [km]
+  strecke: von der Nordsee über Bremen, Kassel, Fulda und das Taubertal nach Füssen im Allgäu
+  verlauf: durch Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/095
+ENTITÄT: flugplatz
+BEZEICHNUNG: Segelfluggelände Langenberg
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  entfernung_vom_zentrum: ca. 3 [km westlich]
+  funktion: Segelflugbetrieb
+ORTSTEIL_BEZUG: Niederaula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/096
+ENTITÄT: aktion
+BEZEICHNUNG: Aktion "Willkommen im Leben"
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  start: 2010
+  typ: gesellschaftliche Aktion [vermutlich familienfördernd]
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 241-niederaula/097
+ENTITÄT: jugendpflege
+BEZEICHNUNG: Ortsjugendpflege Marktgemeinde Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einrichtung: 2002
+  jugendraum: ja
+  zuständigkeit: für Marktgemeinde und Ortsteile
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/098
+ENTITÄT: seniorenbeauftragte
+BEZEICHNUNG: Seniorenbeauftragte Marktgemeinde Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  berufung: 2002
+  anzahl: 5
+  zuständigkeit: für Marktgemeinde und Ortsteile
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/099
+ENTITÄT: geschlechtsadel
+BEZEICHNUNG: Geschlecht derer von Aula
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  erster_adliger: Ortho de Ovilaha
+  namensveränderung_generationen: Ovla, Owla, Aula
+  schicksal: Geschlecht starb aus
+GUELTIG_AB: 779
+GUELTIG_BIS: 1480
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/100
+ENTITÄT: grundbesitz
+BEZEICHNUNG: Freihof zu Niederaula
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  vorgänger_besitzer: Geschlecht derer von Aula
+  besitz_ab_1480: Familie Weiffenbach
+GUELTIG_AB: 1480
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/101
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Vitalisnacht
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1378
+  folge: Niederaula ging in den Besitz des hessischen Landgrafen über
+GUELTIG_AB: 1378
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 241-niederaula/102
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Wiederübertragung an Abt von Hersfeld
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1434
+  übertragender: Ludwig I. von Hessen (1402–1458)
+  beschenkter: Abt von Hersfeld
+GUELTIG_AB: 1434
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/103
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Ankauf von Holzheim und Stärklos
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1686
+  käufer: hessischer Landgraf Karl
+  verkäufer: Herren von Romrod
+GUELTIG_AB: 1686
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/104
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Vereinigung der Ämter Niederaula und Holzheim
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1787
+  amtssitz_verlagerung: nach Holzheim
+GUELTIG_AB: 1787
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/105
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Napoleonische Zeit
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  periode: 1807-1813
+  teil: Kurfürstentum Hessen und Fürstentum Hersfeld waren Teil des Königreichs Westphalen
+GUELTIG_AB: 1807
+GUELTIG_BIS: 1813
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/106
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Einführung der Kreisverfassung
+QUELLE: https://de.wikipedia.org/wiki/Niederaula | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1821
+  staat: restauriertes Kurfürstentum Hessen
+  folge: Niederaula verlor verschiedene Zuständigkeiten und eigenständige Gerichtsbarkeit
+GUELTIG_AB: 1821
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 241-niederaula/107
+ENTITÄT: behörde
+BEZEICHNUNG: Justizamt Niederaula
+QUELLE: https://www.niederaula.de/seite/131615/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1831
+  umbenennung: 1878 [in Amtsgericht Niederaula]
+  bestand: bis 1968 als Außenstelle des Amtsgerichts Hersfeld
+ORTSTEIL_BEZUG: Niederaula
+GUELTIG_AB: 1831
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9

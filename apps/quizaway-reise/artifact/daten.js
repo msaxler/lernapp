@@ -54882,6 +54882,10 @@ window.QA_DATEN = {
 "234-lahnau": [
 "Solms hat gut anderthalbmal so viele Einwohner wie Lahnau.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Lahnau die SPD, in Solms die AfD."
+],
+"235-giessen": [
+"Kreisgrenze: Gießen gehört zum Landkreis Gießen, Solms zum Lahn-Dill-Kreis.",
+"Gießen hat fast siebenmal so viele Einwohner wie Solms."
 ]
 },
 "ags": "06532021",
@@ -55117,6 +55121,10 @@ window.QA_DATEN = {
 "234-lahnau": [
 "Wetzlar hat fast siebenmal so viele Einwohner wie Lahnau.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Lahnau die SPD, in Wetzlar die AfD."
+],
+"235-giessen": [
+"Kreisgrenze: Gießen gehört zum Landkreis Gießen, Wetzlar zum Lahn-Dill-Kreis.",
+"Gießen hat gut anderthalbmal so viele Einwohner wie Wetzlar."
 ]
 },
 "ags": "06532023",
@@ -55346,11 +55354,2077 @@ window.QA_DATEN = {
 "233-wetzlar": [
 "Einwohner: Wetzlar hat fast siebenmal so viele wie Lahnau.",
 "Bundestagswahl 2025: Lahnau hatte 85,1, Wetzlar 77,8 Prozent Wahlbeteiligung."
+],
+"235-giessen": [
+"Kreisgrenze: Gießen gehört zum Landkreis Gießen, Lahnau zum Lahn-Dill-Kreis.",
+"Gießen hat elfmal so viele Einwohner wie Lahnau."
+],
+"236-reiskirchen": [
+"Kreisgrenze: Reiskirchen gehört zum Landkreis Gießen, Lahnau zum Lahn-Dill-Kreis.",
+"Reiskirchen hat rund 2.200 Einwohner mehr als Lahnau."
 ]
 },
 "ags": "06532015",
 "ortsteil": false,
 "km_vom_vorigen": 4.7
+},
+{
+"slug": "235-giessen",
+"name": "Gießen",
+"lat": 50.58333,
+"lon": 8.66667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gießen",
+"steckbrief": "Rund 88.500 Einwohner, 52 km nördlich von Frankfurt am Main.",
+"frage": "1607 bekam Gießen eine Universität. Welchen Grund nennt die Stadtgeschichte für ihre Gründung?",
+"optionen": [
+"Sie sollte katholische Studenten aus Trier anziehen.",
+"Sie ersetzte die abgebrannte Universität in Kassel.",
+"Sie sollte Calvinisten aus der Pfalz ausbilden.",
+"Sie sollte ein lutherisches Gegengewicht zu Marburg sein."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In dieser Zeit liegen Gründe des Glaubens nahe. Es ging aber weder um Katholiken noch um Calvinisten aus der Pfalz. Im lutherischen Hessen-Darmstadt sollte die Gießener Universität ein Gegengewicht zur reformierten, also calvinistisch geprägten Universität Marburg bilden. Das Privileg dazu gab Kaiser Rudolf II. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.giessen.de/Erleben/Über-Gießen/Stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "235-giessen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gießen",
+"steckbrief": "Universitätsstadt mit rund 88.500 Einwohnern, 52 km nördlich von Frankfurt am Main.",
+"frage": "Wie viele Einwohner kommen in Gießen auf einen Quadratkilometer?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 2.500",
+"2.500 bis unter 4.000",
+"4.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Universitätsstadt denkt man an enge Bebauung und schätzt hoch. Zur Stadt gehören aber auch Stadtteile wie Rödgen, Lützellinden und Allendorf und dazu der bewaldete Hangelstein. So kommen rund 1.220 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "235-giessen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gießen",
+"steckbrief": "Rund 88.500 Einwohner, 52 km nördlich von Frankfurt am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Justus von Liebig lehrte in Gießen Medizin.",
+"SPD-Mitbegründer Wilhelm Liebknecht wurde in Gießen geboren.",
+"Wilhelm Conrad Röntgen ist in Gießen begraben."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Medizin klingt plausibel, denn Gießen hat ein großes Universitätsklinikum. Liebig war aber Chemiker und lehrte an der Universität Chemie; sie trägt heute seinen Namen. Liebknecht wurde in Gießen geboren, und Röntgen liegt auf dem Alten Friedhof begraben. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.giessen.de/Erleben/Über-Gießen/Stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "235-giessen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Gießen",
+"steckbrief": "Universitätsstadt mit rund 88.500 Einwohnern, 52 km nördlich von Frankfurt am Main.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in Gießen: Welche Partei wurde zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"SPD",
+"Grüne",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In einer Universitätsstadt tippt man leicht auf die Grünen als Sieger. Knapp vorne lag aber die CDU mit 19,6 Prozent, dahinter die Grünen mit 19,1 Prozent. SPD und Linke folgten mit 17,7 und 17,4 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "235-giessen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gießen",
+"steckbrief": "Rund 88.500 Einwohner, 52 km nördlich von Frankfurt am Main.",
+"frage": "Seit 2003 steht im Stadtteil Kleinlinden ein alter Basaltkopf, der „Streitkopf“. Von welchem Streit erzählt die Stadt in seinem Zusammenhang?",
+"optionen": [
+"Von einem Bauernaufstand gegen den Landgrafen.",
+"Von einem Streit zweier Dorfpfarrer.",
+"Von einer blutigen Fehde zweier Ritter.",
+"Von einem jahrhundertelangen Streit mit Gießen um Weiderechte."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Kopf stand einst in der alten Linneser Kirche, da denkt man an einen Kirchenstreit. Die Stadt erzählt beim Streitkopf aber vom Streit zwischen Gießen und Kleinlinden um Weiderechte. Er zog sich über Jahrhunderte und endete erst mit einem Vergleich. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.giessen.de/Rathaus/Stadtinfos/Stadtteile/Kleinlinden/",
+"faktencheck": "korrigiert",
+"id": "235-giessen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gießen",
+"steckbrief": "Rund 88.500 Einwohner, 52 km nördlich von Frankfurt am Main.",
+"frage": "Wie weit ist es von Gießen in Luftlinie bis zur hessischen Landeshauptstadt Wiesbaden?",
+"optionen": [
+"unter 70 km",
+"70 bis unter 90 km",
+"90 bis unter 110 km",
+"110 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Von Gießen aus liegt Wiesbaden hinter Frankfurt, da schätzt man leicht deutlich mehr. Wiesbaden liegt aber westlich von Frankfurt und nicht weiter südlich. Die Luftlinie misst 63 km, kaum mehr als nach Frankfurt. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "235-giessen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gießen",
+"steckbrief": "Rund 88.500 Einwohner, 52 km nördlich von Frankfurt am Main.",
+"frage": "Der Flugplatz im Stadtteil Lützellinden ist mit einem Weltrekord von 1980 verbunden. Worin bestand er?",
+"optionen": [
+"Ein Segelflieger überquerte ohne Motor den Atlantik.",
+"Ein Mann stand beim Atlantikflug auf der Tragfläche.",
+"Ein Kleinflugzeug überquerte ohne Piloten den Atlantik.",
+"Ein Heißluftballon trug zwei Männer über den Atlantik."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Rekord auf einem Flugplatz denkt man zuerst an Segelflug oder Ballon. Tatsächlich überquerte Jaromir Wagner den Atlantik stehend auf der Tragfläche eines Flugzeugs. Auch das Guinness-Buch der Rekorde verzeichnete den Flug. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.giessen.de/Rathaus/Stadtinfos/Stadtteile/Lützellinden/",
+"faktencheck": "unsicher",
+"id": "235-giessen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gießen",
+"steckbrief": "Rund 88.500 Einwohner, 52 km nördlich von Frankfurt am Main.",
+"frage": "Das Alte Schloss steht am Gießener Brandplatz. Woher hat dieser Platz seinen Namen?",
+"optionen": [
+"Von einem Großbrand, der dort Gebäude vernichtet hatte.",
+"Von Hexenverbrennungen, die dort stattfanden.",
+"Von der Feuerwache der Stadt, die dort stand.",
+"Von Ziegelöfen, in denen dort gebrannt wurde."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Platz mit „Brand“ im Namen lässt an Hexenfeuer oder Ziegelöfen denken. Tatsächlich zerstörte ein Großbrand, vor allem im Bereich des Walltores, zahlreiche Gebäude. Manche wurden nicht wieder aufgebaut, und so entstand der Brandplatz. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.giessen.de/Erleben/Über-Gießen/Stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "235-giessen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gießen",
+"steckbrief": "Rund 88.500 Einwohner, 52 km nördlich von Frankfurt am Main.",
+"frage": "Im Stadtteil Rödgen steht eine 1859 gepflanzte Winterlinde, heute ein Naturdenkmal. An wen soll sie erinnern?",
+"optionen": [
+"Sie erinnert an Turnvater Friedrich Ludwig Jahn.",
+"Sie erinnert an den Dichter Johann Wolfgang von Goethe.",
+"Sie erinnert an den Dichter Friedrich Schiller.",
+"Sie erinnert an den Reformator Martin Luther."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dichter denkt man zuerst an Goethe, und Turnvater Jahn passt zum Standort nahe dem Sportplatz. Gepflanzt wurde die Linde aber zum Gedenken an Friedrich Schiller. Daher heißt sie heute Schillerlinde. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.giessen.de/Rathaus/Stadtinfos/Stadtteile/Rödgen/",
+"faktencheck": "bestätigt",
+"id": "235-giessen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "234-lahnau",
+"anschluss": [
+"Kreisgrenze: In Lahnau steht WZ am Auto, in Gießen GI.",
+"Einwohner: Gießen hat fast elfmal so viele wie Lahnau."
+],
+"anschluesse": {
+"232-solms": [
+"Kreisgrenze: Solms gehört zum Lahn-Dill-Kreis, Gießen zum Landkreis Gießen.",
+"Gießen hat fast siebenmal so viele Einwohner wie Solms."
+],
+"233-wetzlar": [
+"Kreisgrenze: Wetzlar gehört zum Lahn-Dill-Kreis, Gießen zum Landkreis Gießen.",
+"Gießen hat gut anderthalbmal so viele Einwohner wie Wetzlar."
+],
+"234-lahnau": [
+"Kreisgrenze: In Lahnau steht WZ am Auto, in Gießen GI.",
+"Einwohner: Gießen hat fast elfmal so viele wie Lahnau."
+],
+"236-reiskirchen": [
+"Gießen hat fast neunmal so viele Einwohner wie Reiskirchen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Reiskirchen die AfD, in Gießen die Grünen."
+]
+},
+"ags": "06531005",
+"ortsteil": false,
+"km_vom_vorigen": 7.3
+},
+{
+"slug": "236-reiskirchen",
+"name": "Reiskirchen",
+"lat": 50.6,
+"lon": 8.83333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reiskirchen",
+"steckbrief": "Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main.",
+"frage": "Das Wappen von Reiskirchen zeigt einen schwarzen Schild, den goldene Streifen netzartig teilen. Was soll das Netz andeuten?",
+"optionen": [
+"Es erinnert an Flechtzäune um Viehweiden.",
+"Es zeigt die Fenstergitter der alten Kirche.",
+"Es spielt auf den Ortsnamen an.",
+"Es erinnert an die Leinenweberei im Dorf."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Netzmuster wirkt wie ein Bild aus dem Dorfhandwerk. Gemeint ist aber der Name: „Reis“ oder „Reuse“ bedeutet so viel wie Netz, und die Wieseck stellt den Bezug zur Fischerei her. Der Name selbst geht allerdings vermutlich auf eine von Richolf gestiftete Kirche zurück. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-reiskirchen.de/unsere-gemeinde/gemeindeportrait/",
+"faktencheck": "korrigiert",
+"id": "236-reiskirchen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Reiskirchen",
+"steckbrief": "Gemeinde im Landkreis Gießen, 55 km nördlich von Frankfurt am Main.",
+"frage": "Wie viele Menschen leben in der Gemeinde Reiskirchen mit all ihren Ortsteilen?",
+"optionen": [
+"unter 3.000",
+"3.000 bis unter 6.000",
+"6.000 bis unter 9.000",
+"9.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem einzelnen Dorf, deshalb schätzt man leicht zu niedrig. Doch die Gemeinde entstand aus dem Zusammenschluss mehrerer Dörfer, darunter Saasen, Ettingshausen und Lindenstruth. Zusammen zählen sie 10.307 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "236-reiskirchen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Reiskirchen",
+"steckbrief": "Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Reiskirchen lag einst im Gerichtsbezirk Busecker Tal.",
+"Gegen Kriegsende nahmen britische Truppen Reiskirchen ein.",
+"Die Bahn kam vor dem Bahnhofsgebäude."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Bahn-Aussage wirkt verdächtig, stimmt aber: Das Bahnhofsgebäude kam erst nach Eröffnung der Strecke. Auch das Busecker Tal war ein eigener Gerichtsbezirk, zu dem Reiskirchen gehörte. Gelogen ist die Sache mit den Briten: Amerikanische Bodentruppen erreichten Reiskirchen, danach beschlagnahmte die amerikanische Besatzung mehrere Gebäude. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/",
+"faktencheck": "korrigiert",
+"id": "236-reiskirchen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Reiskirchen",
+"steckbrief": "Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main.",
+"frage": "Wie hoch war die Wahlbeteiligung in Reiskirchen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 84 %",
+"84 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Wahl 2025 mobilisierte bundesweit stark, darum tippen viele noch höher. In Reiskirchen gingen 82,4 Prozent der Wahlberechtigten zur Urne. Bei den Zweitstimmen wurde die CDU stärkste Kraft, knapp vor der AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "236-reiskirchen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reiskirchen",
+"steckbrief": "Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main.",
+"frage": "1672 stand Else Schmidt, die „Schul-Else\" aus dem Ortsteil Burkhardsfelden, wegen Hexerei vor Gericht. Wie ging der Prozess aus?",
+"optionen": [
+"Sie wurde auf dem Scheiterhaufen verbrannt.",
+"Sie starb im Kerker an der Folter.",
+"Sie kam frei, mit dem Rat wegzuziehen.",
+"Sie wurde zu lebenslanger Haft verurteilt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Scheiterhaufen liegt nahe, denn so endeten viele Hexenprozesse. Die Anklage war lang: Knabenverzauberung, Mauszauberei, sogar ein Tod durch Sauerkraut. Else Schmidt wurde gefoltert und eingesperrt. Erst eine höhere Rechtsfakultät befand, ihr sei Unrecht geschehen: Sie sollte entlassen werden, man legte ihr aber nahe, sich woanders niederzulassen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/",
+"faktencheck": "korrigiert",
+"id": "236-reiskirchen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Reiskirchen",
+"steckbrief": "Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main.",
+"frage": "Wie weit ist es von Reiskirchen in Luftlinie bis zur Landeshauptstadt Wiesbaden?",
+"optionen": [
+"unter 40 km",
+"40 bis unter 55 km",
+"55 bis unter 65 km",
+"65 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wiesbaden liegt nicht weit von Frankfurt, also scheint die Strecke ähnlich lang. Doch Wiesbaden liegt westlich von Frankfurt und Reiskirchen nördlich. Deshalb sind es 71 Kilometer Luftlinie, deutlich mehr als nach Frankfurt. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "236-reiskirchen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reiskirchen",
+"steckbrief": "Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main.",
+"frage": "1613 zerstörte ein großer Brand Reiskirchen samt seiner Kirche. Wann brach das Feuer aus?",
+"optionen": [
+"Es brach in der Osternacht aus.",
+"Es brach in der Christnacht aus.",
+"Es brach während der Kirmes aus.",
+"Es brach bei einer Hochzeitsfeier aus."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Christnacht liegt nahe, denn an Weihnachten brennen viele Kerzen. Das Feuer brach aber in der Osternacht aus. Nur wenige Häuser blieben verschont, die Kirche wurde zerstört und danach wieder aufgebaut. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/",
+"faktencheck": "bestätigt",
+"id": "236-reiskirchen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reiskirchen / Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main. / Die Einwohner des Ortsteils Bersrod hatten früher einen Vogelnamen als Spitznamen. Welchen? / 1. Sie wurden „Gockel“ genannt. / 2. Sie wurden „Kuckuck“ genannt. / 3. Sie wurden „Spatz“ genannt. / 4. Sie wurden „Eule“ genannt.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Gockel liegt nahe, denn er gehört zu jedem Dorf und thront oft auf Kirchtürmen. Die Bersröder aber hießen früher Kuckuck. Sie nahmen es mit Humor: In den Stein des Brunnens am Lindenplatz ließen sie einen Kuckuck einmeißeln. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/",
+"faktencheck": "korrigiert",
+"id": "236-reiskirchen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reiskirchen",
+"steckbrief": "Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main.",
+"frage": "Im Ortsteil Ettingshausen entstand nach dem Krieg die Flugplatzsiedlung. Für wen war sie gedacht?",
+"optionen": [
+"Sie war für Arbeiter einer Flugzeugfabrik gedacht.",
+"Sie war als Wochenendsiedlung für Städter gedacht.",
+"Sie war als Kolonie für Künstler gedacht.",
+"Sie war für Flüchtlinge und Vertriebene gedacht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an Fliegerei und Flugzeugbau denken. Der Flugplatz bei Ettingshausen wurde im Krieg tatsächlich militärisch genutzt. Die Siedlung aber entstand danach für Flüchtlinge und Vertriebene aus dem Osten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/",
+"faktencheck": "bestätigt",
+"id": "236-reiskirchen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "235-giessen",
+"anschluss": [
+"Strom: Reiskirchen wurde 1913 aus Gießen mit Elektrizität versorgt.",
+"Kennzeichen: In Reiskirchen und Gießen steht GI am Auto."
+],
+"anschluesse": {
+"234-lahnau": [
+"Kreisgrenze: Lahnau gehört zum Lahn-Dill-Kreis, Reiskirchen zum Landkreis Gießen.",
+"Reiskirchen hat rund 2.200 Einwohner mehr als Lahnau."
+],
+"235-giessen": [
+"Strom: Reiskirchen wurde 1913 aus Gießen mit Elektrizität versorgt.",
+"Kennzeichen: In Reiskirchen und Gießen steht GI am Auto."
+],
+"237-gruenberg": [
+"Grünberg hat rund 3.300 Einwohner mehr als Reiskirchen."
+],
+"238-homberg-ohm": [
+"Kreisgrenze: Homberg (Ohm) gehört zum Vogelsbergkreis, Reiskirchen zum Landkreis Gießen.",
+"Reiskirchen hat anderthalbmal so viele Einwohner wie Homberg (Ohm)."
+]
+},
+"ags": "06531016",
+"ortsteil": false,
+"km_vom_vorigen": 11.9
+},
+{
+"slug": "237-gruenberg",
+"name": "Grünberg",
+"lat": 50.6,
+"lon": 8.95,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Grünberg",
+"steckbrief": "Grünberg hat rund 13.600 Einwohner und liegt 57 km nördlich von Offenbach am Main.",
+"frage": "Der Brunnen auf dem Grünberger Marktplatz wurde einst zugeschüttet und geriet in Vergessenheit. Wie wurde er wiederentdeckt?",
+"optionen": [
+"Nach einem Unwetter sackte das Pflaster ein.",
+"Bauarbeiten für ein großes Fest legten ihn frei.",
+"Ein Wünschelrutengänger spürte ihn auf.",
+"Ein spielendes Kind brach in den Schacht ein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein eingesacktes Pflaster liegt nahe, denn zugeschüttete Schächte geben oft nach. Doch der Brunnen blieb unbemerkt, bis man bei Bauarbeiten für den Hessentag auf ihn stieß. Heute steht der gemauerte Ziehbrunnen vor dem Rathaus. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d",
+"faktencheck": "korrigiert",
+"id": "237-gruenberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Grünberg",
+"steckbrief": "Grünberg, Stadt im Landkreis Gießen mit rund 13.600 Einwohnern, liegt 57 km nördlich von Offenbach am Main.",
+"frage": "Wie groß ist das gesamte Stadtgebiet von Grünberg?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 60 km²",
+"60 bis unter 100 km²",
+"100 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Fachwerkstadt denkt man eher an eine kleine Fläche. Doch das Stadtgebiet reicht weit über die alten Mauern hinaus und misst 89,22 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "237-gruenberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Grünberg",
+"steckbrief": "Grünberg hat rund 13.600 Einwohner und liegt 57 km nördlich von Offenbach am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die gotische Vorgängerin der Stadtkirche stürzte ein.",
+"Das Wohnhaus des Barfüßerklosters steht auf der Stadtmauer.",
+"Die hohe Halle der Poststation war ursprünglich ein Ballsaal."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Ballsaal passt zum Barockbau, doch eine Poststation brauchte vor allem Platz für Kutschen und Pferde: Die hohe Halle war ursprünglich eine Toreinfahrt für Kutschen, Ställe und Scheunen lagen an der Rückseite. Die gotische Marienkirche stürzte wirklich ein, und das Wohnhaus der Barfüßermönche, also Franziskaner, steht mit seiner Außenmauer direkt auf der Stadtmauer. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d",
+"faktencheck": "korrigiert",
+"id": "237-gruenberg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Grünberg",
+"steckbrief": "Grünberg hat rund 13.600 Einwohner und liegt 57 km nördlich von Offenbach am Main.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Grünberg?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 35 %",
+"35 bis unter 40 %",
+"40 % oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einer kleinen Stadt erwartet man oft eine klare Mehrheit für eine Partei. Doch die CDU kam in Grünberg nur auf 28,5 Prozent, knapp vor der AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "237-gruenberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Grünberg",
+"steckbrief": "Grünberg hat rund 13.600 Einwohner und liegt 57 km nördlich von Offenbach am Main.",
+"frage": "Der Diebsturm gehörte zur Stadtbefestigung und diente als Gefängnis. Wozu baute man ihn Ende des 19. Jahrhunderts um?",
+"optionen": [
+"Man hängte Kirchenglocken in ihn.",
+"Man machte ihn zum Wasserturm.",
+"Man richtete darin eine Sternwarte ein.",
+"Man baute ihn zum Wohnhaus um."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Glocken liegen nahe, denn viele alte Türme tragen welche. Der Diebsturm aber wurde zum Wasserturm. Im Zweiten Weltkrieg lagerte darin Munition, alliierte Truppen sprengten ihn teilweise. Nach der Restaurierung wurde der Turm zum Aussichtsturm, mit Blick bis zum Taunus und Vogelsberg bei klarem Wetter. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/2-diebsturm/",
+"faktencheck": "bestätigt",
+"id": "237-gruenberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Grünberg",
+"steckbrief": "Grünberg hat rund 13.600 Einwohner und liegt 57 km nördlich von Offenbach am Main.",
+"frage": "Wie viele Menschen wohnen in Grünberg durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 50",
+"50 bis unter 100",
+"100 bis unter 200",
+"200 oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt denkt man an dichte Bebauung. Doch Grünberg zählt nur 153 Einwohner je Quadratkilometer, denn um die Altstadt liegen Felder und Wälder, die man vom Wartturm aus überblickt. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "237-gruenberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Grünberg",
+"steckbrief": "Grünberg hat rund 13.600 Einwohner und liegt 57 km nördlich von Offenbach am Main.",
+"frage": "Martin Luther soll 1521 in Grünberg in einem Haus am Marktplatz übernachtet haben. Auf welcher Reise war er?",
+"optionen": [
+"Er pilgerte als Mönch nach Rom.",
+"Er reiste zu einem Streitgespräch nach Leipzig.",
+"Er war unterwegs zu Gesprächen in Marburg.",
+"Er kehrte vom Reichstag in Worms zurück."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Marburg liegt nicht weit entfernt, darum wirkt diese Wahl plausibel. Luther soll aber auf der Rückreise vom Reichstag zu Worms in Grünberg übernachtet haben. Das Haus am Marktplatz wurde wegen Baufälligkeit abgerissen; an seiner Stelle ist heute eine Baulücke. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/6-ehemaliges-lutherhaus/",
+"faktencheck": "bestätigt",
+"id": "237-gruenberg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Grünberg",
+"steckbrief": "Grünberg hat rund 13.600 Einwohner und liegt 57 km nördlich von Offenbach am Main.",
+"frage": "Das ehemalige Antoniterkloster in Grünberg wird Schloss genannt. Wie kam es zu diesem Namen?",
+"optionen": [
+"Es wurde zum Witwensitz der Landgrafen umgebaut.",
+"Ein reicher Kaufmann baute es zum Palast um.",
+"Schon die Mönche nannten ihr Kloster so.",
+"Der Name kam erst im 20. Jahrhundert für Besucher auf."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster ist kein Schloss, darum liegt ein später, ungenauer Name nahe. Doch nach der Reformation baute Eberth Baldewein die Anlage zum Witwensitz des hessischen Landgrafen um, also zum Wohnsitz für eine Fürstenwitwe. Seitdem heißt sie Schloss. In der Klosterzeit war hier ein Hospital der Antoniter. Richtig war 1. NEGATIVNACHWEIS 4 (neu): Weg (a). Laut 005 heißt das Gebäude seit dem Umbau ab 1577 Schloss; LAGIS datiert den Schlossbau auf 1577–1582. Vermerk: Genau genommen war es laut LAGIS der Witwensitz für die Frau des Landgrafen. Die Rückseite sagt das mit „Wohnsitz für eine Fürstenwitwe“ richtig. Option 1 bleibt, wie in Stufe 1 entschieden.",
+"quelle": "Gemeinde-Webseite, www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/4-antoniterkloster/",
+"faktencheck": "korrigiert",
+"id": "237-gruenberg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Grünberg",
+"steckbrief": "Grünberg hat rund 13.600 Einwohner und liegt 57 km nördlich von Offenbach am Main.",
+"frage": "Neben der Eingangstür des Grünberger Rathauses ist eine eiserne Elle angebracht. Woran erinnert sie?",
+"optionen": [
+"Sie markiert einen früheren Hochwasserstand.",
+"Sie ist ein Rest des alten Stadttors.",
+"Sie erinnert an den Handel im Erdgeschoss.",
+"Sie zeigt die Körpergröße des Stadtgründers."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Hochwasserzeichen liegt nahe, denn solche Marken sitzen oft an alten Häusern. Doch die Elle ist ein altes Längenmaß, etwa für Stoffe. Sie erinnert daran, dass das Erdgeschoss des Renaissance-Rathauses als Markt- und Handelsraum diente. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gruenberg.de/kultur-freizeit/kultur-sehenswertes/historischer-stadtrundgang/de-stadtfuehrer.pdf?cid=25d",
+"faktencheck": "bestätigt",
+"id": "237-gruenberg/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "236-reiskirchen",
+"anschluss": [
+"Fläche: Grünberg ist fast doppelt so groß wie Reiskirchen.",
+"Bundestagswahl 2025: Grünberg und Reiskirchen wählten CDU fast gleich stark."
+],
+"anschluesse": {
+"236-reiskirchen": [
+"Fläche: Grünberg ist fast doppelt so groß wie Reiskirchen.",
+"Bundestagswahl 2025: Grünberg und Reiskirchen wählten CDU fast gleich stark."
+],
+"238-homberg-ohm": [
+"Kreisgrenze: Homberg (Ohm) gehört zum Vogelsbergkreis, Grünberg zum Landkreis Gießen.",
+"Grünberg hat doppelt so viele Einwohner wie Homberg (Ohm)."
+]
+},
+"ags": "06531006",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 8.2
+},
+{
+"slug": "238-homberg-ohm",
+"name": "Homberg (Ohm)",
+"lat": 50.73331,
+"lon": 9,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Homberg (Ohm)",
+"steckbrief": "Hessische Kleinstadt mit rund 7.000 Einwohnern, 70 km östlich von Siegen.",
+"frage": "Höingen, ein Stadtteil von Homberg (Ohm), hat keine eigene Kirche, aber einen Glockenturm. Woraus entstand er?",
+"optionen": [
+"Er entstand aus einem alten Transformatorenhäuschen.",
+"Er ist der Rest einer mittelalterlichen Burg.",
+"Er war früher ein Wasserturm des Dorfes.",
+"Er stammt aus einem alten Feuerwehr-Schlauchturm."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Glockenturm lässt an einen alten Kirch- oder Wehrturm denken. Höingen hat aber keine eigene Kirche. Sein Glockenturm entstand durch den Umbau eines alten Transformatorenhäuschens. Solche kleinen Stromhäuschen standen früher in vielen Dörfern. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.homberg.de/de/homberg-ohm/ortsteile",
+"faktencheck": "bestätigt",
+"id": "238-homberg-ohm/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Homberg (Ohm)",
+"steckbrief": "Hessische Kleinstadt mit rund 7.000 Einwohnern, 70 km östlich von Siegen.",
+"frage": "Zu Homberg (Ohm) gehören 13 Stadtteile. Wie groß ist die Fläche der ganzen Stadt?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 100 km²",
+"100 bis unter 160 km²",
+"160 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 7.000 Einwohnern liegt eine kleine Fläche nahe. Doch die 13 Stadtteile verteilen sich über rund 88 Quadratkilometer. Auf einen Quadratkilometer kommen so nur rund 79 Menschen. Richtig war 2.",
+"quelle": "Wikidata P2046; Dichte berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche",
+"faktencheck": "bestätigt",
+"id": "238-homberg-ohm/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Homberg (Ohm)",
+"steckbrief": "Hessische Kleinstadt mit rund 7.000 Einwohnern, 70 km östlich von Siegen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Homberger Bier ging früher überwiegend in andere Orte.",
+"Im Brauhausturm saßen früher Gefangene in Arrest.",
+"Städtische Bierschätzer prüften früher die Qualität des Biers."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bierschätzer klingen erfunden, ein Gefängnis im Brauhausturm ebenso. Beides stimmt: Städtische Bierschätzer prüften die Qualität des Biers, und der Turm diente als Gefängnis mit Arrestzelle und Wachstube. Gelogen war der Verkauf in andere Orte: Gebraut wurde überwiegend für den Eigenverbrauch, überwacht vom städtischen Braumeister. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.homberg.de/de/homberg-ohm/sehenswertes-kernstadt",
+"faktencheck": "korrigiert",
+"id": "238-homberg-ohm/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Homberg (Ohm)",
+"steckbrief": "Hessische Kleinstadt im ländlichen Raum mit rund 7.000 Einwohnern, 70 km östlich von Siegen.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Homberg (Ohm) nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"GRÜNE",
+"SPD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt als Tipp nahe, denn sie wurde 2025 vielerorts zweitstärkste Kraft. In Homberg (Ohm) reichte es knapp nicht: Die SPD kam auf 21,5 Prozent, die AfD auf 20,4. Stärkste Partei wurde die CDU mit 30,4 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "238-homberg-ohm/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Homberg (Ohm)",
+"steckbrief": "Hessische Kleinstadt mit rund 7.000 Einwohnern, 70 km östlich von Siegen.",
+"frage": "Um 1848 soll der Homberger Bürger Gaub auf den Kutschbock des Großherzogs von Hessen gesprungen sein. Was tat er dort der Überlieferung nach?",
+"optionen": [
+"Er rief fahnenschwenkend: „Es lebe die Revolution!“",
+"Er überreichte dem Großherzog eine Bittschrift der Stadt.",
+"Er riss die Zügel an sich und floh.",
+"Er brachte ein Hoch auf den Großherzog aus."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer auf die Kutsche eines Fürsten springt, will meist etwas erbitten oder ihn ehren. Gaub aber soll fahnenschwenkend gerufen haben: „Es lebe die Revolution!“ In vielen oberhessischen Städten richteten sich damals Unruhen gegen eine als unrechtmäßig empfundene Obrigkeit; ihre Anführer kämpften für einen geeinten Staat mit Verfassung. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.homberg.de/de/homberg-ohm/ueber-homberg/geschichte",
+"faktencheck": "korrigiert",
+"id": "238-homberg-ohm/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Homberg (Ohm)",
+"steckbrief": "Hessische Kleinstadt mit rund 7.000 Einwohnern, 70 km östlich von Siegen.",
+"frage": "Zu welchem Landkreis gehört Homberg (Ohm)?",
+"optionen": [
+"Landkreis Gießen",
+"Vogelsbergkreis",
+"Landkreis Marburg-Biedenkopf",
+"Schwalm-Eder-Kreis"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Landkreis Gießen liegt nahe, weil Gießen das bekannte Zentrum Mittelhessens ist. Homberg (Ohm) gehört aber zum Vogelsbergkreis; auf dem Kennzeichen steht deshalb VB. Der Kreis ist nach dem Vogelsberg benannt, einem alten Vulkangebirge. Richtig war 2.",
+"quelle": "dewiki Infobox; Kennzeichen: Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "238-homberg-ohm/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Homberg (Ohm)",
+"steckbrief": "Hessische Kleinstadt mit rund 7.000 Einwohnern, 70 km östlich von Siegen.",
+"frage": "Im Dreißigjährigen Krieg spielte Gontershausen, heute Stadtteil von Homberg (Ohm), eine wichtige Rolle. Welche?",
+"optionen": [
+"Dort wurde 1635 der Friede zwischen Kaiser und Kursachsen geschlossen.",
+"Dort wurde der Schwedenkönig Gustav II. Adolf tödlich verwundet.",
+"Dort wurden Schlachtrösser für den hessischen Landgrafen gezüchtet.",
+"Dort wurde 1648 der Westfälische Friede unterzeichnet."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Dreißigjährigen Krieg denkt man zuerst an Schlachten und Friedensschlüsse, doch die fanden in Prag, Lützen, Münster und Osnabrück statt. Gontershausen diente dem hessischen Landgrafen anders: Dort wurden Schlachtrösser gezüchtet. Pferde brauchte jedes Heer für Reiterei und Tross in großer Zahl. Auch das Ohmtal selbst war in diesem Krieg Schauplatz von Kämpfen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.homberg.de/de/homberg-ohm/ortsteile (Hinweis: Die neuen falschen Optionen sind Allgemeinwissen: Prager Frieden 1635, Gustav Adolf gefallen bei Lützen 1632, Westfälischer Friede in Münster/Osnabrück 1648. Die Rückseite hat jetzt etwa 60 Wörter.)",
+"faktencheck": "korrigiert",
+"id": "238-homberg-ohm/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Homberg (Ohm)",
+"steckbrief": "Hessische Kleinstadt mit rund 7.000 Einwohnern, 70 km östlich von Siegen.",
+"frage": "Das Steinerne Haus in Homberg (Ohm) heißt im Volksmund „Mönchskloster“. Was war es nach Einschätzung der Stadt ursprünglich wohl?",
+"optionen": [
+"Ein Kloster für Mönche.",
+"Der Stadtsitz eines Burgmannen.",
+"Ein Zoll- und Wiegehaus.",
+"Ein Hospital für Kranke."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Volksname „Mönchskloster“ legt Mönche nahe, lässt sich aber in alten Schriften nicht nachweisen. Eher war das Haus der Wohnsitz eines Burgmannen, der bei Abwesenheit des Burgherrn die Burg bewachte und verwaltete. Steinhäuser waren im Mittelalter eine Ausnahme. Erhalten ist ein steinerner Treppengiebel; mehrere verheerende Brände überstand das Haus. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.homberg.de/de/homberg-ohm/sehenswertes-kernstadt",
+"faktencheck": "korrigiert",
+"id": "238-homberg-ohm/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Homberg (Ohm)",
+"steckbrief": "Hessische Kleinstadt mit rund 7.000 Einwohnern, 70 km östlich von Siegen.",
+"frage": "Das Rathaus von Homberg (Ohm) entstand 1539. Wozu soll sein Erdgeschoss ursprünglich gedient haben?",
+"optionen": [
+"Dort waren die Pferde der Stadt untergestellt.",
+"Dort lag die Wachstube der Stadtsoldaten.",
+"Dort unterrichtete die städtische Lateinschule.",
+"Dort befand sich eine Markthalle."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Stall oder eine Wache im Rathaus klingt plausibel, denn das Haus diente vielen Zwecken. Im Erdgeschoss soll aber ursprünglich eine große Markthalle gelegen haben; darüber gab es Sitzungs-, Rats- und Ballsaal, zeitweilig tagte dort auch das Gericht. Später baufällig geworden, wurde das Haus abgetragen und wiederaufgebaut. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.homberg.de/de/homberg-ohm/sehenswertes-kernstadt",
+"faktencheck": "korrigiert",
+"id": "238-homberg-ohm/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Homberg (Ohm)",
+"steckbrief": "Hessische Kleinstadt mit rund 7.000 Einwohnern, 70 km östlich von Siegen.",
+"frage": "1715 erhielt Johann Ludwig Müller von Landgraf Ernst Ludwig ein Privileg für Homberg (Ohm). Was erlaubte es ihm?",
+"optionen": [
+"Nur er durfte in Homberg Arzneien verkaufen.",
+"Nur er durfte in Homberg Münzen prägen.",
+"Nur er durfte in Homberg Bier brauen.",
+"Nur er durfte in Homberg Jahrmärkte abhalten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein landgräfliches Privileg klingt nach Münze oder Markt. Müller bekam ein Apothekenmonopol: Außer ihm durfte in Homberg keiner Arzneien oder zur Medizin dienliche Stoffe verkaufen. Seine Apotheke lag gegenüber dem Rathaus in einem Fachwerkbau der Spätrenaissance. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.homberg.de/de/homberg-ohm/sehenswertes-kernstadt",
+"faktencheck": "bestätigt",
+"id": "238-homberg-ohm/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "237-gruenberg",
+"anschluss": [
+"Einwohner: Grünberg hat fast doppelt so viele wie Homberg (Ohm).",
+"Wahlbeteiligung Bundestagswahl 2025: Homberg (Ohm) lag knapp vor Grünberg."
+],
+"anschluesse": {
+"236-reiskirchen": [
+"Kreisgrenze: Reiskirchen gehört zum Landkreis Gießen, Homberg (Ohm) zum Vogelsbergkreis.",
+"Reiskirchen hat anderthalbmal so viele Einwohner wie Homberg (Ohm)."
+],
+"237-gruenberg": [
+"Einwohner: Grünberg hat fast doppelt so viele wie Homberg (Ohm).",
+"Wahlbeteiligung Bundestagswahl 2025: Homberg (Ohm) lag knapp vor Grünberg."
+],
+"239-alsfeld": [
+"Alsfeld hat gut doppelt so viele Einwohner wie Homberg (Ohm).",
+"Bundestagswahl 2025: Auf Platz zwei kam in Alsfeld die AfD, in Homberg (Ohm) die SPD."
+]
+},
+"ags": "06535009",
+"ortsteil": false,
+"km_vom_vorigen": 15.2
+},
+{
+"slug": "239-alsfeld",
+"name": "Alsfeld",
+"lat": 50.75111,
+"lon": 9.27111,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Alsfeld",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 65 km südlich von Kassel.",
+"frage": "1650 befreite Landgraf Georg II. die Stadt Alsfeld von den Wolfsjagddiensten. Welchen Grund nennt seine Urkunde?",
+"optionen": [
+"Die Alsfelder hatten sich der Wolfsjagd verweigert.",
+"Rund um Alsfeld gab es keine Wölfe mehr.",
+"Alsfeld war im Krieg unversehrt geblieben.",
+"Der Landgraf belohnte die Treue der Stadt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass es keine Wölfe mehr gab, denn die Jagden sollten sie ausrotten. Doch noch Jahre später erlegte man bei Romrod viele Wölfe. Die Urkunde nennt die Treue der Stadt; das im Dreißigjährigen Krieg stark zerstörte Alsfeld sollte für den Wiederaufbau entlastet werden. Wolfsjagddienste waren Pflichten zur Mithilfe bei Wolfsjagden. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.alsfeld.de/kulturerleben/stadtgeschichte/woelfe/ (Neuer Negativnachweis 3: Weg (a). Laut Gemeinde-Webseite war Alsfeld im Dreißigjährigen Krieg „stark zerstört“.)",
+"faktencheck": "korrigiert",
+"id": "239-alsfeld/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Alsfeld",
+"steckbrief": "Stadt an der Schwalm zwischen Vogelsberg und Knüll, rund 15.300 Einwohner, 65 km südlich von Kassel.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Alsfeld?",
+"optionen": [
+"unter 300 m",
+"300 bis unter 400 m",
+"400 bis unter 500 m",
+"500 m und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zwischen Vogelsberg und Knüll vermutet man leicht eine hohe Lage. Alsfeld liegt aber an der Schwalm; die Quellen nennen 268 und 273 Meter. Richtig war 1.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "239-alsfeld/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Alsfeld",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 65 km südlich von Kassel.",
+"frage": "Drei Aussagen über Alsfelder Stadtteile. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Altenburg wurde einmal hessischer Landessieger im Dorfwettbewerb.",
+"Berfa entstand erst nach dem Zweiten Weltkrieg.",
+"In Leusel lag ein Deckengemälde lange unter Putz."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Deckengemälde, das lange unter Putz verschwand, klingt nach Erfindung, doch in der Kirche von Leusel war es so; später wurde es freigelegt. Gelogen ist Berfas Alter: Der Ort ist schon im Mittelalter als „Berfe“ erwähnt und kam erst später zu Alsfeld. Altenburg wurde tatsächlich hessischer Landessieger. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.alsfeld.de/leben/stadtportrait/stadtteile/",
+"faktencheck": "korrigiert",
+"id": "239-alsfeld/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Alsfeld",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 65 km südlich von Kassel.",
+"frage": "Wie hoch war die Wahlbeteiligung in Alsfeld bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 78 %",
+"78 bis unter 82 %",
+"82 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land vermuten viele eine eher geringe Wahlbeteiligung. In Alsfeld gaben bei der Bundestagswahl 2025 aber 80,5 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "239-alsfeld/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Alsfeld",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 65 km südlich von Kassel.",
+"frage": "Worauf führt die Stadt Alsfeld den Namen ihres Stadtteils Hattendorf zurück?",
+"optionen": [
+"Auf den Stamm der Chatten.",
+"Auf eine Äbtissin Hadwig.",
+"Auf einen Bach namens Hatte.",
+"Auf einen fränkischen Edelmann namens Hatto."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Hattendorf denken viele zuerst an die Chatten, weil der Stammesname ähnlich klingt. Die Stadt Alsfeld nennt aber einen Gründer, der wahrscheinlich Hatto hieß und ein fränkischer Edelmann war. Hattendorf bestand einst aus Alt- und Neuhattendorf an beiden Ufern der Berf. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.alsfeld.de/leben/stadtportrait/stadtteile/hattendorf/",
+"faktencheck": "korrigiert",
+"id": "239-alsfeld/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Alsfeld",
+"steckbrief": "Stadt an der Schwalm zwischen Vogelsberg und Knüll, rund 15.300 Einwohner, 65 km südlich von Kassel.",
+"frage": "Zu welchem Landkreis gehört Alsfeld?",
+"optionen": [
+"Vogelsbergkreis",
+"Schwalm-Eder-Kreis",
+"Landkreis Hersfeld-Rotenburg",
+"Landkreis Gießen"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Knüll und Schwalm lassen an den Schwalm-Eder-Kreis denken, denn der Name klingt nach dem Fluss. Doch Alsfeld gehört zum Vogelsbergkreis. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "239-alsfeld/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Alsfeld",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 65 km südlich von Kassel.",
+"frage": "Um 1180 bis 1190 wurde Alsfeld zu Burg und Stadt ausgebaut. Wessen Machtpolitik steckte nach der Stadtgeschichte dahinter?",
+"optionen": [
+"Es diente der Machtpolitik Nassaus.",
+"Es diente der Machtpolitik Thüringens.",
+"Es diente der Machtpolitik der Welfen.",
+"Es diente der Machtpolitik der Habsburger."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Nassau klingt nach heutigem Hessen, Thüringen scheint weit weg. Doch der Ausbau zu Burg und Stadt gehörte zur Territorialpolitik der Landgrafen von Thüringen. Erst später residierte mit Hermann II. ein hessischer Landgraf in Alsfeld und ließ dort ein Schloss bauen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.alsfeld.de/leben/stadtportrait/geschichte/",
+"faktencheck": "bestätigt",
+"id": "239-alsfeld/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "238-homberg-ohm",
+"anschluss": [],
+"anschluesse": {
+"238-homberg-ohm": [
+"Alsfeld hat gut doppelt so viele Einwohner wie Homberg (Ohm).",
+"Bundestagswahl 2025: Auf Platz zwei kam in Homberg (Ohm) die SPD, in Alsfeld die AfD."
+]
+},
+"ags": "06535001",
+"ortsteil": false,
+"km_vom_vorigen": 19.2
+},
+{
+"slug": "240-kirchheim-hessen",
+"name": "Kirchheim",
+"lat": 50.84083,
+"lon": 9.57444,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchheim",
+"steckbrief": "Gemeinde mit rund 3.600 Einwohnern, 53 km südlich von Kassel.",
+"frage": "Seit 1967 führt Kirchheim ein Wappen mit schräger silberner Doppellinie und grünem Trennstreifen. Wofür steht diese Linie?",
+"optionen": [
+"Sie zeigt den Fluss, der durchs Tal fließt.",
+"Sie zeigt eine alte Handelsstraße durch den Ort.",
+"Sie stellt die Autobahn dar.",
+"Sie zeigt die Gleise der Eisenbahn."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Gewässer liegt nahe, denn viele Wappen zeigen Flüsse. Doch die Doppellinie stellt die Autobahn in stilisierter Form dar. Kirchheim wird auch Autobahn-Dorf genannt, und das Kirchheimer Dreieck trägt seinen Namen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kirchheim_(Hessen)",
+"faktencheck": "unsicher",
+"id": "240-kirchheim-hessen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kirchheim",
+"steckbrief": "Gemeinde mit rund 3.600 Einwohnern, 53 km südlich von Kassel.",
+"frage": "Wie viele Einwohner leben in Kirchheim durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 25",
+"25 bis unter 45",
+"45 bis unter 65",
+"65 oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an Feriendörfer und einen Stausee denkt, schätzt Kirchheim leerer. Doch rund 3.600 Einwohner teilen sich gut 50 Quadratkilometer. Rechnerisch sind das 71 je Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "240-kirchheim-hessen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kirchheim",
+"steckbrief": "Gemeinde mit rund 3.600 Einwohnern, 53 km südlich von Kassel.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Gutshof der Baumbachs prägte lange das Ortsbild.",
+"Kirchheim liegt am Südhang des Knüllgebirges im Aulatal.",
+"Nach dem Brand der Wollkämmerei zogen Familien zu."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Gutshof mag nach Nebensache klingen, doch er prägte lange Sozialstruktur und Ortsbild. Gelogen war der Zuzug: Nach dem Brand der Wollkämmerei in der Weyemühle wanderten viele Kirchheimer ab, nach Hersfeld, Westfalen und Nordamerika. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.kirchheim.de/seite/145215/chronik.html",
+"faktencheck": "korrigiert",
+"id": "240-kirchheim-hessen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kirchheim",
+"steckbrief": "Gemeinde mit rund 3.600 Einwohnern, 53 km südlich von Kassel.",
+"frage": "Wie hoch war bei der Bundestagswahl 2025 in Kirchheim der Zweitstimmenanteil der stärksten Partei?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 35 %",
+"35 bis unter 40 %",
+"40 % oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land rechnen viele mit einer klaren Mehrheit für eine Partei. Doch in Kirchheim lag die CDU mit 32,5 Prozent vorn, dahinter folgte die AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "240-kirchheim-hessen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchheim",
+"steckbrief": "Gemeinde mit rund 3.600 Einwohnern, 53 km südlich von Kassel.",
+"frage": "An den Hängen des Eisenbergs, oberhalb des Ortsteils Willingshain, entstand ein Feriendorf. Wer hat es gebaut?",
+"optionen": [
+"Die Stadt Kassel baute es.",
+"Die Stadt Bremen baute es.",
+"Die Stadt Hannover baute es.",
+"Die Stadt Hamburg baute es."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kassel liegt nahe, denn die Großstadt ist nicht weit. Doch Bauherr des Feriendorfs war die Stadt Hannover, weit im Norden. Am Eisenberg siedelten schon in der Bronzezeit Menschen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kirchheim.de/seite/145215/chronik.html",
+"faktencheck": "korrigiert",
+"id": "240-kirchheim-hessen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kirchheim",
+"steckbrief": "Gemeinde mit rund 3.600 Einwohnern, 53 km südlich von Kassel.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Kirchheim?",
+"optionen": [
+"FD",
+"HR",
+"VB",
+"HEF"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. FD liegt nahe, denn die Aula fließt bei Niederaula in die Fulda. Doch Kirchheim gehört zum Landkreis Hersfeld-Rotenburg, und dessen Hauptkennzeichen ist HEF. Richtig war 4.",
+"quelle": "Wikidata P395 (Kennzeichen); dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "240-kirchheim-hessen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchheim",
+"steckbrief": "Gemeinde mit rund 3.600 Einwohnern, 53 km südlich von Kassel.",
+"frage": "1977 beschädigte ein Ereignis die Bahntrasse der Knüllwaldbahn bei Kirchheim; danach fuhren auf diesem Abschnitt keine Personenzüge mehr. Was war geschehen?",
+"optionen": [
+"Ein Staudamm in der Nähe brach.",
+"Ein Güterzug entgleiste und riss Gleise auf.",
+"Ein Lkw stieß an einem Bahnübergang mit einem Zug zusammen.",
+"Ein Brand zerstörte eine hölzerne Brücke."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. An ein Zugunglück denkt man zuerst, doch es war Wasser: Nach einem Unwetter brach am 22. August 1977 der Damm des Ibrastausees und unterspülte die Trasse. Auf dem Abschnitt bei Kirchheim fuhren danach keine Personenzüge mehr. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kirchheim_(Hessen)",
+"faktencheck": "korrigiert",
+"id": "240-kirchheim-hessen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchheim",
+"steckbrief": "Gemeinde mit rund 3.600 Einwohnern, 53 km südlich von Kassel.",
+"frage": "Laut Ortschronik eröffnete 1970 in Kirchheim etwas, das den Ort weithin bekannt machte. Was war das?",
+"optionen": [
+"Ein großer Freizeitpark eröffnete dort.",
+"Ein großes Motel-Center eröffnete dort.",
+"Eine große Motorrad-Rennstrecke eröffnete dort.",
+"Ein großes Autokino eröffnete dort."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Freizeitpark liegt nahe, und der SeePark kam tatsächlich dazu, aber erst Jahre später. Bekannt machte Kirchheim zuerst das Motel-Center an der Autobahn. Schon deren Bau hatte Kirchheim den abgelegenen Charakter genommen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kirchheim.de/seite/145215/chronik.html",
+"faktencheck": "korrigiert",
+"id": "240-kirchheim-hessen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchheim",
+"steckbrief": "Gemeinde mit rund 3.600 Einwohnern, 53 km südlich von Kassel.",
+"frage": "Am nördlichen Ortsende von Kirchheim entstand um 1685 ein Herrenhaus, das Kirchheimer Schloss. Was stand vorher an seiner Stelle?",
+"optionen": [
+"Die alte Dorfkirche stand dort.",
+"Eine Wassermühle stand dort.",
+"Ein Zollhaus stand dort.",
+"Eine Burg stand dort."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Kirche liegt nahe, schon wegen des Ortsnamens. Doch das Herrenhaus steht dort, wo einst eine hersfeldische Burg stand. Nördlich davon liegt ein Rokoko-Schlosspark, südlich ziehen sich die halbkreisförmigen Ökonomiegebäude. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kirchheim_(Hessen)",
+"faktencheck": "unsicher",
+"id": "240-kirchheim-hessen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchheim",
+"steckbrief": "Gemeinde mit rund 3.600 Einwohnern, 53 km südlich von Kassel.",
+"frage": "Wer hat Kirchheim nach der Ortschronik vermutlich gegründet?",
+"optionen": [
+"Ritter aus Ziegenhain gründeten den Ort.",
+"Siedler aus Thüringen gründeten den Ort.",
+"Mönche aus Hersfeld gründeten den Ort.",
+"Händler aus Marburg gründeten den Ort."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ritter liegen nahe, denn später herrschten hier Adelsherren wie die von Hattenbach. Doch die Ortschronik nennt als Gründer vermutlich Hersfelder Mönche; das Stift Hersfeld war Oberherr. Urkundlich erwähnt wird der Ort als Kyricheim im Breviarium sancti Lulli. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kirchheim.de/seite/145215/chronik.html",
+"faktencheck": "bestätigt",
+"id": "240-kirchheim-hessen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "239-alsfeld",
+"anschluss": [
+"Kennzeichen: In Alsfeld steht VB am Auto, in Kirchheim HEF.",
+"Luftlinie nach Kassel: Kirchheim liegt zwölf Kilometer näher als Alsfeld."
+],
+"anschluesse": {
+"241-niederaula": [
+"Niederaula hat fast anderthalbmal so viele Einwohner wie Kirchheim."
+],
+"242-bad-hersfeld": [
+"Bad Hersfeld hat gut achtmal so viele Einwohner wie Kirchheim."
+],
+"239-alsfeld": [
+"Kennzeichen: In Alsfeld steht VB am Auto, in Kirchheim HEF.",
+"Luftlinie nach Kassel: Kirchheim liegt zwölf Kilometer näher als Alsfeld."
+]
+},
+"ags": "06632011",
+"ortsteil": false,
+"km_vom_vorigen": 23.5
+},
+{
+"slug": "241-niederaula",
+"name": "Niederaula",
+"lat": 50.8,
+"lon": 9.6,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederaula",
+"steckbrief": "Marktgemeinde mit rund 5.200 Einwohnern, 58 km südlich von Kassel.",
+"frage": "Durch Niederaula fließt die Aula. Was bedeutet der Flussname laut Gemeinde?",
+"optionen": [
+"Der Flussname bedeutet „Grenzbach“.",
+"Der Flussname bedeutet „Eulenbach“.",
+"Der Flussname bedeutet „Halle“, wie die Schulaula.",
+"Der Flussname bedeutet „schneller Bach“."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Schulaula drängt sich auf, denn das Wort stammt aus dem Lateinischen und meint dort eine Halle. Laut Gemeinde bedeutet der Flussname aber „Eulenbach“. Darum zeigt das Gemeindewappen eine silberne Eule. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.niederaula.de/seite/183349/zahlen-daten.html",
+"faktencheck": "korrigiert",
+"id": "241-niederaula/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niederaula",
+"steckbrief": "Marktgemeinde im Fuldatal, rund 64 km² groß, 58 km südlich von Kassel.",
+"frage": "Wie viele Einwohner zählt die Gemeinde Niederaula mit allen Ortsteilen?",
+"optionen": [
+"unter 2.000",
+"2.000 bis unter 4.000",
+"4.000 bis unter 7.000",
+"7.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an ländliche Dörfer im Fuldatal denkt, schätzt leicht zu niedrig. Niederaula ist aber eine Großgemeinde aus mehreren eingemeindeten Dörfern. Ende 2025 zählte sie 5.201 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "241-niederaula/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Niederaula",
+"steckbrief": "Rund 5.200 Einwohner, im Tal der Fulda, 58 km südlich von Kassel.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Neubaustrecke Hannover–Würzburg hält auch in Niederaula.",
+"Das Rathaus entstand aus einer denkmalgeschützten Scheune.",
+"Nach dem Krieg bauten katholische Flüchtlinge eine Kirche."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Rathaus in einer Scheune klingt erfunden, doch die Gemeinde baute dafür die denkmalgeschützte Stein'sche Scheune um. Auch die katholischen Flüchtlinge bauten ihre Kirche wirklich, am Hungerberg. Gelogen ist der Bahnhalt: Die Neubaustrecke führt westlich an der Gemeinde vorbei, über die Aula-Talbrücke und durch den Hattenbergtunnel, ohne Halt. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.niederaula.de/seite/131615/chronik.html",
+"faktencheck": "unsicher",
+"id": "241-niederaula/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Niederaula",
+"steckbrief": "Ländliche Marktgemeinde mit rund 5.200 Einwohnern, 58 km südlich von Kassel.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Niederaula nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"CDU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Raum Kassel gilt als traditionelles SPD-Land, darum liegt die SPD nahe. In Niederaula kam sie 2025 aber mit 21,7 % nur auf Platz drei. Vorn lagen die CDU mit 31,3 % und die AfD mit 25,2 %. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "241-niederaula/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederaula",
+"steckbrief": "Rund 5.200 Einwohner, 58 km südlich von Kassel.",
+"frage": "Das Wappen von Niederaula zeigt einen silbernen Wellenbalken mit vier Wellen. Wofür stehen die vier Wellen laut Gemeinde?",
+"optionen": [
+"Sie erinnern an vier frühere Mühlen.",
+"Sie stehen für vier Flüsse der Gemeinde.",
+"Sie erinnern an vier große Hochwasser.",
+"Sie stehen für vier alte Fuldafurten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wellen im Wappen erinnern oft an Mühlen oder Hochwasser, das liegt nahe. In Niederaula stehen sie für die vier Flüsse der Gemeinde: Fulda, Aula, Jossa und Hattenbach. Der Stern im Wappen steht für die Ortsteile. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.niederaula.de/seite/183349/zahlen-daten.html",
+"faktencheck": "bestätigt",
+"id": "241-niederaula/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niederaula",
+"steckbrief": "Rund 5.200 Einwohner, 58 km südlich von Kassel.",
+"frage": "Wie weit ist es in Luftlinie von Niederaula bis zur Landeshauptstadt Wiesbaden?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 100 km",
+"100 bis unter 140 km",
+"140 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer Kassel so nah weiß, hält Hessen leicht für klein und Wiesbaden für ebenso nah. Doch die Luftlinie nach Wiesbaden misst 125 km, gut doppelt so weit wie nach Kassel. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "241-niederaula/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederaula",
+"steckbrief": "Rund 5.200 Einwohner, an der Fulda, 58 km südlich von Kassel.",
+"frage": "Eine Urkunde von 779 übergibt Niederaula samt Umland dem Kloster Hersfeld. Wer hat den Ort damals verschenkt?",
+"optionen": [
+"Der Missionar Bonifatius verschenkte den Ort.",
+"Papst Leo III. verschenkte den Ort.",
+"Ludwig der Fromme verschenkte den Ort.",
+"Karl der Große verschenkte den Ort."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bonifatius liegt nahe, denn der Missionar prägte die Kirchengeschichte Hessens. Laut Ortschronik schenkte aber Karl der Große Niederaula mit seinem Umland an das Kloster Hersfeld. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.niederaula.de/seite/131615/chronik.html",
+"faktencheck": "korrigiert",
+"id": "241-niederaula/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederaula",
+"steckbrief": "Rund 5.200 Einwohner, 58 km südlich von Kassel.",
+"frage": "Die Sportschützin Manuela Schmermund schießt für die SG Mengshausen. Womit gewann sie bei den Paralympics 2004 in Athen Gold?",
+"optionen": [
+"Sie gewann Gold mit dem Luftgewehr.",
+"Sie gewann Gold mit der Luftpistole.",
+"Sie gewann Gold mit dem Kleinkalibergewehr.",
+"Sie gewann Gold mit der Sportpistole."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Kleinkalibergewehr liegt nahe, denn auch damit holte sie in Athen eine Medaille, allerdings Bronze. Gold gewann die Schützin der SG Mengshausen mit dem Luftgewehr. Richtig war 1.",
+"quelle": "Internationales Paralympisches Komitee, www.paralympic.org/athens-2004/results/shooting",
+"faktencheck": "korrigiert",
+"id": "241-niederaula/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederaula",
+"steckbrief": "Rund 5.200 Einwohner, 58 km südlich von Kassel.",
+"frage": "Der Dreißigjährige Krieg traf Niederaula hart. Vorher zählte der Ort 134 Haushaltungen. Wie viele waren es 1647 noch?",
+"optionen": [
+"Es waren noch 95 Haushaltungen.",
+"Es waren noch 67 Haushaltungen.",
+"Es waren noch 18 Haushaltungen.",
+"Es waren noch 41 Haushaltungen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Selbst ein Verlust um die Hälfte wäre verheerend, darum liegen mittlere Zahlen nahe. Die Ortschronik nennt für Niederaula aber nur noch 18 Haushaltungen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.niederaula.de/seite/131615/chronik.html",
+"faktencheck": "bestätigt",
+"id": "241-niederaula/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "240-kirchheim-hessen",
+"anschluss": [
+"Im Jahr 1427 gehörte Kirchheim zum Gericht Niederaula.",
+"Niederaula und Kirchheim erschlossen gemeinsam das Gewerbegebiet Friedrichsfeld."
+],
+"anschluesse": {
+"240-kirchheim-hessen": [
+"Im Jahr 1427 gehörte Kirchheim zum Gericht Niederaula.",
+"Niederaula und Kirchheim erschlossen gemeinsam das Gewerbegebiet Friedrichsfeld."
+],
+"242-bad-hersfeld": [
+"Bad Hersfeld hat sechsmal so viele Einwohner wie Niederaula."
+]
+},
+"ags": "06632015",
+"ortsteil": false,
+"km_vom_vorigen": 4.9
+},
+{
+"slug": "242-bad-hersfeld",
+"name": "Bad Hersfeld",
+"lat": 50.86833,
+"lon": 9.70667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Hersfeld",
+"steckbrief": "Kreisstadt mit rund 30.600 Einwohnern, 52 km südlich von Kassel.",
+"frage": "Das Stadtwappen zeigt ein rotes Doppelkreuz und einen Löwen. Wie kam der Löwe ins Wappen?",
+"optionen": [
+"Hessen eroberte die Stadt und setzte ihn hinein.",
+"Bürger wählten ihn als Zeichen ihres Mutes.",
+"Der Löwe war das Zeichen der Abtei.",
+"Ein Kaiser verlieh ihn der Stadt für Treue."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der überlieferte Wappenspruch der Stadt rät zu „Löwenmut“, darum liegt ein Zeichen der Bürger nahe. Tatsächlich eroberte Landgraf Philipp I. die Stadt im Deutschen Bauernkrieg; daher steht der hessische Löwe neben dem Hersfelder Doppelkreuz, das von der Benediktinerabtei stammt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bad-hersfeld.de/stadtportrait.html",
+"faktencheck": "korrigiert",
+"id": "242-bad-hersfeld/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Hersfeld",
+"steckbrief": "Kreisstadt mit rund 30.600 Einwohnern, 52 km südlich von Kassel.",
+"frage": "Wie groß ist das Stadtgebiet von Bad Hersfeld?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 90 km²",
+"90 bis unter 140 km²",
+"140 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer nur an Altstadt und Kurpark denkt, schätzt leicht zu klein. Zur Stadt gehören aber auch Dörfer, die bei der Gebietsreform eingemeindet wurden. Bad Hersfeld misst 73,87 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "242-bad-hersfeld/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bad Hersfeld",
+"steckbrief": "Kreisstadt mit rund 30.600 Einwohnern, 52 km südlich von Kassel.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Konrad Duden leitete einst das Gymnasium der Stadt.",
+"Jahrzehntelang waren britische Truppen in der Stadt stationiert.",
+"Ein ICE-Zug wurde auf den Stadtnamen getauft."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Soldaten lagen nach dem Krieg tatsächlich jahrzehntelang in der Stadt, aber amerikanische: Von 1945 bis 1993 war Bad Hersfeld Garnison der US-Armee. Gepanzerte Kavallerie-Regimenter überwachten von hier die innerdeutsche Grenze. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Hersfeld",
+"faktencheck": "korrigiert",
+"id": "242-bad-hersfeld/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Hersfeld",
+"steckbrief": "Kreisstadt mit rund 30.600 Einwohnern, 52 km südlich von Kassel.",
+"frage": "Wie hoch war in Bad Hersfeld die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 65 %",
+"65 bis unter 70 %",
+"70 bis unter 75 %",
+"75 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Städten gehen oft weniger Menschen wählen als auf dem Land, deshalb liegt eine niedrige Schätzung nahe. In Bad Hersfeld lag die Wahlbeteiligung aber bei 78,3 Prozent; vorn lag die CDU vor AfD und SPD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "242-bad-hersfeld/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Hersfeld",
+"steckbrief": "Kreisstadt mit rund 30.600 Einwohnern, 52 km südlich von Kassel.",
+"frage": "Napoleon befahl 1807, Hersfeld anzuzünden. Wie bewahrte der badische Oberstleutnant Lingg von Linggenfeld die Stadt vor der Vernichtung?",
+"optionen": [
+"Er ließ nur einzelne Gebäude anzünden.",
+"Er meldete den Brand, ohne Feuer zu legen.",
+"Er verweigerte den Befehl und wurde verhaftet.",
+"Er erwirkte bei Napoleon die Rücknahme des Befehls."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Offener Ungehorsam liegt nahe, wäre für einen Offizier aber gefährlich gewesen. Lingg ließ den Befehl nur zum Schein ausführen: Mit stillschweigender Duldung der Franzosen brannten bloß vier freistehende, unbewohnte Gebäude am Stadtrand. So entging Hersfeld der Vernichtung. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Hersfeld",
+"faktencheck": "korrigiert",
+"id": "242-bad-hersfeld/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Hersfeld",
+"steckbrief": "Kreisstadt mit rund 30.600 Einwohnern, 52 km südlich von Kassel.",
+"frage": "Wie weit ist es von Bad Hersfeld in Luftlinie bis zur Landeshauptstadt Wiesbaden?",
+"optionen": [
+"unter 100 km",
+"100 bis unter 150 km",
+"150 bis unter 200 km",
+"200 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kassel liegt so nah, dass man auch Wiesbaden nicht weit vermutet. Doch Bad Hersfeld liegt im Nordosten Hessens, Wiesbaden ganz im Südwesten am Rhein: 135 Kilometer Luftlinie trennen die beiden Städte. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "242-bad-hersfeld/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Hersfeld",
+"steckbrief": "Kreisstadt mit rund 30.600 Einwohnern, 52 km südlich von Kassel.",
+"frage": "Die Stiftsruine kennt man als Bühne der Bad Hersfelder Festspiele. Wodurch wurde die Stiftskirche zur Ruine?",
+"optionen": [
+"Sie brannte im Dreißigjährigen Krieg nieder.",
+"Bomben zerstörten sie im Zweiten Weltkrieg.",
+"Sie brannte im Siebenjährigen Krieg nieder.",
+"Sie wurde im Schmalkaldischen Krieg zerstört."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Ruinen denken viele an Bomben im Zweiten Weltkrieg, weil sie so viele Kirchen zerstörten. Die Stiftskirche war da längst eine Ruine: Im Siebenjährigen Krieg setzten abziehende Franzosen 1761 ihre dort gelagerten Vorräte in Brand, und die Kirche brannte aus. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Hersfeld",
+"faktencheck": "korrigiert",
+"id": "242-bad-hersfeld/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Hersfeld",
+"steckbrief": "Kreisstadt mit rund 30.600 Einwohnern, 52 km südlich von Kassel.",
+"frage": "Die Lullusquelle ist seit 1518 urkundlich erwähnt, wurde aber erst 1904 wieder erschlossen. Was war ihr dazwischen passiert?",
+"optionen": [
+"Die Abtei ließ sie zumauern.",
+"Ein Hochwasser hatte sie verschüttet.",
+"Ein Erdbeben ließ sie versiegen.",
+"Bergleute gruben ihr das Wasser ab."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dass Quellen versiegen, kennt man, darum denken viele an ein Erdbeben oder Bergbau. Die Lullusquelle wurde aber bei einem Hochwasser verschüttet und blieb es, bis man sie wieder erschloss. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Hersfeld",
+"faktencheck": "unsicher",
+"id": "242-bad-hersfeld/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Hersfeld",
+"steckbrief": "Kreisstadt mit rund 30.600 Einwohnern, 52 km südlich von Kassel.",
+"frage": "Ein Kreuz in der Leonardt-Müller-Anlage erinnert an die Vitalisnacht 1378. Was geschah in dieser Nacht?",
+"optionen": [
+"Bürger überfielen nachts das Kloster.",
+"Ein Hochwasser überflutete nachts die Stadt.",
+"Ein Kaiser zog nachts feierlich in die Stadt ein.",
+"Der Abt überfiel nachts die Stadt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Nacht mit Heiligennamen lässt an ein Unglück denken, etwa eine Flut. Gemeint ist aber ein Machtkampf zwischen Abtei und Stadt: Abt Berthold wollte Hersfeld in der Vitalisnacht unter seine Herrschaft zwingen, doch der Anschlag scheiterte. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Hersfeld",
+"faktencheck": "korrigiert",
+"id": "242-bad-hersfeld/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Hersfeld",
+"steckbrief": "Kreisstadt mit rund 30.600 Einwohnern, 52 km südlich von Kassel.",
+"frage": "Bad Hersfeld war Patenstadt des Schnellboots S 75 „Zobel“ der deutschen Marine. Warum endete die Patenschaft?",
+"optionen": [
+"Das Boot wurde außer Dienst gestellt.",
+"Das Boot sank bei einem Manöver.",
+"Die Stadt kündigte sie aus Protest.",
+"Die Marine gab Patenschaften generell auf."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Ende im Streit liegt nahe, weil Patenschaften zwischen Städten und Militär nicht immer unumstritten sind. Der Grund war schlichter: 2016 stellte die Marine die Zobel mit ihrem ganzen Geschwader außer Dienst. Damit endete die Patenschaft, die seit 1973 bestand. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Hersfeld",
+"faktencheck": "korrigiert",
+"id": "242-bad-hersfeld/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "241-niederaula",
+"anschluss": [
+"Kennzeichen: In Niederaula und Bad Hersfeld steht HEF am Auto.",
+"Einwohner: Bad Hersfeld hat fast sechsmal so viele wie Niederaula."
+],
+"anschluesse": {
+"240-kirchheim-hessen": [
+"Bad Hersfeld hat gut achtmal so viele Einwohner wie Kirchheim."
+],
+"241-niederaula": [
+"Kennzeichen: In Niederaula und Bad Hersfeld steht HEF am Auto.",
+"Einwohner: Bad Hersfeld hat fast sechsmal so viele wie Niederaula."
+],
+"243-friedewald": [
+"Bad Hersfeld hat fast zwölfmal so viele Einwohner wie Friedewald.",
+"Friedewald liegt rund 180 Meter höher als Bad Hersfeld."
+]
+},
+"ags": "06632002",
+"ortsteil": false,
+"km_vom_vorigen": 10.7
+},
+{
+"slug": "243-friedewald",
+"name": "Friedewald",
+"lat": 50.88333,
+"lon": 9.86667,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Friedewald",
+"steckbrief": "Landgemeinde mit rund 2.600 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Wie groß ist das Gemeindegebiet von Friedewald?",
+"optionen": [
+"unter 45 km²",
+"45 bis unter 70 km²",
+"70 bis unter 100 km²",
+"100 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Landgemeinden wirken oft weitläufig, deshalb schätzen viele mehr. Das Gemeindegebiet von Friedewald umfasst aber nur 39,64 Quadratkilometer und bleibt damit in der kleinsten Spanne. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "243-friedewald/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Friedewald",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Drei Aussagen zum Nadelöhr, einem Steindenkmal an der Straße nach Hönebach. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Nadelöhr trägt das Kürzel eines Landgrafen.",
+"Das Durchkriechen geht auf einen alten Heilbrauch zurück.",
+"Das Nadelöhr war ursprünglich ein Grenzstein."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Grenzstein liegt nahe, denn alte Steine an Landstraßen markieren oft Grenzen. Das Nadelöhr aber war ursprünglich ein hohler Baum. Reisende mussten nach altem Brauch hindurchkriechen. Das geht auf einen Heilritus zurück, der das Abstreifen von Krankheit versprach. Später ließ Landgraf Moritz an seiner Stelle einen Stein errichten. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-friedewald.de/freizeit-kultur/sehenswuerdigkeiten/",
+"faktencheck": "korrigiert",
+"id": "243-friedewald/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Friedewald",
+"steckbrief": "Ländliche Gemeinde mit rund 2.600 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Friedewald?",
+"optionen": [
+"unter 22 %",
+"22 bis unter 26 %",
+"26 bis unter 32 %",
+"32 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land erwarten viele eine Partei weit vorn. In Friedewald verteilten sich die Zweitstimmen aber breiter: Die CDU lag mit 29,9 Prozent vorn, AfD und SPD folgten dahinter. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "243-friedewald/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedewald",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "1879 entstand in Friedewald eine Darlehenskasse nach dem Prinzip Raiffeisens. Wer regte ihre Gründung an?",
+"optionen": [
+"Der Bürgermeister des Dorfes regte sie an.",
+"Ein Gutsbesitzer aus der Gegend regte sie an.",
+"Der Dorflehrer regte sie an.",
+"Der Pfarrer des Ortes regte sie an."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Geldkasse denkt man eher an Bürgermeister oder Gutsherren. Den Anstoß gab aber Pfarrer Haupt. Raiffeisenkassen sollten Bauern durch gemeinsames Sparen an günstige Kredite bringen, und Geistliche unterstützten solche Gründungen oft. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-friedewald.de/freizeit-kultur/geschichte/",
+"faktencheck": "bestätigt",
+"id": "243-friedewald/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Friedewald",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Wie weit ist es von Friedewald in Luftlinie bis zur Landeshauptstadt Wiesbaden?",
+"optionen": [
+"unter 160 km",
+"160 bis unter 200 km",
+"200 bis unter 250 km",
+"250 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wiesbaden liegt im Südwesten Hessens, Friedewald im Osten des Landes; das klingt nach einer weiten Strecke. In Luftlinie sind es aber nur 145 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "243-friedewald/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedewald",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Die Gißlingskirche bei Friedewald ist heute eine Ruine. Wer verlieh ihr 1386 das Recht auf Bestattungen?",
+"optionen": [
+"Der Abt von Fulda verlieh es.",
+"Der Bischof von Würzburg verlieh es.",
+"Der Bischof von Bamberg verlieh es.",
+"Der Landgraf von Hessen verlieh es."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Fulda liegt nahe, denn die mächtige Abtei war nicht weit entfernt. Das Recht, Tote an der Kirche zu bestatten, verlieh aber der Bischof von Würzburg. Die Kirche gehörte zum Dorf Gosselndorf, das später ganz aufgegeben wurde. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-friedewald.de/freizeit-kultur/sehenswuerdigkeiten/",
+"faktencheck": "bestätigt",
+"id": "243-friedewald/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedewald",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "An der Straße nach Hönebach steht ein Denkmal namens „Zollstock“. Woran erinnert es?",
+"optionen": [
+"Es erinnert an eine Zollstockwerkstatt.",
+"Es zeigt, wo Holzhändler Stämme vermaßen.",
+"Es erinnert an eine mittelalterliche Grenze.",
+"Es erinnert an einen Kutschenunfall."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Beim Namen denkt man an den Meterstab aus der Werkzeugkiste. Das steinerne Mal erinnert aber an eine mittelalterliche Grenze zwischen Hessen, Thüringen und dem Grabfeld. An dieser Stelle befand sich zudem eine hessische Zollstätte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-friedewald.de/freizeit-kultur/sehenswuerdigkeiten/",
+"faktencheck": "korrigiert",
+"id": "243-friedewald/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedewald",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Ein Beleg von 1462 nennt den heutigen Ortsteil Hillartshausen. Was hält er über den Ort fest?",
+"optionen": [
+"Damals war Hillartshausen ein verlassenes Dorf.",
+"Damals war Hillartshausen ein befestigter Rittersitz.",
+"Damals war Hillartshausen ein bewohnter Klosterhof.",
+"Damals war Hillartshausen ein Dorf mit Markt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Man erwartet, dass ein alter Beleg ein lebendiges Dorf zeigt. 1462 aber heißt der Ort Hildershusen und ist eine Wüstung, also eine verlassene Siedlung. Später war er wieder ein Dörfchen; heute ist er ein Ortsteil von Friedewald. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-friedewald.de/freizeit-kultur/geschichte/",
+"faktencheck": "korrigiert",
+"id": "243-friedewald/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "242-bad-hersfeld",
+"anschluss": [
+"Höhe: Friedewald liegt rund 180 Meter höher als Bad Hersfeld.",
+"Friedewalds Nadelöhr trug einen Opferstock für Hersfelder Waisenkinder."
+],
+"anschluesse": {
+"242-bad-hersfeld": [
+"Höhe: Friedewald liegt rund 180 Meter höher als Bad Hersfeld.",
+"Friedewalds Nadelöhr trug einen Opferstock für Hersfelder Waisenkinder."
+],
+"244-wildeck": [
+"Wildeck hat fast doppelt so viele Einwohner wie Friedewald.",
+"Friedewald liegt rund 170 Meter höher als Wildeck."
+]
+},
+"ags": "06632006",
+"ortsteil": false,
+"km_vom_vorigen": 11.3
+},
+{
+"slug": "244-wildeck",
+"name": "Wildeck",
+"lat": 50.95,
+"lon": 9.98333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wildeck",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 53 km südöstlich von Kassel.",
+"frage": "Ende 1971 schlossen sich fünf Gemeinden zur Gemeinde Wildeck zusammen. Woher stammt der Name?",
+"optionen": [
+"Ein bekanntes Volksmusik-Duo gab ihn her.",
+"Er setzt sich aus zwei Dorfnamen zusammen.",
+"Er geht auf ein mittelalterliches Amt zurück.",
+"Ein Gutsherr gab seinen Familiennamen dafür her."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Zusammenschlüssen entstehen oft Doppelnamen aus zwei Dörfern. Doch die neue Gemeinde übernahm den Namen des mittelalterlichen fuldischen Amts Wildeck. Dessen anfänglicher Sitz waren Burg und Schloss Wildeck auf dem Schloßberg bei Raßdorf. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/",
+"faktencheck": "korrigiert",
+"id": "244-wildeck/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wildeck",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 53 km südöstlich von Kassel.",
+"frage": "Wie viele Einwohner leben in Wildeck rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 40",
+"40 bis unter 70",
+"70 bis unter 100",
+"100 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wenige tausend Einwohner, verteilt auf mehrere Dörfer – da schätzt man die Besiedlung leicht dünn. Rechnerisch kommen in Wildeck aber 116 Einwohner auf einen Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "244-wildeck/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wildeck",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 53 km südöstlich von Kassel.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Wildecks Wahrzeichen, ein Torbogen, stammt von Burg Wildeck.",
+"Auf Burg Wildecks eingeebneten Mauerresten entstand ein Jagdschloss.",
+"Ein Steinsockel am Inselsteich trägt eine lateinische Inschrift."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein alter Torbogen auf einem Burgberg – da tippt man auf die mittelalterliche Burg. Doch Torbogen und Mauerwerk stammen vom Jagdschloss Blumenstein, das Landgraf Ernst von Rotenburg aus Jagdleidenschaft auf den eingeebneten Burgresten errichten ließ. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/wildecker-tal/",
+"faktencheck": "bestätigt",
+"id": "244-wildeck/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Wildeck",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 53 km südöstlich von Kassel.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Wildeck nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"CDU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Vor der Wahl stellte die SPD den Kanzler, Platz zwei liegt also nahe. Doch in Wildeck lag die AfD mit 24 Prozent knapp vor der SPD mit 23,1 Prozent. Vorn lag die CDU mit 30 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "244-wildeck/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wildeck",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 53 km südöstlich von Kassel.",
+"frage": "Das Wildecker Tal trug früher den Beinamen „Hessisches Sanssouci“. Was gab ihm diesen Namen?",
+"optionen": [
+"Ein Preußenkönig ließ dort ein Lustschloss bauen.",
+"Terrassierte Weinberge erinnerten an die in Potsdam.",
+"Ein prächtiges Schloss mit Parkanlagen prägte das Tal.",
+"Ein Kurbad lockte vornehme Gäste aus Preußen an."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Sanssouci steht für Potsdam und Preußens Könige, also denkt man an einen preußischen Bauherrn. Den Beinamen verdankte das Tal aber Schloss und Parkanlagen: Landgraf Konstantin von Rotenburg baute ein Sommerschloss und ließ das Tal zur Parkanlage umgestalten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/wildecker-tal/",
+"faktencheck": "unsicher",
+"id": "244-wildeck/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wildeck",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 53 km südöstlich von Kassel.",
+"frage": "Wie groß ist die Fläche der Gemeinde Wildeck?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 35 km²",
+"35 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei wenigen tausend Einwohnern stellt man sich eine kleine Gemeinde vor. Doch Wildeck reicht vom Talgebiet der Werra bis an die Südabhänge des Richelsdorfer Gebirges und misst 39,93 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "244-wildeck/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wildeck",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 53 km südöstlich von Kassel.",
+"frage": "In Bosserode erinnert ein Gedenkort an „Camp Romeo“. Was war Camp Romeo?",
+"optionen": [
+"Ein Beobachtungsposten der US-Armee an der Grenze.",
+"Ein Wachturm der DDR-Grenztruppen am Todesstreifen.",
+"Ein Feldlager der Bundeswehr für Manöver.",
+"Ein Horchposten des Bundesnachrichtendienstes."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Posten an der innerdeutschen Grenze lässt zuerst an die DDR denken. Doch Camp Romeo betrieb die US-Armee als Beobachtungsposten am Fulda Gap, einem möglichen Aufmarschgebiet bei einer Eskalation des Kalten Kriegs. Heute erinnern ein Gedenkstein und eine Informationstafel daran. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.wildeck.de/tourismus-freizeit/sehenswuerdigkeiten/gedenkstaette-camp-romeo/",
+"faktencheck": "bestätigt",
+"id": "244-wildeck/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wildeck",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 53 km südöstlich von Kassel.",
+"frage": "Das Wappen von Wildeck hat einen rot-weißen Rand, der oben offen ist. Wofür steht die Öffnung?",
+"optionen": [
+"Sie zeigt das Werratal als offenen Durchgang.",
+"Sie steht für die Grenzlage zwischen zwei Ländern.",
+"Sie steht für den offenen Himmel über dem Ackerland.",
+"Sie lädt symbolisch Zugezogene in die Gemeinde ein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein offener Rahmen wirkt wie ein Tor ins Tal oder eine Einladung. Gemeint ist aber die Grenzlage zwischen Hessen und Thüringen, früher zwischen Bundesrepublik und DDR. Die rot-weißen Felder zeigen die Landesfarben beider Länder. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.wildeck.de/rathaus-buergerservice/wissenswertes/geschichte-der-gemeinde/",
+"faktencheck": "bestätigt",
+"id": "244-wildeck/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wildeck",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 53 km südöstlich von Kassel.",
+"frage": "1911 wurde in Obersuhl, heute Ortsteil von Wildeck, die elektrische Oberleitung unter Spannung gesetzt. Woher kam der Strom anfangs?",
+"optionen": [
+"Ein eigenes Wasserkraftwerk am Fluss lieferte ihn.",
+"Er kam aus einem regionalen Überlandnetz.",
+"Eine Dampfmaschine in einer örtlichen Mühle erzeugte ihn.",
+"Die Kraftzentrale eines Kalischachts lieferte ihn."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele Dörfer erzeugten ihren ersten Strom mit Wasserkraft, das liegt an einem Fluss nahe. Obersuhl bezog ihn jedoch aus der Kraftzentrale des Berkaer Kalischachts Alexandershall. Eine Trafostation an der Ecke Bothenweg/Goethestraße versorgte das ganze Dorf bis nach dem Zweiten Weltkrieg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.wildeck.de/gemeindewerke/stromversorgung/geschichte-der-stromversorgung-in-obersuhl/",
+"faktencheck": "unsicher",
+"id": "244-wildeck/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "243-friedewald",
+"anschluss": [
+"Fläche: Wildeck und Friedewald messen beide knapp 40 Quadratkilometer.",
+"Einwohner: Wildeck hat rund 2.000 mehr als Friedewald."
+],
+"anschluesse": {
+"243-friedewald": [
+"Fläche: Wildeck und Friedewald messen beide knapp 40 Quadratkilometer.",
+"Einwohner: Wildeck hat rund 2.000 mehr als Friedewald."
+]
+},
+"ags": "06632020",
+"ortsteil": false,
+"km_vom_vorigen": 11.0
 }
 ]
 }

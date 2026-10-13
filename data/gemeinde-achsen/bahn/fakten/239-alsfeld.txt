@@ -1,0 +1,489 @@
+ID: 239-alsfeld/001
+ENTITÄT: ort
+BEZEICHNUNG: Alsfeld
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft_source: Wilhelm Dilich hessische Chronik 1605
+  charakterisierung_1605: "vornehmer Ort"
+  charakterisierung_1605_alt: "Hauptstadt des Landes"
+  lage_geographie: zwischen Vogelsberg und Knüll
+  lage_fluss: an der Schwalm
+  gruendung_zeit: ausgehendes 8. Jahrhundert
+  gruendung_form: Hofsitz der Karolinger
+  genauigkeit_gruendung: "wahrscheinlich"
+  kirche_frueh_zeitraum: 9./10. Jahrhundert
+  kirche_frueh_typ: romanische Kirche mit drei Apsiden
+  burg_stadt_bauzeit: 1180-1190
+  burg_stadt_grund: Territorialpolitik der Landgrafen von Thüringen
+  erstmalige_nennung: 1069
+  erstmalige_nennung_2: 1076
+  staedtischer_charakter_ab: 1222
+  staedtischer_charakter_ab_alt: 1231
+  rheinischer_staedtebund_beitritt: 1254
+  rheinischer_staedtebund_partner: Grünberg und Marburg
+  wirtschaft_typ: bedeutender Markt- und Münzort
+  wirtschaft_grund: günstige Lage auf dem Weg von Frankfurt nach Leipzig
+  character_typ: wohlhabende Stadt
+  character_basis: Leistungen der Bürger in Handwerk und Handel
+  architecture_ausbau: Kirche, Kloster, Türme, Rathaus, Wasserversorgungsanlagen
+  residenz_landgraf: ja
+  residenz_landgraf_person: Hermann II. von Hessen
+  residenz_zeit_ca: um 1395
+  schloss_erbauer: Hermann II. von Hessen
+  schloss_bauzeit_ca: um 1395
+  verfassung_korebrief: ja
+  verfassung_korebrief_jahr: 1429
+  verfassung_korebrief_gueltig_bis: 1820/1821
+  korebrief_auswirkung: Zünfte erhielten Einfluss auf kommunale Politik
+  einwohner_kernstadt: 9368
+  einwohner_kernstadt_stand: 31.12.2021
+  einwohner_gesamt: 16392
+  einwohner_gesamt_stand: 31.12.2021
+  stadtteile_anzahl: 16
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 239-alsfeld/002
+ENTITÄT: kirche
+BEZEICHNUNG: Walpurgiskirche
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 9./10. Jahrhundert
+  bauzeit_stil: romanisch
+  apsis_anzahl: 3
+  nachweis_methode: Grabungen
+  nachweis_quelle: Grabungen in der Walpurgiskirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 239-alsfeld/003
+ENTITÄT: ort
+BEZEICHNUNG: Altenburg
+ORTSTEIL_BEZUG: Altenburg
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/altenburg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Stadtteil
+  charakterisierung: lebendiges und zukunftsfähiges Dorf
+  groessenverhaeltnis: größter Stadtteil von Alsfeld
+  lage_zu_kernstadt: am nächsten an Kernstadt Alsfeld
+  engagement: hohe bürgerschaftliche Engagement
+  preis_wettbewerb_lokal: 1. Preis Regionalentscheid 2005
+  wettbewerb_name: Hessischer Landeswettbewerb "Unser Dorf 2005"
+  wettbewerb_region: Landkreise Hersfeld-Rotenburg, Fulda, Main-Kinzig, Vogelsbergkreis
+  preis_wettbewerb_landesebene: Hessischer Landessieger
+  preis_wettbewerb_landesebene_jahr: 2006
+  einwohner: 1170
+  einwohner_stand: 31.12.2021
+  ortsvorsteher: Sabine Leskien
+  ortsbeirat_spd: 4
+  ortsbeirat_bla: 5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 239-alsfeld/004
+ENTITÄT: stadtteil
+BEZEICHNUNG: Angenrod
+ORTSTEIL_BEZUG: Angenrod
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_geogr: Antrifttal
+  hoehenlage: 292 m
+  bergkuppen: umgeben von kleineren Bergen und Bergkuppen
+  berg_hoechster_name: Möncheberg
+  berg_hoechster_hoehe: 359.7 m
+  fluss: Antrift
+  erstmalige_nennung: 1272
+  erstmalige_nennung_form: "sita in Ingerode"
+  entfernung_alsfeld: 5 km
+  einwohner: 509
+  einwohner_stand: 31.12.2021
+  historische_judaica: große jüdische Gemeinde bis 2. Weltkrieg
+  historische_judaica_detail: Synagoge
+  infrastruktur: angemessen
+  antrift_stausee_groesse: 31 ha
+  antrift_stausee_rundweg: ca. 3 km
+  ortsvorsteher: Axel Möller
+  ortsbeirat_spd: 5
+  ortsbeirat_fwa: 4
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 239-alsfeld/005
+ENTITÄT: stadtteil
+BEZEICHNUNG: Berfa
+ORTSTEIL_BEZUG: Berfa
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_fluss: Tal des Flüsschens Berf
+  lage_berge: zwischen Bechtelsberg und Steinfirst
+  erstmalige_nennung: 1282
+  erstmalige_nennung_form: "Berfe"
+  historischer_name: Superior Berfe (Staatsarchiv Marburg)
+  gebietsreform: 1972
+  gebietsreform_aktion: Eingemeindung als Stadtteil
+  gemarkungsflaeche: 682 ha
+  einwohner: 521
+  einwohner_stand: 31.12.2021
+  ortsvorsteher: Alexander Schmidt
+  ortsbeirat_wgb: 9
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 239-alsfeld/006
+ENTITÄT: stadtteil
+BEZEICHNUNG: Billertshausen
+ORTSTEIL_BEZUG: Billertshausen
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: landwirtschaftlich geprägt
+  lage_bachlauf: am Bachlauf der Antrift
+  lage_gebirge: nordwestlicher Rand des Vogelsberges
+  einwohner: 171
+  einwohner_stand: 31.12.2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 239-alsfeld/007
+ENTITÄT: stadtteil
+BEZEICHNUNG: Eifa
+ORTSTEIL_BEZUG: Eifa
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_nennung: 1339
+  erstmalige_nennung_form: "Winter von Altenburg verlieh Gut zu Yfe"
+  historische_besitzerschaft: Winter von Altenburg
+  charakterisierung: Straßenort
+  lage_verkehr: Verbindungsstraße Altenburg nach Thüringen
+  einwohner: 679
+  einwohner_stand: 31.12.2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 239-alsfeld/008
+ENTITÄT: stadtteil
+BEZEICHNUNG: Elbenrod
+ORTSTEIL_BEZUG: Elbenrod
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: idyllische Landschaft
+  erhalt_charakter: dörflicher Charakter erhalten
+  entfernung_alsfeld: ca. 6 km
+  fluss: Bach Berf (beide Seiten)
+  fruehe_struktur: Bauerndorf bis 1960er Jahre
+  strukturwandel_ab: 1960er Jahre
+  kulturlandschaft_nord: Steinfirst
+  kulturlandschaft_sued: Dick
+  kirche_bauzeit: 12. Jahrhundert
+  grenzsteine_bauzeit: 15. Jahrhundert
+  ortskern: gut erhaltene Hofreiten
+  einwohner: 365
+  einwohner_stand: 31.12.2021
+  ortsvorsteher: Felix Reis
+  ortsbeirat_wg: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 239-alsfeld/009
+ENTITÄT: stadtteil
+BEZEICHNUNG: Eudorf
+ORTSTEIL_BEZUG: Eudorf
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung_kernstadt: 2 km
+  entfernung_autobahn: 2 km (zur A5)
+  charakterisierung: landwirtschaftlich geprägt
+  wirtschaft_erhalt: landwirtschaftliche Struktur bewahrt
+  hotelbetriebe_anzahl: 2
+  einwohner: 409
+  einwohner_stand: 31.12.2021
+  ortsvorsteher: Edgar Merle
+  ortsbeirat_cdu: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 239-alsfeld/010
+ENTITÄT: stadtteil
+BEZEICHNUNG: Fischbach
+ORTSTEIL_BEZUG: Fischbach
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groessenvergleich: zweitkleinster Stadtteil
+  lage_himmelsrichtung: nordwestlich
+  lage_position: fast mittig zwischen Alsfeld und Treysa
+  umgebung: ringsum von Wald umgeben
+  kirchspiel: Holzburg – Schrecksbach
+  gottesdienst_rhythmus: vierwöchig im DGH
+  infrastruktur_netz: Glasfaserleitungen in alle Häuser
+  wanderwege_anzahl: 2
+  wanderwege_laenge: 4 km und 11 km
+  einwohner: 90
+  einwohner_stand: 2024
+  einwohner_alt: 95
+  einwohner_alt_stand: 31.12.2021
+  ortsvorsteher: Walter Glücker
+  ortsbeirat_fwg: 4
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 239-alsfeld/011
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hattendorf
+ORTSTEIL_BEZUG: Hattendorf
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung_stadtkern: ca. 8 km
+  lage_fluss: Tal der Berf
+  siedlungsgruendung_zeit: fraenkische Siedlungsperiode 6.–9. Jahrhundert
+  genauigkeit_gruendung: "nach Namensdeutung"
+  namensursprung: Gründer Hatto, fränkischer Edelmann
+  fruehe_nachweise: Steinbeile aus Feldarbeiten
+  erstmalige_nennung: 1248
+  altortname: Althattendorf
+  altortname_lage: rechtes Ufer der Berf
+  altortname_einflussbereich: Kloster Immichenhain
+  neuortname: Neuhattendorf
+  neuortname_lage: linkes Ufer der Berf
+  neuortname_erstmalige_nennung: 1577
+  vereinigung_beide_teile: 1937
+  kirche_bauzeit: 1857
+  einwohner: 485
+  einwohner_stand: 31.12.2021
+  ortsvorsteher: Gerd Weckesser
+  ortsbeirat_blh: 9
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 239-alsfeld/012
+ENTITÄT: stadtteil
+BEZEICHNUNG: Heidelbach
+ORTSTEIL_BEZUG: Heidelbach
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlungstyp: kleines Haufendorf
+  fachwerk_alter: teilweise über 100 Jahre alt
+  fachwerk_zustand: gut erhalten
+  lage_vogelsberg: am Rande des Vogelsberges
+  lage_fluss: direkt an der Schwalm
+  hochwasserschutz: Staumauer
+  umgebung_anhoehen: Steimes, Reichberg, Heidelberg
+  entfernung_alsfeld: 7 km nördlich
+  einwohner: 296
+  einwohner_stand: 31.12.2021
+  ortsvorsteher: Dietmar Hermann
+  ortsbeirat_wg: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 239-alsfeld/013
+ENTITÄT: stadtteil
+BEZEICHNUNG: Leusel
+ORTSTEIL_BEZUG: Leusel
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehenlage: 265 m
+  erstmalige_nennung: 1107
+  gebietsreform: 1972
+  gebietsreform_aktion: Stadtteil von Alsfeld
+  einwohner: 659
+  einwohner_stand: 31.12.2021
+  ortsvorsteher: Ralf Lämmer
+  ortsbeirat_bfl: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 239-alsfeld/014
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Leusel
+ORTSTEIL_BEZUG: Leusel
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/leusel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1696-1697
+  grundsteinlegung: 23.04.1696
+  einweihungsgottesdienst: 19.09.1697
+  orgel_bauzeit: 1769
+  gemalte_decke: Holztonnendecke mit Gemälde
+  gemalte_decke_verputz_ab: 1824
+  gemalte_decke_freilegung: 1961
+  gemalte_decke_restaurierung: 1961
+  renovierung_abschluss: 2004
+  architektur_stil: Barockkirche ländlich
+  architektur_bewertung: vorzüglich erhaltenes Beispiel einer ländlichen Barockkirche
+  architektur_bewertung_quelle: Denkmalpfleger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 239-alsfeld/015
+ENTITÄT: stadtteil
+BEZEICHNUNG: Liederbach
+ORTSTEIL_BEZUG: Liederbach
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_landschaft: eingebettet zwischen Wäldern in malerischer Landschaft
+  aktivitaeten: Wanderungen und Radtouren
+  einwohner: 499
+  einwohner_stand: 31.12.2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 239-alsfeld/016
+ENTITÄT: stadtteil
+BEZEICHNUNG: Lingelbach
+ORTSTEIL_BEZUG: Lingelbach
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namenserklarung: "-bach"-Endung
+  namenserklarung_zeitraum: fraenkische Siedlungsperiode 500-900
+  erstmalige_nennung_kontext: Kloster Fulda
+  erstmalige_nennung_hypothese: Kloster Fulda wahrscheinlich Siedlungsträger
+  entwicklung_hypothese: vermutlich in karolingischer Zeit Königsland
+  entwicklung_hypothese2: später von Karolinger dem Kloster Fulda zu Lehen gegeben
+  einwohner: 566
+  einwohner_stand: 31.12.2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 239-alsfeld/017
+ENTITÄT: stadtteil
+BEZEICHNUNG: Münch-Leusel
+ORTSTEIL_BEZUG: Münch-Leusel
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: landwirtschaftlich geprägt
+  haupterwerbsbetriebe: 4
+  strassenanlage: ringförmig
+  strassenanlage_name: Ortsring
+  haeuseranbindung: alle Häuser außer 3 außerhalb angeschlossen
+  hauser_ausserhalb_lage: Am Roten Rain
+  wegeinfrastruktur: gut ausgebaut Rad- und Wanderwege
+  landschaft_durchquerung: Felder, Wiesen, Mordwäldchen
+  einwohner: 51
+  einwohner_stand: 31.12.2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 239-alsfeld/018
+ENTITÄT: stadtteil
+BEZEICHNUNG: Reibertenrod
+ORTSTEIL_BEZUG: Reibertenrod
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_position: inmitten Wiesen und Felder
+  entfernung_kernstadt: unweit der Kernstadt
+  einwohner: 225
+  einwohner_stand: 31.12.2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 239-alsfeld/019
+ENTITÄT: stadtteil
+BEZEICHNUNG: Schwabenrod
+ORTSTEIL_BEZUG: Schwabenrod
+QUELLE: https://www.alsfeld.de/leben/stadtportrait/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_fluss: Tal des Erlenbaches
+  charakterisierung: ländlich mit Bauernhöfen und Handwerk
+  erstmalige_nennung: 1257
+  sehenswert_naturdenkmal: Dicke Steine
+  sehenswert_muehle: Kleemühle
+  sehenswert_muehle_bauzeit: 1491
+  sehenswert_handwerk: alte Schmiede
+  sehenswert_marktplatz: Schwabenröder Marktplatz mit Brunnen
+  einwohner: 324
+  einwohner_stand: 31.12.2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 239-alsfeld/020
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Wolfsjagd-Erlass Landgraf Georg II.
+QUELLE: https://www.alsfeld.de/kulturerleben/stadtgeschichte/woelfe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fürstliches Reskript
+  jahr: 1642
+  monat_erstellung: November 1642
+  herrsche: Landgraf Georg II. von Hessen-Darmstadt
+  archiv: Staatsarchiv Marburg
+  grund: Vermehrung der Wölfe während Dreißigjähriger Krieg
+  grund_konkret: Wölfe stark vermehrt, zeigen sich auf Feldern und im Wald
+  massnahmen: Wolfsjagden, Wolfsgruben und weitere Mittel
+  ziel: Ausrottung der Wölfe
+  adressaten_anzahl: über 30 hessische Orte
+  adressaten_beispiel: Alsfeld
+  jagdzeit: Wintermonate (Frost und Schnee)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1642
+GUELTIG_BIS: ca. 1650
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 239-alsfeld/021
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Befreiung von Wolfsjagddiensten
+QUELLE: https://www.alsfeld.de/kulturerleben/stadtgeschichte/woelfe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadt: Alsfeld
+  urkunde_ausstellungsort: Romrod
+  urkunde_ausstellungsdatum: 20.09.1650
+  aussteller: Landgraf Georg II.
+  grund: Anerkennung der Treue und Devotion gegenüber bisherigen Leistungen
+  grund_kontext: Alsfeld während Dreißigjähriger Krieg stark zerstört
+  zweck: Finanzielle Entlastung für Wiederaufbau
+  befreiung_inhalt: Stadt und Nachkommen gänzlich befreit von Wolfsjagddiensten
+  dauer_anordnung: bis Anzahl der Wölfe verliert oder merklich verringert
+  dokument_typ: Urkunde
+  dokument_unterzeichnung: eigenhändig
+  dokumentation: Erwähnung in Alsfelder Ratsprotokollen 1622ff. S. 355
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1650
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 239-alsfeld/022
+ENTITÄT: ereignis_naturgeschichte
+BEZEICHNUNG: Wolfsvorkommen Dreißigjähriger Krieg
+QUELLE: https://www.alsfeld.de/kulturerleben/stadtgeschichte/woelfe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Vermehrung der Wölfe als Folge der Kampfhandlungen und Entvölkerung
+  zeitraum: 1630er-1640er Jahre
+  grund: Verstärkung Kampfhandlungen, Bevölkerungsverlust
+  auswirkung_natur: in ausgestorbenen Höfen herrschte der Wolf
+  auswirkung_land: auf herrenlosen Äckern wucherten die Dornen
+  zitat_quelle: Karl Siegmar Baron von Galéra "Alsfelder Stadtgeschichte"
+  gefahr_beschreibung: Wölfe griffen schwache Personen an
+  gefahr_konkretisierung: Wölfe nahmen Schweine und Vieh
+  gefahr_verkehr: niemand sicher auf den Straßen
+GUELTIG_AB: 1630
+GUELTIG_BIS: 1650
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 239-alsfeld/023
+ENTITÄT: ereignis_naturgeschichte
+BEZEICHNUNG: Wolfsjagden Jägertal
+ORTSTEIL_BEZUG: Jägertal
+QUELLE: https://www.alsfeld.de/kulturerleben/stadtgeschichte/woelfe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Jägertal bei Romrod
+  infrastruktur: fürstliches Jagdlager
+  zeitraum_jagden: nach 1650
+  wildbestand_entwicklung: reichlich erholt nach Dreißigjährigem Krieg
+  beispiel_fangzahl_1: 7 Wölfe
+  beispiel_fangzahl_1_datum: 31.12.1657
+  beispiel_fangzahl_1_ort: dicht bei Romrod
+  beispiel_fangzahl_2: 43 Wölfe
+  beispiel_fangzahl_2_zeitraum: Winter 1658/59
+  quelle_beispiel: Karl Dotter "Mitteilungen des Geschichts- und Altertumsvereins über Schloss Romrod"
+GUELTIG_AB: 1650
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 239-alsfeld/024
+ENTITÄT: ereignis_naturgeschichte
+BEZEICHNUNG: Wolfsvorkommen Alsfeld Region (modern)
+QUELLE: https://www.alsfeld.de/kulturerleben/stadtgeschichte/woelfe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Sichtungen und Vorfälle in den letzten Jahren und Monaten
+  region_orte: Alsfeld, Eifa, Elbenrod, Lingelbach, Berfa, Reibertenrod, Vogelsberg
+  todesfaelle: ein Wolf tödlich verletzt auf A5 bei Alsfeld
+  kontext: aktuelle Diskussion über Vermehrung der Wölfe und Nutzen vs. Gefahr
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

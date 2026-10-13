@@ -1,0 +1,590 @@
+ID: 236-reiskirchen/001
+ENTITÄT: ort
+BEZEICHNUNG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 1238
+  ersterwahnung_kontext: Pfarrer Siegfried von Reiskirchen als Zeuge in Vergleichsurkunde des Klosters Arnsburg
+  fruehe_erwahnung: 975
+  fruehe_erwahnung_unsicher: Schenkungsurkunde Kaiser Ottos II., aber unklar ob Reiskirchen oder Reiskirchen bei Wetzlar
+  namensursprung: von Richolf gestiftete Kirche
+  namensform_standardisierung: 1558
+  einwohneranzahl: 10000
+  einwohneranzahl_genauigkeit: ca.
+  ortsteile_anzahl: 8
+  grande_gemeinde_fusion_1: 31.12.1970
+  grande_gemeinde_fusion_1_partner: Hattenrod, Saasen, Winnerod
+  grande_gemeinde_fusion_2: 01.04.1972
+  grande_gemeinde_fusion_2_partner: Burkhardsfelden
+  grande_gemeinde_fusion_3: 01.01.1977
+  grande_gemeinde_fusion_3_partner: Bersrod, Ettingshausen, Lindenstruth
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/002
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Reiskirchen (von Richolf)
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aelteste_teile: Grundmauern des Chorturms um 1300
+  brand: 1613
+  brand_zeitpunkt: Osternacht
+  brand_auswirkung: Kirche zerstört, danach wiedererrichtet
+  turm_neubau: 1769
+  turm_material: Stein
+  turm_architektur: Kirchenschiff vergrößert
+  kanzel: 1769
+  kanzel_stil: Spätbarock mit klassizistischen Stilelementen, damals modern
+  orgel: 1889
+  emporen: 1889
+  bilder_emporen: 1771, biblische Szenen, vier Evangelisten, zwölf Apostel
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/003
+ENTITÄT: brand
+BEZEICHNUNG: Großer Brand von Reiskirchen
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1613
+  zeitpunkt: Osternacht
+  haeuser_betroffen: 48
+  haeuser_verschont: 9
+  haeuser_zerstoert: 39
+  kirche_zerstoert: true
+GUELTIG_AB: 1613
+GUELTIG_BIS: 1613
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 236-reiskirchen/004
+ENTITÄT: kirchenbuch
+BEZEICHNUNG: Kirchenbuch Reiskirchen
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aeltestes_noch_vorhanden: true
+  anfang: 04.08.1605
+  erster_pfarrer: Christian Reit
+GUELTIG_AB: 1605
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/005
+ENTITÄT: person
+BEZEICHNUNG: Pfarrer Johannes Steindecker
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Pfarrer
+  hexenprozess_jahr: 1655
+  hexenprozess_gericht: Gericht des Busecker Tals
+  hexenprozess_anklage: Hexerei und allerlei Untaten
+  hexenprozess_ausgang: Verschonung vom Scheiterhaufen
+  beerdigung: 1673 in Gießen
+GUELTIG_AB: 1655
+GUELTIG_BIS: 1673
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/006
+ENTITÄT: gericht
+BEZEICHNUNG: Busecker Thalgericht
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwaehnung: 1337
+  gebiet_orte: Albach, Alten-Buseck, Bersrod, Beuern, Burkhardsfelden, Großen-Buseck, Oppenrod, Reiskirchen, Rödgen
+  wueste_orte: Wilshausen, Romsdorf, Eckhardshausen, Foxrod, Dörfeln, Beltershausen, Amelungshausen, Giebenhausen
+  status: selbstständiger Gerichtsbezirk
+  verwaltung: Ganerbschaft
+  auflosung: 1827
+GUELTIG_AB: 1337
+GUELTIG_BIS: 1827
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/007
+ENTITÄT: schule
+BEZEICHNUNG: Schulhaus Schulstraße
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1823
+  eroeffnung: 1836
+  aufstockung: 1888
+GUELTIG_AB: 1823
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/008
+ENTITÄT: schule
+BEZEICHNUNG: Neues Schulgebäude Schulstraße
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 10.1911
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/009
+ENTITÄT: schule
+BEZEICHNUNG: Mittelpunktschule Kirschberg
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1963
+  superlativ: erste Mittelpunktschule im Landkreis Gießen
+  aenderung: 1971
+  aenderung_grund: nur noch Grundschüler, Oberschüler gehen zu Gesamtschule Großen-Buseck
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/010
+ENTITÄT: eisenbahn_haltestelle
+BEZEICHNUNG: Eisenbahn Gießen-Grünberg, Bahnhof Reiskirchen
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Oberhessische Eisenbahngesellschaft
+  inbetriebnahme: 29.12.1869
+  bahnhofsgebaeude_errichtung: 1872
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 236-reiskirchen/011
+ENTITÄT: feuerwehr
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neues_leiterhaus: 1880
+  standort: auf dem Grundstück der heutigen Gemeindeverwaltung
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/012
+ENTITÄT: backhaus
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neues_erbaut: 1880
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 236-reiskirchen/013
+ENTITÄT: hochbehaelter
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1911
+  zweck: Wasserversorgung
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/014
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Elektrizität
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einfuehrung: 1913
+  quelle: Gießen
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/015
+ENTITÄT: autobahn
+BEZEICHNUNG: Autobahn Frankfurt – Bad Hersfeld (A5)
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausbau_bei_reiskirchen: 1936
+  abfahrt: Gießen / Nord – Reiskirchen
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/016
+ENTITÄT: autobahnmeisterei
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1938
+  standort: Schlierberg
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/017
+ENTITÄT: kriegsereignis
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tote_soldaten: 62
+  bombenabwuerfe_orte: Schlierberg, Lindenstruth, Flugplatz Ettingshausen
+  eroberung_datum: 28.03.1945
+  eroberer: amerikanische Bodentruppen
+  beschlagnahmte_gebaeude: 11
+  fluechtlinge_aufnahme: true
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 236-reiskirchen/018
+ENTITÄT: synagoge
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeinde: israelitische Gemeinde
+  novemberpogromnacht_ereignis: geplündert und niedergebrannt
+  jaedische_einwohner_1933_1938: 38
+  deportation_1942: 8
+  deportation_1942_ausgang: ermordet
+  weitere_holocaustopfer_nach_flucht: 5
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/019
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeindewappen Reiskirchen
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/gemeindeportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genehmigung_datum: 08.11.1974
+  genehmigung_behoerde: Hessischer Minister des Inneren
+  entwicklung: Hessisches Staatsarchiv Darmstadt
+  wappenschild: schwarze Schild von goldenen Streifen netzartig geteilt
+  wappenmotiv: mit roten Kirchturm belegte silberne Spitze
+  namensinterpretation: Reis/Reuse bedeutet Netz, Verbindung zur Wieseck und Fischereiwesen
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/020
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Freiherr-vom-Stein-Plakette
+ORTSTEIL_BEZUG: Reiskirchen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung: 1975
+  anlass: 1000-Jahrfeier
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/021
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bersrod
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: gerodet, Siedlung zwischen 800 und 1100
+  ersterwahnung: 1266
+  ersterwahnung_endjahr: 1286
+  ersterwahnung_quelle: Kloster Wirberg, undatiert
+  ortsname_frueh: Birnesrode
+  kloster_arnsburg_verkauf: 1489
+  kloster_arnsburg_kaeufer: Grünberger Antonitern
+  teil_busecker_tal: true
+  aelteste_schriftstuecke: 1575-1630
+  aelteste_schriftstuecke_inhalt: Rechnungen an die Kirche
+  aelteste_schriftstuecke_auffindung: 2002
+  spitzname: Kuckuck
+  brunnen_detail: Brunnen Lindenplatz mit eingemeißeltem Kuckuck
+GUELTIG_AB: 1286
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/022
+ENTITÄT: ortsteil
+BEZEICHNUNG: Burkhardsfelden
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geografische_lage: auf Anhöhe, Kirche auf höchstem Punkt
+  teil_busecker_tal: true
+  schenkungsurkunde: 1150
+  schenkungsurkunde_unsicherheit: Forschung unsicher, möglicherweise Fälschung
+  erste_sichere_erwaehnung: 1210
+  erste_sichere_erwaehnung_quelle: drei Urkunden Kloster Arnsburg
+  kloster_besitz: Hof
+  ritterfamilie_rudolf: 1238
+  ritterfamilie_recht: Patronatsrecht einer Kapelle am Friedhof, später Kirche
+  evangelische_kirche_bau_zeitraum: 1420-1550
+  turmdach_typ: welsche Haube (Glockenform)
+  turmdach_kontext: Renaissance bei Kirchen und Rathäusern beliebt
+  aelteste_gebaeudeteile: Spitzbogenfenster, romanisches Taufbecken, Altarplatte
+  bilder_empore: 18. Jahrhundert
+  hexenprozess_person: Else Schmidt (Schul-Else)
+  hexenprozess_datum: 1672
+  hexenprozess_gericht: Buseckerthalgericht
+  hexenprozess_anklage: Hexerei, Knabenverzauberung, Umtaufe vor Teufel, Hexentänze, Mauszauberei, Tod durch Branntwein, Tod durch Sauerkraut, Haarausfallverzauberung
+  hexenprozess_folter: true
+  hexenprozess_entscheidung_datum: 1674
+  hexenprozess_ausgang: Entlassung mit Rat woanders niederzulassen
+  kindergarten_gruendung: 1875
+  kindergarten_stifterin: Elisabeth Zimmer
+  kindergarten_zweck: Kinderschule
+  kindergarten_rang: zweitältester im Landkreis Gießen
+GUELTIG_AB: 1210
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/023
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Burkhardsfelden
+ORTSTEIL_BEZUG: Burkhardsfelden
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  turm_dach_stil: welsche Haube (Glockenform)
+  turm_dach_zeitraum: Renaissance 1420-1550
+  aelteste_teile: Spitzbogenfenster, romanisches Taufbecken, Altarplatte
+  bilder: 18. Jahrhundert an Empore und Kanzel
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/024
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ettingshausen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bronzezeit_huegelgraeber: true
+  bronzezeit_zeitraum: 2300-800 v.Chr.
+  erste_erwaehnung: 04.04.1286
+  erste_erwaehnung_kontext: Urkunde Propst Kloster Wirberg über Mühle
+  fruehe_alternative_urkunden: 1200-1220, Stift Wetter
+  fruehe_urkunden_unsicherheit: unklar ob Iterchusen = Ettingshausen
+  geographic_region: südlicher Ortsteil, Wetterau
+  mittelalter_gericht: Gericht Münster (Laubach-Münster)
+  herrschaftsgebiete_alt: Haus Solms-Lich
+  herrschaftsgebiete_1806: Großherzogtum Hessen-Darmstadt
+  siedlungsform: reines Gewanddorf
+  kirche_bau_zeitpunkt: um 1260
+  kirche_typ: Wehrkirche
+  kirche_zweck: Gottesdienst und Schutz
+  kirche_fenster: großes farbiges Fenster hinter Altar
+  kirche_gewoelbe: spätgotisches Tonnengewölbe
+  kanzel_gemälde: zwölf Apostel
+  kanzel_gemälde_stil: Barock 1600-1720
+  flugplatz: true
+  flugplatz_nutzung_krieg: militärisch
+  flugplatz_heute: Sonderlandeplatz Flugplatzhaltergemeinschaft Gießen-Ost
+  flugplatzsiedlung: true
+  flugplatzsiedlung_entstehung_nach_krieg: true
+  flugplatzsiedlung_zweck: Flüchtlinge und Vertriebene aus dem Osten
+GUELTIG_AB: 1286
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/025
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Ettingshausen
+ORTSTEIL_BEZUG: Ettingshausen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_zeitpunkt: um 1260
+  typ: Wehrkirche
+  fenster: großes farbiges Fenster hinter Altar
+  gewoelbe: spätgotisches Tonnengewölbe
+  kanzel_gemälde: zwölf Apostel aus Barock 1600-1720
+GUELTIG_AB: 1260
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/026
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hattenrod
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geografische_lage: am Südhang des Josollertals
+  namensherkunft: Rodung des Hatto
+  entstehung_zeitraum: vermutlich 800-1100
+  erste_erwaehnung: 09.03.1226
+  erste_erwaehnung_kontext: Urkunde, Adeligen Siegfried und Diemar als Zeugen
+  kloster_arnsburg_uebergang_start: 1293
+  kloster_arnsburg_uebergang_person: Siegfried II., Sohn Ritter Werner
+  kloster_arnsburg_veraeusserung: 1489
+  kloster_arnsburg_kaeufer: Antonitern zu Grünberg (seit 1459 Zehnten)
+  graf_philipp_aufkauf: erste Jahrzehnte 16. Jahrhundert
+  graf_philipp_abschluss: um 1526
+  graf_philipp_person: Graf Philipp von Solms-Münzenberg
+  herrschaftswechsel_1787: Anteil Herrschaft Münzenberg, Grafschaft Solms-Hohensolms-Lich, Amt Lich
+  herrschaftswechsel_1806: Großherzogtum Hessen
+  evangelische_kirche_bau: vermutlich 14. Jahrhundert
+  evangelische_kirche_abriss: 1947
+  evangelische_kirche_abriss_grund: Baufälligkeit
+  glockenturm: 1706
+  glockenturm_status: noch erhalten
+  kirchneubau_einweihung: Ostern 1952
+  kirchneubau_rang: erste Gemeinde Landkreis mit Kirchen-Neubau in Nachkriegszeit
+  jubilaeum_750: 1976
+GUELTIG_AB: 1226
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/027
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Hattenrod
+ORTSTEIL_BEZUG: Hattenrod
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: vermutlich 14. Jahrhundert
+  abriss: 1947
+  abriss_grund: Baufälligkeit
+  glockenturm: 1706
+  glockenturm_status: noch erhalten
+  neubau_einweihung: Ostern 1952
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1947
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/028
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lindenstruth
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geografische_lage: Tal der Wieseck, Durchgangsstraße Reiskirchen-Grünberg
+  besiedlung: seit Urzeiten
+  urnengraeber: true
+  urnengraeber_zeitraum: 1200-800 v.Chr.
+  handwerk_gießer: true
+  erste_erwaehnung: 1234
+  erste_erwaehnung_kontext: Amtsdorf zum landgräflichen Amt Grünberg
+  einwohneranzahl_1830: 231
+  einwohneranzahl_1890: 318
+  haeuser_1890: 62
+  kirche_ursprung: mittelalterlich
+  kirche_stein_inschrift: 1370
+  kirche_gedenkplatte: 1370
+  kirche_gedenkplatte_anlass: 750-Jahr-Feier
+  kirche_rang: ältestes noch erhaltenes Gebäude
+  jubilaeum_750: 1984
+GUELTIG_AB: 1234
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/029
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Lindenstruth
+ORTSTEIL_BEZUG: Lindenstruth
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1370
+  stein_inschrift: 1370
+  gedenkplatte: 1370
+  rang: ältestes noch erhaltenes Gebäude von Lindenstruth
+GUELTIG_AB: 1370
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/030
+ENTITÄT: ortsteil
+BEZEICHNUNG: Saasen
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristiken: Ruhe, kein Durchgangsverkehr, Bundesstraße entfernt, schöne Lage im Wiesecktal
+  ersterwahnung: 1137
+  ersterwahnung_quelle: undatierte Urkunde, Urkundband 1111-1137, jüngste Datum
+GUELTIG_AB: 1137
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/031
+ENTITÄT: ortsteil
+BEZEICHNUNG: Winnerod
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/gemeindeportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fusion_datum: 31.12.1970
+  fusion_kontext: Großgemeinde Reiskirchen
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/032
+ENTITÄT: schwimmbad
+ORTSTEIL_BEZUG: Ettingshausen
+QUELLE: https://www.gemeinde-reiskirchen.de/einrichtungen/schwimmbad/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: nördlicher Ortsrand
+  schwimmer_becken_laenge: 30
+  schwimmer_becken_breite: 11
+  schwimmer_becken_tiefe_min: 0.6
+  schwimmer_becken_tiefe_max: 1.8
+  schwimmer_becken_rutsche: true
+  schwimmer_becken_startbloecke: 2
+  kleinkind_becken_tiefe: 0.35
+  kleinkind_becken_laenge: 4
+  kleinkind_becken_breite: 2.5
+  parkplatz_vorhanden: true
+  liegewiese: 4000
+  liegewiese_einheit: qm
+  spielplatz: true
+  beachvolleyball: true
+  tischtennis: true
+  kiosk: true
+  biergarten: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/033
+ENTITÄT: infrastruktur
+BEZEICHNUNG: BürgerBus
+QUELLE: https://www.gemeinde-reiskirchen.de/buergerservice/buergerbus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  start: Frühjahr 2022
+  ehrenamtliche_fahrer: 11
+  kostenlos: true
+  anmeldefrist: mindestens 3 Tage
+  anmeldezeitraum: Montag-Freitag 09:00-12:00
+  fahrer_anforderung: Führerschein Klasse B, hilfsbereit, Spaß mit Menschen
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/034
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Wandersleben
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft: 1990
+  location: östlicher Landkreis Gotha, Thüringen
+  status_nach_2009: Ortsteil Landgemeinde Drei Gleichen
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 236-reiskirchen/035
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Muttersholtz
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft: 1991
+  location: französische Gemeinde im Elsass
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 236-reiskirchen/036
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Goleszów
+QUELLE: https://www.gemeinde-reiskirchen.de/unsere-gemeinde/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft: 1997
+  location: polnische Gemeinde
+  verwaltungsregion: Powiat Cieszynski
+  woiwodschaft: Schlesien
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

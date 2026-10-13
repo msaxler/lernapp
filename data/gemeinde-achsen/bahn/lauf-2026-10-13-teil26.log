@@ -1,0 +1,64 @@
+Orte: 235-giessen 236-reiskirchen 237-gruenberg 238-homberg-ohm 239-alsfeld 240-kirchheim-hessen 241-niederaula 242-bad-hersfeld 243-friedewald 244-wildeck
+== Extraktion (Haiku) 09:51:44
+235-giessen          extraktion ein  41323  aus  20703   0.17 USD   199 s  claude-haiku-4-5-20251001
+236-reiskirchen      extraktion ein  29868  aus  21161   0.15 USD   200 s  claude-haiku-4-5-20251001
+237-gruenberg        extraktion ein  33299  aus  11252   0.11 USD    98 s  claude-haiku-4-5-20251001
+238-homberg-ohm      extraktion ein  29151  aus   9518   0.09 USD    80 s  claude-haiku-4-5-20251001
+239-alsfeld          extraktion ein  33921  aus  10775   0.11 USD    92 s  claude-haiku-4-5-20251001
+240-kirchheim-hessen extraktion ein  24760  aus  13513   0.10 USD   103 s  claude-haiku-4-5-20251001
+241-niederaula       extraktion ein  26978  aus  19379   0.14 USD   131 s  claude-haiku-4-5-20251001
+242-bad-hersfeld     extraktion ein  39995  aus  13187   0.13 USD   118 s  claude-haiku-4-5-20251001
+243-friedewald       extraktion ein  25655  aus  10042   0.09 USD    82 s  claude-haiku-4-5-20251001
+244-wildeck          extraktion ein  26062  aus   9830   0.09 USD    82 s  claude-haiku-4-5-20251001
+zusammen: 11653 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+235-giessen        48896 Zeichen
+236-reiskirchen    26476 Zeichen
+237-gruenberg      25192 Zeichen
+238-homberg-ohm    25819 Zeichen
+239-alsfeld        23263 Zeichen
+240-kirchheim-hessen   28304 Zeichen
+241-niederaula     47973 Zeichen
+242-bad-hersfeld   28108 Zeichen
+243-friedewald     21117 Zeichen
+244-wildeck        23357 Zeichen
+== Karten (claude-opus-5-5) 09:56:27
+235-giessen          karten     ein  56492  aus  36088   1.12 USD   310 s  claude-opus-5-5
+236-reiskirchen      karten     ein  42450  aus  31868   0.92 USD   279 s  claude-opus-5-5
+237-gruenberg        karten     ein  41165  aus  40039   1.08 USD   341 s  claude-opus-5-5
+238-homberg-ohm      karten     ein  41947  aus  32768   0.94 USD   291 s  claude-opus-5-5
+239-alsfeld          karten     ein  40121  aus  38329   1.03 USD   342 s  claude-opus-5-5
+240-kirchheim-hessen karten     ein  44748  aus  38404   1.07 USD   329 s  claude-opus-5-5
+241-niederaula       karten     ein  56361  aus  30715   1.01 USD   260 s  claude-opus-5-5
+242-bad-hersfeld     karten     ein  43917  aus  35016   1.00 USD   306 s  claude-opus-5-5
+243-friedewald       karten     ein  39147  aus  33750   0.93 USD   293 s  claude-opus-5-5
+244-wildeck          karten     ein  40189  aus  32930   0.93 USD   279 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 10:07:01
+235-giessen          pruefung   ein  92920  aus   8938   0.87 USD    83 s  claude-opus-5-5
+236-reiskirchen      pruefung   ein  63016  aus   9576   0.64 USD    81 s  claude-opus-5-5
+237-gruenberg        pruefung   ein  65674  aus  10747   0.69 USD    95 s  claude-opus-5-5
+238-homberg-ohm      pruefung   ein  62572  aus  11544   0.68 USD    99 s  claude-opus-5-5
+239-alsfeld          pruefung   ein  64718  aus   7415   0.61 USD    68 s  claude-opus-5-5
+240-kirchheim-hessen pruefung   ein  51644  aus   9707   0.55 USD    87 s  claude-opus-5-5
+241-niederaula       pruefung   ein  63241  aus   8578   0.62 USD    73 s  claude-opus-5-5
+242-bad-hersfeld     pruefung   ein  48285  aus   6965   0.47 USD    70 s  claude-opus-5-5
+243-friedewald       pruefung   ein  47226  aus  10344   0.53 USD    90 s  claude-opus-5-5
+244-wildeck          pruefung   ein  57438  aus   8689   0.58 USD    79 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 10:10:06
+235-giessen          stufe2     ein 164255  aus   6667   0.70 USD    80 s  claude-opus-5-5,claude-haiku-4-5-20251001
+236-reiskirchen      FEHLER keine Karte an Stufe 2 – kein Lauf
+237-gruenberg        stufe2     ein 162127  aus   3207   0.39 USD    61 s  claude-opus-5-5,claude-haiku-4-5-20251001
+238-homberg-ohm      stufe2     ein 139439  aus   2856   0.31 USD    48 s  claude-opus-5-5,claude-haiku-4-5-20251001
+239-alsfeld          stufe2     ein 154006  aus   6077   0.44 USD    97 s  claude-opus-5-5,claude-haiku-4-5-20251001
+240-kirchheim-hessen stufe2     ein 314012  aus   7558   0.69 USD   112 s  claude-opus-5-5,claude-haiku-4-5-20251001
+241-niederaula       stufe2     ein 156134  aus   4299   0.45 USD    69 s  claude-opus-5-5,claude-haiku-4-5-20251001
+242-bad-hersfeld     stufe2     ein 308799  aus  13841   1.25 USD   179 s  claude-opus-5-5,claude-haiku-4-5-20251001
+243-friedewald       stufe2     ein 293902  aus   5766   0.65 USD   111 s  claude-opus-5-5,claude-haiku-4-5-20251001
+244-wildeck          stufe2     ein 318420  aus   7947   0.77 USD   126 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 10:14:06
+Urteile: {'korrigiert': 718, 'bestätigt': 1274, 'gesperrt': 50, 'unsicher': 143} | im Vorrat: 2135 Karten an 244 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     244 Orte, 2135 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 2481457 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 10:14:08
