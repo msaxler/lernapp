@@ -1,0 +1,825 @@
+ZIELORT: Hamm (Stadt)
+LAGE: 0 km nordwestlich von Hamm (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Hamm
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 179.108  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 226,43 | 226,66  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 791  [berechnet aus Einwohner und Fläche]
+  kfz: HAM (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 63 | 66  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2911240)]
+  naechste_grossstadt: Hamm, 0 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 89 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Bockum-Hövel, Bahnhof Hamm-Heessen, Haltepunkt Hamm-Westtünnen, Hamm (Westf) Hbf  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 59001–59077  [Wikidata P281]
+  vorwahl: 02307, 02388, 02389  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,2 %, SPD 23,1 %, AfD 21,2 %, Die Linke 7,9 %, GRÜNE 7,9 %; Wahlbeteiligung 79 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Marc Herter (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Oranienburg, Afyonkarahisar, Q22905, Chattanooga, Kalisz, Mazatlán, Toul, Crotone, Santa Monica, Bezirk Mitte  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Kamen (Stadt)
+  einwohner: 42.139  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 40,95  [Wikidata P2046; Altbestand staedte.json]
+  kfz: UN (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 67 | 65  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2893438)]
+  naechste_grossstadt: Hamm, 15 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Kamen-Methler  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: SPD 27,2 %, CDU 25,4 %, AfD 18,7 %, GRÜNE 9,8 %, Die Linke 7,4 %; Wahlbeteiligung 82,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Hamm):
+ID: 204-hamm/001
+ENTITÄT: ort
+BEZEICHNUNG: Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 1226
+  gruendungsdatum: 4. März 1226
+  gruendungsname: tom Hamme
+  stadtrecht: Lippstädter Recht
+  hansestadt_zeitraum: 1471-1651
+  hansische_prinzipalstadt_seit: 1549
+  reformation_erreicht: 16. Jahrhundert
+  kreisstadt_status: ab 1817
+  reformiert_zu_kreisfreier_stadt: 1901
+  einwohnerzahl_1901: über 30000
+  us_besatzung: 6. April 1945
+  stadtjubilaeum: 800 Jahre (urkundliche Erwähnung 1226)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 204-hamm/002
+ENTITÄT: stadtbefestigung
+BEZEICHNUNG: Stadtbefestigung Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1243-1258
+GUELTIG_AB: 1243
+GUELTIG_BIS: 1258
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 204-hamm/003
+ENTITÄT: stadtbrand
+BEZEICHNUNG: Große Stadtbrände
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahre: 1278, 1287, 1307
+  beschreibung: mehrere Brände im Mittelalter
+GUELTIG_AB: 1278
+GUELTIG_BIS: 1307
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 204-hamm/004
+ENTITÄT: stadtbrand
+BEZEICHNUNG: Großer Stadtbrand
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1734
+  zerstörte_häuser: 200
+  bauzustand_dokumentation: Bauzustand 1734, Grundriss mit roter Einzeichnung abgebrannter Quartiere
+  wiederaufbau_stilrichtung: 18. Jahrhundert Zeitgeschmack
+GUELTIG_AB: 1734
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 204-hamm/005
+ENTITÄT: rittergut
+BEZEICHNUNG: Ermelinghoff
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 1350
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/006
+ENTITÄT: ereignis
+BEZEICHNUNG: Pest
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1350
+  ort: Hamm
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/007
+ENTITÄT: ereignis
+BEZEICHNUNG: Erste Vertreibung jüdischer Bürger
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1350
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/008
+ENTITÄT: gildenhaus
+BEZEICHNUNG: Gildenhaus des Hansebundes
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Weststraße 23
+  zeitraum: 16. Jahrhundert
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/009
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marktplatz
+  baujahr: 1532
+  bauzustand_doku: 1734
+  schaeden: schwer beschädigt durch einen der schwersten Stadtbrände
+  wiederaufbau: 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stunikenhaus
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1748
+  renovierung: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/011
+ENTITÄT: gericht
+BEZEICHNUNG: Landgericht
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einfuehrung_hamm: 1753
+  beschreibung: eines von sechs Landgerichten für die Grafschaft Mark
+GUELTIG_AB: 1753
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/012
+ENTITÄT: ereignis
+BEZEICHNUNG: Entfestigung Hamms
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1763
+GUELTIG_AB: 1763
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 204-hamm/013
+ENTITÄT: brauerei
+BEZEICHNUNG: Isenbeck
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1769
+  produktname: Isenbeck (Biermarke)
+  bilder_doku: Ansicht 1986 mit bekannter Pilsglas-Leuchtreklame
+GUELTIG_AB: 1769
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/014
+ENTITÄT: ereignis
+BEZEICHNUNG: Französische Exilregierung in Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1792
+  residenz: Nassauer Hof (später Marienhospital)
+  personen: Brüder König Ludwig XVI., später französische Könige Ludwig XVIII. und Karl X.
+  deklaration: Hammer Déclaration
+GUELTIG_AB: 1792
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/015
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadttore Abbruch
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abbruchzeitraum: 1796-1798
+GUELTIG_AB: 1796
+GUELTIG_BIS: 1798
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/016
+ENTITÄT: ereignis
+BEZEICHNUNG: Napoleonische Besetzung
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1808
+  folge_politisch: Ehemalige Grafschaft Mark gehört seit 1808 zum Großherzogtum Berg
+  folge_verwaltung: Hamm wird Sitz eines Kantons
+GUELTIG_AB: 1808
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/017
+ENTITÄT: fabrik
+BEZEICHNUNG: Walzwerk Wilhelm Hobrecker
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1810
+  typ: erste industrielle Anlage in Hamm
+  nachfolger_name: Eisen- und Stahlwerk Eduard Hobrecker
+  dokumentation_bild: 1898 auf Briefkopf
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/018
+ENTITÄT: ereignis
+BEZEICHNUNG: Kreis Hamm Gründung
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1817
+  verwaltung_ebene: Regierungsbezirks Arnsberg
+  status_bis: 1929-1930 (Verlagerung nach Unna)
+GUELTIG_AB: 1817
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/019
+ENTITÄT: gericht
+BEZEICHNUNG: Oberlandesgericht Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitzverlegung_nach_hamm: 1820
+  neubau_einweihung: 1894
+  standort_neubau: Friedrichplatz
+GUELTIG_AB: 1820
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/020
+ENTITÄT: kloster
+BEZEICHNUNG: Franziskanerkloster Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auflosung: 1824
+  nachnutzung: Zentralgefängnis der Provinz Westfalen
+GUELTIG_AB: 1824
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/021
+ENTITÄT: sparkasse
+BEZEICHNUNG: Sparkasse Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1840
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/022
+ENTITÄT: eisenbahnstrecke
+BEZEICHNUNG: Köln-Mindener-Eisenbahn
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1847-1848
+GUELTIG_AB: 1847
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/023
+ENTITÄT: eisenbahnstrecke
+BEZEICHNUNG: Bahnlinie Hamm-Münster
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1847-1848
+GUELTIG_AB: 1847
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/024
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Eisenbahnknotenpunkt
+  empfangsgebäude_bau: 1861
+  architekturstil: neoromanisch
+  lage: Insellage zwischen den Gleisen
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/025
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 12. September 1868
+  zerstörung: 1938
+  nachnutzung: Gedenkstätte seit 2003
+  standort_nach_zerstörung: St. Monica-Platz (heute)
+  deportation_judische_bürger: 1942-1943
+GUELTIG_AB: 1868
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/026
+ENTITÄT: kur_und_badeanlage
+BEZEICHNUNG: Bad Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bade_und_gaestehaus_bau_beginn: 1883
+  ursprüngliche_infrastruktur: Badehaus, Logierhaus, Schützenhof
+GUELTIG_AB: 1883
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/027
+ENTITÄT: kurpark
+BEZEICHNUNG: Kurpark Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neuanlage: 1883-1884
+  features: Teich, sogenannter "Liebestempel"
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/028
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Trinkwasserversorgung Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: seit 1887
+  typ: öffentliche Trinkwasserversorgung
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/029
+ENTITÄT: ereignis
+BEZEICHNUNG: Hochwasser 1890
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  monat: November
+  jahr: 1890
+  beschreibung: schlimmstes Hochwasser
+  betroffen_fluss: Lippe
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/030
+ENTITÄT: buecherei
+BEZEICHNUNG: Volksbibliothek Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1895
+  späterer_name: Städtische Volksbücherei
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/031
+ENTITÄT: strassenbahn
+BEZEICHNUNG: Straßenbahn Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_fahrt: 19. Oktober 1898
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/032
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Maximilian
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abteufe: 1903
+  foerderung_einstellung: 1914
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/033
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Radbod
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abteufe: 1905
+  grubenunglück: 1908
+  todesfälle_grubenunglück: 350
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/034
+ENTITÄT: ereignis
+BEZEICHNUNG: Grubenunglück Zeche Radbod
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 12. November 1908
+  zeche: Zeche Radbod
+  tote: 350
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 204-hamm/035
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Sachsen
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abteufe: 1912
+  ortsteil_bezug: Heessen
+  grubenunglück: 3. April 1944
+  todesfälle_grubenunglück: 169
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+ORTSTEIL_BEZUG: Heessen
+---
+ID: 204-hamm/036
+ENTITÄT: ereignis
+BEZEICHNUNG: Verlegung Ahse
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1911-1913
+  fluss: Ahse
+GUELTIG_AB: 1911
+GUELTIG_BIS: 1913
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/037
+ENTITÄT: ringanlagen
+BEZEICHNUNG: Ringanlagen Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 14. Juni 1914
+  beschreibung: grüner Ring um die Innenstadt
+  features: Musiktempel, Bärenbrunnen
+  jubileum_erwaehnung: 100-jähriges Jubiläum im Mai 2014
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/038
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Lippe-Seitenkanal / Datteln-Hamm-Kanal
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1914-1915
+  funktion: Seitenkanal der Lippe
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/039
+ENTITÄT: hafen
+BEZEICHNUNG: Hafen Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1914-1915
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/040
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht bei Pelkum
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1. April 1920
+  kontrahenten: "Rote Armee" (Bergleute) vs. Reichswehr
+  auslöser: Kapp-Putsch
+  aktion_detail: streikende Arbeiter sprengten Brücke über Hamm-Osterfelder Bahn
+  ortsteil: Pelkum
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Pelkum
+---
+ID: 204-hamm/041
+ENTITÄT: buehne
+BEZEICHNUNG: Waldbühne Heessen
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1924
+  ortsteil: Heessen
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Heessen
+---
+ID: 204-hamm/042
+ENTITÄT: postamt
+BEZEICHNUNG: Hauptpostamt Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1924
+  lage: Bahnhof
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/043
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Heinrich Robert (ehemals Zeche de Wendel)
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprünglicher_name: Zeche de Wendel
+  namensänderung: 1937
+  neuer_name: Heinrich Robert
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/044
+ENTITÄT: autobahn
+BEZEICHNUNG: Autobahn Oberhausen-Hannover
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1938
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/045
+ENTITÄT: raststätte
+BEZEICHNUNG: Raststätte Rhynern
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1938
+  umbenennung_seit: 2009
+  neuer_name: Raststätte Nord
+  ortsteil: Rhynern
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Rhynern
+---
+ID: 204-hamm/046
+ENTITÄT: ereignis
+BEZEICHNUNG: Eingemeindung Gemeinde Mark
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1939
+  bisherige_zugehörigkeit: Amt Rhynern
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/047
+ENTITÄT: kirche
+BEZEICHNUNG: Liebfrauenkirche
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zerstörung: 8. September 1940
+  grund_zerstörung: britischer Luftangriff (zwei Bomben)
+GUELTIG_AB: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 204-hamm/048
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hochbunker Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1940-1943
+GUELTIG_AB: 1940
+GUELTIG_BIS: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/049
+ENTITÄT: ereignis
+BEZEICHNUNG: Deportation der Hammer Sinti
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1943
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 204-hamm/050
+ENTITÄT: ereignis
+BEZEICHNUNG: Großangriff auf Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 22. April 1944
+  tote: 234
+GUELTIG_AB: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 204-hamm/051
+ENTITÄT: ereignis
+BEZEICHNUNG: Bombenanschlag auf Russenlager
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 31. Mai 1944
+  tote: 205
+  zusammensetzung_tote: 151 Zwangsarbeiter und Kriegsgefangene
+GUELTIG_AB: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/052
+ENTITÄT: ereignis
+BEZEICHNUNG: US-Besatzung Hamms
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 6. April 1945
+  besatzer: US-Truppen
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 204-hamm/053
+ENTITÄT: ereignis
+BEZEICHNUNG: Erste demokratische Kommunalwahlen
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 13. Oktober 1946
+  beschreibung: erste demokratische Kommunalwahlen nach 1945
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/054
+ENTITÄT: kirche
+BEZEICHNUNG: St. Agnes
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wiederaufbau: 1947-1953
+  grund_wiederaufbau: Kriegszerstörung
+GUELTIG_AB: 1947
+GUELTIG_BIS: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/055
+ENTITÄT: baugebiet
+BEZEICHNUNG: Schlossmühle Heessen
+QUELLE: https://www.hamm.de/akuelle-baugebiete/schlossmuehle-heessen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südlicher Rand Heessen, ca. 500 m südlich Heessener Marktplatz
+  zufahrt: von Dolberger Straße über Straße "An der Schlossmühle"
+  umgebung_suedlich: offene Landschaft der Lippeauen
+  teilabschnitte: 2 (getrennt durch historische Allee/Schlossstraße)
+  mehrfamilienhaeuser_nördlich: 4 mit 31 Eigentumswohnungen
+  kaufgrundstücke_nördlich: 6
+  denkmalgeschütztes_gebaeude: 1 südlich der Schlossstraße
+  grundstücke_mehrfamilienbau: 2 südlich
+  grundstücke_einfamilienhaus: 1 südlich
+  erbpacht_grundstücke: 4 südlich
+  ortsteil: Heessen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Heessen
+---
+ID: 204-hamm/056
+ENTITÄT: park
+BEZEICHNUNG: Maximilianpark
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/maxipark-iga-2027 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Wahrzeichen der Stadt Hamm
+  feature: Glaselefant
+  bekanntheitsgrad: überregional bekannt
+  funktion: Besuchermagnet mit temporären und dauerhaften Attraktionen
+  bedeutung: wichtig für Lebensqualität im Stadtteil
+  ortsteil: Werries
+  iga_2027_planung: Erweiterung mit Gartenkompetenzzentrum
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Werries
+---
+ID: 204-hamm/057
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: Maxi-Center Werries
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/isek-werries | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Versorgungszentrum
+  einzelhandelsspektrum: breit aufgestellt
+  angebote_neben_einzelhandel: schulische und sportliche Einrichtungen, Freizeitangebote
+  ortsteil: Werries
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Werries
+---
+ID: 204-hamm/058
+ENTITÄT: kirche
+BEZEICHNUNG: St. Bonifatius-Kirche
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/rahmenplan-werries | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil: Werries
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+ORTSTEIL_BEZUG: Werries
+---
+ID: 204-hamm/059
+ENTITÄT: gymnasium
+BEZEICHNUNG: Freiherr-vom-Stein-Gymnasium
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/gruene-umweltachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sportplatz_modernisierung: Ausbildung zur Leichtathletikanlage Typ C
+  fassadensanierung: durchgeführt mit aktuellen energetischen Anforderungen
+  ortsteil: Werries
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+ORTSTEIL_BEZUG: Werries
+---
+ID: 204-hamm/060
+ENTITÄT: stadtteilzentrum
+BEZEICHNUNG: Jugend- und Stadtteilzentrum (JUST) Werries
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/gruene-umweltachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: barrierearm, modern, lebendiger Ort für Begegnung, Kultur und gemeinschaftliches Leben
+  ortsteil: Werries
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+ORTSTEIL_BEZUG: Werries
+---
+ID: 204-hamm/061
+ENTITÄT: projekt
+BEZEICHNUNG: Grüne Umweltachse Werries
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/gruene-umweltachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: grünes Band vom Datteln-Hamm-Kanal zum Maximilianpark
+  funktion: Verbindungs- und Aufenthaltsraum mit klimaangepasstem Design
+  grundlage: ISEK Werries (2019)
+  schlüsselprojekt: ja
+  baubausteine: Sport- und Bewegungsachse, Fahrradterminal, Zugang zum Datteln-Hamm-Kanal
+  erster_bauabschnitt_einweihung: September 2026
+  bauzeit_erster_ba: ca. eineinhalb Jahre
+  förderung: Städtebauförderungsmittel
+  entwurf_wettbewerb: 1. Preis an Arbeitsgemeinschaft faktorgruen (Freiburg) und Schüler Architekten Stadtplaner (Düsseldorf)
+  ortsteil: Werries
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+ORTSTEIL_BEZUG: Werries
+---
+ID: 204-hamm/062
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Datteln-Hamm-Kanal
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/rahmenplan-werries | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Kanaluferweg
+  integration_in_stadtplanung: in Verbindung mit Grüner Umweltachse
+  barrierefreier_zugang_geplant: ja (2. Bauabschnitt Grüne Umweltachse)
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 204-hamm/063
+ENTITÄT: ereignis
+BEZEICHNUNG: 800-jähriges Stadtjubiläum Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: 800 Jahre seit erster urkundlicher Erwähnung 1226
+  jubiläumsprojekte: "Stelen zur Stadtgeschichte"
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 204-hamm/064
+ENTITÄT: projekt
+BEZEICHNUNG: Stelen zur Stadtgeschichte
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/projekte-der-stadtentwicklung/stelen-zur-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: 100-jähriges Jubiläum Ringanlagen
+  erste_stelen: 3 in Hamm-Mitte (Mai 2014) an Musikpavillon, Bärenbrunnen und Otto-Krafft-Platz
+  weitere_stelen: 6 in Stadtbezirken (Februar 2015)
+  kooperation: Hammer Geschichtsverein und Stadt Hamm (Stadtarchiv, Stadtplanungsamt, Untere Denkmalbehörde, Tiefbau- und Grünflächenamt)
+  beschreibung: historische Ortsmarker mit Bildern und kurzen Texten zur Stadtgeschichte
+  zweck: Einladung zur Auseinandersetzung mit der Stadtgeschichte
+  erweiterung_geplant: ja
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

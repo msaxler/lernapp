@@ -1,0 +1,557 @@
+ZIELORT: Sinzig (Stadt)
+LAGE: 24 km südöstlich von Bonn (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Sinzig
+
+GRUNDDATEN:
+  landkreis: Ahrweiler  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 17.374  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 41,1  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 423  [berechnet aus Einwohner und Fläche]
+  kfz: AW (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 90 | 80 | 78 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2831852)]
+  naechste_grossstadt: Bonn, 24 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 96 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Sinzig (Rhein)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 53489  [Wikidata P281]
+  vorwahl: 2636, 2642, 2646  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33,2 %, SPD 19 %, AfD 14,2 %, GRÜNE 13,2 %, Die Linke 7,1 %; Wahlbeteiligung 82 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Andreas Geron (unabhängig) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Einwohner je Quadratkilometer), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Bad Breisig (Stadt)
+  landkreis: Ahrweiler  [dewiki Infobox]
+  einwohner: 9661  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 19,93  [Wikidata P2046; Altbestand staedte.json]
+  kfz: AW (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 70 | 98 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2953536)]
+  naechste_grossstadt: Koblenz, 26 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Bad Breisig  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33,6 %, SPD 19,1 %, AfD 17,9 %, GRÜNE 10 %, Die Linke 7,1 %; Wahlbeteiligung 80,2 % — GILT FÜR DIE VERBANDSGEMEINDE BAD BREISIG  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Sinzig):
+ID: 186-sinzig/001
+ENTITÄT: ort
+BEZEICHNUNG: Sinzig
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_stadt: true
+  anzahl_ortsteile: 6
+  ortsteile: Bad Bodendorf, Franken, Koisdorf, Löhndorf, Sinzig - Kernstadt, Westum
+  lage: an Ahr und Rhein
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/002
+ENTITÄT: ereignis
+BEZEICHNUNG: Gebietsreform
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/ | Gemeinde-Webseite
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1969
+EIGENSCHAFTEN:
+  jahr: 1969
+  beschreibung: Eingemeindung der bis dato selbstständigen Gemeinden Bodendorf, Franken, Koisdorf, Löhndorf und Westum zur Stadt Sinzig
+  eingemeindete_orte: Bodendorf, Franken, Koisdorf, Löhndorf, Westum
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bad Bodendorf
+ORTSTEIL_BEZUG: Bad Bodendorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/bad-bodendorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spitzname: Das Tor zum Ahrtal
+  einwohnerzahl: 3800
+  lage: am Eingang zum Ahrtal
+  ahrtal_charakterisierung: einer der schönsten Seitentäler des Rheins
+  rotwein_anbaugebiet: Deutschlands größtes geschlossenes Rotwein-Anbaugebiet
+  wirtschaft: traditionell mit dem Weinbau verwurzelt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/004
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rotweinwanderweg
+ORTSTEIL_BEZUG: Bad Bodendorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/bad-bodendorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  startpunkt: Bad Bodendorf
+  verlauf: Weinberge des Ahrtals
+  bekanntheit: europaweit bekannte Attraktion
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/005
+ENTITÄT: quelle
+BEZEICHNUNG: St.-Josef Sprudel
+ORTSTEIL_BEZUG: Bad Bodendorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/bad-bodendorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft: Heilkraft
+  bekanntheit_grund: Bad Bodendorf wurde durch die Heilkraft des St.-Josef Sprudels bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 186-sinzig/006
+ENTITÄT: gebaeude
+BEZEICHNUNG: Historisches Thermalfreibad
+ORTSTEIL_BEZUG: Bad Bodendorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/bad-bodendorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: nostalgisches Flair
+  beliebtheit: bei Gästen aus der gesamten Region überaus beliebt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 186-sinzig/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Franken
+ORTSTEIL_BEZUG: Franken
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/franken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spitzname: Das Apfelweindorf
+  position: südlichster Stadtteil
+  lage: Randhöhen der Eifel, Nordhang der Talmulde des Frankenbachs
+  frankenbachverlaauf: Frankenbahn fließt bei Bad Breisig in den Rhein
+  landschaft: Felder, Wiesen, Obstgärten und Wälder
+  entwicklung: dynamische Entwicklung des Neubaugebiets
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/008
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Mehrgenerationenplatz Franken
+ORTSTEIL_BEZUG: Franken
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/franken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Treffpunkt für Alt und Jung
+  gestaltung: neu gestaltet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Koisdorf
+ORTSTEIL_BEZUG: Koisdorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/koisdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spitzname: Der Höhenort
+  einwohnerzahl: 900
+  lage: oberste Rheinterrasse hoch über Sinzig
+  ausblick: fantastischer Ausblick über die goldene Meile bis zum Drachenfels im Siebengebirge
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: Wendelinuskapelle
+ORTSTEIL_BEZUG: Koisdorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/koisdorf/ | Gemeinde-Webseite
+GUELTIG_AB: 1200
+EIGENSCHAFTEN:
+  alter: über 800 Jahre alt
+  alter_genauigkeit: über
+  bedeutung: bedeutendstestest Bauwerk in Koisdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 186-sinzig/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Alte Schule Koisdorf
+ORTSTEIL_BEZUG: Koisdorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/koisdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heutige_nutzung: Gemeindehaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/012
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Dorfplatz Koisdorf
+ORTSTEIL_BEZUG: Koisdorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/koisdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gestaltung: neu gestaltet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Löhndorf
+ORTSTEIL_BEZUG: Löhndorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/loehndorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spitzname: Das Rosendorf
+  einwohnerzahl: 1300
+  einwohnerzahl_genauigkeit: ca.
+  infrastruktur: gute Infrastruktur
+  auszeichnungen: dreifach Goldmedaille im Wettbewerb "Unser Dorf soll schöner werden – Unser Dorf hat Zukunft"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/014
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Rosendorf-Anerkennung
+ORTSTEIL_BEZUG: Löhndorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/loehndorf/ | Gemeinde-Webseite
+GUELTIG_AB: 2004
+GUELTIG_BIS: 2004
+EIGENSCHAFTEN:
+  vergeben_durch: Verein deutscher Rosenfreunde
+  grund: Großteil der Bevölkerung pflanzt und pflegt Rosen im öffentlichen und privaten Bereich
+  seltenheit: deutschlandweit bislang lediglich fünfmal vergeben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/015
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rosengarten Löhndorf
+ORTSTEIL_BEZUG: Löhndorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/loehndorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: einzigartig in der Region
+  beschreibung: In der Region einzigartiger Rosengarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/016
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kirmes zu Ehren des Heiligen Georg
+ORTSTEIL_BEZUG: Löhndorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/loehndorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: letzter Sonntag im April
+  dauer_tage: 4
+  gewuerdigt: Heiliger Georg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Westum
+ORTSTEIL_BEZUG: Westum
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/westum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spitzname: Das Murreland
+  infrastruktur: gute Infrastruktur
+  verkehrslage: verkehrsgünstige Lage
+  hat_kindertagestaette: true
+  hat_grundschule: true
+  naherholungsgebiet: Mühlenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/018
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Mehrgenerationenpark Westum
+ORTSTEIL_BEZUG: Westum
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/westum/ | Gemeinde-Webseite
+GUELTIG_AB: 2016
+EIGENSCHAFTEN:
+  eroeffnet: 2016
+  ausstattung: Kinderspielplatz, Trimmgeräte, Veranstaltungsterrasse
+  funktion: neuer Dorfmittelpunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/019
+ENTITÄT: gebaeude
+BEZEICHNUNG: Westumer Backes
+ORTSTEIL_BEZUG: Westum
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/westum/ | Gemeinde-Webseite
+GUELTIG_AB: 1855
+EIGENSCHAFTEN:
+  baujahr: 1855
+  renoviert: ja
+  nutzungen: Standesamt, kulturelle Veranstaltungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/020
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sinzig - Kernstadt
+ORTSTEIL_BEZUG: Sinzig - Kernstadt
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: gibt der Gesamtstadt ihren Namen
+  groesse: größter Sinziger Ortsteil
+  lage: an Rhein und Ahr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: St. Peter
+ORTSTEIL_BEZUG: Sinzig - Kernstadt
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+GUELTIG_AB: 1225
+EIGENSCHAFTEN:
+  art: Kirche, Basilika
+  architektur: spätromanische Basilika
+  widmung: dem hl. Petrus
+  baubeginn: um 1225
+  weihe: 15. August 1241
+  lage: zentraler Kirchplatz
+  lage_in_stadt: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/022
+ENTITÄT: gebaeude
+BEZEICHNUNG: Sinziger Schloss
+ORTSTEIL_BEZUG: Sinzig - Kernstadt
+QUELLE: https://www.sinzig.de/leben-in-sinzig/freizeit-und-sport/museum-schloss-sinzig/ | Gemeinde-Webseite
+GUELTIG_AB: 1858
+EIGENSCHAFTEN:
+  baujahr: 1858
+  erbauer: Gustav Bunge
+  erbauer_beschreibung: Geschäftsmann und Eisenbahnpionier
+  funktion: Sommerwohnsitz (historisch)
+  funktion_heute: Museum
+  errichtet_auf: Fundamenten einer mittelalterlichen Wasserburg
+  lage: repräsentative Gartenanlage
+  charakterisierung: architektonisches Schmuckstück mit überregionaler Ausstrahlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/023
+ENTITÄT: museum
+BEZEICHNUNG: Museum Schloss Sinzig
+QUELLE: https://www.sinzig.de/leben-in-sinzig/freizeit-und-sport/museum-schloss-sinzig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Widmet sich der Geschichte der Stadt Sinzig und ihrer näheren Umgebung an Rhein und Ahr
+  sammlungsgebiete: Kunstsammlungen, Stadtgeschichte, Urgeschichte, Römerzeit, Terra-Sigillata-Manufaktur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/024
+ENTITÄT: kunstsammlung
+BEZEICHNUNG: Sammlung Carl Christian Andreae
+QUELLE: https://www.sinzig.de/leben-in-sinzig/freizeit-und-sport/museum-schloss-sinzig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Carl Christian Andreae
+  kuenstler_beschreibung: Maler der Düsseldorfer Akademie
+  werke: Glasfensterentwürfe für Kirchenfenster im Treppenhaus
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/025
+ENTITÄT: kunstsammlung
+BEZEICHNUNG: Gemäldesammlung Philipp Niederée
+QUELLE: https://www.sinzig.de/leben-in-sinzig/freizeit-und-sport/museum-schloss-sinzig/ | Gemeinde-Webseite
+GUELTIG_AB: 1950
+EIGENSCHAFTEN:
+  sammler: Philipp Niederée
+  sammler_herkunft: Bewohner der Nachbarstadt Linz
+  vererbt_an: Stadt Sinzig
+  umfasst_werke_von: Johann Martin Niederée, Franz Ittenbach, Joseph Keller
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/026
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Stadtmodell Sinzig 17. Jahrhundert
+QUELLE: https://www.sinzig.de/leben-in-sinzig/freizeit-und-sport/museum-schloss-sinzig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angefertigt_von: Franz Steinborn
+  kuenstler_herkunft: Sinziger Künstler
+  darstellt: Stadt Sinzig im 17. Jahrhundert
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/027
+ENTITÄT: manufaktur
+BEZEICHNUNG: Terra-Sigillata-Manufaktur Sinzig
+QUELLE: https://www.sinzig.de/leben-in-sinzig/freizeit-und-sport/museum-schloss-sinzig/ | Gemeinde-Webseite
+GUELTIG_AB: römerzeit
+GUELTIG_BIS: römerzeit
+EIGENSCHAFTEN:
+  zeitperiode: römische Zeit
+  superlativ: einzige Terra-Sigillata-Manufaktur in der römischen Provinz Niedergermanien
+  ware: weitreichende Verbreitung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/028
+ENTITÄT: ausstellung
+BEZEICHNUNG: Nicht für die Ewigkeit – Brücken im Ahrtal
+QUELLE: https://www.sinzig.de/leben-in-sinzig/freizeit-und-sport/museum-schloss-sinzig/ | Gemeinde-Webseite
+GUELTIG_AB: 2021
+EIGENSCHAFTEN:
+  art: Sonderausstellung
+  anlass: Flutkatastrophe im Ahrtal 14./15. Juli 2021
+  zeigt: 30 historische Brückenpfeiler (12 in der Ausstellung), historische Karten, Grafiken, Fotos unbekannter Brücken
+  beschreibung: Bestandteil zur Bewältigung der regionalen und sozialen Krise
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/029
+ENTITÄT: ereignis
+BEZEICHNUNG: Ahrflut 2021
+QUELLE: https://www.sinzig.de/leben-in-sinzig/freizeit-und-sport/museum-schloss-sinzig/ | Gemeinde-Webseite
+GUELTIG_AB: 2021
+GUELTIG_BIS: 2021
+EIGENSCHAFTEN:
+  datum: 14./15. Juli 2021
+  beschreibung: Flutkatastrophe im Ahrtal
+  auswirkungen: zerstörte 100 Ahrbrücken ganz oder teilweise, spülte Reste früherer Brücken frei
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/030
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Bad Bodendorf
+ORTSTEIL_BEZUG: Bad Bodendorf
+QUELLE: https://www.sinzig.de/leben-in-sinzig/freizeit-und-sport/heimatmuseum-bad-bodendorf/ | Gemeinde-Webseite
+GUELTIG_AB: 1990
+EIGENSCHAFTEN:
+  betreut_von: Heimat- und Bürgerverein Bad Bodendorf e.V.
+  sammlung: ortshistorisch wertvolle Gegenstände, Fotos und Dokumente, Heimatarchiv
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/031
+ENTITÄT: ereignis
+BEZEICHNUNG: Erste Erwähnung Sinzigs
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+GUELTIG_AB: 762
+GUELTIG_BIS: 762
+EIGENSCHAFTEN:
+  datum: 10. Juli 762
+  quelle_urkunde: Urkunde des Frankenkönigs Pippin d.J.
+  bezeichnung_in_urkunde: sentiaco palatio
+  inhalt: erste Erwähnung Sinzigs und seiner Königspfalz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/032
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Königspfalz Sinzig
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+GUELTIG_AB: 800
+GUELTIG_BIS: 1256
+EIGENSCHAFTEN:
+  erbauer: fränkische Könige
+  lage: Sinzigberg
+  lage_beschreibung: unmittelbar neben der aufgegebenen Römervilla
+  funktion: Etappenstation zwischen Frankfurt und Aachen
+  besuche: 39 Könige und Kaiser hielten sich nachweislich auf
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 186-sinzig/033
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Aachen-Frankfurter-Heerstraße
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+GUELTIG_AB: 800
+EIGENSCHAFTEN:
+  ursprung: direkte Straßenverbindung zur Pfalz in Aachen
+  ausbau: ab 8. Jahrhundert
+  erweiterung: Teilstück der Via Regia
+  via_regia_reichweite: über Osteuropa bis Kiew nachgewiesen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 186-sinzig/034
+ENTITÄT: ereignis
+BEZEICHNUNG: Schenkung an Marienstift Aachen
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+GUELTIG_AB: 855
+GUELTIG_BIS: 855
+EIGENSCHAFTEN:
+  datum: 16. Januar 855
+  schenker: Kaiser Lothar I.
+  beschenker: Marienstift Aachen
+  geschenk: der dem hl. Petrus geweihte Kapelle in Sinzig
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/035
+ENTITÄT: ereignis
+BEZEICHNUNG: Übernachtung Friedrich I. Barbarossa
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+GUELTIG_AB: 1152
+GUELTIG_BIS: 1152
+EIGENSCHAFTEN:
+  datum: 6. März 1152
+  person: Friedrich I. Barbarossa
+  anlass: vor seiner Königskrönung
+  ort: Sinzig
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/036
+ENTITÄT: ereignis
+BEZEICHNUNG: Ausstellung von Urkunden durch Friedrich I.
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+GUELTIG_AB: 1158
+GUELTIG_BIS: 1158
+EIGENSCHAFTEN:
+  datum: 1158
+  aussteller: Friedrich I.
+  ort: Sinzig
+  anzahl_urkunden: 3
+  inhalte_urkunde_1: Schutzbrief für Nonnenwerth
+  inhalte_urkunde_2: Bergwerksprivileg für den Trierer Erzbischof
+  inhalte_urkunde_3: Übertragung von Gütern in Rore Salzburg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/037
+ENTITÄT: ereignis
+BEZEICHNUNG: Beitritt zum rheinischen Städtebund
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+GUELTIG_AB: 1255
+GUELTIG_BIS: 1255
+EIGENSCHAFTEN:
+  jahr: 1255
+  ereignis: Sinzig tritt dem rheinischen Städtebund bei
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/038
+ENTITÄT: ereignis
+BEZEICHNUNG: Eroberung durch Kurköln
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+GUELTIG_AB: 1267
+GUELTIG_BIS: 1267
+EIGENSCHAFTEN:
+  jahr: 1267
+  eroberer: Kurköln
+  resultat_anerkennung_stadtrechte: Erzbischof gestehte Bürgern von Sinzig weiterhin die gleichen Rechte zu
+  bedeutung: Anerkennung der Stadtrechte
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/039
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Stadtmauer Sinzig
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+GUELTIG_AB: 1300
+EIGENSCHAFTEN:
+  erbaut: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 186-sinzig/040
+ENTITÄT: ereignis
+BEZEICHNUNG: Eisenbahn erreicht Sinzig
+QUELLE: https://www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ | Gemeinde-Webseite
+GUELTIG_AB: 1858
+GUELTIG_BIS: 1858
+EIGENSCHAFTEN:
+  jahr: 1858
+  bahn_typ: linksrheinische Eisenbahn
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+

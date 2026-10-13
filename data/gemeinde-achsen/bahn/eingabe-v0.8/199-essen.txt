@@ -1,0 +1,636 @@
+ZIELORT: Essen (Stadt)
+LAGE: 1 km südlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Essen
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 573.618  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 210,34  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 2727  [berechnet aus Einwohner und Fläche]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 116 | 83 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2928810)]
+  naechste_grossstadt: Essen, 1 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 30 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Alter Bahnhof Kupferdreh, Bahnhof Altendorf (Ruhr), Bahnhof Essen Nord, Bahnhof Essen Zollverein Nord, Bahnhof Essen-Altendorf, Bahnhof Essen-Bergeborbeck, Bahnhof Essen-Borbeck, Bahnhof Essen-Borbeck Süd, Bahnhof Essen-Gerschede, Bahnhof Essen-Horst, Bahnhof Essen-Kray Nord, Bahnhof Essen-Stadtwald, Bahnhof Essen-Steele, Bahnhof Essen-Steele Ost, Bahnhof Essen-Steele Süd, Bahnhof Essen-Werden, Bahnhof Kettwig, Haltepunkt Essen Süd, Haltepunkt Essen-Eiberg, Haltepunkt Essen-Frohnhausen, Haltepunkt Essen-Hügel, Haltepunkt Essen-Kray Süd, Haltepunkt Essen-Überruhr, Haltepunkt Kettwig Stausee, U-Bahnhof Bamlerstraße  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 45127–45359  [Wikidata P281]
+  vorwahl: 201, 2054  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Thomas Kufen (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Sunderland, Tampere, Grenoble, Nischni Nowgorod, Tel Aviv-Jaffa, Zabrze  [Wikidata P190]
+  gewaesser: Ruhr  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT partnerstaedte: Partnerstadt (Ersatz: Luftlinie zur Landeshauptstadt), A, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Mülheim an der Ruhr (Stadt)
+  einwohner: 171.674  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 91,28  [Wikidata P2046; Altbestand staedte.json]
+  kfz: MH (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 26 | 153 | 40 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json]
+  naechste_grossstadt: Mülheim an der Ruhr, 1 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Mülheim (Ruhr) Styrum, Bahnhof Mülheim (Ruhr) West, Mülheim (Ruhr) Hauptbahnhof  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,9 %, SPD 23,8 %, AfD 15 %, GRÜNE 12,2 %, Die Linke 7,8 %; Wahlbeteiligung 83,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Essen):
+ID: 199-essen/001
+ENTITÄT: ort
+BEZEICHNUNG: Essen
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: moderne Wirtschafts-, Handels- und Dienstleistungsmetropole
+  region: Ruhrgebiet
+  gegründet: 852
+  aeltester_teil: Stift Essen
+  gruendungsjahr_1150_feier: 2002
+  alter_vergleich: älter als Berlin, Dresden, München
+GUELTIG_AB: 852
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 199-essen/002
+ENTITÄT: siedlung
+BEZEICHNUNG: Hirtsiefer-Siedlung
+ORTSTEIL_BEZUG: Altendorf
+QUELLE: https://www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruengliche_bezeichnung: Kleinhaussiedlung Altendorf
+  denkmalliste_eintrag_jahr: 1995
+  entstehungszeit: 1918-1928
+  lage: westlicher Stadtteil Essen Altendorf
+  wohnungen_erbaut: 750
+  wohnungsgroesse_qm: 45-55
+  gebaeude_art: mehrgeschossige Mehrfamilienhäuser
+  grund_entstehung: Nachbarschaft zur Krupp'schen Gussstahlfabrik als Arbeitgeber; Wohnungsnot nach Ersten Weltkrieg
+  urspruengliche_planung: Ein- und Zweifamilienhäuser mit parkähnlicher Grünanlage
+  aenderung_grund: Wohnungsnot nach Ersten Weltkrieg
+  genossenschaft_gründer_1: Heinrich Hirtsiefer
+  genossenschaft_gründer_2: Christian Kloft
+  genossenschaft_herkunft: christliche Metallarbeitergewerkschaft, katholische Arbeiterbewegung
+  architekt: Theodor Suhnel
+  ausstattung: Spülküche, Baderaum, Klosett in jeder Wohnung; einige mit Loggien
+  gruenanlage_form: rautenförmig mit Spielplatz und Grünanlagen
+  gebaeude_charakteristika: 1,5 bis 2,5 geschossig, hell verputzt, Loggien, gestaltete Eingangsbereiche
+  fassaden: Klappläden im Erdgeschoss
+  daechter: Satteldächer und Walmdächer
+  zusammenschluss_jahr: 1945
+  zusammenschluss_form: mit vier weiteren Genossenschaften zur Wohnungsgenossenschaft Essen-Nord eG
+  erneuerungen: Zentralheizungen, Fassadenarbeiten, Dachdämmung, Balkone hinzugefügt
+  status_denkmal: denkmalgeschützt
+GUELTIG_AB: 1918
+GUELTIG_BIS: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 199-essen/003
+ENTITÄT: schule
+BEZEICHNUNG: Volksschule an der Bärendelle Essen-Ruhr (ehemaliges Schulgebäude Bärendelle)
+QUELLE: https://www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1914
+  architekt: Erbe
+  denkmalliste_eintrag_jahr: 1995
+  grundriss_form: 3-Flügelanlage, symmetrisch
+  baumaterial: massives, verputztes Gebäude
+  fassade_erdgeschoss: leicht risalitartig vorgezogen mit vier Eingängen
+  fenster_form: rundbogig mit plastischen Blendrahmen
+  dach_ausbau: Dachhaus mit geschweiftem Giebel in der Mitte
+  raumhoehe_turnhalle: deutlich größer als übrige Räume
+  lage_kontext: Innenhof mit u-förmiger Blockrandbebauung
+  siedlung_architekt: Scharschmidt (leitender Architekt Krupp'sches Baubüro)
+  schulbetrieb_beendigung: 2011
+  instandsetzungsbedarf: Dach, Fassade, Geschoßdecken, Fensterstürzen, Standsicherheit
+  leerstand_dauer: 2011-2021
+  verkauf_datum: 18. September 2015
+  kaeufer_name: Stiftung "Mein Wohnen"
+  umbau_genehmigung_jahr: 2017
+  umbau_ziel: 51 Wohnungen + überdachte Stellplatzanlage (68 Stellplätze)
+  stellplatzanlage_material: Stahl mit begrüntem Dach
+  soziokulturelle_flaeche_qm: ca. 500 (in ehemaliger Turnhalle)
+  denkmalpflege_konzept: Erhalt Originalsubstanz und äußeres Erscheinungsbild
+  aenderungen_loggien: hinzugefügt durch Fensterentfernung
+  aenderungen_balkone: filigrane Stahlkonstruktion an ehemaliger Schulhof-Seite
+  aenderungen_aufzuege: Barrierefreiheit erzielt
+  aenderungen_dach: Dachstuhl größtenteils erhalten
+  farbe_schule_neu: 2019
+  farbe_siedlung_neu: 2020
+  farbe_konzept: Anlehnung an ursprüngliche Farbgebung aus Bauzeit
+  wohnungen_fertigstellung: 2021
+GUELTIG_AB: 1914
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 199-essen/004
+ENTITÄT: kirche
+BEZEICHNUNG: Neue Pauluskirche
+ORTSTEIL_BEZUG: Huttrop
+QUELLE: https://www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1957-1959
+  architekt: Dennis Boniver
+  architektur_epoche: Kirchenbaukunst der Nachkriegszeit
+  grundriss: rechteckig
+  form: massiver Baublock
+  lage_relativ_steeler_strasse: parallel und leicht zurückgesetzt
+  dach: Flachdach
+  turm: Glockenträger auf Westseite
+  struktur_kennzeichen: konsequent gerastert
+  fassade_material: Bruchsteinmauerwerk-Verblendung
+  fassade_konzept: Schutzschild gegen Lärm des Großstadtverkehrs
+  oeffnungen_suedseite: Taufkapelle mit Halbrundapsis
+  belichtung_nordfassade: gerasterte Betonfertigteil-Elemente als große Belichtungsfläche ohne direkte Sonneneinstrahlung
+  oestfenster_form: vierteilig + Rundfenster
+  oestfenster_gestalter: Gottfried von Stockhausen
+  kreuzfenster_taufkapelle_kuenstler: Henk Schilling (holländischer Maler)
+GUELTIG_AB: 1957
+GUELTIG_BIS: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 199-essen/005
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Hirtsiefer
+QUELLE: https://www.essen.de/dasistessen/stadtgeschichte_1/stadtarchiv_1/stadtarchiv_startseite.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1876-1941
+  titel: Preußischer Staatsminister
+  rolle: christlicher Sozialpolitiker
+  herkunft_gewerkschaft: christliche Metallarbeitergewerkschaft
+  herkunft_bewegung: katholische Arbeiterbewegung
+  major_achievement: Gründung Genossenschaft "Kleinhaussiedlung GmbH" (später Hirtsiefer-Siedlung)
+  jubilaeum_150_jahr: 2026
+GUELTIG_AB: 1876
+GUELTIG_BIS: 1941
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/006
+ENTITÄT: person
+BEZEICHNUNG: Theodor Suhnel
+QUELLE: https://www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Architekt
+  hauptwerk: Hirtsiefer-Siedlung
+  betreuung: lange Jahre, verschiedene Bauabschnitte
+  leistung: harmonisches Gesamtbild
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 199-essen/007
+ENTITÄT: person
+BEZEICHNUNG: Gustave Courbet
+QUELLE: https://www.essen.de/e_magazin/emagazin_1606327.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1819-1877
+  geburtsort: Ornans (Frankreich)
+  kunstrichtung: Realismus
+  kunstverstaendnis_rebellisch: Interesse für Menschen aus Alltag und Landschaften statt nur mythologische Motive (für damalige Zeit ungewöhnlich)
+  werke_motive: Landschaften der Heimat, Menschen aus Umfeld, Szenen des täglichen Lebens
+  ausstellung_essen: "Ich, Gustave Courbet. Maler und Rebell" Museum Folkwang
+  ausstellung_dauer_essen: bis 8. November 2026
+  werke_ausgestellt_anzahl: ca. 100 (davon 85 Gemälde)
+  werke_ergaenzung: Zeichnungen, historische Fotografien, Zeitdokumente
+  selbstportraits: mehrere, zeigen Künstler unterschiedlich (selbstbewusst, dramatisch)
+  farbauftrag_technik: an manchen Stellen plastisch erscheinend auf Leinwand
+  bekanntes_werk: "L'Origine du Monde" (1866)
+  werk_1866_deutschland_premiere: ja (erste Ausstellung in Deutschland)
+  politische_aktivitaeten: Engagement während Pariser Kommune
+  rechtliche_folge: Verurteilung
+  exil: 1873 Schweiz
+  arbeiten_im_exil: ja
+GUELTIG_AB: 1819
+GUELTIG_BIS: 1877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 199-essen/008
+ENTITÄT: person
+BEZEICHNUNG: Gottfried von Stockhausen
+QUELLE: https://www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Fenstergestalter
+  kunstwerk: Ostfenster (vierteilig + Rundfenster) der Neuen Pauluskirche
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/009
+ENTITÄT: person
+BEZEICHNUNG: Henk Schilling
+QUELLE: https://www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nationalitaet: holländisch
+  rolle: Maler
+  kunstwerk: Kreuzfenster Taufkapelle, Neue Pauluskirche
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/010
+ENTITÄT: person
+BEZEICHNUNG: Scharschmidt
+QUELLE: https://www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: leitender Architekt des Krupp'schen Baubüros
+  projekt: Planung und Ausführung Siedlung Bärendelle
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 199-essen/011
+ENTITÄT: person
+BEZEICHNUNG: Dennis Boniver
+QUELLE: https://www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Architekt
+  hauptwerk: Neue Pauluskirche Essen-Huttrop
+  baujahr: 1957-1959
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/012
+ENTITÄT: person
+BEZEICHNUNG: Bernardine Sophia von Ostfriesland und Rietberg
+QUELLE: https://www.essen.de/leben/kultur_/schloss_borbeck_/schloss_borbeck_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1654-1726
+  titel: Fürstäbtissin
+  herrschaftsgebiet: Fürstentum Essen
+  regierungsantritt: 1691
+  charakteristika: unnachgiebig in Verteidigung des Fürstentums gegen Brandenburg-Preußen und protestantische Stadt Essen
+  foerderung_bildung: Mädchenbildung
+  wohltaetigkeit: größte Wohltäterin der B.M.V.-Schule
+GUELTIG_AB: 1691
+GUELTIG_BIS: 1726
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 199-essen/013
+ENTITÄT: person
+BEZEICHNUNG: Franziska Christine von Pfalz-Sulzbach
+QUELLE: https://www.essen.de/leben/kultur_/schloss_borbeck_/schloss_borbeck_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1696-1776
+  titel: Fürstäbtissin
+  herrschaftsgebiet_1: Thorn (ab 1717)
+  herrschaftsgebiet_2: Essen (ab 1726)
+  stiftung: Waisenhaus in Steele (heute Fürstin-Franziska-Christine-Stiftung)
+  stiftung_status: existiert bis heute
+  bauvorhaben_in_amtszeit: Schloß Borbeck Umbau und Erweiterung
+GUELTIG_AB: 1717
+GUELTIG_BIS: 1776
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 199-essen/014
+ENTITÄT: person
+BEZEICHNUNG: Maria Kunigunde von Sachsen
+QUELLE: https://www.essen.de/leben/kultur_/schloss_borbeck_/schloss_borbeck_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1740-1826
+  titel: Fürstäbtissin
+  herrschaftsgebiet: Essen und Thorn
+  regierungszeit: 1776-1803
+  charakteristika: vielseitig interessierte Herrscherin
+  talent_musik: erfolgreiche Opernsängerin 1763 Dresden
+  politische_ausrichtung: Vertreter aufgeklärter Ideen in Politik und Pädagogik
+  wirtschaft: Förderung beginnende Industrialisierung
+  bauvorhaben_1: Neubau Schloß Borbeck
+  bauvorhaben_2: englisch-chinesischer Landschaftspark
+  auszeichnung: FrauenOrt NRW
+  auszeichnung_grund: letzte Essener Fürstäbtissin
+GUELTIG_AB: 1776
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 199-essen/015
+ENTITÄT: person
+BEZEICHNUNG: Nelli Neumann
+QUELLE: https://www.essen.de/dasistessen/stadtgeschichte_1/stadtarchiv_1/stadtarchiv_startseite.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Dr. phil.
+  rolle: Patronin Haus der Essener Geschichte/Stadtarchiv
+  auszeichnung: FrauenOrt NRW
+  auszeichnung_ab: September 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/016
+ENTITÄT: institution
+BEZEICHNUNG: Haus der Essener Geschichte/Stadtarchiv
+QUELLE: https://www.essen.de/dasistessen/stadtgeschichte_1/stadtarchiv_1/stadtarchiv_startseite.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: historisches Gedächtnis der Stadt
+  funktionen_teile_4: Stadtarchiv, Erinnerungsort Archiv Ernst Schmidt, historische Dauerausstellung, Fachbibliothek
+  dauerausstellung_thema: 120 Jahre Essener Stadtgeschichte
+  sammlung_widerstandskaempfer_anzahl: 103 Essener (NS-Zeit)
+  sammlung_widerstandskaempfer_form: Fotosammlung amtlich und privat
+  sammlung_widerstandskaempfer_status: neu erschlossen und digitalisiert
+  bestand_folkwang_akten: Verwaltungsakten Folkwang Museum digitalisiert (1898-ca. 1955)
+  gebaeude_neu: ehemalige Luisenschule (seit September 2025)
+  patronin: Dr. phil. Nelli Neumann (FrauenOrt NRW)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 199-essen/017
+ENTITÄT: museum
+BEZEICHNUNG: Museum Folkwang
+QUELLE: https://www.essen.de/e_magazin/emagazin_1606327.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstellung_aktuell: "Ich, Gustave Courbet. Maler und Rebell"
+  ausstellung_dauer_end: 8. November 2026
+  ausstellungsflaeche_qm: ca. 900
+  werke_gesamt_anzahl: ca. 100
+  werke_gemaelde_anzahl: 85
+  werke_ergaenzung: Zeichnungen, historische Fotografien, Zeitdokumente
+  kooperation: Leopold Museum Wien
+  besucher_wien_courbet: ca. 130.000
+  ausstellungsrundgang_kapitel: 9 Kapitel
+  sammlungswerk: Paul Cézannes "Steinbruch von Bibémus"
+  vermittlungsraum: zwei Arbeitsproben zum Anfassen, Reproduktion von Courbets Atelier-Gemälde 1855
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 199-essen/018
+ENTITÄT: burg_ruine
+BEZEICHNUNG: Isenburg
+QUELLE: https://www.essen.de/dasistessen/leben_im_gruenen_/isenburg_/die_isenburg.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: felsiger Geländesporn über dem Baldeneysee
+  superlativ: eine der größten und bedeutendsten Befestigungen der Region vor 750 Jahren
+  superlativ_context: Essener Raum, damalige Zeit
+  gruender: Dietrich von Isenberg
+  gruendungsjahr: ca. 1240
+  grund_gruendung: Rückforderung Erbe nach Zerstörung Hattinger Isenburg (infolge Überfall mit Tod des Erzbischofs Engelbert von Köln)
+  eroberung_1: 1244 durch Kölner Erzbischof
+  eroberung_2: 1288 durch Graf von der Mark
+  zerstoerung_grad: zerstört und nicht wieder aufgebaut
+  verfall_prozess: Überwucherung durch Wald
+  ausgrabungen_beginn: vor ca. 70 Jahren
+  ausgrabungen_ergebnis: größere Teile zugänglich gemacht
+  eigentuemer: Stadt Essen
+  schutzstatus: Bau- und Bodendenkmalschutz
+  erlebnispfad_eroeffnung: September 2002
+  erlebnispfad_infotafeln_anzahl: 6
+  erlebnispfad_themen: Geschichte und Leben der Burg und ihrer Bewohner
+  erlebnispfad_erneuerung: Herbst 2025
+  erlebnispfad_finanzierung: Stiftung zur Verschönerung der Stadt Essen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 199-essen/019
+ENTITÄT: schloss
+BEZEICHNUNG: Schloß Borbeck
+QUELLE: https://www.essen.de/leben/kultur_/schloss_borbeck_/schloss_borbeck_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_primär: Kulturzentrum
+  funktion_sekundär: Veranstaltungsort, Galerie, Musikschule, Kunstunterricht, Wellness-Angebote
+  geschichte_umfang: fast 1000-jährige Geschichte von Stift und Stadt Essen
+  dauerausstellung: Überblick fast 1000-jährige Geschichte
+  galerie: Städtische Galerie Schloß Borbeck mit Werken zeitgenössischer Künstler
+  musikschule: Folkwang Musikschule (Alte Musik, Kammermusik, Jazz)
+  schlosspark: englisch-chinesischer Landschaftspark
+  auszeichnung: FrauenOrt NRW (letzte Essener Fürstäbtissin Maria Kunigunde von Sachsen)
+  ausstellung_2026: "Frauenpower" - drei letzte Essener Herrscherinnen
+  ausstellung_eroffnung: 27. August 2026, 18 Uhr
+  ausstellung_dauer_end: 10. November 2026
+  ausstellung_oeffnungszeiten: Dienstag-Sonntag, 14-18 Uhr
+  ar_experience: Augmented Reality mit Fürstäbtissin Maria Kunigunde (Georg-Simon-Ohm Kolleg Köln)
+  dienst_hochzeiten: Standesamtliche und Freie/Kirchliche Trauungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 199-essen/020
+ENTITÄT: stadtteil_entwicklung
+BEZEICHNUNG: ESSEN 51
+QUELLE: https://www.essen.de/e_magazin/emagazin_1578193.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: neuer Stadtteil / Stadtquartier
+  gelande_basis: ehemalige Kruppschen Fabriken
+  gesamtflaeche_haektar: ca. 230 Hektar (ca. 320 Fußballfelder) im Krupp-Gürtel
+  planungsstart_krupp_guertel: 2000
+  rahmenplan: 2001 (Rat der Stadt Essen)
+  masterplan: Masterplan Nord 2016
+  eigentuemer_aktuell: Thelen-Gruppe (seit 2016)
+  eigentuemer_original: thyssenkrupp
+  bauabschnitt_erster_spatenstich: 2018
+  bauabschnitt_architekturwettbewerb: 2019
+  bauphase_geplant_beginn: 2026
+  wohnungen_geplant_anzahl: ca. 1.700
+  arbeitsplaetze_geplant_anzahl: ca. 3.000
+  arbeitsplaetze_branche: Startups, Gewerbebetriebe
+  gewerbflaeche_qm: bis zu 215.000 (Büro- und Gewerbeflächen)
+  bauweise: modular
+  wohnungsgroessen_2zi_prozent: 25% (424)
+  wohnungsgroessen_3zi_prozent: 35% (594)
+  wohnungsgroessen_4zi_prozent: 30%
+  wohnungsgroessen_5zi_prozent: 10% (170)
+  infrastruktur_kitas: 2
+  infrastruktur_schulen: 1 Grundschule
+  infrastruktur_nahversorgung: Gastronomie, Nahversorgungszentrum
+  gruenflaeche_wasser_haektar: 5
+  gruenflaeche_beschreibung: blau-grüner Wasser- und Grüngürtel mit Spielplatz und Sitzgelegenheiten
+  wege_typ: Rad- und Fußwege, Verbindung zu Radschnellwegen Mittleres Ruhrgebiet und Ruhr
+  verkehrkonzept: weitgehend autofrei
+  parking_tiefgaragen: keine unter Wohnhäusern
+  parking_parkhaeuser: 2 an Rändern
+  investitionsvolumen_eur_min: 800 Millionen
+  investitionsvolumen_eur_max: 1 Milliarde
+  investitionsvolumen_nur_thelen: ja (Familienunternehmen, keine weiteren Investoren)
+  bauabschnitt_erste_wohnungen_geplant: 2027
+  bauabschnitt_gesamtabschluss_geplant: 10-15 Jahre
+  energieversorgung: Wärmepumpen, Solarenergie, ggf. Wasserstoff
+  wassernutzung: Regenwasser für künstliche Flusslandschaft
+  zentrum: Zeche Amalie
+  marktplatz: Veranstaltungsort
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/021
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Amalie
+QUELLE: https://www.essen.de/e_magazin/emagazin_1578193.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ehemaliger_zweck: Kohleabbau
+  neuer_kontext: Zentrum Stadtteilentwicklung ESSEN 51
+  neue_funktion: Gastronomie, Nahversorgungszentrum, Veranstaltungsort
+  gebaeude_nutzbau: Fördergerüst für Open-Air-Events
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 199-essen/022
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: CITYBAHN Linie 108
+QUELLE: https://www.essen.de/e_magazin/emagazin_1578193.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Ruhrbahn GmbH
+  verkehrsart: Straßenbahn
+  streckenrichtung: West-Ost-Verbindung
+  streckenlaenge_km: 5
+  haltestellen_neu: Zollstraße, Zeche Amalie, Krupp-Park
+  haltestellen_folge: Berthold-Beitz-Boulevard, Hauptbahnhof
+  haltestelle_wendepunkt: Betriebshof Stadtmitte
+  fahrzeit_km5_hauptbahnhof: 8,5 Minuten
+  takt_geplant: 10-Minuten-Takt
+  parallele_linien: 101 (Borbeck-Rellinghausen), 105 (Frintrop-Steele)
+  vorteil_umwelt: Lastenentlastung, ÖPNV-Entwicklung
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/023
+ENTITÄT: industrie_konzern
+BEZEICHNUNG: RWE AG
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konzernzentrale: Essen
+  branche: Energiewirtschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/024
+ENTITÄT: industrie_konzern
+BEZEICHNUNG: Evonik Industries AG
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konzernzentrale: Essen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/025
+ENTITÄT: industrie_konzern
+BEZEICHNUNG: E.ON Ruhrgas AG
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konzernzentrale: Essen
+  branche: Energiewirtschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/026
+ENTITÄT: industrie_konzern
+BEZEICHNUNG: GALERIA Karstadt Kaufhof GmbH
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konzernzentrale: Essen
+  branche: Einzelhandel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/027
+ENTITÄT: industrie_konzern
+BEZEICHNUNG: Hochtief AG
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konzernzentrale: Essen
+  branche: Bauunternehmen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/028
+ENTITÄT: messe
+BEZEICHNUNG: Messe Essen
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: etabliert unter Top-Ten der deutschen Messeplätze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 199-essen/029
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Changzhou
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: China
+  partnerschaftstyp: Partnerstadt
+  status: aktiv
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/030
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Sunderland
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: England
+  partnerschaftstyp: Partnerstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/031
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Tampere
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Finnland
+  partnerschaftstyp: Partnerstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/032
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Grenoble
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaftstyp: Partnerstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/033
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Tel Aviv-Yafo
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Israel
+  partnerschaftstyp: Partnerstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/034
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Zabrze
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Polen
+  partnerschaftstyp: Partnerstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/035
+ENTITÄT: partnergemeinde_solidarität
+BEZEICHNUNG: Riwne
+QUELLE: https://www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Ukraine
+  partnerschaftstyp: Solidaritätspartnerschaft
+  anlass: Reaktion auf russischen Angriff auf Ukraine
+  grund_partnerschaft_ruhe: Angriff Russlands auf Ukraine
+  ruhende_partnerschaft: Nischni Nowgorod (Russland)
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 199-essen/036
+ENTITÄT: stadtteil_entwicklung_historisch
+BEZEICHNUNG: Krupp-Gürtel
+QUELLE: https://www.essen.de/e_magazin/emagazin_1578193.de.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche_haektar: ca. 230
+  flaeche_fussballfelder: ca. 320
+  basis: ehemalige Kruppschen Fabriken
+  planungsstart: 2000
+  planungsbeteiligte_original: Stadt Essen, thyssenkrupp
+  planungsbeteiligte_aktuell: Stadt Essen, Thelen-Gruppe
+  rahmenplan_jahr: 2001
+  masterplan_jahr: 2016
+  fertiggestellte_projekte: ruhr-tech-Kampus (Thyssen-Krupp Quartier), Kronenburg-Center, Quartier West Nahversorgungs-Zentrum, Krupp-Park mit See, Berthold-Beitz-Boulevard mit Straßenbahn
+  im_bau_projekte: Wohnen am Krupp-Park (ca. 500 Wohneinheiten)
+  geplant_projekte: ESSEN 51
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

@@ -1,0 +1,309 @@
+ZIELORT: Düsseldorf (Stadt)
+LAGE: 0 km nördlich von Düsseldorf (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Düsseldorf
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 619.444  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 217,41  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 2849  [berechnet aus Einwohner und Fläche]
+  kfz: D (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 38 | 45 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2934246)]
+  naechste_grossstadt: Düsseldorf, 0 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 0 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 1135  [Wikidata P1249; Altbestand geschichte.json]
+  bahnhof: Alter Bahnhof Oberkassel, Bahnhof Düsseldorf Wehrhahn, Bahnhof Düsseldorf-Derendorf, Bahnhof Düsseldorf-Friedrichstadt, Bahnhof Düsseldorf-Gerresheim, Bahnhof Düsseldorf-Rath, Bahnhof Düsseldorf-Reisholz, Bahnhof Düsseldorf-Unterrath, Düsseldorf Hauptbahnhof, Düsseldorf-Hellerhof, Flughafen Bahnhof, Haltepunkt Angermund, Haltepunkt Düsseldorf Volksgarten, Haltepunkt Düsseldorf Völklinger Straße, Haltepunkt Düsseldorf-Eller Mitte, Haltepunkt Düsseldorf-Eller Süd, Haltepunkt Düsseldorf-Flingern, Haltepunkt Düsseldorf-Garath, Haltepunkt Düsseldorf-Hamm, Haltepunkt Düsseldorf-Oberbilk, Haltepunkt Düsseldorf-Rath Mitte, Parkhaus P 4, Terminal A, B, Terminal C  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 40210, 40211, 40212, 40213, 40215, 40217, 40219, 40221, 40223, 40225, 40227, 40229, 40231, 40233, 40235, 40237, 40239, 40468, 40470, 40472, 40474, 40476, 40477, 40479, 40489, 40545, 40547, 40549, 40589, 40591, 40593, 40595, 40597, 40599, 40625, 40627, 40629  [Wikidata P281]
+  vorwahl: 0203, 02104, 0211  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28 %, SPD 18 %, GRÜNE 17,7 %, AfD 11,3 %, Die Linke 10,5 %, FDP 6,8 %; Wahlbeteiligung 82 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Stephan Keller (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Chemnitz, Reading, Haifa, Warschau, Chongqing, Palermo, Chiba, Czernowitz  [Wikidata P190]
+  gewaesser: Rhein  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Kennzeichen), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Langenfeld (Stadt)
+  einwohner: 59.821  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 41,15  [Wikidata P2046]
+  kfz: ME (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 55 | 47 | 51 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2881085)]
+  naechste_grossstadt: Leverkusen, 10 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Langenfeld, Haltepunkt Langenfeld-Berghausen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,1 %, SPD 18 %, AfD 14,8 %, GRÜNE 13,1 %, Die Linke 6,3 %, FDP 5,6 %; Wahlbeteiligung 85,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Düsseldorf):
+ID: 195-duesseldorf/001
+ENTITÄT: ort
+BEZEICHNUNG: Düsseldorf
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_landeshauptstadt: true
+  anzahl_bau_und_bodendenkmäler: 1800
+  anzahl_denkmalbereiche: 10
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 195-duesseldorf/002
+ENTITÄT: behörde
+BEZEICHNUNG: Institut für Denkmalschutz und Denkmalpflege
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_mitarbeiter: 14
+  zustaendigkeit: zehn Denkmalbereiche und über 1.800 Bau- und Bodendenkmäler
+  rolle: Untere Denkmalbehörde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 195-duesseldorf/003
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Eller
+ORTSTEIL_BEZUG: Eller
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: Neorenaissance
+  material_fassade: Backstein (rot)
+  geschossigkeit: 2
+  dacheindeckung: Naturschiefer
+  architekt: Robert Kohlhagen (Kreisbaumeister)
+  funktion_urspruenglich: Verwaltungssitz der selbstständigen Gemeinde Eller
+  zustand: nahezu authentisch erhalten
+  bedeutung: hohe städtebauliche und geschichtliche Bedeutung
+  lage: Gertrudisplatz, südwestliche Langseite
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 195-duesseldorf/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eller
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_urspruenglich: Landgemeinde
+  status_1896: Bürgermeisterei
+  einwohner_um_1896: 6000
+  genauigkeit: "ca."
+  eingemeindet_jahr: 1909
+  stadtbezirk: 8
+  historische_orientierungsachse: Alt Eller und Ellerkirchstraße (südwest-nordost)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 195-duesseldorf/005
+ENTITÄT: kirche
+BEZEICHNUNG: Gertrudiskirche
+ORTSTEIL_BEZUG: Eller
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: Neugotik
+  lage: Gertrudisplatz, südöstliches Kopfende
+  erbaut: zeitgleich mit Rathaus Eller (ca. 1901)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 195-duesseldorf/006
+ENTITÄT: platz
+BEZEICHNUNG: Gertrudisplatz
+ORTSTEIL_BEZUG: Eller
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: einzigartig in Düsseldorf
+  entstehungszeit: Wende 19./20. Jahrhundert
+  funktion: städtebauliche Anlage mit Rathaus, Kirche und Marktplatz
+  schutzstatus: Denkmalbereichssatzung "Zentrum Eller"
+  eigenschaft_schutz: Schutz der gesamten städtebaulichen Anlage, nicht nur einzelner Gebäude
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 195-duesseldorf/007
+ENTITÄT: bahnhof
+BEZEICHNUNG: Kulturbahnhof
+ORTSTEIL_BEZUG: Eller
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1872
+  lage: Vennhauser Allee
+  ursprung: Bahnhof Eller
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 195-duesseldorf/008
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Benrath
+ORTSTEIL_BEZUG: Benrath
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_urspruenglich: kurfürstlicher Sommersitz
+  architekturstil: Rokoko (ausgehendes)
+  bauauftrag: 1755
+  auftraggeber: Kurfürst Carl Theodor
+  architekt: Nicolas de Pigage
+  titel_architekt: Erster Architekt und Generaldirektor der Gebäude und Gärten
+  superlativ: eines der in Europa selten gewordenen Gesamtkunstwerke des ausgehenden Rokoko
+  eigenschaft: kulturelles und touristisches Juwel der Stadt Düsseldorf
+GUELTIG_AB: 1755
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 195-duesseldorf/009
+ENTITÄT: park
+BEZEICHNUNG: Schlosspark Benrath
+ORTSTEIL_BEZUG: Benrath
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur_geschichte: ursprünglich Tiergarten, 1755 umgestaltet
+  gesamt_konzept: Gesamtkunstwerk von Schloss und Park mit Bauwerk, Gartenwerk und Wasserwerk als Einheit
+  gartenteile: Parkwald, Parterregarten, Küchengarten, Englischer Garten, Französischer Garten, Bosquet
+GUELTIG_AB: 1755
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 195-duesseldorf/010
+ENTITÄT: garten
+BEZEICHNUNG: Parterregarten
+ORTSTEIL_BEZUG: Benrath
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: ältester Gartenteil im Schlosspark Benrath
+  entwerfer: Johannes Lollio (Sadeler), Landesbaumeister
+  bepflanzung_jahr: 1662
+  gartner: Laurents
+  funktion: Lustgarten für das Alte Schloss
+  ursprung_planung: 17. Jahrhundert
+GUELTIG_AB: 1662
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 195-duesseldorf/011
+ENTITÄT: garten
+BEZEICHNUNG: Küchengarten
+ORTSTEIL_BEZUG: Benrath
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1760
+  genauigkeit: "ca."
+  funktion: Versorgung des Hofstaates bei Aufenthalten
+  bedeutung: herausragende Bedeutung für Gutshof
+  nachnutzung: Erträge für Gutshof in Abwesenheit des Hofstaates
+GUELTIG_AB: 1760
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 195-duesseldorf/012
+ENTITÄT: naturereignis
+BEZEICHNUNG: Sturm Ela
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 2014-06-09
+  windgeschwindigkeit: 142.2
+  windgeschwindigkeit_einheit: km/h
+  baumverluste_duesseldorf_gesamt: 30000
+  straßenbaum_verluste: 3000
+  baeume_mit_maßnahmenbedarf: 24000
+  windwurfflaechenwald: 50
+  windwurfflaechenwald_einheit: Hektar
+  schaeden_schlosspark: Schneisen und Lichtungen im Parkwald, Verlust von Einzelbäumen, umgestürzte Trauerweide auf Schlossweiherinsel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 195-duesseldorf/013
+ENTITÄT: person
+BEZEICHNUNG: Robert Kohlhagen
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kreisbaumeister
+  werk: Entwurf Rathaus Eller
+  zeit_wirken: um 1900
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 195-duesseldorf/014
+ENTITÄT: person
+BEZEICHNUNG: Carl Theodor
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kurfürst
+  funktion: Auftraggeber Schloss und Park Benrath
+  baujahr_auftrag: 1755
+  perspektive: absolutistische Herrschaft
+  interessenschwerpunkt: Förderung der Landwirtschaft
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 195-duesseldorf/015
+ENTITÄT: person
+BEZEICHNUNG: Nicolas de Pigage
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erster Architekt und Generaldirektor der Gebäude und Gärten
+  werke: Schloss und Park Benrath
+  leistung: Schöpfung eines Gesamtkunstwerks mit aufeinander abgestimmtem Innenraum und Gartenraum
+  baujahr: 1755
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 195-duesseldorf/016
+ENTITÄT: person
+BEZEICHNUNG: Johannes Lollio (Sadeler)
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Landesbaumeister
+  werke: Parterregarten Benrath, Altes Schloss Benrath
+  aktiv: 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 195-duesseldorf/017
+ENTITÄT: person
+BEZEICHNUNG: Prof. Otto Hupp
+QUELLE: https://www.duesseldorf.de/rathaus-online/wappenzeichen-fuer-privaten-gebrauch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Heraldiker
+  werk: Neugestaltung Stadtwappen Düsseldorf
+  baujahr_neugestaltung: 1938
+  leistung: Befreiung von später hinzugefügten Elementen, Herstellung der heute gebräuchlichen Form
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 195-duesseldorf/018
+ENTITÄT: wappenzeichen
+BEZEICHNUNG: Wappenzeichen der Stadt Düsseldorf
+QUELLE: https://www.duesseldorf.de/rathaus-online/wappenzeichen-fuer-privaten-gebrauch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  darstellung: Bergischer Löwe (weiß) mit schwarzem Anker auf rot-weißem Hintergrund
+  verfuegbarkeit: kostenlos, genehmigungsfrei, unbeschränktes Reproduktionsrecht
+  zielgruppe: Privatpersonen, Vereine, Firmen
+  nutzungsbeschraenkung: nicht diskriminierend, nicht kriminell, nicht sittenwidrig, nicht jugendgefährdend, nicht geeignet das Ansehen der Stadt zu beeinträchtigen
+  vorbild: Wappenzeichen des Landes Nordrhein-Westfalen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 195-duesseldorf/019
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen Düsseldorf
+QUELLE: https://www.duesseldorf.de/rathaus-online/wappenzeichen-fuer-privaten-gebrauch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruenglich: Anker
+  ursprung: Stadterhebung
+  namensherkunft: Anker, Beziehung zur Rheinschifffahrt
+  ab_17_jhd_ende: Bergischer Löwe mit Anker
+  superlativ: Bergischer Löwe ist das Wappentier der bergischen Herzöge
+  ab_18_jhd_mitte: Löwe verdrängt einfaches Wappen endgültig
+  neugestaltung: 1938 durch Prof. Otto Hupp
+  heutige_form: Silberner Schild mit aufgerichtetem, doppelgeschwänztem, blaugekröntem und -bewehrtem roten Löwe der Herzöge von Berg mit gesenktem blauen Anker
+  schutz: Hoheitszeichen, nicht zur missbräuchlichen Verwendung freigegeben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

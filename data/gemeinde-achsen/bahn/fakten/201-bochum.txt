@@ -1,0 +1,691 @@
+ID: 201-bochum/001
+ENTITÄT: ort
+BEZEICHNUNG: Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  namensherkunft: "Der Name entstand aus niederdeutschen Bezeichnungen wie Bochem, Buchem, Boeckum oder Bokheim. Der Namensbestandteil 'boc' ist das niederdeutsche Wort für Buche, 'hum' oder 'hem' lassen sich auf das Wort für -heim zurückführen. Der Name bezeichnete einen Wohnort unter Buchen und ließe sich mit 'Buchenheim' übersetzen."
+  westfälisch_name: "Baukem"
+  erste_erwähnung: 890
+  urkundlich_erwähnt: 1041
+  urkunde_erwähnung_name: "Cofbuokheim"
+  stadtrecht_verleihung: 1321
+  stadtrech_verleiher: "Graf Engelbert II. von der Mark"
+  ist_kreisfreie_stadt: true
+  ist_großstadt: true
+  großstadt_seit: 1904
+  ist_oberzentrum: true
+  regierungsbezirk: "Arnsberg"
+  bundesland: "Nordrhein-Westfalen"
+  geographische_lage: "geografische Mitte des Ruhrgebiets"
+  lage_zu_ruhr: "nördlich der Ruhr"
+  einwohnerzahl: 358880
+  einwohnerzahl_stichtag: "31. Dezember 2025"
+  rangplatz_deutschland: 16
+  rangplatz_nordrhein_westfalen: 6
+  rangplatz_westfalen: 2
+  höchster_punkt: "196 m ü. NN an Kemnader Straße in Stiepel"
+  niedrigster_punkt: "43 m ü. NN am Blumenkamp in Hordel"
+  ausdehnung_nord_sued: "13,0 km"
+  ausdehnung_west_ost: "17,1 km"
+  stadtgrenzenlänge: "67,2 km"
+  mitglied_lwl: true
+  mitglied_rvr: true
+  durchschnittstemperatur_jährlich: "10,1 °C"
+  temperatur_kältester_monat: "2,5 °C (Januar)"
+  temperatur_wärmster_monat: "18,4 °C (Juli)"
+  niederschlag_jährlich: "ca. 750 mm"
+  arbeitslosenquote_april_2026: "9,2 Prozent"
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 201-bochum/002
+ENTITÄT: universität
+BEZEICHNUNG: Ruhr-Universität Bochum
+ORTSTEIL_BEZUG: Querenburg
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1962
+  gründung_tatsächliches_jahr: 1965
+  studentenzahl: "über 40.000"
+  superlativ: "eine der größten Universitäten Deutschlands"
+  besonderheit: "größte Campus-Universität Deutschlands"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/003
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Bergbau-Museum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1930
+  gründer: "Westfälische Berggewerkschaftskasse und Stadt Bochum"
+  funktion: "Zentrum der Montangeschichtsforschung in Deutschland"
+  fördergerüst_herkunft: "1974 von Dortmunder Zeche 'Germania' versetzt"
+  fördergerüst_höhe: "über 50 m sichtbar"
+  ausstellungshallen: 20
+  anschauungsbergwerk_tiefe: "17 bis 22 m"
+  anschauungsbergwerk_streckenlänge: "2,5 km"
+  ausichtsplattformen_höhe: "50 m und 62 m"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/004
+ENTITÄT: theater
+BEZEICHNUNG: Schauspielhaus Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  eröffnung: 1915
+  vorgängergebäude_bau: 1908
+  vorgängergebäude_typ: "Varietétheater"
+  erster_ensemble: 1919
+  schwerpunkt: "Shakespeare-Bühne"
+  weltkriegszerstörung: "im Zweiten Weltkrieg fast völlig zerstört"
+  wiederaufbau: 1954
+  wiederaufbau_architekt: "Gerhard Graubner"
+  ruf: "eine der renommiertesten Bühnen für Sprechtheater in Deutschland"
+GUELTIG_AB: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/005
+ENTITÄT: musical
+BEZEICHNUNG: Starlight Express
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  premiere: 1988
+  produzent: "Friedrich Kurz"
+  theater: "Starlight Express Theater"
+  laufzeit_jahre: 35
+  besucherzahl: "über 18 Millionen"
+  superlativ: "das erfolgreichste Musical der Welt"
+  superlativ2: "am längsten am selben Standort laufende Musical der Welt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/006
+ENTITÄT: planetarium
+BEZEICHNUNG: Planetarium Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  bau: "1962 bis 1964"
+  leiter_hochbauamt: "Karl-Heinz Schwarze"
+  durchmesser: "ca. 20 Meter"
+  projektionsfläche: "ca. 600 m²"
+  planetar_besonderheit: "erstes Gerät dieser Art in Europa, seit April 2000 in Bochum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 201-bochum/007
+ENTITÄT: stadion
+BEZEICHNUNG: Ruhrstadion
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  heimverein: "VfL Bochum"
+  bau: "März 1976 bis Juli 1979"
+  einweihung_gegner: "SG Wattenscheid 09"
+  zuschauerplätze_gesamt: 27599
+  sitzplätze: 15574
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/008
+ENTITÄT: kirche
+BEZEICHNUNG: Propsteikirche St. Peter und Paul
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: "älteste Kirche Bochums"
+  reichshof_errichtung: "785-800 durch Kaiser Karl den Großen"
+  kunstwerke_taufstein: "romanischer Taufstein aus ca. 1175"
+  kunstwerk_reliquienschrein: "Heilige Perpetua und ihre Sklavin Felicitas"
+  kunstwerk_hochaltar: 1352
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/009
+ENTITÄT: kirche
+BEZEICHNUNG: Pauluskirche
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  baustil: "Renaissance, schlicht"
+  bau: "1655 bis 1659"
+  finanzierung: "Spenden aus Holland, Schweden, Kurland und Dänemark"
+  zerstörung: "12. Juni 1943 durch Bombenangriff bis auf Außenmauern"
+  wiederaufbau: "nach Krieg in vereinfachten Formen"
+  turmerhöhung: 1949
+  fenster_künstler: "K. Willy Heyer (um 1960)"
+  fenster_thema: "drei Stationen der Wandlung des Saulus zum Paulus"
+  innenraum_umbau: "1974 nach Plänen von Kurt Peter Kremer"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/010
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: "1877–1878"
+  zerstörung_wwii: "bis auf Turm zerstört"
+  wiederaufbau: "1950er Jahre"
+  wiederaufbau_architekt: "Dieter Oesterlen"
+  platz_name: "Platz des Europäischen Versprechens"
+  platz_künstler: "Jochen Gerz"
+  platz_eröffnung: "Dezember 2015"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/011
+ENTITÄT: kirche
+BEZEICHNUNG: Marienkirche
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: "1868–1872"
+  baustil: "neugotisch"
+  turm_höhe: "ca. 70 Meter hoher Spitzhelm"
+  umnutzung: "Anneliese Brost Musikforum Ruhr bis 28. Oktober 2016"
+  neue_funktion: "Konzerthaus für Bochumer Symphoniker"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/012
+ENTITÄT: wallfahrtskirche
+BEZEICHNUNG: Zisterzienserkloster und Wallfahrtskirche St. Marien
+ORTSTEIL_BEZUG: Stiepel
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwähnung: "885 n. Chr."
+  gründer_vermutlich: "Gräfin Imma von Stiepel"
+  wallfahrtsbestätigung: "1294 durch Dekret des Papstes Bonifaz VIII."
+  wallfahrtsort_bedeutung: "einziger Marien-Wallfahrtsort des Bistums Essen"
+  superlativ: "zu den ältesten Gründungen des Ruhrgebietes gehörig"
+  gnadenbild: "Schmerzhafte Mutter von Stiepel"
+  pilgerzahl_jährlich: "etwa 40.000 bis 70.000 Pilger"
+  träger: "Zisterzienser"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/013
+ENTITÄT: kirche
+BEZEICHNUNG: Stiepeler Dorfkirche
+ORTSTEIL_BEZUG: Stiepel
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_original: "um 1008"
+  original_typ: "kleine Saalkirche"
+  bauherr: "Gräfin Imma von Stiepel (Verwandte von Kaiser Heinrich II. und Kaiserin Kunigunde)"
+  umbau: "1130-1170 zu romanischer Basilika"
+  romanische_malereien: "1150-1200"
+  erhaltene_teile: "Turm, Mittel- und Querschiff"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/014
+ENTITÄT: synagoge
+BEZEICHNUNG: Alte Synagoge Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Nähe Dr.-Ruer-Platz"
+  zerstörung: "9. November 1938 bei Novemberpogromen"
+  gemeindeglieder_1932: 1352
+  gemeindeglieder_1945: 33
+  holocaust_opfer: "etwa 500 namentlich bekannte, davon 19 unter 16 Jahren"
+  besonderheit: "Else Hirsch organisierte 1938/39 zehn Kindertransporte in Niederlande und Großbritannien"
+GUELTIG_AB: 
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 201-bochum/015
+ENTITÄT: synagoge
+BEZEICHNUNG: Neue Synagoge Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  grundsteinlegung: "14. November 2005"
+  grundsteinleger_name: "Paul Spiegel (Vorsitzender Zentralrats der Juden in Deutschland)"
+  einweihung: "16. Dezember 2007"
+  lage: "Castroper Straße neben Planetarium Bochum"
+  zugehörigkeit: "Jüdische Gemeinde Bochum-Herne-Hattingen"
+  gemeindemitglieder_2021: 991
+  herkunft_mitglieder: "hauptsächlich Nachfolgestaaten der Sowjetunion"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/016
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  bau: "1926 Beginn, 1927 Grundsteinlegung, 20. Mai 1931 Eröffnung"
+  baukosten: "9,25 Millionen Reichsmark"
+  grundriss: "weitgehend symmetrisch"
+  material_sockel: "Granitstein"
+  material_fassade: "Muschelkalk"
+  material_dach: "Schiefer"
+  material_innenraum: "Marmor, Bronze, dunkle Holztäfelungen"
+  glockenspiel_herstellung: 1951
+  glockenspiel_anzahl: 28
+  glockenspiel_gewicht: "2300 kg"
+  glockenspiel_superlativ: "erstes aus Gussstahl hergestellte Glockenspiel der Welt"
+  glockenspiel_glocken_gewicht: "375 bis 4 kg pro Glocke"
+  brunnen: "zwei aus Travertin und Bronze"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/017
+ENTITÄT: kunstmuseum
+BEZEICHNUNG: Kunstmuseum Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  eröffnung: 1960
+  gebäude_original: "Villa Marckhoff"
+  erweiterung: 1983
+  erweiterung_architekten: "Bo und Wohlert (dänisch)"
+  sammlung_fokus1: "deutsche Kunst nach 1945"
+  sammlung_fokus2: "internationale Kunst des 20. Jahrhunderts"
+  dauerausstellung_villa_marckhoff: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/018
+ENTITÄT: eisenbahnmuseum
+BEZEICHNUNG: Eisenbahnmuseum Bochum
+ORTSTEIL_BEZUG: Dahlhausen
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  standort_vorher: "ehemaliges Eisenbahn-Betriebswerk Bochum-Dahlhausen"
+  anlage_erbaut: "1916-1918"
+  betriebswerk_stilllegung: "1. August 1969"
+  superlativ: "eines der größten Museen seiner Art in Deutschland"
+  fahrzeugsammlung: "über 120 Schienenfahrzeuge von 1853 bis zur Gegenwart"
+  neues_eingangsgebäude: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/019
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: Ruhr-Park
+ORTSTEIL_BEZUG: Harpen
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  eröffnung: "November 1964"
+  historische_bedeutung: "zweites Einkaufszentrum auf der grünen Wiese in Bundesrepublik"
+  vorgänger: "Main-Taunus-Zentrum in Sulzbach"
+  gegenwärtige_fläche: "ca. 126.000 m²"
+  größenklasse: "größtes Einkaufszentrum in Deutschland"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/020
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Präsident
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  förderung_start: 1844
+  historische_bedeutung: "erste Tiefbauzeche des westfälischen Teils des Ruhrgebietes"
+  mergeldecke_durchbohrung: true
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/021
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Hannover
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  schließung: 1973
+  beschreibung: "letzte Bochumer Zeche"
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/022
+ENTITÄT: industrie_unternehmen
+BEZEICHNUNG: Bochumer Verein
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1842
+  gründer: "Jacob Mayer"
+  gründungs_standort: "Essener Chaussee"
+  umfirmierung: 1854
+  neuer_name: "Bochumer Verein für Bergbau und Gussstahlafabrikation"
+  finanzielle_beteiligung: "Kölner Kaufleute"
+  technischer_direktor: "Louis Baare"
+  bedeutung: "einer der führenden Unternehmen des Ruhrgebietes"
+  produkt_bekannt: "Glocken aus Gussstahl"
+  industriegeschichte: "Ende 1840er Jahre Stahl in Formen gießen"
+  weltausstellung_1867: "15.000 kg schwere Glocke, größte von vier Glocken"
+  weltausstellung_ort: "Paris"
+  bombenschaden_wwii: "drittgrößter Betrieb der Vereinigten Stahlwerke AG, beschädigt"
+GUELTIG_AB: 1842
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/023
+ENTITÄT: fluss
+BEZEICHNUNG: Ruhr
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_bochum: "südlich, Stadtgrenze"
+  einzugsbereich: "südlich aufgestaut zum Kemnader See"
+  historische_bedeutung: "einer der am stärksten befahrenen Flüsse Europas (bis Mitte 19. Jahrhundert)"
+  hauptnutzung_historisch: "Kohleabfuhr"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 201-bochum/024
+ENTITÄT: stausee
+BEZEICHNUNG: Kemnader See
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Bochumer Südosten, Ruhr aufgestaut"
+  zweck: "Wasserwirtschaft und Naherholung"
+  freizeiteinrichtungen: "Freizeitbad Heveney, StrandDeck Kemnade, Beachvolleyballhalle, Golfplatz, Segelhafen"
+  skaterrundkurs: "12 km"
+  skaterrundkurs_eröffnung: 2014
+  fischbestand: "Aal, Brassen, Karpfen, Rotaugen, Zander"
+  fahrgastschiffe: "MS Kemnade, MS Schwalbe II"
+  freigabe: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 201-bochum/025
+ENTITÄT: wald
+BEZEICHNUNG: Weitmarer Holz
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  lage: "südlich der Stadt Bochum"
+  waldtyp: "Eichen-Buchen-Mischwald"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 201-bochum/026
+ENTITÄT: fußballverein
+BEZEICHNUNG: VfL Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  heimatstadion: "Ruhrstadion"
+  spielweise: "seit 1971 konstant in erster oder zweiter Bundesliga"
+  weitere_sportarten: "Badminton, Basketball, Fechten, Handball, Hockey, Leichtathletik, Schwimmen, Tanzsport, Tennis, Tischtennis, Turnen, Volleyball"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/027
+ENTITÄT: musikorchester
+BEZEICHNUNG: Bochumer Symphoniker
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1919
+  spielstätte: "Anneliese Brost Musikforum Ruhr"
+  spielstätte_eröffnung: "28. Oktober 2016"
+  generalmusikdirektor: "Tung-Chieh Chuang (ab Konzertsaison 2021/22)"
+  qualität: "einer der wichtigsten Konzertklangkörper im Westen Deutschlands"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/028
+ENTITÄT: musikfestival
+BEZEICHNUNG: Bochum Total
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  start: 1986
+  typ: "kostenloses Rockfestival"
+  lage: "Bochumer Innenstadt"
+  besucher_zahl: "900.000"
+  besucherzahl_qualität: "eine der größten Musikveranstaltungen Europas"
+  termin_aktuell: "ab 2015 am zweiten Wochenende im Juli"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 201-bochum/029
+ENTITÄT: ereignis
+BEZEICHNUNG: Novemberpogrome 1938 in Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  datum: "9. November 1938"
+  zerstörung: "Alte Synagoge in Brand gesteckt"
+  folge: "Ausschreitungen gegen Juden, zahlreiche Einrichtungen zerstört"
+  deportationen: "Erstmals Juden in Konzentrationslager verschleppt"
+  person_rettung: "Else Hirsch organisierte zehn Kindertransporte in Niederlande und Großbritannien"
+  gerettete_kinder: "jüdische Kinder und auch Kinder anderer verfolgter Gruppen"
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 201-bochum/030
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Bombardierung Bochums im Zweiten Weltkrieg
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: "Mai 1940 bis März 1945"
+  großangriffe: 12
+  mittelschwere_bombardierungen: "über 135"
+  bombardierungskräfte: "hauptsächlich Royal Air Force"
+  bomben_gesamt: "über 500.000"
+  gebäudeschäden: "über 20 % vollständig zerstört, in Innenstadt über 60 %"
+  tote_zivilbevölkerung: "über 4.000"
+  tote_soldaten: "über 7.000"
+  vermisste_1948: "über 8.000"
+  bombardierungsziel: "Bochumer Verein als drittgrößter Betrieb der Vereinigten Stahlwerke AG"
+  bombenblindgänger_folge: "bis heute werden Fliegerbomben gefunden"
+GUELTIG_AB: 1940
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 201-bochum/031
+ENTITÄT: besetzung_militärisch
+BEZEICHNUNG: Besetzung Bochums durch US-Armee
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  datum: "10. April 1945"
+  besatzer: "US-Armee"
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 201-bochum/032
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Erste Eingemeindungswelle Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  datum: "1. April 1904"
+  gemeinden_eingegliedert: "Grumme, Hamme, Hofstede, Wiemelhausen"
+  folge_einwohnerzahl: "überschritt 100.000, wurde Großstadt"
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/033
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Zweite Eingemeindungswelle Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  datum: "1. April 1926"
+  gemeinden_bochum: "Altenbochum, Bergen, Hordel, Riemke, Weitmar, Teile von Eppendorf, Höntrop, Westenfeld"
+  gemeinden_wattenscheid: "Munscheid, Eppendorf, Günnigfeld, Höntrop, Westfälisch Leithe, Sevinghausen, Westenfeld, kleiner Teil Königssteele"
+  einwohnerzahl_verdopplung: "bis 1926 verdoppelt sich auf 200.000"
+GUELTIG_AB: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/034
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Dritte Eingemeindungswelle Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  datum: "1. August 1929"
+  gemeinden_eingegliedert: "Gerthe, Harpen, Hiltrop, Laer, Langendreer, Linden-Dahlhausen, Querenburg, Stiepel, Werne"
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/035
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Vereinigung Bochum mit Wattenscheid
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  datum: "1. Januar 1975"
+  eingemeindete_stadt: "Wattenscheid"
+  wattenscheid_einwohnerzahl_1974: 81469
+  ergebnis_einwohnerzahl: "417.336 (historischer Höchststand)"
+  ergebnis_ausdehnung: "bis heute gültige Ausdehnung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 201-bochum/036
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Sheffield
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  land: "Vereinigtes Königreich"
+  partnerschaft_start: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/037
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Oviedo
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  land: "Spanien"
+  partnerschaft_start: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/038
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Nordhausen
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  land: "Deutschland"
+  partnerschaft_start: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/039
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Tsukuba
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  land: "Japan"
+  partnerschaft_start: "25. November 2019"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 201-bochum/040
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Xuzhou
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  land: "Volksrepublik China"
+  partnerschaft_typ: "wirtschaftsbezogene Städtepartnerschaft"
+  partnerschaft_start: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 201-bochum/041
+ENTITÄT: patenschaft
+BEZEICHNUNG: Landkreis Neidenburg (ehemals Ostpreußen)
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  region_historisch: "früheres Ostpreußen"
+  organisation: "Kreisgemeinschaft Neidenburg"
+  siedlung_flüchtlinge: "an Neidenburger Straße für 16 Familien"
+  gedenkstein: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 201-bochum/042
+ENTITÄT: patenschaft
+BEZEICHNUNG: Stadt Neidenburg
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  land: "Polen"
+  organisation: "Kreisgemeinschaft Neidenburg kümmert sich um Verbindung alter Bewohner und Nachkommen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 201-bochum/043
+ENTITÄT: flugzeug
+BEZEICHNUNG: Airbus A350-941 Lufthansa Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  registrierung: "D-AIXF"
+  taufname: "Bochum"
+  taufe: "seit Ende 2017"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 201-bochum/044
+ENTITÄT: zug
+BEZEICHNUNG: ICE-Triebzug Bochum
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: "Deutsche Bahn"
+  taufname: "Bochum"
+  betrieb_ab: "seit 2003"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 201-bochum/045
+ENTITÄT: oberbürgermeisterin
+BEZEICHNUNG: Ottilie Scholz
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "2004-2015"
+  partei: "SPD"
+GUELTIG_AB: 2004
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/046
+ENTITÄT: oberbürgermeister
+BEZEICHNUNG: Thomas Eiskirch
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "2015-2025"
+  partei: "SPD"
+GUELTIG_AB: 2015
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/047
+ENTITÄT: oberbürgermeister
+BEZEICHNUNG: Jörg Lukat
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_start: 2025
+  partei: "SPD"
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/048
+ENTITÄT: stadtdirektorin
+BEZEICHNUNG: Eva Maria Hubbert
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  amt_antritt: "1. Oktober 2026"
+  geschlecht: "erste Frau"
+  wahl_form: "einstimmig vom Stadtrat"
+  nebenamt: "Kämmerin"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 201-bochum/049
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Max Greve
+QUELLE: https://de.wikipedia.org/wiki/Bochum | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "1843-1873"
+  rolle: "wesentliche Unterstützung Aufbau Bochums zur Industriestadt"
+  gründung_gasanstalt: 1855
+  gründung_wasserwerk: 1871
+  gründung_handelskammer: 1856
+GUELTIG_AB: 1843
+GUELTIG_BIS: 1873
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9

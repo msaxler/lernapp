@@ -1,0 +1,581 @@
+ENTITÄT: ort
+QUELLE: https://duisburg.de/wirtschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: mittendrin in Europa, mittendrin im Ballungsraum Rhein-Ruhr
+  ist_logistikdrehscheibe: true
+  superlativ: "Europas Stahlherz"
+  verkehrsgeographische_lagegunst: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_wasserstadt: true
+  seen: 20+
+  fluesse: 2
+  radwege_km: 160+
+  hat_binnenhafen: true
+  binnenhafen_superlativ: "größter Binnenhafen der Welt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude_denkmal
+BEZEICHNUNG: Salvatorkirche
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kirche
+  lage: Burgplatz
+  epochenkontext: mittelalterlich
+  beschreibung: Relikte aus Hansezeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Lehmbruck Museum
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlung_schwerpunkt: moderner Skulptur
+  bedeutung_geograph: international bedeutsam
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum Küppersmühle
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schwerpunkt: Contemporary Art
+  kunstniveau: Weltniveau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Radiomuseum
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Bienenmuseum
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: theater_opera
+BEZEICHNUNG: Theater Duisburg
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebote: Oper, Schauspiel, Ballett, Philharmonie
+  kunstniveau: Weltniveau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: philharmonie
+BEZEICHNUNG: Duisburger Philharmoniker
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spielstaette: Mercatorhalle
+  kunstniveau: Weltniveau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: theater
+BEZEICHNUNG: Marientor
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schwerpunkt: Musicals und Shows
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: theater
+BEZEICHNUNG: KOM'MA-Theater
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Kultur hautnah, mutig und authentisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: theater
+BEZEICHNUNG: Säule
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: theater
+BEZEICHNUNG: Steinhof
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: oper
+BEZEICHNUNG: Deutsche Oper am Rhein
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: landschaftspark
+BEZEICHNUNG: Landschaftspark Duisburg-Nord
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  industriekultur: true
+  besonderheiten: Hochöfen zum Erklettern, leuchtende Achterbahn, Speicher, Stararchitektur
+  festivals: ja
+  gefuehrte_touren: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Tiger & Turtle
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: leuchtende Achterbahn
+  ort: Landschaftspark Duisburg-Nord
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Sechs-Seen-Platte
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wassersportarten: Segeln, SUP, Genussradeln
+  naherholung: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Wasserskibahn
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Sportpark
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebote: Klettern, Kajak
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: see
+BEZEICHNUNG: Masurensee
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  freizeitnutzung: Tretboot
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: sportclub
+BEZEICHNUNG: MSV
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fußballclub
+  stadion: vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: casino
+BEZEICHNUNG: Casino Duisburg
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: zoo
+BEZEICHNUNG: Zoo Duisburg
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bewohner_erwaehnt: Koalas
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Kantpark
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruenem_paesen: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Botanischer Garten
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruenem_paesen: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: naherholungsgebiet
+BEZEICHNUNG: Baerler Busch
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: rheinabschnitt
+BEZEICHNUNG: Rheinauen
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erholungsgebiet: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: promenade
+BEZEICHNUNG: Rheinuferpromenade
+ORTSTEIL_BEZUG: Homberg
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: innenstadt_quartier
+BEZEICHNUNG: Innenhafen
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: lebendiges Quartier mit moderner Architektur
+  raedfahrten: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: hafen
+BEZEICHNUNG: Ruhrorter Hafenbecken
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "größter Binnenhafen der Welt"
+  hafen_rundfahrten: ja
+  frachtverkehr: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fernradweg
+BEZEICHNUNG: RuhrtalRadweg
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: fernradweg
+BEZEICHNUNG: RheinRadWeg
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: festival
+BEZEICHNUNG: Traumzeit Festival
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Landschaftspark Duisburg-Nord
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: festival
+BEZEICHNUNG: Platzhirsch Festival
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: festival
+BEZEICHNUNG: Duisburger Akzente
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: festival
+BEZEICHNUNG: RUHR GAMES
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Festivalfieber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: festival
+BEZEICHNUNG: Street Food Festival
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schwerpunkt: internationale Aromen zwischen Hochöfen und Gießhallen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: festival
+BEZEICHNUNG: Sommerkino
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Landschaftspark Duisburg-Nord
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: markt
+BEZEICHNUNG: Bauernmarkt
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schwerpunkt: Frische direkt vom Hof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: markt
+BEZEICHNUNG: Weihnachtsmarkt
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: kirmes
+BEZEICHNUNG: Beecker Kirmes
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELT: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: spezialist
+BEZEICHNUNG: Gerhard Mercator
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontext: Führungen im Mittelalter-Setting
+  beschreibung: historische Persönlichkeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: sage
+BEZEICHNUNG: Hexe Agnes
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontext: Führungen im Mittelalter-Setting
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: museumsschiff
+BEZEICHNUNG: Oscar Huber
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: route
+BEZEICHNUNG: Route Industriekultur
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: service
+BEZEICHNUNG: De-Mail-Dienst
+QUELLE: https://duisburg.de/service/demail | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abschaltung_datum: 2027-01-01
+  de_mail_adresse: info@stadt-duisburg.fp-demail.de
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_BIS: 2026
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Berliner Brücke West
+QUELLE: https://duisburg.de/microsites/pbv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Brücke an BAB 59
+  status: Vorläufige Anordnung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: infrastruktur_projekt
+BEZEICHNUNG: Wasserstoff-Leitung Voerde–Walsum
+QUELLE: https://duisburg.de/microsites/pbv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Thyssengas H2 GmbH
+  status: Neubau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: amt
+BEZEICHNUNG: Akademie für Personalentwicklung
+QUELLE: https://duisburg.de/microsites/karriere_und_ausbildung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Albert-Hahn-Str. 45, 47269 Duisburg
+  aufgabe: Ausbildung und Personalentwicklung
+  oeffnungszeiten_montag_donnerstag: 08:00-16:00
+  oeffnungszeiten_freitag: 08:00-15:00
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: behoerde
+BEZEICHNUNG: Ausländerbehörde Duisburg
+QUELLE: https://duisburg.de/allgemein/fachbereiche/33/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb_schwerpunkt: digital
+  service_center_adresse: Friedrich-Wilhelm-Str. 12-14, 47051 Duisburg
+  aussensstellen: Nord, West, Mitte/Süd
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: jugendamt_dienst
+BEZEICHNUNG: Allgemeiner Sozialer Dienst (ASD)
+QUELLE: https://duisburg.de/vv/produkte/pro_du/dez_ii/51/asd | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgaben: Beratung in Familiensituationen, Unterstützung in Familien- und Jugendgerichtsangelegenheiten, Hilfe zur Erziehung nach SGB VIII
+  organisiert_in: Aussentstellen in Bezirksrathäusern
+  ortsteile_mit_aussenstellen: Rheinhausen, Mitte, Walsum, Meiderich, Homberg, Hamborn, Süd
+  oeffnungszeiten: 08:00-16:00
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Homberg
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ruhrort
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Marxloh
+QUELLE: https://duisburg.de/tourismus/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rheinhausen
+QUELLE: https://duisburg.de/vv/produkte/pro_du/dez_ii/51/asd | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Walsum
+QUELLE: https://duisburg.de/vv/produkte/pro_du/dez_ii/51/asd | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Meiderich
+QUELLE: https://duisburg.de/vv/produkte/pro_du/dez_ii/51/asd | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hamborn
+QUELLE: https://duisburg.de/vv/produkte/pro_du/dez_ii/51/asd | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mitte
+QUELLE: https://duisburg.de/vv/produkte/pro_du/dez_ii/51/asd | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Süd
+QUELLE: https://duisburg.de/vv/produkte/pro_du/dez_ii/51/asd | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

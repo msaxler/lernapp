@@ -1,0 +1,281 @@
+ENTITÄT: ort
+BEZEICHNUNG: Düsseldorf
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_landeshauptstadt: true
+  anzahl_bau_und_bodendenkmäler: 1800
+  anzahl_denkmalbereiche: 10
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: behörde
+BEZEICHNUNG: Institut für Denkmalschutz und Denkmalpflege
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_mitarbeiter: 14
+  zustaendigkeit: zehn Denkmalbereiche und über 1.800 Bau- und Bodendenkmäler
+  rolle: Untere Denkmalbehörde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Eller
+ORTSTEIL_BEZUG: Eller
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: Neorenaissance
+  material_fassade: Backstein (rot)
+  geschossigkeit: 2
+  dacheindeckung: Naturschiefer
+  architekt: Robert Kohlhagen (Kreisbaumeister)
+  funktion_urspruenglich: Verwaltungssitz der selbstständigen Gemeinde Eller
+  zustand: nahezu authentisch erhalten
+  bedeutung: hohe städtebauliche und geschichtliche Bedeutung
+  lage: Gertrudisplatz, südwestliche Langseite
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eller
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_urspruenglich: Landgemeinde
+  status_1896: Bürgermeisterei
+  einwohner_um_1896: 6000
+  genauigkeit: "ca."
+  eingemeindet_jahr: 1909
+  stadtbezirk: 8
+  historische_orientierungsachse: Alt Eller und Ellerkirchstraße (südwest-nordost)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Gertrudiskirche
+ORTSTEIL_BEZUG: Eller
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: Neugotik
+  lage: Gertrudisplatz, südöstliches Kopfende
+  erbaut: zeitgleich mit Rathaus Eller (ca. 1901)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Gertrudisplatz
+ORTSTEIL_BEZUG: Eller
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: einzigartig in Düsseldorf
+  entstehungszeit: Wende 19./20. Jahrhundert
+  funktion: städtebauliche Anlage mit Rathaus, Kirche und Marktplatz
+  schutzstatus: Denkmalbereichssatzung "Zentrum Eller"
+  eigenschaft_schutz: Schutz der gesamten städtebaulichen Anlage, nicht nur einzelner Gebäude
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Kulturbahnhof
+ORTSTEIL_BEZUG: Eller
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1872
+  lage: Vennhauser Allee
+  ursprung: Bahnhof Eller
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Benrath
+ORTSTEIL_BEZUG: Benrath
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_urspruenglich: kurfürstlicher Sommersitz
+  architekturstil: Rokoko (ausgehendes)
+  bauauftrag: 1755
+  auftraggeber: Kurfürst Carl Theodor
+  architekt: Nicolas de Pigage
+  titel_architekt: Erster Architekt und Generaldirektor der Gebäude und Gärten
+  superlativ: eines der in Europa selten gewordenen Gesamtkunstwerke des ausgehenden Rokoko
+  eigenschaft: kulturelles und touristisches Juwel der Stadt Düsseldorf
+GUELTIG_AB: 1755
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Schlosspark Benrath
+ORTSTEIL_BEZUG: Benrath
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur_geschichte: ursprünglich Tiergarten, 1755 umgestaltet
+  gesamt_konzept: Gesamtkunstwerk von Schloss und Park mit Bauwerk, Gartenwerk und Wasserwerk als Einheit
+  gartenteile: Parkwald, Parterregarten, Küchengarten, Englischer Garten, Französischer Garten, Bosquet
+GUELTIG_AB: 1755
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: garten
+BEZEICHNUNG: Parterregarten
+ORTSTEIL_BEZUG: Benrath
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: ältester Gartenteil im Schlosspark Benrath
+  entwerfer: Johannes Lollio (Sadeler), Landesbaumeister
+  bepflanzung_jahr: 1662
+  gartner: Laurents
+  funktion: Lustgarten für das Alte Schloss
+  ursprung_planung: 17. Jahrhundert
+GUELTIG_AB: 1662
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: garten
+BEZEICHNUNG: Küchengarten
+ORTSTEIL_BEZUG: Benrath
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1760
+  genauigkeit: "ca."
+  funktion: Versorgung des Hofstaates bei Aufenthalten
+  bedeutung: herausragende Bedeutung für Gutshof
+  nachnutzung: Erträge für Gutshof in Abwesenheit des Hofstaates
+GUELTIG_AB: 1760
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturereignis
+BEZEICHNUNG: Sturm Ela
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 2014-06-09
+  windgeschwindigkeit: 142.2
+  windgeschwindigkeit_einheit: km/h
+  baumverluste_duesseldorf_gesamt: 30000
+  straßenbaum_verluste: 3000
+  baeume_mit_maßnahmenbedarf: 24000
+  windwurfflaechenwald: 50
+  windwurfflaechenwald_einheit: Hektar
+  schaeden_schlosspark: Schneisen und Lichtungen im Parkwald, Verlust von Einzelbäumen, umgestürzte Trauerweide auf Schlossweiherinsel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Robert Kohlhagen
+QUELLE: https://www.duesseldorf.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kreisbaumeister
+  werk: Entwurf Rathaus Eller
+  zeit_wirken: um 1900
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Carl Theodor
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kurfürst
+  funktion: Auftraggeber Schloss und Park Benrath
+  baujahr_auftrag: 1755
+  perspektive: absolutistische Herrschaft
+  interessenschwerpunkt: Förderung der Landwirtschaft
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Nicolas de Pigage
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erster Architekt und Generaldirektor der Gebäude und Gärten
+  werke: Schloss und Park Benrath
+  leistung: Schöpfung eines Gesamtkunstwerks mit aufeinander abgestimmtem Innenraum und Gartenraum
+  baujahr: 1755
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johannes Lollio (Sadeler)
+QUELLE: https://www.duesseldorf.de/stadtgruen/park/schlosspark-benrath | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Landesbaumeister
+  werke: Parterregarten Benrath, Altes Schloss Benrath
+  aktiv: 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Prof. Otto Hupp
+QUELLE: https://www.duesseldorf.de/rathaus-online/wappenzeichen-fuer-privaten-gebrauch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Heraldiker
+  werk: Neugestaltung Stadtwappen Düsseldorf
+  baujahr_neugestaltung: 1938
+  leistung: Befreiung von später hinzugefügten Elementen, Herstellung der heute gebräuchlichen Form
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wappenzeichen
+BEZEICHNUNG: Wappenzeichen der Stadt Düsseldorf
+QUELLE: https://www.duesseldorf.de/rathaus-online/wappenzeichen-fuer-privaten-gebrauch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  darstellung: Bergischer Löwe (weiß) mit schwarzem Anker auf rot-weißem Hintergrund
+  verfuegbarkeit: kostenlos, genehmigungsfrei, unbeschränktes Reproduktionsrecht
+  zielgruppe: Privatpersonen, Vereine, Firmen
+  nutzungsbeschraenkung: nicht diskriminierend, nicht kriminell, nicht sittenwidrig, nicht jugendgefährdend, nicht geeignet das Ansehen der Stadt zu beeinträchtigen
+  vorbild: Wappenzeichen des Landes Nordrhein-Westfalen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen Düsseldorf
+QUELLE: https://www.duesseldorf.de/rathaus-online/wappenzeichen-fuer-privaten-gebrauch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruenglich: Anker
+  ursprung: Stadterhebung
+  namensherkunft: Anker, Beziehung zur Rheinschifffahrt
+  ab_17_jhd_ende: Bergischer Löwe mit Anker
+  superlativ: Bergischer Löwe ist das Wappentier der bergischen Herzöge
+  ab_18_jhd_mitte: Löwe verdrängt einfaches Wappen endgültig
+  neugestaltung: 1938 durch Prof. Otto Hupp
+  heutige_form: Silberner Schild mit aufgerichtetem, doppelgeschwänztem, blaugekröntem und -bewehrtem roten Löwe der Herzöge von Berg mit gesenktem blauen Anker
+  schutz: Hoheitszeichen, nicht zur missbräuchlichen Verwendung freigegeben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

@@ -1,0 +1,748 @@
+ZIELORT: Bad Breisig (Stadt)
+LAGE: 26 km nordwestlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Bad Breisig
+
+GRUNDDATEN:
+  landkreis: Ahrweiler  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 9661  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 19,93  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 485  [berechnet aus Einwohner und Fläche]
+  kfz: AW (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 70 | 98 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2953536)]
+  naechste_grossstadt: Koblenz, 26 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 91 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Bad Breisig  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 53498  [Wikidata P281]
+  vorwahl: 02633  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33,6 %, SPD 19,1 %, AfD 17,9 %, GRÜNE 10 %, Die Linke 7,1 %; Wahlbeteiligung 80,2 % — GILT FÜR DIE VERBANDSGEMEINDE BAD BREISIG  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Marcel Caspers — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Höhr-Grenzhausen (Stadt)
+  landkreis: Westerwaldkreis  [dewiki Infobox]
+  einwohner: 9354  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 15,88  [Wikidata P2046; Altbestand staedte.json]
+  kfz: WW (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 250 | 256  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2900825)]
+  naechste_grossstadt: Koblenz, 11 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Grenzau  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,9 %, AfD 18,4 %, SPD 17,1 %, GRÜNE 11,1 %, Die Linke 6,8 %, FDP 5,2 %; Wahlbeteiligung 81,3 % — GILT FÜR DIE VERBANDSGEMEINDE HÖHR-GRENZHAUSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Bad Breisig):
+ID: 185-bad-breisig/001
+ENTITÄT: ort
+BEZEICHNUNG: Waldorf
+QUELLE: https://www.bad-breisig.de/gemeinden/waldorf/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung: 850, genauigkeit: "ca."
+  lage: Vinxtbachtal, idyllisch
+  merkmale: alte liebevoll restaurierte Fachwerkhäuser
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/002
+ENTITÄT: auszeichnung
+BEZEICHNUNG: "Unser Dorf soll schöner werden"
+ORTSTEIL_BEZUG: Waldorf
+QUELLE: https://www.bad-breisig.de/gemeinden/waldorf/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausloeber: Landeskommission Rheinland-Pfalz
+  auszeichnung_1994: Goldmedaille
+  auszeichnung_1995: Silbermedaille
+GUELTIG_AB: 1994
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/003
+ENTITÄT: ort
+BEZEICHNUNG: Waldorf
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.bad-breisig.de/gemeinden/waldorf/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestehensjahr: 1350
+  bestehensjubilaeum_feier: 1996
+  bestehensjubilaeum_implikation: Gründung ca. 646
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 185-bad-breisig/004
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Erste urkundliche Erwähnung Waldorfs
+ORTSTEIL_BEZUG: Waldorf
+QUELLE: https://www.bad-breisig.de/gemeinden/waldorf/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1. Juni 960
+  inhalt: Schenkung durch König Sigibert III. an Abtei St. Martin vor Metz
+  erste_kirchenerwaehnung: 960
+GUELTIG_AB: 960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/005
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Tausch Waldorf von St. Martin zu Stavelot
+ORTSTEIL_BEZUG: Waldorf
+QUELLE: https://www.bad-breisig.de/gemeinden/waldorf/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1033
+  beginn_schutzpatronat: Bischof St. Remaklus wird Schutzpatron
+  grund_verwaltung: Wegen weiter Entfernung verwaltet durch Herren der Burg Olbrück
+GUELTIG_AB: 1033
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/006
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Verkauf Waldorf an Benediktinerabtei
+ORTSTEIL_BEZUG: Waldorf
+QUELLE: https://www.bad-breisig.de/gemeinden/waldorf/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1780
+  verkaeuferin: Abtei Stavelot
+  kaeufer: Benediktinerabtei St. Heribert in Köln-Deutz
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/007
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Brände Waldorfs
+ORTSTEIL_BEZUG: Waldorf
+QUELLE: https://www.bad-breisig.de/gemeinden/waldorf/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwaehnt: 16. Jahrhundert, 23. Dezember 1824
+  folge_1824: Aufbau mit neuer Hauptstraße
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Remaklus
+ORTSTEIL_BEZUG: Waldorf
+QUELLE: https://www.bad-breisig.de/verwaltung/oeffentliches-leben/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  patrozinium: Heiliger Remaklus, Gründer von Stablo
+  ursprung: Dem Kloster Stablo entstehung verdankt
+  kirche_zerst_14jh: 14. Jahrhundert Feuer
+  neubau_material: Bruchstein, 16,40m x 12,40m
+  turm: spätgotisch, 6,80m Seitenlänge, unverputzt Bruchsteinmauerwerk
+  turm_neuer_aufsatz: geschiefert mit Helm
+  alte_konsekration: 1743
+  restauration_1854: alte Kirche
+  neubau_architekt: Nebel (Koblenz), Pläne 1869
+  neubau_grundstein: 4. Mai 1874
+  neubau_einweihung: 24. Juni 1875
+  neubau_konsekration: 22. April 1882 durch Bischof Michael Felix Korum
+GUELTIG_AB: 1743
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 185-bad-breisig/009
+ENTITÄT: ort
+BEZEICHNUNG: Bad Breisig
+QUELLE: https://www.bad-breisig.de/gemeinden/bad-breisig/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: keltischen Ursprungs
+  roem_geschichte: Brisiacum, Vinxtbach Grenze zwischen Provinzen Nieder- und Obergermanien
+  besteuerung: Wegzölle durch Essener Äbtissin
+  befestigung_ca: 1280 unter Fürstäbtissin Berta von Arnsberg (1241-1292) mit Graben und Ringmauer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/010
+ENTITÄT: gebiet
+BEZEICHNUNG: Breisiger Ländchen
+QUELLE: https://www.bad-breisig.de/gemeinden/bad-breisig/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umfang: Niederbreisig, Oberbreisig, Gönnersdorf, Niederlützingen, Oberlützingen, Brohl, zur Hälfte Tal-Rheineck
+  zugehoerigkeit_1: Schenkung an Stift Essener Äbtissin Mathilde (971-1011)
+  zugehoerigkeit_ende: 1794 Einmarsch französische Revolutionstruppen
+GUELTIG_AB: 971
+GUELTIG_BIS: 1794
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/011
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Bürgergemeinschaft Breisig-Andernach
+QUELLE: https://www.bad-breisig.de/gemeinden/bad-breisig/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1362
+  zweck: Schutz des Ortes
+  zahlung: jährlich 800 kleine Florenzer Gulden
+GUELTIG_AB: 1362
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/012
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Verleihung Marktrechte Bad Breisig
+QUELLE: https://www.bad-breisig.de/gemeinden/bad-breisig/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1374
+  verleiher: Kaiser Karl IV.
+  bedeutung: wirkliche Rechte, Verleihung an Bedeutung des Ortes gebunden
+GUELTIG_AB: 1374
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/013
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Gründung Verschönerungsverein
+QUELLE: https://www.bad-breisig.de/gemeinden/bad-breisig/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1877
+  ziel: Breisig als Luftkurort herausstellen
+GUELTIG_AB: 1877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/014
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Erbohrung Thermalsprudel
+QUELLE: https://www.bad-breisig.de/gemeinden/bad-breisig/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  folge: Grundstein zu Fremdenverkehrsort und Heilbad
+GUELTIG_AB: 1877
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 185-bad-breisig/015
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Titelverleihung Bad Niederbreisig
+QUELLE: https://www.bad-breisig.de/gemeinden/bad-breisig/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 5. Mai 1958
+  titel: Bad
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/016
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Gründung Gemeinde Bad Breisig
+QUELLE: https://www.bad-breisig.de/gemeinden/bad-breisig/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 8. Juni 1969
+  zusammenschluss: Bad Niederbreisig, Oberbreisig, Rheineck
+  grund: Verwaltungsreform Rheinland-Pfalz
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/017
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Stadtrechtsverleihung Bad Breisig
+QUELLE: https://www.bad-breisig.de/gemeinden/bad-breisig/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 2. Mai 1970
+  erklaerer: Ministerpräsident Helmut Kohl
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/018
+ENTITÄT: staedte_partnerschaft
+BEZEICHNUNG: Parad
+QUELLE: https://www.bad-breisig.de/gemeinden/bad-breisig/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerort_land: Ungarn
+  partnerort_typ: Großgemeinde
+  begruendung: 2. Mai 1995
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/019
+ENTITÄT: ort
+BEZEICHNUNG: Gönnersdorf
+QUELLE: https://www.bad-breisig.de/gemeinden/gonnersdorf/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: landschaftlich reizvolle Wohngemeinde
+  landnutzung: Landwirtschaft noch betrieben
+  infrastruktur: gut ausgebaute Wanderwege
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/020
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Erste Erwähnung Gönnersdorf
+QUELLE: https://www.bad-breisig.de/gemeinden/gonnersdorf/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1147
+  quelle: Bruderschaftsbuch Michaelskapelle Münstermaifeld
+  ortsname_urkunde: Gunteresdorp
+GUELTIG_AB: 1147
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: Frauenbergerhof
+ORTSTEIL_BEZUG: Gönnersdorf
+QUELLE: https://www.bad-breisig.de/gemeinden/gonnersdorf/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Sommersitz der Fürstäbtissin von Essen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 185-bad-breisig/022
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Fusion Brohl-Lützing
+QUELLE: https://www.bad-breisig.de/gemeinden/brohl-lutzing/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1970
+  fusionspartner: Brohl und Niederlützingen
+  grund: Kommunale Gebietsreform Rheinland-Pfalz
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/023
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Erste Erwähnung Brohl
+ORTSTEIL_BEZUG: Brohl
+QUELLE: https://www.bad-breisig.de/gemeinden/brohl-lutzing/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1252
+  kontext: Güter überlassen Templerhof Niederbreisig
+GUELTIG_AB: 1252
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/024
+ENTITÄT: burg
+BEZEICHNUNG: Burg Brohl
+ORTSTEIL_BEZUG: Brohl
+QUELLE: https://www.bad-breisig.de/gemeinden/brohl-lutzing/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Vocoldus de Brule
+  gruendung: 1089
+  adelsgeschlecht: heimisches Rittergeschlecht
+  maennliche_linie_ausgestorben: Anfang 14. Jahrhundert
+  erzbischof_balduin_vergabe: Pfalzgraf Rudolf, Herzog von Bayern
+  lehenstraeger_1353: Pfalzgraf Ruprecht der Ältere
+  lehenstraeger_anfang_15jh: Grafen von Rheineck
+GUELTIG_AB: 1089
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/025
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Trennung Brohl von Breisig
+ORTSTEIL_BEZUG: Brohl
+QUELLE: https://www.bad-breisig.de/gemeinden/brohl-lutzing/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 31. Januar 1746
+  folge: Brohl erhielt eigene Verwaltung
+GUELTIG_AB: 1746
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 185-bad-breisig/026
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien
+QUELLE: https://www.bad-breisig.de/verwaltung/oeffentliches-leben/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  ort_lage: Bad Breisig
+  erbaut: 1717-1725
+  turm: quadratisch mit doppelter Barockhaube, Wahrzeichen
+  portal: barockes Pilasterportal, Jahreszahl 1718
+  erweiterungsbau: 1977
+  stil: einschiffiger fünfachsiger hochaufgeschossener Hallenbau, gotisierende Formen
+  hochaltar: 1. Hälfte 18. Jahrhundert
+  orgel_herkunft: evangelische Kirche Aurich (Ostfriesland)
+  orgel_erwerb: 1959
+  silberkreuz: wertvolles mit Kreuzreliquie aus Donatuskapelle Templerhof
+  votivaltar_romisch: Teil, gefunden am Vinxtbach
+GUELTIG_AB: 1717
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/027
+ENTITÄT: kirche
+BEZEICHNUNG: St. Viktor
+ORTSTEIL_BEZUG: Oberbreisig
+QUELLE: https://www.bad-breisig.de/verwaltung/oeffentliches-leben/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  erste_erwaehnung: 1041
+  erbaut: 1220-1240
+  baustil: Spätphase rheinische Romanik
+  bedeutung: Mittelpunkt des Ortsteils Oberbreisig
+  ausstattung: 17./18. Jahrhundert
+  oelmalerei_15jh: hl. Barbara, Katharina, Dorothea
+  fresken: 14./15. Jahrhundert
+GUELTIG_AB: 1041
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/028
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+QUELLE: https://www.bad-breisig.de/verwaltung/oeffentliches-leben/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Evangelisch
+  grundstein: 2. Juni 1901
+  einweihung: 8. Dezember 1902
+  vorgaenger: Burgkapelle Freiherr von Bethmann-Hollweg, Schloss Rheineck
+  mauerwerk: Ziegel mit heimischem Tuff
+  orgel_original: 1872 erbaut
+  orgel_herkunft: Gemeinde Remagen
+  orgel_erwerb: 1905
+  orgel_restauration: 2001 zum 100-jährigen Jubiläum
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/029
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes der Täufer
+ORTSTEIL_BEZUG: Brohl
+QUELLE: https://www.bad-breisig.de/verwaltung/oeffentliches-leben/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  erbaut: 1887-1891
+  architekt: Pickel aus Düsseldorf
+  eingabe_plaene: 9. Juli 1887
+  einseegnung: 19. März 1890 durch Dechant Remagen
+  konsekration: 1891 durch Bischof Michael Felix Korum
+  baukosten: 110779,94 Mark
+  finanzierung: Spenden meist Baumaterial Lavamaterial Sandstein
+  orgel_neu: 1892
+  bombenangriff: Kirchenfenster WWII beschädigt
+  renovierung_groß: 1979 in 6 Bauabschnitten
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/030
+ENTITÄT: kirche
+BEZEICHNUNG: St. Lambertus
+ORTSTEIL_BEZUG: Niederlützingen
+QUELLE: https://www.bad-breisig.de/verwaltung/oeffentliches-leben/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  kern_erbaut: 1271
+  gotische_gewoelbe: eingebaut
+  schlussstein: Madonna mit Kind thronend
+  paramente: wertvolle Kelche Monstranzen
+  taufstein: alt, neu aufgestellt in Kapelle nach WWII
+  kirchturm_einsturz: nach WWII
+  pfarrpatrone: Sankt Lambert und Sankt Katharina
+GUELTIG_AB: 1271
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/031
+ENTITÄT: kapelle
+BEZEICHNUNG: Lammertaler Kapelle
+ORTSTEIL_BEZUG: Niederlützingen
+QUELLE: https://www.bad-breisig.de/verwaltung/oeffentliches-leben/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_vermutet: bereits 16. Jahrhundert existiert
+  reformation_anlass: Martin Luther 1517
+  uebergang_protestantismus_datum: 1561
+  uebergang_kaplan: Balthasar Stolzenberg 19. Mai 1561
+  unterstuetzung: Herzog von Jülich
+  gegenreformation: 1587 Jüliche Truppen vertreiben protestantische Seelsorger
+  widerstand: Bewohner behielten evangelischen Glauben, heimliche Gottesdienste
+  aktion_erzbischof: Carl Caspar von der Leyen duldete Verhalten nicht
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 185-bad-breisig/032
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephanus
+ORTSTEIL_BEZUG: Oberlützingen
+QUELLE: https://www.bad-breisig.de/verwaltung/oeffentliches-leben/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  kanzel: steinern spätgotisch
+  taufstein: basalten
+  hochaltar: Holz Anfang 18. Jahrhundert
+  hauptfigur: Himmelskönigin barocke Nische
+  seitenfigur: heilige Veronika
+  chor_figuren: Sankt Katharina Sankt Stephanus auf Konsolen
+  stephanus_figur: um 1460, um 1600 um 40cm verlängert
+  massengrab_fund: Schädel mit Verletzungen viereckige Löcher Streitäxte
+  massengrab_deutung: vermutlich gewaltsam Getötete, möglich Völkerwanderung, genauigkeit: "vermutlich"
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 185-bad-breisig/033
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Zollhaus
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: ca. 1500
+  funktion: Zollstation
+  ursprung: Herrschaft Essener Damenstift
+  hoheitsrecht: Wegezölle
+  gegenstaendliche_staetten: neben Zollstationen Kölner Tor Koblenzer Tor
+  baustil: Fachwerkhaus
+  schutzstatus: Denkmalschutz
+  besonderheit: Hochwassermarken schiefe Wände
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/034
+ENTITÄT: objekt_historisch
+BEZEICHNUNG: Zolltisch
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Basalt
+  ursprung: nördlicher Ortseingang Kölner Tor
+  funktion: Zollstelle Wegzoll
+  zollrecht: Landsherrin Äbtissin Essener Stift
+  napoleon_legende: Napoleon soll gesessen und Elzenberger Rotwein getrunken haben, genauigkeit: "soll"
+  pokal: existiert noch heute
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 185-bad-breisig/035
+ENTITÄT: objekt_historisch
+BEZEICHNUNG: Dinget-Säule
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geehrte_person: Johann-Hugo Dinget
+  dinget_titel: churtrierischer Hofkammerrath
+  dinget_geburt: 18. Dezember 1767
+  dinget_tod: 9. Dezember 1827
+  dinget_besitz: Schloss Brohleck
+  dinget_sonstiges: Mitglied Freimaurervereinigung, Versammlungen in Breisig
+  urspruengliche_lage: Brohler Friedhof
+  aktuelle_lage: Schmittgasse
+  bautyp: Sockel und runde Säule
+  inschrift: noch lesbar
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 185-bad-breisig/036
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schultheißenhaus
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Biergasse 28
+  erbaut: 1670
+  erbauer: Schultheißenfamilie Meurers
+  funktion: Amt- und Wohnsitz
+  schmiedeeiserne_ziffern: Fassade dokumentiert
+  meurers_service: 1588-1794 Schultheißendienst, heute Bürgermeister entsprechend
+  wilhelm_meurers_initialen: Fenstergitter
+  museum_nutzung_2015: Heimat- und Museumsverein Bad Breisig e.V., Stadt-/Heimat-Museum Jahre
+GUELTIG_AB: 1670
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 185-bad-breisig/037
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kurpark
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anleger: Generalkonsul Oehme Dänemark
+  pflanzung: Bäume aus aller Herren Länder
+  infotafeln: Herkunft Bäume
+  funktion: Tourist-Information Sitz
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 185-bad-breisig/038
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1873/1874
+  lage: Koblenzer Straße 31
+  funktion_original: Amtsverwaltung
+  architektur: klassizistisch nachempfundene Säule
+  erweiterungsbau: 1905 Büroräume
+  umzug_verwaltung: 1988 Bachstraße
+  umnutzung_museum: 1988 Ehepaar Ringel Puppenmuseum
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/039
+ENTITÄT: gebaeude
+BEZEICHNUNG: Mausoleum
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1911/1912
+  erbauer: Albert Mertés Hutfabrikant Köln
+  anlass: Andenken Tochter Mimi Mertés verstorben
+  lage: alter Friedhof Breisig 1805-1966
+  stil: Jugendstil
+  dach: Schiefer mit Glaskuppel
+  wandverkleidung: Marmor
+  sarkophage: vier Tuffstein
+  bestattete: Mimi Mertés, Albert Mertés, Albert Peter Sohn, Walter Enkel
+  erbauer_tod: 1924 Berlin
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/040
+ENTITÄT: gebaeude
+BEZEICHNUNG: Templerhof
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Koblenzer Straße 45
+  gruender: Mitglieder Templerorden
+  erste_erwaehnung: 1215
+  donatuskapelle_erstellung: 1245 Rheinseite
+  donatuskapelle_inhalt: Kreuzreliquie Templer
+  kreuzreliquie_lage_heute: St. Marien Kirche
+  kreuzreliquie_material: Silber
+GUELTIG_AB: 1215
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/041
+ENTITÄT: attraktion
+BEZEICHNUNG: Märchenwald
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/marchenwald/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  maerchen_anzahl: 13
+  ausstellungsform: fest gebaute Häuser bewegliche sprechende Figuren
+  hauser_gestaltung: kunstvoll bemalt
+  weg: Spaziergang Wald musikalisch untermalt
+  wege_zustand: trotz Hanglage gut begehbar
+  ausblick_hoehe: Rhein Schloss Arenfels Siebengebirge
+  spielplatz: angelegt
+  sitzplaetze: große Terrasse ca. 80 Plätze
+  gastronomie: Bistro-Kiosk-Betrieb
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 185-bad-breisig/042
+ENTITÄT: attraktion
+BEZEICHNUNG: Märchenlehrpfad
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/marchenwald/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zielgruppe: Erwachsene
+  kooperation: Verein Freunde Förderer völkereigenen Weltkulturgutes, Fachliteratur
+  zweck: Denkanstoß tieferer Sinn Märchen verstehen ergründen
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 185-bad-breisig/043
+ENTITÄT: museum
+BEZEICHNUNG: Puppenmuseum
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/puppenmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ehemaliges Rathaus Koblenzer Straße 31 Kurpark
+  eroeffnung: 1988
+  sammlung: Puppen Spielzeuge ausgehendes 19. Jahrhundert
+  thema: Alltagsgeschichte
+  ausstellung: liebevoll große Vitrinen
+  umgestaltung: vorsichtiger Um- und Ausbau
+  ausstattung: gemütlich geschmackvoll
+  besichtigung: auf Anfrage zu vereinbaren
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 185-bad-breisig/044
+ENTITÄT: gebaeude
+BEZEICHNUNG: Alte Schule Oberbreisig
+ORTSTEIL_BEZUG: Oberbreisig
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1839
+  ursprung: Knabenschule
+  erweiterung: 1873 Mädchenschule
+  schulnutzung: bis 1973
+GUELTIG_AB: 1839
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/045
+ENTITÄT: kapelle
+BEZEICHNUNG: Borromäuskapelle
+ORTSTEIL_BEZUG: Rheineck
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1718
+  patronat: Heiliger Karl Borromäus
+  gebuetezugehoerigkeit: nördlich Vinxtbach Herrschaft Breisig, südlich Burggrafschaft Rheineck
+  eingang_sued_ausstattung: Lava mit Holztür Jahreszahl Anno 1718
+  innenraum: heilige Barbara
+  barbara_bedeutung: Patronin Eisenerzgruben Basaltbrüche, Bergleute
+GUELTIG_AB: 1718
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 185-bad-breisig/046
+ENTITÄT: burg
+BEZEICHNUNG: Burg Rheineck
+ORTSTEIL_BEZUG: Rheineck
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 11. Jahrhundert
+  erbauer: Pfalzgrafen
+  zerstoerungen_erneuerungen: mehrfach
+  erwerber_1832: Moritz August von Bethmann-Hollweg Professor Bonn, später preußischer Kultusminister
+  wiederaufbau_architekt: Johann Claudius von Lassaux
+  wiederaufbaustil: Form Mittelalter
+  status: Privatbesitz nicht besichtigbar
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 185-bad-breisig/047
+ENTITÄT: archaeologische_staette
+BEZEICHNUNG: Keltische Höhensiedlung "Auf dem Hahn"
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Eisenzeit 6.-2. Jahrhundert v. Chr.
+  befestigung: Ringwallanlage Schutz Verteidigung
+  weitere_siedlung: Reutersley Nähe Burg Rheineck
+GUELTIG_AB: -600
+GUELTIG_BIS: -200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 185-bad-breisig/048
+ENTITÄT: gebaeude
+BEZEICHNUNG: Römer-Thermen
+QUELLE: https://www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger_heilbaeuerhaus: 1936 erbaut Johann Martin Schuh Albert-Mertés-Straße 11
+  geyr_sprudel: 1914 erbohrte warme Quelle Baron Geyr von Schweppenburg
+  thermalhallenbad: 1961 erbaut Willy Schuh
+  erstes_thermal_wellenbad_europa: 1969
+  eroeffnung: Dezember 1991
+  ausstattung: Thermalbad Anwendungsbereich Saunalandschaft Fitnessstudio
+  umgestaltung: 2010 Wellness- Gesundheitsoase
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

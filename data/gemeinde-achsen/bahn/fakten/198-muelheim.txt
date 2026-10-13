@@ -1,0 +1,321 @@
+ID: 198-muelheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Mülheim an der Ruhr
+QUELLE: https://cms.muelheim-ruhr.de/rathaus/karriere/ueber-uns-arbeitgeberin-stadt-muelheim-an-der-ruhr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Fluss (Ruhr), urban im Herzen des Ruhrgebiets
+  charakterisierung: lebendig, modern, voller Möglichkeiten
+  groesste_arbeitgeber: ja
+  mitarbeitende_stadt: 3300
+  berufe_stadt: 40
+  dezernate: 5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 198-muelheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Mülheim an der Ruhr
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstaedte_anzahl: 6
+  partnerstaedte: Darlington (Nordengland), Tours (Mittelfrankreich), Kouvola (Südfinnland), Oppeln (Polen), Kfar Saba (Israel), Beykoz (Türkei)
+  europapreisträgerstädte_mitglied: ja
+  europapreisträgerstädte_seit: 1993
+  europaschulen_anzahl: 3
+  europaschulen: Gymnasium Heißen, Realschule Broich, Gustav-Heinemann-Schule
+  cousinen_partnerstädte: Ivano-Frankivsk (Ukraine)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 198-muelheim/003
+ENTITÄT: ort
+BEZEICHNUNG: Mülheim an der Ruhr
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/europa-und-internationales | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ukraine_kontakte_anzahl: 3
+  ukraine_kontakte: Charkiw, Ivano-Frankivsk, Chmelnyzkyj
+  delegationsbesuche_charkiw: 2013, 2017
+  erstes_virtuelles_treffen_ivano_frankivsk_datum: Oktober 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/004
+ENTITÄT: ort
+BEZEICHNUNG: Mülheim an der Ruhr
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/europa-und-internationales | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  europatag_feier: ja
+  europatag_feier_seit: 1985
+  europatag_datum: 9. Mai
+  grund_europatag: Erinnerung an Geburtsstunde Europas im Mai 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 198-muelheim/005
+ENTITÄT: institution
+BEZEICHNUNG: Feuerwehr Mülheim an der Ruhr
+ORTSTEIL_BEZUG: stadtübergreifend
+QUELLE: https://cms.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/feuerwehr/geschichte-der-feuerwehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tradition_seit: ca. 170 Jahren
+  erstes_loeschcorps: 1852
+  groesse_loeschcorps_1852: 5 Züge
+  professionalisierung_1856: 36 Mann besoldete Mannschaft
+  neuorganisation: 1906
+  kompanien_1906: 4
+  berufsfeuer_gruendung: 1. April 1924
+  berufsfeuer_initial: 1 Leiter, 17 Feuerwehrleute
+  struktur_heute: Berufsfeuerwehr und Freiwillige Feuerwehr
+GUELTIG_AB: 1852
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 198-muelheim/006
+ENTITÄT: institution
+BEZEICHNUNG: Freiwillige Feuerwehr Mülheim an der Ruhr
+ORTSTEIL_BEZUG: Broich, Heißen
+QUELLE: https://cms.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/feuerwehr/geschichte-der-feuerwehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neuggruendung: 2001
+  loeschzuege: Broich, Heißen
+  frueheren_loeschzuege: Saarn, Eppinghofen, Broich, Speldorf, Styrum, Dümpten, Heißen (1879-1898)
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/007
+ENTITÄT: institution
+BEZEICHNUNG: Feuer- und Rettungswache 2
+ORTSTEIL_BEZUG: Heißen
+QUELLE: https://cms.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/feuerwehr/geschichte-der-feuerwehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 2005
+  standort: Heißen
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/008
+ENTITÄT: institution
+BEZEICHNUNG: Hauptfeuer- und Rettungswache 1
+QUELLE: https://cms.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/feuerwehr/geschichte-der-feuerwehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 2010
+  standort: Duisburger Straße
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/009
+ENTITÄT: institution
+BEZEICHNUNG: Rettungswache 3
+ORTSTEIL_BEZUG: Styrum
+QUELLE: https://cms.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/feuerwehr/geschichte-der-feuerwehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 2024
+  standort: Styrum
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/010
+ENTITÄT: institution
+BEZEICHNUNG: Rettungsdienstschule
+QUELLE: https://cms.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/feuerwehr/geschichte-der-feuerwehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 2022
+  standort: Parkstadt
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/011
+ENTITÄT: institution
+BEZEICHNUNG: Jugendfeuerwehr Heißen
+ORTSTEIL_BEZUG: Heißen
+QUELLE: https://cms.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/feuerwehr/geschichte-der-feuerwehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 2007
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/012
+ENTITÄT: institution
+BEZEICHNUNG: Jugendfeuerwehr Broich
+ORTSTEIL_BEZUG: Broich
+QUELLE: https://cms.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/feuerwehr/geschichte-der-feuerwehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 2013
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Hauptfriedhof Mülheim an der Ruhr
+QUELLE: https://cms.muelheim-ruhr.de/hauptfriedhof-erhaelt-zwei-neue-eichen-fuer-die-historische-allee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Zeppelinstraße
+  merkmal: historische Eichenallee
+  baumart_allee: Säuleneiche (Quercus robur 'Fastigiata')
+  allee_eigenschaften_baum: robust, widerstandsfähig gegen Wind, hohe Toleranz gegen Trockenheit
+  allee_pflege_frequenz: jährlich fachgerecht zurückgeschnitten
+  sichtachse: ja, besonderes Highlight
+  biologische_vielfalt: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/014
+ENTITÄT: baum
+BEZEICHNUNG: Eichenallee Hauptfriedhof
+ORTSTEIL_BEZUG: Hauptfriedhof
+QUELLE: https://cms.muelheim-ruhr.de/hauptfriedhof-erhaelt-zwei-neue-eichen-fuer-die-historische-allee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Säuleneiche
+  botanischer_name: Quercus robur 'Fastigiata'
+  nachbepflanzung_anzahl: 2
+  nachbepflanzung_grund: Ersatz für zwei ältere eingegangene Bäume
+  zweck_nachbepflanzung: langfristige Sicherung des Allee-Charakters
+  pflege: jährlicher fachgerechter Rückschnitt zur Erhaltung der charakteristischen Wuchsform
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/015
+ENTITÄT: person
+BEZEICHNUNG: Martina Schimanski
+QUELLE: https://cms.muelheim-ruhr.de/hauptfriedhof-erhaelt-zwei-neue-eichen-fuer-die-historische-allee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Abteilungsleiterin für die städtischen Friedhöfe in Mülheim an der Ruhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 198-muelheim/016
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Heißen
+ORTSTEIL_BEZUG: Heißen
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  europaschule: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/017
+ENTITÄT: schule
+BEZEICHNUNG: Realschule Broich
+ORTSTEIL_BEZUG: Broich
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  europaschule: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/018
+ENTITÄT: schule
+BEZEICHNUNG: Gustav-Heinemann-Schule
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  europaschule: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/019
+ENTITÄT: stiftung
+BEZEICHNUNG: Somborn-Stiftung
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/stiftungen/somborn-stiftung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: Erhalt des hohen medizinischen Standards der Augenklinik
+  fachgebiet: Netzhauterkrankungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/020
+ENTITÄT: stiftung
+BEZEICHNUNG: Heinrich-Thöne-Stiftung
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/stiftungen/heinrich-thoene-stiftung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: zusätzliche Hilfen für bedürftige alte Personen in Mülheim an der Ruhr
+  partner: Verbände der freien Wohlfahrtspflege und entsprechende Organisationen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/021
+ENTITÄT: stiftung
+BEZEICHNUNG: Leonhard-Stinnes-Stiftung
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/stiftungen/leonhard-stinnes-stiftung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: wohltätig und gemeinnützig
+  begueunstigung: Einwohner der Stadt Mülheim an der Ruhr
+  fachbereiche: Sozial-, Sport-, Bildungs- und Kulturbereich
+  förderschwerpunkte: Ausbau und Betrieb der Augenklinik, Spiel- und Sportplätze, öffentliche Büchereien, Ausbildungsförderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 198-muelheim/022
+ENTITÄT: person
+BEZEICHNUNG: Linde Somborn
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/stiftungen/die-stifter/linde-somborn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  biografie: erfolgreich an Augenleiden operiert in jungen Jahren
+  stiftungsgruendung_grund: Dankbarkeit für erfolgreiche Augenoperation
+  stiftungszweck: Nachlass für Augenklinik
+  todestag: August 1981
+GUELTIG_BIS: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 198-muelheim/023
+ENTITÄT: stiftung
+BEZEICHNUNG: Sparkassenstiftung Mülheim an der Ruhr
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/stiftungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: selbstständige Stiftung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 198-muelheim/024
+ENTITÄT: stiftung
+BEZEICHNUNG: Bürgerstiftung Mülheim an der Ruhr
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/stiftungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: selbstständige Stiftung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 198-muelheim/025
+ENTITÄT: stiftung
+BEZEICHNUNG: Stiftung Kloster Saarn
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/stiftungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: selbstständige Stiftung
+  ortsteil_bezug: Saarn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 198-muelheim/026
+ENTITÄT: stiftung
+BEZEICHNUNG: Theodor Wüllenkemper und Inge Bachmann Stiftung
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/stiftungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: selbstständige Stiftung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 198-muelheim/027
+ENTITÄT: stiftung
+BEZEICHNUNG: Stiftung Jugend mit Zukunft
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/stiftungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: selbstständige Stiftung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 198-muelheim/028
+ENTITÄT: ort
+BEZEICHNUNG: Mülheim an der Ruhr
+QUELLE: https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/stiftungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stiftungen_verwaltet_anzahl: 10
+  stiftungen_typ: unselbstständige und selbstständige Stiftungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

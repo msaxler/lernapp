@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "189-bornheim",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 8969,
+ "token_ein": 258536,
+ "token_aus": 6121,
+ "usage": {
+  "input_tokens": 18,
+  "cache_creation_input_tokens": 26945,
+  "cache_read_input_tokens": 231573,
+  "output_tokens": 6121,
+  "output_tokens_details": {
+   "thinking_tokens": 2766
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 26945,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3433,
+    "cache_read_input_tokens": 32172,
+    "cache_creation_input_tokens": 1675,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1675
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.6211166,
+ "sekunden": 120,
+ "fehler": false,
+ "zeit": "2026-10-13T03:08:07"
+}

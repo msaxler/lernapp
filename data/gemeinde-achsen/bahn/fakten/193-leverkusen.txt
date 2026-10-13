@@ -1,0 +1,2301 @@
+ID: 193-leverkusen/001
+ENTITÄT: ort
+BEZEICHNUNG: Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  ist_kreisfreie_stadt: true
+  is_mittelzentrum: true
+  bundesland: Nordrhein-Westfalen
+  region: südliches Nordrhein-Westfalen
+  regierungsbezirk: Köln
+  landschaftsgebiet: Bergisches Land
+  großregion: Rheinland
+  einwohner_31_dezember_2025: 168299
+  einwohner_31_dezember_2024: 170329
+  rang_groesste_staedte_deutschland: 49
+  gruendung: 1930
+  gueltig_ab: 1930
+  gueltig_bis: 1974
+  ist_vermutlich_aktuell: false
+  plaetze_fuer_stadtrat: 72
+  namensherkunft: benannt nach Carl Leverkus, Apotheker und Chemieunternehmer, der 1861 eine Ultramarinfabrik an den Rhein verlegte
+  GUELTIG_AB: 1862
+  GUELTIG_BIS: 1930
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 193-leverkusen/002
+ENTITÄT: ort_neugegliedert
+BEZEICHNUNG: Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gegründet_durch_zusammenschluss: Leverkusen, Opladen, Bergisch Neukirchen
+  eingliederung_stadtteil: Hitdorf (von Stadt Monheim am Rhein)
+  eingemeindete_gebiete_1975: Opladen (45604 Einwohner 1974), Bergisch Neukirchen, Hitdorf
+  einwohner_1975: 167671
+  stadtbezirke: 3
+  stadtteile: 13
+  statistische_bezirke: 16
+  quartiere_seit_2003: 77
+  GUELTIG_AB: 1975
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 193-leverkusen/003
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wiesdorf
+ORTSTEIL_BEZUG: Stadtbezirk I
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1890: 2512
+  einwohner_1905: 10000
+  einwohner_1914: 20000
+  einwohner_1921: 22231
+  einwohner_zur_stadtgruendung_1930: 40000
+  stadtzentrum_mit_fussgaengerzone: true
+  GUELTIG_AB: 1890
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 193-leverkusen/004
+ENTITÄT: stadtteil
+BEZEICHNUNG: Schlebusch
+ORTSTEIL_BEZUG: Stadtbezirk III
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  stadtzentrum_mit_fussgaengerzone: true
+  tor_zum_bergischen_land: true
+  liegt_auf_westabhang_bergischen_landes: true
+  GUELTIG_AB: 1235
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 193-leverkusen/005
+ENTITÄT: stadtteil
+BEZEICHNUNG: Opladen
+ORTSTEIL_BEZUG: Stadtbezirk II
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  stadtzentrum_mit_fussgaengerzone: true
+  zur_stadt_erhoben: 1858
+  aufgespaltung_in_zwei_bezirke_1975: true
+  GUELTIG_AB: 1858
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 193-leverkusen/006
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bergisch Neukirchen
+ORTSTEIL_BEZUG: Stadtbezirk II
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  tor_zum_bergischen_land: true
+  liegt_auf_westabhang_bergischen_landes: true
+  protestantisch_seit: 1583
+  GUELTIG_AB: 1583
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 193-leverkusen/007
+ENTITÄT: stadtteil
+BEZEICHNUNG: Steinbüchel
+ORTSTEIL_BEZUG: Stadtbezirk III
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  liegt_auf_westabhang_bergischen_landes: true
+  GUELTIG_AB: 1930
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 193-leverkusen/008
+ENTITÄT: stadtteil
+BEZEICHNUNG: Rheindorf
+ORTSTEIL_BEZUG: Stadtbezirk I
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  um_11_jahrhundert_erwähnt_zusammenhang_kölner_apostelstift: true
+  GUELTIG_AB: 1100
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/009
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hitdorf
+ORTSTEIL_BEZUG: Stadtbezirk I
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 941
+  abtei_st_pantaleon_erwähnt: 1151
+  fronhof: true
+  untervogt_des_grafen_von_berg: wohnte im Fronhof
+  GUELTIG_AB: 941
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/010
+ENTITÄT: stadtteil
+BEZEICHNUNG: Küppersteg
+ORTSTEIL_BEZUG: Stadtbezirk II
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  GUELTIG_AB: 1889
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/011
+ENTITÄT: stadtteil
+BEZEICHNUNG: Quettingen
+ORTSTEIL_BEZUG: Stadtbezirk II
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  liegt_auf_westabhang_bergischen_landes: true
+  GUELTIG_AB: 1857
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/012
+ENTITÄT: stadtteil
+BEZEICHNUNG: Lützenkirchen
+ORTSTEIL_BEZUG: Stadtbezirk III
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  liegt_auf_westabhang_bergischen_landes: true
+  erste_kirche_erwähnt: 1163
+  einwohner_15_jh_schaetzung: 1845
+  GUELTIG_AB: 1163
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/013
+ENTITÄT: stadtteil
+BEZEICHNUNG: Alkenrath
+ORTSTEIL_BEZUG: Stadtbezirk III
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1458
+  GUELTIG_AB: 1458
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/014
+ENTITÄT: stadtteil
+BEZEICHNUNG: Manfort
+ORTSTEIL_BEZUG: Stadtbezirk I
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  dynamitfabrik: existierte
+  GUELTIG_AB: 1873
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/015
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bürrig
+ORTSTEIL_BEZUG: Stadtbezirk II
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  pfarrkirche_erstmals_urkundlich_erwähnt: 1147
+  GUELTIG_AB: 1147
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/016
+ENTITÄT: fluss
+BEZEICHNUNG: Wupper
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  muendet_in: Rhein
+  muendungsort_leverkusen: true
+  lage: Unterlauf in Leverkusen
+  GUELTIG_AB: 941
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 193-leverkusen/017
+ENTITÄT: fluss
+BEZEICHNUNG: Dhünn
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  durchfließt_leverkusen: true
+  GUELTIG_AB: 941
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 193-leverkusen/018
+ENTITÄT: fluss
+BEZEICHNUNG: Rhein
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  natuerliche_stadtgrenze_im_westen: true
+  ufer_leverkusen: rechtes Ufer
+  niederrhein: true
+  GUELTIG_AB: 941
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 193-leverkusen/019
+ENTITÄT: geografisches_merkmal
+BEZEICHNUNG: höchster Punkt Leverkusens
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_meter_ueber_NHN: 198.7
+  location: Stadtgrenze zu Burscheid, Kompostierungsanlage Heiligeneiche
+  GUELTIG_AB: 1976
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/020
+ENTITÄT: geografisches_merkmal
+BEZEICHNUNG: niedrigster Punkt Leverkusens
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_meter_ueber_NHN: 35.1
+  location: Hitdorfer Hafeneinfahrt
+  GUELTIG_AB: 1975
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/021
+ENTITÄT: unternehmung
+BEZEICHNUNG: Bayer AG
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  unternehmenstyp: Chemiekonzern
+  gruendung_werk_leverkusen: 1893
+  vorgaenger: Rheinische Ultramarinfabrik Carl Leverkus
+  hauptarbeitgeber_leverkusen: true
+  beschaeftigte_1900: 1783
+  beschaeftigte_1912: 5872
+  firmensitz_verlegung_nach_leverkusen: 1912
+  GUELTIG_AB: 1893
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 193-leverkusen/022
+ENTITÄT: unternehmung
+BEZEICHNUNG: Bayer 04 Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+  liga: Bundesliga
+  deutscher_meister_spielzeit: 2023/24
+  UEFA_Pokal: 1988
+  DFB_Pokal: 1993
+  DFB_Pokal_finalist: 2001/02
+  Champions_League_finalist: 2001/02
+  benannt_nach_vizekusen: 2001/02
+  stadion: BayArena (vormals Ulrich-Haberland-Stadion)
+  stadion_kapazitaet_original: 22500
+  stadion_kapazitaet_2009: 30210
+  fussballer_teil_von: TSV Bayer 04 Leverkusen (bis 1999)
+  rechtsform_seit_1999: Fußball GmbH Tochtergesellschaft Bayer AG
+  trainer_meisterschaft_2024: Xabi Alonso
+  GUELTIG_AB: 1904
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 193-leverkusen/023
+ENTITÄT: unternehmung
+BEZEICHNUNG: Lanxess AG
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  unternehmenstyp: Chemiekonzern
+  herkunft: Abspaltung von Bayer AG
+  hauptarbeitgeber_leverkusen: true
+  GUELTIG_AB: 2004
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 193-leverkusen/024
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Bürrig
+ORTSTEIL_BEZUG: Bürrig
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1147
+  zerstört_im_kölnischen_krieg: true
+  wiederaufgebaut_nach_krieg: true
+  GUELTIG_AB: 1147
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/025
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Lützenkirchen
+ORTSTEIL_BEZUG: Lützenkirchen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1163
+  GUELTIG_AB: 1163
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/026
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Wiesdorf
+ORTSTEIL_BEZUG: Wiesdorf
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1164
+  GUELTIG_AB: 1164
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/027
+ENTITÄT: kirche
+BEZEICHNUNG: Schlebuschrather Kirche
+ORTSTEIL_BEZUG: Schlebusch
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1235
+  GUELTIG_AB: 1235
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/028
+ENTITÄT: kirche
+BEZEICHNUNG: Abtei St. Pantaleon
+ORTSTEIL_BEZUG: Hitdorf
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  erwähnt: 1151
+  GUELTIG_AB: 1151
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 193-leverkusen/029
+ENTITÄT: kirche
+BEZEICHNUNG: Herz-Jesu-Kirche
+ORTSTEIL_BEZUG: Wiesdorf
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  pfarrer_wilhelm_klinkenberg: half Juden sich zu verstecken
+  pfarrer_predigten_gegen_judendiskriminierung: true
+  GUELTIG_AB: 1900
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/030
+ENTITÄT: kirche
+BEZEICHNUNG: Gezelinkapelle
+ORTSTEIL_BEZUG: Alkenrath
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gewidmet: seligem Gezelinus von Schlebusch
+  quelle_gezelinquelle: heilsame Wirkungen zugesprochen
+  volkstümliche_religiöse_bedeutung: true
+  GUELTIG_AB: 1400
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 193-leverkusen/031
+ENTITÄT: kirche
+BEZEICHNUNG: Opladener Synagoge
+ORTSTEIL_BEZUG: Opladen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  niedergebrannt: Reichspogromnacht November 1938
+  zentrum_jüdischen_gemeindelebens: true
+  gedenktafel_am_standort: true
+  GUELTIG_AB: 1900
+  GUELTIG_BIS: 1938
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/032
+ENTITÄT: kirche
+BEZEICHNUNG: Jüdische Gemeinde Davidstern
+ORTSTEIL_BEZUG: Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 2011
+  neugründung_nach_jahren: 73
+  GUELTIG_AB: 2011
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/033
+ENTITÄT: moschee
+BEZEICHNUNG: Mimar-Sinan-Moschee
+ORTSTEIL_BEZUG: Küppersteg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: türkisch
+  minarett: freistehendes Minarett
+  GUELTIG_AB: 1980
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/034
+ENTITÄT: moschee
+BEZEICHNUNG: Mesxhidi-Aksa-Moschee
+ORTSTEIL_BEZUG: Küppersteg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: albanisch
+  minarett: freistehendes Minarett
+  GUELTIG_AB: 1980
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/035
+ENTITÄT: moschee
+BEZEICHNUNG: Al-Muhsinin-Moschee
+ORTSTEIL_BEZUG: Rheindorf
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: arabisch
+  GUELTIG_AB: 1980
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/036
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bayer-Kreuz
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Großlichtanlage
+  erste_konstruktion_auf_initiative: Carl Duisberg
+  erste_konstruktion_jahr: 1933
+  erste_konstruktion_durchmesser_meter: 72
+  erste_konstruktion_weltrekord: größte freischwebende Leuchtwerbung der Welt
+  erste_konstruktion_schornsteine_hoehe_meter: 126
+  erste_konstruktion_abgeschaltet: 1939
+  erste_konstruktion_demontiert: 1944
+  neue_konstruktion_inbetriebnahme: 1958
+  neue_konstruktion_durchmesser_meter: 51
+  neue_konstruktion_masthoehe_meter: 118
+  neue_konstruktion_masten_anzahl: 2
+  neue_konstruktion_leuchtbuchstaben_groesse_meter: 7
+  neue_konstruktion_glühlampen: ca. 1700
+  glühlampen_ersetzt_durch_leds: 2009
+  demontage_geplant: 2007
+  demontage_nach_protesten_abgelehnt: true
+  GUELTIG_AB: 1933
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 193-leverkusen/037
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schloss Morsbroich
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  namenherkunft: Ritter Moir von dem Broiche (1328 urkundlich erwähnt)
+  erbaut: 1773
+  architekt: Ignaz Felix von Roll zu Bernau
+  vorlage: Schloss Falkenlust in Brühl
+  bewohner_1773_bis_1795: Ignaz Felix von Roll
+  besinitzer_1795_bis_1807: Joachim Murat (Schwager Napoleons, Großherzog von Berg)
+  besinitzer_1807: Jean Antoine Michel Agar (bergischer Finanzminister, später Graf von Morsbroich)
+  besinitzer_1817: Abraham Schaaffhausen (Kölner Bankier und Kommerzienrat)
+  besinitzer_1857: Friedrich Freiherr von Diergardt (Fabrikant)
+  umbau_seitenflügel: 1885-1887
+  umbau_architekt: Hermann Otto Pflaume
+  mietverhaeltnis_stadt: nach Zweitem Weltkrieg
+  verkauf_stadt: 1974
+  museum_seit: 1951
+  museum_bereich: zeitgenössische Kunst
+  park_entstand: 1774
+  park_vorbild: englische Landschaftsgärten
+  park_innenbereich_flaeche_m2: 8000
+  park_außenbereich_flaeche_m2: 25000
+  park_revitalisierung_wettbewerb: 2020
+  park_revitalisierung_arbeiten_beginn: 2024
+  GUELTIG_AB: 1773
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 193-leverkusen/038
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bayer-Konzernzentrale
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  fertiggestellt: 2002
+  architekt: Helmut Jahn
+  vorgaenger: Bayer-Hochhaus
+  GUELTIG_AB: 2002
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/039
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bayer-Hochhaus
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  funktion: ehemals Bayer-Konzernzentrale
+  mediafassade_planung: 2009
+  mediafassade_mit_leds: 2000
+  mediafassade_abgebrochen: 2011
+  abgerissen: 2012-2013
+  GUELTIG_AB: 1965
+  GUELTIG_BIS: 2013
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/040
+ENTITÄT: gebaeude
+BEZEICHNUNG: Wasserturm Leverkusen-Bürrig
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  genutzt_von: Energieversorgung Leverkusen (EVL)
+  nutzung: Aussichtsturm
+  GUELTIG_AB: 1900
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/041
+ENTITÄT: gebaeude
+BEZEICHNUNG: Forum Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Veranstaltungszentrum
+  eroeffnet: 1969
+  grundriss: sechseckig
+  grosse_saele: 2
+  kapazitaet_saal_1: 2000
+  kapazitaet_saal_2: 962
+  kinosaal: vorhanden
+  betreiber_kinosaal: Kommunales Kino
+  programmierung_kinosaal: anspruchsvolles Programm
+  jazztage_spielort: ja
+  GUELTIG_AB: 1969
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 193-leverkusen/042
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bayer-Erholungshaus
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Konzerneigene Spielstätte
+  eigentuemer: Bayer AG
+  eingewoeiht: 1908
+  brand: 1975
+  renovierung_nach_brand: 1975 (2 Jahre)
+  umbau: 1997
+  akustik_verbesserung: ja
+  großer_saal_maximal_sitzplaetze: 800
+  bestuhlung_variabel: true
+  schwerpunkt_musik: Kammermusik
+  schwerpunkt_ausstellungen: Bildende Kunst
+  biergarten_angrenzend: ja
+  uebergabe_geplant: 2024
+  uebergabe_abgelehnt_grund: finanzielle Notlage Stadt
+  spielbetrieb_ende: 2026
+  GUELTIG_AB: 1908
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/043
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Wuppermann
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  nutzung: Bürgerzentrum
+  GUELTIG_AB: 1900
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 193-leverkusen/044
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Römer
+ORTSTEIL_BEZUG: Opladen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  nutzung_nach_krieg: Militärgerichtssitz der Militärregierung
+  nutzung_heute: Haus der Stadtgeschichte
+  ausstellungen: regelmäßig wechselnde Ausstellungen zur Stadt- und Regionalgeschichte
+  ausstellungsorganisation: drei Leverkusener Geschichtsvereine
+  GUELTIG_AB: 1900
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/045
+ENTITÄT: gebaeude
+BEZEICHNUNG: Doktorsburg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  GUELTIG_AB: 1800
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 193-leverkusen/046
+ENTITÄT: gebaeude
+BEZEICHNUNG: Herrenhaus Friedenberger Hof
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 16. Jahrhundert
+  GUELTIG_AB: 1500
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/047
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gut Ophoven
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  nutzung: Umweltbildungszentrum
+  burganlage_reste_aus: 13. Jahrhundert
+  GUELTIG_AB: 1200
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 193-leverkusen/048
+ENTITÄT: gebaeude
+BEZEICHNUNG: Fachwerkhaus Biesenbach
+ORTSTEIL_BEZUG: Lützenkirchen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  aeltestes_fachwerkhaus_leverkusens: true
+  erbaut: 1521
+  GUELTIG_AB: 1521
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/049
+ENTITÄT: park
+BEZEICHNUNG: Carl-Duisberg-Park
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  oeffnung_oeffentlichkeit: seit 1950er Jahren
+  lage: nördlich an ehemalige Hauptzufahrt Bayerwerk anschließend
+  lage_straße: Kaiser-Wilhelm-Allee
+  lage_gebiet: teilweise auf Kölner Stadtgebiet
+  enthaelt_japanischen_garten: true
+  GUELTIG_AB: 1950
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/050
+ENTITÄT: garten
+BEZEICHNUNG: Japanischer Garten
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Carl-Duisberg-Park
+  gestaltung: Bayer AG in Zusammenarbeit mit japanischen Gärtnern
+  superlativ: unter den zehn schönsten Gärten Deutschlands
+  wettbewerb: Deutschlands schönste Parks 2006
+  GUELTIG_AB: 1960
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/051
+ENTITÄT: park
+BEZEICHNUNG: Schlosspark Morsbroich
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  entstand: 1774
+  vorbild: englische Landschaftsgärten
+  innenbereich_flaeche_m2: 8000
+  außenbereich_flaeche_m2: 25000
+  GUELTIG_AB: 1774
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/052
+ENTITÄT: park
+BEZEICHNUNG: Tillmanns-Park
+ORTSTEIL_BEZUG: Bergisch Neukirchen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: ehemaliger Privatgarten Fabrikantenfamilie Tillmanns
+  angelegt: 1910
+  vorbild: englische Landschaftsgärten
+  exotische_baeume: Mammutbaum, Sumpfzypresse, Ginkgo, Amberbaum
+  GUELTIG_AB: 1910
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/053
+ENTITÄT: park
+BEZEICHNUNG: Wildpark Reuschenberg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnet: 1976
+  initiator: Förderkreis
+  flaeche_m2: 34000
+  tierbestand: einheimische Tierarten
+  waldgebiet: groesseres Waldgebiet
+  GUELTIG_AB: 1976
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/054
+ENTITÄT: park
+BEZEICHNUNG: Neuland-Park
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  landesgartenschau: 2005
+  sanierung: auf ehemalige Giftmülldeponie am Rhein
+  sanierungsmethode: spezielle Planen und Abdichtungen
+  GUELTIG_AB: 2005
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/055
+ENTITÄT: gebiet
+BEZEICHNUNG: Bürgerbusch
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Waldgebiet
+  groesse: groß
+  zugehoerigkeit: größtenteils Stadtteil Alkenrath
+  GUELTIG_AB: 1600
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/056
+ENTITÄT: wanderweg
+BEZEICHNUNG: Obstweg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Rundwanderweg
+  gebiet: bergischer Teil Leverkusens
+  laenge_km: 9.5
+  eroeffnet: 2008
+  GUELTIG_AB: 2008
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/057
+ENTITÄT: radweg
+BEZEICHNUNG: Dhünn-Radweg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  angelegt: Anfang 1970er Jahre
+  strecke: zwischen Rheindorf und Alkenrath
+  trasse: autofrei
+  meistgenutzte_radroute: true
+  GUELTIG_AB: 1970
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/058
+ENTITÄT: radweg
+BEZEICHNUNG: Rhein-Radweg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  strecke: zwischen Wiesdorf und Hitdorf
+  trasse: eigene Trasse
+  GUELTIG_AB: 2000
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/059
+ENTITÄT: radweg
+BEZEICHNUNG: Balkantrasse-Radweg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnet: 2012
+  untergrund: stillgelegte Eisenbahnstrecke
+  strecke: zwischen Opladen und Remscheid
+  trasse: eigene Trasse
+  GUELTIG_AB: 2012
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/060
+ENTITÄT: museum
+BEZEICHNUNG: Museum Morsbroich
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  location: Schloss Morsbroich
+  fokus: moderne Kunst
+  eroeffnet: 1951
+  ausstellungen: zeitgenössische Künstler
+  GUELTIG_AB: 1951
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 193-leverkusen/061
+ENTITÄT: museum
+BEZEICHNUNG: Industriemuseum Freudenthaler Sensenhammer
+ORTSTEIL_BEZUG: Schlebusch
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Teile einer Sensenfabrik des 19. Jahrhunderts auf großzügigem Gelände
+  fokus: Arbeits- und Lebenswelt damalige Zeit
+  GUELTIG_AB: 1850
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 193-leverkusen/062
+ENTITÄT: museum
+BEZEICHNUNG: Kolonie-Museum
+ORTSTEIL_BEZUG: Wiesdorf
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  location: Wiesdorf
+  exposition: typische Wohnung Bayer-Kolonie (Werkssiedlung) Stil 1930er Jahre
+  ausstellungen: wechselnde Ausstellungen
+  aktivitaeten: Führungen und Lesungen
+  betreibung: THS (Nachfolgerin BayWoGe)
+  GUELTIG_AB: 1930
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/063
+ENTITÄT: museum
+BEZEICHNUNG: Villa Römer als Haus der Stadtgeschichte
+ORTSTEIL_BEZUG: Opladen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: ehemaliges Unternehmeranwesen
+  nutzung: Ort für wechselnde Ausstellungen zur Stadt- und Regionalgeschichte
+  organisatoren: drei Leverkusener Geschichtsvereine
+  GUELTIG_AB: 1900
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/064
+ENTITÄT: museum
+BEZEICHNUNG: EnergieStadt
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kinder- und Jugendmuseum
+  fokus: Energie
+  zielgruppe: Kinder und Jugendliche
+  inhalte: alternative Energieformen, Umweltschutz
+  location: NaturGut Ophoven
+  GUELTIG_AB: 2000
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 193-leverkusen/065
+ENTITÄT: person
+BEZEICHNUNG: Carl Leverkus
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Apotheker
+  beruf_2: Chemieunternehmer
+  herkunft: Wermelskirchen im Bergischen Land
+  unternehmen: Ultramarinfabrik
+  fabrik_plaetze: Ultramarinfabrik ursprünglich Wermelskirchen, dann 1861 an Rhein in Nähe Wiesdorf
+  fabrik_gruendung: 1861
+  fabrik_initial_mitarbeiter_1862: 78
+  fabrik_soziale_einrichtungen: fortschrittliche soziale Einrichtungen
+  fabrik_grund_verlegung: mangelnde Verkehrsanbindung
+  siedlung_benannt_nach: Familiennamen, Stammsitz in Lennep
+  familiennamen_ursprung: Hofschaft zwischen Lennep und Bergisch Born (heute Remscheid)
+  tod: 1891
+  GUELTIG_AB: 1830
+  GUELTIG_BIS: 1891
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 193-leverkusen/066
+ENTITÄT: person
+BEZEICHNUNG: Carl Duisberg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Chemiker
+  position: damaliger Prokurist Farbenfabriken
+  denkschrift: "Denkschrift über den Ausbau und die Organisation der Farbenfabriken zu Leverkusen"
+  denkschrift_jahr: 1895
+  planung: neue, weiträumig angelegte Chemiefabrik auf angrenzender Gelände
+  bayer_kreuz_initiative: 1933
+  GUELTIG_AB: 1890
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 193-leverkusen/067
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Claes
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  position: Bürgermeister Wiesdorf
+  eingemeindungsvorschlag: 1922
+  buergermeister_amtszeit_1930: 1930-1933
+  partei: Zentrum
+  rücktritt_erzwungen: 11. Mai 1933
+  rücktritt_grund: nationalsozialistischer Druck
+  titel_nach_krieg: "Vater des Zusammenschlusses"
+  zweite_amtszeit_1945: 1945-1946
+  partei_zweite_amtszeit: CDU
+  GUELTIG_AB: 1920
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 193-leverkusen/068
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Tödtmann
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  position: Bürgermeister Leverkusen
+  amtszeit: 1933-1938
+  partei: NSDAP
+  nachfolger_von: Heinrich Claes
+  GUELTIG_AB: 1933
+  GUELTIG_BIS: 1938
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/069
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Simon
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  position: Bürgermeister Leverkusen
+  amtszeit: 1938-1945
+  partei: NSDAP
+  GUELTIG_AB: 1938
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/070
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Klinkenberg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  position: Pfarrer Herz-Jesu-Kirche Wiesdorf
+  aktivitaeten: Predigten gegen Judendiskriminierung, half Juden zu verstecken
+  zeitraum: Drittes Reich
+  GUELTIG_AB: 1935
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/071
+ENTITÄT: person
+BEZEICHNUNG: Konrad Adenauer
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  position: Oberbürgermeister Köln
+  aktivitaeten: unterzeichnete Abkommen für Eingliederung Schlebusch in Köln
+  abkommen_datum: Juni 1929
+  abkommen_ergebnis: später ungültig erklärt
+  GUELTIG_AB: 1929
+  GUELTIG_BIS: 1929
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/072
+ENTITÄT: person
+BEZEICHNUNG: Joachim Murat
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  verhaeltnis_zu_napoleon: Schwager
+  titel: Großherzog von Berg (ernannt von Napoleon)
+  besitz_schloss_morsbroich: 1795-1807
+  GUELTIG_AB: 1795
+  GUELTIG_BIS: 1807
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/073
+ENTITÄT: person
+BEZEICHNUNG: Jean Antoine Michel Agar
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  position: bergischer Finanzminister
+  besitz_schloss_morsbroich: 1807 übereignet
+  titel: Graf von Morsbroich (ernannt von Murat)
+  GUELTIG_AB: 1807
+  GUELTIG_BIS: 1820
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 193-leverkusen/074
+ENTITÄT: person
+BEZEICHNUNG: Abraham Schaaffhausen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  position: Kölner Bankier und Kommerzienrat
+  besitz_schloss_morsbroich: 1817
+  GUELTIG_AB: 1817
+  GUELTIG_BIS: 1857
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 193-leverkusen/075
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Freiherr von Diergardt
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  position: Fabrikant
+  besitz_schloss_morsbroich: ab 1857
+  GUELTIG_AB: 1857
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/076
+ENTITÄT: person
+BEZEICHNUNG: Ignaz Felix von Roll zu Bernau
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  position: Erbauer Schloss Morsbroich
+  jahr_erbauung: 1773
+  bewohner_bis: 1795
+  GUELTIG_AB: 1773
+  GUELTIG_BIS: 1795
+  IST_VERMUTISMUS_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/077
+ENTITÄT: person
+BEZEICHNUNG: Xabi Alonso
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  position: Trainer Bayer 04 Leverkusen
+  meisterschaft_2024: ja
+  deutscher_meister_saison: 2023/24
+  ernennung_ehrenbürger: geplant
+  ernennung_annahme: abgelehnt
+  ernennung_grund: ohne Angabe
+  GUELTIG_AB: 2022
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 193-leverkusen/078
+ENTITÄT: person
+BEZEICHNUNG: Ulrich Haberland
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  position: Werksleiter Bayerwerk nach 1945
+  kontinuitaet_nach_krieg: ja
+  position_prozess_ig_farben: nicht angeklagt
+  leiter_seit: 1943
+  vorstandsvorsitz_1950: Farbenfabriken Bayer AG
+  GUELTIG_AB: 1943
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/079
+ENTITÄT: person
+BEZEICHNUNG: Otl Aicher
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Grafik-Designer
+  entwurf: Leverkusen Stadtlogo
+  logo_beschreibung: grünes auf Spitze stehendes Quadrat mit weißem senkrechtem Balken
+  logo_verwendung: seit 1970er Jahren
+  GUELTIG_AB: 1970
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/080
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Oulu
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  land: Finnland
+  partnerschaft_seit: 1968
+  partnerschaft_erste: ja
+  bereich_initial: Kultur, Jugend, Schule, Sport
+  wirtschaftliche_partnerschaft: Anfang 1990er Jahre
+  vereinbarung_unterzeichnung: 1995
+  gesellschaft: Deutsch-Finnische Gesellschaft Leverkusen (gegründet 1968)
+  GUELTIG_AB: 1968
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/081
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Bracknell Forest
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  land: Großbritannien
+  partnerschaft_seit_opladen: 1973
+  uebernahme_durch_leverkusen: 1975
+  uebernahmegrund: Opladen wird Teil Leverkusens
+  hauptziel: Europäische Einheit stärken
+  aufrechterhaltung: freundschaftliche Kontakte und Opladener Vereine
+  GUELTIG_AB: 1973
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/082
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Ljubljana
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  land: Slowenien
+  partnerschaft_seit: 1979
+  GUELTIG_AB: 1979
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/083
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Nof HaGalil
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  land: Israel
+  partnerschaft_seit: 1980
+  unterstützung: Freundeskreis
+  GUELTIG_AB: 1980
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/084
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Chinandega
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  land: Nicaragua
+  hauptziel: Zusammenarbeit zwischen Entwicklungs- und Industrieländern
+  projekte: Entwicklungs- und Wiederaufbau-Projekte
+  beispiel_projekt: Abwasseranlage (6000 Menschen mit sauberem Trinkwasser versorgt)
+  GUELTIG_AB: 1990
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 193-leverkusen/085
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Schwedt
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  land: Brandenburg (DDR)
+  partnerschaft_typ: deutsch-deutsche Städtepartnerschaft
+  grund: Zusammenhalt trotz zweier deutscher Staaten
+  zeitraum: zu Zeiten der DDR
+  GUELTIG_AB: 1972
+  GUELTIG_BIS: 1990
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/086
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Villeneuve d'Ascq
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  herkunft: Kontakte einzelner Familien vor offizieller Partnerschaft
+  partnerschaft_seit: 2001
+  aktivitaet: Schüleraustausch
+  GUELTIG_AB: 2001
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/087
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Ratibor / Racibórz
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  herkunft: ehemals deutsche Stadt
+  ehrenpatenschaft_seit: 1951
+  partnerschaft_seit: 2002
+  partnerschaft_typ: deutsch-polnische Städtepartnerschaft
+  GUELTIG_AB: 1951
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/088
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Wuxi
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  land: China
+  partnerschaft_seit: 2014
+  wirtschaftspartnerschaft_seit: 2006
+  verein_privatkontakte: ja
+  GUELTIG_AB: 2006
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/089
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Nikopol
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  land: Ukraine
+  partnerschaft_typ: Solidaritätspartnerschaft
+  partnerschaft_seit: 2023
+  beschluss_stadtrat: beider Städte
+  GUELTIG_AB: 2023
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/090
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Ehrenpreis Clever in Sonne und Schatten-Partner
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  vergeber: Stiftung Deutsche Krebshilfe
+  grund: jahrelanges Engagement im Kampf gegen Hautkrebs
+  verleihung_jahr: 2019
+  erste_stadt_deutschlands: ja
+  zeremonie: UV-Schutz-Tag
+  ueberreicher: Gerd Nettekoven (Krebshilfe-Vorstandsvorsitzender)
+  empfaenger: Oberbürgermeister Uwe Richrath
+  GUELTIG_AB: 2019
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/091
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Fähre St. Michael
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Auto- und Personenfähre
+  verbindung: Köln-Langel ↔ Leverkusen-Hitdorf
+  rheinkilometer: 705.3
+  GUELTIG_AB: 1900
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/092
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Wiesdorfer Fähre
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: Wiesdorf ↔ Merkenich über Rhein
+  lange_tradition: ja
+  betriebsende: 1969
+  versinnbildlichung: auf altem Wappen mit goldenen Kahn
+  GUELTIG_AB: 1800
+  GUELTIG_BIS: 1969
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/093
+ENTITÄT: flugplatz
+BEZEICHNUNG: Flugplatz Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  icao_code: EDKL
+  lage: südlicher Stadtrand
+  GUELTIG_AB: 1960
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/094
+ENTITÄT: stadium
+BEZEICHNUNG: BayArena
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  ehemaliger_name: Ulrich-Haberland-Stadion
+  heimstatt: Bayer 04 Leverkusen
+  ursprüngliche_kapazitaet: 22500
+  kapazitaet_2009: 30210
+  grund_ausweiterung: zeitweise kleinses Stadion der Bundesliga
+  ausweiterung_jahr: 2009
+  dach_LED_planung: geplant (nicht verwirklicht)
+  weltmeisterschaft_frauen_2011: Spielstätte
+  weltmeisterschaft_behindertensport_2006: Finale
+  GUELTIG_AB: 1987
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 193-leverkusen/095
+ENTITÄT: musikfestival
+BEZEICHNUNG: Leverkusener Jazztage
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnet: 1980
+  frequenz: jährlich
+  ueberregionale_bedeutung: ja
+  spielorte: Forum, weitere Veranstaltungsorte
+  buhnen: mehrere
+  genre: Jazz, Blues, Weltmusik
+  kuenstler: renommierte internationale Größen
+  format: thematische Konzerte
+  GUELTIG_AB: 1980
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/096
+ENTITÄT: musikfestival
+BEZEICHNUNG: Street-Life-Festival
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: jährlich im Sommer
+  ort: Altstadt Stadtteil Wiesdorf
+  typ: Open-Air-Veranstaltung
+  buhnen: 3
+  kuenstler: regionale und überregionale Jazz-, Blues- und Rockmusiker
+  GUELTIG_AB: 2000
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/097
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Leverkusener Shuttle-Nacht
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  frequenz: einmal im Jahr
+  eroeffnet: 2001
+  organisator: Leverkusener Initiative für Kunst und Kultur (Likk e. V.)
+  konzept: mehrere Kneipen und Clubs verbunden durch Shuttle-Bus
+  GUELTIG_AB: 2001
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/098
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Bierbörse
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  monat: August
+  ort: Schusterinsel Opladen
+  ueberregionale_bekanntheit: ja
+  GUELTIG_AB: 2000
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/099
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Leverkusen on ICE
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  monat: Dezember
+  ort: Schusterinsel Opladen
+  typ: großes Festival
+  ende_veranstaltung: 2016
+  GUELTIG_AB: 2000
+  GUELTIG_BIS: 2016
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/100
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Szene-Open-Mike-Late-Night-Show
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  frequenz: jeden ersten Sonntag im Monat
+  ort: Pentagon
+  organisator: Kulturförderverein Lev Szene-OP e. V.
+  GUELTIG_AB: 2000
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 193-leverkusen/101
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Jüdische Kulturtage im Rheinland
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  regelmäßigkeit: regelmäßig
+  GUELTIG_AB: 2000
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 193-leverkusen/102
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Stadtfest Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 2008 (erstmals)
+  teilnehmer: über 100 Leverkusener Vereine
+  GUELTIG_AB: 2008
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/103
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Leverkusener Kunstnacht
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  frequenz: jährlich im Oktober
+  eroeffnung: 2005
+  partizipanten: Galerien, städtische Museen, Kirchen
+  inhalte: Werke lokaler Künstler
+  verkehrstransport: Pendelbusse mit Unterhaltung durch Schauspieler und Musiker
+  GUELTIG_AB: 2005
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/104
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Leverkusen-Halbmarathon
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  frequenz: jährlich im Juni
+  eroeffnung: 2001
+  GUELTIG_AB: 2001
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/105
+ENTITÄT: preis
+BEZEICHNUNG: Kurt-Lorenz-Preis
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Kurt Lorenz (Maler und bildender Künstler)
+  einziger_kulturpreis: true
+  vergabe_seit: 1989
+  frequenz: unregelmäßig
+  empfaenger_typ: Institutionen oder Personen Leverkusens
+  verleihungsgrund: Impulse für kulturelles Leben Stadt und Umland
+  GUELTIG_AB: 1989
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/106
+ENTITÄT: schultyp
+BEZEICHNUNG: Gymnasien
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 5
+  beispiele: Werner-Heisenberg-Gymnasium (Lützenkirchen), Landrat-Lucas-Gymnasium (Opladen), Marienschule (Opladen), Lise-Meitner-Gymnasium (Wiesdorf), Freiherr-vom-Stein-Gymnasium (Schlebusch)
+  GUELTIG_AB: 1950
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/107
+ENTITÄT: schultyp
+BEZEICHNUNG: Realschulen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 3
+  beispiele: Theodor-Heuss-Realschule (Opladen), Realschule am Stadtpark (Wiesdorf), Montanus-Realschule (Steinbüchel)
+  GUELTIG_AB: 1950
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/108
+ENTITÄT: schultyp
+BEZEICHNUNG: Hauptschulen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 3
+  beispiele: Theodor-Wuppermann-Schule (Manfort), Hauptschule Neukronenberg (Quettingen), Katholische Hauptschule Im Hederichsfeld (Opladen)
+  GUELTIG_AB: 1950
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/109
+ENTITÄT: schultyp
+BEZEICHNUNG: Gesamtschulen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 2
+  beispiele: Käthe-Kollwitz-Schule (Rheindorf), Gesamtschule Schlebusch
+  GUELTIG_AB: 1970
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/110
+ENTITÄT: schultyp
+BEZEICHNUNG: Sekundarschule
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 1
+  GUELTIG_AB: 2010
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/111
+ENTITÄT: schultyp
+BEZEICHNUNG: Gemeinschaftsgrundschulen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 17
+  GUELTIG_AB: 1950
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/112
+ENTITÄT: schultyp
+BEZEICHNUNG: Katholische Grundschulen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 8
+  GUELTIG_AB: 1950
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/113
+ENTITÄT: schultyp
+BEZEICHNUNG: Förderschulen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 3
+  GUELTIG_AB: 1950
+  IST_VERMUTISCH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/114
+ENTITÄT: schule
+BEZEICHNUNG: Werner-Heisenberg-Gymnasium
+ORTSTEIL_BEZUG: Lützenkirchen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: Abspaltung vom Landrat-Lucas-Gymnasium
+  GUELTIG_AB: 1980
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/115
+ENTITÄT: schule
+BEZEICHNUNG: Marienschule
+ORTSTEIL_BEZUG: Opladen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gymnasium
+  traegerschaft: kirchlich (Erzbistum Köln)
+  GUELTIG_AB: 1900
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/116
+ENTITÄT: universität
+BEZEICHNUNG: FOM – Hochschule für Oekonomie und Management
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  studienzentrum: Leverkusen
+  GUELTIG_AB: 2000
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/117
+ENTITÄT: universität
+BEZEICHNUNG: Fachhochschule Köln
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  campus: Leverkusen
+  lage: Neue Bahnstadt Opladen
+  name_alternativ: Cologne University of Applied Sciences
+  GUELTIG_AB: 2000
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/118
+ENTITÄT: universität
+BEZEICHNUNG: Fernuniversität Hagen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  standort_leverkusen: existierte
+  schliessung: 2012
+  GUELTIG_AB: 1980
+  GUELTIG_BIS: 2012
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/119
+ENTITÄT: hospital
+BEZEICHNUNG: Klinikum Leverkusen
+ORTSTEIL_BEZUG: Schlebusch
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  fachabteilungen: 12
+  planbetten: 740
+  notdienstpraxis_umgebung: ja
+  GUELTIG_AB: 1960
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/120
+ENTITÄT: hospital
+BEZEICHNUNG: Alexianer St.-Remigius-Krankenhaus
+ORTSTEIL_BEZUG: Opladen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  eigentuemer_seit_2024: Alexianer GmbH
+  GUELTIG_AB: 1960
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/121
+ENTITÄT: hospital
+BEZEICHNUNG: St.-Josef-Krankenhaus
+ORTSTEIL_BEZUG: Wiesdorf
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  schließung: August 2022
+  GUELTIG_AB: 1960
+  GUELTIG_BIS: 2022
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/122
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gründung Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. April 1930
+  zusammenschluss: Wiesdorf (Stadt) mit Gemeinden Schlebusch, Steinbüchel, Rheindorf
+  grund: wirtschaftliche Gründe, Bevölkerungswachstum, Wohnungsnot
+  GUELTIG_AB: 1930
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 193-leverkusen/123
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gebietsreform Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. Januar 1975
+  zusammenschluss: Leverkusen, Opladen, Bergisch Neukirchen
+  eingliederung: Hitdorf (von Stadt Monheim am Rhein)
+  grund: nordrhein-westfälische Gebietsreform gemäß § 17 Köln-Gesetz
+  auflösung: Rhein-Wupper-Kreis
+  widerstaende: heftige Widerstände von Rat und Bevölkerung
+  GUELTIG_AB: 1975
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 193-leverkusen/124
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Luftkampf über Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 7. November 1939
+  beschreibung: britische und deutsche Flieger Luftkampf
+  GUELTIG_AB: 1939
+  GUELTIG_BIS: 1939
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/125
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Erster Luftangriff Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 5. Juni 1940
+  ziele: Siedlung Niederblecher, danach Farbenfabriken, Küppersteg Bahnanlagen
+  GUELTIG_AB: 1940
+  GUELTIG_BIS: 1940
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/126
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Luftangriff Januar 1943
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  monat: Januar 1943
+  ziel: Manforter Dynamitfabrik
+  GUELTIG_AB: 1943
+  GUELTIG_BIS: 1943
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/127
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Luftangriffe August und November 1943
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  monate: August und November 1943
+  charakteristik: Bombenteppiche
+  GUELTIG_AB: 1943
+  GUELTIG_BIS: 1943
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/128
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Schwerster Luftangriff Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 26. Oktober 1944
+  sprengbomben: 1017
+  brandbomben: ca. 12000
+  todesfaelle: 124
+  sachschaeden: enorm
+  GUELTIG_AB: 1944
+  GUELTIG_BIS: 1944
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/129
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Luftangriff Reichsbahn-Ausbesserungswerk Opladen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 28. Dezember 1944
+  todesfaelle: 234
+  todesfaelle_zwangsarbeiter: 104
+  GUELTIG_AB: 1944
+  GUELTIG_BIS: 1944
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/130
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Rhein-Überquerung US-Truppen Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: Anfang März 1945
+  kanonierte_ziele: Leverkusen, besonders Bayer-Werk
+  GUELTIG_AB: 1945
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/131
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Remagen-Brücke Überquerung
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 7. März 1945
+  bru­cke_zustand: unzerstört
+  einheiten: 97. US-Infanterie-Division
+  marschroute: Bonn, Siegburg, Richtung Norden
+  GUELTIG_AB: 1945
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/132
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Landungsversuch Amerikanischer Truppen Hitdorf
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 6. April 1945
+  abwehr_erfolg: ja
+  deutsche_opfer: hoch
+  zivilisten_opfer: hoch
+  amerikanische_soldaten_opfer: 16
+  GUELTIG_AB: 1945
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/133
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eroberung Schlebusch durch US-Truppen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 14. April 1945
+  einheiten: 97. US-Infanterie-Division
+  herkunft_truppen: Köln-Mülheim
+  GUELTIG_AB: 1945
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/134
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Besetzung Bayer-Werk
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 14. April 1945 (gleicher Tag wie Schlebusch)
+  kriegsschaeden_werksanlagen: geringe Zerstörung, kein Nerobefehl-Abriss
+  GUELTIG_AB: 1945
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/135
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Brückenzerstörungen Leverkusen-Opladen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  akteur: Wehrmacht
+  ziele: mehrere Leverkusener und Opladener Brücken
+  GUELTIG_AB: 1945
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/136
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Verteidigungsversuch Hitlerjugend Küppersteg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 15. April 1945
+  ort: Dhünnbrücke in Küppersteg bei Schule am Neuenhof
+  charakterisierung: sinnlos
+  opfer: ja
+  GUELTIG_AB: 1945
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/137
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Stadtergebung Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 15. April 1945 Mittag
+  uebergeber: Bürgermeister Simon
+  ort: Rathaus Wiesdorf
+  kraft: an amerikanische Truppen
+  GUELTIG_AB: 1945
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/138
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eroberung Opladen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 15. April 1945 Abend
+  GUELTIG_AB: 1945
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/139
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Auskreisung Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. April 1955
+  austritt_aus: Rhein-Wupper-Kreis
+  neue_status: kreisfreie Stadt
+  einwohner_damals: ca. 78000
+  GUELTIG_AB: 1955
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/140
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Großstadtgrenze Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1963
+  erreichte_einwohner: 100000
+  GUELTIG_AB: 1963
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/141
+ENTITÄT: wirtschaftliche_kennzahl
+BEZEICHNUNG: BIP Leverkusen 2021
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  wert_mrd_euro: 8.419
+  platz_deutschland: 52
+  GUELTIG_AB: 2021
+  GUELTIG_BIS: 2021
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/142
+ENTITÄT: wirtschaftliche_kennzahl
+BEZEICHNUNG: BIP pro Kopf Leverkusen 2021
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  wert_euro: 51375
+  vergleich_nrw: 42145
+  vergleich_deutschland: 44909
+  GUELTIG_AB: 2021
+  GUELTIG_BIS: 2021
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/143
+ENTITÄT: wirtschaftliche_kennzahl
+BEZEICHNUNG: Erwerbstätige Leverkusen Juni 2025
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  wert: 66290
+  sozialversicherungspflichtig_beschaeftigt: ja
+  GUELTIG_AB: 2025
+  GUELTIG_BIS: 2025
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/144
+ENTITÄT: wirtschaftliche_kennzahl
+BEZEICHNUNG: Arbeitslosenquote Leverkusen Dezember 2025
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  wert_prozent: 7.5
+  vergleich_nrw: 7.6
+  GUELTIG_AB: 2025
+  GUELTIG_BIS: 2025
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/145
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  verliehen_datum: 19. August 1976
+  verleihende_behoerde: Regierungspräsident in Köln
+  hauptelement: Bergischer Löwe
+  loewe_beschreibung: blau gekrönt, gezungelt, bewehrt, zwiegeschwänzt, rot
+  ueberdeckung: schwarzer Wechselzinnenbalken
+  wechselzinnenbalken_herkunft: Wappen Stadt Opladen 1883
+  wechselzinnenbalken_deutung: Brüder Gerhard und Giso von Opladen (13. Jahrhundert)
+  altes_wappen_verliehen: 1923 (preußisches Staatsministerium Wiesdorf)
+  altes_wappen_element_2: silberne Welle mit goldenem Kahn
+  altes_wappen_element_2_bedeutung: Wiesdorfer Fähre über Rhein nach Merkenich
+  altes_wappen_element_2_betrieb_ende: 1969
+  GUELTIG_AB: 1976
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 193-leverkusen/146
+ENTITÄT: logo
+BEZEICHNUNG: Leverkusen Stadtlogo
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  entworfen_von: Otl Aicher (Grafik-Designer)
+  verwendung_seit: 1970er Jahren
+  beschreibung: grünes auf Spitze stehendes Quadrat mit weißem senkrechtem Balken
+  GUELTIG_AB: 1970
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/147
+ENTITÄT: distrikt_verwaltung
+BEZEICHNUNG: Stadtbezirk I Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  stadtteile: Wiesdorf, Manfort, Rheindorf, Hitdorf
+  bezirksvertretung_mitglieder: 15
+  wahl_amtszeit: 5 Jahre
+  vorsitz_titel: Bezirksbürgermeister (seit 2020)
+  GUELTIG_AB: 1975
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/148
+ENTITÄT: distrikt_verwaltung
+BEZEICHNUNG: Stadtbezirk II Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  stadtteile: Opladen, Küppersteg, Bürrig, Quettingen, Bergisch Neukirchen
+  bezirksvertretung_mitglieder: 15
+  wahl_amtszeit: 5 Jahre
+  vorsitz_titel: Bezirksbürgermeister (seit 2020)
+  GUELTIG_AB: 1975
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/149
+ENTITÄT: distrikt_verwaltung
+BEZEICHNUNG: Stadtbezirk III Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  stadtteile: Schlebusch, Steinbüchel, Lützenkirchen, Alkenrath
+  bezirksvertretung_mitglieder: 15
+  wahl_amtszeit: 5 Jahre
+  vorsitz_titel: Bezirksbürgermeister (seit 2020)
+  GUELTIG_AB: 1975
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/150
+ENTITÄT: sprache
+BEZEICHNUNG: Ripuarischer Dialekt
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gesprochene_region: Leverkusen hauptsächlich
+  alternativname: kölsche Mundart
+  typ: nördlicher mittelfränkischer Dialekt
+  GUELTIG_AB: 1600
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/151
+ENTITÄT: sprache
+BEZEICHNUNG: Bergische Dialekte
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gesprochene_region: östliche Stadtteile Leverkusens
+  GUELTIG_AB: 1600
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/152
+ENTITÄT: industrie
+BEZEICHNUNG: Rheinische Ultramarinfabrik
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruender: Carl Leverkus
+  gruendungsjahr: 1861
+  ort: an Rhein in Nähe Wiesdorf
+  vorgaenger_bayer: ja
+  GUELTIG_AB: 1861
+  GUELTIG_BIS: 1893
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 193-leverkusen/153
+ENTITÄT: industrie
+BEZEICHNUNG: Sensenfabrik H. P. Kuhlmann
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1867
+  ermaechtigter: Uebernahme durch Gruenderekel
+  GUELTIG_AB: 1867
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/154
+ENTITÄT: industrie
+BEZEICHNUNG: Schraubenfabrik J. I. Tillmanns & Söhne
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1858
+  GUELTIG_AB: 1858
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/155
+ENTITÄT: industrie
+BEZEICHNUNG: Türkischrot-Färberei Albert Römer
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1865
+  GUELTIG_AB: 1865
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/156
+ENTITÄT: industrie
+BEZEICHNUNG: Mechanische Weberei Rudolf Schlieper & Rudolf Engländer
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1872
+  GUELTIG_AB: 1872
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/157
+ENTITÄT: industrie
+BEZEICHNUNG: Garnfärberei August & Ferdinand Schoeller
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1873
+  GUELTIG_AB: 1873
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/158
+ENTITÄT: industrie
+BEZEICHNUNG: Stahl- und Walzwerk Theodor Wuppermann
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1878
+  GUELTIG_AB: 1878
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/159
+ENTITÄT: industrie
+BEZEICHNUNG: Rheinische Dynamitfabrik Opladen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1873
+  region: Raum Manfort-Schlebusch-Küppersteg
+  GUELTIG_AB: 1873
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/160
+ENTITÄT: industrie
+BEZEICHNUNG: Dynamitfabrik Alfred Nobel & Co.
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1874
+  region: Raum Manfort-Schlebusch-Küppersteg
+  GUELTIG_AB: 1874
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/161
+ENTITÄT: industrie
+BEZEICHNUNG: Rheinische Sprengkapsel- und Zündhütchenfabrik
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1876
+  region: Raum Manfort-Schlebusch-Küppersteg
+  GUELTIG_AB: 1876
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/162
+ENTITÄT: industrie
+BEZEICHNUNG: Sprengstoff AG Carbonit
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1890
+  region: Raum Manfort-Schlebusch-Küppersteg
+  GUELTIG_AB: 1890
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/163
+ENTITÄT: industrie
+BEZEICHNUNG: Chemische Fabrik Opladen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1873
+  GUELTIG_AB: 1873
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/164
+ENTITÄT: industrie
+BEZEICHNUNG: Chemische Fabrik Griesheim-Elektron
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1886
+  GUELTIG_AB: 1886
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/165
+ENTITÄT: industrie
+BESCHREIBUNG: Dynamitwerk Nobel Schlebusch
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  ort: Manfort
+  maximal_beschaeftigte_wwi: ca. 5000
+  zeitraum: Rüstungskonjunktur Erster Weltkrieg
+  GUELTIG_AB: 1874
+  GUELTIG_BIS: 1918
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 193-leverkusen/166
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahn-Hauptwerkstätte Opladen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1903
+  entwicklung: einer der größten Arbeitgeber im Raum Opladen
+  initiator_ernennung_kreisstadt: Landrat Adolf Lucas (1914)
+  GUELTIG_AB: 1903
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/167
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Siedlung Leverkusen Kolonie I
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1895
+  hauser: 45
+  wohnungen: 170
+  zweck: Unterbringung Fabrikarbeiter
+  GUELTIG_AB: 1895
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/168
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Siedlung Leverkusen Kolonie II
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  baubeginn: 1900
+  fertigstellung: 1916
+  wohnungen: 1250
+  lage: zwischen Wöhlerstraße, Dhünnstraße, Nobelstraße
+  GUELTIG_AB: 1900
+  GUELTIG_BIS: 1916
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/169
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Siedlung Leverkusen Kolonie III
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1913-1925
+  wohneinheiten: 1000
+  GUELTIG_AB: 1913
+  GUELTIG_BIS: 1925
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 193-leverkusen/170
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahnstrecke Köln-Duisburg
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  durchfuehrung: Leverkusen
+  haltepunkt_bahnhof: Leverkusen Mitte
+  s_bahn_haltepunkte: Leverkusen-Rheindorf, Leverkusen-Küppersteg
+  GUELTIG_AB: 1850
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/171
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnstrecke Haan-Gruiten–Köln-Deutz
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  bahnhoefe_leverkusen: Opladen, Leverkusen-Manfort
+  GUELTIG_AB: 1850
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/172
+ENTITÄT: infrastruktur
+BEZEICHNUNG: S-Bahn Linie 6
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  haltepunkte_nord_nach_sued: Leverkusen-Rheindorf, Leverkusen-Küppersteg, Leverkusen Mitte, Leverkusen Chempark
+  GUELTIG_AB: 2000
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 193-leverkusen/173
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahnkreuz Leverkusen
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  autobahnen: A1, A3
+  A1_route: Saarbrücken–Köln–Dortmund–Hamburg–Heiligenhafen
+  A3_route: Passau–Frankfurt–Köln–Oberhausen–Emmerich
+  A1_querung: Rheinbrücke bei Wiesdorf
+  GUELTIG_AB: 1967
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/174
+ENTITÄT: zeitpunkt_entwicklung
+BEZEICHNUNG: Kriegszerstörung Leverkusen Statistik
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  leverkusen_zerstoerte_wohnungen: 10% von 14857
+  opladen_zerstoerte_wohnungen: 20% von 6089
+  grund_hoeherer_schaden_opladen: näher an strategischen Bombenzielen (Eisenbahnanlagen, Ausbesserungswerk)
+  GUELTIG_AB: 1945
+  GUELTIG_BIS: 1945
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/175
+ENTITÄT: zeitpunkt_entwicklung
+BEZEICHNUNG: Bevölkerungsrekord Leverkusen 1975
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 167671
+  historischer_hoechststand_bis_2024: ja
+  GUELTIG_AB: 1975
+  GUELTIG_BIS: 1975
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/176
+ENTITÄT: zeitpunkt_entwicklung
+BESCHREIBUNG: Bevölkerungsrekord Leverkusen 2024
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 168581
+  datum: 31. Dezember 2024
+  neuer_hoechststand: ja
+  GUELTIG_AB: 2024
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 193-leverkusen/177
+ENTITÄT: konfessionsstatistik
+BEZEICHNUNG: Religionszugehörigkeit Leverkusen 2005
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  roem_katholisch_prozent: 40.9
+  evangelisch_prozent: 23.9
+  sonstige_oder_ohne_prozent: 35.3
+  GUELTIG_AB: 2005
+  GUELTIG_BIS: 2005
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 193-leverkusen/178
+ENTITÄT: konfessionsstatistik
+BEZEICHNUNG: Religionszugehörigkeit Leverkusen 2024
+QUELLE: https://de.wikipedia.org/wiki/Leverkusen | Wikipedia
+EIGENSCHAFTEN:
+  roem_katholisch_prozent: 28.5
+  evangelisch_prozent: 14.4
+  sonstige_oder_ohne_prozent: 57.1
+  GUELTIG_AB: 2024
+  GUELTIG_BIS: 2024
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.88

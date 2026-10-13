@@ -1,0 +1,919 @@
+ENTITÄT: ort
+BEZEICHNUNG: Bonn
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  ist_bundesstadt: true
+  ist_kreisfreie_stadt: true
+  einwohner: 323587
+  einwohner_stand: 31. Dezember 2025
+  lage_bundesland: Nordrhein-Westfalen
+  lage_regierungsbezirk: Köln
+  rang_groesste_staedte_deutschland: 20
+  groesste_staedte_nrw: 10
+  flaeche_qkm: 141.1
+  geografischer_mittelpunkt_stadtteil: Gronau
+  hoechste_erlebung: Paffelsberg
+  hoechste_erlebung_hoehe_m: 195.3
+  tiefster_punkt_m: 45.6
+  superlativ: "eine der ältesten Städte Deutschlands"
+  geschichte_erste_erwaehnung_roemer: 96 n. Chr.
+  geschichte_befestigtes_lager: 12 v. Chr.
+  geschichte_erste_staedtische_erwaehnung: 1211
+  funktion_regierungssitz_bundesrepublik_von: 1949
+  funktion_regierungssitz_bundesrepublik_bis: 1999
+  un_stadt_seit: 1951
+  un_organisationen_ansaessig: 20
+  bezeichnung_nachhaltigkeit: "Welthauptstadt für Nachhaltigkeit und Klimaschutz"
+  klima_klassifikation: Cfb (Köppen-Geiger)
+  klima_durchschnittstemperatur_januar: 2.0
+  klima_durchschnittstemperatur_juli: 17.6
+  klima_jaehrliche_durchschnittstemperatur: 10.0
+  klima_frosttage_durchschnitt: 56
+  klima_eistage_durchschnitt: 10
+  klima_jahresniederschlag_mm: 645
+  besonderheit_klima: "Bonner Reizklima" - hohe Luftfeuchtigkeit, viele schwüle Tage
+  kraftfahrzeugkennzeichen: BN
+  einwohnerprognose_2025: ca. 342232
+  einwohnerprognose_2030: 351801
+  metropolregion_zuordnung: Rhein-Ruhr (11.4 Millionen Einwohner)
+  metropolregion_zuordnung_2: Rheinland (8.7 Millionen Einwohner)
+  metropolregion_zuordnung_3: Region Köln/Bonn
+  bruttoinlandsprodukt_2016_mrd_euro: 22.824
+  bruttoinlandsprodukt_rang_deutschland: 12
+  bruttoinlandsprodukt_pro_kopf_euro_2016: 71222
+  kaufkraftindex_2022: 112.7
+  kaufkraft_pro_einwohner_euro_2022: 28549
+  arbeitslosenquote_dezember_2018: 6.1
+  beschaeftigte_2016: ca. 243200
+GUELTIG_AB: 1989
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: universitaet
+BEZEICHNUNG: Rheinische Friedrich-Wilhelms-Universität Bonn
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1818
+  akademie_gruendung: 1777
+  akademie_schliessung: 1798
+  grundung_grund: preußische Neugründung nach Wiener Kongress
+  gruender_koenig: Friedrich Wilhelm III.
+  urspruenglicher_name_zusatz: Rheinische
+  rang_deutschland_nach_student_innen: 13
+  studierende_mai_2019: ca. 38000
+  arbeitgeber_groesse: drittgroesster
+  groessste_arbeitgeber_stadt: Universität Bonn mit Universitätskliniken
+  besonderheit: "Prinzenuniversität" - bevorzugter Studienort hohenzollernscher Prinzen
+GUELTIG_AB: 1818
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ludwig van Beethoven
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  geb_jahr: 1770
+  geb_ort: Bonn
+  beruf: Komponist
+  beroemtheit: unangefochten Bonner Prominentenliste
+  geburtshaus_adresse: Bonngasse
+  taufbecken_lage: Remigiuskirche
+  weltdokumentenerbe: Teil des Autographen der Symphonie Nr. 9
+  autograph_lage: Beethoven-Haus
+GUELTIG_AB: 1770
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Bonner Münster
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_beginn_Jahrhundert: 11
+  funktion: Stiftskirche
+  groesse_vergleich: groesste aller Kirchen der Stadt
+  besonderheit: Kreuzgang vorhanden
+  vierungsturm_hoehe_m: 81.4
+  vierungsturm_rang_hoechste_gebaeude: 7
+GUELTIG_AB: 1100
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: St. Maria und Clemens
+ORTSTEIL_BEZUG: Schwarzrheindorf
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  baustil: romanische Doppelkirche
+  rang_alter: zu den ältesten Kirchenbauten in Bonn gehörig
+  besonderheit: zweigeschossiges Kirchenschiff
+GUELTIG_AB: 1000
+GUELTIG_BIS:
+IST_VERMUTUUM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Stiftskirche
+ORTSTEIL_BEZUG: Bonn-Zentrum
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  vollstaendiger_name: St. Johann Baptist und Petrus
+  bauzeit_von: 1879
+  bauzeit_bis: 1886
+  adresse: Stiftsplatz an der Kölnstraße
+  gemeinde_alter: aelteste Bonner Kirchengemeinde
+GUELTIG_AB: 1879
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Kreuzbergkirche
+ORTSTEIL_BEZUG: Poppelsdorf
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_von: 1627
+  bauzeit_bis: 1628
+  erbauer: Christoph Wamser
+  vorgaenger: vorchristliche Kultstätte
+  erweiterung_jahr: Mitte 18. Jahrhundert
+  erweiterung_architekt: Balthasar Neumann
+  erweiterung_element: Anbau der Heiligen Stiege
+  beauftragte_erweiterung: Erzbischof und Kurfürst Clemens August
+GUELTIG_AB: 1627
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Bonner Synagoge
+ORTSTEIL_BEZUG: Gronau
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_von: 1958
+  bauzeit_bis: 1959
+  adresse: Tempelstraße 2-4
+  lage_detail: Nordrand des Bundesviertels
+  nachbar: südlich des Auswärtigen Amts
+  status: einzige Synagoge der Stadt Bonn
+  denkmalschutz: ja
+  vorgaenger_synagogen: Synagogen in Bonn-Stadt, Beuel, Bad Godesberg, Mehlem und Poppelsdorf (zerstört Novemberpogrom 1938)
+GUELTIG_AB: 1958
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Rheinaue
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  anlassgebung: Bundesgartenschau 1979
+  flaeche_hektar: 160
+  vorgaenger_nutzung: Rheinwiesen und landwirtschaftliche Flächen
+  funktion_heute: Naherholungsgebiet
+  veranstaltungen: Freiluftkonzerte, Feste, Flohmärkte
+GUELTIG_AB: 1979
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Kottenforst
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_qkm: 40
+  naturpark_zuordnung: Naturpark Rheinland
+  lage: westlich und südlich von Bonn
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Düne Tannenbusch
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  alter_jahre: 11000
+  typ: Binnendüne
+  entstehung: Verwehung von Rheinsand durch Winde am Ende der letzten Eiszeit
+  schutzstatus_ab: Ende der 1980er-Jahre
+GUELTIG_AB: -9000
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Zoologisches Forschungsmuseum Alexander Koenig
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  abkuerzung: ZFMK
+  typ: Naturkundemuseum
+  traeger: Stiftung des öffentlichen Rechts des Landes Nordrhein-Westfalen
+  lage: am Rande des Bundesviertels an der Bundesstraße 9
+  denkmalschutz: ja
+  historische_bedeutung: Sitz des Festaktes zum Zusammentritt des Parlamentarischen Rates 1. September 1948
+  geschichtsrundweg: Weg der Demokratie
+GUELTIG_AB: 1948
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Bundeskunsthalle
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  vollname: Kunst- und Ausstellungshalle der Bundesrepublik Deutschland
+  bauzeit_von: 1986
+  bauzeit_bis: 1992
+  architekt: Gustav Peichl
+  architekt_herkunft: Wien
+  rang_besucherzahl_deutschland: in zehn meistbesuchten Museen Deutschlands
+  jaehrliche_besucher: ueber 500000
+  besucher_wechselausstellungen: teilweise deutlich über 500000
+GUELTIG_AB: 1992
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Haus der Geschichte der Bundesrepublik Deutschland
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  entstehung_zeit: Anfang der 1990er-Jahre
+  rang_besucherzahl_deutschland: in zehn meistbesuchten Museen Deutschlands
+  jaehrliche_besucher: ueber 500000
+GUELTIG_AB: 1992
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Frauenmuseum
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1981
+  geschichte_status: weltweit erste Institution gleichen Namens oder vergleichbarer Zielsetzung
+  ausstellungen_count: ueber 400
+GUELTIG_AB: 1981
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_von: 1737
+  baustil: Rokoko
+  lage: Marktplatz
+  funktion: Wahrzeichen der Stadt
+  administrativ_bedeutung: Sitz der jeweiligen Bonner Oberbürgermeister
+GUELTIG_AB: 1737
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kurfürstliches Schloss
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  fruehere_funktion: ehemalige Hauptresidenz der Kölner Kurfürsten
+  funktion_heute: Hauptgebäude der Bonner Universität
+  lage: in direkter Nachbarschaft des Rathauses
+GUELTIG_AB: 1700
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Poppelsdorfer Schloss
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: erste Hälfte des 18. Jahrhunderts
+  originalfunktion: Erholungsort der Kurfürsten
+  verbindung_element: Poppelsdorfer Allee (mit Kastanien bepflanzt)
+  verbindung_zu: Kurfürstliches Schloss
+GUELTIG_AB: 1700
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Hammerschmidt
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_von: 1861
+  bauzeit_bis: 1862
+  baustil: spätklassizistisch
+  besonderheit: großer Landschaftsgarten
+  funktion_1949_1994: erster Amts- und Wohnsitz des Bundespräsidenten
+  funktion_ab_1994: Zweitsitz des Bundespräsidenten
+  bezug_bellevue: nach Schloss Bellevue als Zweitamts- und -wohnsitz
+  dienstsitz_bundespräsident: ja
+GUELTIG_AB: 1862
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bundeskanzleramtsgebäude
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  funktion_von: 1976
+  funktion_bis: 1999
+  ausgangsgebrauch: Sitz des Bundeskanzleramtes der Bundesrepublik Deutschland
+  funktion_seit_2005: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+  adresse: Adenauerallee 139
+  adresse_bundesstrasse: Bundesstraße 9
+  lage: Zentrum des Bundesviertels
+  stadtteil: Gronau
+  zweitsitz: Palais Schaumburg
+  denkmalschutz: ja
+GUELTIG_AB: 1976
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Palais Schaumburg
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  funktion_von: 1949
+  funktion_bis: 1976
+  funktion: erstes Bundeskanzleramt
+  status_heute: Zweitsitz des Bundeskanzleramtes
+  zuordnung: zur Liegenschaft des Bundeskanzleramtsgebäudes gehörig
+  denkmalschutz: ja
+GUELTIG_AB: 1949
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kanzlerbungalow
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  funktion_von: 1964
+  funktion_bis: 1999
+  originalfunktion: Wohn- und Empfangsgebäude des deutschen Bundeskanzlers
+  architektur_entwerfer: Sep Ruf
+  bauzeit: 1964
+  lage_detail: zwischen Villa Hammerschmidt und Palais Schaumburg unweit des Hauses der Geschichte
+  zugang_oeffentlichkeit: seit 2009 nach Renovierung für Führungen
+GUELTIG_AB: 1964
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Post Tower
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_m: 162.5
+  rang_hoechste_gebaeude_stadt: 2
+  funktion: Hauptverwaltung der Deutschen Post
+  besonderheit: hoechstes Bürogebäude in Nordrhein-Westfalen
+  lage_nachbarschaft: direkte Nachbarschaft zum ehemaligen Abgeordnetenhochhaus
+GUELTIG_AB: 1990
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Langer Eugen
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  fruehere_funktion: ehemaliges Abgeordnetenhochhaus und Wahrzeichen der Bundes(haupt)stadt
+  hoehe_m: 114.7
+  rang_hoechste_gebaeude_stadt: 3
+  funktion_seit_2002: Nutzung durch die Vereinten Nationen
+  umdeutung_name: Zentrum UN-Campus Bonn
+GUELTIG_AB: 1970
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Parlamentsgebäude (Bundeshaus)
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  funktion_urspruenglich: pädagogische Akademie
+  funktion_von_1948: vom Parlamentarischen Rat und später von Bundestag und Bundesrat
+  plenarsaal_erneuerung: Ende der 1980er-Jahre
+  plenarsaal_umbau_interimsnutzung_von: 1986
+  plenarsaal_umbau_interimsnutzung_bis: 1992
+  interimsnutzung_gebaeude: historisches Wasserwerk Pumpenhaus
+  funktion_seit_umzug: Konferenzzentrum
+  funktion_name_seit_2007: World Conference Center Bonn (WCCB)
+GUELTIG_AB: 1948
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Hauptbahnhof Bonn
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  empfangsgebaeude_bauzeit_von: 1883
+  empfangsgebaeude_bauzeit_bis: 1884
+  empfangsgebaeude_status: Baudenkmal unter Denkmalschutz
+  funktion: Fernverkehrshalt der Deutschen Bahn
+  bahnlinie: linke Rheinstrecke Köln–Bonn–Koblenz
+GUELTIG_AB: 1884
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Rhein
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  funktion_stadtgeographie: durchtrennt das Stadtgebiet
+  hochwasser_risiko_jahre: Wintermonate und Schneeschmelze
+  hochwasser_gefaehrdete_ortstypen: Mehlem (linksrheinisch) und Beuel (rechtsrheinisch)
+  ueberflutungsgeschichte_1945: Alte Rheinbrücke von Pionieren der Wehrmacht am 8. März 1945 gesprengt
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: bruecke
+BEZEICHNUNG: Südbrücke
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  autobahn_zuordnung: A 562
+  funktionaltername: Konrad Adenauer-Brücke
+  bedeutung: eine der drei Rheinbrücken mit Bedeutung für innerstädtischen Verkehr
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: bruecke
+BEZEICHNUNG: Nordbrücke
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  autobahn_zuordnung: A 565
+  funktionaltername: Friedrich Ebert-Brücke
+  bedeutung: eine der drei Rheinbrücken mit Bedeutung für innerstädtischen Verkehr
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: bruecke
+BEZEICHNUNG: Kennedybrücke
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  bundesstrasse: B 56
+  bedeutung: eine der drei Rheinbrücken mit Bedeutung für innerstädtischen Verkehr
+  sanierung_bis: 2011
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Baumdenkmal für die Deutsche Einheit
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  pflanzung_datum: 30. Oktober 2014
+  anlass: Deutsche Einheit
+  unterstaetzung: Schirmherrschaft und tätiger Mithilfe der Bundeskanzlerin Angela Merkel
+GUELTIG_AB: 2014
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Katja Dörner
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  amt: Oberbürgermeisterin
+  amtsantritt: 27. September 2020
+  partei: Bündnis 90/Die Grünen
+  amtsende: 2025
+GUELTIG_AB: 2020
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Guido Déus
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  amt: Oberbürgermeister
+  partei: CDU
+  wahl_stichwahl: 2025
+  wahlkreis_bundestagswahl_2025: Wahlkreis 29 (Bonn I)
+GUELTIG_AB: 2025
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hendrik Streeck
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bundestagsabgeordneter
+  wahlkreis: Bundestagswahlkreis Bonn (96)
+  direktmandat_wahl: 2025
+  partei: CDU
+  zusatzfunktion: Drogenbeauftragter der Bundesregierung
+GUELTIG_AB: 2025
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Katrin Uhlig
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bundestagsabgeordnete
+  wahlkreis: Bundestagswahlkreis Bonn
+  wahl_jahr: 2021
+  besonderheit: erstmals von den Grünen gewonnen
+  partei: Bündnis 90/Die Grünen
+GUELTIG_AB: 2021
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ulrich Kelber
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  amt_bundestagsabgeordneter_von: 2002
+  amt_bundestagsabgeordneter_bis: 2019
+  direktmandat_dauer: seit 2002
+  direktmandat_aufgabe: 6. Januar 2019
+  gruende_aufgabe: Bundesbeauftragter für den Datenschutz und die Informationsfreiheit
+  partei: SPD
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Konrad Adenauer
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bundestagsabgeordneter
+  wahlkreis: Bonner Direktmandat
+  dauer: 1949 bis 1998
+  partei: CDU
+  direktmandat_gewinn_straehnung: erste der CDU im Bonner Direktmandat
+GUELTIG_AB: 1949
+GUELTIG_BIS: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Joseph Ratzinger (Papst Benedikt XVI.)
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Professor
+  fachgebiet: Fundamentaltheologie
+  universität: Universität Bonn
+  amtszeit_professor_von: 1959
+  amtszeit_professor_bis: 1963
+GUELTIG_AB: 1959
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ludwig van Beethoven
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1770
+  geburtsort: Bonn
+  berufe: Komponist
+  vermoegensstand_prominen: unangefochten führt die Bonner Prominentenliste an
+  geburtshaus: Bonngasse
+  taufbecken: Remigiuskirche
+GUELTIG_AB: 1770
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Deutsche Telekom AG
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  typ: DAX-Unternehmen
+  ansiedlung_bonn: gesetzlich ansässig
+  funktion_ranking: drittgroesster Arbeitgeber der Stadt Bonn
+  privatisierung: Staatsunternehmen
+GUELTIG_AB: 1995
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Deutsche Post AG
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  typ: DAX-Unternehmen
+  ansiedlung_bonn: gesetzlich ansässig
+  funktion_ranking: drittgroesster Arbeitgeber der Stadt Bonn
+  privatisierung: Staatsunternehmen
+GUELTIG_AB: 1995
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Haribo
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1922
+  gruendungsort: Bonn
+  typ: Süßwarenhersteller
+  rang_europa: groesster Süßwarenhersteller Europas
+  standorte: Gründungssitz und Produktionsstandort in Bonn
+  sitz_heute: Grafschaft (Rheinland-Pfalz)
+GUELTIG_AB: 1922
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: flughafen
+BEZEICHNUNG: Flughafen Köln/Bonn
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Konrad Adenauer
+  entfernung_bonn_km: ca. 15
+  richtung_von_bonn: nordöstlich
+  anbindung_autobahn: A 59
+  anbindung_oepnv: Schnellbuslinie
+  anbindung_schiene: rechtsrheinische Bahnstrecke
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: hafen
+BEZEICHNUNG: Hafen Bonn
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  typ: Binnenhafen
+  lage: Ortsteil Graurheindorf
+  fruehere_lage: Alter Zoll (in der Nähe der Kennedybrücke)
+  umsiedlung_jahr: 1920er Jahre
+  umschlag_typ: Container für den Überseetransport
+  jahresumschlagsleistung: ca. 0.5 Millionen Tonnen (alle Güter)
+GUELTIG_AB: 1920
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Telekom Baskets Bonn
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Basketball
+  erfolgs_status: erfolgreich in der Basketball-Bundesliga
+  heimstadion: Telekom Dome
+  stadion_kapazitaet: 6000
+  stadion_lage_stadtteil: Duisdorf
+  heimspiele_seit: 2008
+GUELTIG_AB: 2008
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Bonner SC
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+  bekanntheit: bekanntester Fußballverein Bonns
+  heimstadion: Sportpark Nord
+  bundesliga_teilnahme: nur einmalig in der Saison 1976/77 in der 2. Bundesliga
+  besonderheit: Bonn ist die größte deutsche Stadt ohne Verein in der Fußball-Bundesliga
+  frauenmannschaft_erfolg: deutsche Meisterschaft 1975
+  maennermannschaft_heute: Regionalliga West (viertklassig)
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Bonn Capitals
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Baseball
+  bundesliga_status: Baseball-Bundesligist
+  deutsche_meister_herren_jahre: 2018, 2022, 2024, 2026
+  deutsche_meister_damen_jahre: 2022, 2025
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: festival
+BEZEICHNUNG: Beethovenfest
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: jährlich im Herbst
+  dauer_wochen: fast vier Wochen
+  konzerte_count: ueber 50
+  flaechenausdehnung: Bonn und Umgebung
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Pützchens Markt
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  typ: Jahrmarkt
+  frequenz: jährlich
+  zeitraum: zweites Wochenende im September
+  lage: Beuel-Pützchen auf einer Festwiese im Osten der Stadt
+  urspruenge: Anfänge reichen bis ins Jahr 1367
+  besucherzahl: ca. 1.2 bis 1.4 Millionen
+  rang_rheinland: zu den großen Jahrmärkten im Rheinland gehörig
+  besonderheit: "umsatzstärkster 5-Tage-Markt in Deutschland"
+GUELTIG_AB: 1367
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Friedhof
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  lage: an der Grenze zur Nordstadt
+  rang_deutschland: einer der berühmtesten Friedhöfe in Deutschland
+  besonderheit: zahlreiche Prominentengräber und Grab- und Denkmäler bedeutender Bildhauer
+  bemerkenswerte_graeber: Grab von Beethovens Mutter, Denkmal für Robert und Clara Schumann
+  zusatz_kapelle: Georgskapelle (seit 13. Jahrhundert)
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Siegaue
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  lage: im Norden des rechtsrheinischen Bezirks Beuel
+  natürlichkeit: eine der letzten einigermaßen naturbelassenen Rheinmündungen
+  rechtsschutz: Schutzstatus nach der Fauna-Flora-Habitat-Richtlinie
+  besonderheit: Auenwälder und Altwasser ohne besondere landwirtschaftliche Nutzung mit hohem Artenreichtum
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: rundfunkstation
+BEZEICHNUNG: Deutsche Welle
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  groesste_medienbetrieb: mit Abstand größter Medienbetrieb in Bonn
+  sitz: Schürmann-Bau
+  funktion: Produktion von Hörfunksendungen
+  ausstrahlungsgebiet: ganze Welt
+  sprachen_anzahl: 30 (Stand April 2012)
+  online_angebot: ja
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: rundfunkstation
+BEZEICHNUNG: Phoenix
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  typ: Fernsehsender
+  zentrale: ehemalige Bundesstadt Bonn
+  frueherer_name_sitz: ehemaliges Hauptstadtstudio des Zweiten Deutschen Rundfunks
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: zeitung
+BEZEICHNUNG: General-Anzeiger
+QUELLE: https://de.wikipedia.org/wiki/Bonn | Wikipedia
+EIGENSCHAFTEN:
+  rang_bonn: mit Abstand größte Tageszeitung in Bonn
+  mediengruppe: Rheinische Post Mediengruppe
+  verlag_seit: 1. Juni 2018
+GUELTIG_AB: 2018
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

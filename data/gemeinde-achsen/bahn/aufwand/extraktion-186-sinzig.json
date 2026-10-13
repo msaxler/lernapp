@@ -1,0 +1,50 @@
+{
+ "stufe": "extraktion",
+ "ort": "186-sinzig",
+ "prompt": "prompt-stufe1-v0.6.txt",
+ "modell_wunsch": "haiku",
+ "modelle": [
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 16703,
+ "token_ein": 21671,
+ "token_aus": 17232,
+ "usage": {
+  "input_tokens": 9,
+  "cache_creation_input_tokens": 14534,
+  "cache_read_input_tokens": 7128,
+  "output_tokens": 17232,
+  "output_tokens_details": {
+   "thinking_tokens": 9939
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 14534,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 9,
+    "output_tokens": 17232,
+    "cache_read_input_tokens": 7128,
+    "cache_creation_input_tokens": 14534,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 14534
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.11594979999999999,
+ "sekunden": 121,
+ "fehler": false,
+ "zeit": "2026-10-13T02:47:25"
+}

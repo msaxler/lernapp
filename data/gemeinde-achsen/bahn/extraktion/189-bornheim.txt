@@ -1,0 +1,758 @@
+ENTITÄT: ort
+BEZEICHNUNG: Bornheim
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 50563 [Menschen]
+  einwohner_davon_weiblich: 25569 [Menschen]
+  einwohner_davon_maennlich: 24961 [Menschen]
+  altersdurchschnitt: 45 [Jahre]
+  flaeche: 82.72 [km²]
+  flaechenanteil_landwirtschaft: 46.84 [km²]
+  flaechenanteil_wald_und_gewaesser: 17.49 [km²]
+  flaechenanteil_siedlung_und_verkehr: 15.69 [km²]
+  bewoelkerungsdichte: 610 [Einwohner/km²]
+  anzahl_ortschaften: 14
+  postleitzahl: 53332
+  geografische_breite: 50.767 [Grad]
+  geografische_laenge: 7.0 [Grad]
+  amtliche_gemeindeschluessel: 05382012
+  telefonvorwahlen: 02222, 02227, 02232, 02236
+  straßen_wegenetz: 549.5 [km]
+  ist_kreisstadt: false
+  rang_stadt_rhein_sieg_kreis: "drittgrößte Stadt"
+  ist_stadt_seit: 1981
+  erste_urkundliche_erwaehnung: 945
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bornheim
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 50000 [Menschen]
+  genauigkeit: "ca."
+  lage_bundesland: "Nordrhein-Westfalen"
+  lage_region: "Süden Nordrhein-Westfalens"
+  lage_beschreibung: "mitten im landschaftlich reizvollen Vorgebirge und direkt am Rhein"
+  lage_zwischen: "Köln und Bonn"
+  landschaftlicher_charakter: "landwirtschaftlich geprägt"
+  gewerbegebiete: 6
+  charakterisierung: "ländlicher Charme und hervorragende Infrastruktur"
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hoehenpunkt
+BEZEICHNUNG: Hennesenberg
+ORTSTEIL_BEZUG: Brenig
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 164.8 [m ü. NN]
+  typ: "höchster Punkt der Stadt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: hoehenpunkt
+DESIGNAATION: Rheinflussbett
+ORTSTEIL_BEZUG: Widdig
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 46.6 [m ü. NN]
+  typ: "tiefste Stelle der Stadt"
+  stromkilometer_rhein: 663.5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bornheim
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 8385 [Menschen]
+  rang_nach_groesse: "größter Stadtteil"
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Uedorf
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 896 [Menschen]
+  rang_nach_groesse: "kleinster Ort der Stadt Bornheim"
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Brenig
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2307 [Menschen]
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dersdorf
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1242 [Menschen]
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hemmerich
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1546 [Menschen]
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kardorf
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2145 [Menschen]
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rösberg
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1526 [Menschen]
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Walberberg
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 4643 [Menschen]
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Waldorf
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 3620 [Menschen]
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bornheim
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 945
+  erwaehnung_datum: "2. August 945"
+  erwaehnung_kontext: "Dorf im Bonngau, Grafschaft des Grafen Ehrenfried"
+  namensherkunft: "vermutlich nach einer Person oder Örtlichkeit"
+  status_seit_1981: Stadt
+GUELTIG_AB: 945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: naturregion
+BEZEICHNUNG: Vorgebirge
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Hoehenzug
+  verbreitung: "von Bonn bis etwa Bedburg"
+  laenge: 50 [km]
+  lage_zu_bornheim: "Bornheim liegt im größten Bogen des Vorgebirges"
+  beschreibung: "Höhenzug, dem Eifelbergen weit vorgelagert"
+  lage_hang: "nach Osten geneigt"
+  besonderheit_lössboden: "überaus fruchtbar"
+  landwirtschaftlicher_schwerpunkt: "intensive Gemüse- und Obst-Anbau"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: landwirtschaftliches_produkt
+BEZEICHNUNG: Bornheimer Spargel
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunftsregion: Bornheim
+  schutzstatus: "EU-Register für regionale Spezialitäten"
+  schutzstatus_registrierung_datum: "März 2014"
+  schutzvergleich: "ebenso geschützt wie Parmaschinken oder Champagner"
+  patent: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gründung des ersten reinen Obstguts Deutschlands
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1896
+  gruender: Otto Schmitz-Hübsch
+  ort_bornheim: true
+  grund: "fruchtbarer Lössboden des Vorgebirges"
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Obstblütenlandschaft Botzdorf-Hennesenberg
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 120 [Hektar]
+  status: "Projekt der UN-Dekade Biologische Vielfalt"
+  status_seit: 2015
+  status_monat: Mai
+  charakteristik: "Obstbaum-Landschaft"
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: naturpark
+BEZEICHNUNG: Naturpark Rheinland
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bornheim_liegt_in: true
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Natur- und Kultur-Pfade
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  route_durch: "Bornheim und Naturpark Rheinland"
+  beschreibung: "gut ausgebautes Wegenetz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Panoramaweg
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  route_durch: "Bornheim und Naturpark Rheinland"
+  beschreibung: "gut ausgebautes Wegenetz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Römerkanal-Wanderweg
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  route_durch: "Bornheim und Naturpark Rheinland"
+  beschreibung: "gut ausgebautes Wegenetz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: historisches_bauwerk
+BEZEICHNUNG: Burg Bornheim
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Burg
+  erbauer: "Ritter von Schilling-Bornheim"
+  bauweise: "wassergeschützte Burg"
+  zeitraum: "10.-11. Jahrhundert"
+  erhalten: true
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_bauwerk
+BEZEICHNUNG: Haus Rankenberg
+ORTSTEIL_BEZUG: Brenig
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Burg / Herrenhaus"
+  erbauer: "rheinische Rittergeschlechter"
+  bauweise: "wassergeschützte Burg"
+  zeitraum: "10.-11. Jahrhundert"
+  erhalten: true
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_bauwerk
+BEZEICHNUNG: Haus Wittgenstein
+ORTSTEIL_BEZUG: Roisdorf
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Burg / Herrenhaus"
+  lage: "Metternichsberg"
+  erbauer: "rheinische Rittergeschlechter"
+  bauweise: "wassergeschützte Burg"
+  zeitraum: "10.-11. Jahrhundert"
+  erhalten: true
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_bauwerk
+BEZEICHNUNG: Weiße Burg
+ORTSTEIL_BEZUG: Sechtem
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Burg
+  erbauer: "rheinische Rittergeschlechter"
+  bauweise: "wassergeschützte Burg"
+  zeitraum: "10.-11. Jahrhundert"
+  erhalten: true
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_bauwerk
+BEZEICHNUNG: Graue Burg
+ORTSTEIL_BEZUG: Sechtem
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Burg
+  erbauer: "rheinische Rittergeschlechter"
+  bauweise: "wassergeschützte Burg"
+  zeitraum: "10.-11. Jahrhundert"
+  erhalten: true
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Dominikanerkloster
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueherer_name: "Rheindorfer Burg"
+  typ_urspruenglich: Burg
+  umwandlung_zu_kloster: true
+  zeitraum_burg: "10.-11. Jahrhundert"
+  erhalten: true
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: historisches_bauwerk
+BEZEICHNUNG: Kitzburg
+ORTSTEIL_BEZUG: Walberberg
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Burg
+  erbauer: "rheinische Rittergeschlechter"
+  bauweise: "wassergeschützte Burg"
+  zeitraum: "10.-11. Jahrhundert"
+  erhalten: true
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_bauwerk
+BEZEICHNUNG: Wolfsburg
+ORTSTEIL_BEZUG: Roisdorf
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Burg / Baudenkmal"
+  charakterisierung: "imposant"
+  erbauer: "rheinische Rittergeschlechter"
+  bauweise: "wassergeschützte Burg"
+  zeitraum: "10.-11. Jahrhundert"
+  erhalten: true
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_bauwerk
+BEZEICHNUNG: Hexenturm
+ORTSTEIL_BEZUG: Walberberg
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Turm
+  ort_lage: Friedhof
+  alter_jahrundert: "12. Jahrhundert"
+  erhalten: true
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archeologisches_bodendenkmal
+BEZEICHNUNG: Villa Fortuna
+ORTSTEIL_BEZUG: Botzdorf
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "römisches Landhaus"
+  zeitalter: "Römerzeit"
+  datum_entdeckung: 2002
+  charakterisierung: "kulturgeschichtliches Bodendenkmal"
+GUELTIG_AB: 50
+GUELTIG_BIS: 450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archeologisches_bodendenkmal
+BEZEICHNUNG: Hügelgräber
+ORTSTEIL_BEZUG: "zwischen Bornheim und Sechtem"
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitalter: "vorgeschichtliche Zeit"
+  zeitraum: "ab ca. 800 v. Chr."
+  bedeutung: "Besiedlung des Stadtgebiets"
+GUELTIG_AB: -800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: archeologisches_bodendenkmal
+BEZEICHNUNG: Eisenzeit-Gehöft
+ORTSTEIL_BEZUG: Hersel
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitalter: Eisenzeit
+  art: "Gehöftüberreste"
+  bedeutung: "Besiedlung des Stadtgebiets"
+GUELTIG_AB: -800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fliehburg
+BEZEICHNUNG: Alteburg
+ORTSTEIL_BEZUG: "Walberberger Wald"
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Ringwallanlage
+  erbauer: "vermutlich Germanen oder Kelten"
+  grund_erbauung: "Schutz von Siedlungsbewohnern"
+  erkennbarkeit_grundrisse: true
+  genauigkeit_erbauer: "vermutlich"
+GUELTIG_AB: -500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: fliehburg
+BEZEICHNUNG: Abschnittswall
+ORTSTEIL_BEZUG: "Stromberg, südliche Spitze des Waldes von Rösberg"
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Abschnittswall
+  lage_denkmal: "Dobschleider Hof"
+  erbauer: "vermutlich Germanen oder Kelten"
+  grund_erbauung: "Schutz von Siedlungsbewohnern"
+  genauigkeit_erbauer: "vermutlich"
+GUELTIG_AB: -500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Römerzeit
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "50 v. Chr. bis 450 n. Chr."
+  anzahl_jahre: 500
+  zeugnisse: "römische Münzen, Römerkanal, Kult- und Weihestätten, Landhausfundamente"
+  funde_roisdorf: "römische Münzen im Roisdorfer Brunnen"
+  roem_kanal_strecke: "von der Eifel nach Köln"
+  roem_kanal_charakterisierung: "größtes Bauwerk nördlich der Alpen"
+GUELTIG_AB: -50
+GUELTIG_BIS: 450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Frankische Herrschaft
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beginn: "4. Jahrhundert"
+  grund: "Ende der römischen Herrschaft durch die Franken"
+  folge: "Gründung des Königreichs Ripuarien ab 455"
+  auswirkungen: "zahlreiche Siedlungsgründungen, Gräberfelder, Ortsnamen"
+  besiedlung_durch: "Franken und Merowinger"
+GUELTIG_AB: 300
+GUELTIG_BIS: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Franzoesische Annexion
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "1794-1814"
+  folge: "Ursprung der heutigen Stadt Bornheim"
+  verwaltungsreform_datum: "27. Februar 1800"
+  reform_massnahme: "Bildung von drei Mairien (Bürgermeistereien)"
+  mairien_details: "Hersel mit 7 Gemeinden, Sechtem mit 4 Gemeinden, Waldorf mit 4 Gemeinden (darunter Bornheim-Brenig)"
+GUELTIG_AB: 1794
+GUELTIG_BIS: 1814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: verwaltungsreform
+BEZEICHNUNG: Bildung des Amtes Waldorf
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "1928-1934"
+  zusammenschluss_von: "drei Bürgermeistereien"
+  neue_einheit: "Amt Waldorf"
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungsreform
+BEZEICHNUNG: Umbennung in Amt Bornheim
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1935
+  grund: "gestiegene Bedeutung der Ortschaft Bornheim"
+  neuer_name: "Amt Bornheim"
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungsreform
+BEZEICHNUNG: Kommunale Neugliederung
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1969
+  massnahme: "Auflösung des Amtes Bornheim, Zusammenschluss von Gemeinden"
+  beteiligte_gemeinden: "Bornheim, Sechtem, Hersel"
+  ergebnis: "neue amtsfreie Gemeinde Bornheim"
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungsreform
+BEZEICHNUNG: Umwandlung zur Stadt
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: "1. Januar 1981"
+  vorgaenger_status: "Gemeinde"
+  neuer_status: Stadt
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bornheim
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hunde_gemeldet: 2974 [Hunde]
+  unternehmen_ansaessig: 2800 [Anzahl]
+  unternehmen_stand: 2018
+  aerzte: 39 [Anzahl]
+  zahnaerzte: 21 [Anzahl]
+  tieraerzte: 6 [Anzahl]
+  apotheken: 9 [Anzahl]
+  katholische_kirchen: 13 [Anzahl]
+  evangelische_kirchen: 4 [Anzahl]
+  evangelische_freikirchen: 1 [Anzahl]
+  kloster: 2 [Anzahl]
+  kindergaerten: 34 [Anzahl]
+  grundschulen: 8 [Anzahl]
+  weiterfuehrende_schulen: 7 [Anzahl]
+  kinderspielplaetze: 54 [Anzahl]
+  sportplaetze: 12 [Anzahl]
+  turn_und_sporthallen: 15 [Anzahl]
+  seniorenheime: 4 [Anzahl]
+  private_altenpflegeheime: 2 [Anzahl]
+  altentagesstaetten: 17 [Anzahl]
+  hallenfreizeitbad_besucher_jaehrlich: 190000 [Besucher]
+  feuerwehr_loeschgruppen: 12 [Anzahl]
+  feuerwehr_personal: 600 [Menschen]
+  feuerwehr_geraetehaeuser: 12 [Anzahl]
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bornheim
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kindergaerten: 30 [Anzahl]
+  stadtbücherei_medien: 30000 [Medien]
+  golfanlage_flaeche: 100 [Hektar]
+  golfanlage_locher: 18
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bevölkerungsstatistik
+BEZEICHNUNG: Bornheim 2023
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/bornheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zugezogene: 3371 [Menschen]
+  geborene: 396 [Kinder]
+  weggezogene: 3206 [Menschen]
+  verstorbene: 517 [Menschen]
+  eheschliessungen: 184 [Paare]
+GUELTIG_AB: 2023
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Heinrich Böll
+QUELLE: https://www.bornheim.de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auszeichnung: "Literaturnobelpreis"
+  status: "Ehrenbürger von Bornheim"
+  wohnort: Merten
+  todesjahr: 1985
+  todesjahr_genauer: "16. Juli 1985"
+  grabesstätte_in_bornheim: true
+  status_als_sehenswuerdigkeit: true
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kunstprojekt
+BEZEICHNUNG: Stolpersteine
+QUELLE: https://www.bornheim.de/freizeit-tourismus/stadt-geschichte/stolpersteine-in-bornheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Gunter Demnig
+  beschreibung: "Messingschilder mit Namen und Schicksalsdaten von Opfern des Nationalsozialismus"
+  anbringungsort: "Bürgersteige vor ehemaliger Wohnorte"
+  ratsbeshluss_bornheim: "21. April 2005"
+  ratsbeshluss_typ: "Teilnahme an der Aktion Stolpersteine"
+  deportationen_beginn: 1941
+  deportationen_opfer_anzahl: 70 [Jüdinnen und Juden]
+  opfer_gesamtanzahl: 70
+  stolpersteine_angebracht: 78 [Stück]
+  anbringung_zeitraum: "2006-2022"
+  ortstile_mit_stolpersteinen: "Roisdorf, Bornheim, Walberberg, Hersel, Widdig, Merten, Sechtem, Waldorf"
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: radwanderweg
+BEZEICHNUNG: Apfelroute Bornheim
+QUELLE: https://www.bornheim.de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Nebenroute der Rheinischen Apfelroute"
+  laenge: 40 [km]
+  besonderheit: "ca. 40 Kilometer"
+  verbindung: "alle 14 Ortschaften"
+  charakterisierung: "vielseitige Umgebung"
+  strecke_topografie: "von Rhein bis Vorgebirge"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmalbehoerde
+BEZEICHNUNG: Untere Denkmalbehörde der Stadt Bornheim
+QUELLE: https://www.bornheim.de/wirtschaft-bauen/bauen/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Sonderordnungsbehörde"
+  aufgaben: "Überprüfung Denkmalwürdigkeit, Unterschutzstellung, Beratung, Genehmigungen, Förderung, Steuerbescheinigungen"
+  rechtsgrundlage_einführung: "1. Juni 1980"
+  rechtsgrundlage: "Denkmalschutzgesetz Nordrhein-Westfalen"
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bornheim
+QUELLE: https://www.bornheim.de/wirtschaft-bauen/bauen/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baudenkmaler: 235 [Anzahl]
+  bodendenkmaler: 15 [Anzahl]
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

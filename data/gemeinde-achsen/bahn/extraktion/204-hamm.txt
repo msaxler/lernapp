@@ -1,0 +1,844 @@
+ENTITÄT: ort
+BEZEICHNUNG: Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 1226
+  gruendungsdatum: 4. März 1226
+  gruendungsname: tom Hamme
+  stadtrecht: Lippstädter Recht
+  hansestadt_zeitraum: 1471-1651
+  hansische_prinzipalstadt_seit: 1549
+  reformation_erreicht: 16. Jahrhundert
+  kreisstadt_status: ab 1817
+  reformiert_zu_kreisfreier_stadt: 1901
+  einwohnerzahl_1901: über 30000
+  us_besatzung: 6. April 1945
+  stadtjubilaeum: 800 Jahre (urkundliche Erwähnung 1226)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtbefestigung
+BEZEICHNUNG: Stadtbefestigung Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1243-1258
+GUELTIG_AB: 1243
+GUELTIG_BIS: 1258
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtbrand
+BEZEICHNUNG: Große Stadtbrände
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahre: 1278, 1287, 1307
+  beschreibung: mehrere Brände im Mittelalter
+GUELTIG_AB: 1278
+GUELTIG_BIS: 1307
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtbrand
+BEZEICHNUNG: Großer Stadtbrand
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1734
+  zerstörte_häuser: 200
+  bauzustand_dokumentation: Bauzustand 1734, Grundriss mit roter Einzeichnung abgebrannter Quartiere
+  wiederaufbau_stilrichtung: 18. Jahrhundert Zeitgeschmack
+GUELTIG_AB: 1734
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: rittergut
+BEZEICHNUNG: Ermelinghoff
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 1350
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Pest
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1350
+  ort: Hamm
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Erste Vertreibung jüdischer Bürger
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1350
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gildenhaus
+BEZEICHNUNG: Gildenhaus des Hansebundes
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Weststraße 23
+  zeitraum: 16. Jahrhundert
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marktplatz
+  baujahr: 1532
+  bauzustand_doku: 1734
+  schaeden: schwer beschädigt durch einen der schwersten Stadtbrände
+  wiederaufbau: 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stunikenhaus
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1748
+  renovierung: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gericht
+BEZEICHNUNG: Landgericht
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einfuehrung_hamm: 1753
+  beschreibung: eines von sechs Landgerichten für die Grafschaft Mark
+GUELTIG_AB: 1753
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Entfestigung Hamms
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1763
+GUELTIG_AB: 1763
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: brauerei
+BEZEICHNUNG: Isenbeck
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1769
+  produktname: Isenbeck (Biermarke)
+  bilder_doku: Ansicht 1986 mit bekannter Pilsglas-Leuchtreklame
+GUELTIG_AB: 1769
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Französische Exilregierung in Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1792
+  residenz: Nassauer Hof (später Marienhospital)
+  personen: Brüder König Ludwig XVI., später französische Könige Ludwig XVIII. und Karl X.
+  deklaration: Hammer Déclaration
+GUELTIG_AB: 1792
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadttore Abbruch
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abbruchzeitraum: 1796-1798
+GUELTIG_AB: 1796
+GUELTIG_BIS: 1798
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Napoleonische Besetzung
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1808
+  folge_politisch: Ehemalige Grafschaft Mark gehört seit 1808 zum Großherzogtum Berg
+  folge_verwaltung: Hamm wird Sitz eines Kantons
+GUELTIG_AB: 1808
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: fabrik
+BEZEICHNUNG: Walzwerk Wilhelm Hobrecker
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1810
+  typ: erste industrielle Anlage in Hamm
+  nachfolger_name: Eisen- und Stahlwerk Eduard Hobrecker
+  dokumentation_bild: 1898 auf Briefkopf
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Kreis Hamm Gründung
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1817
+  verwaltung_ebene: Regierungsbezirks Arnsberg
+  status_bis: 1929-1930 (Verlagerung nach Unna)
+GUELTIG_AB: 1817
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gericht
+BEZEICHNUNG: Oberlandesgericht Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitzverlegung_nach_hamm: 1820
+  neubau_einweihung: 1894
+  standort_neubau: Friedrichplatz
+GUELTIG_AB: 1820
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Franziskanerkloster Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auflosung: 1824
+  nachnutzung: Zentralgefängnis der Provinz Westfalen
+GUELTIG_AB: 1824
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: sparkasse
+BEZEICHNUNG: Sparkasse Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1840
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: eisenbahnstrecke
+BEZEICHNUNG: Köln-Mindener-Eisenbahn
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1847-1848
+GUELTIG_AB: 1847
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: eisenbahnstrecke
+BEZEICHNUNG: Bahnlinie Hamm-Münster
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1847-1848
+GUELTIG_AB: 1847
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Eisenbahnknotenpunkt
+  empfangsgebäude_bau: 1861
+  architekturstil: neoromanisch
+  lage: Insellage zwischen den Gleisen
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 12. September 1868
+  zerstörung: 1938
+  nachnutzung: Gedenkstätte seit 2003
+  standort_nach_zerstörung: St. Monica-Platz (heute)
+  deportation_judische_bürger: 1942-1943
+GUELTIG_AB: 1868
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kur_und_badeanlage
+BEZEICHNUNG: Bad Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bade_und_gaestehaus_bau_beginn: 1883
+  ursprüngliche_infrastruktur: Badehaus, Logierhaus, Schützenhof
+GUELTIG_AB: 1883
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kurpark
+BEZEICHNUNG: Kurpark Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neuanlage: 1883-1884
+  features: Teich, sogenannter "Liebestempel"
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Trinkwasserversorgung Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: seit 1887
+  typ: öffentliche Trinkwasserversorgung
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Hochwasser 1890
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  monat: November
+  jahr: 1890
+  beschreibung: schlimmstes Hochwasser
+  betroffen_fluss: Lippe
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: buecherei
+BEZEICHNUNG: Volksbibliothek Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1895
+  späterer_name: Städtische Volksbücherei
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: strassenbahn
+BEZEICHNUNG: Straßenbahn Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_fahrt: 19. Oktober 1898
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Maximilian
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abteufe: 1903
+  foerderung_einstellung: 1914
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Radbod
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abteufe: 1905
+  grubenunglück: 1908
+  todesfälle_grubenunglück: 350
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Grubenunglück Zeche Radbod
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 12. November 1908
+  zeche: Zeche Radbod
+  tote: 350
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Sachsen
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abteufe: 1912
+  ortsteil_bezug: Heessen
+  grubenunglück: 3. April 1944
+  todesfälle_grubenunglück: 169
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+ORTSTEIL_BEZUG: Heessen
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Verlegung Ahse
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1911-1913
+  fluss: Ahse
+GUELTIG_AB: 1911
+GUELTIG_BIS: 1913
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ringanlagen
+BEZEICHNUNG: Ringanlagen Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 14. Juni 1914
+  beschreibung: grüner Ring um die Innenstadt
+  features: Musiktempel, Bärenbrunnen
+  jubileum_erwaehnung: 100-jähriges Jubiläum im Mai 2014
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Lippe-Seitenkanal / Datteln-Hamm-Kanal
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1914-1915
+  funktion: Seitenkanal der Lippe
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: hafen
+BEZEICHNUNG: Hafen Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1914-1915
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht bei Pelkum
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1. April 1920
+  kontrahenten: "Rote Armee" (Bergleute) vs. Reichswehr
+  auslöser: Kapp-Putsch
+  aktion_detail: streikende Arbeiter sprengten Brücke über Hamm-Osterfelder Bahn
+  ortsteil: Pelkum
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Pelkum
+
+---
+
+ENTITÄT: buehne
+BEZEICHNUNG: Waldbühne Heessen
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1924
+  ortsteil: Heessen
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Heessen
+
+---
+
+ENTITÄT: postamt
+BEZEICHNUNG: Hauptpostamt Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1924
+  lage: Bahnhof
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Heinrich Robert (ehemals Zeche de Wendel)
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprünglicher_name: Zeche de Wendel
+  namensänderung: 1937
+  neuer_name: Heinrich Robert
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: autobahn
+BEZEICHNUNG: Autobahn Oberhausen-Hannover
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1938
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: raststätte
+BEZEICHNUNG: Raststätte Rhynern
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1938
+  umbenennung_seit: 2009
+  neuer_name: Raststätte Nord
+  ortsteil: Rhynern
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Rhynern
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Eingemeindung Gemeinde Mark
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1939
+  bisherige_zugehörigkeit: Amt Rhynern
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Liebfrauenkirche
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zerstörung: 8. September 1940
+  grund_zerstörung: britischer Luftangriff (zwei Bomben)
+GUELTIG_AB: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hochbunker Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1940-1943
+GUELTIG_AB: 1940
+GUELTIG_BIS: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Deportation der Hammer Sinti
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1943
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Großangriff auf Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 22. April 1944
+  tote: 234
+GUELTIG_AB: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Bombenanschlag auf Russenlager
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 31. Mai 1944
+  tote: 205
+  zusammensetzung_tote: 151 Zwangsarbeiter und Kriegsgefangene
+GUELTIG_AB: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: US-Besatzung Hamms
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 6. April 1945
+  besatzer: US-Truppen
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Erste demokratische Kommunalwahlen
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 13. Oktober 1946
+  beschreibung: erste demokratische Kommunalwahlen nach 1945
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Agnes
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wiederaufbau: 1947-1953
+  grund_wiederaufbau: Kriegszerstörung
+GUELTIG_AB: 1947
+GUELTIG_BIS: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: baugebiet
+BEZEICHNUNG: Schlossmühle Heessen
+QUELLE: https://www.hamm.de/akuelle-baugebiete/schlossmuehle-heessen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südlicher Rand Heessen, ca. 500 m südlich Heessener Marktplatz
+  zufahrt: von Dolberger Straße über Straße "An der Schlossmühle"
+  umgebung_suedlich: offene Landschaft der Lippeauen
+  teilabschnitte: 2 (getrennt durch historische Allee/Schlossstraße)
+  mehrfamilienhaeuser_nördlich: 4 mit 31 Eigentumswohnungen
+  kaufgrundstücke_nördlich: 6
+  denkmalgeschütztes_gebaeude: 1 südlich der Schlossstraße
+  grundstücke_mehrfamilienbau: 2 südlich
+  grundstücke_einfamilienhaus: 1 südlich
+  erbpacht_grundstücke: 4 südlich
+  ortsteil: Heessen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Heessen
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Maximilianpark
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/maxipark-iga-2027 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Wahrzeichen der Stadt Hamm
+  feature: Glaselefant
+  bekanntheitsgrad: überregional bekannt
+  funktion: Besuchermagnet mit temporären und dauerhaften Attraktionen
+  bedeutung: wichtig für Lebensqualität im Stadtteil
+  ortsteil: Werries
+  iga_2027_planung: Erweiterung mit Gartenkompetenzzentrum
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Werries
+
+---
+
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: Maxi-Center Werries
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/isek-werries | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Versorgungszentrum
+  einzelhandelsspektrum: breit aufgestellt
+  angebote_neben_einzelhandel: schulische und sportliche Einrichtungen, Freizeitangebote
+  ortsteil: Werries
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+ORTSTEIL_BEZUG: Werries
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Bonifatius-Kirche
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/rahmenplan-werries | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil: Werries
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+ORTSTEIL_BEZUG: Werries
+
+---
+
+ENTITÄT: gymnasium
+BEZEICHNUNG: Freiherr-vom-Stein-Gymnasium
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/gruene-umweltachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sportplatz_modernisierung: Ausbildung zur Leichtathletikanlage Typ C
+  fassadensanierung: durchgeführt mit aktuellen energetischen Anforderungen
+  ortsteil: Werries
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+ORTSTEIL_BEZUG: Werries
+
+---
+
+ENTITÄT: stadtteilzentrum
+BEZEICHNUNG: Jugend- und Stadtteilzentrum (JUST) Werries
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/gruene-umweltachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: barrierearm, modern, lebendiger Ort für Begegnung, Kultur und gemeinschaftliches Leben
+  ortsteil: Werries
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+ORTSTEIL_BEZUG: Werries
+
+---
+
+ENTITÄT: projekt
+BEZEICHNUNG: Grüne Umweltachse Werries
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/gruene-umweltachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: grünes Band vom Datteln-Hamm-Kanal zum Maximilianpark
+  funktion: Verbindungs- und Aufenthaltsraum mit klimaangepasstem Design
+  grundlage: ISEK Werries (2019)
+  schlüsselprojekt: ja
+  baubausteine: Sport- und Bewegungsachse, Fahrradterminal, Zugang zum Datteln-Hamm-Kanal
+  erster_bauabschnitt_einweihung: September 2026
+  bauzeit_erster_ba: ca. eineinhalb Jahre
+  förderung: Städtebauförderungsmittel
+  entwurf_wettbewerb: 1. Preis an Arbeitsgemeinschaft faktorgruen (Freiburg) und Schüler Architekten Stadtplaner (Düsseldorf)
+  ortsteil: Werries
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+ORTSTEIL_BEZUG: Werries
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Datteln-Hamm-Kanal
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/rahmenplan-werries | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Kanaluferweg
+  integration_in_stadtplanung: in Verbindung mit Grüner Umweltachse
+  barrierefreier_zugang_geplant: ja (2. Bauabschnitt Grüne Umweltachse)
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: 800-jähriges Stadtjubiläum Hamm
+QUELLE: https://www.hamm.de/800/historie-zeitleiste | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: 800 Jahre seit erster urkundlicher Erwähnung 1226
+  jubiläumsprojekte: "Stelen zur Stadtgeschichte"
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: projekt
+BEZEICHNUNG: Stelen zur Stadtgeschichte
+QUELLE: https://www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/projekte-der-stadtentwicklung/stelen-zur-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: 100-jähriges Jubiläum Ringanlagen
+  erste_stelen: 3 in Hamm-Mitte (Mai 2014) an Musikpavillon, Bärenbrunnen und Otto-Krafft-Platz
+  weitere_stelen: 6 in Stadtbezirken (Februar 2015)
+  kooperation: Hammer Geschichtsverein und Stadt Hamm (Stadtarchiv, Stadtplanungsamt, Untere Denkmalbehörde, Tiefbau- und Grünflächenamt)
+  beschreibung: historische Ortsmarker mit Bildern und kurzen Texten zur Stadtgeschichte
+  zweck: Einladung zur Auseinandersetzung mit der Stadtgeschichte
+  erweiterung_geplant: ja
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

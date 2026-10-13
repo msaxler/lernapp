@@ -1,0 +1,64 @@
+Orte: 195-duesseldorf 196-ratingen 197-duisburg 198-muelheim 199-essen 200-gelsenkirchen 201-bochum 202-dortmund 203-kamen 204-hamm
+== Extraktion (Haiku) 03:11:38
+195-duesseldorf      extraktion ein  23502  aus  10342   0.09 USD    74 s  claude-haiku-4-5-20251001
+196-ratingen         extraktion ein  29721  aus  20404   0.15 USD   145 s  claude-haiku-4-5-20251001
+197-duisburg         extraktion ein  31622  aus   8807   0.09 USD    63 s  claude-haiku-4-5-20251001
+198-muelheim         extraktion ein  26175  aus   9286   0.09 USD    70 s  claude-haiku-4-5-20251001
+199-essen            extraktion ein  34652  aus  30666   0.21 USD   257 s  claude-haiku-4-5-20251001
+200-gelsenkirchen    extraktion ein  60653  aus  15264   0.18 USD   119 s  claude-haiku-4-5-20251001
+201-bochum           extraktion ein  50366  aus  23333   0.20 USD   187 s  claude-haiku-4-5-20251001
+202-dortmund         extraktion ein  62610  aus   8519   0.15 USD    75 s  claude-haiku-4-5-20251001
+203-kamen            extraktion ein  34099  aus  15175   0.13 USD   120 s  claude-haiku-4-5-20251001
+204-hamm             extraktion ein  35593  aus  12868   0.12 USD    97 s  claude-haiku-4-5-20251001
+zusammen: 9738 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+195-duesseldorf    16664 Zeichen
+196-ratingen       26756 Zeichen
+197-duisburg       21420 Zeichen
+198-muelheim       18259 Zeichen
+199-essen          30419 Zeichen
+200-gelsenkirchen   36890 Zeichen
+201-bochum         29628 Zeichen
+202-dortmund       25609 Zeichen
+203-kamen          41768 Zeichen
+204-hamm           29357 Zeichen
+== Karten (claude-opus-5-5) 03:16:04
+195-duesseldorf      karten     ein  36146  aus  40208   1.04 USD   343 s  claude-opus-5-5
+196-ratingen         karten     ein  42557  aus  35424   1.00 USD   305 s  claude-opus-5-5
+197-duisburg         karten     ein  39850  aus  25433   0.77 USD   221 s  claude-opus-5-5
+198-muelheim         karten     ein  37423  aus  26057   0.77 USD   222 s  claude-opus-5-5
+199-essen            karten     ein  41313  aus  41742   1.11 USD   363 s  claude-opus-5-5
+200-gelsenkirchen    karten     ein  46893  aus  32799   0.98 USD   283 s  claude-opus-5-5
+201-bochum           karten     ein  41524  aus  27208   0.82 USD   231 s  claude-opus-5-5
+202-dortmund         karten     ein  41316  aus  29859   0.87 USD   258 s  claude-opus-5-5
+203-kamen            karten     ein  52266  aus  40382   1.17 USD   345 s  claude-opus-5-5
+204-hamm             karten     ein  44832  aus  37942   1.06 USD   329 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 03:27:36
+195-duesseldorf      pruefung   ein  47975  aus   7883   0.49 USD    69 s  claude-opus-5-5
+196-ratingen         pruefung   ein  63197  aus   7954   0.61 USD    71 s  claude-opus-5-5
+197-duisburg         pruefung   ein  59941  aus   6466   0.56 USD    59 s  claude-opus-5-5
+198-muelheim         pruefung   ein  53570  aus  10702   0.59 USD    94 s  claude-opus-5-5
+199-essen            pruefung   ein  70979  aus  11804   0.75 USD   103 s  claude-opus-5-5
+200-gelsenkirchen    pruefung   ein  52980  aus   4561   0.46 USD    41 s  claude-opus-5-5
+201-bochum           pruefung   ein  46254  aus   4585   0.41 USD    41 s  claude-opus-5-5
+202-dortmund         pruefung   ein 107334  aus   9986   1.00 USD    88 s  claude-opus-5-5
+203-kamen            pruefung   ein  55888  aus   7170   0.54 USD    64 s  claude-opus-5-5
+204-hamm             pruefung   ein  73204  aus  11147   0.75 USD    98 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 03:30:55
+195-duesseldorf      stufe2     ein 163637  aus   2871   0.39 USD    62 s  claude-opus-5-5,claude-haiku-4-5-20251001
+196-ratingen         stufe2     ein 425252  aus   8543   0.89 USD   168 s  claude-opus-5-5,claude-haiku-4-5-20251001
+197-duisburg         stufe2     ein 200620  aus   4810   0.67 USD    70 s  claude-opus-5-5,claude-haiku-4-5-20251001
+198-muelheim         stufe2     ein 141861  aus   1873   0.32 USD    79 s  claude-opus-5-5,claude-haiku-4-5-20251001
+199-essen            stufe2     ein 138404  aus   2331   0.37 USD    57 s  claude-opus-5-5,claude-haiku-4-5-20251001
+200-gelsenkirchen    stufe2     ein 401772  aus   8684   1.22 USD   154 s  claude-opus-5-5,claude-haiku-4-5-20251001
+201-bochum           stufe2     ein 284457  aus   9694   1.08 USD   133 s  claude-opus-5-5,claude-haiku-4-5-20251001
+202-dortmund         stufe2     ein 141535  aus   2972   0.32 USD    57 s  claude-opus-5-5,claude-haiku-4-5-20251001
+203-kamen            stufe2     ein 681483  aus  15923   1.75 USD   222 s  claude-opus-5-5,claude-haiku-4-5-20251001
+204-hamm             FEHLER keine Karte an Stufe 2 – kein Lauf
+== Geprüfte Fassung und Export 03:35:56
+Urteile: {'korrigiert': 586, 'bestätigt': 1082, 'gesperrt': 45, 'unsicher': 118} | im Vorrat: 1786 Karten an 204 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     204 Orte, 1786 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 2129040 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 03:35:57

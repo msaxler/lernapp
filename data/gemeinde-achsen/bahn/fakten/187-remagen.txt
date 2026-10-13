@@ -1,0 +1,176 @@
+ID: 187-remagen/001
+ENTITÄT: ort
+BEZEICHNUNG: Remagen
+QUELLE: https://www.remagen.de/leben-familie/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  glaubensgemeinschaften: katholisch, evangelisch, muslimisch
+  charakterisierung: bunte Mischung an Traditionen, kultureller Reichtum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 187-remagen/002
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Friedenskirche
+QUELLE: https://www.remagen.de/leben-familie/kirchen/evangelische-friedenskirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeinde_seit: 1585
+  architekt: Cuno
+  stil: neugotisch
+  grundform: gotische Hallenkirche (verkleinert)
+  eingeweiht: 18. Juni 1872
+  kriegsschaeden: Bombenangriffe 2. Weltkrieg
+  turmeinsturz: 1947
+  wiedereroeffnung: Reformationsfest 1950
+  fenster_neusetzung: 1972
+  fenster_farben: tiefblau, rot
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 187-remagen/003
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Oberwinter
+ORTSTEIL_BEZUG: Oberwinter
+QUELLE: https://www.remagen.de/leben-familie/kirchen/evangelische-kirche-oberwinter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1721-1722
+  architekt: Adam
+  grundform: rechteckiger Saalbau
+  konfession: reformiert
+  besonderheit: ehemaliges Pfarrhaus an der Hauptstraße; evangelische Kirchen durften nicht direkt an Landstraßen liegen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 187-remagen/004
+ENTITÄT: kirche
+BEZEICHNUNG: Sankt-Anna-Kapelle
+QUELLE: https://www.remagen.de/leben-familie/kirchen/sankt-anna-kapelle/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: ehemalige Klosterkirche
+  erbaut: 1906
+  stil: neugotisch
+  kloster_aufgegeben: Mitte der 1970er
+  sanierung: 2012-2013
+  nutzung_aktuell: Begegnungsstätte, Ausstellungen, Konzerte
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 187-remagen/005
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Gertrud
+ORTSTEIL_BEZUG: Oedingen
+QUELLE: https://www.remagen.de/leben-familie/kirchen/katholische-pfarrkirche-st-gertrud/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1908
+  stil: neugotisch
+  architekt: J. Stumpf (Bonn)
+  vorgaengerin: Friedhofskapelle St. Gertrudis (13. Jahrhundert, romanisch)
+  vorgaengerin_ausstattung: romanische Fresken, bemerkenswerte Pieta
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 187-remagen/006
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Laurentius
+ORTSTEIL_BEZUG: Oberwinter
+QUELLE: https://www.remagen.de/leben-familie/kirchen/katholische-pfarrkirche-st-laurentius/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwaehnung: 1131
+  aeltester_bauteil: spätgotischer Chor mit Strebepfeilern und Sterngewölbe
+  kirchenschiff_anbau: 1865-1866
+  kirchenschiff_architekt: Statz
+  besonderheit: romanisches Tor
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 187-remagen/007
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Peter und Paul
+QUELLE: https://www.remagen.de/leben-familie/kirchen/katholische-pfarrkirche-st-peter-und-paul/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche_seit: um 500
+  aelteste_teile: 1246
+  anbau: 1900-1903
+  anbau_stil: neoromantisch
+  ausstattung: Fresken und Figurenkapitelle (13. Jahrhundert), gotisches Sakramentshäuschen, Gewölbe um 1500
+  taufkapelle_bereich: ehemaliger ältester Teil
+GUELTIG_AB: 500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 187-remagen/008
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Johannes Nepomuk
+ORTSTEIL_BEZUG: Kripp
+QUELLE: https://www.remagen.de/leben-familie/kirchen/katholische-pfarrkirche-st-johannes-nepomuk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geweiht: 1903
+  material: Kripper Feldbrandziegel
+  altar: mehrstufig geschnitzt
+  taufbecken: steingemeißelt, alt
+  kanzel: 1760
+  standbild_st_johannes_nepomuk: 1725
+  denkmal: Tuffskulptur Schönstatt-Schwestern (aufgestellt Heimat- und Bürgerverein)
+  kulturdenkmal: geschützt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 187-remagen/009
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Remigius
+ORTSTEIL_BEZUG: Unkelbach
+QUELLE: https://www.remagen.de/leben-familie/kirchen/katholische-pfarrkirche-st-remigius/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindeverhaeltnisse_um_1900: 530 Seelen
+  bauzeit: 1899-1903
+  finanzierung: zwei Hauskollekten in Regierungsbezirken Koblenz und Köln
+  kunstwerk: Mutter Gottes (um 1250, geschnitzt, in Schrein)
+  renovierung_dachstuhl_glockenturm: 1967
+  neugestaltung_innen_altarraum: 1997-1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 187-remagen/010
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Wallfahrtskirche St. Apollinaris
+QUELLE: https://www.remagen.de/leben-familie/kirchen/katholische-wallfahrtskirche-st-apollinaris/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Ernst Friedrich Zwirner (Kölner Dombaumeister)
+  grundsteinlegung: 1839
+  rohbau: 1843
+  fertigstellung_und_weihe: 1857
+  stil: neugotisch Gesamtkunstwerk
+  ausstattung: vollständig mit Wandmalereien (Freskotechnik)
+  charakterisierung: einer der bedeutendsten Kirchenneubauten des 19. Jahrhunderts im Rheinland
+  wallfahrtswochen: Juli bis Anfang August
+  besonderheit: Panoramalage mit Ausblick über den Rhein, gepflegte Gartenanlage
+GUELTIG_AB: 1857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 187-remagen/011
+ENTITÄT: glaubensgemeinschaft
+BEZEICHNUNG: Credogemeinde (Evangelisch-Freikirchliche Gemeinde Rhein-Ahr)
+ORTSTEIL_BEZUG: Kripp
+QUELLE: https://www.remagen.de/leben-familie/kirchen/credogemeinde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: evangelisch-freikirchlich
+  dachverband: Bund Evangelisch-Freikirchlicher Gemeinden (K.d.ö.R.)
+  dachverband_rolle: Gründungsmitglied Arbeitsgemeinschaft Christlicher Kirchen in Deutschland
+  grundlagen: Evangelium, persönliche Glaubensentscheidung, freiwillige Spenden
+  namensherkunft: lateinisch Credo = Ich glaube / Ich bekenne
+  bundesweit_gemeindenanzahl: ca. 830
+  bundesweit_mitgliederzahl: ca. 83.000
+  schwerpunkt_glauben: Jesus Christus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 187-remagen/012
+ENTITÄT: glaubensgemeinschaft
+BEZEICHNUNG: Türkische-Islamische Moschee
+QUELLE: https://www.remagen.de/leben-familie/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: muslimisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

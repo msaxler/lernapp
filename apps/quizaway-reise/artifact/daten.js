@@ -23708,6 +23708,18 @@ window.QA_DATEN = {
 "184-hoehr-grenzhausen": [
 "Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Andernach zum Landkreis Mayen-Koblenz.",
 "Andernach hat gut dreimal so viele Einwohner wie Höhr-Grenzhausen."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat gut dreimal so viele Einwohner wie Bad Breisig."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat gut anderthalbmal so viele Einwohner wie Sinzig."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat gut anderthalbmal so viele Einwohner wie Remagen."
 ]
 },
 "ags": "07137003",
@@ -23873,6 +23885,10 @@ window.QA_DATEN = {
 "184-hoehr-grenzhausen": [
 "Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Weißenthurm zum Landkreis Mayen-Koblenz.",
 "Bundestagswahl 2025: In Höhr-Grenzhausen lag die CDU vorn, in Weißenthurm die AfD."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Bad Breisig lag die CDU vorn, in Weißenthurm die AfD."
 ]
 },
 "ags": "07137228",
@@ -45355,6 +45371,3943 @@ window.QA_DATEN = {
 "ags": "07143032",
 "ortsteil": false,
 "km_vom_vorigen": 5.2
+},
+{
+"slug": "185-bad-breisig",
+"name": "Bad Breisig",
+"lat": 50.50917,
+"lon": 7.29639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Breisig",
+"steckbrief": "Bad Breisig hat rund 9.700 Einwohner und liegt 26 km nordwestlich von Koblenz.",
+"frage": "Bad Breisig wurde 1970 zur Stadt erklärt. Wer sprach diese Erklärung aus?",
+"optionen": [
+"Gustav Heinemann sprach die Erklärung aus.",
+"Helmut Kohl sprach die Erklärung aus.",
+"Willy Brandt sprach die Erklärung aus.",
+"Hans-Dietrich Genscher sprach die Erklärung aus."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bundespolitiker liegen nahe, weil ein Stadttitel nach großem Staatsakt klingt. Doch die Erklärung kam vom Land: Helmut Kohl erklärte Bad Breisig als Ministerpräsident von Rheinland-Pfalz zur Stadt. Ein knappes Jahr zuvor war die Gemeinde aus Bad Niederbreisig, Oberbreisig und Rheineck entstanden. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bad-breisig.de/gemeinden/bad-breisig/geschichte/",
+"faktencheck": "korrigiert",
+"id": "185-bad-breisig/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Breisig",
+"steckbrief": "Bad Breisig hat rund 9.700 Einwohner und liegt 26 km nordwestlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Bad Breisig rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 200",
+"200 bis unter 400",
+"400 bis unter 600",
+"600 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine kleine Kurstadt klingt nach viel Grün und wenig Dichte. Doch knapp 9.700 Menschen teilen sich in Bad Breisig rund 20 Quadratkilometer, das ergibt etwa 485 Einwohner je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "185-bad-breisig/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bad Breisig",
+"steckbrief": "Bad Breisig hat rund 9.700 Einwohner und liegt 26 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Orgelgehäuse der Marienkirche stammt aus Ostfriesland.",
+"Den Breisiger Templerhof gründeten Mitglieder des Johanniterordens.",
+"Ein Kölner Hutfabrikant baute in Breisig ein Mausoleum."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine katholische Kirche mit Orgelgehäuse aus einer evangelischen Kirche in Ostfriesland klingt erfunden, stimmt aber: Es kam aus Aurich. Auch das Mausoleum ist echt; der Hutfabrikant baute es zum Andenken an seine Tochter. Gelogen war der Orden: Den Templerhof gründeten, wie der Name sagt, Templer. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/",
+"faktencheck": "korrigiert",
+"id": "185-bad-breisig/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Breisig",
+"steckbrief": "Bad Breisig hat rund 9.700 Einwohner und liegt 26 km nordwestlich von Koblenz.",
+"frage": "Bundestagswahl 2025, Verbandsgemeinde Bad Breisig: Wie hoch war dort die Wahlbeteiligung?",
+"optionen": [
+"unter 81 %",
+"81 bis unter 83 %",
+"83 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gemeinden im Umland großer Städte wählen oft eifriger als der Schnitt, darum liegt ein hoher Wert nahe. In der Verbandsgemeinde Bad Breisig gaben 80,2 Prozent der Wahlberechtigten ihre Stimme ab; stärkste Partei wurde die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "185-bad-breisig/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Breisig",
+"steckbrief": "Bad Breisig hat rund 9.700 Einwohner und liegt 26 km nordwestlich von Koblenz.",
+"frage": "Wem gehörte das Breisiger Ländchen, bevor 1794 französische Revolutionstruppen einmarschierten?",
+"optionen": [
+"Das Ländchen gehörte der Abtei Fulda.",
+"Das Ländchen gehörte dem Stift Essen.",
+"Das Ländchen gehörte dem Stift Quedlinburg.",
+"Das Ländchen gehörte der Abtei Reichenau."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Fulda liegt nahe, denn große Reichsabteien besaßen Land weit verstreut. Doch das Breisiger Ländchen, zu dem auch Gönnersdorf, Brohl und Ober- und Niederlützingen zählten, war einer Essener Äbtissin geschenkt worden. Ihr Stift blieb Landesherr, bis französische Revolutionstruppen kamen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bad-breisig.de/gemeinden/bad-breisig/geschichte/",
+"faktencheck": "bestätigt",
+"id": "185-bad-breisig/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Breisig",
+"steckbrief": "Bad Breisig hat rund 9.700 Einwohner und liegt 26 km nordwestlich von Koblenz.",
+"frage": "Wie weit ist es von Bad Breisig in Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 50 km",
+"50 bis unter 80 km",
+"80 bis unter 110 km",
+"110 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mainz liegt wie Bad Breisig am Rhein und Koblenz ist nah, darum wirkt die Hauptstadt nicht weit. Doch von Bad Breisig geht es erst an Koblenz vorbei rheinaufwärts: Bis Mainz sind es 91 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "185-bad-breisig/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Breisig",
+"steckbrief": "Bad Breisig hat rund 9.700 Einwohner und liegt 26 km nordwestlich von Koblenz.",
+"frage": "Am Breisiger Zolltisch soll Napoleon gesessen haben. Was soll er dort getrunken haben?",
+"optionen": [
+"Er soll Champagner aus Reims getrunken haben.",
+"Er soll Cognac aus der Charente getrunken haben.",
+"Er soll Moselwein aus Bernkastel getrunken haben.",
+"Er soll Elzenberger Rotwein getrunken haben."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem französischen Kaiser denkt man an Champagner oder Cognac. Die Breisiger Überlieferung bleibt bescheidener: Am Zolltisch aus Basalt, der einst am Kölner Tor stand, soll Napoleon Elzenberger Rotwein getrunken haben. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/",
+"faktencheck": "bestätigt",
+"id": "185-bad-breisig/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Breisig",
+"steckbrief": "Bad Breisig hat rund 9.700 Einwohner und liegt 26 km nordwestlich von Koblenz.",
+"frage": "Was war die Vorgängerin der evangelischen Christuskirche in Bad Breisig?",
+"optionen": [
+"Ein Saal im Kurhaus diente als Kirche.",
+"Die katholische Pfarrkirche wurde mitbenutzt.",
+"Eine Burgkapelle diente als Kirche.",
+"Eine umgebaute Scheune diente als Kirche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mitbenutzen liegt nahe, denn anderswo teilten sich Konfessionen Kirchen. In Breisig war es anders: Vorgängerin war die Burgkapelle des Freiherrn von Bethmann-Hollweg auf Schloss Rheineck. Der Neubau entstand aus Ziegeln mit heimischem Tuff. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.bad-breisig.de/verwaltung/oeffentliches-leben/kirchen/",
+"faktencheck": "bestätigt",
+"id": "185-bad-breisig/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Breisig",
+"steckbrief": "Bad Breisig hat rund 9.700 Einwohner und liegt 26 km nordwestlich von Koblenz.",
+"frage": "Woher stammt nach der Ortsgeschichte der Name Breisig?",
+"optionen": [
+"Der Name ist keltischen Ursprungs.",
+"Der Name kommt vom breiten Rhein.",
+"Der Name stammt von fränkischen Siedlern.",
+"Der Name erinnert an eine Heilquelle."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der breite Rhein liegt nahe, weil der heutige Name danach klingt. Laut Ortsgeschichte ist er aber keltischen Ursprungs. Kelten lebten hier tatsächlich: Auf dem Hahn lag eine eisenzeitliche Höhensiedlung mit Ringwall. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bad-breisig.de/gemeinden/bad-breisig/geschichte/",
+"faktencheck": "korrigiert",
+"id": "185-bad-breisig/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Breisig",
+"steckbrief": "Bad Breisig hat rund 9.700 Einwohner und liegt 26 km nordwestlich von Koblenz.",
+"frage": "Durch den Breisiger Ortsteil Rheineck fließt der Vinxtbach. Welche Grenze bildete er zur Römerzeit?",
+"optionen": [
+"Er trennte Rom vom freien Germanien.",
+"Er trennte Nieder- und Obergermanien.",
+"Er trennte Gallien von Germanien.",
+"Er trennte Obergermanien von Rätien."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Reichsgrenze liegt nahe, denn der Rhein gilt als Römergrenze. Doch der Vinxtbach trennte zwei römische Provinzen: Nieder- und Obergermanien. Auch später war er Grenze: nördlich lag die Herrschaft Breisig, südlich die Burggrafschaft Rheineck. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bad-breisig.de/gemeinden/bad-breisig/geschichte/",
+"faktencheck": "korrigiert",
+"id": "185-bad-breisig/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "184-hoehr-grenzhausen",
+"anschluss": [
+"Einwohner: Bad Breisig hat rund 300 mehr als Höhr-Grenzhausen.",
+"Höhr-Grenzhausen liegt 11 km von Koblenz, Bad Breisig 26 km."
+],
+"anschluesse": {
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Bad Breisig zum Landkreis Ahrweiler.",
+"Andernach hat gut dreimal so viele Einwohner wie Bad Breisig."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Bad Breisig zum Landkreis Ahrweiler.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Bad Breisig die CDU."
+],
+"186-sinzig": [
+"Sinzig hat fast doppelt so viele Einwohner wie Bad Breisig."
+],
+"187-remagen": [
+"Remagen hat fast doppelt so viele Einwohner wie Bad Breisig."
+],
+"184-hoehr-grenzhausen": [
+"Einwohner: Bad Breisig hat rund 300 mehr als Höhr-Grenzhausen.",
+"Höhr-Grenzhausen liegt 11 km von Koblenz, Bad Breisig 26 km."
+]
+},
+"ags": "07131006",
+"ortsteil": false,
+"km_vom_vorigen": 27.8
+},
+{
+"slug": "186-sinzig",
+"name": "Sinzig",
+"lat": 50.54528,
+"lon": 7.25194,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sinzig",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 24 km südöstlich von Bonn.",
+"frage": "In Sinzigs Königspfalz hielten sich nachweislich 39 Könige und Kaiser auf. Welche Aufgabe nennt die Stadtgeschichte für diese Pfalz?",
+"optionen": [
+"Sie war Etappenstation zwischen Frankfurt und Aachen.",
+"Sie war Krönungsstätte der Frankenkönige am Rhein.",
+"Sie war Sommersitz der Erzbischöfe von Trier.",
+"Sie schützte das Reich gegen die Sachsen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei so vielen Herrscherbesuchen denkt man leicht an eine Krönungsstätte. Doch fränkische Könige errichteten die Pfalz auf dem Sinzigberg, gleich neben einer aufgegebenen Römervilla, als Etappenstation zwischen Frankfurt und Aachen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/",
+"faktencheck": "bestätigt",
+"id": "186-sinzig/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sinzig",
+"steckbrief": "Stadt an Ahr und Rhein, 24 km südöstlich von Bonn.",
+"frage": "Wie viele Einwohner hat die Stadt Sinzig mit allen sechs Ortsteilen?",
+"optionen": [
+"unter 12.000",
+"12.000 bis unter 20.000",
+"20.000 bis unter 30.000",
+"30.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Bonn lässt eine größere Stadt vermuten. Doch Sinzig zählt mit allen Ortsteilen 17.374 Einwohner, Stand Ende 2025. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "186-sinzig/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Sinzig",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 24 km südöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Kaiser schenkte eine Sinziger Kapelle einem Aachener Stift.",
+"Sinzig trat einst dem rheinischen Städtebund bei.",
+"Unter Kurköln verlor Sinzig seine alten Stadtrechte."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dass Eroberer einer Stadt ihre Freiheiten nehmen, klingt glaubhaft. Doch als Kurköln Sinzig eroberte, gestand der Erzbischof den Bürgern weiterhin die gleichen Rechte zu und erkannte damit die Stadtrechte an. Die Kapelle, dem heiligen Petrus geweiht, schenkte Kaiser Lothar I. dem Marienstift Aachen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/",
+"faktencheck": "bestätigt",
+"id": "186-sinzig/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sinzig",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 24 km südöstlich von Bonn.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Sinzig die stärkste Partei?",
+"optionen": [
+"unter 24 %",
+"24 bis unter 28 %",
+"28 bis unter 32 %",
+"32 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer mit vielen starken Parteien rechnet, schätzt die stärkste niedriger ein. Doch die CDU kam in Sinzig auf 33,2 Prozent der Zweitstimmen, deutlich vor der SPD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "186-sinzig/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sinzig",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 24 km südöstlich von Bonn.",
+"frage": "Am 6. März 1152 übernachtete Friedrich Barbarossa in Sinzig. Was traf an diesem Tag auf ihn zu?",
+"optionen": [
+"Er war noch nicht zum König gekrönt.",
+"Er wurde an diesem Tag zum König gekrönt.",
+"Er war bereits seit Jahren gekrönter Kaiser.",
+"Er herrschte schon lange als gekrönter König."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Barbarossa kennt man als Kaiser, daher liegt nahe, er sei längst gekrönt gewesen. Doch seine Übernachtung in Sinzig fiel in die Zeit vor seiner Königskrönung. Später stellte er in Sinzig auch Urkunden aus, darunter einen Schutzbrief für Nonnenwerth. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/",
+"faktencheck": "bestätigt",
+"id": "186-sinzig/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sinzig",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 24 km südöstlich von Bonn.",
+"frage": "Wie weit ist es von Sinzig in Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 70 km",
+"70 bis unter 110 km",
+"110 bis unter 150 km",
+"150 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Sinzig bei Bonn verortet, schätzt Mainz leicht zu fern, denn Bonn liegt schon in Nordrhein-Westfalen. Bis Mainz sind es 96 km Luftlinie. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "186-sinzig/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sinzig",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 24 km südöstlich von Bonn.",
+"frage": "Das Sinziger Schloss entstand als Sommerwohnsitz auf den Fundamenten einer mittelalterlichen Wasserburg. Wer ließ es bauen?",
+"optionen": [
+"Ein Fürst ließ es für seine Familie bauen.",
+"Ein Bischof ließ es als Landsitz bauen.",
+"Ein Geschäftsmann und Eisenbahnpionier ließ es bauen.",
+"Ein Professor der Geschichte ließ es bauen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Schloss denkt man zuerst an einen Fürsten, denn meist baute der Adel solche Häuser. Doch Bauherr war Gustav Bunge, Geschäftsmann und Eisenbahnpionier. Im Jahr der Fertigstellung erreichte auch die linksrheinische Eisenbahn Sinzig. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/sinzig-kernstadt/ und www.sinzig.de/leben-in-sinzig/freizeit-und-sport/museum-schloss-sinzig/",
+"faktencheck": "korrigiert",
+"id": "186-sinzig/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sinzig",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 24 km südöstlich von Bonn.",
+"frage": "Zur Römerzeit arbeitete in Sinzig eine Manufaktur, deren Ware als einzige ihrer Art in der Provinz Niedergermanien weite Verbreitung fand. Was stellte sie her?",
+"optionen": [
+"Sie prägte Münzen für die Legionen.",
+"Sie stellte Terra-Sigillata-Geschirr her.",
+"Sie blies farbiges Glas für Villen.",
+"Sie schmiedete Schwerter für die Soldaten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei weit verbreiteter römischer Ware denkt man an Münzen, denn Geld prägte nicht jeder Ort. Doch in Sinzig entstand Terra Sigillata, glänzend rotes Tafelgeschirr der Römer. Als einzige Manufaktur dafür in Niedergermanien fand sie mit ihrer Ware weite Verbreitung. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.sinzig.de/leben-in-sinzig/freizeit-und-sport/museum-schloss-sinzig/",
+"faktencheck": "korrigiert",
+"id": "186-sinzig/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sinzig",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 24 km südöstlich von Bonn.",
+"frage": "Der Verein deutscher Rosenfreunde hat Sinzigs Stadtteil Löhndorf als Rosendorf anerkannt. Welchen Grund nennt die Stadt dafür?",
+"optionen": [
+"Im Ort wurde eine berühmte Rosensorte gezüchtet.",
+"Ein Kaiser ließ dort einst Rosengärten anlegen.",
+"Im Ort stand früher eine große Rosenölfabrik.",
+"Die meisten Einwohner pflanzen und pflegen Rosen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Titel von Rosenfreunden lässt an eine Rosenzucht denken, denn Züchter benennen Sorten gern nach Orten. Doch anerkannt wurde, dass ein Großteil der Löhndorfer Rosen pflanzt und pflegt, privat wie öffentlich. Löhndorf hat außerdem einen Rosengarten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.sinzig.de/leben-in-sinzig/bauen-und-wohnen/ortsteile/loehndorf/",
+"faktencheck": "unsicher",
+"id": "186-sinzig/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "185-bad-breisig",
+"anschluss": [
+"Sinzig hat fast doppelt so viele Einwohner wie Bad Breisig.",
+"Kennzeichen: Sinzig und Bad Breisig tragen beide AW."
+],
+"anschluesse": {
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Sinzig zum Landkreis Ahrweiler.",
+"Andernach hat gut anderthalbmal so viele Einwohner wie Sinzig."
+],
+"185-bad-breisig": [
+"Sinzig hat fast doppelt so viele Einwohner wie Bad Breisig.",
+"Kennzeichen: Sinzig und Bad Breisig tragen beide AW."
+],
+"187-remagen": [
+"Remagen und Sinzig sind fast gleich groß: rund 18.000 und 17.000 Einwohner."
+]
+},
+"ags": "07131077",
+"ortsteil": false,
+"km_vom_vorigen": 5.1
+},
+{
+"slug": "187-remagen",
+"name": "Remagen",
+"lat": 50.57861,
+"lon": 7.23056,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Remagen",
+"steckbrief": "Die Stadt hat rund 17.600 Einwohner und liegt 20 km südöstlich von Bonn.",
+"frage": "Im Remagener Ortsteil Oberwinter steht an der Hauptstraße das ehemalige evangelische Pfarrhaus, nicht die Kirche. Welchen Grund nennt die Stadt?",
+"optionen": [
+"Die Gemeinde wollte freien Blick auf den Rhein.",
+"Der Landesherr verlangte die Kirche nahe seinem Hof.",
+"Das Pfarrhaus sollte die Kirche vor Dieben schützen.",
+"Evangelische Kirchen durften nicht direkt an Landstraßen liegen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Freier Rheinblick klingt verlockend, und viele Kirchen suchen eine schöne Lage. Die Stadt nennt aber eine Vorschrift: Evangelische Gotteshäuser durften nicht direkt an einer Landstraße liegen. Deshalb führte der Weg zur Kirche durch die Toreinfahrt des ehemaligen Pfarrhauses an der Hauptstraße. Die Kirche selbst ist ein rechteckiger Saalbau nach reformierter Art. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.remagen.de/leben-familie/kirchen/evangelische-kirche-oberwinter/",
+"faktencheck": "korrigiert",
+"id": "187-remagen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Remagen",
+"steckbrief": "Die Stadt hat rund 17.600 Einwohner und liegt 20 km südöstlich von Bonn am Rhein.",
+"frage": "Wie groß ist das Stadtgebiet von Remagen?",
+"optionen": [
+"unter 35 km²",
+"35 bis unter 50 km²",
+"50 bis unter 70 km²",
+"70 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Ortsteile Oberwinter, Kripp, Unkelbach und Oedingen denkt, schätzt leicht eine größere Fläche. Remagen umfasst aber nur 33,21 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "187-remagen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Remagen",
+"steckbrief": "Die Rheinstadt mit rund 17.600 Einwohnern liegt 20 km südöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die evangelische Friedenskirche blieb im Zweiten Weltkrieg unbeschädigt.",
+"Die katholische Kirche in Kripp ist aus Kripper Ziegeln gebaut.",
+"Für den Kirchenbau in Unkelbach wurden Haussammlungen genehmigt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ziegel aus dem eigenen Ort klingen erfunden, doch die katholische Kirche in Kripp besteht aus Kripper Feldbrandziegeln, also im Feldofen gebrannten Ziegeln. Auch die Haussammlungen für Unkelbach sind belegt, denn die Gemeinde konnte das Geld nicht allein aufbringen. Die Friedenskirche dagegen wurde durch Bombenangriffe schwer beschädigt; nach dem Krieg stürzte deshalb sogar ihr Turm ein. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.remagen.de/leben-familie/kirchen/evangelische-friedenskirche/",
+"faktencheck": "korrigiert",
+"id": "187-remagen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Remagen",
+"steckbrief": "Die Stadt mit rund 17.600 Einwohnern liegt 20 km südöstlich von Bonn.",
+"frage": "Welche Partei wurde in Remagen bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"GRÜNE",
+"SPD",
+"CDU"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn bundesweit wurde sie 2025 zweitstärkste Kraft. In Remagen kam die SPD mit 18,2 Prozent der Zweitstimmen auf Platz zwei, vor der AfD mit 15 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "187-remagen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Remagen",
+"steckbrief": "Die Stadt mit rund 17.600 Einwohnern liegt 20 km südöstlich von Bonn.",
+"frage": "Die Wallfahrtskirche St. Apollinaris bietet einen weiten Blick über den Rhein. Wer hat sie errichtet?",
+"optionen": [
+"Der Trierer Dombaumeister hat sie errichtet.",
+"Der Aachener Dombaumeister hat sie errichtet.",
+"Der Regensburger Dombaumeister hat sie errichtet.",
+"Der Kölner Dombaumeister hat sie errichtet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Trier liegt nahe, denn es gehört wie Remagen zu Rheinland-Pfalz. Errichtet hat die Kirche aber Ernst Friedrich Zwirner, der Kölner Dombaumeister. Die Stadt nennt sie ein Gesamtkunstwerk ganz im neugotischen Stil. Innen ist sie vollständig mit Wandmalereien ausgemalt, hauptsächlich in Freskotechnik. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.remagen.de/leben-familie/kirchen/katholische-wallfahrtskirche-st-apollinaris/",
+"faktencheck": "korrigiert",
+"id": "187-remagen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Remagen",
+"steckbrief": "Die Stadt hat rund 17.600 Einwohner und liegt 20 km südöstlich von Bonn.",
+"frage": "Wie weit liegt Remagen in Luftlinie von der Landeshauptstadt Mainz entfernt?",
+"optionen": [
+"unter 120 km",
+"120 bis unter 150 km",
+"150 bis unter 180 km",
+"180 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mainz wirkt von Remagen aus weit weg, denn Bonn liegt nur 20 Kilometer entfernt und gehört schon zu Nordrhein-Westfalen. In Luftlinie trennen Remagen und Mainz aber nur rund 100 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "187-remagen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Remagen",
+"steckbrief": "Die Stadt am Rhein liegt 20 km südöstlich von Bonn und hat rund 17.600 Einwohner.",
+"frage": "Auf der Seite zur Pfarrkirche St. Peter und Paul schreibt die Stadt: „Schon um … gab es eine Kirche in Remagen.“ Welche Jahreszahl steht dort?",
+"optionen": [
+"um 1200",
+"um 500",
+"um 800",
+"um 1000"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein spätes Datum liegt nahe, denn die ältesten Teile der heutigen Kirche mit Fresken, Figurenkapitellen und gotischem Sakramentshäuschen stammen aus dem Mittelalter. Die Stadt schreibt aber: Schon um 500 gab es eine Kirche in Remagen. Wo sie stand, sagt sie nicht. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.remagen.de/leben-familie/kirchen/katholische-pfarrkirche-st-peter-und-paul/",
+"faktencheck": "korrigiert",
+"id": "187-remagen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Remagen",
+"steckbrief": "Remagen liegt 20 km südöstlich von Bonn und hat rund 17.600 Einwohner.",
+"frage": "Wofür wurde die neugotische Sankt-Anna-Kapelle in Remagen ursprünglich gebaut?",
+"optionen": [
+"Sie war die Kapelle eines Adelssitzes.",
+"Sie war die Kapelle des Friedhofs.",
+"Sie war die Kirche eines Klosters.",
+"Sie war die Kapelle der Rheinschiffer."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kleine Gotteshäuser heißen oft Kapelle, weil sie zu einem Friedhof oder Adelssitz gehören; das liegt nahe. Die Sankt-Anna-Kapelle war aber die Kirche eines Klosters. Das Kloster wurde später aufgegeben. Von der neugotischen Kirche blieb nur ein Teil erhalten, der saniert wurde. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.remagen.de/leben-familie/kirchen/sankt-anna-kapelle/",
+"faktencheck": "korrigiert",
+"id": "187-remagen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "186-sinzig",
+"anschluss": [
+"Einwohner: Remagen hat nur 189 mehr als Sinzig.",
+"Bundestagswahl 2025: Remagen und Sinzig fast gleich bei der Wahlbeteiligung."
+],
+"anschluesse": {
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Remagen zum Landkreis Ahrweiler.",
+"Andernach hat gut anderthalbmal so viele Einwohner wie Remagen."
+],
+"185-bad-breisig": [
+"Remagen hat fast doppelt so viele Einwohner wie Bad Breisig."
+],
+"186-sinzig": [
+"Einwohner: Remagen hat nur 189 mehr als Sinzig.",
+"Bundestagswahl 2025: Remagen und Sinzig fast gleich bei der Wahlbeteiligung."
+],
+"188-bonn": [
+"Landesgrenze: Bonn liegt in Nordrhein-Westfalen, Remagen in Rheinland-Pfalz.",
+"Bonn hat achtzehnmal so viele Einwohner wie Remagen."
+]
+},
+"ags": "07131070",
+"ortsteil": false,
+"km_vom_vorigen": 4.0
+},
+{
+"slug": "188-bonn",
+"name": "Bonn",
+"lat": 50.73528,
+"lon": 7.10222,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonn",
+"steckbrief": "Bonn ist eine Großstadt am Rhein mit rund 324.000 Einwohnern, 59 km Luftlinie von Düsseldorf.",
+"frage": "Von 1986 bis 1992 wurde der Plenarsaal im Bonner Bundeshaus umgebaut. Wohin wich man für die Plenarsitzungen aus?",
+"optionen": [
+"Man tagte in der Aula der Universität.",
+"Man tagte in einer umgebauten Reithalle.",
+"Man tagte in einem historischen Wasserwerk.",
+"Man tagte in einem Zelt am Rheinufer."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Für ein Parlament denkt man an einen würdigen Saal, etwa in der Universität. Ausgewichen wurde aber in das Pumpenhaus des historischen Wasserwerks. Das Bundeshaus selbst diente ursprünglich als pädagogische Akademie und ist heute ein Konferenzzentrum. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bonn",
+"faktencheck": "unsicher",
+"id": "188-bonn/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bonn",
+"steckbrief": "Bonn ist eine Großstadt am Rhein mit rund 324.000 Einwohnern, 59 km Luftlinie von Düsseldorf.",
+"frage": "Wie groß ist die Fläche der Stadt Bonn?",
+"optionen": [
+"unter 50 km²",
+"50 bis unter 90 km²",
+"90 bis unter 130 km²",
+"130 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer Bonn als kleine Regierungsstadt von einst kennt, schätzt die Fläche klein. Doch das Stadtgebiet umfasst 141,06 Quadratkilometer. Der Rhein durchtrennt es; rechtsrheinisch gehört der Bezirk Beuel mit der Siegaue dazu. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "188-bonn/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bonn",
+"steckbrief": "Bonn ist ein früherer Regierungssitz am Rhein mit rund 324.000 Einwohnern, 59 km Luftlinie von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Kurfürstliche Schloss ist heute Hauptgebäude der Universität.",
+"Die Villa Hammerschmidt war Amtssitz des Bundeskanzlers.",
+"Das Poppelsdorfer Schloss war ein Erholungsort der Kurfürsten."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Villa Hammerschmidt liegt gleich neben dem Kanzlerbungalow, da liegt der Kanzler als Hausherr nahe. Sie war aber Amts- und Wohnsitz des Bundespräsidenten und ist heute sein Zweitsitz nach Schloss Bellevue. Das Kanzleramt saß ab Ende 1949 im Palais Schaumburg auf der anderen Seite des Bungalows. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bonn",
+"faktencheck": "korrigiert",
+"id": "188-bonn/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bonn",
+"steckbrief": "Bonn ist eine Großstadt am Rhein mit rund 324.000 Einwohnern, 59 km Luftlinie von Düsseldorf.",
+"frage": "Wie hoch war die Wahlbeteiligung in Bonn bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 86 %",
+"86 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In Großstädten vermutet man oft eine eher maue Beteiligung. In Bonn gingen bei der Bundestagswahl 2025 aber 84,9 Prozent der Wahlberechtigten zur Wahl. Bei den Zweitstimmen lag die CDU vorn, die Grünen wurden Zweite. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "188-bonn/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonn",
+"steckbrief": "Bonn ist eine Großstadt am Rhein mit rund 324.000 Einwohnern, 59 km Luftlinie von Düsseldorf.",
+"frage": "Im Beethoven-Haus liegt ein Stück Weltdokumentenerbe. Was ist es?",
+"optionen": [
+"Es ist ein Teil der handschriftlichen „Eroica“.",
+"Es ist die handschriftliche Vorlage zu „Für Elise“.",
+"Es ist ein Teil der handschriftlichen Neunten Sinfonie.",
+"Es ist ein Teil der handschriftlichen Oper „Fidelio“."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Jedes dieser Werke ist berühmt genug für einen Platz im Weltgedächtnis. Ausgezeichnet ist aber die Neunte Sinfonie: Ein Teil ihrer Originalhandschrift liegt im Beethoven-Haus und gehört zum Weltdokumentenerbe. Geboren wurde Beethoven in der Bonngasse, getauft in der Remigiuskirche. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bonn",
+"faktencheck": "unsicher",
+"id": "188-bonn/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bonn",
+"steckbrief": "Bonn ist eine Großstadt am Rhein mit rund 324.000 Einwohnern, 59 km Luftlinie von Düsseldorf.",
+"frage": "Welches Kfz-Kennzeichen tragen die meisten in Bonn zugelassenen Autos?",
+"optionen": [
+"K",
+"AW",
+"EU",
+"BN"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer in der Region Köln/Bonn unterwegs ist, sieht viele K-Kennzeichen. Bonn ist aber eine kreisfreie Stadt mit eigenem Kennzeichen: BN. Richtig war 4.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "188-bonn/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonn",
+"steckbrief": "Bonn ist eine Großstadt am Rhein mit rund 324.000 Einwohnern, 59 km Luftlinie von Düsseldorf.",
+"frage": "Zu Bonn gehört eine Sanddüne, die Düne Tannenbusch, fern jeder Küste. Wie ist sie entstanden?",
+"optionen": [
+"Winde verwehten am Ende der Eiszeit Rheinsand.",
+"Ein urzeitliches Meer hat den Sand abgelagert.",
+"Bergleute schütteten dort Abraum aus Sandgruben auf.",
+"Für einen Bahndamm wurde dort Sand aufgeschüttet."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Dünen kennt man von der Küste, da liegt ein Meer als Ursache nahe. Die Düne Tannenbusch ist aber eine Binnendüne, also eine Düne im Landesinneren: Am Ende der letzten Eiszeit verwehten Winde dort Rheinsand. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bonn",
+"faktencheck": "bestätigt",
+"id": "188-bonn/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonn",
+"steckbrief": "Bonn ist eine Großstadt am Rhein mit rund 324.000 Einwohnern, 59 km Luftlinie von Düsseldorf.",
+"frage": "Der „Lange Eugen“ war einst das Bonner Abgeordnetenhochhaus. Wer nutzt das Gebäude seit 2002?",
+"optionen": [
+"Die Deutsche Welle sendet von dort.",
+"Die Vereinten Nationen nutzen es.",
+"Die Deutsche Post hat dort ihre Hauptverwaltung.",
+"Die Deutsche Telekom hat dort ihre Zentrale."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Deutsche Post liegt nahe, ihr Post Tower steht direkt neben dem Hochhaus. Seit 2002 nutzen aber die Vereinten Nationen den früheren Abgeordnetenbau; er ist heute das Zentrum des UN-Campus Bonn. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bonn",
+"faktencheck": "unsicher",
+"id": "188-bonn/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonn",
+"steckbrief": "Bonn ist eine Großstadt am Rhein mit rund 324.000 Einwohnern, 59 km Luftlinie von Düsseldorf.",
+"frage": "Haribo wurde in Bonn gegründet. Wo hat der Süßwarenhersteller heute seinen Sitz?",
+"optionen": [
+"Der Sitz liegt in Siegburg.",
+"Der Sitz liegt in Euskirchen.",
+"Der Sitz liegt in Neuwied.",
+"Der Sitz liegt in Grafschaft."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer aus Bonn wegzieht, bleibt oft im Umland, also liegt ein Ort in Nordrhein-Westfalen nahe. Haribo zog aber über die Landesgrenze: Der Sitz liegt heute in Grafschaft in Rheinland-Pfalz. Gegründet wurde das Unternehmen in Bonn. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bonn",
+"faktencheck": "bestätigt",
+"id": "188-bonn/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bonn",
+"steckbrief": "Bonn ist eine Großstadt am Rhein mit rund 324.000 Einwohnern, 59 km Luftlinie von Düsseldorf.",
+"frage": "Am 8. März 1945 wurde die alte Bonner Rheinbrücke gesprengt. Von wem?",
+"optionen": [
+"Amerikanische Truppen sprengten sie nach der Einnahme.",
+"Britische Fallschirmjäger sprengten sie hinter der Front.",
+"Pioniere der Wehrmacht sprengten sie.",
+"Widerstandskämpfer aus Bonn sprengten sie."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei gesprengten Brücken denkt man an Angreifer oder Saboteure. Die alte Bonner Rheinbrücke sprengten aber Pioniere der Wehrmacht, also deutsche Truppen. Im Krieg zerstörten abziehende Armeen Brücken oft hinter sich. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bonn",
+"faktencheck": "bestätigt",
+"id": "188-bonn/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "187-remagen",
+"anschluss": [
+"Einwohner: Bonn hat gut achtzehnmal so viele wie Remagen.",
+"Bundestagswahl 2025: Grüne wurden in Bonn Zweite, in Remagen Vierte."
+],
+"anschluesse": {
+"187-remagen": [
+"Einwohner: Bonn hat gut achtzehnmal so viele wie Remagen.",
+"Bundestagswahl 2025: Grüne wurden in Bonn Zweite, in Remagen Vierte."
+],
+"189-bornheim": [
+"Bonn hat fast siebenmal so viele Einwohner wie Bornheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bornheim die SPD, in Bonn die Grünen."
+],
+"190-bruehl": [
+"Bonn hat siebenmal so viele Einwohner wie Brühl.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Brühl die SPD, in Bonn die Grünen."
+]
+},
+"ags": "05314000",
+"ortsteil": false,
+"km_vom_vorigen": 19.6
+},
+{
+"slug": "189-bornheim",
+"name": "Bornheim",
+"lat": 50.75917,
+"lon": 7.005,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bornheim",
+"steckbrief": "Stadt mit rund 48.000 Einwohnern, 7 km nordwestlich von Bonn.",
+"frage": "Der Literaturnobelpreisträger und Bornheimer Ehrenbürger Heinrich Böll lebte bis zu seinem Tod in Bornheim. In welchem Ortsteil?",
+"optionen": [
+"Er wohnte im Ortsteil Bornheim selbst.",
+"Er wohnte im Ortsteil Merten.",
+"Er wohnte im Ortsteil Walberberg.",
+"Er wohnte im Ortsteil Roisdorf."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist der Kernort, der der Stadt den Namen gibt. Doch der Literaturnobelpreisträger wohnte bis zu seinem Tod im Ortsteil Merten. Sein Grab in Bornheim zählt heute zu den Sehenswürdigkeiten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bornheim.de/sehenswuerdigkeiten",
+"faktencheck": "korrigiert",
+"id": "189-bornheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bornheim",
+"steckbrief": "Stadt mit rund 48.000 Einwohnern, 7 km nordwestlich von Bonn.",
+"frage": "Wie viele Einwohner leben in Bornheim durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. So nah an Bonn erwartet man eine dicht bebaute Vorstadt. Doch Bornheim ist landwirtschaftlich geprägt und verteilt sich auf viele einzelne Ortschaften. Auf jeden Quadratkilometer kommen 579 Einwohner. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "189-bornheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bornheim",
+"steckbrief": "Stadt mit rund 48.000 Einwohnern im Vorgebirge, 7 km nordwestlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bornheimer Spargel ist in der EU geschützt.",
+"Das Amt Waldorf hieß später Amt Bornheim.",
+"Der Boden am Vorgebirge ist karg und steinig."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Umbenennung klingt erfunden, stimmt aber: Das Amt Waldorf wurde zum Amt Bornheim, weil die Ortschaft Bornheim an Bedeutung gewonnen hatte. Gelogen ist der karge Boden. Das Vorgebirge trägt überaus fruchtbaren Lössboden, auf dem intensiv Gemüse und Obst angebaut werden. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie",
+"faktencheck": "bestätigt",
+"id": "189-bornheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bornheim",
+"steckbrief": "Stadt mit rund 48.000 Einwohnern, 7 km nordwestlich von Bonn.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Bornheim bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 37 %",
+"37 bis unter 41 %",
+"41 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Vorgebirge vermuten viele eine übermächtige CDU. Sie wurde in Bornheim zwar klar stärkste Kraft, kam aber auf 35,4 Prozent der Zweitstimmen. Dahinter folgten SPD und AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "189-bornheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bornheim",
+"steckbrief": "Stadt mit rund 48.000 Einwohnern, 7 km nordwestlich von Bonn.",
+"frage": "Der Hexenturm im Bornheimer Ortsteil Walberberg stammt vermutlich aus dem 12. Jahrhundert. Wo steht er?",
+"optionen": [
+"Er steht mitten im Walberberger Wald.",
+"Er steht am Friedhof.",
+"Er steht auf dem Marktplatz.",
+"Er steht direkt am Rheinufer."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an einen abgelegenen Ort im Wald denken, wie ihn Hexensagen gern ausmalen. Doch der Walberberger Hexenturm, der Rest einer mittelalterlichen Burg, steht am Friedhof bei der Pfarrkirche St. Walburga. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie; LVR KuLaDig",
+"faktencheck": "korrigiert",
+"id": "189-bornheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bornheim",
+"steckbrief": "Stadt mit rund 48.000 Einwohnern, 7 km nordwestlich von Bonn.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Bornheim?",
+"optionen": [
+"K",
+"BM",
+"SU",
+"EU"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. K liegt nahe, denn Bornheim liegt zwischen Köln und Bonn. Doch Bornheim gehört zum Rhein-Sieg-Kreis, und dessen Hauptkennzeichen ist SU, nach der Kreisstadt Siegburg. Richtig war 3.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "189-bornheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bornheim",
+"steckbrief": "Stadt mit rund 48.000 Einwohnern, 7 km nordwestlich von Bonn.",
+"frage": "Im Bornheimer Ortsteil Botzdorf liegt die Villa Fortuna. Was war sie?",
+"optionen": [
+"Sie war ein römisches Landhaus.",
+"Sie war ein Spielcasino für Kurgäste.",
+"Sie war Sommersitz eines Kölner Bankiers.",
+"Sie war ein Gasthaus für Rheinschiffer."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Fortuna klingt nach Glücksspiel, und Villa nach einem noblen Wohnhaus der Neuzeit. Doch die Villa Fortuna war ein römisches Landhaus. Heute ist sie ein kulturgeschichtliches Bodendenkmal der Stadt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bornheim.de/freizeit-tourismus/stadt-geschichte/geografie-historie",
+"faktencheck": "bestätigt",
+"id": "189-bornheim/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "188-bonn",
+"anschluss": [
+"Bornheim wurde 945 erstmals als Dorf im Bonngau erwähnt.",
+"Einwohner: Bonn hat fast siebenmal so viele wie Bornheim."
+],
+"anschluesse": {
+"188-bonn": [
+"Bornheim wurde 945 erstmals als Dorf im Bonngau erwähnt.",
+"Einwohner: Bonn hat fast siebenmal so viele wie Bornheim."
+],
+"190-bruehl": [
+"Brühl und Bornheim sind fast gleich groß: rund 46.000 und 48.000 Einwohner."
+],
+"191-huerth": [
+"Hürth hat rund 14.000 Einwohner mehr als Bornheim."
+]
+},
+"ags": "05382012",
+"ortsteil": false,
+"km_vom_vorigen": 7.3
+},
+{
+"slug": "190-bruehl",
+"name": "Brühl",
+"lat": 50.83333,
+"lon": 6.9,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Brühl",
+"steckbrief": "Brühl hat rund 46.000 Einwohner und liegt 12 km südlich von Köln.",
+"frage": "Woher stammt der Name der Stadt Brühl?",
+"optionen": [
+"Er stammt von einem galloromanischen Wort für Pferch.",
+"Er stammt vom Brühen in einer alten Färberei.",
+"Er stammt vom Namen eines fränkischen Gutsherrn.",
+"Er stammt von einem germanischen Wort für Quelle."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Beim Namen denkt man ans Brühen, der Klang legt es nahe. Doch er geht auf galloromanisch brogilo zurück, mittellateinisch brogilus: ein eingezäuntes Wiesen- oder Waldstück. Über mittelhochdeutsch brüel wurde daraus Brühl. Richtig war 1.",
+"quelle": "Deutsches Wörterbuch, Neubearbeitung, dwds.de/wb/dwb2/brühl",
+"faktencheck": "korrigiert",
+"id": "190-bruehl/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Brühl",
+"steckbrief": "Brühl hat rund 46.000 Einwohner und liegt 12 km südlich von Köln.",
+"frage": "Wie viele Einwohner leben in Brühl auf einem Quadratkilometer?",
+"optionen": [
+"unter 800",
+"800 bis unter 1.500",
+"1.500 bis unter 2.500",
+"2.500 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Köln lässt an eine dicht bebaute Vorstadt denken. Doch in Brühl gibt es auch Seen und Schlösser. Auf 36,12 Quadratkilometern leben 45.653 Menschen, rund 1.264 je Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "korrigiert",
+"id": "190-bruehl/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Brühl",
+"steckbrief": "Brühl hat rund 46.000 Einwohner und liegt 12 km südlich von Köln.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Roddergrube in Brühl förderte einst Steinkohle.",
+"Das Brühler Eisenwerk fertigte Motorblöcke und Zylinderköpfe.",
+"Die Vorgebirgsbahn hieß im Volksmund „Feurig Elias“."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Bergbau denken viele zuerst an Steinkohle aus dem Ruhrgebiet. Doch die Roddergrube baute Braunkohle ab und machte daraus auch Briketts. Ihr Gelände ist heute rekultiviert und Naherholungsgebiet im Naturpark Rheinland. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Brühl_(Rheinland)",
+"faktencheck": "bestätigt",
+"id": "190-bruehl/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Brühl",
+"steckbrief": "Brühl hat rund 46.000 Einwohner und liegt 12 km südlich von Köln.",
+"frage": "Welche Partei wurde in Brühl bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"Grüne",
+"AfD",
+"SPD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Nähe zu Köln denkt, tippt leicht auf die Grünen. In Brühl reichte es nicht: Hinter der CDU kam die SPD mit 20 %, vor den Grünen mit 17,5 %. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "korrigiert",
+"id": "190-bruehl/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Brühl",
+"steckbrief": "Brühl hat rund 46.000 Einwohner und liegt 12 km südlich von Köln.",
+"frage": "Ein Teil des Max-Ernst-Museums geht auf einen älteren Bau zurück. Wofür wurde dieser ursprünglich errichtet?",
+"optionen": [
+"Er wurde als Tanzpavillon errichtet.",
+"Er wurde als Schulhaus errichtet.",
+"Er wurde als Kaserne errichtet.",
+"Er wurde als Bahnhofsgebäude errichtet."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Museum lässt an einen Bau für Bildung denken, etwa eine Schule. Doch der Brühler Pavillon entstand 1844 als Ausflugslokal, zeitgleich mit der Bahn Köln–Bonn. Später war er Hotel, Kinderheim und Benediktusheim. Max Ernst wurde in Brühl geboren und ging dort als junger Mann tanzen. Richtig war 1.",
+"quelle": "LVR, kulturkenner.de/artikel/im-portraet-max-ernst-museum",
+"faktencheck": "korrigiert",
+"id": "190-bruehl/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Brühl",
+"steckbrief": "Brühl hat rund 46.000 Einwohner und liegt 12 km südlich von Köln.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Brühl?",
+"optionen": [
+"SU",
+"BM",
+"BN",
+"GL"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. So nah an Köln und Bonn liegt ein Großstadtkennzeichen nahe. Doch das Hauptkennzeichen für Brühl ist BM. Daneben können Kreise frühere Kennzeichen ausgeben. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "korrigiert",
+"id": "190-bruehl/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Brühl",
+"steckbrief": "Brühl hat rund 46.000 Einwohner und liegt 12 km südlich von Köln.",
+"frage": "Die Giesler-Brauerei stellte ihre Produktion ein, ihr Sudhaus steht unter Denkmalschutz. Was wurde aus ihm?",
+"optionen": [
+"Es wurde zu einem Hotel umgebaut.",
+"Es wurde zum Sitz der Stadtverwaltung.",
+"Es wurde zu Wohnungen umgebaut.",
+"Es wurde Mittelpunkt eines Einkaufszentrums."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Alte Industriebauten werden oft zu Wohnungen, das liegt nahe. Doch das Sudhaus, die Halle mit den Braukesseln, wurde zum Mittelpunkt der Giesler-Galerie, eines Einkaufszentrums. Gebraut wurde dort einst Giesler-Kölsch. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Brühl_(Rheinland)",
+"faktencheck": "unsicher",
+"id": "190-bruehl/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "189-bornheim",
+"anschluss": [
+"Fläche: Bornheim ist mehr als doppelt so groß wie Brühl.",
+"Einwohner: Bornheim hat nur gut 2.000 mehr als Brühl."
+],
+"anschluesse": {
+"188-bonn": [
+"Bonn hat siebenmal so viele Einwohner wie Brühl.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bonn die Grünen, in Brühl die SPD."
+],
+"189-bornheim": [
+"Fläche: Bornheim ist mehr als doppelt so groß wie Brühl.",
+"Einwohner: Bornheim hat nur gut 2.000 mehr als Brühl."
+],
+"191-huerth": [
+"Hürth hat rund 16.000 Einwohner mehr als Brühl."
+],
+"192-koeln": [
+"Köln hat rund zwanzigmal so viele Einwohner wie Brühl.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Brühl die SPD."
+]
+},
+"ags": "05362012",
+"ortsteil": false,
+"km_vom_vorigen": 11.1
+},
+{
+"slug": "191-huerth",
+"name": "Hürth",
+"lat": 50.8775,
+"lon": 6.87611,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hürth",
+"steckbrief": "Stadt 8 km südwestlich von Köln.",
+"frage": "Wie viele Menschen leben in Hürth?",
+"optionen": [
+"unter 65.000",
+"65.000 bis unter 80.000",
+"80.000 bis unter 100.000",
+"100.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Neben der Millionenstadt Köln verschätzt man sich bei Hürth leicht nach oben. Ende 2025 zählte Hürth 61.732 Einwohner: eine Mittelstadt, keine Großstadt. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "191-huerth/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hürth",
+"steckbrief": "Stadt mit rund 62.000 Einwohnern im Rheinischen Braunkohlerevier, 8 km südwestlich von Köln.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Brüder Schumacher sind gebürtige Hürther.",
+"Der Otto-Maigler-See ist ein natürlicher Eiszeitsee.",
+"Die Hürther Wilhelmshöhe ist eine Abraumhalde."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein See wirkt wie Natur, deshalb klingt die Eiszeit glaubhaft. Doch der Otto-Maigler-See entstand durch Braunkohleabbau und Rekultivierung. Die Wilhelmshöhe ist tatsächlich eine Abraumhalde, und beide Schumacher-Brüder wurden in Hürth geboren. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hürth",
+"faktencheck": "unsicher",
+"id": "191-huerth/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hürth",
+"steckbrief": "Stadt mit rund 62.000 Einwohnern, 8 km südwestlich von Köln.",
+"frage": "Wie hoch war die Wahlbeteiligung in Hürth bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 80 %",
+"80 bis unter 87 %",
+"87 % oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele unterschätzen, wie viele Menschen zur Bundestagswahl gehen, weil Kommunal- und Europawahlen oft schwächer besucht sind. In Hürth gingen 2025 84,1 Prozent der Wahlberechtigten wählen. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "191-huerth/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hürth",
+"steckbrief": "Stadt mit rund 62.000 Einwohnern, 8 km südwestlich von Köln.",
+"frage": "Das 1914 errichtete Braunkohlekraftwerk Goldenberg hatte seine „Zwölf Apostel“. Was war damit gemeint?",
+"optionen": [
+"Gemeint waren zwölf Heiligenfiguren am Portal.",
+"Gemeint waren zwölf Kühltürme in einer Reihe.",
+"Gemeint waren zwölf nach Aposteln benannte Turbinen.",
+"Gemeint waren die zwölf Schornsteine des Kraftwerks."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Aposteln denkt man an Kirchen und Heiligenfiguren. Gemeint waren aber die zwölf Schornsteine des Kraftwerks, einige mit RWE-Schriftzug in Leuchtbuchstaben. Später wurden sie gesprengt. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hürth",
+"faktencheck": "unsicher",
+"id": "191-huerth/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hürth",
+"steckbrief": "Stadt mit rund 62.000 Einwohnern, 8 km südwestlich von Köln.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Hürth?",
+"optionen": [
+"BM",
+"SU",
+"EU",
+"DN"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. SU, EU und DN gehören zu Kreisen rund um Köln, deshalb klingen sie plausibel. In Hürth aber ist BM das Hauptkennzeichen. Richtig war 1.",
+"quelle": "Wikidata P395",
+"faktencheck": "unsicher",
+"id": "191-huerth/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Hürth",
+"steckbrief": "Stadt mit rund 62.000 Einwohnern, 8 km südwestlich von Köln.",
+"frage": "In welchem Zeitraum erhielt Hürth die Stadtrechte?",
+"optionen": [
+"vor 1950",
+"1950 bis 1989",
+"1990 bis 2009",
+"2010 oder später"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Burgen und Reste der Römerzeit lassen eine alte Stadt vermuten. Doch Hürth erhielt die Stadtrechte erst am 27. Juni 1978; bis dahin war es die größte Landgemeinde Deutschlands. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hürth",
+"faktencheck": "bestätigt",
+"id": "191-huerth/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hürth",
+"steckbrief": "Stadt mit rund 62.000 Einwohnern, 8 km südwestlich von Köln.",
+"frage": "1751 wurde in der Gleueler Gemarkung die Grube „Gotteshülfe“ angelegt. Wer legte sie an?",
+"optionen": [
+"Ein Kloster legte die Grube an.",
+"Ein Schöffe und Landwirt legte sie an.",
+"Der Kölner Kurfürst ließ sie anlegen.",
+"Ein Kölner Kaufmann gründete sie."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der fromme Name „Gotteshülfe“ lässt an ein Kloster denken. Angelegt hat die Grube aber der Schöffe und Landwirt Hermann Dümgen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hürth",
+"faktencheck": "unsicher",
+"id": "191-huerth/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hürth",
+"steckbrief": "Stadt mit rund 62.000 Einwohnern, 8 km südwestlich von Köln.",
+"frage": "Anfang 1992 wurde der Bahnhof Kalscheuren in „Hürth-Kalscheuren“ umbenannt. Wer hatte das betrieben und bezahlt?",
+"optionen": [
+"Die Bahn setzte es auf eigene Kosten durch.",
+"Der Rhein-Erft-Kreis betrieb und bezahlte es.",
+"Die Stadt Hürth betrieb und bezahlte es.",
+"Das Land NRW setzte es durch und zahlte."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bahnhofsnamen vergibt meist die Bahn, deshalb liegt sie als Antwort nahe. Doch die Stadt Hürth betrieb die Umbenennung selbst und trug auch die Kosten. Sie versprach sich davon einen Imagegewinn. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hürth",
+"faktencheck": "unsicher",
+"id": "191-huerth/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "190-bruehl",
+"anschluss": [
+"Römerzeit: An der Grenze Hürth–Brühl stand ein Straßenposten.",
+"Bergbau: 1906 fusionierte Hürths Grube Vereinigte Ville mit Brühls Roddergrube."
+],
+"anschluesse": {
+"189-bornheim": [
+"Hürth hat rund 14.000 Einwohner mehr als Bornheim."
+],
+"190-bruehl": [
+"Römerzeit: An der Grenze Hürth–Brühl stand ein Straßenposten.",
+"Bergbau: 1906 fusionierte Hürths Grube Vereinigte Ville mit Brühls Roddergrube."
+],
+"192-koeln": [
+"Köln hat siebzehnmal so viele Einwohner wie Hürth.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Hürth die SPD."
+],
+"193-leverkusen": [
+"Leverkusen hat gut zweieinhalbmal so viele Einwohner wie Hürth."
+]
+},
+"ags": "05362028",
+"ortsteil": false,
+"km_vom_vorigen": 5.2
+},
+{
+"slug": "192-koeln",
+"name": "Köln",
+"lat": 50.94222,
+"lon": 6.95778,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„Die Kapelle St. Maria in den Trümmern wurde 1949/50 in der Ruine der Kirche St. Kolumba errichtet. Um was herum wurde sie gebaut?“ (Optionen bleiben gleich). RÜCKSEITE: „Du hattest [Option] getippt. In Köln liegt ein römischer Fund nahe, die Stadt war schließlich eine Römergründung. Hier aber war es eine Marienfigur: Sie hatte die Zerstörung der Kirche 1943 auf einem Pfeilerrest überstanden, und um sie herum wurde die Kapelle errichtet. Richtig war 3.“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In Köln liegt ein römischer Fund nahe, die Stadt war schließlich eine Römergründung. Hier aber war es eine Marienfigur: Sie war erhalten geblieben, und um sie herum wurde die Kapelle errichtet. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Köln",
+"faktencheck": "korrigiert",
+"id": "192-koeln/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Köln",
+"steckbrief": "Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.",
+"frage": "Wie groß ist das Stadtgebiet von Köln?",
+"optionen": [
+"unter 250 km²",
+"250 bis unter 330 km²",
+"330 bis unter 400 km²",
+"400 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei gut einer Million Menschen denkt man an eine dicht bebaute, kompakte Stadt. Doch Köln reicht weit über die Innenstadt hinaus, mit Waldgebieten wie dem Königsforst und dem Dünnwalder Wald. Die Stadtfläche misst rund 405 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "192-koeln/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Köln",
+"steckbrief": "Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Groß St. Martin geht auf ein Benediktinerkloster zurück.",
+"Die Mülheimer Brücke ist eine Hängebrücke.",
+"Das Römisch-Germanische Museum zeigt vor allem Barockgemälde."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kunstmuseen gibt es in Köln genug, etwa das Wallraf-Richartz-Museum. Doch der Name verrät es: Das Römisch-Germanische Museum zeigt Kunst-, Schmuck- und Alltagsgegenstände aus römischer und merowingischer Epoche. Groß St. Martin geht auf ein Benediktinerkloster zurück, die Mülheimer Brücke ist eine Hängebrücke. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Köln",
+"faktencheck": "unsicher",
+"id": "192-koeln/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Köln",
+"steckbrief": "Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in Köln: Wie viel Prozent holte die stärkste Partei?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an frühere Volksparteien denkt, schätzt die stärkste Partei höher. In Köln lagen aber die Parteien dicht beieinander: Die CDU wurde mit 22,2 % stärkste Kraft, knapp vor den Grünen mit 21,7 %, dahinter folgten SPD und Linke. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "192-koeln/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Köln",
+"steckbrief": "Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.",
+"frage": "Erzbischof Rainald von Dassel überführte 1164 die Gebeine der Heiligen Drei Könige nach Köln. Woher kamen sie?",
+"optionen": [
+"Er brachte sie aus Rom.",
+"Er brachte sie aus Ravenna.",
+"Er brachte sie aus Mailand.",
+"Er brachte sie aus Trier."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rom liegt nahe, schließlich war es das Zentrum der Kirche. Die Gebeine kamen aber aus Mailand. Heute bewahrt sie der Dom im Dreikönigenschrein; die Überführung machte die Stadt zu einem wichtigen Ziel für Pilger. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Köln",
+"faktencheck": "bestätigt",
+"id": "192-koeln/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Köln",
+"steckbrief": "Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.",
+"frage": "Welche dieser Städte ist eine Partnerstadt von Köln?",
+"optionen": [
+"Edinburgh",
+"Lyon",
+"Krakau",
+"Kyōto"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Europäische Nachbarn liegen nahe, und tatsächlich pflegt Köln viele Partnerschaften in Europa, etwa mit Lille, Lüttich und Rotterdam. Die Liste reicht aber weit darüber hinaus, bis nach Peking, Rio de Janeiro und Kyōto. Richtig war 4.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "192-koeln/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„Im Jahr 50 n. Chr. wurde die Siedlung, aus der Köln hervorging, zur römischen Kolonie erhoben. Auf wessen Betreiben geschah das?",
+"steckbrief": "1. Auf Betreiben von Kaiserin Agrippina.",
+"frage": "",
+"optionen": [
+"Auf Betreiben von Kaiser Augustus.",
+"Auf Betreiben von Kaiser Nero.",
+"Auf Betreiben von Kaiser Vespasian.“"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer römischen Stadterhebung denkt man zuerst an einen Kaiser. Es war aber eine Kaiserin: Agrippina, Gattin des Claudius, setzte durch, dass ihr Geburtsort, die Ubiersiedlung, Kolonie wurde. Der römische Name lautete Colonia Claudia Ara Agrippinensium. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Köln",
+"faktencheck": "korrigiert",
+"id": "192-koeln/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Köln",
+"steckbrief": "Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.",
+"frage": "John F. Kennedy sprach 1963 auf dem Kölner Rathausplatz. Mit welchem „alten rheinischen“ Gruß grüßte er die Kölner?",
+"optionen": [
+"Er grüßte mit „Glück auf!“",
+"Er grüßte mit „Kölle Alaaf!“",
+"Er grüßte mit „Helau!“",
+"Er grüßte mit „Grüß Gott!“"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. ‚Helau‘ klingt ebenso nach rheinischem Karneval und liegt darum nahe. Kennedy aber sagte: ‚May I greet you with the old Rhenish saying Kölle Alaaf!‘ Zuvor hatte er sich im Rathaus ins Goldene Buch der Stadt eingetragen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Köln",
+"faktencheck": "korrigiert",
+"id": "192-koeln/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Köln",
+"steckbrief": "Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.",
+"frage": "Nördlich der Kölner Hohenzollernbrücke führt ein begehbarer Tunnel unter dem Rhein hindurch. Wozu wurde er gebaut?",
+"optionen": [
+"Er sollte eine U-Bahn-Linie aufnehmen.",
+"Er diente im Krieg als Luftschutzraum.",
+"Er ist ein Fußweg für Messebesucher.",
+"Er führt eine Fernwärmeleitung unter dem Rhein."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Begehbar“ klingt nach einem Weg für Menschen, und in einer Messestadt läge ein Tunnel für Messebesucher nahe. Gebaut wurde er aber für eine Fernwärmeleitung, die so den Rhein unterquert. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Köln",
+"faktencheck": "bestätigt",
+"id": "192-koeln/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Köln",
+"steckbrief": "Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.",
+"frage": "Kaiser Konstantin traf im Jahr 321 eine Entscheidung für Köln, die im Codex Theodosianus festgehalten ist. Was genehmigte er?",
+"optionen": [
+"Jüdische Gemeindemitglieder durften in den Stadtrat aufgenommen werden.",
+"Die Stadt durfte jährliche Wagenrennen ausrichten.",
+"Die Stadt erhielt das Recht auf einen Jahrmarkt.",
+"Händler durften nachts die Stadttore passieren."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein kaiserlicher Erlass für eine Stadt am Rand des Reiches lässt an Handel denken, etwa an einen Jahrmarkt. Hier ging es um den Stadtrat: Konstantin genehmigte, Mitglieder der jüdischen Gemeinde Kölns in den Rat aufzunehmen. Festgehalten ist das in der römischen Gesetzessammlung Codex Theodosianus. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Köln",
+"faktencheck": "bestätigt",
+"id": "192-koeln/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "191-huerth",
+"anschluss": [
+"Kennzeichen: In Hürth steht BM am Auto, in Köln K.",
+"Einwohner: Köln hat fast 17-mal so viele wie Hürth."
+],
+"anschluesse": {
+"190-bruehl": [
+"Köln hat rund zwanzigmal so viele Einwohner wie Brühl.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Brühl die SPD, in Köln die Grünen."
+],
+"191-huerth": [
+"Kennzeichen: In Hürth steht BM am Auto, in Köln K.",
+"Einwohner: Köln hat fast 17-mal so viele wie Hürth."
+],
+"193-leverkusen": [
+"Köln hat sechsmal so viele Einwohner wie Leverkusen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Leverkusen die SPD, in Köln die Grünen."
+],
+"194-langenfeld": [
+"Köln hat siebzehnmal so viele Einwohner wie Langenfeld.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Langenfeld die SPD, in Köln die Grünen."
+]
+},
+"ags": "05315000",
+"ortsteil": false,
+"km_vom_vorigen": 9.2
+},
+{
+"slug": "193-leverkusen",
+"name": "Leverkusen",
+"lat": 51.03333,
+"lon": 6.98333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leverkusen",
+"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
+"frage": "Woher hat die Stadt Leverkusen ihren Namen?",
+"optionen": [
+"Die Stadt heißt nach einem alten Rittergeschlecht.",
+"Die Stadt heißt nach einem Apotheker und Fabrikanten.",
+"Die Stadt heißt nach einem Bach im Stadtgebiet.",
+"Die Stadt heißt nach einem früheren Kloster."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Endung -kusen klingt nach altem Siedlungsnamen, und an Bäche, Klöster oder Ritter denkt man schnell. Benannt ist die Stadt aber nach Carl Leverkus, Apotheker und Chemieunternehmer. Er verlegte seine Ultramarinfabrik an den Rhein; sie zählt zu den Vorgängern von Bayer. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
+"faktencheck": "unsicher",
+"id": "193-leverkusen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leverkusen",
+"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
+"frage": "Wie groß ist das Stadtgebiet von Leverkusen?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 60 km²",
+"60 bis unter 100 km²",
+"100 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Großstadt erwarten viele eine größere Fläche, ähnlich anderer Großstädte. Leverkusen kommt aber auf 78,87 Quadratkilometer, die Menschen leben also recht dicht beieinander. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "193-leverkusen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Leverkusen",
+"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Wiesdorfer Rheinfähre nach Merkenich fährt noch heute.",
+"Ein Schwager Napoleons besaß einst Schloss Morsbroich.",
+"Die Wupper mündet in Leverkusen in den Rhein."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Fähre klingt glaubwürdig, denn am Rhein fahren vielerorts noch Fähren. Die Wiesdorfer Fähre nach Merkenich wurde aber eingestellt; das alte Wiesdorfer Wappen zeigte sie als goldenen Kahn. Murat, Napoleons Schwager, besaß Schloss Morsbroich tatsächlich, und die Wupper mündet wirklich in Leverkusen. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
+"faktencheck": "unsicher",
+"id": "193-leverkusen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Leverkusen",
+"steckbrief": "Leverkusen hat rund 168.000 Einwohner und grenzt am Rhein an Köln.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Leverkusen die zweitmeisten Zweitstimmen?",
+"optionen": [
+"SPD",
+"Grüne",
+"AfD",
+"CDU"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an das grüne Köln nebenan denkt, tippt leicht auf die Grünen. In Leverkusen kamen sie aber nur auf 11,8 Prozent. Zweitstärkste wurde die SPD mit 21,4 Prozent, hinter der CDU mit 28 Prozent; die AfD folgte mit 17,2 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "193-leverkusen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leverkusen",
+"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
+"frage": "1929 unterschrieb Kölns Oberbürgermeister Konrad Adenauer ein Abkommen, das Schlebusch in Köln eingliedern sollte. Was wurde daraus?",
+"optionen": [
+"Schlebusch wurde tatsächlich ein Stadtteil von Köln.",
+"Das Abkommen wurde später für ungültig erklärt.",
+"Schlebusch blieb danach dauerhaft eine eigene Gemeinde.",
+"Schlebusch wurde stattdessen ein Teil von Opladen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mit der Unterschrift des Kölner Oberbürgermeisters wirkte die Sache besiegelt, Köln war ja der große Nachbar. Doch das Abkommen wurde später für ungültig erklärt. Schlebusch ging in der neuen Stadt Leverkusen auf, zusammen mit Wiesdorf, Steinbüchel und Rheindorf. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
+"faktencheck": "unsicher",
+"id": "193-leverkusen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leverkusen",
+"steckbrief": "Leverkusen hat rund 168.000 Einwohner und grenzt am Rhein an Köln.",
+"frage": "Wie weit ist es von Leverkusen in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"unter 10 km",
+"10 bis unter 20 km",
+"20 bis unter 35 km",
+"35 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer Leverkusen dem Kölner Raum zuordnet, schätzt Düsseldorf oft weit entfernt. Tatsächlich sind es nur 25 Kilometer Luftlinie bis zur Landeshauptstadt. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "193-leverkusen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leverkusen",
+"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
+"frage": "Das erste Bayer-Kreuz entstand 1933 als riesige Leuchtwerbung. Was wurde aus dieser ersten Anlage?",
+"optionen": [
+"Sie leuchtet bis heute an derselben Stelle.",
+"Sie wurde später auf LED-Lampen umgerüstet.",
+"Sie wurde nach dem Krieg wieder eingeschaltet.",
+"Sie wurde abgeschaltet und im Krieg demontiert."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer das heutige Bayer-Kreuz kennt, hält es leicht für das Original. Die erste Anlage wurde aber 1939 abgeschaltet und 1944 im Krieg demontiert. Das heutige Kreuz von 1958 ist eine neue, kleinere Konstruktion an anderer Stelle; erst sie bekam 2009 LEDs. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
+"faktencheck": "korrigiert",
+"id": "193-leverkusen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„Bracknell in England ist Partnerstadt Leverkusens. Wie kam Leverkusen zu dieser Partnerschaft?“ Option 2: „Bergisch Neukirchen brachte sie beim Zusammenschluss 1975 mit.“ Option 3: „Opladen brachte sie beim Zusammenschluss 1975 mit.“ – RÜCKSEITE: „Du hattest [Option] getippt. Naheliegend wäre, dass Leverkusen den Kontakt selbst geknüpft hat. Geschlossen hatte die Partnerschaft aber 1973 die Stadt Opladen. Als sich Opladen 1975 mit Leverkusen zusammenschloss, führte Leverkusen sie weiter. Richtig war 3.“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass Leverkusen den Kontakt selbst geknüpft hat. Geschlossen hatte die Partnerschaft aber Opladen. Als Opladen Teil Leverkusens wurde, übernahm Leverkusen sie. Hauptziel war, die europäische Einheit zu stärken. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
+"faktencheck": "korrigiert",
+"id": "193-leverkusen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leverkusen",
+"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
+"frage": "Der Neuland-Park am Leverkusener Rheinufer war Gelände einer Landesgartenschau. Worauf wurde er angelegt?",
+"optionen": [
+"Er liegt auf einer ehemaligen Giftmülldeponie.",
+"Er liegt auf einem früheren Militärflugplatz.",
+"Er liegt auf dem Gelände einer Zeche.",
+"Er liegt auf einer früheren Pferderennbahn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Park am Fluss denkt man an alte Wiesen oder einstige Industrieflächen. Der Neuland-Park entstand aber auf einer ehemaligen Giftmülldeponie. Sie wurde mit speziellen Planen und Abdichtungen saniert, bevor die Landesgartenschau kam. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
+"faktencheck": "unsicher",
+"id": "193-leverkusen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "192-koeln",
+"anschluss": [
+"Der Leverkusener Carl-Duisberg-Park liegt teilweise auf Kölner Stadtgebiet.",
+"Einwohner: Köln hat rund sechsmal so viele wie Leverkusen."
+],
+"anschluesse": {
+"191-huerth": [
+"Leverkusen hat gut zweieinhalbmal so viele Einwohner wie Hürth."
+],
+"192-koeln": [
+"Der Leverkusener Carl-Duisberg-Park liegt teilweise auf Kölner Stadtgebiet.",
+"Einwohner: Köln hat rund sechsmal so viele wie Leverkusen."
+],
+"194-langenfeld": [
+"Leverkusen hat fast dreimal so viele Einwohner wie Langenfeld."
+]
+},
+"ags": "05316000",
+"ortsteil": false,
+"km_vom_vorigen": 10.3
+},
+{
+"slug": "194-langenfeld",
+"name": "Langenfeld",
+"lat": 51.11667,
+"lon": 6.95,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenfeld",
+"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
+"frage": "Im Langenfelder Stadtwappen prangt ein goldenes Posthorn. Wofür steht es?",
+"optionen": [
+"Es erinnert an eine alte Poststation.",
+"Es erinnert an alte Jagdrechte im Wald.",
+"Es zeigt, dass hier Hörner gefertigt wurden.",
+"Es steht für die Blasmusik der Stadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Horn lässt an Jagd denken, doch hier geht es um Post: Es erinnert an die alte Posthalterei „im langen Feld“. Sie war eine Station der Fürsten von Thurn und Taxis an der Straße von Köln nach Arnheim. Der rote Löwe darunter steht dafür, dass Langenfeld einst zur Grafschaft Berg gehörte. Richtig war 1.",
+"quelle": "Stadt Langenfeld, langenfeld.de (Stadtwappen, Stadtgeschichte)",
+"faktencheck": "korrigiert",
+"id": "194-langenfeld/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Langenfeld",
+"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
+"frage": "Wie viele Einwohner leben in Langenfeld rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 3.000",
+"3.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an die nahen Großstädte denkt, schätzt die Dichte leicht zu hoch. Langenfeld ist aber keine Großstadt: Rechnerisch leben dort 1.454 Menschen auf einem Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "194-langenfeld/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Langenfeld",
+"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine gleislose Bahn fuhr einst nach Monheim.",
+"Eine Straßenbahn fährt bis heute nach Ohligs.",
+"Das Naturschutzgebiet Further Moor liegt in Langenfeld."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die gleislose Bahn klingt erfunden, sie fuhr aber von 1904 bis 1908 wirklich nach Monheim, als früher Oberleitungsbus. Gelogen war die Straßenbahn: Früher fuhr eine nach Solingen-Ohligs, heute gibt es sie nicht mehr. Das Further Moor ist tatsächlich Naturschutzgebiet. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "194-langenfeld/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Langenfeld",
+"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
+"frage": "Wie hoch war die Wahlbeteiligung in Langenfeld bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 77 %",
+"77 bis unter 83 %",
+"83 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen eine Wahlbeteiligung im Mittelfeld, weil Großstädte oft niedriger liegen. Langenfeld lag aber hoch: Bei der Bundestagswahl 2025 gingen 85,2 Prozent der Wahlberechtigten zur Wahl. Stärkste Partei wurde die CDU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "194-langenfeld/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenfeld",
+"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
+"frage": "In Wiescheid arbeiteten Männer als Schalenschneider. Was stellten sie her?",
+"optionen": [
+"Sie fertigten Holzgriffe für Messer.",
+"Sie drechselten hölzerne Obstschalen für Märkte.",
+"Sie schnitten Knöpfe aus Muschelschalen.",
+"Sie schälten Baumrinde für Gerbereien."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Schale“ klingt nach Obstschüssel, gemeint sind aber die Griffschalen eines Messers. Männer aus Wiescheid schnitten in Lohnarbeit Holzgriffe für die Solinger Schneidwarenindustrie. Ein wiederaufgebauter Schalenschneiderkotten erinnert heute daran. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
+"faktencheck": "unsicher",
+"id": "194-langenfeld/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Langenfeld",
+"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
+"frage": "Wie weit ist es von Langenfeld in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"unter 10 km",
+"10 bis unter 20 km",
+"20 bis unter 30 km",
+"30 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Fahrzeiten und Straßenkilometer im Kopf hat, schätzt die Strecke oft zu lang. In Luftlinie trennen Langenfeld und die Landeshauptstadt Düsseldorf nur 17 Kilometer. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "194-langenfeld/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenfeld",
+"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
+"frage": "Der Langenfelder Automobilrennfahrer Willi Bergmeister trat auch als Förderer hervor. Wen förderte er?",
+"optionen": [
+"Er förderte Sebastian Vettel.",
+"Er förderte Nico Rosberg.",
+"Er förderte Michael Schumacher.",
+"Er förderte Jochen Rindt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Vettel und Rosberg liegen als deutsche Weltmeister nahe, doch Michael Schumacher machte in den 1980er-Jahren bei Willi Bergmeister seine Lehre als Kfz-Mechaniker. Auch Bergmeisters Söhne Tim und Jörg wurden Rennfahrer, Jörg lebt in Langenfeld. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "194-langenfeld/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenfeld",
+"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
+"frage": "Am Wenzelnberg in Langenfeld steht ein Mahnmal. Woran erinnert es?",
+"optionen": [
+"Es erinnert an verunglückte Bergleute.",
+"Es erinnert an von Gestapo-Leuten ermordete Häftlinge.",
+"Es erinnert an die Opfer eines Flugzeugabsturzes.",
+"Es erinnert an die Toten einer Hochwasserflut."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Schlucht lässt an ein Unglück denken, doch das Mahnmal erinnert an ein Verbrechen: Kurz vor Kriegsende ermordeten Gestapo- und Kripo-Leute in der Wenzelnbergschlucht Häftlinge, die meisten aus dem Zuchthaus Lüttringhausen. Nach Kriegsende mussten NSDAP-Mitglieder die Toten ausgraben, 1965 wurden sie am Mahnmal beigesetzt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "194-langenfeld/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenfeld",
+"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
+"frage": "Ende 2008 baute Langenfeld die Schuldenuhr am Rathaus ab. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Die Uhr war defekt und nicht mehr reparabel.",
+"Ein Gericht untersagte die Anzeige am Rathaus.",
+"Die Landesregierung ließ alle Schuldenuhren abbauen.",
+"Die Stadt hatte ihr Schuldenziel erreicht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Abbau klingt nach Defekt oder Ärger, doch der Grund war ein Erfolg: Im Oktober 2008 hatte Langenfeld sein Schuldenziel erreicht. Die Uhr hatte die Schulden von Stadt, Land und Bund gezeigt und wurde danach an Grevenbroich verliehen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "194-langenfeld/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenfeld",
+"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
+"frage": "Mit welcher Sportart wurde der FC Langenfeld mehrmals deutscher Mannschaftsmeister?",
+"optionen": [
+"Der Verein siegte im Badminton.",
+"Der Verein siegte im Fußball.",
+"Der Verein siegte im Tischtennis.",
+"Der Verein siegte im Feldhockey."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „FC“ klingt nach Fußball, doch der FC Langenfeld ist im Badminton zu Hause und wurde dort zweimal deutscher Mannschaftsmeister. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
+"faktencheck": "korrigiert",
+"id": "194-langenfeld/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "193-leverkusen",
+"anschluss": [
+"Kennzeichen: In Langenfeld steht ME am Auto, in Leverkusen LEV.",
+"Einwohner: Leverkusen hat fast dreimal so viele wie Langenfeld."
+],
+"anschluesse": {
+"192-koeln": [
+"Köln hat siebzehnmal so viele Einwohner wie Langenfeld.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Langenfeld die SPD."
+],
+"193-leverkusen": [
+"Kennzeichen: In Langenfeld steht ME am Auto, in Leverkusen LEV.",
+"Einwohner: Leverkusen hat fast dreimal so viele wie Langenfeld."
+],
+"195-duesseldorf": [
+"Düsseldorf hat gut zehnmal so viele Einwohner wie Langenfeld."
+]
+},
+"ags": "05158020",
+"ortsteil": false,
+"km_vom_vorigen": 9.6
+},
+{
+"slug": "195-duesseldorf",
+"name": "Düsseldorf",
+"lat": 51.22556,
+"lon": 6.77667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Düsseldorf",
+"steckbrief": "Düsseldorf hat rund 620.000 Einwohner und ist Landeshauptstadt Nordrhein-Westfalens am Rhein.",
+"frage": "Seit der Stadterhebung führt Düsseldorf einen Anker im Wappen. Welche Erklärung gibt die Stadt für den Anker?",
+"optionen": [
+"Er erinnert an eine große Rheinflut.",
+"Er kommt von den Herzögen von Berg.",
+"Er erinnert an einen Ankerfund im Rhein.",
+"Er steht für die Beziehung zur Rheinschifffahrt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Heute hält der Löwe der Herzöge von Berg den Anker, daher wirkt er wie ein Erbe der Landesherren. Doch der Anker war zuerst da: Ursprünglich zeigte das Stadtwappen nur ihn. Er steht laut Stadt für die Beziehung zur Rheinschifffahrt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.duesseldorf.de/rathaus-online/wappenzeichen-fuer-privaten-gebrauch",
+"faktencheck": "bestätigt",
+"id": "195-duesseldorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Düsseldorf",
+"steckbrief": "Düsseldorf hat rund 620.000 Einwohner und ist Landeshauptstadt Nordrhein-Westfalens am Rhein.",
+"frage": "Wie viele Einwohner leben in Düsseldorf im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 3.000",
+"3.000 bis unter 4.500",
+"4.500 bis unter 6.000",
+"6.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Landeshauptstadt denkt man an Hochhäuser und dichtes Gedränge. Der Durchschnitt gilt aber für das ganze Stadtgebiet, nicht nur für die Innenstadt. So kommen auf einen Quadratkilometer im Schnitt 2.849 Einwohner. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "195-duesseldorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Düsseldorf",
+"steckbrief": "Düsseldorf hat rund 620.000 Einwohner und ist Landeshauptstadt Nordrhein-Westfalens am Rhein.",
+"frage": "Im Düsseldorfer Stadtteil Eller liegen Rathaus und Kirche am Gertrudisplatz. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Rathaus ist ein Bau der Neorenaissance.",
+"Die Gertrudiskirche wurde nahezu zeitgleich mit dem Rathaus neu gebaut.",
+"Die Gertrudiskirche ist ein Bau des Barock."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Barockbau klingt nach altem Dorfkern und wäre gut denkbar. Doch die Gertrudiskirche ist neugotisch; ihr Neubau entstand nahezu zeitgleich mit dem Rathaus. Rathaus, Kirche und Marktplatz bilden eine städtebauliche Anlage, die als Ganzes geschützt ist, nicht nur einzelne Gebäude. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.duesseldorf.de/denkmalschutz",
+"faktencheck": "korrigiert",
+"id": "195-duesseldorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Düsseldorf",
+"steckbrief": "Düsseldorf hat rund 620.000 Einwohner und ist Landeshauptstadt Nordrhein-Westfalens am Rhein.",
+"frage": "Bundestagswahl 2025 in Düsseldorf: Wie viel Prozent der Zweitstimmen holte die stärkste Partei?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In Großstädten verteilen sich die Stimmen oft auf viele Parteien, deshalb erwartet man einen knappen Sieger. In Düsseldorf lag die CDU bei der Bundestagswahl 2025 aber mit 28 Prozent deutlich vorn; SPD und Grüne folgten fast gleichauf. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "195-duesseldorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Düsseldorf",
+"steckbrief": "Düsseldorf hat rund 620.000 Einwohner und ist Landeshauptstadt Nordrhein-Westfalens am Rhein.",
+"frage": "Kurfürst Carl Theodor gab 1755 Schloss Benrath in Auftrag. Wofür war es gedacht? (Rückseite unverändert. Negativnachweis 3 neu: Weg (a). Laut LVR war Benrath als „Jagd- und Lustschloss“ im Bautyp der Maison de plaisance geplant, also nicht als Wehrbau.)",
+"optionen": [
+"Er wollte von dort dauerhaft regieren.",
+"Es sollte eine Akademie für Gartenkunst werden.",
+"Es sollte als Festung den Rhein sichern.",
+"Es sollte sein Sommersitz werden."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Kurfürstenschloss hält man leicht für einen Regierungssitz. Benrath war aber ein kurfürstlicher Sommersitz. Nicolas de Pigage schuf Schloss und Park als Gesamtkunstwerk. Der Küchengarten versorgte den Hofstaat bei seinen Aufenthalten; war der Hof fort, gingen die Erträge an den Gutshof. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.duesseldorf.de/stadtgruen/park/schlosspark-benrath",
+"faktencheck": "korrigiert",
+"id": "195-duesseldorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Düsseldorf",
+"steckbrief": "Düsseldorf hat rund 620.000 Einwohner und ist Landeshauptstadt Nordrhein-Westfalens am Rhein.",
+"frage": "Wie groß ist das Stadtgebiet von Düsseldorf?",
+"optionen": [
+"unter 250 km²",
+"250 bis unter 350 km²",
+"350 bis unter 450 km²",
+"450 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer so großen Stadt schätzt man leicht ein riesiges Stadtgebiet. Tatsächlich misst Düsseldorf 217,41 Quadratkilometer und liegt damit in der kleinsten Spanne. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "195-duesseldorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Düsseldorf",
+"steckbrief": "Düsseldorf hat rund 620.000 Einwohner und ist Landeshauptstadt Nordrhein-Westfalens am Rhein.",
+"frage": "Im Juni 2014 traf Sturm Ela Düsseldorf; allein etwa 3.000 Straßenbäume gingen verloren. Wie viele Bäume verlor die Stadt insgesamt?",
+"optionen": [
+"unter 10.000",
+"10.000 bis unter 50.000",
+"50.000 bis unter 100.000",
+"100.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an umgestürzte Straßenbäume denkt, schätzt eher niedrig. Doch der Sturm traf auch Parks und Wälder: Im Schlosspark Benrath riss er Schneisen und Lichtungen in den Parkwald. Insgesamt verlor Düsseldorf rund 30.000 Bäume. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.duesseldorf.de/stadtgruen/park/schlosspark-benrath",
+"faktencheck": "korrigiert",
+"id": "195-duesseldorf/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Düsseldorf",
+"steckbrief": "Düsseldorf hat rund 620.000 Einwohner und ist Landeshauptstadt Nordrhein-Westfalens am Rhein.",
+"frage": "Um 1901 entstand in Düsseldorf-Eller ein Rathaus aus rotem Backstein. Wofür wurde es gebaut?",
+"optionen": [
+"Es war eine Außenstelle der Düsseldorfer Stadtverwaltung.",
+"Es war das Kreishaus eines Landkreises.",
+"Es war ein Amtsgericht für die Vororte.",
+"Es war Sitz der selbstständigen Gemeinde Eller."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Heute gehört Eller zu Düsseldorf, deshalb liegt eine städtische Außenstelle nahe. Doch damals war Eller eine selbstständige Gemeinde, die erst später eingemeindet wurde; das Rathaus war ihr Verwaltungssitz. Den Entwurf lieferte Kreisbaumeister Robert Kohlhagen. Das Gebäude ist nahezu authentisch erhalten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.duesseldorf.de/denkmalschutz",
+"faktencheck": "bestätigt",
+"id": "195-duesseldorf/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Düsseldorf",
+"steckbrief": "Düsseldorf hat rund 620.000 Einwohner und ist Landeshauptstadt Nordrhein-Westfalens am Rhein.",
+"frage": "Der Heraldiker Otto Hupp nahm sich 1938 das Düsseldorfer Stadtwappen vor. Was tat er?",
+"optionen": [
+"Er ersetzte den Löwen durch einen Adler.",
+"Er befreite es von späteren Zusätzen.",
+"Er fügte den Anker erstmals hinzu.",
+"Er machte aus dem roten Löwen einen goldenen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In jener Zeit hätte ein Adler als Zeichen des Reiches nahegelegen. Der Heraldiker Otto Hupp tat etwas anderes: Er befreite das Wappen von später hinzugefügten Elementen. So entstand die heute gebräuchliche Form. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.duesseldorf.de/rathaus-online/wappenzeichen-fuer-privaten-gebrauch",
+"faktencheck": "bestätigt",
+"id": "195-duesseldorf/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "194-langenfeld",
+"anschluss": [
+"Kennzeichen: In Düsseldorf steht D am Auto, in Langenfeld ME.",
+"Bundestagswahl 2025: Langenfeld hatte eine höhere Wahlbeteiligung als Düsseldorf."
+],
+"anschluesse": {
+"194-langenfeld": [
+"Kennzeichen: In Düsseldorf steht D am Auto, in Langenfeld ME.",
+"Bundestagswahl 2025: Langenfeld hatte eine höhere Wahlbeteiligung als Düsseldorf."
+],
+"196-ratingen": [
+"Düsseldorf hat siebenmal so viele Einwohner wie Ratingen."
+]
+},
+"ags": "05111000",
+"ortsteil": false,
+"km_vom_vorigen": 17.1
+},
+{
+"slug": "196-ratingen",
+"name": "Ratingen",
+"lat": 51.3,
+"lon": 6.85,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ratingen",
+"steckbrief": "Stadt mit rund 89.000 Einwohnern, 10 km nordöstlich von Düsseldorf.",
+"frage": "Ratingens Baumwollspinnerei, gebaut Ende des 18. Jahrhunderts, erhielt den englischen Namen Cromford. Warum? (Die Rückseite bleibt unverändert. Sie nennt „Elberfelder Kaufmann“ und widerlegt damit auch die neue Option 4.)",
+"optionen": [
+"Ihr Gründer war ein Engländer.",
+"Der Name ehrte einen englischen Geldgeber.",
+"Sie wurde nach einem englischen Vorbild benannt.",
+"Sie hieß nach dem Geburtsort ihres Gründers."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem englischen Gründer. Gebaut hat die Spinnerei aber der Elberfelder Kaufmann Johann Gottfried Brügelmann. Benannt wurde sie nach dem englischen Vorbild Cromford. Sie war die erste mechanische Baumwollspinnerei auf dem europäischen Kontinent. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stadt-ratingen.de/stadtgeschichte/geschichte-der-stadt-ratingen/chronik-der-stadt-ratingen",
+"faktencheck": "korrigiert",
+"id": "196-ratingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ratingen",
+"steckbrief": "Stadt 10 km nordöstlich von Düsseldorf, der Landeshauptstadt.",
+"frage": "Wie viele Einwohner hat Ratingen?",
+"optionen": [
+"unter 40.000",
+"40.000 bis unter 60.000",
+"60.000 bis unter 80.000",
+"80.000 bis unter 100.000"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Neben Düsseldorf wirkt Ratingen leicht wie eine Kleinstadt, und mancher schätzt deshalb zu niedrig. Tatsächlich leben in Ratingen 88.914 Menschen (Stand 31.12.2025), unter der Großstadtgrenze von 100.000. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "196-ratingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ratingen",
+"steckbrief": "Stadt mit rund 89.000 Einwohnern, 10 km nordöstlich von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ratingen blieb im Zweiten Weltkrieg fast unzerstört.",
+"Erst besetzten Amerikaner Ratingen, dann übernahmen Briten die Verwaltung.",
+"Aus dem aufgelösten Minoritenkloster wurde eine Schule."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war die Verschonung. Bombenkrieg verbindet man eher mit Großstädten, doch Ratingen gilt als die am stärksten zerstörte Stadt im Kreis Düsseldorf-Mettmann. Zuerst besetzten amerikanische Truppen die Stadt, dann übergaben sie die Militärverwaltung an die Briten. Aus dem Minoritenkloster wurde nach der Auflösung eine katholische und eine evangelische Volksschule. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.stadt-ratingen.de/stadtgeschichte/geschichte-der-stadt-ratingen/chronik-der-stadt-ratingen",
+"faktencheck": "korrigiert",
+"id": "196-ratingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Ratingen",
+"steckbrief": "Stadt mit rund 89.000 Einwohnern, 10 km nordöstlich von Düsseldorf.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in Ratingen: Welche Partei wurde hinter der CDU zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"GRÜNE",
+"FDP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Speckgürtel einer Großstadt vermutet man oft die Grünen oder die FDP vorn. In Ratingen holte die SPD 18,7 Prozent, vor AfD mit 13,5 und Grünen mit 13 Prozent; die FDP kam auf 6,4. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "196-ratingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ratingen",
+"steckbrief": "Stadt mit rund 89.000 Einwohnern, 10 km nordöstlich von Düsseldorf.",
+"frage": "1341 bekam Ratingen ein Vorrecht: Alle Einwohner des Amts Angermund mussten hier eine bestimmte Ware kaufen. Welche?",
+"optionen": [
+"Sie mussten hier ihr Salz kaufen.",
+"Sie mussten hier ihr Tuch kaufen.",
+"Sie mussten hier ein Würzmittel fürs Bier kaufen.",
+"Sie mussten hier ihren Wein kaufen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Salz liegt nahe, denn mit Salz wurde im Mittelalter viel Geld verdient. Ratingen aber erhielt das Grütprivileg. Grüt diente zum Würzen und Haltbarmachen von Bier. Der Landesherr bekam dafür eine jährliche Abgabe. Später ersetzte Hopfen die Grüt; die Grütstraße markiert, wo das Grüthaus stand. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stadt-ratingen.de/stadtgeschichte/geschichte-der-stadt-ratingen/chronik-der-stadt-ratingen",
+"faktencheck": "bestätigt",
+"id": "196-ratingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ratingen",
+"steckbrief": "Stadt mit rund 89.000 Einwohnern, 10 km nordöstlich von Düsseldorf.",
+"frage": "Wie viele Einwohner leben in Ratingen durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 700",
+"700 bis unter 900",
+"900 bis unter 1.200"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt vor den Toren einer Großstadt hält man leicht für dünn besiedelt. Ratingen hat aber 88.914 Einwohner auf 88,74 Quadratkilometern, also 1002 je Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "196-ratingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ratingen",
+"steckbrief": "Stadt mit rund 89.000 Einwohnern, 10 km nordöstlich von Düsseldorf.",
+"frage": "Ratingens Partnerschaft mit dem französischen Le Quesnoy begann 1963. Wer schloss sie damals?",
+"optionen": [
+"Die damals unabhängige Gemeinde Hösel.",
+"Die Stadt Ratingen selbst.",
+"Die damals unabhängige Gemeinde Lintorf.",
+"Eine Ratinger Schule über einen Schüleraustausch."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist die Stadt selbst, schließlich zählt Le Quesnoy zu Ratingens Partnerstädten. Geschlossen hat die Partnerschaft aber Hösel, damals noch eine unabhängige Gemeinde. Hösel kam erst mit der Kommunalen Neugliederung zu Ratingen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stadt-ratingen.de/kultur-und-tourismus/museum-ratingen/ausstellungen",
+"faktencheck": "bestätigt",
+"id": "196-ratingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ratingen",
+"steckbrief": "Stadt mit rund 89.000 Einwohnern, 10 km nordöstlich von Düsseldorf.",
+"frage": "1641 wurde Ratingen zerstört. Wer zerstörte die Stadt?",
+"optionen": [
+"Schwedische Truppen zerstörten die Stadt.",
+"Kaiserliche Truppen zerstörten die Stadt.",
+"Französische Truppen zerstörten die Stadt.",
+"Englische Truppen zerstörten die Stadt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Zerstörungen im Dreißigjährigen Krieg denkt man zuerst an die Schweden. Ratingen aber zerstörten kaiserliche Truppen, also Soldaten im Dienst des Kaisers. Danach lebten nur noch wenige Menschen in der Stadt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-ratingen.de/stadtgeschichte/geschichte-der-stadt-ratingen/chronik-der-stadt-ratingen",
+"faktencheck": "korrigiert",
+"id": "196-ratingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ratingen",
+"steckbrief": "Stadt mit rund 89.000 Einwohnern, 10 km nordöstlich von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In Eckamp wurde einst Spiegelglas hergestellt.",
+"Eine Ratinger Fabrik baute einst Lastautomobile.",
+"Die Stadtrechte verlieh Ratingen ein Kölner Erzbischof."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war der Erzbischof. Köln klingt plausibel, denn die Ratinger Pfarrkirche wurde der Kölner Dompropstei eingegliedert. Die Stadtrechte verliehen aber Graf Adolf von Berg und Gräfin Elisabeth. Spiegelglas kam aus der Rheinischen Spiegelglasfabrik, Lastautos aus der Deutschen-Last-Automobil-Fabrik. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.stadt-ratingen.de/stadtgeschichte/geschichte-der-stadt-ratingen/chronik-der-stadt-ratingen",
+"faktencheck": "bestätigt",
+"id": "196-ratingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "195-duesseldorf",
+"anschluss": [
+"Kennzeichen: In Düsseldorf steht D am Auto, in Ratingen ME.",
+"Einwohner: Düsseldorf hat fast siebenmal so viele wie Ratingen."
+],
+"anschluesse": {
+"195-duesseldorf": [
+"Kennzeichen: In Düsseldorf steht D am Auto, in Ratingen ME.",
+"Einwohner: Düsseldorf hat fast siebenmal so viele wie Ratingen."
+],
+"197-duisburg": [
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Ratingen die CDU.",
+"Duisburg hat fast sechsmal so viele Einwohner wie Ratingen."
+],
+"198-muelheim": [
+"Mülheim an der Ruhr hat fast doppelt so viele Einwohner wie Ratingen."
+]
+},
+"ags": "05158028",
+"ortsteil": false,
+"km_vom_vorigen": 9.7
+},
+{
+"slug": "197-duisburg",
+"name": "Duisburg",
+"lat": 51.43222,
+"lon": 6.76111,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Duisburg",
+"steckbrief": "Großstadt mit rund 500.000 Einwohnern, 23 km Luftlinie von der Landeshauptstadt Düsseldorf.",
+"frage": "Hinter dem Namen „Tiger & Turtle“ steckt eine Duisburger Attraktion. Was ist es?",
+"optionen": [
+"Es ist ein Zoogehege für Tiger und Schildkröten.",
+"Es ist ein Kunstwerk: eine leuchtende Achterbahn.",
+"Es ist ein Ausflugsschiff für Hafenrundfahrten.",
+"Es ist eine Kneipe mit Livemusik."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Tieren, und weil Duisburg einen Zoo hat, liegt ein Gehege als Deutung nahe. Doch „Tiger & Turtle“ ist ein Kunstwerk: eine leuchtende Achterbahn, die die Stadt zu ihren Ausflugszielen zählt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, duisburg.de/tourismus/",
+"faktencheck": "bestätigt",
+"id": "197-duisburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Duisburg",
+"steckbrief": "Großstadt mit rund 500.000 Einwohnern, 23 km Luftlinie von der Landeshauptstadt Düsseldorf.",
+"frage": "Wann wird Duisburg erstmals in einer Quelle erwähnt?",
+"optionen": [
+"vor 600",
+"600 bis 799",
+"800 bis 999",
+"1000 oder später"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer bei Duisburg an Hochöfen und Hafen denkt, schätzt die Stadt leicht jünger. Erstmals erwähnt wird Duisburg aber schon 883. Das betrifft nur den Beleg; wie lange vorher dort schon Menschen lebten, sagt die Jahreszahl nicht. Richtig war 3.",
+"quelle": "GRUNDDATEN ersterwaehnung, Wikidata P1249; Altbestand geschichte.json",
+"faktencheck": "bestätigt",
+"id": "197-duisburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Duisburg",
+"steckbrief": "Großstadt mit rund 500.000 Einwohnern, 23 km Luftlinie von der Landeshauptstadt Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Rheinhausen gehört zur Stadt Duisburg.",
+"Im Ruhrorter Hafen gibt es keinen Frachtverkehr mehr.",
+"Die mittelalterliche Salvatorkirche steht am Duisburger Burgplatz."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Aussage 2 klingt plausibel, weil viele alte Hafenbecken heute nur noch Ausflugsziele sind. In Ruhrort werden aber weiter Güter umgeschlagen, daneben gibt es Hafenrundfahrten. Der Duisburger Hafen gilt als größter Binnenhafen der Welt. Rheinhausen ist ein Duisburger Stadtbezirk, die mittelalterliche Salvatorkirche steht am Burgplatz. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, duisburg.de/tourismus/",
+"faktencheck": "korrigiert",
+"id": "197-duisburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Duisburg",
+"steckbrief": "Großstadt mit rund 500.000 Einwohnern, 23 km Luftlinie von der Landeshauptstadt Düsseldorf.",
+"frage": "Wie hoch war die Wahlbeteiligung in Duisburg bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 81 %",
+"81 bis unter 84 %",
+"84 % oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 lockte viele an die Urnen, deshalb schätzt man leicht hoch. In Duisburg lag die Wahlbeteiligung aber bei 76,5 Prozent. Stärkste Partei bei den Zweitstimmen wurde die SPD vor CDU und AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "197-duisburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Duisburg",
+"steckbrief": "Großstadt mit rund 500.000 Einwohnern, 23 km Luftlinie von der Landeshauptstadt Düsseldorf.",
+"frage": "Auf ihrer Wirtschaftsseite gibt sich die Stadt Duisburg einen Beinamen. Welchen?",
+"optionen": [
+"Duisburg nennt sich „Werkbank des Westens“.",
+"Duisburg nennt sich „Europas Stahlherz“.",
+"Duisburg nennt sich „Kohlenkeller der Republik“.",
+"Duisburg nennt sich „Schmiede des Rheinlands“."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet liegt die Kohle als Markenzeichen nahe, denn sie prägte das ganze Revier. Duisburg stellt aber den Stahl in den Mittelpunkt und nennt sich „Europas Stahlherz“. Dazu wirbt die Stadt mit ihrer Lage mitten im Ballungsraum Rhein-Ruhr und als Logistikdrehscheibe. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, duisburg.de/wirtschaft/",
+"faktencheck": "bestätigt",
+"id": "197-duisburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Duisburg",
+"steckbrief": "Großstadt mit rund 500.000 Einwohnern, 23 km Luftlinie von der Landeshauptstadt Düsseldorf.",
+"frage": "Welches Kennzeichen tragen die meisten in Duisburg zugelassenen Autos?",
+"optionen": [
+"OB",
+"MH",
+"DU",
+"ME"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In Ruhrgebiet und Rheinland liegen die Zulassungsbezirke dicht beieinander, und in Grenznähe sieht man viele fremde Schilder: OB aus Oberhausen, MH aus Mülheim an der Ruhr, ME aus dem Kreis Mettmann. Auf den meisten Duisburger Autos steht aber DU. Richtig war 3.",
+"quelle": "GRUNDDATEN kfz, Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "197-duisburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Duisburg",
+"steckbrief": "Großstadt mit rund 500.000 Einwohnern auf rund 233 Quadratkilometern, 23 km Luftlinie von Düsseldorf.",
+"frage": "Wie viele Seen gibt es in Duisburg nach Angaben der Stadt?",
+"optionen": [
+"unter 5",
+"5 bis unter 10",
+"10 bis unter 20",
+"20 oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt mit Hochöfen und Hafen denkt man eher an Industrieflächen als an Seen, deshalb liegt eine kleine Zahl nahe. Doch Duisburg nennt sich selbst Wasserstadt und zählt nach eigenen Angaben mehr als 20 Seen. Zum Wassersport lädt zum Beispiel die Sechs-Seen-Platte ein. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, duisburg.de/tourismus/",
+"faktencheck": "bestätigt",
+"id": "197-duisburg/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "196-ratingen",
+"anschluss": [
+"Einwohner: Duisburg hat gut fünfmal so viele wie Ratingen.",
+"Bundestagswahl 2025: vorn lag in Duisburg SPD, in Ratingen CDU."
+],
+"anschluesse": {
+"196-ratingen": [
+"Einwohner: Duisburg hat gut fünfmal so viele wie Ratingen.",
+"Bundestagswahl 2025: vorn lag in Duisburg SPD, in Ratingen CDU."
+],
+"198-muelheim": [
+"Bundestagswahl 2025: In Mülheim an der Ruhr lag die CDU vorn, in Duisburg die SPD.",
+"Duisburg hat dreimal so viele Einwohner wie Mülheim an der Ruhr."
+],
+"199-essen": [
+"Bundestagswahl 2025: In Essen lag die CDU vorn, in Duisburg die SPD.",
+"Essen hat rund 73.000 Einwohner mehr als Duisburg."
+]
+},
+"ags": "05112000",
+"ortsteil": false,
+"km_vom_vorigen": 15.9
+},
+{
+"slug": "198-muelheim",
+"name": "Mülheim an der Ruhr",
+"lat": 51.4275,
+"lon": 6.8825,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mülheim an der Ruhr",
+"steckbrief": "Großstadt an der Ruhr mit rund 172.000 Einwohnern, 24 km Luftlinie von Düsseldorf.",
+"frage": "Linde Somborn vermachte den Nachlass der Augenklinik. Welchen Grund nennt die Stadt dafür?",
+"optionen": [
+"Es war Dank für eine erfolgreiche Augenoperation.",
+"Die Familie Somborn hatte die Klinik einst gegründet.",
+"Es war Trauer um einen erblindeten Angehörigen.",
+"Ein Somborn war dort lange Chefarzt gewesen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist eine familiäre Bindung an die Klinik, denn viele Stiftungen tragen den Namen ihrer Gründerfamilie. Die Stadt nennt aber Dankbarkeit: Linde Somborn wurde in jungen Jahren erfolgreich an einem Augenleiden operiert. Die Somborn-Stiftung dient dem Erhalt des hohen medizinischen Standards der Augenklinik, Schwerpunkt Netzhauterkrankungen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/stiftungen/die-stifter/linde-somborn",
+"faktencheck": "unsicher",
+"id": "198-muelheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mülheim an der Ruhr",
+"steckbrief": "Großstadt an der Ruhr mit rund 172.000 Einwohnern, 24 km Luftlinie von Düsseldorf.",
+"frage": "Wie groß ist das Stadtgebiet von Mülheim an der Ruhr?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 120 km²",
+"120 bis unter 200 km²",
+"200 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer eine Großstadt mit rund 172.000 Einwohnern vor sich hat, schätzt die Fläche leicht größer. Mülheims Stadtgebiet misst aber nur 91,28 Quadratkilometer; das ergibt rund 1.881 Einwohner je Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046; Einwohner Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "198-muelheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Mülheim an der Ruhr",
+"steckbrief": "Großstadt an der Ruhr mit rund 172.000 Einwohnern, 24 km Luftlinie von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"1852 bestand ein Löschcorps aus fünf Zügen.",
+"1906 wurde die Wehr in vier Kompanien gegliedert.",
+"Eine Berufsfeuerwehr gibt es erst seit 1974."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das frühe Löschcorps wirkt verdächtig, stimmt aber, ebenso die Neuordnung in Kompanien. Gelogen ist das Jahr der Berufsfeuerwehr: Mülheim gründete sie schon 1924. Heute besteht die Feuerwehr aus Berufsfeuerwehr und Freiwilliger Feuerwehr. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, cms.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/feuerwehr/geschichte-der-feuerwehr",
+"faktencheck": "bestätigt",
+"id": "198-muelheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mülheim an der Ruhr",
+"steckbrief": "Großstadt im Herzen des Ruhrgebiets mit rund 172.000 Einwohnern, 24 km Luftlinie von Düsseldorf.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Mülheim bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 22 %",
+"22 bis unter 25 %",
+"25 bis unter 28 %",
+"28 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet erwartet man oft die SPD vorn und knappe Ergebnisse. In Mülheim gewann aber die CDU mit 28,9 Prozent der Zweitstimmen; die SPD folgte mit 23,8 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "198-muelheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mülheim an der Ruhr",
+"steckbrief": "Großstadt an der Ruhr mit rund 172.000 Einwohnern, 24 km Luftlinie von Düsseldorf.",
+"frage": "Der 9. Mai ist Europatag. Woran erinnert der Tag nach Angabe der Stadt Mülheim?",
+"optionen": [
+"Er erinnert an Europas Geburtsstunde im Mai 1950.",
+"Er erinnert an das Kriegsende im Mai 1945.",
+"Er erinnert an die Römischen Verträge 1957.",
+"Er erinnert an die erste Europawahl 1979."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Kriegsende liegt nahe, denn es fällt ebenfalls in den Mai. Die Stadt nennt aber die Erinnerung an die Geburtsstunde Europas im Mai 1950 als Grund. Passend dazu ist Mülheim Mitglied der Arbeitsgemeinschaft der Europapreisträgerstädte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/europa-und-internationales",
+"faktencheck": "korrigiert",
+"id": "198-muelheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Mülheim an der Ruhr",
+"steckbrief": "Großstadt im Herzen des Ruhrgebiets mit rund 172.000 Einwohnern, 24 km Luftlinie von Düsseldorf.",
+"frage": "Welches Kfz-Kennzeichen tragen die meisten Autos in Mülheim an der Ruhr?",
+"optionen": [
+"MÜ",
+"MH",
+"E",
+"DU"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. MÜ liegt nahe, gehört aber zu Mühldorf am Inn in Bayern. Mülheim an der Ruhr fährt mit eigenem Kennzeichen: MH, nicht mit E wie Essen oder DU wie Duisburg. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "198-muelheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mülheim an der Ruhr",
+"steckbrief": "Großstadt an der Ruhr mit rund 172.000 Einwohnern, 24 km Luftlinie von Düsseldorf.",
+"frage": "In der historischen Allee auf dem Hauptfriedhof hat die Stadt eingegangene Bäume ersetzt. Welche Bäume pflanzte sie nach?",
+"optionen": [
+"Sie pflanzte Winterlinden nach.",
+"Sie pflanzte Pyramidenpappeln nach.",
+"Sie pflanzte Säuleneichen nach.",
+"Sie pflanzte Rosskastanien nach."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Pyramidenpappeln liegen nahe, denn auch sie wachsen schmal und hoch. Doch die Stadt pflanzte Säuleneichen nach; sie sind nach dem Anwachsen robust, windfest und tolerant gegen Trockenheit. Alle Bäume der Allee werden jährlich zurückgeschnitten, damit sie ihre charakteristische Wuchsform behalten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, cms.muelheim-ruhr.de/hauptfriedhof-erhaelt-zwei-neue-eichen-fuer-die-historische-allee",
+"faktencheck": "korrigiert",
+"id": "198-muelheim/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "197-duisburg",
+"anschluss": [
+"Einwohner: Duisburg hat fast dreimal so viele wie Mülheim.",
+"Bundestagswahl 2025, Wahlbeteiligung: Mülheim 83,4 Prozent, Duisburg 76,5 Prozent."
+],
+"anschluesse": {
+"196-ratingen": [
+"Mülheim an der Ruhr hat fast doppelt so viele Einwohner wie Ratingen."
+],
+"197-duisburg": [
+"Einwohner: Duisburg hat fast dreimal so viele wie Mülheim.",
+"Bundestagswahl 2025, Wahlbeteiligung: Mülheim 83,4 Prozent, Duisburg 76,5 Prozent."
+],
+"199-essen": [
+"Essen hat fast dreieinhalbmal so viele Einwohner wie Mülheim an der Ruhr."
+],
+"200-gelsenkirchen": [
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Mülheim an der Ruhr die CDU.",
+"Gelsenkirchen hat gut anderthalbmal so viele Einwohner wie Mülheim an der Ruhr."
+]
+},
+"ags": "05117000",
+"ortsteil": false,
+"km_vom_vorigen": 8.4
+},
+{
+"slug": "199-essen",
+"name": "Essen",
+"lat": 51.45083,
+"lon": 7.01306,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Essen",
+"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
+"frage": "Die Isenburg über dem Baldeneysee ließ Dietrich von Isenberg um 1240 errichten. Welchen Anlass nennt die Stadt Essen?",
+"optionen": [
+"Er sollte die Gegend für Köln bewachen.",
+"Er hatte seine Burg bei Hattingen verkauft.",
+"Er hatte das Land vom Kölner Erzbischof als Lehen erhalten.",
+"Er wollte damit sein Erbe zurückfordern."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Burg über dem Wasser lässt an eine Wache für einen Landesherrn denken. Die Stadt Essen nennt einen anderen Anlass: Die Hattinger Isenburg war nach einem Überfall, bei dem Erzbischof Engelbert von Köln starb, zerstört worden. Mit der neuen Burg wollte Dietrich von Isenberg sein Erbe zurückfordern. Köln eroberte sie später. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/leben_im_gruenen_/isenburg_/die_isenburg.de.html",
+"faktencheck": "korrigiert",
+"id": "199-essen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Essen",
+"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
+"frage": "Wie viele Einwohner leben in Essen durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 3.000",
+"3.000 bis unter 4.000",
+"4.000 bis unter 5.000",
+"5.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Beim Ruhrgebiet denken viele an Zechen und Häuserzeilen dicht an dicht, also an eine sehr hohe Dichte. Doch auch eine Großstadt hat Parks, Wälder und Wasserflächen, die den Schnitt drücken. Rechnerisch kommen in Essen 2.727 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "199-essen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Essen",
+"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
+"frage": "Es geht um drei Herrscherinnen des Fürstentums Essen. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bernardine Sophia suchte Preußens Hilfe gegen die Stadt.",
+"Maria Kunigunde trat früher als Opernsängerin auf.",
+"Franziska Christine stiftete in Steele ein Waisenhaus."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Opernsängerin wirkt wie die Erfindung, doch Maria Kunigunde von Sachsen sang tatsächlich in Dresden, bevor sie Fürstäbtissin wurde. Gelogen war die Sache mit Preußen: Bernardine Sophia von Ostfriesland und Rietberg verteidigte das Fürstentum Essen unnachgiebig gegen Brandenburg-Preußen und gegen die protestantische Stadt Essen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.essen.de/leben/kultur_/schloss_borbeck_/schloss_borbeck_.de.html",
+"faktencheck": "korrigiert",
+"id": "199-essen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Essen",
+"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Essen bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"SPD",
+"Grüne"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet gilt die SPD als traditionell stark, darum tippen viele sie auf Platz eins. Bei der Bundestagswahl 2025 lag in Essen bei den Zweitstimmen aber die CDU vorn. Die SPD wurde zweitstärkste Partei, vor AfD und Grünen. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "199-essen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Essen",
+"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
+"frage": "Die Hirtsiefer-Siedlung in Altendorf, nahe der Krupp'schen Gussstahlfabrik, wurde mit Mehrfamilienhäusern bebaut. Was war ursprünglich geplant?",
+"optionen": [
+"Geplant war ein Wohnheim für ledige Arbeiter.",
+"Geplant war eine Erweiterung der Gussstahlfabrik.",
+"Geplant waren Hochhäuser mit einer Ladenstraße.",
+"Geplant waren Ein- und Zweifamilienhäuser mit parkähnlicher Grünanlage."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer Mehrfamilienhäuser sieht, vermutet leicht, ursprünglich sei noch größer geplant gewesen, etwa mit Hochhäusern. Es war umgekehrt: Geplant waren Ein- und Zweifamilienhäuser an einer parkähnlichen Grünanlage. Wegen der Wohnungsnot nach dem Ersten Weltkrieg wurde diese Planung verworfen, stattdessen entstanden Mehrfamilienhäuser. Zu den führenden Gründern der Genossenschaft gehörten Heinrich Hirtsiefer und Christian Kloft. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html",
+"faktencheck": "korrigiert",
+"id": "199-essen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Essen",
+"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
+"frage": "Zu Essens Partnerstädten gehört Zabrze. In welchem Land liegt sie?",
+"optionen": [
+"Polen",
+"Kroatien",
+"Slowakei",
+"Slowenien"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zabrze klingt slawisch und erinnert an Zagreb, deshalb liegen auch Kroatien, Slowenien oder die Slowakei nahe. Die Partnerstadt liegt aber in Polen. Zu Essens weiteren Partnerstädten gehören Sunderland in England, Tampere in Finnland, Grenoble in Frankreich und Tel Aviv-Jaffa in Israel. Richtig war 1.",
+"quelle": "Wikidata P190; Gemeinde-Webseite, www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html",
+"faktencheck": "bestätigt",
+"id": "199-essen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Essen",
+"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
+"frage": "Die Neue Pauluskirche in Huttrop zeigte zur Steeler Straße eine Bruchsteinfassade mit wenigen Öffnungen. Wofür war sie laut Stadt Essen bewusst konzipiert?",
+"optionen": [
+"Sie sollte an die Zechen des Reviers erinnern.",
+"Sie sollte gegen den Lärm des Verkehrs schützen.",
+"Sie sollte viel direkte Sonne in die Kirche lassen.",
+"Sie sollte die Kirche vor Bergschäden schützen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei grobem Stein schnell an Zechen und Bergbau. Die Stadt Essen nennt einen anderen Zweck: Die Fassaden zur Steeler Straße und zur Knaudtstraße waren bewusst als Schutzschild gegen den Lärm des Großstadtverkehrs konzipiert und hatten nur wenige Öffnungen. Das Bruchsteinmauerwerk unterstrich die Massivität des damals als Bollwerk konzipierten Baus. Licht kam durch gerasterte Betonelemente der Nordfassade, ohne direkte Sonneneinstrahlung. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtgeschichte_1/baudenkmalschutz_und_pflege/einblicke_in_baudenkmalschutz_und__pflege.de.html",
+"faktencheck": "korrigiert",
+"id": "199-essen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Essen",
+"steckbrief": "Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von Düsseldorf.",
+"frage": "Im Jahr 2002 feierte Essen ein Stadtjubiläum. Welches?",
+"optionen": [
+"Essen feierte sein 750-jähriges Bestehen.",
+"Essen feierte sein 1000-jähriges Bestehen.",
+"Essen feierte sein 1150-jähriges Bestehen.",
+"Essen feierte sein 1250-jähriges Bestehen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Beim Ruhrgebiet denken viele an Zechen und Industrie, also an eine junge Stadt. Doch die Geschichte Essens ist älter als die Berlins, Dresdens oder Münchens. Im Jahr 2002 feierte die Stadt das 1150-jährige Jubiläum von Stift und Stadt Essen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/stadtportraet/stadtportraet_.de.html",
+"faktencheck": "korrigiert",
+"id": "199-essen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "198-muelheim",
+"anschluss": [
+"Einwohner: Essen hat gut dreimal so viele wie Mülheim.",
+"Bundestagswahl 2025: Mülheim hatte höhere Wahlbeteiligung als Essen."
+],
+"anschluesse": {
+"197-duisburg": [
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Essen die CDU.",
+"Essen hat rund 73.000 Einwohner mehr als Duisburg."
+],
+"198-muelheim": [
+"Einwohner: Essen hat gut dreimal so viele wie Mülheim.",
+"Bundestagswahl 2025: Mülheim hatte höhere Wahlbeteiligung als Essen."
+],
+"200-gelsenkirchen": [
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Essen die CDU.",
+"Essen hat gut doppelt so viele Einwohner wie Gelsenkirchen."
+],
+"201-bochum": [
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Essen die CDU.",
+"Essen hat gut anderthalbmal so viele Einwohner wie Bochum."
+]
+},
+"ags": "05113000",
+"ortsteil": false,
+"km_vom_vorigen": 9.4
+},
+{
+"slug": "200-gelsenkirchen",
+"name": "Gelsenkirchen",
+"lat": 51.51028,
+"lon": 7.09417,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gelsenkirchen / Gelsenkirchen ist eine Großstadt im zentralen Ruhrgebiet mit rund 266.000 Einwohnern. / 1928 wurde Buer mit Gelsenkirchen und Horst zu einer Stadt vereinigt. Was war Buer unmittelbar vor diesem Zusammenschluss? / 1. Buer war ein Stadtteil von Recklinghausen. 2. Buer war eine Landgemeinde ohne Stadtrecht. 3. Buer war selbst eine kreisfreie Stadt. 4. Buer war eine Bergarbeitersiedlung ohne eigene Gemeinde. — RÜCKSEITE: Du hattest [Option] getippt. Heute ist Buer ein Stadtteil, deshalb liegt ein Dorf oder Vorort nahe. Doch Buer hatte Stadtrecht und war kreisfrei, bevor es 1928 mit Gelsenkirchen zusammenging. Erstmals urkundlich erwähnt wurde es 1003 als Puira. Richtig war 3. / Quelle: Stadtarchiv Gelsenkirchen, gelsenkirchen.de (Findbuch Buer)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Heute ist Buer ein Stadtteil, deshalb liegt ein Dorf oder Vorort nahe. Doch Buer hatte Stadtrecht und war kreisfrei, bevor es 1928 mit Gelsenkirchen zusammenging. Erstmals urkundlich erwähnt wurde es als Puira. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gelsenkirchen",
+"faktencheck": "korrigiert",
+"id": "200-gelsenkirchen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gelsenkirchen",
+"steckbrief": "Gelsenkirchen ist eine Großstadt im zentralen Ruhrgebiet mit rund 266.000 Einwohnern.",
+"frage": "Wie viele Einwohner leben in Gelsenkirchen im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 1.700",
+"1.700 bis unter 2.300",
+"2.300 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an die vielen Grünflächen, Wälder und Felder im Stadtgebiet denkt, schätzt leicht niedriger. Doch auf jedem Quadratkilometer Gelsenkirchens leben rechnerisch 2.537 Menschen, Stand Ende 2025. Richtig war 4.",
+"quelle": "berechnet aus Wikidata P1082 (Einwohner, Stand 2025-12-31) und Wikidata P2046 (Fläche)",
+"faktencheck": "bestätigt",
+"id": "200-gelsenkirchen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gelsenkirchen",
+"steckbrief": "Gelsenkirchen ist eine Großstadt im zentralen Ruhrgebiet mit rund 266.000 Einwohnern.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Stadtgarten hieß bei seiner Anlage Kaiser-Wilhelm-Park.",
+"Das Kraftwerk Scholven wurde mit Braunkohle befeuert.",
+"Im Musiktheater hängen blaue Schwammreliefs von Yves Klein."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kohle klingt nach Ruhrgebiet, und das Wort Braunkohle wirkt darum glaubwürdig. Doch Braunkohle baggert man vor allem im Rheinland ab; das Kraftwerk Scholven wurde mit Steinkohle befeuert. Der Stadtgarten hieß wirklich zuerst Kaiser-Wilhelm-Park, und im Musiktheater hängen Yves Kleins blaue Schwammreliefs. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gelsenkirchen",
+"faktencheck": "bestätigt",
+"id": "200-gelsenkirchen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gelsenkirchen",
+"steckbrief": "Gelsenkirchen ist eine Großstadt im zentralen Ruhrgebiet mit rund 266.000 Einwohnern.",
+"frage": "Wie hoch war die Wahlbeteiligung in Gelsenkirchen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 76 %",
+"76 bis unter 82 %",
+"82 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 gingen bundesweit auffallend viele Menschen wählen, darum liegt ein höherer Wert nahe. In Gelsenkirchen betrug die Wahlbeteiligung 74,5 Prozent; stärkste Partei wurde knapp die AfD vor der SPD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "200-gelsenkirchen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gelsenkirchen",
+"steckbrief": "Gelsenkirchen ist eine Großstadt im zentralen Ruhrgebiet mit rund 266.000 Einwohnern.",
+"frage": "Alle sagen Schalke 04. Wie lautet der vollständige Name, den der Fußballclub seit 1928 trägt?",
+"optionen": [
+"Er heißt offiziell FC Ruhr-Schalke 04.",
+"Er heißt offiziell FC Emscher-Schalke 04.",
+"Er heißt offiziell FC Gelsenkirchen-Schalke 04.",
+"Er heißt offiziell FC Schalke-Buer 04."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Alltag heißt der Club nur Schalke 04, darum vermutet kaum jemand den Stadtnamen im offiziellen Namen und greift zu einem Fluss oder Stadtteil. Seit 1928 heißt er vollständig FC Gelsenkirchen-Schalke 04. Der Club ist mehrfacher deutscher Fußballmeister. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gelsenkirchen",
+"faktencheck": "bestätigt",
+"id": "200-gelsenkirchen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gelsenkirchen",
+"steckbrief": "Gelsenkirchen ist eine Großstadt im zentralen Ruhrgebiet mit rund 266.000 Einwohnern.",
+"frage": "Wie weit ist es von Gelsenkirchen in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"unter 15 km",
+"15 bis unter 25 km",
+"25 bis unter 35 km",
+"35 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In der Metropolregion Rhein-Ruhr reiht sich Stadt an Stadt, darum wirkt die Landeshauptstadt näher, als sie ist. Von Gelsenkirchen bis Düsseldorf sind es 39 Kilometer Luftlinie, berechnet aus den Koordinaten beider Städte. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "200-gelsenkirchen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gelsenkirchen",
+"steckbrief": "Gelsenkirchen ist eine Großstadt im zentralen Ruhrgebiet mit rund 266.000 Einwohnern.",
+"frage": "2007 wurde in Gelsenkirchen eine neue Synagoge eingeweiht. Wie wurden ihre Baukosten aufgeteilt?",
+"optionen": [
+"Land, Stadt, jüdische Gemeinde zahlten je ein Drittel.",
+"Die jüdische Gemeinde zahlte allein, aus Spenden.",
+"Der Bund übernahm die gesamten Baukosten.",
+"Stadt und Land teilten sich die Kosten hälftig."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gotteshäuser bezahlen meist ihre Gemeinden, darum liegt Antwort 2 nahe. Beim Neubau teilten sich das Land Nordrhein-Westfalen, die Stadt Gelsenkirchen und die jüdische Gemeinde die Kosten zu gleichen Teilen. Die Synagoge steht am Platz der alten Synagoge, die in der Reichspogromnacht zerstört wurde. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gelsenkirchen",
+"faktencheck": "bestätigt",
+"id": "200-gelsenkirchen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "199-essen",
+"anschluss": [
+"Fläche: Essen ist ziemlich genau doppelt so groß wie Gelsenkirchen.",
+"Bundestagswahl 2025: Vorn lag in Essen CDU, in Gelsenkirchen AfD."
+],
+"anschluesse": {
+"198-muelheim": [
+"Bundestagswahl 2025: In Mülheim an der Ruhr lag die CDU vorn, in Gelsenkirchen die AfD.",
+"Gelsenkirchen hat gut anderthalbmal so viele Einwohner wie Mülheim an der Ruhr."
+],
+"199-essen": [
+"Fläche: Essen ist ziemlich genau doppelt so groß wie Gelsenkirchen.",
+"Bundestagswahl 2025: Vorn lag in Essen CDU, in Gelsenkirchen AfD."
+],
+"201-bochum": [
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Gelsenkirchen die AfD.",
+"Bochum hat rund 93.000 Einwohner mehr als Gelsenkirchen."
+]
+},
+"ags": "05513000",
+"ortsteil": false,
+"km_vom_vorigen": 8.7
+},
+{
+"slug": "201-bochum",
+"name": "Bochum",
+"lat": 51.48333,
+"lon": 7.21667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bochum",
+"steckbrief": "Großstadt mit rund 359.000 Einwohnern im Ruhrgebiet, Nordrhein-Westfalen.",
+"frage": "Der Name Bochum ist sehr alt. Was bezeichnete er ursprünglich?",
+"optionen": [
+"Er bezeichnete eine Furt durch einen Bach.",
+"Er bezeichnete einen Wohnort unter Buchen.",
+"Er bezeichnete einen Markt an einer Handelsstraße.",
+"Er bezeichnete eine Burg auf einem Hügel."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Boch“ klingt nach „Bach“, und eine Siedlung an einer Furt wäre naheliegend. Doch im Niederdeutschen steht „boc“ für Buche, „hem“ oder „hum“ für -heim. Der Name bezeichnete einen Wohnort unter Buchen, übersetzt etwa „Buchenheim“. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bochum",
+"faktencheck": "unsicher",
+"id": "201-bochum/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bochum",
+"steckbrief": "Kreisfreie Großstadt im Ruhrgebiet, 42 km Luftlinie von Düsseldorf.",
+"frage": "Wie viele Einwohner hatte Bochum Ende 2025?",
+"optionen": [
+"unter 200.000",
+"200.000 bis unter 300.000",
+"300.000 bis unter 400.000",
+"400.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet gehen die Städte nahtlos ineinander über, deshalb schätzt man eine einzelne Stadt leicht zu groß oder zu klein. Ende 2025 zählte Bochum 358.880 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "201-bochum/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bochum",
+"steckbrief": "Großstadt mit rund 359.000 Einwohnern im Ruhrgebiet, Nordrhein-Westfalen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Spenden aus Schweden halfen beim Bau der Pauluskirche.",
+"Das Glockenspiel am Rathaus wurde aus Gussstahl hergestellt.",
+"Der Ruhr-Park war das erste Einkaufszentrum der Bundesrepublik."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schwedische Spenden klingen ungewöhnlich, stimmen aber: Geld kam aus Holland, Schweden, Kurland und Dänemark. Auch das Glockenspiel aus Gussstahl stimmt. Der Ruhr-Park klingt nach Pionier, war aber nur das zweite Einkaufszentrum auf der grünen Wiese in der Bundesrepublik; vorher eröffnete das Main-Taunus-Zentrum. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bochum",
+"faktencheck": "unsicher",
+"id": "201-bochum/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bochum",
+"steckbrief": "Großstadt mit rund 359.000 Einwohnern im Ruhrgebiet, Nordrhein-Westfalen.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Bochum bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Ruhrgebiet gilt als SPD-Hochburg, da erwartet man klare Mehrheiten. Doch 2025 lag die SPD in Bochum mit 24,5 Prozent nur knapp vor der CDU mit 23,3 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "201-bochum/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bochum",
+"steckbrief": "Großstadt mit rund 359.000 Einwohnern im Ruhrgebiet, Nordrhein-Westfalen.",
+"frage": "Um 1008 entstand im heutigen Bochumer Stadtteil Stiepel eine kleine Kirche. Wer ließ sie bauen?",
+"optionen": [
+"Ein Erzbischof ließ sie als Pfarrkirche bauen.",
+"Eine mit dem Kaiser verwandte Gräfin baute sie.",
+"Die Bauern des Dorfes errichteten sie gemeinsam.",
+"Ein reicher Kaufmann stiftete sie aus Dank."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Dorfkirche, von den Bauern selbst gebaut: Das liegt nahe. Doch Gräfin Imma, Frau des Grafen Liutger und Schwester des Paderborner Bischofs Meinwerk, ließ sie auf ihrem Gut errichten. Im 12. Jahrhundert ersetzte eine romanische Basilika die kleine Saalkirche. Richtig war 2.",
+"quelle": "Ev. Kirchengemeinde Bochum-Stiepel, bochum-stiepel.ekvw.de",
+"faktencheck": "korrigiert",
+"id": "201-bochum/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bochum",
+"steckbrief": "Großstadt mit rund 359.000 Einwohnern im Ruhrgebiet, Nordrhein-Westfalen.",
+"frage": "Wie weit ist es von Bochum Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 35 km",
+"35 bis unter 50 km",
+"50 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet gehen die Städte ineinander über, Düsseldorf scheint deshalb ganz nah. Doch zwischen Bochum und der Landeshauptstadt liegen 42 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "201-bochum/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Bochum",
+"steckbrief": "Großstadt mit rund 359.000 Einwohnern im Ruhrgebiet, Nordrhein-Westfalen.",
+"frage": "Das Musical Starlight Express hatte 1988 in Bochum Premiere. Wie viele Besucher kamen seither?",
+"optionen": [
+"unter 1 Million",
+"1 bis unter 5 Millionen",
+"5 bis unter 15 Millionen",
+"15 Millionen und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für eine Stadt mit rund 359.000 Einwohnern schätzt man eher ein paar Millionen. Doch Starlight Express zog in Bochum schon bis 2018 über 16 Millionen Besucher an, seither sind es noch mehr geworden. Richtig war 4.",
+"quelle": "prisma.de",
+"faktencheck": "korrigiert",
+"id": "201-bochum/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bochum",
+"steckbrief": "Großstadt mit rund 359.000 Einwohnern im Ruhrgebiet, Nordrhein-Westfalen.",
+"frage": "Die neugotische Marienkirche in Bochum dient nicht mehr als Kirche. Was wurde aus ihr?",
+"optionen": [
+"Sie wird heute als Konzerthaus genutzt.",
+"Sie wird heute als Kletterhalle genutzt.",
+"Sie wird heute als Stadtbibliothek genutzt.",
+"Sie wird heute als Markthalle genutzt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Leere Kirchen werden oft zu Kletterhallen oder Bibliotheken, das liegt nahe. Die Marienkirche ist heute Eingang und Foyer des Anneliese Brost Musikforums Ruhr. Links und rechts schließen neue Säle an, darunter der Konzertsaal der Bochumer Symphoniker. Richtig war 1.",
+"quelle": "baunetzwissen.de",
+"faktencheck": "korrigiert",
+"id": "201-bochum/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bochum",
+"steckbrief": "Großstadt mit rund 359.000 Einwohnern im Ruhrgebiet, Nordrhein-Westfalen.",
+"frage": "Über dem Deutschen Bergbau-Museum ragt ein Fördergerüst auf. Wie kam es dorthin?",
+"optionen": [
+"Es gehörte zu einer Zeche an dieser Stelle.",
+"Es wurde von einer anderen Zeche hierher versetzt.",
+"Es wurde eigens als Nachbau neu errichtet.",
+"Es war ein Geschenk aus dem Ausland."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Bergbau-Museum auf einer alten Zeche wäre naheliegend. Doch das Fördergerüst, das Gestell über einem Schacht, stand zuvor auf der Dortmunder Zeche Germania und wurde nach Bochum versetzt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bochum",
+"faktencheck": "bestätigt",
+"id": "201-bochum/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "200-gelsenkirchen",
+"anschluss": [
+"Bundestagswahl 2025: Stärkste Kraft in Bochum SPD, in Gelsenkirchen AfD.",
+"Wahlbeteiligung 2025: In Bochum 81,3 Prozent, in Gelsenkirchen 74,5 Prozent."
+],
+"anschluesse": {
+"199-essen": [
+"Bundestagswahl 2025: In Essen lag die CDU vorn, in Bochum die SPD.",
+"Essen hat gut anderthalbmal so viele Einwohner wie Bochum."
+],
+"200-gelsenkirchen": [
+"Bundestagswahl 2025: Stärkste Kraft in Bochum SPD, in Gelsenkirchen AfD.",
+"Wahlbeteiligung 2025: In Bochum 81,3 Prozent, in Gelsenkirchen 74,5 Prozent."
+],
+"202-dortmund": [
+"Dortmund hat gut anderthalbmal so viele Einwohner wie Bochum."
+]
+},
+"ags": "05911000",
+"ortsteil": false,
+"km_vom_vorigen": 9.0
+},
+{
+"slug": "202-dortmund",
+"name": "Dortmund",
+"lat": 51.51389,
+"lon": 7.46528,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dortmund",
+"steckbrief": "Dortmund ist eine Großstadt in Nordrhein-Westfalen mit rund 600.000 Einwohnern, 58 km Luftlinie von Düsseldorf.",
+"frage": "Ein Dachaufbau in Mengede hieß im Volksmund „Leuchtturm von Mengede“. Wozu diente sein Licht ursprünglich?",
+"optionen": [
+"Es leuchtete heimkehrenden Arbeitern den Weg.",
+"Es zeigte Zügen die Einfahrt in den Bahnhof.",
+"Es rief nachts die Feuerwehr zusammen.",
+"Es meldete den Bergleuten den Schichtbeginn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einem Ort mit Zeche liegt ein Signal für Bergleute nahe. Doch die Familie Schröder, Inhaber eines Baugeschäfts und einer Ringofenziegelei, ließ den Dachaufbau als private Einrichtung errichten: Sein Licht wies Heimkehrenden abends den Weg, denn Straßenbeleuchtung gab es noch nicht. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/",
+"faktencheck": "korrigiert",
+"id": "202-dortmund/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dortmund",
+"steckbrief": "Dortmund ist eine Großstadt in Nordrhein-Westfalen mit rund 600.000 Einwohnern, 58 km Luftlinie von Düsseldorf.",
+"frage": "Aus welchem Zeitraum stammt die erste bekannte Erwähnung Dortmunds?",
+"optionen": [
+"vor 800",
+"800 bis 999",
+"1000 bis 1199",
+"1200 oder später"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Zechen und Industrie denkt, hält Dortmund leicht für eine junge Stadt. Doch der Ort ist schon im Jahr 882 erwähnt. Das ist der früheste bekannte Beleg, nicht zwingend der Anfang der Siedlung. Richtig war 2.",
+"quelle": "Wikidata P1249; Altbestand geschichte.json",
+"faktencheck": "bestätigt",
+"id": "202-dortmund/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Dortmund",
+"steckbrief": "Dortmund ist eine Großstadt in Nordrhein-Westfalen mit rund 600.000 Einwohnern, 58 km Luftlinie von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Naturmuseum überstand den Krieg fast ohne Verluste.",
+"Das Amt Mengede entstand aus einer geteilten Bürgermeisterei.",
+"Den Mengeder Volksgarten plante der Gärtner einer Handelsgärtnerei."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Fossilien und Minerale wirken unverwüstlich, und manche Sammlung überstand den Krieg in Kellern. Das Naturmuseum aber verlor im Zweiten Weltkrieg den weit überwiegenden Teil seiner Sammlung und erholte sich erst danach. Das Amt Mengede ging aus der Bürgermeisterei Castrop hervor, den Volksgarten plante Peters von der Gärtnerei Coers. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/naturmuseum-dortmund/das-museum/geschichte-des-hauses/",
+"faktencheck": "korrigiert",
+"id": "202-dortmund/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Dortmund",
+"steckbrief": "Dortmund ist eine Großstadt in Nordrhein-Westfalen mit rund 600.000 Einwohnern, 58 km Luftlinie von Düsseldorf.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Dortmund zweitstärkste Kraft nach Zweitstimmen?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"CDU"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an Dortmund denkt, rechnet mit der SPD vorn, und tatsächlich lag sie knapp an der Spitze. Zweitstärkste Kraft wurde die CDU, mit weniger als einem Prozentpunkt Rückstand, vor AfD und Grünen. Stand: Bundestagswahl vom 23. Februar 2025. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "202-dortmund/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dortmund",
+"steckbrief": "Dortmund ist eine Großstadt in Nordrhein-Westfalen mit rund 600.000 Einwohnern, 58 km Luftlinie von Düsseldorf.",
+"frage": "Die denkmalgeschützte „Eulenburg“ an der Dortmunder Stahlwerkstraße ist ein Bau des Historismus. Wer ließ sie bauen?",
+"optionen": [
+"Ein Anstreichermeister ließ sie bauen.",
+"Ein Brauereibesitzer baute sie als Familiensitz.",
+"Die Stadt baute sie für ihre Lehrer.",
+"Ein Adliger ließ sie als Stadtschloss errichten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name „Burg“ lässt an Adel oder reiche Fabrikanten denken. Bauherr war aber Anstreichermeister Lubbe; den Entwurf lieferte Architekt R.W. Pinzer. Der Bau verbindet englischen Tudorstil, benannt nach einem englischen Königshaus, mit niederdeutscher Backsteingotik. Nach dem Krieg gehörten die Häuser zeitweise einer Hoesch-Wohnungsgesellschaft. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.dortmund.de/themen/stadtbezirke/innenstadt-nord/geschichte/eulenburg/",
+"faktencheck": "bestätigt",
+"id": "202-dortmund/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dortmund",
+"steckbrief": "Dortmund ist eine Großstadt in Nordrhein-Westfalen mit rund 600.000 Einwohnern, 58 km Luftlinie von Düsseldorf.",
+"frage": "Wie viele Einwohner leben in Dortmund durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 2.500",
+"2.500 bis unter 4.000",
+"4.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im dicht bebauten Ruhrgebiet schätzen viele höher. Der Wert ist aber ein Mittel über das ganze Stadtgebiet von gut 280 Quadratkilometern: Rechnerisch kommen 2.141 Menschen auf einen Quadratkilometer. Stand der Einwohnerzahl: 31. Dezember 2025. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046; Altbestand staedte.json)",
+"faktencheck": "bestätigt",
+"id": "202-dortmund/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dortmund",
+"steckbrief": "Dortmund ist eine Großstadt in Nordrhein-Westfalen mit rund 600.000 Einwohnern, 58 km Luftlinie von Düsseldorf.",
+"frage": "Das „Museum am Ostwall“ heißt heute „Museum Ostwall“. Wann fiel das „am“ aus dem Namen?",
+"optionen": [
+"Als ein Gericht den alten Namen untersagte.",
+"Zum 50. Geburtstag des Museums.",
+"Nach dem Umzug ins Dortmunder U.",
+"Als die Straße Ostwall einen neuen Namen erhielt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Name, der plötzlich ein Wort verliert, klingt nach Streit oder Vorschrift. Der Wechsel kam aber nach dem Umzug: Das Museum verließ das Haus am Ostwall und zog ins Dortmunder U. Auf Beschluss des Rats entstand es nach dem Krieg, erste Direktorin war Leonie Reygers. Es sammelt moderne Kunst, etwa Fluxus und Gruppe Zero. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/museum-ostwall/das-museum/museumsgeschichte/",
+"faktencheck": "korrigiert",
+"id": "202-dortmund/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dortmund",
+"steckbrief": "Dortmund ist eine Großstadt in Nordrhein-Westfalen mit rund 600.000 Einwohnern, 58 km Luftlinie von Düsseldorf.",
+"frage": "Der Aschenplatz im Mengeder Volksgarten wurde 1927 an einem Feiertag eingeweiht. An welchem?",
+"optionen": [
+"Er wurde am Ostermontag eingeweiht.",
+"Er wurde am zweiten Weihnachtsfeiertag eingeweiht.",
+"Er wurde am Pfingstmontag eingeweiht.",
+"Er wurde am Neujahrstag eingeweiht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Für ein Sportfest denkt man an Frühling, an Ostern oder Pfingsten. Eingeweiht wurde der Aschenplatz, ein Sportplatz mit Belag aus Asche, aber am zweiten Weihnachtsfeiertag. Wenige Jahre später kam im Volksgarten ein Stadion hinzu. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/",
+"faktencheck": "bestätigt",
+"id": "202-dortmund/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "201-bochum",
+"anschluss": [
+"Erste Erwähnung: Dortmund 882, Bochum acht Jahre später, 890.",
+"Fläche: Dortmund ist fast doppelt so groß wie Bochum."
+],
+"anschluesse": {
+"201-bochum": [
+"Erste Erwähnung: Dortmund 882, Bochum acht Jahre später, 890.",
+"Fläche: Dortmund ist fast doppelt so groß wie Bochum."
+],
+"203-kamen": [
+"Dortmund hat vierzehnmal so viele Einwohner wie Kamen."
+]
+},
+"ags": "05913000",
+"ortsteil": false,
+"km_vom_vorigen": 17.5
+},
+{
+"slug": "203-kamen",
+"name": "Kamen",
+"lat": 51.59167,
+"lon": 7.66528,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kamen",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 15 km südwestlich von Hamm.",
+"frage": "Kamens Stadtwappen zeigt ein Kammrad. Worauf soll sich dieses Zeichen beziehen?",
+"optionen": [
+"Es erinnert an die Kohlezechen der Stadt.",
+"Es steht für die frühe Eisenbahn.",
+"Es ist das Zeichen einer Wagenbauerzunft.",
+"Es erinnert an frühe Mühlen am Fluss."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Zahnrad im Ruhrgebiet lässt an Zechen oder Eisenbahn denken. Doch das Kammrad, ein Zahnrad aus dem Mühlenwerk, stand schon auf dem Stadtsiegel von 1284. Es soll sich auf früh nachgewiesene Mühlen an der Seseke beziehen. Der Schachbalken im Wappen erinnert an die frühere Zugehörigkeit zur Grafschaft Mark. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kamen",
+"faktencheck": "unsicher",
+"id": "203-kamen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kamen",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 15 km südwestlich von Hamm.",
+"frage": "Wie groß ist das gesamte Stadtgebiet von Kamen?",
+"optionen": [
+"unter 50 km²",
+"50 bis unter 80 km²",
+"80 bis unter 120 km²",
+"120 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei über 40.000 Einwohnern erwartet man leicht ein weitläufiges Stadtgebiet. Kamen ist aber kompakt: Das ganze Stadtgebiet misst nur 40,95 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "203-kamen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kamen",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 15 km südwestlich von Hamm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kleinbahn nach Werne fuhr unter einer Oberleitung.",
+"Schloss Heeren thront als Burg auf einem Felssporn.",
+"Die Seseke schlängelt sich teils in künstlichen Mäandern."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Burgen auf Felsspornen kennt man aus Mittelgebirgen, nicht aus dem flachen Land bei Hamm. Schloss Heeren ist ein frühbarockes Wasserschloss, einst Stammsitz des Adelsgeschlechts von der Recke. Die Kleinbahn fuhr wirklich als Überland-Straßenbahn, und die Seseke schlängelt sich nach ihrer Renaturierung teils in künstlichen Flussschlingen. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kamen",
+"faktencheck": "unsicher",
+"id": "203-kamen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kamen",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 15 km südwestlich von Hamm.",
+"frage": "Wie hoch war die Wahlbeteiligung in Kamen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 78 %",
+"78 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet erwartet man oft eine maue Wahlbeteiligung, vor allem in früheren Bergbaustädten. In Kamen gingen bei der Bundestagswahl 2025 aber 82,4 Prozent der Wahlberechtigten zur Wahl. Stärkste Kraft wurde knapp die SPD vor der CDU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "203-kamen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kamen",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 15 km südwestlich von Hamm.",
+"frage": "Wie viele Einwohner kommen in Kamen durchschnittlich auf einen Quadratkilometer?",
+"optionen": [
+"unter 1.200",
+"1.200 bis unter 2.000",
+"2.000 bis unter 3.000",
+"3.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer Ruhrgebiet hört, denkt an Häusermeer und Großstadtdichte. Kamen ist aber eine Mittelstadt: Rechnerisch kommen 1.029 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "203-kamen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kamen",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 15 km südwestlich von Hamm.",
+"frage": "Während der Fußball-WM 2006 nutzte eine Nationalmannschaft die Sportschule Kaiserau als Trainingslager. Welche?",
+"optionen": [
+"Die englische Nationalmannschaft trainierte dort.",
+"Die spanische Nationalmannschaft trainierte dort.",
+"Die brasilianische Nationalmannschaft trainierte dort.",
+"Die italienische Nationalmannschaft trainierte dort."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer WM in Deutschland denkt man zuerst an große Favoriten wie Brasilien. Kaiserau kennt man eher von der deutschen Elf, die hier 1990 eine Station ihrer Vorbereitung auf den WM-Titel einlegte. 2006 schlug dann die spanische Nationalmannschaft hier ihr Trainingslager auf. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kamen",
+"faktencheck": "korrigiert",
+"id": "203-kamen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kamen",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 15 km südwestlich von Hamm.",
+"frage": "Am Kamener Kreuz treffen sich die A 1 und die A 2. Was steht dort im Nordwesten als Landmarke?",
+"optionen": [
+"Dort steht ein ausgedienter Förderturm einer Zeche.",
+"Dort steht eine alte Dampflok auf Schienen.",
+"Dort steht ein ehemaliger ADAC-Hubschrauber.",
+"Dort steht ein alter Lastwagen auf einem Sockel."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet läge ein Denkmal des Bergbaus nahe, etwa ein Förderturm. Doch im Nordwesten des Kreuzes steht ein ehemaliger ADAC-Hubschrauber auf künstlerisch gestalteten Stahlplatten. Das Kreuz war früher ein reines Kleeblatt und wurde für mehr Verkehrsdurchsatz umgebaut. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kamen",
+"faktencheck": "unsicher",
+"id": "203-kamen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kamen",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 15 km südwestlich von Hamm.",
+"frage": "Die Fünf-Bogen-Brücke in Kamen entstand 1846 für die Köln-Mindener Eisenbahn. Worauf ruht sie im Flussbett der Seseke?",
+"optionen": [
+"Sie ruht auf Pfählen aus Eichenholz.",
+"Sie ruht auf einer durchgehenden Betonplatte.",
+"Sie ruht auf eisernen Schraubpfählen.",
+"Sie ruht auf aufgeschüttetem Zechenabraum."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei Aufschüttungen schnell an Zechenabraum, doch die Zechen kamen erst später. Die Fünf-Bogen-Brücke steht auf tausenden Eichenpfählen im Flussbett der Seseke und ist bis heute im Originalzustand erhalten. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kamen",
+"faktencheck": "unsicher",
+"id": "203-kamen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "202-dortmund",
+"anschluss": [
+"Kennzeichen: In Dortmund steht DO am Auto, in Kamen UN.",
+"Der Körnebach fließt aus dem Dortmunder Osten nach Kamen."
+],
+"anschluesse": {
+"202-dortmund": [
+"Kennzeichen: In Dortmund steht DO am Auto, in Kamen UN.",
+"Der Körnebach fließt aus dem Dortmunder Osten nach Kamen."
+],
+"204-hamm": [
+"Bundestagswahl 2025: In Hamm lag die CDU vorn, in Kamen die SPD.",
+"Hamm hat fast viereinhalbmal so viele Einwohner wie Kamen."
+]
+},
+"ags": "05978020",
+"ortsteil": false,
+"km_vom_vorigen": 16.3
+},
+{
+"slug": "204-hamm",
+"name": "Hamm",
+"lat": 51.68139,
+"lon": 7.81917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hamm",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 179.000 Einwohnern, 89 km Luftlinie von Düsseldorf.",
+"frage": "1792 wurde Hamm Sitz einer Exilregierung, die im Nassauer Hof residierte. Wer waren die Exilanten?",
+"optionen": [
+"Sie waren polnische Adlige auf der Flucht.",
+"Sie waren niederländische Patrioten im Exil.",
+"Sie waren Brüder des französischen Königs.",
+"Sie waren schwedische Prinzen nach einem Königsmord."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schweden liegt nahe, denn dort wurde in jener Zeit ein König ermordet. In Hamm aber saß die Exilregierung der Brüder des französischen Königs Ludwig XVI. Beide wurden später selbst Könige von Frankreich. Die Exilregierung verkündete die „Hammer Déclaration“. Im Nassauer Hof ist heute das Marienhospital. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hamm.de/800/historie-zeitleiste",
+"faktencheck": "korrigiert",
+"id": "204-hamm/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hamm",
+"steckbrief": "Großstadt an der Lippe mit rund 179.000 Einwohnern, 89 km Luftlinie von Düsseldorf.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Hamm?",
+"optionen": [
+"unter 25 m",
+"25 bis unter 45 m",
+"45 bis unter 60 m",
+"60 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an die flache Flusslandschaft der Lippe denkt, schätzt Hamm leicht zu tief ein. Doch die Angaben für die Stadt liegen bei 63 bis 66 Metern über dem Meeresspiegel. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2911240)",
+"faktencheck": "bestätigt",
+"id": "204-hamm/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hamm",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 179.000 Einwohnern, 89 km Luftlinie von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Hamm gehörte einst zum Städtebund der Hanse.",
+"Hamm hatte einst Kuranlagen und hieß dafür „Bad Hamm“.",
+"Durch Hamms Straßen fuhr nie eine Straßenbahn."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bad Hamm wirkt wie die Lüge, denn heute trägt die Stadt kein „Bad“ im Namen. Doch in Bad Hamm gab es tatsächlich Kuranlagen mit Badehaus und Logierhaus, einem Gästehaus, und Hamm war Hansestadt. Gelogen ist die dritte Aussage: Hamm hatte eine Straßenbahn. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.hamm.de/800/historie-zeitleiste",
+"faktencheck": "korrigiert",
+"id": "204-hamm/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hamm",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 179.000 Einwohnern, 89 km Luftlinie von Düsseldorf.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Hamm die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an das Ruhrgebiet als altes SPD-Land denkt, erwartet einen klaren Sieger mit hohem Anteil. Doch die Stimmen verteilten sich breit: Die CDU wurde mit 28,2 Prozent stärkste Partei, vor SPD und AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "204-hamm/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hamm",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 179.000 Einwohnern, 89 km Luftlinie von Düsseldorf.",
+"frage": "Im Maximilianpark steht der Glaselefant, ein Wahrzeichen Hamms. In welchem Stadtteil liegt der Park?",
+"optionen": [
+"Der Park liegt in Heessen.",
+"Der Park liegt in Hamm-Mitte.",
+"Der Park liegt in Werries.",
+"Der Park liegt in Rhynern."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Hamm-Mitte liegt nahe, denn Wahrzeichen stehen oft im Stadtzentrum. Der Maximilianpark mit dem Glaselefanten liegt aber im Stadtteil Werries. Der Glaselefant ist ein Wahrzeichen der Stadt und überregional bekannt, der Park ein Besuchermagnet. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hamm.de/planen-bauen-wohnen/planen-und-entwickeln/planungen-in-den-stadtteilen/isek-werries",
+"faktencheck": "korrigiert",
+"id": "204-hamm/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hamm",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 179.000 Einwohnern, 89 km Luftlinie von Düsseldorf.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Hamm?",
+"optionen": [
+"DO",
+"MS",
+"BO",
+"HAM"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. DO oder BO liegen nahe, wenn man Hamm einfach dem Ruhrgebiet und seinen bekannten Großstädten zuschlägt. Doch Hamm ist selbst eine Großstadt und hat ein eigenes Kennzeichen: HAM. Richtig war 4.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "204-hamm/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hamm",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 179.000 Einwohnern, 89 km Luftlinie von Düsseldorf.",
+"frage": "1920 kam es im Hammer Stadtteil Pelkum zu einer Schlacht. Wer kämpfte dort gegeneinander?",
+"optionen": [
+"Bergleute einer „Roten Armee“ kämpften gegen die Reichswehr.",
+"Französische Besatzer kämpften gegen eine Bürgerwehr.",
+"Polnische Freikorps kämpften gegen preußische Polizei.",
+"Belgische Soldaten kämpften gegen streikende Bauern."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Französische Besatzer liegen nahe, weil man an die Ruhrbesetzung denkt; die folgte aber erst später. In Pelkum kämpften Bergleute einer „Roten Armee“ gegen die Reichswehr. Auslöser war der Kapp-Putsch, ein Umsturzversuch von rechts. Streikende Arbeiter sprengten eine Brücke über die Hamm-Osterfelder Bahn. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.hamm.de/800/historie-zeitleiste",
+"faktencheck": "korrigiert",
+"id": "204-hamm/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hamm",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 179.000 Einwohnern, 89 km Luftlinie von Düsseldorf.",
+"frage": "Hamms Bahnhof wurde im 19. Jahrhundert zum Eisenbahnknotenpunkt. Wo stand sein damaliges Empfangsgebäude?",
+"optionen": [
+"Es stand quer vor dem Ende der Gleise.",
+"Es stand als Insel zwischen den Gleisen.",
+"Es stand auf einer Brücke über den Gleisen.",
+"Es stand seitlich neben den Gleisen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Seitlich neben den Gleisen liegt nahe, so stehen viele Bahnhofsgebäude. In Hamm aber wurde das Empfangsgebäude als Insel zwischen den Gleisen errichtet. Das passte zum Eisenbahnknotenpunkt Hamm. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hamm.de/800/historie-zeitleiste",
+"faktencheck": "korrigiert",
+"id": "204-hamm/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hamm",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 179.000 Einwohnern, 89 km Luftlinie von Düsseldorf.",
+"frage": "Hamm bekam sein Stadtrecht nach dem Vorbild einer anderen Stadt. Welcher?",
+"optionen": [
+"Hamm bekam das Lübecker Stadtrecht.",
+"Hamm bekam das Magdeburger Stadtrecht.",
+"Hamm bekam das Münsteraner Stadtrecht.",
+"Hamm bekam das Lippstädter Stadtrecht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Lübeck liegt nahe, weil das Lübecker Recht weit verbreitet war. Hamm aber erhielt Lippstädter Recht, also nach dem Vorbild von Lippstadt. Gegründet wurde die Stadt unter dem Namen „tom Hamme“. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.hamm.de/800/historie-zeitleiste",
+"faktencheck": "bestätigt",
+"id": "204-hamm/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "203-kamen",
+"anschluss": [
+"Einwohner: Hamm hat gut viermal so viele wie Kamen.",
+"Bundestagswahl 2025: CDU gewann in Hamm, SPD in Kamen."
+],
+"anschluesse": {
+"203-kamen": [
+"Einwohner: Hamm hat gut viermal so viele wie Kamen.",
+"Bundestagswahl 2025: CDU gewann in Hamm, SPD in Kamen."
+]
+},
+"ags": "05915000",
+"ortsteil": false,
+"km_vom_vorigen": 14.6
 }
 ]
 }

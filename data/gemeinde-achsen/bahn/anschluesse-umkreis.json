@@ -2615,6 +2615,18 @@
    "184-hoehr-grenzhausen": [
     "Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Andernach zum Landkreis Mayen-Koblenz.",
     "Andernach hat gut dreimal so viele Einwohner wie Höhr-Grenzhausen."
+   ],
+   "185-bad-breisig": [
+    "Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Andernach zum Landkreis Mayen-Koblenz.",
+    "Andernach hat gut dreimal so viele Einwohner wie Bad Breisig."
+   ],
+   "186-sinzig": [
+    "Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Andernach zum Landkreis Mayen-Koblenz.",
+    "Andernach hat gut anderthalbmal so viele Einwohner wie Sinzig."
+   ],
+   "187-remagen": [
+    "Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Andernach zum Landkreis Mayen-Koblenz.",
+    "Andernach hat gut anderthalbmal so viele Einwohner wie Remagen."
    ]
   },
   "140-weissenthurm": {
@@ -2645,6 +2657,10 @@
    "184-hoehr-grenzhausen": [
     "Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Weißenthurm zum Landkreis Mayen-Koblenz.",
     "Bundestagswahl 2025: In Höhr-Grenzhausen lag die CDU vorn, in Weißenthurm die AfD."
+   ],
+   "185-bad-breisig": [
+    "Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Weißenthurm zum Landkreis Mayen-Koblenz.",
+    "Bundestagswahl 2025: In Bad Breisig lag die CDU vorn, in Weißenthurm die AfD."
    ]
   },
   "53-koblenz": {
@@ -5003,6 +5019,12 @@
    "180-diez": [
     "Landesgrenze: Diez liegt in Rheinland-Pfalz, Hünfelden in Hessen.",
     "Diez hat rund 1.700 Einwohner mehr als Hünfelden."
+   ],
+   "228-runkel": [
+    "Runkel und Hünfelden sind fast gleich groß: rund 9.400 und 9.700 Einwohner."
+   ],
+   "229-weilburg": [
+    "Weilburg hat rund 3.300 Einwohner mehr als Hünfelden."
    ]
   },
   "178-limburg": {
@@ -5023,6 +5045,12 @@
    "182-heiligenroth": [
     "Landesgrenze: Heiligenroth liegt in Rheinland-Pfalz, Limburg an der Lahn in Hessen.",
     "Limburg an der Lahn hat rund 25-mal so viele Einwohner wie Heiligenroth."
+   ],
+   "228-runkel": [
+    "Limburg an der Lahn hat fast viermal so viele Einwohner wie Runkel."
+   ],
+   "229-weilburg": [
+    "Limburg an der Lahn hat gut zweieinhalbmal so viele Einwohner wie Weilburg."
    ]
   },
   "179-elz": {
@@ -5043,6 +5071,16 @@
    "182-heiligenroth": [
     "Landesgrenze: Heiligenroth liegt in Rheinland-Pfalz, Elz in Hessen.",
     "Elz hat fast sechsmal so viele Einwohner wie Heiligenroth."
+   ],
+   "228-runkel": [
+    "Runkel hat rund 1.300 Einwohner mehr als Elz."
+   ],
+   "229-weilburg": [
+    "Weilburg hat gut anderthalbmal so viele Einwohner wie Elz."
+   ],
+   "230-loehnberg": [
+    "Elz hat gut anderthalbmal so viele Einwohner wie Löhnberg.",
+    "Löhnberg hat doppelt so viel Fläche wie Elz, aber weniger Einwohner."
    ]
   },
   "180-diez": {
@@ -5065,6 +5103,10 @@
    "182-heiligenroth": [
     "Kreisgrenze: Heiligenroth gehört zum Westerwaldkreis, Diez zum Rhein-Lahn-Kreis.",
     "Diez hat achtmal so viele Einwohner wie Heiligenroth."
+   ],
+   "228-runkel": [
+    "Landesgrenze: Runkel liegt in Hessen, Diez in Rheinland-Pfalz.",
+    "Diez hat rund 2.000 Einwohner mehr als Runkel."
    ]
   },
   "181-montabaur": {
@@ -5197,6 +5239,998 @@
    ],
    "183-ransbach-baumbach": [
     "Höhr-Grenzhausen hat rund 1.200 Einwohner mehr als Ransbach-Baumbach."
+   ]
+  },
+  "185-bad-breisig": {
+   "47-andernach": [
+    "Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Bad Breisig zum Landkreis Ahrweiler.",
+    "Andernach hat gut dreimal so viele Einwohner wie Bad Breisig."
+   ],
+   "140-weissenthurm": [
+    "Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Bad Breisig zum Landkreis Ahrweiler.",
+    "Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Bad Breisig die CDU."
+   ],
+   "186-sinzig": [
+    "Sinzig hat fast doppelt so viele Einwohner wie Bad Breisig."
+   ],
+   "187-remagen": [
+    "Remagen hat fast doppelt so viele Einwohner wie Bad Breisig."
+   ]
+  },
+  "186-sinzig": {
+   "47-andernach": [
+    "Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Sinzig zum Landkreis Ahrweiler.",
+    "Andernach hat gut anderthalbmal so viele Einwohner wie Sinzig."
+   ],
+   "185-bad-breisig": [
+    "Sinzig hat fast doppelt so viele Einwohner wie Bad Breisig."
+   ],
+   "187-remagen": [
+    "Remagen und Sinzig sind fast gleich groß: rund 18.000 und 17.000 Einwohner."
+   ]
+  },
+  "187-remagen": {
+   "47-andernach": [
+    "Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Remagen zum Landkreis Ahrweiler.",
+    "Andernach hat gut anderthalbmal so viele Einwohner wie Remagen."
+   ],
+   "185-bad-breisig": [
+    "Remagen hat fast doppelt so viele Einwohner wie Bad Breisig."
+   ],
+   "186-sinzig": [
+    "Sinzig und Remagen sind fast gleich groß: rund 17.000 und 18.000 Einwohner."
+   ],
+   "188-bonn": [
+    "Landesgrenze: Bonn liegt in Nordrhein-Westfalen, Remagen in Rheinland-Pfalz.",
+    "Bonn hat achtzehnmal so viele Einwohner wie Remagen."
+   ]
+  },
+  "188-bonn": {
+   "187-remagen": [
+    "Landesgrenze: Remagen liegt in Rheinland-Pfalz, Bonn in Nordrhein-Westfalen.",
+    "Bonn hat achtzehnmal so viele Einwohner wie Remagen."
+   ],
+   "189-bornheim": [
+    "Bonn hat fast siebenmal so viele Einwohner wie Bornheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bornheim die SPD, in Bonn die Grünen."
+   ],
+   "190-bruehl": [
+    "Bonn hat siebenmal so viele Einwohner wie Brühl.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Brühl die SPD, in Bonn die Grünen."
+   ]
+  },
+  "189-bornheim": {
+   "188-bonn": [
+    "Bonn hat fast siebenmal so viele Einwohner wie Bornheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bonn die Grünen, in Bornheim die SPD."
+   ],
+   "190-bruehl": [
+    "Brühl und Bornheim sind fast gleich groß: rund 46.000 und 48.000 Einwohner."
+   ],
+   "191-huerth": [
+    "Hürth hat rund 14.000 Einwohner mehr als Bornheim."
+   ]
+  },
+  "190-bruehl": {
+   "188-bonn": [
+    "Bonn hat siebenmal so viele Einwohner wie Brühl.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bonn die Grünen, in Brühl die SPD."
+   ],
+   "189-bornheim": [
+    "Bornheim und Brühl sind fast gleich groß: rund 48.000 und 46.000 Einwohner."
+   ],
+   "191-huerth": [
+    "Hürth hat rund 16.000 Einwohner mehr als Brühl."
+   ],
+   "192-koeln": [
+    "Köln hat rund zwanzigmal so viele Einwohner wie Brühl.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Brühl die SPD."
+   ]
+  },
+  "191-huerth": {
+   "189-bornheim": [
+    "Hürth hat rund 14.000 Einwohner mehr als Bornheim."
+   ],
+   "190-bruehl": [
+    "Hürth hat rund 16.000 Einwohner mehr als Brühl."
+   ],
+   "192-koeln": [
+    "Köln hat siebzehnmal so viele Einwohner wie Hürth.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Hürth die SPD."
+   ],
+   "193-leverkusen": [
+    "Leverkusen hat gut zweieinhalbmal so viele Einwohner wie Hürth."
+   ]
+  },
+  "192-koeln": {
+   "190-bruehl": [
+    "Köln hat rund zwanzigmal so viele Einwohner wie Brühl.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Brühl die SPD, in Köln die Grünen."
+   ],
+   "191-huerth": [
+    "Köln hat siebzehnmal so viele Einwohner wie Hürth.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Hürth die SPD, in Köln die Grünen."
+   ],
+   "193-leverkusen": [
+    "Köln hat sechsmal so viele Einwohner wie Leverkusen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Leverkusen die SPD, in Köln die Grünen."
+   ],
+   "194-langenfeld": [
+    "Köln hat siebzehnmal so viele Einwohner wie Langenfeld.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Langenfeld die SPD, in Köln die Grünen."
+   ]
+  },
+  "193-leverkusen": {
+   "191-huerth": [
+    "Leverkusen hat gut zweieinhalbmal so viele Einwohner wie Hürth."
+   ],
+   "192-koeln": [
+    "Köln hat sechsmal so viele Einwohner wie Leverkusen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Leverkusen die SPD."
+   ],
+   "194-langenfeld": [
+    "Leverkusen hat fast dreimal so viele Einwohner wie Langenfeld."
+   ]
+  },
+  "194-langenfeld": {
+   "192-koeln": [
+    "Köln hat siebzehnmal so viele Einwohner wie Langenfeld.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Langenfeld die SPD."
+   ],
+   "193-leverkusen": [
+    "Leverkusen hat fast dreimal so viele Einwohner wie Langenfeld."
+   ],
+   "195-duesseldorf": [
+    "Düsseldorf hat gut zehnmal so viele Einwohner wie Langenfeld."
+   ]
+  },
+  "195-duesseldorf": {
+   "194-langenfeld": [
+    "Düsseldorf hat gut zehnmal so viele Einwohner wie Langenfeld."
+   ],
+   "196-ratingen": [
+    "Düsseldorf hat siebenmal so viele Einwohner wie Ratingen."
+   ]
+  },
+  "196-ratingen": {
+   "195-duesseldorf": [
+    "Düsseldorf hat siebenmal so viele Einwohner wie Ratingen."
+   ],
+   "197-duisburg": [
+    "Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Ratingen die CDU.",
+    "Duisburg hat fast sechsmal so viele Einwohner wie Ratingen."
+   ],
+   "198-muelheim": [
+    "Mülheim an der Ruhr hat fast doppelt so viele Einwohner wie Ratingen."
+   ]
+  },
+  "197-duisburg": {
+   "196-ratingen": [
+    "Bundestagswahl 2025: In Ratingen lag die CDU vorn, in Duisburg die SPD.",
+    "Duisburg hat fast sechsmal so viele Einwohner wie Ratingen."
+   ],
+   "198-muelheim": [
+    "Bundestagswahl 2025: In Mülheim an der Ruhr lag die CDU vorn, in Duisburg die SPD.",
+    "Duisburg hat dreimal so viele Einwohner wie Mülheim an der Ruhr."
+   ],
+   "199-essen": [
+    "Bundestagswahl 2025: In Essen lag die CDU vorn, in Duisburg die SPD.",
+    "Essen hat rund 73.000 Einwohner mehr als Duisburg."
+   ]
+  },
+  "198-muelheim": {
+   "196-ratingen": [
+    "Mülheim an der Ruhr hat fast doppelt so viele Einwohner wie Ratingen."
+   ],
+   "197-duisburg": [
+    "Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Mülheim an der Ruhr die CDU.",
+    "Duisburg hat dreimal so viele Einwohner wie Mülheim an der Ruhr."
+   ],
+   "199-essen": [
+    "Essen hat fast dreieinhalbmal so viele Einwohner wie Mülheim an der Ruhr."
+   ],
+   "200-gelsenkirchen": [
+    "Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Mülheim an der Ruhr die CDU.",
+    "Gelsenkirchen hat gut anderthalbmal so viele Einwohner wie Mülheim an der Ruhr."
+   ]
+  },
+  "199-essen": {
+   "197-duisburg": [
+    "Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Essen die CDU.",
+    "Essen hat rund 73.000 Einwohner mehr als Duisburg."
+   ],
+   "198-muelheim": [
+    "Essen hat fast dreieinhalbmal so viele Einwohner wie Mülheim an der Ruhr."
+   ],
+   "200-gelsenkirchen": [
+    "Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Essen die CDU.",
+    "Essen hat gut doppelt so viele Einwohner wie Gelsenkirchen."
+   ],
+   "201-bochum": [
+    "Bundestagswahl 2025: In Bochum lag die SPD vorn, in Essen die CDU.",
+    "Essen hat gut anderthalbmal so viele Einwohner wie Bochum."
+   ]
+  },
+  "200-gelsenkirchen": {
+   "198-muelheim": [
+    "Bundestagswahl 2025: In Mülheim an der Ruhr lag die CDU vorn, in Gelsenkirchen die AfD.",
+    "Gelsenkirchen hat gut anderthalbmal so viele Einwohner wie Mülheim an der Ruhr."
+   ],
+   "199-essen": [
+    "Bundestagswahl 2025: In Essen lag die CDU vorn, in Gelsenkirchen die AfD.",
+    "Essen hat gut doppelt so viele Einwohner wie Gelsenkirchen."
+   ],
+   "201-bochum": [
+    "Bundestagswahl 2025: In Bochum lag die SPD vorn, in Gelsenkirchen die AfD.",
+    "Bochum hat rund 93.000 Einwohner mehr als Gelsenkirchen."
+   ]
+  },
+  "201-bochum": {
+   "199-essen": [
+    "Bundestagswahl 2025: In Essen lag die CDU vorn, in Bochum die SPD.",
+    "Essen hat gut anderthalbmal so viele Einwohner wie Bochum."
+   ],
+   "200-gelsenkirchen": [
+    "Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Bochum die SPD.",
+    "Bochum hat rund 93.000 Einwohner mehr als Gelsenkirchen."
+   ],
+   "202-dortmund": [
+    "Dortmund hat gut anderthalbmal so viele Einwohner wie Bochum."
+   ]
+  },
+  "202-dortmund": {
+   "201-bochum": [
+    "Dortmund hat gut anderthalbmal so viele Einwohner wie Bochum."
+   ],
+   "203-kamen": [
+    "Dortmund hat vierzehnmal so viele Einwohner wie Kamen."
+   ]
+  },
+  "203-kamen": {
+   "202-dortmund": [
+    "Dortmund hat vierzehnmal so viele Einwohner wie Kamen."
+   ],
+   "204-hamm": [
+    "Bundestagswahl 2025: In Hamm lag die CDU vorn, in Kamen die SPD.",
+    "Hamm hat fast viereinhalbmal so viele Einwohner wie Kamen."
+   ]
+  },
+  "204-hamm": {
+   "203-kamen": [
+    "Bundestagswahl 2025: In Kamen lag die SPD vorn, in Hamm die CDU.",
+    "Hamm hat fast viereinhalbmal so viele Einwohner wie Kamen."
+   ],
+   "205-ahlen": [
+    "Hamm hat dreieinhalbmal so viele Einwohner wie Ahlen."
+   ]
+  },
+  "205-ahlen": {
+   "204-hamm": [
+    "Hamm hat dreieinhalbmal so viele Einwohner wie Ahlen."
+   ],
+   "206-oelde": [
+    "Ahlen hat gut anderthalbmal so viele Einwohner wie Oelde."
+   ]
+  },
+  "206-oelde": {
+   "205-ahlen": [
+    "Ahlen hat gut anderthalbmal so viele Einwohner wie Oelde."
+   ],
+   "207-rheda-wiedenbrueck": [
+    "Rheda-Wiedenbrück hat gut anderthalbmal so viele Einwohner wie Oelde."
+   ],
+   "208-guetersloh": [
+    "Gütersloh hat fast dreieinhalbmal so viele Einwohner wie Oelde."
+   ]
+  },
+  "207-rheda-wiedenbrueck": {
+   "206-oelde": [
+    "Rheda-Wiedenbrück hat gut anderthalbmal so viele Einwohner wie Oelde."
+   ],
+   "208-guetersloh": [
+    "Gütersloh hat gut doppelt so viele Einwohner wie Rheda-Wiedenbrück."
+   ]
+  },
+  "208-guetersloh": {
+   "206-oelde": [
+    "Gütersloh hat fast dreieinhalbmal so viele Einwohner wie Oelde."
+   ],
+   "207-rheda-wiedenbrueck": [
+    "Gütersloh hat gut doppelt so viele Einwohner wie Rheda-Wiedenbrück."
+   ],
+   "209-bielefeld": [
+    "Bielefeld hat fast dreieinhalbmal so viele Einwohner wie Gütersloh."
+   ]
+  },
+  "209-bielefeld": {
+   "208-guetersloh": [
+    "Bielefeld hat fast dreieinhalbmal so viele Einwohner wie Gütersloh."
+   ],
+   "210-herford": [
+    "Bielefeld hat fünfmal so viele Einwohner wie Herford.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Herford die AfD, in Bielefeld die SPD."
+   ]
+  },
+  "210-herford": {
+   "209-bielefeld": [
+    "Bielefeld hat fünfmal so viele Einwohner wie Herford.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bielefeld die SPD, in Herford die AfD."
+   ],
+   "211-loehne": [
+    "Herford hat gut anderthalbmal so viele Einwohner wie Löhne.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Löhne die SPD, in Herford die AfD."
+   ],
+   "212-bad-oeynhausen": [
+    "Herford hat rund 17.000 Einwohner mehr als Bad Oeynhausen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bad Oeynhausen die SPD, in Herford die AfD."
+   ]
+  },
+  "211-loehne": {
+   "210-herford": [
+    "Herford hat gut anderthalbmal so viele Einwohner wie Löhne.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Herford die AfD, in Löhne die SPD."
+   ],
+   "212-bad-oeynhausen": [
+    "Bad Oeynhausen hat rund 9.800 Einwohner mehr als Löhne."
+   ],
+   "213-porta-westfalica": [
+    "Löhne hat rund 4.300 Einwohner mehr als Porta Westfalica.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Porta Westfalica die AfD, in Löhne die SPD."
+   ],
+   "214-minden": [
+    "Bundestagswahl 2025: In Minden lag die SPD vorn, in Löhne die CDU.",
+    "Minden hat doppelt so viele Einwohner wie Löhne."
+   ]
+  },
+  "212-bad-oeynhausen": {
+   "210-herford": [
+    "Herford hat rund 17.000 Einwohner mehr als Bad Oeynhausen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Herford die AfD, in Bad Oeynhausen die SPD."
+   ],
+   "211-loehne": [
+    "Bad Oeynhausen hat rund 9.800 Einwohner mehr als Löhne."
+   ],
+   "213-porta-westfalica": [
+    "Bad Oeynhausen hat rund 14.000 Einwohner mehr als Porta Westfalica.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Porta Westfalica die AfD, in Bad Oeynhausen die SPD."
+   ],
+   "214-minden": [
+    "Bundestagswahl 2025: In Minden lag die SPD vorn, in Bad Oeynhausen die CDU.",
+    "Minden hat gut anderthalbmal so viele Einwohner wie Bad Oeynhausen."
+   ],
+   "215-bueckeburg": [
+    "Landesgrenze: Bückeburg liegt in Niedersachsen, Bad Oeynhausen in Nordrhein-Westfalen.",
+    "Bad Oeynhausen hat gut zweieinhalbmal so viele Einwohner wie Bückeburg."
+   ]
+  },
+  "213-porta-westfalica": {
+   "211-loehne": [
+    "Löhne hat rund 4.300 Einwohner mehr als Porta Westfalica.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Löhne die SPD, in Porta Westfalica die AfD."
+   ],
+   "212-bad-oeynhausen": [
+    "Bad Oeynhausen hat rund 14.000 Einwohner mehr als Porta Westfalica.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bad Oeynhausen die SPD, in Porta Westfalica die AfD."
+   ],
+   "214-minden": [
+    "Bundestagswahl 2025: In Minden lag die SPD vorn, in Porta Westfalica die CDU.",
+    "Minden hat fast zweieinhalbmal so viele Einwohner wie Porta Westfalica."
+   ],
+   "215-bueckeburg": [
+    "Landesgrenze: Bückeburg liegt in Niedersachsen, Porta Westfalica in Nordrhein-Westfalen.",
+    "Porta Westfalica hat fast doppelt so viele Einwohner wie Bückeburg."
+   ]
+  },
+  "214-minden": {
+   "211-loehne": [
+    "Bundestagswahl 2025: In Löhne lag die CDU vorn, in Minden die SPD.",
+    "Minden hat doppelt so viele Einwohner wie Löhne."
+   ],
+   "212-bad-oeynhausen": [
+    "Bundestagswahl 2025: In Bad Oeynhausen lag die CDU vorn, in Minden die SPD.",
+    "Minden hat gut anderthalbmal so viele Einwohner wie Bad Oeynhausen."
+   ],
+   "213-porta-westfalica": [
+    "Bundestagswahl 2025: In Porta Westfalica lag die CDU vorn, in Minden die SPD.",
+    "Minden hat fast zweieinhalbmal so viele Einwohner wie Porta Westfalica."
+   ],
+   "215-bueckeburg": [
+    "Landesgrenze: Bückeburg liegt in Niedersachsen, Minden in Nordrhein-Westfalen.",
+    "Bundestagswahl 2025: In Bückeburg lag die CDU vorn, in Minden die SPD."
+   ]
+  },
+  "215-bueckeburg": {
+   "212-bad-oeynhausen": [
+    "Landesgrenze: Bad Oeynhausen liegt in Nordrhein-Westfalen, Bückeburg in Niedersachsen.",
+    "Bad Oeynhausen hat gut zweieinhalbmal so viele Einwohner wie Bückeburg."
+   ],
+   "213-porta-westfalica": [
+    "Landesgrenze: Porta Westfalica liegt in Nordrhein-Westfalen, Bückeburg in Niedersachsen.",
+    "Porta Westfalica hat fast doppelt so viele Einwohner wie Bückeburg."
+   ],
+   "214-minden": [
+    "Landesgrenze: Minden liegt in Nordrhein-Westfalen, Bückeburg in Niedersachsen.",
+    "Bundestagswahl 2025: In Minden lag die SPD vorn, in Bückeburg die CDU."
+   ],
+   "216-stadthagen": [
+    "Bundestagswahl 2025: In Stadthagen lag die SPD vorn, in Bückeburg die CDU.",
+    "Stadthagen hat rund 3.500 Einwohner mehr als Bückeburg."
+   ]
+  },
+  "216-stadthagen": {
+   "215-bueckeburg": [
+    "Bundestagswahl 2025: In Bückeburg lag die CDU vorn, in Stadthagen die SPD.",
+    "Stadthagen hat rund 3.500 Einwohner mehr als Bückeburg."
+   ],
+   "217-haste": [
+    "Bundestagswahl 2025: In Haste lag die CDU vorn, in Stadthagen die SPD.",
+    "Stadthagen hat achtmal so viele Einwohner wie Haste."
+   ],
+   "218-wunstorf": [
+    "Kreisgrenze: Wunstorf gehört zum Landkreis Region Hannover, Stadthagen zum Landkreis Schaumburg.",
+    "Bundestagswahl 2025: In Wunstorf lag die CDU vorn, in Stadthagen die SPD."
+   ]
+  },
+  "217-haste": {
+   "216-stadthagen": [
+    "Bundestagswahl 2025: In Stadthagen lag die SPD vorn, in Haste die CDU.",
+    "Stadthagen hat achtmal so viele Einwohner wie Haste."
+   ],
+   "218-wunstorf": [
+    "Kreisgrenze: Wunstorf gehört zum Landkreis Region Hannover, Haste zum Landkreis Schaumburg.",
+    "Wunstorf hat fünfzehnmal so viele Einwohner wie Haste."
+   ],
+   "219-seelze": [
+    "Kreisgrenze: Seelze gehört zum Landkreis Region Hannover, Haste zum Landkreis Schaumburg.",
+    "Seelze hat zwölfmal so viele Einwohner wie Haste."
+   ]
+  },
+  "218-wunstorf": {
+   "216-stadthagen": [
+    "Kreisgrenze: Stadthagen gehört zum Landkreis Schaumburg, Wunstorf zum Landkreis Region Hannover.",
+    "Bundestagswahl 2025: In Stadthagen lag die SPD vorn, in Wunstorf die CDU."
+   ],
+   "217-haste": [
+    "Kreisgrenze: Haste gehört zum Landkreis Schaumburg, Wunstorf zum Landkreis Region Hannover.",
+    "Wunstorf hat fünfzehnmal so viele Einwohner wie Haste."
+   ],
+   "219-seelze": [
+    "Wunstorf hat rund 6.700 Einwohner mehr als Seelze."
+   ]
+  },
+  "219-seelze": {
+   "217-haste": [
+    "Kreisgrenze: Haste gehört zum Landkreis Schaumburg, Seelze zum Landkreis Region Hannover.",
+    "Seelze hat zwölfmal so viele Einwohner wie Haste."
+   ],
+   "218-wunstorf": [
+    "Wunstorf hat rund 6.700 Einwohner mehr als Seelze."
+   ],
+   "220-hannover": [
+    "Bundestagswahl 2025: In Hannover lag die SPD vorn, in Seelze die CDU.",
+    "Hannover hat fünfzehnmal so viele Einwohner wie Seelze."
+   ]
+  },
+  "220-hannover": {
+   "219-seelze": [
+    "Bundestagswahl 2025: In Seelze lag die CDU vorn, in Hannover die SPD.",
+    "Hannover hat fünfzehnmal so viele Einwohner wie Seelze."
+   ],
+   "221-lehrte": [
+    "Bundestagswahl 2025: In Lehrte lag die CDU vorn, in Hannover die SPD.",
+    "Hannover hat zwölfmal so viele Einwohner wie Lehrte."
+   ]
+  },
+  "221-lehrte": {
+   "220-hannover": [
+    "Bundestagswahl 2025: In Hannover lag die SPD vorn, in Lehrte die CDU.",
+    "Hannover hat zwölfmal so viele Einwohner wie Lehrte."
+   ]
+  },
+  "222-gifhorn": {
+   "223-wolfsburg": [
+    "Kreisgrenze: Wolfsburg ist kreisfrei, Gifhorn gehört zum Landkreis Gifhorn.",
+    "Wolfsburg hat dreimal so viele Einwohner wie Gifhorn."
+   ]
+  },
+  "223-wolfsburg": {
+   "222-gifhorn": [
+    "Kreisgrenze: Gifhorn gehört zum Landkreis Gifhorn, Wolfsburg ist kreisfrei.",
+    "Wolfsburg hat dreimal so viele Einwohner wie Gifhorn."
+   ],
+   "224-oebisfelde": [
+    "Landesgrenze: Oebisfelde-Weferlingen liegt in Sachsen-Anhalt, Wolfsburg in Niedersachsen.",
+    "Bundestagswahl 2025: In Oebisfelde-Weferlingen lag die AfD vorn, in Wolfsburg die CDU."
+   ]
+  },
+  "224-oebisfelde": {
+   "223-wolfsburg": [
+    "Landesgrenze: Wolfsburg liegt in Niedersachsen, Oebisfelde-Weferlingen in Sachsen-Anhalt.",
+    "Bundestagswahl 2025: In Wolfsburg lag die CDU vorn, in Oebisfelde-Weferlingen die AfD."
+   ]
+  },
+  "228-runkel": {
+   "177-huenfelden": [
+    "Hünfelden und Runkel sind fast gleich groß: rund 9.700 und 9.400 Einwohner."
+   ],
+   "178-limburg": [
+    "Limburg an der Lahn hat fast viermal so viele Einwohner wie Runkel."
+   ],
+   "179-elz": [
+    "Runkel hat rund 1.300 Einwohner mehr als Elz."
+   ],
+   "180-diez": [
+    "Landesgrenze: Diez liegt in Rheinland-Pfalz, Runkel in Hessen.",
+    "Diez hat rund 2.000 Einwohner mehr als Runkel."
+   ],
+   "229-weilburg": [
+    "Weilburg hat rund 3.600 Einwohner mehr als Runkel."
+   ],
+   "230-loehnberg": [
+    "Runkel hat doppelt so viele Einwohner wie Löhnberg."
+   ]
+  },
+  "229-weilburg": {
+   "177-huenfelden": [
+    "Weilburg hat rund 3.300 Einwohner mehr als Hünfelden."
+   ],
+   "178-limburg": [
+    "Limburg an der Lahn hat gut zweieinhalbmal so viele Einwohner wie Weilburg."
+   ],
+   "179-elz": [
+    "Weilburg hat gut anderthalbmal so viele Einwohner wie Elz."
+   ],
+   "228-runkel": [
+    "Weilburg hat rund 3.600 Einwohner mehr als Runkel."
+   ],
+   "230-loehnberg": [
+    "Weilburg hat fast dreimal so viele Einwohner wie Löhnberg."
+   ],
+   "231-leun": [
+    "Kreisgrenze: Leun gehört zum Lahn-Dill-Kreis, Weilburg zum Landkreis Limburg-Weilburg.",
+    "Bundestagswahl 2025: In Leun lag die AfD vorn, in Weilburg die CDU."
+   ],
+   "232-solms": [
+    "Kreisgrenze: Solms gehört zum Lahn-Dill-Kreis, Weilburg zum Landkreis Limburg-Weilburg.",
+    "Solms und Weilburg sind fast gleich groß: rund 14.000 und 13.000 Einwohner."
+   ],
+   "233-wetzlar": [
+    "Kreisgrenze: Wetzlar gehört zum Lahn-Dill-Kreis, Weilburg zum Landkreis Limburg-Weilburg.",
+    "Wetzlar hat gut viermal so viele Einwohner wie Weilburg."
+   ]
+  },
+  "230-loehnberg": {
+   "179-elz": [
+    "Elz hat gut anderthalbmal so viele Einwohner wie Löhnberg.",
+    "Löhnberg hat doppelt so viel Fläche wie Elz, aber weniger Einwohner."
+   ],
+   "228-runkel": [
+    "Runkel hat doppelt so viele Einwohner wie Löhnberg."
+   ],
+   "229-weilburg": [
+    "Weilburg hat fast dreimal so viele Einwohner wie Löhnberg."
+   ],
+   "231-leun": [
+    "Kreisgrenze: Leun gehört zum Lahn-Dill-Kreis, Löhnberg zum Landkreis Limburg-Weilburg.",
+    "Bundestagswahl 2025: In Leun lag die AfD vorn, in Löhnberg die CDU."
+   ],
+   "232-solms": [
+    "Kreisgrenze: Solms gehört zum Lahn-Dill-Kreis, Löhnberg zum Landkreis Limburg-Weilburg.",
+    "Solms hat fast dreimal so viele Einwohner wie Löhnberg."
+   ],
+   "233-wetzlar": [
+    "Kreisgrenze: Wetzlar gehört zum Lahn-Dill-Kreis, Löhnberg zum Landkreis Limburg-Weilburg.",
+    "Wetzlar hat zwölfmal so viele Einwohner wie Löhnberg."
+   ]
+  },
+  "231-leun": {
+   "229-weilburg": [
+    "Kreisgrenze: Weilburg gehört zum Landkreis Limburg-Weilburg, Leun zum Lahn-Dill-Kreis.",
+    "Bundestagswahl 2025: In Weilburg lag die CDU vorn, in Leun die AfD."
+   ],
+   "230-loehnberg": [
+    "Kreisgrenze: Löhnberg gehört zum Landkreis Limburg-Weilburg, Leun zum Lahn-Dill-Kreis.",
+    "Bundestagswahl 2025: In Löhnberg lag die CDU vorn, in Leun die AfD."
+   ],
+   "232-solms": [
+    "Bundestagswahl 2025: In Solms lag die CDU vorn, in Leun die AfD.",
+    "Solms hat fast zweieinhalbmal so viele Einwohner wie Leun."
+   ],
+   "233-wetzlar": [
+    "Bundestagswahl 2025: In Wetzlar lag die CDU vorn, in Leun die AfD.",
+    "Wetzlar hat fast zehnmal so viele Einwohner wie Leun."
+   ],
+   "234-lahnau": [
+    "Bundestagswahl 2025: In Lahnau lag die CDU vorn, in Leun die AfD.",
+    "Lahnau hat fast anderthalbmal so viele Einwohner wie Leun."
+   ]
+  },
+  "232-solms": {
+   "229-weilburg": [
+    "Kreisgrenze: Weilburg gehört zum Landkreis Limburg-Weilburg, Solms zum Lahn-Dill-Kreis.",
+    "Weilburg und Solms sind fast gleich groß: rund 13.000 und 14.000 Einwohner."
+   ],
+   "230-loehnberg": [
+    "Kreisgrenze: Löhnberg gehört zum Landkreis Limburg-Weilburg, Solms zum Lahn-Dill-Kreis.",
+    "Solms hat fast dreimal so viele Einwohner wie Löhnberg."
+   ],
+   "231-leun": [
+    "Bundestagswahl 2025: In Leun lag die AfD vorn, in Solms die CDU.",
+    "Solms hat fast zweieinhalbmal so viele Einwohner wie Leun."
+   ],
+   "233-wetzlar": [
+    "Wetzlar hat viermal so viele Einwohner wie Solms."
+   ],
+   "234-lahnau": [
+    "Solms hat gut anderthalbmal so viele Einwohner wie Lahnau.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Lahnau die SPD, in Solms die AfD."
+   ],
+   "235-giessen": [
+    "Kreisgrenze: Gießen gehört zum Landkreis Gießen, Solms zum Lahn-Dill-Kreis.",
+    "Gießen hat fast siebenmal so viele Einwohner wie Solms."
+   ]
+  },
+  "233-wetzlar": {
+   "229-weilburg": [
+    "Kreisgrenze: Weilburg gehört zum Landkreis Limburg-Weilburg, Wetzlar zum Lahn-Dill-Kreis.",
+    "Wetzlar hat gut viermal so viele Einwohner wie Weilburg."
+   ],
+   "230-loehnberg": [
+    "Kreisgrenze: Löhnberg gehört zum Landkreis Limburg-Weilburg, Wetzlar zum Lahn-Dill-Kreis.",
+    "Wetzlar hat zwölfmal so viele Einwohner wie Löhnberg."
+   ],
+   "231-leun": [
+    "Bundestagswahl 2025: In Leun lag die AfD vorn, in Wetzlar die CDU.",
+    "Wetzlar hat fast zehnmal so viele Einwohner wie Leun."
+   ],
+   "232-solms": [
+    "Wetzlar hat viermal so viele Einwohner wie Solms."
+   ],
+   "234-lahnau": [
+    "Wetzlar hat fast siebenmal so viele Einwohner wie Lahnau.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Lahnau die SPD, in Wetzlar die AfD."
+   ],
+   "235-giessen": [
+    "Kreisgrenze: Gießen gehört zum Landkreis Gießen, Wetzlar zum Lahn-Dill-Kreis.",
+    "Gießen hat gut anderthalbmal so viele Einwohner wie Wetzlar."
+   ]
+  },
+  "234-lahnau": {
+   "231-leun": [
+    "Bundestagswahl 2025: In Leun lag die AfD vorn, in Lahnau die CDU.",
+    "Lahnau hat fast anderthalbmal so viele Einwohner wie Leun."
+   ],
+   "232-solms": [
+    "Solms hat gut anderthalbmal so viele Einwohner wie Lahnau.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Solms die AfD, in Lahnau die SPD."
+   ],
+   "233-wetzlar": [
+    "Wetzlar hat fast siebenmal so viele Einwohner wie Lahnau.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Wetzlar die AfD, in Lahnau die SPD."
+   ],
+   "235-giessen": [
+    "Kreisgrenze: Gießen gehört zum Landkreis Gießen, Lahnau zum Lahn-Dill-Kreis.",
+    "Gießen hat elfmal so viele Einwohner wie Lahnau."
+   ],
+   "236-reiskirchen": [
+    "Kreisgrenze: Reiskirchen gehört zum Landkreis Gießen, Lahnau zum Lahn-Dill-Kreis.",
+    "Reiskirchen hat rund 2.200 Einwohner mehr als Lahnau."
+   ]
+  },
+  "235-giessen": {
+   "232-solms": [
+    "Kreisgrenze: Solms gehört zum Lahn-Dill-Kreis, Gießen zum Landkreis Gießen.",
+    "Gießen hat fast siebenmal so viele Einwohner wie Solms."
+   ],
+   "233-wetzlar": [
+    "Kreisgrenze: Wetzlar gehört zum Lahn-Dill-Kreis, Gießen zum Landkreis Gießen.",
+    "Gießen hat gut anderthalbmal so viele Einwohner wie Wetzlar."
+   ],
+   "234-lahnau": [
+    "Kreisgrenze: Lahnau gehört zum Lahn-Dill-Kreis, Gießen zum Landkreis Gießen.",
+    "Gießen hat elfmal so viele Einwohner wie Lahnau."
+   ],
+   "236-reiskirchen": [
+    "Gießen hat fast neunmal so viele Einwohner wie Reiskirchen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Reiskirchen die AfD, in Gießen die Grünen."
+   ]
+  },
+  "236-reiskirchen": {
+   "234-lahnau": [
+    "Kreisgrenze: Lahnau gehört zum Lahn-Dill-Kreis, Reiskirchen zum Landkreis Gießen.",
+    "Reiskirchen hat rund 2.200 Einwohner mehr als Lahnau."
+   ],
+   "235-giessen": [
+    "Gießen hat fast neunmal so viele Einwohner wie Reiskirchen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Gießen die Grünen, in Reiskirchen die AfD."
+   ],
+   "237-gruenberg": [
+    "Grünberg hat rund 3.300 Einwohner mehr als Reiskirchen."
+   ],
+   "238-homberg-ohm": [
+    "Kreisgrenze: Homberg (Ohm) gehört zum Vogelsbergkreis, Reiskirchen zum Landkreis Gießen.",
+    "Reiskirchen hat anderthalbmal so viele Einwohner wie Homberg (Ohm)."
+   ]
+  },
+  "237-gruenberg": {
+   "236-reiskirchen": [
+    "Grünberg hat rund 3.300 Einwohner mehr als Reiskirchen."
+   ],
+   "238-homberg-ohm": [
+    "Kreisgrenze: Homberg (Ohm) gehört zum Vogelsbergkreis, Grünberg zum Landkreis Gießen.",
+    "Grünberg hat doppelt so viele Einwohner wie Homberg (Ohm)."
+   ]
+  },
+  "238-homberg-ohm": {
+   "236-reiskirchen": [
+    "Kreisgrenze: Reiskirchen gehört zum Landkreis Gießen, Homberg (Ohm) zum Vogelsbergkreis.",
+    "Reiskirchen hat anderthalbmal so viele Einwohner wie Homberg (Ohm)."
+   ],
+   "237-gruenberg": [
+    "Kreisgrenze: Grünberg gehört zum Landkreis Gießen, Homberg (Ohm) zum Vogelsbergkreis.",
+    "Grünberg hat doppelt so viele Einwohner wie Homberg (Ohm)."
+   ],
+   "239-alsfeld": [
+    "Alsfeld hat gut doppelt so viele Einwohner wie Homberg (Ohm).",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Alsfeld die AfD, in Homberg (Ohm) die SPD."
+   ]
+  },
+  "239-alsfeld": {
+   "238-homberg-ohm": [
+    "Alsfeld hat gut doppelt so viele Einwohner wie Homberg (Ohm).",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Homberg (Ohm) die SPD, in Alsfeld die AfD."
+   ]
+  },
+  "240-kirchheim-hessen": {
+   "241-niederaula": [
+    "Niederaula hat fast anderthalbmal so viele Einwohner wie Kirchheim."
+   ],
+   "242-bad-hersfeld": [
+    "Bad Hersfeld hat gut achtmal so viele Einwohner wie Kirchheim."
+   ]
+  },
+  "241-niederaula": {
+   "240-kirchheim-hessen": [
+    "Niederaula hat fast anderthalbmal so viele Einwohner wie Kirchheim."
+   ],
+   "242-bad-hersfeld": [
+    "Bad Hersfeld hat sechsmal so viele Einwohner wie Niederaula."
+   ]
+  },
+  "242-bad-hersfeld": {
+   "240-kirchheim-hessen": [
+    "Bad Hersfeld hat gut achtmal so viele Einwohner wie Kirchheim."
+   ],
+   "241-niederaula": [
+    "Bad Hersfeld hat sechsmal so viele Einwohner wie Niederaula."
+   ],
+   "243-friedewald": [
+    "Bad Hersfeld hat fast zwölfmal so viele Einwohner wie Friedewald.",
+    "Friedewald liegt rund 180 Meter höher als Bad Hersfeld."
+   ]
+  },
+  "243-friedewald": {
+   "242-bad-hersfeld": [
+    "Bad Hersfeld hat fast zwölfmal so viele Einwohner wie Friedewald.",
+    "Friedewald liegt rund 180 Meter höher als Bad Hersfeld."
+   ],
+   "244-wildeck": [
+    "Wildeck hat fast doppelt so viele Einwohner wie Friedewald.",
+    "Friedewald liegt rund 170 Meter höher als Wildeck."
+   ],
+   "245-gerstungen": [
+    "Landesgrenze: Gerstungen liegt in Thüringen, Friedewald in Hessen.",
+    "Bundestagswahl 2025: In Gerstungen lag die AfD vorn, in Friedewald die CDU."
+   ]
+  },
+  "244-wildeck": {
+   "243-friedewald": [
+    "Wildeck hat fast doppelt so viele Einwohner wie Friedewald.",
+    "Friedewald liegt rund 170 Meter höher als Wildeck."
+   ],
+   "245-gerstungen": [
+    "Landesgrenze: Gerstungen liegt in Thüringen, Wildeck in Hessen.",
+    "Bundestagswahl 2025: In Gerstungen lag die AfD vorn, in Wildeck die CDU."
+   ],
+   "246-herleshausen": [
+    "Kreisgrenze: Herleshausen gehört zum Werra-Meißner-Kreis, Wildeck zum Landkreis Hersfeld-Rotenburg.",
+    "Wildeck hat fast doppelt so viele Einwohner wie Herleshausen."
+   ]
+  },
+  "245-gerstungen": {
+   "243-friedewald": [
+    "Landesgrenze: Friedewald liegt in Hessen, Gerstungen in Thüringen.",
+    "Bundestagswahl 2025: In Friedewald lag die CDU vorn, in Gerstungen die AfD."
+   ],
+   "244-wildeck": [
+    "Landesgrenze: Wildeck liegt in Hessen, Gerstungen in Thüringen.",
+    "Bundestagswahl 2025: In Wildeck lag die CDU vorn, in Gerstungen die AfD."
+   ],
+   "246-herleshausen": [
+    "Landesgrenze: Herleshausen liegt in Hessen, Gerstungen in Thüringen.",
+    "Bundestagswahl 2025: In Herleshausen lag die CDU vorn, in Gerstungen die AfD."
+   ],
+   "247-eisenach": [
+    "Eisenach hat viereinhalbmal so viele Einwohner wie Gerstungen."
+   ]
+  },
+  "246-herleshausen": {
+   "244-wildeck": [
+    "Kreisgrenze: Wildeck gehört zum Landkreis Hersfeld-Rotenburg, Herleshausen zum Werra-Meißner-Kreis.",
+    "Wildeck hat fast doppelt so viele Einwohner wie Herleshausen."
+   ],
+   "245-gerstungen": [
+    "Landesgrenze: Gerstungen liegt in Thüringen, Herleshausen in Hessen.",
+    "Bundestagswahl 2025: In Gerstungen lag die AfD vorn, in Herleshausen die CDU."
+   ],
+   "247-eisenach": [
+    "Landesgrenze: Eisenach liegt in Thüringen, Herleshausen in Hessen.",
+    "Bundestagswahl 2025: In Eisenach lag die AfD vorn, in Herleshausen die CDU."
+   ]
+  },
+  "247-eisenach": {
+   "245-gerstungen": [
+    "Eisenach hat viereinhalbmal so viele Einwohner wie Gerstungen."
+   ],
+   "246-herleshausen": [
+    "Landesgrenze: Herleshausen liegt in Hessen, Eisenach in Thüringen.",
+    "Bundestagswahl 2025: In Herleshausen lag die CDU vorn, in Eisenach die AfD."
+   ],
+   "248-waltershausen": [
+    "Kreisgrenze: Waltershausen gehört zum Landkreis Gotha, Eisenach zum Wartburgkreis.",
+    "Eisenach hat gut dreimal so viele Einwohner wie Waltershausen."
+   ]
+  },
+  "248-waltershausen": {
+   "247-eisenach": [
+    "Kreisgrenze: Eisenach gehört zum Wartburgkreis, Waltershausen zum Landkreis Gotha.",
+    "Eisenach hat gut dreimal so viele Einwohner wie Waltershausen."
+   ],
+   "249-gotha": [
+    "Gotha hat dreieinhalbmal so viele Einwohner wie Waltershausen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Gotha die Linke, in Waltershausen die CDU."
+   ]
+  },
+  "249-gotha": {
+   "248-waltershausen": [
+    "Gotha hat dreieinhalbmal so viele Einwohner wie Waltershausen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Waltershausen die CDU, in Gotha die Linke."
+   ],
+   "250-nesse-apfelstaedt": [
+    "Gotha hat fast achtmal so viele Einwohner wie Nesse-Apfelstädt.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Nesse-Apfelstädt die CDU, in Gotha die Linke."
+   ]
+  },
+  "250-nesse-apfelstaedt": {
+   "249-gotha": [
+    "Gotha hat fast achtmal so viele Einwohner wie Nesse-Apfelstädt.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Gotha die Linke, in Nesse-Apfelstädt die CDU."
+   ]
+  },
+  "251-weimar": {
+   "252-jena": [
+    "Bundestagswahl 2025: In Jena lag die Linke vorn, in Weimar die AfD.",
+    "Jena hat gut anderthalbmal so viele Einwohner wie Weimar."
+   ]
+  },
+  "252-jena": {
+   "251-weimar": [
+    "Bundestagswahl 2025: In Weimar lag die AfD vorn, in Jena die Linke.",
+    "Jena hat gut anderthalbmal so viele Einwohner wie Weimar."
+   ],
+   "253-stadtroda": [
+    "Kreisgrenze: Stadtroda gehört zum Saale-Holzland-Kreis, Jena ist kreisfrei.",
+    "Bundestagswahl 2025: In Stadtroda lag die AfD vorn, in Jena die Linke."
+   ],
+   "254-hermsdorf": [
+    "Kreisgrenze: Hermsdorf gehört zum Saale-Holzland-Kreis, Jena ist kreisfrei.",
+    "Bundestagswahl 2025: In Hermsdorf lag die AfD vorn, in Jena die Linke."
+   ]
+  },
+  "253-stadtroda": {
+   "252-jena": [
+    "Kreisgrenze: Jena ist kreisfrei, Stadtroda gehört zum Saale-Holzland-Kreis.",
+    "Bundestagswahl 2025: In Jena lag die Linke vorn, in Stadtroda die AfD."
+   ],
+   "254-hermsdorf": [
+    "Hermsdorf hat rund 1.400 Einwohner mehr als Stadtroda.",
+    "Stadtroda hat gut dreimal so viel Fläche wie Hermsdorf, aber weniger Einwohner."
+   ],
+   "255-eisenberg": [
+    "Eisenberg hat gut anderthalbmal so viele Einwohner wie Stadtroda."
+   ]
+  },
+  "254-hermsdorf": {
+   "252-jena": [
+    "Kreisgrenze: Jena ist kreisfrei, Hermsdorf gehört zum Saale-Holzland-Kreis.",
+    "Bundestagswahl 2025: In Jena lag die Linke vorn, in Hermsdorf die AfD."
+   ],
+   "253-stadtroda": [
+    "Hermsdorf hat rund 1.400 Einwohner mehr als Stadtroda.",
+    "Stadtroda hat gut dreimal so viel Fläche wie Hermsdorf, aber weniger Einwohner."
+   ],
+   "255-eisenberg": [
+    "Eisenberg hat rund 2.500 Einwohner mehr als Hermsdorf."
+   ]
+  },
+  "255-eisenberg": {
+   "253-stadtroda": [
+    "Eisenberg hat gut anderthalbmal so viele Einwohner wie Stadtroda."
+   ],
+   "254-hermsdorf": [
+    "Eisenberg hat rund 2.500 Einwohner mehr als Hermsdorf."
+   ]
+  },
+  "256-weissenfels": {
+   "257-bad-duerrenberg": [
+    "Kreisgrenze: Bad Dürrenberg gehört zum Saalekreis, Weißenfels zum Burgenlandkreis.",
+    "Weißenfels hat fast dreieinhalbmal so viele Einwohner wie Bad Dürrenberg."
+   ]
+  },
+  "257-bad-duerrenberg": {
+   "256-weissenfels": [
+    "Kreisgrenze: Weißenfels gehört zum Burgenlandkreis, Bad Dürrenberg zum Saalekreis.",
+    "Weißenfels hat fast dreieinhalbmal so viele Einwohner wie Bad Dürrenberg."
+   ],
+   "258-schkeuditz": [
+    "Landesgrenze: Schkeuditz liegt in Sachsen, Bad Dürrenberg in Sachsen-Anhalt.",
+    "Schkeuditz hat gut anderthalbmal so viele Einwohner wie Bad Dürrenberg."
+   ]
+  },
+  "258-schkeuditz": {
+   "257-bad-duerrenberg": [
+    "Landesgrenze: Bad Dürrenberg liegt in Sachsen-Anhalt, Schkeuditz in Sachsen.",
+    "Schkeuditz hat gut anderthalbmal so viele Einwohner wie Bad Dürrenberg."
+   ],
+   "259-landsberg-saalekreis": [
+    "Landesgrenze: Landsberg liegt in Sachsen-Anhalt, Schkeuditz in Sachsen.",
+    "Schkeuditz hat rund 4.500 Einwohner mehr als Landsberg."
+   ]
+  },
+  "259-landsberg-saalekreis": {
+   "258-schkeuditz": [
+    "Landesgrenze: Schkeuditz liegt in Sachsen, Landsberg in Sachsen-Anhalt.",
+    "Schkeuditz hat rund 4.500 Einwohner mehr als Landsberg."
+   ]
+  },
+  "260-dessau-rosslau": {
+   "261-coswig-anhalt": [
+    "Kreisgrenze: Coswig (Anhalt) gehört zum Landkreis Wittenberg, Dessau-Roßlau ist kreisfrei.",
+    "Dessau-Roßlau hat siebenmal so viele Einwohner wie Coswig (Anhalt)."
+   ]
+  },
+  "261-coswig-anhalt": {
+   "260-dessau-rosslau": [
+    "Kreisgrenze: Dessau-Roßlau ist kreisfrei, Coswig (Anhalt) gehört zum Landkreis Wittenberg.",
+    "Dessau-Roßlau hat siebenmal so viele Einwohner wie Coswig (Anhalt)."
+   ]
+  },
+  "263-beelitz": {
+   "264-michendorf": [
+    "Michendorf und Beelitz sind fast gleich groß: rund 14.000 und 14.000 Einwohner."
+   ],
+   "265-potsdam": [
+    "Kreisgrenze: Potsdam ist kreisfrei, Beelitz gehört zum Landkreis Potsdam-Mittelmark.",
+    "Bundestagswahl 2025: In Potsdam lag die Linke vorn, in Beelitz die AfD."
+   ]
+  },
+  "264-michendorf": {
+   "263-beelitz": [
+    "Beelitz und Michendorf sind fast gleich groß: rund 14.000 und 14.000 Einwohner."
+   ],
+   "265-potsdam": [
+    "Kreisgrenze: Potsdam ist kreisfrei, Michendorf gehört zum Landkreis Potsdam-Mittelmark.",
+    "Bundestagswahl 2025: In Potsdam lag die Linke vorn, in Michendorf die AfD."
+   ]
+  },
+  "265-potsdam": {
+   "263-beelitz": [
+    "Kreisgrenze: Beelitz gehört zum Landkreis Potsdam-Mittelmark, Potsdam ist kreisfrei.",
+    "Bundestagswahl 2025: In Beelitz lag die AfD vorn, in Potsdam die Linke."
+   ],
+   "264-michendorf": [
+    "Kreisgrenze: Michendorf gehört zum Landkreis Potsdam-Mittelmark, Potsdam ist kreisfrei.",
+    "Bundestagswahl 2025: In Michendorf lag die AfD vorn, in Potsdam die Linke."
    ]
   }
  }

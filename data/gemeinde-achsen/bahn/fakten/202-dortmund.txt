@@ -1,0 +1,418 @@
+ID: 202-dortmund/001
+ENTITÄT: ort_teil
+BEZEICHNUNG: Mengede
+ORTSTEIL_BEZUG: Mengede
+QUELLE: https://www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verwaltungsstatus: Ortsteil von Dortmund
+  amtsgründung_jahr: 1889
+  amtsgründung_grund: Teilung der Bürgermeisterei Castrop
+  umfang_gründung: 13 Gemeinden
+  einwohnerzahl_1889: 6633
+  einwohnerzahl_1899: 12954
+GUELTIG_AB: 1889
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 202-dortmund/002
+ENTITÄT: park
+BEZEICHNUNG: Mengeder Volksgarten
+ORTSTEIL_BEZUG: Mengede
+QUELLE: https://www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 16, genauigkeit: "ca."
+  einheit_flaeche: ha
+  angrenzende_aufforstungsflaechen: 6, einheit: ha
+  planungsbeginn: 1911
+  ankauf_beschluss_datum: 17.11.1911
+  uebergabe_an_bevoelkerung: 1912
+  gartenarchitekt: Peters
+  gartenarchitekt_arbeitgeber: Kunst- und Handelsgärtnerei Karl Coers & Sohn Dortmund
+  vorheriger_volksgarten: Lütgendortmund
+  polizei_verordnung_datum: 22.07.1912
+  aschenplatz_einweihung: 2. Weihnachtsfeiertag 1927
+  stadion_eroeffnung: Mai 1930
+  tennisplaetze_erneuerung: 1977
+  wegesystem_vergleich: nahezu unverändert über 90 Jahre
+  superlativ: größte öffentliche Grünfläche im Stadtbezirk
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 202-dortmund/003
+ENTITÄT: sports_facility
+BEZEICHNUNG: Aschenplatz Mengeder Volksgarten
+ORTSTEIL_BEZUG: Mengede
+QUELLE: https://www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 2. Weihnachtsfeiertag 1927
+  eroeffnungspartner_1: TBV Mengede 08
+  eroeffnungspartner_2: SV Sodingen
+  errichtung_zeitraum: 1920er Jahre
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 202-dortmund/004
+ENTITÄT: sports_facility
+BEZEICHNUNG: Stadion Mengeder Volksgarten
+ORTSTEIL_BEZUG: Mengede
+QUELLE: https://www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: Mai 1930
+  erstes_eröffnungsspiel_gegner: Schwarz-Weiß Essen
+  erstes_eröeffnungsspiel_ergebnis: 1:5
+  erstes_eröeffnungsspiel_wetter: strömender Regen
+  zweites_spiel_gegner: SV Duisburg
+  zweites_spiel_ergebnis: 3:1
+  zweites_spiel_zuschauer_status: Ränge bis auf letzten Platz gefüllt
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 202-dortmund/005
+ENTITÄT: sports_facility
+BEZEICHNUNG: Stahlhelmplatz
+ORTSTEIL_BEZUG: Mengede
+QUELLE: https://www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: Ende 1920er Jahre
+  eigentuemer: Gelsenkirchener Bergwerks AG
+  ausruestung: Rasenplatz, 280-m-Laufbahn, Weitsprung- und Kegelstoßanlagen, Vereinsheim mit Außenbereich
+  erweiterung_kleinfeld: 1950er Jahre
+  nutzung_post_krieg: Bergleute, Hobbysportler, Schulen
+  verfall_grund: Schließung Zeche A. v. Hansemann
+  heutige_verwendung: Aufforstung
+  eigentuemer_heute: Stadt Dortmund
+  denkmal_vorhanden: Denkmal für im Ersten Weltkrieg Gefallene
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 202-dortmund/006
+ENTITÄT: gebaeude
+BEZEICHNUNG: Dachaufbau an Mengeder Str. 719
+ORTSTEIL_BEZUG: Mengede
+QUELLE: https://www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Mengeder Str. 719 / Ecke Strünkedestraße
+  erbauer: Familie Schröder
+  eigenschaft_erbauer: Inhaber eines Baugeschäftes und einer Ringofenziegelei
+  erbauungsjahr: 1901
+  funktion_original: private Lichtzeichenanlage zur Orientierung
+  betrieb_lichtsignal: bis Beginn des Krieges 1914
+  reichweite_sichtbarkeit: weit in die Umgebung
+  abbruch: 1940
+  abbruch_nachweis: Hausakte vom 07.11.1940
+  eigentuemer_nach_bauherr: Familie Düwell (Frau Düwell war Tochter des Bauherrn Schröder)
+  bedeutung_kulturell: Schmuckstück im Mengeder Ortskern
+  volksname: Leuchtturm von Mengede
+  beschreibung: ursprünglicher Zweck war die Beleuchtung des Heimwegs für abends heimkehrende Arbeiter bei mangelnder Straßenbeleuchtung
+GUELTIG_AB: 1901
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 202-dortmund/007
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Löschzug 22 Mengede
+ORTSTEIL_BEZUG: Mengede
+QUELLE: https://www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  organisation: Freiwillige Feuerwehr Dortmund
+  unterkunft: Feuer- und Rettungswache 9 an der Haberlandstraße
+GUELTIG_AB: vor 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 202-dortmund/008
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Löschzug 23 Groppenbruch
+ORTSTEIL_BEZUG: Groppenbruch
+QUELLE: https://www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  organisation: Freiwillige Feuerwehr Dortmund
+  tradition_und_kameradschaft: seit über 100 Jahren etabliert
+GUELTIG_AB: vor 1926
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 202-dortmund/009
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Löschzug 20 Nette
+ORTSTEIL_BEZUG: Nette
+QUELLE: https://www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  organisation: Freiwillige Feuerwehr Dortmund
+  existenz_seit: 1924
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 202-dortmund/010
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Löschzug 21 Bodelschwingh
+ORTSTEIL_BEZUG: Bodelschwingh
+QUELLE: https://www.dortmund.de/themen/stadtbezirke/mengede/geschichte/bezirksportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  organisation: Freiwillige Feuerwehr Dortmund
+  erste_erwaehnung: 1820
+GUELTIG_AB: 1820
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 202-dortmund/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Eulenburg
+ORTSTEIL_BEZUG: Innenstadt-Nord
+QUELLE: https://www.dortmund.de/themen/stadtbezirke/innenstadt-nord/geschichte/eulenburg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adressen: Stahlwerkstraße 28, 30 und 32
+  baustil: Tudorstil (Englisch), kombiniert mit niederdeutscher Backsteingotik
+  bauepoche: Historismus
+  architekt: R.W. Pinzer
+  bauvertrag_datum: 12. Mai 1902
+  bauherr: Anstreichermeister Lubbe
+  baubeginn_anzeige: 12. Juli 1902
+  rohbau_fertigstellung_anzeige: 18. Mai 1903
+  baupolizist: Polizei-Sergeant Ziegenkamm
+  zwangsversteigerung: 1913 (Häuser 28 und 32)
+  stromnetz_anschluss: 1915
+  schreinereigebaeude_neubau: 1928
+  luftschutz_umbauten: bis Mitte 1943
+  luftschutz_massnahmen: Kellersicherung, Wände durchbrochen, Pfeiler eingesetzt
+  kriegsschaeden: relativ gering im Vergleich zu Nachbarhäusern
+  nutzung_post_krieg: Schreinereien, später KFZ-Werkstätten, Modelleisenbahnverein
+  eigentuemer_post_krieg: Hoesch Wohnungsbau GmbH (heute Wohnbau Westfalen GmbH), dann private Einzeleigentümer
+  sanierung_start: seit 2004
+  zustand_1990er: verfallenes Aussehen
+  denkmalschutz: ja
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 202-dortmund/012
+ENTITÄT: museum
+BEZEICHNUNG: Museum für Kunst und Kulturgeschichte (MKK)
+QUELLE: https://www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/museum-fuer-kunst-und-kulturgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1883
+  adressen_historisch_1: Viktoriastraße 25 (bis 1934)
+  adressen_historisch_2: Balkenstraße (1934-1953)
+  adressen_historisch_3: Schloss Cappenberg (nach 1944 bis 1983)
+  adresse_aktuell: Hansastraße 3 (Platz von Amiens) 44137 Dortmund
+  umzug_in_aktuelle_adresse: 1983
+  unterkunft_dauerausstellung_historisch: ehemaliges Oberbergamt am Ostwall (1911-1944)
+  kriegszerstoerung: 1944 Bombardement zerstörte Gebäude bis auf Grundmauern
+  sammlungsbereiche: Malerei und Plastik bis 1900, Möbel, Kunstgewerbe und Design bis zur Gegenwart, Grafik, Fotografie, Textilien, Stadtgeschichte, Archäologie, Vermessungsgeschichte, Ur- und Frühgeschichte
+  zeitschwerpunkt_dauerausstellung: Antike bis modernes Design
+  sammlungsgröße: ca. 50000 Objekte
+  dauerausstellung_status_2026: teilweise nicht begehbar wegen Sanierungsarbeiten
+  sanierung_status: 2026 laufend, neue Ausrichtung geplant
+  eingang_neu: Platz von Amiens (seit 2026)
+  eintritt_dauerausstellung: frei
+  eintritt_sonderausstellungen: teilweise frei, teilweise kostenpflichtig
+  barrierefreiheit_sonderausstellungen: barrierefrei Erdgeschoss
+  oeffentliche_behindertenparkplaetze: Hansastraße vorhanden
+  superlativ: ältestes Museum seiner Art im Ruhrgebiet
+GUELTIG_AB: 1883
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 202-dortmund/013
+ENTITÄT: museum_direktor
+BEZEICHNUNG: Dr. Rolf Fritz
+QUELLE: https://www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/museum-ostwall/das-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Direktor Museum für Kunst und Kulturgeschichte
+  amtsantritt: 1936 (kommissarisch 1934)
+  kriegsdienst: September 1940
+  lebensdaten: 1904-1992
+GUELTIG_AB: 1934
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 202-dortmund/014
+ENTITÄT: museum_direktor
+BEZEICHNUNG: Dr. Leonie Reygers
+QUELLE: https://www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/museum-ostwall/das-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt_historisch: stellvertretende Direktorin MKK
+  rolle_kriegszeit: Rettung von Kunstbestand vor Zerstörung
+  auslagerung_kunstbestand: Frühjahr 1943 organisiert
+  rettungsmassnahmen: Auslagerung in verschiedene Schlösser
+  amt_museum_ostwall: Direktorin (Gründerin)
+  amtsdauer_museum_ostwall: 1947-1966
+  lebensdaten: 1905-1985
+  auszeichnung: Bundesverdienstkreuz
+  kulturelle_bildung: Lesesaal und Kindermalstube eingerichtet
+  ankauf_moderne_kunst: 1957 Sammlung Gröppel erworben
+  geburtstag_gratulationen: 60. Geburtstag kurz vor Pensionierung mit Grußworten von international renommierten Künstlern und Persönlichkeiten
+GUELTIG_AB: 1934
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 202-dortmund/015
+ENTITÄT: museum
+BEZEICHNUNG: Museum Ostwall
+ORTSTEIL_BEZUG: Innenstadt-Nord
+QUELLE: https://www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/museum-ostwall/das-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1947
+  gruender: Rat der Stadt (Beschluss 1947)
+  adressen_historisch: Am Ostwall (ehemaliges zerstörtes Gebäude der MKK)
+  adresse_aktuell: Dortmunder U
+  umzug_ins_U: 2010er Jahre (Bezug zur Umbenennung)
+  umbenennung_grund: Umzug ins Dortmunder U
+  name_alt: Museum am Ostwall
+  name_neu: Museum Ostwall
+  sammlungsschwerpunkte: Moderne Kunst, Fluxus, Happening, Multiple, Nouveau Réalisme, Konkrete Poesie, Informelle Malerei, Gruppe Zero, Neuer Wilder
+  ankauf_sammlungen: Feelisch 1987, Cremer 1991
+  geschichte_ueberblick: Über 60-jährige Geschichte
+  besonderheit: Museum als Kraftwerk-Konzept (seit 2005)
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 202-dortmund/016
+ENTITÄT: museum_direktor
+BEZEICHNUNG: Dr. Eugen Thiemann
+QUELLE: https://www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/museum-ostwall/das-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Direktor Museum am Ostwall
+  amtsdauer: 1967-1987
+  vorgaengerin: Dr. Leonie Reygers
+  museumassistent_seit: 1961
+  lebensdaten: 1925-2001
+  fachgebiet: Kunsthistoriker und Archäologe
+  ausstellungsreihe_debut: Wege 67 (Deutscher Kunst der jungen Generation)
+  wichtige_ausstellung_2: Fire Flower Power von Otto Piene (1967)
+  schwerpunkte_sammlung: Fluxus-Bewegung, Happening, Environment, Nouveau Réalisme, Konkrete Poesie, Informelle Malerei, Gruppe Zero, Neue Wilde (1980er)
+  publikation_katalog: 1984 Katalog mit Werken der Sammlung
+GUELTIG_AB: 1967
+GUELTIG_BIS: 1987
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 202-dortmund/017
+ENTITÄT: museum_direktor
+BEZEICHNUNG: Dr. Ingo Bartsch
+QUELLE: https://www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/museum-ostwall/das-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Direktor Museum am Ostwall
+  amtsdauer: 1988-2003
+  lebensdaten: 1943-2008
+  fachgebiet: italienische Kunst, insbesondere italienischer Futurismus
+  vorgaenger: Dr. Eugen Thiemann
+  ausstellung_herausragend: Ausstellung mit Video-Arbeiten Fabrizio Plessi 1993
+  ausstellung_herausragend_2: ...auch wir Maschinen, auch wir mechanisiert! Die zweite Phase des italienischen Futurismus 1915-1945 (2002)
+  ankauf_sammlungen: Feelisch und Cremer (vorbereitet durch Thiemann)
+  foerderung: jüngere Positionen Dortmunder und NRW-Künstler
+  publikationen: mehrere Kataloge zur Sammlung
+GUELTIG_AB: 1988
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 202-dortmund/018
+ENTITÄT: museum_direktor
+BEZEICHNUNG: Prof. Dr. Kurt Wettengl
+QUELLE: https://www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/museum-ostwall/das-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Direktor Museum Ostwall
+  amtsbeginn: 2005
+  amtsstatus: heutiger Direktor (zum Zeitpunkt der Textfassung)
+  lebensjahr_geburt: geb. 1954
+  konzept: Museum als Kraftwerk
+  theaterische_ausgangspunkt: Alexander Dorner (Kunsthistoriker)
+  veraenderungen_ab_2005: Ausstellungsreihe Sammlung in Bewegung (seit Herbst 2005)
+  kooperationen_new: TU Dortmund, FH Dortmund, Oper, Theater, Ballett, Bund Deutscher Architekten
+  schwerpunkt_ausstellungsprogramm: international bekannte zeitgenössische Künstler
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 202-dortmund/019
+ENTITÄT: museum_direktor
+BEZEICHNUNG: Dr. Tanja Pirsig-Marshall
+QUELLE: https://www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/museum-fuer-kunst-und-kulturgeschichte/das-museum/team/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Museumsdirektorin
+  amt_zusatz: Geschäftsbereichsleiterin
+  museum: Museum für Kunst und Kulturgeschichte
+GUELTIG_AB: vor 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 202-dortmund/020
+ENTITÄT: museum
+BEZEICHNUNG: Naturmuseum Dortmund
+QUELLE: https://www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/naturmuseum-dortmund/das-museum/geschichte-des-hauses/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_original: 1912 als Naturwissenschaftliches Museum
+  gruender: Naturwissenschaftlicher Verein Dortmund (gegründet 1887) mit Prof. Edgar Weinert
+  adressen_historisch_1: Viktoriastraße 25 (ab 1912)
+  adressen_historisch_2: Balkenstraße (ab 1934)
+  adressen_historisch_3: Fredenbaum (ab 1980)
+  adresse_aktuell: Fredenbaum
+  eroeffnung_aktueller_standort: 24. Mai 1980
+  kriegsschaeden: ca. 90% der Sammlung zerstört
+  wiedereroeffnung_nach_krieg: 1953
+  umzug_1934_grund: Sammlung angewachsen
+  umzug_1980_grund: Sammlung zu groß geworden
+  sanierungszeit: 6 Jahre (2014-2020)
+  wiedereroeeffnung_nach_sanierung: September 2020
+  sammlungsbereiche: Zoologie, Paläontologie, Mineralogie, Geologie, Anthropologie
+  sammlung_aquarium_alt: ca. 72000 Liter (tropische Süßwasserfische Süd- und Mittelamerika)
+  sammlung_aquarium_neu: ca. 90000 Liter (Möhnesee Fischwelt)
+  sammlung_aquarium_status_neu: seit Dezember 2012
+  aquarium_status_historisch: eines der größten frei begehbaren Aquarienbecken in Deutschland (1980)
+  besonderheit_sammlungsteil: Fossilien aus Ölschiefergrube Messel bei Darmstadt, Urpferdchen
+  besonderheit_minerale: Bergkristallgruppe, Fluoreszenz-Kabinett
+  besonderheit_handwerk: Schleiferei (jeden Donnerstag geöffnet)
+  maskottchen: Flo und Freddy
+  maskottchen_beschreibung: Mammutmädchen und Mäuserich
+  eigentuemer: Stadt Dortmund
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 202-dortmund/021
+ENTITÄT: ausstellung
+BEZEICHNUNG: KONSUM – Alltagsdinge zwischen Nutzen, Sehnsucht und Überfluss
+QUELLE: https://www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/museum-fuer-kunst-und-kulturgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  museum: Museum für Kunst und Kulturgeschichte
+  eroeffnung_digital: 20. März 2026
+  eroeffnung_physisch: Juli 2026
+  objekte_ca_anzahl: 500
+  zeitspanne_der_objekte: acht Jahrhunderte
+  leitobjekt: Schrank (zeigt Wandel von Lebenswelten und Konsumgewohnheiten)
+  themen_fokus: Identität, Nachhaltigkeit, Ressourcenverbrauch, soziale und ökologische Folgen des Konsums
+  online_ausstellung_website: konsum-mkk.de
+  vermittlungsangebote: Schulklassen, Einzelbesuchende, Familien
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 202-dortmund/022
+ENTITÄT: raum_institution
+BEZEICHNUNG: STADT_RAUM
+QUELLE: https://www.dortmund.de/themen/freizeit-und-kultur/museen-und-kunst/museum-fuer-kunst-und-kulturgeschichte/stadt_raum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  museum: Museum für Kunst und Kulturgeschichte
+  eroeffnung: 27.04.2023
+  konzept: Denk-, Dialog- und Arbeitsraum für Dortmunder Stadtgesellschaft
+  barrierefreiheit: barrierefrei Erdgeschoss
+  charakterisierung: postkolonial, postmigrantisch, queerfeministisch, klassismuskritisch
+  zielgruppe: zivilgesellschaftliche Akteure und Communitys
+  besonderheit_mobilität: blaues Stadtparlament kann in Straßen und auf Plätze getragen werden
+  kuratoren: Claudia Wagner und Dr. Christopher A. Nixon
+  szeno: Gruppe Praxis
+  eintritt: kostenfrei
+  aktivitaeten: Verweilen, Lesen, Arbeiten, Diskutieren, Streiten, Trauern, Feiern
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88

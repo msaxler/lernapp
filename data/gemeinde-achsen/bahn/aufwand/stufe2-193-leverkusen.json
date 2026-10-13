@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "193-leverkusen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 20949,
+ "token_ein": 316098,
+ "token_aus": 12434,
+ "usage": {
+  "input_tokens": 16,
+  "cache_creation_input_tokens": 45460,
+  "cache_read_input_tokens": 270622,
+  "output_tokens": 12434,
+  "output_tokens_details": {
+   "thinking_tokens": 5962
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 45460,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 6937,
+    "cache_read_input_tokens": 43779,
+    "cache_creation_input_tokens": 8583,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 8583
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.2965083999999998,
+ "sekunden": 148,
+ "fehler": false,
+ "zeit": "2026-10-13T03:10:35"
+}
