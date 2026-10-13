@@ -1,0 +1,426 @@
+ZIELORT: Greifenberg (Gemeinde)
+LAGE: 36 km südlich von Augsburg (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Greifenberg
+
+GRUNDDATEN:
+  landkreis: Landsberg am Lech  [dewiki Infobox]
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 2137  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 8,2  [Wikidata P2046]
+  dichte_ew_km2: 261  [berechnet aus Einwohner und Fläche]
+  kfz: LL (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 580 | 582 | 583  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2917803)]
+  naechste_grossstadt: Augsburg, 36 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 37 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Greifenberg (Oberbay), Haltepunkt Theresienbad  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 86926  [Wikidata P281]
+  vorwahl: 08192  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 42,5 %, GRÜNE 17,8 %, AfD 12,7 %, SPD 9,3 %, FDP 5,7 %; Wahlbeteiligung 87,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Roman Albrecht (Gemeinwohl) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Einwohner je Quadratkilometer), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Landsberg am Lech (Stadt)
+  landkreis: Landsberg am Lech  [dewiki Infobox]
+  einwohner: 29.230  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 57,91 | 57,9  [Wikidata P2046; Altbestand staedte.json]
+  kfz: LL (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 585 | 587 | 637 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2881509)]
+  naechste_grossstadt: Augsburg, 36 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Landsberg (Lech), Haltepunkt Landsberg (Lech) Schule  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 34,5 %, GRÜNE 16,9 %, AfD 15,1 %, SPD 12,7 %, Die Linke 6,8 %; Wahlbeteiligung 83,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Greifenberg):
+ID: 328-greifenberg/001
+ENTITÄT: ort
+BEZEICHNUNG: Greifenberg
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  lage_bundesland: Bayern, Oberbayern
+  lage_landkreis: Landkreis Landsberg am Lech
+  lage_gewässer: Ammersee
+  lage_bundesautobahn: Bundesautobahn 96 (München–Lindau)
+  lage_bahnlinie: Ammerseebahn (Mering–Geltendorf–Dießen–Weilheim)
+  lage_distanz_landsberg: ca. 17 [km], östlich
+  lage_distanz_münchen: ca. 40 [km], westlich
+  lage_moränenwall: Ammerseegletscher
+  gemeindeteile: Beuern (Kirchdorf), Greifenberg (Pfarrdorf), Neugreifenberg (Siedlung), Painhofen (Weiler)
+  verwaltungsgemeinschaft: Schondorf am Ammersee
+  einwohner_1864: 221
+  einwohner_1961: 726
+  einwohner_1970: 830
+  einwohner_1987: 1243
+  einwohner_1991: 1494
+  einwohner_1995: 1609
+  einwohner_2000: 1791
+  einwohner_2002: 1910
+  einwohner_2005: 2036
+  einwohner_2006: 2048
+  einwohner_2007: 2083
+  einwohner_2008: 2118
+  einwohner_2009: 2134
+  einwohner_2010: 2167
+  einwohner_2011: 2122
+  einwohner_2012: 2173
+  einwohner_2013: 2170
+  einwohner_2014: 2194
+  einwohner_2015: 2228
+  einwohner_2016: 2268
+  wachstum_1988_bis_2019: 77,2 [%]
+  gemarkungen: Beuern, Greifenberg
+  wappenbeschreibung: Gespalten; vorne in Silber auf rotem Dreiberg ein nach links schreitender schwarzer Bär, hinten von Rot und Silber dreimal wellenförmig geteilt
+  wappenbegründung: Schwarzer Bär entstammt dem Wappen der Perfall, Streifen entstammen dem Wappen der Greifen
+  flagge_beschreibung: Rot-weiß-schwarz längsgestreift mit aufgelegtem Wappen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 328-greifenberg/002
+ENTITÄT: ort
+BEZEICHNUNG: Greifenberg
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  wappen_verleihung_jahr: 1962
+  wappen_verleiher: Landrat Bernhard Müller-Hahl
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/003
+ENTITÄT: hofmark
+BEZEICHNUNG: Hofmark Greifenberg
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  verwaltungssitz: Schloss Greifenberg
+  gründer: Grafen von Andechs
+  benannt_nach: Geschlecht der Greifen
+GUELTIG_AB: 10
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 328-greifenberg/004
+ENTITÄT: person
+BEZEICHNUNG: Gripho de Andechs
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  titel: Dienst- und Lehensmann des Herzogs Otto von Meran
+  rolle: Gründer und Erwerber von Greifenberg
+  erste_erwähnung_jahr: 1230
+  erste_erwähnung_ort: Scheyern
+  erwähnung_als_greifenberg: 1257
+GUELTIG_AB: 1230
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/005
+ENTITÄT: person
+BEZEICHNUNG: Hans der Greif
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Letzter seines Geschlechts
+  ereignis: Teilnahme am Kreuzzug König Sigismunds gegen Türken
+  ereignis_jahr: 1396
+  ereignis_ort: Schlacht von Nikopolis (walachisches Donautiefland)
+  tod: fiel in der Schlacht; wurde nach Niederlage hingerichtet
+GUELTIG_AB: 1396
+GUELTIG_BIS: 1396
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/006
+ENTITÄT: person
+BEZEICHNUNG: Georg von Gundelfingen
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Besitzer der Veste Greifenberg
+  verkauf_jahr: 1410
+  verkauf_käufer: Familie des Herzogs von Bayern
+GUELTIG_AB: 1404
+GUELTIG_BIS: 1410
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 328-greifenberg/007
+ENTITÄT: person
+BEZEICHNUNG: Erhard von Perfall
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Burgvogt, später Gutsherr von Greifenberg
+  ernennung_burgvogt_jahr: 1478
+  erwerb_jahr: 1507
+  erwerb_kaufpreis: 4000 [Gulden]
+  erwerb_form: freies, lediges Eigen
+GUELTIG_AB: 1478
+GUELTIG_BIS: ca. 1500er
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/008
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Perfall
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  herrschaft: Greifenberg, ununterbrochene Erbfolge
+  beschreibung: Gutsherren von Greifenberg vom 16. Jahrhundert bis ins 19. Jahrhundert
+GUELTIG_AB: 1507
+GUELTIG_BIS: 19
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 328-greifenberg/009
+ENTITÄT: gericht
+BEZEICHNUNG: Patrimonialgericht der Hofmark Greifenberg
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  typ: Patrimonialgericht
+  zuständigkeit: niedere Gerichtsbarkeit
+  zuständige_orte: Beuern, Eching, Pflaumdorf, Oberschondorf, teilweise Unterschondorf
+  aufgelöst_jahr: 1849
+  nachfolger: Landrichter in Landsberg (später Amtsgericht)
+GUELTIG_BIS: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/010
+ENTITÄT: bauwerk
+BEZEICHNUNG: Richterstuhl
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  material: Stein
+  bauzeit_jahr: 1442
+  standort: vor dem Richteranwesen
+  funktion: Wahrzeichen
+  entfernt_jahr: 1959
+  beschreibung: steinerner Richterstuhl aus dem Jahre 1442
+GUELTIG_AB: 1442
+GUELTIG_BIS: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/011
+ENTITÄT: quelle
+BEZEICHNUNG: Mineralquelle Greifenberg
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  zusammensetzung: schwefelhaltig
+  entdeckung_jahr: 1833
+  entdecker: Dr. Josef Hasinger (Landarzt)
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/012
+ENTITÄT: badeanstalt
+BEZEICHNUNG: Theresienbad
+ORTSTEIL_BEZUG: Greifenberg
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  eröffnung_jahr: 1834
+  ursprüngliche_funktion: Badeanstalt
+  funktion_1921_bis_1935: Erholungsheim für Journalisten und Schriftsteller
+  funktion_1935: Obergauführerinnenschule Hochland des Bundes Deutscher Mädel (BDM)
+  funktion_1939_bis_1945: Lazarett im Zweiten Weltkrieg
+  funktion_1945_bis_1948: Lager für jüdische Displaced Persons (Kibbuz "Nocham")
+  funktion_seit_1950: Kreisseniorenheim
+GUELTIG_AB: 1834
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 328-greifenberg/013
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Greifenberg (Oberbay)
+ORTSTEIL_BEZUG: Neugreifenberg
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  bahnlinie: Ammerseebahn
+  eröffnung_datum: 30. Juni 1898
+  stillegung_datum: Mai 1984
+  betreibergesellschaft: Königlich Bayerische Staatseisenbahnen (Gründung)
+  gebäude_ursprünglich: zweigeschossiger unverputzter Klinkerbau mit Zeltdach
+  gebäude_ab_1936: zweigeschossiges Gebäude mit Satteldach im Heimatstil
+  wandgemälde_jahr: seit 1936
+  wandgemälde_inhalt: Bauer beim Aussäen, zweiter mit Pferdegespann, Kirche von Hechenwang im Hintergrund
+  wandgemälde_auffrischung: 1951
+  gleisanlagen: Hauptgleis, Ladegleis (Rampen- und Ausziehabschnitt)
+  hausbahsteig_entfernung_jahr: Dezember 1996
+  gebäude_leerstand: ca. 1986 bis 2004
+  gemeinde_erwerb_jahr: 2009
+GUELTIG_AB: 1898
+GUELTIG_BIS: 1984
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 328-greifenberg/014
+ENTITÄT: haltepunkt
+BEZEICHNUNG: Haltepunkt Theresienbad
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  bahnlinie: Ammerseebahn
+  eröffnung_datum: 30. Juni 1898
+  stillegung_datum: 1964
+  entfernung_ortsmitte: ca. 400 [m], südlich
+  gebäude: hölzernes eingeschossiges Dienstgebäude und Hausbahnsteig
+GUELTIG_AB: 1898
+GUELTIG_BIS: 1964
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/015
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Einkaufszentrum Greifenberg
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  entstand_zeitraum: Mitte der 1990er Jahre
+  lage: Ortskern
+  einrichtungen: Discounter, Getränkemarkt, Bäckerei, Metzgerei, Allgemeinarzt, Frauenarzt, Hautarzt, Zahnarzt, Apotheke, Sparkasse, Raiffeisenbank
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/016
+ENTITÄT: badeanlage
+BEZEICHNUNG: Warmfreibad
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  lage: direkt an der A 96 München–Lindau
+  anzahl_becken: 3
+  beckentemperatur: 26 [Grad Celsius]
+  weitere_einrichtungen: Wärmehalle, Solarium, große Liegewiesen, Kioskbetrieb
+  schließung_umbau: 2018 bis 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/017
+ENTITÄT: person
+BEZEICHNUNG: Lothar von Perfall
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1884–1966
+  beruf: Offizier und preußischer Landrat
+  bezug_gemeinde: implizite Verbindung zur Familie Perfall, die Greifenberg verwaltete
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 328-greifenberg/018
+ENTITÄT: person
+BEZEICHNUNG: Max Raffler
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1902–1988
+  beruf: Landwirt und Maler
+  kunstrichtung: naive Kunst
+  werke: Kreuzweg mit 24 Stationsbildern für die Pfarrkirche Maria am Wege
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1988
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/019
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Maria am Wege
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  ausstattung: Kreuzweg mit 24 Stationsbildern von Max Raffler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 328-greifenberg/020
+ENTITÄT: pfarramt
+BEZEICHNUNG: Evangelisch-lutherisches Pfarramt Dießen-Utting
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  zuständig_für: Greifenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/021
+ENTITÄT: pfarramt
+BEZEICHNUNG: Katholisches Pfarramt Greifenberg
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  zuständig_für: Greifenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/022
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  wahlsystem: Bürgerlisten der Gemeindeteile statt Parteilisten
+  listen: Gemeinwohl (Greifenberg), Beurer Liste (Beuern), Wählergruppe Neugreifenberg (Neugreifenberg), Aktive Gemeinde, LWD (L(i)ebenswertes Dorf)
+  sitze_gesamt: 14
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 328-greifenberg/023
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Johann Albrecht
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  liste: Gemeinwohl
+  amtszeit_beginn: Mai 2008
+  amtszeit_ende: Mai 2020
+GUELTIG_AB: 2008
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 328-greifenberg/024
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Patricia Müller
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  liste: LWD
+  amtszeit_beginn: Mai 2020
+  amtszeit_ende: Mai 2026
+  wahlmodus: Stichwahl mit Hagen Adler
+  wahlresultat: 51,4 [%]
+GUELTIG_AB: 2020
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 328-greifenberg/025
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Roman Albrecht
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  liste: Gemeinwohl
+  amtszeit_beginn: Mai 2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 328-greifenberg/026
+ENTITÄT: artefakt
+BEZEICHNUNG: Hügelgräber aus der Hallstattzeit
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 14
+  alter: ca. 2500 [Jahre]
+  zeitperiode: Hallstattzeit
+  lage: in der Nähe von Greifenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 328-greifenberg/027
+ENTITÄT: geschichtsereignis
+BEZEICHNUNG: Eingemeindung von Beuern
+QUELLE: https://de.wikipedia.org/wiki/Greifenberg | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Teil der aufgelösten Gemeinde Beuern eingegliedert
+  datum: 1. Mai 1978
+  kontext: Gebietsreform in Bayern
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

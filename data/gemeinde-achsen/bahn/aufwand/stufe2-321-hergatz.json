@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "321-hergatz",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 16601,
+ "token_ein": 890193,
+ "token_aus": 12238,
+ "usage": {
+  "input_tokens": 42,
+  "cache_creation_input_tokens": 50284,
+  "cache_read_input_tokens": 839867,
+  "output_tokens": 12238,
+  "output_tokens_details": {
+   "thinking_tokens": 5394
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 50284,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3396,
+    "cache_read_input_tokens": 55958,
+    "cache_creation_input_tokens": 1228,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1228
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.4116834,
+ "sekunden": 212,
+ "fehler": false,
+ "zeit": "2026-10-14T01:08:05"
+}

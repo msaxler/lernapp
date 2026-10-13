@@ -15304,10 +15304,26 @@
  },
  "319-wasserburg-bodensee": {
   "slug": "319-wasserburg-bodensee",
-  "seiten": [],
+  "seiten": [
+   {
+    "url": "https://www.wasserburg-bodensee.de/geschichte/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 643
+   },
+   {
+    "url": "https://www.wasserburg-bodensee.de/geschichte/das-schloss/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1135
+   },
+   {
+    "url": "https://www.wasserburg-bodensee.de/geschichte/die-malerische-halbinsel/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 986
+   }
+  ],
   "start": "https://www.wasserburg-bodensee.de:443/",
-  "sekunden": 1,
-  "zeichen": 0
+  "sekunden": 3,
+  "zeichen": 3050
  },
  "320-sigmarszell": {
   "slug": "320-sigmarszell",
@@ -15589,10 +15605,16 @@
  },
  "328-greifenberg": {
   "slug": "328-greifenberg",
-  "seiten": [],
-  "fehler_webseite": "HTTP Error 500: Internal Server Error",
-  "sekunden": 3,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://greifenberg.de/geschichte/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1960
+   }
+  ],
+  "start": "https://greifenberg.de/",
+  "sekunden": 14,
+  "zeichen": 2031
  },
  "329-inning": {
   "slug": "329-inning",
@@ -15614,10 +15636,81 @@
  },
  "330-woerthsee": {
   "slug": "330-woerthsee",
-  "seiten": [],
-  "start": "https://www.woerthsee-online.de/",
-  "sekunden": 2,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "https://www.gemeinde-woerthsee.de/geschichte-von-woerthsee/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2521
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/kultur-freizeit/das-gemeindearchiv/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3647
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/woerthsee-in-zahlen/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1404
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/wappen/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 730
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/buergerservice/bildung-und-soziales/kirchen-und-seelsorge/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1621
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/strukturierte-daten/Gastronomiebetriebe-und-Unterkuenfte/gastronomie/kirchenwirt/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1031
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/buergerservice-1/leistungen/BAY:entry:7144-VLR/kommunale-wappen-und-fahnen-beantragung-der-verwendung/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2458
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/buergerservice-1/leistungen/BAY:entry:10981-VLR/abgeschlossenheitsbescheinigung-mit-aufteilungsplan-beantragung/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1893
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/buergerservice-1/leistungen/BAY:entry:10735-VLR/denkmalschutz-beantragung-einer-bescheinigung-fuer-steuerliche-zwecke/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3247
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/buergerservice-1/leistungen/BAY:entry:14509-VLR/denkmalschutz-beantragung-eines-zuschusses-des-landesamts-fuer-denkmalpflege/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 4685
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/ortsteile/auing/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1781
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/ortsteile/waldbrunn/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 812
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/ortsteile/steinebach/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 3128
+   },
+   {
+    "url": "https://www.gemeinde-woerthsee.de/ortsteile/walchstadt/",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1948
+   }
+  ],
+  "start": "https://www.gemeinde-woerthsee.de/",
+  "sekunden": 29,
+  "zeichen": 32661
  },
  "331-gilching": {
   "slug": "331-gilching",
@@ -15646,7 +15739,7 @@
   "slug": "332-germering",
   "seiten": [],
   "start": "https://www.germering.de/",
-  "sekunden": 5,
+  "sekunden": 7,
   "zeichen": 0
  }
 }

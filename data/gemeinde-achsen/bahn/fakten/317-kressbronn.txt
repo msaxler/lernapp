@@ -1,0 +1,228 @@
+ID: 317-kressbronn/001
+ENTITÄT: ort
+BEZEICHNUNG: Kressbronn am Bodensee
+QUELLE: https://www.kressbronn.de/unsere-gemeinde/ueber-den-ort/ortsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1934
+  entstanden_aus: Hemigkofen, Nonnenbach und umliegende Teilorte und Weiler
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1934
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 317-kressbronn/002
+ENTITÄT: hofanlage
+BEZEICHNUNG: Hofanlage Milz
+ORTSTEIL_BEZUG: Retterschen
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-hofanlage-milz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Klosterbesitz (Kloster St. Gallen)
+  gründung_klosterbesitz: ca. 800
+  hausherren_bis_1809: Herren von Stegen, wohlhabende Bürger der Reichsstadt Lindau, Herren von Sirgenstein
+  eigentumswechsel_zu_huster: 1809
+  familie_resident: Huster (seit Mitte 17. Jahrhundert)
+  schultheißenhof_beginn: Mitte 17. Jahrhundert
+  unbewohnt_seit: 1992
+  gemeindeerwerb: 2001
+  denkmalbuch_eintrag: 2012
+  gebäude_count: 4
+  gebäude_baujahre: 1705 (Backhaus), 1717 (Scheuer), 1803 (Remise), 1855/75 (Haupthaus)
+  landwirtschaftlicher_wandel: vom Getreide- und Weinanbau (Mittelalter bis 19. Jh.) zu Milchwirtschaft, Obst- und Hopfenanbau
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 317-kressbronn/003
+ENTITÄT: gebäude
+BEZEICHNUNG: Haupthaus (Hofanlage Milz)
+ORTSTEIL_BEZUG: Retterschen
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-hofanlage-milz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1855-1875
+  nutzung: Wohnräume, Stallungen, Heustock
+  architektur: repräsentativer Stil (für damalige Zeit)
+  besonderheit: enthielt Amtsstube mit Gemeindeverwaltung bis 1870
+GUELTIG_AB: 1855
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 317-kressbronn/004
+ENTITÄT: gebäude
+BEZEICHNUNG: Scheuer (Hofanlage Milz)
+ORTSTEIL_BEZUG: Retterschen
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-hofanlage-milz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1717
+  nutzung: Dreschtenne, Garbenstock, Weinkeller, Mostpresse
+GUELTIG_AB: 1717
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 317-kressbronn/005
+ENTITÄT: gebäude
+BEZEICHNUNG: Remise (Hofanlage Milz)
+ORTSTEIL_BEZUG: Retterschen
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-hofanlage-milz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1803
+  nutzung: Obstkeller, Gschirrkammer, Hopfendarre, Wagen- und Holzschopf
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 317-kressbronn/006
+ENTITÄT: gebäude
+BEZEICHNUNG: Backhaus (Hofanlage Milz)
+ORTSTEIL_BEZUG: Retterschen
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-hofanlage-milz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1705
+GUELTIG_AB: 1705
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 317-kressbronn/007
+ENTITÄT: person
+BEZEICHNUNG: Franz Joseph Huster
+ORTSTEIL_BEZUG: Retterschen
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-hofanlage-milz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Schultheiß
+  aktion_neubaui: ließ Wohnteil des Hofes 1855 in repräsentativem Stil neu erbauen und mit Amtsstube ausstatten
+  auswirkung: Gemeindeverwaltung Nonnenbach hatte 1855-1870 Sitz im Wohnteil
+GUELTIG_AB: 1855
+GUELTIG_BIS: 1870
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 317-kressbronn/008
+ENTITÄT: person
+BEZEICHNUNG: Theresia Milz
+ORTSTEIL_BEZUG: Retterschen
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-hofanlage-milz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensspanne: 1907-2000
+  rolle: letzte Bewohnerin des Hofes Milz
+  ereignis_tod: 2000
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 317-kressbronn/009
+ENTITÄT: organisation
+BEZEICHNUNG: Verein zur Erhaltung der Hofanlage Milz e.V.
+ORTSTEIL_BEZUG: Retterschen
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-hofanlage-milz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 2002
+  rolle: Pächter der Hofanlage, Erhaltung und öffentliche Nutzbarmachung
+  denkmalbuch_eintrag: 2012 (Kulturdenkmal von besonderer Bedeutung)
+  denkmalbuch_anerkennung: Eintrag in Baden-Württemberg
+  aktivitäten: denkmalgerechte Instandsetzung, Veranstaltungsprogramm
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2002
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 317-kressbronn/010
+ENTITÄT: bruecke
+BEZEICHNUNG: Kabelhängebrücke über die Argen (Argenbrücke)
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/selfie-point-historische-kabelhaengebruecke/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1896-1897
+  baukosten: 13681 Mark
+  gesamtlaenge: 72 m
+  breite: 6.2 m
+  laengste_stuetzweite: 72 m
+  seillänge: 135 m
+  gewicht: 170 Tonnen
+  tragfaehigkeit: 13000 kg
+  erbauerisches_kontext: unter württembergischem König Wilhelm II.
+  verbindung: Kressbronn am Bodensee - Langenargen
+  superlativ: älteste noch erhaltene Kabelhängebrücke Deutschlands
+  konstruktion_typ: technische Meisterleistung in Brückenbaukunst
+  funktion_ursprung: Straßenbrücke
+  funktion_seit_1978: Fußgänger und Radfahrer
+  parallele_infrastruktur: Spannbetonbrücke seit 1978 für Verkehr
+  eigentum: Land Baden-Württemberg
+  denkmalschutz: im Denkmalbuch eingetragen
+  beschaedigung_1944: Fliegereinsatz der Alliierten, Splitterschäden an Seilen (Manschetten zeigen Spuren)
+  beschaedigung_1945: geplante Sprengung durch Wehrmacht (durchgesägt und Zündkabel entfernt)
+GUELTIG_AB: 1897
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 317-kressbronn/011
+ENTITÄT: person
+BEZEICHNUNG: Albrecht Auer
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-kabelhaengebruecke/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion_rettung: 1945 Soldaten zu Vesper eingeladen, ermöglichte Durchschneiden aller Zündkabel zur Verhinderung der Sprengung der Argenbrücke
+  bedeutung: Rettung der Argenbrücke
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 317-kressbronn/012
+ENTITÄT: museum
+BEZEICHNUNG: Museum für historische Schiffsmodelle
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/museum-historische-schiffsmodelle/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Schlösslepark Kressbronn
+  eroeffnung: 2002
+  kuenstler_creator: Ivan Trtanj (gelernt Schiffsbauer)
+  schwerpunkt: historische Schiffsmodelle aus edlen Hölzern
+  sammlung_umfang: originialgetreue Schiffsmodelle
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 317-kressbronn/013
+ENTITÄT: person
+BEZEICHNUNG: Ivan Trtanj
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/museum-historische-schiffsmodelle/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Schiffsbauer, Künstler
+  charakteristikum: detailliebte Schnitzerei, Hand-Fertigung
+  schaffensdauer: über 50 Jahre
+  werke: Bodensee-Lädine (Segner), Bounty, königliche Prunk-Barken, Gondola funerale
+  besonderheit_gondola: 2,5 Jahre Rekonstruktionsarbeit
+  ausstellung_gondola_seit: 2019
+  kunstwerk: vollständig von Hand geschnitzt und getakelt
+  auszeichnungen: Medaille der St. Petersburger Universität
+  ausstellungsorte: Expo Wilhelmshafen, Deutsches Schifffahrtsmuseum Bremerhaven, Paris, Russland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 317-kressbronn/014
+ENTITÄT: schiffsmodell
+BEZEICHNUNG: Gondola funerale (auch: St. Michaele)
+QUELLE: https://www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/museum-historische-schiffsmodelle/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  original_baujahr: 1845
+  original_in_auftrag_gegeben: 1845
+  modell_artist: Ivan Trtanj
+  modell_fertigstellung: 2019
+  modell_standort: Museum für historische Schiffsmodelle im Schlösslepark Kressbronn
+  kategorie: Beerdigungsschiff (Gondola funerale)
+  besonderheit: Unikat (einziges Modell)
+  ornamentik: Symbole für Sinn des Lebens und des Todes
+  historischer_kontext: Überführung von Richard Wagner nach Santa Lucia, dann per Bahn nach Bayreuth
+  beziehung_franz_liszt: Schwiegervater Richard Wagner schrieb Musical "Schwarze Gondola"
+GUELTIG_AB: 1845
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 317-kressbronn/015
+ENTITÄT: werft
+BEZEICHNUNG: Bodan-Werft
+QUELLE: https://www.kressbronn.de/unsere-gemeinde/ueber-den-ort/ortsgeschichte/die-bodan-werft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1919
+  bedeutung: Industriegeschichte der Bodenseeregion
+  produkte: Ausflugschiffe, Fähren
+  werkzeugmark_etablierung: 1930er-Jahre
+  insolvenz: 2011
+  erbe: Teile des Werftgeländes sind denkmalgeschützt
+  benannt_nach: Ort Kressbronn (der Name des damals dünnbesiedelten Teilorts wurde namensgebend für die gesamte neugegründete Gemeinde 1934)
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90

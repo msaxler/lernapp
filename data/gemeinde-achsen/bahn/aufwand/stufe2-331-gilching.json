@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "331-gilching",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 18627,
+ "token_ein": 370600,
+ "token_aus": 10882,
+ "usage": {
+  "input_tokens": 18,
+  "cache_creation_input_tokens": 46965,
+  "cache_read_input_tokens": 323617,
+  "output_tokens": 10882,
+  "output_tokens_details": {
+   "thinking_tokens": 4854
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 46965,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3952,
+    "cache_read_input_tokens": 51693,
+    "cache_creation_input_tokens": 2174,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 2174
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.2220884,
+ "sekunden": 159,
+ "fehler": false,
+ "zeit": "2026-10-14T01:28:21"
+}

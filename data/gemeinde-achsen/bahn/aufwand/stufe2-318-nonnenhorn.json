@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "318-nonnenhorn",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 18705,
+ "token_ein": 531458,
+ "token_aus": 9212,
+ "usage": {
+  "input_tokens": 26,
+  "cache_creation_input_tokens": 46471,
+  "cache_read_input_tokens": 484961,
+  "output_tokens": 9212,
+  "output_tokens_details": {
+   "thinking_tokens": 3506
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 46471,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3956,
+    "cache_read_input_tokens": 50519,
+    "cache_creation_input_tokens": 2854,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 2854
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.1938442,
+ "sekunden": 150,
+ "fehler": false,
+ "zeit": "2026-10-14T01:05:56"
+}

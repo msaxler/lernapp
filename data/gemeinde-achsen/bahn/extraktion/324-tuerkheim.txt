@@ -1,0 +1,358 @@
+ENTITÄT: ort
+BEZEICHNUNG: Türkheim
+QUELLE: https://www.tuerkheim.de/gemeinde/geschichte-tuerkheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: "Heim des Thüringers" (entwickelt sich über Jahrhunderte aus der Siedlung eines thüringischen Familienbandes, das die Merowinger Ende 5. Jahrhundert ansiedelten)
+  marktrecht_verliehen: 1700
+  marktrecht_verliehen_durch: Herzog Maximilian Philipp
+  residenzort: Herzog Maximilian Philipp (16. Jahrhundert)
+  provinz_römer: Raetien
+  römischer_name: Rostrum Nemaviae
+GUELTIG_AB: 500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bevölkerung
+QUELLE: https://www.tuerkheim.de/gemeinde/geschichte-tuerkheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kriegsgefallene_wwii: 107
+  kriegsvermisste_wwii: 99
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: keltische_befestigung
+BEZEICHNUNG: Römerschanze
+QUELLE: https://www.tuerkheim.de/gemeinde/geschichte-tuerkheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Haldenberg
+  zweck: vermutlich religiöse Zwecke
+  bauzeit: ca. 500 v.Chr.
+  anlage_typ: Wallanlage
+GUELTIG_AB: -500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: römische_befestigung
+BEZEICHNUNG: Rostrum Nemaviae
+QUELLE: https://www.tuerkheim.de/gemeinde/geschichte-tuerkheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Goldberg
+  bauzeit: 4. Jahrhundert
+GUELTIG_AB: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: konzentrationslager
+BEZEICHNUNG: Kaufering VI
+QUELLE: https://www.tuerkheim.de/gemeinde/geschichte-tuerkheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: Oktober 1944
+  haftlinge_anzahl_min: 1000
+  haftlinge_anzahl_max: 2500
+  befreiung_datum: 27. April 1945
+  befreiung_durch: amerikanische Soldaten
+  todesfalle: viele Häftlinge durch katastrophale Lebensbedingungen und Epidemie im Frühjahr 1945
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: KZ-Friedhof
+QUELLE: https://www.tuerkheim.de/gemeinde/geschichte-tuerkheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestimmung: Friedhof für KZ-Häftlinge
+  umgestaltung_der_gräber: 1946 (Umgebettung aus Massengräbern)
+  mahnmal_errichtet: 1950
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Staudenbahn
+QUELLE: https://www.tuerkheim.de/gemeinde/geschichte-tuerkheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1908
+  strecke: Türkheim Bahnhof nach Ettringen
+  personenverkehr_eingestellt: 1987
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fabrik
+BEZEICHNUNG: Salamanderfabrik
+QUELLE: https://www.tuerkheim.de/gemeinde/geschichte-tuerkheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1917
+  gründer: Jakob Sigle
+  ursprung: Holzschleiferei an der Wertach
+  umgebaut_zu: Salamanderfabrik
+GUELTIG_AB: 1917
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gymnasium
+QUELLE: https://www.tuerkheim.de/gemeinde/geschichte-tuerkheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1972
+  art: staatlich
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Mariä Himmelfahrt
+QUELLE: https://www.tuerkheim.de/gemeinde/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil_original: spätgotisch
+  bauzeit_original: 2. Hälfte 15. Jahrhundert
+  barockisierung_von: 1677
+  barockisierung_beauftragt: Herzog Maximilian Philipp
+  barockisierung_durch: Johann Schmuzer aus Wessobrunn
+  chorstuck_von: Michael Stiller aus Ettringen
+  chorstuck_jahr: 1732
+  umgestaltung_neuromanisch: ab 1873
+  neubarockisierung_von: 1938
+  neubarockisierung_bis: 1947
+  neubarockisierung_durch: Dekan Oswald Läuterer
+GUELTIG_AB: 1450
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kapuzinerkirche Maria Unbefleckte Empfängnis
+QUELLE: https://www.tuerkheim.de/gemeinde/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1684-1687
+  bauleitung: P. Hyacinth aus München (Ordensbaumeister)
+  zugehörig: Kloster
+  neugotische_einrichtung: 2. Hälfte 19. Jahrhundert
+  modernisierung: 1948
+  kloster_aufgelöst: 1973
+  kloster_umgebaut_zu: Pflegestation (1999)
+GUELTIG_AB: 1684
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Zehentstadel
+QUELLE: https://www.tuerkheim.de/gemeinde/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1515
+  bauart: Massivbau mit steilem Satteldach
+  original_funktion: Zehentabgabenstelle
+  umbau_zu: Pfarrheim
+  umbau_weihe: 1987
+  umbau_neuer_name: Pfarrheim Pater Rupert Mayer
+GUELTIG_AB: 1515
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Loretokapelle
+QUELLE: https://www.tuerkheim.de/gemeinde/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Johann Schmuzer aus Wessobrunn
+  bauzeit: 1683-1684
+  beauftragt_durch: Herzog Maximilian Philipp
+  bautyp: Nachbildung der Santa Casa zu Loreto
+  heutiges_aussehen_seit: 1954
+GUELTIG_AB: 1683
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evang.-luth. Heilig-Geist-Kirche
+QUELLE: https://www.tuerkheim.de/gemeinde/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 2016
+  grund_neubau: alte Kirche zu klein geworden
+  platzkapazität_neu: mehr als doppelt so viel wie vorher
+  architekt: Weber aus Seeg
+GUELTIG_AB: 2016
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Margareta
+ORTSTEIL_BEZUG: Irsingen
+QUELLE: https://www.tuerkheim.de/gemeinde/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil_kern: spätgotisch
+  barockisierung: Barockzeit
+  neugotische_umgestaltungen: mehrere, besonders 19. Jahrhundert
+  restaurierung_von: ab 1946
+  deckenbilder_maler: Paul Ferling aus Kaufbeuren
+  deckenbilder_jahr: 1958
+  altäre_künstler: Konrad Ledermann aus Bad Wörishofen
+  altäre_jahr: 1950
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Wendelin
+ORTSTEIL_BEZUG: Berg
+QUELLE: https://www.tuerkheim.de/gemeinde/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprünglicher_ort: Burg eines niederen Adelsgeschlechts (Mittelalter)
+  kapellenbau_beschlossen: 1709
+  kapellenbau_verzögert_grund: Spanischer Erbfolgekrieg und Nachwirkungen
+  kapellenbau_anlass: Viehseuche in Ettringen
+  kapellenbau_erlaubnis: 1746
+  erbauer: Adam Stiller (Ettringer Hafner und Baumeister)
+  betreuung_bis: 1807 (durch Eremit)
+  ausstattung_byzantinisch: 1864
+  renovierungen: 1939-1942, 1971
+GUELTIG_AB: 1746
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Sieben-Schwaben-Museum
+QUELLE: https://www.tuerkheim.de/kultur-freizeit/heimatmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründer: Hans Ruf und Luitpold Schuhwerk
+  gründung_nach: Zweiter Weltkrieg
+  sammlungen: Vor- und Frühgeschichte, Ortsgeschichte, Trachten, Möbel, Schwäbische Landkarten, Werke des Barockmalers Johann Georg Bergmüller, Nachlass von Ludwig Aurbacher
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johann Georg Bergmiller
+QUELLE: https://www.tuerkheim.de/gemeinde/geschichte-tuerkheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Barockmaler
+  betätigung_in_türkheim: ansässig gemacht durch Schlossumbau unter Herzog Maximilian Philipp
+GUELTIG_AB: 1666
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Aurbacher
+QUELLE: https://www.tuerkheim.de/kultur-freizeit/heimatmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Volksschriftsteller
+  bekannt_für: Verfasser von "Die Abenteuer der Sieben Schwaben"
+  nachlass: schriftlicher Nachlass im Sieben-Schwaben-Museum
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeindewappen
+QUELLE: https://www.tuerkheim.de/gemeinde/das-tuerkheimer-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung_datum: 7. Oktober 1700
+  verliehen_durch: Herzog Maximilian Philipp
+  verleihung_anlass: Marktrecht
+  beschreibung: geteilt; oben zwei goldene Schrägbalken auf blau, unten grüne Hügellandschaft mit silbernem Wellenbalken
+  herkunft_schrägbalken: gräfliches Schwabegger Wappen
+  symbolik_blau: Himmel Bayerns
+  symbolik_gold: Ährengold des Getreides (fruchtbares Land)
+  symbolik_grün_hügel: wunderschöne Umgebung des Marktes
+  symbolik_wellenbalken: Wertach
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Irsingen
+QUELLE: https://www.tuerkheim.de/gemeinde/ortsteil-irsingen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_zeit: alemannische Zeit
+  erste_erwähnung: 1084
+  ursprüngliche_herrschaft: Kloster Steingaden (durch Schenkung, Kauf, Tausch)
+  niedere_gerichtsbarkeit: Klostervogt in Wiedergeltingen
+  hohe_gerichtsbarkeit: Herrschaft Schwabegg
+  steuerdistrikt: Weicht (Anfang 19. Jahrhundert)
+  gemeinde_eingestuft: 1818
+  eingemeindung_zu_türkheim: 1. Mai 1978
+  einwohner: ca. 770 (Stand Texteingabe)
+  einwohner_anteil: über 10% aller Türkheim-Einwohner
+  bauernhöfe_früher: 40
+  bauernhöfe_aktuell: 4 (aktiv bewirtschaftet)
+  besonderheit: Jugendzentrum des Jugend- und Brauchtumsver eins als Begegnungs- und Veranstaltungsstätte
+  ratsmitglieder: 2 Vertreter im Marktgemeinderat (aktuelle Wahlperiode)
+GUELTIG_AB: 1084
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Berg
+QUELLE: https://www.tuerkheim.de/gemeinde/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: ca. 1000 n.Chr. von Ettringen aus
+  ursprüngliche_herrschaft: Welf IV. schenkte Berg dem Kloster Weingarten
+  lehensgabe: Kloster Weingarten vergab es bis 1533 an verschiedene Herren
+  bedeutender_besitzer: St.-Jakobs-Pfründe in Augsburg
+  anwesen_damals: 7
+  übergang_zu_türkheim: zur Zeit Herzog Maximilian Philipps
+  anwesen_aktuell: kontinuierlicher Rückgang der Bauernhöfe
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Ettringen
+QUELLE: https://www.tuerkheim.de/gemeinde/geschichte-tuerkheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_alamannische_siedler: Mitte 5. Jahrhundert
+GUELTIG_AB: 450
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Wertach
+QUELLE: https://www.tuerkheim.de/gemeinde/das-tuerkheimer-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: fließt durch Türkheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

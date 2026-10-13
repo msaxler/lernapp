@@ -1,0 +1,532 @@
+ENTITÄT: ort
+BEZEICHNUNG: Wörthsee
+QUELLE: https://www.gemeinde-woerthsee.de/woeorthsee-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 82237
+  telefon_vorwahl: 08153 (Hauptort); 08143 (Walchstadt)
+  landkreis: Starnberg
+  einwohner: 5114
+  einwohner_zeitstand: 30.09.2022
+  breite: 48°04'00" Nord
+  laenge: 11°12'00" Ost
+  hoehe_ueber_nn: 560-620 m
+  flaeche_gesamt: ca. 2040 Hektar
+  flaeche_landwirtschaft: ca. 47 Prozent
+  flaeche_wald: ca. 30 Prozent
+  flaeche_wasser: ca. 10 Prozent
+  flaeche_gebaeude_frei: ca. 6 Prozent
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Wörthsee
+QUELLE: https://www.gemeinde-woerthsee.de/geschichte-von-woerthsee/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorherige_gemeinden: Steinebach (mit Auing); Etterschlag (mit Walchstadt, Schluifeld, Waldbrunn)
+  einwohner_frueher: 5045
+  einwohner_zeitstand_frueher: 01.07.2016
+  gletscherbeeinflussung: Eiszeit (Quartiär)
+  gletschertyp: Ammergletscher
+  schmelzen_beginn: ca. 40000 Jahren
+  archaeologische_besiedlung: Jungsteinzeit
+  historische_siedler: Kelten; Römer; Bajuwaren
+  herrschaft_12_jh: Grafen von Andechs
+  landesherrliche_behoerde_ab_14_jh: Landgericht Weilheim
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: see
+BEZEICHNUNG: Wörthsee
+QUELLE: https://www.gemeinde-woerthsee.de/woeorthsee-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: ca. 3.7 km
+  breite: ca. 1.2 km
+  uferlänge: ca. 10 km
+  flaeche: ca. 4.34 km²
+  tiefe_maximal: ca. 34 m
+  wasserspiegel_hoehe: ca. 560 m ü.N.N.
+  entstehungstyp: Relikt der letzten Eiszeit; Toteis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: see
+BEZEICHNUNG: Wörthsee
+QUELLE: https://www.gemeinde-woerthsee.de/geschichte-von-woerthsee/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Insel Wörth (12 ha großen Insel); mittelhochdeutsch "Werth" = Insel oder Uferlage
+  geologie: Exaration eines Vorlandgletschers; Zweigbecken des Isar-Loisach-Gletschers
+  entwässerung: vom Pilsensee über Inninger Bach zum Ampermoos; Zungenbecken in Grafrath
+GUELTIG_AB: Quartiär
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: insel
+BEZEICHNUNG: Wörth
+QUELLE: https://www.gemeinde-woerthsee.de/geschichte-von-woerthsee/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 12 Hektar
+  see_zugehoerigkeit: Wörthsee
+  volksnamen: Mausinsel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeindewappen Wörthsee
+QUELLE: https://www.gemeinde-woerthsee.de/wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldische_beschreibung: In Silber, ein blauer Wellenbalken, darüber ein blauer Fisch, darunter eine rote heraldische Rose
+  symbolik_rose: Wappen der Grafen Törring; Herrschaft Seefeld; Steinebach-Bezug
+  symbolik_farben_silber_blau: Zugehörigkeit Etterschlags zum herzoglichen Landgericht Weilheim
+  symbolik_wellenbalken_fisch: Wörthsee
+  ursprung: Zusammenlegung Etterschlag und Steinebach 1972
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolaus
+ORTSTEIL_BEZUG: Etterschlag
+QUELLE: https://www.gemeinde-woerthsee.de/buergerservice/bildung-und-soziales/kirchen-und-seelsorge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  filialkirche: true
+  baustil: barock
+  erbaut: 1758
+  adresse: Inninger Str. 1, Wörthsee-Etterschlag
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Steinebach
+QUELLE: https://www.gemeinde-woerthsee.de/buergerservice/bildung-und-soziales/kirchen-und-seelsorge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  filialkirche: true
+  baustil: barock
+  erbaut: 16. Jahrhundert
+  geweiht: hl. Martin von Tours
+  adresse: Dorfstr. 6, Wörthsee-Steinebach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Walchstadt
+QUELLE: https://www.gemeinde-woerthsee.de/buergerservice/bildung-und-soziales/kirchen-und-seelsorge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  filialkirche: true
+  baustil: barock
+  erbaut: ca. 1760
+  erbaut_auf: aelterer Grundlage
+  adresse: Wörthseestraße 4, Wörthsee-Walchstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche zum Heiligen Abendmahl
+ORTSTEIL_BEZUG: Steinebach
+QUELLE: https://www.gemeinde-woerthsee.de/buergerservice/bildung-und-soziales/kirchen-und-seelsorge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrkirche: true
+  adresse: Etterschlager Str. 43, Steinebach
+  pfarramt_adresse: Etterschlager Str. 45
+  bistum: Augsburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelisch-Lutherische Kirche
+QUELLE: https://www.gemeinde-woerthsee.de/buergerservice/bildung-und-soziales/kirchen-und-seelsorge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  kirchengemeinde: Herrsching
+  pfarrstelle_adresse: Weßlinger Straße 16
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Steinebach
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/steinebach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 912-932
+  ersterwähnung_kontext: Schenkung Bischof Odalfrids von Eichstätt an das Stift Herrieden
+  adelsgeschlecht: Herren mit Leitnamen "Walchun"
+  burg_oberhalb_kirche: ovale Befestigung, ca. 50 Meter Länge, Tuffstein
+  burg_bedeutung: freie Herren im Gefolge Herzöge Bayern, Grafen Wittelsbach, Grafen Andechs
+  herrschaft_ab_endell_11_jh: Herrschaft Seefeld
+  hoefe_1393: 6 Hoefe (im Urbar der Herrschaft Seefeld)
+  anwesen_18_jh: 19 Anwesen
+  gemeindegründung: 1818
+  eisenbahn_eröffnung: 1903 (Lokalbahn Pasing-Herrsching)
+  schule_gebaut: 1907
+  wahlen_1932_reichspraesident: Hitler 161 Stimmen; Hindenburg 159 Stimmen; Thälmann 8 Stimmen
+  badeanstalt: Fleischmann (ab 1930er); später Augustiner am See; Wasserrutsche aus USA importiert
+  amerikaner_besatzung: 1945-1948
+  erste_bundestagswahl_1949: Bayernpartei knapp vor CSU
+  einwohner_aktuell: 3034
+  bahnanbindung_ab_1972: S-Bahn Linie S8 nach Herrsching
+  bahnhof: Bahnhof Steinebach
+  groesster_ortsteil: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Auing
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/auing/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1255
+  ersterwähnung_kontext: Vertrag Hochstift Eichstätt mit Herren von Seefeld; Rechtsstatus Leibeigener
+  hoefe_groesste_drei: vermutlich aus Erbe Herren von Steinebach (um 1250 ausgestorben); vor 1400 im Besitz Herren Seefeld
+  unabhaengiger_hof: Eigentum einer Bauernfamilie, keinem Grundherrn unterstellt
+  hof_1567_kauf: Hieronymus Kheiss (herzoglicher Hofkanzler); Verpachtung an Bauern
+  hof_1661_besitz: Augustinerkloster München
+  hof_1717_aufgegeben: Herzog von Bayern; Renditegründe
+  gemeindezugehörigkeit_1818: angegliedert an Gemeinde Steinebach; 9 Anwesen
+  hans_steyrer: "Bayerischer Herkules"; Wiesnwirt; Kostkind in Auing 1860er Jahren
+  eisenbahn_1903: Bau Eisenbahnlinie München-Herrsching; Tourismus beginnt
+  gasthof_dietrich: Unterkunft Sommerfrischler
+  badeanstalt_fremdenverkehr: Bauernfamilien vermieteten Fremdenzimmer
+  einwohner_aktuell: 156
+  kleinster_ortsteil: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Walchstadt
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/walchstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1325
+  ersterwähnung_kontext: Verkauf Einkünfte durch Otto von Greifenberg an Konrad Hübschwirt (Münchener Bürger)
+  grundherren_14_jh: Herren von Greifenberg; größte Grundherren mit Dorfgericht
+  besitz_1380: 5 Hoefe und Gerichtsrechte an Hans Püttrich (Münchener Patrizier)
+  muenchener_besitz_ca_200_jahre: Bürgerfamilien Hundertpfund (ca. 1520 kleines Schloss)
+  hofmark_1681: Familie Barth von Harmating; übergang an Grafen Toerring auf Seefeld
+  schlossbauernhof: abreißen Hofmarkschlösschen; neubau; zeitweise als Schwaige genutzt
+  gemeindezugehörigkeit_1818: angegliedert an Gemeinde Etterschlag; 17 Anwesen; eigener Ortsvorsteher
+  eisenbahn_1873: Eröffnung Linie München-Grafrath; Feriengäste; Wechsel auf Dampfer "Mooskuh"
+  strandbad_1925: Wörthseeblick
+  neubaugebiet: Oberfeld; Wachstum seit 1970er Jahren
+  einwohner_aktuell: 908
+  charakter: bäuerlich geprägt; gepflegte alte Bauernhäuser im Ortskern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Etterschlag
+QUELLE: https://www.gemeinde-woerthsee.de/geschichte-von-woerthsee/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verwaltungsgeschichte: wenig Berührungspunkte mit anderen Ortsteilen (Walchstadt, Schluifeld, Auing) über Jahrhunderte
+  grundherrschaft_ab_1692: Herrschaft Seefeld (Niedergerichtsbarkeit, Verwaltungsaufgaben)
+  gemeindezugehörigkeit_1818: zu Gemeinde Etterschlag
+  siedlung_1950: Neu-Etterschlag auf Bodenreformland; Vorbesitz Grafen Toerring; 15 Einzelhäuser, 1 Doppelhaus; Heimatvertriebene Sudentenland
+  siedlung_name_spaeter: Waldbrunn (mit nördlich gelegener Hörndl-Siedlung zusammengewachsen)
+  sitzungsprotokolle_ab: 1862 (im Gemeindearchiv)
+GUELTIG_AB: 1692
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schluifeld
+QUELLE: https://www.gemeinde-woerthsee.de/geschichte-von-woerthsee/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verwaltungsgeschichte: wenig Berührungspunkte mit anderen Ortsteilen über Jahrhunderte; wechselnde Grundherren und Gerichtsherren
+  grundherrschaft_ab_1692: Herrschaft Seefeld (Niedergerichtsbarkeit, Verwaltungsaufgaben)
+  gemeindezugehörigkeit_1818: zu Gemeinde Etterschlag
+  genossenschaft_entwässerung: Genossenschaft zur Entwässerung des Schluifelder Mooses (Akten im Archiv)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Waldbrunn
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/waldbrunn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprungsname: Neu-Etterschlag
+  erbauung_beginn: ab 1950
+  erbauung_flaeche: Bodenreformland
+  erbauung_vorbesitzer: Grafen von Toerring
+  erbauung_lage: entlang Hauptstraße Etterschlag-Steinebach
+  erbauung_planung: Bayerische Landessiedlung GmbH
+  erbauung_gebaeude: 15 Einzelhäuser, 1 Doppelhaus
+  erbauung_bauherren: Heimatvertriebene aus dem Sudentenland
+  erbauung_ausbaustil: hoher Anteil Eigenleistung
+  entwicklung: zusammengewachsen mit nördlich gelegener Hörndl-Siedlung
+  ursprung_geschichte: Flüchtlingssiedlung nach 2. Weltkrieg
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: see_historisch
+BEZEICHNUNG: Schluifelder See (Schluisee)
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/waldbrunn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geologie: Toteis- und Moorsee
+  lage: Norden der Gemeinde Wörthsee
+  trockenlegung: Ende 19. Jahrhundert
+  nachnutzung: Schluifelder Moos
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: Quartär
+GUELTIG_BIS: Ende 19. Jahrhundert
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: erhebuung
+BEZEICHNUNG: Burgselberg (Donarbichl)
+ORTSTEIL_BEZUG: Steinebach
+QUELLE: https://www.gemeinde-woerthsee.de/woeorthsee-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 621 m
+  superlativ: höchste Erhebung der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Steinebach
+ORTSTEIL_BEZUG: Steinebach
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/steinebach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb der Kirche St. Martin
+  form: ovale Befestigung
+  laenge: ca. 50 Meter (Kernwerk)
+  baumaterial: Tuffstein
+  geschlecht: Herren mit Leitnamen "Walchun"; benannt nach Stammsitz
+  bedeutung: freie Herren im Gefolge der Herzöge von Bayern, der Grafen von Wittelsbach, der Grafen von Andechs
+  gueterübergang: vermutlich im Erbfall an benachbarte Herren von Seefeld
+  befestigungsreste: noch gut erkennbar im Gelände
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Hans Steyrer
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/auing/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  epitheton: "Bayerischer Herkules"
+  beruf: Wiesnwirt
+  ortsbezug: Kostkind zur Pflege in Auing
+  zeitraum: 1860er Jahre
+GUELTIG_AB: 1860
+GUELTIG_BIS: 1869
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Werner Bülow
+QUELLE: https://www.gemeinde-woerthsee.de/kultur-freizeit/das-gemeindearchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nachlass: im Gemeindearchiv vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Amalie Königbaur
+QUELLE: https://www.gemeinde-woerthsee.de/kultur-freizeit/das-gemeindearchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlung: Feldpostsammlung
+  archiv: Gemeindearchiv
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: behörde
+BEZEICHNUNG: Gemeindearchiv Wörthsee
+QUELLE: https://www.gemeinde-woerthsee.de/kultur-freizeit/das-gemeindearchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: historisches Gedächtnis der Gemeinde; Dienststelle für Fragen zur Geschichte Wörthsee und seiner Ortsteile
+  aufgabe: Bewahrung Unterlagen Ortsgeschichte; Bereitstellung für Forschung und Bürger
+  kernbestand: Akten der Gemeindeverwaltung
+  sammlungsinteresse: Künstlernachlässe, ortsgeschichtliche Sammlungen, Ansichtskarten, Fotografien, Nachlässe Privatpersonen, Vereinen, Firmen
+  sammlung_zusaetzlich: Flugblätter, Plakate, Broschüren
+  dienstleistungen: Deposition von Objekten und Dokumenten; Digitalisierung (Einscannen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: behörde
+BEZEICHNUNG: Standesamt Wörthsee
+QUELLE: https://www.gemeinde-woerthsee.de/kultur-freizeit/das-gemeindearchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: im Rathaus Wörthsee
+  gründung_bayern: 1876
+  zuständigkeit: Steinebach (ab 1913 mit eigenem Standesamt; davor Seefeld)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Molkerei Eberl
+QUELLE: https://www.gemeinde-woerthsee.de/kultur-freizeit/das-gemeindearchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  archiv: Firmenarchiv im Gemeindearchiv
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Auerhahnschützen Steinebach
+QUELLE: https://www.gemeinde-woerthsee.de/kultur-freizeit/das-gemeindearchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nachlass: Vereinsnachlass im Gemeindearchiv
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Steinebach
+ORTSTEIL_BEZUG: Steinebach
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/steinebach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnlinie: S-Bahn Linie S8 nach Herrsching
+  anbindung_ab: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur_historisch
+BEZEICHNUNG: Lokalbahn Pasing-Herrsching
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/steinebach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1903
+  folgen: Bevölkerungsboom in Steinebach; Hauptstraße zwischen Bahnhof und Ort entstanden; kleinere Geschäfte angesiedelt; Schulgebäude 1907 nötig
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur_historisch
+BEZEICHNUNG: Eisenbahn München-Grafrath
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/walchstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1873
+  folgen: erste Feriengäste nach Walchstadt; Wechsel auf Dampfer "Mooskuh" in Grafrath
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur_historisch
+BEZEICHNUNG: Eisenbahn München-Herrsching
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/auing/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1903
+  folgen: Tourismus in Auing; Gasthof Dietrich; Vermietung Fremdentzimmer durch Bauernfamilien
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: badeanstalt
+BEZEICHNUNG: Fleischmann (später Augustiner am See)
+ORTSTEIL_BEZUG: Steinebach
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/steinebach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_entstehung: 1930er Jahre
+  ausstattung: Wasserrutsche (aus USA importiert)
+  besonderheit: Publikumsmagnet der 1930er Jahre; beliebtes Ausflugsziel Nazi-Größen (einschließlich Gauleiter Adolf Wagner)
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: badeanstalt
+BEZEICHNUNG: Wörthseeblick
+ORTSTEIL_BEZUG: Walchstadt
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/walchstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1925
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gasthof_historisch
+BEZEICHNUNG: Dietrich
+ORTSTEIL_BEZUG: Auing
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/auing/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: nach 1903
+  angebot: Unterkunft; Sommerfrischler; täglicher Mittagstisch Pensionsgäste (Sommermonaten)
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gasthof
+BEZEICHNUNG: Schwarz
+ORTSTEIL_BEZUG: Walchstadt
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/walchstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verkehrsfunktion: Postkutsche machte vor dem Gasthof Halt
+  zeitraum: 1873 (nach Eisenbahn München-Grafrath)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: verkehrsmittel_historisch
+BEZEICHNUNG: Mooskuh
+QUELLE: https://www.gemeinde-woerthsee.de/ortsteile/walchstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Dampfer
+  verkehrsroute: Grafrath nach Stegen
+  zeitraum_nutzung: ab 1873
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75

@@ -1,0 +1,1109 @@
+ID: 325-bad-woerishofen/001
+ENTITÄT: ort
+BEZEICHNUNG: Bad Wörishofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung: 1067
+  urkundliche_ersterwähnung_name: Werenshova
+  namensherkunft: beim Hof oder den Höfen des Werin
+  erhebung_kurort: 1890
+  erhebung_bad: 1920
+  erhebung_stadt: 1994
+  erhebung_kneipp_heilbad: 1994
+  einwohner: 17000
+  einwohner_stand: 31. Dezember 2024
+  hoechste_einwohnerzahl_zeitraum: 1889-1897
+  einwohner_1889_1897: 2746
+  ist_groesste_stadt: true
+  ist_groesste_stadt_bezug: Landkreis Unterallgäu
+  ist_leistungsfaehige_gemeinde: true
+  ist_leistungsfaehige_gemeinde_bezug: eine von 13 kreisangehörigen Gemeinden in Bayern
+  lage_region: Donau-Iller, Mittelschwaben
+  entfernung_muenchen: 80 km westlich
+  entfernung_memmingen: 35 km östlich
+  gewässer: Wörthbach (Nebenflüsschen der Mindel)
+  seehöhe_minimum: 620 m
+  seehöhe_maximum: 700 m
+  landkreis: Unterallgäu
+  staat: Deutschland
+  bundesland: Bayern
+  gemeindeteile_anzahl: 12
+  wappenverleihung: 27. Mai 1915
+  wappenverleihung_durch: König Ludwig III. von Bayern
+  wappen_beschreibung: Unter silbernem, mit einem grünen Lindenzweig belegtem Schildhaupt in Blau ein silberner Wellenbalken
+  flagge_beschreibung: weiß-blau gestreift mit aufgelegtem Stadtwappen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/002
+ENTITÄT: ort_eigenschaft_pest
+BEZEICHNUNG: Pest 1629
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Pest
+  todesfaelle: 500
+  ueberlebende_hoefe: 2
+GUELTIG_AB: 1629
+GUELTIG_BIS: 1629
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/003
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster der Dominikanerinnen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1719-1721
+  baumeister: Franz Beer
+  ordensgemeinschaft: Dominikanerinnen
+  mutterkloster: Augsburger Kloster St. Katharina
+  orden: Dominikanerorden
+  funktion: Tochterkloster
+  verleihung_herrschaft_wörishofen: 1723
+  rueckgabe_herrschaft_wörishofen: 1725
+  rechte_transfer: 1773
+  aufhebung: 29. November 1802
+  ausstattung: Stuckarbeiten und Fresken von Dominikus Zimmermann und Johann Baptist Zimmermann
+  notable_bewohner: Sebastian Kneipp (1855-1897)
+  museum_beschreibung: Im östlichen Flügel befindet sich das Sebastian-Kneipp-Museum mit über 2000 Ausstellungsstücken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/004
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Justina
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1519-1520
+  patronat_erhalt: 1251
+  patronat_erhalter: Dominikanerinnenkloster Augsburg
+  fresko_sebastian_kneipp: 1936
+  fresko_maler: Johann Michael Schmitt
+  pfarrer_ab_1881: Sebastian Kneipp
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/005
+ENTITÄT: kirche
+BEZEICHNUNG: Erlöserkirche
+ORTSTEIL_BEZUG: Am Wörthbach
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1967-1968
+  baubeginn: 21. Januar 1967
+  bauende: 18. August 1968
+  einweihung: 18. August 1968
+  grundriss: Sechseck
+  kirchturm_hoehe: 45 m
+  kirchturm_lage: seitlich, nicht verbunden
+  architekten: Franz Lichtblau, Ludwig Bauer (München)
+  altarbereich_gestalter: Hermann Jünger (München)
+  fenster_designer: Helmut Ammann
+  orgel_erbauer: G. F. Steinmeyer (Oettingen)
+  orgel_erweiterung: 1995
+  orgel_erweiterung_werkstatt: Späth (Rapperswil, Schweiz)
+  glocken_anzahl: 5
+  glocken_schlagtöne: e' – fis' – g' – h' – d''
+  gebetsecke_anlage: 2010
+  gebetsecke_gestalter: Rolf Bauer (Bad Wörishofener Kunstschmied)
+  gebetsecke_materialien: Schmiedeeisen, Bronze, Edelstahl, Messing
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Rasso
+ORTSTEIL_BEZUG: Untergammenried
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wallfahrtskirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/007
+ENTITÄT: kirche
+BEZEICHNUNG: Mariä Heimsuchung
+ORTSTEIL_BEZUG: Dorschhausen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wallfahrtskirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael
+ORTSTEIL_BEZUG: Stockheim
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  architekturstil: Barock
+  deckenfresko_maler: Johann Joseph Anton Huber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/009
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Schlingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  erneuerung: 1760er Jahre
+  deckengemälde_maler: Franz Anton Zeiler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Christophorus
+ORTSTEIL_BEZUG: Frankenhofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: spätmittelalterliche Kapelle
+  umgestaltung: spätes 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/011
+ENTITÄT: kirche
+BEZEICHNUNG: St. Ulrich
+ORTSTEIL_BEZUG: Wörishofener Gartenstadt, Kirchenstraße 1
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrkirche: true
+  einweihung: 28. Oktober 1967
+  einweihung_durch: Bischof Josef Stimpfle (Augsburg)
+  reliquien: Christina (urchristliche Märtyrer-Jungfrau), Ulrich (heiliger Bischof)
+  kirchenraum_stil: stilisiertes Zelt
+  glockenturm: freistehendes, spitz zulaufendes, dreieckiges Bauwerk
+  glockenturm_lage: Draufsicht ergibt Davidsstern
+  wahrzeichenfunktion: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/012
+ENTITÄT: museum
+BEZEICHNUNG: Sebastian-Kneipp-Museum
+QUELLE: https://www.bad-woerishofen.de/vor-ort-orientierung/kneipp-museum-museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: östlicher Flügel des Klosters der Dominikanerinnen
+  lage_beschreibung: Stadtzentrum Bad Wörishofen
+  ausstellungsstuecke: über 2000
+  ausstellungsraeume: 8
+  themen: Lebensweg Sebastian Kneipps, sein Wirken, Ortsgeschichte, Gesundheitslehre mit fünf Säulen
+  audioguide: Hearonymus-App
+  sprachen: Deutsch, Englisch
+  qr_codes: personalisierte Führung möglich
+  veranstaltungen: regelmäßige Vorträge und Filmvorführungen
+  museumsgarten: Kneipp-Gießschlauch am Brunnen, Sommerkonzerte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/013
+ENTITÄT: museum
+BEZEICHNUNG: Süddeutsches Fotomuseum
+QUELLE: https://www.bad-woerishofen.de/vor-ort-orientierung/kneipp-museum-museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größte öffentlich zugängliche Privatsammlung in Deutschland
+  thema: Fotografie
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 325-bad-woerishofen/014
+ENTITÄT: museum
+BEZEICHNUNG: Kutschenmuseum
+QUELLE: https://www.bad-woerishofen.de/vor-ort-orientierung/kneipp-museum-museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlung_objekte: über 100 historische Kutschen und Schlitten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/015
+ENTITÄT: museum
+BEZEICHNUNG: Fliegermuseum
+QUELLE: https://www.bad-woerishofen.de/vor-ort-orientierung/kneipp-museum-museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  themen: Geschichte der Fliegerstadt Bad Wörishofen, Luftfahrt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 325-bad-woerishofen/016
+ENTITÄT: museum
+BEZEICHNUNG: Puppenmuseum
+QUELLE: https://www.bad-woerishofen.de/vor-ort-orientierung/kneipp-museum-museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlung_zeitraum: 1920-2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 325-bad-woerishofen/017
+ENTITÄT: museum
+BEZEICHNUNG: Haus der Kunst und Krippen
+QUELLE: https://www.bad-woerishofen.de/vor-ort-orientierung/kneipp-museum-museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Sankt Lukas Stiftung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 325-bad-woerishofen/018
+ENTITÄT: museum
+BEZEICHNUNG: Emmy Noether Memorial
+QUELLE: https://www.bad-woerishofen.de/vor-ort-orientierung/kneipp-museum-museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größte öffentlich zugängliche Privatsammlung in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 325-bad-woerishofen/019
+ENTITÄT: museum
+BEZEICHNUNG: Allgäuer Fischmuseum
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  thema: Fischerei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 325-bad-woerishofen/020
+ENTITÄT: park
+BEZEICHNUNG: Kurpark
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  besonderheit_rosarium: eines der größten Rosarien Deutschlands
+  rosenstoecke_anzahl: über 8000
+  rosensorten_anzahl: über 530
+  anlage_rosengartenanlage: 16. Juli 1972
+  rosengartenanlage_taufer: Rosy Rosenhorst (Großgärtnerei Horstmann)
+  rosengartenanlage_spende: 1000 Rosenstöcke in 63 Sorten
+  rose_neuzuechtung_name: Bad Wörishofen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1894
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/021
+ENTITÄT: gebäude
+BEZEICHNUNG: Spielcasino
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  anlage_grund: abgebranntes Museum artis
+  anlage_jahr: 1905
+  eroeffnung: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 325-bad-woerishofen/022
+ENTITÄT: gebäude
+BEZEICHNUNG: Kurhaus Sebastianeum
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1890-1891
+  urspr_funktion: Unterbringung hilfesuchender Geistlicher
+  grundung: 1889
+  erwerbung_durch_sebastian_kneipp: 1889
+  sprechzimmer_sebastian_kneipp: erhalten und besichtigbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/023
+ENTITÄT: gebäude
+BEZEICHNUNG: Kurtheater
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  bestand_since: ca. 1906
+  jubilaeums_100_jahre: 2006
+  generalsanierung_bauzeit: 2009-2012
+  generalsanierung_kosten: 2.1 Millionen Euro
+IST_VERMUTISMUS_AKTUELL: true
+GUELTIG_AB: 1906
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/024
+ENTITÄT: therme
+BEZEICHNUNG: Therme Bad Wörishofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  alternative_name: Südseetherme
+  eroeffnung: 1. Mai 2004
+  betreiber: Unternehmensgruppe Wund
+  ausstattung: Südsee-Flair und Saunawelt
+  beschreibung: Anziehungspunkt Bad Wörishofens
+  schwäbische_bäderstraße_position: östliches Ende
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2004
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/025
+ENTITÄT: freizeitpark
+BEZEICHNUNG: Allgäu Skyline Park
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+ORTSTEIL_BEZUG: bei Kirchdorf
+EIGENSCHAFTEN:
+  eroeffnung_gruender: 1998
+  gruender_familie: Löwenthal (Schaustellerfamilie)
+  ursprung: kleiner Vergnügungsort
+  groesse: größter Freizeitpark Bayerns
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1998
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/026
+ENTITÄT: person
+BEZEICHNUNG: Sebastian Kneipp
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 17. Mai 1821
+  geburtsort: Stephansried
+  tod: 1897
+  sterbeort: Bad Wörishofen (Kloster der Dominikanerinnen)
+  profession: Pfarrer
+  fachgebiet: Hydrotherapie / Naturheilkunde
+  priester_weihe: 2. Mai 1855
+  position_beichtvater: 2. Mai 1855 - 1897, Dominikanerinnenkloster
+  position_pfarrer: 1881, St. Justina
+  lebenswerk: Kneipp-Kur (heilende Kraft des Wassers)
+  wirkungsort: Bad Wörishofen
+  buch_publikation: 1886
+  buch_titel: Meine Wasserkur
+  auswirkung_buch: Anstoß zum Anstrom von Kurgästen
+  saeulen_gesundheitslehre: fünf Säulen
+  international_bekanntheitsgrad: weltbekannt
+  todesort: Kloster der Dominikanerinnen
+  fridenswerk_bezeichnung: 200 Jahre Sebastian Kneipp
+  fridenswerk_jahr: 2021
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1821
+GUELTIG_BIS: 1897
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/027
+ENTITÄT: person_buergermeister
+BEZEICHNUNG: Daniel Pflügl
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  position: Erster Bürgermeister
+  amtsantritt: 1. Mai 2026
+  parteiaffiliation: parteilos
+  wahl_kandidatur: gemeinsamer Kandidat von CSU, Grünen und SPD
+  wahl_stimmanteil: 62.3 %
+  wahl_datum: 8. März 2026
+  wahl_gegner_1: Stefan Welzel (bisheriger Bürgermeister)
+  wahl_gegner_2: Paul Gruschka (ehemaliger Bürgermeister, Freie Wähler)
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2026
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/028
+ENTITÄT: person_buergermeister
+BEZEICHNUNG: Stefan Welzel
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  position: Erster Bürgermeister
+  amtszeit: 2020-2026
+  parteiaffiliation_initial: CSU
+  parteiaffiliation_ab_2025: BWB Bad Wörishofen
+  parteiawechsel_timing: kurz vor Kommunalwahlen 2026
+  wahl_2026_resultat: nicht gewählt
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2020
+GUELTIG_BIS: 2026
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/029
+ENTITÄT: person_buergermeister
+BEZEICHNUNG: Paul Gruschka
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  position: Erster Bürgermeister
+  amtszeit: 2014-2020
+  parteiaffiliation: Freie Wähler
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2014
+GUELTIG_BIS: 2020
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/030
+ENTITÄT: person_buergermeister
+BEZEICHNUNG: Klaus Holetschek
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  position: Erster Bürgermeister
+  amtszeit: 2002-2013
+  parteiaffiliation: CSU
+  weitere_karriere: seit 2023 Fraktionsvorsitzender der CSU im Bayerischen Landtag
+  hintergrund: in Bad Wörishofen aufgewachsen
+  beruf: Jurist
+  politiker: true
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2013
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/031
+ENTITÄT: person_buergermeister
+BEZEICHNUNG: Erwin Singer
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  position: Erster Bürgermeister
+  amtszeit: 1996-2002
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1996
+GUELTIG_BIS: 2002
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/032
+ENTITÄT: person_buergermeister
+BEZEICHNUNG: Ulrich Möckel
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  position: Erster Bürgermeister
+  amtszeit: 1977-1996
+  parteiaffiliation: CSU
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1977
+GUELTIG_BIS: 1996
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/033
+ENTITÄT: person_buergermeister
+BEZEICHNUNG: Anton Ledermann
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  position: Erster Bürgermeister
+  amtszeit: 1952-1977
+  parteiaffiliation: CSU
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1952
+GUELTIG_BIS: 1977
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/034
+ENTITÄT: person_architekt
+BEZEICHNUNG: Dominikus Zimmermann
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  profession: Baumeister
+  bauwerk: Kloster der Dominikanerinnen
+  ausstattung: Stuckarbeiten und Fresken
+  ausstattungs_kollaborateur: Johann Baptist Zimmermann
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/035
+ENTITÄT: person_architekt
+BEZEICHNUNG: Franz Beer
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  profession: Baumeister
+  bauwerk: Kloster Wörishofen
+  ausstattung: Leitung der Errichtung 1719-1721
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/036
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Rainer Werner Fassbinder
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1945
+  tod: 1982
+  beruf: Filmregisseur, Schauspieler, Autor
+  herkunft: Bad Wörishofen
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1982
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/037
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Irmgard Seefried
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1919
+  tod: 1988
+  beruf: Sopranistin
+  wohnzeit_ort: 1923-1940 Bad Wörishofen
+  auszeichnung: Bürgermedaille in Gold der Stadt Bad Wörishofen
+  musikschule_namenspatin: Irmgard Seefried Sing- und Musikschule
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1988
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/038
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Sebastian Holzmann
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1993
+  beruf: Skirennläufer
+  herkunft: Bad Wörishofen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1993
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/039
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Katherine Mansfield
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1888
+  tod: 1923
+  nationalitaet: neuseeländisch-britisch
+  beruf: Autorin
+  aufenthalt_wörishofen: 1909
+  aufenthalt_dauer: halbes Jahr
+  aufenthalt_verarbeitung: in ihrem Buch In einer deutschen Pension
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1888
+GUELTIG_BIS: 1923
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/040
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Viktor Frankl
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1905
+  tod: 1997
+  beruf: Begründer Logotherapie und Existenzanalyse, Arzt
+  wirkungsort_zeitraum: 1945, Bad Wörishofen
+  wirkungsort_institution: Hospital for displaced Persons
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1905
+GUELTIG_BIS: 1997
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/041
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Klaus-Dietrich Flade
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1952
+  beruf: Raumfahrer
+  raumfahrt_jahr: 1992
+  wohnort: Bad Wörishofen
+  wohnort_seit: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/042
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Bernhard Uehleke
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1956
+  beruf: Arzt
+  gruendung_forschungsinstitut: Sebastian Kneipp Forschung
+  forschungsinstitut_leitung_ab: 1989
+  forschungsinstitut_ort: Bad Wörishofen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/043
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Rainer Werner Fassbinder
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1945
+  tod: 1982
+  beruf: Filmregisseur, Schauspieler, Autor
+  herkunft: Bad Wörishofen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/044
+ENTITÄT: ereignis
+BEZEICHNUNG: Erhebung Wörishofens zum Kurort
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1890
+  entscheidungsform: Abstimmung im Gemeinderat
+  abstimmungsergebnis: eine Stimme Mehrheit
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1890
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/045
+ENTITÄT: ereignis
+BEZEICHNUNG: Erhebung Wörishofens zum Bad
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1920
+  datum: 6. März 1920
+  behoerde: Bayerisches Staatsministerium
+  prädikat: Bad
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1920
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/046
+ENTITÄT: ereignis
+BEZEICHNUNG: Erhebung Wörishofens zur Stadt
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1994
+  behoerde: Bayerisches Staatsministerium
+  titel: Kneipp-Heilbad
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1994
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/047
+ENTITÄT: ereignis
+BEZEICHNUNG: Gemeindegebietsreform Schlingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1. Juli 1972
+  gemeinde_eingemeindung: Schlingen
+GUELTIG_AB: 1972
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/048
+ENTITÄT: ereignis
+BEZEICHNUNG: Gemeindegebietsreform Kirchdorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1. Januar 1977
+  gemeinde_eingemeindung: Kirchdorf
+GUELTIG_AB: 1977
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/049
+ENTITÄT: ereignis
+BEZEICHNUNG: Gemeindegebietsreform Dorschhausen und Stockheim
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1. Mai 1978
+  gemeinde_eingemeindung: Dorschhausen, Stockheim
+GUELTIG_AB: 1978
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/050
+ENTITÄT: ereignis
+BEZEICHNUNG: Guinness Weltrekord Längstes Armbad der Welt 1997
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1997
+  rekordzahl: 550 Teilnehmer
+  kategorisierung: 1. kneippscher Guinness Weltrekord
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1997
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/051
+ENTITÄT: ereignis
+BEZEICHNUNG: Guinness Weltrekord Längsten Armbad der Welt 2011
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2011
+  rekordzahl: 1135 Personen
+  kategorisierung: 2. Guinness Weltrekord mit Armbad
+  wiederholung_erfolg: Erneuter Weltrekord
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2011
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/052
+ENTITÄT: ereignis
+BEZEICHNUNG: Deutscher und Bayerischer Barfußwandertag 2013
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2013
+  datum: 24. August 2013
+  kategorisierung: 1. Deutscher und 4. Bayerischer Barfußwandertag
+  organisierer: Zusammenarbeit mit Health Care Bayern e.V.
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2013
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/053
+ENTITÄT: ereignis
+BEZEICHNUNG: UNESCO Kulturerbe Kneippen
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2015
+  datum: 4. Dezember 2015
+  beschreibung: Kneippen als traditionelles Wissen und Praxis nach der Lehre Sebastian Kneipps
+  registrierung: bundesweites Verzeichnis des immateriellen Kulturerbes
+  behoerde: Deutsche UNESCO Kommission
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2015
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/054
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadtjubiläum 950 Jahre Bad Wörishofen
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2017
+  datum: 29. Juni bis 2. Juli 2017
+  motto: Bad Wörishofen - einst und heute
+  grund: erste urkundliche Erwähnung Wörishofens im Jahr 1067 (950 Jahre zuvor)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2017
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/055
+ENTITÄT: ereignis
+BEZEICHNUNG: Guinness Weltrekord Größter Hydrotherapievortrag der Welt 2023
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2023
+  rekordzahl: 838 Personen
+  kategorisierung: 3. Guinness Weltrekord für Kneipp
+  beschreibung: Größter Hydrotherapievortrag der Welt mit anschließendem Wassertreten
+  wassertretbecken: 13 Wassertretbecken, zeitgleiches Einsteigen
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2023
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/056
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Villach
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  land: Österreich
+  region: Kärnten
+  partnerschaft_seit: 1966
+  typ: Kontakt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1966
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/057
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Tscheboksary
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  land: Russland
+  region: Hauptstadt der Föderationsrepublik Tschuwaschien
+  partnerschaft_seit: 2009
+  typ: Partnerschaft
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2009
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/058
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Pfarrer-Kneipp-Grund-und-Mittelschule
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grund- und Mittelschule
+  merkmale: Mittlere-Reife-Klassen 7 und 8, offene Ganztagesschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/059
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Wirtschaftsschule Bad Wörishofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Wirtschaftsschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/060
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Irmgard Seefried Sing- und Musikschule
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Musik- und Singschule
+  namenspatin: Irmgard Seefried
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/061
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Fachoberschule Bad Wörishofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Fachoberschule
+  zweige: 2
+  zweig_1: Wirtschaft/Verwaltung/Recht
+  zweig_2: Soziales
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/062
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Hotelfachschule Bad Wörishofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Hotelfachschule
+  ausbildung_zielgruppe: Hotelnachwuchs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/063
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Berufsfachschule für Assistenten für Hotel- und Tourismusmanagement
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Berufsfachschule
+  ausbildung: Assistenten für Hotel- und Tourismusmanagement
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/064
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Sebastian-Kneipp-Schule
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Berufsausbildungsschule
+  ausbildungen: Masseur/-in, medizinische/-r Bademeister/-in, Physiotherapeut/-in
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/065
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Staatliche Berufsschule Bad Wörishofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Berufsschule
+  traeger: Staat
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/066
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Massengrab KZ-Häftlinge
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  ort: jüdisches Grabfeld, Städtischer Friedhof
+  haeftlinge_anzahl: 34
+  lagerzugehoerigkeit: KZ-Außenlager Kaufering VI – Türkheim
+  todesjahr: Frühjahr 1945
+  todesursache: Folgen der Haft
+  todesort: Hospital von Wörishofen
+  gedenkstein: vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/067
+ENTITÄT: verkehrsanbindung
+BEZEICHNUNG: Bahnstrecke Türkheim–Bad Wörishofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 1896
+  verkehrsmodus: Eisenbahn
+  anbindung_fernverkehr: Bahnstrecke Buchloe–Memmingen
+  direktverbindung_1: ICE-Halt Augsburg Hauptbahnhof
+  direktverbindung_2: Buchloe (mit Anschluss nach München und Zürich)
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1896
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/068
+ENTITÄT: verkehrsanbindung
+BEZEICHNUNG: Autobahn A96
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  strecke: München – Lindau
+  ausfahrt: Bad Wörishofen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/069
+ENTITÄT: flugplatz
+BEZEICHNUNG: Segelflugplatz Bad Wörishofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  flugplatztyp: Segelflugplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/070
+ENTITÄT: flugplatz
+BEZEICHNUNG: Flugplatz Bad Wörishofen-Nord
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  flugplatztyp: Motorflugplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/071
+ENTITÄT: flugplatz
+BEZEICHNUNG: Modellflugplatz Frankenhofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  flugplatztyp: Modellflugplatz
+  ausstattung: Asphaltpiste
+  ortsteil: Frankenhofen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 325-bad-woerishofen/072
+ENTITÄT: sporteinrichtung
+BEZEICHNUNG: Schachfestival Bad Wörishofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Schach
+  durchfuehrung: seit 1985, jeweils im Frühjahr
+  ort: Theatersaal des Kurhauses
+  turniertypus: internationales Schachturnier
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1985
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/073
+ENTITÄT: grossveranstaltung
+BEZEICHNUNG: Tulpentag
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltungstyp: Festival
+  datum_monat: Ende April
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 325-bad-woerishofen/074
+ENTITÄT: grossveranstaltung
+BEZEICHNUNG: Südtirol Fest
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltungstyp: Festival
+  datum_monat: September
+  beschreibung: nach Veranstalterangaben das größte dieser Art in Deutschland
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 325-bad-woerishofen/075
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hartenthal
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1949
+  status: Gemeindeteil
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1949
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/076
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberes Hart
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1949
+  status: Gemeindeteil
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1949
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/077
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unteres Hart
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1949
+  status: Gemeindeteil
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1949
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/078
+ENTITÄT: ortsteil
+BEZEICHNUNG: Obergammenried
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1949
+  status: Gemeindeteil
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1949
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/079
+ENTITÄT: ortsteil
+BEZEICHNUNG: Untergammenried
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1949
+  status: Gemeindeteil
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1949
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/080
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schöneschach
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: ca. 1450
+  eingemeindung: 1949
+  status: Gemeindeteil
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1949
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 325-bad-woerishofen/081
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schlingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Juli 1972
+  status: Gemeindeteil
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1972
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/082
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kirchdorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Januar 1977
+  status: Gemeindeteil
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1977
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/083
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dorschhausen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Mai 1978
+  status: Gemeindeteil
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1978
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/084
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stockheim
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Mai 1978
+  status: Gemeindeteil
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1978
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 325-bad-woerishofen/085
+ENTITÄT: ortsteil
+BEZEICHNUNG: Frankenhofen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  status: Gemeindeteil
+  modellflugplatz: vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 325-bad-woerishofen/086
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Irsingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_W%C3%B6rishofen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: historischer Ortsname
+  besiedlung_periode: Ende des 5. Jahrhunderts
+  siedler: Alemannen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 325-bad-woerishofen/087
+ENTITÄT: kulturerbe
+BEZEICHNUNG: Kneippen als immaterielles Kulturerbe
+QUELLE: https://www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: traditionelles Wissen und Praxis nach der Lehre Sebastian Kneipps
+  registrierung: 4. Dezember 2015
+  verzeichnis: bundesweites Verzeichnis des immateriellen Kulturerbes
+  behoerde: Deutsche UNESCO Kommission
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2015
+VERTRAUEN_EXTRAKTION: 0.95

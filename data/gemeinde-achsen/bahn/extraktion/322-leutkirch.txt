@@ -1,0 +1,808 @@
+ENTITÄT: ort
+BEZEICHNUNG: Leutkirch im Allgäu
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung_jahr: 766
+  historischer_bezug: Kirch- und Gerichtsort des Nibelgaus
+  ursprünglich_von: Udalrichinger (Erbe)
+  danach_unter: Grafen von Bregenz und Grafen von Montfort
+  vererbungsweg: 1291 zusammen mit Grafschaft Zeil an das Reich verkauft
+  stadtrechte_verleihung: 1293 durch König Adolf von Nassau (Rechte der Stadt Lindau)
+  reformation_jahr: 1546
+  medialisierung_jahr: 1803
+  fall_zu: Bayern
+  oberamt_zentrum_seit: 1810
+  oberamt_name: würtembergisches Oberamt Leutkirch
+  zusammenschluss_jahr: 1972
+  zusammenschluss_mit: Diepoldshofen, Friesenhofen, Gebrazhofen, Herlazhofen, Hofs, Reichenhofen, Winterstetten, Wuchzenhofen
+  status_seit: 1974
+  status: Große Kreisstadt
+  fläche: 175
+  fläche_einheit: Quadratkilometer
+  superlativ: eine der größten Gemeinden Baden-Württembergs (nach Fläche)
+  kreis_seit_1972: Kreis Ravenssburg
+  wappen_enthaelt: Leutekirche (Kirche St. Martin) und Doppeladler
+GUELTIG_AB: 766
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin (Leutekirche)
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Hauptkirche des Nibelgaus
+  funktion_seit_umgestaltung: Pfarrkirche für katholische Landorte der Landvogtei
+  wappen_bezug: ziert Stadtwappen bis heute
+  ursprung: Namengebend für die Stadt
+  vertrag_mit_patronatsherr: Abt von Weingarten
+  vertrag_jahr: 1562
+  garantie: Rechte der katholischen Minderheit
+GUELTIG_AB: (mittelalter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche zur Heiligen Dreifaltigkeit
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1613-1615
+  bautyp: Predigtsaalkirche ohne Chor
+  eigenschaft: erster protestantischer Kirchenneubau im württembergischen Allgäu
+  funktion_initial: Gottesdienstraum für evangelische Bürger
+  vorgänger_gottesdiensträume: Spitalkirche
+GUELTIG_AB: 1613
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Rathaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1740-1741
+  baustil: Barock
+  beschreibung: repräsentativ und standesgemäß für eine ehemalige Reichsstadt
+  superlativ: zu den schönsten barocken Profanbauten in Oberschwaben gehörend
+  fassade_farbe: rot bemalt
+  ausstattung: Pilaster, Gesimse, Stuckwerk an Fenstern
+  erdgeschoss: offene Halle
+  raumelemente: Schwörsaal, Ratssaal, Beletage
+  decorator_stuckdecke: Johannes Schütz
+  schütz_lehrer: Domikus Zimmermann
+  schwörsaal_symbol: zum Schwur erhobene Hand (Erinnerung an Schwörtag, Staatsfeiertag der Republik)
+  ratssaal_charakteristika: figürlicher Deckenstuck mit allegorischen Figuren, Erinnerung an Tugend
+  stuckdecorationen_thema: Friede und Gerechtigkeit
+GUELTIG_AB: 1740
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Spitalkirche
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Gottesdienstraum für evangelische Bürger (vor Erbauung der Heiligen Dreifaltigkeit)
+  verwendungszeitraum_bis: bis 1613
+GUELTIG_BIS: 1613
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: architekt_kunstschaffer
+BEZEICHNUNG: Johannes Schütz
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Rathaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fachbereich: Stuckateur
+  werkstaette: Rathaussaal Leutkirch (Stuckdecke)
+  ausbildung: Schüler von Domikus Zimmermann
+  bedeutendes_werk: figürlicher Deckenstuck mit allegorischen Figuren im Ratssaal
+GUELTIG_AB: 1740
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Gänselieselbrunnen
+ORTSTEIL_BEZUG: Gänsbühl (Altstadt)
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Brunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  installiert: 1967
+  kuenstler: Fritz Nuss
+  funktion_historisch: Versorgung Mensch und Vieh, Pranger, Verkündungsort
+  lage: Am Rathaus und Gänsbühl (platzartig ansteigend)
+  gänsbühl_bedeutung: seit uralter Zeit Bühne und Forum für Märkte und Feste
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Kinderfestbrunnen
+ORTSTEIL_BEZUG: Evangelische Kirchgasse
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Brunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwurf_und_erstellung: 2004
+  kuenstler: Bonifatius Stirnberg
+  charakteristik: liebevoll und treffende Figuren
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Wasserschöpfer
+ORTSTEIL_BEZUG: Viehmarktplatz (Untere Grabenstraße)
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Brunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Viehmarktplatz
+GUELTIG_AB: (nicht genannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kornhaus
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Kornhaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baugeschichte_rueckverfolgbar_bis: 16. Jahrhundert
+  bauholz_schlaegerung: Winter 1508/1509
+  regelung_seit_ältestem_stadtrecht: um 1380 (Kornhandel über Kornhaus, bei Strafe verpflichtend)
+  älteste_kornhausordnung_jahr: 1533
+  funktion_historisch: Versorgung der Bürger, Getreidehandel
+  funktion_bis_20_jhdt: wichtiger Umschlagplatz für Getreidehandel
+  ablösung_durch: Lagerhäuser und Großmühlen
+  ab_1960er: Nutzung durch städtisches Bauamt
+  oeffentliche_buecherei_gruendung: 1976
+  umgebau_und_renovierung: 1986-1988
+  heutige_nutzung: Öffentliche Bücherei (Stadtbibliothek)
+  buecherei_stockwerke: drei (Erdgeschoß bis 2. Obergeschoß)
+  dachgeschoss: Galerie mit wechselnden Kunstausstellungen
+GUELTIG_AB: 16. Jahrhundert (Baugeschichte)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gotisches Haus
+ORTSTEIL_BEZUG: Marktstraße
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Gotisches-Haus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1377-1379
+  baustil: Gotik
+  denkmalschutz: herausragendes Denkmalschutzprojekt
+  rang_denkmalobjekt: eines der fünf wichtigsten im Bezirk Südwürttemberg
+  nutzung_ab_mitte_16jhdt: neue Färbe (Färberei)
+  nutzung_später: Ladengeschäft
+  besitzer_1890_bis_erwerb: Familie Kästle
+  erwerb_durch_stadt: durch Stadt Leutkirch
+  heutige_nutzung: Volkshochschule, Touristinfo
+  heutige_nutzung_obergeschosse: Sonderausstellungen
+GUELTIG_AB: 1377
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bockturm
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristik: imposant, mittelalterlich
+GUELTIG_AB: (Mittelalter, nicht präzise)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bockgebäude
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heutige_nutzung: Heimatmuseum im Bockgebäude
+GUELTIG_AB: (nicht präzise)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Leutkirch
+ORTSTEIL_BEZUG: Bockgebäude
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Bockgebäude
+  charakteristik: voll lebendiger Vergangenheit
+GUELTIG_AB: (nicht präzise)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Elektrotechnisches Museum
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Museum zu Elektrotechnik
+GUELTIG_AB: (nicht genannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Glasmacherdorf Schmidsfeld
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristik: historisch
+GUELTIG_AB: (nicht genannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: musikensemble
+BEZEICHNUNG: Stadtkapelle Leutkirch
+QUELLE: https://www.leutkirch.de/chronik-stadtkapelle | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_zeitraum: über 200 Jahre vor 2026
+  geschichte_dokumentation: breit dokumentiert und laufend aktualisiert
+  bedeutung: eines der ältesten Orchester in der Region
+GUELTIG_AB: (ca. 1826, berechnet aus "über 200 Jahre")
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Städtisches Archiv Leutkirch
+QUELLE: https://www.leutkirch.de/de/Leben/Kultur-Bildung/Stadtarchiv/Archivgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort_bis_1617: Rathaus
+  standort_1617_bis_1740: Kanzleigebäude
+  standort_1740_bis_1803: neues Rathaus
+  standort_1803_bis_1845: Neuer Bau
+  standort_1845_bis_2002: Rathaus
+  standort_2002_bis_2026: Marktstraße 8 (Leutkircher Altstadt)
+  standort_seit_2026: Wangener Straße 58 (Pavatex-Gebäude)
+  ordner_1830: Johann Georg Eben
+  ordnungsarbeit_jahr_1830: mit dreibändigem Repertorium
+  neuordnung_jahr: 1971
+  urkunden_ordnung_1971: eigener Urkundenbestand gebildet
+  betreuung_1993_bis_2024: gemeinsam mit Stadtarchiv Isny, hauptamtlich mit Diplom-Archivarin (FH)
+  archivarin_seit_2025: Nicola Siegloch
+  zustaendigkeit_seit_2025: nur noch Leutkirch (nicht mehr Isny)
+  status_2026: aktuell umgezogen
+GUELTIG_AB: (Mittelalter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Ludwig Baumann
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Leutkircher-Koepfe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1846
+  todesjahr: 1915
+  epitheton: "Geschichtsschreiber des Allgäus"
+  haeltnisse_zu_stadt: Leutkircher Persönlichkeit
+GUELTIG_AB: 1846
+GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Erich Blaich
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Leutkircher-Koepfe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1873
+  todesjahr: 1945
+  pseudonym: Dr. Owlglass
+  eigenschaft: Simplicissimus Dichter
+  haeltnisse_zu_stadt: Leutkircher Persönlichkeit
+GUELTIG_AB: 1873
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Joseph Furtenbach
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Leutkircher-Koepfe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1591
+  todesjahr: 1667
+  beruefe: Festungsbaumeister, Ingenieur, Architekturschriftsteller
+  haeltnisse_zu_stadt: Leutkircher Persönlichkeit
+GUELTIG_AB: 1591
+GUELTIG_BIS: 1667
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Carl Wilhelm Gangloff
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Leutkircher-Koepfe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1790
+  todesjahr: 1814
+  beruf: Künstler
+  haeltnisse_zu_stadt: Leutkircher Persönlichkeit
+GUELTIG_AB: 1790
+GUELTIG_BIS: 1814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ursula Haider
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Leutkircher-Koepfe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1413
+  todesjahr: 1498
+  funktion: Äbtissin
+  haeltnisse_zu_stadt: Leutkircher Persönlichkeit
+GUELTIG_AB: 1413
+GUELTIG_BIS: 1498
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Fritz Möhrlin
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Leutkircher-Koepfe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1837
+  todesjahr: 1892
+  beruefe: Schriftsteller, Ökonom, Genossenschaftler
+  haeltnisse_zu_stadt: Leutkircher Persönlichkeit
+GUELTIG_AB: 1837
+GUELTIG_BIS: 1892
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anna Katharina Sulzer-Neuffer
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Leutkircher-Koepfe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1778
+  todesjahr: 1858
+  bedeutung: Mutter der Gründer der Firma Sulzer in Winterthur
+  haeltnisse_zu_stadt: Leutkircher Persönlichkeit
+GUELTIG_AB: 1778
+GUELTIG_BIS: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anna Barbara Walch-Künkelin
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Leutkircher-Koepfe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1651
+  todesjahr: 1741
+  epitheton: "Die Bürgermeisterin von Schorndorf"
+  haeltnisse_zu_stadt: Leutkircher Persönlichkeit
+GUELTIG_AB: 1651
+GUELTIG_BIS: 1741
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Georg Eben
+QUELLE: https://www.leutkirch.de/de/Leben/Kultur-Bildung/Stadtarchiv/Archivgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit: Archiv-Ordnungs-Commissär
+  werk: Neuordnung des Stadtarchivs mit dreibändigem Repertorium
+  tätigkeitsjahr: 1830
+GUELTIG_AB: 1830
+GUELTIG_BIS: 1830
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Domikus Zimmermann
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Rathaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ruf: berühmter Wieskirchen-Baumeister
+  schueler: Johannes Schütz
+  haeltnisse_zu_stadt: Lehrer von Leutkircher Künstler
+GUELTIG_AB: (nicht präzise)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Nicola Siegloch
+QUELLE: https://www.leutkirch.de/de/Leben/Kultur-Bildung/Stadtarchiv/Archivgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Stadtarchivarin
+  zustaendigkeit: Stadtarchiv Leutkirch
+  zustaendigkeit_seit: Januar 2025
+  vorherige_zustaendigkeit: gemeinsam mit Stadtarchiv Isny (April 1993 - Dezember 2024)
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Fritz Nuss
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Brunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Künstler, Bildhauer
+  werk: Gänselieselbrunnen Brunnenplastik
+  werkjahr: 1967
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bonifatius Stirnberg
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Brunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Künstler, Bildhauer
+  werk: Kinderfestbrunnen mit Figuren
+  werkjahr: 2004
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegerdenkmal
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Vortraege-Publikationen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihungsdatum: 2. Juli 1922
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Gedenkstätte bei Diepoldshofen
+ORTSTEIL_BEZUG: Diepoldshofen
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug: NS-Dokumentation und Mahnmal
+  einordnung: Großer Erinnerungsweg Oberschwaben (durch Gedenkstättenkuratorium)
+GUELTIG_AB: (nicht genannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Gedenktafel für Josef Luz und Michael Maischberger
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug: NS-Opfer
+  einordnung: Großer Erinnerungsweg Oberschwaben (durch Gedenkstättenkuratorium)
+GUELTIG_AB: (nicht genannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Stolpersteine Familie Gollowitsch
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug: NS-Opfer
+  einordnung: Großer Erinnerungsweg Oberschwaben (durch Gedenkstättenkuratorium)
+GUELTIG_AB: (nicht genannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Stolpersteine Geschwister Haßler
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug: NS-Opfer
+  einordnung: Großer Erinnerungsweg Oberschwaben (durch Gedenkstättenkuratorium)
+GUELTIG_AB: (nicht genannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Gedenkstele für Major Günther Zöller
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug: Militär
+  einordnung: Großer Erinnerungsweg Oberschwaben (durch Gedenkstättenkuratorium)
+GUELTIG_AB: (nicht genannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gewerbe
+BESCHREIBUNG: Leinwandweberei und Leinwandhandel
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Hauptgewerbe
+  weberzahl_um_1500: über 200
+  exportrouten: bis nach Italien und Spanien
+  beguenstigung: gute Verkehrsanbindungen
+  bedeutung_nach_dreissigjähriger_krieg: spielte noch eine Rolle
+  baummwollweberei_gruendung: 1760
+GUELTIG_AB: (Mittelalter, präzise Zeiten nicht genannt)
+GUELTIG_BIS: (Dreißigjähriger Krieg und später, 20. Jahrhundert Niedergang durch Lagerhäuser)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: zünfte
+BESCHREIBUNG: Zunftsystem in Leutkirch
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  influence_seit: 14. Jahrhundert
+  influence_grund: wenige vornehme Familien, kein Patriziat
+  hauptzünfte: Weber, Bäcker, Metzger, Bauern
+  weitere_handwerker: mussten sich den Hauptzünften anschließen
+  beteiligung_landfrieden_staedtebunde: 14. und 15. Jahrhunderte
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Schwäbischer Bund
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mitgliedschaft_leutkirch: 1488
+GUELTIG_AB: 1488
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Reichstag und Schwäbischer Kreis
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beteiligung: Leutkirch erlangte Sitz und Stimme
+  zeitraum: nach 1488
+GUELTIG_AB: 1488
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Salzstraße nach Schweiz
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_leutkirch: Station der Salzstraße
+  gueltig_unter: bayerischer Zeit (1803-1810)
+  verlegung: 1810 nach Kempten-Lindau (ins bayerisch gebliebene Allgäu)
+  folgen_für_stadt: schmerzhaft für Durchgangsverkehr
+GUELTIG_AB: 1803
+GUELTIG_BIS: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: stadttore
+BESCHREIBUNG: beide Stadttore
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abriss: 1812
+  grund: Förderung des noch übrigen Durchgangsverkehrs
+GUELTIG_BIS: 1812
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahnstrecke Kißlegg – Leutkirch
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1872
+  anschluss_zu: Aulendorf
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnlinie Leutkirch – Isny
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1874
+GUELTIG_AB: 1874
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnstrecke Leutkirch – Memmingen
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1889
+GUELTIG_AB: 1889
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Oberamt Leutkirch (württembergisch)
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zentrum_seit: 1810
+  bezirk_umfang_geographisch: von Kirchdorf bis Waltershofen, von Wurzach bis Winterstetten
+  folgen_fuer_stadt: Aufchwung als Verwaltungs- und Wirtschaftszentrum
+GUELTIG_AB: 1810
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: verwaltungsentscheidung
+BESCHREIBUNG: Wangen als Kreisstadt des Allgäukreises 1938
+QUELLE: https://www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entscheidung: Wangen statt Leutkirch
+  grund: Leutkirch war zentral gelegen und wurde übergangen
+  reaktion_zeittlaenge: in den 1930ern keine öffentlichen Reaktionen, heftige Diskussionen erst in den 1950ern
+  grund_enttaeuschung: zentrale Lage Leutkirchs
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Spital Leutkirch
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Vortraege-Publikationen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1418
+  periode: 600 Jahre (1418-2018)
+GUELTIG_AB: 1418
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Kino Bachstraße
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Vortraege-Publikationen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil_bezug: Bachstraße
+  beschreibung: 100 Jahre Kino erwähnt
+GUELTIG_AB: (100 Jahre vor Publikationsdatum, ca. 1900er)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Öffentliche Bücherei Leutkirch
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Kornhaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1976
+  standort_initial: Kornhaus
+  standort_seit_1986: Kornhaus (nach Umbau)
+  medienangebot_verteilung: drei Stockwerke (Erdgeschoß bis 2. Obergeschoß)
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Stadtbibliothek (Leutkirch)
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Kornhaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnet_auch_als: Öffentliche Bücherei Leutkirch
+  standort: Kornhaus
+  medienangebot_verteilung: drei Stockwerke
+  galerie_nutzung_obergeschoss: wechselnde Kunstausstellungen im Dachgeschoß
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Gedenkstättenkuratorium NS-Dokumentation Oberschwaben
+QUELLE: https://www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Denkorte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgabe: NS-Mahnmale dokumentieren und ordnen
+  dokumentation_regional: Großer Erinnerungsweg Oberschwaben
+  leutkirch_eintrag: Gedenktafel am Kornhaus
+GUELTIG_AB: (nicht genannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Volkshochschule Leutkirch
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Gotisches-Haus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Gotisches Haus (Marktstraße)
+GUELTIG_AB: (Übernahme durch Stadt, nicht präzise)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Touristinfo Leutkirch
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Gotisches-Haus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Gotisches Haus (Marktstraße)
+  zusatzservice: Sonderausstellungen in Obergeschossen
+GUELTIG_AB: (nicht präzise)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: altstadt
+BESCHREIBUNG: Historische Altstadt Leutkirch
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  renovierungsstatus: behutsam renoviert
+  architektur_charakteristika: Fachwerkhäuser, verwinkte Gassen, malerische Plätze
+  beschreibung: erkundbar zu Fuß
+GUELTIG_AB: (mittelalter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: projekt
+BESCHREIBUNG: Beschilderung historischer Gebäude
+QUELLE: https://www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Beschilderung-historischer-Gebaeude | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_durchfuehrung: 2025
+  partnerschaft: Stadt Leutkirch und Heimatpflege
+  anzahl_tafeln: circa 50
+  inhalt: Informationen zu bedeutenden historischen Gebäuden in und um die Altstadt
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92

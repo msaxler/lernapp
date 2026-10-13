@@ -1,0 +1,883 @@
+ID: 331-gilching/001
+ENTITÄT: ort
+BEZEICHNUNG: Gilching
+QUELLE: https://www.gilching.de/kultur-freizeit/gilching-wappen-geschichte-und-wissenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  regierungsbezirk: Oberbayern
+  einwohner: 19679 [Stand Juli 2024]
+  fläche: 31.5 [km²]
+  geografische_breite: 48°7'
+  geografische_laenge: 11°18'
+  erste_urkundliche_erwaehnung: 804
+  lage_charakteristik: Moränenlandschaft des Voralpengebietes am Rande des Fünfseenlandes
+  ortsteile: 11
+  partnerstadt: Cecina (Italien)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 331-gilching/002
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 19039 [Stand 30. Juni 2024]
+  entfernung_muenchen: ca. 20 [km]
+  landkreis: Starnberg
+  bundesland: Bayern
+  region: Oberbayern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 331-gilching/003
+ENTITÄT: glocke
+BEZEICHNUNG: Arnoldusglocke
+QUELLE: https://www.gilching.de/kultur-freizeit/gilching-wappen-geschichte-und-wissenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: St. Vitus Kirche
+  rang: eine der ältesten Glocken Bayerns
+  giesser: Priester Arnoldus
+  entstehungszeit: zweite Hälfte 12. Jahrhundert
+  befindet_sich_im_wappen: true
+GUELTIG_AB: 1170
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 331-gilching/004
+ENTITÄT: glocke
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  bezeichnung: Arnoldusglocke
+  ort: Pfarrkirche St. Vitus
+  rang: zu den ältesten Glocken Deutschlands
+  giesser: Pfarrer Arnoldus von Gilching
+  entstehungszeit: um 1170
+GUELTIG_AB: 1170
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 331-gilching/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Vitus
+QUELLE: https://www.gilching.de/kultur-freizeit/gilching-wappen-geschichte-und-wissenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  eigenschaft: historische Dorfkirche
+  bemerkenswert: beherbergt Arnoldusglocke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Vitus
+ORTSTEIL_BEZUG: Hauptort
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  bauzeit: 1709
+  umbau: 1838
+  kriegsschaeden: Bombentreffer im Zweiten Weltkrieg
+  besonderheit: beherbergt Arnoldusglocke
+GUELTIG_AB: 1709
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 331-gilching/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Sebastian
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Hochstift-Freising-Platz 19
+  einweihung: 1963
+  kirchenpatron_herkunft: 250 Jahre bestehende Sebastiansgemeinschaft
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes
+QUELLE: https://www.gilching.de/gesellschaft-soziales/kirchen-und-religioese-einrichtungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  adresse: Karolingerstraße
+  telefon: 08105 8244
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/009
+ENTITÄT: kapelle
+BEZEICHNUNG: Mariä Heimsuchung
+ORTSTEIL_BEZUG: Geisenbrunn
+QUELLE: https://www.gilching.de/gesellschaft-soziales/kirchen-und-religioese-einrichtungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Kapellenweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/010
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Ägidius
+ORTSTEIL_BEZUG: Sankt Gilgen
+QUELLE: https://www.gilching.de/gesellschaft-soziales/kirchen-und-religioese-einrichtungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: St. Gilgen 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/011
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Nikolaus
+ORTSTEIL_BEZUG: Argelsried
+QUELLE: https://www.gilching.de/gesellschaft-soziales/kirchen-und-religioese-einrichtungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Kirchenweg 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/012
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche
+QUELLE: https://www.gilching.de/gesellschaft-soziales/kirchen-und-religioese-einrichtungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+  adresse: Meginhardstraße
+  telefon: 08152 966691
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/013
+ENTITÄT: wappen
+QUELLE: https://www.gilching.de/kultur-freizeit/gilching-wappen-geschichte-und-wissenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fuehrung_ab: 1952
+  anlass_einfuehrung: Wettbewerb unter Gemeinderat
+  genehmigung: Bayerisches Innenministerium
+  entwurf_von: Arnold Wothe
+  darstellung: Arnoldusglocke und Jahreszahl 804
+  bedeutung: Geschichte Gilchings
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 331-gilching/014
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Rot eine goldene Glocke
+  motiv: Arnoldusglocke aus dem 12. Jahrhundert
+  motiv_entstehung: um 1170 von Pfarrer Arnoldus gegossen
+  farben: Rot und Gold
+  farbwahl_grund: Unterscheidung vom ähnlichen Wappen Mindelheims
+  entstehung: Preisausschreibung Herbst 1951
+  fuehrung_seit: 1952
+  dienstsiegel_zusatz: Jahreszahl 804
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 331-gilching/015
+ENTITÄT: museum
+BEZEICHNUNG: SchichtWerk - Zeitreisen im Wersonhaus
+QUELLE: https://www.gilching.de/kultur-freizeit/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Brucker Straße 11, 82205 Gilching
+  leitung: Annette Reindel
+  telefon: 08105 / 772 49 53
+  email: info@schichtwerk-gilching.de
+  thema: Gilchinger Geschichte
+  gebaeude: historische Villa des Künstlers Jules Werson
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/016
+ENTITÄT: museum
+QUELLE: https://www.gilching.de/kultur-freizeit/gilching-wappen-geschichte-und-wissenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung: SchichtWerk - Zeitreisen im Wersonhaus
+  ort: historische Villa
+  beschreibung: geschichtliche Entdeckungstour durch Gilchinger Geschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/017
+ENTITÄT: gebaeude
+BEZEICHNUNG: Wersonhaus
+QUELLE: https://www.gilching.de/kultur-freizeit/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauart: historische Villa
+  urspruenglicher_eigentuemer: Künstler Jules Werson
+  heutiges_nutzung: Museum SchichtWerk
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/018
+ENTITÄT: person
+BEZEICHNUNG: Ursula Lochner
+QUELLE: https://www.gilching.de/kultur-freizeit/gilching-wappen-geschichte-und-wissenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Gemeindearchivarin
+  arbeitsstelle: Rathaus Rathausplatz 1 O1.06
+  telefon: 08105 3866-45
+  fax: 08105 3866-5745
+  email: lochner@gemeinde.gilching.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/019
+ENTITÄT: person
+BEZEICHNUNG: Joseph Ratzinger
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1927-2022
+  rolle: ehemaliger Papst
+  taetigkeit_in_gilching: Arbeit in Ortstelefonzentrale als Telefonatsvermittler und Flakhelfer
+  jahr_taetigkeit: 1944
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1944
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/020
+ENTITÄT: person
+BEZEICHNUNG: James Krüss
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1926-1997
+  profession: Dichter und Schriftsteller
+  wohnzeit_gilching: 1960-1966
+  werke_in_gilching: 16 Kinderbücher
+  grundschule_benannt_nach: James-Krüss-Grundschule
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1960
+GUELTIG_BIS: 1966
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/021
+ENTITÄT: person
+BEZEICHNUNG: Georg Heigl
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1931/32-2006
+  profession: Fußballfunktionär
+  wohnort: zuletzt Gilching
+  begruendigung_ort: Argelsried
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 2006
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/022
+ENTITÄT: person
+BEZEICHNUNG: Markus Babbel
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1972
+  profession: Fußballer und Nationalspieler
+  wohnort_seit_geburt: Gilching
+  sportliche_aktivitaet: 7.-9. Lebensjahr TSV Gilching-Argelsried
+  gymnasium_benannt_nach_kollegen: Christoph-Probst-Gymnasium
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/023
+ENTITÄT: person
+BEZEICHNUNG: Mia Julia Brückner
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1986
+  profession: Sängerin und ehemalige Pornodarstellerin
+  kuenstlername: Mia Magma
+  wohnort: Gilching
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/024
+ENTITÄT: buegermeister
+BEZEICHNUNG: Johann Simon
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  partei: CSU
+  amtsantritt_grund: kommissarische Einsetzung durch amerikanische Besatzung
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/025
+ENTITÄT: buegermeister
+BEZEICHNUNG: Josef Bartl
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+GUELTIG_AB: 1948
+GUELTIG_BIS: 1956
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/026
+ENTITÄT: buegermeister
+BEZEICHNUNG: Johann Krammer
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  partei: ÜP (Überparteiliche Wählergruppe)
+  amtsdauer_jahre: 16
+  auszeichnung: Ehrenbürger seit 1989
+GUELTIG_AB: 1956
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/027
+ENTITÄT: buegermeister
+BEZEICHNUNG: Heinrich Will
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  partei: CSU
+  amtsdauer_jahre: 18
+  besonderheit: Rekordhalter für längste Amtszeit
+  auszeichnung: Ehrenbürger seit 2002
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/028
+ENTITÄT: buegermeister
+BEZEICHNUNG: Hans Ostermair
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  partei: ursprünglich Bürgerschaft, ab 1991 Freie Wähler
+  charakterisierung: bis dahin weitgehend unbekannt
+GUELTIG_AB: 1990
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/029
+ENTITÄT: buegermeister
+BEZEICHNUNG: Thomas Reich
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  partei: Freie Wähler
+  wahlgeschichte: 2002 wiedergewählt mit großer Mehrheit im ersten Wahlgang
+  grund_amtsende: 2008 nur 25 Prozent im ersten Wahlgang wegen Einsatz für Flughafenerweiterung
+GUELTIG_AB: 1996
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/030
+ENTITÄT: buegermeister
+BEZEICHNUNG: Manfred Walter
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  besonderheit: erste SPD-Bürgermeister seit 60 Jahren
+  wahlgeschichte: Stichwahl 16. März 2008 gegen Michael Hauser mit 58,6 Prozent
+GUELTIG_AB: 2008
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/031
+ENTITÄT: buegermeister
+BEZEICHNUNG: Stefan Siegl
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  partei: Parteifreie FW (Freie Wähler)
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/032
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Johann Krammer
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  auszeichnungsjahr: 1989
+  besonderheit: erster Ehrenbürger seit Einführung 1989
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/033
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Rudolf Schicht
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  auszeichnungsjahr: 1993
+  gemeinderats_amtsdauer: 40 Jahre für SPD
+  position: 18 Jahre als Dritter Bürgermeister
+  verdienste: Heimatforscher und Ortschronist
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/034
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Heinrich Will
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  auszeichnungsjahr: 2002
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/035
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Cecina
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  land: Italien
+  charakterisierung: Kleinstadt
+  partnerschaft_seit: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/036
+ENTITÄT: sonderflughafen
+BEZEICHNUNG: Oberpfaffenhofen
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 1938
+  betroffene_ortsteil: teilweise Neugilching
+  problem: Fluglärm
+  geplante_erweiterung: für qualifizierten Geschäftsreiseflugverkehr (Allgemeine Luftfahrt)
+  entscheidungsstatus: endgültige Entscheidung ausstehend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/037
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Via Julia
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Römerstraße
+  verlauf_original: Augsburg - Salzburg
+  verlauf_gilching: Teil führt durch den Ort
+  zeitpunkt: römische Antike
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/038
+ENTITÄT: denkmal
+BEZEICHNUNG: Römischer Meilenstein
+ORTSTEIL_BEZUG: Argelsried
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Kopie mit lateinischer Meilen- und Wegweisungsangabe nach Augusta Vindelicorum
+  lage: Zentrum Argelsrieds
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/039
+ENTITÄT: denkmal
+BEZEICHNUNG: Friedenspfahl
+ORTSTEIL_BEZUG: Bahnhof Gilching-Argelsried
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  stifter: Pax-Christi-Gruppe (örtlich)
+  stiftungsjahr: 2005
+  inschrift: Möge Friede auf Erden sein (in häufigsten in Gilching gesprochenen Sprachen)
+  vorbilder: Friedenspfahl von Goi Masahisa (1955)
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/040
+ENTITÄT: archaeologische_staette
+BEZEICHNUNG: Keltische Hügelgräber und Keltenschanzen
+ORTSTEIL_BEZUG: Waldabschnitt zur Gemeinde Schöngeising
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: vor 450 v.Chr.
+  kultur: keltischer Volksstamm Vindeliker
+  beschreibung: zu besichtigende Überreste
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/041
+ENTITÄT: kreuzweg
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1858
+  laenge: von Rottenrieder Str. durch Wildmoos zum Jexhof und weiter bis Grafrath-Unteralting
+  wiederherstellung: 1993
+  stationen: 14 ursprüngliche, 15. Station 1995 in Unteralting hinzugefügt
+GUELTIG_AB: 1858
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/042
+ENTITÄT: gebaeude
+BEZEICHNUNG: Allguth-Tankstelle
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  lage: Landsberger Straße
+  architekten: Lydia Haack und John Höpfner (München)
+  architektonische_bewertung: besonders gelungen
+  besonderheit: beleuchtetes schwebendes Pylondach wirkt wie Lichtskulptur besonders in der Dämmerung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 331-gilching/043
+ENTITÄT: freiwillige_feuerwehr
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1873
+  umwandlung_pflichtfeuerwehr: 1881 (Gründe unbekannt)
+  feuerwehrhaus_1897: Pfarrhofgasse
+  kriegsverluste: 8 Aktive im Zweiten Weltkrieg gefallen
+  wiederinfuehrung_pflichtfeuerwehr: nach Zweiten Weltkrieg wegen Personalmangels
+  motorisierung: 1956
+  umzug: 1968 zu Bauhof aus Platzgründen
+  geplanter_neubau: 18 Millionen Euro, Spatenstich Frühjahr 2025
+  personalstand_anfang_2024: 94 Aktive und 38 jugendliche Mitglieder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/044
+ENTITÄT: schule
+BEZEICHNUNG: Arnoldus-Grundschule
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/045
+ENTITÄT: schule
+BEZEICHNUNG: James-Krüss-Grundschule
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  benannt_nach: James Krüss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/046
+ENTITÄT: schule
+BEZEICHNUNG: Montessorischule
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/047
+ENTITÄT: schule
+BEZEICHNUNG: Mittelschule Gilching
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Mittelschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/048
+ENTITÄT: schule
+BEZEICHNUNG: Christoph-Probst-Gymnasium
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Gymnasium
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/049
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Volkshochschule
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  einrichtungstyp: Volkshochschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/050
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Musikschule
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  einrichtungstyp: Musikschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/051
+ENTITÄT: bahnhof
+BEZEICHNUNG: Gilching-Argelsried
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: Pasing-Herrsching
+  inbetriebnahme_strecke: 1903
+  sbahn_anbindung_seit: 1972
+  sbahn_linien: S 8 (Herrsching-Flughafen München), vereinzelt S 5 (Weßling-Kreuzstraße)
+  fahrtzeit_muenchen: ca. 40 Minuten
+  fahrtzeit_herrsching: ca. 20 Minuten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/052
+ENTITÄT: haltepunkt
+BEZEICHNUNG: Geisenbrunn
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: Pasing-Herrsching
+  typ: Haltepunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/053
+ENTITÄT: haltepunkt
+BEZEICHNUNG: Neugilching
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: Pasing-Herrsching
+  typ: Haltepunkt
+  eroffnung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/054
+ENTITÄT: ortsteil
+BEZEICHNUNG: Argelsried
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Mai 1978
+  gemarkung: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/055
+ENTITÄT: ortsteil
+BEZEICHNUNG: Geisenbrunn
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  kirche: Mariä Heimsuchung (kath. Filialkirche)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/056
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sankt Gilgen
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  kirche: St. Ägidius (kath. Filialkirche)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/057
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neugilching
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  bahnhaltepunkt: Neugilching (seit 1972)
+  lage: nördlich der Autobahnausfahrt
+  belastung: Fluglärm durch Sonderflughafen Oberpfaffenhofen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/058
+ENTITÄT: namensherkunft
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  ursprache: Althochdeutsch
+  aeltester_beleg: Kiltoahinga (früher 9. Jahrhundert)
+  ableitung_von: Personenname Geldiko
+  benannt_nach: vermutlich Sippenältester
+  besiedlung_kultur: germanisch-bajuwarisch
+  besiedlungszeit: 6. Jahrhundert
+  entwicklung: Kiltoahinga → Gilching
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 800
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 331-gilching/059
+ENTITÄT: geschichte
+BESCHREIBUNG: Vindeliker
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: um 450 v.Chr.
+  ereignis: Besiedlung der Region durch keltischen Volksstamm Vindeliker
+GUELTIG_AB: -450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/060
+ENTITÄT: geschichte
+BESCHREIBUNG: Erste urkundliche Erwähnung
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  datum: 4. September 804
+  dokument: Schenkungsurkunde
+  inhalt: Reginhart (Gaubevollmächtigter) übergibt Liegenschaften in Pettenbach und Glonn dem Kloster Schlehdorf
+  ort_verhandlung: königliches Dorf Kiltoahinga
+  zeitangabe: viertes Regierungsjahr Kaiser Karls
+  quelle_belegt: schriftlich nachweisbar seit 804
+GUELTIG_AB: 804
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 331-gilching/061
+ENTITÄT: geschichte
+BESCHREIBUNG: Verwaltungszugehörigkeit in Bayern
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  rentamt: München
+  landgericht: Starnberg
+  kurfürstentum: Bayern
+GUELTIG_AB: 804
+GUELTIG_BIS: 1818
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/062
+ENTITÄT: geschichte
+BESCHREIBUNG: Gemeindeedikt
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1818
+  folge: Entstehung heutige Gemeinde
+GUELTIG_AB: 1818
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/063
+ENTITÄT: geschichte
+BESCHREIBUNG: Eingemeindung Argelsried
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  anlass: Gebietsreform Bayern
+  datum: 1. Mai 1978
+  eingemeindete_gemeinde: Argelsried
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 331-gilching/064
+ENTITÄT: geschichte
+BESCHREIBUNG: Bevölkerungswachstum
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1988-2018
+  einwohner_anfang: 13421
+  einwohner_ende: 18993
+  wachstum_absolut: 5572
+  wachstum_prozentual: 41.5
+GUELTIG_AB: 1988
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 331-gilching/065
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbepark Nord
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  existenz_seit: 1970er Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/066
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbepark Süd
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  existenz_seit: 2003
+  lage: südlich der A 96
+  besonderheit: beherbergt Fachmarktzentrum mit Einkaufsmöglichkeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/067
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbepark West
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  lage: unmittelbare Nachbarschaft zu Sonderflughafen Oberpfaffenhofen und Deutschem Zentrum für Luft- und Raumfahrt (DLR)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/068
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbepark Ost
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  status: in Entwicklung
+  lage: nördlich der Autobahnausfahrt Gilching
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/069
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Air Tech Campus Oberpfaffenhofen
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: gemeindeübergreifend
+  beteiligung_gilching: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/070
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn A 96
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  strecke: München-Lindau
+  anschlussstellen: Gilching und Oberpfaffenhofen/Gilching-West
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/071
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Staatsstraße 2069
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: Starnberg-Fürstenfeldbruck
+  besonderheit: zum Teil auf historischer Trasse der Via Julia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/072
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Pasing-Herrsching
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  durchquerung_gilching: seit 1903
+  halte_gilching: 3 Stationen (Geisenbrunn, Gilching-Argelsried, Neugilching)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 331-gilching/073
+ENTITÄT: verein
+BEZEICHNUNG: Pax-Christi-Gruppe
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaeten: Stiftung Friedenspfahl (2005)
+  kontakt: Martin Pilgram
+QUELLE_2: https://www.gilching.de/gesellschaft-soziales/kirchen-und-religioese-einrichtungen/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 331-gilching/074
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Gilchinger Volksfest
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  haeufigkeit: einmal im Jahr
+  ort: Festplatz
+  hohepunkt: traditioneller Einzug der Vereine ins Festzelt am Eröffnungstag
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 331-gilching/075
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Italienische Woche
+QUELLE: https://de.wikipedia.org/wiki/Gilching | Wikipedia
+EIGENSCHAFTEN:
+  organisator: Verein zur Förderung der Partnerschaft Cecina-Gilching
+  haeufigkeit: alljährlich
+  ort: neuer Gilchinger Marktplatz
+  rahmenprogramm: kulturell
+  anlass: Partnerschaft mit Cecina
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80

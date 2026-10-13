@@ -41851,6 +41851,18 @@ window.QA_DATEN = {
 "114-olching": [
 "Olching hat dreizehnmal so viele Einwohner wie Althegnenberg.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Olching die Grünen, in Althegnenberg die AfD."
+],
+"328-greifenberg": [
+"Kreisgrenze: Greifenberg gehört zum Landkreis Landsberg am Lech, Althegnenberg zum Landkreis Fürstenfeldbruck.",
+"Greifenberg und Althegnenberg sind fast gleich groß: rund 2.100 und 2.100 Einwohner."
+],
+"329-inning": [
+"Kreisgrenze: Inning am Ammersee gehört zum Landkreis Starnberg, Althegnenberg zum Landkreis Fürstenfeldbruck.",
+"Inning am Ammersee hat fast zweieinhalbmal so viele Einwohner wie Althegnenberg."
+],
+"330-woerthsee": [
+"Kreisgrenze: Wörthsee gehört zum Landkreis Starnberg, Althegnenberg zum Landkreis Fürstenfeldbruck.",
+"Wörthsee hat zweieinhalbmal so viele Einwohner wie Althegnenberg."
 ]
 },
 "ags": "09179114",
@@ -42043,6 +42055,26 @@ window.QA_DATEN = {
 "307-groebenzell": [
 "Gröbenzell hat fast viermal so viele Einwohner wie Mammendorf.",
 "Mammendorf hat fast dreieinhalbmal so viel Fläche wie Gröbenzell, aber weniger Einwohner."
+],
+"328-greifenberg": [
+"Kreisgrenze: Greifenberg gehört zum Landkreis Landsberg am Lech, Mammendorf zum Landkreis Fürstenfeldbruck.",
+"Mammendorf hat fast zweieinhalbmal so viele Einwohner wie Greifenberg."
+],
+"329-inning": [
+"Kreisgrenze: Inning am Ammersee gehört zum Landkreis Starnberg, Mammendorf zum Landkreis Fürstenfeldbruck.",
+"Inning am Ammersee und Mammendorf sind fast gleich groß: rund 4.800 und 5.100 Einwohner."
+],
+"330-woerthsee": [
+"Kreisgrenze: Wörthsee gehört zum Landkreis Starnberg, Mammendorf zum Landkreis Fürstenfeldbruck.",
+"Wörthsee und Mammendorf sind fast gleich groß: rund 5.300 und 5.100 Einwohner."
+],
+"331-gilching": [
+"Kreisgrenze: Gilching gehört zum Landkreis Starnberg, Mammendorf zum Landkreis Fürstenfeldbruck.",
+"Gilching hat fast viermal so viele Einwohner wie Mammendorf."
+],
+"332-germering": [
+"Germering hat achtmal so viele Einwohner wie Mammendorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Germering die Grünen, in Mammendorf die AfD."
 ]
 },
 "ags": "09179136",
@@ -42295,6 +42327,22 @@ window.QA_DATEN = {
 "309-karlsfeld": [
 "Kreisgrenze: Karlsfeld gehört zum Landkreis Dachau, Maisach zum Landkreis Fürstenfeldbruck.",
 "Karlsfeld hat anderthalbmal so viele Einwohner wie Maisach."
+],
+"329-inning": [
+"Kreisgrenze: Inning am Ammersee gehört zum Landkreis Starnberg, Maisach zum Landkreis Fürstenfeldbruck.",
+"Maisach hat fast dreimal so viele Einwohner wie Inning am Ammersee."
+],
+"330-woerthsee": [
+"Kreisgrenze: Wörthsee gehört zum Landkreis Starnberg, Maisach zum Landkreis Fürstenfeldbruck.",
+"Maisach hat gut zweieinhalbmal so viele Einwohner wie Wörthsee."
+],
+"331-gilching": [
+"Kreisgrenze: Gilching gehört zum Landkreis Starnberg, Maisach zum Landkreis Fürstenfeldbruck.",
+"Gilching hat rund 5.200 Einwohner mehr als Maisach."
+],
+"332-germering": [
+"Germering hat dreimal so viele Einwohner wie Maisach.",
+"Maisach hat zweieinhalbmal so viel Fläche wie Germering, aber weniger Einwohner."
 ]
 },
 "ags": "09179134",
@@ -42550,6 +42598,10 @@ window.QA_DATEN = {
 ],
 "309-karlsfeld": [
 "Karlsfeld hat fast achtmal so viele Einwohner wie Sulzemoos."
+],
+"332-germering": [
+"Kreisgrenze: Germering gehört zum Landkreis Fürstenfeldbruck, Sulzemoos zum Landkreis Dachau.",
+"Germering hat gut vierzehnmal so viele Einwohner wie Sulzemoos."
 ]
 },
 "ags": "09174146",
@@ -42775,6 +42827,21 @@ window.QA_DATEN = {
 "309-karlsfeld": [
 "Kreisgrenze: Karlsfeld gehört zum Landkreis Dachau, Olching zum Landkreis Fürstenfeldbruck.",
 "Olching hat rund 6.000 Einwohner mehr als Karlsfeld."
+],
+"329-inning": [
+"Kreisgrenze: Inning am Ammersee gehört zum Landkreis Starnberg, Olching zum Landkreis Fürstenfeldbruck.",
+"Olching hat fast sechsmal so viele Einwohner wie Inning am Ammersee."
+],
+"330-woerthsee": [
+"Kreisgrenze: Wörthsee gehört zum Landkreis Starnberg, Olching zum Landkreis Fürstenfeldbruck.",
+"Olching hat gut fünfmal so viele Einwohner wie Wörthsee."
+],
+"331-gilching": [
+"Kreisgrenze: Gilching gehört zum Landkreis Starnberg, Olching zum Landkreis Fürstenfeldbruck.",
+"Olching hat fast anderthalbmal so viele Einwohner wie Gilching."
+],
+"332-germering": [
+"Germering hat anderthalbmal so viele Einwohner wie Olching."
 ]
 },
 "ags": "09179142",
@@ -43024,6 +43091,17 @@ window.QA_DATEN = {
 "115-muenchen": [
 "Kreisgrenze: München ist kreisfrei, Gröbenzell gehört zum Landkreis Fürstenfeldbruck.",
 "München hat rund 80-mal so viele Einwohner wie Gröbenzell."
+],
+"330-woerthsee": [
+"Kreisgrenze: Wörthsee gehört zum Landkreis Starnberg, Gröbenzell zum Landkreis Fürstenfeldbruck.",
+"Gröbenzell hat gut dreieinhalbmal so viele Einwohner wie Wörthsee."
+],
+"331-gilching": [
+"Kreisgrenze: Gilching gehört zum Landkreis Starnberg, Gröbenzell zum Landkreis Fürstenfeldbruck.",
+"Gilching und Gröbenzell sind fast gleich groß: rund 19.000 und 19.000 Einwohner."
+],
+"332-germering": [
+"Germering hat gut doppelt so viele Einwohner wie Gröbenzell."
 ]
 },
 "ags": "09179126",
@@ -43250,6 +43328,14 @@ window.QA_DATEN = {
 "Kreisgrenze: München ist kreisfrei, Dachau gehört zum Landkreis Dachau.",
 "München hat rund 30-mal so viele Einwohner wie Dachau."
 ],
+"331-gilching": [
+"Kreisgrenze: Gilching gehört zum Landkreis Starnberg, Dachau zum Landkreis Dachau.",
+"Dachau hat zweieinhalbmal so viele Einwohner wie Gilching."
+],
+"332-germering": [
+"Kreisgrenze: Germering gehört zum Landkreis Fürstenfeldbruck, Dachau zum Landkreis Dachau.",
+"Dachau hat rund 6.300 Einwohner mehr als Germering."
+],
 "127-eching": [
 "Kreisgrenze: Eching gehört zum Landkreis Freising, Dachau zum Landkreis Dachau.",
 "Dachau hat gut dreimal so viele Einwohner wie Eching."
@@ -43438,6 +43524,14 @@ window.QA_DATEN = {
 "115-muenchen": [
 "Kreisgrenze: München ist kreisfrei, Karlsfeld gehört zum Landkreis Dachau.",
 "München hat rund 70-mal so viele Einwohner wie Karlsfeld."
+],
+"331-gilching": [
+"Kreisgrenze: Gilching gehört zum Landkreis Starnberg, Karlsfeld zum Landkreis Dachau.",
+"Karlsfeld hat rund 2.300 Einwohner mehr als Gilching."
+],
+"332-germering": [
+"Kreisgrenze: Germering gehört zum Landkreis Fürstenfeldbruck, Karlsfeld zum Landkreis Dachau.",
+"Germering hat fast doppelt so viele Einwohner wie Karlsfeld."
 ],
 "127-eching": [
 "Kreisgrenze: Eching gehört zum Landkreis Freising, Karlsfeld zum Landkreis Dachau.",
@@ -43633,6 +43727,10 @@ window.QA_DATEN = {
 "309-karlsfeld": [
 "Kreisgrenze: Karlsfeld gehört zum Landkreis Dachau, München ist kreisfrei.",
 "München hat rund 70-mal so viele Einwohner wie Karlsfeld."
+],
+"332-germering": [
+"Kreisgrenze: Germering gehört zum Landkreis Fürstenfeldbruck, München ist kreisfrei.",
+"München hat rund 35-mal so viele Einwohner wie Germering."
 ],
 "127-eching": [
 "Kreisgrenze: Eching gehört zum Landkreis Freising, München ist kreisfrei.",
@@ -45952,6 +46050,20 @@ window.QA_DATEN = {
 "315-eriskirch": [
 "Friedrichshafen hat dreizehnmal so viele Einwohner wie Eriskirch."
 ],
+"316-langenargen": [
+"Friedrichshafen hat achtmal so viele Einwohner wie Langenargen."
+],
+"317-kressbronn": [
+"Friedrichshafen hat siebenmal so viele Einwohner wie Kressbronn am Bodensee."
+],
+"318-nonnenhorn": [
+"Landesgrenze: Nonnenhorn liegt in Bayern, Friedrichshafen in Baden-Württemberg.",
+"Bundestagswahl 2025: In Nonnenhorn lag die CSU vorn, in Friedrichshafen die CDU."
+],
+"319-wasserburg-bodensee": [
+"Landesgrenze: Wasserburg (Bodensee) liegt in Bayern, Friedrichshafen in Baden-Württemberg.",
+"Bundestagswahl 2025: In Wasserburg (Bodensee) lag die CSU vorn, in Friedrichshafen die CDU."
+],
 "122-lindau": [
 "Landesgrenze: Lindau liegt in Bayern, Friedrichshafen in Baden-Württemberg.",
 "Bundestagswahl 2025: In Lindau lag die CSU vorn, in Friedrichshafen die CDU."
@@ -46137,14 +46249,894 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Eriskirch wählten 85,9, in Friedrichshafen 80,6 Prozent.",
 "Die Herrschaft Baumgarten bei Eriskirch ging einst an Buchhorn, das heutige Friedrichshafen."
 ],
+"316-langenargen": [
+"Langenargen hat gut anderthalbmal so viele Einwohner wie Eriskirch."
+],
+"317-kressbronn": [
+"Kressbronn am Bodensee hat fast doppelt so viele Einwohner wie Eriskirch."
+],
+"318-nonnenhorn": [
+"Landesgrenze: Nonnenhorn liegt in Bayern, Eriskirch in Baden-Württemberg.",
+"Bundestagswahl 2025: In Nonnenhorn lag die CSU vorn, in Eriskirch die CDU."
+],
+"319-wasserburg-bodensee": [
+"Landesgrenze: Wasserburg (Bodensee) liegt in Bayern, Eriskirch in Baden-Württemberg.",
+"Bundestagswahl 2025: In Wasserburg (Bodensee) lag die CSU vorn, in Eriskirch die CDU."
+],
 "122-lindau": [
 "Landesgrenze: Lindau liegt in Bayern, Eriskirch in Baden-Württemberg.",
 "Bundestagswahl 2025: In Lindau lag die CSU vorn, in Eriskirch die CDU."
+],
+"320-sigmarszell": [
+"Landesgrenze: Sigmarszell liegt in Bayern, Eriskirch in Baden-Württemberg.",
+"Bundestagswahl 2025: In Sigmarszell lag die CSU vorn, in Eriskirch die CDU."
 ]
 },
 "ags": "08435013",
 "ortsteil": false,
 "km_vom_vorigen": 4.7
+},
+{
+"slug": "316-langenargen",
+"name": "Langenargen",
+"lat": 47.6,
+"lon": 9.54167,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenargen",
+"steckbrief": "Rund 7.700 Einwohner, 95 km südlich von Ulm am Bodensee.",
+"frage": "Annette von Droste-Hülshoff schwärmte von der Ruine Montfort in Langenargen. Was wurde später aus dieser Ruine?",
+"optionen": [
+"Sie blieb bis heute als Ruine stehen.",
+"Sie wurde als Ritterburg originalgetreu wiederaufgebaut.",
+"Sie wich dem Neubau eines Schlosses.",
+"Sie versank bei einem Hochwasser im See."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Ruine, die eine berühmte Dichterin bewunderte, würde man heute wohl schützen – deshalb liegt Erhalten nahe. Doch die Ruine wurde abgerissen, um Platz für ein neues Schloss zu schaffen. Das heutige Schloss Montfort entstand im maurischen Stil und ist das Wahrzeichen des Orts. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.langenargen.de/freizeit-kultur/freizeitangebote/schloss-montfort",
+"faktencheck": "bestätigt",
+"id": "316-langenargen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Langenargen",
+"steckbrief": "Rund 7.700 Einwohner, 95 km südlich von Ulm am Bodensee.",
+"frage": "Wie hoch über dem Meeresspiegel liegt Langenargen?",
+"optionen": [
+"unter 250 m",
+"250 bis unter 330 m",
+"330 bis unter 390 m",
+"390 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer am Seeufer steht, denkt an eine Höhe nahe null, wie an Nord- oder Ostsee. Doch der Bodensee liegt im Alpenvorland und selbst schon hoch über dem Meer. Die Quellen nennen für Langenargen 399 bis 402 Meter. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox; GeoNames 2881263",
+"faktencheck": "bestätigt",
+"id": "316-langenargen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Langenargen",
+"steckbrief": "Gemeinde mit rund 7.700 Einwohnern, 95 km südlich von Ulm am Bodensee.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die evangelische Kirche ist älter als St. Martin.",
+"Oberdorf wird früher in Urkunden erwähnt als Langenargen.",
+"Ein Kaiser verlieh Langenargen einst das Stadtrecht."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Verdächtig wirkt das Stadtrecht, denn Langenargen ist heute eine Gemeinde. Doch Kaiser Friedrich III. verlieh es tatsächlich. Auch Oberdorf erscheint in einer Urkunde früher als Langenargen. Gelogen ist das Kirchenalter: Die evangelische Friedenskirche ist viel jünger als die barocke Pfarrkirche St. Martin. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.langenargen.de/unsere-gemeinde/geschichte/ortsgeschichte; www.langenargen.de/leben-in-langenargen/glaube/kirchen-kapellen",
+"faktencheck": "korrigiert",
+"id": "316-langenargen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Langenargen",
+"steckbrief": "Rund 7.700 Einwohner, 95 km südlich von Ulm am Bodensee.",
+"frage": "Welche Partei wurde in Langenargen bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"AfD",
+"SPD",
+"CDU"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Grünen liegen nahe, denn in Baden-Württemberg sind sie eine große Kraft. Doch hinter der CDU kam in Langenargen die AfD auf Platz zwei, mit 16 Prozent knapp vor den Grünen mit 14,1 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "316-langenargen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenargen",
+"steckbrief": "Rund 7.700 Einwohner, 95 km südlich von Ulm am Bodensee.",
+"frage": "Ein Seitenaltar in St. Martin zeigt Langenargen mit zweitürmiger Kirchenfassade. Heute hat die Kirche nur einen Turm. Was steckt dahinter?",
+"optionen": [
+"Ein Turm stürzte bei einem Sturm ein.",
+"Der zweite Turm wurde im Krieg zerstört.",
+"Der zweite Turm war geplant, wurde nie gebaut.",
+"Ein Turm wurde wegen Baufälligkeit abgetragen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bild mit zwei Türmen wirkt wie ein Beweis, dass einer verloren ging, etwa durch Krieg oder Sturm. Doch der Maler zeigte die geplante Doppelturmfassade. Gebaut wurde nur der Nordturm; der zweite Turm blieb ein Plan. Die Kirche gilt trotzdem als Perle der Oberschwäbischen Barockstraße. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.langenargen.de/leben-in-langenargen/glaube/kirchen-kapellen",
+"faktencheck": "bestätigt",
+"id": "316-langenargen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Langenargen",
+"steckbrief": "Rund 7.700 Einwohner, 95 km südlich von Ulm am Bodensee.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Langenargen?",
+"optionen": [
+"RV",
+"LI",
+"KN",
+"FN"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Bodensee grenzen mehrere Landkreise aneinander, deshalb liegen Nachbarkennzeichen nahe. Langenargen gehört zum Bodenseekreis, und dessen Hauptkennzeichen ist FN. Kreise geben daneben oft auch frühere Kennzeichen aus. Richtig war 4.",
+"quelle": "Wikidata P395; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "316-langenargen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenargen",
+"steckbrief": "Rund 7.700 Einwohner, 95 km südlich von Ulm am Bodensee.",
+"frage": "Der Ehrenbürger Eugen Kauffmann gründete das Institut für Seenforschung. Was für ein Unternehmen führte er?",
+"optionen": [
+"Er führte eine Bettfedernfabrik.",
+"Er führte eine Bootswerft am Bodensee.",
+"Er führte eine Fischräucherei.",
+"Er führte eine Brauerei."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer den See erforschen lässt, hat wohl beruflich mit Wasser zu tun – so denken viele an Werft oder Fischerei. Doch Kauffmann machte eine Bettfedernfabrik aus kleinen Anfängen zu einem geachteten Werk. Sein Herz gehörte dem Natur- und Landschaftsschutz; die Erforschung des Bodensees unterstützte er jahrzehntelang. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.langenargen.de/unsere-gemeinde/geschichte/ehrenbuerger",
+"faktencheck": "unsicher",
+"id": "316-langenargen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenargen",
+"steckbrief": "Rund 7.700 Einwohner, 95 km südlich von Ulm am Bodensee.",
+"frage": "Langenargen ist nach dem Fluss Argen benannt. Was bedeutet der Name Argen nach wissenschaftlicher Deutung?",
+"optionen": [
+"Er meint reißendes, arges Wasser.",
+"Er meint hell, glänzend und schnell.",
+"Er meint trübes, lehmiges Wasser.",
+"Er meint Grenzfluss zwischen zwei Stämmen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Wort „arg“ klingt nach Gefahr, und so deutet der Volksmund die Argen als reißendes, arges Wasser. Die Wissenschaft führt den Namen dagegen auf ein indogermanisches Wort für hell, glänzend, blitzschnell zurück. Langenargen liegt zwischen den Mündungen von Argen und Schussen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.langenargen.de/unsere-gemeinde/geschichte/ortsgeschichte",
+"faktencheck": "bestätigt",
+"id": "316-langenargen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenargen",
+"steckbrief": "Rund 7.700 Einwohner, 95 km südlich von Ulm am Bodensee.",
+"frage": "Die spätgotische St.-Anna-Kapelle steht an der Friedhofstraße. Was war sie ursprünglich?",
+"optionen": [
+"Sie wurde als Kapelle eines Siechenhauses gebaut.",
+"Sie wurde als Wegkapelle für Pilger gebaut.",
+"Sie wurde als Grabkapelle einer Adelsfamilie gebaut.",
+"Sie wurde als Chor der Pfarrkirche gebaut."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Kapelle an der Friedhofstraße wirkt wie ein eigenständiger Bau, etwa für Kranke oder Pilger. Doch sie ist der Chor, also der Altarraum, der früheren Pfarrkirche St. Martin. Als die neue Barockkirche geweiht wurde, erhielt sie die heilige Anna als Patronin. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.langenargen.de/leben-in-langenargen/glaube/kirchen-kapellen",
+"faktencheck": "unsicher",
+"id": "316-langenargen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langenargen",
+"steckbrief": "Rund 7.700 Einwohner, 95 km südlich von Ulm am Bodensee.",
+"frage": "Der Dirigent und Komponist Peter Josef von Lindpaintner wurde Ehrenbürger von Langenargen. Was verband ihn mit dem Ort?",
+"optionen": [
+"Er wurde in Langenargen geboren.",
+"Er verbrachte viele Sommer hier als Badegast.",
+"Er war Hofkapellmeister der Grafen von Montfort.",
+"Er starb in Langenargen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hofkapellmeister und Langenargen – da denkt man an den Hof der Grafen von Montfort. Doch deren Herrschaft war schon vorbei, als er geboren wurde. Lindpaintner kam viele Jahre im Sommer als Badegast. Berlioz, Mendelssohn Bartholdy und Schumann bewunderten ihn. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.langenargen.de/unsere-gemeinde/geschichte/ehrenbuerger",
+"faktencheck": "bestätigt",
+"id": "316-langenargen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "315-eriskirch",
+"anschluss": [
+"Einwohner: Langenargen hat knapp 3.000 mehr als Eriskirch.",
+"Fläche: Langenargen und Eriskirch sind fast gleich groß."
+],
+"anschluesse": {
+"121-friedrichshafen": [
+"Friedrichshafen hat achtmal so viele Einwohner wie Langenargen."
+],
+"315-eriskirch": [
+"Einwohner: Langenargen hat knapp 3.000 mehr als Eriskirch.",
+"Fläche: Langenargen und Eriskirch sind fast gleich groß."
+],
+"317-kressbronn": [
+"Kressbronn am Bodensee hat rund 1.100 Einwohner mehr als Langenargen."
+],
+"318-nonnenhorn": [
+"Landesgrenze: Nonnenhorn liegt in Bayern, Langenargen in Baden-Württemberg.",
+"Bundestagswahl 2025: In Nonnenhorn lag die CSU vorn, in Langenargen die CDU."
+],
+"319-wasserburg-bodensee": [
+"Landesgrenze: Wasserburg (Bodensee) liegt in Bayern, Langenargen in Baden-Württemberg.",
+"Bundestagswahl 2025: In Wasserburg (Bodensee) lag die CSU vorn, in Langenargen die CDU."
+],
+"122-lindau": [
+"Landesgrenze: Lindau liegt in Bayern, Langenargen in Baden-Württemberg.",
+"Bundestagswahl 2025: In Lindau lag die CSU vorn, in Langenargen die CDU."
+],
+"320-sigmarszell": [
+"Landesgrenze: Sigmarszell liegt in Bayern, Langenargen in Baden-Württemberg.",
+"Bundestagswahl 2025: In Sigmarszell lag die CSU vorn, in Langenargen die CDU."
+]
+},
+"ags": "08435030",
+"ortsteil": false,
+"km_vom_vorigen": 3.4
+},
+{
+"slug": "317-kressbronn",
+"name": "Kressbronn am Bodensee",
+"lat": 47.59583,
+"lon": 9.6,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kressbronn am Bodensee",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 94 km südlich von Ulm.",
+"frage": "Als Gemeinde gibt es Kressbronn erst seit 1934. Wie ist sie damals entstanden?",
+"optionen": [
+"Sie wurde von einer Nachbarstadt abgetrennt.",
+"Mehrere Orte und Weiler wurden zusammengelegt.",
+"Sie wurde als Siedlung für Umsiedler gegründet.",
+"Ein Fischerdorf wurde zur Stadt erhoben."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine so junge Gemeinde lässt an eine Neugründung auf grüner Wiese denken. Tatsächlich wurden Hemigkofen, Nonnenbach und umliegende Teilorte und Weiler zu einer Gemeinde vereinigt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kressbronn.de/unsere-gemeinde/ueber-den-ort/ortsgeschichte/",
+"faktencheck": "bestätigt",
+"id": "317-kressbronn/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kressbronn am Bodensee",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 94 km südlich von Ulm.",
+"frage": "Wie viele Einwohner leben in Kressbronn auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 500",
+"500 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Uferwiesen und Ferienorte denkt, schätzt die Dichte leicht zu niedrig. Doch rund 8.800 Einwohner leben auf gut 20 Quadratkilometern, das ergibt etwa 429 je Quadratkilometer. Richtig war 3.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "317-kressbronn/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kressbronn am Bodensee",
+"steckbrief": "Gemeinde im Bodenseekreis mit rund 8.800 Einwohnern, 94 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Bauernhof gehörte einst dem Kloster St. Gallen.",
+"Die Kabelhängebrücke über die Argen entstand als Bahnbrücke.",
+"Die örtliche Bodan-Werft baute Ausflugsschiffe und Fähren."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster in der Schweiz klingt erfunden, stimmt aber: Die Geschichte der heutigen Hofanlage Milz reicht bis zum Besitz des Klosters St. Gallen in Retterschen zurück. Gelogen war die Bahnbrücke: Die Kabelhängebrücke über die Argen entstand als Straßenbrücke. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-kabelhaengebruecke/ und www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-hofanlage-milz/",
+"faktencheck": "korrigiert",
+"id": "317-kressbronn/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kressbronn am Bodensee",
+"steckbrief": "Bodensee-Gemeinde mit rund 8.800 Einwohnern, 94 km südlich von Ulm.",
+"frage": "Wie hoch war in Kressbronn die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 88 %",
+"88 bis unter 91 %",
+"91 bis unter 94 %",
+"94 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Beteiligung war 2025 bundesweit hoch; wer am Bodensee Spitzenwerte erwartet, tippt leicht zu hoch. In Kressbronn gaben 87,5 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "317-kressbronn/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kressbronn am Bodensee",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 94 km südlich von Ulm.",
+"frage": "1945 wollte die Wehrmacht die Kabelhängebrücke über die Argen sprengen. Warum steht sie noch heute?",
+"optionen": [
+"Ein Hochwasser riss die Sprengladungen fort.",
+"Ein Mann lud die Soldaten zum Vesper ein.",
+"Die Ladung explodierte, doch die Seile hielten.",
+"Die Sprengladungen wurden gar nicht erst angebracht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dass die Ladungen nie angebracht wurden, liegt nahe, denn in den letzten Kriegstagen fehlte oft Zeit und Material. Doch die Sprengung war vorbereitet. Albrecht Auer lud die Soldaten zum Vesper, also zur Brotzeit, ein; so konnten alle Zündkabel durchgeschnitten werden. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-kabelhaengebruecke/",
+"faktencheck": "bestätigt",
+"id": "317-kressbronn/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kressbronn am Bodensee",
+"steckbrief": "Gemeinde im Bodenseekreis mit rund 8.800 Einwohnern, 94 km südlich von Ulm.",
+"frage": "Wie weit ist Kressbronn in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 80 km",
+"80 bis unter 110 km",
+"110 bis unter 150 km",
+"150 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer die Fahrt über die Schwäbische Alb kennt, schätzt leicht zu weit, denn die Straße macht Umwege. In Luftlinie trennen Kressbronn und Stuttgart 136 Kilometer. Richtig war 3.",
+"quelle": "GRUNDDATEN, berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "317-kressbronn/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kressbronn am Bodensee",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 94 km südlich von Ulm.",
+"frage": "Ein Museum im Ort zeigt das Modell einer Trauergondel. Wen soll deren Vorbild auf seinem letzten Weg getragen haben?",
+"optionen": [
+"Sie soll den toten Giuseppe Verdi getragen haben.",
+"Sie soll den toten Lord Byron getragen haben.",
+"Sie soll den toten Giacomo Casanova getragen haben.",
+"Sie soll den toten Richard Wagner getragen haben."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Gondeln denkt man an Venedig und an berühmte Venezianer wie Casanova. Doch nach Angabe der Gemeinde überführte das Vorbild Richard Wagner nach Santa Lucia, von dort ging es per Bahn nach Bayreuth. Das Modell schuf der gelernte Schiffsbauer Ivan Trtanj. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/museum-historische-schiffsmodelle/",
+"faktencheck": "korrigiert",
+"id": "317-kressbronn/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kressbronn am Bodensee",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 94 km südlich von Ulm.",
+"frage": "Franz Joseph Huster ließ 1855 den Wohnteil seines Hofs in Retterschen neu bauen und mit einer Amtsstube ausstatten. Warum?",
+"optionen": [
+"Der Hof gehörte dem Kloster St. Gallen, das dort seine Abgaben verwalten ließ.",
+"Die Gemeinde Kressbronn hatte das Anwesen gekauft und brauchte ein Rathaus.",
+"Er war Schultheiß, und die Gemeindeverwaltung von Nonnenbach hatte bei ihm ihren Sitz.",
+"Er hatte den Hof nur gepachtet und musste für den Grundherrn Buch führen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster- oder Pachthof liegt nahe, denn der Hof gehörte einst dem Kloster St. Gallen. Doch damals war er längst Eigentum der Familie Huster. Huster war Schultheiß, also Ortsvorsteher, und die Gemeindeverwaltung von Nonnenbach hatte eine Zeit lang ihren Sitz bei ihm. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-hofanlage-milz/",
+"faktencheck": "korrigiert",
+"id": "317-kressbronn/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "316-langenargen",
+"anschluss": [
+"Die alte Kabelhängebrücke über die Argen verbindet Kressbronn und Langenargen.",
+"Einwohner: Kressbronn hat gut tausend mehr als Langenargen."
+],
+"anschluesse": {
+"121-friedrichshafen": [
+"Friedrichshafen hat siebenmal so viele Einwohner wie Kressbronn am Bodensee."
+],
+"315-eriskirch": [
+"Kressbronn am Bodensee hat fast doppelt so viele Einwohner wie Eriskirch."
+],
+"316-langenargen": [
+"Die alte Kabelhängebrücke über die Argen verbindet Kressbronn und Langenargen.",
+"Einwohner: Kressbronn hat gut tausend mehr als Langenargen."
+],
+"318-nonnenhorn": [
+"Landesgrenze: Nonnenhorn liegt in Bayern, Kressbronn am Bodensee in Baden-Württemberg.",
+"Bundestagswahl 2025: In Nonnenhorn lag die CSU vorn, in Kressbronn am Bodensee die CDU."
+],
+"319-wasserburg-bodensee": [
+"Landesgrenze: Wasserburg (Bodensee) liegt in Bayern, Kressbronn am Bodensee in Baden-Württemberg.",
+"Bundestagswahl 2025: In Wasserburg (Bodensee) lag die CSU vorn, in Kressbronn am Bodensee die CDU."
+],
+"122-lindau": [
+"Landesgrenze: Lindau liegt in Bayern, Kressbronn am Bodensee in Baden-Württemberg.",
+"Bundestagswahl 2025: In Lindau lag die CSU vorn, in Kressbronn am Bodensee die CDU."
+],
+"320-sigmarszell": [
+"Landesgrenze: Sigmarszell liegt in Bayern, Kressbronn am Bodensee in Baden-Württemberg.",
+"Bundestagswahl 2025: In Sigmarszell lag die CSU vorn, in Kressbronn am Bodensee die CDU."
+],
+"321-hergatz": [
+"Landesgrenze: Hergatz liegt in Bayern, Kressbronn am Bodensee in Baden-Württemberg.",
+"Bundestagswahl 2025: In Hergatz lag die CSU vorn, in Kressbronn am Bodensee die CDU."
+]
+},
+"ags": "08435029",
+"ortsteil": false,
+"km_vom_vorigen": 4.4
+},
+{
+"slug": "318-nonnenhorn",
+"name": "Nonnenhorn",
+"lat": 47.57528,
+"lon": 9.61028,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Nonnenhorn",
+"steckbrief": "Gemeinde von knapp 2 km² am bayerischen Bodenseeufer, 96 km südlich von Ulm.",
+"frage": "Wie viele Menschen leben in Nonnenhorn?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.500",
+"2.500 bis unter 6.000",
+"6.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein eigener Bahnhof und die Lage am See lassen an eine größere Gemeinde denken. Tatsächlich zählt Nonnenhorn 1.779 Einwohner (Stand Ende 2025), die auf kleiner Fläche dicht beieinander wohnen. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "318-nonnenhorn/v0.8/2",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Nonnenhorn",
+"steckbrief": "Rund 1.800 Einwohner, bayerischer Weinort am Bodensee, 96 km südlich von Ulm.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Nonnenhorn bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 37 %",
+"37 bis unter 42 %",
+"42 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele rechnen mit einem zersplitterten Ergebnis, doch im ländlichen Bayern ist die CSU traditionell stark. In Nonnenhorn holte sie bei der Bundestagswahl 2025 45 % der Zweitstimmen, die Grünen folgten weit dahinter auf Platz zwei. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "318-nonnenhorn/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Nonnenhorn",
+"steckbrief": "Rund 1.800 Einwohner, Gemeinde am bayerischen Bodenseeufer, 96 km südlich von Ulm.",
+"frage": "Wie weit ist es von Nonnenhorn in Luftlinie bis zur Landeshauptstadt München?",
+"optionen": [
+"unter 120 km",
+"120 bis unter 180 km",
+"180 bis unter 240 km",
+"240 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Vom Bodensee aus wirkt die Landeshauptstadt fern, und wer die längeren Straßenwege kennt, schätzt leicht zu hoch. In Luftlinie trennen Nonnenhorn und München 159 km. Die nächste Großstadt ist ohnehin nicht München, sondern Ulm. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "318-nonnenhorn/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nonnenhorn",
+"steckbrief": "Rund 1.800 Einwohner, Bodenseegemeinde in Bayern, 96 km südlich von Ulm.",
+"frage": "Vor der St.-Jakobus-Kapelle liegt ein großer Findling. Woher stammt er?",
+"optionen": [
+"Bauern gruben ihn beim Anlegen eines Weinbergs aus.",
+"Er war Grundstein eines früheren Kirchenbaus.",
+"Man zog ihn bei zugefrorenem See heraus.",
+"Ein Lastschiff brachte ihn als Ballast her."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Findlinge kennt man aus Äckern, wohin Gletscher sie einst schoben – darum liegt der Weinberg nahe. Dieser aber lag im Bodensee: Bei der Seegfrörne 1880, als der See zugefroren war, holte man ihn aus dem Eis auf den Kapellenplatz. Ein zweiter Stein im Ort erinnert an die Seegfrörne 1963. Richtig war 3.",
+"quelle": "Schwäbische Zeitung; Gemeinde Nonnenhorn, nonnenhorn.de/blick-ins-geschichtsbuch",
+"faktencheck": "korrigiert",
+"id": "318-nonnenhorn/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nonnenhorn",
+"steckbrief": "Rund 1.800 Einwohner, Weinort am bayerischen Bodenseeufer, 96 km südlich von Ulm.",
+"frage": "Der Schäfflertanz ist vor allem aus München bekannt. Wie kam er nach Nonnenhorn?",
+"optionen": [
+"Ein Pfarrer führte ihn nach einem Pestgelübde ein.",
+"Ein Schuhmachergeselle brachte ihn aus München mit.",
+"Fassbinder des Ortes holten ihn aus München.",
+"Ein bayerischer König schenkte ihn dem Dorf."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Schäffler ist das bayerische Wort für Fassbinder, im Weinort lägen also Fassbinder als Überbringer nahe. Doch es war ein Schuhmachergeselle: Johannes Königer brachte den Münchner Tanz nach Nonnenhorn und gründete dafür eine Schäfflergesellschaft. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Nonnenhorn",
+"faktencheck": "bestätigt",
+"id": "318-nonnenhorn/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nonnenhorn",
+"steckbrief": "Rund 1.800 Einwohner, bayerische Bodenseegemeinde an der Grenze zu Baden-Württemberg, 96 km südlich von Ulm.",
+"frage": "Im frühen Mittelalter gehörte Nonnenhorn zu einem Kloster. Zu welchem?",
+"optionen": [
+"Es gehörte zum Kloster Fulda.",
+"Es gehörte zum Kloster Tegernsee.",
+"Es gehörte zum Kloster Benediktbeuern.",
+"Es gehörte zum Kloster St. Gallen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein bayerisches Kloster wie Tegernsee liegt nahe, Nonnenhorn ist ja bayerisch. Doch bayerisch wurde der Ort erst viel später. Im frühen Mittelalter gehörte er über die Herrschaft Wasserburg zum Kloster St. Gallen, jenseits des Sees in der heutigen Schweiz. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Nonnenhorn",
+"faktencheck": "unsicher",
+"id": "318-nonnenhorn/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "317-kressbronn",
+"anschluss": [
+"Kennzeichen: In Kressbronn steht FN am Auto, in Nonnenhorn LI.",
+"Fläche: Kressbronn ist gut zehnmal so groß wie Nonnenhorn."
+],
+"anschluesse": {
+"121-friedrichshafen": [
+"Landesgrenze: Friedrichshafen liegt in Baden-Württemberg, Nonnenhorn in Bayern.",
+"Bundestagswahl 2025: In Friedrichshafen lag die CDU vorn, in Nonnenhorn die CSU."
+],
+"315-eriskirch": [
+"Landesgrenze: Eriskirch liegt in Baden-Württemberg, Nonnenhorn in Bayern.",
+"Bundestagswahl 2025: In Eriskirch lag die CDU vorn, in Nonnenhorn die CSU."
+],
+"316-langenargen": [
+"Landesgrenze: Langenargen liegt in Baden-Württemberg, Nonnenhorn in Bayern.",
+"Bundestagswahl 2025: In Langenargen lag die CDU vorn, in Nonnenhorn die CSU."
+],
+"317-kressbronn": [
+"Kennzeichen: In Kressbronn steht FN am Auto, in Nonnenhorn LI.",
+"Fläche: Kressbronn ist gut zehnmal so groß wie Nonnenhorn."
+],
+"319-wasserburg-bodensee": [
+"Wasserburg (Bodensee) hat gut doppelt so viele Einwohner wie Nonnenhorn.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wasserburg (Bodensee) die AfD, in Nonnenhorn die Grünen."
+],
+"122-lindau": [
+"Lindau hat gut vierzehnmal so viele Einwohner wie Nonnenhorn."
+],
+"320-sigmarszell": [
+"Sigmarszell hat gut anderthalbmal so viele Einwohner wie Nonnenhorn.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Sigmarszell die AfD, in Nonnenhorn die Grünen."
+],
+"321-hergatz": [
+"Hergatz hat rund 700 Einwohner mehr als Nonnenhorn.",
+"Hergatz liegt rund 200 Meter höher als Nonnenhorn."
+]
+},
+"ags": "09776120",
+"ortsteil": false,
+"km_vom_vorigen": 2.4
+},
+{
+"slug": "319-wasserburg-bodensee",
+"name": "Wasserburg (Bodensee)",
+"lat": 47.57,
+"lon": 9.63833,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wasserburg (Bodensee)",
+"steckbrief": "Gemeinde mit rund 3.900 Einwohnern, 96 km südlich von Ulm.",
+"frage": "Die Halbinsel mit Kirche und Schloss war früher eine Insel. Wie wurde sie zur Halbinsel?",
+"optionen": [
+"Der Seespiegel sank, der Graben fiel trocken.",
+"Ein Bahndamm verband sie mit dem Ufer.",
+"Ein Erdrutsch vom Ufer füllte den Graben.",
+"Die Herrschaft ließ den Graben zuschütten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein gesunkener Seespiegel liegt nahe, denn der Bodensee steigt und fällt mit den Jahreszeiten. Doch die Burg lag im Wasser und war über eine Zugbrücke mit dem Land verbunden. Die Fugger, die hier das Sagen hatten, ließen die Brücke nicht mehr reparieren und den Wassergraben zuschütten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.wasserburg-bodensee.de/geschichte/die-malerische-halbinsel/ und www.wasserburg-bodensee.de/geschichte/das-schloss/",
+"faktencheck": "korrigiert",
+"id": "319-wasserburg-bodensee/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wasserburg (Bodensee)",
+"steckbrief": "Ufergemeinde mit rund 3.900 Einwohnern, 96 km südlich von Ulm.",
+"frage": "Wie groß ist die Fläche der Gemeinde Wasserburg?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele bayerische Landgemeinden reichen weit über Wald und Feld, daher liegt eine größere Fläche nahe. Wasserburg misst aber nur 6,33 Quadratkilometer. Darauf leben rund 3.900 Menschen, gut 600 je Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046 (Fläche); Einwohner Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "319-wasserburg-bodensee/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wasserburg (Bodensee)",
+"steckbrief": "Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Torkel beim Schloss wurde früher Bier gebraut.",
+"Im Schloss sind heute ein Hotel und ein Restaurant.",
+"Truppen des Städtebundes zerstörten die alte Burg."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bier liegt nahe, denn Wasserburg gehört zu Bayern. Doch ein Torkel ist eine Weinpresse: An der Nordseite des Schlosses steht die frühere Kelter, lange mit Presse und Spindel ausgestattet. Dass im Schloss heute Hotel und Restaurant sind und der Städtebund die alte Burg zerstörte, stimmt dagegen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.wasserburg-bodensee.de/geschichte/das-schloss/",
+"faktencheck": "korrigiert",
+"id": "319-wasserburg-bodensee/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Wasserburg (Bodensee)",
+"steckbrief": "Bayerische Seegemeinde mit rund 3.900 Einwohnern, 96 km südlich von Ulm.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Wasserburg die zweitmeisten Zweitstimmen?",
+"optionen": [
+"GRÜNE",
+"SPD",
+"AfD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Grünen liegen nahe, und es war tatsächlich knapp: Sie kamen auf 13,5 Prozent, die AfD auf 13,7 Prozent. Weit vorn lag die CSU mit 42,5 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "319-wasserburg-bodensee/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wasserburg (Bodensee) / Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee. / Die Sumserhalle in Wasserburg ist nach Augustin Sumser benannt. Wer ist das? / 1. Er war ein Fischer, der Ertrinkende rettete. / 2. Er schenkte der Gemeinde den Grund am See. / 3. Er war lange Bürgermeister von Wasserburg. / 4. Er ist die Hauptfigur eines Romans.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Hallen tragen oft die Namen verdienter Bürger, daher liegt ein Mensch aus dem Ort nahe. Augustin Sumser hat aber nie gelebt: Er ist die erfundene Hauptfigur in Horst Wolfram Geißlers Roman „Der liebe Augustin“ von 1921. Der Schriftsteller wuchs in Wasserburg auf und wurde Ehrenbürger. Richtig war 4. /",
+"quelle": "Schwäbische Zeitung; museen-in-bayern.de",
+"faktencheck": "korrigiert",
+"id": "319-wasserburg-bodensee/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wasserburg (Bodensee)",
+"steckbrief": "Rund 3.900 Einwohner, 96 km südlich von Ulm.",
+"frage": "Wie weit ist Wasserburg in Luftlinie von der Landeshauptstadt München entfernt?",
+"optionen": [
+"unter 170 km",
+"170 bis unter 200 km",
+"200 bis unter 250 km",
+"250 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Vom Bodensee aus wirkt München weit entfernt, und auf der Straße ist der Weg länger. In Luftlinie trennen Wasserburg und die Landeshauptstadt aber nur 158 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "319-wasserburg-bodensee/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wasserburg (Bodensee)",
+"steckbrief": "Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee.",
+"frage": "Der Schriftsteller Martin Walser wurde Ehrenbürger von Wasserburg. In welchem Jahrzehnt?",
+"optionen": [
+"Das geschah schon in den 1960er-Jahren.",
+"Das geschah in den 1980er-Jahren.",
+"Das geschah erst in den 2000er-Jahren.",
+"Das geschah erst in den 2010er-Jahren."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ehrungen kommen oft erst im hohen Alter, daher liegt ein späteres Jahrzehnt nahe. Wasserburg ernannte Martin Walser aber bereits 1984 zum Ehrenbürger. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wasserburg_(Bodensee)",
+"faktencheck": "bestätigt",
+"id": "319-wasserburg-bodensee/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wasserburg (Bodensee)",
+"steckbrief": "Rund 3.900 Einwohner, 96 km südlich von Ulm.",
+"frage": "1519 verlegte die Universität Freiburg ihren Unterricht zeitweise unter anderem nach Wasserburg. Warum?",
+"optionen": [
+"In Freiburg war die Pest ausgebrochen.",
+"Ein Großbrand hatte die Hörsäle zerstört.",
+"Hochwasser hatte die Freiburger Altstadt überflutet.",
+"Ein Erdbeben hatte die Universität beschädigt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Großbrand liegt nahe, denn Feuer verwüstete damals oft ganze Städte. Doch Grund war eine Pestepidemie in Freiburg. Die Universität verlegte den Unterricht zeitweise an den Bodensee, nach Wasserburg, Lindau und Konstanz. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wasserburg_(Bodensee)",
+"faktencheck": "unsicher",
+"id": "319-wasserburg-bodensee/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wasserburg (Bodensee) / Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee. / 2018 wurde vor dem Wasserburger Ufer das Teil eines uralten Holzboots geborgen. Aus welcher Zeit stammt es? / 1. Es stammt aus der Jungsteinzeit. / 2. Es stammt aus der Römerzeit. / 3. Es stammt aus der Bronzezeit. / 4. Es stammt aus dem Mittelalter.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Funden im Bodensee denkt man schnell an die Pfahlbauten der Steinzeit. Dieses Boot ist jünger: Nach den Jahresringen seines Holzes stammt es aus der Zeit um 1137 v. Chr., also aus der Bronzezeit. Es gilt als ältestes Schiff des Bodensees. Richtig war 3. /",
+"quelle": "Pfahlbaumuseum Unteruhldingen; Schwäbische Zeitung",
+"faktencheck": "korrigiert",
+"id": "319-wasserburg-bodensee/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wasserburg (Bodensee)",
+"steckbrief": "Rund 3.900 Einwohner, 96 km südlich von Ulm.",
+"frage": "Im Wappen von Wasserburg ist oben ein schwarzer Bär zu sehen. Wofür steht er?",
+"optionen": [
+"Er weist auf das Kloster St. Gallen hin.",
+"Er stammt aus dem Wappen Bayerns.",
+"Er erinnert an eine Bärenjagd der Montforter.",
+"Er erinnert an eine Herberge „Zum Bären“."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Silber und Blau sind die Farben Bayerns, also liegt der Freistaat nahe. Die Farben stehen tatsächlich für Bayern, der Bär aber weist auf das Kloster St. Gallen hin. Der Legende nach half ein Bär dem heiligen Gallus. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wasserburg_(Bodensee)",
+"faktencheck": "bestätigt",
+"id": "319-wasserburg-bodensee/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "318-nonnenhorn",
+"anschluss": [
+"Einwohner: Wasserburg hat gut doppelt so viele wie Nonnenhorn.",
+"Wasserburg und Nonnenhorn bilden mit Bodolz eine Pfarreiengemeinschaft."
+],
+"anschluesse": {
+"121-friedrichshafen": [
+"Landesgrenze: Friedrichshafen liegt in Baden-Württemberg, Wasserburg (Bodensee) in Bayern.",
+"Bundestagswahl 2025: In Friedrichshafen lag die CDU vorn, in Wasserburg (Bodensee) die CSU."
+],
+"315-eriskirch": [
+"Landesgrenze: Eriskirch liegt in Baden-Württemberg, Wasserburg (Bodensee) in Bayern.",
+"Bundestagswahl 2025: In Eriskirch lag die CDU vorn, in Wasserburg (Bodensee) die CSU."
+],
+"316-langenargen": [
+"Landesgrenze: Langenargen liegt in Baden-Württemberg, Wasserburg (Bodensee) in Bayern.",
+"Bundestagswahl 2025: In Langenargen lag die CDU vorn, in Wasserburg (Bodensee) die CSU."
+],
+"317-kressbronn": [
+"Landesgrenze: Kressbronn am Bodensee liegt in Baden-Württemberg, Wasserburg (Bodensee) in Bayern.",
+"Bundestagswahl 2025: In Kressbronn am Bodensee lag die CDU vorn, in Wasserburg (Bodensee) die CSU."
+],
+"318-nonnenhorn": [
+"Einwohner: Wasserburg hat gut doppelt so viele wie Nonnenhorn.",
+"Wasserburg und Nonnenhorn bilden mit Bodolz eine Pfarreiengemeinschaft."
+],
+"122-lindau": [
+"Lindau hat fast siebenmal so viele Einwohner wie Wasserburg (Bodensee).",
+"Bundestagswahl 2025: Auf Platz zwei kam in Lindau die Grünen, in Wasserburg (Bodensee) die AfD."
+],
+"320-sigmarszell": [
+"Wasserburg (Bodensee) hat rund 1.000 Einwohner mehr als Sigmarszell.",
+"Sigmarszell hat zweieinhalbmal so viel Fläche wie Wasserburg (Bodensee), aber weniger Einwohner."
+],
+"321-hergatz": [
+"Wasserburg (Bodensee) hat gut anderthalbmal so viele Einwohner wie Hergatz.",
+"Hergatz liegt rund 210 Meter höher als Wasserburg (Bodensee)."
+],
+"123-wangen": [
+"Landesgrenze: Wangen im Allgäu liegt in Baden-Württemberg, Wasserburg (Bodensee) in Bayern.",
+"Bundestagswahl 2025: In Wangen im Allgäu lag die CDU vorn, in Wasserburg (Bodensee) die CSU."
+]
+},
+"ags": "09776128",
+"ortsteil": false,
+"km_vom_vorigen": 2.2
 },
 {
 "slug": "122-lindau",
@@ -46351,7 +47343,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "315-eriskirch",
+"anschluss_von": "319-wasserburg-bodensee",
 "anschluss": [],
 "anschluesse": {
 "121-friedrichshafen": [
@@ -46362,6 +47354,29 @@ window.QA_DATEN = {
 "Landesgrenze: Eriskirch liegt in Baden-Württemberg, Lindau in Bayern.",
 "Bundestagswahl 2025: In Eriskirch lag die CDU vorn, in Lindau die CSU."
 ],
+"316-langenargen": [
+"Landesgrenze: Langenargen liegt in Baden-Württemberg, Lindau in Bayern.",
+"Bundestagswahl 2025: In Langenargen lag die CDU vorn, in Lindau die CSU."
+],
+"317-kressbronn": [
+"Landesgrenze: Kressbronn am Bodensee liegt in Baden-Württemberg, Lindau in Bayern.",
+"Bundestagswahl 2025: In Kressbronn am Bodensee lag die CDU vorn, in Lindau die CSU."
+],
+"318-nonnenhorn": [
+"Lindau hat gut vierzehnmal so viele Einwohner wie Nonnenhorn."
+],
+"319-wasserburg-bodensee": [
+"Lindau hat fast siebenmal so viele Einwohner wie Wasserburg (Bodensee).",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wasserburg (Bodensee) die AfD, in Lindau die Grünen."
+],
+"320-sigmarszell": [
+"Lindau hat neunmal so viele Einwohner wie Sigmarszell.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Sigmarszell die AfD, in Lindau die Grünen."
+],
+"321-hergatz": [
+"Lindau hat fast elfmal so viele Einwohner wie Hergatz.",
+"Hergatz liegt rund 200 Meter höher als Lindau."
+],
 "123-wangen": [
 "Landesgrenze: Wangen im Allgäu liegt in Baden-Württemberg, Lindau in Bayern.",
 "Bundestagswahl 2025: In Wangen im Allgäu lag die CDU vorn, in Lindau die CSU."
@@ -46369,7 +47384,395 @@ window.QA_DATEN = {
 },
 "ags": "09776116",
 "ortsteil": false,
-"km_vom_vorigen": 14.8
+"km_vom_vorigen": 4.3
+},
+{
+"slug": "320-sigmarszell",
+"name": "Sigmarszell",
+"lat": 47.58944,
+"lon": 9.76222,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sigmarszell",
+"steckbrief": "Gemeinde mit rund 2.900 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Österreich forderte 1816 von Bayern die Einöde Biesings bei Schlachters. Welchen Grund nennt die Ortsgeschichte für diesen Anspruch?",
+"optionen": [
+"Der Grenzbach hatte seinen Lauf verlegt.",
+"Die Einöde war bei der Übergabe vergessen worden.",
+"Ein Grenzstein war heimlich versetzt worden.",
+"Ein alter Pachtvertrag war gerade ausgelaufen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein versetzter Grenzstein oder ein wandernder Bach klingen nach typischem Grenzstreit. Die Ortsgeschichte nennt etwas Schlichteres: Biesings war bei den Übergabeverhandlungen vergessen worden. Bayern kämpfte um die Einöde, eine Einzelsiedlung, denn sie bildete den notwendigen Korridor nach Lindau. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.sigmarszell.de/Geschichte-und-Wappen.n26.html",
+"faktencheck": "bestätigt",
+"id": "320-sigmarszell/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sigmarszell",
+"steckbrief": "Gemeinde mit rund 2.900 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Auf welcher Höhe über dem Meer liegt der Ort Sigmarszell?",
+"optionen": [
+"unter 400 m",
+"400 bis unter 450 m",
+"450 bis unter 550 m",
+"550 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an den nahen Bodensee denkt, schätzt tief. Doch die Angaben für Sigmarszell nennen 478 und 482 Meter, gut über dem Seespiegel. Das Gemeindegebiet reicht vom Rand Lindaus bis hinauf zum Ortsteil Kinberg. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "320-sigmarszell/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Sigmarszell",
+"steckbrief": "Gemeinde mit rund 2.900 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Ortsteil Niederstaufen ist ein Straßendorf.",
+"Niederstaufens Pfarrkirche heißt St. Peter und Paul.",
+"Die Leiblach bildet die Grenze zur Schweiz."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Schweiz liegt nah, aber jenseits des Bodensees. Die Leiblach, ein Fluss mit keltischem Namen, trennt die Gemeinde von Vorarlberg, also von Österreich. Niederstaufen ist tatsächlich ein Straßendorf, dessen Häuser sich entlang einer Straße reihen; seine Pfarrkirche heißt St. Peter und Paul. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.sigmarszell.de/Geschichte-und-Wappen.n26.html",
+"faktencheck": "bestätigt",
+"id": "320-sigmarszell/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sigmarszell",
+"steckbrief": "Gemeinde mit rund 2.900 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Sigmarszell bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 42 %",
+"42 bis unter 48 %",
+"48 bis unter 54 %",
+"54 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In Bayerns Landgemeinden erwartet man oft ein CSU-Ergebnis um die Hälfte. In Sigmarszell holte die CSU aber 39,6 Prozent der Zweitstimmen; zweitstärkste Partei wurde die AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "320-sigmarszell/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sigmarszell",
+"steckbrief": "Gemeinde mit rund 2.900 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Bei der Gemeindereform 1972 kamen mehrere Dörfer zu einer neuen Gemeinde zusammen. Wie hieß sie zunächst?",
+"optionen": [
+"Die Gemeinde hieß zunächst Bösenreutin.",
+"Die Gemeinde hieß zunächst Schlachters.",
+"Die Gemeinde hieß zunächst Niederstaufen.",
+"Die Gemeinde hieß zunächst Leiblachtal."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass die Gemeinde von Anfang an nach Sigmarszell hieß, der Urzelle, die ihr heute den Namen gibt. Doch 1972 kamen Bösenreutin, Sigmarszell und Niederstaufen zur neuen Gemeinde Schlachters. Erst eine Umbenennung machte daraus Sigmarszell. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Sigmarszell",
+"faktencheck": "bestätigt",
+"id": "320-sigmarszell/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Sigmarszell",
+"steckbrief": "Gemeinde mit rund 2.900 Einwohnern, 92 km südlich von Ulm.",
+"frage": "In welchem Landkreis liegt Sigmarszell?",
+"optionen": [
+"Bodenseekreis",
+"Landkreis Ravensburg",
+"Landkreis Lindau (Bodensee)",
+"Landkreis Oberallgäu"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Bodenseekreis klingt naheliegend, denn der See ist nah. Er gehört aber zu Baden-Württemberg, Sigmarszell zu Bayern: Die Gemeinde liegt im Landkreis Lindau (Bodensee), an den Autos steht meist LI. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "320-sigmarszell/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sigmarszell",
+"steckbrief": "Gemeinde mit rund 2.900 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Der Schriftsteller Norbert Jacques aus Luxemburg kaufte 1920 einen Bauernhof oberhalb von Lindau. Was tat er 1945?",
+"optionen": [
+"Er verkaufte seinen Hof am Bodensee.",
+"Er wurde Landrat des Kreises.",
+"Er übernahm die Dorfschule als Lehrer.",
+"Er wurde Bürgermeister der Gemeinde."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Schriftsteller im Rathaus wirkt ungewöhnlich. Doch nach Kriegsende machte die französische Besatzung Jacques für kurze Zeit zum Bürgermeister von Sigmarszell. Bald darauf internierte sie ihn und schickte ihn nach Luxemburg. Später kehrte er auf seinen Hof zurück. Richtig war 4.",
+"quelle": "d'Lëtzebuerger Land, 25.04.2025 (martin-ebner.net/topics/culture/norbert-jacques/)",
+"faktencheck": "korrigiert",
+"id": "320-sigmarszell/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sigmarszell",
+"steckbrief": "Gemeinde mit rund 2.900 Einwohnern, 92 km südlich von Ulm.",
+"frage": "Im Gemeindewappen trägt ein schwarzer Bär einen Baum auf der Schulter. Wofür steht dieses Bild?",
+"optionen": [
+"Es ist das Zeichen eines Heiligen.",
+"Es erinnert an frühere Bärenjagden im Wald.",
+"Es steht für die Holzfäller der Gegend.",
+"Es stammt von einem alten Rittergeschlecht."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bär mit Baum klingt nach Wald, Jagd oder Holzarbeit. Doch Bär und geschulterter Baum sind Attribute des heiligen Gallus; sie verweisen auf die St. Galler Tradition seit dem Frühmittelalter. Dem heiligen Gallus ist auch die Pfarrkirche geweiht. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.sigmarszell.de/Wappen.n27.html",
+"faktencheck": "bestätigt",
+"id": "320-sigmarszell/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "122-lindau",
+"anschluss": [
+"Bundestagswahl 2025: Sigmarszell hatte höhere Wahlbeteiligung als Lindau.",
+"Wappen: Das Lindenblatt in Sigmarszells Wappen erinnert an Lindaus Herrschaft."
+],
+"anschluesse": {
+"315-eriskirch": [
+"Landesgrenze: Eriskirch liegt in Baden-Württemberg, Sigmarszell in Bayern.",
+"Bundestagswahl 2025: In Eriskirch lag die CDU vorn, in Sigmarszell die CSU."
+],
+"316-langenargen": [
+"Landesgrenze: Langenargen liegt in Baden-Württemberg, Sigmarszell in Bayern.",
+"Bundestagswahl 2025: In Langenargen lag die CDU vorn, in Sigmarszell die CSU."
+],
+"317-kressbronn": [
+"Landesgrenze: Kressbronn am Bodensee liegt in Baden-Württemberg, Sigmarszell in Bayern.",
+"Bundestagswahl 2025: In Kressbronn am Bodensee lag die CDU vorn, in Sigmarszell die CSU."
+],
+"318-nonnenhorn": [
+"Sigmarszell hat gut anderthalbmal so viele Einwohner wie Nonnenhorn.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Nonnenhorn die Grünen, in Sigmarszell die AfD."
+],
+"319-wasserburg-bodensee": [
+"Wasserburg (Bodensee) hat rund 1.000 Einwohner mehr als Sigmarszell.",
+"Sigmarszell hat zweieinhalbmal so viel Fläche wie Wasserburg (Bodensee), aber weniger Einwohner."
+],
+"122-lindau": [
+"Bundestagswahl 2025: Sigmarszell hatte höhere Wahlbeteiligung als Lindau.",
+"Wappen: Das Lindenblatt in Sigmarszells Wappen erinnert an Lindaus Herrschaft."
+],
+"321-hergatz": [
+"Sigmarszell hat rund 500 Einwohner mehr als Hergatz."
+],
+"123-wangen": [
+"Landesgrenze: Wangen im Allgäu liegt in Baden-Württemberg, Sigmarszell in Bayern.",
+"Bundestagswahl 2025: In Wangen im Allgäu lag die CDU vorn, in Sigmarszell die CSU."
+]
+},
+"ags": "09776126",
+"ortsteil": false,
+"km_vom_vorigen": 7.6
+},
+{
+"slug": "321-hergatz",
+"name": "Hergatz",
+"lat": 47.65,
+"lon": 9.83333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hergatz",
+"steckbrief": "Gemeinde im Westallgäu mit rund 2.400 Einwohnern, 84 km südlich von Ulm.",
+"frage": "Im Wappen von Hergatz steht eine silberne Lilie. Woher stammt sie?",
+"optionen": [
+"Aus dem alten Wappen der Reichsstadt Wangen",
+"Aus dem Siegel der Herren von Wohmbrechts",
+"Aus dem Wappen der Sürg von Sürgenstein",
+"Aus dem alten Wappen Frankreichs"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Lilie gilt als Zeichen Marias, und Maria-Thann erhielt seinen Namenszusatz durch eine Marienwallfahrt – eine fromme Deutung liegt nahe. Doch die Lilie stammt aus dem alten Wappen der Reichsstadt Wangen und erinnert an deren Herrschaft in Wohmbrechts. Der Schrägbalken daneben stammt von den Sürg von Sürgenstein. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hergatz",
+"faktencheck": "bestätigt",
+"id": "321-hergatz/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hergatz",
+"steckbrief": "Gemeinde im Westallgäu mit rund 2.400 Einwohnern, 84 km südlich von Ulm.",
+"frage": "Wie viele Einwohner leben in Hergatz je Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 400",
+"400 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Landgemeinde im Westallgäu schätzt man leicht zu niedrig. Doch auf knapp 19 Quadratkilometern leben gut 2.400 Menschen, rechnerisch rund 130 je Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Wikidata P1082 (Einwohner, Stand 2025-12-31) und Wikidata P2046 (Fläche)",
+"faktencheck": "bestätigt",
+"id": "321-hergatz/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hergatz",
+"steckbrief": "Gemeinde im Westallgäu mit rund 2.400 Einwohnern, 84 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Durch Wohmbrechts lief einst Salz aus Lüneburg.",
+"Hergatz entstand aus Wohmbrechts und Maria-Thann.",
+"Bei Maria-Thann bildet die Obere Argen die Grenze zu Baden-Württemberg."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Lüneburger Salz klingt nach Hanse und Fernhandel und war im Norden berühmt. Doch das Salz der Salzstraße durch Wohmbrechts kam aus den Alpen, aus Bad Reichenhall und Hall in Tirol, und zog über Kempten, Isny und Wangen an den Bodensee. In Wohmbrechts lag die letzte Salzfaktorei. Die Lüge war 1.",
+"quelle": "Gemeinde Hergatz, www.hergatz.de; Staatsvertrag Landesgrenze Bayern–Baden-Württemberg, Art. 3",
+"faktencheck": "korrigiert",
+"id": "321-hergatz/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hergatz",
+"steckbrief": "Gemeinde im ländlichen Westallgäu mit rund 2.400 Einwohnern, 84 km südlich von Ulm.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Hergatz die zweitmeisten Zweitstimmen?",
+"optionen": [
+"GRÜNE",
+"SPD",
+"Die Linke",
+"AfD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Bodensee und im Allgäu sind die Grünen oft stark, darum liegen sie als Zweite nahe; in Hergatz holten sie 12,9 Prozent. Doch hinter der CSU kam die AfD auf 18,1 Prozent der Zweitstimmen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "321-hergatz/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hergatz",
+"steckbrief": "Gemeinde im Westallgäu mit rund 2.400 Einwohnern, 84 km südlich von Ulm.",
+"frage": "Zu welchem Landkreis gehört Hergatz?",
+"optionen": [
+"Ravensburg",
+"Lindau (Bodensee)",
+"Oberallgäu",
+"Bodenseekreis"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das nahe Wangen gehört schon zum baden-württembergischen Kreis Ravensburg, und das Allgäu reicht weit nach Osten bis ins Oberallgäu – beides lockt auf falsche Fährten. Doch Hergatz liegt in Bayern und gehört zum Landkreis Lindau (Bodensee). Richtig war 2.",
+"quelle": "dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "321-hergatz/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Hergatz",
+"steckbrief": "Gemeinde im Westallgäu mit heute rund 2.400 Einwohnern, 84 km südlich von Ulm.",
+"frage": "Wie viele Menschen lebten 1840 auf dem Gebiet der heutigen Gemeinde Hergatz?",
+"optionen": [
+"unter 400",
+"400 bis unter 700",
+"700 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ländliche Gemeinden gelten oft als beständig, darum schätzt man leicht eine Zahl nahe der heutigen. Doch 1840 lebten auf dem Gebiet der heutigen Gemeinde Hergatz nur 849 Menschen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hergatz",
+"faktencheck": "unsicher",
+"id": "321-hergatz/v0.8/7",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hergatz",
+"steckbrief": "Gemeinde im Westallgäu mit rund 2.400 Einwohnern, 84 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Ritter von Wohmbrechts kämpfte für Dänemarks König.",
+"Die Mundart in Hergatz zählt zum Bairischen.",
+"Bei Muthen führt eine Bahnbrücke über das Leiblachtal."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hergatz liegt in Bayern, da klingt Bairisch selbstverständlich. Doch gesprochen wird Westallgäuerisch, und das ist schwäbisch ausgerichtet; in der Mundart heißt der Ort „Hörgatz“. Wilhelm von Wohmbrechts diente als Haudegen dem König von Dänemark, und die Hämmerlebrücke trägt die Bahn Lindau–Immenstadt über das Leiblachtal. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hergatz",
+"faktencheck": "unsicher",
+"id": "321-hergatz/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "320-sigmarszell",
+"anschluss": [
+"Der Bodensee-Königssee-Radweg verbindet Sigmarszell über Hergensweiler mit Hergatz.",
+"Einwohner: Sigmarszell hat rund 2.900, Hergatz rund 2.400."
+],
+"anschluesse": {
+"317-kressbronn": [
+"Landesgrenze: Kressbronn am Bodensee liegt in Baden-Württemberg, Hergatz in Bayern.",
+"Bundestagswahl 2025: In Kressbronn am Bodensee lag die CDU vorn, in Hergatz die CSU."
+],
+"318-nonnenhorn": [
+"Hergatz hat rund 700 Einwohner mehr als Nonnenhorn.",
+"Hergatz liegt rund 200 Meter höher als Nonnenhorn."
+],
+"319-wasserburg-bodensee": [
+"Wasserburg (Bodensee) hat gut anderthalbmal so viele Einwohner wie Hergatz.",
+"Hergatz liegt rund 210 Meter höher als Wasserburg (Bodensee)."
+],
+"122-lindau": [
+"Lindau hat fast elfmal so viele Einwohner wie Hergatz.",
+"Hergatz liegt rund 200 Meter höher als Lindau."
+],
+"320-sigmarszell": [
+"Der Bodensee-Königssee-Radweg verbindet Sigmarszell über Hergensweiler mit Hergatz.",
+"Einwohner: Sigmarszell hat rund 2.900, Hergatz rund 2.400."
+],
+"123-wangen": [
+"Landesgrenze: Wangen im Allgäu liegt in Baden-Württemberg, Hergatz in Bayern.",
+"Bundestagswahl 2025: In Wangen im Allgäu lag die CDU vorn, in Hergatz die CSU."
+]
+},
+"ags": "09776131",
+"ortsteil": false,
+"km_vom_vorigen": 8.6
 },
 {
 "slug": "123-wangen",
@@ -46537,20 +47940,438 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "122-lindau",
-"anschluss": [
-"Einwohner: Wangen zählt rund 3.000 mehr als Lindau.",
-"Die Burg Neuravensburg in Wangen gehörte 1450 bis 1586 Lindau."
-],
+"anschluss_von": "321-hergatz",
+"anschluss": [],
 "anschluesse": {
+"319-wasserburg-bodensee": [
+"Landesgrenze: Wasserburg (Bodensee) liegt in Bayern, Wangen im Allgäu in Baden-Württemberg.",
+"Bundestagswahl 2025: In Wasserburg (Bodensee) lag die CSU vorn, in Wangen im Allgäu die CDU."
+],
 "122-lindau": [
-"Einwohner: Wangen zählt rund 3.000 mehr als Lindau.",
-"Die Burg Neuravensburg in Wangen gehörte 1450 bis 1586 Lindau."
+"Landesgrenze: Lindau liegt in Bayern, Wangen im Allgäu in Baden-Württemberg.",
+"Bundestagswahl 2025: In Lindau lag die CSU vorn, in Wangen im Allgäu die CDU."
+],
+"320-sigmarszell": [
+"Landesgrenze: Sigmarszell liegt in Bayern, Wangen im Allgäu in Baden-Württemberg.",
+"Bundestagswahl 2025: In Sigmarszell lag die CSU vorn, in Wangen im Allgäu die CDU."
+],
+"321-hergatz": [
+"Landesgrenze: Hergatz liegt in Bayern, Wangen im Allgäu in Baden-Württemberg.",
+"Bundestagswahl 2025: In Hergatz lag die CSU vorn, in Wangen im Allgäu die CDU."
 ]
 },
 "ags": "08436081",
 "ortsteil": false,
-"km_vom_vorigen": 19.2
+"km_vom_vorigen": 4.0
+},
+{
+"slug": "322-leutkirch",
+"name": "Leutkirch im Allgäu",
+"lat": 47.82556,
+"lon": 10.02222,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leutkirch im Allgäu",
+"steckbrief": "Stadt mit rund 24.000 Einwohnern, 64 km südlich von Ulm.",
+"frage": "Im Namen Leutkirch steckt eine Kirche. Welche Kirche gab der Stadt ihren Namen?",
+"optionen": [
+"Die Spitalkirche der alten Reichsstadt.",
+"Die evangelische Kirche zur Heiligen Dreifaltigkeit.",
+"St. Martin, einst Hauptkirche des Nibelgaus.",
+"Eine Burgkapelle der Grafen von Montfort."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Leutkirch heißt nach der Leutekirche St. Martin, einst Hauptkirche des Nibelgaus; sie ziert bis heute das Stadtwappen. Spitalkirche und Dreifaltigkeitskirche liegen nahe, weil auch sie Leutkircher Kirchen sind. Beide dienten jedoch den evangelischen Bürgern als Gottesdienstraum. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "322-leutkirch/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leutkirch im Allgäu",
+"steckbrief": "Große Kreisstadt im Allgäu mit rund 24.000 Einwohnern, 64 km südlich von Ulm.",
+"frage": "Wie groß ist das Stadtgebiet von Leutkirch?",
+"optionen": [
+"unter 50 km²",
+"50 bis unter 100 km²",
+"100 bis unter 150 km²",
+"150 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Das Stadtgebiet misst rund 175 km². Eine kleinere Spanne liegt nahe, weil man an eine kompakte Stadt denkt. Doch zu Leutkirch gehören seit dem Zusammenschluss auch Dörfer wie Diepoldshofen, Friesenhofen und Herlazhofen. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "322-leutkirch/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Leutkirch im Allgäu",
+"steckbrief": "Ehemalige Reichsstadt mit heute rund 24.000 Einwohnern, 64 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Leutkircher Leinwand wurde bis nach Spanien gehandelt.",
+"Die Weber gehörten zu den Hauptzünften der Stadt.",
+"Ein Patriziat vornehmer Familien beherrschte die Stadt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist das Patriziat: Leutkirch hatte nur wenige vornehme Familien und kein Patriziat, deshalb gewannen die Zünfte Einfluss. Sie klingt plausibel, weil viele Reichsstädte von reichen Geschlechtern gelenkt wurden. Wahr ist: Weber, Bäcker, Metzger und Bauern bildeten die Hauptzünfte, und Leinwand ging bis Italien und Spanien. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "322-leutkirch/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leutkirch im Allgäu",
+"steckbrief": "Ländlich geprägte Stadt mit rund 24.000 Einwohnern, 64 km südlich von Ulm.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Leutkirch bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 40 %",
+"40 bis unter 50 %",
+"50 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Stärkste Partei wurde die CDU mit 36,6 Prozent der Zweitstimmen. Über 40 Prozent liegt nahe, weil das ländliche Oberschwaben als CDU-Hochburg gilt. Zweitstärkste wurde die AfD mit 22 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "322-leutkirch/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leutkirch im Allgäu",
+"steckbrief": "Allgäuer Stadt mit rund 24.000 Einwohnern, 64 km südlich von Ulm.",
+"frage": "Bis 1810 führte die Salzstraße in die Schweiz über Leutkirch. Was geschah dann mit ihr?",
+"optionen": [
+"Eine Eisenbahn übernahm den Salztransport.",
+"Die Stadt sperrte ihre Tore für Salzfuhrwerke.",
+"Sie wurde auf eine andere Route verlegt.",
+"Sie wurde ausgebaut und blieb, wo sie war."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Salzstraße wurde auf die Strecke Kempten–Lindau verlegt, ins bayerisch gebliebene Allgäu; Leutkirch war württembergisch geworden. Die Eisenbahn liegt nahe, weil sie später vielen Fuhrstraßen den Verkehr nahm, doch hier zog die neue Landesgrenze die Route weg. Die Stadt riss danach sogar ihre Tore ab, um den übrigen Durchgangsverkehr zu fördern. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.leutkirch.de/de/Urlaub/Das-ist-Leutkirch/Stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "322-leutkirch/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Leutkirch im Allgäu",
+"steckbrief": "Stadt mit rund 24.000 Einwohnern, 64 km südlich von Ulm, nicht weit vom Bodensee.",
+"frage": "Welche dieser Städte ist eine Partnerstadt von Leutkirch?",
+"optionen": [
+"Bregenz",
+"Vichy",
+"Meran",
+"Castiglione delle Stiviere"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Castiglione delle Stiviere ist Partnerstadt von Leutkirch, ebenso Lamalou-les-Bains, Hérépian und Bédarieux. Bregenz liegt nahe, weil Leutkirch einst unter den Grafen von Bregenz stand und der Bodensee nicht weit ist. Partnerstadt wurde es trotzdem nicht. Richtig war 4.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "322-leutkirch/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leutkirch im Allgäu",
+"steckbrief": "Stadt mit rund 24.000 Einwohnern, 64 km südlich von Ulm.",
+"frage": "Die Stadt zählt Anna Katharina Sulzer-Neuffer zu den „Leutkircher Köpfen“. Ihre Söhne gründeten die Firma Sulzer. In welcher Stadt?",
+"optionen": [
+"Die Firma Sulzer entstand in Winterthur.",
+"Die Firma Sulzer entstand in Leutkirch.",
+"Die Firma Sulzer entstand in Zürich.",
+"Die Firma Sulzer entstand in Basel."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Söhne von Anna Katharina Sulzer-Neuffer gründeten die Firma Sulzer in Winterthur. Leutkirch liegt nahe, weil die Stadt sie zu ihren Köpfen zählt, doch die Firma entstand in der Schweiz. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Leutkircher-Koepfe",
+"faktencheck": "bestätigt",
+"id": "322-leutkirch/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leutkirch im Allgäu",
+"steckbrief": "Stadt mit rund 24.000 Einwohnern, 64 km südlich von Ulm.",
+"frage": "Die figürliche Stuckdecke im Ratssaal des Rathauses schuf Johannes Schütz. Bei wem hatte er gelernt?",
+"optionen": [
+"Er lernte beim Baumeister von Kloster Melk.",
+"Er lernte beim Baumeister der Wieskirche.",
+"Er lernte beim Baumeister von Vierzehnheiligen.",
+"Er lernte beim Baumeister der Dresdner Frauenkirche."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Johannes Schütz war Schüler von Dominikus Zimmermann, dem berühmten Baumeister der Wieskirche. Vierzehnheiligen liegt nahe, weil auch dort üppiger Barock glänzt. Das zentrale Deckenbild im Ratssaal mahnt zu Friede und Gerechtigkeit. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.leutkirch.de/de/Urlaub/Kulturerlebnis/Historische-Altstadt/Rathaus",
+"faktencheck": "korrigiert",
+"id": "322-leutkirch/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leutkirch im Allgäu",
+"steckbrief": "Stadt mit rund 24.000 Einwohnern, 64 km südlich von Ulm.",
+"frage": "Der Simplicissimus-Dichter Hans Erich Blaich zählt zu den „Leutkircher Köpfen“. Unter welchem Pseudonym schrieb er?",
+"optionen": [
+"Er schrieb als Peter Schlemihl.",
+"Er schrieb als Joachim Ringelnatz.",
+"Er schrieb als Peter Panter.",
+"Er schrieb als Dr. Owlglass."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Blaich schrieb als Dr. Owlglass, englisch für Eulenspiegel. Peter Schlemihl liegt nahe, denn unter diesem Namen schrieb Ludwig Thoma im Simplicissimus. Joachim Ringelnatz hieß eigentlich Hans Bötticher, Peter Panter war Kurt Tucholsky. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.leutkirch.de/de/Leben/Leben-Freizeit/Stadt-Land/Historisches/Leutkircher-Koepfe",
+"faktencheck": "korrigiert",
+"id": "322-leutkirch/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "123-wangen",
+"anschluss": [
+"1938 wurde Wangen statt Leutkirch Kreisstadt des Allgäukreises.",
+"Leutkirch hat weniger Einwohner, aber mehr Fläche als Wangen."
+],
+"anschluesse": {
+"323-aitrach": [
+"Leutkirch im Allgäu hat achtmal so viele Einwohner wie Aitrach."
+],
+"123-wangen": [
+"1938 wurde Wangen statt Leutkirch Kreisstadt des Allgäukreises.",
+"Leutkirch hat weniger Einwohner, aber mehr Fläche als Wangen."
+]
+},
+"ags": "08436055",
+"ortsteil": false,
+"km_vom_vorigen": 21.0
+},
+{
+"slug": "323-aitrach",
+"name": "Aitrach",
+"lat": 47.94,
+"lon": 10.09,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aitrach",
+"steckbrief": "Gemeinde mit rund 3.100 Einwohnern, 51 km südlich von Ulm.",
+"frage": "Worauf führt die Ortsgeschichte der Gemeinde die Entstehung des Dorfs Aitrach zurück?",
+"optionen": [
+"Der Ort entstand um eine Burg herum.",
+"Der Ort entstand an einem Flussübergang.",
+"Der Ort entstand um ein Kloster herum.",
+"Der Ort entstand an einer Salzquelle."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Burg liegt nahe, denn oberhalb des Orts stand die Burg Marstetten, und um sie herum wuchs das Dorf später. Entstanden ist es laut Gemeinde aber am Illerübergang im Ortsteil Ferthofen, einer alten Furt über den Fluss, der heute die Grenze zu Bayern bildet. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.aitrach.de/unsere-gemeinde/geschichtliches/entwicklung-unserer-gemeinde",
+"faktencheck": "korrigiert",
+"id": "323-aitrach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Aitrach",
+"steckbrief": "Gemeinde mit rund 3.100 Einwohnern, 51 km südlich von Ulm.",
+"frage": "Wie groß ist die Fläche der Gemeinde Aitrach?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 3.100 Einwohnern schätzt man leicht zu klein. Doch Aitrach ist dünn besiedelt: Auf einen Quadratkilometer kommen nur rund 100 Menschen. Die Gemeinde misst 30,2 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046 (Fläche); Einwohner: Wikidata P1082, Stand 2025-12-31; Dichte berechnet aus Einwohnern und Fläche",
+"faktencheck": "bestätigt",
+"id": "323-aitrach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Aitrach",
+"steckbrief": "Gemeinde mit rund 3.100 Einwohnern, 51 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nach Kriegsende gehörte Aitrach zur amerikanischen Besatzungszone.",
+"Eine Pest ließ Aitrach einst fast aussterben.",
+"Im Ortsgebiet von Aitrach siedelten einst Kelten."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Lüge liegt nahe: Gleich jenseits der Iller beginnt Bayern, und das gehörte zur amerikanischen Zone. Aitrach aber liegt diesseits des Flusses, und Besatzungsmacht war hier Frankreich. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.aitrach.de/unsere-gemeinde/geschichtliches/heimatbeilagen",
+"faktencheck": "korrigiert",
+"id": "323-aitrach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Aitrach",
+"steckbrief": "Gemeinde mit rund 3.100 Einwohnern im Landkreis Ravensburg, 51 km südlich von Ulm.",
+"frage": "Welche Partei wurde in Aitrach bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"GRÜNE",
+"FDP"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In Baden-Württemberg denkt man nach der CDU schnell an die Grünen. Doch bei der Bundestagswahl 2025 kam die AfD mit 21,3 Prozent klar auf Platz zwei, hinter der CDU mit 36,6 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "323-aitrach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aitrach",
+"steckbrief": "Gemeinde mit rund 3.100 Einwohnern an der Iller, 51 km südlich von Ulm.",
+"frage": "Die Grafschaft Marstetten endete im 14. Jahrhundert. Welchen Grund nennt die Ortsgeschichte der Gemeinde?",
+"optionen": [
+"Die Burg brannte ab, die Grafen zogen weg.",
+"Eine Tochter heiratete in ein Herzogshaus ein.",
+"Der Kaiser zog sie wegen Verrats ein.",
+"Die Grafen verkauften sie an eine Reichsstadt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Brand liegt nahe, denn die Burg Marstetten ist heute eine Ruine. Doch Schweden zündeten sie erst im Dreißigjährigen Krieg an. Die Ortsgeschichte nennt eine Hochzeit: Die Tochter Anna heiratete Herzog Friedrich von Bayern. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.aitrach.de/unsere-gemeinde/geschichtliches/entwicklung-unserer-gemeinde",
+"faktencheck": "bestätigt",
+"id": "323-aitrach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Aitrach",
+"steckbrief": "Gemeinde mit rund 3.100 Einwohnern, 51 km südlich von Ulm.",
+"frage": "Wie weit ist es von Aitrach in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 70 km",
+"70 bis unter 95 km",
+"95 bis unter 130 km",
+"130 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an die lange Autofahrt denkt, schätzt leicht zu hoch, denn Straßen machen Umwege. Die Luftlinie von Aitrach nach Stuttgart misst 115 Kilometer, gut doppelt so weit wie bis Ulm. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "323-aitrach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aitrach",
+"steckbrief": "Gemeinde mit rund 3.100 Einwohnern an der Iller, 51 km südlich von Ulm.",
+"frage": "Über die Illerbrücke bei Ferthofen rollten einst Salzwagen Richtung Bodensee. Welche Ladung für den Rückweg nennt die Ortsgeschichte?",
+"optionen": [
+"Auf dem Rückweg trugen sie Käse.",
+"Auf dem Rückweg trugen sie Bauholz.",
+"Auf dem Rückweg trugen sie Leinentuch.",
+"Auf dem Rückweg trugen sie Weinfässer."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Käse liegt nahe, er war im Süden ein klassisches Handelsgut. Die Ortsgeschichte erzählt aber: Hin rollte Salz aus Reichenhall, zurück waren die Wagen meist mit Weinfässern beladen. Die Brücke lag an einer Handelsroute von Augsburg und München zum Bodensee, in die Schweiz, den Schwarzwald und nach Frankreich. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.aitrach.de/unsere-gemeinde/geschichtliches/entwicklung-unserer-gemeinde",
+"faktencheck": "korrigiert",
+"id": "323-aitrach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aitrach",
+"steckbrief": "Gemeinde mit rund 3.100 Einwohnern, 51 km südlich von Ulm.",
+"frage": "Die Burg Marstetten entstand auf einer Anhöhe über der Iller. Was stand laut Ortsgeschichte vorher dort?",
+"optionen": [
+"Dort stand eine kleine Wallfahrtskapelle.",
+"Dort stand ein römischer Wachturm.",
+"Dort lag ein heidnischer Opferplatz.",
+"Dort lag ein alter Bauernhof."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Kapelle liegt nahe, viele Anhöhen tragen eine. Hier aber wachten schon die Römer: Ihr Turm sicherte den Illerübergang, den sie als Furt nutzten. Später ließ das Kloster Kempten die Burg errichten; gebaut haben sie die Grafen von Marstetten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.aitrach.de/unsere-gemeinde/geschichtliches/entwicklung-unserer-gemeinde",
+"faktencheck": "bestätigt",
+"id": "323-aitrach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aitrach",
+"steckbrief": "Gemeinde mit rund 3.100 Einwohnern, 51 km südlich von Ulm.",
+"frage": "Der Zehntstadel überstand den Dreißigjährigen Krieg unbeschadet. Welche Nutzung durch die Schweden vermutet die Ortsgeschichte?",
+"optionen": [
+"Sie richteten dort vermutlich ein Lazarett ein.",
+"Sie hielten dort vermutlich Gefangene fest.",
+"Sie lagerten dort vermutlich Proviant und Futter.",
+"Sie lagerten dort vermutlich ihr Schießpulver."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Lazarett liegt nahe, Kriege brachten viele Verwundete. Die Ortsgeschichte vermutet aber, die Schweden hätten dort Verpflegung für Soldaten und Pferde gelagert. Das Gebälk des Fachwerkstadels hält nur mit Zapfen und Holznägeln; die Gemeinde nennt das eine Meisterleistung der Zimmermannskunst. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.aitrach.de/unsere-gemeinde/geschichtliches/entwicklung-unserer-gemeinde",
+"faktencheck": "korrigiert",
+"id": "323-aitrach/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "322-leutkirch",
+"anschluss": [
+"Bundestagswahl 2025: CDU in Aitrach und Leutkirch je 36,6 Prozent.",
+"Einwohner: Leutkirch hat rund achtmal so viele wie Aitrach."
+],
+"anschluesse": {
+"322-leutkirch": [
+"Bundestagswahl 2025: CDU in Aitrach und Leutkirch je 36,6 Prozent.",
+"Einwohner: Leutkirch hat rund achtmal so viele wie Aitrach."
+],
+"124-memmingen": [
+"Landesgrenze: Memmingen liegt in Bayern, Aitrach in Baden-Württemberg.",
+"Bundestagswahl 2025: In Memmingen lag die CSU vorn, in Aitrach die CDU."
+]
+},
+"ags": "08436004",
+"ortsteil": false,
+"km_vom_vorigen": 13.7
 },
 {
 "slug": "124-memmingen",
@@ -46728,20 +48549,17 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "123-wangen",
-"anschluss": [
-"Bundestagswahl 2025: In Wangen wählten 84,2 Prozent, in Memmingen 79,8.",
-"Fläche: Wangen ist größer als Memmingen, hat aber weniger Einwohner."
-],
+"anschluss_von": "323-aitrach",
+"anschluss": [],
 "anschluesse": {
-"123-wangen": [
-"Bundestagswahl 2025: In Wangen wählten 84,2 Prozent, in Memmingen 79,8.",
-"Fläche: Wangen ist größer als Memmingen, hat aber weniger Einwohner."
+"323-aitrach": [
+"Landesgrenze: Aitrach liegt in Baden-Württemberg, Memmingen in Bayern.",
+"Bundestagswahl 2025: In Aitrach lag die CDU vorn, in Memmingen die CSU."
 ]
 },
 "ags": "09764000",
 "ortsteil": false,
-"km_vom_vorigen": 42.4
+"km_vom_vorigen": 8.6
 },
 {
 "slug": "125-mindelheim",
@@ -46915,6 +48733,16 @@ window.QA_DATEN = {
 "Einwohner: Memmingen hat fast dreimal so viele wie Mindelheim."
 ],
 "anschluesse": {
+"324-tuerkheim": [
+"Mindelheim hat doppelt so viele Einwohner wie Türkheim."
+],
+"325-bad-woerishofen": [
+"Bad Wörishofen hat rund 1.600 Einwohner mehr als Mindelheim."
+],
+"326-buchloe": [
+"Kreisgrenze: Buchloe gehört zum Landkreis Ostallgäu, Mindelheim zum Landkreis Unterallgäu.",
+"Mindelheim hat rund 1.500 Einwohner mehr als Buchloe."
+],
 "124-memmingen": [
 "Kennzeichen: In Memmingen steht MM am Auto, in Mindelheim MN.",
 "Einwohner: Memmingen hat fast dreimal so viele wie Mindelheim."
@@ -46923,6 +48751,834 @@ window.QA_DATEN = {
 "ags": "09778173",
 "ortsteil": false,
 "km_vom_vorigen": 24.2
+},
+{
+"slug": "324-tuerkheim",
+"name": "Türkheim",
+"lat": 48.05972,
+"lon": 10.63944,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Türkheim",
+"steckbrief": "Gemeinde im Unterallgäu mit rund 7.500 Einwohnern, 40 km südwestlich von Augsburg.",
+"frage": "Der Name Türkheim klingt nach Türken. Woher stammt er nach der Ortsgeschichte der Gemeinde?",
+"optionen": [
+"Er erinnert an gefangene Türken.",
+"Er geht auf einen Gründer namens Turko zurück.",
+"Er bedeutet „Heim des Thüringers\".",
+"Er erinnert an einen Grafen namens Türk."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Türken liegen beim heutigen Namen nahe, doch der Ortsname hat mit ihnen nichts zu tun. Die Ortsgeschichte deutet ihn als „Heim des Thüringers\": Die Merowinger siedelten ein thüringisches Familienband an, aus dessen Siedlung sich Türkheim über Jahrhunderte entwickelte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tuerkheim.de/gemeinde/geschichte-tuerkheims/",
+"faktencheck": "unsicher",
+"id": "324-tuerkheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Türkheim",
+"steckbrief": "Gemeinde im Landkreis Unterallgäu, rund 32 km² groß, 40 km südwestlich von Augsburg.",
+"frage": "Wie viele Einwohner hat Türkheim?",
+"optionen": [
+"unter 3.000",
+"3.000 bis unter 5.000",
+"5.000 bis unter 7.000",
+"7.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ländliches Unterallgäu, 40 Kilometer bis Augsburg: Da schätzt man leicht kleiner. Türkheim zählte Ende 2025 aber 7.454 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "324-tuerkheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Türkheim",
+"steckbrief": "Gemeinde im Unterallgäu mit rund 7.500 Einwohnern, 40 km südwestlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der alte Zehentstadel wurde zum Feuerwehrhaus umgebaut.",
+"Die Loretokapelle ist der Santa Casa nachgebildet.",
+"Zur Kapuzinerkirche gehörte einst ein Kloster."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein großer alter Stadel klingt nach Platz für Löschfahrzeuge. Doch der Zehentstadel war Abgabestelle für den Zehent, eine Abgabe, und wurde zum Pfarrheim Pater Rupert Mayer umgebaut. Die Loretokapelle bildet die Santa Casa zu Loreto nach, das dort verehrte Haus Marias. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.tuerkheim.de/gemeinde/kirchen/",
+"faktencheck": "unsicher",
+"id": "324-tuerkheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Türkheim",
+"steckbrief": "Ländliche Gemeinde im Unterallgäu mit rund 7.500 Einwohnern, 40 km südwestlich von Augsburg.",
+"frage": "Bei der Bundestagswahl 2025 lag in Türkheim die CSU vorn. Welche Partei wurde bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"FREIE WÄHLER",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Bayern denkt man nach der CSU leicht an die Freien Wähler oder die SPD. In Türkheim kam aber die AfD mit 23,6 Prozent auf Platz zwei, hinter der CSU mit 36,3 Prozent. Die Freien Wähler erreichten 5,5 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "324-tuerkheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Türkheim",
+"steckbrief": "Gemeinde an der Wertach mit rund 7.500 Einwohnern, 40 km südwestlich von Augsburg.",
+"frage": "Die Salamanderfabrik in Türkheim entstand durch den Umbau eines älteren Betriebs. Was für ein Betrieb war das?",
+"optionen": [
+"Umgebaut wurde eine Gerberei.",
+"Umgebaut wurde eine Brauerei.",
+"Umgebaut wurde eine Holzschleiferei.",
+"Umgebaut wurde eine Ziegelei."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Salamander denkt man an Schuhe und Leder, also an eine Gerberei. Doch Jakob Sigle erwarb eine Holzschleiferei an der Wertach und baute sie zur Salamanderfabrik aus. Eine Holzschleiferei mahlt Holz zu Holzschliff, einem Rohstoff für Papier. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tuerkheim.de/gemeinde/geschichte-tuerkheims/",
+"faktencheck": "korrigiert",
+"id": "324-tuerkheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Türkheim",
+"steckbrief": "Gemeinde im Unterallgäu mit rund 7.500 Einwohnern, 40 km südwestlich von Augsburg.",
+"frage": "Wie viele Einwohner leben in Türkheim im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 150",
+"150 bis unter 200",
+"200 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Allgäu klingt nach Wiesen, Kühen und viel Platz, also nach wenigen Menschen je Quadratkilometer. Türkheim ist aber dichter besiedelt als gedacht: 7.454 Einwohner, Stand Ende 2025, auf 31,56 Quadratkilometern ergeben 236. Richtig war 4.",
+"quelle": "berechnet aus Wikidata P1082 (Einwohner, Stand 2025-12-31) und Wikidata P2046 (Fläche)",
+"faktencheck": "bestätigt",
+"id": "324-tuerkheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Türkheim",
+"steckbrief": "Gemeinde im Unterallgäu mit rund 7.500 Einwohnern, 40 km südwestlich von Augsburg.",
+"frage": "Die Wallanlage auf dem Haldenberg trägt den Namen Römerschanze. Wer legte sie nach der Ortsgeschichte an?",
+"optionen": [
+"Kelten, die etwa 500 vor Christus in die Gegend kamen.",
+"Römer im 4. Jahrhundert.",
+"Alamannen im 5. Jahrhundert.",
+"Schweden im Dreißigjährigen Krieg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name Römerschanze lenkt auf die Römer, zumal die Gegend zur römischen Provinz Raetien gehörte. Doch die Wallanlage bauten die Kelten, die etwa 500 vor Christus in die Gegend vordrangen. Sie diente wohl religiösen Zwecken. Eine römische Befestigung stand auf dem Goldberg. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuerkheim.de/gemeinde/geschichte-tuerkheims/",
+"faktencheck": "korrigiert",
+"id": "324-tuerkheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Türkheim",
+"steckbrief": "Gemeinde im Unterallgäu mit rund 7.500 Einwohnern, 40 km südwestlich von Augsburg.",
+"frage": "Im Türkheimer Ortsteil Berg steht eine Kapelle des heiligen Wendelin. Was gab nach Angaben der Gemeinde den Anlass zu ihrem Bau?",
+"optionen": [
+"Ein Großbrand hatte Berg verwüstet.",
+"In Ettringen war eine Viehseuche ausgebrochen.",
+"Ein Hochwasser der Wertach hatte Berg getroffen.",
+"Ein Pilger hatte Reliquien aus Rom mitgebracht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Brand oder Hochwasser liegt als Anlass für eine Kapelle nahe. Doch Wendelin gilt als Schutzpatron des Viehs: Anlass war eine Viehseuche in Ettringen. Wegen des Spanischen Erbfolgekriegs verzögerte sich der Bau; errichtet hat die Kapelle der Ettringer Hafner und Baumeister Adam Stiller. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tuerkheim.de/gemeinde/kirchen/",
+"faktencheck": "unsicher",
+"id": "324-tuerkheim/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "125-mindelheim",
+"anschluss": [
+"Einwohner: Mindelheim hat rund doppelt so viele wie Türkheim.",
+"Kennzeichen: In Türkheim wie in Mindelheim steht MN am Auto."
+],
+"anschluesse": {
+"125-mindelheim": [
+"Einwohner: Mindelheim hat rund doppelt so viele wie Türkheim.",
+"Kennzeichen: In Türkheim wie in Mindelheim steht MN am Auto."
+],
+"325-bad-woerishofen": [
+"Bad Wörishofen hat fast zweieinhalbmal so viele Einwohner wie Türkheim."
+],
+"326-buchloe": [
+"Kreisgrenze: Buchloe gehört zum Landkreis Ostallgäu, Türkheim zum Landkreis Unterallgäu.",
+"Buchloe hat fast doppelt so viele Einwohner wie Türkheim."
+],
+"327-igling": [
+"Kreisgrenze: Igling gehört zum Landkreis Landsberg am Lech, Türkheim zum Landkreis Unterallgäu.",
+"Türkheim hat dreimal so viele Einwohner wie Igling."
+],
+"126-landsberg": [
+"Kreisgrenze: Landsberg am Lech gehört zum Landkreis Landsberg am Lech, Türkheim zum Landkreis Unterallgäu.",
+"Landsberg am Lech hat viermal so viele Einwohner wie Türkheim."
+]
+},
+"ags": "09778203",
+"ortsteil": false,
+"km_vom_vorigen": 11.0
+},
+{
+"slug": "325-bad-woerishofen",
+"name": "Bad Wörishofen",
+"lat": 48.00583,
+"lon": 10.59694,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Wörishofen",
+"steckbrief": "Die Stadt hat rund 17.000 Einwohner und liegt 46 km südwestlich von Augsburg.",
+"frage": "1890 stimmte der Gemeinderat darüber ab, Wörishofen zum Kurort zu erheben. Wie ging die Abstimmung aus?",
+"optionen": [
+"Alle Gemeinderäte stimmten geschlossen dafür.",
+"Eine Stimme Mehrheit gab den Ausschlag.",
+"Die Mehrheit betrug drei Stimmen.",
+"Die Mehrheit betrug sechs Stimmen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer heute durch die Kurstadt geht, vermutet einen einigen Gemeinderat. Doch die Entscheidung war knapp: Nur eine Stimme Mehrheit machte Wörishofen zum Kurort. Was im Rückblick folgerichtig wirkt, war damals umstritten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen",
+"faktencheck": "bestätigt",
+"id": "325-bad-woerishofen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Wörishofen",
+"steckbrief": "Die Stadt hat rund 17.000 Einwohner und liegt 46 km südwestlich von Augsburg.",
+"frage": "Wie groß ist das Stadtgebiet von Bad Wörishofen?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 45 km²",
+"45 bis unter 70 km²",
+"70 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine kompakte Kurstadt denkt, schätzt die Fläche klein. Das Stadtgebiet misst aber 57,79 Quadratkilometer; auf jeden kommen rund 292 Einwohner (Stand Ende 2025). Richtig war 3.",
+"quelle": "Wikidata P2046; Dichte berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31)",
+"faktencheck": "bestätigt",
+"id": "325-bad-woerishofen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bad Wörishofen",
+"steckbrief": "Die Stadt hat rund 17.000 Einwohner und liegt 46 km südwestlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Den Titel „Bad“ verlieh das bayerische Staatsministerium.",
+"Das Kneippen zählt zum Weltnaturerbe der UNESCO.",
+"In der Stadt fand ein Deutscher Barfußwandertag statt."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die UNESCO klingt glaubwürdig, denn Kneippen ist tatsächlich als Kulturerbe anerkannt. Aber nicht als Natur: Die Deutsche UNESCO-Kommission nahm das Kneippen als traditionelles Wissen ins bundesweite Verzeichnis des immateriellen Kulturerbes auf. Weltnaturerbe sind Landschaften, keine Heilmethoden. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen",
+"faktencheck": "bestätigt",
+"id": "325-bad-woerishofen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Wörishofen",
+"steckbrief": "Die Stadt hat rund 17.000 Einwohner und liegt 46 km südwestlich von Augsburg.",
+"frage": "Wie hoch war die Wahlbeteiligung in Bad Wörishofen bei der Bundestagswahl 2025?",
+"optionen": [
+"80 % oder mehr",
+"76 bis unter 80 %",
+"72 bis unter 76 %",
+"unter 72 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein beschaulicher Kurort klingt nicht nach politischem Eifer, deshalb schätzen viele niedriger. Doch bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Bad Wörishofen bei 80,8 Prozent – mehr als vier von fünf Wahlberechtigten gaben ihre Stimme ab. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "325-bad-woerishofen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Optionen 1, 3 und 4 bleiben, Option 2 neu: „2. Die Wasserkuren des Ortspfarrers lockten sie.“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein „Bad“ verbindet man meist mit einer Heilquelle. Den Anstoß gab aber Pfarrer Sebastian Kneipp mit seinen Wasserkuren: Schon vor 1886 kamen immer mehr Hilfesuchende zu ihm. Sein Buch „Meine Wasserkur“ (1886) machte seine Lehre dann weithin bekannt. Richtig war 2.",
+"quelle": "Neue Deutsche Biographie, deutsche-biographie.de/sfz43187.html",
+"faktencheck": "korrigiert",
+"id": "325-bad-woerishofen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bad Wörishofen",
+"steckbrief": "Die Stadt hat rund 17.000 Einwohner und liegt 46 km südwestlich von Augsburg.",
+"frage": "Zu welchem Landkreis gehört Bad Wörishofen?",
+"optionen": [
+"Ostallgäu",
+"Augsburg",
+"Unterallgäu",
+"Günzburg"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Augsburg lässt an den Landkreis Augsburg denken, und beim Allgäu denken viele zuerst an das Ostallgäu mit seinen Bergen. Bad Wörishofen gehört aber zum Landkreis Unterallgäu; das Hauptkennzeichen ist MN. Richtig war 3.",
+"quelle": "dewiki Infobox; Kennzeichen: Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "325-bad-woerishofen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Wörishofen",
+"steckbrief": "Die Stadt hat rund 17.000 Einwohner und liegt 46 km südwestlich von Augsburg.",
+"frage": "1629 wütete in Wörishofen die Pest. Wie viele Höfe blieben nach der Stadtgeschichte von ihr verschont?",
+"optionen": [
+"Zwölf Höfe blieben verschont.",
+"Acht Höfe blieben verschont.",
+"Fünf Höfe blieben verschont.",
+"Zwei Höfe blieben verschont."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Seuche denkt man, ein guter Teil des Dorfes komme davon. Doch die Pest traf Wörishofen mit voller Wucht: Nach der Stadtgeschichte blieben nur zwei Höfe verschont. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen",
+"faktencheck": "korrigiert",
+"id": "325-bad-woerishofen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Wörishofen",
+"steckbrief": "Die Stadt hat rund 17.000 Einwohner und liegt 46 km südwestlich von Augsburg.",
+"frage": "Bei Bad Wörishofen liegt der Allgäu Skyline Park. Wer machte nach der Stadtgeschichte aus einem kleinen Vergnügungsort diesen Park?",
+"optionen": [
+"Eine Schaustellerfamilie baute ihn aus.",
+"Die Stadt baute ihn als Kurattraktion aus.",
+"Ein Freizeitkonzern aus den USA baute ihn aus.",
+"Ein Verein von Achterbahnfans baute ihn aus."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein großer Freizeitpark neben einer Kurstadt wirkt wie ein Projekt der Stadt oder eines Konzerns. Doch die Schaustellerfamilie Löwenthal übernahm einen kleinen Vergnügungsort bei Bad Wörishofen und baute ihn zum Freizeitpark aus. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bad-woerishofen.de/kneipp-gesundheit-wellness/kneipp-leben-stadt-wissenswertes/stadtgeschichte-von-bad-woerishofen",
+"faktencheck": "korrigiert",
+"id": "325-bad-woerishofen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Die katholische Kirche St. Ulrich hat einen freistehenden, spitzen, dreieckigen Glockenturm mit einer dreiseitigen Glockenstube. Was zeigen Turm und Glockenstube von oben gesehen? (Optionen 1 bis 4 bleiben)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer katholischen Kirche liegt ein Kreuz nahe. Der dreieckige Turm von St. Ulrich in der Wörishofener Gartenstadt trägt aber oben eine ebenfalls dreiseitige Glockenstube. Von oben gesehen ergeben beide zusammen einen Davidsstern. Der Turm ist ein Wahrzeichen der Stadt. Richtig war 3.",
+"quelle": "Stadt Bad Wörishofen, bad-woerishofen.de",
+"faktencheck": "korrigiert",
+"id": "325-bad-woerishofen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "324-tuerkheim",
+"anschluss": [
+"Einwohner: Bad Wörishofen zählt über doppelt so viele wie Türkheim.",
+"Die Bahnstrecke nach Bad Wörishofen beginnt in Türkheim."
+],
+"anschluesse": {
+"125-mindelheim": [
+"Bad Wörishofen hat rund 1.600 Einwohner mehr als Mindelheim."
+],
+"324-tuerkheim": [
+"Einwohner: Bad Wörishofen zählt über doppelt so viele wie Türkheim.",
+"Die Bahnstrecke nach Bad Wörishofen beginnt in Türkheim."
+],
+"326-buchloe": [
+"Kreisgrenze: Buchloe gehört zum Landkreis Ostallgäu, Bad Wörishofen zum Landkreis Unterallgäu.",
+"Bad Wörishofen hat rund 3.100 Einwohner mehr als Buchloe."
+],
+"327-igling": [
+"Kreisgrenze: Igling gehört zum Landkreis Landsberg am Lech, Bad Wörishofen zum Landkreis Unterallgäu.",
+"Bad Wörishofen hat fast siebenmal so viele Einwohner wie Igling."
+]
+},
+"ags": "09778116",
+"ortsteil": false,
+"km_vom_vorigen": 6.8
+},
+{
+"slug": "326-buchloe",
+"name": "Buchloe",
+"lat": 48.0375,
+"lon": 10.725,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Buchloe",
+"steckbrief": "Stadt mit rund 13.800 Einwohnern, 39 km südlich von Augsburg.",
+"frage": "Im Bauernkrieg 1525 ließ Herzog Ludwig von Baiern Buchloe zerstören. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Er wollte einem Angriff auf Landsberg zuvorkommen.",
+"Buchloer Bauern hatten Landsberg bereits geplündert.",
+"Buchloe hatte ihm die Huldigung verweigert.",
+"Die Stadt sollte als Pestherd niedergebrannt werden."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Strafaktion gegen aufständische Bauern liegt nahe, so endete der Bauernkrieg vielerorts. In Buchloe war es anders: Der Herzog fürchtete irrtümlich, der Buchloer Haufen, eine Bauernschar, werde seine Stadt Landsberg angreifen, und wollte dem zuvorkommen. Seine Soldaten zerstörten Buchloe. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.buchloe.de/buchloe-umgebung/geschichte/buchloe/",
+"faktencheck": "bestätigt",
+"id": "326-buchloe/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Buchloe",
+"steckbrief": "Stadt mit rund 13.800 Einwohnern, 39 km südlich von Augsburg.",
+"frage": "Wie groß ist die Fläche der Stadt Buchloe samt ihrer Ortsteile?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 45 km²",
+"45 bis unter 70 km²",
+"70 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Kleinstadt stellt man sich kompakt vor. Doch zur Stadt gehören auch die eingemeindeten Orte Lindenberg, Honsolgen und Hausen. Zusammen kommt Buchloe auf 36,18 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "326-buchloe/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Buchloe",
+"steckbrief": "Stadt mit rund 13.800 Einwohnern, 39 km südlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kaiser Karl IV. verlieh Buchloe Marktrecht und Blutbann.",
+"Das Hochstift Augsburg war jahrhundertelang Grundherr von Buchloe.",
+"Der Bahnanschluss brachte Buchloe einen langen Niedergang."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Blutbann klingt erfunden, ist aber belegt: das Recht, über Leben und Tod zu richten. Buchloe wurde so Sitz eines Hochgerichts mit Stock und Galgen. Gelogen war der Niedergang: Als Bahnstation an der Ludwig-Süd-Nord-Bahn erlebte Buchloe einen enormen Aufschwung. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.buchloe.de/buchloe-umgebung/geschichte/buchloe/",
+"faktencheck": "bestätigt",
+"id": "326-buchloe/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Buchloe",
+"steckbrief": "Stadt in Bayern mit rund 13.800 Einwohnern, 39 km südlich von Augsburg.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Buchloe bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 26 %",
+"26 bis unter 31 %",
+"31 bis unter 36 %",
+"36 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele Parteien teilen sich heute die Stimmen, darum tippen manche niedriger. Doch in Buchloe holte die CSU 38,2 Prozent der Zweitstimmen und lag damit klar vorn. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "326-buchloe/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Buchloe",
+"steckbrief": "Stadt mit rund 13.800 Einwohnern, 39 km südlich von Augsburg.",
+"frage": "Ab 1299 war für kurze Zeit ein Kloster Grundherr von Buchloe. Wo lag dieses Kloster?",
+"optionen": [
+"Das Kloster lag in Tirol.",
+"Das Kloster lag in Franken.",
+"Das Kloster lag im Elsass.",
+"Das Kloster lag in Böhmen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Man vermutet einen Grundherrn aus der Nähe, Franken liegt immerhin im selben Land. Doch Grundherr war das Zisterzienserkloster Stams in Tirol, allerdings nur kurze Zeit. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.buchloe.de/buchloe-umgebung/geschichte/buchloe/",
+"faktencheck": "bestätigt",
+"id": "326-buchloe/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Buchloe",
+"steckbrief": "Stadt mit rund 13.800 Einwohnern, 39 km südlich von Augsburg.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Buchloe?",
+"optionen": [
+"MN",
+"OAL",
+"LL",
+"A"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Augsburg ist die nächste Großstadt, darum liegt A nahe. Buchloe gehört aber zum Landkreis Ostallgäu, und dessen Hauptkennzeichen ist OAL. Daneben geben Kreise oft auch frühere Kennzeichen aus. Richtig war 2.",
+"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "326-buchloe/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Buchloe",
+"steckbrief": "Stadt mit rund 13.800 Einwohnern, 39 km südlich von Augsburg.",
+"frage": "Buchloe zählt den Nobelpreisträger Erwin Neher zu seinen Persönlichkeiten. Wofür erhielt er den Preis?",
+"optionen": [
+"Er erhielt den Nobelpreis für Physik.",
+"Er erhielt den Nobelpreis für Chemie.",
+"Er erhielt den Nobelpreis für Medizin.",
+"Er erhielt den Nobelpreis für Wirtschaft."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Forschern denken viele zuerst an Physik oder Chemie. Erwin Neher aber ist Nobelpreisträger der Medizin. Im Buchloer Heimatmuseum ist ihm ein eigenes Kabinett gewidmet. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.buchloe.de/buchloe-umgebung/kurzportrait-der-stadt/",
+"faktencheck": "bestätigt",
+"id": "326-buchloe/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Buchloe",
+"steckbrief": "Stadt mit rund 13.800 Einwohnern, 39 km südlich von Augsburg.",
+"frage": "Ein Augsburger Kaufmann gründete 1587 in Buchloe eine Wollfabrik. Was wurde im frühen 18. Jahrhundert aus ihr?",
+"optionen": [
+"Aus ihr wurde eine Kaserne.",
+"Aus ihr wurde ein Arbeits- und Zuchthaus.",
+"Aus ihr wurde eine Brauerei.",
+"Aus ihr wurde eine Lateinschule."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Kaserne liegt nahe, große Bauten wurden oft so umgenutzt. Gegründet hatte Karl Imhof die Fabrik, um verarmten Bürgern Arbeit und Verdienst zu geben. Später wurde sie Arbeits- und Zuchthaus. Als berühmtester Insasse gilt Matthias Klostermayr, der bayerische Hiasl, der dort 1771 nach seiner Festnahme einsaß. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.buchloe.de/buchloe-umgebung/geschichte/buchloe/",
+"faktencheck": "korrigiert",
+"id": "326-buchloe/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Buchloe",
+"steckbrief": "Stadt mit rund 13.800 Einwohnern, 39 km südlich von Augsburg.",
+"frage": "Wie deutet die Ortsgeschichte den Namen des Buchloer Ortsteils Honsolgen?",
+"optionen": [
+"Hier sammelte man früher viel Honig.",
+"Hier sprudelte früher eine Solequelle.",
+"Der Ort lag in dunkler, mooriger Erde.",
+"Der Ort lag auf einer sonnigen Anhöhe."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Honig oder Sole hört man leicht aus dem heutigen Namen heraus. Die Ortsgeschichte erklärt ihn anders: Der Name rührt wohl von der Lage in schwarzbrauner, mooriger Erde her. „Hun“ in der alten Form Hunsole ist das germanische Wort für dunkel oder schwarz. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.buchloe.de/buchloe-umgebung/geschichte/honsolgen/",
+"faktencheck": "korrigiert",
+"id": "326-buchloe/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Buchloe",
+"steckbrief": "Stadt mit rund 13.800 Einwohnern, 39 km südlich von Augsburg.",
+"frage": "Buchloe ist seit 1954 Stadt, war es aber schon einmal. Wer hatte Buchloe im Mittelalter zur Stadt erhoben?",
+"optionen": [
+"König Rudolf von Habsburg erhob Buchloe zur Stadt.",
+"Kaiser Friedrich Barbarossa erhob Buchloe zur Stadt.",
+"Herzog Heinrich der Löwe erhob Buchloe zur Stadt.",
+"Kaiser Maximilian I. erhob Buchloe zur Stadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Barbarossa liegt nahe, sein Name steht für viele Stadtgründungen. Doch Buchloe erhob König Rudolf von Habsburg zur Stadt, vermutlich auf Antrag Volkmars des Weisen von Kemnat. Zwischenzeitlich verlor Buchloe den Stadtstatus; die erneute Erhebung kam auch wegen des Zuzugs Heimatvertriebener. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.buchloe.de/buchloe-umgebung/geschichte/buchloe/",
+"faktencheck": "bestätigt",
+"id": "326-buchloe/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "325-bad-woerishofen",
+"anschluss": [
+"In Bad Wörishofen steht MN am Auto, in Buchloe OAL.",
+"Bundestagswahl 2025: Buchloe hatte eine höhere Wahlbeteiligung als Bad Wörishofen."
+],
+"anschluesse": {
+"125-mindelheim": [
+"Kreisgrenze: Mindelheim gehört zum Landkreis Unterallgäu, Buchloe zum Landkreis Ostallgäu.",
+"Mindelheim hat rund 1.500 Einwohner mehr als Buchloe."
+],
+"324-tuerkheim": [
+"Kreisgrenze: Türkheim gehört zum Landkreis Unterallgäu, Buchloe zum Landkreis Ostallgäu.",
+"Buchloe hat fast doppelt so viele Einwohner wie Türkheim."
+],
+"325-bad-woerishofen": [
+"In Bad Wörishofen steht MN am Auto, in Buchloe OAL.",
+"Bundestagswahl 2025: Buchloe hatte eine höhere Wahlbeteiligung als Bad Wörishofen."
+],
+"327-igling": [
+"Kreisgrenze: Igling gehört zum Landkreis Landsberg am Lech, Buchloe zum Landkreis Ostallgäu.",
+"Buchloe hat gut fünfmal so viele Einwohner wie Igling."
+],
+"126-landsberg": [
+"Kreisgrenze: Landsberg am Lech gehört zum Landkreis Landsberg am Lech, Buchloe zum Landkreis Ostallgäu.",
+"Landsberg am Lech hat gut doppelt so viele Einwohner wie Buchloe."
+]
+},
+"ags": "09777121",
+"ortsteil": false,
+"km_vom_vorigen": 10.2
+},
+{
+"slug": "327-igling",
+"name": "Igling",
+"lat": 48.06667,
+"lon": 10.8,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Igling",
+"steckbrief": "Gemeinde mit gut 2.500 Einwohnern, 35 km südlich von Augsburg.",
+"frage": "Im Gemeindewappen züngeln drei goldene Flammen aus Wolken über drei Bergkuppen. Was bedeutet das Bild?",
+"optionen": [
+"Es erinnert an einen großen Dorfbrand.",
+"Es zeigt die Feuer früherer Kalköfen.",
+"Es erinnert an einen Blitzschlag in die Kirche.",
+"Es verbildlicht den Namen einer Familie."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Flammen und Wolken lassen an Feuer oder Gewitter denken, an Brand oder Blitz. Gemeint ist ein Name: Es ist das Stammwappen der Münchner Patrizierfamilie von Donnersberg; Flammen aus Wolken über Bergen spielen auf ihn an. Die Gemeinde würdigt damit die Donnersberger als Förderer und Bauherren. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Igling",
+"faktencheck": "bestätigt",
+"id": "327-igling/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Igling",
+"steckbrief": "Gemeinde mit gut 2.500 Einwohnern, 35 km südlich von Augsburg.",
+"frage": "Wie viele Einwohner leben in Igling durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 600",
+"600 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Augsburg lässt an einen dicht bebauten Vorort denken. Doch gut 2.500 Einwohner verteilen sich auf rund 26 Quadratkilometer, das ergibt etwa 97 je Quadratkilometer (Stand Ende 2025). Richtig war 1.",
+"quelle": "Wikidata P1082 (Stand 2025-12-31) und P2046, Dichte daraus berechnet",
+"faktencheck": "bestätigt",
+"id": "327-igling/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Igling",
+"steckbrief": "Gemeinde mit gut 2.500 Einwohnern, 35 km südlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Igling gehört zum bayerischen Regierungsbezirk Schwaben.",
+"Im Zweiten Weltkrieg beschlagnahmte die SS Schloss Igling.",
+"Unteriglings Pfarrkirche ist Johannes dem Täufer geweiht."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Augsburg, die Hauptstadt Schwabens, ist nah; das macht die Aussage glaubhaft. Doch Igling liegt zwar westlich des Lechs, gehört aber mit dem Landkreis Landsberg am Lech zu Oberbayern. Die SS beschlagnahmte tatsächlich das Schloss, und Unteriglings Pfarrkirche ist Johannes dem Täufer geweiht. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Igling",
+"faktencheck": "unsicher",
+"id": "327-igling/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Igling",
+"steckbrief": "Gemeinde mit gut 2.500 Einwohnern im Landkreis Landsberg am Lech, 35 km südlich von Augsburg.",
+"frage": "Welche Partei wurde in Igling bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"SPD",
+"AfD",
+"FREIE WÄHLER"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Umland von München und Augsburg sind die Grünen oft stark, und in Igling kamen sie tatsächlich nah heran. Zweitstärkste Kraft hinter der CSU wurde aber die AfD, knapp vor den Grünen, dann folgten SPD und Freie Wähler. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "327-igling/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Igling",
+"steckbrief": "Gemeinde mit gut 2.500 Einwohnern, 35 km südlich von Augsburg.",
+"frage": "1504 erwarb ein Augsburger Patrizier die Hofmark Igling samt Burg. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Er hatte die Tochter des Burgherrn geheiratet.",
+"Er erbte sie von einem kinderlosen Onkel.",
+"Er hatte einen Rechtsstreit um sie gewonnen.",
+"Er hatte den Herzog im Krieg unterstützt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Heirat und Erbe waren die üblichen Wege zu einem Adelsgut, daher liegt das nahe. Johann IX. Langenmantel vom Sparren erwarb die Hofmark, einen adeligen Herrschaftsbezirk, am Nikolaustag aber wegen seiner Unterstützung für Herzog Albrecht IV. von Bayern-München im Landshuter Erbfolgekrieg. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Igling",
+"faktencheck": "unsicher",
+"id": "327-igling/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Igling",
+"steckbrief": "Gemeinde mit gut 2.500 Einwohnern, 35 km südlich von Augsburg.",
+"frage": "Wie weit ist es von Igling in Luftlinie bis zur Landeshauptstadt München?",
+"optionen": [
+"unter 65 km",
+"65 bis unter 85 km",
+"85 bis unter 105 km",
+"105 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Weil Augsburg die nächste Großstadt ist, schätzt man München leicht deutlich weiter weg. Doch bis zur Landeshauptstadt sind es in Luftlinie nur 58 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "327-igling/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Igling",
+"steckbrief": "Gemeinde mit gut 2.500 Einwohnern, 35 km südlich von Augsburg.",
+"frage": "Wie viele sozialversicherungspflichtige Arbeitsplätze gab es 2018 in der Gemeinde Igling?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf dieser Größe stellt man sich als Wohnort von Pendlern vor, die nach Landsberg oder Augsburg zur Arbeit fahren. Doch Igling zählte 2018 1.409 solche Arbeitsplätze und hatte mehr Einpendler als Auspendler. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Igling",
+"faktencheck": "unsicher",
+"id": "327-igling/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Igling",
+"steckbrief": "Gemeinde mit gut 2.500 Einwohnern, 35 km südlich von Augsburg.",
+"frage": "Bei Igling lag ein KZ-Außenlager namens „Kaufering II – Igling“. Welchem Konzentrationslager war es unterstellt?",
+"optionen": [
+"Es war ein Außenlager des KZ Dachau.",
+"Es war ein Außenlager des KZ Flossenbürg.",
+"Es war ein Außenlager des KZ Mauthausen.",
+"Es war ein Außenlager des KZ Natzweiler."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Flossenbürg liegt ebenfalls in Bayern, daher wirkt es naheliegend. Doch „Kaufering II – Igling“ war ein Außenlager des KZ Dachau und gehörte zum Außenlagerkomplex Kaufering. An die Toten erinnern bei Igling KZ-Friedhöfe mit Gedenksteinen, einer davon in einer Kiesgrube. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Igling",
+"faktencheck": "bestätigt",
+"id": "327-igling/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "326-buchloe",
+"anschluss": [
+"Kreisgrenze: In Buchloe steht OAL am Auto, in Igling LL.",
+"Iglings Ortsteil Holzhausen trägt den Namenszusatz „bei Buchloe“."
+],
+"anschluesse": {
+"324-tuerkheim": [
+"Kreisgrenze: Türkheim gehört zum Landkreis Unterallgäu, Igling zum Landkreis Landsberg am Lech.",
+"Türkheim hat dreimal so viele Einwohner wie Igling."
+],
+"325-bad-woerishofen": [
+"Kreisgrenze: Bad Wörishofen gehört zum Landkreis Unterallgäu, Igling zum Landkreis Landsberg am Lech.",
+"Bad Wörishofen hat fast siebenmal so viele Einwohner wie Igling."
+],
+"326-buchloe": [
+"Kreisgrenze: In Buchloe steht OAL am Auto, in Igling LL.",
+"Iglings Ortsteil Holzhausen trägt den Namenszusatz „bei Buchloe“."
+],
+"126-landsberg": [
+"Landsberg am Lech hat gut elfmal so viele Einwohner wie Igling.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Landsberg am Lech die Grünen, in Igling die AfD."
+]
+},
+"ags": "09181127",
+"ortsteil": false,
+"km_vom_vorigen": 6.4
 },
 {
 "slug": "126-landsberg",
@@ -47110,20 +49766,1104 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "125-mindelheim",
-"anschluss": [
-"Einwohner: Landsberg hat fast doppelt so viele wie Mindelheim.",
-"Bundestagswahl 2025: Grüne in Landsberg 16,9, in Mindelheim 8,6 Prozent."
-],
+"anschluss_von": "327-igling",
+"anschluss": [],
 "anschluesse": {
-"125-mindelheim": [
-"Einwohner: Landsberg hat fast doppelt so viele wie Mindelheim.",
-"Bundestagswahl 2025: Grüne in Landsberg 16,9, in Mindelheim 8,6 Prozent."
+"324-tuerkheim": [
+"Kreisgrenze: Türkheim gehört zum Landkreis Unterallgäu, Landsberg am Lech zum Landkreis Landsberg am Lech.",
+"Landsberg am Lech hat viermal so viele Einwohner wie Türkheim."
+],
+"326-buchloe": [
+"Kreisgrenze: Buchloe gehört zum Landkreis Ostallgäu, Landsberg am Lech zum Landkreis Landsberg am Lech.",
+"Landsberg am Lech hat gut doppelt so viele Einwohner wie Buchloe."
+],
+"327-igling": [
+"Landsberg am Lech hat gut elfmal so viele Einwohner wie Igling.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Igling die AfD, in Landsberg am Lech die Grünen."
+],
+"328-greifenberg": [
+"Landsberg am Lech hat vierzehnmal so viele Einwohner wie Greifenberg."
 ]
 },
 "ags": "09181130",
 "ortsteil": false,
-"km_vom_vorigen": 28.1
+"km_vom_vorigen": 5.4
+},
+{
+"slug": "328-greifenberg",
+"name": "Greifenberg",
+"lat": 48.07111,
+"lon": 11.08361,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Greifenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Im Gemeindewappen von Greifenberg schreitet ein schwarzer Bär. Woher stammt er?",
+"optionen": [
+"Er steht für die früheren Wälder der Gegend.",
+"Er stammt aus dem Wappen früherer Gutsherren.",
+"Er war Zeichen eines alten Gasthauses.",
+"Er erinnert an einen hier erlegten Bären."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Greifenberg erwartet man einen Greif im Wappen. Tatsächlich stammen die Wellenstreifen aus dem Wappen der Greifen, nach denen die Hofmark benannt ist. Der schwarze Bär aber stammt aus dem Wappen der Perfall, die Greifenberg in ununterbrochener Erbfolge als Gutsherren besaßen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Greifenberg",
+"faktencheck": "bestätigt",
+"id": "328-greifenberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Greifenberg",
+"steckbrief": "Gemeinde im Landkreis Landsberg am Lech, 8,2 km² groß, 36 km südlich von Augsburg.",
+"frage": "Wie viele Einwohner hat Greifenberg?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 3.500",
+"3.500 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Gemeinde mit nur 8,2 Quadratkilometern Fläche schätzt man leicht klein. Doch Greifenberg ist dicht besiedelt: Ende 2025 lebten hier 2.137 Menschen. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "328-greifenberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Greifenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die CSU in Greifenberg bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 45 %",
+"45 bis unter 50 %",
+"50 bis unter 55 %",
+"55 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einer bayerischen Landgemeinde erwartet man schnell eine absolute CSU-Mehrheit. Bei der Bundestagswahl 2025 kam die CSU in Greifenberg aber auf 42,5 Prozent der Zweitstimmen. Zweitstärkste Partei wurden die Grünen mit 17,8 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "328-greifenberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Greifenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Hans der Greif war der Letzte des Geschlechts, nach dem die Hofmark Greifenberg hieß. Wie endete er?",
+"optionen": [
+"Er starb an der Pest auf seiner Burg.",
+"Er starb auf einem Kreuzzug gegen die Türken.",
+"Er wurde in einer Fehde mit Nachbarn erschlagen.",
+"Er ertrank bei einem Sturm im Ammersee."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Tod in einer Fehde mit Nachbarn passt gut ins Bild des Mittelalters. Hans der Greif aber zog 1396 mit dem Kreuzzug König Sigismunds gegen die Türken. Nach der Niederlage bei Nikopolis im walachischen Donautiefland ließ Sultan Bajesid Tausende Kreuzfahrer hinrichten, unter ihnen Hans. Mit ihm erlosch sein Geschlecht. Richtig war 2.",
+"quelle": "Gemeinde Greifenberg, greifenberg-ammersee.de/rathaus-verwaltung/lage-entwicklung-geschichte",
+"faktencheck": "korrigiert",
+"id": "328-greifenberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Greifenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Wie weit ist es von Greifenberg in Luftlinie bis zur Landeshauptstadt München?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 30 km",
+"30 bis unter 45 km",
+"45 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer Greifenberg von Augsburg aus verortet, hält München leicht für weiter entfernt. Tatsächlich liegt die Landeshauptstadt kaum ferner: 37 Kilometer Luftlinie nach München, 36 nach Augsburg. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "328-greifenberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Greifenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Der Greifenberger Landwirt und Maler Max Raffler schuf einen Kreuzweg für die Pfarrkirche Maria am Wege im nahen Windach. Aus wie vielen Bildern besteht er dort?",
+"optionen": [
+"Der Kreuzweg hat dort 17 Bilder.",
+"Der Kreuzweg hat dort 14 Bilder.",
+"Der Kreuzweg hat dort 15 Bilder.",
+"Der Kreuzweg hat dort 12 Bilder."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die meisten Kreuzwege haben 14 Stationen, deshalb liegt die vertraute Zahl nahe. Max Raffler, Landwirt aus Greifenberg und Vertreter der naiven Kunst, malte den Kreuzweg eigens für die Pfarrkirche Maria am Wege in Windach: 17 Bilder in leuchtenden, kraftvollen Landschaften. Richtig war 1.",
+"quelle": "Bistum Augsburg, bistum-augsburg.de; Gemeinde Greifenberg, greifenberg-ammersee.de",
+"faktencheck": "korrigiert",
+"id": "328-greifenberg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Greifenberg",
+"steckbrief": "Gemeinde mit rund 2.100 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "1936 bekam das Bahnhofsgebäude von Greifenberg ein Wandgemälde. Was zeigte es?",
+"optionen": [
+"Es zeigte eine Dampflok der Ammerseebahn.",
+"Es zeigte Ritter vor einer Burg.",
+"Es zeigte Bauern bei der Feldarbeit.",
+"Es zeigte Segelboote auf dem Ammersee."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. An einem Bahnhof läge eine Lokomotive als Motiv nahe. Das Bild am Gebäude im Heimatstil zeigte aber das Landleben: einen Bauern beim Aussäen, einen zweiten mit Pferdegespann und im Hintergrund die Kirche von Hechenwang. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Greifenberg",
+"faktencheck": "bestätigt",
+"id": "328-greifenberg/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "126-landsberg",
+"anschluss": [
+"Greifenberg liegt etwa 17 Kilometer östlich von Landsberg am Lech.",
+"Greifenbergs Hofmarksgericht ging 1849 an den Landrichter in Landsberg."
+],
+"anschluesse": {
+"303-althegnenberg": [
+"Kreisgrenze: Althegnenberg gehört zum Landkreis Fürstenfeldbruck, Greifenberg zum Landkreis Landsberg am Lech.",
+"Althegnenberg und Greifenberg sind fast gleich groß: rund 2.100 und 2.100 Einwohner."
+],
+"304-mammendorf": [
+"Kreisgrenze: Mammendorf gehört zum Landkreis Fürstenfeldbruck, Greifenberg zum Landkreis Landsberg am Lech.",
+"Mammendorf hat fast zweieinhalbmal so viele Einwohner wie Greifenberg."
+],
+"126-landsberg": [
+"Greifenberg liegt etwa 17 Kilometer östlich von Landsberg am Lech.",
+"Greifenbergs Hofmarksgericht ging 1849 an den Landrichter in Landsberg."
+],
+"329-inning": [
+"Kreisgrenze: Inning am Ammersee gehört zum Landkreis Starnberg, Greifenberg zum Landkreis Landsberg am Lech.",
+"Inning am Ammersee hat gut doppelt so viele Einwohner wie Greifenberg."
+],
+"330-woerthsee": [
+"Kreisgrenze: Wörthsee gehört zum Landkreis Starnberg, Greifenberg zum Landkreis Landsberg am Lech.",
+"Wörthsee hat zweieinhalbmal so viele Einwohner wie Greifenberg."
+],
+"331-gilching": [
+"Kreisgrenze: Gilching gehört zum Landkreis Starnberg, Greifenberg zum Landkreis Landsberg am Lech.",
+"Gilching hat neunmal so viele Einwohner wie Greifenberg."
+]
+},
+"ags": "09181123",
+"ortsteil": false,
+"km_vom_vorigen": 16.1
+},
+{
+"slug": "329-inning",
+"name": "Inning am Ammersee",
+"lat": 48.07636,
+"lon": 11.15232,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Inning am Ammersee",
+"steckbrief": "Gemeinde am Ammersee mit rund 4.800 Einwohnern, 32 km westlich von München.",
+"frage": "Worauf führt die Ortsgeschichte den Namen Inning zurück?",
+"optionen": [
+"Auf die „Leute des Uno“, die sich am Inninger Bach ansiedelten.",
+"Auf den Fluss Inn.",
+"Auf den heiligen Ingenuin.",
+"Auf einen Ritter Ingo."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Inn liegt nahe, schließlich fließt er durch Bayern. Doch die Ortsgeschichte nennt die „Leute des Uno“, die sich im 5./6. Jahrhundert am Inninger Bach ansiedelten. Zuerst schriftlich genannt wird der Ort als „Uninga“, in einer Schenkungsurkunde. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.inning.de/kultur/",
+"faktencheck": "korrigiert",
+"id": "329-inning/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Inning am Ammersee",
+"steckbrief": "Gemeinde im Landkreis Starnberg mit rund 4.800 Einwohnern, 32 km westlich von München.",
+"frage": "Wie groß ist das Gemeindegebiet von Inning am Ammersee?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 30 km²",
+"30 bis unter 50 km²",
+"50 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Ammersee und Wörthsee denkt, schätzt die Gemeinde schnell größer. Tatsächlich umfasst das Gemeindegebiet 24,42 Quadratkilometer, mit Ortsteilen wie Buch, Bachern, Schlagenhofen, Stegen und Arzla. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "329-inning/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Inning am Ammersee",
+"steckbrief": "Gemeinde am Ammersee mit rund 4.800 Einwohnern, 32 km westlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Rosen im Wappen stehen für alte Rosengärten.",
+"Die Kufe im Wappen erinnert an den Salzhandel.",
+"Im Volksmund heißt der Ammersee auch Bauernsee."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rosen wirken wie bloßer Schmuck, ein Rosengarten klingt daher harmlos. Doch die Rosen im Wappen verweisen auf die Seefelder Grafen zu Toerring-Jettenbach, lange die Herren über Inning. Die Kufe stimmt: Inning lag an der Unteren Salzstraße. Und Bauernsee heißt der Ammersee im Volksmund wirklich. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.inning.de/kultur/",
+"faktencheck": "bestätigt",
+"id": "329-inning/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Inning am Ammersee",
+"steckbrief": "Gemeinde im Landkreis Starnberg mit rund 4.800 Einwohnern, 32 km westlich von München.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in Inning am Ammersee: Welche Partei landete hinter der CSU auf Platz zwei?",
+"optionen": [
+"AfD",
+"SPD",
+"FDP",
+"Grüne"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit wurde die AfD 2025 zweitstärkste Kraft, das liegt nahe. In Inning am Ammersee aber holten die Grünen 18 Prozent und lagen damit hinter der CSU mit 44 Prozent. Die AfD folgte mit 10,1 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "329-inning/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Inning am Ammersee",
+"steckbrief": "Gemeinde mit rund 4.800 Einwohnern, 32 km westlich von München.",
+"frage": "In Gräbern des 5./6. Jahrhunderts lagen zwei kleine Waagschälchen. Was schließt die Ortsgeschichte daraus?",
+"optionen": [
+"Hier lag ein Handelsplatz mit Münzprüfern.",
+"Hier wirkte ein Heiler, der Arzneien abwog.",
+"Hier wusch man Gold aus der Amper.",
+"Hier arbeitete ein Goldschmied mit eigener Werkstatt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei feinen Waagen denkt man zuerst an Arznei oder Goldschmuck. Doch die Ortsgeschichte deutet die Münzwaagschälchen als Hinweis auf einen Handelsplatz nach der Völkerwanderung: Münzwäger prüften demnach, ob Münzen echt waren. Reihengräber aus dieser Zeit fand man in allen Ortsteilen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.inning.de/kultur/",
+"faktencheck": "korrigiert",
+"id": "329-inning/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Inning am Ammersee",
+"steckbrief": "Gemeinde mit rund 4.800 Einwohnern, 32 km westlich von München.",
+"frage": "Wie viele Einwohner leben in Inning am Ammersee im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 300",
+"300 bis unter 600",
+"600 oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu München lässt an dichte Besiedlung wie im Speckgürtel denken. Doch Inning am Ammersee liegt schon weit draußen am See: Im Schnitt kommen 197 Einwohner auf einen Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "329-inning/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Inning am Ammersee",
+"steckbrief": "Gemeinde am Ammersee mit rund 4.800 Einwohnern, 32 km westlich von München.",
+"frage": "Durch Stegen führte seit dem Mittelalter eine Brücke über die Amper. Holzpfähle stammen dort von einer Amperbrücke. Auf welches Jahr wurde sie datiert?",
+"optionen": [
+"Auf das Jahr 500 v. Chr.",
+"Auf das Jahr 15 v. Chr.",
+"Auf das Jahr 164 n. Chr.",
+"Auf das Jahr 1250 n. Chr."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Mittelalter liegt nahe, denn damals kassierte der Wirt der Tafern, dem Gasthaus, in Stegen den Brückenzoll. Doch hier überquerte man die Amper schon zur Römerzeit: Die Brücke, von der die Holzpfähle stammen, wurde auf 164 n. Chr. datiert. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.inning.de/kultur/",
+"faktencheck": "korrigiert",
+"id": "329-inning/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Inning am Ammersee",
+"steckbrief": "Gemeinde mit rund 4.800 Einwohnern, 32 km westlich von München.",
+"frage": "Ein Fries am Kaiserhaus am Marktplatz erinnert an Kaiser Heinrich II. Warum kam er 1021 nach Inning?",
+"optionen": [
+"Er kam zur Weihe einer neuen Kirche.",
+"Er zog mit seinem Heer nach Italien.",
+"Er kam zur Hochzeit eines Grafen.",
+"Er hielt hier einen Reichstag ab."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Erinnerungsfries lässt an einen feierlichen Anlass denken, etwa eine Weihe oder Hochzeit. Doch Heinrich II. war unterwegs: Mit seinem Heer zog er nach Italien und kam dabei durch Inning. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.inning.de/kultur/",
+"faktencheck": "bestätigt",
+"id": "329-inning/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Inning am Ammersee",
+"steckbrief": "Gemeinde am Ammersee mit rund 4.800 Einwohnern, 32 km westlich von München.",
+"frage": "Ab 1880 gab es Schifffahrt auch auf der Amper. Welchen Spitznamen trug dort das Schiff „Marie Therese“?",
+"optionen": [
+"Man nannte es die Amperente.",
+"Man nannte es die Moorhexe.",
+"Man nannte es die Seeschnecke.",
+"Man nannte es die Mooskuh."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Auf einem Fluss denkt man zuerst an Wasservögel, daher liegt die Ente nahe. Doch die „Marie Therese“ ging als „Mooskuh“ in die Geschichte ein. Werft und Heimathafen der Schiffe lagen in Stegen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.inning.de/kultur/",
+"faktencheck": "bestätigt",
+"id": "329-inning/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Inning am Ammersee",
+"steckbrief": "Gemeinde mit rund 4.800 Einwohnern, 32 km westlich von München.",
+"frage": "Im 18. Jahrhundert wurde die spätgotische Kirche zur heutigen Rokokokirche ausgebaut. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Die alte Kirche war zu klein.",
+"Sie war im Dreißigjährigen Krieg zerstört worden.",
+"Ein Blitzschlag hatte sie schwer beschädigt.",
+"Ihr Turm drohte einzustürzen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kriegsschäden liegen nahe, so traf es viele Kirchen. Doch die spätgotische Kirche blieb vom Dreißigjährigen Krieg weitgehend verschont; sie galt schlicht als zu klein. Pfarrer Maximilian von Baar setzte sich vehement für den Bau ein und vermachte ihm Geld, erlebte die Weihe aber nicht mehr. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.inning.de/kultur/",
+"faktencheck": "bestätigt",
+"id": "329-inning/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "328-greifenberg",
+"anschluss": [
+"Kennzeichen: In Greifenberg steht LL am Auto, in Inning STA.",
+"Wahlbeteiligung Bundestagswahl 2025: Inning am Ammersee 89,6, Greifenberg 87,3 Prozent."
+],
+"anschluesse": {
+"303-althegnenberg": [
+"Kreisgrenze: Althegnenberg gehört zum Landkreis Fürstenfeldbruck, Inning am Ammersee zum Landkreis Starnberg.",
+"Inning am Ammersee hat fast zweieinhalbmal so viele Einwohner wie Althegnenberg."
+],
+"304-mammendorf": [
+"Kreisgrenze: Mammendorf gehört zum Landkreis Fürstenfeldbruck, Inning am Ammersee zum Landkreis Starnberg.",
+"Mammendorf und Inning am Ammersee sind fast gleich groß: rund 5.100 und 4.800 Einwohner."
+],
+"305-maisach": [
+"Kreisgrenze: Maisach gehört zum Landkreis Fürstenfeldbruck, Inning am Ammersee zum Landkreis Starnberg.",
+"Maisach hat fast dreimal so viele Einwohner wie Inning am Ammersee."
+],
+"114-olching": [
+"Kreisgrenze: Olching gehört zum Landkreis Fürstenfeldbruck, Inning am Ammersee zum Landkreis Starnberg.",
+"Olching hat fast sechsmal so viele Einwohner wie Inning am Ammersee."
+],
+"328-greifenberg": [
+"Kennzeichen: In Greifenberg steht LL am Auto, in Inning STA.",
+"Wahlbeteiligung Bundestagswahl 2025: Inning am Ammersee 89,6, Greifenberg 87,3 Prozent."
+],
+"330-woerthsee": [
+"Wörthsee hat rund 500 Einwohner mehr als Inning am Ammersee."
+],
+"331-gilching": [
+"Gilching hat viermal so viele Einwohner wie Inning am Ammersee."
+],
+"332-germering": [
+"Kreisgrenze: Germering gehört zum Landkreis Fürstenfeldbruck, Inning am Ammersee zum Landkreis Starnberg.",
+"Germering hat fast neunmal so viele Einwohner wie Inning am Ammersee."
+]
+},
+"ags": "09188126",
+"ortsteil": false,
+"km_vom_vorigen": 5.1
+},
+{
+"slug": "330-woerthsee",
+"name": "Wörthsee",
+"lat": 48.08333,
+"lon": 11.2,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wörthsee",
+"steckbrief": "Gemeinde am gleichnamigen See mit rund 5.300 Einwohnern, 29 km westlich von München.",
+"frage": "Woher hat der Wörthsee seinen Namen?",
+"optionen": [
+"Er galt als besonders wertvolles Fischwasser.",
+"Er ist nach einem früheren Grundherrn benannt.",
+"Er ist nach einem Dorf am Ufer benannt.",
+"Er ist nach einer Insel im See benannt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Wörth\" klingt nach „Wert\", und viele Seen heißen nach Orten oder Herren, das liegt nahe. Tatsächlich ist der See nach der Insel Wörth benannt, die in ihm liegt. Mittelhochdeutsch „Werth\" bedeutet Insel oder Uferlage. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-woerthsee.de/geschichte-von-woerthsee/",
+"faktencheck": "bestätigt",
+"id": "330-woerthsee/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wörthsee",
+"steckbrief": "Gemeinde im Landkreis Starnberg mit rund 5.300 Einwohnern, 29 km westlich von München.",
+"frage": "Wie groß ist die Gemeindefläche von Wörthsee?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 40 km²",
+"40 bis unter 70 km²",
+"70 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Gemeinde mit mehreren Ortsteilen und einem See denkt, schätzt leicht mehr. Wörthsee misst aber 20,42 Quadratkilometer, und ein Teil davon ist Wasserfläche. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "330-woerthsee/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wörthsee",
+"steckbrief": "Gemeinde im Landkreis Starnberg mit rund 5.300 Einwohnern, 29 km westlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Pfarrkirche in Steinebach gehört zum Bistum Augsburg.",
+"Der Wörthsee entstand als künstlich aufgestauter Stausee.",
+"Der Ortsteil Waldbrunn hieß bei seiner Gründung Neu-Etterschlag."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Augsburg statt München klingt verdächtig, doch die Pfarrkirche in Steinebach gehört zum Bistum Augsburg. Waldbrunn hieß bei seiner Gründung tatsächlich Neu-Etterschlag. Gelogen ist der Stausee: Der Wörthsee ist ein natürlicher See aus der Eiszeit. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-woerthsee.de/woerthsee-in-zahlen/; Bistum Augsburg, bistum-augsburg-portal.de/pfarreien/woerthsee-zum-heiligen-abendmahl",
+"faktencheck": "korrigiert",
+"id": "330-woerthsee/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wörthsee",
+"steckbrief": "Gemeinde im Landkreis Starnberg mit rund 5.300 Einwohnern, 29 km westlich von München.",
+"frage": "Wie hoch war in Wörthsee die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 88 %",
+"88 bis unter 93 %",
+"93 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Wahlabende mit deutlich niedrigeren Werten denkt, tippt tiefer. In Wörthsee gaben bei der Bundestagswahl 2025 aber 90,8 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Kraft wurde die CSU, vor den Grünen. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "330-woerthsee/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wörthsee",
+"steckbrief": "Gemeinde im Landkreis Starnberg mit rund 5.300 Einwohnern, 29 km westlich von München.",
+"frage": "Wie viele Einwohner leben in Wörthsee auf einem Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 600",
+"600 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. So nah an München erwartet man dichte Vorstadtbebauung. Wörthsee kommt aber auf 259 Einwohner je Quadratkilometer. Den Großteil der Gemeindefläche nehmen Landwirtschaft und Wald ein; Gebäude- und Freiflächen machen nur einen kleinen Teil aus. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "330-woerthsee/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wörthsee",
+"steckbrief": "Gemeinde im Landkreis Starnberg mit rund 5.300 Einwohnern, 29 km westlich von München.",
+"frage": "Bei der Bundestagswahl 1949 lag im heutigen Ortsteil Steinebach eine Partei vorn. Welche?",
+"optionen": [
+"Die CSU erhielt die meisten Stimmen.",
+"Die Bayernpartei erhielt die meisten Stimmen.",
+"Die SPD erhielt die meisten Stimmen.",
+"Die FDP erhielt die meisten Stimmen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die CSU liegt nahe, sie prägt Bayerns Wahlen seit Langem. Damals aber war auch die Bayernpartei stark, die für ein eigenständiges Bayern eintrat. In Steinebach lag sie knapp vor der CSU. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-woerthsee.de/ortsteile/steinebach/",
+"faktencheck": "bestätigt",
+"id": "330-woerthsee/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wörthsee",
+"steckbrief": "Gemeinde mit rund 5.300 Einwohnern, 29 km westlich von München.",
+"frage": "Eine Wasserrutsche im Strandbad Fleischmann in Steinebach wurde in den 1930er-Jahren zum Publikumsmagneten. Woher stammte sie?",
+"optionen": [
+"Sie wurde aus England importiert.",
+"Ein Zimmermann aus Etterschlag baute sie.",
+"Sie wurde aus den USA importiert.",
+"Sie kam aus einem Freibad in Wien."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bau aus dem Ort liegt nahe, denn Badeanstalten auf dem Land waren meist schlicht ausgestattet. Doch die Rutsche der Badeanstalt Fleischmann wurde aus den USA importiert. Das Bad zog viele Ausflügler an, darunter Nazi-Größen wie Gauleiter Adolf Wagner. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-woerthsee.de/ortsteile/steinebach/",
+"faktencheck": "korrigiert",
+"id": "330-woerthsee/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wörthsee",
+"steckbrief": "Gemeinde im Landkreis Starnberg mit rund 5.300 Einwohnern, 29 km westlich von München.",
+"frage": "Das Wappen von Wörthsee zeigt unten eine rote Rose. Woher stammt sie?",
+"optionen": [
+"Sie stammt aus dem Wappen der Grafen Törring.",
+"Sie stammt aus dem Wappen der Grafen von Andechs.",
+"Sie ist das Attribut der heiligen Elisabeth.",
+"Sie steht für den Rosenanbau in Walchstadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rosen sind ein verbreitetes Heiligenattribut, daher liegt eine fromme Deutung nahe. Doch die Rose stammt aus dem Wappen der Grafen Törring und steht für die Herrschaft Seefeld, zu der Steinebach gehörte. Das Wappen entstand, als Etterschlag und Steinebach zusammengelegt wurden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-woerthsee.de/wappen/",
+"faktencheck": "bestätigt",
+"id": "330-woerthsee/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wörthsee",
+"steckbrief": "Gemeinde mit rund 5.300 Einwohnern, 29 km westlich von München.",
+"frage": "Steinebach ist in einer Urkunde aus der Zeit zwischen 912 und 932 belegt. Was hält sie fest?",
+"optionen": [
+"Sie belegt einen Verkauf an Bayerns Herzog.",
+"Sie belegt einen Streit mit Kloster Benediktbeuern.",
+"Sie belegt Abgaben an Salzburgs Erzbischof.",
+"Sie belegt eine Schenkung des Eichstätter Bischofs."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Herzöge und große Klöster liegen nahe, denn sie besaßen im frühen Mittelalter viel Land. Doch die Urkunde betrifft eine Schenkung Bischof Odalfrids von Eichstätt an das Stift Herrieden. Sie belegt nur, dass es Steinebach damals gab, nicht, seit wann. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-woerthsee.de/ortsteile/steinebach/",
+"faktencheck": "korrigiert",
+"id": "330-woerthsee/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "329-inning",
+"anschluss": [
+"Einwohner: Wörthsee hat knapp 500 mehr als Inning am Ammersee.",
+"Wahlbeteiligung 2025: In Wörthsee höher als in Inning am Ammersee."
+],
+"anschluesse": {
+"303-althegnenberg": [
+"Kreisgrenze: Althegnenberg gehört zum Landkreis Fürstenfeldbruck, Wörthsee zum Landkreis Starnberg.",
+"Wörthsee hat zweieinhalbmal so viele Einwohner wie Althegnenberg."
+],
+"304-mammendorf": [
+"Kreisgrenze: Mammendorf gehört zum Landkreis Fürstenfeldbruck, Wörthsee zum Landkreis Starnberg.",
+"Mammendorf und Wörthsee sind fast gleich groß: rund 5.100 und 5.300 Einwohner."
+],
+"305-maisach": [
+"Kreisgrenze: Maisach gehört zum Landkreis Fürstenfeldbruck, Wörthsee zum Landkreis Starnberg.",
+"Maisach hat gut zweieinhalbmal so viele Einwohner wie Wörthsee."
+],
+"114-olching": [
+"Kreisgrenze: Olching gehört zum Landkreis Fürstenfeldbruck, Wörthsee zum Landkreis Starnberg.",
+"Olching hat gut fünfmal so viele Einwohner wie Wörthsee."
+],
+"307-groebenzell": [
+"Kreisgrenze: Gröbenzell gehört zum Landkreis Fürstenfeldbruck, Wörthsee zum Landkreis Starnberg.",
+"Gröbenzell hat gut dreieinhalbmal so viele Einwohner wie Wörthsee."
+],
+"328-greifenberg": [
+"Kreisgrenze: Greifenberg gehört zum Landkreis Landsberg am Lech, Wörthsee zum Landkreis Starnberg.",
+"Wörthsee hat zweieinhalbmal so viele Einwohner wie Greifenberg."
+],
+"329-inning": [
+"Einwohner: Wörthsee hat knapp 500 mehr als Inning am Ammersee.",
+"Wahlbeteiligung 2025: In Wörthsee höher als in Inning am Ammersee."
+],
+"331-gilching": [
+"Gilching hat gut dreieinhalbmal so viele Einwohner wie Wörthsee."
+],
+"332-germering": [
+"Kreisgrenze: Germering gehört zum Landkreis Fürstenfeldbruck, Wörthsee zum Landkreis Starnberg.",
+"Germering hat achtmal so viele Einwohner wie Wörthsee."
+]
+},
+"ags": "09188145",
+"ortsteil": false,
+"km_vom_vorigen": 3.6
+},
+{
+"slug": "331-gilching",
+"name": "Gilching",
+"lat": 48.11028,
+"lon": 11.30111,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gilching",
+"steckbrief": "Rund 19.000 Einwohner, 21 km westlich von München.",
+"frage": "In der Kirche St. Vitus hängt die Arnoldusglocke aus dem 12. Jahrhundert. Ihr Namenspate Arnoldus ließ sie gießen. Wer war er?",
+"optionen": [
+"Ein Dorfschmied.",
+"Ein Kupferschmied.",
+"Ein Priester.",
+"Ein Burgherr."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Glocke denkt man an einen Schmied, der mit Metall umzugehen weiß. Arnoldus war aber Priester. Er ließ die Glocke gießen und verewigte sich mit seinem Namen auf ihr. Sie ziert heute auch das Gemeindewappen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gilching.de/kultur-freizeit/gilching-wappen-geschichte-und-wissenswertes/",
+"faktencheck": "korrigiert",
+"id": "331-gilching/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gilching",
+"steckbrief": "Rund 19.000 Einwohner, 21 km westlich von München.",
+"frage": "Wie hoch liegt Gilching über dem Meer?",
+"optionen": [
+"unter 400 m",
+"400 bis unter 480 m",
+"480 bis unter 540 m",
+"540 bis unter 600 m"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an das flache Münchner Umland denkt, schätzt leicht zu tief. Doch zum Alpenrand hin steigt das Land stetig an. Gilching liegt je nach Quelle auf 553 oder 562 Metern über dem Meer. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "korrigiert",
+"id": "331-gilching/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gilching",
+"steckbrief": "Rund 19.000 Einwohner, 21 km westlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine Römerstraße nach Salzburg führte durch den Ort.",
+"Der Ortsteil Argelsried war früher eine eigene Gemeinde.",
+"Die Bahn nach Herrsching hält nirgends im Gemeindegebiet."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Römerstraße klingt am ehesten erfunden, ist aber belegt: Die Via Julia von Augsburg nach Salzburg führte durch Gilching. Gelogen ist der Satz zur Bahn. Die Strecke Pasing–Herrsching durchquert den Ort und hält in Geisenbrunn, Gilching-Argelsried und Neugilching. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gilching",
+"faktencheck": "unsicher",
+"id": "331-gilching/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gilching",
+"steckbrief": "Rund 19.000 Einwohner, 21 km westlich von München.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Wie viel Prozent holte in Gilching die stärkste Partei?",
+"optionen": [
+"unter 35 %",
+"35 bis unter 40 %",
+"40 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In Bayern schätzt man die CSU oft höher ein. In Gilching kam sie bei der Bundestagswahl 2025 auf 38,4 Prozent der Zweitstimmen. Zweitstärkste wurden die Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "331-gilching/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gilching",
+"steckbrief": "Rund 19.000 Einwohner, 21 km westlich von München.",
+"frage": "Joseph Ratzinger, der spätere Papst, war 1944 in Gilching Flakhelfer. Welche Aufgabe hatte er dort?",
+"optionen": [
+"Er half bei der Ernte auf Bauernhöfen.",
+"Er unterrichtete Kinder an der Dorfschule.",
+"Er vermittelte Telefonate in einer Telefonzentrale.",
+"Er trug im Ort die Post aus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Beim späteren Theologieprofessor liegt der Gedanke an Unterricht nahe. Tatsächlich tat Joseph Ratzinger als Flakhelfer in Gilching Dienst in einer Telefonzentrale und vermittelte dort Telefonate. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gilching",
+"faktencheck": "korrigiert",
+"id": "331-gilching/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Gilching",
+"steckbrief": "Rund 19.000 Einwohner, 21 km westlich von München.",
+"frage": "Zu welchem Landkreis gehört Gilching?",
+"optionen": [
+"Landkreis Fürstenfeldbruck",
+"Landkreis München",
+"Landkreis Landsberg am Lech",
+"Landkreis Starnberg"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer die Nähe zu München sieht, vermutet leicht den Landkreis München. Gilching gehört aber zum Landkreis Starnberg. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "331-gilching/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gilching",
+"steckbrief": "Rund 19.000 Einwohner, 21 km westlich von München.",
+"frage": "Bürgermeister Thomas Reich gewann 2002 noch mit großer Mehrheit, 2008 holte er im ersten Wahlgang nur 25 Prozent. Warum?",
+"optionen": [
+"Er hatte sich für die Flughafenerweiterung eingesetzt.",
+"Er hatte vorher die Partei gewechselt.",
+"Er war in eine Spendenaffäre verwickelt.",
+"Er war wegen Krankheit kaum im Amt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein so tiefer Absturz lässt an einen Skandal denken. Der Grund war ein anderer: Reich hatte sich für die Erweiterung des Sonderflughafens Oberpfaffenhofen eingesetzt, dessen Fluglärm Teile Neugilchings trifft. Sein Nachfolger wurde Manfred Walter von der SPD. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gilching",
+"faktencheck": "unsicher",
+"id": "331-gilching/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gilching",
+"steckbrief": "Rund 19.000 Einwohner, 21 km westlich von München.",
+"frage": "Gilching ist seit 804 schriftlich belegt. Welche Rolle spielte der Ort in jener Urkunde?",
+"optionen": [
+"Der Ort wurde einem Kloster geschenkt.",
+"Im Ort wurde eine Kirche geweiht.",
+"Der Ort erhielt das Recht auf einen Markt.",
+"Im Ort wurde eine Schenkung verhandelt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist, dass ein Ort in seiner ersten Urkunde selbst verschenkt wird. Hier aber übergab der Gaubevollmächtigte Reginhart Liegenschaften in Pettenbach und Glonn dem Kloster Schlehdorf. Verhandelt wurde das im königlichen Dorf Kiltoahinga, dem heutigen Gilching. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gilching",
+"faktencheck": "unsicher",
+"id": "331-gilching/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gilching",
+"steckbrief": "Rund 19.000 Einwohner, 21 km westlich von München.",
+"frage": "Woher hat Gilching seinen Namen?",
+"optionen": [
+"Er geht auf den heiligen Ägidius zurück.",
+"Er stammt von einem Bach namens Gilch.",
+"Er geht auf einen Mann namens Geldiko zurück.",
+"Er stammt von einem Römer namens Gelicus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Ortsteil Sankt Gilgen mit seiner Ägidius-Kapelle legt den Heiligen nahe. Der Name ist aber althochdeutsch und geht auf den Personennamen Geldiko zurück, vermutlich einen Sippenältesten. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gilching",
+"faktencheck": "unsicher",
+"id": "331-gilching/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "330-woerthsee",
+"anschluss": [
+"Einwohner: Gilching hat mehr als dreimal so viele wie Wörthsee.",
+"Bundestagswahl 2025: Wahlbeteiligung in Wörthsee höher als in Gilching."
+],
+"anschluesse": {
+"304-mammendorf": [
+"Kreisgrenze: Mammendorf gehört zum Landkreis Fürstenfeldbruck, Gilching zum Landkreis Starnberg.",
+"Gilching hat fast viermal so viele Einwohner wie Mammendorf."
+],
+"305-maisach": [
+"Kreisgrenze: Maisach gehört zum Landkreis Fürstenfeldbruck, Gilching zum Landkreis Starnberg.",
+"Gilching hat rund 5.200 Einwohner mehr als Maisach."
+],
+"114-olching": [
+"Kreisgrenze: Olching gehört zum Landkreis Fürstenfeldbruck, Gilching zum Landkreis Starnberg.",
+"Olching hat fast anderthalbmal so viele Einwohner wie Gilching."
+],
+"307-groebenzell": [
+"Kreisgrenze: Gröbenzell gehört zum Landkreis Fürstenfeldbruck, Gilching zum Landkreis Starnberg.",
+"Gröbenzell und Gilching sind fast gleich groß: rund 19.000 und 19.000 Einwohner."
+],
+"308-dachau": [
+"Kreisgrenze: Dachau gehört zum Landkreis Dachau, Gilching zum Landkreis Starnberg.",
+"Dachau hat zweieinhalbmal so viele Einwohner wie Gilching."
+],
+"309-karlsfeld": [
+"Kreisgrenze: Karlsfeld gehört zum Landkreis Dachau, Gilching zum Landkreis Starnberg.",
+"Karlsfeld hat rund 2.300 Einwohner mehr als Gilching."
+],
+"328-greifenberg": [
+"Kreisgrenze: Greifenberg gehört zum Landkreis Landsberg am Lech, Gilching zum Landkreis Starnberg.",
+"Gilching hat neunmal so viele Einwohner wie Greifenberg."
+],
+"329-inning": [
+"Gilching hat viermal so viele Einwohner wie Inning am Ammersee."
+],
+"330-woerthsee": [
+"Einwohner: Gilching hat mehr als dreimal so viele wie Wörthsee.",
+"Bundestagswahl 2025: Wahlbeteiligung in Wörthsee höher als in Gilching."
+],
+"332-germering": [
+"Kreisgrenze: Germering gehört zum Landkreis Fürstenfeldbruck, Gilching zum Landkreis Starnberg.",
+"Germering hat gut doppelt so viele Einwohner wie Gilching."
+]
+},
+"ags": "09188121",
+"ortsteil": false,
+"km_vom_vorigen": 8.1
+},
+{
+"slug": "332-germering",
+"name": "Germering",
+"lat": 48.13333,
+"lon": 11.36667,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Germering",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 16 km westlich von München.",
+"frage": "Wie viele Einwohner kommen in Germering auf einen Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.500",
+"1.500 bis unter 2.500",
+"2.500 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer bei einer Stadt am Münchner Rand an Felder und Wald denkt, schätzt zu niedrig. Germering ist dicht besiedelt: rechnerisch 1.905 Einwohner je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "332-germering/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Germering",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 16 km westlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Germering erhielt sein Stadtrecht bereits im Mittelalter.",
+"Germering und Unterpfaffenhofen waren einst getrennte Gemeinden.",
+"Eine Bahnstrecke brachte Germering einen grundlegenden Strukturwandel."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein alter Ortsname und die heutige Größe lassen an eine mittelalterliche Stadt denken. Doch Stadt wurde Germering erst am 12. April 1991. Germering und Unterpfaffenhofen waren seit 1818 eigene Gemeinden und wurden 1978 bei der Gemeindegebietsreform vereinigt. Die Bahnlinie nach Herrsching brachte 1902 die erste große Strukturveränderung. Die Lüge war 1.",
+"quelle": "Stadt Germering, germering.de (Stadtgeschichte)",
+"faktencheck": "korrigiert",
+"id": "332-germering/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Germering",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 16 km westlich von München.",
+"frage": "Die CSU wurde bei der Bundestagswahl 2025 in Germering stärkste Kraft. Welche Partei kam bei den Zweitstimmen auf Platz zwei?",
+"optionen": [
+"Grüne",
+"SPD",
+"AfD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt als alte Volkspartei nahe, die AfD wegen ihres bundesweiten Zuwachses. In Germering lagen aber die Grünen mit 15,7 Prozent knapp vor der SPD mit 14,5 und der AfD mit 12,2 Prozent. Stärkste Kraft war die CSU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "332-germering/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Germering",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 16 km westlich von München.",
+"frage": "Robert Huber erhielt den Nobelpreis für Chemie und ist Ehrenbürger Germerings. Wann wurde er Ehrenbürger?",
+"optionen": [
+"Die Ehrung kam lange vor dem Nobelpreis.",
+"Die Ehrung kam im Jahr des Nobelpreises.",
+"Die Ehrung kam ein Jahr nach dem Nobelpreis.",
+"Die Ehrung kam Jahrzehnte nach dem Nobelpreis."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Städte ehren Prominente oft erst spät, etwa zu runden Geburtstagen. Germering war schneller: Robert Huber erhielt 1988 den Nobelpreis für Chemie und wurde im selben Jahr Ehrenbürger der Stadt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Germering",
+"faktencheck": "bestätigt",
+"id": "332-germering/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Germering",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 16 km westlich von München.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Germering?",
+"optionen": [
+"M",
+"STA",
+"FFB",
+"DAH"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt so nah an München liegt M nahe. Germering gehört aber zum Landkreis Fürstenfeldbruck, und dessen Hauptkennzeichen ist FFB. Richtig war 3.",
+"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "332-germering/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Germering",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 16 km westlich von München.",
+"frage": "Der Maler Carl Spitzweg ist mit Germering verbunden. Wie?",
+"optionen": [
+"Er wurde selbst in Germering geboren.",
+"Er verbrachte seine letzten Lebensjahre in Germering.",
+"Sein Vater, ein Kaufmann, stammte aus Germering.",
+"Er liegt in Germering begraben."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Gymnasium der Stadt trägt Spitzwegs Namen, da liegt eine Geburt am Ort nahe. Doch Carl Spitzweg wurde in München geboren, starb dort und liegt dort begraben. Die Verbindung führt über die Familie: Sein Vater Simon Spitzweg, ein Kaufmann, stammte aus Unterpfaffenhofen, heute ein Teil Germerings. Richtig war 3.",
+"quelle": "Neue Deutsche Biographie, deutsche-biographie.de/sfz80791.html",
+"faktencheck": "korrigiert",
+"id": "332-germering/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "331-gilching",
+"anschluss": [
+"Einwohner: Germering hat gut doppelt so viele wie Gilching.",
+"Kennzeichen: In Germering steht FFB am Auto, in Gilching STA."
+],
+"anschluesse": {
+"304-mammendorf": [
+"Germering hat achtmal so viele Einwohner wie Mammendorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Mammendorf die AfD, in Germering die Grünen."
+],
+"305-maisach": [
+"Germering hat dreimal so viele Einwohner wie Maisach.",
+"Maisach hat zweieinhalbmal so viel Fläche wie Germering, aber weniger Einwohner."
+],
+"306-sulzemoos": [
+"Kreisgrenze: Sulzemoos gehört zum Landkreis Dachau, Germering zum Landkreis Fürstenfeldbruck.",
+"Germering hat gut vierzehnmal so viele Einwohner wie Sulzemoos."
+],
+"114-olching": [
+"Germering hat anderthalbmal so viele Einwohner wie Olching."
+],
+"307-groebenzell": [
+"Germering hat gut doppelt so viele Einwohner wie Gröbenzell."
+],
+"308-dachau": [
+"Kreisgrenze: Dachau gehört zum Landkreis Dachau, Germering zum Landkreis Fürstenfeldbruck.",
+"Dachau hat rund 6.300 Einwohner mehr als Germering."
+],
+"309-karlsfeld": [
+"Kreisgrenze: Karlsfeld gehört zum Landkreis Dachau, Germering zum Landkreis Fürstenfeldbruck.",
+"Germering hat fast doppelt so viele Einwohner wie Karlsfeld."
+],
+"115-muenchen": [
+"Kreisgrenze: München ist kreisfrei, Germering gehört zum Landkreis Fürstenfeldbruck.",
+"München hat rund 35-mal so viele Einwohner wie Germering."
+],
+"329-inning": [
+"Kreisgrenze: Inning am Ammersee gehört zum Landkreis Starnberg, Germering zum Landkreis Fürstenfeldbruck.",
+"Germering hat fast neunmal so viele Einwohner wie Inning am Ammersee."
+],
+"330-woerthsee": [
+"Kreisgrenze: Wörthsee gehört zum Landkreis Starnberg, Germering zum Landkreis Fürstenfeldbruck.",
+"Germering hat achtmal so viele Einwohner wie Wörthsee."
+],
+"331-gilching": [
+"Einwohner: Germering hat gut doppelt so viele wie Gilching.",
+"Kennzeichen: In Germering steht FFB am Auto, in Gilching STA."
+]
+},
+"ags": "09179123",
+"ortsteil": false,
+"km_vom_vorigen": 5.5
 },
 {
 "slug": "127-eching",
@@ -47270,11 +51010,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "126-landsberg",
-"anschluss": [
-"Eching hat halb so viele Einwohner wie Landsberg am Lech.",
-"Bundestagswahl 2025: Eching hatte höhere Wahlbeteiligung als Landsberg am Lech."
-],
+"anschluss_von": "332-germering",
+"anschluss": [],
 "anschluesse": {
 "308-dachau": [
 "Kreisgrenze: Dachau gehört zum Landkreis Dachau, Eching zum Landkreis Freising.",
@@ -47303,15 +51040,11 @@ window.QA_DATEN = {
 ],
 "133-kranzberg": [
 "Eching hat dreieinhalbmal so viele Einwohner wie Kranzberg."
-],
-"126-landsberg": [
-"Eching hat halb so viele Einwohner wie Landsberg am Lech.",
-"Bundestagswahl 2025: Eching hatte höhere Wahlbeteiligung als Landsberg am Lech."
 ]
 },
 "ags": "09178120",
 "ortsteil": false,
-"km_vom_vorigen": 61.9
+"km_vom_vorigen": 26.2
 },
 {
 "slug": "128-neufahrn",

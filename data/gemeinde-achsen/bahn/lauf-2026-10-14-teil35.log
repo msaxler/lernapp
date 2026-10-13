@@ -1,0 +1,54 @@
+Orte: 325-bad-woerishofen 326-buchloe 327-igling 328-greifenberg 329-inning 330-woerthsee 331-gilching 332-germering
+== Extraktion (Haiku) 01:08:26
+325-bad-woerishofen  extraktion ein  30135  aus  15657   0.13 USD   109 s  claude-haiku-4-5-20251001
+326-buchloe          extraktion ein  24351  aus  10842   0.09 USD    83 s  claude-haiku-4-5-20251001
+327-igling           extraktion ein  20793  aus  14699   0.10 USD   110 s  claude-haiku-4-5-20251001
+328-greifenberg      extraktion ein  23605  aus   7056   0.07 USD    58 s  claude-haiku-4-5-20251001
+329-inning           extraktion ein  21998  aus  21854   0.14 USD   179 s  claude-haiku-4-5-20251001
+330-woerthsee        extraktion ein  29054  aus   9637   0.09 USD    80 s  claude-haiku-4-5-20251001
+331-gilching         extraktion ein  26628  aus  13712   0.11 USD   105 s  claude-haiku-4-5-20251001
+332-germering        extraktion ein  27264  aus  18211   0.13 USD   125 s  claude-haiku-4-5-20251001
+zusammen: 15332 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+325-bad-woerishofen   42277 Zeichen
+326-buchloe        24076 Zeichen
+327-igling         18596 Zeichen
+328-greifenberg    19310 Zeichen
+329-inning         22283 Zeichen
+330-woerthsee      25534 Zeichen
+331-gilching       33404 Zeichen
+332-germering      46923 Zeichen
+== Karten (claude-opus-5-5) 01:12:22
+325-bad-woerishofen  karten     ein  52713  aus  37769   1.12 USD   334 s  claude-opus-5-5
+326-buchloe          karten     ein  41105  aus  40790   1.09 USD   348 s  claude-opus-5-5
+327-igling           karten     ein  37615  aus  28667   0.82 USD   250 s  claude-opus-5-5
+328-greifenberg      karten     ein  37976  aus  27409   0.80 USD   230 s  claude-opus-5-5
+329-inning           karten     ein  39643  aus  36123   0.99 USD   305 s  claude-opus-5-5
+330-woerthsee        karten     ein  38971  aus  40469   1.07 USD   348 s  claude-opus-5-5
+331-gilching         karten     ein  46906  aus  35387   1.03 USD   310 s  claude-opus-5-5
+332-germering        karten     ein  55747  aus  34465   1.08 USD   299 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 01:22:26
+325-bad-woerishofen  pruefung   ein  60801  aus   7960   0.59 USD    70 s  claude-opus-5-5
+326-buchloe          pruefung   ein  54652  aus  10157   0.59 USD    88 s  claude-opus-5-5
+327-igling           pruefung   ein  39928  aus   5035   0.37 USD    45 s  claude-opus-5-5
+328-greifenberg      pruefung   ein  40648  aus   5086   0.37 USD    49 s  claude-opus-5-5
+329-inning           pruefung   ein  50331  aus   9524   0.54 USD    81 s  claude-opus-5-5
+330-woerthsee        pruefung   ein  61953  aus  11544   0.67 USD   100 s  claude-opus-5-5
+331-gilching         pruefung   ein  52949  aus   8290   0.54 USD    71 s  claude-opus-5-5
+332-germering        pruefung   ein  57952  aus   5722   0.52 USD    53 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 01:24:51
+325-bad-woerishofen  stufe2     ein 251906  aus   4622   0.57 USD    93 s  claude-opus-5-5,claude-haiku-4-5-20251001
+326-buchloe          stufe2     ein 168688  aus   2626   0.36 USD    50 s  claude-opus-5-5,claude-haiku-4-5-20251001
+327-igling           stufe2     ein 465941  aus   7329   0.98 USD   130 s  claude-opus-5-5,claude-haiku-4-5-20251001
+328-greifenberg      stufe2     ein 529788  aus  10905   1.16 USD   175 s  claude-opus-5-5,claude-haiku-4-5-20251001
+329-inning           stufe2     ein 136057  aus   2874   0.30 USD    45 s  claude-opus-5-5,claude-haiku-4-5-20251001
+330-woerthsee        stufe2     ein 236896  aus   4626   0.62 USD    86 s  claude-opus-5-5,claude-haiku-4-5-20251001
+331-gilching         stufe2     ein 370600  aus  10882   1.22 USD   159 s  claude-opus-5-5,claude-haiku-4-5-20251001
+332-germering        stufe2     ein 465684  aus   9106   1.18 USD   135 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 01:28:40
+Urteile: {'korrigiert': 980, 'bestätigt': 1711, 'gesperrt': 82, 'unsicher': 200} | im Vorrat: 2891 Karten an 332 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     332 Orte, 2891 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 3324933 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 01:28:41

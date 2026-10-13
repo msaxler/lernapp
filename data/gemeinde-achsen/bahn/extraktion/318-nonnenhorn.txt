@@ -1,0 +1,416 @@
+ENTITÄT: ort
+BEZEICHNUNG: Nonnenhorn
+ORTSTEIL_BEZUG: -
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  bundesland: Bayern
+  regierungsbezirk: Schwaben
+  landkreis: Lindau (Bodensee)
+  lage_bodensee: Nordufer (Sonnenseite)
+  seeuferlänge: 3.8 km
+  superlativ: drittkleinste Gemeinde Bayerns (Fläche)
+  superlativ: südwestlichste Gemeinde Bayerns
+  status: Luftkurort
+  status_weinort: ja
+  grenzt_an_westen: Baden-Württemberg
+  erste_urkundliche_erwaehnung: 910
+  zugehörigkeit_kloster: Kloster St. Gallen seit 784 (über Herrschaft Wasserburg)
+  unabhaengigkeit: 1817 (Teilung Wasserburg)
+  gemeindestruktur_etabliert: 1818
+  luftkurort_seit: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Nonnenhorn
+ORTSTEIL_BEZUG: -
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  herrschaft_kisslegg: 1280
+  herrschaft_schellenberg: 1280–1358
+  herrschaft_ebersberg: 1358–1386
+  herrschaft_montfort_rothenfels: 1386–1592
+  herrschaft_fugger_kauf: 1592 (300.000 Gulden 1763 an Österreich verkauft)
+  herrschaft_oesterreich: 1763–1805
+  uebergang_bayern: 1805 (Pressburger Frieden 26. Dezember 1805)
+  koenigreich_bayern_ab: 1. Januar 1806
+GUELTIG_AB: 1280
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Jakobus-Kapelle
+ORTSTEIL_BEZUG: Kapellenplatz
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  architekturstil: spätgotisch
+  entstehung: 15. Jahrhundert
+  denkmalschutz: ja
+  standort_bodensee: an ehemaliger Wallfahrtsstraße Santiago de Compostela
+  kunstwerke_kreuzigungsgruppe: 1646
+  kunstwerke_jakobus: um 1490
+  kunstwerke_petrus: um 1490
+  kunstwerke_johannes: um 1490
+  kunstwerke_nikolaus: um 1680
+  kunstwerke_katharina: um 1470
+  letzter_umbau: 1977
+  hochaltar: neugotisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Christophorus-Kirche
+ORTSTEIL_BEZUG: Ortszentrum
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  einweihung: 1961
+  kirchturm_hoehe: 25 m
+  besonderheit: Glaswand nach Sonnengesang Franziskus gestaltet
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Riesenmammutbaum (Giant Sequoia)
+ORTSTEIL_BEZUG: Kapellenplatz
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  art: kalifornischer Riesenmammutbaum
+  pflanzjahr: ca. 1880
+  lichte_hoehe: ca. 30 m
+  schutzstatus: Ensembleschutz
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: weintorkel
+BEZEICHNUNG: Nonnenhorner Weintorkel
+ORTSTEIL_BEZUG: Conrad-Forster-Straße
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1591
+  bauherr: Grafen Fugger
+  superlativ: eine der ältesten Weinpressen Bodenseegegend
+  material_pressbalken: Eichenholz
+  gewicht_pressbalken: 400 Zentner
+  errichtung_pferde: ca. 30
+  errichtung_arbeiter: ca. 40
+  letzter_einsatz: 1955
+  denkmalschutz_seit: 1978
+GUELTIG_AB: 1591
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Nonnenhorn
+ORTSTEIL_BEZUG: Ortskern
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1. Oktober 1899
+  bahnstrecke: Friedrichshafen–Lindau (Bodenseegürtelbahn)
+  architektur: württembergischer Baustil
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Dampfschiffslände Nonnenhorn
+ORTSTEIL_BEZUG: Schiffsanleger
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 1. September 1912
+  erstes_schiff: Schaufelraddampfer Rupprecht
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Narrenbrunnen
+ORTSTEIL_BEZUG: Park vor Schiffsanlegestelle
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: seit 2001
+  figuren: Traubenhüter und Reblaus
+  symbolik: Erinnerung alte Weinbautradition
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gedenkstein
+BEZEICHNUNG: Seegfrörne-Stein
+ORTSTEIL_BEZUG: Eingang St.-Jakobus-Kapelle
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  typ: Findlingsblock
+  herkunft_ereignis: Seegfrörne 1880
+  beschreibung: Findling aus Bodensee gezogen bei geschlossener Eisschicht
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gedenkstein
+BEZEICHNUNG: Seegfrörne-Gedenkstein
+ORTSTEIL_BEZUG: vor Strandbad Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  herkunft_ereignis: Seegfrörne 1963
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Dorfmuseum Nonnenhorn
+ORTSTEIL_BEZUG: Ortszentrum
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  exponate: Heimatgeschichte, Obst- und Weinanbau, Handwerk
+  betreiber: Museumsverein Nonnenhorn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fischbrutanstalt
+BEZEICHNUNG: Staatliche Fischbrutanstalt Nonnenhorn
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  betriebsbeginn: 1957
+  ausgesetzter_fische_blaufelchen_2002: über 37 Millionen
+  ausgesetzter_fische_seesaiblinge_2002: 17.500
+  ausgesetzter_fische_seeforellen_2002: 691.500
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: tradition
+BEZEICHNUNG: Schäfflertanz
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  gruender: Johannes Königer (Schuhmachergeselle)
+  gruendung: 1846
+  haeufigkeit: alle sieben Jahre
+  herkunft: Münchner Schäfflertanz
+  traeger: örtliche Schäfflergesellschaft
+  bedeutung: wichtiger Bestandteil Ortsidentität
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: narrenverein
+BEZEICHNUNG: Narrenzunft Nonnenhorn
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  maskengruppen: Reblaus, Traubenhüter
+  narrenruf: SeeWii – Oho
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Georg Köberle
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Schriftsteller und Dramaturg
+  geburt: 1819
+  tod: 1898
+GUELTIG_AB: 1819
+GUELTIG_BIS: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Josef Forster
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Hygieniker
+  taetigkeitsorte: Amsterdam, Straßburg
+  geburt: 1844
+  tod: 1910
+GUELTIG_AB: 1844
+GUELTIG_BIS: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Johannes Königer
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Schuhmachergeselle
+  aktion: brachte Münchner Schäfflertanz nach Nonnenhorn, gruendete Schäfflergesellschaft
+  aktion_jahr: 1846
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Rainer Krauß
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  amt: Erster Bürgermeister
+  amtsantritt: 2008
+  charakterisierung: erster hauptamtlicher Bürgermeister
+  partei: Dorfgemeinschaft
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Pestepidemie Herrschaft Wasserburg
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1635/36
+  todesfaelle: über 600
+  bestaettung: Massengräber
+  kontext: Dreißigjähriger Krieg
+GUELTIG_AB: 1635
+GUELTIG_BIS: 1636
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Schwedische Truppeneinfälle
+ORTSTEIL_BEZUG: Bodenseegegend (Nonnenhorn)
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1647
+  auswirkungen: schwere Schäden im Weinbau
+  kontext: Dreißigjähriger Krieg
+GUELTIG_AB: 1647
+GUELTIG_BIS: 1647
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Französische Besatzung
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum_von: August 1945
+  zeitraum_bis: Januar 1948
+  karakterisierung: glimpflich
+  funktion_nonnenhorn: Hauptquartier französische Bodensee-Flottille Flottille du Lac de Constance
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Weinanbau Nonnenhorn
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  entwicklung: bedeutender Weinbauort unter Fuggerherrschaft
+  hoehepunkt_um_1825_torkel_gemeinschaftlich: 16
+  hoehepunkt_um_1825_torkel_privat: 5
+  groesslagen: Sonnenbichl, Seehalde
+  rebsorten: Müller-Thurgau, Bacchus, Grauburgunder, Spätburgunder, Elbling
+  ausbau_rotwein: Spätburgunder und Dornfelder als Weißherbst
+  organisation: Weinbauverein bayerischer Bodensee
+GUELTIG_AB: 1591
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: namensherkunft_theorie
+BEZEICHNUNG: Namensherkunft – Frauenkloster (Theorie 1)
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  legende: Graf Adalbert von Rätien geriet 810 in Seenot, gelobte Gottesmutter Kloster und Bethaus
+  ergebnis: gestranded auf hornförmiger Halbinsel
+  frauenkloster_gruender_laut_quelle: Gaugrafen Eckbert, Mangold, Wortbich
+  gruendung_laut_quelle: 806
+  aufgeloest_laut_quelle: 926 (Flucht Nonnen nach Lindau bei Ungarneinfall)
+  archaeologie: 1930 bearbeiteter Findling bei Ufermauer (ca. 1000 Jahre alt)
+  kritik_standort_tiefe: 2-4 m Winter-Niedrigwasser, Kloster auf Pfählen nötig
+  kritik_funde: keine Mauerreste gefunden
+  kritik_archiv: Stiftsarchiv St. Gallen keine Aufzeichnungen
+  bewertung: fraglich
+GUELTIG_AB: 806
+GUELTIG_BIS: 926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.55
+
+---
+
+ENTITÄT: namensherkunft_theorie
+BEZEICHNUNG: Namensherkunft – Keltischer Volksstamm (Theorie 2)
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  theorie: Ableitung von keltischem Volksstamm Nunen
+  evidenz_ortsnamen: Nonnenbach, Nonnenstein, Nonnenbuch, Nonnenbühl
+  siedler_fruehzeit: Helvetier, Sueben/Sweben, Rätier, Alemannen
+  einschaetzung: beste heute bekannte Erkenntnis Urbanisierung Bodenseegebiet
+  einschraenkung: tatsächliche Existenz Volksstamm Nunen nicht nachgewiesen
+  wahrscheinliche_namensherkunft: ja
+GUELTIG_AB: -
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: namensherkunft_theorie
+BEZEICHNUNG: Namensherkunft – Person Nuno (Theorie 3)
+ORTSTEIL_BEZUG: Nonnenhorn
+QUELLE: https://de.wikipedia.org/wiki/Nonnenhorn | Wikipedia
+EIGENSCHAFTEN:
+  theorie: Ableitung von Person Nuno (1359 erwähnt)
+  forscher: Wolf-Armin von Reitzenstein
+  quelle: Bayerischer Rundfunk BR1, 21. April 2008
+  kritik: widerspricht erste urkundliche Erwähnung 910
+GUELTIG_AB: 1359
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.45

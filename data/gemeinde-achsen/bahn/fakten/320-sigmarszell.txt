@@ -1,0 +1,559 @@
+ID: 320-sigmarszell/001
+ENTITÄT: ort
+BEZEICHNUNG: Sigmarszell
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 1598 [ha]
+  höchste_lage: 850 [m] (Ortsteil Kinberg)
+  niedrigste_lage: 430 [m] (Ortsteil Hangnach)
+  ist_sitz_verwaltungsgemeinschaft: true
+  verwaltungsgemeinschaft_gegründet: 1978
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 320-sigmarszell/002
+ENTITÄT: ort
+BEZEICHNUNG: Sigmarszell
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Lindau (Bodensee)
+  landschaft: Westallgäuer Landschaft
+  entfernung_bodensee: 7 [km]
+  höhenlage_minimal: 404 [m]
+  höhenlage_maximal: 800 [m ü. NHN]
+  gemeindeparts_anzahl: 30
+  einwohner_1988: 2264
+  einwohner_2018: 2947
+  einwohner_wachstum: 30.2 [%]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 320-sigmarszell/003
+ENTITÄT: gemeinde_teil
+BEZEICHNUNG: Bösenreutin
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höfe_14_jh: 20
+  entstehung: Brandrodungszeit
+  benannt_nach: Berchtram oder Berchtold (Rodungsdurchführer)
+  besitz_14_jh: Stift Lindau
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/004
+ENTITÄT: gemeinde_teil
+BEZEICHNUNG: Bösenreutin
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  lage: grenzt direkt an Stadt Lindau
+  zentrum: Dorfplatz
+  tradition_maibaum: jährlich erste Mai
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 320-sigmarszell/005
+ENTITÄT: gemeinde_teil
+BEZEICHNUNG: Niederstaufen
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung: um 1249 als "Understophen"
+  herrscher: Abt von Mehrerau (Herrschaftsrechte)
+  ortstyp: Straßendorf
+  kirche_architektur: klassizistisch, helle Fassade
+  pfarrhof_farbe: ockergelb
+  häuser: holzverschindelt
+  wald_burg: auf ebenmäßigem Hügel im Norden
+  stifterin_kirche: Ritterfräulein Guta von Adelberg
+GUELTIG_AB: 1249
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 320-sigmarszell/006
+ENTITÄT: gemeinde_teil
+BEZEICHNUNG: Niederstaufen
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 800 [ca.]
+  entfernung_bodensee: 10 [km]
+  einwohner_entwicklung_1945_1950: abnahme
+  gaststätten_früher: 6
+  gaststätten_heute: 1
+  landwirtschaft_vollerwerbsbetriebe: 11
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/007
+ENTITÄT: gemeinde_teil
+BEZEICHNUNG: Schlachters
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: bekanntester und wirtschaftsstärkster Ortsteil
+  burg: vorhanden
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 320-sigmarszell/008
+ENTITÄT: gemeinde_teil
+BEZEICHNUNG: Schlachters
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  status: größter Gemeindeteil
+  bankfilialen: Sparkasse Memmingen-Lindau-Mindelheim, Raiffeisen-BodenseeBank
+  obstbauschule: ehemalig, jetzt Versuchsstation (Außenstelle der Hochschule Weihenstephan-Triesdorf)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/009
+ENTITÄT: gemeinde_teil
+BEZEICHNUNG: Kinberg
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 850 [m]
+  status: höchstgelegener Ortsteil
+  region: Westallgäu
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 320-sigmarszell/010
+ENTITÄT: gemeinde_teil
+BEZEICHNUNG: Hangnach
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 430 [m]
+  status: südlichster Ortsteil
+  grenze: Stadtgrenze von Lindau/B.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/011
+ENTITÄT: gemeinde_teil
+BEZEICHNUNG: Thumen
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  gut: Adelinenhof (Wohnort Norbert Jacques)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/012
+ENTITÄT: pfarrei
+BEZEICHNUNG: Sigmarszell
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: eine der drei Urpfarreien im Lindauer Raum
+  gegründet_von: Kloster St. Gallen
+  gegründet_zeit: um 800 n. Chr.
+  höfe_14_jh: 60
+  patronatsrechte_kloster_st_gallen: 1453
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 320-sigmarszell/013
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Gallus
+ORTSTEIL_BEZUG: Sigmarszell
+QUELLE: https://www.sigmarszell.de/Kirchen-und-Pfarraemter.n61.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: 88138 Sigmarszell
+  geweiht_dem_heiligen: Gallus
+  pfarrsprengel: entspricht politischer Gemeinde Sigmarszell
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 320-sigmarszell/014
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Gallus
+ORTSTEIL_BEZUG: Sigmarszell
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  chor_und_langhaus_baujahr: 1710
+  turmunterbau_periode: Mittelalter
+  architekt: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/015
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Peter und Paul
+ORTSTEIL_BEZUG: Niederstaufen
+QUELLE: https://www.sigmarszell.de/Kirchen-und-Pfarraemter.n61.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Niederstaufen
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/016
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Nikolaus
+ORTSTEIL_BEZUG: Bösenreutin
+QUELLE: https://www.sigmarszell.de/Kirchen-und-Pfarraemter.n61.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bösenreutin
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/017
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Wendelin
+ORTSTEIL_BEZUG: Kinberg
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  lage: Kinberg-Plateau
+  bauform: Rechteckbau mit dreiseitigem Schluss
+  baujahr: 1698
+  ausstattung: vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/018
+ENTITÄT: fluss
+BEZEICHNUNG: Leiblach
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  länge: 14 [km]
+  funktion: bildet Grenze zu Vorarlberg
+  namenherkunft: keltischer Name
+  urkundliche_ersterwähnung: 802 als "Luibilunache"
+  urkundliche_ersterwähnung_quelle: Reichsdeputationshauptschluss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 320-sigmarszell/019
+ENTITÄT: fluss
+BEZEICHNUNG: Leiblach
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  länge: 14 [km]
+  mündung: Bodensee
+  funktion: trennt Bayern von österreichischem Vorarlberg (Bezirk Bregenz)
+  urkundliche_ersterwähnung: 802 als "Luibilunache"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 320-sigmarszell/020
+ENTITÄT: fluss
+BEZEICHNUNG: Rohrach
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Schlucht bildet natürliche Grenze zwischen Bayern und Vorarlberg
+  ortsname: Rohrach-Schlucht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 320-sigmarszell/021
+ENTITÄT: kloster
+BEZEICHNUNG: St. Gallen
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsaktivität: Gründung von drei Urpfarreien im Lindauer Raum um 800 n. Chr.
+  patronatsrechte_in_sigmarszell: 1453 verbriefte Rechte
+  vogteirechte_bis: 16. Jahrhundert
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 320-sigmarszell/022
+ENTITÄT: burgruine
+BEZEICHNUNG: Grünschönstein
+ORTSTEIL_BEZUG: Schlachters
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  burgstall: ja
+  sage_schatz: nach alten Sagen soll ein Goldschatz im Burgstall Grünschönstein verborgen liegen
+  sage_schatz_genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 320-sigmarszell/023
+ENTITÄT: burgruine
+BEZEICHNUNG: Grünschönstein
+ORTSTEIL_BEZUG: Schlachters
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  typ: mittelalterliche Burganlage der Herren von Schönstein
+  erhaltung: nur noch Ringgraben erhalten
+  sage: Nach einer Sage soll unter dem Burgstall ein Schatz vergraben sein
+  sage_genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 320-sigmarszell/024
+ENTITÄT: burg
+BEZEICHNUNG: Waldburg Niederstaufen
+ORTSTEIL_BEZUG: Niederstaufen
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ebenmäßiger Hügel im Norden des Ortes
+  status: einst vorhanden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 320-sigmarszell/025
+ENTITÄT: burg
+BEZEICHNUNG: Häbholz (Heimholz)
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  auch_genannt: "Noble Burg"
+  zerstört: 1378
+  zerstört_von: Lindauer
+GUELTIG_AB: 1378
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 320-sigmarszell/026
+ENTITÄT: einöde
+BEZEICHNUNG: Biesings
+ORTSTEIL_BEZUG: Schlachters
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gasthof: "Sonne"
+  lage: kurz vor Schlachters
+  besonderheit: historischer Streit zwischen Österreich und Bayern
+  österreich_forderung: 1816
+  österreich_anspruch_grund: bei Übergabeverhandlungen 1806 vergessen
+  bayern_kampfdauer: zwei Jahrzehnte
+  strategische_bedeutung: bildet notwendigen Korridor nach Lindau
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 320-sigmarszell/027
+ENTITÄT: straße
+BEZEICHNUNG: Zellerstraße
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Führt zur Urzelle Sigmarszell
+  urzelle_bedeutung: gab der Gemeinde den Namen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 320-sigmarszell/028
+ENTITÄT: brücke
+BEZEICHNUNG: Zellersteg
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: 2004
+  überwindet: Leiblach (Landesgrenze)
+  ziel: Hohenweiler (Österreich)
+  nutzer: Besucher zum Spazierengehen, Walken oder Radfahren
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/029
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Sigmarszell
+QUELLE: https://www.sigmarszell.de/Geschichte-und-Wappen.n26.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1978
+  sitz: Sigmarszell
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 320-sigmarszell/030
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeinde Sigmarszell
+QUELLE: https://www.sigmarszell.de/Wappen.n27.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: "Geteilt von Gold und Silber; oben ein aus der Teilungslinie wachsender, rot bewehrter schwarzer Bär mit schwarzem Baum auf der Schulter, unten ein grünes Lindenblatt"
+  wappenführung_seit: 1966
+  symbol_bär: Attribut des heiligen Gallus, verweist auf St. Galler Tradition seit Frühmittelalter
+  symbol_baum: geschulterter Baum ist Attribut des heiligen Gallus
+  symbol_lindenblatt: erinnert an Herrschaft der Reichsstadt Lindau
+  tradition_ursprung: seit Frühmittelalter
+  pfarrkirche_gemeindepatron: St. Gallus (Pfarrkirche geweiht dem heiligen Gallus)
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 320-sigmarszell/031
+ENTITÄT: kz_außenkommando
+BEZEICHNUNG: KZ-Außenkommando Schlachters
+ORTSTEIL_BEZUG: Schlachters
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  übergeordnet_kommando: KZ Dachau
+  zeitraum: Ende des Zweiten Weltkriegs
+  lage_genauer: bei Biesings bei Schlachters
+  häftlinge_verlagerung: später ins KZ-Außenkommando Lochau
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/032
+ENTITÄT: gemeindereform
+BEZEICHNUNG: Zusammenschluss zur Gemeinde Schlachters
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. Januar 1972
+  eingemeindete: Bösenreutin, Sigmarszell, Niederstaufen
+  neue_gemeinde: Schlachters
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 320-sigmarszell/033
+ENTITÄT: gemeindereform
+BEZEICHNUNG: Umbenennung in Sigmarszell
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  datum: 8. Februar 1974
+  alter_name: Schlachters
+  neuer_name: Sigmarszell
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 320-sigmarszell/034
+ENTITÄT: ort_namenherkunft
+BEZEICHNUNG: Sigmarszell
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Sigmar, leibeigener Bauer
+  grund: Sigmar wollte unbedingt Pfarrer werden
+  ermöglichung: Seine Herrin ließ ihn gehen, so konnte er seinen Wunsch erfüllen
+  tätig_für: Pfarrer, half St. Gallus bei der Einführung des Christentums
+  wohnform: Wohnte in einer Zelle
+  namenableitung: "Sigmars-zell" aus Sigmar + Zelle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 320-sigmarszell/035
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Jörg Agthe
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  funktion: 1. Bürgermeister, Vorsitzender des Gemeinderats
+  amtsantritt: März 2014
+  partei: FBS (Freie Bürgerschaft Sigmarszell)
+  vorgänger: Walter Matzner
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 320-sigmarszell/036
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Anton Bertle
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  lebensdauer: 1861–1929
+  funktion: Pfarrer in Sigmarszell
+  tätigkeit_2: Verfasser einer Gemeindechronik
+  tätigkeit_3: Gründer der Energiegenossenschaft Schlachters
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 320-sigmarszell/037
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Norbert Jacques
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  lebensdauer: 1880–1954
+  herkunft: aus Luxemburg stammender Schriftsteller
+  residenz: 1920–1954 auf dem Gut Adelinenhof in Thumen (Ortsteil der Gemeinde Schlachters)
+  funktion: 1945 bis nach dem Zweiten Weltkrieg Bürgermeister der Gemeinde
+  begräbnis: dort begraben
+  denkmal: Gedenktafel im Friedhof an der Kirche St. Gallus
+  straße_named: Sackgasse im Ortsteil Thumen nach ihm benannt
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1954
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 320-sigmarszell/038
+ENTITÄT: bahnhof
+BEZEICHNUNG: Schlachters
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: Buchloe–Lindau
+  abschnitt_eröffnet: 1853
+  status_seit_1980er: Betriebsbahnhof ohne Personenverkehr
+GUELTIG_AB: 1853
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/039
+ENTITÄT: bundesstraße
+BEZEICHNUNG: B31
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  anfangspunkt: Anschlussstelle Sigmarszell (AS 3) der A96
+  ziel: Breisach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/040
+ENTITÄT: radweg
+BEZEICHNUNG: Bodensee-Königssee-Radweg
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  anfang: Lindau
+  route: führt über Sigmarszell und Hergensweiler nach Hergatz und weiter über Röthenbach (Allgäu) nach Oberstaufen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/041
+ENTITÄT: wanderweg
+BEZEICHNUNG: Jakobsweg
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: führt durch Niederstaufen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/042
+ENTITÄT: reichsstadt
+BEZEICHNUNG: Lindau
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  vogteirechte_erwerb: 1591 durch Tausch (von Kloster St. Gallen über Reichsstadt Wangen)
+  weitere_besitzungen: 1661 weitere Besitzungen im Gemeindegebiet Sigmarszell
+GUELTIG_AB: 1591
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/043
+ENTITÄT: fürstentum
+BEZEICHNUNG: Lindau
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1803 durch Reichsdeputationshauptschluss
+  zuweisung: Fürsten von Bretzenheim (ehemaliges Amt der Reichsstadt Lindau)
+  übergabe_österreich: 1804
+  übergabe_bayern: seit Friedensverträge von Brünn und Preßburg 1805
+GUELTIG_AB: 1803
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 320-sigmarszell/044
+ENTITÄT: römerstraße
+BEZEICHNUNG: Kempten–Bregenz
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  funde: römische Burgi bei niederstaufener Weilern Umgangs und Burgstall
+GUELTIG_AB: 1
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 320-sigmarszell/045
+ENTITÄT: römische_burgi
+QUELLE: https://de.wikipedia.org/wiki/Sigmarszell | Wikipedia
+EIGENSCHAFTEN:
+  funktion: turmartige Gebäude zur Verstärkung der Grenzbefestigung zwischen Kastellen
+  abstände: etwa 1,5 bis 2 Kilometer
+  grundfläche: fast quadratisch, 10 bis 12 Meter Seitenlänge
+  funktion_later: Vorgängerbau der späteren Mittelalterburg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80

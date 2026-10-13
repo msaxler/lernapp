@@ -1,0 +1,401 @@
+ID: 327-igling/001
+ENTITÄT: ort
+BEZEICHNUNG: Igling
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  bundesland: Bayern
+  region: Oberbayern
+  landkreis: Landsberg am Lech
+  lage: westlich des Lechs, am Übergang der hügeligen voralpinen Moränenlandschaft zum flachen Lechfeld
+  fließgewässer: Singold
+  höchste_erhebung_meter: 686
+  höchste_erhebung_name: Oberer Riedberg
+  tiefste_elevation_meter: 582
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 327-igling/002
+ENTITÄT: ort
+BEZEICHNUNG: Igling
+QUELLE: https://www.igling.de/gemeinde/zahlen-und-daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche_gesamt: 2636.7516 ha
+  einwohner_gesamt: 2681
+  stichtag: 15.10.2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/003
+ENTITÄT: ort
+BEZEICHNUNG: Igling
+ORTSTEIL_BEZUG: Igling
+QUELLE: https://www.igling.de/gemeinde/zahlen-und-daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1874
+  stichtag: 15.10.2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 327-igling/004
+ENTITÄT: ort
+BEZEICHNUNG: Oberigling
+ORTSTEIL_BEZUG: Oberigling
+QUELLE: https://www.igling.de/gemeinde/zahlen-und-daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 1040.1426 ha
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/005
+ENTITÄT: ort
+BEZEICHNUNG: Unterigling
+ORTSTEIL_BEZUG: Unterigling
+QUELLE: https://www.igling.de/gemeinde/zahlen-und-daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 843.0494 ha
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/006
+ENTITÄT: ort
+BEZEICHNUNG: Holzhausen bei Buchloe
+ORTSTEIL_BEZUG: Holzhausen
+QUELLE: https://www.igling.de/gemeinde/zahlen-und-daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 753.5596 ha
+  einwohner: 807
+  stichtag: 15.10.2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/007
+ENTITÄT: ort
+BEZEICHNUNG: Igling
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  status_historisch: Teil des Herzogtums und Kurfürstentums Bayern
+  hofmark_sitz: Oberigling
+  hofmark_status: geschlossene Hofmark
+GUELTIG_BIS: 1818
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/008
+ENTITÄT: gemeinde_zusammenschluss
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  grund: Gebietsreform in Bayern
+  zusammenschluss_komponenten: Oberigling, Unterigling
+  datum: 1. April 1971
+  resultat: neue Gemeinde Igling
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 327-igling/009
+ENTITÄT: gemeinde_eingemeindung
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindete_gemeinde: Holzhausen bei Buchloe
+  datum: 1. Mai 1978
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 327-igling/010
+ENTITÄT: bevölkerungsentwicklung
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1961: 2041
+  einwohner_1970: 1656
+  einwohner_1987: 1767
+  einwohner_1991: 1846
+  einwohner_1995: 1952
+  einwohner_2000: 2125
+  einwohner_2005: 2407
+  einwohner_2010: 2356
+  einwohner_2015: 2495
+  einwohner_2018: 2522
+  einwohner_2019: 2488
+  wachstum_1988_2019_personen: 682
+  wachstum_1988_2019_prozent: 37.8
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 327-igling/011
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Günter Först
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  partei: Freie Wähler Igling-Holzhausen
+  funktion: Erster Bürgermeister
+  wahl_datum: 30. September 2012
+  wahl_modus: Stichwahl
+  wahl_stimmen_prozent: 54.5
+  wahlbeteiligung_prozent: 62.9
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 327-igling/012
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Igling
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  besitzverhältnis: Privatbesitz
+  ausstattung: Schlossgaststätte, Neun-Loch-Golfplatz, Pro-Shop
+  historische_ereignisse: Beschlagnahme durch die SS im Zweiten Weltkrieg, Nachkriegsnutzung als Außenstelle der Justizvollzugsanstalt Landsberg, Unterkunft für Vertriebene nach 1945
+  donnersberg_umbau_beginn: 1620
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 327-igling/013
+ENTITÄT: kirche
+BEZEICHNUNG: Johannes der Täufer
+ORTSTEIL_BEZUG: Unterigling
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Pfarrkirche
+  konfession: Katholisch
+  baustil: Barockkirche
+  künstler_fresken: Johann Georg Lederer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/014
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul
+ORTSTEIL_BEZUG: Oberigling
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Pfarrkirche
+  konfession: Katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/015
+ENTITÄT: brauerei
+BEZEICHNUNG: Holzhauser Landbrauerei
+ORTSTEIL_BEZUG: Holzhausen
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  ausstattung: Biergarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 327-igling/016
+ENTITÄT: diskothek_bar
+BEZEICHNUNG: Iglinger Sommerkeller
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Diskothek und Nachtbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 327-igling/017
+ENTITÄT: kz_friedhof
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  standort: Kiesgrube
+  tote_anzahl: 2000
+  beschreibung: KZ-Opfer aus dem KZ-Außenlagerkomplex Kaufering
+  gedenkstein: vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/018
+ENTITÄT: kz_friedhof
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  standort: Wald am Stoffersberg
+  tote_anzahl: 490
+  beschreibung: KZ-Tote aus dem KZ-Außenlagerkomplex Kaufering
+  gedenkstein: vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/019
+ENTITÄT: kz_friedhof
+ORTSTEIL_BEZUG: Holzhausen
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  tote_anzahl: 94
+  beschreibung: Häftlinge, die nach der Befreiung der KZ-Außenlager starben
+  zeitraum: nach 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/020
+ENTITÄT: kz_aussenlagerkomplex
+BEZEICHNUNG: Kaufering II – Igling
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  mutterlagerkomplex: KZ Dachau
+  status_beschreibung: Außenlager des KZ Dachau
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 327-igling/021
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Igling
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: München–Buchloe
+  lage: westlich von Oberigling
+  inbetriebnahme: 1871
+  stilllegung_personenverkehr: 1985
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 327-igling/022
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Grundschule Igling
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  schüler: 164
+  lehrkräfte_hauptamtlich: 11
+  schuljahr: 2020/2021
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 327-igling/023
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Kindertagesstätte Igling
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  plätze: 122
+  betreute_kinder: 103
+  stichtag: 1. März 2019
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 327-igling/024
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Regens-Wagner-Schule Privates Förderzentrum
+ORTSTEIL_BEZUG: Holzhausen
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  typ: Privates Förderzentrum
+  schüler: 244
+  lehrkräfte: 41
+  schuljahr: 2020/2021
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 327-igling/025
+ENTITÄT: schuleinrichtung
+BEZEICHNUNG: Regens-Wagner-Schule Private Berufsschule zur sonderpädagogischen Förderung
+ORTSTEIL_BEZUG: Holzhausen
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  typ: Private Berufsschule zur sonderpädagogischen Förderung
+  schüler: 45
+  lehrkräfte_hauptamtlich: 4
+  schuljahr: 2020/2021
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 327-igling/026
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Igling
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: Über goldenem Dreiberg in Schwarz drei goldene Flammen aus silbernem Wolkenschildhaupt züngelnd
+  herkunft: Stammwappen der Münchner Patrizierfamilie von Donnersberg
+  bedeutung: Anspielung auf den Namen Donnersberg durch über Dreiberg aus Wolken züngelnde Flammen
+  adoption_jahr: 1977
+  grund_adoption: Neugründung der Gemeinde Igling 1971 und Eingliederung von Holzhausen 1978, Würdigung der Donnersberger als Förderer und Bauherren in der Gemeinde
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 327-igling/027
+ENTITÄT: patrizier_familie
+BEZEICHNUNG: Johann IX. Langenmantel vom Sparren
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  herkunftsort: Augsburg
+  titel: Patrizier
+  todesjahr: 1505
+  erwerbung_hofmark_datum: Nikolaustag 1504
+  erwerbung_grund: Unterstützung des Herzogs Albrecht IV. von Bayern-München im Landshuter Erbfolgekrieg
+  erworbener_besitz: Hofmark Igling mit zugehöriger Burg
+GUELTIG_AB: 1504
+GUELTIG_BIS: 1505
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/028
+ENTITÄT: adeliger_freiherr
+BEZEICHNUNG: Joachim Freiherr von Donnersberg
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Bayerischer Obristkanzler
+  besitzerwerb_jahr: 1611
+  besitzerwerb_art: Übernahme durch versippte Rehlinger
+  hofmark_besitz: Oberigling und Unterigling
+  baubeschreibung: Schloss Igling Neugestaltung seit 1620, Bauherr in Kirchen und Kapellen
+  bestattungsort: Oberiglinger Kirche
+  epitaph: kunstvolles Epitaph in der Oberiglinger Kirche
+  familienrolle: große Förderer der Gemeinde
+  besitzende_bis: 1835
+GUELTIG_AB: 1611
+GUELTIG_BIS: 1835
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/029
+ENTITÄT: wirtschaftsstatistik
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  sozialversicherungspflichtige_arbeitsplätze: 1409
+  arbeitsplätze_jahr: 2018
+  einpendler_differenz: 333 mehr als Auspendler
+  wohnbevölkerung_versicherungspflichtig_beschäftigt: 1076
+  arbeitslose: 23
+  landwirtschaftliche_betriebe: 31
+  bewirtschaftete_fläche_ha: 1077
+  bewirtschaftete_fläche_jahr: 2016
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 327-igling/030
+ENTITÄT: pfarreiengemeinschaft
+BEZEICHNUNG: Pfarreiengemeinschaft Igling
+QUELLE: https://www.igling.de/gemeinde/oeffentliche-einrichtungen/kirchen-und-pfarraemter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Pfarrgasse 2, 86859 Igling
+  telefon: 0 82 48 / 8 86
+  email: pg.igling@bistum-augsburg.de
+  website: www.pfarreiengemeinschaft-igling.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 327-igling/031
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Igling | Wikipedia
+EIGENSCHAFTEN:
+  sitze_csu_2026: 2
+  sitze_spd_2026: 0
+  sitze_fw_2026: 3
+  sitze_dgh_2026: 4
+  sitze_dgi_2026: 3
+  sitze_ubv_2026: 2
+  sitze_gesamt_2026: 14
+  wahlbeteiligung_2026_prozent: 72.0
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

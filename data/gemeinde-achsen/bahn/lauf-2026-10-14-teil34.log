@@ -1,0 +1,59 @@
+Orte: 316-langenargen 317-kressbronn 318-nonnenhorn 319-wasserburg-bodensee 320-sigmarszell 321-hergatz 322-leutkirch 323-aitrach 324-tuerkheim
+== Extraktion (Haiku) 00:46:54
+316-langenargen      extraktion ein  31744  aus  13710   0.12 USD   116 s  claude-haiku-4-5-20251001
+317-kressbronn       extraktion ein  22963  aus   6578   0.07 USD    53 s  claude-haiku-4-5-20251001
+318-nonnenhorn       extraktion ein  25232  aus  16325   0.12 USD   126 s  claude-haiku-4-5-20251001
+319-wasserburg-bodensee extraktion ein  24332  aus  16188   0.12 USD   132 s  claude-haiku-4-5-20251001
+320-sigmarszell      extraktion ein  21969  aus  10590   0.08 USD    85 s  claude-haiku-4-5-20251001
+321-hergatz          extraktion ein  20784  aus  19341   0.12 USD   142 s  claude-haiku-4-5-20251001
+322-leutkirch        extraktion ein  26001  aus  14145   0.11 USD   110 s  claude-haiku-4-5-20251001
+323-aitrach          extraktion ein  23950  aus  14739   0.11 USD   108 s  claude-haiku-4-5-20251001
+324-tuerkheim        extraktion ein  21909  aus   5585   0.06 USD    45 s  claude-haiku-4-5-20251001
+zusammen: 14900 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+316-langenargen    27454 Zeichen
+317-kressbronn     16108 Zeichen
+318-nonnenhorn     19153 Zeichen
+319-wasserburg-bodensee   36984 Zeichen
+320-sigmarszell    24641 Zeichen
+321-hergatz        21398 Zeichen
+322-leutkirch      33904 Zeichen
+323-aitrach        17255 Zeichen
+324-tuerkheim      18201 Zeichen
+== Karten (claude-opus-5-5) 00:50:38
+316-langenargen      karten     ein  42311  aus  39769   1.08 USD   344 s  claude-opus-5-5
+317-kressbronn       karten     ein  35741  aus  31942   0.87 USD   278 s  claude-opus-5-5
+318-nonnenhorn       karten     ein  38222  aus  33240   0.92 USD   285 s  claude-opus-5-5
+319-wasserburg-bodensee karten     ein  49268  aus  37199   1.08 USD   323 s  claude-opus-5-5
+320-sigmarszell      karten     ein  41458  aus  33662   0.95 USD   288 s  claude-opus-5-5
+321-hergatz          karten     ein  39680  aus  28657   0.84 USD   250 s  claude-opus-5-5
+322-leutkirch        karten     ein  44446  aus  35335   1.01 USD   306 s  claude-opus-5-5
+323-aitrach          karten     ein  36790  aus  30141   0.84 USD   259 s  claude-opus-5-5
+324-tuerkheim        karten     ein  37333  aus  29006   0.82 USD   250 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 01:00:30
+316-langenargen      pruefung   ein  66250  aus  11143   0.70 USD    99 s  claude-opus-5-5
+317-kressbronn       pruefung   ein  45690  aus  10663   0.52 USD    93 s  claude-opus-5-5
+318-nonnenhorn       pruefung   ein  40417  aus   6227   0.39 USD    56 s  claude-opus-5-5
+319-wasserburg-bodensee pruefung   ein  53382  aus   9105   0.56 USD    83 s  claude-opus-5-5
+320-sigmarszell      pruefung   ein  46427  aus   7867   0.47 USD    69 s  claude-opus-5-5
+321-hergatz          pruefung   ein  41231  aus   5045   0.38 USD    45 s  claude-opus-5-5
+322-leutkirch        pruefung   ein  61901  aus  12123   0.68 USD   106 s  claude-opus-5-5
+323-aitrach          pruefung   ein  48777  aus  10956   0.56 USD    94 s  claude-opus-5-5
+324-tuerkheim        pruefung   ein  46605  aus   8946   0.50 USD    79 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 01:03:27
+316-langenargen      stufe2     ein 184534  aus   4372   0.45 USD    67 s  claude-opus-5-5,claude-haiku-4-5-20251001
+317-kressbronn       stufe2     ein 223425  aus   9133   0.62 USD   125 s  claude-opus-5-5,claude-haiku-4-5-20251001
+318-nonnenhorn       stufe2     ein 531458  aus   9212   1.19 USD   150 s  claude-opus-5-5,claude-haiku-4-5-20251001
+319-wasserburg-bodensee stufe2     ein 345329  aus  10516   1.18 USD   141 s  claude-opus-5-5,claude-haiku-4-5-20251001
+320-sigmarszell      stufe2     ein 233136  aus   5863   0.88 USD   106 s  claude-opus-5-5,claude-haiku-4-5-20251001
+321-hergatz          stufe2     ein 890193  aus  12238   1.41 USD   212 s  claude-opus-5-5,claude-haiku-4-5-20251001
+322-leutkirch        stufe2     ein 197091  aus   5887   0.68 USD    78 s  claude-opus-5-5,claude-haiku-4-5-20251001
+323-aitrach          FEHLER keine Karte an Stufe 2 – kein Lauf
+324-tuerkheim        stufe2     ein 142493  aus   6408   0.55 USD    80 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 01:08:05
+Urteile: {'korrigiert': 961, 'bestätigt': 1669, 'gesperrt': 75, 'unsicher': 193} | im Vorrat: 2823 Karten an 324 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     324 Orte, 2823 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 3247456 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 01:08:07

@@ -1,0 +1,522 @@
+ENTITÄT: ort
+BEZEICHNUNG: Hergatz
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  dialekt: westallgäuerisch
+  dialekt_ausrichtung: Schwäbisch
+  westallgäuerische_bezeichnung: Hörgatz
+  region: westliches Allgäu
+  bundesland: Bayern
+  landkreis: Lindau (Bodensee)
+  hoehenlage_min: 550 [m ü. NHN]
+  hoehenlage_max: 630 [m ü. NHN]
+  gemeindeteile_anzahl: 21
+  erste_erwaehnung: 1349
+  entstehung_form: Gemeindereform
+  entstehung_aus: Wohmbrechts, Maria-Thann
+  entstehungsjahr: 1978
+  entstehungstag: 1. Mai
+  einwohner: 2387
+  einwohner_jahr: 2016
+  wappenfuehrung_seit: 1984
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wohmbrechts
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  administrative_funktion: Verwaltungssitz
+  erste_erwaehnung: 1269
+  strasse_lage: Bundesstraße 12
+  salzstrasse_passage: true
+  wallfahrtsort_bluetezeit_bis: 18. Jahrhundert
+  geschichte_salzfaktorei: letzte Salzfaktorei an der Salzstraße
+GUELTIG_AB: 1269
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Maria-Thann
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  urspruenglicher_name: Tann(e)
+  urspruenglicher_name_bedeutung: Siedlung im Tannenwald
+  namenszusatz_hinzufuegung_periode: 15. Jahrhundert
+  namenszusatz_anlass: Marienwallfahrt
+  namenszusatz_dokumentation_seit: 19. Jahrhundert
+  erste_sichere_erwaehnung_quelle: Liber taxationis der Diözese Konstanz (ecclesia in Tanne)
+  siedlung_wohnstaetten_1353: 24
+GUELTIG_AB: 1353
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Edelitz
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  gehoerte_frueher_zu: Pfarrei Wohmbrechts
+  besitz_1574: 5 Güter (St. Galler Lehenhöfe)
+  besitz_1574_quelle: Afterlehen Syrgensteins
+  davon_dienstbar_bis_19_Jahrhundert: 4 Güter
+GUELTIG_AB: 1574
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herren von Wohmbrechts
+ORTSTEIL_BEZUG: Wohmbrechts
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt_erwaehnung: 13./14. Jahrhundert
+  nachweisbarkeit_grundherrschaft: seit 1395
+  siegel_motiv: drei Greifenklauen
+  wappen_beitrag_hergatz: eine Greifenklaue im Wappen der Gemeinde Hergatz
+GUELTIG_AB: 1395
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ritter
+BEZEICHNUNG: Ulrich von Wohmbrechts
+ORTSTEIL_BEZUG: Wohmbrechts
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  zeit: 13./14. Jahrhundert
+  charakterisierung: energischster und kriegerischster Vertreter
+  konflikt_partner: Abt vom Weingartener Kloster
+  konflikt_gegenstand: Wald, den er als Lehen beanspruchte
+  siegel_motiv: drei Greifenklauen
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ritter
+BEZEICHNUNG: Wilhelm von Wohmbrechts
+ORTSTEIL_BEZUG: Wohmbrechts
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  relation_zu_ulrich: Nachkomme
+  zeit: 14./15. Jahrhundert
+  ruf: europaweit bekannter Haudegen
+  kriegsdienste: für König von Dänemark (gegen Schweden und Litauer), Markgrafen von Brandenburg, Grafen von Tirol, Herzog von Bayern
+  bauwerk_verbindung: Schloss Wohmbrechts wahrscheinlich in seiner Zeit gebaut
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: nonne
+BEZEICHNUNG: Richildis
+ORTSTEIL_BEZUG: Wohmbrechts
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  verehrung: als Selige verehrt
+  gebeine_beisetzung_ort: Pfarrkirche Wohmbrechts
+  gebeine_beisetzung_jahr: 1739
+GUELTIG_AB: 1739
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Georg von Jochner
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Archivar
+  geburt: 1860
+  tod: 1923
+GUELTIG_AB: 1860
+GUELTIG_BIS: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Dorn
+ORTSTEIL_BEZUG: Wohmbrechts
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Pfarrer und Historiker
+  geburt: 1900
+  tod: 1986
+  taetigkeitsstelle: Wohmbrechts
+  taetigkeitszeitraum: 1955-1969
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1986
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Georg Karg
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Haushaltsökonom
+  geburt: 1941
+GUELTIG_AB: 1941
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Oliver-Kersten Raab
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 2020
+  wiederwaehlung_datum: 8. März 2026
+  wiederwaehlung_stimmanteil: 89,1 %
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+ORTSTEIL_BEZUG: Wohmbrechts
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  typ: Pfarrkirche
+  besichtigbar: true
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Marienkirche
+ORTSTEIL_BEZUG: Maria-Thann
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wallfahrtskirche
+  merkmal: grüner Zwiebelturm
+  superlativ: eine der ältesten Kirchen des Allgäus
+  ursprung_pfarrei: Bildete den Ursprung der Pfarrei Maria-Thann
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schloss Wohmbrechts
+ORTSTEIL_BEZUG: Wohmbrechts
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_periode: wahrscheinlich Zeit Wilhelms von Wohmbrechts (14./15. Jahrhundert)
+  besichtigbar: true
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Salzstadel
+ORTSTEIL_BEZUG: Wohmbrechts
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  status: ehemaliger Salzstadel
+  lage: an der B 12
+  vorgaenger_bestand_ungefaehr: 1513
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: eisenbahnbruecke
+BEZEICHNUNG: Hämmerlebrücke
+ORTSTEIL_BEZUG: Muthen
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: Lindau–Immenstadt
+  ueberquert: Leiblachtal
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Hergatz
+ORTSTEIL_BEZUG: Hergatz
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  status: einziger verbliebener Bahnanschluss der Gemeinde
+  bahnstrecken: Kißlegg–Hergatz, Buchloe–Lindau
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Wohmbrechts
+ORTSTEIL_BEZUG: Wohmbrechts
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: Buchloe–Lindau
+  status: aufgelassen zu Zeiten der Deutschen Bundesbahn
+GUELTIG_AB: 1853
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Maria-Thann
+ORTSTEIL_BEZUG: Maria-Thann
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: Buchloe–Lindau
+  status: aufgelassen zu Zeiten der Deutschen Bundesbahn
+GUELTIG_AB: 1853
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Buchloe–Lindau
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  fertigstellung: 1853
+  passage_gemeinde: Wohmbrechts und Hergatz
+GUELTIG_AB: 1853
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Kißlegg–Hergatz
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  verzweigung_von: Bahnstrecke Buchloe–Lindau
+  verbindung_zu: Bahnstrecke Herbertingen–Isny (über Wangen im Allgäu)
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Bodensee-Königssee-Radweg
+ORTSTEIL_BEZUG: Hergatz
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  start: Lindau
+  passage: über Sigmarszell, Hergensweiler, Hergatz
+  verlauf_weiter: über Eglofstal, Röthenbach, Stiefenhofen nach Oberstaufen
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Schneeflockenfest
+ORTSTEIL_BEZUG: Hergatz
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: erstes Wochenende eines Jahres
+  veranstalter: Landjugend Hergatz
+  letztes_fest_jahr: 2012
+  letztes_fest_dauer: 3 Tage
+GUELTIG_AB: 
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: pflanze
+BEZEICHNUNG: Kirchenlinde
+ORTSTEIL_BEZUG: Maria-Thann
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  lage: bei der Marienkirche
+  entstehung_periode: 18. Jahrhundert
+  bestand_bis: 14. Februar 2000
+  grund_beseitigung: musste gefällt werden
+  ueberreste_status: können noch besichtigt werden
+GUELTIG_AB: 1700
+GUELTIG_BIS: 2000-02-14
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kaesefabrik
+BEZEICHNUNG: P. Paul Eberle
+ORTSTEIL_BEZUG: Hergatz
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  grundung: in Hergatz gegründet
+  produkt: Milchprodukte, Käse
+  bedeutung_bahnanbindung: 1890 Bahnanbindung machte Ort zu wichtigem Verkehrsknotenpunkt und gab Milchprodukten Absatzmarkt
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Salzstraße
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  verlauf_startpunkte: Bad Reichenhall, Hall in Tirol
+  verlauf_ziel: Lindau
+  verlauf_route: über Kempten, Isny, Wangen an den Bodensee
+  passage_gemeinde_teil: Wohmbrechts
+  bedeutung_geschichte: prägte Wohmbrechts und Hergatz
+  bedeutung_pilgerwesen: Wohmbrechts viel besuchter Wallfahrtsort, Salzstraße von Pilgern genutzt
+  infrastruktur: letzte Salzfaktorei an der Straße in Wohmbrechts
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bundesstrasse
+BEZEICHNUNG: Bundesstraße 12
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: München–Lindau
+  gemeindeteile_an_strasse: Grod, Beuren, Möllen, Wohmbrechts, Hergatz
+  entfernung_von_lindau: etwa 20 km
+  ortsdurchfahrt_wohmbrechts: true
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bundesstrasse
+BEZEICHNUNG: Bundesstraße 32
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Verbindung zu Anschlussstellen A 96 (Wangen-West, Wangen-Nord)
+  fahrtzeit: wenige Minuten
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Obere Argen
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Grenzfluss Bayern zu Baden-Württemberg
+  grenzung_seite_gemeinde: Nordosten
+  entwässerung_ziel: östlicher Bodensee
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Schwarzenbach
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  zufluss_von: Obere Argen (linker Zufluss abwärtig)
+  funktion: Grenzfluss Bayern zu Baden-Württemberg
+  grenzung_seite_gemeinde: Nordwesten
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Dürrach
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  zufluss_von: Obere Argen (rechter Oberlaufzufluss)
+  grenzung_seite_gemeinde: Südseite
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Leiblach
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  grenzung_seite_gemeinde: Westen
+  entwässerung_ziel: östlicher Bodensee
+GUELTIG_AB: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Gemeinde Hergatz
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Silber eine eingeschweifte rote Spitze, darin ein silberne heraldische Lilie; vorne ein schwarzer Greifenfang, hinten ein schwarzer Schrägbalken.
+  zusammensetzung_herkunft: Elemente aus ehemals selbstständigen Gemeinden Maria-Thann und Wohmbrechts
+  element_greifenfang_herkunft: Wappen der Herren von Wohmbrechts
+  element_greifenfang_zeit: seit 1395 als Grundherren nachweisbar
+  element_lilie_herkunft: altes Wappen der Reichsstadt Wangen
+  element_lilie_bedeutung: erinnert an Herrschaft Wangens in Wohmbrechts
+  element_schraegbalken_herkunft: Wappen der Sürg von Sürgenstein
+  element_schraegbalken_zeit: seit Mitte 14. Jahrhundert Rechte und Besitzungen in Maria-Thann
+  fueherung_seit: 1984
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: einwohnerentwicklung
+BEZEICHNUNG: Hergatz
+QUELLE: https://de.wikipedia.org/wiki/Hergatz | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1840: 849
+  einwohner_1900: 1093
+  einwohner_1939: 1262
+  einwohner_1950: 1642
+  einwohner_1961: 1720
+  einwohner_1970: 1882
+  einwohner_1987: 2158
+  einwohner_1991: 2230
+  einwohner_1995: 2302
+  einwohner_2000: 2264
+  einwohner_2005: 2297
+  einwohner_2010: 2309
+  einwohner_2015: 2393
+  einwohner_2016: 2387
+  wachstum_1988_2008: 153 Einwohner (ca. 7 %)
+  wachstum_1988_2018: 259 Einwohner (ca. 12 %)
+  bemerkung: Bezug auf heutige Gemeindefläche (Stand 1978)
+GUELTIG_AB: 1840
+GUELTIG_BIS: 2016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95

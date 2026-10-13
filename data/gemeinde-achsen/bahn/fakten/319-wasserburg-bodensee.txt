@@ -1,0 +1,940 @@
+ID: 319-wasserburg-bodensee/001
+ENTITÄT: ort
+BEZEICHNUNG: Wasserburg (Bodensee)
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Nordufer des Bodensees, 5 km westlich von Lindau
+  landkreis: Lindau (Bodensee)
+  bundesland: Bayern
+  status: staatlich anerkannter Luftkurort
+  ist_anrainergemeinde_bodensee: true
+  gemeindeteile_anzahl: 8
+  gemarkungen_anzahl: 2
+  nachbarort_westlich: Nonnenhorn
+  nachbarort_oestlich: Lindau und Bodolz
+  nachbarkreis_nördlich: Bodenseekreis
+  ehemalige_namen: Mitten (bis 1926)
+  umbenannt_datum: 1926-03-23
+  einwohner_1988: 2731
+  einwohner_2018: 3825
+  wachstum_1988_2018_prozent: 40,1
+  wachstum_1988_2018_absolute: 1094
+  wachstum_1988_2018_hoechster_landkreis: true
+  einwohner_2022: 4459
+  eingemeindung_hege: 1972-01-01
+GUELTIG_AB: 926
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/002
+ENTITÄT: ort_erste_nennung
+BEZEICHNUNG: wazzarburuc
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  quelle_dokument: Urkunde des Klosters Sankt Gallen
+  jahr: 784
+GUELTIG_AB: 784
+GUELTIG_BIS: 784
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/003
+ENTITÄT: ortschaft
+BEZEICHNUNG: Mitten
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: sich im Norden anschließende Ortschaft
+  teil_ab: 1925
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/004
+ENTITÄT: gebiet_eingegliedert
+BEZEICHNUNG: Hege
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1972-01-01
+  status_vorher: selbständige Gemeinde
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/005
+ENTITÄT: halbinsel
+BEZEICHNUNG: Halbinsel Wasserburg
+QUELLE: https://www.wasserburg-bodensee.de/geschichte/die-malerische-halbinsel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_denkmal: denkmalgeschützt
+  groesse_hektar: 2,3
+  beschreibung: malerische Halbinsel mit Kirche und Schloss
+  ehemals_insel: true
+  grund_insel_zu_halbinsel: Zuschüttung des trennenden Wassergrabens durch Fugger
+GUELTIG_AB: 1720
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/006
+ENTITÄT: sandsteinsaeuele
+BEZEICHNUNG: Sandsteinsäule (Erinnerung an Inseleigenschaft)
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: erinnert an Verlust der Inseleigenschaft
+  anlass: Zuschüttung des Grabens durch Fugger
+  jahr: 1720
+GUELTIG_AB: 1720
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/007
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Wasserburg
+QUELLE: https://www.wasserburg-bodensee.de/geschichte/das-schloss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit_erste_burg: 1537-1555
+  bauherr_erste_burg: Grafen von Montfort
+  bautyp_erste_burg: Renaissanceschloss, Dreiflügelanlage
+  ersetzt: Frühere Burganlage der Herren von Schellenberg
+  mauersstaerke_meter: 3
+  teil_westflügel_zerstörung: 1750-02-17
+  grund_zerstörung: Brand
+  westflügel_wieder_aufgebaut: false
+  privatbesitz_seit: 1812
+  privatbesitzer: Familie Köberle
+  heutige_nutzung: Hotel und Restaurant
+GUELTIG_AB: 1537
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/008
+ENTITÄT: burg_urspruengliche
+BEZEICHNUNG: Erste Wasserburg
+QUELLE: https://www.wasserburg-bodensee.de/geschichte/das-schloss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1537-1555
+  genauigkeit: vermutlich
+  gruender: Kloster Sankt Gallen
+  bauzeit_original: Mitte 8. Jahrhundert
+  nordostecke_material: Buckelquader aus Nagelfluh, Findlinge aus Urgestein
+  mauersstaerken_meter_min: 2,2
+  mauersstaerken_meter_max: 3
+  zerstoerung_jahr: 1358
+  grund_zerstoerung: Truppen des Städtebundes
+  verwendung: Basis beim Bau des Schlosses, in dessen Mauern einbezogen
+GUELTIG_AB: 750
+GUELTIG_BIS: 1358
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/009
+ENTITÄT: kelter
+BEZEICHNUNG: Kelter (Torkel)
+ORTSTEIL_BEZUG: Schloss Wasserburg, Nordseite
+QUELLE: https://www.wasserburg-bodensee.de/geschichte/das-schloss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung_bis_1930: Presse und Spindel
+  heutige_nutzung: deutsch-französisches Schülerheim
+  ehemaliger_name: Torkel
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/010
+ENTITÄT: zugbruecke
+QUELLE: https://www.wasserburg-bodensee.de/geschichte/das-schloss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Burg im Wasser bis 1720 durch Zugbrücke mit Land verbunden
+  aufgehoben_jahr: 1720
+  grund: Fugger ließen die Zugbrücke nicht mehr reparieren
+GUELTIG_AB: 800
+GUELTIG_BIS: 1720
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/011
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg (Katholische Pfarrkirche)
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  first_mention_jahr: 784
+  erstnennung_genauigkeit: vermutlich aus Holz gebaut
+  zugehoerigkeit: Kloster St. Gallen
+  chor_baustil: gotischer Vorgängerbau
+  chor_baustil_zeitraum: um 1400
+  kirchturm_original: spitz
+  turmhaube_stil: welsche Haube im Stil des Augsburger Baumeisters Elias Holl
+  turmhaube_zeitraum: 17. Jahrhundert
+  hochaltar: barock mit lebensgroßen Figuren der Heiligen Gallus und Otmar
+  epitaph: Fugger-Graf Leopold über der Sakristeitür
+  steintafeln: Seegfrörnen 1573, 1830, 1963
+  deckenfresco_zeitraum: 1918-1919
+  deckenfresco_kuenstler: Otto Hämmerle
+  deckenfresco_kuenstler_lebensdaten: 1881-1947
+  deckenfresco_kuenstler_herkunft: München
+  deckenfresco_motiv: Geschichte Wasserburgs
+  orgelwerk: reich verziert
+GUELTIG_AB: 784
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/012
+ENTITÄT: kapelle
+BEZEICHNUNG: Antoniuskapelle
+ORTSTEIL_BEZUG: Selmnau
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  erste_nennung: 1492
+  ursprung: Einsiedelei
+  baustil: Barock
+  baustil_jahr: 1696
+  ausstattung: Gotische Madonnafigur, mehrere barocke Skulpturen
+  standort: Moränenhügel mit weitem Ausblick über Bodensee
+GUELTIG_AB: 1492
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/013
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes (Evangelische Kirche)
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  benennung: Nach Johannes dem Evangelisten
+  einweihung_datum: 1937-11-11
+  fluegelatar_kuenstler: Karl Hemmeter
+  fluegelatar_kuenstler_herkunft: München
+  vater_unser_fries: Holz, umlaufend an Seitenwänden
+  taufstein: monolithisch
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/014
+ENTITÄT: kapelle
+BEZEICHNUNG: St.-Jakobus-Kapelle (Gfrörnenkapelle)
+ORTSTEIL_BEZUG: Reutenen
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  konstruktion: 1643
+  benennung: heiliger Jakobus
+  ursprung_vermutung: Pestkapelle
+  ursprung_grund: Grausamkeiten des Dreißigjährigen Krieges
+  material: Sandsteinquader, Feldsteine, Bodenseewacken
+  dach: handgestrichene Biberschwänze
+  boden: Rorschacher Sandstein
+  renovation_jahr: 2004
+  renovation_art: private Initiative, gründlich und sensibel
+  kunstwerke: volkstümliche Madonnafigur, heiliger Leonhard
+GUELTIG_AB: 1643
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/015
+ENTITÄT: pfarreiengemeinschaft
+BEZEICHNUNG: Pfarreiengemeinschaft Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  pfarreien_anzahl: 3
+  pfarrei_1: St. Johannes der Täufer in Bodolz
+  pfarrei_2: St. Christophorus in Nonnenhorn
+  pfarrei_3: St. Georg in Wasserburg
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 319-wasserburg-bodensee/016
+ENTITÄT: museum
+BEZEICHNUNG: Museum im Malhaus
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1597
+  ehemalige_funktion: Gerichtsgebäude der Fugger
+  museum_seit: 1979
+  lage: Halbinsel, direkt beim Landesteg der Bodensee-Schiffsbetriebe
+  frieheres_name: Malhaus (Gerichtshaus)
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/017
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Bichelweiher und Bichelweihermoos
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lage: östliches Gemeindegebiet, nahe Grenze zu Bodolz
+  bestandteil: Bichelweiher (ehemaliger Mühlenteich)
+  teil_natura2000: true
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/018
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Mittelseemoos
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: eines der artenreichsten Flachmoore im Landkreis Lindau
+  entstehung_zeitraum: vor ca. 15000 Jahren
+  entstehung_grund: Würmeiszeit
+  entwicklung: Moränensee verlandet zu Moor
+  pflege: jährlich einmalige Mahd im September
+  arten_flora: Breitblättriges Wollgras, Sumpf-Stendelwurz, Shuttleworths Rohrkolben, Lungenenzian
+  arten_fauna: Ameisenbläulinge, Neuntöter, Sumpf-Heidelibellen, Sumpfrohrsänger
+GUELTIG_AB: 15000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/019
+ENTITÄT: lehrpfad
+BEZEICHNUNG: Biotoplehrpfad Birkenried
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  einrichtung: 1996
+  stationen_anzahl: 9
+  namensherkunft: Rodung eines Birkenwaldes
+  themen: Hochstaudenfluren, Tümpel, Totholz, Nisthilfen für Insekten, Eschbach mit Altarm, Weidengebüsch, Lesesteinhaufen, Benjeshecke
+  arten_fauna: Teichrohrsänger, Große Heidelibelle und weitere Vogel- und Libellenarten
+  verbindung: Teil des Bodenseepfads mit acht Stationen
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/020
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: Geteilt von Silber und Blau; oben der Rumpf eines rotbewehrten schwarzen Bären, unten über blauen Wasserwellen eine zinnenbekrönte silberne Burg
+  baer_bedeutung: Hinweis auf Kloster St. Gallen
+  burg_bedeutung: Schloss Wasserburg, Geschenk des dankbaren Abtes von St. Gallen 1537 an Graf Hugo von Montfort (Vermittler im Bauernkrieg)
+  farben_bedeutung: heutige Zugehörigkeit zum Bundesland Bayern
+  zuerkannt: 1954
+  zuerkannt_von: Kreispräsidium Lindau
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/021
+ENTITÄT: buergermeister
+BEZEICHNUNG: Harald Voigt
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  partei: Freie Bürgerschaft Wasserburg
+  amtsantritt: 2020-05-01
+  wahlgang: 1
+  stimmanteil_prozent: 72,5
+  titel: Berufsmäßiger Erster Bürgermeister
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/022
+ENTITÄT: familie
+BEZEICHNUNG: Wasserburger Fugger
+QUELLE: https://www.wasserburg-bodensee.de/geschichte/die-malerische-halbinsel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Kaufmannsfamilie
+  zeitraum_herrschaft: 17. und 18. Jahrhundert
+  macht_beschreibung: hatten hier das Sagen
+  aktion: ließen den trennenden Wassergraben zwischen Insel und Festland zuschütten
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/023
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zerstörung der Festung Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1358-06-24
+  grund: Angriff durch Truppen des Städtebundes
+  folge: Festung in Schutt und Asche gelegt
+GUELTIG_AB: 1358
+GUELTIG_BIS: 1358
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/024
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Ungarische Angriffe auf Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  vermutung: true
+  zeitraum: 925-955
+  beschreibung: Ungarn wagten Angriff mit Feuer und Schwert auf die Sankt Gallener Klosterfestung Wasserburg
+  erfolg: möglicherweise abgewehrt trotz Brandes auf der Vorberg
+  beweis: Spuren der Ausgrabungen 1993
+GUELTIG_AB: 925
+GUELTIG_BIS: 955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 319-wasserburg-bodensee/025
+ENTITÄT: herrschaft_wechsel
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  von_jahr: 1280
+  bis_jahr: 1386
+  von_herren: Herren von Kisslegg
+  von_stellung: Ministerialen des Klosters
+  zu_herren: Herren von Schellenberg
+  kaufpreis: 500 Mark Silber
+  aktion: bauten Wasserburg als St. Galler Lehen zur Festung aus
+  lehen_bis: 1826
+GUELTIG_AB: 1280
+GUELTIG_BIS: 1386
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/026
+ENTITÄT: herrschaft_wechsel
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  von_jahr: 1358
+  zu_jahr: 1386
+  zu_herren: Grafen von Montfort
+  vermittler: Grafen von Ebersberg
+  kaufpreis: 650 Pfund Heller
+GUELTIG_AB: 1386
+GUELTIG_BIS: 1386
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/027
+ENTITÄT: adelsline
+BEZEICHNUNG: Montfort-Rothenfels-Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  formation_ab: 1450
+  gruender_oder_vertreter: Hugo XIII.
+  mutterline: Grafen von Montfort
+GUELTIG_AB: 1450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/028
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Verlagerung der Universität Freiburg nach Bodensee
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  grund: Pestepidemie in Freiburg 1519
+  zeitraum: Januar 1519, Dauer 1 Jahr
+  standorte: Bodensee nach Wasserburg, Lindau und Konstanz verlegt
+  betroffene: Unterricht für Studenten
+GUELTIG_AB: 1519
+GUELTIG_BIS: 1520
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/029
+ENTITÄT: herrschaft_wechsel
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  von_jahr: 1592
+  zu_herren: Grafen Fugger von Kirchberg und Weißenhorn zu Babenhausen
+  kaufpreis: 63000 Gulden
+  vorgaenger: hoch verschuldete Montforter Grafen
+GUELTIG_AB: 1592
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/030
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hexenverfolgungen in Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1655-1664
+  under_herrschaft: Fuggerscher Herrschaft
+  opfer_minimum: 25
+GUELTIG_AB: 1655
+GUELTIG_BIS: 1664
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/031
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Brand des Westflügels der Burg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1750-02-17
+  folge: Westflügel vollständig zerstört
+  wiederaufbau: nicht erfolgt
+GUELTIG_AB: 1750
+GUELTIG_BIS: 1750
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/032
+ENTITÄT: herrschaft_wechsel
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  von_jahr: 1720
+  zu_jahr: 1755
+  bis_von: Fugger
+  zu: Erzhaus Österreich
+  grund: hohe Schulden der Fugger
+GUELTIG_AB: 1755
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/033
+ENTITÄT: einrichtung_oesterreich
+BEZEICHNUNG: Poststation Bichel
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  ort: Weiler Bichel
+  zweck: österreichische Poststation am See
+  vorgaenger_konkurrenz: Mailänder Bote in Lindau
+GUELTIG_AB: 1755
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/034
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Seekrieg auf dem Bodensee vor Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1799-1800
+  kontext: Koalitionskriege
+GUELTIG_AB: 1799
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/035
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Besetzung von Bregenz durch Franzosen
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1800-05-11
+  folge: Franzosen vorgerückt über Südwestdeutschland
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/036
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Pressburger Frieden
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1805-12-26
+  folge: Gebiet kam zum Kurfürstentum Bayern
+GUELTIG_AB: 1805
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/037
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bayern wird Königreich
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1806-01-01
+  vorgaenger: Kurfürstentum Bayern
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/038
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Aufhebung des Weinzehents
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1826
+  betroffen: Kloster Sankt Gallen
+GUELTIG_AB: 1826
+GUELTIG_BIS: 1826
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/039
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Dampferanlegestelle
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  bau_jahr: 1872
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/040
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: Friedrichshafen–Lindau
+  errichtung: 1899
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/041
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Elektrizität in Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: elektrisches Licht
+  zeitraum: ab 1911/12
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/042
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: 1225-Jahr-Feier der Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 2009
+  anlass: Erste Nennung von Wasserburg vor 1225 Jahren (784)
+  ausstellung: United Buddy Bears (ca. 1 Meter groß) auf der Wasserburger Halbinsel
+  ausstellung_zeitraum: August und September 2009
+GUELTIG_AB: 2009
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/043
+ENTITÄT: fund
+BEZEICHNUNG: Wasserburger Einbaum
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: bronzezeitliches Transportmittel
+  bergung: Frühjahr 2018
+  bergungsort: Eschbach-Mündung vor dem Wasserburger Ufer
+  groesse: Größtes und ältestes je am Bodensee gefundenes Transportmittel
+  alter_jahre: 3150
+  alter_genauigkeit: ca.
+  alter_methode: dendrochronologische Altersbestimmung
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/044
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Martin Walser
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1927-2023
+  beruf: Schriftsteller
+  status: Ehrenbürger
+  status_verleihung: 1984
+GUELTIG_AB: 1927
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/045
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Horst Wolfram Geissler
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1893-1983
+  beruf: Schriftsteller
+  status: Ehrenbürger
+  werk: Der liebe Augustin
+  bezug_wasserburg: in Wasserburg begraben, Wahl-Wasserburger
+GUELTIG_AB: 1893
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/046
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rudolf Agricola
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1490-1521
+  status: Sohn der Gemeinde
+  auszeichnung: von Kaiser Maximilian I. zum Dichter gekrönt
+GUELTIG_AB: 1490
+GUELTIG_BIS: 1521
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/047
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Xaver Löffler
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1875-1955
+  beruf: Maler und Grafiker
+  status: im Ort gewirkt
+GUELTIG_AB: 1875
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/048
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Hämmerle
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1881-1947
+  beruf: Maler
+  herkunft: München
+  werk: Deckenfresken in St. Georg Kirche 1918/19
+  werk_motiv: Motiven aus der Geschichte Wasserburgs
+GUELTIG_AB: 1881
+GUELTIG_BIS: 1947
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/049
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Paul Bieber
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  alter_beim_rekord: 37
+  status: Extremschwimmer
+  rekord: deutscher Rekord im Eisschwimmen
+  rekord_datum: 2021-01-01
+  rekord_ort: Bodensee vor Wasserburg
+  rekord_wassertemperatur: unter 5 Grad Celsius
+  rekord_zeit: 43,03 Minuten
+  rekord_distanz: 2,210 km
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 319-wasserburg-bodensee/050
+ENTITÄT: sportverein
+BEZEICHNUNG: SGM Hege-Nonnenhorn(-Wasserburg)-Bodolz
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+  struktur: Verbund der lokalen Gemeinden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 319-wasserburg-bodensee/051
+ENTITÄT: sportverein
+BEZEICHNUNG: Segelschule Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Halbinsel
+  sportart: Segeln
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 319-wasserburg-bodensee/052
+ENTITÄT: sportverein
+BEZEICHNUNG: Windsurfer-Club Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Freibad Aquamarin
+  sportart: Windsurfen
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 319-wasserburg-bodensee/053
+ENTITÄT: sportverein
+BEZEICHNUNG: Tennisclub Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  plaetze_anzahl: 3
+  lage: in der Nähe des Sees
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 319-wasserburg-bodensee/054
+ENTITÄT: sportverein
+BEZEICHNUNG: TSV Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Sumserhalle
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 319-wasserburg-bodensee/055
+ENTITÄT: sportverein
+BEZEICHNUNG: Faustballteam Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  liga: Bezirksliga Süd
+  erfolge: Meisterschaft 2024
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/056
+ENTITÄT: gebaeude
+BEZEICHNUNG: Feuerwehrhaus Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1904
+  heutige_nutzung: Feuerwehrhaus
+  besonderheit: NOCH GmbH präsentierte Bausatz in 2010er Jahren
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/057
+ENTITÄT: gebaeude
+BEZEICHNUNG: Sumserhalle
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Seeufer beim Freibad Aquamarin
+  nutzung: sportliche Aktivitäten, kulturelle Veranstaltungen
+  namensgeber: Augustin Sumser (Hauptperson in Horst Wolfram Geisslers Roman Der liebe Augustin)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/058
+ENTITÄT: gebaeude
+BEZEICHNUNG: Freibad Aquamarin
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Strandbad mit beheiztem Schwimmbecken
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 319-wasserburg-bodensee/059
+ENTITÄT: hafen
+BEZEICHNUNG: Schiffsanlegestelle Bodenseeschiffsbetriebe
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Halbinsel
+  verbindungen: Lindau, Bregenz, Konstanz, Rorschach
+  verkehrszeitraum: April bis Oktober
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/060
+ENTITÄT: hafen
+BEZEICHNUNG: Fischereihafen Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Halbinsel
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 319-wasserburg-bodensee/061
+ENTITÄT: hafen
+BEZEICHNUNG: Sportboothafen Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Halbinsel
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 319-wasserburg-bodensee/062
+ENTITÄT: verkehr_eisenbahn
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  bahnlinie_1: RB 93 Friedrichshafen Hafen – Lindau-Insel, stündlich
+  bahnlinie_2: RE 3 Ulm Hauptbahnhof – Friedrichshafen Stadt – Lindau-Reutin, ca. zweistündlich
+  bahnstrecke: Friedrichshafen–Lindau
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/063
+ENTITÄT: verkehr_bus
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  buslinie: 20
+  verbindung: Wasserburg – Lindau
+  ortsteile_verbunden: Hengnau, Hege, Hattnau
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/064
+ENTITÄT: verkehr_strasse
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  bundesstrasse: B 31
+  beschreibung: tangiert im Norden die Gemeinde
+  abfahrten: keine eigene, nächste in Kressbronn oder Lindau
+  alte_b31: Kreisstraße LI 16
+  alte_b31_strecke: Kressbronn – Nonnenhorn – Wasserburg – Enzisweiler – Lindau
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 319-wasserburg-bodensee/065
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Obstanbau Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  obstarten: verschiedene Obstarten
+  kernobst: Apfel und Birnensorten
+  schwerpunkt: Kernobstanbau
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/066
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Weinbau Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  bereich: Bayerischer Bodensee
+  weinbaugebiet: Württemberg
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/067
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Fischerei Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Bodenseefischer versorgen Restaurants mit frischem Bodenseefisch
+  hauptfisch: Felchen
+  erwerbszweig_seit: Beginn 20. Jahrhundert
+  historisches: davor Privileg der adeligen Herrschaft (neben Jagd)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/068
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Tourismus Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Gemeinde vor allem vom Tourismus geprägt
+  campingplatz: vorhanden
+  strandbad: mit beheiztem Schwimmbecken
+  bootsverleih: vorhanden
+  segelschule: vorhanden
+  unterkunft_hotels_pensionen_privatquartiere: Anzahl > 1700 Gästebetten
+  radwege: Bodensee-Radweg, Bodensee-Rundweg
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/069
+ENTITÄT: ausblick
+BEZEICHNUNG: Panoramablick von Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: einzigartiger Blick auf die Berge
+  sichtbereich: Schweiz, Liechtenstein, Österreich
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 319-wasserburg-bodensee/070
+ENTITÄT: halbinsel
+BEZEICHNUNG: Halbinsel Wasserburg
+QUELLE: https://de.wikipedia.org/wiki/Wasserburg_(Bodensee) | Wikipedia
+EIGENSCHAFTEN:
+  kennzeichen: malerische Halbinsel (Kennzeichen von Wasserburg)
+  gebaeude: Kirche St. Georg, Schloss Wasserburg, Malhaus (früheres Gerichtshaus)
+  infrastruktur: Schiffsanlegestelle, Fischereihafen, Sportboothafen
+GUELTIG_AB: 1720
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

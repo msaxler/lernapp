@@ -1,0 +1,521 @@
+ENTITÄT: ort
+BEZEICHNUNG: Buchloe
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_urkundliche_erwaehnung: 1100-1150
+  namensherkunft: "ze den buoch-lohun" (althochdeutsch), "bei den lichten Buchenwaldern"
+  stadt_seit: 1954
+  stadt_erhoben_durch: Koenig Rudolf von Habsburg, 1273-1283
+  einwohner: 13840
+  gueltig_ab_einwohnerzahl: 2022
+  hoehe_ueber_nn: 615
+  hoehe_einheit: Meter
+  postleitzahl: 86807
+  telefonvorwahl: 0 82 41
+  gelaende_flaeche: 3617
+  gelaende_einheit: ha
+  wohngebaeude_anzahl: 3387
+  wohnungen_anzahl: 5769
+  landwirtschaftliche_betriebe_anzahl: 55
+  gewerbesteuer: 330
+  gewerbesteuer_einheit: v.H.
+  grundsteuer_a: 370
+  grundsteuer_a_einheit: v.H.
+  grundsteuer_b: 370
+  grundsteuer_b_einheit: v.H.
+  wappen_beschreibung: "Spaetgotischer Spitzschild, von Rot und Silber gespalten"
+  wappenfarben: "Rot und Silber"
+  wappen_bedeutung: "Hinweis auf fruhere Zugehoerigkeit zum Hochstift Augsburg"
+  region: Schwaben
+  landkreis: Ostallgäu
+  lage: "nördliches Ostallgäu"
+  groesse_status: "drittgroesste kreisangehoerige Stadt im Landkreis Ostallgäu (2024)"
+  zentralitaet_klassifizierung: "Mittelzentrum"
+  gegruendung_jahr: "ca. 800 nach Christus"
+  gruendung_durch: Welfen
+  gruendung_lage: "auf bewaldeten Hoehenweg am oestlichen Gennachtal"
+  infrastruktur_eisenbahn: "Bahnknotenpunkt, Eisenbahnknotenpunkt (Züge im Bayerntakt)"
+  infrastruktur_autobahn: "zwei Autobahnanschluessel A 96 (Muenchen-Buchloe-Memmingen-Lindau)"
+  angebunden_bundesstrasse: "B 12, B 17"
+  angebunden_staatsstrasse: "2035"
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Buchloe
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.buchloe.de/buchloe-umgebung/kurzportrait-der-stadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 13900
+  gueltig_ab_einwohnerzahl: 2024
+  einwohner_alt: 13500
+  klassifizierung: "moegliches Mittelzentrum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Buchloe
+QUELLE: https://www.buchloe.de/buchloe-umgebung/ortsplaene-und-zahlen/zahlen-statistiken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 13500
+  gueltig_ab_einwohnerzahl: 2024
+  klassifizierung: "Mittelzentrum"
+  groesse_ranking: "drittgroesste Kommune des Landkreises Ostallgäu"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hausen
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/hausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_urkundliche_erwaehnung: 1172
+  erstmalige_erwaehnung_durch: "Ulrich von Hausen als Zeuge einer Schenkung"
+  einwohner: 116
+  gueltig_ab_einwohnerzahl: 2022
+  telefonvorwahl: 0 82 46
+  eingemeindung_jahr: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Honsolgen
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/honsolgen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschichte_bis: "Römerzeit (2. Jahrhundert nach Christus)"
+  erstmalige_urkundliche_erwaehnung: 1067
+  erstmalige_erwaehnung_quelle: "Emriko-Urkunde (benannt nach Bischof von Augsburg)"
+  erstmalige_erwaehnung_rolle: "Marktwart von Hunsole bezeugte Grundstuecksschenkung"
+  namensherkunft: "von Lage in schwarzbrauner, mooriger Erde"
+  namensbestandteil_hun: "germanisches Wort für dunkel oder schwarz"
+  einwohner: 644
+  gueltig_ab_einwohnerzahl: 2022
+  eingemeindung_jahr: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lindenberg
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/lindenberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: "von Erhebuung im Ortskern, die schon zu früheren Zeiten mit Linden bewachsen war"
+  siedlungstyp: "Haufendorf"
+  ehemaliger_status: "Pfarrsitz"
+  lage_zu_buchloe: "2 km südlich von Buchloe"
+  grundbesitz_herrschaft: "Herren von Ursin-Ronsberg"
+  einwohner: 1813
+  gueltig_ab_einwohnerzahl: 2022
+  eingemeindung_jahr: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtpfarrkirche Mariä Himmelfahrt
+ORTSTEIL_BEZUG: Buchloe
+QUELLE: https://www.buchloe.de/buchloe-umgebung/kurzportrait-der-stadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  patrozinium: "Mariä Himmelfahrt"
+  baustil: "unverputzter Backsteinbau"
+  grundbau_zeitraum: "ca. 1400"
+  lage: "ummaurter Friedhof"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Stephanskirche
+ORTSTEIL_BEZUG: Buchloe
+QUELLE: https://www.buchloe.de/buchloe-umgebung/kurzportrait-der-stadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "aelteste Buchloer Kirche"
+  erstmalige_erwaehnung: 1299
+  weitere_erwaehnung: 1311
+  rolle_erstmalige_erwaehnung: "Kirchherr zu St. Stephan genannt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Filialkirche St. Andreas
+ORTSTEIL_BEZUG: Hausen
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/hausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: "gotisch"
+  bauzeit: 15
+  baujahrhundert: "15. Jahrhundert"
+  urspruengliche_funktion: "Pfarrkirche"
+  letzte_renovierung: 1978-1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Alban
+ORTSTEIL_BEZUG: Honsolgen
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/honsolgen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit_beginn: 15
+  baujahrhundert: "15. Jahrhundert"
+  renovierung_aussen: 2001-2002
+  renovierung_innen: 2004-2005
+  ausstattung: "Holzplastiken, vermutlich aus Werkstatt Joerg Lederers"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Georg und Wendelin
+ORTSTEIL_BEZUG: Lindenberg
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/lindenberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger_typ: "Rundbogenkirche"
+  vorgaenger_erwaehnung: 1589
+  bau_auf: "Mauerresten der früheren Kirche"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fabrik
+BEZEICHNUNG: Wollfabrik
+ORTSTEIL_BEZUG: Buchloe
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: "Karl Imhof, Augsburger Kaufmann"
+  gruendung_jahr: 1587
+  zweck_original: "Arbeit und Verdienst für verarmte Bürger"
+  umwandlung_zeitraum: "frühes 18. Jahrhundert"
+  umwandlung_zu: "Arbeits- und Zuchthaus"
+  beruehmtester_insasse: "Matthias Klostermayr, bayerischer Hiasl"
+GUELTIG_AB: 1587
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Buchloe
+ORTSTEIL_BEZUG: Buchloe
+QUELLE: https://www.buchloe.de/freizeit-tourismus/heimatmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1997
+  ausstellung_erdgeschoss: "Ausstellungsstücke zur Ortsgeschichte, alte Setzerei mit Zeilensetzmaschine, Archivbände der Buchloer Zeitung, Kirchturmuhren, sakrale Kunst, liturgische Geräte, Bilder des Barockmalers Joseph Schwarz, Modelle und Originalstücke zur Eisenbahngeschichte"
+  ausstellung_obergeschoss: "Gemälde von Eduard Bechteler, Neher-Kabinett (Nobelpreisträger Professor Dr. Erwin Neher), Trachten, Uniformen, Fahnen, heimische und exotische Schmetterlinge, sudetendeutsche Heimatstube, Sonderausstellungen"
+  sonderraeume: "Neher-Kabinett, Schmetterlingsraum, Bechteler-Atelier, Druckerei"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Horst Seehofer
+QUELLE: https://www.buchloe.de/buchloe-umgebung/kurzportrait-der-stadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: "ehemaliger bayerischer Ministerpräsident"
+  bezug_zu_buchloe: "Persönlichkeit mit Bezug zu Buchloe"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Professor Dr. Erwin Neher
+QUELLE: https://www.buchloe.de/buchloe-umgebung/kurzportrait-der-stadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: "Nobelpreisträger der Medizin"
+  bezug_zu_buchloe: "Persönlichkeit mit Bezug zu Buchloe, Kabinett im Heimatmuseum gewidmet"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Matthias Klostermayr
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: "bayerischer Hiasl"
+  rolle: "beruehmtester Insasse des Arbeits- und Zuchthauses (frühes 18. Jahrhundert)"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Joseph Schwarz
+QUELLE: https://www.buchloe.de/freizeit-tourismus/heimatmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Barockrmaler"
+  epithet: "Buchloer"
+  werke_ort: "Bilder im Heimatmuseum Buchloe"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Eduard Bechteler
+QUELLE: https://www.buchloe.de/freizeit-tourismus/heimatmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Künstler/Maler"
+  werke_ort: "Gemälde im Heimatmuseum Buchloe (Obergeschoss)"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Imhof
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Augsburger Kaufmann"
+  gruendung: "Wollfabrik in Buchloe"
+  gruendung_jahr: 1587
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Joerg Lederer
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/honsolgen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Kunsthandwerker/Bildhauer"
+  bekannt_fuer: "Werkstatt mit Holzplastiken"
+  werke_bezug: "vermutlich Schöpfer von Holzplastiken in der Pfarrkirche St. Alban (Honsolgen)"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ulrich von Hausen
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/hausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: "Zeuge einer Schenkung"
+  rolle_jahr: 1172
+  bedeutung: "erste urkundliche Erwaehnung von Hausen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bertha
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: "Edelfrau"
+  rolle: "Schenkerin an Kloster Rottenbuch"
+  rolle_zeitraum: 1100-1150
+  geschenk: "Güter zu Buchelon mit dazugehörigen Leibeigenen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rudolf von Habsburg
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: "König"
+  rolle: "Stadterhebung von Buchloe"
+  rolle_zeitraum: 1273-1283
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Volkmar der Weise von Kemnat
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: "Herr"
+  herrschaftsgebiet: "Buchloe"
+  rolle: "Vermutlich Antragsteller für Stadterhebung Buchloes bei König Rudolf von Habsburg"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ludwig von Baiern
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: "Herzog"
+  rolle: "Zerstörer Buchloes"
+  rolle_jahr: 1525
+  grund: "befürchtete irrtümlich Angriff auf seine Stadt Landsberg durch den Buchloer Haufen"
+  kontext: "Deutscher Bauernkrieg"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl IV
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: "Kaiser"
+  rolle: "Verleihung von Marktrecht und Blutbann an Buchloe"
+  folge: "Buchloe wurde Sitz eines Hochgerichts mit Stock und Galgen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Deutscher Bauernkrieg
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1525
+  auswirkung_auf_buchloe: "Zerstörung durch Soldaten des Herzogs Ludwig von Baiern"
+  grund_zerstoerung: "Herzog befürchtete irrtümlich Angriff auf seine Stadt Landsberg durch den Buchloer Haufen und wollte dem zuvorkommen"
+GUELTIG_AB: 1525
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Feuersbrunst
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "zerstörte das wiederaufgebaute Buchloe fast vollstaendig"
+  zeitpunkt: "8 Jahre nach 1525"
+  jahr_ungefaehr: 1533
+GUELTIG_AB: 1533
+GUELTIG_BIS: 1533
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Bahnlinie Augsburg-Kaufbeuren Eröffnung
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1848
+  strecke: "Augsburg-Kaufbeuren"
+  buchloe_rolle: "wurde Bahnstation an der Ludwig-Süd-Nord-Bahn"
+  folge: "enormer Aufschwung für Buchloe"
+  einwohner_vorher: 995
+  einwohner_vorher_jahr: 1852
+  einwohner_nachher: 2500
+  einwohner_nachher_jahr: 1920
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadterhebung Buchloes
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: "20. April 1954"
+  grund: "Bevölkerungswachstum (durch Heimatvertriebene aus deutschen Ostgebieten) und Bedeutung als Eisenbahnknotenpunkt"
+  vorherige_stadterhebung: 1273-1283
+  zwischenzeitlicher_status: "Gemeinde/nicht-Stadt"
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Eingemeindungen
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_lindenberg_honsolgen: 1971
+  jahr_hausen: 1972
+  eingemeindete_gemeinden: "Lindenberg, Honsolgen (1971); Hausen (1972)"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Rottenbuch
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: "Empfänger von Gütern zu Buchelon mit Leibeigenen"
+  rolle_geber: "Edelfrau Bertha"
+  rolle_zeitraum: 1100-1150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Zisterzienserkloster Stams
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Tirol"
+  rolle: "Grundherr von Buchloe"
+  rolle_beginn: 1299
+  rolle_ende: "Anfang 14. Jahrhundert (dann Hochstift Augsburg)"
+  orden: "Zisterzienserorden"
+GUELTIG_AB: 1299
+GUELTIG_BIS: 1310
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hochstift
+BEZEICHNUNG: Hochstift Augsburg
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: "Grundherr und Besitzer von Buchloe"
+  rolle_beginn: "Anfang 14. Jahrhundert"
+  rolle_ende: 1803
+  rolle_ende_grund: "Säkularisation"
+  wappenbezug: "Wappen von Buchloe weist auf frühere Zugehörigkeit hin"
+GUELTIG_AB: 1311
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungseinheit
+BEZEICHNUNG: Verwaltungsgemeinschaft Buchloe
+QUELLE: https://www.buchloe.de/buchloe-umgebung/ortsplaene-und-zahlen/ortsplaene/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "nördlicher Teil des Landkreises Ostallgäu, Regierungsbezirk Schwaben"
+  anschluesse_autobahn: "zwei eigene Anschlußstellen an der Autobahn A 96 (München-Buchloe-Memmingen-Lindau)"
+  erschliessung_bundesstrasse: "B 12 (Buchloe-Kaufbeuren-Kempten)"
+  erschliessung_staatsstrasse: "2035 (Augsburg-Lamerdingen-Buchloe-Jengen)"
+  erschliessung_kreisstrasse: "Buchloe-Waal-Unterdießen im Lechtal zur B 17"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Ludwig-Süd-Nord-Bahn
+QUELLE: https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  buchloe_rolle: "Bahnstation"
+  eroeffnung: 1848
+  strecke: "Augsburg-Kaufbeuren"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
