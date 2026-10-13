@@ -1,0 +1,312 @@
+ID: 250-nesse-apfelstaedt/001
+ENTITÄT: ort
+BEZEICHNUNG: Nesse-Apfelstädt
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  art: Landgemeinde
+  landkreis: Gotha
+  bundesland: Thüringen
+  verwaltungssitz_ortsteil: Neudietendorf
+  gegründet: 1. Dezember 2009
+  gründungsart: Fusion der Gemeinden Apfelstädt, Gamstädt, Ingersleben und Neudietendorf
+  benannt_nach: Flüsse Nesse und Apfelstädt
+  anzahl_ortsteile: 6
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 250-nesse-apfelstaedt/002
+ENTITÄT: ort
+BEZEICHNUNG: Nesse-Apfelstädt
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_2024: 6021
+  einwohner_2023: 6043
+  einwohner_2022: 6029
+  einwohner_2021: 5933
+  einwohner_2020: 5995
+  einwohner_2019: 5962
+  einwohner_2018: 5939
+  einwohner_2017: 5951
+  einwohner_2016: 6009
+  einwohner_2015: 5981
+  einwohner_2014: 5977
+  einwohner_2013: 5960
+  einwohner_2012: 5962
+  einwohner_2011: 6043
+  einwohner_2010: 6128
+  einwohner_2009: 6159
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 250-nesse-apfelstaedt/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Apfelstädt
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Nesse-Apfelstädt
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gamstädt
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Nesse-Apfelstädt
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ingersleben
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Nesse-Apfelstädt
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kleinrettbach
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Nesse-Apfelstädt
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kornhochheim
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Nesse-Apfelstädt
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neudietendorf
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Nesse-Apfelstädt
+  ist_verwaltungssitz: true
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 250-nesse-apfelstaedt/009
+ENTITÄT: person
+BEZEICHNUNG: Christian Jacob
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  position: hauptamtlicher Bürgermeister
+  amtsantritt: 21. Februar 2010
+  wahl_2010: gemeinsamer Kandidat von B'90/GRÜNE, CDU, Die Linke, FWG Apfelstädt-Gamstädt-Kleinrettbach-Ingersleben, SPD
+  wiederwahl_2016: 98% der abgegebenen gültigen Stimmen
+  wiederwahl_2022: 95,2% der abgegebenen gültigen Stimmen
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 250-nesse-apfelstaedt/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Raphael
+QUELLE: https://www.nesse-apfelstaedt.de/verzeichnis/index.php?kategorie=74 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kapelle
+  konfession: katholisch
+  pfarrer: Kandzia
+  beschreibung: aufgelistet im Gemeinde-Verzeichnis, Adresse in Erfurt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5
+---
+ID: 250-nesse-apfelstaedt/011
+ENTITÄT: pfarramt
+BEZEICHNUNG: Pfarramt Apfelstädt
+ORTSTEIL_BEZUG: Apfelstädt
+QUELLE: https://www.nesse-apfelstaedt.de/verzeichnis/index.php?kategorie=74 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  adresse: Am Pfarrhof 4, 99192 Nesse-Apfelstädt OT Apfelstädt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 250-nesse-apfelstaedt/012
+ENTITÄT: pfarramt
+BEZEICHNUNG: Pfarramt Kleinrettbach
+ORTSTEIL_BEZUG: Kleinrettbach
+QUELLE: https://www.nesse-apfelstaedt.de/verzeichnis/index.php?kategorie=74 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  adresse: Flughafenstraße 83, 99192 Nesse-Apfelstädt OT Kleinrettbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 250-nesse-apfelstaedt/013
+ENTITÄT: pfarramt
+BEZEICHNUNG: Pfarramt Neudietendorf
+ORTSTEIL_BEZUG: Neudietendorf
+QUELLE: https://www.nesse-apfelstaedt.de/verzeichnis/index.php?kategorie=74 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 250-nesse-apfelstaedt/014
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Neudietendorf
+ORTSTEIL_BEZUG: Neudietendorf
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Eisenbahnknoten
+  bedeutung: bedeutender Eisenbahnknoten
+  bahnstrecke_1: Thüringer Bahn (Erfurt–Eisenach)
+  bahnstrecke_2: Neudietendorf–Ritschenhausen (mit Zugverkehr nach Ilmenau, Meiningen, Würzburg, Saalfeld)
+  zugverbindungen: Erfurt, Eisenach, Halle, Göttingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/015
+ENTITÄT: verkehrsachse
+BEZEICHNUNG: Bundesstraße 7
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Bundesstraße
+  lage: Norden der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 250-nesse-apfelstaedt/016
+ENTITÄT: verkehrsachse
+BEZEICHNUNG: Bundesautobahn 71
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Bundesautobahn
+  lage: Osten der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 250-nesse-apfelstaedt/017
+ENTITÄT: verkehrsachse
+BEZEICHNUNG: Bundesautobahn 4
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Bundesautobahn
+  lage: Süden der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 250-nesse-apfelstaedt/018
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Verwaltungsgemeinschaft Nesse-Apfelstädt-Gemeinden
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  status: historisch
+  aufgelöst: 1. Dezember 2009
+  aufgelöst_grund: Zusammenschluss zu Landgemeinde Nesse-Apfelstädt
+  mitgliedgemeinden: Apfelstädt, Gamstädt, Ingersleben, Neudietendorf
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/019
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  groesse: 20 Mitglieder
+  wahl_datum: 26. Mai 2024
+  wahlbeteiligung_2024: 66,1%
+  wahlbeteiligung_2019: 66,1%
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/020
+ENTITÄT: fraktion_gemeinderat
+BEZEICHNUNG: FWG Nesse-Apfelstädt
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  stimmenanteil_2024: 33,6%
+  sitze_2024: 7
+  stimmenanteil_2019: 32,1%
+  sitze_2019: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/021
+ENTITÄT: fraktion_gemeinderat
+BEZEICHNUNG: Freie Wähler Neudietendorf
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  stimmenanteil_2024: 20,6%
+  sitze_2024: 4
+  stimmenanteil_2019: 11,9%
+  sitze_2019: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/022
+ENTITÄT: fraktion_gemeinderat
+BEZEICHNUNG: CDU
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  stimmenanteil_2024: 20,1%
+  sitze_2024: 4
+  stimmenanteil_2019: 26,1%
+  sitze_2019: 5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/023
+ENTITÄT: fraktion_gemeinderat
+BEZEICHNUNG: Die Linke
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  stimmenanteil_2024: 6,9%
+  sitze_2024: 2
+  stimmenanteil_2019: 10,5%
+  sitze_2019: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/024
+ENTITÄT: fraktion_gemeinderat
+BEZEICHNUNG: SPD
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  stimmenanteil_2024: 6,4%
+  sitze_2024: 1
+  stimmenanteil_2019: 11,8%
+  sitze_2019: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/025
+ENTITÄT: fraktion_gemeinderat
+BEZEICHNUNG: Bündnis 90/Die Grünen
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  stimmenanteil_2024: 5,6%
+  sitze_2024: 1
+  stimmenanteil_2019: 7,6%
+  sitze_2019: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 250-nesse-apfelstaedt/026
+ENTITÄT: fraktion_gemeinderat
+BEZEICHNUNG: Bürger für Bürger
+QUELLE: https://de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt | Wikipedia
+EIGENSCHAFTEN:
+  stimmenanteil_2024: 6,9%
+  sitze_2024: 1
+  erstmals_gewählt: 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

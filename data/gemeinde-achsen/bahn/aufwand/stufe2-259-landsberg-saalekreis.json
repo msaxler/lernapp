@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "259-landsberg-saalekreis",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 13498,
+ "token_ein": 302092,
+ "token_aus": 6338,
+ "usage": {
+  "input_tokens": 18,
+  "cache_creation_input_tokens": 33636,
+  "cache_read_input_tokens": 268438,
+  "output_tokens": 6338,
+  "output_tokens_details": {
+   "thinking_tokens": 2687
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 33636,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 2356,
+    "cache_read_input_tokens": 38998,
+    "cache_creation_input_tokens": 1540,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1540
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.6804965999999999,
+ "sekunden": 105,
+ "fehler": false,
+ "zeit": "2026-10-13T11:08:56"
+}

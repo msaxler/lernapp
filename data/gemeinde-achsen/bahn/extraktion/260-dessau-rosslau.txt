@@ -1,0 +1,415 @@
+ENTITÄT: kirche
+BEZEICHNUNG: Marienkirche (St. Marien)
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/marienkirche/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: ältestes Bauwerk der Stadt
+  superlativ: eine der südlichsten Bauten norddeutscher Backsteingotik
+  architekturstil: spätgotisch mit Renaissance-Elementen
+  bautime_vorgaenger: 1506-1523
+  erbauer_neubau: Ulrich von Schmiedeberg
+  baumeister_1540_41: Ludwig Binder
+  gewölbeausmalung: J. Benedict Summerstein
+  baumeister_westturm_1551_1554: Ludwig Binder
+  turmcharakteristik: massiver Unterbau quadratisch, aufgesetztes Oktogon, welscher Haube, Laterne
+  gueltig_ab: 1506
+  zerstoert_datum: 1945-03-07
+  grund_zerstoerung: alliierter Bombenangriff
+  wiedererrichtung_beginn: 1990
+  wiedeereoeffnung: 1998-12-05
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Johannbau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/der-johannbau.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1528-1533
+  funktion_urspruenglich: Westflügel des Residenzschlosses der Fürsten und Herzöge von Anhalt-Dessau
+  bauherr: Fürst Johann IV. von Anhalt (1504-1551) mit Brüdern Georg III. und Joachim
+  baumeister: Bastian Binder und Ludwig Binder
+  architekturstil: Frührenaissance
+  charakteristische_merkmale: Rundbogengiebel (Welsche Giebel), Treppenturm mit Wendelstein über kubischem Sockelbau (Altan)
+  innovation_schlossbaukunst: Treppenturm-Konstruktion ohne Vorbild in deutscher Schlossbaukunst bis 1533
+  vorbild_fuer: Großer Wendelstein Torgauer Schloss (1533-36)
+  zerstoerung: 1945-03-07
+  grund_zerstoerung: 19. Luftangriff auf Dessau (Bombenangriff)
+  wiederherstellung_beginn: 1990
+  erneuerung_turmhaube: bauzeitliche Form wiederhergestellt
+  funktion_2005: Museum für Stadtgeschichte Dessau seit August 2005
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: institutition_museum
+BEZEICHNUNG: Museum für Stadtgeschichte Dessau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/geschichte-des-museums.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundung_als_abteilung: 1959
+  grundung_selbststaendig: 1987
+  ursprung: Abteilung Stadtgeschichte des Museums für Naturkunde und Vorgeschichte
+  standort: Johannbau
+  standort_seit: 2005-08
+  dauerausstellung: Schauplatz vernünftiger Menschen... - Kultur und Geschichte in Anhalt | Dessau
+  gebietsfokus: ca. 800-jährige Kultur-/Geschichte der Stadt Dessau und ihrer Region
+  sonderausstellung_2026: Das Bauhaus kommt in die Stadt - Dessau in den 1920er Jahren (14. Juni - 29. November 2026)
+  oeffnungszeiten: Mittwoch bis Sonntag 10-17 Uhr
+  eintritt_erwachsen: 4,50 EUR
+  eintritt_ermaessigt: 3,50 EUR
+  eintritt_schulklasse: 1,50 EUR pro Person
+  eintritt_familienkarte: 10,00 EUR
+  eintritt_jahreskarte: 20,00 EUR
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: institution_museum
+BEZEICHNUNG: Museum für Naturkunde und Vorgeschichte Dessau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-naturkunde-und-vorgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Askanische Straße 32
+  sonderausstellung_2026: Tiere im Polarlicht (12. August - 29. November 2026)
+  sonderausstellung_herkunft: produziert am Naturkundemuseum Potsdam
+  oeffnungszeiten: Mittwoch-Sonntag 10-17 Uhr, Turm Freitag 10-15 Uhr
+  telefon: 0340 214824; 0340 8003795
+  personal_naturkunde: Dr. Timm Karisch
+  personal_museumspädagogik: Ken Kretschmer
+  eintritt_erwachsen: 4,50 EUR
+  eintritt_ermaessigt: 3,50 EUR
+  eintritt_familienkarte: 10,00 EUR
+  eintritt_jahreskarte: 20,00 EUR
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Johann IV. von Anhalt
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/der-johannbau.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1504-1551
+  rolle: Fürst
+  bauherr_johannbau: ja
+  brueder: Georg III., Joachim
+  beziehung_johannbau: Bauherr des Johannbaus 1528-1533
+  benannt_nach: Der Johannbau ist nach Fürst Johann IV. benannt
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Ulrich von Schmiedeberg
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/marienkirche/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Baumeister
+  werk: Marienkirche (Neubau 1506-1523)
+  bauleitung: ja
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Ludwig Binder
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/marienkirche/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1512-1556
+  rolle: Steinmetz, Baumeister
+  herkunft: aus Halle
+  tätigkeit_zeit: 1531-1554 als Steinmetz für Fürsten in Anhalt
+  werke_marienkirche: Einwölbung (1540/41), Westturm mit westlichen Halbgiebeln (1551-1554)
+  werke_johannbau: vermutlich Gemeinschaftswerk mit Bastian Binder
+  steinmetzzeichen_johannbau: 3 Fundstellen am Treppenturm noch heute sichtbar
+  beschreibung: "lange Zeit als alleiniger Baumeister des Johannbaus galt, aber war bei Baubeginn erst 16 Jahre alt"
+  genauigkeit: vermutlich
+  IST_VERMUTELIG_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Georg III. von Anhalt
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1507-1553
+  rolle: Fürst und Geistlicher
+  funktion_johannbau: Miturheber, Bruder Johann IV.
+  reformation_dessau: Einführung 1534
+  bekenntnis: reformiert
+  bedeutung: herausragende Persönlichkeit der Reformationszeit
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Leopold I. von Anhalt-Dessau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1676-1747
+  titel: "Alter Dessauer"
+  rolle: Fürst
+  regierungszeit: 1676-1747
+  militaerische_innovation: eiserner Ladestock, Drill, Gleichschritt, konzentrierter Einsatz Pelotonfeuers für preußisches Militär
+  festungsbau: Magdeburg 1701-1747 zur größten Festung Brandenburg-Preußens
+  schlacht_kesseldorf: 1745 zu Gunsten Friedrich II. entschieden
+  persoenliches: romantisch verklärte Liebe zur Apothekerstochter Anna Luise Föse (später Ehefrau)
+  wirtschaftliche_umgestaltung: radikale Umgestaltung wirtschaftlicher und sozialer Verhältnisse, größter Grundbesitzer am Ende
+  beschreibung: Gemälde "Die Heimkehr des Fürsten Leopold nach Dessau" von Hermann Prell
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Franz von Anhalt-Dessau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1740-1817
+  regierungszeit: 1758-1817
+  rolle: Fürst, Aufklärer
+  werk: Dessau-Wörlitzer Reformwerk
+  schaffung_garten: Dessau-Wörlitzer Gartenreich (umfasst Wörlitzer Anlagen, Sieglitzer Park, Luisium, Dessauer Lustgarten, Georgium)
+  schaffung_schule: Dessauer Philanthropinum
+  schulreform_inhalt: Unterricht im Sinne der Aufklärung mit neuen Unterrichtsfächern und Lehrmethoden
+  lob_franz_volkmar_reinhard: "verwandelt die Erde in einen Schauplatz vernünftiger Menschen"
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: event_historisch
+BEZEICHNUNG: Luftangriff auf Dessau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/marienkirche/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1945-03-07
+  rang: 19. Luftangriff auf Dessau
+  dauer: 45 Minuten
+  zerstoerungsgrad_altstadt: über 80% zerstoert
+  betroffe_gebaeude: Marienkirche (bis auf Umfassungsmauern), Residenzschloss, Lustgarten
+  zerstoertes_gut: Innenausstattung Marienkirche, Kanzel, Taufstein, Emporen, wertvolle Cranach-Gemälde
+  partei: alliierte
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: reform_werk
+BEZEICHNUNG: Dessau-Wörlitzer Gartenreich
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Fürst Franz von Anhalt-Dessau
+  bestandteile: Wörlitzer Anlagen, Sieglitzer Park, Luisium, Dessauer Lustgarten, Georgium
+  bedeutung: aufklärerisches Reformwerk von über Deutschland hinaus reichender Bedeutung
+  epoche: Aufklärung
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: reform_werk
+BEZEICHNUNG: Dessauer Philanthropinum
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Fürst Franz von Anhalt-Dessau
+  zweck: Schulunterricht nach Aufklärungsprinzipien
+  innovation: neue Unterrichtsfächer und Lehrmethoden
+  bedeutung: revolutionierte Schulunterricht
+  epoche: Aufklärung
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Reformation in Anhalt-Dessau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einfuehrung_erste: 1534
+  einfuehrer: Georg III. von Anhalt
+  bekenntnis: lutherisch
+  zweite_reformation: 1596 (Übertritt zum reformierten Bekenntnis)
+  vereinigung: 1827 (Union reformiert und lutherisch zur evangelischen Kirche)
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Dessauer Synagoge
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1907-1908
+  zerstoerung_datum: 1938-11-09
+  zerstoerung_anlass: Pogromnacht
+  beschreibung: Modell in Dauerausstellung vorhanden
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: organisations_politisch
+BEZEICHNUNG: Reichsbanner Schwarz-Rot-Gold
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1924
+  gruendungsort: Magdeburg
+  mitgliederzahl: fast 3 Millionen
+  rang: größte demokratische Organisation der Weimarer Republik
+  zweck: Verteidigung erste deutsche Demokratie und ihrer Freiheiten
+  aktivitaet_dessau: Flaggezeichen und Widerstand gegen politischen Extremismus
+  epoche: Weimarer Republik
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: event_historisch
+BEZEICHNUNG: Revolution in Anhalt-Dessau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum_ausbruch: 1848-03-06 bis 1848-03-09
+  ausgangsort: Dessau (dann über ganz Anhalt)
+  verfassung_verabschiedung: 1848-10-28 bis 1848-10-29
+  verfassung_charakteristika: eine der demokratischsten Verfassungen Deutschlands
+  verfassung_grundsaetze: Volkssouveränität, Misstrauensvotum, persönliche und politische Freiheitsrechte
+  erfolge: Pressefreiheit, Revision Städteordnung 1832, erweiterte Befugnisse Stadtverordnete, Trennung Verwaltung/Justiz, Bauernreformen, demokratisches Wahlrecht, Gleichberechtigung Juden
+  auswirkung: "Reformstau" beseitigt, Industrialisierung ermöglicht
+  ergebnis: letztlich gescheitert, aber nachhaltiger Wandel
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Kurt Weill
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Komponist
+  bedeutung: bedeutende Persönlichkeit der Dessauer jüdischen Gemeinde
+  verbindung_dessau: Beziehung zu Dessau (über jüdische Gemeinde ab 1672)
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Moses Mendelssohn
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Aufklärer
+  bedeutung: bedeutende Persönlichkeit der Dessauer jüdischen Gemeinde
+  verbindung_dessau: Beziehung zu Dessau (über jüdische Gemeinde ab 1672)
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus Dessau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstes_rathaus: "cophus" (Kaufhaus Tuchhändler), vom Fürsten 1336 "Ratmannen" überlassen
+  zerstoerung_erstes: 1467 (großer Stadtbrand)
+  rathausbauten_nach: nach 1527, 1563, 1882-1883
+  standort: gleiche Stelle (Marktplatz)
+  rathausneubau: 1899-1901
+  neubau_charakteristik: wuchs über vorgänger hinaus, Schauseite zum Markt
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: event_historisch
+BEZEICHNUNG: Stadtbrand Dessau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1467
+  betroffen: Rathaus und weitere Gebäude
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort_region
+BEZEICHNUNG: Anhalt
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/gemeinsam-sind-wir-anhalt.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Askanier, Burg "Anhalt" bei Harzgerode (bis 1315 bewohnt)
+  namenherkunft: benannt nach Burg "Anhalt"
+  statusentwicklung_grafschaft: zunächst Grafschaft
+  statusentwicklung_fuerstentum: seit Anfang 13. Jahrhundert Fürstentum
+  statusentwicklung_herzogtum: ab 1806-1807 Herzogtum
+  geografische_ausdehnung: Harz, Saale, Mulde, Elbe bis Fläming
+  teilungen_grosse: 1603-1606 Erbteilung in Anhalt-Zerbst, Anhalt-Köthen, Anhalt-Bernburg, Anhalt-Dessau
+  vereinigung: 1863 Dessauer Linie vereinigt alle Landesteile zum Herzogtum Anhalt
+  hauptstadt: Dessau als Haupt- und Residenzstadt
+  weimarer_republik: 1918 Freistaat nach Abdankung Herzoghaus
+  ns_zeit: 1933-1945 NS-Gau Magdeburg-Anhalt
+  nachkriegszeit_anfang: 1945 Teil preußische Provinz Sachsen-Anhalt
+  nachkriegszeit_mittag: 1947-1952 Land Sachsen-Anhalt
+  nachkriegszeit_spaeter: 1952-1958 aufgeteilt auf Bezirke Halle und Magdeburg
+  bundesrepublik: ab 1990 Bestandteil neues Bundesland Sachsen-Anhalt
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: event_historisch
+BEZEICHNUNG: Schlacht an der Dessauer Elbbrücke
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1626
+  kontext: 30-jähriger Krieg
+  sieger: katholische Seite unter Wallenstein
+  verlierer: protestantische Truppen unter Ernst von Mansfeld
+  ort: Dessauer Elbbrücke
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Johann Georg I. von Anhalt-Dessau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1567-1618
+  rolle: Fürst
+  bedeutung: Begründer der jüngeren Dessauer Linie
+  ehe_zweite: Dorothea von der Pfalz
+  heiratspolitik: reformiert (durch Heirat Reformiertentum in Anhalt-Dessau etabliert)
+  darstellung: großformatiges Doppelbildnis mit Gemahlin um 1600 (2008 restauriert)
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Dorothea von der Pfalz
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Gemahlin
+  ehemann: Johann Georg I. von Anhalt-Dessau (zweite Ehe)
+  heirat_bedeutung: Heiratspolitik etablierte Reformiertentum in Anhalt
+  darstellung: großformatiges Doppelbildnis mit Ehemann um 1600
+  IST_VERMUTLICH_AKTUELL: false
+  VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: institution_kulturell
+BEZEICHNUNG: Bauhaus Dessau
+QUELLE: https://verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/sonderausstellung.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ankunft_stadt: 1925-1926
+  eigenname: Hochschule für Gestaltung
+  relevanz_stadt: modernes Image, Lösungen Wohnungsbau
+  empfang: umstritten, kritische Stimmen begleiteten Ankunft
+  bedeutung: 100-jähriges Jubiläum 2025 (bezogen auf 1925)
+  sonderausstellung: "Das Bauhaus kommt in die Stadt" 14. Juni - 29. November 2026
+  IST_VERMUTLICH_AKTUELL: true
+  VERTRAUEN_EXTRAKTION: 0.85

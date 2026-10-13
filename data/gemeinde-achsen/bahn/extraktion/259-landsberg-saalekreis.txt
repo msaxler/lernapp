@@ -1,0 +1,510 @@
+ENTITÄT: ort
+BEZEICHNUNG: Landsberg
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadt: true
+  kreis: Saalekreis
+  bundesland: Sachsen-Anhalt
+  land: Deutschland
+  liegt_im_staedtedreieck: true
+  staedtedreieck_zwischen: Halle (Saale), Leipzig, Bitterfeld-Wolfen
+  entfernung_halle_km: 19
+  richtung_halle: südwestlich
+  entfernung_leipzig_km: 25
+  richtung_leipzig: südöstlich
+  entfernung_bitterfeld_km: 15
+  richtung_bitterfeld: nördlich
+  anzahl_ortsteile: 29
+  anzahl_ortschaften: 11
+  erste_urkundliche_erwahnung: civitas holm
+  erste_urkundliche_erwahnung_quelle: Urkunde Ottos I.
+  erste_urkundliche_erwahnung_jahr: 961
+  älteste_siedlungsspuren: Jungsteinzeit
+  namensherkunft: "Name geht zurück auf einen Berg mit früherer slawischer Burganlage"
+  stadtrecht_erhalten_jahr: 1597
+  stadtrecht_besonderheit: "Keine Mauern und Zinnen erlaubt; wurde offenes Landstädtchen"
+  superlativ: "Stammland der Wettiner neben Markgrafschaft Meißen"
+  feier_1050_jahre_monat: juli
+  feier_1050_jahre_jahr: 2011
+  einwohner_2024: 14772
+GUELTIG_AB: 961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bauwerk_doppelkapelle
+BEZEICHNUNG: St. Crucis
+ORTSTEIL_BEZUG: Kapellenberg
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  architekturstil: romanisch
+  erbauungszeit: 12. Jahrhundert
+  ursprung: Überrest der Burg Landsberg
+  ist_wahrzeichen: true
+  ist_wahrzeichen_beschreibung: "weithin sichtbares Wahrzeichen der Stadt"
+  museum_anschluss_jahr: 1961
+  ausstellungen_thema_geschichte: "Berg- und Burggeschichte"
+  ausstellungen_thema_geschichte_jahr: 1962
+  ausstellungen_lutherzimmer: true
+  ausstellungen_fotoausstellung: "Romanische Doppelkapellen"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bauwerk_doppelkapelle
+BEZEICHNUNG: St. Crucis
+ORTSTEIL_BEZUG: Kapellenberg
+QUELLE: https://www.stadt-landsberg.de/de/museum-bernhard-bruehl0.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: romanisch
+  anteil_landsberger_museum: true
+  publikationen_doppelkapelle: true
+  publikationen_doppelkapelle_ab_jahr: 1989
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nicolai
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  standort: Hauptort Landsberg
+  erbauungszeit: frühes 13. Jahrhundert
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+DESIGNNUNG: evangelische Kirche
+ORTSTEIL_BEZUG: Gollma
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  architektur: einschiffig
+  konfession: evangelisch
+  erbauungszeit: 1450-1499
+  genauigkeit_erbauungszeit: "2. Hälfte 15. Jahrhundert"
+  kanzelaltar_jahr: 1736
+  kanzelaltar_schoepfer: Barth
+  kanzelaltar_schoepfer_herkunft: Merseburg
+  kanzelaltar_schoepfer_beruf: Bildhauer
+  glasfenster_chor_zeitraum: 19. Jahrhundert
+  glasfenster_chor_eigenschaft: farbig
+GUELTIG_AB: 1450
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Bernhard Brühl
+QUELLE: https://www.stadt-landsberg.de/de/museum-bernhard-bruehl0.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Bernhard Brühl
+  begruender_berufsbezeichnung: Lehrer
+  begruender_arbeitsort: Gütz
+  begruender_jahr: 1902
+  sammlungen_typ: naturkundliche und historische Sachzeugen
+  stammsammlung_ort: Gütz, Ortsteil Petersdorf
+  stammsammlung_gebaeude: Jugendheim
+  stammsammlung_eroeffnung_jahr: 1916
+  vorgaenger_heimatmuseum_gruender: Paul Sannemann
+  vorgaenger_heimatmuseum_gruender_beruf: Postmeister
+  vorgaenger_heimatmuseum_gruendung_jahr: 1933
+  verlagerung_nach_landsberg_jahr: 1954
+  eroeffnung_hauptstandort_jahr: 1959
+  ausstellung_ur_fruehgeschichte: true
+  ausstellung_stadtgeschichte: true
+  ausstellung_arbeiterbewegung: true
+  ausstellung_handwerk_innungswesen: true
+  ausstellung_landwirtschaft: true
+  ausstellung_tierwelt: true
+  apothekeneinrichtung: "originalgetreu nachgestaltete Apothekeneinrichtung um 1900"
+  wiedereroffnung_hillerstrasse_jahr: 1992
+  schliessungsdatum: 01. August 2019
+  grund_schliessung: "Neukonzeption Dauerausstellungen geplant, Wiedereröffnung an neuem Standort"
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Bernhard Brühl
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Bernhard Brühl
+  begruender_berufsbezeichnung: Lehrer
+  begruender_arbeitsort: Gütz
+  dauerausstellung_themen: "Ur- und Frühgeschichte, Stadtentwicklung, Landwirtschaft und Naturkunde"
+  besonderheit: "originalgetreu nachgestaltete Apothekeneinrichtung um 1900"
+  betriebszustand: geschlossen
+  schliessungsjahr: 2019
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk_rathaus
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Marktplatz
+  erbauungszeit: 18. Jahrhundert
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: baudenkmal_postmeilensaeule
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Marktplatz
+  herkunft: kursächsisch
+  zustand: rekonstruiert
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Landsberg
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Sitz der Markgrafen von Landsberg
+  zerstoerung: true
+  zerstoerung_verursacher: Markgrafen von Meißen
+  grund_zerstoerung: "Reichsacht über Landsberg verhängt"
+  ueberrest: Doppelkapelle St. Crucis
+GUELTIG_AB: 961
+GUELTIG_BIS: 1347
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: mark
+BEZEICHNUNG: Mark Landsberg / Markgrafschaft Landsberg
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  entstehung_zeit: 13. Jahrhundert
+  entstehung_grund: "Erbteilung aus dem westlichsten Teil der Mark Lausitz"
+  ursprung_mark_lausitz: true
+  ursprung_mark_lausitz_jahr: 965
+  ursprung_mark_lausitz_part: "Teil der Sächsischen Ostmark"
+  geografische_ausdehnung: "Gebiet zwischen unterer Saale und Elbe"
+  mittelpunkt: "Berg mit früherer slawischer Burganlage"
+  bedeutung: "Stammland der Wettiner neben Markgrafschaft Meißen"
+  verkauf_an_askanier_jahr: 1291
+  verkauf_an_askanier_ort: Brandenburg
+  zurueckkehr_zu_wettinern_jahr: 1347
+GUELTIG_AB: 1291
+GUELTIG_BIS: 1347
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archaeological_site
+BEZEICHNUNG: Spitzberg
+QUELLE: https://www.stadt-landsberg.de/de/museum-bernhard-bruehl0.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausgrabungen_jahr: 1939
+  vermutung: "vorzeitliche Begräbnisstätte"
+  lage: "nahegelegener Ort zu Museum"
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: kita
+BEZEICHNUNG: Schlossgeister
+ORTSTEIL_BEZUG: Petersdorf
+QUELLE: https://www.stadt-landsberg.de/de/schlossgeister-petersdorf.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: Neorenaissance
+  optisches_erscheinungsbild: "ähnelt einem Schloss"
+  ausstattung_garten: true
+  ausstattung_gruppenraeme: true
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: brauerei
+BEZEICHNUNG: Brauerei Landsberg
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  produkt: Landsberger Bier
+  standort: Landsberg
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Felsenbad Landsberg
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  standort: "am Fuß des Kapellenbergs"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: schulkomplex
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  bestandteile: Grundschule, Sekundarschule, Gymnasium Landsberg, Regenbogenschule
+  regenbogenschule_beschreibung: "Förderschule für Schüler mit geistiger Behinderung"
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bernhard Brühl
+QUELLE: https://www.stadt-landsberg.de/de/museum-bernhard-bruehl0.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  berufsbezeichnung: Lehrer
+  arbeitsort: Gütz
+  arbeitsstart_jahr: 1902
+  aktivitaet: "Sammlung naturkundlicher und historischer Sachzeugen mit Hilfe von Schülern"
+  namensgeber: "Landsberger Museum"
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Paul Sannemann
+QUELLE: https://www.stadt-landsberg.de/de/museum-bernhard-bruehl0.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  berufsbezeichnung: Postmeister
+  gruendung: "Heimatmuseum Landsberg"
+  gruendungsjahr: 1933
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Rolf Kutscher
+QUELLE: https://www.stadt-landsberg.de/de/museum-bernhard-bruehl0.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  berufsbezeichnung: Arzt
+  wohnort: Landsberg
+  publikation: "Geschichte der Burg und Stadt Landsberg"
+  publikation_teil: 1
+  publikationsjahr: 1961
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gottlieb Hiller
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Landsberg
+  geburtsjahr: 1778
+  sterbejahr: 1826
+  berufe: Tagelöhner, Schriftsteller
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Baer
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Zwebendorf
+  geburtsjahr: 1811
+  sterbejahr: 1873
+  berufsbezeichnung: Orgelbauer
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm von Rauchhaupt
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1828
+  sterbejahr: 1894
+  rolle: "Mitbegründer der Deutschkonservativen Partei"
+  status_landsberg: "Ehrenbürger der Stadt Landsberg"
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Harro Jacob
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1939
+  berufsbezeichnung: Bildhauer
+  atelier_ort: Rittergut Gollma
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Marcus Helbig
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1971
+  sterbejahr: 2025
+  berufsbezeichnung: Handballschiedsrichter
+  wohnort: Landsberg
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jörg Mantzsch
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  berufsbezeichnung: Kommunalheraldiker
+  wohnort: Magdeburg
+  werk: "Wappengestaltung Ortschaft Landsberg"
+  werksjahr: 2016
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Troitzsch
+QUELLE: https://www.stadt-landsberg.de/de/museum-bernhard-bruehl0.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  berufsbezeichnung: Gutsbesitzer und Amtsvorsteher
+  aktivitaet: "Förderung des Baus eines Jugendheimes in Petersdorf"
+  zeitraum: "frühes 20. Jahrhundert"
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Emil Schmidt
+QUELLE: https://www.stadt-landsberg.de/de/museum-bernhard-bruehl0.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  berufsbezeichnung: Zuckerfabrikant
+  eigenschaft: "Eigentümer eines Sommerhäuschens in Bahnhofstraße"
+  nutzung_sommerhaeuschen: "Museum-Neubau 1954"
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: beamter
+BEZEICHNUNG: Olaf Heinrich
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  amtszeit_beginn: 1997
+  amtszeit_ende: 2015
+  partei: parteilos
+  entfernung_jahr: 2015
+  entfernung_datum: November 2015
+  grund_entfernung: "erhebliche Dienstvergehen und Straftaten zum Schaden der Stadt Landsberg"
+  entfernung_durch: Landesverwaltungsamt
+GUELTIG_AB: 1997
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: beamter
+BEZEICHNUNG: Kurt-Jürgen Zander
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  amtszeit_beginn: 2016
+  amtszeit_ende: 2018
+  amtsstatus: amtierend
+GUELTIG_AB: 2016
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: beamter
+BEZEICHNUNG: Anja Werner
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  amtszeit_beginn: 2018
+  amtszeit_ende: 2023
+  partei: SPD
+  wahl_stichwahltermin: 26. August 2018
+  waehler_stimmenanteil: 69.0
+GUELTIG_AB: 2018
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: beamter
+BEZEICHNUNG: Tobias Halfpap
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  amtszeit_beginn: 2023
+  amtszeit_dauer_jahre: 7
+  partei: parteilos
+  wahl_datum: 06. November 2022
+  waehler_stimmenanteil: 56.3
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: hoheitszeichen
+BEZEICHNUNG: Wappen der Ortschaft Landsberg
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  status: inoffiziell
+  registrierung_ja: true
+  registrierung_datum: 20. Dezember 2016
+  registrierung_database: Deutsche Ortswappenrolle des HEROLD
+  registrierung_nummer: 50 ST
+  gestalter: Jörg Mantzsch
+  gestalter_ort: Magdeburg
+  stifter: Ortsvorstand der Ortschaft Landsberg
+  stiftungszweck: "Symbol der örtlich-lokalen Identität außerhalb von Amtshandlungen"
+  blasonierung: "Unter blauem Schildhaupt mit strahlender goldener Sonne zwei blaue Pfähle in Gold"
+  symbolik_pfahele: "Landsberger Pfähle"
+  symbolik_pfahele_herkunft: "meißnische Markgrafen Ende 12. Jahrhundert"
+  symbolik_sonne: "Darstellung Osterlandes"
+  symbolik_sonne_zeitraum: "seit 17. Jahrhundert"
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: administrative_einheit
+BEZEICHNUNG: Stadtrat Landsberg
+QUELLE: https://de.wikipedia.org/wiki/Landsberg_(Saalekreis) | Wikipedia
+EIGENSCHAFTEN:
+  mitgliederzahl: 28
+  praesident: Bürgermeister
+  kommunalwahl_datum: 09. Juni 2024
+  wahlbeteiligung_prozent: 66.5
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

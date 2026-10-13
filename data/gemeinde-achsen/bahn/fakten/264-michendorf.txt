@@ -1,0 +1,479 @@
+ID: 264-michendorf/001
+ENTITÄT: ort
+BEZEICHNUNG: Michendorf
+QUELLE: https://www.michendorf.de/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteile_anzahl: 6
+  lage: Naturpark Nuthe-Nieplitz-Niederung, Nähe Potsdam und Berlin
+  entfernung_potsdam: "Katzensprung" (ungefähr)
+  entfernung_berlin: "Katzensprung" (ungefähr)
+  infrastruktur: Kitas, Schulen, Pflegeeinrichtungen, Fachärzte, Einkaufsmöglichkeiten, Freizeitangebote
+  bahnhöfe: 2
+  autobahn: BAB 10
+  bundesstrasse: B 2
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 264-michendorf/002
+ENTITÄT: ort
+BEZEICHNUNG: Michendorf
+ORTSTEIL_BEZUG: Michendorf (Hauptort)
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=236985 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1375
+  namensherkunft: Abwandlung des deutsch-slawischen Namens Michel bzw. Micha
+  zerstörung_30jähriger_krieg: vollständig
+  wiederbesiedlung_jahr: 1697
+  wiederbesiedler: Georg Joeche mit 5 Bauern
+  eisenbahn_haltestelle: 1879
+  eisenbahn_typ: Wetzlarer Eisenbahn
+  ziegelei_gründung: 1879
+  ziegelei_betriebsdauer: 21 Jahre
+  obstzüchterdorf_hochzeit: "30er Jahre"
+  wappen_einführung: 1935
+  wappen_beschreibung: "symbolischer Apfelbaum"
+  autobahn_anbindung: 1936
+  einwohner_2000: 3760
+  einwohner_2001: 3800
+  jubiläum: "650 Jahre (2025)"
+GUELTIG_AB: 1375
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 264-michendorf/003
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Claudia Nowka
+ORTSTEIL_BEZUG: Michendorf
+QUELLE: https://www.michendorf.de/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschlecht: weiblich
+  bürgersprechstunde: "regelmäßig"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 264-michendorf/004
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Langerwisch-Wilhelmshorst
+ORTSTEIL_BEZUG: Langerwisch
+QUELLE: https://www.michendorf.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  telefon: "(033205) 62184"
+  email: "kirche.langerwisch@ekmb.de"
+  website: "www.kirche-langerwisch.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 264-michendorf/005
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Michendorf-Wildenbruch
+ORTSTEIL_BEZUG: Michendorf
+QUELLE: https://www.michendorf.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  pfarrer: Dürschlag
+  telefon: "(033205) 62476, (0173) 2773062"
+  website: "www.kirche-michendorf-wildenbruch.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 264-michendorf/006
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinden Stücken und Fresdorf
+ORTSTEIL_BEZUG: Stücken
+QUELLE: https://www.michendorf.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  telefon: "(0170) 9572048"
+  email: "mattern.nadja@ekmb.de"
+  website: "www.ekmb.de/stuecken/"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 264-michendorf/007
+ENTITÄT: einrichtung_behindertenhilfe
+BEZEICHNUNG: Haus St. Norbert
+ORTSTEIL_BEZUG: Michendorf
+QUELLE: https://www.michendorf.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  telefon: "(033205) 5800, (033205) 58611"
+  email: "info@haus-sankt-norbert.de"
+  website: "www.haus-sankt-norbert.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 264-michendorf/008
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde St. Cäcilia
+ORTSTEIL_BEZUG: Michendorf
+QUELLE: https://www.michendorf.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  telefon: "(033205) 71212"
+  email: "buero@sanctcaecilia.de"
+  website: "www.sanctcaecilia.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 264-michendorf/009
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Neuapostolische Kirche
+ORTSTEIL_BEZUG: Michendorf
+QUELLE: https://www.michendorf.de/verzeichnis/index.php?kategorie=26 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+  telefon: "(0171) 1664991"
+  email: "markus-tesch@t-online.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 264-michendorf/010
+ENTITÄT: naturpark
+BEZEICHNUNG: Naturpark Nuthe-Nieplitz-Niederung
+QUELLE: https://www.michendorf.de/seite/600481/ausflüge-sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "idyllische Lage machen Michendorf zum Ausgangs- und Zielpunkt für Wanderungen und Radtouren"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 264-michendorf/011
+ENTITÄT: naturpark
+BEZEICHNUNG: Naturpark Nuthe-Nieplitz
+ORTSTEIL_BEZUG: Stücken
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=15977 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1999-08-01
+  fläche: 623 [km²]
+  grossschutzgebiet_rang: "eines von 14 Großschutzgebieten im Land Brandenburg"
+  verwaltungssitz: "ehemaliges Gutsgelände Stücken"
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 264-michendorf/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fresdorf
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=90426 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 320
+  ortsvorsteher: "Bernd Herrmann"
+  rang_ortsteil: "kleinster Ortsteil der Gemeinde"
+  seen: "Fresdorfer See (kein Wasser mehr, Moorlandschaft)"
+  landschaft: "umgeben von Seen, Hügeln, ausgedehnten Wäldern, zwischen Grämnitz-, Krug- und Rauem Berg"
+  erste_urkundliche_erwähnung: 1375
+  erwähnungsquelle: "Landbuch Kaiser Karl IV"
+  ältestes_weltliches_gebäude: Schmiede am Dorfanger, über 200 Jahre alt
+  dorfanger_besonderheit: "einer der wenigen im Land Brandenburg in ursprünglicher Form erhalten"
+  dorfverein: "Fresdorf e.V."
+  freiwillige_feuerwehr_gründung: 1927
+  kleinlöschfahrzeug_seit: 2016
+  dorfmuseum: "in ehemaligem Gerätehaus und Trafoturm geplant"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 264-michendorf/013
+ENTITÄT: kirche
+BEZEICHNUNG: Dorfkirche Fresdorf
+ORTSTEIL_BEZUG: Fresdorf
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=90426 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauweise: "neugotischer Feldsteinbau"
+  grundmauern: "mittelalterliche Feldsteinkirche"
+  dach_erneuerung: 1993-1995
+  wandmalereien_restaurierung: 1993-1995
+  friedhofsmauer_restaurierung: 2002-2003
+  friedhofsmauer_arbeitsart: "ehrenamtliche Arbeit"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 264-michendorf/014
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel der Dorfkirche Fresdorf
+ORTSTEIL_BEZUG: Fresdorf
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=90426 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: 110 [Jahre]
+  orgelbaumeister: "Gesell (Potsdam)"
+  reparatur_sanierung_jahr: 2000
+  kosten: 10000 [DM]
+  finanzierung: "zwei Drittel durch Spenden"
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 264-michendorf/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Langerwisch
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=54245 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsvorsteher: "Kay-Uwe Fleischmann"
+  erste_urkundliche_erwähnung: 1285
+  namensherkunft: "geht zurück auf die Wische, eine torfreiche Wiese, die aus einem nach der Eiszeit zurückgebliebenen See mit seinen Ablagerungen entstanden ist"
+  einwohner: 1680
+  historische_zusammensetzung: "Alt-Langerwisch und Neu-Langerwisch, getrennt durch Mittelgraben"
+  vereinigung_jahr: 1938
+  besonderheiten_landschaft: "Eichberg bei Saarmund und Galgenberg, Weinberg mit Aussicht auf Dorfkern Neu-Langerwisch"
+  gutsdomäne: "Alt-Langerwisch (Preußischer König Friedrich II.)"
+  gutshaus_baujahr: 1779
+  schäferhäuser_anzahl: 2
+  schäferhäuser_zeitraum: "18. Jahrhundert"
+  windmühle_name: "Paltrockwindmühle"
+  windmühle_baujahr: 1879
+  windmühle_standort: "in der Nähe des Galgenbergs"
+  ortserneuerung_start: 1990
+  ortsteilzentrum: "Umbau und Umnutzung Vierseitenhof (Straße der Einheit) mit Kindergartenstätte, Versammlungs- und Büroräumen"
+  blumengroßmarkt_eröffnung: 1999
+  blumengroßmarkt_grösse: "einer der größten deutschen"
+  rosengut: "Langerwisch"
+  rosengut_produkte: "Blumen und Pflanzen aller Art"
+  rosengut_auszeichnungen: "Medaillen bei verschiedenen Bundesgartenschauen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 264-michendorf/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stücken
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=15977 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsvorsteher: "Udo Reich"
+  ursprung: 1317
+  einwohner: "ca. 500"
+  landschaft: "Saarmunder Endmoräne, 20 km Ausdehnung vom Potsdamer Brauhausberg zum Weinberg"
+  gutsdorf_periode: 1412-1945
+  zerstörung_mitte_19_jh: "zwei Feuersbrünste, nahezu zerstört"
+  wohnsiedlung_baujahr: 1994
+  wohnsiedlung_standort: "ehemaliges LPG-Gelände, nördlicher Ortsausgang"
+  filmort_status: "Hollywood unter den Ortsteilen"
+  defa_filme: 4
+  filmproduktionen: "Märkische Chronik, Spuk aus der Gruft (Sommer 1997), Fortsetzung (1999)"
+  vereine: "Blasorchester (überregional bekannt), Heimatverein"
+  veranstaltungen: "Pfingstreiten, Blasmusikfest, Erntefest, Hubertusjagt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 264-michendorf/017
+ENTITÄT: kirche
+BEZEICHNUNG: Dorfkirche Stücken
+ORTSTEIL_BEZUG: Stücken
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=15977 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauweise: "neugotischer Feldsteinbau mit Dachturm"
+  ursprung: "mittelalterliche Feldsteinkirche"
+  neuaufbau_jahr: "um 1860"
+  neuaufbau_grund: "nach Zerstörung unter Verwendung der Mauerreste"
+  ausstattung: "neugotischer Orgelprospekt"
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 264-michendorf/018
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wilhelmshorst
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=90428 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsvorsteherin: "Ulrike Zoschke"
+  ortsvorsteherin_amtsantritt: 2024-07-02
+  charakterisierung: "Waldgemeinde"
+  vegetation: "Märkische Kiefern, Ahorn, Robinien, Kastanien, Birken"
+  gründung_landhaussiedlung: 1907
+  gründer_landhaussiedlung: "Berliner"
+  architekten_denkmalschutz: "Albert Gessner (südlicher Teil, rund um Irissee)"
+  architektur_stilperiode: "Neues Bauen aus den Zwanziger Jahren"
+  bekanntheit: "Peter-Huchel-Haus (ehemaliges Wohnhaus des Lyrikers Peter Huchel)"
+  wanderrouten: "Rund um Wilhelmshorst, Schöne Berge, Galgenberg, Ravensberge, Hochmoore, Templiner See, Schwielowsee"
+  schulcampus: "Grund- und Oberschule mit Hort und Kita"
+  seniorenzentrum: "St. Elisabeth (Betreutes Wohnen)"
+  verkehrsanbindung: "Bus, Regionalbahn, A 10, B 2, Nähe Berlin und Potsdam"
+  projekte_laufend: "Renaturierung Irissee, Bau Schulsporthalle, Jugendsportgelände An der Umgehungsbahn"
+  ortszentrum: "Goetheplatz mit Bäcker, Poststelle, Fleischer, Discount-Markt, Friseur, Arztpraxis, Physiotherapie"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 264-michendorf/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wildenbruch
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=90427 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsvorsteher: "Ralf Jechow"
+  einwohner: "ca. 2600"
+  fläche: 11.2 [km²]
+  bevölkerungswachstum_seit_1989: "fast verdoppelt"
+  lage_beschreibung: "ruhig und idyllisch"
+  grenzen_süd: "Nordufer Großer Seediner See"
+  grenzen_nord: "Autobahn A 10"
+  erste_urkundliche_erwähnung: 1375
+  kirche_baujahr: "frühen 13. Jahrhundert"
+  kirche_beschreibung: "Feldsteinkirche, eine der ältesten Kirchen dieses Landstrichs"
+  freizeit_angebote: "Badestellen am See, Golf- und Country Club Seediner See AG, Anglerverein, ausgebaute Radwege"
+  schule: "moderne Grundschule mit Mehrzweckhalle, Kita, Hort"
+  gemeindezentrum: "ehemaliges Schulhaus mit Trauzimmer, Heimatstube, Versammlungsraum"
+  freiwillige_feuerwehr_jubiläum_2024: "95 Jahre"
+  vereine: "Heimatverein, Fastnachtsclub, Malgruppe der Senioren, Krabbelgruppe"
+  unterkunft: "Hotel und Gasthof"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 264-michendorf/020
+ENTITÄT: ortsteil
+BEZEICHNUNG: Michendorf
+ORTSTEIL_BEZUG: Michendorf
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=236985 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsvorsteher: "Dr. Karsten Tischer"
+  erste_urkundliche_erwähnung: 1375
+  namensherkunft: "Abwandlung des deutsch-slawischen Namens Michel bzw. Micha"
+  landbuch_zeitraum: "1375-1377"
+  landbuch_titel: "Landbuch der Mark Brandenburg"
+  landbuch_ersteller: "Kaiser Karl IV"
+  landbuch_inhalt: "detailliertes Abgabenverzeichnis, erste landesherrliche Einnahmen, Verpflichtungen der Städte, Dörfer und Klöster"
+  30jähriger_krieg_schaden: "völlig zerstört"
+  besiedlungslücke: "ca. 70 Jahre nicht bewohnt"
+  neubesiedlung_jahr: 1697
+  neubesiedlung_initiator: "Amt Saarmund"
+  neubesiedler_name: "Georg Joeche"
+  neubesiedler_bauern: 5
+  periode_bedeutungslosigkeit: "1700 bis Ende 19. Jahrhundert (unbedeutender Ort, Grundherr und Krugwirt)"
+  eisenbahn_haltestelle_jahr: 1879
+  eisenbahn_name: "Wetzlarer Eisenbahn"
+  ziegelei_gründung: 1879
+  ziegelei_betriebsdauer: 21 [Jahre]
+  fleischerei_gründer: "Hermann Weber"
+  fleischerei_gründungsjahr: "1880/81"
+  fleischerei_adresse: "Potsdamer Str. 64"
+  gartenlokal_erweiterung: "wenig später"
+  gasthof_name: "Zum Birkenwäldchen"
+  gasthof_eröffnung: 1889
+  weltkrieg_1_periode: "1914-18"
+  weltkrieg_1_schaden: "einige Blessuren"
+  obstzüchterdorf_hochzeit: "30er Jahre"
+  wappen_einführung: 1935
+  wappen_symbol: "Apfelbaum"
+  autobahn_anbindung: 1936
+  weltkrieg_2_periode: "1939-45"
+  weltkrieg_2_schaden: "Zerstörung und Beschädigung einiger Gebäude in Nähe Bahnhof und Kirche"
+  sowjetische_besatzung: "April 1945"
+  obstzucht_veränderung: "vermindert nach 1945"
+  industrielle_entwicklung: "gefördert (Teltomat)"
+  polytechnische_oberschule_gründung: 1974
+  polytechnische_oberschule_standort: "Wolkenberg"
+  naherholungsgebiet_michendorf_west: "60er bis 80er Jahre"
+  naherholungsgebiet_grenze: "Lienewitzsee"
+  naturschutzgebiet_umwandlung: 1990
+  gymnasium_umwandlung_jahr: 1991
+  gymnasium_standort: "Wolkenberg"
+  neue_grundschule_baujahr: 1991
+  amt_gründung: 1992
+  amt_name: "Amt Michendorf"
+  amt_amtsgemeinden: 6
+  s_bahn_wiederanschluss: "Mai 1993"
+  s_bahn_verbindung: "nach Wannsee"
+  wohnanlage_bahnstrasse_baubeginn: 1995
+  grundschule_turnhalle_fertigstellung: 1996
+  grundschule_standort: "Meisenweg/Bahnstraße"
+  kita_heideweg_einweihung: 1997
+  hotel_potsdam_michendorf: "TRYP"
+  hotel_eröffnung: 1997
+  tankstelle_name: "DEA"
+  tankstelle_eröffnung: 1997
+  supermarkt_plus_eröffnung: 1997
+  gemeindezentrum_name: "Zum Apfelbaum"
+  gemeindezentrum_einweihung: 1998
+  gemeindezentrum_ursprung: "ehemaliges Klubhaus, früher Gaststätte Zum Birkenwald"
+  schulanbau_westflügel: 1998
+  reihenhäuser_poststrasse_fertigstellung: 1999
+  konsum_warenhauseabis: 1999
+  kino_abriss: 1999
+  stadtjubiläum: "625 Jahre, Jahr 2000"
+  einwohner_2000: 3760
+  heimatmuseum_eröffnung: 2000
+  heimatmuseum_standort: "alte Mühle"
+  heimatmuseum_träger: "Heimatverein"
+  sportanlagen_hellerfichten_eröffnung: 2000
+  sportanlagen_kunstrasenfussballplatz: true
+  superspar_eröffnung: 2000
+  einwohner_2001: 3800
+  hortgebäude_einweihung: 2001
+  hortgebäude_spielplatz: true
+  hortgebäude_standort: "Heideweg"
+  bahnhofvorplatz_rekonstruktion_abschluss: 2001
+  feuerwehr_richtfest: 2001
+  umgehungsstrasse_planfeststellung: 2002
+  umgehungsstrasse_route: "B2"
+  post_quelle_agentur_eröffnung: 2002
+  post_quelle_agentur_betreiber: "Schröter"
+  post_quelle_agentur_adresse: "Potsdamer Straße"
+  feuerwehr_gerätehaus_übergabe: 2002
+  feuerwehr_gründungstag_jubiläum: 90
+  kommunalwahl_jahr: 2003
+  gemeindevereinigung_jahr: 2003
+  gemeindevereinigung_mit: "Langerwisch, Wilhelmshorst, Wildenbruch, Fresdorf, Stücken"
+  gehwege_rekonstruktion_strassen: "Dieck und weitere"
+  vereinsgebäude_sportplatz_ausbau: 2003
+  strasse_poststrasse_erneuerung: 2003
+  strasse_rüsternallee_erneuerung: 2003
+  strasse_heideweg_erneuerung: 2003
+  umgehungsstrasse_baubeginn: 2004
+  alten_pflegeheim_eröffnung: 2004
+  alten_pflegeheim_standort: "Falkenweg/Bahnstraße"
+  aldi_frischemarkt_eröffnung: 2004
+  aldi_frischemarkt_adresse: "Luckenwalder Straße, September"
+  norma_filiale_eröffnung: 2004
+  norma_filiale_adresse: "Post-/Ecke Gartenstraße, November"
+  gemeindezentrum_saal_rekonstruktion_übergabe: 2005
+  gemeindezentrum_saal_plaetze: 240
+  gemeindezentrum_biergarten: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 264-michendorf/021
+ENTITÄT: windmühle
+BEZEICHNUNG: Holländische Mühle
+ORTSTEIL_BEZUG: Michendorf
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=236985 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: "nahe dem Haus St. Norbert"
+  nutzungsperiode: "1890-1925"
+  umwandlung: "1925 zum Aussichtsturm umgebaut"
+  umwandlung_detail: "Flügel abgenommen für Aussichtsplattform"
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1925
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 264-michendorf/022
+ENTITÄT: bauwerk
+BEZEICHNUNG: Bauernhaus
+ORTSTEIL_BEZUG: Michendorf
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=236985 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: "Potsdamer Straße (gegenüber der Kirche)"
+  historischer_bezug: "ehemaligem Anger zugehörig"
+  denkmalschutz: true
+  erhalt: "heute noch erhalten"
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 264-michendorf/023
+ENTITÄT: bauwerk
+BEZEICHNUNG: Café Wolter
+ORTSTEIL_BEZUG: Michendorf
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=236985 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahrzehnt: "30er Jahre"
+  ddr_nutzung: "BHG"
+  aktuelle_nutzung: "Café"
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 264-michendorf/024
+ENTITÄT: bauwerk
+BEZEICHNUNG: Gutshaus Michendorf
+ORTSTEIL_BEZUG: Michendorf
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=236985 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historische_bedeutung: "erstes Gutshaus von Michendorf"
+  schaden_weltkrieg_2: "vollständig zerstört"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 264-michendorf/025
+ENTITÄT: bauwerk
+BEZEICHNUNG: Laubengang-Stall
+ORTSTEIL_BEZUG: Michendorf
+QUELLE: https://www.michendorf.de/verzeichnis/visitenkarte.php?mandat=236985 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalschutz: true
+  erhalt: "heute noch erhalten und restauriert"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

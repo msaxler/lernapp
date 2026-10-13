@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung",
+ "ort": "258-schkeuditz",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 96154,
+ "token_ein": 72468,
+ "token_aus": 12913,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 65564,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 12913,
+  "output_tokens_details": {
+   "thinking_tokens": 9024
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 65564,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 12913,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 65564,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 65564
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7841604,
+ "sekunden": 114,
+ "fehler": false,
+ "zeit": "2026-10-13T11:05:22"
+}

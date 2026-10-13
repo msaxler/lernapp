@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "257-bad-duerrenberg",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 21405,
+ "token_ein": 377677,
+ "token_aus": 10085,
+ "usage": {
+  "input_tokens": 18,
+  "cache_creation_input_tokens": 44289,
+  "cache_read_input_tokens": 333370,
+  "output_tokens": 10085,
+  "output_tokens_details": {
+   "thinking_tokens": 3325
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 44289,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 5232,
+    "cache_read_input_tokens": 50721,
+    "cache_creation_input_tokens": 470,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 470
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.143199,
+ "sekunden": 126,
+ "fehler": false,
+ "zeit": "2026-10-13T11:09:18"
+}

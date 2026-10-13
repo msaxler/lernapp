@@ -1,0 +1,190 @@
+ID: 249-gotha/001
+ENTITÄT: ort
+BEZEICHNUNG: Gotha
+QUELLE: https://www.gotha.de/de/wissenschaftliche-stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung_jahr: 775
+  ersterwahnung_datum: 25. Oktober
+  jubilaeumsjahr: 2025
+  jubilaeumseigenschaft: 1250-jähriges Bestehen
+  klassifizierung: Mittelzentrum
+  anzahl_ortsteile: 4
+  anzahl_stadtteile: 7
+  kommunalstatistik_seit: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 249-gotha/002
+ENTITÄT: ort
+QUELLE: https://www.gotha.de/de/stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Residenzstadt
+  bedeutung_regional: kulturelles Zentrum des Landkreises Gotha
+  superlativ: eine der bedeutendsten Städte Thüringens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 249-gotha/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Boilstädt
+ORTSTEIL_BEZUG: Boilstädt
+QUELLE: https://www.gotha.de/de/ortsteile.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südwestliches Ende
+  einwohner: 867
+  flaeche_km2: 4.02
+  eingemeindung: 1994
+  ortsteilbuergermeister_seit_2024: Heidi Brand
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 249-gotha/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Siebleben
+ORTSTEIL_BEZUG: Siebleben
+QUELLE: https://www.gotha.de/de/ortsteile.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südöstliches Ende
+  einwohner: 5180
+  flaeche_km2: 12.76
+  eingemeindung: 1922
+  ortsteilbuergermeister_seit_2019: Peter Eckardt
+  superlativ: größter Ortsteil
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 249-gotha/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sundhausen
+ORTSTEIL_BEZUG: Sundhausen
+QUELLE: https://www.gotha.de/de/ortsteile.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: westliches Ende
+  einwohner: 1435
+  flaeche_km2: 11.94
+  eingemeindung: 1974
+  ortsteilbuergermeister_seit_2009: Detlef Berndt
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 249-gotha/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Uelleben
+ORTSTEIL_BEZUG: Uelleben
+QUELLE: https://www.gotha.de/de/ortsteile.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südliches Ende
+  einwohner: 727
+  flaeche_km2: 7.37
+  eingemeindung: 1994
+  ortsteilbuergermeisterin_seit_2019: Kathrin Kalbe
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 249-gotha/007
+ENTITÄT: denkmal
+BEZEICHNUNG: Schloss Friedenstein
+QUELLE: https://www.gotha.de/de/denkmalschutz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalfoerderung_erhalten: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 249-gotha/008
+ENTITÄT: denkmal
+BEZEICHNUNG: Orangerie
+QUELLE: https://www.gotha.de/de/denkmalschutz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalfoerderung_erhalten: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 249-gotha/009
+ENTITÄT: denkmal
+BEZEICHNUNG: Winterpalais
+QUELLE: https://www.gotha.de/de/denkmalschutz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalfoerderung_erhalten: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 249-gotha/010
+ENTITÄT: denkmal
+BEZEICHNUNG: Hofgärtnerhaus
+QUELLE: https://www.gotha.de/de/denkmalschutz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalfoerderung_erhalten: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 249-gotha/011
+ENTITÄT: denkmal
+BEZEICHNUNG: Gartenhaus von Gustav Freytag
+QUELLE: https://www.gotha.de/de/denkmalschutz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalfoerderung_erhalten: true
+  bezug_person: Gustav Freytag
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 249-gotha/012
+ENTITÄT: denkmal
+BEZEICHNUNG: Kirche
+ORTSTEIL_BEZUG: Uelleben
+QUELLE: https://www.gotha.de/de/denkmalschutz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalfoerderung_erhalten: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 249-gotha/013
+ENTITÄT: denkmal
+BEZEICHNUNG: Landschaftshaus am Hauptmarkt
+QUELLE: https://www.gotha.de/de/denkmalschutz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hauptmarkt
+  denkmalfoerderung_erhalten: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 249-gotha/014
+ENTITÄT: kulturelle_institution
+BEZEICHNUNG: Friedenstein-Stiftung
+QUELLE: https://www.gotha.de/de/stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgabe: Betrieb von musealen Einrichtungen
+  bewertung: hochrangig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 249-gotha/015
+ENTITÄT: person
+BEZEICHNUNG: Dr. Alexander Krünes
+QUELLE: https://www.gotha.de/de/wissenschaftliche-stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Dr.
+  beruf: Stadthistoriker
+  funktion: Koordinator der wissenschaftlichen Stadtgeschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 249-gotha/016
+ENTITÄT: publikation
+BEZEICHNUNG: Geschichte der Stadt Gotha, Bd. 1: Von den Anfängen bis 1826
+QUELLE: https://www.gotha.de/de/wissenschaftliche-stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herausgeber: Alexander Krünes
+  mitherausgeber: Historische Kommission für Thüringen
+  erscheinungsjahr: 2024
+  erscheinungsort: Leipzig
+  isbn: 978-3-96023-581-1
+  seitenzahl: ca. 800
+  zeitraum_darstellung: 775-1826
+  veroeffentlichungsdatum: 25. Oktober 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

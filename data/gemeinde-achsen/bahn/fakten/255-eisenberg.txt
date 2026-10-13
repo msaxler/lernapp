@@ -1,0 +1,898 @@
+ID: 255-eisenberg/001
+ENTITÄT: ort
+BEZEICHNUNG: Eisenberg
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1196, kontext: "Dietrich, Graf zu Weißenfels, Zehntenverleihung"
+  gründung_altsteinzeit: wahr, genauigkeit: "ca."
+  slawische_siedlung_name: Donitzschkau
+  slawische_siedlung_lage: "nördlich der heutigen Stadt"
+  stadtkern_ursprung: "Donitzschkau (Altstadt)"
+  neue_stadt_anlage: "zweite Hälfte 12. Jahrhundert, planmäßig"
+  gründer_neue_stadt: Otto der Reiche
+  stadtrechtsverleihung_jahr: 1274
+  stadtrechtsverleihung_verleiher: "Albrecht der Entartete (Landgraf von Thüringen, Pfalzgraf von Sachsen)"
+  stadtrechtsverleihung_grund: "vermutlich Heirat Kunigunde von Eisenberg", genauigkeit: "vermutlich"
+  erstes_brauprivileg: 1274
+  reformation_einführung: 1523
+  residenzstadt_ab: 1675
+  residenzstadt_bis: 1707
+  residenzstadt_herrscher: "Herzog Christian von Sachsen-Eisenberg"
+  herzogtum_gründung: 1680
+  herzogtum_entstehung: "Teilung des Herzogtums Sachsen-Gotha-Altenburg"
+  schloss_umbau_durch: "Herzog Christian"
+  schlosskirche_architektur: "schönste Barockkapelle Thüringens", genauigkeit: "nach Quellenangabe"
+  schlosskirche_erbaut: "Herzog Christian"
+  schlosskirche_erstweihe: 1692, gueltig_ab: 1692
+  schloss_christiansburg_nutzung: "Verwaltungssitz Saale-Holzland-Kreis", gueltig_ab: 1994
+  meißner_besitz_bis: 1485
+  wettin_teilung: "albertinische und ernestinische Linie"
+  wechselvollen_besitz_ab: 1485
+  wechselvollen_besitz_bis: 1921
+  wechselvollen_besitz: "nach Tode Christians 1707"
+  anschluss_thüringen: 1921
+  kreisstadt_ab: 1952
+  verwaltungssitz_saale_holzland_kreis_ab: 1994
+  saale_holzland_kreis_bildung: "aus drei Landkreisen"
+  bevölkerung_ca_1591: 1000, genauigkeit: "ca.", kontext: "197 Feuerstellen, davon 167 innerhalb und 30 außerhalb der Stadtmauer"
+  bevölkerung_ca_1994: 12000, genauigkeit: "ca."
+  jubiläum_800_jahre: 1996
+  jubiläum_750_jahre_stadtrecht: 2024
+  stadtrecht_jubiläum_ereignis: "Großer Festumzug zum Mohrenfest"
+  ist_kreisstadt: true, gueltig_ab: 1952
+GUELTIG_AB: 1196
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 255-eisenberg/002
+ENTITÄT: person
+BEZEICHNUNG: Carl Friedrich Hase
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 08.10.1815
+  geburt_ort: Altenburg
+  tod_datum: 22.03.1880
+  tod_ort: Altenburg
+  beruf: "Bürgermeister, Hofadvokat"
+  bürgermeister_amtszeit_von: 30.07.1854
+  bürgermeister_amtszeit_bis: 28.06.1862
+  ehrenbürger_ab: 28.06.1862
+  grund_ehrenbürger: "Verabschiedung aus Amt und Berufung zum Regierungs- und Finanzrat"
+  leistung: "Verbesserung der Trinkwasserversorgung mittels eiserner Wasserleitungen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 255-eisenberg/003
+ENTITÄT: person
+BEZEICHNUNG: Anton Ferdinand Ludewig
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 05.04.1805
+  geburt_ort: Eisenberg
+  tod_datum: 01.07.1889
+  tod_ort: Eisenberg
+  beruf: "Professor (emeritiert), Rektor"
+  position: "Rektor des Lyceums"
+  rektor_amtszeit_von: 1845
+  rektor_amtszeit_bis: 1871
+  ehrenbürger_ab: 25.04.1872
+  leistung: "Steigerung der Schülerzahl, Vergrößerung der Schulbibliothek"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 255-eisenberg/004
+ENTITÄT: person
+BEZEICHNUNG: Friedrich August Feller
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 10.12.1805
+  geburt_ort: Eisenberg
+  tod_datum: 08.03.1873
+  tod_ort: Eisenberg
+  beruf: "Musiklehrer, Hoforganist, Komponist"
+  hoforganist_position: Schlosskirche
+  gründung_gesangsverein: 1829
+  gründung_gesangsverein_bemerkung: "erster Gesangsverein in Eisenberg"
+  ehrenbürger_ab: 26.02.1873
+  leistung: "Komponist für Orchester und Chöre"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 255-eisenberg/005
+ENTITÄT: person
+BEZEICHNUNG: Dietrich Kuckuck
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Stadtdirektor"
+  stadt_herkunft: "Stadthagen, Niedersachsen"
+  ehrenbürger_ab: 17.11.1990
+  ehrenbürger_ort: Stadthagen
+  grund_ehrenbürger: "Unterstützung bei organisatorischem Aufbau und Vorarbeiten zur ersten konstituierenden Stadtverordnetenversammlung 1990"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 255-eisenberg/006
+ENTITÄT: person
+BEZEICHNUNG: Edgar von Thaler
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 08.02.1927
+  geburt_ort: Hamburg
+  tod_datum: 2019
+  tod_ort: Eisenberg
+  beruf: "Superintendent"
+  superintendent_amtszeit_von: 1965
+  superintendent_amtszeit_bis: 1992
+  ehrenbürger_ab: 09.02.1992
+  ehrenbürger_ort: Rathaus Eisenberg
+  bundesverdienstkreuz: "Erste Klasse, 2017"
+  grund_ehrenbürger: "Hohes Engagement bei friedlicher Revolution 1989/1990"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 255-eisenberg/007
+ENTITÄT: person
+BEZEICHNUNG: Gunther Emmerlich
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 18.09.1944
+  geburt_ort: Eisenberg
+  tod_datum: 19.12.2023
+  tod_ort: Dresden
+  beruf: "Sänger, Moderator"
+  ehrenbürger_ab: 26.06.2004
+  ehrenbürger_ort: "Feierliche Eröffnung der neuen Stadthalle"
+  bürgermeister_clauß_medaille_ab: 18.06.2003
+  bürgermeister_clauß_medaille_ort: Stadtkirche St. Peter
+  bürgermeister_clauß_medaille_grund: "Benefizkonzert für Dachreiter-Aufbau"
+  leistung: "Zahlreiche Auftritte und Konzerte, digitaler Stadtrundgang, Audioguide Eisenberger Mühltal"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 255-eisenberg/008
+ENTITÄT: person
+BEZEICHNUNG: Helmut Scheffel
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 20.11.1928
+  geburt_ort: Ahlendorf
+  tod_datum: 27.05.2014
+  tod_ort: Eisenberg
+  beruf: "Bürgermeister"
+  bürgermeister_amtszeit_von: 16.05.1963
+  bürgermeister_amtszeit_bis: 1989
+  bürgermeister_dauer_jahre: 26
+  ehrenbürger_ab: 20.07.2013
+  ehrenbürger_grund: "40-jähriges Bestehen des Eisenberger Freibades"
+  bürgermeister_clauß_medaille_ab: 22.11.2008
+  bürgermeister_clauß_medaille_grund: "80. Geburtstag"
+  leistung: "Kulturelle, sportliche und wirtschaftliche Weiterentwicklung; Schaffung öffentlicher Einrichtungen einschl. Freibad"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 255-eisenberg/009
+ENTITÄT: person
+BEZEICHNUNG: Emil Theodor Clauß
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 19.03.1845
+  geburt_ort: Lößnitz
+  tod_datum: 30.09.1914
+  tod_ort: Eisenberg
+  beruf: "Bürgermeister"
+  bürgermeister_amtszeit_von: 01.09.1884
+  bürgermeister_amtszeit_bis: 1914
+  bürgermeister_dauer_jahre: 30
+  namensgeber_medaille: "Bürgermeister-Clauß-Medaille"
+  leistung: "Errichtung Gaswerk, Wasserwerk, Herzog-Ernst-Schule (heute Friedrich-Schiller-Gymnasium), Johanniter-Krankenhaus, erste Stadtbücherei"
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 255-eisenberg/010
+ENTITÄT: gruppe
+BEZEICHNUNG: Eisenberger Kreis
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1953
+  auflösung_jahr: 1958
+  beschreibung: "Gruppe von Jugendlichen mit verschiedenen Aktionen gegen Missstände der DDR-Diktatur"
+  superlativ: "größte Widerstandsgruppe der DDR"
+  superlativ_genauigkeit: "vermutlich"
+  mitglieder_dokumentiert: "Thomas Ammer, Peter Herrmann, Johann Frömel, Ludwig Götz, Günther Schwarz, Joachim Markstadt, Roland Peter, Rudolf Rabold, Dr. Wilhelm Zier, Erika Spalke"
+  mitglieder_count: 10
+  bürgermeister_clauß_medaille_ab: 27.04.2000
+  bürgermeister_clauß_medaille_anzahl_träger: 10
+  bürgermeister_clauß_medaille_grund: "Anerkennung für Engagement für Freiheit und Demokratie in der DDR"
+  dokumentation: "Patrik zur Mühlen, Der 'Eisenberger Kreis', 1995"
+GUELTIG_AB: 1953
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 255-eisenberg/011
+ENTITÄT: person
+BEZEICHNUNG: Reinhard Pfau
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Geschäftsführer"
+  unternehmen: "Sanitärtechnik Eisenberg GmbH"
+  bürgermeister_clauß_medaille_ab: 10.05.2000
+  bürgermeister_clauß_medaille_grund: "50. Geburtstag, unternehmerische Verdienste"
+  unternehmen_gründung: 1945
+  unternehmen_produkt: "Sanitärprodukte aus Kunststoff"
+  tätig_ab_im_unternehmen: 01.08.1977
+  position_zunächst: "volkseigener Betrieb (VEB)"
+  position_leiter: "Wissenschaft und Technik"
+  neugründung_betrieb: "Sanit GmbH"
+  neugründung_datum: 01.07.1990
+  ruhestand: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/012
+ENTITÄT: person
+BEZEICHNUNG: Dietrich Worbes
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Superintendent"
+  superintendent_amtszeit_von: 1994
+  superintendent_amtszeit_bis: 2003
+  superintendent_dauer_jahre: 9.5
+  bürgermeister_clauß_medaille_ab: 02.02.2003
+  bürgermeister_clauß_medaille_grund: "Verabschiedung in Ruhestand"
+  leistung: "Trägerschaft Kindergarten 'Marienkäfer', Freizeiteinrichtung 'Teestube Shelter' durch evangelische Kirche"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/013
+ENTITÄT: person
+BEZEICHNUNG: Robert Schieferdecker
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Vereinsvorsitzender"
+  verein: "FSV Eisenberg (Freizeitsportverein Einheit Eisenberg)"
+  bürgermeister_clauß_medaille_ab: 08.12.2006
+  bürgermeister_clauß_medaille_grund: "40-jähriges Bestehen des Sportvereins"
+  leistung: "Gründung des Freizeitsportvereins 1990, Etablierung des Vereins"
+  guinness_weltrekord: "1999 Staffellauf '1920 mal 400 Meter'"
+  verein_ursprung: "ehemalige BSG"
+  mitglieder_entwicklung: "Wachstum unter seiner Leitung"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/014
+ENTITÄT: person
+BEZEICHNUNG: Christian Schmied
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bürgermeister_clauß_medaille_ab: 03.10.2007
+  bürgermeister_clauß_medaille_grund: "8. Milo-Barus-Cup"
+  leistung: "Aktive Mitbegründung des überregional bekannten Wettkampfes Milo-Barus-Cup"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/015
+ENTITÄT: person
+BEZEICHNUNG: Enrico Teske
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bürgermeister_clauß_medaille_ab: 03.10.2007
+  bürgermeister_clauß_medaille_grund: "8. Milo-Barus-Cup"
+  leistung: "Aktive Mitbegründung des überregional bekannten Wettkampfes Milo-Barus-Cup"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/016
+ENTITÄT: person
+BEZEICHNUNG: Cedric-Noel Briss
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_bei_tat: 9
+  bürgermeister_clauß_medaille_ab: 05.08.2010
+  bürgermeister_clauß_medaille_grund: "Rettung eines Jungen vor dem Ertrinken im Freibad"
+  leistung: "Schnelles und beherztes Handeln"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/017
+ENTITÄT: person
+BEZEICHNUNG: Reinhard Födisch
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Vereinsvorsitzender"
+  verein: "Sportanglerverein Eisenberg und Umgebung e.V."
+  vereinsmitglied_seit: 1963
+  bürgermeister_clauß_medaille_ab: 19.03.2011
+  bürgermeister_clauß_medaille_grund: "Jahreshauptversammlung 2011"
+  leistung: "Sicherung des Fischbestandes, Gewässerpflege, Anglerfeste, Fischerfest am Tonteich"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/018
+ENTITÄT: person
+BEZEICHNUNG: Rolf Aue
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_bei_auszeichnung: 81
+  beruf: "Sportlehrer, Fußballer"
+  sportlehrer_schule: "Georg-Kunze-Oberschule (heute Regelschule 'Karl Christian Friedrich Krause')"
+  sportlehrer_tätig_ab: 1977
+  sportlehrer_tätig_bis: 2002, genauigkeit: "ca."
+  bürgermeister_clauß_medaille_ab: 21.09.2011
+  bürgermeister_clauß_medaille_überbringung: "persönlicher Hausbesuch durch damaligen Bürgermeister"
+  fußball_vereine: "Helios Eisenberg"
+  leistung: "Mitwirkung bei Organisation Eisenberger Mühltallauf ab 1978"
+  mühltallauf_verein_vorsitz_von: 1997
+  mühltallauf_verein_vorsitz_bis: 2002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/019
+ENTITÄT: person
+BEZEICHNUNG: Mike Weber
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Fußballer, Trainer, Vereinsvorsitzender"
+  verein: "SV Eintracht Eisenberg"
+  vereinsvorsitz_von: 1997
+  vereinsvorsitz_bis: 2024
+  bürgermeister_clauß_medaille_ab: 10.12.2011
+  bürgermeister_clauß_medaille_grund: "Großes Engagement als Fußballer, Trainer und Vereinsvorsitzender"
+  johann_christoph_friedrich_guths_muths_ehrenplakette: "Silber"
+  johann_christoph_friedrich_guths_muths_ehrenplakette_ab: 01.07.2025
+  leistung: "Aufstieg erste Männermannschaft in Thüringenliga, Modernisierung Sportstätte Schortental"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/020
+ENTITÄT: person
+BEZEICHNUNG: Lutz Wiesner
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bürgermeister_clauß_medaille_ab: 07.01.2018
+  bürgermeister_clauß_medaille_grund: "Neujahrsempfang, ehrenamtliches Engagement im sportlichen Bereich"
+  leistung: "Unterstützung Aerobic- und Turnverein Eisenberg, Unterstützung 'Pokal der Stadt Eisenberg'"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/021
+ENTITÄT: person
+BEZEICHNUNG: Adolf Kauth
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Bürgermeister"
+  stadt: "Eisenberg/Pfalz"
+  bürgermeister_clauß_medaille_ab: 07.04.2018
+  bürgermeister_clauß_medaille_grund: "20-jähriges Bestehen der Eisenberger Tage"
+  leistung: "Initiator jährlicher Treffen der Vertreter namensgleicher Städte"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/022
+ENTITÄT: person
+BEZEICHNUNG: Burkhardt Wartner
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Bürgermeister"
+  stadt: "Eisenberg/Thüringen"
+  bürgermeister_amtszeit_von: 12.06.1990
+  bürgermeister_amtszeit_bis: 30.06.2000
+  bürgermeister_dauer_jahre: 10
+  bürgermeister_clauß_medaille_ab: 27.04.2000
+  bürgermeister_clauß_medaille_grund: "Erste Verleihung zum ersten Mal, während seiner Amtszeit; 20-jähriges Bestehen Eisenberger Tage"
+  leistung: "Co-Initiator jährlicher Treffen namensgleicher Städte, Erfahrungsaustausch und Freundschaftsknüpfung"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/023
+ENTITÄT: person
+BEZEICHNUNG: Andrea Zimmermann
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Sportlehrerin"
+  vereinsgründung: "Aerobic- und Turnverein Eisenberg e.V."
+  vereinsgründung_datum: 09.09.1999
+  vereinsvorsitz_bis: "Dezember 2016"
+  vereinsstatus_aktuell: "Ehrenmitglied"
+  bürgermeister_clauß_medaille_ab: 11.06.2018
+  bürgermeister_clauß_medaille_grund: "Vereinsveranstaltung"
+  leistung: "Initiative zur Gründung und Führung des Aerobic- und Turnvereins"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/024
+ENTITÄT: organisation
+BEZEICHNUNG: FSV Eisenberg
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vollname: "Freizeitsportverein Einheit Eisenberg"
+  gründung_jahr: 1990
+  herkunft: "ehemalige BSG"
+  superlativ: "Guinness-Weltrekord 1999"
+  superlativ_art: "Staffellauf '1920 mal 400 Meter'"
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/025
+ENTITÄT: organisation
+BEZEICHNUNG: SV Eintracht Eisenberg
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Fußballverein"
+  männermannschaft: "Aufstieg in Thüringenliga"
+  sportstätte: "Schortental (modernisiert)"
+GUELTIG_AB: vor 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/026
+ENTITÄT: organisation
+BEZEICHNUNG: Aerobic- und Turnverein Eisenberg
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abkürzung: "ATV Eisenberg e.V."
+  gründung_datum: 09.09.1999
+  größe_beschreibung: "einer der größten Vereine der Stadt"
+  erfolge_national: "ja"
+  erfolge_international: "ja"
+  angebot: "Sportkurse für alle Altersgruppen"
+  veranstaltung: "Pokal der Stadt Eisenberg (bundesweit angesehen)"
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/027
+ENTITÄT: organisation
+BEZEICHNUNG: Sportanglerverein Eisenberg und Umgebung
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  registrierung: "e.V."
+  tätigkeit: "Fischbestandsicherung, Gewässerpflege"
+  veranstaltungen: "Anglerfeste, Fischerfest am Tonteich"
+  veranstaltungen_bedeutung: "fester Bestandteil des kulturellen Lebens"
+GUELTIG_AB: vor 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/028
+ENTITÄT: ereignis
+BEZEICHNUNG: Milo-Barus-Cup
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: "Eisenberger Mühltal"
+  typ: "Kraftsportveranstaltung"
+  häufigkeit: "jährlich"
+  überregional_bekannt: true
+  anlass: "Erinnerung an Milo Barus, Belebung Eisenberger Mühltal"
+  erwähnung_8_auflage: 2007
+GUELTIG_AB: vor 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/029
+ENTITÄT: ereignis
+BEZEICHNUNG: Eisenberger Mühltallauf
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1972
+  häufigkeit: "jährlich"
+  beteiligung: "regional (deutschlandweit)"
+  besonderheit: "fester Wettkampf mit Tradition"
+  anzahl_läufer_erwähnt: "verschiedene Regionen Deutschlands"
+  jubiläum_35_jahre: 2007
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/030
+ENTITÄT: ereignis
+BEZEICHNUNG: Eisenberger Tage
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1999
+  häufigkeit: "jährlich"
+  beschreibung: "Treffen von Vertretern namensgleicher Städte"
+  städte_beteiligt: "Burgenland (Österreich), Allgäu, Pfalz, Thüringen"
+  tätigkeit: "Erfahrungsaustausch, Regionenvorstellung, Freundschaftsknüpfung"
+  jubiläum_20_jahre: 2018
+  veranstaltungsort_2024: "Eisenberg (25. Auflage)"
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/031
+ENTITÄT: unternehmen
+BEZEICHNUNG: Sanitärtechnik Eisenberg GmbH
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1945
+  produkt: "Sanitärprodukte aus Kunststoff"
+  geschichte_periode_1: "1945-1990, volkseigener Betrieb (VEB)"
+  neugründung_name: "Sanit GmbH"
+  neugründung_datum: 01.07.1990
+  geschäftsführer_ab_1990: "Reinhard Pfau"
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/032
+ENTITÄT: brunnen
+BEZEICHNUNG: Eisenberger Mohr
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/mohrensage | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Marktplatz (kleiner Teil, geteilt durch Rathaus und Kirche)"
+  ort_detailliert: "hinter dem Rathaus, seit 1727"
+  stand_seit: 1727
+  material: "grober Sandstein (aus einem Stück)"
+  darstellung: "Mohr mit Binde über den Augen, Trinkgefäß in der Hand"
+  funktion: "Brunnen"
+  besonderheit: "Wasser springt bei schönem Wetter"
+  wappensymbol: "Kopf mit Binde und drei Türme im Stadtwappen"
+  stadtwappen_status: "Wahrzeichen der Stadt"
+  sage_vorlage: "Sage vom Eisenberger Mohr"
+  sage_ursprung: "Zeiten der Grafen von Eisenberg, Diener nach Kreuzzug (historisch ca. Hochmittelalter)"
+  sage_grund: "Ehrenrettung eines unschuldig beschuldigten Mohren"
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1727
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/033
+ENTITÄT: sage
+BEZEICHNUNG: Die Sage vom Eisenberger Mohr
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/mohrensage | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Ein Graph hatte einen Mohren als Diener von einem Kreuzzug mitgebracht. Die Gräfin verliert ihre goldene Kette. Der Mohr wird verdächtigt und zum Tode verurteilt. Im letzten Moment findet die Gräfin die Kette im Gebetbuch. Der Graf schenkt dem Mohren die Freiheit und nimmt seinen Kopf mit Binde in sein Wappen auf. Später errichten die Bürger über dem ältesten Brunnen ein Standbild des Mohren."
+  funktion: "Erklärung des Stadtwappens und der Brunnenstatue"
+  denkmalpflege: "Quelle: Heinecke, Paul und Ost, Gerhard (1988). Holzlandsagen (8. Aufl.). Eisenberg: Rat des Kreises."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 255-eisenberg/034
+ENTITÄT: gebäude
+BEZEICHNUNG: Schlosskirche St. Trinitatis
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: "Herzog Christian von Sachsen-Eisenberg"
+  architektur: "Barockkapelle"
+  superlativ: "schönste Barockkapelle Thüringens", genauigkeit: "nach Quellenangabe"
+  ersteinweihung_jahr: 1692
+  ersteinweihung_jubiläum: "333 Jahre 2025"
+  wiedereinweihung_jahr: 1992, kontext: "300-jähriges Jubiläum"
+  nutzung: "Kirchengebäude"
+  bedeutung: "kultureller und religiöser Mittelpunkt der Stadt"
+GUELTIG_AB: 1692
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 255-eisenberg/035
+ENTITÄT: gebäude
+BEZEICHNUNG: Klötznersches Haus
+QUELLE: https://www.stadt-eisenberg.de/stadt/eroeffnung-museumscafe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "eines der ältesten Häuser der Stadt"
+  lage: "Markt"
+  nutzungen_geschichte: "Mädchenschule, Wohnhaus, Volksküche (1. Weltkrieg), Museum, Café"
+  nutzung_aktuell: "Stadtmuseum, Museumscafé, Tourismus Information"
+  besonderheit: "Gewölbekeller"
+GUELTIG_AB: "Hochmittelalter, genauigkeit: ca."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/036
+ENTITÄT: gebäude
+BEZEICHNUNG: Schloss Christiansburg
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel_verwendet: "Schloss"
+  umbau_durch: "Herzog Christian"
+  nutzung_1675_1707: "Residenz Herzog Christian"
+  nutzung_aktuell: "Verwaltungssitz Saale-Holzland-Kreis"
+  verwaltungssitz_seit: 1994
+GUELTIG_AB: 1675
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 255-eisenberg/037
+ENTITÄT: event
+BEZEICHNUNG: Todesmarsch von Buchenwald
+QUELLE: https://www.stadt-eisenberg.de/stadt/todesmarsch-von-buchenwald-eine-begegnung-mit-der-geschichte-der-stadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: "April 1945"
+  quelle_häftlinge: "KZ Buchenwald"
+  häftlingsanzahl: 26000
+  durchgangsort: "Eisenberg"
+  besonderheit: "Robert Büchler (16, slowakischer Jude) flieht bei Eisenberg und wird von US-Truppen aufgegriffen"
+  gedenkort: "Friedenspark"
+  gedenkstein: "ja"
+  gedenkveranstaltung_2026: 20.04.2026
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1945
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/038
+ENTITÄT: person
+BEZEICHNUNG: Robert Büchler
+QUELLE: https://www.stadt-eisenberg.de/stadt/todesmarsch-von-buchenwald-eine-begegnung-mit-der-geschichte-der-stadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_bei_flucht: 16
+  herkunft: "Slowakei (slowakischer Jude)"
+  flucht_ort: "bei Eisenberg"
+  flucht_zeit: "April 1945 (Todesmarsch von Buchenwald)"
+  rettung: "US-Truppen, medizinische Versorgung"
+  später: "Historiker, Botschafter für Frieden und gegen das Vergessen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/039
+ENTITÄT: ort
+BEZEICHNUNG: Friedenspark
+QUELLE: https://www.stadt-eisenberg.de/stadt/todesmarsch-von-buchenwald-eine-begegnung-mit-der-geschichte-der-stadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: "Gedenkort Todesmarsch von Buchenwald"
+  gedenkstein: "ja"
+  nutzung: "Veranstaltungsort für jährliches Gedenken"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/040
+ENTITÄT: gebäude
+BEZEICHNUNG: Meuschkensmühle
+QUELLE: https://www.stadt-eisenberg.de/stadt/museumstag | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Eisenberger Mühltal"
+  nutzung_aktuell: "Milo-Barus-Ausstellung"
+  ausstellung_thema: "Milo Barus - Eine Legende lebt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 255-eisenberg/041
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum
+QUELLE: https://www.stadt-eisenberg.de/stadt/museumstag | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Klötznersches Haus, Markt"
+  thema: "Stadtgeschichte, Industriegeschichte"
+  besonderheit: "Gewölbekeller in ältestem Gebäude"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/042
+ENTITÄT: museum
+BEZEICHNUNG: Milo-Barus-Ausstellung
+QUELLE: https://www.stadt-eisenberg.de/stadt/museumstag | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: "Milo Barus - Eine Legende lebt"
+  thema: "Milo Barus, stärkster Mann der Welt"
+  lage: "Meuschkensmühle, Eisenberger Mühltal"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 255-eisenberg/043
+ENTITÄT: establishment
+BEZEICHNUNG: Museumscafé
+QUELLE: https://www.stadt-eisenberg.de/stadt/eroeffnung-museumscafe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Klötznersches Haus, Markt"
+  eröffnung_neu: 03.01.2026
+  betreiberin: "Michaela Frühauf"
+  öffnungstage: "täglich außer mittwochs"
+  angebot: "Kuchen/Torten, Kaffee, täglich wechselnde Suppen"
+  besonderheit: "Speisen auf Original Eisenberger Porzellan (Wilhelm Jäger, Strohhalmdekor)"
+  schließung_vorgänger: "1 Jahr vor Wiedereröffnung"
+  sanierung_durchgeführt: "2025"
+  kapazität: "ca. 30 Gäste (innen)"
+  außenbereich: "ab Frühjahr wieder nutzbar"
+  vorgänger: "Martina Suxdorf (erstmals 1999)"
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/044
+ENTITÄT: establishment
+BEZEICHNUNG: Gambrinus
+QUELLE: https://www.stadt-eisenberg.de/stadt/das-gabrinus-ein-stueck-eisenberger-stadtgeschichte-1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Gasthaus"
+  gründung_jahr: 1878
+  gründer: "Christian Adolf Häßler und Pauline Häßler"
+  gründer_beruf: "Instrumentenschleifer (Christian), Wirtin (Pauline)"
+  lage_original: "Adelheidstraße 1"
+  entwicklung: "eines der beliebtesten Wirtshäuser der Stadt"
+  einrichtungen: "Saal (um 1900), Grottenklause, Kegelbahn, Wintergarten"
+  name_vollständig: "Etablissement Gambrinus - Kinematograph, Gartenlokal, Kegelbahn, Wintergarten"
+  brand: 2013
+  wiederöffnung: 2014
+  betreiber_aktuell: "Uwe Haß (Urenkel Adolf Ernst Kurt)"
+  funktion_kultur: "beliebter kultureller Treffpunkt für Vereine"
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1878
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/045
+ENTITÄT: person
+BEZEICHNUNG: Milo Barus
+QUELLE: https://www.stadt-eisenberg.de/stadt/museumstag24 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "stärkster Mann der Welt"
+  vermutliches_geburtsjahr: 1906
+  geburtstag_120_jahre: 2026
+  dedikation: "Milo-Barus-Cup benannt nach ihm"
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: "ca. 1900er Jahre"
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 255-eisenberg/046
+ENTITÄT: ereignis
+BEZEICHNUNG: Reformation in Eisenberg
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1523
+GUELTIG_AB: 1523
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/047
+ENTITÄT: ereignis
+BEZEICHNUNG: Martin Luther Besuche
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuch_1: 1530, anlass: "Reise zum Augsburger Reichstag", begleiter: "Philipp Melanchton, Georg Spalatin, Johann Agricola (Lutherschüler und Berliner Hofprediger)"
+  besuch_2: 1537, anlass: "Tagung des Schmalkaldischen Bundes", begleiter: "Philipp Melanchton, Georg Spalatin, Johann Agricola"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/048
+ENTITÄT: ereignis
+BEZEICHNUNG: Besuch russischer Zar und preußischer Kronprinz
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 1813
+  anlass: "nach Völkerschlacht bei Leipzig"
+  zar: "Alexander I. (Russland)"
+  zar_unterkunft: "Haus am Markt (später Buchhandlung Bauer)"
+  kronprinz: "Friedrich Wilhelm (Preußen)"
+  kronprinz_unterkunft: "Gasthaus 'Zum Bären'"
+  soldaten: "Lagerung nach Schlacht, Schützenhaus als Lazarett"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 255-eisenberg/049
+ENTITÄT: industrie
+BEZEICHNUNG: Porzellanherstellung
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_fabrik: "1796"
+  gründer: "Heinrich Ernst Mühlberg"
+  gründung_art: "Konzession zur Errichtung"
+  anzahl_großfabriken: 4, kontext: "Es gab 4 große Porzellanfabriken"
+  fabrik_bekannt: "Wilhelm Jäger (Strohhalmdekor, Indisch Blau / Blau Saks)"
+  letzte_fabrik_abriss: 1992
+  produktion_porzellan_heute: "Porzellanmanufaktur Kahla/Thüringen GmbH (vereinzelt Strohhalmdekor)"
+GUELTIG_AB: 1796
+GUELTIG_BIS: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/050
+ENTITÄT: industrie
+BEZEICHNUNG: Klavierbau
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beginn: 1823
+GUELTIG_AB: 1823
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 255-eisenberg/051
+ENTITÄT: unternehmen
+BEZEICHNUNG: Wurstfabrik
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründer: "August Matthes"
+  gründung_jahr: 1850
+  produkt: "Zervelatwürste (weithin bekannt)"
+  erste_eisenberger_wurstfabrik: true
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/052
+ENTITÄT: unternehmen
+BEZEICHNUNG: Eisenberger Stadtwerke
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1898
+  einrichtung_gaswerk: 1898
+  einrichtung_wasserwerk: "1901/02"
+  neugründung_jahr: 1994
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/053
+ENTITÄT: ereignis
+BEZEICHNUNG: Bürgerliche Revolution
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: "1848/49"
+  ereignis_lokal: "Aufstellung Bürgergarde in Eisenberg"
+  niederlage: "Reichstruppen besetzten Stadt und schlugen Aufstand nieder"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/054
+ENTITÄT: ereignis
+BEZEICHNUNG: Friedensgebete und Demonstrationen
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: "1989/1990"
+  ort: "Stadtkirche 'St. Peter'"
+  beschreibung: "Friedensgebete und Demonstrationen der Bürger für Veränderungen in Stadt und Kreis"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/055
+ENTITÄT: location
+BEZEICHNUNG: Marktplatz
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/mohrensage | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: "geteilt in zwei ungleich große Flächen durch Rathaus und Kirche"
+  brunnen: "Eisenberger Mohr (ältester Brunnen der Stadt)"
+  brunnen_lage: "kleiner Teil des Marktplatzes, hinter dem Rathaus seit 1727"
+  pflasterung_marktp: 1581
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 255-eisenberg/056
+ENTITÄT: gebäude
+BEZEICHNUNG: Stadtkirche St. Peter
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neuer_kirchturm_ab: 2003
+  reparaturen_dachreiter_2003: "Dachreitersanierung mit Benefizkonzert"
+GUELTIG_AB: "Mittel
+
+alter (ca.)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 255-eisenberg/057
+ENTITÄT: gebäude
+BEZEICHNUNG: Friedrich-Schiller-Gymnasium
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühere_name: "Herzog-Ernst-Schule"
+  erbauer: "Emil Theodor Clauß" (in seiner Amtszeit)
+  sportanlage: "Sporthalle (Eröffnung 1997)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 255-eisenberg/058
+ENTITÄT: ereignis
+BEZEICHNUNG: Mohrenfest
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_auflage: 2019
+  besonderheit: "erste Eisenberger Mohrenfest"
+  jubiläum_750_jahre_stadtrecht: "Festumzug 2024"
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 255-eisenberg/059
+ENTITÄT: sammlung
+BEZEICHNUNG: Bürgermeister-Clauß-Medaille
+QUELLE: https://www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_verleihung: 27.04.2000
+  erste_verleihung_zeit: "Amtszeit Bürgermeister Burkhardt Wartner"
+  erste_verleihung_anzahl: 10
+  erste_verleihung_empfänger: "Mitglieder des 'Eisenberger Kreises'"
+  namensgeber: "Emil Theodor Clauß"
+  grund_verleihung: "Personen, die durch besondere Leistungen oder Handlungen zur Steigerung des Ansehens der Stadt beigetragen haben"
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "260-dessau-rosslau",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 7290,
+ "token_ein": 223380,
+ "token_aus": 3809,
+ "usage": {
+  "input_tokens": 16,
+  "cache_creation_input_tokens": 26150,
+  "cache_read_input_tokens": 197214,
+  "output_tokens": 3809,
+  "output_tokens_details": {
+   "thinking_tokens": 1131
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 26150,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 1811,
+    "cache_read_input_tokens": 32361,
+    "cache_creation_input_tokens": 691,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 691
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.5069467999999999,
+ "sekunden": 71,
+ "fehler": false,
+ "zeit": "2026-10-13T11:09:47"
+}

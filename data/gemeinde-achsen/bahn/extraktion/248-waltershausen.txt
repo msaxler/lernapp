@@ -1,0 +1,916 @@
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Christian Gotthilf Salzmann
+ORTSTEIL_BEZUG: Schnepfenthal
+QUELLE: https://www.waltershausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geboren: Sömmerda
+  geburtsjahr: 1744
+  todesjahr: 1811
+  berufe: Pädagoge, Theologe
+  ruf: einer der bedeutendsten Pädagogen der Aufklärungszeit
+  ankunft_waltershausen: 1784
+  gründete: Erziehungsanstalt in Schnepfenthal
+  ansatz: ganzheitliche Entwicklung Zöglinge (geistig, sittlich, körperlich)
+  veroeffentlichungen: "Krebs", "Ameisenbüchlein", "Der Bote aus Thüringen" (Wochenschrift)
+  beschreibung: unterstützt durch aufgeklärten Herzog Ernst II.
+GUELTIG_AB: 1784
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Salzmannschule
+ORTSTEIL_BEZUG: Schnepfenthal
+QUELLE: https://www.waltershausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 2001
+  typ: Staatliches Spezialgymnasium für Sprachen
+  standort: Gelände der philanthropischen Erziehungsanstalt Salzmanns
+  auftraggeber: Thüringer Kultusministerium
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Matthäus Bechstein
+ORTSTEIL_BEZUG: Schnepfenthal
+QUELLE: https://www.waltershausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geboren: Ort unbekannt
+  geburtsjahr: 1757
+  todesjahr: 1822
+  studium_ort: Jena
+  studium_dauer: 1778-1780
+  studienfaecher: Theologie, Naturwissenschaften, Forst- und Kameralwissenschaft
+  lehrtaetigkeit_ab_1785: Mathematik und Naturwissenschaften am Philanthropin Schnepfenthal
+  gruendung_lehranstalt: 1794 öffentliche Lehranstalt Forst- und Jagdkunde Kemnote
+  gruendung_gesellschaft: 1795 "Sozietät für Forst- und Jagdkunde" (erste Gesellschaft für Forstpraktiker und Gelehrte)
+  direktor_ab: 1800
+  veroeffentlichung_diana: 1797
+  erhoehung_zu_forstakademie: 1803
+  ruf: "Vater der deutschen Vogelkunde"
+  tiere_benannt_nach_ihm: Bechsteinfledermaus, Bechstein-Drossel
+  verdienste_naturschutz: einer der ersten für Naturschutz und Tiererhalt
+  werk_terrarienkunde: begründete Terrarienkunde mit "Naturgeschichte der Stubentiere"
+  gesamtwerk: ca. 90 Monographien mit 132 Einzelbänden
+  ehrendoktorwuerde: 1806 Universität Erlangen
+GUELTIG_AB: 1785
+GUELTIG_BIS: 1822
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Christoph Friedrich GutsMuths
+ORTSTEIL_BEZUG: Schnepfenthal
+QUELLE: https://www.walterschausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geboren: Quedlinburg
+  geburtsdatum: 1759-08-09
+  todesjahr: 1839
+  beruf: Sportpädagoge, Philanthrop
+  lehrtaetigkeit_ab: 1785 am Philanthropin Schnepfenthal
+  lehrtaetigkeit_dauer: über 50 Jahre
+  leistung: Grundlagen neuzeitlicher Körpererziehung
+  veroeffentlichungen: "Gymnastik für die Jugend" (1793, 1804), "Kleines Lehrbuch der Schwimmkunst zum Selbstunterrichte" (1798), "Spiel-Allmanach für die Jugend" (1802)
+  veroeffentlichungen_zeitschriften: pädagogische Zeitschriften 1800-1820
+  gruendung_schulsport: erster in Schnepfenthal
+  eingefuehrte_sportarten: Gymnastik, Schwimmen, Ski, Schlittschuhfahren, Stabhochsprung, Waldlauf
+  trainingsstelle: schuleigener Gymnastikplatz (erster Deutschlands)
+  eponym_rennsteiglauf: größter Crosslauf Europas, trägt seinen Namen
+GUELTIG_AB: 1785
+GUELTIG_BIS: 1839
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Gymnastikplatz
+ORTSTEIL_BEZUG: Schnepfenthal
+QUELLE: https://www.waltershausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet_durch: Johann Christoph Friedrich GutsMuths
+  bedeutung: erster deutscher Gymnastiköplatz
+  zuordnung: schuleigene Einrichtung
+GUELTIG_AB: 1785
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Daniel Kestner jun.
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.waltershausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1787
+  todesjahr: 1858
+  herkunft: Sprössling einer Wirtschaftsfamilie
+  rolle: Begründer der Waltershäuser Puppenindustrie
+  unternehmensgruendung: ab 1816
+  anfangsprodukte: billigste Waren wie Pappfigürchen, Zwirnknöpfchen, Schreibtafeln
+  spaetere_produkte: Puppenköpfe aus Papiermaché
+  innovation: Einsatz Papiermaché statt Holz (Voraussetzung für industrielle Fertigung)
+  export: über Deutschlands Grenzen
+  wirtschaftliche_bedeutung: Puppen- und Spielzeugindustrie wurde wichtigster Industriezweig der Stadt
+  auswirkung_betroffene: ganze Familien in Fabriken und Heimarbeit
+GUELTIG_AB: 1816
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Daniel Kestner sen.
+ORTSTITEL_BEZUG: Waltershausen
+QUELLE: https://www.waltershausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1788
+  todesjahr: 1853
+  eponym: "Wurstkestner"
+  leistung: verhalf Wurstversand Waltershausen zum Aufschwung
+  zeitraum_aktivitaet: Anfang 19. Jahrhundert
+  produkte: Servelatwurst, Zungenwurst, Leberwurst, Blutwurst, Schinkenwurst, Sülzen
+  rezeptherkunft_vermutung_1: von Russe aus Freiheitskriegen in Waltershausen zurückgeblieben
+  rezeptherkunft_vermutung_2: aus Kenntnissen als wandernder Fleischergeselle in Russland
+  handelsname: "Gothaer Wurst"
+  vertrieb: ganz Deutschland
+  erfolg: relativ erfolgreich in ganz Deutschland
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1853
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heinrich Schwerdt
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.waltershausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geboren: Neukirchen bei Eisenach
+  geburtsjahr: 1810
+  todesjahr: 1888
+  berufe: Theologe, Pädagoge, Politiker, Schriftsteller
+  charakterisierung: fortschrittlicher Politiker
+  engagement: soziale Initiativen für Erwerbslosen-Unterstützung
+  superintendent_ab: 1872 in Waltershausen
+  gruendung: Thüringerwald-Verein (Leitung)
+  veroeffentlichungen: Schriften zu Heimatkunde, Wissenschaft, Gemeinwohl, Politik
+  auszeichnung: Ehrenmitglied des deutschen Schriftstellerverbandes
+GUELTIG_AB: 1872
+GUELTIG_BIS: 1888
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Benjamin Polack
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.waltershausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1829
+  todesjahr: 1897
+  beruf_vorher: Handelsreisender
+  gruendung_fabrik: 1863 am Ziegenberg
+  industriezweig: Schlauchweberei
+  produkte: Spritzenschläuche
+  innovation: Gummierungsverfahren (international prämiert)
+  bedeutung_innovation: wegweisend für Gummireifen-Produktion Fahrrad- und Automobilindustrie
+  nachfolger: Sohn Max Polack
+  nachfolger_marke: "Titan-Reifen" europaweit bekannt
+  problem: Nachfrage so groß, dass Produktion in Außenstellen ausgelagert werden musste; in Waltershausen fehlten qualifizierte Arbeitskräfte
+GUELTIG_AB: 1863
+GUELTIG_BIS: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: August Trinius
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.walterschausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geboren: Schkeuditz bei Leipzig
+  geburtsjahr: 1851
+  todesjahr: 1919
+  berufe: Reiseschriftsteller, Wanderer
+  lehrberuf_urspruenglich: Buchhalter
+  niedergelassen_ab: 1890 in Waltershausen
+  freundschaft: Friedrich Holbein
+  veroeffentlichung_hauptwerk: "Thüringer Wanderbuch"
+  veroeffentlichung_zeitraum: 1886-1902
+  veroeffentlichung_baende: 8 Bände
+  aktivitaeten: ausgedehnte Wanderungen durch Deutschland
+  beobachtungen: genaue Beobachtung Leben der Einwohner Heimatortes
+GUELTIG_AB: 1890
+GUELTIG_BIS: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Luise Gerbing
+ORTSTEIL_BEZUG: Schnepfenthal
+QUELLE: https://www.walterschausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1855
+  todesjahr: 1927
+  eponym: "Thüringer Waldfrau"
+  herkunft: Lehrerfamilie Schnepfenthal
+  schwerpunkt: Erforschung Brauchtum, Tracht, Siedlungsgeschichte Thüringens
+  arbeitsweise: intensive Studien historischer Quellen + Feldforschungen
+  arbeitsschwerpunkte: Feld- und Flurnamen
+  leistung: Erhalt Kultur und Tradition für Nachwelt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Holbein
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.walterschausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1856
+  todesjahr: 1940
+  beruf: Kunstmaler
+  herkunft: Sohn eines Leinenwebers
+  beschreibung: Autodidakt
+  fruehe_aktivitaet: bis 30. Lebensjahr Heimarbeit Puppenköpfe bemalt
+  inspiration: Umgebung Heimatorts Waltershausen
+  zusammenarbeit: August Trinius (Illustrationen)
+  verbreitung_ruf: über Grenzen Waltershausens
+  aktivitaeten_wochenend: jeden Sonntag bei jedem Wetter Inselsberg bestiegen
+  aktivitaeten_wochenend_detail: Veranda "Hotel Gotha" Werke angeboten
+  gipfelbuch_eintraege_inselsberg: 2244 Male bis 1940 eingetragen
+GUELTIG_AB: 1856
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Dr. Wilhelm Heufelder
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.walterschausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1896
+  todesjahr: 1976
+  geboren: Kulmbach (Oberfranken)
+  beruf: Mediziner, Chirurg
+  militaerdienst: Erster Weltkrieg
+  studium: München (nach Militärdienst)
+  assistenzstellen: mehrere vor Leitungsposition
+  leiter_ab: 1930 Krankenhaus Waltershausen
+  spezialisierung: Kropfbehandlung (über DDR-Grenzen bekannt)
+  pensionierung: 1966 Altersgründe
+  verbleib: danach einige Jahre als Facharzt
+  verdienst: Einsatz für Neubau Krankenhaus Geizenberg
+GUELTIG_AB: 1930
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Waltershausen
+ORTSTEIL_BEZUG: keine
+QUELLE: https://www.waltershausen.de/leben/wissenswertes/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: ueber 800 Jahre
+  lage: Süden Landkreis Gotha
+  hoehe_min: 300 m
+  hoehe_max: 340 m
+  hoehe_markt: 325 m
+  kernstadt_einwohner: 11000
+  ortsteile: 7
+  flaeche: 31.33 km²
+  ist_industriestandort: true
+  ist_wohnstandort: true
+  rang_landkreis: zweitgrößter nach Kreisstadt Gotha
+  zentrumsfunktionen: klein- und mittelständische für südwestliches Kreisterritorium
+  geografische_besonderheit: bandartige Ausdehnung über 4 km Länge
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schnepfenthal
+ORTSTEIL_BEZUG: Schnepfenthal
+QUELLE: https://www.waltershausen.de/leben/unsere-stadt-und-ortsteile/schnepfenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlungstyp: Rodungssiedlung
+  siedlungszeit: 12.-13. Jahrhundert
+  erste_erwaehnung: 1186 als "Snephindal"
+  urspruenglicher_eigentuemer: Reichsabtei Hersfeld
+  gueterttausch_jahr: 1186 an Benediktinerkloster Reinhardsbrunn
+  status_bis_reformation: Klosterdorf
+  status_ab_reformation: Kurfürsten/Herzöge von Sachsen
+  gemeinde_seit: 1643 (30 Feuerstätten)
+  namensvariante_20jh: nach 1920 "Schnepfenthal-Rödichen"
+  eingemeindung: 1950 in Waltershausen
+  veraenderung_19jh: Eisenbahnlinie nach Friedrichroda (Ende letztes Drittel 19. Jh.)
+  status_kurort_seit: 1900
+  status_luftkurort: ja
+  kurgaeste_1924: ca. 250
+  status_nach_wk2: Staatlich anerkannter Erholungsort
+  feriengaeste_jaehrlich: ca. 2500
+  sehenswuerdigkeiten: erster deutscher Turnplatz (GutsMuths), Friedhof Hardt, Gutshaus, Gymnasium Salzmannschule
+  vereine: 4
+  blasorchester: ja
+  braeuche: Maibaumsetzen, Sportfeste, Sommer- und Adventsfest
+  bedeutung_kulturell: durch Salzmanns Erziehungsanstalt
+GUELTIG_AB: 1186
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Langenhain
+ORTSTEIL_BEZUG: Langenhain
+QUELLE: https://www.waltershausen.de/leben/unsere-stadt-und-ortsteile/langenhain/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_siedlung: zu ältesten Dörfern Rodungsperiode
+  flur_groesse: besonders groß (Mosch/Ziller 1813)
+  flur_laenge: 4 km
+  flur_unterteilung: ursprünglich 60 "Güter"
+  gruendungsart: geplante Gründung
+  siedlungsperiode: letzte (800-1300)
+  erste_erwaehnung_jahr: 1286
+  erste_erwaehnung_dokument: Schenkungsurkunde Landgraf Albrecht der Entartete an Katharinenkloster Eisenach
+  verhaeltnis_zu_waltershausen: Waltershausen war "Filial nach Langenhain eingemeindet"
+  status_bis_16jh: Klosterdorf
+  status_nach_bauernkrieg: wieder Amt Tenneberg
+  pfarrgemeinde_umfang: zeitweise auch Tabarz, Cabarz
+  kirche_stil: Spätbarockbau
+  kirche_bau: 1763-1768
+  kirchturm_alter_teil: Unterbau romanisch (erste Hälfte 13. Jahrhundert)
+  kirchturm_bedeutung: ältester Bau Stadtbezirk Waltershausen, einer der ältesten Landkreis Gotha
+  beziehung_zu_waltershausen: enge wirtschaftliche, in Bannmeile
+  bannmeile_privilegien: Handwerks-, Markt-, Brauprivileg
+  berufliste_jahr: 1740
+  industrie_eintritt: 1812 Baumwollspinnerei (Gelände heutiges Pflegeheim)
+  vereine_19jh: Feuerwehr, Kleintierzuchtverein, Gesangs- und Turnverein
+  beteiligung_puppenindustrie: Langenhainer Frauen und Kinder für Kestner
+GUELTIG_AB: 1186
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wahlwinkel
+ORTSTEIL_BEZUG: Wahlwinkel
+QUELLE: https://www.waltershausen.de/leben/unsere-stadt-und-ortsteile/wahlwinkel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1186
+  erste_erwaehnung_name: "Waldwinkel"
+  einwohner_gruendung: ca. 30
+  einwohner_1510: 39 (Erbbuch Tenneberg)
+  lage_historisch: "Pflege Tenneberg"
+  grundlagen_flur: alter Flußboden, Kieslager
+  wasserwirtschaft: Teiche, Mühlwasser, Dorfbach
+  wasserproblem: Mangel gutem Trinkwasser → Schwindsucht, Typhus
+  befestigung_mittelalter: ja (Burggraben, Wassergraben, Hecke, Zugbrücke, Friedhofsmauer)
+  zugbruecke_letzte_kontrolle: 1565
+  befestigung_weitere: 1684 Wachgang beim Heiligen Hof
+  dorfform: Haufendorf mit fränkischen Bauernhöfen
+  bauweise: Giebel selten an Straße, an Breitseite mit Haustür
+  verzierung: Schnitzerei am Gesims
+  brand: 1783
+  einwohner_modern: ca. 600
+  handel_gewerbe: Gaststätten (2), Eis-Café, Bäckerei, Handel, Handwerk
+  vereine: 2 (Feuerwehr mit 60 Mitgliedern, kultur- und festveranstaltungen)
+  kultur: Maibaumsetzen, Kinderfest, Teichfest
+  brauchtumsschutz: Kirche, Pfarrei, Wegborn, Fachwerkhäuser
+GUELTIG_AB: 1186
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fischbach
+ORTSTEIL_BEZUG: Fischbach
+QUELLE: https://www.waltershausen.de/leben/unsere-stadt-und-ortsteile/fischbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1103
+  erste_erwaehnung_quelle: Urkunde Kaiser Heinrich IV.
+  geschichte_gepraegt_durch: Geschlecht derer von Wangenheim
+  schloss_erbauer: derer von Wangenheim
+  schloss_bauzeit: 1587-1639
+  schloss_eigentuemer: Gemeindebesitz
+  entwicklung_nach_1945: intensiver Aufbau Fremdenverkehr
+  infrastruktur_1952: Bergbühne, naturnaher Kurpark (wichtiger Grundstein)
+  veranstaltungen: alljährlich Mai-September auf Bergbühne
+  veranstaltungen_inhalt: Pflege Brauchtum, künstlerisches Volksschaffen, Volksmusik
+GUELTIG_AB: 1103
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schmerbach
+ORTSTEIL_BEZUG: Schmerbach
+QUELLE: https://www.walterschausen.de/leben/unsere-stadt-und-ortsteile/schmerbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: an B88
+  erste_erwaehnung: 1436
+  erste_erwaehnung_anlass: Besitzerwechsel Burg Scharfenberg
+  burg_besitzer_1458: Brüder Uetterodt
+  brunnenumgestaltung_jahr: 1861
+  brunnenumgestaltung: Holztröge durch Stein ersetzt
+  brunnenfest: alljährlich Pfingstsonntag
+  tradition_holzkohle: alte Tradition
+  koehlertest: erste Juliwoche
+  gestaltung_ortsbildung: alte Laufbrunnen in Neugestaltung Straßen/Plätze
+  plaetze_beispiel: "Wintersteiner Landstraße" mit Dorfteich, Platz unter Linden
+GUELTIG_AB: 1436
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Winterstein
+ORTSTEIL_BEZUG: Winterstein
+QUELLE: https://www.walterschausen.de/leben/unsere-stadt-und-ortsteile/winterstein/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1246
+  erste_erwaehnung_dokument: Waltmann als Zeuge Grenzvergleich
+  besitzer_seit: 1349 Herren von Wangenheim
+  aktivitaeten_besitzer: aktive Weiterentwicklung Ort
+  sehenswuerdigkeiten: Burgviertel, Burgruine, Wallgraben, Hundegrab, Vogtei, Gutshaus, Gutsscheune (Haus des Gastes)
+  tradition_erholungsort: fast 100 Jahre
+  ortsbild: Fachwerkhäuser (gut erhalten), sanierte kommunale Gebäude
+  planung_kirche_glockenturm: besondere Beachtung
+  infrastruktur_neu: Waldsportplatz ausgebaut, Kinderspielplatz neu
+  hundegrab_name: Stutzel
+  hundegrab_jahr: 1630
+  hundegrab_besonderheit: wohl in Deutschland einzigartig
+  hundegrab_initialen: Christoph und Anna von Wangenheim (geb. Seebach)
+GUELTIG_AB: 1246
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: sage
+BEZEICHNUNG: Stutzel Hundegrab
+ORTSTEIL_BEZUG: Winterstein
+QUELLE: https://www.walterschausen.de/leben/unsere-stadt-und-ortsteile/winterstein/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handelnde_personen: Hund Stutzel, Tochter Jägermeisters Hillerie von Wangenheim, Junker Kurt Hund von Wenkheim
+  handlung: Stutzel trägt Liebesbotschaften von Schloss Altenstein (bei Schweina) oder Gotha zur Tochter
+  konflikt: Zwist zwischen Wangenheim und Wenkheim
+  loesung_durch_hund: Stutzel vermittelt Versöhnung, Heirat folgt
+  verbleib: Stutzel lebt in Winterstein
+  verdienst: Versöhnung, Glück der Tochter, treue Dienste
+  belohnung: Gunst und Liebe Jägermeisters Christoph und Ehefrau Anna
+  grabplatz_urspr: Friedhof (führte zu Empörung Konsistorium)
+  grabplatz_final: unter Burgmauern
+  grabstein: schöner Grabstein angelegt, 1630, bis heute erhalten
+  beschreibung: treuer Hund mit Liebes- und Vermittlungsfunktion
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schwarzhausen
+ORTSTEIL_BEZUG: Schwarzhausen
+QUELLE: https://www.walterschausen.de/leben/unsere-stadt-und-ortsteile/schwarzhausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 787
+  besitz_1393: Geschlecht derer von Uetterodt
+  schloss: 1699 (heute Schulgebäude)
+  kirche: 1505
+  fachwerkhaeuser: "Alte Amt", "Kaiserhaus"
+  entwicklung_1992_93: Gewerbegebiet
+  entwicklung_strukturell: durch Bundesstraße B88
+  foerderung: Dorferneuerungsprogramm
+  bausubstanz: historisch wertvoll, im Ortskern erhalten
+  wohn_arbeitsbedingungen: zeitgemäß
+  kultur_schlossteiche: Schlossteichfeste alljährlich
+  kultur_alphornttreffen: jährlich mit Schmerbacher Blasmusik und Schwarzhäuser Männergesangsverein
+  kultur_gastronomie_veranstaltungen: Anglerverein mit Forellen vom Grill, Bratwürsten
+GUELTIG_AB: 787
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Tenneberg
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.waltershausen.de/tourismus/sehenswertes/schloss-tenneberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Tenneberg 1, 99880 Waltershausen
+  koordinaten_gps: 50.896040°N / 10.550150°E
+  uraelteste_erwaehnung: 1176
+  archaeologische_befunde: Merowingerzeit
+  errichtung_grund: Schutz, Überwachung, Besteuerung von Kaufleuten auf Salzhandelsstrecke
+  salzhandelsroute: Bad Salzungen → Rennsteig → Erfurt
+  besitzverlauf_15jh: 1440 Herzöge von Sachsen, 1572 Sachsen-Coburg
+  renovierung_renaissance: unter Herzog Johann Casimir
+  zuordnung_1640: Herzogtum Sachsen-Gotha
+  nutzung_residenz: Herzog Ernst 'der Fromme' (6 Monate)
+  bedeutung_herzog_friedrich_2: Initiator letzte große Bauperiode
+  gebaeude_festsaal: 1719
+  festsaal_deckenfresko: Johann Heinrich Ritter (Thüringer Hofmaler)
+  festsaal_architektur: Komposition Architektur, Plastik, Malerei
+  festsaal_verwendung: 20.10.1929 Gründung städtisches Heimatmuseum
+  ausstellung_puppen: Puppenausstellung (Publikumsmagnet bis heute)
+  ausstellung_thema: Waltershäuser Puppen, Thüringer Puppen, Puppen der Welt
+  ausstellung_zeichen: "Von Bruno bis biggi" (1900-2002 aus Celluloid, PVC, biggidur)
+  ausstellung_sonderausstellung: ja
+  industrie_puppen_beginn: 1816 Kestner jun. mit Papiermaché
+  industrie_puppen_duration: fast 200 Jahre Dominanz
+  industrie_puppen_weltausstellung_1904: "Großer Preis" St. Louis
+  industrie_puppen_arbeitskraefte_1900er: 2000-2500 für 13 Fabriken
+  industrie_puppen_ddr: VEB Puppenfabrik "biggi" ab 1976
+  industrie_puppen_ende: 1990 Hauptteil beendet
+  industrie_puppen_manufaktur: bis 2003 fortgeführt
+  bedeutung_kulturell: Puppenmuseum zieht Gäste weltweit an
+  attraktion_wanderwege: Benediktinerpfad, Zöglingsweg
+  gastronomie: ja
+  erreichbarkeit_auto: ja
+  zitat_august_trinius: "Schloss Tenneberg, auf dem von Laubgehölz umkleideten Burgberge gelegen... darf stolz auf seine Lage sein"
+GUELTIG_AB: 1176
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: architektur_gebaeude
+BEZEICHNUNG: Festsaal Schloss Tenneberg
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.walterschausen.de/tourismus/sehenswertes/schloss-tenneberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1719
+  kunstform: Barock
+  erhaltungsstatus: erhalten (einer von drei Barockräumen)
+  deckenwerk: Deckengemälde von Johann Heinrich Ritter
+  raumkomposition: Architektur, Plastik, Malerei gelungene Komposition
+  verwendung_kulturell: 20.10.1929 Gründung Heimatmuseum
+GUELTIG_AB: 1719
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtkirche "Zur Gotteshilfe"
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.walterschausen.de/tourismus/sehenswertes/stadtkirche-zur-gotteshilfe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur_typ: barocker Zentralkirchenbau (erster großer Thüringens)
+  kontext_entstehung: eine von rund 20 Kirchen unter Herzog Friedrich II. (1691-1732) nach Dreißigjähriger Krieg
+  grundsteinlegung: 1719-10-09 (Georg Christoph Röhn, Tenneberger Amtmann)
+  eckstein_herzog: 1719-11-08 (Herzog Friedrich II.)
+  baubeginn_vorlaeufer: an Stelle spätgotischer Hallenkirche
+  architekt: Wolf Christoph Zorn v. Plobsheim
+  architekt_tod: 1721-08-09
+  bauaufsicht_nachfolger: Johann Erhard Straßburger (1675-1754)
+  bauaufsicht_nachfolger2: Oberbaudirektor Wurm
+  richtstrauß_dach: 1720-12-19
+  laterne_original: nicht gefallen, 1722 glockenförmige ersetzt
+  vollendung: 1723
+  einweihung: 1723-11-24
+  teil_kirchturm_alt: untere Hälfte aus Marienkirche 1458
+  beschaedigung_brand: 1865
+  wiederaufbau_oberteil: 1869 (Baumeister Beauregard)
+  sanierung_neuausmalung: 1990-1998
+  sanierung_orgel: 1990-1998
+  sanierung_außenputz_nordseite: 2009
+  bedeutung_architektur: Thüringens erster großer barocker Zentralkirchenbau
+  vorbild_fuer: Frauenkirche Dresden (1726-1738 Georg Bähr)
+  superlativ: bedeutendster protestantischer Zentralbau in Thüringen
+  raumfunktion_planung: Geistlicher der Gemeinde zugewandt, äußerste Plätze von Kanzel gleichweit entfernt
+  raumform: elliptisch mit Gestuhl auf Emporen
+  kapazitaet: 1200 Menschen
+  raumelement_holzpfeiler: 8 kräftig
+  raumelement_emporen: dreigeschossig
+  ausrichtung: West-Ost
+  beherrschung: Kanzelaltar mit Orgel
+  innengestaltung: reich
+  ausmalung_emporen_jahr: 1759
+  ausmalung_emporen_freigelegte: 1994/95
+  deckenfresko_kuenstler: Johann Heinrich Ritter (gothaischer Hofmaler, 1685/90-1751)
+  deckenfresko_jahr: 1723
+  deckenfresko_stil: illusionistische Architekturmalerei
+  deckenfresko_ort: Mansardengeschoß
+  deckenfresko_inhalt: Heilige Dreifaltigkeit, Allegorien (Glaube, Liebe, Hoffnung, Treue, Klugheit, Standhaftigkeit, Mäßigkeit, Geduld)
+  deckenfresko_frauenfiguren: Kartuschen mit Seligpreisungen Bergpredigt (Matth. 5-7)
+  herrschaftsstand: zentral 1. Empore mit sächsisch-gothaisches Wappen
+  herrschaftsstand_bedeutung: Ausdruck neuen landesherrlichen Kirchenregiments seit Reformation
+  tenneberg_funktion: Jagdschloss, später Witwensitz Gothaer Herzöge
+  bauform_außen: Quadrat (22,5 m Innenmaß) mit gekehlten konkav einschwingenden Ecken
+  bauform_außen_risalite: Ost/West für Treppenhäuser
+  bauform_kreuzform: kurzflügeliges griechisches Kreuz
+  risalite_nord_sued: flach
+  fassade_suedseite: festlich-feierlich, dem Markt zugewandt
+  portale: 4
+  material_außen: heimischer grau-roter Bundsandstein
+GUELTIG_AB: 1719
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: musikinstrument
+BEZEICHNUNG: Orgel Stadtkirche "Zur Gotteshilfe"
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.walterschausen.de/tourismus/sehenswertes/stadtkirche-zur-gotteshilfe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Tobias Heinrich Gottfried Trost
+  erbauer_lebensdaten: ca. 1680-1759
+  erbauer_ruf: bedeutendster "Neuer" mitteldeutscher Orgelbau, Avantgardist
+  erbauer_bedeutung: bedeutendster thüringischer Orgelbauer zur Zeit Johann Sebastian Bachs
+  baubeginn: ab 1722
+  bau_art: anfangs Auftrag 2-manualiglich, dann vergrößert
+  bau_inspiration: Reise Freiberg 1722 → Silbermannssche Domorgel
+  bau_vergroesserung_grund: Trost entschloss sich zur Vergrößerung
+  bau_vergroesserung_konsequenz: Ärger Verantwortliche (metaphorisch "arrest und Galgen")
+  empore_anpassung: abgesenkt für größeres Werk (8,30 m hoch, 8,80 m breit)
+  verarbeitung_zeitraum: 1722-Mai 1741 vollendet
+  nachweisbarkeit_trost: bis 1730
+  superlativ: bedeutendste und größte Orgel aus der Bachzeit in Thüringen
+  manuale: 3
+  register_klingende: 53
+  pfeifen_gesamt: 2806
+  pfeifen_original_anteil: ca. 70%
+  spielanlage_original: nahezu ganz
+  konzeption_trost: ausgefallen und besonders
+  baustil_charakteristika: Thüringischer Orgelbau Anfang 18. Jahrhundert
+  baustil_tonalitaet: Betonung Grundtönigkeit und Gravität
+  baustil_register: Transmissionsregister Hauptwerk → Pedal
+  baustil_registerbauarten: ausgefallen neben bodenständigen Stimmen
+  restaurierung: 1994-98 durch Orgelbau Waltershausen GmbH
+  restaurierung_ziel: Originalzustand hergestellt
+  funktion_kulturell: Höhepunkt Innenraum, Raumbeherrschung
+GUELTIG_AB: 1722
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Benediktinerkloster Reinhardsbrunn
+ORTSTEIL_BEZUG: keine
+QUELLE: https://www.walterschausen.de/tourismus/sehenswertes/das-benediktinerkloster-reinhardsbrunn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  existenzzeitraum: 1085 bis Anfang 16. Jahrhundert
+  gruendung_durch: Graf Ludwig den Springer (auch Erbauer Wartburg)
+  gruendung_grund_sage: Sühnetat für Auftragsmord am Ehemann seiner späteren Frau Adelheid
+  moenc_herkunkt: 12 aus Hirsau (Benediktinerabtei Schwaben)
+  klosterkirche_einweihung: 1097
+  selbstversorgung_einrichtungen: Mühle, Vorratshaus, Bäckerei, Brauhaus, Fischteiche, Gärten
+  bedeutung_erster_abt: Gieselbert begründete hohen Ruf
+  finanzielle_sicherung: Schenkungen über Thüringen hinaus
+  politische_bedeutung: 1131 Ludwig I. Thüringer Landgrafenwürde übertragen
+  status_kloster: Grablege und Hauskloster Thüringer Landgrafengeschlecht
+  kultur_aktivitaeten: Künste und Wissenschaften
+  kultur_schreibkunst: Reinhardsbrunner Fälschungen (11./12. Jahrhundert) → hoher Stand
+  bluete: 12./13. Jahrhundert
+  paepstliche_gunst: hohe Gunst der Päpste, Verleihung Inful (Bischofsmütze), Ring, Titel "Von Gottes Gnaden"
+  katastrophe_brand: 1292 verheerende Brandkatastrophe
+  katastrophe_brand_verluste: Bibliothek, Abtsgebäude, romanische Kirche, Kreuzgang, Ludowinger Grabsteine
+  katastrophe_wiederaufbau_kosten: sehr hoch
+  katastrophe_folgen: Finanznot, Verschuldung
+  bestaende_ende_15jh: ca. 50 Mönche
+  untergang_grund: Bauernkrieg
+  untergang_ereignis: 1525 Plünderung durch aufständische Bauern aus Waltershausen und Umgebung
+GUELTIG_AB: 1085
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schloss Fischbach
+ORTSTEIL_BEZUG: Fischbach
+QUELLE: https://www.walterschausen.de/leben/unsere-stadt-und-ortsteile/fischbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: derer von Wangenheim
+  bauzeit: 1587-1639
+  eigentuemer: Gemeindebesitz
+GUELTIG_AB: 1587
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bergbühne Fischbach
+ORTSTEIL_BEZUG: Fischbach
+QUELLE: https://www.walterschausen.de/leben/unsere-stadt-und-ortsteile/fischbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1952
+  funktion: Veranstaltungsort
+  veranstaltungen: Mai-September
+  veranstaltungsinhalte: Brauchtum, künstlerisches Volksschaffen, Volksmusik
+  bedeutung: wichtiger Grundstein für Entwicklung als Erholungsort
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kurpark Fischbach
+ORTSTEIL_BEZUG: Fischbach
+QUELLE: https://www.walterschausen.de/leben/unsere-stadt-und-ortsteile/fischbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1952
+  beschaffenheit: naturnahe
+  bedeutung: wichtiger Grundstein für Entwicklung als Erholungsort
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Langenhain
+ORTSTEIL_BEZUG: Langenhain
+QUELLE: https://www.walterschausen.de/leben/unsere-stadt-und-ortsteile/langenhain/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: Spätbarock
+  bauzeit: 1763-1768
+  kirchturm_altbau: romanisch (Unterbau)
+  kirchturm_altbau_zeit: erste Hälfte 13. Jahrhundert
+  bedeutung_kirchturm: ältester Bau Stadtbezirk Waltershausen, einer der ältesten Landkreis Gotha
+GUELTIG_AB: 1763
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Puppenindustrie Waltershausen
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.walterschausen.de/tourismus/sehenswertes/schloss-tenneberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  begruendung: 1816 Johann Daniel Kestner jun.
+  innovation: Einsatz Papiermaché statt Holz
+  verarbeitung: ledernen Bälge, Arme, Beine in Heimarbeit mit Sägespänen ausgestopft
+  verarbeitung_kleidung: modische Kleidchen
+  markt: weltweiter Handel
+  auszeichnung: "Großer Preis" Weltausstellung 1904 St. Louis
+  arbeiter_frueh_20jh: 2000-2500 für 13 Puppenfabriken
+  industrie_ddr: ab 1976 VEB Puppenfabrik "biggi"
+  ende: 1990 hauptsächlich beendet
+  manufaktur_restbetrieb: bis 2003
+  dominanz_dauer: fast 200 Jahre
+  bedeutung_stadt: dominierter Industriezweig, wirtschaftliche Entwicklung
+GUELTIG_AB: 1816
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Bauernkrieg Reinhardsbrunn
+ORTSTEIL_BEZUG: keine
+QUELLE: https://www.walterschausen.de/tourismus/sehenswertes/das-benediktinerkloster-reinhardsbrunn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Plünderung Benediktinerkloster Reinhardsbrunn
+  jahr: 1525
+  akteure: aufständische Bauern aus Waltershausen und Umgebung
+  folge: Untergang des Klosters
+  beschreibung: das Ende des Klosters brachte der Bauernkrieg
+GUELTIG_AB: 1525
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Brandkatastrophe Reinhardsbrunn
+ORTSTEIL_BEZUG: keine
+QUELLE: https://www.walterschausen.de/tourismus/sehenswertes/das-benediktinerkloster-reinhardsbrunn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: verheerende Brandkatastrophe
+  jahr: 1292
+  gebaeude_verluste: Bibliothek, Abtsgebäude, romanische Kirche, Kreuzgang, Ludowinger Grabsteine
+  folgen: Finanznot, Verschuldung durch hohe Wiederaufbaukosten
+GUELTIG_AB: 1292
+GUELTIG_BIS: 1292
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Brand Wahlwinkel
+ORTSTEIL_BEZUG: Wahlwinkel
+QUELLE: https://www.walterschausen.de/leben/unsere-stadt-und-ortsteile/wahlwinkel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: großer Brand
+  jahr: 1783
+GUELTIG_AB: 1783
+GUELTIG_BIS: 1783
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahnlinie Friedrichroda
+ORTSTEIL_BEZUG: Schnepfenthal
+QUELLE: https://www.walterschausen.de/leben/unsere-stadt-und-ortsteile/schnepfenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: zu Schnepfenthal / Friedrichroda
+  zeitraum: Ende letztes Drittel 19. Jahrhundert
+  bedeutung: Anschluss an "große, weite Welt"
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Rennsteiglauf
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.walterschausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Crosslauf
+  traeger_name: Johann Christoph Friedrich GutsMuths
+  rang: größter in Europa
+  periodizitaet: alljährlich (vermutet)
+  beschreibung: trägt Namen GutsMuths
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Inselsberg
+ORTSTEIL_BEZUG: keine
+QUELLE: https://www.walterschausen.de/leben/wissenswertes/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 916 m
+  standort: Südwesten von Waltershausen (Sichtlinie)
+  hotel: "Hotel Gotha" auf Veranda
+  gipfelbuch: vorhanden, mindestens 2244 Einträge Friedrich Holbein
+GUELTIG_AB: 1856
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Burgberg
+ORTSTEIL_BEZUG: Waltershausen
+QUELLE: https://www.walterschausen.de/leben/wissenswertes/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 434 m
+  ueberlagerung_stadt: überragt Stadt um ca. 100 m
+  bebauung: Schloss Tenneberg
+GUELTIG_AB: 1176
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Rennsteig
+ORTSTEIL_BEZUG: keine
+QUELLE: https://www.walterschausen.de/leben/wissenswertes/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Höhenweg
+  lage: Kamm des Thüringer Waldes
+  bedeutung: historische Salzhandelsroute
+GUELTIG_AB: 1176
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hotel Gotha
+ORTSTEIL_BEZUG: keine
+QUELLE: https://www.walterschausen.de/leben/wissenswertes/historische-persoenlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Veranda Inselsberg
+  funktion: Verkaufsstelle für Kunstwerke
+  besucher_kultur: Friedrich Holbein bot dort sonntags Werke an
+VERTRAUEN_EXTRAKTION: 0.75

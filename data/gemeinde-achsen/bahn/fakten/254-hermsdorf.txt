@@ -1,0 +1,846 @@
+ID: 254-hermsdorf/001
+ENTITÄT: ort
+BEZEICHNUNG: Hermsdorf
+QUELLE: https://www.vg-hermsdorf.de/historisches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 1256
+  lage_kreis: Saale-Holzland-Kreis
+  sitz_verwaltungsgemeinschaft: true
+  charakterisierung: Kleinstadt in Ostthüringen
+  zentrum_region: Thüringer Holzland
+  ist_verkehrsknotenpunkt: true
+  begruendung_entwicklung: Holzreichtum und verkehrsgünstige Lage an Handelsstraße Naumburg–Regensburg
+GUELTIG_AB: 1256
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 254-hermsdorf/002
+ENTITÄT: ort
+BEZEICHNUNG: Hermsdorf
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwahnung: 1173
+  genauigkeit: vermutlich
+  beschreibung: Kaiser Friedrich I. hielt vermutlich 1173 einen geheimen Hoftag im späteren Gasthof Zum Schwarzen Bär
+  erste_sichere_urkundliche_erwahnung: 1256
+  entfernung_zu_jena: ca. 20–25 km
+  entfernung_zu_gera: ca. 20–25 km
+  entfernung_zu_leipzig: ca. 55 km südwestlich
+GUELTIG_AB: 1173
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 254-hermsdorf/003
+ENTITÄT: ort
+BEZEICHNUNG: Hermsdorf
+QUELLE: https://www.vg-hermsdorf.de/historisches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angehoerigkeit_kreisamt: wettinisches Kreisamt Eisenberg
+  angehoerigkeit_herzogtum_1: Herzogtum Sachsen-Gotha-Altenburg
+  angehoerigkeit_herzogtum_2: Herzogtum Sachsen-Altenburg
+  territorialer_wechsel: Westkreis (räumlich getrennt von Residenzstadt Altenburg)
+  angehoerigkeit_land: Freistaat Thüringen
+GUELTIG_AB: 1256
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/004
+ENTITÄT: ort
+BEZEICHNUNG: Hermsdorf
+QUELLE: https://www.vg-hermsdorf.de/historisches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angehoerigkeit_land: Freistaat Thüringen
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 254-hermsdorf/005
+ENTITÄT: ort
+BEZEICHNUNG: Hermsdorf
+QUELLE: https://www.vg-hermsdorf.de/historisches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtrecht_erlangung: 7. Oktober 1969
+  einwohner_bei_stadtrecht: 9000, genauigkeit: mehr als
+  grund_stadtrecht: Würdigung der erfolgreichen sozialistischen Entwicklung
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 254-hermsdorf/006
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnstrecke Weimar–Gera
+QUELLE: https://www.vg-hermsdorf.de/historisches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1872-1876
+  bedeutung_fuer_ort: begann industrielle Entwicklung
+  anlass: Holzreichtum und verkehrsgünstige Lage
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/007
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahnkreuz Hermsdorf (A 9 / A 4)
+QUELLE: https://www.vg-hermsdorf.de/historisches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1930er Jahre
+  bedeutung: weitere Verbesserung der Infrastruktur
+  routen: A 9 Berlin–München, A 4 Frankfurt am Main–Dresden
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/008
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zweiter Weltkrieg in Hermsdorf
+QUELLE: https://www.vg-hermsdorf.de/historisches.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fremd_zwangsarbeiter_kriegsgefangene: 3586
+  herkunft_nationen: 15
+  einsatzort: Hermsdorf
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/009
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Luftangriffe auf Hermsdorf
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 9.–11. April 1945
+  durchfuehrung: US-Luftangriffe durch taktische Bomber
+  opfer: 13
+  zerstoerungen: etliche Häuser und Hermsdorfer Schule
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/010
+ENTITÄT: ortschaft
+BEZEICHNUNG: Mörsdorf
+ORTSTEIL_BEZUG: Mörsdorf
+QUELLE: https://www.vg-hermsdorf.de/historisches-moersdorf.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_aus: vermutlich aus ehemaligem Dorf Mertensdorf
+  genauigkeit: vermutlich
+  mertensdorf_existenz: um 1150
+  urkundliche_erwahnung: 1457
+  ortstyp: Straßendorf
+  geschichte: Durchziehende Truppen raubten und plünderten immer wieder
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/011
+ENTITÄT: ortschaft
+BEZEICHNUNG: Reichenbach
+ORTSTEIL_BEZUG: Reichenbach
+QUELLE: https://www.vg-hermsdorf.de/historisches-reichenbach.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungszeit: 13. Jahrhundert
+  anfaengliche_bauernhoefe: 12–14
+  landgewinn: gerodetem Land
+  abhaengigkeit_initial: Wettiner
+  abhaengigkeit_spaeter: Frauenkloster zu Lausnitz
+  ortstyp: Angerdorf
+  charakteristika: Straße durchzieht Dorf, Gehöfte rechts und links an Straße, Kirche, Schmiede, Dorfteich
+  gewerbe_entwicklung: Handwerk und Handel hinzugekommen
+  befreiung_feudale_lasten: 17.–18. Jahrhundert
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/012
+ENTITÄT: ortschaft
+BEZEICHNUNG: Schleifreisen
+ORTSTEIL_BEZUG: Schleifreisen
+QUELLE: https://www.vg-hermsdorf.de/historisches-schleifreisen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_periode_1: Herren zu Lichtenhain
+  herrschaft_periode_1_zeitraum: 1433–1655
+  herrschaft_periode_2: derer von Brand
+  dreissigjaehriger_krieg: Bewohner flüchteten in Wälder wegen Pest durch kroatischen Söldner
+  fronarbeit_konflikt: Fronprozess gegen Valentin von Lichtenhain aus Gleina
+  fronarbeit_konflikt_gericht: Hofgericht Jena
+  fronarbeit_konflikt_zeitraum: 1618–1621
+  fronarbeit_konflikt_ausgang: Vergleich mit Verständnis der Bauern
+  frongelder_abschaffung: 1846
+  frongelder_abloese_betrag: 300 Taler
+  frongelder_abloese_jahr: 1856
+  ortsname_herkunft: Schleifen (Holzschlag und Transport zu Tal) + Reisen (Kein- und Pechgewinnung)
+GUELTIG_AB: 1433
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/013
+ENTITÄT: ortschaft
+BEZEICHNUNG: St. Gangloff
+ORTSTEIL_BEZUG: St. Gangloff
+QUELLE: https://www.vg-hermsdorf.de/historisches-sankt-gangloff.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_erwahnung: 1266
+  topographie: auf sieben Hügeln erbaut wie Rom
+  spitzname: Thüringisches Rom
+  spitzname_charakter: scherzhaft
+  namensgeber: heiliger Gangolf
+  wallfahrtskapelle_widmung: heiliger Gangolf
+  wallfahrtskapelle_erweiterung: 1650
+  wallfahrtskapelle_neubau: 1750
+  neubau_grund: Baufälligkeit
+  besiedlung_charakter: langsam über Jahrhunderte
+  infrastruktur_verbesserung: Kunststraße Gera nach Stadtroda 1840
+  infrastruktur_auswirkung: spürbarer Aufschwung
+  wirtschaftlicher_aufschwung_zeit: ab 1990
+  aufschwung_grund: günstige Anbindung Autobahnkreuz
+  gewerbegebiet_neues: entstanden ab 1990
+GUELTIG_AB: 1266
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/014
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Räuberbande Schwarzer Böttcher
+QUELLE: https://www.vg-hermsdorf.de/historisches-sankt-gangloff.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Mitte 18. Jahrhundert
+  betroffene_region: St. Gangloff und Umgebung
+  handlungen: Raubüberfälle, Brand und Mord
+  wirkung: Angst und Schrecken
+GUELTIG_AB: 1750
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 254-hermsdorf/015
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche zu Mörsdorf
+ORTSTEIL_BEZUG: Mörsdorf
+QUELLE: https://www.vg-hermsdorf.de/kirche-moersdorf.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1685
+  turm_hoehe: 36 [m]
+  turm_sichtbarkeit: weithin sichtbar
+  glockenanzahl: 3
+  glockenanzahl_gueltig_ab: 6. September 2012
+  aelteste_glocke_jahr: 1522
+  turmuhr_zifferblatt: 3
+  turmuhr_ausrichtung: Süd, West, Nord
+  sanierung: 2004–2007
+  orgel_typ: Gerhardt-Orgel
+  orgel_restaurierung: im Rahmen Sanierung
+  dachstuhl_verschieferung: 2012
+GUELTIG_AB: 1685
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/016
+ENTITÄT: kirche
+BEZEICHNUNG: Christus Kirche Reichenbach
+ORTSTEIL_BEZUG: Reichenbach
+QUELLE: https://www.vg-hermsdorf.de/kirche-reichenbach.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1726
+  charakteristika: überragt die Dächer des Ortes
+GUELTIG_AB: 1726
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/017
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche zu Schleifreisen
+ORTSTEIL_BEZUG: Schleifreisen
+QUELLE: https://www.vg-hermsdorf.de/kirche-schleifreisen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchentyp: Saalkirche rechteckig
+  bauzeit: 1769–1770
+  dachturm: vermutlich später errichtet
+  ausstattung: aus Erbauungszeit
+  emporen: dreiseitig, an Längseiten zweistöckig
+  kanzelaltar: mit Rankenschnitzwerk und geschnitzter Engelsfigur
+  chor_charakteristika: stark eingezogen mit Nebenräumen
+  glocken_geschichte: alte im I. Weltkrieg eingeschmolzen
+  glockenanzahl: 3
+  glocken_jahre: 1927 (eine), 1960–1961 (zwei)
+  innenrenovierung: 1992
+  dachstuhl: zuletzt instand gesetzt
+GUELTIG_AB: 1769
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/018
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche zu St. Gangloff
+ORTSTEIL_BEZUG: St. Gangloff
+QUELLE: https://www.vg-hermsdorf.de/kirche-sankt-gangloff.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1756
+  baustil: Holzbau im Zopfstil
+  form: Chor und Langhaus bilden Rechteck mit abgerundeten Ecken
+  orgel: Poppe-Orgel Schleiz
+  orgel_baujahr: 1780
+  heizung: Elektrobankheizung
+GUELTIG_AB: 1756
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/019
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Salvator-Kirche
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Vorgängerkirche
+  erwaehnte_bauzeit: 1150
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 254-hermsdorf/020
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische St.-Josef-Kirche
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: Katholisch
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 254-hermsdorf/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gasthof „Zum Schwarzen Bären"
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  fruehester_nachweis_vorgaengerbau: 1170
+  vorgaengerbau_typ: Kretscham
+  neubau_nach_kriegsschaeden: 1646
+  neubau_grund: Dreißigjähriger Krieg (zweimal abgebrannt)
+  neubau_name: Zum schwarzen Bär im grünen Walde
+  innenausstattung_decke_zeitraum: 17. Jahrhundert
+  innenausstattung_decke_charakteristika: dreifach abgestufte Unterzüge
+  wandrahmen_zeitraum: 17. Jahrhundert
+  wandrahmen_stil: Tau-Verzierungen
+  nutzung_1980er: Club der Volkssolidarität
+  bedeutung: Ausgangspunkt für Entwicklung der Stadt, schwarzer Bär im Stadtwappen
+GUELTIG_AB: 1170
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/022
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus Hermsdorf
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1897
+  umbauten: spaetere
+GUELTIG_AB: 1897
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/023
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stadthaus
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  alter_ca: ca. 100 Jahre
+  bauweise: Klinker-Industriegebäude
+  urspruengliche_nutzung: Hermsdorf-Schomburg-Isolatoren GmbH (Hescho), später KWH
+  neunutzung: Kultur- und Verwaltungsgebäude
+  besonderheit_isolatoren: drei Hochspannungs-Durchführungs-Isolatoren (davon eins erhalten)
+  lage: am Alten Hochspannungs-Versuchsfeld (abgerissen)
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 254-hermsdorf/024
+ENTITÄT: gebaeude
+BEZEICHNUNG: Autobahn-Rasthof Hermsdorf
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1936
+  fruehere_namen: Mitropa-Raststätte
+  architekturkommentar: Bauwerk des Nationalsozialismus
+  ausstattung: teilweise erhaltene Originaleinrichtung
+  strukturen: Sandstein-Fenstergewände, monumentaler Eingangsbereich, Promenadenweg mit Sandsteinsäulen
+  lage: Abfahrt Hermsdorf-Süd der A9, direkt am Autobahnparkplatz
+  status: aktuell ungenutzt (Stand 2025)
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/025
+ENTITÄT: gebaeude
+BEZEICHNUNG: Weißes Haus
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  dekoration: Verzierungen und Reliefs zur früheren Porzellanproduktion
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 254-hermsdorf/026
+ENTITÄT: gebaeude
+BEZEICHNUNG: Central-Theater
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  urspruenglicher_name: Zentralhalle
+  urspruengliche_nutzung: Teil einer Gaststätte
+  friehe_nutzung: Arbeiterveranstaltungen im frühen 20. Jahrhundert
+  kontexte_veranstaltungen: Rede August Bebels 1904 vor über 600 Arbeitern
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 254-hermsdorf/027
+ENTITÄT: museum
+BEZEICHNUNG: Technische Sammlung Hermsdorf
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: technikgeschichtliches Heimatmuseum
+  typ_weiterer: Vereinsmuseum
+  lage: Anbau des Rathauses Hermsdorf, Eisenberger Str. 56
+  traeger: Verein für Regional- und Technikgeschichte (VRTG e. V.)
+  sammlungen: Produkte VEB Keramische Werke Hermsdorf (KWH), Hochspannungsisolatoren, chemische Laborgeräte Porzellan, Halbleiter, Porzellanprodukte Haushalt und Chemie
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 254-hermsdorf/028
+ENTITÄT: museum
+BEZEICHNUNG: Großmeßsender Hermsdorf
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  funktionstuechtigkeit: funktionstüchtig
+  typ: Hochspannungs-Megahertz-Meßsender
+  baujahr: 1941
+  leistung_max: ca. 40 kW
+  denkmalschutz_seit: 1994–1995
+  traeger: Verein für Regional- und Technikgeschichte
+  lage: Ärztehaus, Eisenberger Str. 81, Originalstandort
+  besichtigungsbedingung: Voranmeldung oder besondere Termine erforderlich
+  besonderheit_vorstellung: 50-Hz-Hochspannungsentladung ca. 80.000 Volt möglich
+  nutzungsgeschichte: früheres Messlabor
+GUELTIG_AB: 1941
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/029
+ENTITÄT: industrie_betrieb
+BEZEICHNUNG: Porzellanfabrik Hermsdorf-Klosterlausnitz
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1. Januar 1890
+  gruender: Porzellanfabrik Kahla AG
+  funktion: Filiale zur Fertigung Geschirrporzellan
+  lage: neue Bahnlinie Gera-Weimar
+  produktionsumstellung: ab 1892 auf Elektroporzellan (Steatit)
+  nebenproduktion: um 1906 noch Haushaltsgeschirr
+GUELTIG_AB: 1890
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/030
+ENTITÄT: industrie_betrieb
+BEZEICHNUNG: HESCHO (Hermsdorf-Schomburg-Isolatoren GmbH)
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1922
+  struktur: Monopol-Zusammenschluss
+  partnerunternehmen: H. Schomburg & Söhne A.G. (Margarethenhütte Großdubrau), Freiberger Porzellanwerk, Tonwarenfabrik Schwandorf (Oberpfalz)
+  markenname: Tridelta
+  marktposition: Marktführer
+  erfindung_1896: DELTA-Glocke (elektrischer Isolator)
+  entwicklung_werkstoff_calit: Ende 1920er Jahre (Sonder-Steatit)
+  entwicklung_werkstoff_calan: ähnlich Calit
+  entwicklung_sonstiges: keramische Dielektrika, Ferrite, Radioröhren (1939) mit Keramikgehäuse
+  entwicklung_leiterplatten: keramische Leiterplatten
+  beschaeftigte_1929-1933: mehrere hundert entlassen (Weltwirtschaftskrise)
+  beschaeftigte_kriegszeit: ca. 1000 (Kriegsgefangenenlager)
+  hochspannungsversuchsfeld_1920er: bereits betrieben
+  hochfrequenzpruefanlage_1920er: 1,5 Megavolt
+  stossspannungsanlage: bis 600 Kilovolt
+  hochfrequenzlabor_eroeffnung: 1938
+  messersender_auftrag: 25. Januar 1939 an Rohde & Schwarz München
+  messersender_inbetriebnahme: Juli 1941
+GUELTIG_AB: 1922
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/031
+ENTITÄT: industrie_betrieb
+BEZEICHNUNG: SAG Hescho-Kahla
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: nach 1945
+  charakterisierung: sowjetische Aktiengesellschaft
+  produktionsumstellung: auf zivile Porzellanerzeugnisse
+  produkte_beispiele: Bügeleisen (überwiegend Keramik), Heizstrahler, Kochgeschirre Ardostan
+  werkstoff_ardostan: Cordierit-Werkstoff mit geringem thermischen Ausdehnungskoeffizienten
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1953
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/032
+ENTITÄT: industrie_betrieb
+BEZEICHNUNG: VEB Keramische Werke Hermsdorf (KWH)
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_veb: 1953
+  vorgaenger: SAG Hescho-Kahla
+  kombinat_umwandlung: 1969
+  beschaeftigte_um_1980: ca. 23.000 (Kombinat insgesamt)
+  beschaeftigte_hermsdorf_um_1980: ca. 7500
+  beschaeftigte_nach_wende_1989: 11 Betriebe in Staatsbesitz der Treuhand
+  beschaeftigte_nach_sanierung_1992: ca. 1550
+  hochspannungsversuchsfeld: Größtes Freiluft-Hochspannungs-Versuchsfeld Europas
+  versuchsfeld_beschreibung: drei bis 75 Meter hohe Stahlgitter-Prüfbrücken, kilometer weit sichtbar
+  versuchsfeld_abriss: 1992 durch Sprengung
+  ingenieurschule: Ingenieurschule für Elektrotechnik und Keramik
+  ingenieurschule_schueler_1970: ca. 250
+  wohnsiedlung: Waldsiedlung mit Plattenbauten
+  waldsiedlung_ausstattung: Oberschule, Gaststätte Holzlandperle, Kaufhalle, Versorgungseinrichtungen
+  kulturgebaeude: Kulturhaus mit Betriebsgaststätte
+  medizin: Betriebs-Poliklinik mit Kinderkrankenstation (1966/67)
+  kinderfacilitys: Kinderkrippen und Kindergärten
+  ferienheim: werkseigenes Ferienheim
+  ddr_investitionen: über 100 Millionen Mark in Entwicklung
+GUELTIG_AB: 1953
+GUELTIG_BIS: 1989
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/033
+ENTITÄT: industrie_betrieb
+BEZEICHNUNG: Tridelta AG
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_form: Ausgliederung aus KWH
+  initiative: Lothar Späth
+  zielgesellschaft: Jenoptik Jena
+  folgegrup: 1994 Entstehung einzelner Firmen
+  rettungszweck: Sicherung von Betriebsteilen
+GUELTIG_AB: 1990
+GUELTIG_BIS: 1994
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 254-hermsdorf/034
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: August Bebel
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltung_ort: Zentralhalle Hermsdorf
+  veranstaltung_datum: 1904
+  veranstaltung_publikum: über 600 Arbeiter
+  veranstaltung_kontext: SPD Reichstagswahl 1903
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/035
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Luise Zietz
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1863
+  todestag: 1922
+  aktivitaet_ort: Hermsdorf
+  aktivitaet_datum: 1906
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/036
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Clara Zetkin
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaet_ort: Hermsdorf
+  aktivitaet_datum: 1907
+  charakterisierung: Kampfgefährtin Luise Zietz
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/037
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Eschenbach
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1650
+  profession: Arzt
+  mitgliedschaft: Gelehrtenakademie Leopoldina
+  status: Sohn der Stadt
+GUELTIG_AB: 1650
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/038
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Artur Immisch
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1902
+  todestag: 1949
+  profession: Pianist
+  status: Sohn der Stadt
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1949
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/039
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Kurt Plötner
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1905
+  todestag: 1984
+  status_ns: SS-Sturmbannführer
+  aktivitaet: KZ-Arzt
+  verbrechen: Menschenversuche im KZ
+  status: Sohn der Stadt
+GUELTIG_AB: 1905
+GUELTIG_BIS: 1984
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/040
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Paul Franke
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 13. Juli 1908
+  geburtsort: Breslau
+  todestag: 11. Mai 1996
+  todesort: Hermsdorf
+  profession: Kunstmaler und Lehrer
+  status: Sohn der Stadt
+GUELTIG_AB: 1908
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/041
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Volmar Gerold
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1922
+  profession: Metallphysiker
+  akademischer_rang: ordentlicher Professor für Metallkunde
+  akademische_position: Stuttgart
+  status: Sohn der Stadt
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/042
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Waldemar Schilling
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1927
+  todestag: 1980
+  profession: Ingenieur
+  position: Werkdirektor
+  politische_aemter: Volkskammerabgeordneter
+  status: Sohn der Stadt
+GUELTIG_AB: 1927
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/043
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Joachim Plötner
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1934
+  todestag: 1975
+  profession: Dramaturg, Kritiker, Autor
+  status: Sohn der Stadt
+GUELTIG_AB: 1934
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/044
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hubertus Merker
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1. September 1944
+  geburtsort: Fleyh
+  todestag: 18. Oktober 2010
+  todesort: Hermsdorf
+  profession: Kirchenmusikdirektor
+  position: Stadtratsvorsitzender
+  status: Sohn der Stadt
+GUELTIG_AB: 1944
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/045
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Horst Gorbauch
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1948
+  profession: Religionspädagoge und Sachbuchautor
+  status: Sohn der Stadt
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/046
+ENTITÄT: buergermeister
+BEZEICHNUNG: Benny Hofmann
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 1. Juli 2018
+  wiederwahl_datum: 26. Mai 2024
+  wiederwahl_stimmenanteil: 97,7 Prozent
+  wiederwahl_wahlbeteiligung: 58,6 Prozent
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/047
+ENTITÄT: buergermeister
+BEZEICHNUNG: Gerd Pillau
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1. Juli 1994–30. Juni 2018
+  status: Ehrenbürger (seit 2018)
+  lebensdaten: 1948–2018
+GUELTIG_AB: 1994
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/048
+ENTITÄT: buergermeister
+BEZEICHNUNG: Wilhelm Sperhake
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_periode_1: 3. Oktober 1929–17. März 1933
+  amtszeit_periode_2: 1. Mai 1945–20. April 1949
+  status: Ehrenbürger (seit 6. Juli 1949)
+  lebensdaten: 1879–1955
+GUELTIG_AB: 1929
+GUELTIG_BIS: 1949
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/049
+ENTITÄT: stadtwappen
+BEZEICHNUNG: Wappen Hermsdorf
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  genehmigung: 30. August 2005
+  blasonierung: In Silber ein silbernes, rot bordiertes Stützbogenkreuz, das mit einem roten Fadenkreuz belegt ist, dessen Schnittpunkt sich in Schildfußhöhe befindet; vorn ein grüner Nadelbaum, hinten ein schwarzer Bär
+  element_baer: Hinweis auf Gasthof Zum Schwarzen Bären
+  element_baer_funktion: redendes Element
+  element_nadelbaum: Symbol Holzland-Region
+  element_kreuz_doppel: symbolisiert Hermsdorfer Kreuz
+  element_kreuz_bedeutung: historische Handelswege Ost-West und Süd-Nord
+  designer: Michael Zapfe (Heraldiker)
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 254-hermsdorf/050
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Lahnstein
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Rheinland-Pfalz
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/051
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Grünstadt
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Rheinland-Pfalz
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/052
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Worms
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1913
+  todestag: 1943
+  handlung_ort: Hermsdorf
+  handlung_datum: 1943
+  handlung: Rettung des jüdischen Sowjetbürgers Naum Spektor
+  gerettete_person_alter: 16 Jahre
+  retter_ideologie: Kommunist
+  retter_helfer: mit anderen Kommunisten zur Flucht verholfen
+  retter_kontext: Kriegsgefangenenlager
+  auszeichnung: Gerechter unter den Völkern
+  ddr_verwendung: Hermsdorfer Einrichtungen und Kollektive nach Worms benannt
+GUELTIG_AB: 1943
+GUELTIG_BIS: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 254-hermsdorf/053
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Cilenšek
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1913
+  todestag: 1998
+  profession: Komponist und Musikpädagoge
+  aktivitaet_ort: Hermsdorf
+  aktivitaet_datum: 1934
+GUELTIG_AB: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/054
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Hermsdorf-Klosterlausnitz
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: Weimar–Gera
+  klassifizierung: Mitte-Deutschland-Verbindung
+  gleisanzahl: 2
+  bahnlinien_anschluss: 3 Linien
+  takt_erfurt_gera: rechnerisch 40 Minuten
+  betreiber_busse_1: JES Verkehrsgesellschaft mbH
+  betreiber_busse_2: Verkehrsunternehmen Schröder
+  betreiber_busse_3: RVG Regionalverkehr Gera/Land
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 254-hermsdorf/055
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Freiwillige Feuerwehr Hermsdorf
+QUELLE: https://de.wikipedia.org/wiki/Hermsdorf_(Thüringen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Stützpunktfeuerwehr
+  aktivitaet_grund: hohe Anzahl Einsätze durch anliegende Autobahnen
+  aktivitaet_rang: am meisten alarmiert im Saale-Holzland-Kreis
+  infrastruktur_katastrophenschutz: zahlreiche Fahrzeuge untergebracht
+  infrastruktur_atemschutz: Atemschutzwerkstatt des Landkreises
+  gruendung: ca. 1900
+  jubilaeum_2019: 120 Jahre
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

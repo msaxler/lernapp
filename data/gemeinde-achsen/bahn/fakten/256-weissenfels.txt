@@ -1,0 +1,672 @@
+ID: 256-weissenfels/001
+ENTITÄT: ort
+BEZEICHNUNG: Schkortleben
+ORTSTEIL_BEZUG: Schkortleben
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: um 1300
+  erste_schreibweise: Zeurtelebe
+  weitere_schreibweisen: Schorteleiben (1367), Scortleuben (1458), Sckortleuwenn (1532)
+  schreibweise_durchgesetzt_ab: 1750
+  namensherkunft: "kurz, abgeschnitten oder zerhauen"
+  prahistorische_besiedlung: Neolithikum, Bronzezeit, Völkerwanderungszeit (Bodenfunde)
+  eingemeindung_in_weissenfels: 2010
+  status_nach_eingemeindung: Ortsteil und Ortschaft der Stadt Weißenfels
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 256-weissenfels/002
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Schkortleben
+ORTSTEIL_BEZUG: Schkortleben
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1250-1280
+  bauzeit_genauigkeit: "ca."
+  typ: Wehrkirche
+  abgerissen: 2000
+  grund_abriss: Baufälligkeit
+  beschreibung: Ruine, beliebt bei Radfahrern und Wanderern
+GUELTIG_AB: 1250
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/003
+ENTITÄT: rittergut
+BEZEICHNUNG: Rittergut Schkortleben
+ORTSTEIL_BEZUG: Schkortleben
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitzer_18_jhd: Familie von Breitenbauch
+  besitzer_17_jhd: Familie v. Biesenrodt
+  besitzer_19_jhd: Scharf von Gauerstaedt (1830-1913)
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/004
+ENTITÄT: ort
+BEZEICHNUNG: Saala / Sahla
+ORTSTEIL_BEZUG: Saala
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwahnung: 1182
+  status: Wüstung Ende 15. Jahrhundert
+  beschreibung: frühere Ortschaft in unmittelbarer Nachbarschaft zu Schkortleben
+GUELTIG_AB: 1182
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 256-weissenfels/005
+ENTITÄT: rittergut
+BEZEICHNUNG: Rittergut Saala
+ORTSTEIL_BEZUG: Saala
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwahnung_besitzer: Rudolf v. Sahla (1182)
+  besitzer_ende_15_jhd: Familie v. Bora (als Lehen)
+GUELTIG_AB: 1182
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/006
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Catharina v. Bora
+ORTSTEIL_BEZUG: Saala
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunftsfamilie: Familie v. Bora
+  ehemann: Martin Luther
+  herkunftsort_bezug: Ehemaliges Rittergut in Saala (später Wüstung bei Schkortleben)
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/007
+ENTITÄT: ort
+BEZEICHNUNG: Kriechau
+ORTSTEIL_BEZUG: Kriechau
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 1139
+  erste_schreibweise: Cricowe
+  weitere_schreibweisen: Krychow (1378), Krichaw (1441)
+  schreibweise_durchgesetzt_ab: um 1750
+  namendeutung_variante_1: "schreien"
+  namendeutung_variante_2: "wilde Pflaume"
+  namendeutung_genauigkeit: "nicht ganz schlüssig"
+  charakteristika: Gut erhaltener Straßenzug mit alter Hofbebauung, Toranlagen
+  hofbebauung_epochen: 17. bis spätes 19. Jahrhundert
+  weinberge: vorhanden
+GUELTIG_AB: 1139
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 256-weissenfels/008
+ENTITÄT: kirche
+BEZEICHNUNG: Dorfkirche Kriechau
+ORTSTEIL_BEZUG: Kriechau
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1883
+  stil: Neugotik
+  bauweise: Bruchsteinbau
+  turm: schlank
+  turmhaube: Spitzhelm
+  architekt: Otto Kilburger
+  orgelbauer: Friedrich Ladegast
+  orgel_bezeichnung: Friedrich-Ladegast-Orgel
+  vorgaengerbau: alte Kirche im Bereich des heutigen Gemeindehauses
+  vorgaengerbau_zerstoerung: Dreißigjähriger Krieg (schwedische Truppen)
+GUELTIG_AB: 1883
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 256-weissenfels/009
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Gaudig
+ORTSTEIL_BEZUG: Kriechau
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historia-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebsform: Familienbetrieb
+  betreibt_auch: Straußwirtschaft
+  weinregion: Saale-Unstrut (nördliche Ausläufer)
+  gastronomie_betriebszeiten: Besonders aktiv Sommer und Herbst
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/010
+ENTITÄT: kriegerdenkmal
+BEZEICHNUNG: Kriegerdenkmal Schkortleben
+ORTSTEIL_BEZUG: Schkortleben
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historia-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  epochen: Deutsch-Französischer Krieg 1870/71, Erste Weltkrieg 1914/18, Zweite Weltkrieg
+  standort: Gelände der Kirchenruine
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/011
+ENTITÄT: kriegerdenkmal
+BEZEICHNUNG: Kriegerdenkmal Kriechau
+ORTSTEIL_BEZUG: Kriechau
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historia-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Örtlicher Friedhof
+  besonderheit: Detailreiche Gestaltung mit imposantem Reichsadler
+  grund_errichtung: Erinnerung an Siege in den Einigungskriegen 1864, 1866, 1870/71
+  inschrift: Namen gefallener Soldaten aus dem Ort
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/012
+ENTITÄT: ort
+BEZEICHNUNG: Weißenfels
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_seit: Paläolithikum, ca. 500000 v.Chr.
+  besiedlung_mesolithikum: 9500-4500 v.Chr.
+  germanische_besiedlung: vor 2000 Jahren
+  verdraengung_durch: Thüringer Stammesverbände (ab 5./6. Jahrhundert)
+  slawische_besiedlung_ab: 5./6. Jahrhundert
+  erste_slawische_siedlungen: Tauchlitz, Horklitz, Klenkowe
+  eroberung_christianisierung_beginn: Heinrich I. (876-936)
+  errichtete_burganlagen: Goseck, Burgwerben, Merseburg, Weißenfels
+  markgrafschaft: Osterland (ab 12. Jahrhundert Wettiner)
+  gründung: um 1185 durch Markgraf Otto den Reichen von Meißen
+  erste_urkundliche_erwahnung_als_stadt: 1185
+  erste_nennung_graf: 1195/96 (Graf Dietrich von Weißenfels)
+  reformation_eingefuehrt: 13. Juni 1539
+  residenz_ausgebaut: 1546/47 durch Herzog August (bis 1553)
+  residenz_ehegatte: Anna von Dänemark
+  sekundogenitur_bildung: 1656 (Sachsen-Weißenfels, Sachsen-Merseburg, Sachsen-Zeitz)
+  residenzschloss_grundsteinlegung: 25. Juli 1660
+  residenzschloss_name: Neu-Augustusburg
+  gymnasium_illustre_augusteum_gruendung: 1664
+  kapellmeister_bach: Johann Sebastian Bach (ab 1723)
+  letzte_herzog: Johann Adolf II. (gestorben 16. Juni 1746)
+  residenz_aufgeloest: 1746
+  hoheit_nach_residenzauflosung: kursächsisch
+  eingliederung_preussen: 1816
+  bedeutende_schuhproduktion: 1900 (64 Schuhfabriken, 3200 Beschäftigte, zweitgrößtes Zentrum neben Pirmasens)
+  kreisstadt_status: 1953 (Bezirk Halle)
+  landkreis_fusion: 1. Juli 2007 (mit Burgenlandkreis)
+  ortsteilzahl_nach_langendorf: 18 Ortsteile (1. Juli 2007)
+  polizeirevier_sitz: 2008
+  oberbuergermeister_amtsantritt: 1. August 2008 (Robby Risch)
+  jubilaeum: 825 Jahre (2010)
+  festjahr_sekundogenitur: 2007
+GUELTIG_AB: 500000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 256-weissenfels/013
+ENTITÄT: kloster
+BEZEICHNUNG: Klarissenkloster St. Klara
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1283 durch Markgraf Dietrich der Weise
+  auflosung: 1570 (letzte Äbtissin Margarete von Watzdorf verstorben 31. Mai 1570)
+  nachnutzung: Gymnasium illustre Augusteum (1664)
+  weitere_nachnutzung: Lehrerseminar, Stadthaus mit Museum, Bibliothek, Jugendheim (ab 1910)
+GUELTIG_AB: 1283
+GUELTIG_BIS: 1570
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 256-weissenfels/014
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1303
+  funktion: Stadtkirche und Hofkirche
+GUELTIG_AB: 1303
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/015
+ENTITÄT: burganlage
+BEZEICHNUNG: Burg Weißenfels
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: um 968 (im Rahmen der Besicherung durch Heinrich I.)
+  umgestaltung_residenz: 1546/47 durch Herzog August
+  bewohnung_herzog_august: 1546-1553
+  grundsteinlegung_residenzschloss: 25. Juli 1660
+  neubau_name: Neu-Augustusburg
+GUELTIG_AB: 968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/016
+ENTITÄT: residenzschloss
+BEZEICHNUNG: Neu-Augustusburg
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 25. Juli 1660
+  bauherr: Herzog August
+  besitzer_erste_herzog: Johann Adolf I. (ab 1680)
+  letzte_herzogliche_nutzung: Johann Adolf II. (bis 1746)
+  auflosung_residenz: 1746
+  landesherrschaft_danach: kursächsisch
+  sanierung_beginn: 2004
+GUELTIG_AB: 1660
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/017
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Heinrich Schütz
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Kapellmeister der Dresdner Hofkapelle (ab 1619)
+  residenzeintrag_jahr: 1651
+  wohnort_weissenfels: Nicolaistraße 13
+  lebensabendverbringung: Weißenfels
+GUELTIG_AB: 1619
+GUELTIG_BIS: 1654
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/018
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Johann Sebastian Bach
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1685
+  todesjahr: 1750
+  funktion: Kapellmeister von Haus aus am Weißenfels Hof
+  funktionszeitraum: ab 1723
+GUELTIG_AB: 1723
+GUELTIG_BIS: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/019
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Johann Beer
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  berufe: Komponist und Schriftsteller
+  status: am Weißenfels Hof
+  todesjahr: 1700
+  todestagsatum: 6. August 1700
+  todesumstand: Schussverletzung bei Schützenfest
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/020
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Karoline Friederike Neuber (die Neuberin)
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Schauspielerin, Theaterleitung
+  ereignis_weissenfels: Erstes Gastspiel mit eigener Schauspieltruppe auf Schloss Neu-Augustusburg
+  ereignisdatum: 1727
+GUELTIG_AB: 1727
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/021
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Friedrich von Hardenberg (Novalis)
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1772-1801
+  beruf: Deutscher Schriftsteller und Philosoph
+  epochenbezeichnung: Frühromantik
+  vater: Hans Ulrich Erasmus von Hardenberg (Salinendirektor)
+  wohnort_weissenfels: Klosterstraße 24
+  aufenthalt_ab: 1787
+  aufenthalt_bis: 1801 (Lebensende)
+GUELTIG_AB: 1787
+GUELTIG_BIS: 1801
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/022
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Marie Louise von François
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1817-1893
+  herkunftsort: Herzberg (Elster)
+  umzug_nach_weissenfels: 1818
+GUELTIG_AB: 1818
+GUELTIG_BIS: 1893
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/023
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Moritz Hill
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1805-1874
+  beruf: Lehrer
+  institution_weissenfels: Taubstummenanstalt
+  einstellung_jahr: 1830
+  eingestellt_durch: Wilhelm Harnisch (Direktor Landschullehrer-Seminar)
+GUELTIG_AB: 1830
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/024
+ENTITÄT: industriezweig
+BEZEICHNUNG: Schuhherstellung in Weißenfels
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebe_jahr_1900: 64 Schuhfabriken
+  beschaeftigte_jahr_1900: 3200
+  rang_deutschland: zweitgrößtes Zentrum neben Pirmasens
+  zeitraum: um 1900
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/025
+ENTITÄT: orgelbauer
+BEZEICHNUNG: Friedrich Ladegast
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunftsort: Hermsdorf (Sachsen)
+  ereignis_weissenfels: Eröffnung Orgelbauanstalt
+  ereignisdatum: 1846
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/026
+ENTITÄT: schlacht
+BEZEICHNUNG: Schlacht bei Lützen
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 6. November 1632
+  todesfall: König Gustav II. Adolf von Schweden
+  behandlung_leiche: Obduktion und Einbalsamierung
+  behandlungsort: Geleitshaus Weißenfels
+  ausstellung_diorama: 1931 im Geleitshaus
+GUELTIG_AB: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/027
+ENTITÄT: gedenkstein
+BEZEICHNUNG: Gedenkstein Gustav II. Adolf
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Granitfindling
+  standort: Friedrichstraße/Nicolaistraße
+  einweihung: 1932
+  anlass: 300. Todestag des Schwedenkönigs Gustav II. Adolf
+GUELTIG_AB: 1932
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/028
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Eisenbahnstrecke Halle–Kassel
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschluss: 26. März 1842
+  unternehmen: Thüringische Eisenbahngesellschaft
+  route: Halle–Weißenfels–Erfurt–Eisenach
+  baubeginn: 1844
+  eroeffnung_teilst: 6. Juni 1846
+  eroeffnung_teilst_strecke: Halle–Weißenfels
+  eroeffnungsperson: König Friedrich Wilhelm IV. von Preußen
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/029
+ENTITÄT: einrichtung
+BEZEICHNUNG: Lehrerseminar
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 5. Mai 1794
+  location_nachnutzung: früheres Kloster St. Klara
+  nachnutzung_ab: 1910 als Stadthaus mit Museum, Bibliothek, Jugendheim
+GUELTIG_AB: 1794
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/030
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge der jüdischen Gemeinde Weißenfels
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Nordstraße 14
+  einweihung: September 1912
+  religionsgemeinschaft_gruendung: 1884 (1. Juli)
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/031
+ENTITÄT: amtsgericht
+BEZEICHNUNG: Amtsgericht Weißenfels
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Friedrichstraße
+  bestimmung_uebergabe: 11. November 1912
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/032
+ENTITÄT: kraftwerk
+BEZEICHNUNG: Elektrizitätswerk Weißenfels
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Schlachthofstraße
+  inbetriebnahme: 1913
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 256-weissenfels/033
+ENTITÄT: schlachthof
+BEZEICHNUNG: Städtischer Schlachthof Weißenfels
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1892
+GUELTIG_AB: 1892
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 256-weissenfels/034
+ENTITÄT: verein
+BEZEICHNUNG: Weißenfelser Verschönerungsverein
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 13. Mai 1873
+  gruender_vorsitz: Dr. Rosalsky
+  erstes_projekt: Parkanlage auf dem Klemmberg
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 256-weissenfels/035
+ENTITÄT: landkreis
+BEZEICHNUNG: Landkreis Weißenfels
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auflosung: 1. Juli 2007 (25. Juni Beschluss Kreistag)
+  nachfolge: Fusion mit Burgenlandkreis
+  kontinuaert_seit: 1816+
+GUELTIG_AB: 1816
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/036
+ENTITÄT: ort
+BEZEICHNUNG: Langendorf
+ORTSTEIL_BEZUG: Langendorf
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Langendorf/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruengliche_gemeinden: Muttlau, Langendorf, Obergreißlau, Untergreißlau, Kößlitz, Wiedebach
+  urkundliche_erste_erwaehnung: 1153
+  urkundliche_quelle: Bischof Wichmann
+  archaeologische_funde_aelteste: Jungsteinzeit
+  lage: Greißlautal, südlicher Teil der Stadt Weißenfels
+  eingemeindung: 1. Januar 2010
+  grossgemeinde_bildung: 1945
+  vereinigung_muttlau_langendorf: 1883
+GUELTIG_AB: 1153
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 256-weissenfels/037
+ENTITÄT: kloster
+BEZEICHNUNG: Zisterzienserkloster Langendorf
+ORTSTEIL_BEZUG: Langendorf
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Langendorf/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand_dauer: ca. 300 Jahre
+  aufloestion: Reformation
+  nachfolge: Klostergut wird kursächsisches Kammergut, später Besitz Herzogshaus Weißenfels
+  rotes_fuerstenhaus: Neubau auf Klostergelände durch Herzogshaus
+GUELTIG_AB: 1250
+GUELTIG_BIS: 1540
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 256-weissenfels/038
+ENTITÄT: waisenhaus
+BEZEICHNUNG: Waisenhaus Langendorf
+ORTSTEIL_BEZUG: Langendorf
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Langendorf/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Christoph Buchen (Fuhrmann Langendorf)
+  gruendungsjahr: 1710
+  gruender_unterstuetzung: Herzogsfamilie
+  erste_aufnahme_kinder: 1712 (vier Kinder)
+  durchschnittliche_belegung: 50-80 Jungen und Mädchen
+  schliessung: 1939
+  nachnutzung: Betreuungszentrum für Behinderte
+GUELTIG_AB: 1710
+GUELTIG_BIS: 1939
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/039
+ENTITÄT: kohlengruben
+BEZEICHNUNG: Kohlengruben Wiedebach
+ORTSTEIL_BEZUG: Wiedebach
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Langendorf/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erschliessung_ab: 1866
+  abbauart: Tiefbau auf 1-3 Sohlen in Schächten
+  schachttiefe: 15-42 Meter
+  betriebsdauer_jahre: ca. 50 Jahre
+  gesamtabbauergebnis: über zwei Millionen Tonnen Kohle
+  verarbeitung: Nasspresssteine, später Briketts
+  schliessung: 1910
+  grund_schliessung: Auskohlung
+  arbeitskraefte_jahr_1890: 300 Beschäftigte
+  foerderschaechte: 31
+  trockenschuppen: 11 (für 5 Millionen Presssteine)
+  dampfmaschinen: 18
+  lorenbahnen_meter: 1200
+GUELTIG_AB: 1866
+GUELTIG_BIS: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/040
+ENTITÄT: ort
+BEZEICHNUNG: Tagewerben
+ORTSTEIL_BEZUG: Tagewerben
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Tagewerben/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung_urkunde: 881-889 (Zehntverzeichnis Kloster Hersfeld)
+  erste_erwaehnung_name: Vuirbina (881-889)
+  erste_gemeinsame_erwaehnung: 1349-1350 (Lehnbuch Friedrich des Strengen)
+  erwaehnung_als_tannwerben: 1349-1350
+  schreibweise_alt: Tanwerben, Tannwerben
+  schreibweise_durchgesetzt: 1584
+  weitere_ortschaften_genannt: Reichardtswerben, Burgwerben, Markwerben
+  distriktzugehoerigkeit: Distrikt Wyszenfeld, später Osterland
+  marktgraf: Markgraf von Meißen und Landgraf von Thüringen
+  herrscher: Friedrich III. (der Strenge) 1349-1381
+  eingemeindung_weissenfels: 1. September 2010
+GUELTIG_AB: 881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 256-weissenfels/041
+ENTITÄT: sage
+BEZEICHNUNG: Gründungssage Tagewerben
+ORTSTEIL_BEZUG: Tagewerben
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Tagewerben/Historie-Chronologie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ueberlieferungsform: Generationenerzählung
+  schriftfixierung: Kirchenbuch-Anhang durch Pfarrer im Mittelalter
+  ueberlieferungsquelle: Reichardtswerbener Kirchenbuch
+  beschreibung: Ein Ansiedler verteilte seinen Weidebesitz auf vier Söhne, die daraus vier Werbendörfer gründeten (Taco→Tagewerben, Burco→Burgwerben, Richard→Reichardtswerben, Marco→Markwerben)
+  genauigkeit: "vermutlich"
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 256-weissenfels/042
+ENTITÄT: partnerstaedte
+BEZEICHNUNG: Weißenfels – Komárno
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Städtepartnerschaften/Komarno/Chronik-der-Partnerschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt: Komárno (Slowakei)
+  gruendungsbestaetigung_urkunde: 1994
+  erstes_kontakt: Oktober 1988 (Konzert Volkschor Langendorf und Czemadok-Chor)
+  jubilaeum_jahre: 20. Jubiläum 2006-2016
+  kultur_austausch: Chöre, Schüler, Tanzgruppen
+  gemeinsame_projekte: Jugendcamps, Ausstellungen, Konzerte
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 256-weissenfels/043
+ENTITÄT: partnerstaedte
+BEZEICHNUNG: Weißenfels – Kornwestheim
+ORTSTEIL_BEZUG: Weißenfels
+QUELLE: https://www.weissenfels.de/Stadt-Ortschaften/Städtepartnerschaften/Kornwestheim/Chronik-der-Partnerschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt: Kornwestheim (Baden-Württemberg)
+  gruendungsurkunde_unterzeichnung: 23. Februar 1990 und 9. Februar 1990
+  unterzeichner_kornwestheim: Oberbürgermeister Ernst Fischer
+  unterzeichner_weissenfels: Bürgermeister Klaus Stephan
+  jubilaeum_20_jahre: 2010
+  jubilaeum_25_jahre: 2015
+  kultur_austausch: Schüler, Stadträte, Chöre, Sportvereine
+  gemeinsame_projekte: Ausstellungen, Konzerte, Museumsprojekte
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

@@ -57219,6 +57219,10 @@ window.QA_DATEN = {
 "244-wildeck": [
 "Wildeck hat fast doppelt so viele Einwohner wie Friedewald.",
 "Friedewald liegt rund 170 Meter höher als Wildeck."
+],
+"245-gerstungen": [
+"Landesgrenze: Gerstungen liegt in Thüringen, Friedewald in Hessen.",
+"Bundestagswahl 2025: In Gerstungen lag die AfD vorn, in Friedewald die CDU."
 ]
 },
 "ags": "06632006",
@@ -57420,11 +57424,4028 @@ window.QA_DATEN = {
 "243-friedewald": [
 "Fläche: Wildeck und Friedewald messen beide knapp 40 Quadratkilometer.",
 "Einwohner: Wildeck hat rund 2.000 mehr als Friedewald."
+],
+"245-gerstungen": [
+"Landesgrenze: Gerstungen liegt in Thüringen, Wildeck in Hessen.",
+"Bundestagswahl 2025: In Gerstungen lag die AfD vorn, in Wildeck die CDU."
+],
+"246-herleshausen": [
+"Kreisgrenze: Herleshausen gehört zum Werra-Meißner-Kreis, Wildeck zum Landkreis Hersfeld-Rotenburg.",
+"Wildeck hat fast doppelt so viele Einwohner wie Herleshausen."
 ]
 },
 "ags": "06632020",
 "ortsteil": false,
 "km_vom_vorigen": 11.0
+},
+{
+"slug": "245-gerstungen",
+"name": "Gerstungen",
+"lat": 50.9625,
+"lon": 10.05972,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gerstungen",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Die Kirche im Ortsteil Untersuhl ist ein massiver Rundbau in Turmform. Wozu diente der Bau möglicherweise, bevor er als Kirche genutzt wurde?",
+"optionen": [
+"Er war eine Windmühle.",
+"Er war Wartturm und Zollstelle.",
+"Er war Taubenturm eines Gutshofs.",
+"Er war ein Kalkbrennofen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein runder Turm erinnert schnell an eine Windmühle. Untersuhl lag aber an der Handelsstraße „Kurze Hessen“. Möglicherweise diente der Rundbau als Wartturm mit Zollstelle, bevor er als Kirche genutzt wurde. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gerstungen.de/de/rundkirche-in-untersuhl.html",
+"faktencheck": "korrigiert",
+"id": "245-gerstungen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gerstungen",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Wie viele Einwohner kommen in der Gemeinde Gerstungen auf einen Quadratkilometer?",
+"optionen": [
+"unter 30",
+"30 bis unter 50",
+"50 bis unter 80",
+"80 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rund 8.800 Einwohner klingen nach einer kleinen Stadt mit dichter Bebauung. Doch die Gemeinde umfasst zahlreiche Ortsteile auf knapp 150 Quadratkilometern. So kommen auf einen Quadratkilometer nur 58 Einwohner. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "245-gerstungen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gerstungen",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Neustädts Dorfkirche bildet mit einem Ziehbrunnen ein Ensemble.",
+"Gerstungens Wappenstorch trägt einen Fisch im Schnabel.",
+"Gedenktafeln im Werratal markieren Absturzstellen einer Luftschlacht."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Storch mit Fisch ist das vertraute Bild, darum wirkt die Lüge glaubhaft. Im Gerstunger Wappen hält der silberne Storch in seinem goldenen Nest aber eine goldene, abwärtshängende Ähre im Schnabel. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gerstungen.de/de/wappen.html",
+"faktencheck": "bestätigt",
+"id": "245-gerstungen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gerstungen",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Wie hoch war die Wahlbeteiligung in Gerstungen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 84 %",
+"84 bis unter 87 %",
+"87 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 lag die Beteiligung vielerorts sehr hoch, das verleitet zu einem höheren Tipp. In Gerstungen gaben 82,5 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "245-gerstungen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gerstungen",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Die Wetterfahne am Turm des Renaissanceschlosses im Ortsteil Marksuhl trägt die Buchstaben WHHZS. Wofür stehen die Buchstaben?",
+"optionen": [
+"Sie kürzen einen frommen Bauspruch ab.",
+"Sie sind die Initialen eines Herzogs.",
+"Sie nennen Baumeister und Zimmermeister des Turms.",
+"Sie sind eine Segensformel gegen Blitzschlag."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Buchstabenreihen an alten Bauten sind oft fromme Sprüche oder Zeichen der Handwerker. Hier steht WHHZS für „Wilhelm Heinrich Herzog Sachsen“. Herzog Wilhelm Heinrich starb in diesem Schloss. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gerstungen.de/de/renaissanceschloss-marksuhl.html",
+"faktencheck": "korrigiert",
+"id": "245-gerstungen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Gerstungen",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Zu welchem Landkreis gehört die Gemeinde Gerstungen?",
+"optionen": [
+"Landkreis Hersfeld-Rotenburg",
+"Landkreis Gotha",
+"Wartburgkreis",
+"Werra-Meißner-Kreis"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Kassel lässt an einen hessischen Landkreis denken. Gerstungen liegt aber in Thüringen und gehört zum Wartburgkreis. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "245-gerstungen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gerstungen",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Auf Schloss Wilhelmsthal im Ortsteil Eckardtshausen war der Komponist Georg Philipp Telemann zu Gast. Als was ließ Johann Wilhelm das Schloss bauen?",
+"optionen": [
+"Er ließ es als Kurhaus für Badegäste bauen.",
+"Er ließ es als befestigte Grenzburg bauen.",
+"Er ließ es als Waisenhaus des Landes bauen.",
+"Er ließ es als barocke Sommerresidenz bauen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Lage am Wilhelmsthaler See lässt an Badegäste und Kur denken. Johann Wilhelm ließ das Schloss aber als barocke Sommerresidenz bauen; zum Ensemble gehören Park und Marstall. Dort gab es auch Uraufführungen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gerstungen.de/de/schloss_wilhelmsthal.html",
+"faktencheck": "bestätigt",
+"id": "245-gerstungen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gerstungen",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Unkeroda, heute im Ortsteil Wolfsburg-Unkeroda, ist seit 1197 schriftlich belegt. Welchen Anlass der ersten Erwähnung nennt die Ortsgeschichte?",
+"optionen": [
+"Ein Kaiser übernachtete dort auf einer Reise.",
+"Ein Kloster erwarb dort Güter.",
+"Eine Seuche hatte das Dorf entvölkert.",
+"Ein Grenzstreit kam vor ein Gericht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Erste Erwähnungen verbindet man gern mit hohem Besuch oder Unglück. Unkeroda kam aber durch ein Geschäft in die Schrift: Das Kloster Volkenroda erwarb dort Güter. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gerstungen.de/de/wolfsburgunkeroda.html",
+"faktencheck": "bestätigt",
+"id": "245-gerstungen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gerstungen",
+"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 55 km südöstlich von Kassel.",
+"frage": "Im Chor der Katharinenkirche in Gerstungen sind Bauteile aus dem 15. Jahrhundert erhalten. Wozu gehörte die Kirche einst?",
+"optionen": [
+"Sie gehörte zu einem Kloster.",
+"Sie gehörte zu einem Spital für Reisende.",
+"Sie gehörte zu einer Burganlage.",
+"Sie war Kapelle eines Friedhofs."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Kirche mit mittelalterlichen Bauteilen hält man leicht für eine Klosterkirche. Die Katharinenkirche gehörte aber einst zu einer Burganlage. Über ihrem Triumphbogen hängt ein spätgotisches Kruzifix. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gerstungen.de/de/kirchen.html",
+"faktencheck": "korrigiert",
+"id": "245-gerstungen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "244-wildeck",
+"anschluss": [
+"Ein Grenzlehrpfad führt von Wildeck-Obersuhl zum Grenzmuseum in Gerstungen.",
+"Fläche: Gerstungen ist fast viermal so groß wie Wildeck."
+],
+"anschluesse": {
+"243-friedewald": [
+"Landesgrenze: Friedewald liegt in Hessen, Gerstungen in Thüringen.",
+"Bundestagswahl 2025: In Friedewald lag die CDU vorn, in Gerstungen die AfD."
+],
+"244-wildeck": [
+"Ein Grenzlehrpfad führt von Wildeck-Obersuhl zum Grenzmuseum in Gerstungen.",
+"Fläche: Gerstungen ist fast viermal so groß wie Wildeck."
+],
+"246-herleshausen": [
+"Landesgrenze: Herleshausen liegt in Hessen, Gerstungen in Thüringen.",
+"Bundestagswahl 2025: In Herleshausen lag die CDU vorn, in Gerstungen die AfD."
+],
+"247-eisenach": [
+"Eisenach hat viereinhalbmal so viele Einwohner wie Gerstungen."
+]
+},
+"ags": "16063097",
+"ortsteil": false,
+"km_vom_vorigen": 5.5
+},
+{
+"slug": "246-herleshausen",
+"name": "Herleshausen",
+"lat": 51.005,
+"lon": 10.1763,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herleshausen",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 59 km südöstlich von Kassel.",
+"frage": "Wonach ist Schloss Augustenau in Herleshausen benannt?",
+"optionen": [
+"Es ehrt die früh verstorbene Frau eines Landgrafen.",
+"Es wurde in einem August fertiggestellt.",
+"Es ehrt die Schutzheilige seiner Schlosskapelle.",
+"Es trägt den Vornamen seines Erbauers."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Augustenau klingt nach einem Monat oder einem Bauherrn namens August. Doch erbaut hat es Georg von Reckrodt, damals hieß es Schloss Steinstock. Später erhielt es seinen heutigen Namen: nach Auguste, geborene von Hohenlohe-Ingelfingen, der früh verstorbenen Gemahlin des Landgrafen Carl. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Herleshausen",
+"faktencheck": "bestätigt",
+"id": "246-herleshausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Herleshausen",
+"steckbrief": "Gemeinde im Werra-Meißner-Kreis mit 59,5 km² Fläche, 59 km südöstlich von Kassel.",
+"frage": "Wie viele Einwohner hat die Gemeinde Herleshausen?",
+"optionen": [
+"unter 2.000",
+"2.000 bis unter 4.000",
+"4.000 bis unter 7.000",
+"7.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die große Fläche lässt an eine größere Gemeinde denken. Doch Herleshausen ist dünn besiedelt: Ende 2025 zählte die Gemeinde 2.582 Einwohner. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "246-herleshausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Herleshausen",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 59 km südöstlich von Kassel.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Kloster Kaufungen verwaltete Herleshausen über Jahrhunderte.",
+"Das Gemeindewappen zeigt den Turm der alten Wehrkirche.",
+"Die Großgemeinde wurde den Dörfern von oben aufgezwungen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gebietsreformen gelten oft als Diktat von oben, darum klingt die Lüge glaubhaft. Doch Herleshausen und die umliegenden Dörfer schlossen sich freiwillig zur Großgemeinde zusammen. Wahr ist: Das Wappen zeigt den Chorturm der Wehrkirche, und das Kloster Kaufungen verwaltete Herleshausen bis zur Säkularisation der hessischen Klöster. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Herleshausen",
+"faktencheck": "unsicher",
+"id": "246-herleshausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Herleshausen",
+"steckbrief": "Hessische Gemeinde im Werra-Meißner-Kreis, rund 2.600 Einwohner, 59 km südöstlich von Kassel.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Wie viel Prozent holte in Herleshausen die stärkste Partei?",
+"optionen": [
+"unter 24 %",
+"24 bis unter 27 %",
+"27 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wenn AfD und SPD stark abschneiden, bleibt für den Sieger meist wenig. Doch die CDU lag in Herleshausen mit 31 Prozent klar vor AfD und SPD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "korrigiert",
+"id": "246-herleshausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Herleshausen",
+"steckbrief": "Hessische Gemeinde mit rund 2.600 Einwohnern, 59 km südöstlich von Kassel.",
+"frage": "Zu welchem Landkreis gehört Herleshausen?",
+"optionen": [
+"Landkreis Kassel",
+"Werra-Meißner-Kreis",
+"Landkreis Hersfeld-Rotenburg",
+"Schwalm-Eder-Kreis"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Kassel lässt an den Landkreis Kassel denken. Doch Herleshausen gehört zum Werra-Meißner-Kreis; das Hauptkennzeichen dort ist ESW. Richtig war 2.",
+"quelle": "dewiki Infobox; Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "246-herleshausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herleshausen",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 59 km südöstlich von Kassel.",
+"frage": "Über den Grenzübergang Wartha/Herleshausen gelangte man in die DDR. Was zeichnete ihn aus?",
+"optionen": [
+"Er war nur für Fußgänger geöffnet.",
+"Er diente ausschließlich dem Güterverkehr per Bahn.",
+"Er gehörte zu den wenigen Übergängen für Autos.",
+"Er wurde von beiden Staaten gemeinsam betrieben."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Übergang mit Dorfnamen klingt nach einem Fußweg. Doch Wartha/Herleshausen war einer der wenigen Grenzübergänge in die DDR, die man mit dem Auto passieren konnte. Eingerichtet wurde er nach dem Zweiten Weltkrieg. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Herleshausen",
+"faktencheck": "bestätigt",
+"id": "246-herleshausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herleshausen",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 59 km südöstlich von Kassel.",
+"frage": "Im Januar 1956 erreichte ein besonderer Zug den Haltepunkt Herleshausen. Wen brachte er?",
+"optionen": [
+"Er brachte Vertriebene aus Schlesien.",
+"Er brachte Spätheimkehrer aus sowjetischer Kriegsgefangenschaft.",
+"Er brachte Flüchtlinge aus Ungarn.",
+"Er brachte Übersiedler aus der DDR."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Zug aus dem Osten in den Fünfzigern lässt an Vertreibung denken. Doch er brachte Spätheimkehrer: Kriegsgefangene, die erst Jahre nach Kriegsende aus der Sowjetunion zurückkamen. Es war der letzte Eisenbahntransport dieser Art. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Herleshausen",
+"faktencheck": "unsicher",
+"id": "246-herleshausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herleshausen",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 59 km südöstlich von Kassel.",
+"frage": "Auf der Kriegsgräberstätte Herleshausen liegen mehr als 1.500 Tote. Wer sind die meisten von ihnen?",
+"optionen": [
+"Es sind deutsche Soldaten der letzten Kriegswochen.",
+"Es sind deutsche Opfer von Luftangriffen.",
+"Es sind französische Kriegsgefangene eines Arbeitslagers.",
+"Es sind sowjetische Kriegsgefangene."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Kriegsgräbern denkt man zuerst an gefallene deutsche Soldaten. Doch hier ruhen 1.593 sowjetische Kriegsgefangene. Sie starben 1944/45 in einem nahen Lager, das zum Stalag IX B gehörte, einem Stammlager der Wehrmacht für Kriegsgefangene. Richtig war 4.",
+"quelle": "Volksbund Deutsche Kriegsgräberfürsorge; Gemeinde Herleshausen",
+"faktencheck": "korrigiert",
+"id": "246-herleshausen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "245-gerstungen",
+"anschluss": [
+"Herleshausens Partnergemeinde Lauchröden gehört heute zur Gemeinde Gerstungen.",
+"Einwohner: Gerstungen zählt mehr als dreimal so viele wie Herleshausen."
+],
+"anschluesse": {
+"244-wildeck": [
+"Kreisgrenze: Wildeck gehört zum Landkreis Hersfeld-Rotenburg, Herleshausen zum Werra-Meißner-Kreis.",
+"Wildeck hat fast doppelt so viele Einwohner wie Herleshausen."
+],
+"245-gerstungen": [
+"Herleshausens Partnergemeinde Lauchröden gehört heute zur Gemeinde Gerstungen.",
+"Einwohner: Gerstungen zählt mehr als dreimal so viele wie Herleshausen."
+],
+"247-eisenach": [
+"Landesgrenze: Eisenach liegt in Thüringen, Herleshausen in Hessen.",
+"Bundestagswahl 2025: In Eisenach lag die AfD vorn, in Herleshausen die CDU."
+]
+},
+"ags": "06636005",
+"ortsteil": false,
+"km_vom_vorigen": 9.4
+},
+{
+"slug": "247-eisenach",
+"name": "Eisenach",
+"lat": 50.97472,
+"lon": 10.32444,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenach",
+"steckbrief": "Stadt mit rund 40.500 Einwohnern, 50 km westlich von Erfurt.",
+"frage": "Fritz Reuters Villa in Eisenach beherbergt eine große Richard-Wagner-Sammlung. Woher stammt sie?",
+"optionen": [
+"Fritz Reuter hatte sie selbst zusammengetragen.",
+"Wagner schenkte sie seinem Freund Reuter.",
+"Wagners Familie vermachte sie der Stadt.",
+"Ein Sammler aus Österreich trug sie zusammen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist, dass der Hausherr selbst sammelte, schließlich war es seine Villa. Doch die Wagneriana trug der österreichische Sammler Nikolaus Oesterlein zusammen. Per Testament ging die Villa an die Schiller-Stiftung, später kaufte sie die Stadt. Die Sammlung wurde angekauft, das Haus heißt Reuter-Wagner-Museum. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.eisenach.de/leben/geschichte/persoenlichkeiten/fritz-reuter/",
+"faktencheck": "bestätigt",
+"id": "247-eisenach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eisenach",
+"steckbrief": "Stadt mit rund 40.500 Einwohnern, 50 km westlich von Erfurt.",
+"frage": "Wie groß ist das Stadtgebiet von Eisenach?",
+"optionen": [
+"unter 110 km²",
+"110 bis unter 160 km²",
+"160 bis unter 220 km²",
+"220 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt dieser Größe vermutet man leicht mehr Fläche. Tatsächlich umfasst das Stadtgebiet von Eisenach 104,17 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "247-eisenach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Eisenach",
+"steckbrief": "Stadt mit rund 40.500 Einwohnern, 50 km westlich von Erfurt.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die heilige Elisabeth war eine Eisenacher Kaufmannstochter.",
+"Ein gebürtiger Salzburger schuf das Reiterstandbild am Jakobsplan.",
+"Die Stadtflagge zeigt ein rotes Kreuz auf Weiß."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Salzburger am Jakobsplan klingt erfunden, stimmt aber: Erich Windbichler schuf das Reiterstandbild. Erfunden ist die Kaufmannstochter: Elisabeth kam in Ungarn als Königstochter zur Welt und heiratete einen Thüringer Landgrafen. Die Flagge zeigt das rote Kreuz im weißen Teil. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.eisenach.de/leben/geschichte/persoenlichkeiten/heilige-elisabeth/",
+"faktencheck": "bestätigt",
+"id": "247-eisenach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Eisenach",
+"steckbrief": "Thüringer Stadt mit rund 40.500 Einwohnern, 50 km westlich von Erfurt.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Eisenach die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"Die Linke",
+"CDU",
+"SPD"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Linke liegt in Thüringen nahe, sie ist dort traditionell stark. Doch in Eisenach kam die CDU mit 18,7 Prozent auf Platz zwei, hinter der AfD. Die Linke folgte mit 15,2 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "247-eisenach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenach",
+"steckbrief": "Stadt mit rund 40.500 Einwohnern, 50 km westlich von Erfurt.",
+"frage": "Der Schwarze Brunnen ist ein Denkmal in Eisenach. Welchen Anlass nennt die Stadtgeschichte für ihn?",
+"optionen": [
+"Er erinnert an eine Pestepidemie.",
+"Er erinnert an den Bau einer Wasserleitung.",
+"Er erinnert an ein Bergwerksunglück.",
+"Er erinnert an eine Pulverexplosion."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Brunnen denkt man zuerst an Wasser, und das Wort „schwarz“ lässt an Trauer um Seuchenopfer denken. Die Stadtgeschichte nennt als Anlass jedoch eine Pulverexplosion. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.eisenach.de/leben/geschichte/denkmale/",
+"faktencheck": "unsicher",
+"id": "247-eisenach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Eisenach",
+"steckbrief": "Stadt im Wartburgkreis mit rund 40.500 Einwohnern, 50 km westlich von Erfurt.",
+"frage": "Welches Kfz-Kennzeichen tragen die meisten Autos in Eisenach?",
+"optionen": [
+"EA",
+"ESW",
+"GTH",
+"EF"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. EF liegt nahe, weil Erfurt die nächste Großstadt ist. ESW steht für den hessischen Werra-Meißner-Kreis, GTH für Gotha. Eisenach gehört zum Wartburgkreis; als Hauptkennzeichen ist für die Stadt EA geführt. Richtig war 1.",
+"quelle": "Wikidata P395",
+"faktencheck": "unsicher",
+"id": "247-eisenach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenach",
+"steckbrief": "Stadt mit rund 40.500 Einwohnern, 50 km westlich von Erfurt.",
+"frage": "Als „Junker Jörg“ übersetzte Martin Luther auf der Wartburg das Neue Testament. Wie lange brauchte er dafür?",
+"optionen": [
+"Er brauchte dafür zwölf Tage.",
+"Er brauchte dafür elf Wochen.",
+"Er brauchte dafür fünf Monate.",
+"Er brauchte dafür drei Jahre."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das ganze Neue Testament klingt nach Jahren Arbeit, zumal Luther aus der griechischen Fassung übersetzte. Nach der Stadtgeschichte brauchte er dafür aber nur elf Wochen, während er zum Schein gefangen auf der Wartburg lebte. Seine Übersetzung wurde Grundlage für eine einheitliche deutsche Schriftsprache. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.eisenach.de/leben/geschichte/persoenlichkeiten/martin-luther/",
+"faktencheck": "korrigiert",
+"id": "247-eisenach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenach",
+"steckbrief": "Stadt mit rund 40.500 Einwohnern, 50 km westlich von Erfurt.",
+"frage": "Im Mai 1849 kam Richard Wagner zum zweiten Mal nach Eisenach. Was führte ihn nach der Stadtgeschichte dorthin?",
+"optionen": [
+"Er gab ein Konzert vor dem Hof.",
+"Er suchte einen Verleger für seine Werke.",
+"Er floh vor politischer Verfolgung.",
+"Er kam zu einer Kur nach Thüringen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein berühmter Komponist auf Konzertreise liegt nahe. Doch Wagner war auf der Flucht: Er wurde wegen seiner Sympathie für die Revolution verfolgt. In Eisenach begleitete ihn Musikdirektor Friedrich Kühmstedt, der mit ihm die Wartburg besuchte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.eisenach.de/leben/geschichte/persoenlichkeiten/richard-wagner/",
+"faktencheck": "korrigiert",
+"id": "247-eisenach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenach",
+"steckbrief": "Stadt mit rund 40.500 Einwohnern, 50 km westlich von Erfurt.",
+"frage": "Der in Eisenach geborene Hugo Brehme machte sich als Fotograf einen Namen. Wo arbeitete er vor allem?",
+"optionen": [
+"Er arbeitete vor allem in Mexiko-Stadt.",
+"Er arbeitete vor allem in New York.",
+"Er arbeitete vor allem in Buenos Aires.",
+"Er arbeitete vor allem in Tokio."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer auswanderte, ging oft nach Nordamerika, das liegt nahe. Brehme aber arbeitete bis zu seinem Tod in Mexiko-Stadt, fotografierte Landschaften des Landes und dokumentierte die Mexikanische Revolution, darunter Emiliano Zapata. Seine Foto-Sammlung im Nationalen Fotoarchiv in Pachuca nahm die UNESCO ins Programm „Gedächtnis der Welt“ auf. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.eisenach.de/leben/geschichte/persoenlichkeiten/hugo-brehme/",
+"faktencheck": "korrigiert",
+"id": "247-eisenach/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenach",
+"steckbrief": "Stadt mit rund 40.500 Einwohnern, 50 km westlich von Erfurt.",
+"frage": "Wer ist im Stadtwappen von Eisenach zu sehen?",
+"optionen": [
+"Die heilige Elisabeth ist darauf zu sehen.",
+"Martin Luther ist darauf zu sehen.",
+"Der heilige Martin ist darauf zu sehen.",
+"Der heilige Georg ist darauf zu sehen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Elisabeth oder Luther liegen nahe, beide prägten die Stadt. Lange stritt man, ob die Wappenfigur der heilige Georg oder der heilige Moritz ist. Heute geht man vom heiligen Georg aus, in silberner Kettenrüstung, mit Speer und Palmzweig. Die heutige Form entwarf Professor Hildebrand aus Berlin nach einem mittelalterlichen Siegel. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.eisenach.de/leben/geschichte/stadtwappen/",
+"faktencheck": "korrigiert",
+"id": "247-eisenach/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "246-herleshausen",
+"anschluss": [
+"Kennzeichen: In Eisenach steht EA am Auto, in Herleshausen ESW.",
+"Einwohner: Eisenach hat fast sechzehnmal so viele wie Herleshausen."
+],
+"anschluesse": {
+"245-gerstungen": [
+"Eisenach hat viereinhalbmal so viele Einwohner wie Gerstungen."
+],
+"246-herleshausen": [
+"Kennzeichen: In Eisenach steht EA am Auto, in Herleshausen ESW.",
+"Einwohner: Eisenach hat fast sechzehnmal so viele wie Herleshausen."
+],
+"248-waltershausen": [
+"Kreisgrenze: Waltershausen gehört zum Landkreis Gotha, Eisenach zum Wartburgkreis.",
+"Eisenach hat gut dreimal so viele Einwohner wie Waltershausen."
+]
+},
+"ags": "16063105",
+"ortsteil": false,
+"km_vom_vorigen": 10.9
+},
+{
+"slug": "248-waltershausen",
+"name": "Waltershausen",
+"lat": 50.8975,
+"lon": 10.55583,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waltershausen",
+"steckbrief": "Waltershausen hat rund 13.000 Einwohner und liegt 35 km westlich von Erfurt.",
+"frage": "Johann Daniel Kestner jun. gilt als Begründer der Waltershäuser Puppenindustrie. Welche Neuerung machte die industrielle Fertigung nach der Stadtgeschichte erst möglich?",
+"optionen": [
+"Er goss die Puppenköpfe aus Zinn.",
+"Er schnitzte die Puppenköpfe aus Holz.",
+"Er formte die Puppenköpfe aus Papiermaché.",
+"Er goss die Puppenköpfe aus Gips."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Holz liegt nahe: Puppenköpfe schnitzte man bis dahin aus Holz. Kestner setzte stattdessen auf Papiermaché, der entscheidende Schritt zur industriellen Fertigung. Anfangs handelte er mit billiger Ware wie Pappfigürchen und Zwirnknöpfchen; später arbeiteten ganze Familien in seinen Fabriken oder in Heimarbeit. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.waltershausen.de/tourismus/sehenswertes/schloss-tenneberg/ und www.waltershausen.de/leben/wissenswertes/historische-persoenlichkeiten/",
+"faktencheck": "korrigiert",
+"id": "248-waltershausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Waltershausen",
+"steckbrief": "Waltershausen hat rund 13.000 Einwohner und liegt 35 km westlich von Erfurt.",
+"frage": "Wie groß ist das Stadtgebiet von Waltershausen mit allen Ortsteilen?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 45 km²",
+"45 bis unter 55 km²",
+"55 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt würde man weniger Fläche erwarten. Doch zu Waltershausen gehören Ortsteile wie Schnepfenthal, Langenhain, Fischbach und Winterstein; mit ihnen kommt das Stadtgebiet auf 60,62 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "248-waltershausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Waltershausen",
+"steckbrief": "Waltershausen hat rund 13.000 Einwohner, liegt 35 km westlich von Erfurt, und zur Stadt gehört Schnepfenthal.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"GutsMuths lehrte Schnepfenthaler Schüler Skilaufen und Schwimmen.",
+"Salzmanns Erziehungsanstalt entstand gegen den Willen des Herzogs.",
+"Eine Fledermausart ist nach einem Schnepfenthaler Lehrer benannt."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Skilaufen als Schulfach klingt nach Gegenwart, doch GutsMuths führte es in Schnepfenthal mit dem Schwimmen ein. Auch die Bechsteinfledermaus ist echt, benannt nach dem Lehrer Johann Matthäus Bechstein. Gelogen ist der Streit: Salzmann wurde vom aufgeklärten Herzog Ernst II. unterstützt. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.waltershausen.de/leben/wissenswertes/historische-persoenlichkeiten/",
+"faktencheck": "bestätigt",
+"id": "248-waltershausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Waltershausen",
+"steckbrief": "Waltershausen hat rund 13.000 Einwohner und liegt 35 km westlich von Erfurt.",
+"frage": "Wie hoch war die Wahlbeteiligung in Waltershausen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an niedrige Wahlbeteiligung in Kleinstädten denkt, tippt tiefer. Doch bei der Bundestagswahl 2025 gaben in Waltershausen 78,9 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "248-waltershausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waltershausen",
+"steckbrief": "Waltershausen hat rund 13.000 Einwohner, liegt 35 km westlich von Erfurt, und zur Stadt gehört der Ortsteil Winterstein.",
+"frage": "In Winterstein erinnert ein Grabstein von 1630 an einen Hund namens Stutzel. Womit verdiente er sich der Sage nach sein Grab?",
+"optionen": [
+"Er rettete Kinder aus einem brennenden Haus.",
+"Er warnte die Burg vor anrückenden Feinden.",
+"Er trug Liebesbotschaften und vermittelte eine Versöhnung.",
+"Er fand einen verirrten Jäger im Schnee."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Hundegrab denkt man zuerst an eine Rettungstat. Die Sage erzählt anderes: Stutzel trug Liebesbotschaften zwischen einer Tochter des Jägermeisters von Wangenheim und Junker Kurt Hund von Wenkheim und half, die Familien zu versöhnen; die Heirat folgte. Sein erstes Grab auf dem Friedhof soll das Konsistorium empört haben. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.waltershausen.de/leben/unsere-stadt-und-ortsteile/winterstein/",
+"faktencheck": "korrigiert",
+"id": "248-waltershausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Waltershausen",
+"steckbrief": "Waltershausen hat rund 13.000 Einwohner und liegt 35 km westlich von Erfurt.",
+"frage": "Welche dieser Städte ist eine Partnerstadt von Waltershausen?",
+"optionen": [
+"Bad Hersfeld",
+"Alsfeld",
+"Wetzlar",
+"Korbach"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Alle vier liegen im benachbarten Hessen, jede wäre denkbar. Partnerstadt ist Korbach. Dazu kommen Hanau, Bruay-sur-l'Escaut, Wolbrom und der XVI. Budapester Bezirk. Richtig war 4.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "248-waltershausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waltershausen",
+"steckbrief": "Waltershausen hat rund 13.000 Einwohner und liegt 35 km westlich von Erfurt.",
+"frage": "Johann Daniel Kestner sen., genannt „Wurstkestner“, verschickte Wurst aus Waltershausen in ganz Deutschland. Unter welchem Namen verkaufte er sie?",
+"optionen": [
+"Er verkaufte sie als „Gothaer Wurst“.",
+"Er verkaufte sie als „Waltershäuser Wurst“.",
+"Er verkaufte sie als „Thüringer Landwurst“.",
+"Er verkaufte sie als „Tenneberger Wurst“."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre der Name des Herkunftsorts. Doch der „Wurstkestner“ vertrieb seine Waren, vor allem Servelatwurst, als „Gothaer Wurst“ in ganz Deutschland. Woher das Rezept stammte, ist ungewiss: Überliefert sind ein in Waltershausen zurückgebliebener Russe aus den Freiheitskriegen oder Kestners Wanderjahre als Fleischergeselle in Russland. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.waltershausen.de/leben/wissenswertes/historische-persoenlichkeiten/",
+"faktencheck": "korrigiert",
+"id": "248-waltershausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waltershausen",
+"steckbrief": "Waltershausen hat rund 13.000 Einwohner und liegt 35 km westlich von Erfurt.",
+"frage": "Die barocke Stadtkirche „Zur Gotteshilfe“ wurde 1723 geweiht. Als Vorläufer welches bekannten Kirchenbaus gilt sie?",
+"optionen": [
+"Sie gilt als Vorläufer der Wieskirche.",
+"Sie gilt als Vorläufer der Dresdner Frauenkirche.",
+"Sie gilt als Vorläufer des Hamburger Michels.",
+"Sie gilt als Vorläufer des Berliner Doms."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dass eine Kleinstadtkirche auf Dresden vorausweist, klingt kühn. Doch die Stadtkirche ist ein barocker Zentralbau: Das Gestühl folgt auf dreigeschossigen Emporen einem elliptischen Schwung, die äußersten Plätze sollten gleich weit von der Kanzel entfernt sein. In Grundriss und Bauausführung gilt sie als Vorläufer von Georg Bährs Frauenkirche. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.waltershausen.de/tourismus/sehenswertes/stadtkirche-zur-gotteshilfe/",
+"faktencheck": "korrigiert",
+"id": "248-waltershausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waltershausen",
+"steckbrief": "Waltershausen hat rund 13.000 Einwohner und liegt 35 km westlich von Erfurt.",
+"frage": "Kloster Reinhardsbrunn, Hauskloster der Thüringer Landgrafen, bestand seit 1085. Was brachte ihm 1525 das Ende?",
+"optionen": [
+"Eine Pestwelle raffte die Mönche dahin.",
+"Ein Hochwasser zerstörte die Klostergebäude.",
+"Ein Erdbeben ließ die Kirche einstürzen.",
+"Aufständische Bauern aus der Umgebung plünderten es."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Klosterende denkt man an Seuchen oder Naturgewalt. Doch das Ende brachte der Bauernkrieg: Aufständische Bauern aus Waltershausen und Umgebung plünderten das Kloster. Gegründet hatte es Ludwig der Springer, der Sage nach als Sühne für einen Auftragsmord. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.waltershausen.de/tourismus/sehenswertes/das-benediktinerkloster-reinhardsbrunn/",
+"faktencheck": "korrigiert",
+"id": "248-waltershausen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "247-eisenach",
+"anschluss": [
+"Bundestagswahl 2025: CDU in Waltershausen und Eisenach je 18,7 Prozent.",
+"Langenhain (Waltershausen) erscheint erstmals in einer Urkunde fürs Eisenacher Katharinenkloster."
+],
+"anschluesse": {
+"247-eisenach": [
+"Bundestagswahl 2025: CDU in Waltershausen und Eisenach je 18,7 Prozent.",
+"Langenhain (Waltershausen) erscheint erstmals in einer Urkunde fürs Eisenacher Katharinenkloster."
+],
+"249-gotha": [
+"Gotha hat dreieinhalbmal so viele Einwohner wie Waltershausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Gotha die Linke, in Waltershausen die CDU."
+]
+},
+"ags": "16067072",
+"ortsteil": false,
+"km_vom_vorigen": 18.3
+},
+{
+"slug": "249-gotha",
+"name": "Gotha",
+"lat": 50.94889,
+"lon": 10.71833,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gotha",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern, 22 km westlich von Erfurt.",
+"frage": "Gotha feierte 2025 ein großes Stadtjubiläum. Welches?",
+"optionen": [
+"Gotha feierte sein 750-jähriges Bestehen.",
+"Gotha feierte sein 1250-jähriges Bestehen.",
+"Gotha feierte sein 1000-jähriges Bestehen.",
+"Gotha feierte sein 900-jähriges Bestehen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. 750 Jahre liegt nahe, denn viele Städte feiern ihr mittelalterliches Stadtrecht. Gotha zählt weiter zurück: Die erste Erwähnung stammt aus dem Jahr 775. Daher das 1250-jährige Bestehen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gotha.de/de/wissenschaftliche-stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "249-gotha/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gotha",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern, 22 km westlich von Erfurt.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Gotha?",
+"optionen": [
+"unter 150 m",
+"150 bis unter 250 m",
+"250 bis unter 350 m",
+"350 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer bei Thüringen an Mittelgebirge denkt, schätzt leicht zu hoch. Für Gotha nennen die Quellen 300 bis 305 Meter über dem Meeresspiegel. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "249-gotha/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gotha",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern, 22 km westlich von Erfurt.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Sundhausen wurde 1974 nach Gotha eingemeindet.",
+"Boilstädt wurde 1994 nach Gotha eingemeindet.",
+"Uelleben wurde 1952 nach Gotha eingemeindet."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele verdächtigen Sundhausen, weil 1974 mitten in der DDR-Zeit liegt. Doch das stimmt. Gelogen ist Uelleben: Der Ortsteil kam erst 1994 zu Gotha, im selben Jahr wie Boilstädt. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.gotha.de/de/ortsteile.html",
+"faktencheck": "bestätigt",
+"id": "249-gotha/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gotha",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern, 22 km westlich von Erfurt.",
+"frage": "Bundestagswahl 2025 in Gotha: Welchen Zweitstimmenanteil erreichte die stärkste Partei?",
+"optionen": [
+"unter 39 %",
+"39 bis unter 42 %",
+"42 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In Thüringen schnitt die AfD vielerorts sehr stark ab, deshalb schätzen viele höher. In Gotha wurde sie mit 38,2 Prozent der Zweitstimmen stärkste Partei, vor der Linken. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "249-gotha/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gotha",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern, 22 km westlich von Erfurt.",
+"frage": "Unter Gothas Denkmälern ist ein Gartenhaus, das den Namen eines Schriftstellers trägt. Welches?",
+"optionen": [
+"Es ist das Gartenhaus von Theodor Fontane.",
+"Es ist das Gartenhaus von Gustav Freytag.",
+"Es ist das Gartenhaus von Wilhelm Raabe.",
+"Es ist das Gartenhaus von Theodor Storm."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Fontane liegt nahe, weil man ihn aus dem Deutschunterricht kennt. Das Gartenhaus in Gotha trägt aber den Namen Gustav Freytags, eines vielgelesenen Romanautors. Die Stadt führt es unter ihren geförderten Denkmälern, zusammen mit dem Winterpalais und dem Hofgärtnerhaus. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gotha.de/de/denkmalschutz.html",
+"faktencheck": "unsicher",
+"id": "249-gotha/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gotha",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern, 22 km westlich von Erfurt.",
+"frage": "Wie groß ist das Stadtgebiet von Gotha?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 50 km²",
+"50 bis unter 80 km²",
+"80 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe stellt man sich kompakt vor, deshalb tippen viele kleiner. Zum Stadtgebiet gehören aber auch eingemeindete Ortsteile. Gotha umfasst 69,58 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "249-gotha/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gotha",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern, 22 km westlich von Erfurt.",
+"frage": "Als welche Art Stadt stellt sich Gotha in seinem Stadtporträt vor?",
+"optionen": [
+"Gotha stellt sich als Kurstadt vor.",
+"Gotha stellt sich als Domstadt vor.",
+"Gotha stellt sich als Bergstadt vor.",
+"Gotha stellt sich als Residenzstadt vor."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Domstadt liegt nahe, weil man beim nahen Erfurt an den Dom denkt. Gotha aber stellt sich als Residenzstadt vor; das Wort meint einen Fürstensitz. Zudem sieht sich Gotha als kulturelles Zentrum des Landkreises. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gotha.de/de/stadtportrait.html",
+"faktencheck": "bestätigt",
+"id": "249-gotha/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gotha",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern, 22 km westlich von Erfurt.",
+"frage": "Der Ortsteil Siebleben liegt am südöstlichen Ende Gothas. Seit wann gehört er zur Stadt?",
+"optionen": [
+"Siebleben gehört seit 1922 zu Gotha.",
+"Siebleben gehört seit 1952 zu Gotha.",
+"Siebleben gehört seit 1974 zu Gotha.",
+"Siebleben gehört seit 1994 zu Gotha."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. 1994 liegt nahe: Nach der Wende verloren viele Dörfer bei Gebietsreformen ihre Selbstständigkeit. Siebleben aber kam schon 1922 zu Gotha. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gotha.de/de/ortsteile.html",
+"faktencheck": "bestätigt",
+"id": "249-gotha/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "248-waltershausen",
+"anschluss": [
+"Gotha hat gut dreieinhalbmal so viele Einwohner wie Waltershausen.",
+"Bundestagswahl 2025: Waltershausen hatte eine höhere Wahlbeteiligung als Gotha."
+],
+"anschluesse": {
+"248-waltershausen": [
+"Gotha hat gut dreieinhalbmal so viele Einwohner wie Waltershausen.",
+"Bundestagswahl 2025: Waltershausen hatte eine höhere Wahlbeteiligung als Gotha."
+],
+"250-nesse-apfelstaedt": [
+"Gotha hat fast achtmal so viele Einwohner wie Nesse-Apfelstädt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Nesse-Apfelstädt die CDU, in Gotha die Linke."
+]
+},
+"ags": "16067029",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 12.7
+},
+{
+"slug": "250-nesse-apfelstaedt",
+"name": "Nesse-Apfelstädt",
+"lat": 50.9125,
+"lon": 10.9133,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nesse-Apfelstädt",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 11 km südwestlich von Erfurt.",
+"frage": "Woher hat die Gemeinde ihren Doppelnamen Nesse-Apfelstädt?",
+"optionen": [
+"Sie heißt nach den Flüssen Nesse und Apfelstädt.",
+"Sie heißt nach den Ortsteilen Nesse und Apfelstädt.",
+"Sie heißt nach den Adelsfamilien Nesse und Apfelstädt.",
+"Sie heißt nach den Burgen Nesse und Apfelstädt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist, an Orte zu denken, denn Apfelstädt ist heute ein Ortsteil der Gemeinde. Den Namen geben aber zwei Flüsse: die Nesse und die Apfelstädt. Einen Ortsteil namens Nesse gibt es nicht. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt",
+"faktencheck": "unsicher",
+"id": "250-nesse-apfelstaedt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Nesse-Apfelstädt",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 11 km südwestlich von Erfurt.",
+"frage": "Wie viele Einwohner leben in Nesse-Apfelstädt durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 400",
+"400 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Erfurt lässt an dichte Besiedlung denken. Doch die Rechnung zählt die ganze Gemeindefläche mit: Im Schnitt kommen auf einen Quadratkilometer etwa 152 Einwohner. Richtig war 2.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "250-nesse-apfelstaedt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Nesse-Apfelstädt",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 11 km südwestlich von Erfurt.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Autobahn 4 verläuft im Norden der Gemeinde.",
+"Die Gemeinde hat Anschluss an die Autobahn 71.",
+"Die Bundesstraße 7 führt durch Gamstädt, den nördlichsten Ortsteil."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die A71 klingt am wenigsten vertraut, die Gemeinde ist aber an sie angebunden. Im Norden liegt Gamstädt an der B7, auf halber Strecke zwischen Erfurt und Gotha. Die A4 verläuft dagegen im Süden. Die Lüge war 1.",
+"quelle": "Gemeinde Nesse-Apfelstädt, nesse-apfelstaedt.de/verzeichnis/index.php?kategorie=66",
+"faktencheck": "korrigiert",
+"id": "250-nesse-apfelstaedt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Nesse-Apfelstädt",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 11 km südwestlich von Erfurt.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Nesse-Apfelstädt die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"Die Linke",
+"SPD",
+"CDU"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Thüringen liegt Die Linke als Zweite nahe, sie stellte lange den Ministerpräsidenten. In Nesse-Apfelstädt aber kam die CDU auf Platz zwei, hinter der AfD und vor der Linken. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "250-nesse-apfelstaedt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nesse-Apfelstädt",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 11 km südwestlich von Erfurt.",
+"frage": "In welchem Ortsteil hat die Gemeindeverwaltung von Nesse-Apfelstädt ihren Sitz?",
+"optionen": [
+"Die Verwaltung sitzt in Neudietendorf.",
+"Die Verwaltung sitzt in Apfelstädt.",
+"Die Verwaltung sitzt in Gamstädt.",
+"Die Verwaltung sitzt in Ingersleben."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Gemeindename lenkt den Blick auf Apfelstädt. Sitz der Verwaltung ist aber Neudietendorf, wo auch der Bahnhof liegt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt",
+"faktencheck": "bestätigt",
+"id": "250-nesse-apfelstaedt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Nesse-Apfelstädt",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 11 km südwestlich von Erfurt.",
+"frage": "Wie groß ist die Fläche der Gemeinde Nesse-Apfelstädt?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 50 km²",
+"50 bis unter 100 km²",
+"100 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Ort dieser Größe klingt nach einem kleinen Gemeindegebiet. Doch Nesse-Apfelstädt fasst mehrere Ortsteile zusammen und misst 39,59 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "250-nesse-apfelstaedt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nesse-Apfelstädt",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 11 km südwestlich von Erfurt.",
+"frage": "Welche Liste wurde bei der Gemeinderatswahl 2024 in Nesse-Apfelstädt stärkste Kraft?",
+"optionen": [
+"Die CDU lag vorn.",
+"Die Freien Wähler Neudietendorf lagen vorn.",
+"Die FWG Nesse-Apfelstädt lag vorn.",
+"Die Linke lag vorn."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Parteien denkt, tippt in Thüringen leicht auf CDU oder Linke. Bei der Gemeinderatswahl holte aber eine örtliche Liste die meisten Stimmen: die FWG Nesse-Apfelstädt, vor den Freien Wählern Neudietendorf und der CDU. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Nesse-Apfelst%C3%A4dt",
+"faktencheck": "bestätigt",
+"id": "250-nesse-apfelstaedt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nesse-Apfelstädt",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 11 km südwestlich von Erfurt.",
+"frage": "Nesse-Apfelstädt hat sechs Ortsteile. Aus wie vielen Gemeinden entstand es 2009?",
+"optionen": [
+"Zwei Gemeinden schlossen sich zusammen.",
+"Vier Gemeinden schlossen sich zusammen.",
+"Fünf Gemeinden schlossen sich zusammen.",
+"Sechs Gemeinden schlossen sich zusammen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Sechs Ortsteile lassen an sechs Gemeinden denken. Fusioniert haben aber nur vier: Apfelstädt, Gamstädt, Ingersleben und Neudietendorf. Kleinrettbach und Kornhochheim gehörten schon seit 1974 zu Gamstädt und Neudietendorf. Richtig war 2.",
+"quelle": "Thüringer Landesamt für Statistik, statistik.thueringen.de/datenbank/gebiet3.asp?nr=67087",
+"faktencheck": "korrigiert",
+"id": "250-nesse-apfelstaedt/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "249-gotha",
+"anschluss": [
+"Bundestagswahl 2025: Wahlbeteiligung in Nesse-Apfelstädt 83, in Gotha 74,8 Prozent.",
+"Einwohner: Gotha hat mehr als siebenmal so viele wie Nesse-Apfelstädt."
+],
+"anschluesse": {
+"249-gotha": [
+"Bundestagswahl 2025: Wahlbeteiligung in Nesse-Apfelstädt 83, in Gotha 74,8 Prozent.",
+"Einwohner: Gotha hat mehr als siebenmal so viele wie Nesse-Apfelstädt."
+]
+},
+"ags": "16067087",
+"ortsteil": false,
+"km_vom_vorigen": 14.3
+},
+{
+"slug": "251-weimar",
+"name": "Weimar",
+"lat": 50.98111,
+"lon": 11.32944,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weimar",
+"steckbrief": "Stadt in Thüringen mit rund 65.600 Einwohnern, 19 km westlich von Jena.",
+"frage": "Die Weimarer Republik wurde in Weimar gegründet. Wo tagte dafür die Nationalversammlung?",
+"optionen": [
+"Sie tagte im Stadtschloss.",
+"Sie tagte im Rathaus.",
+"Sie tagte in der Stadtkirche.",
+"Sie tagte im Deutschen Nationaltheater."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Das Stadtschloss liegt nahe, denn Parlamente tagten oft in früheren Residenzen. Doch die Nationalversammlung, mit der die Weimarer Republik begann, tagte im Deutschen Nationaltheater Weimar. Zu den Meilensteinen der jungen Republik gehörten Frauenwahlrecht und Trennung von Kirche und Staat. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/haus-der-weimarer-republik/",
+"faktencheck": "bestätigt",
+"id": "251-weimar/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weimar",
+"steckbrief": "Stadt in Thüringen, 19 km westlich von Jena und 21 km Luftlinie von Erfurt.",
+"frage": "Wie viele Einwohner hat Weimar?",
+"optionen": [
+"unter 70.000",
+"70.000 bis unter 90.000",
+"90.000 bis unter 120.000",
+"120.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Goethe, Bauhaus und Republik lassen eine Großstadt vermuten. Doch Weimar zählte Ende 2025 genau 65.566 Einwohner und bleibt damit klar unter der Großstadtgrenze von 100.000. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "251-weimar/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Weimar",
+"steckbrief": "Stadt in Thüringen mit rund 65.600 Einwohnern, 19 km westlich von Jena.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Goethes Frau Christiane Vulpius ruht auf dem Jakobskirchhof.",
+"Carl Friedrichs Frau Maria Pawlowna stammte aus Frankreich.",
+"Der Bankier Jakob Elkan gründete den Jüdischen Friedhof."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. An deutschen Fürstenhöfen sprach der Adel oft Französisch, darum klingt eine Braut aus Frankreich glaubhaft. Doch Maria Pawlowna war eine russische Großfürstin. Ihre Grabkapelle ist die Russisch-Orthodoxe Kapelle auf dem Historischen Friedhof. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.weimar.de/kultur/sehenswuerdigkeiten/kirchen-und-friedhoefe/",
+"faktencheck": "korrigiert",
+"id": "251-weimar/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weimar",
+"steckbrief": "Stadt in Thüringen mit rund 65.600 Einwohnern, 19 km westlich von Jena.",
+"frage": "Wie hoch war in Weimar die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 78 %",
+"78 bis unter 86 %",
+"86 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Osten lag die Beteiligung früher oft unter dem Bundesschnitt, deshalb wird gern niedriger geschätzt. Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Weimar aber bei 82,2 Prozent (Stand 23. Februar 2025). Stärkste Kraft wurde die AfD, knapp vor der Linken. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "251-weimar/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weimar",
+"steckbrief": "Stadt in Thüringen mit rund 65.600 Einwohnern, 19 km westlich von Jena.",
+"frage": "Goethe hatte in Weimar ein Gartenhaus. Wie kam er dazu?",
+"optionen": [
+"Er erbte es von seinem Vater.",
+"Er gewann es in einer Lotterie.",
+"Er bekam es als Mitgift seiner Frau.",
+"Herzog Carl August kaufte es für ihn."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Erbe liegt nahe, denn Goethe kam aus einer wohlhabenden Familie. Doch Herzog Carl August kaufte das Gartenhaus für ihn. Derselbe Herzog ließ auch eine Parkhöhle graben. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/",
+"faktencheck": "bestätigt",
+"id": "251-weimar/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weimar",
+"steckbrief": "Stadt in Thüringen mit rund 65.600 Einwohnern, 19 km westlich von Jena.",
+"frage": "Wie groß ist das Stadtgebiet von Weimar?",
+"optionen": [
+"unter 90 km²",
+"90 bis unter 150 km²",
+"150 bis unter 250 km²",
+"250 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer Weimar als Stadt Goethes und des Bauhauses kennt, schließt von großen Namen leicht auf eine große Fläche. Tatsächlich umfasst das Stadtgebiet rund 84,5 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "251-weimar/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weimar",
+"steckbrief": "Stadt in Thüringen mit rund 65.600 Einwohnern, 19 km westlich von Jena.",
+"frage": "In den 1920er-Jahren ließ ein früherer Besitzer die Gutsanlage Holzdorf zum Park umgestalten. In welchem Stil?",
+"optionen": [
+"Es entstand ein chinesischer Garten.",
+"Es entstand ein Park im französischen Stil.",
+"Es entstand ein japanischer Garten.",
+"Es entstand ein Volkspark mit Spielwiesen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein chinesischer Garten liegt nahe, denn fernöstliche Motive schmückten manche Parks der Goethezeit. Doch Otto Krebs, ein früherer Besitzer, ließ die Gutsanlage im französischen Stil umgestalten, der für strenge, geometrische Formen steht. So entstand der Park Holzdorf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/",
+"faktencheck": "korrigiert",
+"id": "251-weimar/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weimar",
+"steckbrief": "Stadt in Thüringen mit rund 65.600 Einwohnern, 19 km westlich von Jena.",
+"frage": "1932 wurde in Weimar ein Gelände zum Weimarhallenpark umgestaltet. Woraus entstand der Park?",
+"optionen": [
+"Er entstand aus dem Garten eines Verlegers.",
+"Er entstand aus einem Exerzierplatz.",
+"Er entstand aus einem früheren Steinbruch.",
+"Er entstand aus einem früheren Bahnhofsgelände."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Exerzierplatz liegt nahe, denn viele Stadtparks entstanden auf früheren Militärflächen. Doch der Weimarhallenpark ging aus dem Garten von Friedrich Justin Bertuch hervor, einem Verleger und Zeitgenossen Goethes. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/",
+"faktencheck": "korrigiert",
+"id": "251-weimar/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "250-nesse-apfelstaedt",
+"anschluss": [
+"Einwohner: Weimar hat fast elfmal so viele wie Nesse-Apfelstädt.",
+"Kennzeichen: In Nesse-Apfelstädt steht GTH am Auto, in Weimar WE."
+],
+"anschluesse": {
+"252-jena": [
+"Bundestagswahl 2025: In Jena lag die Linke vorn, in Weimar die AfD.",
+"Jena hat gut anderthalbmal so viele Einwohner wie Weimar."
+],
+"250-nesse-apfelstaedt": [
+"Einwohner: Weimar hat fast elfmal so viele wie Nesse-Apfelstädt.",
+"Kennzeichen: In Nesse-Apfelstädt steht GTH am Auto, in Weimar WE."
+]
+},
+"ags": "16055000",
+"ortsteil": false,
+"km_vom_vorigen": 30.1
+},
+{
+"slug": "252-jena",
+"name": "Jena",
+"lat": 50.92722,
+"lon": 11.58639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Jena",
+"steckbrief": "Großstadt an der Saale mit rund 109.000 Einwohnern, 39 km Luftlinie von Erfurt.",
+"frage": "In Jenas Hauptkirche St. Michael befindet sich seit 1571 eine Grabplatte. Wessen Grabplatte ist das?",
+"optionen": [
+"Es ist die Grabplatte von Philipp Melanchthon.",
+"Es ist die Grabplatte von Johann Friedrich I.",
+"Es ist die Grabplatte von Martin Luther.",
+"Es ist die Grabplatte von Katharina von Bora."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Johann Friedrich I. lag nahe: Als Hanfried steht er als Denkmal auf dem Markt, als Gründer der Universität. Doch in St. Michael befindet sich die Grabplatte Martin Luthers. In dieser Kirche hatte Luther auch gepredigt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Jena",
+"faktencheck": "bestätigt",
+"id": "252-jena/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Jena",
+"steckbrief": "Großstadt an der Saale mit rund 109.000 Einwohnern, 39 km Luftlinie von Erfurt.",
+"frage": "Aus welcher Zeit stammt die erste bekannte schriftliche Erwähnung Jenas?",
+"optionen": [
+"vor 500",
+"500 bis unter 650",
+"650 bis unter 800",
+"800 oder später"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Zeit Karls des Großen liegt nahe, denn damals tauchen viele Orte erstmals in Urkunden auf. Jenas erste Erwähnung wird aber auf das Jahr 900 datiert, also etwas später. Richtig war 4.",
+"quelle": "Wikidata P1249; Altbestand geschichte.json",
+"faktencheck": "bestätigt",
+"id": "252-jena/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Jena",
+"steckbrief": "Großstadt an der Saale mit rund 109.000 Einwohnern, 39 km Luftlinie von Erfurt.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schiller heiratete in Jena Charlotte von Lengefeld.",
+"Goethe entdeckte in Jena mit Loder den Zwischenkieferknochen.",
+"Hegel unterrichtete in Jena das Fach Medizin."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Goethe als Knochenforscher klingt erfunden, man kennt ihn als Dichter und Minister. Doch mit Justus Christian Loder entdeckte er am Anatomieturm den Zwischenkieferknochen. Gelogen war Hegels Fach: Er lehrte in Jena Philosophie, wie auch Fichte und Schelling. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Jena",
+"faktencheck": "unsicher",
+"id": "252-jena/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Jena",
+"steckbrief": "Großstadt an der Saale mit rund 109.000 Einwohnern, 39 km Luftlinie von Erfurt.",
+"frage": "Bundestagswahl 2025 in Jena: Wie viel Prozent der Zweitstimmen holte die stärkste Partei?",
+"optionen": [
+"unter 20 Prozent",
+"20 bis unter 28 Prozent",
+"28 bis unter 36 Prozent",
+"36 Prozent oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Wahlen in Thüringen erwarten viele eine Partei weit vorn. In Jena lagen die Parteien enger beieinander: Die Linke wurde mit 24,9 Prozent stärkste Kraft, die AfD folgte mit 18,9 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "252-jena/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„Jena / Großstadt an der Saale mit rund 109.000 Einwohnern. / Warum entstand in Jena im 16. Jahrhundert eine Hochschule? Welchen Grund nennt die Stadtgeschichte? / 1. Ein Naumburger Bischof wollte hier Priester ausbilden. / 2. Ein reicher Jenaer Kaufmann vermachte der Stadt dafür sein Erbe. / 3. Sie ersetzte die im Krieg verlorene Universität Wittenberg. / 4. Der Papst wollte ein Bollwerk gegen Luthers Lehre.“ RÜCKSEITE bleibt unverändert.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bischof als Gründer liegt nahe, denn viele alte Hochschulen wuchsen aus kirchlichen Schulen. Doch der Anlass war eine Niederlage: Nach dem Schmalkaldischen Krieg war die Universität Wittenberg verloren. Den Ersatz schuf man in Jena, zunächst als Hohe Schule im Dominikanerkloster. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Jena",
+"faktencheck": "korrigiert",
+"id": "252-jena/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Jena",
+"steckbrief": "Großstadt an der Saale mit rund 109.000 Einwohnern, 39 km Luftlinie von Erfurt.",
+"frage": "Wie viele Einwohner leben in Jena durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"3.000 oder mehr",
+"2.000 bis unter 3.000",
+"1.200 bis unter 2.000",
+"unter 1.200"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei über hunderttausend Einwohnern denkt man an dichte Häuserzeilen wie in größeren Städten. Doch Jenas Stadtgebiet ist mit rund 115 Quadratkilometern weitläufig. Auf einem Quadratkilometer leben im Schnitt nur rund 950 Menschen. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "252-jena/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„Jena / Großstadt an der Saale mit rund 109.000 Einwohnern, 39 km Luftlinie von Erfurt. / Die Firma Carl Zeiss verschenkte 1904 ihr zehntausendstes Objektiv für homogene Immersion. Wer bekam es? / 1. Es ging an Robert Koch. / 2. Es ging an Rudolf Virchow. / 3. Es ging an Kaiser Wilhelm II. / 4. Es ging an Ernst Haeckel.“ RÜCKSEITE: „Du hattest [Option] getippt. Ernst Haeckel lag nahe: Der Zoologe lehrte an der Jenaer Universität. Doch das zehntausendste Objektiv für homogene Immersion schenkte Zeiss 1904 Robert Koch. Koch schrieb an Carl Zeiss, er verdanke einen großen Teil seiner Erfolge dessen Mikroskopen. Richtig war 1. / Quelle: zeiss.com, Seite Nobelpreise“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ernst Haeckel lag nahe: Der Zoologe war einer der berühmtesten Lehrer der Jenaer Universität. Doch das zehntausendste Mikroskop ging als Geschenk an Robert Koch. Zu den wichtigen Partnern von Zeiss zählten Ernst Abbe und Otto Schott. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Jena",
+"faktencheck": "korrigiert",
+"id": "252-jena/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Jena",
+"steckbrief": "Großstadt an der Saale mit rund 109.000 Einwohnern, 39 km Luftlinie von Erfurt.",
+"frage": "Am Ende des Zweiten Weltkriegs wurde Jenas Camsdorfer Brücke zerstört. Wer oder was zerstörte sie?",
+"optionen": [
+"US-Bomber trafen sie bei einem Luftangriff.",
+"Die Rote Armee sprengte sie beim Einmarsch.",
+"Ein Saalehochwasser riss ihre Pfeiler fort.",
+"Die Wehrmacht sprengte sie selbst."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bomben lagen nahe, denn von Februar bis April 1945 griffen Bomber Jena mehrfach an. Doch die Brücke sprengte am 12. April 1945 die Wehrmacht selbst, am Tag, als die US-Armee Jena erreichte. Wiederaufgebaut war sie im Juli 1946. Richtig war 4. /",
+"quelle": "Stadtchronik Jena, geschichte.jena.de",
+"faktencheck": "korrigiert",
+"id": "252-jena/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "251-weimar",
+"anschluss": [
+"Bundestagswahl 2025: Die Linke gewann Jena, die AfD Weimar.",
+"Einwohner: Jena hat rund 109.000, Weimar rund 66.000."
+],
+"anschluesse": {
+"251-weimar": [
+"Bundestagswahl 2025: Die Linke gewann Jena, die AfD Weimar.",
+"Einwohner: Jena hat rund 109.000, Weimar rund 66.000."
+],
+"253-stadtroda": [
+"Kreisgrenze: Stadtroda gehört zum Saale-Holzland-Kreis, Jena ist kreisfrei.",
+"Bundestagswahl 2025: In Stadtroda lag die AfD vorn, in Jena die Linke."
+],
+"254-hermsdorf": [
+"Kreisgrenze: Hermsdorf gehört zum Saale-Holzland-Kreis, Jena ist kreisfrei.",
+"Bundestagswahl 2025: In Hermsdorf lag die AfD vorn, in Jena die Linke."
+]
+},
+"ags": "16053000",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 19.0
+},
+{
+"slug": "253-stadtroda",
+"name": "Stadtroda",
+"lat": 50.85924,
+"lon": 11.73017,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stadtroda",
+"steckbrief": "Kleinstadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena.",
+"frage": "Wie groß ist das Stadtgebiet von Stadtroda?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 30 km²",
+"30 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Kleinstadt denkt man an eine kleine Fläche. Doch zum Stadtgebiet gehört mehr als der bebaute Kern. Stadtroda misst 24,18 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "253-stadtroda/v0.8/2",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadtroda",
+"steckbrief": "Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena.",
+"frage": "Ende des 19. Jahrhunderts entstand eine zweibändige Chronik von Roda, wie Stadtroda früher hieß. Wer schrieb sie?",
+"optionen": [
+"Der Bürgermeister der Stadt schrieb sie.",
+"Ein leitender Geistlicher schrieb sie.",
+"Ein Arzt der Stadt schrieb sie.",
+"Ein Archivar des Herzogs schrieb sie."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadtchronik klingt nach Rathaus oder Archiv, daher liegt der Bürgermeister nahe. Geschrieben hat sie aber Ernst Löbe, Geheimer Kirchenrat und Superintendent, also leitender Geistlicher eines Kirchenkreises. Er schrieb sie in dem Haus, das heute das Stadtmuseum beherbergt. Richtig war 2.",
+"quelle": "stadtroda.de, Stadtmuseum „Alte Suptur“",
+"faktencheck": "korrigiert",
+"id": "253-stadtroda/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Stadtroda",
+"steckbrief": "Thüringer Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena.",
+"frage": "Zu welchem Landkreis gehört Stadtroda?",
+"optionen": [
+"Saale-Orla-Kreis",
+"Landkreis Greiz",
+"Saale-Holzland-Kreis",
+"Weimarer Land"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Saale gibt mehreren Kreisen ihren Namen, das macht die Wahl schwer. Stadtroda gehört zum Saale-Holzland-Kreis in Thüringen. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "253-stadtroda/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadtroda / Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena. / Die KPD-Reichstagsabgeordnete Helene Fleischer starb 1941 in Stadtroda. Wie kam sie ums Leben? / 1. Sie wurde auf der Flucht erschossen. / 2. Sie wurde vom Volksgerichtshof zum Tod verurteilt. / 3. Sie kam bei einem Bombenangriff ums Leben. / 4. Sie wurde Opfer der NS-Krankenmorde.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Kommunistin denkt man an ein Todesurteil der NS-Justiz. Helene Fleischer bekam 1934 aber „nur“ drei Jahre Gefängnis. 1941 wurde sie nach schweren Misshandlungen in die Heilanstalt Stadtroda gebracht und dort ermordet. Richtig war 4.",
+"quelle": "Biographisches Lexikon, Bundesstiftung Aufarbeitung, kommunismusgeschichte.de",
+"faktencheck": "korrigiert",
+"id": "253-stadtroda/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadtroda / Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena. / Stadtroda liegt in Thüringen. Zu welchem Bistum gehört die katholische Kirche St. Jakobus in Stadtroda? / 1. Sie gehört zum Bistum Dresden-Meißen. / 2. Sie gehört zum Bistum Erfurt. / 3. Sie gehört zum Bistum Magdeburg. / 4. Sie gehört zum Bistum Görlitz.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Erfurt ist Thüringens Hauptstadt, daher liegt das Bistum Erfurt nahe. Bistumsgrenzen folgen aber nicht immer den Landesgrenzen: Die katholische Kirche in Stadtroda gehört heute zur Pfarrei St. Elisabeth Gera im Bistum Dresden-Meißen. Richtig war 1.",
+"quelle": "Katholische Pfarrei St. Elisabeth Gera, katholische-kirche-gera.de",
+"faktencheck": "korrigiert",
+"id": "253-stadtroda/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "252-jena",
+"anschluss": [
+"Kennzeichen: In Jena steht J am Auto, in Stadtroda SHK.",
+"Einwohner: Jena hat gut sechzehnmal so viele wie Stadtroda."
+],
+"anschluesse": {
+"252-jena": [
+"Kennzeichen: In Jena steht J am Auto, in Stadtroda SHK.",
+"Einwohner: Jena hat gut sechzehnmal so viele wie Stadtroda."
+],
+"254-hermsdorf": [
+"Hermsdorf hat rund 1.400 Einwohner mehr als Stadtroda.",
+"Stadtroda hat gut dreimal so viel Fläche wie Hermsdorf, aber weniger Einwohner."
+],
+"255-eisenberg": [
+"Eisenberg hat gut anderthalbmal so viele Einwohner wie Stadtroda."
+]
+},
+"ags": "16074094",
+"ortsteil": false,
+"km_vom_vorigen": 12.6
+},
+{
+"slug": "254-hermsdorf",
+"name": "Hermsdorf",
+"lat": 50.89806,
+"lon": 11.85667,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hermsdorf",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 19 km östlich von Jena.",
+"frage": "Hermsdorf liegt im Thüringer Holzland. Auf welcher Höhe über dem Meer liegt der Ort?",
+"optionen": [
+"unter 250 m",
+"250 bis unter 400 m",
+"400 bis unter 550 m",
+"550 m und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Jena im Saaletal denkt, schätzt Hermsdorf leicht zu tief; das „Holzland“ lässt dagegen an Mittelgebirge denken. Die Quellen nennen für Hermsdorf 330 oder 331 Meter. Richtig war 2.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "254-hermsdorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hermsdorf",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 19 km östlich von Jena.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Räuberbande des Schwarzen Böttchers raubte bei St. Gangloff.",
+"Das Autobahnkreuz Hermsdorf entstand erst nach der Wende.",
+"Mit der Bahn Weimar–Gera begann Hermsdorfs Industrialisierung."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Räuberbande klingt nach Sage, steht aber in der Ortsgeschichte von St. Gangloff. Gelogen war das Autobahnkreuz: Es entstand schon in den 1930er Jahren. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.vg-hermsdorf.de/historisches.html und www.vg-hermsdorf.de/historisches-sankt-gangloff.html",
+"faktencheck": "korrigiert",
+"id": "254-hermsdorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hermsdorf",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 19 km östlich von Jena.",
+"frage": "Das Dorf St. Gangloff bei Hermsdorf heißt scherzhaft „Thüringisches Rom“. Woher kommt der Spitzname?",
+"optionen": [
+"Der Ort ist wie Rom auf Hügeln erbaut.",
+"Man fand dort Reste eines römischen Lagers.",
+"Ein Papst soll dort übernachtet haben.",
+"Alle Wege der Gegend führten zu seinem Markt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei „Rom“ denkt man zuerst an Römer, Päpste oder Pilger. Der scherzhafte Beiname kommt aber von der Lage: St. Gangloff ist wie Rom auf Hügeln erbaut. Benannt ist der Ort nach dem heiligen Gangolf, dem auch eine Wallfahrtskapelle geweiht wurde. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.vg-hermsdorf.de/historisches-sankt-gangloff.html",
+"faktencheck": "korrigiert",
+"id": "254-hermsdorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hermsdorf",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 19 km östlich von Jena.",
+"frage": "Welche dieser Städte ist eine Partnerstadt von Hermsdorf?",
+"optionen": [
+"Boppard",
+"Lahnstein",
+"Andernach",
+"Bingen"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Alle vier Städte liegen am Rhein in Rheinland-Pfalz, da entscheidet eher das Bauchgefühl. Hermsdorfs Partnerstädte sind Lahnstein an der Lahnmündung und Grünstadt in der Pfalz. Richtig war 2.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "254-hermsdorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Hermsdorf",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 19 km östlich von Jena.",
+"frage": "Im Zweiten Weltkrieg wurden in Hermsdorf fremde Zwangsarbeiter und Kriegsgefangene eingesetzt. Wie viele waren es?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.500",
+"1.500 bis unter 4.000",
+"4.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Kleinstadt rechnet man eher mit einigen hundert Menschen. Die Ortsgeschichte nennt aber 3586 fremde Zwangsarbeiter und Kriegsgefangene, die in Hermsdorf eingesetzt waren. Sie kamen aus vielen Nationen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.vg-hermsdorf.de/historisches.html",
+"faktencheck": "bestätigt",
+"id": "254-hermsdorf/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hermsdorf",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 19 km östlich von Jena.",
+"frage": "Bei Hermsdorf liegt das Dorf Schleifreisen. Woher kommt laut Ortsgeschichte der erste Namensteil „Schleif-“?",
+"optionen": [
+"Dort schliffen Mühlen einst Messer und Werkzeug.",
+"Die alte Straße machte dort eine scharfe Schleife.",
+"Dort arbeiteten einst viele Glasschleifer.",
+"Gefälltes Holz wurde dort zu Tal geschleift."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Schleif-“ klingt nach Schleifmühle oder Glasschleiferei, das liegt beim heutigen Wortsinn nahe. Die Ortsgeschichte erklärt es anders: Gemeint ist das Schleifen des Holzes, also Holzschlag und Transport zu Tal. Der zweite Namensteil „-reisen“ verweist auf die Pechgewinnung. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vg-hermsdorf.de/historisches-schleifreisen.html",
+"faktencheck": "bestätigt",
+"id": "254-hermsdorf/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "253-stadtroda",
+"anschluss": [
+"Höhe: Hermsdorf liegt gut 130 Meter höher als Stadtroda.",
+"Fläche: Stadtroda ist gut dreimal so groß wie Hermsdorf."
+],
+"anschluesse": {
+"252-jena": [
+"Kreisgrenze: Jena ist kreisfrei, Hermsdorf gehört zum Saale-Holzland-Kreis.",
+"Bundestagswahl 2025: In Jena lag die Linke vorn, in Hermsdorf die AfD."
+],
+"253-stadtroda": [
+"Höhe: Hermsdorf liegt gut 130 Meter höher als Stadtroda.",
+"Fläche: Stadtroda ist gut dreimal so groß wie Hermsdorf."
+],
+"255-eisenberg": [
+"Eisenberg hat rund 2.500 Einwohner mehr als Hermsdorf."
+]
+},
+"ags": "16074041",
+"ortsteil": false,
+"km_vom_vorigen": 9.9
+},
+{
+"slug": "255-eisenberg",
+"name": "Eisenberg",
+"lat": 50.96806,
+"lon": 11.90139,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenberg",
+"steckbrief": "Kreisstadt mit rund 10.600 Einwohnern, 22 km östlich von Jena.",
+"frage": "Im Stadtwappen von Eisenberg sitzt ein Kopf mit einer Binde über den Augen. Was erzählt die Sage dazu?",
+"optionen": [
+"Ein Bergmann erblindete beim Eisenabbau im Berg.",
+"Ein Graf schwor, die Stadt nie wiederzusehen.",
+"Ein blinder Wächter rettete die Stadt vor Feinden.",
+"Ein Graf ehrte so einen unschuldig verurteilten Diener."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an Bergbau denken. Die Sage erzählt anders: Ein Graf brachte vom Kreuzzug einen Mohren als Diener mit. Als die Gräfin ihre Kette vermisste, wurde er zum Tode verurteilt. Dann fand sie die Kette im Gebetbuch. Der Graf schenkte ihm die Freiheit und nahm seinen Kopf mit Binde ins Wappen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stadt-eisenberg.de/stadt/stadtgeschichte/mohrensage",
+"faktencheck": "bestätigt",
+"id": "255-eisenberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eisenberg",
+"steckbrief": "Kreisstadt mit rund 10.600 Einwohnern, 22 km östlich von Jena.",
+"frage": "Wie viele Einwohner leben in Eisenberg im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Kreisstadt mit über zehntausend Einwohnern wirkt städtisch dicht. Doch die Einwohner verteilen sich auf 24,67 Quadratkilometer Stadtfläche. So kommen 429 Menschen auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 31.12.2025) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "255-eisenberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Eisenberg",
+"steckbrief": "Kreisstadt mit rund 10.600 Einwohnern, 22 km östlich von Jena.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nach der Völkerschlacht übernachtete der Zar in Eisenberg.",
+"Luthers Reise zum Augsburger Reichstag führte über Eisenberg.",
+"Eisenberg blieb in der Reformation beim katholischen Glauben."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Zar klingt unglaublich, doch er wohnte nach der Völkerschlacht in einem Haus am Markt; der preußische Kronprinz kam im Gasthaus „Zum Bären“ unter. Gelogen ist der katholische Glaube: Eisenberg führte die Reformation ein, und Luther kam auf seinen Reisen durch die Stadt. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "255-eisenberg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eisenberg",
+"steckbrief": "Kreisstadt mit rund 10.600 Einwohnern, 22 km östlich von Jena.",
+"frage": "Bundestagswahl 2025 in der Verbandsgemeinde Eisenberg: Wie viel Prozent der Zweitstimmen holte die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 35 %",
+"35 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an das Bundesergebnis denkt, schätzt leicht zu niedrig. In der Stadt Eisenberg holte die AfD 43,8 Prozent der Zweitstimmen, mehr als doppelt so viel wie die CDU. Richtig war 3.",
+"quelle": "Thüringer Landesamt für Statistik, Bundestagswahl 2025, endgültiges Ergebnis (amtlich)",
+"faktencheck": "korrigiert",
+"id": "255-eisenberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenberg",
+"steckbrief": "Kreisstadt mit rund 10.600 Einwohnern, 22 km östlich von Jena.",
+"frage": "Landgraf Albrecht der Entartete verlieh Eisenberg 1274 das Stadtrecht. Welchen Anlass vermutet die Stadtgeschichte?",
+"optionen": [
+"Bei Eisenberg war Eisenerz gefunden worden.",
+"Die Bürger hatten ihn aus Gefangenschaft befreit.",
+"Er erfüllte so ein Gelübde nach einer Pilgerfahrt.",
+"Es hing mit einer Heirat zusammen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Ortsname lässt an Erz denken, doch die Stadtgeschichte nennt etwas Privates: Die Verleihung soll mit der Heirat einer Kunigunde von Eisenberg zusammengehangen haben. Albrecht war Landgraf von Thüringen und Pfalzgraf von Sachsen. Im selben Jahr bekam die Stadt auch ein Brauprivileg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stadt-eisenberg.de/stadt/stadtgeschichte/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "255-eisenberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Eisenberg",
+"steckbrief": "Kreisstadt mit rund 10.600 Einwohnern, 22 km östlich von Jena.",
+"frage": "Welche dieser Städte zählt Eisenberg zu seinen Partnerstädten?",
+"optionen": [
+"Stadthagen",
+"Bückeburg",
+"Minden",
+"Wunstorf"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bückeburg, Minden und Wunstorf liegen nahe Stadthagen und wirken darum ebenso passend. Zu Stadthagen gibt es eine Geschichte: Stadtdirektor Dietrich Kuckuck von dort half 1990 beim organisatorischen Aufbau vor der ersten Stadtverordnetenversammlung in Eisenberg. Weitere Partnerstädte sind Menden im Sauerland und Soissons. Richtig war 1.",
+"quelle": "Wikidata P190; Gemeinde-Webseite, www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten",
+"faktencheck": "unsicher",
+"id": "255-eisenberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenberg",
+"steckbrief": "Kreisstadt mit rund 10.600 Einwohnern, 22 km östlich von Jena.",
+"frage": "Der Sänger und Moderator Gunther Emmerlich wurde in Eisenberg geboren. Bei welchem Anlass bekam er 2003 die Bürgermeister-Clauß-Medaille der Stadt?",
+"optionen": [
+"Bei einer Fernsehshow aus Eisenberg.",
+"Vor seinem Benefizkonzert für die Stadtkirche.",
+"Bei der Eröffnung der neuen Stadthalle.",
+"Bei der Premiere eines Films über seine Heimatstadt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Fernsehstar denkt man an eine Sendung. Die Medaille bekam er aber im historischen Ratssaal, kurz vor einem Benefizkonzert in der Stadtkirche St. Peter. Die Kirche warb damit um Geld für den Aufbau des Dachreiters, eines kleinen Türmchens auf dem Kirchendach. Die neue Stadthalle eröffnete erst später; dabei wurde er Ehrenbürger. Die Medaille ist nach Bürgermeister Emil Theodor Clauß benannt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten",
+"faktencheck": "korrigiert",
+"id": "255-eisenberg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenberg",
+"steckbrief": "Kreisstadt mit rund 10.600 Einwohnern, 22 km östlich von Jena.",
+"frage": "Was verbirgt sich hinter den „Eisenberger Tagen“?",
+"optionen": [
+"Eine Gewerbeschau der Eisenberger Betriebe.",
+"Ein Treffen ehemaliger Bergleute aus dem Eisenbergbau.",
+"Ein Treffen gleichnamiger Orte aus mehreren Regionen.",
+"Ein Musikfestival in der Schlosskirche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Stadtfest. Tatsächlich treffen sich Vertreter namensgleicher Orte aus Thüringen, der Pfalz, dem Allgäu und dem Burgenland in Österreich. Sie tauschen Erfahrungen aus, stellen ihre Regionen vor und knüpfen Freundschaften. Die Idee hatten die damaligen Bürgermeister Adolf Kauth aus Eisenberg in der Pfalz und Burkhardt Wartner aus Eisenberg in Thüringen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten",
+"faktencheck": "korrigiert",
+"id": "255-eisenberg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eisenberg",
+"steckbrief": "Kreisstadt mit rund 10.600 Einwohnern, 22 km östlich von Jena.",
+"frage": "2000 verlieh Eisenberg zum ersten Mal die Bürgermeister-Clauß-Medaille, gleich an zehn Personen. Wer waren sie?",
+"optionen": [
+"Sie gehörten einer Widerstandsgruppe in der DDR an.",
+"Sie retteten die Schlosskirche vor dem Verfall.",
+"Sie stellten einen Guinness-Weltrekord im Staffellauf auf.",
+"Sie löschten einen Großbrand in der Altstadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadtmedaille denkt man an Retter oder Rekorde. Geehrt wurden aber die Mitglieder des „Eisenberger Kreises“: Jugendliche, die auf Missstände der DDR-Diktatur aufmerksam machten. Er gilt als eine der größten Widerstandsgruppen der DDR. Die Medaille würdigte ihren Einsatz für Freiheit und Demokratie. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stadt-eisenberg.de/stadt/stadtgeschichte/persoenlichkeiten",
+"faktencheck": "korrigiert",
+"id": "255-eisenberg/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "254-hermsdorf",
+"anschluss": [
+"Fläche: Eisenberg ist mehr als dreimal so groß wie Hermsdorf.",
+"Höhe: Hermsdorf liegt rund 40 Meter höher als Eisenberg."
+],
+"anschluesse": {
+"253-stadtroda": [
+"Eisenberg hat gut anderthalbmal so viele Einwohner wie Stadtroda."
+],
+"254-hermsdorf": [
+"Fläche: Eisenberg ist mehr als dreimal so groß wie Hermsdorf.",
+"Höhe: Hermsdorf liegt rund 40 Meter höher als Eisenberg."
+]
+},
+"ags": "16074018",
+"ortsteil": false,
+"km_vom_vorigen": 8.4
+},
+{
+"slug": "256-weissenfels",
+"name": "Weißenfels",
+"lat": 51.2,
+"lon": 11.96667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weißenfels",
+"steckbrief": "Stadt mit rund 37.000 Einwohnern, 31 km südlich von Halle (Saale).",
+"frage": "Luthers Frau Katharina stammte aus der Familie von Bora, die einst das Rittergut Saala bei Schkortleben hielt. Was wurde aus dem Dorf Saala?",
+"optionen": [
+"Saala ging im Braunkohleabbau unter.",
+"Saala wurde im Dreißigjährigen Krieg zerstört.",
+"Saala wurde aufgegeben und verschwand.",
+"Saala wuchs mit Schkortleben zusammen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Krieg liegt nahe: In Kriechau zerstörten schwedische Truppen im Dreißigjährigen Krieg die alte Kirche. Saala aber war schon Ende des 15. Jahrhunderts eine Wüstung, ein aufgegebenes Dorf neben Schkortleben. Damals hielt die Familie von Bora das Rittergut als Lehen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Historie-Chronologie/ und www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Schkortleben-mit-Ortsteil-Kriechau/Sehenswürdigkeiten/",
+"faktencheck": "korrigiert",
+"id": "256-weissenfels/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weißenfels",
+"steckbrief": "Stadt im Burgenlandkreis (Sachsen-Anhalt), 31 km südlich von Halle (Saale).",
+"frage": "Wie viele Menschen leben in Weißenfels?",
+"optionen": [
+"unter 15.000",
+"15.000 bis unter 25.000",
+"25.000 bis unter 35.000",
+"35.000 bis unter 45.000"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Im Schatten der Großstadt Halle schätzt man Weißenfels leicht zu klein. Doch zur Stadt gehören zahlreiche eingemeindete Ortsteile. Ende 2025 lebten 37.308 Menschen in Weißenfels. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "256-weissenfels/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Weißenfels",
+"steckbrief": "Stadt mit rund 37.000 Einwohnern, 31 km südlich von Halle (Saale).",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Novalis leitete die Hofkapelle der Weißenfelser Herzöge.",
+"Heinrich Schütz wohnte in der Weißenfelser Nicolaistraße.",
+"Die Neuberin gastierte im Schloss Neu-Augustusburg."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Novalis als Leiter der Hofkapelle klingt plausibel, denn Weißenfels war herzogliche Residenz. Doch als der Dichter und Philosoph Novalis kam, war die Residenz längst aufgelöst. Er wohnte in der Klosterstraße, sein Vater war Salinendirektor. Die Aussagen über Schütz und die Neuberin stimmen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "256-weissenfels/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Weißenfels",
+"steckbrief": "Stadt mit rund 37.000 Einwohnern, 31 km südlich von Halle (Saale).",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Weißenfels nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"BSW",
+"CDU",
+"AfD",
+"SPD"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das BSW liegt nahe, weil es im Osten stark abschnitt. In Weißenfels kam es auf 11,5 Prozent. Vorn lag die AfD mit 42,2 Prozent, Zweite wurde die CDU mit 19,1 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "256-weissenfels/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weißenfels",
+"steckbrief": "Stadt im Burgenlandkreis mit rund 37.000 Einwohnern, 31 km südlich von Halle (Saale).",
+"frage": "Johann Beer, Komponist und Schriftsteller am Weißenfelser Hof, starb im Jahr 1700. Was führte zu seinem Tod?",
+"optionen": [
+"Er erlag der Pest.",
+"Er wurde im Duell erschossen.",
+"Ihn traf ein Schuss beim Schützenfest.",
+"Er stürzte bei der Jagd vom Pferd."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Jagdunfall oder ein Duell liegt bei einem Höfling nahe. Johann Beer wurde jedoch bei einem Schützenfest von einem Schuss getroffen und starb an der Verletzung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "256-weissenfels/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weißenfels",
+"steckbrief": "Stadt mit rund 37.000 Einwohnern im Burgenlandkreis, 31 km südlich von Halle (Saale).",
+"frage": "Wie weit ist es von Weißenfels in Luftlinie bis zur Landeshauptstadt Magdeburg?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 80 km",
+"80 bis unter 100 km",
+"100 bis unter 120 km"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Halle liegt so nah, dass man auch die Landeshauptstadt in der Nähe vermutet. Magdeburg ist aber deutlich weiter entfernt: Von Weißenfels sind es 106 km Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "256-weissenfels/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weißenfels",
+"steckbrief": "Stadt mit rund 37.000 Einwohnern, 31 km südlich von Halle (Saale).",
+"frage": "Nach der Schlacht bei Lützen 1632 brachte man den toten Schwedenkönig Gustav II. Adolf nach Weißenfels. Wo wurde er einbalsamiert?",
+"optionen": [
+"Er wurde im Geleitshaus einbalsamiert.",
+"Er wurde im Schloss Neu-Augustusburg einbalsamiert.",
+"Er wurde im städtischen Schlachthof einbalsamiert.",
+"Er wurde im Amtsgericht einbalsamiert."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Für einen König liegt ein Schloss nahe, doch den Grundstein von Neu-Augustusburg legte man erst Jahrzehnte später. Gustav II. Adolf wurde im Geleitshaus obduziert und einbalsamiert. Später weihte man ihm an der Friedrichstraße einen Gedenkstein aus einem Granitfindling. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "256-weissenfels/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weißenfels",
+"steckbrief": "Stadt im Burgenlandkreis mit rund 37.000 Einwohnern, 31 km südlich von Halle (Saale).",
+"frage": "1710 wurde in Langendorf, heute ein Ortsteil von Weißenfels, ein Waisenhaus gegründet. Wer gründete es?",
+"optionen": [
+"Das Zisterzienserkloster in Langendorf gründete es.",
+"Der Pfarrer von Langendorf gründete es.",
+"Ein reicher Kaufmann aus Weißenfels gründete es.",
+"Ein Fuhrmann aus Langendorf gründete es."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Kloster oder Pfarrer liegen nahe, weil Waisenpflege oft Sache der Kirche war. Das Langendorfer Kloster bestand aber seit der Reformation nicht mehr. Gegründet hat das Waisenhaus Christoph Buchen, ein Fuhrmann aus Langendorf, unterstützt von der Herzogsfamilie. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Langendorf/Historie-Chronologie/",
+"faktencheck": "bestätigt",
+"id": "256-weissenfels/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weißenfels",
+"steckbrief": "Stadt mit rund 37.000 Einwohnern, 31 km südlich von Halle (Saale).",
+"frage": "Tagewerben, Burgwerben, Reichardtswerben und Markwerben: Wie kamen die vier Werben-Dörfer der Überlieferung nach zu ihren Namen?",
+"optionen": [
+"Jedes Dorf hieß nach seinem Hauptgewerbe.",
+"Vier Söhne eines Siedlers gründeten je ein Dorf.",
+"Ein Markgraf benannte sie nach vier Rittern.",
+"Jedes Dorf hieß nach seinem Kirchenpatron."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Werben“ klingt nach Gewerbe, das macht die Deutung verlockend. Die Sage im Reichardtswerbener Kirchenbuch erzählt anders: Ein Ansiedler teilte seinen Weidebesitz unter vier Söhne auf, Taco, Burco, Richard und Marco, die je ein Dorf gründeten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.weissenfels.de/Stadt-Ortschaften/Ortschaften/Tagewerben/Historie-Chronologie/",
+"faktencheck": "bestätigt",
+"id": "256-weissenfels/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weißenfels",
+"steckbrief": "Stadt im Burgenlandkreis mit rund 37.000 Einwohnern, 31 km südlich von Halle (Saale).",
+"frage": "Um 1900 arbeiteten in Weißenfels 3.200 Menschen in 64 Fabriken derselben Branche. Welcher?",
+"optionen": [
+"Die Fabriken verarbeiteten Zuckerrüben zu Zucker.",
+"Die Fabriken webten Tuche und Stoffe.",
+"Die Fabriken stellten Schuhe her.",
+"Die Fabriken bauten Fahrräder."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Zuckerrüben liegen nahe, denn Mitteldeutschland ist für fruchtbare Böden bekannt. Doch in den Fabriken entstanden Schuhe: Weißenfels galt damals neben Pirmasens als zweitgrößtes deutsches Zentrum der Schuhherstellung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.weissenfels.de/Stadt-Ortschaften/Weißenfels/Stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "256-weissenfels/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "255-eisenberg",
+"anschluss": [
+"Einwohner: Weißenfels hat mehr als dreimal so viele wie Eisenberg.",
+"Fläche: Weißenfels ist über viermal so groß wie Eisenberg."
+],
+"anschluesse": {
+"257-bad-duerrenberg": [
+"Kreisgrenze: Bad Dürrenberg gehört zum Saalekreis, Weißenfels zum Burgenlandkreis.",
+"Weißenfels hat fast dreieinhalbmal so viele Einwohner wie Bad Dürrenberg."
+],
+"255-eisenberg": [
+"Einwohner: Weißenfels hat mehr als dreimal so viele wie Eisenberg.",
+"Fläche: Weißenfels ist über viermal so groß wie Eisenberg."
+]
+},
+"ags": "15084550",
+"ortsteil": false,
+"km_vom_vorigen": 26.2
+},
+{
+"slug": "257-bad-duerrenberg",
+"name": "Bad Dürrenberg",
+"lat": 51.29545,
+"lon": 12.06583,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Dürrenberg",
+"steckbrief": "Stadt im Saalekreis mit rund 11.500 Einwohnern, 22 km südlich von Halle (Saale).",
+"frage": "Ab 1741 wurde hier nach Sole gebohrt. Was unterbrach die Arbeiten im Jahr 1757?",
+"optionen": [
+"Ein Hochwasser der Saale flutete das Bohrloch.",
+"Der Siebenjährige Krieg unterbrach die Arbeiten.",
+"Johann Gottfried Borlach starb mitten in den Arbeiten.",
+"Die Pest legte die Arbeiten still."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Hochwasser liegt nahe, denn die Stadt liegt an der Saale. Doch es war der Siebenjährige Krieg, der die Bohrung stoppte. Danach ging die Arbeit weiter; nach dem kursächsischen Bergrat Johann Gottfried Borlach heißt der Schacht bis heute Borlachschacht. Gesucht wurde Sole, also salzhaltiges Wasser. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Dürrenberg",
+"faktencheck": "unsicher",
+"id": "257-bad-duerrenberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Dürrenberg",
+"steckbrief": "Stadt im Saalekreis mit rund 11.500 Einwohnern, 22 km südlich von Halle (Saale).",
+"frage": "Wie groß ist das gesamte Stadtgebiet von Bad Dürrenberg?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 30 km²",
+"30 bis unter 45 km²",
+"45 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt erwartet man eher wenig Fläche. Doch zur Stadt gehören auch Ortsteile wie Tollwitz und Nempitz mit ihren Dörfern; zusammen sind es rund 36 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "257-bad-duerrenberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Dürrenberg",
+"steckbrief": "Stadt im Saalekreis mit rund 11.500 Einwohnern, 22 km südlich von Halle (Saale).",
+"frage": "Wie hoch war die Wahlbeteiligung in Bad Dürrenberg bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 76 %",
+"76 bis unter 80 %",
+"80 bis unter 84 %",
+"84 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit war die Beteiligung 2025 hoch, das lockt zu den oberen Spannen. In Bad Dürrenberg gingen aber 75,1 Prozent der Wahlberechtigten zur Wahl. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "257-bad-duerrenberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Dürrenberg",
+"steckbrief": "Stadt im Saalekreis mit rund 11.500 Einwohnern, 22 km südlich von Halle (Saale).",
+"frage": "Im Kurpark kam 1934 das steinzeitliche Grab einer Schamanin mit Kind ans Licht. Wobei wurde es entdeckt?",
+"optionen": [
+"Arbeiter stießen beim Braunkohleabbau darauf.",
+"Arbeiter stießen bei Kanalbauarbeiten darauf.",
+"Ein Sturm entwurzelte einen Baum über dem Grab.",
+"Arbeiter stießen beim Bohren nach Sole darauf."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bohren nach Sole liegt in einer Solestadt nahe. Doch die Schamanin kam bei Kanalbauarbeiten ans Licht; geborgen wurde sie an einem einzigen Nachmittag. Sie lebte in der Mittelsteinzeit; der Fund liegt im Landesmuseum für Vorgeschichte in Halle. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Dürrenberg",
+"faktencheck": "korrigiert",
+"id": "257-bad-duerrenberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Dürrenberg",
+"steckbrief": "Stadt im Saalekreis mit rund 11.500 Einwohnern, 22 km südlich von Halle (Saale).",
+"frage": "Wie weit ist es von Bad Dürrenberg in Luftlinie bis zur Landeshauptstadt Magdeburg?",
+"optionen": [
+"unter 40 km",
+"40 bis unter 80 km",
+"80 bis unter 120 km",
+"120 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Sachsen-Anhalt wirkt überschaubar, also schätzen viele Magdeburg näher. Doch Bad Dürrenberg liegt noch südlich von Halle; bis Magdeburg sind es 98 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "257-bad-duerrenberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "… Hier liegt ein Tunnel von 1836, der als erster Eisenbahntunnel Deutschlands gilt. Bis wann fuhr die Tollwitz-Dürrenberger Eisenbahn? 1.–4. wie bisher. RÜCKSEITE: Du hattest [Option] getippt. Wer an frühe Bahnen denkt, erwartet ein kurzes Leben, weil viele Pionierstrecken bald umgebaut wurden. Doch die schmalspurige Kohlebahn brachte von 1836 bis 1935 Braunkohle aus Tollwitz zur Saline. Richtig war 4.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an frühe Bahnen denkt, erwartet ein kurzes Leben, weil viele Pionierstrecken bald umgebaut wurden. Doch die schmalspurige Tollwitz-Dürrenberger Eisenbahn fuhr von 1836 bis 1935 durch den Tunnel. Im selben Jahr endete in Tollwitz auch der Braunkohleabbau. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Dürrenberg",
+"faktencheck": "korrigiert",
+"id": "257-bad-duerrenberg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Dürrenberg",
+"steckbrief": "Stadt im Saalekreis mit rund 11.500 Einwohnern, 22 km südlich von Halle (Saale).",
+"frage": "Bei einem traditionellen Fest im September führen die Dürrenberger ein kleines Spiel auf. Welches Ereignis stellt es nach?",
+"optionen": [
+"Sie zeigen den Besuch eines Kurfürsten.",
+"Sie zeigen die Eröffnung des Eisenbahntunnels.",
+"Sie zeigen die Erschließung der Solequelle.",
+"Sie zeigen die Verleihung der Stadtrechte."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Stadtrechte lägen nahe, denn Stadtfeste feiern oft ihre Gründung. Doch beim Brunnenfest stellt das kleine Borlachspiel die Erschließung der Solequelle nach. Das Fest steht im Bundesweiten Verzeichnis des immateriellen Kulturerbes. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Dürrenberg",
+"faktencheck": "unsicher",
+"id": "257-bad-duerrenberg/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Dürrenberg",
+"steckbrief": "Stadt im Saalekreis mit rund 11.500 Einwohnern, 22 km südlich von Halle (Saale).",
+"frage": "Das Gradierwerk von Bad Dürrenberg ist heute 636 Meter lang. Wie lang war es zur Zeit der Weimarer Republik?",
+"optionen": [
+"Es maß damals 418 Meter.",
+"Es maß damals 1.821 Meter.",
+"Es maß damals 940 Meter.",
+"Es maß damals 3.250 Meter."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass es mit dem Badebetrieb gewachsen ist. Doch es ist geschrumpft: In der Weimarer Republik maß es 1.821 Meter. Gebaut wurde es für die Salzgewinnung. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Dürrenberg",
+"faktencheck": "unsicher",
+"id": "257-bad-duerrenberg/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "256-weissenfels",
+"anschluss": [
+"Nachbarn: Weißenfels grenzt im Westen an Bad Dürrenberg.",
+"Einwohner: Weißenfels ist gut dreimal so groß wie Bad Dürrenberg."
+],
+"anschluesse": {
+"256-weissenfels": [
+"Nachbarn: Weißenfels grenzt im Westen an Bad Dürrenberg.",
+"Einwohner: Weißenfels ist gut dreimal so groß wie Bad Dürrenberg."
+],
+"258-schkeuditz": [
+"Landesgrenze: Schkeuditz liegt in Sachsen, Bad Dürrenberg in Sachsen-Anhalt.",
+"Schkeuditz hat gut anderthalbmal so viele Einwohner wie Bad Dürrenberg."
+]
+},
+"ags": "15088020",
+"ortsteil": false,
+"km_vom_vorigen": 12.7
+},
+{
+"slug": "258-schkeuditz",
+"name": "Schkeuditz",
+"lat": 51.4,
+"lon": 12.21667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schkeuditz",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 13 km nordwestlich von Leipzig.",
+"frage": "Die Stadtgeschichte vermutet, die Kirche von Schkeuditz sei schon vor 968 gegründet worden. Welchen Grund nennt sie?",
+"optionen": [
+"Ihr Weihename St. Alban gilt in Sachsen als einmalig.",
+"Eine Inschrift im Mauerwerk nennt ein frühes Baujahr.",
+"Unter ihrem Boden fand man ältere Gräber.",
+"Ein Chronist berichtet ausdrücklich von ihrer Weihe."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein so frühes Datum erwartet man von Inschriften, Grabungen oder Chroniken. Die Stadtgeschichte schließt es aber aus dem Namen: St. Alban gilt als Weihename in Sachsen als einmalig. Deshalb ist die Kirche vermutlich älter als die Bistumsgründung. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/",
+"faktencheck": "korrigiert",
+"id": "258-schkeuditz/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schkeuditz",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 13 km nordwestlich von Leipzig.",
+"frage": "Wie groß ist das gesamte Stadtgebiet von Schkeuditz mit allen Ortsteilen?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 90 km²",
+"90 bis unter 120 km²",
+"120 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Kleinstadt im Speckgürtel von Leipzig stellt man sich kompakt vor. Doch zum Stadtgebiet gehören Dörfer wie Dölzig und Glesien, dazu der Bahnhof Leipzig/Halle Flughafen. Zusammen sind das 81,47 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "258-schkeuditz/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Schkeuditz",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 13 km nordwestlich von Leipzig.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nördlich des Bahnhofs stand einst eine Pianofabrik.",
+"Die Sternburg-Brauerei braute hier einst Braunbier.",
+"Die Bahn nach Dresden brachte die Industrie her."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Bahn nach Dresden liegt nahe, doch die Industrie kam mit einer anderen Strecke: Halle–Leipzig der Magdeburg-Leipziger Eisenbahn. Mit ihr begann die Industriegeschichte. Nördlich des Bahnhofs siedelten sich die ersten Fabriken an, darunter eine Pianofabrik. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/",
+"faktencheck": "korrigiert",
+"id": "258-schkeuditz/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schkeuditz",
+"steckbrief": "Sächsische Stadt mit rund 19.000 Einwohnern, 13 km nordwestlich von Leipzig.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Schkeuditz bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Rand einer Großstadt wie Leipzig erwartet man oft ein zersplittertes Ergebnis. In Schkeuditz lag die AfD aber klar vorn: 38,3 Prozent der Zweitstimmen, deutlich vor der CDU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "258-schkeuditz/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schkeuditz",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 13 km nordwestlich von Leipzig.",
+"frage": "Das Stadtwappen zeigt den heiligen Albanus, seinen Kopf in den Händen. Wer schlug ihm laut Legende den Kopf ab?",
+"optionen": [
+"Hunnen schlugen dem Bischof den Kopf ab.",
+"Slawische Krieger köpften ihn bei einem Überfall.",
+"Wikinger enthaupteten ihn auf einer Missionsreise.",
+"Sarazenen richteten ihn auf einer Pilgerfahrt hin."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Schkeuditzer Heiligen denkt man an die Slawen, die hier einst siedelten. Die Legende nennt aber die Hunnen. Eine später entstandene Sage macht ihn zum Leinenwebergesellen, der des Diebstahls bezichtigt wurde: Um seine Unschuld zu beweisen, wollte er seinen Kopf auf der Bibel auffangen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/",
+"faktencheck": "korrigiert",
+"id": "258-schkeuditz/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schkeuditz",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 13 km nordwestlich von Leipzig.",
+"frage": "Wie viele Menschen leben in Schkeuditz im Durchschnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 600",
+"600 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. So nah an Leipzig erwartet man eine dicht bebaute Vorstadt. Doch zu Schkeuditz zählen auch Ortsteile mit romanischen Dorfkirchen, etwa Radefeld und Wolteritz. Rechnerisch leben 235 Menschen auf einem Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "258-schkeuditz/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schkeuditz",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 13 km nordwestlich von Leipzig.",
+"frage": "Die Dorfkirche im Ortsteil Kursdorf, heute zwischen Autobahn und Flughafen, gehörte kirchlich einst zu Schkeuditz. Welchen Grund nennt die Stadt dafür, dass sie in den Fünfzigerjahren zu einem anderen Kirchenkreis kam?",
+"optionen": [
+"Kursdorf und Schkeuditz stritten um die Glocken.",
+"Die Kursdorfer lehnten den neuen Pfarrer ab.",
+"Der Schkeuditzer Pfarrer hing oft an Bahnschranken fest.",
+"Kursdorf zahlte seine Kirchenabgaben nicht mehr."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Wechsel des Kirchenkreises vermutet man Streit oder Geld. Die Stadt nennt aber den Weg als Grund: Der Schkeuditzer Pfarrer wurde oft von den Bahnschranken aufgehalten und kam deshalb immer wieder zu spät. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/kirchentour/",
+"faktencheck": "korrigiert",
+"id": "258-schkeuditz/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schkeuditz",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 13 km nordwestlich von Leipzig.",
+"frage": "1864 malte der Münchner Joseph Puschkin eine Straßenkreuzung in Schkeuditz als Aquarell. Was war wahrscheinlich der Anlass?",
+"optionen": [
+"Die Stadt bestellte ein Bild für ihr Rathaus.",
+"Eine neue Fabrik bestellte das Bild wohl.",
+"Ein Verlag suchte Ansichten für einen Reiseführer.",
+"Er lebte damals als Kunstlehrer in Schkeuditz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Künstler aus München, der eine Kreuzung malt, lässt an Reisebilder denken. Wahrscheinlich war das Aquarell aber ein Auftragswerk der Maschinenfabrik für landwirtschaftliche Geräte, die kurz zuvor gegründet worden war. Es zeigt die Berliner Straße an der Kreuzung zur heutigen Industriestraße. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ NEGATIVNACHWEIS NEU 4: Die Quelle sagt, Puschkin sei „zunächst in Hamburg und später in München tätig“ gewesen. Er lebte also nicht in Schkeuditz.",
+"faktencheck": "korrigiert",
+"id": "258-schkeuditz/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schkeuditz",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 13 km nordwestlich von Leipzig.",
+"frage": "Im Ortsteil Hayna wurde der Kirchturm um 1975 wegen Baufälligkeit abgetragen. Wo blieb eine der alten Glocken danach?",
+"optionen": [
+"Sie stand im Pfarrgarten von Radefeld.",
+"Sie lagerte im Stadtmuseum Schkeuditz.",
+"Sie hing im Turm der Kirche Wolteritz.",
+"Sie lag im Kirchenschiff von Hayna."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am nächsten liegt, die Glocke im eigenen Kirchenschiff zu verwahren. Doch sie stand im Pfarrgarten von Radefeld, und Hayna blieb lange ohne Glockenklang. Heute hängt sie wieder in Hayna, in einem freistehenden neuen Glockentürmchen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/kirchentour/",
+"faktencheck": "bestätigt",
+"id": "258-schkeuditz/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "257-bad-duerrenberg",
+"anschluss": [
+"Kennzeichen: In Bad Dürrenberg steht SK, in Schkeuditz TO.",
+"Schkeuditz hat rund 19.100 Einwohner, Bad Dürrenberg rund 11.500."
+],
+"anschluesse": {
+"257-bad-duerrenberg": [
+"Kennzeichen: In Bad Dürrenberg steht SK, in Schkeuditz TO.",
+"Schkeuditz hat rund 19.100 Einwohner, Bad Dürrenberg rund 11.500."
+],
+"259-landsberg-saalekreis": [
+"Landesgrenze: Landsberg liegt in Sachsen-Anhalt, Schkeuditz in Sachsen.",
+"Schkeuditz hat rund 4.500 Einwohner mehr als Landsberg."
+]
+},
+"ags": "14730270",
+"ortsteil": false,
+"km_vom_vorigen": 15.6
+},
+{
+"slug": "259-landsberg-saalekreis",
+"name": "Landsberg",
+"lat": 51.52463,
+"lon": 12.15963,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landsberg",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 13 km östlich von Halle (Saale).",
+"frage": "Landsberg erhielt 1597 das Stadtrecht. Welche Besonderheit war damit verbunden?",
+"optionen": [
+"Die Stadt musste sich mit einer Mauer umgeben.",
+"Die Stadt durfte nur einmal jährlich Markt halten.",
+"Die Stadt durfte kein eigenes Bier brauen.",
+"Die Stadt durfte keine Mauern und Zinnen errichten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Zu einer Stadt gehörten damals meist Mauer, Tore und Türme – das liegt nahe. Landsberg aber durfte keine Mauern und Zinnen errichten und wurde ein offenes Landstädtchen. Richtig war 4.",
+"quelle": "Stadt Landsberg, stadt-landsberg.de/de/chronik.html; Wikipedia, de.wikipedia.org/wiki/Landsberg_(Saalekreis)“ Vermerk: Für das Mauerverbot fehlt ein zweiter wörtlicher Beleg.",
+"faktencheck": "korrigiert",
+"id": "259-landsberg-saalekreis/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Landsberg",
+"steckbrief": "Stadt im Saalekreis mit rund 14.700 Einwohnern, 13 km östlich von Halle (Saale).",
+"frage": "Wie viele Einwohner leben in Landsberg im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 600",
+"600 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. So nah an Halle erwartet man vorstädtische Dichte. Doch das Stadtgebiet ist weitläufig: Im Schnitt leben 117 Einwohner auf einem Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "259-landsberg-saalekreis/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Landsberg",
+"steckbrief": "Stadt in Sachsen-Anhalt mit rund 14.700 Einwohnern, 13 km östlich von Halle (Saale).",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Doppelkapelle St. Crucis entstand im Barockstil.",
+"Ein Postmeister gründete das Heimatmuseum in Landsberg.",
+"Ein Landsberger Arzt schrieb über Burg und Stadt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Postmeister als Museumsgründer klingt erfunden – stimmt aber: Paul Sannemann gründete das Heimatmuseum. Gelogen ist der Barock: Doppelkapellen gehören meist ins Mittelalter, und St. Crucis ist romanisch. Auch der Arzt Rolf Kutscher schrieb wirklich über Burg und Stadt. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.stadt-landsberg.de/de/museum-bernhard-bruehl0.html",
+"faktencheck": "bestätigt",
+"id": "259-landsberg-saalekreis/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Landsberg",
+"steckbrief": "Stadt in Sachsen-Anhalt mit rund 14.700 Einwohnern, 13 km östlich von Halle (Saale).",
+"frage": "Welche Partei wurde in Landsberg bei der Bundestagswahl 2025 bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"BSW",
+"CDU",
+"SPD"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe – sie wurde aber stärkste Kraft. Zweitstärkste Partei war die CDU mit 20,8 Prozent, klar vor BSW und SPD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "259-landsberg-saalekreis/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landsberg",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 13 km östlich von Halle (Saale).",
+"frage": "Das Museum Bernhard Brühl in Landsberg geht unter anderem auf die Sammlung seines Namensgebers zurück. Wie entstand sie?",
+"optionen": [
+"Ein Pfarrer sammelte Funde aus seinen Dörfern.",
+"Ein Förster sammelte Tiere und Pflanzen seines Reviers.",
+"Ein Kaufmann trug Stücke von seinen Reisen zusammen.",
+"Ein Lehrer sammelte gemeinsam mit seinen Schülern."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Pfarrer liegt nahe, denn auf dem Land führten oft Pfarrer die Ortschronik. Bernhard Brühl aber kam als Lehrer nach Gütz und sammelte mit seinen Schülern naturkundliche und historische Sachzeugen. In einem Jugendheim in Petersdorf wurde daraus ein Museum. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stadt-landsberg.de/de/museum-bernhard-bruehl0.html",
+"faktencheck": "korrigiert",
+"id": "259-landsberg-saalekreis/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Landsberg",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 13 km östlich von Halle (Saale).",
+"frage": "Zu welchem Landkreis gehört Landsberg?",
+"optionen": [
+"Saalekreis",
+"Landkreis Anhalt-Bitterfeld",
+"Burgenlandkreis",
+"Landkreis Nordsachsen"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nordsachsen liegt nahe, denn bis Leipzig ist es nicht weit. Doch Landsberg liegt in Sachsen-Anhalt und gehört zum Saalekreis; sein Hauptkennzeichen ist SK. Richtig war 1.",
+"quelle": "Wikipedia-Infobox (dewiki), de.wikipedia.org/wiki/Landsberg_(Saalekreis)",
+"faktencheck": "bestätigt",
+"id": "259-landsberg-saalekreis/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landsberg",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 13 km östlich von Halle (Saale).",
+"frage": "Der in Landsberg geborene Gottlieb Hiller war Schriftsteller. Was war er außerdem?",
+"optionen": [
+"Er arbeitete als Dorfpfarrer.",
+"Er arbeitete als Schulmeister.",
+"Er arbeitete als Tagelöhner.",
+"Er arbeitete als Apotheker."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer schrieb, hatte damals oft studiert – Pfarrer oder Lehrer liegen also nahe. Gottlieb Hiller aber war Tagelöhner und Schriftsteller. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Landsberg_(Saalekreis)",
+"faktencheck": "bestätigt",
+"id": "259-landsberg-saalekreis/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landsberg",
+"steckbrief": "Stadt im Saalekreis mit rund 14.700 Einwohnern, 13 km östlich von Halle (Saale).",
+"frage": "Das inoffizielle Wappen der Ortschaft Landsberg zeigt eine strahlende goldene Sonne. Wofür steht sie?",
+"optionen": [
+"Sie steht für das Osterland.",
+"Sie steht für den Weinbau am Kapellenberg.",
+"Sie steht für die Sonnenuhr am Rathaus.",
+"Sie steht für die Doppelkapelle St. Crucis."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Doppelkapelle liegt nahe, sie ist das Wahrzeichen der Stadt. Die Sonne aber steht für das Osterland, eine historische Landschaft. Die blauen Pfähle darunter heißen Landsberger Pfähle und gehen auf die meißnischen Markgrafen zurück. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Landsberg_(Saalekreis)",
+"faktencheck": "unsicher",
+"id": "259-landsberg-saalekreis/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "258-schkeuditz",
+"anschluss": [
+"Je 13 Kilometer Luftlinie: Landsberg nach Halle, Schkeuditz nach Leipzig.",
+"Bundestagswahl 2025: Wahlbeteiligung in Landsberg 83, in Schkeuditz 78,6 Prozent."
+],
+"anschluesse": {
+"258-schkeuditz": [
+"Je 13 Kilometer Luftlinie: Landsberg nach Halle, Schkeuditz nach Leipzig.",
+"Bundestagswahl 2025: Wahlbeteiligung in Landsberg 83, in Schkeuditz 78,6 Prozent."
+]
+},
+"ags": "15088195",
+"ortsteil": false,
+"km_vom_vorigen": 14.4
+},
+{
+"slug": "260-dessau-rosslau",
+"name": "Dessau-Roßlau",
+"lat": 51.83333,
+"lon": 12.23333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dessau-Roßlau",
+"steckbrief": "Stadt mit rund 75.000 Einwohnern, 43 km nordöstlich von Halle (Saale).",
+"frage": "Ludwig Binder galt lange als alleiniger Baumeister des Dessauer Johannbaus. Was spricht laut Stadtgeschichte dagegen?",
+"optionen": [
+"Am Treppenturm fehlt jedes Steinmetzzeichen von ihm.",
+"Er war bei Baubeginn schon gestorben.",
+"Er war bei Baubeginn noch ein Jugendlicher.",
+"Er hat nie für Anhalts Fürsten gearbeitet."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Fehlende Steinmetzzeichen wären ein starkes Indiz – doch Binders Zeichen sind am Treppenturm noch heute sichtbar. Der wahre Haken: Bei Baubeginn war er erst 16 Jahre alt. Vermutlich entstand der Johannbau als Gemeinschaftswerk mit Bastian Binder. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/der-johannbau.html",
+"faktencheck": "korrigiert",
+"id": "260-dessau-rosslau/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dessau-Roßlau",
+"steckbrief": "Stadt mit rund 75.000 Einwohnern, 43 km nordöstlich von Halle (Saale).",
+"frage": "Wie viele Menschen leben in Dessau-Roßlau durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 300",
+"300 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt mit 75.000 Einwohnern klingt nach enger Bebauung. Doch Dessau-Roßlau ist weitläufig: 75.035 Menschen verteilen sich auf rund 245 Quadratkilometer, rechnerisch 307 je Quadratkilometer. Großstädte liegen meist weit darüber. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "260-dessau-rosslau/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Dessau-Roßlau",
+"steckbrief": "Stadt mit rund 75.000 Einwohnern, 43 km nordöstlich von Halle (Saale).",
+"frage": "Fürst Leopold I. von Anhalt-Dessau ging als „Alter Dessauer“ in die Geschichte ein. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Er heiratete die Tochter eines Apothekers.",
+"Er kämpfte bei Kesselsdorf gegen Preußen.",
+"Er baute Magdeburg zur Festung aus."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Als Fürst eines eigenen Landes hätte Leopold durchaus gegen Preußen stehen können. Doch seine Neuerungen wie Drill und Gleichschritt kamen dem preußischen Militär zugute, und die Schlacht bei Kesselsdorf entschied er zugunsten Friedrichs II. Seine Frau Anna Luise Föse war Apothekerstochter. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html",
+"faktencheck": "bestätigt",
+"id": "260-dessau-rosslau/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dessau-Roßlau",
+"steckbrief": "Stadt mit rund 75.000 Einwohnern, 43 km nordöstlich von Halle (Saale).",
+"frage": "Wie hoch war die Wahlbeteiligung in Dessau-Roßlau bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit war die Beteiligung 2025 hoch, da liegt ein höherer Wert nahe. In Dessau-Roßlau lag sie bei 76,3 Prozent. Stärkste Kraft wurde die AfD, vor CDU und SPD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "260-dessau-rosslau/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dessau-Roßlau",
+"steckbrief": "Stadt mit rund 75.000 Einwohnern, 43 km nordöstlich von Halle (Saale).",
+"frage": "Der Treppenturm des Dessauer Johannbaus wurde selbst zum Vorbild. Wofür?",
+"optionen": [
+"Er war Vorbild für den Meißner Wendelstein.",
+"Er war Vorbild für das Wittenberger Schloss.",
+"Er war Vorbild für den Torgauer Wendelstein.",
+"Er war Vorbild für die Moritzburg in Halle."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Meißens berühmter Wendelstein drängt sich auf – er ist aber älter als der Dessauer Turm. Der Johannbau, einst Westflügel des Residenzschlosses, entstand unter Fürst Johann IV.; sein Treppenturm über einem kubischen Sockelbau wurde Vorbild für den Großen Wendelstein im Torgauer Schloss. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/der-johannbau.html",
+"faktencheck": "bestätigt",
+"id": "260-dessau-rosslau/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Dessau-Roßlau",
+"steckbrief": "Stadt mit rund 75.000 Einwohnern, 43 km nordöstlich von Halle (Saale).",
+"frage": "Eine dieser Städte ist Partnerstadt von Dessau-Roßlau. Welche?",
+"optionen": [
+"Mannheim",
+"Worms",
+"Speyer",
+"Ludwigshafen am Rhein"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Mannheim, Worms und Speyer liegen ebenfalls am Rhein, doch partnerschaftlich verbunden ist Dessau-Roßlau seit 1988 mit Ludwigshafen am Rhein, dazu unter anderem mit Klagenfurt am Wörthersee, Argenteuil, Gleiwitz und Ibbenbüren. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, verwaltung.dessau-rosslau.de/stadt-buerger/stadtportraet/staedtepartnerschaften.html",
+"faktencheck": "korrigiert",
+"id": "260-dessau-rosslau/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dessau-Roßlau",
+"steckbrief": "Stadt mit rund 75.000 Einwohnern, 43 km nordöstlich von Halle (Saale).",
+"frage": "1925/26 kam das Bauhaus nach Dessau. Wie nahm die Stadt seine Ankunft laut Stadtmuseum auf?",
+"optionen": [
+"Seine Ankunft war umstritten und wurde kritisiert.",
+"Die Stadt empfing es einhellig begeistert.",
+"Die Bürger nahmen kaum Notiz davon.",
+"Kritik kam erst Jahrzehnte nach der Ankunft."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mit dem heutigen Ruhm des Bauhauses im Kopf liegt einhellige Begeisterung nahe. Kulturschaffende, Politiker und Industrielle erhofften sich von der Hochschule für Gestaltung zwar ein modernes Image und Lösungen für den Wohnungsbau. Doch der Aufbruch war umstritten, kritische Stimmen begleiteten ihn. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/sonderausstellung.html",
+"faktencheck": "korrigiert",
+"id": "260-dessau-rosslau/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dessau-Roßlau",
+"steckbrief": "Stadt mit rund 75.000 Einwohnern, 43 km nordöstlich von Halle (Saale).",
+"frage": "1336 überließ der Fürst dem Dessauer Rat ein Gebäude als Rathaus. Was war es vorher?",
+"optionen": [
+"Es war eine Herberge für Pilger.",
+"Es war ein Kaufhaus der Tuchhändler.",
+"Es war ein Zollhaus an der Elbe.",
+"Es war eine Kapelle der Stadtkirche."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Rathaus aus zweiter Hand – da denkt man an Herberge oder Kapelle. Tatsächlich war das „cophus“ das Kaufhaus der Tuchhändler. Es ging beim großen Stadtbrand unter; die späteren Rathausbauten folgten an gleicher Stelle. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html",
+"faktencheck": "korrigiert",
+"id": "260-dessau-rosslau/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dessau-Roßlau",
+"steckbrief": "Stadt mit rund 75.000 Einwohnern, 43 km nordöstlich von Halle (Saale).",
+"frage": "1626, im Dreißigjährigen Krieg, wurde an der Dessauer Elbbrücke gekämpft. Wer gewann die Schlacht?",
+"optionen": [
+"Die Protestanten unter Ernst von Mansfeld siegten.",
+"Die Schweden unter Gustav Adolf siegten.",
+"Die Dänen unter Christian IV. siegten.",
+"Die Katholiken unter Wallenstein siegten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Anhalt war seit der Reformation protestantisch – da liegt ein Sieg Mansfelds nahe. Doch an der Elbbrücke setzte sich die katholische Seite unter Wallenstein durch; Ernst von Mansfelds protestantische Truppen unterlagen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html",
+"faktencheck": "bestätigt",
+"id": "260-dessau-rosslau/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dessau-Roßlau",
+"steckbrief": "Stadt mit rund 75.000 Einwohnern, 43 km nordöstlich von Halle (Saale).",
+"frage": "Dessau war Haupt- und Residenzstadt des Landes Anhalt. Woher hat Anhalt seinen Namen?",
+"optionen": [
+"Er geht auf eine Raststation für Fuhrleute zurück.",
+"Das Land ist nach einer Burg benannt.",
+"Das Land ist nach einem Bach benannt.",
+"Er geht auf einen alten Gerichtsplatz zurück."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach „anhalten“, nach einer Rast unterwegs. Tatsächlich stammt er von der Burg „Anhalt“ bei Harzgerode. Aus der Grafschaft wurde später ein Fürstentum, dann ein Herzogtum mit Dessau als Hauptstadt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/gemeinsam-sind-wir-anhalt.html",
+"faktencheck": "bestätigt",
+"id": "260-dessau-rosslau/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "259-landsberg-saalekreis",
+"anschluss": [
+"Dessau-Roßlau hat gut fünfmal so viele Einwohner wie Landsberg.",
+"Bundestagswahl 2025: Landsberg und Dessau-Roßlau wählten genau 20,8 Prozent CDU."
+],
+"anschluesse": {
+"261-coswig-anhalt": [
+"Kreisgrenze: Coswig (Anhalt) gehört zum Landkreis Wittenberg, Dessau-Roßlau ist kreisfrei.",
+"Dessau-Roßlau hat siebenmal so viele Einwohner wie Coswig (Anhalt)."
+],
+"259-landsberg-saalekreis": [
+"Dessau-Roßlau hat gut fünfmal so viele Einwohner wie Landsberg.",
+"Bundestagswahl 2025: Landsberg und Dessau-Roßlau wählten genau 20,8 Prozent CDU."
+]
+},
+"ags": "15001000",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 34.7
+},
+{
+"slug": "261-coswig-anhalt",
+"name": "Coswig (Anhalt)",
+"lat": 51.88333,
+"lon": 12.43333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Coswig (Anhalt)",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).",
+"frage": "Coswig wird 1187 erstmals in einer Urkunde erwähnt. Von wem stammt diese Urkunde?",
+"optionen": [
+"Sie stammt aus der Kanzlei des Kaisers.",
+"Sie stammt vom Bischof von Brandenburg.",
+"Sie stammt vom Erzbischof von Magdeburg.",
+"Sie stammt vom Herzog von Sachsen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre Magdeburg, die große geistliche Macht an der mittleren Elbe. Die Urkunde stammt aber von Bischof Balderam von Brandenburg. Sie nennt eine Burg Cossewitz an der Elbe, einen Burgward. So hieß eine Burg mit zugehörigem Bezirk, von der aus das Umland gesichert und verwaltet wurde. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.coswigonline.de/de/stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "261-coswig-anhalt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Coswig (Anhalt)",
+"steckbrief": "Stadt an der Elbe, 55 km nordöstlich von Halle (Saale).",
+"frage": "Wie viele Einwohner hat die Stadt Coswig (Anhalt) mit all ihren Ortsteilen?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 8.000",
+"8.000 bis unter 15.000",
+"15.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer nur an das Städtchen an der Elbe denkt, schätzt leicht zu niedrig. Zur Stadt gehören aber zahlreiche Ortsteile. Ende 2025 zählte Coswig zusammen 11.007 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "261-coswig-anhalt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Coswig (Anhalt) / Stadt mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale). / Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? / 1. Im Dreißigjährigen Krieg hatte der Schwedenkönig Gustav Adolf sein Hauptquartier im Coswiger Schloss. / 2. Das Coswiger Schloss wurde zum Gefängnis umgebaut. / 3. Coswig liegt am nördlichen Rand des Harzes.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Schwedenkönig in einer Kleinstadt wirkt verdächtig, doch Gustav Adolf hatte im August 1631 tatsächlich sein Hauptquartier im Coswiger Schloss. Das Schloss war später Witwensitz und wurde ab 1874 Strafanstalt. Gelogen ist der Harz: Coswig liegt an der Elbe, der Harz weit westlich von Halle. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.coswigonline.de/download/5892/das_coswiger_schloss.pdf; Landesarchiv Sachsen-Anhalt, Z 109 Nr. 258",
+"faktencheck": "korrigiert",
+"id": "261-coswig-anhalt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Coswig (Anhalt)",
+"steckbrief": "Kleinstadt mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Coswig die stärkste Partei?",
+"optionen": [
+"unter 41 %",
+"41 bis unter 44 %",
+"44 bis unter 48 %",
+"48 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Schlagzeilen über Ostdeutschland denkt, tippt leicht noch höher. Die AfD holte in Coswig 40,3 Prozent der Zweitstimmen, knapp doppelt so viel wie die CDU auf Platz zwei. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "261-coswig-anhalt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Coswig (Anhalt)",
+"steckbrief": "Stadt an der Elbe mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).",
+"frage": "Ende April 1945 standen amerikanische Truppen vor Coswig. Was geschah dann?",
+"optionen": [
+"Die Stadt wurde nach schweren Kämpfen erobert.",
+"Bürger übergaben die Stadt kampflos an die Amerikaner.",
+"Die Wehrmacht verteidigte die Stadt bis zuletzt.",
+"Die Amerikaner zogen an der Stadt vorbei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein Kampf, denn viele Städte wurden damals noch verteidigt. In Coswig aber übergaben der Dentist Genzel, der Rechtsanwalt Briedenhahn und weitere beherzte Bürger die Stadt kampflos. Kurz darauf besetzten sowjetische Truppen Coswig. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.coswigonline.de/de/stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "261-coswig-anhalt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Coswig (Anhalt) / Stadt an der Elbe mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale). / Welches ist das Hauptkennzeichen des Landkreises, zu dem Coswig gehört? / 1. DE / 2. HAL / 3. WB / 4. SK",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. DE liegt nahe, denn Dessau ist der große Nachbar. Coswig gehört aber zum Landkreis Wittenberg, und dessen Hauptkennzeichen ist WB. Richtig war 3.",
+"quelle": "Wahlleitung Sachsen-Anhalt, Kreistagswahl 2007; GRUNDDATEN kfz",
+"faktencheck": "korrigiert",
+"id": "261-coswig-anhalt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "… Coswig war 1965 Drehort eines DEFA-Spielfilms nach einem Roman von Erik Neutsch. Wer führte Regie? (Optionen unverändert)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Konrad Wolf liegt nahe, denn er war ein sehr bekannter Regisseur der DEFA. In Coswig drehte aber Frank Beyer 1965 Szenen für seinen Schwarz-Weiß-Film „Spur der Steine“ nach dem gleichnamigen Roman von Erik Neutsch. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.coswigonline.de/de/stadtgeschichte.html; DEFA-Stiftung, Pressemitteilung 14/2026",
+"faktencheck": "korrigiert",
+"id": "261-coswig-anhalt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Coswig (Anhalt)",
+"steckbrief": "Stadt an der Elbe mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).",
+"frage": "Nahe der Elbe bei Coswig fand man ein Grab aus der Mittelsteinzeit. Wie war der Tote bestattet worden?",
+"optionen": [
+"Man hatte den Leichnam verbrannt.",
+"Man hatte den Leichnam mit angezogenen Beinen begraben.",
+"Man hatte den Leichnam in einer Höhle niedergelegt.",
+"Man hatte den Leichnam im Fluss versenkt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Angezogene Beine liegen nahe, so kennt man viele Gräber der Vorzeit. Hier aber hatte man den Toten verbrannt. Das Grab gilt als die einzige bekannte Brandbestattung der Mittelsteinzeit in Deutschland. Es lag am Rand eines viel jüngeren Gräberfelds. Richtig war 1.",
+"quelle": "Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt, Tagungsband „Mesolithic burials“ (2016)",
+"faktencheck": "korrigiert",
+"id": "261-coswig-anhalt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "… In der DDR wurde 1979 ein Werk in Coswig mit einem Werk in Riesa zu einem Betrieb zusammengelegt. Was stellten beide her? (Optionen unverändert)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Nudeln liegen nahe, denn dafür ist Riesa bis heute bekannt. Gemeint sind aber Zündwaren, also Streichhölzer: Coswig war lange ein Standort der Streichholzherstellung, und 1979 ging das Coswiger Zündholzwerk im VEB Zündwarenwerke Riesa auf. Richtig war 3.",
+"quelle": "Landesarchiv Sachsen-Anhalt, Slg. 34 Zündholzfabrik Coswig (Anhalt); museum-digital Sachsen-Anhalt",
+"faktencheck": "korrigiert",
+"id": "261-coswig-anhalt/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "260-dessau-rosslau",
+"anschluss": [
+"Fläche: Coswig misst mehr Quadratkilometer als Dessau-Roßlau.",
+"Kennzeichen: In Dessau-Roßlau steht RSL am Auto, in Coswig WB."
+],
+"anschluesse": {
+"260-dessau-rosslau": [
+"Fläche: Coswig misst mehr Quadratkilometer als Dessau-Roßlau.",
+"Kennzeichen: In Dessau-Roßlau steht RSL am Auto, in Coswig WB."
+]
+},
+"ags": "15091060",
+"ortsteil": false,
+"km_vom_vorigen": 14.8
+},
+{
+"slug": "262-niemegk",
+"name": "Niemegk",
+"lat": 52.08306,
+"lon": 12.69972,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niemegk",
+"steckbrief": "Niemegk ist eine Stadt mit rund 2.000 Einwohnern, 43 km südwestlich von Potsdam.",
+"frage": "1968 bekam die Volksschule in Niemegk den Namen Robert Kochs. Welchen Anlass nennt die Ortsgeschichte?",
+"optionen": [
+"Kochs Zuzug nach Niemegk lag genau hundert Jahre zurück.",
+"Kochs Nobelpreis lag fünfzig Jahre zurück.",
+"Kochs Tuberkulose-Entdeckung lag hundert Jahre zurück.",
+"Kochs Todestag lag fünfzig Jahre zurück."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Tuberkulose liegt nahe, denn dafür ist Koch weltberühmt. Doch die Ortsgeschichte nennt einen örtlichen Anlass: Hundert Jahre zuvor war Koch nach Niemegk gezogen und arbeitete dort als praktischer Arzt. Die Volksschule erhielt seinen Namen zu diesem Jubiläum. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, amt-niemegk.de/wir-ueber-uns/geschichte-der-stadt-niemegk/robert-koch/",
+"faktencheck": "bestätigt",
+"id": "262-niemegk/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niemegk",
+"steckbrief": "Niemegk ist eine Kleinstadt mit rund 2.000 Einwohnern, 43 km südwestlich von Potsdam.",
+"frage": "Wie viele Quadratkilometer umfasst das Stadtgebiet von Niemegk?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 50 km²",
+"50 bis unter 100 km²",
+"100 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 2.000 Einwohnern liegt ein kleines Stadtgebiet nahe. Doch in Brandenburg umfassen Städte oft weite ländliche Flächen. Niemegk misst rund 45 Quadratkilometer, die Bevölkerung verteilt sich also dünn. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "262-niemegk/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Niemegk",
+"steckbrief": "Niemegk ist eine Stadt mit rund 2.000 Einwohnern, 43 km südwestlich von Potsdam.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Arzt Robert Koch wurde in Niemegk geboren.",
+"Der Ortsteil Hohenwerbig ist ein Straßendorf mit Vierseitenhöfen.",
+"Die Kirche von Hohenwerbig steht mitten im Friedhof."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer in Niemegk auf Robert Kochs Namen stößt, denkt leicht an seinen Geburtsort. Doch Koch stammte aus Clausthal im Harz. Nach Niemegk kam er als praktischer Arzt und war hier kurz tätig. Seine Praxis lag schräg gegenüber vom Rathaus, eine Gedenktafel erinnert daran. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, amt-niemegk.de/wir-ueber-uns/geschichte-der-stadt-niemegk/robert-koch/",
+"faktencheck": "korrigiert",
+"id": "262-niemegk/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Niemegk",
+"steckbrief": "Niemegk ist eine Kleinstadt mit rund 2.000 Einwohnern, 43 km südwestlich von Potsdam.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 im Amt Niemegk, also in der Stadt und ihren Nachbargemeinden, nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"BSW",
+"CDU"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, denn Brandenburg galt lange als ihr Stammland. Im Amt Niemegk, zu dem neben der Stadt mehrere Nachbargemeinden gehören, lag die AfD mit 29,7 Prozent vorn. Dahinter kamen die CDU mit 21,4 und knapp danach die SPD mit 19,5 Prozent. Richtig war 4.",
+"quelle": "Landeswahlleiter Brandenburg, amtliches Endergebnis Bundestagswahl 2025, Amt Niemegk",
+"faktencheck": "korrigiert",
+"id": "262-niemegk/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niemegk",
+"steckbrief": "Niemegk ist eine Stadt mit rund 2.000 Einwohnern, 43 km südwestlich von Potsdam.",
+"frage": "Der Niemegker Ortsteil Lühnsdorf hieß 1377 noch „czu grossen Luderstorph“. Warum fiel das „Groß“ laut Ortsgeschichte später weg?",
+"optionen": [
+"Das Dorf Lüttgen Lühnsdorf war wüst gefallen.",
+"Bei der Eingemeindung nach Niemegk wurde es gekürzt.",
+"Mit der Reformation 1539 bekam das Dorf einen neuen Namen.",
+"Die DDR strich den Zusatz bei einer Gebietsreform."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Reform oder Eingemeindung liegt nahe, denn so verlieren Namen oft Zusätze. Doch das „Groß“ fiel schon um 1425 weg, aus einem anderen Grund: Es gab einst auch ein Lüttgen, also Klein Lühnsdorf. Als es wüst fiel, also verlassen wurde, gab es nichts mehr zu unterscheiden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, amt-niemegk.de/wir-ueber-uns/ortsteil-luehnsdorf/ NEGATIVNACHWEISE (neu): 3: Weg (a). 262-niemegk/021: Das „Groß“ fiel um 1425 weg, also vor 1539. 4: Weg (a). 262-niemegk/021: Das „Groß“ fiel um 1425 weg, Jahrhunderte vor der DDR.",
+"faktencheck": "korrigiert",
+"id": "262-niemegk/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niemegk",
+"steckbrief": "Niemegk ist eine Stadt mit rund 2.000 Einwohnern südwestlich von Potsdam.",
+"frage": "Wie weit ist Niemegk in Luftlinie von der Landeshauptstadt Potsdam entfernt?",
+"optionen": [
+"unter 30 km",
+"30 bis unter 50 km",
+"50 bis unter 80 km",
+"80 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Kleinstadt ohne große Bekanntheit verortet man leicht weit draußen in der Mark. Tatsächlich liegt Niemegk nur 43 Kilometer Luftlinie von Potsdam entfernt, gemessen von Ortsmitte zu Stadtmitte. Potsdam ist zugleich die nächste Großstadt. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "262-niemegk/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niemegk",
+"steckbrief": "Niemegk ist eine Stadt mit rund 2.000 Einwohnern, 43 km südwestlich von Potsdam.",
+"frage": "Der Niemegker Ortsteil Lühnsdorf hatte eine Feldsteinkirche, die schon im 15. Jahrhundert bestand. Was wurde 1896 über sie beschlossen?",
+"optionen": [
+"Sie wurde um einen hohen Turm erweitert.",
+"Sie wurde als Scheune weitergenutzt.",
+"Sie wurde abgerissen und neugotisch neu gebaut.",
+"Sie wurde mit Backstein ummantelt und verputzt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Umbau liegt nahe, denn alte Feldsteinkirchen wurden oft nur verändert. In Lühnsdorf aber wurde das alte Gebäude abgerissen. Den neugotischen Neubau übergab Baumeister Köhler aus Niemegk. Die erste Orgel der Kirchengemeinde baute Friedrich Wilhelm Lobbes, Stiefsohn eines Niemegker Orgelbaumeisters. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, amt-niemegk.de/wir-ueber-uns/ortsteil-luehnsdorf/",
+"faktencheck": "korrigiert",
+"id": "262-niemegk/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niemegk",
+"steckbrief": "Niemegk ist eine Kleinstadt mit rund 2.000 Einwohnern, 43 km südwestlich von Potsdam.",
+"frage": "1981 bekam eine Apotheke in Niemegk den Namen Robert-Koch-Apotheke. Welchen früheren Namen nennt die Ortsgeschichte für sie?",
+"optionen": [
+"Löwen-Apotheke",
+"Adler-Apotheke",
+"Stadt-Apotheke",
+"Hirsch-Apotheke"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Stadt-Apotheke liegt nahe, so heißen viele Apotheken in Kleinstädten. Die Ortsgeschichte nennt aber einen Namen mit einem Tier, wie ihn viele Apotheken tragen: Es war die ehemalige Adler-Apotheke. Der neue Name erinnert an Robert Koch, der im Ort einst als Landarzt praktiziert hatte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, amt-niemegk.de/wir-ueber-uns/geschichte-der-stadt-niemegk/robert-koch/",
+"faktencheck": "korrigiert",
+"id": "262-niemegk/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "261-coswig-anhalt",
+"anschluss": [],
+"anschluesse": {},
+"ags": "12069448",
+"ortsteil": false,
+"km_vom_vorigen": 28.7
+},
+{
+"slug": "263-beelitz",
+"name": "Beelitz",
+"lat": 52.23333,
+"lon": 12.96667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Beelitz",
+"steckbrief": "Beelitz hat rund 14.100 Einwohner und liegt 20 km südlich von Potsdam.",
+"frage": "Um 1900 entstanden bei Beelitz die Heilstätten, ein großer Klinikkomplex. Wen sollte er ursprünglich heilen?",
+"optionen": [
+"Er sollte wohlhabende Kurgäste aus Europa heilen.",
+"Er sollte Bergleute aus Schlesien heilen.",
+"Er sollte Bauern aus der Zauche heilen.",
+"Er sollte Arbeiter aus Berlin heilen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Heilstätten im Grünen denkt man leicht an noble Kurorte. Gebaut wurde der hochmoderne Klinikkomplex aber gegen die Tuberkulose: Berliner Arbeiter sollten hier mit frischer Luft genesen. In den Weltkriegen diente er als Lazarett, zu DDR-Zeiten größtenteils als Sperrgebiet der Roten Armee. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, beelitz.de/beelitz-und-seine-ortsteile/",
+"faktencheck": "korrigiert",
+"id": "263-beelitz/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Beelitz",
+"steckbrief": "Beelitz hat rund 14.100 Einwohner und liegt 20 km südlich von Potsdam.",
+"frage": "Wie groß ist das Stadtgebiet von Beelitz?",
+"optionen": [
+"unter 190 km²",
+"190 bis unter 240 km²",
+"240 bis unter 300 km²",
+"300 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Kleinstadt erwartet man ein kleines Stadtgebiet. Doch Beelitz hat sich mit vielen Dörfern zusammengeschlossen, und zur Stadt gehören Wälder der Zauche. So kommt die Stadt auf rund 181 km². Richtig war 1.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "263-beelitz/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Beelitz",
+"steckbrief": "Beelitz hat rund 14.100 Einwohner und liegt 20 km südlich von Potsdam.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Einst fuhr die Postkutsche Berlin–Leipzig durch Beelitz.",
+"Der Name Beelitz stammt von flämischen Siedlern.",
+"In der Neuzeit wurde Beelitz zur Garnisonstadt."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Flämische Siedler klingen glaubhaft, denn sie halfen im Mittelalter, die Mark zu besiedeln. Doch der Name ist älter: Schon eine Urkunde Kaiser Ottos III. nennt einen Ort „belizi“ im slawischen Gau Bloni. Wahr sind die Postkutschenstrecke Berlin–Leipzig und die Garnison der Neuzeit. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, beelitz.de/beelitz-und-seine-ortsteile/",
+"faktencheck": "korrigiert",
+"id": "263-beelitz/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Beelitz",
+"steckbrief": "Beelitz hat rund 14.100 Einwohner und liegt 20 km südlich von Potsdam.",
+"frage": "Wie hoch war die Wahlbeteiligung in Beelitz bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 82 %",
+"82 bis unter 88 %",
+"88 % oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Osten lag die Wahlbeteiligung lange unter der im Westen, deshalb tippen viele niedriger. In Beelitz lag sie bei der Bundestagswahl 2025 aber bei 85,7 Prozent. Stärkste Partei wurde die AfD vor der CDU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "263-beelitz/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Beelitz",
+"steckbrief": "Beelitz hat rund 14.100 Einwohner und liegt 20 km südlich von Potsdam.",
+"frage": "Busendorf, Kanin und Klaistow gehören heute zu Beelitz. Zu welchem Staat gehörten die drei Dörfer bis 1815?",
+"optionen": [
+"Die Dörfer gehörten zu Hannover.",
+"Die Dörfer gehörten zu Mecklenburg.",
+"Die Dörfer gehörten zu Hessen.",
+"Die Dörfer gehörten zu Sachsen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Preußen fehlt unter den Optionen, also liegt ein anderer norddeutscher Staat wie Mecklenburg nahe. Doch die drei Dörfer waren bis 1815 eine Exklave Sachsens, also ringsum von fremdem Gebiet umgeben. Erzählt wird von Grenzstreit, Schmuggel und Soldaten, die aus dem Heer Friedrichs des Großen flohen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, beelitz.de/beelitz-und-seine-ortsteile/",
+"faktencheck": "bestätigt",
+"id": "263-beelitz/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Beelitz",
+"steckbrief": "Beelitz hat rund 14.100 Einwohner und liegt 20 km südlich von Potsdam.",
+"frage": "Wie viele Einwohner leben in Beelitz im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 250",
+"250 bis unter 500",
+"500 oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. So nah an Potsdam erwartet man eine dicht besiedelte Stadt. Doch zu Beelitz gehören viele Dörfer, Wälder und große Spargelfelder. Rechnerisch kommen nur etwa 78 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "263-beelitz/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Beelitz",
+"steckbrief": "Beelitz hat rund 14.100 Einwohner und liegt 20 km südlich von Potsdam.",
+"frage": "Wegen seines Gemeindeteils Schönefeld trug Beelitz einst den Beinamen „Ohr zur Welt“. Warum?",
+"optionen": [
+"Dort goss man Kirchenglocken für viele Länder.",
+"Dort stand eine Funkempfangsanlage für Übersee.",
+"Dort arbeiteten Orgelbauer, gefragt in aller Welt.",
+"Von dort verschickte man Hörrohre in alle Welt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Ohr lässt an Klang denken, an Glocken oder Orgeln. Gemeint war aber Funk: In Schönefeld stand einst eine Übersee-Funkempfangsanlage, also eine Station, die Funksignale aus Übersee auffing. Sie brachte Beelitz den Beinamen ein. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, beelitz.de/beelitz-und-seine-ortsteile/",
+"faktencheck": "korrigiert",
+"id": "263-beelitz/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Beelitz",
+"steckbrief": "Beelitz hat rund 14.100 Einwohner und liegt 20 km südlich von Potsdam.",
+"frage": "Im Spätmittelalter strömten Pilger nach Beelitz. Wovon erzählte die Legende, die sie anzog?",
+"optionen": [
+"Man erzählte von einem Wunderblut.",
+"Man erzählte von einer heilenden Quelle.",
+"Man erzählte von einer Marienerscheinung.",
+"Man erzählte von einem rettenden Engel."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Heilquellen und Marienerscheinungen lockten vielerorts Pilger an, darum liegen sie nahe. In Beelitz aber erzählte man von einem Wunderblut, also einem Blutwunder. Diese Legende bescherte dem mittelalterlichen Marktflecken einen Pilgerstrom. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, beelitz.de/beelitz-und-seine-ortsteile/",
+"faktencheck": "unsicher",
+"id": "263-beelitz/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "262-niemegk",
+"anschluss": [
+"Einwohner: Beelitz hat fast siebenmal so viele wie Niemegk.",
+"Landkreis: Beelitz und Niemegk liegen beide in Potsdam-Mittelmark."
+],
+"anschluesse": {
+"264-michendorf": [
+"Michendorf und Beelitz sind fast gleich groß: rund 14.000 und 14.000 Einwohner."
+],
+"265-potsdam": [
+"Kreisgrenze: Potsdam ist kreisfrei, Beelitz gehört zum Landkreis Potsdam-Mittelmark.",
+"Bundestagswahl 2025: In Potsdam lag die Linke vorn, in Beelitz die AfD."
+],
+"262-niemegk": [
+"Einwohner: Beelitz hat fast siebenmal so viele wie Niemegk.",
+"Landkreis: Beelitz und Niemegk liegen beide in Potsdam-Mittelmark."
+]
+},
+"ags": "12069017",
+"ortsteil": false,
+"km_vom_vorigen": 24.7
+},
+{
+"slug": "264-michendorf",
+"name": "Michendorf",
+"lat": 52.31286,
+"lon": 13.02917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Michendorf",
+"steckbrief": "Michendorf hat rund 14.000 Einwohner und liegt 10 km südlich von Potsdam.",
+"frage": "Woher hat der Michendorfer Ortsteil Langerwisch seinen Namen?",
+"optionen": [
+"Der Name beschreibt ein lang gestrecktes Straßendorf.",
+"Der Name erinnert an einen frühen Grundherrn.",
+"Der Name meint eine torfreiche Wiese.",
+"Der Name kommt von einem slawischen Fischerwort."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das „Langer\" im Namen lockt zum langen Straßendorf. Der Name geht aber auf die Wische zurück: eine torfreiche Wiese, entstanden aus einem nach der Eiszeit zurückgebliebenen See und seinen Ablagerungen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.michendorf.de/verzeichnis/visitenkarte.php?mandat=54245",
+"faktencheck": "unsicher",
+"id": "264-michendorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Michendorf",
+"steckbrief": "Michendorf hat rund 14.000 Einwohner und liegt 10 km südlich von Potsdam.",
+"frage": "Wie viele Einwohner leben in Michendorf durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 75",
+"75 bis unter 125",
+"125 bis unter 175",
+"175 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Brandenburg gilt als dünn besiedelt, deshalb liegt ein niedriger Tipp nahe. Michendorf aber liegt nahe Potsdam und Berlin; im Schnitt kommen rund 200 Einwohner auf einen Quadratkilometer. Richtig war 4.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "264-michendorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Michendorf",
+"steckbrief": "Michendorf hat rund 14.000 Einwohner und liegt 10 km südlich von Potsdam.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Ortsteil Stücken wurden mehrere DEFA-Filme gedreht.",
+"Wilhelmshorst wurde von Berlinern als Landhaussiedlung gegründet.",
+"Michendorf überstand den Dreißigjährigen Krieg nahezu unbeschadet."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Filmdorf in Brandenburg klingt erfunden, doch Stücken wird „Hollywood unter den Ortsteilen\" genannt. Tatsächlich wurde Michendorf im Dreißigjährigen Krieg völlig zerstört und blieb jahrzehntelang unbewohnt. Dann besiedelte Georg Joeche den Ort auf Betreiben des Amtes Saarmund mit einigen Bauern neu. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.michendorf.de/verzeichnis/visitenkarte.php?mandat=236985",
+"faktencheck": "bestätigt",
+"id": "264-michendorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Michendorf",
+"steckbrief": "Michendorf hat rund 14.000 Einwohner und liegt 10 km südlich von Potsdam.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Michendorf bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Brandenburg denkt, erwartet oft deutlich höhere AfD-Werte. Sie wurde in Michendorf stärkste Kraft, aber mit 22,6 Prozent nur knapp vor der CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "264-michendorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Michendorf",
+"steckbrief": "Michendorf hat rund 14.000 Einwohner und liegt 10 km südlich von Potsdam.",
+"frage": "Die Holländische Mühle in Michendorf wurde 1925 umgebaut. Wozu?",
+"optionen": [
+"Sie wurde zu einem Wasserturm umgebaut.",
+"Sie wurde zu einer Sternwarte umgebaut.",
+"Sie wurde zu einem Aussichtsturm umgebaut.",
+"Sie wurde zu einem Glockenturm umgebaut."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Wasserturm liegt nahe, denn ein hoher, fester Turm eignet sich gut als Wasserspeicher. In Michendorf aber nahm man der Mühle die Flügel ab, um Platz für eine Aussichtsplattform zu schaffen. Ihr Standort: nahe dem Haus St. Norbert. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.michendorf.de/verzeichnis/visitenkarte.php?mandat=236985",
+"faktencheck": "unsicher",
+"id": "264-michendorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Michendorf",
+"steckbrief": "Michendorf hat rund 14.000 Einwohner und liegt 10 km südlich von Potsdam.",
+"frage": "Wie groß ist die Fläche der Gemeinde Michendorf mit all ihren Ortsteilen?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 45 km²",
+"45 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Ort im Umland einer Großstadt wirkt oft klein und kompakt. Michendorf ist aber eine Gemeinde aus mehreren Ortsteilen, liegt im Naturpark Nuthe-Nieplitz-Niederung und misst 68,7 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "264-michendorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Michendorf",
+"steckbrief": "Michendorf hat rund 14.000 Einwohner und liegt 10 km südlich von Potsdam.",
+"frage": "1879 bekam Michendorf eine Eisenbahn-Haltestelle. Wie hieß die Bahnstrecke damals?",
+"optionen": [
+"Es war die Wetzlarer Eisenbahn.",
+"Es war die Magdeburger Eisenbahn.",
+"Es war die Dresdner Eisenbahn.",
+"Es war die Leipziger Eisenbahn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Magdeburg liegt näher und war ein großer Bahnknoten, deshalb liegt dieser Tipp nahe. Die Strecke durch Michendorf hieß aber Wetzlarer Eisenbahn, benannt nach einer Stadt weit im Westen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.michendorf.de/verzeichnis/visitenkarte.php?mandat=236985",
+"faktencheck": "bestätigt",
+"id": "264-michendorf/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Michendorf",
+"steckbrief": "Michendorf hat rund 14.000 Einwohner und liegt 10 km südlich von Potsdam.",
+"frage": "Zum Michendorfer Ortsteil Fresdorf gehört der Fresdorfer See. Was ist das Besondere an ihm?",
+"optionen": [
+"Er ist ein beliebter Badesee mit Sandstrand.",
+"Er führt kein Wasser mehr, nur Moor.",
+"Er dient als Speicher für Trinkwasser.",
+"Er ist ein Fischteich voller Karpfen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein See mit Ortsnamen lässt an Baden denken, zumal Fresdorf von Seen, Hügeln und Wäldern umgeben ist. Der Fresdorfer See aber führt kein Wasser mehr; an seiner Stelle liegt eine Moorlandschaft. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.michendorf.de/verzeichnis/visitenkarte.php?mandat=90426",
+"faktencheck": "bestätigt",
+"id": "264-michendorf/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "263-beelitz",
+"anschluss": [
+"Einwohner: Beelitz und Michendorf haben beide rund 14.000.",
+"Fläche: Beelitz ist mehr als doppelt so groß wie Michendorf."
+],
+"anschluesse": {
+"263-beelitz": [
+"Einwohner: Beelitz und Michendorf haben beide rund 14.000.",
+"Fläche: Beelitz ist mehr als doppelt so groß wie Michendorf."
+],
+"265-potsdam": [
+"Kreisgrenze: Potsdam ist kreisfrei, Michendorf gehört zum Landkreis Potsdam-Mittelmark.",
+"Bundestagswahl 2025: In Potsdam lag die Linke vorn, in Michendorf die AfD."
+]
+},
+"ags": "12069397",
+"ortsteil": false,
+"km_vom_vorigen": 9.8
+},
+{
+"slug": "265-potsdam",
+"name": "Potsdam",
+"lat": 52.40093,
+"lon": 13.05914,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Potsdam",
+"steckbrief": "Landeshauptstadt Brandenburgs an der Havel mit rund 185.000 Einwohnern.",
+"frage": "Die Potsdamer Konferenz der Siegermächte tagte im Juli 1945 im Schloss Cecilienhof. In welchem Park steht es?",
+"optionen": [
+"Es steht im Park Sanssouci.",
+"Es steht im Neuen Garten.",
+"Es steht im Park Babelsberg.",
+"Es steht im Gutspark Groß Glienicke."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Potsdamer Schlössern denkt man zuerst an das weltberühmte Sanssouci. Cecilienhof steht aber im Neuen Garten, wie auch das Marmorpalais. Im Cecilienhof berieten die Siegermächte über die Neuordnung der Welt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.potsdam.de/de/sehenswuerdigkeiten",
+"faktencheck": "korrigiert",
+"id": "265-potsdam/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Potsdam",
+"steckbrief": "Landeshauptstadt Brandenburgs an der Havel mit rund 185.000 Einwohnern.",
+"frage": "Wie viele Einwohner leben in Potsdam durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 700",
+"700 bis unter 1.500",
+"1.500 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Großstadt denkt, schätzt leicht höher. Doch zu Potsdam gehören weitläufige Parks, Havelseen und eingemeindete Ortsteile wie Fahrland, Golm und Marquardt. So kommen auf einen Quadratkilometer 983 Einwohner. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "265-potsdam/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Potsdam",
+"steckbrief": "Landeshauptstadt Brandenburgs an der Havel mit rund 185.000 Einwohnern.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Lange Stall wurde als mehrstöckiger Flachdachbau errichtet.",
+"Die Blaue Grotte wurde für Treffen von Rosenkreuzern angelegt.",
+"Feld- und Stadtseite des Brandenburger Tors unterscheiden sich."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Rosenkreuzer klingen nach Erfindung, doch die Blaue Grotte in Marquardt wurde eigens für spiritistische Treffen dieses Ordens angelegt. Und am Brandenburger Tor entwarf Gontard die Stadtseite, sein Schüler Unger übernahm die Feldseite. Gelogen war der Stall: Er wurde als eingeschossiger Fachwerkbau mit steilem Satteldach errichtet. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.potsdam.de/de/kategorie/historischer-parcours",
+"faktencheck": "korrigiert",
+"id": "265-potsdam/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Potsdam",
+"steckbrief": "Landeshauptstadt Brandenburgs an der Havel, Zentrum für Bildung und Wissenschaft, rund 185.000 Einwohner.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Potsdam bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"Die Linke",
+"AfD",
+"CDU"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Linke liegt nahe: Sie wurde mit 17,6 % stärkste Kraft. Knapp dahinter folgte die SPD mit 17,2 %, dann AfD mit 16,9 % und CDU mit 16,3 %. Ein Rennen fast ohne Abstand. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "265-potsdam/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Potsdam",
+"steckbrief": "Landeshauptstadt Brandenburgs an der Havel mit rund 185.000 Einwohnern.",
+"frage": "Woher hat der Potsdamer Ortsteil Fahrland seinen Namen?",
+"optionen": [
+"Der Name kommt von einem früheren Kloster.",
+"Der Name kommt von einer früheren Burg.",
+"Der Name kommt von fahrenden Händlern.",
+"Der Name kommt vom kargen Sandboden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei „Fahr“ denkt man ans Fahren, etwa an reisende Händler. Tatsächlich leitet sich der Ortsname von der Burg Vorland ab, die dort stand. Erhalten ist sie nicht mehr. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.potsdam.de/de/kategorie/historischer-parcours",
+"faktencheck": "korrigiert",
+"id": "265-potsdam/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Potsdam",
+"steckbrief": "Landeshauptstadt Brandenburgs an der Havel mit rund 185.000 Einwohnern.",
+"frage": "Wie groß ist das Stadtgebiet von Potsdam?",
+"optionen": [
+"unter 80 km²",
+"80 bis unter 140 km²",
+"140 bis unter 240 km²",
+"240 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt der Schlösser stellt man sich kompakt vor. Potsdams Stadtgebiet misst aber rund 188 Quadratkilometer und umfasst Eiche im Nordwesten ebenso wie Am Stern und Drewitz im Südosten. Richtig war 3.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "265-potsdam/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Potsdam",
+"steckbrief": "Landeshauptstadt Brandenburgs an der Havel mit rund 185.000 Einwohnern.",
+"frage": "An der Neustädter Havelbucht lag im 18. Jahrhundert ein barockes Gartenanwesen namens Marquisat. Wonach war es benannt?",
+"optionen": [
+"Es war nach einer dort lebenden Markgräfin benannt.",
+"Es war nach einem dortigen Markt benannt.",
+"Es war nach einer alten Markgrenze benannt.",
+"Es war nach einem französischen Schriftsteller benannt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Marquisat klingt nach Mark oder Markgraf, also nach Brandenburger Geschichte. Benannt war das Anwesen aber nach dem Marquis d'Argens, einem französischen Schriftsteller und Philosophen am Hof Friedrichs II. Das barocke Anwesen ist heute verschwunden. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.potsdam.de/de/kategorie/historischer-parcours",
+"faktencheck": "bestätigt",
+"id": "265-potsdam/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Potsdam",
+"steckbrief": "Landeshauptstadt Brandenburgs an der Havel mit rund 185.000 Einwohnern.",
+"frage": "An der Potsdamer Bittschriftenlinde sammelte man unter Friedrich II. wöchentlich Bitten der Untertanen. Wie ging der König damit um?",
+"optionen": [
+"Er überließ sie ungelesen seinen Beamten.",
+"Er entschied oft für Bürger, gegen Beamte.",
+"Er ließ sie nur durch Pfarrer prüfen.",
+"Er beantwortete nur Bitten von Adligen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass ein König Bittschriften seinen Beamten überlässt. Doch Friedrich II. ließ sich die Bitten vorlegen und entschied häufig für die Bürger, gegen die eigene Beamtenschaft. Die Linde überstand Könige und Kriege, wurde aber gefällt und später neu gepflanzt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.potsdam.de/de/kategorie/historischer-parcours",
+"faktencheck": "bestätigt",
+"id": "265-potsdam/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Potsdam",
+"steckbrief": "Landeshauptstadt Brandenburgs an der Havel mit rund 185.000 Einwohnern.",
+"frage": "Potsdam ist erstmals 993 urkundlich belegt: König Otto III. verschenkte den Ort. Wer bekam ihn?",
+"optionen": [
+"Der Abt von Fulda bekam ihn.",
+"Der Erzbischof von Trier bekam ihn.",
+"Die Äbtissin von Quedlinburg bekam ihn.",
+"Der Bischof von Meißen bekam ihn."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Königsschenkung denkt man eher an einen Bischof oder Abt. Otto III., später Kaiser, schenkte den Ort aber der Äbtissin Mathilde von Quedlinburg. Mit dieser Urkunde beginnt Potsdams belegte Geschichte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.potsdam.de/de/kategorie/portrait-geschichte",
+"faktencheck": "unsicher",
+"id": "265-potsdam/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Potsdam",
+"steckbrief": "Landeshauptstadt Brandenburgs an der Havel mit rund 185.000 Einwohnern.",
+"frage": "Woher stammt der Name des Potsdamer Wohngebiets Schlaatz?",
+"optionen": [
+"Er ist slawisch und bedeutet „vom Sumpf umgeben“.",
+"Er erinnert an eine Schlacht an diesem Ort.",
+"Er geht auf ein königliches Schlossgut zurück.",
+"Er stammt von einem früheren Gutsbesitzer."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schlaatz klingt nach Schlacht oder Schloss, und Schlösser hat Potsdam reichlich. Doch der Name ist slawisch und bedeutet „vom Sumpf umgeben“. Für die Hauszeichen im Wohngebiet ließen sich Künstler von der Umgebung der Nuthe anregen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.potsdam.de/de/kategorie/potsdamer-stadtteile",
+"faktencheck": "bestätigt",
+"id": "265-potsdam/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "264-michendorf",
+"anschluss": [
+"Kennzeichen: In Potsdam steht P am Auto, in Michendorf PM.",
+"Fläche: Potsdam ist fast dreimal so groß wie Michendorf."
+],
+"anschluesse": {
+"263-beelitz": [
+"Kreisgrenze: Beelitz gehört zum Landkreis Potsdam-Mittelmark, Potsdam ist kreisfrei.",
+"Bundestagswahl 2025: In Beelitz lag die AfD vorn, in Potsdam die Linke."
+],
+"264-michendorf": [
+"Kennzeichen: In Potsdam steht P am Auto, in Michendorf PM.",
+"Fläche: Potsdam ist fast dreimal so groß wie Michendorf."
+]
+},
+"ags": "12054000",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 10.0
 }
 ]
 }

@@ -1,0 +1,196 @@
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Albert Schweitzer
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rollen: Humanist und Urwaldarzt
+  gedenkstätte: eingerichtet im ehemaligen Wohnhaus von Carl August Musäus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Daniel Falk
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1768-1826
+  tätigkeitsjahre_weimar: 1797 bis zu seinem Tode
+  rollen: Schriftsteller, Diplomat, Sozialpädagoge
+GUELTIG_AB: 1768
+GUELTIG_BIS: 1826
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Charlotte von Stein
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensabschnitte: Kindheit und Jugend im Palais Schardt (Goethepavillon)
+  kontakt: kannte den jungen Goethe
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Maria Pawlowna
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/kirchen-und-friedhoefe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: russische Großfürstin
+  ehe: mit Carl Friedrich verheiratet
+  grabkapelle: Russisch-Orthodoxe Kapelle auf Historischem Friedhof
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Carl Friedrich
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/kirchen-und-friedhoefe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Großherzog
+  genealogie: Sohn von Carl August
+  ehe: mit Maria Pawlowna verheiratet
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Friedrich Justin Bertuch
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Goethe-Zeitgenosse und Verleger
+  gartengut: Garten wurde 1932 umgestaltet zu Weimarhallenpark
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Otto Krebs
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: ehemaliger Besitzer
+  park_gestaltung: ließ Gutsanlage zu Park im französischen Stil umgestalten
+  gestaltungszeit: 1920er Jahre
+  park: Park Holzdorf
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christiane Vulpius
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beziehung: Goethes Frau
+  garten_nutzung: nutzte Hausgarten zur Versorgung mit Obst und Gemüse
+  grabstätte: Jakobskirchhof
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Franz Kirms
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Geheimer Rat
+  aktivität: gehörte zu Weimarer Blumisten
+  sammlungen: zog botanische Raritäten
+  garten: Garten Kirms-Krackow-Haus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Charlotte Krackow
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genealogie: Nichte von Franz Kirms
+  aktivität: pflegte Blumisten-Erbe bis ins 20. Jahrhundert
+  garten: Garten Kirms-Krackow-Haus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Prinz Constantin
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genealogie: jüngster Sohn Anna Amalias
+  park_gestaltung: legte erste landschaftlich gestalteten Partien des Schlosspark Tiefurt an
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Herzog Carl August
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Herzog / Erbprinz
+  aktivitäten: kaufte Gartenhaus für Goethe, ließ Parkhöhle graben (Ende 18. Jahrhundert), Bauherr Schloss Belvedere
+  schlösser_anzahl: rund 20 Jagd- und Lustschlösser
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johann Sebastian Bach
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Musiker und Komponist
+  wichtige_jahre: in Weimar
+  erlebnisort: "Bach in Weimar" in der Bastille des Stadtschlosses
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Jakob Elkan
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/kirchen-und-friedhoefe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: jüdischer Banker
+  gründer: Jüdischer Friedhof
+  gründung: 1774
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstschule
+BEZEICHNUNG: Bauhaus
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsort: Weimar
+  erste_ausstellung: 1923
+  sammlung: weltweit älteste Bauhaus-Sammlung
+  einzige_architektur_realisierung: Haus Am Horn
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: politisches_system
+BEZEICHNUNG: Weimarer Republik
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/haus-der-weimarer-republik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsort: Weimar
+  charakter: erste deutsche Demokratie
+  gründungsveranstaltung: Tagung der Nationalversammlung im Deutschen Nationaltheater Weimar
+  zeitliche_charakteristika: revolutionäre Anfänge, politische Etablierung und Konsolidierung, Goldene Zwanziger, Krisen
+  meilensteine: Frauenwahlrecht, Grundrechte, Trennung von Kirche und Staat
+  herausforderungen: Putschversuche, Massenarbeitslosigkeit, Attentate
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

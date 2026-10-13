@@ -1,0 +1,901 @@
+ZIELORT: Schkeuditz (Stadt)
+LAGE: 13 km nordwestlich von Leipzig (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Schkeuditz
+
+GRUNDDATEN:
+  landkreis: Nordsachsen  [dewiki Infobox]
+  bundesland: Sachsen  [dewiki Infobox]
+  einwohner: 19.145  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 81,47  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 235  [berechnet aus Einwohner und Fläche]
+  kfz: TO (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 111 | 110  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2839050)]
+  naechste_grossstadt: Leipzig, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Dresden, 113 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Leipzig/Halle Flughafen, Bahnhof Schkeuditz, Haltepunkt Schkeuditz West  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 04435  [Wikidata P281]
+  vorwahl: 034204  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 38,3 %, CDU 21,7 %, Die Linke 8,9 %, SPD 8,9 %, BSW 8,6 %, GRÜNE 5 %; Wahlbeteiligung 78,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Rayk Bergner (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Villefranche-sur-Saône, Bühl  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Bad Dürrenberg (Stadt)
+  landkreis: Saalekreis  [dewiki Infobox]
+  einwohner: 11.458  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 36,15 | 36,26  [Wikidata P2046; Altbestand staedte.json]
+  hoehe_m: 104 | 108  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2953521)]
+  naechste_grossstadt: Halle (Saale), 22 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Haltepunkt Bad Dürrenberg  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 42 %, CDU 18,1 %, BSW 10,7 %, Die Linke 9,7 %, SPD 9,3 %; Wahlbeteiligung 75,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  kfz: SK (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Schkeuditz):
+ID: 258-schkeuditz/001
+ENTITÄT: ort
+BEZEICHNUNG: Schkeuditz
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_erwähnung: 981
+  stadtrecht_bestätigt: 1436
+  stadtrecht_bestätiger: Merseburger Bischof
+  schutzpatron: St. Alban
+  wappen_beschreibung: St. Albanus mit weißem Kleid in rotem Feld, Kopf vor der Brust in beiden Händen, schwarzes Kreuz mit gelbem Schild
+  stadtfahne_farben: weiß-rot
+  wappenzugehörigkeit: Stift Merseburg
+  kirche_vermutlich_gegründet_vor: 968
+  kirche_begründung: St. Alban als Weihenamen sonst nirgends in Sachsen, daher Kirche älter als Bistumsgründung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/002
+ENTITÄT: ort
+BEZEICHNUNG: Schkeuditz
+QUELLE: https://www.schkeuditz.de/wirtschaft-bauen/wirtschaftsstandort/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 81.47
+  fläche_einheit: km²
+  einwohnerzahl: 19022
+  einwohnerzahl_stand: 31.12.2025
+  bevölkerungsdichte: 234
+  bevölkerungsdichte_einheit: EW/km²
+  bundesland: Sachsen
+  landkreis: Nordsachsen
+  lage_region: Großraum Leipzig-Halle
+  entfernung_leipzig: 15
+  entfernung_leipzig_einheit: km
+  entfernung_halle: 20
+  entfernung_halle_einheit: km
+  entfernung_halle_genauigkeit: ca.
+  autobahn_anschlüsse: 5
+  bundesstraßen: B6, B181, B186
+  s_bahn_linie: S 3, S 5
+  straßenbahn_linie: 11
+  flughafen_nähe: Leipzig/Halle
+  kindertageseinrichtungen: 8
+  grundschulen: 4
+  oberschulen: 1
+  gymnasien: 1
+  berufliche_schulzentren: 1
+  zentren_ausbildung: 1
+  vereine_und_initiativen: über 120
+  veranstaltungen_regelmäßig: Stadtfest, Kulturtage
+  grundsteuer_a: 320
+  grundsteuer_a_einheit: '%'
+  grundsteuer_b: 339
+  grundsteuer_b_einheit: '%'
+  gewerbesteuer: 300
+  gewerbesteuer_einheit: '%'
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 258-schkeuditz/003
+ENTITÄT: ort
+BEZEICHNUNG: Schkeuditz
+QUELLE: https://www.schkeuditz.de/wirtschaft-bauen/wirtschaftsstandort/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevölkerungsentwicklung_2010: 17464
+  bevölkerungsentwicklung_2015: 17443
+  bevölkerungsentwicklung_2020: 18232
+  bevölkerungsentwicklung_2025: 19022
+GUELTIG_AB: 2010
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 258-schkeuditz/004
+ENTITÄT: stadtheiliger
+BEZEICHNUNG: St. Alban / St. Albanus
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Heiliger, Bischof
+  beschreibung: christlicher Heiliger und Bischof
+  legende: Hunnen schlugen Bischof Kopf ab
+  sage_alternativ: war Leinenwebergeselle, wurde des Diebstahls bezichtigt, wollte mit Kopfauffangen auf Bibel Unschuld beweisen
+  sage_alternativ_genauigkeit: vermutlich
+  schutzpatron_von: Mainz, Winterthur, Köln, Schkeuditz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 258-schkeuditz/005
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Schkeuditz
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Mühlstraße 50, 04435 Schkeuditz
+  telefon: 034204 88-1160
+  email: museum@schkeuditz.de
+  beheimatet_seit: 1937
+  beheimatet_in: ehemaliges Wohnhaus des Amtsmüllers
+  ausstellungsthema: Stadtgeschichte, Werden und Wachsen von Schkeuditz
+  besonderheit: Mitmachstationen in jedem Raum
+  außengelände: steinerne und eiserne Zeitzeugen aus gesamtem Stadtgebiet
+  gründung_heimatverein: 1926
+  heimatverein_gründer: Hermann Vater (Rektor der Volksschule)
+  heimatverein_ziel: ortsgeschichtliche Sammlung zusammentragen und präsentieren
+  erste_unterkunft: 1926 im Rathaus
+  umzug_sanierung_beginn: 2007
+  museumsleiter_bis_1980: Kurt Auerbach
+  schkeuditzer_museums_geschichtsverein_gegründet: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/006
+ENTITÄT: fabrik
+BEZEICHNUNG: Maschinenfabrik und Eisengießerei Dr. Keßler / später Baumann
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1858
+  lage: nördlich des Bahnhofes Schkeuditz
+  gebiet: Berliner Straße
+  bemerkung: Nachbarbetriebe später von Pumpenfabrik Carl Enke vereinnahmt und überbaut
+GUELTIG_AB: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/007
+ENTITÄT: fabrik
+BEZEICHNUNG: Maschinenfabrik für landwirtschaftliche Geräte Leopold & Oemichen
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1863
+  lage: nördlich des Bahnhofes Schkeuditz
+  gebiet: Berliner Straße / Industriestraße
+  bemerkung: Später von Pumpenfabrik Carl Enke vereinnahmt und überbaut
+  kunstwerk_aquarell: 1864 von Joseph Puschkin gemalt, zeigt Fabrik und Umgebung
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/008
+ENTITÄT: fabrik
+BEZEICHNUNG: Pianofabrik Lemcke & Ehrenberg
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1873
+  lage: nördlich des Bahnhofes Schkeuditz
+  bemerkung: Später von Pumpenfabrik Carl Enke vereinnahmt und überbaut
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 258-schkeuditz/009
+ENTITÄT: fabrik
+BEZEICHNUNG: Pumpenfabrik Carl Enke
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet_ab: 1886
+  lage: nördlich des Bahnhofes Schkeuditz
+  geschichte: vereinnahmte und überbaute vorherige Fabriken
+GUELTIG_AB: 1886
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 258-schkeuditz/010
+ENTITÄT: eisenbahn_strecke
+BEZEICHNUNG: Magdeburg-Leipziger Eisenbahn / Strecke Halle-Leipzig
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 18.08.1840
+  bedeutung: Beginn der Industriegeschichte Schkeuditz
+  auswirkung: erste Industriebetriebe siedelten sich nördlich des Bahnhofes an
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/011
+ENTITÄT: brauerei
+BEZEICHNUNG: Sternburg-Brauerei
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätig_von: 1898
+  tätig_bis: 1936
+  spezialität: Braunbier
+GUELTIG_AB: 1898
+GUELTIG_BIS: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dölzig
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 04435
+  vorwahl: 034205
+  grundschule: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 258-schkeuditz/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Freiroda
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 04435
+  vorwahl: 034207
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 258-schkeuditz/014
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gerbisdorf
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 04435
+  vorwahl: 034207
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 258-schkeuditz/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Glesien
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 04435
+  vorwahl: 034207
+  grundschule: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 258-schkeuditz/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hayna
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 04435
+  vorwahl: 034207
+  naherholung: Schladitzer See (nordöstlich), Haynaer Strand mit Bademöglichkeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 258-schkeuditz/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kleinliebenau
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 04435
+  vorwahl: 034205
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 258-schkeuditz/018
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kursdorf
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 04435
+  vorwahl: 034204
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 258-schkeuditz/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Radefeld
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 04435
+  vorwahl: 034207
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 258-schkeuditz/020
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wolteritz
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/ueber-schkeuditz/geschichte-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 04435
+  vorwahl: 034207
+  naherholung: Schladitzer See (nordöstlich), Bademöglichkeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 258-schkeuditz/021
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Albanus (Stadtkirche)
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Albanusstr., 04435 Schkeuditz
+  konfession: katholisch
+  pfarrei: St. Franziskus Halle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/022
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Albanus
+ORTSTEIL_BEZUG: Kernstadt (Altscherbitz)
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Koeppestraße 17, 04335 Schkeuditz
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 258-schkeuditz/023
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Johannis
+ORTSTEIL_BEZUG: Glesien
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lindenstraße 1, 04435 Schkeuditz
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/024
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Johannis & Pfarrhaus
+ORTSTEIL_BEZUG: Glesien
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lindenstraße, 04435 Schkeuditz
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 258-schkeuditz/025
+ENTITÄT: kirche
+BEZEICHNUNG: Dorfkirche Kursdorf
+ORTSTEIL_BEZUG: Kursdorf
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/kirchentour/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1310-1354
+  urkundliche_erwähnung_zeit: 1310-1354
+  material: Feldsteine (Eiszeit-Findlinge), später Sandstein und Landsberger Porphyr
+  ortsname_etymologie: Sage: aus Name eines Mönches "Curs", der in der Gegend missionierte
+  ortsname_etymologie_genauigkeit: vermutlich
+  ortsname_schreibweise_änderung: Drittes Reich (Eindeutschung)
+  ursprüngliche_dorfanlage: slawischer Rundling
+  christianisierung: um 1000
+  kirchliche_zugehörigkeit_ursprünglich: Schkeuditz
+  kirchliche_zugehörigkeit_seit_50er_jahren: anderer Kirchenkreis (wegen Bahnschranken-Verzögerungen Schkeuditzer Pfarrer)
+  lage_heute: zwischen Autobahn und Flughafen
+  einwohnerzahl_entwicklung: hat sich halbiert
+  struktur: Turm, Schiff, Apsis
+  innere_ausstattung: schlichte Bankreihen, Altaraufsatz in Bauernbarock von 1777
+  orgel: kleine Orgel aus Orgelwerkstatt Rühlmann (Zörbig) auf Empore
+  glocken_ursprünglich: 3, mittelalterliche Bronzeglocke, 2 im 1. Weltkrieg abtransportiert
+  besonderheit: eine der wenigen der Region, vollständig und ohne größere Umbauten seit Entstehungszeit erhalten
+  besonderheit_2: erstes markantes Gebäude für auswärtige Fluggäste von dieser Region
+  benachbarter_ort_lursdorf: nördlich gelegen, im Dreißigjährigen Krieg zerstört
+  dorfexpansion: 1870-1914 in Richtung Schkeuditz
+GUELTIG_AB: 1310
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/026
+ENTITÄT: kirche
+BEZEICHNUNG: Dorfkirche Freiroda
+ORTSTEIL_BEZUG: Freiroda
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/kirchentour/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauungszeit: 13. Jahrhundert
+  ursprungsanlage: ringartig (wendische Zeit)
+  turm: querrechteckig
+  turm_material: Feldsteine
+  portal: spitzbogig, spätgotisch, Sandstein
+  tür: massive Holztür mit zierlichen blattförmig endenden Eisenbeschlägen
+  südseite_grabplatte: barocke Zeit, Inschriften nicht mehr lesbar
+  sonnenuhr: spätgotische Reste am südöstlichen Strebepfeiler des Chores
+  fenster: in barocker Zeit vergrößert
+  fenster_südseite: zugemauertes altes Fenster
+  turm_schiff_bauzeit: Anfang 13. Jahrhundert
+  chor_bauzeit: wahrscheinlich um 1500 angebaut
+  tonnengewölbe: holzern, Witterungsschäden
+  chorraum: Wandmalereien (Weihekreuze, Kannen) aus Erbauungszeit
+  altar: Mensa mit Weihekreuzen, barocker Kanzelaltar
+  sakristei: Spitzbogenportal, Kreuzgratgewölbe, Piscina an Nordseite
+  patronatsloge: über Sakristei, Wappen derer von Üchteritz auf Lützschena, Freiroda und Metewitzsch
+  patronatsloge_zeitraum: 1621-1694
+  silberkelch: gestiftet 1679 vom Patron
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/027
+ENTITÄT: kirche
+BEZEICHNUNG: Dorfkirche Radefeld (St. Nikolai)
+ORTSTEIL_BEZUG: Radefeld
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/kirchentour/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauungszeit: ca. 1200 (12. Jahrhundert)
+  erbauungszeit_genauigkeit: ca.
+  lage_distrikt: Süden Kreis Delitzsch, Grenze Sächsischer Landeskirche / Kirchenprovinz Sachsen
+  besonderheit: Fallobstwiesen (Anger) im Zentrum des Dorfes
+  friedhof: parkähnlich, von Fallobstwiesen eingeschlossen
+  turm: romanisch, ältester Teil, aus Feldsteinen, 3 Glocken
+  schallöffnungen: 6 gekuppelt, original: nördliche, südliche, südöstliche
+  kapitelle: spätromanische Knospen- und Würfelkapitelle mit Sandsteinmittelsäulen
+  südportal: metallischer Fisch als Türdrücker
+  turm_frühere_funktion: vermutlich Wehrturm
+  schiff: östlich an Turm, ursprünglich aus Feldsteinen
+  fenster_nord: romanisches Fenster erhalten
+  fenster_süd: in barocker Zeit vergrößert
+  chorraum_fenster: in barocker Zeit vergrößert
+  taufstein: romanisch, Sandstein, ca. 1 m Durchmesser, seit 1825 mit metallischem Einsatz
+  altar: barock, mit 5seitiger Kanzel und Schalldeckel
+  kruzifix: gotisch, 1,20 m Höhe, an Wand Südseite
+  emporen: mehrere
+  orgel_erbauer: Orgelbauer Flemming
+  orgel_besonderheit: ¾ Töne höher klingende Kammerton
+  orgel_parallelen: auch in Lindenthal und Panitzsch
+  fußboden: Sandsteinplatten
+  sakristei: spätgotische Zeit, Norden, Kreuzgratgewölbe
+  renovierung: 1958
+  renovierung_arbeiten: Altar, Emporen, Gestühl neu bemalt, Bilder Evangelisten und Leben Jesu auf Emporen
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/028
+ENTITÄT: kirche
+BEZEICHNUNG: Dorfkirche Hayna
+ORTSTEIL_BEZUG: Hayna
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/kirchentour/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauungszeit: 12. Jahrhundert
+  ursprungsanlage: wendisch
+  entwick­lung: vom alten Dorfkern nach Westen
+  struktur_heute: Hauptraum (Langhaus), Chor, Sakristei
+  turm_geschichte: um 1975 abgetragen wegen Baufälligkeit
+  glockenklang_fehlen: lange Zeit nach Turmabbruch
+  glockentürmchen_errichtung: 1990
+  glockentürmchen: freistehendes neues Glockentürmchen
+  glocke_aktuell: eine der ursprünglichen Haynaer Glocken, befand sich seit Turmabbruch im Pfarrgarten von Radefeld
+  romanische_würfelkapitelle: verschwunden mit Turm
+  hauptraum: romanische Zeit, hauptsächlich aus Feldsteinen
+  fenster_romanisch: während Barock zugesetzt und vergrößert
+  portal: bemerkenswertes hervorspringendes Sandsteinsäulenportal aus romanischer Zeit
+  kreuz_mit_lilie: an Portal, erinnert an unverschuldeten Tod Jesu Christi
+  chorraum: backsteinernen, gotische Zeit, mit grauem Sandstein verzahnt an Ecken
+  chorraum_gewölbe: zwei 6teilige Radialrippengewölbe mit verzierten Schlusssteinen
+  chorraum_fenster_gotisch: Spitzbogen, außen zu Rundbogenfenstern im Barock verändert, innen original
+  sakristei: gotisch, nördlich an Chorraum, 2 Kreuzgratgewölbe, Sakramentsnische in Nordwand
+  altar: barock, Ursprünge aus Spätgotik
+  kanzel: 4seitig, angebaut am Altar
+  weihekreuze: mehrere an Wänden Chorraums, teilweise übergemalt
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/029
+ENTITÄT: kirche
+BEZEICHNUNG: Dorfkirche Wolteritz
+ORTSTEIL_BEZUG: Wolteritz
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/kirchentour/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauungszeit: 13. Jahrhundert
+  ursprung: romanisch
+  turm_position: scheinbar Mitte, ursprünglich Osten
+  chorraum_anbau: Anfang 16. Jahrhundert, östlich, 2 Joch lang, mit Strebepfeilern
+  sakristei: nördlich an Chor, mit Kreuzgewölbe
+  emporen: zwei, um 1570 eingebaut
+  emporenpfeiler_datierung: Hinweis auf Entstehungszeit Nordseite obere Empore
+  orgel: einmanualig, um 1840 von Delitzscher Orgelbauer Offenhauer, gegenwärtig restauriert
+  turm_glocken: 3 Stahlgussglocken, Bochum 1868
+  glocken_größe: 75 cm, 93 cm, 65 cm Durchmesser
+  glocken_inschrift: GLAUBE, LIEBE, HOFFNUNG
+  kanzelaltar: im östlichen Chorraum, mit aufgesetzter Bilderwand
+  kanzel_relief: Christus als guter Hirte
+  taufstein: schlichte spätgotische Sandsteinarbeit, Mitte Chorraum
+  nutzung: von zahlenmäßig kleiner Kirchgemeinde regelmäßig genutzt
+  erhaltungszustand: bauliche Erhaltungsmaßnahmen nötig
+  ddr_zeit_kohletagebau: extensive Kohletagebau, Wolteritz bedroht durch Abbaggerung, wenig investiert
+  sanierung_perspektive: wird sich behutsam über langen Zeitraum ändern
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 258-schkeuditz/030
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Kursdorf
+ORTSTEIL_BEZUG: Kursdorf
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Schulplatz, 04435 Schkeuditz
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/031
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Freiroda
+ORTSTEIL_BEZUG: Freiroda
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hauptstr. 32, 04435 Schkeuditz
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/032
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Gerbisdorf
+ORTSTEIL_BEZUG: Gerbisdorf
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Feldrain, 04435 Schkeuditz
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/033
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Hayna
+ORTSTEIL_BEZUG: Hayna
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Mittelstr. 31, 04435 Schkeuditz
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/034
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Dölzig
+ORTSTEIL_BEZUG: Dölzig
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Paul-Wäge-Straße 2, 04435 Schkeuditz
+  konfession: evangelisch
+  pfarrer: Michael Bornschein
+  homepage: www.xn--kirche-markranstdterland-rckmarsdorf-dlzig-lsd82f7h.de/
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/035
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Nikolai
+ORTSTEIL_BEZUG: Radefeld
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Unterer Anger, 04435 Schkeuditz
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/036
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Wolteritz
+ORTSTEIL_BEZUG: Wolteritz
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Dorfstraße, 04435 Schkeuditz
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/037
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Kirchengemeinden Radefeld, Hayna, Freiroda, Gerbisdorf, Wolteritz, Glesien, Kursdorf
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Pfarrgasse 1, 04509 Zschortau
+  telefon: 034202 92200
+  telefax: 034202 36437
+  email: kirchspiel.zschortau@gmx.de
+  pfarrer: Daniel Senf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/038
+ENTITÄT: freikirchliche_gemeinde
+BEZEICHNUNG: Evangelisch-Freikirchliche Gemeinde (Hoffnungszentrum Schkeuditz)
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.schkeuditz.de/stadt-buergerservice/schkeuditz/wegweiser-einrichtungen-in-der-und-fuer-die-stadt/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lessingstraße 2, 04435 Schkeuditz
+  telefon: 034204 14701
+  email: gemeinde@hoffnungszentrum-schkeuditz.de
+  homepage: www.hoffnungszentrum-schkeuditz.de
+  gemeindeleiter: Andreas Haller
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/039
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Dorfplatz Dölzig
+ORTSTEIL_BEZUG: Dölzig
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Dorfplatz, 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/040
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Gauchel & Taubenhaus
+ORTSTEIL_BEZUG: Dölzig
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schöppenwinkel / P.-Wäge-Straße, 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/041
+ENTITÄT: naturdenkmahl
+BEZEICHNUNG: Große Eiche
+ORTSTEIL_BEZUG: Dölzig
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Äußere Gundorfer Str., 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/042
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Gutshof Seltmann
+ORTSTEIL_BEZUG: Dölzig
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Paul-Wäge-Straße 15, 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/043
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Kirche, Pfarrhaus & Alte Schule Dölzig
+ORTSTEIL_BEZUG: Dölzig
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schöppenwinkel, 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+  bestandteile: Kirche, Pfarrhaus, Alte Schule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/044
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Neue Schule
+ORTSTEIL_BEZUG: Dölzig
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lautzschke, 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/045
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Oberhof im Schöppenwinkel
+ORTSTEIL_BEZUG: Dölzig
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schöppenwinkel, 04435 Schkeuditz
+  kategorien: Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/046
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Ratsgut
+ORTSTEIL_BEZUG: Dölzig
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Kanal 4, 04435 Schkeuditz
+  kategorien: Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/047
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Holländische Mühle / Zollhaus
+ORTSTEIL_BEZUG: Dölzig
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: An der Holländischen Mühle 2, 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/048
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Historisches Gerbisdorf
+ORTSTEIL_BEZUG: Gerbisdorf
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 258-schkeuditz/049
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Alte Schule Glesien
+ORTSTEIL_BEZUG: Glesien
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Conradpl. 6, 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/050
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Alter Bahnhof
+ORTSTEIL_BEZUG: Glesien
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kategorien: Sehenswürdigkeit, Historischer Ort
+  adresse: 04435 Schkeuditz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 258-schkeuditz/051
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Altes Bad (Max-Schatz-Bad)
+ORTSTEIL_BEZUG: Glesien
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kategorien: Sehenswürdigkeit, Historischer Ort
+  adresse: 04435 Schkeuditz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 258-schkeuditz/052
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Schäferei & Försterei
+ORTSTEIL_BEZUG: Glesien
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Freistr. 1, 04435 Schkeuditz
+  kategorien: Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/053
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Nockwitz
+ORTSTEIL_BEZUG: Glesien
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Delitzscher Straße, 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 258-schkeuditz/054
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Rittergut Glesien
+ORTSTEIL_BEZUG: Glesien
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kategorien: Sehenswürdigkeit, Historischer Ort
+  adresse: 04435 Schkeuditz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 258-schkeuditz/055
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Schweiditz
+ORTSTEIL_BEZUG: Glesien
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kategorien: Sehenswürdigkeit, Historischer Ort
+  adresse: 04435 Schkeuditz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 258-schkeuditz/056
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Rittergutskirche
+ORTSTEIL_BEZUG: Kleinliebenau
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Gutshofstraße 15, 04435 Schkeuditz (OT Kleinliebenau)
+  kategorien: Kirchen, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/057
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Radefelder Anger
+ORTSTEIL_BEZUG: Radefeld
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Oberen Anger, 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/058
+ENTITÄT: historischer_ort
+BEZEICHNUNG: Alte Schule Wolteritz
+ORTSTEIL_BEZUG: Wolteritz
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/ausfluege-und-bleiben/tour-und-natur/ortsteile-historisch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Dorfstraße 40, 04435 Schkeuditz
+  kategorien: Sehenswürdigkeit, Historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 258-schkeuditz/059
+ENTITÄT: maler
+BEZEICHNUNG: Joseph Puschkin
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: München
+  abstammung: Sohn eines Münchener Haus- und Grundbesitzers russischer Abstammung
+  ausbildung_ab: 1842 an Akademie der Bildenden Künste München
+  ausbildungsfach: Malerei
+  tätige_orte: Hamburg, München
+  kunstwerk_schkeuditz: Aquarell 1864, Berliner Straße und Kreuzung zur heutigen Industriestraße, 86 x 26 cm
+  kunstwerk_anlass: wahrscheinlich Auftragswerk für Leopold & Oehmichen (ein Jahr nach Fabrikgründung)
+GUELTIG_AB: 1842
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 258-schkeuditz/060
+ENTITÄT: heimatforscher
+BEZEICHNUNG: Dieter Drabsch
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlung: Vielzahl historischer Stadtansichten
+  mitgliedschaft: Schkeuditzer Museums- und Geschichtsverein e.V.
+  homepage: http://www.ansichtskarten-schkeuditz.de/
+  homepage_inhalt: Auszug aus historischen Stadtansichten-Sammlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 258-schkeuditz/061
+ENTITÄT: historischer_verein
+BEZEICHNUNG: Schkeuditzer Heimatverein
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1926
+  gründungsvorsitzender: Hermann Vater (Rektor der Volksschule)
+  ziel: ortsgeschichtliche Sammlung zusammentragen und in Heimatmuseum präsentieren
+  erste_unterkunft: 1926 ein Raum im Rathaus
+  zweite_unterkunft: 1937 ehemaliges Haus des Amtsmüllers mit 3 Räumen
+  museumleiter_bis_1980: Kurt Auerbach
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 258-schkeuditz/062
+ENTITÄT: historischer_verein
+BEZEICHNUNG: Schkeuditzer Museums- und Geschichtsverein e.V.
+QUELLE: https://www.schkeuditz.de/kultur-freizeit/freizeiteinrichtungen/stadtmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 2009
+  aktivität: unterstützt Museumsarbeit aktiv und finanziell
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

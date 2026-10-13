@@ -1,0 +1,411 @@
+ENTITÄT: ort
+BEZEICHNUNG: Eisenach
+QUELLE: https://www.eisenach.de/leben/geschichte/stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schutzpatron: St. Georg
+  benannt_nach: Dorf ISENACHE
+  gegründet_von: Thüringer Landgrafen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Schwarzer Brunnen
+QUELLE: https://www.eisenach.de/leben/geschichte/denkmale/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: Pulverexplosion
+  anlass_jahr: 1810
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Burschenschafts-Denkmal
+QUELLE: https://www.eisenach.de/leben/geschichte/denkmale/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: Versammlung der Burschenschaften
+  anlass_jahr: 1817
+  anlass_grund: Forderung nach Freiheit und Einheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Bach-Denkmal
+QUELLE: https://www.eisenach.de/leben/geschichte/denkmale/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gewidmet: Johann Sebastian Bach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Luther-Denkmal
+QUELLE: https://www.eisenach.de/leben/geschichte/denkmale/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gewidmet: Martin Luther
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Panzerreiter (St. Georg)
+ORTSTEIL_BEZUG: Jakobsplan
+QUELLE: https://www.eisenach.de/leben/geschichte/denkmale/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Jakobsplan
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtwappen
+QUELLE: https://www.eisenach.de/leben/geschichte/stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  farbe: blau
+  figur: St. Georg in silberner Kettenrüstung
+  figur_zubehör: Speer mit silbernem Fahnenblatt (rotes Balkenkreuz), Palmzweig goldfarben
+  schild: silberner dreieckiger Schild mit rotem Tatzenkreuz
+  begleitsymbol: silbernes schwebendes Tatzenkreuzchen
+  entworfen_von: Prof. Hildebrand/Berlin
+  entwurf_jahr: 1913
+  grundlage: Siegel vom Ende 13. Jahrhundert
+  gueltig_ab: 1927
+  ortsgesetz_datum: 1. August 1927
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1927
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtflagge
+QUELLE: https://www.eisenach.de/leben/geschichte/stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  farbfolge: blau/weiß/blau
+  motiv: rotes Kreuz im weißen Teil über die gesamte Länge
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ernst Abbe
+QUELLE: https://www.eisenach.de/leben/geschichte/persoenlichkeiten/ernst-abbe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 23. Januar 1840
+  geburtsort: Eisenach
+  vater: Georg Adam Abbe
+  mutter: Christina
+  studium_orte: Jena, Göttingen
+  studium_dauer: 1857-1861
+  promotion_ort: Göttingen
+  promotion_jahr: 1861
+  habilitation_ort: Jena
+  habilitation_jahr: 1863
+  position_ab_1870: Professor Universität Jena
+  fachgebiete: Mathematik, Physik
+  arbeitgeber: Carl Zeiss
+  arbeitgeber_ab: 1866
+  hauptleistung: Theorie der Abbildung im Mikroskop, wissenschaftliche Grundlagen der Optik
+  stellung_bei_zeiss: Mitarbeiter, später Teilhaber
+  zeisspersonal_1862: 25
+  zeisspersonal_1905: ca. 1400
+  zeissprodukterweiterung_ab: 1890
+  zusatzprodukte: Messgeräte (1890), Fotoobjektive (1890), Ferngläser (1894), astronomische Instrumente (1897), Bildmessgeräte (1901)
+  stiftungsgruendung: Carl-Zeiss-Stiftung
+  stiftungsgruendung_jahr: 1889
+  stiftung_alleineigntuemer: ab 1891
+  reformer_schwerpunkt: Sozialgesetzgebung
+  betriebsleistungen: Mitspracherechte, bezahlter Urlaub, Ertragspartizipation, Pensionsrecht, Lohnfortzahlung bei Krankheit, Achtstundentag ab 1900
+  todesjahr: 1905
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1905
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hugo Brehme
+QUELLE: https://www.eisenach.de/leben/geschichte/persoenlichkeiten/hugo-brehme/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 3. Dezember 1882
+  geburtsort: Eisenach
+  ausbildung: fotografisches Handwerk in Erfurt
+  erste_taetigkeit: deutsche Kolonien Afrikas
+  erstbesuch_mexiko: 1905
+  umzug_mexiko: 1908
+  arbeitsort: Mexiko-Stadt
+  hauptthemen: Landschaften Mexikos, Metropole Mexiko
+  dokumentation: Mexikanische Revolution, Portrait Emiliano Zapata
+  auszeichnungen: mehrere Preise
+  todesjahr: 13. Juni 1954
+  unesco_anerkennung: Gedächtnis der Welt
+  unesco_anerkennung_jahr: 2002
+  ausstellung_berlin: Martin-Gropius-Bau, Juni 2004
+  ausstellung_eisenach: Marstall Eisenacher Stadtschloss, 10. Juli - 28. August 2005
+  ausstellung_umfang: über 200 Aufnahmen
+  superlativ: bedeutendster Fotograf Lateinamerikas erste Hälfte 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1954
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Fritz Reuter
+QUELLE: https://www.eisenach.de/leben/geschichte/persoenlichkeiten/fritz-reuter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umzug_eisenach: 1863
+  ehepartner: Luise
+  literarischer_durchbruch: Mitte 1850er Jahre
+  werke_sprache: Niederdeutsch
+  titelwerke: "Ut de Franzosentid", "Ut mine Festungstid", "Ut mine Stromtid"
+  titel_ehrendoktor: Universität Rostock
+  titel_ehrendoktor_jahr: 1863
+  villenerbauer: Ludwig Bohnstedt (Architekt)
+  villenbauzeit: 1866-1868
+  villenstil: Neorenaissance
+  villenlage: Fuß der Wartburg
+  villenbesonderheit: Vorbild römische Villa
+  todesjahr: 12. Juli 1874
+  beisetzung_ort: Eisenacher Friedhof
+  beisetzung_datum: 15. Juli 1874
+  ehepartner_tod: 1894
+  ehepartner_beisetzung: Hauptfriedhof Eisenach
+  nach_testament: Villa an Schiller-Stiftung
+  villa_ankauf_stadt: 1895
+  villa_nutzung: Museum für niederdeutschen Dichter, Reuter-Haus
+  museum_ausstattung: Originalmoebel, Handschriften, Bilder, Bibliothek Reuters
+  museum_veranstaltungen: Konzerte, Lesungen, Vorträge
+  hochzeitslocation: ja
+  wagner_sammlung: Richard-Wagner-Sammlung, zweithäufigste nach Bayreuth
+  wagner_sammlung_ursprung: Nikolaus Oesterlein (1841-1898, österreichischer Sammler)
+  wagner_sammlung_umfang: ca. 20.000 Wagneriana
+  wagner_sammlung_ankauf: 1895
+  wagner_sammlung_eroeffnung: 1897
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1874
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Martin Luther
+QUELLE: https://www.eisenach.de/leben/geschichte/persoenlichkeiten/martin-luther/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schulbesuche_eisenach: 1498-1501
+  schule: Lateinschule Eisenach
+  gastfamilie: Familie Cotta
+  gastfamilie_später: Lutherhaus
+  predigt_ort: Georgenkirche
+  predigt_jahr: 1521
+  gefangennahme: 1521 nach Wormser Reichstag
+  gefangennahmeort: Wartburg
+  pseudonym_wartburg: "Junker Jörg"
+  gefangenschaftsdauer: 10 Monate bis 1. März 1522
+  bibelübersetzung: Neues Testament
+  uebersetzungsdauer: 11 Wochen
+  uebersetzungssprache: deutsch aus griechischer Fassung
+  veroeffentlichung_uebersetzung: September 1522
+  sprachenfolge: Grundlage für einheitliche deutsche Schriftsprache
+  besuch_1529: Marburger Religionsgespräch
+  gast_1540: Haus von Justus Menius am Pfarrberg, 3 Wochen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Richard Wagner
+QUELLE: https://www.eisenach.de/leben/geschichte/persoenlichkeiten/richard-wagner/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_wartburgansicht: April 1842
+  erste_wartburgansicht_herkunft: Reise von Paris durch Thüringen
+  opernwerk_inspiration: "Tannhäuser"
+  zweiter_aufenthalt: Mai 1849
+  zweiter_aufenthalt_grund: Flucht vor Verfolgung wegen Revolutionssympathie
+  zweiter_aufenthalt_begleiter: Friedrich Kühmstedt (Musikdirektor Eisenach, Kontrapunktist, Wartburgführer)
+  dritter_aufenthalt: Ende Oktober 1862
+  dritter_aufenthalt_grund: Reise nach Leipzig, Bahnhofsvorfall
+  dritter_aufenthalt_verweildauer: 5 Stunden
+  dritter_aufenthalt_aktivitaet: Wartburgbesuch, Besichtigung Restaurierungen
+  vierter_aufenthalt: Juli 1877
+  vierter_aufenthalt_datum: 27.-28. Juli 1877
+  vierter_aufenthalt_hotel: "Großherzog von Sachsen"
+  vierter_aufenthalt_begleitung: Frau Cosima, Sohn Siegfried (8 Jahre)
+  vierter_aufenthalt_dauer: 2 Tage
+  barbier: Christoph Spengler
+  wagner_sammlung_standort: Reuter-Villa (Reuter-Wagner-Museum)
+  wagner_sammlung_rang: zweithäufigste der Welt nach Bayreuth
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Horst Lippmann
+QUELLE: https://www.eisenach.de/leben/geschichte/persoenlichkeiten/horst-lippmann/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1927
+  geburtsort: Eisenach
+  herkunft_familie: Hoteliersfamilie
+  zuzug: Frankfurt am Main (kurz nach Geburt)
+  musikinstrument: Schlagzeug
+  jazzzeitung: "Mitteilungen für Freunde der modernen Tanzmusik"
+  jazzzeitung_zeit: Anfang 1940er Jahre
+  kontakte_jazz: Emil Mangelsdorff, Carlo Bohländer
+  karrierewechsel_nach_krieg: Konzertveranstalter
+  agentur_name: Lippmann + Rau
+  agentur_gruendung: Mitte 1950er Jahre
+  agentur_partner: Fritz Rau
+  verwaltete_kuenstler: Eric Clapton, Rolling Stones, Marlene Dietrich, Janis Joplin, Joan Baez, Bob Dylan, Jimi Hendrix, Duke Ellington
+  festivals: American Folk Blues Festivals
+  festival_dauer: 1962-1982
+  radioproduktion: Sendungen Hessischer Rundfunk und andere Sender
+  filmregie: über 40 Aufführungen "Jazz gehört und gesehen" (Fernsehsendung)
+  todesjahr: 1997 in Frankfurt am Main
+  nachlass: Internationales Jazz- und Blues-Archiv Eisenach
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1997
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heilige Elisabeth
+QUELLE: https://www.eisenach.de/leben/geschichte/persoenlichkeiten/heilige-elisabeth/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1207
+  geburtsort: Ungarn
+  eltern: König Andreas II., Gertrud von Andechs-Meranien
+  geburtsposition: drittes Kind
+  verlobung: 1211 mit Ludwig IV. an Landgrafenhof Thüringen
+  verlobungalter: 4 Jahre
+  mutter_tod: 1213 (Mord durch ungarische Adlige)
+  ehemann: Landgraf Ludwig IV.
+  hochzeitsjahr: 1221
+  kinder: Hermann II. (1222), Sophie, Herzogin von Brabant (1224), Gertrud Priorin (1227)
+  taetigkeit_als_landgraefin: Fürsorge für Arme und Kranke
+  reise_ungarn: 1222
+  weihnacht_krieg: Ludwig IV. 1226 zum Kreuzzug gerufen, Lege Kreuzzugsgelübde ab
+  handlung_1226: verwaltet Landgrafschaft, verteilt Vorräte bei Hungersnot, gründet Hospital am Fuß Wartburg
+  beichtvater: Konrad von Marburg ab 1226
+  mann_todesjahr: 1227
+  mann_todesjahr_genau: 11. September 1227 in Otranto
+  vertreibung_wartburg: 1227/1228
+  winters_unterkunft: armselige Unterkünfte in Eisenach mit Kindern
+  weltentsagung: 24. März 1228 (Karfreitag)
+  weltentsagung_ort: Franziskanerkirche Eisenach
+  umzug_marburg: folgt Beichtvater
+  hospital_marburg: gründet und pflegt persönlich
+  todesjahr: 1231
+  todesjahr_genau: 16./17. November 1231 in Marburg
+  aufbahrung: 3 Tage nach Tod
+  heiligsprechung_datum: 27. Mai 1235
+  heiligsprechung_ort: Perugia
+  heiligsprechung_zeuge: Konrad von Thüringen
+  wallfahrtsort_grabstelle: ab 1232
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1231
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Erich Windbichler
+QUELLE: https://www.eisenach.de/leben/geschichte/persoenlichkeiten/erich-windbichler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1904
+  geburtsort: Salzburg
+  studium_orte: Weimar, Wien
+  lebenszeit_eisenach: 1932-1944
+  werke_eisenach: Reiterstandbild St. Georg (Jakobsplan), Sgraffito "Mittelalterliche Tafelrunde" (ehemaliges Stadtcafé)
+  todesjahr: 1944
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1944
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ludwig der Springer
+QUELLE: https://www.eisenach.de/leben/geschichte/persoenlichkeiten/ludwig-der-springer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  legende_wartburg_gruendung: 1067
+  herkunft: Grafen aus fränkischem Geschlecht
+  genauigkeit: vermutlich
+  gruendungsmethode: transportierte körbeweise Erde von heimischem Boden auf den Fels bei Nacht
+  ausruf: "Wart` Berg, du sollst mir eine Burg werden"
+  ausruf_kontext: bei Jagd
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Charlotte von Stein
+QUELLE: https://www.eisenach.de/leben/geschichte/persoenlichkeiten/charlotte-von-stein/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1742
+  geburtsort: Eisenach
+  vater_position: Kammerjunker am herzoglichen Hof
+  erziehung_zeit: Alter 16 Jahre
+  erziehung_ort: Hof Herzogin Anna Amalia in Weimar
+  position_hof: Hoffräulein
+  ehemann: Josias von Stein (herzoglicher Stallmeister)
+  ehepartner_bewertung: ungeliebt
+  kinder: 7 Kinder
+  kinder_ueberlebend: 3 Söhne
+  goethe_ersttreffen: Dezember 1775
+  goethe_ersttreffen_ort: Weimar
+  goethe_alter_vergleich: 7 Jahre älter als Goethe
+  goethe_beschreibung: stürmischer junger Dichter
+  goethe_frueherebeziehungen: Käthchen, Friederike (Leipzig), Lilli (Sesenheim, Frankfurt)
+  beziehung_goethe_inspiration: Liebesbriefe und Gedichte von Goethe
+  goethe_abreise_italien: 1786
+  goethe_abreise_effekt: Freundschaft zerbrach
+  goethe_spaetere_beziehung: sachlich-korrekt
+  todesjahr: 1827 in Weimar
+  todesjahr_alter: 85 Jahre
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1827
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fernsehserie
+BEZEICHNUNG: Familie Dr. Kleist
+QUELLE: https://www.eisenach.de/leben/geschichte/persoenlichkeiten/dr-christian-kleist/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  drehort: Eisenach und Umgebung
+  handlungsort: Eisenach
+  sendebeginn: 2004
+  sender: ARD
+  sender_name_angeblich: Das Erste
+  ursprunglicher_sendeplatz: dienstags 20:15 Uhr
+  sendeplaene: 2004, 2006, 2008/09, 2010/11, 2013/14, 2016/2017
+  staffeln: 6
+  episoden_pro_staffel: 13
+  durchschnittszuschauer: über 6 Millionen
+  wiederholungsquote_2007: ca. 21%
+  letzter_drehzeitraum: 2015-2016
+  letzter_ausstrahlungsbeginn: 20. September 2016
+  letzter_sendeplatz: 18:50 Uhr Vorabendprogramm Das Erste
+  hauptrolle: Dr. Christian Kleist (Francis-Fulton Smith)
+  nebenrolle_ab_s5: Anwältin Anna Schöller (Ursula Buschhorn)
+  weiterer_cast: Marie Seiser, Luca Zamperoni, Lisa-Marie Koroll, Meo Wulf, Julian König, Uta Schorn, Walter Plathe, Tom Radisch, Winnie Böwe, Fabienne Haller
+  ausgestiegene_schauspieler: Christina Plate, Ulrich Pleitgen
+  produktionsgesellschaft: Polyphon Film- und Fernsehgesellschaft mbH
+  produzentinnen: Dr. Beatrice Kramm, Winka Wulff
+  regie: Stefan Bühling
+  drehbuch_erste_vier: Markus Mayer
+  executive_producer: Jana Brandt (MDR)
+  redaktion: Adrian Paul (MDR)
+  auftraggeber: ARD-Werbung, Mitteldeutscher Rundfunk
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

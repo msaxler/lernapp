@@ -1,0 +1,415 @@
+ZIELORT: Gerstungen (Gemeinde)
+LAGE: 55 km südöstlich von Kassel (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Gerstungen
+
+GRUNDDATEN:
+  landkreis: Wartburgkreis  [dewiki Infobox]
+  bundesland: Thüringen  [dewiki Infobox]
+  einwohner: 8767  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 149,97  [Wikidata P2046]
+  dichte_ew_km2: 58  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 205 | 218 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2920883)]
+  naechste_grossstadt: Kassel, 55 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Erfurt, 68 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Förtha (Kr Eisenach), Bahnhof Gerstungen, Bahnhof Marksuhl  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 99834  [Wikidata P281]
+  vorwahl: 03691, 036922, 036925, 036927  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 42,3 %, CDU 19,8 %, Die Linke 12,6 %, SPD 9 %, BSW 8,7 %; Wahlbeteiligung 82,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Daniel Steffan — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  kfz: ['SÖM', 'WAK', 'EA'] (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand geo.sqlite (Kreis 16063)]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Wildeck (Gemeinde)
+  landkreis: Hersfeld-Rotenburg  [dewiki Infobox]
+  einwohner: 4650  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 39,93  [Wikidata P2046]
+  kfz: HEF (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 216 | 231 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox]
+  naechste_grossstadt: Kassel, 53 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Wildeck-Hönebach, Haltepunkt Wildeck-Bosserode, Haltepunkt Wildeck-Obersuhl  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30 %, AfD 24 %, SPD 23,1 %, GRÜNE 5,6 %; Wahlbeteiligung 85,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Gerstungen):
+ID: 245-gerstungen/001
+ENTITÄT: ort
+BEZEICHNUNG: Gerstungen
+QUELLE: https://www.gerstungen.de/de/wappen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappen_beschreibung: auf grünem Grund ein silberner Storch mit roten Beinen und rotem Schnabel in einem goldenen Nest, im Schnabel eine goldene, abwärtshängende Ähre
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 245-gerstungen/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Burkhardtroda
+ORTSTEIL_BEZUG: Burkhardtroda
+QUELLE: https://www.gerstungen.de/de/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche_name: Sankt Anna Kirche
+  kirche_baujahr: 1787
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eckardtshausen
+ORTSTEIL_BEZUG: Eckardtshausen
+QUELLE: https://www.gerstungen.de/de/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche_name: Matthäikirche
+  kirche_baujahr: 1614
+  emporen_jahr: 1879
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Förtha
+ORTSTEIL_BEZUG: Förtha
+QUELLE: https://www.gerstungen.de/de/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historischer_kontext: lag an Handelsstraße Via Regia und Heerstraße
+  kirche_brand: 1634
+  kirche_wiederaufbau: 1674
+  kirche_wiederaufbau_grund: nach Brand
+GUELTIG_BIS: 1674
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 245-gerstungen/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lauchröden
+ORTSTEIL_BEZUG: Lauchröden
+QUELLE: https://www.gerstungen.de/de/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche_name: Martinskirche
+  kirche_ersterwähnung: 1144
+  kirche_umbauten: 1448, 1610-1612
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Marksuhl
+ORTSTEIL_BEZUG: Marksuhl
+QUELLE: https://www.gerstungen.de/de/renaissanceschloss-marksuhl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappen_beschreibung: von Rot und Silber gespalten, zeigt vorn einen spitzbedachten Turm mit Erkertürmchen (Kirche) und hinten einen roten Kuppelturm mit aufgesetztem beknauftem Kuppeltürmchen (Schloss)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 245-gerstungen/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neustädt
+ORTSTEIL_BEZUG: Neustädt
+QUELLE: https://www.gerstungen.de/de/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche_name: Erlöserkirche
+  kirche_baujahr: 1741
+  kirche_beschreibung: einfache Dorfkirche, Ensemble mit Pfarrhaus, Ziehbrunnen und Schule
+  kirchengemeinde_glieder: ca. 90
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberellen
+ORTSTEIL_BEZUG: Oberellen
+QUELLE: https://www.gerstungen.de/de/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche_name: Kirche in Oberellen
+  kirche_merkmal: Sakramentsnischen mit Relief (Maria mit Leichnam Jesu)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 245-gerstungen/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sallmannshausen
+ORTSTEIL_BEZUG: Sallmannshausen
+QUELLE: https://www.gerstungen.de/de/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche_name: Marienkirche
+  kirche_besonderheit: reichste Ausstattung unter Dorfkirchen des Kirchenkreises
+  kirche_chorraum: Untergeschoss des Turmes mit Kreuzrippengewölbe
+  kirche_herkunft: vorreformatorische Zeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 245-gerstungen/010
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unterellen
+ORTSTEIL_BEZUG: Unterellen
+QUELLE: https://www.gerstungen.de/de/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche_name: Sankt Trinitatis-Kirche
+  kirche_baujahr: 1714
+  kirche_vorgängerbau: 15. Jahrhundert
+  kirche_umbau: 1714
+  kirche_merkmale: zweigeschossige Emporen, schlicht hell
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/011
+ENTITÄT: ortsteil
+BEZEICHNUNG: Untersuhl
+ORTSTEIL_BEZUG: Untersuhl
+QUELLE: https://www.gerstungen.de/de/rundkirche-in-untersuhl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche_name: Rundkirche
+  kirche_besonderheit: Kirche auf runder Grundfläche, massiver Rundbau in Turmform
+  kirche_sakrale_nutzung_ab: 1420, genauigkeit: vermutlich
+  kirche_vorgängerfunktion: Wartturm und Zollstelle (vermutlich)
+  historischer_kontext: lag an Handelsstraße „Kurze Hessen"
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 245-gerstungen/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wolfsburg-Unkeroda
+ORTSTEIL_BEZUG: Wolfsburg-Unkeroda
+QUELLE: https://www.gerstungen.de/de/wolfsburgunkeroda.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: westlicher Thüringer Wald
+  erstwerwähnung_unkeroda: 1197
+  ersterwähnung_unkeroda_grund: Gütererwerb durch Kloster Volkenroda
+  ersterwähnung_wolfsburg: 1247
+  gewässer_elte: durchfließt Talaue
+  gewässer_elte_zuflüsse: Bärenbach, Attchenbach, Wallbach, Quellbäche (Unkengraben, Raufengraben, Hellergraben)
+  schmelzhütte: Attchenbach
+  rennsteig_länge: 6 km
+  nähe_wartburg: unweit des Ortes
+  nähe_eisenach: unweit des Ortes
+  infrastruktur: Kinderbetreuung, Seniorenwohnanlage, Allgemeinmediziner, Pflegedienst, Dorfgemeinschaftshaus
+  kirche_name: Erlöserkirche
+  kirche_baujahr: 1956
+  kirche_besonderheit: junger Sakralbau, Worte aus Buch Hiob über Eingang und Kanzel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/013
+ENTITÄT: kirche
+BEZEICHNUNG: Katharinenkirche
+ORTSTEIL_BEZUG: Gerstungen
+QUELLE: https://www.gerstungen.de/de/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: gehörte zu Burganlage
+  chor_baujahr: 15. Jahrhundert
+  ausstattung: spätgotisches Kruzifix über Triumphbogen
+  brand: 1588
+  neubau_kirchenschiff: nach 1588
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/014
+ENTITÄT: kirche
+BEZEICHNUNG: Freikirche Oberellen
+ORTSTEIL_BEZUG: Oberellen
+QUELLE: https://www.gerstungen.de/de/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  charakteristik: bunte Gemeinde, Menschen unterschiedlicher Altersgruppen und geistlicher Prägung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 245-gerstungen/015
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirchgemeinde Herz Jesu
+ORTSTEIL_BEZUG: Gerstungen
+QUELLE: https://www.gerstungen.de/de/kirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  verwaltung: Katholische Pfarrei St. Elisabeth Eisenach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/016
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Wilhelmsthal
+ORTSTEIL_BEZUG: Eckardtshausen
+QUELLE: https://www.gerstungen.de/de/schloss_wilhelmsthal.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Johann Wilhelm
+  erbauer_lebensdaten: 1660-1729
+  bauzeit: 1712-1715
+  baustil: barock, Sommerresidenz
+  lage: idyllische Lage am Wilhelmsthaler See
+  künstler_besucher: Georg Philipp Telemann u.a., Uraufführungen
+  organisation_erhaltung: Förderkreis Schlossanlage Wilhelmsthal e.V.
+  ensemble: Schloss, Park, Marstall
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 245-gerstungen/017
+ENTITÄT: schloss
+BEZEICHNUNG: Renaissanceschloss Marksuhl
+ORTSTEIL_BEZUG: Marksuhl
+QUELLE: https://www.gerstungen.de/de/renaissanceschloss-marksuhl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 1587
+  bauherr: Johann Casimir (Grundsteinlegung)
+  bauzeit: 1587-1591
+  residenz_für: Johann Ernst
+  erbauer_funktion: jagdfreudiger Fürst
+  baumaterial_ursprünglich: Steinbau mit Fachwerkobergeschoss (Süd-, West-, Nordflügel)
+  erster_bewohner: Johann Ernst
+  hochzeit_bewohner: 1591
+  hochzeitsgemahlin: Elisabeth (Mansfelder Grafentochter)
+  zweite_ehe: Christine (hessische Landgrafentochter)
+  nutzung_ab_1616: höfische Jagden
+  bedeutung_bis: ca. 1596
+  grund_bedeutungsverlust: Johann Ernst Residenzverlegung nach Eisenach
+  renovierungen_1714: oberes Stockwerk Westflügel abgetragen
+  renovierungen_1723: neuer Flügel L-förmig, Remise, nördlicher Anbau, Ostflügel, Schlossgarten erweitert
+  orangerie_jahr: 1723
+  gang_zur_kirche: 1736 überdachter Gang
+  turmerneuerung: 1739
+  turm_inschrift: WHHZS (Wilhelm Heinrich Herzog Sachsen)
+  nutzung_18jh: Unterkunft bei jagdlichen Ausflügen
+  nutzer_1741: Herzog Wilhelm Heinrich (1691-1741), starb dort
+  nutzer_1745: Herzog Ernst August (1688-1748)
+  schlossgarten_umgestaltung: 1745
+  hofgärtner: Pohl
+  hofbaumeister: Gottfried Heinrich Krohne
+  poststelle_1818: Erdgeschoss Südflügel
+  winterschule_1900_1923: 1. Obergeschoss Westflügel
+  schulnutzung_1934_1937: Volksschule Klassen 1-3 im Westflügel
+  nordflügel_nutzung_1937: Arbeitsdienst, Bund Deutscher Mädchen, Hitlerjugend, Kleiderkammer
+  kriegsschäden: Besichtigung 19.06.1945
+  sanierung_ab_1990er: Gemeinde Marksuhl
+  sanierungsabschnitt_1_fertig: 1996
+  sanierungsabschnitt_1_gebäude: Süd- und Westflügel
+  jugendclub_eröffnung: Mai 2000
+  jugendclub_lage: Gewölbekeller Westflügel
+  jugendclub_besonderheit: Vorzeigeobjekt im Wartburgkreis
+  poststelle_1966: erneut in Südflügel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 245-gerstungen/018
+ENTITÄT: museum
+BEZEICHNUNG: Grenzmuseum
+ORTSTEIL_BEZUG: Gerstungen
+QUELLE: https://www.gerstungen.de/de/grenzmuseum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  name_formal: Haus für Grenz- und Heimatgeschichte
+  grenzlehrpfad_eröffnung: 2009
+  grenzlehrpfad_anlass: 20 Jahre Öffnung innerdeutschen Grenze
+  grenzlehrpfad_länge: ca. 800 m
+  grenzlehrpfad_strecke: Wildeck-Obersuhl bis Grenzmuseum
+  grenzlehrpfad_ausstattung: 8 Schaukästen und Sondertafeln
+  grenzlehrpfad_zugänglichkeit: frei zugänglich, ganzjährig
+  museumszugang: nur nach Terminvereinbarung
+  geführte_wanderungen: möglich nach Vereinbarung
+  thema: ehemalige innerdeutsche Grenze, Grenzsperranlagen, Geschichte Gerstungen-Wildeck
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 245-gerstungen/019
+ENTITÄT: museum
+BEZEICHNUNG: Werratalmuseum
+QUELLE: https://www.gerstungen.de/de/startseite-museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_2026: geöffnet
+  sonderausstellung_ab_2026: Polizei in Thüringen – Rückblick einer Region
+  sonderausstellung_eröffnung_termin: 01.05.2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 245-gerstungen/020
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Luftschlacht 1944
+QUELLE: https://www.gerstungen.de/de/startseite-museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Werratal
+  jahr: 1944
+  gedenkfeier: 27.09.2026
+  gedenkfeier_ort: Lauchröden
+  neue_gedenktafeln: an Absturzstellen
+  beschreibung: bewegende Gedenkfeierlichkeit, 82 Jahre nach Luftschlacht
+GUELTIG_AB: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/021
+ENTITÄT: künstler
+BEZEICHNUNG: Georg Philipp Telemann
+QUELLE: https://www.gerstungen.de/de/schloss_wilhelmsthal.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: besuchte Schloss Wilhelmsthal
+  aktivität: Uraufführungen bei Schloss Wilhelmsthal
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/022
+ENTITÄT: region
+BEZEICHNUNG: Werra-Wartburgregion
+QUELLE: https://www.gerstungen.de/de/werrawartburgregion.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Schnittbereich Werratal, Thüringer Wald, Thüringer Rhön
+  charakteristik: malerisches Hügelland der Werraauen im Werrabogen zwischen Bad Salzungen und Eisenach
+  ostgrenze: Thüringer Wald und Rennsteig
+  vereinsgründung_arbeitsgemeinschaft: 2007
+  vereinneugründung: 2019
+  vereinsziel_1: nachhaltige Entwicklung Naturraum Werra
+  vereinsziel_2: Entwicklung Wegenetz für Wandern und Radfahren
+  vereinsziel_3: nachhaltige Siedlungsentwicklung
+  vereinsziel_4: Unterstützung Kunst und Kultur
+  mitglieder: Gerstungen, Werra-Suhl-Tal, Bad Salzungen, Barchfeld-Immelborn, Leimbach, Moorgrund, Wartburgkreis, Kreisbauernverband
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/023
+ENTITÄT: gewässer
+BEZEICHNUNG: Elte
+ORTSTEIL_BEZUG: Wolfsburg-Unkeroda
+QUELLE: https://www.gerstungen.de/de/wolfsburgunkeroda.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchfluss: Wolfsburg-Unkeroda
+  gefälle: mäßig
+  talaue_breite: ca. 200 m
+  abschnittslänge_gemarkung: ca. 4 km
+  zuflüsse: Bärenbach, Attchenbach, Wallbach, Unkengraben, Raufengraben, Hellergraben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/024
+ENTITÄT: gewässer
+BEZEICHNUNG: Werra
+QUELLE: https://www.gerstungen.de/de/werrawartburgregion.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristik: zentral für Region, Wasserwandern, Infrastrukturaufwertung geplant
+  infrastruktur: Wehr bei Sallmannshausen, Infoschilder, Bootstouren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 245-gerstungen/025
+ENTITÄT: naturmerkmal
+BEZEICHNUNG: Rennsteig
+QUELLE: https://www.gerstungen.de/de/wolfsburgunkeroda.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verlauf: nördliche Gemarkungsgrenze Wolfsburg-Unkeroda
+  länge_in_gemarkung: 6 km
+  attraktion: bekannt bei Wandertouristen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 245-gerstungen/026
+ENTITÄT: erhebung
+BEZEICHNUNG: Hohe Sonne
+ORTSTEIL_BEZUG: Wolfsburg-Unkeroda
+QUELLE: https://www.gerstungen.de/de/wolfsburgunkeroda.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 446 m
+VERTRAUEN_EXTRAKTION: 0.95
+

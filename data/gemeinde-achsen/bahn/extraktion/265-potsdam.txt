@@ -1,0 +1,1344 @@
+ENTITÄT: ort
+BEZEICHNUNG: Potsdam
+QUELLE: https://www.potsdam.de/de/kategorie/portrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung: 993
+  urkundliche_ersterwähnung_datum: 3. Juli 993
+  urkundliche_ersterwähnung_details: König Otto III. schenkte der Äbtissin Mathilde von Quedlinburg den Ort Poztupimi
+  geschichtsperioden: Residenz- und Garnisonstadt preußischer Kurfürsten und Könige
+  tag_von_potsdam: 21. März 1933
+  tag_von_potsdam_beschreibung: unheilvoller Tag, Reichstagsbrand in Berlin, Propagandaveranstaltung Hitlers
+  potsdamer_konferenz: Juli 1945
+  potsdamer_konferenz_ort: Schloss Cecilienhof
+  potsdamer_konferenz_bedeutung: Neuordnung der Welt mit Siegermächten
+  friedliche_revolution: 4. November 1989
+  friedliche_revolution_teilnehmer: ca. 100.000 Bürger
+  friedliche_revolution_ziele: demokratische Ziele
+  ist_landeshauptstadt: true
+  ist_landeshauptstadt_gueltig_ab: 1990
+  ist_landeshauptstadt_bundesland: Brandenburg
+  ist_welterbe_stadt: true
+  welterbe_typen: Schlösser und Gärten, Kulturlandschaft
+  ist_unesco_kreativstadt: true
+  unesco_kreativstadt_sparte: Film
+  einwohnerwachstum: Von 1860 bis 1890 um rund ein Drittel
+  geschichte_grundlage: mehr als 1000-jährige Geschichte
+  zentren: Bildung und Wissenschaft
+  stadt_charakteristika: UNESCO-Welterbe-Stadt, Stadt der Schlösser und Gärten, Havelseen, historische Kulturstadt
+GUELTIG_AB: 993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: koenig
+BEZEICHNUNG: Otto III.
+QUELLE: https://www.potsdam.de/de/kategorie/portrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft: ostfränkisch-deutsches Reich
+  title: König
+  spätere_position: Kaiser
+  aktion: schenkte Ort Potzupimi
+  aktion_empfänger: Äbtissin Mathilde von Quedlinburg
+  aktion_jahr: 993
+GUELTIG_AB: 993
+GUELTIG_BIS: 1002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: koenig
+BEZEICHNUNG: Friedrich Wilhelm I.
+QUELLE: https://www.potsdam.de/de/kategorie/portrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  staat: Preußen
+  aktion: Ausbau Potsdams zur militärischen Garnisonstadt
+  ordnung_schwerpunkt: Aufbau einer starken Armee
+GUELTIG_AB: 1660
+GUELTIG_BIS: 1740
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: koenig
+BEZEICHNUNG: Friedrich II. (Friedrich der Große)
+QUELLE: https://www.potsdam.de/de/kategorie/portrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Verwandlung Potsdams in repräsentative Residenzstadt
+  periode: 1740–1870
+  bedeutung: Schöpfungen seiner Zeit bestimmen noch heute Stadtbild und Charakter
+GUELTIG_AB: 1740
+GUELTIG_BIS: 1786
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Cecilienhof
+QUELLE: https://www.potsdam.de/de/kategorie/portrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Potsdamer Konferenz
+  ereignis_jahr: 1945
+  ereignis_monat: Juli
+  ereignis_bedeutung: Konferenz der Siegermächte, Neuordnung der Welt
+  status: Welterbe
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historische_figur
+BEZEICHNUNG: Günter Schade
+QUELLE: https://www.potsdam.de/de/kategorie/portrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Statistiker
+  status: verstorben
+  werk: Historische Statistik zu Potsdam
+  werk_umfang: umfangreiches statistisches Werk
+  werk_besonderheit: penibl recherchiert in historischen Quellen
+  werk_publikation: mehrere Veröffentlichungen in ehrenamtlicher Tätigkeit
+  werk_inhalt: Entwicklung Potsdams und ihrer Bevölkerung mit exakten statistischen Daten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historischer_parcours
+BEZEICHNUNG: Historischer Parcours Potsdam
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_tafeln: mehr als 40
+  typ: Informationstafeln
+  umfang: Potsdamer Stadtgebiet
+  inhalte: Geschichte von Potsdamer Bauwerken, Leben von Persönlichkeiten
+  besonderheiten: Stadttore, Obelisken auf Altem Markt und Neuem Tor, historische Gebäude
+  enthaltene_gebaeude: Altes Rathaus Alter Markt, Ständehaus Breite Straße, Weberhäuser Babelsberg
+  theodor_fontane_bezug: Schilder an Orten aus "Wanderungen durch die Mark Brandenburg"
+  zusatzinformationen: historische Bilder, QR-Codes, Informationen zu Sanierungs­finanzierung
+  ziel: Aufmerksamkeit auf historische Orte, Information Einwohner und Gäste
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Alte Neuendorfer Kirche
+ORTSTEIL_BEZUG: Babelsberg
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: oktogonal
+  beschreibung: elegante kleine Kapelle im ältesten Kern des heutigen Babelsberg
+  anstoss_geber: König Friedrich Wilhelm IV.
+  einweihung: 30. Januar 1853
+GUELTIG_AB: 1853
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: anwesen
+BEZEICHNUNG: Marquisat
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: barockenes gartenkünstlerisches Anwesen
+  periode: 18. Jahrhundert
+  lage: Neustädter Havelbucht
+  benannt_nach: Marquis d'Argens
+  beschreibung_namensherkunft: französischer Schriftsteller und Philosoph, tätig am Hof Friedrich II.
+  status: verschwunden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Vorland
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Fahrland
+  gueltig_ab_periode: 12. Jahrhundert
+  namenherkunft: Name des Ortes Fahrland leitet sich vom Namen dieser Burg ab
+  status: nicht mehr existent
+  nachfolgebau: Kindergarten auf den Fundamenten
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Amtshaus Fahrland
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  theodor_fontane_besuch: 1869
+  theodor_fontane_beschreibung: vorgefunden bei Besuch
+  status: nicht mehr existent
+  nachfolgebau: Kindergarten auf den Fundamenten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Bittschriftenlinde
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode_friedrich_ii: Institution
+  funktion: Sammlung von Bittschriften der Untertanen
+  funktion_frequenz: wöchentlich
+  koenig_friedrich_ii_handlung: ließ sich Bitten vorlegen, entschied häufig für Bürger gegen Beamtenschaft
+  langlebigkeit: überstand Könige und Kriege
+  faellung: 1949
+  wiederpflanzung: 1993
+  wiederpflanzung_anlass: 1000-Jahr-Feier Potsdams
+  wiederpflanzung_ort: historischer Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: tor
+BEZEICHNUNG: Brandenburger Tor
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur: ähnelt römischem Triumphbogen
+  besonderheit: zwei Baumeister mit zwei verschiedenen Gestaltungen
+  baumeister_stadtseite: Karl von Gontard
+  auftrag_stadtseite: von Friedrich II.
+  baumeister_feldseite: Georg Christian Unger
+  verhaeltnis_unger_gontard: Schüler von Karl von Gontard
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Lange Stall
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Stall
+  laenge: 170 Meter
+  baustil: eingeschossiger Fachwerkbau mit steilem Satteldach
+  baumeister: Pierre des Gayette
+  baujahr: 1734
+  baujahr_beschreibung: nach Plänen
+  auftraggeber: Friedrich Wilhelm I.
+GUELTIG_AB: 1734
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Blaue Grotte
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marquardt
+  erwerber: Hans Rudolph von Bischoffwerder
+  erwerbsjahr: 1795
+  konstruktion: doppelwandig
+  funktion: spiritistische Treffen des Ordens der Rosenkreuzer
+  gartenstil: englisch
+  anlagejahr: 1795
+GUELTIG_AB: 1795
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: grablege
+BEZEICHNUNG: Herrschaftliche Gartengruft
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marquardt
+  funktion: Begräbnisstätte
+  familie: von Bischoffwerder
+  dokumentation: Marquardter Kirchenbuch
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Lenné-Linde
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  botanischer_name: Sommerlinde (Tilia platyphyllos)
+  typ: Solitärbaum
+  stammzahl: dreistämmig
+  alter: ca. 190 Jahren
+  alter_stand: 2023
+  lage: Schlosspark Marquardt
+  position_park: wichtige Position in der Gestaltung des Schlossparks
+  parkplan: Peter Joseph Lenné
+  parkplan_jahr: 1823
+  auftraggeber_parkplan: Herr von Bischoffwerder
+GUELTIG_AB: 1823
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Feuerwehr Potsdam
+QUELLE: https://www.potsdam.de/de/von-tradition-zu-innovation-die-geschichte-der-feuerwehr-potsdam | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_freiwillig: 1851
+  typ_gründung: Freiwillige Feuerwehr
+  berufsfeuerwehr_jubilaeum: 150 Jahre
+  aufgaben: Brandbekämpfung, technische Hilfeleistung, Umweltschutz, Rettungsdienste
+  einsaetze_pro_tag: durchschnittlich ca. 100
+  leiter_2026: Ralf Krawinkel
+  adresse: Holzmarktstraße 6, 14467 Potsdam
+  tag_der_offenen_tuer: 5. September 2026
+GUELTIG_AB: 1851
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: leitstelle
+BEZEICHNUNG: Regionalleitstelle Nordwest Brandenburg
+QUELLE: https://www.potsdam.de/de/regionalleitstelle-nordwest-brandenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Potsdam
+  gründung: 15. Dezember 2010
+  zustaendigkeit_landkreise: Havelland, Ostprignitz-Ruppin, Prignitz
+  zustaendigkeit_stadt: Landeshauptstadt Potsdam
+  notrufe_jaehrlich: ca. 120.000
+  einsaetze_jaehrlich: ca. 90.000
+  arbeitsplaetze: 10
+  zustaendige_flaeche: ca. 6.500 km²
+  zustaendige_einwohner: ca. 500.000
+  organisationsform: Dreh- und Angelpunkt für Notrufe und Einsatzkoordi­nation Rettungsdienst und Feuerwehr
+  adresse: Holzmarktstraße 6, 14467 Potsdam
+  email: feuerwehr@rathaus.potsdam.de
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Sanssouci
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: UNESCO-Welterbe
+  verwaltung: Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg
+  rang: bekannteste Sehenswürdigkeit Potsdams
+  beschreibung: weltberühmt
+GUELTIG_AB: 1745
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Park Sanssouci
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: UNESCO-Welterbe
+  inhalte: viele Schlösser
+  verwaltung: Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg
+GUELTIG_AB: 1745
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Neuer Garten
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: UNESCO-Welterbe
+  sehenswuerdigkeiten: Marmorpalais, Schloss Cecilienhof
+GUELTIG_AB: 1786
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Park Babelsberg
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: UNESCO-Welterbe
+  sehenswuerdigkeiten: Schloss Babelsberg, Flatowturm, Gerichtslaube
+  verwaltung: Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Babelsberg
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: UNESCO-Welterbe (als Teil Park Babelsberg)
+  park: Park Babelsberg
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Volkspark
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: neue Attraktion
+  status_gueltig_ab: 1990
+  enthalt: Biosphäre Potsdam
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: quartier
+BEZEICHNUNG: Kultur- und Kreativquartier Schiffbauergasse
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Schiffbauergasse
+  status: neue Attraktion
+  status_gueltig_ab: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum Barberini
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: direkte Nachbarschaft zum neuen Landtag
+  status: neue Attraktion
+  status_gueltig_ab: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: DAS MINSK
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: neue Attraktion
+  status_gueltig_ab: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Alte Wache
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Anfang 18. Jahrhundert
+  funktion: Kontrolle von Händlern
+  handel_herkunft: Werder und Brandenburg an der Havel
+  lage: Lindenstraße / Ecke Charlottenstraße
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Alter Markt
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Herzstück Potsdams
+  gestalter: Friedrich der Große
+  periode: Mitte 18. Jahrhundert
+  stil: römischer Platz
+  lage: Havelnähe
+  inhalte: Stadttore, Obelisken, Altes Rathaus
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Belvedere auf dem Pfingstberg
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebote: Führungen, Theater, Konzerte, Kleinkunst, Ausstellungen
+  jahreszeit_schwerpunkt: vor allem Sommermonaten
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: naturerlebniswelt
+BEZEICHNUNG: Biosphäre Potsdam
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Volkspark
+  beschreibung: Naturerlebniswelt
+  pflanzen_anzahl: ca. 20.000
+  pflanzen_typ: tropische Pflanzen und Bäume
+  tierarten_anzahl: ca. 130 verschiedene Tierarten
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Bornstedter Friedhof
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  theodor_fontane_erwähnung: ja
+  theodor_fontane_beschreibung: berühmtester Potsdamer Friedhof
+  theodor_fontane_spruch: was in Sanssouci stirbt, auch in Bornstedt begraben wird
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: garten
+BEZEICHNUNG: Botanischer Garten Potsdam
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gewaechshaeuser: vorhanden
+  pflanzenarten: 4.600 verschiedene Pflanzenarten
+  herkunftsregionen: tropische und subtropische Gebiete
+  pflanzen_typen: Palmen, Farne, Ananas- und Aronstabgewächse, Orchideen, tropische Wasserpflanzen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Chinesisches Haus
+ORTSTEIL_BEZUG: Sanssouci Park
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1754-1757
+  form: kleeblattförmiger Untergrund
+  baumeister: Johann Gottfried Büring
+  auftraggeber: Friedrich II.
+  funktion: Speisesaal (Sommer)
+  status: UNESCO-Welterbe (als Teil Park Sanssouci)
+GUELTIG_AB: 1754
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Gutspark Groß Glienicke
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  elemente: Staffagebau, Brunnen, Grablege, Brückenkonstruktionsteile, Parkwegesystem, Teich mit Insel, Potsdamer Tor, ehemaliger Gutskindergarten, Schnitterkaserne
+  beschreibung: bedeutungsvoller Gutspark
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: naturdenkmäler
+BEZEICHNUNG: Naturdenkmäler Potsdam
+QUELLE: https://www.potsdam.de/de/kategorie/naturdenkmaeler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verordnung: Potsdamer Naturdenkmalverordnung (PNDVO)
+  beschluss_datum: 1. Juli 2026
+  veroeffentlichung: 17. September 2026 im Amtsblatt 17/2026
+  anzahl_gesamt: 66
+  anzahl_baeume: 59 (Bäume, Baumreihen und -gruppen)
+  anzahl_findlinge: 7
+  schutzkriteria: wissenschaftliche, naturgeschichtliche oder landeskundliche Gründe, Seltenheit, Eigenart
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Silber-Pappel (Populus alba)
+ORTSTEIL_BEZUG: Babelsberg Süd
+QUELLE: https://www.potsdam.de/de/kategorie/naturdenkmaeler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  naturdenkmal_nr: 58
+  lage: Wetzlarer Straße / Ecke Orenstein & Koppel Straße
+  grundstück: ViP Verkehrshof, nordöstliche Grundstücksgrenze
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Flatter-Ulme (Ulmus laevis)
+ORTSTEIL_BEZUG: Babelsberg Süd
+QUELLE: https://www.potsdam.de/de/kategorie/naturdenkmaeler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  naturdenkmal_nr: 57
+  lage: Straßenbaum vor Großbeerenstraße 140
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Stiel-Eiche (Quercus robu)
+ORTSTEIL_BEZUG: Babelsberg Süd
+QUELLE: https://www.potsdam.de/de/kategorie/naturdenkmaeler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  naturdenkmal_nr: 56
+  lage: Großbeerenstraße 135, zwischen Tankstelle und Gewerbegebiet
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: findling
+BEZEICHNUNG: Findling Granit
+ORTSTEIL_BEZUG: Babelsberg Süd
+QUELLE: https://www.potsdam.de/de/kategorie/naturdenkmaeler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  naturdenkmal_nr: 55
+  material: Granit
+  lage: Willi-Frohwein-Platz, Großbeerenstraße / Ecke Pestalozzistraße
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Stiel-Eiche (Quercus robur)
+ORTSTEIL_BEZUG: Babelsberg Nord
+QUELLE: https://www.potsdam.de/de/kategorie/naturdenkmaeler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  naturdenkmal_nr: 54
+  lage: Karl-Liebknecht-Straße 135, nördlich vom Rathaus Babelsberg
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Winter-Linde (Tilia cordata)
+ORTSTEIL_BEZUG: Babelsberg Nord
+QUELLE: https://www.potsdam.de/de/kategorie/naturdenkmaeler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  naturdenkmal_nr: 53
+  lage: Weberplatz, an der Kirche vor der Sakristei
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Weißer Maulbeerbaum (Morus alba)
+ORTSTEIL_BEZUG: Babelsberg Nord
+QUELLE: https://www.potsdam.de/de/kategorie/naturdenkmaeler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  naturdenkmal_nr: 52
+  lage: Weberplatz / Ecke Lutherstraße
+  besonderheit: fremdländischer Baum
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Riesen-Lebensbäume (Thuja plicata)
+ORTSTEIL_BEZUG: Babelsberg Nord
+QUELLE: https://www.potsdam.de/de/kategorie/naturdenkmaeler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  naturdenkmal_nr: 51
+  anzahl: vier
+  lage: Stubenrauchstraße 11, Vorgartenbereich des Grundstückes
+  besonderheit: fremdländischer Baum
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Stiel-Eiche (Fagus sylvatica purpurea)
+ORTSTEIL_BEZUG: Babelsberg Nord
+QUELLE: https://www.potsdam.de/de/kategorie/naturdenkmaeler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  naturdenkmal_nr: 50
+  lage: Karl-Marx-Straße 58, Gartenbereich des Grundstückes
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Blut-Buche (Fagus sylvatica purpurea)
+ORTSTEIL_BEZUG: Babelsberg Nord
+QUELLE: https://www.potsdam.de/de/kategorie/naturdenkmaeler | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  naturdenkmal_nr: 49
+  lage: Eingangsbereich Virchowstraße 33, Grundstück "Landhaus Silberstein"
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Marquardt
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 2003
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Uetz-Paaren
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 2003
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fahrland
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 2003
+  beschreibung: Mittelpunkt Brandenburgs
+  besiedlung: Schon vor Tausenden von Jahren
+  gewaesser: Fahrlander See
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neu Fahrland
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 2003
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Satzkorn
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 2003
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Golm
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 2003
+  beschreibung: größter Wissenschaftsstandort Brandenburgs
+  charakterisierung: Wasser, Wiesen, Wissenschaft
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Groß Glienicke
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 2003
+  lage: zwischen Groß Glienicker und Sacrower See, Königswald und Döberitzer Heide
+  beschreibung: malerische Lage
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eiche
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1993
+  beschreibung: wachsender Ortsteil im Nordwesten Potsdams
+  lage: direkt an Park Sanssouci anschließend
+  lage_beschreibung: der Ort hinter dem Neuen Palais
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Grube
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1993
+  urkundliche_ersterwähnung: 1265
+  beschreibung: wasserreiche Idyll mit Storchennest
+  teilgebiete: Neugrube, Nattwerder, Schlänitzsee
+  einwohner: insgesamt 423
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Am Stern und Drewitz
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Südosten Potsdams
+  charakterisierung: Großsiedlungen, umgeben von Wald, Parforceheide und Nuthewiesen
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: stadtbezirk
+BEZEICHNUNG: Bornim – Bornstedt – Nedlitz
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nördlichster Bezirk der Stadt
+  charakterisierung: ländlicher Charakter
+  zusammensetzung: ehemalige Siedlungen Bornim und Bornstedt
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bornim
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1935
+  charakterisierung: Garten und Landschaftskunst
+  besonderheit: dörflicher Charakter bewahrt trotz Eingemeindung
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bornstedt
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: italienisches Dörfchen mit Campanile
+  theodor_fontane_beschreibung: die Rückwand von Sanssouci
+  sehenswuerdigkeiten: bekannte Sehenswürdigkeiten und Ausflugsziele
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Brandenburger Vorstadt – Potsdam West – Wildpark
+QUELLE: https://www.potsdam.de/de/kategorie/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: vor Brandenburger Tor am Ende der Fußgängerzone
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Weide mit Adam und Eva
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Rainer Fürstenberg
+  jahr: 2006
+  material: Edelstahl
+  basis: Zeichnungen von Schülern der Weidenhof-Grundschule
+  künstler_lebensdaten: 1961-2013
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Wandvögel
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Helmut Bierwagen und Wolf-Dieter Pfennig
+  jahr: um 1989
+  lage: Bisamkiez (Wohngebiet)
+  beschreibung: humorvolle Gestaltung, farbenfroher Orientierungspunkt
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Urhuhn
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Manfred Rößler
+  jahr: 1986/87
+  lage: Schlaatzer Welle
+  typ: Spiel- und Kletterfigur
+  künstler_berufe: Keramiker, Maler, Grafiker
+  künstler_lebensdaten: *1935
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Hund und Katze
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Ruth Fitze-Lühnsdorf
+  jahr: 1985/1986
+  lage: Biberkiez 16/17
+  material: Stein
+  beschreibung: Gegensätzliche Charaktere – Hund zeigt Ruhe und Trägheit, Katze gewandt und fordert Nähe ein
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Hauszeichen
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Erich Wrede, Wolfgang Butze, Helmut Bierwagen u.a.
+  jahr: um 1985
+  inspiration: Umgebung der Nuthe
+  etymologie_schlaatz: slawisch, bedeutet "vom Sumpf umgeben"
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Großer Krake (Kinderrutsche)
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Johannes Bürger
+  jahr: Anfang 1980er Jahre
+  lage: Magnus-Zeller-Platz, Wohngebiet Schlaatz
+  beschreibung: symbolische Verbindung von Stadt- und Naturraum
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Fische, Vogelnest-Stele, Reptil-Rutsche
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Christian Heinze
+  jahr: um 1986
+  lage: Schlaatzer Welle
+  künstler_berufe: Maler, Grafiker
+  künstler_lebensdaten: *1941
+  beschreibung: bespielbaren Tierplastiken, Erinnerung an Ursprünglichkeit des Ortes
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Feuerwanze, Kellerassel, Marienkäfer, Bisamratte
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Marcus Iden
+  jahr: 2004
+  lage: Tram-Haltestelle Bisamkiez
+  künstler_lebensdaten: *1978
+  beschreibung: überlebensgroße Tierplastiken, wecken Neugierde, Betrachtungsmöglichkeit in der Nähe
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Elemente des Lebens
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Petra Paschke
+  jahr: 1987/88
+  lage: Bisamkiez
+  elemente: Feuer, Wasser, Erde, Luft
+  beschreibung: tierische Bewohner illustrieren die vier Grundelemente aller Existenz
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Drehspiel Frosch-Katze-Gans
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Marcus Iden
+  jahr: 2004
+  lage: Eingangsbereich Kindertagesstätte Schlaatz
+  künstler_lebensdaten: *1978
+  beschreibung: Verbindung von Spielzeug und Skulptur zu markanter Gestaltung
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Rainer Fürstenberg
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1961-2013
+  werke: Weide mit Adam und Eva
+GUELTIG_AB: 1961
+GUELTIG_BIS: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Helmut Bierwagen
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: *1936
+  berufe: Grafiker
+  werke: Wandvögel, Hauszeichen
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Wolf-Dieter Pfennig
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke: Wandvögel
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Manfred Rößler
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: *1935
+  berufe: Keramiker, Maler, Grafiker
+  werke: Urhuhn
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Ruth Fitze-Lühnsdorf
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke: Hund und Katze
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Erich Wrede
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: *1935
+  berufe: Grafiker
+  werke: Hauszeichen
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Wolfgang Butze
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1933-2014
+  berufe: Grafiker
+  werke: Hauszeichen
+GUELTIG_AB: 1933
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Christian Heinze
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: *1941
+  berufe: Maler, Grafiker
+  werke: Fische, Vogelnest-Stele, Reptil-Rutsche
+GUELTIG_AB: 1941
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Marcus Iden
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: *1978
+  berufe: Bildhauer
+  werke: Großer Krake, Feuerwanze, Kellerassel, Marienkäfer, Bisamratte, Drehspiel Frosch-Katze-Gans
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Petra Paschke
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke: Elemente des Lebens
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Johannes Bürger
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke: Großer Krake (Kinderrutsche)
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: historische_figur
+BEZEICHNUNG: Karl von Gontard
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke: Brandenburger Tor (Stadtseite)
+  auftrag: von Friedrich II.
+  schueler: Georg Christian Unger
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historische_figur
+BEZEICHNUNG: Georg Christian Unger
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke: Brandenburger Tor (Feldseite)
+  verhaeltnis: Schüler von Karl von Gontard
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historische_figur
+BEZEICHNUNG: Pierre des Gayette
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke: Lange Stall (Pläne)
+  baujahr: 1734
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: historische_figur
+BEZEICHNUNG: Hans Rudolph von Bischoffwerder
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerb: Anwesen Marquardt
+  erwerbsjahr: 1795
+  aktion: Anlage englischer Garten und Blauer Grotte
+  auftrag_an_lenné: Parkplan Schlosspark Marquardt
+  auftrag_lenné_jahr: 1823
+GUELTIG_AB: 1795
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: historische_figur
+BEZEICHNUNG: Peter Joseph Lenné
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke: Parkplan Schlosspark Marquardt
+  werkjahr: 1823
+  auftraggeber: Herr von Bischoffwerder
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historische_figur
+BEZEICHNUNG: Johann Gottfried Büring
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke: Chinesisches Haus Park Sanssouci
+  baujahr: 1754-1757
+  auftrag: von Friedrich II.
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historische_figur
+BEZEICHNUNG: Marquis d'Argens
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nationalisierung: Französisch
+  berufe: Schriftsteller, Philosoph
+  tätigkeit: tätig am Hof Friedrich II.
+  namenspate: Marquisat
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: historische_figur
+BEZEICHNUNG: Theodor Fontane
+QUELLE: https://www.potsdam.de/de/kategorie/historischer-parcours | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke: Wanderungen durch die Mark Brandenburg
+  inhalte_werk: Beschreibung von Potsdamer Ortsteilen
+  fontane_bornstedt_beschreibung: Rückwand von Sanssouci
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historische_figur
+BEZEICHNUNG: Mathilde von Quedlinburg
+QUELLE: https://www.potsdam.de/de/kategorie/portrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Äbtissin
+  geschenk: Ort Potzupimi
+  schenker: König Otto III.
+  schenkjahr: 993
+GUELTIG_AB: 993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: leitstelle
+BEZEICHNUNG: Regionalleitstelle Brandenburg
+QUELLE: https://www.potsdam.de/de/regionalleitstelle-nordwest-brandenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Brandenburg an der Havel
+  zustaendigkeit_landkreise: Potsdam-Mittelmark, Teltow-Fläming
+  zustaendigkeit_stadt: Brandenburg an der Havel
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stiftung
+BEZEICHNUNG: Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verwaltung: Schlösser und Gärten Potsdam
+  verwaltung_orte: Schloss Sanssouci, Park Sanssouci, Neuer Garten, Park Babelsberg
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: PMSG Potsdam Marketing und Service GmbH
+QUELLE: https://www.potsdam.de/de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: touristische Angebote und Informationen
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Weidenhof-Grundschule
+QUELLE: https://www.potsdam.de/de/kategorie/potsdamer-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: Schüler beteiligt an Kunstwerk Weide mit Adam und Eva
+  kunstwerk_basis: Zeichnungen der Schüler
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ralf_krawinkel
+BEZEICHNUNG: Ralf Krawinkel
+QUELLE: https://www.potsdam.de/de/von-tradition-zu-innovation-die-geschichte-der-feuerwehr-potsdam | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Leiter der Feuerwehr Potsdam
+  jahr_angabe: 2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

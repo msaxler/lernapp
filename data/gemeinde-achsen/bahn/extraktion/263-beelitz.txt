@@ -1,0 +1,228 @@
+ENTITÄT: ort
+BEZEICHNUNG: Beelitz
+QUELLE: https://beelitz.de/beelitz-und-seine-ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Herz Brandenburgs
+  landschaften: waldreiche Zauche-Landschaft und Nuthe-Nieplitz-Niederung
+  urkundliche_ersterwahnung: 997
+  namensherkunft: slawischer Ortsname "belizi" aus Kaiser Ottos III. Urkunde
+  gau: slawischer Gau Bloni
+  urbegriff: vermutlich Slawenburg an der Nieplitz
+  civitas_seit: 1247
+  geschichte_mittelalter: Marktflecken und Pilgerort
+  geschichte_neuzeit: Ackerbürgerstadt, ab 18. Jahrhundert Garnisonstadt
+  postkutschenlinie: Berlin-Leipzig
+  beiname: Spargelstadt
+  spargelanbau_tradition_jahre: 160
+  spargelanbau_flaeche_ha: 1100
+  wunderblut_legende: ja, Spätmittelalter, bescherte Pilgerstrom
+  fusioniert: 2002 mit 17 Dörfern
+  flaeche_qkm: 180
+  einwohner: 14352
+  einwohner_stand: 2026-03-06
+  ortsteile_gesamt: 13
+GUELTIG_AB: 997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtpfarrkirche
+ORTSTEIL_BEZUG: Beelitz
+QUELLE: https://beelitz.de/beelitz-und-seine-ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aelteste_gebaeude_stadt: ja
+  bauzeit_beginn: vor ca. 850 Jahren
+  genauigkeit: "ca."
+GUELTIG_AB: 1176
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Stadtbahnhof
+ORTSTEIL_BEZUG: Beelitz
+QUELLE: https://beelitz.de/beelitz-und-seine-ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnet: 1904
+  restauriert_kuerzlich: ja
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Wasserturm
+ORTSTEIL_BEZUG: Beelitz
+QUELLE: https://beelitz.de/beelitz-und-seine-ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: hoechster Punkt der Stadt, Live-Kamera überträgt von hier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Schönefeld
+ORTSTEIL_BEZUG: Beelitz
+QUELLE: https://beelitz.de/beelitz-und-seine-ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindeteil: ja, zur Kernstadt gehörig
+  ortstyp: Straßenangerdorf
+  geschichte: ehemaliger Standort Übersee-Funkempfangsanlage
+  funk_vergangenheit_jahren: ca. 80
+  beiname_historisch: "Ohr zur Welt"
+  besonderheit: Reiter- und Pferdehöfe
+  einwohner: 6100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Beelitz-Heilstätten
+ORTSTEIL_BEZUG: Beelitz
+QUELLE: https://beelitz.de/beelitz-und-seine-ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: ca. 1900
+  errichtungsphase: vier Quadranten
+  errichtungszeit: 1898-1900
+  ursprung: hochmoderner Klinikkomplex gegen Tuberkulose
+  zweck_original: Berliner Arbeiter mit frischer Luft heilen
+  nutzung_weltkriege: Lazarett
+  nutzung_ddr: Sperrgebiet der Roten Armee
+  sowjetischer_abzug: 1994
+  historische_gebaeude: ca. 60
+  neubau_wohneinheiten_mehrfamilien: 200
+  neubau_einfamilien_reihen_doppel: 800
+  infrastruktur: Hotel, Restaurants, Waldpark "Baum&Zeit", Barfußpark
+  verwaltungsneubau_geplant: Landkreis Potsdam-Mittelmark
+  ortsteil_status_seit: 2024-02-20
+  ortsbeirat_erste_wahl: 2024-06-09
+  einwohner: 2000
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Buchholz
+ORTSTEIL_BEZUG: Beelitz
+QUELLE: https://beelitz.de/beelitz-und-seine-ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 1343
+  gleichnamige_orte_deutschland: 86
+  einzigartigkeit: einmalig unter den Buchholzen
+  architektur: viele aus rotem Backstein errichtete Bauerngehöfte
+  kirche_besonderheit: leicht schiefer Turm
+  superlativ: echtes Unikum in der Region
+  wirtschaft: Spargelanbau
+  verkehr_bahn: Strecke Jüterbog-Wannsee, stündlich Halt
+  umweltprojekt: Blühwiesen mit Wildpflanzen durch Blühstreifen-Beelitz e.V.
+  kulturveranstaltung_advent: Lichterfest
+  kulturveranstaltung_januar: Zempern
+  musikfest: "Buchholzer Fest der Blasmusik" Ende Mai
+  jugendblasorchester_seit: ca. 60 Jahren
+  besonderheit_musik: könnte "Musikalisch Buchholz" heißen
+  dorfverein: Gemeinnütziger Dorfverein Buchholz / Zauche mit Ortschronik
+  erste_musik_dorfgemeinschaftshaus: Potsdam-Mittelmark
+  fussball_gruppe: "Zauchejungs" (Freizeit)
+  fussball_jugend: "Zauchekids"
+  einwohner: 2000
+GUELTIG_AB: 1343
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Busendorf
+ORTSTEIL_BEZUG: Beelitz
+QUELLE: https://beelitz.de/beelitz-und-seine-ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 1420
+  gruppierung: Teil der "drei sächsischen Dörfer" mit Kanin und Klaistow
+  geschichte_sachsen: bis 1815 Exklave des Königreichs Sachsen
+  anekdoten: Grenzstreit, Schmuggel, Soldatenflucht aus Friedrichs des Großen Heer
+  politische_integration: 1815 durch Wiener Kongress zu Brandenburg-Preußen
+  gemeindezusammenlegung: 1950 mit Kanin und Klaistow
+  infrastruktur_gemeinsam: Schule und Kirche mit Kanin und Klaistow
+  kirche_alter: 12. Jahrhundert als Wehrbau auf Anhöhe
+  kirche_besonderheit: wahrscheinlich älteste Feldsteinkirche Brandenburgs
+  landschaft: waldreiche Zauche
+  freizeit_zielgruppen: Wanderer, Radfahrer, Reiter
+  spargelhof_1: Familie Simianer mit Hofrestaurant
+  spargelhof_2: Buschmann & Winkelmann mit Hofrestaurant
+  sportverein: SV 71
+  kulturveranstaltungen: Sommerfest, Adventsmärkte
+  einwohner: 677
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Kanin
+ORTSTEIL_BEZUG: Beelitz
+QUELLE: https://beelitz.de/beelitz-und-seine-ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 1420
+  gruppierung: Teil der "drei sächsischen Dörfer" mit Busendorf und Klaistow
+  geschichte_sachsen: bis 1815 Exklave des Königreichs Sachsen
+  gemeindezusammenlegung: 1950 mit Busendorf und Klaistow
+  infrastruktur_gemeinsam: Schule und Kirche mit Busendorf und Klaistow
+  kirche_alter: 12. Jahrhundert
+  kirche_besonderheit: wahrscheinlich älteste Feldsteinkirche Brandenburgs
+  kita: "Kaniner Zwerge" (in einstiger Dorfschule)
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Klaistow
+ORTSTEIL_BEZUG: Beelitz
+QUELLE: https://beelitz.de/beelitz-und-seine-ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 1420
+  gruppierung: Teil der "drei sächsischen Dörfer" mit Busendorf und Kanin
+  geschichte_sachsen: bis 1815 Exklave des Königreichs Sachsen
+  gemeindezusammenlegung: 1950 mit Busendorf und Kanin
+  infrastruktur_gemeinsam: Schule und Kirche mit Busendorf und Kanin
+  kirche_alter: 12. Jahrhundert
+  kirche_besonderheit: wahrscheinlich älteste Feldsteinkirche Brandenburgs
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Elsholz
+ORTSTEIL_BEZUG: Beelitz
+QUELLE: https://beelitz.de/beelitz-und-seine-ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 1375
+  ortstyp: märkisches Straßenangerdorf
+  lage: zwischen Wäldern, Wiesen und Ackerflächen
+  charakteristik: Dorfidyll
+  kirche_bauzeit: um 1712
+  kirche_art: kleine Kirche
+  baudenkmaeler: Bauerngehöfte, Dorfteich
+  landnutzung: Pferdekoppeln, Rinderhaltung
+  besonderheit_weg: Jakobs-Pilgerweg durchführend
+  kulturveranstaltung_januar: Zempern
+  kulturveranstaltung_februar: Elsholzer Karneval
+  kulturveranstaltung_mai: Maibaum
+  kulturveranstaltung_sommer: Dorffest
+  soziale_strukturen: Seniorenclub, Familienveranstaltungen
+  spargelhof: familiengeführt
+GUELTIG_AB: 1375
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,227 @@
+ZIELORT: Weimar (Stadt)
+LAGE: 19 km westlich von Jena (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Weimar
+
+GRUNDDATEN:
+  bundesland: Thüringen  [dewiki Infobox]
+  einwohner: 65.566  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 84,48 | 84,47  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 776  [berechnet aus Einwohner und Fläche]
+  kfz: WE (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 208 | 220 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2812482)]
+  naechste_grossstadt: Jena, 19 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Erfurt, 21 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 899  [Wikidata P1249; Altbestand geschichte.json]
+  bahnhof: Bahnhof Buchenwald, Bahnhof Holzdorf (b Weimar), Bahnhof Weimar, Haltepunkt Legefeld, Haltepunkt Nohra (b Weimar), Haltepunkt Oberweimar, Haltepunkt Weimar West, Weimar Berkaer Bahnhof  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 99423, 99425, 99427  [Wikidata P281]
+  vorwahl: 03643, 036453  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 24,2 %, Die Linke 23,2 %, CDU 16,7 %, GRÜNE 11 %, SPD 10,7 %, BSW 9,3 %; Wahlbeteiligung 82,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Peter Kleine (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Blois, Hämeenlinna, Siena, Trier, Zamość  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Jahr der ersten Erwähnung), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Nesse-Apfelstädt (Gemeinde)
+  landkreis: Gotha  [dewiki Infobox]
+  einwohner: 5998  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 39,59  [Wikidata P2046]
+  kfz: GTH (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 242  [Wikidata P2044; dewiki Infobox]
+  naechste_grossstadt: Erfurt, 11 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Neudietendorf  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 33,9 %, CDU 20,4 %, Die Linke 16,4 %, BSW 9,4 %, SPD 9,4 %; Wahlbeteiligung 83 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Weimar):
+ID: 251-weimar/001
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Albert Schweitzer
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rollen: Humanist und Urwaldarzt
+  gedenkstätte: eingerichtet im ehemaligen Wohnhaus von Carl August Musäus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 251-weimar/002
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Daniel Falk
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1768-1826
+  tätigkeitsjahre_weimar: 1797 bis zu seinem Tode
+  rollen: Schriftsteller, Diplomat, Sozialpädagoge
+GUELTIG_AB: 1768
+GUELTIG_BIS: 1826
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 251-weimar/003
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Charlotte von Stein
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensabschnitte: Kindheit und Jugend im Palais Schardt (Goethepavillon)
+  kontakt: kannte den jungen Goethe
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 251-weimar/004
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Maria Pawlowna
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/kirchen-und-friedhoefe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: russische Großfürstin
+  ehe: mit Carl Friedrich verheiratet
+  grabkapelle: Russisch-Orthodoxe Kapelle auf Historischem Friedhof
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 251-weimar/005
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Carl Friedrich
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/kirchen-und-friedhoefe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Großherzog
+  genealogie: Sohn von Carl August
+  ehe: mit Maria Pawlowna verheiratet
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 251-weimar/006
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Friedrich Justin Bertuch
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Goethe-Zeitgenosse und Verleger
+  gartengut: Garten wurde 1932 umgestaltet zu Weimarhallenpark
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 251-weimar/007
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Otto Krebs
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: ehemaliger Besitzer
+  park_gestaltung: ließ Gutsanlage zu Park im französischen Stil umgestalten
+  gestaltungszeit: 1920er Jahre
+  park: Park Holzdorf
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 251-weimar/008
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christiane Vulpius
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beziehung: Goethes Frau
+  garten_nutzung: nutzte Hausgarten zur Versorgung mit Obst und Gemüse
+  grabstätte: Jakobskirchhof
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 251-weimar/009
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Franz Kirms
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Geheimer Rat
+  aktivität: gehörte zu Weimarer Blumisten
+  sammlungen: zog botanische Raritäten
+  garten: Garten Kirms-Krackow-Haus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 251-weimar/010
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Charlotte Krackow
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genealogie: Nichte von Franz Kirms
+  aktivität: pflegte Blumisten-Erbe bis ins 20. Jahrhundert
+  garten: Garten Kirms-Krackow-Haus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 251-weimar/011
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Prinz Constantin
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genealogie: jüngster Sohn Anna Amalias
+  park_gestaltung: legte erste landschaftlich gestalteten Partien des Schlosspark Tiefurt an
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 251-weimar/012
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Herzog Carl August
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Herzog / Erbprinz
+  aktivitäten: kaufte Gartenhaus für Goethe, ließ Parkhöhle graben (Ende 18. Jahrhundert), Bauherr Schloss Belvedere
+  schlösser_anzahl: rund 20 Jagd- und Lustschlösser
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 251-weimar/013
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johann Sebastian Bach
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Musiker und Komponist
+  wichtige_jahre: in Weimar
+  erlebnisort: "Bach in Weimar" in der Bastille des Stadtschlosses
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 251-weimar/014
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Jakob Elkan
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/kirchen-und-friedhoefe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: jüdischer Banker
+  gründer: Jüdischer Friedhof
+  gründung: 1774
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 251-weimar/015
+ENTITÄT: kunstschule
+BEZEICHNUNG: Bauhaus
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsort: Weimar
+  erste_ausstellung: 1923
+  sammlung: weltweit älteste Bauhaus-Sammlung
+  einzige_architektur_realisierung: Haus Am Horn
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 251-weimar/016
+ENTITÄT: politisches_system
+BEZEICHNUNG: Weimarer Republik
+QUELLE: https://www.weimar.de/kultur/sehenswuerdigkeiten/museen-in-weimar/haus-der-weimarer-republik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsort: Weimar
+  charakter: erste deutsche Demokratie
+  gründungsveranstaltung: Tagung der Nationalversammlung im Deutschen Nationaltheater Weimar
+  zeitliche_charakteristika: revolutionäre Anfänge, politische Etablierung und Konsolidierung, Goldene Zwanziger, Krisen
+  meilensteine: Frauenwahlrecht, Grundrechte, Trennung von Kirche und Staat
+  herausforderungen: Putschversuche, Massenarbeitslosigkeit, Attentate
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+

@@ -1,0 +1,583 @@
+ENTITÄT: ort
+BEZEICHNUNG: Herleshausen
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwähnung: 1019
+  erste_erwähnung_form: Herleicheshuson
+  bundesland: Hessen
+  kreis: Werra-Meißner-Kreis
+  geographische_lage: Nordosten Hessens, nördlich der Landesgrenze zu Thüringen
+  geo_naturpark: Geo-Naturpark Frau-Holle-Land
+  fluss_südgrenze: Werra
+  ortsteile_anzahl: 11
+  ortsteile: Altefeld, Archfeld, Breitzbach, Frauenborn, Herleshausen, Holzhausen, Markershausen, Nesselröden, Unhausen, Willershausen, Wommen
+  einwohner_2011: 2889
+  einwohner_2020: 2766
+  ausländeranteil_2020: 3,9%
+  ausländeranteil_2011: 1,2%
+  gründung_als_großgemeinde: 1. Dezember 1970
+  einwohner_gründung_1970: 3696
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Burgkirche Herleshausen (Pfarrkirche)
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: um 1300
+  ursprüngliche_funktion: Wehrkirche
+  chorturm_merkmale: doppelte welsche Haube
+  wappensymbol: symbolisiert das Wappen Herleshausens
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Herleshausen
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1846
+  sanierung: 1928
+  zerstörung_datum: 9./10. November 1938
+  zerstörungsanlass: Novemberpogrom
+  ruine_beseitigt: 1939
+  gedenktafel_seit: 2008
+GUELTIG_AB: 1846
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Herleshausen
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  schild_farbe: rot
+  hauptsymbol: silberne Zinnenmauer mit goldenem geschlossenem Tor, endend in spitzbedachten Rundtürmen
+  überragendes_element: Turm mit doppelter welscher Haube
+  symbolik_zinnen: ehemalige Wehrmauer um Herleshäuser Kirchhof
+  symbolik_turm: Chorturm der um 1300 ursprünglich erbauten Wehrkirche
+  farbbedeutung: hessische Landesfarben
+  genehmigung_jahr: 1984
+  genehmigt_von: Hessisches Innenministerium
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Augustenau (ehemals Schloss Steinstock)
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1539
+  erbauer: Georg von Reckrodt
+  ursprünglicher_name: Schloss Steinstock
+  umgestaltung_flügelanbau: durch Familie von Wersabe nach 1558
+  besitzer_nach_1678: Landgraf Karl von Hessen-Kassel, dann Bruder Philipp
+  besitzer_ab: Landgrafen von Hessen-Philippsthal
+  namensvergabe: 1821
+  namensherkunft: Auguste geb. von Hohenlohe-Ingelfingen, früh verstorbene Gemahlin des Landgrafen Carl
+  besitzer_seit_1925: Hessen-Philippsthal-Barchfeld (Seitenzweig)
+  koordinaten: 51° 0′ 20″ N, 10° 9′ 53″ O
+GUELTIG_AB: 1539
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kriegsgräberstätte
+BEZEICHNUNG: Kriegsgräberstätte Herleshausen
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  gefallene_anzahl: 1593
+  gefallene_herkunft: meist sowjetische Kriegsgefangene
+  ursprung: ehemaliges Stalag IX B an Straße nach Frauenborn
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Gut Hohenhaus
+ORTSTEIL_BEZUG: Holzhausen
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  frühere_besitzer: Familie von Buttlar (jahrhundertelang)
+  erwerber_1856: Ferdinand von Schutzbar genannt Milchling
+  erwerber_funktion: Obervorsteher des Ritterschaftlichen Stifts Kaufungen
+  umbau_jahr: 1901
+  umbau_architekt: Bodo Ebhardt (Berlin)
+  umbau_stil: englischer Landhausstil
+  schlosspark_anlage: um Jahrhundertwende
+  gartenbauer: Martin Bertrams (Berlin)
+  gartenstil: viktorianisch
+  besitzer_1934: Hamburger Verlegerfamilie
+  instandsetzung: um 1950
+  umbau_zu_hotel: 1982
+  hotelumbauer: Jochem Jourdan (Frankfurt)
+GUELTIG_AB: 1856
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: gestüt
+BEZEICHNUNG: Hauptgestüt Altefeld
+ORTSTEIL_BEZUG: Altefeld
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1913
+  gründer: Burchard von Oettingen (Oberlandstallmeister der preußischen Gestütsverwaltung)
+  besitz_heute: Privatbesitz
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: TSV Herleshausen
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1869
+  größter_sportverein_des: Gemeindegebietes
+  sparten: Fußball, Gymnastik, Judo, Kegeln, Leichtathletik, Schwimmen, Tischtennis, Turnen, Volleyball
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schwimmhalle
+BEZEICHNUNG: Schwimmhalle Herleshausen
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1975
+  lage: Nordrand des Ortes
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Herleshausen
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: Halle–Bebra
+  bahnlinie: RB 6
+  nächster_ic_ice: Bahnhof Eisenach
+  ereignis_1956: 16. Januar 1956 - letzter Eisenbahntransport mit 602 Spätheimkehrern aus sowjetischer Kriegsgefangenschaft
+  umfahrung: 1962–1992 auf Bahnstrecke Förtha–Gerstungen
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: grenzübergang
+BEZEICHNUNG: Grenzübergang Wartha/Herleshausen
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  einrichtung_zeitraum: nach Zweitem Weltkrieg
+  besonderheit: einer der wenigen mit Auto zu passierenden Übergänge in die DDR
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Nesselröden
+ORTSTEIL_BEZUG: Nesselröden
+QUELLE: https://www.herleshausen.de/seite/345712/sehenswertes-bei-uns.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Landgräfliches Schloss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Wommen
+ORTSTEIL_BEZUG: Wommen
+QUELLE: https://www.herleshausen.de/seite/345712/sehenswertes-bei-uns.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.55
+
+---
+
+ENTITÄT: burgruine
+BEZEICHNUNG: Burgruine Brandenfels
+ORTSTEIL_BEZUG: Markershausen
+QUELLE: https://www.herleshausen.de/seite/345712/sehenswertes-bei-uns.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Dicke Eiche
+ORTSTEIL_BEZUG: Herleshausen
+QUELLE: https://www.herleshausen.de/seite/345712/sehenswertes-bei-uns.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Kastanienbaum
+ORTSTEIL_BEZUG: Archfeld
+QUELLE: https://www.herleshausen.de/seite/345712/sehenswertes-bei-uns.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Angerlinde
+ORTSTEIL_BEZUG: Breitzbach
+QUELLE: https://www.herleshausen.de/seite/345712/sehenswertes-bei-uns.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Insel-Doktor-Haus
+QUELLE: https://www.herleshausen.de/seite/345712/sehenswertes-bei-uns.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Museumsort und Insel im Alltag
+  sammlung: ungewöhnliche Ausstellungs- und Schriftstücke zur Geschichte Herleshausens und deutscher Geschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Unhäuser Nonnenpfad
+ORTSTEIL_BEZUG: Unhausen
+QUELLE: https://www.herleshausen.de/seite/577323/lebendige-dorfgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Rundweg
+  charakteristik: Idylle und Historie
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Fachwerkkirche Holzhausen
+ORTSTEIL_BEZUG: Holzhausen
+QUELLE: https://www.herleshausen.de/seite/345712/sehenswertes-bei-uns.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Carolin Gisselmann
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 1. November 2024
+  partei: WSRG
+  amtszeit_dauer: 6 Jahre
+  wahl_datum: 9. Juni 2024
+  wahlergebnis: 54,8%
+  wahlbeteiligung: 73,5%
+  gegenkandidaten: Lars Böckmann
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2030
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Lars Böckmann
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 2018–2024
+  partei: CDU/WSRG
+GUELTIG_AB: 2018
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Burkhard Scheld
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 2012–2018
+GUELTIG_AB: 2012
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Helmut Schmidt
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1994–2012
+  partei: SPD
+GUELTIG_AB: 1994
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Uwe Hartmann
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1983–1994
+GUELTIG_AB: 1983
+GUELTIG_BIS: 1994
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Ludwig Fehr
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1963–1983
+GUELTIG_AB: 1963
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Sebastian Weygandt
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1760
+  tod_jahr: 1836
+  beruf: Maler
+GUELTIG_AB: 1760
+GUELTIG_BIS: 1836
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Bertha von Hessen-Philippsthal-Barchfeld
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1818
+  tod_jahr: 1888
+  status: deutsche Adlige
+  haus: Hessen
+  titel: Fürstin von Bentheim-Steinfurt
+  titel_grund: Heirat
+GUELTIG_AB: 1818
+GUELTIG_BIS: 1888
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Wilhelm Busch
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1892
+  tod_jahr: 1968
+  beruf: Politiker
+  partei: NSDAP
+GUELTIG_AB: 1892
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Walter Otto
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1907
+  tod_jahr: 1998
+  beruf: Richter
+GUELTIG_AB: 1907
+GUELTIG_BIS: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Dirk Wilutzky
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1965
+  beruf: Filmproduzent und Regisseur
+  oscar_auszeichnung: 2015
+  oscar_kategorie: Bester Dokumentarfilm
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gemeindepartnerschaft
+BEZEICHNUNG: Cléder
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Bretagne
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gemeindepartnerschaft
+BEZEICHNUNG: Lauchröden
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Thüringen
+  ortsteil_von: Gerstungen
+  besonderheit: unmittelbar angrenzender Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Bahnunglück 1945
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 19. März 1945
+  bahnstrecke: Eisenach–Bebra
+  fahrzeugtyp: Personenzug
+  angreifer: alliierte Tiefflieger
+  tote_gesichert: 9
+  tote_zeitzeugen: bis zu 35
+  verletzte: mehrere
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Novemberpogrom 1938
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 9./10. November 1938
+  betroffenes_objekt: Synagoge Herleshausen
+  schaden: völlige Zerstörung
+  ruine_beseitigung: 1939
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: mahnmal
+BEZEICHNUNG: Stolpersteine Herleshausen
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  verlegung: 4. November 2013
+  anzahl: 19
+  gedenken_an: in Nationalsozialismus ermordete jüdische Bewohner
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Kloster Kaufungen
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  herleshausen_verwaltung: 1019–1527
+  übereignung_jahr: 1019
+  verwaltungsende: 1527
+  grund_ende: Säkularisation der hessischen Klöster
+GUELTIG_AB: 1019
+GUELTIG_BIS: 1527
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Eingemeindung Frauenborn
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. April 1969
+  status_davor: selbständige Gemeinde
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Gebietsreform 1970
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. Dezember 1970
+  art: freiwilliger Zusammenschluss
+  fusionierte_gemeinden: Altefeld, Archfeld, Breitzbach, Herleshausen (mit Frauenborn), Holzhausen, Markershausen, Nesselröden, Unhausen, Willershausen, Wommen
+  neue_einheit: Großgemeinde Herleshausen
+  einwohner_damals: 3696
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Zweckverband Interkommunale Zusammenarbeit
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 14. Oktober 2006
+  beteiligte: Herleshausen, Sontra, Nentershausen
+  kooperationsbereiche: Wirtschaft, Kultur, Bildung, Freizeitgestaltung, Tourismus, Landwirtschaft
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Parkplatz Burgberg
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 2010
+  lage: BAB 4, Fahrtrichtung Frankfurt am Main
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Serways Raststätte Werratal Süd
+QUELLE: https://de.wikipedia.org/wiki/Herleshausen | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 2021
+  lage: BAB 4, Fahrtrichtung Dresden
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

@@ -1,0 +1,180 @@
+ID: 253-stadtroda/001
+TRAKTION: 0.95
+---
+ID: 253-stadtroda/002
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Elisabeth Mengel-Stähle
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Politikerin
+  partei: AfD
+  lebensdaten: *1982
+  wohnort: Stadtroda
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 253-stadtroda/003
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Theo Zwanziger
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Präsident Deutscher Fußball-Bund
+  vereinsmitgliedschaft: FSV Grün-Weiß Stadtroda (seit 1992)
+  ehrenmitglied_seit: 2005
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 253-stadtroda/004
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Max Nützer
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Dachdecker
+  hinrichtungsjahr: April 1945
+  hinrichtungsgrund: Wehrkraftzersetzung
+  hinrichtungsort: Sandgrube im Grüntal
+  hinrichtungsakteure: SS-Kommando
+  gedenkstätte: St.-Jakobs-Friedhof
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 253-stadtroda/005
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Helene Fleischer
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  beruf: KPD-Reichstagsabgeordnete
+  todesursache: Euthanasie (Aktion T4)
+  gedenkstätte: Denkmal im Asklepios Fachklinikum (1988)
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 253-stadtroda/006
+ENTITÄT: pfarrei
+BEZEICHNUNG: Pfarrei Hl. Geist
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1954
+  grund_gründung: Flüchtlingsströme nach WWII (Schlesien, Ermland, Sudetenland)
+  ordensniederlassung: Katharinerschwestern (gegründet 1954)
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 253-stadtroda/007
+ENTITÄT: gemeinde_kirchlich
+BEZEICHNUNG: Katholische Pfarrgemeinde Stadtroda-Kahla
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  erste_messe: 1928
+  kapuzinerpatres_seit: 1944
+  eigener_pfarrer_bis: 2009
+  betreuung_seit_2009: Pfarrei Gera
+  filialgemeinde_seit: 9. Dezember 2018
+  bistum: Dresden-Meißen
+  dekanat: Gera
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 253-stadtroda/008
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Tachov
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  land: Tschechische Republik
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 253-stadtroda/009
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Homberg (Ohm)
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  bundesland: Hessen
+  partnerschaft_seit: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 253-stadtroda/010
+ENTITÄT: fabrik
+BEZEICHNUNG: Holzwarenfabrik
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1877
+  zeitbezug: ein Jahr nach Eisenbahnanschluss
+GUELTIG_AB: 1877
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 253-stadtroda/011
+ENTITÄT: gericht
+BEZEICHNUNG: Amtsgericht Stadtroda
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  landgerichtsbezirk: Landgericht Gera
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 253-stadtroda/012
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Klaus Hempel
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  partei: FWG
+  wahl_2012: 53.5 Prozent
+  wahl_2012_gegner: Harald Kramer (CDU)
+  amtsenthebung_2012: ungültig erklärt
+  amtsenthebung_aufhebung: 20. Februar 2013
+  wahl_2018: 82.5 Prozent
+  wahl_2024: 61.1 Prozent
+  amtsantritt: 2012
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 253-stadtroda/013
+ENTITÄT: stadtrat
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  kommunalwahl_datum: 29. Mai 2024
+  wahlbeteiligung: 70.3 Prozent
+  sitze_gesamt: 20
+  wahlbeteiligung_prozent: 70.3
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 253-stadtroda/014
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Baumpflanzungen (Parkanlangen Klinikum)
+QUELLE: https://www.stadtroda.de/seite/154099/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seltene_baumarten: Hemlockstanne, Weymouthskiefer, Eibe
+  lage: Parkanlagen des Klinikums und Fachschule für Agrarwirtschaft
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 253-stadtroda/015
+ENTITÄT: geschichtswerk
+BEZEICHNUNG: Chronik der Stadt Roda im Herzogthum Sachsen-Altenburg
+QUELLE: https://de.wikipedia.org/wiki/Stadtroda | Wikipedia
+EIGENSCHAFTEN:
+  autor: Ernst Löbe (Geh. Kirchenrat, Superintendent)
+  bände: 2
+  veröffentlichung: 1892-1894
+  verlag: Olbrich
+  digitale_quelle: digital.slub-dresden.de
+GUELTIG_AB: 1892
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95

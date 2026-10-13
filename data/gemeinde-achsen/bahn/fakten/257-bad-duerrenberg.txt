@@ -1,0 +1,1035 @@
+ID: 257-bad-duerrenberg/001
+ENTITÄT: ort
+BEZEICHNUNG: Bad Dürrenberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  name_bis_1935: Dürrenberg
+  typ: Solestadt
+  typ: Kleinstadt
+  status_erholungsort: staatlich anerkannter Erholungsort (seit 2008 dauerhaft)
+  landkreis: Saalekreis
+  bundesland: Sachsen-Anhalt
+  lage: an der Saale zwischen Leipzig, Merseburg und Weißenfels
+  erste_urkundliche_erwaehnung: 5. Juli 993
+  erste_erwaehnung_durch: Otto III.
+  erster_ort_erwaehnung: Keuschberg
+  stadtrecht_verleihung: 30. November 1946
+  wappen_verleihung: 15. April 1947
+  flagge: weiß-rot gestreift (1:1 Verhältnis)
+  praedikat_bad_seit: 1935
+  praedikat_erholungsort_vorlaeufi_seit: 1994
+  praedikat_erholungsort_dauerhaft_seit: 2008
+  einwohner_2024: 11521
+  verwaltungsgemeinschaft_aufgelöst: 2010
+GUELTIG_AB: 993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Keuschberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  eigenschaft: ältester Teil der Stadt
+  erste_urkundliche_erwaehnung: vor 993
+  besonderheit: Ort der Borlach-Bohrversuche (1741)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Vesta
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  art: befestigter Königshof
+  erste_erwähnung: 1197
+  erste_erwähnung_quelle: Naumburger Urkundenbuch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kirchdorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwähnung: 1248
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Goddula
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwähnung: 1263
+  variante: Klein-Goddula, Groß-Goddula
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lennewitz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwähnung: 1267
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Balditz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwähnung: 1317
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fährendorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwähnung: 1320
+  besonderheit: namensgebende Fähre existierte bereits zur Zeit der ersten Erwähnung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Tollwitz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_2023: 1175
+  einwohnerzahlen_detail: Ellerbach, Kauern, Ragwitz, Teuditz, Tollwitz, Zöllschen
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/010
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nempitz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_2023: 293
+  einwohnerzahlen_detail: Nempitz, Oetzsch, Treben
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/011
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oebles-Schlechtewitz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_2023: 209
+  eingemeindung: 1. Juli 2008
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/012
+ENTITÄT: sakralbau
+BEZEICHNUNG: Evangelische Kirche Bad Dürrenberg
+ORTSTEIL_BEZUG: Bad Dürrenberg
+QUELLE: https://www.badduerrenberg.de/verzeichnis/index.php?kategorie=74 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kirchplatz, 06231 Bad Dürrenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/013
+ENTITÄT: sakralbau
+BEZEICHNUNG: Evangelische Kirche Kirchfährendorf
+ORTSTEIL_BEZUG: Kirchfährendorf
+QUELLE: https://www.badduerrenberg.de/verzeichnis/index.php?kategorie=74 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kirchfährendorfer Straße 58, 06231 Bad Dürrenberg
+  stilepoche: Spätgotik
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/014
+ENTITÄT: sakralbau
+BEZEICHNUNG: Evangelische Kirche Tollwitz
+ORTSTEIL_BEZUG: Tollwitz
+QUELLE: https://www.badduerrenberg.de/verzeichnis/index.php?kategorie=74 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Teuditzer Kirchplatz 4a, 06231 Bad Dürrenberg OT Tollwitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/015
+ENTITÄT: sakralbau
+BEZEICHNUNG: Evangelische Kirche Vesta
+ORTSTEIL_BEZUG: Vesta
+QUELLE: https://www.badduerrenberg.de/verzeichnis/index.php?kategorie=74 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Vestaer Straße, 06231 Bad Dürrenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/016
+ENTITÄT: sakralbau
+BEZEICHNUNG: Dorfkirche Vesta
+ORTSTEIL_BEZUG: Vesta
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Dorfkirche (auch als Evangelische Kirche Vesta bekannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 257-bad-duerrenberg/017
+ENTITÄT: sakralbau
+BEZEICHNUNG: Evangelische Kirche Zöllschen
+ORTSTEIL_BEZUG: Tollwitz
+QUELLE: https://www.badduerrenberg.de/verzeichnis/index.php?kategorie=74 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Dorfstraße, 06231 Bad Dürrenberg OT Tollwitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/018
+ENTITÄT: sakralbau
+BEZEICHNUNG: Evangelische Oetzscher Kirche Nempitz
+ORTSTEIL_BEZUG: Nempitz
+QUELLE: https://www.badduerrenberg.de/verzeichnis/index.php?kategorie=74 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schulstraße, 06231 Bad Dürrenberg OT Nempitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/019
+ENTITÄT: sakralbau
+BEZEICHNUNG: Katholische Kirche St. Bonifatius
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Platz der Freiheit 1, 06231 Bad Dürrenberg
+  baujahr: 1931
+  architektur_stil: sakraler Rundbau
+  kunstwerk: Glasmosaik-Darstellung des gekreuzigten Christus von Odo Tattenpach
+GUELTIG_AB: 1931
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/020
+ENTITÄT: museum
+BEZEICHNUNG: Borlachmuseum
+QUELLE: https://www.badduerrenberg.de/verzeichnis/index.php?mandatstyp=6 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Borlachplatz, 06231 Bad Dürrenberg
+  quelle_wikipedia: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+  beschreibung: Museum zur Geschichte des Salzes in der Region, Leistungen von Borlach, Salzgewinnung und Entwicklung zum Badeort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/021
+ENTITÄT: denkmal
+BEZEICHNUNG: Borlachturm
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  adresse: in unmittelbarer Nähe der Gradierwerke
+  baujahr: 1765
+  art: Solebrunnen-Förderturm
+  benannt_nach: Johann Gottfried Borlach
+  tiefe_borlachschacht: 223 m
+  funktion: Museum im Turm
+GUELTIG_AB: 1765
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/022
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Gradierwerk Bad Dürrenberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 636 m
+  superlativ: größtes zusammenhängendes Gradierwerk Deutschlands
+  historische_laenge: 1821 m (Weimarer Republik)
+  zweck: Salzgewinnung
+GUELTIG_AB: 1763
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/023
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Tollwitz-Dürrenberger Eisenbahn
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1836
+  spurweite: 585 mm
+  besonderheit: Erster Eisenbahntunnel Deutschlands (1836)
+  tunnel_laenge_historisch: 133 m
+  tunnel_laenge_heute: 177 m
+  betriebsdauer: 1836-1935
+GUELTIG_AB: 1836
+GUELTIG_BIS: 1935
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/024
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahntunnel Tollwitz-Dürrenberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 177 m (nach heutigem Maß)
+  baujahr: 1836
+  superlativ: erster Eisenbahntunnel Deutschlands
+  betriebsdauer: 1836-1935
+GUELTIG_AB: 1836
+GUELTIG_BIS: 1935
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/025
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Saale-Radwanderweg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  laenge_auf_gemarkung: 7 km
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/026
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radweg Sole, Kohle und Geschichte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: vom Geiseltalsee nach Lützen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/027
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnstrecke Leipzig–Großkorbetha
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  haltepunkt_bad_duerrenberg: vorhanden
+  s_bahn_linie: S6 (Leipzig Hbf–Weißenfels–Naumburg Hbf, stündlich)
+  regional_express: RE15 (Leipzig–Saalfeld, zweistündlich)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/028
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Straßenbahnstrecke Halle-Ammendorf–Bad Dürrenberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: Halle–Schkopau–Merseburg–Leuna–Bad Dürrenberg
+  betreiber: Hallesche Verkehrs-AG (HAVAG)
+  takt: 30-Minuten-Takt
+  linie: 5
+  laenge: ca. 30 km
+  superlativ: längste Straßenbahnlinie in den neuen Bundesländern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/029
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn A 9
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  anschlussstelle: eigene Anschlussstelle Bad Dürrenberg
+  standort: Stadt liegt direkt an der A 9
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/030
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Saaleschleuse
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  vorhanden: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/031
+ENTITÄT: park
+BEZEICHNUNG: Kurpark
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  groesse: 10 ha
+  lage: im Zentrum Bad Dürrenbergs
+  besonderheiten: Kaltinhalierhalle, Blumenuhr, Heimatstube, Aussichtsplattform Saaleblick, Siedehaus, 3 Spielplätze, Infopunkt zur Bestattung von Bad Dürrenberg
+  anerkennung: Parkanlage der Gartenträume Sachsen-Anhalt
+  archaeologische_fundstelle: Bestattung einer Schamanin mit Kind aus dem Mesolithikum (gefunden 1934 bei Kanalbauarbeiten)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/032
+ENTITÄT: einrichtung
+BEZEICHNUNG: Altes Salzamt
+QUELLE: https://www.badduerrenberg.de/verzeichnis/index.php?mandatstyp=6 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Saaleweg 1, 06231 Bad Dürrenberg
+  beschreibung: ältestes Steingebäude der Stadt, ursprünglicher Standesamt
+  umnutzung: Hotel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/033
+ENTITÄT: einrichtung
+BEZEICHNUNG: Heimatstube
+QUELLE: https://www.badduerrenberg.de/verzeichnis/index.php?mandatstyp=6 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kurpark, 06231 Bad Dürrenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/034
+ENTITÄT: einrichtung
+BEZEICHNUNG: Palmen- und Vogelhaus
+QUELLE: https://www.badduerrenberg.de/verzeichnis/index.php?mandatstyp=6 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kurpark, 06231 Bad Dürrenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/035
+ENTITÄT: einrichtung
+BEZEICHNUNG: Kaltinhalierhalle
+QUELLE: https://www.badduerrenberg.de/verzeichnis/index.php?mandatstyp=6 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kurpark, 06231 Bad Dürrenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/036
+ENTITÄT: einrichtung
+BEZEICHNUNG: Sole Spa
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  fokus: Gesundheit, Wellness und Entspannung
+  lage: direkt im Kurpark
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/037
+ENTITÄT: einrichtung
+BEZEICHNUNG: Gesundheitszentrum mit Sole Bewegungsbad
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Veranstaltungs- und Dienstleistungszentrum Bad Dürrenberg gGmbH
+  angebot: Bewegungsbad mit Sole
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/038
+ENTITÄT: einrichtung
+BEZEICHNUNG: Rettungswache
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  organisation: Johanniter-Unfallhilfe
+  standort: Stadtgebiet Bad Dürrenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/039
+ENTITÄT: einrichtung
+BEZEICHNUNG: Polizeiposten
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  standort: Stadtgebiet Bad Dürrenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/040
+ENTITÄT: einrichtung
+BEZEICHNUNG: Wasserwehr Bad Dürrenberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  standort: Ortsteil Nempitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/041
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Bad Dürrenberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  art: Freiwillige Feuerwehr
+  ortsfeuerwehren: Bad Dürrenberg, Tollwitz, Nempitz
+  einsaetze_pro_jahr: ca. 300
+  besonderheit_bad_duerrenberg: Drohnengruppe (auch überörtlich einsetzbar), First Responder-Gruppe (seit 2019)
+  besonderheit_tollwitz: zwei Tanklöschfahrzeuge (18.500 Liter Gesamtvolumen), First Responder-Gruppe (seit 2019)
+  besonderheit_nempitz: First Responder-Gruppe logistische Sonderaufgaben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/042
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegerdenkmal Borlachplatz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  anlass: Erinnerung an 151 Gefallene des Ersten Weltkrieges
+  standort: Borlachplatz
+  einweihung: 23. August 1925
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/043
+ENTITÄT: denkmal
+BEZEICHNUNG: Sühnekreuz Kirchfährendorf
+ORTSTEIL_BEZUG: Kirchfährendorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  anlass: Bauernkrieg
+  zeitliche_einordnung: Mittelalter/Frühe Neuzeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/044
+ENTITÄT: denkmal
+BEZEICHNUNG: Hunnenstein
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  besonderheit: sagenhafter Abdruck der Hand König Heinrichs I.
+  bezug: Ungarnschlacht 933
+  charakakter: sagenhafte Überlieferung
+GUELTIG_AB: 933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 257-bad-duerrenberg/045
+ENTITÄT: denkmal
+BEZEICHNUNG: Bauernstein Porbitz
+ORTSTEIL_BEZUG: Porbitz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Geschichtsdenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 257-bad-duerrenberg/046
+ENTITÄT: denkmal
+BEZEICHNUNG: Grabstätten von Zwangsarbeitern
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 18
+  standort: Neuer Friedhof
+  kontext: Zweiter Weltkrieg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/047
+ENTITÄT: denkmal
+BEZEICHNUNG: Denkmal für Zwangsarbeiter
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  standort: Alter Friedhof
+  anzahl: 41 Zwangsarbeiter
+  anzahl_nationen: mehrere
+  erbaujahr: 1959
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/048
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegerdenkmal (Deutsch-Französischer Krieg)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  standort: Vor der evangelischen Kirche
+  bezug: Deutsch-Französischer Krieg 1870/71
+  form: Andenken an Teilnehmer und Gefallene
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/049
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegerdenkmal Fährendorf
+ORTSTEIL_BEZUG: Fährendorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  standort: Kirchfährendorfer Straße
+  bezug: Gefallene des Ersten Weltkrieges
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/050
+ENTITÄT: denkmal
+BEZEICHNUNG: OdF-Denkmal (Opfer des Faschismus)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  standort: OdF-Platz
+  gewidmet: Opfer des Faschismus und des imperialistischen Krieges
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/051
+ENTITÄT: ereignis
+BEZEICHNUNG: Brunnenfest
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  termin: Wochenende des dritten Sonntags im September
+  tradition: Aufführung des „kleinen Borlachspiels"
+  darstellung: Erschließung der Solequelle am 15. September 1763
+  tradition_seit: mindestens bis 1763
+  anerkennung_unesco: 2023 in das Bundesweite Verzeichnis des immateriellen Kulturerbes aufgenommen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/052
+ENTITÄT: ereignis
+BEZEICHNUNG: Landesgartenschau 2024
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  monat: Mai bis Oktober
+  daten: 19. April bis 13. Oktober 2024
+  motto: Salzkristall & Blütenzauber
+  besucheranzahl: über 460000
+  urspruenglich_geplant: 2022
+  grund_verschiebung: Corona-Pandemie
+  zuschlag: 28. März 2017
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/053
+ENTITÄT: solebrunnen
+BEZEICHNUNG: Borlachschacht
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  tiefe: 223 m
+  erbohrung_abgeschlossen: 1763
+  salzgehalt: 10,63 %
+  erbohrung_beginn: 1741
+  erbohrung_dauer: 19 Jahre
+  erbohrung_unterbrochen: 1757 (Siebenjähriger Krieg)
+  name_ursprung: Johann Gottfried Borlach
+GUELTIG_AB: 1763
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/054
+ENTITÄT: solebrunnen
+BEZEICHNUNG: Solebrunnen (neuer)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 24. Juni 2000
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/055
+ENTITÄT: einrichtung
+BEZEICHNUNG: Trinkhalle im Kurpark
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  renovierung: 2003
+  nutzung: Soleanwendungen
+  beschreibung: ehemalige Trinkhalle
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/056
+ENTITÄT: bergwerk
+BEZEICHNUNG: Braunkohle-Abbau Tollwitz
+ORTSTEIL_BEZUG: Tollwitz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  beginn_untertage: ca. 1830
+  art: Tagebau- und Untertage-Abbau
+  ende: August 1935 (Schacht Nr. 7)
+GUELTIG_AB: 1830
+GUELTIG_BIS: 1935
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/057
+ENTITÄT: salinenbetrieb
+BEZEICHNUNG: Speisesalzproduktion (Salinenbetrieb)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  betriebseinstellung: 1963
+  produkt: Siedespeisesalz
+  herkunft_rohstoff: Dürrenberger Sole
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/058
+ENTITÄT: badebetrieb
+BEZEICHNUNG: Badebetrieb
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  einstellung: 1964
+  grund_stilllegung: Im DDR nicht mehr als Kurort geführt trotz Beibehaltung der Bezeichnung "Bad"
+GUELTIG_BIS: 1964
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/059
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Gottfried Borlach
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1687-1768
+  beruf: kursächsischer Bergrat
+  leistung: Gründer der Salinen in Artern, Kösen und Dürrenberg
+  aktivitaet: Erschließung von Sole- und Kohlevorkommen, Bohrversuche bei Keuschberg (1741)
+  erfolg_solequelle: 1763
+GUELTIG_AB: 1687
+GUELTIG_BIS: 1768
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/060
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Loew
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1809-1881
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  berufe: Lehrer, Rektor, Abgeordneter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/061
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Carl Bischof
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1812-1884
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  beruf: Bergbauingenieur
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/062
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ernst Bernhard Scharf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1828-1888
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  beruf: Zeitungsverleger
+  publikation: Nachrichten für Stadt und Land, Oldenburg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/063
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rudolph Vogel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1847-1923
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  position: Reichstagsabgeordneter
+  partei: Deutschsoziale Reformpartei
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/064
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Helmut Pohle
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1925-1994
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  berufe: Wirtschaftswissenschaftler, Hochschullehrer
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/065
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Simone Mangelsdorff
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1931-1973
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  beruf: Opernsängerin
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/066
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Willi Opitz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1928-2011
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  berufe: Jurist, Generalmajor
+  position: Rektor der Hochschule des MfS
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/067
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Dolly Richter-Hannes
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1933-2022
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  berufe: Jura-Professorin, Rechtsanwältin
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/068
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ibrahim Böhme
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1944-1999
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  beruf: Politiker
+  parteien: SED, SDP, SPD
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/069
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heinz Möhrdel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: ab 1945
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  beruf: Gebrauchsgrafiker
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 257-bad-duerrenberg/070
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karin Haftenberger
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: ab 1948
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  sport: Kanutin
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 257-bad-duerrenberg/071
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Lars-Broder Keil
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: ab 1963
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  berufe: Journalist, Buchautor
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 257-bad-duerrenberg/072
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Andreas Ihle
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: ab 1979
+  herkunft: Sohn/Tochter der Stadt Bad Dürrenberg
+  sport: Kanurennsport
+  erfolge: Weltmeister und Olympiasieger
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/073
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Novalis
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1772-1801
+  bezug_stadt: Personen die mit der Stadt in Verbindung stehen
+  berufe: Frühromantiker, Philosoph, Jurist
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 257-bad-duerrenberg/074
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Bartholomäus Trommsdorff
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1770-1837
+  bezug_stadt: Personen die mit der Stadt in Verbindung stehen
+  berufe: Pharmazeut, Apotheker
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 257-bad-duerrenberg/075
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl von Fritsch
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1838-1906
+  bezug_stadt: Fideikommissherr auf dem Rittergut Groß-Goddula
+  berufe: Geologe, Paläontologe
+  position: Akademiepräsident der Leopoldina
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/076
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Carl Buttenstedt
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1845-1910
+  bezug_stadt: ab 1883 Sekretär beim Salzamt Dürrenberg
+GUELTIG_AB: 1883
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/077
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Georg Engelbert Graf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1881-1952
+  bezug_stadt: Personen die mit der Stadt in Verbindung stehen
+  position: Reichstagsabgeordneter (SPD)
+  berufe: Dozent, Autor
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/078
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ernst Fraenkel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1898-1975
+  bezug_stadt: Personen die mit der Stadt in Verbindung stehen
+  berufe: Politikwissenschaftler, Jurist
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/079
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Christa Maria Ziese
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1924-2012
+  bezug_stadt: Personen die mit der Stadt in Verbindung stehen
+  berufe: Lied-, Konzert- und Opernsängerin
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/080
+ENTITÄT: buergermeister
+BEZEICHNUNG: Christoph Schulze
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 1. Juli 2015
+  wiederwahl: März 2015 (77,0 % der gültigen Stimmen)
+  wiederwahl_bestaetigung: 13. März 2022 (77,0 % der gültigen Stimmen)
+  amtsdauer: sieben Jahre
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 257-bad-duerrenberg/081
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Leuna
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Norden
+  landkreis: Saalekreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/082
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Markranstädt
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Osten
+  landkreis: Landkreis Leipzig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/083
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Lützen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Süden
+  landkreis: Burgenlandkreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/084
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Weißenfels
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Westen
+  landkreis: Burgenlandkreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/085
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Caudebec-lès-Elbeuf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  art: Partnerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/086
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Ciechocinek
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  art: Partnerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/087
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Encs
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  land: Ungarn
+  art: Partnerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/088
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Melle
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  land: Niedersachsen
+  land_genau: Deutschland (Bundesland Niedersachsen)
+  art: Partnerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 257-bad-duerrenberg/089
+ENTITÄT: fluss
+BEZEICHNUNG: Ellerbach
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  muendung: Im Süden der Stadt mündet rechtsseitig in die Saale
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/090
+ENTITÄT: fluss
+BEZEICHNUNG: Saale
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Flusslage Bad Dürrenbergs
+  lage: zwischen Leipzig, Merseburg und Weißenfels
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 257-bad-duerrenberg/091
+ENTITÄT: archaeologisches_fundgut
+BEZEICHNUNG: Bestattung einer Schamanin mit Kind
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrenberg | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: Mesolithikum
+  fundort: Kurpark (Kanalbauarbeiten)
+  fundjahr: 1934
+  verbleib: Landesmuseum für Vorgeschichte in Halle
+GUELTIG_AB: 8000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9

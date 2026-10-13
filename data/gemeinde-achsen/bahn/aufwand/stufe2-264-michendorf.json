@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "264-michendorf",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 7243,
+ "token_ein": 176719,
+ "token_aus": 3881,
+ "usage": {
+  "input_tokens": 14,
+  "cache_creation_input_tokens": 23458,
+  "cache_read_input_tokens": 153247,
+  "output_tokens": 3881,
+  "output_tokens_details": {
+   "thinking_tokens": 1678
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 23458,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 1800,
+    "cache_read_input_tokens": 28660,
+    "cache_creation_input_tokens": 1700,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1700
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.4300754,
+ "sekunden": 66,
+ "fehler": false,
+ "zeit": "2026-10-13T11:10:24"
+}

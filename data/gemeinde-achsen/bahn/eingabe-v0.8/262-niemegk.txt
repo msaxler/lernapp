@@ -1,0 +1,638 @@
+ZIELORT: Niemegk (Stadt)
+LAGE: 43 km südwestlich von Potsdam (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Niemegk
+
+GRUNDDATEN:
+  landkreis: Potsdam-Mittelmark  [dewiki Infobox]
+  bundesland: Brandenburg  [dewiki Infobox]
+  einwohner: 2019  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 45,12 | 45,11  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 45  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 75 | 80 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2862640)]
+  naechste_grossstadt: Potsdam, 43 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Potsdam, 43 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Niemegk  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 14823  [Wikidata P281]
+  vorwahl: 033843  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 29,7 %, CDU 21,4 %, SPD 19,5 %, BSW 9,7 %, Die Linke 8,7 %; Wahlbeteiligung 84,8 % — GILT FÜR DIE VERBANDSGEMEINDE NIEMEGK  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Jens Bornfleth — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  kfz: LOS (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Landkreis), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Coswig (Anhalt) (Stadt)
+  landkreis: Wittenberg  [dewiki Infobox]
+  einwohner: 11.007  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 295,75  [Wikidata P2046]
+  kfz: WB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 83 | 77 | 78 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2939819)]
+  naechste_grossstadt: Halle (Saale), 55 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Coswig (Anh), Haltepunkt Klieken, Haltepunkt Thießen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 40,3 %, CDU 20,6 %, BSW 10,6 %, SPD 9,7 %, Die Linke 9,1 %; Wahlbeteiligung 78,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Niemegk):
+ID: 262-niemegk/001
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Robert Koch
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/geschichte-der-stadt-niemegk/robert-koch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 11. Dezember 1843
+  geburtsort: Clausthal im Harz
+  todesdatum: 27. Mai 1910
+  todesort: Baden-Baden
+  profession: Arzt, Bakteriologe, Mitbegründer der Bakteriologie
+  nobelpreis: Nobelpreis für Medizin 1905 für Entdeckung der Tuberkulose-Bazillen
+  director_institut_infektionskrankheiten: 1891–1904
+  director_hygienisches_institut_berlin: 1885
+  entdeckung_tuberkulose_erreger: 24. März 1882
+  praxis_niemegk: 1868–1869, Großstraße 69, schräg gegenüber vom Rathaus
+GUELTIG_AB: 1843
+GUELTIG_BIS: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 262-niemegk/002
+ENTITÄT: schule
+BEZEICHNUNG: Robert-Koch-Oberschule
+ORTSTEIL_BEZUG: Niemegk
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/geschichte-der-stadt-niemegk/robert-koch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprungsname: Volksschule
+  umbenennung_grund: 100. Jahrestag von Robert Kochs Zuzug nach Niemegk
+  umbenennung_jahr: 1968
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/003
+ENTITÄT: schule
+BEZEICHNUNG: Robert-Koch-Grundschule
+ORTSTEIL_BEZUG: Niemegk
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/geschichte-der-stadt-niemegk/robert-koch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 262-niemegk/004
+ENTITÄT: apotheke
+BEZEICHNUNG: Adler-Apotheke
+ORTSTEIL_BEZUG: Niemegk
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/geschichte-der-stadt-niemegk/robert-koch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neuer_name: Robert-Koch-Apotheke
+  umbenennung_jahr: 1981
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/005
+ENTITÄT: gedenktafel
+BEZEICHNUNG: Gedenktafel Robert Koch (Großstraße 69)
+ORTSTEIL_BEZUG: Niemegk
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/geschichte-der-stadt-niemegk/robert-koch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Großstraße 69, schräg gegenüber vom Rathaus
+  zweck: Erinnerung an Robert Kochs Tätigkeit als praktischer Arzt 1868–1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/006
+ENTITÄT: infotafel
+BEZEICHNUNG: Infotafel Robert Koch
+ORTSTEIL_BEZUG: Niemegk
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/geschichte-der-stadt-niemegk/robert-koch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Marktplatz am Rathaus Niemegk
+  einweihung: 20. Oktober 2022
+  inhalt_erstellt: in Zusammenarbeit mit Robert-Koch-Institut Berlin
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/007
+ENTITÄT: institution
+BEZEICHNUNG: Königlich Preußisches Institut für Infektionskrankheiten
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/geschichte-der-stadt-niemegk/robert-koch/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heute_bekannt_als: Robert Koch-Institut
+  gründung: 1891
+  direktor_koch: 1891–1904
+GUELTIG_AB: 1891
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/008
+ENTITÄT: ort
+BEZEICHNUNG: Mörz
+ORTSTEIL_BEZUG: Mörz
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-moerz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1161
+  ersterwähnung_form: burgwardis Mordiz
+  erwähnung_1278: als Burgward
+  namensherkunft: slawisch-sorbisch
+  verkehrsrolle_mittelalter: Handels- und Heerstraße von Magdeburg–Belzig–Niemegk–Jüterbog nach Schlesien
+  zustand_1640: wüst und leer (30jähriger Krieg)
+  zustand_1661: wieder besiedelt
+  burgursprünge_18jhd: noch vorhanden
+  fläche: 8.06 ha
+  einwohnerzahl_1817: 165
+  einwohnerzahl_1994: 215
+  einwohnerzahl_1995: 187
+  einwohnerzahl_1996: 185
+  einwohnerzahl_1999: 201
+GUELTIG_AB: 1161
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/009
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Mörz
+ORTSTEIL_BEZUG: Mörz
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-moerz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauweise: Feldsteinbau
+  bauzeit: 13. Jahrhundert
+  ausstattung: mittelalterlicher Taufstein, Glocken
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/010
+ENTITÄT: ort
+BEZEICHNUNG: Nichel
+ORTSTEIL_BEZUG: Nichel
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-nichel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1303
+  ersterwähnung_form: cum aqua Nichele
+  erwähnung_1441: von dem dorffe czr Nedern Nichele
+  urspruengliche_struktur: Ober- und Nieder-Nichel
+  namensherkunft: Nach dem Fließ, slawischen Ursprungs
+  fliessname: aqua Nichele = Nichel-Fließ
+  wohnplätze_historisch: Chausseehaus, Ziegelei
+  ökonomische_bindung: Treuenbrietzen
+  rittersitze_1628: 2
+  wohnhäuser_1837: 55
+  fläche: 12.05 km²
+  einwohnerzahl_1817: 110
+  einwohnerzahl_1994: 296
+  einwohnerzahl_1995: 254
+  einwohnerzahl_1996: 251
+  einwohnerzahl_1999: 250
+GUELTIG_AB: 1303
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/011
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Nichel
+ORTSTEIL_BEZUG: Nichel
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-nichel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1868
+  bauweise: unter Verwendung alter Mauerteile aufgebaut
+  turm: Feldsteine
+GUELTIG_AB: 1868
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/012
+ENTITÄT: ort
+BEZEICHNUNG: Schlalach
+ORTSTEIL_BEZUG: Schlalach
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-schlalach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1342
+  ersterwähnung_form: Symon de slanloch
+  namensformen: Slanlach (später), Schlalach (1669)
+  namensherkunft: slawisch, Slony lug = sumpfiger morastiger Boden oder Salzsumpf
+  lage: Nähe von Salzstellen, früher Salzgewinnung im Brandenburgischen
+  ökonomische_bindung: Treuenbrietzen
+  rittersitze_1628: 2
+  wohnhäuser_1837: 60
+  fläche: 12.02 km²
+  einwohnerzahl_1772: 294
+  einwohnerzahl_1994: 359
+  einwohnerzahl_1995: 372
+  einwohnerzahl_1996: 366
+  einwohnerzahl_1999: 360
+GUELTIG_AB: 1342
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/013
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Schlalach
+ORTSTEIL_BEZUG: Schlalach
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-schlalach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauweise: spätmittelalterlicher Feldsteinbau
+  renovierungen: 18. und 19. Jahrhundert
+  glocke: 1482
+GUELTIG_AB: 1482
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/014
+ENTITÄT: betrieb
+BEZEICHNUNG: Reiterhof
+ORTSTEIL_BEZUG: Schlalach
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-schlalach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Reiterhof mit Pension
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 262-niemegk/015
+ENTITÄT: ort
+BEZEICHNUNG: Dahnsdorf
+ORTSTEIL_BEZUG: Dahnsdorf
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-dahnsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1227
+  ersterwähnung_form: in villa que Danestorp
+  erwähnung_1575: Compthurey Dahnsdorf
+  fläche: 12.52 km²
+  einwohnerzahl_1817: 328
+  einwohnerzahl_1994: 444
+  einwohnerzahl_1995: 447
+  einwohnerzahl_1996: 441
+  einwohnerzahl_1999: 426
+GUELTIG_AB: 1227
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/016
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Dahnsdorf
+ORTSTEIL_BEZUG: Dahnsdorf
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-dahnsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauweise: rechteckiger Feldsteinbau mit eingezogenem Chor, Apsis und Breitturm
+  bauzeit: 1. Hälfte des 13. Jahrhunderts
+GUELTIG_AB: 1250
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/017
+ENTITÄT: verein
+BEZEICHNUNG: Kunstradsportverein
+ORTSTEIL_BEZUG: Dahnsdorf
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-dahnsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivität: Kunstradsport
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 262-niemegk/018
+ENTITÄT: einrichtung
+BEZEICHNUNG: Zwergenhaus
+ORTSTEIL_BEZUG: Dahnsdorf
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-dahnsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kindertagesstätte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 262-niemegk/019
+ENTITÄT: ort
+BEZEICHNUNG: Kranepuhl
+ORTSTEIL_BEZUG: Kranepuhl
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-kranepuhl/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1236
+  ersterwähnung_form: durch Helmvicus de Cranepule
+  erwähnung_1304: ville in cranepule
+  zustand_1640: wüst (30jähriger Krieg)
+  bevölkerung_1777: 10 angesessene Einwohner (Ganz- und Halbhüfner) und 1 Kossät
+  namensherkunft: vermutlich von Kranichpuhl, alte Belege fehlen
+  fläche: 9.84 km²
+  einwohnerzahl_1817: 95
+  einwohnerzahl_1994: 158
+  einwohnerzahl_1995: 164
+  einwohnerzahl_1996: 160
+  einwohnerzahl_1999: 162
+GUELTIG_AB: 1236
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/020
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Kranepuhl
+ORTSTEIL_BEZUG: Kranepuhl
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-kranepuhl/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 13. Jahrhundert
+  bauweise: Feldsteinbau
+  veränderungen: 16. Jahrhundert
+  glocke: 1588
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/021
+ENTITÄT: ort
+BEZEICHNUNG: Lühnsdorf
+ORTSTEIL_BEZUG: Lühnsdorf
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-luehnsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1377
+  ersterwähnung_quelle: Kopialbuch B1 des Ernestinischen Gesamtarchivs, Thüringisches Staatsarchiv Weimar
+  ursprüngliche_bezeichnung: czu grossen Luderstorph
+  namensformen: Ludirstorff magna, Lüennsdorff, Luenßdorff, Lühnsdorf
+  namensherkunft: Vorsatz Groß fiel nach Wüstwerdung des Ortes Lüttgen Lühnsdorf (villa Luetteken Ludersdorff, 1361) um 1425 weg
+  siedler_plane: Monchetych (1379) gelegin an dem Werder czu Nymig, später eingekircht zu Lühnsdorf
+  werdermühle: gehört zu Lühnsdorf
+  straßen: Coswig–Potsdam–Berlin, Schlesische Straße nach Lüneburg
+  münzschatz_2016: im Gehöft Martin König gefunden, datiert auf 1270–1325
+  flurfläche_1825: 460 Hektar
+  landwirtschaft: geprägt von Vierseitenhöfen mittlerer Größenordnung
+  lpg_1953: erste Landwirtschaftliche Produktionsgenossenschaft
+  lpg_1973: alle Wirtschaften umfasst, bis zur Wende in entwicklungsbedingten Formen
+  eingemeindung_niemegk: 1973
+  freiwillige_feuerwehr_gründung: 1935
+  feuerwehr_status: selbständige Orts-Feuerwehr
+  amt_niemegk_seit: 1993
+GUELTIG_AB: 1377
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/022
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Heilige Elisabeth
+ORTSTEIL_BEZUG: Lühnsdorf
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-luehnsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit_alt: 15. Jahrhundert
+  bauweise_alt: Feldsteinbau
+  ausstattung_alt: Zwei-Glockengeläut, Taufstein, Madonnenbild
+  zuordnungsgeschichte: wechselhaft zwischen Kirchen Buchholz und Niemegk
+  abriss_neubau_beschluss: 1896
+  baustil_neu: neugotisch
+  neubau_uebergabe: 1898
+  baumeister: Köhler aus Niemegk
+  kosten: 13.000 Mark (ca.)
+  orgelbauer: Friedrich Wilhelm Lobbes (Stiefsohn des Niemegker Orgelbaumeisters Gottfried Wilhelm Baer)
+  glockengeläut_komplettierung: 2023
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/023
+ENTITÄT: ort
+BEZEICHNUNG: Hohenwerbig
+ORTSTEIL_BEZUG: Hohenwerbig
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-hohenwerbig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hoher Fläming
+  ersterwähnung: 1375
+  ersterwähnung_form: villa Werbek
+  bauform: Straßendorf
+  dorfstrasse_richtung: Ost-West
+  hausform: Vierseitenhöfe mit Kern noch vollständig erhalten
+  nutzungsaenderung_seit_1960er: Ställe und Scheunen kaum noch für Viehhaltung und Futterlagerung genutzt
+  erschliessung_landesstrasse: L82
+  buslinien: Schulbuslinien, Linie X2 Bad Belzig–Lutherstadt Wittenberg
+  gelaende_suedboundary: Weiße Tal (Trockental, Rummel, typisch für Hohen Fläming)
+  einwohnerzahl_1817: 118
+  einwohnerzahl_1994: 118
+  einwohnerzahl_1996: 188
+GUELTIG_AB: 1375
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/024
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Hohenwerbig
+ORTSTEIL_BEZUG: Hohenwerbig
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-hohenwerbig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1. Hälfte des 13. Jahrhunderts
+  bauweise: Feldsteinbau, flämingtypisch in Schiff, eingezogener Chor, halbrunde Apsis
+  turm: quadratischer Dachturm mit Querdach und Dachreiter über dem Westgiebel
+  standort: Anhöhe inmitten des Friedhofes
+  sanierung: 2014
+  status_nach_sanierung: Kunstkirche
+GUELTIG_AB: 1250
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/025
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Kriegsgräberstätte
+ORTSTEIL_BEZUG: Hohenwerbig
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-hohenwerbig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Friedhof Hohenwerbig
+  insassen: Wehrmachtssoldaten, gefallen am Ende des zweiten Weltkrieges in und um Hohenwerbig
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/026
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: KZ-Häftlings-Gedenkstätte
+ORTSTEIL_BEZUG: Hohenwerbig
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-hohenwerbig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Friedhof Hohenwerbig
+  opfer: KZ-Häftlinge, bei Todesmarsch durch Hohenwerbig von Wachmannschaften erschossen
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/027
+ENTITÄT: grabstaette
+BEZEICHNUNG: Grabstätte französischer Zwangsarbeiter
+ORTSTEIL_BEZUG: Hohenwerbig
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-hohenwerbig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Friedhof Hohenwerbig
+  insasse: französischer Zwangsarbeiter
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 262-niemegk/028
+ENTITÄT: ort
+BEZEICHNUNG: Locktow
+ORTSTEIL_BEZUG: Locktow
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-locktow-ziezow/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1275
+  jubiläum_750_jahre: 2025 geplant
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 262-niemegk/029
+ENTITÄT: ort
+BEZEICHNUNG: Ziezow
+ORTSTEIL_BEZUG: Ziezow
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-locktow-ziezow/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1275
+  gemeindeteil: Locktow
+  jubiläum_750_jahre: 2025 geplant
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 262-niemegk/030
+ENTITÄT: gewaesser
+BEZEICHNUNG: See Ziezow
+ORTSTEIL_BEZUG: Ziezow
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-locktow-ziezow/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: Kiesabbau
+  nutzung: Badegäste, Angler
+  öffentliche_badestelle: keine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 262-niemegk/031
+ENTITÄT: betrieb
+BEZEICHNUNG: Forellenhof
+ORTSTEIL_BEZUG: Locktow
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-locktow-ziezow/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: fangfrischer Fisch
+  veranstaltungen: Frühshoppen mit zünftiger Musik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 262-niemegk/032
+ENTITÄT: ort
+BEZEICHNUNG: Haseloff
+ORTSTEIL_BEZUG: Haseloff
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-haseloff-grabow/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1377
+  ersterwähnung_form: czum haselope
+  zugehörig: wüste Springmark, wüste Streitmark an Grenze zu Niemegk
+  bevölkerung_1496: 11 Türkensteuerpflichtige, 6 Personen Gesinde
+  namensherkunft: slawisch oder flämisch, möglicherweise Siedlung an dem Ort wo Hasen laufen
+  vereinigung_grabow: 1974 als Haseloff-Grabow
+  einwohnerzahl_1817: 86
+  einwohnerzahl_1994: 250
+  einwohnerzahl_1995: 258
+  einwohnerzahl_1996: 261
+  einwohnerzahl_1999: 257
+GUELTIG_AB: 1377
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/033
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Haseloff
+ORTSTEIL_BEZUG: Haseloff
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-haseloff-grabow/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauweise: rechteckiger Feldsteinbau
+  bauzeit: 2. Hälfte des 13. Jahrhunderts
+GUELTIG_AB: 1270
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/034
+ENTITÄT: ort
+BEZEICHNUNG: Grabow
+ORTSTEIL_BEZUG: Grabow
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-haseloff-grabow/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1275
+  ersterwähnung_form: Grabowe
+  etymologie: urslawisch Grabov, Ort mit Heinbuchen
+  typus: villa (Dorf)
+  namensbelegung_1333: Jacob de grabow in Treuenbrietzen
+  wüster_ort_katerborn: zwischen Ort und Mühle, Spuren bis 1837–1967
+  katerborn_reste: Kirche und Brunnen
+  zerstörung: völlig abgebrannt im 30jährigen Krieg
+  vereinigung_haseloff: 1974 als Haseloff-Grabow
+  einwohnerzahl_1817: 94
+  einwohnerzahl_1994: 94
+  einwohnerzahl_1996: 126
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/035
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Grabow
+ORTSTEIL_BEZUG: Grabow
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-haseloff-grabow/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauweise: Feldsteinbau
+  bauzeit: Mitte 13. Jahrhunderts
+GUELTIG_AB: 1250
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/036
+ENTITÄT: ort
+BEZEICHNUNG: Niederwerbig
+ORTSTEIL_BEZUG: Niederwerbig
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-niederwerbig-jeserig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1337
+  ersterwähnung_form: villa Werbek sita prope Bryzzen
+  erwähnung_1383: Werbig bye der Breisin
+  namensherkunft: slawischer Name oder übertragener Name aus Niederländischen, nicht geklärt
+  bevölkerung_1496: 10 Türkensteuerpflichtige
+  wohnhäuser_1837: 11
+  historische_bindung: Treuenbrietzen
+  fläche: 13.05 km²
+  einwohnerzahl_1817: 87
+  einwohnerzahl_1994: 156
+  einwohnerzahl_1995: 141
+  einwohnerzahl_1996: 143
+  einwohnerzahl_1999: 164
+GUELTIG_AB: 1337
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 262-niemegk/037
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Niederwerbig
+ORTSTEIL_BEZUG: Niederwerbig
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-niederwerbig-jeserig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1. Hälfte des 13. Jahrhunderts
+  turmveränderungen: um 1900
+GUELTIG_AB: 1250
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 262-niemegk/038
+ENTITÄT: ort
+BEZEICHNUNG: Jeserig
+ORTSTEIL_BEZUG: Jeserig
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-niederwerbig-jeserig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Gemeindeteil von Niederwerbig
+GUELTIG_AB: (unbekannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 262-niemegk/039
+ENTITÄT: verein
+BEZEICHNUNG: Reit- und Fahrverein
+ORTSTEIL_BEZUG: Jeserig
+QUELLE: https://amt-niemegk.de/wir-ueber-uns/ortsteil-niederwerbig-jeserig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitäten: Reitturniere, Kremserfahrten, Reiten für Kinder, Ferien auf dem Bauernhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
