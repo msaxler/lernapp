@@ -428,6 +428,8 @@ def main():
             e['landkreis'] = [wert(kreis[0], 'Wikidata P131', hinweis=bezug)]
         land = box.get('BUNDESLAND') or stadt_box.get('BUNDESLAND')
         land = ISO_LAND.get(land, land)  # die Infobox der Ortsteile nennt das Land als Kürzel (DE-RP)
+        if not land and o['name'] in ('Berlin', 'Hamburg', 'Bremen'):
+            land = o['name']  # Stadtstaat: die Infobox des Landes hat kein Feld BUNDESLAND (Berlin, 2026-10-13)
         if not land:
             sys.exit('%s: kein Bundesland in der Infobox' % o['name'])
         e['bundesland'] = [wert(land, 'dewiki Infobox' if box.get('BUNDESLAND') else 'über die Gemeinde', hinweis=None if box.get('BUNDESLAND') else bezug)]
