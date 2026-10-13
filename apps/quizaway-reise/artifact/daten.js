@@ -49303,11 +49303,3942 @@ window.QA_DATEN = {
 "203-kamen": [
 "Einwohner: Hamm hat gut viermal so viele wie Kamen.",
 "Bundestagswahl 2025: CDU gewann in Hamm, SPD in Kamen."
+],
+"205-ahlen": [
+"Hamm hat dreieinhalbmal so viele Einwohner wie Ahlen."
 ]
 },
 "ags": "05915000",
 "ortsteil": false,
 "km_vom_vorigen": 14.6
+},
+{
+"slug": "205-ahlen",
+"name": "Ahlen",
+"lat": 51.76333,
+"lon": 7.89111,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ahlen",
+"steckbrief": "Ahlen hat rund 52.000 Einwohner und liegt 10 km nordöstlich von Hamm im Süden des Münsterlands.",
+"frage": "Ahlen ist über 1200 Jahre alt. Woraus ging die Stadt laut Stadtgeschichte hervor?",
+"optionen": [
+"Ahlen entstand aus einem römischen Militärlager.",
+"Ahlen entstand aus einem sächsischen Edelhof.",
+"Ahlen entstand um ein frühes Kloster herum.",
+"Ahlen entstand aus einer fränkischen Grenzburg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Römerlager liegt nahe, denn an der Lippe standen tatsächlich Römer. Am Anfang stand aber ein sächsischer Edelhof, also der Hof eines Adligen, am seichten Ufer der Werse, aus der Zeit Karls des Großen. Der Hof wurde dem Bistum Münster geschenkt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ahlen.de/wohnen-und-umwelt/planen-und-bauen/denkmalpflege/kurze-historie",
+"faktencheck": "bestätigt",
+"id": "205-ahlen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ahlen",
+"steckbrief": "Ahlen hat rund 52.000 Einwohner und liegt 10 km nordöstlich von Hamm.",
+"frage": "Wie viele Einwohner leben in Ahlen im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 200",
+"200 bis unter 350",
+"350 bis unter 600",
+"600 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei über 50.000 Einwohnern denkt man an eine dicht bebaute Stadt. Doch Ahlen ist gut 123 Quadratkilometer groß und umfasst auch Ortsteile wie Vorhelm und Dolberg. So kommen rund 425 Menschen auf einen Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "205-ahlen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ahlen",
+"steckbrief": "Ahlen hat rund 52.000 Einwohner und liegt 10 km nordöstlich von Hamm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ahlen wurde in der Reformation dauerhaft evangelisch.",
+"Ahlen war einst eine Stadt der Hanse.",
+"Ahlen war einst Station der reitenden Post."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Reformation erreichte Ahlen tatsächlich: Es kam zum Bildersturm, katholische Priester wurden vertrieben. Doch noch im selben Jahr kehrte die Stadt mit Hilfe einer List zum Katholizismus zurück. Hanse und reitende Post wirken für eine spätere Zechenstadt erfunden, stimmen aber beide. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.ahlen.de/rathaus-und-politik/ueber-ahlen/stadtgeschichte/1466-bis-1534",
+"faktencheck": "bestätigt",
+"id": "205-ahlen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Ahlen",
+"steckbrief": "Ahlen hat rund 52.000 Einwohner und liegt 10 km nordöstlich von Hamm am östlichen Rand des Ruhrgebiets.",
+"frage": "Welche Partei wurde in Ahlen bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"CDU",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit wurde die AfD zweitstärkste Kraft, deshalb liegt sie als Tipp nahe. In Ahlen lag aber die SPD mit 21,2 Prozent knapp vor der AfD mit 19,7 Prozent. Stärkste Partei wurde die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "205-ahlen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ahlen",
+"steckbrief": "Ahlen hat rund 52.000 Einwohner und liegt 10 km nordöstlich von Hamm.",
+"frage": "Das Ahlener Programm der CDU wurde im Februar 1947 bei einer Sitzung in Ahlen beraten. Wo tagte man?",
+"optionen": [
+"Die Sitzung fand im Rathaus statt.",
+"Die Sitzung fand in einem Pensionat statt.",
+"Die Sitzung fand auf dem Zechengelände statt.",
+"Die Sitzung fand in der Stadthalle statt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Zeche liegt nahe, weil man Ahlen als Bergbaustadt kennt. Der Zonenausschuss der CDU unter Federführung Konrad Adenauers tagte aber im Pensionat St. Michael. Eröffnet worden war das Haus als Pensionat unter Leitung der Schwestern „Unserer lieben Frau“. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ahlen.de/rathaus-und-politik/ueber-ahlen/stadtgeschichte/1946-bis-1968",
+"faktencheck": "bestätigt",
+"id": "205-ahlen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Ahlen",
+"steckbrief": "Ahlen hat rund 52.000 Einwohner und liegt 10 km nordöstlich von Hamm.",
+"frage": "Welches Hauptkennzeichen gilt für Autos aus Ahlen?",
+"optionen": [
+"HAM",
+"UN",
+"WAF",
+"MS"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. HAM liegt nahe, weil Hamm nur zehn Kilometer entfernt ist. Doch Hamm ist eine kreisfreie Stadt mit eigenem Kennzeichen. Ahlen gehört zum Kreis Warendorf, und dessen Hauptkennzeichen ist WAF. Richtig war 3.",
+"quelle": "Wikidata P395; Kreiszugehörigkeit: Gemeinde-Webseite, www.ahlen.de/wohnen-und-umwelt/planen-und-bauen/denkmalpflege/kurze-historie",
+"faktencheck": "korrigiert",
+"id": "205-ahlen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ahlen",
+"steckbrief": "Ahlen hat rund 52.000 Einwohner und liegt 10 km nordöstlich von Hamm.",
+"frage": "Ende des Zweiten Weltkriegs wurde Ahlen kampflos an amerikanische Truppen übergeben. Wer übergab die Stadt?",
+"optionen": [
+"Der Bürgermeister übergab die Stadt den Amerikanern.",
+"Ein Pfarrer übergab die Stadt den Amerikanern.",
+"Der Zechendirektor übergab die Stadt den Amerikanern.",
+"Ein Lazarettarzt übergab die Stadt den Amerikanern."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Den Bürgermeister vermutet man zuerst, weil er die Stadt vertritt. Übergeben hat sie aber Dr. Paul Rosenbaum, Lazarettarzt in Ahlen. Der amerikanische Colonel Sidney Hinds nahm die kampflose Übergabe an, und die Stadt blieb von Zerstörung verschont. Eine gemeinsame Gedenkstätte erinnert an beide Männer. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ahlen.de/rathaus-und-politik/ueber-ahlen/stadtgeschichte/1927-bis-1945",
+"faktencheck": "bestätigt",
+"id": "205-ahlen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ahlen",
+"steckbrief": "Ahlen hat rund 52.000 Einwohner und liegt 10 km nordöstlich von Hamm.",
+"frage": "Im Jahr 1920 starben in Ahlen Bergleute bei einem Grubenunglück. Was war die Ursache?",
+"optionen": [
+"Ein Förderseil war abgerissen.",
+"Schlagwetter waren unter Tage explodiert.",
+"Wasser war in die Grube eingebrochen.",
+"Ein Grubenbrand war ausgebrochen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Grubenunglücken denkt man zuerst an Schlagwetter, also explosive Gasgemische unter Tage. Bei diesem Unglück war es anders: Ein Förderseil war abgerissen. An solchen Seilen fahren im Schacht Lasten und Bergleute auf und ab. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ahlen.de/rathaus-und-politik/ueber-ahlen/stadtgeschichte/1911-bis-1926",
+"faktencheck": "korrigiert",
+"id": "205-ahlen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ahlen",
+"steckbrief": "Ahlen hat rund 52.000 Einwohner und liegt 10 km nordöstlich von Hamm.",
+"frage": "Ahlen hat eine lange Fastnachtstradition. Wann ist ein Fastnachtsbrauch in Ahlen laut Stadtgeschichte erstmals belegt?",
+"optionen": [
+"Erstmals belegt ist er im 18. Jahrhundert.",
+"Erstmals belegt ist er im 19. Jahrhundert.",
+"Erstmals belegt ist er im 16. Jahrhundert.",
+"Erstmals belegt ist er im 20. Jahrhundert."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein spätes Datum liegt nahe, denn den Äohlsken Karneval richtete man erst viel später aus. Die Stadtgeschichte nennt aber schon 1528 als ersten Nachweis eines Fastnachtsbrauchs in Ahlen. Sie nennt Ahlen auch eine Hochburg des westfälischen Karnevals. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ahlen.de/rathaus-und-politik/ueber-ahlen/stadtgeschichte/1466-bis-1534",
+"faktencheck": "korrigiert",
+"id": "205-ahlen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "204-hamm",
+"anschluss": [
+"Einwohner: Hamm hat mehr als dreimal so viele wie Ahlen.",
+"Höhe: Ahlen liegt etwas höher als Hamm."
+],
+"anschluesse": {
+"204-hamm": [
+"Einwohner: Hamm hat mehr als dreimal so viele wie Ahlen.",
+"Höhe: Ahlen liegt etwas höher als Hamm."
+],
+"206-oelde": [
+"Ahlen hat gut anderthalbmal so viele Einwohner wie Oelde."
+]
+},
+"ags": "05570004",
+"ortsteil": false,
+"km_vom_vorigen": 10.4
+},
+{
+"slug": "206-oelde",
+"name": "Oelde",
+"lat": 51.82583,
+"lon": 8.14361,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oelde",
+"steckbrief": "Oelde hat rund 30.000 Einwohner und liegt 18 km südwestlich von Gütersloh.",
+"frage": "Das ursprüngliche Oelder Wappen zeigte den heiligen Johannes den Täufer. Warum fehlt er in der heutigen Form?",
+"optionen": [
+"Für die königliche Genehmigung musste er weichen.",
+"Ein Bischof untersagte Heilige in Stadtwappen.",
+"Nach einem Stadtbrand fand man keine Vorlage mehr.",
+"Ein Nachbarort führte Johannes bereits im Wappen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtbrand liegt nahe, denn Oelde brannte mehrfach. Doch die heutige Form geht auf die königliche Genehmigung zurück: In Berlin verstand man wohl die geschichtliche Bedeutung des Täufers nicht, also musste er weichen. Er blieb Patron der Pfarrkirche. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/erlaeuterungen-zum-wappen/",
+"faktencheck": "korrigiert",
+"id": "206-oelde/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oelde",
+"steckbrief": "Oelde liegt im Münsterland, 18 km südwestlich von Gütersloh.",
+"frage": "Wie viele Einwohner hat die Stadt Oelde?",
+"optionen": [
+"unter 20.000",
+"20.000 bis unter 35.000",
+"35.000 bis unter 50.000",
+"50.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Neben Gütersloh wirkt Oelde klein, und eine Landstadt im Münsterland schätzt man leicht kleiner. Doch zur Stadt gehören auch Stromberg, Lette und Sünninghausen. Ende 2025 zählte Oelde 29.961 Einwohner. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "206-oelde/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oelde",
+"steckbrief": "Oelde hat rund 30.000 Einwohner und liegt 18 km südwestlich von Gütersloh.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Bahnanschluss brachte Oeldes Industrialisierung in Schwung.",
+"Das Stromberger Kreuz wurde geraubt und nie wiedergefunden.",
+"Die Heilig-Kreuz-Kirche in Stromberg ist eine Wallfahrtskirche."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein geraubter Kirchenschatz bleibt oft verschwunden, das macht die Aussage glaubhaft. Doch das Stromberger Kreuz wurde mehrfach geraubt, schwer beschädigt und jedes Mal wiedergefunden. Es ist bis heute erhalten und das Herzstück der Wallfahrt zur Heilig-Kreuz-Kirche. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.oelde.de/de/oelde-erleben/stadtportrait/stromberg/",
+"faktencheck": "bestätigt",
+"id": "206-oelde/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oelde",
+"steckbrief": "Oelde hat rund 30.000 Einwohner und liegt im Münsterland, 18 km südwestlich von Gütersloh.",
+"frage": "Wie hoch war die Wahlbeteiligung in Oelde bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 78 %",
+"78 bis unter 84 %",
+"84 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine mittlere Spanne liegt nahe, denn auf dem Land vermutet man oft weniger Wahleifer als in der Großstadt. Doch in Oelde gingen 86 Prozent der Wahlberechtigten zur Wahl. Stärkste Kraft wurde die CDU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "206-oelde/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oelde",
+"steckbrief": "Oelde hat rund 30.000 Einwohner und liegt 18 km südwestlich von Gütersloh.",
+"frage": "In den 1950er und 1960er Jahren fanden im Staatsforst Geisterholz Diplomatenjagden statt. Wer rief sie 1952 ins Leben?",
+"optionen": [
+"Bundespräsident Theodor Heuss rief sie ins Leben.",
+"Bundeskanzler Konrad Adenauer rief sie ins Leben.",
+"Ministerpräsident Karl Arnold rief sie ins Leben.",
+"Bundestagspräsident Hermann Ehlers rief sie ins Leben."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Adenauer liegt nahe, er prägte die junge Bundesrepublik und ihre Diplomatie. Doch die Jagden rief Bundespräsident Theodor Heuss ins Leben; später lud Heinrich Lübke ein. Gejagt wurden Sauen, Füchse und Niederwild. Heute ist das Geisterholz Naturschutzgebiet. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/",
+"faktencheck": "unsicher",
+"id": "206-oelde/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Oelde",
+"steckbrief": "Oelde hat rund 30.000 Einwohner und liegt 18 km südwestlich von Gütersloh.",
+"frage": "2001 richtete Oelde die Landesgartenschau aus. Wie viele Besucher kamen?",
+"optionen": [
+"unter 300.000",
+"300.000 bis unter 1 Million",
+"1 bis unter 3 Millionen",
+"3 Millionen und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt klingen schon einige Hunderttausend Gäste nach viel, deshalb liegt eine mittlere Spanne nahe. Doch zur Landesgartenschau „Blütenzauber & Kinderträume“ kamen mehr als 2,2 Millionen Besucher. Aus dem Gelände wurde der Vier-Jahreszeiten-Park. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/",
+"faktencheck": "korrigiert",
+"id": "206-oelde/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oelde",
+"steckbrief": "Oelde hat rund 30.000 Einwohner und liegt 18 km südwestlich von Gütersloh.",
+"frage": "Schon das ursprüngliche Oelder Wappen zeigte einen Halbmond und einen Stern. Wie deutet ein Oelder Stadtbuch die beiden?",
+"optionen": [
+"Als Erinnerung an einen Sieg über Türken.",
+"Als Bild eines Bibelspruchs über Johannes.",
+"Als Erinnerung an eine Himmelserscheinung über Oelde.",
+"Als Zeichen zweier früherer Adelsgeschlechter."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Halbmond weckt Gedanken an die Türkenkriege. Doch das Stadtbuch liest darin den Spruch „Er muss wachsen, aber ich muss abnehmen“ von Johannes dem Täufer, dem Stadtpatron: Der Stern geht auf, der Mond nimmt ab. Gesichert ist das nicht, die Unterlagen verbrannten im Krieg. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/erlaeuterungen-zum-wappen/",
+"faktencheck": "korrigiert",
+"id": "206-oelde/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oelde",
+"steckbrief": "Oelde hat rund 30.000 Einwohner und liegt 18 km südwestlich von Gütersloh.",
+"frage": "Die Stadt Oelde stellt die Stromberger Pflaume in eine Reihe mit Parmigiano Reggiano. Warum?",
+"optionen": [
+"Beide reifen vor dem Verkauf monatelang nach.",
+"Beide gewannen denselben europäischen Feinschmeckerpreis.",
+"Beide gehen auf italienische Vorbilder zurück.",
+"Beide tragen eine EU-geschützte Ursprungsbezeichnung."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Preis liegt nahe, denn Feinkost wird gern prämiert. Doch der Vergleich zielt auf den Namen: Wie Parmigiano Reggiano trägt die Stromberger Pflaume eine EU-geschützte Ursprungsbezeichnung. Aus der Zwetschge entstehen Mus, Kuchen und Likör. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf",
+"faktencheck": "korrigiert",
+"id": "206-oelde/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "205-ahlen",
+"anschluss": [
+"Einwohner: Ahlen hat rund 52.000, Oelde rund 30.000.",
+"Bundestagswahl 2025: Wahlbeteiligung in Oelde 86, in Ahlen 80,2 Prozent."
+],
+"anschluesse": {
+"205-ahlen": [
+"Einwohner: Ahlen hat rund 52.000, Oelde rund 30.000.",
+"Bundestagswahl 2025: Wahlbeteiligung in Oelde 86, in Ahlen 80,2 Prozent."
+],
+"207-rheda-wiedenbrueck": [
+"Rheda-Wiedenbrück hat gut anderthalbmal so viele Einwohner wie Oelde."
+],
+"208-guetersloh": [
+"Gütersloh hat fast dreieinhalbmal so viele Einwohner wie Oelde."
+]
+},
+"ags": "05570028",
+"ortsteil": false,
+"km_vom_vorigen": 18.7
+},
+{
+"slug": "207-rheda-wiedenbrueck",
+"name": "Rheda-Wiedenbrück",
+"lat": 51.84167,
+"lon": 8.3,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rheda-Wiedenbrück",
+"steckbrief": "Die Doppelstadt an der Ems hat rund 48.000 Einwohner und liegt 9 km südwestlich von Gütersloh.",
+"frage": "Bernhard II. war Burgherr der Wasserburg Rheda. Wo lag das Bistum, dessen Bischof er war?",
+"optionen": [
+"Er war Bischof im Heiligen Land.",
+"Er war Bischof von Osnabrück.",
+"Er war Bischof im heutigen Dänemark.",
+"Er war Bischof im heutigen Lettland."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Osnabrück liegt nahe: Wiedenbrück war in der Hansezeit Beistadt zu Osnabrück. Bernhard II. aber, Burgherr der Wasserburg Rheda, war Bischof von Semgalen, dem südlichen Teil des heutigen Lettlands. Er tat viel für die Entwicklung des Baltikums und erschloss ein Gebiet, auf dem später etliche Hansestädte entstanden. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/hansestadt/",
+"faktencheck": "korrigiert",
+"id": "207-rheda-wiedenbrueck/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rheda-Wiedenbrück",
+"steckbrief": "Rheda-Wiedenbrück hat rund 48.000 Einwohner und liegt 9 km südwestlich von Gütersloh.",
+"frage": "Wie groß ist das Stadtgebiet von Rheda-Wiedenbrück?",
+"optionen": [
+"unter 100 km²",
+"100 bis unter 130 km²",
+"130 bis unter 160 km²",
+"160 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt aus zwei Städten und vier weiteren Gemeinden lässt eine große Fläche vermuten. Zusammengelegt wurden Rheda, Wiedenbrück, Batenhorst, Lintel, Nordrheda-Ems und St. Vit. Das Stadtgebiet misst aber 86,72 Quadratkilometer. Richtig war 1.",
+"quelle": "GRUNDDATEN, Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "207-rheda-wiedenbrueck/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rheda-Wiedenbrück",
+"steckbrief": "Rheda-Wiedenbrück ist eine Stadt mit rund 48.000 Einwohnern, 9 km südwestlich von Gütersloh.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Relief auf dem Doktorplatz trägt Blindenschrift.",
+"Die Stolpersteine der Stadt stammen von Gunter Demnig.",
+"Die Wiedenbrücker Kreuztracht findet zu Pfingsten statt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Blindenschrift auf einem Relief klingt erfunden, stimmt aber: Das Relief auf dem Doktorplatz ist für nicht-sehende Menschen gemacht. Auch die Stolpersteine stammen von Gunter Demnig. Gelogen war Pfingsten: Bei einer Kreuztracht wird ein Kreuz getragen, passend zum Karfreitag. An diesem Tag findet sie in Wiedenbrück statt. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/",
+"faktencheck": "bestätigt",
+"id": "207-rheda-wiedenbrueck/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rheda-Wiedenbrück",
+"steckbrief": "Rheda-Wiedenbrück in Nordrhein-Westfalen hat rund 48.000 Einwohner und liegt 9 km südwestlich von Gütersloh.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen erhielt die stärkste Partei in Rheda-Wiedenbrück?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 32 %",
+"32 bis unter 38 %",
+"38 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Westfalen erwarten viele eine CDU mit absoluter Mehrheit. Sie wurde in Rheda-Wiedenbrück klar stärkste Partei, kam aber auf 35 Prozent der Zweitstimmen. Zweite wurde die SPD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "207-rheda-wiedenbrueck/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rheda-Wiedenbrück",
+"steckbrief": "Die Stadt an der Ems hat rund 48.000 Einwohner und liegt 9 km südwestlich von Gütersloh.",
+"frage": "Widukind von Rheda war Burgherr in Rheda und Hauptgründer des Klosters Marienfeld. Wie endete sein Leben?",
+"optionen": [
+"Er starb als Mönch im Kloster Marienfeld.",
+"Er fiel in einer Fehde gegen Osnabrück.",
+"Er starb in Gefangenschaft in Köln.",
+"Er starb auf dem Kreuzzug vor Accon."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer ein Kloster stiftet, verbringt dort oft seine letzten Jahre, daher liegt Marienfeld nahe. Widukind von Rheda, Vogt und Burgherr in Rheda, zog jedoch mit dem Kreuzzug Barbarossas ins Heilige Land und starb bei der Belagerung von Accon. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/fuerstenstadt/ und …/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "207-rheda-wiedenbrueck/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rheda-Wiedenbrück",
+"steckbrief": "Rheda-Wiedenbrück in Nordrhein-Westfalen hat rund 48.000 Einwohner und liegt 9 km südwestlich von Gütersloh.",
+"frage": "Wie weit ist es von Rheda-Wiedenbrück in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"unter 140 km",
+"140 bis unter 180 km",
+"180 bis unter 220 km",
+"220 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Weg ins Rheinland fühlt sich weit an, und Straßenkilometer sind länger als die Luftlinie. Zur Landeshauptstadt Düsseldorf sind es aber nur 126 Kilometer Luftlinie. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "207-rheda-wiedenbrueck/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rheda-Wiedenbrück",
+"steckbrief": "Rheda-Wiedenbrück ist eine Stadt mit rund 48.000 Einwohnern, 9 km südwestlich von Gütersloh.",
+"frage": "Ein Fürstbischof von Osnabrück erlaubte Wiedenbrück, eine Wiese als Übungsgelände für die Schützen einzufrieden. Das Dokument ist ein Hinweis auf die St. Sebastian-Schützenbruderschaft. Aus welchem Jahr stammt es?",
+"optionen": [
+"Es stammt aus dem Jahr 1388.",
+"Es stammt aus dem Jahr 1492.",
+"Es stammt aus dem Jahr 1648.",
+"Es stammt aus dem Jahr 1871."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele Schützenvereine entstanden im Zeitalter der Vereinsgründungen, daher liegt ein späteres Jahr nahe. Fürstbischof Konrad von Osnabrück erlaubte Wiedenbrück aber schon 1492, eine Wiese für die Schützen einzufrieden. Das deutet darauf hin, dass es die St. Sebastian-Schützenbruderschaft damals schon gab. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "207-rheda-wiedenbrueck/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rheda-Wiedenbrück",
+"steckbrief": "Rheda-Wiedenbrück hat rund 48.000 Einwohner und liegt 9 km südwestlich von Gütersloh.",
+"frage": "1557 kamen Burg und Herrschaft Rheda in den Besitz der Grafen von Bentheim. Wie kam es dazu?",
+"optionen": [
+"Sie kauften die Burg den Tecklenburgern ab.",
+"Sie eroberten die Burg von den Tecklenburgern.",
+"Eine Heirat brachte die Burg an die Bentheimer.",
+"Sie erhielten die Burg im Tausch von Lippe."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Kauf liegt nahe, denn Herrschaften wechselten oft gegen Geld. Rheda aber fiel nach dem Tod Konrads von Tecklenburg an seine Erbtochter Anna, die mit Graf Everwin III. von Bentheim verheiratet war. So brachte die Heirat die Burg an die Bentheimer. Nach dem Wiener Kongress wurde die Familie in den Fürstenstand erhoben. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/fuerstenstadt/ und …/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "207-rheda-wiedenbrueck/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rheda-Wiedenbrück",
+"steckbrief": "Die Doppelstadt an der Ems hat rund 48.000 Einwohner und liegt 9 km südwestlich von Gütersloh.",
+"frage": "Etwa 30 Werkstätten bildeten einst die „Wiedenbrücker Schule“. Wofür arbeiteten sie vor allem?",
+"optionen": [
+"Sie schufen Kunstwerke für Gotteshäuser weltweit.",
+"Sie bauten Möbel für westfälische Bauernhäuser.",
+"Sie webten Leinen für den Export.",
+"Sie fertigten Kutschen für Fürstenhöfe."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Leinen und Kutschen liegen nahe, denn Rheda hat eine Leineweber-Tradition und ein Kutschenmuseum. Die Wiedenbrücker Schule aber schuf Kunstwerke für Gotteshäuser in aller Welt. Ein Museum im ehemaligen Wohnhaus bedeutender Altarbauer erzählt davon. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/",
+"faktencheck": "bestätigt",
+"id": "207-rheda-wiedenbrueck/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "206-oelde",
+"anschluss": [
+"Oelde hat mehr Fläche, Rheda-Wiedenbrück mehr Einwohner.",
+"Wahlbeteiligung 2025 war in Oelde höher als in Rheda-Wiedenbrück."
+],
+"anschluesse": {
+"206-oelde": [
+"Oelde hat mehr Fläche, Rheda-Wiedenbrück mehr Einwohner.",
+"Wahlbeteiligung 2025 war in Oelde höher als in Rheda-Wiedenbrück."
+],
+"208-guetersloh": [
+"Gütersloh hat gut doppelt so viele Einwohner wie Rheda-Wiedenbrück."
+]
+},
+"ags": "05754028",
+"ortsteil": false,
+"km_vom_vorigen": 10.9
+},
+{
+"slug": "208-guetersloh",
+"name": "Gütersloh",
+"lat": 51.9,
+"lon": 8.38333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gütersloh",
+"steckbrief": "Kreisstadt in Nordrhein-Westfalen mit rund 100.000 Einwohnern.",
+"frage": "Gütersloh wollte zuerst einen fliegenden Falken in sein Stadtwappen setzen. Warum wurde daraus nichts?",
+"optionen": [
+"Die Bürger wählten per Abstimmung lieber das Rad.",
+"Der König verlangte ein Zeichen der Eisenbahn.",
+"In Berlin wurde das Wappen heraldisch geprüft und umgestaltet.",
+"Ein Brand zerstörte den ersten Wappenentwurf."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Rad im Wappen lässt an die Eisenbahn denken, doch die kam erst nach dem Wappen. Geplant waren über dem Rad ein fliegender Falke und der Wahlspruch „Numquam retrorsum“. In Berlin wurde der Entwurf aber in heraldischer, also wappenkundlicher Hinsicht geprüft und neu gezeichnet. Falke und Wahlspruch fielen weg. Das rote Rad wird als Zeichen des Fortschritts gedeutet; amtlich erklärt wurde es nie. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.guetersloh.de/de/leben-in-guetersloh/stadtportrait/stadtgeschichte/das-wappen-der-stadt.php",
+"faktencheck": "korrigiert",
+"id": "208-guetersloh/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gütersloh",
+"steckbrief": "Kreisstadt in Nordrhein-Westfalen mit rund 100.000 Einwohnern.",
+"frage": "Wie groß ist das Stadtgebiet von Gütersloh?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 70 km²",
+"70 bis unter 100 km²",
+"100 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine dicht bebaute Stadt dieser Größe denkt, schätzt das Gebiet kleiner. Doch zu Gütersloh gehören frühere Bauerschaften und Gemeinden wie Kattenstroth, Avenwedde und Friedrichsdorf, die eingemeindet wurden. Ebbesloh gilt als grüne Lunge im Norden. Das Stadtgebiet misst 112,02 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "208-guetersloh/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gütersloh",
+"steckbrief": "Kreisstadt in Nordrhein-Westfalen mit rund 100.000 Einwohnern.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Am Kriegsende wurde die Stadt im Straßenkampf erobert.",
+"Die Martin-Luther-Kirche hieß früher einmal Neue Kirche.",
+"Reinhard Mohn wurde Ehrenbürger der Stadt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zu Kämpfen hätte es kommen können: Hitler hatte Verteidigung bis zur letzten Patrone befohlen. Bürgermeister Josef Bauer hielt die offene, flache Stadt aber für unverteidigbar und wollte ihre Zerstörung verhindern. Am Ostermontag wurde Gütersloh kampflos übergeben. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.guetersloh.de/de/leben-in-guetersloh/stadtportrait/kriegsende-in-guetersloh.php",
+"faktencheck": "korrigiert",
+"id": "208-guetersloh/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Gütersloh",
+"steckbrief": "Kreisstadt in Nordrhein-Westfalen mit rund 100.000 Einwohnern.",
+"frage": "Welche Partei wurde in Gütersloh bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"SPD",
+"AfD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer bundesweite Trends im Kopf hat, tippt leicht auf die AfD. In Gütersloh landete sie aber hinter der SPD, die zweitstärkste Kraft wurde. Vorn lag klar die CDU, nach der AfD folgten die Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "208-guetersloh/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gütersloh",
+"steckbrief": "Kreisstadt in Nordrhein-Westfalen mit rund 100.000 Einwohnern.",
+"frage": "Friedrichsdorf, heute ein Zipfel am Rand von Gütersloh, war früher eine eigene Gemeinde. Nach wem ist es benannt?",
+"optionen": [
+"Er ehrt König Friedrich den Großen von Preußen.",
+"Er ehrt Kurfürst Friedrich Wilhelm von Brandenburg.",
+"Er ehrt Fürstbischof Friedrich August.",
+"Er ehrt den heiligen Friedrich von Utrecht."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Friedrich denken viele zuerst an Preußens Könige. Namenspate war aber Friedrich August, Fürstbischof von Osnabrück und damit Landesherr der Siedlung. Das Dorf blieb winzig: Auf seiner kleinen Fläche leben die Menschen dichter als in Köln oder Düsseldorf. Erst die Eingemeindung beendete seine Eigenständigkeit. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.guetersloh.de/de/leben-in-guetersloh/stadtportrait/stadtteile.php",
+"faktencheck": "korrigiert",
+"id": "208-guetersloh/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gütersloh",
+"steckbrief": "Kreisstadt mit rund 100.000 Einwohnern an der Bahnstrecke vom Ruhrgebiet nach Norddeutschland.",
+"frage": "Wie weit ist Gütersloh in Luftlinie von der Landeshauptstadt Düsseldorf entfernt?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 90 km",
+"90 bis unter 120 km",
+"120 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Weil beide Städte in Nordrhein-Westfalen liegen, schätzen viele die Strecke kürzer. Tatsächlich trennen Gütersloh und Düsseldorf 134 Kilometer Luftlinie. Den Bahnanschluss brachte einst die Köln-Mindener Eisenbahn, eine wichtige Verbindung zwischen Ruhrgebiet und Norddeutschland. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "208-guetersloh/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gütersloh",
+"steckbrief": "Kreisstadt in Nordrhein-Westfalen mit rund 100.000 Einwohnern.",
+"frage": "Queen Elizabeth II. besuchte Gütersloh 1965 zusammen mit Prinz Philip. Wie kam das Paar in der Stadt an?",
+"optionen": [
+"Das Paar reiste im Sonderzug an.",
+"Das Paar landete mit dem Flugzeug.",
+"Das Paar kam per Hubschrauber.",
+"Das Paar fuhr im Autokonvoi vor."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Flugzeug liegt nahe, denn am Flughafen gab es tatsächlich eine Flugvorführung. Angereist kam das Paar aber im Sonderzug aus Soest, empfangen mit rotem Teppich am Bahnsteig. Im Rolls-Royce ging es dann durch die festlich geschmückte Innenstadt, Schulkinder hatten frei. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.guetersloh.de/de/leben-in-guetersloh/stadtportrait/stadtgeschichte/queen-zu-gast-in-guetersloh.php",
+"faktencheck": "bestätigt",
+"id": "208-guetersloh/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gütersloh",
+"steckbrief": "Kreisstadt in Nordrhein-Westfalen mit rund 100.000 Einwohnern.",
+"frage": "Der Gütersloher Stadtteil Avenwedde trägt den Spitznamen „Bonewie“. Woher stammt dieser Spitzname?",
+"optionen": [
+"Auf einer Wiese wuchsen früher Bohnen.",
+"Er stammt vom französischen „bonne ville“.",
+"Ein Bauer namens Bone gab ihn.",
+"Ein Landvogt namens Bonewitz prägte ihn."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer „Bonewie“ hört, denkt an eine Bohnenwiese. Der Spitzname ist aber eine Verballhornung des französischen „bonne ville“, wohl aus der Zeit der französischen Besetzung unter Napoleon. Der eigentliche Name Avenwedde geht vermutlich auf eine Schaf- oder Mufflonweide zurück. Die Streusiedlung war einst eine eigene Gemeinde. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.guetersloh.de/de/leben-in-guetersloh/stadtportrait/stadtteile.php",
+"faktencheck": "korrigiert",
+"id": "208-guetersloh/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gütersloh",
+"steckbrief": "Kreisstadt in Nordrhein-Westfalen mit rund 100.000 Einwohnern.",
+"frage": "In Gütersloh beginnt an Adventssonntagen schon ab halb vier Uhr morgens ein Brauch. Was ist dann zu hören?",
+"optionen": [
+"Ein Spielmannszug der Feuerwehr marschiert los.",
+"Ein Nachtwächter bläst auf seinem Horn.",
+"Kinder ziehen mit Rasseln durch die Straßen.",
+"Bläser des Posaunenchors spielen Weihnachtslieder."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Zur nächtlichen Stunde passt ein Nachtwächter, doch zu hören sind Bläser des Posaunenchors. Beim Adventsblasen spielen sie an verschiedenen Stellen im ganzen Stadtgebiet Weihnachtslieder. Höhepunkt ist das Turmblasen an Heiligabend am Evangelisch Stiftischen Gymnasium in der Innenstadt, zu dem jedes Jahr viele Zuhörer kommen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.guetersloh.de/de/leben-in-guetersloh/stadtportrait/stadtteile.php",
+"faktencheck": "korrigiert",
+"id": "208-guetersloh/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "207-rheda-wiedenbrueck",
+"anschluss": [
+"Gütersloh hat gut doppelt so viele Einwohner wie Rheda-Wiedenbrück.",
+"Kennzeichen: In Gütersloh wie in Rheda-Wiedenbrück steht GT am Auto."
+],
+"anschluesse": {
+"206-oelde": [
+"Gütersloh hat fast dreieinhalbmal so viele Einwohner wie Oelde."
+],
+"207-rheda-wiedenbrueck": [
+"Gütersloh hat gut doppelt so viele Einwohner wie Rheda-Wiedenbrück.",
+"Kennzeichen: In Gütersloh wie in Rheda-Wiedenbrück steht GT am Auto."
+],
+"209-bielefeld": [
+"Bielefeld hat fast dreieinhalbmal so viele Einwohner wie Gütersloh."
+]
+},
+"ags": "05754008",
+"ortsteil": false,
+"km_vom_vorigen": 8.6
+},
+{
+"slug": "209-bielefeld",
+"name": "Bielefeld",
+"lat": 52.01667,
+"lon": 8.53333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bielefeld",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 331.000 Einwohnern, etwa 150 km Luftlinie von Düsseldorf.",
+"frage": "In welchem Gebäude ist das Historische Museum Bielefeld untergebracht?",
+"optionen": [
+"Es ist im Alten Rathaus untergebracht.",
+"Es ist in der Ravensberger Spinnerei untergebracht.",
+"Es ist in der Sparrenburg untergebracht.",
+"Es ist im Neuen Rathaus untergebracht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Stadtgeschichte denkt man zuerst an die Sparrenburg oder das Alte Rathaus. Das Historische Museum, das sich als dreidimensionales Gedächtnis der Stadt versteht, sitzt aber in der Ravensberger Spinnerei. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bielefeld.de/node/2667",
+"faktencheck": "bestätigt",
+"id": "209-bielefeld/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bielefeld",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 331.000 Einwohnern, etwa 150 km Luftlinie von Düsseldorf.",
+"frage": "Wie viele Einwohner kommen in Bielefeld rechnerisch auf einen Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Großstadt denkt man an dichte Häuserblocks und schätzt hoch. Doch das Stadtgebiet ist weit gefasst, sodass rechnerisch nur rund 1.280 Einwohner auf einen Quadratkilometer kommen. Richtig war 3.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "209-bielefeld/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bielefeld",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 331.000 Einwohnern, etwa 150 km Luftlinie von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Bielefelder Maler schuf ein Deckengemälde der Sparrenburg.",
+"Der Spiegelshof wurde einst als Fabrikhalle gebaut.",
+"Die Ravensberger Spinnerei ist ein denkmalgeschütztes Gebäude."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Neben einer Spinnerei wirkt eine Fabrikhalle plausibel, doch die Endung „hof“ war ein Hinweis. Der Spiegelshof ist ein Adelshof; heute ist darin das Naturkunde-Museum. Das Deckengemälde im Trauzimmer der Sparrenburg stammt vom Bielefelder Maler Erwin Wendt. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.bielefeld.de/node/2663 und www.bielefeld.de/node/37215",
+"faktencheck": "korrigiert",
+"id": "209-bielefeld/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bielefeld",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 331.000 Einwohnern, etwa 150 km Luftlinie von Düsseldorf.",
+"frage": "Wie hoch war die Wahlbeteiligung in Bielefeld bei der Bundestagswahl 2025?",
+"optionen": [
+"80 % oder mehr",
+"75 bis unter 80 %",
+"70 bis unter 75 %",
+"unter 70 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Großstädte gelten oft als wahlmüder, deshalb liegt ein niedrigerer Wert nahe. In Bielefeld lag bei der Bundestagswahl 2025 die Wahlbeteiligung aber bei 81,8 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "209-bielefeld/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bielefeld",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 331.000 Einwohnern, etwa 150 km Luftlinie von Düsseldorf.",
+"frage": "Kommerzienrat Dr. August Oetker war 1906 an den Anfängen des Naturkunde-Museums Bielefeld beteiligt. Wie begann das Museum?",
+"optionen": [
+"Es begann als Sammlung der Universität Bielefeld.",
+"Es begann als Abteilung des Städtischen Museums.",
+"Es begann gleich als eigenständiges Naturkunde-Museum.",
+"Es begann als Außenstelle des Landesmuseums in Münster."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eigenständig wurde das Naturkunde-Museum erst später. 1906 setzten sich Kommerzienrat Dr. August Oetker und Prof. Dr. Alfred Zickgraf für eine Naturwissenschaftliche Abteilung im neu gegründeten Städtischen Museum Bielefeld ein. Aus ihr ging kurze Zeit später das heutige Naturkunde-Museum hervor. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bielefeld.de/node/2663",
+"faktencheck": "korrigiert",
+"id": "209-bielefeld/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bielefeld",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 331.000 Einwohnern, etwa 150 km Luftlinie von Düsseldorf.",
+"frage": "Wie groß ist das Stadtgebiet von Bielefeld?",
+"optionen": [
+"unter 100 km²",
+"100 bis unter 200 km²",
+"200 bis unter 300 km²",
+"300 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine kompakte Innenstadt denkt, schätzt die Fläche eher klein. Das Stadtgebiet von Bielefeld misst aber rund 259 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "209-bielefeld/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Bielefeld",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 331.000 Einwohnern, etwa 150 km Luftlinie von Düsseldorf.",
+"frage": "1938 landete ein Zeppelin in der Senne. Wie viele Menschen sahen laut Historischem Museum Bielefeld dabei zu?",
+"optionen": [
+"unter 10.000",
+"10.000 bis unter 30.000",
+"30.000 bis unter 100.000",
+"100.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Luftschifflandung klingt nach Schaulustigen aus der Umgebung, also nach Tausenden. Laut Historischem Museum sahen aber über 100.000 Menschen zu; das Museum zeigt sogar Filmmaterial davon. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bielefeld.de/node/2667",
+"faktencheck": "bestätigt",
+"id": "209-bielefeld/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "208-guetersloh",
+"anschluss": [
+"Einwohner: Gütersloh knapp unter 100.000, Bielefeld gut dreimal so viele.",
+"Bundestagswahl 2025: Grüne in Bielefeld 16,5, in Gütersloh 12,3 Prozent."
+],
+"anschluesse": {
+"208-guetersloh": [
+"Einwohner: Gütersloh knapp unter 100.000, Bielefeld gut dreimal so viele.",
+"Bundestagswahl 2025: Grüne in Bielefeld 16,5, in Gütersloh 12,3 Prozent."
+],
+"210-herford": [
+"Bielefeld hat fünfmal so viele Einwohner wie Herford.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Herford die AfD, in Bielefeld die SPD."
+]
+},
+"ags": "05711000",
+"ortsteil": false,
+"km_vom_vorigen": 16.6
+},
+{
+"slug": "210-herford",
+"name": "Herford",
+"lat": 52.11457,
+"lon": 8.67343,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herford",
+"steckbrief": "Herford ist eine Stadt mit rund 67.000 Einwohnern, 13 km nordöstlich von Bielefeld.",
+"frage": "Herford liegt am Zusammenfluss von Werre und Aa. Woher kommt der Stadtname laut Stadtgeschichte?",
+"optionen": [
+"Er bedeutet Heeresfurt, nach günstigen natürlichen Flussübergängen.",
+"Er bedeutet Herrenfestung, nach einer alten Burg.",
+"Er geht auf einen Sachsenführer namens Hereward zurück.",
+"Er bedeutet „heller Wald“ auf Altsächsisch."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Endung klingt nach „Fort“, also nach Festung – das liegt nahe. Doch die Stadtgeschichte deutet den Namen als Heeresfurt: Am Zusammenfluss von Werre und Aa boten sich günstige natürliche Flussübergänge, und hier kreuzten sich alte Heer- und Handelsstraßen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "210-herford/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Herford",
+"steckbrief": "Herford, eine Stadt mit rund 67.000 Einwohnern, liegt 13 km nordöstlich von Bielefeld.",
+"frage": "Wie viele Einwohner leben in Herford im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Nähe zu Bielefeld denkt, tippt höher. Doch die Dichte verteilt alle Einwohner auf die ganze Stadtfläche, nicht nur auf die Innenstadt. So kommen in Herford 847 Menschen auf einen Quadratkilometer, Stand Ende 2025. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "210-herford/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Herford",
+"steckbrief": "Herford ist eine Stadt mit rund 67.000 Einwohnern, 13 km nordöstlich von Bielefeld.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Herford war im Mittelalter Mitglied der Hanse.",
+"Kaiser Karl IV. besuchte Herford im Mittelalter.",
+"Herford hatte im Mittelalter nie eine Stadtmauer."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Verdächtig klingt der Kaiserbesuch, doch Karl IV. kam wirklich nach Herford, und die Stadt war Mitglied der Hanse. Gelogen ist die fehlende Mauer: Herford hatte eine Stadtmauer mit Türmen und Toren, dazu Wall und Graben. Die Wallpromenade zeigt noch heute, wo die Befestigung lag. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Stadt-Mittelalter/ und …/Stadtgeschichte/Anfänge/",
+"faktencheck": "korrigiert",
+"id": "210-herford/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Herford",
+"steckbrief": "Herford ist eine Stadt mit rund 67.000 Einwohnern, 13 km nordöstlich von Bielefeld.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Herford die stärkste Partei?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 23 %",
+"23 bis unter 26 %",
+"26 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wenn viele Parteien Stimmen holen, liegt ein niedriger Wert für die Spitze nahe. Doch die CDU kam in Herford auf 27,1 Prozent der Zweitstimmen, vor AfD und SPD. Stand: Bundestagswahl vom 23. Februar 2025. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "210-herford/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herford",
+"steckbrief": "Herford ist eine Stadt mit rund 67.000 Einwohnern, 13 km nordöstlich von Bielefeld.",
+"frage": "Im Jahr 789 wurde in Herford ein Kloster gegründet, das später zum Reichsstift wurde. Wer gründete es?",
+"optionen": [
+"Der sächsische Adlige Waltger gründete es.",
+"Karl der Große gründete es selbst.",
+"Der Missionar Bonifatius gründete es.",
+"Der Bischof von Paderborn gründete es."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Karl der Große liegt nahe, denn unter seiner Herrschaft wurde in Herford der Königshof Adonhusa ausgebaut. Das Kloster aber gründete Waltger, ein sächsischer Adliger. Später kam es an Kaiser Ludwig den Frommen, der es zum Reichsstift ausbaute. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/",
+"faktencheck": "bestätigt",
+"id": "210-herford/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Herford",
+"steckbrief": "Herford ist eine Stadt mit rund 67.000 Einwohnern, 13 km nordöstlich von Bielefeld.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Herford?",
+"optionen": [
+"BI",
+"HF",
+"MI",
+"LIP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bielefeld liegt gleich nebenan, da scheint BI naheliegend. Doch Herford gehört zum Kreis Herford, und dessen Hauptkennzeichen ist HF. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "210-herford/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herford",
+"steckbrief": "Herford ist eine Stadt mit rund 67.000 Einwohnern, 13 km nordöstlich von Bielefeld.",
+"frage": "Bundeskanzler Konrad Adenauer kam im September 1961 auf Wahlkampfreise nach Herford. Wie sah sein Empfang aus?",
+"optionen": [
+"Bei strahlender Sonne kamen Tausende auf den Rathausplatz.",
+"Bei Sommerhitze kamen nur Dutzende auf den Rathausplatz.",
+"Trotz Dauerregen kamen Tausende auf den Rathausplatz.",
+"Bei dichtem Nebel blieb der Rathausplatz fast leer."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Sonnenschein passt zum Bild vom fröhlichen Wahlkampf, darum liegt er nahe. Doch es regnete anhaltend, und trotzdem standen laut Herforder Kreisblatt Tausende auf dem Rathausplatz. Empfangen wurde Adenauer von Oberbürgermeister Kurt Schober. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Neues-von-Gestern/",
+"faktencheck": "korrigiert",
+"id": "210-herford/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herford",
+"steckbrief": "Herford ist eine Stadt mit rund 67.000 Einwohnern, 13 km nordöstlich von Bielefeld.",
+"frage": "1224 entstand die Herforder Neustadt rund um Johanniskirche und Neuen Markt. Wer gründete sie?",
+"optionen": [
+"Die Bürger der Altstadt gründeten sie selbst.",
+"Die Herforder Äbtissin gründete sie mit Kölns Erzbischof.",
+"Hansekaufleute aus Lübeck gründeten sie als Handelsplatz.",
+"Kaiser Friedrich II. gründete sie allein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name Neustadt klingt nach einer Erweiterung durch die Bürger, zumal Altstadt und Radewig aus Siedlungen von Kaufleuten und Handwerkern entstanden. Gegründet haben die Neustadt aber Äbtissin Gertrud zur Lippe und Erzbischof Engelbert von Köln gemeinsam. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/",
+"faktencheck": "bestätigt",
+"id": "210-herford/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herford",
+"steckbrief": "Herford ist eine Stadt mit rund 67.000 Einwohnern, 13 km nordöstlich von Bielefeld.",
+"frage": "1713 wurde Herford zur ständigen Garnison. Wer veranlasste das?",
+"optionen": [
+"Kaiser Karl VI. legte Reichstruppen in die Stadt.",
+"August der Starke stationierte dort sächsische Regimenter.",
+"Friedrich der Große setzte es als Kronprinz durch.",
+"Der Soldatenkönig Friedrich Wilhelm I. ernannte Herford dazu."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Friedrich der Große liegt nahe, denn er ist der bekannteste Preußenkönig. Doch 1713 war er noch ein Kleinkind. Herford war damals ravensbergische Landstadt, und der Soldatenkönig Friedrich Wilhelm I. ernannte es zur ständigen Garnison. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/1600-1800-Jahrhundert/ NEGATIVNACHWEIS 3 (neu): Friedrich II. wurde im Januar 1712 geboren und konnte 1713 nichts veranlassen. Dieses Datum stammt aus allgemeinem Wissen, nicht aus einer der Suchen.",
+"faktencheck": "korrigiert",
+"id": "210-herford/v0.8/9",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Herford",
+"steckbrief": "Herford ist eine Stadt mit rund 67.000 Einwohnern, 13 km nordöstlich von Bielefeld.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine Äbtissin verzichtete zugunsten der Stadt auf Feldflur.",
+"Das Friedrichsgymnasium steht noch heute an der Brüderstraße.",
+"Ein Augustiner-Eremit schrieb in der Reformationszeit Herfords Kirchenordnung."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Äbtissin wirkt verdächtig, denn Kirchenbesitz gab man ungern her. Doch Äbtissin Ida verzichtete tatsächlich zugunsten der Stadt, und Johann Dreier, ein Augustiner-Eremit, verfasste die Kirchenordnung. Das alte Friedrichsgymnasium an der Brüderstraße aber wurde 1972 abgerissen; auf dem Grundstück am heutigen Augustinerplatz entstand ein Kaufhaus. Die Schule steht heute an der Werrestraße. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Reformationszeit/; …/Stadtgeschichte/Stadt-Mittelalter/; …/Kommunalarchiv/Neues-von-Gestern/; Schul-Webseite, www.fgh-online.de/ Hinweis: Die neue Rückseite hat rund 60 Wörter, die alte 47. Mit „1972“ steht jetzt eine Zahl auf der Rückseite; sie ist durch Neues-von-Gestern belegt.",
+"faktencheck": "korrigiert",
+"id": "210-herford/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "209-bielefeld",
+"anschluss": [
+"Einwohner: Bielefeld hat fast fünfmal so viele wie Herford.",
+"Bundestagswahl 2025: AfD wurde in Herford Zweite, in Bielefeld Vierte."
+],
+"anschluesse": {
+"209-bielefeld": [
+"Einwohner: Bielefeld hat fast fünfmal so viele wie Herford.",
+"Bundestagswahl 2025: AfD wurde in Herford Zweite, in Bielefeld Vierte."
+],
+"211-loehne": [
+"Herford hat gut anderthalbmal so viele Einwohner wie Löhne.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Löhne die SPD, in Herford die AfD."
+],
+"212-bad-oeynhausen": [
+"Herford hat rund 17.000 Einwohner mehr als Bad Oeynhausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Oeynhausen die SPD, in Herford die AfD."
+]
+},
+"ags": "05758012",
+"ortsteil": false,
+"km_vom_vorigen": 14.5
+},
+{
+"slug": "211-loehne",
+"name": "Löhne",
+"lat": 52.2,
+"lon": 8.7,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löhne",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 22 km nordöstlich von Bielefeld.",
+"frage": "Durch das grüne Stadtwappen von Löhne zieht sich schräg ein silberner, gewellter Streifen. Wofür steht er?",
+"optionen": [
+"Für eine alte Handelsstraße durch den Ort.",
+"Für die Eisenbahnlinie durch den Ort.",
+"Für einen Fluss als Weg der Schiffer.",
+"Für einen Fluss als Grenze zweier Ämter."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein gewellter Streifen steht in Wappen meist für Wasser, darum liegt ein Fluss als Schifferweg nahe. Gemeint ist aber eine Grenze: Der Streifen zeigt die Werre, die einst die Ämter Gohfeld und Mennighüffen voneinander trennte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.loehne.de/Verwaltung-Politik/Rathaus/Stadt-Geschichte/Wappen/",
+"faktencheck": "bestätigt",
+"id": "211-loehne/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Löhne",
+"steckbrief": "Stadt auf knapp 60 km², 22 km nordöstlich von Bielefeld.",
+"frage": "Wie viele Einwohner hat die Stadt Löhne?",
+"optionen": [
+"unter 42.000",
+"42.000 bis unter 55.000",
+"55.000 bis unter 70.000",
+"70.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt so nah an Bielefeld schätzt man leicht größer ein. Löhne zählt 40.757 Einwohner, also weniger als 42.000. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "211-loehne/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Löhne",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern in mehreren Ortsteilen, 22 km nordöstlich von Bielefeld.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Löhne ist schon seit dem Mittelalter eine Stadt.",
+"Die Seeblätter im Stadtwappen sollen aus dem Wappen der Sachsenherzöge stammen.",
+"Das Stadtwappen genehmigte der Regierungspräsident in Detmold."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ringsum gibt es alte Städte, da wirkt ein Stadtrecht aus dem Mittelalter glaubhaft. Die Stadt Löhne entstand aber erst durch eine Gebietsreform, als sich mehrere Gemeinden zusammenschlossen. Die Seeblätter gelten als Sinnbild des sächsischen Herzogtums Engern. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.loehne.de/Verwaltung-Politik/Rathaus/Stadt-Geschichte/Löhne-feiert-50/ und www.loehne.de/Verwaltung-Politik/Rathaus/Stadt-Geschichte/Wappen/",
+"faktencheck": "korrigiert",
+"id": "211-loehne/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Löhne",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 22 km nordöstlich von Bielefeld.",
+"frage": "Bundestagswahl 2025 in Löhne: Welche Partei holte bei den Zweitstimmen den zweiten Platz?",
+"optionen": [
+"CDU",
+"AfD",
+"SPD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Weil die AfD bundesweit Zweite wurde, liegt sie als Tipp nahe. In Löhne lag die CDU vorn mit 25,8 Prozent, dann folgte die SPD mit 22,9 Prozent, knapp vor der AfD mit 22,1 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "211-loehne/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löhne",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 22 km nordöstlich von Bielefeld.",
+"frage": "Löhne setzt sich aus mehreren Ortsteilen zusammen. Welcher davon zählt die meisten Einwohner?",
+"optionen": [
+"Löhne-Ort hat die meisten Einwohner.",
+"Löhne-Bahnhof hat die meisten Einwohner.",
+"Mennighüffen hat die meisten Einwohner.",
+"Gohfeld hat die meisten Einwohner."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer den Stadtnamen hört, vermutet die meisten Menschen in Löhne-Ort oder Löhne-Bahnhof. Vorn liegt aber Gohfeld, gefolgt von Mennighüffen; die beiden Löhne-Ortsteile sind deutlich kleiner. Der kleinste Ortsteil ist Ulenburg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.loehne.de/Leben-Entdecken/Stadtinfos/Zahlen-und-Daten/, Stand 31.12.2025",
+"faktencheck": "unsicher",
+"id": "211-loehne/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Löhne",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 22 km nordöstlich von Bielefeld.",
+"frage": "Welches Kfz-Kennzeichen tragen die meisten Autos in Löhne?",
+"optionen": [
+"HF",
+"BI",
+"MI",
+"LIP"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bielefeld ist die nächste Großstadt, darum liegt BI nahe. In Löhne ist aber HF das Hauptkennzeichen; das Kürzel steht für Herford. Richtig war 1.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "211-loehne/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löhne",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 22 km nordöstlich von Bielefeld.",
+"frage": "Es gab einst ein Amt Löhne mit eigenem Wappen. In welchem Jahr wurde dieses Amt gegründet?",
+"optionen": [
+"Das Amt Löhne wurde 1843 gegründet.",
+"Das Amt Löhne wurde 1943 gegründet.",
+"Das Amt Löhne wurde 1919 gegründet.",
+"Das Amt Löhne wurde 1949 gegründet."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Amt war in Westfalen ein Verwaltungsverbund mehrerer Gemeinden. Viele Ämter waren deutlich älter, darum liegt ein frühes Jahr nahe. Das Amt Löhne entstand aber 1943, mitten im Krieg. Kurios: Sein Wappen war schon vor der Gründung genehmigt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.loehne.de/Verwaltung-Politik/Rathaus/Stadt-Geschichte/Wappen/",
+"faktencheck": "unsicher",
+"id": "211-loehne/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "210-herford",
+"anschluss": [
+"Fläche: Herford ist rund 20 km² größer als Löhne.",
+"Bundestagswahl 2025: Löhne hatte eine höhere Wahlbeteiligung als Herford."
+],
+"anschluesse": {
+"210-herford": [
+"Fläche: Herford ist rund 20 km² größer als Löhne.",
+"Bundestagswahl 2025: Löhne hatte eine höhere Wahlbeteiligung als Herford."
+],
+"212-bad-oeynhausen": [
+"Bad Oeynhausen hat rund 9.800 Einwohner mehr als Löhne."
+],
+"213-porta-westfalica": [
+"Löhne hat rund 4.300 Einwohner mehr als Porta Westfalica.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Porta Westfalica die AfD, in Löhne die SPD."
+],
+"214-minden": [
+"Bundestagswahl 2025: In Minden lag die SPD vorn, in Löhne die CDU.",
+"Minden hat doppelt so viele Einwohner wie Löhne."
+]
+},
+"ags": "05758024",
+"ortsteil": false,
+"km_vom_vorigen": 9.7
+},
+{
+"slug": "212-bad-oeynhausen",
+"name": "Bad Oeynhausen",
+"lat": 52.2,
+"lon": 8.8,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Oeynhausen",
+"steckbrief": "Stadt mit rund 50.500 Einwohnern, 26 km nordöstlich von Bielefeld.",
+"frage": "Seit 2001 steht in Bad Oeynhausen ein Haus mit zwölf Apartments, entworfen von Frank O. Gehry. Wozu dient es?",
+"optionen": [
+"Es ist ein Hotel für Kurgäste.",
+"Es ist ein Wohnheim für Studierende.",
+"Es beherbergt Eltern herzkranker Kinder während der Behandlung.",
+"Es bietet Ferienwohnungen für Künstler."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Zwölf Apartments in einem Kurort lassen an ein Hotel für Kurgäste denken. Tatsächlich ist es das Ronald-McDonald-Haus: Dort wohnen Angehörige herzkranker Kinder, während diese im Herz- und Diabeteszentrum NRW behandelt werden, dem größten Herztransplantationszentrum Deutschlands. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Oeynhausen",
+"faktencheck": "korrigiert",
+"id": "212-bad-oeynhausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Oeynhausen",
+"steckbrief": "Stadt mit rund 50.500 Einwohnern, 26 km nordöstlich von Bielefeld.",
+"frage": "Wie groß ist das Stadtgebiet von Bad Oeynhausen?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 52 km²",
+"52 bis unter 62 km²",
+"62 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Namensteil „Bad“ klingt nach kompaktem Kurort, deshalb liegen die kleineren Spannen nahe. Doch zur Stadt gehört seit der Gebietsreform auch das frühere Amt Rehme. So kommt Bad Oeynhausen auf 64,83 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "212-bad-oeynhausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bad Oeynhausen",
+"steckbrief": "Stadt mit rund 50.500 Einwohnern, 26 km nordöstlich von Bielefeld.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Karl Paetow hat das Märchenmuseum der Stadt gegründet.",
+"Der Museumshof zeigt den Alltag früherer Salinenarbeiter.",
+"Die Gebäude des Museumshofs stammen aus umliegenden Orten."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Namensteil „Bad“ lässt an Sole und Salinen denken, darum klingt ein Museum über Salinenarbeiter plausibel. Der Museumshof im Siekertal zeigt aber eine typische Hofanlage des Mindener Raumes mit Haupthaus, Heuerlingshaus, Scheune, Speicher, Backhaus und Wassermühle. Die Ausstattung zeigt das Leben und Arbeiten auf dem Lande im 19. Jahrhundert. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.badoeynhausen.de/freizeit-kultur-sport/kultur/staedtische-museen/museumshof und …/deutsches-maerchen-und-wesersagenmuseum",
+"faktencheck": "korrigiert",
+"id": "212-bad-oeynhausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Oeynhausen",
+"steckbrief": "Stadt mit rund 50.500 Einwohnern, 26 km nordöstlich von Bielefeld.",
+"frage": "Wie hoch war die Wahlbeteiligung in Bad Oeynhausen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 76 %",
+"76 bis unter 80 %",
+"80 bis unter 84 %",
+"84 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 gingen bundesweit auffallend viele Menschen wählen, darum liegt eine Spanne über 80 Prozent nahe. In Bad Oeynhausen gaben 79,2 Prozent der Wahlberechtigten ihre Stimme ab, knapp darunter. Stärkste Partei wurde die CDU vor SPD und AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "212-bad-oeynhausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Oeynhausen",
+"steckbrief": "Stadt mit rund 50.500 Einwohnern, 26 km nordöstlich von Bielefeld.",
+"frage": "Das Herz- und Diabeteszentrum NRW in Bad Oeynhausen ist seit 1989 Universitätsklinik. Welcher Universität?",
+"optionen": [
+"Es ist Universitätsklinik der Universität Münster.",
+"Es ist Universitätsklinik der RWTH Aachen.",
+"Es ist Universitätsklinik der Ruhr-Universität Bochum.",
+"Es ist Universitätsklinik der Universität Witten/Herdecke."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Münster liegt als große westfälische Universitätsstadt nahe. Universitätsklinik ist das Zentrum seit 1989 aber für die Ruhr-Universität Bochum. Seit 2023 arbeitet es zudem mit der Medizinischen Fakultät OWL der Universität Bielefeld zusammen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Oeynhausen",
+"faktencheck": "korrigiert",
+"id": "212-bad-oeynhausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bad Oeynhausen",
+"steckbrief": "Stadt mit rund 50.500 Einwohnern, 26 km nordöstlich von Bielefeld.",
+"frage": "Welches Hauptkennzeichen gilt in Bad Oeynhausen?",
+"optionen": [
+"HF",
+"BI",
+"LIP",
+"MI"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. BI liegt nahe, denn Bielefeld ist die nächste Großstadt. Bad Oeynhausen gehört aber zum Kreis Minden-Lübbecke, dessen Kreisstadt Minden ist. Das Hauptkennzeichen MI steht für Minden. Richtig war 4.",
+"quelle": "Wikidata P395",
+"faktencheck": "korrigiert",
+"id": "212-bad-oeynhausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Oeynhausen",
+"steckbrief": "Stadt mit rund 50.500 Einwohnern, 26 km nordöstlich von Bielefeld.",
+"frage": "In Bad Oeynhausen steht ein Schweinebrunnen. Woran erinnert er?",
+"optionen": [
+"Er erinnert an Schweine, die angeblich Salz entdeckten.",
+"Er erinnert an den früheren Schweinemarkt der Stadt.",
+"Er erinnert an eine Seuche, die Schweineherden vernichtete.",
+"Er erinnert an einen preisgekrönten Zuchteber der Stadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Schweinemarkt liegt nahe, denn Tierbrunnen erinnern oft an Märkte. Der Brunnen spielt aber auf den Gründungsmythos an: Schweine eines Colons, also Bauern, namens Sültemeyer sollen Salz entdeckt haben. Schriftlich nachgewiesen ist die Anekdote nicht. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Oeynhausen",
+"faktencheck": "bestätigt",
+"id": "212-bad-oeynhausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Oeynhausen",
+"steckbrief": "Stadt mit rund 50.500 Einwohnern, 26 km nordöstlich von Bielefeld.",
+"frage": "Die Fontäne des Jordansprudels ist ein Wahrzeichen der Stadt. Woher hat der Sprudel seinen Namen?",
+"optionen": [
+"Er ist nach dem biblischen Fluss benannt.",
+"Er ist nach einem Kur- und Salinendirektor benannt.",
+"Er ist nach einem alten Flurnamen benannt.",
+"Er ist nach einem geheilten Kurgast benannt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der biblische Jordan liegt nahe, denn Heilwasser und Taufe klingen verwandt. Benannt ist der Sprudel aber nach Albert Jordan, Kur- und Salinendirektor. Er gilt als größte kohlensäurehaltige Thermalsolequelle der Welt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Oeynhausen",
+"faktencheck": "unsicher",
+"id": "212-bad-oeynhausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Oeynhausen",
+"steckbrief": "Stadt mit rund 50.500 Einwohnern, 26 km nordöstlich von Bielefeld.",
+"frage": "Seit 1989 ist das polnische Inowrocław Partnerstadt. Welche Gemeinsamkeit war der Grund?",
+"optionen": [
+"Beide Städte liegen an einem Fluss gleichen Namens.",
+"Beide Städte erhielten im selben Jahrhundert das Stadtrecht.",
+"Beide Städte gehörten einst zum selben Bistum.",
+"Beide sind Solebäder, und in beiden suchte derselbe Mann nach Salz."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Städtepartnerschaft denkt man schnell an gemeinsame Geschichte oder Geografie. Tatsächlich verbindet beide Städte die Sole: Beide sind Solebäder mit ähnlichem Kurprofil, und in beiden suchte der Bergbeamte Karl von Oeynhausen nach Salz. Richtig war 4. (Hinweis zu neuer Option 2: Inowrocław hat das Stadtrecht im 13. Jahrhundert, Bad Oeynhausen im 19. Jahrhundert. Die genauen Jahre habe ich nicht mehr mit einer Suche geprüft, vor dem Druck kurz gegenprüfen.)",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Oeynhausen",
+"faktencheck": "korrigiert",
+"id": "212-bad-oeynhausen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "211-loehne",
+"anschluss": [
+"Kennzeichen: In Löhne steht HF, in Bad Oeynhausen MI.",
+"Einwohner: Bad Oeynhausen zählt rund 9.800 mehr als Löhne."
+],
+"anschluesse": {
+"210-herford": [
+"Herford hat rund 17.000 Einwohner mehr als Bad Oeynhausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Herford die AfD, in Bad Oeynhausen die SPD."
+],
+"211-loehne": [
+"Kennzeichen: In Löhne steht HF, in Bad Oeynhausen MI.",
+"Einwohner: Bad Oeynhausen zählt rund 9.800 mehr als Löhne."
+],
+"213-porta-westfalica": [
+"Bad Oeynhausen hat rund 14.000 Einwohner mehr als Porta Westfalica.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Porta Westfalica die AfD, in Bad Oeynhausen die SPD."
+],
+"214-minden": [
+"Bundestagswahl 2025: In Minden lag die SPD vorn, in Bad Oeynhausen die CDU.",
+"Minden hat gut anderthalbmal so viele Einwohner wie Bad Oeynhausen."
+],
+"215-bueckeburg": [
+"Landesgrenze: Bückeburg liegt in Niedersachsen, Bad Oeynhausen in Nordrhein-Westfalen.",
+"Bad Oeynhausen hat gut zweieinhalbmal so viele Einwohner wie Bückeburg."
+]
+},
+"ags": "05770004",
+"ortsteil": false,
+"km_vom_vorigen": 6.8
+},
+{
+"slug": "213-porta-westfalica",
+"name": "Porta Westfalica",
+"lat": 52.2401,
+"lon": 8.92137,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Porta Westfalica",
+"steckbrief": "Stadt mit rund 36.500 Einwohnern, 35 km nordöstlich von Bielefeld.",
+"frage": "1946, nach Kriegsende, wurde ein Teil der Ringterrasse am Kaiser-Wilhelm-Denkmal weggerissen. Wodurch?",
+"optionen": [
+"Ein Erdrutsch am Steilhang riss sie ab.",
+"Ein Rüstungswerk im Berg wurde gesprengt.",
+"Eine vergessene Fliegerbombe explodierte dort.",
+"Ein Steinbruch daneben sprengte zu nah heran."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Fliegerbombe liegt nahe, denn Blindgänger tauchen bis heute auf. Doch im Sandstollen des Wittekindsbergs lag ein Rüstungswerk, in dem auch Zwangsarbeiterinnen Kugellager für Jagdflugzeuge fertigten. Auf Befehl des Alliierten Kontrollrats wurde es gesprengt; die Explosion riss einen Teil der Ringterrasse weg. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/",
+"faktencheck": "korrigiert",
+"id": "213-porta-westfalica/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Porta Westfalica",
+"steckbrief": "Stadt mit rund 36.500 Einwohnern, 35 km nordöstlich von Bielefeld.",
+"frage": "Wie groß ist das Stadtgebiet von Porta Westfalica?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 80 km²",
+"80 bis unter 120 km²",
+"120 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Mittelstadt stellt man sich kompakt vor, daher liegt eine kleinere Spanne nahe. Doch das Stadtgebiet von Porta Westfalica misst 105,22 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "213-porta-westfalica/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Porta Westfalica",
+"steckbrief": "Stadt mit rund 36.500 Einwohnern, 35 km nordöstlich von Bielefeld.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kaiser-Wilhelm-Figur besteht aus vernieteten Kupferplatten.",
+"Auf dem Wittekindsberg wurde einst ein Nonnenkloster gegründet.",
+"Die Königslinde wurde zur Einweihung des Kaiser-Wilhelm-Denkmals gepflanzt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele halten die Kupferplatten für gelogen, weil man bei Denkmalfiguren Bronzeguss erwartet. Doch die Kaiserfigur besteht wirklich aus vernieteten Kupferplatten, und Bischof Milo von Minden gründete auf dem Wittekindsberg ein Nonnenkloster der Benediktinerinnen. Die Königslinde ist dagegen älter als das Denkmal: Sie wurde 1842 bei der Feier zur Restaurierung der Margarethen-Klus gepflanzt, im Beisein von König Friedrich Wilhelm IV. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ (Hinweis: Auf der Rückseite steht jetzt die Zahl 1842. Sie stammt aus derselben Quelle.)",
+"faktencheck": "korrigiert",
+"id": "213-porta-westfalica/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Porta Westfalica",
+"steckbrief": "Stadt mit rund 36.500 Einwohnern, 35 km nordöstlich von Bielefeld.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen erhielt in Porta Westfalica die stärkste Partei?",
+"optionen": [
+"unter 27 %",
+"27 bis unter 32 %",
+"32 bis unter 37 %",
+"37 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein höherer Wert liegt nahe, weil stärkste Parteien oft deutlich vorne sind. In Porta Westfalica lagen drei Parteien dicht beieinander: CDU 25,8 Prozent, AfD 23,1, SPD 22,7. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "213-porta-westfalica/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Porta Westfalica",
+"steckbrief": "Stadt mit rund 36.500 Einwohnern, 35 km nordöstlich von Bielefeld.",
+"frage": "Die Wittekindsquelle bei der Wittekindsburg sprudelte bis 1938. Warum versiegte sie?",
+"optionen": [
+"Die Nationalsozialisten ließen die Quelle zuschütten.",
+"Eisenerzbergbau unterbrach die unterirdischen wasserführenden Schichten.",
+"Ein Erdbeben verschob die Gesteinsschichten im Berg.",
+"Der Bau des Denkmals schnitt ihren Zufluss ab."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Jahreszahl lässt an einen Eingriff der Nationalsozialisten denken. Doch Eisenerzbergbau unterbrach die unterirdischen wasserführenden Schichten. Der Sage nach entsprang die Quelle, als im Glaubensstreit zwischen Karl dem Großen und Sachsenherzog Wittekind das Pferd des Kaisers scharrte; daraufhin habe Wittekind sich taufen lassen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/",
+"faktencheck": "korrigiert",
+"id": "213-porta-westfalica/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Porta Westfalica",
+"steckbrief": "Stadt mit rund 36.500 Einwohnern, 35 km nordöstlich von Bielefeld.",
+"frage": "Wie weit ist es von Porta Westfalica Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"rund 118 km",
+"rund 147 km",
+"rund 186 km",
+"rund 229 km"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer Nordrhein-Westfalen für kompakt hält, schätzt zu kurz. Von Porta Westfalica bis Düsseldorf sind es 186 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "213-porta-westfalica/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Porta Westfalica",
+"steckbrief": "Stadt mit rund 36.500 Einwohnern, 35 km nordöstlich von Bielefeld.",
+"frage": "Der Moltketurm auf dem Wittekindsberg wurde erst nachträglich nach Moltke benannt. Wie hieß der Aussichtsturm ursprünglich?",
+"optionen": [
+"Er hieß ursprünglich Kaiserturm.",
+"Er hieß ursprünglich Weserwarte.",
+"Er hieß ursprünglich Preußenturm.",
+"Er hieß ursprünglich Wittekindsstein."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Kaiserturm liegt nahe, denn das Kaiser-Wilhelm-Denkmal prägt den Ort. Doch beim Bau des Turms gab es noch keinen deutschen Kaiser. Er hieß Wittekindsstein und wurde später zur Erinnerung an Feldmarschall Graf Helmuth von Moltke umbenannt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/",
+"faktencheck": "bestätigt",
+"id": "213-porta-westfalica/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Porta Westfalica",
+"steckbrief": "Stadt mit rund 36.500 Einwohnern, 35 km nordöstlich von Bielefeld.",
+"frage": "Die Wittekindsburg auf dem Wittekindsberg ist als sächsische Volksburg bekannt. Aus welcher Zeit stammt ihre erste archäologisch nachgewiesene Bauphase?",
+"optionen": [
+"Sie stammt aus der Zeit der Sachsenkriege.",
+"Sie stammt aus dem Hochmittelalter.",
+"Sie stammt aus der vorrömischen Eisenzeit.",
+"Sie stammt aus der römischen Kaiserzeit."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name Wittekind und die Bezeichnung sächsische Volksburg lassen an die Sachsenkriege denken. Doch archäologische Untersuchungen wiesen schon eine Bauphase der vorrömischen Eisenzeit nach. Eine Trennmauer stammt aus dem frühen Mittelalter; dazu fand man eine vorromanische Kreuzkirche, deren Zweck unklar ist. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/",
+"faktencheck": "bestätigt",
+"id": "213-porta-westfalica/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "212-bad-oeynhausen",
+"anschluss": [
+"Einwohner: Bad Oeynhausen hat rund 14.000 mehr als Porta Westfalica.",
+"Kennzeichen: Bad Oeynhausen und Porta Westfalica tragen beide MI."
+],
+"anschluesse": {
+"211-loehne": [
+"Löhne hat rund 4.300 Einwohner mehr als Porta Westfalica.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Löhne die SPD, in Porta Westfalica die AfD."
+],
+"212-bad-oeynhausen": [
+"Einwohner: Bad Oeynhausen hat rund 14.000 mehr als Porta Westfalica.",
+"Kennzeichen: Bad Oeynhausen und Porta Westfalica tragen beide MI."
+],
+"214-minden": [
+"Bundestagswahl 2025: In Minden lag die SPD vorn, in Porta Westfalica die CDU.",
+"Minden hat fast zweieinhalbmal so viele Einwohner wie Porta Westfalica."
+],
+"215-bueckeburg": [
+"Landesgrenze: Bückeburg liegt in Niedersachsen, Porta Westfalica in Nordrhein-Westfalen.",
+"Porta Westfalica hat fast doppelt so viele Einwohner wie Bückeburg."
+]
+},
+"ags": "05770032",
+"ortsteil": false,
+"km_vom_vorigen": 9.4
+},
+{
+"slug": "214-minden",
+"name": "Minden",
+"lat": 52.28833,
+"lon": 8.91667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Minden",
+"steckbrief": "Stadt mit rund 84.000 Einwohnern, 39 km nordöstlich von Bielefeld.",
+"frage": "Melitta Bentz erfand den Kaffeefilter. Auf welchem Mindener Friedhof liegt sie begraben?",
+"optionen": [
+"Sie liegt auf dem Nordfriedhof.",
+"Sie liegt auf dem Alten Friedhof.",
+"Sie liegt auf dem Südfriedhof.",
+"Sie liegt auf dem Quäker-Friedhof."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Alte Friedhof klingt nach berühmten Gräbern, doch die Stadt ersetzte ihn durch den Nordfriedhof. Den plante Stadtgartendirektor Ludwig Isermann, der dort selbst begraben liegt. Auch Melitta Bentz, die mit Hugo Bentz die Melitta-Werke gründete, ruht dort. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.minden.de/dokumente/Flyer_Plakate/historische-stadtansichten-flyer.pdf",
+"faktencheck": "bestätigt",
+"id": "214-minden/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Minden",
+"steckbrief": "Stadt mit rund 84.000 Einwohnern, 39 km nordöstlich von Bielefeld.",
+"frage": "Wie viele Einwohner leben in Minden durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt mit rund 84.000 Einwohnern wirkt dicht bebaut, daher liegen höhere Werte nahe. Doch die Stadtfläche ist groß: rund 101 Quadratkilometer. So kommen auf jeden Quadratkilometer 827 Einwohner. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "214-minden/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Minden",
+"steckbrief": "Stadt mit rund 84.000 Einwohnern, 39 km nordöstlich von Bielefeld.",
+"frage": "Im 19. Jahrhundert nutzte das Militär mehrere Mindener Kirchen für eigene Zwecke. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Simeoniskirche diente den Preußen als Gefängnis.",
+"Die Mauritiuskirche wurde nach der Verstaatlichung 1810 zum Artilleriezeughaus umgebaut.",
+"Die Johanniskirche diente den Preußen als Getreidemagazin."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Gefängnis klingt nach Festungsalltag, und das Militär nutzte tatsächlich Kirchen für eigene Zwecke. Doch die Garnison brauchte auch ein Gotteshaus: St. Simeonis wurde zur Preußenzeit Garnisonskirche. In St. Johannis lagerte Getreide; Gottesdienste hielt man in der Apsis, dem halbrunden Chorabschluss. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.minden.de/dokumente/broschueren/historischer-spaziergang-ansicht.pdf",
+"faktencheck": "korrigiert",
+"id": "214-minden/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Minden",
+"steckbrief": "Stadt mit rund 84.000 Einwohnern, 39 km nordöstlich von Bielefeld.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in Minden: Welche Partei wurde zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"CDU"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit wurde die AfD zweitstärkste Kraft, das liegt nahe. In Minden aber lag die SPD mit 24,3 Prozent knapp vorn, dahinter die CDU mit 23,4 Prozent; die AfD folgte mit 19,9 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "214-minden/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Minden",
+"steckbrief": "Stadt mit rund 84.000 Einwohnern, 39 km nordöstlich von Bielefeld.",
+"frage": "Das Mauritiuskloster lag zuerst östlich vor Minden und zog 1434 an die Simeoniskirche. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Am alten Ort drohte ständig Hochwasser.",
+"Die Festung brauchte das Gelände vor der Stadt.",
+"Das Kloster musste einer Weserbrücke weichen.",
+"Ein Feuer hatte das alte Kloster zerstört."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Brand liegt nahe, denn Feuer zerstörte im Mittelalter viele Klöster. Die Ortsgeschichte nennt aber ständige Hochwassergefahr: Das Kloster stand auf dem Werder, so heißt Land am oder im Fluss. Die Mönche zogen auf einen höheren Platz an St. Simeonis. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.minden.de/dokumente/broschueren/historischer-spaziergang-ansicht.pdf",
+"faktencheck": "bestätigt",
+"id": "214-minden/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Minden",
+"steckbrief": "Stadt mit rund 84.000 Einwohnern, 39 km nordöstlich von Bielefeld.",
+"frage": "Wie weit ist es von Minden Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"unter 120 km",
+"120 bis unter 200 km",
+"200 bis unter 280 km",
+"280 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Straßen und Schienen machen Umwege, deshalb schätzen viele die Entfernung größer ein. Luftlinie trennen Minden und die Landeshauptstadt Düsseldorf aber 189 Kilometer. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "214-minden/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Minden",
+"steckbrief": "Stadt mit rund 84.000 Einwohnern, 39 km nordöstlich von Bielefeld.",
+"frage": "In der Schlacht bei Minden 1759 kämpfte eine Allianz um Großbritannien gegen Frankreich. Wie viele Soldaten waren beteiligt?",
+"optionen": [
+"unter 20.000",
+"20.000 bis unter 50.000",
+"50.000 bis unter 120.000",
+"120.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mehr Soldaten, als Minden heute Einwohner hat, klingt unwahrscheinlich; kleinere Zahlen liegen nahe. Doch im Norden Mindens, im heutigen Stadtbezirk Todtenhausen, waren 90.000 Soldaten an der Schlacht beteiligt. Herzog Ferdinand von Braunschweig-Wolfenbüttel führte die Allianz zum Sieg; die Franzosen zogen sich zurück. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "214-minden/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Minden",
+"steckbrief": "Stadt mit rund 84.000 Einwohnern, 39 km nordöstlich von Bielefeld.",
+"frage": "Heinrich der Löwe, Herzog von Bayern und Sachsen, heiratete im Mindener Dom Mathilda von England. Wie alt war die Braut?",
+"optionen": [
+"Sie war 16 Jahre alt.",
+"Sie war 12 Jahre alt.",
+"Sie war 20 Jahre alt.",
+"Sie war 25 Jahre alt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine erwachsene Braut liegt nahe, doch Mathilda war erst 12 Jahre alt, der Bräutigam 38. Fürstenhäuser schlossen solche Ehen damals aus politischen Gründen. Die Hochzeitsfeier fand in Braunschweig statt, in der Pfalz Dankwarderode. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "214-minden/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Minden",
+"steckbrief": "Stadt mit rund 84.000 Einwohnern, 39 km nordöstlich von Bielefeld.",
+"frage": "1807 legte Minden einen neuen Friedhof an, den heutigen Alten Friedhof. Welchen Anlass nennt die Friedhofsgeschichte der Stadt?",
+"optionen": [
+"Ein Stadtbrand hatte die alten Kirchhöfe verwüstet.",
+"Ein Hochwasser hatte die alten Kirchhöfe überspült.",
+"Der Bischof verbot weitere Gräber an den Kirchen.",
+"Ein Gesetz aus der napoleonischen Besatzungszeit verlangte es."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Unglück wie Brand oder Hochwasser liegt nahe, wenn eine Stadt plötzlich neu begräbt. Den Anlass gab aber die napoleonische Besetzung: Damals wurde ein Gesetz erlassen, das Begräbnisse außerhalb der Stadtmauern verlangte, aus Seuchenschutz und nach Napoleons Gleichheitsgrundsatz. Heute heißt der Friedhof auch „Botanischer Garten“. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.minden.de/dokumente/Flyer_Plakate/historie-der-staedtischen-friedhoefe.pdf",
+"faktencheck": "korrigiert",
+"id": "214-minden/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Minden",
+"steckbrief": "Stadt mit rund 84.000 Einwohnern, 39 km nordöstlich von Bielefeld.",
+"frage": "798 hielt ein Herrscher in „Minda“, dem heutigen Minden, eine Reichsversammlung ab. Wer war es?",
+"optionen": [
+"Es war Otto der Große.",
+"Es war Ludwig der Fromme.",
+"Es war Karl der Große.",
+"Es war Pippin der Jüngere."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Alle vier waren mächtige Herrscher, das macht die Wahl schwer. Doch es war Karl der Große, der Franke und spätere Kaiser. Die Versammlung führte zur Erwähnung Mindens in den fränkischen Reichsannalen. Auch das Bistum Minden gründete Karl. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "214-minden/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "213-porta-westfalica",
+"anschluss": [
+"Kennzeichen: In Minden und Porta Westfalica steht MI am Auto.",
+"Fläche: Porta Westfalica ist etwas größer als Minden."
+],
+"anschluesse": {
+"211-loehne": [
+"Bundestagswahl 2025: In Löhne lag die CDU vorn, in Minden die SPD.",
+"Minden hat doppelt so viele Einwohner wie Löhne."
+],
+"212-bad-oeynhausen": [
+"Bundestagswahl 2025: In Bad Oeynhausen lag die CDU vorn, in Minden die SPD.",
+"Minden hat gut anderthalbmal so viele Einwohner wie Bad Oeynhausen."
+],
+"213-porta-westfalica": [
+"Kennzeichen: In Minden und Porta Westfalica steht MI am Auto.",
+"Fläche: Porta Westfalica ist etwas größer als Minden."
+],
+"215-bueckeburg": [
+"Landesgrenze: Bückeburg liegt in Niedersachsen, Minden in Nordrhein-Westfalen.",
+"Bundestagswahl 2025: In Bückeburg lag die CDU vorn, in Minden die SPD."
+]
+},
+"ags": "05770024",
+"ortsteil": false,
+"km_vom_vorigen": 5.4
+},
+{
+"slug": "215-bueckeburg",
+"name": "Bückeburg",
+"lat": 52.26083,
+"lon": 9.04917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bückeburg",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 43 km nordöstlich von Bielefeld.",
+"frage": "In Bückeburg feiern Schulkinder das Krengelfest. Woran erinnert es?",
+"optionen": [
+"Es erinnert an die Verleihung der Stadtrechte.",
+"Es erinnert an eine Fürstenhochzeit.",
+"Es erinnert an das Ende einer Hungersnot.",
+"Es erinnert an die Einführung der Pockenimpfung."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Kinderfest klingt nach Fürstenhochzeit oder Stadtjubiläum, so feierten viele Residenzen. Das Krengelfest erinnert aber an Dr. Bernhard Christoph Faust: Der Leibarzt des Fürstenhofs führte die Pockenimpfung ein. Den geimpften Kindern schenkte er zum Trost einen Krengel, eine Brezel. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg und www.bueckeburg.de/de/Tourismus-Kultur/Kultur/Heimatpflege",
+"faktencheck": "korrigiert",
+"id": "215-bueckeburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bückeburg",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 43 km nordöstlich von Bielefeld.",
+"frage": "Wie viele Einwohner leben in Bückeburg im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 700",
+"700 bis unter 1.200",
+"1.200 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Residenzstadt mit Schloss lässt an dichte Altstadtgassen denken. Zur Stadt gehören aber auch Ortsteile wie Achum, Cammer und Scheie, und sie drücken den Schnitt: Bückeburg kommt auf 276 Einwohner je Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "215-bueckeburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bückeburg",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 43 km nordöstlich von Bielefeld.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Graf Ernst ließ die Stadtkirche als Repräsentationskirche bauen.",
+"Fürstin Juliane regierte für ihren kranken Ehemann.",
+"Am Anfang der Stadt stand eine Wasserburg."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dass eine Fürstin für einen kranken Mann einspringt, klingt glaubhaft, solche Regentschaften gab es oft. Juliane regierte aber nach dem Tod ihres Gatten Philipp Ernst für ihren minderjährigen Sohn Georg Wilhelm. Die Stadtkirche ließ Graf Ernst tatsächlich bauen, und am Anfang Bückeburgs stand eine Wasserburg. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.bueckeburg.de/de/Tourismus-Kultur/Staunen-und-Erleben/Historisches-Weserbergland; www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg",
+"faktencheck": "korrigiert",
+"id": "215-bueckeburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bückeburg",
+"steckbrief": "Residenzstadt im Landkreis Schaumburg, rund 19.000 Einwohner, 43 km nordöstlich von Bielefeld.",
+"frage": "Wie hoch war die Wahlbeteiligung in Bückeburg bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Werte nahe der Spitze wirken unwahrscheinlich, deshalb tippen viele vorsichtiger. In Bückeburg gingen bei der Bundestagswahl 2025 aber 83,8 Prozent der Wahlberechtigten wählen. Stärkste Partei wurde die CDU vor der SPD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "215-bueckeburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bückeburg",
+"steckbrief": "Ehemalige Residenzstadt mit rund 19.000 Einwohnern, 43 km nordöstlich von Bielefeld.",
+"frage": "Ein Mitglied der Musikerfamilie Bach wird „Bückeburger Bach“ genannt. Welches?",
+"optionen": [
+"Gemeint ist Wilhelm Friedemann Bach.",
+"Gemeint ist Carl Philipp Emanuel Bach.",
+"Gemeint ist Johann Christian Bach.",
+"Gemeint ist Johann Christoph Friedrich Bach."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Carl Philipp Emanuel ist vielen geläufig, darum liegt er nahe. Der „Bückeburger Bach“ ist aber Johann Christoph Friedrich Bach. Er trug zur kulturellen Blüte Bückeburgs bei, ebenso wie der Prediger Johann Gottfried Herder. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bueckeburg.de/de/Tourismus-Kultur/Staunen-und-Erleben/Historisches-Weserbergland; www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg",
+"faktencheck": "korrigiert",
+"id": "215-bueckeburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bückeburg",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 43 km nordöstlich von Bielefeld.",
+"frage": "Wie weit ist es von Bückeburg in Luftlinie bis zur Landeshauptstadt Hannover?",
+"optionen": [
+"unter 55 km",
+"55 bis unter 80 km",
+"80 bis unter 110 km",
+"110 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Weil Bielefeld die nächste Großstadt ist, schätzt man Hannover leicht weiter weg. Tatsächlich sind es in Luftlinie nur 48 Kilometer, kaum mehr als die 43 Kilometer nach Bielefeld. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "215-bueckeburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bückeburg",
+"steckbrief": "Kreisangehörige Stadt im Landkreis Schaumburg, rund 19.000 Einwohner, 43 km nordöstlich von Bielefeld.",
+"frage": "Der Schriftsteller Hermann Löns war von 1907 bis 1909 in Bückeburg tätig. Als was?",
+"optionen": [
+"Er war Hauslehrer am Fürstenhof.",
+"Er war Redakteur der Landeszeitung.",
+"Er war Förster im Schaumburger Wald.",
+"Er war Bibliothekar der Hofbibliothek."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Löns denkt man an Wald und Jagd, darum liegt der Förster nahe. In Bückeburg war er aber Redakteur der Schaumburg-Lippischen Landeszeitung. Von ihm stammt auch das satirische „Duodez“. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg",
+"faktencheck": "bestätigt",
+"id": "215-bueckeburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bückeburg",
+"steckbrief": "Stadt mit rund 19.000 Einwohnern, 43 km nordöstlich von Bielefeld.",
+"frage": "Eine Bückeburger Führung zum Jagdschloss Baum im Schaumburger Wald besucht auch eine Pyramide. Was ist sie?",
+"optionen": [
+"Sie ist ein Grabmal der gräflichen Familie.",
+"Sie ist der alte Eiskeller des Jagdschlosses.",
+"Sie ist ein alter Grenzstein der Grafschaft.",
+"Sie ist ein alter Punkt der Landvermessung."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Jagdschloss im Wald liegt ein Eiskeller nahe, solche Bauten gehörten oft dazu. Die Pyramide ist aber die Grabpyramide der gräflichen Familie. Das Jagdschloss geht auf Graf Wilhelm zu Schaumburg-Lippe und Gräfin Marie Barbara Eleonore zurück. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bueckeburg.de/de/Tourismus-Kultur/Staunen-und-Erleben/Historisches-Weserbergland",
+"faktencheck": "korrigiert",
+"id": "215-bueckeburg/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "214-minden",
+"anschluss": [
+"Bundestagswahl 2025: CDU siegte in Bückeburg, SPD in Minden.",
+"Einwohner: Minden ist gut viermal so groß wie Bückeburg."
+],
+"anschluesse": {
+"212-bad-oeynhausen": [
+"Landesgrenze: Bad Oeynhausen liegt in Nordrhein-Westfalen, Bückeburg in Niedersachsen.",
+"Bad Oeynhausen hat gut zweieinhalbmal so viele Einwohner wie Bückeburg."
+],
+"213-porta-westfalica": [
+"Landesgrenze: Porta Westfalica liegt in Nordrhein-Westfalen, Bückeburg in Niedersachsen.",
+"Porta Westfalica hat fast doppelt so viele Einwohner wie Bückeburg."
+],
+"214-minden": [
+"Bundestagswahl 2025: CDU siegte in Bückeburg, SPD in Minden.",
+"Einwohner: Minden ist gut viermal so groß wie Bückeburg."
+],
+"216-stadthagen": [
+"Bundestagswahl 2025: In Stadthagen lag die SPD vorn, in Bückeburg die CDU.",
+"Stadthagen hat rund 3.500 Einwohner mehr als Bückeburg."
+]
+},
+"ags": "03257009",
+"ortsteil": false,
+"km_vom_vorigen": 9.5
+},
+{
+"slug": "216-stadthagen",
+"name": "Stadthagen",
+"lat": 52.32472,
+"lon": 9.20694,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadthagen",
+"steckbrief": "Stadt mit rund 22.600 Einwohnern, 36 km westlich von Hannover.",
+"frage": "Von 1897 bis 1930 verband eine Straßenbahn Stadthagens Bahnhof mit der Stadt. Was war an ihr besonders?",
+"optionen": [
+"Sie fuhr mit einer kleinen Dampflok.",
+"Sie fuhr mit Strom aus dem Zechenkraftwerk.",
+"Sie wurde bis zuletzt von Pferden gezogen.",
+"Sie wurde per Seilzug wie eine Standseilbahn bewegt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bis zuletzt zogen Pferde die Wagen vom Bahnhof in die Stadt, danach übernahmen Busse. Strom liegt nahe, weil Straßenbahnen damals meist schon elektrisch fuhren. Doch Stadthagens Bahn blieb bis zu ihrem Ende 1930 beim Pferdebetrieb. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadthagen",
+"faktencheck": "korrigiert",
+"id": "216-stadthagen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stadthagen",
+"steckbrief": "Stadt im Landkreis Schaumburg, 36 km westlich von Hannover.",
+"frage": "Wie viele Einwohner zählte Stadthagen Ende 2025?",
+"optionen": [
+"unter 14.000",
+"14.000 bis unter 17.000",
+"17.000 bis unter 20.000",
+"20.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ende 2025 zählte Stadthagen 22.556 Einwohner. Eine Stadt im Schatten Hannovers schätzt man leicht kleiner. Doch Stadthagen liegt klar über der Marke von 20.000. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "216-stadthagen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Stadthagen",
+"steckbrief": "Stadt mit rund 22.600 Einwohnern, 36 km westlich von Hannover.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In Stadthagen wurde über Jahrhunderte Steinkohle gefördert.",
+"Die Klosterkirche ist der Überrest eines Franziskanerklosters.",
+"Im Zweiten Weltkrieg wurde Stadthagen schwer zerstört."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Amerikanische Truppen nahmen Stadthagen im April 1945 ohne Widerstand ein, schwere Kriegsschäden blieben der Stadt erspart. Verdächtiger wirkt oft die Kohle, weil man Zechen eher im Ruhrgebiet vermutet. Doch in Stadthagen wurde jahrhundertelang Steinkohle gefördert, etwa am Georgschacht. Die Klosterkirche ist tatsächlich der Überrest eines Franziskanerklosters. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadthagen",
+"faktencheck": "korrigiert",
+"id": "216-stadthagen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stadthagen",
+"steckbrief": "Stadt mit rund 22.600 Einwohnern, 36 km westlich von Hannover.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Stadthagen die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die SPD lag mit 26,9 Prozent knapp vor der CDU. Wer an die Zeiten großer Volksparteien denkt, schätzt höher. Doch die Stimmen verteilten sich breit: Auch AfD, Grüne und Linke holten zweistellige oder fast zweistellige Ergebnisse. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "216-stadthagen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadthagen",
+"steckbrief": "Stadt mit rund 22.600 Einwohnern, 36 km westlich von Hannover.",
+"frage": "1619 wurde Stadthagens Gymnasium illustre zur Universität erhoben. Wohin wurde sie 1621 verlegt?",
+"optionen": [
+"Sie wurde nach Hameln verlegt.",
+"Sie wurde nach Celle verlegt.",
+"Sie wurde nach Rinteln verlegt.",
+"Sie wurde nach Hildesheim verlegt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die junge Universität zog 1621 nach Rinteln und wurde dort feierlich eröffnet. Hameln liegt nahe, weil es die bekanntere Weserstadt ist. Hervorgegangen war die Hochschule aus dem Gymnasium illustre, einer gehobenen Gelehrtenschule zwischen Lateinschule und Universität. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadthagen",
+"faktencheck": "korrigiert",
+"id": "216-stadthagen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stadthagen",
+"steckbrief": "Stadt mit rund 22.600 Einwohnern, 36 km westlich von Hannover.",
+"frage": "Wie viele Einwohner leben in Stadthagen auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 300",
+"300 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. 22.556 Einwohner auf 60,27 Quadratkilometern ergeben rund 374 je Quadratkilometer. Wer bei einer Stadt im Umland viel Feld und Wald erwartet, schätzt niedriger. Doch Stadthagen wohnt dichter, als die Lage vermuten lässt. Richtig war 4.",
+"quelle": "berechnet aus Wikidata P1082 (Stand 2025-12-31) und Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "216-stadthagen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadthagen",
+"steckbrief": "Stadt mit rund 22.600 Einwohnern, 36 km westlich von Hannover.",
+"frage": "Im Stadtwappen von Stadthagen sitzt ein Nesselblatt. Wofür steht es?",
+"optionen": [
+"Es ist das Wappenzeichen der Schaumburger Grafen.",
+"Es erinnert an Brennnesseln auf feuchten Stadtwiesen.",
+"Es war das Zeichen der Nesseltuchweber.",
+"Es zeigt eine Heilpflanze der Franziskaner."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Nesselblatt ist das Wappenzeichen der Schaumburger Grafen. Der Überlieferung nach geht es auf ihren Stammsitz zurück, die Schaumburg auf dem Nesselberg im Wesertal. Brennnesseln liegen nahe, weil man das Blatt wörtlich nimmt. Doch im Stadtwappen steht es für die Landesherren, nicht für Pflanzen vor Ort. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadthagen",
+"faktencheck": "korrigiert",
+"id": "216-stadthagen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadthagen",
+"steckbrief": "Stadt mit rund 22.600 Einwohnern, 36 km westlich von Hannover.",
+"frage": "Das siebeneckige Mausoleum der Grafen und Fürsten von Schaumburg-Lippe folgt einem berühmten Vorbild. Welchem?",
+"optionen": [
+"Vorbild war die Pfalzkapelle in Aachen.",
+"Vorbild war das Mediceer-Grab in Florenz.",
+"Vorbild war das Pantheon in Rom.",
+"Vorbild war die Grabeskirche in Jerusalem."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Vorbild war die Fürstenkapelle der Medici an San Lorenzo in Florenz. Aachen liegt nahe, weil die Pfalzkapelle ebenfalls ein Vieleck ist und Grablege Karls des Großen war. Baumeister waren Giovanni Maria Nosseni und Anton Boten, die Auferstehungsplastik schuf Adrian de Vries. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadthagen",
+"faktencheck": "korrigiert",
+"id": "216-stadthagen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadthagen",
+"steckbrief": "Stadt mit rund 22.600 Einwohnern, 36 km westlich von Hannover.",
+"frage": "Am früheren Georgschacht stand bis vor Kurzem die „Kohlenkirche“. Was war sie?",
+"optionen": [
+"Sie war eine Kapelle für die Bergleute.",
+"Sie war ein Lager für geförderte Kohle.",
+"Sie war das Verwaltungsgebäude der Zeche.",
+"Sie war die Waschkaue der Bergleute."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die „Kohlenkirche“ war die Waschkaue des Georgschachts, ein prächtiger denkmalgeschützter Bau. In einer Waschkaue waschen sich Bergleute nach der Schicht und ziehen sich um. Eine Kapelle liegt nahe, denn der Name klingt danach. Der Bau verfiel und wurde Ende 2023 abgerissen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadthagen",
+"faktencheck": "korrigiert",
+"id": "216-stadthagen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "215-bueckeburg",
+"anschluss": [
+"Residenz: Graf Ernst verlegte sie 1607 von Stadthagen nach Bückeburg.",
+"Bundestagswahl 2025: Die SPD gewann Stadthagen, die CDU Bückeburg."
+],
+"anschluesse": {
+"215-bueckeburg": [
+"Residenz: Graf Ernst verlegte sie 1607 von Stadthagen nach Bückeburg.",
+"Bundestagswahl 2025: Die SPD gewann Stadthagen, die CDU Bückeburg."
+],
+"217-haste": [
+"Bundestagswahl 2025: In Haste lag die CDU vorn, in Stadthagen die SPD.",
+"Stadthagen hat achtmal so viele Einwohner wie Haste."
+],
+"218-wunstorf": [
+"Kreisgrenze: Wunstorf gehört zum Landkreis Region Hannover, Stadthagen zum Landkreis Schaumburg.",
+"Bundestagswahl 2025: In Wunstorf lag die CDU vorn, in Stadthagen die SPD."
+]
+},
+"ags": "03257035",
+"ortsteil": false,
+"km_vom_vorigen": 12.9
+},
+{
+"slug": "217-haste",
+"name": "Haste",
+"lat": 52.38083,
+"lon": 9.39056,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haste / Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover. / Der heutige Eisenbahnchor Haste wurde 1905 als Männergesangverein gegründet. Welchen Beruf hatte sein Gründer? / 1. Der Gründer war ein Bahnhofsvorsteher. 2. Der Gründer war ein Gastwirt. 3. Der Gründer war ein Lokführer. 4. Der Gründer war ein Dorfschullehrer.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name lockt auf die Schiene, doch „Eisenbahn“ trägt der Chor erst seit 1953. Gegründet hat ihn 1905 der Gastwirt Heinrich Mensing als Männergesangverein, und er führte ihn anfangs auch als Vorsitzender. Richtig war 2. /",
+"quelle": "Gemeinde-Webseite, haste.de/vereine/eisenbahnchor/vereinshistorie",
+"faktencheck": "korrigiert",
+"id": "217-haste/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Haste",
+"steckbrief": "Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover.",
+"frage": "Wie groß ist die Fläche der Gemeinde Haste?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 9 km²",
+"9 bis unter 14 km²",
+"14 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele denken bei einer Landgemeinde an weite Flächen mit viel Feld und Wald. Haste ist aber kompakt: Die Gemeinde misst 11,14 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "217-haste/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Haste",
+"steckbrief": "Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Eisenbahnchor sang 1914 bis 1919 ohne Pause.",
+"Der DRK-Ortsverein in Haste entstand im Jahr 1958.",
+"Die Siedlergemeinschaft hatte 1978 bis 2005 denselben Vorsitzenden."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der DRK-Ortsverein wirkt verdächtig, weil das Rote Kreuz viel älter ist. Doch die Lüge steckt beim Chor: Seine Vereinstätigkeit ruhte von 1914 bis 1919, im Ersten Weltkrieg und kurz danach. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, haste.de/vereine/eisenbahnchor/vereinshistorie",
+"faktencheck": "bestätigt",
+"id": "217-haste/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Haste / Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover. / Bundestagswahl 2025, Zweitstimmen in der Samtgemeinde Nenndorf, zu der Haste gehört: Welche Partei wurde dort zweitstärkste Kraft? / 1. SPD 2. CDU 3. AfD 4. Grüne",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn bundesweit wurde sie zweitstärkste Kraft. In der Samtgemeinde Nenndorf kam sie nur auf Platz drei. Vorn lag die CDU, dahinter die SPD. Richtig war 1. /",
+"quelle": "Samtgemeinde Nenndorf, amtliche Ergebnisse Bundestagswahl 2025 (votemanager.kdo.de), Stand 2025-02-23",
+"faktencheck": "korrigiert",
+"id": "217-haste/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haste",
+"steckbrief": "Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover.",
+"frage": "Wilhelmsdorf, ein Ortsteil von Haste, feierte im Juni 2023 ein rundes Jubiläum. Welches?",
+"optionen": [
+"Wilhelmsdorf wurde 50 Jahre alt.",
+"Wilhelmsdorf wurde 100 Jahre alt.",
+"Wilhelmsdorf wurde 250 Jahre alt.",
+"Wilhelmsdorf wurde 700 Jahre alt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name Wilhelmsdorf klingt nach Königen und Kaisern, deshalb liegt ein höheres Alter nahe. Gefeiert wurde 2023 aber das hundertjährige Bestehen: Wilhelmsdorf ist deutlich jünger, als sein Name vermuten lässt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, haste.de/vereine/wilhelmsdorfer-jungen/wj-wir-ueber-uns/100-jahre-wilhelmsdorf",
+"faktencheck": "unsicher",
+"id": "217-haste/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Haste",
+"steckbrief": "Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover.",
+"frage": "Wie viele Einwohner leben in Haste rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 350",
+"350 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Landgemeinde westlich von Hannover wirkt dünn besiedelt, deshalb liegt eine niedrige Dichte nahe. Haste hat für seine Einwohner aber wenig Fläche: Rechnerisch leben 251 Menschen auf einem Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Wikidata P1082 (Stand 2025-12-31) und Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "217-haste/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haste",
+"steckbrief": "Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover.",
+"frage": "Hansjürgen Lemme legte im Sommer 2022 die Leitung des Eisenbahnchors Haste nieder. Wie lange hatte er den Chor geleitet?",
+"optionen": [
+"Er leitete den Chor 12 Jahre lang.",
+"Er leitete den Chor 27 Jahre lang.",
+"Er leitete den Chor 53 Jahre lang.",
+"Er leitete den Chor 44 Jahre lang."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Mehrere Jahrzehnte am Pult wirken für einen Chorleiter kaum machbar, deshalb liegt eine kürzere Amtszeit nahe. Hansjürgen Lemme leitete den Eisenbahnchor aber 44 Jahre lang, bis zu seinem Rücktritt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, haste.de/vereine/eisenbahnchor/vereinshistorie",
+"faktencheck": "bestätigt",
+"id": "217-haste/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haste",
+"steckbrief": "Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover.",
+"frage": "Die Siedlergemeinschaft Haste nahm 1977 einen zweiten Ortsnamen in ihren Vereinsnamen auf. Welchen?",
+"optionen": [
+"Sie heißt Siedlergemeinschaft Haste-Wilhelmsdorf.",
+"Sie heißt Siedlergemeinschaft Haste-Nenndorf.",
+"Sie heißt Siedlergemeinschaft Haste-Hohnhorst.",
+"Sie heißt Siedlergemeinschaft Haste-Sachsenhagen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wilhelmsdorf oder Nenndorf liegen als Namen aus der Umgebung nahe. Der Verein wirkt aber in Haste und Hohnhorst, und so heißt er seit 1977 Siedlergemeinschaft Haste-Hohnhorst. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, haste.de/vereine/siedlergemeinschaft/ueber-uns",
+"faktencheck": "korrigiert",
+"id": "217-haste/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "216-stadthagen",
+"anschluss": [
+"Einwohner: Stadthagen hat rund achtmal so viele wie Haste.",
+"Landkreis: Stadthagen und Haste liegen beide im Kreis Schaumburg."
+],
+"anschluesse": {
+"216-stadthagen": [
+"Einwohner: Stadthagen hat rund achtmal so viele wie Haste.",
+"Landkreis: Stadthagen und Haste liegen beide im Kreis Schaumburg."
+],
+"218-wunstorf": [
+"Kreisgrenze: Wunstorf gehört zum Landkreis Region Hannover, Haste zum Landkreis Schaumburg.",
+"Wunstorf hat fünfzehnmal so viele Einwohner wie Haste."
+],
+"219-seelze": [
+"Kreisgrenze: Seelze gehört zum Landkreis Region Hannover, Haste zum Landkreis Schaumburg.",
+"Seelze hat zwölfmal so viele Einwohner wie Haste."
+]
+},
+"ags": "03257011",
+"ortsteil": false,
+"km_vom_vorigen": 13.9
+},
+{
+"slug": "218-wunstorf",
+"name": "Wunstorf",
+"lat": 52.42377,
+"lon": 9.43585,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wunstorf",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km westlich von Hannover.",
+"frage": "1959 übernahm Wunstorf eine Patenschaft für Arnswalde, heute Choszczno in Polen. Welche Begründung nennt die Ortsgeschichte?",
+"optionen": [
+"Sie bekräftigte den Anspruch auf deutsche Ostgebiete.",
+"Sie sollte die Versöhnung mit Polen fördern.",
+"Sie dankte Arnswalde für Hilfe nach Kriegsende.",
+"Sie sollte einen Schüleraustausch mit Polen ermöglichen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Versöhnung liegt nahe, weil Städte heute meist aus Freundschaft Bande knüpfen. Die Begründung von damals klang anders: Die Patenschaft diene der „Bekräftigung des für alle Zeiten gültigen und unabdingbaren Anspruchs auf deutsche Gebiete des Ostens“. Heute besteht sie nicht mehr. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wunstorf",
+"faktencheck": "unsicher",
+"id": "218-wunstorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wunstorf",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km westlich von Hannover.",
+"frage": "Wie groß ist das Stadtgebiet von Wunstorf mit allen Ortsteilen?",
+"optionen": [
+"unter 80 km²",
+"80 bis unter 140 km²",
+"140 bis unter 200 km²",
+"200 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer nur an die Kernstadt denkt, schätzt kleiner. Doch zu Wunstorf gehören viele Ortsteile wie Idensen, Luthe, Kolenfeld und Steinhude am Steinhuder Meer. Zusammen kommt das Stadtgebiet auf 125,74 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "korrigiert",
+"id": "218-wunstorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wunstorf",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km westlich von Hannover.",
+"frage": "Drei Aussagen über den Fliegerhorst Wunstorf. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Bau des Fliegerhorsts begann 1934 unter Geheimhaltung.",
+"Von 1945 bis 1958 nutzte ihn die US-Luftwaffe.",
+"Ab 1936 war er Aufstellungsbasis der Legion Condor."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. An US-Streitkräfte denkt man bei Militärflugplätzen schnell. Nach dem Krieg nutzte aber die britische Luftwaffe den Fliegerhorst, bevor sie ihn der deutschen Luftwaffe übergab. Die Legion Condor ist bekannt durch Guernica: Am Angriff auf die spanische Stadt waren Besatzungen dieses Fliegerhorsts beteiligt. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wunstorf",
+"faktencheck": "unsicher",
+"id": "218-wunstorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wunstorf",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km westlich von Hannover.",
+"frage": "Wie hoch war die Wahlbeteiligung in Wunstorf bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 72 %",
+"72 bis unter 78 %",
+"78 bis unter 84 %",
+"84 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an frühere, schwächere Wahlen denkt, schätzt niedriger. Bei der Bundestagswahl 2025 gaben in Wunstorf aber 85,3 Prozent der Wahlberechtigten ihre Stimme ab. Die meisten Zweitstimmen holte die CDU, vor der SPD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "218-wunstorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Wunstorf",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km westlich von Hannover.",
+"frage": "Welchem Kreis gehört Wunstorf an?",
+"optionen": [
+"Landkreis Schaumburg",
+"Region Hannover",
+"Landkreis Nienburg/Weser",
+"Landkreis Hameln-Pyrmont"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein gewöhnlicher Landkreis wie Schaumburg liegt nahe, denn Wunstorf ist eine eigenständige Stadt abseits von Hannover. Sie gehört aber zur Region Hannover, einem Verband aus der Landeshauptstadt und ihrem Umland. Deshalb tragen die meisten Autos dort das Kennzeichen H. Richtig war 2.",
+"quelle": "dewiki Infobox (landkreis); Wikidata P395 (kfz)",
+"faktencheck": "bestätigt",
+"id": "218-wunstorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wunstorf",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km westlich von Hannover.",
+"frage": "Im Jahr 1010 wurde die Kirche des Wunstorfer Stifts zerstört. Wodurch?",
+"optionen": [
+"Ungarische Reiter brannten das Stift nieder.",
+"Ein Blitzschlag zerstörte die Stiftskirche.",
+"Ein Hochwasser der Westaue unterspülte die Mauern.",
+"Ein Erdbeben brachte die Kirche zum Einsturz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Überfall liegt nahe, denn im frühen Mittelalter wurden Klöster oft geplündert. Hier aber zerstörte ein Blitzschlag die Kirche. Gegründet hatte das Stift, eine Gemeinschaft geistlicher Frauen, Bischof Theoderich von Minden. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wunstorf",
+"faktencheck": "unsicher",
+"id": "218-wunstorf/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wunstorf",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km westlich von Hannover.",
+"frage": "Im Park der Psychiatrie, damals Landeskrankenhaus, entstanden 1982 Steinskulpturen. Wer hat sie geschaffen?",
+"optionen": [
+"Steinmetz-Lehrlinge fertigten sie als Gesellenstücke.",
+"Ein französischer Bildhauer schenkte sie der Stadt.",
+"Ein Steinmetzbetrieb schuf sie für einen Wettbewerb.",
+"Ein Künstler schuf sie gemeinsam mit Patienten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bestellte Kunst von Fachleuten liegt nahe, denn so entstehen die meisten Parkskulpturen. Hier aber arbeitete der Bildhauer Siegfried Neuenhausen mit Patienten zusammen, im Stil der Art brut, der Kunst von Laien und Außenseitern. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wunstorf",
+"faktencheck": "korrigiert",
+"id": "218-wunstorf/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "217-haste",
+"anschluss": [
+"Kennzeichen: In Haste steht SHG am Auto, in Wunstorf H.",
+"Einwohner: Wunstorf hat fast fünfzehnmal so viele wie Haste."
+],
+"anschluesse": {
+"216-stadthagen": [
+"Kreisgrenze: Stadthagen gehört zum Landkreis Schaumburg, Wunstorf zum Landkreis Region Hannover.",
+"Bundestagswahl 2025: In Stadthagen lag die SPD vorn, in Wunstorf die CDU."
+],
+"217-haste": [
+"Kennzeichen: In Haste steht SHG am Auto, in Wunstorf H.",
+"Einwohner: Wunstorf hat fast fünfzehnmal so viele wie Haste."
+],
+"219-seelze": [
+"Wunstorf hat rund 6.700 Einwohner mehr als Seelze."
+]
+},
+"ags": "03241021",
+"ortsteil": false,
+"km_vom_vorigen": 5.7
+},
+{
+"slug": "219-seelze",
+"name": "Seelze",
+"lat": 52.39611,
+"lon": 9.59806,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seelze",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 10 km westlich von Hannover.",
+"frage": "Der Sage nach zog Reitergeneral Obentraut 1625 bei Seelze ungewöhnlich ins Gefecht. Wie?",
+"optionen": [
+"Er ritt auf einem geliehenen Bauernpferd.",
+"Er trug die Rüstung seines Knappen.",
+"Er kämpfte mit verbundenen Augen.",
+"Er trug keinen Helm und nur einen Stiefel."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Verkleidungen und Tauschgeschichten sind in Heldensagen beliebt, darum liegt die Knappenrüstung nahe. Die Sage erzählt es schlichter: Obentraut geriet ohne Helm und nur mit einem Stiefel ins Gefecht, in dem er tödlich verwundet wurde. Daran erinnern ein übergroßer Reitstiefel (1982) und ein Helm aus Metall (1989) am Obentrautdenkmal. Richtig war 4.",
+"quelle": "Stadt Seelze, seelze.de",
+"faktencheck": "korrigiert",
+"id": "219-seelze/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Seelze",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 10 km westlich von Hannover.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Seelze?",
+"optionen": [
+"unter 80 m",
+"80 bis unter 200 m",
+"200 bis unter 400 m",
+"400 m und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Seelze liegt auf 50 Metern Höhe. Wer bei Niedersachsen an den Harz denkt, schätzt leicht zu hoch. Seelze liegt aber nahe der Leine und am Mittellandkanal, und große Kanäle verlaufen meist durch flaches Land. Richtig war 1.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "219-seelze/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Seelze",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 10 km westlich von Hannover.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Durch Seelze führt der Mittellandkanal samt Abzweig.",
+"Seelzes Kirche St. Martin ehrt Martin von Tours.",
+"Seelze erhielt schon im Mittelalter das Stadtrecht."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele niedersächsische Städte haben ihr Stadtrecht seit dem Mittelalter, darum klingt das plausibel. Seelze wurde aber erst 1977 Stadt, einige Jahre nachdem es durch Eingemeindungen zur Großgemeinde geworden war. Kanal und Kirche stimmen dagegen. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Seelze",
+"faktencheck": "unsicher",
+"id": "219-seelze/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Seelze",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 10 km westlich von Hannover.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Seelze?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 24 %",
+"24 bis unter 28 %",
+"28 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Stärkste Partei wurde die CDU mit 25,1 Prozent, knapp vor der SPD mit 23,9 Prozent. Wer an die großen Volksparteien früherer Jahrzehnte denkt, schätzt leicht zu hoch: Mit der AfD bei 19,5 Prozent verteilten sich die Stimmen breit. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "219-seelze/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seelze",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 10 km westlich von Hannover.",
+"frage": "1828 kam im heutigen Seelze eine spätere Opernsängerin zur Welt. Welcher berühmte Komponist war ihr Onkel?",
+"optionen": [
+"Ihr Onkel war Heinrich Marschner.",
+"Ihr Onkel war Albert Lortzing.",
+"Ihr Onkel war Carl Maria von Weber.",
+"Ihr Onkel war Richard Wagner."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Marschner liegt nahe, denn er war lange Hofkapellmeister in Hannover. Die Sängerin hieß aber Johanna Wagner, und der Nachname verrät es: Sie war eine Nichte von Richard Wagner. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Seelze",
+"faktencheck": "bestätigt",
+"id": "219-seelze/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Seelze",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 10 km westlich von Hannover.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Seelze?",
+"optionen": [
+"H",
+"SHG",
+"HM",
+"NI"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In Seelze steht meist H am Auto, wie in Hannover selbst. Seelze gehört zur Region Hannover, und dort gilt das Kennzeichen der Landeshauptstadt. SHG liegt nahe, weil der Landkreis Schaumburg westlich von Hannover liegt, also auf Seelzes Seite. Richtig war 1.",
+"quelle": "Wikidata P395; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "219-seelze/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seelze",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 10 km westlich von Hannover.",
+"frage": "1755 traf Seelze ein Unglück, dem auch die Kirche zum Opfer fiel. Was geschah?",
+"optionen": [
+"Ein Leine-Hochwasser überschwemmte den ganzen Ort.",
+"Ein Großbrand zerstörte den halben Ort.",
+"Ein Erdbeben ließ viele Häuser einstürzen.",
+"Ein Orkan deckte fast alle Dächer ab."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Erdbeben liegt nahe: 1755 zerstörte ein Beben Lissabon und war in weiten Teilen Europas zu spüren. In Seelze aber war es Feuer: Ein Großbrand vernichtete den halben Ort und auch die Kirche. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Seelze",
+"faktencheck": "bestätigt",
+"id": "219-seelze/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seelze",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 10 km westlich von Hannover.",
+"frage": "Seelzes Wappen zeigt einen schwarzen Hahn auf silbernem Grund. Woher stammt dieses Motiv?",
+"optionen": [
+"Der Hahn stand einst auf dem Kirchturm.",
+"Ein Hahn soll Seelze vor Feinden gewarnt haben.",
+"Er stammt aus dem Siegel eines Rittergeschlechts.",
+"Seelze war früher für Hühnerzucht bekannt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Wetterhahn liegt nahe, er krönt viele Kirchtürme. Der Wappenhahn stammt aber aus dem Siegel des Rittergeschlechts von Seelze, das im Mittelalter belegt ist und später ausstarb. Er steht für Wachsamkeit und Kampfbereitschaft. Richtig war 3.",
+"quelle": "Stadt Seelze, seelze.de",
+"faktencheck": "korrigiert",
+"id": "219-seelze/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "218-wunstorf",
+"anschluss": [
+"Fläche: Wunstorf ist mehr als doppelt so groß wie Seelze.",
+"Bis Hannover: Seelze liegt knapp halb so weit wie Wunstorf."
+],
+"anschluesse": {
+"217-haste": [
+"Kreisgrenze: Haste gehört zum Landkreis Schaumburg, Seelze zum Landkreis Region Hannover.",
+"Seelze hat zwölfmal so viele Einwohner wie Haste."
+],
+"218-wunstorf": [
+"Fläche: Wunstorf ist mehr als doppelt so groß wie Seelze.",
+"Bis Hannover: Seelze liegt knapp halb so weit wie Wunstorf."
+],
+"220-hannover": [
+"Bundestagswahl 2025: In Hannover lag die SPD vorn, in Seelze die CDU.",
+"Hannover hat fünfzehnmal so viele Einwohner wie Seelze."
+]
+},
+"ags": "03241015",
+"ortsteil": false,
+"km_vom_vorigen": 11.4
+},
+{
+"slug": "220-hannover",
+"name": "Hannover",
+"lat": 52.37444,
+"lon": 9.73861,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hannover",
+"steckbrief": "Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.",
+"frage": "Im Großen Garten der Herrenhäuser Gärten steht Schloss Herrenhausen. Was trifft auf das heutige Gebäude zu?",
+"optionen": [
+"Es überstand den Zweiten Weltkrieg fast unbeschädigt.",
+"Es wurde gleich nach dem Zweiten Weltkrieg wiederaufgebaut.",
+"Es wurde erst Jahrzehnte nach Kriegsende rekonstruiert.",
+"Es ist ein Neubau ohne historisches Vorbild."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Barockgarten ringsum lässt ein durchgehend erhaltenes Schloss erwarten. Doch Schloss Herrenhausen wurde 1943 durch Bomben zerstört. Wiederaufgebaut wurde es erst von 2010 bis 2013, außen nach historischem Vorbild, innen modern. Seither steht es wieder im Großen Garten. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hannover",
+"faktencheck": "korrigiert",
+"id": "220-hannover/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hannover",
+"steckbrief": "Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.",
+"frage": "Wie viele Einwohner kommen in Hannover im Schnitt auf einen Quadratkilometer?",
+"optionen": [
+"unter 900",
+"900 bis unter 1.600",
+"1.600 bis unter 2.400",
+"2.400 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Hannover leben rund 2.560 Menschen auf einem Quadratkilometer. Viele schätzen niedriger, weil Großstädte oft auch Wald, Parks und Felder einschließen. Rund 523.000 Einwohner verteilen sich auf gut 204 Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "220-hannover/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hannover",
+"steckbrief": "Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Leine fließt durch Hannover nach Süden.",
+"Hannah Arendt wurde in Linden geboren.",
+"Kurt Schwitters liegt auf dem Stadtfriedhof Engesohde."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Leine fließt durch Hannover nach Norden, Richtung Aller. Wer Hannah Arendt mit anderen Städten verbindet, verdächtigt eher sie. Doch sie wurde 1906 in Linden geboren, heute ein Stadtteil Hannovers, und lebte dort bis 1909. Der Merz-Künstler Kurt Schwitters liegt tatsächlich auf dem Stadtfriedhof Engesohde. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hannover",
+"faktencheck": "korrigiert",
+"id": "220-hannover/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hannover",
+"steckbrief": "Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.",
+"frage": "Welche Partei wurde in Hannover bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"Grüne",
+"CDU",
+"SPD",
+"AfD"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Zweitstärkste Kraft wurde die CDU mit 20 Prozent, hauchdünn vor den Grünen mit 19,7 Prozent. Großstädte wählen oft grün, darum liegt dieser Tipp nahe. Vorn lag die SPD mit 22,8 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "220-hannover/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hannover",
+"steckbrief": "Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.",
+"frage": "Der Universalgelehrte Gottfried Wilhelm Leibniz lebte ab 1676 bis zu seinem Tod in Hannover. Welche Stellung hatte er dort?",
+"optionen": [
+"Er war Leibarzt der herzoglichen Familie.",
+"Er leitete als Kapellmeister die Hofmusik.",
+"Er war Hofrat und leitete die Bibliothek.",
+"Er lehrte als Professor an Hannovers Universität."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Gelehrten liegt eine Professur nahe. Doch die heutige Universität Hannovers wurde erst 1831 gegründet, lange nach Leibniz' Tod 1716. In Hannover war er Hofrat und Leiter der Bibliothek. Heute tragen eine Bibliothek und die Universität seinen Namen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hannover",
+"faktencheck": "korrigiert",
+"id": "220-hannover/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hannover",
+"steckbrief": "Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.",
+"frage": "Welche dieser Städte ist eine Partnerstadt von Hannover?",
+"optionen": [
+"Nagasaki",
+"Lyon",
+"Manchester",
+"Hiroshima"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Hiroshima ist Partnerstadt von Hannover. Nagasaki liegt als Tipp nahe, weil beide japanischen Städte für die Atombomben des Zweiten Weltkriegs stehen. Zu Hannovers Partnerstädten zählen außerdem Bristol, Rouen, Posen und Leipzig. Richtig war 4.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "220-hannover/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hannover / Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner. / Hannover feiert jedes Jahr ein großes Schützenfest. Seit wann hat die Stadt das Privileg dazu? / 1. Seit dem 16. Jahrhundert. / 2. Seit dem 17. Jahrhundert. / 3. Seit dem 18. Jahrhundert. / 4. Seit dem 19. Jahrhundert.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schützenfeste wirken wie ein Kind des bürgerlichen Vereinslebens, darum liegt eine späte Entstehung nahe. Doch schon 1529 gab Herzog Erich I. den Hannoveranern das Privileg für ein jährliches Schützenfest. Heute gilt es als größtes Schützenfest der Welt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hannover",
+"faktencheck": "korrigiert",
+"id": "220-hannover/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hannover",
+"steckbrief": "Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.",
+"frage": "Südlich des Zentrums von Hannover liegt der Maschsee. Wie ist er entstanden?",
+"optionen": [
+"Er ist ein abgeschnittener Altarm der Leine.",
+"Er wurde als See künstlich angelegt.",
+"Er bildete sich in einer natürlichen Senke.",
+"Er entstand durch einen Staudamm in der Leine."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein großer See in einer Flussstadt lässt an einen alten Flussarm oder eine natürliche Senke denken. Doch der Maschsee wurde von 1934 bis 1936 künstlich ausgehoben, in den Wiesen der Leinemasch. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hannover",
+"faktencheck": "korrigiert",
+"id": "220-hannover/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hannover",
+"steckbrief": "Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.",
+"frage": "Die heutige Leibniz Universität Hannover wurde 1831 gegründet. Als was begann sie?",
+"optionen": [
+"Sie begann als Ritterakademie für junge Adlige.",
+"Sie begann als Bergakademie für den Harzbergbau.",
+"Sie begann als Militärschule der hannoverschen Armee.",
+"Sie begann als Höhere Gewerbeschule."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Universität denkt man an Gelehrte, Adel oder Militär. Die heutige Leibniz Universität begann aber als Höhere Gewerbeschule, also als Schule für Technik und Gewerbe. Später wurde sie zur Technischen Hochschule erhoben. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hannover",
+"faktencheck": "bestätigt",
+"id": "220-hannover/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hannover / Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner. / In Hannover-Mittelfeld steht eine große buddhistische Pagode. Welcher buddhistischen Tradition gehört sie an? / 1. Sie gehört dem japanischen Zen-Buddhismus an. / 2. Sie gehört dem tibetischen Buddhismus an. / 3. Sie gehört dem vietnamesischen Buddhismus an. / 4. Sie gehört dem thailändischen Buddhismus an.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Pagode denken viele zuerst an Japan oder Tibet. Die Pagode Viên Giác an der Karlsruher Straße in Mittelfeld ist jedoch vietnamesisch-buddhistisch. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hannover",
+"faktencheck": "korrigiert",
+"id": "220-hannover/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "219-seelze",
+"anschluss": [
+"Einwohner: Hannover hat gut fünfzehnmal so viele wie Seelze.",
+"Bundestagswahl 2025: Vorn lag in Seelze die CDU, in Hannover die SPD."
+],
+"anschluesse": {
+"219-seelze": [
+"Einwohner: Hannover hat gut fünfzehnmal so viele wie Seelze.",
+"Bundestagswahl 2025: Vorn lag in Seelze die CDU, in Hannover die SPD."
+],
+"221-lehrte": [
+"Bundestagswahl 2025: In Lehrte lag die CDU vorn, in Hannover die SPD.",
+"Hannover hat zwölfmal so viele Einwohner wie Lehrte."
+]
+},
+"ags": "03241001",
+"ortsteil": false,
+"km_vom_vorigen": 9.8
+},
+{
+"slug": "221-lehrte",
+"name": "Lehrte",
+"lat": 52.3725,
+"lon": 9.97694,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lehrte",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 17 km östlich von Hannover.",
+"frage": "In Lehrtes Ortsteil Sievershausen steht ein Denkmal für Kurfürst Moritz von Sachsen. Woran erinnert es?",
+"optionen": [
+"Es erinnert an Moritz' Geburt in Sievershausen.",
+"Es erinnert an eine Schlacht zwischen Brandenburg und Sachsen.",
+"Es erinnert an Moritz' Hochzeit in der Martinskirche.",
+"Es erinnert an einen Friedensschluss mit Dänemark."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Fürstendenkmal auf dem Dorf lässt an eine Geburt oder einen Familienanlass denken. Doch das Moritz-Denkmal erinnert an eine Schlacht zwischen Brandenburg und Sachsen. Im Ort steht auch das Antikriegshaus Sievershausen, das den Wert des Friedens vermittelt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.lehrte.de/ortsteile/sievershausen/",
+"faktencheck": "korrigiert",
+"id": "221-lehrte/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lehrte",
+"steckbrief": "Stadt in der Region Hannover mit neun Ortsteilen, 17 km östlich von Hannover.",
+"frage": "Wie viele Menschen leben in der Stadt Lehrte samt ihren Ortsteilen?",
+"optionen": [
+"unter 20.000",
+"20.000 bis unter 35.000",
+"35.000 bis unter 50.000",
+"50.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Kleinstadt neben Hannover denkt, schätzt leicht zu niedrig. Doch mit der Kernstadt und neun Ortsteilen kommt Lehrte auf 44.140 Einwohner (Stand 31.12.2025). Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "221-lehrte/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Lehrte",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern und neun Ortsteilen, 17 km östlich von Hannover.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bei Immensen steht ein Eichen-Hainbuchenwald unter Naturschutz.",
+"Arpke hat eine barocke Fachwerkkirche im Zentrum.",
+"In Röddensen werden Spargel und Zuckerrüben angebaut."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Fachwerk prägt viele Dörfer in Niedersachsen, da wirkt eine Fachwerkkirche glaubhaft. Doch die Kirche Zum Heiligen Kreuz in Arpke ist ein neugotischer Backsteinbau. Bei Immensen liegt tatsächlich das Naturschutzgebiet Im Himmelreich, und Röddensen baut Spargel, Getreide, Kartoffeln und Zuckerrüben an. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.lehrte.de/ortsteile/arpke/",
+"faktencheck": "bestätigt",
+"id": "221-lehrte/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lehrte",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 17 km östlich von Hannover.",
+"frage": "Wie hoch war in Lehrte die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"82 % und mehr",
+"78 bis unter 82 %",
+"74 bis unter 78 %",
+"unter 74 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an sinkende Wahlbeteiligung denkt, tippt eher niedrig. Doch bei der Bundestagswahl 2025 gaben in Lehrte 84,1 Prozent der Wahlberechtigten ihre Stimme ab (Stand 23.02.2025). Stärkste Kraft bei den Zweitstimmen wurde die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "221-lehrte/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lehrte",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 17 km östlich von Hannover.",
+"frage": "Im Moor des Lehrter Ortsteils Kolshorn wächst eine seltene Moorrose. Woher stammt diese Pflanze ursprünglich?",
+"optionen": [
+"Sie stammt aus den Bergen Skandinaviens.",
+"Sie stammt ursprünglich aus Nordamerika.",
+"Sie ist ein Eiszeitrelikt aus Norddeutschland.",
+"Sie stammt aus den Gebirgen Japans."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Seltene Moorpflanzen gelten oft als Überbleibsel der Eiszeit, deshalb liegt diese Deutung nahe. Doch die Moorrose Kalmia angustifolia stammt aus Nordamerika. Im Kolshorner Moor wächst sie nahe dem Kalmiaweg. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.lehrte.de/ortsteile/kolshorn/",
+"faktencheck": "bestätigt",
+"id": "221-lehrte/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lehrte",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern und neun Ortsteilen, 17 km östlich von Hannover.",
+"frage": "Wie viele Einwohner leben in Lehrte durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 250",
+"250 bis unter 450",
+"450 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Nahe Hannover denkt man an dichte Vorstadt und schätzt hoch. Doch Lehrte ist groß: 127,67 Quadratkilometer mit Dörfern, Feldern und Wäldern. So kommen im Schnitt 346 Einwohner auf einen Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Wikidata P1082 (Stand 2025-12-31) und Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "221-lehrte/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lehrte",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 17 km östlich von Hannover.",
+"frage": "Wie begann die Geschichte des Lehrter Ortsteils Hämelerwald?",
+"optionen": [
+"Er entstand um 1200 auf gerodetem Waldland.",
+"Er wuchs ab 1500 um ein Kloster.",
+"Er wurde 1946 für Vertriebene angelegt.",
+"Er wurde 1864 mit knapp zwei Dutzend Bewohnern gegründet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Ortsname mit „wald“ klingt nach einem alten Rodungsdorf. Doch Hämelerwald ist nach dem Waldgebiet Hämeler Wald benannt und wurde erst 1864 gegründet, mit knapp zwei Dutzend Bewohnern. Der Hämeler Wald ist ein naturnaher Laubwald und steht unter Naturschutz. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.lehrte.de/ortsteile/haemelerwald/",
+"faktencheck": "korrigiert",
+"id": "221-lehrte/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lehrte",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 17 km östlich von Hannover.",
+"frage": "Der Lehrter Ortsteil Steinwedel feierte im Juni 2023 ein Jubiläum mit festlichem Bühnenprogramm. Welches?",
+"optionen": [
+"Steinwedel feierte sein 1001-jähriges Bestehen.",
+"Steinwedel feierte sein 1000-jähriges Bestehen.",
+"Steinwedel feierte 50 Jahre Zugehörigkeit zu Lehrte.",
+"Steinwedel feierte sein 750-jähriges Bestehen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Jubiläen feiern meist runde Zahlen, deshalb klingt die glatte Zahl am glaubhaftesten. Doch Steinwedel feierte im Juni 2023 sein 1001-jähriges Bestehen mit einem festlichen Bühnenprogramm. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.lehrte.de/ortsteile/steinwedel/",
+"faktencheck": "korrigiert",
+"id": "221-lehrte/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "220-hannover",
+"anschluss": [
+"Kennzeichen: In Hannover und in Lehrte steht H am Auto.",
+"Bundestagswahl 2025: Lehrte wählte zuerst CDU, Hannover zuerst SPD."
+],
+"anschluesse": {
+"220-hannover": [
+"Kennzeichen: In Hannover und in Lehrte steht H am Auto.",
+"Bundestagswahl 2025: Lehrte wählte zuerst CDU, Hannover zuerst SPD."
+]
+},
+"ags": "03241011",
+"ortsteil": false,
+"km_vom_vorigen": 16.2
+},
+{
+"slug": "222-gifhorn",
+"name": "Gifhorn",
+"lat": 52.48861,
+"lon": 10.54639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gifhorn",
+"steckbrief": "Gifhorn hat rund 43.000 Einwohner und liegt 17 km nordwestlich von Wolfsburg.",
+"frage": "Wie erklärt die Stadtgeschichte die Silbe „Gif“ im Ortsnamen Gifhorn?",
+"optionen": [
+"Als verwandt mit einem Wort für Gabel.",
+"Als Ableitung von Gift, wegen giftiger Sümpfe.",
+"Als altes Wort für Geschenk.",
+"Als Name eines früheren Grundherrn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Beim heutigen Namen liegt Gift nahe, doch nach der Stadtgeschichte ist der Name am besten so zu erklären: Gif, Giff oder Geff ist verwandt mit Giffel oder Gaffel, einer großen zweiarmigen Gabel. Gemeint ist die Lage im Mündungswinkel von Ise und Aller. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "222-gifhorn/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gifhorn",
+"steckbrief": "Gifhorn hat rund 43.000 Einwohner und liegt 17 km nordwestlich von Wolfsburg.",
+"frage": "Wie groß ist die Fläche der Stadt Gifhorn?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 120 km²",
+"120 bis unter 200 km²",
+"200 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Mittelstadt stellt man sich kompakt vor und schätzt die Fläche kleiner. Zum Stadtgebiet gehören aber auch die eingemeindeten Orte Gamsen, Kästorf, Neubokel, Wilsche und Winkel. Zusammen sind es 105,39 km². Richtig war 2.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "222-gifhorn/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gifhorn",
+"steckbrief": "Gifhorn hat rund 43.000 Einwohner und liegt 17 km nordwestlich von Wolfsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Gifhorn war ursprünglich ein Brückenort an zwei Handelsstraßen.",
+"Schnitzereien am Alten Rathaus zeigen traditionelle Handwerkszünfte.",
+"Die Welfen errichteten das Schloss ursprünglich als Kloster."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele Schlösser entstanden aus Klöstern, deshalb klingt die dritte Aussage glaubhaft. Im Welfenschloss von 1525 residierte aber von 1539 bis 1549 Herzog Franz; heute sind dort Landkreisverwaltung, Historisches Museum, Schlosskapelle und ein Restaurant. Gifhorn war tatsächlich ursprünglich ein Brückenort an Salz- und Kornstraße, und die Schnitzereien am Alten Rathaus zeigen Handwerkszünfte. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte und www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "222-gifhorn/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gifhorn",
+"steckbrief": "Gifhorn hat rund 43.000 Einwohner und liegt 17 km nordwestlich von Wolfsburg.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Gifhorn bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 23 %",
+"23 bis unter 26 %",
+"26 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wenn sich viele Parteien die Stimmen teilen, schätzt man die stärkste oft niedriger. In Gifhorn kam die CDU auf 26,9 % der Zweitstimmen, vor AfD und SPD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "222-gifhorn/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gifhorn",
+"steckbrief": "Gifhorn hat rund 43.000 Einwohner und liegt 17 km nordwestlich von Wolfsburg.",
+"frage": "Michail Gorbatschow legte 1996 in Gifhorn den Grundstein für den Glockenpalast. Wofür war der Bau ursprünglich gedacht?",
+"optionen": [
+"Er sollte ein Kunsthandwerker-Institut mit Glockengießerei werden.",
+"Er sollte ein russisch-orthodoxes Kloster werden.",
+"Er sollte ein Gästehaus für Staatsbesuche werden.",
+"Er sollte eine Sprachschule für Russisch werden."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Bau im Stil eines osteuropäischen Klosters lässt an Mönche denken. Gedacht war der Glockenpalast aber als Europäisches Kunsthandwerker-Institut mit Glockengießerei sowie Ausstellungs- und Versammlungsräumen, die dem Wirken der Friedensnobelpreisträger Albert Schweitzer und Michail Gorbatschow gewidmet waren. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "222-gifhorn/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gifhorn",
+"steckbrief": "Gifhorn hat rund 43.000 Einwohner und liegt 17 km nordwestlich von Wolfsburg.",
+"frage": "Wie weit ist es von Gifhorn in Luftlinie bis zur Landeshauptstadt Hannover?",
+"optionen": [
+"unter 40 km",
+"40 bis unter 70 km",
+"70 bis unter 100 km",
+"100 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Gifhorn vor allem mit Wolfsburg verbindet, schätzt die Landeshauptstadt leicht weiter weg. In der Luftlinie trennen Gifhorn und Hannover aber nur 57 km. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "222-gifhorn/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gifhorn",
+"steckbrief": "Gifhorn hat rund 43.000 Einwohner und liegt 17 km nordwestlich von Wolfsburg.",
+"frage": "In Gifhorns Fußgängerzone steht eine Ziegenplastik. Woran erinnert sie?",
+"optionen": [
+"Hier fand früher ein großer Ziegenmarkt statt.",
+"Eine Ziege soll die Stadt einst gerettet haben.",
+"Die Ziege hieß einst „Kuh des kleinen Mannes“.",
+"Ein Ziegenhirt soll die Stadt gegründet haben."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Markt liegt nahe, denn Tierplastiken in Fußgängerzonen erinnern oft an alte Märkte. Diese Ziege aber erinnert an die Zeit, in der die Ziege als „Kuh des kleinen Mannes“ bezeichnet wurde: Wer sich keine Kuh leisten konnte, hielt eine Ziege. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes",
+"faktencheck": "bestätigt",
+"id": "222-gifhorn/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gifhorn",
+"steckbrief": "Gifhorn hat rund 43.000 Einwohner und liegt 17 km nordwestlich von Wolfsburg.",
+"frage": "Die Mühle „Lady Devorgilla“ am Rande des Mühlenmuseums ist ein Nachbau. In welcher Partnerstadt Gifhorns steht ihr Vorbild?",
+"optionen": [
+"Das Vorbild steht in Hallsberg in Schweden.",
+"Das Vorbild steht in Dumfries in Schottland.",
+"Das Vorbild steht in Xanthi in Griechenland.",
+"Das Vorbild steht in Gardelegen in Sachsen-Anhalt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mühlen mit Flügeln verbindet man eher mit dem flachen Norden, darum liegt Hallsberg in Schweden nahe. Das Vorbild steht aber in Schottland, in der Partnerstadt Dumfries, wo es zum Städtischen Museum gehört. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte",
+"faktencheck": "korrigiert",
+"id": "222-gifhorn/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gifhorn",
+"steckbrief": "Gifhorn hat rund 43.000 Einwohner und liegt 17 km nordwestlich von Wolfsburg.",
+"frage": "1382 stifteten zwei Junker von Marenholtz am Gifhorner Weinberg eine Kapelle. Was geschah 1971 mit ihr?",
+"optionen": [
+"Sie wurde ins Mühlenmuseum versetzt.",
+"Sie brannte nach einem Blitzschlag ab.",
+"Sie wurde zum Heimatmuseum umgebaut.",
+"Sie wich einem Wohn- und Geschäftshaus."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine so alte Kapelle, im Merianstich verewigt, würde man heute geschützt erwarten. Doch die St. Georgs-Kapelle wurde abgerissen und mit einem Wohn- und Geschäftshaus überbaut. Lange lag um sie ein Friedhof; nur wenige Grabsteine und alte Grabplatten erinnern noch daran. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "222-gifhorn/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "221-lehrte",
+"anschluss": [
+"Einwohner: Lehrte zählt rund 1.300 mehr als Gifhorn.",
+"Wahlbeteiligung 2025: In Lehrte 84,1 Prozent, in Gifhorn 80,4 Prozent."
+],
+"anschluesse": {
+"223-wolfsburg": [
+"Kreisgrenze: Wolfsburg ist kreisfrei, Gifhorn gehört zum Landkreis Gifhorn.",
+"Wolfsburg hat dreimal so viele Einwohner wie Gifhorn."
+],
+"221-lehrte": [
+"Einwohner: Lehrte zählt rund 1.300 mehr als Gifhorn.",
+"Wahlbeteiligung 2025: In Lehrte 84,1 Prozent, in Gifhorn 80,4 Prozent."
+]
+},
+"ags": "03151009",
+"ortsteil": false,
+"km_vom_vorigen": 40.7
+},
+{
+"slug": "223-wolfsburg",
+"name": "Wolfsburg",
+"lat": 52.42306,
+"lon": 10.78722,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wolfsburg",
+"steckbrief": "Großstadt in Niedersachsen mit rund 130.000 Einwohnern, 72 km Luftlinie von Hannover.",
+"frage": "Die Burg Neuhaus in Wolfsburg hat einen mittelalterlichen Ursprung. In welchem Jahrhundert wurde die Stadt Wolfsburg gegründet?",
+"optionen": [
+"Die Stadt wurde im 13. Jahrhundert gegründet.",
+"Die Stadt wurde im 16. Jahrhundert gegründet.",
+"Die Stadt wurde im 19. Jahrhundert gegründet.",
+"Die Stadt wurde im 20. Jahrhundert gegründet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an Burg Neuhaus und Schloss Wolfsburg denkt, vermutet eine alte Stadt. Doch Wolfsburg wurde erst im 20. Jahrhundert gegründet und zählt nach Angaben der Stadt zu den jüngsten Stadtgründungen Europas. Burg und Schloss sind älter als die Stadt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.wolfsburg.de/wirtschaft/wirtschaften-und-investieren/standortkennzahlen",
+"faktencheck": "unsicher",
+"id": "223-wolfsburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wolfsburg",
+"steckbrief": "Großstadt in Niedersachsen mit rund 130.000 Einwohnern, 72 km Luftlinie von Hannover.",
+"frage": "Wie groß ist die Fläche des Wolfsburger Stadtgebiets?",
+"optionen": [
+"unter 220 km²",
+"220 bis unter 320 km²",
+"320 bis unter 450 km²",
+"450 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Großstadt mit dem Stammsitz von Volkswagen stellt man sich weitläufig vor, deshalb schätzen viele mehr. Das Stadtgebiet misst aber rund 204,6 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "223-wolfsburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wolfsburg",
+"steckbrief": "Großstadt in Niedersachsen mit rund 130.000 Einwohnern, 72 km Luftlinie von Hannover.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Stadtarchiv sammelt vor allem mittelalterliche Urkunden.",
+"Die Geschichtswerkstatt entstand auf Beschluss des Stadtrats.",
+"Wolfsburg hat einen Zugang zum Mittellandkanal."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Archiv lässt an alte Pergamente denken. Doch das Stadtarchiv hat seinen Schwerpunkt bei Schriftgut der Stadtverwaltung nach 1945. Die Geschichtswerkstatt entstand tatsächlich per Ratsbeschluss, und Wolfsburg hat Zugang zum Mittellandkanal. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.wolfsburg.de/kultur/geschichte/izs/stadtarchiv",
+"faktencheck": "bestätigt",
+"id": "223-wolfsburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Wolfsburg",
+"steckbrief": "Großstadt in Niedersachsen mit rund 130.000 Einwohnern, 72 km Luftlinie von Hannover.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Wolfsburg bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"SPD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit kam die AfD auf Platz zwei, das liegt als Tipp nahe. In Wolfsburg wurde aber die SPD mit 23,5 Prozent zweitstärkste Kraft, hinter der CDU mit 27 Prozent. Die AfD folgte mit 20,6 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "223-wolfsburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wolfsburg",
+"steckbrief": "Großstadt in Niedersachsen mit rund 130.000 Einwohnern, 72 km Luftlinie von Hannover.",
+"frage": "Eine Dokumentation im Giebelhaus der Schlossremise widmet sich dem Volkswagenwerk von 1939 bis 1945. Welchen Schwerpunkt hat sie?",
+"optionen": [
+"Sie zeigt die Autoproduktion für private Käufer.",
+"Sie erzählt vom Bau der Werkssiedlungen.",
+"Sie stellt die Ingenieure des Werks vor.",
+"Sie behandelt Rüstungsproduktion und Zwangsarbeit im Werk."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Volkswagen denkt man zuerst an Autos und ihre Konstrukteure. Die Dokumentation über die Opfer der nationalsozialistischen Gewaltherrschaft rückt aber Rüstungsproduktion und Zwangsarbeit im Volkswagenwerk in den Mittelpunkt. Wolfsburg ist Stammsitz der Volkswagen AG. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.wolfsburg.de/kultur/geschichte/izs/geschichtswerkstatt",
+"faktencheck": "bestätigt",
+"id": "223-wolfsburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wolfsburg",
+"steckbrief": "Großstadt in Niedersachsen mit rund 130.000 Einwohnern, 72 km Luftlinie von Hannover.",
+"frage": "Wie viele Einwohner leben in Wolfsburg rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 700",
+"700 bis unter 1.200",
+"1.200 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Großstädte gelten als eng bebaut, deshalb schätzen viele deutlich mehr. Wolfsburg kommt auf rund 634 Einwohner je Quadratkilometer, berechnet aus Einwohnerzahl und Fläche. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "223-wolfsburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wolfsburg",
+"steckbrief": "Großstadt in Niedersachsen mit rund 130.000 Einwohnern, 72 km Luftlinie von Hannover.",
+"frage": "Ein Museum in Wolfsburg erzählt die Geschichte eines Dichters. Welchen bekannten Text verfasste er?",
+"optionen": [
+"Er schrieb den Text des Niedersachsenlieds.",
+"Er schrieb den Text der Nationalhymne.",
+"Er schrieb das Gedicht hinter der Europahymne.",
+"Er schrieb den Text von „Stille Nacht“."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In Niedersachsen liegt das Landeslied als Tipp nahe. Das Museum ist aber Hoffmann von Fallersleben gewidmet, dem Dichter der Nationalhymne. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.wolfsburg.de/kultur/geschichte",
+"faktencheck": "bestätigt",
+"id": "223-wolfsburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wolfsburg",
+"steckbrief": "Großstadt in Niedersachsen mit rund 130.000 Einwohnern, 72 km Luftlinie von Hannover.",
+"frage": "Die Burg Neuhaus bekam 1986 ein kleines Museum. Wo wurde es eingerichtet?",
+"optionen": [
+"Es kam in den Gewölbekeller der Burg.",
+"Es kam in den ehemaligen Pferdestall.",
+"Es kam in den Rundturm der Burg.",
+"Es kam in das Torhaus am Eingang."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Für eine Ausstellung denkt man eher an geräumige Nebengebäude. Das Museum der Burg Neuhaus wurde aber im Rundturm eingerichtet und ist entsprechend klein. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.wolfsburg.de/kultur/geschichte/burgen-und-schloesser/burg-neuhaus",
+"faktencheck": "bestätigt",
+"id": "223-wolfsburg/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "222-gifhorn",
+"anschluss": [
+"Einwohner: Wolfsburg hat rund dreimal so viele wie Gifhorn.",
+"Wahlbeteiligung 2025 in Wolfsburg und Gifhorn: jeweils gut 80 Prozent."
+],
+"anschluesse": {
+"222-gifhorn": [
+"Einwohner: Wolfsburg hat rund dreimal so viele wie Gifhorn.",
+"Wahlbeteiligung 2025 in Wolfsburg und Gifhorn: jeweils gut 80 Prozent."
+],
+"224-oebisfelde": [
+"Landesgrenze: Oebisfelde-Weferlingen liegt in Sachsen-Anhalt, Wolfsburg in Niedersachsen.",
+"Bundestagswahl 2025: In Oebisfelde-Weferlingen lag die AfD vorn, in Wolfsburg die CDU."
+]
+},
+"ags": "03103000",
+"ortsteil": false,
+"km_vom_vorigen": 17.9
+},
+{
+"slug": "224-oebisfelde",
+"name": "Oebisfelde-Weferlingen",
+"lat": 52.43333,
+"lon": 10.98333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oebisfelde-Weferlingen",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg.",
+"frage": "Im Stadtwappen von Oebisfelde-Weferlingen stehen 14 Sterne. Wofür steht jeder Stern?",
+"optionen": [
+"Jeder Stern steht für einen Bahnhof.",
+"Jeder Stern steht für ein Jahrhundert Ortsgeschichte.",
+"Jeder Stern steht für eine weitere Gemeinde.",
+"Jeder Stern steht für einen früheren Grenzübergang."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Jahrhunderte liegen nahe, denn Wappen erzählen oft von alter Geschichte. Doch die Sterne stehen für weitere Gemeinden. Oebisfelde und Weferlingen selbst sind mit Kauz und Eiche vertreten, Wellenbalken zeigen die Flüsse. Genehmigt wurde das Wappen 2011. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oebisfelde-Weferlingen",
+"faktencheck": "korrigiert",
+"id": "224-oebisfelde/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oebisfelde-Weferlingen",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg.",
+"frage": "Wie viele Einwohner leben in Oebisfelde-Weferlingen auf einem Quadratkilometer?",
+"optionen": [
+"unter 30",
+"30 bis unter 40",
+"40 bis unter 50",
+"50 oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen niedriger, weil man bei einer Kleinstadt im Osten an dünne Besiedlung denkt. Tatsächlich verteilen sich 12.883 Einwohner auf gut 249 Quadratkilometer. Das ergibt rund 52 je Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "224-oebisfelde/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oebisfelde-Weferlingen",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Weferlinger St.-Lamberti-Kirche hat ein Mausoleum.",
+"Das Stadtgebiet grenzt an das Land Brandenburg.",
+"Durch das Stadtgebiet fließt die Aller."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt im Osten klingt Brandenburg plausibel. Doch Oebisfelde-Weferlingen liegt nahe Wolfsburg und grenzt an Niedersachsen. Die Aller fließt wirklich durchs Stadtgebiet, und die Weferlinger St.-Lamberti-Kirche hat tatsächlich ein Mausoleum. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oebisfelde-Weferlingen",
+"faktencheck": "bestätigt",
+"id": "224-oebisfelde/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oebisfelde-Weferlingen",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg.",
+"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in Oebisfelde-Weferlingen?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 84 %",
+"84 bis unter 88 %",
+"88 % oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an niedrige Beteiligung im Osten denkt, liegt daneben: 81,6 Prozent der Wahlberechtigten gingen zur Wahl. Stärkste Kraft wurde die AfD vor der CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "224-oebisfelde/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oebisfelde-Weferlingen",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg.",
+"frage": "Der Film- und Theaterschauspieler Ulrich Mühe starb im heutigen Stadtgebiet. In welchem Ortsteil?",
+"optionen": [
+"Er starb im Ortsteil mit Rathaus und Roland.",
+"Er starb im Ortsteil mit dem Grauen Hermann.",
+"Er starb im Ortsteil mit der Stiftskirchen-Ruine.",
+"Er starb im Ortsteil mit dem Grenzmuseum."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rathaus und Roland locken, weil man zuerst an Oebisfelde mit seiner Innenstadt denkt. Doch Mühe starb in Walbeck, dem Ortsteil mit der Ruine der Stiftskirche. Den Grauen Hermann birgt die Burgruine Weferlingen, das Grenzmuseum steht in Böckwitz/Zicherie. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oebisfelde-Weferlingen",
+"faktencheck": "unsicher",
+"id": "224-oebisfelde/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Oebisfelde-Weferlingen",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg.",
+"frage": "Zu welchem Landkreis in Sachsen-Anhalt gehört Oebisfelde-Weferlingen heute?",
+"optionen": [
+"Altmarkkreis Salzwedel",
+"Landkreis Stendal",
+"Landkreis Harz",
+"Landkreis Börde"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Altmarkkreis Salzwedel liegt nahe, weil er nach Norden und nach Grenzland klingt. Doch Oebisfelde-Weferlingen gehört zum Landkreis Börde, benannt nach der fruchtbaren Magdeburger Börde. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "224-oebisfelde/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oebisfelde-Weferlingen",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg.",
+"frage": "Die Burg Oebisfelde gehört zu einem bestimmten Burgtyp. Zu welchem?",
+"optionen": [
+"Sie wurde als Sumpfburg angelegt.",
+"Sie wurde als Höhenburg auf einem Berg angelegt.",
+"Sie wurde als Felsenburg in den Stein gehauen.",
+"Sie wurde als Spornburg auf einem Bergsporn angelegt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei „Burg“ denken viele an eine Festung auf dem Berg. Doch die Burg Oebisfelde ist eine Sumpfburg: Solche Burgen nutzen feuchtes, schwer zugängliches Gelände als Schutz. Passend dazu hat das Stadtgebiet Anteil am Drömling, einer Niederung. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oebisfelde-Weferlingen",
+"faktencheck": "bestätigt",
+"id": "224-oebisfelde/v0.8/7",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oebisfelde-Weferlingen / Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg. / Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? / 1. Der Mittellandkanal führt durch das Stadtgebiet. / 2. Der Ortsteil Döhren liegt direkt an der Landesgrenze zu Niedersachsen. / 3. Der Bahnhof Oebisfelde lag zu DDR-Zeiten still.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bahnhof an der innerdeutschen Grenze wirkt wie ein toter Winkel. Doch Oebisfelde war Grenzbahnhof und bedeutender Eisenbahnknoten. Der Mittellandkanal führt wirklich durchs Stadtgebiet, und Döhren liegt direkt an der Grenze zu Niedersachsen. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oebisfelde-Weferlingen",
+"faktencheck": "korrigiert",
+"id": "224-oebisfelde/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oebisfelde-Weferlingen",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg.",
+"frage": "Der Aufklärungsdichter Johann Wilhelm Ludwig Gleim hatte eine Verbindung nach Walbeck. Welche?",
+"optionen": [
+"Er wurde in Walbeck geboren.",
+"Er war Kanonikus des Stifts Walbeck.",
+"Er liegt in Walbeck begraben.",
+"Er betrieb in Walbeck eine Druckerei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dichter denkt man zuerst an Geburtsort oder Grab. Gleim aber war Kanonikus des Stifts Walbeck, also Mitglied des Stiftskapitels, meist mit Einkünften aus dem Stift. Solche Stellen versorgten früher oft auch Dichter. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oebisfelde-Weferlingen",
+"faktencheck": "bestätigt",
+"id": "224-oebisfelde/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "223-wolfsburg",
+"anschluss": [
+"Fläche: Oebisfelde-Weferlingen ist größer als die Großstadt Wolfsburg."
+],
+"anschluesse": {
+"223-wolfsburg": [
+"Fläche: Oebisfelde-Weferlingen ist größer als die Großstadt Wolfsburg."
+]
+},
+"ags": "15083411",
+"ortsteil": false,
+"km_vom_vorigen": 13.3
 }
 ]
 }

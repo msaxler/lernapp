@@ -1,0 +1,50 @@
+{
+ "stufe": "extraktion",
+ "ort": "207-rheda-wiedenbrueck",
+ "prompt": "prompt-stufe1-v0.6.txt",
+ "modell_wunsch": "haiku",
+ "modelle": [
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 61385,
+ "token_ein": 38725,
+ "token_aus": 15130,
+ "usage": {
+  "input_tokens": 9,
+  "cache_creation_input_tokens": 31588,
+  "cache_read_input_tokens": 7128,
+  "output_tokens": 15130,
+  "output_tokens_details": {
+   "thinking_tokens": 6138
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 31588,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 9,
+    "output_tokens": 15130,
+    "cache_read_input_tokens": 7128,
+    "cache_creation_input_tokens": 31588,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 31588
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.1395478,
+ "sekunden": 129,
+ "fehler": false,
+ "zeit": "2026-10-13T08:31:31"
+}

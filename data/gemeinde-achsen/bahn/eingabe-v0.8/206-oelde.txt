@@ -1,0 +1,641 @@
+ZIELORT: Oelde (Stadt)
+LAGE: 18 km südwestlich von Gütersloh (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Oelde
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 29.961  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 102,77  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 292  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 90  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2857943)]
+  naechste_grossstadt: Gütersloh, 18 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 116 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Oelde  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 59302  [Wikidata P281]
+  vorwahl: 02522  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 36,8 %, SPD 18,2 %, AfD 15,9 %, GRÜNE 11,4 %, Die Linke 6,3 %; Wahlbeteiligung 86 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Karin Rodeheger (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Niesky  [Wikidata P190]
+  kfz: UN (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT partnerstaedte: Partnerstadt (Ersatz: Luftlinie zur Landeshauptstadt), A, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Ahlen (Stadt)
+  einwohner: 52.387  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 123,13  [Wikidata P2046; Altbestand staedte.json]
+  kfz: WAF (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 80 | 82  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2959223)]
+  naechste_grossstadt: Hamm, 10 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Ahlen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,4 %, SPD 21,2 %, AfD 19,7 %, Die Linke 8,2 %, GRÜNE 7,5 %; Wahlbeteiligung 80,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Oelde):
+ID: 206-oelde/001
+ENTITÄT: ort
+BEZEICHNUNG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 890
+  ersterwahnung_name: Ulithi im Dreingau
+  ersterwahnung_quelle: Urbar des Klosters Werden
+  stadtrecht_erhalten: 1804
+  eisenbahn_anbindung: 1847
+  eisenbahn_linie: Minden-Köln
+  groesster_brand: 1800
+  brand_1800_ausmas: zwei Drittel aller Gebäude zerstört
+  autobahnabfahrt_erhalten: 1939
+  landesgartenschau_ausrichter: 2001
+  landesgartenschau_besucher: 2200000
+  landesgartenschau_thema: Blütenzauber & Kinderträume
+  international_bekannt_seit: 1880
+  international_bekannt_grund: Oelder Wind
+  lage_region: Münsterland
+  denkmale_in_denkmallisten: 150
+  liegt_in: Kreis Warendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 206-oelde/002
+ENTITÄT: ort
+BEZEICHNUNG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  brand_1457: vernichtete die Stadt
+  wiederaufbau_1498: 750 Bürger
+  brand_1605: 18 Häuser, Scheunen und Rathaus zerstört
+GUELTIG_AB: 1457
+GUELTIG_BIS: 1605
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/003
+ENTITÄT: gemeinde
+BEZEICHNUNG: Jüdische Gemeinde Oelde
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  existiert_von: Mitte 17. Jahrhundert
+  existiert_bis: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 206-oelde/004
+ENTITÄT: wappen
+BEZEICHNUNG: Oelder Wappen (ursprüngliche Form)
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/erlaeuterungen-zum-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeigt_figur: heiliger Johannes Baptist
+  zusatz_figur: Fahne und Lamm
+  hintergrund_farbe: blau
+  hintergrund_element: Wappenschild
+  symbol_1: silberner Halbmond aufwärts gekehrt
+  symbol_2: silberner achtstrahlige Stern
+  patron: Johannes Baptist
+  patron_bezug: Pfarrkirche und Stadt
+  benannt_nach: Bibelspruch Johannes 3.30
+  symbolik: Selbstlosigkeit des hl. Johannes als Mahnung
+  aktuelle_nutzung: Dienstsiegel der Stadt, kirchliche Fahnen der St. Johannes Pfarrei
+  beschreibung: Der Stern geht auf und muss wachsen, während der Mond abnimmt. Dies symbolisiert den Spruch "Er (Christus) muss wachsen, aber ich (Johannes) muss abnehmen"
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 206-oelde/005
+ENTITÄT: wappen
+BEZEICHNUNG: Oelder Wappen (heutige Form)
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/erlaeuterungen-zum-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hintergrund_farbe: blau
+  hintergrund_element: silbern umrandeter Wappenschild
+  symbol_1: silberne Mondsichel nach oben gerichtet
+  symbol_2: sechsstrahlige silberner Stern
+  grund_umgestaltung: königliche Genehmigung erforderte Entfernung des hl. Johannes, da man seine geschichtliche Bedeutung nicht verstand
+  zwischenstufe: Mauerkronen (später wieder verworfen)
+  mauerkronen_bedeutung: spiegelte Rangordnung der Städte wider
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lette
+ORTSTEIL_BEZUG: Lette
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/lette/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung_von_oelde: 5 Kilometer nördlich
+  einwohner: 2300
+  kirche: Hl. Vitus
+  kirche_struktur: Doppelkloster Lette-Clarholz
+  ursprung_jahr: 1133
+  wirtschaft_grossunternehmen: Miele
+  miele_geschaft: Hausgerätehersteller Produktionsstandort
+  miele_operation: weltweit operierend
+  tradition_1: Pfingstkranz
+  tradition_2: Vitus-Kirmes
+  ortsbild_merkmal_1: Letter Mühle
+  ortsbild_merkmal_2: Kirchturm von St. Vitus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 206-oelde/007
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche des Hl. Vitus (Doppelkloster Lette-Clarholz)
+ORTSTEIL_BEZUG: Lette
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/lette/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  struktur: Doppelkloster
+  partner_kloster: Clarholz
+  gruendung: 1133
+GUELTIG_AB: 1133
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 206-oelde/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stromberg
+ORTSTEIL_BEZUG: Stromberg
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stromberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 5000
+  titel: alte Titularstadt
+  gold_dorf_auszeichnung: 1983
+  kirche: Heilig-Kreuz-Kirche
+  kirche_geweiht: 1344
+  kirche_architektur: eines der bedeutsamsten Bauten der Hochgotik in Westfalen
+  superlativ: bedeutsamster Hochgotik-Bau Westfalens
+  heiliges_kreuz: Kernstück der Innenausstattung
+  heiliges_kreuz_geschichte: 3x geraubt und beschädigt, wiedergefunden
+  wallfahrt_geschichte: 800-jährige Geschichte
+  aussichtspunkt: Stromberger Höhen
+  aussicht_bis: bei guter Sicht bis zum Kahlen Asten im Sauerland
+  pflaume_tradition_seit: über 200 Jahre
+  pflaume_baeume: 15000
+  pflaume_ernte: 650 Tonnen
+  pflaume_geschuetzt: EU-geschützte Ursprungsbezeichnung
+  pflaume_markt_termin: alljährlich zweites Wochenende im September
+  burgbuehne_seit: 1925
+  burgbuehne_ort: auf den Stufen der Wallfahrtskirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 206-oelde/009
+ENTITÄT: kirche
+BEZEICHNUNG: Heilig-Kreuz-Kirche (Hl. Kreuz-Kirche)
+ORTSTEIL_BEZUG: Stromberg
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stromberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geweiht: 1344
+  architektur: Hochgotik
+  superlativ: eines der bedeutsamsten Bauten der Hochgotik in ganz Westfalen
+  funktion: Wallfahrtskirche
+GUELTIG_AB: 1344
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 206-oelde/010
+ENTITÄT: reliquie
+BEZEICHNUNG: Heiliges Kreuz (Stromberger Kreuz)
+ORTSTEIL_BEZUG: Stromberg
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stromberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Heilig-Kreuz-Kirche Stromberg
+  bedeutung: kostbarstes Stück der Innenausstattung
+  geschichte: 3x geraubt, schwer beschädigt, fast zerstört, jedesmal wiederaufgefunden
+  funktion: Herzstück der 800-jährigen Wallfahrtsgeschichte
+  status: noch heute erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/011
+ENTITÄT: buehne
+BEZEICHNUNG: Stromberger Burgbühne
+ORTSTEIL_BEZUG: Stromberg
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stromberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 1925
+  typ: Freilichtbühne
+  gebuehr: 100 Jahre alt (im Wortlaut: "seit 1925 die Schauspieler")
+  ort: Stufen der Wallfahrtskirche Stromberg
+  spielart: Laienschauspiel profihaft inszeniert
+  repertoire: heitere und besinnliche Stücke
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 206-oelde/012
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Kulturgut Haus Nottbeck
+ORTSTEIL_BEZUG: Stromberg
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stromberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnet: 2001
+  typ: Museum für Westfälische Literatur
+  funktion: Veranstaltungsort und Ausflugsziel
+  ausstellungen: literarische Themen, Epochen und Einzelpersönlichkeiten
+  zusatz_seit_2004: Musik- und Theaterwerkstatt im ehemaligen Wirtschaftsgebäude
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sünninghausen
+ORTSTEIL_BEZUG: Sünninghausen
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/suenninghausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1300
+  rang: kleinster Oelder Ortsteil
+  bundessieger_wettbewerb: 1987
+  bundessieger_wettbewerb_name: "Unser Dorf soll schöner werden"
+  kirche: St. Vitus-Kirche
+  kirche_stil: neugotisch
+  backhaus_errichtet: 1987
+  backhaus_brand: 2001
+  backhaus_wiederaufbau: originalgetreu
+  attraktion: Bauernhofcafé und Hofladen
+  veranstaltung: Karnevalsonntag
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 206-oelde/014
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Naturschutzgebiet rund um Mackenberg
+ORTSTEIL_BEZUG: Sünninghausen
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/suenninghausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: herrliche Aussicht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 206-oelde/015
+ENTITÄT: berg
+BEZEICHNUNG: Mackenberg
+ORTSTEIL_BEZUG: Sünninghausen
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/suenninghausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 173 Meter
+  superlativ: höchste Erhebung des Kreises Warendorf
+  bezugsraum: Kreis Warendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 206-oelde/016
+ENTITÄT: park
+BEZEICHNUNG: Vier-Jahreszeiten-Park
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: ehemaliges Landesgartenschau-Gelände und Stadtpark
+  jahr_entstehung: 2001
+  besonderheit: Axtbach in weiten Teilabschnitten renaturiert
+  gebuehr: seit Ende Landesgartenschau bewirtschaftet und benannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/017
+ENTITÄT: bauwerk
+BEZEICHNUNG: St. Johannes-Kirche (Katholische St. Johannes-Kirche)
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oelde-in-bildern/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  patron: Johannes Baptist
+  pfarrei: St. Johannes Pfarrei
+  wappen_bezug: Patron ist auf dem ursprünglichen Oelder Wappen dargestellt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 206-oelde/018
+ENTITÄT: jagdveranstaltung
+BEZEICHNUNG: Diplomatenjagden im Staatsforst Geisterholz
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1950er und 1960er Jahre
+  dauer: 16 Jahre lang
+  beginn: 1952
+  beginn_initiator: Bundespräsident Theodor Heuss (22. November 1952)
+  zweiter_initiator: Bundespräsident Heinrich Lübke
+  letzter_anlass: 1968
+  jagdziele: Sauen, Füchse, Wild und Niederwild
+  ort: Staatsforst Geisterholz
+GUELTIG_AB: 1952
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 206-oelde/019
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Staatsforst Geisterholz
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueheres_nutzung: Jagdwald für Diplomatenjagden
+  aktuelle_nutzung: Naturschutzgebiet
+  besonderheit: großer Laubwald mit altem Baumbestand
+  merkmal: über 170 Jahre alte Eichen
+  fauna: Eisvögel, Nachtigallen
+  bauwerk: Wasserschloss Haus Geist
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 206-oelde/020
+ENTITÄT: badesee
+BEZEICHNUNG: Parkbad Oelde
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Freibad
+  bahnen: 50-Meter-Bahnen
+  ausstattung_1: Wellenrutsche
+  ausstattung_2: Sprungturm (5 Meter)
+  ausstattung_3: Kleinkind-Bereich
+  lage: Vier-Jahreszeiten-Park
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/021
+ENTITÄT: schwimmbad
+BEZEICHNUNG: Hallenbad Oelde
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnen: 25-Meter-Bahnen
+  ausstattung_1: Schlangenrutsche
+  ausstattung_2: Planschbecken
+  lage: direkt neben Dreifach-Halle und Jahn-Stadion
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/022
+ENTITÄT: badesee
+BEZEICHNUNG: Freibad Gaßbachtal
+ORTSTEIL_BEZUG: Stromberg
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Freibad mit Wärmehalle
+  betreiber: Förderverein
+  bahnen: 25-Meter-Becken
+  ausstattung_1: Piraten-Kinderbucht
+  ausstattung_2: Café
+  temperatur: 28 Grad
+  energiequelle: Biogasanlage
+  saison: März bis November
+  tage_offen_pro_jahr: über 230 Tage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 206-oelde/023
+ENTITÄT: museum
+BEZEICHNUNG: Kindermuseum KLIPP KLAPP
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebaeude: alte Wassermühle (300 Jahre alt)
+  lage: Vier-Jahreszeiten-Park
+  thema: Wassermühle und Müllerei (Weg vom Korn zum Brot)
+  ausstattung: Mitmachstationen, Mühlenrallye
+  figur: Wuddel (Dackel) zeigt Naturlehrpfad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/024
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Zentrifugen Museum
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Separatoren und Zentrifugen
+  exponat_highlight: Urzentrifuge (handbetriebene Milchschleudermaschine)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 206-oelde/025
+ENTITÄT: museum
+BEZEICHNUNG: Georg-Lechner-Biermuseum (Pott´s Brauerei)
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: westfälische Braugeschichte
+  sammlung_1: historische Bierkrüge
+  sammlung_2: originales Sudwerk von 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 206-oelde/026
+ENTITÄT: sportanlage
+BEZEICHNUNG: Trendsportanlage am Bergeler Weg (Oelder Pumptrack und Bewegungspark)
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 2024
+  sportarten_1: Pumptrack
+  sportarten_2: Parkours
+  sportarten_3: Streetball
+  sportarten_4: Calisthenics
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/027
+ENTITÄT: wanderweg
+BEZEICHNUNG: Pflaumen-Wanderweg
+ORTSTEIL_BEZUG: Stromberg
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 11 Kilometer
+  typ: Rundweg
+  gelaende: leicht
+  themenstationen: 9
+  flora: Pflaumenbäume, Blüten im April, Ernte im September
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 206-oelde/028
+ENTITÄT: wanderweg
+BEZEICHNUNG: Stromberger Höhenluft
+ORTSTEIL_BEZUG: Stromberg
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 5 Kilometer
+  typ: Rundweg
+  ziel: Höhenburg und Sehenswürdigkeiten
+  aussicht: Blick bis zum Teutoburger Wald, über Pflaumenfelder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 206-oelde/029
+ENTITÄT: radweg
+BEZEICHNUNG: Werse-Radweg
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 125 Kilometer
+  beschreibung: von der Quelle bis zur Mündung des Flüsschens Werse
+  charakter: abwechslungsreich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 206-oelde/030
+ENTITÄT: radweg
+BEZEICHNUNG: 100-Schlösser-Route
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: vier Rundkurse
+  ziele: mehr als 100 Schlösser, Burgen, Herrensitze und Gräftenhöfe
+  region: Münsterland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 206-oelde/031
+ENTITÄT: radweg
+BEZEICHNUNG: Landesgartenschau-Route
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: knapp 200 Kilometer
+  ziele: sieben prachtvolle Parkanlagen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 206-oelde/032
+ENTITÄT: kino
+BEZEICHNUNG: Filmzentrum Kino am Rathaus
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  saele: 3
+  auszeichnungen: mehrfach ausgezeichnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 206-oelde/033
+ENTITÄT: veranstaltungsort
+BEZEICHNUNG: Sparkassen-Waldbühne
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Freilichtbühne
+  veranstaltungen: Konzerte (Jazz, Klassik, Pop, Rock, Schlager, Kleinkunst)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 206-oelde/034
+ENTITÄT: bauwerk
+BEZEICHNUNG: Haus Geist
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Wasserschloss
+  besonderheit: alter Laubwald mit über 170 Jahre alten Eichen
+  lage: Staatsforst Geisterholz
+  nutzung: Gewölbescheune für Konzerte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 206-oelde/035
+ENTITÄT: erlebnisfarm
+BEZEICHNUNG: Erlebnisfarm Vier-Jahreszeiten-Park
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tiere: Pfau, Känguru, Esel, Hahn, Ziege
+  lage: Vier-Jahreszeiten-Park
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 206-oelde/036
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radstation am Bahnhof
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Bahnhof 2, 59302 Oelde
+  leistungen: Reparatur und Verleih
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 206-oelde/037
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahnabfahrt Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autobahn: A2
+  errichtet: 1939
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/038
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Eisenbahnlinie Minden-Köln
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1847
+  auswirkung: Aufschwung der Industrialisierung in Oelde
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/039
+ENTITÄT: pflanze
+BEZEICHNUNG: Stromberger Pflaume
+ORTSTEIL_BEZUG: Stromberg
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stromberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Zwetschge
+  tradition_seit: ueber 200 Jahre
+  baeume: 15000 Pflaumen­bäume
+  ernte: 650 Tonnen
+  bluetezeit: April (weiße Blüten)
+  erntezeit: September
+  status: EU-geschützte Ursprungsbezeichnung
+  vergleichbare_produkte: Serrano-Schinken, Parmigiano Reggiano (ebenfalls EU-geschützt)
+  verwendung: Mus, Kuchen, Brot, Likör
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 206-oelde/040
+ENTITÄT: markt
+BEZEICHNUNG: Stromberger Pflaumenmarkt
+ORTSTEIL_BEZUG: Stromberg
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stromberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: alljährlich am zweiten Wochenende im September
+  thema: Stromberger Pflaume
+  besonderheit: Pflaumenkönigin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 206-oelde/041
+ENTITÄT: spielplatz
+BEZEICHNUNG: Spielplätze Vier-Jahreszeiten-Park
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250522-touristik-broschure-web.pdf?cid=2z9d | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 26 Spielplätze
+  ausstattung_beispiele: Spielburg mit Rutschen, Teufelsbrücke, Waldspielplatz, Abenteuerspielplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 206-oelde/042
+ENTITÄT: ausflugsort
+BEZEICHNUNG: Geisterholz
+ORTSTEIL_BEZUG: Oelde
+QUELLE: https://www.oelde.de/de/oelde-erleben/stadtportrait/stadtportraet/oel250512-touristik-einleger.pdf?cid=2z9p | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Naturschutzgebiet und Waldgebiet
+  besonderheit: großer Laubwald mit altem Baumbestand
+  struktur: ehemaliger Staatsforst und Jagdgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

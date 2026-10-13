@@ -1,0 +1,735 @@
+ID: 222-gifhorn/001
+ENTITÄT: ort
+BEZEICHNUNG: Gifhorn
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Mündungswinkel von Ise und Aller
+  erstmalige_erwaehnung: 1196/1197
+  erwaehnung_grund: Güterverzeichnis des Braunschweiger Stifts St. Cyriakus
+  funktion_urspruenglich: Brückenort im Schnittpunkt der Salz- und Kornstraße
+  marktrecht_verleihung: 1275
+  marktrecht_verleihung_durch: Herzog Johann von Lüneburg
+  opidum_erwaehnung: 1332
+  weichbildrecht_erwaehnung: 1364
+  grosse_zerstoerung: 1519
+  zerstoerung_grund: Hildesheimer Stiftsfehde
+  staedte_verfassung: 1847
+  stadtrech_verleihung: 01.10.1852
+  allerkanal_bauzeit: 1860-1863
+  allerkanal_zweck: Entlastung der Aller und Bodenverbesserung
+  kreisstadt_seit: 1885
+  bahnhof_entstehung: um 1889
+  bahnhof_strecke: Braunschweig - Uelzen
+  bevoelkerung: 2816 [1871], 3857 [1905], 4452 [1925], 5673 [1939], 10283 [1950], 17677 [1961], 22252 [1968]
+  eingemeindungen: 1974
+  eingemeindete_orte: Gamsen, Kästorf, Neubokel, Wilsche, Winkel
+  stadt_jubilaeum: 800-jähriges Jubiläum 1996
+  ist_kreisstadt: true
+  ist_muehlstadt: true
+  ortsname_herkunft: Gif/Giff/Geff verwandt mit Giffel/Gaffel (große zweiarmige Gabel)
+  ortsname_herkunft_grund: Lage im Mündungswinkel der beiden Flüsse
+GUELTIG_AB: 1196
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/002
+ENTITÄT: fluss
+BEZEICHNUNG: Ise
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle_ortsgründung: Mündungswinkel mit Aller entscheidend für Werden und Wachsen Gifhorns
+GUELTIG_AB: 1196
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/003
+ENTITÄT: fluss
+BEZEICHNUNG: Aller
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle_ortsgründung: Mündungswinkel mit Ise entscheidend für Werden und Wachsen Gifhorns
+  allerkanal_entlastung: Allerkanal zur Entlastung erbaut 1860-1863
+GUELTIG_AB: 1196
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/004
+ENTITÄT: handelsweg
+BEZEICHNUNG: Salzstraße
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: Lübeck und Lüneburg über Uelzen und Gifhorn nach Braunschweig
+  bedeutung_gifhorn: Gifhorn war Schnittpunkt dieses Weges mit Kornstraße
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/005
+ENTITÄT: handelsweg
+BEZEICHNUNG: Kornstraße
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: Magdeburg über Helmstedt, Fallersleben, Gifhorn nach Celle
+  bedeutung_gifhorn: Gifhorn war Schnittpunkt dieses Weges mit Salzstraße
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/006
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Gifhorn
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1525
+  bauherrschaft: Welfen
+  funktion_original: Schutzburg, später überörtliche Verwaltungszentrale
+  funktion_heute: Landkreisverwaltung, Historisches Museum, Schlosskapelle, Restaurant
+  rolle_stadtgeschichte: Errichtung entscheidend für Werden und Wachsen Gifhorns
+GUELTIG_AB: 1525
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/007
+ENTITÄT: residenz
+BEZEICHNUNG: Schloss Gifhorn als herzogliche Residenz
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bewohner: Herzog Franz von Gifhorn
+  zeitraum: 1539-1549
+GUELTIG_AB: 1539
+GUELTIG_BIS: 1549
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/008
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Georgs-Kapelle
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stiftung_jahr: 1382
+  stifter: Junker Eberhard und Konrad von Marenholtz
+  lage: Am Fuße des Gifhorner Weinbergs
+  patron: Heiliger Georg
+  funktion_ab_16_jahrhundert: Friedhof für Verstorbene aus Gifhorn und umliegenden Gemeinden
+  wohlhabende_bestattet: ja
+  dokumentiert_in: Merianstich von 1654
+  schicksaal: 1971 abgerissen und mit Wohn- und Geschäftshaus überbaut
+  heute: Nur noch wenige Grabsteine und alte Grabplatten erinnern an ursprüngliche Nutzung
+GUELTIG_AB: 1382
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/009
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Friedhof
+ORTSTEIL_BEZUG: Weinberg (Wilscher Weg)
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  existenzbeginn: Spätestens ab 16. Jahrhundert um die St. Georgs-Kapelle
+  funktion: Friedhof für Verstorbenen aus Gifhorn und umliegenden Gemeinden
+  besonderheit_wohlhabende: Wohlhabende ließen sich in der Kapelle bestatten
+  schließung: 1891
+  schließung_grund: Fehlende Erweiterungsmöglichkeiten
+  wiedernutzung_gelande: Ende 1950er Jahre - Krieger-Ehrenmäler vom Schillerplatz umgesetzt
+  ehrenmale_heute: Ehrenmäler für Tote und Vermisste des Zweiten Weltkriegs
+GUELTIG_AB: 1382
+GUELTIG_BIS: 1891
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/010
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  existenzbeginn: Ende 18. Jahrhundert
+  funktion: Begräbnisstätte für jüdische Einwohner
+  lage: Privatgrundstück zwischen Lutherstraße 4 und 6
+  jaedische_einwohner_seit: Anfang 18. Jahrhundert
+  jaedische_einwohner_status_frueh: Schutzjuden mit Schutzbrief
+  bedeutende_familie_19_jh: Familie Menke - Wohlstand und wichtige Ämter
+  gemeinde_auflosung: 1890er Jahre
+  grund_auflosung: Wirtschaftliche Aufstiegsmöglichkeiten in größeren Städten besser
+  grabsteine_erhalten: 32
+  letzte_beisetzung: 1915
+  beschaedigung_drittes_reich: keine ernsthaften Beschädigungen
+  besitztum: Landesverband der jüdischen Gemeinden von Niedersachsen K.d.ö.R.
+  regelmaessige_fuehrungen: ja
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/011
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nicolai-Kirche
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: Protestantische Barockkirche
+  baujahr: 1744
+  lage: Direkt am Marktplatz
+  orgel: Christian-Vater-Orgel
+  besonderheit: Beeindruckend verzierter Kanzelaltar
+GUELTIG_AB: 1744
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/012
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nicolai (mittelalterliche Pfarrkirche)
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitliche_ordnung: Im Bereich der mittelalterlichen Pfarrkirche existierte zweifellos bereits ein Friedhof
+  friedhof_möglich_aufgegeben: Möglicherweise nach Zerstörungen der Hildesheimer Stiftsfehde 1519
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 222-gifhorn/013
+ENTITÄT: museum
+BEZEICHNUNG: Internationales Mühlenmuseum
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Freilichtmuseum
+  anzahl_muehlen: 13
+  herkunft_muehlen: aus aller Welt
+  gelaende: ca. 15 Hektar Parkgelände
+  dorfplatz_angebot: Spezialitäten aus der Region
+  weltweiter_ruf: Weltweit bekannt
+  oeffnung: 08.05.1980
+  bedeutung_stadt: "Mühlenstadt Gifhorn"
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/014
+ENTITÄT: museum
+BEZEICHNUNG: Historisches Museum
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Schloss Gifhorn
+  inhalt: Historische Sammlung zur Stadtgeschichte
+GUELTIG_AB: 1525
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/015
+ENTITÄT: museum
+BEZEICHNUNG: EMMA - die Museumswohnung
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Kavalierhaus
+  mobiliar_epoche: erste Hälfte des 19. Jahrhunderts
+GUELTIG_AB: 1546
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/016
+ENTITÄT: museum
+BEZEICHNUNG: Classic Superbikes Museum
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Glockenpalast
+  architektur_stil: Osteuropäischer Klosterstil
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/017
+ENTITÄT: gebaeude
+BEZEICHNUNG: Glockenpalast
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 1996
+  grundsteinleger: Michail Gorbatschow (ehemaliger Präsident der Sowjetunion)
+  architektur: Stil eines osteuropäischen Klosters
+  urspruengliche_function: Europäisches Kunsthandwerker-Institut, Glockengießerei, Ausstellungs- und Versammlungsräume
+  urspruengliche_widmung: Friedensnobelpreisträger Albert Schweitzer und Michail Gorbatschow
+  heutige_funktion: Beherbergt Classic Superbikes Museum
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/018
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1562
+  besonderheit: Holzschnitzornamentik, die traditionelle Handwerkszünfte darstellt
+GUELTIG_AB: 1562
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/019
+ENTITÄT: rathaus
+BEZEICHNUNG: Neues Rathaus
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 28.11.1984
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/020
+ENTITÄT: kavalierhaus
+BEZEICHNUNG: Kavalierhaus
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1546
+  superlativ: älteste Wohnhaus der Stadt
+  heutige_nutzung: Beherbergt EMMA - die Museumswohnung
+GUELTIG_AB: 1546
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/021
+ENTITÄT: bahnhof
+BEZEICHNUNG: Gifhorner Bahnhof
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: Braunschweig - Uelzen
+  entstehung: um 1889
+  folge: Stetiger Einwohnerzuwachs
+  verkehrsanbindung_guenstig: ja
+GUELTIG_AB: 1889
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/022
+ENTITÄT: unternehmen
+BEZEICHNUNG: Energieversorgung Gifhorn GmbH
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1898
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/023
+ENTITÄT: unternehmen
+BEZEICHNUNG: Teves
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ansiedlung_gifhorn: 1951
+  geschaeftszweig: Hersteller von KFZ-Bremsen
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/024
+ENTITÄT: behoerde
+BEZEICHNUNG: Bundesgrenzschutz
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort_gifhorn_seit: 1959
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/025
+ENTITÄT: ortschaft
+BEZEICHNUNG: Gamsen
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1974
+  charakterisierung: Auch beliebt zum Kurzurlaub
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/026
+ENTITÄT: ortschaft
+BEZEICHNUNG: Kästorf
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1974
+  charakterisierung: Stadtnah Wohnen
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/027
+ENTITÄT: ortschaft
+BEZEICHNUNG: Neubokel
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1974
+  charakterisierung: Mit Charme und Geschichte
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/028
+ENTITÄT: ortschaft
+BEZEICHNUNG: Wilsche
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1974
+  charakterisierung: Die Perle der Südheide
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/029
+ENTITÄT: ortschaft
+BEZEICHNUNG: Winkel
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1974
+  charakterisierung: Hier kann man Natur erleben
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/030
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Dumfries
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Großbritannien (Schottland)
+  region: Südwesten Schottlands, Dumfries & Galloway
+  einwohner: ca. 32000
+  rang: größte Stadt der Region
+  beiname: Königin des Südens
+  partnerschaft_seit: 08.09.1994
+  fluss: Nith
+  bruecke: Eine der ältesten Steinbrücken Schottlands
+  beruehmt_fuer: Geburtsort des schottischen Nationaldichters Robert Burns (1759-1796)
+  burns_museum: Burns-Andenken wird gepflegt
+  muehle_lady_devorgilla: 2000 nachgebaut am Internationalen Mühlenmuseum Gifhorn
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/031
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Gardelegen
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Deutschland (Sachsen-Anhalt)
+  region: Altmark
+  entfernung_gifhorn: ca. 70 km
+  partnerschaft_seit: 19.03.1991
+  ortsteile_anzahl: 49
+  gesamtflaeche: mehr als 632 km²
+  einwohner_gesamt: ca. 23000
+  einwohner_stadt: ca. 10000
+  stadt_alter: über 800 Jahre
+  stadtkern: Mittelalterlicher Stadtkern mit Wallanlagen und Stadttoren
+  historische_gebaeude: Fachwerk- und Backsteingebäude, seit Wende restauriert
+  prominenter_sohn: Otto Reutter (1870-1931) - Humorist und Sänger
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/032
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Hallsberg
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Schweden
+  region: Zentrum der Region Süd-Närke
+  lage: Mitte der Achse Göteborg – Stockholm
+  einwohner: ca. 15000
+  partnerschaft_seit: 18.10.1997
+  eisenbahn_rolle: wichtigster Eisenbahnknotenpunkt von ganz Skandinavien
+  gueterzug_terminal: direkter Anschluss an große Seehäfen
+  arbeitgeber: Bahnhof und Güterzug-Terminal sind wichtigste Arbeitgeber
+  maler_carl_larsson: Schwedischer Maler, bemalte Haus von Schwiegervater Adolf Bergöö im schwedischen Jugendstil
+  karin_larsson: Schwedische Malerin und Designerin, Frau von Carl Larsson, in Hallsberg geboren, Beitrag zur Entwicklung des schwedischen Designs
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/033
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Korssun-Schewtschenkiwskij
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Ukraine
+  lage: 140 km südwestlich von Kyiv
+  fluss: Ross
+  gelaende: hügelige Landschaft
+  einwohner: ca. 25000
+  partnerschaft_seit: 20.12.1989
+  stadt_alter: knapp 900 Jahre
+  geschichte: eng verbunden mit Schlüsselereignissen der russischen und ukrainischen Geschichte
+  kriege: viele Schlachten in der Geschichte
+  ww2_Schlacht: Januar/Februar 1944 - 250000 Opfer auf beiden Seiten
+  ww2_museum: Im Schloss erinnert Museum an die Schlacht
+  stadt_benannt_nach: Taras Schewtschenko (1814-1861) - Nationaldichter und Maler, in Landkreis Korssun geboren
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/034
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Xanthi
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Griechenland
+  region: Thrakien, ganz im Osten Griechenlands
+  grenzen_naehe: nahe Grenzen zu Bulgarien und Türkei
+  einwohner: ca. 55000
+  partnerschaft_seit: 30.11.1984
+  natur_norden: Rodopi-Gebirge
+  natur_sueden: Tiefebene zum Mittelmeer
+  antike_spuren: allerorts vorhanden
+  geburtsort: Demokrit (ca. 460-370 v.Chr.) - Philosoph
+  altstadt: steile Gässchen mit pulsierendem Leben
+  junge_leute: prägen das Stadtbild
+  universitaetsstadt: ja
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/035
+ENTITÄT: denkmal
+BEZEICHNUNG: Europäische Freiheitsglocke
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Gelände vor dem Internationalen Mühlenmuseum
+  hoehe: ca. 16 Meter
+  anlass: imposantes Denkmal
+  gedenkt: Teilung Deutschlands und Europas
+  gedenkt_auch: friedlicher Fall des Eisernen Vorhangs
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/036
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Ziegenplastik
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Fußgängerzone
+  symbolik: erinnert an die Zeit, in der die Ziege als die „Kuh des kleinen Mannes" bezeichnet wurde
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 222-gifhorn/037
+ENTITÄT: muehle
+BEZEICHNUNG: Hochzeitsmühle (Lady Devorgilla)
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Nachbau der schottischen Mühle
+  original_stadt: Dumfries, Schottland
+  original_nutzung: Teil des Städtischen Museums in Dumfries, beherbergt Camera obscura
+  nachbau_jahr: 2000
+  nachbau_lage: Internationales Mühlenmuseum Gifhorn
+  gifhorn_nutzung: standesamtliche Trauungen
+  besonderheit: Beim Ja-Wort drehen sich die Mühlenflügel
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/038
+ENTITÄT: kunstprojekt
+BEZEICHNUNG: Stolpersteine
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundkonzept: Kunstprojekt des Kölner Künstlers Gunter Demnig
+  genehmigung_rat: 05.10.2020 einstimmig beschlossen
+  zweck: Gedenken an die Gifhorner Opfer des Nationalsozialismus
+  arbeitsgruppe: seit 2018 Arbeitsgruppe aus Historiker*innen und engagierten Bürger*innen
+  verlegeplan_1: 06.10.2021 - erste neun Stolpersteine
+  verlegeplan_2: 25.10.2022 - weitere Stolpersteine
+  verlegeplan_3: 12.10.2023 - weitere Stolpersteine auf dem Gelände der Diakonie Kästorf
+  verlegeplan_4: 11.02.2025 - 7 weitere Stolpersteine, davon 5 vor dem einstigen Schutzhaft-Gefängnis im Schloss-Innenhof, zwei weitere bei der Diakonie in Kästorf
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/039
+ENTITÄT: sanierung
+BEZEICHNUNG: Sanierungsgebiet Innenstadt
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschluss: 02.02.1981
+  beschluss_durch: Rat der Stadt Gifhorn
+  ziel: Erhaltung der gewachsenen Stadtstruktur
+  ziel_auch: Sicherung des historischen Stadtgrundrisses
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/040
+ENTITÄT: person
+BEZEICHNUNG: Robert Burns
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Dumfries, Schottland
+  lebensjahre: 1759-1796
+  rolle: schottischer Nationaldichter
+  gedenken: Andenken wird in Dumfries gepflegt
+GUELTIG_AB: 1759
+GUELTIG_BIS: 1796
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/041
+ENTITÄT: person
+BEZEICHNUNG: Otto Reutter
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Gardelegen, Deutschland
+  lebensjahre: 1870-1931
+  berufe: Humorist und Sänger
+  rang: prominentester Sohn der Stadt Gardelegen
+GUELTIG_AB: 1870
+GUELTIG_BIS: 1931
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/042
+ENTITÄT: person
+BEZEICHNUNG: Carl Larsson
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: schwedischer Maler
+  werk: bemalte Haus des Schwiegervaters Adolf Bergöö in Hallberg im schwedischen Jugendstil
+  ortsverbindung: Hallsberg
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/043
+ENTITÄT: person
+BEZEICHNUNG: Karin Larsson
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Hallsberg, Schweden
+  rolle: schwedische Malerin
+  role_auch: Designerin
+  familienverhaeltnis: Frau von Carl Larsson, Tochter des Kaufmanns Bergöö
+  beitrag: Entwicklung des schwedischen Designs
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 222-gifhorn/044
+ENTITÄT: person
+BEZEICHNUNG: Taras Schewtschenko
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Landkreis Korssun, Ukraine
+  lebensjahre: 1814-1861
+  rollen: Nationaldichter und Maler
+  präsenz: mehrfach in Stadt Korssun aufgehalten
+  status: Stadt Korssun benannt nach ihm
+  gedenken: allgegenwärtig in der Stadt
+GUELTIG_AB: 1814
+GUELTIG_BIS: 1861
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/045
+ENTITÄT: person
+BEZEICHNUNG: Demokrit
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Xanthi, Griechenland
+  lebensjahre: ca. 460-370 v.Chr.
+  rolle: Philosoph
+GUELTIG_AB: -460
+GUELTIG_BIS: -370
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/046
+ENTITÄT: person
+BEZEICHNUNG: Michail Gorbatschow
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle_zeitpunkt: ehemaliger Präsident der Sowjetunion (1996)
+  handlung_gifhorn: legte 1996 Grundstein für Glockenpalast
+  rolle_allgemein: Friedensnobelpreisträger
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/047
+ENTITÄT: person
+BEZEICHNUNG: Albert Schweitzer
+QUELLE: https://www.stadt-gifhorn.de/freizeit-tourismus/freizeit/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Friedensnobelpreisträger
+  gedenken: Wirken wird im Glockenpalast gewürdigt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/048
+ENTITÄT: see
+BEZEICHNUNG: Tankumsee
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: großer See
+  lage: in der Nähe von Gifhorn
+  bekanntheit: beliebtes Ausflugsziel
+  aktivitaeten: Wassersport, Entspannung am Strand, verschiedene Freizeitaktivitäten
+  rolle_gifhorn: Ausgangspunkt für Outdoor-Aktivitäten und Erholung
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/049
+ENTITÄT: see
+BEZEICHNUNG: Bernsteinsee
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Kleinod mit maritimer Erholung im Grünen
+  rolle_gifhorn: Naherholungsmöglichkeit
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 222-gifhorn/050
+ENTITÄT: region
+BEZEICHNUNG: Lüneburger Heide
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_gifhorn: Nähe zur Lüneburger Heide, Naherholungsmöglichkeiten
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/051
+ENTITÄT: region
+BEZEICHNUNG: Harz
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_gifhorn: Nähe zum Harz, Naherholungsmöglichkeiten
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 222-gifhorn/052
+ENTITÄT: logo
+BEZEICHNUNG: Logo der Stadt Gifhorn
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/corporate-design | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  design_jahr: 2015
+  motiv: stilisierter, klar und kraftvoll designter Löwe
+  text: Schriftzug Stadt Gifhorn
+  ziel: Gestaltungselemente des Stadtwappens moderner erscheinen lassen
+  ziel_auch: hoher Wiedererkennungseffekt
+  nutzung: nur Stadt Gifhorn, nicht für private oder kommerzielle Zwecke
+  grund_redesign: Vereinheitlichung des Erscheinungsbildes (Corporate Design)
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 222-gifhorn/053
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen
+QUELLE: https://www.stadt-gifhorn.de/leben-in-gifhorn/stadtportrait/corporate-design | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  element_loewe: Löwe als Gestaltungselement
+  funktion: Hoheitszeichen der Stadt Gifhorn
+  nutzung: Fahnen, Hinweisschilder, Dienstsiegel
+  nutzung_durch_dritte: nur in Ausnahmefällen und mit schriftlicher Genehmigung
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

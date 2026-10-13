@@ -1,0 +1,356 @@
+ID: 209-bielefeld/001
+ENTITÄT: museum
+BEZEICHNUNG: Historisches Museum
+QUELLE: https://www.bielefeld.de/node/2667 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Stadtmuseum des 21. Jahrhunderts
+  beschreibung: dreidimensionales Gedächtnis der Stadt
+  gebaeude: Ravensberger Spinnerei
+  abteilungen_entstehung: seit 2014 Abteilungen Mittelalter, Frühe Neuzeit, 19. Jahrhundert
+  abteilung_weltkriege: 1914-1945 (Dauerausstellung abgeschlossen)
+  grabungsfunde: Funde der Grabungen an der Welle 2004 (Mittelalter-Abteilung)
+  besonderheit_zeppelin: Filmmaterial von der Landung des Zeppelin 1938 in der Senne
+  zuschaueranzahl_zeppelin: 100000, genauigkeit: "über"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 209-bielefeld/002
+ENTITÄT: gebaeude
+BEZEICHNUNG: Ravensberger Spinnerei
+QUELLE: https://www.bielefeld.de/node/2667 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: denkmalgeschützt
+  nutzung: Historisches Museum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 209-bielefeld/003
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Landung des Zeppelin
+ORTSTEIL_BEZUG: Senne
+QUELLE: https://www.bielefeld.de/node/2667 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1938
+  zuschaueranzahl: 100000
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 209-bielefeld/004
+ENTITÄT: institution
+BEZEICHNUNG: Stadtarchiv und Landesgeschichtliche Bibliothek Bielefeld
+QUELLE: https://www.bielefeld.de/node/3172 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Aufbewahrung und Vermittlung historischer Archivalien und Bücher
+  beschreibung: Träger der Stadtgeschichte und des Wissens für interessierte Bürger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 209-bielefeld/005
+ENTITÄT: organisation
+BEZEICHNUNG: Historischer Verein für die Grafschaft Ravensberg e.V.
+QUELLE: https://www.bielefeld.de/node/3172 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Stadtarchiv und Landesgeschichtliche Bibliothek Bielefeld
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 209-bielefeld/006
+ENTITÄT: museum
+BEZEICHNUNG: Naturkunde-Museum Bielefeld
+QUELLE: https://www.bielefeld.de/node/2663 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebaeude: Spiegelshof
+  gebaeude_typ: Adelshof
+  gebaeude_baujahr: 1540
+  superlativ: einer der wenigen erhaltenen Adelshöfe der Stadt
+  ursprung_jahr: 1906
+  ursprung_form: Naturwissenschaftliche Abteilung im Städtischen Museum Bielefeld
+  gruender: Kommerzienrat Dr. August Oetker, Prof. Dr. Alfred Zickgraf
+  besonderheit: Geo-Stollen mit geologischen Themen
+  sonderausstellungen_pro_jahr: 3-4
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 209-bielefeld/007
+ENTITÄT: gebaeude
+BEZEICHNUNG: Spiegelshof
+QUELLE: https://www.bielefeld.de/node/2663 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Adelshof
+  baujahr: 1540
+  nutzung: Naturkunde-Museum Bielefeld
+  superlativ: einer der wenigen erhaltenen Adelshöfe der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 209-bielefeld/008
+ENTITÄT: gebaeude
+BEZEICHNUNG: Sparrenburg
+QUELLE: https://www.bielefeld.de/node/37215 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Ort für standesamtliche Eheschließungen
+  trauzimmer_lage: zweite Etage des Hauptgebäudes
+  trauzimmer_fertigstellung: neu fertiggestellt
+  trauzimmer_ausstattung: Eichenparkett, Eichenfenster, restauriertes Deckengemälde von Erwin Wendt
+  aussicht: einzigartiger Ausblick in drei Himmelsrichtungen über die Dächer Bielefelds bis zum Teutoburger Wald
+  restaurant: vorhanden (betrieben von René Sygusch)
+  restaurant_vermietung: Raum für private Veranstaltungen außerhalb der Trauzeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 209-bielefeld/009
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://www.bielefeld.de/node/37215 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Trauort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 209-bielefeld/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: Neues Rathaus
+QUELLE: https://www.bielefeld.de/node/37215 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Trauort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 209-bielefeld/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: historisches Bauernhaus
+QUELLE: https://www.bielefeld.de/node/37215 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Trauort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 209-bielefeld/012
+ENTITÄT: gebaeude
+BEZEICHNUNG: H1
+QUELLE: https://www.bielefeld.de/node/37215 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: zeitlich begrenzte Trauort-Aktion
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 209-bielefeld/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Lessinghaus
+QUELLE: https://www.bielefeld.de/node/37215 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: zeitlich begrenzte Trauort-Aktion
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 209-bielefeld/014
+ENTITÄT: stadtteilzentrum
+BEZEICHNUNG: FZZ Baumheide
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand: ja (schon länger bestehend)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 209-bielefeld/015
+ENTITÄT: stadtteilzentrum
+BEZEICHNUNG: FZZ Stieghorst
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand: ja (schon länger bestehend)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 209-bielefeld/016
+ENTITÄT: stadtteilzentrum
+BEZEICHNUNG: Stadtteilküche Sieker
+ORTSTEIL_BEZUG: Sieker
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: Januar 2023
+  traeger: Sozialdienst katholischer Frauen e.V. (SkF)
+  konzept: Mitmach-Zentrum
+  leitmotto: vom Garten in die Küche auf den Tisch
+  nachbarschaft_angebote: Jugendhaus der Offenen Kinder- und Jugendarbeit, Kotten (REGEmbH)
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 209-bielefeld/017
+ENTITÄT: stadtteilzentrum
+BEZEICHNUNG: Stadtteilzentrum Jöllenbeck
+ORTSTEIL_BEZUG: Jöllenbeck
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: November 2023
+  lage: Oberlohmannshof
+  traeger: Gesellschaft für Sozialarbeit e.V. (GfS)
+  barrierefreiheit: ja
+  angebote: offene Angebote und Treffs, Kurse, Workshops, Schulungen, Feste und Veranstaltungen
+  zielgruppe: Kinder, Jugendliche und Erwachsene aus Jöllenbeck, Vilsendorf, Theesen
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 209-bielefeld/018
+ENTITÄT: stadtteilzentrum
+BEZEICHNUNG: Stadtteilzentrum Windflöte
+ORTSTEIL_BEZUG: Senne
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: Januar 2024
+  adresse: Tulpenweg 9
+  gebaeude: Lutherkirche und Gemeindehaus (Ev. Emmaus Kirchengemeinde)
+  traeger: DiakonieVerband Brackwede
+  angebote: Café, Sprachtreff, Beratungsangebote, Workshops, Projekte
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 209-bielefeld/019
+ENTITÄT: stadtteilzentrum
+BEZEICHNUNG: Grüner Würfel
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Kesselbrink (Bielefelds Innenstadt)
+  eroeffnung: 2020
+  konzept: innovatives Mitmach-Begegnungszentrum
+  traegergemeinschaft: AWO Kreisverband Bielefeld, Diakonie für Bielefeld (seit September 2023)
+  raumnutzung: kostenfrei für offene Angebote, kostenpflichtig anmietbar
+  online_info: www.gruenerwuerfel.de
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 209-bielefeld/020
+ENTITÄT: stadtteilzentrum
+BEZEICHNUNG: Stadtteilzentrum Helli
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geplante_eroeffnung: 2026-2027
+  lage: Campus der Hellingskampschule (Ecke Herforder Straße/Jöllheide)
+  foerderung: Fördermittelbescheid des Landes NRW, 3.5 Millionen Euro
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 209-bielefeld/021
+ENTITÄT: konzept
+BEZEICHNUNG: Profil Stadtteilzentrum
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Rahmenkonzept mit Leitlinien und Qualitätsstandards für Stadtteilzentren
+  beschluss: 2021 politisch beschlossen
+  grundsaetze: Ansprache aller Zielgruppen, partizipative Mitgestaltung durch Nutzer, Dialog zwischen Generationen, Miteinander von Menschen mit und ohne Behinderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 209-bielefeld/022
+ENTITÄT: infrastrukturprojekt
+BEZEICHNUNG: Mobilstation Stieghorst
+ORTSTEIL_BEZUG: Stieghorst
+QUELLE: https://www.bielefeld.de/mobilstation-stieghorst | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: in Planung
+  lage: Stieghorster Straße 32-34 (zwischen Stieghorster Straße und Danziger Straße)
+  groesse: Mobilstation der Größe L
+  endhaltestelle: Stadtbahnlinie 4
+  ausstattung: Fahrradabstellanlage, Sharing-Angebote (Fahrrad, E-Scooter, Auto), Infostelen, Fahrradreparatursäule, Sitz- und Aufenthaltsbereiche, öffentliche Toilette
+  kriterien: Barrierefreiheit, sichere Wege für Fuß- und Radverkehr, Grünflächen und Klimaanpassung
+  planung_buero: Greenbox Landschaftsarchitekten (Osnabrück)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 209-bielefeld/023
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sieker Gärten
+ORTSTEIL_BEZUG: Sieker
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Gemeinschaftsgärten
+  verknuepfung: Stadtteilküche Sieker (Motto: vom Garten in die Küche auf den Tisch)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 209-bielefeld/024
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kotten
+ORTSTEIL_BEZUG: Sieker
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Sitz von REGEmbH und deren Quartiersangeboten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 209-bielefeld/025
+ENTITÄT: gebaeude
+BEZEICHNUNG: Hot Zefi
+ORTSTEIL_BEZUG: Senne
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fruhere_funktion: Unterkunft für offene Kinder- und Jugendarbeit
+  beschreibung: 50 Meter entfernt vom neuen Stadtteilzentrum Windflöte
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 209-bielefeld/026
+ENTITÄT: organisation
+BEZEICHNUNG: Stadtteilmütter
+ORTSTEIL_BEZUG: Jöllenbeck
+QUELLE: https://www.bielefeld.de/stadtteilzentren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Gesellschaft für Sozialarbeit e.V. (GfS)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 209-bielefeld/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: August Oetker
+QUELLE: https://www.bielefeld.de/node/2663 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kommerzienrat
+  rang: Dr.
+  wirken: Engagement bei Gründung der Naturwissenschaftlichen Abteilung im Städtischen Museum Bielefeld
+  jahr_wirken: 1906
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 209-bielefeld/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Alfred Zickgraf
+QUELLE: https://www.bielefeld.de/node/2663 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Prof.
+  rang: Dr.
+  wirken: Engagement bei Gründung der Naturwissenschaftlichen Abteilung im Städtischen Museum Bielefeld
+  jahr_wirken: 1906
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 209-bielefeld/029
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Erwin Wendt
+QUELLE: https://www.bielefeld.de/node/37215 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Maler
+  herkunft: Bielefeld
+  werk: restauriertes Deckengemälde in der Sparrenburg Trauzimmer
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 209-bielefeld/030
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: René Sygusch
+QUELLE: https://www.bielefeld.de/node/37215 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Gastronom
+  betrieb: Restaurant auf der Sparrenburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

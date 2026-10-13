@@ -1,0 +1,300 @@
+ZIELORT: Bückeburg (Stadt)
+LAGE: 43 km nordöstlich von Bielefeld (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Bückeburg
+
+GRUNDDATEN:
+  landkreis: Schaumburg  [dewiki Infobox]
+  bundesland: Niedersachsen  [dewiki Infobox]
+  einwohner: 19.016  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 68,9  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 276  [berechnet aus Einwohner und Fläche]
+  kfz: SHG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 63 | 52 | 68 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2942159)]
+  naechste_grossstadt: Bielefeld, 43 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Hannover, 48 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Bückeburg, Bahnhof Bückeburg Ost, Bahnhof Evesen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 31675  [Wikidata P281]
+  vorwahl: 05722  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,1 %, SPD 24,1 %, AfD 18,6 %, GRÜNE 11,8 %, Die Linke 6,4 %; Wahlbeteiligung 83,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Axel Wohlgemuth (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Sablé-sur-Sarthe  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Minden (Stadt)
+  einwohner: 83.598  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 101,12  [Wikidata P2046; Altbestand staedte.json]
+  kfz: MI (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 42 | 59 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2871039)]
+  naechste_grossstadt: Bielefeld, 39 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Minden, Haltepunkt Dankersen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: SPD 24,3 %, CDU 23,4 %, AfD 19,9 %, GRÜNE 11,3 %, Die Linke 8,2 %; Wahlbeteiligung 79,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Bückeburg):
+ID: 215-bueckeburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Bückeburg
+QUELLE: https://www.bueckeburg.de/de/Leben-in-Bueckeburg/Historische-Residenzstadt-Bueckeburg/Ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_ortsteile: 8
+  ortsteile: Achum, Bergdorf, Cammer, Evesen, Meinsen-Warber, Müsingen, Rusbend, Scheie
+  gebietsreform_jahr: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 215-bueckeburg/002
+ENTITÄT: ort
+BEZEICHNUNG: Bückeburg
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_als_wasserburg: 1300-1350
+  genauigkeit_gründung: "ca."
+  fleckenprivileg_jahr: 1365
+  stadtrechte_jahr: 1609
+  ist_kreisstadt: false
+  gueltig_ab_kreisstadt: 1365
+  gueltig_bis_kreisstadt: 1934
+  ist_residenzstadt: true
+GUELTIG_AB: 1609
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 215-bueckeburg/003
+ENTITÄT: herrscher
+BEZEICHNUNG: Graf Ernst zu Holstein-Schaumburg
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_beginn: 1601
+  herrschaft_ende: 1622
+  rolle: wählte Schloss Bückeburg zur Residenz, machte Stadt zum Regierungssitz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 215-bueckeburg/004
+ENTITÄT: künstler
+BEZEICHNUNG: Thomas Abbt
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Mitte 18. Jahrhundert
+  rolle: trug zur kulturellen Blüte Bückeburgs bei
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 215-bueckeburg/005
+ENTITÄT: künstler
+BEZEICHNUNG: Johann-Gottfried Herder
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Mitte 18. Jahrhundert
+  rolle: Prediger, trug zur kulturellen Blüte Bückeburgs bei
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 215-bueckeburg/006
+ENTITÄT: musiker
+BEZEICHNUNG: Johann-Christoph-Friedrich Bach
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Mitte 18. Jahrhundert
+  rolle: trug zur kulturellen Blüte Bückeburgs bei
+  beiname: "Bückeburger Bach"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 215-bueckeburg/007
+ENTITÄT: arzt
+BEZEICHNUNG: Dr. Bernhard Christoph Faust
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Leibarzt des Fürstenhofs
+  leistung: führte Pockenimpfung ein
+  denkmal: Krengelfest
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 215-bueckeburg/008
+ENTITÄT: fest
+BEZEICHNUNG: Krengelfest
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  häufigkeit: alle vier Jahre
+  teilnehmer: Schulkinder
+  grund: erinnert an Pockenimpfung durch Dr. Bernhard Christoph Faust
+  preis: Krengel (Brezel)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 215-bueckeburg/009
+ENTITÄT: ort
+BEZEICHNUNG: Bückeburg
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 6500
+  genauigkeit_einwohnerzahl: "ca."
+  einwohnerzahl_zeitraum: 19. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 215-bueckeburg/010
+ENTITÄT: journalist
+BEZEICHNUNG: Hermann Löns
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Redakteur der Schaumburg-Lippischen Landeszeitung
+  tätigkeit_beginn: 1907
+  tätigkeit_ende: 1909
+  werk: satirisches "Duodez"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 215-bueckeburg/011
+ENTITÄT: ort
+BEZEICHNUNG: Bückeburg
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_kreisstadt: false
+  genauigkeit_ist_kreisstadt: "1948"
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 215-bueckeburg/012
+ENTITÄT: ort
+BEZEICHNUNG: Bückeburg
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_kreisfreiheit: false
+GUELTIG_AB: 1365
+GUELTIG_BIS: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 215-bueckeburg/013
+ENTITÄT: herrscher
+BEZEICHNUNG: Fürstin Juliane zu Schaumburg-Lippe
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Staunen-und-Erleben/Historisches-Weserbergland | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1761-1799
+  herrschaft_beginn: 1787
+  herrschaft_ende: 1799
+  grund: regierte für ihren minderjährigen Sohn Georg Wilhelm nach Tod des Gatten Philipp Ernst
+  sohn: Georg Wilhelm
+  gemahl: Graf Philipp Ernst
+  charakterisierung: mutig und fortschrittlich
+  schwerpunkte: Gesundheit, Bildung, Sicherheit der Bürger
+  auszeichnung: Bückeburg 2014 als 21. frauenORT in Niedersachsen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 215-bueckeburg/014
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtkirche
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Staunen-und-Erleben/Historisches-Weserbergland | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: Weserrenaissance und Frühbarock
+  charakterisierung: Kleinod, einer der wichtigsten frühprotestantischen Kirchenneumbauten im nordeuropäischen Raum
+  bauauftrag: Graf Ernst als Repräsentationskirche in seiner selbstgewählten Residenz
+  superlativ: "einer der wichtigsten frühprotestantischen Kirchenneubauten im nordeuropäischen Raum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 215-bueckeburg/015
+ENTITÄT: schloss
+BEZEICHNUNG: Jagdschloss Baum
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Staunen-und-Erleben/Historisches-Weserbergland | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Schaumburger Wald
+EIGENSCHAFTEN:
+  erbaut_von: Graf Wilhelm zu Schaumburg-Lippe
+  erbaut_von_ehefrau: Gräfin Marie Barbara Eleonore
+  erbaut_leben: bewohnt
+  erbaut_leben_zeitraum: 1724-1777 und 1744-1776
+  charakterisierung: Kleinod im Schaumburger Wald
+  besonderheit: Grabpyramide der gräflichen Familie im Schaumburger Wald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 215-bueckeburg/016
+ENTITÄT: initiative
+BEZEICHNUNG: Historisches Weserbergland
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg/Historisches-Weserbergland | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 2012
+  träger: Weserbergland Tourismus e.V.
+  umfang_historische_städte: 16
+  umfang_historische_stätten: 11
+  ziel: Marketing-Projekt zur Aufarbeitung von Geschichte und Kultur
+  besonderheit: in Deutschland einzigartig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 215-bueckeburg/017
+ENTITÄT: stadtrundgang
+BEZEICHNUNG: Historischer Stadtrundgang
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg/Historisches-Weserbergland | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_gebäude: 14
+  dauer: 60
+  einheit_dauer: Minuten
+  gehzeit: rein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 215-bueckeburg/018
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Sablé-sur-Sarthe
+QUELLE: https://www.bueckeburg.de/de/Leben-in-Bueckeburg/Historische-Residenzstadt-Bueckeburg/Partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft_seit: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 215-bueckeburg/019
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Nieuwerkerk aan den Ijssel / Zuidplas
+QUELLE: https://www.bueckeburg.de/de/Leben-in-Bueckeburg/Historische-Residenzstadt-Bueckeburg/Partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Niederlande
+  partnerschaft_seit: 1974
+  ursprünglicher_name: Nieuwerkerk aan den Ijssel
+  fusion_zu: Zuidplas
+  fusion_jahr: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 215-bueckeburg/020
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Elvas
+QUELLE: https://www.bueckeburg.de/de/Leben-in-Bueckeburg/Historische-Residenzstadt-Bueckeburg/Partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Portugal
+  verhandlungen_beginn: 2021
+  grund: militärische, architektonische und menschliche Beziehung von Graf Wilhelm zu Schaumburg-Lippe mit Portugal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 215-bueckeburg/021
+ENTITÄT: militärische_einrichtung
+BEZEICHNUNG: Internationales Hubschrauberausbildungszentrum
+QUELLE: https://www.bueckeburg.de/de/Leben-in-Bueckeburg/Historische-Residenzstadt-Bueckeburg/Bundeswehrstandort | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Achum
+EIGENSCHAFTEN:
+  adresse: Achumer Straße 1
+  ist_heimat: Heeresfliegertruppe
+  charakterisierung: modernste Hubschrauberschule Europas
+  superlativ: "modernste Hubschrauberschule Europas"
+  personal: 1600
+  personal_zusammensetzung: Soldaten, zivile Mitarbeiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

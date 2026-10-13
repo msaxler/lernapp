@@ -1,0 +1,311 @@
+ID: 221-lehrte/001
+ENTITÄT: ort
+BEZEICHNUNG: Lehrte
+ORTSTEIL_BEZUG: (Hauptort)
+QUELLE: https://www.lehrte.de/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteile: Ahlten, Arpke, Aligse, Immensen, Kolshorn, Röddensen, Steinwedel, Hämelerwald, Sievershausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 221-lehrte/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Arpke
+ORTSTEIL_BEZUG: Arpke
+QUELLE: https://www.lehrte.de/ortsteile/arpke/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 3000
+  kirche: Zum Heiligen Kreuz
+  kirche_baustil: neugotisch
+  kirche_material: Backsteinbau
+  kirche_gehoert_zu: Evangelisch-lutherische Kirchengemeinde Lehrter Land
+  baudenkmale: Zweiständerhäuser aus 16. Jahrhundert am Dorfteich
+  freibad: Arpker Waldbad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 221-lehrte/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ahlten
+ORTSTEIL_BEZUG: Ahlten
+QUELLE: https://www.lehrte.de/ortsteile/ahlten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 5550
+  superlativ: bevölkerungsreichster Ortsteil von Lehrte
+  siedlungsgeschichte_jahre: 3000
+  fachwerk_haeuser: gut erhalten
+  hugelgraeber_bronzezeit: 30 Stück am südlichen Ortsausgang
+  adelssitz: Junkershof
+  kapelle_alter: über 800 Jahre alt
+  naturschutzgebiet: Ahltener Wald
+  verkehrsanbindung: Autobahnen 2 und 7, S-Bahn nach Hannover, Hildesheim oder Celle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 221-lehrte/004
+ENTITÄT: gedenkstein
+BEZEICHNUNG: Gedenkstein Ahlten (NS-Opfer 9. April 1945)
+ORTSTEIL_BEZUG: Ahlten
+QUELLE: https://www.lehrte.de/ortsteile/ahlten/gedenkstein/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: Gedenken an Opfer von Erschießungen durch Reichsarbeitsdienst am 09. April 1945
+  erschiessung_kontext: NS-Regime, Ende Zweiter Weltkrieg
+  todesfaelle_erfasst: mindestens 16 Menschen (13 am Ort erfasst, 3 weitere an Folgen gestorben)
+  named_victims: Alain Constance, Gerard Catheline, André Fonvieille, Petrus Peelen, Giuseppe Aiello, Grigori Bulajenko, Fjedor Kiesenow
+  errichtung_beschluss: 09. April 2026 (Beschluss des Ortsrates Ahlten)
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 221-lehrte/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Aligse
+ORTSTEIL_BEZUG: Aligse
+QUELLE: https://www.lehrte.de/ortsteile/aligse/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1286
+  gruendung_name: Aldagessem
+  einwohner: 1600
+  gedenkstein_700_jahr_feier: 1986
+  charakter: landwirtschaftlich geprägt
+  dorfteich: Ortskern
+  schützen_und_volksfest: Pfingsten
+  schuetzengesellschaft: Schützengesellschaft Aligse e.V., ca. 200 Mitglieder
+  weihnachtsmarkt: 1. Advent (nichtkommerziell, überregionale Beachtung)
+  freiwillige_feuerwehr: gegründet 1951
+  sportverein: Sportfreunde Aligse, gegründet 1930, ca. 800 Mitglieder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 221-lehrte/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Immensen
+ORTSTEIL_BEZUG: Immensen
+QUELLE: https://www.lehrte.de/ortsteile/immensen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche: St. Antonius-Kirche
+  kirche_baujahr: 1414
+  kirche_baustil: neuromanisch
+  kirche_material: Backsteinbau
+  kirche_architekt: Conrad Wilhelm Hase
+  kirche_errichtung_zeit: spätes 19. Jahrhundert
+  einwohner: 2400
+  erste_urkundliche_erwaehnung: 1339
+  festival: Zytanien (dreitägiges Open-Air-Festival im Hochsommer)
+  festival_ort: ehemaliges Ziegeleigelände
+  bauliche_charakterisierung: gut erhaltene Bauernhäuser
+  naturschutzgebiet: Im Himmelreich
+  naturschutzgebiet_groesse: 9 Hektar
+  naturschutzgebiet_waldtyp: Eichen-Hainbuchenwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 221-lehrte/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kolshorn
+ORTSTEIL_BEZUG: Kolshorn
+QUELLE: https://www.lehrte.de/ortsteile/kolshorn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1466
+  charakter: landwirtschaftlich geprägt
+  wirtschaftsschwerpunkt: Pferdewirtschaft
+  sportlicher_schwerpunkt: Reiten
+  reit_und_fahrverein: St. Hubertus Kolshorn e.V.
+  seltene_pflanze: Moorrose Kalmia angustifolia aus Nordamerika
+  seltene_pflanze_ort: Kolshorner Moor, Nähe Kalmiaweg
+  seltene_pflanze_besonderheit: in Europa einzigartig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 221-lehrte/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Röddensen
+ORTSTEIL_BEZUG: Röddensen
+QUELLE: https://www.lehrte.de/ortsteile/roeddensen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 230
+  superlativ: kleinster Ortsteil Lehrtes
+  frueherer_name: Rodense (bis 1285)
+  eingemeindung_datum: 01. März 1974
+  charakter: überwiegend landwirtschaftlich geprägt
+  landwirtschaftliche_produkte: Spargel, Getreide, Kartoffeln, Zuckerrüben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 221-lehrte/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Steinwedel
+ORTSTEIL_BEZUG: Steinwedel
+QUELLE: https://www.lehrte.de/ortsteile/steinwedel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1022
+  einwohner: 1700
+  kirche: St. Petri-Kirche
+  landkreis_zugehoerigkeit_bis: 1974 (Landkreis Burgdorf)
+  eingemeindung_jahr: 1974
+  grund_eingemeindung: Gebietsreform in Niedersachsen
+  jubilaeum_2023: 1001-jähriges Bestehen (festliches Bühnenprogramm im Juni 2023)
+  allegorischer_garten: einzigartig, ca. 80 heimische und zugewanderte Pflanzenarten
+  allegorischer_garten_herkunft: evangelische Tradition aus 2. Hälfte 16. Jahrhundert
+  landschaft: Auenlandschaft entlang Burgdorfer Aue (Nebenfluss Fuhsekanal)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 221-lehrte/010
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hämelerwald
+ORTSTEIL_BEZUG: Hämelerwald
+QUELLE: https://www.lehrte.de/ortsteile/haemelerwald/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: jüngster Stadtteil Lehrtes
+  siedlung_gruendung: 10. Oktober 1864
+  siedlung_gruendung_einwohner: ca. 20 Menschen
+  einwohner: 4700
+  benannt_nach: Waldgebiet Hämeler Wald
+  wald_charakterisierung: naturnaher Laubwald
+  wald_superlativ: eines der größten Laubwaldgebiete im Weser-Aller-Flachland
+  wald_schutz: Naturschutzgebiet (zusammen mit Sohrwiesen)
+  wald_biodiversitaet: Heimat für viele geschützte Tier- und Pflanzenarten
+  gut_adolphshof: ökologisch bewirtschaftet
+  gut_adolphshof_superlativ: einer der ältesten ökologisch bewirtschafteten Höfe in Niedersachsen
+  gut_adolphshof_angebote: Bildungseinrichtung Landwirtschaft/Ernährung, sozialtherapeutische Einrichtung, Hofladen, Bio- und Milchprodukte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 221-lehrte/011
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sievershausen
+ORTSTEIL_BEZUG: Sievershausen
+QUELLE: https://www.lehrte.de/ortsteile/sievershausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2700
+  kirche: Martinskirche (spitzer Turm)
+  name_erste_erwaehnung: 1166
+  dorffehde: jährlich an Christi Himmelfahrt (sportlicher Wettkampf Nord- vs. Südhälfte)
+  denkmal: Moritz-Denkmal
+  denkmal_jahr: 1853
+  denkmal_bezug_person: Kurfürst Moritz von Sachsen (1521-1553)
+  denkmal_bezug_ereignis: Schlacht zwischen Brandenburg und Sachsen im Zuge der Reformation
+  denkmal_gefallene: ca. 4500 gefallene Soldaten
+  antikriegshaus: Antikriegshaus Sievershausen (überregional bekannt)
+  antikriegshaus_aufgabe: Vermittlung des Wertes des Friedens, Darstellung von Schrecken und Kosten eines Krieges
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 221-lehrte/012
+ENTITÄT: kirche
+BEZEICHNUNG: Zum Heiligen Kreuz
+ORTSTEIL_BEZUG: Arpke
+QUELLE: https://www.lehrte.de/ortsteile/arpke/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: neugotisch
+  material: Backsteinkirche
+  gehoert_zu: Evangelisch-lutherische Kirchengemeinde Lehrter Land
+  lage: Zentrum Arpke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 221-lehrte/013
+ENTITÄT: kirche
+BEZEICHNUNG: St. Antonius-Kirche
+ORTSTEIL_BEZUG: Immensen
+QUELLE: https://www.lehrte.de/ortsteile/immensen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1414
+  baustil: neuromanisch
+  material: Backsteinbau
+  architekt: Conrad Wilhelm Hase
+  errichtung_zeit: spätes 19. Jahrhundert
+  charakter_ortsbild: prägt Ortsbild
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 221-lehrte/014
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hüpfburg und Buttonmaschine
+ORTSTEIL_BEZUG: (Hauptort Lehrte)
+QUELLE: https://www.lehrte.de/service-fuer-familien/angebote-fuer-kinder-und-jugendliche/huepfburg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitztum: Stadt Lehrte
+  verwendungszweck: Unterstützung ortsansässiger Kinder- und Jugendarbeit durch Lehrter Vereine
+  ausleihbedingungen: kostenlos für gemeinnützige Veranstaltungen (Versicherung der Hüpfburg erforderlich)
+  kontakt: stadtjugendpflege@lehrte.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 221-lehrte/015
+ENTITÄT: wald
+BEZEICHNUNG: Ahltener Wald
+ORTSTEIL_BEZUG: Ahlten
+QUELLE: https://www.lehrte.de/ortsteile/ahlten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Naturschutzgebiet
+  nutzung: Erholung und Entspannung (Spaziergänge)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 221-lehrte/016
+ENTITÄT: wald
+BEZEICHNUNG: Im Himmelreich
+ORTSTEIL_BEZUG: Immensen
+QUELLE: https://www.lehrte.de/ortsteile/immensen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Naturschutzgebiet
+  groesse: 9 Hektar
+  waldtyp: Eichen-Hainbuchenwald
+  lage: ca. 3,5 km südwestlich von Immensen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 221-lehrte/017
+ENTITÄT: wald
+BEZEICHNUNG: Hämeler Wald
+ORTSTEIL_BEZUG: Hämelerwald
+QUELLE: https://www.lehrte.de/ortsteile/haemelerwald/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Naturschutzgebiet (zusammen mit Sohrwiesen)
+  waldtyp: naturnaher Laubwald
+  superlativ: eines der größten Laubwaldgebiete im Weser-Aller-Flachland
+  biodiversitaet: Heimat für viele geschützte Tier- und Pflanzenarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 221-lehrte/018
+ENTITÄT: badenstaette
+BEZEICHNUNG: Arpker Waldbad
+ORTSTEIL_BEZUG: Arpke
+QUELLE: https://www.lehrte.de/ortsteile/arpke/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  saison: Sommer
+  charakter: Urlaubsvergnügen
+  ruf: Geheimtipp im Umkreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 221-lehrte/019
+ENTITÄT: festival
+BEZEICHNUNG: Zytanien
+ORTSTEIL_BEZUG: Immensen
+QUELLE: https://www.lehrte.de/ortsteile/immensen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Open-Air-Festival
+  dauer: dreitägig
+  saison: Hochsommer
+  ort: ehemaliges Ziegeleigelände Immensen
+  bedeutung: bekannt über Grenzen der Region
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 221-lehrte/020
+ENTITÄT: hochschule_oder_akademie
+BEZEICHNUNG: Gut Adolphshof
+ORTSTEIL_BEZUG: Hämelerwald
+QUELLE: https://www.lehrte.de/ortsteile/haemelerwald/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebstyp: Landwirtschaftsbetrieb, ökologisch bewirtschaftet
+  superlativ: einer der ältesten ökologisch bewirtschafteten Höfe in Niedersachsen
+  bildungsangebot: Bildungseinrichtung zu Landwirtschaft und Ernährung
+  sozialangebot: sozialtherapeutische Einrichtung
+  vertrieb: Hofladen, Wochenmaerkte und Bauernmaerkte in und um Hannover
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

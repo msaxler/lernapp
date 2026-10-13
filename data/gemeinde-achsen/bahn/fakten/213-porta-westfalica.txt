@@ -1,0 +1,406 @@
+ID: 213-porta-westfalica/001
+ENTITÄT: denkmal
+BEZEICHNUNG: Kaiser-Wilhelm-Denkmal
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1892-1896
+  einweihung_datum: 18.10.1896
+  einweihung_teilnehmer_anzahl: 15000-20000
+  einweihung_anwesend: Kaiser Wilhelm II., Kaiserin Auguste Victoria
+  material: Porta-Sandstein
+  hoehe: 88 [m]
+  architekt_entwurf: Bruno Schmitz
+  kuenstler_kaiserfigur: Kaspar von Zumbusch
+  standort_vorschlag: Abgeordneter Hösch (April 1888)
+  standort_abstimmung: 43-46 Stimmen, Provinzial-Landtag Münster (15.03.1889)
+  kosten_zuschuss_provinz: 500000 [Goldmark]
+  kosten_spenden: 300000 [Mark]
+  kosten_entwurf_schmitz: ueber 1000000 [Mark]
+  kosten_budgetrahmen: 800000 [Mark]
+  grund_kostenueberraschung: Entwurf sprengte Kostenrahmen, deshalb Baubeginn verzögert
+  baubeginn: September 1892
+  schaeden_1945: Artilleriebeschuss
+  schaeden_1946: Sprengung des Rüstungswerks, Ringterrasse teilweise zerstört
+  restaurierungen: 1999 (Kaiserfigur untersucht), 2001-02
+  restaurierung_massnahmen: Wasserschäden Innenkuppel, Fugennetz, Kuppelreinigung, Vergoldung Kugel und Kreuz, Fehlstellen Südseite, Treppen und Pfeiler
+  restaurierung_kostenfinanzierung_verein: ca. 400000 [DM]
+  besucherzentrum_eroeffnung: 08.07.2018
+  besucherzentrum_flaeche: 270 [qm]
+  besucherzentrum_panoramawand_szenen: 33
+  superlativ: zweitgrößtes Denkmal Deutschlands
+  anziehungskraft: nichts von Anziehungskraft eingebüßt seit über 100 Jahren
+  status: Wahrzeichen einer Region
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 213-porta-westfalica/002
+ENTITÄT: kaiserfigur
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Kupferplatten, vernietet
+  hoehe_figur: 7 [m]
+  hoehe_sockel: 5.5 [m]
+  sockel_material: Stein
+  darstellung_haltung: barhäuptig, linke Hand auf Pallasch, rechte Hand erhoben
+  darstellt: Kaiser Wilhelm I.
+  kuenstler: Kaspar von Zumbusch
+  herkunft_kuenstler: Wien, gebürtiger Westfale
+  zustand_1999: nicht restaurierungsbedürftig
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 213-porta-westfalica/003
+ENTITÄT: baldachin
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 50 [m]
+  saeulen_anzahl: 6
+  saeulen_beschreibung: gewaltig
+  rundboegen_schluss: 18 [m Höhe]
+  durchmesser_außen: 32 [m]
+  durchmesser_innen: 18 [m]
+  spitzenform: Kaiserkrone mit Kugel und Kreuz
+  spitzenkrone_vergoldung: Kugel und Kreuz vergoldet
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 213-porta-westfalica/004
+ENTITÄT: ringterrasse
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchmesser: 120 [m]
+  stuetzpfeiler: 30
+  struktur: Freitreppe zur Hochterrasse, 20 weitere Stufen zum Kuppelbau
+  schaden_1946: Teil durch Explosion weggerissen
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 213-porta-westfalica/005
+ENTITÄT: kaiserkrone
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 2.50 [m]
+  lage: Spitze des Baldachins
+  ausstattung: vergoldetes Kreuz
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 213-porta-westfalica/006
+ENTITÄT: hotel
+BEZEICHNUNG: Hotel Kaiserhof
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 1890
+  grund_entstehung: Investitionen in Gastronomie angelockt durch Denkmal-Attraktion und Besucherzuströme
+  status: ehemalig
+  brand: 2011
+  nachnutzung: offen
+GUELTIG_AB: 1890
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 213-porta-westfalica/007
+ENTITÄT: ruestungswerk
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: Hohlraum des Sandstollens im Wittekindsberg
+  gründung: Anfang 1944
+  fabrikhallen: 4
+  flaeche_gesamtfabrik: 5320 [qm]
+  produktion: Kugellager für Jagdflugzeuge
+  arbeitskraefte_deutsch: 30
+  arbeitskraefte_zwang_ukraine: 120
+  arbeitskraefte_zwang_schicht: 8 Stunden (statt 12)
+  arbeitskraefte_zwang_unterkunft: völlig unzureichende hygienische Bedingungen
+  betrieb_schichten: 2
+  sprengung: April 1946 auf Befehl Alliierter Kontrollrat
+  sprengung_begleitung: strenge Sicherheitsmaßnahmen
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 213-porta-westfalica/008
+ENTITÄT: wanderweg
+BEZEICHNUNG: Wittekindsweg / Kammweg
+QUELLE: https://www.portawestfulica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Nähe Kaiser-Wilhelm-Denkmal
+  sehenswuerdigkeiten: Silberblick, Moltketurm, Wittekindsburg, Margarethen-Klus, Königslinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 213-porta-westfalica/009
+ENTITÄT: felsenklippe
+BEZEICHNUNG: Silberblick
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südliche Seite Wiehengebirges
+  material: Kalksandsteine und Kalke des Oberen Jura (Heersumer Schichten, Korallen-Oolith)
+  bekannt: ja
+  aussicht: Hausberger Schweiz, Großer Weserbogen, Amtshausberg (Vlotho), Lippische Bergen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 213-porta-westfalica/010
+ENTITÄT: aussichtsturm
+BEZEICHNUNG: Moltketurm
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: höchster Punkt Wittekindsberges
+  hoehe_lage: 281.48 [m über NN]
+  ursprungsname: Wittekindsstein
+  erbaut: 1828-1829
+  erbaut_funktion: Aussichtsturm
+  umbenennungsjahr: 1906
+  benannt_nach: Feldmarschall Graf Helmuth von Moltke
+  grund_umbenennung: Erinnerung an Feldmarschall Graf Helmuth von Moltke (1800-1891)
+GUELTIG_AB: 1828
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 213-porta-westfalica/011
+ENTITÄT: burg
+BEZEICHNUNG: Wittekindsburg
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: sächsische Volksburg
+  lage: Weserpforte
+  bekanntheit: bekannt
+  laenge_anlage: 650 [m]
+  breite_anlage: 110 [m]
+  form_anlage: langes schmales Rechteck
+  westwall_zustand: verfallen
+  ostwall_nordwall_zustand: teilweise noch gut erhalten
+  suedwall_zustand: schwach (Schutz durch steilen Bergabfall)
+  fliehburg_erkennbar: ja
+  bauphase_1: vorrömische Eisenzeit (archäologisch nachgewiesen)
+  bauphase_2: Nord-Süd-Trennmauer aus frühem Mittelalter
+  archaeologie: Untersuchungen 1993-1998
+  archaeologie_bedeutsam: Kreuzkirche vorromanischer Zeit (um 1000 oder erstes Drittel 11. Jahrhundert)
+  hotelgebaeude: Berghotel Wittekindsburg (modernes Hotel in Wallanlage)
+  attraktion_drachenfliegen: Startrampe für Drachenflieger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 213-porta-westfalica/012
+ENTITÄT: kirche
+BEZEICHNUNG: Kreuzkirche
+ORTSTEIL_BEZUG: Wittekindsburg
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: vorromanisch
+  datierung: um 1000 oder erstes Drittel 11. Jahrhundert
+  besonderheit: seltene Gestaltung
+  funktion: unklar (möglich: Burgkapelle, Klosterkirche, Familiengrab)
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 213-porta-westfalica/013
+ENTITÄT: quelle
+BEZEICHNUNG: Wittekindsquelle
+ORTSTEIL_BEZUG: Wittekindsburg
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_historisch: vermutlich Heiligtum sächsisch-fränkischer Zeit
+  heiligtum_folge: ermöglichte Wallburg-Anlage
+  sprudelte_bis: 1938
+  grund_trockenlegung: Eisenerzbergbau unterbrach unterirdische wasserführende Schichten
+  sage_beteiligung: Kaiser Karl der Große und Sachsenherzog Wittekind
+  sage_inhalt: Kaiser und Herzog stritten über Glaubenswahrheit. Kaisers Pferd scharrte mit Huf → Quelle sprudelte → Wittekind ließ sich taufen
+  sage_verifizierung: vermutlich
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 213-porta-westfalica/014
+ENTITÄT: kloster_kapelle
+BEZEICHNUNG: Margarethen-Klus
+ORTSTEIL_BEZUG: Wittekindsburg
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  volksmundname: Wittekinds-Kapelle
+  gruender: Bischof Milo von Minden
+  gruendungsjahr: um 992
+  urspruengliche_art: Nonnenkloster auf Wittekindsberg
+  schutz_kaiser: Kaiser Otto III. (993)
+  ordensregel: Benediktinerinnen
+  verlagerung: um 1000 nach Minden
+  verbliebenes: Kapelle
+  gebaudetypus: zweijochiger Saalbau
+  material: Portasandstein
+  architektur: kuppeliche Kreuzgradgewölbe, halbrunde Schildbögen, Rundbogenfenster
+GUELTIG_AB: 992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 213-porta-westfalica/015
+ENTITÄT: baum
+BEZEICHNUNG: Königslinde
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Linde
+  pflanzung: 23.08.1842
+  pflanzung_zeuge: König Friedrich Wilhelm IV.
+  lage: bei Margarethen-Klus
+GUELTIG_AB: 1842
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 213-porta-westfalica/016
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Hämelschenburg
+ORTSTEIL_BEZUG: Emmerthal
+QUELLE: https://www.portawestfalica.de/externe-datenquellen/destination-one/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schlossstraße 1, 31860 Emmerthal
+  telefon: +49 5155 951690
+  email: kontakt@schloss-haemelschenburg.de
+  website: schloss-haemelschenburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 213-porta-westfalica/017
+ENTITÄT: museum
+BEZEICHNUNG: Museum für Landtechnik und Landarbeit Börry
+ORTSTEIL_BEZUG: Emmerthal
+QUELLE: https://www.portawestfalica.de/externe-datenquellen/destination-one/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Frenker Str. 22, 31860 Emmerthal
+  telefon: +49 5155 69114
+  email: touristikzentrum@westliches-weserbergland.de
+  website: museum-landtechnik.de
+  sammlung: Landtechnik und Landarbeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 213-porta-westfalica/018
+ENTITÄT: bebauungsplan
+BEZEICHNUNG: Bebauungsplan 32 "Neesen, Kalte Hude - Kloppenburg"
+ORTSTEIL_BEZUG: Neesen
+QUELLE: https://www.portawestfalica.de/rathaus/verwaltung/stadtplanung/bauleitplanung/rechtsverbindliche-bebauungsplaene/32-neesen-kalte-hude-kloppenburg-aufhebung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Aufhebung
+  aufstellungsbeschluss: 24.08.2015
+  behoerdenbeteiligung: 09.05.2016-10.06.2016
+  eroerterungstermin: 10.05.2016
+  auslegungsbeschluss: 05.09.2016
+  oeffentliche_auslegung: 10.10.2016-11.11.2016
+GUELTIG_BIS: 2016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 213-porta-westfalica/019
+ENTITÄT: bebauungsplan
+BEZEICHNUNG: Bebauungsplan 3(2) "Schul- und Sportzentrum und Erholungsflächen südlich der Hoppenstraße"
+ORTSTEIL_BEZUG: Hausberge
+QUELLE: https://www.portawestfalica.de/rathaus/verwaltung/stadtplanung/bauleitplanung/rechtsverbindliche-bebauungsplaene/3-2-schul-und-sportzentrum-und-erholungsflaeche-suedlich-der-hoppenstrasse-im-stadtteil-hausberge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ziel: Optimierung wohnungsbauliche Nutzung
+  ziel_2: Anpassung der verkehrlichen Erschließung
+  gemarkung: Hausberge
+  flur: 13
+  aufstellungsbeschluss: 07.06.2021
+  fruehzeitige_toeb_beteiligung: 09.08.2021-17.09.2021
+  fruehzeitige_oeffentlichkeit_beteiligung: 17.08.2021-17.09.2021
+  auslegungsbeschluss: 14.03.2022
+  auslegung: 22.05.2023-23.06.2023
+  satzungsbeschluss: 25.09.2023
+  rechtsverbindlich_seit: 22.12.2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 213-porta-westfalica/020
+ENTITÄT: gebirge
+BEZEICHNUNG: Wiehengebirge
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südliche Seite, gegenüber vom Kaiser-Wilhelm-Denkmal
+  geologische_formation: Kalksandsteine und Kalke des Oberen Jura (Heersumer Schichten, Korallen-Oolith)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 213-porta-westfalica/021
+ENTITÄT: gebirge
+BEZEICHNUNG: Wesergebirge
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: gegenüber vom Kaiser-Wilhelm-Denkmal
+  aussicht_vom_denkmal: unvergleichlich schön
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 213-porta-westfalica/022
+ENTITÄT: berg
+BEZEICHNUNG: Jacobsberg
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Wesergebirge, gegenüber vom Kaiser-Wilhelm-Denkmal
+  bauwerk: Fernsehturm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 213-porta-westfalica/023
+ENTITÄT: fernsehturm
+BEZEICHNUNG: Fernsehturm Jacobsberg
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 142 [m]
+  lage: Jacobsberg im Wesergebirge
+  sichtbarkeit_denkmal: sichtbar vom Kaiser-Wilhelm-Denkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 213-porta-westfalica/024
+ENTITÄT: bruecke
+BEZEICHNUNG: Weserbrücke
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Wesertal
+  sichtbarkeit_denkmal: sichtbar vom Kaiser-Wilhelm-Denkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 213-porta-westfalica/025
+ENTITÄT: erholungsgebiet
+BEZEICHNUNG: Großer Weserbogen
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sichtbarkeit: vom Silberblick sichtbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 213-porta-westfalica/026
+ENTITÄT: gebiet
+BEZEICHNUNG: Hausberger Schweiz
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sichtbarkeit: vom Silberblick sichtbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 213-porta-westfalica/027
+ENTITÄT: berg
+BEZEICHNUNG: Wittekindsberg
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe_max: 281.48 [m über NN]
+  beschreibung: höchster Punkt, Lage von sächsischer Volksburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 213-porta-westfalica/028
+ENTITÄT: lippische_bergen
+QUELLE: https://www.portawestfalica.de/strukturierte-daten/Sehenswuerdigkeiten/kaiser-wilhelm-denkmal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sichtbarkeit: vom Silberblick sichtbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

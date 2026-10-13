@@ -1,0 +1,589 @@
+ENTITÄT: ort
+BEZEICHNUNG: Seelze
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadt: true
+  ist_gemeinde: true
+  ist_selbststaendig: true
+  einwohner_zeitraum_rund: 34000
+  einwohner_2022: 35520
+  liegt_in_region: Region Hannover
+  bundesland: Niedersachsen
+  landstrich: Calenberger Land
+  geografische_lage: südlich der Leine, am Mittellandkanal und Stichkanal Hannover-Linden, an der Bahnstrecke Hannover–Minden
+  nachbargemeinden: Garbsen, Hannover, Gehrden, Barsinghausen, Wunstorf
+  buergermeister_aktuell: Alexander Masthoff
+  stadt_status_seit: 1977
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Letter
+ORTSTEIL_BEZUG: Seelze
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  groessster_stadtteil: true
+  wohngebiet: Letter-Süd
+  ratsmitglieder: 11
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: neubaugebiet
+BEZEICHNUNG: Seelze-Süd
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  entstehung_seit: 2001
+  lage: südlich der Kernstadt
+  einwohner: 3009
+  einwohner_zeitstand: 2024-06-30
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  benannt_nach: Martin von Tours
+  bauzeit: 18. Jahrhundert
+  adresse: Martinskirchstraße
+  gehoert_zu_verband: Stadtkirchenverband Hannover
+  gemeindehaus_eingeweiht: 2007
+  infrastruktur_zusaetzlich: Kindergarten neben der Kirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Heilige Dreifaltigkeit
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  erbaut: 1913
+  adresse: Südstraße
+  erweitert: 1969-1970
+  innenraum_neugestaltet: 2001
+  innenraum_gestalter: Gerd Winner
+  gehoert_zu_dekanat: Hannover
+  infrastruktur_zusaetzlich: Kindertagesstätte St. Michael neben der Kirche, Filialkirche in Letter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Straße Sandrehre
+  aufgegeben: 2005
+  heutige_nutzung: profane Zwecke
+GUELTIG_BIS: 2005
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Obentrautdenkmal
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: 1630
+  errichtet_von: Jeremias Sutel
+  grund_errichtung: Erinnerung an den Kampftod des Reitergenerals Hans Michael Elias von Obentraut
+  todesdatum_geehrter: 1625-10-25
+  form: Steinpyramide
+  hoehe_meter: 6
+  benannt_nach: Hans Michael Elias von Obentraut
+  ergaenzung_1989: Reitstiefel und Helm als übergroße Metallgegenstände
+  superlativ: der Sage nach geriet Obentraut ohne Helm und nur mit einem Stiefel ins Gefecht
+GUELTIG_AB: 1630
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  umzug_jahr: 2018
+  umzug_von: Letter
+  umzug_zu: Seelze
+  schwerpunkt: regionale Fachwerkbauweise
+  dauerausstellung: Schuhmacherwerkstatt, Friseurstube, Dorfschule
+  sonderausstellungen: Weihnachten im Erzgebirge, Seelze im Ersten Weltkrieg, 100 Jahre katholische Kirche in Seelze, Engel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Alexander Masthoff
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  wahl_datum: 2021-09-12
+  wahlstimmen_prozent: 55,22
+  wahlbeteiligung_prozent: 52,44
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Detlef Schallhorn
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  partei: parteilos
+  vorgaenger_amtsantritt: [unbekannt]
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Hannover–Minden
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  bau: 1847
+  verlauf_durch: Seelze
+  seelze_funktion: einzige Haltestelle zwischen Hannover Centralbahnhof und Wunstorf
+  erreichbare_orte: Bremen, Ruhrgebiet, Osnabrück
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: rangierbahnhof
+BEZEICHNUNG: Rangierbahnhof Seelze
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  fertigstellung: 1909
+  superlativ: einer der größten deutschen Rangierbahnhöfe
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Seelze
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  neuanlage: 1984
+  neuanlage_ortsnah: true
+  bahnsteiggleise_alt: 2
+  bahnsteiggleise_neu: 4
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kanal
+BEZEICHNUNG: Mittellandkanal
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  verlauf_durch: Seelze (Seelzer Abschnitt)
+  bauzeit: 1912-1916
+  infrastruktur: mit Abzweig nach Linden
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kanal
+BEZEICHNUNG: Stichkanal Hannover-Linden
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  verlauf_durch: Seelze
+  bauzeit: 1912-1916
+  type: Abzweig vom Mittellandkanal
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: fabrik
+BEZEICHNUNG: Chemiefabrik Seelze (Solstice / Riedel-de Haën / Eugen de Haën)
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  gruender: Eugen de Haën
+  gruendung: 1900
+  heutige_betreiber: Solstice
+  historische_name: Riedel-de Haën
+  status: groesster Arbeitgeber in Seelze
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: fabrik
+BEZEICHNUNG: Hannoverschen Gummiwerke Excelsior
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1902
+  type: Zweigwerk
+  betriebsschliessung: 1931
+  grund_schliessung: Weltwirtschaftskrise
+  abriss: true
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1931
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Großbrand Seelze 1755
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1755
+  ausmass: halber Ort zerstört
+  zerstoert_auch: Kirche
+GUELTIG_AB: 1755
+GUELTIG_BIS: 1755
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Schlacht bei Seelze 1625
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  krieg: Dreißigjähriger Krieg
+  datum: 1625-10-25
+  ort: südlich von Seelze
+  militaerische_bedeutung: unbedeutend
+  teilnehmer_obentraut: Hans Michael Elias von Obentraut
+  obentrauts_funktion: Reitergeneral
+  obentrauts_partei: Evangelische Union
+  obentrauts_truppe: 700 Reiter
+  gegner: ca. 10000 Mann Tillys Heer
+  obentrauts_tod: im Gefecht tödlich verwundet
+  kontext: missglückter Angriff auf die von Tillys Heer besetzte Festung Calenberg
+  legendendetail: Obentraut geriet ohne Helm und nur mit einem Stiefel ins Gefecht
+GUELTIG_AB: 1625
+GUELTIG_BIS: 1625
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung und Stadtrechtsverleihung 1974
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1974-03-01
+  type: Eingemeindung zur Großgemeinde
+  eingemeindete_gemeinden: Almhorst, Dedensen, Döteberg, Gümmer, Harenberg, Kirchwehren, Lathwehren, Letter, Lohnde, Seelze, Velber
+  stadtrechtsverleihung: 1977
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Grand-Couronne
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  seit: 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Schkeuditz
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  seit: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Mosina
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  seit: 2000
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Seelze
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  entwerfer: Gustav Völker
+  entwerfer_profession: Heraldiker und Wappenmaler
+  blasonierung: Ein schwarzer Hahn auf silbernem Grund mit goldener Bewehrung
+  symbolik_hahn: Sinnbild für Wachsamkeit und Kampfbereitschaft
+  herkunft_motiv: Siegel des Rittergeschlechts von Seelze (de Selesse)
+  rittergeschlecht_zeitraum: 13.-14. Jahrhundert
+  rittergeschlecht_aussterben: 15. Jahrhundert
+  genehmigung_erste_datum: 1934-07-05
+  genehmigung_erste_behoerde: Preußisches Staatsministerium
+  genehmigung_zweite_datum: 1974-05-06
+  genehmigung_zweite_behoerde: Regierungspräsident Hannover
+  genehmigung_zweite_grund: Neubildung der Gemeinde Seelze durch Eingemeindung
+GUELTIG_AB: 1934
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Egestorff
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1772-1834
+  beruf: Industrieller
+  beziehung: Sohn/Tochter der Stadt
+GUELTIG_BIS: 1834
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johanna Wagner
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1828-1894
+  beruf: Opernsängerin
+  verwandtschaft: Nichte des Komponisten Richard Wagner
+  beziehung: Sohn/Tochter der Stadt
+GUELTIG_BIS: 1894
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hermann Hansing
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1908-1977
+  partei: SPD
+  aemter: Bremer Bürgerschafts- (1946–1953), Bundestagsabgeordneter (1953–1972)
+  beziehung: Sohn/Tochter der Stadt
+GUELTIG_BIS: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Herbert Mundhenke
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1915-1997
+  profession: Historiker, Autor, Archivar
+  wichtigste_position: langjähriger Leiter des Stadtarchivs Hannover
+  beziehung: Sohn/Tochter der Stadt
+GUELTIG_BIS: 1997
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl-Heinz Strehlke
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1924-2014
+  profession: Realschullehrer, Schuldirektor, Autor
+  partei: SPD
+  amt: Bürgermeister von Garbsen
+  beziehung: Sohn/Tochter der Stadt
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Elena Walendzik
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1984
+  profession: Boxerin
+  erfolg: mehrfache deutsche Meisterschaft
+  beziehung: Sohn/Tochter der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Lina Larissa Strahl
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1997
+  profession: Schauspielerin und Sängerin
+  beziehung: Sohn/Tochter der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heinrich Aller
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1947
+  partei: SPD
+  amt: niedersächsischer Finanzminister (1998–2003)
+  beziehung: Sohn/Tochter der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Michael Elias von Obentraut
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1574-1625
+  rang: Reitergeneral
+  krieg: Dreißigjähriger Krieg
+  partei: Evangelische Union
+  todesdatum: 1625-10-25
+  todesort: südlich von Seelze
+  todesursache: im Kampf tödlich verwundet
+  denkmal: Obentrautdenkmal (1630)
+  beziehung: mit der Stadt in Verbindung stehend
+GUELTIG_BIS: 1625
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jeremias Sutel
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1587-1631
+  profession: Bildhauer
+  herkunft: Hannover
+  werke_seelze: Obentrautdenkmal (1630)
+  beziehung: mit der Stadt in Verbindung stehend
+GUELTIG_BIS: 1631
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich von Sachsen-Altenburg
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1599-1625
+  titel: Herzog von Sachsen-Altenburg und Jülich-Kleve-Berg
+  todesdatum: 1625
+  todesort: Seelze
+  beziehung: mit der Stadt in Verbindung stehend
+GUELTIG_BIS: 1625
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Horst Niebuhr
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1936-2013
+  profession: Jugendreferent der Stadt Hannover, Politiker
+  partei: SPD
+  amt_seelze: Ratsmitglied (1974–1986), Bürgermeister (1986–2006)
+  beziehung: mit der Stadt in Verbindung stehend
+GUELTIG_BIS: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Susanne Grote
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1969
+  partei: SPD
+  amt: Politikerin im Landtag von Niedersachsen
+  prior_arbeit: Stadt Seelze
+  beziehung: mit der Stadt in Verbindung stehend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anja Brinker
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1991
+  profession: Kunstturnerin
+  erfolg: Olympionikin (Peking 2008)
+  aufwuchs_in: Seelze
+  beziehung: mit der Stadt in Verbindung stehend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Chris-Carol Bremer
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1971
+  profession: Schwimmer
+  erfolg: Olympionike (Barcelona 1992)
+  aufwuchs_in: Seelze
+  beziehung: mit der Stadt in Verbindung stehend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Christos Pantazis
+QUELLE: https://de.wikipedia.org/wiki/Seelze | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1975
+  profession: Arzt, Politiker
+  partei: SPD
+  amt: Abgeordneter im Landtag von Niedersachsen
+  herkunft: Sohn griechischer Eltern
+  aufwuchs_in: Seelze
+  beziehung: mit der Stadt in Verbindung stehend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92

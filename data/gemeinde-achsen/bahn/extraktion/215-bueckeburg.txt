@@ -1,0 +1,275 @@
+ENTITÄT: ort
+BEZEICHNUNG: Bückeburg
+QUELLE: https://www.bueckeburg.de/de/Leben-in-Bueckeburg/Historische-Residenzstadt-Bueckeburg/Ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_ortsteile: 8
+  ortsteile: Achum, Bergdorf, Cammer, Evesen, Meinsen-Warber, Müsingen, Rusbend, Scheie
+  gebietsreform_jahr: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bückeburg
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_als_wasserburg: 1300-1350
+  genauigkeit_gründung: "ca."
+  fleckenprivileg_jahr: 1365
+  stadtrechte_jahr: 1609
+  ist_kreisstadt: false
+  gueltig_ab_kreisstadt: 1365
+  gueltig_bis_kreisstadt: 1934
+  ist_residenzstadt: true
+GUELTIG_AB: 1609
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: herrscher
+BEZEICHNUNG: Graf Ernst zu Holstein-Schaumburg
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_beginn: 1601
+  herrschaft_ende: 1622
+  rolle: wählte Schloss Bückeburg zur Residenz, machte Stadt zum Regierungssitz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Thomas Abbt
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Mitte 18. Jahrhundert
+  rolle: trug zur kulturellen Blüte Bückeburgs bei
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: künstler
+BEZEICHNUNG: Johann-Gottfried Herder
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Mitte 18. Jahrhundert
+  rolle: Prediger, trug zur kulturellen Blüte Bückeburgs bei
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: musiker
+BEZEICHNUNG: Johann-Christoph-Friedrich Bach
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Mitte 18. Jahrhundert
+  rolle: trug zur kulturellen Blüte Bückeburgs bei
+  beiname: "Bückeburger Bach"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: arzt
+BEZEICHNUNG: Dr. Bernhard Christoph Faust
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Leibarzt des Fürstenhofs
+  leistung: führte Pockenimpfung ein
+  denkmal: Krengelfest
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Krengelfest
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  häufigkeit: alle vier Jahre
+  teilnehmer: Schulkinder
+  grund: erinnert an Pockenimpfung durch Dr. Bernhard Christoph Faust
+  preis: Krengel (Brezel)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bückeburg
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 6500
+  genauigkeit_einwohnerzahl: "ca."
+  einwohnerzahl_zeitraum: 19. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: journalist
+BEZEICHNUNG: Hermann Löns
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Redakteur der Schaumburg-Lippischen Landeszeitung
+  tätigkeit_beginn: 1907
+  tätigkeit_ende: 1909
+  werk: satirisches "Duodez"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bückeburg
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_kreisstadt: false
+  genauigkeit_ist_kreisstadt: "1948"
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bückeburg
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_kreisfreiheit: false
+GUELTIG_AB: 1365
+GUELTIG_BIS: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: herrscher
+BEZEICHNUNG: Fürstin Juliane zu Schaumburg-Lippe
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Staunen-und-Erleben/Historisches-Weserbergland | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1761-1799
+  herrschaft_beginn: 1787
+  herrschaft_ende: 1799
+  grund: regierte für ihren minderjährigen Sohn Georg Wilhelm nach Tod des Gatten Philipp Ernst
+  sohn: Georg Wilhelm
+  gemahl: Graf Philipp Ernst
+  charakterisierung: mutig und fortschrittlich
+  schwerpunkte: Gesundheit, Bildung, Sicherheit der Bürger
+  auszeichnung: Bückeburg 2014 als 21. frauenORT in Niedersachsen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtkirche
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Staunen-und-Erleben/Historisches-Weserbergland | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: Weserrenaissance und Frühbarock
+  charakterisierung: Kleinod, einer der wichtigsten frühprotestantischen Kirchenneumbauten im nordeuropäischen Raum
+  bauauftrag: Graf Ernst als Repräsentationskirche in seiner selbstgewählten Residenz
+  superlativ: "einer der wichtigsten frühprotestantischen Kirchenneubauten im nordeuropäischen Raum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Jagdschloss Baum
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Staunen-und-Erleben/Historisches-Weserbergland | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Schaumburger Wald
+EIGENSCHAFTEN:
+  erbaut_von: Graf Wilhelm zu Schaumburg-Lippe
+  erbaut_von_ehefrau: Gräfin Marie Barbara Eleonore
+  erbaut_leben: bewohnt
+  erbaut_leben_zeitraum: 1724-1777 und 1744-1776
+  charakterisierung: Kleinod im Schaumburger Wald
+  besonderheit: Grabpyramide der gräflichen Familie im Schaumburger Wald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: initiative
+BEZEICHNUNG: Historisches Weserbergland
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg/Historisches-Weserbergland | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 2012
+  träger: Weserbergland Tourismus e.V.
+  umfang_historische_städte: 16
+  umfang_historische_stätten: 11
+  ziel: Marketing-Projekt zur Aufarbeitung von Geschichte und Kultur
+  besonderheit: in Deutschland einzigartig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtrundgang
+BEZEICHNUNG: Historischer Stadtrundgang
+QUELLE: https://www.bueckeburg.de/de/Tourismus-Kultur/Historische-Residenzstadt-Bueckeburg/Historisches-Weserbergland | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_gebäude: 14
+  dauer: 60
+  einheit_dauer: Minuten
+  gehzeit: rein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Sablé-sur-Sarthe
+QUELLE: https://www.bueckeburg.de/de/Leben-in-Bueckeburg/Historische-Residenzstadt-Bueckeburg/Partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft_seit: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Nieuwerkerk aan den Ijssel / Zuidplas
+QUELLE: https://www.bueckeburg.de/de/Leben-in-Bueckeburg/Historische-Residenzstadt-Bueckeburg/Partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Niederlande
+  partnerschaft_seit: 1974
+  ursprünglicher_name: Nieuwerkerk aan den Ijssel
+  fusion_zu: Zuidplas
+  fusion_jahr: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Elvas
+QUELLE: https://www.bueckeburg.de/de/Leben-in-Bueckeburg/Historische-Residenzstadt-Bueckeburg/Partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Portugal
+  verhandlungen_beginn: 2021
+  grund: militärische, architektonische und menschliche Beziehung von Graf Wilhelm zu Schaumburg-Lippe mit Portugal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: militärische_einrichtung
+BEZEICHNUNG: Internationales Hubschrauberausbildungszentrum
+QUELLE: https://www.bueckeburg.de/de/Leben-in-Bueckeburg/Historische-Residenzstadt-Bueckeburg/Bundeswehrstandort | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Achum
+EIGENSCHAFTEN:
+  adresse: Achumer Straße 1
+  ist_heimat: Heeresfliegertruppe
+  charakterisierung: modernste Hubschrauberschule Europas
+  superlativ: "modernste Hubschrauberschule Europas"
+  personal: 1600
+  personal_zusammensetzung: Soldaten, zivile Mitarbeiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

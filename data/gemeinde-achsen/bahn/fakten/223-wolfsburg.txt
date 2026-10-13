@@ -1,0 +1,254 @@
+ID: 223-wolfsburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Wolfsburg
+QUELLE: https://www.wolfsburg.de/wirtschaft/wirtschaften-und-investieren/standortkennzahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahrhundert: 20
+  einwohnerzahl: 125244
+  stadt_und_ortsteile: 40
+  rangliste_groesste_staedte_niedersachsen: 5
+  oberzentrum: true
+  metropolregion: Hannover-Braunschweig-Göttingen-Wolfsburg
+  verkehrsanbindung_autobahn: A39 (A2)
+  nahverkehr_bahn: ICE-Bahnhof vorhanden
+  binnenschiff: Zugang Mittellandkanal
+  flughafen: Braunschweig/Wolfsburg
+  stammsitz_unternehmen: Volkswagen AG
+  superlativ_stadtgruendung: eine der jüngsten Stadtgründungen Europas
+  superlativ_wirtschaft: zweitdynamischste und wirtschaftlich stärkste Stadt Deutschlands
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 223-wolfsburg/002
+ENTITÄT: ort
+BEZEICHNUNG: Wolfsburg
+QUELLE: https://www.wolfsburg.de/rathaus/bekanntmachungen/daten-und-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 125244
+  stadt_und_ortsteile: 40
+  rangliste_groesste_staedte_niedersachsen: 5
+  rangliste_zukunftschancen_deutschland: 5
+  superlativ_ingenieurquote: hoechste Deutschland
+  superlativ_fud_beschaeftigte: hoechste Deutschland
+  pro_kopf_einkommen: eines der hoechsten Deutschland
+  einzelhandelskaufkraft_kennziffer: 106.5
+  einzelhandelskaufkraft_euro: 758300000
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 223-wolfsburg/003
+ENTITÄT: ort
+BEZEICHNUNG: Wolfsburg
+QUELLE: https://www.wolfsburg.de/wirtschaft/wirtschaften-und-investieren/standortkennzahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sozialversicherungspflichtig_beschaeftigte: 118922
+  wohnimmobilien_rendite_risiko_ranking_2016: 1
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 223-wolfsburg/004
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Wolfsburg
+QUELLE: https://www.wolfsburg.de/kultur/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: 700
+  alter_unit: Jahre
+  funktion: Museum (Stadtmuseum)
+  beschreibung: zeigt Wolfsburgs einzigartige Geschichte
+  superlativ: bedeutendstes historisches Gebäude (mit Burg Neuhaus und Schloss Fallersleben)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 223-wolfsburg/005
+ENTITÄT: museum
+BEZEICHNUNG: Hoffmann-von-Fallersleben-Museum
+QUELLE: https://www.wolfsburg.de/kultur/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Geschichte des Dichters der Nationalhymne
+  interaktiv: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 223-wolfsburg/006
+ENTITÄT: institution
+BEZEICHNUNG: Institut für Zeitgeschichte und Stadtpräsentation (IZS)
+QUELLE: https://www.wolfsburg.de/kultur/geschichte/izs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgaben: Archivprogramme, Geschichtsvermittlung, Forschung, Dokumentation
+  adresse: Goethestraße 10a Eingang C, 38440 Wolfsburg
+  gebaeude: Goetheschule
+  telefon: 05361 27-5730
+  email: izs-stadtarchiv@stadt.wolfsburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 223-wolfsburg/007
+ENTITÄT: archive
+BEZEICHNUNG: Stadtarchiv Wolfsburg
+QUELLE: https://www.wolfsburg.de/kultur/geschichte/izs/stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1976
+  gruendungsart: institutionell
+  ueberlieferungsschwerpunkt: Schriftgut der Stadtverwaltung nach 1945
+  eingemeindete_ortsteile: 20
+  eingemeindung_jahr: 1972
+  bestaende_akten: 16000
+  bestaende_akten_unit: ca. Akten
+  bestaende_karten_plaene: 7000
+  bestaende_karten_plaene_unit: ca. Karten und Pläne
+  gesamtumfang: 1.4
+  gesamtumfang_unit: Regalkilometer
+  fachbibliothek_bestaende: 5500
+  fachbibliothek_bestaende_unit: Bände
+  sammlungen_film: true
+  sammlungen_video: true
+  sammlungen_digital: true
+  sammlungen_nachlaesse: true
+  sammlungen_zeitungen_mikroverfilmt: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 223-wolfsburg/008
+ENTITÄT: institution
+BEZEICHNUNG: Geschichtswerkstatt (Institut für Zeitgeschichte und Stadtpräsentation)
+QUELLE: https://www.wolfsburg.de/kultur/geschichte/izs/geschichtswerkstatt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1999
+  gruendungsart: Ratsbeschluss
+  angegliedert_an: Stadtarchiv
+  fokus: Nationalsozialistisches, Gründerzeit, Stadtgeschichte
+  verstaendnis: Bildungszentrum
+  status: außerschulischer Lernort
+  modell_geschichtsdidaktik: Ran an die Quellen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 223-wolfsburg/009
+ENTITÄT: ausstellung
+BEZEICHNUNG: Dokumentation über die Opfer der nationalsozialistischen Gewaltherrschaft
+QUELLE: https://www.wolfsburg.de/kultur/geschichte/izs/geschichtswerkstatt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Giebelhaus der Schlossremise
+  themenschwerpunkt: Rüstungsproduktion und Zwangsarbeit im Volkswagenwerk
+  zeitraum: 1939-1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 223-wolfsburg/010
+ENTITÄT: kunstausstellung
+BEZEICHNUNG: Konzern (Kunstwerk Andreas von Weizsäcker)
+QUELLE: https://www.wolfsburg.de/kultur/geschichte/izs/geschichtswerkstatt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Andreas von Weizsäcker
+  eingliederung: 2008
+  anzahl_frottagen: 10
+  thema: Botschaften ehemaliger sowjetischer Zwangsarbeiter
+  dokumentation_medium: Frottagen auf Baumrinden
+  zeitperiode_botschaften: vor oder kurz nach Ende Zweiter Weltkrieg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 223-wolfsburg/011
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: KZ-Außenlager Laagberg
+ORTSTEIL_BEZUG: Laagberg
+QUELLE: https://www.wolfsburg.de/kultur/geschichte/izs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: Opfer des Nationalsozialismus
+  bildungsauftrag: Bewusstsein für Toleranz und Menschlichkeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 223-wolfsburg/012
+ENTITÄT: burg
+BEZEICHNUNG: Burg Neuhaus
+QUELLE: https://www.wolfsburg.de/kultur/geschichte/burgen-und-schloesser/burg-neuhaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: eine der am besten erhaltenen Burgen Norddeutschlands
+  superlativ_historisch: bedeutendstes historisches Gebäude (mit Schloss Wolfsburg und Schloss Fallersleben)
+  museum_eroeffnung: 1986
+  museum_groesse: 48
+  museum_groesse_unit: qm
+  museum_standort: Rundturm
+  betreuung_seit: 2003
+  betreuung_monat_seit: August
+  betreuungsform: ehrenamtlich
+  betreuer: Freundeskreis Burg Neuhaus e. V.
+  mittelalterlicher_ursprung: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 223-wolfsburg/013
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Fallersleben
+QUELLE: https://www.wolfsburg.de/kultur/geschichte/burgen-und-schloesser/burg-neuhaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: bedeutendstes historisches Gebäude (mit Burg Neuhaus und Schloss Wolfsburg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 223-wolfsburg/014
+ENTITÄT: institution
+BEZEICHNUNG: Stadtteilmütter-Programm
+QUELLE: https://www.wolfsburg.de/leben/familie/stadtteilmuetter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: interkulturelle Familienbildung
+  zielgruppe: junge Migrantinnen mit Kindern
+  ziel: Qualifizierung zur Kulturvermittlerin
+  funktion: Brücke zwischen Eltern mit Zuwanderungsgeschichte und pädagogischen Einrichtungen
+  einsatzbereiche: Kindertagesstätten, Familienzentren, Schulen
+  schulungsdauer: ein Schuljahr
+  praxistag_frequenz: woechtlich
+  stammtisch: ja
+  stammtisch_zeit: Mittwoch 10:00-12:00
+  kinderbetreuung_waehrend_unterricht: kostenlos
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 223-wolfsburg/015
+ENTITÄT: sportstaette
+BEZEICHNUNG: EisArena Wolfsburg
+QUELLE: https://www.wolfsburg.de/sport | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Eislaufanlage
+  angebot: Eislaufen, Eisdisco
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 223-wolfsburg/016
+ENTITÄT: badeanlagen
+BEZEICHNUNG: BadeLand
+QUELLE: https://www.wolfsburg.de/sport | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Badeanlagen
+  badtypen: Hallenbad und Freibad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 223-wolfsburg/017
+ENTITÄT: sport_event
+BEZEICHNUNG: UEFA Women's EURO 2029
+QUELLE: https://www.wolfsburg.de/en-us/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Fussball-Europameisterschaft
+  rolle_wolfsburg: offizieller Austragungsort
+  wiederholung: erneut Schauplatz hochklassigen Frauenfußballs auf internationaler Bühne
+GUELTIG_AB: 2029
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 223-wolfsburg/018
+ENTITÄT: person
+BEZEICHNUNG: Jens Hofschröer
+QUELLE: https://www.wolfsburg.de/en-us/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position_wolfsburg: Oberbürgermeister
+  neue_position: Oberbürgermeister der Heimatstadt Lingen
+  verstaendnis: Rückkehr zur Heimatstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

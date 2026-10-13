@@ -1,0 +1,643 @@
+ZIELORT: Rheda-Wiedenbrück (Stadt)
+LAGE: 9 km südwestlich von Gütersloh (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Rheda-Wiedenbrück
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 47.935  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 86,72  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 553  [berechnet aus Einwohner und Fläche]
+  kfz: GT (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 72  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2847690)]
+  naechste_grossstadt: Gütersloh, 9 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 126 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Rheda-Wiedenbrück, Bahnhof Rheda-Wiedenbrück Süd  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 33378  [Wikidata P281]
+  vorwahl: 05242  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35 %, SPD 17,1 %, AfD 16,3 %, GRÜNE 11,9 %, Die Linke 6,8 %, FDP 5 %; Wahlbeteiligung 82,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Theo Mettenborg (CDU {{Internetquelle |autor=Stadt Rheda-Wiedenbrück > Der Bürgermeister |url=https://www.rheda-wiedenbrueck.de/rathaus/politik-verwaltung/buergermeister/ |titel=Rathaus > Politik & Verwaltung > Bürgermeister |abruf=2020-05-06 |zitat=Bürgermeister mit den Funktionen Vorsitzender des Rates und Leiter der Verwaltung}}) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Oldenzaal, Palamós  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Einwohner je Quadratkilometer), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Oelde (Stadt)
+  einwohner: 29.961  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 102,77  [Wikidata P2046; Altbestand staedte.json]
+  hoehe_m: 90  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2857943)]
+  naechste_grossstadt: Gütersloh, 18 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Oelde  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 36,8 %, SPD 18,2 %, AfD 15,9 %, GRÜNE 11,4 %, Die Linke 6,3 %; Wahlbeteiligung 86 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  kfz: UN (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Rheda-Wiedenbrück):
+ID: 207-rheda-wiedenbrueck/001
+ENTITÄT: ort
+BEZEICHNUNG: Rheda-Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 50000
+  fläche: 86.6 qkm
+  gründungsjahr_moderne_stadt: 1970
+  zusammenschluss_komponenten: Städte Rheda und Wiedenbrück sowie Gemeinden Batenhorst, Lintel, Nordrheda-Ems und St. Vit
+  geschichte_alter: über 1000 Jahre
+  lage: Doppelstadt an der Ems
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/002
+ENTITÄT: ort
+BEZEICHNUNG: Rheda-Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmäler_registriert: 300
+  fachwerkhäuser: viele Straßenzüge im historischen Stadtkern Wiedenbrück
+  historische_ensembles: Altstadt Rheda zwischen Doktorplatz und Widumstraße
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/003
+ENTITÄT: ort
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstwähnung_wiedenbrück: vor über 1000 Jahren
+  Kaiser_Otto_I_privileg: Münz-, Markt- und Zollrechte für Bischof Drogo von Osnabrück
+  ersturkunde_rheda: 1088
+  ältestes_fachwerkhaus_Jahr: 1549
+  denkmalgeschützte_gebäude: über 200
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/004
+ENTITÄT: kunstrichtung
+BEZEICHNUNG: Wiedenbrücker Schule
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werkstätten_anzahl: ca. 30
+  periode: 20. Jahrhundert (vergangenes Jahrhundert)
+  schwerpunkt: Kunstwerke für Gotteshäuser weltweit
+  verbreitung: Stadt und Gesellschaft prägend
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 207-rheda-wiedenbrueck/005
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Germania
+ORTSTEIL_BEZUG: Fichtenbusch
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Stein
+  künstler_schule: Wiedenbrücker Schule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 207-rheda-wiedenbrueck/006
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Betender Landmann
+ORTSTEIL_BEZUG: Marktplatz Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Stein
+  künstler_schule: Wiedenbrücker Schule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 207-rheda-wiedenbrueck/007
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Flora
+ORTSTEIL_BEZUG: Rosengarten
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Hubert Hartmann
+  material: Bronze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/008
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Ehrenmal
+ORTSTEIL_BEZUG: Kirchplatz
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Hubert Hartmann
+  material: Bronze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/009
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Historisches Stadtmodell
+ORTSTEIL_BEZUG: Marktplatz Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Bernhard Vielstädte
+  material: Bronze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/010
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Garnspinnerfamilie
+ORTSTEIL_BEZUG: Flora-Park
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Dr. Wilfried Koch
+  material: Bronze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/011
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Werke in Edelstahl
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Hans Klasmeier
+  künstler_ortsteil: Lintel
+  material: Edelstahl
+  verbreitung: zahlreich in der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 207-rheda-wiedenbrueck/012
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Alte Ziegelei Eusterbrock
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stomberger Straße
+  typ: Industriedenkmal
+  bedeutung: Blick in wirtschaftliche Geschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 207-rheda-wiedenbrueck/013
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Brennerei Hagedorn
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Industriedenkmal
+  beschreibung: prägende Baut mit Blick in wirtschaftliche Geschichte
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 207-rheda-wiedenbrueck/014
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Brennerei Pott-Hartwig
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Industriedenkmal
+  beschreibung: prägende Baut mit Blick in wirtschaftliche Geschichte
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 207-rheda-wiedenbrueck/015
+ENTITÄT: museum
+BEZEICHNUNG: Museum Wiedenbrücker Schule
+ORTSTEIL_BEZUG: Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/museen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hoetger Gasse 1, Wiedenbrück
+  telefon: 05242 3785526
+  schwerpunkt: Ursprünge und Werke der Wiedenbrücker Schule, Historismus
+  ausstellung_obergeschoss: Stilvielfalt des Historismus
+  ausstellung_dachgeschoss: Wiedenbrücker Stadtgeschichte mit archäologischen Funden von Steinzeit bis Neuzeit
+  gebäudegeschichte: ehemaliges Wohnhaus bedeutender Altarbauer mit angeschlossener Altarwerkstatt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/016
+ENTITÄT: museum
+BEZEICHNUNG: Leinewebermuseum
+ORTSTEIL_BEZUG: Rheda
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/museen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kleinestraße 11, Rheda
+  telefon: 05242 47335
+  betreiber: Familie Blomberg
+  betreiber_status: privat geführt
+  sammlungen: Handwerksgeräte zur Flachsverarbeitung, funktionstüchtige Webstühle, Wäsche- und Trachtensammlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/017
+ENTITÄT: museum
+BEZEICHNUNG: Kutschenmuseum
+ORTSTEIL_BEZUG: Rheda
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/museen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Steinweg 2, Rheda
+  telefon: 05242 94710
+  betreiber: Fürstlich zu Bentheim-Tecklenburgische Kanzlei
+  sammlung_charakterisierung: zu den Besten ihrer Art
+  sammlung_zeitspanne: Gebrauchskutschen aus drei Jahrhunderten
+  sammlungen: Vis-à-Vis, Berliner Coupé, Landauer, Reise-Chaise, Schlitten, Kinderkutschen, historische Feuerspritze, Pferdesskelett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/018
+ENTITÄT: museum
+BEZEICHNUNG: Radio- und Telefonmuseum
+ORTSTEIL_BEZUG: St. Vit
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/museen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Eusterbrock Straße 44, St. Vit
+  telefon: 05242 44330
+  betreiber: Richard Kügeler
+  betreiber_status: privat
+  unterkunft: alter Bunker
+  sammlungen: Radios, Röhren, Fernseher, Tonbandgeräte, Telefone, Funktechnik, Fernscheiben
+  besonderheit: Nachbildung von Wohnzimmerszenen aus den 30er, 50er, 60er und 70er Jahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/019
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Alte Ziegelei
+ORTSTEIL_BEZUG: Wiedenbrück-St. Vit
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/museen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Stromberger Straße 55, Wiedenbrück-St. Vit
+  telefon: 05242 36231
+  betreiber: Familie Eusterbrock
+  bauzustand: hervorragend, könnte noch heute in Betrieb genommen werden
+  material: typisch westfälische Ziegelei
+  besonderheit: begehbarer und besichtigbarer Ringofen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/020
+ENTITÄT: tradition
+BEZEICHNUNG: Karneval
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gesellschaften_anzahl: 3
+  gesellschaften_namen: K.G. HELÜ, WCV Grüne Funken in Wiedenbrück, CVR Blaue Funken in Rheda
+  jahresbeginn_saison: 11. November
+  aktivitäten: Prunksitzungen, Wagenbau für Rosenmontagsumzug, Besuche bei befreundeten Vereinen
+  hauptereignis: Rosenmontagsumzug mit Straßenkarneval
+  charakterisierung: närrischer Lindwurm mit Kostümierten, Themenwagen und Musikkappellen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/021
+ENTITÄT: tradition
+BEZEICHNUNG: Prozessionen
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch geprägt
+  anlässe: Christi Himmelfahrt, Fronleichnam
+  teilnehmer_struktur: vier Ämter (Krameramt, Lederamt, Schreineramt, Schmiedeamt)
+  teilnehmer_geschlecht: männlich
+  kleidung: schwarzer Anzug und schwarzer Hut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/022
+ENTITÄT: tradition
+BEZEICHNUNG: Kreuztracht
+ORTSTEIL_BEZUG: Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Franziskanuskloster
+  tag: Karfreitag
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/023
+ENTITÄT: tradition
+BEZEICHNUNG: Sternsingertradition
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tag: Dreikönigstag (6. Januar)
+  teilnehmer: jugendliche Sternsinger
+  ritual: Hausbesuch mit Segnung (C+M+B)
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/024
+ENTITÄT: tradition
+BEZEICHNUNG: Laternenumzug Martinstag
+ORTSTEIL_BEZUG: Rheda
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tag: erstes Samstag im November
+  teilnehmer: mehrere hundert Kinder
+  legende_bezug: Heiliger Martin teilt Mantel mit Bettler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/025
+ENTITÄT: tradition
+BEZEICHNUNG: Osterfeuer
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tag: Ostersonntag
+  ursprung: vorchristlich (Sonnenfeuer gegen Winter), später christlich übernommen
+  verbreitung: vielerorts in der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 207-rheda-wiedenbrueck/026
+ENTITÄT: tradition
+BEZEICHNUNG: Osternachtssingen
+ORTSTEIL_BEZUG: Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tag: Nacht zu Ostern
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/027
+ENTITÄT: kulturform
+BEZEICHNUNG: Schützenwesen
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anerkennung: UNESCO Immaterielles Kulturerbe 2015
+  funktion: lokale Identität
+  vereinszahl: 4 traditionsreiche Vereine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/028
+ENTITÄT: verein
+BEZEICHNUNG: Schützenverein zu Rheda
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1833
+  aktivität: Schützenfeste (zweites Juni-Wochenende), Königsschießen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/029
+ENTITÄT: verein
+BEZEICHNUNG: St. Sebastian Bürgerschützenverein Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1492
+  aktivität: Schützenfeste (erstes August-Wochenende), Königsschießen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/030
+ENTITÄT: verein
+BEZEICHNUNG: Bauernschützen – Schützenverein der Landgemeinde Rheda
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1887
+  aktivität: Schützenfeste (drittes August-Wochenende), Königsschießen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/031
+ENTITÄT: verein
+BEZEICHNUNG: St. Hubertus Schützenbruderschaft Batenhorst
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1848
+  aktivität: Schützenfeste (drittes Juli-Wochenende), Königsschießen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/032
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Christkindlmarkt Wiedenbrück
+ORTSTEIL_BEZUG: Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Marktplatz Wiedenbrück
+  dauer: über vier Wochen
+  infrastruktur: Weihnachtsorgel, Kinder-Karussell, Weihnachtspyramide, Weihnachtsbaum
+  finale_ritual: Turmbläser vom Turm der St. Aegidius-Kirche am Abend
+  bewertung: gehört zu den schönsten Weihnachtsmärkten in ganz Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/033
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Adventskrämchen
+ORTSTEIL_BEZUG: Rheda
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/brauchtum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitfenster: erstes Mittwoch im Dezember bis folgender Sonntag
+  standort_ab_2021: Doktorplatz Rheda
+  art: Adventsmarkt
+  stände_anzahl: ca. zwei Dutzend
+  charakterisierung: klein, kuschelig, sehr familiär
+  ritual: tägliches gemeinsames Singen um 21 Uhr
+  kirche_nutzung: zur Andacht und Besinnung geöffnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/034
+ENTITÄT: ort
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/hansestadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hansestadt_status: Mitglied Internationale Hanse seit 2008, Westfälische Hanse seit 2018
+  hansegeschichte: Wiedenbrück war Beistadt zu Osnabrück in Hansezeit
+  hansehaus_name: Haus Ottens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/035
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Hansehaus Ottens
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/hansestadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1635
+  erbauer: Stadtkämmerer und Tuchhändler Tecklenborg
+  alter: eines der ältesten Fachwerkhäuser der Stadt
+  historische_bedeutung: aus Hansezeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/036
+ENTITÄT: person_historisch
+BEZEICHNUNG: Bernhard II., Burgherr der Wasserburg Rheda
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/hansestadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1140-1224
+  titel: Bischof von Semgalen (südlicher Teil des heutigen Lettlands)
+  wirkung: Entwicklung des Baltikums, Gründung von Hansestädten
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1140
+GUELTIG_BIS: 1224
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 207-rheda-wiedenbrueck/037
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schloss Rheda / Wasserburg Rheda
+ORTSTEIL_BEZUG: Rheda
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/fuerstenstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Wasserburg und Adelssitz
+  erste_erwähnung: 1170 (Widukind von Rheda als Burgherr)
+  ausbau_beginn: ca. 1170
+  turm_origin: mächtiger Turm um 1180
+  bewohner_1190_bis_1491: Edelherren zur Lippe (ab 1190 nach Tod Widukinds)
+  bewohner_1491_bis_1557: Grafen von Tecklenburg
+  bewohner_ab_1557: Grafen von Bentheim (durch Heirat Anna und Everwin III.)
+  residenz_ab_1757: gräfliche Dauerresidenz
+  residenz_status_ab_1817: fürstliche Residenz (nach Wiener Kongress, Familie in Fürstenstand erhoben)
+  barocktrakt_baujahr: 1745-1754 mit Rokokofestsaal
+  brandereignis: 1718 Schlossbrand
+  aktuelle_nutzung: Wohnsitz Familie Fürst zu Bentheim-Tecklenburg-Rheda
+  museum_teile: teilweise als Museum zugänglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/038
+ENTITÄT: person_historisch
+BEZEICHNUNG: Widukind von Freckenhorst / Rheda
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/fuerstenstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Vogt von Rheda, später Burgherr
+  erste_erwähnung: 1170
+  gründung_kloster: 1185 Gründer des Klosters Marienfeld
+  kreutzug: starb 1190 auf Kreuzzug Barbarossas bei Belagerung von Accon
+GUELTIG_AB: 1170
+GUELTIG_BIS: 1190
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 207-rheda-wiedenbrueck/039
+ENTITÄT: kunstprojekt
+BEZEICHNUNG: Stolpersteine
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/stolpersteine/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Gunter Demnig
+  anzahl: 47
+  zweck: Erinnerung an Opfer der NS-Zeit an ihrem letzten frei gewählten Wohnsitz
+  dokumentation: 48-seitige Broschüre (2018 anlässlich 80. Jahrestag Pogromnacht 9.11.1938)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/040
+ENTITÄT: bauwerk
+BEZEICHNUNG: Aegidiuskirche / St. Aegidius-Kirche
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstellung_querschiff: ca. 1260
+  gründung_kirchenort: vermutlich 785
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 785
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 207-rheda-wiedenbrueck/041
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Gymnasium Marianum
+ORTSTEIL_BEZUG: Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Lateinschule
+  gründung: 1637
+  bestand_bis: 1832
+GUELTIG_AB: 1637
+GUELTIG_BIS: 1832
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/042
+ENTITÄT: ort_stadtkern
+BEZEICHNUNG: Historischer Stadtkern Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/historische-stadtkerne/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  struktur_erhalt: historische Struktur mit engen Gassen und kleinteiligen Parzellen weitgehend erhalten
+  bebauung: Ackerbürger-, Handwerker- und Handelshäuser
+  mitgliedschaft: Arbeitsgemeinschaft Historische Stadt- und Ortskerne in NRW
+  ag_kommunen_gesamt: 56 Kommunen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/043
+ENTITÄT: ort_stadtkern
+BEZEICHNUNG: Historischer Stadtkern Rheda
+ORTSTEIL_BEZUG: Rheda
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/historische-stadtkerne/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handwerkstradition: Leineweber
+  verlust_modernisierung: nördliche Hälfte in 60er und 70er Jahren modernisiert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 207-rheda-wiedenbrueck/044
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Relief auf dem Doktorplatz
+ORTSTEIL_BEZUG: Rheda (Doktorplatz)
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/historische-stadtkerne/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Felix Brörken aus Soest
+  besonderheit: für nicht-sehende Menschen mit Blindenschrift
+  material: Zinnbronze (Wachsausschmelzverfahren)
+  gewicht: ca. 90 kg
+  größe: 160 x 112 cm
+  sockel: Granit
+  grundlage: Stadtgrundriß-Karte Mitte 19. Jahrhundert und Bürgerbuch von 1663
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/045
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Stadtmodell auf dem Marktplatz
+ORTSTEIL_BEZUG: Wiedenbrück (Marktplatz)
+QUELLE: https://www.rheda-wiedenbrueck.de/freizeit-tourismus/historisches-rhwd/historische-stadtkerne/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Hans-Bernhard Vielstädte nach Entwurf von Ernst Joseph Weber
+  material: Bronze
+  modell_historischer_bezug: 1647
+  enthüllung: Juni 2006
+  stifter: Franz-Josef Krane
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 207-rheda-wiedenbrueck/046
+ENTITÄT: sanierungsgebiet
+BEZEICHNUNG: Historischer Stadtkern Wiedenbrück und Erweiterungsbereich
+QUELLE: https://www.rheda-wiedenbrueck.de/serviceportal/ortsrecht/5.9-sanierungsgebiet-historischer-stadtkern-wiedenbrueck.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 64.7 ha
+  satzung_verabschiedung: 26.09.2022
+  satzung_inkrafttreten: 05.05.2023
+  umsetzungszeitraum: bis 2034
+  verfahren: vereinfachtes Sanierungsverfahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/047
+ENTITÄT: veranstaltungsort
+BEZEICHNUNG: Stadthalle Rheda-Wiedenbrück
+QUELLE: https://www.rheda-wiedenbrueck.de/kunst-kultur/stadthalle/ueber-uns/anfahrt-parken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hauptstraße 120, 33378 Rheda-Wiedenbrück
+  telefon: 05242 9301-0
+  location_beschreibung: zwischen den beiden Stadtteilen Rheda und Wiedenbrück, direkt am Flora-Westfalica-Park
+  kapazität_max: bis 1600 Besucher
+  kapazität_min: 400 Gäste
+  betreiber: Flora Westfalica GmbH
+  parkplätze: 180 direkt an Stadthalle
+  barrierfreiheit: Parkplätze für Menschen mit Handicap, barrierefreie Zugänge
+  nahverkehr_linie: Linie 70 bis Haltestelle Stadthalle
+  entfernung_bahnhof_fußweg: ca. 25 Minuten durch Flora-Westfalica-Park
+  flughäfen_umkreis: Paderborn/Lippstadt 56 km, Münster/Osnabrück 63 km, Dortmund 65 km, Hannover 145 km, Düsseldorf 145 km
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 207-rheda-wiedenbrueck/048
+ENTITÄT: park
+BEZEICHNUNG: Flora Westfalica
+QUELLE: https://www.rheda-wiedenbrueck.de/kunst-kultur/stadthalle/ueber-uns/anfahrt-parken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: ehemaliges Gelände der Landesgartenschau
+  lage: zwischen Rheda und Wiedenbrück
+  funktion: Fußweg zur Stadthalle vom Bahnhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

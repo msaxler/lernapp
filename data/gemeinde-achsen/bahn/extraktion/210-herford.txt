@@ -1,0 +1,772 @@
+ENTITÄT: ort
+BEZEICHNUNG: Herford
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: im ravensbergisch-lippischen Hügellandes zwischen Teutoburger Wald und Wiehengebirge, am Zusammenfluss von Werre und Aa
+  namensherkunft: Heeresfurt, benannt nach den strategisch vorteilhaften natürlichen Flussübergängen
+  charakterisierung: eine der ältesten Städte Westfalens
+  siedlungsgeschichte_seit: Jungsteinzeit
+  siedlungsgrund: überflutungsfreie Geländeterrassen in Nähe von überlebenswichtigem Wasser, verkehrstechnisch und strategisch günstig an Schnittpunkt alter Heer- und Handelstraßen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Herford
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtteile: Altstadt, Radewig, Neustadt, Stiftberg
+  stadt_gründung_mittelalter: bis Ende 12. Jahrhundert aus Kaufleute- und Handwerkersiedlungen
+  befestigung_stadtmauer_laenge: ca. 3,5 km
+  befestigung_anzahl_tuermen: 14
+  befestigung_anzahl_tore: 6
+  befestigung_wall_graben: ja
+  feldflur_groesse: ca. 2.600 ha
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Herford
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Stadt-Mittelalter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hanse_mitgliedschaft_seit: Ende 13. Jahrhundert
+  fernhandel_seit: Ende 13. Jahrhundert
+  rat_groendung: um 1220
+  rat_zusammensetzung_initial: 9 Bürger und 4 Bedienstete des Stiftes
+  ratsherrenliste_alter: zweitälteste für Westfalen überliefert
+  reichskammergerichtsurteil: 1631 Herford als Reichsstadt anerkannt
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1631
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Herford
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Reichsstadt-Landstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Reichsstadt (1631)
+  status: ravensbergische Landstadt (1652)
+  reichskammergerichtsurteil_anerkennung: 1631
+  status_wechsel_grund: Zessionsvertrag 1547, Reformation, Landesherrliche Expansion Brandensburgs
+  intermezzo_dauer: 16 Jahre (1631-1647)
+GUELTIG_AB: 1631
+GUELTIG_BIS: 1652
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Herford
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/1600-1800-Jahrhundert/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: ravensbergische Landstadt
+  gründung_garnison: 1713
+  garnison_urheber: Friedrich Wilhelm I. (Soldatenkönig)
+  akzise_einführung: 1719
+  schulden_mitte_17jh: ca. 150.000 Taler
+  brand_1638: ja
+  dreissigjähriger_krieg: 1618-1648
+  kriegsfolgen: Archivteile nach Berlin überführt
+  siebenjähriger_krieg: 1756-1763
+  kriegsschaden_geschaetzt: ca. 100.000 Taler
+  französische_besatzung: ja
+  bevölkerung_berufszweige_ende_18jh: über 30
+  kaufleute_handwerker_ende_18jh: ca. 310
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Herford
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Neues-von-Gestern/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuch_konrad_adenauer: 11. September 1961
+  adenauer_besuchszahl: 2. Besuch (erster 1961)
+  adenauer_anlass: Wahlkampf-Reise zur Bundestagswahl
+  adenauer_wetter: schlechter mit anhaltendem Regen
+  adenauer_zuschauer: Tausende auf dem Rathausplatz
+  empfänger_oberbürgermeister: Kurt Schober
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: königshof
+BEZEICHNUNG: Adonhusa (Odenhausen)
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: zwischen Steinstraße, Steintorwall und Aa
+  ausbauzeitraum: unter Karl dem Großen (747-814)
+  funktion: strategisch wichtiger Königshof
+  rechte: Markt-, Münz- und Zollrecht (verliehen)
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Reichsstift Herford
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründer: Waltger (sächsischer Adliger)
+  gründung_jahr: 789
+  lage: gegenüberliegende Aa-Seite, zwischen heutigem Rathaus und Münsterkirche
+  übergabe_an_kaiser_ludwig_frommen: 823
+  umwandlung: zum Reichsstift ausgebaut
+  umwallung: schützende Umwallung angelegt
+  zugang: im Bereich der heutigen Straße Mausefalle
+  auflösung: 1802
+GUELTIG_AB: 789
+GUELTIG_BIS: 1802
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchliche_einrichtung
+BEZEICHNUNG: Stiftberg (Konvent auf dem Berg)
+ORTSTEIL_BEZUG: Stiftberg
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründer: Äbtissin Gotesda
+  gründung_jahr: 1011
+  lage: Luttenberg, jenseits der Stadtmauer
+  funktion: Tochterkonvent des Reichsstiftes
+  bewohnerinnen: Töchter des niederen Adels
+  religionswechsel: 1548 evangelisch
+  namensursprung: nach Stiftberg benannt
+GUELTIG_AB: 1011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Johanniskirche
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: gotisch
+  gründung: 1224
+  ort: Neustadt
+  funktion: Mittelpunkt der Neustadt zusammen mit Neuem Markt
+GUELTIG_AB: 1224
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Jakobi (Pilgerkirche)
+ORTSTEIL_BEZUG: Radewig
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Reformationszeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schließung: Reformation
+  neueröffnung: 1590 als evangelisch-lutherische Gemeindekirche
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: Reformation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Friedrichsgymnasium
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Reformationszeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1540
+  finanzierung: aus Vermögen des Augustinerklosters
+  zusammenlegung_mit: alte Lateinschule an der Münsterkirche
+  lage_original: Brüderstraße
+  abriss: 1972
+  nachfolgenutzung: heute Augustinerplatz an diesem Ort
+GUELTIG_AB: 1540
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Waltger
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: sächsischer Adliger
+  tätigkeit: Klostergründer
+  gründung: Kloster Herford 789
+GUELTIG_AB: 789
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Kaiser Ludwig der Fromme
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit: Übernahme Kloster Herford, Umwandlung zum Reichsstift
+  jahr: 823
+GUELTIG_AB: 823
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Äbtissin Ida
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Stadt-Mittelalter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verzicht_feldflur: 1255 Verzicht auf ca. 2.600 ha Feldflur zugunsten der Stadt
+  vertragsabschluss_burggericht: 1256 Übertragung des Burggericht an Stadt
+GUELTIG_AB: 1255
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Äbtissin Gertrud zur Lippe
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_neustadt: 1224 zusammen mit Erzbischof Engelbert von Köln
+GUELTIG_AB: 1224
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Erzbischof Engelbert von Köln
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_neustadt: 1224 zusammen mit Äbtissin Gertrud zur Lippe
+GUELTIG_AB: 1224
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Äbtissin Gotesda
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_konvent: 1011 Gründung Tochterkonvent auf dem Luttenberg (Stiftberg)
+GUELTIG_AB: 1011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Kaiser Karl IV.
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Stadt-Mittelalter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuch_herford: 1377
+GUELTIG_AB: 1377
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl der Große
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 747-814
+  ausbauzeitraum_königshof: unter seiner Herrschaft wurde Adonhusa zum strategisch wichtigen Königshof ausgebaut
+GUELTIG_AB: 747
+GUELTIG_BIS: 814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jakob Montanus
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Reformationszeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fuehrung_fraterherren: Führte einige Herforder Fraterherren zur lutherischen Lehre
+  jahr: 1523
+GUELTIG_AB: 1523
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Dreier
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Reformationszeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  orden: Augustiner-Eremit
+  rolle: führende Rolle bei Durchsetzung Reformation
+  kirchenordnung: Verfasste Kirchenordnung 1532
+  zeitraum_reformation: bis 1532
+GUELTIG_AB: 1523
+GUELTIG_BIS: 1532
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Äbtissin Anna von Limburg-Styrum
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Reformationszeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  widerstand_reformation: Widerstand gegen Reformation
+  zessionsvertrag: 1547 Abtretung weltlicher Rechte an Herzog von Jülich-Kleve
+  religionsbekenntnis: blieb mit Konvent zunächst katholisch
+  todesjahr: 1565
+GUELTIG_AB: 1523
+GUELTIG_BIS: 1565
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Martin Luther
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Reformationszeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kritik_ablasshandel_jahr: 1517
+  folgen: Spaltung der Kirche in Katholiken und Protestanten
+  auswirkungen_herford: frühe Wirkung der Reformation in Herford
+GUELTIG_AB: 1517
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Wilhelm I. (Soldatenkönig)
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/1600-1800-Jahrhundert/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_garnison: 1713 Ernennung Herfords zur ständigen Garnison
+GUELTIG_AB: 1713
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Wilhelm Schrewe
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/1600-1800-Jahrhundert/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Kaufmann
+  unternehmung: Baumwollspinnerei
+  gründung: 1810
+  lage: in Gebäuden des ehemaligen Reichsstiftes
+  bedeutung: erster Vorbote der Industrialisierung
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Konrad Adenauer
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Neues-von-Gestern/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuch_herford: 11. September 1961
+  titel: Bundeskanzler
+  besuchszahl: zweiter Besuch (erster 1958)
+  anlass: Wahlkampf-Reise zur Bundestagswahl
+  wetter: schlechtes Wetter mit anhaltendem Regen
+  beteiligung_oeffent: Tausende auf dem Rathausplatz
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Kurt Schober
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Neues-von-Gestern/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Oberbürgermeister
+  funktion_adenauer_besuch: Empfang von Adenauer
+  zeitraum: 1961
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: August Viktor Wilhelm Rose
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Über-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Bürgermeister
+  funktion_ab_1828: Kümmerte sich um Archivbestände
+  leistung: Erstellte Verzeichnisse, erweiterte Archivbestände um Abschriften
+GUELTIG_AB: 1828
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gustav Schierholz
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Über-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: ehrenamtlicher Museumsleiter
+  archivpflege_auftrag: 1942 offiziell mit Archivpflege betraut
+GUELTIG_AB: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Dr. Rainer Pape
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Über-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: hauptamtlicher Museumsleiter
+  position_seit: 1958
+  leistung: 1964 bewirkte Rückführung der Archivbestände aus Münster
+  ziel: Errichtung eines Kulturzentrums aus Stadtarchiv, Heimatverein und städtischem Museum
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich-Wilhelm Claßen
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Über-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Archivmitarbeiter
+  eintritt: 1974
+  tätigkeit: Reinigung, Ordnung und Verzeichnung der Archivalien
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Äbtissin Charlotte Sophie von Kurland
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Neues-von-Gestern/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dokument_jahr: 1713
+  dokument_inhalt: Dokument über Eigenbehörige in Eilshausen
+  tinte: eisenvitriolhaltig (verursacht Tintenfraß)
+GUELTIG_AB: 1713
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Meinhard Fenske
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Bestände/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Auftragsfotograf
+  aktiv_zeitraum: 1920er-1940er Jahre
+  region: Raum OWL
+  dokumentation: Leben in der Region
+  anzahl_aufnahmen: 15.000
+  digitalisierung: digitalisiert in Kooperation mit Greven-Stiftung
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archive
+BEZEICHNUNG: Kommunalarchiv Herford
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Archiv der Stadt und des Kreises Herford
+  unterarchive: Gemeindearchiv Hiddenhausen, Stadtarchiv Enger
+  anfänge: um 1220
+  frühe_aufgaben: Sicherung und Aufbewahrung von Dokumenten zur Rechtsicherung (Kaufverträge, Schutzverträge) auf Pergament
+  aufgabenerweiterung_ab_15jh: Akten zu Rechtsgeschäften
+  erste_urkunden: 13. Jahrhundert
+  zuständigkeit_initial: Stadtschreiber
+  standort_modern_seit: 1997 im Alten Kreishaus Amtshausstraße 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes/Historisches Kreishaus
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Über-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Amtshausstraße 2, 32051 Herford
+  baustil: Neorenaissance
+  baubeginn: 1898
+  einweihung: 14. August 1900
+  ursprungszweck: Landratsamt
+  funktion: Arbeitsstätte für Verwaltungsbeamten des Kreises, Sitzungssaal für Kreistag und Kreisausschuss
+  dient_seit_1997: Kommunalarchiv
+  besonderheit: Sitzungssaal, Dienstwohnung des Landrats
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kreis
+BEZEICHNUNG: Kreis Herford
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Über-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1816 mit Verordnung Nr. 119 der königlich-preußischen Regierung
+  kreisverwaltung_gründung: 1. November 1816
+  naturraum: zwischen Wiehengebirge und Teutoburger Wald, Weserbergland
+  ausdehnung_ost_west: 35 km
+  ausdehnung_nord_sued: 23 km
+  flaeche: ca. 450 km²
+  verwaltungseinheiten: 6 Städte (Bünde, Enger, Herford, Löhne, Spenge, Vlotho) und 3 Gemeinden (Hiddenhausen, Kirchlengern, Rödinghausen)
+  geschichtliche_grundlage: Territorien Minden und Ravensberg im Spätmittelalter
+  urspruenge_1811: Gebiete Teil des Kaiserreichs Frankreich
+  neugliederung_ab_1815: nach Ende französischer Herrschaft
+GUELTIG_AB: 1816
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Philipp von Borries
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Über-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Landrat
+  kreis: Bünde
+  ernannungsjahr: 1816
+GUELTIG_AB: 1816
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Haß
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Über-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Landrat
+  kreis: Herford
+  ernannungsjahr: 1816
+GUELTIG_AB: 1816
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Georg von Borries jun.
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Über-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Herforder Landrat
+  dienstwohnung: bezog Dienstwohnung im Landratsamt
+  dienstwohnung_zeitraum: üblich bis in die 40er Jahre des 20. Jahrhunderts
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: restaurant
+BEZEICHNUNG: McDonald's Herford
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Neues-von-Gestern/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 9. Juni 1993
+  lage: Bünder Straße
+  grundstuecksvertrag: Dezember 1991
+  bauantrag: Januar 1992
+  baubeginn: Anfang 1993
+  richtfest: April 1993
+  nutzungsflaeche: 3000 Quadratmeter
+  gelande_vorgänger: ehemalige Fabrik Westfalen-Motors und Parkfläche BSB-Furniere
+  ausstattung_historisch: Rauchen erlaubt, Pflanzen im Inneren, analoge Anzeigetafeln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Firma Rühl
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Neues-von-Gestern/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Bünder Straße 82-102
+  betriebszeitraum: 1928-1981
+  geschaeftsfeld: Ventilatoren- und Apparatebau, Klima-, Wärme-, Filtertechnische Anlagen
+  umbenennung: ab 1971 Rühl Verwaltungsgesellschaft m.b.H.
+  gelande_nachnutzung: Kulturwerk, McDonald's, Fressnapf, Selbstsicherheitsschule Pelikan
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: publikation
+BEZEICHNUNG: Herforder Kreisblatt
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Bestände/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahrgang: 1846-1940
+  digitalisierung: digitalisiert im Rahmen von zeit.punkt NRW
+  zugang: online einsehbar über Projekthomepage
+GUELTIG_AB: 1846
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: publikation
+BEZEICHNUNG: Herforder Zeitung für Stadt und Land
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Bestände/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahrgang: 1883-1910
+  digitalisierung: digitalisiert im Rahmen von zeit.punkt NRW
+  zugang: online einsehbar über Projekthomepage
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Herforder Verein für Heimatkunde / Verein für Herforder Geschichte e.V.
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Über-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreute_institution: Museum
+  leistung_1964: beteiligt an Rückführung der Archivbestände aus Münster
+  umbenennungshistorie: ursprünglich Herforder Verein für Heimatkunde, später Verein für Herforder Geschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Städtisches Museum Herford
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Neues-von-Gestern/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neueröffnung: November 2023
+  dauerausstellung: neue Dauerausstellung
+  eröffnungswochenende: 11. und 12. November 2023
+  begleitende_institutionen: Städtische Musikschule, Arbeitsgruppe Familienforschung Kreis Herford, Kommunalarchiv Herford
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wallpromenade
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: zeigt noch heute die Lage der Befestigungen
+  bezug: Befestigungsring um die Stadt Mitte des 13. Jahrhunderts
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: landwehr
+BEZEICHNUNG: Herforder Landwehr
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: schützende Wallanlage um Feldmarken
+  konstruktion: orientierte sich am natürlichen Gelände, zusätzlich zu Stadtmauer gegen Feinde
+  schutz_gemeinsam_mit: Stadtmauer
+  überwachung: Durchgänge wurden von Bäumerhöfen aus überwacht
+  wegegeld: Bäumer nahmen Wegegeld ein
+  moderne_lage: Heutige Stadtgrenze entspricht teilweise noch dem Verlauf
+  sichtbare_reste: an der Vlothoer Straße noch Reste zu sehen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: baum_historisch
+BEZEICHNUNG: Hillewalserbaum
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Bäumerhof
+  lage: Elverdisser Straße
+  zustand: noch heute stehend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: baum_historisch
+BEZEICHNUNG: Niederbaum
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Bäumerhof
+  lage: Bielefelder Straße
+  zustand: noch heute stehend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wald
+BEZEICHNUNG: Schweichelner Wald
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Kommunalarchiv/Neues-von-Gestern/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  militaer_bedeutung_seit: Gründung der Stadt Herford (mindestens seit 13. Jahrhundert)
+  hoehenzug_funktion: Höhenzug mit militärstrategischer Bedeutung
+  landwehr_13jh: 13. Jahrhundert verlief hier Herforder Landwehr
+  wwii_relevanz: Im zweiten Weltkrieg von Interesse wegen Nähe zur Bahnanlage
+  spekulationen_bunker: Ansicht von verschiedenen Bunkeranlagen (Munitionsbunker, militärische Stellungen, Zivilschutzbunker), regionale Standorte jedoch nicht eindeutig nachweisbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Altstadt
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zentrum: Alter Markt
+  entwicklung: aus Kaufleute- und Handwerkersiedlungen
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Radewig
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwicklung: aus Kaufleute- und Handwerkersiedlungen
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neustadt
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1224 durch Äbtissin Gertrud zur Lippe und Erzbischof Engelbert von Köln
+  zentrum: Johanniskirche und Neuer Markt
+GUELTIG_AB: 1224
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stiftberg
+QUELLE: https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/Anfänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensursprung: nach Konvent auf dem Luttenberg benannt
+  kloster_gründung: 1011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

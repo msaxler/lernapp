@@ -1,0 +1,979 @@
+ZIELORT: Minden (Stadt)
+LAGE: 39 km nordöstlich von Bielefeld (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Minden
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 83.598  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 101,12  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 827  [berechnet aus Einwohner und Fläche]
+  kfz: MI (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 42 | 59 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2871039)]
+  naechste_grossstadt: Bielefeld, 39 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 189 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Minden, Haltepunkt Dankersen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 32423, 32425, 32427, 32429  [Wikidata P281]
+  vorwahl: 05704, 0571, 05734  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: SPD 24,3 %, CDU 23,4 %, AfD 19,9 %, GRÜNE 11,3 %, Die Linke 8,2 %; Wahlbeteiligung 79,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Peter Kock (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-13]
+  partnerstaedte: Gladsaxe Kommune, London Borough of Sutton, Gagny, Charlottenburg-Wilmersdorf, Tangermünde, Hrodna, Wilmersdorf  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Porta Westfalica (Stadt)
+  einwohner: 36.502  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 105,22  [Wikidata P2046; Altbestand staedte.json]
+  kfz: MI (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 70 | 73  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2852577)]
+  naechste_grossstadt: Bielefeld, 35 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Porta Westfalica  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 25,8 %, AfD 23,1 %, SPD 22,7 %, GRÜNE 9,2 %, Die Linke 6,2 %; Wahlbeteiligung 83 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam
+
+FAKTEN (Zielort Minden):
+ID: 214-minden/001
+ENTITÄT: ort
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 798
+  bistum_grindung: 799
+  markt_muenz_zollrecht_verleihung: 977
+  ist_kreisstadt: false
+  ist_hansestadt: true
+  festungsaufhebung: 1873
+  preussischer_regierungsbezirk_seit: 1815
+  sitz_bezirksregierung_bis: 1947
+  mittellandkanal_anbindung: 1915/16
+  ist_1200_jahre_stadt: true
+GUELTIG_AB: 798
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/002
+ENTITÄT: dom
+BEZEICHNUNG: Mindener Dom
+QUELLE: https://www.minden.de/dokumente/broschueren/historischer-spaziergang-ansicht.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 799
+  grinder: Karl der Große
+  zerstoerung_stadtbrand: 1062
+  wiederherstellung: 1071
+  westwerk_zeitraum: 10. Jahrhundert
+  gotische_halle: ab Mitte 13. Jahrhundert
+  zerstoerung_weltkrieg_ii: 1945
+  wiederaufbau: 1948-1957
+  wiederaufbau_architekt: Werner March
+GUELTIG_AB: 799
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/003
+ENTITÄT: museum
+BEZEICHNUNG: Mindener Museum
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1912
+  gruendungsinitiative: Stadt Minden
+  eroeffnung: 22. September 1922
+  standort_ritterstrasse: 23
+  superlativ: ältestes Museum der Region
+  erster_museumsleiter: Max Matthey
+  erster_museumsleiter_amtszeit: über vierzig Jahre
+  grundungsort_frueherer: Körber & Freytag'sche Buchhandlung
+  auftrag: Sammeln, Bewahren, Erforschen und Vermitteln der Objekt- und Bildüberlieferung zur Stadt Minden und zum Kreis Minden-Lübbecke
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/004
+ENTITÄT: person
+BEZEICHNUNG: Max Matthey
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1876
+  todesjahr: 1951
+  rolle: erster ehrenamtlicher Museumsleiter
+  amtszeit_jahre: über vierzig Jahre
+GUELTIG_AB: 1876
+GUELTIG_BIS: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/005
+ENTITÄT: gebaeude
+BEZEICHNUNG: Museumszeile Ritterstraße
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_haeuser: 6
+  baustil: Weserrenaissance
+  baustil_zeitraum: 16. und 17. Jahrhundert
+  denkmalschutz: true
+  beschreibung: herausragendes Gebäudeensemble der Weserrenaissance, originale Bausubstanz mit Stuckornamente, Steinreliefs, Kaminen und Hebewerk aus dem 16. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/006
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Ritterstraße 23
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1565
+  bauweise: Durchfahrtsdiele mit Speichergeschoss
+  ankauf_durch_stadt: 1912
+  zweck_ankauf: Heimatmuseum
+  umbauten: 1946, 1950-1952
+GUELTIG_AB: 1565
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/007
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Ritterstraße 25
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1611
+  urspruengliche_funktion: Nebenhaus des Hauses Nr. 23
+  umbau_zweck_museum: 1950
+  hausgeschichte_unklar: true
+GUELTIG_AB: 1611
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 214-minden/008
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Ritterstraße 27
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr_original: 1572
+  beschaedigung_fliegerbomben: 1945
+  abriss: 1956
+  neubau_jahr: 1959
+  neubau_zweck: Museumszwecke, Museumseingang
+GUELTIG_AB: 1572
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/009
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Ritterstraße 29
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr_original: 1554/1555
+  urspruenglicher_erbauer: Berendt Ellermann
+  bauweise_original: eingeschossig
+  erweiterung_obergeschoss: um 1591
+  umbau_museum: 1975
+GUELTIG_AB: 1554
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 214-minden/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Ritterstraße 31
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1618-1621
+  sanierung_umbau: 1975
+GUELTIG_AB: 1618
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 214-minden/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Ritterstraße 33
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/museumsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kern_zeitbestimmung: 1554
+  kern_bauweise: vermutlich schlichter Fachwerkbau
+  oberes_stockwerk: 1625
+  umbauten_18_19_jhd: Wohnzwecke
+  sanierung: 1953
+  umbau: 1984/1985
+  genauigkeit: vermutlich
+GUELTIG_AB: 1554
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 214-minden/012
+ENTITÄT: strasse
+BEZEICHNUNG: Bäckerstraße
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/pfad-der-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlung_ab: spätes 10. Jahrhundert
+  beschreibung: mittelalterliche Dielenhäuser mit wechselvoller Baugeschichte
+  beschaeftigungen_bewohner: Kaufleute, Handwerker, Gastwirte, Händler
+GUELTIG_AB: 900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bäckerstraße 3
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/pfad-der-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau: um 1810
+  vorgaenger_teil: 15. oder frühen 16. Jahrhundert
+  braurecht: ab 1804
+  erste_nutzung_gaststaette: 1804 ff als Gastwirtschaft
+  schuhgeschaeft_levy: 1919-1938
+  levy_deportation: nach Pogrom 1938
+  arisierung_zwangsverk: 21. September 1938 an Werner Tewes
+  schuhhaus_tewes: 1953-2012
+  reformhaus_ebken: ab 2023
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/014
+ENTITÄT: person
+BEZEICHNUNG: Adolf Levy
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/pfad-der-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1870
+  todesjahr: 1945
+  todesorrt: Manhattan
+  rolle: Kaufmann, Schuhgeschaeftsinhaber
+  schuhgeschaeft: Bäckerstraße 3, 1919-1938
+  arisierung: 21. September 1938
+  emigration: USA
+GUELTIG_AB: 1870
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/015
+ENTITÄT: person
+BEZEICHNUNG: Herbert Levy
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/pfad-der-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1907
+  todesjahr: 1978
+  vater: Adolf Levy
+  deportation: nach Pogromnacht 1938
+  zwangsarbeit: als Maurergehilfe bei verschiedenen Firmen
+  emigration: 1941
+  geschaeft_usa: Schuhgeschaeft mit Ehefrau Ilse
+GUELTIG_AB: 1907
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/016
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bäckerstraße 9
+ORTSTIEL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/pfad-der-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kern_mittelalter: true
+  wiederaufbau_nach_stadtbrand: 1373
+  brand_zerstoerung_vorgaenger: 1372
+  erweiterung_speichergeschoss: 1452
+  beischlagwangen_baujahr: 1530
+  kanalisation_anschluss: 1903
+  fassaden_umgestaltung: 1951
+  durchbau_erdgeschoss: 1991
+GUELTIG_AB: 1373
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/017
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bäckerstraße 12
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/pfad-der-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  linker_teil: um 1820
+  rechter_teil: 1877
+  urspruengliche_nutzung: Fleischerei
+  wurstwarenfabrik: ab 1892
+  schachtmeister: Carl Vogeler
+  betriebsuebername: 1911 Karl Spandau (Schwiegersohn)
+  fleischerei_betrieb_dauer: bis 1986, drei Generationen
+  betriebsverlagerung: Am Rathaus 20
+GUELTIG_AB: 1820
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/018
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bäckerstraße 18
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/pfad-der-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1868
+  erbauer: Heinrich Büchner, Kürschner
+  hinterhaus: 1907
+  konditorei_striaetger: ab 1928, mit Café
+  beschaedigung: 1968 beim Bau Bäckerstraße 20
+  fassaden_erneuerung: 1974
+  tchibo_seit: 1974
+GUELTIG_AB: 1868
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/019
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bäckerstraße 22
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/pfad-der-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1896
+  vorgaenger_zerstoerung: 1895 durch Brand
+  vorgaenger_baujahr: 1764
+  umbauten: 1904, 1914
+  kanalisation_anschluss: 1906
+  denkmalliste_eintrag: 1983
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/020
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bäckerstraße 31/33
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/pfad-der-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1891
+  erbauer: Gebr. Sehlbrede (Hannover)
+  vorgaenger_einsturz_nr_33: 10. September 1890 durch Gasexplosion
+  erste_nutzung: Kolonialwarengeschaeft und Drogerie Harry Sehlbrede
+  likorfabrik_weinhandel: ab 1927, Gebr. Sehlbrede, Inhaber Walter Sehlbrede
+  denkmalliste_eintrag: 1983
+  cafe_fuel_eroeffnung: August 2026
+GUELTIG_AB: 1891
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bäckerstraße 35
+ORTSTEIL_BEZUG: Mindener Innenstadt
+QUELLE: https://www.minden.de/bildung-kultur-sport/mindener-museum/pfad-der-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kern_dielenhaus: Mitte 16. Jahrhundert
+  aufgabe_diele: 1784
+  umgestaltung_etagenwohnhaus: 1784
+  giebel_abtrag: 1894
+  drittes_stockwerk: 1894
+  unterkellern: 1903
+  erweiterungen_ladenteil: 1932, 1951, 1997
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 214-minden/022
+ENTITÄT: person
+BEZEICHNUNG: Karl der Große
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  reichsversammlung_ort: Minda
+  reichsversammlung_jahr: 798
+  beschreibung: franken und spaeterer Kaiser
+GUELTIG_AB: 747
+GUELTIG_BIS: 814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/023
+ENTITÄT: person
+BEZEICHNUNG: Widukind
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Sachsenfuehrer
+  sage_uebergabe: Festung am Weserufer an Karl dem Großen
+  sage_worte: "Disse Borch Schall nun Myn und Dyn seyn"
+  namensursprung_erklaerung: Quelle Sagen um Mindens Anfaenge
+GUELTIG_AB: 700
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 214-minden/024
+ENTITÄT: person
+BEZEICHNUNG: Heinrich der Löwe
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1129 oder 1131
+  todesjahr: 1195
+  titel: Herzog von Bayern und Sachsen
+  familie: Vetter des Kaisers Friedrich Barbarossa
+  rolle: Kunstmäzen
+  hochzeit_datum: 1. Februar 1186
+  hochzeitsort: Mindener Dom
+  hochzeitspartnerin: Mathilda von England
+  alter_bei_hochzeit: 38 Jahre
+  stiftung_hochzeit: Hof zu Lahde
+  hochzeitsfeierlichkeiten_ort: Braunschweig, Pfalz Dankwarderode
+GUELTIG_AB: 1129
+GUELTIG_BIS: 1195
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/025
+ENTITÄT: person
+BEZEICHNUNG: Mathilda von England
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hochzeit_ort: Mindener Dom
+  hochzeit_datum: 1. Februar 1186
+  hochzeitspartner: Heinrich der Löwe
+  alter_bei_hochzeit: 12 Jahre
+GUELTIG_AB: 1174
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/026
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Otto II
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: Verleihung Markt-, Münz- und Zollrecht
+  empfaenger: Bischof Milo
+  jahr: 977
+GUELTIG_AB: 973
+GUELTIG_BIS: 983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/027
+ENTITÄT: person
+BEZEICHNUNG: Bischof Milo
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_ernennung: 977
+  privlegien: Markt-, Münz- und Zollrecht
+  ansehen: hoch am kaiserlichen Hof
+  wirkungsfeld: Minden
+GUELTIG_AB: 969
+GUELTIG_BIS: 996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 214-minden/028
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht bei Minden
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1. August 1759
+  teilnehmer_allianz: Großbritannien, Preußen, Braunschweig-Lüneburg (Kurhannover), Hessen-Kassel
+  befehlshaber_allianz: Herzog Ferdinand von Braunschweig-Wolfenbüttel
+  teilnehmer_gegenseite: Frankreich, Sachsen
+  befehlshaber_gegenseite: Maréchal de France de Contades
+  soldatenzahl: 90.000
+  todesfaelle: etwa 9.000 (ein Zehntel)
+  ort: Todtenhausen, nordwestlich Mindens
+  ausgang: Sieg der Allianz, Rückzug französische Armeen
+  kontext: Siebenjähriger Krieg (1756-1763)
+  weltpolitische_bedeutung: mitentscheidend fuer Konflikt zwischen Großbritannien und Frankreich ueber Vorherrschaft in nordamerikanischen Kolonien
+  denkmal: 1859 aufgestellt, alle zwei Wochen Kranzniederlegung am 1. August
+GUELTIG_AB: 1759
+GUELTIG_BIS: 1759
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/029
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marienkirche
+QUELLE: https://www.minden.de/dokumente/broschueren/historischer-spaziergang-ansicht.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprueng_funktion: Klosterkirche Benediktinerinnen
+  kloster_verlegung: um 1000 von Wittekindsberg in die Stadt
+  kloster_gruendung: von Bischof Milo (969-996) gestiftet
+  grundriss_2hh_12jhd: kreuzfoermig
+  erweiterung_14jhd: Hallenkirche
+  reformation_seit: 1530 evangelisches adeliges Damenstift
+  franzosenzeit: Verstaatlichung
+  nutzung_seit_1810: Festungsbauhof
+  abriss_gebaeude: 1973 (except Reste mittelalterlichen Kreuzgangs)
+  neubau: Gemeindezentrum
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/030
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martinikirche
+QUELLE: https://www.minden.de/dokumente/broschueren/historischer-spaziergang-ansicht.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: vor 1029
+  gruender: Bischof Sigebert (1022-1036)
+  bauweise: Augustiner-Chorherrenstift
+  marktzoll_verleihung: 12. Jahrhundert unter Bischof Anno (1170-1185)
+  reformation_vermutet: Ratskirche
+  bauwerk_2hh_12jhd: Gewölbebasilika
+  braende_12jhd: zweimal vollstaendig abgebrannt
+  erweiterung_14jhd: Hallenkirche
+  westturm_baujahr: 12. Jahrhundert
+  turmkapelle_urspruenglich: true
+  blitzschaden_turm: 1773
+  turmreparatur: Notdach
+GUELTIG_AB: 1029
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/031
+ENTITÄT: kirche
+BEZEICHNUNG: St. Mauritiuskirche
+QUELLE: https://www.minden.de/dokumente/broschueren/historischer-spaziergang-ansicht.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kloestergruendung: 1042
+  gruender: Bischof Bruno (1036-1055)
+  ursprungs_ort: Werder oestlich vor Minden
+  standortverlagerung: 1434 auf hoeheren Platz an St. Simeonis Kirche
+  grund_verlagerung: staendige Hochwassergefahr
+  konventkirchen_bau: ab 1464
+  bauweise: zweischiffig mit Langchor
+  urspruengliche_nutzung: vorwiegend klösterlich
+  verstaatlichung: 1810
+  nutzung_preußenzeit: Artilleriezeughaus (Munitionsdepot)
+  heutige_nutzung: seit 1950 katholische Pfarrvikarie
+GUELTIG_AB: 1042
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/032
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johanniskirche
+QUELLE: https://www.minden.de/dokumente/broschueren/historischer-spaziergang-ansicht.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: um 1200
+  gruender: Bischof Dietmar von Stromberg (1185-1206) und Domherr Ramward
+  bauweise_original: romanische Gewölbebasilika
+  umbau_18jhd_ende: zu gestrecktem Saalbau
+  nutzung_preußenzeit: Getreidemagazin (Gottesdienste in Apsis)
+  nutzung_1824: Landwehrzeughaus
+  notkirche_nach_dom_zerstoerung: 1945 temporary
+  nutzung_seit_1981: Kulturzentrum BÜZ
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/033
+ENTITÄT: kirche
+BEZEICHNUNG: St. Simeoniskirche
+QUELLE: https://www.minden.de/dokumente/broschueren/historischer-spaziergang-ansicht.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: Anfang 13. Jahrhundert
+  umbau_nach_brand: 1305
+  benediktiner_verlegung_kloster: 1434 Mauritiuskloster von Werder
+  chor_erweiterung: 1434
+  konventkirchen_bau: ab 1464 nördlich
+  renovierung: Ende 19. Jahrhundert
+  neuer_turm: 1911 an Nordseite (ersetzt Fachwerkturm)
+  erste_evangelische_predigt: 1529 von Heinrich Traphagen
+  traphagen: Benediktiner aus Mauritiuskloster
+  reformation_anfang: 1529
+  preußenzeit_nutzung: Garnisonskirche (bis 1945)
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/034
+ENTITÄT: kloster
+BEZEICHNUNG: Dominikanerkloster St. Pauli
+QUELLE: https://www.minden.de/dokumente/broschueren/historischer-spaziergang-ansicht.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1236
+  bekannte_chronisten: Heinrich von Herford (gest. 1370), Hermann von Lerbeck (gest. nach 1407)
+  reformation: Auflösung Kloster
+  kirche_abbruch: 1774
+  gymnasium_gruendung: 1530
+  gymnasium_standort: oestliche Teile ehemaliges Kloster
+  gymnasium_neubau: 1880 Immanuelstraße
+  westfluegel_material: mittelalterliches Sandsteinquadermauerwerk
+  westfluegel_ursprueng: Remter und Dormitorium (Speise- und Schlafsaal)
+  zuckerfabrik_seit: 1766, privilegiert von Friedrich dem Großen
+  zigarrenfabrik_umbau: 1885
+GUELTIG_AB: 1236
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/035
+ENTITÄT: synagoge
+BEZEICHNUNG: Alte Synagoge Videbullenstraße
+QUELLE: https://www.minden.de/dokumente/broschueren/historischer-spaziergang-ansicht.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerb_durch_vorsteher: 1680
+  erwerber: Salomon Levi
+  haus_baujahr_original: frühes 17. Jahrhundert
+  frueherer_synagogen_ort: Greisenbruchstraße
+  micwe: vermutlich Brunnen im Garten
+  umzug_neue_synagoge: 1865 zur Kampstraße
+  zerstoerung_neue_synagoge: Pogromnacht 1938
+  neubau_syn_1958: ja
+GUELTIG_AB: 1680
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 214-minden/036
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Friedhof
+QUELLE: https://www.minden.de/dokumente/Flyer_Plakate/historie-der-staedtischen-friedhoefe.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1807
+  anlassgrund: Napoleonische Besetzung und Gesetz zur Beerdigung außerhalb Stadtmauern
+  grund_gesetzerlass: seuchenhygienische Gruende und Gleichheitsprinzip Napoleons
+  belegung_dauer: fast 100 Jahre
+  ersetzt_durch: Nordfriedhof ab 1904
+  heutige_bezeichnung: auch "Botanischer Garten" genannt
+GUELTIG_AB: 1807
+GUELTIG_BIS: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/037
+ENTITÄT: friedhof
+BEZEICHNUNG: Nordfriedhof
+QUELLE: https://www.minden.de/dokumente/broschueren/historischer-spaziergang-ansicht.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  planung: Stadtgartendirektor Ludwig Isermann
+  bau_beginn: 1903
+  eroeffnung: 1903
+  ersetzt: Alter Friedhof nach 100 Jahren Belegung
+  hochkreuz_baujahr: 1908
+  hochkreuz_material: überwiegend Weser- und Obernkirchener Sandstein
+  kapelle_baujahr: 1906
+  kapelle_architekt: Stadtbaumeister August Kersten
+  friedhofswaeters_haus: 1904
+  friedhofswaeters_haus_planung: 1903
+  erweiterungen: 1924-1926
+  schlageter_kreuz: 1934
+  wasserkaskade_einbau: 1990/91
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/038
+ENTITÄT: friedhof
+BEZEICHNUNG: Südfriedhof
+QUELLE: https://www.minden.de/dokumente/Flyer_Plakate/historie-der-staedtischen-friedhoefe.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_erstbelegung: 1957
+  grund: Stadterweiterung in südliche Richtung
+  ursprungs_flaeche: 5 Hektar
+  fruehrere_bezeichnung: Friedhof Simeonstor
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/039
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+QUELLE: https://www.minden.de/dokumente/Flyer_Plakate/historie-der-staedtischen-friedhoefe.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1897
+  noch_belegt: true
+GUELTIG_AB: 1897
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 214-minden/040
+ENTITÄT: friedhof
+BEZEICHNUNG: Quäker-Friedhof
+QUELLE: https://www.minden.de/dokumente/Flyer_Plakate/historie-der-staedtischen-friedhoefe.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1800
+  standort: Kuckuckstraße
+  noch_belegt: true
+  gemeinde: Quäkergemeinde Mindens
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 214-minden/041
+ENTITÄT: person
+BEZEICHNUNG: Ernst-Theodor Bleek
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/minden-gestern-und-heute/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 17.02.1833
+  todesdatum: 09.01.1905
+  rolle: Oberbürgermeister
+  amtszeit: 1880-1903
+  status: Ehrenbürger der Stadt
+  bauprojekte_amtszeit: Krankenhaus, neue Schulen, Planung "Neuer Friedhof"
+  kaiserpaar_empfang: anlässlich Kaiser-Wilhelm Denkmal Einweihung
+  kaiservilla_beherbergung: Kaiserpaar
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/042
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Isermann
+QUELLE: https://www.minden.de/dokumente/Flyer_Plakate/historische-stadtansichten-flyer.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Stadtgartendirektor
+  werke: Planung Nordfriedhof, Planung Hochkreuz
+  grabstaette: Nordfriedhof
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 214-minden/043
+ENTITÄT: person
+BEZEICHNUNG: August Kersten
+QUELLE: https://www.minden.de/dokumente/Flyer_Plakate/historische-stadtansichten-flyer.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Architekt und Stadtbaumeister
+  werke: Kapelle Nordfriedhof (1906), Offizierskasino Johansenstraße
+  grabstaette: Nordfriedhof
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 214-minden/044
+ENTITÄT: person
+BEZEICHNUNG: Auguste Amalie Melitta Bentz
+QUELLE: https://www.minden.de/dokumente/Flyer_Plakate/historische-stadtansichten-flyer.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erfindung: Kaffeefilter
+  unternehmen: Melitta-Werke Gruendung
+  partner: Hugo Bentz
+  grabstaette: Nordfriedhof Minden
+GUELTIG_AB: 1873
+GUELTIG_BIS: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 214-minden/045
+ENTITÄT: organisation
+BEZEICHNUNG: Freiwillige Feuerwehr Minden
+QUELLE: https://www.minden.de/rathaus-service-zukunft/112/finde-dein-feuer/ueber-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1872
+  aktive_mitglieder: über 500
+  anzahl_ortseinheiten: 14
+  jugendgruppen: 8 Gruppen
+  kinderfeuerwehr_gruppen: 2
+  musikzuege: 2
+  ehrenabteilung: ja
+  ausbildungsgemeinschaft: mit Petershagen und Porta Westfalica
+  partnerstaedtische_feuerwehr_partnerschaft: Tangermünde
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/046
+ENTITÄT: organisation
+BEZEICHNUNG: Löschgruppe Hahlen
+QUELLE: https://www.minden.de/rathaus-service-zukunft/112/finde-dein-feuer/ueber-uns/hahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Stadtteil Hahlen im Westen
+  sonderaufgaben: Abrollbehälter Dekon-V (Verletzten-Dekontamination)
+  uebungsdienste: alle zwei Wochen freitags 19 Uhr, ungerade Kalenderwochen
+  geraetehaus: Mühlenfeld 15, 32427 Minden
+  einheitsführer: BOI Christoph Niemann
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/047
+ENTITÄT: organisation
+BEZEICHNUNG: Löschgruppe Leteln
+QUELLE: https://www.minden.de/rathaus-service-zukunft/112/finde-dein-feuer/ueber-uns/leteln/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1922
+  sonderaufgaben: MANV-Zug (Massenanfall Verletzter), Abrollbehälter AB-Rüst, TLF 4000 Wasserversorgung
+  jugendarbeit: Jugendfeuerwehr Ost 1, Kinderfeuerwehr Gruppe
+  uebungsdienste: jeden 2. Freitag 19:30 Uhr, gerade KW
+  geraetehaus: Schoppenberg 5, 32423 Minden
+  einheitsführer: BOI Martin Steg
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/048
+ENTITÄT: organisation
+BEZEICHNUNG: Löschgruppe Meißen
+QUELLE: https://www.minden.de/rathaus-service-zukunft/112/finde-dein-feuer/ueber-uns/meißen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: März 1925
+  aktive_mitglieder: 32
+  einsatzgebiet: Stadtteile Meißen, Dankersen, Rechtes Weserufer
+  fahrzeuge: HLF 10 (Sommer 2025 in Dienst), MTF
+  jugendgruppe: ja
+  geraetehaus_neubau: Notthorn 2
+  geraetehaus_neubau_zeitpunkt: 2025
+  einheitsführer: HBM Frank Brinkmann
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/049
+ENTITÄT: organisation
+BEZEICHNUNG: Löschgruppe Dützen
+QUELLE: https://www.minden.de/rathaus-service-zukunft/112/finde-dein-feuer/ueber-uns/duetzen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktive_mitglieder: ca. 20
+  fahrzeuge: LF (Löschgruppenfahrzeug), neues MTF
+  sonderaufgaben: ABC-Einheit, Gerätewagen Messtechnik (GW-Mess), Redundanz Drohnengruppe
+  einsatzgebiet: zwischen Wiehengebirge und Mittellandkanal
+  besonderheiten: Wohngebiete, Industriebetriebe, Landwirtschaft, Bundeswehrkaserne, Bundesstraße 65
+  uebungsdienste: mittwochs, alle zwei Wochen, 19:00 Uhr
+  geraetehaus: Dützener Weg 7, 32429 Minden
+  geraetehaus_bestand: über 100 Jahre
+  einheitsführer: OBM Marco Noack
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/050
+ENTITÄT: organisation
+BEZEICHNUNG: Löschgruppe Stemmer
+QUELLE: https://www.minden.de/rathaus-service-zukunft/112/finde-dein-feuer/ueber-uns/stemmer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einsatzgebiet: Mindener Norden
+  geraetehaus_neubau: 2007
+  sonderaufgaben: IuK (Informations- und Kommunikations-Einheit), ELW 1 und ELW 2
+  uebungsdienste: alle 14 Tage freitags, gerade KW, 19:30 Uhr
+  geraetehaus: Zum Schulkamp 2, 32425 Minden
+  einheitsführer: BOI Marcel Südmeier
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/051
+ENTITÄT: denkmal
+BEZEICHNUNG: Kaiser-Wilhelm Denkmal
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/minden-gestern-und-heute/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: unter Ernst-Theodor Bleek (Oberbürgermeister 1880-1903)
+  beschreibung: sichtbar von Nordfriedhof in Richtung Süden, von Hochkreuz-Achse
+GUELTIG_AB: 1880
+GUELTIG_BIS: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 214-minden/052
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Mittellandkanal
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschluss_minden: 1915/1916
+  verbindung: europaeisches Kanalwegesystem
+  wasserstraeuzenkreuz: 1915/1916
+GUELTIG_AB: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/053
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kanalbrücke Mittellandkanal
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minster/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 375 Meter
+  erbauung: 1915/1916
+  eigenschaft: eines der größten Brückenbauwerke in Europa
+  neubau_einweihung: 1998
+  ermoeglicht: Durchfahrt europaeischer Großmotorschiffe
+  verbindung_ermoglicht: in die ehemaligen Staaten der Sowjetunion
+GUELTIG_AB: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/054
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schachtschleuse
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/minden-gestern-und-heute/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sichtbar_ab: 1914/1915
+  standort: sichtbar von Nordfriedhof-Hochkreuz-Achse nach Süden
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 214-minden/055
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hafenanlage
+BEZEICHNUNG: Mindener Häfen
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlage_zeitraum: 1915/1916
+  eigenschaft: moderne Mindener Häfen
+  funktion: Umschlagplatz für Binnenschiffe
+  bedeutung: südlichster "Seehafen" an der Weser
+  verkehr: Direktverkehr mit Skandinavien auch mit seegehenden Küstenmotorschiffen
+GUELTIG_AB: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/056
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Köln-Mindener Eisenbahn
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschluss_minden: 1847
+  bedeutung: modernes Verkehrssystem der Zeit
+  spaetere_bedeutung_seit_wende: eine der großen Verkehrsmagistralen Deutschlands und Europas
+  verkehr: Intercity-Verbindungen, ICE seit 1998
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/057
+ENTITÄT: zeitraum
+BEZEICHNUNG: Festungszeit Minden
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beginn: 1648 (Westfälischer Friede)
+  ende: 1873 (Festungsaufhebung)
+  grund_anfang: Fürstbistum Minden fällt an Brandenburg
+  wirtschaftliche_folgen: Wirtschaft zusammengebrochen, Einwohnerzahl sank rapide
+  neubefestigung: ab 1815 in "Neupreußischer Manier"
+  auswirkung_neubefestigung: behindert späterhin Wirtschaftsentwicklung
+GUELTIG_AB: 1648
+GUELTIG_BIS: 1873
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 214-minden/058
+ENTITÄT: stadt
+BEZEICHNUNG: Partnerstadt Sutton
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: England
+  grund_partnerschaft: Historische Verbindung durch Schlacht bei Minden 1759 (Großbritannien beteiligt)
+  beschreibung: freundschaftliche Beziehung seit Jahrzehnten
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 214-minden/059
+ENTITÄT: stadt
+BEZEICHNUNG: Partnerstadt Gagny
+QUELLE: https://www.minden.de/rathaus-service-zukunft/willkommen-in-minden/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  grund_partnerschaft: Historische Verbindung durch Schlacht bei Minden 1759 (Frankreich beteiligt)
+  beschreibung: freundschaftliche Beziehung seit Jahrzehnten
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 214-minden/060
+ENTITÄT: stadt
+BEZEICHNUNG: Partnerstadt Tangermünde
+QUELLE: https://www.minden.de/rathaus-service-zukunft/112/finde-dein-feuer/ueber-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Deutschland
+  grund_partnerschaft: Feuerwehr-Partnerschaft
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

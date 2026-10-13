@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung",
+ "ort": "210-herford",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 103690,
+ "token_ein": 74459,
+ "token_aus": 11289,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 67555,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 11289,
+  "output_tokens_details": {
+   "thinking_tokens": 7518
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 67555,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 11289,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 67555,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 67555
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7676084000000001,
+ "sekunden": 98,
+ "fehler": false,
+ "zeit": "2026-10-13T08:47:53"
+}

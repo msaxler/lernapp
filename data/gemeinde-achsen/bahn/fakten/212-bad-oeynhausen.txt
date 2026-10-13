@@ -1,0 +1,661 @@
+ID: 212-bad-oeynhausen/001
+ENTITÄT: ort
+BEZEICHNUNG: Bad Oeynhausen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  kreis: Minden-Lübbecke
+  bundesland: Nordrhein-Westfalen
+  region: Ostwestfalen-Lippe
+  einwohner: 50515
+  flaeche_km2: 64.83
+  lage_geografisch: zwischen Wiehengebirge (Norden) und Lipper Bergland (Süden), Tal der Werre
+  hoechster_punkt_m: 267
+  tiefster_punkt_m: 45
+  funktion_historisch: Kurbad
+  gruendung_kurbad: 19. Jahrhundert
+  thermalquelle: ja
+  kurpark_architekt: Peter Joseph Lenné
+  kurpark_flaeche_ha: 26
+  kurpark_bauzeit: 1851-1853
+  spezialkliniken: ja, insbesondere Herz- und Diabeteszentrum Nordrhein-Westfalen
+  diakonische_einrichtung: Wittekindshof (Ortsteil Volmerdingsen)
+  gebietsreform_jahr: 1973
+  gebietsreform_grund: Zusammenschluss mit ehemaligem Amt Rehme durch Bielefeld-Gesetz
+  ist_kreisstadt: false
+  ist_zweitgroesste_stadt_kreis: true
+  schrank_wert_zunsicherheit_ausdehnung_nord_sued_km: 12.5
+  schrank_wert_zunsicherheit_ausdehnung_ost_west_km: 10.3
+  stadt_groessenklasse: Kleine Mittelstadt
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 212-bad-oeynhausen/002
+ENTITÄT: bad
+BEZEICHNUNG: Königliche Saline Neusalzwerk
+ORTSTEIL_BEZUG: Rehme
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Salzwerk mit Salzsolequelle
+  befehl_durch: König Friedrich II.
+  ersterproduktion_jahr: 1753
+  gradierwerke_anzahl: 2
+  gradierwerke_bauzeit: bis 1760
+  gradierhaus_erbaut: 1768
+  gradierhaus_stockwerke: 2
+  salzabsatz_region: lokale Region, auch bis Köln
+  chemische_fabrik: ja, verarbeitete Rohsalzrückstände (Soda, Chlorkalk, Bittersalz)
+  kohlenquelle: Steinkohlenbergwerk Bölhorst
+  kohlenverkauf_prozent_17_jh: 90%
+  salzmonopol_state_bis: 1867
+  produktion_eingestellt: 1928
+GUELTIG_AB: 1753
+GUELTIG_BIS: 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/003
+ENTITÄT: thermalquelle
+BEZEICHNUNG: Oeynhausen-Sprudel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  entdeckung_jahr: 1839
+  entdecker: Berghauptmann Karl von Oeynhausen
+  fertigstellung_bohrung: 1845
+  bohrtiefe_m: 696.4
+  rekord_zeitgenoessisch: weltweit größte erbohrte Tiefe
+  beschreibung_durch: Alexander von Humboldt
+  quellenart: Thermalsole
+GUELTIG_AB: 1839
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 212-bad-oeynhausen/004
+ENTITÄT: thermalquelle
+BEZEICHNUNG: Jordan-Sprudel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  erbohrt_jahr: 1926
+  quellenart: Thermalsolequelle, kohlensäurehaltig
+  superlativ: größte kohlensäurehaltige Thermalsolequelle der Welt
+  merkmal_verweist_auf: Kur- und Salinendirektor Albert Jordan (1865–1934)
+  fontaene_warzeichen: ja, Jordansprudel-Fontäne ist Wahrzeichen Bad Oeynhausen
+  fontaene_betrieb_saison: Sommersaison, 9–20 Uhr, jede volle Stunde 5 Minuten
+GUELTIG_AB: 1926
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/005
+ENTITÄT: thermalquelle
+BEZEICHNUNG: Kaiser-Wilhelm-Sprudel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  erbohrt_jahr: 1898
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 212-bad-oeynhausen/006
+ENTITÄT: thermalquelle
+BEZEICHNUNG: Morsbach-Sprudel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  erbohrt_jahr: 1906
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 212-bad-oeynhausen/007
+ENTITÄT: thermalquelle
+BEZEICHNUNG: Kurdirektor-Dr.-Schmid-Quelle
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  erbohrt_jahr: 1966
+  mineralgehalt_g_pro_l: 86
+  charakteristik: mineralreichste Quelle
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/008
+ENTITÄT: thermalquelle
+BEZEICHNUNG: Alexander-von-Humboldt-Sprudel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  erbohrt_jahr: 1973
+  bohrtiefe_m: 1034
+  charakteristik: tiefste Quelle, Eisen-Sulfat-Sole
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/009
+ENTITÄT: thermalquelle
+BEZEICHNUNG: Gert-Michel-Sprudel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  erbohrt_jahr: 1995
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 212-bad-oeynhausen/010
+ENTITÄT: thermalquelle
+BEZEICHNUNG: Bülow-Brunnen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  erbohrt_jahr: 1806
+  charakteristik: älteste noch existierende Quelle
+  nutzen: Sole zur Salzproduktion Saline Neusalzwerk
+  lage: Sielpark
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/011
+ENTITÄT: thermalquelle
+BEZEICHNUNG: Wittekind-Brunnen I
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  erbohrt_jahr: 1876
+  quellentyp: oberflächennah, Sole
+  charakteristik_historisch: einst weltweit bedeutendste Calciumchlorid-Quelle
+  status: stillgelegt
+  ersatz: Wittekind-Brunnen II
+GUELTIG_AB: 1876
+GUELTIG_BIS: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 212-bad-oeynhausen/012
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Märchen- und Wesersagenmuseum
+QUELLE: https://www.badoeynhausen.de/freizeit-kultur-sport/kultur/staedtische-museen/deutsches-maerchen-und-wesersagenmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestandteile: Dauerausstellung, Sonderausstellungen, Präsenzbibliothek
+  ausstellung_fokus: kulturgeschichtlich, Märchen und Sagen aus Weserbergland
+  thema: Brüder Grimm Werke
+  bibliothek_bestaende: ca. 16000 Bände
+  adresse: Am Kurpark 3
+  telefonummer: "+49 (0) 5731 14 - 3410"
+  email: museum@badoeynhausen.de
+  teil_deutsche_maerchenstasse: ja
+  gruendungssammlung_provenienzforschung: ja, seit Januar 2025 Layla Pankratz, Verdacht NS-Raubkunst, zweijähriges Projekt, Förderung Deutsches Zentrum Kulturgutverluste
+  untersucher_grundungssammlung_seit_2025: Layla Pankratz (Provenienzforscherin)
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/013
+ENTITÄT: museumgruender
+BEZEICHNUNG: Karl Paetow
+QUELLE: https://www.badoeynhausen.de/freizeit-kultur-sport/kultur/staedtische-museen/deutsches-maerchen-und-wesersagenmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Volkskündler und Schriftsteller
+  todesjahr: 1992
+  privatsammlung_grund_museum: ja
+  museum: Deutsches Märchen- und Wesersagenmuseum
+  ideologie_ns_zeit: Anhänger des Nationalsozialismus
+  taetigkeit_ww2: "Einsatzstab Reichsleiter Rosenberg" (NS-Organisation zur Plünderung von Kulturgütern)
+  aufarbeitung_vergangenheit: durch Regionalhistoriker Norbert Sarhage
+  verdacht: NS-Raubkunst in Gründungssammlung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/014
+ENTITÄT: museum
+BEZEICHNUNG: Museumshof Bad Oeynhausen
+QUELLE: https://www.badoeynhausen.de/freizeit-kultur-sport/kultur/staedtische-museen/museumshof | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1969
+  typ: Freilichtmuseum, typische Hofanlage Mindener Raum
+  gebaeude: Haupthaus, Heuerlingshaus, Scheune, Speicher, Backhaus, Wassermühle
+  gebaeude_herkunft: umliegende Orte, überwiegend spätes 18. Jahrhundert
+  lage: stadtnah im Siekertal (Landschaftspark)
+  fokus: bäuerliche Bau- und Kulturgeschichte Minden-Ravensberg
+  ausstattung_zeigt: Leben und Arbeiten auf dem Lande im 19. Jahrhundert
+  gebaeude_einzeln_haupthaus_datum: 1739
+  gebaeude_einzeln_heuerlingshaus_datum: 1654
+  gebaeude_einzeln_hofwassermühle_datum: 1772
+  bauerngarten: ja, von Grund auf saniert
+  adresse: Schützenstraße 35a
+  telefon: "+49 (0) 5731 14 - 3410"
+  email: museum@badoeynhausen.de
+  trauungen: ja, regelmäßig Sommermonate
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/015
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Fismes
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Champagne
+  partnerschaftsgruendung: 1968
+  ursprungliche_gemeinde: Eidinghausen
+  uebertragung_auf_stadt: im Zuge kommunale Neugliederung 1973
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/016
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Inowrocław
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  region: Woiwodschaft Kujawien-Pommern
+  partnerschaftsgruendung: 1989
+  grund: gemeinsame Vergangenheit mit Salzgewinnung und Solebädern, beide durch Bohrungen Freiherr von Oeynhausen
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/017
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Wear Valley
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  land: England
+  region: Grafschaft Durham
+  partnerschaftsgruendung: 1977
+  status_2014: existiert nicht mehr als offizielle Partnerschaft
+  grund_beendigung: Partnerschaftsvereinigung aufgelöst
+GUELTIG_AB: 1977
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/018
+ENTITÄT: bauwerk
+BEZEICHNUNG: Kurhaus
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  baustil: Neobarock
+  bauzeit: 1905-1908
+  architekten: Hinckeldeyn und Delius
+  lage: Kurpark
+  historische_nutzung_1980_2002: Spielcasino
+  aktuelle_nutzung: Kaiserpalais, GOP-Varieté, Restaurant, Diskothek
+  umbauten: Seitenflügel abgebrochen, moderner Vorbau errichtet, Konzertplatz angelegt
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/019
+ENTITÄT: bauwerk
+BEZEICHNUNG: Badehaus I
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  baustil: Spätklassizistisch
+  bauzeit: 1852-1857
+  architekten: Robert Ferdinand Cremer und Carl Ferdinand Busse
+  lage: Kurpark
+  denkmal_anbringung: Oeynhausen-Büste (1895)
+GUELTIG_AB: 1852
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/020
+ENTITÄT: bauwerk
+BEZEICHNUNG: Badehaus II
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  ehemals: Badehaus IV
+  baustil: Renaissance-Palais
+  erbaut: 1885
+  lage: Kurpark
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/021
+ENTITÄT: bauwerk
+BEZEICHNUNG: Haus des Gastes
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1903
+  lage: Kurpark
+  nutzung: Tourist-Information
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/022
+ENTITÄT: bauwerk
+BEZEICHNUNG: Theater im Park
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  baustil: Neobarock
+  erbaut: 1915
+  lage: Kurpark
+GUELTIG_AB: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/023
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wandelhalle
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  baustil: Neoklassizistisch
+  erbaut: 1926
+  innenmalerei: Gustav Halmhuber
+  ersatz_fuer: Trinkpavillon 1858
+  lage: Kurpark
+GUELTIG_AB: 1926
+IST_VERMUTLICH_AKTUELT: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/024
+ENTITÄT: bauwerk
+BEZEICHNUNG: Auferstehungskirche (evangelisch)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  bauform: dreischiffiger Saalbau
+  architekt: Diez Brandi
+  erbaut: 1956
+  lage: östlicher Rand Kurpark
+  ersatz_fuer: Erstbau abgebrannt 1947
+  denkmal_fuer_juedische_opfer: Gedenkbrunnen angelegt
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/025
+ENTITÄT: bauwerk
+BEZEICHNUNG: Pfarrkirche St. Peter und Paul (katholisch)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  lage: westlicher Rand Kurpark
+  gruendungsgrund_gemeinde: Kurbad gegründet 1861
+  erste_kirche_erbaut: 1871
+GUELTIG_AB: 1871
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/026
+ENTITÄT: bauwerk
+BEZEICHNUNG: Ronald-McDonald-Elternhaus
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  architekt: Frank O. Gehry
+  lage: Kurpark
+  dachform: Schneckenhausform
+  dachhoehe_m: 12
+  apartments: 12
+  zweck: Unterkunft Eltern oder Angehörige herzkranker Kinder während Behandlung HDZ
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 212-bad-oeynhausen/027
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus I
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  architekt: Hanns Dustmann
+  erbaut: 1957
+  vorgebaeude: Hotel "Vier Jahreszeiten" (gekauft 1930, abgerissen nach Krieg)
+  denkmalschutz_seit: 2010
+  sanierung: 2011
+  funktion: Hauptsitz Stadtverwaltung
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/028
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserschloss Ovelgönne
+ORTSTEIL_BEZUG: Eidinghausen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 18. Jahrhundert
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 212-bad-oeynhausen/029
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schoenen-Mühle
+ORTSTEIL_BEZUG: Bergkirchen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wassermühle
+  lage: angestammter Ort
+  teil_westfaelische_muehlenstrasse: ja
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 212-bad-oeynhausen/030
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Bergkirchen
+ORTSTEIL_BEZUG: Bergkirchen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: mittelalterlich
+  lage: landschaftlich exponiert auf Passhöhe Wiehengebirge
+  vorgaenger: Höhen-Quellheiligtum vorchristliche sächsische Zeit, Kirche 9. Jahrhundert
+GUELTIG_AB: 9. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 212-bad-oeynhausen/031
+ENTITÄT: kirche
+BEZEICHNUNG: Laurentiuskirche
+ORTSTEIL_BEZUG: Rehme
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: mittelalterlich
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 212-bad-oeynhausen/032
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Volmerdingsen
+ORTSTEIL_BEZUG: Volmerdingsen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: mittelalterlich
+  turm: ja, vorhanden
+  denkmal_judische_opfer_in_stadtteil: Gedenkstätte
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 212-bad-oeynhausen/033
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: Evangelisch-Freikirchlich
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 212-bad-oeynhausen/034
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Herz- und Diabeteszentrum Nordrhein-Westfalen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1980
+  traeger_seit_1989: Universitätsklinikum Ruhr-Universität Bochum
+  kooperationen: Universität Bielefeld
+  beschaeftigte: >2000
+  spezialisierung: Herztransplantation
+  rang_herztransplantation: mit Abstand größtes Herztransplantationszentrum Europa
+  inbetriebnahme: 1985
+  lage: Georgstraße
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 212-bad-oeynhausen/035
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Städtisches Krankenhaus Bad Oeynhausen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  medizinische_aufgabe: Regelversorgung Bevölkerung
+  mitarbeiter: 550
+  ursprungsort: Weserstraße
+  evakuierung_ww2: Wittekindshof
+  wiedererrichtung: 1950-1953 Wielandstraße
+  verbund: Mühlenkreiskliniken
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/036
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Auguste-Viktoria-Klinik
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1913
+  lage: Sielpark
+  urspruengliche_aufgabe: Kinderheilanstalt
+  umfunktionierung_ab_1964: orthopädisches Fachkrankenhaus
+  verbund: Mühlenkreiskliniken
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/037
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Paul Baehr
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 1855 in Thorn
+  gestorben: 1929 in Bad Oeynhausen
+  positionen: Zweiter Bürgermeister, Stadtverordnetenvorsteher
+  literarische_taetigkeit: Autor von Heimatliteratur über Bad Oeynhausen
+  ehrenbuerger_seit: 1912
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/038
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Reiner Körfer
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 18. Januar 1942 in Kleve
+  beruf: Herzchirurg
+  position: Ärztlicher Direktor Herz- und Diabeteszentrum NRW
+  ehrenbuerger_seit: 2008
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/039
+ENTITÄT: bemuerkenswertes_politisches_ereignis
+BEZEICHNUNG: Ehrenbürgerschaft Adolf Hitler, Franz Seldte, Paul von Hindenburg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  beantragt_von: NSDAP-Fraktion
+  datum_beantragung: 5. April 1933
+  abstimmung_ergebnis: einstimmig angenommen (nach SPD-Austritten)
+  fuer_nichtig_erklaert: 7. Mai 2014
+  fuer_nichtig_erklaert_durch: Rat der Stadt
+  abstimmung_fuer_nichtig_erklärung: einstimmig
+  nichtwähler_abstimmung: 3 Ratsmitglieder
+  grund: historische Revision
+GUELTIG_AB: 1933
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 212-bad-oeynhausen/040
+ENTITÄT: buergermeister
+BEZEICHNUNG: Lars Bökenkröger
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  wahltermin: 14. September 2025
+  stimmenanteil_prozent: 54.74
+  gegenkandidat_starkster: Henrike Diestelhorst (SPD) 18.99
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 212-bad-oeynhausen/041
+ENTITÄT: denkmal
+BEZEICHNUNG: Flößer-Denkmal
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: 1992
+  lage: Mündung Werre in Weser
+  bedeutung: Hinweis auf frühere Bedeutung Weser als überregionaler Wasserweg
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/042
+ENTITÄT: denkmal
+BEZEICHNUNG: Schweinebrunnen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: 1981
+  bedeutung: Gründungsmythos Salzentdeckung durch Schweine
+  mythos_quelle: nicht schriftlich nachgewiesen, Anekdote 1745 (Schweine eines Colons Sültemeyer)
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 212-bad-oeynhausen/043
+ENTITÄT: sportverein
+BEZEICHNUNG: FC Bad Oeynhausen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1981
+  gruendungsgrund: Fusion 1. SC Bad Oeynhausen mit SC Oberbecksen
+  sport: Fußball
+  spielklasse_perioden: 1981-1985, 1994-2000, 2005/06, 2011-2013 in Verbandsliga/Westfalenliga
+  bekanntheit: brachte Arne Friedrich hervor (späterer Nationalspieler)
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 212-bad-oeynhausen/044
+ENTITÄT: sportverein
+BEZEICHNUNG: MTV Blau-Weiß Oeynhausen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  sport: Handball
+  erfolg: 1952 um deutsche Meisterschaft
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 212-bad-oeynhausen/045
+ENTITÄT: institution_diakonisch
+BEZEICHNUNG: Wittekindshof
+ORTSTEIL_BEZUG: Volmerdingsen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: aus Aktivität evangelischer Erweckungsbewegung Ostwestfalen
+  eigenschaft: diakonische Einrichtung und Stiftung
+  groesster_arbeitgeber_stadt: ja
+  arbeitsplaetze: ca. 3300
+  geschaeftlicher_hauptsitz: Volmerdingsen
+GUELTIG_AB: 19./20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 212-bad-oeynhausen/046
+ENTITÄT: naturschutz
+BESCHREIBUNG: Naturschutzgebiet und Landschaftsschutzgebiet
+QUELLE: https://de.wikipedia.org/wiki/Bad_Oeynhausen | Wikipedia
+EIGENSCHAFTEN:
+  naturschutzgebiete_anzahl: 6 kleinere
+  naturdenkmale_anzahl: ca. 30
+  geschuetzte_landschaftsteile: 10
+  landschaftsschutzgebiete_anzahl: 4 (Wiehengebirge und Vorland, Wulferdingsener Bachniederung, Werreniederung, Oeynhausener Hügelland)
+  landschaftsplan_inkrafttreten: 29. Dezember 1995
+  heilquellenschutzgebiet: großer Teil ausgewiesen
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

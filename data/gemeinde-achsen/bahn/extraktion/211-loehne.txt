@@ -1,0 +1,317 @@
+ENTITÄT: ort
+BEZEICHNUNG: Löhne
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Zahlen-und-Daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung: 41019 [Einwohner]
+  stand_bevoelkerung: 31.12.2025
+  arbeitslosenzahl: 1435
+  arbeitslosenquote: 6,3 [Prozent]
+  stand_arbeitsmarkt: 06/2025
+  kaufkraft_einzelhandel: 7391 [Euro pro Kopf]
+  kaufkraftindex: 94,1
+  einzelhandelsumsatz: 7562 [Euro pro Kopf]
+  umsatzkennziffer: 110,2
+  gewerbesteuer_hebesatz: 468 [Prozent]
+  grundsteuer_a_hebesatz: 410 [Prozent]
+  grundsteuer_b_wohnbau_hebesatz: 749 [Prozent]
+  grundsteuer_b_nichtwohnbau_hebesatz: 1498 [Prozent]
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gohfeld
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Zahlen-und-Daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung: 11259 [Einwohner]
+  stand_bevoelkerung: 31.12.2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Löhne-Bahnhof
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Zahlen-und-Daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung: 6543 [Einwohner]
+  stand_bevoelkerung: 31.12.2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Löhne-Ort
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Zahlen-und-Daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung: 6795 [Einwohner]
+  stand_bevoelkerung: 31.12.2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mennighüffen
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Zahlen-und-Daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung: 10243 [Einwohner]
+  stand_bevoelkerung: 31.12.2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Obernbeck
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Zahlen-und-Daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung: 5791 [Einwohner]
+  stand_bevoelkerung: 31.12.2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ulenburg
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Zahlen-und-Daten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung: 388 [Einwohner]
+  stand_bevoelkerung: 31.12.2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Stadt Löhne
+QUELLE: https://www.loehne.de/Verwaltung-Politik/Rathaus/Stadt-Geschichte/Wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung_heraldisch: In Grün ein silberner (weißer), mit 3 roten Seeblättern belegter schräglinker Wellenbalken
+  genehmigt_durch: Regierungspräsident in Detmold
+  genehmigt_am: 14.01.1970
+  symbolik_wellenbalken: Werre, die Grenze zwischen den Ämtern Gohfeld und Mennighüfen
+  symbolik_farbe_gruen: Hinweis auf früheren vorwiegend landwirtschaftlichen Charakter
+  symbolik_seeblätter: Herkunft aus Wappen der Sachsenherzöge, Sinnbild des Herzogtums Engern
+  vorgaenger_wappen: Amt Löhne
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: amt
+BEZEICHNUNG: Amt Löhne
+QUELLE: https://www.loehne.de/Verwaltung-Politik/Rathaus/Stadt-Geschichte/Wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 01.10.1943
+  wappen_genehmigt: 17.08.1943
+  wappen_genehmigt_durch: Oberpräsident der Provinz Westfalen
+GUELTIG_AB: 1943
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: moschee
+BEZEICHNUNG: Haci Bayram Moschee
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Kirchen-u-religiöse-Gemeinschaften/Moscheen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Werster Straße 62 A, 32584 Löhne
+  telefon: 05732 972469
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: moschee
+BEZEICHNUNG: IGMG Löhne
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Kirchen-u-religiöse-Gemeinschaften/Moscheen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bahnhofstraße 137, 32584 Löhne
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: religionsgemeinde
+BEZEICHNUNG: Verband der Islamischen Kulturzentren e.V.
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Kirchen-u-religiöse-Gemeinschaften/Moscheen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bergkirchener Straße 57, 32584 Löhne
+  telefon: 05732 684425
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: freikirche
+BEZEICHNUNG: Ev.-Freikirchliche Gemeinde Löhne (Baptisten)
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Kirchen-u-religiöse-Gemeinschaften/Freikirchliche-Gemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schrakampstraße 10, 32584 Löhne
+  telefon: 05732 9994341
+  gemeindeleiterin: Rahel Unruh
+  pastor: vakant
+  website: www.efg-loehne.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freikirche
+BEZEICHNUNG: FEG Löhne (Freikirchlich-Evangelische Gemeinde)
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Kirchen-u-religiöse-Gemeinschaften/Freikirchliche-Gemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lübbecker Straße 191, 32584 Löhne
+  telefon: 05741 297 607
+  gemeindeleiter: Siegfried Liebscher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freikirche
+BEZEICHNUNG: Christliche Gemeinde zu Löhne
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Kirchen-u-religiöse-Gemeinschaften/Freikirchliche-Gemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Wiesenstraße 20, 32584 Löhne
+  telefon: 05731 1534311
+  pastor: Hans Peters
+  beschreibung: Freie evangelische Christengemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Ev. Kirchengemeinde Gohfeld
+ORTSTEIL_BEZUG: Gohfeld
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Kirchen-u-religiöse-Gemeinschaften/Evangelische-Kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindeburo_adresse: Kirchbreite 23, 32584 Löhne
+  telefon: 0 57 31 82 400
+  fax: 0 57 31 82 422
+  pfarrer: Harald Ludewig
+  pfarrerin: Linda Stuke-Troks
+  website: www.kirchengemeinde-gohfeld.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Ev.-Luth. Kirchengemeinde Löhne
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Kirchen-u-religiöse-Gemeinschaften/Evangelische-Kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindeburo_adresse: Bünder Straße 188, 32584 Löhne
+  telefon: 0 57 32 85 35
+  fax: 0 57 32 89 17 92
+  pfarrerin: Lea Queer
+  website: www.kirchengemeinde-loehne.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Ev.-Luth. Kirchengemeinde Mennighüffen
+ORTSTEIL_BEZUG: Mennighüffen
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Kirchen-u-religiöse-Gemeinschaften/Evangelische-Kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lübbecker Straße 139, 32584 Löhne
+  telefon: 05732 734 71
+  fax: 05732 714 38
+  pfarrer: Kai Sundermeier
+  website: www.kirchengemeinde-mennighueffen.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Ev.-Luth. Kirchengemeinde Obernbeck
+ORTSTEIL_BEZUG: Obernbeck
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Kirchen-u-religiöse-Gemeinschaften/Evangelische-Kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindeburo_adresse: Kirchstraße 16, 32584 Löhne
+  telefon: 0 57 32 22 04
+  fax: 0 57 32 6 6 93
+  pfarrerin: Lea Queer
+  website: www.kirchengemeinde-obernbeck.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Ev.-Luth. Kirchengemeinde Siemshof
+QUELLE: https://www.loehne.de/Leben-Entdecken/Stadtinfos/Kirchen-u-religiöse-Gemeinschaften/Evangelische-Kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindeburo_adresse: Wietbrede 39, 32584 Löhne
+  telefon: 05732 734 02
+  fax: 05732 738 99
+  pfarrerin: Ann-Kristin Schneider
+  pfarrerin_weitere: Lea Queer
+  website: www.kirchengemeindesiemshof.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtgruendung
+BEZEICHNUNG: Gründung der Stadt Löhne
+QUELLE: https://www.loehne.de/Verwaltung-Politik/Rathaus/Stadt-Geschichte/Löhne-feiert-50/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: Gebietsreform
+  anzahl_gemeinden: 5
+  beschreibung: Fusion von fünf Gemeinden zur Stadt
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Jugendkunstschule Löhne
+QUELLE: https://www.loehne.de/Leben-Entdecken/Bildung-und-Soziales/Jugendkunstschule/Historie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  existenzdauer: ueber 35 Jahre
+  fokus: künstlerische Spurensuche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Löhne
+QUELLE: https://www.loehne.de/Leben-Entdecken/Kultur-und-Freizeit/Stadtarchiv-/Lokal-und-Regionalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Heimatmuseum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Mühlenhof Rürupsmühle
+QUELLE: https://www.loehne.de/Leben-Entdecken/Kultur-und-Freizeit/Stadtarchiv-/Lokal-und-Regionalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Mühlenhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Mühlenmuseum Kemena
+QUELLE: https://www.loehne.de/Leben-Entdecken/Kultur-und-Freizeit/Stadtarchiv-/Lokal-und-Regionalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Mühlenmuseum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

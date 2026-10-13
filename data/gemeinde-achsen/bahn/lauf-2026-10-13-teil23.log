@@ -1,0 +1,64 @@
+Orte: 205-ahlen 206-oelde 207-rheda-wiedenbrueck 208-guetersloh 209-bielefeld 210-herford 211-loehne 212-bad-oeynhausen 213-porta-westfalica 214-minden
+== Extraktion (Haiku) 08:29:22
+205-ahlen            extraktion ein  32164  aus  20429   0.15 USD   130 s  claude-haiku-4-5-20251001
+206-oelde            extraktion ein  41002  aus  11385   0.13 USD    91 s  claude-haiku-4-5-20251001
+207-rheda-wiedenbrueck extraktion ein  38725  aus  15130   0.14 USD   129 s  claude-haiku-4-5-20251001
+208-guetersloh       extraktion ein  45750  aus  17848   0.17 USD   152 s  claude-haiku-4-5-20251001
+209-bielefeld        extraktion ein  24578  aus  15552   0.11 USD   119 s  claude-haiku-4-5-20251001
+210-herford          extraktion ein  33785  aus  16528   0.14 USD   131 s  claude-haiku-4-5-20251001
+211-loehne           extraktion ein  23652  aus   6758   0.07 USD    47 s  claude-haiku-4-5-20251001
+212-bad-oeynhausen   extraktion ein  49840  aus  17151   0.17 USD   165 s  claude-haiku-4-5-20251001
+213-porta-westfalica extraktion ein  22161  aus  17142   0.12 USD   132 s  claude-haiku-4-5-20251001
+214-minden           extraktion ein  43831  aus  14879   0.15 USD   123 s  claude-haiku-4-5-20251001
+zusammen: 10255 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+205-ahlen          52186 Zeichen
+206-oelde          26925 Zeichen
+207-rheda-wiedenbrueck   29305 Zeichen
+208-guetersloh     39466 Zeichen
+209-bielefeld      18706 Zeichen
+210-herford        34336 Zeichen
+211-loehne         16271 Zeichen
+212-bad-oeynhausen   27441 Zeichen
+213-porta-westfalica   21862 Zeichen
+214-minden         38286 Zeichen
+== Karten (claude-opus-5-5) 08:34:16
+205-ahlen            karten     ein  60541  aus  33988   1.11 USD   288 s  claude-opus-5-5
+206-oelde            karten     ein  42696  aus  30816   0.90 USD   264 s  claude-opus-5-5
+207-rheda-wiedenbrueck karten     ein  44153  aus  37148   1.04 USD   323 s  claude-opus-5-5
+208-guetersloh       karten     ein  49763  aus  37557   1.10 USD   327 s  claude-opus-5-5
+209-bielefeld        karten     ein  37570  aus  24483   0.74 USD   207 s  claude-opus-5-5
+210-herford          karten     ein  47185  aus  40304   1.13 USD   351 s  claude-opus-5-5
+211-loehne           karten     ein  36420  aus  29668   0.83 USD   262 s  claude-opus-5-5
+212-bad-oeynhausen   karten     ein  43416  aus  35816   1.01 USD   309 s  claude-opus-5-5
+213-porta-westfalica karten     ein  39373  aus  36009   0.98 USD   310 s  claude-opus-5-5
+214-minden           karten     ein  49395  aus  39429   1.13 USD   337 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 08:45:21
+205-ahlen            pruefung   ein  84346  aus   9671   0.81 USD    84 s  claude-opus-5-5
+206-oelde            pruefung   ein  78077  aus   9487   0.76 USD    82 s  claude-opus-5-5
+207-rheda-wiedenbrueck pruefung   ein  77309  aus  12289   0.81 USD   108 s  claude-opus-5-5
+208-guetersloh       pruefung   ein  93221  aus  13609   0.96 USD   118 s  claude-opus-5-5
+209-bielefeld        pruefung   ein  49035  aus   5725   0.45 USD    54 s  claude-opus-5-5
+210-herford          pruefung   ein  74459  aus  11289   0.77 USD    98 s  claude-opus-5-5
+211-loehne           pruefung   ein  46100  aus   8677   0.49 USD    78 s  claude-opus-5-5
+212-bad-oeynhausen   pruefung   ein  49263  aus   9868   0.54 USD    88 s  claude-opus-5-5
+213-porta-westfalica pruefung   ein  50341  aus   9770   0.54 USD    86 s  claude-opus-5-5
+214-minden           pruefung   ein  90265  aus  14185   0.95 USD   123 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 08:49:23
+205-ahlen            stufe2     ein 147845  aus   2396   0.34 USD    57 s  claude-opus-5-5,claude-haiku-4-5-20251001
+206-oelde            stufe2     ein 222462  aus   4098   0.72 USD    92 s  claude-opus-5-5,claude-haiku-4-5-20251001
+207-rheda-wiedenbrueck stufe2     ein  88095  aus   1763   0.22 USD    41 s  claude-opus-5-5,claude-haiku-4-5-20251001
+208-guetersloh       FEHLER keine Karte an Stufe 2 – kein Lauf
+209-bielefeld        stufe2     ein 189248  aus   3921   0.47 USD    88 s  claude-opus-5-5,claude-haiku-4-5-20251001
+210-herford          stufe2     ein 252394  aus   5507   0.54 USD   118 s  claude-opus-5-5,claude-haiku-4-5-20251001
+211-loehne           stufe2     ein 174112  aus   3820   0.54 USD    68 s  claude-opus-5-5,claude-haiku-4-5-20251001
+212-bad-oeynhausen   stufe2     ein 974077  aus  18188   1.68 USD   291 s  claude-opus-5-5,claude-haiku-4-5-20251001
+213-porta-westfalica stufe2     ein 229244  aus   4685   0.57 USD    89 s  claude-opus-5-5,claude-haiku-4-5-20251001
+214-minden           stufe2     ein 152495  aus   4816   0.40 USD    74 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 08:55:10
+Urteile: {'korrigiert': 621, 'bestätigt': 1129, 'gesperrt': 46, 'unsicher': 122} | im Vorrat: 1872 Karten an 214 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     214 Orte, 1872 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 2218519 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 08:55:11

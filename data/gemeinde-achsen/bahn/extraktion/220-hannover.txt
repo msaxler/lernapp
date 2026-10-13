@@ -1,0 +1,506 @@
+ENTITÄT: ort
+BEZEICHNUNG: Hannover
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  ist_landeshauptstadt: Niedersachsen
+  lage_geographisch: "am Südrand des Norddeutschen Tieflandes an der Leine"
+  ersterwähnung: 1150
+  stadt_seit: 1241
+  ist_großstadt_seit: 1875
+  einwohnerzahl_2025: 558051
+  rang_deutschlands_größteste_städte: 14
+  einwohnerreichste_der_welt: false
+GUELTIG_AB: 1150
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Hannover
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  status_1636: "welfische Residenzstadt"
+  status_1692: "Residenz des Kurfürstentums Braunschweig-Lüneburg"
+  status_1814: "Hauptstadt des Königreichs Hannover"
+  status_1866: "preußische Provinzhauptstadt nach Annexion"
+  status_1946: "Hauptstadt des Landes Hannover"
+  status_1946_november: "Landeshauptstadt Niedersachsen nach Fusion mit Braunschweig, Oldenburg, Schaumburg-Lippe"
+GUELTIG_AB: 1636
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Maschsee
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  fläche: 78
+  fläche_einheit: "Hektar"
+  art: "künstlich angelegt"
+  lage: "südlich des Stadtzentrums"
+  natürlicher_zu_ablauf: false
+  eröffnet: 1936
+  eröffnet_monat: "Mai"
+  baudauer: "zwei Jahre"
+  ist_größtes_gewässer_stadt: true
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Neues Rathaus
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  baustil: "eklektizistisch"
+  eröffnet: 1913
+  lage: "zwischen Altstadt und Maschpark"
+  besonderheit: "einzigartiger bogenförmiger Kuppelaufzug"
+  ist_wahrzeichen_hannover: true
+  rang_beliebteste_sehenswürdigkeiten_deutschland: "unter top 80"
+  rang_beliebteste_sehenswürdigkeiten_base: "DZT-Onlineumfrage unter ausländischen Touristen 2015"
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: religionsstätte
+BEZEICHNUNG: Marktkirche
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 14
+  erbaut_jh: "Jahrhundert"
+  baustil: "norddeutsche Backsteingotik"
+  besonderheit: "Wahrzeichen der Altstadt"
+  in_kirche_liegt: "Deutscher Michel"
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: religionsstätte
+BEZEICHNUNG: Neustädter Kirche
+ORTSTEIL_BEZUG: Calenberger Neustadt
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  baustil: "barockale Saalkirche"
+  besonderheit: "ältestes niedersächsisches protestantisches Raumideal"
+  in_kirche_liegt: "Gottfried Wilhelm Leibniz"
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: religionsstätte
+BEZEICHNUNG: Basilika St. Clemens
+ORTSTEIL_BEZUG: Calenberger Neustadt
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  charakter: "rein italienisch"
+  superlativ: "Norddeutschlands größte Kirche mit rein italienischem Charakter"
+  erbaut_zeitraum: "nach der Reformation"
+  ist_erster_neubau_katholische_kirche: true
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Schloss Herrenhausen
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: "Herrenhäuser Gärten"
+  lage: "Großer Garten"
+  zerstört_im_zweiten_weltkrieg: true
+  rekonstruktion_beginn: 2011
+  rekonstruktion_ende: 2013
+  wiedereröffnung: 2013
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gartenanlage
+BEZEICHNUNG: Herrenhäuser Gärten
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  teile: "Großer Garten, Berggarten, Georgengarten, Welfengarten"
+  besonderheit_großer_garten: "bedeutender europäischer Barockgarten"
+  fontäne_scheitelhöhe: 71.51
+  fontäne_höhe_einheit: "Meter"
+  superlativ_fontäne: "höchste Gartenfontäne Europas"
+  besucher_2018: 615000
+  auszeichnung: "2015 bester Park Europas vom European Garden Heritage Network"
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: zoo
+BEZEICHNUNG: Erlebnis-Zoo Hannover
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 1865
+  ehemaliger_name: "Zoo Hannover"
+  superlativ_älteste_zoos: "einer der fünf ältesten Zoos in Deutschland"
+  fläche: 22
+  fläche_einheit: "Hektar"
+  tieranzahl: 1943
+  tierarten: 166
+  besucher_jährlich: 1000000
+  auszeichnungen: "siebenmal Parkscout Publikums Award als bester Zoo Deutschlands, zuletzt 2017"
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: waldgebiet
+BEZEICHNUNG: Eilenriede
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  fläche: 650
+  fläche_einheit: "Hektar"
+  charakterisierung: "Grüne Lunge der Stadt"
+  lage: "zentrumsnahe"
+  wegenetz_wanderwege: 80
+  wegenetz_wanderwege_einheit: "km"
+  wegenetz_radwege: 38
+  wegenetz_radwege_einheit: "km"
+  wegenetz_reitwege: 11
+  wegenetz_reitwege_einheit: "km"
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kanal
+BEZEICHNUNG: Mittellandkanal
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  zeitliche_ebene: "20. Jahrhundert"
+  funktion_hannover: "Ost-West-Verbindung"
+  verbindung: "Binnenschifffahrtsnetz"
+  anbindung_häfen: "mehrere"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kulturinstitution
+BEZEICHNUNG: Wilhelm Busch – Deutsches Museum für Karikatur und Zeichenkunst
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Georgenpalais"
+  fachgebiet: "Karikatur und Zeichenkunst"
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Hannover-Messe
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  status: "Weltleitmesse"
+  kategorie: "Industriemesse"
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Schützenfest Hannover
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  monat: "Juli"
+  superlativ: "größtes Schützenfest der Welt"
+  besucher: 900000
+  ursprünge: 1529
+  ausmarsch_länge: 10
+  ausmarsch_länge_einheit: "km"
+  ausmarsch_größe: 10000
+  musikkapellen: 100
+  festwagen: 50
+  großer_ausmarsch_länge: 10
+  großer_ausmarsch_länge_einheit: "km"
+  großer_ausmarsch_teilnehmer: 10000
+  superlativ_ausmarsch: "größter Schützenausmarsch der Welt"
+  ehrentitel: "Schützenstadt"
+  ehrentitel_seit: 1955
+GUELTIG_AB: 1529
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Maschseefest
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Maschsee"
+  seit: 1986
+  monat: "Sommer"
+  superlativ: "größtes Seefest Deutschlands"
+  bühnen: 4
+  besucher: 2000000
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Kuppelsaal
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  sitzplätze: 3600
+  superlativ: "Deutschlands größter klassischer Konzertsaal"
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kulturinstitution
+BEZEICHNUNG: Jazz Club Hannover
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 1966
+  lage: "Lindener Berg"
+  superlativ: "einer der renommiertesten Jazz-Clubs Europas"
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: pagode
+BEZEICHNUNG: Pagode Viên Giác
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Karlsruher Straße in Mittelfeld"
+  superlativ: "eine der größten Pagoden Europas"
+  superlativ_weltweit: "weltweite Rarität"
+  erbaut: 1993
+  glaube: "buddhismus vietnamesisch"
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gottfried Wilhelm Leibniz
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1646
+  tod: 1716
+  tätigkeit: "Philosoph, Mathematiker, Universalgelehrter"
+  erfindung: "Dualsystem"
+  in_hannover_seit: 1676
+  position: "Hofrat und Leiter der Bibliothek"
+  tätigkeit_in_hannover: "lebte bis zu seinem Tod in Hannover"
+  begrabung: "Neustädter Kirche"
+  bibliothek_benannt_nach_ihm: 2005
+  universität_benannt_nach_ihm: 2006
+GUELTIG_AB: 1676
+GUELTIG_BIS: 1716
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Kurt Schwitters
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  kunstform: "Dadaismus"
+  kennwort: "Merz"
+  beschreibung: "entwickelte ein dadaistisches Gesamtweltbild"
+  werk: "Merzbau"
+  grab: "Stadtfriedhof Engesohde"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hannah Arendt
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  beruf: "politische Philosophin"
+  geburtsort: "Linden"
+  tätigkeit_hannover: "verbrachte erste Lebensjahre in der Stadt"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bügermeister
+BEZEICHNUNG: Belit Onay
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  partei: "Grüne"
+  wahl: "Stichwahl"
+  gegenkandidaten: "Eckhard Scholz (parteilos, CDU-nominiert)"
+  wahltermin: 2019
+  wahl_monat: "November"
+  stimmenanteil: 52.9
+  amtsantritt: 2019
+  amtsantritt_monat: "November"
+  amtsantritt_tag: 22
+  amtsantritt_jahr: 2019
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: messegelände
+BEZEICHNUNG: Messegelände Hannover
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  hallenfläche: 392453
+  hallenfläche_einheit: "m²"
+  freifläche: 58000
+  freifläche_einheit: "m²"
+  hallenzahl: 24
+  superlativ: "zweitgrößtes Messegelände der Welt"
+  betreiber: "Deutsche Messe AG"
+  geschichte_seit: 1947
+  messen_jährlich: 60
+  besucher_jährlich: 1000000
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Leine
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  lage: "durch Hannover fließend"
+  fließrichtung: "nordwestlich in Richtung Aller"
+  beschreibung: "schiffbar ab Höhe Maschsee"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: brigadeorden
+BEZEICHNUNG: Neue Hanse
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  mitgliedschaft_hannover_seit: 2019
+  mitgliedschaft_hannover_monat: "Juni"
+  mittelalter_status: "Hansestadt bis ca. 1620"
+  mittelalter_status_zeitraum: "13. Jahrhundert bis ca. 1620"
+  mittelalter_mitgliedschaft_wahrscheinlich_seit: 13
+  mittelalter_mitgliedschaft_wahrscheinlich_seit_jh: "Jahrhundert"
+  mittelalter_mitgliedschaft_gewiss_seit: 14
+  mittelalter_mitgliedschaft_gewiss_seit_jh: "Jahrhundert"
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: religionsorganisation
+BEZEICHNUNG: Evangelische Kirche in Deutschland
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  sitz: "Hannover"
+  sitz_kirchenamt: "Kirchenamt der EKD"
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: religionsorganisation
+BEZEICHNUNG: Weltgemeinschaft Reformierter Kirchen
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  sitz: "Hannover"
+  hauptsitz_seit: 2014
+  hauptsitz_seit_monat: "Januar"
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: universität
+BEZEICHNUNG: Gottfried Wilhelm Leibniz Universität Hannover
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 1831
+  ursprüngliche_form: "Höhere Gewerbeschule"
+  entwicklung_königlich_technische_hochschule: 1800
+  zur_technischen_hochschule_erhoben: 1899
+  nach_weltkrieg_integration_hochschule_gartenbau: 1945
+  nach_weltkrieg_integration_pädagogische_hochschule: 1968
+  standort: "Nordstadt"
+GUELTIG_AB: 1831
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Medizinische Hochschule Hannover
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 1965
+  struktur: "Department-Struktur amerikanischer Universitäten"
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Stiftung Tierärztliche Hochschule Hannover
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 1778
+  eröffnet_als: "Königliche Roß-Arzney-Schule"
+  erhoben_zu_hochschule: 1887
+  superlativ: "älteste Hochschule in Hannover"
+GUELTIG_AB: 1778
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule für Musik, Theater und Medien Hannover
+QUELLE: https://de.wikipedia.org/wiki/Hannover | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 1978
+  ursprünge: "Landesmusikschule und private Hannoversche Schauspielschule"
+  besonderheit: "Institut für Journalistik und Kommunikationsforschung"
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

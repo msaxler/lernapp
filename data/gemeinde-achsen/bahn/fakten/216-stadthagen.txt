@@ -1,0 +1,1084 @@
+ID: 216-stadthagen/001
+ENTITÄT: ort
+BEZEICHNUNG: Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  ist_kreisstadt: true
+  landkreis: Schaumburg
+  bundesland: Niedersachsen
+  entfernung_von_minden: 20 km östlich
+  entfernung_von_hannover: 37 km westlich
+  lage: Zentrum des Landkreises Schaumburg
+  einwohner: 23738
+  einwohner_stand: 31.05.2025
+  verdichtungsraum_einwohner: 70000
+  verdichtungsraum_genauigkeit: ca.
+  historische_rollen: Residenz- und kurze Zeit Universitätsstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/002
+ENTITÄT: landform
+BEZEICHNUNG: Bückeberg
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  position: südlich von Stadthagen
+  typ: Ausläufer des Weserberglandes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/003
+ENTITÄT: waldgebiet
+BEZEICHNUNG: Schaumburger Wald
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  position: nordwestlich von Stadthagen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stadthagen (Kernstadt)
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  enthält: Brandenburg, Bruchhof
+  einwohner: 18272
+  einwohner_stand: 31.05.2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Enzen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 977
+  einwohner_stand: 31.05.2025
+  eingemeindung_datum: 01.03.1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hobbensen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 96
+  einwohner_stand: 31.05.2025
+  eingemeindung_datum: 01.03.1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Habichhorst-Blyinghausen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 155
+  einwohner_stand: 31.05.2025
+  eingemeindung_datum: 01.03.1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hörkamp-Langenbruch
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  enthält: Teile des Brandshof (Forsthaus Halt)
+  einwohner: 466
+  einwohner_stand: 31.05.2025
+  eingemeindung_datum: 01.03.1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Krebshagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 397
+  einwohner_stand: 31.05.2025
+  eingemeindung_datum: 01.03.1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/010
+ENTITÄT: ortsteil
+BEZEICHNUNG: Obernwöhren
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  enthält: Habrihausen
+  einwohner: 512
+  einwohner_stand: 31.05.2025
+  eingemeindung_datum: 01.03.1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/011
+ENTITÄT: ortsteil
+BEZEICHNUNG: Probsthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  enthält: Schäferhof
+  einwohner: 368
+  einwohner_stand: 31.05.2025
+  eingemeindung_datum: 01.03.1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Reinsen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  enthält: Remeringhausen
+  einwohner: 528
+  einwohner_stand: 31.05.2025
+  eingemeindung_datum: 01.03.1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wendthagen-Ehlen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  enthält: Wendthöhe
+  einwohner: 1271
+  einwohner_stand: 31.05.2025
+  eingemeindung_datum: 01.03.1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/014
+ENTITÄT: person
+BEZEICHNUNG: Graf Adolf III. von Holstein-Schaumburg
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  tätigkeit: gründete Siedlung
+  grund: Rodungen und Besiedlung unter dem Haus Schaumburg
+  gueltig_ab: 1225
+  namensgebung_erstmals: 1230 als Updago comitis
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/015
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: St. Martinigemeinde Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/016
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Martini-Kirche
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1318
+  superlativ: älteste Pfarrkirche Stadthagens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/017
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Kirchengemeinde Wendthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  ortsteil: Wendthagen-Ehlen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/018
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Kirchengemeinde Probsthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  ortsteil: Probsthagen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/019
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Kreuzgemeinde Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: Selbständige Evangelisch-Lutherische Kirche (SELK)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/020
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelisch-reformierte Kirchengemeinde
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch-reformiert
+  gebäude: Klosterkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/021
+ENTITÄT: kirche
+BEZEICHNUNG: Klosterkirche
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeitraum: 1485-1500
+  ursprung: Überrest des Franziskanerklosters
+  besitzer_seit: Mitte des 18. Jahrhunderts
+  aktueller_nutzer: Evangelisch-reformierte Kirchengemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/022
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Joseph-Kirche
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/023
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Johannis-Kapelle
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1312
+  superlativ: ältestes erhaltenes Baudenkmal Stadthagens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/024
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeitraum: 1534-1538
+  baumeister: Jörg Unkair
+  vorgänger: Wasserburg
+  aktueller_zweck: Finanzamt
+  superlativ: ältestes und wohl einflussreichstes Baudenkmal der Weserrenaissance
+  vorbild_für: Adelssitze im südlichen Weserraum
+GUELTIG_AB: 1534
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/025
+ENTITÄT: mausoleum
+BEZEICHNUNG: Mausoleum der Grafen und Fürsten von Schaumburg-Lippe
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeitraum: 1608-1620
+  baumeister: Giovanni Maria Nosseni, Anton Boten
+  bildhauer_auferstehungsplastik: Adrian de Vries
+  architektur: siebeneckige Anlage, durch Kirchenchor verbunden
+  architektur_vorbild: Mediceer-Grab an S. Lorenzo in Florenz
+  kunstdenkmal_bedeutung: überregional
+GUELTIG_AB: 1608
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/026
+ENTITÄT: person
+BEZEICHNUNG: Giovanni Maria Nosseni
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  leben: 1544-1620
+  geburtsort: Lugano
+  todeort: Dresden
+  beruf: kursächsischer Hofbaumeister und Bildhauer
+  tätig_für: Mausoleum Stadthagen
+  tätig_ab: 1607
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/027
+ENTITÄT: person
+BEZEICHNUNG: Adrian de Vries
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  leben: ca. 1545-1626
+  leben_alternative: um 1556-vor 15.12.1626
+  geburtsort: Den Haag
+  todeort: Prag
+  beruf: niederländischer Bildhauer und Bronzegießer
+  tätig_für: Auferstehungsplastik Mausoleum Stadthagen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/028
+ENTITÄT: person
+BEZEICHNUNG: Jörg Unkair
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: Tübinger Baumeister
+  projekt: Schloss Stadthagen
+  projektzeit: 1534-1538
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/029
+ENTITÄT: person
+BEZEICHNUNG: Anton Boten
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: schaumburgischer Architekt und Hofmaler
+  projekt: Mausoleum (Vollendung)
+  projektzeit: 1608-1620
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/030
+ENTITÄT: person
+BEZEICHNUNG: Jakob Dammann
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  leben: 1534-1591
+  rolle: erster lutherischer Geistlicher an St. Martini
+  tätigkeit: Reformator der Grafschaft Schaumburg
+  berufung_jahr: 1559
+  benannt_nach_strasse: Dammannstraße
+  benannt_nach_gebäude: evangelisches Gemeindezentrum Jakob-Dammann-Haus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/031
+ENTITÄT: person
+BEZEICHNUNG: Graf Otto IV. zu Schaumburg
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  tätigkeit: führte lutherisches Bekenntnis ein
+  tätig_jahr: 1559
+  ehefrau: Elisabeth Ursula von Braunschweig-Lüneburg
+  ehefrau_beschreibung: Tochter Ernsts des Bekenners
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/032
+ENTITÄT: person
+BEZEICHNUNG: Graf Ernst zu Schaumburg
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  tätigkeit: verlegte Residenz
+  verlegung_von: Stadthagen
+  verlegung_nach: Bückeburg
+  verlegung_jahr: 1607
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/033
+ENTITÄT: bergbau
+BESCHREIBUNG: Steinkohleabbau in Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  rohstoff: Steinkohle
+  beginn: 1501
+  ende: 1961
+GUELTIG_AB: 1501
+GUELTIG_BIS: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/034
+ENTITÄT: bergbauanlage
+BEZEICHNUNG: Georgschacht
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  einweihung: 1902
+  einweiher: Fürst Georg zu Schaumburg-Lippe
+  tiefe_1925: 353
+  tiefe_einheit: m
+  arbeiter_kumpel: 2600
+  beamte_angestellte: 64
+  komponenten: Förderturm, Maschinenhaus, Dampffördermaschine, Kohlewäsche, Elektrizitätswerk, Zechenhaus, Waserturm
+  stilllegung_jahr: 1960
+  grund_stilllegung: Abbau nicht mehr wirtschaftlich
+  heutige_beschreibung: Industrieruine
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/035
+ENTITÄT: industrieanlage
+BEZEICHNUNG: Kohlebunker der ehemaligen Kokerei
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  abriss_jahr: 2007
+  grund_abriss: Baufälligkeit
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 216-stadthagen/036
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  brand_datum: 11./12. November 1938
+  grund: Reichspogromnacht, Nationalsozialistische Verfolgung
+  besonderheit: Bürgermeister Fritz Hamelberg behauptete später Nichtbeteiligung, da er am Branddatum verreist gewesen sei
+  bemerkung: Synagoge zwei Tage später angezündet als in anderen deutschen Städten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/037
+ENTITÄT: kaufhaus
+BEZEICHNUNG: Elias Lion
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  eigenschaft: jüdisches Kaufhaus
+  arisierung_jahr: 1938
+  neue_betreiber: Kaufmann Thomas
+  grund: zahlreiche Boykottaktionen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/038
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kanalisation Obern- und Niedernstraße
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: erste Kanalisation Stadthagens
+  jahr: 1825
+GUELTIG_AB: 1825
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/039
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Straßenbeleuchtung
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  erste_form: Richtlaternen
+  installation_jahr: 1864
+  zweite_form: Gasbeleuchtung
+  umstellung_gas: 1899
+  dritte_form: elektrische Beleuchtung
+  umstellung_elektrisch: 1955
+GUELTIG_AB: 1864
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/040
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  empfangsgebäude_architekt: Julius Eugen Ruhl
+  empfangsgebäude_baujahr: 1847
+  empfangsgebäude_veränderung_bis: 1930
+  lage: Bahnstrecke Hannover-Minden
+  bahnn_betreiber_regional: Westfalenbahn (Stundentakt)
+  bahnn_betreiber_sbahn: Transdev Hannover (Stundentakt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/041
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Stadthagen West
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Bahnstrecke Rinteln-Stadthagen
+  personenverkehr_betrieb: 1898-1965
+  betreiber_heute: Dampfeisenbahn Weserbergland (museal)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/042
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Straßenbahn Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Pferdebahn
+  betriebszeitraum: 04.09.1897-20.06.1930
+  strecke: Bahnhof - Stadt
+  superlativ: letzte in Deutschland regulär betriebene Pferdebahn
+  ersatz: Busse
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/043
+ENTITÄT: gebaeude
+BEZEICHNUNG: Amtspforte
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1553
+  ort_ursprung: damaliges Oberntor
+  funktion_ursprung: Verwaltung aller Hagendörfer
+  heutiger_zweck: Heimatmuseum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/044
+ENTITÄT: gebaeude
+BEZEICHNUNG: Neues Baumhaus
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeitraum: 1595-1602
+  stil: Weserrenaissance
+GUELTIG_AB: 1595
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/045
+ENTITÄT: gebaeude
+BEZEICHNUNG: Alte Lateinschule
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1556
+  schließung: 1811
+  vorgänger_existenz: bereits im 14. Jahrhundert Lateinschule in Stadthagen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/046
+ENTITÄT: gebaeude
+BEZEICHNUNG: Landsbergscher Hof
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1731
+  heutiger_zweck: Stadtbücherei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/047
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus zum Wolf
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1575
+  beschreibung: eines der schönsten Fachwerkhäuser Stadthagens
+  bauweise: Fachwerkhaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/048
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Goldener Engel
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: vor 1600
+  beschreibung: prachtvolles Fachwerkhaus
+  bauweise: Fachwerkhaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/049
+ENTITÄT: parkanlage
+BEZEICHNUNG: Stadtgarten
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  stil: barock
+  entstehung: Ende des 16. Jahrhunderts
+  komponenten: Lustschlösschen, Teich, Springbrunnen, Café, Baumbestand
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/050
+ENTITÄT: parkanlage
+BEZEICHNUNG: Wallanlagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: Um 1400
+  umgestaltung: Anfang des 20. Jahrhunderts
+  umgestaltung_beschreibung: zu baumbestandener Parkanlage umgewandelt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/051
+ENTITÄT: gebaeude
+BEZEICHNUNG: Festungsturm Am Viehmarkt
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Teil der Befestigungsanlagen um 1400
+  noch_vorhanden: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/052
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  stil: Weserrenaissance
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/053
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  religion: Jüdisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/054
+ENTITÄT: rittergut
+BEZEICHNUNG: Rittergut Remeringhausen
+ORTSTEIL_BEZUG: Reinsen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: historischer Gutshof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 216-stadthagen/055
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Durchbruch der Gene
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  künstler: Wolf E. Schultz
+  typ: Skulptur
+  ort: westlicher Stadtwall
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/056
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Zeitstrahl
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kunstobjekt
+  ort: Kreisverkehr Oberntorstraße/Habichhorster Straße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 216-stadthagen/057
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Skulpturengruppe Küppers Minna
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  künstler: Schwerdtfeger und Heisig (hannoverscher Künstlergemeinschaft)
+  entstehung: 1980er und 1990er Jahre
+  ort: Obernstraße/Niedernstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/058
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Figurenbrunnen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  künstler: Schwerdtfeger und Heisig
+  entstehung: 1980er und 1990er Jahre
+  ort: Marktplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/059
+ENTITÄT: sportverein
+BEZEICHNUNG: FC Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  gegründung: 1950
+  sport: Fußball
+  mitglieder: ca. 300
+  erfolg: erfolgreichster Fußballverein der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/060
+ENTITÄT: sportverein
+BEZEICHNUNG: VfL Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  sparten: 12
+  mitglieder: ca. 1350
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/061
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Union Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  sport: Fußball
+  mitglieder: ca. 130
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/062
+ENTITÄT: sportverein
+BEZEICHNUNG: SG Rot-Weiß
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  sparten: Fußball, Gymnastik
+  mitglieder: ca. 200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/063
+ENTITÄT: sportverein
+BEZEICHNUNG: Post SV
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  sparten: 12
+  mitglieder: über 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/064
+ENTITÄT: sportverein
+BEZEICHNUNG: TSV Eintracht Bückeberge
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  abteilungen: 7
+  fokus: Bergkette
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/065
+ENTITÄT: sportverein
+BEZEICHNUNG: TuS Schwarz Weiß Enzen
+ORTSTEIL_BEZUG: Enzen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  sparten: 4
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/066
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Ratsband
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Schulorchester
+  schule: Ratsgymnasium Stadthagen
+  bekanntheit: regional bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/067
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Symphonisches Blasorchester Schaumburg
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  kürzel: SBO
+  bekanntheit: regional bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/068
+ENTITÄT: musikgruppe
+BEZEICHNUNG: St. Martini-Brass Band Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  kirche: St.-Martini-Kirche
+  vorbild: englisches Brassband-Modell
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/069
+ENTITÄT: person
+BEZEICHNUNG: Clara Asch
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  leben: 1881-1942
+  beruf: jüdische Ladenbesitzerin
+  schicksal: deportiert nach KZ Auschwitz und ermordet
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/070
+ENTITÄT: person
+BEZEICHNUNG: Oliver Theiß
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Bürgermeister Stadthagens
+  partei: parteilos
+  wahl_jahr: 2021
+  stimmenanteil: 53.38
+  wahlbeteiligung: 50.11
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/071
+ENTITÄT: person
+BEZEICHNUNG: Burkhard Balz
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 1969
+  rolle: Mitglied des Vorstands der Deutschen Bundesbank
+  früheres_amt: Mitglied des Europäischen Parlaments
+  abitur_jahr: 1988
+  abitur_schule: Neues Gymnasium Stadthagen
+  wohnort_seit: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/072
+ENTITÄT: person
+BEZEICHNUNG: Marja-Liisa Völlers
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 1984
+  rolle: Bundestagsabgeordnete
+  wahlkreis: Nienburg II – Schaumburg
+  abitur_jahr: 2004
+  abitur_schule: Ratsgymnasium Stadthagen
+  lehrtätigkeit_zeit: 2012-2017
+  lehrtätigkeit_schule: Integrierte Gesamtschule Schaumburg
+  fächer: Englisch, Geschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/073
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Hofmeister
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  leben: 1912-1978
+  beruf: Automobildesigner
+  rolle: Chefdesigner von BMW
+  tätig_bei_bmw: 1955-1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/074
+ENTITÄT: person
+BEZEICHNUNG: Sibylle Kessal-Wulf
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 1958
+  rolle: Richterin des Bundesverfassungsgerichts
+  früheres_amt: vorsitzende Richterin am Bundesgerichtshof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/075
+ENTITÄT: person
+BEZEICHNUNG: Erik Spiekermann
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 1947
+  beruf: Typograf und Schriftgestalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/076
+ENTITÄT: person
+BEZEICHNUNG: Katja Flint
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 1959
+  beruf: Filmschauspielerin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/077
+ENTITÄT: person
+BEZEICHNUNG: Julia Doege
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  geboren: 1978
+  beruf: Schauspielerin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/078
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Tapolca
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  land: Ungarn
+  partnerschaft: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/079
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Eisenberg
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  partnerschaft: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/080
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  schild_farbe: silberner Schild
+  hauptelement: rotes Mauertor mit drei Türmen
+  inneres_element: roter Schild mit Nesselblatt
+  bekrönung: dreitürmige graue Mauerkrone
+  siegel_jahr: 1324
+  element_nesselblatt_bedeutung: Wappenemblem der Schaumburger Grafen
+  element_nesselblatt_ursprung: Schaumburg auf dem Nesselberg im Wesertal (Stammsitz der Grafen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 216-stadthagen/081
+ENTITÄT: industriedenkmal
+BEZEICHNUNG: Zeche Georgschacht
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  waschkaue_stil: Jugendstil
+  waschkaue_name: Kohlenkirche
+  waschkaue_denkmalschutz: ja
+  waschkaue_abriss: 2023/24
+  grund_abriss: fortschreitender Verfall
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/082
+ENTITÄT: schule
+BEZEICHNUNG: Ratsgymnasium Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  tradition: Europaschule
+  vorgänger: Gymnasium illustre
+  vorgänger_gründung: 1610
+  vorgänger_umwandlung: 1619 zur Universität erhoben
+  vorgänger_verlegung: 1621 nach Rinteln
+  vorgänger_vorbild: Lateinschule (bereits 14. Jahrhundert)
+  superlativ: eine der ältesten Schulen im deutschen Sprachraum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/083
+ENTITÄT: schule
+BEZEICHNUNG: Wilhelm-Busch-Gymnasium
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  tradition: Europaschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/084
+ENTITÄT: schule
+BEZEICHNUNG: Schule am Schlosspark
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  frühere_form: Haupt- und Realschule
+  umwandlung_datum: 31.07.2011
+  neue_form: Oberschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/085
+ENTITÄT: schule
+BEZEICHNUNG: Hans-Christian-Andersen-Schule
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Förderschule
+  schließung: 31.07.2019
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/086
+ENTITÄT: schule
+BEZEICHNUNG: Integrierte Gesamtschule Schaumburg
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  standort: Stadthagen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/087
+ENTITÄT: zeitung
+BEZEICHNUNG: Schaumburger Nachrichten
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  erscheinungshäufigkeit: werktäglich
+  redaktion: Stadthagen
+  verlag: Stadthagen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/088
+ENTITÄT: unternehmen
+BEZEICHNUNG: P. A. Rentrop
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  heutiger_name: Faurecia
+  ansiedlung: 1917
+  bedeutung: überregional
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/089
+ENTITÄT: unternehmen
+BEZEICHNUNG: Obo-Werke
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: überregional
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/090
+ENTITÄT: unternehmen
+BEZEICHNUNG: Möbel Heinrich
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: überregional
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/091
+ENTITÄT: unternehmen
+BEZEICHNUNG: Luehr Filter
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: überregional
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/092
+ENTITÄT: unternehmen
+BEZEICHNUNG: Schweerbau
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: überregional
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 216-stadthagen/093
+ENTITÄT: ereignis
+BEZEICHNUNG: Reichspogromnacht in Stadthagen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 11./12. November 1938
+  ereignis: Synagoge angezündet
+  grund: Nationalsozialistische Judenverfolgung
+  bürgermeister: Fritz Hamelberg
+  bürgermeister_behauptung: spätere Behauptung der Nichtbeteiligung, da verreist
+  bemerkung: zwei Tage später als in anderen deutschen Städten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/094
+ENTITÄT: ereignis
+BEZEICHNUNG: Befreiung von Stadthagen durch amerikanische Truppen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 9. April 1945
+  befreier: amerikanische Truppen
+  widerstände: keine
+  folge: Stadt verschont vor Kriegsschäden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 216-stadthagen/095
+ENTITÄT: ereignis
+BEZEICHNUNG: Gemeindereform mit Eingemeindungen
+QUELLE: https://de.wikipedia.org/wiki/Stadthagen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 01.03.1974
+  gemeinden_eingemeindete: Enzen, Habichhorst-Blyinghausen, Hobbensen, Hörkamp-Langenbruch, Krebshagen, Obernwöhren, Probsthagen, Reinsen, Wendthagen-Ehlen
+  gebietsteile: Brandenburg (Nordsehl), Bruchhof (Nienstädt)
+  folge: Einwohnerzahl auf ca. 23000
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
