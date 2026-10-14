@@ -1,0 +1,324 @@
+ID: 343-asbach/001
+ENTITÄT: ort
+BEZEICHNUNG: Asbach
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  art: Ortsgemeinde
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verwaltungssitz: Verbandsgemeinde Asbach
+  naturpark: Rhein-Westerwald
+  entfernung_kreisstadt_neuwied: 25 km [ca.]
+  entfernung_bundesstadt_bonn: 25 km [ca.]
+  jahresniederschlag: 952 mm
+  ursprung_epoche: fränkische Landnahme 600-900
+  namensherkunft: "Aspach" (Siedlungsplatz, nicht von Wasserlauf hergeleitet)
+  erste_urkundliche_erwähnung: nach 1180
+  eigenständige_gemeinde_jahr: 1858
+  gründung_heutige_gemeinde_jahr: 1974
+  gründung_heutige_gemeinde_datum: 1974-03-16
+  gründung_zusammensetzung: Asbach, Limbach, Schöneberg, Teil Elsaff
+  gemeinderatsgröße: 24 [seit 2024]
+  gemeinderatsgröße_vorher: 22 [bis 2019]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/002
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwähnung: 1237
+  ursprünglich_stil: romanisch
+  neubau_stil: neugotisch
+  neubau_schiffe: 3
+  architekt: Vincenz Statz
+  architekt_herkunft: Köln
+  bauzeit: 1866-1871
+  weihe_neubau: 1871
+  zerstörung: 1945
+  grund_zerstörung: Bomben- und Granatenbeschuss
+  wiederaufbau: 1951
+  besonderheit_erhaltung: romanischer Turm blieb erhalten
+  fenster_kunstwerk: figürliche Darstellungen
+  fenster_künstler: Glasmalerei Schneiders und Schmolz (Köln-Lindenthal)
+  fenster_anzahl: 4
+  taufstein_epoche: 13. Jahrhundert
+  taufstein_stil: romanisch
+  taufstein_form: Kelchform
+  taufstein_beschaffenheit: reich verziert
+  kapelle_standort: erstes Turmgeschoss
+  kapelle_gewölbe: Kreuzgratgewölbe
+  kapelle_gewölbe_rekonstruktion: 1972
+  pietà_epoche: ca. 16. Jahrhundert
+  orgel_erbauer: G. Christian Lobback
+  orgel_baujahr: 1991
+  orgel_manuale: 2
+  orgel_register: 33
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 343-asbach/003
+ENTITÄT: museum
+BEZEICHNUNG: Eisenbahnmuseum
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  thema: Bröltalbahn
+  eröffnung: 2000
+  standort: ehemaliges Bahnhofsgelände
+  exponat_lokomotive: Dampflok 53
+  exponat_lokomotive_herkunft: Wolfgang Clössner
+  ausstellung_inhalt: Fahrzeuge, Exponate, Dokumente zur Bröltalbahn und Rhein-Sieg-Eisenbahn
+  gleisanlage_länge: ca. 100 m
+  gleisanlage_ausstattung: Bahnübergang
+  gleisanlage_verlängerung: 2012
+  gleisanlage_rekonstruktion: Winter 2022/23
+  empfangsgebäude: von Gemeinde erworben und saniert
+  untergeschoss: Ausstellungsräume
+  obergeschoss: Privatwohnung
+  öffnungszeiten: jeden 2. Sonntag im Monat
+  eintritt: kostenlos
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/004
+ENTITÄT: bahnverbindung
+BEZEICHNUNG: Bröltalbahn
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  bauart: Schmalspurbahn
+  strecke_hauptabschnitt: Hennef - Buchholz
+  verlängerung_ziel: Asbach
+  verlängerung_datum: 1892-08-15
+  bahnhof_asbach_typ: Streckenendpunkt
+  bahnhof_asbach_ausstattung: Lokschuppen, Empfangsgebäude, Güterschuppen
+  personenverkehr_einstellung_datum: 1956-08-01
+  güterverkehr_einstellung_datum: 1959-12-01
+  streckenstilllegung: nach Güterverkehr
+GUELTIG_AB: 1892
+GUELTIG_BIS: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 343-asbach/005
+ENTITÄT: klinik
+BEZEICHNUNG: Kamillus-Klinik
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  spezialisierung: Multiple-Sklerose-Erkrankungen
+  abteilungen: neurologischer Bereich, Schlaflabor, innere Abteilung
+  schlaflabor: modern eingerichtet
+  träger_rechtsform: katholischer Frauenorden
+  träger_name: Töchter des heiligen Kamillus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 343-asbach/006
+ENTITÄT: sportverein
+BEZEICHNUNG: TuS 1882 Asbach e.V.
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  gründungsjahr: 1882
+  größe: größter Sportverein in Asbach
+  sportarten: Volleyball, Fußball, Badminton, Breitensport
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/007
+ENTITÄT: sportverein
+BEZEICHNUNG: Tennisclub Asbach
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Tennis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 343-asbach/008
+ENTITÄT: sportverein
+BEZEICHNUNG: Tischtennis Freunde Asbacher Land
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Tischtennis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 343-asbach/009
+ENTITÄT: sportverein
+BEZEICHNUNG: SchachFreunde Asbacher Land
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Schach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 343-asbach/010
+ENTITÄT: sportverein
+BEZEICHNUNG: Budoclub Bushido e.V.
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Budo
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 343-asbach/011
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Auguste Kirchhoff
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1867
+  todesjahr: 1940
+  beruf: Frauenrechtlerin
+  geburtsort: Asbach
+GUELTIG_AB: 1867
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/012
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Achim Hallerbach
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1966
+  beruf: Politiker
+  partei: CDU
+  amt: Landrat des Kreises Neuwied
+  amt_beginn: 2018
+  wohnort: Asbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/013
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Peter Wittkamp
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1981
+  beruf: Autor
+  geburtsort: Asbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/014
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Volker Wittkamp
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1983
+  beruf: Arzt und Autor
+  aufwachsen: Asbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/015
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Daniel Buballa
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1990
+  beruf: Fußballspieler
+  aufwachsen: Asbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 343-asbach/016
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Franz-Peter Dahl
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  amtsbeginn: 2011
+  wahl_2019_datum: 2019-05-26
+  wahl_2019_stimmenanteil: 86,40 %
+  wahl_2019_kandidatenzahl: 1 [einziger Bewerber]
+  wahl_2024_datum: 2024-06-09
+  wahl_2024_stimmenanteil: 65,6 %
+  wahl_2024_kandidatenzahl: 3
+  partei_ab_ende_2023: parteilos
+  partei_davor: CDU
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 343-asbach/017
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Johann Dittscheid
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  wohnort: Asbach
+  amtszeit: 1946-1957
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1957
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/018
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Philipp Limbach
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  wohnort: Asbach
+  amtszeit: 1957-1968
+GUELTIG_AB: 1957
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/019
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Heinz Brockmann
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  wohnort: Asbach
+  amtszeit: 1968-1974
+GUELTIG_AB: 1968
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/020
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Franz Winggen
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  wohnort: Krankel
+  amtszeit: 1974-1983
+GUELTIG_AB: 1974
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/021
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Edmund Buchholz
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  wohnort: Krumscheid
+  amtszeit: 1983-1990
+GUELTIG_AB: 1983
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/022
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Helmut Reith
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  wohnort: Niedermühlen
+  amtszeit: 1990-2011
+GUELTIG_AB: 1990
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 343-asbach/023
+ENTITÄT: burg
+BEZEICHNUNG: Ehrenstein
+QUELLE: https://de.wikipedia.org/wiki/Asbach_(Westerwald) | Wikipedia
+EIGENSCHAFTEN:
+  status: Unterherrlichkeit
+  ausstattung: Burg, Kloster
+  nebengebäude: 3 Höfe, 1 zerstörte Mühle
+  pfarrei: eigenständig
+GUELTIG_AB: 1660
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,266 @@
+ID: 341-windhagen/001
+ENTITÄT: ort
+BEZEICHNUNG: Windhagen
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nördlich im Naturpark Rhein-Westerwald
+  erstmalige_erwaehnung: 893 (Prümer Urbar)
+  namensherkunft: Ableitung von "Wendehagen", Grenzort an der Schnittstelle germanischer Gaue, wahrscheinlich keltischen Ursprungs
+  kaeltische_besiedlung_dokumentiert_seit: 6. Jahrhundert v. Chr.
+  status_kreis: zählt zu den ältesten Gemeinden im Kreis Neuwied
+  kommunalreform: 1970, Zusammenlegung von Rederscheid und Windhagen
+  anzahl_ortsteile: 14
+  gesamtflaeche: 1.494 [Hektar]
+  bewoelkerung: ca. 4.500
+  arbeitsplaetze: ca. 2.500
+  erzbistum: Köln
+GUELTIG_AB: 893
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 341-windhagen/002
+ENTITÄT: ringwall
+BEZEICHNUNG: Hummelsberg
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb der Stadt Linz
+  zeitraum_dokumentiert: 6. Jahrhundert v. Chr.
+  besiedelung: keltische Horden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 341-windhagen/003
+ENTITÄT: ringwall
+BEZEICHNUNG: Asberg
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: westlich von Schweifeld
+  zeitraum_dokumentiert: 6. Jahrhundert v. Chr.
+  besiedelung: keltische Horden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 341-windhagen/004
+ENTITÄT: ringwall
+BEZEICHNUNG: Petersberg
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_dokumentiert: 6. Jahrhundert v. Chr.
+  besiedelung: keltische Horden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 341-windhagen/005
+ENTITÄT: kapelle
+BEZEICHNUNG: Hallerbacher Kapelle
+ORTSTEIL_BEZUG: Hallerbach
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausrichtung: Nordwesten (ungewöhnlich, da Sakralbauten üblicherweise nach Osten ausgerichtet sind)
+  grund_ausrichtung: orientiert auf keltische Kultstätte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 341-windhagen/006
+ENTITÄT: kapelle
+BEZEICHNUNG: Dreifaltigkeitskapelle Hallerbach
+ORTSTEIL_BEZUG: Hallerbach
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  letzte_dokumentierte_renovierung: 1450
+  geschaetztes_alter: bedeutend älter als 1450
+  baustil: verputzte, weiß gestrichene Baukörper, drei Seiten des Achtecks
+  dach: Satteldach mit schiefergedecktem Glockentürmchen
+  glocke_material: Bronzeglocke
+  glocke_gegossen: 1852
+  glocke_gussort: Schippang, Neuwied
+  glocke_gewicht: 50 [kg]
+  fenster_chor: fensterlos, dreiteiliger Chorschluss
+  fenster_schiff: je eine Fensteröffnung auf beiden Seiten
+  fenster_giebel: zwei zusätzliche flachbogige Fenster
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 341-windhagen/007
+ENTITÄT: kreuz
+BEZEICHNUNG: Friedhofskreuz
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Basaltlava
+  hoehe: 3 [Meter]
+  jahr: 1731
+GUELTIG_AB: 1731
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 341-windhagen/008
+ENTITÄT: kreuz
+BEZEICHNUNG: Barockes Kreuz
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1702
+  standort: gegenüber der Sankt Bartholomäus Kirche
+  inschrift: dokumentiert 1000-jähriges Bestehen des Ortes Windhagen
+GUELTIG_AB: 1702
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 341-windhagen/009
+ENTITÄT: biotop
+BEZEICHNUNG: Biotop Windhagen
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_alternative: "grüne Lunge" Windhagens
+  lage: Lärchenstraße, unterhalb Parkplatz Innerort (bei der Sparkasse)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 341-windhagen/010
+ENTITÄT: zeltplatz
+BEZEICHNUNG: Jugendzeltplatz Kirchwies
+ORTSTEIL_BEZUG: Hüngsberg
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Pfaffenbachtal, unterhalb des Ortsteil Hüngsberg
+  gewaesser: Zusammenfluss des Stockhausener Bachs und des Pfaffenbachs
+  bedeutung: beliebtes Reiseziel für Kinder und Jugendliche aus ganz Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 341-windhagen/011
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle St. Mariä Heimsuchung
+ORTSTEIL_BEZUG: Hüngsberg
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: talwärts gelegenes Ende des Ortes Hüngsberg, zwischen Weiden
+  baustil: Rechteckbau mit Halbrund-Schluss, heller Putz, Satteldach
+  glockenstuebchen: Glockentürmchen über dem Giebel
+  glöckchen_jahr: 1863
+  glöckchen_gewicht: 40 [kg]
+  glöckchen_ursprung: Lauer, Schlesien
+  glöckchen_herkunft_detail: nach dem Krieg hierher verschlagen, als Leihglocke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 341-windhagen/012
+ENTITÄT: kapelle
+BEZEICHNUNG: Marienkapelle Stockhausen
+ORTSTEIL_BEZUG: Stockhausen
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stifter: Gebrüder Roth
+  stiftungsgrund: Dank für unversehrte Rückkehr aus dem deutsch-französischen Krieg
+  stiftung_umfang: Startkapital und Baugrundstück
+  bauzeit: 2 Jahre
+  weihe: Immerwährende Hilfe
+  erstes_gottesdienst: 1886
+GUELTIG_AB: 1886
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 341-windhagen/013
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Bartholomäus
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1869-1870
+  architekt: Vincent Statz, Köln
+  stil: gotisierender Neubau
+  turm_einsturz: 1871
+  turm_wiederaufbau: 1908
+  turm_architekt: Stumpf, Bonn
+  erweiterung: 1908, um ein halbes Joch verlängert
+  kriegsschaeden: 1939-1945 schwer beschädigt, Fenster durch Bomben zerstört
+  wiederherstellung_kriegsschaeden: 1954-1959
+  funktion: Mittelpunkt des Ortszentrums
+  konfession: katholisch
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 341-windhagen/014
+ENTITÄT: pfarrgemeinde
+BEZEICHNUNG: Katholische Pfarrgemeinde St. Bartholomäus
+QUELLE: https://windhagen.de/html/kirchen.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seelsorgebereich: Rheinischer Westerwald
+  leitender_pfarrer: Dariusz Glowacki
+  pfarrvikar: Ulrich Olzem
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 341-windhagen/015
+ENTITÄT: pfarrgemeinde
+BEZEICHNUNG: Evangelische Pfarrgemeinde
+QUELLE: https://windhagen.de/html/kirchen.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrer: Bernd Peters
+  kirchengemeinde_zugehoerigkeit: Evangelische Kirchengemeinde Neustadt - Vettelschoß
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 341-windhagen/016
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Sebastianuskapelle Rederscheid
+ORTSTEIL_BEZUG: Rederscheid
+QUELLE: https://windhagen.de/html/sehenswertes.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weihe_datum: 10. Mai 1803
+  weihe_vollzogen_durch: damaliger Pfarrer mit Erlaubnis des Domkapitels
+  bedeutung: Zierde des Ortes und Anziehungspunkt
+  baustil: weißverputzter Rechteckbau mit dreiteiligem fensterlosen Schluss
+  dach: Satteldach, Walmdach über dem Chor
+  glockenstuebchen: geschiefertes Glockentürmchen mit Kreuz und Wetterhahn
+  glöckchen_jahr: 1832
+  glöckchen_material: Bronzeglocke
+  glöckchen_durchmesser: 32 [cm]
+  glöckchen_gewicht: 30 [kg]
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 341-windhagen/017
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Windhagen
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  annahme_jahr: 1986
+  annahme_durch: Gemeinderat
+  struktur: drei Felder
+  feld_1_beschreibung: schwarzes Kreuz auf silbernem Grund
+  feld_1_bedeutung: Zugehörigkeit zum Erzbistum Köln und dessen Grundherrliche Rechte
+  feld_2_beschreibung: blauer Wellenbalken in silbernem Feld mit drei 5-blättrigen Rosen mit roten Butzen
+  feld_2_quelle: Wappen des niederadligen Geschlechts derer von Schoenebeck
+  feld_2_ansiedlung_schoenebeck: ab 1630 in Windhagen vom Niederrhein kommend
+  feld_3_beschreibung: geschweifte rote Spitze mit goldenem Brunnen
+  feld_3_symbolik: Taubenbrunnen in Ortsmitte mit Heilkräften bei Gehörschäden nach mittelalterlichem Volksmund
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 341-windhagen/018
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Geschlecht von Schoenebeck
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adelstitel: niederadlig
+  herkunftsregion: Niederrhein
+  ansiedlung: Windhagen
+  ansiedlung_ab: 1630
+  bestand_bis: Gegenwart
+  wappendarstellung: blauer Wellenbalken in silbernem Feld mit drei 5-blättrigen Rosen mit roten Butzen
+GUELTIG_AB: 1630
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 341-windhagen/019
+ENTITÄT: brunnen
+BEZEICHNUNG: Taubenbrunnen
+QUELLE: https://windhagen.de/html/geschichte.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ortsmitte Windhagen
+  volkskundlicher_ruf: Brunnenwasser mit Heilkräften bei Gehörschäden (mittelalterlicher Volksmund)
+  kulturelle_rezeption: dargestellt als goldener Brunnen in roter Spitze im Wappen Windhagens seit 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

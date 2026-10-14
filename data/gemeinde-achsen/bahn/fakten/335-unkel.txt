@@ -1,0 +1,953 @@
+ID: 335-unkel/001
+ENTITÄT: ort
+BEZEICHNUNG: Unkel
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  lage: rechte Seite des Rheins, kleine Anhöhe (Pantaleonsberg)
+  namensherkunft: lateinisch "uncus" (Haken); Rhein bildet dort ein Knie
+  namensherkunft_alternative: fränkisch "angel" (Bogen, Krümmung)
+  erste_urkundliche_erwähnung_jahr: 886
+  erste_urkundliche_erwähnung_name: Oncale
+  erste_urkundliche_erwähnung_quelle: Goldenes Buch der Abtei Prüm
+  erste_urkundliche_erwähnung_dat: 26. Februar 886
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 335-unkel/002
+ENTITÄT: ort
+BEZEICHNUNG: Unkel
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  bundesland: Rheinland-Pfalz
+  landkreis: Neuwied
+  lage_zu_bonn: ca. 20 km südlich
+  lage_fluss: östliches Ufer des Rheins
+  verwaltungssitz: Verbandsgemeinde Unkel
+  naturpark: Naturpark Rhein-Westerwald
+  reputation: Rotweinstadt
+  hoechste_erhebing_name: Asberg
+  hoechste_erhebing_hoehe: 430.2
+  hoechste_erhebing_einheit: m ü. NN
+  tiefster_punkt: Rheinufer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 335-unkel/003
+ENTITÄT: ort
+BEZEICHNUNG: Unkel
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  erster_pruemerbesitz: 893
+  erster_pruemerbesitz_objekt: sechs Höfe des Klosters
+  mittelalterliche_herren: Kölner Erzstift (ab Mitte 11. Jh.)
+  grundherr_stift_maria: Stift Maria ad Gradus (ab 1057)
+  grundherr_stift_maria_dauer_bis: 1803
+  stadtwerdung_jahr: 1578
+  stadtwerdung_eigenschaft: kurkölnische Stadt
+  stadtbefestigung_jahr: ca. Mitte 16. Jahrhundert
+  eisenbahn_anbindung_jahr: 1870
+GUELTIG_AB: 886
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/004
+ENTITÄT: ort
+BEZEICHNUNG: Unkel
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  politische_zugehoerigkeiten_1803: Herzogtum Nassau
+  politische_zugehoerigkeiten_1815: Königreich Preußen
+  politische_zugehoerigkeiten_1815_verlust: Stadtrechte
+  verwaltungssitz_preussen: Bürgermeisterei (ab 1815)
+  kreis_preussen: Kreis Linz, Regierungsbezirk Coblenz (ab 1816)
+  kreis_zusammenschluss_jahr: 1822
+  kreis_zusammenschluss_mit: Kreis Neuwied
+GUELTIG_AB: 1803
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 335-unkel/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Pantaleon
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  typ: Pfarrkirche
+  konfession: katholisch
+  hochaltar: barock
+  turm: romanisch
+  daechern: drei parallele Satteldächer
+  reliquien: hölzerner Reliquienschrein mit Temperabildern vom heiligen Pantaleon
+  lage: Rheinpromenade
+  ausstattung: reich ausgestattet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/006
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Joseph
+ORTSTEIL_BEZUG: Scheuren
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  alias: Scheurener Dom
+  erste_erwaehnung_jahr: 1552
+  bauzeit_vermutet: ca. 1500
+  brand_durch_koelner_krieg_jahr: 1583
+  brand_folge_ungenutzung_dauer: ca. 100 Jahre
+  wiederaufbau_jahr: 1680-1683
+  choerparteien: Original erhalten
+  waende: neu errichtet
+  empore: hinzugefuegt
+  renovation_jahr: 1986
+GUELTIG_AB: 1552
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/007
+ENTITÄT: stift
+BEZEICHNUNG: Maria ad Gradus
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  standort: Köln
+  erwaehnung: Stift der Kölner Kirche
+  eigenschaft_grundbesitz: wichtigster Grundbesitzer neben Kölner Domkustodie (bis 1803)
+  besitztum_unkel_von: 1057
+  besitztum_unkel_bis: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/008
+ENTITÄT: abtei
+BEZEICHNUNG: Prüm
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  orden: Benediktiner
+  eigenschaft: Kloster mit Urkundenbuch und Goldenem Buch
+  unkel_bezug: erste Aufzeichnungen über Unkel in Urkundenbüchern
+  unkel_erwaehnung_jahr: 886
+  unkel_erwaehnung_name: Oncale (Goldenes Buch)
+  unkel_erwaehnung_urbar_jahr: 893
+  unkel_urbar_inhalt: Auflistung von sechs Höfen Klosterbesitz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/009
+ENTITÄT: person
+BEZEICHNUNG: Richeza
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  geburt_jahr: ca. 995
+  tod_jahr: 1063
+  titel: Witwe, Königin (Polen)
+  gemahl: Mieszko II. (polnischer König)
+  gemahl_geburt: ca. 990
+  gemahl_tod: 1034
+  bezug_unkel: 1057 Schenkung Unkels Nutzungsrechte durch Kölner Erzstift
+  unkel_besitz_dauer: auf Lebzeiten
+GUELTIG_AB: 1057
+GUELTIG_BIS: 1063
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/010
+ENTITÄT: person
+BEZEICHNUNG: Gerhard Truchsess von Waldburg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  geburt_jahr: 1547
+  tod_jahr: 1601
+  amt: Kölner Erzbischof
+  konversion_jahr: 1583
+  konversion_zu: Calvinismus
+  grund_konversion: Liebe zu Gräfin Agnes von Mansfeld-Eisleben
+  folge_konversion_papst: exkommuniziert
+  folge_konversion_aemter: enthoben
+  widerstand: militärisch organisiert
+  flucht_jahr: 1584
+  flucht_ziel: Niederlande
+  bezug_koelner_krieg: Hauptschauplatz Rheinland (Unkel, Linz, Andernach)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/011
+ENTITÄT: person
+BEZEICHNUNG: Willy Brandt
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  geburt_jahr: 1913
+  tod_jahr: 1992
+  titel: Bundeskanzler
+  partei: SPD
+  auszeichnung: Friedensnobelpreisträger
+  unkel_wohnsitz_von: 1979
+  unkel_wohnsitz_bis: 1992
+  unkel_bezug: Wohnsitz in Unkel, bekannteste Persönlichkeit
+GUELTIG_AB: 1979
+GUELTIG_BIS: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 335-unkel/012
+ENTITÄT: person
+BEZEICHNUNG: Willy Brandt
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1913
+  tod_jahr: 1992
+  titel: Bundeskanzler, Friedensnobelpreisträger
+  unkel_wohnsitz: 1979-1992
+  museum: Willy-Brandt-Forum (seit 2011)
+  museum_inhalt: originalgetreu rekonstruiertes Arbeitszimmer aus Unkeler Haus
+  museum_traeger: Bundeskanzler-Willy-Brandt-Stiftung (seit 2021)
+GUELTIG_AB: 1979
+GUELTIG_BIS: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 335-unkel/013
+ENTITÄT: person
+BEZEICHNUNG: Ferdinand Freiligrath
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1810
+  tod_jahr: 1876
+  profession: Dichter
+  historische_periode: Revolution von 1848
+  unkel_aufenthalt_von: 1839
+  unkel_aufenthalt_bis: 1841
+  unkel_aktivitaet: schriftstellerisches Wirken begonnen
+  unkel_wohnort: Freiligrathhaus (Rheinufer)
+GUELTIG_AB: 1839
+GUELTIG_BIS: 1841
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/014
+ENTITÄT: person
+BEZEICHNUNG: Stefan Andres
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1906
+  tod_jahr: 1970
+  profession: Schriftsteller
+  unkel_aufenthalt_von: 1950
+  unkel_aufenthalt_bis: 1961
+  werke_in_unkel: Der Knabe im Brunnen, Die Reise nach Portiunkula, Wir sind Utopia
+  ehrenmaeler: Stefan-Andres-Platz, Stefan-Andres-Realschule plus
+GUELTIG_AB: 1950
+GUELTIG_BIS: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/015
+ENTITÄT: person
+BEZEICHNUNG: Konrad Adenauer
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1876
+  tod_jahr: 1967
+  titel: Bundeskanzler
+  unkel_zuflucht_von: September 1935
+  unkel_zuflucht_bis: Sommer 1936
+  grund_zuflucht: Ausweisung aus Regierungsbezirk Köln
+  unterkunft: Pax-Heim (neben Freiligrathhaus)
+  erinnering: Rheinpromenade benannt nach ihm (zwischen Mariensäule und Gefängnisturm)
+GUELTIG_AB: 1935
+GUELTIG_BIS: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/016
+ENTITÄT: person
+BEZEICHNUNG: Annette von Droste-Hülshoff
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1797
+  tod_jahr: 1848
+  profession: Schriftstellerin, Dichterin
+  unkel_besuche: Besuche bei Freundin Sibylle Mertens-Schaffhausen
+  kontakt: Ferdinand Freiligrath
+  erinnering: Straße gewidmet
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/017
+ENTITÄT: person
+BEZEICHNUNG: Sibylle Mertens-Schaaffhausen
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1797
+  tod_jahr: 1857
+  profession: Archäologin, Musikerin
+  unkel_residenz: Landhaus "Am Zehnthof" (heute Christinenstift)
+  residenz_typ: Sommerresidenz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/018
+ENTITÄT: person
+BEZEICHNUNG: Johanna Schopenhauer
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1766
+  tod_jahr: 1838
+  profession: Schriftstellerin
+  beziehung: Mutter des Philosophen Arthur Schopenhauer
+  unkel_aufenthalt: um 1832
+GUELTIG_AB: 1832
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 335-unkel/019
+ENTITÄT: person
+BEZEICHNUNG: Fritz Henkel
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1875
+  tod_jahr: 1930
+  tod_datum: 4. Januar 1930
+  vater: Friedrich Karl Henkel (Gründer Henkel-Konzern)
+  vater_lebensjahre: 1848-1930
+  unkel_residenz: Sommersitz (Villa abgerissen 1960er Jahre)
+  engagement_stadt: Sponsorschaften
+  stiftung_sportplatz: Sportplatz
+  spende_feuerwehr: Motorpumpe, Löschwagen
+  finanzierung_park: Fritz-Henkel-Park (1905 finanziert)
+  park_ausstattung: historischer Baumbestand, Orangerie (1914)
+  park_nutzung: kulturelle Veranstaltungen, Bürgerfeste (21. Jh.)
+GUELTIG_AB: 1875
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/020
+ENTITÄT: krieg
+BEZEICHNUNG: Kölner Krieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  jahr: 1583
+  konflikttyp: religiös (Reformation vs. Katholizismus)
+  region: Rheinland, Mittelrhein
+  hauptschauplatz: Gegend um Linz und Andernach
+  unkel_betroffenheit: mehrfach bestürmt
+  unkel_schaeden: glimpflich davongekommen
+  ursache: Konversion Erzbischof Gerhard zu Calvinismus
+  ursache_konvertit: Gerhard Truchsess von Waldburg
+  ende: 1584 (Gebhard flieht)
+GUELTIG_AB: 1583
+GUELTIG_BIS: 1584
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/021
+ENTITÄT: krieg
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  unkel_betroffenheit: stark beschädigt
+  unkel_schwede_angriff_jahr: 1633
+  unkel_kosten: Einquartierungen, Kontributionszahlungen
+  unkel_absage_pachtnachlass: abgelehnt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/022
+ENTITÄT: krieg
+BEZEICHNUNG: Napoleonische Kriege
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  unkel_eroberungen: dreimal von französischen Truppen erobert und wieder aufgegeben
+  folgen: Säkularisierung, Wechsel an Herzogtum Nassau (1803)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/023
+ENTITÄT: krieg
+BEZEICHNUNG: Erster Weltkrieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  unkel_todesfaelle: 44 Bürger (1914-1918)
+  unkel_infrastruktur: Landwehrkompanie etabliert
+  unkel_infrastruktur_aufgaben: Bahnschutz, Bahnhof, Bürgermeisteramt, Post, Telegrafenstationen
+  unkel_umwandlung_gebaeude: Christinenstift zu Lazarett
+  unkel_arbeitskraefte: Mangel, Frauen und Kinder in Feldern
+  unkel_ernaehrung: 150g Fleisch wöchentlich, 375g Kartoffeln täglich
+  unkel_kriegsgefangene: russische Kriegsgefangene aus Wahn eingesetzt
+  unkel_frauenarbeit: Pelzfabrik, Pulverfabrik (Troisdorf)
+  unkel_kriegsanleihen: 126.000 Mark (nie zurückgezahlt)
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/024
+ENTITÄT: krieg
+BEZEICHNUNG: Zweiter Weltkrieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  unkel_bombing_start: 11. Dezember 1941
+  unkel_kirchenverbot: Glocken 1942 eingeschmolzen
+  unkel_schulschliessung: Herbst 1944
+  unkel_verwaltung_akten: 7. März verbrannt
+  unkel_befreiung_datum: 8. März 1945
+  unkel_befreiung_durch: Amerikaner (B & C Kompanie, 1st Battalion, 311th Infantry Regiment, 78th Infantry Division)
+  unkel_befreiung_art: Zangenbewegung
+  unkel_widerstand: leicht
+  unkel_gefangene: ca. 30
+  unkel_feldlazarett: 13. März 1945 (2nd Hospital Unit des 51st Field Hospitals)
+  unkel_stoem: Rueckstoß nach Rheinbreitbach und Honnef am nächsten Tag
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/025
+ENTITÄT: ereignis
+BEZEICHNUNG: Novemberpogrome
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1938
+  datum: 10. November 1938
+  ziel: Unkeler Synagoge
+  ergebnis: vollstaendige Niederbrennung
+  taeter_anzahl: zwei Unkeler
+  prozess_jahr: 1949
+  prozess_ausgang: Freispruch
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/026
+ENTITÄT: ereignis
+BEZEICHNUNG: Rheinische Republik
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  ausrufung_datum: 21. Oktober 1923 (Aachen)
+  ziel: unabhängiges Rheinland an Frankreich grenzend
+  unkel_besetzung_datum: 12. November 1923
+  unkel_besetzung_durch: Separatisten
+  unkel_separatisten_sitz: Rathaus
+  unkel_separatisten_massnahmen: Wachen, Ausgangssperre 19:00 Uhr
+  unkel_widerstand_jugendliche: aktiv, teils schwer misshandelt
+  unkel_widerstand_bevoelkerung: Abwehrschlacht im Siebengebirge
+  unkel_kampf_ausgang: Separatisten völlig besiegt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/027
+ENTITÄT: gebaeude
+BEZEICHNUNG: Freiligrathhaus
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  typ: barockes Adelspalais
+  erbauung: 1760
+  lage: Rheinpromenade
+  bewohner_dichter: Ferdinand Freiligrath
+  bewohner_dichter_zeitraum: 1839-1841
+  zimmer_freiligrath: Mansardgeschoss
+  bewohner_adenauer: Konrad Adenauer (Pax-Heim neben Haus)
+  status_denkmal: Wichtigstes Baudenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/028
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gefängnisturm
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_stadtmauer: Mitte 16. Jahrhundert (1553)
+  dachsanierung_barock: um 1700
+  lage: Rheinseite, Stadtmauer
+  funktion_historisch: Teil Stadtbefestigung
+  behaendnis_beethoven: soll eine Nacht dort verbracht haben (unbewiesen)
+  funktion_modern: Museum (seit 1986)
+  museum_oeffnung: auf Anfrage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/029
+ENTITÄT: gebaeude
+BEZEICHNUNG: Christinenstift
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  funktion_wwi: Lazarett für Verwundete
+  restauration_funktion_nachkrieg: Schulspeisung (ab 21. September 1948)
+  speiseung_volumen: ca. 100 Liter Suppe täglich
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 335-unkel/030
+ENTITÄT: gebaeude
+BEZEICHNUNG: Vogtshaus
+ALIAS: Sternenburg
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  typ: Patrizierhaus
+  erbauung: 16. Jahrhundert
+  lage: Vogtsgasse
+  charakteristik: einzigartig, reich ausgestattet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 335-unkel/031
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bachem-Haus
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  typ: Winzerhof
+  grundlagen: Geschichteter Säulenbasalt
+  ursprung_datum: mindestens 16. Jahrhundert
+  bauplanzahl: dreiflügelige Anlage
+  spezifikum: Gewölbekeller
+  ruecksichtigung: Seltenes erhaltenes Beispiel (17./18. Jh.)
+  abriss_jahr: Frühjahr 2008
+  abriss_grund: Erweiterung Rheinhotel Schulz
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 335-unkel/032
+ENTITÄT: stadtmauer
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: Mitte 16. Jahrhundert (1553 urkundlich)
+  befestigung_komponenten: Mauern, Wassergraben
+  wasserquelle_graben: Hähnerbach (damals Ursbach)
+  schutzanlagen: zwei Stadttore, mehrere Rheintore
+  stadttore_bestand: bis 19. Jahrhundert
+  stadttore_abriss: 1823 (behinderten Durchgangsverkehr)
+  stadttore_verkauf: versteigert
+  erhaltene_teile_rhein: große Teile bei Kirche, Straße "Am Graben" (Grabenmauer)
+  erhaltene_teile_ecktuerme: beide mit späteren Umbauten
+  renovierung: 1802
+  graben_schicksal: zugeschüttet, als Straße bebaut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/033
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rheinpromenade
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum_bau: mehrere Jahre, enormer finanzieller Aufwand
+  fruehere_zustand_ufer: flach mit Sandbänken
+  problem_einstuerzungen: bei Hochwasser (z.B. 1845 direkt vor Kirche)
+  problem_ursachen: Unterspülung, Dampfschiff-Wellenschlag
+  erste_planung: 1859 (Preußische Wasserbau-Inspektion)
+  kosten_1859: 7500 Taler
+  kostenuebernahme_1866: Rheinbau-Verwaltung (bis 12 Fuß Wasserhöhe)
+  erhoehung_1867: Rheinprovinz übernimmt Kosten vollständig
+  erhoehung_1870: Promenade Turm bis Kirchgasse auf 20 Fuß
+  erhoehung_1873: restliche Promenade auf 20 Fuß
+  kosten_umbauten: 2500 Taler (aus Waldverkaufserlös)
+  allee: Lindenbäume
+  anlage_zeit: Gründerjahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/034
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahn
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  anbindung_jahr: 1870
+  effekt: Aufschwung Fremdenverkehr, Wirtschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/035
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rheinfähre
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  route: Unkel nach Remagen-Birgel
+  erste_erwaehnung: 1110
+  urspruenglicher_besitzer: Stift Maria ad Gradus
+  spaeterer_besitzer: Orgelfonds
+  fährboot_typ: Fährnachen (langer Kahn, optional Segel)
+  motorisierung_jahr: 1906
+  motorisierung_boot1: Motorbootfähre (zwei Unkeler gekauft)
+  staedtische_unterstuetzung: 250 Mark jährlich
+  wwi_betrieb: Rückgriff auf Ruderboot (keine Schiffsführer)
+  motorisierung_wieder: 1920
+  zweites_boot: Maria (1926, zusätzliche Motorbootlandebrücke)
+  ausflugsfahrten: ja (neben Fährverkehr)
+  drittes_boot: Hansa (1935)
+  wwii_funktion: Verwundetentransport Amerikaner (1945)
+  incident_1948: Maria von Linzer Rheinfähre versenkt (Ausflug)
+  viertes_boot: Stadt Unkel (1962)
+  neubetrieb: ab 1976 nebenberuflich (Schiff St. Nikolaus)
+  betrieb_einstellung: 1999
+  boot_verkauf: St. Nikolaus nach Mainz verkauft
+  heutige_schiffe: Köln-Düsseldorfer Deutsche Rheinschiffahrt, Bonner Personen Schiffahrt (Sommer)
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/036
+ENTITÄT: landebruecke
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  erste_landebruecke_jahr: 1883
+  erste_landebruecke_typ: Dampfschiffe
+  zweite_landebruecke_jahr: 1926
+  zweite_landebruecke_typ: Motorboote
+  heutige_landestege: 3 (für Ausflügler)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 335-unkel/037
+ENTITÄT: weinbau
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 886
+  erste_erwaehnung_periode: fränkische Zeit
+  mittelalter_besitzer: geistliche und adelige Personen
+  hauptgrundherr_mittelalter: Stift "Maria ad Gradus"
+  preussen_1815_massnahme: Umwandlung ebenerdiger Weinbauflächen zu Getreidefeldern
+  grund_preussen: zu wenig Getreideanbau
+  folge_preussen: starke Verminderung Anbauflächen
+  industrialisierung_1871: Pelzfabrik Profitlich, Betonwarenfabrik Schwenzow (ca. 100 Arbeitsplätze)
+  industrialisierung_folge: viele Winzer beendeten Karriere, Eisenbahn ermöglichte Arbeit anderswo
+  flaeche_1875: ca. 200 ha
+  ende_19_jh_probleme: Rebschädlinge, Absatzschwierigkeiten durch ausländische Konkurrenz
+  winzerverein_gruendung: 8. September 1895
+  winzerverein_mitglieder: ca. 60 Winzer
+  winzerverein_effekt: rationellere Arbeitsbedingungen, konnte Niedergang nur verzögern
+  20_jh_anfang_1905: volle Ernte, überdurchschnittliche Quantität
+  20_jh_1906_1915: Rebschädlinge, Missernten
+  20_jh_folge: viele Weinberge aufgegeben
+  flaeche_1928: ca. 50 ha
+  flaeche_spaeter: ca. 40 ha
+  ns_periode: Weinbau stark gefördert
+  ns_neupflanzung: ca. 10 ha neue Weinreben
+  flaeche_1935: ca. 50 ha
+  wwii_nachkrieg: enorme Verringerung Weinbergsflächen
+  winzerverein_schliessung: 1969
+  neubelebung: frühe 1990er Jahre
+  neubelebung_form: Enthusiasten, teils Nebenerwerb
+  terroir_unkeler_sonnenberg: nicht flurbereinigt, Terrassen
+  sorten: Riesling, Müller-Thurgau, Blauer Portugieser, Spät- und Weissburgunder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/038
+ENTITÄT: unternehmen
+BEZEICHNUNG: Haus Rabenhorst
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  sitz: Unkel
+  produkt: Fruchtsäfte, "Rotbäckchen"-Saft
+  gruendung: 1805 (Pfarrer Johann-Heinrich Lauffs in Oberwinter als Weingut)
+  gründer: Pfarrer Johann-Heinrich Lauffs
+  produktionsstart_fruchtsaefte: Ende 19. Jahrhundert (Enkel Alexander Lauffs)
+  produktionsform: Traubenkelter als "alkoholfreier Wein"
+  rechtsverfahren: Prozess 1910 am Königlichen Landgericht Neuwied (genehmigt)
+  firmenleitung: lange von Günther Lauffs (1901-1990, Unkeler Ehrenbürger, Firmengründer-Nachkomme)
+  hauptsitz_unkel_seit: mehr als 100 Jahre
+  heutige_funktion: Fruchtsäfte, Führungen auf Anfrage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/039
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bluhm Systeme GmbH
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  sitz: Unkel
+  branche: Systemanbieter
+  leistungen: Etikettieren, Codieren, RFID
+  groesse: großes Unternehmen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/040
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bund der Energieverbraucher
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1987
+  mission: Interessen privater Verbraucher bei Energieversorgung
+  bundesgeschaeftsstelle_sitz: Unkel
+  bundesgeschaeftsstelle_seit: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/041
+ENTITÄT: hochwasser
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  hochwasser_jahre: 1784, 1845, 1920, 1926, 1947, 1955, 1970, 1983, 1988, 1993, 1995
+  betroffen_ortsteil: Heister (besonders 1926)
+  auswirkung_ortskern: selten große Schäden (auf Anhöhe)
+  ausloeserschwelle_koblenz: Pegelstand über 8,40 m
+  abfluss_verlauf: Rhein verlässt Flussbett bei Erpel, durch Felder und Heister-Rand zurück zum Hauptstrom
+  ereignis_1926: Damm bei Burg Vilzelt droht zu brechen
+  ereignis_1926_loesung: Damm durchstochen
+  ereignis_1926_folge: Flutbrücke erbaut
+  flutbruecke_status: heute sanierungsbedürftig
+  flutbruecke_sanierung: Finanzierung ungeklärt, auch Abriss diskutiert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/042
+ENTITÄT: klima
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  klimazone: gemäßigt
+  durchschnitt_jahrestemperatur: 9.4
+  durchschnitt_jahrestemperatur_einheit: °C
+  niederschlag_jaehrlich: 701
+  niederschlag_jaehrlich_einheit: mm
+  waermste_monate: Juni bis August
+  waermste_monate_temperatur: 17.9-16.8
+  waermste_monate_einheit: °C
+  kaelteste_monate: Dezember bis Februar
+  kaelteste_monate_temperatur: 2.3-3.2
+  kaelteste_monate_einheit: °C
+  niederschlag_max_monate: Juni bis August
+  niederschlag_max: 72-70
+  niederschlag_max_einheit: mm
+  niederschlag_min_monate: Februar bis April
+  niederschlag_min: 40-53
+  niederschlag_min_einheit: mm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/043
+ENTITÄT: bevoelkerung
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  auslaenderanteil: 13.25
+  auslaenderanteil_einheit: "%"
+  altersstruktur_unter_20: 18.4
+  altersstruktur_unter_20_einheit: "%"
+  altersstruktur_20_64: 56.7
+  altersstruktur_20_64_einheit: "%"
+  altersstruktur_ueber_64: 24.9
+  altersstruktur_ueber_64_einheit: "%"
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/044
+ENTITÄT: bevoelkerung
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1790: 900
+  einwohner_1921: 1531
+  einwohner_1970: 3200
+  einwohner_2005: 5003
+  bevölkerungswachstum_phase_ab: 19. Jahrhundert (Industrialisierung)
+GUELTIG_AB: 1790
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/045
+ENTITÄT: konfession
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  konfession_katholisch: 57.0
+  konfession_katholisch_einheit: "%"
+  konfession_evangelisch: 16.4
+  konfession_evangelisch_einheit: "%"
+  konfession_sonstige: 26.6
+  konfession_sonstige_einheit: "%"
+  datum: 30. Juni 2005
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/046
+ENTITÄT: konfession
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  konfession_katholisch: 36.6
+  konfession_katholisch_einheit: "%"
+  konfession_evangelisch: 12.4
+  konfession_evangelisch_einheit: "%"
+  konfession_sonstige: 51.0
+  konfession_sonstige_einheit: "%"
+  datum: September 2026
+  trend: jährlicher Rückgang Kirchen-Mitglieder um ca. 1 "%"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/047
+ENTITÄT: bugermeister
+BEZEICHNUNG: Alfons Mußhoff
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amt_seit: 9. Juli 2024
+  titel: Stadtbürgermeister
+  wahlform: Direktwahl
+  wahldatum: 9. Juni 2024
+  wahlergebnis: 61.2
+  wahlergebnis_einheit: "%"
+  gegenkandidaten: Ralf Josef Klein (SPD)
+  prior_profession: Regierungsdirektor beim Bundesministerium für Arbeit und Soziales
+  erfahrung: langjährig Kommunalpolitik Unkel
+  funktion_zuvor: Fraktionssprecher CDU Unkel
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 335-unkel/048
+ENTITÄT: buergermeister
+BEZEICHNUNG: Gerhard Hausen
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit_von: 2004
+  amtszeit_bis: 2024
+  amt_nicht_gewaehlt: 2024
+GUELTIG_AB: 2004
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 335-unkel/049
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Kamen
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Kamen
+  partnerstadt_region: Ruhrgebiet (Nordrhein-Westfalen)
+  partnership_seit: 1980
+  partnership_vertraeg: 2005 erneuert
+  partnerschaftsring: Internationaler Freundschaftsring
+  ring_weitere_staette: Beeskow (Brandenburg), Sulęcin (Polen), Eilat (Israel), Bandirma (Türkei), Montreuil-Juigné (Frankreich)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/050
+ENTITÄT: naturflaeche
+BEZEICHNUNG: Unkelsteine
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  typ: Basaltaufschluss
+  lage: Im Rhein auf Remagener Seite (rechts von Unkel)
+  historische_bedeutung: gefährliche Untiefe für Schifffahrt (früher)
+  wissenschaftliche_bedeutung: Aufmerksamkeit Alexander von Humboldts
+  humboldt_reisen: 1789 (mit Steven Jan van Geuns), 1790 (mit Georg Forster)
+  humboldt_publikation: "Mineralogische Beobachtungen über einige Basalte am Rhein" (1790)
+  humboldt_theorie: Neptunismus (Gesteine aus Wassersedimenten)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 335-unkel/051
+ENTITÄT: naturflaeche
+BEZEICHNUNG: Stux
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  typ: markante Anhöhe
+  hoehe: 142
+  hoehe_einheit: m
+  lage: Hang des Rheintals oberhalb Stadtkern
+  charakteristik: Verwerfungen des Sedimentgesteins sichtbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 335-unkel/052
+ENTITÄT: schule
+BEZEICHNUNG: Stefan-Andres-Realschule plus
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  typ: Realschule plus
+  bestandteile: Realschulzweig, Hauptschulzweig
+  schaeler: 50% Realschule, 10% Hauptschule
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 335-unkel/053
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Am Sonnenberg
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  typ: Grundschule
+  schaeler: 40% aller Unkeler Schulkinder
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 335-unkel/054
+ENTITÄT: museum
+BEZEICHNUNG: Willy-Brandt-Forum
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: seit 2011
+  person: Willy Brandt
+  person_bezug: Bundeskanzler, SPD-Politiker, Friedensnobelpreisträger, lebte 1979-1992 in Unkel
+  ausstellung_mittelpunkt: originalgetreu rekonstruiertes private Arbeitszimmer (Unkeler Haus)
+  traeger: Bundeskanzler-Willy-Brandt-Stiftung (seit 2021)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 335-unkel/055
+ENTITÄT: ortsteil
+BEZEICHNUNG: Scheuren
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  lage: nordöstlich der B 42
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 335-unkel/056
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heister
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  lage: südöstlich der B 42
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 335-unkel/057
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Gut Hohenunkel
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  lage: Rheinterrasse bei Bruchhausen
+  gehoert_zu: Unkel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 335-unkel/058
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Gut Haanhof
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  lage: Rheinterrasse bei Bruchhausen
+  gehoert_zu: Unkel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 335-unkel/059
+ENTITÄT: burg
+BEZEICHNUNG: Vilzelt
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  gehoert_zu: Unkel (Wohnplatz)
+  hochwasser_1926: Damm zur Burg Vilzelt (Staunasse, Durchstich)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 335-unkel/060
+ENTITÄT: gehoeft
+BEZEICHNUNG: Stuxhöhe
+QUELLE: https://de.wikipedia.org/wiki/Unkel | Wikipedia
+EIGENSCHAFTEN:
+  gehoert_zu: Unkel (Wohnplatz)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 335-unkel/061
+ENTITÄT: fluss
+BEZEICHNUNG: Rhein
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/unkel.html | Landesportal
+EIGENSCHAFTEN:
+  unkel_bezug: bildet dort ein Knie (Namensherkunft uncus)
+  unkel_historie_frueher: umfloss Pantaleonsberg
+  unkel_hochwasser_heute: bei Hochwasser natürliche Insel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

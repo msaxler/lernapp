@@ -1,0 +1,457 @@
+ZIELORT: Troisdorf (Stadt)
+LAGE: 10 km nordöstlich von Bonn (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Troisdorf
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 75.742  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 62  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1222  [berechnet aus Einwohner und Fläche]
+  kfz: SU (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 55  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2821029)]
+  naechste_grossstadt: Bonn, 10 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 52 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Friedrich-Wilhelms-Hütte, Bahnhof Spich, Bahnhof Troisdorf  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 53844  [Wikidata P281]
+  vorwahl: 02203, 02241, 02246, 0228  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,2 %, SPD 18,9 %, AfD 17,8 %, GRÜNE 11,8 %, Die Linke 8,3 %, BSW 5,2 %; Wahlbeteiligung 81 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Alexander Biber (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-14]
+  partnerstaedte: Korfu, Évry, Genk, Heidenau, Redcar and Cleveland, Nantong, Mushtisht, Özdere, Korfu Stadt, South Bank  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT partnerstaedte: Partnerstadt (Ersatz: Luftlinie zur Landeshauptstadt), A, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Königswinter (Stadt)
+  einwohner: 40.458  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 76,17 | 76,2  [Wikidata P2046; Altbestand staedte.json]
+  kfz: SU (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 80 | 63 | 57 | 114 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2885734)]
+  naechste_grossstadt: Bonn, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Königswinter, Bahnhof Niederdollendorf, Stadtbahnhaltestelle Jugendhof - Königswinter  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,4 %, GRÜNE 17,2 %, SPD 17 %, AfD 12,1 %, Die Linke 6,5 %, FDP 5,9 %; Wahlbeteiligung 86,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen
+
+FAKTEN (Zielort Troisdorf):
+ID: 339-troisdorf/001
+ENTITÄT: buchsammlung
+BEZEICHNUNG: Historische Bilderbuchsammlung Prof. Dr. Theodor Brüggemann (Übernahme 1995)
+QUELLE: https://www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umfang_buecher: 2000
+  umfang_genauigkeit: ca.
+  zeitraum_buecher: vor 1945
+  sammler: Prof. Dr. Theodor Brüggemann
+  sammler_titel: Kölner Professor für Kinder- und Jugendliteraturforschung
+  uebergabe_an_museum: 1995
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 339-troisdorf/002
+ENTITÄT: buchsammlung
+BEZEICHNUNG: Kinderbuchsammlung Prof. Theodor Brüggemann (Gesamtbestand)
+QUELLE: https://www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/prof-dr-theodor-brueggemann/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umfang_buecher: 3000
+  umfang_genauigkeit: ca.
+  zeitspanne: 1498-2000
+  aeustes_exemplar_jahr: 1498
+  typ: illustrierte Bilder- und Kinderbücher
+  rang: bedeutendste Kinderbuchsammlungen im deutschsprachigen Raum
+  sammler: Professor Theodor Brüggemann
+  sammler_inst: Universität zu Köln
+  sammler_bedeutung_wissenschaft: herausragende Bedeutung für historische Kinder- und Jugendbuchforschung
+  bestand_schwerpunkt: deutschsprachige Kinder- und Jugendliteratur mit Entwicklungen Frankreich, England, auch Russland und andere europäische Länder
+  bestand_umfasst: wichtigste und typischste Autoren, Illustratoren, Genres und Strömungen
+  besonderheiten: Meisterwerke wie Orbis Pictus von Comenius, Bertuchs Bilderbuch für Kinder (1790, zwölf Bände mit 1185 Bildtafeln), auch populäre Produkte, Einblattdruck, Bilderbogen, Kolportageheft
+  standort_museum: 1995
+GUELTIG_AB: 1498
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 339-troisdorf/003
+ENTITÄT: buchsammlung
+BEZEICHNUNG: Sammlung Axel Hinrich Murken (Übernahme 2003)
+QUELLE: https://www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammelschwerpunkt: Kind, Krankheit und Krankenhaus
+  sammler: Axel Hinrich Murken
+  sammler_beruf: Mediziner und Kunsthistoriker
+  uebergabe_an_museum: 2003
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 339-troisdorf/004
+ENTITÄT: buchsammlung
+BEZEICHNUNG: Kind, Krankheit und Krankenhaus – Sammlung Axel Hinrich Murken (Bestandsbeschreibung)
+QUELLE: https://www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/sammlung-axel-hinrich-murken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umfang_buecher: 4000
+  umfang_genauigkeit: ca.
+  themenfeld: Heilkunde, Arzt, Krankenhaus, Hygiene, Gesundheitsfürsorge
+  zeitraum: Biedermeierzeit bis Gegenwart
+  aeltestes_buch: Gesundheits-Katechismus (Bernhard Christoph Faust)
+  aeltestes_buch_jahr: 1797
+  aeltestes_buch_auflage: sechste
+  bestand_umfasst: Sach- und Schulbücher, Klassiker wie Struwwelpeter von Heinrich Hoffmann, Gute Doktor von Max Nassauer
+  besonderheit_kulturhistorisch: Sexualerziehung über einhundert Jahre dokumentiert
+  enthaelt_auch: Gemälde und Graphiken des 19. und 20. Jahrhunderts zum Thema Arzt und Kind
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 339-troisdorf/005
+ENTITÄT: buchsammlung
+BEZEICHNUNG: Sammlung Reinhard Stach (Übergabe 2011)
+QUELLE: https://www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: Robinson Crusoe Bücher und Robinsonaden
+  sammler: Prof. Reinhard Stach
+  sammler_beruf: Musikwissenschaftler
+  uebergabe_jahr: 2011
+  uebergabe_grund: Tod des Sammlers
+  uebergabe_vermittler: Ehefrau Maria Stach
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 339-troisdorf/006
+ENTITÄT: buchsammlung
+BEZEICHNUNG: Robinson und Robinsonaden – Sammlung Reinhard Stach (Bestandsbeschreibung)
+QUELLE: https://www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/sammlung-reinhard-stach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: Robinson Crusoe und Robinsonaden
+  grundwerk: Das Leben und die seltsamen Abenteuer des Robinson Crusoe von Daniel Defoes
+  grundwerk_autor_lebensdaten: 1660-1731
+  grundwerk_erstveroeffentlichung: 1719
+  grundwerk_veroeffentlichungsort: London
+  grundwerk_einfluss: nachhaltigster Einfluss auf Kinder- und Jugendliteratur
+  entstehung_robinsonaden: Bearbeitungen und Fortschreibungen bildeten eigenständige Literaturgattung
+  robinsonaden_charakteristikum: unfreiwillige räumliche Isolation einer Person oder Gruppe von Menschengemeinschaft für längeren Zeitraum mit zivilisatorischem Neuanfang
+  kultureller_topos_zeitraum: dreihundert Jahre
+  bestand_autoren_klassische: Jules Verne, Arno Schmidt
+  bestand_autoren_kinder_jugendliteratur: Joachim Heinrich Campe, Johann Rudolf Wyss
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 339-troisdorf/007
+ENTITÄT: buchsammlung
+BEZEICHNUNG: Alice im Wunderland – Sammlung Udo Pasterny (Ausstellung 2019)
+QUELLE: https://www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: Alice im Wunderland
+  umfang: rund 2000 Bücher, Broschüren und Medien
+  enthaelt_auch: internationale Aliceausgaben, Spiele, Filme, Illustrationen
+  ausstellung_jahr: 2019
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 339-troisdorf/008
+ENTITÄT: buchsammlung
+BEZEICHNUNG: Alice im Wunderland – Sammlung Udo Pasterny (Detailbeschreibung)
+QUELLE: https://www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/alice-im-wunderland/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umfang: rund 2000 Bücher, Broschüren und Medien
+  autor_originaltitel: Lewis Carroll
+  autor_originalname: Charles Lutwidge Dodgson
+  autor_lebensdaten: 1832-1898
+  autor_beruf: Mathematikdozent
+  illustration_originalausgabe: Lewis Carroll (selbst)
+  illustrator_klassisch: John Tenniel
+  illustrator_klassisch_lebensdaten: 1820-1914
+  illustrator_klassisch_einfluss: Mehrzahl der Buchausgaben, prägt Bild Wunderlandes bis zur Gegenwart
+  illustration_weitere: Benjamin Lacombe (geb. 1982), Helen Oxenbury (geb. 1938), Henry Holiday (1839-1927), Disney Studio (1951)
+  veroeffentlichungen: über 150 Jahre
+  sprachen: fast alle Sprachen
+  bearbeitungen: Comic, Zeichentrick, Realfilm
+  deutschsprachige_uebersetzungen: zahlreich, nicht alle dem Original gerecht
+  deutschsprachige_uebersetzung_bedeutsam: Christian Enzensberger
+  deutschsprachige_uebersetzung_bedeutsam_jahr: 1963
+  deutschsprachige_uebersetzung_bedeutsam_lebensdaten: 1931-2009
+  deutschsprachige_uebersetzung_bedeutsam_bedeutung: setzte neue Maßstäbe
+  neuzeitliche_interpretation: Günther Fleming und weitere
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 339-troisdorf/009
+ENTITÄT: buchsammlung
+BEZEICHNUNG: Sammlung Friedrich C. Heller – Die bunte Welt
+QUELLE: https://www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/sammlung-friedrich-c-heller/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umfang_buecher: 3000
+  umfang_genauigkeit: ca.
+  sammler: Prof. Friedrich C. Heller
+  sammler_beruf: Musikwissenschaftler
+  fokus_schwerpunkt: künstlerisch herausragende Bilderbuchkunst
+  kunstrichtungen: ausgehender Historismus, Stilkunst um 1900, art déco, Expressionismus, Neue Sachlichkeit, Futurismus
+  geografischer_ursprung_sammlung: Wien
+  geografischer_schwerpunkt: Österreich
+  weitere_laeunder: wichtigste zentral- und westeuropäische Länder
+  englische_buecher: spätes 19. Jahrhundert als Quellen modernen Buchkunst
+  besonderheit_niederlande: Bilderbücher zeigen künstlerische Situation zwischen England, Frankreich und Deutschland
+  weitere_laender: Italien (Faschismus), Frankreich (Zwischenkriegszeit), Tschechoslowakei, Schweiz, USA
+  charakteristika: zahlreiche Rarissima, oft auch Unikate
+  bedeutung: bewahrt wertvolle Kulturgüter der Buchgeschichte
+  uebergabe_an_museum: 2010
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 339-troisdorf/010
+ENTITÄT: buchsammlung
+BEZEICHNUNG: Kinderbibliothek der Familie Kleinebrahm
+QUELLE: https://www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/die-kinderbibliothek-der-familie-kleinebrahm/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umfang_buecher: 600
+  umfang_genauigkeit: ca.
+  herkunft: private Kinderbibliothek (Hausbibliothek) einer westdeutschen Familie
+  zeitraum_schwerpunkt: 1970er und 1980er Jahre
+  besonderheit: dokumentiert auf einzigartige Weise literarische, künstlerische und gesellschaftliche Entwicklungen der Zeit
+  bestand_umfasst: klassische Kinderliteratur, zeitgenössische Werke, Märchensammlungen Brüder Grimm, Lyrik mit wichtigen Sammelwerken wie Anthologien von Hans-Joachim Gelberg, Bilder- und Sachbücher
+  charakteristika: Hausbibliothek fällt durch Umfang und Vielfalt aus dem Rahmen Üblichen
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 339-troisdorf/011
+ENTITÄT: museum
+BEZEICHNUNG: Bilderbuchmuseum
+QUELLE: https://www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: international renommiert
+  standort_gebaeude: Burg Wissem, Herrenhaus
+  ansaessig_seit: Anfang 1980er Jahre
+  sammlungen: historische Bilderbuchsammlungen und Illustrationssammlungen
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 339-troisdorf/012
+ENTITÄT: burg
+BEZEICHNUNG: Burg Wissem
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/burg-wissem/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Wahrzeichen Troisdorfs
+  frueherer_name: Wisheim, Wiesheim, Wyssem, Weißheimb
+  frueherer_typ: freiadeliche Hofanlage
+  ursprung_zeitraum: Merowingerzeit
+  ursprung_jahre: 500-700
+  funktion_original: Burg- und Wehranlage, Stammsitz der Herren von Troisdorf
+  herren_von: Truhtesdorf
+  erster_schriftlicher_nachweis: 1474
+  bauteile_epochen: 3
+  architektur_umgebung: Burgpark, grenzt direkt an Wahner Heide
+  burgpark_ausstattung: Erfahrungsfeld der Sinne, Wildgehege Hirschpark mit Rotwild und Sikahirschen
+  nutzung_herrenhaus_seit: Anfang 1980er Jahre
+  nutzung_herrenhaus_heute: Bilderbuchmuseum
+  remise_erbaut: 1550
+  remise_genauigkeit: ca.
+  remise_nutzung: Heinz Müller Stiftung
+  regionale_2010_umgebaut: ehemaliges Verwaltungsgebäude Burgallee 3
+  regionale_2010_nutzer: Tourist-Information, Museum für Stadt- und Industriegeschichte Troisdorf (MUSIT), Portal Wahner Heide, Trauzimmer Standesamt, Kreativwerkstatt, KennenLernenUmwelt, Burgrestaurant
+  regionale_2010_resultat: einzigartiges kulturelles Zentrum in der Region
+  barrierefrei: ja
+GUELTIG_AB: 1474
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 339-troisdorf/013
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Wahner Heide
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Naturschutzgebiet
+  rang: europäischer Rang
+  groesse: 50
+  groesse_einheit: km²
+  groesse_genauigkeit: ca.
+  flaeche_auf_troisdorf: Hälfte
+  charakteristika: vielfältige Lebensräume für seltene Pflanzen und Tiere, behauptet sich gegen Einflüsse aller Art
+  lokalisierung_relativ_zu: unmittelbar hinter Burg Wissem
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 339-troisdorf/014
+ENTITÄT: gebaeude
+BEZEICHNUNG: Forsthaus Telegraph
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Telegrafenberg
+  erbaut: 1832
+  original_funktion: Sichttelegraphenstation
+  heutige_nutzung: Restaurant Forsthaus Telegraph
+  heutige_nutzung_zusatz: Waldwirtschaft Heidekönig
+GUELTIG_AB: 1832
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 339-troisdorf/015
+ENTITÄT: siedlung
+BEZEICHNUNG: Schwarze Kolonie
+ORTSTEIL_BEZUG: Friedrich-Wilhelms-Hütte
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/sehenswuerdigkeiten/kolonien/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_zeitraum: Anfang 20. Jahrhundert
+  erbaut_fuer: Arbeiter der Mannstaedt-Werke
+  denkmalschutz: ja
+  namensherkunft: schwarze Dachziegel
+  grund_entstehung: Verlagerung des Mannstaedt'schen Walzwerks von Köln-Kalk nach Troisdorf
+  initiative_geber: Louis Mannstaedt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 339-troisdorf/016
+ENTITÄT: siedlung
+BEZEICHNUNG: Rote Kolonie
+ORTSTEIL_BEZUG: Troisdorf-West
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/sehenswuerdigkeiten/kolonien/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_zeitraum: Anfang 20. Jahrhundert
+  erbaut_fuer: Meister und Vorarbeiter der Mannstaedt-Werke
+  denkmalschutz: ja
+  namensherkunft: rote Dachziegel
+  grund_entstehung: Verlagerung des Mannstaedt'schen Walzwerks von Köln-Kalk nach Troisdorf
+  initiative_geber: Louis Mannstaedt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 339-troisdorf/017
+ENTITÄT: wohnviertel
+BEZEICHNUNG: Kasinoviertel
+ORTSTEIL_BEZUG: Troisdorf-West
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/sehenswuerdigkeiten/kolonien/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_zeitraum: Anfang 20. Jahrhundert
+  erbaut_fuer: höhere Angestellte und Beamte der Mannstaedt-Werke
+  charakteristika: besonders repräsentative Bauwerke
+  grund_entstehung: Verlagerung des Mannstaedt'schen Walzwerks von Köln-Kalk nach Troisdorf
+  initiative_geber: Louis Mannstaedt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 339-troisdorf/018
+ENTITÄT: arbeitersiedlung
+BEZEICHNUNG: Arbeitersiedlung Oberlar
+ORTSTEIL_BEZUG: Oberlar
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/sehenswuerdigkeiten/kolonien/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_zeitraum: Anfang 20. Jahrhundert
+  erbaut_fuer: Facharbeiter
+  adresse_strassen: Elisabethstraße, Landgrafenstraße
+  erhaltungszustand: weitgehend unverändert erhalten
+  bedeutung: Dokument der Industrialisierung Troisdorfs
+  vergleich_zu: ähnlich den Facharbeiterhäusern in Friedrich-Wilhelms-Hütte (Schwarze Kolonie)
+  grund_entstehung: Verlagerung des Mannstaedt'schen Walzwerks von Köln-Kalk nach Troisdorf
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 339-troisdorf/019
+ENTITÄT: stiftung
+BEZEICHNUNG: Heinz-Müller-Stiftung
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/burg-wissem/heinz-mueller-stiftung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rechtsform: gemeinnützig
+  sammlung: fotografisches Erbe des Stifters
+  sammler: Heinz Müller
+  sammlung_zeitraum: 65 Jahre
+  sammlung_fokus: Heimatstadt Troisdorf
+  sammlung_inhalt: dokumentiert Wandel der Stadt Troisdorf nach 2. Weltkrieg
+  ansaessig: Burg Wissem, Remise
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 339-troisdorf/020
+ENTITÄT: park
+BEZEICHNUNG: Erfahrungsfeld der Sinne
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/burg-wissem/erfahrungsfeld-der-sinne/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Burg Wissem
+  eroeffnung: 2002
+  initiator: Kreativ-Werkstatt Troisdorf e.V.
+  basiert_auf_ideen: Hugo Kükelhaus
+  kukelhaus_lebensdaten: 1900-1984
+  kukelhaus_fokus: Bedeutung der menschlichen Sinneswahrnehmung für den Erkenntnisprozess
+  alternativname: Park der Sinne
+  nutzung: kostenlos, für jeden Besucher zugänglich
+  angebot: Erlebnisrundgänge nach telefonischer Terminabsprache
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 339-troisdorf/021
+ENTITÄT: boot
+BEZEICHNUNG: Aalschokker Maria Theresia
+ORTSTEIL_BEZUG: Bergheim
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/denkmalschutz/steckbrief-aalschokker.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Lastkahn, später Aalfangboot
+  bauzeit: 1894
+  nutzung_aalfang: bis 1955
+  standort: Diescholl (Altwasserarm der Sieg)
+  standort_detail: unmittelbar vor Fischereimuseum Bergheim
+  adresse: Discholl/Nachtigallenweg 39, 53844 Troisdorf
+  denkmalschutz_eintragung: 05.02.1986
+  denkmalkategorie: C (bewegliches Denkmal)
+  denkmalnummer: 05382068-C-001
+  eigentuemer: privat
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 339-troisdorf/022
+ENTITÄT: museum
+BEZEICHNUNG: Fischereimuseum Bergheim
+ORTSTEIL_BEZUG: Bergheim
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Bergheimer Fischereibruderschaft
+  standort: oberhalb des Discholls (Altwasserarm der Sieg)
+  umbau_erweiterung: Regionale 2010
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 339-troisdorf/023
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Siegniederung
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Naturschutzgebiet
+  lokalisierung: Mündungsbereich der Sieg zum Rhein (Siegaue)
+  funktion: Naherholungsgebiet
+  besonderheit: historische Einmannfähre
+  faehre_verbindung: Bonn und Troisdorf auf kurzem Weg
+  faehre_anlegestelle: Bergheimer Flussufer
+  faehre_gastronomie: Ausflugslokal Zur Siegfähre
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 339-troisdorf/024
+ENTITÄT: ort
+QUELLE: https://www.troisdorf.de/de/rathaus-service/stadtportraet/denkmalschutz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_stadtteile: 12
+  rang_kreis: größte Stadt des Rhein-Sieg-Kreises
+  denkmalschutz_schwerpunkte: alte Siedlungsschwerpunkte, Sakralbauten bis 1. Jahrtausend, Fachwerkbauten, Fabrikantenvillen, Arbeiter- und Angestelltensiedlungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

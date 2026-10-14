@@ -1,0 +1,969 @@
+ENTITÄT: ort
+BEZEICHNUNG: Mettmann
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  ist_kreisstadt: true
+  regierungsbezirk: Düsseldorf
+  bundesland: Nordrhein-Westfalen
+  region: Niederbergisches Land
+  region_historisch: Bergisches Land
+  beiname: Neanderthal-Stadt
+  geschichte_seit_jahren: über 1100
+  erste_erwähnung: 904
+  erste_erwähnung_form: Medamana
+  stadtrecht_verliehen: 1856
+  stadtrecht_verleiher: König Friedrich-Wilhelm IV. von Preußen
+  bevölkerung: 39542
+  bevölkerung_jahr: 2024
+  bevölkerungsdichte: 911
+  bevölkerungsdichte_einheit: Einwohner pro km²
+  höchster_punkt: 203
+  höchster_punkt_einheit: m ü. NN
+  höchster_punkt_ort: Stadtgrenze zu Wülfrath
+  niedrigster_punkt: 75
+  niedrigster_punkt_einheit: m ü. NN
+  niedrigster_punkt_ort: Neandertal im Bereich des Museums
+  höhenunterschied: 128
+  höhenunterschied_einheit: m
+  entfernung_düsseldorf: 15
+  entfernung_düsseldorf_einheit: km
+  entfernung_richtung_düsseldorf: östlich
+  entfernung_wuppertal: 15
+  entfernung_wuppertal_einheit: km
+  entfernung_wuppertal_richtung: östlich
+  entfernung_essen: 30
+  entfernung_essen_einheit: km
+  entfernung_essen_richtung: nördlich
+  entfernung_köln: 40
+  entfernung_köln_einheit: km
+  entfernung_köln_richtung: südlich
+  metropolregion: Rhein-Ruhr
+  metropolregion_einwohner: über zehn Millionen
+  superlativ: zweitdünnste besiedelte Stadt des Kreises Mettmann
+  historisches_ereignis_1856: Fund von Homo-neanderthalensis-Knochen
+  umstrukturierung_1975: Eingemeindung von Metzkausen
+  jahr_1100_jahresfest: 2004
+  rangstatus_landesentwicklungsplan: Mittelzentrum
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: geschichte_periode
+BEZEICHNUNG: Ur- und Frühgeschichte Mettmanns
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum_von: 40000
+  zeitraum_von_einheit: Jahre vor heute (ungefähr)
+  beschreibung: Homo neanderthalensis lebte in der Region rund um heutige Stadt Mettmann
+  fund_jahr: 1856
+  fund_ort: Neandertal
+  fund_art: Knochen des Neandertalers
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: namensherkunft
+BEZEICHNUNG: Mettmann
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Altniederfränkisch oder Altsächsisch
+  ursprungsform: *Medaman-aha
+  bedeutung: Am mittleren Bach
+  benannt_nach: mittlerer Bach
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Lambertus
+ORTSTEIL_BEZUG: Mettmann Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  pfarrei: Pfarrei St. Lambertus Mettmann
+  rolle: Pfarrkirche
+  architekt_beschreibung: typisch bergisches Haus mit schwarzer Schieferverkleidung
+  erhalten_seit: Mittelalter
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Thomas Morus
+ORTSTEIL_BEZUG: Mettmann Nord/West
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  pfarrei: Pfarrei St. Lambertus Mettmann
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Heilige Familie
+ORTSTEIL_BEZUG: Metzkausen
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  pfarrei: Pfarrei St. Lambertus Mettmann
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTHEIM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Judas Thaddäus
+ORTSTEIL_BEZUG: Obschwarzbach
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  pfarrei: Pfarrei St. Lambertus Mettmann
+  erbaujahr: 1907
+GUELTIG_AB: 1907
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche
+ORTSTEIL_BEZUG: Mettmann Stadtzentrum
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  material: graue Feldsteine
+  status: ehemals reformiert
+  grundsteinlegung: April 1774
+  einweihung: 14. Dezember 1780
+GUELTIG_AB: 1780
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kino
+BEZEICHNUNG: Weltspiegel Kino
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: ältestes noch existierendes Kino in Deutschland
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Neanderthal Museum
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  lage: Neandertal
+  thema: berühmter Fund und menschliche Urgeschichte
+  bekanntheitsgrad: überregional bekannt und international anerkannt
+  bedeutung: überregional bedeutsames Museum
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Evangelisches Krankenhaus Mettmann
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bettenzahl: 245
+  gründung_jahr: 1877
+GUELTIG_AB: 1877
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Mono GmbH
+ORTSTEIL_BEZUG: Mettmann Ost
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  branche: Besteckindustrie
+  tradition_seit: 1895
+  vorgänger_unternehmen: Firma Seibel
+  beschreibung: Fortsetzung der Besteck-Tradition von Seibel
+GUELTIG_AB: 1895
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Eismann Tiefkühl-Heimservice GmbH
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  branche: Tiefkühlkost-Hersteller und -Vertrieb
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Centralin
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  branche: Schuhpflegeprodukte
+  bekanntheit: besonders durch Schuhpflegeprodukte bekannt geworden
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: RHEWA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  branche: industrielle Wägetechnik
+  gründung_jahr: 1904
+GUELTIG_AB: 1904
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Klotz Technics
+ORTSTEIL_BEZUG: Bergstraße
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  branche: Arbeitsschutz, Armaturen- und Schlauchtechnik
+  tradition: traditionsreich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gust. Overhoff GmbH & Co. KG
+ORTSTEIL_BEZUG: Flurstraße
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  gründung_jahr: 1895
+  branche: Metallprodukte für Bau-, Installations- und Bedachungssektor
+GUELTIG_AB: 1895
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Regiobahn GmbH
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  branche: Verkehrsunternehmen
+  linie: S-Bahn-Linie S 28 (Wuppertal–Mettmann–Erkrath–Düsseldorf–Neuss–Kaarst)
+  stationen_mettmann: Mettmann Stadtwald, Mettmann Zentrum, Neanderthal
+  fahrzeit_düsseldorf: ca. 20
+  fahrzeit_düsseldorf_einheit: Minuten
+  fahrzeit_wuppertal: ca. 15
+  fahrzeit_wuppertal_einheit: Minuten
+  betriebsbeginn_durchverbindung: 13. Dezember 2020
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Fondium
+ORTSTEIL_BEZUG: Mettmann
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  vorheriger_name: Georg Fischer GmbH
+  name_wechsel_jahr: 2018
+  branche: Gussteile aus Kugelgraphitguss
+  gründung_jahr: 1907
+  kunden: Personenwagen und Nutzfahrzeuge (Automobilhersteller)
+  beschreibung: letztes metallverarbeitendes Zulieferunternehmen für Automobilhersteller vor Ort
+  mitarbeiter: ca. 1000
+  versandmenge_pro_jahr: ca. 190000
+  versandmenge_einheit: Tonnen
+  status: größter privatwirtschaftlicher Arbeitgeber der Stadt
+GUELTIG_AB: 1907
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: NTN-Kugellagerfabrik GmbH
+ORTSTEIL_BEZUG: NTN-Straße in Mettmann-Ost
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  branche: Kugellager
+  konzern: NTN Corporation
+  rolle: Produktionsstandort
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: ITW Dynatec GmbH
+ORTSTEIL_BEZUG: Industriestraße
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  konzern: ITW Inc.
+  konzern_herkunft: USA
+  rolle: Tochtergesellschaft
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Egeria
+ORTSTEIL_BEZUG: Gold-Zack-Straße
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  firmensitz_ab: 2020
+GUELTIG_AB: 2020
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gold-Zack
+ORTSTEIL_BEZUG: Mettmann-Ost
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Wuppertal
+  umzug_nach_mettmann: 1960
+  branche: Textil
+  werksgelände_größe: 8
+  werksgelände_größe_einheit: Hektar
+  umwandlung: 1996 zu Aktien-Emissionshaus mit Nemax-Schwerpunkt
+  marke_verkauf: 1996 an Prym Group
+  insolvenz: 2003
+GUELTIG_AB: 1960
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Mettmanner TV
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Tischtennis
+  bundesliga_teilnahme: 1969-1974
+  bundesliga_jahre: 5
+  deutscher_meister_jahr: 1971-1972
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Mettmanner THC
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  gründung_jahr: 2011
+  gründung_form: Fusion von THC Mettmann und MTC 80
+  sportarten: Hockey und Tennis
+  hockey_level_oberliga: ja
+  hockey_level_oberliga_zeitraum: damals höchste Spielklasse
+  tennis_level_regionalliga: ja
+  tennis_level_regionalliga_zeitraum: damals zweite Liga
+  hockey_heute_1_herren_männlich: 1. Verbandsliga Feld und Halle
+  hockey_heute_1_damen_weiblich: 2. Verbandsliga
+  tennisplätze_außen: 12
+  tennisplätze_halle: 4
+GUELTIG_AB: 2011
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: TCM 65 (Tennis-Club Metzkausen e.V.)
+ORTSTEIL_BEZUG: Metzkausen
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Tennis
+  mitgliederzahl: ca. 600
+  mitgliederzahl_jahr: 2017
+  beschreibung: mitgliederstärkster Tennisverein Mettmanns
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Mettmann-Sport e.V.
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  gründung_jahr: 2005
+  gründung_datum: 17. Januar 2005
+  mitgliederzahl: über 4500
+  vorgänger: MTV, MSC, TSV Metzkausen
+  rolle_vorgänger: Nachfolge
+GUELTIG_AB: 2005
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: FC Mettmann 08
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  gründung_jahr: 2008
+  spaltung_von: Mettmann-Sport e.V.
+  ziel_spaltung: Fußball wieder nach vorne bringen
+  beschreibung: reiner Fußballverein
+GUELTIG_AB: 2008
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: neandertal
+BEZEICHNUNG: Neandertal
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Joachim Neander
+  benannt_nach_beschreibung: evangelischer Liederdichter
+  neanders_aktivitäten: regelmäßige Gottesdienste im Freien und Naturinspiration für Lieder
+  teil_mettmann: ja
+  bedeutung: Fundort Homo neanderthalensis
+  fund_ort_bezeichnung: Neandertal 1
+  fundjahr: 1856
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Denkmal für SA-Opfer
+ORTSTEIL_BEZUG: Lavalplatz
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  ort: Lavalplatz
+  zweck: Gedenken an getötete und misshandelte Opfer
+  kontext: Villa Koburg diente SA als Sammelstelle und Folterkeller
+  zeit_kontext: ab 1933
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsunfall_historisch
+BEZEICHNUNG: Wellington-Bomber Absturz
+ORTSTEIL_BEZUG: Metzkausen
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  datum: 29. März 1943
+  flugzeugtyp: Wellington-Bomber
+  land: Großbritannien
+  luftwaffe: Royal Air Force
+  kennzeichen: X3814
+  besatzung_größe: 5
+  besatzung_herkunft: vier Kanadier und ein Engländer
+  mission: Angriff auf Bochum
+  ergebnis: alle Besatzungsmitglieder starben
+  fund_später: Teile des Bombers im Bereich des Golfplatzes
+  finder: Ehrenamtliche des LVR-Amtes für Bodendenkmalpflege
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verkehrsunfall_historisch
+BEZEICHNUNG: Halifax-Bomber Absturz
+ORTSTEIL_BEZUG: Gut Benninghof
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  datum: 3. Dezember 1943
+  flugzeugtyp: Halifax-Bomber
+  land: Großbritannien
+  kennzeichen: HR876
+  verursachung: Flakbeschuss
+  mission: Rückflug von Angriff auf Berlin
+  besatzung_größe: 7
+  besatzung_herkunft: zwei Kanadier und fünf Briten
+  beerdigung: Düsseldorfer Nordfriedhof
+  letzte_ruhestätte: Ehrenfriedhof Klever Reichswald
+  fund_teile_später: 2014 durch LVR-Amt für Bodendenkmalpflege
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Bahnstrecke Düsseldorf-Derendorf–Dortmund Süd
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  führt_durch_mettmann: ja
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: straßenbahn_historisch
+BEZEICHNUNG: Kreis Mettmanner Straßenbahn
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_beginn: 19. Juli 1909
+  betrieb_ende: 17. Mai 1952
+  betreiber_später: Rheinische Bahngesellschaft AG und Wuppertaler Bahnen AG
+  verbindungen: Hubbelrath nach Ludenberg, Wülfrath nach Tönisheide, Dornap nach Vohwinkel
+  ausstellung_später: historischer Wagen bis Ende 2011 in Innenstadt, August 2024 nach Düsseldorf überführt
+GUELTIG_AB: 1909
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fahrdrahtbus
+BEZEICHNUNG: Fahrdrahtbus Mettmann–Gruiten
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  betrieb: 1930-1952
+  strecke: zwischen Mettmann und Gruiten
+  beschreibung: erster neuzeitlicher Oberleitungsbus Deutschlands
+  entwickler: Gustav Kemmann
+  entwickler_herkunft: Mettmann
+  strecke_wahl: anspruchsvolle Bergische Strecke als Teststrecke
+GUELTIG_AB: 1930
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: freibad
+BEZEICHNUNG: Mettmanner Freibad
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  umbau_zu_naturfreibad: 2004
+  ausstattung: Strandbereiche, Strandkörbe, Matschspielplatz, Wasserrutsche
+GUELTIG_AB: 2004
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportzentrum
+BEZEICHNUNG: Am Pfennig
+ORTSTEIL_BEZUG: Hasseler Straße, Metzkausen
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  gründung_jahr: 2011
+  beschreibung: zentrales Sportzentrum
+  vorgänger: Sportplätze für Fußball und Leichtathletik
+  anlass_umwidmung: Sportgelände Am Stadtwald zu Wohngebiet umgewidmet
+  neuanlagen: zwei Fußballspielfelder, Trainingsplätze, Funktionsgebäude
+  sanierungen: Sportanlage Heinrich-Heine-Gymnasiums, Tennisanlage erweitert
+GUELTIG_AB: 2011
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Tour de France 2. Etappe
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  datum: 2. Juli 2017
+  ereignis: 2. Etappe der Tour de France (Radsport)
+  strecke: von Düsseldorf nach Lüttich
+  verlauf_durch_mettmann: ja
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: film
+BEZEICHNUNG: Samba in Mettmann
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  erscheinungsjahr: 2004
+  erscheinungsmonat: Januar
+  genre: Kinofilm
+  darsteller_regie: Hape Kerkeling
+  darsteller_hauptrolle: Hape Kerkeling
+  bekanntheitsgrad: Bekanntheit in Mettmann
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: reality_show
+BEZEICHNUNG: Get the F*ck out of my House
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  staffel: 2
+  drehort: Mettmann
+  drehjahr: 2019
+  genre: Reality-Show
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radio
+BEZEICHNUNG: Radio Neandertal
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  sendegebiet: Kreis Mettmann
+  typ: Lokalradio
+  sitz: Mettmann
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Neandertalhalle
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Kulturelles Zentrum der Stadt
+  veranstaltungen: regelmäßige kulturelle Veranstaltungen
+  enthält_auch: Stadtbibliothek mit über 20000 Medien
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein_historisch
+BEZEICHNUNG: Gesellschaft Verein zu Mettmann
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  gründung_jahr: 1861
+  beschreibung: klassische Sozietät
+  bestand_seit: mindestens seit 1861
+GUELTIG_AB: 1861
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: FHDW (Fachhochschule der Wirtschaft)
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  eröffnung: Oktober 2009
+  form: Dependance/Hochschulstandort
+  status: macht Mettmann seit 2009 zu Hochschulstandort
+GUELTIG_AB: 2009
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: André Bär
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  amt_von: 2025
+  partei: WG M.U.T.
+GUELTIG_AB: 2025
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Laval
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  lage: West-Frankreich
+  beziehung: Partnerstadt
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: zusammenarbeit_gemeinde
+BEZEICHNUNG: San Felice Circeo
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  land: Italien
+  lage: Mittelitalien
+  beziehung: Zusammenarbeit
+  grund_zusammenarbeit: Fundort von Überresten des Neandertalers
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: patenschaft_gemeinde
+BEZEICHNUNG: Osjorsk (Angerapp/Darkehmen)
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  land: Russland
+  lage: West-Russland
+  beziehung: Patenschaft
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: freundschaft_gemeinde
+BEZEICHNUNG: Markranstädt
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Sachsen
+  beziehung: Freundschaft
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freundschaft_gemeinde
+BEZEICHNUNG: Goražde
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  land: Bosnien und Herzegowina
+  lage: Osten von Bosnien-Herzegowina
+  beziehung: Freundschaft
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freundschaft_gemeinde
+BEZEICHNUNG: Żnin
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  beziehung: Freundschaft
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: namenspatenschaft_flugzeug
+BEZEICHNUNG: Mettmann
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  flugzeugtyp: Bombardier Canadair Regional Jet
+  fluglinie: Lufthansa
+  trägername: Mettmann
+  namenspatenschaft_seit: 2006
+GUELTIG_AB: 2006
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: klima
+BEZEICHNUNG: Mettmann
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  klimazone: gemäßigte Klimazone
+  klimacharakter: ozeanisch geprägt
+  grund_klimacharakter: Lage am Rand der Niederrheinischen Tiefebene
+  wind: Westwinde tragen oft feuchte Luftmassen
+  winter: verhältnismäßig mild
+  sommer: mäßig warm und feucht
+  wärmster_monat: Juli
+  wärmste_temperatur_durchschnitt: 18.0
+  wärmste_temperatur_einheit: °C
+  kältester_monat: Januar
+  kälteste_temperatur_durchschnitt: 1.5
+  kälteste_temperatur_einheit: °C
+  jahresdurchschnittstemperatur: 9.7
+  jahresdurchschnittstemperatur_einheit: °C
+  niederschlag_maximum_monat: Juni
+  niederschlag_maximum: 88
+  niederschlag_maximum_einheit: Millimeter
+  niederschlag_minimum_monat: Februar
+  niederschlag_minimum: 55
+  niederschlag_minimum_einheit: Millimeter
+  niederschlag_jahressumme: 856
+  niederschlag_jahressumme_einheit: Millimeter
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Metzkausen
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_stadt: Nordwestlich des Stadtzentrums
+  eingemeindung_jahr: 1975
+  ursprung: Sitz der Amtsverwaltung des Amtes Hubbelrath
+  amtsauflösung: gleichzeitig mit Eingemeindung 1. Januar 1975
+GUELTIG_AB: 1975
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Obschwarzbach
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_stadt: nördlich des Stadtzentrums
+  historische_entwicklung: Nach 1945 bevorzugter Zuzugsort für deutsche Kriegsflüchtlinge und Spätaussiedler
+  entwicklung_1960er: verschmolz mit Niederschwarzbach zu größerer Wohnsiedlung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wassermühle
+BEZEICHNUNG: Wassermühle am Goldberger Teich
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  ort: Goldberger Teich
+  status: restauriert
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: geschichtshaus
+BEZEICHNUNG: Stadtgeschichtshaus
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Mettmann | Wikipedia
+EIGENSCHAFTEN:
+  ort: Haus Mittelstraße 10
+  funktion: alte Bürgermeisterei
+  status: umfangreiches Stadtarchiv
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,50 @@
+{
+ "stufe": "karten",
+ "ort": "346-siegburg",
+ "prompt": "prompt-karten-v0.8.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 39378,
+ "token_ein": 39823,
+ "token_aus": 31097,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 32919,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 31097,
+  "output_tokens_details": {
+   "thinking_tokens": 23567
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 32919,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 31097,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 32919,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 32919
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.8866803999999999,
+ "sekunden": 274,
+ "fehler": false,
+ "zeit": "2026-10-14T10:22:34"
+}

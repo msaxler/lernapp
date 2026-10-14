@@ -1,0 +1,998 @@
+ID: 337-bad-honnef/001
+ENTITÄT: ort
+BEZEICHNUNG: Bad Honnef
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  name_bis_1960: Honnef
+  einwohner_31_dezember_2025: 24930
+  lage: östliche Seite des Rheins, Südrand Nordrhein-Westfalen
+  kreis: Rhein-Sieg-Kreis
+  regierungsbezirk: Köln
+  funktionsgemäss_landesplanung: Mittelzentrum
+  klassifizierung_bundesamt: Kleine Mittelstadt
+  beiname: Rheinisches Nizza
+  status: mittlere kreisangehörige Stadt
+  stadtgebiet_flaeche: 48,3 km²
+  ist_kreisstadt: false
+GUELTIG_AB: 1960
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 337-bad-honnef/002
+ENTITÄT: ort_beiname
+BEZEICHNUNG: Rheinisches Nizza
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  grund: ganzjährig mildes Klima, Lage am Südhang des Siebengebirges
+  benannt_nach: Alexander von Humboldt
+  urspruenglich_formulierung: „rheinische Nizza"
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rhöndorf
+ORTSTEIL_BEZUG: Rhöndorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  lage: Norden an Grenze zu Königswinter, mit Stadtmitte zusammengewachsen
+  besonderheit: Wohnort Konrad Adenauer bis 1967
+  ziepchensplatz: Ortsmitte
+  strukturen: ausgedehnte Weinberge am Drachenfels, Fachwerkhäuser, Lehrweinberg
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Aegidienberg
+ORTSTEIL_BEZUG: Aegidienberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  status: Stadtbezirk (ehemals eigene Gemeinde bis 1969)
+  ortsteilzahl: 13 (Kirchdorf, Brüngsberg, Efferoth, Himberg, Höhe, Hövel, Neichen, Orscheid, Retscheid, Rottbitze, Siefenhoven, Wintersberg, Wülscheid)
+  lage: östlich Honnefer Stadtwald, östlich des Siebengebirges
+  charakteristika: noch großflächige Waldbereiche, bergig
+  bezirksausschuss_mitglieder: 15
+GUELTIG_AB: 1969
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 337-bad-honnef/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Selhof
+ORTSTEIL_BEZUG: Selhof
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  lage: Süden der Tallage, grenzt an Rheinbreitbach
+  erstmals_urkundlich_erwaehnt: 1068
+  bezeichnung_damals: Selehova
+  ausdehnung_west_ost: von Bundesstraße 42 bis Bergen Zickelburg und Menzenberg
+  ausdehnung_nord_sued: von Landesstraße 144 bis Honnefer Graben und Grenzwald
+GUELTIG_AB: 1068
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stadtmitte
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: größter Stadtteil und Zentrum der Stadt
+  features: Fußgängerzone, Hauptgeschäftsbereich
+  entstehung_aus: Honschaften Mülheim, Beuel, Bondorf, Rommersdorf, Reitersdorf und Lohfeld
+  zentrum_historisch: Markt und Pfarrkirche
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johann Baptist
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  typ: dreischiffige katholische Pfarrkirche
+  lage: am Markt
+  bauzeit: kurz nach 1500
+  besonderheit: Wahrzeichen der Stadt
+GUELTIG_AB: 1500
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 337-bad-honnef/008
+ENTITÄT: kirche
+BEZEICHNUNG: Erlöserkirche
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  lage: Luisenstraße
+  erbauung: 1900
+  besonderheit: Bischofsmütze als Turmabschluss
+  einweihung: 2. Dezember 1900
+GUELTIG_AB: 1900
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/009
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Selhof
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Wahrzeichen des Ortsteils Selhof
+  erbauung: nach Zweitem Weltkrieg
+GUELTIG_AB: 1945
+GUELTIG_BIS: 
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/010
+ENTITÄT: kapelle
+BEZEICHNUNG: Marienkapelle
+ORTSTEIL_BEZUG: Rhöndorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  lage: inmitten Hauptverkehrsstraße in Rhöndorf
+  bauzeit: 1714-1716
+GUELTIG_AB: 1714
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/011
+ENTITÄT: burg
+BEZEICHNUNG: Reitersdorf
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  erste_nennung: 866 als „villa rateresthorp"
+  urkundliche_erwaehnung: 893 im Prümer Urbar als „Retersdorpht"
+  erbauung: um 1270
+  status_1288: „Castrum Reyterstorp" Lehen des Grafen von Jülich
+  zerstoerung: vor 1317
+  letzte_nennung: 1517 als „Rettersdorf"
+  grabungsfunde_1981: Grundmauern einer befestigten Anlage
+  ruine_heute: Zentrum eines weitläufigen Parks
+GUELTIG_AB: 1270
+GUELTIG_BIS: 1317
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/012
+ENTITÄT: gebaeude
+BEZEICHNUNG: Hontes
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: ältestes profanes Gebäude der Stadt
+  lage: am Markt
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 337-bad-honnef/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Kirchstraße 8
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: ältestes Bürgerhaus
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 337-bad-honnef/014
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus im Turm
+ORTSTEIL_BEZUG: Rhöndorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  alternative_bezeichnung: ehemals „Villa Merkens"
+  charakterisierung: bedeutendstes Gebäude aus dem 19. Jahrhundert
+  frueherer_zweck: Sitz des Löwenburger Richters
+  nutzung_bis_2004: Landvolkshochschule des Erzbistums Köln
+GUELTIG_AB: 1800
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/015
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  lage: am Markt
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 337-bad-honnef/016
+ENTITÄT: rathaus
+BEZEICHNUNG: Neues Rathaus
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  erbauung_jahre: 1894-1895
+  architekt: unbekannt (früher)
+  umzug_neubau: 1982-1983
+  neuer_architekt: Joachim Schürmann
+  standort: Ortszentrum
+GUELTIG_AB: 1894
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 337-bad-honnef/017
+ENTITÄT: kurhaus
+BEZEICHNUNG: Kurhaus
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1906
+  trinkhalle_neuerrichtung: 1937-1938
+  heute_bestandteil: Kongresspark Bad Honnef
+  funktion: kulturelles Zentrum der Stadt mit Festsaal
+GUELTIG_AB: 1906
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/018
+ENTITÄT: klinik
+BEZEICHNUNG: Hohenhonnef
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  typ: schlossartige Lungenklinik
+  lage: auf der Augusthöhe oberhalb der Stadt
+  erbauung: 1891-1892
+  effekt: trug zum Aufschwung der Stadt bei
+GUELTIG_AB: 1891
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/019
+ENTITÄT: klinik
+BEZEICHNUNG: Kurklinik Siebengebirge
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1960
+  spaetere_nutzung: Seminaris-Hotel Bad Honnef (seit 1986)
+GUELTIG_AB: 1960
+GUELTIG_BIS: 1986
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/020
+ENTITÄT: klinik
+BEZEICHNUNG: Kurklinik Drachenfels
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: Juli 1969
+  baukosten: 8 Millionen DM
+  erweiterung_umbauten: 1975, 14 Millionen DM
+  schliessung: 1983
+  nachnutzung: Altenheim (ab 1984)
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/021
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Hagerhof
+ORTSTEIL_BEZUG: Selhof
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  lage: Selhof
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 337-bad-honnef/022
+ENTITÄT: berg
+BEZEICHNUNG: Drachenfels
+ORTSTEIL_BEZUG: Rhöndorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: nördlicher Abschluss des Siebengebirges mit Gipfel
+  grenzziehung: mit seinem Gipfel bereits zu Königswinter gehörend
+  weinanbau: ausgedehnte Weinberge am Hang
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/023
+ENTITÄT: berg
+BEZEICHNUNG: Löwenburg
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  erhaeltnis: höchste Erhebung im Stadtgebiet
+  hoehe: 455 m ü. NHN
+  erbauung_ca: um 1108 durch Grafen von Sayn
+  touristisches_ranking: zu den touristisch prominentesten Bergen des Siebengebirges zählend
+GUELTIG_AB: 1108
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/024
+ENTITÄT: berg
+BEZEICHNUNG: Himmerich
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  lage: im Siebengebirge
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 337-bad-honnef/025
+ENTITÄT: berg
+BEZEICHNUNG: Reichenberger Höhe
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 194 m ü. NHN
+  lage: unmittelbar oberhalb des Bad Honnefer Zentrums
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/026
+ENTITÄT: berg
+BEZEICHNUNG: Augusthöhe
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 206 m ü. NHN
+  lage: unmittelbar oberhalb des Bad Honnefer Zentrums
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/027
+ENTITÄT: insel
+BEZEICHNUNG: Grafenwerth
+ORTSTEIL_BEZUG: Lohfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Rheininsel
+  ankauf_durch_staat: 1921
+  parkgelaende: 15 Hektar
+  infrastruktur: Mineralschwimmbad, Freibad (modernisiert 2000), Anlegebrücke für Dampfschiffe (ab 1913)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/028
+ENTITÄT: insel
+BEZEICHNUNG: Nonnenwerth
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Rheininsel
+  lage: zwischen Insel Grafenwerth und honnefer Festland im Altarm
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 337-bad-honnef/029
+ENTITÄT: mineralquelle
+BEZEICHNUNG: Drachenquelle
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  erbohrt: 9. Februar 1897
+  ort: Gelände der Villa Weckbecker
+  badehaus_erbauung: 1898
+  kauf: 1902 durch holländische Gesellschaft
+GUELTIG_AB: 1897
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/030
+ENTITÄT: mineralquelle
+BEZEICHNUNG: zweite Mineralquelle Grafenwerth
+ORTSTEIL_BEZUG: Lohfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  bohrung: 1938
+  lage: Insel Grafenwerth
+GUELTIG_AB: 1938
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 337-bad-honnef/031
+ENTITÄT: brunnen
+BEZEICHNUNG: Vogelbrunnen
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  lage: Franz-Xaver-Trips-Platz
+  kunstwerk: lebensgroße und bewegliche Vogelfiguren
+  bildhauer: Bonifatius Stirnberg
+  anlass: Einrichtung der Fußgängerzone
+  jahr: 1980
+GUELTIG_AB: 1980
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/032
+ENTITÄT: brunnen
+BEZEICHNUNG: Tierbrunnen
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  lage: an der Hauptstraße Ecke Kirchstraße
+  bildhauer: Ernemann Sander
+  jahr: 1978
+GUELTIG_AB: 1978
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/033
+ENTITÄT: denkmal
+BEZEICHNUNG: Löwendenkmal
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  standort: Stadtgarten an der Alexander-von-Humboldt-Straße
+  versetzung: 2015
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/034
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Libanonzeder
+ORTSTITEL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  alter: ca. 200 Jahre
+  lage: Bernhard-Klein-Straße 16
+  besonderheit: mit neun Stämmen eine Vielstämmigkeit aufweisend (von der Norm abweichend)
+GUELTIG_AB: 1826
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/035
+ENTITÄT: schiff
+BEZEICHNUNG: Aranka
+ORTSTEIL_BEZUG: Lohfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  typ: Aalschokker (Fischereisegelschiff)
+  bauort: Niederlande
+  baujahr: 1917
+  charakter: letztes seiner Art
+  lage: im Altarm des Rheins zwischen Insel Grafenwerth und Honnefer Festland
+  status: bewegliches Denkmal
+GUELTIG_AB: 1917
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/036
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Konrad Adenauer
+ORTSTEIL_BEZUG: Rhöndorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1876
+  sterbejahr: 1967
+  amt: Bundeskanzler (erster der Bundesrepublik Deutschland)
+  wohnort_rhoenorf: ab 1935 bis zu seinem Tod
+  stiftung: Stiftung Bundeskanzler-Adenauer-Haus
+  rhoenorf_konferenz: 1949 in seinem Wohnhaus
+GUELTIG_AB: 1935
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 337-bad-honnef/037
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Carlo Schmid
+ORTSTEIL_BEZUG: Aegidienberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: ehemaliger Wohnort in Aegidienberg
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 337-bad-honnef/038
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heinz Günther Konsalik
+ORTSTEIL_BEZUG: Aegidienberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: ehemaliger Wohnort in Aegidienberg
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 337-bad-honnef/039
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Pinnecke
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1897
+  sterbejahr: 1938
+  beruf: Politiker
+  partei: KPD
+  amt: Reichstagsabgeordneter
+  charakterisierung: führende Persönlichkeit der starken kommunistischen Ortsgruppe
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/040
+ENTITÄT: sportverein
+BEZEICHNUNG: Dragons Rhöndorf
+ORTSTEIL_BEZUG: Rhöndorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1912
+  abteilung: Basketball
+  name_der_abteilung: Dragons Rhöndorf
+  liga_herren: ProB (dritthöchste nationale Spielklasse)
+  bbl_spielzeit: 1995-1999
+  dbb_pokal: Vizemeister 1998
+  meisterschaften_2._bundesliga: 1995, 2001
+  meisterschaften_prob: 2010, 2024
+  heimspielstaette: Dragon Dome
+  kapazitaet: 1500 Zuschauer
+  damenteam: Talents BonnRhöndorf (Kooperation mit Basketballgemeinschaft Bonn 92)
+  damen_liga: 2. Damen-Basketball-Bundesliga (2. DBBL)
+GUELTIG_AB: 1912
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 337-bad-honnef/041
+ENTITÄT: sportverein
+BEZEICHNUNG: Wassersportverein Honnef
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  disziplin: Rudern
+  charakterisierung: einer der erfolgreichsten Vereine in Bad Honnef
+  weltmeisterschaften_erfolge: 3 Weltmeisterschaften
+  u23_weltmeisterschaften: 2
+  junioren_weltmeisterschaften: 1
+  erste_wm_qualifizierung: 1977
+  besiedelung_wm_qualifizierungen: seit 1977 in unregelmäßiger Reihenfolge
+GUELTIG_AB: 1977
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/042
+ENTITÄT: sportverein
+BEZEICHNUNG: FV Bad Honnef
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  sport: Fußball
+  oberliga_nordrhein_spielzeit: 1978-1998
+  oberliga_rang: dritt- bzw. ab 1994 vierthöchste Spielklasse
+  aktuelle_liga: Landesliga
+GUELTIG_AB: 1978
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/043
+ENTITÄT: organisation
+BEZEICHNUNG: Deutsche Physikalische Gesellschaft
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  sitz: Bad Honnef
+  gebaeudebeherbergung: Elly Hölterhoff-Böcking Stiftung
+  lage: Hauptstraße
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/044
+ENTITÄT: organisation
+BEZEICHNUNG: Physikzentrum Bad Honnef
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Tagungshotel und Veranstaltungsstätte
+  organisationen_beherbergung: mehrere Verbände
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/045
+ENTITÄT: organisation
+BEZEICHNUNG: Deutsch-Französisches Jugendwerk (DFJW)
+ORTSTEIL_BEZUG: Rhöndorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  ansiedlung_bad_honnef: 1963
+  lage: Gebäude an der Hauptstraße in Rhöndorf
+  umzug: Ende 2000 nach Paris und Berlin
+GUELTIG_AB: 1963
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/046
+ENTITÄT: organisation
+BEZEICHNUNG: Stiftung Bundeskanzler-Adenauer-Haus
+ORTSTEIL_BEZUG: Rhöndorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  gründung: nach 1967
+  ausstellung_eroeffnung: 1975
+  neubau_ausstellungsgebaeude: 1975
+  umbau_ausstellungsgebaeude: 1997
+  touristisches_gesprech: zieht zahlreiche Touristen nach Bad Honnef
+GUELTIG_AB: 1967
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/047
+ENTITÄT: hochschule
+BEZEICHNUNG: Internationale Hochschule Bad Honnef-Bonn (IUBH)
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1998
+  startort: Feuerschlößchen
+  umzug: auf Gelände der St.-Anno-Handelsschule
+  schwerpunkt: Touristikbereich
+  studentenzahl_2017: ca. 13000 (campusübergreifend)
+  sitzverlegung: 2019 nach Erfurt
+  standorte_nach_2019: 28
+  namensaenderung_2021: IU Internationale Hochschule
+  bad_honnef_aus_name: seit 2021 aus dem Namen verschwunden
+  weitere_namensvarianten: International University of Applied Sciences Bad Honnef Bonn
+  uebergabe_standort: zum 1. Oktober 2025 an Alanus Hochschule für Kunst und Gesellschaft
+GUELTIG_AB: 1998
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/048
+ENTITÄT: zeitung
+BEZEICHNUNG: Honnefer Volkszeitung
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1881
+  druck_verlag: Buchhandlung und Druckerei Werber
+  verlag_ort_1: Hauptstraße 82
+  verlag_ort_2: ab 1904/05 Haus Gutenberg (Hauptstraße 40)
+  charakterisierung: eine der kleinsten Tageszeitungen Deutschlands
+  letzte_ausgabe: 1. Juli 2002
+  dauer: 121 Jahre
+  nachfolge: Bonner General-Anzeiger
+GUELTIG_AB: 1881
+GUELTIG_BIS: 2002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 337-bad-honnef/049
+ENTITÄT: zeitung
+BEZEICHNUNG: Honnefer Sonntagszeitung
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: August 2002
+  grund: Reaktion auf Pressekonzentration
+  status: kleinste deutsche Sonntagszeitung
+  letzte_ausgabe: 6. August 2006
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/050
+ENTITÄT: gebaeudeensemble
+BEZEICHNUNG: Kongresspark Bad Honnef
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  bildung: Ende 2000
+  komponenten: Hotel Avendi, renovierter Kursaal, Seminaris-Tagungshotel, Wellnesshotel
+  funktion: Tagungs- und Kongressstadt
+GUELTIG_AB: 2000
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/051
+ENTITÄT: verkehrsbauwerk
+BEZEICHNUNG: Rheinfähre Bad Honnef–Rolandseck
+ORTSTEIL_BEZUG: Lohfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Gierseilfähre seit 1870er-Jahren
+  schiff_bis_1969: Amt Neuhaus (damals Rheinhilde)
+  schiff_1970_2014: Siebengebirge
+  schiff_ab_2015: Siebengebirge (Nachfolger)
+  bedeutung: innerstädtischer Verkehr
+GUELTIG_AB: 1870
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/052
+ENTITÄT: schienenverkehr
+BEZEICHNUNG: Siebengebirgsbahn
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  verlaengerung_nach_bad_honnef: 27. September 1925
+  urspruenglicher_endhaltepunkt: Königswinter
+  modernisierung: 1990er-Jahre von Straßen- zur Stadtbahn ausgebaut
+  betreiber: SSB (Stadtbahn)
+  linie: 66
+  takt: 20-Minuten-Takt
+  lage: direkt am Rhein verlaufend
+  haltestellen_im_stadtgebiet: 3 (Bad Honnef, Bad Honnef Am Spitzenbach, Rhöndorf)
+GUELTIG_AB: 1925
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 337-bad-honnef/053
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bad Honnef (Rhein)
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  linie_re: RE 8 (Rhein-Erft-Express)
+  linie_rb: RB 27 (Rhein-Erft-Bahn)
+  zugverbindung: Mönchengladbach–Köln–Koblenz mit Flughafenanbindung Köln/Bonn
+  umgestaltung_1957: Verlust klassizistischen Stils, Verlegung Stellwerk
+  verkauf_gebaeude: 2011 an Bad Honnefer Unternehmen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/054
+ENTITÄT: bahnhof
+BEZEICHNUNG: Rhöndorf
+ORTSTEIL_BEZUG: Rhöndorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  neuerbauung: im Zuge der Bundesstraße 42 Neugestaltung (1957)
+  lage: unterhalb der Straßenbrücke
+GUELTIG_AB: 1957
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/055
+ENTITÄT: route
+BEZEICHNUNG: EuroVelo 15 (Rheinradweg)
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: internationaler Fernradweg
+  alternative_bezeichnung: Erlebnisweg Rheinschiene
+  verlauf: Bad Honnef in Rheinnähe in Süd-Nord-Richtung
+  verbindung: Rheinquelle mit Rheinmündung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/056
+ENTITÄT: title_status
+BEZEICHNUNG: Heilbad
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  erhaeltnis: 1960 erhalten
+  aufgabe_jahr: 1983
+  grund: Auflagen zur Erfüllung schwer zu verkraften
+GUELTIG_AB: 1960
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/057
+ENTITÄT: title_status
+BEZEICHNUNG: Erholungsort mit Kurmittelbetrieb
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  verleihung: Mai 2000 durch Regierungspräsidenten
+  funktion: Stärkung als Gesundheitsstandort
+GUELTIG_AB: 2000
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/058
+ENTITÄT: cities_partnership
+BEZEICHNUNG: Städtepartnerschaft Berck
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Berck (lokal Berck-sur-Mer), Frankreich
+  beginn: 1976
+  besonderheit: nach Berck benannt die südliche Brücke zur Insel Grafenwerth
+GUELTIG_AB: 1976
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/059
+ENTITÄT: cities_partnership
+BEZEICHNUNG: Städtepartnerschaft Wittichenau
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Wittichenau, Sachsen
+  beginn: 26. August 1990
+GUELTIG_AB: 1990
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/060
+ENTITÄT: cities_partnership
+BEZEICHNUNG: Städtepartnerschaft Cadenabbia
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Cadenabbia, italienisches Dorf in der Lombardei
+  beginn: 1992
+  grund: Konrad Adenauer verbrachte dort regelmäßig seinen Urlaub
+GUELTIG_AB: 1992
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/061
+ENTITÄT: cities_partnership
+BEZEICHNUNG: Städtepartnerschaft Ludvika
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Ludvika, Schweden
+  beginn: 31. Oktober 2000
+  charakterisierung: vierte und bislang letzte Partnerschaft
+GUELTIG_AB: 2000
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/062
+ENTITÄT: unternehmen
+BEZEICHNUNG: August Lepper
+ORTSTEIL_BEZUG: Lohfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  ansiedlung: 1906
+  ansiedlungsort: Lohfeld
+  charakterisierung: eines der bedeutendsten Industrieunternehmen des 20. Jahrhunderts
+GUELTIG_AB: 1906
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 337-bad-honnef/063
+ENTITÄT: unternehmen
+BEZEICHNUNG: Penaten
+ORTSTEIL_BEZUG: Lohfeld
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  ansiedlung: 1908
+  ansiedlungsort: Lohfeld
+  charakterisierung: eines der bekannte Honnefer Industrieunternehmen
+  mutterunternehmen: Johnson & Johnson
+  produktionsumzug: 2000 nach Italien und Frankreich
+  standort_teilweise_erhalten: ja
+GUELTIG_AB: 1908
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/064
+ENTITÄT: ereignis
+BEZEICHNUNG: Gladbecker Geiseldrama
+ORTSTEIL_BEZUG: Aegidienberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  lage: Aegidienberg, auf der Bundesautobahn 3 Richtung Frankfurt am Main
+  enddatum: 18. August 1988
+GUELTIG_AB: 
+GUELTIG_BIS: 1988
+IST_VERMUTISCH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 337-bad-honnef/065
+ENTITÄT: ereignis
+BEZEICHNUNG: Rhöndorfer Konferenz
+ORTSTITEL_BEZUG: Rhöndorf
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  lage: Wohnhaus Konrad Adenauer
+  jahr: 1949
+  anlass: Gründung der Grundlagen für die politische Struktur nach der ersten Bundestagswahl
+GUELTIG_AB: 1949
+GUELTIG_BIS: 1949
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 337-bad-honnef/066
+ENTITÄT: ereignis
+BEZEICHNUNG: Fairtrade-Town-Auszeichnung
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  datum: 24. Januar 2010
+  rang: zehnte Fairtrade-Town Deutschlands
+GUELTIG_AB: 2010
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 337-bad-honnef/067
+ENTITÄT: wasserwerk
+BEZEICHNUNG: Bad Honnef AG
+ORTSTITEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Bad_Honnef | Wikipedia
+EIGENSCHAFTEN:
+  funktion: gesamte Energie- und Wasserversorgung
+  stadtanteil: direkt 50 Prozent
+  anteil_ueber_freizeitbaeder_grafenwerth_gmbh: ca. 90 Prozent
+  versorgungsgebiet_erweiterung: Teile des nördlichen Rheinland-Pfalz (Wasser- und Gasvertrieb)
+  wasserkuellen: Grundwasser im Wasserschutzgebiet Lohfeld
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88

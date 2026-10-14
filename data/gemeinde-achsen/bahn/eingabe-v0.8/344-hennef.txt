@@ -1,0 +1,571 @@
+ZIELORT: Hennef (Stadt)
+LAGE: 14 km östlich von Bonn (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Hennef (Sieg)
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 48.112  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 105,89  [Wikidata P2046]
+  dichte_ew_km2: 454  [berechnet aus Einwohner und Fläche]
+  kfz: SU (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 68  [Wikidata P2044; dewiki Infobox]
+  naechste_grossstadt: Bonn, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 60 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Hennef, Blankenberg (Sieg), Hennef Im Siegbogen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 53773  [Wikidata P281]
+  vorwahl: 02242, 02243, 02244, 02248  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,6 %, SPD 17,3 %, AfD 16,4 %, GRÜNE 13,7 %, Die Linke 6,3 %, FDP 5,3 %; Wahlbeteiligung 85,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Mario Dahm (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-14]
+  partnerstaedte: Banbury, Le Pecq, Gmina Nowy Dwór Gdański, Selçuk  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Asbach (Gemeinde)
+  landkreis: Neuwied  [dewiki Infobox]
+  einwohner: 7820  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 38,58  [Wikidata P2046]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 275 | 249 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2955315)]
+  naechste_grossstadt: Bonn, 24 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 36,5 %, AfD 20,6 %, SPD 14,6 %, GRÜNE 9,4 %, Die Linke 6,2 %; Wahlbeteiligung 84,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen
+
+FAKTEN (Zielort Hennef):
+ID: 344-hennef/001
+ENTITÄT: ort
+BEZEICHNUNG: Hennef
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 1075 als "Hanafo"
+  beschreibung_historisch: "herrliche Gegend"
+  status_erhebung: Dorf bis 1981, dann Stadterhebung
+  jahr_stadterhebung: 1981
+  charakterisierung: "Stadt der 100 Dörfer"
+GUELTIG_AB: 1075
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 344-hennef/002
+ENTITÄT: ort
+BEZEICHNUNG: Geistingen
+ORTSTEIL_BEZUG: Geistingen
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: ca. 800 als "Geistinge"
+  genauigkeit: ca.
+  superlativ: "früheste nachweisbare Siedlung im heutigen Gebiet Hennefs"
+  jahr_niederbruch: 1588 völlig niedergebrannt
+  grund_niederbruch: Kölner oder Truchsessische Kriege
+  besetzung_16jh: 1689 teilweise Zerstörung durch französische Truppen (Ludwig XIV.)
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 344-hennef/003
+ENTITÄT: ort
+BEZEICHNUNG: Blankenberg
+ORTSTEIL_BEZUG: Blankenberg
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung_burg: 1181 als "castrum quod Blankenburg dicitur"
+  erbauer_burg: "Graf Heinrich II. und Graf Everhard II. von Sayn"
+  grund_erbauung: "Stützpunkt ihres ausgedehnten Grundbesitzes"
+  jahr_stadtrechte: 1245
+  verleiher_stadtrechte: "Graf Heinrich III. von Sayn und seine Gemahlin Mechtild"
+  beschreibung_stadtrechte: "Zuzugsfreiheit, Schutz vor fremden Gerichten, freie Schöffenwahl, Steuerfreiheiten, Marktrechte"
+  jahr_bergische_herrschaft: 1363
+  status_1363: "Verwaltungssitz eines bergischen Amtsbezirkes"
+  jahr_zerstoerung_beginn: 1670-1680 "Trümmerhaufen"
+  jahr_kapelle_abgetragen: 1677
+  jahr_endgueltig_geschleift: 1700
+GUELTIG_AB: 1181
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 344-hennef/004
+ENTITÄT: ort
+BEZEICHNUNG: Altenbödingen
+ORTSTEIL_BEZUG: Bödingen
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung_alt: 1190 als "Bödingen" (heutiges Altenbödingen)
+  bezeichnung_wechsel_ab: 1397 "Altenbödingen", ursprüngliches Bödingen
+  grund_namenswechsel: neue Ortsbildung durch Wallfahrtskirche
+GUELTIG_AB: 1190
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 344-hennef/005
+ENTITÄT: ort
+BEZEICHNUNG: Bödingen (Neustadt)
+ORTSTEIL_BEZUG: Bödingen
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1397
+  grund_gruendung: "Ansiedlung an bisher siedlungsfreiem Platz durch Wallfahrtskirche Mater Dolorosa"
+  lage: "Kreuzung der Nutscheidstraße mit einem Weg von Oberauel"
+GUELTIG_AB: 1397
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 344-hennef/006
+ENTITÄT: ort
+BEZEICHNUNG: Uckerath
+ORTSTEIL_BEZUG: Uckerath
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung_kirche: 1131
+GUELTIG_AB: 1131
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 344-hennef/007
+ENTITÄT: ort
+BEZEICHNUNG: Süchterscheid
+ORTSTEIL_BEZUG: Süchterscheid
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: ca. 1200
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 344-hennef/008
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Michael
+ORTSTEIL_BEZUG: Geistingen
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 12. Jahrhundert (zweite Hälfte)
+  genauigkeit_bauzeit: "ca. 1150-1200"
+  baustil: spätromanische Pfeilerbasilika
+  beschreibung_details: "dreischiffiges Langhaus, fünfjochig, flache Mittelschiffdecke, gratgewölbte Seitenschiffe, fünfgeschossiger vorgelagerter Westturm"
+  vorgaengerbau: "Eigenkirche unter St. Cassius Stift Bonn"
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 344-hennef/009
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Kirche Hennef
+ORTSTEIL_BEZUG: Hennef
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 1064
+  initial_besitz: Stift St. Cassius und Florentius Bonn
+  statuswechsel_1064: "von Stift St. Cassius an Erzbischof Anno II. von Köln übertragen"
+  tausch_1064: "Zehnt der Abtei Siegburg im Gegenzug"
+GUELTIG_AB: 1064
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 344-hennef/010
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Kirche Geistingen
+ORTSTEIL_BEZUG: Geistingen
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkunde: 1065-1075
+  benannte_form: "ecclesie que est in Geystingin"
+  gemeinschaftlicher_besitz_ab_1075: "je zur Hälfte Cassiusstift und Abtei Siegburg"
+  gerichtsbarkeit: "Hoch- und Blutgerichtsbarkeit im 11. Jh. unter Pfalzgraf, später Grafen von Sayn"
+GUELTIG_AB: 1065
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 344-hennef/011
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Kirche Uckerath
+ORTSTEIL_BEZUG: Uckerath
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 1131
+  erste_nennung_form: "mit dem gesamten Zehnten im Besitz des Stiftes St. Cassius und Florentius in Bonn bestätigt"
+GUELTIG_AB: 1131
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 344-hennef/012
+ENTITÄT: wallfahrtskirche
+BEZEICHNUNG: Mater Dolorosa
+ORTSTEIL_BEZUG: Bödingen
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1397-1408
+  gruender: "Christian von Lauthausen (Einsiedler) und Peter Meisenbach (Pastor von Geistingen)"
+  anlass: "Marienbild mit wundertätigen Eigenschaften, Vision des Christian von Lauthausen"
+  benannt_nach: "Mater Dolorosa"
+  querschiff_hinzufuegung: 1439
+  chor_bau: 1490-1500
+  kloster_gruendung: 1424 Umwandlung Vikarien in Kloster Augustinerchorherren
+GUELTIG_AB: 1397
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 344-hennef/013
+ENTITÄT: kirche
+BEZEICHNUNG: Zum Gottesfrieden
+ORTSTEIL_BEZUG: Blankenberg
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 1247
+  ursprung: "Klosterkirche Prämonstratenserinnen, errichtet ca. 1245"
+  umwandlung_1247: "in Konvent der Zisterzienserinnen nach letztem Willen Graf Heinrichs III."
+  status_1248: "Pfarrkirche von Blankenberg (abgetrennt von Uckerath)"
+GUELTIG_AB: 1245
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 344-hennef/014
+ENTITÄT: wallfahrtskapelle
+BEZEICHNUNG: Zum Heiligen Kreuz
+ORTSTEIL_BEZUG: Süchterscheid
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: ca. 1200
+  stiftung_benefizium: 1506
+  stifter: Bertram von Nesselrode
+  neubau: 1956/57
+  besonderheit: "Reste des Baus um 1200 wurden in Neubau von 1956/57 einbezogen"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 344-hennef/015
+ENTITÄT: kapelle
+BEZEICHNUNG: Zum Heiligen Johann von Nepomuk
+ORTSTEIL_BEZUG: Geistingen
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1690
+  gruender: "Werner de Warth (Posthalter und Schultheiß in Geistingen)"
+  lage: "neben der Frankfurter Straße vor dem Dreigiebelhaus"
+GUELTIG_AB: 1690
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 344-hennef/016
+ENTITÄT: burg
+BEZEICHNUNG: Blankenberg
+ORTSTEIL_BEZUG: Blankenberg
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 1181
+  erbauer: "Graf Heinrich II. und Graf Everhard II. von Sayn"
+  baugrund: "Allod der Abtei Siegburg (volles Eigentum, nicht Lehen)"
+  zweck: "Stützpunkt ihres ausgedehnten Grundbesitzes"
+  erwerber_1188: "Kölner Erzbischof Philipp von Heinsberg"
+  belehnung_1188: "Grafen von Sayn behalten Besitz als Lehen"
+  besitzwechsel_1363: "Wilhelm II. von Jülich (Pfandnahme)"
+  status_1363: "Verwaltungssitz bergisches Amt"
+  befestigung_verstaerkung: 15. Jahrhundert
+  besetzung_30jr_krieg: 1632-1635 schwedische Abteilung
+  zerstoerung_ausmaß: 1644 Altstadt zerstört, südliche Stadtmauer und Türme erhalten
+  verfallstatus_endstufe: "1670/1680 Trümmerhaufen, 1677 Kapelle abgetragen, um 1700 endgültig geschleift"
+GUELTIG_AB: 1181
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 344-hennef/017
+ENTITÄT: turm
+BEZEICHNUNG: Katharinentorturm
+ORTSTEIL_BEZUG: Blankenberg
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  endgueltige_gestalt: ca. 1400
+  status: "Wahrzeichen der Stadt Blankenberg"
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1644
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 344-hennef/018
+ENTITÄT: rittersitz
+BEZEICHNUNG: Allner
+ORTSTEIL_BEZUG: Hennefer Umland
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 1420
+  initial_besitzer: "Arnold von Markelsbach genannt Allner"
+  besitzuebergang_16jh: "durch Heirat zu Wallraff Scheiffart von Merode"
+  bestaetigung_besitz: Wallraff Scheiffart von Merode gestorben 1568
+  umbau_ca_1650: "Bertram Scheiffart von Merode vergrößert Kernbau"
+  transformation: "Wasserburg wird zum Schloss"
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 344-hennef/019
+ENTITÄT: rittersitz
+BEZEICHNUNG: Attenbach
+ORTSTEIL_BEZUG: Attenbach
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 1126
+  genannte_form: "Stiftungsbrief des Klosters Nonnenwerth"
+  neubau_wohnhaus: 1545
+  bauherren_1545: "Maria von Vünfzahl (Tochter Arnold von Vünfzahl zu Attenbach) und Wilhelm von Gevertzhagen"
+GUELTIG_AB: 1126
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 344-hennef/020
+ENTITÄT: kloster
+BEZEICHNUNG: Augustinerchorherren Bödingen
+ORTSTEIL_BEZUG: Bödingen
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1424
+  umwandlung_von: "Vikarien in Kloster"
+  initiator: "Abt von Groß St. Martin zu Köln im Auftrag Papst Martins V."
+  kongregation: "Windesheimer Kongregation"
+  vikarien_vorher: "vier ständige Priesterstellen an Wallfahrtskirche, 1412 eingerichtet"
+  schule: "Klosterschule für Jugendliche (14.-15. Jh.)"
+GUELTIG_AB: 1424
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 344-hennef/021
+ENTITÄT: kloster
+BEZEICHNUNG: Zisterzienserinnen Zissendorf
+ORTSTEIL_BEZUG: Siegaue/Unterhalb Blankenberg
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umzug: 1263-1265
+  ursprung: "Umsiedlung von Hof/Besitz bei Blankenberg"
+  neuer_ort: "Zissendorf in der Siegaue"
+  begruendung: "Zisterzienserinnen siedelten 1247 auf ihren Hof über"
+GUELTIG_AB: 1263
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 344-hennef/022
+ENTITÄT: markt
+BEZEICHNUNG: Jahrmarkt Blankenberg
+ORTSTEIL_BEZUG: Blankenberg
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  start: 13. Jahrhundert
+  zusaetzliche_jahrmärkte_1568: "vier weitere bewilligt durch Landesherrn"
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 344-hennef/023
+ENTITÄT: markt
+BEZEICHNUNG: Wochenmarkt Blankenberg
+ORTSTEIL_BEZUG: Blankenberg
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  start: 13. Jahrhundert
+  rhythmus: jeden Dienstag
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 344-hennef/024
+ENTITÄT: schule
+BEZEICHNUNG: Klosterschule Augustiner-Chorherren
+ORTSTEIL_BEZUG: Bödingen
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 14.-15. Jahrhundert
+  traeger: "Kloster der Augustiner-Chorherren in Bödingen"
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 344-hennef/025
+ENTITÄT: schule
+BEZEICHNUNG: "Niedere Schule" Blankenberg
+ORTSTEIL_BEZUG: Blankenberg
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 14.-15. Jahrhundert
+  zielgruppe: "Kinder der herzoglichen Beamten und der Gewerbetreibenden"
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.73
+---
+ID: 344-hennef/026
+ENTITÄT: schule
+BEZEICHNUNG: Schule Uckerath
+ORTSTEIL_BEZUG: Uckerath
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nachweise: "seit Menschengedenken"
+  erwaehnung_1647: "Schultheiß Michael Krumbach schreibt: In Uckerath gibt es seit Menschengedenken eine Kirche mit Schule"
+  organisation: "in Verbindung mit der katholischen Kirche"
+  schulamt_winterzeit_1682: "Engelbert Kleuver Übernahme"
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.72
+---
+ID: 344-hennef/027
+ENTITÄT: postamt
+BEZEICHNUNG: Posthalteramt Hennef
+ORTSTEIL_BEZUG: Hennef
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1622 (22. März Posthaltervertrag)
+  posthalter_original: "wernerus zu henneft"
+  postlinie: "Thurn und Taxissche Postlinie Köln-Frankfurt"
+  bedeutung: "ältestes Postdokument dieser Linie im Rhein-Sieg-Kreis"
+  qualifikation_1894: "Post zweiter Klasse"
+  lage_1894: "im Zentrum des Dorfes Hennef"
+GUELTIG_AB: 1622
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 344-hennef/028
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Christian von Lauthausen
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: "Einsiedler"
+  zeit: "zweite Hälfte 14. Jahrhundert"
+  bekannte_aktion: "Vision eines Marienbildes; ließ dieses in Köln anfertigen"
+  ergebnis: "schnell bekannte wundertätige Kraft"
+  bauwerk: "erbaute Wallfahrtskirche Mater Dolorosa 1397-1408 zusammen mit Peter Meisenbach"
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 344-hennef/029
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Peter Meisenbach
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: "Pastor von Geistingen"
+  zeit: "spätes 14./frühes 15. Jahrhundert"
+  bauwerk: "erbaute Wallfahrtskirche Mater Dolorosa 1397-1408 zusammen mit Christian von Lauthausen"
+GUELTIG_AB: 1390
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 344-hennef/030
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Graf Heinrich III. von Sayn
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemahlin: "Mechtild"
+  jahr_aktion: 1245
+  aktion: "Verleihung Stadtrechte an Blankenberg"
+  todesjahr: 1247
+  todesumstand: "kinderlos"
+  erbschaft: "Burg, Stadt und Land Blankenberg gehen an Heinrich von Heinsberg"
+GUELTIG_AB: 1245
+GUELTIG_BIS: 1247
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 344-hennef/031
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Wallraff Scheiffart von Merode
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 16. Jahrhundert
+  erwerb: "Rittersitz Allner durch Heirat"
+  todesjahr: 1568
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1568
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 344-hennef/032
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Bertram Scheiffart von Merode
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: "ca. 1600-1650"
+  aktion: "Vergrößerung Rittersitz Allner ca. 1650"
+  folge: "Transformation von Wasserburg zu Schloss"
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 344-hennef/033
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Werner de Warth
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  positionen: "Posthalter und Schultheiß in Geistingen"
+  zeit: "spätes 17. Jahrhundert"
+  aktion: "Gründung Kapelle Zum Heiligen Johann von Nepomuk"
+  jahr_kapelle: 1690
+GUELTIG_AB: 1680
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 344-hennef/034
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Bertram von Nesselrode
+QUELLE: https://www.hennef.de/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: "Stiftung Benefizium Zum Heiligen Kreuz"
+  ort_stiftung: Süchterscheid
+  jahr_stiftung: 1506
+GUELTIG_AB: 1506
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 344-hennef/035
+ENTITÄT: behoerde
+BEZEICHNUNG: Stadtverwaltung Hennef
+QUELLE: https://www.hennef.de/personalversammlung-rathaus-geschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  buergermeis ter: Mario Dahm
+  standorte: "Rathaus, Stadtbibliothek und weitere Standorte"
+  infrastruktur_rathaus: "Tiefgarage"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 344-hennef/036
+ENTITÄT: stadtraum
+BEZEICHNUNG: Frankfurter Straße
+ORTSTEIL_BEZUG: Hennef
+QUELLE: https://www.hennef.de/parkraumkonzept-fuer-den-hennefer-zentralort-beschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: "Einkaufsstraße mit Gewerbetreibenden"
+  parkraum_konzept: "Ausrichtung auf Kurzzeitparken"
+  zielgruppe_parkraum: "Kundenverkehr für Einzelhandel"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 344-hennef/037
+ENTITÄT: stadtraum
+BEZEICHNUNG: Heiligenstädter Platz
+ORTSTEIL_BEZUG: Hennef
+QUELLE: https://www.hennef.de/parkraumkonzept-fuer-den-hennefer-zentralort-beschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  infrastruktur: "Parkplätze mit digitaler Parkraumbewirtschaftung geplant"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 344-hennef/038
+ENTITÄT: parkhaus
+BEZEICHNUNG: P+R-Parkhaus Humperdinckstraße
+ORTSTEIL_BEZUG: Hennef
+QUELLE: https://www.hennef.de/parkraumkonzept-fuer-den-hennefer-zentralort-beschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: "Park+Ride-Anlage"
+  foerderung: "vom Land gefördert"
+  aktuelle_auslastung: "mehrere Etagen durchschnittlich ungenutzt"
+  beschraenkung: "nur Nutzer von Bus und Bahn dürfen parken"
+  planung: "teilweise Ablösung aus Förderbindung geplant"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+

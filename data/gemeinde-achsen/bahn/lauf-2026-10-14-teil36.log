@@ -1,0 +1,64 @@
+Orte: 333-rheinbrohl 334-leubsdorf 335-unkel 336-erpel 337-bad-honnef 338-koenigswinter 339-troisdorf 340-neustadt-wied 341-windhagen 342-vettelschoss
+== Extraktion (Haiku) 09:48:19
+333-rheinbrohl       extraktion ein  24696  aus  18821   0.13 USD   143 s  claude-haiku-4-5-20251001
+334-leubsdorf        extraktion ein  20618  aus  12240   0.09 USD    95 s  claude-haiku-4-5-20251001
+335-unkel            extraktion ein  35100  aus  15037   0.13 USD   130 s  claude-haiku-4-5-20251001
+336-erpel            extraktion ein  20876  aus   8114   0.07 USD    65 s  claude-haiku-4-5-20251001
+337-bad-honnef       extraktion ein  43719  aus  13446   0.14 USD   102 s  claude-haiku-4-5-20251001
+338-koenigswinter    extraktion ein  34592  aus  12491   0.12 USD    90 s  claude-haiku-4-5-20251001
+339-troisdorf        extraktion ein  25320  aus  19250   0.13 USD   151 s  claude-haiku-4-5-20251001
+340-neustadt-wied    extraktion ein  20980  aus  24186   0.15 USD   168 s  claude-haiku-4-5-20251001
+341-windhagen        extraktion ein  21595  aus  19188   0.13 USD   146 s  claude-haiku-4-5-20251001
+342-vettelschoss     extraktion ein  23443  aus  18357   0.13 USD   137 s  claude-haiku-4-5-20251001
+zusammen: 15765 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+333-rheinbrohl     40002 Zeichen
+334-leubsdorf      22454 Zeichen
+335-unkel          38700 Zeichen
+336-erpel          19180 Zeichen
+337-bad-honnef     36198 Zeichen
+338-koenigswinter   18582 Zeichen
+339-troisdorf      25623 Zeichen
+340-neustadt-wied   23792 Zeichen
+341-windhagen      16491 Zeichen
+342-vettelschoss   26281 Zeichen
+== Karten (claude-opus-5-5) 09:52:59
+333-rheinbrohl       karten     ein  51390  aus  54297   1.44 USD   462 s  claude-opus-5-5
+334-leubsdorf        karten     ein  40255  aus  32410   0.92 USD   280 s  claude-opus-5-5
+335-unkel            karten     ein  46994  aus  31872   0.96 USD   277 s  claude-opus-5-5
+336-erpel            karten     ein  38148  aus  34064   0.93 USD   300 s  claude-opus-5-5
+337-bad-honnef       karten     ein  49759  aus  32956   1.00 USD   287 s  claude-opus-5-5
+338-koenigswinter    karten     ein  37434  aus  38118   1.01 USD   336 s  claude-opus-5-5
+339-troisdorf        karten     ein  41183  aus  38230   1.04 USD   329 s  claude-opus-5-5
+340-neustadt-wied    karten     ein  41109  aus  34196   0.96 USD   293 s  claude-opus-5-5
+341-windhagen        karten     ein  36076  aus  41178   1.06 USD   359 s  claude-opus-5-5
+342-vettelschoss     karten     ein  42345  aus  39720   1.08 USD   335 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 10:06:17
+333-rheinbrohl       pruefung   ein  60438  aus  16389   0.76 USD   143 s  claude-opus-5-5
+334-leubsdorf        pruefung   ein  43424  aus   6788   0.43 USD    65 s  claude-opus-5-5
+335-unkel            pruefung   ein  54547  aus   9183   0.57 USD    81 s  claude-opus-5-5
+336-erpel            pruefung   ein  40197  aus   6029   0.39 USD    59 s  claude-opus-5-5
+337-bad-honnef       pruefung   ein  51998  aus   5942   0.48 USD    58 s  claude-opus-5-5
+338-koenigswinter    pruefung   ein  63466  aus  10447   0.66 USD    94 s  claude-opus-5-5
+339-troisdorf        pruefung   ein  56742  aus  10010   0.60 USD    84 s  claude-opus-5-5
+340-neustadt-wied    pruefung   ein  50527  aus   8995   0.53 USD    80 s  claude-opus-5-5
+341-windhagen        pruefung   ein  46264  aus  11058   0.54 USD    97 s  claude-opus-5-5
+342-vettelschoss     pruefung   ein  55289  aus   9559   0.58 USD    81 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 10:10:00
+333-rheinbrohl       stufe2     ein 270804  aus   6031   0.69 USD   102 s  claude-opus-5-5,claude-haiku-4-5-20251001
+334-leubsdorf        stufe2     ein 118401  aus   4573   0.49 USD    67 s  claude-opus-5-5,claude-haiku-4-5-20251001
+335-unkel            stufe2     ein 363366  aus   9631   0.93 USD   129 s  claude-opus-5-5,claude-haiku-4-5-20251001
+336-erpel            stufe2     ein 337223  aus   8101   0.99 USD   127 s  claude-opus-5-5,claude-haiku-4-5-20251001
+337-bad-honnef       stufe2     ein 454903  aus  11892   1.40 USD   145 s  claude-opus-5-5,claude-haiku-4-5-20251001
+338-koenigswinter    stufe2     ein 114313  aus   2104   0.30 USD    44 s  claude-opus-5-5,claude-haiku-4-5-20251001
+339-troisdorf        stufe2     ein 152968  aus   3930   0.52 USD    72 s  claude-opus-5-5,claude-haiku-4-5-20251001
+340-neustadt-wied    FEHLER keine Karte an Stufe 2 – kein Lauf
+341-windhagen        stufe2     ein 326597  aus   4766   0.70 USD   105 s  claude-opus-5-5,claude-haiku-4-5-20251001
+342-vettelschoss     stufe2     ein 233050  aus   8494   0.77 USD   110 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 10:13:58
+Urteile: {'korrigiert': 1013, 'bestätigt': 1762, 'gesperrt': 85, 'unsicher': 204} | im Vorrat: 2979 Karten an 342 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     342 Orte, 2979 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 3408909 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 10:14:01

@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "358-heiligenhaus",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 10251,
+ "token_ein": 317647,
+ "token_aus": 6777,
+ "usage": {
+  "input_tokens": 20,
+  "cache_creation_input_tokens": 31762,
+  "cache_read_input_tokens": 285865,
+  "output_tokens": 6777,
+  "output_tokens_details": {
+   "thinking_tokens": 2947
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 31762,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 2860,
+    "cache_read_input_tokens": 38231,
+    "cache_creation_input_tokens": 433,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 433
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.669717,
+ "sekunden": 113,
+ "fehler": false,
+ "zeit": "2026-10-14T10:56:04"
+}

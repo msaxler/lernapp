@@ -1,0 +1,64 @@
+Orte: 343-asbach 344-hennef 345-sankt-augustin 346-siegburg 347-lohmar 348-roesrath 349-leichlingen 350-solingen 351-hilden 352-haan
+== Extraktion (Haiku) 10:14:23
+343-asbach           extraktion ein  23702  aus  10774   0.09 USD    73 s  claude-haiku-4-5-20251001
+344-hennef           extraktion ein  24047  aus  15309   0.11 USD   121 s  claude-haiku-4-5-20251001
+345-sankt-augustin   extraktion ein  24969  aus   9128   0.08 USD    77 s  claude-haiku-4-5-20251001
+346-siegburg         extraktion ein  37489  aus   8971   0.11 USD    69 s  claude-haiku-4-5-20251001
+347-lohmar           extraktion ein  27753  aus  17831   0.13 USD   125 s  claude-haiku-4-5-20251001
+348-roesrath         extraktion ein  23448  aus  14101   0.10 USD   104 s  claude-haiku-4-5-20251001
+349-leichlingen      extraktion ein  21525  aus   8244   0.07 USD    59 s  claude-haiku-4-5-20251001
+350-solingen         extraktion ein  67742  aus  14937   0.20 USD   120 s  claude-haiku-4-5-20251001
+351-hilden           extraktion ein  23550  aus  13028   0.10 USD    95 s  claude-haiku-4-5-20251001
+352-haan             extraktion ein  29192  aus   5108   0.07 USD    40 s  claude-haiku-4-5-20251001
+zusammen: 16082 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+343-asbach         16462 Zeichen
+344-hennef         25176 Zeichen
+345-sankt-augustin   21509 Zeichen
+346-siegburg       22703 Zeichen
+347-lohmar         36915 Zeichen
+348-roesrath       19386 Zeichen
+349-leichlingen     9201 Zeichen
+350-solingen       42352 Zeichen
+351-hilden         13647 Zeichen
+352-haan           13598 Zeichen
+== Karten (claude-opus-5-5) 10:18:00
+343-asbach           karten     ein  36356  aus  29179   0.82 USD   253 s  claude-opus-5-5
+344-hennef           karten     ein  41768  aus  44410   1.17 USD   385 s  claude-opus-5-5
+345-sankt-augustin   karten     ein  38697  aus  29683   0.85 USD   264 s  claude-opus-5-5
+346-siegburg         karten     ein  39823  aus  31097   0.89 USD   274 s  claude-opus-5-5
+347-lohmar           karten     ein  49727  aus  29661   0.94 USD   258 s  claude-opus-5-5
+348-roesrath         karten     ein  37852  aus  33158   0.91 USD   292 s  claude-opus-5-5
+349-leichlingen      karten     ein  31631  aus  24037   0.68 USD   210 s  claude-opus-5-5
+350-solingen         karten     ein  51950  aus  31603   0.99 USD   271 s  claude-opus-5-5
+351-hilden           karten     ein  34424  aus  34128   0.90 USD   295 s  claude-opus-5-5
+352-haan             karten     ein  34533  aus  32459   0.87 USD   287 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 10:29:11
+343-asbach           pruefung   ein  36518  aus   4154   0.32 USD    40 s  claude-opus-5-5
+344-hennef           pruefung   ein  55050  aus  13070   0.65 USD   115 s  claude-opus-5-5
+345-sankt-augustin   pruefung   ein  50752  aus   8825   0.53 USD    79 s  claude-opus-5-5
+346-siegburg         pruefung   ein  69466  aus   9512   0.69 USD    83 s  claude-opus-5-5
+347-lohmar           pruefung   ein  66346  aus   8424   0.65 USD    77 s  claude-opus-5-5
+348-roesrath         pruefung   ein  47356  aus   8256   0.49 USD    71 s  claude-opus-5-5
+349-leichlingen      pruefung   ein  38565  aus   5400   0.36 USD    51 s  claude-opus-5-5
+350-solingen         pruefung   ein  51554  aus   5953   0.48 USD    53 s  claude-opus-5-5
+351-hilden           pruefung   ein  44902  aus   8067   0.47 USD    72 s  claude-opus-5-5
+352-haan             pruefung   ein  52227  aus   8124   0.53 USD    73 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 10:32:15
+343-asbach           stufe2     ein 265309  aus   7428   1.01 USD   114 s  claude-opus-5-5,claude-haiku-4-5-20251001
+344-hennef           stufe2     ein 161947  aus   5031   0.47 USD    78 s  claude-opus-5-5,claude-haiku-4-5-20251001
+345-sankt-augustin   stufe2     ein 332216  aus   6109   0.80 USD   110 s  claude-opus-5-5,claude-haiku-4-5-20251001
+346-siegburg         FEHLER keine Karte an Stufe 2 – kein Lauf
+347-lohmar           stufe2     ein 177024  aus   2852   0.58 USD    65 s  claude-opus-5-5,claude-haiku-4-5-20251001
+348-roesrath         stufe2     ein 238043  aus   5570   0.82 USD    95 s  claude-opus-5-5,claude-haiku-4-5-20251001
+349-leichlingen      stufe2     ein 168020  aus   3171   0.50 USD    68 s  claude-opus-5-5,claude-haiku-4-5-20251001
+350-solingen         stufe2     ein 389954  aus  13440   1.38 USD   183 s  claude-opus-5-5,claude-haiku-4-5-20251001
+351-hilden           stufe2     ein 242156  aus   6413   0.71 USD    96 s  claude-opus-5-5,claude-haiku-4-5-20251001
+352-haan             FEHLER keine Karte an Stufe 2 – kein Lauf
+== Geprüfte Fassung und Export 10:36:37
+Urteile: {'korrigiert': 1037, 'bestätigt': 1804, 'gesperrt': 87, 'unsicher': 214} | im Vorrat: 3055 Karten an 352 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     352 Orte, 3055 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 3479930 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 10:36:39

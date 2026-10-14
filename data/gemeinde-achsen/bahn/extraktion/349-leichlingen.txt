@@ -1,0 +1,54 @@
+ENTITÄT: ort
+BEZEICHNUNG: Leichlingen
+QUELLE: https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmallandschaft_charakterisierung: geprägt durch Fachwerkbauten in Form von bäuerlichen Hofanlagen, Bürgerhäusern und einfacher bergischer Wohnkultur, sowie Ritter- und Adelssitze, Kirchen, Burg und Schloss sowie technische Bauwerke
+  baudenkmäler: 101
+  bodendenkmäler: 6
+  bewegliche_denkmäler: 4
+  denkmalbereiche: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: denkmalbereich
+BEZEICHNUNG: Dorf
+QUELLE: https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marktstraße / Mittelstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmalbereich
+BEZEICHNUNG: Ortskern
+ORTSTEIL_BEZUG: Witzhelden
+QUELLE: https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ortskern des Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Witzhelden
+QUELLE: https://www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_denkmalbereich: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: einrichtung
+BEZEICHNUNG: Stadtbücherei Leichlingen
+QUELLE: https://www.leichlingen.de/kultur-und-bildung/stadtbuecherei/ueber-uns-1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Büscherhof 1, 42799 Leichlingen
+  email: stadtbuecherei@leichlingen.de
+  telefon: 02175 992-216, 02175 992-219
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

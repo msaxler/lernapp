@@ -1,0 +1,394 @@
+ENTITÄT: ort
+BEZEICHNUNG: Sankt Augustin
+EIGENSCHAFTEN:
+  gründung_gesamtstadt: 1969
+  gründung_gesamtstadt_komponenten: aus Gemeinden Buisdorf, Hangelar, Meindorf, Menden, Mülldorf, Niederpleis und Siedlung Sankt Augustin; Birlinghoven aus Gemeinde Stieldorf hinzugekommen
+  stadtrechte: 1977
+  einwohnerzahl_ca_1950: 13000
+  einwohnerzahl_ca_1969: 31500
+  einwohnerzahl_ca_1980: 48500
+  einwohnerzahl_heute: >59000
+  rang_rhein_sieg_kreis: zweitgrößte Stadt der 19 Städte und Gemeinden im Rhein-Sieg-Kreis
+  namensherkunft: nach dem Kloster Sankt Augustin, fertiggestellt 1913 durch Steyler Missionare
+  namenspatron: Heiliger Augustinus, Schutzpatron der Steyler Missionare
+  vorgängerorganisationen: Commune de Menden 1807/08; Munizipalität Menden 1809-1813; Bürgermeisterei Menden; Amt Menden (Rheinland) ab 1927
+  ortsteile: Birlinghoven, Buisdorf, Hangelar, Meindorf, Menden, Mülldorf, Niederpleis
+  gueltig_ab: 1969
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Stadt Sankt Augustin
+EIGENSCHAFTEN:
+  beschreibung: schreitender roter Bergischer Löwe
+  bestandteil_seit: 1936
+  historische_zuordnung: Amt Menden (1936-1927), Gemeinde (1927-1977), Stadt (ab 1977)
+  gueltig_ab: 1936
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Sankt Augustin
+EIGENSCHAFTEN:
+  fertigstellung: 1913
+  orden: Steyler Missionare
+  schutzpatron: Heiliger Augustinus
+  bedeutung: Namensgeber für die Stadt
+  gueltig_ab: 1913
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Max Leitterstorf
+EIGENSCHAFTEN:
+  titel: Bürgermeister
+  stadt: Sankt Augustin
+  gueltig_ab: 2026
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bechtle AG / Bechtle GmbH & Co. KG IT-Systemhaus Bonn
+EIGENSCHAFTEN:
+  branche: IT-Dienstleister
+  charakterisierung: international tätig, erfolgreiche IT-Dienstleister Europas
+  neubau_standort: Sankt Augustin
+  neubau_areal: Klosterhöfe am Sonnenweg
+  neubau_flaeche: 6368 qm
+  neubau_geplante_arbeitsplaetze: ca. 300
+  neubau_beschreibung_gebaeude: 6-geschossiges Bürogebäude + 5-geschossiges Gebäude für Lager, Installation und Parken
+  neubau_nachhaltigkeitsziel: DGNB Gold Standard (>65% der Anforderungen)
+  neubau_geplante_fertigstellung: 2026
+  bedeutung: wichtigste Gewerbeansiedlung in der Stadtgeschichte
+  gueltig_ab: 2025
+  gueltig_bis: 2026
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: gewerbeansiedlung
+BEZEICHNUNG: Bechtle-Ansiedlung am Klosterhöfe-Areal
+ORTSTEIL_BEZUG: Zentrum
+EIGENSCHAFTEN:
+  grundsteinlegung: August 2026
+  flaeche: 6368 qm
+  arbeitsplaetze: ca. 300
+  zertifizierung_angestrebt: DGNB Gold Standard
+  fertigstellung_geplant: 2026
+  charakterisierung: Filetgrundstück mit unmittelbar angrenzender Stadtbahnlinie, Anbindung an Bonn und ICE-Haltepunkt Siegburg
+  nahe_infrastruktur: Einkaufsgelegenheiten, Gastronomie, Ärztehaus
+  bedeutung: wichtigste Gewerbeansiedlung in der Stadtgeschichte
+  gueltig_ab: 2026
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Hochschule Bonn-Rhein-Sieg
+EIGENSCHAFTEN:
+  standort: Sankt Augustin
+  typ: Wissenschaftseinrichtung, Forschungsuniversität
+  rolle_infrastruktur: attraktives Umfeld für IT-Unternehmen
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Fraunhofer-Institute
+EIGENSCHAFTEN:
+  standort: Sankt Augustin (auch Birlinghoven)
+  typ: Forschungsinstitut
+  rolle_infrastruktur: attraktives Umfeld für IT-Unternehmen
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Lamarr-Institut
+EIGENSCHAFTEN:
+  standort: Sankt Augustin
+  typ: Forschungsinstitut
+  rolle_infrastruktur: attraktives Umfeld für IT-Unternehmen
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: DLR-Institute
+EIGENSCHAFTEN:
+  standort: Sankt Augustin
+  typ: Forschungsinstitut
+  rolle_infrastruktur: attraktives Umfeld für IT-Unternehmen, jüngst angesiedelt
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: areal
+BEZEICHNUNG: Klosterhöfe
+EIGENSCHAFTEN:
+  lage: Sonnenweg, Zentrum von Sankt Augustin
+  charakterisierung: Filetgrundstück, eines der letzten im Stadtzentrum
+  verkaeuferin: Wirtschaftsförderungsgesellschaft Sankt Augustin mbH
+  verkaeufer_kurzname: WFG
+  verkauf_jahr: 2025
+  verkauf_monat: März
+  kaeufer: Bechtle GmbH & Co. KG
+  verkehr: unmittelbar angrenzende Haltestelle Stadtbahnlinie, Anbindung Bundesstadt Bonn, ICE-Haltepunkt Siegburg
+  nahegelegene_infrastruktur: Einkaufsgelegenheiten, gastronomisches Angebot, Ärztehaus
+  gueltig_ab: 2025
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Birlinghoven
+EIGENSCHAFTEN:
+  einwohnerzahl: ungefähr 2000
+  groesse_vergleich: kleinster Stadtteil
+  lage: Rand des Rhein-Sieg-Kreises
+  nachbarorte: Hennef, Königswinter, Bonn
+  landschaft: Pleiser Hügelland, Felder, Birlinghovener Wald
+  gewaesser: Lauterbach, Pleisbach
+  charakterisierung: idyllischer Fleck, Dorf und Stadt kombiniert
+  infrastruktur_arbeitgeber: Maschinenbauer Hennecke, Fraunhofer Institut
+  infrastruktur_versorgung: Netto mit Bäcker und Packstation, Friseure, Ärzte, Apotheke, Physiotherapie, Kosmetik, Kindertagesmutter, KiTa, Autolackierer, Pflanzenhof, Kafferösterei
+  infrastruktur_gastronomie: Pizza Baaz (Punjabi-Gerichte)
+  veranstaltungen: Feierabendmarkt mittwochs, Schlosskonzerte, Kölsche Ovend Männerchor, Kinder- und Familienfest, Karnevalsparty Pappnasen, Sankt Martinszug 1. Novemberhälfte, Weihnachtsmarkt 1. Adventssonntag
+  vereine_sport: Sportverein 1948 Birlinghoven e.V. (Fußball, Gymnastik für Damen, Krav Maga), SV Birlinghoven
+  vereine_kultur: Bürgeverein Birlinghoven, Männerchor Birlinghoven, Pappnasen Birlinghoven
+  sehenswuerdigkeiten: Schloss Birlinghoven, Wasserschlösschen Birlinghoven, Bürgerhaus
+  sozialinfrastruktur: Frauenhaus mit innovativem Integrationskonzept
+  besonderheit_frauenhaus: Integration ins Dorf statt Anonymität, Sicherheit ohne Würdeverlust
+  vereinsleben: stark traditionell geprägt, ganzjähriges Veranstaltungsangebot, große Bedeutung für Dorfgemeinschaft
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.88
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Buisdorf
+EIGENSCHAFTEN:
+  einwohnerzahl: ungefähr 3500
+  lage: Osten von Sankt Augustin
+  besiedlung_anfang: 6. Jahrhundert
+  ersterwähnung: 1071
+  ersterwähnungsname: Bozenlohe
+  historische_bedeutung: wichtiger Verkehrsweg zwischen Köln und Frankfurt
+  dorfkern_struktur: vier alte Höfe
+  dorfkern_beispiel: Steiferhof (Benediktinerabtei Siegburg)
+  berufe_historisch: Kleinbauern, Landarbeiter, Schiffer, Fischer, Handwerker, Leineweber
+  bebauung_alt: Fachwerk- oder Backsteinhäuser teilweise erhalten
+  wirtschaftsgeschichte: bis 20. Jahrhundert vorwiegend landwirtschaftlich
+  verkehrsgeschichte_sieg_faehre: bis 18. Jahrhundert
+  verkehrsgeschichte_sieg_bruecke: steinerne Brücke ab 1855
+  denkmal_faehrhaus: unter Denkmalschutz, ehemalig, nahe Brücke
+  hochwasserschutz: Deiche ab 1920 schützten wirksam vor Sieghochwasser
+  naturdenkmal: Buisdorfer Siegwehr an der Sieg
+  naturdenkmal_ereignis: im Herbst spektakuläre Lachssprünge über Wehr
+  freizeit: Siegaue lädt zu Fahrradtouren und Wanderungen ein
+  verkehrsanbindung_autobahn: A 560 zur A 3
+  verkehrsanbindung_bus: zwei Buslinien nach Siegburg (ICE) und Bonn
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hangelar
+EIGENSCHAFTEN:
+  einwohnerzahl_nach_wwii: ungefähr 9000
+  lage: Westen von Sankt Augustin
+  nachbarschaft: grenzt an Bonn
+  ersterwähnung: 1314
+  ortsname_etymologie: ungefähr Feld oder Weideplatz am Hang
+  historische_struktur: kleines Straßendorf zwischen Bonn und Siegburg, mit Gerichtssitz
+  gerichtssitz: Burbank
+  admin_weltlich_historisch: Amt Blankenberg
+  admin_kirchlich_historisch: bis 1911 zu Vilich, 1911 eigene Pfarrei
+  wirtschaftsentwicklung: Ende 19. Jahrhundert Aufschwung durch Verkehrslage
+  infrastrukturanschlüsse: Bröltalbahn, Industriebahn
+  industrie_historisch: Eisengießerei, zwei Tonwerke
+  heide_militaer: ab 19. Jahrhundert Bonner Soldaten-Manöver auf Hangelarer Heide
+  flugplatz_anfang: ab 1909 Flugversuche auf Hangelarer Heide
+  flugplatz_bedeutung: heute wichtiger Wirtschaftsfaktor
+  bundespolizei: Standort auf Flugplatz
+  wirtschaftsfaktoren: Flugplatz und Einzelhandel
+  einzelhandel: Kölnstraße im alten Ortskern mit intakter Struktur
+  einzelhandel_angebote: Lebensmittel, Mode, Wein- und Kaffeespezialitäten, Blumen, Dienstleistungen
+  gastronomie: stattliche Anzahl Betriebe
+  gesundheitliche_versorgung: überdurchschnittliches Angebot
+  vereinsleben: traditionell stark geprägt, ganzjähriges Veranstaltungsangebot
+  versammlungsort: städtisches Haus der Nachbarschaft
+  verkehranbindung_auto: enge Autobahnnetzanbindung
+  verkehranbindung_rad: Fahrradwegenetz der Region
+  verkehranbindung_oepnv: Stadtbahnlinie 66 mit drei Haltestellen, nahezu perfekte Anbindung an Köln und Bonn
+  freizeit_orte: Hangelarer Heide, Gegend Flugplatz, Birlinghovener Wald, Nähe Sieg, Rhein, Siebengebirge
+  kirche: Katholische Kirche St. Anna
+  kirche_ort: Franz-Jacobi-Straße 3
+  kirche_errichtet: 1970-1972
+  kirche_vorgaenger: 1898 errichtet, 1972 abgerissen
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Meindorf
+EIGENSCHAFTEN:
+  einwohnerzahl: ungefähr 2800
+  groesse_vergleich: einer der kleineren Stadtteile
+  lage: Westen von Sankt Augustin, zwischen Autobahn/Eisenbahn und Sieg
+  suedliche_nachbarschaft: Bonner Stadtgrenze
+  besiedlung_vermutlich: ein paar Jahrhunderte vor Ersterwähnung
+  ersterwähnung: 1071
+  adel_historisch: Rittergeschlecht von Meindorf
+  adel_sitz_vermutlich: Turm am alten Ortskern
+  wirtschaftsform_historisch_lang: kleine bäuerliche Siedlung, landwirtschaftlich geprägt
+  einwohnerzahl_200jahre_zurueck: gut 200 Menschen
+  bebauung_alt: einige ältere Häuser und Hofanlagen im Ortskern erhalten
+  entwicklung_nach_1945: Erweiterung Richtung Bahnhof Menden mit Siedlung, danach Neubaugebiete
+  neubaugebiet_groesstes: Lichweg
+  charakterisierung: nicht mehr Land, aber sicher auch nicht Stadt, schönes Dorf
+  pfarrkirche: 1912 fertiggestellt
+  pfarrkirche_rolle: Wahrzeichen von Meindorf
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.88
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Menden
+EIGENSCHAFTEN:
+  admin_historisch: Zentrum der Commune de Menden (1807/08), Munizipalität Menden (1809-1813)
+  admin_historisch_alt: Bürgermeisterei Menden, Amt Menden (Rheinland) ab 1927
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mülldorf
+EIGENSCHAFTEN:
+  admin_historisch: historisch Siegburg-Mülldorf bei Gründung der Stadt 1969
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Niederpleis
+EIGENSCHAFTEN:
+  historische_bauten: zahlreiche Denkmäler vom 12. bis 20. Jahrhundert
+  burgruine: Burg Niederpleis
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Wirtschaftsförderungsgesellschaft Sankt Augustin mbH
+EIGENSCHAFTEN:
+  kurzname: WFG
+  funktion: Flächenverkauf und Wirtschaftsförderung
+  flächenverkauf_beispiel: Klosterhöfe an Bechtle
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Frauenhaus
+ORTSTEIL_BEZUG: Birlinghoven
+EIGENSCHAFTEN:
+  konzept: innovativ, Integration ins Dorf statt Anonymität
+  sicherheit_erhalt: Sicherheit ohne Preis der Würde der schutzbedürftigen Personen
+  zukunftsorientiert: true
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+
+ENTITÄT: kunstdenkmal
+BEZEICHNUNG: Wasserschlösschen
+ORTSTEIL_BEZUG: Birlinghoven
+EIGENSCHAFTEN:
+  ort: Birlinghovener Straße 4a
+  errichtet: 1871
+  erweitert: 1932
+  neugestaltet: 1965-1971
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schloss Birlinghoven
+ORTSTEIL_BEZUG: Birlinghoven
+EIGENSCHAFTEN:
+  typ: Schloss
+  nutzung: Veranstaltungsort (Schlosskonzerte)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Sportverein 1948 Birlinghoven e.V.
+ORTSTEIL_BEZUG: Birlinghoven
+EIGENSCHAFTEN:
+  gruendung: 1948
+  jubilaeum_75jahr: 2023
+  sportarten: Fußball, Gymnastik für Damen
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Buisdorfer Siegwehr
+ORTSTEIL_BEZUG: Buisdorf
+EIGENSCHAFTEN:
+  lage: an der Sieg, am Ende eines Links des Grünen C
+  naturereignis: Lachse überwinden Wehr mit spektakulären Sprüngen im Herbst
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Flugplatz Hangelar
+ORTSTEIL_BEZUG: Hangelar
+EIGENSCHAFTEN:
+  flugversuche_ab: 1909
+  flugplatz_seit: 1909
+  nutzer: Bonner Soldaten, Flieger, Bundespolizei
+  bedeutung: wichtiger Wirtschaftsfaktor
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: rentenstelle
+BEZEICHNUNG: Rentenstelle der Stadt Sankt Augustin
+EIGENSCHAFTEN:
+  status: 12.10.2026 bis 23.10.2026 nicht besetzt
+  alternative_zustaendigkeit: Service-Zentrum Bonn der Deutschen Rentenversicherung
+  gueltig_ab: 2026
+  gueltig_bis: 2026
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9

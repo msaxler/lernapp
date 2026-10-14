@@ -1,0 +1,355 @@
+ENTITÄT: ort
+BEZEICHNUNG: Königswinter
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  formation: 1969
+  flaeche: 7619 [ha]
+  einwohner: 43000 [ca.]
+  ersterwähnung: 1015
+  urspruenglicher_name: Winetre
+  namensherkunft: "deutet auf Weinbau hin"
+  naechste_grossstaedte: "Bonn, Köln"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Oberpleis
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 859
+  urspruenglicher_name: Pleisa
+ORTSTEIL_BEZUG: Oberpleis
+GUELTIG_AB: 859
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Dollendorf
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 966
+  urspruenglicher_name: Dullendorf
+  siedlung: "Grabstein von 680 n.Chr. gefunden"
+ORTSTEIL_BEZUG: Dollendorf
+GUELTIG_AB: 966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Ittenbach
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 922
+  urspruenglicher_name: Idubag
+ORTSTEIL_BEZUG: Ittenbach
+GUELTIG_AB: 922
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Stieldorf
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 895
+ORTSTEIL_BEZUG: Stieldorf
+GUELTIG_AB: 895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Rauschendorf
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1117
+  urspruenglicher_name: Ruzindorf
+ORTSTEIL_BEZUG: Rauschendorf
+GUELTIG_AB: 1117
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Quirrenbach
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 948
+ORTSTEIL_BEZUG: Quirrenbach
+GUELTIG_AB: 948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burgruine
+BEZEICHNUNG: Drachenfels
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "herausragendes Baudenkmal und touristisches Wahrzeichen von Königswinter"
+  rheinromantik_bedeutung: "mit dem Aufkommen der Rheinromantik in der Mitte des 19. Jahrhunderts den Grundstein für eine langjährige Tradition Königswinters als Fremdenverkehrsort gelegt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bahn
+BEZEICHNUNG: Zahnradbahn
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Drachenfels
+  in_betrieb_seit: 1883
+  funktion: "Transport auf den Gipfel mit Ausblick auf Rheintal"
+GUELTIG_AB: 1883
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: abtei
+BEZEICHNUNG: Abtei Heisterbach
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 1200
+  gegruender: "Zisterziensermönche"
+  urspruengliche_kirche: "großartige romanische Kirche, zu den größten romanischen Bauwerken im Rheinland"
+  gegenwärtiger_zustand: "heute nur noch die Chorruine"
+  wirken: "kulturelles und wirtschaftliches Wirken kam allen umliegenden Ortschaften zugute, entscheidende Impulse für Weinbau"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Propsteikirche Oberpleis
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: romanisch
+  ausstattung: "Krypta und Kreuzgang"
+  bauzeit: 12. Jahrhundert
+ORTSTEIL_BEZUG: Oberpleis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Oberpleis
+QUELLE: https://www.koenigswinter.de/de/museen-und-baudenkmaeler_in_koenigswinter.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalstatus: eingetragenes Baudenkmal
+  typ: "Bartning Notkirche Typ D"
+  zustand: "weitgehend im Originalzustand erhalten"
+ORTSTEIL_BEZUG: Oberpleis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Siebengebirgsmuseum
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Altstadt
+  sammlungen: "Kultur, Wirtschaft, Geologie der Region"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Brückenhofmuseum
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Weinort Oberdollendorf"
+  ausstellung: "Geräte und Utensilien aus Haushalt und Handwerk, Modellanlage Weilberg der Heisterbacher Talbahn"
+ORTSTEIL_BEZUG: Oberdollendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: haus_kulturell
+BEZEICHNUNG: Haus Schlesien
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Heisterbacherrott
+  funktion: "Zentrum für Kunst, Kultur und die Geschichte Schlesiens"
+ORTSTEIL_BEZUG: Heisterbacherrott
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Drachenburg
+QUELLE: https://www.koenigswinter.de/de/museen-und-baudenkmaeler_in_koenigswinter.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Drachenfels
+  beschreibung: "architektonisches Juwel"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Siebengebirge
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "eines der ältesten Naturschutzgebiete Deutschlands"
+  status_nrw: "erster Naturpark in Nordrhein-Westfalen"
+  wanderwege: 200 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: hotel
+BEZEICHNUNG: Hotel Petersberg
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Berg Petersberg im Siebengebirge"
+  funktion_bis_1970er: "mondänes Hotel, Residenz für Staatsgäste der Bundesrepublik Deutschland"
+  prominente_gaeste: "Königin Elisabeth II, Schah von Persien, Leonid Breschnew, Clinton, Jelzin, Kaiser Akihito, Königin Margarete II"
+  goldenes_buch_unterschriften: 31
+  staat_erwerb: 1979
+  sanierung_und_wiedereroffnung: 1990
+  funktion_ab_1990: "offizielles Gästehaus der Bundesrepublik Deutschland"
+  internationale_konferenzen: "Afghanistan-Konferenz 2001 und 2002"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: handwerk
+BEZEICHNUNG: Weinbau
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Hänge des Siebengebirges"
+  antike: "bereits zur Zeit der Ersterwähnung Königswinters (1015) heimisch"
+  impuls_durch: "Zisterziensermönche der Abtei Heisterbach gaben entscheidende Impulse"
+  betriebe_aktuell: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Cleethorpes / North-East-Lincolnshire
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendung: 1974
+  region_partner: "Ostküste Großbritannien"
+  aenderung: "1995 aufgegangen in North-East-Lincolnshire bei kommunaler Neuordnung"
+  kontinuität: "partnerschaftliche Beziehungen blieben bestehen"
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Cognac
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendung: 1989
+  region_partner: "südwestfrankreich"
+  besonderheit_stadt: "Name weltbekannt wegen eines von dort stammenden Produktes"
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: klaeranlage
+BEZEICHNUNG: Kläranlage Königswinter
+QUELLE: https://www.koenigswinter.de/de/daten-fakten-abwasserwerk.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1974-1976
+  spatenstich: 1973-08-29
+  erweiterung: 1993-1996
+  auslegung: 42000 [EW]
+  belastung_2020: 24954 [EW]
+  abwassermenge_2020: 1566970 [m³]
+  stromverbrauch_2020: 953007 [kWh/a]
+  bhkw_eigenproduktion_2020: 442404 [kWh/a]
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: hallenbad
+BEZEICHNUNG: Hallenbad Königswinter
+QUELLE: https://www.koenigswinter.de/de/startseite/hallenbad-bleibt-waehrend-der-herbstferien-geschlossen-im-november-oeffnet-es-wieder.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bisheriger_betreiber: "Schwimmtreff Hallenfreizeitbad GmbH"
+  betreibungsdauer_bisherig: "über 30 Jahre"
+  neuer_betreiber_ab: 2026-11-01
+  neuer_betreiber_name: "PROVA Unternehmensberatung"
+  neuer_betreiber_sitz: Hamm
+GUELTIG_AB: 2026-11-01
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Heike Jüngling
+QUELLE: https://www.koenigswinter.de/de/startseite/hallenbad-bleibt-waehrend-der-herbstferien-geschlossen-im-november-oeffnet-es-wieder.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Bürgermeisterin
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Peter Buchholz
+QUELLE: https://www.koenigswinter.de/de/geschichten-aus-dem-archiv.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Oberpleis
+  status: "Ehrenbürger von Oberpleis"
+  beruf: Priester
+  bekannteste_tätigkeit: "seelsorgerische Betreuung der zum Tode verurteilten Männer des Attentats vom 20. Juli 1944"
+  ausweis_opfer_faschismus: 3399
+GUELTIG_BIS: beschreibung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Königswinter
+QUELLE: https://www.koenigswinter.de/de/geschichten-aus-dem-archiv.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  foto_dokumentation: 1894
+  anlass_foto: "Bauarbeiten Straßenzufahrt Kaiser-Straße"
+  aenderungen_bis_heute: "Gebäude hat sich in Details verändert, Umgebung stark verändert"
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Höhere Knabenschule Königswinter
+QUELLE: https://www.koenigswinter.de/de/geschichten-aus-dem-archiv.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_ehemals: Schützenstraße 2
+  schaeden: "erhebliche Schäden im Zweiten Weltkrieg, anschließend saniert"
+  nachnutzung: "später Feuerwache eingerichtet"
+  status_aktuell: "schließlich abgerissen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

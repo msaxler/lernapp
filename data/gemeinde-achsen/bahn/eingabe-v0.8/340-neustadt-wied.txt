@@ -1,0 +1,575 @@
+ZIELORT: Neustadt (Wied) (Gemeinde)
+LAGE: 27 km südöstlich von Bonn (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Neustadt (Wied)
+
+GRUNDDATEN:
+  landkreis: Neuwied  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 6546  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 35,81  [Wikidata P2046]
+  dichte_ew_km2: 183  [berechnet aus Einwohner und Fläche]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 175 | 206 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 11608708)]
+  naechste_grossstadt: Bonn, 27 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 93 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 53577  [Wikidata P281]
+  vorwahl: 02683  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 39,8 %, AfD 22,7 %, SPD 13 %, GRÜNE 7,6 %, FDP 5 %; Wahlbeteiligung 84,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Thomas Junior (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-14]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Troisdorf (Stadt)
+  einwohner: 75.742  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 62  [Wikidata P2046; Altbestand staedte.json]
+  kfz: SU (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 55  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2821029)]
+  naechste_grossstadt: Bonn, 10 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Friedrich-Wilhelms-Hütte, Bahnhof Spich, Bahnhof Troisdorf  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,2 %, SPD 18,9 %, AfD 17,8 %, GRÜNE 11,8 %, Die Linke 8,3 %, BSW 5,2 %; Wahlbeteiligung 81 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen
+
+FAKTEN (Zielort Neustadt (Wied)):
+ID: 340-neustadt-wied/001
+ENTITÄT: ort
+BEZEICHNUNG: Neustadt (Wied)
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 6800, genauigkeit: "ca."
+  art: Ortsgemeinde
+  ersterwaehnung_urkundlich: 1185
+  kirchlicher_bereich: Erzbistum Trier
+  ortsteile_count: 49
+  ortsteile: Als-Au, Altenhütte, Ammerich, Bertenau, Borscheid, Brüchen, Bühlingen, Dasbach, Dinkelbach, Ehrenberg, Eilenberg, Etscheid, Fernthal, Funkenhausen, Gerhardshahn-Ost, Gerhardshahn-West, Grube Anxbach, Grube Ferdinand, Grübelsberg, Grübelshof, Hammerhof, Hombach, Hombachsmühle, Jungfernhof, Kodden, Krummenau, Manroth, Mettelshahn, Mittelelsaff, Neschen, Neschermühle, Niederetscheid, Niederhoppen, Oberelsaff, Oberetscheid, Oberhoppen, Panau, Paffhausen, Prangenberg, Rahms, Rott, Rotterheide, Rüddel, Scharenberg, Steeg, Steinshof, Strauscheid, Telegraf, Thalhof, Unterelsaff, Vogtslag, Wahrenberg, Weißenfels, Wied, Wiedmühle, Wölsreeg
+  gemeinde_vereinigung: 1969
+  gemeinde_vereinigung_beteiligte: Neustadt, Bühlingen, Elsaffthal, Rahms
+  verbandsgemeinde: Asbach
+  verbandsgemeinde_seit: 1970
+  wappen_herkunft: Wappenzeichen der Vögte von Panau und Familie Munt von Neustadt
+  politische_zugehoerigkeit_bis_1803: Kurköln
+  politische_zugehoerigkeit_ab_1803: Fürsten zu Wied (Reichsdeputationshauptschluss)
+GUELTIG_AB: 1185
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 340-neustadt-wied/002
+ENTITÄT: ort
+BEZEICHNUNG: Neustadt (Wied)
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: vorderen Westerwald, romantisches Wiedtal
+  naturpark: Rhein-Westerwald
+  hoehenlage_spanne: 120-370 m NN
+  hoechste_erhe­bung: Bertenauer Kopf
+  hoechste_erhe­bung_hoehe: 351,50 m ü. M.
+  superlativ: "höchste Erhebung in der Ortsgemeinde"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 340-neustadt-wied/003
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Margarita
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer_erste_kirche: Graf Heinrich III. von Sayn, Mechthilde (Gemahlin)
+  bauzeit_erste_kirche: 1229
+  lage_erste_kirche: Hauptstraße
+  einsegnung_neubau: 1873
+  lage_neubau: Wiedtalstraße
+  bauzeit_neubau: 1869-1873
+GUELTIG_AB: 1229
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 340-neustadt-wied/004
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Margarita
+QUELLE: https://www.neustadt-wied.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Raiffeisenstraße 8
+  telefon: 02683-3638
+  email: pfarrei.neustadtwied@gmx.de
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 340-neustadt-wied/005
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+QUELLE: https://www.neustadt-wied.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kirchwiese 1
+  telefon: 02683-2408
+  konfession: evangelisch
+  leiter_pfarrer: Bernd Peters
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 340-neustadt-wied/006
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Antonius-Kapelle
+ORTSTEIL_BEZUG: Etscheid
+QUELLE: https://www.neustadt-wied.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Asbacher Straße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Mariä-Himmelfahrt
+ORTSTEIL_BEZUG: Fernthal
+QUELLE: https://www.neustadt-wied.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Dreischläger Straße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/008
+ENTITÄT: kirche
+BEZEICHNUNG: Herz-Jesu-Kirche
+ORTSTEIL_BEZUG: Rahms
+QUELLE: https://www.neustadt-wied.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Fortunatus Straße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/009
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle St. Mariä-Geburt
+ORTSTEIL_BEZUG: Rott
+QUELLE: https://www.neustadt-wied.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Kapellenweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/010
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle St. Mariä-Heimsuchung
+ORTSTEIL_BEZUG: Strauscheid
+QUELLE: https://www.neustadt-wied.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Kurstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/011
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Josefhaus
+QUELLE: https://www.neustadt-wied.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Klosterstraße 1
+  beschreibung: Kapelle in Marienhaus Senioreneinrichtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/012
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Neustadt-Vettelschoß
+QUELLE: https://www.neustadt-wied.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  adresse: Willscheider Weg 19, 53560 Vettelschoß
+  telefon: 02645-2226
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 340-neustadt-wied/013
+ENTITÄT: burg
+BEZEICHNUNG: Burg Altenwied
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Bezug zur Altenwied-Region
+  bedeutung_fuer_neustadt: Geschichte Neustadts eng verknüpft mit dieser Burg
+GUELTIG_AB: 1250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 340-neustadt-wied/014
+ENTITÄT: burg
+BEZEICHNUNG: Burg Altenwied
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Privatbesitz
+  besichtigung: nicht möglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 340-neustadt-wied/015
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Vögte von Panau
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 14. Jahrhundert
+  einflussbereich: Neustädter Raum
+  bedeutung: erstes bedeutendes Adelsgeschlecht
+  aebte_in_maria_laach: 2
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/016
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Familie Munt von Neustadt
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 15.-16. Jahrhundert
+  sitz: Burg Altenwied
+  funktionen: richterliche Funktionen
+  nachfolger_von: Vögte von Panau
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/017
+ENTITÄT: abtei
+BEZEICHNUNG: Abtei Heisterbach
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort_einfluss: Neustadt
+  patronatsrecht_seit: 1254
+  rechte_typ: Patronats- und Zehntrecht
+GUELTIG_AB: 1254
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 340-neustadt-wied/018
+ENTITÄT: ereignis_militaer
+BEZEICHNUNG: Schwedenheer-Verwüstungen
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1632
+  beschreibung: Schwedenheer hinterließ schwere Verwüstungen
+GUELTIG_AB: 1632
+GUELTIG_BIS: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/019
+ENTITÄT: ereignis_militaer
+BEZEICHNUNG: Raubzüge Ludwig XIV.
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_ungefaehr: nach 1632
+  kontext: nach Verwüstungen durch Schwedenheer
+GUELTIG_AB: 1650
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 340-neustadt-wied/020
+ENTITÄT: ereignis_militaer
+BEZEICHNUNG: Holländische Dragoner
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1803
+GUELTIG_AB: 1803
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/021
+ENTITÄT: ereignis_kriminell
+BEZEICHNUNG: Terrorband im Westerwald
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: zweite Hälfte 18. Jahrhundert
+  bereich: Westerwald
+  handlungen: Raub, Folter, Terrorismus
+  ende_jahr: 1780
+  ende_ort: Neustadt an der Wied
+  beschreibung: spektakuläres Ende
+GUELTIG_AB: 1750
+GUELTIG_BIS: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 340-neustadt-wied/022
+ENTITÄT: grube
+BEZEICHNUNG: Grube Borscheiderseifen
+ORTSTEIL_BEZUG: Altenhütte
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Altenhütterbachtal
+  lage_beschreibung: wenige hundert Meter südlich der heutigen Ortslage Altenhütte
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/023
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Neustadt (Wied)
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dokumentation: erwähnt in Postkarten um 1939 und ca. 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 340-neustadt-wied/024
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Wiedmühle
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dokumentation: um ca. 1939 fotografiert mit Wiedtalbrücke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 340-neustadt-wied/025
+ENTITÄT: bruecke
+BEZEICHNUNG: Wiedtalbrücke
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dokumentation: um ca. 1939 fotografiert
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 340-neustadt-wied/026
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Neustadt
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Grundschule
+  ort: Neustadt (Wied)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 340-neustadt-wied/027
+ENTITÄT: schule
+BEZEICHNUNG: Realschule plus Neustadt
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Realschule plus
+  ort: Neustadt (Wied)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 340-neustadt-wied/028
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Neustadt
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Gymnasium
+  ort: Neustadt (Wied)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 340-neustadt-wied/029
+ENTITÄT: freizeitanlage
+BEZEICHNUNG: Freizeitanlage mit Biotop
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: 7000 m²
+  entstehung: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 340-neustadt-wied/030
+ENTITÄT: buecherei
+BEZEICHNUNG: Gemeindebücherei Neustadt (Wied)
+QUELLE: https://www.neustadt-wied.de/newpageb48139b3 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: kommunale öffentliche Bibliothek
+  medienbestand_physisch: 14000, genauigkeit: "ca."
+  medienbestand_digital: 100000, genauigkeit: "mehr als"
+  leiter: Angela Dissemond (Diplom-Bibliothekarin)
+  adresse: Hauptstraße 23
+  telefon: 02683-93 65 29
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 340-neustadt-wied/031
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Bi et fröher wor
+QUELLE: https://www.neustadt-wied.de/newpageb48139b3 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hauptstraße 21
+  gebaeude: altes Fachwerkhaus
+  eroeffnung: 1991
+  ausstellungsthema: Lebensstil früher, geprägt von Landwirtschaft und Bergbau
+  ausstellungsflaeche: mehrere hundert Exponate
+  sammlung: Küche, gute Stube, Schlafkammer, Heimatarchiv, Geräteraum mit landwirtschaftlichen Arbeitsgeräten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/032
+ENTITÄT: naturerholungsgebiet
+BEZEICHNUNG: Natur-Erholungsgebiet Berschau
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ortsende (Richtung Ehrenstein)
+  lage_wasserlauf: Ufer der Wied
+  ausstattung: Biotop, Wanderwege, Spielplätze, Grillhütten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/033
+ENTITÄT: eisenbahnlinie
+BEZEICHNUNG: Eisenbahnlinie Linz - Altenkirchen
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: ehemalig
+  ueberreste: Alter Bahndamm mit Brücken, Brückenruinen, Tunnel
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/034
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Ehrenstein
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: mit Kapelle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/035
+ENTITÄT: burgruine
+BEZEICHNUNG: Burgruine Ehrenstein
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1477
+  adresse: Kreuzbruderweg 1-2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/036
+ENTITÄT: kapelle
+BEZEICHNUNG: Rochus-Kapelle
+ORTSTEIL_BEZUG: Ehrenstein
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1761
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/037
+ENTITÄT: fluss
+BEZEICHNUNG: Wied
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Nebenfluss des Rheins
+  nutzungen: Angeln, Kanufahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 340-neustadt-wied/038
+ENTITÄT: lehrpfad
+BEZEICHNUNG: Waldlehrpfad
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Neustadt (Wied)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/039
+ENTITÄT: park
+BEZEICHNUNG: Neustadt Wiedpark
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: Steinlehrpfad, Bäume des Jahres
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/040
+ENTITÄT: wanderweg
+BEZEICHNUNG: Westerwaldsteig
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Neustadt (Wied)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/041
+ENTITÄT: wanderweg
+BEZEICHNUNG: Wiedwanderweg
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Neustadt (Wied)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/042
+ENTITÄT: wanderweg
+BEZEICHNUNG: Kölner Weg
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Neustadt (Wied)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/043
+ENTITÄT: grabstein
+BEZEICHNUNG: Grabplatte Junker Gilbrecht Schütz von Holzhausen
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Katholische Pfarrkirche Neustadt (Wied)
+  person: Gilbrecht Schütz von Holzhausen, Vogt zu Panau
+  jahr: 1539
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/044
+ENTITÄT: grabstein
+BEZEICHNUNG: Grabplatte Katharina von Kaan
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Katholische Pfarrkirche Neustadt (Wied)
+  person: Katharina von Kaan, genannt Räuber
+  beschreibung: Witwe des Junkers Gilbrecht Schütz von Holzhausen
+  jahr: 1552
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/045
+ENTITÄT: artefakt_rom
+BEZEICHNUNG: Römischer Opferstein
+QUELLE: https://www.neustadt-wied.de/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Katholische Pfarrkirche Neustadt (Wied)
+  zeitraum: 3. Jahrhundert
+  darstellung_pfarrpatron: St. Margarita (Mitte 17. Jahrhundert)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 340-neustadt-wied/046
+ENTITÄT: person
+BEZEICHNUNG: Graf Heinrich III. von Sayn
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 13. Jahrhundert
+  rolle: Erbauer der Pfarrkirche St. Margarita
+  baujahrwerk: 1229
+GUELTIG_AB: 1229
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 340-neustadt-wied/047
+ENTITÄT: person
+BEZEICHNUNG: Mechthilde von Sayn
+QUELLE: https://www.neustadt-wied.de/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 13. Jahrhundert
+  rolle: Erbauerin (mit Gemahl Heinrich III. von Sayn)
+  baujahrwerk: 1229
+  handlung_1250: Verkauf des Amtes Altenwied an das Erzstift Köln nach Tod des Gemahls
+GUELTIG_AB: 1229
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+

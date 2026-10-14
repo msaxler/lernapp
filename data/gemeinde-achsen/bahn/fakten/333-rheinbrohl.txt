@@ -1,0 +1,1066 @@
+ID: 333-rheinbrohl/001
+ENTITÄT: ort
+BEZEICHNUNG: Rheinbrohl
+QUELLE: https://www.rheinbrohl.de/ueber-den-ort/rheinbrohler-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 877
+  erste_erwähnung_quelle: König Karl der Kahle
+  besiedlung_seit_keltenzeit: true
+  charakterisierung_bis_ca: 1870
+  landnutzung_bis_1870: Acker- und Weinanbau (ausgedehnt)
+  wirtschaftsaufschwung: 1866
+  wirtschaftsaufschwung_grund: Bau der rechtsrheinischen Eisenbahnlinie
+  jubilaeum_1125_jahre: 2002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 333-rheinbrohl/002
+ENTITÄT: ort
+BEZEICHNUNG: Rheinbrohl
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  lage: unterhalb Rheinbrohler Ley, gegenüber Brohl-Lützing, rechtes Rheinufer
+  namensherkunft: keltisches Wort "brule" oder "broile" für "Sumpf"
+  roemische_bezeichnung: Broele trans rhenum
+  roemisches_kastell: ja
+  roemisches_kastell_bedeutung: Ausgangspunkt des obergermanisch-raetischen Limes
+  roemische_periode: spätes 2. bis frühes 3. Jahrhundert n. Chr.
+  fraenkisches_koenigsgut: ja
+  koenigsgut_inhaber_pippin: Pippin der Ältere
+  landesherrinnen_seit_7_jh: Äbtissinnen des Klosters Nivelles
+  befestigung_erlaubnis: 1347
+  befestigung_erlaubnis_geber: Karl IV.
+  landesherrschaft_uebernahme: 1260
+  landesherrschaft_uebernahme_durch: Grafen von Sayn
+  religionswechsel_lutherisch: 1560
+  religionswechsel_lutherisch_grund: Graf Adolf von Sayn
+  religionswechsel_reformiert: ca. 1600
+  religionswechsel_katholisch: 1613
+  religionswechsel_katholisch_grund: Neuaufteilung unter Kurtrier
+  pestepidemie: 1665-1666
+  pestepidemie_charakterisierung: verheerend
+  herrschaftswechsel_1803: Nassau-Weilburg
+  herrschaftswechsel_1815: Preußen
+  synagogenbau: 1820
+  gestaendnis_religionsfreiheit: true
+GUELTIG_AB: 877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/003
+ENTITÄT: ort
+BEZEICHNUNG: Rheinbrohl
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  status: Ortsgemeinde
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verbandsgemeinde: Bad Hönningen
+  landesplanung: Grundzentrum
+  lage_fluss: rechtes Ufer Mittelrhein
+  charakterisierung: Weinort
+  naturpark: Rhein-Westerwald
+  hoechste_erhebeung: knapp unterhalb 373 [m ü. NHN]
+  hoechste_erhebeung_name: Malberg
+  limes_weltkulturerbe: ja
+  limes_weltkulturerbe_datum: 15. Juli 2005
+  limes_weltkulturerbe_organisation: UNESCO
+  hauptortsteil: Arienheller
+  wohnplaetze: Annahof, Berghof, Christinenhöhe, Dielsberg, Hartmannshof, Haus Bergfriede, Haus Forst, Jagdhaus Wilhelmsruh, Lampenthalerhof, Magdalenenhof, Zur alten Mühle
+  erste_schriftliche_erwahnung: 3. Mai 877
+  erste_schriftliche_erwahnung_quelle: König Karl der Kahle
+  urspruengliche_zugehoerigkeit: Stift Nivelles (Herzogtum Brabant)
+  voegte: Grafen von Sayn
+  heimgefallenes_lehen_1606: Kurtrier
+  saekulasiation_1803: Nassau
+  wiener_kongress_1815: Preußen
+  dialekt: Moselfränkisch (nahe Übergang zum Ripuarischen)
+  gemeinderat_sitze: 20
+  gemeinderat_wahl: 9. Juni 2024
+GUELTIG_AB: 877
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/004
+ENTITÄT: limes
+QUELLE: https://www.rheinbrohl.de/ueber-den-ort/rheinbrohler-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauwerk_typ: römische Grenzbefestigung
+  erbaut_am: Rheinbrohler Rheinufer
+  gemarkung: In der Laach
+  nachbau: Limesturm (erster Turm)
+  roemische_bezeichnung: bekannt
+GUELTIG_AB: ca. 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/005
+ENTITÄT: limes
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  abschnitt: Obergermanisch-Raetischer Limes
+  beginn_ort: Rheinbrohl (nördliche Ausgangsposition)
+  roemische_bezeichnung: obergermanisch-raetischer Limes
+GUELTIG_AB: ca. 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/006
+ENTITÄT: limes
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  weltkulturerbe: ja
+  weltkulturerbe_organisation: UNESCO
+  weltkulturerbe_datum: 15. Juli 2005
+  abschnitt: Obergermanisch-Raetischer Limes
+GUELTIG_AB: ca. 100
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/007
+ENTITÄT: person
+BEZEICHNUNG: Jacob Hilgers
+QUELLE: https://www.rheinbrohl.de/ueber-den-ort/rheinbrohler-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 3. Oktober 1834
+  geburtsort: Solingen
+  beschreibung: erfindungsreicher Bastler und Fabrikant
+  verzinkerei_erbauung: 1869
+  verzinkerei_bedeutung: erste Deutschlands
+  betriebsdauer: über 100 Jahre
+  familienbetrieb: Firma Hilgers
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 333-rheinbrohl/008
+ENTITÄT: unternehmen
+BEZEICHNUNG: Verzinkerei Hilgers / Stahlbauunternehmen Hilgers / Hilgers AG / DSD Stahlbau Hilgers
+QUELLE: https://www.rheinbrohl.de/ueber-den-ort/rheinbrohler-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1869
+  gruender: Jacob Hilgers
+  betriebsdauer: über 100 Jahre
+  bedeutung: wichtiger Arbeitgeber und Einkommensquelle
+  verarbeitung: Metallverarbeitung, Eisenkonstruktion
+  betriebsdauer_ende: Ende 20. Jahrhundert (Auslauf)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/009
+ENTITÄT: unternehmen
+BEZEICHNUNG: Stahlbauunternehmen Hilgers
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1868
+  nachfolger: Hilgers AG, DSD Stahlbau Hilgers
+  bedeutung: wichtiger Wirtschaftsfaktor über 100 Jahre
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/010
+ENTITÄT: unternehmen
+BEZEICHNUNG: Hilgers Schiffswerft
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1947
+  grundlage: Stahlbauunternehmen Hilgers
+  schliessung: 1985
+GUELTIG_AB: 1947
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/011
+ENTITÄT: unternehmen
+BEZEICHNUNG: Firma Bröhl
+QUELLE: https://www.rheinbrohl.de/ueber-den-ort/rheinbrohler-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verarbeitung: Metallverarbeitung
+  reichweite: weltweit
+  etablierung: ehemalige Fabrikgebäude Hilgers
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/012
+ENTITÄT: unternehmen
+BEZEICHNUNG: DSD Hilgers
+QUELLE: https://www.rheinbrohl.de/ueber-den-ort/rheinbrohler-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verarbeitung: Metallverarbeitung
+  reichweite: weltweit
+  etablierung: ehemalige Fabrikgebäude Hilgers
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/013
+ENTITÄT: unternehmen
+BEZEICHNUNG: Firma Huber Integralbau
+QUELLE: https://www.rheinbrohl.de/ueber-den-ort/rheinbrohler-geschichte | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Arienheller
+EIGENSCHAFTEN:
+  produkt: Entwurf und Bau von Parkhäusern
+  gebaeudelage: ehemaliges Gebäude des Arienheller Sprudels
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/014
+ENTITÄT: unternehmen
+BEZEICHNUNG: Arienheller Sprudel- und Kohlensäure AG
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+ORTSTEIL_BEZUG: Arienheller
+EIGENSCHAFTEN:
+  gruendung: 29. Oktober 1898
+  gruendung_uebernahme: Firma Rheinische Kohlensäure-Union Stoll & Cie.
+  zusammenschluss_1964: Hubertus Sprudel Erben Thellenbach GmbH → Vereinigte Mineralbrunnen GmbH
+  umbenennung_1966: Artus Mineralquellen GmbH & Co. KG
+  uebernahme_1996: Vereinte Mineral- und Heilquellen GmbH (Rosbach)
+  umnutzung: Bauunternehmen (moderne Umgestaltung)
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/015
+ENTITÄT: wappen
+QUELLE: https://www.rheinbrohl.de/ueber-den-ort/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundfarben: Silber und Blau
+  linke_haelfte: rotes durchgehendes Kreuz auf silbernem Grund
+  rechte_haelfte: drei silberne Pilgermuscheln (zwei zu eins gestellt) auf blauem Grund
+  herkunft_person: Kurfürst Lothar von Metternich
+  anlass_einfuehrung: Lothar von Metternich erschien persönlich 1613 zur Übernahme Landesherrschaft für Kurtrier
+  erstanbringung: alle Ortstore
+  amtliche_bestaetigung: 1949
+  gueltig_seit: 1613
+GUELTIG_AB: 1613
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 333-rheinbrohl/016
+ENTITÄT: heilige
+BEZEICHNUNG: Gertrud / Heilige Gertrud
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  geburt: *626
+  tod: +659
+  herkunft: Tochter Pippins des Älteren
+  rolle: Äbtissin des Klosters Nivelles in Brabant
+  vermoegensuebergang: Erbteil bildete Kernbereich des Rheinbrohler Gertrudenhofs
+GUELTIG_AB: 626
+GUELTIG_BIS: 659
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/017
+ENTITÄT: herrschaft
+BEZEICHNUNG: Gertrudenhof
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  entstehung: Erbteil der Heiligen Gertrud (7. Jahrhundert)
+  gesamtheit: Kernbereich Rheinbrohler Besitzes
+  erweiterung: kleine Kapelle
+  funktionsraum_spaeter: Rathaus (heute historisches Rathaus)
+  nachweisbarkeit: seit 7. Jahrhundert
+GUELTIG_AB: 626
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/018
+ENTITÄT: heilige
+BEZEICHNUNG: Suitbert
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  geburt: *637
+  tod: +713
+  rolle: Abt Kaiserswerth
+  auftrag: von Pippin der Mittlere
+  vermoegensuebergang: Benediktinerkloster Kaiserswerth erhielt Teil des Rheinbrohler Besitzes
+GUELTIG_AB: 637
+GUELTIG_BIS: 713
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/019
+ENTITÄT: herrschaft
+BEZEICHNUNG: Kaiserswerther Hof
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  herkunft: Teil des Rheinbrohler Besitzes des Benediktinerklosters Kaiserswerth
+  erweiterung: Pfarrkirche (mehrmals zerstört und wieder aufgebaut)
+  erweiterung_zeitpunkt: noch zu Suitberts Lebzeiten
+GUELTIG_AB: ca. 680
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/020
+ENTITÄT: kirche
+BEZEICHNUNG: St. Suitbert
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  typ: katholische Pfarrkirche
+  stil: neugotisch
+  weihe: 1856
+  vorgaengerbau: romanische Kirche (Teile übernommen)
+  innenausstattung_teile: vom romanischen Vorgängerbau übernommen
+GUELTIG_AB: 1856
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/021
+ENTITÄT: kirche
+BEZEICHNUNG: St. Suitbert
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  typ: neugotische katholische Pfarrkirche
+  bauzeit: 1852-1856
+  architekt: Vincenz Statz (Kölner Diözesenbaumeister)
+GUELTIG_AB: 1852
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 333-rheinbrohl/022
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  fertigstellung: 1888
+  gruendung_grund: Bevölkerungswachstum
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/023
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  stil: neugotisch
+  erbauung: 1888
+  architekt: Friedrich Lang (Wiesbaden)
+  ausstattung: Glasmalerei-Fenster von Erhardt Jakobus Klonk
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/024
+ENTITÄT: kapelle
+BEZEICHNUNG: Gertrudenkapelle
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  bausubstanz: 13. Jahrhundert
+  altar: 17. Jahrhundert
+  aelteste_glocke: 1696
+  aelteste_glocke_beschreibung: älteste Glocke Rheinbrohls
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/025
+ENTITÄT: kapelle
+BEZEICHNUNG: Maria-Hilf-Kapelle
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  madonnenstatue: spätes 14. Jahrhundert
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/026
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Wurzelkrippe
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  ort: St.-Suitbertus-Kirche
+  ausstellung_zeitraum: 24. Dezember bis 2. Februar (jährlich)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/027
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: historisches Rathaus
+  identitaet: Gertrudenhof
+  ursprung_zeitpunkt: seit 7. Jahrhundert nachgewiesen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/028
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Ehrenmal
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+ORTSTEIL_BEZUG: Rheinbrohler Ley
+EIGENSCHAFTEN:
+  bezug: Erster Weltkrieg
+  regiment: Infanterie-Regiment Nr. 29 "von Horn" (3. Rheinisches)
+  fertigstellung: Sommer 1933
+  beschreibung: Fresken zeigen Schrecken des Krieges
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/029
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Ehrenmal des Infanterie-Regiments Nr. 29
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+ORTSTEIL_BEZUG: Rheinbrohler Ley
+EIGENSCHAFTEN:
+  kuenstler: Carl Burger (Bildhauer)
+  regiment: Infanterie-Regiment Nr. 29 "von Horn" (3. Rheinisches)
+  sinnbild: vier apokalyptische Reiter (Hunger, Pest, Krieg, Tod)
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/030
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Rheinbrohler Ley
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Felsenberg
+  besonderheit: Aussichtspunkt mit Blick in alle Himmelsrichtungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/031
+ENTITÄT: bauwerk
+BEZEICHNUNG: Römerturm 1 (Nachbau)
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Nachbau des ersten Limesturms
+  lage: Zufahrt zur Autofähre nach Bad Breisig
+GUELTIG_AB: modern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/032
+ENTITÄT: institution
+BEZEICHNUNG: RömerWelt
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+ORTSTEIL_BEZUG: Arienheller
+EIGENSCHAFTEN:
+  typ: Limes-Erlebnis-Zentrum
+  eroeffnung: 2008
+  lage: Ortsausfahrt B 42, neben ehemaliges Werk Arienheller-Sprudel
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/033
+ENTITÄT: institution
+BEZEICHNUNG: Maximilian-Kolbe-Schule
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  typ: Förderschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/034
+ENTITÄT: institution
+BEZEICHNUNG: Römerwall-Schule
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  typ: Realschule plus
+  besonderheit: Ganztagsschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/035
+ENTITÄT: institution
+BEZEICHNUNG: Astrid-Lindgren-Schule
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  typ: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/036
+ENTITÄT: institution
+BEZEICHNUNG: Berufsbildungszentrum der Handwerkskammer Koblenz
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  typ: Berufsbildungseinrichtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/037
+ENTITÄT: kindergarten
+BEZEICHNUNG: Casa Feliz
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  verband: Kindergartenzweckverband
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 333-rheinbrohl/038
+ENTITÄT: kindergarten
+BEZEICHNUNG: Casa Vivida
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  verband: Kindergartenzweckverband
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 333-rheinbrohl/039
+ENTITÄT: kindergarten
+BEZEICHNUNG: Casa Natura
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  verband: Kindergartenzweckverband
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 333-rheinbrohl/040
+ENTITÄT: kindergarten
+BEZEICHNUNG: KiTa St. Suitbert
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  verband: Kindergartenzweckverband
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 333-rheinbrohl/041
+ENTITÄT: kindergarten
+BEZEICHNUNG: Sonderpädagogischer Kindergarten
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  traeger: Lebenshilfe Neuwied gGmbH
+  gruppen: 1
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 333-rheinbrohl/042
+ENTITÄT: institution
+BEZEICHNUNG: Pflege- und Altenheime
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 3
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 333-rheinbrohl/043
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Rheinbrohl
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  lage: Rechte Rheinstrecke
+  linien: Regionalbahn 27, Regionalexpress 8
+  takt_rb27: 60 Minuten
+  takt_re8: 60 Minuten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/044
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Personen- und Autofähre
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: Bad Breisig
+  takt: Viertelstundentakt
+  zeitrahmen: frueher Morgen bis später Abend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/045
+ENTITÄT: polizeibeamter
+BEZEICHNUNG: Alfred Ott
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 19. Juni 1934
+  tod: 21. März 2020
+  todesort: Neuwied
+  funktion: Fußball-Bundesliga-Schiedsrichter
+GUELTIG_AB: 1934
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/046
+ENTITÄT: person
+BEZEICHNUNG: Anna Katharina Spee
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1590
+  tod: 1631
+  schicksal: Opfer der Hexenverfolgungen
+GUELTIG_AB: 1590
+GUELTIG_BIS: 1631
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/047
+ENTITÄT: person
+BEZEICHNUNG: Johanna Loewenherz
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 12. März 1857
+  tod: 16. oder 17. Mai 1937
+  todesort: Rheinbrohl
+  beschreibung: jüdische Autorin, Musikerin, Frauenrechtlerin, Sozialistin
+  genauigkeit_todesdatum: "oder" (unsicher)
+GUELTIG_AB: 1857
+GUELTIG_BIS: 1937
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/048
+ENTITÄT: person
+BEZEICHNUNG: Bertrand Kurtscheid
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 11. März 1877
+  todesort: Rom
+  geburtsort: Rheinbrohl
+  urspruenglicher_name: Valentin Kurtscheid
+  beschreibung: deutscher Franziskaner und Kirchenrechtler
+  tod: 29. August 1941
+GUELTIG_AB: 1877
+GUELTIG_BIS: 1941
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/049
+ENTITÄT: person
+BEZEICHNUNG: Hermann Honnef
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 19. Juli 1878
+  geburtsort: Bad Honnef
+  tod: 30. Juli 1961
+  todesort: Rheinbrohl
+  beschreibung: Pionier der Windkraftnutzung
+GUELTIG_AB: 1878
+GUELTIG_BIS: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/050
+ENTITÄT: person
+BEZEICHNUNG: Herman Flesche
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 21. Oktober 1886
+  geburtsort: Rheinbrohl
+  tod: 4. Januar 1972
+  todesort: Braunschweig
+  beschreibung: deutscher Architekt, Maler, Kunsthistoriker und Schriftsteller
+GUELTIG_AB: 1886
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/051
+ENTITÄT: person
+BEZEICHNUNG: Hermann Jung
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1901
+  tod: 1988
+  todesort: Gemünden/Main
+  geburtsort: Rheinbrohl
+  beschreibung: Journalist und Schriftsteller
+  publikationen: über 300 Bücher und Arbeiten über Wein
+  chefredakteur: 1953-1957
+  chefredakteur_publikation: Fachzeitschrift "Der deutsche Weinbau"
+  auszeichnung: Deutscher Weinkulturpreis
+  auszeichnung_jahr: 1981
+GUELTIG_AB: 1901
+GUELTIG_BIS: 1988
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/052
+ENTITÄT: person
+BEZEICHNUNG: Günther L. Heubgen
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 2. Januar 1949
+  geburtsort: Rheinbrohl
+  beschreibung: promovierter Fachbuchautor im Bereich Biologie
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/053
+ENTITÄT: person
+BEZEICHNUNG: Stefan Müller
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1962
+  geburtsort: Rheinbrohl
+  beschreibung: Polizist und Polizeipräsident des Präsidiums Westhessen
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/054
+ENTITÄT: person
+BEZEICHNUNG: Oliver Labonde
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Ortsbürgermeister
+  partei: CDU
+  wahl_1_mai_2014: 53.6 [%]
+  wahl_2_mai_2019: 64.63 [%]
+  wahl_3_juni_2024: 72.0 [%]
+  amtsantritt: Mai 2014
+  amtsdauer: 5 Jahre pro Wahl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/055
+ENTITÄT: gemeinde_partnerschaft
+BEZEICHNUNG: Bourcefranc-le-Chapus
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  lage: Atlantikküste
+  verwaltungsregion: Département Charente-Maritime
+  partnerschaft_seit: 1965
+  besonderheit: erste Partnerschaft in der Region Poitou-Charentes
+  charakterisierung: lebt intensiv weiter
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/056
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: 1618-1648
+  auswirkung_rheinbrohl: Zerstörungen, Plünderungen, wechselnde Einquartierungen
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/057
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Pestepidemie
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: 1665-1666
+  charakterisierung: verheerend
+GUELTIG_AB: 1665
+GUELTIG_BIS: 1666
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/058
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Spanischer Erbfolgekrieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: 1701-1714
+GUELTIG_AB: 1701
+GUELTIG_BIS: 1714
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/059
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Österreichischer Erbfolgekrieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: 1740-1748
+GUELTIG_AB: 1740
+GUELTIG_BIS: 1748
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/060
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Siebenjähriger Krieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: 1756-1763
+GUELTIG_AB: 1756
+GUELTIG_BIS: 1763
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/061
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Erster Weltkrieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  tote_rheinbrohl: mehr als 100 Bürger
+  beruseckung_nachher: amerikanische Truppen
+  beruseckung_abzug: Sommer 1919
+  pontonbruecke: zwischen Rheinbrohl und Brohl-Lützing
+  pontonbruecke_zweck: Truppenrückzug
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/062
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Rheinhochwasser
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  ereignisse: 1920, 1924, 1926
+  charakterisierung: verheerend
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 333-rheinbrohl/063
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zweiter Weltkrieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  luftangriffe: ja
+  zielgruppe: ursprünglich Hilgers AG
+  verursachung: auch Wohngebiete betroffen
+  groesster_angriff: 19. März 1945
+  tote_19_maerz_1945: 40 Zivilisten
+  zerstoerungen: große Teile Rheinbrohls
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/064
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zweiter Weltkrieg
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  beschiessung: 10-tägiger Dauerbeschuss (März 1945)
+  eroberung: durch amerikanische Truppen
+  widerstand: deutsche Einheit von 27 Mann unter Oberleutnant
+  widerstand_methode: abendliche Stellungswechsel eines einzelnen Flakgeschützes
+  luftangriff_19_maerz: massiv
+  kriegsende: 19. März 1945
+  zivile_tote: 40
+  zerstoerte_haeuser: 66
+  schwer_zerstoerte_haeuser: 177
+  charakterisierung: sinnloser Widerstand
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/065
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Novemberpogrome
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: 1938
+  beschreibung: Ausschreitungen gegen jüdische Bürger
+  brand_synagoge: ja
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/066
+ENTITÄT: konfession
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  stand_30_juni_2005_katholisch: 71.5 [%]
+  stand_30_juni_2005_evangelisch: 11.5 [%]
+  stand_30_juni_2005_andere_konfessionslos: 17.0 [%]
+  stand_ende_maerz_2026_katholisch: 45.1 [%]
+  stand_ende_maerz_2026_evangelisch: 9.7 [%]
+  stand_ende_maerz_2026_andere_konfessionslos: 45.2 [%]
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/067
+ENTITÄT: einwohnerstatistik
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1815: 1013
+  einwohner_1835: 1470
+  einwohner_1871: 1606
+  einwohner_1905: 2583
+  einwohner_1939: 3190
+  einwohner_1950: 3524
+  einwohner_1961: 3947
+  einwohner_1970: 3872
+  einwohner_1987: 3845
+  einwohner_1997: 4050
+  einwohner_2005: 3995
+  einwohner_2011: 3892
+  einwohner_2017: 3942
+  einwohner_2025: 4197
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/068
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  sitze_gesamt: 20
+  wahl_9_juni_2024_spd: 8
+  wahl_9_juni_2024_cdu: 11
+  wahl_9_juni_2024_gruene: 1
+  wahl_9_juni_2024_fwg: 0
+  wahl_26_mai_2019_spd: 9
+  wahl_26_mai_2019_cdu: 11
+  wahl_26_mai_2019_gruene: 0
+  wahl_14_mai_2014_spd: 11
+  wahl_14_mai_2014_cdu: 8
+  wahl_14_mai_2014_gruene: 0
+  wahl_14_mai_2014_fwg: 1
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/069
+ENTITÄT: buergermeister
+BEZEICHNUNG: Dieter Labonde
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: 1999-2014
+GUELTIG_AB: 1999
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/070
+ENTITÄT: buergermeister
+BEZEICHNUNG: Walter Kramer
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 1984-1999
+GUELTIG_AB: 1984
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/071
+ENTITÄT: buergermeister
+BEZEICHNUNG: Rudi Rosbach
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 1969-1984
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1984
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/072
+ENTITÄT: buergermeister
+BEZEICHNUNG: Ferdinand Schmitz
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 1949-1969
+GUELTIG_AB: 1949
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/073
+ENTITÄT: pippin
+BEZEICHNUNG: Pippin der Ältere
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  geburt: *580
+  tod: +640
+  besitz: Rheinbrohl (fränkisches Königsgut)
+GUELTIG_AB: 580
+GUELTIG_BIS: 640
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/074
+ENTITÄT: pippin
+BEZEICHNUNG: Pippin der Mittlere
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  geburt: *680
+  geburt_genauigkeit: "oder"
+  geburt_alternativer_wert: 687
+  tod: +714
+  verwandschaft: Neffe Gertruds
+  handlung: setzte Suitbert als Abt in Kaiserswerth ein
+  handlung_schenkung: schenkte Benediktinerkloster Teil des Rheinbrohler Besitzes
+GUELTIG_AB: 680
+GUELTIG_BIS: 714
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 333-rheinbrohl/075
+ENTITÄT: person_kurfuerst
+BEZEICHNUNG: Lothar von Metternich
+QUELLE: https://www.rheinbrohl.de/ueber-den-ort/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Kurfürst
+  erscheinung_rheinbrohl: persönlich 1613
+  anlass: Übernahme Landesherrschaft für Kurtrier
+  handlung: Wappen an allen Ortstoren anbringen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/076
+ENTITÄT: person_kurfuerst
+BEZEICHNUNG: Lothar von Metternich
+QUELLE: https://de.wikipedia.org/wiki/Rheinbrohl | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1599-1623
+  wappenbegründung: vermutlich Verleiher des Gemeinesiegels mit Kreuz und Muscheln
+  siegel_abdrucke_bekannt_seit: 1610
+GUELTIG_AB: 1599
+GUELTIG_BIS: 1623
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 333-rheinbrohl/077
+ENTITÄT: person_kaiser
+BEZEICHNUNG: Karl der Kahle
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  geburt: *823
+  tod: +877
+  schreiben_rheinbrohl: 877
+  schreiben_inhalt: erste schriftliche Erwähnung Rheinbrohls
+GUELTIG_AB: 823
+GUELTIG_BIS: 877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/078
+ENTITÄT: person_kaiser
+BEZEICHNUNG: Karl IV.
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  geburt: *1316
+  tod: +1378
+  beschluss_1347: Erlaubnis zur Befestigung Rheinbrohls
+  beschluss_1347_veranlassung: auf Bitte Graf Henne von Sayn
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/079
+ENTITÄT: person_graf
+BEZEICHNUNG: Adolf von Sayn
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  lebensdaten: 1538-1568
+  handlung_1560: Übergang zum lutherischen Bekenntnis
+GUELTIG_AB: 1538
+GUELTIG_BIS: 1568
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 333-rheinbrohl/080
+ENTITÄT: person_graf
+BEZEICHNUNG: Henne von Sayn
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rheinbrohl.html | Landesportal
+EIGENSCHAFTEN:
+  handlung_1347: Bitte an Karl IV. um Befestigung Rheinbrohls
+  handlung_1347_genehmigung: erhalten
+  verkauf: Wald der Gemarkung an die Rheinbrohler
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88

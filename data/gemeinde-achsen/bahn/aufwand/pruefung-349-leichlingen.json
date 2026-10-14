@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung",
+ "ort": "349-leichlingen",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 37640,
+ "token_ein": 38565,
+ "token_aus": 5400,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 31661,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 5400,
+  "output_tokens_details": {
+   "thinking_tokens": 3310
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 31661,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 5400,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 31661,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 31661
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.3626764,
+ "sekunden": 51,
+ "fehler": false,
+ "zeit": "2026-10-14T10:31:20"
+}

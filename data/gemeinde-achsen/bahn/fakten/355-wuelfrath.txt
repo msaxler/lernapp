@@ -1,0 +1,739 @@
+ID: 355-wuelfrath/001
+ENTITÄT: ort
+BEZEICHNUNG: Wülfrath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruenge: über 1000 Jahre zurück
+  erste_urkundliche_erwaehnung: Wolverothe, ca. 1100
+  einwohnerzahl: 22000
+  genauigkeit: ca.
+  lage: zentral zwischen Düsseldorf, Wuppertal, Essen
+  ortsteile: Innenstadt, Düssel, Rohdenhaus, Flandersbach, Schlupkothen
+  besonderheit: größtes Kalkabbaugebiet Europas
+  geschichte: Ort wurde 1578 und 1678 durch Brände zerstört
+GUELTIG_AB: 1100
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/002
+ENTITÄT: ort
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erhaeltnis_zu_frueherer_gewinnung: Das Gebiet bestand aus Honschaften Erbach, Püttbach, Flandersbach, Rützkausen, Ober- und Unterdüssel
+  grund_gebietsreform_1975: Nach Gebietsreform 1975 sank Einwohnerzahl von 24000 auf unter 20000, stieg danach wieder auf über 22000
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/003
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Stadtkirche
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fruehe_besiedlung: frühmittelalterliche Saalkirche an dieser Stelle
+  architektur: romanisches Nordschiff und Turm, gotisches Südschiff und Chor
+  beschreibung: Mittelpunkt der mittelalterlichen Siedlung Wülfrath
+GUELTIG_AB: 713
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/004
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Düssel
+ORTSTEIL_BEZUG: Düssel
+QUELLE: https://www.wuelfrath.net/planen-bauen/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Baudenkmal
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/005
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche Sankt Maximinus
+ORTSTEIL_BEZUG: Düssel
+QUELLE: https://www.wuelfrath.net/planen-bauen/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Baudenkmal
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/006
+ENTITÄT: gebaeude
+BEZEICHNUNG: Wasserburg
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: bis erste Hälfte 15. Jahrhundert vorhanden
+  beschreibung: prägte Ortsbild neben der Kirche in mittelalterlichem Dorf
+GUELTIG_BIS: 1450
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/007
+ENTITÄT: denkmal
+BEZEICHNUNG: Haus Düssel (ehem. Wasserburg)
+ORTSTEIL_BEZUG: Düssel
+QUELLE: https://www.wuelfrath.net/planen-bauen/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Bodendenkmal
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/008
+ENTITÄT: ereignis
+BEZEICHNUNG: Brand von Wülfrath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1578
+  folge: Dorf völlig zerstört
+  reaktion_landesherr: Erlaubnis für vier steuerfreie Märkte zur wirtschaftlichen Erholung
+  beschreibung: großer Brand, nach dem Herzog Wilhelm von Jülich-Kleve-Berg Märkte bewilligte
+GUELTIG_AB: 1578
+GUELTIG_BIS: 1578
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/009
+ENTITÄT: ereignis
+BEZEICHNUNG: Brand von Wülfrath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1678
+  beschreibung: genau 100 Jahre nach dem ersten Brand legte eine Feuersbrunst das Dorf in Schutt und Asche
+  reaktion: Nachbargemeinden halfen beim Wiederaufbau
+GUELTIG_AB: 1678
+GUELTIG_BIS: 1678
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/010
+ENTITÄT: marktrecht
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  marktflecken_status: Wülfrath wurde Marktflecken mit vier steuerfreien Märkten
+  grund: Erlaubnis nach dem großen Brand 1578
+  beschreibung: ermöglichte Handel und Wandel mit Speck, Schinken und Früchten
+GUELTIG_AB: 1578
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/011
+ENTITÄT: marktrecht
+BEZEICHNUNG: Pferdemarkt
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_verleihung: 1717
+  beschreibung: besonderer Pferdemarkt für Wülfrath
+GUELTIG_AB: 1717
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/012
+ENTITÄT: beruf_gruppe
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Schmied
+  erstbeleg: 1265
+  zeit: Mittelalter
+GUELTIG_AB: 1265
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/013
+ENTITÄT: beruf_gruppe
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Weinhaus (Betreiber)
+  erstbeleg: um 1400
+  zeit: 15./16. Jahrhundert
+GUELTIG_AB: 1400
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/014
+ENTITÄT: beruf_gruppe
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  berufe: Weber, Schuhmacher, Schneider, Bierbrauer, Krämer, Lohnweber
+  zeit: 15./16. Jahrhundert
+  beschreibung: Handwerk und Gewerbe prägten das Dorf
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1600
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/015
+ENTITÄT: strasse
+BEZEICHNUNG: Steinengaete (auch: Kerkweg, Sanct Cornelisweg)
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft: gepflasterte Straße im Mittelalter
+  vermutete_lage: Teil der heutigen Wilhelmstraße zwischen Heumarkt und Mettmanner Straße
+  zeit: Mittelalter
+GUELTIG_AB: 1400
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 355-wuelfrath/016
+ENTITÄT: befestigung
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Dorfbefestigung mit Pforte, Toren und Mauer
+  orte: Osterparten (östliche Pforte), Döhrchen (kleines Tor), Pörtzges (Pförtchen), Auf der Mauer, Kratzhagen
+  zweck: Schutz vor Wölfen und umherziehenden Räubern
+  zeit: Mittelalter
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/017
+ENTITÄT: familie
+BEZEICHNUNG: Müllemanns
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: wohlhabende Familie
+  besitz: Bereich Schwanen-/Mühlenstraße
+  beschreibung: Lebensstil kaum vergleichbar mit ärmlichen Verhältnissen der Dorfbewohner
+  zeit: Mittelalter und 19. Jahrhundert
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/018
+ENTITÄT: ereignis
+BEZEICHNUNG: Französische Neuordnung unter Napoleon
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_start: 1806
+  jahr_ende: 1975
+  dauer: 169 Jahre
+  folge: Wülfrath als Mairie mit 2891 Einwohnern in Honschaften Erbach, Püttbach, Flandersbach, Rützkausen, Ober- und Unterdüssel
+  grund: Vertrag von Presssburg 1805 endete bayerische Herrschaft, Napoleon schuf Großherzogtum Berg
+GUELTIG_AB: 1806
+GUELTIG_BIS: 1975
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/019
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahnlinie Wülfrath-Aprath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_bau: 1886
+  folge: Erschließung Kalklagerstätte Wülfrath-Hammerstein
+GUELTIG_AB: 1886
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/020
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahnlinie Wülfrath-Velbert
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_bau: 1888
+GUELTIG_AB: 1888
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/021
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Angertalbahn
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_freigabe: 1903
+  route: Wülfrath nach Ratingen
+GUELTIG_AB: 1903
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/022
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Fabrikgebäude Herminghaus
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: F. W. Herminghaus
+  jahr_errichtung: 1861/1862
+  lage: Mettmanner Straße
+  zweck: Betrieb großer Anzahl von Webstühlen
+  folge: viele Lohnweber gaben ihre Heimweberei auf
+GUELTIG_AB: 1861
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/023
+ENTITÄT: recht
+BEZEICHNUNG: Städteordnung für die Rheinprovinz
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 15. Mai 1856
+  folge: Wülfrath erhielt endgültig volle Stadtrechte
+GUELTIG_AB: 1856
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/024
+ENTITÄT: finanzinstitution
+BEZEICHNUNG: Stadtsparkasse Wülfrath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1882
+GUELTIG_AB: 1882
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/025
+ENTITÄT: finanzinstitution
+BEZEICHNUNG: Gemeinsame Sparkasse Mettmann-Wülfrath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1842
+  beteiligung: Mettmann und Wülfrath
+  vorgaenger: der späteren Wülfrather Stadtsparkasse
+GUELTIG_AB: 1842
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/026
+ENTITÄT: unternehmen
+BEZEICHNUNG: Thyssen & Co., Abteilung Kalkwerke Wülfrath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1898
+  gruender: Thyssen
+  betaetigung: Kalkabbau im industriellen Rahmen
+GUELTIG_AB: 1898
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/027
+ENTITÄT: bergbau
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ressource: Kalksteinbrüche
+  lage: Nord-Erbach, Schlupkothen
+  zeit: ab 1886 nach Eisenbahnbau
+  industrie: entstanden nach Bahnanbindung
+GUELTIG_AB: 1886
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/028
+ENTITÄT: museum
+BEZEICHNUNG: Niederbergisches Museum
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1913
+  leiter: Willi Münch (ab 1957)
+  sammlung: Bergische Kaffeetafel, Kalkabbaugeschichte, Details zur Kalkindustrie
+GUELTIG_AB: 1913
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/029
+ENTITÄT: archiv
+BEZEICHNUNG: Stadtarchiv Wülfrath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leiter: Dr. Axel Bayer
+  adresse: Wilhelmstraße 146, 42489 Wülfrath
+  aelteste_unterlagen: Akten bis ins späte 17. Jahrhundert
+  schmuckstück: Marktbrief von 1578 nach Brand
+  ratsprotokolle_seit: 1846
+  weitere_bestaende: Hausbücher, Adress- und Telefonbücher, Fotografien, Plakate, Karten, Zeitungen ab 1875
+  errichtung_gesetz: Archivgesetz NRW Mai 1989
+GUELTIG_AB: 1500
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/030
+ENTITÄT: friedhof
+BESCHREIBUNG: Städtischer Friedhof an der Alten Ratinger Landstraße
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/kriegsgraeber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bis_1968: katholischer Friedhof
+  grabanlagen_ns_opfer: 1948 angelegt
+  gesamt_graeber: 34
+  neugesnaltung: 2022
+  hinweistafel: 2023 aufgestellt
+  opfergruppen: Zwangsarbeiter aus Polen und Sowjetunion, drei Deutsche (Luftangriffe)
+  beschaeftigung: Kalksteinwerke, andere Firmen, Landwirtschaft
+GUELTIG_AB: 1948
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/031
+ENTITÄT: person
+BEZEICHNUNG: Ina Seidel
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/informationen-zu-ina-seidel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1885 in Halle/Saale
+  tod: 1974 in Ebenhausen
+  beruf: Schriftstellerin
+  hintergrund: bürgerliches, christlich-protestantisches Milieu
+  literarischer_durchbruch: 1930 mit Roman "Das Wunschkind"
+  ns_haltung: begrüßte Machtergreifung 30. Januar 1933
+  treuegelöbnis: 23. Oktober 1933 mit 87 anderen Schriftstellern auf Adolf Hitler
+  glückwunsch_hitler: 20. April 1939 zu Hitlers 50. Geburtstag
+  innere_haltung: zunächst innere Distanz zu NS-Regime in Briefen
+  kritik: verübte versteckte Kritik an Boykottaktionen gegen jüdische Geschäfte 1. April 1933
+  arier_paragraphen: lehnte Einführung ab
+  nsdap_mitgliedschaft: nein
+  werke_bedeutung: vielgelesene Autorin im Dritten Reich
+  schulunterricht: Werke verwendet
+  uebersetzungen: in zahlreiche Sprachen
+  schulbenennungen: Mädchenschulen mit ihrem Namen
+  soldatengedicht: eines ihrer Huldigungsgedichte auf Hitler in "Tornisterschrift" deutscher Soldaten
+  gottbegnadeten_liste: 1944 von Hitler persönlich in wichtigsten deutschen Schriftstellern (insgesamt sechs)
+  roman_lennacker: 1938 erschienen, mit zu viel christlichem Gedankengut, 1942 Ablehnung von Ehrendoktor durch Partei-Kanzlei
+  nachkriegszeit: versuchte sich von NS-Zeit zu distanzieren, setzte sich mit eigener Schuld auseinander
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/032
+ENTITÄT: person
+BEZEICHNUNG: Willi Münch
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/willi-muench-wuelfrather-kuenstler-und-mehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 24. Dezember 1930
+  tod: 9. März 2023
+  beruf: Beamter, Heimatkundler
+  funktion: Leiter Niederbergisches Museum, Kulturamtsleiter Wülfrath
+  ausbildung: Diplom-Verwaltungswirt (FH)
+  karriere_stadtkasse: angestellt in Stadtkasse Wülfrath
+  karriere_bau: im Bauverwaltungsamt
+  karriere_museum: 1957 Museumsleitung des 1913 gegründeten Niederbergischen Museums
+  bergische_kaffeetafel: führte sie ein und ergänzte Dauerausstellung
+  karriere_kultur: später Kulturamtsleiter und Leiter Untere Denkmalbehörde
+  denkmalpflege: machte sich um Denkmalpflege verdient
+  staedtepartnerschaft: maßgeblich beteiligt an Entwicklung Städtepartnerschaft mit britischer Stadt Ware
+  heimatbund: über 50 Jahre Mitglied, 17 Jahre Vorsitzender, ab 2009 Ehrenvorsitzender
+  denkmalbeirat: 29 Jahre Beiratsmitglied Rheinischer Verein für Denkmalpflege Köln
+  landschaftsbeirat: Beirat Untere Landschaftsbehörde, stellvertretender Vorsitzender
+  kunstform: Maler, Zeichner, Karikaturist
+  auszeichnung_1967: Albert-Steeger-Preis (Stipendiat) mit Nikolaus Kyll
+  auszeichnung_1990: Rheinlandtaler für ehrenamtliche Verdienste
+  auszeichnung_1991: Verdienstkreuz am Bande
+  auszeichnung_2011: Ehrenring der Stadt Wülfrath
+  publikationen: zahlreiche Bücher zur Heimatgeschichte
+GUELTIG_AB: 1930
+GUELTIG_BIS: 2023
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/033
+ENTITÄT: person
+BEZEICHNUNG: Johann Peter Halfmann
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1807
+  tod: 1883
+  position: Bürgermeister von Wülfrath
+  amtszeit: 1833-1874
+  dauer: 41 Jahre
+  leistung: Förderung Straßenbau
+  leistung_eisenbahn: setzte sich mit Erfolg für Anschluss Wülfrather Gebiets ans Eisenbahnnetz ein
+  straßenverbindungen: entstanden nach Mettmann, Ratingen, Velbert, Elberfeld
+  strasse: Halfmannstraße
+  legende: Legendenschild mit Informationen gesponsert von GWG und Stadtwerke Wülfrath
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1874
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/034
+ENTITÄT: person
+BEZEICHNUNG: Albert Kirschbaum
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1850
+  tod: 1925
+  position: Bürgermeister von Wülfrath
+  amtszeit: 1874-1919
+  dauer: 45 Jahre
+  leistung: Förderung Straßenbau
+  leistung_duesseler_strasse: Düsseler Straße nach Dornap gebaut
+  leistung_feuerwehr: rief Freiwillige Feuerwehr ins Leben
+  strasse: Kirschbaumstraße
+  legende: Legendenschild mit Informationen
+GUELTIG_AB: 1874
+GUELTIG_BIS: 1919
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/035
+ENTITÄT: person
+BEZEICHNUNG: August Havemann
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1877
+  tod: 1940
+  position: Bürgermeister von Wülfrath
+  amtszeit: 1919-1940
+  dauer: 21 Jahre
+  gesinnung: antidemokratisch
+  haltung_1929: lehnte Feier zum 10. Jahrestag Weimarer Reichsverfassung (11. August) ab
+  kandidatur_1929: für monarchistisch gesinnte DNVP zum Kreistag
+  sympathien: genoss trotz antidemokratischer Gesinnung Sympathien auch bei linken Parteien wegen Tüchtigkeit und sozialer Einstellung
+  wiederwahl_1931: Stadtrat wählte ihn wieder, mindestens zwei Mitglieder von SPD und KPD stimmten für ihn
+  ns_regime: wurde nach Machtergreifung 30. Januar 1933 Mitglied der NSDAP
+  ns_auftritt: trat in der Öffentlichkeit nur noch selten in Erscheinung
+  ns_verdraengung: wurde von NSDAP Ortsgruppe an die Seite gedrängt, Kommunalpolitik nunmehr primär von Ortsgruppenleitung bestimmt
+  ns_ortsgruppe_sitz: Wilhelmstraße 189
+  rettung: gelang es, schützend seine Hand über jüdische Familie Beyth zu halten und sie bis zu seinem Tode 1940 vor Deportation zu bewahren
+  strasse: Havemannstraße
+  legende: Legendenschild mit Informationen
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1940
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/036
+ENTITÄT: person
+BEZEICHNUNG: Johanna Beyth
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stolperstein_datum: 27. Februar 2008
+  stolperstein_grund: Schicksal von Verfolgung durch Nationalsozialisten
+  adresse: Wilhelmstraße 98
+  vor_1925: Wohn- und Arbeitshaus der Familie Beyth
+  schutz: schützte durch Bürgermeister Havemann vor Deportation bis zu seinem Tod 1940
+GUELTIG_AB: 2008
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/037
+ENTITÄT: person
+BEZEICHNUNG: Eugen Raucamp
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stolperstein_datum: 20. Februar 2017
+  verfolgungsgrund: Rundfunkverbrechen
+  status: inhaftiert
+GUELTIG_AB: 2017
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/038
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Everts
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stolperstein_datum: 20. Februar 2017
+  verfolgungsgrund: Rundfunkverbrechen
+  status: inhaftiert
+GUELTIG_AB: 2017
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/039
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Dreier
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stolperstein_datum: 20. Februar 2017
+  religion: Zeugen Jehovas
+  vorwurf: Staatsfeindlichkeit
+  status: verhaftet
+GUELTIG_AB: 2017
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/040
+ENTITÄT: person
+BEZEICHNUNG: Maria Dreier
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stolperstein_datum: 20. Februar 2017
+  religion: Zeugen Jehovas
+  vorwurf: Staatsfeindlichkeit
+  status: verhaftet
+GUELTIG_AB: 2017
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/041
+ENTITÄT: person
+BEZEICHNUNG: Sebastian Schorn
+QUELLE: https://www.wuelfrath.net/fileadmin/Uploads_Verwaltung/Kultur___Tourismus/Stadtportrait_Wuelfrath.pdf.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Bürgermeister
+GUELTIG_AB: 2025
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/042
+ENTITÄT: denkmal
+BEZEICHNUNG: Gedenkstein NS-Opfer
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufstellung: 8. Mai 1985
+  widmung: Opfer des Nationalsozialismus
+  verfolgte_gruppen: Juden, Menschen aus politischen, rassistischen, sozialen Gründen, Glaubens- und Weltanschauungsgründe, Menschen mit Behinderung
+GUELTIG_AB: 1985
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/043
+ENTITÄT: denkmal
+BEZEICHNUNG: Stolpersteine Wülfrath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 5
+  groesse: knapp 10x10 cm
+  material: Messingplatte, goldfarbig
+  ziel: Erinnerung an Verfolgte, Vertriebene, in Suizid Getriebene, Deportierte, Ermordete
+  weitverbreitung: über 100.000 Steine in 31 europäischen Ländern
+  erstes_wülfrather_exemplar: 27. Februar 2008
+GUELTIG_AB: 2008
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/044
+ENTITÄT: denkmal
+BEZEICHNUNG: Gedenktafeln Zwangsarbeiter
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufstellung: 27. Januar 2023
+  anzahl: 2
+  lage: Zeittunnel und WIR-Haus, Wilhelmstraße 189
+  gedenkete: mindestens 137 ausländische Zwangsarbeiter 1940-1945
+  zeitraum: 1940-1945
+  ursachen: grenzenlose Ausbeutung, Unterernährung, mangelnde Hygiene, schlechte Gesundheitsversorgung, rassistische Unterdrückung, Naziterror
+  anlass: gemeinsamer Antrag aller Ratsfraktionen, angeregt von VVN-BdA
+GUELTIG_AB: 2023
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/045
+ENTITÄT: institution
+BEZEICHNUNG: WIR-Haus
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/wuelfrath-in-der-zeit-des-nationalsozialismus-1933-45 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Wilhelmstraße 189
+  frueherer_zweck: NSDAP-Ortsgruppe Sitz
+  aktueller_zweck: Gedenk- und Kulturort
+GUELTIG_AB: 2023
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/046
+ENTITÄT: museum
+BEZEICHNUNG: Zeittunnel Wülfrath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/kulturtourismus-sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ehemaliger Abbautunnel des Bochumer Bruchs
+  inhalt: erdgeschichtliche Entwicklung von Flora und Fauna der letzten 400 Millionen Jahre
+  inhalt_geschichte: Industriegeschichte der Kalkindustrie
+  traeger: Zeittunnel Wülfrath eG (gemeinnützige Genossenschaft)
+  gesellschafter: Stadt Wülfrath, Kreissparkasse Düsseldorf, Firma Lhoist, Privatpersonen, Vereine (WüRG e.V.)
+  adresse: Hammerstein 5, 42489 Wülfrath
+  website: www.zeittunnel.com
+GUELTIG_AB: 2002
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 355-wuelfrath/047
+ENTITÄT: geograph
+BEZEICHNUNG: Angerbachquelle
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ursprungort der frühen Besiedlung Wülfraths
+  zeitraum_besiedlung: einige hundert Jahre vor ca. 1100
+GUELTIG_AB: 700
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 355-wuelfrath/048
+ENTITÄT: ortsteil
+BEZEICHNUNG: Düssel
+ORTSTEIL_BEZUG: Düssel
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/kulturtourismus-sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: dörfliche Idylle mit historischem Dorfkern
+  bauwerke: zwei Kirchen
+  eindruck: anderer Eindruck als Innenstadt
+  bevoelkerung: 195 Personen (1806)
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/049
+ENTITÄT: markt
+BEZEICHNUNG: Herzog-Wilhelm-Markt
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/kulturtourismus-sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: erstes Advents-Wochenende bis zehn Tage später
+  lage: Kirchplatz
+  art: vorweihnachtlicher Markt
+  charakteristik: "bergische Holzhäuschen mit Leckereien"
+  beschreibung: lockt Besucher von nah und fern an
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/050
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kindergarten Düsseler Tor
+ORTSTEIL_BEZUG: Düssel
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/kulturtourismus-sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur: Formensprache Friedensreich Hundertwassers
+  besonderheit: markanter Zwiebelturm
+  charakteristik: naturnahe Architektur mit begrünten Dächern
+GUELTIG_AB: 2015
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/051
+ENTITÄT: landschaft
+BEZEICHNUNG: Niederbergische Hügellandschaft
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/kulturtourismus-sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristik: sanfte Hügellandschaft
+  besonderheit: geprägt durch Kalkabbau
+  besonderheit_steinbrueche: größtes Kalkabbaugebiet Europas
+  stillgelegte_brueche: Prangenhaus, Schlupkothen, Bochumer Bruch
+  flora_fauna: eindrucksvolle Flora und Fauna in stillgelegten Steinbrüchen
+  wanderrouten: verschiedene Wanderrouten
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 355-wuelfrath/052
+ENTITÄT: infrastruktur
+BEZEICHNUNG: PanoramaRadweg niederbergbahn
+QUELLE: https://www.wuelfrath.net/fileadmin/Uploads_Verwaltung/Kultur___Tourismus/Stadtportrait_Wuelfrath.pdf.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Radweg in Wülfraths Umgebung
+GUELTIG_AB: 2000
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/053
+ENTITÄT: infrastruktur
+BEZEICHNUNG: neanderland STEIG
+QUELLE: https://www.wuelfrath.net/fileadmin/Uploads_Verwaltung/Kultur___Tourismus/Stadtportrait_Wuelfrath.pdf.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Wanderweg in Wülfraths Umgebung
+GUELTIG_AB: 2000
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 355-wuelfrath/054
+ENTITÄT: institution
+BEZEICHNUNG: Heimatbund Wülfrath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/willi-muench-wuelfrather-kuenstler-und-mehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Verein zur Heimatgeschichte
+  vorsitz: Willi Münch 17 Jahre, ab 2009 Ehrenvorsitzender
+GUELTIG_AB: 1920
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 355-wuelfrath/055
+ENTITÄT: institution
+BEZEICHNUNG: Bergischer Pferdezuchtverein Aprath
+QUELLE: https://www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1908
+  zweck: Förderung der Pferdezucht
+  effekt: frische Impulse für Pferdezucht in der Region
+GUELTIG_AB: 1908
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

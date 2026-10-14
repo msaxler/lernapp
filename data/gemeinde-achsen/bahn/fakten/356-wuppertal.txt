@@ -1,0 +1,638 @@
+ID: 356-wuppertal/001
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 357.243
+  einwohnerzahl_stichtag: 2025-12-31
+  rang_deutschland: 17. größte Stadt
+  oberzentrum: ja
+  bundesland: Nordrhein-Westfalen
+  regierungsbezirk: Düsseldorf
+  lage_region: Bergisches Land, südlich des Ruhrgebiets
+  fluss_prägende_topografie: Wupper
+  stadtgrenzen_länge: 94,5 km
+  höchster_punkt_name: Lichtscheid
+  höchster_punkt_höhe: 350 m
+  tiefster_punkt_ort: bei Müngsten
+  tiefster_punkt_höhe: 101 m
+  gründung_datum: 1929-08-01
+  gründung_form: Vereinigung von Elberfeld, Barmen, Cronenberg, Vohwinkel, Ronsdorf
+  namensgebung_datum: 1930-01-25
+  namensherkunft: geografische Lage im Tal der Wupper
+  baudenkmale: ca. 4500
+  waldflächenanteil: ca. 29 %
+  superlativ_grün: grünste Großstadt Europas (2025)
+  superlativ_konfession: größte Konfessionsvielfalt Deutschlands
+  charakterisierung: Großstadt im Grünen
+  charakterisierung: Wiege der Industrialisierung in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1930
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 356-wuppertal/002
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Schwebebahn Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 1901
+  konstrukteur: Eugen Langen
+  betrieb_status: ständig in Betrieb
+  streckenlänge: über 13 km
+  rangliste_weltweit: längste Hängebahnen der Welt
+  funktion: Wahrzeichen
+  besonderheit: über Wupper verlaufender Großteil der Strecke
+  fahrgäste_täglich: über 75.000
+  tragegerüst_länge_ranking: zählt zu den 50 längsten Brückenbauwerken der Welt
+  sanierung_start: 1997
+  sanierung_schwerpunkt: historisch werkgetreue Erneuerung
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 356-wuppertal/003
+ENTITÄT: stadtteil
+BEZEICHNUNG: Elberfeld
+ORTSTEIL_BEZUG: Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  bevölkerung: ca. 68.000
+  rang_bevölkerung: meistbevölkerter Stadtbezirk
+  stadtkennzahl: 0
+  gründung_urkundliche_erwähnung: 1161
+  status_bis_1929: kreisfreie Stadt
+  größe_seit_etwa: 1883 (Großstadt)
+  bahnhof: Hauptbahnhof (Fernverkehrshalt)
+  historische_bedeutung: Zentrum der Textilindustrie
+GUELTIG_AB: 1161
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/004
+ENTITÄT: stadtteil
+BEZEICHNUNG: Barmen
+ORTSTEIL_BEZUG: Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  stadtkennzahl: 5
+  urkundliche_erwähnung: 1070
+  status_bis_1929: kreisfreie Stadt
+  größe_seit_etwa: 1884 (Großstadt)
+  besonderheit: Bekenntnissynode 1934 (Barmer Erklärung)
+  historische_bedeutung: Zentrum der Textilindustrie
+GUELTIG_AB: 1070
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/005
+ENTITÄT: stadtteil
+BEZEICHNUNG: Vohwinkel
+ORTSTEIL_BEZUG: Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  stadtkennzahl: 3
+  bevölkerung: ca. 21.000
+  urkundliche_erwähnung: 1356
+  status_1929: selbständige Stadt
+  stadtrecht: 1921
+  verwaltungssitz_funktion: Landkreis Mettmann (1877-1929)
+GUELTIG_AB: 1356
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/006
+ENTITÄT: stadtteil
+BEZEICHNUNG: Cronenberg
+ORTSTEIL_BEZUG: Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  stadtkennzahl: 4
+  bevölkerung: ca. 21.000
+  rang_bevölkerung: kleinster Stadtbezirk
+  urkundliche_erwähnung: 1050
+  status_bis_1929: selbständige Stadt
+  wirtschaftszweig: Werkzeugindustrie
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/007
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ronsdorf
+ORTSTEIL_BEZUG: Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  stadtkennzahl: 9
+  urkundliche_erwähnung: 1246
+  status_bis_1929: selbständige Stadt
+  gründung_besonderheit: gegründet von christlicher Sekte der Zioniten unter Elias Eller
+GUELTIG_AB: 1246
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 356-wuppertal/008
+ENTITÄT: Institution
+BEZEICHNUNG: Tanztheater Wuppertal Pina Bausch
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  renommee: international bekannt
+  choreografie: avantgardistische Choreografien
+  sitz: Wuppertaler Bühnen
+  charakterisierung: weltbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/009
+ENTITÄT: Institution
+BEZEICHNUNG: Wuppertal Institut für Klima, Umwelt, Energie
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1990er Jahre
+  funktion: Forschungs- und Entwicklungseinrichtung
+  forschungsschwerpunkt: nachhaltige Entwicklung, Übergänge
+  bereich: regional, national, international
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 356-wuppertal/010
+ENTITÄT: zoologischer_garten
+BEZEICHNUNG: Zoo Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  location: Hang des Kiesbergs in Parkgelände
+  rang: drittbester deutscher Großzoo
+  tiere_anzahl: rund 5000
+  arten_anzahl: knapp 500
+  besonderheit_weltweit: einziges Tapir-Haus mit Unterwasser-Beobachtung
+  größte_raubtier_anlage: Deutschlands größte (seit Mai 2007)
+  pinguine: eine der größten Anlagen für Königspinguine in Europa, einzige für Zwergpinguine
+  gründung: 1881
+GUELTIG_AB: 1881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/011
+ENTITÄT: museum
+BEZEICHNUNG: Von-der-Heydt-Museum
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  location: Elberfelder Innenstadt
+  sammlung_schwerpunkt: Kunst vom 16. Jahrhundert bis Gegenwart
+  besonderheit: exzellente Sammlung
+  rang_nrw: eines der reichhaltigsten Museen in Nordrhein-Westfalen
+  ursprung: private Schenkungen der Wuppertaler Industrie 19./20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/012
+ENTITÄT: museum
+BEZEICHNUNG: Engels-Haus
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  location: Stadtteil Barmen
+  baujahr: 1775
+  funktion: Wohnhaus und Museum
+  ausstellung_thema: Leben und Werk von Friedrich Engels
+  erinnerungsort: zentrale Erinnerungsstätte der politischen Ideengeschichte des 19. Jahrhunderts
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/013
+ENTITÄT: museum
+BEZEICHNUNG: Museum Industriekultur Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  standorte: vier
+  rang_nrw: bedeutendste museale Einrichtung zur Frühindustrialisierung
+  schwerpunkt: industrielle Entwicklung im Wuppertal
+  thema: Alltag in einer der frühesten Industrieregionen Europas
+GUELTIG_AB: 1990er Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 356-wuppertal/014
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Laurentius-Kirche
+ORTSTEIL_BEZUG: Elberfeld
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  architektur: klassizistische Bauweise
+  titel: päpstliche Basilica minor (seit 2014)
+  konfession: katholisch
+  rang: Hauptkirche der Wuppertaler Katholiken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/015
+ENTITÄT: kirche
+BEZEICHNUNG: Alte reformierte Kirche
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  rang: älteste Wuppertaler Kirche
+  konfession: reformiert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 356-wuppertal/016
+ENTITÄT: kirche
+BEZEICHNUNG: Bergische Synagoge
+ORTSTEIL_BEZUG: Barmen
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 2002
+  einweihung_datum: 2002-12-08
+  besonderheit: Synagogen-Neubau
+  festredner: israelischer Staatspräsident Mosche Katzav
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/017
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Vereinigung zur Stadt Barmen-Elberfeld
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1929-08-01
+  komponenten: Barmen, Elberfeld, Cronenberg, Ronsdorf, Vohwinkel, Beyenburg
+  rechtsform: kreisfreie Stadt
+  namensvariante: Barmen-Elberfeld
+GUELTIG_AB: 1929
+GUELTIG_BIS: 1930-01-24
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 356-wuppertal/018
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Umbenennung in Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1930-01-25
+  grund: geografische Lage im Tal der Wupper
+  namensvorschläge: über 20 Alternativen (Barmen-Elberfeld, Wupperhausen, Bergstadt, etc.)
+  namensvorgeber: Oskar Hoffmann
+GUELTIG_AB: 1930-01-25
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/019
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bekenntnissynode
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1934-05-29 bis 1934-05-31
+  location: Gemarker Kirche
+  veranstalter: Bekennende Kirche
+  teilnehmer: lutherische, reformierte und unierte Abgeordnete
+  produkt: Barmer Theologische Erklärung
+  bedeutung: theologisches Fundament in der Zeit des Nationalsozialismus, Bekenntnisgrundlage der evangelischen Kirche
+GUELTIG_AB: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 356-wuppertal/020
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Burgholz-Massaker
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1945-02 (Ende Februar)
+  location: Waldgebiet Burgholz
+  täter: Gestapo- und Kripobeamte
+  opfer_anzahl: 30
+  opfer: russische Zwangsarbeiter und Zwangsarbeiterinnen
+  entdeckung: September 1945
+  bestattung: Friedhof Wuppertal-Cronenberg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/021
+ENTITÄT: park
+BEZEICHNUNG: Barmer Anlagen
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  lage: Hang der Barmer Südhöhen
+  ausdehnung: Landschaftspark zu Waldgebiet übergehend
+  rang: zu den größten privaten Parkanlagen Deutschlands
+  historisches: Standort des ersten Großplanetariums der Welt (bis 1947)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/022
+ENTITÄT: park
+BEZEICHNUNG: Skulpturenpark Waldfrieden
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  gründer: Tony Cragg (englischer Bildhauer)
+  eröffnung: 2008-09
+  größe: ca. 20 Hektar (nach Erweiterung)
+  künstler: Eduardo Chillida, John Chamberlain, Tony Cragg
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/023
+ENTITÄT: naturgebiet
+BEZEICHNUNG: Staatsforst Burgholz
+ORTSTEIL_BEZUG: Cronenberg
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  fläche: knapp 250 Hektar
+  besonderheit: bundesweit einmalige Sammlung verschiedener teils exotischer Gehölze
+  rang: größtes forstwissenschaftlich betriebenes Arboretum Deutschlands
+  arboretum: ja
+  lehrpfade: Waldlehrpfade
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 356-wuppertal/024
+ENTITÄT: naturgebiet
+BEZEICHNUNG: Botanischer Garten Wuppertal
+ORTSTEIL_BEZUG: Hardt
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1910
+  fläche: 2,5 Hektar
+  pflanzenarten: ca. 4000
+  pflanzenarten_charakterisierung: unterschiedliche, interkontinental
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/025
+ENTITÄT: universität
+BEZEICHNUNG: Bergische Universität Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1972
+  gründung_form: als Gesamthochschule durch Zusammenschluss
+  status_seit_2003: Universität
+  hochschullehrer: 250
+  studierende_sommersemester_2016: über 20.000
+  fachbereiche: sieben
+  besonderheit: seltener Studiengang Sicherheitstechnik
+  besonderheit: Studiengang Gesundheitsökonomie
+  besonderheit: EIIW (seit 2008) gegründet von Paul J. J. Welfens
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/026
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bayer AG
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  gründung_datum: 1863-08-01
+  gründer: Friedrich Bayer, Johann Friedrich Weskott
+  location_gründung: Barmen
+  stammwerk: Wuppertal-Elberfeld
+  mitarbeiter_wuppertal: ca. 2600 (zwei Standorte)
+  standorte: Forschungszentrum Aprath, Werk an der Wupper
+  betrieb: bis heute
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 356-wuppertal/027
+ENTITÄT: unternehmen
+BEZEICHNUNG: Vorwerk SE & Co. KG
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  gründung_datum: 1883
+  ursprungliche_bezeichnung: Barmer Teppichfabrik Vorwerk & Co
+  gründer: Carl Vorwerk, Adolf Vorwerk
+  location_gründung: Barmen
+  geschäftsmodell: Direktvertrieb
+  produkte: Thermomix, Kobold, Teppichböden, Einbauküchen, Kosmetika
+  betriebweise: international tätig
+GUELTIG_AB: 1883
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/028
+ENTITÄT: unternehmen
+BEZEICHNUNG: Coroplast
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  spezialisierung: Klebebänder, Kabel, Leitungen, Leitungssatzsysteme
+  umsatz: 500 Millionen Euro
+  mitarbeiter_weltweit: über 5700
+  position: Marktführer der Branche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 356-wuppertal/029
+ENTITÄT: sportverein
+BEZEICHNUNG: Wuppertaler SV
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+  spielklasse_periode: 1. Bundesliga (1972-1975)
+  spielklasse_periode: 2. Bundesliga (sieben Jahre)
+  gründungsmitglied_3_liga: ja (2008/09)
+  dfb_ewige_tabelle_platz: 38
+  mitglieder: ca. 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 356-wuppertal/030
+ENTITÄT: sportverein
+BEZEICHNUNG: Bergischer HC
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Handball
+  gründung_durch_fusion: 2006
+  fusionspartner: LTV Wuppertal, SG Solingen
+  spielklasse: Bundesliga
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/031
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Friedrich Engels
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Barmen
+  geburtsjahr: 1820
+  rolle: Mitbegründer des Sozialismus
+  bekanntheit: Sozialtheoretiker, Mitentwickler des Marxismus
+  verbindung_stadt: stammte aus Barmen, Textilunternehmer-Familie
+GUELTIG_AB: 1820
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 356-wuppertal/032
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Pina Bausch
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  verbindung_stadt: Gründerin des Tanztheaters Wuppertal Pina Bausch
+  bekanntheit: Choreografin, international renommiert
+  kunstform: avantgardistische Choreografien
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/033
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Friedrich Bayer
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1825
+  geburtsort: Stadtteil Heckinghausen
+  gründung: Farbenfabrik Friedrich Bayer (1863 in Elberfeld)
+  unternehmen_später: Bayer AG
+GUELTIG_AB: 1825
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 356-wuppertal/034
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Else Lasker-Schüler
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1869
+  geburtsort: Wuppertal
+  kunstform: Lyrik
+  bekanntheit: Schriftstellerin
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/035
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Rau
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1931-2006
+  geburtsort: Barmen
+  amt_oberbürgermeister_wuppertal: 2 Jahre
+  amt_ministerpräsident_nrw: 20 Jahre
+  amt_bundespräsident: 8. deutscher Bundespräsident
+  ehrenbürgerschaft: 1991
+  grund_ehrenbürgerschaft: vielfältige Verdienste um die Stadt, Gründung der Bergischen Universität
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 356-wuppertal/036
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Tom Tykwer
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1965
+  geburtsort: Wuppertal (Elberfeld)
+  beruf: Filmregisseur, Produzent
+  bekannte_werke: Der Krieger und die Kaiserin, Alice in den Städten
+  charakterisierung_stadt: San Francisco Deutschlands
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/037
+ENTITÄT: statistik
+BEZEICHNUNG: Bevölkerung nach Konfession
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  stichtag: 2023-12-31
+  katholisch_prozent: 18,1
+  katholisch_personen: 66.185
+  evangelisch_prozent: 17,9
+  evangelisch_personen: 65.094
+  sonstige_konfessionslos_prozent: 64,1
+  divers_anzahl: 80-90 Glaubensgemeinschaften
+  besonderheit: Konfessionsvielfalt
+GUELTIG_AB: 2023-12-31
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/038
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  location: Elberfeld
+  name_bis_1992: Wuppertal-Elberfeld
+  funktion: Hauptbahnhof, Fernverkehrshalt
+  bahnlinien: Bahnstrecke Düsseldorf–Elberfeld, Bahnstrecke Elberfeld–Dortmund
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/039
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Nordbahntrasse
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  länge: über 23 Kilometer
+  nutzung: Fuß- und Radweg
+  besonderheit: verläuft durch Tunnel und über Brücken
+  besonderheit: Gleise noch für Draisinenverkehr nutzbar
+  fertigstellung: 2014
+  verbindung: Langerfeld bis Vohwinkel
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 356-wuppertal/040
+ENTITÄT: naturwunder
+BEZEICHNUNG: Elefantenkuh Tuffi
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Sprung aus der Schwebebahn
+  zeit: 1950
+  folge: überlebte den Sprung
+  landung: Wupper
+  beschreibung: Legendäre Geschichte
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 356-wuppertal/041
+ENTITÄT: treppe
+BEZEICHNUNG: Tippen-Tappen-Tönchen
+ORTSTEIL_BEZUG: Elberfeld
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  bekanntheit: wohl bekannteste Treppe in Elberfeld
+  charakterisierung: Fotomotiv
+  bezug_kultur: Vorlage für Filmtitel King Ping
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 356-wuppertal/042
+ENTITÄT: treppe
+BEZEICHNUNG: Jakobstreppe
+ORTSTEIL_BEZUG: Elberfeld
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  stufen_anzahl: 155
+  charakterisierung: längste durchgehend gerade Treppe
+  verbindung: Friedrich-Ebert-Straße mit Nützenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 356-wuppertal/043
+ENTITÄT: treppe
+BEZEICHNUNG: Anilintreppe
+ORTSTEIL_BEZUG: Wuppertal
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  stufen_anzahl: 168
+  charakterisierung: größte aller Wuppertaler Treppen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 356-wuppertal/044
+ENTITÄT: wald
+BEZEICHNUNG: Barmer Wald
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Grünfläche und Hangwald
+  lage: innerstädtischer Bereich
+GUELTIG_AB: historisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 356-wuppertal/045
+ENTITÄT: sprache_mundart
+BEZEICHNUNG: Wuppertaler Mundart
+QUELLE: https://de.wikipedia.org/wiki/Wuppertal | Wikipedia
+EIGENSCHAFTEN:
+  sprachgrenze_historisch: rheinische, südniederfränkische und oberbergische Mundarten
+  heutige_umgangssprache: Hochdeutsch mit geringem rheinisch-niederfränkischem Substrat
+  kulturelle_pflege: Plattkaller-Abend, Striekspöen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

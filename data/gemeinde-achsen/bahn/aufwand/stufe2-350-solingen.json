@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "350-solingen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 19593,
+ "token_ein": 389954,
+ "token_aus": 13440,
+ "usage": {
+  "input_tokens": 18,
+  "cache_creation_input_tokens": 51736,
+  "cache_read_input_tokens": 338200,
+  "output_tokens": 13440,
+  "output_tokens_details": {
+   "thinking_tokens": 6760
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 51736,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 6047,
+    "cache_read_input_tokens": 56112,
+    "cache_creation_input_tokens": 2526,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 2526
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.3798610000000004,
+ "sekunden": 183,
+ "fehler": false,
+ "zeit": "2026-10-14T10:36:37"
+}

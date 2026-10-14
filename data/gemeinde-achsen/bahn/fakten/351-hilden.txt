@@ -1,0 +1,184 @@
+ID: 351-hilden/001
+ENTITÄT: ort
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_charakterisierung: über tausendjährig
+  erste_urkundliche_erwaehnung: 985
+  erste_erwaehnung_grund: Hof des Erzbischofs von Köln in mittelalterlicher Urkunde
+  fruehe_besiedlung: Stein-, Bronze-, Eisenzeit
+  stadterhebung: 1861
+  eisenbahnanschluss: 1874
+  stadtwappen_verleihung: 1900
+  erstes_rathaus: 1900
+  fluss_durchfluss: Itter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 351-hilden/002
+ENTITÄT: ort
+QUELLE: https://www.hilden.de/de/wirtschaft-bauen/wirtschaftsfoerderung/wirtschaftsstandort/daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 55157
+  flaeche_km2: 26.0
+  einwohnerdichte_pro_km2: 2126
+  verfuegbare_gewerbeflaeken_gesamt_m2: 70300
+  verfuegbare_gewerbeflaeken_kurzfristig_m2: 45000
+  verfuegbare_gewerbeflaeken_mittelfristig_m2: 25300
+  groesste_zusammenhaengende_gewerbefläche_m2: 11200
+  gewerbesteueraufkommen_2026_mrd_eur: 68
+  gewerbesteuerhebesatz_prozent: 430
+  grundsteuer_b_hebesatz_prozent: 800
+  grundsteuer_a_hebesatz_prozent: 400
+  sozialversicherungspflichtig_beschaeftigte: 22891
+  arbeitslosenquote_juni_2026_prozent: 6.3
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 351-hilden/003
+ENTITÄT: kirche
+BEZEICHNUNG: Reformationskirche
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung_beginn: Beginn 13. Jahrhundert
+  urspruengliche_weihe: Heiliger Jacobus
+  bedeutung: eines der bedeutendsten Baudenkmäler des Niederrheins
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 351-hilden/004
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Fabry
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1560-1634
+  beruf: Wundarzt
+  herkunft: Hilden
+  beruf_charakterisierung: größter deutscher Wundarzt der Frühen Neuzeit
+  bedeutung: Begründer der modernen Chirurgie in Deutschland und der wissenschaftlichen Chirurgie
+  entwicklungen: neue chirurgische Instrumente und Operationsmethoden
+GUELTIG_AB: 1560
+GUELTIG_BIS: 1634
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 351-hilden/005
+ENTITÄT: person
+BEZEICHNUNG: Anton Hüls
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: reformierter Theologe
+  herkunft: Hilden
+GUELTIG_AB: 1550
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 351-hilden/006
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Hüls
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: reformierter Theologe
+  herkunft: Hilden
+GUELTIG_AB: 1550
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 351-hilden/007
+ENTITÄT: stadtwappen
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtwappen-logo/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung: 1900
+  verleihungsdatum: 02. April 1900
+  hoheitszeichen_exklusiv: true
+  strukturkomponenten: Schild und Krone
+  mauerkrone_bedeutung: Sinnbild für die Stadt
+  gegenzinnenbalken_farbe: rot auf silber
+  gegenzinnenbalken_quelle: Landeswappen der Grafen von Berg
+  gegenzinnenbalken_bedeutung: zeigt Zugehörigkeit zum Berg'schen Land
+  silbernes_band_farbe: silber auf grün
+  silbernes_band_bedeutung: Itter (Fluss, der durch Hilden fließt)
+  kammrad_bedeutung: Industrie
+  sichel_bedeutung: Landwirtschaft
+  kammrad_und_sichel_kontext: Symbole hielten sich bei Verleihung 1900 etwa die Waage
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 351-hilden/008
+ENTITÄT: museum
+BEZEICHNUNG: Wilhelm-Fabry-Museum
+QUELLE: https://www.hilden.de/de/kultur-freizeit/kultureinrichtungen/wilhelm-fabry-museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Wilhelm Fabry
+  ausstellungsthemen: Kunst und Medizin
+  besonderheit: Kornbrennerei Vogelsang
+  kornbrennerei_dampfmaschine_baujahr: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 351-hilden/009
+ENTITÄT: buergermmeister
+BEZEICHNUNG: Dr. Claus Pommer
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtsantritt: 2020
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 351-hilden/010
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Otto von Bismarck
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Reichskanzler
+  ernennung_datum: 11. März 1895
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 351-hilden/011
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Ferdinand Wilhelm Lieven
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Gutsbesitzer und 1. Beigeordneter
+  ernennung_datum: 17. September 1900
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 351-hilden/012
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Fritz Gressard
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Fabrikant und 1. Beigeordneter
+  ernennung_datum: 26. Mai 1914
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 351-hilden/013
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Walter Wiederhold
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Fabrikant
+  ernennung_datum: 09. Mai 1952
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 351-hilden/014
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Dr. Ellen Wiederhold
+QUELLE: https://www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Fabrikantin und Bürgermeisterin
+  ernennung_datum: 04. November 1994
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

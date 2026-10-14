@@ -1,0 +1,412 @@
+ID: 336-erpel/001
+ENTITÄT: ort
+BEZEICHNUNG: Erpel
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  ist_ortsgemeinde: true
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  lage: rechtes Ufer des Mittelrheins, Unteres Mittelrheintal
+  lage_detail: gegenüber von Remagen, am Rande des Naturparks Rhein-Westerwald
+  verbandsgemeinde: Unkel
+  höchster_punkt: 430 m ü. NHN
+  höchster_punkt_location: südlich der Spitze des Asbergs
+  landwirtschaftsfläche_anteil: 60%
+  waldbestand_anteil: ca. 20%
+  siedlungs_verkehrsfläche_anteil: ca. 17%
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Orsberg
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  höhe: 200 m ü. NHN
+  lage: nördlich des Hauptorts, über dem Rheintal
+  lage_detail: eigenständige Gemeinde bis 1969
+  eingemeindet_am: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/003
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Reifstein
+ORTSTEIL_BEZUG: östliches Gemeindegebiet
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  höhe: 350 m ü. NHN
+  lage: unmittelbar nördlich von Kretzhaus
+  bestandteile: ehemaliges Forsthaus, Jagdhaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 336-erpel/004
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Erpeler-Ley-Plateau
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil: östliches Gemeindegebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 336-erpel/005
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Bierbrauerei Sankt Severinsberg
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  ortsteil: östliches Gemeindegebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 336-erpel/006
+ENTITÄT: herrschaft
+BEZEICHNUNG: Herrschaft Erpel
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  herrschendes_institution: Kölner Domkapitel
+  unabhängig_von: Kurfürstentum Köln
+  gehörte_zu: Bruchhausen, Casbach (Erpelerseits), Heister, Orsberg
+  häuser_1670: 124
+  häuser_1670_genauigkeit: exakt
+GUELTIG_AB: 1493
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/007
+ENTITÄT: marktrechte
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  verliehen_um: 1420
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 336-erpel/008
+ENTITÄT: ort
+BEZEICHNUNG: Erpel
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  städtische_entwicklung_verstärkt_ab: 14. Jahrhundert
+  wurde_flecken_bezeichnet: 1843
+  wichtigster_handelsartikel: Wein
+  weinbau_bedeutung_bis: 20. Jahrhundert
+GUELTIG_AB: 14
+GUELTIG_BIS: 20
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/009
+ENTITÄT: brücke
+BEZEICHNUNG: Ludendorff-Brücke
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  alt_name: Brücke von Remagen
+  bauzeit: 1916-1918
+  bauherr_kriegszweck: mehr Truppen und Kriegsmaterial zur Westfront
+  benannt_nach: Erich von Ludendorff
+  grund_benennung: Dankbarkeit gegenüber Ludendorff (Quartiermeister-General der Infanterie)
+  name_gegeben_von: Kaiser Wilhelm II.
+  namengebung_jahr: 1918
+  erobert_durch: US-Truppen
+  eroberungsdatum: 7. März 1945
+  kriegsereignis_bedeutung: wichtiges Ereignis des Zweiten Weltkriegs
+  schicksal: eingestürzt wenig nach Eroberung, nicht wieder aufgebaut
+  noch_erhalten: beide Brückenportale, Eisenbahntunnel auf Erpeler Seite, denkmalgeschütztes Ostportal
+  ostportal_zustand: seit Kriegsende wenig verändert
+GUELTIG_AB: 1918
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 336-erpel/010
+ENTITÄT: museum
+BEZEICHNUNG: Friedensmuseum
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  standort: Remagener Westportal der Ludendorff-Brücke
+  eingerichtet_am: 7. März 1980
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/011
+ENTITÄT: stadtmauer
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  form: rechteckig
+  erbaut: 1420
+  erhaltungszustand: Reste vorhanden, teilweise zugebaut durch B42-Höherlegung (2001-2002)
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 336-erpel/012
+ENTITÄT: stadtor
+BEZEICHNUNG: Neutor
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: um 1420
+  funktion: Teil einer zweiten Befestigung als Ringmauer nach Erweiterung des Ortskerns nach Norden
+  erhaltungszustand: erhalten
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 336-erpel/013
+ENTITÄT: stadtor
+BEZEICHNUNG: Rheintor
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  datierung: früher 13. Jahrhundert
+  schicksal: um 1589 mit Fronhof überbaut
+  erhaltungszustand: nicht erhalten
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1589
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 336-erpel/014
+ENTITÄT: stadtor
+BEZEICHNUNG: Linzer Tor
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich
+  erhaltungszustand: nicht erhalten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 336-erpel/015
+ENTITÄT: stadtor
+BEZEICHNUNG: Schleidentor
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlich vom Marktplatz
+  erhaltungszustand: nicht erhalten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 336-erpel/016
+ENTITÄT: rundturm
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich am Rhein
+  erhaltungszustand: Reste vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 336-erpel/017
+ENTITÄT: kirche
+BEZEICHNUNG: St. Severinus
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: um 1230
+  baustile: frühromanisch und frühgotisch
+  turm_herkunft: ältere einschiffige Kirche (vermutlich 10. Jahrhundert)
+  turm_datierung: vermutlich 10. Jahrhundert
+  osannaglocke_jahr: 1388
+  kirchenfenster_chor_vergrößerung: 15. Jahrhundert
+  weitere_umbauten: 18. Jahrhundert
+  legende: nahm Gebeine der Heiligen Drei Könige vorübergehend auf
+  legende_kontext: 1164 unter Erzbischof Rainald von Dassel von Mailand nach Köln
+  legende_quelle: Sage
+  wappen_bezug: drei Kronen im Wappen erinnern daran
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/018
+ENTITÄT: rathaus
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  baustil: Barock
+  dachform: Mansarddach mit kleinem Dachreiter
+  erbaut: 1780
+  erbaut_durch: Franz Ignaz Freeg (Maurermeister und Architekt)
+  ersetzt_gebäude: kleineres Bürger- und Gerichtshaus (1624)
+  kirchspiel_besitz: 1803-1966
+  residenz_landrat_kreis_linz: 1816-1822
+  renovierungen: 1930, 1976, 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/019
+ENTITÄT: felsen
+BEZEICHNUNG: Erpeler Ley
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: hochaufragender Felsen mit Basaltformationen
+  eindrucksvoll: ja
+  aussichtspunkt: ja
+  rheintalblick_qualität: einer der schönsten
+  wanderwegverbindung: Rheinsteig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 336-erpel/020
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rheinsteig
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  typ: rechtsrheinischer Fernwanderweg
+  startpunkt: Bonn
+  endpunkt: Wiesbaden
+  etappe_durch_erpel: Unkel nach Leubsdorf
+  etappe_länge: 16,7 km
+  etappe_höhenmeter: 500
+  verlauf: durch Ortsteil Orsberg, über Erpeler Ley
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/021
+ENTITÄT: bahnhaltestelle
+BEZEICHNUNG: Haltepunkt Erpel (Rhein)
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  früher: Bahnhof
+  eröffnet: 1875
+  regionalbahn_27: Mönchengladbach-Köln-Koblenz, 60-min-Takt
+  regionalexpress_8: morgens Berufsverkehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/022
+ENTITÄT: fähre
+BEZEICHNUNG: Nixe
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  standort: Kilometer 633 des Rheins
+  verbindung: Erpel nach Remagen
+  passagiere: Personen und Fahrräder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 336-erpel/023
+ENTITÄT: bundesstraße
+BEZEICHNUNG: B 42
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: durch Erpel
+  verbindungen: Bonn (Unkel, Bad Honnef, Königswinter), Koblenz (Bad Hönningen, Neuwied)
+  höherlegung_zeitraum: August 2001 bis Juli 2002
+  höherlegung_grund: Anzahl der Sperrungen wegen Hochwasser verringern
+  höherlegung_kontroverse: Teil der Stadtmauer zugebaut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/024
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  ratsmitglieder_anzahl: 20
+  wahltermin: 9. Juni 2024
+  wahlsystem: personalisierte Verhältniswahl
+  vorsitz: ehrenamtlicher Ortsbürgermeister
+  spd_sitze_2024: 3
+  cdu_sitze_2024: 8
+  grüne_sitze_2024: 2
+  dvoe_sitze_2024: 7
+  fwg_sitze_2024: 0
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/025
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Günter Hirzmann
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 12. August 2019
+  direktwahl_datum_1: 26. Mai 2019
+  direktwahl_stimmen_1: 52,86%
+  direktwahl_datum_2: 9. Juni 2024
+  direktwahl_stimmen_2: 66,3%
+  direktwahl_2024_konkurrenzen: einziger Bewerber
+  amtsdauer_nach_2024: 5 Jahre
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 336-erpel/026
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Cilly Adenauer
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  titel: Bürgermeisterin
+GUELTIG_AB: 2009
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/027
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Heinrich Schwarz
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  vorgänger_von: Cilly Adenauer
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 336-erpel/028
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Edgar Neustein
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  vorgänger_von: Heinrich Schwarz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 336-erpel/029
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Anna Katharina Spee
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1590
+  tod: 1631
+  schicksal: Opfer der Hexenverfolgungen
+GUELTIG_AB: 1590
+GUELTIG_BIS: 1631
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/030
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Martin Diedenhofen
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1995
+  beruf: Politiker
+  partei: SPD
+  amt: MdB
+  erpel_bezug: wuchs in Erpel auf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 336-erpel/031
+ENTITÄT: dahlie
+BEZEICHNUNG: Herrlichkeit Erpel
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  art: Dahlien-Neuzüchtung
+  getauft_anlass: Erpeler Weinfest 2024
+  getauft_am: 2014
+  anbau_seit: 2015 in Grünanlagen und Privatgärten
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 336-erpel/032
+ENTITÄT: dahlie
+BEZEICHNUNG: Erpeler Ley
+QUELLE: https://de.wikipedia.org/wiki/Erpel | Wikipedia
+EIGENSCHAFTEN:
+  art: Dahlien-Neuzüchtung
+  getauft_anlass: Erpeler Weinfest 2024
+  getauft_am: 2014
+  anbau_seit: 2015 in Grünanlagen und Privatgärten
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

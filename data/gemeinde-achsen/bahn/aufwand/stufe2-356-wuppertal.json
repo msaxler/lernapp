@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "356-wuppertal",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 16905,
+ "token_ein": 251917,
+ "token_aus": 8081,
+ "usage": {
+  "input_tokens": 14,
+  "cache_creation_input_tokens": 37462,
+  "cache_read_input_tokens": 214441,
+  "output_tokens": 8081,
+  "output_tokens_details": {
+   "thinking_tokens": 3281
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 37462,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 4641,
+    "cache_read_input_tokens": 42910,
+    "cache_creation_input_tokens": 1454,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1454
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.9336092,
+ "sekunden": 101,
+ "fehler": false,
+ "zeit": "2026-10-14T10:55:51"
+}

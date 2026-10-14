@@ -1,0 +1,54 @@
+Orte: 353-erkrath 354-mettmann 355-wuelfrath 356-wuppertal 357-velbert 358-heiligenhaus 359-hattingen 360-heisingen
+== Extraktion (Haiku) 10:36:57
+353-erkrath          extraktion ein  36846  aus  22551   0.17 USD   204 s  claude-haiku-4-5-20251001
+354-mettmann         extraktion ein  33367  aus  12579   0.12 USD    97 s  claude-haiku-4-5-20251001
+355-wuelfrath        extraktion ein  39786  aus  14525   0.14 USD   125 s  claude-haiku-4-5-20251001
+356-wuppertal        extraktion ein  76207  aus   9636   0.19 USD    81 s  claude-haiku-4-5-20251001
+357-velbert          extraktion ein  35358  aus  13058   0.12 USD    98 s  claude-haiku-4-5-20251001
+358-heiligenhaus     extraktion ein  25701  aus  13411   0.10 USD   110 s  claude-haiku-4-5-20251001
+359-hattingen        extraktion ein  33572  aus  19199   0.15 USD   149 s  claude-haiku-4-5-20251001
+360-heisingen        extraktion ein  24510  aus  13469   0.10 USD    97 s  claude-haiku-4-5-20251001
+zusammen: 16518 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+353-erkrath        49309 Zeichen
+354-mettmann       33103 Zeichen
+355-wuelfrath      35113 Zeichen
+356-wuppertal      28234 Zeichen
+357-velbert        35644 Zeichen
+358-heiligenhaus   22695 Zeichen
+359-hattingen      36348 Zeichen
+360-heisingen      36114 Zeichen
+== Karten (claude-opus-5-5) 10:41:05
+353-erkrath          karten     ein  55721  aus  41560   1.22 USD   366 s  claude-opus-5-5
+354-mettmann         karten     ein  47188  aus  30072   0.93 USD   265 s  claude-opus-5-5
+355-wuelfrath        karten     ein  47546  aus  42414   1.17 USD   371 s  claude-opus-5-5
+356-wuppertal        karten     ein  43374  aus  28040   0.85 USD   245 s  claude-opus-5-5
+357-velbert          karten     ein  48077  aus  30607   0.94 USD   264 s  claude-opus-5-5
+358-heiligenhaus     karten     ein  39817  aus  31998   0.90 USD   289 s  claude-opus-5-5
+359-hattingen        karten     ein  48529  aus  34075   1.02 USD   291 s  claude-opus-5-5
+360-heisingen        karten     ein  49627  aus  38748   1.12 USD   336 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 10:51:06
+353-erkrath          pruefung   ein  87213  aus  11951   0.88 USD   103 s  claude-opus-5-5
+354-mettmann         pruefung   ein  48753  aus   5794   0.45 USD    54 s  claude-opus-5-5
+355-wuelfrath        pruefung   ein  81784  aus   9897   0.80 USD    88 s  claude-opus-5-5
+356-wuppertal        pruefung   ein  44829  aus   5557   0.42 USD    49 s  claude-opus-5-5
+357-velbert          pruefung   ein  74645  aus   8649   0.72 USD    78 s  claude-opus-5-5
+358-heiligenhaus     pruefung   ein  54263  aus  11234   0.60 USD   101 s  claude-opus-5-5
+359-hattingen        pruefung   ein  74171  aus  15059   0.84 USD   130 s  claude-opus-5-5
+360-heisingen        pruefung   ein  50065  aus   7388   0.49 USD    66 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 10:54:11
+353-erkrath          FEHLER keine Karte an Stufe 2 – kein Lauf
+354-mettmann         stufe2     ein 402504  aus  10707   1.18 USD   147 s  claude-opus-5-5,claude-haiku-4-5-20251001
+355-wuelfrath        stufe2     ein 165015  aus   6401   0.56 USD    92 s  claude-opus-5-5,claude-haiku-4-5-20251001
+356-wuppertal        stufe2     ein 251917  aus   8081   0.93 USD   101 s  claude-opus-5-5,claude-haiku-4-5-20251001
+357-velbert          stufe2     ein 211107  aus   3643   0.50 USD    63 s  claude-opus-5-5,claude-haiku-4-5-20251001
+358-heiligenhaus     stufe2     ein 317647  aus   6777   0.67 USD   113 s  claude-opus-5-5,claude-haiku-4-5-20251001
+359-hattingen        stufe2     ein 246429  aus   4184   0.69 USD    92 s  claude-opus-5-5,claude-haiku-4-5-20251001
+360-heisingen        stufe2     ein 371820  aus  13016   1.32 USD   162 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 10:58:25
+Urteile: {'korrigiert': 1062, 'bestätigt': 1840, 'gesperrt': 88, 'unsicher': 222} | im Vorrat: 3124 Karten an 360 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     360 Orte, 3124 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 3547050 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 10:58:26

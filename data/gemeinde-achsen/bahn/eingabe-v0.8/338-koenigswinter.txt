@@ -1,0 +1,373 @@
+ZIELORT: Königswinter (Stadt)
+LAGE: 8 km südöstlich von Bonn (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Königswinter
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 40.458  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 76,17 | 76,2  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 531  [berechnet aus Einwohner und Fläche]
+  kfz: SU (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 80 | 63 | 57 | 114 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2885734)]
+  naechste_grossstadt: Bonn, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 66 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Königswinter, Bahnhof Niederdollendorf, Stadtbahnhaltestelle Jugendhof - Königswinter  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 53639  [Wikidata P281]
+  vorwahl: 02223, 02244  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,4 %, GRÜNE 17,2 %, SPD 17 %, AfD 12,1 %, Die Linke 6,5 %, FDP 5,9 %; Wahlbeteiligung 86,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Heike Jüngling (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-14]
+  partnerstaedte: Cognac, Cleethorpes, North East Lincolnshire  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Bad Honnef (Stadt)
+  einwohner: 24.930  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 48,17 | 48,14  [Wikidata P2046; Altbestand staedte.json]
+  kfz: SU (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 75 | 73  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2953435)]
+  naechste_grossstadt: Bonn, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Bad Honnef (Rhein), Bahnhof Rhöndorf  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,6 %, GRÜNE 16,8 %, SPD 16,6 %, AfD 11,5 %, FDP 6,7 %, Die Linke 6,7 %; Wahlbeteiligung 85 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen
+
+FAKTEN (Zielort Königswinter):
+ID: 338-koenigswinter/001
+ENTITÄT: ort
+BEZEICHNUNG: Königswinter
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  formation: 1969
+  flaeche: 7619 [ha]
+  einwohner: 43000 [ca.]
+  ersterwähnung: 1015
+  urspruenglicher_name: Winetre
+  namensherkunft: "deutet auf Weinbau hin"
+  naechste_grossstaedte: "Bonn, Köln"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/002
+ENTITÄT: ort_teil
+BEZEICHNUNG: Oberpleis
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 859
+  urspruenglicher_name: Pleisa
+ORTSTEIL_BEZUG: Oberpleis
+GUELTIG_AB: 859
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/003
+ENTITÄT: ort_teil
+BEZEICHNUNG: Dollendorf
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 966
+  urspruenglicher_name: Dullendorf
+  siedlung: "Grabstein von 680 n.Chr. gefunden"
+ORTSTEIL_BEZUG: Dollendorf
+GUELTIG_AB: 966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/004
+ENTITÄT: ort_teil
+BEZEICHNUNG: Ittenbach
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 922
+  urspruenglicher_name: Idubag
+ORTSTEIL_BEZUG: Ittenbach
+GUELTIG_AB: 922
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/005
+ENTITÄT: ort_teil
+BEZEICHNUNG: Stieldorf
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 895
+ORTSTEIL_BEZUG: Stieldorf
+GUELTIG_AB: 895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/006
+ENTITÄT: ort_teil
+BEZEICHNUNG: Rauschendorf
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1117
+  urspruenglicher_name: Ruzindorf
+ORTSTEIL_BEZUG: Rauschendorf
+GUELTIG_AB: 1117
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/007
+ENTITÄT: ort_teil
+BEZEICHNUNG: Quirrenbach
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 948
+ORTSTEIL_BEZUG: Quirrenbach
+GUELTIG_AB: 948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/008
+ENTITÄT: burgruine
+BEZEICHNUNG: Drachenfels
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "herausragendes Baudenkmal und touristisches Wahrzeichen von Königswinter"
+  rheinromantik_bedeutung: "mit dem Aufkommen der Rheinromantik in der Mitte des 19. Jahrhunderts den Grundstein für eine langjährige Tradition Königswinters als Fremdenverkehrsort gelegt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/009
+ENTITÄT: bahn
+BEZEICHNUNG: Zahnradbahn
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Drachenfels
+  in_betrieb_seit: 1883
+  funktion: "Transport auf den Gipfel mit Ausblick auf Rheintal"
+GUELTIG_AB: 1883
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/010
+ENTITÄT: abtei
+BEZEICHNUNG: Abtei Heisterbach
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 1200
+  gegruender: "Zisterziensermönche"
+  urspruengliche_kirche: "großartige romanische Kirche, zu den größten romanischen Bauwerken im Rheinland"
+  gegenwärtiger_zustand: "heute nur noch die Chorruine"
+  wirken: "kulturelles und wirtschaftliches Wirken kam allen umliegenden Ortschaften zugute, entscheidende Impulse für Weinbau"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/011
+ENTITÄT: kirche
+BEZEICHNUNG: Propsteikirche Oberpleis
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: romanisch
+  ausstattung: "Krypta und Kreuzgang"
+  bauzeit: 12. Jahrhundert
+ORTSTEIL_BEZUG: Oberpleis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/012
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Oberpleis
+QUELLE: https://www.koenigswinter.de/de/museen-und-baudenkmaeler_in_koenigswinter.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalstatus: eingetragenes Baudenkmal
+  typ: "Bartning Notkirche Typ D"
+  zustand: "weitgehend im Originalzustand erhalten"
+ORTSTEIL_BEZUG: Oberpleis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 338-koenigswinter/013
+ENTITÄT: museum
+BEZEICHNUNG: Siebengebirgsmuseum
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Altstadt
+  sammlungen: "Kultur, Wirtschaft, Geologie der Region"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 338-koenigswinter/014
+ENTITÄT: museum
+BEZEICHNUNG: Brückenhofmuseum
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Weinort Oberdollendorf"
+  ausstellung: "Geräte und Utensilien aus Haushalt und Handwerk, Modellanlage Weilberg der Heisterbacher Talbahn"
+ORTSTEIL_BEZUG: Oberdollendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 338-koenigswinter/015
+ENTITÄT: haus_kulturell
+BEZEICHNUNG: Haus Schlesien
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Heisterbacherrott
+  funktion: "Zentrum für Kunst, Kultur und die Geschichte Schlesiens"
+ORTSTEIL_BEZUG: Heisterbacherrott
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 338-koenigswinter/016
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Drachenburg
+QUELLE: https://www.koenigswinter.de/de/museen-und-baudenkmaeler_in_koenigswinter.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Drachenfels
+  beschreibung: "architektonisches Juwel"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 338-koenigswinter/017
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Siebengebirge
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "eines der ältesten Naturschutzgebiete Deutschlands"
+  status_nrw: "erster Naturpark in Nordrhein-Westfalen"
+  wanderwege: 200 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/018
+ENTITÄT: hotel
+BEZEICHNUNG: Hotel Petersberg
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Berg Petersberg im Siebengebirge"
+  funktion_bis_1970er: "mondänes Hotel, Residenz für Staatsgäste der Bundesrepublik Deutschland"
+  prominente_gaeste: "Königin Elisabeth II, Schah von Persien, Leonid Breschnew, Clinton, Jelzin, Kaiser Akihito, Königin Margarete II"
+  goldenes_buch_unterschriften: 31
+  staat_erwerb: 1979
+  sanierung_und_wiedereroffnung: 1990
+  funktion_ab_1990: "offizielles Gästehaus der Bundesrepublik Deutschland"
+  internationale_konferenzen: "Afghanistan-Konferenz 2001 und 2002"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/019
+ENTITÄT: handwerk
+BEZEICHNUNG: Weinbau
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Hänge des Siebengebirges"
+  antike: "bereits zur Zeit der Ersterwähnung Königswinters (1015) heimisch"
+  impuls_durch: "Zisterziensermönche der Abtei Heisterbach gaben entscheidende Impulse"
+  betriebe_aktuell: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 338-koenigswinter/020
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Cleethorpes / North-East-Lincolnshire
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendung: 1974
+  region_partner: "Ostküste Großbritannien"
+  aenderung: "1995 aufgegangen in North-East-Lincolnshire bei kommunaler Neuordnung"
+  kontinuität: "partnerschaftliche Beziehungen blieben bestehen"
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 338-koenigswinter/021
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Cognac
+QUELLE: https://www.koenigswinter.de/de/stadtinfo.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendung: 1989
+  region_partner: "südwestfrankreich"
+  besonderheit_stadt: "Name weltbekannt wegen eines von dort stammenden Produktes"
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 338-koenigswinter/022
+ENTITÄT: klaeranlage
+BEZEICHNUNG: Kläranlage Königswinter
+QUELLE: https://www.koenigswinter.de/de/daten-fakten-abwasserwerk.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1974-1976
+  spatenstich: 1973-08-29
+  erweiterung: 1993-1996
+  auslegung: 42000 [EW]
+  belastung_2020: 24954 [EW]
+  abwassermenge_2020: 1566970 [m³]
+  stromverbrauch_2020: 953007 [kWh/a]
+  bhkw_eigenproduktion_2020: 442404 [kWh/a]
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 338-koenigswinter/023
+ENTITÄT: hallenbad
+BEZEICHNUNG: Hallenbad Königswinter
+QUELLE: https://www.koenigswinter.de/de/startseite/hallenbad-bleibt-waehrend-der-herbstferien-geschlossen-im-november-oeffnet-es-wieder.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bisheriger_betreiber: "Schwimmtreff Hallenfreizeitbad GmbH"
+  betreibungsdauer_bisherig: "über 30 Jahre"
+  neuer_betreiber_ab: 2026-11-01
+  neuer_betreiber_name: "PROVA Unternehmensberatung"
+  neuer_betreiber_sitz: Hamm
+GUELTIG_AB: 2026-11-01
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 338-koenigswinter/024
+ENTITÄT: person
+BEZEICHNUNG: Heike Jüngling
+QUELLE: https://www.koenigswinter.de/de/startseite/hallenbad-bleibt-waehrend-der-herbstferien-geschlossen-im-november-oeffnet-es-wieder.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Bürgermeisterin
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 338-koenigswinter/025
+ENTITÄT: person
+BEZEICHNUNG: Peter Buchholz
+QUELLE: https://www.koenigswinter.de/de/geschichten-aus-dem-archiv.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Oberpleis
+  status: "Ehrenbürger von Oberpleis"
+  beruf: Priester
+  bekannteste_tätigkeit: "seelsorgerische Betreuung der zum Tode verurteilten Männer des Attentats vom 20. Juli 1944"
+  ausweis_opfer_faschismus: 3399
+GUELTIG_BIS: beschreibung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 338-koenigswinter/026
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Königswinter
+QUELLE: https://www.koenigswinter.de/de/geschichten-aus-dem-archiv.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  foto_dokumentation: 1894
+  anlass_foto: "Bauarbeiten Straßenzufahrt Kaiser-Straße"
+  aenderungen_bis_heute: "Gebäude hat sich in Details verändert, Umgebung stark verändert"
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 338-koenigswinter/027
+ENTITÄT: schule
+BEZEICHNUNG: Höhere Knabenschule Königswinter
+QUELLE: https://www.koenigswinter.de/de/geschichten-aus-dem-archiv.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_ehemals: Schützenstraße 2
+  schaeden: "erhebliche Schäden im Zweiten Weltkrieg, anschließend saniert"
+  nachnutzung: "später Feuerwache eingerichtet"
+  status_aktuell: "schließlich abgerissen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+

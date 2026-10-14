@@ -1,0 +1,179 @@
+ID: 352-haan/001
+ENTITÄT: ort
+BEZEICHNUNG: Haan
+EIGENSCHAFTEN:
+  einwohner: 29973 [stand: 31.12.2025]
+  flaeche: 24.19 [km²]
+  bevoelkerungsdichte: 1239 [Einwohner/km²]
+  raumwaermebedarf: 331 [GWh/a]
+  raumkaeltebedarf: 4.8 [GWh/a]
+  prozesswaermebedarf: 78 [GWh/a]
+QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Kommunale-Energie-und-Wärmeplanung/Zahlen-Daten-Fakten/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 352-haan/002
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen von Haan
+EIGENSCHAFTEN:
+  jahr_erstellung: 1937
+  status: offizielles Hoheitszeichen
+  symbol_bezug: Bergischer Kräher
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Wappen-Logo/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 352-haan/003
+ENTITÄT: logo
+BEZEICHNUNG: Logo der Stadt Haan
+EIGENSCHAFTEN:
+  jahr_entwicklung: 2017
+  basiert_auf: stilisiertes Wappen
+  symbol: Bergischer Kräher
+  farbe: hellgrün
+  entwurf_von: COGAMARKETING
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Wappen-Logo/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 352-haan/004
+ENTITÄT: institution
+BEZEICHNUNG: Stadtarchiv Haan
+EIGENSCHAFTEN:
+  funktion: zentrale Dokumentations- und Informationsstelle zur Stadtgeschichte
+  entstehung_jahr: 1991
+  bestand_ab: Mitte 19. Jahrhundert bis Gegenwart
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Stadtarchiv/ | Gemeinde-Webseite
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 352-haan/005
+ENTITÄT: zeitung
+BEZEICHNUNG: Haaner Volks-Zeitung / Haaner Zeitung
+EIGENSCHAFTEN:
+  digitalisierung: ab 2018 verfügbar
+  plattform: zeitpunkt NRW
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Stadtarchiv/ | Gemeinde-Webseite
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 352-haan/006
+ENTITÄT: strassenname
+BEZEICHNUNG: Alsenstraße
+EIGENSCHAFTEN:
+  benannt_nach: dänische Insel Alsen und Alsensund
+  datum_benennung: vor 1905
+  anlass: Landung preußischer Truppen 29. Juni 1864 im Deutsch-Dänischen Krieg 1864
+  verband_mit_ereignis: deutscher Sieg, ca. 3500 Soldaten starben/wurden verwundet oder gefangen
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 352-haan/007
+ENTITÄT: strassenname
+BEZEICHNUNG: Düppelstraße
+EIGENSCHAFTEN:
+  benannt_nach: Düppeler Schanzen
+  datum_benennung: vor 1905
+  anlass: dänische Befestigungsanlage; Eroberung durch preußische Truppen 18. April 1864
+  verband_mit_ereignis: Deutsch-Dänischer Krieg 1864, ca. 6000 Soldaten starben/wurden verwundet oder gefangen
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 352-haan/008
+ENTITÄT: strassenname
+BEZEICHNUNG: Königgrätzer Straße
+EIGENSCHAFTEN:
+  benannt_nach: Ort Königgrätz in Böhmen
+  datum_benennung: vor 1905
+  anlass: Entscheidungsschlacht im Deutschen Krieg 3. Juli 1866
+  verband_mit_ereignis: kriegsentscheidender Sieg der Preußen über österreichisch-sächsische Armee, 52000-53000 Soldaten starben/wurden verwundet/vermisst/gefangen
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 352-haan/009
+ENTITÄT: kirche
+BEZEICHNUNG: ehemalige Haaner Kirche
+EIGENSCHAFTEN:
+  weihe_jahr: 935
+  weihe_durch: Erzbischof Wichfried
+  abbruch_jahr: 1863
+ORTSTEIL_BEZUG: Alter Kirchplatz
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/ | Gemeinde-Webseite
+GUELTIG_BIS: 1863
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 352-haan/010
+ENTITÄT: denkmal
+BEZEICHNUNG: Muelhenwuestung Brackermühle
+PROPERTIES:
+  zeitalter: Mittelalter
+  status: Bodendenkmal
+ORTSTEIL_BEZUG: Bracken
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 352-haan/011
+ENTITÄT: fabrik
+BEZEICHNUNG: Kornbrennerei und Likörfabrik Borgmann
+EIGENSCHAFTEN:
+  gruendungsjahr: 1848
+  gruender: Ludwig Forsthoff
+  produkte: Alkohol aus Weizen, Roggen, Gerste
+  jahresproduktion_konzession: 450 [hl]
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/ | Gemeinde-Webseite
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 352-haan/012
+ENTITÄT: eisenbahnlinie
+EIGENSCHAFTEN:
+  strecke: Opladen - Haan - Gruiten - Elberfeld
+  eroeffnung: 25.09.1867
+  ausbau: erweitert bis Mühlheim, Deutz und Köln bis 01.02.1872
+  superlativ: erste westdeutsche Eisenbahnlinie Düsseldorf-Haan/Gruiten-Vohwinkel 1841
+QUELLE: https://www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/ | Gemeinde-Webseite
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 352-haan/013
+ENTITÄT: waermeversorgung
+EIGENSCHAFTEN:
+  anteil_gas: 79 [%]
+  anteil_oel: 13 [%]
+  anteil_strom: 4 [%]
+  anteil_fernwaerme: 1 [%]
+  anteil_erneuerbare_waerme: 3 [%]
+  anteil_holz: 1 [%]
+  dominanter_energietraeger: Gas
+QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Kommunale-Energie-und-Wärmeplanung/Zahlen-Daten-Fakten/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 352-haan/014
+ENTITÄT: photovoltaikanlagen
+EIGENSCHAFTEN:
+  anzahl: 1668 [stand: 08.04.2026]
+  gesamtleistung: 18 [MWp]
+  status: keine Freiflächen-PV, keine Windkraftanlagen auf Stadtgebiet
+QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Umwelt-Nachhaltigkeit/Kommunale-Energie-und-Wärmeplanung/Zahlen-Daten-Fakten/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 352-haan/015
+ENTITÄT: denkmaeler_bestand
+EIGENSCHAFTEN:
+  baudenkmaeler: 135
+  bodendenkmaler: 4
+  denkmalbereiche: 3
+QUELLE: https://www.haan.de/Wirtschaft-Stadtentwicklung/Planen-Bauen/Bauaufsicht-Denkmalschutz/ | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

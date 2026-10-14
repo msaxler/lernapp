@@ -1,0 +1,828 @@
+ZIELORT: Hattingen (Stadt)
+LAGE: 9 km südlich von Bochum (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Hattingen
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 52.969  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 71,67  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 739  [berechnet aus Einwohner und Fläche]
+  kfz: WIT (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 88 | 90 | 100 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2909230)]
+  naechste_grossstadt: Bochum, 9 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 35 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Hattingen (Ruhr)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 45525, 45527, 45529  [Wikidata P281]
+  vorwahl: 02324  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,9 %, SPD 23 %, AfD 17 %, GRÜNE 12,2 %, Die Linke 6,9 %; Wahlbeteiligung 82,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Melanie Witte-Lonsing (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-14]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Luftlinie zur Landeshauptstadt), A, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Heiligenhaus (Stadt)
+  einwohner: 25.844  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 27,52  [Wikidata P2046; Altbestand staedte.json]
+  kfz: ME (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 180 | 187  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2907585)]
+  naechste_grossstadt: Mülheim an der Ruhr, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Heiligenhaus  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,8 %, SPD 18,9 %, AfD 17,4 %, GRÜNE 10,2 %, Die Linke 7,1 %, FDP 5,3 %; Wahlbeteiligung 81,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen
+
+FAKTEN (Zielort Hattingen):
+ID: 359-hattingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: "Germanischer Volksstamm der Hattuarier, Siedlung auf dem Nocken oberhalb der Winzer Ruhrfurt"
+  erste_besiedlung: 2000 [v.Chr., jungsteinzeitlich]
+  stadtwerdung_datum: 2. Juli 1396
+  stadtwerdung_urkunde: "Befestigungsvertrag zwischen Graf Dietrich von der Mark und Bürgern"
+  stadtwerdung_prozess: "schrittweise über etwa 100 Jahre"
+  frühere_freiheitsrechte: 17. Mai 1350
+  hanseanstadt_seit: 1554
+  kommunale_neugliederung: 1. Januar 1970
+  neugliederung_fläche: 71 [qkm]
+  neugliederung_einwohner: 60490
+  jubiläum_600jahre: 1996
+GUELTIG_AB: 1396
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/002
+ENTITÄT: stadtwappen
+BEZEICHNUNG: Stadtwappen Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Standort/Stadtwappen/Geschichte des Wappens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  darstellt: "Heiliger Georg (Drachentöter) zu Pferde, Lindwurm mit Lanze erlegend"
+  verwendung_seit: 1400 [Anfang 15. Jahrhundert, als Siegel]
+  ältestes_siegel_datiert: 1476
+  siegel_1479_umschrift: "sigullum opidi hatneggen 1479"
+  königliche_genehmigung: 15. August 1911
+  genehmigung_designer: "Kolb aus Suhl"
+  schild_form_original: "französischer Schild mit dreitürmiger Mauerkrone"
+  schild_form_seit_1970: "Halbrundschild ohne Mauerkrone"
+  stadtfarben: "Blau und Gelb"
+  farbe_drache: "Grün"
+  farbe_ritter: "Silber"
+  heraldiker_hupp_beschreibung: 1935 [golden gerüstet]
+  heraldiker_mallek_beschreibung: 1940 [silbern gerüstet]
+  bestätigung_regierungspräsident_arnsberg: 10. Juli 1970
+  amtliche_beschreibung: "In blau der auf rot gezäumtem silbernen Ross sprengende, silbern gerüstete und golden nimbierte heilige Georg, der die silberne Lanze dem grünen Lindwurm in den Rachen stößt"
+GUELTIG_AB: 1476
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 359-hattingen/003
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georgs-Kirche
+QUELLE: https://www.hattingen.de/stadt_hattingen/Standort/Stadtwappen/Geschichte des Wappens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_ca: 1200
+  erbaut_von: "Grafen von der Mark"
+  grund_bau: "zu Ehren des Heiligen Georg"
+  benannt_nach: "Heiliger Georg"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 359-hattingen/004
+ENTITÄT: bruderschaft
+BEZEICHNUNG: St. Georgs-Schützenbruderschaft
+QUELLE: https://www.hattingen.de/stadt_hattingen/Standort/Stadtwappen/Geschichte des Wappens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1403
+  funktion: "Versammlung der wehrhaften Bürger für Stadtverteidigung"
+  rang: "wichtigste und vornehmste Bruderschaft"
+  oberen_positionen: "zugleich Bürgermeister und Ratsherren"
+  traditions_dauer: "etwa 300 Jahre Schützenfeste als Volksfeste"
+GUELTIG_AB: 1403
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/005
+ENTITÄT: bruderschaft
+BEZEICHNUNG: St. Sebastian-Bruderschaft
+QUELLE: https://www.hattingen.de/stadt_hattingen/Standort/Stadtwappen/Geschichte des Wappens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1403
+  funktion: "Versammlung der wehrhaften Bürger für Stadtverteidigung"
+GUELTIG_AB: 1403
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/006
+ENTITÄT: stadttor
+BEZEICHNUNG: Holschentor
+QUELLE: https://www.hattingen.de/stadt_hattingen/Leben/Bürgerzentrum Holschentor/Historie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teil_von: "fünf Stadttore der Stadtbefestigung Hattingens"
+  erbaut: 1586-1590
+  material_neubau: "Bruchstein"
+  vorgänger: "hölzerne Stadtbefestigung von 1396"
+  typ: "Nebentor"
+  öffnungszeiten_original: "nur Sommermonaten"
+  namensherkunft_überlieferung: "Bauernschuhe (Holzschuhe), die Bauern vor Betreten der Stadt ablegen mussten"
+  namensherkunft_historisch: "Hof Holschen, der ehemals vor dem Tor lag"
+  namensherkunft_alternativ: "Bauernschaft Holthausen (hochdeutsch: Holthauser Tor)"
+GUELTIG_AB: 1586
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/007
+ENTITÄT: gebäude
+BEZEICHNUNG: Haus Holschentor (ehemals Schule, jetzt Bürgerzentrum)
+QUELLE: https://www.hattingen.de/stadt_hattingen/Leben/Bürgerzentrum Holschentor/Historie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprünglicher_zweck: "Schule"
+  erbaut: 1868
+  schulnutzung_dauer: "120 Jahre"
+  schultypen_verlauf: "Volksschule → Grundschule → Förderschule (bis 2013)"
+  denkmalschutz_eintrag: 18. Mai 1983
+  umbau_abschluss: "vor 30. April 2016"
+  neuer_zweck: "Bürgerzentrum"
+  eröffnung_feierlich: 30. April 2016
+  ausstattung: "Bürgercafé, Gruppenräume, Büroräume für soziale Dienste, behindertengerechter Zugang, Aufzug"
+  nachbarschaft_süd: "Hillsche Garten"
+GUELTIG_AB: 1868
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 359-hattingen/008
+ENTITÄT: werk
+BEZEICHNUNG: Henrichshütte
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 29. Oktober 1853
+  gründer: "Graf Henrich zu Stolberg-Wernigerode"
+  anfangsfläche: 76 [Morgen]
+  standort_ursprung: "Rittergut Bruch in Welper"
+  typ: "Stahlwerk / Hüttenwerk"
+  bedeutsamkeit_dauer: "über 135 Jahre"
+  arbeitnehmer_peak: 10000
+  rolle: "wichtigster Arbeitgeber der Region"
+  flussbett_verlagerung: 22. Mai 1959
+  grund_verlagerung: "Werksgelände vergrößern"
+  erhalt_abkommen: 22. November 1949 [Petersberger Abkommen, Abwendung Demontage]
+  bombentreffer: "März 1945 (zwei schwere Bombenangriffe)"
+GUELTIG_AB: 1853
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/009
+ENTITÄT: kirche
+BEZEICHNUNG: Alte St. Georgs-Kirche Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Was bisher geschah/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_ca: 1005
+  schenker: "späterer Kaiser Heinrich II. dem Kloster Deutz"
+  urkundliche_ersterwähnung_bestätigung: "1019 oder 1020 durch Erzbischof Heribert von Köln"
+GUELTIG_AB: 1005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/010
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Niederwenigern
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 17. Juni 1147
+  besitzer_erwähnung: "Deutzer Besitz"
+GUELTIG_AB: 1147
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/011
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul (Katholische Kirche Hattingen)
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: "Bahnhofstraße"
+  erbaut_ca: 1872
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 359-hattingen/012
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Hattingen (an der Bahnhofstraße)
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_seit: 1872
+  standort: "Bahnhofstraße"
+  zerstört_datum: 10. November 1938
+  zerstört_ereignis: "Reichskristallnacht"
+  zerstört_durch: "Nationalsozialisten"
+  zerstört_aktion: "niedergebrannt"
+  begleite_zerstörung: "Plünderung jüdischer Geschäfte und Wohnungen"
+GUELTIG_AB: 1872
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 359-hattingen/013
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Bochum-Herne-Hattingen (Erich-Mendel-Platz)
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingeweiht: 16. Dezember 2007
+  standort: "Erich-Mendel-Platz in Bochum"
+  gemeinde_zugehörigkeit: "Bochum-Herne-Hattingen"
+  hattinger_mitglieder: "ca. 30"
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/014
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: "Fleischhalle am Untermarkt"
+  fertigstellung: 1576
+  architektur: "reichverzierte Fachwerk"
+GUELTIG_AB: 1576
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/015
+ENTITÄT: rathaus
+BEZEICHNUNG: Neues Rathaus Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 10. Dezember 1910
+  standort: "Pastorskamp"
+  umgebende_straßen: "Roonstraße, Augustastraße, Viktoriastraße (wilhelminische Epoche)"
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/016
+ENTITÄT: infrastruktur_energie
+BEZEICHNUNG: Gasanstalt Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: "Wülfingstraße"
+  betriebsbeginn: 18. Oktober 1861
+  funktion: "Gasbeleuchtung für Hattinger Straßen"
+GUELTIG_AB: 1861
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/017
+ENTITÄT: infrastruktur_energie
+BEZEICHNUNG: Elektrische Beleuchtung Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_installation: 6. Mai 1907
+  beschreibung: "erstmalig elektrisches Licht in Hattingen"
+GUELTIG_AB: 1907
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/018
+ENTITÄT: bahnanbindung
+BEZEICHNUNG: Bahnanbindung Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnanschluss_datum: 15. Dezember 1869
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/019
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Ruhrschifffahrt
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1780
+  transportmedium: "Flussschifffahrt auf der Ruhr"
+  funktion: "Massentransport für Hattinger Land"
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/020
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Rauendahler Kohlenbahn
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1787
+  superlativ: "erste Eisenbahn Deutschlands"
+  betriebweise: "Pferdegezogene Wagen (Loren) auf Eisenschienen"
+GUELTIG_AB: 1787
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/021
+ENTITÄT: brücke
+BEZEICHNUNG: Hattinger Ruhrbrücke
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 30. Juni 1319
+  neue_brücke_freigabe: 7. Mai 2002
+GUELTIG_AB: 1319
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/022
+ENTITÄT: museum
+BEZEICHNUNG: Westfälisches Industriemuseum Henrichshütte (WIM)
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 2. September 2000
+  träger: "Landschaftsverband Westfalen-Lippe"
+  thema: "Weg des Eisens und Stahlgeschichte Hattingens"
+  historischer_zeitraum_fokus: "über 150 Jahre Stahlgeschichte"
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/023
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: Reschop-Carré
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  größe: 11500 [m²]
+  eröffnung: 2. April 2009
+  eröffnungsevent: "Volksfest"
+  betriebe: "ca. 30 Shops für Kleidung, Hardware, Elektronik, Telekommunikation"
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/024
+ENTITÄT: fußgängerzone
+BEZEICHNUNG: Altstadtfußgängerzone Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erster_abschnitt_einweihung: 7. Dezember 1969
+  straßen_erster_abschnitt: "Heggerstraße, Gelinde, Obermarkt"
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/025
+ENTITÄT: volksfest
+BEZEICHNUNG: Altstadtfest
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalig: 11. Juli 1975
+  standort: "Altstadtzentrum"
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/026
+ENTITÄT: feuerwache
+BEZEICHNUNG: Haupt- und Rettungswache Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: September 2013
+  standort: "Wildhagen"
+  typ: "Haupt- und Rettungswache"
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/027
+ENTITÄT: burg
+BEZEICHNUNG: Isenburg
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Was bisher geschah/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_ca: 1200
+  erbaut_von: "Kölner Erzbischof Adolf mit Hilfe seines Bruders Arnold von Altena"
+  zerstört: 1225
+  grund_zerstörung: "Strafaktion nach Ermordung des Kölner Erzbischofs Engelbert durch Burggraf Friedrich von Isenberg"
+  superlativ: "eine der größten Burgen Westfalens"
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1225
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/028
+ENTITÄT: burg
+BEZEICHNUNG: Burg Blankenstein (Blanken Steyn)
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Was bisher geschah/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 12. Mai 1227
+  erbaut_von: "Graf Adolf von der Mark"
+  grund_bau: "Festigung der Herrschaftsansprüche nach Zerstörung der Isenburg"
+  zerstörungsbefehl: 1. September 1662
+  zerstörungsbefehl_von: "Großer Kurfürst Friedrich Wilhelm von Brandenburg"
+  grund_zerstörung: "Burg baufällig"
+  großbrand: 15. Mai 1665
+GUELTIG_AB: 1227
+GUELTIG_BIS: 1662
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/029
+ENTITÄT: kreis
+BEZEICHNUNG: Kreis Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bildung: 1. Juli 1885
+  auflösung: 1. August 1929
+  nachfolger: "Ennepe-Ruhr-Kreis"
+GUELTIG_AB: 1885
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/030
+ENTITÄT: kreis
+BEZEICHNUNG: Ennepe-Ruhr-Kreis
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bildung: 1. August 1929
+  grund: "Kommunale Neugliederung, Auflösung Kreis Hattingen"
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/031
+ENTITÄT: gilde
+BEZEICHNUNG: Hattinger Gilden
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 2. Februar 1412
+  anzahl_initial: 3
+  bedeutendste: "Tuchmacher (überregionale Bedeutung)"
+  funktion: "Handelszentrum im Westen der Grafschaft Mark"
+GUELTIG_AB: 1412
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/032
+ENTITÄT: person
+BEZEICHNUNG: Nikolaus Groß
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Niederwenigern
+EIGENSCHAFTEN:
+  religion: "katholisch"
+  tätigkeit: "Widerstandskämpfer"
+  hinrichtung: 23. Januar 1945
+  hinrichtungsort: "Berlin-Plötzensee"
+  seligsprechung: 7. Oktober 2001
+  seligsprechung_durch: "Papst Johannes Paul II."
+  seligsprechung_ort: "Petersplatz Rom"
+  seligsprechung_publikum: 60000
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/033
+ENTITÄT: ns_opfer_sammlung
+BEZEICHNUNG: Stolpersteine Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Stolpersteine/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: "Gunter Demnig"
+  beschluss_datum: 14. April 2005
+  beschluss_gremium: "Haupt- und Finanzausschuss Stadt Hattingen"
+  initiative_herkunft: "Hattinger Bevölkerung"
+  erste_verlegung: 13. Dezember 2005
+  erste_verlegung_anzahl: 11
+  zweite_verlegung: 6. Juni 2014
+  zweite_verlegung_anzahl: 8
+  gesamtzahl: 25
+  größe_platten: "10 × 10 Zentimeter"
+  material: "Messingplatten"
+  beschreibung_bio: "Biographien in 'Stolpersteine für Hattingen 2005/2014' von Thomas Weiß (19 detaillierte Schicksale)"
+  thema: "Opfer des Nationalsozialismus"
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/034
+ENTITÄT: ereignis
+BEZEICHNUNG: Bruderkrieg zwischen Adolf und Gerhard von der Mark
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 21. Oktober 1424
+  beteiligte: "Grafen Adolf und Gerhard von der Mark"
+  auswirkung_hattingen: "bis auf 2 Häuser vollständig niedergebrannt"
+GUELTIG_AB: 1424
+GUELTIG_BIS: 1424
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/035
+ENTITÄT: ereignis
+BEZEICHNUNG: Jülich-Klevischer Erbfolgestreit
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betroffen: "Hattingen, Blankenstein, Stiepel"
+  besatzung_beginn: 2. Oktober 1614
+  besatzungsmacht: "spanische Truppen"
+  besatzungsdauer: "bis 1630 protestantisches Hattingen unter katholischem Besatz"
+  folgen: "Verarmung des Hattinger Landes"
+  ende: 9. September 1666
+GUELTIG_AB: 1614
+GUELTIG_BIS: 1666
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/036
+ENTITÄT: ereignis
+BEZEICHNUNG: Belagerung Hattingens durch schwedische Truppen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 10. März 1635
+  dauer_tage: 10
+  angreifer: "schwedischer Oberst Wilhelm Wendt zum Krassenstein"
+  charakter: "blutige Belagerung"
+  ergebnis: "Kapitulation Hattingens"
+GUELTIG_AB: 1635
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/037
+ENTITÄT: ereignis
+BEZEICHNUNG: Aufstand gegen preußische Werber
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 3. Oktober 1720
+  grund: "Gegenwehr gegen preußische Militärwerber"
+GUELTIG_AB: 1720
+GUELTIG_BIS: 1720
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/038
+ENTITÄT: ereignis
+BEZEICHNUNG: Siebenjähriger Krieg im Hattinger Land
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1757-1762
+  besatzungsmacht: "französische Truppen"
+GUELTIG_AB: 1757
+GUELTIG_BIS: 1762
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/039
+ENTITÄT: ereignis
+BEZEICHNUNG: Überfall auf französisches Lazarett
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 31. März 1758
+  aktion: "Hattinger überfallen nach Langenberg abziehendes französisches Lazarett"
+  raub: "angeblich wertvolle Kriegskasse"
+  bewertung_quelle: "angeblich"
+GUELTIG_AB: 1758
+GUELTIG_BIS: 1758
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 359-hattingen/040
+ENTITÄT: ereignis
+BEZEICHNUNG: Reparationsbesetzung Hattingens
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1923-1925
+  besatzungsmächte: "französisch-belgische Truppen"
+  grund: "Erzwingung deutscher Reparationsleistungen"
+  zeitraum_alternativ: "1908-1813 Napoleonische Fremdherrschaft (Großherzogtum Berg)"
+GUELTIG_AB: 1923
+GUELTIG_BIS: 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/041
+ENTITÄT: ereignis
+BEZEICHNUNG: Reichskristallnacht in Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 10. November 1938
+  aktion_synagoge: "Niederbrennen der Synagoge Bahnhofstraße"
+  aktion_plünderung: "Plünderung jüdischer Geschäfte und Wohnungen"
+  verantwortliche: "Nationalsozialisten"
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 359-hattingen/042
+ENTITÄT: ghetto
+BEZEICHNUNG: Gewehrfabrik-Ghetto Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: "an der Ruhrbrücke"
+  ghettoisierung_datum: 28. Juni 1941
+  ghettoisierte: "erste Hattinger Juden"
+  deportation_erste: "April 1942"
+  deportation_zweite: "Juli 1942"
+  deportation_insgesamt: "drei Transporte"
+  ziele: "Zamosc und Theresienstadt"
+  überlebensrate: 0 [Genauigkeit: "keiner überlebte"]
+GUELTIG_AB: 1941
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/043
+ENTITÄT: ereignis
+BEZEICHNUNG: Bombenangriffe März 1945
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: "März 1945"
+  ziel: "Henrichshütte"
+  anzahl_angriffe: 2
+  charakterisierung: "zwei schwere Bombenangriffe"
+  betroffene_städte: "Hattingen, Blankenstein, Welper"
+  schaden: "verheerende Zerstörungen"
+  todesfälle: 174
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/044
+ENTITÄT: ereignis
+BEZEICHNUNG: Luftschutzwarnungen im Zweiten Weltkrieg
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_warnmeldung: 2. September 1939
+  erste_warnmeldung_uhrzeit: "11:05 Uhr"
+  fliegeralarme_insgesamt: 1292
+  öffentliche_warnungen_insgesamt: 1208
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/045
+ENTITÄT: ereignis
+BEZEICHNUNG: Befreiung Hattingens
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 15. April 1945
+  befreier: "amerikanische Truppen"
+  eindringrichtung: "von Holthausen"
+  bedingungslose_kapitulation: 8. Mai 1945
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/046
+ENTITÄT: krieg
+BEZEICHNUNG: Zweiter Weltkrieg - Bilanz Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ende: 8. Mai 1945
+  wohnungen_total_zerstört: 1610
+  wohnungen_schwer_beschädigt: 3681
+  wohnungen_insgesamt_stadt: 5674
+  schutt_menge: 137000 [cbm]
+  einwohner_1939: 18063
+  zivilisten_todesfälle_hattingen: 909
+  soldaten_gefallen_hattingen: 515
+  soldaten_gefallen_blankenstein_land: 472
+  vermisste_soldaten: 195
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 359-hattingen/047
+ENTITÄT: ereignis
+BEZEICHNUNG: Vereinigung Blankenstein-Buchholz-Holthausen-Welper
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1. April 1966
+  bestandteile: "Blankenstein, Buchholz, Holthausen, Welper"
+  zweck: "Abwehr drohender Eingemeindung nach Hattingen"
+  bestand_dauer: "vier Jahre (bis 1970)"
+GUELTIG_AB: 1966
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/048
+ENTITÄT: ereignis
+BEZEICHNUNG: Stahlkrise Ruhrgebiet
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1983-1987
+  höhepunkt: "1983-1987"
+  betroffene_betriebe: "Mönninghoff/Gottwald, Henrichshütte"
+  arbeitsplätze_abgebaut: 4000
+GUELTIG_AB: 1983
+GUELTIG_BIS: 1987
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/049
+ENTITÄT: reformbewegung
+BEZEICHNUNG: Reformation im Hattinger Land
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchsetzung_ab: "seit 1580"
+  folge_klosterabhängigkeit: "Abhängigkeiten zum Kloster Deutz werden abgebaut"
+  ausnahmen_katholisch: "Blankenstein und Niederwenigern bleiben katholisch"
+  religiöse_struktur: "seit früh 17. Jh. bis heute unverändert"
+GUELTIG_AB: 1580
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/050
+ENTITÄT: hansestadt
+BEZEICHNUNG: Hanseanschluss Hattingen und Blankenstein
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beitrittsjahr: 1554
+  städte: "Hattingen und Blankenstein"
+  urkundliche_nachweisbarkeit: "erstmals urkundlich nachweisbar"
+GUELTIG_AB: 1554
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/051
+ENTITÄT: stadtbefestigung
+BEZEICHNUNG: Stadtmauer und Stadttore Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1586-1590
+  material: "Stein (Bruchstein)"
+  komponenten: "ringmauer, Wehrtürme, 5 Stadttore"
+  vorgänger: "hölzerne Befestigung von 1396"
+GUELTIG_AB: 1586
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 359-hattingen/052
+ENTITÄT: handwerksgruppe
+BEZEICHNUNG: Tuchmacher Hattingen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gilde_gründung: 2. Februar 1412
+  bedeutung: "überregionale Bedeutung erlangen"
+  funktion: "wirtschaftlicher Aufschwung Hattingens"
+GUELTIG_AB: 1412
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/053
+ENTITÄT: vereinigung
+BEZEICHNUNG: Arbeitsgemeinschaft Historische Stadtkerne Nordrhein-Westfalen
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hattingen_aufnahme: 1. Dezember 1989
+  blankenstein_aufnahme: 1992
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 359-hattingen/054
+ENTITÄT: vereinigung
+BEZEICHNUNG: Westfälischer Hansebund (Neuer Hansebund)
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hattingen_aufnahme: "24. August 1996"
+  zweck: "Belebung mittelalterlicher Hansetraditionen"
+  internationale_hanseliga_seit: 2015
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/055
+ENTITÄT: flussverlagerung
+BEZEICHNUNG: Ruhr-Flussbettverlagerung
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kutzchronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beginn: 22. Mai 1959
+  grund: "Werksgelände der Henrichshütte vergrößern"
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 359-hattingen/056
+ENTITÄT: zwangsarbeit_system
+BEZEICHNUNG: Zwangsarbeit in Hattingen (Zweiter Weltkrieg)
+QUELLE: https://www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Zwangsarbeit in Hattingen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betroffene_insgesamt: 10000 [mehr als]
+  zeitpunkt_statistik: 1944
+  anteil_fremde: 25 [Prozent der Hattinger]
+  lager_anzahl: 80 [über]
+  lager_verteilung: "über gesamtes Stadtgebiet"
+  einsatzorte: "Henrichshütte (mehrere Tausend), Bauernhöfe, Handwerksbetriebe, Industriebetriebe"
+  kategorien_arbeiter: "ausländische Zivilarbeiter, Ostarbeiter, Kriegsgefangene, Arbeitserziehungshäftlinge"
+  bedingungen: "menschenunwürdig"
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+

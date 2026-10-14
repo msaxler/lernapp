@@ -1,0 +1,336 @@
+ID: 348-roesrath/001
+ENTITÄT: ort
+BEZEICHNUNG: Rösrath
+QUELLE: https://www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: mehr als 1100 Jahre
+  stadtrechte_erwerb_datum: 2001-01-01
+  stadtrechte_titel: Mittlere kreisangehörige Stadt
+  superlativ: jüngste Stadt im Bergischen
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/002
+ENTITÄT: ort
+BEZEICHNUNG: Rösrath
+QUELLE: https://www.roesrath.de/freizeit-kultur/tourismus/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: mehr als 29.000
+  lage_beschreibung: Nahtstelle zwischen Millionenstadt Köln und Bergischem Land
+  charakterisierung: Tor zum Bergischen Land
+  glaube_prägung_historisch: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/003
+ENTITÄT: ort
+BEZEICHNUNG: Rösrath
+QUELLE: https://www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verkehrsanbindung_autobahn: A3
+  autobahnanschluss_seit: 2001
+  gewerbe_wohnpark: Scharrenbroich
+  bahnanbindung_seit: 1890
+  bahnlinie_von: Bensberg
+  bahnfinanzierung: Firma Reusch, Bergwerksgesellschaft Altenberg (Vieille Montagne)
+  straßenausbau_sülztal_zeitraum: Anfang 20. Jahrhundert
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/004
+ENTITÄT: ort
+BEZEICHNUNG: Rösrath
+QUELLE: https://www.roesrath.de/freizeit-kultur/tourismus/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  waldgebiet: Königsforst
+  naturschutzgebiet: Wahner Heide
+  fließgewässer: Sülz
+  verkehrserreichbarkeit_köln_dom_min: 15-20
+  verkehrserreichbarkeit_köln_messe_min: 15-20
+  verkehrserreichbarkeit_flughafen_köln_bonn_autominuten: ca. 15
+  autobahnen_nähe: A3, A4
+  kulturelle_gepräge: Karneval, drei Umzüge in Hoffnungsthal, Forsbach, Rösrath-Zentrum
+EIGENSCHAFTEN:
+  entfernung_köln_dom_zeitraum_auto: 15-20 Minuten
+  entfernung_köln_messe_zeitraum_auto: 15-20 Minuten
+  entfernung_flughafen_köln_bonn_zeitraum_auto: ca. 15 Minuten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/005
+ENTITÄT: ort
+BEZEICHNUNG: Rösrath
+QUELLE: https://www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_zeitlich: mindestens Mittelsteinzeit
+  besiedlung_nachweise: Forsbach, Wahner Heide
+  bergbau_römisch_zeitraum: 1. Jahrhundert nach Christus
+  bergbau_römisch_ort: Lüderich
+  evangelisierung_zeitraum: 16. Jahrhundert
+  evangelisierung_träger: Sächsische Bergleute
+  evangelisierung_methode: brachten evangelischen Glauben
+  evangelisierung_ort: Sülztal
+GUELTIG_AB: 1
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/006
+ENTITÄT: ort
+BEZEICHNUNG: Rösrath
+QUELLE: https://www.roesrath.de/bauen-umwelt/planen-bauen/untere-denkmalbehoerde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalförderung_jahr: 2026
+  denkmalförderung_gesamtsumme: 7.500 Euro
+  denkmalförderung_fördersatz_kirchen: bis zu 30 Prozent
+  denkmalförderung_fördersatz_private: bis zu 50 Prozent
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/007
+ENTITÄT: fließgewässer
+BEZEICHNUNG: Sülz
+QUELLE: https://www.roesrath.de/freizeit-kultur/tourismus/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: naturnahes Fließgewässer
+  nutzung: Aktivitäten und Sport an der frischen Luft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/008
+ENTITÄT: waldgebiet
+BEZEICHNUNG: Königsforst
+QUELLE: https://www.roesrath.de/freizeit-kultur/tourismus/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  größencharakterisierung: großes Waldgebiet
+  nutzung: Aktivitäten und Sport
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/009
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Wahner Heide
+QUELLE: https://www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_historisch: Mittelsteinzeitliche Besiedlungsspuren
+  nutzung: Aktivitäten und Sport an der frischen Luft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/010
+ENTITÄT: firmenbetrieb
+BEZEICHNUNG: Firma Reusch
+QUELLE: https://www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeitsfeld_ursprung: Hammerwerk
+  übernahme_hammerwerk: Ende 18. Jahrhundert
+  umwandlung: Metallverarbeitender Betrieb
+  standort: Sülztal
+  wirkung: Hebung des Lebensstandards im bitterarmen Sülztal
+  eisenbahn_finanzierung: ja, Eisenbahn von Bensberg ins Sülztal
+  eisenbahn_jahr: 1890
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 348-roesrath/011
+ENTITÄT: bergbaubetrieb
+BEZEICHNUNG: Bergwerksgesellschaft Altenberg (Vieille Montagne)
+QUELLE: https://www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung_stadt: Lüttich
+  schürfrechte_standort: Lüderich
+  schürfrechte_seit: ca. 18. Jahrhundert
+  eisenbahn_finanzierung: ja, Eisenbahn von Bensberg ins Sülztal
+  eisenbahn_jahr: 1890
+  arbeitgeber_wirkung: Beschäftigung vieler Menschen aus Rösrath und Umgebung
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 348-roesrath/012
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Kirchengemeinde Volberg
+ORTSTEIL_BEZUG: Volberg
+QUELLE: https://www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  glauben: evangelisch
+  bekehrungsjahr: 16. Jahrhundert
+  besonderheit: Gegenpol zum ansonsten katholisch geprägten Rösrath
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 348-roesrath/013
+ENTITÄT: verein
+BEZEICHNUNG: Geschichtsverein Rösrath
+QUELLE: https://www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitäten: Vorträge, Wanderungen, Führungen
+  publikationen: ja, dokumentieren geschichtliche Zusammenhänge
+  funktion: Vermittlung der Ortsgeschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 348-roesrath/014
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Eulenbroich
+QUELLE: https://www.roesrath.de/freizeit-kultur/tourismus/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bekanntheit: überregional bekannt
+  historische_nutzung: Amtssitz des Bürgermeisters, Mädcheninternat, Altenheim
+  aktuelle_nutzung: Event- und Tagungsort
+  veranstaltungstypen: Konzerte, Ausstellungen, Märkte, Lesungen, Kabarett, Comedy
+  charakterisierung: beliebter Veranstaltungsort, gern gewähltes Ausflugsziel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/015
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Eulenbroich
+QUELLE: https://www.roesrath.de/strukturierte-daten/organisationen/schloss-eulenbroich-ggmbh/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Zum Eulenbroicher Auel 19, 51503 Rösrath
+  betreiber: Schloss Eulenbroich gGmbH
+  telefon: 02205-90 100 90
+  email: info@schloss-eulenbroich.de
+  schlossmanagerin: Lisa-Ann Wittkopf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/016
+ENTITÄT: freibad
+BEZEICHNUNG: Freibad Hoffnungsthal
+ORTSTEIL_BEZUG: Hoffnungsthal
+QUELLE: https://www.roesrath.de/freizeit-kultur/tourismus/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: StadtWerke Rösrath
+  geschichte_alter: über 85 Jahre
+  charakterisierung: idyllisch gelegen
+  infrastruktur: moderne Beckenlandschaft, alter Baumbestand
+  ausstattung: Sonnen- und Schattenplätze
+  saisonalität: Sommermonate
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 348-roesrath/017
+ENTITÄT: organisation
+BEZEICHNUNG: Untere Denkmalbehörde
+QUELLE: https://www.roesrath.de/strukturierte-daten/organisationen/untere-denkmalbehoerde/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Venauen 20, 51503 Rösrath
+  email: denkmal@roesrath.de
+  telefon: 02205/802-411
+  abteilung: Fachbereich 4 - Planen, Bauen, Umwelt, Mobilität
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/018
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde St. Nikolaus Rösrath
+QUELLE: https://www.roesrath.de/soziales-bildung/zusammenleben/kirchen-glaubensgemeinschaften/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  glauben: katholisch
+  funktion: Gestaltung spirituellen und gesellschaftlichen Lebens der Stadt
+  kirchen_anzahl: 4
+  kirchorte: verschiedene Ortsteile
+  kindertagesstätten_anzahl: 3
+  jugendzentrum: JuZe
+  kooperation: gute Zusammenarbeit mit evangelischer Schwestergemeinde
+  publikation: wöchentliche Pfarrmitteilungen
+  website: katholische-kirche-roesrath.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/019
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Rösrath
+QUELLE: https://www.roesrath.de/soziales-bildung/zusammenleben/kirchen-glaubensgemeinschaften/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsjahr: 1562
+  alter_jahre: 463 (Stand 2025)
+  superlativ: älteste evangelische Kirchengemeinden im Rheinland
+  lage: in direkter Nachbarschaft zu Köln
+  kirchorte: Rösrath, Hoffnungsthal, Forsbach mit Kleineichen
+  kindertagesstätten_anzahl: 2
+  kindertagesstätten_orte: Hoffnungsthal, Rösrath
+  schwerpunkte: Seelsorge, Verkündigung, Diakonie
+  kulturangebot: ja, für Menschen zwischen 3 und 99 Lebensjahren
+  website: evkirche-roesrath.de
+GUELTIG_AB: 1562
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/020
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Christliche Gemeinde Hoffnungsthal
+ORTSTEIL_BEZUG: Hoffnungsthal
+QUELLE: https://www.roesrath.de/soziales-bildung/zusammenleben/kirchen-glaubensgemeinschaften/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: evangelische freie Gemeinde
+  übergeordneter_verband: Evangelische Gesellschaft für Deutschland KdöR
+  verband_gemeindenzahl: über 60 Gemeinden
+  gemeindehaus_ort: Hoffnungsthal
+  website: christliche-gemeinde-hoffnungsthal.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/021
+ENTITÄT: glaubensgemeinschaft
+BEZEICHNUNG: Zeugen Jehovas
+QUELLE: https://www.roesrath.de/soziales-bildung/zusammenleben/kirchen-glaubensgemeinschaften/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_rechtlich: K.d.ö.R.
+  königreichssaal_adresse: Hans-Böckler-Straße 42, 51503 Rösrath
+  telefon: 02205/898981
+  mobil: 01734528623
+  website: jw.org/de/jehovas-zeugen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/022
+ENTITÄT: organisation
+BEZEICHNUNG: Stadtteilbüro
+QUELLE: https://www.roesrath.de/soziales-bildung/zusammenleben/stadtteilbuero/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hauptstraße 44
+  funktion: Anlaufstelle für Informationen über Angebote, Einrichtungen und Projekte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1
+---
+ID: 348-roesrath/023
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Venauen
+QUELLE: https://www.roesrath.de/bauen-umwelt/planen-bauen/planungsrecht/bebauungsplaene/bp-078-schloss-venauen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bebauungsplan: BP 078
+  bebauungsplan_rechtskräftig_seit: 2007-04-04
+  bebauungsplan_änderung_1_rechtskräftig_seit: 2017-11-18
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 348-roesrath/024
+ENTITÄT: rathaus
+BEZEICHNUNG: Historisches Rathaus
+ORTSTEIL_BEZUG: Hoffnungsthal
+QUELLE: https://www.roesrath.de/freizeit-kultur/tourismus/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: historisch
+  lage_beschreibung: an der Sülz in Hoffnungsthal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 348-roesrath/025
+ENTITÄT: kirche
+BEZEICHNUNG: Ev. Kirche Volberg
+ORTSTEIL_BEZUG: Volberg
+QUELLE: https://www.roesrath.de/freizeit-kultur/tourismus/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  glauben: evangelisch
+  lage: Hoffnungsthal an der Sülz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7

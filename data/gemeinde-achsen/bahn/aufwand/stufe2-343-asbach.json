@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "343-asbach",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 14174,
+ "token_ein": 265309,
+ "token_aus": 7428,
+ "usage": {
+  "input_tokens": 16,
+  "cache_creation_input_tokens": 36538,
+  "cache_read_input_tokens": 228755,
+  "output_tokens": 7428,
+  "output_tokens_details": {
+   "thinking_tokens": 2652
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 36538,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3187,
+    "cache_read_input_tokens": 40243,
+    "cache_creation_input_tokens": 3197,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 3197
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.0115230000000002,
+ "sekunden": 114,
+ "fehler": false,
+ "zeit": "2026-10-14T10:34:10"
+}

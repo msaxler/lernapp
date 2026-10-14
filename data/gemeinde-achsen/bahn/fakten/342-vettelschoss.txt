@@ -1,0 +1,545 @@
+ID: 342-vettelschoss/001
+ENTITÄT: ort
+BEZEICHNUNG: Vettelschoß
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedelung_seit: vorchristliche, germanische Zeit
+  erste_erwaehnung: 1344
+  namensherkunft: Flurnamen Beielsberg, Beielswiese deuten auf Zeit um 1100 (Kunigunde von Bilstein) hin
+  einwohner_1660: 60
+  einwohner_1815: 352
+  einwohner_1840: 472
+  einwohner_1871: 541
+  einwohner_1895: 570
+  einwohner_1939: 1131
+  einwohner_1970: 2285
+  einwohner_1990: 2878
+  einwohner_2000: 3523
+  geschaetzte_einwohner_perspektive: 5000 (für Zeitraum 10-20 Jahre nach Baugebietserweiterung)
+  religionsverhaeltnis_um_1900: 100% katholisch
+  religionsverhaeltnis_1982: 77% katholisch, 16% evangelisch
+  verwaltungsgehoerigkeit_bis_1945: Preußische Rheinprovinz
+  verwaltungsgehoerigkeit_1945_an: Rheinland-Pfalz
+  amt_zugehoerigkeit_bis_1970: Amt Neustadt
+  verbandsgemeinde_zugehoerigkeit_ab_1970: Linz
+  kapellengemeinde_seit: 1925-09-07
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 342-vettelschoss/002
+ENTITÄT: kapelle
+BEZEICHNUNG: Michaelskapelle
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: Kapellenplatz (Ortsmitte)
+  gestiftet_von: Wilhelm v. Rennenberg, vermutlich
+  gestiftung_zeit: um 1500
+  erste_erwaehnung_filialkapelle: 1570
+  zerstoen_im: Dreißigjähriger Krieg, vermutlich
+  neubau: Ende 17. Jahrhundert
+  besonderheit_decor: Blech-Figur "Pestmann" an Ostseite
+  erinnert_an_pestjahre: 1529, 1570, 1604, 1637
+  brauch_umschreitung: Füßen (Umschreitung mit Gebeten um Erzengel Michael)
+  bestanden_bis: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/003
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche zur Heiligen Familie
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: um 1900
+  erbaut_von: Vikar Johann Klöckner
+  material: hellbraune Quadersteine
+  konsekriert: 1901
+  bischof_konsekration: Michael Felix Korum
+  grund_abriss_1968: Starke Zunahme Kirchengemeinde, mangelhafte Bauzustand wegen Kriegsschäden
+  abriss_und_neubau_beschluss: 1968
+  neubau_planer: Prof. Dahinden aus Zürich
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 342-vettelschoss/004
+ENTITÄT: kirche
+BEZEICHNUNG: Michaelskirche
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 1975-04-19
+  konsekriert: 1977-09-25
+  bischof_konsekration: Bernhard Stein
+  vorlaeufer: Kirche zur Heiligen Familie
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 342-vettelschoss/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kalenborn
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1209
+  erwaehnung_kontext: Erzbischof Dietrich von Köln verzichtet auf Wildbannrecht
+  einwohner_1817: 99
+  einwohner_1914: 187
+  einwohner_1958: 516
+  einwohner_1982: 951
+  infrastruktur_1860: Straßenbau Kretzhaus–Neustadt
+  infrastruktur_1912: Eisenbahnstrecke Linz–Altenkirchen eröffnet
+  filialkirche_seit: 1958
+  filialkirche_architektur: schlichte, zweckdienliche Konstruktionsbauweise
+GUELTIG_AB: 1209
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 342-vettelschoss/006
+ENTITÄT: steinbruch
+BEZEICHNUNG: Willscheider Berg
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abbau_beginn: 1884
+  unternehmen_initial: Zerwas & Söhne
+  unternehmen_ab_1893: BAG Linz
+  steintyp: Basalt
+  arbeiter_anfang: 50
+  arbeiter_1924: über 100
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 342-vettelschoss/007
+ENTITÄT: steinbruch
+BEZEICHNUNG: Geißen- und Türkenhügel
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1914
+  unternehmer: Gebrüder Uhrmacher
+  arbeitsplaetze: ca. 50
+  heutige_nutzung_bereich: Tennisanlage und Blauer See
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/008
+ENTITÄT: industrieanlage
+BEZEICHNUNG: Schmelzbasaltwerk
+ORTSTEIL_BEZUG: Kalenborn
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1924
+  superlativ: erstes Schmelzbasaltwerk der Welt
+  erfinder: französischer Arzt (Laborversuche)
+  verfahren: großtechnische Herstellung von Schmelzbasalt aus Basaltgestein
+  anwendung_weltweit: Schutzwerkstoff gegen Verschleiß
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 342-vettelschoss/009
+ENTITÄT: industrieanlage
+BEZEICHNUNG: Teerwerk
+ORTSTEIL_BEZUG: Kalenborn
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1930
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 342-vettelschoss/010
+ENTITÄT: unternehmen
+BEZEICHNUNG: Streif Schalungsbau
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ansiedlung_zeit: nach dem Zweiten Weltkrieg
+  grund_ansiedlung: Wirtschaftswunder, günstige Verkehrsanbindung zur Autobahn
+  entwicklung: Eine der größten Fertighausfirmen Deutschlands
+  mitarbeiter_maximum: 5000
+  hausaufbauten_pro_jahr: ca. 4500
+  krise: Niedergang der Bauwirtschaft Ende der 70er Jahre, Umstrukturierungen
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 342-vettelschoss/011
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberwillscheid
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand_bis_19_jh_ende: nur Geroltshof
+  geroltshof_erste_erwaehnung: 1239
+  geroltshof_lehnsgut_herren: Herren zur Leyen (Burg Ockenfels)
+  geroltshof_neue_besitzer_1439: Dietrich von Monreal (durch Heirat)
+  geroltshof_besitzdauer_monreal_nachkommen: bis 1623
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/012
+ENTITÄT: hof
+BEZEICHNUNG: Katharinenhof
+ORTSTEIL_BEZUG: Kalenborn
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: ältester Kalenborner Hof
+  lage: Weg von Schweifeld nach St. Katharinen
+  erste_erwaehnung: 1509
+  eigentuemer_1509: Kloster
+  pacht_leistung: 4 Sester Hafer, 1 Rauchhuhn zu Martini
+  schaeden: 1778 abgebrannt
+GUELTIG_AB: 1509
+GUELTIG_BIS: 1778
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/013
+ENTITÄT: hof
+BEZEICHNUNG: Antoniushof
+ORTSTEIL_BEZUG: Kalenborn
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwaehnt: 1660
+GUELTIG_AB: 1660
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+---
+ID: 342-vettelschoss/014
+ENTITÄT: hof
+BEZEICHNUNG: Geroltshof
+ORTSTEIL_BEZUG: Oberwillscheid
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1239
+  status: Lehnsgut
+  lehnsherr: Herren zur Leyen
+  burg: Burg Ockenfels
+  neue_besitzer: Dietrich von Monreal (1439, durch Heirat)
+  besitzdauer_monreal_nachkommen: bis 1623
+GUELTIG_AB: 1239
+GUELTIG_BIS: 1623
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/015
+ENTITÄT: hof
+BEZEICHNUNG: Klaushof
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruengliche_nutzung: Aussiedlerhof des Landwirts Johannes Kröll
+  zeit_nutzung: seit 1965
+  zeit_aufgegeben: in den 80er Jahren
+  aktueller_eigentuemer: Familie Wirtgen
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/016
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm v. Rennenberg
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1470-1533
+  status: Reichsritterschaft, Herr
+  besitztümer: Vettelschoß, Kau, Seiferhof, Willscheid, Oberwillscheid, Kalenborn
+  stiftung: wahrscheinlich Michaelskapelle
+GUELTIG_AB: 1470
+GUELTIG_BIS: 1533
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 342-vettelschoss/017
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Kunigunde von Bilstein
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: um 1100
+  indikation: Flurnamen Beielsberg, Beielswiese und Name Vettelschoß deuten auf ihre Zeit hin
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+---
+ID: 342-vettelschoss/018
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Mechtild von Sayn
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Vermittlerin - Besitzungen gingen über sie an Herren von Rennenberg
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+---
+ID: 342-vettelschoss/019
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Peter von Neuerod
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Oberplag
+  vermaechtnis_jahr: 1540
+  vermaechtnisbetraeg_schaetzung: erheblicher privater Besitz
+  vermaechtnisbestaetigung: "Gott und der heiligen Kirch bei Asbach"
+GUELTIG_AB: 1540
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/020
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Klöckner
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Vikar
+  status: 1896 erster eigener Geistlicher Vettelschoß
+  leistung: Erbau der Kirche zur Heiligen Familie um 1900
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 342-vettelschoss/021
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gottfried Amdohr
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: im Ruhestand lebender Geistlicher
+  dienst: Sonntagsgottesdienst in Vettelschoß
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1818
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/022
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Vikar Völgen
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Vikar
+GUELTIG_AB: 1820
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+---
+ID: 342-vettelschoss/023
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Pastor Grundhewer
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pfarrer von Neustadt
+  dienst_zeit_neustadt: 1849-1856
+  leistung: sorgte für regelmäßigen Sonntagsgottesdienst in Vettelschoß
+GUELTIG_AB: 1849
+GUELTIG_BIS: 1856
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/024
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Anton Stockhausen
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stiftung_jahr: 1862
+  stiftung_betrag: 735 Taler
+  stiftung_zweck: regelmäßiger Sonntagsgottesdienst in Vettelschoß
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 342-vettelschoss/025
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bischof Michael Felix Korum
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: Konsekriierung der Kirche zur Heiligen Familie
+  handlung_jahr: 1901
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bischof Bernhard Stein
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: Konsekriierung der Michaelskirche
+  handlung_jahr: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/027
+ENTITÄT: ereignis
+BESCHREIBUNG: Ludendorff-Brücke Besetzung durch US-Truppen
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location_bruecke: zwischen Remagen und Erpel
+  zeit: März 1945
+  kriegsergebnis: Brückenkopf auf rechter Rheinseite
+  auswirkung_vettelschoss: heftige Bodenkämpfe, Bodenschäden, zivile Opfer
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 342-vettelschoss/028
+ENTITÄT: ereignis
+BESCHREIBUNG: Kriegszerstoerungen Vettelschoß 1945
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: März 1945
+  betroffene_ortsteile: Kalenborn, Oberwillscheid, Kretzhaus
+  schaeden: Häuser stark beschädigt bis völlig zerstört
+  ursache: Heftige Bodenkämpfe nach US-Einnahme Ludendorff-Brücke
+  militaerische_infrastruktur: Munitionslager zwischen Asberg und Bruchhausen, Abschußrampen für V2-Raketen
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 342-vettelschoss/029
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche
+ORTSTEIL_BEZUG: Vettelschoß
+QUELLE: https://www.vettelschoss.de/miteinander/kirchen/evangelische-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  seit: 1967
+  begleitet: Gemeindezentrum seit 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 342-vettelschoss/030
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Neustadt-Vettelschoß
+QUELLE: https://www.vettelschoss.de/miteinander/kirchen/evangelische-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 1981 (eigenständig)
+  umfasst_ortsgemeinden: Neustadt, Vettelschoß, Windhagen, St. Katharinen
+  umfasst_verbandsgemeiden: Linz, Asbach
+  kirchenkreis: An Sieg und Rhein
+  gemeindemitglieder: 2600
+  pfarrer: Bernd Peters
+  presbyterium_vorsitz: Bernd Peters
+  schwerpunkte: Kinder- und Jugendarbeit, Diakonie, Gottesdienste
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 342-vettelschoss/031
+ENTITÄT: gemeindezentrum
+BEZEICHNUNG: Gemeindezentrum Vettelschoß
+QUELLE: https://www.vettelschoss.de/miteinander/kirchen/evangelische-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seit: 1976
+  kirche_nachbarschaft: Johanneskirche
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 342-vettelschoss/032
+ENTITÄT: gemeindezentrum
+BEZEICHNUNG: Gemeindezentrum Neustadt
+QUELLE: https://www.vettelschoss.de/miteinander/kirchen/evangelische-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seit: 1995
+  kirche: Christuskirche
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 342-vettelschoss/033
+ENTITÄT: kindertagesstaette
+BEZEICHNUNG: Evangelische Kindertagesstätte Neustadt
+QUELLE: https://www.vettelschoss.de/miteinander/kirchen/evangelische-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seit: 1994
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 342-vettelschoss/034
+ENTITÄT: gelaende
+BEZEICHNUNG: Freiluftgottesdienst-Gelände Hohn
+ORTSTEIL_BEZUG: Windhagen
+QUELLE: https://www.vettelschoss.de/miteinander/kirchen/evangelische-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigentuemer: Evangelische Kirchengemeinde Neustadt-Vettelschoß
+  nutzung: Freiluftgottesdienste
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 342-vettelschoss/035
+ENTITÄT: buecherei
+BEZEICHNUNG: Katholische öffentliche Bücherei St. Michael
+QUELLE: https://www.vettelschoss.de/miteinander/kirchen/koeb/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: Erdgeschoß der Kirche St. Michael
+  pfarrei: St. Katharina und St. Michael
+  pfarreiengemeinschaft: Linz am Rhein
+  medienbestand: Bücher, Hörbücher, CDs, Gesellschaftsspiele
+  betrieb: Ehrenamtliches Team
+  schwerpunkt: Leseförderung in Grundschulen und Kindergärten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 342-vettelschoss/036
+ENTITÄT: pfarrei
+BEZEICHNUNG: Pfarrei St. Katharina und St. Michael
+QUELLE: https://www.vettelschoss.de/miteinander/kirchen/katholische-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarreiengemeinschaft: Linz am Rhein
+  pastor: Lothar Anhalt
+  pfarrbueroleitung: Diana Ritzdorff
+  gottesdienst_vettelschoss: Sonntags 11:00 Uhr
+  gottesdienst_kalenborn: Freitags 08:30 Uhr
+  gottesdienst_st_katharinen: Samstags 18:00 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 342-vettelschoss/037
+ENTITÄT: museum
+BEZEICHNUNG: Dorfmuseum
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/in-und-um-vettelschoss/dorfmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location_gebaeude: Schmitzhof (Fachwerkhaus)
+  gebaeude_baujahr: ca. 1640
+  gebaeude_frueherer_eigentuemer_bis: Kloster St. Katharinen (bis 1803)
+  museum_seit: 2010
+  museum_thema: Zeit von 1900-1910
+  renovierung: durch Gemeinde mit Helfern aus Dorfgemeinde
+  spezialitaet: Heimstatt der Heinzelmännchen der Ortsgemeinde
+  veranstaltung_jaehrlich: Weihnachtsmarkt (1. Adventssonntag)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 342-vettelschoss/038
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bernd Peters
+QUELLE: https://www.vettelschoss.de/miteinander/kirchen/evangelische-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pfarrer der Evangelischen Kirchengemeinde Neustadt-Vettelschoß
+  zusatzrolle: Vorsitzender des Presbyteriums
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 342-vettelschoss/039
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Lothar Anhalt
+QUELLE: https://www.vettelschoss.de/miteinander/kirchen/katholische-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pastor der Pfarrei St. Katharina und St. Michael
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/040
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Diana Ritzdorff
+QUELLE: https://www.vettelschoss.de/miteinander/kirchen/katholische-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pfarrbüroleitung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 342-vettelschoss/041
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Norbert Rohringer
+QUELLE: https://www.vettelschoss.de/gemeinde-vettelschoss/in-und-um-vettelschoss/dorfmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Ortsbürgermeister
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

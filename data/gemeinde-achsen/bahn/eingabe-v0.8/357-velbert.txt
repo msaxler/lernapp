@@ -1,0 +1,901 @@
+ZIELORT: Velbert (Stadt)
+LAGE: 12 km nordwestlich von Wuppertal (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Velbert
+
+GRUNDDATEN:
+  bundesland: Nordrhein-Westfalen  [dewiki Infobox]
+  einwohner: 82.166  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 74,9  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1097  [berechnet aus Einwohner und Fläche]
+  kfz: ME (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 230 | 248 | 245 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2817724)]
+  naechste_grossstadt: Wuppertal, 12 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 23 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Kopfstation, Bahnhof Velbert-Langenberg, Bahnhof Velbert-Rosenhügel, Haltepunkt Velbert-Nierenhof, Velbert Hauptbahnhof  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 42549–42555  [Wikidata P281]
+  vorwahl: 02051, 02052, 02053  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29 %, SPD 20,1 %, AfD 20 %, GRÜNE 9,7 %, Die Linke 7,8 %, BSW 5,1 %; Wahlbeteiligung 82 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Dirk Lukrafka (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-14]
+  partnerstaedte: Châtellerault, Corby, Igoumenitsa, Hacıbektaş, Podujeva, Morąg  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Wuppertal (Stadt)
+  einwohner: 357.243  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 168,39  [Wikidata P2046; Altbestand staedte.json]
+  kfz: W (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 160 | 157 | 150 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2805753)]
+  naechste_grossstadt: Wuppertal, 3 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Dornap-Hahnenfurth, Bahnhof Wuppertal Zoologischer Garten, Bahnhof Wuppertal-Barmen, Bahnhof Wuppertal-Beyenburg, Bahnhof Wuppertal-Cronenberg, Bahnhof Wuppertal-Döppersberg, Bahnhof Wuppertal-Küllenhahn, Bahnhof Wuppertal-Loh, Bahnhof Wuppertal-Mirke, Bahnhof Wuppertal-Oberbarmen, Bahnhof Wuppertal-Ottenbruch, Bahnhof Wuppertal-Ronsdorf, Bahnhof Wuppertal-Steinbeck, Bahnhof Wuppertal-Unterbarmen, Bahnhof Wuppertal-Varresbeck, Bahnhof Wuppertal-Vohwinkel, Bahnhof Wuppertal-Wichlinghausen, Haltepunkt Wuppertal-Langerfeld, Haltepunkt Wuppertal-Sonnborn, Wuppertal Hauptbahnhof  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 24,5 %, SPD 20,3 %, AfD 17,8 %, GRÜNE 12,7 %, Die Linke 11,4 %, BSW 5,2 %; Wahlbeteiligung 78,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen
+
+FAKTEN (Zielort Velbert):
+ID: 357-velbert/001
+ENTITÄT: ort
+BEZEICHNUNG: Velbert
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 875
+  lage_geografisch: Nordosten des Kreises Mettmann, zentral zwischen Düsseldorf, Essen und Wuppertal
+  flaeche_gesamt: 74.911 km²
+  einwohnerzahl: 84733
+  einwohnerzahl_stand: 30.09.2026
+  auslaendische_mitbuerger: 15340
+  auslaendische_mitbuerger_prozent: 18.1
+  breitengrad: 51° 20' nördliche Breite
+  laengengrad: 07° 05' östliche Länge
+  nord_sued_ausdehnung: 10.0 km
+  ost_west_ausdehnung: 11.7 km
+  hoechster_punkt: 303 m über NN (Kuppe Fettenberger Weg, Neviges)
+  niedrigster_punkt: 70.6 m über NN (Deilbach an Grenze zu Essen, Langenberg)
+  formation_zusammenschluss: 1975
+  element_zusammenschluss_1: Velbert
+  element_zusammenschluss_2: Langenberg
+  element_zusammenschluss_3: Neviges
+  bundesland: Nordrhein-Westfalen
+  landkreis: Kreis Mettmann
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Velbert-Mitte
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 50543
+  einwohnerzahl_prozent: 59.64
+  flaeche: 26.863 km²
+  postleitzahlen: 42551, 42549
+  vorwahl: 02051
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Velbert-Langenberg
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 15552
+  einwohnerzahl_prozent: 18.35
+  flaeche: 19.790 km²
+  postleitzahl: 42555
+  vorwahl: 02052
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Velbert-Neviges
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 18638
+  einwohnerzahl_prozent: 21.99
+  flaeche: 28.258 km²
+  postleitzahl: 42553
+  vorwahl: 02053
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/005
+ENTITÄT: kirche
+BEZEICHNUNG: Kapelle der heiligen Ida
+ORTSTEIL_BEZUG: Velbert (Stelle der heutigen Alten Kirche)
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: um 1000
+  funktion: Kirchenbau
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1000
+GUELTIG_BIS: 1000
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/006
+ENTITÄT: kirche
+BEZEICHNUNG: Kapelle der Heiligen Margarethe
+ORTSTEIL_BEZUG: Windrath
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: um 1000
+  funktion: Kirchenbau
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1000
+GUELTIG_BIS: 1000
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/007
+ENTITÄT: herrschaft
+BEZEICHNUNG: Hardenberg
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_hinweise: 1220
+  gebiet_umfang: 16 Bauernschaften
+  gebiet_ausdehnung: von Dönberg bis Voßnacken
+  verkauf_an_graf_von_berg_und_ravensberg: 1354
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1220
+GUELTIG_BIS: 1354
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/008
+ENTITÄT: wirtschaft_industrie
+BEZEICHNUNG: Bergbau
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_belege: 1301
+  beschreibung: Bergbau im Velberter Raum
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1301
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/009
+ENTITÄT: bauwerk
+BEZEICHNUNG: Offers
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1326
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/010
+ENTITÄT: ereignis_historisch
+BESCHREIBUNG: Reformation in Velbert
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1560
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1560
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/011
+ENTITÄT: synode
+BEZEICHNUNG: Erste Bergische Synode
+ORTSTEIL_BEZUG: Neviges
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_veranstaltung: 1589
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1589
+GUELTIG_BIS: 1589
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/012
+ENTITÄT: ortsteil_eigenschaft
+BEZEICHNUNG: Neviges
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wallfahrtsort_seit: 1681
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1681
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/013
+ENTITÄT: wirtschaft_industrie
+BEZEICHNUNG: Schlösser und Beschläge
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ruf_europa_seit: ab 1700
+  beschreibung: Velbert macht sich in Europa einen Namen als Herkunftsort von Schlössern und Beschlägen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1700
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/014
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Velbert-Mitte
+ORTSTEIL_BEZUG: Velbert-Mitte
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1769
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1769
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/015
+ENTITÄT: kirche
+BEZEICHNUNG: Synagoge Langenberg
+ORTSTEIL_BEZUG: Langenberg
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_steinerne_synagoge_bergisches_land: true
+  erbauung: 1802
+  lage_historisch: heutige Kuhstraße
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1802
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/016
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus Velbert
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstes_rathaus_erbauung: 1839
+  lage_historisch: spätere Friedrichstraße / Ecke Kolpingstraße
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1839
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/017
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Eisenbahnlinie Steele-Vohwinkel
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1847
+  verlauf: über Langenberg und Neviges
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1847
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/018
+ENTITÄT: zeitung
+BEZEICHNUNG: Zeitungs-Bote
+ORTSTEIL_BEZUG: Langenberg
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erscheinungsjahr: 1849
+  erste_lokale_zeitung_langenberg: true
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1849
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/019
+ENTITÄT: wirtschaft_industrie
+BEZEICHNUNG: Eisengießerei Velbert
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_eisengiesserey_velbert: true
+  erbauung: 1851
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1851
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/020
+ENTITÄT: technologie_installation
+BEZEICHNUNG: Dampfmaschine Velbert
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_dampfmaschine_aufstellung: 1861
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1861
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/021
+ENTITÄT: unternehmen
+BEZEICHNUNG: David Peters
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_sozialversicherung: 1861
+  leistung: Unterstützungskasse für Krankheit und Sterbefälle
+  beschreibung: Grundstein zu umfangreichem betrieblichen Sozialversicherungssystem
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1861
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/022
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Eisenbahnanschluss Velbert
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschluss_eisenbahnnetz: 1888
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1888
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/023
+ENTITÄT: bauwerk
+BEZEICHNUNG: Langenberger Bürgerhaus
+ORTSTEIL_BEZUG: Langenberg
+QUELLE: https://www.velbert.de/kultur/historisches-buergerhaus-langenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 1913
+  eroeffnung: 1916
+  gruender_1: Sophie Colsman
+  gruender_2: Adalbert Colsman
+  gruender_beruf: Seidenfabrikanten
+  gruender_massnahme: Stiftung 1913
+  denkmalschutz_seit: 1982
+  kernsanierung_zeitraum: 2006-2016
+  architektur: schlossartig mit Türmen, Erkern, imposanten Sälen und Bürgerhaustreppe
+  nutzung: kulturelle und künstlerische Veranstaltungen, soziales Leben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/024
+ENTITÄT: kunstwerk_installation
+BEZEICHNUNG: Grundsteinkisten
+ORTSTEIL_BEZUG: Langenberg
+QUELLE: https://www.velbert.de/kultur/historisches-buergerhaus-langenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_exponate: 395
+  installation_seit: Sommer 2016
+  breite: 28 m
+  hoehe: 3.5 m
+  gewicht: 6.5 t
+  kuenstler: Norbert Bauer und weitere namhafte Künstler
+  verein: Kunsthaus Langenberg e.V. gegründet 1994
+  zweck: Benefizprojekt zur Finanzierung des Kunstvereins und Kunstförderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/025
+ENTITÄT: person_politisch
+BEZEICHNUNG: Anna Küpper
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/frauenwahlrecht | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 23.10.1854
+  geburt_ort: Cronenberg (heute Wuppertal)
+  religion: evangelisch
+  familienstand: verheiratet
+  kinder_anzahl: 5
+  wohnort_seit: 1908
+  wohnort: Neviges
+  tod_datum: 06.09.1931
+  tod_ort: Neviges
+  wahl_datum: 02.03.1919
+  wahl_gremium: Stadtverordnetenversammlung Neviges
+  wahl_partei: USPD
+  wahl_ergebnis: erste und einzige Frau gewählt
+  mandate_niederlegung_datum: 07.06.1922
+  beschreibung: erste Frau in Neviges, Mitglied in Gesundheitskommission, Wohlfahrtskommission, Kommission für Schulbildung und Jugendpflege
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1922
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/026
+ENTITÄT: person_politisch
+BEZEICHNUNG: Elisabeth von der Heydt
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/frauenwahlrecht | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 25.01.1882
+  geburt_ort: Hückeswagen
+  religion: katholisch
+  familienstand: verheiratet
+  kinder_anzahl: 1
+  wohnort_seit: 1911
+  wohnort: Velbert-Mitte
+  tod_datum: 01.12.1959
+  tod_ort: Velbert-Mitte
+  wahl_datum: 23.02.1919
+  wahl_gremium: Stadtverordnetenversammlung Velbert
+  wahl_partei: USPD
+  mandate_niederlegung_datum: 22.11.1921
+  beschreibung: Mitarbeit im Ausschuss für Jugendpflege, Kuratorium der höheren Mädchenschule, Wohlfahrts- und Waisenpflege
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1921
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/027
+ENTITÄT: person_politisch
+BEZEICHNUNG: Hulda Wiemann
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/frauenwahlrecht | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 12.11.1879
+  geburt_ort: Gräfrath (heute Solingen)
+  religion: evangelisch
+  familienstand: verheiratet
+  kinder_anzahl: 2
+  wohnort_seit: 1904
+  wohnort: Velbert-Mitte
+  tod_datum: 04.11.1960
+  tod_ort: Velbert-Mitte
+  wahl_datum: 23.02.1919
+  wahl_gremium: Stadtverordnetenversammlung Velbert
+  wahl_partei: SPD
+  mandate_niederlegung_datum: 28.07.1920
+  beschreibung: Mitarbeit im Ausschuss für Jugendpflege
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1920
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/028
+ENTITÄT: person_politisch
+BEZEICHNUNG: Ida Bröcker
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/frauenwahlrecht | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 25.08.1876
+  geburt_ort: Gräfrath (heute Solingen)
+  religion: evangelisch/keiner Religionsgemeinschaft zugehörig
+  familienstand: verheiratet
+  kinder_anzahl: 5
+  wohnort_seit: 1900
+  wohnort: Velbert-Mitte
+  ausgemeldung_datum: 29.01.1920
+  ausgemeldung_ort: Ahlen
+  tod_datum: 15.12.1955
+  tod_ort: Hamm/Westfalen
+  wahl_datum: 23.02.1919
+  wahl_gremium: Stadtverordnetenversammlung Velbert
+  wahl_partei: SPD
+  mandate_niederlegung_datum: 18.12.1919
+  beschreibung: Mitarbeit im Ausschuss für Jugendpflege, Schuldeputations- und Lebensmittelausschuss
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1919
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/029
+ENTITÄT: person_politisch
+BEZEICHNUNG: Maria Martels
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/frauenwahlrecht | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 20.11.1887
+  geburt_ort: Neviges (heute Velbert)
+  religion: katholisch
+  familienstand: ledig
+  beruf: Lehrerin
+  wohnort_seit: 1918
+  wohnort: Velbert-Mitte
+  tod_datum: 31.12.1976
+  tod_ort: Velbert-Neviges
+  wahl_datum_1: 23.02.1919
+  wahl_ergebnis_1: nicht gewählt
+  nachrueçkverfahren_datum: 08.01.1924
+  nachrueçkverfahren_gremium: Stadtverordnetenversammlung Velbert
+  nachrueçkverfahren_partei: Zentrums-Partei
+  wahl_datum_2: 04.05.1924
+  wahl_ergebnis_2: nicht mehr als Kandidatin aufgestellt
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1924
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/030
+ENTITÄT: person_politisch
+BEZEICHNUNG: Anna Schulte
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/frauenwahlrecht | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 22.09.1887
+  geburt_ort: Emden
+  religion: keiner Religionsgemeinschaft zugehörig
+  familienstand: verheiratet
+  kinder_anzahl: 1
+  wohnort_seit: 1922
+  wohnort: Langenberg
+  umzug_datum: 1926
+  umzug_ort: Emden
+  tod_datum: 28.06.1952
+  tod_ort: Plauen
+  wahl_datum: 04.05.1924
+  wahl_gremium: Stadtrat Langenberg
+  wahl_partei: KPD
+  wahl_ergebnis: erste Frau in Stadtrat von Langenberg
+  aemter_niederlegung_datum: 16.04.1926
+  beschreibung: Mitarbeit im Gesundheitsausschuss, Bürgerhausausschuss, Zentralausschuss der Wohlfahrtskommission
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1924
+GUELTIG_BIS: 1926
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/031
+ENTITÄT: person_politiker
+BEZEICHNUNG: Heinz Schemken
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/velberter-buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partei: CDU
+  amt: Bürgermeister
+  amtszeit_1: 1975-1984
+  amtszeit_2: 1989-1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/032
+ENTITÄT: person_politiker
+BEZEICHNUNG: Klaus Mülhoff
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/velberter-buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partei: SPD
+  amt: Bürgermeister
+  amtszeit: 1984-1989
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/033
+ENTITÄT: person_politiker
+BEZEICHNUNG: Bernd Tondorf
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/velberter-buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partei: CDU
+  amt: Bürgermeister
+  amtszeit: 1998-1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/034
+ENTITÄT: person_politiker
+BEZEICHNUNG: Hanns-Friedrich Hörr
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/velberter-buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partei: CDU
+  amt_1: Bürgermeister
+  amtszeit_1: 1999-2004
+  amt_2: Oberbürgermeister/Obermeister
+  amtszeit_2_obermeister: 1995-1999
+  beschreibung: erster direkt gewählter Bürgermeister 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/035
+ENTITÄT: person_politiker
+BEZEICHNUNG: Stefan Freitag
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/velberter-buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partei: parteilos
+  amt: Bürgermeister
+  amtszeit: 2004-2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/036
+ENTITÄT: person_politiker
+BEZEICHNUNG: Dirk Lukrafka
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte/velberter-buergermeister | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partei: CDU
+  amt: Bürgermeister
+  amtszeit_von: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/037
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Hardenberg
+QUELLE: https://www.velbert.de/kultur/schloss-hardenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 28.12.1354
+  ursprung: Verteidigungsanlage und Wohnsitz der Hardenberger Herren
+  mittelalter_funktion: Renditeobjekt adliger Familien
+  kauf_stadt_velbert: 1939
+  umwandlung_naturerlebniszentrum_bis: 2026
+  superlativ: ältestes kulturell genutztes Baudenkmal im Kreis Mettmann
+  bauwerk_zusatz: Vorburg in Hufeisenform mit Stallungen und Verwaltung
+  beschreibung: wertvollen Kasematten (unterirdische Verteidigungsanlagen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/038
+ENTITÄT: bauwerk_symbiotisch
+BEZEICHNUNG: Vorburg Schloss Hardenberg
+QUELLE: https://www.velbert.de/kultur/schloss-hardenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Veranstaltungsort für kulturelle, geschäftliche und private Events
+  architektur: Hufeisenform vor dem Herrenhaus
+  historische_funktion: Stallungen und Verwaltung
+  besonderheit: Standesamt Velbert führt Trauungen durch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/039
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Stadt Velbert
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geltung_seit: 1975
+  heraldische_beschreibung: silberner Schlüssel auf rotem Grund, Knauf mit grünem Eichenblatt, Bart mit schwarzem Doppelsparren
+  designer: Walther Bergmann
+  symbolik_schluessel: bedeutende Schloss- und Beschlägeindustrie
+  symbolik_eichenblatt: jahrhundertealter Eichenbestand auf Anhöhe Langenbergs
+  symbolik_doppelsparren: frühere Grundherrschaft Hardenberg
+  symbolik_farben: Rot und Silber, einstige territoriale Zugehörigkeit zur Grafschaft Berg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/040
+ENTITÄT: wappen_historisch
+BEZEICHNUNG: Wappen Alt-Velbert
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldische_beschreibung: Bergischer Löwe, in rechter Pranke zwei blaue Schlüssel wie Andreaskreuz, Bärte nach oben und außen
+  geltung_bis: 1975
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1975
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/041
+ENTITÄT: wappen_historisch
+BEZEICHNUNG: Wappen Langenberg
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldische_beschreibung: unter blauem Schildhaupt mit schwebendem, langgezogenen, silbernen Dreiberg, in Silber auf blauem Dreiberg eine stilisierte rote Eiche mit roten Früchten
+  geltung_bis: 1975
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1975
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/042
+ENTITÄT: wappen_historisch
+BEZEICHNUNG: Wappen Neviges
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldische_beschreibung: in Rot auf silbernem Boden durch blauer Bach (Navigisa), rechts stehender silberner Turm mit zwei Schießscharten, kleinem Spitzdach mit drei Fenstern, aus linkem Fenster hängt schwarze Schildfessel mit silbernem Schild mit zwei Sparren (Hardenberg)
+  dachfarbe_abweichung: blau statt ursprüngliche Fassung
+  geltung_bis: 1975
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1975
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 357-velbert/043
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Schloss- und Beschlägemuseum
+ORTSTEIL_BEZUG: Velbert-Mitte
+QUELLE: https://www.velbert.de/kultur/deutsches-schloss-und-beschlaegemuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_original: 1929
+  wiederoeffnung: Oktober 2021
+  thema: 4000 Jahre Entwicklung der Schließtechnik
+  lage: Heinz-Schemken-Platz 1 (Navi: Oststr. 12)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/044
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirchengemeinde Velbert
+QUELLE: https://www.velbert.de/stadtleben/kirchen/evangelische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Träger Kirchenkreis Niederberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/045
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirchengemeinde Langenberg
+QUELLE: https://www.velbert.de/stadtleben/kirchen/evangelische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil: Langenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/046
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelisch-reformierte Kirchengemeinde Neviges
+QUELLE: https://www.velbert.de/stadtleben/kirchen/evangelische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil: Neviges
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/047
+ENTITÄT: kirche
+BEZEICHNUNG: Alte Kirche Velbert
+ORTSTEIL_BEZUG: Velbert-Mitte
+QUELLE: https://www.velbert.de/stadtleben/kirchen/evangelische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelegenheit_gottesdienst: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/048
+ENTITÄT: kirche
+BEZEICHNUNG: Markuskirche
+ORTSTEIL_BEZUG: Velbert
+QUELLE: https://www.velbert.de/stadtleben/kirchen/evangelische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelegenheit_gottesdienst: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/049
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+ORTSTEIL_BEZUG: Velbert-Mitte
+QUELLE: https://www.velbert.de/stadtleben/kirchen/evangelische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelegenheit_gottesdienst: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/050
+ENTITÄT: kirche
+BEZEICHNUNG: Apostelkirche
+ORTSTEIL_BEZUG: Dalbecksbaum
+QUELLE: https://www.velbert.de/stadtleben/kirchen/evangelische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelegenheit_gottesdienst: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/051
+ENTITÄT: kirche
+BEZEICHNUNG: Erlöserkirche
+ORTSTEIL_BEZUG: Dalbecksbaum
+QUELLE: https://www.velbert.de/stadtleben/kirchen/evangelische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelegenheit_gottesdienst: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/052
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirchengemeinde St. Michael und St. Paulus
+QUELLE: https://www.velbert.de/stadtleben/kirchen/katholische-kirchengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil_haupkirche: Langenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/053
+ENTITÄT: kirche
+BEZEICHNUNG: Mariendom Neviges
+ORTSTEIL_BEZUG: Neviges
+QUELLE: https://www.velbert.de/stadtleben/kirchen/katholische-kirchengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Wallfahrtskirche
+  adr: Elberfelder Str. 12
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/054
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Mariä Empfängnis
+ORTSTEIL_BEZUG: Neviges
+QUELLE: https://www.velbert.de/stadtleben/kirchen/katholische-kirchengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelegenheit_gottesdienst: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/055
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Antonius
+ORTSTEIL_BEZUG: Tönisheide
+QUELLE: https://www.velbert.de/stadtleben/kirchen/katholische-kirchengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelegenheit_gottesdienst: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/056
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Marien
+ORTSTEIL_BEZUG: Velbert-Mitte
+QUELLE: https://www.velbert.de/stadtleben/kirchen/katholische-kirchengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelegenheit_gottesdienst: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/057
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Joseph
+ORTSTEIL_BEZUG: Velbert-Mitte
+QUELLE: https://www.velbert.de/stadtleben/kirchen/katholische-kirchengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelegenheit_gottesdienst: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/058
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Don Bosco
+ORTSTEIL_BEZUG: Dalbecksbaum
+QUELLE: https://www.velbert.de/stadtleben/kirchen/katholische-kirchengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelegenheit_gottesdienst: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/059
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Paulus
+ORTSTEIL_BEZUG: Dalbecksbaum
+QUELLE: https://www.velbert.de/stadtleben/kirchen/katholische-kirchengemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelegenheit_gottesdienst: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/060
+ENTITÄT: kirchliche_einrichtung
+BEZEICHNUNG: Caritas-Pflegestation
+QUELLE: https://www.velbert.de/stadtleben/kirchen/kirchliche-einrichtungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Caritasverband Kreis Mettmann
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/061
+ENTITÄT: kirchliche_einrichtung
+BEZEICHNUNG: Bergische Diakonie
+QUELLE: https://www.velbert.de/stadtleben/kirchen/kirchliche-einrichtungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abteilung: Soziale Dienste Niederberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/062
+ENTITÄT: sender
+BEZEICHNUNG: Sender Langenberg
+ORTSTEIL_BEZUG: Langenberg
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1927
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1927
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 357-velbert/063
+ENTITÄT: ereignis_historisch
+BESCHREIBUNG: Kommunale Neugliederung
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1975
+  beschreibung: Zusammenschluss von Langenberg, Neviges und Velbert zur Stadt Velbert
+  auswirkung_verwaltung: Bildung der neuen Stadt Velbert mit drei Stadtbezirken
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1975
+GUELTIG_BIS: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/064
+ENTITÄT: partnerschaft_stadt
+BEZEICHNUNG: Städtepartnerschaft Velbert-Corby
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadt_1: Velbert
+  stadt_2: Corby
+  stadt_2_land: England
+  gruentung_jahr: 1979
+  besonderheit: Dreier-Städtepartnerschaft mit Châtellerault
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1979
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/065
+ENTITÄT: partnerschaft_stadt
+BEZEICHNUNG: Städtepartnerschaft Velbert-Châtellerault
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadt_1: Velbert
+  stadt_2: Châtellerault
+  stadt_2_land: Frankreich
+  gruendung_jahr: 1979
+  besonderheit: Dreier-Städtepartnerschaft mit Corby
+  jubilaeum_60_jahre_als_von: 1965
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1979
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 357-velbert/066
+ENTITÄT: ereignis_historisch
+BESCHREIBUNG: Stadtjubiläum 50 Jahre Velbert
+QUELLE: https://www.velbert.de/stadtleben/stadt-velbert/wappen/logo-stadtjubilaeum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2025
+  anlass: 50. Jahrestag der Kommunalen Neugliederung 1975
+  motto: aus Drei mach eins
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2025
+GUELTIG_BIS: 2025
+VERTRAUEN_EXTRAKTION: 0.90
+

@@ -23788,6 +23788,18 @@ window.QA_DATEN = {
 "187-remagen": [
 "Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Andernach zum Landkreis Mayen-Koblenz.",
 "Andernach hat gut anderthalbmal so viele Einwohner wie Remagen."
+],
+"333-rheinbrohl": [
+"Kreisgrenze: Rheinbrohl gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat siebenmal so viele Einwohner wie Rheinbrohl."
+],
+"334-leubsdorf": [
+"Kreisgrenze: Leubsdorf gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat neunzehnmal so viele Einwohner wie Leubsdorf."
+],
+"336-erpel": [
+"Kreisgrenze: Erpel gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat zwölfmal so viele Einwohner wie Erpel."
 ]
 },
 "ags": "07137003",
@@ -23957,6 +23969,14 @@ window.QA_DATEN = {
 "185-bad-breisig": [
 "Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Weißenthurm zum Landkreis Mayen-Koblenz.",
 "Bundestagswahl 2025: In Bad Breisig lag die CDU vorn, in Weißenthurm die AfD."
+],
+"333-rheinbrohl": [
+"Kreisgrenze: Rheinbrohl gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Rheinbrohl lag die CDU vorn, in Weißenthurm die AfD."
+],
+"334-leubsdorf": [
+"Kreisgrenze: Leubsdorf gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Leubsdorf lag die CDU vorn, in Weißenthurm die AfD."
 ]
 },
 "ags": "07137228",
@@ -60993,6 +61013,42 @@ window.QA_DATEN = {
 "187-remagen": [
 "Remagen hat fast doppelt so viele Einwohner wie Bad Breisig."
 ],
+"333-rheinbrohl": [
+"Kreisgrenze: Rheinbrohl gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat fast zweieinhalbmal so viele Einwohner wie Rheinbrohl."
+],
+"334-leubsdorf": [
+"Kreisgrenze: Leubsdorf gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat sechsmal so viele Einwohner wie Leubsdorf."
+],
+"335-unkel": [
+"Kreisgrenze: Unkel gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat fast doppelt so viele Einwohner wie Unkel."
+],
+"336-erpel": [
+"Kreisgrenze: Erpel gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat fast viermal so viele Einwohner wie Erpel."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Bad Breisig in Rheinland-Pfalz.",
+"Bad Honnef hat gut zweieinhalbmal so viele Einwohner wie Bad Breisig."
+],
+"340-neustadt-wied": [
+"Kreisgrenze: Neustadt (Wied) gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat anderthalbmal so viele Einwohner wie Neustadt (Wied)."
+],
+"341-windhagen": [
+"Kreisgrenze: Windhagen gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat gut doppelt so viele Einwohner wie Windhagen."
+],
+"342-vettelschoss": [
+"Kreisgrenze: Vettelschoß gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat gut zweieinhalbmal so viele Einwohner wie Vettelschoß."
+],
+"343-asbach": [
+"Kreisgrenze: Asbach gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat rund 1.800 Einwohner mehr als Asbach."
+],
 "184-hoehr-grenzhausen": [
 "Einwohner: Bad Breisig hat rund 300 mehr als Höhr-Grenzhausen.",
 "Höhr-Grenzhausen liegt 11 km von Koblenz, Bad Breisig 26 km."
@@ -61204,6 +61260,46 @@ window.QA_DATEN = {
 ],
 "187-remagen": [
 "Remagen und Sinzig sind fast gleich groß: rund 18.000 und 17.000 Einwohner."
+],
+"333-rheinbrohl": [
+"Kreisgrenze: Rheinbrohl gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat gut viermal so viele Einwohner wie Rheinbrohl."
+],
+"334-leubsdorf": [
+"Kreisgrenze: Leubsdorf gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat elfmal so viele Einwohner wie Leubsdorf."
+],
+"335-unkel": [
+"Kreisgrenze: Unkel gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat dreieinhalbmal so viele Einwohner wie Unkel."
+],
+"336-erpel": [
+"Kreisgrenze: Erpel gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat siebenmal so viele Einwohner wie Erpel."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Sinzig in Rheinland-Pfalz.",
+"Bad Honnef hat fast anderthalbmal so viele Einwohner wie Sinzig."
+],
+"338-koenigswinter": [
+"Landesgrenze: Königswinter liegt in Nordrhein-Westfalen, Sinzig in Rheinland-Pfalz.",
+"Königswinter hat fast zweieinhalbmal so viele Einwohner wie Sinzig."
+],
+"340-neustadt-wied": [
+"Kreisgrenze: Neustadt (Wied) gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat gut zweieinhalbmal so viele Einwohner wie Neustadt (Wied)."
+],
+"341-windhagen": [
+"Kreisgrenze: Windhagen gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat gut dreieinhalbmal so viele Einwohner wie Windhagen."
+],
+"342-vettelschoss": [
+"Kreisgrenze: Vettelschoß gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat gut viereinhalbmal so viele Einwohner wie Vettelschoß."
+],
+"343-asbach": [
+"Kreisgrenze: Asbach gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat gut doppelt so viele Einwohner wie Asbach."
 ]
 },
 "ags": "07131077",
@@ -61396,6 +61492,46 @@ window.QA_DATEN = {
 "188-bonn": [
 "Landesgrenze: Bonn liegt in Nordrhein-Westfalen, Remagen in Rheinland-Pfalz.",
 "Bonn hat achtzehnmal so viele Einwohner wie Remagen."
+],
+"333-rheinbrohl": [
+"Kreisgrenze: Rheinbrohl gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat gut viermal so viele Einwohner wie Rheinbrohl."
+],
+"334-leubsdorf": [
+"Kreisgrenze: Leubsdorf gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat elfmal so viele Einwohner wie Leubsdorf."
+],
+"335-unkel": [
+"Kreisgrenze: Unkel gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat dreieinhalbmal so viele Einwohner wie Unkel."
+],
+"336-erpel": [
+"Kreisgrenze: Erpel gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat siebenmal so viele Einwohner wie Erpel."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Remagen in Rheinland-Pfalz.",
+"Bad Honnef hat fast anderthalbmal so viele Einwohner wie Remagen."
+],
+"338-koenigswinter": [
+"Landesgrenze: Königswinter liegt in Nordrhein-Westfalen, Remagen in Rheinland-Pfalz.",
+"Königswinter hat fast zweieinhalbmal so viele Einwohner wie Remagen."
+],
+"340-neustadt-wied": [
+"Kreisgrenze: Neustadt (Wied) gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat gut zweieinhalbmal so viele Einwohner wie Neustadt (Wied)."
+],
+"341-windhagen": [
+"Kreisgrenze: Windhagen gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat fast viermal so viele Einwohner wie Windhagen."
+],
+"342-vettelschoss": [
+"Kreisgrenze: Vettelschoß gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat fast fünfmal so viele Einwohner wie Vettelschoß."
+],
+"343-asbach": [
+"Kreisgrenze: Asbach gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat gut doppelt so viele Einwohner wie Asbach."
 ]
 },
 "ags": "07131070",
@@ -61625,6 +61761,44 @@ window.QA_DATEN = {
 "190-bruehl": [
 "Bonn hat siebenmal so viele Einwohner wie Brühl.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Brühl die SPD, in Bonn die Grünen."
+],
+"335-unkel": [
+"Landesgrenze: Unkel liegt in Rheinland-Pfalz, Bonn in Nordrhein-Westfalen.",
+"Bonn hat rund 65-mal so viele Einwohner wie Unkel."
+],
+"336-erpel": [
+"Landesgrenze: Erpel liegt in Rheinland-Pfalz, Bonn in Nordrhein-Westfalen.",
+"Bonn hat rund 125-mal so viele Einwohner wie Erpel."
+],
+"337-bad-honnef": [
+"Bonn hat dreizehnmal so viele Einwohner wie Bad Honnef."
+],
+"338-koenigswinter": [
+"Bonn hat achtmal so viele Einwohner wie Königswinter."
+],
+"339-troisdorf": [
+"Bonn hat fast viereinhalbmal so viele Einwohner wie Troisdorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Troisdorf die SPD, in Bonn die Grünen."
+],
+"344-hennef": [
+"Bonn hat fast siebenmal so viele Einwohner wie Hennef.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hennef die SPD, in Bonn die Grünen."
+],
+"345-sankt-augustin": [
+"Bonn hat fast sechsmal so viele Einwohner wie Sankt Augustin.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Sankt Augustin die SPD, in Bonn die Grünen."
+],
+"346-siegburg": [
+"Bonn hat fast achtmal so viele Einwohner wie Siegburg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Siegburg die SPD, in Bonn die Grünen."
+],
+"347-lohmar": [
+"Bonn hat gut zehnmal so viele Einwohner wie Lohmar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Lohmar die SPD, in Bonn die Grünen."
+],
+"348-roesrath": [
+"Bonn hat elfmal so viele Einwohner wie Rösrath.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rösrath die SPD, in Bonn die Grünen."
 ]
 },
 "ags": "05314000",
@@ -61792,6 +61966,26 @@ window.QA_DATEN = {
 ],
 "191-huerth": [
 "Hürth hat rund 14.000 Einwohner mehr als Bornheim."
+],
+"338-koenigswinter": [
+"Bornheim hat rund 7.400 Einwohner mehr als Königswinter.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Königswinter die Grünen, in Bornheim die SPD."
+],
+"339-troisdorf": [
+"Troisdorf hat gut anderthalbmal so viele Einwohner wie Bornheim."
+],
+"344-hennef": [
+"Hennef und Bornheim sind fast gleich groß: rund 48.000 und 48.000 Einwohner."
+],
+"345-sankt-augustin": [
+"Sankt Augustin hat rund 8.100 Einwohner mehr als Bornheim.",
+"Bornheim hat fast zweieinhalbmal so viel Fläche wie Sankt Augustin, aber weniger Einwohner."
+],
+"346-siegburg": [
+"Bornheim hat rund 5.700 Einwohner mehr als Siegburg."
+],
+"347-lohmar": [
+"Bornheim hat gut anderthalbmal so viele Einwohner wie Lohmar."
 ]
 },
 "ags": "05382012",
@@ -61964,6 +62158,9 @@ window.QA_DATEN = {
 "192-koeln": [
 "Köln hat rund zwanzigmal so viele Einwohner wie Brühl.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Brühl die SPD."
+],
+"339-troisdorf": [
+"Troisdorf hat gut anderthalbmal so viele Einwohner wie Brühl."
 ]
 },
 "ags": "05362012",
@@ -62382,10 +62579,23 @@ window.QA_DATEN = {
 "194-langenfeld": [
 "Köln hat siebzehnmal so viele Einwohner wie Langenfeld.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Langenfeld die SPD, in Köln die Grünen."
+],
+"339-troisdorf": [
+"Köln hat fast vierzehnmal so viele Einwohner wie Troisdorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Troisdorf die SPD, in Köln die Grünen."
+],
+"348-roesrath": [
+"Köln hat rund 35-mal so viele Einwohner wie Rösrath.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rösrath die SPD, in Köln die Grünen."
+],
+"349-leichlingen": [
+"Köln hat rund 35-mal so viele Einwohner wie Leichlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Leichlingen die SPD, in Köln die Grünen."
 ]
 },
 "ags": "05315000",
 "ortsteil": false,
+"korridor": 7000,
 "km_vom_vorigen": 9.2
 },
 {
@@ -62584,6 +62794,18 @@ window.QA_DATEN = {
 ],
 "194-langenfeld": [
 "Leverkusen hat fast dreimal so viele Einwohner wie Langenfeld."
+],
+"349-leichlingen": [
+"Leverkusen hat sechsmal so viele Einwohner wie Leichlingen."
+],
+"350-solingen": [
+"Solingen und Leverkusen sind fast gleich groß: rund 160.000 und 170.000 Einwohner."
+],
+"351-hilden": [
+"Leverkusen hat dreimal so viele Einwohner wie Hilden."
+],
+"352-haan": [
+"Leverkusen hat fast sechsmal so viele Einwohner wie Haan."
 ]
 },
 "ags": "05316000",
@@ -62812,6 +63034,28 @@ window.QA_DATEN = {
 ],
 "195-duesseldorf": [
 "Düsseldorf hat gut zehnmal so viele Einwohner wie Langenfeld."
+],
+"349-leichlingen": [
+"Langenfeld hat gut doppelt so viele Einwohner wie Leichlingen."
+],
+"350-solingen": [
+"Solingen hat fast dreimal so viele Einwohner wie Langenfeld."
+],
+"351-hilden": [
+"Hilden und Langenfeld sind fast gleich groß: rund 55.000 und 60.000 Einwohner."
+],
+"352-haan": [
+"Langenfeld hat doppelt so viele Einwohner wie Haan."
+],
+"353-erkrath": [
+"Langenfeld hat rund 16.000 Einwohner mehr als Erkrath."
+],
+"354-mettmann": [
+"Langenfeld hat anderthalbmal so viele Einwohner wie Mettmann."
+],
+"355-wuelfrath": [
+"Langenfeld hat fast dreimal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Langenfeld."
 ]
 },
 "ags": "05158020",
@@ -63016,6 +63260,25 @@ window.QA_DATEN = {
 ],
 "196-ratingen": [
 "Düsseldorf hat siebenmal so viele Einwohner wie Ratingen."
+],
+"351-hilden": [
+"Düsseldorf hat elfmal so viele Einwohner wie Hilden."
+],
+"352-haan": [
+"Düsseldorf hat rund zwanzigmal so viele Einwohner wie Haan."
+],
+"353-erkrath": [
+"Düsseldorf hat vierzehnmal so viele Einwohner wie Erkrath."
+],
+"354-mettmann": [
+"Düsseldorf hat sechzehnmal so viele Einwohner wie Mettmann."
+],
+"355-wuelfrath": [
+"Düsseldorf hat rund 30-mal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 220 Meter höher als Düsseldorf."
+],
+"358-heiligenhaus": [
+"Düsseldorf hat rund 25-mal so viele Einwohner wie Heiligenhaus."
 ]
 },
 "ags": "05111000",
@@ -63223,6 +63486,32 @@ window.QA_DATEN = {
 ],
 "198-muelheim": [
 "Mülheim an der Ruhr hat fast doppelt so viele Einwohner wie Ratingen."
+],
+"351-hilden": [
+"Ratingen hat gut anderthalbmal so viele Einwohner wie Hilden."
+],
+"352-haan": [
+"Ratingen hat dreimal so viele Einwohner wie Haan."
+],
+"353-erkrath": [
+"Ratingen hat doppelt so viele Einwohner wie Erkrath."
+],
+"354-mettmann": [
+"Ratingen hat gut doppelt so viele Einwohner wie Mettmann."
+],
+"355-wuelfrath": [
+"Ratingen hat fast viereinhalbmal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Ratingen."
+],
+"357-velbert": [
+"Velbert und Ratingen sind fast gleich groß: rund 82.000 und 89.000 Einwohner.",
+"Velbert liegt rund 180 Meter höher als Ratingen."
+],
+"358-heiligenhaus": [
+"Ratingen hat dreieinhalbmal so viele Einwohner wie Heiligenhaus."
+],
+"360-heisingen": [
+"Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Ratingen ist kreisfrei."
 ]
 },
 "ags": "05158028",
@@ -63392,6 +63681,10 @@ window.QA_DATEN = {
 "199-essen": [
 "Bundestagswahl 2025: In Essen lag die CDU vorn, in Duisburg die SPD.",
 "Essen hat rund 73.000 Einwohner mehr als Duisburg."
+],
+"358-heiligenhaus": [
+"Bundestagswahl 2025: In Heiligenhaus lag die CDU vorn, in Duisburg die SPD.",
+"Duisburg hat neunzehnmal so viele Einwohner wie Heiligenhaus."
 ]
 },
 "ags": "05112000",
@@ -63563,6 +63856,21 @@ window.QA_DATEN = {
 "200-gelsenkirchen": [
 "Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Mülheim an der Ruhr die CDU.",
 "Gelsenkirchen hat gut anderthalbmal so viele Einwohner wie Mülheim an der Ruhr."
+],
+"355-wuelfrath": [
+"Mülheim an der Ruhr hat gut achtmal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 240 Meter höher als Mülheim an der Ruhr."
+],
+"357-velbert": [
+"Mülheim an der Ruhr hat gut doppelt so viele Einwohner wie Velbert.",
+"Velbert liegt rund 200 Meter höher als Mülheim an der Ruhr."
+],
+"358-heiligenhaus": [
+"Mülheim an der Ruhr hat fast siebenmal so viele Einwohner wie Heiligenhaus.",
+"Heiligenhaus liegt rund 150 Meter höher als Mülheim an der Ruhr."
+],
+"360-heisingen": [
+"Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
 ]
 },
 "ags": "05117000",
@@ -63756,10 +64064,26 @@ window.QA_DATEN = {
 "201-bochum": [
 "Bundestagswahl 2025: In Bochum lag die SPD vorn, in Essen die CDU.",
 "Essen hat gut anderthalbmal so viele Einwohner wie Bochum."
+],
+"355-wuelfrath": [
+"Essen hat rund 30-mal so viele Einwohner wie Wülfrath."
+],
+"357-velbert": [
+"Essen hat siebenmal so viele Einwohner wie Velbert."
+],
+"358-heiligenhaus": [
+"Essen hat rund zwanzigmal so viele Einwohner wie Heiligenhaus."
+],
+"359-hattingen": [
+"Essen hat elfmal so viele Einwohner wie Hattingen."
+],
+"360-heisingen": [
+"Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
 ]
 },
 "ags": "05113000",
 "ortsteil": false,
+"korridor": 7000,
 "km_vom_vorigen": 9.4
 },
 {
@@ -63920,6 +64244,18 @@ window.QA_DATEN = {
 "201-bochum": [
 "Bundestagswahl 2025: In Bochum lag die SPD vorn, in Gelsenkirchen die AfD.",
 "Bochum hat rund 93.000 Einwohner mehr als Gelsenkirchen."
+],
+"357-velbert": [
+"Bundestagswahl 2025: In Velbert lag die CDU vorn, in Gelsenkirchen die AfD.",
+"Gelsenkirchen hat gut dreimal so viele Einwohner wie Velbert."
+],
+"359-hattingen": [
+"Bundestagswahl 2025: In Hattingen lag die CDU vorn, in Gelsenkirchen die AfD.",
+"Gelsenkirchen hat fünfmal so viele Einwohner wie Hattingen."
+],
+"360-heisingen": [
+"Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Heisingen lag die CDU vorn, in Gelsenkirchen die AfD."
 ]
 },
 "ags": "05513000",
@@ -64128,6 +64464,14 @@ window.QA_DATEN = {
 ],
 "202-dortmund": [
 "Dortmund hat gut anderthalbmal so viele Einwohner wie Bochum."
+],
+"359-hattingen": [
+"Bundestagswahl 2025: In Hattingen lag die CDU vorn, in Bochum die SPD.",
+"Bochum hat fast siebenmal so viele Einwohner wie Hattingen."
+],
+"360-heisingen": [
+"Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Heisingen lag die CDU vorn, in Bochum die SPD."
 ]
 },
 "ags": "05911000",
@@ -76815,6 +77159,6327 @@ window.QA_DATEN = {
 "ortsteil": false,
 "korridor": 7000,
 "km_vom_vorigen": 10.0
+},
+{
+"slug": "333-rheinbrohl",
+"name": "Rheinbrohl",
+"lat": 50.495,
+"lon": 7.33472,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rheinbrohl",
+"steckbrief": "Rheinbrohl hat rund 4.200 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Woher kommt der Namensteil „Brohl“ in Rheinbrohl?",
+"optionen": [
+"Er stammt von einem germanischen Wort für Brücke.",
+"Er stammt von einem keltischen Wort für Sumpf.",
+"Er stammt vom Brodeln einer sprudelnden Quelle.",
+"Er stammt vom Namen eines fränkischen Grundherrn."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer „Brohl“ hört, denkt leicht an brodelndes, sprudelndes Wasser. Doch der Name geht auf ein keltisches Wort zurück: „brule“ oder „broile“ bedeutete Sumpf. Den Römern war der Ort als „Broele trans rhenum“ bekannt, also als Broele jenseits des Rheins. Richtig war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/rheinbrohl.html",
+"faktencheck": "bestätigt",
+"id": "333-rheinbrohl/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rheinbrohl",
+"steckbrief": "Rheinbrohl hat rund 4.200 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Wie groß ist die Fläche der Gemeinde Rheinbrohl?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Ort dieser Größe drängt sich am Rhein oft auf einen schmalen Uferstreifen. Doch die Gemeinde reicht weit über den Ortskern hinaus: zusammen 17,2 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "korrigiert",
+"id": "333-rheinbrohl/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rheinbrohl",
+"steckbrief": "Rheinbrohl hat rund 4.200 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Dreißigjährigen Krieg erlebte Rheinbrohl Plünderungen und Einquartierungen.",
+"Unter einem Grafen von Sayn wurde Rheinbrohl lutherisch.",
+"Vor dem Bahnbau lebte Rheinbrohl hauptsächlich vom Bergbau."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bergbau klingt plausibel, denn viele Orte am Rand der Mittelgebirge lebten davon. Doch lange prägte ausgedehnter Acker- und Weinbau Rheinbrohl; erst der Bau der rechtsrheinischen Eisenbahn brachte den wirtschaftlichen Aufschwung. Lutherisch wurde der Ort tatsächlich unter Graf Adolf von Sayn. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.rheinbrohl.de/ueber-den-ort/rheinbrohler-geschichte; Landesportal, www.regionalgeschichte.net/mittelrhein/rheinbrohl.html",
+"faktencheck": "korrigiert",
+"id": "333-rheinbrohl/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rheinbrohl",
+"steckbrief": "Rheinbrohl hat rund 4.200 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Rheinbrohl bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 40 %",
+"40 bis unter 45 %",
+"45 bis unter 50 %",
+"50 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In kleinen Gemeinden auf dem Land erwartet man oft eine Partei mit klarer Mehrheit. In Rheinbrohl lag die CDU zwar deutlich vorn, kam aber auf 36,8 Prozent der Zweitstimmen; die Stimmen verteilten sich auf mehrere Parteien. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "333-rheinbrohl/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rheinbrohl",
+"steckbrief": "Rheinbrohl hat rund 4.200 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Ab dem 7. Jahrhundert waren Äbtissinnen des Klosters Nivelles in Brabant Landesherrinnen von Rheinbrohl. Wie kam es dazu?",
+"optionen": [
+"Ein Graf verkaufte den Ort an das Kloster.",
+"Eine Äbtissin erbte hier Land von ihrem Vater.",
+"Ein Bischof tauschte den Ort gegen Brabanter Land.",
+"Ein Ritter vermachte ihn dem Kloster als Buße."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kauf liegt nahe, denn Klöster erwarben oft fernen Besitz. Doch am Anfang stand ein Erbe: Die heilige Gertrud, Tochter Pippins des Älteren und Äbtissin in Nivelles, brachte einen Teil des Familienbesitzes im fränkischen Königsgut Rheinbrohl als Erbteil an ihr Kloster. Daraus wurde der Kern des Rheinbrohler Gertrudenhofs. Richtig war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/rheinbrohl.html",
+"faktencheck": "korrigiert",
+"id": "333-rheinbrohl/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rheinbrohl",
+"steckbrief": "Rheinbrohl hat rund 4.200 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Wie weit ist es von Rheinbrohl in Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 50 km",
+"50 bis unter 75 km",
+"75 bis unter 100 km",
+"100 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Koblenz ist nah, und Mainz liegt ebenfalls am Rhein, also scheint es nur ein Stück flussaufwärts. Doch die Strecke ist länger, als sie wirkt: Bis Mainz sind es 88 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "333-rheinbrohl/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rheinbrohl",
+"steckbrief": "Rheinbrohl hat rund 4.200 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "In Rheinbrohl begann der obergermanisch-raetische Limes. Wo genau setzte er an?",
+"optionen": [
+"Er begann oben auf der Rheinbrohler Ley.",
+"Er begann gegenüber auf der linken Rheinseite.",
+"Er begann auf dem Malberg über dem Ort.",
+"Er begann unten am Rheinbrohler Rheinufer."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an römische Wachtürme denkt, sucht den Anfang oben auf der Ley, unter der Rheinbrohl liegt. Doch die römische Grenzbefestigung setzte unten am Rheinbrohler Rheinufer an, an der Stelle, die heute „In der Laach“ heißt. Ein nachgebauter Limesturm erinnert heute an sie. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rheinbrohl.de/ueber-den-ort/rheinbrohler-geschichte",
+"faktencheck": "korrigiert",
+"id": "333-rheinbrohl/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rheinbrohl",
+"steckbrief": "Rheinbrohl hat rund 4.200 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Rheinbrohls Wappen zeigt ein rotes Kreuz und drei silberne Pilgermuscheln. Worauf geht es laut Gemeinde zurück?",
+"optionen": [
+"Es geht auf Kurfürst Lothar von Metternich zurück.",
+"Es geht auf Pilger auf dem Jakobsweg zurück.",
+"Es geht auf die Grafen von Sayn zurück.",
+"Es geht auf die Äbtissinnen von Nivelles zurück."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Pilgermuscheln lassen sofort an den Jakobsweg denken. Doch die Gemeinde führt ihr Wappen auf Kurfürst Lothar von Metternich zurück. Nach ihrer Darstellung kam er persönlich nach Rheinbrohl, als Kurtrier die Landesherrschaft übernahm, und ließ das Wappen an allen Ortstoren anbringen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.rheinbrohl.de/ueber-den-ort/wappen",
+"faktencheck": "korrigiert",
+"id": "333-rheinbrohl/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rheinbrohl",
+"steckbrief": "Rheinbrohl hat rund 4.200 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Die Firma Hilgers gab Rheinbrohl über 100 Jahre Arbeit. Womit begann Jacob Hilgers?",
+"optionen": [
+"Er baute eine Sektkellerei.",
+"Er baute eine Glashütte.",
+"Er baute eine Verzinkerei.",
+"Er baute eine Tabakfabrik."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Rhein läge eine Sektkellerei nahe. Doch der erfindungsreiche Bastler und Fabrikant baute eine Verzinkerei. Eine Verzinkerei überzieht Eisen mit Zink gegen Rost. Daraus wuchs ein Metall- und Stahlbaubetrieb, lange ein wichtiger Arbeitgeber im Ort. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.rheinbrohl.de/ueber-den-ort/rheinbrohler-geschichte",
+"faktencheck": "korrigiert",
+"id": "333-rheinbrohl/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "265-potsdam",
+"anschluss": [
+"Kennzeichen: In Rheinbrohl steht NR am Auto, in Potsdam P.",
+"Einwohner: Potsdam hat über vierzigmal so viele wie Rheinbrohl."
+],
+"anschluesse": {
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Rheinbrohl zum Landkreis Neuwied.",
+"Andernach hat siebenmal so viele Einwohner wie Rheinbrohl."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Rheinbrohl zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Rheinbrohl die CDU."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Rheinbrohl zum Landkreis Neuwied.",
+"Bad Breisig hat fast zweieinhalbmal so viele Einwohner wie Rheinbrohl."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Rheinbrohl zum Landkreis Neuwied.",
+"Sinzig hat gut viermal so viele Einwohner wie Rheinbrohl."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Rheinbrohl zum Landkreis Neuwied.",
+"Remagen hat gut viermal so viele Einwohner wie Rheinbrohl."
+],
+"334-leubsdorf": [
+"Rheinbrohl hat gut zweieinhalbmal so viele Einwohner wie Leubsdorf."
+],
+"335-unkel": [
+"Unkel hat rund 800 Einwohner mehr als Rheinbrohl.",
+"Rheinbrohl hat gut doppelt so viel Fläche wie Unkel, aber weniger Einwohner."
+],
+"336-erpel": [
+"Rheinbrohl hat gut anderthalbmal so viele Einwohner wie Erpel."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Rheinbrohl in Rheinland-Pfalz.",
+"Bad Honnef hat sechsmal so viele Einwohner wie Rheinbrohl."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat gut anderthalbmal so viele Einwohner wie Rheinbrohl.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Neustadt (Wied) die AfD, in Rheinbrohl die SPD."
+],
+"341-windhagen": [
+"Windhagen hat rund 500 Einwohner mehr als Rheinbrohl.",
+"Windhagen liegt rund 210 Meter höher als Rheinbrohl."
+],
+"342-vettelschoss": [
+"Rheinbrohl hat rund 500 Einwohner mehr als Vettelschoß.",
+"Vettelschoß liegt rund 200 Meter höher als Rheinbrohl."
+],
+"265-potsdam": [
+"Kennzeichen: In Rheinbrohl steht NR am Auto, in Potsdam P.",
+"Einwohner: Potsdam hat über vierzigmal so viele wie Rheinbrohl."
+]
+},
+"ags": "07138063",
+"ortsteil": false,
+"km_vom_vorigen": 449.6
+},
+{
+"slug": "334-leubsdorf",
+"name": "Leubsdorf",
+"lat": 50.54722,
+"lon": 7.29028,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leubsdorf",
+"steckbrief": "Gemeinde mit rund 1.600 Einwohnern, 25 km südöstlich von Bonn.",
+"frage": "Im Jahr 639 wurde Leubsdorf zusammen mit anderen Orten verschenkt. An wen ging das Dorf?",
+"optionen": [
+"Das Dorf ging an Gertrud, Pippins Tochter.",
+"Das Dorf ging an den Bischof von Metz.",
+"Das Dorf ging an das Kloster Echternach.",
+"Das Dorf ging an den Bischof von Utrecht."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bischof liegt nahe, denn die Kirche erhielt damals viele Schenkungen. Doch Pippin der Ältere schenkte Orte mit Weinbergen, Wäldern und Fischereien seiner Tochter Gertrud, darunter Leubsdorf. Über sie kam der Ort in den Einflussbereich des Klosters Nivelles, dessen Äbtissin sie war. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, leubsdorf.de/lebendiges-leubsdorf/geschichte/",
+"faktencheck": "bestätigt",
+"id": "334-leubsdorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leubsdorf",
+"steckbrief": "Gemeinde mit rund 1.600 Einwohnern, 25 km südöstlich von Bonn.",
+"frage": "Wie viele Einwohner leben in Leubsdorf je Quadratkilometer Gemeindefläche?",
+"optionen": [
+"unter 100",
+"100 bis unter 250",
+"250 bis unter 500",
+"500 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Am Rhein nahe Bonn erwartet man dichte Bebauung. Doch auf gut zehn Quadratkilometern Gemeindefläche leben nur rund 1.600 Menschen. Das ergibt 158 Einwohner je Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "334-leubsdorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Leubsdorf",
+"steckbrief": "Gemeinde mit rund 1.600 Einwohnern, 25 km südöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Gemeindewappen zeigt das Kreuz von Kurtrier.",
+"Kirchlich unterstand Leubsdorf dem Bischof von Trier.",
+"Politisch gehörte Leubsdorf einst zu Kurköln."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Trier wirkt glaubhaft, denn kirchlich unterstand Leubsdorf wirklich dem Bischof von Trier. Das Wappen, das Wilhelm Zender entwarf, zeigt aber das Kreuz von Kurköln, zu dem das Dorf politisch gehörte. Darüber stehen die Buchstaben G und L für Gemeinde Leubsdorf. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, leubsdorf.de/lebendiges-leubsdorf/geschichte/",
+"faktencheck": "bestätigt",
+"id": "334-leubsdorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Leubsdorf",
+"steckbrief": "Gemeinde mit rund 1.600 Einwohnern, 25 km südöstlich von Bonn.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der Verbandsgemeinde Linz am Rhein, zu der Leubsdorf gehört: Welche Partei wurde zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"GRÜNE",
+"SPD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die AfD war nah dran: Sie kam auf 16,9 Prozent, die SPD auf 17,5 Prozent. Klar vorn lag die CDU mit 37,3 Prozent, die Grünen erreichten 10,1 Prozent. Die Werte gelten für die ganze Verbandsgemeinde Linz am Rhein. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "334-leubsdorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leubsdorf",
+"steckbrief": "Gemeinde mit rund 1.600 Einwohnern, 25 km südöstlich von Bonn.",
+"frage": "Was steckt nach der Deutung der Ortsgeschichte im Namen Leubsdorf?",
+"optionen": [
+"Darin steckt der Name eines Mannes.",
+"Darin steckt das Laub der umliegenden Wälder.",
+"Darin steckt ein altes Wort für Ufer.",
+"Darin steckt ein altes Wort für Senke."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Laub liegt nahe, weil der heutige Name danach klingt. Die Ortsgeschichte deutet Leubsdorf aber als Dorf des Lupo oder des Luitprecht, benannt also nach einem Mann. Eine alte Namensform ist Lupstorf. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, leubsdorf.de/lebendiges-leubsdorf/geschichte/",
+"faktencheck": "bestätigt",
+"id": "334-leubsdorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leubsdorf",
+"steckbrief": "Gemeinde mit rund 1.600 Einwohnern, 25 km südöstlich von Bonn.",
+"frage": "Wie weit ist es von Leubsdorf in Luftlinie bis Mainz, der Landeshauptstadt von Rheinland-Pfalz?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 120 km",
+"120 bis unter 180 km",
+"180 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Bonn in 25 Kilometern denkt, schätzt die Landeshauptstadt leicht zu nah. Leubsdorf liegt Bonn viel näher als Mainz: Bis Mainz sind es 94 Kilometer Luftlinie. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "334-leubsdorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leubsdorf",
+"steckbrief": "Gemeinde mit rund 1.600 Einwohnern, 25 km südöstlich von Bonn.",
+"frage": "Bei Leubsdorf verläuft die Vinxtbachlinie, eine alte Grenzlinie am Rhein. Welche Mundarten trennt sie heute grob?",
+"optionen": [
+"Sie trennt Hessisch von Moselfränkisch.",
+"Sie trennt Niederfränkisch von Westfälisch.",
+"Sie trennt Moselfränkisch von Ripuarisch.",
+"Sie trennt Ripuarisch von Niederfränkisch."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ripuarisch liegt nahe, denn so spricht man um Bonn und Köln. Doch die Vinxtbachlinie trennt es grob vom Moselfränkischen im Süden, nicht vom Niederfränkischen. Schon in römischer Zeit markierte der Vinxtbach die Grenze zwischen Obergermanien und Niedergermanien. Richtig war 3.",
+"quelle": "Heimatjahrbuch Kreis Ahrweiler 2019; Epigraphische Datenbank Heidelberg (edh.ub.uni-heidelberg.de) (Vermerk: Beide Belege habe ich nur im Suchergebnis gesehen, nicht im vollen Text. Das Heimatjahrbuch ist eine Veröffentlichung des Kreises und steht nicht genau so in der Quellenliste. Bitte bei der Abnahme prüfen.)",
+"faktencheck": "korrigiert",
+"id": "334-leubsdorf/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leubsdorf",
+"steckbrief": "Gemeinde mit rund 1.600 Einwohnern, 25 km südöstlich von Bonn.",
+"frage": "1250 kam Leubsdorf an Konrad von Hochstaden, den Erzbischof von Köln. Wie kam es dazu?",
+"optionen": [
+"Er eroberte es in einer Fehde mit Kleve.",
+"Seine Nichte Mechthild von Sayn übertrug es ihm.",
+"Er kaufte es dem Abt von Prüm ab.",
+"Kaiser Friedrich II. gab es ihm als Lehen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Fehde liegt nahe, denn Erzbischöfe vergrößerten ihr Land oft mit Gewalt. Hier aber blieb es in der Familie: Mechthild von Sayn wies ihrem Onkel Konrad von Hochstaden Besitzungen zu, darunter Leubsdorf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, leubsdorf.de/lebendiges-leubsdorf/geschichte/",
+"faktencheck": "bestätigt",
+"id": "334-leubsdorf/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "333-rheinbrohl",
+"anschluss": [
+"Die Rheinsteig-Etappe von Leubsdorf nach Rheinbrohl misst 14,6 Kilometer.",
+"Einwohner: Rheinbrohl hat rund 4.200, Leubsdorf rund 1.600."
+],
+"anschluesse": {
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Leubsdorf zum Landkreis Neuwied.",
+"Andernach hat neunzehnmal so viele Einwohner wie Leubsdorf."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Leubsdorf zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Leubsdorf die CDU."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Leubsdorf zum Landkreis Neuwied.",
+"Bad Breisig hat sechsmal so viele Einwohner wie Leubsdorf."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Leubsdorf zum Landkreis Neuwied.",
+"Sinzig hat elfmal so viele Einwohner wie Leubsdorf."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Leubsdorf zum Landkreis Neuwied.",
+"Remagen hat elfmal so viele Einwohner wie Leubsdorf."
+],
+"333-rheinbrohl": [
+"Die Rheinsteig-Etappe von Leubsdorf nach Rheinbrohl misst 14,6 Kilometer.",
+"Einwohner: Rheinbrohl hat rund 4.200, Leubsdorf rund 1.600."
+],
+"335-unkel": [
+"Unkel hat gut dreimal so viele Einwohner wie Leubsdorf."
+],
+"336-erpel": [
+"Erpel hat gut anderthalbmal so viele Einwohner wie Leubsdorf."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Leubsdorf in Rheinland-Pfalz.",
+"Bad Honnef hat fünfzehnmal so viele Einwohner wie Leubsdorf."
+],
+"338-koenigswinter": [
+"Landesgrenze: Königswinter liegt in Nordrhein-Westfalen, Leubsdorf in Rheinland-Pfalz.",
+"Königswinter hat rund 25-mal so viele Einwohner wie Leubsdorf."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat viermal so viele Einwohner wie Leubsdorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Neustadt (Wied) die AfD, in Leubsdorf die SPD."
+],
+"341-windhagen": [
+"Windhagen hat fast dreimal so viele Einwohner wie Leubsdorf.",
+"Windhagen liegt rund 220 Meter höher als Leubsdorf."
+],
+"342-vettelschoss": [
+"Vettelschoß hat fast zweieinhalbmal so viele Einwohner wie Leubsdorf.",
+"Vettelschoß liegt rund 200 Meter höher als Leubsdorf."
+],
+"343-asbach": [
+"Asbach hat fast fünfmal so viele Einwohner wie Leubsdorf.",
+"Asbach liegt rund 200 Meter höher als Leubsdorf."
+]
+},
+"ags": "07138037",
+"ortsteil": false,
+"km_vom_vorigen": 6.6
+},
+{
+"slug": "335-unkel",
+"name": "Unkel",
+"lat": 50.60083,
+"lon": 7.215,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Unkel",
+"steckbrief": "Stadt mit rund 5.000 Einwohnern, 17 km südöstlich von Bonn.",
+"frage": "Worauf geht der Ortsname nach der Ortsgeschichte vermutlich zurück?",
+"optionen": [
+"Der Name kommt von den Unken am Ufer.",
+"Der Name geht auf einen Personennamen zurück.",
+"Der Name bezeichnete eine Furt durch den Rhein.",
+"Der Name beschreibt eine Krümmung des Rheins."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Unke drängt sich auf, weil sie im Namen zu stecken scheint. Die Ortsgeschichte führt den Namen aber wohl auf das Knie zurück, das der Rhein bei Unkel bildet: Lateinisch uncus heißt Haken. Richtig war 4.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/unkel.html",
+"faktencheck": "korrigiert",
+"id": "335-unkel/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Unkel",
+"steckbrief": "Stadt mit rund 5.000 Einwohnern, 17 km südöstlich von Bonn.",
+"frage": "Wie viele Einwohner leben in Unkel auf einem Quadratkilometer?",
+"optionen": [
+"unter 800",
+"800 bis unter 1.500",
+"1.500 bis unter 2.500",
+"2.500 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. So nah an Bonn erwartet man dichte Vorstadtbebauung. Unkel ist aber eine Kleinstadt am rechten Rheinufer. Rechnerisch kommen etwa 614 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "335-unkel/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Unkel",
+"steckbrief": "Stadt mit rund 5.000 Einwohnern, 17 km südöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Dreißigjährigen Krieg plünderten die Schweden Unkel.",
+"Im Kölner Krieg wurde Unkel fast völlig zerstört.",
+"Im Ersten Weltkrieg wurde das Christinenstift ein Lazarett."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Zerstörung klingt glaubhaft, denn der Kölner Krieg um den Glaubenswechsel des Erzbischofs wurde am Mittelrhein ausgefochten. Unkel wurde mehrfach bestürmt, scheint aber glimpflich davongekommen zu sein. Schlimmer traf es die Stadt 1633: Die Schweden plünderten sie, Häuser und Scheunen brannten ab. Die Lüge war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/unkel.html und www.regionalgeschichte.net/bibliothek/aufsaetze/napp-dreissigjaehriger-krieg.html",
+"faktencheck": "korrigiert",
+"id": "335-unkel/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Unkel",
+"steckbrief": "Stadt mit rund 5.000 Einwohnern, 17 km südöstlich von Bonn.",
+"frage": "Wie hoch war die Wahlbeteiligung in Unkel bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 80 %",
+"80 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen die Beteiligung niedriger, weil man von Wahlen eher sinkende Zahlen hört. In Unkel beteiligten sich bei der Bundestagswahl 2025 aber 86,8 Prozent der Wahlberechtigten. Stärkste Kraft wurde die CDU, vor SPD und Grünen. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "335-unkel/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Unkel",
+"steckbrief": "Stadt mit rund 5.000 Einwohnern, 17 km südöstlich von Bonn.",
+"frage": "Der frühere Bundeskanzler Willy Brandt hatte seinen Wohnsitz in Unkel. Ab welchem Jahr?",
+"optionen": [
+"Er wohnte ab 1957 in Unkel.",
+"Er wohnte ab 1966 in Unkel.",
+"Er wohnte ab 1974 in Unkel.",
+"Er wohnte ab 1979 in Unkel."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Umzug gleich nach dem Ende der Kanzlerschaft läge nahe. Doch der SPD-Politiker und Friedensnobelpreisträger nahm seinen Wohnsitz in Unkel erst einige Jahre danach, im Jahr 1979. Richtig war 4.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/unkel.html",
+"faktencheck": "bestätigt",
+"id": "335-unkel/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Unkel",
+"steckbrief": "Stadt mit rund 5.000 Einwohnern, 17 km südöstlich von Bonn.",
+"frage": "Wie groß ist das Stadtgebiet von Unkel?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Stadt denkt, erwartet ein weites Gebiet mit Feldern und Wäldern ringsum. Unkel ist dagegen klein: Das Stadtgebiet misst nur 8,16 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "335-unkel/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Unkel",
+"steckbrief": "Stadt mit rund 5.000 Einwohnern, 17 km südöstlich von Bonn.",
+"frage": "Das Kölner Erzstift übertrug 1057 einer Witwe die Nutzungsrechte an Unkel. Wer war sie?",
+"optionen": [
+"Sie war Witwe eines Königs von Dänemark.",
+"Sie war Witwe eines Königs von Polen.",
+"Sie war Witwe eines Königs von Schweden.",
+"Sie war Witwe eines Kaisers von Byzanz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Byzanz liegt nahe, denn eine Prinzessin von dort heiratete einst ins deutsche Kaiserhaus. Die Witwe war Richeza, deren Mann Mieszko König von Polen gewesen war. Das Erzstift, das Herrschaftsgebiet des Kölner Erzbischofs, übertrug ihr die Nutzungsrechte an Unkel. Richtig war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/unkel.html",
+"faktencheck": "korrigiert",
+"id": "335-unkel/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Unkel",
+"steckbrief": "Stadt mit rund 5.000 Einwohnern, 17 km südöstlich von Bonn.",
+"frage": "Haus Rabenhorst, Hersteller von Rotbäckchen, begann als Weingut. Als es Ende des 19. Jahrhunderts Traubensaft herstellte, wie nannte man ihn?",
+"optionen": [
+"Man nannte ihn Rheinische Traubenlimonade.",
+"Man nannte ihn Pfarrerwein für die Messe.",
+"Man nannte ihn alkoholfreien Medizinalwein.",
+"Man nannte ihn Rheinischen Kindermost."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Pfarrerwein liegt nahe, denn ein Pfarrer hatte das Weingut gegründet. Doch Alexander Lauffs, Urenkel des Gründers, ließ ab 1898 Traubensaft pasteurisieren und verkaufte ihn als alkoholfreien Medizinalwein. Richtig war 3.",
+"quelle": "Unternehmen, www.rabenhorst.de/ueber-rabenhorst/geschichte/",
+"faktencheck": "korrigiert",
+"id": "335-unkel/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Unkel",
+"steckbrief": "Stadt mit rund 5.000 Einwohnern, 17 km südöstlich von Bonn.",
+"frage": "Der spätere Bundeskanzler Konrad Adenauer wohnte 1935/36 einige Monate in Unkel. Was führte ihn dorthin?",
+"optionen": [
+"Er wurde in Unkel zum Bürgermeister ernannt.",
+"Er war aus dem Regierungsbezirk Köln ausgewiesen.",
+"Er hatte in Unkel ein Weingut geerbt.",
+"Er unterrichtete an einer Schule in Unkel."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Amt liegt nahe, denn Adenauer war damals schon ein bekannter Politiker. Tatsächlich suchte er Zuflucht vor den Nationalsozialisten: Im August 1935 war er aus dem Regierungsbezirk Köln ausgewiesen worden. In Unkel wohnte er im Pax-Heim. Richtig war 2.",
+"quelle": "Konrad-Adenauer-Stiftung, www.kas.de/de/veranstaltungsberichte/detail/-/content/auf-den-spuren-adenauers-am-rhein",
+"faktencheck": "korrigiert",
+"id": "335-unkel/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "334-leubsdorf",
+"anschluss": [
+"Einwohner: Unkel hat rund dreimal so viele wie Leubsdorf.",
+"Fläche: Leubsdorf ist größer als Unkel, trotz weniger Einwohner."
+],
+"anschluesse": {
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Unkel zum Landkreis Neuwied.",
+"Bad Breisig hat fast doppelt so viele Einwohner wie Unkel."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Unkel zum Landkreis Neuwied.",
+"Sinzig hat dreieinhalbmal so viele Einwohner wie Unkel."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Unkel zum Landkreis Neuwied.",
+"Remagen hat dreieinhalbmal so viele Einwohner wie Unkel."
+],
+"188-bonn": [
+"Landesgrenze: Bonn liegt in Nordrhein-Westfalen, Unkel in Rheinland-Pfalz.",
+"Bonn hat rund 65-mal so viele Einwohner wie Unkel."
+],
+"333-rheinbrohl": [
+"Unkel hat rund 800 Einwohner mehr als Rheinbrohl.",
+"Rheinbrohl hat gut doppelt so viel Fläche wie Unkel, aber weniger Einwohner."
+],
+"334-leubsdorf": [
+"Einwohner: Unkel hat rund dreimal so viele wie Leubsdorf.",
+"Fläche: Leubsdorf ist größer als Unkel, trotz weniger Einwohner."
+],
+"336-erpel": [
+"Unkel hat doppelt so viele Einwohner wie Erpel."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Unkel in Rheinland-Pfalz.",
+"Bad Honnef hat fünfmal so viele Einwohner wie Unkel."
+],
+"338-koenigswinter": [
+"Landesgrenze: Königswinter liegt in Nordrhein-Westfalen, Unkel in Rheinland-Pfalz.",
+"Königswinter hat achtmal so viele Einwohner wie Unkel."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat rund 1.500 Einwohner mehr als Unkel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Neustadt (Wied) die AfD, in Unkel die SPD."
+],
+"341-windhagen": [
+"Windhagen und Unkel sind fast gleich groß: rund 4.700 und 5.000 Einwohner.",
+"Windhagen liegt rund 230 Meter höher als Unkel."
+],
+"342-vettelschoss": [
+"Unkel hat rund 1.300 Einwohner mehr als Vettelschoß.",
+"Vettelschoß liegt rund 220 Meter höher als Unkel."
+],
+"343-asbach": [
+"Asbach hat gut anderthalbmal so viele Einwohner wie Unkel.",
+"Asbach liegt rund 220 Meter höher als Unkel."
+],
+"345-sankt-augustin": [
+"Landesgrenze: Sankt Augustin liegt in Nordrhein-Westfalen, Unkel in Rheinland-Pfalz.",
+"Sankt Augustin hat elfmal so viele Einwohner wie Unkel."
+]
+},
+"ags": "07138073",
+"ortsteil": false,
+"km_vom_vorigen": 8.0
+},
+{
+"slug": "336-erpel",
+"name": "Erpel",
+"lat": 50.58528,
+"lon": 7.24,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Erpel",
+"steckbrief": "Erpel hat rund 2.500 Einwohner und liegt 19 km südöstlich von Bonn.",
+"frage": "Die Rheinbrücke zwischen Erpel und Remagen hieß ab 1918 Ludendorff-Brücke. Wer gab ihr diesen Namen?",
+"optionen": [
+"Ludendorff selbst wählte den Namen.",
+"Paul von Hindenburg gab ihr den Namen.",
+"Kaiser Wilhelm II. gab ihr den Namen.",
+"Der Erpeler Gemeinderat wählte den Namen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass sich der mächtige General selbst verewigte. Doch Kaiser Wilhelm II. benannte die Brücke nach Ludendorff. Berühmt wurde sie als Brücke von Remagen: US-Truppen eroberten sie im Zweiten Weltkrieg, wenig später stürzte sie ein. Auf Erpeler Seite blieben der Eisenbahntunnel und das Ostportal. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Erpel",
+"faktencheck": "korrigiert",
+"id": "336-erpel/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Erpel",
+"steckbrief": "Erpel liegt 19 km südöstlich von Bonn, die Gemeinde umfasst gut 9 km².",
+"frage": "Wie viele Einwohner hat die Gemeinde Erpel?",
+"optionen": [
+"unter 800",
+"800 bis unter 1.500",
+"1.500 bis unter 2.200",
+"2.200 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele denken bei einer Gemeinde am Rhein an ein Dorf mit wenigen Hundert Einwohnern. Doch Erpel zählte Ende 2025 genau 2.547 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "336-erpel/v0.8/2",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Erpel",
+"steckbrief": "Erpel hat rund 2.500 Einwohner und liegt 19 km südöstlich von Bonn.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei bei der Bundestagswahl 2025 in der Verbandsgemeinde Unkel, zu der Erpel gehört?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 40 %",
+"40 bis unter 50 %",
+"50 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Rheinland erwarten viele eine noch klarere CDU-Mehrheit. In der Verbandsgemeinde Unkel, zu der Erpel gehört, kam die CDU bei der Bundestagswahl 2025 auf 35,1 Prozent der Zweitstimmen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "336-erpel/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Erpel",
+"steckbrief": "Erpel hat rund 2.500 Einwohner und liegt 19 km südöstlich von Bonn.",
+"frage": "Das Wappen von Erpel zeigt drei Kronen. Woran erinnern sie?",
+"optionen": [
+"Drei Burgen schützten einst den Ort.",
+"Drei Kaiser übernachteten einst in Erpel.",
+"Der Sage nach rasteten hier heilige Gebeine.",
+"Drei Zünfte regierten einst den Ort."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kronen wirken wie Zeichen von Burgherren, daher liegen Burgen nahe. Doch die drei Kronen erinnern an eine Sage: Die Kirche St. Severinus soll die Gebeine der Heiligen Drei Könige vorübergehend aufgenommen haben, als Erzbischof Rainald von Dassel sie von Mailand nach Köln brachte. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Erpel",
+"faktencheck": "unsicher",
+"id": "336-erpel/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Erpel",
+"steckbrief": "Erpel hat rund 2.500 Einwohner und liegt 19 km südöstlich von Bonn.",
+"frage": "Wie viele Einwohner leben in Erpel durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 60",
+"60 bis unter 130",
+"130 bis unter 220",
+"220 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Ort mit rund 2.500 Einwohnern klingt nach viel Feld und wenigen Menschen je Quadratkilometer. Doch die Gemarkung ist klein: 2.547 Einwohner auf 9,21 Quadratkilometern ergeben rund 277 je Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "336-erpel/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Erpel",
+"steckbrief": "Erpel hat rund 2.500 Einwohner und liegt 19 km südöstlich von Bonn.",
+"frage": "Von 1493 bis 1803 bildete Erpel mit Nachbarorten eine eigene Herrschaft. Wer hatte dort das Sagen?",
+"optionen": [
+"Das Kölner Domkapitel regierte die Herrschaft.",
+"Der Kölner Kurfürst regierte sie direkt.",
+"Der Deutsche Orden regierte die Herrschaft.",
+"Das Aachener Marienstift regierte die Herrschaft."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an Köln denkt, denkt zuerst an den Kurfürsten. Doch die Herrschaft Erpel, zu der auch Bruchhausen, Heister, Orsberg und der Erpeler Teil von Casbach gehörten, unterstand dem Kölner Domkapitel, also dem Kollegium der Domherren, nicht dem Kurfürsten selbst. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Erpel",
+"faktencheck": "korrigiert",
+"id": "336-erpel/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Erpel",
+"steckbrief": "Erpel hat rund 2.500 Einwohner und liegt 19 km südöstlich von Bonn.",
+"frage": "Von 1816 bis 1822 hatte das barocke Rathaus von Erpel eine besondere Rolle. Welche?",
+"optionen": [
+"Eine Zollstelle war im Rathaus untergebracht.",
+"Ein Landrat residierte im Rathaus.",
+"Ein Soldatenlazarett war im Rathaus untergebracht.",
+"Eine Poststation war im Rathaus untergebracht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Amtshaus in einem Rheinort lässt an Zoll denken. Doch damals residierte hier der Landrat des Kreises Linz. Das Haus gehörte zu dieser Zeit dem Kirchspiel Erpel. Erbaut hatte den Barockbau 1780 Maurermeister Franz Ignaz Freeg. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Erpel",
+"faktencheck": "korrigiert",
+"id": "336-erpel/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "335-unkel",
+"anschluss": [
+"Einwohner: Unkel zählt etwa doppelt so viele wie Erpel.",
+"Rheinsteig: Die Etappe ab Unkel führt über die Erpeler Ley."
+],
+"anschluesse": {
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Erpel zum Landkreis Neuwied.",
+"Andernach hat zwölfmal so viele Einwohner wie Erpel."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Erpel zum Landkreis Neuwied.",
+"Bad Breisig hat fast viermal so viele Einwohner wie Erpel."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Erpel zum Landkreis Neuwied.",
+"Sinzig hat siebenmal so viele Einwohner wie Erpel."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Erpel zum Landkreis Neuwied.",
+"Remagen hat siebenmal so viele Einwohner wie Erpel."
+],
+"188-bonn": [
+"Landesgrenze: Bonn liegt in Nordrhein-Westfalen, Erpel in Rheinland-Pfalz.",
+"Bonn hat rund 125-mal so viele Einwohner wie Erpel."
+],
+"333-rheinbrohl": [
+"Rheinbrohl hat gut anderthalbmal so viele Einwohner wie Erpel."
+],
+"334-leubsdorf": [
+"Erpel hat gut anderthalbmal so viele Einwohner wie Leubsdorf."
+],
+"335-unkel": [
+"Einwohner: Unkel zählt etwa doppelt so viele wie Erpel.",
+"Rheinsteig: Die Etappe ab Unkel führt über die Erpeler Ley."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Erpel in Rheinland-Pfalz.",
+"Bad Honnef hat zehnmal so viele Einwohner wie Erpel."
+],
+"338-koenigswinter": [
+"Landesgrenze: Königswinter liegt in Nordrhein-Westfalen, Erpel in Rheinland-Pfalz.",
+"Königswinter hat sechzehnmal so viele Einwohner wie Erpel."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat zweieinhalbmal so viele Einwohner wie Erpel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Neustadt (Wied) die AfD, in Erpel die SPD."
+],
+"341-windhagen": [
+"Windhagen hat fast doppelt so viele Einwohner wie Erpel.",
+"Windhagen liegt rund 230 Meter höher als Erpel."
+],
+"342-vettelschoss": [
+"Vettelschoß hat fast anderthalbmal so viele Einwohner wie Erpel.",
+"Vettelschoß liegt rund 220 Meter höher als Erpel."
+],
+"343-asbach": [
+"Asbach hat dreimal so viele Einwohner wie Erpel.",
+"Asbach liegt rund 220 Meter höher als Erpel."
+]
+},
+"ags": "07138019",
+"ortsteil": false,
+"km_vom_vorigen": 2.5
+},
+{
+"slug": "337-bad-honnef",
+"name": "Bad Honnef",
+"lat": 50.645,
+"lon": 7.22694,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Honnef",
+"steckbrief": "Rund 25.000 Einwohner, 14 km südöstlich von Bonn.",
+"frage": "Bad Honnef wird „Rheinisches Nizza“ genannt. Woher kommt dieser Beiname?",
+"optionen": [
+"Bad Honnef ist Partnerstadt von Nizza.",
+"Das ganzjährig milde Klima gab den Ausschlag.",
+"Ein Graf aus Nizza zog nach Honnef.",
+"Honnef liegt auf Nizzas Breitengrad."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Partnerschaft mit Nizza liegt nahe, weil Städte gern Partnerschaften mit großen Namen pflegen. Bad Honnef verdankt den Beinamen aber dem ganzjährig milden Klima und seiner Lage am Südhang des Siebengebirges. Das erinnerte an die Stadt an der Côte d'Azur. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Honnef",
+"faktencheck": "unsicher",
+"id": "337-bad-honnef/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Honnef",
+"steckbrief": "Rund 25.000 Einwohner, 14 km südöstlich von Bonn.",
+"frage": "Wie groß ist die Fläche des Stadtgebiets von Bad Honnef?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 40 km²",
+"40 bis unter 55 km²",
+"55 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 25.000 Einwohnern denkt man leicht an eine kleine, dicht bebaute Stadt. Tatsächlich misst das Stadtgebiet gut 48 Quadratkilometer; rechnerisch kommen etwa 518 Einwohner auf jeden. Richtig war 3.",
+"quelle": "Wikidata P2046; Altbestand staedte.json; Einwohner Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "337-bad-honnef/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bad Honnef",
+"steckbrief": "Rund 25.000 Einwohner, 14 km südöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Adenauer zog erst nach seiner Kanzlerzeit nach Rhöndorf.",
+"Bad Honnef trug früher schlicht den Namen Honnef.",
+"Der Ortsteil Aegidienberg war früher eine eigene Gemeinde."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Verdächtig wirkt leicht Aegidienberg, doch der Stadtbezirk war wirklich einst eine eigene Gemeinde, und Bad Honnef hieß früher nur Honnef. Gelogen war Adenauers Umzug: Er wohnte schon ab 1935 bis zu seinem Tod in Rhöndorf, also auch als Kanzler. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Honnef",
+"faktencheck": "unsicher",
+"id": "337-bad-honnef/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bad Honnef",
+"steckbrief": "Rund 25.000 Einwohner, 14 km südöstlich von Bonn.",
+"frage": "Welche Partei wurde in Bad Honnef bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"Grüne",
+"SPD",
+"AfD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, weil sie bundesweit lange als zweite Volkspartei neben der Union galt. In Bad Honnef holten die Grünen aber 16,8 Prozent und lagen knapp vor der SPD mit 16,6 Prozent. Vorn lag die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "337-bad-honnef/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Honnef ist mit Cadenabbia verpartnert, einem Ortsteil von Griante am Comer See in der Lombardei. Worauf geht diese Partnerschaft zurück?",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kur oder Weinbau liegen nahe, denn Bad Honnef war Heilbad, und am Drachenfels liegen Weinberge. Der Grund war aber ein Urlauber: Konrad Adenauer verbrachte in Cadenabbia regelmäßig seinen Urlaub. Daran knüpft die Partnerschaft an. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Honnef",
+"faktencheck": "korrigiert",
+"id": "337-bad-honnef/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bad Honnef",
+"steckbrief": "Rund 25.000 Einwohner, 14 km südöstlich von Bonn.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Bad Honnef?",
+"optionen": [
+"NR",
+"AW",
+"SU",
+"GM"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. NR oder AW liegen nahe, weil die Kreise Neuwied und Ahrweiler nicht weit rheinaufwärts liegen. Doch Bad Honnef gehört zu Nordrhein-Westfalen, und die meisten Autos tragen dort SU. Richtig war 3.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "337-bad-honnef/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Honnef",
+"steckbrief": "Rund 25.000 Einwohner, 14 km südöstlich von Bonn.",
+"frage": "Das Gladbecker Geiseldrama endete am 18. August 1988 auf einer Autobahn in Bad Honnef. In welchem Stadtteil?",
+"optionen": [
+"Es endete im Stadtteil Rhöndorf.",
+"Es endete im Stadtteil Selhof.",
+"Es endete im Stadtteil Lohfeld.",
+"Es endete im Stadtteil Aegidienberg."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Rhöndorf oder Selhof liegen nahe, weil man das Ende eher in der Stadt am Rhein vermutet. Doch das Geiseldrama endete auf der Autobahn Richtung Frankfurt am Main bei Aegidienberg, im bergigen, waldreichen Stadtbezirk östlich des Siebengebirges. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Honnef",
+"faktencheck": "bestätigt",
+"id": "337-bad-honnef/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Honnef",
+"steckbrief": "Rund 25.000 Einwohner, 14 km südöstlich von Bonn.",
+"frage": "Die südliche Brücke zur Rheininsel Grafenwerth trägt einen Namen. Wonach ist sie benannt?",
+"optionen": [
+"Sie heißt nach der Partnerstadt Berck.",
+"Sie heißt nach Konrad Adenauer.",
+"Sie heißt nach Alexander von Humboldt.",
+"Sie heißt nach den Grafen von Sayn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Adenauer oder Humboldt liegen nahe, weil Brücken oft nach Persönlichkeiten heißen. Die südliche Brücke nach Grafenwerth trägt aber den Namen der französischen Partnerstadt Berck, die vor Ort Berck-sur-Mer heißt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Honnef",
+"faktencheck": "bestätigt",
+"id": "337-bad-honnef/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Honnef",
+"steckbrief": "Rund 25.000 Einwohner, 14 km südöstlich von Bonn.",
+"frage": "Im Rheinaltarm bei der Insel Grafenwerth liegt das Schiff „Aranka“ als Denkmal. Was für ein Schiff ist es?",
+"optionen": [
+"Sie ist ein Kohlenfrachter aus Belgien.",
+"Sie ist ein Polizeiboot aus der Schweiz.",
+"Sie ist ein Fischereisegler aus den Niederlanden.",
+"Sie ist eine Rheinfähre aus dem Elsass."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine alte Fähre oder ein Frachter liegt nahe, weil solche Schiffe den Rhein prägen. Die Aranka ist aber ein Aalschokker, ein Fischereisegelschiff eines Typs aus den Niederlanden. Seit 1917 fischte sie auf dem Rhein, heute liegt sie im Altarm vor der Grafenwerther Brücke. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Honnef",
+"faktencheck": "korrigiert",
+"id": "337-bad-honnef/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "336-erpel",
+"anschluss": [
+"Einwohner: Bad Honnef hat fast zehnmal so viele wie Erpel.",
+"Bahnhofsname: In Bad Honnef und Erpel steht „(Rhein)“ dahinter."
+],
+"anschluesse": {
+"185-bad-breisig": [
+"Landesgrenze: Bad Breisig liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat gut zweieinhalbmal so viele Einwohner wie Bad Breisig."
+],
+"186-sinzig": [
+"Landesgrenze: Sinzig liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat fast anderthalbmal so viele Einwohner wie Sinzig."
+],
+"187-remagen": [
+"Landesgrenze: Remagen liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat fast anderthalbmal so viele Einwohner wie Remagen."
+],
+"188-bonn": [
+"Bonn hat dreizehnmal so viele Einwohner wie Bad Honnef."
+],
+"333-rheinbrohl": [
+"Landesgrenze: Rheinbrohl liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat sechsmal so viele Einwohner wie Rheinbrohl."
+],
+"334-leubsdorf": [
+"Landesgrenze: Leubsdorf liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat fünfzehnmal so viele Einwohner wie Leubsdorf."
+],
+"335-unkel": [
+"Landesgrenze: Unkel liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat fünfmal so viele Einwohner wie Unkel."
+],
+"336-erpel": [
+"Einwohner: Bad Honnef hat fast zehnmal so viele wie Erpel.",
+"Bahnhofsname: In Bad Honnef und Erpel steht „(Rhein)“ dahinter."
+],
+"338-koenigswinter": [
+"Königswinter hat gut anderthalbmal so viele Einwohner wie Bad Honnef."
+],
+"339-troisdorf": [
+"Troisdorf hat dreimal so viele Einwohner wie Bad Honnef.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Troisdorf die SPD, in Bad Honnef die Grünen."
+],
+"340-neustadt-wied": [
+"Landesgrenze: Neustadt (Wied) liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat fast viermal so viele Einwohner wie Neustadt (Wied)."
+],
+"341-windhagen": [
+"Landesgrenze: Windhagen liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat gut fünfmal so viele Einwohner wie Windhagen."
+],
+"342-vettelschoss": [
+"Landesgrenze: Vettelschoß liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat fast siebenmal so viele Einwohner wie Vettelschoß."
+],
+"343-asbach": [
+"Landesgrenze: Asbach liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat gut dreimal so viele Einwohner wie Asbach."
+],
+"344-hennef": [
+"Hennef hat fast doppelt so viele Einwohner wie Bad Honnef.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hennef die SPD, in Bad Honnef die Grünen."
+],
+"345-sankt-augustin": [
+"Sankt Augustin hat gut doppelt so viele Einwohner wie Bad Honnef.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Sankt Augustin die SPD, in Bad Honnef die Grünen."
+],
+"346-siegburg": [
+"Siegburg hat gut anderthalbmal so viele Einwohner wie Bad Honnef.",
+"Bad Honnef hat doppelt so viel Fläche wie Siegburg, aber weniger Einwohner."
+]
+},
+"ags": "05382008",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 6.7
+},
+{
+"slug": "338-koenigswinter",
+"name": "Königswinter",
+"lat": 50.68333,
+"lon": 7.18333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Königswinter",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 8 km südöstlich von Bonn.",
+"frage": "Königswinter wurde zuerst als Winetre erwähnt. Worauf deutet dieser Name nach Angabe der Stadt hin?",
+"optionen": [
+"Der Name deutet auf Weinbau hin.",
+"Der Name deutet auf strenge Winter hin.",
+"Der Name meint ein altes Winterquartier.",
+"Der Name meint eine Winterweide für Vieh."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer im Namen „Winter“ liest, denkt an Kälte oder ein Winterquartier. Doch zuerst erwähnt wurde der Ort als Winetre. Aus diesem Namen schließt die Stadt, dass der Weinbau schon damals hier heimisch war. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.koenigswinter.de/de/stadtinfo.html",
+"faktencheck": "korrigiert",
+"id": "338-koenigswinter/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Königswinter",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 8 km südöstlich von Bonn.",
+"frage": "Wie groß ist das Stadtgebiet von Königswinter?",
+"optionen": [
+"unter 50 km²",
+"50 bis unter 90 km²",
+"90 bis unter 150 km²",
+"150 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt so dicht an Bonn denkt man an ein enges, kompaktes Gebiet. Doch zu Königswinter gehören auch Ortsteile wie Oberpleis, Ittenbach, Stieldorf und Quirrenbach. Das Stadtgebiet misst 76,17 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "338-koenigswinter/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Königswinter",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 8 km südöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Zisterziensermönche gründeten einst die Abtei Heisterbach.",
+"Die Partnerstadt Cognac liegt in Nordfrankreich.",
+"Die alte Knabenschule wurde später zur Feuerwache."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Cognac nur vom Namen kennt, sucht die Stadt leicht im Norden, näher am Rheinland. Die Partnerstadt liegt aber in Südwestfrankreich. Wahr sind die anderen: Zisterziensermönche gründeten die Abtei Heisterbach, und die kriegsbeschädigte Knabenschule wurde später zur Feuerwache. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.koenigswinter.de/de/stadtinfo.html und www.koenigswinter.de/de/geschichten-aus-dem-archiv.html",
+"faktencheck": "korrigiert",
+"id": "338-koenigswinter/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Königswinter",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 8 km südöstlich von Bonn.",
+"frage": "Wie hoch war die Wahlbeteiligung in Königswinter bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine mittlere Spanne wirkt sicher, weil kaum jemand mit so hohen Werten rechnet. In Königswinter lag die Wahlbeteiligung bei der Bundestagswahl 2025 aber bei 86,8 %. Stärkste Partei wurde die CDU, vor den Grünen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "338-koenigswinter/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Königswinter",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 8 km südöstlich von Bonn.",
+"frage": "Das Hotel auf dem Petersberg war bis in die 1970er mondän. Als was wurde das Haus 1990 nach der Sanierung wiedereröffnet?",
+"optionen": [
+"Es wurde Gästehaus der Bundesrepublik Deutschland.",
+"Es wurde Sitz einer privaten Hochschule.",
+"Es wurde ein Museum der Bonner Republik.",
+"Es wurde eine Kurklinik mit Bergblick."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Museum liegt nahe, weil Bonn lange Hauptstadt war. Doch die Bundesregierung erwarb den Petersberg, ließ das Hotel restaurieren und machte es zum offiziellen Gästehaus der Bundesrepublik Deutschland. Seitdem waren dort etwa die Präsidenten Clinton und Jelzin zu Gast; auch die Afghanistan-Konferenzen fanden hier statt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.koenigswinter.de/de/stadtinfo.html",
+"faktencheck": "korrigiert",
+"id": "338-koenigswinter/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Königswinter",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 8 km südöstlich von Bonn.",
+"frage": "Welches Kfz-Kennzeichen tragen die meisten Autos in Königswinter?",
+"optionen": [
+"NR",
+"SU",
+"AW",
+"K"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mit Bonn und Köln als nächsten Großstädten tippt man leicht auf ein Großstadtkennzeichen wie K. Die meisten Autos in Königswinter tragen aber SU, das Hauptkennzeichen ihres Kreises. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "338-koenigswinter/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Königswinter",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 8 km südöstlich von Bonn.",
+"frage": "Der Priester Peter Buchholz stammte aus Oberpleis und ist dort Ehrenbürger. Wofür wurde er vor allem bekannt?",
+"optionen": [
+"Er gründete 1946 eine Siedlung für Vertriebene.",
+"Er rettete 1942 die Kirchenglocken vor dem Einschmelzen.",
+"Er betreute Verurteilte des Attentats vom 20. Juli.",
+"Er schrieb 1950 eine Chronik von Oberpleis."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Priester aus Oberpleis denkt man an Ortschronik, Kirchenglocken oder Hilfe nach dem Krieg. Peter Buchholz aber betreute seelsorgerisch die zum Tode verurteilten Männer des Attentats vom 20. Juli. Er erhielt einen Ausweis als Opfer des Faschismus. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.koenigswinter.de/de/geschichten-aus-dem-archiv.html",
+"faktencheck": "bestätigt",
+"id": "338-koenigswinter/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Königswinter",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 8 km südöstlich von Bonn.",
+"frage": "Königswinter hat eine lange Tradition als Fremdenverkehrsort. Womit begann sie nach Angabe der Stadt?",
+"optionen": [
+"Eine Heilquelle machte den Ort zum Kurbad.",
+"Die Burgruine zog mit der Romantik Besucher an.",
+"Eine Weltausstellung brachte erste Reisegruppen her.",
+"Ein Kaiser machte den Ort zur Sommerfrische."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kurbad liegt nahe, denn viele Orte am Rhein wurden durch Heilquellen bekannt. In Königswinter legte aber nach Angabe der Stadt die Burgruine Drachenfels mit dem Aufkommen der Rheinromantik den Grundstein für diese Tradition. Bis heute gilt sie als touristisches Wahrzeichen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.koenigswinter.de/de/stadtinfo.html",
+"faktencheck": "bestätigt",
+"id": "338-koenigswinter/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Königswinter",
+"steckbrief": "Stadt mit rund 40.000 Einwohnern, 8 km südöstlich von Bonn.",
+"frage": "Die evangelische Kirche im Ortsteil Oberpleis ist ein eingetragenes Baudenkmal. Was für ein Bau ist sie?",
+"optionen": [
+"Sie ist ein romanischer Bau des Mittelalters.",
+"Sie ist eine umgebaute Scheune eines Gutshofs.",
+"Sie war einst die Kapelle eines Adelssitzes.",
+"Sie ist eine Notkirche nach einem Typenplan."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Baudenkmal denkt man an Mittelalter, zumal in Oberpleis die romanische Propsteikirche steht. Die evangelische Kirche ist aber eine Notkirche vom Typ D nach Bartning, also ein schlichter Kirchenbau nach einheitlichem Plan. Sie ist weitgehend im Originalzustand erhalten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.koenigswinter.de/de/museen-und-baudenkmaeler_in_koenigswinter.html",
+"faktencheck": "bestätigt",
+"id": "338-koenigswinter/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "337-bad-honnef",
+"anschluss": [
+"Einwohner: Königswinter hat gut 15.000 mehr als Bad Honnef.",
+"Bundestagswahl 2025: CDU-Anteil in Königswinter und Bad Honnef fast gleich."
+],
+"anschluesse": {
+"186-sinzig": [
+"Landesgrenze: Sinzig liegt in Rheinland-Pfalz, Königswinter in Nordrhein-Westfalen.",
+"Königswinter hat fast zweieinhalbmal so viele Einwohner wie Sinzig."
+],
+"187-remagen": [
+"Landesgrenze: Remagen liegt in Rheinland-Pfalz, Königswinter in Nordrhein-Westfalen.",
+"Königswinter hat fast zweieinhalbmal so viele Einwohner wie Remagen."
+],
+"188-bonn": [
+"Bonn hat achtmal so viele Einwohner wie Königswinter."
+],
+"189-bornheim": [
+"Bornheim hat rund 7.400 Einwohner mehr als Königswinter.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bornheim die SPD, in Königswinter die Grünen."
+],
+"334-leubsdorf": [
+"Landesgrenze: Leubsdorf liegt in Rheinland-Pfalz, Königswinter in Nordrhein-Westfalen.",
+"Königswinter hat rund 25-mal so viele Einwohner wie Leubsdorf."
+],
+"335-unkel": [
+"Landesgrenze: Unkel liegt in Rheinland-Pfalz, Königswinter in Nordrhein-Westfalen.",
+"Königswinter hat achtmal so viele Einwohner wie Unkel."
+],
+"336-erpel": [
+"Landesgrenze: Erpel liegt in Rheinland-Pfalz, Königswinter in Nordrhein-Westfalen.",
+"Königswinter hat sechzehnmal so viele Einwohner wie Erpel."
+],
+"337-bad-honnef": [
+"Einwohner: Königswinter hat gut 15.000 mehr als Bad Honnef.",
+"Bundestagswahl 2025: CDU-Anteil in Königswinter und Bad Honnef fast gleich."
+],
+"339-troisdorf": [
+"Troisdorf hat fast doppelt so viele Einwohner wie Königswinter.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Troisdorf die SPD, in Königswinter die Grünen."
+],
+"340-neustadt-wied": [
+"Landesgrenze: Neustadt (Wied) liegt in Rheinland-Pfalz, Königswinter in Nordrhein-Westfalen.",
+"Königswinter hat gut sechsmal so viele Einwohner wie Neustadt (Wied)."
+],
+"341-windhagen": [
+"Landesgrenze: Windhagen liegt in Rheinland-Pfalz, Königswinter in Nordrhein-Westfalen.",
+"Königswinter hat fast neunmal so viele Einwohner wie Windhagen."
+],
+"342-vettelschoss": [
+"Landesgrenze: Vettelschoß liegt in Rheinland-Pfalz, Königswinter in Nordrhein-Westfalen.",
+"Königswinter hat elfmal so viele Einwohner wie Vettelschoß."
+],
+"343-asbach": [
+"Landesgrenze: Asbach liegt in Rheinland-Pfalz, Königswinter in Nordrhein-Westfalen.",
+"Königswinter hat gut fünfmal so viele Einwohner wie Asbach."
+],
+"344-hennef": [
+"Hennef hat rund 7.700 Einwohner mehr als Königswinter.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hennef die SPD, in Königswinter die Grünen."
+],
+"345-sankt-augustin": [
+"Sankt Augustin hat rund 16.000 Einwohner mehr als Königswinter.",
+"Königswinter hat gut doppelt so viel Fläche wie Sankt Augustin, aber weniger Einwohner."
+],
+"346-siegburg": [
+"Siegburg und Königswinter sind fast gleich groß: rund 42.000 und 40.000 Einwohner.",
+"Königswinter hat gut dreimal so viel Fläche wie Siegburg, aber weniger Einwohner."
+],
+"347-lohmar": [
+"Königswinter hat rund 9.600 Einwohner mehr als Lohmar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Lohmar die SPD, in Königswinter die Grünen."
+]
+},
+"ags": "05382024",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 5.3
+},
+{
+"slug": "339-troisdorf",
+"name": "Troisdorf",
+"lat": 50.81611,
+"lon": 7.15556,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Troisdorf",
+"steckbrief": "Troisdorf hat rund 76.000 Einwohner und liegt 10 km nordöstlich von Bonn.",
+"frage": "In Friedrich-Wilhelms-Hütte steht die denkmalgeschützte Arbeitersiedlung „Schwarze Kolonie“. Woher hat sie ihren Namen?",
+"optionen": [
+"Der Name stammt vom Ruß des nahen Walzwerks.",
+"Der Name stammt von schwarz gestrichenen Fassaden.",
+"Der Name stammt von einem früheren Kohlenlager.",
+"Der Name stammt von den schwarzen Dachziegeln."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Siedlung für Walzwerksarbeiter denkt man zuerst an Ruß und Rauch. Der Name ist aber schlichter: Die Kolonie erhielt ihren Namen durch die schwarzen Dachziegel. Gebaut wurde sie für Arbeiter der Mannstaedt-Werke, nachdem Louis Mannstaedt sein Walzwerk von Köln-Kalk nach Troisdorf verlagert hatte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.troisdorf.de/de/rathaus-service/stadtportraet/sehenswuerdigkeiten/kolonien/",
+"faktencheck": "korrigiert",
+"id": "339-troisdorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Troisdorf",
+"steckbrief": "Troisdorf hat rund 76.000 Einwohner und liegt 10 km nordöstlich von Bonn.",
+"frage": "Wie hoch über dem Meeresspiegel liegt Troisdorf?",
+"optionen": [
+"unter 60 m",
+"60 bis unter 120 m",
+"120 bis unter 250 m",
+"250 m und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer die Hügel rund um Bonn vor Augen hat, schätzt leicht höher. Troisdorf liegt aber nahe der Mündung der Sieg in den Rhein und damit tief: 55 Meter über dem Meer. Richtig war 1.",
+"quelle": "Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2821029)",
+"faktencheck": "bestätigt",
+"id": "339-troisdorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Troisdorf",
+"steckbrief": "Troisdorf hat rund 76.000 Einwohner und liegt 10 km nordöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Rote Kolonie entstand für Meister und Vorarbeiter.",
+"Eine Stiftung bewahrt Heinz Müllers Fotos seiner Heimatstadt.",
+"Das Forsthaus Telegraph wurde als Försterei gebaut."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name Forsthaus lässt an eine Försterei denken, der zweite Namensteil verrät mehr: Das Gebäude auf dem Telegrafenberg wurde als Station eines Sichttelegraphen gebaut, der Nachrichten über Sichtzeichen von Station zu Station weitergab. Die Aussagen zur Roten Kolonie und zur Stiftung stimmen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.troisdorf.de/de/rathaus-service/stadtportraet/sehenswuerdigkeiten/",
+"faktencheck": "korrigiert",
+"id": "339-troisdorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Troisdorf",
+"steckbrief": "Troisdorf hat rund 76.000 Einwohner und liegt 10 km nordöstlich von Bonn.",
+"frage": "Bundestagswahl 2025 in Troisdorf: Wie viel Prozent der Zweitstimmen holte die stärkste Partei?",
+"optionen": [
+"unter 22 %",
+"22 bis unter 26 %",
+"26 bis unter 32 %",
+"32 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Umland von Bonn traut man der CDU leicht mehr zu. In Troisdorf kam sie auf 29,2 Prozent der Zweitstimmen, klar vor SPD und AfD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "339-troisdorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Troisdorf",
+"steckbrief": "Troisdorf hat rund 76.000 Einwohner und liegt 10 km nordöstlich von Bonn.",
+"frage": "Zur Burg Wissem gehören mehrere Gebäude. Was ist heute im Herrenhaus untergebracht?",
+"optionen": [
+"Dort hat das Stadtmuseum seine Räume.",
+"Dort traut das Standesamt Brautpaare.",
+"Dort bewahrt eine Stiftung ein Fotoarchiv auf.",
+"Dort ist ein Museum für Bilderbücher untergebracht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einer Burg vermutet man zuerst das Stadtmuseum. Das Museum für Stadt- und Industriegeschichte sitzt aber, mit Trauzimmer und Tourist-Information, im umgebauten früheren Gebäude der Stadtverwaltung an der Burgallee. Die Remise ist Sitz der Heinz-Müller-Stiftung. Im Herrenhaus ist das Bilderbuchmuseum untergebracht, das historische Bilderbücher und Illustrationen sammelt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.troisdorf.de/de/rathaus-service/stadtportraet/burg-wissem/",
+"faktencheck": "korrigiert",
+"id": "339-troisdorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Troisdorf",
+"steckbrief": "Troisdorf hat rund 76.000 Einwohner und liegt 10 km nordöstlich von Bonn.",
+"frage": "Wie weit ist es von Troisdorf in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"52 km",
+"31 km",
+"78 km",
+"105 km"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im dicht besiedelten Rheinland wirken Entfernungen oft kürzer, als sie sind. Von Troisdorf bis zur Landeshauptstadt Düsseldorf sind es in Luftlinie 52 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "339-troisdorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Troisdorf",
+"steckbrief": "Troisdorf hat rund 76.000 Einwohner und liegt 10 km nordöstlich von Bonn.",
+"frage": "Im Ortsteil Bergheim steht der Aalschokker „Maria Theresia“ unter Denkmalschutz. Als was wurde das Boot gebaut?",
+"optionen": [
+"Es wurde als Fähre über die Sieg gebaut.",
+"Es wurde als Lastkahn gebaut.",
+"Es wurde als Ausflugsschiff gebaut.",
+"Es wurde von Anfang an als Aalfangboot gebaut."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name legt nahe, dass das Boot für den Aalfang gebaut wurde; ein Aalschokker ist ein Fischerboot für Aale. Die „Maria Theresia“ entstand aber als Lastkahn und diente erst später dem Aalfang. Sie steht als bewegliches Denkmal unter Schutz. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.troisdorf.de/de/rathaus-service/stadtportraet/denkmalschutz/steckbrief-aalschokker.pdf",
+"faktencheck": "bestätigt",
+"id": "339-troisdorf/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Troisdorf",
+"steckbrief": "Troisdorf hat rund 76.000 Einwohner und liegt 10 km nordöstlich von Bonn.",
+"frage": "Burg Wissem ist erst 1474 schriftlich nachgewiesen. Was sagt die Stadt über ihren Ursprung?",
+"optionen": [
+"Sie entstand erst in der Neuzeit.",
+"Sie geht auf ein römisches Lager zurück.",
+"Ihr Ursprung reicht in die Merowingerzeit zurück.",
+"Sie wurde im Spätmittelalter gegründet."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Nachweis aus dem 15. Jahrhundert lässt an eine Gründung im Spätmittelalter denken. Die Stadt führt den Ursprung der früheren freiadeligen Hofanlage aber bis in die Merowingerzeit zurück. Gesichert ist das nicht: Nach der Denkmalpflege ist die Burg erst seit den 1430er Jahren urkundlich belegt. Sie war Stammsitz der Herren von Troisdorf und ist heute das Wahrzeichen der Stadt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.troisdorf.de/de/rathaus-service/stadtportraet/burg-wissem/",
+"faktencheck": "korrigiert",
+"id": "339-troisdorf/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Troisdorf",
+"steckbrief": "Troisdorf hat rund 76.000 Einwohner und liegt 10 km nordöstlich von Bonn.",
+"frage": "Hinter Burg Wissem beginnt die Wahner Heide, ein Naturschutzgebiet von europäischem Rang. Welcher Teil der Heide liegt auf Troisdorfer Stadtgebiet?",
+"optionen": [
+"Etwa ein Zehntel liegt in Troisdorf.",
+"Etwa ein Viertel liegt in Troisdorf.",
+"Etwa drei Viertel liegen in Troisdorf.",
+"Etwa die Hälfte liegt in Troisdorf."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Schutzgebiet, das sich eine Stadt mit Nachbarn teilt, schätzt man auf dem eigenen Gebiet leicht zu klein. Tatsächlich liegt ungefähr die Hälfte der Wahner Heide in Troisdorf. Sie bietet vielfältige Lebensräume für seltene Pflanzen und Tiere und grenzt direkt an den Burgpark. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.troisdorf.de/de/rathaus-service/stadtportraet/sehenswuerdigkeiten/",
+"faktencheck": "korrigiert",
+"id": "339-troisdorf/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Troisdorf",
+"steckbrief": "Troisdorf hat rund 76.000 Einwohner und liegt 10 km nordöstlich von Bonn.",
+"frage": "Axel Hinrich Murken, Mediziner und Kunsthistoriker, übergab dem Bilderbuchmuseum seine Sammlung. Welches Thema hat sie?",
+"optionen": [
+"Sie dreht sich um Kind, Krankheit und Krankenhaus.",
+"Sie handelt von Schiffbruch und einsamen Inseln.",
+"Sie zeigt Kinderbücher über Tiere und Natur.",
+"Sie zeigt künstlerisch herausragende Bilderbuchkunst."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Kunsthistoriker liegt Buchkunst nahe, doch die sammelte Friedrich C. Heller. Murken, zugleich Mediziner, verband beides: Seine Sammlung zeigt Heilkunde, Arzt, Krankenhaus und Hygiene in Kinderbüchern, vom Struwwelpeter bis zu Sachbüchern, dazu Gemälde und Graphiken zum Thema Arzt und Kind. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.troisdorf.de/de/natur-kultur/bilderbuchmuseum/sammlungen/historische-bilderbuchsammlungen/",
+"faktencheck": "bestätigt",
+"id": "339-troisdorf/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "338-koenigswinter",
+"anschluss": [
+"Kennzeichen: In Troisdorf und Königswinter steht SU am Auto.",
+"Einwohner: Troisdorf hat fast doppelt so viele wie Königswinter."
+],
+"anschluesse": {
+"188-bonn": [
+"Bonn hat fast viereinhalbmal so viele Einwohner wie Troisdorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bonn die Grünen, in Troisdorf die SPD."
+],
+"189-bornheim": [
+"Troisdorf hat gut anderthalbmal so viele Einwohner wie Bornheim."
+],
+"190-bruehl": [
+"Troisdorf hat gut anderthalbmal so viele Einwohner wie Brühl."
+],
+"192-koeln": [
+"Köln hat fast vierzehnmal so viele Einwohner wie Troisdorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Troisdorf die SPD."
+],
+"337-bad-honnef": [
+"Troisdorf hat dreimal so viele Einwohner wie Bad Honnef.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Honnef die Grünen, in Troisdorf die SPD."
+],
+"338-koenigswinter": [
+"Kennzeichen: In Troisdorf und Königswinter steht SU am Auto.",
+"Einwohner: Troisdorf hat fast doppelt so viele wie Königswinter."
+],
+"344-hennef": [
+"Troisdorf hat gut anderthalbmal so viele Einwohner wie Hennef."
+],
+"345-sankt-augustin": [
+"Troisdorf hat rund 20.000 Einwohner mehr als Sankt Augustin."
+],
+"346-siegburg": [
+"Troisdorf hat fast doppelt so viele Einwohner wie Siegburg."
+],
+"347-lohmar": [
+"Troisdorf hat zweieinhalbmal so viele Einwohner wie Lohmar."
+],
+"348-roesrath": [
+"Troisdorf hat gut zweieinhalbmal so viele Einwohner wie Rösrath."
+]
+},
+"ags": "05382068",
+"ortsteil": false,
+"km_vom_vorigen": 14.9
+},
+{
+"slug": "340-neustadt-wied",
+"name": "Neustadt (Wied)",
+"lat": 50.62083,
+"lon": 7.42889,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neustadt (Wied)",
+"steckbrief": "Die Gemeinde hat rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
+"frage": "In Neustadt (Wied) stößt man auf einen alten Damm, Brückenruinen und einen Tunnel. Woher stammen sie?",
+"optionen": [
+"Sie gehörten zu einem nie vollendeten Kanal.",
+"Sie stammen von einer römischen Wasserleitung.",
+"Sie gehörten zu einer stillgelegten Eisenbahnlinie.",
+"Sie sind Reste einer Festungslinie aus Kriegszeiten."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Tunnel und Brückenruinen lassen an eine Festungslinie aus Kriegszeiten denken. Tatsächlich sind der alte Bahndamm, die Brücken und der Tunnel Reste der ehemaligen Eisenbahnlinie Linz–Altenkirchen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/sehenswürdigkeiten",
+"faktencheck": "korrigiert",
+"id": "340-neustadt-wied/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Neustadt (Wied)",
+"steckbrief": "Die Westerwaldgemeinde zählt rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
+"frage": "Wie viele Einwohner leben in Neustadt (Wied) durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 60",
+"60 bis unter 120",
+"120 bis unter 160",
+"160 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wald, Wiedtal und viele kleine Ortsteile lassen an eine dünne Besiedlung denken. Doch auf einen Quadratkilometer kommen in Neustadt (Wied) rund 183 Einwohner, berechnet aus Einwohnerzahl und Gemeindefläche. Richtig war 4.",
+"quelle": "Grunddaten dichte_ew_km2, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "340-neustadt-wied/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Neustadt (Wied)",
+"steckbrief": "Die Gemeinde im Westerwald hat rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Dreißigjährigen Krieg blieb Neustadt von Verwüstung verschont.",
+"Neustadt gehörte früher einmal zum Kurfürstentum Köln.",
+"Eine Westerwälder Räuberbande fand in Neustadt ihr Ende."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Räuberbande klingt nach Sage, ist aber belegt: Sie fand in Neustadt ein spektakuläres Ende. Auch Kurköln stimmt; später kam der Ort an den Fürsten zu Wied. Gelogen ist das Verschontbleiben: Ein schwedisches Heer hinterließ schwere Verwüstungen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/geschichte",
+"faktencheck": "korrigiert",
+"id": "340-neustadt-wied/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Neustadt (Wied)",
+"steckbrief": "Die Westerwaldgemeinde hat rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Neustadt (Wied) nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"FDP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hinter der CDU hätte man die SPD erwarten können, die im Westen lange Platz zwei belegte. Doch in Neustadt (Wied) kam die AfD mit 22,7 Prozent auf Platz zwei, deutlich vor der SPD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "340-neustadt-wied/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neustadt (Wied)",
+"steckbrief": "Neustadt (Wied) zählt rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
+"frage": "1250 ging das Amt Altenwied an das Erzstift Köln über. Auf welchem Weg?",
+"optionen": [
+"Köln eroberte die Burg in einer Fehde.",
+"Es kam als Mitgift durch eine Heirat.",
+"Eine verwitwete Gräfin verkaufte es an Köln.",
+"Der Kaiser schenkte es dem Erzbischof."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Burgen und Ämter wechselten im Mittelalter oft durch Fehden den Herrn, daher liegt die Eroberung nahe. Doch nach dem Tod ihres Mannes verkaufte Mechthilde von Sayn das Amt. Das Erzstift war das weltliche Herrschaftsgebiet des Kölner Erzbischofs. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/geschichte",
+"faktencheck": "bestätigt",
+"id": "340-neustadt-wied/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Neustadt (Wied)",
+"steckbrief": "Die Gemeinde in Rheinland-Pfalz hat rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
+"frage": "Wie weit ist es von Neustadt (Wied) Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 40 km",
+"40 bis unter 60 km",
+"60 bis unter 80 km",
+"80 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Weil Neustadt in Rheinland-Pfalz liegt, scheint die Landeshauptstadt nicht weit. Doch nach Bonn ist es viel näher; bis Mainz sind es 93 Kilometer Luftlinie. Richtig war 4.",
+"quelle": "Grunddaten km_landeshauptstadt, berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "340-neustadt-wied/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neustadt (Wied)",
+"steckbrief": "Die Gemeinde hat rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
+"frage": "Die Pfarrkirche St. Margarita hat einen Vorgängerbau von 1229. Wer ließ ihn bauen?",
+"optionen": [
+"Das Grafenpaar von Sayn ließ ihn bauen.",
+"Der Kölner Erzbischof ließ ihn bauen.",
+"Die Bauern des Wiedtals bauten ihn selbst.",
+"Die Mönche von Maria Laach ließen ihn bauen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Pfarrkirche denkt man an einen Bischof als Bauherrn. Bauen ließen den Vorgängerbau aber Graf Heinrich III. von Sayn und seine Gemahlin Mechthilde. Die heutige Kirche ist ein späterer Neubau. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/geschichte",
+"faktencheck": "bestätigt",
+"id": "340-neustadt-wied/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neustadt (Wied)",
+"steckbrief": "Die Gemeinde zählt rund 6.500 Einwohner und liegt 27 km südöstlich von Bonn.",
+"frage": "Zur katholischen Pfarrkirche von Neustadt gehört ein Stein aus dem 3. Jahrhundert. Was für ein Stein ist das?",
+"optionen": [
+"Es ist ein römischer Meilenstein.",
+"Es ist ein römischer Opferstein.",
+"Es ist ein germanischer Runenstein.",
+"Es ist ein Grenzstein des Limes."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Stein aus der Römerzeit lässt an Straßen oder den Limes denken, die römische Grenzanlage. Tatsächlich ist es ein römischer Opferstein, also ein Altar für Gaben an Götter. An derselben Kirche befinden sich auch Grabplatten eines Junkers und seiner Witwe. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.neustadt-wied.de/sehenswürdigkeiten",
+"faktencheck": "korrigiert",
+"id": "340-neustadt-wied/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "339-troisdorf",
+"anschluss": [
+"Troisdorf hat über elfmal so viele Einwohner wie Neustadt (Wied).",
+"Kennzeichen: SU in Troisdorf, NR in Neustadt (Wied)."
+],
+"anschluesse": {
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Neustadt (Wied) zum Landkreis Neuwied.",
+"Bad Breisig hat anderthalbmal so viele Einwohner wie Neustadt (Wied)."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Neustadt (Wied) zum Landkreis Neuwied.",
+"Sinzig hat gut zweieinhalbmal so viele Einwohner wie Neustadt (Wied)."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Neustadt (Wied) zum Landkreis Neuwied.",
+"Remagen hat gut zweieinhalbmal so viele Einwohner wie Neustadt (Wied)."
+],
+"333-rheinbrohl": [
+"Neustadt (Wied) hat gut anderthalbmal so viele Einwohner wie Rheinbrohl.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rheinbrohl die SPD, in Neustadt (Wied) die AfD."
+],
+"334-leubsdorf": [
+"Neustadt (Wied) hat viermal so viele Einwohner wie Leubsdorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Leubsdorf die SPD, in Neustadt (Wied) die AfD."
+],
+"335-unkel": [
+"Neustadt (Wied) hat rund 1.500 Einwohner mehr als Unkel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Unkel die SPD, in Neustadt (Wied) die AfD."
+],
+"336-erpel": [
+"Neustadt (Wied) hat zweieinhalbmal so viele Einwohner wie Erpel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Erpel die SPD, in Neustadt (Wied) die AfD."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Neustadt (Wied) in Rheinland-Pfalz.",
+"Bad Honnef hat fast viermal so viele Einwohner wie Neustadt (Wied)."
+],
+"338-koenigswinter": [
+"Landesgrenze: Königswinter liegt in Nordrhein-Westfalen, Neustadt (Wied) in Rheinland-Pfalz.",
+"Königswinter hat gut sechsmal so viele Einwohner wie Neustadt (Wied)."
+],
+"341-windhagen": [
+"Neustadt (Wied) hat fast anderthalbmal so viele Einwohner wie Windhagen."
+],
+"342-vettelschoss": [
+"Neustadt (Wied) hat fast doppelt so viele Einwohner wie Vettelschoß."
+],
+"343-asbach": [
+"Asbach hat rund 1.300 Einwohner mehr als Neustadt (Wied)."
+],
+"339-troisdorf": [
+"Troisdorf hat über elfmal so viele Einwohner wie Neustadt (Wied).",
+"Kennzeichen: SU in Troisdorf, NR in Neustadt (Wied)."
+]
+},
+"ags": "07138044",
+"ortsteil": false,
+"km_vom_vorigen": 29.0
+},
+{
+"slug": "341-windhagen",
+"name": "Windhagen",
+"lat": 50.64346,
+"lon": 7.35431,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Die Hallerbacher Kapelle ist nicht nach Osten, sondern nach Nordwesten ausgerichtet. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Der Stifter wollte zu seinem Hof blicken.",
+"Sie zeigt auf eine keltische Kultstätte.",
+"Ein Baumeister verwechselte die Himmelsrichtungen.",
+"Sie wurde nach einem Brand gedreht wiederaufgebaut."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kirchen blicken meist nach Osten, eine Abweichung wirkt daher wie ein Versehen oder eine Laune des Stifters. Die Ortsgeschichte nennt einen anderen Grund: Die Hallerbacher Kapelle ist nach Nordwesten ausgerichtet, auf eine keltische Kultstätte hin. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, windhagen.de/html/geschichte.htm",
+"faktencheck": "bestätigt",
+"id": "341-windhagen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde im Landkreis Neuwied, 21 km südöstlich von Bonn.",
+"frage": "Wie viele Einwohner hat die Gemeinde Windhagen?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 3.000",
+"3.000 bis unter 6.000",
+"6.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an einen Ort im Naturpark Rhein-Westerwald denkt, tippt leicht auf ein kleines Dorf. Windhagen zählte Ende 2025 aber 4.664 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "341-windhagen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Friedhofskreuz von Windhagen besteht aus Basaltlava.",
+"Die Pfarrkirche St. Bartholomäus ist eine evangelische Kirche.",
+"Die Glocke der Dreifaltigkeitskapelle wurde in Neuwied gegossen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Basaltlava und eine Glocke aus Neuwied klingen nach Erfindung, sind aber belegt. Gelogen war die Konfession: St. Bartholomäus ist katholisch und bildet den Mittelpunkt des Ortszentrums. Wer an das katholisch geprägte Rheinland und den Heiligennamen dachte, lag richtig. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, windhagen.de/html/sehenswertes.htm",
+"faktencheck": "bestätigt",
+"id": "341-windhagen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Wie hoch war die Wahlbeteiligung in Windhagen bei der Bundestagswahl 2025?",
+"optionen": [
+"86 % und mehr",
+"82 bis unter 86 %",
+"78 bis unter 82 %",
+"unter 78 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Landgemeinde rechnet man leicht mit weniger Andrang an den Urnen. Bei der Bundestagswahl 2025 gaben in Windhagen aber 87,2 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Partei wurde die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "341-windhagen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Der Taubenbrunnen in der Ortsmitte steht sogar im Gemeindewappen. Wogegen half sein Wasser nach mittelalterlichem Volksmund?",
+"optionen": [
+"Es sollte Augenleiden heilen.",
+"Es sollte Gehörschäden heilen.",
+"Es sollte Zahnschmerzen lindern.",
+"Es sollte vor Fieber schützen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Heilwasser galt oft als gut für die Augen, und der Name lässt eher an Vögel denken als an Ohren. Nach mittelalterlichem Volksmund sollte das Wasser des Taubenbrunnens in der Ortsmitte bei Gehörschäden helfen. Das Gemeindewappen zeigt ihn als goldenen Brunnen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, windhagen.de/html/geschichte.htm",
+"faktencheck": "bestätigt",
+"id": "341-windhagen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern im Landkreis Neuwied, 21 km südöstlich von Bonn.",
+"frage": "Wie weit ist es von Windhagen in Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 90 km",
+"90 bis unter 120 km",
+"120 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer Rheinland-Pfalz für klein hält, schätzt leicht zu kurz. Windhagen gehört zu Rheinland-Pfalz, liegt aber nahe an Bonn in Nordrhein-Westfalen. Die Landeshauptstadt Mainz ist dagegen 99 Kilometer Luftlinie entfernt. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "341-windhagen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Das Glöckchen der Kapelle St. Mariä Heimsuchung in Hüngsberg stammt nicht aus der Gegend. Wie kam es dorthin?",
+"optionen": [
+"Es war ein Geschenk aus Frankreich.",
+"Es läutete früher auf einem Hamburger Dampfer.",
+"Es kam aus einer Kirche in Bayern.",
+"Es kam als Leihglocke aus Schlesien."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Geschenk oder ein ausgedientes Schiffsglöckchen klingen nach typischer Dorfgeschichte. Das Glöckchen stammt aber aus Lauer in Schlesien und wurde nach dem Krieg als Leihglocke hierher verschlagen: eine Glocke, die eine Gemeinde nutzt, ohne dass sie ihr gehört. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, windhagen.de/html/sehenswertes.htm",
+"faktencheck": "unsicher",
+"id": "341-windhagen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Die Brüder Roth stifteten in Stockhausen Startkapital und Baugrund für eine Marienkapelle. Was war ihr Anlass?",
+"optionen": [
+"Sie dankten für ihre unversehrte Kriegsheimkehr.",
+"Sie dankten für das Ende einer Seuche.",
+"Sie dankten für ihre Rettung aus Hochwasser.",
+"Sie dankten für ihr Glück als Auswanderer."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Seuchen waren ein häufiger Anlass für Dankkapellen, deshalb liegt diese Theorie nahe. Die Brüder Roth dankten aber für ihre unversehrte Rückkehr aus dem Deutsch-Französischen Krieg. Geweiht wurde die Kapelle der Immerwährenden Hilfe. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, windhagen.de/html/sehenswertes.htm",
+"faktencheck": "bestätigt",
+"id": "341-windhagen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Windhagen",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
+"frage": "Das Gemeindewappen von Windhagen zeigt drei Rosen und einen blauen Wellenbalken. Woher stammt dieses Motiv?",
+"optionen": [
+"Es erinnert an einen alten Rosenmarkt.",
+"Es stammt aus dem Wappen eines Adelsgeschlechts.",
+"Es geht auf ein Schützenabzeichen zurück.",
+"Es zeigt das Siegel einer Zunft."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Rosen lassen an Gärten oder Märkte denken. Das Feld mit dem Wellenbalken, einem gewellten Querstreifen, stammt aber aus dem Wappen derer von Schoenebeck. Das niederadlige Geschlecht kam vom Niederrhein nach Windhagen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, windhagen.de/html/geschichte.htm",
+"faktencheck": "bestätigt",
+"id": "341-windhagen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "340-neustadt-wied",
+"anschluss": [],
+"anschluesse": {
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Windhagen zum Landkreis Neuwied.",
+"Bad Breisig hat gut doppelt so viele Einwohner wie Windhagen."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Windhagen zum Landkreis Neuwied.",
+"Sinzig hat gut dreieinhalbmal so viele Einwohner wie Windhagen."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Windhagen zum Landkreis Neuwied.",
+"Remagen hat fast viermal so viele Einwohner wie Windhagen."
+],
+"333-rheinbrohl": [
+"Windhagen hat rund 500 Einwohner mehr als Rheinbrohl.",
+"Windhagen liegt rund 210 Meter höher als Rheinbrohl."
+],
+"334-leubsdorf": [
+"Windhagen hat fast dreimal so viele Einwohner wie Leubsdorf.",
+"Windhagen liegt rund 220 Meter höher als Leubsdorf."
+],
+"335-unkel": [
+"Unkel und Windhagen sind fast gleich groß: rund 5.000 und 4.700 Einwohner.",
+"Windhagen liegt rund 230 Meter höher als Unkel."
+],
+"336-erpel": [
+"Windhagen hat fast doppelt so viele Einwohner wie Erpel.",
+"Windhagen liegt rund 230 Meter höher als Erpel."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Windhagen in Rheinland-Pfalz.",
+"Bad Honnef hat gut fünfmal so viele Einwohner wie Windhagen."
+],
+"338-koenigswinter": [
+"Landesgrenze: Königswinter liegt in Nordrhein-Westfalen, Windhagen in Rheinland-Pfalz.",
+"Königswinter hat fast neunmal so viele Einwohner wie Windhagen."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat fast anderthalbmal so viele Einwohner wie Windhagen."
+],
+"342-vettelschoss": [
+"Windhagen hat rund 1.000 Einwohner mehr als Vettelschoß."
+],
+"343-asbach": [
+"Asbach hat gut anderthalbmal so viele Einwohner wie Windhagen."
+],
+"344-hennef": [
+"Landesgrenze: Hennef liegt in Nordrhein-Westfalen, Windhagen in Rheinland-Pfalz.",
+"Hennef hat gut zehnmal so viele Einwohner wie Windhagen."
+],
+"345-sankt-augustin": [
+"Landesgrenze: Sankt Augustin liegt in Nordrhein-Westfalen, Windhagen in Rheinland-Pfalz.",
+"Sankt Augustin hat zwölfmal so viele Einwohner wie Windhagen."
+]
+},
+"ags": "07138077",
+"ortsteil": false,
+"km_vom_vorigen": 5.8
+},
+{
+"slug": "342-vettelschoss",
+"name": "Vettelschoß",
+"lat": 50.61806,
+"lon": 7.34806,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vettelschoß / Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn. / In den 1920er-Jahren entstand im Ortsteil Kalenborn ein Schmelzbasaltwerk. Von wem stammte die Idee zum Schmelzbasalt? / 1. Die Idee stammte von einem französischen Arzt. / 2. Die Idee stammte von einem deutschen Steinbruchmeister. / 3. Die Idee stammte von einem englischen Chemiker. / 4. Die Idee stammte von einem belgischen Ingenieur.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Steinbruchmeister liegt nahe, denn bei Vettelschoß wurde Basalt gebrochen. Doch die Idee stammte von einem französischen Arzt, der in Laborversuchen den Grundstein legte. In Kalenborn wurde Schmelzbasalt dann industriell hergestellt. Der Werkstoff schützt gegen Verschleiß. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
+"faktencheck": "korrigiert",
+"id": "342-vettelschoss/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Vettelschoß",
+"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
+"frage": "Wie groß ist die Fläche der Gemeinde Vettelschoß?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Ort dieser Einwohnerzahl denkt man an ein Dorf mit weiten Feldern und Wäldern ringsum. Doch Vettelschoß ist klein: Die Gemeinde misst nur 6,91 Quadratkilometer und ist entsprechend dicht besiedelt. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "342-vettelschoss/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Vettelschoß",
+"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bis 1803 gehörte der Schmitzhof einem Kloster.",
+"1778 fand eine Äbtissin den Katharinenhof in Kalenborn abgebrannt vor.",
+"Um 1900 lebten in Vettelschoß überwiegend Protestanten."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war die Konfession: Um 1900 war Vettelschoß vollständig katholisch. Die evangelische Johanneskirche kam erst Jahrzehnte später. Wahr sind dagegen die alten Hofgeschichten, auch wenn sie erfunden klingen: Der Schmitzhof gehörte bis 1803 dem Kloster St. Katharinen, und 1778 fand die Äbtissin den Katharinenhof in Kalenborn abgebrannt und öde vor. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
+"faktencheck": "korrigiert",
+"id": "342-vettelschoss/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Vettelschoß",
+"steckbrief": "Vettelschoß ist eine Gemeinde mit rund 3.700 Einwohnern, 22 km südöstlich von Bonn.",
+"frage": "Wie hoch war bei der Bundestagswahl 2025 in Vettelschoß der Zweitstimmenanteil der stärksten Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 31 %",
+"31 bis unter 36 %",
+"36 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer das bundesweite Ergebnis der Union im Kopf hat, tippt eher auf eine mittlere Spanne. Doch in Vettelschoß lag die CDU klar vorn: Sie holte 37,3 Prozent der Zweitstimmen, deutlich vor der AfD auf Platz zwei. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "342-vettelschoss/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vettelschoß",
+"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
+"frage": "Im März 1945 nahmen US-Truppen die Ludendorff-Brücke zwischen Remagen und Erpel ein. Was folgte daraus für Vettelschoß?",
+"optionen": [
+"In Vettelschoß tobten heftige Bodenkämpfe.",
+"Vettelschoß wurde kampflos an die Amerikaner übergeben.",
+"Vettelschoß lag abseits der Front und blieb verschont.",
+"Vettelschoß wurde nur aus der Luft angegriffen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Brücke denkt, sieht den Krieg am Rheinufer und das Hinterland verschont. Doch nach der Einnahme gab es heftige Bodenkämpfe bis nach Vettelschoß: In Kalenborn, Oberwillscheid und Kretzhaus wurden Häuser stark beschädigt oder völlig zerstört. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
+"faktencheck": "bestätigt",
+"id": "342-vettelschoss/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Vettelschoß",
+"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
+"frage": "Zu welchem Landkreis gehört Vettelschoß?",
+"optionen": [
+"Landkreis Ahrweiler",
+"Landkreis Neuwied",
+"Rhein-Sieg-Kreis",
+"Landkreis Altenkirchen"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Bonn spricht für den Rhein-Sieg-Kreis. Doch zwischen Bonn und Vettelschoß verläuft die Landesgrenze: Vettelschoß liegt in Rheinland-Pfalz und gehört zum Landkreis Neuwied, die Autos tragen meist NR. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "342-vettelschoss/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Vettelschoß / Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn. / Nach dem Zweiten Weltkrieg siedelte sich die Firma Streif Schalungsbau in Vettelschoß an. Später wurde sie eine große Fertighausfirma. Wie viele Mitarbeiter hatte sie in ihrer Spitzenzeit? / 1. unter 500 / 2. 500 bis unter 2.000 / 3. 2.000 bis unter 8.000 / 4. 8.000 und mehr",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Firma in einem Dorf dieser Größe stellt man sich mittelständisch vor. Doch Streif wurde nach Angaben der Gemeinde eine der größten Fertighausfirmen Deutschlands, mit insgesamt bis zu 5.000 Mitarbeitern, mehr als Vettelschoß heute Einwohner hat. Später traf der Niedergang der Bauwirtschaft auch Streif. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
+"faktencheck": "korrigiert",
+"id": "342-vettelschoss/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vettelschoß",
+"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
+"frage": "Für die heutige Michaelskirche musste die alte Dorfkirche weichen. Woher kam der Professor, der den Neubau plante?",
+"optionen": [
+"Er kam aus Trier.",
+"Er kam aus Zürich.",
+"Er kam aus Aachen.",
+"Er kam aus Münster."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Dorfkirche denkt man an einen Planer aus der Region oder aus einer Bischofsstadt. Doch den Neubau plante Prof. Dahinden aus Zürich. Die alte Kirche zur Heiligen Familie musste weichen, weil die Kirchengemeinde stark gewachsen war und Kriegsschäden ihren Bauzustand verschlechtert hatten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
+"faktencheck": "bestätigt",
+"id": "342-vettelschoss/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Option 4 lautet jetzt: „Das Geld sollte einen regelmäßigen Sonntagsgottesdienst sichern.“ (Rest unverändert.)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Schule oder die Armen wären typische Stiftungszwecke. Doch ein Gottesdienst an jedem Sonntag war in Vettelschoß damals nicht selbstverständlich. Stockhausen stiftete die 735 Taler, damit es ihn regelmäßig gab. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
+"faktencheck": "korrigiert",
+"id": "342-vettelschoss/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vettelschoß / Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn. / Kalenborn, heute Ortsteil von Vettelschoß, gilt als erstmals 1209 urkundlich belegt. Worum ging es in dieser Urkunde? / 1. Kalenborn erhielt das Stadtrecht. / 2. Die Bauern erhielten dort ein Marktrecht. / 3. Ein Erzbischof verzichtete auf ein Wildbannrecht. / 4. Kalenborn bekam eine eigene Pfarrkirche.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Marktrecht oder Stadtrecht liegt nahe, denn solche Rechte wurden oft beurkundet. In der Urkunde aber verzichtete Erzbischof Dietrich von Köln auf ein Wildbannrecht, also ein Jagdrecht in einem Gebiet. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
+"faktencheck": "korrigiert",
+"id": "342-vettelschoss/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "341-windhagen",
+"anschluss": [
+"Vettelschoß und Windhagen teilen sich eine evangelische Kirchengemeinde.",
+"Fläche: Windhagen ist fast doppelt so groß wie Vettelschoß."
+],
+"anschluesse": {
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Vettelschoß zum Landkreis Neuwied.",
+"Bad Breisig hat gut zweieinhalbmal so viele Einwohner wie Vettelschoß."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Vettelschoß zum Landkreis Neuwied.",
+"Sinzig hat gut viereinhalbmal so viele Einwohner wie Vettelschoß."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Vettelschoß zum Landkreis Neuwied.",
+"Remagen hat fast fünfmal so viele Einwohner wie Vettelschoß."
+],
+"333-rheinbrohl": [
+"Rheinbrohl hat rund 500 Einwohner mehr als Vettelschoß.",
+"Vettelschoß liegt rund 200 Meter höher als Rheinbrohl."
+],
+"334-leubsdorf": [
+"Vettelschoß hat fast zweieinhalbmal so viele Einwohner wie Leubsdorf.",
+"Vettelschoß liegt rund 200 Meter höher als Leubsdorf."
+],
+"335-unkel": [
+"Unkel hat rund 1.300 Einwohner mehr als Vettelschoß.",
+"Vettelschoß liegt rund 220 Meter höher als Unkel."
+],
+"336-erpel": [
+"Vettelschoß hat fast anderthalbmal so viele Einwohner wie Erpel.",
+"Vettelschoß liegt rund 220 Meter höher als Erpel."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Vettelschoß in Rheinland-Pfalz.",
+"Bad Honnef hat fast siebenmal so viele Einwohner wie Vettelschoß."
+],
+"338-koenigswinter": [
+"Landesgrenze: Königswinter liegt in Nordrhein-Westfalen, Vettelschoß in Rheinland-Pfalz.",
+"Königswinter hat elfmal so viele Einwohner wie Vettelschoß."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat fast doppelt so viele Einwohner wie Vettelschoß."
+],
+"341-windhagen": [
+"Vettelschoß und Windhagen teilen sich eine evangelische Kirchengemeinde.",
+"Fläche: Windhagen ist fast doppelt so groß wie Vettelschoß."
+],
+"343-asbach": [
+"Asbach hat gut doppelt so viele Einwohner wie Vettelschoß."
+],
+"344-hennef": [
+"Landesgrenze: Hennef liegt in Nordrhein-Westfalen, Vettelschoß in Rheinland-Pfalz.",
+"Hennef hat dreizehnmal so viele Einwohner wie Vettelschoß."
+]
+},
+"ags": "07138075",
+"ortsteil": false,
+"km_vom_vorigen": 2.9
+},
+{
+"slug": "343-asbach",
+"name": "Asbach",
+"lat": 50.66714,
+"lon": 7.42458,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Asbach",
+"steckbrief": "Asbach, rund 7.800 Einwohner, liegt 24 km östlich von Bonn.",
+"frage": "Wie groß ist die Fläche der Gemeinde Asbach?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 60 km²",
+"60 bis unter 80 km²",
+"80 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Gemeinde mit fast 8.000 Einwohnern stellt man sich leicht weitläufig vor, also über 40 Quadratkilometer. Asbach kommt aber auf 38,58 Quadratkilometer und liegt damit knapp in der kleinsten Spanne. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "343-asbach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Asbach",
+"steckbrief": "Asbach ist eine Gemeinde mit rund 7.800 Einwohnern, 24 km östlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"St. Laurentius verlor im Krieg ihren romanischen Turm.",
+"Der Autor Peter Wittkamp wurde in Asbach geboren.",
+"Ein Kölner entwarf die neugotische Kirche St. Laurentius."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend, denn die Kirche St. Laurentius wurde gegen Kriegsende durch Bomben- und Granatenbeschuss zerstört. Doch der romanische Turm, älter als der neugotische Bau des Kölners Vincenz Statz, blieb erhalten. Peter Wittkamp ist tatsächlich in Asbach geboren. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Asbach_(Westerwald)",
+"faktencheck": "unsicher",
+"id": "343-asbach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Asbach",
+"steckbrief": "Asbach, rund 7.800 Einwohner, liegt 24 km östlich von Bonn.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Asbach nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"AfD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Hinter der CDU tippen viele auf die SPD, die lange zweite Volkspartei war. In Asbach kam aber die AfD mit 20,6 Prozent auf Platz zwei, deutlich vor der SPD mit 14,6 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "343-asbach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Asbach",
+"steckbrief": "Asbach ist eine Gemeinde mit rund 7.800 Einwohnern, 24 km östlich von Bonn.",
+"frage": "1892 wurde die Schmalspurbahn Bröltalbahn bis Asbach verlängert. Wie ging der Bahnbetrieb dort später zu Ende?",
+"optionen": [
+"Kriegsschäden beendeten den Bahnverkehr auf einen Schlag.",
+"Personen- und Güterzüge fuhren am selben Tag zuletzt.",
+"Zuerst endete der Güterverkehr, Personenzüge fuhren länger.",
+"Zuerst endete der Personenverkehr, Güterzüge fuhren länger."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass die Fahrgäste der Bahn länger treu blieben als die Frachtkunden. In Asbach war es umgekehrt: Der Personenverkehr endete 1956, Güterzüge fuhren danach noch einige Jahre weiter. Dann wurde die Strecke stillgelegt. Asbach war Endpunkt dieser Strecke, mit Lokschuppen, Empfangsgebäude und Güterschuppen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Asbach_(Westerwald)",
+"faktencheck": "korrigiert",
+"id": "343-asbach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Asbach",
+"steckbrief": "Asbach, rund 7.800 Einwohner, liegt 24 km östlich von Bonn.",
+"frage": "Zu welchem Landkreis gehört die Gemeinde Asbach?",
+"optionen": [
+"Landkreis Neuwied",
+"Rhein-Sieg-Kreis",
+"Landkreis Altenkirchen",
+"Westerwaldkreis"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bonn ist so nah, dass der Rhein-Sieg-Kreis naheliegt. Doch Asbach gehört schon zu Rheinland-Pfalz, zum Landkreis Neuwied. Das Hauptkennzeichen ist NR. Richtig war 1.",
+"quelle": "dewiki Infobox (Landkreis, Bundesland); Wikidata P395 (Kennzeichen)",
+"faktencheck": "bestätigt",
+"id": "343-asbach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Asbach",
+"steckbrief": "Asbach ist eine Gemeinde mit rund 7.800 Einwohnern, 24 km östlich von Bonn.",
+"frage": "Die heutige Ortsgemeinde Asbach entstand am 16. März 1974. Wie kam sie zustande?",
+"optionen": [
+"Asbach wurde aus der Gemeinde Buchholz herausgelöst.",
+"Asbach, Limbach, Schöneberg und ein Teil Elsaffs fusionierten.",
+"Asbach und Limbach schlossen sich zu zweit zusammen.",
+"Nur Schöneberg kam zur bisherigen Gemeinde Asbach hinzu."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Oft wird ein kleiner Nachbarort einfach eingemeindet, das liegt nahe. Asbach aber wurde mit Limbach, Schöneberg und einem Teil von Elsaff zur heutigen Ortsgemeinde zusammengelegt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Asbach_(Westerwald)",
+"faktencheck": "unsicher",
+"id": "343-asbach/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "342-vettelschoss",
+"anschluss": [
+"Fläche: Asbach ist über fünfmal so groß wie Vettelschoß.",
+"Bundestagswahl 2025: Wahlbeteiligung in Vettelschoß 86,1, in Asbach 84,1 Prozent."
+],
+"anschluesse": {
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Asbach zum Landkreis Neuwied.",
+"Bad Breisig hat rund 1.800 Einwohner mehr als Asbach."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Asbach zum Landkreis Neuwied.",
+"Sinzig hat gut doppelt so viele Einwohner wie Asbach."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Asbach zum Landkreis Neuwied.",
+"Remagen hat gut doppelt so viele Einwohner wie Asbach."
+],
+"334-leubsdorf": [
+"Asbach hat fast fünfmal so viele Einwohner wie Leubsdorf.",
+"Asbach liegt rund 200 Meter höher als Leubsdorf."
+],
+"335-unkel": [
+"Asbach hat gut anderthalbmal so viele Einwohner wie Unkel.",
+"Asbach liegt rund 220 Meter höher als Unkel."
+],
+"336-erpel": [
+"Asbach hat dreimal so viele Einwohner wie Erpel.",
+"Asbach liegt rund 220 Meter höher als Erpel."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Asbach in Rheinland-Pfalz.",
+"Bad Honnef hat gut dreimal so viele Einwohner wie Asbach."
+],
+"338-koenigswinter": [
+"Landesgrenze: Königswinter liegt in Nordrhein-Westfalen, Asbach in Rheinland-Pfalz.",
+"Königswinter hat gut fünfmal so viele Einwohner wie Asbach."
+],
+"340-neustadt-wied": [
+"Asbach hat rund 1.300 Einwohner mehr als Neustadt (Wied)."
+],
+"341-windhagen": [
+"Asbach hat gut anderthalbmal so viele Einwohner wie Windhagen."
+],
+"342-vettelschoss": [
+"Fläche: Asbach ist über fünfmal so groß wie Vettelschoß.",
+"Bundestagswahl 2025: Wahlbeteiligung in Vettelschoß 86,1, in Asbach 84,1 Prozent."
+],
+"344-hennef": [
+"Landesgrenze: Hennef liegt in Nordrhein-Westfalen, Asbach in Rheinland-Pfalz.",
+"Hennef hat sechsmal so viele Einwohner wie Asbach."
+]
+},
+"ags": "07138003",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 7.7
+},
+{
+"slug": "344-hennef",
+"name": "Hennef",
+"lat": 50.78333,
+"lon": 7.28333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hennef",
+"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
+"frage": "In Hennef gibt es Bödingen und Altenbödingen. Warum heißt das ursprüngliche Bödingen heute Altenbödingen?",
+"optionen": [
+"Um einen neuen Bahnhof entstand ein zweites Bödingen.",
+"Um ein neues Bergwerk entstand ein zweites Bödingen.",
+"Um eine neue Wallfahrtskirche entstand ein zweites Bödingen.",
+"Um eine neue Burg entstand ein zweites Bödingen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Burgen zogen im Mittelalter oft Siedler an, das liegt nahe. In Bödingen war es eine Wallfahrtskirche: An einem bis dahin unbesiedelten Platz entstand um sie ein neuer Ort. Das ursprüngliche Dorf heißt heute Altenbödingen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "344-hennef/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hennef",
+"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Hennef?",
+"optionen": [
+"unter 30 m",
+"30 bis unter 45 m",
+"45 bis unter 60 m",
+"60 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Nähe zu Bonn denkt, tippt eher niedrig. Hennef liegt aber auf 68 Metern über dem Meer. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "344-hennef/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hennef",
+"steckbrief": "Die Stadt Hennef mit rund 48.000 Einwohnern liegt 14 km östlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schwedische Truppen hielten einst die Burg Blankenberg besetzt.",
+"Hennefs Posthalteramt lag an der Postlinie Köln–Aachen.",
+"In Allner wurde aus einer Wasserburg ein Schloss."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Schwedische Truppen klingen erfunden, doch im Dreißigjährigen Krieg hielt eine schwedische Abteilung die Burg Blankenberg besetzt. Gelogen war Aachen: Aachen liegt westlich von Köln, Hennef östlich. Hennefs Posthalteramt lag an der Postlinie Köln–Frankfurt von Thurn und Taxis. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "344-hennef/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hennef",
+"steckbrief": "Hennef, eine Stadt mit rund 48.000 Einwohnern, liegt 14 km östlich von Bonn.",
+"frage": "Wie hoch war in Hennef die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 82 %",
+"82 bis unter 87 %",
+"87 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele unterschätzen die Wahlbeteiligung, denn bei anderen Wahlen liegt sie oft deutlich tiefer. In Hennef lag sie bei der Bundestagswahl 2025 bei 85,8 Prozent. Stärkste Kraft wurde die CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "344-hennef/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hennef",
+"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
+"frage": "In Bödingen steht die Wallfahrtskirche Mater Dolorosa. Anlass für ihren Bau war ein Marienbild. Woher stammte es?",
+"optionen": [
+"Ein Pilger brachte es aus Rom mit.",
+"Ein Kreuzritter brachte es aus Jerusalem mit.",
+"Ein Einsiedler ließ es in Köln anfertigen.",
+"Ein Händler erwarb es in Antwerpen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bild aus der Ferne passt zu einer Wallfahrt, das liegt nahe. Doch der Einsiedler Christian von Lauthausen hatte eine Vision und ließ das Marienbild in Köln anfertigen. Bald galt es als wundertätig. Mit Peter Meisenbach, dem Pastor von Geistingen, erbaute er die Kirche. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "344-hennef/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hennef",
+"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
+"frage": "Welches ist das Hauptkennzeichen für Autos aus Hennef?",
+"optionen": [
+"GM",
+"NR",
+"AK",
+"SU"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bonn ist die nächste Großstadt, doch ihr Kennzeichen steht nicht zur Wahl. Also tippt man auf einen Nachbarkreis. In Hennef ist SU das Hauptkennzeichen. Richtig war 4.",
+"quelle": "Wikidata P395",
+"faktencheck": "korrigiert",
+"id": "344-hennef/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hennef",
+"steckbrief": "Die Stadt Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
+"frage": "Hennef wird „Stadt der 100 Dörfer“ genannt. In welchem Jahr wurde Hennef selbst zur Stadt erhoben?",
+"optionen": [
+"Hennef wurde 1981 zur Stadt erhoben.",
+"Hennef wurde 1856 zur Stadt erhoben.",
+"Hennef wurde 1935 zur Stadt erhoben.",
+"Hennef wurde 1969 zur Stadt erhoben."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer so großen Stadt denkt man an alte Stadtrechte, das liegt nahe. Doch Hennef blieb lange ein Dorf und wurde erst 1981 zur Stadt erhoben. Erstmals genannt wurde der Ort als „Hanafo“. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "344-hennef/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hennef",
+"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
+"frage": "Die Wallfahrtskapelle Zum Heiligen Kreuz in Süchterscheid wurde im 20. Jahrhundert neu gebaut. Was geschah dabei mit dem älteren, wohl mittelalterlichen Bau?",
+"optionen": [
+"Man riss ihn vollständig ab.",
+"Seine Reste wurden in den Neubau einbezogen.",
+"Er wurde fortan als Wohnhaus genutzt.",
+"Er wurde in ein Freilichtmuseum versetzt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Neubau denkt man zuerst an Abriss, das liegt nahe. In Süchterscheid blieb Altes erhalten: Reste des älteren Baus, der wohl aus dem Mittelalter stammt, wurden in den Neubau einbezogen. Ein Benefizium hatte hier einst Bertram von Nesselrode gestiftet, eine Stiftung für den Unterhalt eines Geistlichen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "344-hennef/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hennef",
+"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
+"frage": "Im 17. Jahrhundert wurde dicht neben der Frankfurter Straße eine Kapelle zum Heiligen Johann von Nepomuk gegründet. Wer hat sie gegründet?",
+"optionen": [
+"Die Fährleute des Ortes stifteten sie gemeinsam.",
+"Ein durchreisender Kaufmann ließ sie errichten.",
+"Eine Bruderschaft der Brückenbauer gründete sie.",
+"Der Posthalter und Schultheiß von Geistingen gründete sie."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Johann von Nepomuk gilt als Brückenheiliger, darum denkt man an Leute vom Wasser. Gegründet hat die Kapelle aber Werner de Warth, Posthalter und Schultheiß in Geistingen. Er gründete sie vor dem Dreigiebelhaus. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "344-hennef/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hennef",
+"steckbrief": "Hennef hat rund 48.000 Einwohner und liegt 14 km östlich von Bonn.",
+"frage": "Für das späte Mittelalter gibt es Hinweise auf eine „Niedere Schule“ in Blankenberg. Für wen war sie gedacht?",
+"optionen": [
+"Sie war für Kinder herzoglicher Beamter und Gewerbetreibender.",
+"Sie bildete Novizen für die umliegenden Klöster aus.",
+"Sie war nur für Waisenkinder der Stadt gedacht.",
+"Sie war eine Ritterakademie für junge Adlige."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Schulen im Mittelalter denkt man an Klöster, das liegt nahe. Blankenberg war aber Verwaltungssitz eines bergischen Amtes. Es gibt Hinweise auf eine „Niedere Schule“ für die Kinder der herzoglichen Beamten und der Gewerbetreibenden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.hennef.de/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "344-hennef/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "343-asbach",
+"anschluss": [
+"Kennzeichen: In Hennef steht SU am Auto, in Asbach NR.",
+"Hennef hat gut sechsmal so viele Einwohner wie Asbach."
+],
+"anschluesse": {
+"188-bonn": [
+"Bonn hat fast siebenmal so viele Einwohner wie Hennef.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bonn die Grünen, in Hennef die SPD."
+],
+"189-bornheim": [
+"Bornheim und Hennef sind fast gleich groß: rund 48.000 und 48.000 Einwohner."
+],
+"337-bad-honnef": [
+"Hennef hat fast doppelt so viele Einwohner wie Bad Honnef.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Honnef die Grünen, in Hennef die SPD."
+],
+"338-koenigswinter": [
+"Hennef hat rund 7.700 Einwohner mehr als Königswinter.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Königswinter die Grünen, in Hennef die SPD."
+],
+"339-troisdorf": [
+"Troisdorf hat gut anderthalbmal so viele Einwohner wie Hennef."
+],
+"341-windhagen": [
+"Landesgrenze: Windhagen liegt in Rheinland-Pfalz, Hennef in Nordrhein-Westfalen.",
+"Hennef hat gut zehnmal so viele Einwohner wie Windhagen."
+],
+"342-vettelschoss": [
+"Landesgrenze: Vettelschoß liegt in Rheinland-Pfalz, Hennef in Nordrhein-Westfalen.",
+"Hennef hat dreizehnmal so viele Einwohner wie Vettelschoß."
+],
+"343-asbach": [
+"Kennzeichen: In Hennef steht SU am Auto, in Asbach NR.",
+"Hennef hat gut sechsmal so viele Einwohner wie Asbach."
+],
+"345-sankt-augustin": [
+"Sankt Augustin hat rund 7.900 Einwohner mehr als Hennef.",
+"Hennef hat gut dreimal so viel Fläche wie Sankt Augustin, aber weniger Einwohner."
+],
+"346-siegburg": [
+"Hennef hat rund 5.900 Einwohner mehr als Siegburg."
+],
+"347-lohmar": [
+"Hennef hat gut anderthalbmal so viele Einwohner wie Lohmar."
+],
+"348-roesrath": [
+"Hennef hat gut anderthalbmal so viele Einwohner wie Rösrath."
+]
+},
+"ags": "05382020",
+"ortsteil": false,
+"km_vom_vorigen": 16.3
+},
+{
+"slug": "345-sankt-augustin",
+"name": "Sankt Augustin",
+"lat": 50.77,
+"lon": 7.18667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sankt Augustin",
+"steckbrief": "Stadt mit rund 56.000 Einwohnern, 8 km nordöstlich von Bonn.",
+"frage": "Der Stadtname klingt nach einem Heiligen. Woher hat Sankt Augustin seinen Namen?",
+"optionen": [
+"Ein Gutsherr gab dem Ort seinen Vornamen.",
+"Ein Missionarskloster gab der Stadt den Namen.",
+"Ein Kölner Kurfürst gab ihr seinen Taufnamen.",
+"Der Name stammt von einem Römerlager."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer „Sankt\" hört, denkt an eine mittelalterliche Kirche oder einen Landesherrn. Doch die Stadt entstand erst 1969 aus mehreren Gemeinden. Ihren Namen gab ihr das Kloster Sankt Augustin der Steyler Missionare; deren Schutzpatron ist der heilige Augustinus. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, https://www.sankt-augustin.de/unsere-stadt/stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "345-sankt-augustin/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sankt Augustin",
+"steckbrief": "Stadt mit rund 56.000 Einwohnern, 8 km nordöstlich von Bonn.",
+"frage": "Wie viele Menschen leben in Sankt Augustin auf einem Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.200",
+"1.200 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Rand von Bonn erwartet man leicht großstädtische Enge. Doch zu Sankt Augustin gehören auch Felder, Wald und die Siegaue. Auf 34,22 Quadratkilometern leben 56.033 Menschen, rechnerisch 1637 je Quadratkilometer. Richtig war 3.",
+"quelle": "GRUNDDATEN, berechnet aus Wikidata P1082 (Stand 2025-12-31) und Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "345-sankt-augustin/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Sankt Augustin",
+"steckbrief": "Stadt an der Sieg mit rund 56.000 Einwohnern, 8 km nordöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bei Buisdorf querte früher eine Fähre die Sieg.",
+"Im Stadtteil Hangelar gab es früher eine Eisengießerei.",
+"Der Stadtteil Meindorf lebte früher vom Steinkohlebergbau."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Steinkohle klingt plausibel, denn Industrie gab es durchaus: In Hangelar standen eine Eisengießerei und Tonwerke. Meindorf aber blieb lange eine kleine bäuerliche Siedlung. Bei Buisdorf steht ein ehemaliges Fährhaus nahe der Brücke unter Denkmalschutz. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, https://www.sankt-augustin.de/unsere-stadt/stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "345-sankt-augustin/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sankt Augustin",
+"steckbrief": "Rheinische Stadt mit rund 56.000 Einwohnern, 8 km nordöstlich von Bonn.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Welchen Anteil holte die stärkste Partei in Sankt Augustin?",
+"optionen": [
+"unter 34 %",
+"34 bis unter 38 %",
+"38 bis unter 42 %",
+"42 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Rheinland denkt man an alte CDU-Hochburgen und tippt hoch. Die CDU wurde in Sankt Augustin zwar stärkste Partei, kam aber auf 32,1 Prozent der Zweitstimmen. Dahinter folgten SPD und AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "345-sankt-augustin/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sankt Augustin",
+"steckbrief": "Stadt mit rund 56.000 Einwohnern, 8 km nordöstlich von Bonn.",
+"frage": "Im Stadtteil Hangelar liegt ein Flugplatz. Was bedeutet der Ortsname Hangelar?",
+"optionen": [
+"Er kommt vom Flugzeughangar am Ort.",
+"Er bedeutet etwa Feld oder Weide am Hang.",
+"Er erinnert an einen Ritter namens Hangel.",
+"Er bedeutet etwa Galgenhügel an der Straße."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Hangar liegt nahe, denn auf der Hangelarer Heide gab es ab 1909 Flugversuche. Doch Hangelar wurde schon 1314 erstmals erwähnt, lange vor jedem Flugzeug. Der Name bedeutet etwa Feld oder Weideplatz am Hang. Richtig war 2.",
+"quelle": "Art und Adresse fehlen in der Eingabe (Fakt 345-sankt-augustin/014)",
+"faktencheck": "unsicher",
+"id": "345-sankt-augustin/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Sankt Augustin",
+"steckbrief": "Stadt mit rund 56.000 Einwohnern, 8 km nordöstlich von Bonn.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Sankt Augustin?",
+"optionen": [
+"NR",
+"GM",
+"SU",
+"AW"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Neuwied, Ahrweiler und das Oberbergische grenzen an den Rhein-Sieg-Kreis, da liegt eine Verwechslung nahe. Sankt Augustin gehört aber selbst zum Rhein-Sieg-Kreis, und dessen Hauptkennzeichen ist SU. Richtig war 3.",
+"quelle": "GRUNDDATEN, Wikidata P395",
+"faktencheck": "unsicher",
+"id": "345-sankt-augustin/v0.8/6",
+"tisch": false
+}
+],
+"anschluss_von": "344-hennef",
+"anschluss": [
+"Fläche: Hennef ist etwa dreimal so groß wie Sankt Augustin.",
+"Hennef ist ein Nachbarort des Sankt Augustiner Stadtteils Birlinghoven."
+],
+"anschluesse": {
+"188-bonn": [
+"Bonn hat fast sechsmal so viele Einwohner wie Sankt Augustin.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bonn die Grünen, in Sankt Augustin die SPD."
+],
+"189-bornheim": [
+"Sankt Augustin hat rund 8.100 Einwohner mehr als Bornheim.",
+"Bornheim hat fast zweieinhalbmal so viel Fläche wie Sankt Augustin, aber weniger Einwohner."
+],
+"335-unkel": [
+"Landesgrenze: Unkel liegt in Rheinland-Pfalz, Sankt Augustin in Nordrhein-Westfalen.",
+"Sankt Augustin hat elfmal so viele Einwohner wie Unkel."
+],
+"337-bad-honnef": [
+"Sankt Augustin hat gut doppelt so viele Einwohner wie Bad Honnef.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Honnef die Grünen, in Sankt Augustin die SPD."
+],
+"338-koenigswinter": [
+"Sankt Augustin hat rund 16.000 Einwohner mehr als Königswinter.",
+"Königswinter hat gut doppelt so viel Fläche wie Sankt Augustin, aber weniger Einwohner."
+],
+"339-troisdorf": [
+"Troisdorf hat rund 20.000 Einwohner mehr als Sankt Augustin."
+],
+"341-windhagen": [
+"Landesgrenze: Windhagen liegt in Rheinland-Pfalz, Sankt Augustin in Nordrhein-Westfalen.",
+"Sankt Augustin hat zwölfmal so viele Einwohner wie Windhagen."
+],
+"344-hennef": [
+"Fläche: Hennef ist etwa dreimal so groß wie Sankt Augustin.",
+"Hennef ist ein Nachbarort des Sankt Augustiner Stadtteils Birlinghoven."
+],
+"346-siegburg": [
+"Sankt Augustin hat rund 14.000 Einwohner mehr als Siegburg."
+],
+"347-lohmar": [
+"Sankt Augustin hat fast doppelt so viele Einwohner wie Lohmar."
+],
+"348-roesrath": [
+"Sankt Augustin hat doppelt so viele Einwohner wie Rösrath."
+]
+},
+"ags": "05382056",
+"ortsteil": false,
+"km_vom_vorigen": 7.0
+},
+{
+"slug": "346-siegburg",
+"name": "Siegburg",
+"lat": 50.80139,
+"lon": 7.20444,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Siegburg",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Die Löschgruppe Stallberg eröffnete 1976 ihre Florianstube, einen Treffpunkt für Mitglieder und Freunde. Wo wurde sie eingerichtet?",
+"optionen": [
+"Sie entstand auf dem Dachboden des katholischen Pfarrhauses.",
+"Sie entstand im Keller der alten Schule.",
+"Sie entstand in einem ausgedienten Eisenbahnwaggon.",
+"Sie entstand im Hinterzimmer einer Gaststätte."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Hinterzimmer in der Kneipe wäre der klassische Vereinstreff. Die Löschgruppe Stallberg richtete sich stattdessen unterm Dach ein: Ihre Florianstube entstand auf dem Dachboden des katholischen Pfarrhauses. Dort treffen sich laut Chronik Mitglieder, Familien und Freunde. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, siegburg.de/medien/dokumente/feuerwehr-siegburg-chronik-der-loeschgruppe-4.pdf?cid=8ss",
+"faktencheck": "korrigiert",
+"id": "346-siegburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Siegburg",
+"steckbrief": "Stadt 11 km nordöstlich von Bonn, rund 24 km² Fläche.",
+"frage": "Wie viele Einwohner hat Siegburg? Zum Vergleich: Sankt Augustin hat rund 56.000.",
+"optionen": [
+"unter 30.000",
+"30.000 bis unter 50.000",
+"50.000 bis unter 70.000",
+"70.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Sankt Augustin mit rund 56.000 Einwohnern im Kopf hat, schätzt Siegburg leicht ähnlich groß ein. Die Stadt ist aber deutlich kleiner: Ende 2025 zählte sie 42.204 Einwohner. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "346-siegburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Siegburg",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Siegburgs Altertumsverein entstand erst nach dem Zweiten Weltkrieg.",
+"Stallberg entwickelte sich nach dem Zweiten Weltkrieg industriell.",
+"Siegburg ist eine Kreisstadt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mancher hält die Kreisstadt für gelogen, weil man den Kreissitz in einer größeren Nachbarstadt vermutet. Doch Siegburg ist Kreisstadt. Gelogen ist der Verein: Der Geschichts- und Altertumsverein stammt noch aus der Kaiserzeit und hieß zuerst Altertumsverein Siegburg. Stallberg dagegen entwickelte sich tatsächlich nach dem Zweiten Weltkrieg baulich und industriell. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, siegburg.de/buergerservice-views/leistungen/NRW:entry:41713-VLR/geschichts-und-altertumsverein/",
+"faktencheck": "korrigiert",
+"id": "346-siegburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Siegburg",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Siegburg die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"GRÜNE",
+"CDU",
+"SPD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit kam die AfD 2025 auf Platz zwei, darum liegt sie als Tipp nahe. In Siegburg reichte es nur für Platz drei mit 16,4 Prozent. Zweitstärkste Partei wurde die SPD mit 18,1 Prozent, hinter der CDU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "346-siegburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Siegburg",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "In Siegburg findet regelmäßig ein Musikfest statt, das den Namen eines Komponisten trägt. Nach wem ist es benannt?",
+"optionen": [
+"Es ist nach Engelbert Humperdinck benannt.",
+"Es ist nach Johannes Brahms benannt.",
+"Es ist nach Carl Maria von Weber benannt.",
+"Es ist nach Franz Schubert benannt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Brahms und Schubert sind die geläufigeren Namen, doch Siegburg hält es mit Engelbert Humperdinck. Das Humperdinck-Musikfest zählt die Stadt zu den Höhepunkten ihres kulturellen Lebens, und ihre Musikwerkstatt widmet sich seinem Leben und Werk sowie der Förderung junger, hochbegabter Instrumentalisten und Komponisten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, siegburg.de/kultur-freizeit/",
+"faktencheck": "korrigiert",
+"id": "346-siegburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Siegburg",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Wie weit liegt Siegburg in Luftlinie von der Landeshauptstadt Düsseldorf entfernt?",
+"optionen": [
+"41 km",
+"56 km",
+"71 km",
+"86 km"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Landeshauptstadt wirkt von Siegburg aus weit weg, zumal Straßen und Staus jede Fahrt dehnen. Luftlinie trennen Siegburg und Düsseldorf aber nur 56 Kilometer. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "346-siegburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Siegburg",
+"steckbrief": "Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.",
+"frage": "Der Leisepark in Siegburg hieß nicht immer so. Wie hieß die Anlage vor ihrer Umgestaltung?",
+"optionen": [
+"Sie hieß vorher Schlossgarten.",
+"Sie hieß vorher Kurpark.",
+"Sie hieß vorher Alter Friedhof.",
+"Sie hieß vorher Schützenwiese."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name Leisepark lässt an einen stillen Kurpark denken. Tatsächlich war die Anlage der Alte Friedhof; erst eine Umgestaltung machte daraus den Leisepark, gefördert als Projekt des Stadtentwicklungskonzepts für die Innenstadt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, siegburg.de/feeds/citykey/news.json",
+"faktencheck": "korrigiert",
+"id": "346-siegburg/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "345-sankt-augustin",
+"anschluss": [
+"Kennzeichen: In Siegburg und Sankt Augustin steht SU am Auto.",
+"Einwohner: Sankt Augustin hat rund 14.000 mehr als Siegburg."
+],
+"anschluesse": {
+"188-bonn": [
+"Bonn hat fast achtmal so viele Einwohner wie Siegburg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bonn die Grünen, in Siegburg die SPD."
+],
+"189-bornheim": [
+"Bornheim hat rund 5.700 Einwohner mehr als Siegburg."
+],
+"337-bad-honnef": [
+"Siegburg hat gut anderthalbmal so viele Einwohner wie Bad Honnef.",
+"Bad Honnef hat doppelt so viel Fläche wie Siegburg, aber weniger Einwohner."
+],
+"338-koenigswinter": [
+"Königswinter und Siegburg sind fast gleich groß: rund 40.000 und 42.000 Einwohner.",
+"Königswinter hat gut dreimal so viel Fläche wie Siegburg, aber weniger Einwohner."
+],
+"339-troisdorf": [
+"Troisdorf hat fast doppelt so viele Einwohner wie Siegburg."
+],
+"344-hennef": [
+"Hennef hat rund 5.900 Einwohner mehr als Siegburg."
+],
+"345-sankt-augustin": [
+"Kennzeichen: In Siegburg und Sankt Augustin steht SU am Auto.",
+"Einwohner: Sankt Augustin hat rund 14.000 mehr als Siegburg."
+],
+"347-lohmar": [
+"Siegburg hat rund 11.000 Einwohner mehr als Lohmar.",
+"Lohmar hat fast dreimal so viel Fläche wie Siegburg, aber weniger Einwohner."
+],
+"348-roesrath": [
+"Siegburg hat anderthalbmal so viele Einwohner wie Rösrath."
+]
+},
+"ags": "05382060",
+"ortsteil": false,
+"km_vom_vorigen": 3.7
+},
+{
+"slug": "347-lohmar",
+"name": "Lohmar",
+"lat": 50.84148,
+"lon": 7.2166,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohmar",
+"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
+"frage": "1997 sollte ein Bürgerentscheid die Rathaus-Planung an der Hauptstraße stoppen. Wie ging er aus?",
+"optionen": [
+"Die Mehrheit stimmte gegen den Stopp.",
+"Der Stopp wurde mit Mehrheit beschlossen.",
+"Beide Seiten erhielten genau gleich viele Stimmen.",
+"Der Stopp bekam mehr Stimmen und scheiterte trotzdem."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer mehr Stimmen bekommt, gewinnt, denken die meisten. Für den Stopp stimmten 23,6 Prozent der Wahlberechtigten, dagegen nur 21,1 Prozent. Doch es galt ein Quorum: Mindestens 25 Prozent aller Wahlberechtigten mussten für den Stopp stimmen. Diese Hürde verfehlte er, also scheiterte er. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
+"faktencheck": "korrigiert",
+"id": "347-lohmar/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lohmar",
+"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
+"frage": "Wie groß ist das Stadtgebiet von Lohmar?",
+"optionen": [
+"unter 70 km²",
+"70 bis unter 90 km²",
+"90 bis unter 120 km²",
+"120 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Lohmar besteht aus vielen Ortsteilen, von Birk bis Wahlscheid. Das lässt eine weitläufige Fläche vermuten. Tatsächlich misst das Stadtgebiet 65,62 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "347-lohmar/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Lohmar",
+"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eltern gründeten in Neuhonrath eine Kita als Notgemeinschaft.",
+"Lohmars Bahnhofsgebäude an der Kirchstraße dient heute als Kulturzentrum.",
+"Orkan Kyrill entwurzelte in Lohmar zahlreiche Nadelbäume."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Umgenutzte Bahnhöfe gibt es in vielen Orten, deshalb klingt die Aussage glaubhaft. Lohmars Bahnhofsgebäude an der Kirchstraße wurde jedoch abgerissen, an seiner Stelle entstand ein Kreisverkehr. Die Kita in Neuhonrath gründeten Eltern, weil die vorhandenen Plätze nicht reichten. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
+"faktencheck": "korrigiert",
+"id": "347-lohmar/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lohmar",
+"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
+"frage": "Wie hoch war die Wahlbeteiligung in Lohmar bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 82 %",
+"82 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt am Rand von Bonn verleitet zu einer vorsichtigen, mittleren Schätzung. Bei der Bundestagswahl 2025 gingen in Lohmar aber 86,6 Prozent der Wahlberechtigten zur Wahl. Stärkste Partei wurde die CDU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "347-lohmar/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohmar",
+"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
+"frage": "1993 begann man in Wahlscheid, den Landschaftsgarten Aggerbogen anzulegen. Was war auf der Fläche vorher?",
+"optionen": [
+"Dort lag eine stillgelegte Kiesgrube.",
+"Dort stand eine alte Fabrik.",
+"Dort lag eine Mülldeponie.",
+"Dort war Weideland."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele Landschaftsgärten entstehen auf ehemaligen Industrie- oder Abbauflächen, deshalb liegt eine Kiesgrube nahe. Der Landschaftsgarten Aggerbogen in Wahlscheid wurde dagegen auf Weideland angelegt. Er sollte Naturschutz und Erholung miteinander vereinbaren. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
+"faktencheck": "bestätigt",
+"id": "347-lohmar/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lohmar",
+"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
+"frage": "Wie weit ist es von Lohmar in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 75 km",
+"75 bis unter 90 km",
+"90 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Düsseldorf wirkt weit weg, weil man von Lohmar aus erst an Köln vorbei muss. Die Luftlinie von Lohmar bis Düsseldorf beträgt aber nur 52 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "347-lohmar/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohmar",
+"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
+"frage": "Im Juni 1991 spielte Borussia Dortmund im Lohmarer Stadion gegen eine Lohmarer Stadtauswahl. Wie ging das Spiel aus?",
+"optionen": [
+"Dortmund gewann 12:0.",
+"Dortmund gewann 20:1.",
+"Dortmund gewann knapp 3:2.",
+"Es endete 2:2 unentschieden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Profiklub gegen Amateure endet meist deutlich zu null, daran denken viele. Dortmund gewann im Lohmarer Stadion zwar 20:1, doch die Stadtauswahl schaffte immerhin ein Tor. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
+"faktencheck": "bestätigt",
+"id": "347-lohmar/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohmar",
+"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
+"frage": "Seit wann trägt Lohmar den Titel Stadt?",
+"optionen": [
+"Lohmar ist seit 1652 Stadt.",
+"Lohmar ist seit 1934 Stadt.",
+"Lohmar ist seit 1991 Stadt.",
+"Lohmar ist seit 1969 Stadt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele Städte im Rheinland tragen ihren Titel seit Jahrhunderten, deshalb liegt ein altes Stadtrecht nahe. Lohmar wurde aber erst 1991 Stadt. Gefeiert wurde das mit einem Festakt in der Jabachhalle. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
+"faktencheck": "bestätigt",
+"id": "347-lohmar/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohmar",
+"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
+"frage": "2007 wurde die gründlich restaurierte Naafer Mühle neu eröffnet. Welche Nutzung bekam sie damals?",
+"optionen": [
+"Sie wurde eine Einrichtung für ehemals drogenabhängige Jugendliche.",
+"Sie wurde ein Mühlenmuseum mit Schaumahlen.",
+"Sie wurde ein Ausflugslokal mit Biergarten.",
+"Sie wurde ein Trauort des Standesamts."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Restaurierte Mühlen werden oft Museen oder Ausflugslokale, darum liegt das nahe. Die Naafer Mühle bekam einen sozialen Zweck: eine Einrichtung für ehemals drogenabhängige Jugendliche. Als Betreiber nennt die Stadtchronik die Oberbergische Gesellschaft. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
+"faktencheck": "unsicher",
+"id": "347-lohmar/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "346-siegburg",
+"anschluss": [
+"Fläche: Lohmar ist fast dreimal so groß wie Siegburg.",
+"Bundestagswahl 2025: Die CDU war in Lohmar stärker als in Siegburg."
+],
+"anschluesse": {
+"188-bonn": [
+"Bonn hat gut zehnmal so viele Einwohner wie Lohmar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bonn die Grünen, in Lohmar die SPD."
+],
+"189-bornheim": [
+"Bornheim hat gut anderthalbmal so viele Einwohner wie Lohmar."
+],
+"338-koenigswinter": [
+"Königswinter hat rund 9.600 Einwohner mehr als Lohmar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Königswinter die Grünen, in Lohmar die SPD."
+],
+"339-troisdorf": [
+"Troisdorf hat zweieinhalbmal so viele Einwohner wie Lohmar."
+],
+"344-hennef": [
+"Hennef hat gut anderthalbmal so viele Einwohner wie Lohmar."
+],
+"345-sankt-augustin": [
+"Sankt Augustin hat fast doppelt so viele Einwohner wie Lohmar."
+],
+"346-siegburg": [
+"Fläche: Lohmar ist fast dreimal so groß wie Siegburg.",
+"Bundestagswahl 2025: Die CDU war in Lohmar stärker als in Siegburg."
+],
+"348-roesrath": [
+"Rösrath und Lohmar sind fast gleich groß: rund 29.000 und 31.000 Einwohner."
+]
+},
+"ags": "05382028",
+"ortsteil": false,
+"km_vom_vorigen": 4.5
+},
+{
+"slug": "348-roesrath",
+"name": "Rösrath",
+"lat": 50.9,
+"lon": 7.18333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
+"frage": "Im 16. Jahrhundert kam der evangelische Glaube ins Sülztal, mitten im sonst katholisch geprägten Rösrath. Wer brachte ihn mit?",
+"optionen": [
+"Ein Wanderprediger aus der Schweiz brachte ihn.",
+"Söldner aus Schweden brachten ihn heim.",
+"Bergleute aus Sachsen brachten ihn mit.",
+"Ein Mönch aus Bayern predigte ihn."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Prediger liegt nahe, denn so verbreitete sich die Reformation vielerorts. Ins Sülztal sollen aber sächsische Bergleute den evangelischen Glauben gebracht haben; sicher belegen lässt sich das nicht. Der Bergbau hatte hier Tradition, schon die Römer schürften am Lüderich. Die Kirchengemeinde Volberg wurde zum evangelischen Gegenpol im sonst katholischen Rösrath. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "348-roesrath/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
+"frage": "Wie groß ist das Stadtgebiet von Rösrath?",
+"optionen": [
+"unter 12 km²",
+"12 bis unter 20 km²",
+"20 bis unter 30 km²",
+"30 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für eine Stadt dieser Größe in direkter Nachbarschaft zu Köln liegt eine kleine, dicht bebaute Fläche nahe. Rösrath hat aber 38,8 Quadratkilometer, dazu zählt viel Grün, etwa im Königsforst. Richtig war 4.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "348-roesrath/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schloss Eulenbroich war einst Amtssitz des Bürgermeisters.",
+"Schloss Eulenbroich beherbergte früher ein Mädcheninternat.",
+"Die Bergwerksgesellschaft Vieille Montagne kam aus Hamburg."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Mädcheninternat im Schloss klingt am ehesten erfunden, stimmt aber: Eulenbroich war auch Amtssitz des Bürgermeisters und Altenheim. Der französische Name Vieille Montagne verrät die Lüge: Die Bergwerksgesellschaft, die am Lüderich Schürfrechte besaß, kam aus Lüttich. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "348-roesrath/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Rösrath bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 28 %",
+"28 bis unter 34 %",
+"34 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein höherer Wert liegt nahe, denn Vororte im Bergischen gelten oft als CDU-Hochburgen. In Rösrath holte die CDU 32,2 Prozent der Zweitstimmen; zweitstärkste Partei wurde die SPD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "348-roesrath/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
+"frage": "1890 bekam das Sülztal eine Eisenbahn von Bensberg aus. Wer hat sie im Wesentlichen bezahlt?",
+"optionen": [
+"Die armen Bauern des Tals legten zusammen.",
+"Ein Adliger ließ sie für Jagdgäste bauen.",
+"Ein Metallbetrieb und eine Bergwerksgesellschaft zahlten sie.",
+"Ein Wanderverein wollte Ausflügler ins Tal holen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Ausflugsverein liegt nahe, denn an der Sülz treibt man heute gern Sport an der frischen Luft. Bezahlt haben sie aber im Wesentlichen zwei Unternehmen: die Hoffnungsthaler Firma Reusch, ein Metallbetrieb, und die Bergwerksgesellschaft Altenberg (Vieille Montagne). Die Firma Reusch half, den Lebensstandard im einst bitterarmen Sülztal zu heben. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "348-roesrath/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
+"frage": "Wie weit ist es von Rösrath in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 30 km",
+"30 bis unter 40 km",
+"40 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Weil Rösrath in direkter Nachbarschaft zu Köln liegt und Köln und Düsseldorf oft in einem Atemzug genannt werden, schätzt man die Landeshauptstadt gern näher. In Luftlinie sind es aber 46 Kilometer. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "348-roesrath/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rösrath",
+"steckbrief": "Stadt mit rund 28.700 Einwohnern, 10 km südlich von Bergisch Gladbach.",
+"frage": "Rösrath nennt sich selbst die jüngste Stadt im Bergischen. Seit wann trägt es den Titel Stadt?",
+"optionen": [
+"Seit 2001 ist Rösrath eine Stadt.",
+"Seit 1975 ist Rösrath eine Stadt.",
+"Seit 1956 ist Rösrath eine Stadt.",
+"Seit 1929 ist Rösrath eine Stadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein früheres Jahr liegt nahe, denn der Ort selbst ist viel älter. Den Titel Stadt trägt Rösrath aber erst seit dem 1. Januar 2001, und zwar als Mittlere kreisangehörige Stadt, eine Stufe im Gemeinderecht von Nordrhein-Westfalen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.roesrath.de/freizeit-kultur/kultur-partner/stadtgeschichte/",
+"faktencheck": "unsicher",
+"id": "348-roesrath/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "347-lohmar",
+"anschluss": [
+"Kennzeichen: In Lohmar steht SU am Auto, in Rösrath GL."
+],
+"anschluesse": {
+"188-bonn": [
+"Bonn hat elfmal so viele Einwohner wie Rösrath.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bonn die Grünen, in Rösrath die SPD."
+],
+"192-koeln": [
+"Köln hat rund 35-mal so viele Einwohner wie Rösrath.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Rösrath die SPD."
+],
+"339-troisdorf": [
+"Troisdorf hat gut zweieinhalbmal so viele Einwohner wie Rösrath."
+],
+"344-hennef": [
+"Hennef hat gut anderthalbmal so viele Einwohner wie Rösrath."
+],
+"345-sankt-augustin": [
+"Sankt Augustin hat doppelt so viele Einwohner wie Rösrath."
+],
+"346-siegburg": [
+"Siegburg hat anderthalbmal so viele Einwohner wie Rösrath."
+],
+"347-lohmar": [
+"Kennzeichen: In Lohmar steht SU am Auto, in Rösrath GL."
+]
+},
+"ags": "05378028",
+"ortsteil": false,
+"km_vom_vorigen": 6.9
+},
+{
+"slug": "349-leichlingen",
+"name": "Leichlingen",
+"lat": 51.11667,
+"lon": 7.01667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leichlingen",
+"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
+"frage": "Welche Bauten prägen laut Stadt die Denkmallandschaft Leichlingens?",
+"optionen": [
+"Backsteinbauten nach niederrheinischer Art prägen sie.",
+"Fachwerkbauten vom Bauernhof bis zum Bürgerhaus prägen sie.",
+"Gründerzeitliche Mietshäuser prägen sie.",
+"Siedlungshäuser der Nachkriegszeit prägen sie."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Backstein liegt nahe, denn im Rheinland baut man vielerorts mit Ziegeln. Die Stadt selbst spricht aber von bergischer Wohnkultur: Fachwerkbauten prägen ihre Denkmallandschaft, von bäuerlichen Hofanlagen bis zu Bürgerhäusern. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft",
+"faktencheck": "bestätigt",
+"id": "349-leichlingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leichlingen",
+"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
+"frage": "Wie viele Einwohner leben in Leichlingen auf einem Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 600",
+"600 bis unter 900",
+"900 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Neben der Großstadt Solingen erwartet man leicht eine dichte Vorstadt mit vierstelligem Wert. Auf einen Quadratkilometer Leichlingen kommen aber 757 Einwohner, berechnet aus Einwohnerzahl und Stadtfläche. Richtig war 3.",
+"quelle": "GRUNDDATEN dichte_ew_km2, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "349-leichlingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Leichlingen",
+"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Denkmalbereich „Dorf“ liegt im Ortsteil Witzhelden.",
+"Auch Ritter- und Adelssitze stehen unter Denkmalschutz.",
+"Auch technische Bauwerke stehen unter Denkmalschutz."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name „Dorf“ klingt nach dem ländlichen Witzhelden, doch dort gilt ein eigener Denkmalbereich. Das „Dorf“ ist ein geschütztes Ensemble im Leichlinger Ortskern an Marktstraße und Mittelstraße. Ritter- und Adelssitze sowie technische Bauwerke gehören tatsächlich zur Leichlinger Denkmallandschaft. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft (WÖRTER RÜCKSEITE: 46. Vermerk: Der Negativnachweis für Option 1 stützt sich jetzt auf die eigene Satzung „Denkmalbereich Witzhelden“ der Gemeinde.)",
+"faktencheck": "korrigiert",
+"id": "349-leichlingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Leichlingen",
+"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Leichlingen nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"Grüne",
+"AfD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die AfD wurde bundesweit Zweite, daher liegt sie als Tipp nahe. In Leichlingen folgte hinter der CDU mit 33 Prozent aber die SPD mit 19 Prozent, vor Grünen mit 14,7 und AfD mit 14,2 Prozent. Richtig war 1.",
+"quelle": "GRUNDDATEN wahl_btw25, Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "349-leichlingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leichlingen",
+"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
+"frage": "Einer der beiden Denkmalbereiche Leichlingens liegt im Stadtteil Witzhelden. Was steht dort als Denkmalbereich unter Schutz?",
+"optionen": [
+"Eine alte Hofanlage am Ortsrand steht unter Schutz.",
+"Der Ortskern des Stadtteils steht unter Schutz.",
+"Eine Mühle samt Wehr und Graben steht unter Schutz.",
+"Eine Bergarbeitersiedlung steht unter Schutz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Denkmalschutz denkt man zuerst an ein einzelnes Gebäude, etwa einen alten Hof. Ein Denkmalbereich schützt dagegen ein ganzes Ensemble aus Häusern, Straßen und Plätzen. In Witzhelden ist das der Ortskern des Stadtteils. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.leichlingen.de/bauen-wirtschaft-und-mobilitaet/denkmalschutz/denkmallandschaft",
+"faktencheck": "bestätigt",
+"id": "349-leichlingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leichlingen",
+"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
+"frage": "Wie groß ist das Stadtgebiet von Leichlingen?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 30 km²",
+"30 bis unter 45 km²",
+"45 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Neben einer Großstadt wie Solingen wirkt Leichlingen klein, also tippt man eher niedrig. Das Stadtgebiet misst aber 37,26 Quadratkilometer. Richtig war 3.",
+"quelle": "GRUNDDATEN flaeche_km2, Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "349-leichlingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Leichlingen",
+"steckbrief": "Stadt mit rund 28.000 Einwohnern, 8 km südwestlich von Solingen.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Leichlingen?",
+"optionen": [
+"SG",
+"LEV",
+"ME",
+"GL"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Solingen ist die nächste Großstadt, also liegt SG nahe. Das Hauptkennzeichen in Leichlingen ist aber GL, das Kürzel für Bergisch Gladbach. Richtig war 4.",
+"quelle": "GRUNDDATEN kfz, Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "349-leichlingen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "348-roesrath",
+"anschluss": [
+"Einwohner Ende 2025: Rösrath zählt knapp 500 mehr als Leichlingen.",
+"Bundestagswahl 2025: In Leichlingen wählten 86,8 Prozent, in Rösrath 86,2."
+],
+"anschluesse": {
+"192-koeln": [
+"Köln hat rund 35-mal so viele Einwohner wie Leichlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Köln die Grünen, in Leichlingen die SPD."
+],
+"193-leverkusen": [
+"Leverkusen hat sechsmal so viele Einwohner wie Leichlingen."
+],
+"194-langenfeld": [
+"Langenfeld hat gut doppelt so viele Einwohner wie Leichlingen."
+],
+"350-solingen": [
+"Solingen hat sechsmal so viele Einwohner wie Leichlingen."
+],
+"351-hilden": [
+"Hilden hat doppelt so viele Einwohner wie Leichlingen."
+],
+"352-haan": [
+"Haan und Leichlingen sind fast gleich groß: rund 30.000 und 28.000 Einwohner."
+],
+"353-erkrath": [
+"Erkrath hat anderthalbmal so viele Einwohner wie Leichlingen."
+],
+"354-mettmann": [
+"Mettmann hat fast anderthalbmal so viele Einwohner wie Leichlingen."
+],
+"355-wuelfrath": [
+"Leichlingen hat rund 7.500 Einwohner mehr als Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Leichlingen."
+],
+"348-roesrath": [
+"Einwohner Ende 2025: Rösrath zählt knapp 500 mehr als Leichlingen.",
+"Bundestagswahl 2025: In Leichlingen wählten 86,8 Prozent, in Rösrath 86,2."
+]
+},
+"ags": "05378016",
+"ortsteil": false,
+"km_vom_vorigen": 26.8
+},
+{
+"slug": "350-solingen",
+"name": "Solingen",
+"lat": 51.17194,
+"lon": 7.08472,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Solingen",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 165.000 Einwohnern, 22 km Luftlinie von Düsseldorf.",
+"frage": "Woher stammt nach der Ortsgeschichte der Name Solingen?",
+"optionen": [
+"Der Name beschreibt eine schlammige Schweinesuhle.",
+"Der Name verweist auf eine salzige Solequelle.",
+"Der Name erinnert an ein altes Sonnenheiligtum.",
+"Der Name nennt die Sippe eines Gründers."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Solingen denken viele an Sole, also Salzwasser, weil der Name so klingt. Tatsächlich steckt das altsächsische Adjektiv solag darin: kotig, schmutzig. Gemeint ist eine Schweinesuhle, also ein schlammiger Platz, an dem sich Schweine wälzen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Solingen",
+"faktencheck": "unsicher",
+"id": "350-solingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Solingen",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 165.000 Einwohnern, 22 km Luftlinie von Düsseldorf.",
+"frage": "Wie viele Einwohner leben in Solingen rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 3.000",
+"3.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Großstadt erwartet man ein dichtes Häusermeer. Solingen verteilt seine Einwohner aber auf eine große Fläche, deshalb leben rechnerisch 1.839 Menschen auf einem Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "350-solingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Solingen",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 165.000 Einwohnern, 22 km Luftlinie von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Jahr 1374 erhielt Solingen die Stadtrechte.",
+"1896 wurde Solingen einem Landkreis eingegliedert.",
+"Im Jahr 1815 kam Solingen an Preußen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Eingliederung klingt glaubhaft, denn Solingen gehörte im 19. Jahrhundert zu einem Kreis. Doch es ging umgekehrt: Solingen löste sich aus dem Kreis und wurde kreisfreie Stadt, also keinem Landkreis zugehörig, und ist es bis heute. Die Lüge war 2.“ Vermerk: 1374 und 1815 ohne zweiten Beleg.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Solingen",
+"faktencheck": "korrigiert",
+"id": "350-solingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Solingen",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 165.000 Einwohnern, 22 km Luftlinie von Düsseldorf.",
+"frage": "Wie hoch war in Solingen die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 74 %",
+"74 bis unter 78 %",
+"78 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Großstädten gehen oft weniger Menschen wählen als auf dem Land, daher liegt eine niedrigere Spanne nahe. In Solingen gaben bei der Bundestagswahl 2025 aber 80,1 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "350-solingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Solingen",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 165.000 Einwohnern, 22 km Luftlinie von Düsseldorf.",
+"frage": "Deutschlands höchste Eisenbahnbrücke steht in Solingen, die Müngstener Brücke. Wohin führt sie von Solingen aus?",
+"optionen": [
+"Die Brücke führt hinüber nach Remscheid.",
+"Die Brücke führt hinüber nach Wermelskirchen.",
+"Die Brücke führt hinüber nach Burscheid.",
+"Die Brücke führt hinüber nach Hückeswagen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Alle vier Städte liegen im Bergischen Land, das macht das Raten schwer. Die Müngstener Brücke, Solingens Wahrzeichen, spannt sich über das Tal der Wupper und verbindet Solingen mit Remscheid. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Solingen",
+"faktencheck": "unsicher",
+"id": "350-solingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Solingen",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 165.000 Einwohnern, 22 km Luftlinie von Düsseldorf.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Solingen?",
+"optionen": [
+"ME",
+"SG",
+"RS",
+"GL"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Rund um Solingen fahren viele Autos mit den Kennzeichen der Nachbarkreise, das macht unsicher. Die Stadt hat aber ihr eigenes Kennzeichen: SG wie Solingen. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "350-solingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Solingen",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 165.000 Einwohnern, 22 km Luftlinie von Düsseldorf.",
+"frage": "Das Solinger Stadtwappen zeigte früher einen Anker. Welchen Grund nennt die Stadtgeschichte dafür?",
+"optionen": [
+"Solinger Schmiede fertigten früher Anker für Rheinschiffe.",
+"Der Anker zeigte ein Recht auf Wupperschifffahrt.",
+"Der Stadtpatron Clemens wurde mit einem Anker ertränkt.",
+"Der Anker war das Zunftzeichen der Klingenschmiede."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Anker lässt an Schifffahrt oder Handel denken. Gemeint war aber der Schutzpatron der Stadt, der heilige Clemens: Er wurde mit einem Anker ertränkt, darum ist der Anker sein Zeichen. Nach ihm heißt auch die Kirche St. Clemens. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Solingen",
+"faktencheck": "unsicher",
+"id": "350-solingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Solingen",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 165.000 Einwohnern, 22 km Luftlinie von Düsseldorf.",
+"frage": "Solingen nennt sich Klingenstadt. Seit wann ist das ein amtlicher Namenszusatz?",
+"optionen": [
+"Der Zusatz ist seit 1929 amtlich.",
+"Der Zusatz ist seit 2012 amtlich.",
+"Der Zusatz ist seit 1938 amtlich.",
+"Der Zusatz ist seit 1975 amtlich."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. 1938 liegt nahe: Damals schützte ein Gesetz den Namen Solingen als Herkunftsbezeichnung für Schneidwaren. Den amtlichen Zusatz Klingenstadt trägt die Stadt aber erst seit 2012. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Solingen",
+"faktencheck": "unsicher",
+"id": "350-solingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Solingen",
+"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 165.000 Einwohnern, 22 km Luftlinie von Düsseldorf.",
+"frage": "Das Planetarium Galileum in Ohligs hat ein ungewöhnliches Zuhause. Worin wurde es eingerichtet?",
+"optionen": [
+"Das Planetarium steckt in einem alten Hochbunker.",
+"Das Planetarium steckt in einer ehemaligen Kirche.",
+"Das Planetarium steckt in einem stillgelegten Kühlturm.",
+"Das Planetarium steckt in einem stillgelegten Kugelgasbehälter."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein runder Sternensaal lässt an einen umgebauten Bunker oder Kühlturm denken. Das Galileum sitzt aber in einem stillgelegten Kugelgasbehälter. Die Sternwarte steht in einem Neubau daneben. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Solingen",
+"faktencheck": "bestätigt",
+"id": "350-solingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "349-leichlingen",
+"anschluss": [
+"Einwohner: Solingen hat fast sechsmal so viele wie Leichlingen.",
+"Von Leichlingen sind es nur 8 km Luftlinie nach Solingen."
+],
+"anschluesse": {
+"193-leverkusen": [
+"Leverkusen und Solingen sind fast gleich groß: rund 170.000 und 160.000 Einwohner."
+],
+"194-langenfeld": [
+"Solingen hat fast dreimal so viele Einwohner wie Langenfeld."
+],
+"349-leichlingen": [
+"Einwohner: Solingen hat fast sechsmal so viele wie Leichlingen.",
+"Von Leichlingen sind es nur 8 km Luftlinie nach Solingen."
+],
+"351-hilden": [
+"Solingen hat dreimal so viele Einwohner wie Hilden."
+],
+"352-haan": [
+"Solingen hat gut fünfmal so viele Einwohner wie Haan."
+],
+"353-erkrath": [
+"Solingen hat fast viermal so viele Einwohner wie Erkrath."
+],
+"354-mettmann": [
+"Solingen hat gut viermal so viele Einwohner wie Mettmann."
+],
+"355-wuelfrath": [
+"Solingen hat achtmal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Solingen."
+],
+"356-wuppertal": [
+"Wuppertal hat gut doppelt so viele Einwohner wie Solingen."
+],
+"357-velbert": [
+"Solingen hat doppelt so viele Einwohner wie Velbert.",
+"Velbert liegt rund 180 Meter höher als Solingen."
+],
+"358-heiligenhaus": [
+"Solingen hat gut sechsmal so viele Einwohner wie Heiligenhaus."
+]
+},
+"ags": "05122000",
+"ortsteil": false,
+"km_vom_vorigen": 7.8
+},
+{
+"slug": "351-hilden",
+"name": "Hilden",
+"lat": 51.17139,
+"lon": 6.93944,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hilden",
+"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
+"frage": "Eine mittelalterliche Urkunde belegt, dass es in Hilden schon 985 einen Hof gab. Wem gehörte er?",
+"optionen": [
+"Dem Bischof von Münster.",
+"Dem Erzbischof von Trier.",
+"Der Abtei Fulda.",
+"Dem Erzbischof von Köln."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Klöster und Bistümer besaßen im Mittelalter weit verstreut Land, darum liegt ein ferner Herr nahe. Der Hof gehörte aber dem Erzbischof von Köln. Menschen lebten hier schon in der Stein-, Bronze- und Eisenzeit. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "351-hilden/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hilden",
+"steckbrief": "Stadt in Nordrhein-Westfalen auf knapp 26 Quadratkilometern, 10 km westlich von Solingen.",
+"frage": "Wie viele Einwohner hatte Hilden Ende 2025?",
+"optionen": [
+"unter 60.000",
+"60.000 bis unter 100.000",
+"100.000 bis unter 200.000",
+"200.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Hilden ist sehr dicht besiedelt und liegt nah an Düsseldorf, da schätzt man leicht zu hoch. Ende 2025 lebten 54.859 Menschen in der Stadt. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "351-hilden/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hilden",
+"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
+"frage": "Drei Aussagen über das Stadtwappen von Hilden. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der rote Balken stammt aus dem bergischen Landeswappen.",
+"Das silberne Band steht für die Itter.",
+"Das Kammrad steht für die Landwirtschaft."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Itter klingt erfunden, ist aber der Fluss, der durch Hilden fließt; ihn zeigt das silberne Band. Das Kammrad, ein Zahnrad, steht für die Industrie, die Sichel für die Landwirtschaft. Der rote Balken aus dem Wappen der Grafen von Berg zeigt die Zugehörigkeit zum Bergischen Land. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtwappen-logo/",
+"faktencheck": "bestätigt",
+"id": "351-hilden/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hilden",
+"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen und 13 km von Düsseldorf.",
+"frage": "Welchen Anteil der Zweitstimmen holte die stärkste Partei in Hilden bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 27 %",
+"27 bis unter 34 %",
+"34 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer ein enges Rennen zwischen CDU und SPD erwartet, tippt niedriger. Stärkste Partei in Hilden wurde aber die CDU mit 30,4 % der Zweitstimmen, deutlich vor der SPD mit 20,1 %. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "351-hilden/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hilden",
+"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
+"frage": "Hilden machte Otto von Bismarck zum Ehrenbürger. In welchem Jahr?",
+"optionen": [
+"Hilden ehrte ihn im Jahr 1871.",
+"Hilden ehrte ihn im Jahr 1880.",
+"Hilden ehrte ihn im Jahr 1890.",
+"Hilden ehrte ihn im Jahr 1895."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Reichsgründung liegt nahe, als Bismarck auf dem Gipfel seines Ruhms stand. Hilden ernannte ihn aber erst am 11. März 1895 zum Ehrenbürger. Später folgten unter anderen Fabrikanten und Beigeordnete. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "351-hilden/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hilden",
+"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen und 13 km von Düsseldorf.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Hilden?",
+"optionen": [
+"ME",
+"SG",
+"D",
+"W"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Solingen ist die nächste Großstadt, Düsseldorf liegt ebenfalls nah; beide Kennzeichen sind naheliegend. In Hilden tragen die meisten Autos aber ME. Richtig war 1.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "351-hilden/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hilden",
+"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
+"frage": "Nach dem Hildener Wilhelm Fabry, der von 1560 bis 1634 lebte, ist ein Museum benannt. Womit machte er sich einen Namen?",
+"optionen": [
+"Er war ein gefragter Glockengießer am Niederrhein.",
+"Er begründete die wissenschaftliche Chirurgie in Deutschland.",
+"Er brachte die Tuchweberei nach Hilden.",
+"Er malte gefeierte Altarbilder für rheinische Kirchen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Museum mit seinem Namen zeigt auch Kunst, ein Maler liegt daher nahe. Fabry war aber Wundarzt. Er entwickelte neue chirurgische Instrumente und Operationsmethoden und gilt als Begründer der wissenschaftlichen Chirurgie. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "351-hilden/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hilden",
+"steckbrief": "Stadt mit rund 55.000 Einwohnern, 10 km westlich von Solingen.",
+"frage": "Mit dem Bau der Hildener Reformationskirche wurde Anfang des 13. Jahrhunderts begonnen. Wem war sie ursprünglich geweiht?",
+"optionen": [
+"Sie war dem heiligen Petrus geweiht.",
+"Sie war der Gottesmutter Maria geweiht.",
+"Sie war dem heiligen Jacobus geweiht.",
+"Sie war dem heiligen Martin geweiht."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Maria und Petrus sind häufige Kirchenpatrone, darum liegen sie nahe. Ursprünglich war die Kirche aber dem heiligen Jacobus geweiht. Ihr heutiger Name täuscht: Begonnen wurde sie lange vor der Reformation. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hilden.de/de/stadt-rathaus/die-stadt/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "351-hilden/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "350-solingen",
+"anschluss": [
+"Solingen hat etwa dreimal so viele Einwohner wie Hilden.",
+"Kennzeichen: In Solingen steht SG am Auto, in Hilden ME."
+],
+"anschluesse": {
+"193-leverkusen": [
+"Leverkusen hat dreimal so viele Einwohner wie Hilden."
+],
+"194-langenfeld": [
+"Langenfeld und Hilden sind fast gleich groß: rund 60.000 und 55.000 Einwohner."
+],
+"195-duesseldorf": [
+"Düsseldorf hat elfmal so viele Einwohner wie Hilden."
+],
+"196-ratingen": [
+"Ratingen hat gut anderthalbmal so viele Einwohner wie Hilden."
+],
+"349-leichlingen": [
+"Hilden hat doppelt so viele Einwohner wie Leichlingen."
+],
+"350-solingen": [
+"Solingen hat etwa dreimal so viele Einwohner wie Hilden.",
+"Kennzeichen: In Solingen steht SG am Auto, in Hilden ME."
+],
+"352-haan": [
+"Hilden hat fast doppelt so viele Einwohner wie Haan."
+],
+"353-erkrath": [
+"Hilden hat rund 11.000 Einwohner mehr als Erkrath."
+],
+"354-mettmann": [
+"Hilden hat rund 15.000 Einwohner mehr als Mettmann."
+],
+"355-wuelfrath": [
+"Hilden hat gut zweieinhalbmal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Hilden."
+],
+"358-heiligenhaus": [
+"Hilden hat gut doppelt so viele Einwohner wie Heiligenhaus."
+]
+},
+"ags": "05158016",
+"ortsteil": false,
+"km_vom_vorigen": 10.1
+},
+{
+"slug": "352-haan",
+"name": "Haan",
+"lat": 51.1955,
+"lon": 7.00853,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haan",
+"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen.",
+"frage": "In Haan gibt es eine Alsenstraße. Wonach ist sie benannt?",
+"optionen": [
+"Nach einer Familie, die dort Land besaß.",
+"Nach einem Bach, der dort entspringt.",
+"Nach einer dänischen Insel.",
+"Nach einem Ratsherrn der Stadt Haan."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Alsen klingt wie ein Familienname, und viele Straßen tragen Namen früherer Grundbesitzer. Die Haaner Alsenstraße ist aber nach der dänischen Insel Alsen und dem Alsensund benannt. Dort landeten im Deutsch-Dänischen Krieg preußische Truppen. Die Landung endete mit einem deutschen Sieg. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/",
+"faktencheck": "bestätigt",
+"id": "352-haan/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Haan",
+"steckbrief": "Haan ist eine Stadt in Nordrhein-Westfalen mit rund 30.000 Einwohnern, 6 km nordwestlich von Solingen.",
+"frage": "Wie groß ist das Stadtgebiet von Haan?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 14 km²",
+"14 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 30.000 Einwohnern wirkt Haan wie eine kompakte Stadt, darum liegt eine kleinere Fläche nahe. Tatsächlich umfasst das Stadtgebiet 24,19 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "352-haan/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Haan",
+"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Königgrätzer Straße erinnert an eine preußische Niederlage.",
+"Die Düppelstraße erinnert an eine dänische Befestigungsanlage.",
+"Haans Stadtlogo zeigt den Bergischen Kräher."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Dass Haans Logo einen Kräher zeigt, klingt erfunden, stimmt aber. Gelogen ist die Niederlage: Die Königgrätzer Straße erinnert an einen kriegsentscheidenden Sieg der Preußen über die österreichisch-sächsische Armee. Nach Niederlagen benennt man selten Straßen. Die Düppeler Schanzen dagegen waren eine dänische Befestigung, die preußische Truppen eroberten. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Legendenschilder-Haaner-Straßennamen/; www.haan.de/Stadt-Rathaus/Stadt/Stadtportrait/Wappen-Logo/",
+"faktencheck": "korrigiert",
+"id": "352-haan/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Haan",
+"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen, 16 km Luftlinie von Düsseldorf.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Haan nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"SPD",
+"AfD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit schnitt die AfD stark ab, darum liegt sie nahe. In Haan kam sie bei den Zweitstimmen nur auf Platz vier: Hinter der CDU mit 33,7 Prozent wurde die SPD mit 18,5 Prozent Zweite, vor Grünen und AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "352-haan/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haan",
+"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen.",
+"frage": "Am Alten Kirchplatz stand einst Haans frühere Kirche, geweiht von einem Erzbischof. Wann war die Weihe?",
+"optionen": [
+"Die Weihe war im 8. Jahrhundert.",
+"Die Weihe war im 12. Jahrhundert.",
+"Die Weihe war im 10. Jahrhundert.",
+"Die Weihe war im 14. Jahrhundert."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Romanische Dorfkirchen stammen oft aus dem Hochmittelalter, darum liegt ein späteres Jahrhundert nahe. Haans frühere Kirche ist deutlich älter belegt: Erzbischof Wichfried weihte sie im Jahr 935. Später wurde sie abgebrochen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/",
+"faktencheck": "bestätigt",
+"id": "352-haan/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Haan",
+"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen.",
+"frage": "Welches Kfz-Kennzeichen tragen die meisten Autos in Haan?",
+"optionen": [
+"SG",
+"D",
+"W",
+"ME"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Solingen ist die nächste Großstadt, auch Düsseldorf liegt nicht weit, darum liegen SG oder D nahe. Die meisten Autos in Haan tragen aber das Hauptkennzeichen ME. Richtig war 4.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "352-haan/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haan",
+"steckbrief": "Haan hat rund 30.000 Einwohner und liegt 6 km nordwestlich von Solingen.",
+"frage": "Die Kornbrennerei und Likörfabrik Borgmann in Haan: Wer hat sie gegründet?",
+"optionen": [
+"Ihr Gründer trug einen ganz anderen Namen.",
+"Ihr Gründer hieß selbst Borgmann.",
+"Mönche eines Klosters gründeten sie.",
+"Eine Genossenschaft von Bauern gründete sie."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Firmenname legt nahe, dass ein Herr Borgmann die Kornbrennerei und Likörfabrik gründete. Gegründet hat sie aber Ludwig Forsthoff. Gebrannt wurde Alkohol aus Weizen, Roggen und Gerste. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.haan.de/Stadt-Rathaus/Stadt/Denkmalpflege/",
+"faktencheck": "korrigiert",
+"id": "352-haan/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "351-hilden",
+"anschluss": [
+"Einwohner: Hilden hat fast doppelt so viele wie Haan.",
+"Bundestagswahl 2025: In Haan Grüne vor AfD, in Hilden umgekehrt."
+],
+"anschluesse": {
+"193-leverkusen": [
+"Leverkusen hat fast sechsmal so viele Einwohner wie Haan."
+],
+"194-langenfeld": [
+"Langenfeld hat doppelt so viele Einwohner wie Haan."
+],
+"195-duesseldorf": [
+"Düsseldorf hat rund zwanzigmal so viele Einwohner wie Haan."
+],
+"196-ratingen": [
+"Ratingen hat dreimal so viele Einwohner wie Haan."
+],
+"349-leichlingen": [
+"Leichlingen und Haan sind fast gleich groß: rund 28.000 und 30.000 Einwohner."
+],
+"350-solingen": [
+"Solingen hat gut fünfmal so viele Einwohner wie Haan."
+],
+"351-hilden": [
+"Einwohner: Hilden hat fast doppelt so viele wie Haan.",
+"Bundestagswahl 2025: In Haan Grüne vor AfD, in Hilden umgekehrt."
+],
+"353-erkrath": [
+"Erkrath hat fast anderthalbmal so viele Einwohner wie Haan."
+],
+"354-mettmann": [
+"Mettmann hat rund 9.600 Einwohner mehr als Haan."
+],
+"355-wuelfrath": [
+"Haan hat fast anderthalbmal so viele Einwohner wie Wülfrath."
+],
+"356-wuppertal": [
+"Wuppertal hat zwölfmal so viele Einwohner wie Haan."
+],
+"357-velbert": [
+"Velbert hat gut zweieinhalbmal so viele Einwohner wie Haan."
+],
+"358-heiligenhaus": [
+"Haan hat rund 4.100 Einwohner mehr als Heiligenhaus."
+]
+},
+"ags": "05158008",
+"ortsteil": false,
+"km_vom_vorigen": 5.5
+},
+{
+"slug": "353-erkrath",
+"name": "Erkrath",
+"lat": 51.22389,
+"lon": 6.91472,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Die Bahnstrecke von Erkrath hinauf nach Hochdahl ist sehr steil. Wie kamen die Züge dort zu Beginn hinauf?",
+"optionen": [
+"Ein Wasserrad am Bach trieb ein Zugseil an.",
+"Eine feststehende Dampfmaschine zog sie am Seil.",
+"Ein Zahnrad griff in eine Zahnstange im Gleis.",
+"Die Strecke umging den Hang in langen Kehren."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei steilen Bahnen denkt man an Zahnradbahnen wie in den Alpen. Hier aber zog anfangs ein Seil die Züge hinauf, angetrieben von einer stehenden Dampfmaschine. Später ersetzten zusätzliche Dampflokomotiven den Seilzug. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte",
+"faktencheck": "bestätigt",
+"id": "353-erkrath/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Wie groß ist das Stadtgebiet von Erkrath?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 30 km²",
+"30 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt dieser Größe vermutet man leicht ein weitläufiges Stadtgebiet. Doch Erkrath ist dicht besiedelt: Alt-Erkrath, Hochdahl und Unterfeldhaus teilen sich 26,88 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "353-erkrath/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Sohn eines Bayer-Mitbegründers erwarb eine Hochdahler Villa.",
+"Erkrath besitzt Stadtrechte schon seit dem Mittelalter.",
+"Ziegel von St. Franziskus zeigen sichtbare Fingerabdrücke."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Bayer-Villa klingt erfunden, doch Friedrich Bayer, Sohn eines Mitbegründers der Bayer-Werke, erwarb sie als Sommerhaus. Gelogen ist das Mittelalter: Der Name Erkrath ist zwar früh belegt, Stadt wurde Erkrath aber erst in der Nachkriegszeit; die Urkunde wurde im Kaiserhof-Theater überreicht. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte",
+"faktencheck": "bestätigt",
+"id": "353-erkrath/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Wie hoch war die Wahlbeteiligung in Erkrath bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 82 %",
+"82 bis unter 84 %",
+"84 bis unter 86 %",
+"86 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Vororte von Großstädten wählen oft fleißig, deshalb liegt eine höhere Spanne nahe. In Erkrath lag die Wahlbeteiligung bei der Bundestagswahl 2025 bei 81,7 Prozent. Stärkste Partei wurde die CDU, vor SPD und AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "353-erkrath/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Im August 1856 kamen in der Feldhofer Grotte Knochen eines Neandertalers ans Licht. Wer stieß darauf?",
+"optionen": [
+"Ein Förster suchte dort nach einem Fuchsbau.",
+"Arbeiter bereiteten dort Sprengarbeiten vor.",
+"Ein Forscher grub dort gezielt nach Fossilien.",
+"Spielende Kinder krochen in die Höhle."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Forscher liegt nahe, denn mit dem Fund ist der Name Johann Carl Fuhlrott verbunden. Doch Arbeiter stießen bei Vorbereitungen zu Sprengarbeiten auf die Knochen. Der Kalkbruchbesitzer benachrichtigte Fuhlrott, und der erkannte darin Reste eines urtümlichen Menschen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet",
+"faktencheck": "korrigiert",
+"id": "353-erkrath/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Eine Partnerstadt Erkraths liegt in Haiti. Welche ist es?",
+"optionen": [
+"Jacmel",
+"Cap-Haïtien",
+"Port-de-Paix",
+"Les Cayes"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Cap-Haïtien liegt nahe, weil es zu den bekannteren Städten Haitis gehört. Erkraths Partnerstadt in Haiti ist aber Port-de-Paix. Weitere Partnerstädte sind Leinefelde, Cergy und West Lancashire. Richtig war 3.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "353-erkrath/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Was geschah bei der Neugliederung 1975 mit Unterbach, bis dahin ein Stadtteil Erkraths?",
+"optionen": [
+"Unterbach wurde eigene Gemeinde im Kreis Mettmann.",
+"Unterbach bildete mit Hochdahl eine neue Stadt.",
+"Unterbach kam zum Kreis Neuss.",
+"Unterbach wurde nach Düsseldorf eingemeindet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Zusammenlegung liegt nahe, denn bei derselben Neugliederung schlossen sich die alte Stadt Erkrath und die Gemeinde Hochdahl zusammen. Unterbach aber wurde zum gleichen Zeitpunkt nach Düsseldorf eingemeindet. Der Unterbacher See liegt heute am Rande Erkraths. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte und www.erkrath.de/rathaus-politik/stadt/stadtportraet",
+"faktencheck": "korrigiert",
+"id": "353-erkrath/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Das Erkrather Stadtwappen zeigt unter einem roten Löwen ein rotes Mühlrad. Wofür steht das Mühlrad?",
+"optionen": [
+"Es steht für Millrath, den alten Namen Hochdahls.",
+"Es zeigt ein Rad der Eisenbahn nach Hochdahl.",
+"Die Grafen von Berg führten es im Wappen.",
+"Es war das Siegel des Nonnenstifts Haus Morp."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. An Mühlen oder die Eisenbahn zu denken liegt nahe, beides kennt Erkrath. Doch das Rad ist redend, es spricht einen Namen bildlich aus: Millrath, der alte Name Hochdahls, klingt nach Mühle. Tatsächlich geht Millrath auf Milroyde zurück, die Rodung des Milo. Der Löwe stammt aus dem Wappen der Grafen von Berg. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/stadtwappen-und-stadtlogo und www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte",
+"faktencheck": "korrigiert",
+"id": "353-erkrath/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Erkrath",
+"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
+"frage": "Die Neanderkirche wurde aus Mauerstein aus dem Neandertal gebaut. Nach wem ist sie benannt?",
+"optionen": [
+"Sie ist nach dem Neandertaler benannt.",
+"Sie ist nach ihrem ersten Pfarrer benannt.",
+"Sie ist nach einem Kirchenliederdichter benannt.",
+"Sie ist nach einem Geldgeber des Baus benannt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Neandertaler liegt nahe, zumal sogar die Steine der Kirche aus dem Neandertal stammen. Benannt ist sie aber nach Joachim Neander, Theologe und Kirchenliederdichter. Den Bau brachten Initiatoren mit Spendengeldern auf den Weg. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.erkrath.de/kultur-freizeit/tourismus/sehenswuerdigkeiten/stolpersteine-denkmaeler-und-kunst",
+"faktencheck": "bestätigt",
+"id": "353-erkrath/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "352-haan",
+"anschluss": [
+"Kennzeichen: In Haan wie in Erkrath steht ME am Auto.",
+"Einwohner: Erkrath zählt rund 13.500 mehr als Haan."
+],
+"anschluesse": {
+"194-langenfeld": [
+"Langenfeld hat rund 16.000 Einwohner mehr als Erkrath."
+],
+"195-duesseldorf": [
+"Düsseldorf hat vierzehnmal so viele Einwohner wie Erkrath."
+],
+"196-ratingen": [
+"Ratingen hat doppelt so viele Einwohner wie Erkrath."
+],
+"349-leichlingen": [
+"Erkrath hat anderthalbmal so viele Einwohner wie Leichlingen."
+],
+"350-solingen": [
+"Solingen hat fast viermal so viele Einwohner wie Erkrath."
+],
+"351-hilden": [
+"Hilden hat rund 11.000 Einwohner mehr als Erkrath."
+],
+"352-haan": [
+"Kennzeichen: In Haan wie in Erkrath steht ME am Auto.",
+"Einwohner: Erkrath zählt rund 13.500 mehr als Haan."
+],
+"354-mettmann": [
+"Erkrath hat rund 4.000 Einwohner mehr als Mettmann."
+],
+"355-wuelfrath": [
+"Erkrath hat gut doppelt so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Erkrath."
+],
+"356-wuppertal": [
+"Wuppertal hat achtmal so viele Einwohner wie Erkrath."
+],
+"357-velbert": [
+"Velbert hat fast doppelt so viele Einwohner wie Erkrath.",
+"Velbert liegt rund 170 Meter höher als Erkrath."
+],
+"358-heiligenhaus": [
+"Erkrath hat gut anderthalbmal so viele Einwohner wie Heiligenhaus."
+]
+},
+"ags": "05158004",
+"ortsteil": false,
+"km_vom_vorigen": 7.3
+},
+{
+"slug": "354-mettmann",
+"name": "Mettmann",
+"lat": 51.25,
+"lon": 6.96667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mettmann",
+"steckbrief": "Mettmann hat knapp 40.000 Einwohner und liegt 12 km nordwestlich von Solingen.",
+"frage": "Im Neandertal fand man 1856 die Knochen des Neandertalers. Wonach ist das Tal benannt?",
+"optionen": [
+"Nach einem Liederdichter, der dort Gottesdienste hielt.",
+"Nach dem Urmenschen, dessen Knochen dort lagen.",
+"Nach einem Bach, der durch das Tal fließt.",
+"Nach einer Adelsfamilie, der das Tal gehörte."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre der Urmensch, doch es ist umgekehrt: Der Neandertaler ist nach dem Tal benannt. Das Tal heißt nach dem evangelischen Liederdichter Joachim Neander, der dort regelmäßig Gottesdienste im Freien hielt und sich von der Natur zu Liedern anregen ließ. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Mettmann",
+"faktencheck": "unsicher",
+"id": "354-mettmann/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mettmann",
+"steckbrief": "Mettmann hat knapp 40.000 Einwohner und liegt 12 km nordwestlich von Solingen.",
+"frage": "Wie viele Einwohner kommen in Mettmann auf einen Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer die Nähe zu Düsseldorf und Solingen sieht, denkt an dichte Vorstadt. Doch die Einwohner verteilen sich auf 42,56 Quadratkilometer Stadtfläche. Rechnerisch kommen so rund 930 Menschen auf einen Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "354-mettmann/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "„2. Die evangelische Kirche an der Freiheitstraße wurde 1780 eingeweiht.“ / „3. Die Stadtrechte verlieh im 19. Jahrhundert der König von Sachsen.“ – RÜCKSEITE: „Du hattest [Option] getippt. Ein König war es tatsächlich, nur nicht der sächsische: Die Stadtrechte verlieh König Friedrich Wilhelm IV. von Preußen. Die beiden anderen Aussagen stimmen. Metzkausen ist seit 1975 ein Ortsteil von Mettmann, und die Kirche an der Freiheitstraße wurde 1780 als reformierte Kirche geweiht. Die Lüge war 3.“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein König war es tatsächlich, nur nicht der sächsische: Das Stadtrecht verlieh König Friedrich-Wilhelm IV. von Preußen. Die beiden anderen Aussagen stimmen. Metzkausen, einst Sitz des Amtes Hubbelrath, ist seither Ortsteil, und die Kirche im Zentrum besteht aus grauen Feldsteinen. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Mettmann",
+"faktencheck": "korrigiert",
+"id": "354-mettmann/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mettmann",
+"steckbrief": "Mettmann hat knapp 40.000 Einwohner und liegt 12 km nordwestlich von Solingen.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Mettmann die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 29 %",
+"29 bis unter 33 %",
+"33 % oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an zersplitterte Parlamente denkt, rechnet eher mit einem knappen Sieger. In Mettmann lag die CDU mit 33,9 Prozent der Zweitstimmen klar vorn, fast doppelt so stark wie die SPD auf Platz zwei. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "354-mettmann/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mettmann",
+"steckbrief": "Mettmann hat knapp 40.000 Einwohner und liegt 12 km nordwestlich von Solingen.",
+"frage": "Zwischen Mettmann und Gruiten fuhr von 1930 bis 1952 eine besondere Verbindung. Was war an ihr besonders?",
+"optionen": [
+"Sie war Deutschlands erster neuzeitlicher Oberleitungsbus.",
+"Sie war Deutschlands erste Zahnradbahn.",
+"Sie war Deutschlands erste Schmalspurbahn.",
+"Sie war Deutschlands erste Standseilbahn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Bergischen Land denkt man bei Steigungen schnell an Schienen und Seile. Tatsächlich fuhr hier ein Fahrdrahtbus, ein Bus mit Strom aus der Oberleitung. Entwickelt hatte ihn der Mettmanner Gustav Kemmann; die anspruchsvolle Bergische Strecke diente als Teststrecke. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Mettmann",
+"faktencheck": "unsicher",
+"id": "354-mettmann/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mettmann",
+"steckbrief": "Mettmann hat knapp 40.000 Einwohner und liegt 12 km nordwestlich von Solingen.",
+"frage": "Wie weit liegt Mettmann in Luftlinie von der Landeshauptstadt Düsseldorf entfernt?",
+"optionen": [
+"unter 10 km",
+"10 bis unter 20 km",
+"20 bis unter 30 km",
+"30 km oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Mettmann für eine Kleinstadt im Grünen hält, schätzt die Landeshauptstadt weiter weg. Doch es sind nur 14 Kilometer Luftlinie, kaum mehr als bis Solingen. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "354-mettmann/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mettmann",
+"steckbrief": "Mettmann hat knapp 40.000 Einwohner und liegt 12 km nordwestlich von Solingen.",
+"frage": "Die Textilfirma Gold-Zack zog 1960 nach Mettmann. Was wurde 1996 aus dem Unternehmen?",
+"optionen": [
+"Es wurde zum Hersteller von Solaranlagen.",
+"Es wurde zu einem Busreiseveranstalter.",
+"Es brachte fortan Firmen an die Börse.",
+"Es wurde zu einer Spedition."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Von einer Textilfirma erwartet man eher Produktion oder Logistik. Doch Gold-Zack wurde zum Aktien-Emissionshaus, das Börsengänge am Neuen Markt begleitete. Die Marke Gold-Zack übernahm die Firma Prym, das Unternehmen selbst ging 2003 in die Insolvenz. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Mettmann",
+"faktencheck": "korrigiert",
+"id": "354-mettmann/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mettmann",
+"steckbrief": "Mettmann hat knapp 40.000 Einwohner und liegt 12 km nordwestlich von Solingen.",
+"frage": "Mettmann arbeitet mit San Felice Circeo in Mittelitalien zusammen. Welchen Grund nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Beide Orte gehörten einst demselben Kloster.",
+"Auch dort wurden Überreste von Neandertalern gefunden.",
+"Beide Orte liegen an derselben Pilgerroute.",
+"Ein Mettmanner Bürgermeister stammte von dort."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Städtekontakten denkt man an Wirtschaft oder Zuwanderung. Hier verbindet die Urgeschichte: In Mettmann liegt das Neandertal, der Fundort des Neandertalers, und auch San Felice Circeo ist ein Fundort von Überresten des Neandertalers. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Mettmann",
+"faktencheck": "unsicher",
+"id": "354-mettmann/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "353-erkrath",
+"anschluss": [
+"Kennzeichen: In Mettmann wie in Erkrath steht ME am Auto.",
+"Einwohner: Erkrath hat mehr als Mettmann, aber weniger Fläche."
+],
+"anschluesse": {
+"194-langenfeld": [
+"Langenfeld hat anderthalbmal so viele Einwohner wie Mettmann."
+],
+"195-duesseldorf": [
+"Düsseldorf hat sechzehnmal so viele Einwohner wie Mettmann."
+],
+"196-ratingen": [
+"Ratingen hat gut doppelt so viele Einwohner wie Mettmann."
+],
+"349-leichlingen": [
+"Mettmann hat fast anderthalbmal so viele Einwohner wie Leichlingen."
+],
+"350-solingen": [
+"Solingen hat gut viermal so viele Einwohner wie Mettmann."
+],
+"351-hilden": [
+"Hilden hat rund 15.000 Einwohner mehr als Mettmann."
+],
+"352-haan": [
+"Mettmann hat rund 9.600 Einwohner mehr als Haan."
+],
+"353-erkrath": [
+"Kennzeichen: In Mettmann wie in Erkrath steht ME am Auto.",
+"Einwohner: Erkrath hat mehr als Mettmann, aber weniger Fläche."
+],
+"355-wuelfrath": [
+"Mettmann hat fast doppelt so viele Einwohner wie Wülfrath."
+],
+"356-wuppertal": [
+"Wuppertal hat neunmal so viele Einwohner wie Mettmann."
+],
+"357-velbert": [
+"Velbert hat gut doppelt so viele Einwohner wie Mettmann."
+],
+"358-heiligenhaus": [
+"Mettmann hat anderthalbmal so viele Einwohner wie Heiligenhaus."
+],
+"360-heisingen": [
+"Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Mettmann ist kreisfrei."
+]
+},
+"ags": "05158024",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 4.6
+},
+{
+"slug": "355-wuelfrath",
+"name": "Wülfrath",
+"lat": 51.28333,
+"lon": 7.03333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wülfrath",
+"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
+"frage": "Nach dem großen Brand von 1578 war Wülfrath zerstört. Womit half der Landesherr, Herzog Wilhelm, dem Dorf wieder auf?",
+"optionen": [
+"Er verlieh dem Dorf die vollen Stadtrechte.",
+"Er ließ zum Wiederaufbau Kalksteinbrüche anlegen.",
+"Er ließ das Dorf woanders neu aufbauen.",
+"Er erlaubte dem Dorf steuerfreie Märkte."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Stadtrechte wären das große Geschenk gewesen, doch die erhielt Wülfrath endgültig erst sehr viel später. Herzog Wilhelm von Jülich-Kleve-Berg erlaubte vier steuerfreie Märkte, damit sich das Dorf wirtschaftlich erholte. Später handelte man dort mit Speck, Schinken und Früchten. Den Marktbrief zählt das Stadtarchiv zu seinen Schmuckstücken. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte",
+"faktencheck": "korrigiert",
+"id": "355-wuelfrath/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wülfrath",
+"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
+"frage": "Wie viele Einwohner leben in Wülfrath durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 700",
+"700 bis unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Wuppertal lässt an eine dicht bebaute Vorstadt denken. Doch zu Wülfrath gehören auch dörfliche Ortsteile wie Düssel und große Kalksteinbrüche. Im Schnitt leben 642 Einwohner auf einem Quadratkilometer. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "355-wuelfrath/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wülfrath",
+"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Kalkabbau begann erst nach dem Zweiten Weltkrieg.",
+"Ein Bürgermeister rief die Freiwillige Feuerwehr ins Leben.",
+"Nach einer Feuersbrunst halfen Nachbargemeinden beim Wiederaufbau."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nachbarschaftshilfe nach einem Brand klingt nach schöner Legende, ist aber belegt. Und Bürgermeister Albert Kirschbaum rief tatsächlich die Freiwillige Feuerwehr ins Leben. Gelogen war der späte Kalkabbau: Kalksteinbrüche entstanden lange vor dem Krieg, nachdem die Eisenbahn kam, und Thyssen baute Kalk im industriellen Rahmen ab. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte",
+"faktencheck": "bestätigt",
+"id": "355-wuelfrath/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Wülfrath",
+"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Wülfrath die zweitmeisten Zweitstimmen?",
+"optionen": [
+"CDU",
+"AfD",
+"SPD",
+"Grüne"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die AfD legte 2025 bundesweit stark zu und kam auch in Wülfrath auf 18,7 Prozent. Für Platz zwei reichte das nicht: Die SPD erhielt 20,7 Prozent, nur die CDU lag vor ihr. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "355-wuelfrath/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wülfrath",
+"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
+"frage": "August Havemann war ab 1919 Bürgermeister von Wülfrath und wurde nach der Machtergreifung 1933 NSDAP-Mitglied. Was ist aus der NS-Zeit über ihn überliefert?",
+"optionen": [
+"Er drängte die NSDAP-Ortsgruppe aus der Kommunalpolitik.",
+"Er übernahm selbst die Leitung der NSDAP-Ortsgruppe.",
+"Er trat ständig bei öffentlichen Aufmärschen auf.",
+"Er schützte eine jüdische Familie vor der Deportation."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Parteibuch und ein Bürgermeisteramt klingen nach Macht im Regime. Doch die NSDAP drängte Havemann weitgehend an die Seite, die Kommunalpolitik bestimmte nun vor allem die Ortsgruppenleitung; er trat nur noch selten öffentlich auf. Bis zu seinem Tod hielt er schützend seine Hand über die jüdische Familie Beyth und bewahrte sie vor der Deportation. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte/sichtbare-geschichte-strassen-tragen-buergermeister-namen",
+"faktencheck": "korrigiert",
+"id": "355-wuelfrath/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wülfrath",
+"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
+"frage": "Wie weit ist Wülfrath in Luftlinie von der Landeshauptstadt Düsseldorf entfernt?",
+"optionen": [
+"unter 25 km",
+"25 bis unter 40 km",
+"40 bis unter 60 km",
+"60 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Steckbrief nennt Wuppertal als nahe Großstadt, da wirkt die Landeshauptstadt am Rhein weiter weg. Doch auch Düsseldorf liegt nur 19 Kilometer Luftlinie entfernt, gut doppelt so weit wie Wuppertal. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "355-wuelfrath/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wülfrath",
+"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
+"frage": "Der Zeittunnel Wülfrath zeigt die Entwicklung von Flora und Fauna aus 400 Millionen Jahren. Was war der Tunnel früher?",
+"optionen": [
+"Er war ein Bierkeller einer alten Brauerei.",
+"Er war ein Abbautunnel in einem Kalksteinbruch.",
+"Er war ein Fluchtgang der mittelalterlichen Wasserburg.",
+"Er war ein Stollen eines Erzbergwerks."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Tunnel in einer alten Stadt lässt an Keller oder geheime Fluchtgänge denken. Doch der Zeittunnel liegt in einem ehemaligen Abbautunnel des Bochumer Bruchs, eines stillgelegten Kalksteinbruchs. Neben der Erdgeschichte erzählt er auch von der Kalkindustrie. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/kulturtourismus-sehenswertes",
+"faktencheck": "bestätigt",
+"id": "355-wuelfrath/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wülfrath",
+"steckbrief": "Wülfrath hat rund 20.700 Einwohner und liegt 9 km westlich von Wuppertal.",
+"frage": "Flurnamen wie Osterparten deuten darauf hin, dass das mittelalterliche Wülfrath eine Befestigung mit Pforten, Toren und einer Mauer hatte. Wozu diente sie vermutlich laut Ortsgeschichte?",
+"optionen": [
+"Sie zeigte Wülfraths Rang als Stadt.",
+"Sie schirmte den Dorfkern von der Eisenbahn ab.",
+"Sie hielt Wölfe und umherziehende Räuber ab.",
+"Sie sicherte die Sparkasse und ihre Einlagen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mauer und Tore klingen nach einer stolzen Stadt, doch Wülfrath war damals ein Dorf. Die Ortsgeschichte nimmt an, dass die Befestigung einigermaßen vor Wölfen und zum Teil vor umherziehenden Räubern schützte. Darauf deuten Flurnamen wie Osterparten für die östliche Pforte und Pörtzges für das Pförtchen. Richtig war 3. (Neue Negativnachweise: 2 – Weg (a), die Niederbergbahn kam erst 1886 (LVR KLD-343037, 355-wuelfrath/027). 4 – Weg (a), die Sparkasse wurde erst 1842 gegründet (Orts-Anschluss).)",
+"quelle": "Gemeinde-Webseite, www.wuelfrath.net/kultur-tourismus/stadtarchiv-und-geschichte",
+"faktencheck": "korrigiert",
+"id": "355-wuelfrath/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "354-mettmann",
+"anschluss": [
+"Sparkasse: Mettmann und Wülfrath gründeten 1842 eine gemeinsame.",
+"Einwohner: Mettmann hat fast doppelt so viele wie Wülfrath."
+],
+"anschluesse": {
+"194-langenfeld": [
+"Langenfeld hat fast dreimal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Langenfeld."
+],
+"195-duesseldorf": [
+"Düsseldorf hat rund 30-mal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 220 Meter höher als Düsseldorf."
+],
+"196-ratingen": [
+"Ratingen hat fast viereinhalbmal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Ratingen."
+],
+"198-muelheim": [
+"Mülheim an der Ruhr hat gut achtmal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 240 Meter höher als Mülheim an der Ruhr."
+],
+"199-essen": [
+"Essen hat rund 30-mal so viele Einwohner wie Wülfrath."
+],
+"349-leichlingen": [
+"Leichlingen hat rund 7.500 Einwohner mehr als Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Leichlingen."
+],
+"350-solingen": [
+"Solingen hat achtmal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Solingen."
+],
+"351-hilden": [
+"Hilden hat gut zweieinhalbmal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Hilden."
+],
+"352-haan": [
+"Haan hat fast anderthalbmal so viele Einwohner wie Wülfrath."
+],
+"353-erkrath": [
+"Erkrath hat gut doppelt so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 210 Meter höher als Erkrath."
+],
+"354-mettmann": [
+"Sparkasse: Mettmann und Wülfrath gründeten 1842 eine gemeinsame.",
+"Einwohner: Mettmann hat fast doppelt so viele wie Wülfrath."
+],
+"356-wuppertal": [
+"Wuppertal hat siebzehnmal so viele Einwohner wie Wülfrath."
+],
+"357-velbert": [
+"Velbert hat viermal so viele Einwohner wie Wülfrath."
+],
+"358-heiligenhaus": [
+"Heiligenhaus hat rund 5.100 Einwohner mehr als Wülfrath."
+],
+"359-hattingen": [
+"Hattingen hat zweieinhalbmal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 170 Meter höher als Hattingen."
+],
+"360-heisingen": [
+"Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
+"Wülfrath liegt rund 170 Meter höher als Heisingen."
+]
+},
+"ags": "05158036",
+"ortsteil": false,
+"km_vom_vorigen": 5.9
+},
+{
+"slug": "356-wuppertal",
+"name": "Wuppertal",
+"lat": 51.26667,
+"lon": 7.18333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wuppertal",
+"steckbrief": "Großstadt mit rund 357.000 Einwohnern, 29 km Luftlinie von Düsseldorf.",
+"frage": "Bei der Vereinigung 1929 bekam die neue Stadt zunächst nicht den Namen Wuppertal. Wie hieß sie?",
+"optionen": [
+"Sie hieß zunächst Wupperhausen.",
+"Sie hieß zunächst Bergstadt.",
+"Sie hieß zunächst Barmen-Elberfeld.",
+"Sie hieß zunächst einfach Elberfeld."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wupperhausen und Bergstadt klingen nach einem Kompromiss, und tatsächlich standen beide unter den Namensvorschlägen. Bei der Vereinigung hieß die Stadt aber zunächst Barmen-Elberfeld, nach ihren beiden großen Teilen. Danach setzte sich Wuppertal durch, nach der Lage im Tal der Wupper; vorgeschlagen hatte den Namen Oskar Hoffmann. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wuppertal",
+"faktencheck": "unsicher",
+"id": "356-wuppertal/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wuppertal",
+"steckbrief": "Großstadt an der Wupper, 29 km Luftlinie von Düsseldorf.",
+"frage": "Wie viele Menschen leben in Wuppertal?",
+"optionen": [
+"unter 200.000",
+"200.000 bis unter 280.000",
+"280.000 bis unter 340.000",
+"340.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Neben Düsseldorf, Köln und den Ruhrgebietsstädten wird Wuppertal leicht unterschätzt. Ende 2025 lebten dort 357.243 Menschen. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "356-wuppertal/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wuppertal",
+"steckbrief": "Großstadt mit rund 357.000 Einwohnern, 29 km Luftlinie von Düsseldorf.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Friedrich Engels wurde im heutigen Stadtteil Barmen geboren.",
+"Pina Bausch gründete in Wuppertal ein Opernensemble.",
+"Johannes Rau war früher Oberbürgermeister von Wuppertal."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Johannes Raus Zeit als Oberbürgermeister klingt erfunden, weil man ihn als Bundespräsidenten kennt – sie stimmt aber, 1969/70. Gelogen war das Opernensemble: Pina Bausch übernahm 1973 das Ballett der Wuppertaler Bühnen und machte daraus das Tanztheater Wuppertal, das heute ihren Namen trägt. Und Friedrich Engels stammte tatsächlich aus Barmen. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wuppertal",
+"faktencheck": "korrigiert",
+"id": "356-wuppertal/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wuppertal",
+"steckbrief": "Großstadt mit rund 357.000 Einwohnern, 29 km Luftlinie von Düsseldorf.",
+"frage": "Wie hoch war die Wahlbeteiligung in Wuppertal bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an die hohe bundesweite Beteiligung denkt, schätzt leicht zu hoch; in Großstädten gehen oft weniger Menschen wählen als im Umland. In Wuppertal waren es 78,9 Prozent der Wahlberechtigten. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "356-wuppertal/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wuppertal",
+"steckbrief": "Großstadt mit rund 357.000 Einwohnern, 29 km Luftlinie von Düsseldorf.",
+"frage": "Ronsdorf war bis 1929 eine selbständige Stadt, heute gehört es zu Wuppertal. Wer gründete den Ort nach der Ortsgeschichte?",
+"optionen": [
+"Zisterziensermönche legten ihn als Klostersiedlung an.",
+"Hugenotten auf der Flucht aus Frankreich gründeten ihn.",
+"Die christliche Sekte der Zioniten gründete ihn.",
+"Mennoniten aus den Niederlanden gründeten ihn als Weberdorf."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Glaubensflüchtlinge wie Hugenotten oder Mennoniten gründeten vielerorts neue Siedlungen, daher liegt die Theorie nahe. Ronsdorf aber geht auf eine christliche Sekte zurück: Elias Eller zog 1737 mit den Zioniten aus Elberfeld hierher, wo bis dahin nur vier Bauernhöfe standen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wuppertal",
+"faktencheck": "korrigiert",
+"id": "356-wuppertal/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wuppertal",
+"steckbrief": "Großstadt mit rund 357.000 Einwohnern, 29 km Luftlinie von Düsseldorf.",
+"frage": "Wie viele Einwohner kommen in Wuppertal rechnerisch auf einen Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an die vielen Wälder und Hänge denkt, schätzt leicht zu niedrig – Wuppertal gilt als Großstadt im Grünen. Trotzdem kommen rechnerisch 2.122 Menschen auf einen Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "356-wuppertal/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Die Schwebebahn ist das Wahrzeichen Wuppertals und fährt größtenteils über der Wupper. Wer hat sie erfunden?",
+"steckbrief": "1. Eugen Langen erfand die Schwebebahn.",
+"frage": "",
+"optionen": [
+"Ferdinand von Zeppelin erfand die Schwebebahn.",
+"Carl Benz erfand die Schwebebahn.",
+"Rudolf Diesel erfand die Schwebebahn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zeppelin liegt nahe: Auch seine Luftschiffe schweben, und sein Name steht für die Pioniertechnik jener Zeit. Erfunden hat die Schwebebahn aber der Kölner Ingenieur Eugen Langen; ihre Eröffnung 1901 erlebte er nicht mehr. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wuppertal",
+"faktencheck": "korrigiert",
+"id": "356-wuppertal/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wuppertal",
+"steckbrief": "Großstadt mit rund 357.000 Einwohnern, 29 km Luftlinie von Düsseldorf.",
+"frage": "Vorwerk wurde 1883 von Carl und Adolf Vorwerk in Barmen gegründet. Womit fing das Unternehmen an?",
+"optionen": [
+"Vorwerk begann als Brauerei.",
+"Vorwerk begann als Teppichfabrik.",
+"Vorwerk begann als Fahrradfabrik.",
+"Vorwerk begann als Schokoladenfabrik."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Vorwerk von Haushalts- und Küchengeräten kennt, tippt leicht auf eine Fabrik für Technik wie Fahrräder. Angefangen hat es aber als Barmer Teppichfabrik Vorwerk & Co – passend zum Textilzentrum Barmen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wuppertal",
+"faktencheck": "unsicher",
+"id": "356-wuppertal/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "355-wuelfrath",
+"anschluss": [
+"Kennzeichen: In Wuppertal steht W am Auto, in Wülfrath ME.",
+"Einwohner: Wuppertal hat gut siebzehnmal so viele wie Wülfrath."
+],
+"anschluesse": {
+"350-solingen": [
+"Wuppertal hat gut doppelt so viele Einwohner wie Solingen."
+],
+"352-haan": [
+"Wuppertal hat zwölfmal so viele Einwohner wie Haan."
+],
+"353-erkrath": [
+"Wuppertal hat achtmal so viele Einwohner wie Erkrath."
+],
+"354-mettmann": [
+"Wuppertal hat neunmal so viele Einwohner wie Mettmann."
+],
+"355-wuelfrath": [
+"Kennzeichen: In Wuppertal steht W am Auto, in Wülfrath ME.",
+"Einwohner: Wuppertal hat gut siebzehnmal so viele wie Wülfrath."
+],
+"357-velbert": [
+"Wuppertal hat fast viereinhalbmal so viele Einwohner wie Velbert."
+],
+"358-heiligenhaus": [
+"Wuppertal hat vierzehnmal so viele Einwohner wie Heiligenhaus."
+],
+"359-hattingen": [
+"Wuppertal hat fast siebenmal so viele Einwohner wie Hattingen."
+],
+"360-heisingen": [
+"Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Wuppertal ist kreisfrei."
+]
+},
+"ags": "05124000",
+"ortsteil": false,
+"km_vom_vorigen": 10.6
+},
+{
+"slug": "357-velbert",
+"name": "Velbert",
+"lat": 51.34005,
+"lon": 7.04163,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Velbert",
+"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
+"frage": "Im Stadtwappen von Velbert sitzt ein grünes Eichenblatt. Wofür steht es?",
+"optionen": [
+"Es erinnert an eine alte Gerichtseiche.",
+"Es steht für einen jahrhundertealten Eichenbestand.",
+"Es ehrt die Gerber, die Eichenrinde nutzten.",
+"Es steht für die Holzkohle der Schmieden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Gerichtseiche liegt nahe, denn alte Eichen zieren oft Wappen als Zeichen von Recht und Dorfmitte. Das Velberter Blatt meint aber den jahrhundertealten Eichenbestand auf einer Anhöhe Langenbergs. Auch das frühere Langenberger Wappen trug eine stilisierte rote Eiche. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/wappen",
+"faktencheck": "bestätigt",
+"id": "357-velbert/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Velbert",
+"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
+"frage": "Wie groß ist das gesamte Stadtgebiet von Velbert?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 50 km²",
+"50 bis unter 100 km²",
+"100 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei gut 82.000 Einwohnern vor den Toren Wuppertals schätzt man leicht eine kompakte Stadt. Velbert misst aber 74,9 Quadratkilometer. Rechnerisch kommen damit knapp 1.100 Menschen auf einen Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "357-velbert/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Velbert",
+"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die heutige Stadt vereint Velbert, Langenberg und Neviges.",
+"Der Ortsteil Neviges ist seit Jahrhunderten ein Wallfahrtsort.",
+"Langenbergs Sender startete erst nach dem Zweiten Weltkrieg."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Sender Langenberg ging schon in den Zwanzigerjahren in Betrieb, in der Frühzeit des Rundfunks. Die Nachkriegszeit liegt nahe, weil viele große Sendemasten erst mit dem Fernsehen entstanden. Die beiden anderen Aussagen stimmen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/geschichte",
+"faktencheck": "bestätigt",
+"id": "357-velbert/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Velbert",
+"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Velbert die stärkste Partei?",
+"optionen": [
+"unter 30 Prozent",
+"30 bis unter 35 Prozent",
+"35 bis unter 40 Prozent",
+"40 Prozent und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einer Stadt im Umland denkt man leicht an eine Union über 30 Prozent. In Velbert holte die CDU aber 29 Prozent, dahinter folgten SPD und AfD mit je rund einem Fünftel. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "357-velbert/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Velbert",
+"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
+"frage": "Im Velberter Ortsteil Langenberg steht ein schlossartiges Bürgerhaus mit Türmen und Erkern. Wer hatte es gestiftet?",
+"optionen": [
+"Ein Schlossfabrikant und seine Frau stifteten es.",
+"Ein Seidenfabrikanten-Ehepaar stiftete es.",
+"Die evangelische Kirchengemeinde stiftete es.",
+"Ein Bergwerksbesitzer stiftete es."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem prächtigen Haus mit Türmen und Sälen denkt man schnell an Geld aus Kohle, zumal es im Velberter Raum Bergbau gab. Gestiftet haben es aber die Seidenfabrikanten Sophie und Adalbert Colsman. Heute steht das Haus unter Denkmalschutz. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.velbert.de/kultur/historisches-buergerhaus-langenberg",
+"faktencheck": "bestätigt",
+"id": "357-velbert/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Velbert",
+"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
+"frage": "Welches Kfz-Kennzeichen tragen die meisten Autos in Velbert?",
+"optionen": [
+"W",
+"E",
+"ME",
+"EN"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. W liegt nahe, denn Wuppertal ist die nächste Großstadt. Velbert gehört aber zum Kreis Mettmann, und der vergibt ME. Die Stadt liegt im Nordosten des Kreises, zentral zwischen Düsseldorf, Essen und Wuppertal. Richtig war 3.",
+"quelle": "Wikidata P395; Kreiszugehörigkeit: Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/daten-fakten",
+"faktencheck": "korrigiert",
+"id": "357-velbert/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Velbert",
+"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
+"frage": "Ab 1700 machte sich Velbert in Europa einen Namen. Womit?",
+"optionen": [
+"Velbert wurde für Porzellan und Steingut bekannt.",
+"Velbert wurde für Taschenuhren und Uhrwerke bekannt.",
+"Velbert wurde für Glas und Spiegel bekannt.",
+"Velbert wurde für Schlösser und Beschläge bekannt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Porzellan liegt nahe, weil damals manche Orte mit feiner Manufakturware berühmt wurden. Velbert machte sich aber als Herkunftsort von Schlössern und Beschlägen einen Namen. Daran erinnert heute das Deutsche Schloss- und Beschlägemuseum in Velbert-Mitte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/geschichte",
+"faktencheck": "korrigiert",
+"id": "357-velbert/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Velbert",
+"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
+"frage": "1919 wählte Neviges, heute Teil Velberts, erstmals eine Frau ins Stadtparlament: Anna Küpper. Für welche Partei trat sie an?",
+"optionen": [
+"Sie kandidierte für die USPD.",
+"Sie kandidierte für die katholische Zentrumspartei.",
+"Sie kandidierte für die SPD.",
+"Sie kandidierte für die liberale DDP."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, denn sie hatte das Frauenwahlrecht lange gefordert. Anna Küpper trat aber für die USPD an, eine Abspaltung der SPD. Im Stadtparlament arbeitete sie in Kommissionen für Gesundheit, Wohlfahrt, Schulbildung und Jugendpflege. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/geschichte/frauenwahlrecht",
+"faktencheck": "bestätigt",
+"id": "357-velbert/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Velbert",
+"steckbrief": "Rund 82.000 Einwohner, 12 km nordwestlich von Wuppertal.",
+"frage": "1861 legte die Velberter Firma David Peters den Grundstein für ein betriebliches Sozialversicherungssystem. Womit?",
+"optionen": [
+"Mit einer Pensionskasse für alte Arbeiter.",
+"Mit einer Kasse gegen Unfälle im Betrieb.",
+"Mit einer Kasse für Krankheit und Sterbefälle.",
+"Mit einer Sparkasse für die Belegschaft."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Unfallkasse liegt nahe, denn Fabrikarbeit war damals gefährlich. Am Anfang stand aber eine Unterstützungskasse für Krankheit und Sterbefälle. Daraus wuchs ein umfangreiches betriebliches Sozialversicherungssystem, lange bevor der Staat eine Krankenversicherung einführte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.velbert.de/stadtleben/stadt-velbert/geschichte",
+"faktencheck": "bestätigt",
+"id": "357-velbert/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "356-wuppertal",
+"anschluss": [
+"Einwohner: Wuppertal zählt mehr als viermal so viele wie Velbert.",
+"Erste Stadtverordnete im heutigen Velbert-Neviges: Anna Küpper, geboren in Wuppertal-Cronenberg."
+],
+"anschluesse": {
+"196-ratingen": [
+"Ratingen und Velbert sind fast gleich groß: rund 89.000 und 82.000 Einwohner.",
+"Velbert liegt rund 180 Meter höher als Ratingen."
+],
+"198-muelheim": [
+"Mülheim an der Ruhr hat gut doppelt so viele Einwohner wie Velbert.",
+"Velbert liegt rund 200 Meter höher als Mülheim an der Ruhr."
+],
+"199-essen": [
+"Essen hat siebenmal so viele Einwohner wie Velbert."
+],
+"200-gelsenkirchen": [
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Velbert die CDU.",
+"Gelsenkirchen hat gut dreimal so viele Einwohner wie Velbert."
+],
+"350-solingen": [
+"Solingen hat doppelt so viele Einwohner wie Velbert.",
+"Velbert liegt rund 180 Meter höher als Solingen."
+],
+"352-haan": [
+"Velbert hat gut zweieinhalbmal so viele Einwohner wie Haan."
+],
+"353-erkrath": [
+"Velbert hat fast doppelt so viele Einwohner wie Erkrath.",
+"Velbert liegt rund 170 Meter höher als Erkrath."
+],
+"354-mettmann": [
+"Velbert hat gut doppelt so viele Einwohner wie Mettmann."
+],
+"355-wuelfrath": [
+"Velbert hat viermal so viele Einwohner wie Wülfrath."
+],
+"356-wuppertal": [
+"Einwohner: Wuppertal zählt mehr als viermal so viele wie Velbert.",
+"Erste Stadtverordnete im heutigen Velbert-Neviges: Anna Küpper, geboren in Wuppertal-Cronenberg."
+],
+"358-heiligenhaus": [
+"Velbert hat gut dreimal so viele Einwohner wie Heiligenhaus."
+],
+"359-hattingen": [
+"Velbert hat gut anderthalbmal so viele Einwohner wie Hattingen."
+],
+"360-heisingen": [
+"Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei."
+]
+},
+"ags": "05158032",
+"ortsteil": false,
+"km_vom_vorigen": 12.8
+},
+{
+"slug": "358-heiligenhaus",
+"name": "Heiligenhaus",
+"lat": 51.3265,
+"lon": 6.971,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heiligenhaus",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 13 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Wovon hat Heiligenhaus nach der Stadtgeschichte wahrscheinlich seinen Namen?",
+"optionen": [
+"Er stammt von einer kleinen Andachtsstätte am heutigen Kirchplatz.",
+"Er stammt von einer heiligen Quelle im Wald.",
+"Er stammt von der Klause eines Einsiedlers.",
+"Er stammt von einem Pilgerhospiz an der Landstraße."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei „Heiligenhaus“ denkt man an ein frommes Haus, etwa eine Einsiedelei oder Pilgerherberge. Namensgeber war wahrscheinlich die Hubertuskapelle, die Herzog Gerhard II. von Berg als Affront gegen das Kloster Werden errichten ließ. Sie hieß stets „Kapelle am Heiligenhaus“. Vielleicht stand dort vorher schon ein Heiligenhäuschen. Heute erinnert eine Bronzeplatte am Kirchplatz an die Anfänge der Stadt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.heiligenhaus.de/stadt-rathaus/geschichte",
+"faktencheck": "korrigiert",
+"id": "358-heiligenhaus/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heiligenhaus",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 13 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Wie groß ist das Stadtgebiet von Heiligenhaus?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 35 km²",
+"35 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt dieser Größe vermutet man leicht weite Außenbereiche mit Wald und Feldern. Heiligenhaus kommt aber mit 27,52 Quadratkilometern aus und ist entsprechend dicht besiedelt. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "358-heiligenhaus/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Heiligenhaus",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 13 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Stadtwappen zeigt Schlägel und Eisen des Bergbaus.",
+"Die alte Werdener Villa Hetterscheidt wird auch Abtsküche genannt.",
+"Das heutige Oefte gehörte einst zur Bürgermeisterei Velbert."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zum Ruhrgebiet lässt an Bergbau denken. Das Wappen zeigt aber einen Amboss mit gekreuzter Zange und Hammer, Symbole der damals vorherrschenden Industrie, in den bergischen Farben Rot, Silber und Blau. Oefte war eine Honschaft, eine kleine Verwaltungseinheit, und gehört seit Gründung der Landgemeinde zu Heiligenhaus. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.heiligenhaus.de/stadt-rathaus/wappen",
+"faktencheck": "korrigiert",
+"id": "358-heiligenhaus/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Heiligenhaus",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 13 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Heiligenhaus nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"GRÜNE",
+"SPD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn sie wurde bundesweit zweitstärkste Kraft. In Heiligenhaus blieb sie knapp hinter der SPD; vorn lag die CDU, dahinter folgten die Grünen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "358-heiligenhaus/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heiligenhaus",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 13 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Die heutige Hauptstraße von Heiligenhaus folgt dem Verlauf einer älteren Anlage. Welcher?",
+"optionen": [
+"Sie folgt einer Grenzbefestigung des Herzogs von Berg.",
+"Sie folgt einer römischen Heerstraße zum Rhein.",
+"Sie folgt dem Graben einer früheren Stadtmauer.",
+"Sie folgt einem zugeschütteten Kanal für Kohlekähne."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein alter Straßenverlauf lässt zuerst an eine Römerstraße denken. Tatsächlich ließ der Herzog von Berg hier eine Landwehr anlegen, eine Grenzbefestigung aus Wall, Gräben, Verhauen und Hecke. Militärisch war sie wenig wert, an ihren Durchlässen wurde Zoll kassiert. An ihr entlang entstand ein Straßendorf mit langen, schmalen Parzellen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.heiligenhaus.de/stadt-rathaus/geschichte",
+"faktencheck": "bestätigt",
+"id": "358-heiligenhaus/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Heiligenhaus",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 13 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Heiligenhaus?",
+"optionen": [
+"MH",
+"ME",
+"EN",
+"W"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mülheim an der Ruhr liegt nah, MH wäre also ein naheliegender Tipp. Heiligenhaus gehört aber zum Kreis Mettmann, dessen Hauptkennzeichen ME ist. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "358-heiligenhaus/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heiligenhaus",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 13 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Die junge Gemeinde Heiligenhaus zog 1897 mit ihrer Verwaltung in ein Gebäude, das für etwas anderes gebaut war. Wofür?",
+"optionen": [
+"Es war als Gasthaus mit Tanzsaal gebaut.",
+"Es war als Villa eines Fabrikanten gebaut.",
+"Es war als evangelische Schule gebaut.",
+"Es war als Bahnhofsgebäude gebaut."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Gasthaus mit Saal lag nahe, denn in Gasthaussälen tagten früher oft Gemeinderäte. Das Gebäude „Am Denkmal“ diente aber zunächst als evangelische Schule. Später teilten sich darin Gemeindeverwaltung, Polizei, ein Teil der Berufsschule und zeitweise die Gemeindesparkasse den Platz. Es enthielt auch eine Bürgermeisterwohnung und eine Arrestzelle im Keller. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.heiligenhaus.de/stadt-rathaus/geschichte",
+"faktencheck": "korrigiert",
+"id": "358-heiligenhaus/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heiligenhaus",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 13 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Das Waldmuseum im Naturschutzgebiet Vogelsangbachtal steht in einem denkmalgeschützten Gebäude. Was war das Gebäude früher?",
+"optionen": [
+"Es war ein Forsthaus.",
+"Es war ein Schulhaus.",
+"Es war ein Ausflugslokal.",
+"Es war das Wasserwerk der Stadt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Waldmuseum im Forsthaus wäre die naheliegende Wahl. Die alte Försterstube ist aber nur ein Teil der Ausstellung. Das denkmalgeschützte Gebäude im Vogelsangbachtal war das Wasserwerk der Stadt: Hier ging der erste Brunnen für Heiligenhaus in Betrieb. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.heiligenhaus.de/kultur-tourismus/museumslandschaftabtskueche",
+"faktencheck": "korrigiert",
+"id": "358-heiligenhaus/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "357-velbert",
+"anschluss": [
+"Fläche: Velbert ist fast dreimal so groß wie Heiligenhaus.",
+"Bis 1897 gehörten die Heiligenhauser Honschaften zur Bürgermeisterei Velbert."
+],
+"anschluesse": {
+"195-duesseldorf": [
+"Düsseldorf hat rund 25-mal so viele Einwohner wie Heiligenhaus."
+],
+"196-ratingen": [
+"Ratingen hat dreieinhalbmal so viele Einwohner wie Heiligenhaus."
+],
+"197-duisburg": [
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Heiligenhaus die CDU.",
+"Duisburg hat neunzehnmal so viele Einwohner wie Heiligenhaus."
+],
+"198-muelheim": [
+"Mülheim an der Ruhr hat fast siebenmal so viele Einwohner wie Heiligenhaus.",
+"Heiligenhaus liegt rund 150 Meter höher als Mülheim an der Ruhr."
+],
+"199-essen": [
+"Essen hat rund zwanzigmal so viele Einwohner wie Heiligenhaus."
+],
+"350-solingen": [
+"Solingen hat gut sechsmal so viele Einwohner wie Heiligenhaus."
+],
+"351-hilden": [
+"Hilden hat gut doppelt so viele Einwohner wie Heiligenhaus."
+],
+"352-haan": [
+"Haan hat rund 4.100 Einwohner mehr als Heiligenhaus."
+],
+"353-erkrath": [
+"Erkrath hat gut anderthalbmal so viele Einwohner wie Heiligenhaus."
+],
+"354-mettmann": [
+"Mettmann hat anderthalbmal so viele Einwohner wie Heiligenhaus."
+],
+"355-wuelfrath": [
+"Heiligenhaus hat rund 5.100 Einwohner mehr als Wülfrath."
+],
+"356-wuppertal": [
+"Wuppertal hat vierzehnmal so viele Einwohner wie Heiligenhaus."
+],
+"357-velbert": [
+"Fläche: Velbert ist fast dreimal so groß wie Heiligenhaus.",
+"Bis 1897 gehörten die Heiligenhauser Honschaften zur Bürgermeisterei Velbert."
+],
+"359-hattingen": [
+"Hattingen hat doppelt so viele Einwohner wie Heiligenhaus."
+],
+"360-heisingen": [
+"Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+]
+},
+"ags": "05158012",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 5.1
+},
+{
+"slug": "359-hattingen",
+"name": "Hattingen",
+"lat": 51.39917,
+"lon": 7.18583,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hattingen",
+"steckbrief": "Stadt mit rund 53.000 Einwohnern, 9 km südlich von Bochum.",
+"frage": "1959 begann man in Hattingen, das Flussbett der Ruhr zu verlegen. Welchen Grund nennt die Stadtgeschichte?",
+"optionen": [
+"Ein Stausee für Trinkwasser sollte entstehen.",
+"Eine Autobahn sollte ohne Ruhrbrücke auskommen.",
+"Ein Hafen für Sportboote sollte entstehen.",
+"Ein Stahlwerk wollte sein Werksgelände vergrößern."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Fluss wird meist für Verkehr oder Wasserwirtschaft umgelegt, das liegt nahe. In Hattingen ging es um Stahl: Die Henrichshütte wollte ihr Werksgelände vergrößern, und dafür musste die Ruhr weichen. Heute erzählt dort ein Industriemuseum die Stahlgeschichte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/",
+"faktencheck": "korrigiert",
+"id": "359-hattingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hattingen",
+"steckbrief": "Stadt mit rund 53.000 Einwohnern, 9 km südlich von Bochum.",
+"frage": "Wie viele Einwohner leben in Hattingen durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 800",
+"800 bis unter 1.200",
+"1.200 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt im Ruhrgebiet erwartet man dichte Bebauung, das liegt nahe. Hattingen ist aber großflächig: 52.969 Einwohner auf 71,67 Quadratkilometern ergeben rund 739 je Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "359-hattingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hattingen",
+"steckbrief": "Stadt mit rund 53.000 Einwohnern, 9 km südlich von Bochum.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Graf Henrich zu Stolberg-Wernigerode gründete die Henrichshütte.",
+"Die Henrichshütte war im Zweiten Weltkrieg nie Ziel von Bombenangriffen.",
+"Das Petersberger Abkommen bewahrte die Hütte vor Demontage."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Glaubhaft wirkt das, weil die Hütte nach dem Krieg weiterarbeitete. Doch gegen Kriegsende zielten schwere Bombenangriffe auf die Henrichshütte und verwüsteten Hattingen, Blankenstein und Welper. Danach bewahrte das Petersberger Abkommen das Werk vor der Demontage. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/",
+"faktencheck": "korrigiert",
+"id": "359-hattingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hattingen",
+"steckbrief": "Stadt mit rund 53.000 Einwohnern, 9 km südlich von Bochum.",
+"frage": "Wie hoch war in Hattingen die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 78 %",
+"78 bis unter 86 %",
+"86 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer tiefer tippt, denkt oft an Kommunalwahlen, bei denen deutlich weniger Menschen wählen. Bei der Bundestagswahl 2025 gingen in Hattingen aber 82,7 Prozent zur Wahl. Stärkste Partei wurde die CDU vor der SPD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "359-hattingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hattingen",
+"steckbrief": "Stadt mit rund 53.000 Einwohnern, 9 km südlich von Bochum.",
+"frage": "Hattingen feierte 1996 sein 600-jähriges Stadtjubiläum. Welches Schriftstück von 1396 nennt die Stadtgeschichte als Urkunde der Stadtwerdung?",
+"optionen": [
+"Ein Marktprivileg des Königs für den Ruhrhandel.",
+"Ein Zollbrief des Erzbischofs für die Ruhrbrücke.",
+"Ein Schutzbrief des Kaufmannsbundes für die Händler.",
+"Ein Befestigungsvertrag des Grafen mit den Bürgern."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Stadtrecht stellt man sich als feierliches Privileg von oben vor, das liegt nahe. Hattingen wurde aber schrittweise zur Stadt; als Urkunde nennt die Stadtgeschichte den Befestigungsvertrag zwischen Graf Dietrich von der Mark und Bürgern. Die damalige Befestigung war aus Holz. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/",
+"faktencheck": "bestätigt",
+"id": "359-hattingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hattingen",
+"steckbrief": "Stadt mit rund 53.000 Einwohnern, 9 km südlich von Bochum.",
+"frage": "Wie weit liegt Hattingen in Luftlinie von der Landeshauptstadt Düsseldorf entfernt?",
+"optionen": [
+"35 km",
+"20 km",
+"55 km",
+"75 km"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer beim Steckbrief nur an Bochum denkt, schätzt Düsseldorf leicht zu weit weg. Aus den Koordinaten beider Städte ergeben sich 35 Kilometer Luftlinie. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "359-hattingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Hattingen",
+"steckbrief": "Stadt mit rund 53.000 Einwohnern, 9 km südlich von Bochum.",
+"frage": "Wie viele Einwohner hatte die Stadt Hattingen im Jahr 1939?",
+"optionen": [
+"unter 10.000",
+"10.000 bis unter 25.000",
+"25.000 bis unter 40.000",
+"40.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer von der heutigen Größe ausgeht, schätzt zu hoch. 1939 lebten in Hattingen nur 18.063 Menschen. Mit der kommunalen Neugliederung wuchs die Stadt später auf ihre heutige Fläche. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/",
+"faktencheck": "korrigiert",
+"id": "359-hattingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hattingen",
+"steckbrief": "Stadt mit rund 53.000 Einwohnern, 9 km südlich von Bochum.",
+"frage": "Die Isenburg wurde um 1200 erbaut und schon 1225 zerstört. Welchen Grund nennt die Stadtgeschichte?",
+"optionen": [
+"Ein Hochwasser der Ruhr unterspülte ihre Mauern.",
+"Ein Blitzschlag setzte die Burg in Brand.",
+"Sie wurde zur Strafe für einen Mord zerstört.",
+"Ihre Erbauer brauchten die Steine für eine Kirche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer so kurzlebigen Burg denkt man an ein Unglück, das liegt nahe. Doch die Zerstörung war eine Strafaktion: Burggraf Friedrich von Isenberg hatte den Kölner Erzbischof Engelbert ermordet. Danach ließ Graf Adolf von der Mark die Burg Blankenstein bauen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Was bisher geschah/",
+"faktencheck": "bestätigt",
+"id": "359-hattingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hattingen",
+"steckbrief": "Stadt mit rund 53.000 Einwohnern, 9 km südlich von Bochum.",
+"frage": "Hattingens Stadtgeschichte erinnert an Nikolaus Groß, katholischer Widerstandskämpfer, 1945 hingerichtet. Wo wurde er seliggesprochen?",
+"optionen": [
+"Er wurde im Dom zu Münster seliggesprochen.",
+"Er wurde in der Kirche Niederwenigern seliggesprochen.",
+"Er wurde im Dom zu Fulda seliggesprochen.",
+"Er wurde auf dem Petersplatz in Rom seliggesprochen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Seligsprechungen finden heute oft im Heimatbistum statt, das liegt nahe. Nikolaus Groß aber sprach Papst Johannes Paul II. selbst auf dem Petersplatz in Rom selig. Hingerichtet worden war er in Berlin-Plötzensee. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/",
+"faktencheck": "korrigiert",
+"id": "359-hattingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "358-heiligenhaus",
+"anschluss": [
+"Bundestagswahl 2025: SPD in Hattingen 23, in Heiligenhaus 18,9 Prozent.",
+"Einwohner: Hattingen hat rund doppelt so viele wie Heiligenhaus."
+],
+"anschluesse": {
+"199-essen": [
+"Essen hat elfmal so viele Einwohner wie Hattingen."
+],
+"200-gelsenkirchen": [
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Hattingen die CDU.",
+"Gelsenkirchen hat fünfmal so viele Einwohner wie Hattingen."
+],
+"201-bochum": [
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Hattingen die CDU.",
+"Bochum hat fast siebenmal so viele Einwohner wie Hattingen."
+],
+"355-wuelfrath": [
+"Hattingen hat zweieinhalbmal so viele Einwohner wie Wülfrath.",
+"Wülfrath liegt rund 170 Meter höher als Hattingen."
+],
+"356-wuppertal": [
+"Wuppertal hat fast siebenmal so viele Einwohner wie Hattingen."
+],
+"357-velbert": [
+"Velbert hat gut anderthalbmal so viele Einwohner wie Hattingen."
+],
+"358-heiligenhaus": [
+"Bundestagswahl 2025: SPD in Hattingen 23, in Heiligenhaus 18,9 Prozent.",
+"Einwohner: Hattingen hat rund doppelt so viele wie Heiligenhaus."
+],
+"360-heisingen": [
+"Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+]
+},
+"ags": "05954016",
+"ortsteil": false,
+"korridor": 7000,
+"km_vom_vorigen": 17.0
+},
+{
+"slug": "360-heisingen",
+"name": "Heisingen",
+"lat": 51.40389,
+"lon": 7.065,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heisingen",
+"steckbrief": "Essener Stadtteil mit rund 14.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "Haus Heisingen geht auf den Hof Kofeld zurück, der im 11. und 12. Jahrhundert zu einer kleinen Burg ausgebaut wurde. Welche Aufgabe hatte der Hof schon im 9. Jahrhundert?",
+"optionen": [
+"Er schützte Kohlevorräte der ersten Zechen.",
+"Er war Sommersitz eines Bischofs.",
+"Er sicherte die Ansprüche der Franken an der Grenze zu den Sachsen.",
+"Er schützte eine Zollstelle am Rhein."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein befestigter Hof lässt an Kohle oder einen Bischofssitz denken, doch Kohle wurde hier erst viel später entdeckt. Im 9. Jahrhundert lag Heisingen an der Grenze zwischen fränkischem und sächsischem Siedlungsgebiet, und der Hof Kofeld sicherte die Ansprüche der Franken. Im 11. und 12. Jahrhundert wurde er zur kleinen Burg ausgebaut, ab dem 13. Jahrhundert war er ein Lehen des Klosters Werden. Richtig war 3.",
+"quelle": "LVR, KuLaDig, kuladig.de/Objektansicht/A-CW-20090514-0031",
+"faktencheck": "korrigiert",
+"id": "360-heisingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heisingen",
+"steckbrief": "Stadtteil von Essen mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte, auf einer Halbinsel in einer Ruhrschleife.",
+"frage": "Wie groß ist die Fläche des Stadtteils Heisingen?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 4,5 km²",
+"4,5 bis unter 6 km²",
+"6 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil mit Ortskern und lockerer Wohnbebauung wirkt klein. Doch Heisingen misst 6,83 km²; neben Wohngebieten liegen dort auch die Heisinger Ruhraue und das Vogelschutzgebiet Heisinger Bogen. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "360-heisingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Heisingen",
+"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kirche St. Georg ist aus Ruhrsandstein gebaut.",
+"Der Stemmerhof belieferte den Werdener Propst mit Fisch.",
+"Die Zeche Carl Funke fördert noch heute Kohle."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet klingt Kohle nach Alltag, doch die Zeche Carl Funke wurde 1973 stillgelegt; ihr Fördergerüst von 1921 ist heute ein Baudenkmal. Wahr sind die anderen: St. Georg wurde aus heimischem Ruhrsandstein gebaut, und der Stemmerhof hatte die Aufgabe, den Propst von Werden mit Fisch zu versorgen. Die Lüge war 3.",
+"quelle": "LVR, KuLaDig, kuladig.de",
+"faktencheck": "korrigiert",
+"id": "360-heisingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heisingen",
+"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in ganz Essen: Wie viel Prozent holte die stärkste Partei?",
+"optionen": [
+"unter 24 %",
+"24 bis unter 28 %",
+"28 bis unter 32 %",
+"32 % oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet erwarten viele eine übermächtige SPD. In ganz Essen lag aber die CDU vorn, mit 26,5 Prozent der Zweitstimmen, vor der SPD. Die Zahl gilt für ganz Essen, nicht eigens für Heisingen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "360-heisingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heisingen",
+"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "Im Ortskern feiert Heisingen traditionell das Wottelfest. Was ist mit „Wottel“ gemeint?",
+"optionen": [
+"„Wottel“ meint eine Wurst.",
+"„Wottel“ meint ein Bierfass.",
+"„Wottel“ meint eine Möhre.",
+"„Wottel“ meint einen Tanz."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Volksfest denkt man zuerst an Wurst oder Bier. Doch „Wottel“ stammt von „Wurzel“, gemeint ist die Möhre. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Heisingen",
+"faktencheck": "unsicher",
+"id": "360-heisingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heisingen",
+"steckbrief": "Stadtteil im Süden Essens mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "In welchem Zeitraum wurde Heisingen nach Essen eingemeindet?",
+"optionen": [
+"vor 1890",
+"1890 bis 1909",
+"1910 bis 1924",
+"1925 oder später"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an das rasche Wachstum Essens in der Kaiserzeit denkt, tippt früh. Heisingen hatte aber noch ein eigenes Rathaus und kam erst am 1. August 1929 zu Essen. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "360-heisingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heisingen",
+"steckbrief": "Essener Stadtteil mit rund 14.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "Der spätere Nationaltorwart Jens Lehmann, ein gebürtiger Essener, spielte als Kind in Heisingen. Bei welchem Verein begann er?",
+"optionen": [
+"Er begann bei der DJK Heisingen.",
+"Er begann bei Rot-Weiß Oberhausen.",
+"Er begann bei Westfalia Herne.",
+"Er begann bei Preußen Münster."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem späteren Nationaltorwart denkt man an einen großen Revierklub. Jens Lehmann begann aber bei der DJK Heisingen. Später wurde er Vize-Weltmeister und Vize-Europameister. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Heisingen",
+"faktencheck": "korrigiert",
+"id": "360-heisingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heisingen",
+"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "Woher hat der Stadtteil Heisingen seinen Namen?",
+"optionen": [
+"Der Name erinnert an heiße Quellen.",
+"Der Name erinnert an eine Waldlichtung.",
+"Der Name erinnert an eine Heerstraße.",
+"Der Name erinnert an eine Ruhrfähre."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Heis“ klingt nach heiß, daher liegen Quellen nahe. Doch der Name verweist auf das Waldgebiet Heißi, das schon 796 in einer Werdener Urkunde genannt wird. Ein Rest davon sind die Wälder der Heisinger Mark. Richtig war 2.",
+"quelle": "LVR, KuLaDig, kuladig.de/Objektansicht/A-KL-20090624-0001",
+"faktencheck": "korrigiert",
+"id": "360-heisingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heisingen",
+"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "Im Wald am Wechselpfad steht ein Fliegerdenkmal. Woran erinnert es?",
+"optionen": [
+"Es erinnert an Opfer eines Bombenangriffs.",
+"Es erinnert an die Bruchlandung eines Luftschiffs.",
+"Es erinnert an einen Flugpionier aus Heisingen.",
+"Es erinnert an tote Besatzungsmitglieder eines Militärflugzeugs."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Fliegerdenkmal denkt man an Bombenangriffe, und der Typname „Zeppelin“ lässt an ein Luftschiff denken. Doch die Zeppelin (Staaken) R.VI war ein deutsches Militärflugzeug. Das Denkmal erinnert an Besatzungsmitglieder, die bei einem Unfall ums Leben kamen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Heisingen",
+"faktencheck": "unsicher",
+"id": "360-heisingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heisingen",
+"steckbrief": "Essener Stadtteil mit rund 13.000 Einwohnern, 7 km südöstlich der Stadtmitte.",
+"frage": "Die Kampmannbrücke verbindet Heisingen mit Kupferdreh. 1950/51 entstand dort eine Behelfsbrücke. Bis wann war sie in Betrieb?",
+"optionen": [
+"Sie war bis 1962 in Betrieb.",
+"Sie war bis 1979 in Betrieb.",
+"Sie war bis 2016 in Betrieb.",
+"Sie war bis 1995 in Betrieb."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Behelfsbrücke klingt nach wenigen Jahren Übergang. Doch sie blieb bis 2016 in Betrieb. Ihr Nachfolger ist eine Schrägseilbrücke; die erste Kampmannbrücke war eine Pontonbrücke. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Heisingen",
+"faktencheck": "unsicher",
+"id": "360-heisingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "359-hattingen",
+"anschluss": [
+"Kennzeichen: In Heisingen steht E am Auto, in Hattingen WIT."
+],
+"anschluesse": {
+"196-ratingen": [
+"Kreisgrenze: Ratingen ist kreisfrei, Heisingen gehört zum Landkreis Stadtkreis Essen."
+],
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Heisingen gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Heisingen gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Heisingen gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Heisingen die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Heisingen gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Heisingen die CDU."
+],
+"354-mettmann": [
+"Kreisgrenze: Mettmann ist kreisfrei, Heisingen gehört zum Landkreis Stadtkreis Essen."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Heisingen gehört zum Landkreis Stadtkreis Essen.",
+"Wülfrath liegt rund 170 Meter höher als Heisingen."
+],
+"356-wuppertal": [
+"Kreisgrenze: Wuppertal ist kreisfrei, Heisingen gehört zum Landkreis Stadtkreis Essen."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Heisingen gehört zum Landkreis Stadtkreis Essen."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Heisingen gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kennzeichen: In Heisingen steht E am Auto, in Hattingen WIT."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 8.4
 }
 ]
 }

@@ -1,0 +1,430 @@
+ID: 346-siegburg/001
+ENTITÄT: unternehmen
+BEZEICHNUNG: Lichtgeschichten
+QUELLE: https://siegburg.de/strukturierte-daten/cityportal/firmen-unternehmen/lichtgeschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  branche: Fotografie
+  adresse: Mühlenstraße 26, 53721 Siegburg
+  email: mail@lichtgeschichten.eu
+  webseite: lichtgeschichten.eu
+  ortsteilbezug: Mühlenquartier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/002
+ENTITÄT: verein
+BEZEICHNUNG: Geschichts- und Altertumsverein
+QUELLE: https://siegburg.de/buergerservice-views/leistungen/NRW:entry:41713-VLR/geschichts-und-altertumsverein/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsdatum: 30.11.1903
+  urspruennglicher_name: Altertumsverein Siegburg
+  mitgliederzahl: 500
+  genauigkeit_mitgliederzahl: ca.
+  jahresbeitrag: 25.00
+  jahresbeitrag_einheit: EUR
+  fokus: Förderung der Lokalgeschichte in Siegburg und im Rhein-Sieg-Kreis
+  publikation: wissenschaftliche Publikation mit Aufsätzen zur Regionalgeschichte, Volkskunde und Kunstgeschichte
+  adresse: Nogenter Platz 10, 53721 Siegburg
+  telefon: +49 2241 102-1282
+  email: gav@siegburg.de
+  webseite: gav.siegburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/003
+ENTITÄT: loesch_gruppe
+BEZEICHNUNG: Löschgruppe Stallberg
+ORTSTEIL_BEZUG: Stallberg
+QUELLE: https://siegburg.de/medien/dokumente/feuerwehr-siegburg-chronik-der-loeschgruppe-4.pdf?cid=8ss | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_zeitraum: 1930er Jahre
+  gründung_genauigkeit: vermutlich
+  urspruengliche_betreuung: Löschgruppe Wolsdorf
+  loesch_gruppe_nummer: 4
+  neugründung_anlass: industrielle und bauliche Entwicklung des Stadtteils Stallberg nach dem Zweiten Weltkrieg
+  initianten: auf dem Stallberg wohnende Feuerwehrleute
+  unterstuetzende_firmen: Kepec, gebr. Seiler
+  erster_uebungsleiter: Oberbrandmeister Wilhelm Krey
+  stellvertreter_uebungsleiter: Oberbrandmeister Hans Schönenberg
+  erster_brandmeister: Karl Stocksiefen
+  brandmeister_amtsantritt: 11.11.1957
+  stellvertreter_brandmeister: Rolf Grosch, Karl Kattwinkel
+  stellvertreter_ab: 1957
+  gruendungsfest: 1975
+  gruendungsfest_beschreibung: 25-jähriges Bestehen, Festakt im Pfarrer-Rupprecht-Saal
+  florianstube_eroeffnung: 1976
+  florianstube_standort: Dachboden des katholischen Pfarrhauses
+  florianstube_nutzung: Treffpunkt für Mitglieder, Familienmitglieder und Freunde der Löschgruppe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/004
+ENTITÄT: amt
+BEZEICHNUNG: Amt 13 - Amt für Kommunikation und Historisches Archiv
+QUELLE: https://siegburg.de/buergerservice-views/abteilungen/NRW:department:15352/amt-13-amt-fuer-kommunikation-und-historisches-archiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Nogenter Platz 10, 53721 Siegburg
+  stockwerk: 1. Obergeschoss
+  telefon: +49 2241 102-1282
+  email: presse@siegburg.de
+  webseite: siegburg.de
+  barrierefreiheit_aufzug: true
+  barrierefreiheit_rollstuhlgeeignet: true
+  erreichbarkeit_montag: 08:00 - 16:00
+  erreichbarkeit_dienstag: 08:00 - 16:00
+  erreichbarkeit_mittwoch: 08:00 - 16:00
+  erreichbarkeit_donnerstag: 08:00 - 16:00
+  erreichbarkeit_freitag: 08:00 - 14:00
+  erreichbarkeit_samstag: geschlossen
+  erreichbarkeit_sonntag: geschlossen
+  erreichbarkeit_feiertage: An gesetzlichen Feiertagen geschlossen
+  aufgaben: Kommunikation und Presse, Beantwortung von Presseanfragen, Erteilung von Drehgenehmigungen, Erstellung tagesaktueller Texte/Fotos/Videos für Newsletter und Homepage, Redaktion Seniorenzeitschrift, Pflege des städtischen Veranstaltungskalenders, Archivwesen, Sammlung und Digitalisierung von Archivalien, Sammlung von Bildern zur Stadtgeschichte, Verwaltung des Zeitungsarchivs und der Archivbibliothek, genealogische Recherche, Archivpädagogik, Publikation historischer Schriften
+  amtsleiter: Herr Gerull
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/005
+ENTITÄT: ort
+BEZEICHNUNG: Siegburg
+QUELLE: https://siegburg.de/wirtschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_kreisstadt: true
+  stadtgeschichte_jahre: ca. 950
+  lage: zentral im Rhein-Sieg-Kreis
+  investitionsmoeglichkeiten: hervorragend
+  funktion: Einkaufs-, Dienstleistungs- und Tagungsstandort
+  besonderheit: attraktiv
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/006
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: RHEIN SIEG FORUM
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Veranstaltungsort
+  lage: im Herzen der Kreisstadt Siegburg
+  ausstattung: modernste Technik, große Zuschauerkapazität
+  programm: Theatersaison, abwechslungsreiches Veranstaltungsprogramm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/007
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Stadtmuseum
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: im Herzen der Stadt
+  inhalt: Stadtgeschichte, zeitgenössische Kunst
+  veranstaltungstypen: Klassik, Kabarett, Vorträge, Tagungen
+  aula: Aula des Stadtmuseums
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/008
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Stadtbibliothek
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auszeichnungen: mehrfach ausgezeichnet
+  bestand: Bücher, DVDs
+  veranstaltungen: Lesungen mit bekannten Autoren, Theaterveranstaltungen für Kinder und Jugendliche
+  funktion: Treffpunkt, Veranstalter, Förderer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/009
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Freizeitbad Oktopus
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Gesundheits- und Erlebnispark
+  angebot: Badespaß, abwechslungsreiche Freizeitaktivitäten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/010
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Musikwerkstatt
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: Leben und Werk Engelbert Humperdincks
+  zielgruppe: junge, hochbegabte Instrumentalisten und Komponisten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/011
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Studiobühne Siegburg
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1998
+  gruender: Wolf Bongôrt von Roy
+  erster_text: Herr Puntila und sein Knecht Matti (Bertolt Brecht)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/012
+ENTITÄT: veranstaltungsreihe
+BEZEICHNUNG: Humperdinck-Musikfest
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periodizitaet: regelmäßig
+  charakterisierung: Höhepunkt des kulturellen Lebens der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 346-siegburg/013
+ENTITÄT: veranstaltungsreihe
+BEZEICHNUNG: Siegburger Literaturwochen
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periodizitaet: regelmäßig
+  charakterisierung: Höhepunkt des kulturellen Lebens der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 346-siegburg/014
+ENTITÄT: veranstaltungsreihe
+BEZEICHNUNG: Keramikmarkt
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periodizitaet: regelmäßig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 346-siegburg/015
+ENTITÄT: veranstaltungsreihe
+BEZEICHNUNG: Märchenfest
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periodizitaet: regelmäßig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 346-siegburg/016
+ENTITÄT: veranstaltungsreihe
+BEZEICHNUNG: Mittelalterlicher Markt zur Weihnachtszeit
+QUELLE: https://siegburg.de/kultur-freizeit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periodizitaet: regelmäßig
+  zeitpunkt: Weihnachtszeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 346-siegburg/017
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stallberg
+QUELLE: https://siegburg.de/medien/dokumente/feuerwehr-siegburg-chronik-der-loeschgruppe-4.pdf?cid=8ss | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwicklung: bauliche und industrielle Entwicklung nach dem Zweiten Weltkrieg
+  urspruengliche_betreuung: Löschgruppe Wolsdorf
+  besonderheit: Ansässigkeit von Firmen Kepec und gebr. Seiler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/018
+ENTITÄT: stadtteil
+BEZEICHNUNG: Mühlenquartier
+QUELLE: https://siegburg.de/strukturierte-daten/cityportal/firmen-unternehmen/lichtgeschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Quartier mit lokalen Unternehmen und Dienstleistern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 346-siegburg/019
+ENTITÄT: stadtentwicklungsprojekt
+BEZEICHNUNG: Holzgasse
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projekttyp: Sanierung und Erneuerung
+  startjahr: 2027
+  gesamtkostenvolumen: 6000000
+  gesamtkostenvolumen_genauigkeit: über
+  gesamtkostenvolumen_einheit: EUR
+  isek_foerderung: 4365000
+  isek_foerderung_einheit: EUR
+  kommunaler_anteil: 1900000
+  kommunaler_anteil_genauigkeit: ca.
+  kommunaler_anteil_einheit: EUR
+  gruendung_foerderung: Integriertes Stadtentwicklungskonzept Siegburg Innenstadt (ISEK)
+GUELTIG_AB: 2027
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 346-siegburg/020
+ENTITÄT: stadtentwicklungsprojekt
+BEZEICHNUNG: Michaelsberg
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projekttyp: Umbau und Aufwertung
+  aspekte: ökologische, ökonomische und soziale Aspekte
+  foerderung: ISEK-gefördert
+  runderweg: Rundweg Michaelsberg mit Informationsstelen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/021
+ENTITÄT: stadtentwicklungsprojekt
+BEZEICHNUNG: Gemeinschaftsgarten an der Cecilienstraße
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projekttyp: Grünflächenanlage
+  foerderung: ISEK-Projekt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/022
+ENTITÄT: kunstwerk
+BEZEICHNUNG: künstlerische Aufwertung der Bahnunterführung Mahrstraße
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: künstlerische Gestaltung
+  foerderung: ISEK-Projekt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 346-siegburg/023
+ENTITÄT: stadtentwicklungsprojekt
+BEZEICHNUNG: Sitztreppen am Mühlengraben
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projekttyp: Infrastruktur und Aufenthaltsqualität
+  foerderung: ISEK-Projekt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 346-siegburg/024
+ENTITÄT: parkanlage
+BEZEICHNUNG: Leisepark
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruenglicher_name: Alter Friedhof
+  umgestaltung: zum Leisepark
+  foerderung: ISEK-Projekt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/025
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Hellas Siegburg
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sportart: Triathlon, Schwimmen
+  mitglieder_bei_veranstaltung: ca. 45
+  mitglieder_bei_veranstaltung_anlass: Hawaii-Nacht-Veranstaltung
+  bekanntester_athlet: Stephan Müll
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 346-siegburg/026
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Landjuden an der Sieg
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  telefon: +49 2241 13-2928
+  email: gedenkstaette@rhein-sieg-kreis.de
+  historischer_kontext: Deportation der letzten in Siegburg verbliebenen Juden im Juli 1942
+  anachronismus: Bilder von Deportationen sind sehr selten; Foto hing lange im Haus der Wannseekonferenz in Berlin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/027
+ENTITÄT: sehenswuerdigkeit
+BEZEICHNUNG: Stele 10 - Siegwerk (Geschichte)
+QUELLE: https://siegburg.de/strukturierte-daten/orte/sehenswuerdigkeiten/infostelen-michaelsberg/stele-10-siegwerk-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Informationsstele
+  kontext: Rundweg Michaelsberg
+  thema: Siegwerk-Geschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 346-siegburg/028
+ENTITÄT: bauwerk
+BEZEICHNUNG: Turnhalle Deichhaus
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projekt: Sanierung
+  gesamtumfang: 2000000
+  gesamtumfang_einheit: EUR
+  efre_foerderung: 1500000
+  efre_foerderung_einheit: EUR
+  stadteigener_anteil: 500000
+  stadteigener_anteil_einheit: EUR
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/029
+ENTITÄT: bauwerk
+BEZEICHNUNG: Umkleidegebäude am Stadion
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projekt: Sanierung/Neubau
+  gesamtumfang: 4000000
+  gesamtumfang_einheit: EUR
+  beg_foerderung: 500000
+  beg_foerderung_einheit: EUR
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/030
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projekt: Sanierung/Umbau
+  gesamtkostenvolumen: 8900000
+  gesamtkostenvolumen_einheit: EUR
+  foerderung_source: KFW-Bank
+  foerderung: 8900000
+  foerderung_einheit: EUR
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/031
+ENTITÄT: bauwerk
+BEZEICHNUNG: BildungsCampus Neuenhof
+QUELLE: https://siegburg.de/feeds/citykey/news.json | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projekt: Neubau/Entwicklung
+  gesamtkostenvolumen: unbekannt
+  foerderung: 11500000
+  foerderung_einheit: EUR
+  foerderung_quelle: verschiedene Töpfe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 346-siegburg/032
+ENTITÄT: abteilung
+BEZEICHNUNG: Amt 32 - Amt für öffentliche Ordnung
+QUELLE: https://siegburg.de/buergerservice-views/leistungen/NRW:entry:42451-VLR/verwarnungs-oder-bussgeld-bezahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  telefon: +49 2241 102-2032
+  email: ordnungsamt@siegburg.de
+  aufgaben: Verwaltung von Verwarnungsgeldern und Bußgeldern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 346-siegburg/033
+ENTITÄT: institution
+BEZEICHNUNG: Siegburger Wirtschaftsförderung
+QUELLE: https://siegburg.de/wirtschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: zentrale Anlaufstelle für Unternehmen, Gründer und Investoren
+  adresse: Nogenter Platz 10, 53721 Siegburg
+  email: wirtschaftsfoerderung@siegburg.de
+  schwerpunkte: DIGITAL.BUSINESS, KLIMA.BUSINESS, CITY.BUSINESS
+  angebot: individuelle Unternehmensberatung, Standortentwicklung, Förderung von Innovation und Digitalisierung
+  partner: IHK Bonn/Rhein-Sieg, HWK Köln, Wirtschaftsförderung des Rhein-Sieg-Kreises, Hochschule Bonn-Rhein-Sieg, regionale und branchenspezifische Netzwerke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 346-siegburg/034
+ENTITÄT: bezeichnung_stadt
+QUELLE: https://siegburg.de/feeds/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  name: Kreisstadt Siegburg
+  typ: Kreisstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
