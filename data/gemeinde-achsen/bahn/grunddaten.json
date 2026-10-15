@@ -1,5 +1,5 @@
 {
- "erzeugt": "2026-10-14",
+ "erzeugt": "2026-10-15",
  "katalog": [
   {
    "schluessel": "bundesland",
@@ -752,7 +752,16 @@
   "Hattingen: kfz WIT (Wikidata P395) gegen EN (Altbestand staedte.json)",
   "Hattingen: kfz WIT (Wikidata P395) gegen EN (Altbestand geo.sqlite (Kreis 05954))",
   "Hattingen: hoehe_m 88 (Wikidata P2044) gegen 100 (Altbestand staedte.json)",
-  "Hattingen: hoehe_m 88 (Wikidata P2044) gegen 100 (Altbestand geo.sqlite (GeoNames 2909230))"
+  "Hattingen: hoehe_m 88 (Wikidata P2044) gegen 100 (Altbestand geo.sqlite (GeoNames 2909230))",
+  "Weilheim: kfz TÜ (Wikidata P395) gegen WT (Altbestand geo.sqlite (Kreis 08337))",
+  "Weilheim: kfz TÜ (Wikidata P395) gegen WM (Altbestand kfz_kennzeichen.csv)",
+  "Bühl: staedte.json führt den Namen mit Koordinaten 68 km entfernt",
+  "Bühl: kfz TÜ (Wikidata P395) gegen OG (Altbestand geo.sqlite (Kreis 08216))",
+  "Hirschau: staedte.json führt den Namen mit Koordinaten 244 km entfernt",
+  "Hirschau: kfz TÜ (Wikidata P395) gegen ER (Altbestand geo.sqlite (Kreis 09371))",
+  "Gomaringen: hoehe_m 474 (Wikidata P2044) gegen 430 (Wikidata P2044)",
+  "Gomaringen: hoehe_m 474 (Wikidata P2044) gegen 430 (Altbestand geo.sqlite (GeoNames 2919146))",
+  "Wurmlingen: kfz TÜ (Wikidata P395) gegen TUT (Altbestand geo.sqlite (Kreis 08327))"
  ],
  "orte": [
   {
@@ -5474,6 +5483,902 @@
    }
   },
   {
+   "slug": "361-kayh",
+   "rolle": "ziel",
+   "name": "Kayh",
+   "einheit": "Ortsteil von Herrenberg",
+   "wikidata": "Q1737435",
+   "lat": 48.5761,
+   "lon": 8.92333,
+   "gemeindeschluessel": "08115021",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Böblingen",
+      "quelle": "von Hand (Herrenberg liegt im Landkreis Böblingen; Wikidata P131 des Ortsteils nennt die Stadt)"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1746,
+      "quelle": "dewiki Infobox",
+      "stand": "2026-03-31"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "BB",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Herrenberg, nicht für den Stadtteil allein"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 23
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "23 km nordwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 30
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-12-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "71083"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07032"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.8,
+        "GRÜNE": 17.3,
+        "AfD": 15.4,
+        "SPD": 14.7,
+        "FDP": 6.7,
+        "Die Linke": 6.3
+       },
+       "wahlbeteiligung_prozent": 85.5,
+       "gueltige_zweitstimmen": 19532
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Herrenberg, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 434,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2891998)"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "362-altingen",
+   "rolle": "ziel",
+   "name": "Altingen",
+   "einheit": "Ortsteil von Ammerbuch",
+   "wikidata": "Q441446",
+   "lat": 48.55889,
+   "lon": 8.90667,
+   "gemeindeschluessel": "08416048",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 2575,
+      "quelle": "dewiki Infobox",
+      "stand": "2023-01"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 8.58,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 300,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 379,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 379,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 377,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2957100)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 23
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "23 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 32
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-12-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72119"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07032"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.3,
+        "GRÜNE": 19.0,
+        "AfD": 15.7,
+        "SPD": 12.8,
+        "Die Linke": 7.9,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 88.3,
+       "gueltige_zweitstimmen": 7495
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "363-breitenholz",
+   "rolle": "ziel",
+   "name": "Breitenholz",
+   "einheit": "Ortsteil von Ammerbuch",
+   "wikidata": "Q906373",
+   "lat": 48.5708,
+   "lon": 8.95833,
+   "gemeindeschluessel": "08416048",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 762,
+      "quelle": "dewiki Infobox",
+      "stand": "2023-01"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 10.82,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 70,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 412,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 412,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 414,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2944581)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 20
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "20 km nordwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 28
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-12-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72119"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07073"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.3,
+        "GRÜNE": 19.0,
+        "AfD": 15.7,
+        "SPD": 12.8,
+        "Die Linke": 7.9,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 88.3,
+       "gueltige_zweitstimmen": 7495
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "364-entringen",
+   "rolle": "ziel",
+   "name": "Entringen",
+   "einheit": "Ortsteil von Ammerbuch",
+   "wikidata": "Q775604",
+   "lat": 48.55,
+   "lon": 8.96667,
+   "gemeindeschluessel": "08416048",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 3852,
+      "quelle": "dewiki Infobox",
+      "stand": "2023-01"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 13.94,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 276,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 360,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 377,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 374,
+      "quelle": "Altbestand geo.sqlite (GeoNames 11397288)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 19
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "19 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 30
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-12-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72119"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07073"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.3,
+        "GRÜNE": 19.0,
+        "AfD": 15.7,
+        "SPD": 12.8,
+        "Die Linke": 7.9,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 88.3,
+       "gueltige_zweitstimmen": 7495
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "365-pfaeffingen",
+   "rolle": "ziel",
+   "name": "Pfäffingen",
+   "einheit": "Ortsteil von Ammerbuch",
+   "wikidata": "Q2005351",
+   "lat": 48.52639,
+   "lon": 8.96639,
+   "gemeindeschluessel": "08416048",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1811,
+      "quelle": "Wikidata P1082",
+      "stand": "2015-03-01"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 3.7,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 489,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 349,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 349,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 350,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2854301)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 18
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "18 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 32
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-12-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72119"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07073"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.3,
+        "GRÜNE": 19.0,
+        "AfD": 15.7,
+        "SPD": 12.8,
+        "Die Linke": 7.9,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 88.3,
+       "gueltige_zweitstimmen": 7495
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "366-poltringen",
+   "rolle": "ziel",
+   "name": "Poltringen",
+   "einheit": "Ortsteil von Ammerbuch",
+   "wikidata": "Q880462",
+   "lat": 48.53333,
+   "lon": 8.95,
+   "gemeindeschluessel": "08416048",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1806,
+      "quelle": "dewiki Infobox",
+      "stand": "2023-01"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.84,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 373,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 362,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 362,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 359,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2852798)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 19
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "19 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 32
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-12-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72119"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07073"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.3,
+        "GRÜNE": 19.0,
+        "AfD": 15.7,
+        "SPD": 12.8,
+        "Die Linke": 7.9,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 88.3,
+       "gueltige_zweitstimmen": 7495
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "367-reusten",
+   "rolle": "ziel",
+   "name": "Reusten",
+   "einheit": "Ortsteil von Ammerbuch",
+   "wikidata": "Q1249635",
+   "lat": 48.54222,
+   "lon": 8.92028,
+   "gemeindeschluessel": "08416048",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 941,
+      "quelle": "dewiki Infobox",
+      "stand": "2023-01"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 6.11,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 154,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 373,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 373,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 369,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2847877)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 22
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "22 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 33
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-12-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72119"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07073"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.3,
+        "GRÜNE": 19.0,
+        "AfD": 15.7,
+        "SPD": 12.8,
+        "Die Linke": 7.9,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 88.3,
+       "gueltige_zweitstimmen": 7495
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Ammerbuch, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
    "slug": "92-ammerbuch",
    "rolle": "ziel",
    "name": "Ammerbuch",
@@ -5843,6 +6748,2695 @@
        "Iklad"
       ],
       "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "368-unterjesingen",
+   "rolle": "ziel",
+   "name": "Unterjesingen",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q319267",
+   "lat": 48.52667,
+   "lon": 8.97778,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 2510,
+      "quelle": "dewiki Infobox",
+      "stand": "2022"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 8.73,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 288,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 353,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 353,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 359,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2819284)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 17
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "17 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 32
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-07-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72070"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07073"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "369-hagelloch",
+   "rolle": "ziel",
+   "name": "Hagelloch",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q321133",
+   "lat": 48.54083,
+   "lon": 9.01194,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1710,
+      "quelle": "dewiki Infobox",
+      "stand": "2022"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 5.97,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 286,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 443,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 440,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 443,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2912654)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 15
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "15 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 29
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-07-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72070"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "370-weststadt-tuebingen",
+   "rolle": "ziel",
+   "name": "Weststadt",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q2565666",
+   "lat": 48.5219,
+   "lon": 9.04056,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 8032,
+      "quelle": "dewiki Infobox",
+      "stand": "2007-12-31"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 346,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 346,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 13
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "13 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 31
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72070"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "371-waldhaeuser-ost",
+   "rolle": "ziel",
+   "name": "Waldhäuser Ost",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q994089",
+   "lat": 48.5439,
+   "lon": 9.05944,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 4785,
+      "quelle": "dewiki Infobox",
+      "stand": "2007-12-31"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 379,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 379,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 12
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "12 km nordwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 28
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72076"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "372-bebenhausen",
+   "rolle": "ziel",
+   "name": "Bebenhausen",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q458237",
+   "lat": 48.55972,
+   "lon": 9.06,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 337,
+      "quelle": "Wikidata P1082"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 13.37,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 25,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 351,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 352,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 351,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2951811)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 13
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "13 km nordwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 26
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1974-11-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72074"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "373-lustnau",
+   "rolle": "ziel",
+   "name": "Lustnau",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q314634",
+   "lat": 48.53333,
+   "lon": 9.08333,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 10078,
+      "quelle": "dewiki Infobox",
+      "stand": "2014-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 14.32,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 704,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 10
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "10 km nordwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 29
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1934-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72074"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 333,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2874962)"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "374-pfrondorf",
+   "rolle": "ziel",
+   "name": "Pfrondorf",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q316769",
+   "lat": 48.54861,
+   "lon": 9.1125,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 3316,
+      "quelle": "dewiki Infobox",
+      "stand": "2025-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 9.85,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 337,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 434,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 434,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 432,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2853953)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 9
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "9 km nordwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 26
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-07-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72074"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "375-suedstadt-tuebingen",
+   "rolle": "ziel",
+   "name": "Südstadt",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q2381514",
+   "lat": 48.5134,
+   "lon": 9.06525,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 9897,
+      "quelle": "dewiki Infobox",
+      "stand": "2007-12-31"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 323,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 323,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 11
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "11 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 31
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72072"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "376-derendingen",
+   "rolle": "ziel",
+   "name": "Derendingen",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q316773",
+   "lat": 48.5036,
+   "lon": 9.05222,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 6558,
+      "quelle": "Wikidata P1082",
+      "stand": "2014-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 6.63,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 989,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 328,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 328,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 326,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2938134)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 11
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "11 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 32
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1934-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72072"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "377-weilheim-tuebingen",
+   "rolle": "ziel",
+   "name": "Weilheim",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q876142",
+   "lat": 48.489,
+   "lon": 9.033,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1270,
+      "quelle": "dewiki Infobox",
+      "stand": "2022"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 8.09,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 157,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     },
+     {
+      "wert": "WT",
+      "quelle": "Altbestand geo.sqlite (Kreis 08337)",
+      "abweichend": true
+     },
+     {
+      "wert": "WM",
+      "quelle": "Altbestand kfz_kennzeichen.csv",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 333,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 333,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 330,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2812512)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 13
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "13 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 34
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-08-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72072"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "378-kilchberg-tuebingen",
+   "rolle": "ziel",
+   "name": "Kilchberg",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q119603",
+   "lat": 48.4889,
+   "lon": 9.01583,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1270,
+      "quelle": "dewiki Infobox",
+      "stand": "2022"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.41,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 288,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 336,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 336,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 333,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2890928)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 14
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "14 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 35
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-07-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72072"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Kilchberg"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "379-buehl-tuebingen",
+   "rolle": "ziel",
+   "name": "Bühl",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q321103",
+   "lat": 48.4833,
+   "lon": 8.99694,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 2080,
+      "quelle": "dewiki Infobox",
+      "stand": "2022"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 6.41,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 324,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     },
+     {
+      "wert": "OG",
+      "quelle": "Altbestand geo.sqlite (Kreis 08216)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 336,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 336,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 338,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2941978)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 15
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "15 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 36
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-07-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72072"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07472"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "380-hirschau-tuebingen",
+   "rolle": "ziel",
+   "name": "Hirschau",
+   "einheit": "Ortsteil von Tübingen",
+   "wikidata": "Q320858",
+   "lat": 48.5014,
+   "lon": 8.99444,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 3401,
+      "quelle": "dewiki Infobox",
+      "stand": "2023-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 6.17,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 551,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     },
+     {
+      "wert": "ER",
+      "quelle": "Altbestand geo.sqlite (Kreis 09371)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 330,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 330,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 332,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2903807)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 16
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "16 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 34
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-07-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72070"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Tübingen, nicht für den Stadtteil allein"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Kingersheim"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "381-dettenhausen",
+   "rolle": "ziel",
+   "name": "Dettenhausen",
+   "einheit": "Gemeinde",
+   "wikidata": "Q528076",
+   "lat": 48.6075,
+   "lon": 9.10056,
+   "gemeindeschluessel": "08416009",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Tübingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 5506,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 5390,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2937919)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 11.02,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 500,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 412,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 395,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 412,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 395,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2937919)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 15
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "15 km nordwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 20
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Dettenhausen"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72135"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "72135"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07157"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 34.8,
+        "AfD": 17.6,
+        "GRÜNE": 15.0,
+        "SPD": 14.0,
+        "FDP": 6.4,
+        "Die Linke": 5.3
+       },
+       "wahlbeteiligung_prozent": 87.7,
+       "gueltige_zweitstimmen": 3521
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Thomas Engesser"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-15",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Treuen",
+       "Tab"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Altbestand geo.sqlite (Kreis 08416)"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "382-kirchentellinsfurt",
+   "rolle": "ziel",
+   "name": "Kirchentellinsfurt",
+   "einheit": "Gemeinde",
+   "wikidata": "Q521318",
+   "lat": 48.53111,
+   "lon": 9.14833,
+   "gemeindeschluessel": "08416022",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Tübingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 5487,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 5406,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2890527)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 10.99,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 499,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 383,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 367,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 383,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 367,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2890527)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 6
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "6 km nordwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 28
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Kirchentellinsfurt"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72138"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "72138"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07121"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 31.1,
+        "GRÜNE": 20.9,
+        "SPD": 13.8,
+        "AfD": 12.7,
+        "Die Linke": 8.0,
+        "FDP": 6.2
+       },
+       "wahlbeteiligung_prozent": 87.4,
+       "gueltige_zweitstimmen": 3557
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Bernd Haug"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-15",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Altbestand geo.sqlite (Kreis 08416)"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "383-kusterdingen",
+   "rolle": "ziel",
+   "name": "Kusterdingen",
+   "einheit": "Gemeinde",
+   "wikidata": "Q521411",
+   "lat": 48.52222,
+   "lon": 9.12083,
+   "gemeindeschluessel": "08416023",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Tübingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 9094,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 8282,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2882237)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 24.24,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 375,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 405,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 405,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 409,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2882237)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 7
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "7 km nordwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 29
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72127"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "72127",
+       "72138"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 30.5,
+        "GRÜNE": 20.9,
+        "SPD": 14.4,
+        "AfD": 13.8,
+        "Die Linke": 7.6,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 90.1,
+       "gueltige_zweitstimmen": 5911
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Marc Roth",
+       "partei": "parteilos"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-15",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Altbestand geo.sqlite (Kreis 08416)"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "384-gomaringen",
+   "rolle": "ziel",
+   "name": "Gomaringen",
+   "einheit": "Gemeinde",
+   "wikidata": "Q507707",
+   "lat": 48.45194,
+   "lon": 9.09972,
+   "gemeindeschluessel": "08416015",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Tübingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 9114,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 8400,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2919146)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 17.32,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 526,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "TÜ",
+      "quelle": "Altbestand geo.sqlite (Kreis 08416)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 474,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 430,
+      "quelle": "Wikidata P2044",
+      "abweichend": true
+     },
+     {
+      "wert": 474,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 430,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2919146)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 9
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "9 km südwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 37
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72810"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "72810"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07072"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 35.5,
+        "AfD": 18.2,
+        "GRÜNE": 14.0,
+        "SPD": 13.1,
+        "Die Linke": 5.4,
+        "FDP": 5.2
+       },
+       "wahlbeteiligung_prozent": 86.2,
+       "gueltige_zweitstimmen": 5621
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Steffen Heß"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-15",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Arcis-sur-Aube"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "385-dusslingen",
+   "rolle": "ziel",
+   "name": "Dußlingen",
+   "einheit": "Gemeinde",
+   "wikidata": "Q507755",
+   "lat": 48.45056,
+   "lon": 9.06056,
+   "gemeindeschluessel": "08416011",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Tübingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 6186,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 5286,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2934235)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 13.05,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 474,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 379,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 379,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 379,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2934235)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 12
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "12 km südwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 38
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Dußlingen"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72144"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "72144"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07072"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 30.3,
+        "AfD": 18.9,
+        "GRÜNE": 14.6,
+        "SPD": 14.2,
+        "Die Linke": 8.1
+       },
+       "wahlbeteiligung_prozent": 86.4,
+       "gueltige_zweitstimmen": 3732
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Thomas Hölsch"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-15",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Mezzocorona"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Altbestand geo.sqlite (Kreis 08416)"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "386-wurmlingen-rottenburg",
+   "rolle": "ziel",
+   "name": "Wurmlingen",
+   "einheit": "Ortsteil von Rottenburg am Neckar",
+   "wikidata": "Q314763",
+   "lat": 48.5022,
+   "lon": 8.96528,
+   "gemeindeschluessel": "08416036",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Rottenburg am Neckar, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 2600,
+      "quelle": "dewiki Infobox",
+      "stand": "2022"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 7.14,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 364,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Rottenburg am Neckar, nicht für den Stadtteil allein"
+     },
+     {
+      "wert": "TUT",
+      "quelle": "Altbestand geo.sqlite (Kreis 08327)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 353,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 349,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 353,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2805666)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 18
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "18 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 35
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-12-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72108"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07472"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 34.0,
+        "AfD": 19.1,
+        "GRÜNE": 14.7,
+        "SPD": 12.5,
+        "Die Linke": 7.0,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 85.0,
+       "gueltige_zweitstimmen": 26167
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Rottenburg am Neckar, nicht für den Stadtteil allein"
      }
     ],
     "kueste": [
