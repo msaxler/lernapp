@@ -1,0 +1,238 @@
+ENTITÄT: ort
+BEZEICHNUNG: Weilheim
+QUELLE: https://www.tuebingen.de/157.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Im Neckartal, 3 km südlich von Tübingen
+  hoehe_meter: 333
+  einwohner: 1455
+  einwohner_stand: 31. Dezember 2025
+  bahnlinie: Tübingen – Horb
+  landesstrasse: L 370 Tübingen – Rottenburg
+  ortsteile: Kreßbach, Eckhof
+  bahnstation_naechste: Tübingen Hauptbahnhof
+  busverbindung_linie: 19
+  busverbindung_ziele: Bühl (Rottenburg), Tübingen (Kliniken)
+  busverbindung_takt: Halbstundentakt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Weilheim
+QUELLE: https://www.tuebingen.de/157/431.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_min_jahre: 900
+  namensherkunft: Name deutet auf Entstehung spätestens im 7. Jahrhundert, wie bei anderen "Weil" oder "Heim"-Orten
+  genauigkeit_alter: vermutlich
+  erste_erwaehnung_name: Wilon
+  erste_erwaehnung_jahr: um 1090
+  grund_erste_erwaehnung: Im Zusammenhang mit Grundausstattung des Klosters Zwiefalten erwähnt; Schenkung durch Graf Liutold von Achalm
+  status_eingemeindung: Ortsteil von Tübingen seit 1. Juli 1971
+  grund_eingemeindung: Verwaltungsreform Baden-Württemberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kreßbach
+QUELLE: https://www.tuebingen.de/157/431.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung_frueh: kleines Dorf um 1090
+  entwicklung: später zu einem Hofgut reduziert
+  erste_erwaehnung: um 1090
+  grund_erste_erwaehnung: Im Zusammenhang mit Grundausstattung des Klosters Zwiefalten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eckhof
+QUELLE: https://www.tuebingen.de/157/430.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hochebene des Rammerts, südlich des Schlosses Kreßbach
+  beschreibung_frueh: früher zum Besitz des Schlosses Kreßbach gehörig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schloss Kreßbach
+ORTSTEIL_BEZUG: Kreßbach
+QUELLE: https://www.tuebingen.de/157/430.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1766
+  stockwerke: 3
+  lage: Liasplatte des Rammerts, im Osten der Gemarkung Weilheim, am Rande des Steinlachtales
+  anlage: Park mit Schlosskapelle und Friedhof
+  nutzung_modern: Golfclub im Schlossgut
+GUELTIG_AB: 1766
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fund_archaeologisch
+BEZEICHNUNG: Weilheimer Stele
+QUELLE: https://www.tuebingen.de/157/430.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funddatum: April 1985
+  hoehe_original_meter: 4.5
+  hoehe_genauigkeit: ca.
+  material: Stubensandstein
+  merkmale: beidseitig verzierter Pfeiler
+  datierung: Frühe Bronzezeit
+  datierung_bedeutung: Hinweis auf Kontakte des Neckarraumes mit dem Alpengebiet und Oberitalien
+  superlativ: überragt alle anderen Menhire weit
+  lagerort_original: Landesmuseum Stuttgart
+  lagerort_kopie: Nachbildung an Fundstelle aufgestellt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Nikomedeskirche
+QUELLE: https://www.tuebingen.de/157/430.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1499-1521
+  baujahr_vorgaenger: älteren Vorgänger-Kirche vorhanden
+  baustil: Spätgotik
+  urspruengliche_funktion: katholische Kirche
+  chor: halbachteckig, geschlossen
+  fenster: spitzbogig
+  decoration: Gemälde in Kirchenmitte mit Christus als Weltrichter, Jahreszahl 1530
+GUELTIG_AB: 1499
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Nikomedeskirche
+QUELLE: https://de.wikipedia.org/wiki/Weilheim_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  patronat_inhaber: Tübinger Spital
+  patronat_gueltig_ab: 1441
+  patronat_gueltig_bis: 1806
+  patronat_ende_grund: Säkularisation
+  baujahr: 1499-1521
+  baustil: Spätgotische Hallenkirche
+  chor: 5/8-Chor
+  turm: massiver Turm mit Satteldach
+  namenspatron: Nikomedes
+  superlativ: in Württemberg nur noch in Hildrizhausen eine weitere Nikomedeskirche vorhanden
+  namenspatron_identitaet: Möglicherweise Märtyrer aus Rom (1. Jahrhundert) oder Bischof in Nikomedien (303 bei Christenverfolgung)
+  namenspatron_identitaet_genauigkeit: unklar
+GUELTIG_AB: 1441
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brand_katastrophe
+BEZEICHNUNG: Brandkatastrophe Weilheim
+QUELLE: https://www.tuebingen.de/157/430.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 16. August 1849
+  superlativ: größte Brandkatastrophe der Geschichte Weilheims
+  zerstoert_objekte: ca. 10 große Scheuern mit Nebengebäuden und Schuppen
+  lage_brandobjekte: südwestliches Viertel des Dorfes
+GUELTIG_AB: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Weilheimer Scheunenfront
+QUELLE: https://www.tuebingen.de/157/430.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: ca. 1850
+  anlass_bau: Wiederaufbau nach Brandkatastrophe vom 16. August 1849
+  bauzeit_nach_katastrophe: ein Jahr nach dem Brand
+  laenge_meter: 112
+  bauprinzip: einheitliche Grundsätze
+  erhaltungszustand: bis in die Gegenwart fast unverändert
+  ortsbild_bedeutung: prägt zusammen mit Kirche und Pfarrhaus das Ortsbild von Westen
+  hoehe_genauigkeit: über
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Neuwirtshaus (Weilheimer Kneiple)
+QUELLE: https://de.wikipedia.org/wiki/Weilheim_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  baujahr_ungefaehr: 18. Jahrhundert
+  lage: an der Straße zwischen Tübingen und Rottenburg
+  bedeutung: Bedeutung für Tübinger Studenten
+  merkmale: Fechtboden außerhalb der akademischen Gerichtsbarkeit der Tübinger Universität
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ritter Friedrich von Weilheim (genannt Usel)
+QUELLE: https://de.wikipedia.org/wiki/Weilheim_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Ritter
+  role: Ministeriale der Pfalzgrafen von Tübingen
+  ereignis_jahr: 1289
+  ereignis_beschreibung: vom Pfalzgrafen Eberhard von Tübingen und seinem Bruder Rudolf von Tübingen dem Kloster Bebenhausen als Gewährschaftsbürge für den Verkauf von Weinbergen in Jesingen und anderen Ländereien verpflichtet
+GUELTIG_AB: 1289
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Paul Schneider
+QUELLE: https://de.wikipedia.org/wiki/Weilheim_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Theologiestudent; später als "Prediger von Buchenwald" bekannt
+  wohnort_1920: Pfarrhaus Weilheim
+  ehepartnerin: Tochter des Weilheimer Pfarrers Dieterich
+  hochzeitsdatum: 1926
+  hochzeitsort: Weilheimer Kirche
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Ortswappen Weilheim
+QUELLE: https://de.wikipedia.org/wiki/Weilheim_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Auf blauem Grund eine gestürzte silberne Pflugschar, darüber ein silbernes Schildhaupt, welches mit einer rechtshin liegenden blauen Hirschstange belegt ist
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Weilheim
+QUELLE: https://de.wikipedia.org/wiki/Weilheim_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  status: Stadtteil der Universitätsstadt Tübingen
+  lage: südwestlich der Innenstadt
+  entfernung_kernstadt: 3 km
+  bahnstrecke: Plochingen–Immendingen
+  strasse_landesstrasse: L 370 Tübingen–Rottenburg am Neckar
+  hoehe_m_ueber_NHN: 333
+  zugehoerigkeit_frueh: Grafen zu Tübingen
+  zugehoerigkeit_spaeter: Württemberg
+  zugehoerigkeit_ab_15_jh: Amt Tübingen
+  zugehoerigkeit_spaeterhin: Oberamt Tübingen und Kreis Tübingen
+  ortsteile_kreßbach_eckhof_eingemeindung: 19. Jahrhundert
+  eingemeindung_tuebingen: 1. August 1971
+  jubilaeum_900_jahre: 1991 gefeiert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

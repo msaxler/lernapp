@@ -1,0 +1,325 @@
+ENTITÄT: ort
+BEZEICHNUNG: Hagelloch
+QUELLE: https://www.tuebingen.de/151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1745
+  lage_von_stadtzentrum_km: 5
+  richtung_von_stadtzentrum: nordwestlich
+  erreichbarkeit: B 28 Richtung Herrenberg über K 6914, oder vom Tübinger Nordring über Ebenhaldenstraße
+  charakterisierung: bevorzugtes Wohngebiet ohne Durchgangsverkehr und Industriebetriebe
+  umgebung: Obstbaumwiesen
+  besonderheit_gastronomie: beliebte Ziele bei Schönbuchwanderungen
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Hagelloch
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  lage_von_stadtkern_km: 3
+  richtung_von_stadtkern: nordwestlich
+  typ: Stadtteil der Universitätsstadt Tübingen
+  erste_urkundliche_erwähnung: 1106
+  besonderheit: bekannt für landschaftlich schöne Lage am Rande des Schönbuchs
+  eingliederung_tuebingen_datum: 1971-07-01
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Hagelloch
+QUELLE: https://www.tuebingen.de/151/367.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  früherer_name: Hagenloch
+  namensherkunft: von einem Hag (Zaun) umgebenes Waldstück, zusammengesetzt aus "Hag" und "Lohe" (Gehölz)
+  erste_urkundliche_erwähnung: 1106
+  älteste_ortsherren: Pfalzgrafen von Tübingen
+  besitzer_ab_1296: Kloster Bebenhausen
+  gehörte_zum_kloster_bis: 1807
+  charakterisierung_geschichte: Armut bestimmte jahrhundertelang das Leben in Hagelloch
+GUELTIG_AB: 1106
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Hagelloch
+QUELLE: https://www.tuebingen.de/151/367.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wirtschaftliche_entwicklung: Realteilung führte im 19. Jahrhundert zum Kleinbauerntum
+  berufsverteilung_erste_hälfte_19jhd_handwerker_prozent: 43
+  berufsverteilung_erste_hälfte_19jhd_bauern_prozent: 19
+  berufsverteilung_erste_hälfte_19jhd_taglöhner_prozent: 12
+  handwerksberufe: Maurer, Gipser, Zimmerleute
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Hagelloch
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl_1999: 1839
+  einwohnerzahl_2008: 1728
+  trend_seit_1970er: beliebter Wohnort für Neuzugezogene
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Schloss Torbogenweg (Gutshof)
+QUELLE: https://www.tuebingen.de/151/366.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Torbogenweg 6
+  typ: kleiner ummauerter Gutshof des niederen Ortsadels
+  bauzeit: 1419/20
+  torbogen_entstehung: zweite Hälfte 17. Jahrhundert
+  ofenfuss_datum: 1726
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Hagelloch
+QUELLE: https://www.tuebingen.de/151/366.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1902-1904
+  stil: neuromanisch
+  pfarrhaus_errichtet: 1729
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Hagelloch
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  kirchliche_vorgeschichte: zunächst Filiale von Tübingen
+  marienkapelle_erwähnung: 1474
+  kaplanei_gestiftet: 1493
+  reformation_eingeführt: 1534
+  eigene_pfarrei_seit: 1545
+  kirchenbezirk: Tübingen
+  bauzeit: 1904/05
+  stil: neoromanisch
+  architekt: Baurat Theophil Frey aus Stuttgart
+  renovierungen: 1953, 1998
+  innenausstattung_stuetzsamalen_emporen: 1633, 1732
+  kruzifix: 1750
+  tafelbild_titel: Predigt Christi am See Genezareth
+  tafelbild_künstlerin: Elisabeth Horlacher
+  tafelbild_entstehung: Mitte 19. Jahrhundert
+  weitere_künstler_dargestellt: Martin Luther, Philipp Melanchthon
+  chorfenster_themen: Geburt, Kreuzigung, Auferstehung
+  chorfenster_entworfen_von: Theodor Bauerle
+  chorfenster_ausführung_jahr: 1904
+  chorfenster_glasmalerei: Waldhausen & Ellenbeck, Stuttgart
+  orgelbauer: C. L. Goll & Sohn
+  christusstatue_künstler: Albert Gäckle aus Stuttgart
+GUELTIG_AB: 1545
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Zehntscheuer Hagelloch
+QUELLE: https://www.tuebingen.de/151/366.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1746
+  ursprünglicher_besitzer: Kloster Bebenhausen
+GUELTIG_AB: 1746
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Pfalzgraf Gottfried
+QUELLE: https://www.tuebingen.de/151/367.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Pfalzgraf von Tübingen
+  aktion_1296: verkaufte Hagelloch an das Kloster Bebenhausen
+  befugnisse: ältester Ortsherr
+GUELTIG_AB: 1296
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hermann Breitenbach
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1883
+  todesjahr: 1967
+  nationalität: Schweizer
+  fachgebiet: Altphilologe
+  verbindung_hagelloch: Sohn des Ortes
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Karl Schneck
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1886
+  todesjahr: 1943
+  beruf: Politiker
+  partei: KPD
+  verbindung_hagelloch: Sohn des Ortes
+GUELTIG_AB: 1886
+GUELTIG_BIS: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ferdinand Zeeb
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1894
+  todesjahr: 1954
+  beruf: Politiker
+  partei: KPD
+  verbindung_hagelloch: Sohn des Ortes
+GUELTIG_AB: 1894
+GUELTIG_BIS: 1954
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: TSV Hagelloch
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  typ: Sportverein
+  veranstaltungen: Sportwochenende, Triathlon, Maibaum beim Maifest
+  kooperationen: Freiwillige Feuerwehr Hagelloch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein Hagelloch
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltungen: zweitägiges Sommerfest, Maikundgebung am Rathaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Liederkranz Hagelloch
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  typ: Musikgruppe
+  veranstaltungen: Maikundgebung am Rathaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: CVJM Hagelloch
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltungen: Handballturnier, Jahresfest im Kreuzberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Dorf- und Kulturverein Hagelloch
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltungen: Open-Air-Kino im Schulhof in den ersten drei Sommerferientagen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Freiwillige Feuerwehr Hagelloch
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  kooperationen: TSV Hagelloch, richtet Sportwochenende und Triathlon aus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Busverkehr Hagelloch
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  buslinien: 8, 18, N97
+  betreiber: Stadtverkehr Tübingen
+  tarifgemeinschaft: naldo
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verkehrsanbindung
+BEZEICHNUNG: Tübingen Hauptbahnhof
+QUELLE: https://www.tuebingen.de/151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung_hagelloch_km: 6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verkehrsanbindung
+BEZEICHNUNG: Tübingen Westbahnhof
+QUELLE: https://www.tuebingen.de/151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung_hagelloch_km: 4
+  zusatzinfo: Anschluss an die Ammertalbahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verkehrsanbindung
+BEZEICHNUNG: Bahnstation Tübingen West
+QUELLE: https://de.wikipedia.org/wiki/Hagelloch | Wikipedia
+EIGENSCHAFTEN:
+  nächstgelegene_eisenbahnstation: true
+  erreichbarkeit: Buslinie 20
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verkehrsanbindung
+BEZEICHNUNG: TüBus
+QUELLE: https://www.tuebingen.de/151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: verbindet Hagelloch mit Tübingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

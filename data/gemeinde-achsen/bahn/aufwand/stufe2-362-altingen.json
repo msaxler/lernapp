@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "362-altingen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 8819,
+ "token_ein": 393539,
+ "token_aus": 6465,
+ "usage": {
+  "input_tokens": 26,
+  "cache_creation_input_tokens": 29936,
+  "cache_read_input_tokens": 363577,
+  "output_tokens": 6465,
+  "output_tokens_details": {
+   "thinking_tokens": 2148
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 29936,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 2522,
+    "cache_read_input_tokens": 36191,
+    "cache_creation_input_tokens": 647,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 647
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7290304000000002,
+ "sekunden": 114,
+ "fehler": false,
+ "zeit": "2026-10-16T09:39:36"
+}

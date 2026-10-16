@@ -10100,9 +10100,57 @@ window.QA_DATEN = {
 "Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
 "Herrenberg hat fast sechsmal so viele Einwohner wie Eutingen im Gäu."
 ],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Eutingen im Gäu hat dreieinhalbmal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Eutingen im Gäu hat fast zweieinhalbmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Eutingen im Gäu hat achtmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Eutingen im Gäu hat gut anderthalbmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Eutingen im Gäu hat fast dreieinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Eutingen im Gäu hat fast dreieinhalbmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Eutingen im Gäu hat gut sechsmal so viele Einwohner wie Reusten."
+],
 "92-ammerbuch": [
 "Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
 "Ammerbuch hat fast doppelt so viele Einwohner wie Eutingen im Gäu."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Eutingen im Gäu die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Eutingen im Gäu die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Eutingen im Gäu die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Eutingen im Gäu die CDU."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Eutingen im Gäu hat fast zweieinhalbmal so viele Einwohner wie Wurmlingen."
 ],
 "94-rottenburg": [
 "Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
@@ -10307,6 +10355,34 @@ window.QA_DATEN = {
 "Herrenberg hat fast sechsmal so viele Einwohner wie Bondorf.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Herrenberg die Grünen, in Bondorf die AfD."
 ],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Bondorf zum Landkreis Böblingen.",
+"Bondorf hat dreieinhalbmal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bondorf hat fast zweieinhalbmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bondorf hat achtmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bondorf hat gut anderthalbmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bondorf hat dreieinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bondorf hat dreieinhalbmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bondorf hat fast siebenmal so viele Einwohner wie Reusten."
+],
 "92-ammerbuch": [
 "Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
 "Ammerbuch hat fast doppelt so viele Einwohner wie Bondorf."
@@ -10314,6 +10390,62 @@ window.QA_DATEN = {
 "93-tuebingen": [
 "Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
 "Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Bondorf die CDU."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Bondorf die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Bondorf die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Bondorf die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Bondorf die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Bondorf die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Bondorf die CDU."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Bondorf die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Bondorf die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Bondorf die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Bondorf die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Bondorf die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Bondorf die CDU."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Dußlingen und Bondorf sind fast gleich groß: rund 6.200 und 6.200 Einwohner."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bondorf hat fast zweieinhalbmal so viele Einwohner wie Wurmlingen."
 ],
 "94-rottenburg": [
 "Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
@@ -10520,6 +10652,34 @@ window.QA_DATEN = {
 "Herrenberg hat gut dreieinhalbmal so viele Einwohner wie Gäufelden.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Herrenberg die Grünen, in Gäufelden die AfD."
 ],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Gäufelden zum Landkreis Böblingen.",
+"Gäufelden hat gut fünfmal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Gäufelden hat dreieinhalbmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Gäufelden hat zwölfmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Gäufelden hat fast zweieinhalbmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Gäufelden hat fünfmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Gäufelden hat fünfmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Gäufelden hat zehnmal so viele Einwohner wie Reusten."
+],
 "92-ammerbuch": [
 "Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
 "Ammerbuch hat rund 2.200 Einwohner mehr als Gäufelden."
@@ -10527,6 +10687,58 @@ window.QA_DATEN = {
 "93-tuebingen": [
 "Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
 "Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Gäufelden hat dreieinhalbmal so viele Einwohner wie Wurmlingen."
 ],
 "94-rottenburg": [
 "Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
@@ -10744,6 +10956,34 @@ window.QA_DATEN = {
 "Fläche: Herrenberg ist gut dreimal so groß wie Gäufelden.",
 "Bundestagswahl 2025: Herrenberg wählte Grüne auf Platz zwei, Gäufelden AfD."
 ],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat zwanzigmal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat dreizehnmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat rund 45-mal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat neunmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat neunzehnmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat neunzehnmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat rund 35-mal so viele Einwohner wie Reusten."
+],
 "92-ammerbuch": [
 "Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
 "Herrenberg hat dreimal so viele Einwohner wie Ammerbuch."
@@ -10751,6 +10991,66 @@ window.QA_DATEN = {
 "93-tuebingen": [
 "Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
 "Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"374-pfrondorf": [
+"Kreisgrenze: Pfrondorf gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat gut sechsmal so viele Einwohner wie Dettenhausen."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat dreizehnmal so viele Einwohner wie Wurmlingen."
 ],
 "94-rottenburg": [
 "Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
@@ -10768,6 +11068,2264 @@ window.QA_DATEN = {
 "ags": "08115021",
 "ortsteil": false,
 "km_vom_vorigen": 6.2
+},
+{
+"slug": "361-kayh",
+"name": "Kayh",
+"lat": 48.5761,
+"lon": 8.92333,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kayh",
+"steckbrief": "Rund 1.700 Einwohner; Stadtteil von Herrenberg am Schönbuchhang, 23 km nordwestlich von Reutlingen.",
+"frage": "Wie hoch liegt Kayh über dem Meeresspiegel?",
+"optionen": [
+"unter 250 m",
+"250 bis unter 330 m",
+"330 bis unter 400 m",
+"400 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf am Hang klingt nach tiefer Tallage, das verleitet zum niedrigen Tipp. Kayh liegt aber am Schönbuchhang unterhalb des Grafenbergs auf 434 Metern über dem Meer. Richtig war 4.",
+"quelle": "GeoNames 2891998 (Altbestand geo.sqlite)",
+"faktencheck": "korrigiert",
+"id": "361-kayh/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kayh",
+"steckbrief": "Rund 1.700 Einwohner; Stadtteil von Herrenberg, 23 km nordwestlich von Reutlingen; die Kernstadt Herrenberg liegt 27 km von Reutlingen entfernt.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kayh zählt zu den nördlichen Stadtteilen Herrenbergs.",
+"Das Fachwerk-Rathaus zeugt vom Wohlstand des Weinbaus.",
+"Die Alte Kelter in Kayh ist ein Fachwerkbau."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist die erste Aussage: Kayh zählt mit Mönchberg und Gültstein zu den südlichen Stadtteilen Herrenbergs. Das Weinbau-Rathaus mag in einem Obstdorf erfunden klingen, doch in Kayh wuchs lange Wein. Rathaus und Alte Kelter sind beide Fachwerkbauten. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh",
+"faktencheck": "korrigiert",
+"id": "361-kayh/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kayh",
+"steckbrief": "Rund 1.700 Einwohner; Stadtteil von Herrenberg, 23 km nordwestlich von Reutlingen.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Herrenberg, zu der Kayh gehört: Welche Partei wurde zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"Grüne",
+"SPD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit landete die AfD auf Platz zwei, daher liegt sie nahe. In der Stadt Herrenberg, zu der Kayh gehört, kamen aber die Grünen hinter der CDU auf den zweiten Platz, knapp vor der AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Angabe für die Gemeinde Herrenberg",
+"faktencheck": "bestätigt",
+"id": "361-kayh/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kayh",
+"steckbrief": "Rund 1.700 Einwohner; Stadtteil von Herrenberg, 23 km nordwestlich von Reutlingen.",
+"frage": "Kayh ist um 1190 entstanden. Klosterbrüder bauten von Altingen aus am Schönbuchhang Wein an. Woher kamen sie nach Angabe der Stadt Herrenberg?",
+"optionen": [
+"Sie kamen aus Maulbronn.",
+"Sie kamen aus Zwiefalten.",
+"Sie kamen aus Ottobeuren.",
+"Sie kamen aus Salem."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster aus der Nähe läge als Tipp nahe. Nach Angabe der Stadt waren es aber Klosterbrüder aus dem fernen Ottobeuren, die von Altingen aus am Schönbuchhang Wein anbauten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh",
+"faktencheck": "korrigiert",
+"id": "361-kayh/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kayh",
+"steckbrief": "Rund 1.700 Einwohner; Stadtteil von Herrenberg, 23 km nordwestlich von Reutlingen.",
+"frage": "In welchem Zeitraum wurde Kayh nach Herrenberg eingemeindet?",
+"optionen": [
+"vor 1945",
+"1945 bis 1959",
+"1960 bis 1969",
+"1970 oder später"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wachsende Städte nach dem Krieg machen eine frühe Eingemeindung zum naheliegenden Tipp. Kayh kam aber erst am 1. Dezember 1971 zur Stadt Herrenberg. Richtig war 4.",
+"quelle": "dewiki Infobox, Artikel Kayh",
+"faktencheck": "bestätigt",
+"id": "361-kayh/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Kayh",
+"steckbrief": "Rund 1.700 Einwohner; Stadtteil von Herrenberg, 23 km nordwestlich von Reutlingen.",
+"frage": "Im September 1990 feierte Kayh sein 800-Jahr-Fest. Wie viele Besucher kamen etwa zum Festzug?",
+"optionen": [
+"15.000 und mehr",
+"5.000 bis unter 15.000",
+"2.000 bis unter 5.000",
+"unter 2.000"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Ort dieser Größe liegt eine kleine Zahl nahe, kaum mehr als die eigenen Einwohner. Doch zum Jubiläum feierte Kayh an großen Festwochenenden, und zum Festzug kamen etwa 20.000 Besucher. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh",
+"faktencheck": "bestätigt",
+"id": "361-kayh/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kayh",
+"steckbrief": "Rund 1.700 Einwohner; Stadtteil von Herrenberg, 23 km nordwestlich von Reutlingen.",
+"frage": "Kayh liegt am Schönbuchhang unterhalb des Grafenbergs. Als was beschreibt die Stadt Herrenberg den Grafenberg?",
+"optionen": [
+"als riesige Wacholderheide",
+"als riesigen Streuobstgürtel",
+"als großes Hopfenanbaugebiet",
+"als großes Spargelanbaugebiet"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wacholderheiden kennt man von der nahen Schwäbischen Alb, das liegt nahe. Am Grafenberg stehen aber Obstbäume: Nach Angabe der Stadt ist er ein riesiger Streuobstgürtel. Den Weinbau löste hier einst der Obstbau ab. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh",
+"faktencheck": "korrigiert",
+"id": "361-kayh/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "91-herrenberg",
+"anschluss": [
+"Einwohner: Kayh hat rund 1.700, ganz Herrenberg über 34.000."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Kayh zum Landkreis Landkreis Böblingen.",
+"Eutingen im Gäu hat dreieinhalbmal so viele Einwohner wie Kayh."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bondorf hat dreieinhalbmal so viele Einwohner wie Kayh."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Gäufelden hat gut fünfmal so viele Einwohner wie Kayh."
+],
+"91-herrenberg": [
+"Einwohner: Kayh hat rund 1.700, ganz Herrenberg über 34.000."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Altingen hat anderthalbmal so viele Einwohner wie Kayh."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Kayh hat fast zweieinhalbmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Entringen hat gut doppelt so viele Einwohner wie Kayh."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Pfäffingen und Kayh sind fast gleich groß: rund 1.800 und 1.700 Einwohner."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Poltringen und Kayh sind fast gleich groß: rund 1.800 und 1.700 Einwohner."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Kayh hat fast doppelt so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Ammerbuch hat fast siebenmal so viele Einwohner wie Kayh."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Kayh die CDU."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Kayh die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Kayh die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Kayh die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Kayh die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Kayh die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Kayh die CDU."
+],
+"374-pfrondorf": [
+"Kreisgrenze: Pfrondorf gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Kayh die CDU."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Kayh die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Kayh die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Kayh die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Kayh die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Kayh die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Kayh die CDU."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Dettenhausen hat gut dreimal so viele Einwohner wie Kayh."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Kirchentellinsfurt hat gut dreimal so viele Einwohner wie Kayh."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Kusterdingen hat gut fünfmal so viele Einwohner wie Kayh."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Gomaringen hat gut fünfmal so viele Einwohner wie Kayh."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Dußlingen hat dreieinhalbmal so viele Einwohner wie Kayh."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Wurmlingen hat anderthalbmal so viele Einwohner wie Kayh."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Rottenburg am Neckar hat rund 25-mal so viele Einwohner wie Kayh."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Starzach hat zweieinhalbmal so viele Einwohner wie Kayh."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Kayh zum Landkreis Landkreis Böblingen.",
+"Sindelfingen hat rund 35-mal so viele Einwohner wie Kayh."
+]
+},
+"ags": "08115021",
+"ortsteil": true,
+"km_vom_vorigen": 4.5
+},
+{
+"slug": "362-altingen",
+"name": "Altingen",
+"lat": 48.55889,
+"lon": 8.90667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altingen",
+"steckbrief": "Altingen ist ein Ortsteil von Ammerbuch mit rund 2.600 Einwohnern, 23 km westlich von Reutlingen (Luftlinie).",
+"frage": "Das frühere Schulhaus in der Schulstraße hatte zwei getrennte Eingangstüren. Wofür waren sie gedacht?",
+"optionen": [
+"Jungen und Mädchen gingen getrennt hinein.",
+"Katholische und evangelische Kinder gingen getrennt hinein.",
+"Lehrer und Schüler gingen getrennt hinein.",
+"Eine Tür diente nur als Notausgang."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Getrennte Eingänge für Jungen und Mädchen kennt man von alten Schulen, daher liegt das nahe. In Altingen trennte die Tür nach Konfession: Das Dorf war einst halb österreichisch, halb württembergisch. Nur der württembergische Teil wurde evangelisch, die österreichischen Häuser blieben katholisch. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen",
+"faktencheck": "bestätigt",
+"id": "362-altingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Altingen",
+"steckbrief": "Altingen ist ein Ortsteil von Ammerbuch an der Ammer mit rund 2.600 Einwohnern, 23 km westlich von Reutlingen (Luftlinie).",
+"frage": "Auf welcher Höhe über dem Meer liegt Altingen?",
+"optionen": [
+"unter 300 m",
+"300 bis unter 350 m",
+"350 bis unter 400 m",
+"400 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an die nahe Schwäbische Alb denkt, schätzt Altingen höher ein. Der Ort liegt aber an der Ammer, nicht auf der Alb. Die Quellen nennen 377 und 379 Meter. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2957100)",
+"faktencheck": "bestätigt",
+"id": "362-altingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Altingen",
+"steckbrief": "Altingen ist ein Ortsteil von Ammerbuch mit rund 2.600 Einwohnern, 23 km westlich von Reutlingen (Luftlinie).",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die katholische Kirche steht im burgartig ummauerten Kirchhof.",
+"Die evangelische Kirche stammt noch aus dem Mittelalter.",
+"Eine Hälfte der Zehntscheuer wurde zum Bürgerhaus umgebaut."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele Dorfkirchen sind mittelalterlich, deshalb klingt die Aussage glaubhaft. Die evangelische Kirche entstand aber erst lange nach der Reformation. In einer Zehntscheuer lagerte früher der Zehnt, eine Abgabe. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen",
+"faktencheck": "bestätigt",
+"id": "362-altingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Altingen",
+"steckbrief": "Altingen ist ein Ortsteil von Ammerbuch im Landkreis Tübingen mit rund 2.600 Einwohnern, 23 km westlich von Reutlingen (Luftlinie).",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Gemeinde Ammerbuch, zu der Altingen gehört?",
+"optionen": [
+"85 % und mehr",
+"80 bis unter 85 %",
+"75 bis unter 80 %",
+"unter 75 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele tippen niedriger, weil die Beteiligung bundesweit geringer ausfiel. In der Gemeinde Ammerbuch, zu der Altingen gehört, gaben aber 88,3 Prozent ihre Stimme ab. Stärkste Partei wurde die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "362-altingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altingen",
+"steckbrief": "Altingen ist ein Ortsteil von Ammerbuch mit rund 2.600 Einwohnern, 23 km westlich von Reutlingen (Luftlinie).",
+"frage": "Ein altes Fachwerkhaus in Altingen heißt Schwedenhaus. Woher hat es seinen Namen?",
+"optionen": [
+"Es ist nach schwedischen Soldaten benannt.",
+"Es ist nach einem Familienmitglied mit Spitznamen benannt.",
+"Es ist nach einem schwedischen Baumeister benannt.",
+"Es ist nach schwedischem Bauholz benannt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei „Schweden\" denken viele an den Dreißigjährigen Krieg. Der Name geht aber auf eine Person zurück: auf Jakob Haar, Spitzname „der Schwede\", aus der späteren Besitzerfamilie. Erwähnt wurde das Fachwerkhaus einst als „des Alten Schultheißen Haus\". Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen",
+"faktencheck": "korrigiert",
+"id": "362-altingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Altingen",
+"steckbrief": "Altingen hat rund 2.600 Einwohner und liegt 23 km westlich von Reutlingen (Luftlinie).",
+"frage": "Wann verlor Altingen seine Selbständigkeit als eigene Gemeinde?",
+"optionen": [
+"vor 1960",
+"1960 bis 1969",
+"1970 bis 1974",
+"1975 oder später"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an die große Gemeindereform in Baden-Württemberg denkt, tippt oft auf ihr Ende. Altingen war früher dran: Ende 1971 entstand die Gemeinde Ammerbuch, seither ist Altingen ein Ortsteil davon. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "korrigiert",
+"id": "362-altingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altingen",
+"steckbrief": "Altingen ist ein Ortsteil von Ammerbuch mit rund 2.600 Einwohnern, 23 km westlich von Reutlingen (Luftlinie).",
+"frage": "Altingens früheres Ortswappen zeigte einen goldenen Abtsstab mit Ähren und Pflugschar. Woran erinnerte der Abtsstab?",
+"optionen": [
+"Er erinnerte an einen Abt aus Altingen.",
+"Er erinnerte an ein Kloster im Ort.",
+"Er erinnerte an einen Abt als Gründer.",
+"Er erinnerte an früheren Besitz zweier Klöster."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Abtsstab lässt an ein Kloster im Dorf denken. Gemeint war aber früherer Besitz der Klöster Ottobeuren und Bebenhausen in Altingen. Die Farben stammen aus dem Wappen der Pfalzgrafen von Tübingen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen",
+"faktencheck": "bestätigt",
+"id": "362-altingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altingen",
+"steckbrief": "Altingen ist ein Ortsteil von Ammerbuch mit rund 2.600 Einwohnern, 23 km westlich von Reutlingen (Luftlinie).",
+"frage": "Ein 1950 geborener Mann zählt zu den Persönlichkeiten Altingens. Womit wurde er bekannt?",
+"optionen": [
+"Er wurde als Rennfahrer bekannt.",
+"Er wurde als Fußballprofi bekannt.",
+"Er wurde als Schlagersänger bekannt.",
+"Er wurde als Skispringer bekannt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Sportprominenz denken viele zuerst an Fußball. Gemeint ist Roland Asch, ein deutscher Rennfahrer. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Altingen",
+"faktencheck": "bestätigt",
+"id": "362-altingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altingen",
+"steckbrief": "Altingen ist ein Ortsteil von Ammerbuch mit rund 2.600 Einwohnern, 23 km westlich von Reutlingen (Luftlinie).",
+"frage": "Die Gemeinde nennt eine Urkunde von 1182 als erste schriftliche Erwähnung Altingens. Welcher Vorgang ist in dieser Urkunde festgehalten?",
+"optionen": [
+"Ein Kaiser bestätigte dem Dorf seine Marktrechte.",
+"Ein Bischof weihte die Kirche des Dorfs.",
+"Ein Markgraf schenkte einem Kloster Güter im Ort.",
+"Ein Gericht schlichtete einen Streit um Weiderechte."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Kirche gilt oft als Keimzelle eines Dorfs, daher liegt eine Weihe nahe. Tatsächlich schenkte Markgraf Heinrich von Ronsberg dem Kloster Ottobeuren Güter in Altingen. Richtig war 3.",
+"quelle": "LEO-BW, Wirtembergisches Urkundenbuch (Urkunde von 1182), leo-bw.de",
+"faktencheck": "korrigiert",
+"id": "362-altingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "361-kayh",
+"anschluss": [
+"Kreisgrenze: Altingen liegt im Landkreis Tübingen, Kayh im Landkreis Böblingen.",
+"Einwohner: Altingen hat rund 2.600, Kayh rund 1.700."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Altingen zum Landkreis Landkreis Tübingen.",
+"Eutingen im Gäu hat fast zweieinhalbmal so viele Einwohner wie Altingen."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Bondorf hat fast zweieinhalbmal so viele Einwohner wie Altingen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Gäufelden hat dreieinhalbmal so viele Einwohner wie Altingen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Herrenberg hat dreizehnmal so viele Einwohner wie Altingen."
+],
+"361-kayh": [
+"Kreisgrenze: Altingen liegt im Landkreis Tübingen, Kayh im Landkreis Böblingen.",
+"Einwohner: Altingen hat rund 2.600, Kayh rund 1.700."
+],
+"363-breitenholz": [
+"Altingen hat fast dreieinhalbmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Entringen hat anderthalbmal so viele Einwohner wie Altingen."
+],
+"365-pfaeffingen": [
+"Altingen hat fast anderthalbmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Altingen hat fast anderthalbmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Altingen hat gut zweieinhalbmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Ammerbuch hat viereinhalbmal so viele Einwohner wie Altingen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Altingen die CDU."
+],
+"368-unterjesingen": [
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Altingen die CDU.",
+"Unterjesingen und Altingen sind fast gleich groß: rund 2.500 und 2.600 Einwohner."
+],
+"369-hagelloch": [
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Altingen die CDU.",
+"Altingen hat anderthalbmal so viele Einwohner wie Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Altingen die CDU.",
+"Weststadt hat gut dreimal so viele Einwohner wie Altingen."
+],
+"371-waldhaeuser-ost": [
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Altingen die CDU.",
+"Waldhäuser Ost hat fast doppelt so viele Einwohner wie Altingen."
+],
+"372-bebenhausen": [
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Altingen die CDU.",
+"Altingen hat fast achtmal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Altingen die CDU.",
+"Lustnau hat viermal so viele Einwohner wie Altingen."
+],
+"374-pfrondorf": [
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Altingen die CDU.",
+"Pfrondorf hat rund 700 Einwohner mehr als Altingen."
+],
+"375-suedstadt-tuebingen": [
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Altingen die CDU.",
+"Südstadt hat fast viermal so viele Einwohner wie Altingen."
+],
+"376-derendingen": [
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Altingen die CDU.",
+"Derendingen hat zweieinhalbmal so viele Einwohner wie Altingen."
+],
+"377-weilheim-tuebingen": [
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Altingen die CDU.",
+"Altingen hat doppelt so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Altingen die CDU.",
+"Altingen hat doppelt so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Altingen die CDU.",
+"Altingen hat rund 500 Einwohner mehr als Bühl."
+],
+"380-hirschau-tuebingen": [
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Altingen die CDU.",
+"Hirschau hat rund 800 Einwohner mehr als Altingen."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Dettenhausen hat gut doppelt so viele Einwohner wie Altingen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Kirchentellinsfurt hat gut doppelt so viele Einwohner wie Altingen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Kusterdingen hat dreieinhalbmal so viele Einwohner wie Altingen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Gomaringen hat dreieinhalbmal so viele Einwohner wie Altingen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Dußlingen hat fast zweieinhalbmal so viele Einwohner wie Altingen."
+],
+"386-wurmlingen-rottenburg": [
+"Wurmlingen und Altingen sind fast gleich groß: rund 2.600 und 2.600 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wurmlingen die AfD, in Altingen die Grünen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Rottenburg am Neckar hat achtzehnmal so viele Einwohner wie Altingen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Starzach hat gut anderthalbmal so viele Einwohner wie Altingen."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Altingen zum Landkreis Landkreis Tübingen.",
+"Sindelfingen hat rund 25-mal so viele Einwohner wie Altingen."
+]
+},
+"ags": "08416048",
+"ortsteil": true,
+"km_vom_vorigen": 2.3
+},
+{
+"slug": "363-breitenholz",
+"name": "Breitenholz",
+"lat": 48.5708,
+"lon": 8.95833,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitenholz",
+"steckbrief": "Rund 760 Einwohner, Ortsteil von Ammerbuch, 20 km nordwestlich von Reutlingen.",
+"frage": "Im 19. Jahrhundert bekam Breitenholz eigenen Gemeindewald im Schönbuch. Wie kam das Dorf dazu?",
+"optionen": [
+"Er ersetzte alte Nutzungsrechte im Schönbuch.",
+"Das Dorf kaufte ihn einem Adligen ab.",
+"Das Dorf erhielt ihn als Kriegsentschädigung.",
+"Ein Kloster vermachte ihn dem Dorf."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Kauf liegt nahe, so kommen Gemeinden meist zu Wald. Doch hier war er ein Ersatz. Schönbuchgerechtigkeiten hießen alte Nutzungsrechte im Wald. Als sie abgelöst wurden, bekam Breitenholz dafür eigenen Gemeindewald. Der ganze Waldanteil der Gemarkung reicht heute bis zur Teufelsbrück im Goldersbachtal. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz",
+"faktencheck": "korrigiert",
+"id": "363-breitenholz/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Breitenholz",
+"steckbrief": "Rund 760 Einwohner, Ortsteil von Ammerbuch, 20 km nordwestlich von Reutlingen.",
+"frage": "Wie viele Einwohner kommen in Breitenholz auf einen Quadratkilometer?",
+"optionen": [
+"unter 50",
+"50 bis unter 150",
+"150 bis unter 400",
+"400 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Breitenholz zählt rund 760 Einwohner auf knapp elf Quadratkilometern, also etwa 70 je Quadratkilometer. Wer nur das Dorf vor Augen hat, schätzt höher. Doch ein beträchtlicher Teil der Gemarkung ist Wald am Rand des Schönbuchs. Richtig war 2.",
+"quelle": "dewiki Infobox (Einwohner, Stand 2023-01) und Wikidata P2046 (Fläche), daraus berechnet",
+"faktencheck": "bestätigt",
+"id": "363-breitenholz/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Breitenholz",
+"steckbrief": "Rund 760 Einwohner, Ortsteil von Ammerbuch, 20 km nordwestlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Über dem Dorf liegen Reste einer Burg.",
+"Auf der Breitenholzer Gemarkung liegt die Königsjagdhütte.",
+"Mitten durch das Dorf führt eine Bundesstraße."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Burgruine und eine Königsjagdhütte klingen nach Erfindung, doch beides stimmt: Über dem Dorf liegt die Ruine der Burg Müneck. Gelogen war die Straße. Breitenholz liegt abseits von Hauptverkehrsstraßen, direkt am Naturpark Schönbuch. Ins Dorf kommt man über eine Kreisstraße. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz",
+"faktencheck": "korrigiert",
+"id": "363-breitenholz/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Breitenholz",
+"steckbrief": "Rund 760 Einwohner, Ortsteil von Ammerbuch, 20 km nordwestlich von Reutlingen.",
+"frage": "Bundestagswahl 2025 in der ganzen Gemeinde Ammerbuch: Wie viel Prozent der Zweitstimmen holte die stärkste Partei?",
+"optionen": [
+"unter 24 %",
+"24 bis unter 28 %",
+"28 bis unter 31 %",
+"31 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Zahl gilt für die ganze Gemeinde Ammerbuch, zu der Breitenholz gehört. Wer an die nahe Universitätsstadt Tübingen denkt, erwartet die Grünen vorn. Sie wurden aber nur Zweite. Stärkste Partei wurde die CDU mit 32,3 Prozent der Zweitstimmen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "363-breitenholz/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitenholz",
+"steckbrief": "Rund 760 Einwohner, Ortsteil von Ammerbuch, 20 km nordwestlich von Reutlingen.",
+"frage": "In Breitenholz stehen torähnliche hohe Steinbänke, die Gruabbänke. Wozu dienten sie ursprünglich?",
+"optionen": [
+"Man stellte darauf schwere Tragekörbe ab.",
+"Sie waren Reste eines alten Ortstors.",
+"Dort stellte man Missetäter an den Pranger.",
+"Sie markierten die Grenze der Gemarkung."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Torähnlich, hoch, aus Stein: Da denkt man an ein altes Tor oder einen Grenzstein. Der Name führt weiter. Schwäbisch „gruaben“ heißt ausruhen, und auf den hohen Bänken legte man früher schwere Tragekörbe ab. Heute dienen sie als Ruheplätze. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Breitenholz_(Ammerbuch)",
+"faktencheck": "unsicher",
+"id": "363-breitenholz/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Breitenholz",
+"steckbrief": "Rund 760 Einwohner, Ortsteil von Ammerbuch, 20 km nordwestlich von Reutlingen.",
+"frage": "In welchem Zeitraum verlor Breitenholz seine Selbstständigkeit und wurde Teil von Ammerbuch?",
+"optionen": [
+"vor 1968",
+"1968 bis 1972",
+"1973 bis 1976",
+"1977 oder später"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Am 1. Dezember 1971 schloss sich Breitenholz mit weiteren Gemeinden zusammen. Wer an eine Eingliederung in eine ältere Gemeinde denkt, irrt: Ammerbuch entstand erst durch diesen Zusammenschluss. Seither ist Breitenholz ein Ortsteil. Richtig war 2.",
+"quelle": "dewiki Infobox; Wikipedia, de.wikipedia.org/wiki/Breitenholz_(Ammerbuch)",
+"faktencheck": "bestätigt",
+"id": "363-breitenholz/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitenholz",
+"steckbrief": "Rund 760 Einwohner, Ortsteil von Ammerbuch, 20 km nordwestlich von Reutlingen.",
+"frage": "1960 bekam Breitenholz ein Gemeindewappen verliehen. Was zeigte es?",
+"optionen": [
+"Es zeigte einen grünen Laubbaum in Silber.",
+"Es zeigte eine silberne Burg in Blau.",
+"Es zeigte ein silbernes Wolfseisen in Rot.",
+"Es zeigte einen goldenen Pflug in Grün."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name Breitenholz ruft nach einem Baum. Das Wappen zeigte aber in Rot ein S-förmiges silbernes Wolfseisen, ein Eisen, mit dem man einst Wölfe fing. Als Fleckenzeichen, also als Zeichen des Dorfes, war es schon lange vor der Verleihung belegt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz",
+"faktencheck": "bestätigt",
+"id": "363-breitenholz/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitenholz",
+"steckbrief": "Rund 760 Einwohner, Ortsteil von Ammerbuch, 20 km nordwestlich von Reutlingen.",
+"frage": "Wie entstand das Breitenholzer Weinfest unterhalb der Weinberge?",
+"optionen": [
+"Ein Weinhändler wollte die Lage bekannt machen.",
+"Die Winzer mussten ihren eigenen Wein loswerden.",
+"Es ging aus einem kirchlichen Erntedankfest hervor.",
+"Es feierte die Rückkehr des Weinbaus ins Dorf."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hinter einem Weinfest vermutet man Werbung oder Brauchtum. In Breitenholz war es Not: Die Winzer kelterten zu viel Wein für sich selbst, aber zu wenig für den Handel. Also verkauften sie ihn auf einem Fest. An warmen, trockenen Wochenenden geht dabei bis zu etwa der ganze Vorjahreswein weg. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Breitenholz_(Ammerbuch)",
+"faktencheck": "unsicher",
+"id": "363-breitenholz/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitenholz",
+"steckbrief": "Rund 760 Einwohner, Ortsteil von Ammerbuch, 20 km nordwestlich von Reutlingen.",
+"frage": "Bis in die 1970er Jahre fuhr zwischen Breitenholz und Entringen eine Schmalspurbahn. Wozu diente sie?",
+"optionen": [
+"Sie brachte Kinder zur Schule nach Entringen.",
+"Sie fuhr Ausflügler in den Naturpark Schönbuch.",
+"Sie brachte Trauben aus den Weinbergen zur Kelter.",
+"Sie brachte Gips vom Steinbruch zum Gipswerk."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Bahn zwischen zwei Dörfern denkt man zuerst an Fahrgäste. Diese Schmalspurbahn aber fuhr Gips: vom Steinbruch zum Gipswerk, das am Bahnhof lag. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Breitenholz_(Ammerbuch)",
+"faktencheck": "unsicher",
+"id": "363-breitenholz/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "362-altingen",
+"anschluss": [
+"Einwohner: Altingen hat gut dreimal so viele wie Breitenholz.",
+"Fläche: Breitenholz ist größer als Altingen."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Eutingen im Gäu hat achtmal so viele Einwohner wie Breitenholz."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Bondorf hat achtmal so viele Einwohner wie Breitenholz."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Gäufelden hat zwölfmal so viele Einwohner wie Breitenholz."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Herrenberg hat rund 45-mal so viele Einwohner wie Breitenholz."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Kayh hat fast zweieinhalbmal so viele Einwohner wie Breitenholz."
+],
+"362-altingen": [
+"Einwohner: Altingen hat gut dreimal so viele wie Breitenholz.",
+"Fläche: Breitenholz ist größer als Altingen."
+],
+"364-entringen": [
+"Entringen hat fünfmal so viele Einwohner wie Breitenholz."
+],
+"365-pfaeffingen": [
+"Pfäffingen hat fast zweieinhalbmal so viele Einwohner wie Breitenholz.",
+"Breitenholz hat dreimal so viel Fläche wie Pfäffingen, aber weniger Einwohner."
+],
+"366-poltringen": [
+"Poltringen hat fast zweieinhalbmal so viele Einwohner wie Breitenholz.",
+"Breitenholz hat gut doppelt so viel Fläche wie Poltringen, aber weniger Einwohner."
+],
+"367-reusten": [
+"Reusten hat rund 200 Einwohner mehr als Breitenholz."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Ammerbuch hat fünfzehnmal so viele Einwohner wie Breitenholz."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Breitenholz die CDU."
+],
+"368-unterjesingen": [
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Breitenholz die CDU.",
+"Unterjesingen hat fast dreieinhalbmal so viele Einwohner wie Breitenholz."
+],
+"369-hagelloch": [
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Breitenholz die CDU.",
+"Hagelloch hat gut doppelt so viele Einwohner wie Breitenholz."
+],
+"370-weststadt-tuebingen": [
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Breitenholz die CDU.",
+"Weststadt hat fast elfmal so viele Einwohner wie Breitenholz."
+],
+"371-waldhaeuser-ost": [
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Breitenholz die CDU.",
+"Waldhäuser Ost hat gut sechsmal so viele Einwohner wie Breitenholz."
+],
+"372-bebenhausen": [
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Breitenholz die CDU.",
+"Breitenholz hat fast zweieinhalbmal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Breitenholz die CDU.",
+"Lustnau hat dreizehnmal so viele Einwohner wie Breitenholz."
+],
+"374-pfrondorf": [
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Breitenholz die CDU.",
+"Pfrondorf hat fast viereinhalbmal so viele Einwohner wie Breitenholz."
+],
+"375-suedstadt-tuebingen": [
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Breitenholz die CDU.",
+"Südstadt hat dreizehnmal so viele Einwohner wie Breitenholz."
+],
+"376-derendingen": [
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Breitenholz die CDU.",
+"Derendingen hat fast neunmal so viele Einwohner wie Breitenholz."
+],
+"377-weilheim-tuebingen": [
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Breitenholz die CDU.",
+"Weilheim hat gut anderthalbmal so viele Einwohner wie Breitenholz."
+],
+"378-kilchberg-tuebingen": [
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Breitenholz die CDU.",
+"Kilchberg hat gut anderthalbmal so viele Einwohner wie Breitenholz."
+],
+"379-buehl-tuebingen": [
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Breitenholz die CDU.",
+"Bühl hat gut zweieinhalbmal so viele Einwohner wie Breitenholz."
+],
+"380-hirschau-tuebingen": [
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Breitenholz die CDU.",
+"Hirschau hat viereinhalbmal so viele Einwohner wie Breitenholz."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Dettenhausen hat gut siebenmal so viele Einwohner wie Breitenholz."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Kirchentellinsfurt hat siebenmal so viele Einwohner wie Breitenholz."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Kusterdingen hat zwölfmal so viele Einwohner wie Breitenholz."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Gomaringen hat zwölfmal so viele Einwohner wie Breitenholz."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Dußlingen hat achtmal so viele Einwohner wie Breitenholz."
+],
+"386-wurmlingen-rottenburg": [
+"Wurmlingen hat dreieinhalbmal so viele Einwohner wie Breitenholz.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wurmlingen die AfD, in Breitenholz die Grünen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Rottenburg am Neckar hat rund 60-mal so viele Einwohner wie Breitenholz."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Starzach hat fast sechsmal so viele Einwohner wie Breitenholz."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Sindelfingen hat rund 80-mal so viele Einwohner wie Breitenholz."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Breitenholz zum Landkreis Landkreis Tübingen.",
+"Leinfelden-Echterdingen hat rund 55-mal so viele Einwohner wie Breitenholz."
+]
+},
+"ags": "08416048",
+"ortsteil": true,
+"km_vom_vorigen": 4.0
+},
+{
+"slug": "364-entringen",
+"name": "Entringen",
+"lat": 48.55,
+"lon": 8.96667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Entringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Seit über 100 Jahren heißen die Entringer im Volksmund „Storchenschendler“. Wie kam es zu dem Spitznamen?",
+"optionen": [
+"Sie verjagten einst Störche vom Kirchendach.",
+"Sie rupften und schunden einst einen Storch.",
+"Sie sammelten einst Storchennester als Glücksbringer.",
+"Einem abgestürzten Jungstorch wurde einst das Bein geschient."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Schendler“ klingt nach Schinder, da liegt Tierquälerei nahe. Doch der Spitzname erinnert an eine Rettung: Ein Jungstorch stürzte vom Kirchendach und brach sich ein Bein. Es wurde mit einer Schindel geschient, und die Rettung glückte. Richtig war 4.",
+"quelle": "Gemeinde Ammerbuch, ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/entringen",
+"faktencheck": "korrigiert",
+"id": "364-entringen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Entringen",
+"steckbrief": "Ortsteil von Ammerbuch mit knapp 14 km² Fläche, 19 km westlich von Reutlingen.",
+"frage": "Wie viele Menschen leben in Entringen?",
+"optionen": [
+"unter 4.000",
+"4.000 bis unter 6.000",
+"6.000 bis unter 9.000",
+"9.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bahnanschluss und Bundesstraße lassen an einen größeren Ort denken. Doch Entringen zählte im Januar 2023 genau 3.852 Einwohner, knapp unter viertausend. Richtig war 1.",
+"quelle": "dewiki Infobox, Stand 2023-01",
+"faktencheck": "bestätigt",
+"id": "364-entringen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Entringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Pest und Dreißigjähriger Krieg verschonten Entringens Einwohnerzahl weitgehend.",
+"Vor der Reformation war Entringen ein regionaler Wallfahrtsort.",
+"Für Waisenkinder schaffte die Gemeinde eigens Webstühle an."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Webstühle für Waisenkinder klingen erfunden, stimmen aber: Die Gemeinde wollte damit Waisen und Kinder armer Familien ausbilden. Gelogen war die Schonung. Pest und Dreißigjähriger Krieg ließen die Einwohnerzahl auf weniger als die Hälfte schrumpfen. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Entringen",
+"faktencheck": "unsicher",
+"id": "364-entringen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Entringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der Gemeinde Ammerbuch, zu der Entringen gehört: Welche Partei wurde zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"Grüne",
+"CDU"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Württemberg landet die AfD oft auf Platz zwei, das liegt nahe. In Ammerbuch, zu dem Entringen gehört, holten aber die Grünen mit 19 % Platz zwei hinter der CDU; die AfD kam auf Platz drei. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "364-entringen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Entringen / Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen. / Ein Gemälde, das Gunhild von Ow 1913 malte, zeigt eine Szene rund um Schloss Hohenentringen. Was ist zu sehen? / 1. Ritter verteidigen Hohenentringen gegen eine Belagerung. / 2. Bauern liefern den Zehnten am Schlosstor ab. / 3. Ein Brand zerstört Teile des Schlosses. / 4. Verwandte Familien ziehen mit Kinderscharen zur Kirche.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Schlossgemälde denkt man zuerst an Ritter und Belagerung. Das Bild zeigt aber einen stattlichen Zug: Mehrere verwandte Familien gehen mit einer großen Kinderschar vom Schloss Hohenentringen zur Kirche. Richtig war 4. /",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Entringen",
+"faktencheck": "korrigiert",
+"id": "364-entringen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Entringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "In welchem Jahr wurde Entringen Teil der Gemeinde Ammerbuch?",
+"optionen": [
+"vor 1972",
+"1972 bis 1973",
+"1974 bis 1975",
+"nach 1975"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die große Gemeindereform im Südwesten zog sich über mehrere Jahre, viele Zusammenschlüsse kamen erst spät. Entringen war früh dabei: Schon im Dezember 1971 wurde es Teil von Ammerbuch. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "364-entringen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Entringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Bis zur Gründung Ammerbuchs führte Entringen ein eigenes Wappen. Welches Tier zeigte es im roten Feld, und warum?",
+"optionen": [
+"Ein Schwan stand für frühere Ortsherren.",
+"Eine Ente spielte auf den Ortsnamen an.",
+"Ein Fisch stand für die Bäche am Ort.",
+"Ein Reiher stand für die nahen Feuchtwiesen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Rund um Entringen fließen Bäche, da liegt ein Wassertier für die Landschaft nahe. Doch die silberne Ente im roten Feld spielte auf den Ortsnamen an. Schon lange vor dem Wappen diente sie als Fleckenzeichen, also als Zeichen des Dorfes. Richtig war 2.",
+"quelle": "Gemeinde Ammerbuch, ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/entringen",
+"faktencheck": "korrigiert",
+"id": "364-entringen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Entringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Nach der Reformation läutete in Entringen täglich um 18 Uhr das „uffa Märga Läuten“. Was zeigte es an?",
+"optionen": [
+"Es kündigte das Ende des Markttags an.",
+"Es mahnte zur Sperrstunde in den Wirtshäusern.",
+"Es läutete für alle den Feierabend ein.",
+"Es meldete die Ankunft der Postkutsche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein festes Läuten am Abend lässt an Markt, Post oder Wirtshaus denken. Ursprünglich rief die Ave-Maria-Glocke zum Ave-Maria-Gebet, nach der Reformation wurde sie zur Feierabendglocke. Inzwischen hat die Große Betglocke dieses Läuten übernommen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Entringen",
+"faktencheck": "unsicher",
+"id": "364-entringen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Entringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Mitte der 1920er Jahre errichteten Freunde um den Tübinger Künstler Ugge Bärtle im Schönbuch bei Entringen einen Brunnen. Wessen Namen trägt er?",
+"optionen": [
+"Er trägt den Namen von Hermann Löns.",
+"Er trägt den Namen von Ludwig Uhland.",
+"Er trägt den Namen von Friedrich Hölderlin.",
+"Er trägt den Namen von Eduard Mörike."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Tübinger Künstler im Schönbuch, da denkt man an die schwäbischen Dichter der Universitätsstadt. Doch der Brunnen im Entringer Gewann Steingart heißt Hermann-Löns-Brunnen, nach dem Dichter, den man vor allem mit der Lüneburger Heide verbindet. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Entringen",
+"faktencheck": "unsicher",
+"id": "364-entringen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Entringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Der Turm der Entringer Michaelskirche steht schief. Seit wann neigt er sich?",
+"optionen": [
+"Er neigt sich seit einem Erdbeben.",
+"Er neigt sich, seit schwerere Glocken darin hängen.",
+"Er neigt sich seit Kriegsschäden am Mauerwerk.",
+"Er neigt sich seit seinem Bau."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem schiefen Turm denkt man an ein späteres Unglück, das ihn aus dem Lot brachte. Doch der Turm aus massiven Stubensandsteinquadern steht seit seinem Bau schief, teils auf unstabilem Untergrund. Bei einer Sanierung bekam er eine Gründung aus tiefen Betonpfählen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Entringen",
+"faktencheck": "unsicher",
+"id": "364-entringen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "363-breitenholz",
+"anschluss": [
+"Zwischen Entringen und Breitenholz begann 1910 industrieller Gipsabbau.",
+"Einwohner: Entringen zählt etwa fünfmal so viele wie Breitenholz."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Entringen zum Landkreis Landkreis Tübingen.",
+"Eutingen im Gäu hat gut anderthalbmal so viele Einwohner wie Entringen."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Bondorf hat gut anderthalbmal so viele Einwohner wie Entringen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Gäufelden hat fast zweieinhalbmal so viele Einwohner wie Entringen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Herrenberg hat neunmal so viele Einwohner wie Entringen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Entringen hat gut doppelt so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Entringen hat anderthalbmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Zwischen Entringen und Breitenholz begann 1910 industrieller Gipsabbau.",
+"Einwohner: Entringen zählt etwa fünfmal so viele wie Breitenholz."
+],
+"365-pfaeffingen": [
+"Entringen hat gut doppelt so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Entringen hat gut doppelt so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Entringen hat viermal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Ammerbuch hat dreimal so viele Einwohner wie Entringen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Entringen die CDU."
+],
+"368-unterjesingen": [
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Entringen die CDU.",
+"Entringen hat anderthalbmal so viele Einwohner wie Unterjesingen."
+],
+"369-hagelloch": [
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Entringen die CDU.",
+"Entringen hat fast zweieinhalbmal so viele Einwohner wie Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Entringen die CDU.",
+"Weststadt hat gut doppelt so viele Einwohner wie Entringen."
+],
+"371-waldhaeuser-ost": [
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Entringen die CDU.",
+"Waldhäuser Ost hat rund 900 Einwohner mehr als Entringen."
+],
+"372-bebenhausen": [
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Entringen die CDU.",
+"Entringen hat gut elfmal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Entringen die CDU.",
+"Lustnau hat gut zweieinhalbmal so viele Einwohner wie Entringen."
+],
+"374-pfrondorf": [
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Entringen die CDU.",
+"Entringen hat rund 500 Einwohner mehr als Pfrondorf."
+],
+"375-suedstadt-tuebingen": [
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Entringen die CDU.",
+"Südstadt hat zweieinhalbmal so viele Einwohner wie Entringen."
+],
+"376-derendingen": [
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Entringen die CDU.",
+"Derendingen hat gut anderthalbmal so viele Einwohner wie Entringen."
+],
+"377-weilheim-tuebingen": [
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Entringen die CDU.",
+"Entringen hat dreimal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Entringen die CDU.",
+"Entringen hat dreimal so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Entringen die CDU.",
+"Entringen hat fast doppelt so viele Einwohner wie Bühl."
+],
+"380-hirschau-tuebingen": [
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Entringen die CDU.",
+"Entringen hat rund 500 Einwohner mehr als Hirschau."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Dettenhausen hat fast anderthalbmal so viele Einwohner wie Entringen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Kirchentellinsfurt hat fast anderthalbmal so viele Einwohner wie Entringen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Kusterdingen hat fast zweieinhalbmal so viele Einwohner wie Entringen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Gomaringen hat fast zweieinhalbmal so viele Einwohner wie Entringen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Dußlingen hat gut anderthalbmal so viele Einwohner wie Entringen."
+],
+"386-wurmlingen-rottenburg": [
+"Entringen hat anderthalbmal so viele Einwohner wie Wurmlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wurmlingen die AfD, in Entringen die Grünen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Rottenburg am Neckar hat zwölfmal so viele Einwohner wie Entringen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Starzach hat rund 500 Einwohner mehr als Entringen."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Entringen zum Landkreis Landkreis Tübingen.",
+"Sindelfingen hat sechzehnmal so viele Einwohner wie Entringen."
+]
+},
+"ags": "08416048",
+"ortsteil": true,
+"km_vom_vorigen": 2.4
+},
+{
+"slug": "365-pfaeffingen",
+"name": "Pfäffingen",
+"lat": 48.52639,
+"lon": 8.96639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pfäffingen",
+"steckbrief": "Ammerbuch-Ortsteil mit rund 1.800 Einwohnern, 18 km westlich von Reutlingen.",
+"frage": "1711 wurde die Pfäffinger Michaelskirche an neuer Stelle errichtet. Welchen Grund nennt die Ortsgeschichte für den Umzug?",
+"optionen": [
+"Ein Blitzschlag hatte die alte Kirche zerstört.",
+"Die alte Kirche musste einer Mühle weichen.",
+"Die Ammer überschwemmte den alten Platz ständig.",
+"Die alte Kirche war im Krieg niedergebrannt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Brand oder Blitz liegt nahe, denn so verloren viele Dörfer ihre Kirchen. In Pfäffingen war es das Wasser: Die Ammer überschwemmte das alte Gotteshaus im Tal ständig. Der Neubau rückte auf die hochwasserfreie Südseite, gebaut auch mit Teilen der alten Kirche. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen",
+"faktencheck": "bestätigt",
+"id": "365-pfaeffingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Pfäffingen",
+"steckbrief": "Ortsteil von Ammerbuch im Ammertal, rund 1.800 Einwohner, 18 km westlich von Reutlingen.",
+"frage": "Wie groß ist die Fläche des Ortsteils Pfäffingen?",
+"optionen": [
+"12 km² und mehr",
+"7 bis unter 12 km²",
+"5 bis unter 7 km²",
+"unter 5 km²"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an Felder, Wiesen und Wald rund um ein Dorf denkt, schätzt leicht größer. Pfäffingens Fläche misst aber nur 3,7 Quadratkilometer. Das ist wenig Raum für einen Ort dieser Größe. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "365-pfaeffingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Pfäffingen",
+"steckbrief": "Ammerbuch-Ortsteil mit rund 1.800 Einwohnern, 18 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kelter stand ursprünglich im Sulztal.",
+"Das Rathaus wurde als Pfarrhaus erbaut.",
+"Die Zehntscheuer wurde als Doppelscheuer gebaut."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dass ein Pfarrhaus zum Amtssitz wird, klingt plausibel. Das Rathaus entstand aber als Meiereigebäude, also als Wirtschaftsbau eines Gutshofs, an der Stelle des früheren Schlosses; zeitweise diente es auch als Schulhaus. Die Kelter kam aus dem Sulztal, und die Zehntscheuer, einst Speicher für Abgaben, ist eine Doppelscheuer aus zwei Scheunen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen",
+"faktencheck": "korrigiert",
+"id": "365-pfaeffingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Pfäffingen",
+"steckbrief": "Ammerbuch-Ortsteil mit rund 1.800 Einwohnern, 18 km westlich von Reutlingen.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Gemeinde Ammerbuch, zu der Pfäffingen gehört?",
+"optionen": [
+"unter 84 %",
+"84 bis unter 89 %",
+"89 bis unter 92 %",
+"92 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die unterste Spanne liegt nahe, denn bei Bundestagswahlen bleibt meist ein größerer Teil zu Hause. In der Gemeinde Ammerbuch, zu der Pfäffingen gehört, gaben bei der Wahl vom 23. Februar 2025 aber 88,3 Prozent ihre Stimme ab. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "365-pfaeffingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pfäffingen",
+"steckbrief": "Ortsteil von Ammerbuch, rund 1.800 Einwohner, 18 km westlich von Reutlingen.",
+"frage": "Von 1925 an führte Pfäffingen ein Wappen: in Blau ein silberner Querbalken mit Sternen. Worauf ging es zurück?",
+"optionen": [
+"Vorbild war ein Siegel der Pfarrei.",
+"Vorbild war ein Grenzzeichen der Gemarkung.",
+"Vorbild war das Siegel eines Adligen.",
+"Vorbild war ein Hauszeichen der Dorfmühle."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Ortsname klingt nach Pfaffen, also nach Kirche, daher liegt ein Pfarrsiegel nahe. Vorbild war aber das Siegel des Andreas von Kröwelsau, der den Beinamen „Pfeffinger“ trug. Das Wappen davor folgte einem Siegel mit dem Wappen der Herren von Gültlingen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen",
+"faktencheck": "unsicher",
+"id": "365-pfaeffingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Pfäffingen",
+"steckbrief": "Ortsteil mit rund 1.800 Einwohnern, 18 km westlich von Reutlingen.",
+"frage": "Seit wann gehört Pfäffingen zur Gemeinde Ammerbuch?",
+"optionen": [
+"vor 1950",
+"1950 bis 1964",
+"1965 bis 1970",
+"ab 1971"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Gemeindefusionen denken viele an die Nachkriegsjahre. Pfäffingen blieb aber lange selbstständig. Erst am 1. Dezember 1971 entstand die Gemeinde Ammerbuch, zu der es seither gehört. Richtig war 4.",
+"quelle": "dewiki Infobox; Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen",
+"faktencheck": "korrigiert",
+"id": "365-pfaeffingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pfäffingen",
+"steckbrief": "Ammerbuch-Ortsteil mit rund 1.800 Einwohnern, 18 km westlich von Reutlingen.",
+"frage": "Die Motorradfirma Maico zog Ende der 1930er-Jahre nach Pfäffingen. Wo war sie gegründet worden?",
+"optionen": [
+"Maico wurde in Poltringen gegründet.",
+"Maico wurde in Neckarsulm gegründet.",
+"Maico wurde in Nürnberg gegründet.",
+"Maico wurde in Zschopau gegründet."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Neckarsulm, Nürnberg und Zschopau liegen nahe, dort saßen große Motorradwerke. Maico stammte aber aus Poltringen, das wie Pfäffingen heute zu Ammerbuch gehört. Die Firma baute neben Motorrädern auch Autos in kleinen Serien. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Pfäffingen",
+"faktencheck": "unsicher",
+"id": "365-pfaeffingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pfäffingen",
+"steckbrief": "Ortsteil von Ammerbuch, rund 1.800 Einwohner, 18 km westlich von Reutlingen.",
+"frage": "Ab 1962 hatte die Firma Bechtle einen Betrieb in Pfäffingen. Was wurde dort hergestellt?",
+"optionen": [
+"Bechtle fertigte dort Teile für Motorräder.",
+"Bechtle stellte dort Spätzle und Knöpfle her.",
+"Bechtle braute dort Bier für die Region.",
+"Bechtle webte dort Stoffe für Kleidung."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Industriebetrieb im Dorf denkt man eher an Metall oder Textil. Bechtle war aber eine Teigwarenfabrik, ursprünglich aus Tübingen. Um die Jahrtausendwende endete der Standort Pfäffingen; Bechtle schloss sich später zur Alb-Gold Teigwaren GmbH zusammen, die Fertigung zog nach Trochtelfingen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Pfäffingen",
+"faktencheck": "unsicher",
+"id": "365-pfaeffingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "364-entringen",
+"anschluss": [
+"Einwohner: Entringen hat mehr als doppelt so viele wie Pfäffingen.",
+"Fläche: Entringen ist fast viermal so groß wie Pfäffingen."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Eutingen im Gäu hat fast dreieinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Bondorf hat dreieinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Gäufelden hat fünfmal so viele Einwohner wie Pfäffingen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Herrenberg hat neunzehnmal so viele Einwohner wie Pfäffingen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Kayh und Pfäffingen sind fast gleich groß: rund 1.700 und 1.800 Einwohner."
+],
+"362-altingen": [
+"Altingen hat fast anderthalbmal so viele Einwohner wie Pfäffingen."
+],
+"363-breitenholz": [
+"Pfäffingen hat fast zweieinhalbmal so viele Einwohner wie Breitenholz.",
+"Breitenholz hat dreimal so viel Fläche wie Pfäffingen, aber weniger Einwohner."
+],
+"364-entringen": [
+"Einwohner: Entringen hat mehr als doppelt so viele wie Pfäffingen.",
+"Fläche: Entringen ist fast viermal so groß wie Pfäffingen."
+],
+"366-poltringen": [
+"Poltringen und Pfäffingen sind fast gleich groß: rund 1.800 und 1.800 Einwohner."
+],
+"367-reusten": [
+"Pfäffingen hat fast doppelt so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Ammerbuch hat gut sechsmal so viele Einwohner wie Pfäffingen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Pfäffingen die CDU."
+],
+"368-unterjesingen": [
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Unterjesingen hat rund 700 Einwohner mehr als Pfäffingen."
+],
+"369-hagelloch": [
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Hagelloch und Pfäffingen sind fast gleich groß: rund 1.700 und 1.800 Einwohner."
+],
+"370-weststadt-tuebingen": [
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Weststadt hat viereinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"371-waldhaeuser-ost": [
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Waldhäuser Ost hat gut zweieinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"372-bebenhausen": [
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Pfäffingen hat gut fünfmal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Lustnau hat fast sechsmal so viele Einwohner wie Pfäffingen."
+],
+"374-pfrondorf": [
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Pfrondorf hat fast doppelt so viele Einwohner wie Pfäffingen."
+],
+"375-suedstadt-tuebingen": [
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Südstadt hat gut fünfmal so viele Einwohner wie Pfäffingen."
+],
+"376-derendingen": [
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Derendingen hat gut dreieinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"377-weilheim-tuebingen": [
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Pfäffingen hat fast anderthalbmal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Pfäffingen hat fast anderthalbmal so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Bühl hat rund 300 Einwohner mehr als Pfäffingen."
+],
+"380-hirschau-tuebingen": [
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Pfäffingen die CDU.",
+"Hirschau hat fast doppelt so viele Einwohner wie Pfäffingen."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Dettenhausen hat dreimal so viele Einwohner wie Pfäffingen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Kirchentellinsfurt hat dreimal so viele Einwohner wie Pfäffingen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Kusterdingen hat fünfmal so viele Einwohner wie Pfäffingen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Gomaringen hat fünfmal so viele Einwohner wie Pfäffingen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Dußlingen hat dreieinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"386-wurmlingen-rottenburg": [
+"Wurmlingen hat fast anderthalbmal so viele Einwohner wie Pfäffingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wurmlingen die AfD, in Pfäffingen die Grünen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Rottenburg am Neckar hat rund 25-mal so viele Einwohner wie Pfäffingen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Pfäffingen zum Landkreis Landkreis Tübingen.",
+"Starzach hat fast zweieinhalbmal so viele Einwohner wie Pfäffingen."
+]
+},
+"ags": "08416048",
+"ortsteil": true,
+"km_vom_vorigen": 2.6
+},
+{
+"slug": "366-poltringen",
+"name": "Poltringen",
+"lat": 48.53333,
+"lon": 8.95,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Poltringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 1.800 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Die Poltringer tragen den Necknamen „Bockmoster“. Woher stammt er der Sage nach?",
+"optionen": [
+"Ein Wirt verkaufte Bockbier als Apfelmost.",
+"Ein Ziegenbock geriet beim Mosten unter den Mahlstein.",
+"Ein Pfarrer verglich trinkende Moster mit Böcken.",
+"Ein Ziegenbock soff heimlich ein Mostfass leer."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Bockbier oder einem durstigen Tier. Der Sage nach geriet aber ein Ziegenbock beim Zerkleinern von Mostobst unter den Mahlstein. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/poltringen",
+"faktencheck": "korrigiert",
+"id": "366-poltringen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Poltringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 1.800 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Wie groß ist die Gemarkung von Poltringen?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 4 km²",
+"4 bis unter 6 km²",
+"6 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf im offenen Ammertal lässt an eine weitläufige Flur denken. Die Gemarkung von Poltringen misst aber nur 4,84 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "366-poltringen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Poltringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 1.800 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kirche St. Stephanus trägt einen barocken Zwiebelturm.",
+"Der Ammerbegleitweg führt an der Mühle und am Wasserschloss vorbei.",
+"Schon vor 1805 gehörte Poltringen ganz zu Württemberg."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dorf im Ammertal denkt man an Altwürttemberg, deshalb wirkt die dritte Aussage harmlos. Doch bis 1805 stand Poltringen zu zwei Dritteln unter österreichischer und nur zu einem Drittel unter württembergischer Herrschaft. Zwiebelturm und Ammerbegleitweg stimmen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/poltringen",
+"faktencheck": "korrigiert",
+"id": "366-poltringen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Poltringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 1.800 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Bei der Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in der Gemeinde Ammerbuch die stärkste Partei?",
+"optionen": [
+"unter 35 %",
+"35 bis unter 40 %",
+"40 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ländlicher Südwesten, katholische Kirchen im Ort: Da erwartet man leicht eine übermächtige CDU. Sie wurde in der Gemeinde Ammerbuch zwar stärkste Partei, kam aber nur auf 32,3 Prozent der Zweitstimmen. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "366-poltringen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Poltringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 1.800 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Bis 1971 zeigte das Poltringer Wappen einen schwarzen Eber. Worauf geht das Tier zurück?",
+"optionen": [
+"Er erinnert an eine einstige Wildschweinplage.",
+"Er geht auf ein Grafengeschlecht zurück.",
+"Er stand für die Schweinezucht im Dorf.",
+"Er stammt aus einer alten Dorfsage."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Eber im Wappen lässt an Schweinezucht oder Wildsauen denken. Das alte Fleckenzeichen, also Dorfzeichen, geht aber auf die Grafen von Eberstein zurück; ihr Name steckt im Tier. Auch die rote Rose darüber stammt aus deren Wappen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/poltringen",
+"faktencheck": "bestätigt",
+"id": "366-poltringen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Poltringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 1.800 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Wie weit ist es von Poltringen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 15 km",
+"15 bis unter 25 km",
+"25 bis unter 40 km",
+"40 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer Reutlingen so nah vor sich hat, schätzt auch Stuttgart gern zu kurz. Bis zur Landeshauptstadt sind es aber 32 Kilometer Luftlinie, deutlich mehr als nach Reutlingen. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "366-poltringen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Poltringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 1.800 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Die spätere Fußball-Nationalspielerin Kim Kulig begann mit acht Jahren beim SV Poltringen. In welcher Mannschaft spielte sie dort?",
+"optionen": [
+"Sie spielte in einer reinen Mädchenmannschaft.",
+"Sie spielte von Anfang an bei den Frauen.",
+"Sie spielte in einer Mädchen-Spielgemeinschaft mit Nachbarorten.",
+"Sie spielte in einer Jungenmannschaft mit."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für ein Mädchen liegt eine Mädchenmannschaft am nächsten. Kim Kulig spielte beim SV Poltringen aber in einer Jungenmannschaft mit, bevor sie Nationalspielerin wurde. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Poltringen",
+"faktencheck": "unsicher",
+"id": "366-poltringen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "1613 wurde das Poltringer Wasserschloss im Renaissance-Stil umgestaltet. Nach wessen Plänen geschah der Umbau?",
+"steckbrief": "1. Nach Plänen des Baumeisters Jakob Wolff.",
+"frage": "",
+"optionen": [
+"Nach Plänen des Baumeisters Paul Francke.",
+"Nach Plänen des Baumeisters Heinrich Schickhardt.",
+"Nach Plänen des Baumeisters Lüder von Bentheim."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Jakob Wolff liegt nahe, er baute in derselben Zeit in Süddeutschland. Der Umbau des Poltringer Wasserschlosses im Renaissance-Stil folgte aber den Plänen von Heinrich Schickhardt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/wasserschloss-poltringen",
+"faktencheck": "korrigiert",
+"id": "366-poltringen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Poltringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 1.800 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Bei der Kirche St. Stephanus, der „Oberkirche“, ist ab 1426 ein Konvent belegt. Wer lebte dort?",
+"optionen": [
+"Dort lebten Franziskaner-Terziarinnen.",
+"Dort lebten Benediktinermönche.",
+"Dort lebten Dominikanerinnen.",
+"Dort lebten Augustiner-Chorherren."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei „Konvent“ denkt man zuerst an Mönche. Dort lebten aber Franziskaner-Terziarinnen, Frauen des sogenannten Dritten Ordens der Franziskaner. Nach einem Brand wurde der Konvent wieder aufgebaut, später aber aufgegeben. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Poltringen",
+"faktencheck": "unsicher",
+"id": "366-poltringen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Poltringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 1.800 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Die Poltringer Fasnetsnarren tragen das Bockmoster-Häs mit Holzmaske und Glockengeschirr. Wann wurde es entworfen?",
+"optionen": [
+"Es wurde 1868 entworfen.",
+"Es wurde 1967 entworfen.",
+"Es wurde 1748 entworfen.",
+"Es wurde 1924 entworfen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Holzmaske und Glockengeschirr wirken uralt, und viele schwäbisch-alemannische Narrenfiguren sind es auch. Das Bockmoster-Häs entwarf aber Walter Ulrich erst 1967. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Poltringen",
+"faktencheck": "unsicher",
+"id": "366-poltringen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "365-pfaeffingen",
+"anschluss": [
+"Fläche: Poltringens Gemarkung ist größer als die von Pfäffingen.",
+"Höhe: Poltringen liegt etwas höher als Pfäffingen."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Poltringen zum Landkreis Landkreis Tübingen.",
+"Eutingen im Gäu hat fast dreieinhalbmal so viele Einwohner wie Poltringen."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Bondorf hat dreieinhalbmal so viele Einwohner wie Poltringen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Gäufelden hat fünfmal so viele Einwohner wie Poltringen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Herrenberg hat neunzehnmal so viele Einwohner wie Poltringen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Kayh und Poltringen sind fast gleich groß: rund 1.700 und 1.800 Einwohner."
+],
+"362-altingen": [
+"Altingen hat fast anderthalbmal so viele Einwohner wie Poltringen."
+],
+"363-breitenholz": [
+"Poltringen hat fast zweieinhalbmal so viele Einwohner wie Breitenholz.",
+"Breitenholz hat gut doppelt so viel Fläche wie Poltringen, aber weniger Einwohner."
+],
+"364-entringen": [
+"Entringen hat gut doppelt so viele Einwohner wie Poltringen."
+],
+"365-pfaeffingen": [
+"Fläche: Poltringens Gemarkung ist größer als die von Pfäffingen.",
+"Höhe: Poltringen liegt etwas höher als Pfäffingen."
+],
+"367-reusten": [
+"Poltringen hat fast doppelt so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Ammerbuch hat gut sechsmal so viele Einwohner wie Poltringen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Poltringen die CDU."
+],
+"368-unterjesingen": [
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Poltringen die CDU.",
+"Unterjesingen hat rund 700 Einwohner mehr als Poltringen."
+],
+"369-hagelloch": [
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Poltringen die CDU.",
+"Hagelloch und Poltringen sind fast gleich groß: rund 1.700 und 1.800 Einwohner."
+],
+"370-weststadt-tuebingen": [
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Poltringen die CDU.",
+"Weststadt hat viereinhalbmal so viele Einwohner wie Poltringen."
+],
+"371-waldhaeuser-ost": [
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Poltringen die CDU.",
+"Waldhäuser Ost hat gut zweieinhalbmal so viele Einwohner wie Poltringen."
+],
+"372-bebenhausen": [
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Poltringen die CDU.",
+"Poltringen hat gut fünfmal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Poltringen die CDU.",
+"Lustnau hat fast sechsmal so viele Einwohner wie Poltringen."
+],
+"374-pfrondorf": [
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Poltringen die CDU.",
+"Pfrondorf hat fast doppelt so viele Einwohner wie Poltringen."
+],
+"375-suedstadt-tuebingen": [
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Poltringen die CDU.",
+"Südstadt hat gut fünfmal so viele Einwohner wie Poltringen."
+],
+"376-derendingen": [
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Poltringen die CDU.",
+"Derendingen hat gut dreieinhalbmal so viele Einwohner wie Poltringen."
+],
+"377-weilheim-tuebingen": [
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Poltringen die CDU.",
+"Poltringen hat fast anderthalbmal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Poltringen die CDU.",
+"Poltringen hat fast anderthalbmal so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Poltringen die CDU.",
+"Bühl hat rund 300 Einwohner mehr als Poltringen."
+],
+"380-hirschau-tuebingen": [
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Poltringen die CDU.",
+"Hirschau hat fast doppelt so viele Einwohner wie Poltringen."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Dettenhausen hat dreimal so viele Einwohner wie Poltringen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Kirchentellinsfurt hat dreimal so viele Einwohner wie Poltringen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Kusterdingen hat fünfmal so viele Einwohner wie Poltringen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Gomaringen hat fünfmal so viele Einwohner wie Poltringen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Dußlingen hat dreieinhalbmal so viele Einwohner wie Poltringen."
+],
+"386-wurmlingen-rottenburg": [
+"Wurmlingen hat fast anderthalbmal so viele Einwohner wie Poltringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wurmlingen die AfD, in Poltringen die Grünen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Rottenburg am Neckar hat rund 25-mal so viele Einwohner wie Poltringen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Poltringen zum Landkreis Landkreis Tübingen.",
+"Starzach hat fast zweieinhalbmal so viele Einwohner wie Poltringen."
+]
+},
+"ags": "08416048",
+"ortsteil": true,
+"km_vom_vorigen": 1.4
+},
+{
+"slug": "367-reusten",
+"name": "Reusten",
+"lat": 48.54222,
+"lon": 8.92028,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reusten",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 940 Einwohnern, 22 km westlich von Reutlingen.",
+"frage": "Bei Reusten kam 2020 der „Goldring von Ammerbuch-Reusten“ ans Licht. Worin lag er?",
+"optionen": [
+"In einem frühbronzezeitlichen Frauengrab.",
+"In einer jungsteinzeitlichen Siedlungsgrube.",
+"In einem römischen Brunnenschacht.",
+"In einem mittelalterlichen Schatzversteck."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Ring lag in einem Frauengrab der frühen Bronzezeit, also lange vor den Römern. Ein Schatzversteck liegt nahe, weil man Gold gern mit vergrabenen Schätzen verbindet. Der Ring ist bislang das älteste sicher datierte Goldobjekt Südwestdeutschlands. Richtig war 1.",
+"quelle": "Universität Tübingen, unimuseum.uni-tuebingen.de/de/ausstellungen/archiv/gold-im-ammertal",
+"faktencheck": "korrigiert",
+"id": "367-reusten/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Reusten",
+"steckbrief": "Ortsteil von Ammerbuch im Ammertal mit rund 940 Einwohnern, 22 km westlich von Reutlingen.",
+"frage": "Auf welcher Höhe über dem Meer liegt Reusten?",
+"optionen": [
+"unter 250 m",
+"250 bis unter 400 m",
+"400 bis unter 550 m",
+"550 m und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Quellen nennen für Reusten 369 und 373 Meter über dem Meer. Wer an die nahe Schwäbische Alb denkt, schätzt leicht zu hoch, doch Reusten liegt im Ammertal. Richtig war 2.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "367-reusten/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Reusten",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 940 Einwohnern, 22 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Steinbruch am Ortsrand wurde früher Granit gebrochen.",
+"Kelterkirche, Zehntscheuer und Backhäusle bilden einen Dorfmittelpunkt.",
+"Bei Reusten fließen die Ammer und die Kochhardt zusammen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war der Granit: Im Steinbruch wurde Kalkstein gebrochen, ergiebig dank einer Aufwölbung der Gesteinsschichten, dem Reustener Sattel. Granit liegt nahe, weil man ihn aus vielen Steinbrüchen im Schwarzwald kennt. Wahr sind der Dorfmittelpunkt aus Kelterkirche, Zehntscheuer und Backhäusle und der Zusammenfluss von Ammer und Kochhardt. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten",
+"faktencheck": "korrigiert",
+"id": "367-reusten/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Reusten",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 940 Einwohnern, 22 km westlich von Reutlingen.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in der Gemeinde Ammerbuch, zu der Reusten gehört, bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"SPD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Ammerbuch wurden die Grünen mit 19 Prozent zweitstärkste Kraft, hinter der CDU. Die AfD liegt als Tipp nahe, weil sie bundesweit Zweite wurde; hier kam sie mit 15,7 Prozent auf Platz drei. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "korrigiert",
+"id": "367-reusten/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Reusten",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 940 Einwohnern, 22 km westlich von Reutlingen.",
+"frage": "Wie groß ist die Gemarkung von Reusten?",
+"optionen": [
+"unter 4 km²",
+"4 bis unter 8 km²",
+"8 bis unter 12 km²",
+"12 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Gemarkung, also die ganze Ortsflur samt Siedlung und Feldern, misst 6,11 Quadratkilometer. Wer bei einem Dorf an ein kleines Fleckchen denkt, unterschätzt, wie weit die Flur über die Häuser hinausreicht. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "367-reusten/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reusten",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 940 Einwohnern, 22 km westlich von Reutlingen.",
+"frage": "Reustens alte Heiligkreuzkirche stand auf dem Kirchberg. Später wurde ein Gebäude an der Abzweigung nach Rottenburg zur Kirche umgewandelt. Was war es ursprünglich?",
+"optionen": [
+"Das Gebäude war ursprünglich eine Zehntscheuer.",
+"Das Gebäude war ursprünglich das Rathaus.",
+"Das Gebäude war ursprünglich eine Kelter.",
+"Das Gebäude war ursprünglich ein Schulhaus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Kloster Bebenhausen ließ das Gebäude als Kelter bauen, also als Presshaus; später wurde es zur Kirche umgewandelt, daher der Name Kelterkirche. Die Zehntscheuer liegt nahe, weil sie mit Kelterkirche und Backhäusle heute den Dorfmittelpunkt bildet. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten",
+"faktencheck": "korrigiert",
+"id": "367-reusten/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reusten",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 940 Einwohnern, 22 km westlich von Reutlingen.",
+"frage": "Reustens Wappen von 1954 zeigte in Gold einen roten Schräglinksbalken, darüber eine Königskrone. Woran sollten Balken und Krone erinnern?",
+"optionen": [
+"An das Wappen der Tübinger Pfalzgrafen.",
+"An die Königsstraße.",
+"An einen Besuch des württembergischen Königs.",
+"An eine Schlacht im Ammertal."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Balken und Krone sollen an die Königsstraße erinnern, die früher Römerstraße hieß und durch die Gemarkung verlief. Die Pfalzgrafen liegen nahe: Von ihnen stammen tatsächlich die Farben Rot und Gold. Der grüne Lindenzweig weist auf eine Gerichtsstätte mit Gerichtslinde hin. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten",
+"faktencheck": "korrigiert",
+"id": "367-reusten/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reusten",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 940 Einwohnern, 22 km westlich von Reutlingen.",
+"frage": "Im Winter 1944/45 mussten KZ-Häftlinge im Reustener Steinbruch Steine brechen. Wofür wurden sie eingesetzt?",
+"optionen": [
+"Für den Bau einer Autobahn.",
+"Für den Bau von Luftschutzbunkern.",
+"Für den Bau von Panzersperren.",
+"Für den Ausbau eines Flugplatzes."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für den Ausbau des Flugplatzes Hailfingen mussten Häftlinge täglich im Steinbruch Steine brechen und mit Kipploren, kleinen Schienenwagen, zum Schotterwerk bringen. Bunker liegen nahe, weil in den letzten Kriegsmonaten vielerorts Schutzbauten entstanden. Bei Reusten stand damals auch eine Flugzeugreparaturhalle; ihre Pfeiler sind noch zu sehen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten",
+"faktencheck": "korrigiert",
+"id": "367-reusten/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "366-poltringen",
+"anschluss": [
+"Fläche: Reusten ist größer als Poltringen, hat aber weniger Einwohner.",
+"Lage: Reusten liegt zwischen Poltringen und Altingen."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Reusten zum Landkreis Landkreis Tübingen.",
+"Eutingen im Gäu hat gut sechsmal so viele Einwohner wie Reusten."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Bondorf hat fast siebenmal so viele Einwohner wie Reusten."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Gäufelden hat zehnmal so viele Einwohner wie Reusten."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Herrenberg hat rund 35-mal so viele Einwohner wie Reusten."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Kayh hat fast doppelt so viele Einwohner wie Reusten."
+],
+"362-altingen": [
+"Altingen hat gut zweieinhalbmal so viele Einwohner wie Reusten."
+],
+"363-breitenholz": [
+"Reusten hat rund 200 Einwohner mehr als Breitenholz."
+],
+"364-entringen": [
+"Entringen hat viermal so viele Einwohner wie Reusten."
+],
+"365-pfaeffingen": [
+"Pfäffingen hat fast doppelt so viele Einwohner wie Reusten."
+],
+"366-poltringen": [
+"Fläche: Reusten ist größer als Poltringen, hat aber weniger Einwohner.",
+"Lage: Reusten liegt zwischen Poltringen und Altingen."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Ammerbuch hat zwölfmal so viele Einwohner wie Reusten."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Reusten die CDU."
+],
+"368-unterjesingen": [
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Reusten die CDU.",
+"Unterjesingen hat gut zweieinhalbmal so viele Einwohner wie Reusten."
+],
+"369-hagelloch": [
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Reusten die CDU.",
+"Hagelloch hat fast doppelt so viele Einwohner wie Reusten."
+],
+"370-weststadt-tuebingen": [
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Reusten die CDU.",
+"Weststadt hat fast neunmal so viele Einwohner wie Reusten."
+],
+"371-waldhaeuser-ost": [
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Reusten die CDU.",
+"Waldhäuser Ost hat fünfmal so viele Einwohner wie Reusten."
+],
+"372-bebenhausen": [
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Reusten die CDU.",
+"Reusten hat fast dreimal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Reusten die CDU.",
+"Lustnau hat elfmal so viele Einwohner wie Reusten."
+],
+"374-pfrondorf": [
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Reusten die CDU.",
+"Pfrondorf hat dreieinhalbmal so viele Einwohner wie Reusten."
+],
+"375-suedstadt-tuebingen": [
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Reusten die CDU.",
+"Südstadt hat fast elfmal so viele Einwohner wie Reusten."
+],
+"376-derendingen": [
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Reusten die CDU.",
+"Derendingen hat siebenmal so viele Einwohner wie Reusten."
+],
+"377-weilheim-tuebingen": [
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Reusten die CDU.",
+"Weilheim hat rund 300 Einwohner mehr als Reusten."
+],
+"378-kilchberg-tuebingen": [
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Reusten die CDU.",
+"Kilchberg hat rund 300 Einwohner mehr als Reusten."
+],
+"379-buehl-tuebingen": [
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Reusten die CDU.",
+"Bühl hat gut doppelt so viele Einwohner wie Reusten."
+],
+"380-hirschau-tuebingen": [
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Reusten die CDU.",
+"Hirschau hat gut dreieinhalbmal so viele Einwohner wie Reusten."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Dettenhausen hat sechsmal so viele Einwohner wie Reusten."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Kirchentellinsfurt hat sechsmal so viele Einwohner wie Reusten."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Kusterdingen hat fast zehnmal so viele Einwohner wie Reusten."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Gomaringen hat fast zehnmal so viele Einwohner wie Reusten."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Dußlingen hat fast siebenmal so viele Einwohner wie Reusten."
+],
+"386-wurmlingen-rottenburg": [
+"Wurmlingen hat fast dreimal so viele Einwohner wie Reusten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wurmlingen die AfD, in Reusten die Grünen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Rottenburg am Neckar hat rund 50-mal so viele Einwohner wie Reusten."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Starzach hat viereinhalbmal so viele Einwohner wie Reusten."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Reusten zum Landkreis Landkreis Tübingen.",
+"Sindelfingen hat rund 65-mal so viele Einwohner wie Reusten."
+]
+},
+"ags": "08416048",
+"ortsteil": true,
+"km_vom_vorigen": 2.4
 },
 {
 "slug": "92-ammerbuch",
@@ -10975,11 +13533,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "91-herrenberg",
-"anschluss": [
-"Kreisgrenze: In Ammerbuch steht TÜ am Auto, in Herrenberg BB.",
-"Baumeister Heinrich Schickhardt, geboren in Herrenberg, baute Ammerbuchs Wasserschloss um."
-],
+"anschluss_von": "367-reusten",
+"anschluss": [],
 "anschluesse": {
 "88-eutingen": [
 "Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Ammerbuch zum Landkreis Tübingen.",
@@ -10994,12 +13549,114 @@ window.QA_DATEN = {
 "Ammerbuch hat rund 2.200 Einwohner mehr als Gäufelden."
 ],
 "91-herrenberg": [
-"Kreisgrenze: In Ammerbuch steht TÜ am Auto, in Herrenberg BB.",
-"Baumeister Heinrich Schickhardt, geboren in Herrenberg, baute Ammerbuchs Wasserschloss um."
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Ammerbuch zum Landkreis Tübingen.",
+"Herrenberg hat dreimal so viele Einwohner wie Ammerbuch."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Ammerbuch zum Landkreis Tübingen.",
+"Ammerbuch hat fast siebenmal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Ammerbuch hat viereinhalbmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Ammerbuch hat fünfzehnmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Ammerbuch hat dreimal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Ammerbuch hat gut sechsmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Ammerbuch hat gut sechsmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Ammerbuch hat zwölfmal so viele Einwohner wie Reusten."
 ],
 "93-tuebingen": [
 "Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Ammerbuch die CDU.",
 "Tübingen hat achtmal so viele Einwohner wie Ammerbuch."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"374-pfrondorf": [
+"Kreisgrenze: Pfrondorf gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Ammerbuch die CDU."
+],
+"381-dettenhausen": [
+"Ammerbuch hat gut doppelt so viele Einwohner wie Dettenhausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Dettenhausen die AfD, in Ammerbuch die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Ammerbuch hat gut doppelt so viele Einwohner wie Kirchentellinsfurt."
+],
+"383-kusterdingen": [
+"Ammerbuch hat rund 2.300 Einwohner mehr als Kusterdingen."
+],
+"384-gomaringen": [
+"Ammerbuch hat rund 2.300 Einwohner mehr als Gomaringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Gomaringen die AfD, in Ammerbuch die Grünen."
+],
+"385-dusslingen": [
+"Ammerbuch hat fast doppelt so viele Einwohner wie Dußlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Dußlingen die AfD, in Ammerbuch die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Ammerbuch zum Landkreis Tübingen.",
+"Ammerbuch hat viereinhalbmal so viele Einwohner wie Wurmlingen."
 ],
 "94-rottenburg": [
 "Rottenburg am Neckar hat viermal so viele Einwohner wie Ammerbuch.",
@@ -11016,7 +13673,7 @@ window.QA_DATEN = {
 },
 "ags": "08416048",
 "ortsteil": false,
-"km_vom_vorigen": 8.5
+"km_vom_vorigen": 3.7
 },
 {
 "slug": "93-tuebingen",
@@ -11222,9 +13879,113 @@ window.QA_DATEN = {
 "Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Tübingen zum Landkreis Tübingen.",
 "Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Tübingen die Grünen."
 ],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Tübingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Tübingen die Grünen."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Tübingen die Grünen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Tübingen die Grünen."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Tübingen die Grünen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Tübingen die Grünen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Tübingen die Grünen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Tübingen die Grünen."
+],
 "92-ammerbuch": [
 "Bundestagswahl 2025: Grüne siegten in Tübingen, CDU in Ammerbuch.",
 "Einwohner: Tübingen hat rund achtmal so viele wie Ammerbuch."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat rund 35-mal so viele Einwohner wie Unterjesingen."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat rund 55-mal so viele Einwohner wie Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat fast zwölfmal so viele Einwohner wie Weststadt."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat neunzehnmal so viele Einwohner wie Waldhäuser Ost."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat rund 275-mal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat neunmal so viele Einwohner wie Lustnau."
+],
+"374-pfrondorf": [
+"Kreisgrenze: Pfrondorf gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat rund 30-mal so viele Einwohner wie Pfrondorf."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat gut neunmal so viele Einwohner wie Südstadt."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat vierzehnmal so viele Einwohner wie Derendingen."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat rund 75-mal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat rund 75-mal so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat rund 45-mal so viele Einwohner wie Bühl."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Tübingen hat rund 25-mal so viele Einwohner wie Hirschau."
+],
+"381-dettenhausen": [
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Tübingen die Grünen.",
+"Tübingen hat siebzehnmal so viele Einwohner wie Dettenhausen."
+],
+"382-kirchentellinsfurt": [
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Tübingen die Grünen.",
+"Tübingen hat siebzehnmal so viele Einwohner wie Kirchentellinsfurt."
+],
+"383-kusterdingen": [
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Tübingen die Grünen.",
+"Tübingen hat zehnmal so viele Einwohner wie Kusterdingen."
+],
+"384-gomaringen": [
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Tübingen die Grünen.",
+"Tübingen hat zehnmal so viele Einwohner wie Gomaringen."
+],
+"385-dusslingen": [
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Tübingen die Grünen.",
+"Tübingen hat fünfzehnmal so viele Einwohner wie Dußlingen."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Tübingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Tübingen die Grünen."
 ],
 "94-rottenburg": [
 "Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Tübingen die Grünen.",
@@ -11234,6 +13995,5516 @@ window.QA_DATEN = {
 "ags": "08416041",
 "ortsteil": false,
 "km_vom_vorigen": 7.6
+},
+{
+"slug": "368-unterjesingen",
+"name": "Unterjesingen",
+"lat": 48.52667,
+"lon": 8.97778,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Unterjesingen",
+"steckbrief": "Rund 2.500 Einwohner, Stadtteil von Tübingen, 17 km westlich von Reutlingen (Luftlinie).",
+"frage": "Um 1900 brachte ein Erwerbszweig Unterjesingen relativen Wohlstand. Welchen nennt die Ortsgeschichte?",
+"optionen": [
+"Eine Zigarrenfabrik gab vielen Dorfbewohnern Arbeit.",
+"Der Anbau von Hopfen brachte gutes Geld.",
+"Der Anbau von Tabak brachte gutes Geld.",
+"Die Zucht von Seidenraupen brachte gutes Geld."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Fabrik liegt nahe, denn um diese Zeit brachte vielerorts die Industrie Arbeit und Geld. In Unterjesingen siedelte sich aber keine Industrie an. Den relativen Wohlstand brachte der Hopfenanbau. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/156/423.html",
+"faktencheck": "bestätigt",
+"id": "368-unterjesingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Unterjesingen",
+"steckbrief": "Rund 2.500 Einwohner, Stadtteil von Tübingen, 17 km westlich von Reutlingen (Luftlinie).",
+"frage": "Wie groß ist die Gemarkung von Unterjesingen?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 6 km²",
+"6 bis unter 12 km²",
+"12 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dorf dieser Größe denkt man an eine kleine Flur. Doch die Gemarkung misst 8,73 Quadratkilometer, darunter zahlreiche Weingärten an sonnigen Südhängen. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "368-unterjesingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Unterjesingen",
+"steckbrief": "Rund 2.500 Einwohner, Stadtteil von Tübingen, 17 km westlich von Reutlingen (Luftlinie).",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Dorf entstand erst in der Neuzeit.",
+"Die Kirche Sankt Barbara wurde im spätgotischen Stil erbaut.",
+"Auf der Gemarkung fand man Spuren römischer Besiedlung."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die späte Gründung klingt glaubhaft, denn manche Dörfer sind tatsächlich junge Neugründungen. Unterjesingen aber wurde schon im Mittelalter urkundlich erwähnt, und auf seiner Gemarkung siedelten Menschen schon in der Jungsteinzeit. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/156/423.html",
+"faktencheck": "korrigiert",
+"id": "368-unterjesingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Unterjesingen",
+"steckbrief": "Rund 2.500 Einwohner, Stadtteil von Tübingen, 17 km westlich von Reutlingen (Luftlinie).",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der Stadt Tübingen, zu der Unterjesingen gehört: Welche Partei wurde zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"GRÜNE",
+"Die Linke",
+"SPD"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einer Universitätsstadt tippt man auf Platz zwei leicht auf die Linke oder die SPD. In der Stadt Tübingen lagen die Grünen vorn, dahinter folgte die CDU mit 19,1 Prozent, vor Linke und SPD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "korrigiert",
+"id": "368-unterjesingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Unterjesingen",
+"steckbrief": "Rund 2.500 Einwohner, Stadtteil von Tübingen, 17 km westlich von Reutlingen (Luftlinie).",
+"frage": "Unterjesingen galt 2006 als einer der Orte mit der höchsten Feinstaubbelastung Deutschlands. Was ging dort am 30. Juli 2007 dagegen in Betrieb?",
+"optionen": [
+"Eine filternde Mooswand.",
+"Eine Pförtnerampel am Ortseingang.",
+"Eine Umgehungsstraße.",
+"Sprühdüsen, die die Straße befeuchten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Mooswand klingt nach moderner Filtertechnik, doch man setzte beim dichten Verkehr an, der im Ort stockte. Eine Pförtnerampel, amtlich „Zuflussdosierung“, hält Autos vor dem Ort zurück, damit sie drinnen nicht im Stau stehen. Richtig war 2.",
+"quelle": "Regierungspräsidium Tübingen, Pressemitteilung vom Juli 2007",
+"faktencheck": "korrigiert",
+"id": "368-unterjesingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Unterjesingen",
+"steckbrief": "Rund 2.500 Einwohner, Stadtteil von Tübingen, 17 km westlich von Reutlingen (Luftlinie).",
+"frage": "In welchem Zeitraum wurde Unterjesingen nach Tübingen eingemeindet?",
+"optionen": [
+"vor 1950",
+"1950 bis 1964",
+"1965 bis 1974",
+"1975 oder später"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an die große Gemeindereform in Baden-Württemberg denkt, tippt leicht auf deren Schlussphase, als viele Orte gegen ihren Willen eingemeindet wurden. Unterjesingen kam früher, am 1. Juli 1971, zur Universitätsstadt Tübingen. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "368-unterjesingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Unterjesingen",
+"steckbrief": "Rund 2.500 Einwohner, Stadtteil von Tübingen, 17 km westlich von Reutlingen (Luftlinie).",
+"frage": "Die Rosecker Kelter in Unterjesingen stammt von 1784. Wem gehörte sie?",
+"optionen": [
+"Der Gemeinde, für ihre Weingärtner.",
+"Einem Weinhändler als Privatkelter.",
+"Einem Adelsgeschlecht für sein Hofgut.",
+"Einer Klosterverwaltung."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Kelter ist eine Weinpresse. Eine Gemeindekelter liegt nahe, denn in Weindörfern pressten die Weingärtner oft gemeinsam. Die Rosecker Kelter gehörte aber über die Pflege Roseck zum Kloster Bebenhausen. Das Kloster war nach der Reformation nur noch eine Verwaltung, das Klosteramt. Richtig war 4.",
+"quelle": "Keltermuseum Unterjesingen, keltermuseum-unterjesingen.de/museum",
+"faktencheck": "korrigiert",
+"id": "368-unterjesingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Unterjesingen",
+"steckbrief": "Rund 2.500 Einwohner, Stadtteil von Tübingen, 17 km westlich von Reutlingen (Luftlinie).",
+"frage": "Am 28. Oktober 1410 bekam die Burg Roseck samt dem Dorf Jesingen einen neuen Herrn. Wer erwarb beides?",
+"optionen": [
+"Ein Kloster erwarb Burg und Dorf.",
+"Eine Reichsstadt erwarb Burg und Dorf.",
+"Ein Bischof erwarb Burg und Dorf.",
+"Ein Ritterorden erwarb Burg und Dorf."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Reichsstadt liegt nahe, denn reiche Städte kauften damals gern Dörfer im Umland. Neuer Herr wurde aber das Kloster Bebenhausen, das im Ort schon zuvor Besitz erworben hatte. Es übte dort die niedere Gerichtsbarkeit aus, also das Gericht über kleinere Streitfälle. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/156/423.html",
+"faktencheck": "bestätigt",
+"id": "368-unterjesingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "93-tuebingen",
+"anschluss": [
+"Unterjesingen liegt 6 km westlich von Tübingen im Ammertal.",
+"Die Ammertalbahn verbindet Unterjesingen mit Tübingen und Herrenberg."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Eutingen im Gäu lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Unterjesingen die Grünen.",
+"Altingen und Unterjesingen sind fast gleich groß: rund 2.600 und 2.500 Einwohner."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Unterjesingen die Grünen.",
+"Unterjesingen hat fast dreieinhalbmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Unterjesingen die Grünen.",
+"Entringen hat anderthalbmal so viele Einwohner wie Unterjesingen."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Unterjesingen die Grünen.",
+"Unterjesingen hat rund 700 Einwohner mehr als Pfäffingen."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Unterjesingen die Grünen.",
+"Unterjesingen hat rund 700 Einwohner mehr als Poltringen."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Unterjesingen die Grünen.",
+"Unterjesingen hat gut zweieinhalbmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"93-tuebingen": [
+"Unterjesingen liegt 6 km westlich von Tübingen im Ammertal.",
+"Die Ammertalbahn verbindet Unterjesingen mit Tübingen und Herrenberg."
+],
+"369-hagelloch": [
+"Unterjesingen hat anderthalbmal so viele Einwohner wie Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Weststadt hat gut dreimal so viele Einwohner wie Unterjesingen."
+],
+"371-waldhaeuser-ost": [
+"Waldhäuser Ost hat fast doppelt so viele Einwohner wie Unterjesingen."
+],
+"372-bebenhausen": [
+"Unterjesingen hat gut siebenmal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Lustnau hat viermal so viele Einwohner wie Unterjesingen."
+],
+"374-pfrondorf": [
+"Pfrondorf hat rund 800 Einwohner mehr als Unterjesingen."
+],
+"375-suedstadt-tuebingen": [
+"Südstadt hat viermal so viele Einwohner wie Unterjesingen."
+],
+"376-derendingen": [
+"Derendingen hat gut zweieinhalbmal so viele Einwohner wie Unterjesingen."
+],
+"377-weilheim-tuebingen": [
+"Unterjesingen hat doppelt so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Unterjesingen hat doppelt so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Unterjesingen hat rund 400 Einwohner mehr als Bühl."
+],
+"380-hirschau-tuebingen": [
+"Hirschau hat rund 900 Einwohner mehr als Unterjesingen."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Unterjesingen die Grünen.",
+"Wurmlingen und Unterjesingen sind fast gleich groß: rund 2.600 und 2.500 Einwohner."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Unterjesingen die Grünen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Unterjesingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Starzach lag die CDU vorn, in Unterjesingen die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 5.8
+},
+{
+"slug": "369-hagelloch",
+"name": "Hagelloch",
+"lat": 48.54083,
+"lon": 9.01194,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hagelloch",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Woher stammt der Name Hagelloch nach der Ortsgeschichte?",
+"optionen": [
+"Der Name meinte ein eingehegtes Waldstück.",
+"Der Name erinnert an verheerende Hagelunwetter.",
+"Der Name meinte eine Höhle am Waldrand.",
+"Der Name meinte eine Grube zum Lehmabbau."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Hagel und Loch liegen nahe, denn genau so klingt der Name heute. Die Ortsgeschichte erklärt ihn anders: Früher hieß der Ort Hagenloch, der Name setzt sich aus „Hag“ und „Lohe“ für Gehölz zusammen. Gemeint war ein von einem Hag umgebenes Waldstück. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/151/367.html",
+"faktencheck": "korrigiert",
+"id": "369-hagelloch/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hagelloch",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Wie groß ist die Fläche von Hagelloch?",
+"optionen": [
+"unter 4 km²",
+"4 bis unter 8 km²",
+"8 bis unter 15 km²",
+"15 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Stadtteil denkt man an wenige Straßenzüge und schätzt klein. Hagelloch war bis zur Eingemeindung ein eigenes Dorf mit eigener Gemarkung. Sie umfasst 5,97 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "369-hagelloch/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hagelloch",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Früher waren viele Hagellocher Handwerker, etwa Maurer oder Gipser.",
+"Die Realteilung brachte Hagelloch einst große Bauernhöfe.",
+"Die Zehntscheuer gehörte einst zum Kloster Bebenhausen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Große Höfe passen zum Bild vom Bauerndorf. Die Realteilung, also das Aufteilen des Landes unter allen Erben, bewirkte aber das Gegenteil: In Hagelloch entstand ein Kleinbauerntum. Nach der Ortsgeschichte bestimmte Armut jahrhundertelang das Leben im Dorf. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/151/367.html",
+"faktencheck": "korrigiert",
+"id": "369-hagelloch/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hagelloch",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Stadt Tübingen, zu der Hagelloch gehört?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an den Bundesschnitt denkt, setzt eine Spanne tiefer an. In der Stadt Tübingen, zu der Hagelloch gehört, gingen aber 89 Prozent der Wahlberechtigten zur Wahl; stärkste Partei wurden die Grünen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "369-hagelloch/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hagelloch",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "1296 kam Hagelloch an das Kloster Bebenhausen. Wie geschah das nach der Ortsgeschichte?",
+"optionen": [
+"Der bisherige Ortsherr verkaufte den Ort.",
+"Ein Adliger vermachte den Ort per Testament.",
+"Der Kaiser schenkte den Ort dem Kloster.",
+"Das Kloster tauschte ihn gegen eigenes Land."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Klöster erhielten Dörfer oft als fromme Stiftung, deshalb liegt eine Schenkung nahe. Hagelloch aber wurde verkauft: Pfalzgraf Gottfried von Tübingen gab den Ort an das Kloster Bebenhausen. Die Pfalzgrafen waren zuvor die Ortsherren. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/151/367.html",
+"faktencheck": "bestätigt",
+"id": "369-hagelloch/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hagelloch",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "In welchem Zeitraum wurde Hagelloch nach Tübingen eingemeindet?",
+"optionen": [
+"vor 1960",
+"1960 bis 1974",
+"1975 bis 1990",
+"nach 1990"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist eine spätere Spanne, denn die große Gemeindereform zog sich in Baden-Württemberg über Jahre hin. Hagelloch kam am 1. Juli 1971 zu Tübingen und ist seitdem ein Stadtteil. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "369-hagelloch/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hagelloch",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Ein Bau am Torbogenweg in Hagelloch wird „Schloss“ genannt. Was ist er nach der Ortsbeschreibung?",
+"optionen": [
+"Er war ein Jagdschloss eines Grafenhauses.",
+"Er war das Amtshaus für den Zehnteinzug.",
+"Er ist ein ummauerter Gutshof des niederen Ortsadels.",
+"Er war ein befestigter Pfarrhof der Dorfkirche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei „Schloss“ denkt man an Grafen, Herzöge und Jagdgesellschaften. Am Torbogenweg steht aber kein Fürstensitz, sondern ein kleiner ummauerter Gutshof des niederen Ortsadels. Seinen Torbogen erhielt er erst später. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/151/366.html",
+"faktencheck": "korrigiert",
+"id": "369-hagelloch/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hagelloch",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Karl Schneck stammte aus Hagelloch und wurde Landtagsabgeordneter in Württemberg. Für welche Partei saß er zuletzt im Landtag?",
+"optionen": [
+"Für die Zentrumspartei.",
+"Für die KPD.",
+"Für die DNVP.",
+"Für die Deutsche Demokratische Partei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein kleines Dorf lässt eher an bürgerliche Parteien denken. Doch Karl Schneck, 1886 in Hagelloch geboren, kam über SPD und USPD 1920 zur KPD und saß für sie im württembergischen Landtag. Richtig war 2.",
+"quelle": "Landtag von Baden-Württemberg, Gedenkbuch, landtag-bw.de",
+"faktencheck": "korrigiert",
+"id": "369-hagelloch/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hagelloch",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Was stimmt über das Alter der evangelischen Kirche und des Pfarrhauses in Hagelloch?",
+"optionen": [
+"Kirche und Pfarrhaus wurden gemeinsam errichtet.",
+"Die Kirche ist deutlich älter als das Pfarrhaus.",
+"Beide Bauten stammen aus dem Mittelalter.",
+"Das Pfarrhaus ist deutlich älter als die Kirche."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Dorfkirche hält man leicht für den ältesten Bau am Platz. Die heutige Kirche in Hagelloch ist aber jünger: Sie wurde im neuromanischen Stil, also nach romanischem Vorbild, gebaut, als das Pfarrhaus schon lange stand. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/151/366.html",
+"faktencheck": "korrigiert",
+"id": "369-hagelloch/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "368-unterjesingen",
+"anschluss": [
+"Einwohner: Unterjesingen zählt rund 800 mehr als Hagelloch.",
+"Höhe: Hagelloch liegt über 80 Meter höher als Unterjesingen."
+],
+"anschluesse": {
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Hagelloch die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Hagelloch die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Hagelloch die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Hagelloch die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Hagelloch die Grünen.",
+"Altingen hat anderthalbmal so viele Einwohner wie Hagelloch."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Hagelloch die Grünen.",
+"Hagelloch hat gut doppelt so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Hagelloch die Grünen.",
+"Entringen hat fast zweieinhalbmal so viele Einwohner wie Hagelloch."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Hagelloch die Grünen.",
+"Pfäffingen und Hagelloch sind fast gleich groß: rund 1.800 und 1.700 Einwohner."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Hagelloch die Grünen.",
+"Poltringen und Hagelloch sind fast gleich groß: rund 1.800 und 1.700 Einwohner."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Hagelloch die Grünen.",
+"Hagelloch hat fast doppelt so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Hagelloch die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Tübingen hat rund 55-mal so viele Einwohner wie Hagelloch."
+],
+"368-unterjesingen": [
+"Einwohner: Unterjesingen zählt rund 800 mehr als Hagelloch.",
+"Höhe: Hagelloch liegt über 80 Meter höher als Unterjesingen."
+],
+"370-weststadt-tuebingen": [
+"Weststadt hat gut viereinhalbmal so viele Einwohner wie Hagelloch."
+],
+"371-waldhaeuser-ost": [
+"Waldhäuser Ost hat fast dreimal so viele Einwohner wie Hagelloch."
+],
+"372-bebenhausen": [
+"Hagelloch hat fünfmal so viele Einwohner wie Bebenhausen.",
+"Bebenhausen hat gut doppelt so viel Fläche wie Hagelloch, aber weniger Einwohner."
+],
+"373-lustnau": [
+"Lustnau hat sechsmal so viele Einwohner wie Hagelloch."
+],
+"374-pfrondorf": [
+"Pfrondorf hat fast doppelt so viele Einwohner wie Hagelloch."
+],
+"375-suedstadt-tuebingen": [
+"Südstadt hat fast sechsmal so viele Einwohner wie Hagelloch."
+],
+"376-derendingen": [
+"Derendingen hat fast viermal so viele Einwohner wie Hagelloch."
+],
+"377-weilheim-tuebingen": [
+"Hagelloch hat rund 400 Einwohner mehr als Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Hagelloch hat rund 400 Einwohner mehr als Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Bühl hat rund 400 Einwohner mehr als Hagelloch."
+],
+"380-hirschau-tuebingen": [
+"Hirschau hat doppelt so viele Einwohner wie Hagelloch."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Hagelloch die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Hagelloch die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Hagelloch die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Hagelloch die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Hagelloch die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Hagelloch die Grünen.",
+"Wurmlingen hat anderthalbmal so viele Einwohner wie Hagelloch."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Hagelloch die Grünen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Starzach lag die CDU vorn, in Hagelloch die Grünen."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Sindelfingen lag die CDU vorn, in Hagelloch die Grünen."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Hagelloch zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Leinfelden-Echterdingen lag die CDU vorn, in Hagelloch die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 3.0
+},
+{
+"slug": "370-weststadt-tuebingen",
+"name": "Weststadt",
+"lat": 48.5219,
+"lon": 9.04056,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weststadt",
+"steckbrief": "Stadtteil von Tübingen mit rund 8.000 Einwohnern, 13 km westlich von Reutlingen.",
+"frage": "In der Weststadt steht die älteste Baumanlage Tübingens. Was ist sie?",
+"optionen": [
+"Es ist ein Obstbaumhain am Hang des Schlossbergs.",
+"Es ist eine Pappelreihe am Ufer der Ammer.",
+"Es ist eine Kastanienallee entlang des Neckars.",
+"Es ist eine Lindenallee beim Wildermuth-Gymnasium."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name Schlossberg klingt nach Geschichte, und an Flussufern stehen oft alte Bäume. Doch die älteste Baumanlage Tübingens ist die Lindenallee. Sie steht zwischen dem Wildermuth-Gymnasium und den Sportanlagen des SV 03 Tübingen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Weststadt_(Tübingen)",
+"faktencheck": "unsicher",
+"id": "370-weststadt-tuebingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weststadt",
+"steckbrief": "Stadtteil von Tübingen mit rund 8.000 Einwohnern, 13 km westlich von Reutlingen, mit Teilen von Ammertal, Neckartal und Schlossberg.",
+"frage": "Wie hoch über dem Meeresspiegel liegt die Weststadt?",
+"optionen": [
+"unter 360 m",
+"360 bis unter 420 m",
+"420 bis unter 480 m",
+"480 m und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Schlossberg verleitet dazu, höher zu schätzen. Maßgeblich ist aber die Lage im Tal: Für die Weststadt sind 346 Meter angegeben. Richtig war 1.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "370-weststadt-tuebingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "„3. Im Westen der Weststadt liegt der Stadtteil Universität.“ – RÜCKSEITE: unverändert",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Arena oder ein Freibad vermutet man leicht anderswo in der Stadt. Beide liegen aber in der Weststadt. Gelogen ist die Grenze: Der Stadtteil Universität liegt östlich der Weststadt, im Westen grenzen Hirschau und Unterjesingen an. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Weststadt_(Tübingen)",
+"faktencheck": "korrigiert",
+"id": "370-weststadt-tuebingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weststadt",
+"steckbrief": "Stadtteil von Tübingen mit rund 8.000 Einwohnern, 13 km westlich von Reutlingen.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Tübingen: Welchen Anteil holte die stärkste Partei?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 28 %",
+"28 bis unter 36 %",
+"36 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei vielen Parteien, die sich die Stimmen teilen, schätzt man den Sieger leicht niedriger. In der Stadt Tübingen lagen die Grünen mit 31,4 Prozent vorn, deutlich vor der CDU. Ein eigener Wert für die Weststadt ist hier nicht angegeben. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "370-weststadt-tuebingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weststadt",
+"steckbrief": "Stadtteil von Tübingen mit rund 8.000 Einwohnern, 13 km westlich von Reutlingen.",
+"frage": "Die Weststadt hat ein Festplatz- und Messegelände. In welchem Teil des Stadtteils liegt es?",
+"optionen": [
+"Es liegt im nördlichen Teil der Weststadt.",
+"Es liegt im westlichen Teil der Weststadt.",
+"Es liegt im östlichen Teil der Weststadt.",
+"Es liegt im südlichen Teil der Weststadt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Westen klingt nach Stadtrand und damit nach Platz für große Flächen. Das Festplatz- und Messegelände liegt aber im südlichen Teil der Weststadt. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Weststadt_(Tübingen)",
+"faktencheck": "unsicher",
+"id": "370-weststadt-tuebingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weststadt",
+"steckbrief": "Stadtteil von Tübingen mit rund 8.000 Einwohnern, 13 km westlich von Reutlingen.",
+"frage": "Wie weit ist es von der Weststadt in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 40 km",
+"40 bis unter 60 km",
+"60 bis unter 80 km",
+"80 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Auf der Straße wirkt der Weg länger, weil sie Umwege macht. In Luftlinie liegt Stuttgart nur 31 Kilometer von der Weststadt entfernt. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "370-weststadt-tuebingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„2. Er wurde nach einer Renovierung wiedereröffnet.“ – RÜCKSEITE: „Du hattest [Option] getippt. Alte Türme verfallen oft, wenn sich niemand um sie kümmert, deshalb liegen Abriss oder Sperrung nahe. Der Bismarckturm am Lichtenberger Weg wurde aber renoviert und im Jahr 2000 wiedereröffnet. Richtig war 2.“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Alte Türme verfallen oft, wenn sich niemand um sie kümmert, deshalb liegen Abriss oder Sperrung nahe. Der Bismarckturm am Lichtenberger Weg wurde aber renoviert und danach wiedereröffnet. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Weststadt_(Tübingen)",
+"faktencheck": "korrigiert",
+"id": "370-weststadt-tuebingen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "369-hagelloch",
+"anschluss": [
+"Nachbarn: Die Weststadt grenzt im Norden direkt an Hagelloch.",
+"Höhe: Hagelloch liegt knapp 100 Meter höher als die Weststadt."
+],
+"anschluesse": {
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Weststadt die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Weststadt die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Weststadt die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Weststadt die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Weststadt die Grünen.",
+"Weststadt hat gut dreimal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Weststadt die Grünen.",
+"Weststadt hat fast elfmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Weststadt die Grünen.",
+"Weststadt hat gut doppelt so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Weststadt die Grünen.",
+"Weststadt hat viereinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Weststadt die Grünen.",
+"Weststadt hat viereinhalbmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Weststadt die Grünen.",
+"Weststadt hat fast neunmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Weststadt die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Tübingen hat fast zwölfmal so viele Einwohner wie Weststadt."
+],
+"368-unterjesingen": [
+"Weststadt hat gut dreimal so viele Einwohner wie Unterjesingen."
+],
+"369-hagelloch": [
+"Nachbarn: Die Weststadt grenzt im Norden direkt an Hagelloch.",
+"Höhe: Hagelloch liegt knapp 100 Meter höher als die Weststadt."
+],
+"371-waldhaeuser-ost": [
+"Weststadt hat gut anderthalbmal so viele Einwohner wie Waldhäuser Ost."
+],
+"372-bebenhausen": [
+"Weststadt hat rund 25-mal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Lustnau hat rund 2.000 Einwohner mehr als Weststadt."
+],
+"374-pfrondorf": [
+"Weststadt hat fast zweieinhalbmal so viele Einwohner wie Pfrondorf."
+],
+"375-suedstadt-tuebingen": [
+"Südstadt hat rund 1.900 Einwohner mehr als Weststadt."
+],
+"376-derendingen": [
+"Weststadt hat rund 1.500 Einwohner mehr als Derendingen."
+],
+"377-weilheim-tuebingen": [
+"Weststadt hat gut sechsmal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Weststadt hat gut sechsmal so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Weststadt hat fast viermal so viele Einwohner wie Bühl."
+],
+"380-hirschau-tuebingen": [
+"Weststadt hat fast zweieinhalbmal so viele Einwohner wie Hirschau."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Weststadt die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Weststadt die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Weststadt die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Weststadt die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Weststadt die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Weststadt die Grünen.",
+"Weststadt hat dreimal so viele Einwohner wie Wurmlingen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Weststadt die Grünen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Weststadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Starzach lag die CDU vorn, in Weststadt die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 3.0
+},
+{
+"slug": "371-waldhaeuser-ost",
+"name": "Waldhäuser Ost",
+"lat": 48.5439,
+"lon": 9.05944,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Waldhäuser Ost",
+"steckbrief": "Stadtteil von Tübingen, 12 km nordwestlich von Reutlingen.",
+"frage": "Wie viele Einwohner zählte dieser Tübinger Stadtteil Ende 2007?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 3.000",
+"3.000 bis unter 4.500",
+"4.500 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach ein paar Häusern am Wald. Doch Waldhäuser Ost ist eine Wohnblock- und Hochhaussiedlung, und Hochhäuser fassen viele Menschen: Ende 2007 zählte der Stadtteil 4.785 Einwohner. Richtig war 4.",
+"quelle": "dewiki Infobox (Artikel Waldhäuser Ost), Stand 31.12.2007",
+"faktencheck": "bestätigt",
+"id": "371-waldhaeuser-ost/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Waldhäuser Ost",
+"steckbrief": "Tübinger Stadtteil mit rund 4.800 Einwohnern (Stand 2007), 12 km nordwestlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Dietrich-Bonhoeffer-Kirche im Zentrum ist katholisch.",
+"Im Einkaufszentrum brannte einmal der Supermarkt.",
+"Die Geschwister-Scholl-Schule war früher eine Integrierte Gesamtschule."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Schule mit dem sperrigen Fachbegriff wirkt am ehesten erfunden, doch sie war früher wirklich eine Integrierte Gesamtschule. Auch der Supermarkt im Einkaufszentrum hat gebrannt. Gelogen ist die Kirche: Sie ist evangelisch, passend zum Namen des evangelischen Theologen Dietrich Bonhoeffer. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Waldhäuser_Ost",
+"faktencheck": "unsicher",
+"id": "371-waldhaeuser-ost/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Waldhäuser Ost",
+"steckbrief": "Tübinger Stadtteil mit rund 4.800 Einwohnern (Stand 2007), 12 km nordwestlich von Reutlingen.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in ganz Tübingen: Welche Partei wurde zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"CDU",
+"Die Linke",
+"SPD"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In der Universitätsstadt liegen die Grünen vorn, und viele tippen dahinter auf die Linke oder die SPD. Beide kamen nah heran, doch Platz zwei ging an die CDU mit 19,1 Prozent, vor der Linken mit 16,3 und der SPD mit 15,9 Prozent. Die Zahlen gelten für die ganze Stadt Tübingen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025",
+"faktencheck": "bestätigt",
+"id": "371-waldhaeuser-ost/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Waldhäuser Ost",
+"steckbrief": "Tübinger Stadtteil mit rund 4.800 Einwohnern (Stand 2007), 12 km nordwestlich von Reutlingen.",
+"frage": "Wie weit ist es von Waldhäuser Ost bis zur Landeshauptstadt Stuttgart, in Luftlinie gemessen?",
+"optionen": [
+"unter 15 km",
+"15 bis unter 20 km",
+"20 bis unter 25 km",
+"25 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Waldhäuser Ost liegt am nördlichen Stadtrand Tübingens, also auf der Seite Richtung Stuttgart; da schätzt man die Strecke leicht zu kurz. Die Luftlinie bis zur Landeshauptstadt misst aber 28 Kilometer, mehr als doppelt so weit wie nach Reutlingen. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "371-waldhaeuser-ost/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldhäuser Ost",
+"steckbrief": "Tübinger Stadtteil mit rund 4.800 Einwohnern (Stand 2007), 12 km nordwestlich von Reutlingen.",
+"frage": "Was lag auf dem Gelände, bevor dort die Siedlung Waldhäuser Ost gebaut wurde?",
+"optionen": [
+"Dort lag ein großer Exerzierplatz.",
+"Dort lag ein großer Steinbruch.",
+"Dort lag ein großer Friedhof.",
+"Dort lag eine große Gärtnerei."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Steinbruch liegt nahe, denn die Siedlung steht auf einer Anhöhe am Stadtrand. Tatsächlich lag dort der Exerzierplatz Waldhausen, ein großes Übungsgelände für Soldaten. Er wurde später zum Baugelände für Waldhäuser Ost. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Waldhäuser_Ost",
+"faktencheck": "bestätigt",
+"id": "371-waldhaeuser-ost/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldhäuser Ost",
+"steckbrief": "Tübinger Stadtteil mit rund 4.800 Einwohnern (Stand 2007), 12 km nordwestlich von Reutlingen.",
+"frage": "Das Hochhaus Weißdornweg 14 steht im Zentrum der Siedlung. Wie viele Menschen wohnen etwa darin?",
+"optionen": [
+"Darin wohnen etwa 50 Menschen.",
+"Darin wohnen etwa 150 Menschen.",
+"Darin wohnen etwa 1.500 Menschen.",
+"Darin wohnen etwa 400 Menschen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Wohnhaus denkt man an Dutzende, nicht Hunderte Bewohner. Doch das Hochhaus Weißdornweg 14 ist das größte im Zentrum von Waldhäuser Ost: Etwa 400 Menschen wohnen darin. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Waldhäuser_Ost",
+"faktencheck": "unsicher",
+"id": "371-waldhaeuser-ost/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "370-weststadt-tuebingen",
+"anschluss": [
+"Höhe: Waldhäuser Ost liegt 33 Meter höher als die Weststadt.",
+"Ende 2007 zählte die Weststadt mehr Einwohner als Waldhäuser Ost."
+],
+"anschluesse": {
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Waldhäuser Ost die Grünen.",
+"Waldhäuser Ost hat fast doppelt so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Waldhäuser Ost die Grünen.",
+"Waldhäuser Ost hat gut sechsmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Waldhäuser Ost die Grünen.",
+"Waldhäuser Ost hat rund 900 Einwohner mehr als Entringen."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Waldhäuser Ost die Grünen.",
+"Waldhäuser Ost hat gut zweieinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Waldhäuser Ost die Grünen.",
+"Waldhäuser Ost hat gut zweieinhalbmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Waldhäuser Ost die Grünen.",
+"Waldhäuser Ost hat fünfmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Tübingen hat neunzehnmal so viele Einwohner wie Waldhäuser Ost."
+],
+"368-unterjesingen": [
+"Waldhäuser Ost hat fast doppelt so viele Einwohner wie Unterjesingen."
+],
+"369-hagelloch": [
+"Waldhäuser Ost hat fast dreimal so viele Einwohner wie Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Höhe: Waldhäuser Ost liegt 33 Meter höher als die Weststadt.",
+"Ende 2007 zählte die Weststadt mehr Einwohner als Waldhäuser Ost."
+],
+"372-bebenhausen": [
+"Waldhäuser Ost hat vierzehnmal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Lustnau hat gut doppelt so viele Einwohner wie Waldhäuser Ost."
+],
+"374-pfrondorf": [
+"Waldhäuser Ost hat fast anderthalbmal so viele Einwohner wie Pfrondorf."
+],
+"375-suedstadt-tuebingen": [
+"Südstadt hat gut doppelt so viele Einwohner wie Waldhäuser Ost."
+],
+"376-derendingen": [
+"Derendingen hat rund 1.800 Einwohner mehr als Waldhäuser Ost."
+],
+"377-weilheim-tuebingen": [
+"Waldhäuser Ost hat fast viermal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Waldhäuser Ost hat fast viermal so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Waldhäuser Ost hat fast zweieinhalbmal so viele Einwohner wie Bühl."
+],
+"380-hirschau-tuebingen": [
+"Waldhäuser Ost hat fast anderthalbmal so viele Einwohner wie Hirschau."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Waldhäuser Ost die Grünen.",
+"Waldhäuser Ost hat fast doppelt so viele Einwohner wie Wurmlingen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Sindelfingen lag die CDU vorn, in Waldhäuser Ost die Grünen."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Waldhäuser Ost zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Leinfelden-Echterdingen lag die CDU vorn, in Waldhäuser Ost die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 2.8
+},
+{
+"slug": "372-bebenhausen",
+"name": "Bebenhausen",
+"lat": 48.55972,
+"lon": 9.06,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bebenhausen",
+"steckbrief": "Stadtteil von Tübingen mit rund 340 Einwohnern, 13 km nordwestlich von Reutlingen.",
+"frage": "Nach seinem Thronverzicht 1918 lebte König Wilhelm II. von Württemberg in Bebenhausen. Welchen Titel trug er danach?",
+"optionen": [
+"Er trug fortan den Titel Fürst von Bebenhausen.",
+"Er trug fortan den Titel Herzog von Württemberg.",
+"Er trug fortan den Titel Graf von Schönbuch.",
+"Er trug fortan den Titel Prinz von Stuttgart."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Titel nach dem Wohnort liegt nahe: Wilhelm II. verzichtete in Bebenhausen auf den Thron, lebte danach hier mit seiner Gemahlin Charlotte und starb hier. Sein neuer Titel lautete aber Herzog von Württemberg. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/148/330.html",
+"faktencheck": "bestätigt",
+"id": "372-bebenhausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bebenhausen",
+"steckbrief": "Stadtteil von Tübingen im Naturpark Schönbuch, 13 km nordwestlich von Reutlingen.",
+"frage": "Wie viele Einwohner hat Bebenhausen?",
+"optionen": [
+"unter 100",
+"100 bis unter 300",
+"300 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil lässt an Tausende Einwohner denken. Bebenhausen ist aber ein kleines Klosterdorf und zählt 337 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082 (Stichtag nicht angegeben)",
+"faktencheck": "bestätigt",
+"id": "372-bebenhausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bebenhausen",
+"steckbrief": "Stadtteil von Tübingen mit rund 340 Einwohnern, 13 km nordwestlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Bebenhäuser Wappen zeigt den Balken der Zisterzienser.",
+"Zisterziensermönche gründeten im Ort eine evangelische Klosterschule.",
+"König Wilhelm II. kaufte die Klostermühle des Ortes."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Klosterschule klingt nach Mönchen, und die Zisterzienser prägen Bebenhausen bis ins Wappen. Doch das Kloster wurde im Zuge der Reformation aufgelöst: Die evangelische Klosterschule ließ danach Herzog Christoph von Württemberg errichten. Die Klostermühle kaufte tatsächlich König Wilhelm II. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/148/330.html",
+"faktencheck": "korrigiert",
+"id": "372-bebenhausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bebenhausen",
+"steckbrief": "Stadtteil von Tübingen mit rund 340 Einwohnern, 13 km nordwestlich von Reutlingen.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Stadt Tübingen, zu der Bebenhausen gehört?",
+"optionen": [
+"85 % und mehr",
+"80 bis unter 85 %",
+"75 bis unter 80 %",
+"unter 75 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine mittlere Spanne liegt nahe, weil selten fast alle Wahlberechtigten wählen. In der Stadt Tübingen, zu der Bebenhausen gehört, lag die Wahlbeteiligung bei der Bundestagswahl 2025 aber bei 89 Prozent. Stärkste Partei wurden dort die Grünen. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Wert für die Gemeinde Tübingen",
+"faktencheck": "bestätigt",
+"id": "372-bebenhausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bebenhausen",
+"steckbrief": "Stadtteil von Tübingen mit rund 340 Einwohnern, 13 km nordwestlich von Reutlingen.",
+"frage": "Bei einem Jagdbesuch von Kaiser Wilhelm II. wurde 1893 die „Bebenhäuser Konvention“ geschlossen. Was regelte sie?",
+"optionen": [
+"Sie teilte die Jagdreviere im Schönbuch neu auf.",
+"Sie vereinheitlichte das Dienstalter preußischer und württembergischer Offiziere.",
+"Sie vereinbarte eine Bahnlinie zwischen Stuttgart und Berlin.",
+"Sie regelte Zölle zwischen Württemberg und Baden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Jagdbesuch liegt eine Abmachung über Jagdreviere nahe. Doch die Konvention war militärisch: Preußische und württembergische Offiziere erhielten ein einheitliches Dienstalter, außerdem vereinbarte man mehr gegenseitige Kommandierungen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/148/330.html",
+"faktencheck": "korrigiert",
+"id": "372-bebenhausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bebenhausen",
+"steckbrief": "Stadtteil von Tübingen mit rund 340 Einwohnern, 13 km nordwestlich von Reutlingen.",
+"frage": "Wie viele Einwohner leben in Bebenhausen auf einem Quadratkilometer?",
+"optionen": [
+"unter 10",
+"10 bis unter 20",
+"20 bis unter 40",
+"40 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil lässt an dichte Bebauung denken. Doch Bebenhausens rund 340 Einwohner verteilen sich auf gut 13 Quadratkilometer Gemarkung, das sind rund 25 je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "372-bebenhausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Bebenhausen",
+"steckbrief": "Stadtteil von Tübingen mit rund 340 Einwohnern, 13 km nordwestlich von Reutlingen.",
+"frage": "In seiner Blütezeit lebten im Kloster zeitweise bis zu 80 Mönche. Wie viele Konversen kamen hinzu?",
+"optionen": [
+"unter 20",
+"20 bis unter 50",
+"50 bis unter 100",
+"100 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster denkt man sich als Ort der Mönche, mit wenigen Helfern. Doch zeitweise lebten hier auch 130 Konversen. Konversen waren Laienbrüder, die vor allem körperlich arbeiteten. Richtig war 4.",
+"quelle": "Universität Tübingen, uni-tuebingen.de/de/228305",
+"faktencheck": "korrigiert",
+"id": "372-bebenhausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bebenhausen",
+"steckbrief": "Stadtteil von Tübingen mit rund 340 Einwohnern, 13 km nordwestlich von Reutlingen.",
+"frage": "Bebenhausen wurde einst „Deutschlands Wochenendhauptstadt“ genannt. Warum?",
+"optionen": [
+"Ein Bundeskanzler verbrachte hier Ferien und Wochenenden.",
+"Ein Wochenendmarkt zog Besucher aus ganz Deutschland an.",
+"Ein Bundespräsident hatte hier seinen Sommersitz.",
+"Viele Großstädter besaßen hier ein Wochenendhaus."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Spitzname klingt nach Ausflüglern und Ferienhäusern. Doch er hing an einem Gast: Bundeskanzler Kurt Georg Kiesinger verbrachte Ferien und Wochenenden in Bebenhausen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/148/330.html",
+"faktencheck": "unsicher",
+"id": "372-bebenhausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bebenhausen",
+"steckbrief": "Stadtteil von Tübingen mit rund 340 Einwohnern, 13 km nordwestlich von Reutlingen.",
+"frage": "Von 1947 bis 1952 tagte in Bebenhausen ein Landtag. Welcher?",
+"optionen": [
+"Der Landtag von Württemberg-Baden tagte hier.",
+"Der Landtag von Rheinland-Pfalz tagte hier.",
+"Der Landtag von Württemberg-Hohenzollern tagte hier.",
+"Der Landtag des Landes Baden tagte hier."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Württemberg-Baden liegt nahe, weil der Name an das heutige Baden-Württemberg erinnert. Doch in Bebenhausen hatte der Landtag von Württemberg-Hohenzollern seinen Sitz, bis das Land Baden-Württemberg entstand. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/148/330.html",
+"faktencheck": "korrigiert",
+"id": "372-bebenhausen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bebenhausen",
+"steckbrief": "Stadtteil von Tübingen mit rund 340 Einwohnern, 13 km nordwestlich von Reutlingen.",
+"frage": "1823 wurde Bebenhausen eine selbstständige Gemeinde. Wer wurde ihr erster Schultheiß?",
+"optionen": [
+"Der Pfarrer der Klosterkirche wurde erster Schultheiß.",
+"Der königliche Förster wurde erster Schultheiß.",
+"Der Wirt des Dorfgasthauses wurde erster Schultheiß.",
+"Ein Küfer des Klosters wurde erster Schultheiß."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Pfarrer liegt nahe, denn bürgerliche und kirchliche Gemeinde wurden erst später getrennt. Erster Schultheiß, also Gemeindevorsteher, wurde aber der Klosterküfer Christian Eberhard Erbe. Ein Küfer stellte Fässer her. Die Selbstständigkeit hatte König Wilhelm I. von Württemberg verkündet. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/148/330.html",
+"faktencheck": "unsicher",
+"id": "372-bebenhausen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "371-waldhaeuser-ost",
+"anschluss": [
+"Einwohner: Waldhäuser Ost zählte rund 4.800, Bebenhausen rund 340.",
+"Höhe: Waldhäuser Ost liegt knapp 30 Meter höher als Bebenhausen."
+],
+"anschluesse": {
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Bebenhausen die Grünen.",
+"Altingen hat fast achtmal so viele Einwohner wie Bebenhausen."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Bebenhausen die Grünen.",
+"Breitenholz hat fast zweieinhalbmal so viele Einwohner wie Bebenhausen."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Bebenhausen die Grünen.",
+"Entringen hat gut elfmal so viele Einwohner wie Bebenhausen."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Bebenhausen die Grünen.",
+"Pfäffingen hat gut fünfmal so viele Einwohner wie Bebenhausen."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Bebenhausen die Grünen.",
+"Poltringen hat gut fünfmal so viele Einwohner wie Bebenhausen."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Bebenhausen die Grünen.",
+"Reusten hat fast dreimal so viele Einwohner wie Bebenhausen."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Tübingen hat rund 275-mal so viele Einwohner wie Bebenhausen."
+],
+"368-unterjesingen": [
+"Unterjesingen hat gut siebenmal so viele Einwohner wie Bebenhausen."
+],
+"369-hagelloch": [
+"Hagelloch hat fünfmal so viele Einwohner wie Bebenhausen.",
+"Bebenhausen hat gut doppelt so viel Fläche wie Hagelloch, aber weniger Einwohner."
+],
+"370-weststadt-tuebingen": [
+"Weststadt hat rund 25-mal so viele Einwohner wie Bebenhausen."
+],
+"371-waldhaeuser-ost": [
+"Einwohner: Waldhäuser Ost zählte rund 4.800, Bebenhausen rund 340.",
+"Höhe: Waldhäuser Ost liegt knapp 30 Meter höher als Bebenhausen."
+],
+"373-lustnau": [
+"Lustnau hat rund 30-mal so viele Einwohner wie Bebenhausen."
+],
+"374-pfrondorf": [
+"Pfrondorf hat zehnmal so viele Einwohner wie Bebenhausen."
+],
+"375-suedstadt-tuebingen": [
+"Südstadt hat rund 30-mal so viele Einwohner wie Bebenhausen."
+],
+"376-derendingen": [
+"Derendingen hat neunzehnmal so viele Einwohner wie Bebenhausen.",
+"Bebenhausen hat doppelt so viel Fläche wie Derendingen, aber weniger Einwohner."
+],
+"377-weilheim-tuebingen": [
+"Weilheim hat fast viermal so viele Einwohner wie Bebenhausen."
+],
+"378-kilchberg-tuebingen": [
+"Kilchberg hat fast viermal so viele Einwohner wie Bebenhausen.",
+"Bebenhausen hat dreimal so viel Fläche wie Kilchberg, aber weniger Einwohner."
+],
+"379-buehl-tuebingen": [
+"Bühl hat sechsmal so viele Einwohner wie Bebenhausen.",
+"Bebenhausen hat gut doppelt so viel Fläche wie Bühl, aber weniger Einwohner."
+],
+"380-hirschau-tuebingen": [
+"Hirschau hat zehnmal so viele Einwohner wie Bebenhausen.",
+"Bebenhausen hat gut doppelt so viel Fläche wie Hirschau, aber weniger Einwohner."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Bebenhausen die Grünen.",
+"Wurmlingen hat fast achtmal so viele Einwohner wie Bebenhausen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Sindelfingen lag die CDU vorn, in Bebenhausen die Grünen."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Bebenhausen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Leinfelden-Echterdingen lag die CDU vorn, in Bebenhausen die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 1.8
+},
+{
+"slug": "373-lustnau",
+"name": "Lustnau",
+"lat": 48.53333,
+"lon": 9.08333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lustnau",
+"steckbrief": "Der Stadtteil von Tübingen hat rund 10.000 Einwohner und liegt 10 km nordwestlich von Reutlingen.",
+"frage": "Ab der zweiten Hälfte des 19. Jahrhunderts verfiel der Lustnauer Weinbau. Was trat laut Ortsgeschichte an seine Stelle?",
+"optionen": [
+"Die Bauern bauten Hopfen an.",
+"Die Bauern bauten Tabak an.",
+"Die Bauern zogen Seidenraupen auf.",
+"Die Bauern legten Spargelfelder an."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Tabak liegt nahe, denn er wuchs im Südwesten auf vielen Feldern. In Lustnau aber wurde der Weinbau, der vor allem am Herrlesberg, am Österberg und in der Neuhalde lag, durch Hopfenanbau ersetzt. Im Ersten Weltkrieg wurde der Hopfenanbau ganz eingestellt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/154/406.html",
+"faktencheck": "korrigiert",
+"id": "373-lustnau/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lustnau",
+"steckbrief": "Der Stadtteil von Tübingen hat rund 10.000 Einwohner und liegt 10 km nordwestlich von Reutlingen.",
+"frage": "Wie groß ist die Fläche von Lustnau?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 16 km²",
+"16 bis unter 30 km²",
+"30 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Stadtteil denkt man an dichte Straßen und damit an wenig Fläche. Lustnau war aber eine eigenständige Gemeinde mit eigener Gemarkung, bevor es nach Tübingen kam. Die Fläche beträgt 14,32 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "373-lustnau/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Lustnau",
+"steckbrief": "Der Stadtteil von Tübingen hat rund 10.000 Einwohner und liegt 10 km nordwestlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Mittelalter gehörte Lustnau den Herren von Lustnau.",
+"Das Lustnauer Rathaus bekam später ein zusätzliches Dachgeschoss.",
+"Der Lustnauer Klosterhof war einst Burg der Ortsherren."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Hof als Sitz der Ortsherren klingt plausibel, zumal Lustnau eigene Herren hatte. Doch der Name verrät es: Der Klosterhof entstand als Wirtschaftshof des Klosters Bebenhausen. Nach der Reformation hatte dort der Klostervogt seinen Dienstsitz. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/154/406.html",
+"faktencheck": "bestätigt",
+"id": "373-lustnau/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lustnau",
+"steckbrief": "Der Stadtteil von Tübingen hat rund 10.000 Einwohner und liegt 10 km nordwestlich von Reutlingen.",
+"frage": "Bei der Bundestagswahl 2025 gewann in der Stadt Tübingen eine Partei die meisten Zweitstimmen. Wie hoch war ihr Anteil?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wo viele Parteien antreten, erwartet man einen knappen Sieger mit mittlerem Anteil. In der Stadt Tübingen, zu der Lustnau gehört, holten die Grünen aber 31,4 Prozent der Zweitstimmen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "373-lustnau/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lustnau",
+"steckbrief": "Der Stadtteil von Tübingen hat rund 10.000 Einwohner und liegt 10 km nordwestlich von Reutlingen.",
+"frage": "Wie viele Menschen leben in Lustnau rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 1.000",
+"1.000 bis unter 2.500",
+"2.500 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil klingt nach Häuserzeilen dicht an dicht und damit nach Großstadtwerten. Rechnerisch kommen in Lustnau aber nur 704 Einwohner auf einen Quadratkilometer, gerechnet mit dem Einwohnerstand Ende 2014. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (dewiki Infobox, Stand 2014-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "373-lustnau/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lustnau",
+"steckbrief": "Der Stadtteil von Tübingen hat rund 10.000 Einwohner und liegt 10 km nordwestlich von Reutlingen.",
+"frage": "Als selbstständige Gemeinde führte Lustnau kein Wappen, wohl aber ein Ortssiegel. Was zeigte es?",
+"optionen": [
+"Es zeigte einen Fisch aus Ammer und Neckar.",
+"Es zeigte eine Pflugschar als Zeichen des Ackerbaus.",
+"Es zeigte den Hirschkopf der ausgestorbenen Ortsherren.",
+"Es zeigte die württembergischen Hirschstangen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Hirsch liegt nahe, denn im württembergischen Wappen stehen Hirschstangen. Das Lustnauer Siegel zeigte aber einen Hirschkopf im Wappenschild, übernommen vom ausgestorbenen Ortsadel, den Herren von Lustnau. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lustnau",
+"faktencheck": "unsicher",
+"id": "373-lustnau/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lustnau / Der Stadtteil von Tübingen hat rund 10.000 Einwohner und liegt 10 km nordwestlich von Reutlingen. / Die Firma Kress, bekannt für Elektrowerkzeuge, wurde 1928 in Tübingen-Lustnau gegründet. Womit fing Christian Kress an? / 1. Er betrieb eine Möbelschreinerei. / 2. Er betrieb eine Werkstatt für Autoelektrik. / 3. Er baute Uhren und feinmechanische Geräte. / 4. Er reparierte Fahrräder und Nähmaschinen.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Fahrräder liegen nahe, denn auch dort wurde damals viel geschraubt und repariert. Christian Kress begann 1928 jedoch mit einer Werkstatt für Autoelektrik. Gleich danach baute er Motoren für Gleich- und Wechselstrom. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Lustnau",
+"faktencheck": "korrigiert",
+"id": "373-lustnau/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "372-bebenhausen",
+"anschluss": [
+"Einwohner: Lustnau zählt rund 10.000, Bebenhausen nur 337."
+],
+"anschluesse": {
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Lustnau die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Lustnau die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Lustnau die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Lustnau die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Lustnau die Grünen.",
+"Lustnau hat viermal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Lustnau die Grünen.",
+"Lustnau hat dreizehnmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Lustnau die Grünen.",
+"Lustnau hat gut zweieinhalbmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Lustnau die Grünen.",
+"Lustnau hat fast sechsmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Lustnau die Grünen.",
+"Lustnau hat fast sechsmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Lustnau die Grünen.",
+"Lustnau hat elfmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Lustnau die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Tübingen hat neunmal so viele Einwohner wie Lustnau."
+],
+"368-unterjesingen": [
+"Lustnau hat viermal so viele Einwohner wie Unterjesingen."
+],
+"369-hagelloch": [
+"Lustnau hat sechsmal so viele Einwohner wie Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Lustnau hat rund 2.000 Einwohner mehr als Weststadt."
+],
+"371-waldhaeuser-ost": [
+"Lustnau hat gut doppelt so viele Einwohner wie Waldhäuser Ost."
+],
+"372-bebenhausen": [
+"Einwohner: Lustnau zählt rund 10.000, Bebenhausen nur 337."
+],
+"374-pfrondorf": [
+"Lustnau hat dreimal so viele Einwohner wie Pfrondorf."
+],
+"375-suedstadt-tuebingen": [
+"Südstadt und Lustnau sind fast gleich groß: rund 9.900 und 10.000 Einwohner."
+],
+"376-derendingen": [
+"Lustnau hat anderthalbmal so viele Einwohner wie Derendingen."
+],
+"377-weilheim-tuebingen": [
+"Lustnau hat achtmal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Lustnau hat achtmal so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Lustnau hat fast fünfmal so viele Einwohner wie Bühl."
+],
+"380-hirschau-tuebingen": [
+"Lustnau hat dreimal so viele Einwohner wie Hirschau."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Lustnau die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Lustnau die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Lustnau die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Lustnau die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Lustnau die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Lustnau die Grünen.",
+"Lustnau hat fast viermal so viele Einwohner wie Wurmlingen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Lustnau die Grünen."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Lustnau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Leinfelden-Echterdingen lag die CDU vorn, in Lustnau die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 3.4
+},
+{
+"slug": "374-pfrondorf",
+"name": "Pfrondorf",
+"lat": 48.54861,
+"lon": 9.1125,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pfrondorf",
+"steckbrief": "Pfrondorf hat rund 3.300 Einwohner und ist ein Stadtteil von Tübingen, 9 km nordwestlich von Reutlingen.",
+"frage": "Woher stammt das Gebäude, in dem das Pfrondorfer Rathaus untergebracht ist?",
+"optionen": [
+"Es war früher die Zehntscheuer des Dorfes.",
+"Es war ursprünglich ein Gasthaus im Ort.",
+"Es wurde als Schulhaus des Dorfes gebaut.",
+"Es war ein Forsthaus und wurde versetzt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein altes Haus aus dem Dorf selbst. Das Gebäude war aber ein Forsthaus auf dem Einsiedel. Es wurde erworben, Stein für Stein abgebrochen, nummeriert und nach Pfrondorf gebracht. Zuvor teilten sich Schule und Rathaus ein Haus im Kohlplattenweg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/155/11502.html",
+"faktencheck": "bestätigt",
+"id": "374-pfrondorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Pfrondorf",
+"steckbrief": "Pfrondorf hat rund 3.300 Einwohner und ist ein Stadtteil von Tübingen, 9 km nordwestlich von Reutlingen.",
+"frage": "Wie groß ist die Gemarkung von Pfrondorf?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 14 km²",
+"14 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein größerer Wert liegt nahe, wenn man an Felder und Wald rund um ein altes Dorf denkt. Pfrondorfs Gemarkung umfasst aber nur 9,85 Quadratkilometer, knapp unter der Grenze von zehn. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "374-pfrondorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Pfrondorf",
+"steckbrief": "Pfrondorf hat rund 3.300 Einwohner und ist ein Stadtteil von Tübingen, 9 km nordwestlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Pfrondorf liegt unten am Ufer des Neckars.",
+"Pfrondorf liegt am Rande des Naturparks Schönbuch.",
+"Von Pfrondorf sieht man die Burg Hohenzollern."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Ufer klingt plausibel, denn Tübingen liegt am Neckar. Pfrondorf aber liegt auf einer Hochfläche über dem Fluss. Von dort reicht der Blick über die Schwäbische Alb, von der Burg Hohenzollern bis zur Burgruine Teck. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/155.html",
+"faktencheck": "bestätigt",
+"id": "374-pfrondorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Pfrondorf",
+"steckbrief": "Pfrondorf hat rund 3.300 Einwohner und ist ein Stadtteil der Universitätsstadt Tübingen, 9 km nordwestlich von Reutlingen.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Tübingen, zu der Pfrondorf gehört: Welche Partei wurde zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"Die Linke",
+"CDU",
+"SPD"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Grünen liegen nahe, denn in Tübingen sind sie stark: Sie wurden sogar stärkste Kraft. Zweite wurde die CDU mit 19,1 Prozent, knapp vor der Linken mit 16,3 Prozent. Die Zahlen gelten für die ganze Stadt Tübingen. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "374-pfrondorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Pfrondorf",
+"steckbrief": "Pfrondorf hat rund 3.300 Einwohner und ist heute ein Stadtteil von Tübingen, 9 km nordwestlich von Reutlingen.",
+"frage": "In welchem Jahr wurde Pfrondorf nach Tübingen eingemeindet?",
+"optionen": [
+"vor 1972",
+"1972 bis 1974",
+"1975 bis 1989",
+"1990 oder später"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein späterer Termin liegt nahe, denn viele Dörfer wurden erst nach langem Ringen eingemeindet. Pfrondorf gehört seit dem 1. Juli 1971 zu Tübingen. Das früher von Arbeitern und Nebenerwerbslandwirten geprägte Dorf zog viele Beschäftigte von Universität, Klinikum und Firmen an. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "374-pfrondorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pfrondorf",
+"steckbrief": "Pfrondorf hat rund 3.300 Einwohner und ist ein Stadtteil von Tübingen, 9 km nordwestlich von Reutlingen.",
+"frage": "1833 bekam Pfrondorf eine evangelische Kirche. Woher kam laut Ortsgeschichte das Geld für den Bau?",
+"optionen": [
+"Die Gemeinde hatte frühere Klostergüter verkauft.",
+"Das Kloster Bebenhausen stiftete den Bau.",
+"Die Stadt Tübingen, zu der Pfrondorf gehörte, gab Zuschüsse.",
+"Die Tübinger Pfalzgrafen schenkten das Geld."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster oder eine Stadt als Geldgeber liegt nahe. Nach den napoleonischen Reformen erhielt aber die Gemeinde die ehemaligen Klostergüter. Mit dem Erlös aus ihrem Verkauf baute sie 1833 die Kirche, laut Ortsgeschichte die erste des Ortes. Zu Tübingen kam Pfrondorf erst 1971. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/155/413.html",
+"faktencheck": "korrigiert",
+"id": "374-pfrondorf/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pfrondorf",
+"steckbrief": "Pfrondorf hat rund 3.300 Einwohner und ist ein Stadtteil von Tübingen, 9 km nordwestlich von Reutlingen.",
+"frage": "Bevor Pfrondorf zu Tübingen kam, führte es ein eigenes Gemeindewappen. Was war darauf zu sehen?",
+"optionen": [
+"Es zeigte einen Pflaumenzweig mit Früchten.",
+"Es zeigte einen Ziehbrunnen mit Eimer.",
+"Es zeigte ein Eichhörnchen mit Tannenzapfen.",
+"Es zeigte einen Hirsch unter einer Eiche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Brunnen oder Pflaumen liegen nahe, denn auf sie geht der Ortsname vermutlich zurück. Das Wappen zeigte aber in Gold ein sitzendes rotes Eichhörnchen auf einem roten Ast, mit einem roten Tannenzapfen in den Vorderpfoten. Seit der Eingemeindung ist es kein amtliches Wappen mehr. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Pfrondorf_(Tübingen)",
+"faktencheck": "unsicher",
+"id": "374-pfrondorf/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pfrondorf",
+"steckbrief": "Pfrondorf hat rund 3.300 Einwohner und ist ein Stadtteil von Tübingen, 9 km nordwestlich von Reutlingen.",
+"frage": "August Nagel, ein Sohn Pfrondorfs, wurde als Erfinder bekannt. Womit?",
+"optionen": [
+"Er erfand eine Maschine zur Nagelherstellung.",
+"Er entwickelte einen Pflug für steile Hänge.",
+"Er konstruierte ein frühes Motorrad.",
+"Er entwickelte eine nach ihm benannte Kamera."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Beim Namen Nagel denkt man leicht an Nägel. August Nagel, 1882 in Pfrondorf geboren, wurde aber als Kamerakonstrukteur bekannt, unter anderem mit der Retina. Aus Pfrondorf stammte auch der Agrarwissenschaftler Theodor Roemer. Richtig war 4.",
+"quelle": "Deutsche Biographie, www.deutsche-biographie.de/ppn123666368.html",
+"faktencheck": "korrigiert",
+"id": "374-pfrondorf/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "373-lustnau",
+"anschluss": [
+"Nach der Reformation verwaltete ein Klosteramt in Lustnau Pfrondorf.",
+"Höhe: Pfrondorf liegt rund 100 Meter höher als Lustnau."
+],
+"anschluesse": {
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Pfrondorf zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Pfrondorf die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Pfrondorf zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Pfrondorf die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Pfrondorf die Grünen.",
+"Pfrondorf hat rund 700 Einwohner mehr als Altingen."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Pfrondorf die Grünen.",
+"Pfrondorf hat fast viereinhalbmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Pfrondorf die Grünen.",
+"Entringen hat rund 500 Einwohner mehr als Pfrondorf."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Pfrondorf die Grünen.",
+"Pfrondorf hat fast doppelt so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Pfrondorf die Grünen.",
+"Pfrondorf hat fast doppelt so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Pfrondorf die Grünen.",
+"Pfrondorf hat dreieinhalbmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Pfrondorf zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Pfrondorf die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Pfrondorf zum Landkreis Landkreis Tübingen.",
+"Tübingen hat rund 30-mal so viele Einwohner wie Pfrondorf."
+],
+"368-unterjesingen": [
+"Pfrondorf hat rund 800 Einwohner mehr als Unterjesingen."
+],
+"369-hagelloch": [
+"Pfrondorf hat fast doppelt so viele Einwohner wie Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Weststadt hat fast zweieinhalbmal so viele Einwohner wie Pfrondorf."
+],
+"371-waldhaeuser-ost": [
+"Waldhäuser Ost hat fast anderthalbmal so viele Einwohner wie Pfrondorf."
+],
+"372-bebenhausen": [
+"Pfrondorf hat zehnmal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Nach der Reformation verwaltete ein Klosteramt in Lustnau Pfrondorf.",
+"Höhe: Pfrondorf liegt rund 100 Meter höher als Lustnau."
+],
+"375-suedstadt-tuebingen": [
+"Südstadt hat dreimal so viele Einwohner wie Pfrondorf."
+],
+"376-derendingen": [
+"Derendingen hat doppelt so viele Einwohner wie Pfrondorf."
+],
+"377-weilheim-tuebingen": [
+"Pfrondorf hat gut zweieinhalbmal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Pfrondorf hat gut zweieinhalbmal so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Pfrondorf hat gut anderthalbmal so viele Einwohner wie Bühl."
+],
+"380-hirschau-tuebingen": [
+"Hirschau und Pfrondorf sind fast gleich groß: rund 3.400 und 3.300 Einwohner."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Pfrondorf zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Pfrondorf die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Pfrondorf zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Pfrondorf die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Pfrondorf zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Pfrondorf die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Pfrondorf zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Pfrondorf die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Pfrondorf zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Pfrondorf die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Pfrondorf die Grünen.",
+"Pfrondorf hat rund 700 Einwohner mehr als Wurmlingen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Pfrondorf zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Pfrondorf die Grünen."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Pfrondorf zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Leinfelden-Echterdingen lag die CDU vorn, in Pfrondorf die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 2.7
+},
+{
+"slug": "375-suedstadt-tuebingen",
+"name": "Südstadt",
+"lat": 48.5134,
+"lon": 9.06525,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Südstadt",
+"steckbrief": "Tübinger Stadtteil mit rund 10.000 Einwohnern (2007), 11 km westlich von Reutlingen.",
+"frage": "Die frühere Loretto-Kaserne in der Südstadt erhielt ihren Namen 1938. Wonach wurde sie benannt?",
+"optionen": [
+"Sie hieß nach einer nahen Wallfahrtskapelle.",
+"Sie trug den Namen eines württembergischen Generals.",
+"Sie erinnerte an eine Schlacht im Ersten Weltkrieg.",
+"Sie erinnerte an eine Schlacht im Dreißigjährigen Krieg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Loretto klingt nach Wallfahrt, denn viele Marienkapellen tragen diesen Namen. Die Kaserne erhielt ihn aber zur Erinnerung an die Loretto-Schlacht im Ersten Weltkrieg. Nach dem Zweiten Weltkrieg nutzte französisches Militär die Anlage. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Südstadt_(Tübingen)",
+"faktencheck": "bestätigt",
+"id": "375-suedstadt-tuebingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Südstadt",
+"steckbrief": "Tübinger Stadtteil mit rund 10.000 Einwohnern (2007), 11 km westlich von Reutlingen.",
+"frage": "Auf welcher Höhe über dem Meer liegt die Tübinger Südstadt?",
+"optionen": [
+"unter 200 m",
+"200 bis unter 250 m",
+"250 bis unter 300 m",
+"300 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an Flusstäler wie den Oberrhein denkt, schätzt die Höhe niedrig. Die Tübinger Südstadt liegt aber auf 323 Metern über dem Meer. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "375-suedstadt-tuebingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Aussage 1 lautet neu: „1. Das Gebäude des Landestheaters war früher eine Möbelfabrik.“ (Aussagen 2 und 3 bleiben gleich.)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Möbelfabrik wirkt wie die Lüge, weil ein Theater selten in einer Fabrik beginnt. Gelogen war aber der Bergfriedhof: Er liegt nicht unten an der Steinlach, sondern oben am Galgenberg im Süden des Stadtteils. Das LTT spielt seit den 1970er-Jahren in der früheren Fabrik Schäfer. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Südstadt_(Tübingen)",
+"faktencheck": "korrigiert",
+"id": "375-suedstadt-tuebingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Südstadt",
+"steckbrief": "Tübinger Stadtteil mit rund 10.000 Einwohnern (2007), 11 km westlich von Reutlingen.",
+"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in der ganzen Stadt Tübingen?",
+"optionen": [
+"92 % und mehr",
+"86 bis unter 92 %",
+"78 bis unter 86 %",
+"unter 78 %"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine niedrigere Zahl liegt nahe, denn bei Bundestagswahlen bleibt meist ein guter Teil der Wahlberechtigten zu Hause. In ganz Tübingen gaben aber 89 Prozent der Wahlberechtigten ihre Stimme ab. Die Zahl gilt für die Gemeinde, nicht nur für die Südstadt. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "375-suedstadt-tuebingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Südstadt",
+"steckbrief": "Tübinger Stadtteil mit rund 10.000 Einwohnern (2007), 11 km westlich von Reutlingen.",
+"frage": "Für das Tübinger Militär entstand 1914 bis 1916 eine neue Kaserne. Welchen Grund nennt die Stadtteilgeschichte dafür?",
+"optionen": [
+"Ein Brand hatte die alte Kaserne zerstört.",
+"Hochwasser hatte die alte Kaserne unbrauchbar gemacht.",
+"Die alte Kaserne war zu klein geworden.",
+"Eine Seuche machte die alte Kaserne unbewohnbar."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Unglück liegt als Anlass nahe, denn Neubauten folgen oft auf Zerstörung. Die alte Kaserne von 1875 war aber schlicht zu klein geworden und blieb danach weiter in Gebrauch. Der Neubau an der Katharinenstraße hieß ab 1938 Loretto-Kaserne. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Südstadt_(Tübingen)",
+"faktencheck": "korrigiert",
+"id": "375-suedstadt-tuebingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Südstadt",
+"steckbrief": "Tübinger Stadtteil mit rund 10.000 Einwohnern (2007), 11 km westlich von Reutlingen.",
+"frage": "Wie weit ist es in Luftlinie von der Tübinger Südstadt bis nach Stuttgart?",
+"optionen": [
+"unter 15 km",
+"15 bis unter 21 km",
+"21 bis unter 27 km",
+"27 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Stuttgart wirkt nah, weil mit Reutlingen eine Großstadt direkt nebenan liegt. In Luftlinie trennen die Tübinger Südstadt und Stuttgart aber 31 Kilometer. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "375-suedstadt-tuebingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Südstadt",
+"steckbrief": "Tübinger Stadtteil mit rund 10.000 Einwohnern (2007), 11 km westlich von Reutlingen.",
+"frage": "Das Loretto-Areal auf früherem Kasernengelände bekam für sein Konzept mehrere Preise. Welches Leitbild steckt dahinter?",
+"optionen": [
+"Es ist als Quartier der kurzen Wege geplant.",
+"Es ist als Gartenstadt nach englischem Vorbild geplant.",
+"Es ist als reines Wohnviertel für Familien geplant.",
+"Es ist als Campus der Universität geplant."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Campus liegt nahe, schließlich ist Tübingen Universitätsstadt. Das Loretto-Areal folgt aber dem Leitbild eines Quartiers der kurzen Wege: Wohnungen, Arbeitsplätze und Geschäfte liegen dicht beieinander. Es entstand auf dem Gelände der früheren Loretto-Kaserne. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Südstadt_(Tübingen)",
+"faktencheck": "korrigiert",
+"id": "375-suedstadt-tuebingen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "374-pfrondorf",
+"anschluss": [
+"Höhe: Pfrondorf liegt gut 100 Meter höher als die Südstadt.",
+"Luftlinie: Pfrondorf liegt näher an Reutlingen als die Südstadt."
+],
+"anschluesse": {
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Südstadt die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Südstadt die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Südstadt die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Südstadt die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Südstadt die Grünen.",
+"Südstadt hat fast viermal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Südstadt die Grünen.",
+"Südstadt hat dreizehnmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Südstadt die Grünen.",
+"Südstadt hat zweieinhalbmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Südstadt die Grünen.",
+"Südstadt hat gut fünfmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Südstadt die Grünen.",
+"Südstadt hat gut fünfmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Südstadt die Grünen.",
+"Südstadt hat fast elfmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Südstadt die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Tübingen hat gut neunmal so viele Einwohner wie Südstadt."
+],
+"368-unterjesingen": [
+"Südstadt hat viermal so viele Einwohner wie Unterjesingen."
+],
+"369-hagelloch": [
+"Südstadt hat fast sechsmal so viele Einwohner wie Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Südstadt hat rund 1.900 Einwohner mehr als Weststadt."
+],
+"371-waldhaeuser-ost": [
+"Südstadt hat gut doppelt so viele Einwohner wie Waldhäuser Ost."
+],
+"372-bebenhausen": [
+"Südstadt hat rund 30-mal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Lustnau und Südstadt sind fast gleich groß: rund 10.000 und 9.900 Einwohner."
+],
+"374-pfrondorf": [
+"Höhe: Pfrondorf liegt gut 100 Meter höher als die Südstadt.",
+"Luftlinie: Pfrondorf liegt näher an Reutlingen als die Südstadt."
+],
+"376-derendingen": [
+"Südstadt hat anderthalbmal so viele Einwohner wie Derendingen."
+],
+"377-weilheim-tuebingen": [
+"Südstadt hat achtmal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Südstadt hat achtmal so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Südstadt hat fast fünfmal so viele Einwohner wie Bühl."
+],
+"380-hirschau-tuebingen": [
+"Südstadt hat dreimal so viele Einwohner wie Hirschau."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Südstadt die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Südstadt die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Südstadt die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Südstadt die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Südstadt die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Südstadt die Grünen.",
+"Südstadt hat fast viermal so viele Einwohner wie Wurmlingen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Südstadt zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Südstadt die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 5.2
+},
+{
+"slug": "376-derendingen",
+"name": "Derendingen",
+"lat": 48.5036,
+"lon": 9.05222,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Derendingen / Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen. / Die St.-Gallus-Kirche in Derendingen gilt bis heute als eine Art Wallfahrtsort für Slowenen. Warum kommen sie gerade hierher? / 1. Ihre Glocken wurden einst in Slowenien gegossen. / 2. Ein slowenischer Reformator war hier Pfarrer. / 3. Ein slowenisches Kloster besaß früher das Dorf. / 4. Die Kirche ist einer slowenischen Kathedrale nachgebaut.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein Kloster, denn Wallfahrten kennt man vor allem aus katholischer Tradition. Doch der slowenische Reformator Primus Truber war in Derendingen Gemeindepfarrer. An ihn erinnert dort ein Denkmal. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/150/358.html",
+"faktencheck": "korrigiert",
+"id": "376-derendingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Derendingen",
+"steckbrief": "Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Wie viele Einwohner kommen in Derendingen auf einen Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 700",
+"700 bis unter 1.200",
+"1.200 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil klingt nach dichter Bebauung, deshalb tippen viele höher. Derendingen liegt aber im Süden Tübingens an den Ausläufern des Rammert. Aus Einwohnerzahl (Stand Ende 2014) und Fläche errechnet, lebten dort 989 Menschen je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Wikidata P1082 (Einwohner, Stand 2014-12-31) und Wikidata P2046 (Fläche)",
+"faktencheck": "bestätigt",
+"id": "376-derendingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Derendingen",
+"steckbrief": "Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Graf schenkte das halbe Dorf einem Kloster.",
+"Verarmte Pfalzgrafen verkauften ihre Dorfhälfte an Württemberg.",
+"Unter Württemberg wurde schließlich das ganze Dorf evangelisch."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Württemberg war evangelisch, also klingt die dritte Aussage glaubwürdig. Doch als das Kloster Zwiefalten seinen Besitz an Württemberg übergab, wurde Derendingen nur politisch geeint. Die früheren Untertanen des Klosters blieben katholisch, die konfessionelle Teilung bestand fort. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/150/359.html",
+"faktencheck": "bestätigt",
+"id": "376-derendingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Derendingen",
+"steckbrief": "Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Bei der Bundestagswahl 2025 lagen die Grünen in der Stadt Tübingen, zu der Derendingen gehört, vorn. Welchen Zweitstimmenanteil holten sie dort?",
+"optionen": [
+"unter 34 %",
+"34 bis unter 38 %",
+"38 bis unter 43 %",
+"43 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer weiß, dass die Grünen in Tübingen vorn lagen, tippt leicht auf einen höheren Anteil. Doch die Stimmen verteilten sich breit: In der ganzen Stadt Tübingen holten die Grünen 31,4 Prozent der Zweitstimmen, deutlich vor der CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "376-derendingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Derendingen",
+"steckbrief": "Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Johann Ludwig Krapf wurde in Derendingen geboren. Welchen Lebensweg schlug er ein?",
+"optionen": [
+"Er wanderte aus und wurde Farmer in Amerika.",
+"Er wirkte als Missionar in Afrika.",
+"Er baute Orgeln für württembergische Kirchen.",
+"Er komponierte als Hofmusiker in Wien."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Auswanderung nach Amerika liegt nahe, denn viele Württemberger suchten dort ihr Glück. Johann Ludwig Krapf aber wurde Missionar in Afrika und verfasste eine Afrika-Reisebeschreibung. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/150/359.html",
+"faktencheck": "korrigiert",
+"id": "376-derendingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Derendingen",
+"steckbrief": "Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "In welchem Zeitraum wurde Derendingen in die Stadt Tübingen eingemeindet?",
+"optionen": [
+"vor 1900",
+"1900 bis 1929",
+"1930 bis 1949",
+"1950 oder später"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele Dörfer wurden erst bei der großen Gemeindereform in Baden-Württemberg zu Stadtteilen, daher liegt ein späterer Tipp nahe. Derendingen kam früher dazu: Am 1. April 1934 wurde es nach Tübingen eingemeindet. Richtig war 3.",
+"quelle": "dewiki Infobox, Artikel Derendingen (Tübingen)",
+"faktencheck": "bestätigt",
+"id": "376-derendingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Derendingen",
+"steckbrief": "Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Die St.-Gallus-Kirche in Derendingen wurde 1514 als Steinkirche gebaut und wenige Jahrzehnte später neu errichtet. Warum?",
+"optionen": [
+"Ein Sturm hatte Dach und Turm eingerissen.",
+"Ein Neckarhochwasser hatte ihre Mauern unterspült.",
+"Ein Erdbeben hatte den Turm einstürzen lassen.",
+"Ein Brand hatte die Kirche zerstört."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Mit Blick über das Neckartal denkt man leicht an Sturm oder Hochwasser. Tatsächlich zerstörte eine Brandkatastrophe die noch junge Steinkirche. Das heutige Gebäude entstand gleich danach. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/150/358.html",
+"faktencheck": "bestätigt",
+"id": "376-derendingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Derendingen",
+"steckbrief": "Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Bis ins 19. Jahrhundert lebte Derendingen von der Landwirtschaft. Womit begann dort die Industrialisierung?",
+"optionen": [
+"Im Ort wurde eine Ölmühle gegründet.",
+"Im Ort wurde eine Tuchfabrik gegründet.",
+"Im Ort wurde eine Ziegelei gegründet.",
+"Im Ort wurde eine Brauerei gegründet."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zwischen Steinlach und Neckar denkt man an Tuchfabriken, die viele württembergische Orte prägten. In Derendingen machte aber die Ölmühle Wohlboldt den Anfang. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/150/359.html",
+"faktencheck": "unsicher",
+"id": "376-derendingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "375-suedstadt-tuebingen",
+"anschluss": [
+"Lage: Derendingen liegt zwischen Südstadt, Weststadt und Weilheim."
+],
+"anschluesse": {
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Derendingen die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Derendingen die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Derendingen die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Derendingen die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Derendingen die Grünen.",
+"Derendingen hat zweieinhalbmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Derendingen die Grünen.",
+"Derendingen hat fast neunmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Derendingen die Grünen.",
+"Derendingen hat gut anderthalbmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Derendingen die Grünen.",
+"Derendingen hat gut dreieinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Derendingen die Grünen.",
+"Derendingen hat gut dreieinhalbmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Derendingen die Grünen.",
+"Derendingen hat siebenmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Derendingen die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Tübingen hat vierzehnmal so viele Einwohner wie Derendingen."
+],
+"368-unterjesingen": [
+"Derendingen hat gut zweieinhalbmal so viele Einwohner wie Unterjesingen."
+],
+"369-hagelloch": [
+"Derendingen hat fast viermal so viele Einwohner wie Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Weststadt hat rund 1.500 Einwohner mehr als Derendingen."
+],
+"371-waldhaeuser-ost": [
+"Derendingen hat rund 1.800 Einwohner mehr als Waldhäuser Ost."
+],
+"372-bebenhausen": [
+"Derendingen hat neunzehnmal so viele Einwohner wie Bebenhausen.",
+"Bebenhausen hat doppelt so viel Fläche wie Derendingen, aber weniger Einwohner."
+],
+"373-lustnau": [
+"Lustnau hat anderthalbmal so viele Einwohner wie Derendingen."
+],
+"374-pfrondorf": [
+"Derendingen hat doppelt so viele Einwohner wie Pfrondorf."
+],
+"375-suedstadt-tuebingen": [
+"Lage: Derendingen liegt zwischen Südstadt, Weststadt und Weilheim."
+],
+"377-weilheim-tuebingen": [
+"Derendingen hat gut fünfmal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Derendingen hat gut fünfmal so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Derendingen hat gut dreimal so viele Einwohner wie Bühl."
+],
+"380-hirschau-tuebingen": [
+"Derendingen hat fast doppelt so viele Einwohner wie Hirschau."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Derendingen die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Derendingen die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Derendingen die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Derendingen die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Derendingen die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Derendingen die Grünen.",
+"Derendingen hat zweieinhalbmal so viele Einwohner wie Wurmlingen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Derendingen die Grünen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Derendingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Starzach lag die CDU vorn, in Derendingen die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 1.5
+},
+{
+"slug": "377-weilheim-tuebingen",
+"name": "Weilheim",
+"lat": 48.489,
+"lon": 9.033,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weilheim",
+"steckbrief": "Weilheim ist ein Stadtteil von Tübingen mit rund 1.300 Einwohnern, 13 km westlich von Reutlingen.",
+"frage": "Von Westen prägt eine lange, einheitliche Scheunenfront das Ortsbild. Welchen Anlass nennt die Ortsgeschichte für ihren Bau?",
+"optionen": [
+"Eine Brandkatastrophe hatte die alten Scheunen zerstört.",
+"Ein Neckarhochwasser hatte die alten Scheunen weggerissen.",
+"Der Bau der Bahnlinie erzwang eine neue Dorfstraße.",
+"Ein Gutsherr ließ einen Musterhof nach Plan anlegen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine so gleichförmige Scheunenzeile wirkt, als hätte man eine neue Dorfstraße angelegt. Tatsächlich war Not der Anlass: Eine Brandkatastrophe hatte große Scheuern im Dorf zerstört. Beim Wiederaufbau baute man nach einheitlichen Grundsätzen. Bis heute ist die Front fast unverändert erhalten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/157/430.html",
+"faktencheck": "korrigiert",
+"id": "377-weilheim-tuebingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weilheim",
+"steckbrief": "Weilheim ist ein Stadtteil von Tübingen im Neckartal mit rund 8 km² Gemarkung, 13 km westlich von Reutlingen.",
+"frage": "Wie viele Einwohner hat Weilheim?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 4.000",
+"4.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Als Stadtteil einer Universitätsstadt könnte Weilheim leicht ein großer Vorort sein. Doch Weilheim zählte 2022 nur 1.270 Einwohner. Richtig war 2.",
+"quelle": "dewiki Infobox, Stand 2022",
+"faktencheck": "bestätigt",
+"id": "377-weilheim-tuebingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Weilheim",
+"steckbrief": "Weilheim ist ein Tübinger Stadtteil mit rund 1.300 Einwohnern, 13 km westlich von Reutlingen.",
+"frage": "1985 wurde die „Weilheimer Stele“ gefunden, ein Pfeiler aus der frühen Bronzezeit. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Original steht noch heute an der Fundstelle.",
+"Der Pfeiler wurde aus Stubensandstein gefertigt.",
+"Der Pfeiler ist auf beiden Seiten verziert."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer heute zur Fundstelle kommt, sieht in ihrer Nähe tatsächlich eine Stele und hält sie leicht für das Original. Es ist eine Nachbildung; das Original steht im Landesmuseum Stuttgart. Der Pfeiler ist ein Hinweis auf Kontakte des Neckarraums mit dem Alpengebiet und Oberitalien. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/157/430.html",
+"faktencheck": "korrigiert",
+"id": "377-weilheim-tuebingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Weilheim",
+"steckbrief": "Weilheim, rund 1.300 Einwohner, ist ein Stadtteil der Universitätsstadt Tübingen, 13 km westlich von Reutlingen.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in der Stadt Tübingen insgesamt die zweitmeisten Zweitstimmen?",
+"optionen": [
+"Die Linke",
+"SPD",
+"GRÜNE",
+"CDU"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Tübingen lagen die Grünen mit 31,4 Prozent vorn. Viele tippen für Platz zwei auf Linke oder SPD, die in Universitätsstädten oft stark sind. Doch Zweite wurde die CDU mit 19,1 Prozent, vor der Linken mit 16,3. Die Werte gelten für ganz Tübingen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "377-weilheim-tuebingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weilheim",
+"steckbrief": "Weilheim, rund 1.300 Einwohner, liegt im Neckartal, 13 km westlich von Reutlingen.",
+"frage": "In welchem Zeitraum wurde Weilheim nach Tübingen eingemeindet?",
+"optionen": [
+"vor 1950",
+"1950 bis 1974",
+"1975 bis 1999",
+"2000 oder später"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Weilheim heute als Tübinger Stadtteil kennt, vermutet leicht eine alte Zugehörigkeit. Doch das Dorf kam erst 1971 im Zuge der Verwaltungsreform in Baden-Württemberg zu Tübingen. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "377-weilheim-tuebingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weilheim",
+"steckbrief": "Weilheim ist ein Tübinger Stadtteil mit rund 1.300 Einwohnern, 13 km westlich von Reutlingen.",
+"frage": "Zu Weilheim gehört das Schlossgut Kreßbach. Was war Kreßbach, als es um 1090 erwähnt wurde?",
+"optionen": [
+"Es war nur eine einzelne Mühle.",
+"Es war ein Wald ohne feste Siedlung.",
+"Es war ein kleines Dorf.",
+"Es war nur ein einzelner Bauernhof."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer heute das Schlossgut sieht, denkt an einen einzelnen Hof. Doch bei seiner Erwähnung war Kreßbach ein kleines Dorf; erst später schrumpfte es zu einem Hofgut. Auch der Eckhof südlich davon gehörte früher zum Besitz des Schlosses. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/157/431.html",
+"faktencheck": "bestätigt",
+"id": "377-weilheim-tuebingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weilheim",
+"steckbrief": "Weilheim, ein Tübinger Stadtteil mit rund 1.300 Einwohnern, liegt 13 km westlich von Reutlingen.",
+"frage": "Weilheim ist um 1090 als „Wilon“ erstmals belegt. In welchem Zusammenhang?",
+"optionen": [
+"Kaiser Heinrich IV. übernachtete dort auf einem Italienzug.",
+"Das Bistum Konstanz richtete dort eine Pfarrei ein.",
+"Die Abtei Reichenau führte es als zinspflichtiges Dorf.",
+"Es erscheint bei der Ausstattung des Klosters Zwiefalten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Kaiserurkunden und Bistumsverzeichnisse sind typische Quellen früher Ortsnamen, das liegt nahe. Weilheim aber erscheint bei der Grundausstattung des Klosters Zwiefalten. Der Name deutet vermutlich auf ein weit höheres Alter des Dorfes. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/157/431.html",
+"faktencheck": "korrigiert",
+"id": "377-weilheim-tuebingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weilheim",
+"steckbrief": "Weilheim ist ein Stadtteil von Tübingen mit rund 1.300 Einwohnern, 13 km westlich von Reutlingen.",
+"frage": "Wer besaß von 1441 bis 1806 das Patronat über Weilheims Nikomedeskirche?",
+"optionen": [
+"Das Tübinger Spital besaß das Patronat.",
+"Das Kloster Hirsau besaß das Patronat.",
+"Der Bischof von Konstanz besaß das Patronat.",
+"Der Deutsche Orden besaß das Patronat."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster oder der Bischof liegen nahe, denn Kirchenrechte lagen oft bei geistlichen Herren. In Weilheim aber ging das Patronat, also das Recht, den Pfarrer vorzuschlagen, 1441 von Württemberg an das Tübinger Spital. Richtig war 1.",
+"quelle": "LEO-BW, Historisches Ortslexikon, Weilheim (Tübingen)",
+"faktencheck": "korrigiert",
+"id": "377-weilheim-tuebingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "376-derendingen",
+"anschluss": [
+"Fläche: Weilheim ist größer als Derendingen, hat aber weniger Einwohner."
+],
+"anschluesse": {
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Weilheim die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Weilheim die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Weilheim die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Weilheim die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Weilheim die Grünen.",
+"Altingen hat doppelt so viele Einwohner wie Weilheim."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Weilheim die Grünen.",
+"Weilheim hat gut anderthalbmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Weilheim die Grünen.",
+"Entringen hat dreimal so viele Einwohner wie Weilheim."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Weilheim die Grünen.",
+"Pfäffingen hat fast anderthalbmal so viele Einwohner wie Weilheim."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Weilheim die Grünen.",
+"Poltringen hat fast anderthalbmal so viele Einwohner wie Weilheim."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Weilheim die Grünen.",
+"Weilheim hat rund 300 Einwohner mehr als Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Weilheim die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Tübingen hat rund 75-mal so viele Einwohner wie Weilheim."
+],
+"368-unterjesingen": [
+"Unterjesingen hat doppelt so viele Einwohner wie Weilheim."
+],
+"369-hagelloch": [
+"Hagelloch hat rund 400 Einwohner mehr als Weilheim."
+],
+"370-weststadt-tuebingen": [
+"Weststadt hat gut sechsmal so viele Einwohner wie Weilheim."
+],
+"371-waldhaeuser-ost": [
+"Waldhäuser Ost hat fast viermal so viele Einwohner wie Weilheim."
+],
+"372-bebenhausen": [
+"Weilheim hat fast viermal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Lustnau hat achtmal so viele Einwohner wie Weilheim."
+],
+"374-pfrondorf": [
+"Pfrondorf hat gut zweieinhalbmal so viele Einwohner wie Weilheim."
+],
+"375-suedstadt-tuebingen": [
+"Südstadt hat achtmal so viele Einwohner wie Weilheim."
+],
+"376-derendingen": [
+"Fläche: Weilheim ist größer als Derendingen, hat aber weniger Einwohner."
+],
+"378-kilchberg-tuebingen": [
+"Kilchberg und Weilheim sind fast gleich groß: rund 1.300 und 1.300 Einwohner."
+],
+"379-buehl-tuebingen": [
+"Bühl hat gut anderthalbmal so viele Einwohner wie Weilheim."
+],
+"380-hirschau-tuebingen": [
+"Hirschau hat gut zweieinhalbmal so viele Einwohner wie Weilheim."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Weilheim die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Weilheim die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Weilheim die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Weilheim die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Weilheim die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Weilheim die Grünen.",
+"Wurmlingen hat doppelt so viele Einwohner wie Weilheim."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Weilheim die Grünen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Weilheim zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Starzach lag die CDU vorn, in Weilheim die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 2.2
+},
+{
+"slug": "378-kilchberg-tuebingen",
+"name": "Kilchberg",
+"lat": 48.4889,
+"lon": 9.01583,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kilchberg / Stadtteil von Tübingen mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie). / Als erste Nennung Kilchbergs gilt eine Urkunde von 1236. In welchem Zusammenhang? / 1. Ein Kloster erhielt den Ort als Schenkung. / 2. Ein Streit um Weiderechte wurde beigelegt. / 3. Eine Steuerliste führte das Dorf auf. / 4. Ein Zeuge einer Adelsheirat hieß nach dem Ort.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Pfalzgraf Wilhelm von Tübingen verheiratete seine Tochter Adelheid mit Kuno von Münzenberg. In der Urkunde steht als Zeuge Heynrikus de Kirchperc. Eine Klosterschenkung liegt nahe, weil viele Orte zuerst in Klosterbüchern auftauchen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/153/398.html",
+"faktencheck": "korrigiert",
+"id": "378-kilchberg-tuebingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kilchberg",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie).",
+"frage": "Wie groß ist die Gemarkung des Stadtteils Kilchberg?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Gemarkung, also die Flur, die zum früheren Dorf Kilchberg gehört, misst nur 4,41 km². Wer an Äcker, Wiesen und Wald eines Dorfes denkt, schätzt leicht größer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "378-kilchberg-tuebingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kilchberg",
+"steckbrief": "Tübinger Stadtteil mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie).",
+"frage": "Zu Kilchberg gehört ein Keltengrabhügel. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Zum Grabhügel gehörte eine menschenähnliche Steinfigur.",
+"Die Gräber im Hügel stammen aus der Römerzeit.",
+"Der Grabhügel erhielt seine alte Form zurück."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Gräber sind viel älter: Sie stammen aus der älteren und der jüngeren Hallstattzeit, einer frühen Epoche der Kelten. An die Römer denkt man leicht, weil sie im Südwesten viele Spuren hinterließen. Bemerkenswert: Das Erscheinungsbild des Denkmals weist auf Beziehungen zum italienisch-etruskischen Raum hin. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/153/397.html",
+"faktencheck": "korrigiert",
+"id": "378-kilchberg-tuebingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kilchberg",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie).",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Stadt Tübingen insgesamt, zu der Kilchberg gehört?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 85 %",
+"85 bis unter 92 %",
+"92 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In der ganzen Stadt Tübingen gaben 89 Prozent der Wahlberechtigten ihre Stimme ab. Wer an übliche Wahlbeteiligungen denkt, tippt leicht zu niedrig. Stärkste Kraft wurden in Tübingen die Grünen, vor der CDU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "korrigiert",
+"id": "378-kilchberg-tuebingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kilchberg",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie).",
+"frage": "Wie weit ist Kilchberg in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 40 km",
+"40 bis unter 60 km",
+"60 bis unter 90 km",
+"90 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bis Stuttgart sind es in Luftlinie nur 35 km. Wer an die Fahrt über Straßen denkt, schätzt leicht zu weit; die Luftlinie misst den geraden Weg. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "378-kilchberg-tuebingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kilchberg / Tübinger Stadtteil mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie). / Wilhelmine Haas war eine Pfarrerstochter aus Kilchberg. Wen heiratete sie? / 1. Den Dichter Friedrich Schiller / 2. Den Verleger Johann Friedrich Cotta / 3. Den Philosophen Georg Wilhelm Friedrich Hegel / 4. Den Dichter Christoph Martin Wieland",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wilhelmine Haas heiratete Johann Friedrich Cotta, den Verleger Schillers und Goethes. Schiller liegt nahe, weil man bei Schwaben und Literatur zuerst an ihn denkt. Richtig war 2. /",
+"quelle": "Deutsche Biographie, deutsche-biographie.de/pnd118961675.html",
+"faktencheck": "korrigiert",
+"id": "378-kilchberg-tuebingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kilchberg",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie).",
+"frage": "Kilchberg pflegt eine Partnerschaft mit Kilchberg in der Schweiz. Wie kam der erste Kontakt zustande?",
+"optionen": [
+"Ein Auswanderer aus Kilchberg suchte dort Verwandte.",
+"Ein Chor gab ein Konzert am Zürichsee.",
+"Ein Schüler schickte Wahlwerbung in die Schweiz.",
+"Eine Schulklasse machte dort einen Ausflug."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Es war ein Schülerstreich: Ein Junge schickte aus Spaß den Handzettel eines Bürgermeisterkandidaten an das gleichnamige Kilchberg bei Zürich. Bei Partnerschaften denkt man eher an Vereine oder Auswanderer, die Kontakte knüpfen. Der Schweizer Gemeindepräsident antwortete, daraus wurde eine Partnerschaft. Richtig war 3. /",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/503.html",
+"faktencheck": "korrigiert",
+"id": "378-kilchberg-tuebingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "377-weilheim-tuebingen",
+"anschluss": [
+"Einwohner 2022: Kilchberg und Weilheim zählen beide genau 1270.",
+"Fläche: Weilheim ist fast doppelt so groß wie Kilchberg."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Eutingen im Gäu lag die CDU vorn, in Kilchberg die Grünen."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Kilchberg die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Kilchberg die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Kilchberg die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Kilchberg die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Kilchberg die Grünen.",
+"Altingen hat doppelt so viele Einwohner wie Kilchberg."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Kilchberg die Grünen.",
+"Kilchberg hat gut anderthalbmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Kilchberg die Grünen.",
+"Entringen hat dreimal so viele Einwohner wie Kilchberg."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Kilchberg die Grünen.",
+"Pfäffingen hat fast anderthalbmal so viele Einwohner wie Kilchberg."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Kilchberg die Grünen.",
+"Poltringen hat fast anderthalbmal so viele Einwohner wie Kilchberg."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Kilchberg die Grünen.",
+"Kilchberg hat rund 300 Einwohner mehr als Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Kilchberg die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Tübingen hat rund 75-mal so viele Einwohner wie Kilchberg."
+],
+"368-unterjesingen": [
+"Unterjesingen hat doppelt so viele Einwohner wie Kilchberg."
+],
+"369-hagelloch": [
+"Hagelloch hat rund 400 Einwohner mehr als Kilchberg."
+],
+"370-weststadt-tuebingen": [
+"Weststadt hat gut sechsmal so viele Einwohner wie Kilchberg."
+],
+"371-waldhaeuser-ost": [
+"Waldhäuser Ost hat fast viermal so viele Einwohner wie Kilchberg."
+],
+"372-bebenhausen": [
+"Kilchberg hat fast viermal so viele Einwohner wie Bebenhausen.",
+"Bebenhausen hat dreimal so viel Fläche wie Kilchberg, aber weniger Einwohner."
+],
+"373-lustnau": [
+"Lustnau hat achtmal so viele Einwohner wie Kilchberg."
+],
+"374-pfrondorf": [
+"Pfrondorf hat gut zweieinhalbmal so viele Einwohner wie Kilchberg."
+],
+"375-suedstadt-tuebingen": [
+"Südstadt hat achtmal so viele Einwohner wie Kilchberg."
+],
+"376-derendingen": [
+"Derendingen hat gut fünfmal so viele Einwohner wie Kilchberg."
+],
+"377-weilheim-tuebingen": [
+"Einwohner 2022: Kilchberg und Weilheim zählen beide genau 1270.",
+"Fläche: Weilheim ist fast doppelt so groß wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Bühl hat gut anderthalbmal so viele Einwohner wie Kilchberg."
+],
+"380-hirschau-tuebingen": [
+"Hirschau hat gut zweieinhalbmal so viele Einwohner wie Kilchberg."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Kilchberg die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Kilchberg die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Kilchberg die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Kilchberg die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Kilchberg die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Kilchberg die Grünen.",
+"Wurmlingen hat doppelt so viele Einwohner wie Kilchberg."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Kilchberg die Grünen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Kilchberg zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Starzach lag die CDU vorn, in Kilchberg die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 1.3
+},
+{
+"slug": "379-buehl-tuebingen",
+"name": "Bühl",
+"lat": 48.4833,
+"lon": 8.99694,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bühl",
+"steckbrief": "Bühl ist ein Tübinger Stadtteil mit rund 2.100 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Wie groß ist die Fläche des Stadtteils Bühl?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 4 km²",
+"4 bis unter 6 km²",
+"6 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei gut zweitausend Einwohnern denkt man an ein kompaktes Dorf und schätzt die Fläche klein. Doch zur Gemarkung, der Fläche eines Ortes, gehören auch Wald und Streuobstwiesen. Bühl umfasst insgesamt 6,41 Quadratkilometer. Richtig war 4.",
+"quelle": "dewiki Infobox, Artikel „Bühl (Tübingen)“",
+"faktencheck": "bestätigt",
+"id": "379-buehl-tuebingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bühl",
+"steckbrief": "Bühl ist ein Tübinger Stadtteil mit rund 2.100 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Südlich des Dorfes liegt das Naturschutzgebiet Bühler Täle.",
+"Bühl gehörte früher einmal zum Oberamt Rottenburg.",
+"Das Steinerne Brückle im Dorf überspannt den Neckar."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Steinbrücken über den Neckar kennt man aus vielen Orten, das klingt glaubhaft. Doch „Brückle“ heißt schwäbisch kleine Brücke: Vom Steinernen Brückle mitten im Dorf springen die Narren an der Fasnet in den Bühlertalbach. Naturschutzgebiet und Oberamt stimmen; ein Oberamt war ein früherer württembergischer Verwaltungsbezirk, ähnlich einem Landkreis. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/149/348.html",
+"faktencheck": "korrigiert",
+"id": "379-buehl-tuebingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bühl",
+"steckbrief": "Bühl ist ein Tübinger Stadtteil mit rund 2.100 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Tübingen: Wie viel Prozent erhielt dort die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 35 %",
+"35 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an den Bundestrend denkt, erwartet die Union vorn. In ganz Tübingen lagen aber die Grünen mit 31,4 Prozent klar vor der CDU mit 19,1 Prozent; die Linke folgte mit 16,3. Die Zahlen gelten für die Stadt, nicht für Bühl allein. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "379-buehl-tuebingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bühl",
+"steckbrief": "Bühl ist ein Tübinger Stadtteil mit rund 2.100 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Was geschah um 1980 mit dem Renaissance-Schloss im Ortskern von Bühl?",
+"optionen": [
+"Die Stadt baute es zur Musikschule um.",
+"Es wurde abgerissen und durch Neubauten ersetzt.",
+"Private Käufer ersteigerten und sanierten es.",
+"Ein Hotelier baute es zum Schlosshotel um."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Schloss mitten im Ort wirkt wie gemacht für eine öffentliche Nutzung durch die Stadt. Doch Tübinger Bürger ersteigerten das Renaissance-Schloss und sanierten es; darin entstanden Eigentumswohnungen. Seine Renaissance-Gestalt verdankt es David von Stein; der Weg, an dessen Kopfende es steht, trägt seinen Namen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/149/347.html",
+"faktencheck": "korrigiert",
+"id": "379-buehl-tuebingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bühl",
+"steckbrief": "Bühl ist ein Tübinger Stadtteil mit rund 2.100 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Wie viele Menschen leben in Bühl rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 175",
+"175 bis unter 250",
+"250 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dorf denkt man an wenige Häuser auf viel Land. Doch Bühl ist dichter besiedelt als erwartet: Rechnerisch kommen 324 Einwohner auf einen Quadratkilometer, ermittelt aus Einwohnerzahl und Fläche, Stand 2022. Richtig war 4.",
+"quelle": "berechnet aus Einwohner und Fläche (dewiki Infobox), Einwohner Stand 2022",
+"faktencheck": "bestätigt",
+"id": "379-buehl-tuebingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bühl",
+"steckbrief": "Bühl ist ein Tübinger Stadtteil mit rund 2.100 Einwohnern, 15 km westlich von Reutlingen.",
+"frage": "Bühls Wappen zeigt zwei gekreuzte silberne Hellebarden auf Blau. Worauf geht es zurück?",
+"optionen": [
+"Es geht auf den alten Ortsadel zurück.",
+"Es stammt vom Zeichen einer Dorfschmiede.",
+"Es stammt von der früheren Bürgerwehr des Dorfes.",
+"Es stammt vom Jesuitenorden, dem Bühl später verpfändet war."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Hellebarden sind Stangenwaffen mit Beil und Spitze; da denkt man an wehrhafte Dorfbewohner. Das Wappen geht aber auf den alten Ortsadel zurück, die Herren von Bühl. Nach dem Tod des kinderlosen Balthasar von Bühl stritten Erben lange um das Dorf. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/149/348.html",
+"faktencheck": "korrigiert",
+"id": "379-buehl-tuebingen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "378-kilchberg-tuebingen",
+"anschluss": [
+"Fläche: Bühl ist genau zwei Quadratkilometer größer als Kilchberg.",
+"Einwohner 2022: Bühl hat gut 800 mehr als Kilchberg."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Eutingen im Gäu lag die CDU vorn, in Bühl die Grünen."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Bühl die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Bühl die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Bühl die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Bühl die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Bühl die Grünen.",
+"Altingen hat rund 500 Einwohner mehr als Bühl."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Bühl die Grünen.",
+"Bühl hat gut zweieinhalbmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Bühl die Grünen.",
+"Entringen hat fast doppelt so viele Einwohner wie Bühl."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Bühl die Grünen.",
+"Bühl hat rund 300 Einwohner mehr als Pfäffingen."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Bühl die Grünen.",
+"Bühl hat rund 300 Einwohner mehr als Poltringen."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Bühl die Grünen.",
+"Bühl hat gut doppelt so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Bühl die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Tübingen hat rund 45-mal so viele Einwohner wie Bühl."
+],
+"368-unterjesingen": [
+"Unterjesingen hat rund 400 Einwohner mehr als Bühl."
+],
+"369-hagelloch": [
+"Bühl hat rund 400 Einwohner mehr als Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Weststadt hat fast viermal so viele Einwohner wie Bühl."
+],
+"371-waldhaeuser-ost": [
+"Waldhäuser Ost hat fast zweieinhalbmal so viele Einwohner wie Bühl."
+],
+"372-bebenhausen": [
+"Bühl hat sechsmal so viele Einwohner wie Bebenhausen.",
+"Bebenhausen hat gut doppelt so viel Fläche wie Bühl, aber weniger Einwohner."
+],
+"373-lustnau": [
+"Lustnau hat fast fünfmal so viele Einwohner wie Bühl."
+],
+"374-pfrondorf": [
+"Pfrondorf hat gut anderthalbmal so viele Einwohner wie Bühl."
+],
+"375-suedstadt-tuebingen": [
+"Südstadt hat fast fünfmal so viele Einwohner wie Bühl."
+],
+"376-derendingen": [
+"Derendingen hat gut dreimal so viele Einwohner wie Bühl."
+],
+"377-weilheim-tuebingen": [
+"Bühl hat gut anderthalbmal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Fläche: Bühl ist genau zwei Quadratkilometer größer als Kilchberg.",
+"Einwohner 2022: Bühl hat gut 800 mehr als Kilchberg."
+],
+"380-hirschau-tuebingen": [
+"Hirschau hat gut anderthalbmal so viele Einwohner wie Bühl."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Bühl die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Bühl die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Bühl die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Bühl die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Bühl die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Bühl die Grünen.",
+"Wurmlingen hat rund 500 Einwohner mehr als Bühl."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Bühl die Grünen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Bühl zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Starzach lag die CDU vorn, in Bühl die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 1.5
+},
+{
+"slug": "380-hirschau-tuebingen",
+"name": "Hirschau",
+"lat": 48.5014,
+"lon": 8.99444,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hirschau",
+"steckbrief": "Rund 3.400 Einwohner; Stadtteil von Tübingen, 16 km westlich von Reutlingen.",
+"frage": "Bis ins frühe 19. Jahrhundert war Hirschau ein Grenzort mit wehrhafter Mauer. Gegen wen richtete sich diese Mauer?",
+"optionen": [
+"Sie schützte vor den Grafen von Hohenberg.",
+"Sie schützte vor den Pfalzgrafen von Tübingen.",
+"Sie schützte vor der Reichsstadt Reutlingen.",
+"Sie schützte vor den Markgrafen von Baden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Reutlingen steht im Steckbrief, und Reichsstädte stritten oft mit ihren Nachbarn. Doch Hirschau war ein Grenzort: Seine wehrhafte Mauer mit Oberem und Unterem Tor schützte vor den Pfalzgrafen von Tübingen, einem mächtigen Adelsgeschlecht. Ausgerechnet zu Tübingen gehört Hirschau heute als Stadtteil. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/152/378.html",
+"faktencheck": "unsicher",
+"id": "380-hirschau-tuebingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hirschau",
+"steckbrief": "Rund 3.400 Einwohner; Stadtteil von Tübingen, 16 km westlich von Reutlingen.",
+"frage": "Hirschau liegt am Fuß des Spitzbergs. Wie hoch über dem Meeresspiegel liegt der Ort?",
+"optionen": [
+"unter 250 m",
+"250 bis unter 300 m",
+"300 bis unter 375 m",
+"375 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schwaben verbindet man mit Alb und Höhenzügen, da schätzt man leicht zu hoch. Hirschau liegt aber unten am Fuß des Spitzbergs, auf 330 bis 332 Metern über dem Meer. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "380-hirschau-tuebingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hirschau",
+"steckbrief": "Rund 3.400 Einwohner; Stadtteil von Tübingen, 16 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bis zum Pressburger Frieden gehörte Hirschau zu Württemberg.",
+"Hirschaus Pfarrkirche St. Ägidius ist eine katholische Kirche.",
+"Ein Ulmer Künstler gestaltete die Chorfenster der Pfarrkirche."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Württemberg liegt nahe, denn Tübingen war württembergisch. Doch Hirschau gehörte jahrhundertelang zur Grafschaft Hohenberg in Vorderösterreich, also zu den habsburgischen Gebieten im Südwesten. Erst der Pressburger Frieden, ein Friedensschluss der Napoleonzeit, brachte das Dorf an Württemberg. Das passt zur katholischen Pfarrkirche. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/152/378.html",
+"faktencheck": "bestätigt",
+"id": "380-hirschau-tuebingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hirschau",
+"steckbrief": "Rund 3.400 Einwohner; Stadtteil von Tübingen, 16 km westlich von Reutlingen.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Tübingen: Die Grünen lagen vorn. Welche Partei wurde Zweite?",
+"optionen": [
+"CDU",
+"Die Linke",
+"SPD",
+"AfD"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wo die Grünen klar vorn liegen, erwartet man dahinter oft SPD oder Linke. In der Stadt Tübingen wurde aber die CDU mit 19,1 Prozent Zweite, vor der Linken mit 16,3 und der SPD mit 15,9 Prozent. Die Zahlen gelten für ganz Tübingen, nicht nur für Hirschau. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Werte der Stadt Tübingen",
+"faktencheck": "bestätigt",
+"id": "380-hirschau-tuebingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„Am Fuß des Spitzbergs steht die Riedkelter. Welchem Kloster gehörte sie früher?“ RÜCKSEITE: „Du hattest [Option] getippt. Hirsau liegt nahe, denn der Name klingt fast wie Hirschau. Doch früher gehörte die Riedkelter dem Kloster Kreuzlingen bei Konstanz. In einer Kelter wurden früher die Trauben gepresst. Richtig war 2.“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hirsau liegt nahe: Der Name klingt fast wie Hirschau, und das Kloster liegt nicht weit entfernt im Schwarzwald. Doch ursprünglich gehörte die Riedkelter dem Kloster Kreuzlingen am Bodensee. In einer Kelter wurden früher die Trauben gepresst. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/152/377.html",
+"faktencheck": "korrigiert",
+"id": "380-hirschau-tuebingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hirschau",
+"steckbrief": "Rund 3.400 Einwohner; Stadtteil von Tübingen, 16 km westlich von Reutlingen.",
+"frage": "Hirschau pflegt eine Partnerschaft mit einer Gemeinde im Elsass. Mit welcher?",
+"optionen": [
+"Wissembourg",
+"Riquewihr",
+"Kingersheim",
+"Obernai"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Elsässer Weinorte wie Riquewihr oder Obernai liegen nahe, denn auch Hirschau ist ein altes Weindorf mit einst sechs Keltern. Hirschaus Partnergemeinde ist aber Kingersheim im Elsass, seit 1963. Richtig war 3.",
+"quelle": "Gemeinde-Webseite (webarchiv.tuebingen.de/2023-08-23/en/3330/3484.html; www.tuebingen.de/152/377.html)",
+"faktencheck": "korrigiert",
+"id": "380-hirschau-tuebingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hirschau",
+"steckbrief": "Rund 3.400 Einwohner; Stadtteil von Tübingen, 16 km westlich von Reutlingen.",
+"frage": "Bei der alten Hirschauer Wallfahrtskapelle liegt heute der Friedhof. Ihr Name nennt neben Maria einen Heiligen. Welchen?",
+"optionen": [
+"Der Name nennt den heiligen Georg.",
+"Der Name nennt den heiligen Florian.",
+"Der Name nennt den heiligen Christophorus.",
+"Der Name nennt den heiligen Urban."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Florian liegt nahe, er ist in vielen Dörfern Schutzpatron gegen Feuer. Die Kapelle heißt aber „Zu unserer lieben Frau beim Holderbusch und St. Urban“; mit „Unserer lieben Frau“ ist Maria gemeint. Urban gilt als Schutzpatron der Winzer. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/152/377.html",
+"faktencheck": "korrigiert",
+"id": "380-hirschau-tuebingen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "379-buehl-tuebingen",
+"anschluss": [
+"Fläche: Bühl ist größer als Hirschau, hat aber weniger Einwohner.",
+"Katholische Mehrheit hatten unter Tübingens Stadtteilen nur Hirschau und Bühl."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Eutingen im Gäu lag die CDU vorn, in Hirschau die Grünen."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Hirschau die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Hirschau die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Hirschau die Grünen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kayh lag die CDU vorn, in Hirschau die Grünen."
+],
+"362-altingen": [
+"Bundestagswahl 2025: In Altingen lag die CDU vorn, in Hirschau die Grünen.",
+"Hirschau hat rund 800 Einwohner mehr als Altingen."
+],
+"363-breitenholz": [
+"Bundestagswahl 2025: In Breitenholz lag die CDU vorn, in Hirschau die Grünen.",
+"Hirschau hat viereinhalbmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Bundestagswahl 2025: In Entringen lag die CDU vorn, in Hirschau die Grünen.",
+"Entringen hat rund 500 Einwohner mehr als Hirschau."
+],
+"365-pfaeffingen": [
+"Bundestagswahl 2025: In Pfäffingen lag die CDU vorn, in Hirschau die Grünen.",
+"Hirschau hat fast doppelt so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Bundestagswahl 2025: In Poltringen lag die CDU vorn, in Hirschau die Grünen.",
+"Hirschau hat fast doppelt so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Bundestagswahl 2025: In Reusten lag die CDU vorn, in Hirschau die Grünen.",
+"Hirschau hat gut dreieinhalbmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Ammerbuch lag die CDU vorn, in Hirschau die Grünen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Tübingen hat rund 25-mal so viele Einwohner wie Hirschau."
+],
+"368-unterjesingen": [
+"Hirschau hat rund 900 Einwohner mehr als Unterjesingen."
+],
+"369-hagelloch": [
+"Hirschau hat doppelt so viele Einwohner wie Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Weststadt hat fast zweieinhalbmal so viele Einwohner wie Hirschau."
+],
+"371-waldhaeuser-ost": [
+"Waldhäuser Ost hat fast anderthalbmal so viele Einwohner wie Hirschau."
+],
+"372-bebenhausen": [
+"Hirschau hat zehnmal so viele Einwohner wie Bebenhausen.",
+"Bebenhausen hat gut doppelt so viel Fläche wie Hirschau, aber weniger Einwohner."
+],
+"373-lustnau": [
+"Lustnau hat dreimal so viele Einwohner wie Hirschau."
+],
+"374-pfrondorf": [
+"Pfrondorf und Hirschau sind fast gleich groß: rund 3.300 und 3.400 Einwohner."
+],
+"375-suedstadt-tuebingen": [
+"Südstadt hat dreimal so viele Einwohner wie Hirschau."
+],
+"376-derendingen": [
+"Derendingen hat fast doppelt so viele Einwohner wie Hirschau."
+],
+"377-weilheim-tuebingen": [
+"Hirschau hat gut zweieinhalbmal so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Hirschau hat gut zweieinhalbmal so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Fläche: Bühl ist größer als Hirschau, hat aber weniger Einwohner.",
+"Katholische Mehrheit hatten unter Tübingens Stadtteilen nur Hirschau und Bühl."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dettenhausen lag die CDU vorn, in Hirschau die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kirchentellinsfurt lag die CDU vorn, in Hirschau die Grünen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kusterdingen lag die CDU vorn, in Hirschau die Grünen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gomaringen lag die CDU vorn, in Hirschau die Grünen."
+],
+"385-dusslingen": [
+"Kreisgrenze: Dußlingen gehört zum Landkreis Tübingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Dußlingen lag die CDU vorn, in Hirschau die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Bundestagswahl 2025: In Wurmlingen lag die CDU vorn, in Hirschau die Grünen.",
+"Hirschau hat rund 800 Einwohner mehr als Wurmlingen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Hirschau die Grünen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Hirschau zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Starzach lag die CDU vorn, in Hirschau die Grünen."
+]
+},
+"ags": "08416041",
+"ortsteil": true,
+"km_vom_vorigen": 2.0
+},
+{
+"slug": "381-dettenhausen",
+"name": "Dettenhausen",
+"lat": 48.6075,
+"lon": 9.10056,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dettenhausen",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 15 km nordwestlich von Reutlingen.",
+"frage": "Robert Schlienz war Meisterkapitän des VfB Stuttgart und liegt in Dettenhausen begraben. Wie verlor er seinen linken Unterarm?",
+"optionen": [
+"Ein geliehener Wagen kippte nach einem Schlagloch um.",
+"Eine Kriegsverletzung kostete ihn den Arm.",
+"Eine Maschine erfasste ihn bei der Arbeit.",
+"Nach einem Foul entzündete sich die Wunde."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Kriegsverwundung liegt nahe, denn Schlienz wurde an der Ostfront schwer verwundet; davon blieb ihm eine Narbe im Gesicht. Den Unterarm verlor er nach dem Krieg, als ein geliehener Opel-Pritschenwagen nach einem Schlagloch umkippte. Danach spielte er als Außenläufer weiter und führte den VfB als Kapitän zu Meistertiteln. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.dettenhausen.de/Entdecken-Erleben/Unsere-Gemeinde/Persoenlichkeiten-im-Ort/Schlienz,Robert",
+"faktencheck": "bestätigt",
+"id": "381-dettenhausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dettenhausen",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 15 km nordwestlich von Reutlingen.",
+"frage": "Wie viele Einwohner leben in Dettenhausen auf einem Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 700",
+"700 bis unter 1.200",
+"1.200 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Gemeinde mit rund 5.500 Einwohnern wirkt ländlich, daher liegt eine geringe Dichte nahe. Dettenhausen hat aber nur eine kleine Gemeindefläche, und so kommen auf jeden Quadratkilometer rund 500 Menschen. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "381-dettenhausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Dettenhausen",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 15 km nordwestlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Vor dem Zweiten Weltkrieg war Dettenhausen arm.",
+"Das Polizeimuseum zeigt vor allem bayerische Polizeigeschichte.",
+"Schönbuch-Sandstein wurde am Kölner Dom verbaut."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Kölner Dom klingt weit hergeholt, doch Stubensandstein aus den Schönbuch-Steinbrüchen wurde dort verbaut, ebenso am Ulmer Münster. Und vor dem Zweiten Weltkrieg war Dettenhausen tatsächlich ein armes Dorf. Gelogen ist Bayern: Das Polizeimuseum dokumentiert Ausrüstung und Technik der Polizei in Baden-Württemberg. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.dettenhausen.de/Entdecken-Erleben/Museen/Polizeimuseum; www.dettenhausen.de/Entdecken-Erleben/Unsere-Gemeinde/Geschichte; www.dettenhausen.de/Entdecken-Erleben/Museen/Schoenbuchmuseum",
+"faktencheck": "korrigiert",
+"id": "381-dettenhausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dettenhausen",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 15 km nordwestlich von Reutlingen.",
+"frage": "Wie hoch war die Wahlbeteiligung in Dettenhausen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 78 %",
+"78 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land wird die Beteiligung oft niedriger vermutet, daher liegt eine mittlere Spanne nahe. In Dettenhausen gaben bei der Bundestagswahl 2025 aber 87,7 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Kraft wurde die CDU, vor der AfD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "381-dettenhausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dettenhausen",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 15 km nordwestlich von Reutlingen.",
+"frage": "Wie entstand das Polizeimuseum im Alten Rathaus von Dettenhausen?",
+"optionen": [
+"Ein Polizist des Orts stellte seine Sammlung auf der Dienststelle aus.",
+"Ein Polizeiverein kaufte das Rathaus für seine Sammlung.",
+"Ein Filmteam ließ seine Krimi-Requisiten im Ort.",
+"Eine Polizeischule lagerte ihr Lehrmaterial dorthin aus."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Polizeischule liegt nahe, denn Lehrsammlungen landen oft im Museum. Hier zeigte aber der örtliche Polizeibeamte Bernhard Strobel seine Sammlung auf seiner Dienststelle im Alten Rathaus. Als der Polizeiposten umzog und Strobel in Pension ging, beschloss der Gemeinderat, die Sammlung zu erhalten und mit ihm dort ein Museum einzurichten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.dettenhausen.de/Entdecken-Erleben/Museen/Polizeimuseum",
+"faktencheck": "korrigiert",
+"id": "381-dettenhausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Dettenhausen",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 15 km nordwestlich von Reutlingen und 20 km von Stuttgart.",
+"frage": "Zu welchem Landkreis gehört Dettenhausen?",
+"optionen": [
+"Landkreis Reutlingen",
+"Landkreis Tübingen",
+"Landkreis Böblingen",
+"Landkreis Esslingen"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Reutlingen ist die nächste Großstadt, darum liegt der Landkreis Reutlingen nahe; auch Stuttgart mit seinen Nachbarkreisen ist nicht weit. Dettenhausen gehört aber zum Landkreis Tübingen. Das Hauptkennzeichen ist deshalb TÜ. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "381-dettenhausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dettenhausen",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 15 km nordwestlich von Reutlingen.",
+"frage": "Das Schönbuchmuseum in Dettenhausen erzählt die Geschichte des Schönbuchs. Wie sah diese Landschaft bis um 1800 aus?",
+"optionen": [
+"Ein dichter Fichtenwald bedeckte das ganze Gebiet.",
+"Dort wuchs ein dichter, unberührter Buchenurwald.",
+"Es war Weideland mit einzelnen Eichen, kaum Wald.",
+"Ein geschlossener Eichenwald mit uralten Bäumen stand dort."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Heute denkt man beim Schönbuch an ein großes Waldgebiet, darum liegt ein dichter Wald nahe. Bis um 1800 gab es dort aber keine Nadelbäume und keinen Wald im heutigen Sinn: Der Schönbuch diente als Viehweide und versorgte umliegende Orte mit Energie. Goethe beschrieb einzelne Eichen auf der Trift, dem Weideland. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.dettenhausen.de/Entdecken-Erleben/Museen/Schoenbuchmuseum",
+"faktencheck": "korrigiert",
+"id": "381-dettenhausen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "380-hirschau-tuebingen",
+"anschluss": [
+"Einwohner: Dettenhausen hat rund 2.100 mehr als Hirschau.",
+"Fläche: Dettenhausen ist fast doppelt so groß wie Hirschau."
+],
+"anschluesse": {
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Dettenhausen zum Landkreis Tübingen.",
+"Herrenberg hat gut sechsmal so viele Einwohner wie Dettenhausen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Dettenhausen zum Landkreis Tübingen.",
+"Dettenhausen hat gut dreimal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Dettenhausen hat gut doppelt so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Dettenhausen hat gut siebenmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Dettenhausen hat fast anderthalbmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Dettenhausen hat dreimal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Dettenhausen hat dreimal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Dettenhausen hat sechsmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Ammerbuch hat gut doppelt so viele Einwohner wie Dettenhausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ammerbuch die Grünen, in Dettenhausen die AfD."
+],
+"93-tuebingen": [
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Dettenhausen die CDU.",
+"Tübingen hat siebzehnmal so viele Einwohner wie Dettenhausen."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"374-pfrondorf": [
+"Kreisgrenze: Pfrondorf gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Dettenhausen die CDU."
+],
+"380-hirschau-tuebingen": [
+"Einwohner: Dettenhausen hat rund 2.100 mehr als Hirschau.",
+"Fläche: Dettenhausen ist fast doppelt so groß wie Hirschau."
+],
+"382-kirchentellinsfurt": [
+"Kirchentellinsfurt und Dettenhausen sind fast gleich groß: rund 5.500 und 5.500 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kirchentellinsfurt die Grünen, in Dettenhausen die AfD."
+],
+"383-kusterdingen": [
+"Kusterdingen hat gut anderthalbmal so viele Einwohner wie Dettenhausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kusterdingen die Grünen, in Dettenhausen die AfD."
+],
+"384-gomaringen": [
+"Gomaringen hat gut anderthalbmal so viele Einwohner wie Dettenhausen."
+],
+"385-dusslingen": [
+"Dußlingen hat rund 700 Einwohner mehr als Dettenhausen."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Dettenhausen zum Landkreis Tübingen.",
+"Dettenhausen hat gut doppelt so viele Einwohner wie Wurmlingen."
+],
+"94-rottenburg": [
+"Rottenburg am Neckar hat gut achtmal so viele Einwohner wie Dettenhausen."
+],
+"272-sindelfingen": [
+"Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Dettenhausen zum Landkreis Tübingen.",
+"Sindelfingen hat elfmal so viele Einwohner wie Dettenhausen."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Dettenhausen zum Landkreis Tübingen.",
+"Leinfelden-Echterdingen hat fast achtmal so viele Einwohner wie Dettenhausen."
+],
+"101-stuttgart": [
+"Kreisgrenze: Stuttgart ist kreisfrei, Dettenhausen gehört zum Landkreis Tübingen.",
+"Stuttgart hat rund 110-mal so viele Einwohner wie Dettenhausen."
+],
+"274-ostfildern": [
+"Kreisgrenze: Ostfildern gehört zum Landkreis Esslingen, Dettenhausen zum Landkreis Tübingen.",
+"Ostfildern hat gut siebenmal so viele Einwohner wie Dettenhausen."
+],
+"275-denkendorf": [
+"Kreisgrenze: Denkendorf gehört zum Landkreis Esslingen, Dettenhausen zum Landkreis Tübingen.",
+"Denkendorf hat doppelt so viele Einwohner wie Dettenhausen."
+]
+},
+"ags": "08416009",
+"ortsteil": false,
+"km_vom_vorigen": 14.1
+},
+{
+"slug": "382-kirchentellinsfurt",
+"name": "Kirchentellinsfurt",
+"lat": 48.53111,
+"lon": 9.14833,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchentellinsfurt",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 6 km nordwestlich von Reutlingen.",
+"frage": "Kirchentellinsfurt wurde 60 Jahre später evangelisch als die Nachbardörfer. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Ein Pfarrer verweigerte den Wechsel bis zum Tod.",
+"Ein Brand hatte die Kirche lange unbenutzbar gemacht.",
+"Ein Hochwasser schnitt das Dorf jahrelang ab.",
+"Erst dann kaufte ein evangelischer Herzog die Ortsherrschaft."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein sturer Pfarrer liegt nahe, Glaubenswechsel stießen oft auf Widerstand. Doch Ortsherr war die Familie Widmann von Mühringen. Erst als Hans-Christoph Widmann alles, was ihm hier gehörte, an den Herzog von Württemberg verkaufte, wurden die Kirchentellinsfurter württembergische Untertanen und evangelisch. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait",
+"faktencheck": "korrigiert",
+"id": "382-kirchentellinsfurt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kirchentellinsfurt",
+"steckbrief": "Gemeinde mit rund 11 km² Fläche, 6 km nordwestlich von Reutlingen.",
+"frage": "Wie viele Einwohner hat Kirchentellinsfurt?",
+"optionen": [
+"unter 6.000",
+"6.000 bis unter 9.000",
+"9.000 bis unter 13.000",
+"13.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Reutlingen lässt an eine größere Gemeinde denken. Doch Kirchentellinsfurt zählte Ende 2025 genau 5.487 Einwohner. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "382-kirchentellinsfurt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kirchentellinsfurt",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 6 km nordwestlich von Reutlingen.",
+"frage": "Der Ort wuchs aus Kirchen und Tälisfurt zusammen. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"König Heinrich II. schenkte Kirchen dem Bistum Bamberg.",
+"Das Gestüt Einsiedel war Muttergestüt des Landesgestüts Marbach.",
+"Tälisfurt war einst größer als das Dorf Kirchen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der König klingt nach Übertreibung, doch Heinrich II. schenkte das Dorf Kirchen tatsächlich dem Bistum Bamberg. Und das Gestüt Einsiedel war wirklich Muttergestüt des Landesgestüts Marbach. Gelogen ist Tälisfurt: Es dürfte anfangs nur ein Weiler aus wenigen Häusern gewesen sein. Kirchen war wichtiger, größer und wohl auch älter. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait",
+"faktencheck": "korrigiert",
+"id": "382-kirchentellinsfurt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kirchentellinsfurt",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 6 km nordwestlich von Reutlingen.",
+"frage": "Bei der Bundestagswahl 2025 wurde die CDU in Kirchentellinsfurt stärkste Partei. Wie hoch war ihr Zweitstimmenanteil?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 27 %",
+"27 bis unter 34 %",
+"34 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im konservativ geprägten Württemberg traut man der CDU leicht mehr zu. In Kirchentellinsfurt kam sie bei den Zweitstimmen auf 31,1 Prozent, die Grünen wurden Zweite. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "382-kirchentellinsfurt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchentellinsfurt",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 6 km nordwestlich von Reutlingen.",
+"frage": "Wenige Tage vor Kriegsende 1945 wurde die Neckarbrücke von Kirchentellinsfurt zerstört. Wer zerstörte sie?",
+"optionen": [
+"Alliierte Bomber zerstörten sie bei einem Luftangriff.",
+"Amerikanische Panzer schossen sie in Trümmer.",
+"Französische Pioniere sprengten sie beim Vormarsch.",
+"Deutsche Einheiten sprengten sie selbst."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bomber liegen nahe, viele Brücken fielen im Krieg Luftangriffen zum Opfer. Hier sprengten deutsche Einheiten die Brücke selbst. An der Talstraße legten sie Panzersperren an, das Dorf sollte verteidigt werden. Dazu kam es zum Glück nicht, Kirchentellinsfurt blieb weitgehend von Zerstörungen verschont. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait",
+"faktencheck": "bestätigt",
+"id": "382-kirchentellinsfurt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kirchentellinsfurt",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 6 km nordwestlich von Reutlingen.",
+"frage": "Welches Kfz-Kennzeichen tragen die meisten Autos in Kirchentellinsfurt?",
+"optionen": [
+"TÜ",
+"RT",
+"BB",
+"ES"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. RT liegt nahe, denn Reutlingen ist die nächste Großstadt. Doch Kirchentellinsfurt gehört zum Landkreis Tübingen, und dort steht TÜ am Auto. Richtig war 1.",
+"quelle": "Altbestand geo.sqlite (Kreis 08416); Landkreis: dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "382-kirchentellinsfurt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchentellinsfurt",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 6 km nordwestlich von Reutlingen.",
+"frage": "Uhland besang einen Baum im Hof des Jagdschlosses Einsiedel, den Graf Eberhard selbst gepflanzt haben soll. Welcher Baum war es?",
+"optionen": [
+"Es war eine Linde.",
+"Es war ein Weißdorn.",
+"Es war eine Eiche.",
+"Es war eine Edelkastanie."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Linde liegt nahe, sie ist der klassische Hofbaum. Doch es war ein Weißdorn: Graf Eberhard von Württemberg soll ihn der Sage nach selbst gepflanzt haben. Er ließ auch das Jagdschloss im Einsiedel bauen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait",
+"faktencheck": "korrigiert",
+"id": "382-kirchentellinsfurt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchentellinsfurt",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 6 km nordwestlich von Reutlingen.",
+"frage": "Zwischen 1849 und 1858 sank die Einwohnerzahl, obwohl die Zahl der Geburten stark stieg. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Eine Seuche raffte viele Bewohner dahin.",
+"Die neue Bahn lockte Arbeiter in die Städte.",
+"Viele Bewohner wanderten wegen ihrer Armut aus.",
+"Württemberg siedelte Familien in andere Dörfer um."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Seuche liegt nahe, sie erklärt viele Einbrüche in alten Dorfchroniken. Hier war es Armut: Die Bauernbefreiung machte die Bewohner zu freien Eigentümern, aber kaum reicher. Viele wanderten aus. Die Bahn kam erst danach und brachte dem Dorf später Aufschwung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait",
+"faktencheck": "unsicher",
+"id": "382-kirchentellinsfurt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchentellinsfurt",
+"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 6 km nordwestlich von Reutlingen.",
+"frage": "Die Kirche im Ort ist dem heiligen Martin geweiht. Was verrät dieser Patron laut Ortsgeschichte?",
+"optionen": [
+"Die Kirche geht vermutlich auf die Franken zurück.",
+"Ein Ritter namens Martin hat sie gestiftet.",
+"Der Ort lag an einem Pilgerweg nach Tours.",
+"Das Dorf hielt einst einen großen Martinsmarkt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Ritter namens Martin liegt nahe, Stifter prägten oft ihre Kirchen. Doch Martin war der Lieblingsheilige der Franken, ein sicheres Zeichen für das Alter der Kirche. Vermutlich gründeten die Franken sie als Zentrum ihrer Herrschaft und der Christianisierung. Im Mittelalter war sie Mutterkirche für Nachbarorte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait",
+"faktencheck": "unsicher",
+"id": "382-kirchentellinsfurt/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "381-dettenhausen",
+"anschluss": [
+"Einwohner: Dettenhausen hat nur 19 mehr als Kirchentellinsfurt.",
+"Fläche: Kirchentellinsfurt und Dettenhausen messen beide rund elf Quadratkilometer."
+],
+"anschluesse": {
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Kirchentellinsfurt hat gut dreimal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Kirchentellinsfurt hat gut doppelt so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Kirchentellinsfurt hat siebenmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Kirchentellinsfurt hat fast anderthalbmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Kirchentellinsfurt hat dreimal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Kirchentellinsfurt hat dreimal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Kirchentellinsfurt hat sechsmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Ammerbuch hat gut doppelt so viele Einwohner wie Kirchentellinsfurt."
+],
+"93-tuebingen": [
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Kirchentellinsfurt die CDU.",
+"Tübingen hat siebzehnmal so viele Einwohner wie Kirchentellinsfurt."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"374-pfrondorf": [
+"Kreisgrenze: Pfrondorf gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Kirchentellinsfurt die CDU."
+],
+"381-dettenhausen": [
+"Einwohner: Dettenhausen hat nur 19 mehr als Kirchentellinsfurt.",
+"Fläche: Kirchentellinsfurt und Dettenhausen messen beide rund elf Quadratkilometer."
+],
+"383-kusterdingen": [
+"Kusterdingen hat gut anderthalbmal so viele Einwohner wie Kirchentellinsfurt."
+],
+"384-gomaringen": [
+"Gomaringen hat gut anderthalbmal so viele Einwohner wie Kirchentellinsfurt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Gomaringen die AfD, in Kirchentellinsfurt die Grünen."
+],
+"385-dusslingen": [
+"Dußlingen hat rund 700 Einwohner mehr als Kirchentellinsfurt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Dußlingen die AfD, in Kirchentellinsfurt die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Kirchentellinsfurt hat gut doppelt so viele Einwohner wie Wurmlingen."
+],
+"94-rottenburg": [
+"Rottenburg am Neckar hat gut achtmal so viele Einwohner wie Kirchentellinsfurt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rottenburg am Neckar die AfD, in Kirchentellinsfurt die Grünen."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Kirchentellinsfurt zum Landkreis Tübingen.",
+"Leinfelden-Echterdingen hat fast achtmal so viele Einwohner wie Kirchentellinsfurt."
+]
+},
+"ags": "08416022",
+"ortsteil": false,
+"km_vom_vorigen": 9.2
+},
+{
+"slug": "383-kusterdingen",
+"name": "Kusterdingen",
+"lat": 48.52222,
+"lon": 9.12083,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kusterdingen",
+"steckbrief": "Zur Gemeinde mit rund 9.100 Einwohnern, 7 km nordwestlich von Reutlingen, gehört der Ortsteil Jettenburg.",
+"frage": "Bei Ausgrabungen in Jettenburg kam ein steinerner Burgturm zutage. Wann wurde er nach den Funden errichtet?",
+"optionen": [
+"Er entstand im 2. oder 3. Jahrhundert.",
+"Er entstand im 13. oder 14. Jahrhundert.",
+"Er entstand im 10. oder 11. Jahrhundert.",
+"Er entstand im 15. oder 16. Jahrhundert."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Burgen verlegt man gern ins späte Mittelalter, und eine Urkunde nennt die Burg Jettenburg auch erst spät. Die Grabungsergebnisse legen aber eine Errichtung im 11. oder ausgehenden 10. Jahrhundert nahe, deutlich früher als bislang angenommen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kusterdingen.de/de/Rathaus/Archiv/Burgmauer",
+"faktencheck": "korrigiert",
+"id": "383-kusterdingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kusterdingen",
+"steckbrief": "Kusterdingen hat rund 9.100 Einwohner und liegt 7 km nordwestlich von Reutlingen.",
+"frage": "Wie groß ist die Gemarkung der Gemeinde Kusterdingen?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 14 km²",
+"14 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei gut 9.000 Einwohnern im Umland einer Großstadt schätzt man leicht eine kleine, dicht bebaute Fläche. Kusterdingen besteht aber aus fünf Ortsteilen, und mehr als die Hälfte der Gemarkung ist Landwirtschaftsfläche. Die Gemarkung misst 24,24 km². Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "383-kusterdingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kusterdingen",
+"steckbrief": "Zur Gemeinde mit rund 9.100 Einwohnern, 7 km nordwestlich von Reutlingen, gehört der Ortsteil Jettenburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Mauer der Burg Jettenburg war aus Backstein.",
+"Reutlinger Patrizier verkauften die Burg Jettenburg an Württemberg.",
+"Die Jettenburger Kirche wurde 1324 als Kapelle erwähnt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Backstein kennt man von den Burgen Norddeutschlands, daher liegt die Theorie nahe. In Jettenburg aber war der Turm aus Kalksteinquadern gemauert, und die Umfassungsmauer war ähnlich gebaut. Vor dem Verkauf an Württemberg gehörte die Burg der Reutlinger Patrizierfamilie Becht. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.kusterdingen.de/de/Rathaus/Archiv/Burgmauer",
+"faktencheck": "korrigiert",
+"id": "383-kusterdingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kusterdingen",
+"steckbrief": "Kusterdingen hat rund 9.100 Einwohner und liegt 7 km nordwestlich von Reutlingen.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in Kusterdingen: Welche Partei kam auf Platz zwei?",
+"optionen": [
+"CDU",
+"GRÜNE",
+"SPD",
+"AfD"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hinter der CDU erwartet man in einer Landgemeinde oft SPD oder AfD. In Kusterdingen kamen die Grünen mit 20,9 % auf Platz zwei, klar vor SPD (14,4 %) und AfD (13,8 %). Die CDU gewann mit 30,5 %. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "383-kusterdingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kusterdingen",
+"steckbrief": "Zur Gemeinde mit rund 9.100 Einwohnern, 7 km nordwestlich von Reutlingen, gehört der Ortsteil Jettenburg.",
+"frage": "Jettenburg hieß um 1100 Utinbrugge. Was bedeutet nach der Ortsgeschichte die Endung „brugge“?",
+"optionen": [
+"Sie meint eine Burg über dem Dorf.",
+"Sie meint eine Mühle am Bach.",
+"Sie meint eine Brücke oder einen Knüppeldamm.",
+"Sie meint den Hof eines Grundherrn."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der heutige Name Jettenburg lässt an eine Burg denken, und eine Burg stand dort tatsächlich. Doch „Brugge“ meint eine Brücke oder einen Knüppeldamm, also einen Weg aus Baumstämmen über weichen Grund. Erst aus „Burg Jettenburg“ entstand später der heutige Ortsname. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg",
+"faktencheck": "bestätigt",
+"id": "383-kusterdingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kusterdingen",
+"steckbrief": "Kusterdingen hat rund 9.100 Einwohner und liegt 7 km nordwestlich von Reutlingen.",
+"frage": "Wie weit ist es in Luftlinie von Kusterdingen bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 12 km",
+"12 bis unter 19 km",
+"19 bis unter 26 km",
+"26 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Großraum Stuttgart wirkt von hier aus nah, schließlich liegt Reutlingen gleich nebenan. Bis zur Landeshauptstadt sind es aber 29 km Luftlinie, gut viermal so weit wie nach Reutlingen. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "383-kusterdingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kusterdingen",
+"steckbrief": "Zur Gemeinde mit rund 9.100 Einwohnern, 7 km nordwestlich von Reutlingen, gehört der Ortsteil Jettenburg.",
+"frage": "Bei Grabungen in Jettenburg kam eine Burgmauer ans Licht. Wo sind rekonstruierte Teile davon heute zu sehen?",
+"optionen": [
+"Sie stehen an einer Bushaltestelle im Ort.",
+"Sie stehen im Hof des Bauernmuseums.",
+"Sie stehen im Foyer des Rathauses.",
+"Sie stehen auf dem Kirchhof neben der Kirche."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Fundstücke erwartet man in einem Museum oder Amtsgebäude, wo sie geschützt sind. In Jettenburg stehen die rekonstruierten Teile der Umfassungsmauer aber an der Bushaltestelle „Brunnenplatz“, nicht weit von ihrem Originalstandort. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.kusterdingen.de/de/Rathaus/Archiv/Burgmauer",
+"faktencheck": "unsicher",
+"id": "383-kusterdingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kusterdingen",
+"steckbrief": "Zur Gemeinde mit rund 9.100 Einwohnern, 7 km nordwestlich von Reutlingen, gehört der Ortsteil Jettenburg.",
+"frage": "Die Jettenburger Narrenzunft heißt „Agneshexen“. Nach wem ist sie benannt?",
+"optionen": [
+"Sie heißt nach einer Sagengestalt des Schönbuchs.",
+"Sie heißt nach einer 1664 in Reutlingen Angeklagten.",
+"Sie heißt nach einer Hexe der Brüder Grimm.",
+"Sie heißt nach einer Jettenburger Kräuterfrau um 1525."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Fasnetshexen gehen oft auf Sagen oder Märchen zurück, das liegt nahe. Die Agneshexen erinnern aber an eine wirkliche Frau: Agnes Nestlerin, die im 17. Jahrhundert in Reutlingen der Hexerei angeklagt wurde. Ihre Prozessakten liegen im Stadtarchiv Reutlingen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg; Stadtarchiv Reutlingen A 2 f Nr. 7846 (über archivportal-d.de)",
+"faktencheck": "korrigiert",
+"id": "383-kusterdingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kusterdingen",
+"steckbrief": "Kusterdingen hat rund 9.100 Einwohner und liegt 7 km nordwestlich von Reutlingen.",
+"frage": "Die Gemeinde wird vielfach auch „Härten“ genannt. Was bezeichnet dieser Name?",
+"optionen": [
+"Härten hieß ein Kloster, dem die Dörfer gehörten.",
+"Härten nennt man den Dialekt der Dörfer.",
+"Härten heißt ein Bach durch alle Ortsteile.",
+"Härten heißt die Hochebene über Neckar- und Echaztal."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein gemeinsamer Name für mehrere Dörfer klingt nach einem gemeinsamen Herrn, etwa einem Kloster. Härten ist aber eine Landschaft: die Hochebene über dem Neckar- und dem Echaztal, auf der die Gemeinde liegt. Den Namen tragen auch das Gemeindepflegehaus Härten und die Härten-Sporthalle. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.kusterdingen.de/de/Unsere-Gemeinde/Gemeindeportrait",
+"faktencheck": "bestätigt",
+"id": "383-kusterdingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "382-kirchentellinsfurt",
+"anschluss": [
+"Bundestagswahl 2025: Wahlbeteiligung in Kusterdingen 90,1, in Kirchentellinsfurt 87,4 Prozent.",
+"Kusterdingen hat rund 3.600 Einwohner mehr als Kirchentellinsfurt."
+],
+"anschluesse": {
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Kusterdingen zum Landkreis Tübingen.",
+"Kusterdingen hat gut fünfmal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Kusterdingen hat dreieinhalbmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Kusterdingen hat zwölfmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Kusterdingen hat fast zweieinhalbmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Kusterdingen hat fünfmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Kusterdingen hat fünfmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Kusterdingen hat fast zehnmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Ammerbuch hat rund 2.300 Einwohner mehr als Kusterdingen."
+],
+"93-tuebingen": [
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Kusterdingen die CDU.",
+"Tübingen hat zehnmal so viele Einwohner wie Kusterdingen."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"374-pfrondorf": [
+"Kreisgrenze: Pfrondorf gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Kusterdingen die CDU."
+],
+"381-dettenhausen": [
+"Kusterdingen hat gut anderthalbmal so viele Einwohner wie Dettenhausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Dettenhausen die AfD, in Kusterdingen die Grünen."
+],
+"382-kirchentellinsfurt": [
+"Bundestagswahl 2025: Wahlbeteiligung in Kusterdingen 90,1, in Kirchentellinsfurt 87,4 Prozent.",
+"Kusterdingen hat rund 3.600 Einwohner mehr als Kirchentellinsfurt."
+],
+"384-gomaringen": [
+"Gomaringen und Kusterdingen sind fast gleich groß: rund 9.100 und 9.100 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Gomaringen die AfD, in Kusterdingen die Grünen."
+],
+"385-dusslingen": [
+"Kusterdingen hat anderthalbmal so viele Einwohner wie Dußlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Dußlingen die AfD, in Kusterdingen die Grünen."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Kusterdingen zum Landkreis Tübingen.",
+"Kusterdingen hat dreieinhalbmal so viele Einwohner wie Wurmlingen."
+],
+"94-rottenburg": [
+"Rottenburg am Neckar hat fünfmal so viele Einwohner wie Kusterdingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rottenburg am Neckar die AfD, in Kusterdingen die Grünen."
+],
+"273-leinfelden-echterdingen": [
+"Kreisgrenze: Leinfelden-Echterdingen gehört zum Landkreis Esslingen, Kusterdingen zum Landkreis Tübingen.",
+"Leinfelden-Echterdingen hat viereinhalbmal so viele Einwohner wie Kusterdingen."
+]
+},
+"ags": "08416023",
+"ortsteil": false,
+"km_vom_vorigen": 2.3
+},
+{
+"slug": "384-gomaringen",
+"name": "Gomaringen",
+"lat": 48.45194,
+"lon": 9.09972,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gomaringen",
+"steckbrief": "Gemeinde mit rund 9.100 Einwohnern, 9 km südwestlich von Reutlingen.",
+"frage": "1648 kam Gomaringen an Herzog Eberhard III. von Württemberg. Wie gelangte der Ort in seine Hand?",
+"optionen": [
+"Er bekam ihn als Mitgift seiner Braut.",
+"Er kaufte ihn einer Reichsstadt ab.",
+"Er erbte ihn von den Herren von Gomaringen.",
+"Ein Friedensvertrag sprach ihn Württemberg zu."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Jahr des Westfälischen Friedens legt einen Vertrag nahe. Doch es war ein Geschäft: Der Herzog kaufte Gomaringen der Reichsstadt Reutlingen ab, an deren Spital der Besitz der Ortsherren gefallen war. Danach saßen seine Vögte im Schloss. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte",
+"faktencheck": "bestätigt",
+"id": "384-gomaringen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gomaringen",
+"steckbrief": "Gemeinde mit rund 9.100 Einwohnern, 9 km südwestlich von Reutlingen.",
+"frage": "Wie groß ist die Fläche der Gemarkung Gomaringen?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 12 km²",
+"12 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an den Ortskern denkt, schätzt leicht zu klein. Doch die Gemarkung, also die gesamte Fläche der Gemeinde, misst 17,32 Quadratkilometer. Einen großen Teil davon nehmen Landwirtschaft und Wald ein. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "384-gomaringen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gomaringen",
+"steckbrief": "Gemeinde mit rund 9.100 Einwohnern, 9 km südwestlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das heutige Schloss geht auf eine Burg zurück.",
+"Die Wiesaz fließt auf direktem Weg zur Donau.",
+"Die Herren von Gomaringen dienten den Tübinger Pfalzgrafen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war die Donau. Sie fließt zwar gleich jenseits der Alb, doch die Wiesaz kommt von der Alb herab und mündet in die Steinlach. Wer dem Schloss misstraute: Es ging aus der Burg der Herren von Gomaringen hervor, Dienstleuten der Tübinger Pfalzgrafen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gomaringen.de/unser-gomaringen/zahlen-daten-fakten/geografie-geologie und www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "384-gomaringen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gomaringen",
+"steckbrief": "Gemeinde mit rund 9.100 Einwohnern, 9 km südwestlich von Reutlingen.",
+"frage": "Wie hoch war die Wahlbeteiligung in Gomaringen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 87 %",
+"87 bis unter 89 %",
+"89 bis unter 91 %",
+"91 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an die hohe Beteiligung im Umland großer Städte denkt, tippt leicht zu hoch. In Gomaringen gaben bei der Bundestagswahl 2025 86,2 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "384-gomaringen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gomaringen",
+"steckbrief": "Gemeinde mit rund 9.100 Einwohnern, 9 km südwestlich von Reutlingen.",
+"frage": "Vom späten 18. bis zum späten 19. Jahrhundert verließen 821 Menschen das arme Gomaringen. Wohin zogen die meisten von ihnen?",
+"optionen": [
+"Sie siedelten an der Wolga in Russland.",
+"Sie wanderten in die USA aus.",
+"Sie zogen in den Süden Brasiliens.",
+"Sie gingen ins Banat in Ungarn."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele Schwaben zogen damals nach Osten, an die Wolga oder ins Banat; das liegt nahe. Die meisten Gomaringer aber gingen in die USA. Der Grund war wirtschaftliche Armut: Gomaringen galt damals als besonders arme und kinderreiche Gemeinde. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "384-gomaringen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gomaringen",
+"steckbrief": "Gemeinde mit rund 9.100 Einwohnern, 9 km südwestlich von Reutlingen.",
+"frage": "Wie weit ist Gomaringen in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 30 km",
+"30 bis unter 45 km",
+"45 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Reutlingen rechnet man gern zum Stuttgarter Raum, deshalb schätzt man leicht zu kurz. Gomaringen liegt aber noch ein Stück weiter südwestlich im äußeren Albvorland: Bis Stuttgart sind es 37 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "384-gomaringen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gomaringen",
+"steckbrief": "Gemeinde mit rund 9.100 Einwohnern, 9 km südwestlich von Reutlingen.",
+"frage": "Zum Jubiläum des Grundgesetzes entstand in Gomaringen eine Galerie. Mit welchem Artikel beginnt sie am Rathaus?",
+"optionen": [
+"Sie beginnt mit Artikel 28 zur Selbstverwaltung.",
+"Sie beginnt mit Artikel 20 zur Demokratie.",
+"Sie beginnt mit Artikel 5 zur Meinungsfreiheit.",
+"Sie beginnt mit Artikel 1 zur Menschenwürde."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Rathaus liegt der Artikel zur Selbstverwaltung der Gemeinden nahe, und er hängt dort auch. Doch die Galerie beginnt wie das Grundgesetz selbst mit Artikel 1, der Würde des Menschen. Umgesetzt haben sie Auszubildende der Gemeinde; weitere Bereiche liegen in Hinterweiler und in Stockach. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gomaringen.de/unser-gomaringen/geschichtliches/gomaringer-grundgesetz-galerie",
+"faktencheck": "korrigiert",
+"id": "384-gomaringen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gomaringen",
+"steckbrief": "Gemeinde mit rund 9.100 Einwohnern, 9 km südwestlich von Reutlingen.",
+"frage": "Die erste bekannte Erwähnung Gomaringens betrifft das 11. Jahrhundert. In welcher Quelle steht sie?",
+"optionen": [
+"In der Chronik Bertholds von Zwiefalten.",
+"Im Lorscher Codex des Klosters Lorsch.",
+"In einer Urkunde Kaiser Heinrichs IV.",
+"In einer Papsturkunde für Hirsau."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele Orte im Südwesten tauchen zuerst in Kaiser- oder Papsturkunden oder Güterverzeichnissen auf; das liegt nahe. Bei Gomaringen ist es eine Klosterchronik: die des Berthold von Zwiefalten. Nach der Ortsgeschichte verweist die Endung -ingen auf eine Siedlung aus alemannischer Zeit. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "384-gomaringen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gomaringen",
+"steckbrief": "Gemeinde mit rund 9.100 Einwohnern, 9 km südwestlich von Reutlingen.",
+"frage": "2017 erhielt die Bibliothek Gomaringen eine Auszeichnung. Wofür?",
+"optionen": [
+"Sie wurde als Bibliothek des Jahres geehrt.",
+"Sie bekam einen Preis für ihre Leseförderung.",
+"Sie wurde für beispielhaftes Bauen ausgezeichnet.",
+"Sie wurde für ihr Kinderprogramm ausgezeichnet."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Bibliothek denkt man zuerst an Bücher und Leseförderung. Gewürdigt wurde aber das Gebäude: Die Architektenkammer Baden-Württemberg zeichnete die Bibliothek am Schlosshof für beispielhaftes Bauen aus. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gomaringen.de/leben-freizeit/bibliothek-in-der-schlossscheuer/allgemein",
+"faktencheck": "unsicher",
+"id": "384-gomaringen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "383-kusterdingen",
+"anschluss": [
+"Einwohner: Gomaringen hat nur zwanzig mehr als Kusterdingen.",
+"Fläche: Kusterdingen ist rund sieben Quadratkilometer größer als Gomaringen."
+],
+"anschluesse": {
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Gomaringen zum Landkreis Tübingen.",
+"Gomaringen hat gut fünfmal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Gomaringen hat dreieinhalbmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Gomaringen hat zwölfmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Gomaringen hat fast zweieinhalbmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Gomaringen hat fünfmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Gomaringen hat fünfmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Gomaringen hat fast zehnmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Ammerbuch hat rund 2.300 Einwohner mehr als Gomaringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ammerbuch die Grünen, in Gomaringen die AfD."
+],
+"93-tuebingen": [
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Gomaringen die CDU.",
+"Tübingen hat zehnmal so viele Einwohner wie Gomaringen."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"374-pfrondorf": [
+"Kreisgrenze: Pfrondorf gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Gomaringen die CDU."
+],
+"381-dettenhausen": [
+"Gomaringen hat gut anderthalbmal so viele Einwohner wie Dettenhausen."
+],
+"382-kirchentellinsfurt": [
+"Gomaringen hat gut anderthalbmal so viele Einwohner wie Kirchentellinsfurt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kirchentellinsfurt die Grünen, in Gomaringen die AfD."
+],
+"383-kusterdingen": [
+"Einwohner: Gomaringen hat nur zwanzig mehr als Kusterdingen.",
+"Fläche: Kusterdingen ist rund sieben Quadratkilometer größer als Gomaringen."
+],
+"385-dusslingen": [
+"Gomaringen hat anderthalbmal so viele Einwohner wie Dußlingen."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Gomaringen zum Landkreis Tübingen.",
+"Gomaringen hat dreieinhalbmal so viele Einwohner wie Wurmlingen."
+],
+"94-rottenburg": [
+"Rottenburg am Neckar hat fünfmal so viele Einwohner wie Gomaringen."
+]
+},
+"ags": "08416015",
+"ortsteil": false,
+"km_vom_vorigen": 8.0
+},
+{
+"slug": "385-dusslingen",
+"name": "Dußlingen",
+"lat": 48.45056,
+"lon": 9.06056,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dußlingen",
+"steckbrief": "Gemeinde mit rund 6.200 Einwohnern, 12 km südwestlich von Reutlingen.",
+"frage": "In den letzten Monaten des Zweiten Weltkriegs mussten Zwangsarbeiter bei Dußlingen Ölschiefer abbauen. Wozu sollte er dienen?",
+"optionen": [
+"Aus ihm sollte Öl als Ersatz für knappen Treibstoff gewonnen werden.",
+"Daraus sollte Zement für Bunker entstehen.",
+"Der Schiefer sollte Dächer zerbombter Städte decken.",
+"Er sollte als Schotter für Rollbahnen dienen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Schiefer denkt man an Dächer, bei Gestein an Zement oder Schotter. Doch das Dußlinger „Werk 1“ des „Unternehmens Wüste“ sollte aus dem Schiefer Öl gewinnen. Am Höhnisch arbeiteten 739 italienische Kriegsgefangene und andere Zwangsarbeiter. Die Produktion lief während des Krieges nicht mehr an. Richtig war 1.",
+"quelle": "Gemeinde Dußlingen, Geschichtspfad Station 11; Landkreis Tübingen",
+"faktencheck": "korrigiert",
+"id": "385-dusslingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dußlingen",
+"steckbrief": "Gemeinde mit rund 6.200 Einwohnern im Steinlachtal, 12 km südwestlich von Reutlingen.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Dußlingen?",
+"optionen": [
+"unter 300 m",
+"300 bis unter 450 m",
+"450 bis unter 600 m",
+"600 m und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an die nahe Schwäbische Alb denkt, schätzt leicht zu hoch. Dußlingen liegt aber im Tal der Steinlach, zwischen Alb und Rammert, auf 379 Metern. Die Höhen der Alb liegen deutlich darüber. Richtig war 2.",
+"quelle": "Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2934235)",
+"faktencheck": "bestätigt",
+"id": "385-dusslingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Dußlingen",
+"steckbrief": "Gemeinde mit rund 6.200 Einwohnern, 12 km südwestlich von Reutlingen.",
+"frage": "Die Herter von Dußlingen waren ein Adelsgeschlecht. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Herter verkauften Dußlingen an Württemberg.",
+"Nach dem Verkauf hatten die Herter Dußlingen nur noch als Lehen.",
+"Die Herter starben schon vor der Reformation aus."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer sein Dorf verkauft, ist es eigentlich los. Doch nachdem Jakob und Hans Herter Dußlingen 1446/47 an Württemberg verkauft hatten, blieb die Familie als Nutznießerin eines Lehens am Ort. Ausgestorben ist sie erst lange nach der Reformation: Der letzte männliche Herter starb 1616. Die Lüge war 3.",
+"quelle": "Gemeinde Dußlingen, Ortsgeschichte und Geschichtspfad",
+"faktencheck": "korrigiert",
+"id": "385-dusslingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dußlingen",
+"steckbrief": "Gemeinde mit rund 6.200 Einwohnern, rund 10 km südlich von Tübingen.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Dußlingen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 15 %",
+"15 bis unter 22 %",
+"22 bis unter 28 %",
+"28 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei so vielen Parteien und der Nähe zur Universitätsstadt Tübingen rechnet man mit einem knappen Ergebnis. Doch die CDU holte 30,3 Prozent der Zweitstimmen, klar vor der AfD. Stand: Bundestagswahl vom 23. Februar 2025. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "385-dusslingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dußlingen",
+"steckbrief": "Gemeinde mit rund 6.200 Einwohnern, 12 km südwestlich von Reutlingen.",
+"frage": "Bei der Gemeinderatswahl 2024 wurden in Dußlingen 14 Sitze vergeben. Wie viele holte die SPD?",
+"optionen": [
+"Die SPD holte einen Sitz.",
+"Die SPD holte zwei Sitze.",
+"Die SPD holte drei Sitze.",
+"Die SPD holte fünf Sitze."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei 14 Sitzen und einer Volkspartei erwartet man mehr als einen Sitz. Doch in Dußlingen dominieren die Wählervereinigungen: Die Freie Wählervereinigung holte 5 Sitze, die Dußlinger Wählervereinigung 4, Grüne und CDU je 2. Die SPD kam auf 7,7 Prozent und einen Sitz. Stand: Kommunalwahl vom 9. Juni 2024. Richtig war 1.",
+"quelle": "Stuttgarter Zeitung; Reutlinger General-Anzeiger",
+"faktencheck": "korrigiert",
+"id": "385-dusslingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Dußlingen",
+"steckbrief": "Gemeinde mit rund 6.200 Einwohnern, 12 km südwestlich von Reutlingen.",
+"frage": "Wie weit ist Dußlingen in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 25 km",
+"25 bis unter 45 km",
+"45 bis unter 70 km",
+"70 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Reutlingen liegt um die Ecke, und von dort wirkt Stuttgart nah. Doch Dußlingen liegt noch weiter südwestlich, im Tal der Steinlach: Bis Stuttgart sind es 38 Kilometer Luftlinie. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "385-dusslingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dußlingen",
+"steckbrief": "Gemeinde mit rund 6.200 Einwohnern, 12 km südwestlich von Reutlingen.",
+"frage": "Früher litt Dußlingen in Kriegszeiten oft unter Truppendurchzügen, Einquartierungen und Plünderungen. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Im Ort lag eine württembergische Garnison.",
+"Die Burg war ein begehrtes Angriffsziel.",
+"Durch den Ort führte eine wichtige Fernstraße.",
+"In Dußlingen lag ein großes Kornlager."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Burg oder ein Lager wirkt wie ein Magnet für Heere, doch die Ortsgeschichte nennt die Straße: Dußlingen lag an der „Schweizer Straße“ von Stuttgart nach Schaffhausen, der heutigen B 27. Die günstige Lage hatte ihre Kehrseite: In Kriegszeiten kamen Truppen durch, mit Einquartierungen und Plünderungen. Richtig war 3.",
+"quelle": "Gemeinde Dußlingen, Ortsgeschichte und Geschichtspfad",
+"faktencheck": "korrigiert",
+"id": "385-dusslingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dußlingen",
+"steckbrief": "Gemeinde mit rund 6.200 Einwohnern im Steinlachtal, 12 km südwestlich von Reutlingen.",
+"frage": "Das Trinkwasser des Zweckverbands Steinlach-Wasserversorgung, dem Dußlingen angehört, kommt zu 60 Prozent aus einem eigenen Wasserwerk. Woher kommt der Rest?",
+"optionen": [
+"Er kommt aus Quellen der Schwäbischen Alb.",
+"Er kommt aus dem Bodensee.",
+"Er wird aus dem Donauried herangeleitet.",
+"Er kommt aus Brunnen im Rammert."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mit Alb und Rammert vor der Tür liegt Wasser aus der Nachbarschaft nahe, ebenso die Donau. Doch den Rest liefert die Bodensee-Wasserversorgung: Ein guter Teil des Dußlinger Wassers stammt aus dem Bodensee. Gegründet haben den Verband Dußlingen, Mössingen, Nehren und Ofterdingen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Dußlingen",
+"faktencheck": "bestätigt",
+"id": "385-dusslingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dußlingen",
+"steckbrief": "Gemeinde mit rund 6.200 Einwohnern, 12 km südwestlich von Reutlingen.",
+"frage": "Um 1900 war die Brauerei von Robert Wörner der größte Betrieb in Dußlingen. Wie war Wörner zu ihr gekommen?",
+"optionen": [
+"Er übernahm eine Klosterbrauerei.",
+"Er baute eine Getreidemühle zur Brauerei um.",
+"Er erbte die Brennerei seiner Eltern.",
+"Er kaufte sie einem Dußlinger Gastwirt ab."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bier und Kloster gehören in Süddeutschland oft zusammen, doch hier stand ein Wirt am Anfang: Johannes Renz, Wirt des Ochsen und des Lichtenstein, ließ 1862 einen Eiskeller und 1870 ein Wohnhaus mit Bierbrauerei bauen. 1877 verkaufte er alles an Robert Wörner. Nach Wörners Tod 1918 kam der Betrieb nicht wieder in Gang. Richtig war 4.",
+"quelle": "Gemeinde Dußlingen, Geschichtspfad Station 9",
+"faktencheck": "korrigiert",
+"id": "385-dusslingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "384-gomaringen",
+"anschluss": [
+"Dußlingen gehört zum Verwaltungsverband mit Sitz in Gomaringen.",
+"Wahlbeteiligung zur Bundestagswahl 2025: Gomaringen 86,2, Dußlingen 86,4 Prozent."
+],
+"anschluesse": {
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Dußlingen zum Landkreis Tübingen.",
+"Bondorf und Dußlingen sind fast gleich groß: rund 6.200 und 6.200 Einwohner."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Dußlingen zum Landkreis Tübingen.",
+"Dußlingen hat dreieinhalbmal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Dußlingen hat fast zweieinhalbmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Dußlingen hat achtmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Dußlingen hat gut anderthalbmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Dußlingen hat dreieinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Dußlingen hat dreieinhalbmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Dußlingen hat fast siebenmal so viele Einwohner wie Reusten."
+],
+"92-ammerbuch": [
+"Ammerbuch hat fast doppelt so viele Einwohner wie Dußlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ammerbuch die Grünen, in Dußlingen die AfD."
+],
+"93-tuebingen": [
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Dußlingen die CDU.",
+"Tübingen hat fünfzehnmal so viele Einwohner wie Dußlingen."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"374-pfrondorf": [
+"Kreisgrenze: Pfrondorf gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Dußlingen die CDU."
+],
+"381-dettenhausen": [
+"Dußlingen hat rund 700 Einwohner mehr als Dettenhausen."
+],
+"382-kirchentellinsfurt": [
+"Dußlingen hat rund 700 Einwohner mehr als Kirchentellinsfurt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kirchentellinsfurt die Grünen, in Dußlingen die AfD."
+],
+"383-kusterdingen": [
+"Kusterdingen hat anderthalbmal so viele Einwohner wie Dußlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kusterdingen die Grünen, in Dußlingen die AfD."
+],
+"384-gomaringen": [
+"Dußlingen gehört zum Verwaltungsverband mit Sitz in Gomaringen.",
+"Wahlbeteiligung zur Bundestagswahl 2025: Gomaringen 86,2, Dußlingen 86,4 Prozent."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Dußlingen zum Landkreis Tübingen.",
+"Dußlingen hat fast zweieinhalbmal so viele Einwohner wie Wurmlingen."
+],
+"94-rottenburg": [
+"Rottenburg am Neckar hat gut siebenmal so viele Einwohner wie Dußlingen."
+],
+"95-starzach": [
+"Dußlingen hat fast anderthalbmal so viele Einwohner wie Starzach.",
+"Starzach hat gut doppelt so viel Fläche wie Dußlingen, aber weniger Einwohner."
+]
+},
+"ags": "08416011",
+"ortsteil": false,
+"km_vom_vorigen": 2.9
+},
+{
+"slug": "386-wurmlingen-rottenburg",
+"name": "Wurmlingen",
+"lat": 48.5022,
+"lon": 8.96528,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wurmlingen",
+"steckbrief": "Wurmlingen hat rund 2.600 Einwohner und ist ein Stadtteil von Rottenburg am Neckar, 18 km westlich von Reutlingen.",
+"frage": "Wie viele Einwohner kommen in Wurmlingen auf einen Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 700",
+"700 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Als Stadtteil nahe Tübingen und Rottenburg wirkt Wurmlingen recht städtisch. Doch zur Gemarkung gehören viel Feld und Wald, deshalb verteilen sich die Einwohner weit. Auf einen Quadratkilometer kommen rund 364 Menschen, berechnet mit dem Einwohnerstand 2022. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (dewiki Infobox, Stand 2022) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "386-wurmlingen-rottenburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wurmlingen",
+"steckbrief": "Wurmlingen hat rund 2.600 Einwohner und ist ein Stadtteil von Rottenburg am Neckar, 18 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Wurmlingen kam mit der Grafschaft Hohenberg an Bayern.",
+"Der Gehörlosenpädagoge Lorenz Haug stammt aus Wurmlingen.",
+"Der Volkskundler Anton Birlinger stammt aus Wurmlingen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bayern liegt als großes süddeutsches Land nahe. Wurmlingen kam mit der Grafschaft Hohenberg aber an Österreich und gehörte später zu Württemberg. Lorenz Haug war Gehörlosenpädagoge, Anton Birlinger Germanist und Volkskundler; beide stammen aus dem Ort. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wurmlingen_(Rottenburg)",
+"faktencheck": "bestätigt",
+"id": "386-wurmlingen-rottenburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Wurmlingen",
+"steckbrief": "Wurmlingen hat rund 2.600 Einwohner und ist ein Stadtteil von Rottenburg am Neckar, 18 km westlich von Reutlingen.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in der Stadt Rottenburg am Neckar, zu der Wurmlingen gehört, zweitstärkste Kraft bei den Zweitstimmen?",
+"optionen": [
+"Grüne",
+"SPD",
+"AfD",
+"CDU"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Umland von Tübingen denkt man schnell an die Grünen. In der ganzen Stadt Rottenburg, für die das Ergebnis gilt, lag aber die AfD hinter der CDU auf Platz zwei; die Grünen wurden Dritte, vor der SPD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "386-wurmlingen-rottenburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wurmlingen",
+"steckbrief": "Wurmlingen hat rund 2.600 Einwohner und ist ein Stadtteil von Rottenburg am Neckar, 18 km westlich von Reutlingen.",
+"frage": "Die Wurmlinger Kapelle auf dem Kapellenberg ist weithin bekannt. Welchem Heiligen ist sie geweiht?",
+"optionen": [
+"Sie ist dem heiligen Martin geweiht.",
+"Sie ist dem heiligen Georg geweiht.",
+"Sie ist dem heiligen Briccius geweiht.",
+"Sie ist dem heiligen Remigius geweiht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Briccius liegt nahe, denn so heißt die Pfarrkirche im Dorf. Die Kapelle auf dem Berg ist aber die Sankt-Remigius-Kapelle. Von dort reicht der Rundblick über Neckartal und Ammertal. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wurmlingen_(Rottenburg)",
+"faktencheck": "bestätigt",
+"id": "386-wurmlingen-rottenburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wurmlingen",
+"steckbrief": "Wurmlingen hat rund 2.600 Einwohner und ist ein Stadtteil von Rottenburg am Neckar, 18 km westlich von Reutlingen.",
+"frage": "Wie groß ist die Gemarkung von Wurmlingen?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 12 km²",
+"12 bis unter 16 km²",
+"16 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zwischen Feldern, Wald und Kapellenberg wirkt die Flur weitläufig, da schätzt man leicht zu hoch. Wurmlingen misst aber nur 7,14 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "386-wurmlingen-rottenburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wurmlingen",
+"steckbrief": "Wurmlingen hat rund 2.600 Einwohner und ist ein Stadtteil von Rottenburg am Neckar, 18 km westlich von Reutlingen.",
+"frage": "Am 7. Dezember 1252 verkauften Herren von Wurmlingen dem Frauenkloster Kirchberg etwas. Was war es?",
+"optionen": [
+"Sie verkauften eine Mühle am Neckar.",
+"Sie verkauften einen Weinberg am Kapellenberg.",
+"Sie verkauften Fischrechte an der Ammer.",
+"Sie verkauften einen Wald im Schönbuch."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mühlen, Wald und Fischrechte gaben Adlige oft an Klöster weiter. Hier ging es aber um Weinberge im Pfaffenberg bei Wurmlingen. Der Preis betrug 56 Pfund Heller Tübinger Münze. Ihr Herr, Graf Friedrich von Zollern, stimmte dem Verkauf zu. Richtig war 2.",
+"quelle": "Württembergisches Urkundenbuch Online, leo-bw.de/media/labw_wub/current/delivered/pdf/wub-1864.pdf",
+"faktencheck": "korrigiert",
+"id": "386-wurmlingen-rottenburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wurmlingen",
+"steckbrief": "Wurmlingen hat rund 2.600 Einwohner und ist ein Stadtteil von Rottenburg am Neckar, 18 km westlich von Reutlingen.",
+"frage": "In Wurmlingen stand einst ein Bau, den man „die Vest“ nannte. Was war die Vest?",
+"optionen": [
+"Die Vest war der Festplatz des Dorfs.",
+"Die Vest war ein Kornspeicher der Gemeinde.",
+"Die Vest war ein Wasserschloss mit Graben.",
+"Die Vest war eine befestigte Kirche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach „Fest“, also nach einem Platz zum Feiern. Gemeint war aber ein Wasserschloss, das um 1400 erstmals genannt wird. Mehrere Adelsfamilien hatten es nacheinander inne, zuletzt die von Rost. Ende des 18. Jahrhunderts ist die Vest abgegangen, also verschwunden. Richtig war 3.",
+"quelle": "Stadt Rottenburg am Neckar, rottenburg.de/geschichte+von+wurmlingen.30180.htm",
+"faktencheck": "korrigiert",
+"id": "386-wurmlingen-rottenburg/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "385-dusslingen",
+"anschluss": [
+"Kennzeichen: In Wurmlingen wie in Dußlingen steht TÜ am Auto.",
+"Einwohner: Dußlingen hat mehr als doppelt so viele wie Wurmlingen."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Eutingen im Gäu hat fast zweieinhalbmal so viele Einwohner wie Wurmlingen."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Bondorf hat fast zweieinhalbmal so viele Einwohner wie Wurmlingen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Gäufelden hat dreieinhalbmal so viele Einwohner wie Wurmlingen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Herrenberg hat dreizehnmal so viele Einwohner wie Wurmlingen."
+],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Wurmlingen hat anderthalbmal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Altingen und Wurmlingen sind fast gleich groß: rund 2.600 und 2.600 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Altingen die Grünen, in Wurmlingen die AfD."
+],
+"363-breitenholz": [
+"Wurmlingen hat dreieinhalbmal so viele Einwohner wie Breitenholz.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Breitenholz die Grünen, in Wurmlingen die AfD."
+],
+"364-entringen": [
+"Entringen hat anderthalbmal so viele Einwohner wie Wurmlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Entringen die Grünen, in Wurmlingen die AfD."
+],
+"365-pfaeffingen": [
+"Wurmlingen hat fast anderthalbmal so viele Einwohner wie Pfäffingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Pfäffingen die Grünen, in Wurmlingen die AfD."
+],
+"366-poltringen": [
+"Wurmlingen hat fast anderthalbmal so viele Einwohner wie Poltringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Poltringen die Grünen, in Wurmlingen die AfD."
+],
+"367-reusten": [
+"Wurmlingen hat fast dreimal so viele Einwohner wie Reusten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Reusten die Grünen, in Wurmlingen die AfD."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Ammerbuch hat viereinhalbmal so viele Einwohner wie Wurmlingen."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Wurmlingen die CDU."
+],
+"368-unterjesingen": [
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Unterjesingen und Wurmlingen sind fast gleich groß: rund 2.500 und 2.600 Einwohner."
+],
+"369-hagelloch": [
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Wurmlingen hat anderthalbmal so viele Einwohner wie Hagelloch."
+],
+"370-weststadt-tuebingen": [
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Weststadt hat dreimal so viele Einwohner wie Wurmlingen."
+],
+"371-waldhaeuser-ost": [
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Waldhäuser Ost hat fast doppelt so viele Einwohner wie Wurmlingen."
+],
+"372-bebenhausen": [
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Wurmlingen hat fast achtmal so viele Einwohner wie Bebenhausen."
+],
+"373-lustnau": [
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Lustnau hat fast viermal so viele Einwohner wie Wurmlingen."
+],
+"374-pfrondorf": [
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Pfrondorf hat rund 700 Einwohner mehr als Wurmlingen."
+],
+"375-suedstadt-tuebingen": [
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Südstadt hat fast viermal so viele Einwohner wie Wurmlingen."
+],
+"376-derendingen": [
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Derendingen hat zweieinhalbmal so viele Einwohner wie Wurmlingen."
+],
+"377-weilheim-tuebingen": [
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Wurmlingen hat doppelt so viele Einwohner wie Weilheim."
+],
+"378-kilchberg-tuebingen": [
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Wurmlingen hat doppelt so viele Einwohner wie Kilchberg."
+],
+"379-buehl-tuebingen": [
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Wurmlingen hat rund 500 Einwohner mehr als Bühl."
+],
+"380-hirschau-tuebingen": [
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Wurmlingen die CDU.",
+"Hirschau hat rund 800 Einwohner mehr als Wurmlingen."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Dettenhausen hat gut doppelt so viele Einwohner wie Wurmlingen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Kirchentellinsfurt hat gut doppelt so viele Einwohner wie Wurmlingen."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Kusterdingen hat dreieinhalbmal so viele Einwohner wie Wurmlingen."
+],
+"384-gomaringen": [
+"Kreisgrenze: Gomaringen gehört zum Landkreis Tübingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Gomaringen hat dreieinhalbmal so viele Einwohner wie Wurmlingen."
+],
+"385-dusslingen": [
+"Kennzeichen: In Wurmlingen wie in Dußlingen steht TÜ am Auto.",
+"Einwohner: Dußlingen hat mehr als doppelt so viele wie Wurmlingen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Rottenburg am Neckar hat achtzehnmal so viele Einwohner wie Wurmlingen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Wurmlingen zum Landkreis Landkreis Tübingen.",
+"Starzach hat gut anderthalbmal so viele Einwohner wie Wurmlingen."
+]
+},
+"ags": "08416036",
+"ortsteil": true,
+"km_vom_vorigen": 9.1
 },
 {
 "slug": "94-rottenburg",
@@ -11381,11 +19652,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "93-tuebingen",
-"anschluss": [
-"Einwohner: Tübingen hat etwa doppelt so viele wie Rottenburg.",
-"Bundestagswahl 2025: Grüne führten in Tübingen, CDU in Rottenburg."
-],
+"anschluss_von": "386-wurmlingen-rottenburg",
+"anschluss": [],
 "anschluesse": {
 "86-empfingen": [
 "Kreisgrenze: Empfingen gehört zum Landkreis Freudenstadt, Rottenburg am Neckar zum Landkreis Tübingen.",
@@ -11411,13 +19679,114 @@ window.QA_DATEN = {
 "Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Rottenburg am Neckar zum Landkreis Tübingen.",
 "Rottenburg am Neckar hat rund 11.000 Einwohner mehr als Herrenberg."
 ],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat rund 25-mal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat achtzehnmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat rund 60-mal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat zwölfmal so viele Einwohner wie Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat rund 25-mal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat rund 25-mal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat rund 50-mal so viele Einwohner wie Reusten."
+],
 "92-ammerbuch": [
 "Rottenburg am Neckar hat viermal so viele Einwohner wie Ammerbuch.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Ammerbuch die Grünen, in Rottenburg am Neckar die AfD."
 ],
 "93-tuebingen": [
-"Einwohner: Tübingen hat etwa doppelt so viele wie Rottenburg.",
-"Bundestagswahl 2025: Grüne führten in Tübingen, CDU in Rottenburg."
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Rottenburg am Neckar die CDU.",
+"Tübingen hat doppelt so viele Einwohner wie Rottenburg am Neckar."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"374-pfrondorf": [
+"Kreisgrenze: Pfrondorf gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"375-suedstadt-tuebingen": [
+"Kreisgrenze: Südstadt gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Südstadt lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Rottenburg am Neckar die CDU."
+],
+"381-dettenhausen": [
+"Rottenburg am Neckar hat gut achtmal so viele Einwohner wie Dettenhausen."
+],
+"382-kirchentellinsfurt": [
+"Rottenburg am Neckar hat gut achtmal so viele Einwohner wie Kirchentellinsfurt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kirchentellinsfurt die Grünen, in Rottenburg am Neckar die AfD."
+],
+"383-kusterdingen": [
+"Rottenburg am Neckar hat fünfmal so viele Einwohner wie Kusterdingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kusterdingen die Grünen, in Rottenburg am Neckar die AfD."
+],
+"384-gomaringen": [
+"Rottenburg am Neckar hat fünfmal so viele Einwohner wie Gomaringen."
+],
+"385-dusslingen": [
+"Rottenburg am Neckar hat gut siebenmal so viele Einwohner wie Dußlingen."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat achtzehnmal so viele Einwohner wie Wurmlingen."
 ],
 "95-starzach": [
 "Rottenburg am Neckar hat fast elfmal so viele Einwohner wie Starzach.",
@@ -11426,7 +19795,7 @@ window.QA_DATEN = {
 },
 "ags": "08416036",
 "ortsteil": false,
-"km_vom_vorigen": 10.1
+"km_vom_vorigen": 3.6
 },
 {
 "slug": "95-starzach",
@@ -11648,9 +20017,77 @@ window.QA_DATEN = {
 "Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Starzach zum Landkreis Tübingen.",
 "Herrenberg hat achtmal so viele Einwohner wie Starzach."
 ],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Starzach zum Landkreis Tübingen.",
+"Starzach hat zweieinhalbmal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Starzach hat gut anderthalbmal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Starzach hat fast sechsmal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Starzach hat rund 500 Einwohner mehr als Entringen."
+],
+"365-pfaeffingen": [
+"Kreisgrenze: Pfäffingen gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Starzach hat fast zweieinhalbmal so viele Einwohner wie Pfäffingen."
+],
+"366-poltringen": [
+"Kreisgrenze: Poltringen gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Starzach hat fast zweieinhalbmal so viele Einwohner wie Poltringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Starzach hat viereinhalbmal so viele Einwohner wie Reusten."
+],
 "92-ammerbuch": [
 "Ammerbuch hat gut zweieinhalbmal so viele Einwohner wie Starzach.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Ammerbuch die Grünen, in Starzach die AfD."
+],
+"368-unterjesingen": [
+"Kreisgrenze: Unterjesingen gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Unterjesingen lagen die Grünen vorn, in Starzach die CDU."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Starzach die CDU."
+],
+"370-weststadt-tuebingen": [
+"Kreisgrenze: Weststadt gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weststadt lagen die Grünen vorn, in Starzach die CDU."
+],
+"376-derendingen": [
+"Kreisgrenze: Derendingen gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Derendingen lagen die Grünen vorn, in Starzach die CDU."
+],
+"377-weilheim-tuebingen": [
+"Kreisgrenze: Weilheim gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Weilheim lagen die Grünen vorn, in Starzach die CDU."
+],
+"378-kilchberg-tuebingen": [
+"Kreisgrenze: Kilchberg gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Kilchberg lagen die Grünen vorn, in Starzach die CDU."
+],
+"379-buehl-tuebingen": [
+"Kreisgrenze: Bühl gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bühl lagen die Grünen vorn, in Starzach die CDU."
+],
+"380-hirschau-tuebingen": [
+"Kreisgrenze: Hirschau gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Hirschau lagen die Grünen vorn, in Starzach die CDU."
+],
+"385-dusslingen": [
+"Dußlingen hat fast anderthalbmal so viele Einwohner wie Starzach.",
+"Starzach hat gut doppelt so viel Fläche wie Dußlingen, aber weniger Einwohner."
+],
+"386-wurmlingen-rottenburg": [
+"Kreisgrenze: Wurmlingen gehört zum Landkreis Landkreis Tübingen, Starzach zum Landkreis Tübingen.",
+"Starzach hat gut anderthalbmal so viele Einwohner wie Wurmlingen."
 ],
 "94-rottenburg": [
 "Höhenlage: Starzach liegt auf 526 m, Rottenburg auf 349 m.",
@@ -31874,9 +40311,45 @@ window.QA_DATEN = {
 "Sindelfingen hat fast doppelt so viele Einwohner wie Herrenberg.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Herrenberg die Grünen, in Sindelfingen die AfD."
 ],
+"361-kayh": [
+"Kreisgrenze: Kayh gehört zum Landkreis Landkreis Böblingen, Sindelfingen zum Landkreis Böblingen.",
+"Sindelfingen hat rund 35-mal so viele Einwohner wie Kayh."
+],
+"362-altingen": [
+"Kreisgrenze: Altingen gehört zum Landkreis Landkreis Tübingen, Sindelfingen zum Landkreis Böblingen.",
+"Sindelfingen hat rund 25-mal so viele Einwohner wie Altingen."
+],
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Sindelfingen zum Landkreis Böblingen.",
+"Sindelfingen hat rund 80-mal so viele Einwohner wie Breitenholz."
+],
+"364-entringen": [
+"Kreisgrenze: Entringen gehört zum Landkreis Landkreis Tübingen, Sindelfingen zum Landkreis Böblingen.",
+"Sindelfingen hat sechzehnmal so viele Einwohner wie Entringen."
+],
+"367-reusten": [
+"Kreisgrenze: Reusten gehört zum Landkreis Landkreis Tübingen, Sindelfingen zum Landkreis Böblingen.",
+"Sindelfingen hat rund 65-mal so viele Einwohner wie Reusten."
+],
 "92-ammerbuch": [
 "Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Sindelfingen zum Landkreis Böblingen.",
 "Sindelfingen hat gut fünfmal so viele Einwohner wie Ammerbuch."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Sindelfingen zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Sindelfingen die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Sindelfingen zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Sindelfingen die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Sindelfingen zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Sindelfingen die CDU."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Sindelfingen zum Landkreis Böblingen.",
+"Sindelfingen hat elfmal so viele Einwohner wie Dettenhausen."
 ],
 "270-heimsheim": [
 "Kreisgrenze: Heimsheim gehört zum Enzkreis, Sindelfingen zum Landkreis Böblingen.",
@@ -32079,6 +40552,42 @@ window.QA_DATEN = {
 "Wahlbeteiligung 2025: Leinfelden-Echterdingen 86,1 Prozent, Sindelfingen nur 80,2."
 ],
 "anschluesse": {
+"363-breitenholz": [
+"Kreisgrenze: Breitenholz gehört zum Landkreis Landkreis Tübingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
+"Leinfelden-Echterdingen hat rund 55-mal so viele Einwohner wie Breitenholz."
+],
+"369-hagelloch": [
+"Kreisgrenze: Hagelloch gehört zum Landkreis Landkreis Tübingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
+"Bundestagswahl 2025: In Hagelloch lagen die Grünen vorn, in Leinfelden-Echterdingen die CDU."
+],
+"371-waldhaeuser-ost": [
+"Kreisgrenze: Waldhäuser Ost gehört zum Landkreis Landkreis Tübingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
+"Bundestagswahl 2025: In Waldhäuser Ost lagen die Grünen vorn, in Leinfelden-Echterdingen die CDU."
+],
+"372-bebenhausen": [
+"Kreisgrenze: Bebenhausen gehört zum Landkreis Landkreis Tübingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
+"Bundestagswahl 2025: In Bebenhausen lagen die Grünen vorn, in Leinfelden-Echterdingen die CDU."
+],
+"373-lustnau": [
+"Kreisgrenze: Lustnau gehört zum Landkreis Landkreis Tübingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
+"Bundestagswahl 2025: In Lustnau lagen die Grünen vorn, in Leinfelden-Echterdingen die CDU."
+],
+"374-pfrondorf": [
+"Kreisgrenze: Pfrondorf gehört zum Landkreis Landkreis Tübingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
+"Bundestagswahl 2025: In Pfrondorf lagen die Grünen vorn, in Leinfelden-Echterdingen die CDU."
+],
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
+"Leinfelden-Echterdingen hat fast achtmal so viele Einwohner wie Dettenhausen."
+],
+"382-kirchentellinsfurt": [
+"Kreisgrenze: Kirchentellinsfurt gehört zum Landkreis Tübingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
+"Leinfelden-Echterdingen hat fast achtmal so viele Einwohner wie Kirchentellinsfurt."
+],
+"383-kusterdingen": [
+"Kreisgrenze: Kusterdingen gehört zum Landkreis Tübingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
+"Leinfelden-Echterdingen hat viereinhalbmal so viele Einwohner wie Kusterdingen."
+],
 "271-rutesheim": [
 "Kreisgrenze: Rutesheim gehört zum Landkreis Böblingen, Leinfelden-Echterdingen zum Landkreis Esslingen.",
 "Leinfelden-Echterdingen hat fast viermal so viele Einwohner wie Rutesheim."
@@ -32284,6 +40793,10 @@ window.QA_DATEN = {
 "anschluss_von": "273-leinfelden-echterdingen",
 "anschluss": [],
 "anschluesse": {
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Stuttgart ist kreisfrei.",
+"Stuttgart hat rund 110-mal so viele Einwohner wie Dettenhausen."
+],
 "98-ludwigsburg": [
 "Kreisgrenze: Ludwigsburg gehört zum Landkreis Ludwigsburg, Stuttgart ist kreisfrei.",
 "Stuttgart hat fast siebenmal so viele Einwohner wie Ludwigsburg."
@@ -32793,6 +41306,10 @@ window.QA_DATEN = {
 "Philipp Matthäus Hahn aus Ostfildern-Scharnhausen besuchte die Lateinschule in Esslingen."
 ],
 "anschluesse": {
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Ostfildern zum Landkreis Esslingen.",
+"Ostfildern hat gut siebenmal so viele Einwohner wie Dettenhausen."
+],
 "272-sindelfingen": [
 "Kreisgrenze: Sindelfingen gehört zum Landkreis Böblingen, Ostfildern zum Landkreis Esslingen.",
 "Sindelfingen hat anderthalbmal so viele Einwohner wie Ostfildern."
@@ -33005,6 +41522,10 @@ window.QA_DATEN = {
 "Gymnasium: Denkendorf ist am Schulverbund in Ostfildern-Nellingen beteiligt."
 ],
 "anschluesse": {
+"381-dettenhausen": [
+"Kreisgrenze: Dettenhausen gehört zum Landkreis Tübingen, Denkendorf zum Landkreis Esslingen.",
+"Denkendorf hat doppelt so viele Einwohner wie Dettenhausen."
+],
 "273-leinfelden-echterdingen": [
 "Leinfelden-Echterdingen hat gut dreieinhalbmal so viele Einwohner wie Denkendorf.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Leinfelden-Echterdingen die Grünen, in Denkendorf die AfD."

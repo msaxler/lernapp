@@ -1,0 +1,375 @@
+ENTITÄT: ort
+BEZEICHNUNG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2500
+  genauigkeit_einwohner: "ca."
+  rang_gemeindeteil: "zweitgrößter"
+  position: "westlicher Gemeinderand"
+  grenze: "Landkreis Böblingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ort
+BEZEICHNUNG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 2575
+  einwohner_datum: "Januar 2023"
+  rang_ortsteil: "zweitgrößter"
+  superlativ: "zweitgrößter Ortsteil nach Entringen"
+  fläche: 858
+  fläche_einheit: "ha"
+  hoehe_minimum: 373
+  hoehe_maximum: 551
+  hoehe_einheit: "m ü. NN"
+  ersterwähnung_jahr: 1182
+  ersterwähnung_anlass: "Markgraf Heinrich von Ronsberg schenkt Güter an Kloster Ottobeuren"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: "Pfarrkirche St. Magnus"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrei_ersterwähnung: 1275
+  kirchenheiliger: "St. Magnus"
+  kirchenheiliger_ersterwähnung: 1489
+  architektur: "Kirche im burgartig ummauerten Kirchhof"
+  turm_typ: "Ostchorturm"
+  turm_stockwerke: 4
+  turm_grundriss: "fast quadratisch"
+  unterturm_datierung: "12. Jahrhundert"
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: "Evangelische Kirche"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: "1860-1861"
+  standort: "Am Anfang der Schulstraße, am Ortseingang von Reusten her"
+GUELTIG_AB: 1860
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: "Evangelische Kirche"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: "1860-1861"
+  gemeinsame_kirchengemeinde: "mit Reusten"
+GUELTIG_AB: 1860
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: "Rathaus Altingen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Schwedenstraße 21"
+  errichtung: 1825
+  erste_nutzung: "Rathaus"
+  erste_nutzung_zeitraum: "1825-1967"
+  zweite_nutzung: "Verwaltung im Schulhaus Pilgerstraße 2"
+  zweite_nutzung_zeitraum: "1967-1982"
+  renovation: 1982
+  status_nach_renovation: "erneut als Rathaus eingeweiht"
+GUELTIG_AB: 1825
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: "Schwedenhaus"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Schwedenstraße 28"
+  entstehung: "um 1550"
+  ersterwähnung: "um 1681"
+  ersterwähnung_kontext: "des Alten Schultheißen Haus"
+  architektur: "dreistöckig, mehrere Wohnstuben, reich verzierter Fachwerkgiebel"
+  namensherkunft: "benannt nach Jakob Haar (Spitzname: der Schwede) aus der späteren Besitzerfamilie"
+GUELTIG_AB: 1550
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: "Zehntscheuer"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1671
+  lage: "Zehnthofgasse"
+  nutzung_historisch: "Scheuer"
+  umnutzung: "Gemeinde baute ihre Hälfte zu Bürgerhaus mit Vereinsräumen um"
+GUELTIG_AB: 1671
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: "Schulhaus"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Schulstraße 12"
+  errichtung: "1879-1880"
+  nutzung: "zwei Klassenräume"
+  merkmale: "zwei separate Eingangstüren für katholische und evangelische Schüler"
+  grund_trennung: "Dorf um 1330 zur Hälfte unter österreichischer, zur Hälfte unter württembergischer Herrschaft"
+  status: "ersetzt durch Schulgebäude 1966"
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: "Schulgebäude (Neuban)"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1966
+  nutzung: "Grundschule"
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: "Ärztehaus"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Pilgerstraße 2"
+  vorname_schulhaus: "Ehemaliges Schulhaus"
+  umnutzung_datum: "nach 1982"
+  zwischennutzung: "1967-1982 Rathaus"
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: wappen
+BEZEICHNUNG: "Wappen Altingen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung: 1954
+  beschreibung: "in Rot einen goldenen Abtsstab, beheftet mit zwei schräg gekreuzten goldenen Ähren, Kreuzung überdeckt durch gestürzte silberne Pflugschar"
+  symbolik_abtsstab: "deutet auf früheren Besitz der Klöster Ottobeuren und Bebenhausen hin"
+  farben_herkunft: "aus dem Wappen der Pfalzgrafen von Tübingen"
+  gueltigkeitsdauer: "17 Jahre bis Gründung Ammerbuch 1971"
+GUELTIG_AB: 1954
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: "Ersterwähnung Altingens"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: "Erstmals schriftlich erwähnt"
+  jahr: 1182
+  quellenangabe: "baden-württembergisches Staatsarchiv"
+GUELTIG_AB: 1182
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: "Verkauf von Gütern an Kloster Bebenhausen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  datum: "7. Juli 1299"
+  handlung: "Graf Rudolf von Tübingen (genannt der Scheerer) verkauft Güter und Patronatrecht der Kirche"
+  kaufpreis: "700 Pfund Heller"
+  erwerber: "Kloster Bebenhausen"
+GUELTIG_AB: 1299
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: "Teilung unter zwei Herrschaften"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: "um 1330"
+  beschreibung: "Dorf zur Hälfte unter österreichischer, zur Hälfte unter württembergischer Herrschaft"
+  konsequenz_reformation: "nur württembergischer Teil evangelisch, österreichische Häuser blieben katholisch"
+GUELTIG_AB: 1330
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: "Gründung Ammerbuch"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  datum: "1. Dezember 1971"
+  handlung: "Altingen und fünf weitere Gemeinden fusionieren zur Gemeinde Ammerbuch"
+  status_vorher: "ehemals selbständige Gemeinde"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: "Ödlesberg"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Neubaugebiet"
+  gründung: "frühe 1970er Jahre"
+  beschreibung_kontext: "gegründetes Neubaugebiet Altingens"
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: "Berthold von Altingen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1393
+  genauigkeit_geburtsjahr: "ca."
+  titel: "Ritter"
+GUELTIG_AB: 1393
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: "Roland Asch"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsdatum: "12. Oktober 1950"
+  profession: "deutscher Rennfahrer"
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: "Ammertalbahn"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Eisenbahnstrecke"
+  strecke: "Herrenberg-Tübingen"
+  verkehr: "Regionalbahnen"
+  takt: "30-Minuten-Takt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: telekommunikation
+BESCHREIBUNG: "Telefonvorwahl Altingen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  vorwahl: "07032"
+  gehört_zu: "Herrenberg"
+  besonderheit: "obwohl Altingen zum Landkreis Tübingen gehört, hat es die Vorwahl von Herrenberg im Landkreis Böblingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: verein
+BEZEICHNUNG: "TSV (Turn- und Sportverein) Altingen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Turn- und Sportverein"
+  sportarten: "Fußball, Tischtennis, Volleyball"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: verein
+BEZEICHNUNG: "Jugendrotkreuz Altingen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Jugendgruppe"
+  übergeordnete_organisation: "DRK Ammerbuch"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: bevölkerungsentwicklung
+BEZEICHNUNG: "Einwohnerstatistik Altingen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://de.wikipedia.org/wiki/Altingen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1855: 806
+  einwohner_1900: 762
+  einwohner_1950: 1005
+  einwohner_1961: 1068
+  einwohner_1970: 1321
+  einwohner_2000: 2444
+  einwohner_2007: 2549
+  einwohner_2011: 2530
+  einwohner_2016: 2556
+  einwohner_2019: 2529
+  einwohner_2023: 2575
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kloster
+BEZEICHNUNG: "Kloster Ottobeuren"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "besaß historisch Güter und Besitz in Altingen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: kloster
+BEZEICHNUNG: "Kloster Bebenhausen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "besaß historisch Güter und Patronatrecht der Kirche in Altingen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: "Grundschule Altingen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Schuleinrichtung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: "Kindergärten Altingen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: "Gewässer"
+BEZEICHNUNG_WERT: "Ammer"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  name: "Ammer"
+  beschreibung: "fließt durch/bei Altingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: "Straßen Altingen"
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landstrasse: "L359"
+  kreisstrasse_1: "K6917"
+  kreisstrasse_2: "K6918"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

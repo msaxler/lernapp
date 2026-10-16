@@ -1,0 +1,82 @@
+ID: 370-weststadt-tuebingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Weststadt
+QUELLE: https://de.wikipedia.org/wiki/Weststadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Tübingen
+  liegt_westlich_von: Innenstadt
+  umfasst: westliches Ammertal, Teile des Schlossbergs, Neckartal südlich davon
+  grenzt_oestlich_an: Stadtteile Universität und Zentrum
+  grenzt_suedlich_an: Derendingen
+  grenzt_westlich_an: Hirschau und Unterjesingen
+  grenzt_noerdlich_an: Hagelloch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 370-weststadt-tuebingen/002
+ENTITÄT: baumanlage
+BEZEICHNUNG: Lindenallee
+QUELLE: https://de.wikipedia.org/wiki/Weststadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: älteste Baumanlage Tübingens
+  lage_beschreibung: zwischen Wildermuth-Gymnasium und Sportanlagen des SV 03 Tübingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 370-weststadt-tuebingen/003
+ENTITÄT: bauwerk
+BEZEICHNUNG: Bismarckturm
+QUELLE: https://de.wikipedia.org/wiki/Weststadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Lichtenberger Weg
+  baujahr: 1907
+  renovierungsjahr: 2000
+  status_nach_renovierung: wiedereröffnet
+GUELTIG_AB: 1907
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 370-weststadt-tuebingen/004
+ENTITÄT: gymnasium
+BEZEICHNUNG: Wildermuth-Gymnasium
+QUELLE: https://de.wikipedia.org/wiki/Weststadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Weststadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 370-weststadt-tuebingen/005
+ENTITÄT: sportverein
+BEZEICHNUNG: SV 03 Tübingen
+QUELLE: https://de.wikipedia.org/wiki/Weststadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  hat_sportanlagen_in: Weststadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 370-weststadt-tuebingen/006
+ENTITÄT: multifunktionshalle
+BEZEICHNUNG: Paul Horn-Arena
+QUELLE: https://de.wikipedia.org/wiki/Weststadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Weststadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 370-weststadt-tuebingen/007
+ENTITÄT: freibad
+BEZEICHNUNG: Freibad Tübingen
+QUELLE: https://de.wikipedia.org/wiki/Weststadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Weststadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 370-weststadt-tuebingen/008
+ENTITÄT: festplatz
+BEZEICHNUNG: Festplatz- und Messegelände
+QUELLE: https://de.wikipedia.org/wiki/Weststadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlicher Teil der Weststadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

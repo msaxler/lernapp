@@ -1,0 +1,348 @@
+ENTITÄT: ort
+BEZEICHNUNG: Bebenhausen
+QUELLE: https://www.tuebingen.de/148.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_region: nördlich von Tübingen
+  höhe_ünn: 369 [Meter]
+  einwohner: 336
+  beschreibung: "Perle des Schönbuchs"
+  entfernung_tübingen_zentrum: 3 [km]
+  entfernung_tübingen_bahnhof: 6,5 [km]
+  flüsse: Goldersbach und Seebach (Zusammenfluss)
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bebenhausen
+QUELLE: https://de.wikipedia.org/wiki/Bebenhausen | Wikipedia
+EIGENSCHAFTEN:
+  status_stadtteil: kleinster nach Einwohnerzahl
+  status_stadtteil_fläche: zweitgrößter nach Fläche (nach Lustnau)
+  ensembleschutz: true
+  gueltig_ab_ensembleschutz: 1975
+  einwohner_eingemeindet: 350
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: zisterzienser_kloster
+BEZEICHNUNG: Kloster Bebenhausen
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet_von: Pfalzgraf Rudolf von Tübingen
+  gegründet_als: Familiengrablege
+  ringmauer: dreifach
+  klosterkirche_dachreiter: markant
+  gründung_grund: Vermutlich auf älteren Burg
+  klosterorden_initial: Prämonstratenser
+  klosterorden_ab_1189: Zisterzienser
+  orden_herkunft: Kloster Schönau
+  papst_schutz: Papst Innozenz III. (1204)
+  konvent_ende_13_jh: 60+ Mönche, 130 Konversen
+  kirche_einweihung: 1885
+  status_bedeutung: neben Maulbronn und Herrenalb bedeutendste Klöster Württembergs
+  superlativ: schönste und besterhaltene mittelalterliche Klosteranlagen Deutschlands
+  restaurierung_zeitraum: 1864-1885
+  museum_seit: 1986
+GUELTIG_AB: 1183
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kloster_schule
+BEZEICHNUNG: Evangelische Klosterschule Bebenhausen
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1556
+  gegründet_von: Herzog Christoph von Württemberg
+  gründung_grund: Nach Reformation, neue evangelische Schule
+  aufgelöst: Anfang 19. Jahrhundert
+  erster_schultheiß: Christian Eberhard Erbe
+  bekannte_schüler: Karl Philipp Conz, Friedrich Wilhelm Joseph Ritter von Schelling
+GUELTIG_AB: 1556
+GUELTIG_BIS: 1807
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: jagdschloss
+BEZEICHNUNG: Schloss Bebenhausen
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umgebaut_aus: Abtshaus des Klosters
+  umgebaut_jahr: 1807
+  nutzer_früher: König Friedrich, König Wilhelm I., König Karl, König Wilhelm II.
+  innenausstattung: Grüner Saal (Jugendstil, 1915/1916)
+  grüner_saal_gestalter: Eugen Wörner (Entwurf), Julius Mössel (Wandmalereien)
+  wandmalereien_inhalt: württembergische Burgen, Schlösser, Städte und Stammbaum
+  museo_eröffnung: 1986
+GUELTIG_AB: 1807
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: mühle
+BEZEICHNUNG: Klostermühle Bebenhausen
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gekauft_von: König Wilhelm II.
+  gekauft_jahr: 1897
+  turbinenanlage_einbau: 1899
+  turbinenanlage_zweck: Erzeugung elektrischen Stroms
+GUELTIG_AB: 1897
+IST_VERMUTISCH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gasthaus
+BEZEICHNUNG: Zum Waldhorn
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebaut: 1841
+  anlass_bau: An neuer Staatsstraße L1208 errichtet nach Trockenlegung Klosterteiche
+  nutzen_für_ort: Profitierte Klosterdorf vom Durchgangsverkehr
+GUELTIG_AB: 1841
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gemeindewappen
+BEZEICHNUNG: Gemeindewappen Bebenhausen
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verliehen: 1948
+  beschreibung: Grün mit von Rot und Silber doppelreihig geschachtem Schräglinksbalken
+  symbolik: Zisterzienserbalken
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Bebenhausen
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingeweiht: 1925
+  bedeutung: Erstes eigenes Verwaltungsgebäude der Gemeinde
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturpark
+BEZEICHNUNG: Naturpark Schönbuch
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet_als_naturpark: 1972
+  status_superlativ: erster Naturpark Baden-Württembergs
+  bebenhausen_stellung: einziger Ort innerhalb des Naturparks
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: landschaftsgarten
+BEZEICHNUNG: Olgahain
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angelegt: 1870
+  angelegt_von: König Karl
+  lage: Kirnberg (bei Bebenhausen)
+  ausstattung: Spazierwege, Ruhebänke
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: lehrpfad
+BEZEICHNUNG: Geologischer Lehrpfad Kirnberg
+QUELLE: https://de.wikipedia.org/wiki/Bebenhausen | Wikipedia
+EIGENSCHAFTEN:
+  eröffnet: 1977
+  eröffnet_von: Eberhard Karls Universität Tübingen
+  lage: Kirnberg (südlich Bebenhausen)
+  inhalt: Keuperschichten auf Schautafeln
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: evangelische_kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Bebenhausen
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1887
+  gründung_grund: Trennung bürgerliche und kirchliche Gemeinden
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: konvention
+BEZEICHNUNG: Bebenhäuser Konvention
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschlossen: 1893
+  anlass: Jagdbesuch Kaiser Wilhelm II.
+  inhalt: Einheitliches Dienstalter preußischer und württembergischer Offiziere, gegenseitige Kommandierungen
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: forstamt
+BEZEICHNUNG: Forstamt Bebenhausen
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umgebildet_zu_gehegeforstamt: 1965
+  waldfläche: 4500 [Hektar]
+  zusammenlegung: 1. Oktober 1998 mit Forstamt Tübingen
+  sitz_nach_zusammenlegung: Tübingen
+GUELTIG_AB: 1965
+GUELTIG_BIS: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: landtag
+BEZEICHNUNG: Landtag von Württemberg-Hohenzollern
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitzort: Kloster Bebenhausen
+  tagungszeit_anfang: 1947
+  tagungszeit_ende: 1952
+  bedeutung: Beratung und Verabschiedung Landesverfassung
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: landesstraße
+BEZEICHNUNG: L1208
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebaut: 1841
+  gründung_grund: Trockenlegung ehemaliger Klosterteiche
+  verbindung: An Bebenhausen vorbei
+GUELTIG_AB: 1841
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Schwarzwald-Schwäbische-Alb-Allgäu-Weg (Hauptwanderweg 5)
+QUELLE: https://de.wikipedia.org/wiki/Bebenhausen | Wikipedia
+EIGENSCHAFTEN:
+  führung_durch: Bebenhausen
+  betreiber: Schwäbischer Albverein
+  streckenverlauf: Pforzheim bis Westallgäu
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: König Wilhelm II. von Württemberg
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdauer: 1848-1921
+  residenz: Jagdschloss Bebenhausen
+  thronverzicht_datum: 30. November 1918
+  thronverzicht_ort: Bebenhausen
+  wohnen_nach_thronverzicht: Ja, mit Gemahlin Charlotte
+  titel_nach_abdankung: Herzog von Württemberg
+  todesereignis: 2. Oktober 1921 in Bebenhausen
+GUELTIG_AB: 1921
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Charlotte (Gemahlin König Wilhelm II.)
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  residenz: Schloss Bebenhausen nach Abdankung Ehemann
+  residenzdauer_bis: 1946
+GUELTIG_AB: 1918
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Kurt Georg Kiesinger
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Bundeskanzler
+  aufenthalt_in_bebenhausen: Ferien und Wochenenden
+  aufenthalt_ab: 1967
+  ortsbezeichnung_infolge_besuch: "Deutschlands Wochenendhauptstadt"
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Christian Eberhard Erbe
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf_und_herkunft: Klosterküfer
+  amt: Erster Schultheiß der Gemeinde Bebenhausen
+  ernannt: 18. März 1823
+GUELTIG_AB: 1823
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeinde_status
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kommunale_selbstständigkeit_verkündet: 18. März 1823
+  kommunale_selbstständigkeit_verkündet_von: König Wilhelm I. von Württemberg
+  selbstständigkeit_dauer_jahre: 151
+  eingemeindet_zu: Tübingen
+  eingemeindet_datum: 1. November 1974
+  eingemeindet_population: 350
+GUELTIG_AB: 1823
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmalschutz
+BEZEICHNUNG: Ensembleschutz Bebenhausen
+QUELLE: https://www.tuebingen.de/148/330.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Erste Gesamtanlage unter Ensembleschutz nach neuem Denkmalschutzgesetz
+  unter_ensembleschutz_seit: 1975
+  ortsbildsatzung_beschlossen: 1994
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

@@ -1,0 +1,64 @@
+Orte: 361-kayh 362-altingen 363-breitenholz 364-entringen 365-pfaeffingen 366-poltringen 367-reusten 368-unterjesingen 369-hagelloch 370-weststadt-tuebingen
+== Extraktion (Haiku) 09:19:46
+361-kayh             extraktion ein  17431  aus  13842   0.09 USD   100 s  claude-haiku-4-5-20251001
+362-altingen         extraktion ein  18579  aus  15916   0.10 USD   114 s  claude-haiku-4-5-20251001
+363-breitenholz      extraktion ein  20549  aus   8109   0.07 USD    69 s  claude-haiku-4-5-20251001
+364-entringen        extraktion ein  22112  aus  18210   0.12 USD   139 s  claude-haiku-4-5-20251001
+365-pfaeffingen      extraktion ein  19242  aus   6489   0.06 USD    52 s  claude-haiku-4-5-20251001
+366-poltringen       extraktion ein  20736  aus   8742   0.07 USD    65 s  claude-haiku-4-5-20251001
+367-reusten          extraktion ein  22068  aus  24382   0.15 USD   174 s  claude-haiku-4-5-20251001
+368-unterjesingen    extraktion ein  21133  aus   8209   0.07 USD    61 s  claude-haiku-4-5-20251001
+369-hagelloch        extraktion ein  19488  aus  11133   0.08 USD    79 s  claude-haiku-4-5-20251001
+370-weststadt-tuebingen extraktion ein  15983  aus  11791   0.08 USD    79 s  claude-haiku-4-5-20251001
+zusammen: 16835 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+361-kayh           15775 Zeichen
+362-altingen       20174 Zeichen
+363-breitenholz    18625 Zeichen
+364-entringen      29899 Zeichen
+365-pfaeffingen    19138 Zeichen
+366-poltringen     21289 Zeichen
+367-reusten        26198 Zeichen
+368-unterjesingen   21615 Zeichen
+369-hagelloch      16823 Zeichen
+370-weststadt-tuebingen    9927 Zeichen
+== Karten (claude-opus-5-5) 09:23:50
+361-kayh             karten     ein  36028  aus  31044   0.86 USD   270 s  claude-opus-5-5
+362-altingen         karten     ein  38715  aus  33436   0.92 USD   290 s  claude-opus-5-5
+363-breitenholz      karten     ein  37427  aus  36123   0.97 USD   305 s  claude-opus-5-5
+364-entringen        karten     ein  44497  aus  42547   1.15 USD   371 s  claude-opus-5-5
+365-pfaeffingen      karten     ein  38170  aus  34824   0.95 USD   297 s  claude-opus-5-5
+366-poltringen       karten     ein  39232  aus  29962   0.86 USD   255 s  claude-opus-5-5
+367-reusten          karten     ein  39657  aus  42047   1.10 USD   361 s  claude-opus-5-5
+368-unterjesingen    karten     ein  39707  aus  36463   0.99 USD   313 s  claude-opus-5-5
+369-hagelloch        karten     ein  36551  aus  32882   0.90 USD   294 s  claude-opus-5-5
+370-weststadt-tuebingen karten     ein  32185  aus  22867   0.66 USD   199 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 09:34:40
+361-kayh             pruefung   ein  39114  aus   9424   0.45 USD    80 s  claude-opus-5-5
+362-altingen         pruefung   ein  44009  aus   8889   0.48 USD    78 s  claude-opus-5-5
+363-breitenholz      pruefung   ein  44145  aus   9493   0.49 USD    84 s  claude-opus-5-5
+364-entringen        pruefung   ein  51147  aus   7524   0.51 USD    63 s  claude-opus-5-5
+365-pfaeffingen      pruefung   ein  42854  aus  10249   0.49 USD    91 s  claude-opus-5-5
+366-poltringen       pruefung   ein  44034  aus   8281   0.46 USD    75 s  claude-opus-5-5
+367-reusten          pruefung   ein  49417  aus  12381   0.59 USD   104 s  claude-opus-5-5
+368-unterjesingen    pruefung   ein  43881  aus   8556   0.47 USD    75 s  claude-opus-5-5
+369-hagelloch        pruefung   ein  39846  aus  10632   0.48 USD    92 s  claude-opus-5-5
+370-weststadt-tuebingen pruefung   ein  32629  aus   4499   0.30 USD    41 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 09:37:42
+361-kayh             FEHLER keine Karte an Stufe 2 – kein Lauf
+362-altingen         stufe2     ein 393539  aus   6465   0.73 USD   114 s  claude-opus-5-5,claude-haiku-4-5-20251001
+363-breitenholz      stufe2     ein 291162  aus   6046   0.72 USD    93 s  claude-opus-5-5,claude-haiku-4-5-20251001
+364-entringen        stufe2     ein 265187  aus   7514   1.08 USD   108 s  claude-opus-5-5,claude-haiku-4-5-20251001
+365-pfaeffingen      stufe2     ein 333752  aus   9089   1.00 USD   128 s  claude-opus-5-5,claude-haiku-4-5-20251001
+366-poltringen       stufe2     ein 388662  aus   8849   1.03 USD   134 s  claude-opus-5-5,claude-haiku-4-5-20251001
+367-reusten          stufe2     ein 138105  aus   2568   0.29 USD    47 s  claude-opus-5-5,claude-haiku-4-5-20251001
+368-unterjesingen    stufe2     ein 447056  aus   8962   0.89 USD   157 s  claude-opus-5-5,claude-haiku-4-5-20251001
+369-hagelloch        stufe2     ein 167495  aus   3161   0.44 USD    68 s  claude-opus-5-5,claude-haiku-4-5-20251001
+370-weststadt-tuebingen stufe2     ein 225664  aus   8709   0.87 USD   117 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 09:42:07
+Urteile: {'korrigiert': 1096, 'bestätigt': 1876, 'gesperrt': 90, 'unsicher': 237} | im Vorrat: 3209 Karten an 370 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     370 Orte, 3209 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 3680122 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 09:42:09

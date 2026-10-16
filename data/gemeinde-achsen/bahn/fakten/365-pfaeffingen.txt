@@ -1,0 +1,390 @@
+ID: 365-pfaeffingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Pfäffingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1188
+  lage: westlich von Tübingen, Landkreis Tübingen, Baden-Württemberg
+  status_bis_1971: selbstaendige_gemeinde
+  status_seit_1971: ortsteil_von_ammerbuch
+  fusion_mit: Altingen, Breitenholz, Entringen, Poltringen, Reusten
+  siedlungsschwerpunkte: 2
+  beschreibung: "Zwei Siedlungsschwerpunkte: nördlich Dienstleistungszentrum und Infrastruktur, südlich ruhiger Ortskern an der Ammer"
+GUELTIG_AB: 1188
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 365-pfaeffingen/002
+ENTITÄT: kirche
+BEZEICHNUNG: Michaelskirche
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1275
+  kirchenheiliger: Michael
+  kirchenheiliger_erstmals_erwaehnt: 1483
+  bauzeit: 1711
+  grund_neubau: "Ständige Überschwemmungen durch die Ammer, Versetzung auf hochwasserfreie Südseite"
+  besonderheit: "Errichtet unter Verwendung von Bauteilen des alten Gotteshauses im Tal"
+  lage_alt: nördlich_der_ammer
+  lage_neu: suedlich_der_ammer
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 365-pfaeffingen/003
+ENTITÄT: rathaus
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruengliche_funktion: Meiereigebäude
+  erbaut: 1811
+  erworben_von_gemeinde: 1828
+  umgebaut: 1898
+  schulhaus_bis: 1960
+  sanierung_abgeschlossen: 1986
+  hof_neugestaltung: 1986
+  aktuelle_funktion: "Bürgerbüro, Gemeindebücherei, Räume der Schülerbetreuung"
+  lage_alt: "Stelle des ehemaligen Schlosses"
+GUELTIG_AB: 1811
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 365-pfaeffingen/004
+ENTITÄT: bahnhof
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1909
+  bahn: Ammertalbahn
+  bahnstrecke: "Herrenberg – Tübingen"
+  taktung: "30-Minuten-Takt"
+  verkehrsart: "Regionalbahnen"
+  busverhaltestelle: ja
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 365-pfaeffingen/005
+ENTITÄT: wappen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angenommen: 1925
+  beschreibung: "In Blau ein silberner Querbalken, begleitet von je einem sechsstrahligen Stern"
+  basis: "Siegel des Andreas v. Kröwelsau, gen. 'Pfeffinger', von 1495"
+  vorheriges_wappen_quelle: "Siegel des 16. Jh., Wappen der Herren v. Gültlingen"
+GUELTIG_AB: 1925
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 365-pfaeffingen/006
+ENTITÄT: gebaeude
+BEZEICHNUNG: Zehntscheuer
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1704
+  bautyp: "Doppelscheuer"
+  grund_errichtung: "Altes, baufälliges Schloss 1699 abgerissen"
+  lage: "Rechte Hand etwas abseits der Langen Gasse"
+  aktuelle_funktion: "Feuerwehrmagazin und Räume des Jugendclubs"
+GUELTIG_AB: 1704
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 365-pfaeffingen/007
+ENTITÄT: kelter
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Sulztal
+  versetzt: 1811
+  lage_jetzt: "Dorfstraße 40"
+GUELTIG_AB: 1811
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 365-pfaeffingen/008
+ENTITÄT: brunnen
+BEZEICHNUNG: Gänsebrunnen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "vor dem Rathaus"
+  neugestaltung: 1986
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 365-pfaeffingen/009
+ENTITÄT: schloss
+BEZEICHNUNG: Mittelschloss
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_vermutet: "Anwesen Gässle 6 und Dorfstraße 14"
+  status: "vermutlich nicht mehr erhalten"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 365-pfaeffingen/010
+ENTITÄT: schloss
+BEZEICHNUNG: Oberes Schloss
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Schlosshof"
+  status: "historisch"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 365-pfaeffingen/011
+ENTITÄT: schlosshoefe
+BEZEICHNUNG: Schlossgarten
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umfassung: "Mauer des 18. Jahrhunderts"
+  ausdehnung: "zwischen Dorf- und Michaelstraße bis zur Eberhardtstraße"
+  bebauung: 1864-1885
+  anmerkung: "Mauer beim Umbau abgebrochen, Reste in der Michaelstraße"
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 365-pfaeffingen/012
+ENTITÄT: friedhof
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verlegung: 1711
+  grund_verlegung: "Hochwassergefahr durch die Ammer"
+  alte_lage: "nördlich der Ammer"
+  neue_lage: "südlich der Ammer"
+GUELTIG_AB: 1711
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 365-pfaeffingen/013
+ENTITÄT: unternehmen
+BEZEICHNUNG: Wilhelm Haug GmbH & Co. KG
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  gruentung_start: 1931
+  branche: "Düngemittel- und Kunststoffbranche"
+  marken: "Manna, Haugolit"
+  status: "noch heute tätig"
+GUELTIG_AB: 1931
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 365-pfaeffingen/014
+ENTITÄT: unternehmen
+BEZEICHNUNG: Maico
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 1931
+  gegruendungsort: Poltringen
+  umzug_nach_pfaeffingen: 1938-1939
+  produkt: "Motorradherstellung"
+  zusatzprodukt: "Kleinserien-Automobilbau"
+  bedeutung: "führendes deutsches Unternehmen der Zweiradherstellung"
+  teilkonkurs: 1958
+  zweiter_konkurs: 1983
+  produktion_eingestellt: 1986
+GUELTIG_AB: 1931
+GUELTIG_BIS: 1986
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 365-pfaeffingen/015
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bechtle GmbH & Co. KG
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  spezialisierung: "Teigwarenfabrik (Spätzle und Knöpfle)"
+  ursprungsort: Tuebingen
+  ansiedlung_in_pfaeffingen: 1962
+  standort_ende: "ca. 1999"
+  zusammenschluss: "Alb-Gold Teigwaren GmbH"
+  zusammenschluss_jahr: 2001
+  verlagerung: Trochtelfingen
+GUELTIG_AB: 1962
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 365-pfaeffingen/016
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Einkaufszentrum
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  entstehung: 1999-2005
+  lage: "südlich des Bahnhofareals"
+  einrichtungen: "Drogeriemarkt, Lebensmittelanbieter, Bekleidungshändler"
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 365-pfaeffingen/017
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Ärztehaus
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  erstellung: "bis 2005"
+  lage: "Bahnhofbereich"
+  ansiedlung: "Ärzte verschiedener Fachrichtungen, Physiotherapeut, Apotheke"
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 365-pfaeffingen/018
+ENTITÄT: behoerde
+BEZEICHNUNG: Oberamt Tübingen
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  zugehoerigkeit_pfaeffingen: "als Kammergut bis 1813"
+GUELTIG_AB: 1699
+GUELTIG_BIS: 1813
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 365-pfaeffingen/019
+ENTITÄT: behoerde
+BEZEICHNUNG: Oberamt Herrenberg
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  zugehoerigkeit_pfaeffingen: "ab 1813"
+GUELTIG_AB: 1813
+GUELTIG_BIS: 1939
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 365-pfaeffingen/020
+ENTITÄT: administratives_gebiet
+BEZEICHNUNG: Landkreis Tübingen
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  zugehoerigkeit_pfaeffingen: "ab 1939"
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 365-pfaeffingen/021
+ENTITÄT: administratives_gebiet
+BEZEICHNUNG: Altwürttemberg
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  zugehoerigkeit_pfaeffingen: "bis 1805"
+GUELTIG_AB: 1699
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 365-pfaeffingen/022
+ENTITÄT: administratives_gebiet
+BEZEICHNUNG: Königreich Württemberg
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  zugehoerigkeit_pfaeffingen: "1806 bis 1918"
+GUELTIG_AB: 1806
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 365-pfaeffingen/023
+ENTITÄT: pfarrer
+BEZEICHNUNG: Jakob Weber
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  rolle: "erster evangelischer Pfarrer in Pfäffingen"
+  erwerbung: 1554
+  glaubensrichtung: evangelisch
+GUELTIG_AB: 1554
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 365-pfaeffingen/024
+ENTITÄT: kirchenbuch
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  anlage: 1600
+  saison: "Herbst"
+  besonderheit: "erstes, noch heute erhaltenes Kirchenbuch"
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 365-pfaeffingen/025
+ENTITÄT: adelshaus
+BEZEICHNUNG: Herren von Tischingen
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  ansaessigkeit: "eines der drei Schlösser von Pfäffingen"
+  ansaessigkeit_ende: 1699
+GUELTIG_AB: 1188
+GUELTIG_BIS: 1699
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 365-pfaeffingen/026
+ENTITÄT: adelshaus
+BEZEICHNUNG: Herren von Gültlingen
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  ansaessigkeit: "eines der drei Schlösser von Pfäffingen"
+  ansaessigkeit_ende: 1699
+  besonderheit: "Patronatsrecht der Kirche, Schlossgut im Süden des Ortes"
+GUELTIG_AB: 1188
+GUELTIG_BIS: 1699
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 365-pfaeffingen/027
+ENTITÄT: adelshaus
+BEZEICHNUNG: Herren von Calw
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  ansaessigkeit: "eines der Schlösser von Pfäffingen"
+  ansaessigkeit_ende: 1699
+GUELTIG_AB: 1188
+GUELTIG_BIS: 1699
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 365-pfaeffingen/028
+ENTITÄT: bevoelkerung
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1700: 117
+  einwohner_1706: 140
+  einwohner_1740: 295
+  einwohner_1773: 220
+  einwohner_1806: 297
+  einwohner_1852: 422
+  einwohner_1900: 411
+  einwohner_1925: 398
+  einwohner_1939: 433
+  einwohner_1946: 498
+  einwohner_1950: 581
+  einwohner_1961: 997
+  einwohner_1970: 1417
+  einwohner_1971: 1500
+  einwohner_1980: 1451
+  einwohner_1987: 1413
+  einwohner_2004: 1751
+  einwohner_2005: 1780
+  einwohner_2006: 1815
+  einwohner_2007: 1837
+  einwohner_2008: 1807
+  einwohner_2009: 1809
+  einwohner_2010: 1805
+  einwohner_2015: 1811
+  einwohner_2016: 1774
+  einwohner_2019: 1732
+  einwohner_2020: 1714
+  einwohner_2023: 1698
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 365-pfaeffingen/029
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Bebenhausen
+QUELLE: https://de.wikipedia.org/wiki/Pfäffingen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1187
+  beziehung_zu_pfaeffingen: "In Urkunden des Klosters wird Pfäffingen 1188 erstmals erwähnt"
+GUELTIG_AB: 1187
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

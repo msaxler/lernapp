@@ -1,0 +1,661 @@
+ENTITÄT: ort
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ortsteil: true
+  ortsteil_von: Ammerbuch
+  lage_zwischen: Poltringen und Altingen
+  gewaesser_zusammenfluss: Ammer und Kochhardt
+  groesse_rang: zweitkleinste Gemeinde von Ammerbuch
+  entfernung_tuebingen: 12, richtung: westlich, einheit: km
+  entfernung_herrenberg: 8, richtung: östlich, einheit: km
+  einwohner: 973
+  einwohner_stand_jahr: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Tübingen
+  bundesland: Baden-Württemberg
+  land: Deutschland
+  grundungszeit: ca. 6. Jahrhundert
+  gruender: Alemannen
+  namensherkunft_von: alemannischer Vorname Rusto
+  erste_urkundliche_erwaehnung_zeitraum: 1138-1152
+  erste_urkundliche_erwaehnung_dokument: Reichenbacher Schenkung
+  einwohner: 945
+  einwohner_stand_jahr: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Kirchberg
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  farbkalkstein: ockergelb
+  infrastruktur: Sportgelände, Kindergarten, Friedhof
+  archaeologische_funde: jungsteinzeitliche Siedlungen
+  aelteste_funde_datierung: ca. 4500 v.Chr.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Wolfsberg
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  farbkalkstein: ockergelb
+  infrastruktur: Schule, Turnhalle, Wohnbebauung
+  siedlung: Wolfsbergsiedlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedhof
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oben auf Kirchberg
+  besonderheit: beschwerlicher Weg für ältere Menschen
+  lokales_sprichwort: "Wenn ein Reustener stirbt, kommt er garantiert nach oben und nicht nach unten"
+  spitzname_einwohner: Totenrugeler, schwäbisch Daudarugaler
+  herkunft_spitzname: bei winterlichem Leichenbegängnis rutschte ein Sargträger aus und der Sarg rutschte den Berg hinunter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Heiligkreuzkirche
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Kirchberg
+  baumeister: Mönche des Klosters Bebenhausen
+  baujahr: ca. 1300
+  bestandsdauer: bis 1759
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1759
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kelterkirche
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprungliche_funktion: Weinkelter
+  erbauer_kelter: Kloster Bebenhausen
+  baujahr_kelter: 1575
+  umwandlung_jahr: 1760
+  umwandlung_art: Kelter zu Kirche
+  lage: an Abzweigung nach Rottenburg in der Nähe Jesinger Straße
+  funktion_heute: Dorfmittelpunkt mit Zehntscheuer und Backhäusle
+GUELTIG_AB: 1760
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Pfarrhaus
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1822
+  standort: Jesinger Straße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Backhaus
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1855
+  status: immer noch in Betrieb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1793
+  standort: Einmündung zur Sommergasse
+  status: geschlossen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Backhäusle
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: neben Kelterkirche und Zehntscheuer
+  funktion: Dorfmittelpunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Zehntscheuer
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1575
+  standort: neben Kelterkirche
+  umwandlung: Förderverein baute zur Kulturscheuer mit Bürgertreff um
+GUELTIG_AB: 1575
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: altes Schulgebäude
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1792
+  abriss_jahr: 1991
+  grund_abriss: Neubau Schulsteige zur Wolfsbergsiedlung
+  nachnutzung: Kindergarten
+GUELTIG_AB: 1792
+GUELTIG_BIS: 1991
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gasthaus zum Löwen
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  standort: Ortskern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Wolfsbergsiedlung
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: nach dem Krieg
+  grund_entstehung: Siedlungsgebiet im Tal zu eng
+  zugang: vor allem über Schulsteige
+  schulsteige_ausgebau: 1991
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wohngebiet
+BEZEICHNUNG: Breite
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: nach dem Krieg
+  standort: rechts an der Straße nach Altingen
+  grund_entstehung: Siedlungsgebiet im Tal zu eng
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Königsstraße
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueherer_name: Römerstraße
+  verlauf: nördlich der Wolfsbergsiedlung
+  historische_nutzung: im Mittelalter alter germanischer Gerichtsplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Landstraße L359
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Landstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Kreisstraße K6919
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Kreisstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Kreisstraße K6938
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Kreisstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Guntram
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Adliger
+  aktion: Schenkung von Grundbesitz an Kloster Reichenbach
+  begruendung: Heil seiner Seele und seiner Angehörigen
+  ort_schenkung: Feld nördlich von Rusten, später Kloster Reichenbach
+  datum: Oktober, 7. Oktober, 3 Uhr
+  bedeutung: Anlass für erste urkundliche Erwähnung von Rusten/Reusten
+GUELTIG_AB: 1133
+GUELTIG_BIS: 1137
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gottlieb Friedrich Wagner
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Reusten
+  geburtsdatum: 3. November 1774
+  beruf: Begründer des schwäbischen Mundarttheaters
+  superlativ: Begründer des schwäbischen Mundarttheaters
+GUELTIG_AB: 1774
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Fritz Wenninger
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  sport: Schwerathletik
+  aufenthalt_ort: Gasthof Lamm
+  aufenthalt_zeitraum: 1946-1951
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hugo
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Graf von Tübingen
+  titelveraenderung_ab: Pfalzgraf (ab 1146)
+  rolle_ereignis: anwesend bei Schenkung Guntram
+  sohn: Heinrich
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Metzgerei
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Unten im Ammertal
+  besonderheit: weithin bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Bioladen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Unten im Ammertal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: steinbruch
+BEZEICHNUNG: Steinbruch Reusten
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Kalkstein
+  zeitraum_betrieb: bis 1960er Jahre
+  grund_ergiebigkeit: Aufwölbung des Reustener Sattels
+  standort: unmittelbar hinter Ortsausgang Richtung Poltringen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: KZ-Arbeitseinsatz Steinbruch Reusten
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: Wintermonate 1944/1945
+  zweck: Ausbau Flugplatz Hailfingen
+  arbeiter: KZ-Häftlinge (15-20 täglich)
+  arbeit: Kalksteinabbau und Transport mit Kipploren
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Flugzeugreparaturhalle
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit_existenz: 1944/1945
+  standort: bei Reusten
+  status_heute: Pfeiler noch sichtbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Reusten
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  annahme_jahr: 1954
+  beschreibung: in Gold einen roten Schräglinksbalken, darüber eine Königskrone, unten ein grüner Lindenzweig
+  symbol_balken_krone: Königsstraße
+  symbol_lindenzweig: Gerichtsstätte (Gerichtslinde)
+  farben_herkunft: Rot und Gold aus Wappen der Tübinger Pfalzgrafen
+  gueltigkeit_dauer: 17 Jahre
+GUELTIG_AB: 1954
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: archaeologisches_objekt
+BEZEICHNUNG: Goldring von Ammerbuch
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  fundort: ca. 750 Meter vom Kirchberg entfernt
+  fundkontext: frühbronzezeitliches Frauengrab
+  fundjahr: 2020
+  bedeutung: frühestes sicher datierbare Goldobjekt in Südwestdeutschland
+  superlativ: frühestes sicher datierbare Objekt aus Gold in Südwestdeutschland
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Kräheneck
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  zeit: Mittelalter
+  status: Reste geben bis heute Rätsel auf
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Ammer
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  type: Fluss
+  ursprung: fünf Quelltöpfe südöstlich von Herrenberg
+  zusammenfluss: mit Kochhardt bei Reusten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Kochhardt
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  type: Bach
+  ursprung: nordwestlich von Bondorf
+  speisungsquelle_heute: Kläranlage in Hailfingen
+  zusammenfluss: mit Ammer bei Reusten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: TGV Reusten
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  art: Turn- und Gymnastik Verein
+  frueherer_schwerpunkt: auch Gesang
+  spielgemeinschaft: SG Ammer-Gäu (mit TV Nebringen und SV Bondorf)
+  spielgemeinschaft_sport: Handball
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Reitverein Reusten
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  art: Reitverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Handballturnier Reusten
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  art: Handballturnier
+  haeufigkeit: alljährlich
+  ort: Sportplatz Reusten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Reustener Straßenfest
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Straßenfest
+  ort: Sommergasse beim Rathaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: dokument
+BEZEICHNUNG: Reichenbacher Schenkung
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_niederschrift: 1138-1152
+  ort_rechtshandlung: Gerichtsplatz nördlich der Wolfsbergsiedlung (später Kloster Reichenbach)
+  schenker: Adliger Guntram
+  empfaenger: Kloster Reichenbach
+  inhalt: Schenkung von Grundbesitz
+  dokument_original: Codex Traditionum monasterii Reichenbachensis
+  bedeutung: erste urkundliche Erwähnung von Rusten/Reusten
+  veroeffentlichung: 1858 im Wirtembergische Urkundenbuch
+  aufbewahrung: Universitätsbibliothek Tübingen
+  erste_sichere_urkundliche_erwaehnung: 1288
+GUELTIG_AB: 1138
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Bebenhausen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verhaeltnis_reusten: Reusten gehörte dem Kloster 1293-1808
+  klosteramt_aufloesungsjahr: 1808
+  bauten_in_reusten: Kelter (1575), Heiligkreuzkirche (ca. 1300)
+GUELTIG_AB: 1293
+GUELTIG_BIS: 1808
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Reichenbach
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  empfaenger_schenkung: Guntram
+  dokument_aufzeichnung: Codex Traditionum monasterii Reichenbachensis
+  kirche_patron: heiliger Gregor
+GUELTIG_AB: 1138
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kindergarten
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  standort: Kirchberg
+  umgebungsfunktion: ehemaliges Schulgebäude
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Grundschule
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  status: geschlossen (wegen zu niedriger Schülerzahlen)
+  absolventen_nachbarschulen: Grundschulen Poltringen und Altingen
+  umnutzung: Kindergarten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Förderschule
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  status: geschlossen
+  nachfolge: Förderschule Rottenburg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schulsteige
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausgebau_jahr: 1991
+  funktion: Zugang Wolfsbergsiedlung
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Turnhalle
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Wolfsberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sportplatz
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Kirchberg
+  veranstaltung: Handballturnier (alljährlich)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Jugendtreff
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Jugendtreff
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schnelles Internet
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/reusten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verfuegbarkeit: größtenteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Busverkehr
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  routen: nach Altingen oder Pfäffingen
+  bahnverbindung: Ammertalbahn zu Tübingen und Herrenberg
+  fernverkehrsan_bindung: ja
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Reusten
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  kirche: Kelterkirche
+  kirche_umwandlungsjahr: 1825
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeinde
+BEZEICHNUNG: Ammerbuch
+QUELLE: https://de.wikipedia.org/wiki/Reusten | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Tübingen
+  bundesland: Baden-Württemberg
+  bestandteile: Reusten und fünf weitere Gemeinden
+  gruendungsdatum: 1. Dezember 1971
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung",
+ "ort": "375-suedstadt-tuebingen",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 33836,
+ "token_ein": 37696,
+ "token_aus": 4083,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 30792,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 4083,
+  "output_tokens_details": {
+   "thinking_tokens": 1982
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 30792,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 4083,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 30792,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 30792
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.3293844,
+ "sekunden": 39,
+ "fehler": false,
+ "zeit": "2026-10-16T09:59:59"
+}

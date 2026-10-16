@@ -1,0 +1,179 @@
+ID: 381-dettenhausen/001
+ENTITÄT: ort
+BEZEICHNUNG: Dettenhausen
+QUELLE: https://www.dettenhausen.de/Entdecken-Erleben/Unsere-Gemeinde/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anfaenge: 700
+  anfaenge_kontext: nach Christus, vermutlich
+  erste_urkundliche_erwaehnung: 1100
+  erste_urkundliche_erwaehnung_kontext: nach Christus
+  charakterisierung_bis_wwii: armes Dorf
+  entwicklung_nachkriegszeit: Wirtschaftswunder in den 60er Jahren brachte durch Handwerksentwicklung und Ansiedlung mittelständischer Unternehmen Wohlstand und Wachstum
+GUELTIG_AB: 700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 381-dettenhausen/002
+ENTITÄT: museum
+BEZEICHNUNG: Polizeimuseum
+QUELLE: https://www.dettenhausen.de/Entdecken-Erleben/Museen/Polizeimuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location_strasse: Störrenstraße 8
+  location_gebaeude: Altes Rathaus
+  sammlung_gruender: Bernhard Strobel
+  sammlung_start: 1988
+  offizielle_eroeffnung_museum: 2023
+  dokumentierte_polizeigeschichte_ab: 1857
+  dokumentierte_polizeigeschichte_fokus: Landjägerei bis Gegenwart, uniformen ab 1893, Ausrüstung und Technik Baden-Württemberg
+  kontakt_email: polizeimuseum(at)dettenhausen.de
+  website: https://www.polizeimuseumdettenhausen.de
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 381-dettenhausen/003
+ENTITÄT: museum
+BEZEICHNUNG: Schönbuchmuseum
+QUELLE: https://www.dettenhausen.de/Entdecken-Erleben/Museen/Schoenbuchmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location_strasse: Ringstraße 3
+  abteilungen: Stein, Wald, Jagd
+  abteilung_stein_material: Stubensandstein aus Schönbuchsteinbrüchen
+  abteilung_stein_nutzungsbeispiele: Kölner Dom, Ulmer Münster
+  abteilung_jagd_fokus: Rothirsch, Spannungsfeld zwischen herrschaftlichem Jagdgebaren und bäuerlicher Not
+  abteilung_wald_flaeche: 10000 Hektar
+  abteilung_wald_region: zwischen Herrenberg, Schlaitdorf, Waldenbuch und Tübingen
+  abteilung_wald_historische_nutzung: Viehweide, Jagdrevier württembergischer Herzöge, Energieversorgung für über 60 umliegende Städte und Gemeinden
+  abteilung_wald_waldgeschichte_bis_1800: keine Nadelbäume, kein Wald nach modernem Verständnis
+  goethe_bezug_jahr: 1797
+  goethe_beschreibung: einzelne Eichbäume stehen hier und da auf der Trifft (Schönbuchlandschaft)
+  telefon: 07157 126-30
+  digitales_museum: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 381-dettenhausen/004
+ENTITÄT: ausstellung
+BEZEICHNUNG: Drei Fremde
+QUELLE: https://www.dettenhausen.de/Entdecken-Erleben/Museen/Schoenbuchmuseum/Sonderausstellungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort_hauptausstellung: Schönbuchmuseum, 2. Obergeschoss
+  dauer_hauptausstellung: 26.03.2026-15.11.2026
+  kunstformen: Skulptur, Druckgrafik, Malerei
+  kuenstler: Eva Schulz, Markus Tränkner, Ingrid Swoboda
+  kuenstler_provenienz: Atelier Alte Spinnerei Wannweil, umgezogen zu Himmelreichateliers am Rand des Schönbuchs in Tübingen-Lustnau
+  ausstellung_fokus: Spannungen der Gegenwart, atmosphärische Malerei, kraftvolle Holzdrucke, elementare Steinskulpturen
+  ort_begleitend: Café Mieze, Tübinger Straße 66 Dettenhausen
+  dauer_begleitend_bis: 30.06.2026
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 381-dettenhausen/005
+ENTITÄT: ausstellung
+BEZEICHNUNG: Karambolagen. Fotografien aus Polizeiarchiven 1945-1985
+QUELLE: https://www.dettenhausen.de/Entdecken-Erleben/Museen/Schoenbuchmuseum/Sonderausstellungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Schönbuchmuseum, Ringstraße 3
+  dauer: 29.03.2026-13.12.2026
+  kurator: Ulrich Hägele (Medienwissenschaftler Universität Tübingen)
+  fokus: Unfallbilder aus Polizeiarchiven
+  bildanzahl: ca. 100
+  bildanzahl_genauigkeit: ca.
+  dokumentationszeitraum: 1945-1985
+  zeitgeschichtlicher_fokus: Motorisierung in BRD 1950er Jahre, Verkehrssicherheit, Unfallaufnahmen mit Polizeikameras ab 1950er
+  archivstandorte: Polizeimuseen Dettenhausen und Stuttgart
+  begleitobjekte: Originalausrüstung Verkehrserziehung, Radarfallenkamera der Verkehrspolizei
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 381-dettenhausen/006
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Robert Schlienz
+QUELLE: https://www.dettenhausen.de/Entdecken-Erleben/Unsere-Gemeinde/Persoenlichkeiten-im-Ort/Schlienz,Robert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 03.02.1924
+  geburt_ort: Stuttgart-Zuffenhausen
+  fussball_start_alter: 6 Jahre
+  fussball_start_verein: FV Zuffenhausen
+  fussball_hauptverein: VfB Stuttgart
+  fussball_hauptverein_join_alter: 16 Jahre
+  kriegsdienst_folge: schwere Verwundung Ostfront, Narbe im Gesicht
+  krieg_letzte_spielaktion: 02.04.1945 Spiel VfB Stuttgart (abgebrochen wegen Fliegeralarm)
+  torschuetzenkoenig_saison_1945_46_tore: 46
+  torschuetzenkoenig_saison_1945_46_spiele: 30
+  torschuetzenkoenig_saison_1947_48: ja
+  superlativ: Torschützenkönig zwei aufeinanderfolgender Saisons Süddeutsche Oberliga
+  unfall_datum: 14.08.1948
+  unfall_ursache: Fahrzeugumkippen nach Schlagloch, Fahrt mit geliehenem Opel-Pritschenwagen
+  unfall_folge: Amputation linker Unterarm
+  position_alt: Mittelstürmer
+  position_neu_nach_unfall: Offensiver Außenläufer
+  trainer: Georg Wurzer
+  rueckkehr_spielfeld: 05.12.1948
+  tage_nach_unfall_rueckkehr: ca. 115
+  tage_nach_unfall_rueckkehr_genauigkeit: ca.
+  erfolg_deutscher_meister: 1950, 1952
+  erfolg_deutscher_meister_rolle: Kapitän
+  erfolg_deutscher_pokalsieger: 1954, 1958
+  erfolg_vizemeisterschaft: 1953
+  auszeichnung_silbernes_lorbeerblatt: 1950
+  grund_lorbeerblatt: großartige sportliche Leistungen
+  nationalmannschaft_berufung: 1955, 1956
+  nationalmannschaft_spiele: 3
+  nationalmannschaft_gegner: England, Nordirland, Niederlande
+  fussball_karriereende: 1960
+  geschaeft_nach_karriere: Inhaber Sportgeschäft Stuttgart-Bad Cannstatt, später Weinhandel und Geschenkartikel
+  umzug_dettenhausen: ja
+  aktivitaeten_dettenhausen: Teilnahme an Vereinsturnieren und Freundschaftsspielen
+  vereinsvorstand_vfb: 1969
+  vereinsvorstand_vfb_dauer: kurzzeitig
+  tod_datum: 18.06.1995
+  tod_alter: 71 Jahre
+  tod_ursache: Herzinfarkt
+  beisetzung_ort: Dettenhausen
+  beisetzung_trauergaeste: über 300
+  stadion_benannt_nach: Robert-Schlienz-Stadion (Amateurstadion VfB Stuttgart)
+  stadion_nutzung_historisch: Heimspielstätte VfB Stuttgart II
+GUELTIG_AB: 1924
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 381-dettenhausen/007
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bernhard Strobel
+QUELLE: https://www.dettenhausen.de/Entdecken-Erleben/Museen/Polizeimuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Polizeibeamter, örtlich
+  dienststelle: Altes Rathaus Dettenhausen
+  sammlung_polizeihistorisch_start: 1988
+  sammlung_standort: Dienststelle Altes Rathaus
+  sammlung_uebergabe_gemeinde: 2023
+  sammlung_uebergabe_anlass: Umzug Polizeiposten Ende 2022, Pensionierung Strobel
+  pension: 2022
+GUELTIG_AB: 1988
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 381-dettenhausen/008
+ENTITÄT: landschaft
+BEZEICHNUNG: Schönbuch
+QUELLE: https://www.dettenhausen.de/Entdecken-Erleben/Museen/Schoenbuchmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 10000 Hektar
+  region: zwischen Herrenberg, Schlaitdorf, Waldenbuch und Tübingen
+  wald_geschichte_bis_1800: keine Nadelbäume, kein Wald nach modernem Verständnis
+  vegetation_1797: einzelne Eichbäume auf Trift
+  historische_nutzung: Viehweide, Jagdrevier württembergischer Herzöge, Energieversorgung umliegende über 60 Städte und Gemeinden
+  geologie: Stubensandstein aus Steinbrüchen
+  stein_verwendungsbeispiele: Kölner Dom, Ulmer Münster
+  fauna_focus: Rothirsch
+  literarischer_bezug_goethe: 1797 beschrieb Goethe auf Italienreise über Tübingen die Schönbuchlandschaft
+GUELTIG_AB: vor 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

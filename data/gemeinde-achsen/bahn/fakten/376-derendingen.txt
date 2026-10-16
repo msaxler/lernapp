@@ -1,0 +1,222 @@
+ID: 376-derendingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Derendingen
+QUELLE: https://www.tuebingen.de/150.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position_in_stadt: südlichster Stadtteil von Tübingen
+  hoehenlage: 328 [Meter über Meeresspiegel]
+  lage_geografisch: nordöstliche Ausläufer des Rammert-Bergzugs zwischen Steinlach- und Neckartal
+  einwohnerzahl: 7514 [Stand 31. Dezember 2025]
+  erreichbarkeit_bahn: Bahnlinie Stuttgart–Sigmaringen
+  erreichbarkeit_bus: Stadtbuslinien 3, 5, 16
+  erreichbarkeit_strasse: B 27 Stuttgart–Hechingen, B 28 Herrenberg–Reutlingen, K 6900 Rottenburg–Dußlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 376-derendingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Derendingen
+QUELLE: https://www.tuebingen.de/150/359.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 1089
+  urkundliche_ersterwahnung_quelle: Zwiefalter Chroniken
+  ortsname_formen_historisch: Taredingin, Tarodingin
+  archaologische_funde: 7. Jahrhundert
+  grund_fruehere_besiedlung: Endung "ingen" und archäologische Funde
+  teilung_ortsherschaft: Graf Luitold von Achalm schenkte Hälfte an Kloster Zwiefalten, andere Hälfte Pfalzgrafen von Tübingen
+  verkauf_an_wuertemberg: 1342
+  grund_verkauf: Verarmung der Pfalzgrafen
+  reformation_wuertemberg_teil: 1534
+  reformator_truber: 1567 als Gemeindepfarrer eingesetzt
+  kloster_uebergabe: 1750 Kloster Zwiefalten übergab Besitztümer an Württemberg
+  grund_klosteruebergabe: Württembergs Zustimmung zur Erhebung des Klosters in Reichsklosters-Stand
+  konfessionelle_situation_nach_1750: politisch geeint, konfessionell Aufteilung erhalten (frühere Kloster-Untertanen katholisch)
+  eingemeindet_nach_tuebingen: 1934
+  besatzung_1945: 19. April 1945 französische Besatzungstruppen
+  wirtschaftsstruktur_bis_19jh: Landwirtschaft
+  industrialisierung_beginn: 1815 Gründung Ölmühle Wohlboldt
+  entwicklung_neuzeitlich: Wohn- und Gewerbegebiete, behördliche Einrichtungen, Schul-, Sport- und Bildungszentrum
+GUELTIG_AB: 1089
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 376-derendingen/003
+ENTITÄT: kirche
+BEZEICHNUNG: St. Gallus-Kirche
+QUELLE: https://www.tuebingen.de/150/358.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ortsausgang Derendingen Richtung Weilheim
+  besonderheit_umgebung: Friedhof mit Blick über Neckartal zur Wurmlinger Kapelle
+  archaologische_befunde_1979: Mauerreste aus alemannischer Zeit (7. Jahrhundert)
+  befunde_vorgaengerkirchen: Grundmauern von verschiedenen Vorgängerkirchen
+  steinkirche_1514: spätgotischer Stil
+  geschichte_1514: 1514 Steinkirche gebaut
+  zerstoerung_1560: 8. Dezember 1560 Brandkatastrophe
+  heutiges_gebaeude_bauzeit: 1561-1563
+  schaeden_wk2: Luftmine am Ende des 2. Weltkriegs beschädigte Dach schwer
+  wiederherstellung: ab 1947 wieder benutzt
+  bedeutung_heute: Wallfahrtsort für viele Slowenen
+  denkmael_truber: Denkmal für Primus Truber
+  kunstwerke: vier Chorfenster "Das Himmelreich als Netz" und Noah-Fenster (Künstlerin: Gudrun Müsse-Florin)
+  renovation_kunstwerke: 1980
+GUELTIG_AB: 1561
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 376-derendingen/004
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Primus Truber
+QUELLE: https://www.tuebingen.de/150/358.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Slowenien
+  beruf: Reformator
+  position: Gemeindepfarrer in Derendingen 1567–1586
+  besonderheit: Denkmal in St. Gallus-Kirche vorhanden
+  erinnerung_heute: Wallfahrtsort für slowenische Besucher
+GUELTIG_AB: 1567
+GUELTIG_BIS: 1586
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 376-derendingen/005
+ENTITÄT: maehle
+BEZEICHNUNG: Mühle (historisch)
+QUELLE: https://www.tuebingen.de/150/359.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitliche_existenz: bis ins 19. Jahrhundert
+  lage_spaeter: Stelle des Kinderhauses "Alte Mühle"
+  wirtschaftliche_bedeutung: Landwirtschaftliche Nutzung
+GUELTIG_BIS: ca. 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 376-derendingen/006
+ENTITÄT: maehle
+BEZEICHNUNG: Ölmühle Wohlboldt
+QUELLE: https://www.tuebingen.de/150/359.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1815
+  bedeutung: Beginn der Industrialisierung in Derendingen
+GUELTIG_AB: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 376-derendingen/007
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Ludwig Krapf
+QUELLE: https://www.tuebingen.de/150/359.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Derendingen
+  geburtsjahr: 1810
+  beruf: Afrika-Missionar
+  leistung: verfasste eine der ersten Afrika-Reisebeschreibungen rund um Kilimandscharo in Kenia
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 376-derendingen/008
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Primož Trubar (Primus Truber)
+QUELLE: https://de.wikipedia.org/wiki/Derendingen_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: slowenisch
+  geburtsjahr: 1508
+  sterbejahr: 1586
+  sterbedatum: 28. Juni 1586
+  beruf: Reformator und Bibelübersetzer
+  position: evangelisch-lutherischer Pfarrer in Derendingen 1567–1586
+  dauer_pfarramt: 19 Jahre als Exilant
+  erinnerung: Straße und evangelisches Gemeindehaus nach ihm benannt
+  kunstwerk: bronzene Büste im evangelischen Gemeindehaus
+  bedeutung_slowenien: Gelegentliche Besuchergruppen aus Slowenien
+GUELTIG_AB: 1567
+GUELTIG_BIS: 1586
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 376-derendingen/009
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Ludwig Krapf
+QUELLE: https://de.wikipedia.org/wiki/Derendingen_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1810
+  sterbejahr: 1881
+  beruf: pietistischer Missionar, Entdecker, Sprach- und Afrikaforscher
+  wohnort: Derendingen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 376-derendingen/010
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Herbert Fischer
+QUELLE: https://de.wikipedia.org/wiki/Derendingen_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1919
+  sterbejahr: 2013
+  beruf: Mediziner und Professor für Phlebologie und Klinische Dermatologie in Tübingen
+  wohnort: Derendingen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 376-derendingen/011
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gerhard Maier
+QUELLE: https://de.wikipedia.org/wiki/Derendingen_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1937
+  sterbejahr: 2026
+  beruf: evangelischer Theologe und Bischof
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 376-derendingen/012
+ENTITÄT: verein
+BEZEICHNUNG: Tübinger Burschenschaft Derendingia
+QUELLE: https://de.wikipedia.org/wiki/Derendingen_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1877
+  gruender: norddeutsche Studenten
+  urspruenglicher_name: Vereinigung Derendingia
+  status_heute: Tübinger Burschenschaft Derendingia
+  mitglieder_geschichte: mehr als 1400 Mitglieder in aller Welt
+GUELTIG_AB: 1877
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 376-derendingen/013
+ENTITÄT: schule
+BEZEICHNUNG: Carlo-Schmid-Gymnasium
+QUELLE: https://de.wikipedia.org/wiki/Derendingen_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Feuerhägle
+  neubau_eroeffnung: 1983
+  frueherer_name: Feuerhägle-Gymnasium
+  frueherer_name_gueltig_bis: 1988
+  organisationsform_bis_1988: Außenstelle der Innenstadtgymnasien Kepler und Wildermuth
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 376-derendingen/014
+ENTITÄT: ort
+BEZEICHNUNG: Derendingen
+QUELLE: https://de.wikipedia.org/wiki/Derendingen_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  statistische_stadtteile: Derendingen-Zentrum, Feuerhägle (Mühlenviertel), Gartenstadt
+  lage_neckar: südliche Neckarseite Tübingens
+  lage_geografisch: Auslauf des Steinlachtals zwischen Weststadt, Südstadt und Weilheim
+  nordgrenze: Moltkestraße
+  westliche_grenze: Europastraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 376-derendingen/015
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnstrecke Tübingen–Sigmaringen
+QUELLE: https://de.wikipedia.org/wiki/Derendingen_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  haltepunkt: Tübingen-Derendingen
+  betreiber: Hohenzollerische Landesbahn
+  fahrzeit_zum_hbf_tuebingen: 2 Minuten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92

@@ -1,0 +1,414 @@
+ID: 380-hirschau-tuebingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Hirschau
+QUELLE: https://www.tuebingen.de/152.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_relativ_tuebingen: südwestlich 6 km
+  entfernung_rottenburg: 6 km
+  hoehe_rathaus: 330 [m ü.M.]
+  hoehe_spitzberg_maximal: 475 [m ü.M.]
+  charakterisierung: gefragter Wohn-, Industrie- und Gewerbe-Stadtteil
+  bauweise_ortsbild: Fachwerkhäuser und herrliche Baumallee zieren die Ortsdurchfahrtsstraße
+  einwohner: 3408
+  stand_einwohner: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 380-hirschau-tuebingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Hirschau
+QUELLE: https://www.tuebingen.de/152/378.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_ansiedlungen: um 200 v.Chr.
+  ur_hirschau_entstehung: 2.–3. Jahrhundert n.Chr.
+  ur_hirschau_grund: Alemannen niederließen sich im Südwesten Deutschlands
+  ur_hirschau_genauigkeit: vermutlich
+  erste_urkundliche_erwaehnung: 1204
+  erwaehnung_quelle: Zisterzienerkloster Bebenhausen
+  status_1381_bis_1805: Grafschaft Hohenberg (Vorderösterreich)
+  statusaenderung_1805_pressburger_frieden: Königreich Württemberg
+  status_1807_bis_1936: Oberamt Rottenburg
+  status_1936_bis_1971: Landkreis Tübingen
+  status_seit_1971: Stadtteil von Tübingen
+  status_1971_verlust: kommunale Selbstständigkeit
+  grenzort_bis_19jh_anf: ja, wehrhafte Mauer gegen Pfalzgrafen von Tübingen
+  tor_west: Oberes Tor (bewachter Durchlass)
+  tor_ost: Unteres Tor (bewachter Durchlass)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 380-hirschau-tuebingen/003
+ENTITÄT: ort
+BEZEICHNUNG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  stadtteil_von: Tübingen
+  lage_in_stadt: westlich der Innenstadt
+  bundesland: Baden-Württemberg
+  einwohner: 3401
+  stand_einwohner: 31. Dezember 2023
+  gemarkungsflaeche: 6.17 [km²]
+  bevoelkerungsdichte: 551 [E/km²]
+  entfernung_tuebingen: 6 [km]
+  entfernung_rottenburg: 6 [km]
+  hoehe: 330 [m ü.NN]
+  nachbarschaft: neben Baggersee
+  spitzberg_hoehe: 475 [m ü.NN]
+  spitzberg_region: Schönbuch
+  weinbau_standort: Fuß des Spitzbergs
+  weinlage: Sonnenhalde
+  weinbaugebiet: Württemberg
+  dorfgruendung_typ: planmäßige Dorfgründung entlang Straße
+  weinbau_nachweis_spaetes_13jh: ja
+  kapelle_erwaehnung_mitte_14jh: ja
+  kapelle_zur_pfarrei_1461: ja
+  pfarrei_abpfarrung: Wurmlingen und Sülchen
+  pfarrei_patronat: Kloster Kreuzlingen
+  wirtschaft_spaetmittelalter: reichstes Dorf der Grafschaft Hohenberg
+  eingemeindung_datum: 1. Juli 1971
+  eingemeindung_folge: verlor kommunale Selbstständigkeit
+  dorf_charakter_erhalten: ja
+  selbstverstaendnis: zunehmend als Stadtteil von Tübingen
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 380-hirschau-tuebingen/004
+ENTITÄT: berg
+BEZEICHNUNG: Spitzberg
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://www.tuebingen.de/152.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe_maximal: 475 [m ü.M.]
+  besonderheit_flora_fauna: einzigartig
+  flora: subtropische Pflanzen
+  fauna_insektenarten: über 1300
+  wissenschaftliche_bedeutung: interessant für Forschende und Wissenschaftler
+  markung: Hirschau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 380-hirschau-tuebingen/005
+ENTITÄT: berg
+BEZEICHNUNG: Spitzberg
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_maximal: 475 [m ü.NN]
+  region_geologie: Schönbuch
+  raumstruktur: flankiert den Stadtteil
+  weinbau_am_fuss: ja
+  anbau_typ: Steillagen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 380-hirschau-tuebingen/006
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://www.tuebingen.de/152.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Verwaltungssitz
+  hoehe_referenzpunkt: 330 [m ü.M.]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 380-hirschau-tuebingen/007
+ENTITÄT: gebaeude
+BEZEICHNUNG: Verwaltungsstelle Hirschau
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://www.tuebingen.de/152.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Verwaltung des Stadtteils Hirschau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 380-hirschau-tuebingen/008
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Hirschau
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://www.tuebingen.de/152/377.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angelegt: 1852
+  anlassort: bei Wallfahrtskapelle
+  grund_verlegung: ursprünglicher Friedhof befand sich um Pfarrkirche mitten im Ort
+  ausstattung: Ehrenmal für Kriegstote
+GUELTIG_AB: 1852
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 380-hirschau-tuebingen/009
+ENTITÄT: kapelle
+BEZEICHNUNG: Wurmlinger Kapelle
+QUELLE: https://www.tuebingen.de/152/377.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urform: Grabkapelle
+  gruender: Graf Anselm von Calw
+  errichtet: um 1050
+  standort: Kapellenberg am Ende des Tübinger Spitzbergs
+  zerstoerung: Dreißigjähriger Krieg
+  wiederaufbau: 17. Jahrhundert
+  aktuelle_form_errichtet: frühe 1960er Jahre
+  kulturelle_erwaehnung: besungen von Ludwig Uhland (Dichter)
+  erreichbarkeit_von_hirschau: 20 Minuten Fußweg
+  ausblick: Panoramablick über Ammer und Neckartal
+  wanderverbindung: Weg von Kapelle bis Tübinger Schlossberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 380-hirschau-tuebingen/010
+ENTITÄT: kapelle
+BEZEICHNUNG: Wallfahrtskapelle „Zu unserer lieben Frau beim Holderbusch und St. Urban"
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://www.tuebingen.de/152/377.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1396
+  funktion_heute: Friedhofskapelle
+  friedhof_anlage: 1852 wurde bei dieser Kapelle der Friedhof neu angelegt
+  friedhof_grund: Verlagerung des bisherigen Friedhofs (von um Pfarrkirche)
+  lokalname: "das Kirchle"
+  ausstattung: Ehrenmal für Kriegstote auf Friedhof
+GUELTIG_AB: 1396
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 380-hirschau-tuebingen/011
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Ägidius
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://www.tuebingen.de/152/377.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  kunstwerk_typ: Chorfenster
+  kuenstler: Wilhelm Geyer aus Ulm
+  kunstwerk_qualitaet: wertvoll
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 380-hirschau-tuebingen/012
+ENTITÄT: kelter
+BEZEICHNUNG: Riedkelter
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://www.tuebingen.de/152/377.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Fuß des Spitzbergs
+  ursprung: ehemals Kloster Kreuzlingen
+  superlativ: einzige von ehemals 6 Keltern auf Hirschauer Markung noch erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 380-hirschau-tuebingen/013
+ENTITÄT: kelter
+BEZEICHNUNG: Riederkelter / Obere Kelter
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1683
+  ursprung: ehemals Kloster Kreuzlingen
+  superlativ: letzte der ursprünglich 6 Hirschauer Keltern
+  heutige_nutzung: Vereinsraum Obst- und Weinbauverein (OWV)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 380-hirschau-tuebingen/014
+ENTITÄT: badesee
+BEZEICHNUNG: Hirschauer Baggersee
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Baggersee
+  lage: neben dem Stadtteil
+  nutzung_wassersport: Schwimmsport
+  freigabe: als Badesee freigegeben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 380-hirschau-tuebingen/015
+ENTITÄT: verein
+BEZEICHNUNG: Obst- und Weinbauverein (OWV) Hirschau
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 1927
+  zweck: Tradition des alten Weinbauorts in Gegenwart führen
+  veranstaltung: jährlicher WeinSommerAbend mit bis zu 10 Wengertern
+  vereinsraum: Riederkelter / Obere Kelter von 1683
+  erfolgsgeschichte: beträchtliche Qualitätssteigerung bei Hirschauer Weinen, Gewinnung von Jungwengertlern
+  besonderheit_weinbau: Hirschauer Wengerter bauen Weine ausnahmslos in eigenen Kellern aus
+  kulturlandschaftsbeitrag: Erhalt traditioneller Kulturlandschaft durch Arbeiten in Steillagen am Spitz- und Kapellenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 380-hirschau-tuebingen/016
+ENTITÄT: verein
+BEZEICHNUNG: Sportverein Hirschau
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Sportverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 380-hirschau-tuebingen/017
+ENTITÄT: verein
+BEZEICHNUNG: Tennisverein Hirschau
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Tennisverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 380-hirschau-tuebingen/018
+ENTITÄT: verein
+BEZEICHNUNG: Gesangsverein Hirschau
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gesangsverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 380-hirschau-tuebingen/019
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein Hirschau
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Musikverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 380-hirschau-tuebingen/020
+ENTITÄT: verein
+BEZEICHNUNG: Narrenzunft Hirschau
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Narrenzunft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 380-hirschau-tuebingen/021
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Hirschau
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Freiwillige Feuerwehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 380-hirschau-tuebingen/022
+ENTITÄT: stadtteiltreff
+BEZEICHNUNG: Ratsstüble / Stadtteiltreff Hirschau
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  historischer_name: Ratsstüble (Dorfgaststätte)
+  funktion_heute: Stadtteiltreff mit ehrenamtlich betriebener Dorfkneipe
+  betrieb_seit: 2021
+  traeger_verein: Verein Ratsstüble
+  verein_herkunft: hervorgegangen aus Quartiersentwicklung „Quartier 2020" mit Bürgerbeteiligung
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 380-hirschau-tuebingen/023
+ENTITÄT: gemeindepartnerschaft
+BEZEICHNUNG: Partnerschaft mit Kingersheim
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  partnergemeinde: Kingersheim
+  land: Frankreich
+  region: Elsass
+  seit: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 380-hirschau-tuebingen/024
+ENTITÄT: religionsverhaeltnis
+BEZEICHNUNG: Konfessionsverteilung Hirschau
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  konfessionslos_oder_andere_religion: 43.3 [%]
+  roemisch_katholisch: 32.6 [%]
+  evangelisch: 24.1 [%]
+  stand: 31. Dezember 2023
+  grund_katholischer_anteil: "Ort gehörte über Jahrhunderte zur Grafschaft Hohenberg als Teil Vorderösterreichs"
+  historische_besonderheit: "Hirschau und Bühl waren die zwei einzigen Stadtteile von Tübingen mit mehrheitlich katholischer Bevölkerung; andere Tübinger Stadtteile waren überwiegend evangelisch"
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 380-hirschau-tuebingen/025
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ludwig Uhland
+QUELLE: https://www.tuebingen.de/152/377.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_beruf: Dichter
+  bezug_zu_hirschau: besang die Wurmlinger Kapelle
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 380-hirschau-tuebingen/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Geyer
+QUELLE: https://www.tuebingen.de/152/377.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_beruf: Künstler
+  herkunft: Ulm
+  werk_fuer_hirschau: Chorfenster der Pfarrkirche St. Ägidius
+  werk_qualitaet: wertvoll
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 380-hirschau-tuebingen/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Graf Anselm von Calw
+QUELLE: https://www.tuebingen.de/152/377.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Graf
+  bezug_zu_hirschau: ließ Wurmlinger Kapelle um 1050 als Grabkapelle erbauen
+  grund_bau: eigene Grabkapelle
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 380-hirschau-tuebingen/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Graf Rudolf III. von Hohenberg
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Graf
+  bezug_zu_hirschau: verkaufte 1381 seine Herrschaft Hohenberg (einschließlich Hirschau) an Leopold von Österreich
+GUELTIG_AB: 1381
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 380-hirschau-tuebingen/029
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Herzog Leopold von Österreich
+QUELLE: https://de.wikipedia.org/wiki/Hirschau_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Herzog
+  bezug_zu_hirschau: erwarb 1381 die Herrschaft Hohenberg mit Hirschau von Rudolf III.
+  folge_fuer_ort: Hirschau wurde Teil Vorderösterreichs
+GUELTIG_AB: 1381
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 380-hirschau-tuebingen/030
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Baumallee Ortsdurchfahrtsstraße
+ORTSTEIL_BEZUG: Hirschau
+QUELLE: https://www.tuebingen.de/152.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: herrliche Baumallee ziert die Ortsdurchfahrtsstraße
+  ort: Ortsdurchfahrtsstraße Hirschau
+  funktion_ortsbild: Charakteristikum des Ortsbildes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

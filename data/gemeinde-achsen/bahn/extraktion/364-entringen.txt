@@ -1,0 +1,760 @@
+ENTITÄT: ort
+BEZEICHNUNG: Entringen
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ist_teilort: true
+  ist_verwaltungssitz: true
+  gemeinde: Ammerbuch
+  landkreis: Tübingen
+  bundesland: Baden-Württemberg
+  land: Deutschland
+  hoehe_meter: 360-545
+  einwohner: 3852
+  einwohner_stand_jahr: 2023
+  entfernung_tuebingen_km: ca. 10
+  entfernung_herrenberg_km: ca. 10
+  lage: westlicher Rand des Naturparks Schönbuch
+  verkehrserreichbarkeit: Bundesstraße B296, Ammertalbahn RB 63 im 30-Minuten-Takt
+  ortsnickname: Storchenschendler
+  ortsnickname_grund: geglückte Rettung eines vom Kirchendach abgestürzten Jungstorchs, dessen gebrochenes Bein mit Schindel geschient wurde
+  ortsnickname_zeitraum: seit über 100 Jahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Entringen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/entringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 3700
+  infrastruktur: Gemeinschaftsschule mit Grundschule, Kindergarten, Kinderhaus mit Kleinkindbetreuung, Musikschule, Freibad, Seniorenzentrum, Ärzte, Apotheke, Banken, Hotel, Kunstmuseum Manfred Luz
+  freizeitwert: hoch
+  charakteristisch_gebaeude: Michaelskirche mit hoher aufragender Fassade
+  maerkte_jahreskalender: Krämermarkt Januar (zweiter Dienstag nach Dreikönig) und September (zweiter Dienstag), Maimarkt (Dienstag nach erstem Sonntag im Mai), Weihnachtsmarkt (Anfang Dezember)
+  erreichbarkeit: Ammertalbahn im Viertel-Stunden-Takt von Herrenberg und Tübingen, Bundesstraße B296
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Michaelskirche (St. Michael)
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  ursprung: Saalkirche 9. Jahrhundert
+  pfarrei_erwaehnung: 1275
+  langhaus_bauzeit: 1452
+  architekturstil: gotisch
+  charakteristikum: Turm mit grün gedecktem Dach
+  turm_material: massive Stubensandsteinquader
+  turm_besonderheit: seit Bau schief, teilweise auf unstabilem Untergrund, 2021 Sanierung mit Pfahlgründung 20m tiefer Betonpfähle
+  letzte_renovierung: 1967
+  orgel_beginn: Christian Gotthilf Haußdörffer
+  orgel_fertigstellung: Johann Christian Hagemann 1764
+  orgel_neubau_1972: Oesterle
+  orgel_sanierung_1999: Braun
+  kunstwerk_chor: Triptychon von Manfred Luz 2002 (Michael weist Engel)
+  partnerschaft_seit: 1990 mit Ortsteil Kittelsthal Stadt Ruhla
+  glockenanzahl: 9 (seit 31. Oktober 2017)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: glocke
+BEZEICHNUNG: Ave-Maria-Glocke
+ORTSTEIL_BEZUG: Michaelskirche
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  herkunft_jahrhundert: 1. Hälfte 14. Jahrhundert
+  superlativ: älteste Glocke im Geläut, älter als Kirchenbau
+  schlagton: g'
+  funktion_historisch: läutete täglich um 18:00 Uhr "uffa Märga Läuten" (ursprünglich Ave-Maria-Gebet, nach Reformation Feierabendglocke)
+  glocke_material: Metall
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: glocke
+BEZEICHNUNG: Osannaglöckle
+ORTSTEIL_BEZUG: Michaelskirche
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  hersteller: Pantlion Sidler
+  schlagton: b''
+  historischer_dienst: Rathausglocke
+  kriegserlebnis: Treffer von Gewehrkugel, Krone beschädigt
+  restaurierung: Krone später repariert, Glöckle wieder ins Geläut integriert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: glocke
+BEZEICHNUNG: Christusglocke (Dominika)
+ORTSTEIL_BEZUG: Michaelskirche
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  schlagton: d'
+  installation: 31. Oktober 2017
+  grund_neuguss: Ersatz für alte abgenutzte Dominica-Glocke
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: glocke
+BEZEICHNUNG: Große Betglocke
+ORTSTEIL_BEZUG: Michaelskirche
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  schlagton: f'
+  installation: 31. Oktober 2017
+  funktion: übernahm 2017 das "uffa Märga Läuten" von Ave-Maria-Glocke
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: glocke
+BEZEICHNUNG: Kleine Betglocke (Ave-Maria-Glocke)
+ORTSTEIL_BEZUG: Michaelskirche
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  schlagton: g'
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: glocke
+BEZEICHNUNG: Kreuzglocke
+ORTSTEIL_BEZUG: Michaelskirche
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  schlagton: a'
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: glocke
+BEZEICHNUNG: Zeichenglocke
+ORTSTEIL_BEZUG: Michaelskirche
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  schlagton: c''
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: glocke
+BEZEICHNUNG: Schiedglocke
+ORTSTEIL_BEZUG: Michaelskirche
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  schlagton: d''
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: glocke
+BEZEICHNUNG: Taufglocke
+ORTSTEIL_BEZUG: Michaelskirche
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  schlagton: f''
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: glocke
+BEZEICHNUNG: Michaelsglocke
+ORTSTEIL_BEZUG: Michaelskirche
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  schlagton: g''
+  installation: 31. Oktober 2017
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Hohenentringen (Schloss Hohenentringen, Burg Hohenentringen)
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  entstehung_Jahrhundert: 12. Jahrhundert
+  grund_entstehung: vermutlich wegen Unsicherheit im Dorf unten
+  gruender: Entringer Adelsherren
+  gruender_named: Adalbertus de Antringen
+  adelsgeschlecht_aussterben: um 1300
+  nachfolgende_familien: Ehinger, Hailfinger, Gültlinger
+  heutige_form: 15. und 16. Jahrhundert
+  historisches_ereignis_1417: fünf verwandte Familien (100 Kinder) in stattlichem Zug zur Kirche
+  kunstwerk: 1913 Gemälde von Gunhild von Ow (Kirchenzug-Szene, Gaststube)
+  lage: oberhalb des Ortes am Waldrand
+  besitzer_1877: Freiherren von Ow
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archaeologischer_fund
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  zeit_periode: alemannische Zeit 5. Jahrhundert
+  beschreibung: Alemannische Gräber und Kriegergrab mit Pferdeskelett (ca. 500 n.Chr.)
+  fund_1904: Goldgriffspatha (Prunkschwert mit goldbelegtem Griff) und Helm 5. Jahrhundert
+  fundort_1904: nahe dem Dorf
+  aufbewahrung_1904: Württembergisches Landesmuseum Stuttgart
+  fund_1930er: alemannische Reihengräber Bahnhofstraße/Zeppelinstraße
+  fund_1926: Kriegergrab mit Pferdeskelett
+  fund_1999: zwei weitere Pferdeskelette ca. 500 n.Chr., zum ausgegrabenen Kriegergrab gehörig
+  fund_2004: Alemannengräber und frühchristliche Gräber Zeppelinstraße
+  fund_2013: Alemannengräber und frühchristliche Gräber Zehntscheuer Kirchstraße
+GUELTIG_AB: 400
+GUELTIG_BIS: 600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Adalbertus de Antringen
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  title: Adelsherr von Entringen
+  erwaehnung_urkundlich: 1075
+  kontext: Gründungsurkunde Kloster Hirsau
+  funktion: Gründer/Herr von Entringen
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Johann Neobolus Jodoci
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Pfarrer von Entringen
+  zeit: 18. Jahrhundert
+  leistung: deutete Ortsnamen von lateinischer Abkürzung ab
+  namenstheorie: E.N.T.R. = Equites Neronis Tibuarii Rom. oder Equites Neronis TRibuarii
+  quellenangabe: nach Martin Crusius
+  verbreitung: sonst nicht belegt
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Christian Heinrich Zeller
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsdatum: 29. März 1779
+  geburtsort: Schloss Hohenentringen
+  beruf: Christlicher Erzieher, Hausvater, Pädagoge, Liederdichter
+  bewegung: schwäbischer Pietismus
+  bedeutung: Pionier der Inneren Mission
+GUELTIG_AB: 1779
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Gunhild von Ow
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Malerin
+  kunstwerk: Gemälde des Kirchenzugs 1913 (fünf Familien 100 Kinder vom Schloss zur Kirche)
+  aufbewahrung: Gaststube Schloss Hohenentringen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kuenstler
+BEZEICHNUNG: Ugge Bärtle
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Tübinger Künstler
+  kunstwerk: Hermann-Löns-Brunnen
+  erstellung: Mitte 1920er Jahre mit Freundesgruppe
+  standort: Naturpark Schönbuch, Entringer Gewann Steingart
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kuenstler
+BEZEICHNUNG: Lutz Ackermann
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/entringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Künstler
+  kunstwerk: Pyramide
+  standort: Platz neben der Volksbank Entringen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Hermann-Löns-Brunnen
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  schoepfer: Freundesgruppe um Ugge Bärtle
+  errichtet: Mitte 1920er Jahre
+  standort: Naturpark Schönbuch, Entringer Gewann Steingart
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Triptychon mit dem Erzengel Michael
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  kuenstler: Manfred Luz
+  jahr: 2002
+  standort: Chor der Michaelskirche
+  motiv: Michael weist gefallenen Engel in seine Schranken, zeigt ihm aber Weg zum Licht
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2002
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Gemälde Kirchenzug-Szene
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  kuenstler: Gunhild von Ow
+  jahr: 1913
+  motiv: fünf verwandte Familien mit 100 Kindern in stattlichem Zug von Schloss Hohenentringen zur Kirche
+  standort: Gaststube Schloss Hohenentringen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1913
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Pyramide
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/entringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Lutz Ackermann
+  standort: Platz neben der Volksbank Entringen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: unter goldenem, mit liegender schwarzer Hirschstange belegtem Schildhaupt, in Rot silberne nach rechts schwimmende Ente
+  ortsfarben: Weiß-Rot
+  annahme_jahr: 1929
+  symbolik_ente: Bezug zum Ortsnamen
+  ente_belegt_seit: als Fleckenzeichen 1674 und 1683
+  fahne_1839: silberne Ente auf Grasboden in hellblauem Feld
+  gemeindesiegel_1900: rechtshin schwimmende Ente unter drei liegenden Hirschstangen
+  gueltig_bis_grund: Gründung Ammerbuch 1. Dezember 1971
+GUELTIG_AB: 1929
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Käsbach
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/entringen | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Rohrbach
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/entringen | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturpark
+BEZEICHNUNG: Naturpark Schönbuch
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/entringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_zu_ort: westlicher Rand
+  entfernung: wenige Minuten zu Fuß
+  gewaesser: Streuobstwiesen vorgelagert als Naturschutzgebiet
+  aktivitaeten: Wandermöglichkeiten, Radwege, Spiel- und Rastplätze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Schönbuch-Westhang/Ammerbuch
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  lage: direkt am Ortsrand
+  aktivitaeten: Wandermöglichkeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedwald
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 7. Juli 2011
+  lage: Nähe Hohenentringen
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Ammertalbahn
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Herrenberg-Tübingen
+  anbindung_entringen_jahre: 1909-1910
+  linie: RB 63
+  takt: 30-Minuten-Takt
+  bedeutung: bedeutender Anteil an Ortsentwicklung
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße B296
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: durch Entringen
+  fruehere_bezeichnung: Teil der B28
+  autobahnanschluss: A 81 bei Herrenberg (wenige km entfernt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Freibad Entringen
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  gebaut: 1936
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Gipswerk Entringen
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  beginn_industrieller_gipsabbau: 1910
+  lage: Gipsgrube zwischen Entringen und Breitenholz
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Kunstmuseum Manfred Luz
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/entringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Manfred Luz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Entringer Freiwillige Feuerwehr
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 1862
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Erste urkundliche Erwähnung des Ortsnamens "Antringen"
+  jahr: 1075
+  kontext: Gründungsurkunde Kloster Hirsau, mit Adalbertus de Antringen
+GUELTIG_AB: 1075
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Erste urkundliche Erwähnung der Pfarrei
+  jahr: 1275
+  kontext: im Bereich des Bistums Konstanz
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Erste Erwähnung von Hohenentringen
+  jahr: 1284
+GUELTIG_AB: 1284
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Kloster Bebenhausen erwirbt Entringer Fronhof
+  jahr: 1296
+GUELTIG_AB: 1296
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Graf Heinrich von Veringen übergibt Kloster Bebenhausen das Eigentumsrecht der Weingärten am Hertrichsberg und anderen Grundbesitz
+  jahr: 1300
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Baubeginn der gotischen Michaelskirche (Langhaus)
+  jahr: 1452
+GUELTIG_AB: 1452
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Entringen war regionaler Wallfahrtsort
+  zeit: vor der Reformation
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1500
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Pest und Dreißigjähriger Krieg reduzierten Bevölkerung drastisch
+  einwohner_um_1600: 1100
+  einwohner_nach_krieg_pest: 470
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1650
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Straße Tübingen-Herrenberg verlegt nach Entringen (statt über Reusten/Altingen)
+  jahr: 1806
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Entringen kommt vom Amt Tübingen zum Oberamt Herrenberg
+  jahr: 1808
+GUELTIG_AB: 1808
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Friedhof verlegt von Michaelskirche an Dorfrand
+  jahr: 1827
+  neue_nutzung_alter_friedhof: Schule erbaut, später durch Feuer beschädigt, ca. 2020 wegen Baufälligkeit abgerissen
+GUELTIG_AB: 1827
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Neues Rathaus gebaut
+  jahre: 1843-1844
+GUELTIG_AB: 1843
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Gemeinde beschafft sechs Webstühle zur Ausbildung von Waisen und Kindern armer Familien
+  jahr: 1855
+GUELTIG_AB: 1855
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Entringer Freiwillige Feuerwehr gegründet
+  jahr: 1862
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Freiherren von Ow erwerben Schloss Hohenentringen
+  jahr: 1877
+GUELTIG_AB: 1877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Anbindung Entringens an neugebaute Ammertalbahn
+  jahre: 1909-1910
+  bedeutung: seither bedeutender Anteil an Ortsentwicklung
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Beginn industrieller Gipsabbau (Gipswerk Entringen)
+  jahr: 1910
+  lage: Gipsgrube zwischen Entringen und Breitenholz
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Freibad gebaut
+  jahr: 1936
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Entringen kommt vom Oberamt Herrenberg wieder zum Kreis Tübingen
+  jahr: 1938
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://de.wikipedia.org/wiki/Entringen | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Gemeindereform Baden-Württemberg
+  beschreibung: Entringen fusioniert mit fünf Ortschaften zur Einheitsgemeinde Ammerbuch
+  rolle_entringen: größte unter den Gemeinden, hatte Marktrecht, wurde Verwaltungssitz
+  datum: 1. Dezember 1971
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/entringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: 925-jähriges Jubiläum von Entringen begangen
+  jahr: 2000
+  aktivitaeten: vielfältige Aktivitäten
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/entringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: 550-jähriges Bestehen der evangelischen Michaelskirche gefeiert
+  jahr: 2002
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

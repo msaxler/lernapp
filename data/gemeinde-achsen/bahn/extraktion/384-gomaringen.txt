@@ -1,0 +1,509 @@
+ENTITÄT: ort
+BEZEICHNUNG: Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 11. Jahrhundert
+  ersterwähnung_quelle: Chronik des Berthold von Zwiefalten
+  siedlungszeit: Alemannische Zeit (Namenendung "-ingen")
+  gründung_herkunft: Alemannische Besiedlung
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/zahlen-daten-fakten/kurzportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: zentrale Region Neckaralb, zwischen Tübingen, Reutlingen, Hechingen/Balingen
+  einwohner: 9305
+  einwohner_gesamtgemeinde: 9305
+  arbeitsplaetze: 1850
+  wirtschaft: starker Mittelstand und florierende Handwerksbetriebe
+  pendler_ausgehend: 1050
+  pendler_ziele: Reutlingen und Tübingen
+  einwohnerwachstum_10_jahre: 280
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/zahlen-daten-fakten/geografie-geologie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemarkung: 1730
+  gemarkung_einheit: Hektar
+  flachengestalt: relativ geschlossen
+  einzugsgebiet: Steinlach
+  hauptentwasserung: Wiesaz
+  hoechster_punkt: 570
+  hoechster_punkt_einheit: Meter
+  hoechster_punkt_location: südlich gegen Öschingen
+  tiefster_punkt: 350
+  tiefster_punkt_einheit: Meter
+  tiefster_punkt_location: westlich an der B 27
+  landschaftstyp: äußeres Albvorland mit lebhaftem Wechsel der Gesteins- und Bodenverhältnisse
+  forst_flaeche: 495
+  forst_flaeche_einheit: Hektar
+  landwirtschaft_flaeche: 800
+  landwirtschaft_flaeche_einheit: Hektar
+  ackerland_anteil: ca. Hälfte der landwirtschaftlichen Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herren von Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/das-historische-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappensymbol: offener Flug
+  wappensymbol_beschreibung: zwei nebeneinandergestellte Flügel mit Federspitzen nach außen
+  wappen_farben: blau (historisch), rot (aktuell)
+GUELTIG_AB: 1191
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herren von Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 1191
+  ersterwahnung_personen: Friedericus und Hugo de Gomaringen
+  herr: Pfalzgraf von Tübingen
+  rolle: Dienstleute
+  besitz: Burg mit Vorhof (heutiges Schloss) und andere Rechte und Besitztümer
+  wappen: zwei silberne Adlerflügel auf blauem Grund
+  funktion_13_15_jh: oft Kirchherren
+  bedeutende_vertreter: Werner und Peter von Gomaringen
+  wirtschaftlicher_niedergang: 14. Jahrhundert (Mitte)
+  niedergang_grund: dauernde Erbteilungen, Hang zum geistlichen Stand, Schenkungen an Kloster Bebenhausen
+  besitzubergang: 15. Jahrhundert (2. Hälfte)
+  besitzuebergang_ziel: Spital der Reichsstadt Reutlingen
+GUELTIG_AB: 1191
+GUELTIG_BIS: 1450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Burg mit Vorhof der Herren von Gomaringen
+  verwendung_ab_1648: Verwaltungssitz (Vögte des Herzogs)
+  verwendung_bis_1807: herzogliches Kammerschreibereigut
+  beschreibung_1683: gezeigt auf Ortsansicht von Andreas Kieser
+GUELTIG_AB: 1191
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stockach
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/stockach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ca. 5 Kilometer südöstlich Tübingen, ca. 8 Kilometer westlich Reutlingen
+  eingemeindet: 1. Dezember 1973
+  ortsvorsteherin: Christa Stöhr
+  siedlungstyp: vermutlich hochmittelalterliche Ausbausiedlung
+  gemarkung_seit: 1. Dezember 1973
+  ortschaft_status: Ortschaft im Sinne der baden-württembergischen Gemeindeordnung mit eigenem Ortschaftsrat
+GUELTIG_AB: 1229
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stockach
+QUELLE: https://www.gomaringen.de/unser-gomaringen/zahlen-daten-fakten/einwohner | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_2024: 502
+  einwohner_2025: 508
+  einwohner_2026_30_09: 512
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: flurname
+BEZEICHNUNG: Stokka
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/stockach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Stockach
+  ersterwahnung: 1229
+  typ: Flurname
+ORTSTEIL_BEZUG: Stockach
+GUELTIG_AB: 1229
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pauluskirche
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/stockach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Stockach
+  baujahr: 1904
+  baustil: Neogotik
+  architekt: Theophil Frey
+  konfession: evangelisch
+ORTSTEIL_BEZUG: Stockach
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Trinkwies-Linde
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/stockach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südwestlicher Ortsrand Stockach
+  nutzung: Dorffeste
+ORTSTEIL_BEZUG: Stockach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hinterweiler
+QUELLE: https://www.gomaringen.de/unser-gomaringen/zahlen-daten-fakten/geografie-geologie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Nordwesten des Ortes
+  beschreibung: erstreckt sich nach Nordwesten hin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Gomaringen (aktuell)
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  symbol: zwei Adlerflügel
+  farbe: rot
+  herkunft: nach Vorbild des historischen Wappens der Herren von Gomaringen
+  original_farbe: blau
+GUELTIG_AB: 1191
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: logo
+BEZEICHNUNG: Logo der Gemeinde Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/das-logo-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seit: 2020
+  gestalter: Gabriele Motika aus Gomaringen
+  enthaelt: historisches Wappen
+  symbole: Schloss, Rathaus (in ehem. Kindlerscher Fabrik), Evangelische Kirche
+  symbolbedeutung_schloss: Bürgschaft
+  symbolbedeutung_rathaus: säkulare Gemeinde
+  symbolbedeutung_kirche: kirchliche Gemeinde
+  linie_links: versinnbildlicht Wiesaz und Verbindung von unten nach oben
+  linie_rechts: deutet Senke Richtung Hinterweiler an
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Friedericus de Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Angehöriger der Herren von Gomaringen
+  ersterwahnung: 1191
+  position: Dienstleute des Pfalzgrafen von Tübingen
+GUELTIG_AB: 1191
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hugo de Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Angehöriger der Herren von Gomaringen
+  ersterwahnung: 1191
+  position: Dienstleute des Pfalzgrafen von Tübingen
+GUELTIG_AB: 1191
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Werner von Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Abt von Bebenhausen
+  status: bedeutendster Vertreter der Herren von Gomaringen
+  zeitraum: 13.-15. Jahrhundert
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Peter von Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Abt von Bebenhausen
+  status: bedeutendster Vertreter der Herren von Gomaringen
+  zeitraum: 13.-15. Jahrhundert
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Kaspar Remp von Pfullingen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/stockach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: verkaufte Stockach 1491 an Reutlinger Spital
+GUELTIG_AB: 1491
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Herzog Eberhard III. von Württemberg
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: erwarb Gomaringen 1648 von Reutlingen
+  kaufpreis: 30000
+  kaufpreis_einheit: Gulden
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Andreas Kieser
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werk: Ortsansicht Gomaringens ("Gommeringen")
+  jahr: 1683
+  archiv: Hauptstaatsarchiv Stuttgart H 107/18 Bd. 51
+GUELTIG_AB: 1683
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gabriele Motika
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/das-logo-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wohnort: Gomaringen
+  werk: Logo der Gemeinde Gomaringen
+  jahr: 2020
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Christa Stöhr
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/stockach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Ortsvorsteherin Stockach
+ORTSTEIL_BEZUG: Stockach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Theophil Frey
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/stockach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Architekt
+  werk: Pauluskirche Stockach
+  jahr: 1904
+ORTSTEIL_BEZUG: Stockach
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Berthold von Zwiefalten
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werk: Chronik (Ersterwähnung Gomaringens)
+  erwahnung_gomaringen: 11. Jahrhundert
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bibliothek
+BEZEICHNUNG: Bibliothek Gomaringen
+QUELLE: https://www.gomaringen.de/leben-freizeit/bibliothek-in-der-schlossscheuer/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schlosshof 6
+  plz: 72810
+  ort: Gomaringen
+  bestand: Filme auf DVD, Hörbücher, Kinder-CDs, Kinder- und Jugendliteratur, Romane, Sachliteratur, Spiele, Tageszeitungen, Zeitschriften
+  ausleihe_dauer_dvd: 2 Wochen
+  ausleihe_dauer_andere: 4 Wochen
+  recherche: OPAC vor Ort und von Zuhause
+  ebooks: onleihe Neckaralb
+  auszeichnung: 2017 von Architektenkammer Baden-Württemberg für "Beispielhaftes Bauen"
+  auszeichnung_kategorie: Beispielhaftes Bauen
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Wiesaz
+QUELLE: https://www.gomaringen.de/unser-gomaringen/zahlen-daten-fakten/geografie-geologie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: wichtigster Nebenfluss der Steinlach
+  herkunft: von der Alb herabkommend
+  funktion: Hauptentwässerung der Gemarkung Gomaringen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Steinlach
+QUELLE: https://www.gomaringen.de/unser-gomaringen/zahlen-daten-fakten/geografie-geologie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einzugsgebiet: Gemarkung Gomaringen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Bebenhausen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Hauskloster der Pfalzgrafen von Tübingen
+  verbindung_zu_gomaringen: Empfänger von Schenkungen der Herren von Gomaringen
+  besitzer_stockach: Verkäufer von Stockach 1323 an Herren von Gomaringen
+GUELTIG_AB: 1323
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gemarkung
+BEZEICHNUNG: Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/zahlen-daten-fakten/geografie-geologie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: 1730
+  groesse_einheit: Hektar
+  form: relativ geschlossen
+  entwasserung: Wiesaz
+  struktur: in nördlichen und südlichen Teil durch Wiesaz-Talsohle zerlegt
+  bodentyp_nord: Schwarzer Jura (Lias) mit Posidonienschiefer und Numismalismergel
+  bodentyp_sue: Brauner Jura (Dogger)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gemarkung
+BEZEICHNUNG: Stockach
+QUELLE: https://www.gomaringen.de/unser-gomaringen/zahlen-daten-fakten/geografie-geologie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bodentyp: Stubensandstein mit Knollenmergel, teilweise Löß und Lias
+ORTSTEIL_BEZUG: Stockach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: administrativer_verband
+BEZEICHNUNG: Gemeindeverwaltungsverband Steinlach-Wiesaz
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1. Juli 1975
+  mitglieder: Gomaringen, Dußlingen, Nehren
+  sitz: Gomaringen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/das-logo-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebaeude_historisch: ehem. Kindlersche Fabrik
+  symbolbedeutung: säkulare Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderung
+BEZEICHNUNG: Auswanderung aus Gomaringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Ende 18. Jahrhundert bis Ende 19. Jahrhundert
+  ziel: USA
+  anzahl_personen: 821
+  grund: wirtschaftliche Armut (Gomaringen 1824 "ärmste und kinderreichste Gemeinde")
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: geschichtswerk
+BEZEICHNUNG: Ortsansicht Gommeringen
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Andreas Kieser
+  jahr: 1683
+  blickrichtung: von Süden
+  archivort: Hauptstaatsarchiv Stuttgart H 107/18 Bd. 51
+GUELTIG_AB: 1683
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: projekt
+BEZEICHNUNG: Gomaringer Grundgesetz-Galerie
+QUELLE: https://www.gomaringen.de/unser-gomaringen/geschichtliches/gomaringer-grundgesetz-galerie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: 75 Jahre Grundgesetz
+  ausführung: Azubi-Projekt der Gemeinde Gomaringen
+  struktur: mehrere Bereiche (Ortsmitte, südlich Tübinger Straße/Feuerwehrhaus, Hinterweiler, Stockach)
+  startpunkt: Rathaus (Artikel 1)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

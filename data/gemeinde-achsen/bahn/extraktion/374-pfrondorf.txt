@@ -1,0 +1,422 @@
+ENTITÄT: ort
+BEZEICHNUNG: Pfrondorf
+QUELLE: https://www.tuebingen.de/155.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_relativ_tuebingen: nordöstlich, ca. 6 km
+  naturpark: am Rande des Naturparks Schönbuch
+  hoehe_ueber_meeresspiegel: 434 m
+  topographie: Hochfläche über dem Neckar
+  ausblick: Schwäbische Alb (Burg Hohenzollern bis Burgruine Teck)
+  einwohner: 3418
+  einwohner_stand: 31.12.2025
+  bus_taktung: 15 Minuten
+  bus_zielort: Tübingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Pfrondorf
+QUELLE: https://www.tuebingen.de/155/413.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_zeitraum: 7. Jahrhundert
+  gruender: Alemannen
+  erste_urkundliche_erwaehnung: 1148
+  namensherkunft: vermutlich von Brunnen (mhd. prunno) oder Pflaumenbäumen (lat. prunus), zahlreich auf der Pfrondorfer Gemarkung
+  genauigkeit_namensherkunft: vermutlich
+  herrschaft_bis_1148: Tübinger Pfalzgrafen
+  grund_herrschaftswechsel: Pfalzgraf Hugo von Tübingen ging das Geld aus, Kloster Bebenhausen übernahm Herrschaft
+  administration_1807: Oberamt Tübingen (infolge napoleonischer Reformen)
+  massnahme_1833: Leibeigenschaft aufgehoben, Gemeinde verkaufte ehemalige Klostergüter an Bürger
+  eingemeindung: 1. Juli 1971
+  eingemeindung_zielort: Tübingen
+  einwohner_vorkriegszeit: ca. 1000
+  einwohner_heute: ca. 3400
+  genauigkeit_einwohner: ca.
+  strukturwandel_beschreibung: Von Arbeitern und Nebenerwerbslandwirten geprägte Gemeinde; Zuzug von Universität-, Klinikums- und Firmenmitarbeitern; Erweiterung Siedlungsfläche
+GUELTIG_AB: 1148
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Pfrondorf
+QUELLE: https://www.tuebingen.de/155/413.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1833
+  anlass: Erlös aus Verkauf ehemaliger Klostergüter
+  besonderheit: erste Kirche in der Geschichte des Ortes
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Pfrondorf
+QUELLE: https://www.tuebingen.de/155/411.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde St. Petrus
+QUELLE: https://www.tuebingen.de/155/411.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelisch-methodistische Kirche
+QUELLE: https://www.tuebingen.de/155/411.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Neuapostolische Kirchengemeinde
+QUELLE: https://www.tuebingen.de/155/411.html | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Pfrondorf
+QUELLE: https://www.tuebingen.de/155/11502.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Lustnauer Straße 1
+  herkunft: Forsthaus auf dem Einsiedel (1878 erworben, Stein für Stein abgebrochen, nummeriert und transportiert)
+  wiedererrichtung: 1878
+  einrichtungen: Ortschaftsverwaltung, Ratsaal, Trauzimmer
+GUELTIG_AB: 1878
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schulhaus
+BEZEICHNUNG: Erstes Schul- und Rathaus
+QUELLE: https://www.tuebingen.de/155/11502.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kohlplattenweg 5
+  bezugsjahr: 1801
+GUELTIG_AB: 1801
+GUELTIG_BIS: 1878
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Pfrondorf
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  status: Stadtteil der Universitätsstadt Tübingen
+  lage_stadtteil: nordöstlich der Innenstadt
+  archaeologische_funde_germanisch: Grabhügel
+  archaeologische_funde_roemisch: Gutshof, Steinbild des Gottes Merkur
+  roemische_brennoefen_count: 2
+  roemische_brennoefen_ort: Wald Eichenfirst
+  gruendung_zeitraum: wahrscheinlich 7. Jahrhundert
+  genauigkeit: wahrscheinlich
+  herrschaft_pfalzgrafen: Pfalzgrafen von Tübingen waren Herren, vergaben Lehen
+  kloster_bebenhausen_ankauf_zeitraum: 1293-1410
+  kloster_bebenhausen_resultat: kaufte fast allen Grundbesitz auf, zog Ortsherrschaft an sich
+  verwaltung_post_reformation: württembergisches Klosteramt in Lustnau
+  erwerb_klostergueter: 1821
+  stromnetzbau: 1911
+  wasserleitungsbau: 1936
+  wasserbrunnen_geschichtlich: gute Versorgung durch Brunnen (Grund für späten Wasserleitungsanschluss)
+  wasserquelle_frueh: Grundwasser aus Neckartal
+  wasserquelle_seit_1960er: Bodenseewasser (Leitung von Bodensee nach Stuttgart über Westrand Pfrondorfer Markung)
+GUELTIG_AB: 7. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schulhaus
+BEZEICHNUNG: Neues Schulhaus
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Süßerstr. 4
+  bauzeit: 1906
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schulhaus
+BEZEICHNUNG: Schuppenschule
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Kohlplattenweg 16
+  bauzeit: 1936
+  nachnutzung: ab 2012 Wohnanlage für Senioren mit betreutem Wohnen
+GUELTIG_AB: 1936
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grund- und Hauptschule Pfrondorf
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ortsrandlage
+  eroeffnung: 1962
+  umwandlung: seit 1968 als Grundschule betrieben
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Kirnbachschule
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Sonderschule
+  einrichtung: Schwimmhalle in der Kirnbachschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schule für Erziehungshilfe der Sophienpflege
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schönbuchhalle
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sportplatz
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: ehemaliges Gemeindewappen Pfrondorf
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Gold auf gestümmeltem rotem Ast ein sitzendes rotes Eichhörnchen, das in den Vorderpfoten einen roten Tannenzapfen hält
+  status_seit_1971: nicht mehr als amtliches Wappen geführt
+GUELTIG_BIS: 1. Juli 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Heusel
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1878-1958
+  beruf: Wirtschaftsführer
+  bezug_ort: Sohn des Ortes
+GUELTIG_AB: 1878
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: August Nagel
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1882-1943
+  beruf: Erfinder der Nagel-Kamera
+  bezug_ort: Sohn des Ortes
+GUELTIG_AB: 1882
+GUELTIG_BIS: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johannes Paul Günther Roemer
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1878-1947
+  beruf: Psychiater
+  bezug_ort: Sohn des Ortes
+GUELTIG_AB: 1878
+GUELTIG_BIS: 1947
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hermann Römer
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1880-1958
+  beruf: evangelischer Pfarrer, Hochschullehrer und Autor
+  bezug_ort: Sohn des Ortes
+GUELTIG_AB: 1880
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Theodor Roemer
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1883-1951
+  beruf: Agrarwissenschaftler
+  bezug_ort: Sohn des Ortes
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: August Künstle
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1895-1945
+  beruf: Pilot
+  bezug_ort: Sohn des Ortes
+  ereignis: Absturz der Fw 200 „Hessen" 1945
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hermann Reuchlin
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1810-1873
+  beruf: Historiker
+  rolle_pfrondorf: erster Pfarrer
+  amtszeit: 1842-1857
+GUELTIG_AB: 1842
+GUELTIG_BIS: 1857
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heinrich Buhr
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1912-2001
+  beruf: Pfarrer und theologischer Autor
+  bezug_pfrondorf: wohnte in Pfrondorf
+GUELTIG_AB: 1912
+GUELTIG_BIS: 2001
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Günter Dürig
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1920-1996
+  beruf: führender Verfassungsrechtsprofessor
+  wohnzeitraum_pfrondorf: 1969-1996
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Helmut Metzner
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1925-1999
+  beruf: Pflanzenphysiologe und Universitätsprofessor in Tübingen
+  bezug_pfrondorf: wohnte in Pfrondorf
+GUELTIG_AB: 1925
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl-August Schaal
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1935-2017
+  beruf: Kaufmann
+  wohnzeitraum_pfrondorf: nach dem Krieg bis zu seinem Tod
+GUELTIG_AB: nach 1945
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Helmut Digel
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1944
+  beruf: Sportfunktionär
+  wohnzeitraum_pfrondorf: 1999-2007
+GUELTIG_AB: 1999
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Eberhard Gienger
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1951
+  beruf: Bundestagsabgeordneter und Turnweltmeister
+  wohnzeitraum_pfrondorf: 1981-2007
+GUELTIG_AB: 1981
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hanns-Friedrich Kunz
+QUELLE: https://de.wikipedia.org/wiki/Pfrondorf_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1945
+  beruf: Chorleiter
+  bezug_pfrondorf: wohnte in Jugend und seit Ruhestand wieder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

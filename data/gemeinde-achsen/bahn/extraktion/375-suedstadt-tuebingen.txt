@@ -1,0 +1,309 @@
+ENTITÄT: ort
+BEZEICHNUNG: Südstadt
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Tübingen
+  lage: südlich der Innenstadt
+  westliche_grenze: Steinlach und Moltkestraße
+  noerdliche_grenze_zur_innenstadt: Bahnlinie
+  noerdliche_grenze_zu_au_unterer_wert: Reutlinger Straße / B 28
+  oestliche_grenze_zu_franzoesisches_viertel: Marienburger Straße
+  noerdliche_grenze_zu_franzoesisches_viertel: Eisenhutstraße
+  suedliche_grenze: Galgenberg
+  durchquert_von: B 27
+  hauptplatz: Sternplatz
+  untergliederungen: Loretto-Areal, Galgenberg, Wennfelder Garten, An der Steinlach, Am Sternplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kaserne
+BEZEICHNUNG: Thiepval-Kaserne
+ORTSTEIL_BEZUG: Südstadt
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Schellingstraße
+  urspruenglicher_standort: am Bahnhof
+  grund_neubau: zu klein geworden
+  neue_kaserne_bauzeit: 1914-1916
+  zeitraum_deutsches_militaer: bis 1945
+  auszeichnung: Denkmal des Monats Oktober 2006 (Denkmalstiftung Baden-Württemberg)
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kaserne
+BEZEICHNUNG: Loretto-Kaserne
+ORTSTEIL_BEZUG: Südstadt (Loretto-Areal)
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1914-1916
+  benannt_nach: Schlacht Loretto (Erster Weltkrieg)
+  benennung_jahr: 1938
+  grund_benennung: Erinnerung an die Schlacht im Ersten Weltkrieg
+  zeitraum_deutsches_militaer: bis 1945
+  zeitraum_franzoesisches_militaer: bis Anfang 1990er Jahre
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kaserne
+BEZEICHNUNG: Hindenburg-Kaserne
+ORTSTEIL_BEZUG: Südstadt (Ostteil / Französisches Viertel)
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  teil_von_areal: Hindenburg-Areal
+  beschreibung: ehemalige Kaserne, später Wohnbebauung
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Lazarett an der Alexanderstraße
+ORTSTEIL_BEZUG: Südstadt
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Alexanderstraße
+  funktion: Lazarett
+  zeitraum: militärische Besatzung bis 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fabrik
+BEZEICHNUNG: Stuhlfabrik Schäfer
+ORTSTEIL_BEZUG: Südstadt
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  gebaeudetyp: gewerbliche Einrichtung
+  nachfolgenutzer: Landestheater Tübingen
+GUELTIG_BIS: (vor Umwandlung zum Theater)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fabrik
+BEZEICHNUNG: Essigfabrik Schweickhardt
+ORTSTEIL_BEZUG: Südstadt
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  gebaeudetyp: gewerbliche Einrichtung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gaswerk
+ORTSTEIL_BEZUG: Südstadt
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Vorläufer der Stadtwerke Tübingen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: theater
+BEZEICHNUNG: Landestheater Tübingen
+ORTSTEIL_BEZUG: Südstadt (Norden)
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Norden der Südstadt
+  eigenschaft: bekannt
+  vorheriges_gebaeude: Stuhlfabrik Schäfer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: volkshochschule
+BEZEICHNUNG: Volkshochschule Tübingen
+ORTSTEIL_BEZUG: Südstadt (Loretto-Areal)
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Loretto-Areal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Staatliches Studienseminar
+ORTSTEIL_BEZUG: Südstadt (Loretto-Areal)
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Loretto-Areal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: areal
+BEZEICHNUNG: Loretto-Areal
+ORTSTEIL_BEZUG: Südstadt (Westen)
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Westen der Südstadt
+  kaserne: Loretto-Kaserne (1914-1916)
+  zeitraum_deutsches_militaer: bis 1945
+  zeitraum_franzoesisches_militaer: bis Anfang 1990er Jahre
+  exerzierplatz_umnutzung: zu Wohnungen Anfang 1990er Jahre
+  konzept: Quartier der kurzen Wege
+  konzept_merkmal: räumliche Nähe von Wohnungen, Arbeitsplätzen und Geschäften
+  auszeichnung: mehrere Preise für Konzept
+  soziale_struktur: Bewohnerinitiativen und enge nachbarschaftliche Beziehungen
+  initiative: Lorettina
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Sternplatz
+ORTSTEIL_BEZUG: Südstadt
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Hauptplatz des Stadtteils Südstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Galgenberg
+ORTSTEIL_BEZUG: Südstadt (Südteil)
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: südliche Grenze der Südstadt
+  bebauung: Wohnbebauung des Nordhangs unterhalb des Bergfriedhofs
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wennfelder Garten
+ORTSTEIL_BEZUG: Südstadt
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Nachkriegsbebauung in Seitentälchen
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Bergfriedhof
+ORTSTEIL_BEZUG: Südstadt (Galgenberg)
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: oberhalb des Galgenbergs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Steinlach
+ORTSTEIL_BEZUG: Südstadt (westliche Grenze)
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: westliche Grenzbildung
+  eigenschaft: eingedeicht
+  nachbarwohnbebauung: ältere Wohnbebauung „An der Steinlach"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Derendingen
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_suedstadt: westlich
+  grenzbildung: Steinlach und Moltkestraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Au/Unterer Wert
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_suedstadt: nördlich
+  grenzbildung: Reutlinger Straße / B 28
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Französisches Viertel
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_suedstadt: östlich
+  grenzbildung_sued_west: Marienburger Straße (östlich), Eisenhutstraße (nördlich)
+  kernbereich: Areal der ehemaligen Hindenburg-Kaserne
+  grund_namensgebung: wahrscheinlich wegen ergänzender Neubebauung, die hier begann
+  teil_von: Entwicklungsbereich Stuttgarter Straße / Französisches Viertel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Französische Schule
+ORTSTEIL_BEZUG: Südstadt
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: während französischer Besatzung (nach 1945 bis Anfang 1990er Jahre)
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Andreas Feldtkeller
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Leiter des Stadtsanierungsamts
+  aktion: Federführung bei Erstellung städtebaulicher Rahmenplan zur Südstadtentwicklung
+  zeitraum_aktion: Anfang 1990er Jahre
+  ergebnis: Sanierungsgebiet „Entwicklungsbereich Stuttgarter Straße / Französisches Viertel" vom Gemeinderat 1993 beschlossen
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebiet
+BEZEICHNUNG: Entwicklungsbereich Stuttgarter Straße / Französisches Viertel
+ORTSTEIL_BEZUG: Südstadt
+QUELLE: https://de.wikipedia.org/wiki/Südstadt_(Tübingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Sanierungsgebiet
+  beschluss_jahr: 1993
+  beschluss_von: Tübinger Gemeinderat
+  unterbereiche: Loretto-Areal (Westen), ehemalige Offizierswohnblöcke an Stuttgarter Straße / B 27 (Mitte), Hindenburg-Areal (Osten)
+  grundlage: städtebaulicher Rahmenplan Anfang 1990er Jahre
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

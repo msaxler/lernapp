@@ -1,0 +1,246 @@
+ID: 379-buehl-tuebingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Bühl
+QUELLE: https://www.tuebingen.de/149.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung_tuebingen_km: 6
+  entfernung_tuebingen_richtung: südwestlich
+  entfernung_rottenburg_km: 4
+  entfernung_rottenburg_richtung: östlich
+  hoehe_meeresspiegel_m: 336
+  einwohner_2025: 2376
+  ist_stadtteil_tuebingen: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 379-buehl-tuebingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Bühl
+QUELLE: https://www.tuebingen.de/149/348.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: vermutlich Bühlrain
+  genauigkeit_namensherkunft: vermutlich
+  erste_schriftliche_erwaehnung_zeitpunkt: um 1100
+  erste_schriftliche_erwaehnung_form: Buhile
+  ortsadel_seit: um 1100
+  württemberg_seit: 1806
+  oberamt: Rottenburg
+  landkreis_seit: 1938
+  stadtteil_eingliederung: 1.7.1971
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 379-buehl-tuebingen/003
+ENTITÄT: ort
+BEZEICHNUNG: Bühl
+QUELLE: https://de.wikipedia.org/wiki/B%C3%BChl_(T%C3%BCbingen) | Wikipedia
+EIGENSCHAFTEN:
+  gemarkungsflaeche_hektar: 641
+  waldgebiet_anteil_prozent: ca. 50
+  flusstal: oberer Neckartal
+  erste_nennung_form: de Buhile
+  erste_nennung_zeitpunkt: um 1100
+  edelfreie_nennung: um 1120
+  habsburger_oberhoheit: bis 1805
+  württemberg_seit: 1805
+  stadtteil_seit: 1.7.1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 379-buehl-tuebingen/004
+ENTITÄT: ortsadel
+BEZEICHNUNG: von Bühl
+QUELLE: https://www.tuebingen.de/149/348.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_dokumentation: um 1100
+  wappen: zwei schräggekreuzte silberne Hellebarden auf blauem Grund
+  wappenherkunft: alten Ortsadel zurückzuführen
+GUELTIG_AB: um 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 379-buehl-tuebingen/005
+ENTITÄT: person
+BEZEICHNUNG: David von Stein
+QUELLE: https://www.tuebingen.de/149/348.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Herr vom Stain
+  aktion: Umbau und Ausbau Renaissance-Schloss
+  aktion_zeitpunkt: um 1550
+GUELTIG_AB: um 1550
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 379-buehl-tuebingen/006
+ENTITÄT: person
+BEZEICHNUNG: Balthasar von Bühl
+QUELLE: https://www.tuebingen.de/149/348.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_kinderlos: true
+  folge_tod: Erbauseinandersetzungen um Dorf
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 379-buehl-tuebingen/007
+ENTITÄT: schloss
+BEZEICHNUNG: Renaissance-Schloss Bühl
+QUELLE: https://www.tuebingen.de/149/347.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: David von Stein
+  baujahr: 1554
+  architekturstil: Renaissance
+  lage: Ortskern
+  sanierungsjahr: 1980
+  sanierung_methode: Versteigerung und Sanierung durch Tübinger Bürger
+  nutzung_nach_sanierung: Eigentumswohnungen
+GUELTIG_AB: 1554
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 379-buehl-tuebingen/008
+ENTITÄT: schloss
+BEZEICHNUNG: Renaissance-Schloss Bühl
+QUELLE: https://de.wikipedia.org/wiki/B%C3%BChl_(T%C3%BCbingen) | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1522
+  architekturstil: Renaissance
+  lage: historischer Ortskern
+GUELTIG_AB: 1522
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 379-buehl-tuebingen/009
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Bühler Täle
+QUELLE: https://www.tuebingen.de/149/347.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südlich des Dorfes
+  flaeche_hektar: 78.5
+  typ_auegebiet: true
+  ausweisungsjahr: 1997
+  charakterisierung_hauptbach: klar und sauber
+  fauna_fische: Bachforelle, Groppe, Bachneunauge (selten)
+  flora_gefaehrdete_arten: ja
+  streuobstwiesen_lage: nördlicher Teil hangaufwärts
+  amphibien_reptilien: Gelbbauchunke, Ringelnatter
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 379-buehl-tuebingen/010
+ENTITÄT: bach
+BEZEICHNUNG: Bühlertalbach
+QUELLE: https://www.tuebingen.de/149/347.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: klar und sauber
+  fauna: Bachforelle, Groppe, Bachneunauge
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 379-buehl-tuebingen/011
+ENTITÄT: bach
+BEZEICHNUNG: Bühlertalbach
+QUELLE: https://de.wikipedia.org/wiki/B%C3%BChl_(T%C3%BCbingen) | Wikipedia
+EIGENSCHAFTEN:
+  flussrichtung: von Süden nach Norden durch Ortsbereich
+  muendung: über alte Flussschlinge zum Neckar
+  herkunft: Rammert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 379-buehl-tuebingen/012
+ENTITÄT: bach
+BEZEICHNUNG: Trautbach
+QUELLE: https://de.wikipedia.org/wiki/B%C3%BChl_(T%C3%BCbingen) | Wikipedia
+EIGENSCHAFTEN:
+  muendung: mündet von rechts in Bühlertalbach
+  muendung_lage: Ortsbereich Bühl
+  herkunft: Rammert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 379-buehl-tuebingen/013
+ENTITÄT: reihengraberfeld
+BEZEICHNUNG: Bühlrain
+QUELLE: https://www.tuebingen.de/149/348.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südwestlich des Dorfes
+  entdeckungszeitpunkt: Ende 19. Jahrhundert
+  verbindung_namensherkunft: vermutlich Ursprung des Ortsnamens
+  genauigkeit: vermutlich
+GUELTIG_AB: Ende 19. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 379-buehl-tuebingen/014
+ENTITÄT: kirche
+BEZEICHNUNG: St. Pankratius
+QUELLE: https://de.wikipedia.org/wiki/B%C3%BChl_(T%C3%BCbingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Dorfkirche
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 379-buehl-tuebingen/015
+ENTITÄT: bruecke
+BEZEICHNUNG: Steinernes Brückle
+QUELLE: https://www.tuebingen.de/149/348.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: mitten im Dorf
+  ueberquerung: Bühlertalbach
+  tradition: alljährlicher Narrensprung in Fasnetszeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 379-buehl-tuebingen/016
+ENTITÄT: quelle
+BEZEICHNUNG: Jesuitenbrünnele
+QUELLE: https://de.wikipedia.org/wiki/B%C3%BChl_(T%C3%BCbingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: gefasste und renovierte Quelle
+  lage: Sengental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 379-buehl-tuebingen/017
+ENTITÄT: quelle
+BEZEICHNUNG: Salzbrünnele
+QUELLE: https://de.wikipedia.org/wiki/B%C3%BChl_(T%C3%BCbingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: gefasste und renovierte Quelle
+  lage: Sengental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 379-buehl-tuebingen/018
+ENTITÄT: weg
+BEZEICHNUNG: David-von-Stein-Weg
+QUELLE: https://www.tuebingen.de/149/347.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ortskern
+  bedeutung: Kopfende ist Schloss Bühl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 379-buehl-tuebingen/019
+ENTITÄT: waldgebiet
+BEZEICHNUNG: Rammert
+QUELLE: https://de.wikipedia.org/wiki/B%C3%BChl_(T%C3%BCbingen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich Bühl ansteigend
+  charakterisierung: zum Mittleren Albvorland ansteigend
+  nutzung: Waldgebiet mit Obstwiesen
+  wasserlauf_ursprung: Bühlertalbach und Trautbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 379-buehl-tuebingen/020
+ENTITÄT: museum
+BEZEICHNUNG: Bauernmuseum Hauser
+QUELLE: https://de.wikipedia.org/wiki/B%C3%BChl_(T%C3%BCbingen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: privates Bauernmuseum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

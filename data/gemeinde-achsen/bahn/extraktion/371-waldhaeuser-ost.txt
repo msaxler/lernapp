@@ -1,0 +1,185 @@
+ENTITÄT: ort
+BEZEICHNUNG: Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  kurzbezeichnung: WHO
+  ist_stadtteil: true
+  stadt: Tübingen
+  stadt_eigenschaft: Universitätsstadt
+  lage_zur_innenstadt: nördlich
+  topographie: höchstgelegener Stadtteil am nördlichen Stadtrand, leicht geneigte Anhöhe
+  ordnungsnummer: 014
+  siedlungstyp: Wohnblock- und Hochhaussiedlung
+  bauepochen: 1960er und 1970er Jahre
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 3500
+  einwohner_genauigkeit: ca.
+GUELTIG_AB: 1974
+GUELTIG_BIS: 1974
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  anlass_gründung: Bekämpfung der Wohnungsknappheit in Tübingen
+  zielgruppen_planung: Ärzte, Krankenhauspersonal, Studenten
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: weiler
+BEZEICHNUNG: Waldhausen
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  urkundlich_erste_nennung: 1105
+  gehörte_zu: Tübingen
+  heute_teil_von: Stadtteil Wanne
+GUELTIG_AB: 1105
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: weiler
+BEZEICHNUNG: Waldhausen
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  bewohner: 5 wohlhabende Bauernfamilien
+  landwirtschaftliche_kulturen: Dinkel, Gerste, dreiblättriger Klee, Reps
+  viehzucht: Rindviehzucht
+GUELTIG_AB: 1867
+GUELTIG_BIS: 1867
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hochhaus
+BEZEICHNUNG: Weißdornweg 14
+ORTSTEIL_BEZUG: Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  lage: Zentrum
+  besonderheit: größtes Hochhaus im Zentrum von WHO
+  superlativ: Teil der höchsten Hochhäuser Tübingens
+  bewohner: ca. 400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Winkelwiese/Waldhäuser Ost
+ORTSTEIL_BEZUG: Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  struktur: zwei Abteilungen (eine auf Waldhäuser Ost, eine im Stadtteil Schönblick/Winkelwiese)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Geschwister-Scholl-Schule
+ORTSTEIL_BEZUG: Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: kooperative Gesamtschule
+  früherer_schultyp: Integrierte Gesamtschule
+  beherbergt: Hauptschule, Realschule, Gymnasium
+  umbauzeit: 2003-2007
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Tübinger Freie Waldorfschule
+ORTSTEIL_BEZUG: Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Gesamtschule
+  lage: nördlicher Rand
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Dietrich-Bonhoeffer-Kirche
+ORTSTEIL_BEZUG: Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  lage: Zentrum
+  orgel: Marc-Garnier-Orgel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Tübinger Wassersilo
+ORTSTEIL_BEZUG: Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 50 [Meter]
+  lage: Tannenweg
+  besonderheit: direkt an Hochhaus angeschlossen, sieht wie Teil davon aus, berührt sich aber nicht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hallenbad
+BEZEICHNUNG: Hallenbad Nord
+ORTSTEIL_BEZUG: Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  ausstattung: Sauna
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: supermarkt
+ORTSTEIL_BEZUG: Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  lage: Einkaufszentrum
+  brand: August 2004
+  wiedereröffnung: März 2005
+GUELTIG_BIS: 2004
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: exerzierplatz
+BEZEICHNUNG: Exerzierplatz Waldhausen
+ORTSTEIL_BEZUG: Waldhausen/Waldhäuser Ost
+QUELLE: https://de.wikipedia.org/wiki/Waldhäuser_Ost | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwähnung: 1901
+  beschreibung: großer Exerzierplatz
+  nutzung_später: Baugelände für Waldhäuser Ost
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

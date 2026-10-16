@@ -1,0 +1,329 @@
+ENTITÄT: ort
+BEZEICHNUNG: Breitenholz
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1296
+  ortsteil_von: Ammerbuch
+  ist_kleinster_gemeindeteil: true
+  charakterisierung: ländlich geprägt, hauptsächlich Weinbau und landwirtschaftlicher Nebenerwerb
+  lage: abseits von Hauptverkehrsstraße, direkt am Naturpark Schönbuch
+  infrastruktur: Rathaus, Kindergarten, Feuerwehr, Kirche, Friedhof, Gaststätte, Bolzplatz, Spielplatz, evangelische Bücherei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Breitenholz_(Ammerbuch) | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 762
+  einwohnerzahl_zeit: Januar 2023
+  ist_kleinster_ortsteil_nach_einwohnerzahl: true
+  fläche: 1082 [Hektar]
+  ist_zweitgrößter_ortsteil_nach_fläche: true
+  meereshöhe_min: 386 [Meter NN]
+  meereshöhe_max: 550 [Meter NN], genauigkeit: "ca."
+  bewaldet: true, anteil: "beträchtlich"
+  fusion_datum: 1. Dezember 1971
+  fusioniert_mit: fünf weitere Gemeinden (Ammerbuch)
+  lage_detail: Südwestrand des Schönbuchs, knapp 2 km nordnordwestlich von Entringen
+  entfernung_ammer: 3,8 [km]
+  grenzende_orte: Herrenberger Ortsteil Kayh (westlich, Landkreis Böblingen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burgruine
+BEZEICHNUNG: Burg Müneck
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Herren von Müneck
+  dienstherren: Pfalzgrafen von Tübingen
+  lage: Vorsprung aus Stubensandstein am südlichen Schönbuchrand über Breitenholz
+  besonderheit: herrlicher Aussichtspunkt am Schönbuchtrauf
+  aussicht: über Breitenholzer Weinberge, Ammertal bis zur Schwäbischen Alb
+  befestigung: Sohlgraben wechselnder Breite (teils eingeschnitten, teils verstärkt durch Wall), mächtiger Wall
+  grundriss: Rechteck mit leicht ausgebauchten Langseiten
+  sichtbare_reste: freigelegte Grundmauern, Wall, Graben
+  zustand: von Bäumen überwachsen, größtenteils vom Waldboden verdeckt
+  archäologische_untersuchung: K. A. Koch 1924
+GUELTIG_AB: 1270
+GUELTIG_BIS: 1390
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: adeliges_geschlecht
+BEZEICHNUNG: Herren von Müneck
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Zweig der Herren von Hailfingen
+  abspaltung_von_hauptlinie: um 1250
+  urkundlich_belegt: 1270-1390
+  ursprüngliche_burgstallnamen: Mugineke, Muienegge, Mönegge, Muienegg
+  bedeutung_burgname_mugin: ungedeutet
+  bedeutung_burgname_eck: deutet auf die Lage
+  siegel_mit_wappenfigur: drei oder vier rechts oder links gekehrte Spitzen im Schild
+  siegel_belegt_jahre: 1301, 1307, 1330
+  erste_erwähnte_vertreter: Arnold (1270), Hugo (1270-1292), Heinrich (1280-1308)
+  vertreter_1330: Gere, Gute, Adelheid, Heinrich
+  letzte_erwähnte: Albrecht (1379 Sindelfinger Chorherr, 1382 Kirchherr von Böblingen)
+  besitzverkäufe: 1337 Heinrich und Sophie von Neuneck verkauften Güter in Entringen und Breitenholz an Herter von Dußlingen
+GUELTIG_AB: 1270
+GUELTIG_BIS: 1390
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: rathaus
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1563
+  besonderheit: hoher Dachreiter
+  renovierung: 1899
+  umbau: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Heiligkreuz und Sankt Wendelin
+QUELLE: https://de.wikipedia.org/wiki/Breitenholz_(Ammerbuch) | Wikipedia
+EIGENSCHAFTEN:
+  ursprüngliche_form: Kapelle
+  ersterwähnung: 1453
+  anlass_ersterwähnung: Stiftung einer Frühmesse zu Ehren des heiligen Wendelin
+  kirchturm_seit: 14. Jahrhundert
+  langhaus_erbaut: 1577
+  langhaus_neubau: 1964
+  grund_neubau: vorheriges Langhaus von 1577 abgerissen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gasthaus
+BEZEICHNUNG: Zum Lamm
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: ehemaliges Gasthaus
+  dach: Krüppelwalmdach
+  balkon: mit Eisengeländer
+  balkon_alter_teile: aus dem 17. Jahrhundert
+  gasthausausleger: ungewöhnlich schön, aus dem 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum Anthon
+QUELLE: https://de.wikipedia.org/wiki/Breitenholz_(Ammerbuch) | Wikipedia
+EIGENSCHAFTEN:
+  gründer: Hans Anthon Wagner
+  beruf_gründer: Zeichner und Lithograph
+  seit: 2006
+  location: Forsthausstraße
+  ausstellung: Kunst im kleinen Bildformat
+  exponatanzahl: ca. 400
+  exponatgröße: 10 × 10 Zentimeter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeindewappen
+BEZEICHNUNG: ehemaliges Gemeindewappen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: in Rot ein S-förmiges silbernes Wolfseisen
+  verliehen: 1960
+  fleckenzeichen_belegt_seit: zu 1683
+  gemeindestempel_belegt_seit: etwa 1820
+GUELTIG_AB: 1960
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gemeindewappen
+BEZEICHNUNG: Wappen 1930–1960
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: schräg-links geteilt, rechts Wappen der Herren von Müneck, links oben Früchte, links unten württembergische Hirschstangen
+GUELTIG_AB: 1930
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: waldgebiet
+DESIGNN: Schönbuchwald (Gemarkung Breitenholz)
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teil_1_ursprung: Ablösung der Schönbuchgerechtigkeiten
+  teil_1_jahr: 1827
+  teil_1_typ: Gemeindewald
+  teil_2_ursprung: Aufteilung der Staatsdomänen zu bestimmten Gemeindebezirken
+  teil_2_jahr: ca. 1830
+  teil_2_typ: Staatswald
+  ausdehnung_bis: Teufelsbrück im Goldersbachtal
+  besonderheit: Königsjagdhütte liegt auf der Gemarkung Breitenholz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Breitenholz
+QUELLE: https://de.wikipedia.org/wiki/Breitenholz_(Ammerbuch) | Wikipedia
+EIGENSCHAFTEN:
+  gebäude_erbaut: 1909
+  strecke: Ammertalbahn
+  personenverkehr_eingestellt: 1. Januar 1960
+  reaktivierung_versuch: 1995
+  reaktivierung_erfolg: nein, Halt nicht reaktiviert
+  heutige_nutzung: Recyclingunternehmen auf dem Gelände
+GUELTIG_AB: 1909
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schmalspurbahn
+QUELLE: https://de.wikipedia.org/wiki/Breitenholz_(Ammerbuch) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Transport von Gips vom Steinbruch zum Gipswerk
+  streckenverlauf: zwischen Breitenholz und Entringen
+  gipswerk_lage: am Bahnhof
+  existenz_bis: 1970er Jahre
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: internet_infrastruktur
+QUELLE: https://de.wikipedia.org/wiki/Breitenholz_(Ammerbuch) | Wikipedia
+EIGENSCHAFTEN:
+  verfügbarkeit_bis: August 2009
+  leerrohrtrasse_verlegt: August 2009
+  leerrohrtrasse_ziel: Entringen
+  glasfaserkabel_eingezogen: Februar 2010
+  glasfaserkabel_ziel: Ortsvermittlungsstelle Entringen
+  outdoor_dslam_installiert: März 2010
+  outdoor_dslam_ort: südlicher Ortseingang (Walterstraße)
+  verfügbare_bandbreite: bis zu 16 [MBit/s]
+  technologie: ADSL2+
+  förderung: Infrastruktur-Förderprogramm des Landes Baden-Württemberg
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bioenergiedorf
+BEZEICHNUNG: Bioenergiedorf Breitenholz
+QUELLE: https://de.wikipedia.org/wiki/Breitenholz_(Ammerbuch) | Wikipedia
+EIGENSCHAFTEN:
+  initiator: Bürger-Energie Tübingen eG
+  start: 2024
+  betreibergesellschaft: Bioenergie Breitenholz eG und Co. KG
+  angeschlossene_häuser: 145 von 250
+  nahwärmenetz_länge: 4800 [m]
+  heizkessel_anzahl: 3
+  heizkessel_typ: Holzhackschnitzelkessel
+  sonnenkollektoren_fläche: 2300 [m²]
+  pufferspeicher: vorhanden
+  grundstückseigentümer: Evangelische Landeskirche in Württemberg
+  erbbaurecht_dauer: 99 [Jahre]
+  förderung: BAFA, Programm "Wärmenetzsysteme 4.0"
+  jährliche_wärmemenge: 2,7 Mio. [kWh], genauigkeit: "ca."
+  eingesparte_heizölmenge_pro_jahr: 220.000 [l], genauigkeit: "ca."
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: weinbaugebiet
+DESIGNN: Breitenholzer Hinterhalde
+QUELLE: https://de.wikipedia.org/wiki/Breitenholz_(Ammerbuch) | Wikipedia
+EIGENSCHAFTEN:
+  region: Württemberg
+  bereich: Oberer Neckar
+  einzellage: Breitenholzer Hinterhalde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: weinfest
+BEZEICHNUNG: Breitenholzer Weinfest
+QUELLE: https://de.wikipedia.org/wiki/Breitenholz_(Ammerbuch) | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: letztes August-Wochenende
+  ort: unterhalb der Weinberge
+  ursprung: Not, eigenen gekelterten Wein zu vermarkten (zu große Menge zum Selbstverbrauch, zu kleine für kommerzielle Vermarktung)
+  verkauf_spitzenwert: bis zu 100% des Vorjahresweines, genauigkeit: "ca."
+  verkauf_bedingung: warme, trockene Wochenenden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geschichtliche_persönlichkeit
+BEZEICHNUNG: Richard Epple
+QUELLE: https://de.wikipedia.org/wiki/Breitenholz_(Ammerbuch) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1954
+  todesjahr: 1972
+  alter_bei_tod: 18
+  ereignis: Erschießung bei Polizeiverfolgung
+  denkmal: Epplehaus in Tübingen benannt nach ihm
+GUELTIG_AB: 1954
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Gruabbänke
+QUELLE: https://de.wikipedia.org/wiki/Breitenholz_(Ammerbuch) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: torähnliche hohe Steinbänke
+  schwäbische_bedeutung: gruaben = ausruhen
+  ursprüngliche_funktion: Ablage für schwere Tragekörbe
+  heutige_funktion: Ruheplätze
+  erhaltene_exemplare_in_ort: 1
+  erhaltene_exemplare_am_ortsrand: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstschule
+BEZEICHNUNG: Kunstschule Breitenholz
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: lokal ansässige Kunsteinrichtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: bücherei
+BEZEICHNUNG: Evangelische Bücherei
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/breitenholz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7

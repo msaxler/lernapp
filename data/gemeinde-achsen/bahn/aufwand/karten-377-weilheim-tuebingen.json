@@ -1,0 +1,50 @@
+{
+ "stufe": "karten",
+ "ort": "377-weilheim-tuebingen",
+ "prompt": "prompt-karten-v0.8.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 32563,
+ "token_ein": 35638,
+ "token_aus": 41351,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 28734,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 41351,
+  "output_tokens_details": {
+   "thinking_tokens": 31311
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 28734,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 41351,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 28734,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 28734
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.0582804,
+ "sekunden": 354,
+ "fehler": false,
+ "zeit": "2026-10-16T09:58:03"
+}

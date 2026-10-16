@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "377-weilheim-tuebingen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 16971,
+ "token_ein": 682910,
+ "token_aus": 12915,
+ "usage": {
+  "input_tokens": 32,
+  "cache_creation_input_tokens": 48807,
+  "cache_read_input_tokens": 634071,
+  "output_tokens": 12915,
+  "output_tokens_details": {
+   "thinking_tokens": 6224
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 48807,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 4528,
+    "cache_read_input_tokens": 53854,
+    "cache_creation_input_tokens": 1855,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1855
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.4107802,
+ "sekunden": 211,
+ "fehler": false,
+ "zeit": "2026-10-16T10:08:16"
+}

@@ -1,0 +1,619 @@
+ENTITÄT: ort
+BEZEICHNUNG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Tübingen
+  lage_geografisch: Steinlachtal, zwischen Schwäbischer Alb und Landschaftsschutzgebiet Rammert
+  entfernung_tübingen: ca. 10 km südlich
+  region: Neckar-Alb
+  metropolregion_zugehörigkeit: Stuttgart (Randzone)
+  flüsse: Steinlach, Wiesaz
+  ersterwähnung_jahr: 888
+  ersterwähnung_name: Tuzzilinga
+  ersterwähnung_quelle: Urkunde von König Arnulf
+  frühe_besiedlung: 7. Jahrhundert
+  frühe_besiedlung_beleg: alemannischer Grabfund
+  frühe_besiedlung_genauigkeit: vermutlich
+  herzogtum_stammeszeit: Schwaben
+  verkauf_württemberg_jahr: 1447
+  reformation_jahr: 1534
+  reformation_herrscher: Herzog Ulrich von Württemberg
+  bahnanschluss_jahr: 1867
+  bahnstrecke: Tübingen-Sigmaringen
+  ns_verwaltungsreform_jahr: 1938
+  ns_auswirkung: erweiterter Landkreis Tübingen
+  besatzungszone_1945: Französische Besatzungszone
+  bundesland_1947: Württemberg-Hohenzollern (gegründet 18. Mai 1947)
+  bundesland_seit_1952: Baden-Württemberg (25. April 1952)
+  verwaltungsverband: Gemeindeverwaltungsverband Steinlach-Wiesaz
+  verwaltungsverband_mitglieder: Gomaringen, Nehren
+  verwaltungsverband_sitz: Gomaringen
+  gemeinderatsgröße: 14 ehrenamtliche Gemeinderäte
+  gemeinderat_vorsitz: Bürgermeister (stimmberechtigt)
+  bürgermeister_name: Thomas Hölsch
+  bürgermeister_bestätigung_jahr: 2019
+  bürgermeister_zustimmung_prozent: 73.1
+  städtepartnerschaft: Mezzocorona (Italien)
+  städtepartnerschaft_seit: 20. Juli 2003
+  öpnv_verbund: Verkehrsverbund Neckar-Alb-Donau (naldo)
+  öpnv_tarifzone: 113
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pulvermühle
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Weiler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wiesazsägmühle
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gehöft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wüstung
+BEZEICHNUNG: Ferlinsweiler
+ORTSTEIL_BEZUG: Dußlingen (Westen)
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  flurname: Fehrlesweiler
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Ottilien
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  status: abgegangen (vermutlich)
+  hinweis: Flurname könnte auf abgegangene Kapelle hindeuten
+GUELTIG_BIS: Mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.4
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Rammert
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: FFH-Gebiet Rammert
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: FFH-Gebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: FFH-Gebiet Albvorland
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: FFH-Gebiet
+  benachbarte_orte: Mössingen, Reutlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Vogelschutzgebiet Mittlerer Rammert
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Vogelschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Dußlingen
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  baujahrhundert: 13.
+  status: Ruine
+  besitzer_mittelalter: Herren von Dußlingen
+  besitzer_herkunft: Ministerialen der Pfalzgrafen von Tübingen
+  umwandlung_rathaus: verfallenes Schloss ca. 100 Jahre nach Niedergang zu Rathaus umgebaut
+  umwandlung_wohnhaus: seit 1949 wieder Wohnhaus
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herter von Dußlingen
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  ahnherr: Diemo I. von Tußlingen
+  ahnherr_täter: bedachte Kloster Hirsau (ca. 1100)
+  stammvater: Diemo III. (drei Söhne)
+  linien: Herter von Dußlingen (Hauptlinie), Herter von Schilteck, Herter von Hertneck
+  linien_hertneck_ort: Burg Hertneck bei Ludwigsburg
+  beinamen_seit: 1266
+  beiname_wert: Herter
+  beiname_lateinisch: Pastor (manchmal beurkundet)
+  territorium_spätmittelalter: Steinlachtal und Streubesitz im Umland
+  niedergang_grund: Niedergang Pfalzgrafen Tübingen, Aufstieg Grafen Württemberg
+  niedergang_folge: Verarmung
+  einige_verdingung: Raubritter
+  verkauf_württemberg: 1447
+  verkauf_person: Jakob und Hans Herter
+  verkauf_folge: württembergische Lehensleute
+  ausgestorben_jahr: 1614
+  ausgestorben_person: Hans Christoph Herter
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1614
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Peterskirche
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1504
+  konfession: evangelisch
+  konfessionswechsel_jahr: 1534
+  konfessionswechsel_grund: Reformation (Herzog Ulrich von Württemberg)
+  gemeinde: Evangelische Kirchengemeinde
+  kirchenbezirk: Tübingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Gemeindehaus (Evangelisch)
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1937
+  architekt: Rudolf Behr
+  besonderheit: Rundfenster von Walter Kohler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Markus und St. Paulus
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche Dußlingen
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: Neuapostolisch
+  gemeinde_status: mit einer Gemeinde ansässig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Bahnstrecke Tübingen–Sigmaringen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  dußlingen_anschluss: 1867
+  bahnhof_dußlingen: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: brauerei
+BEZEICHNUNG: Brauerei Dußlingen
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  gründer: Robert Wörner
+  herkunft_vorgänger: Ausflugsgaststätte des Schwiegervaters Johannes Renz (gegründet 1869)
+  betrieb_ende_jahr: 1918
+  betrieb_ende_grund: Tod von Robert Wörner
+GUELTIG_AB: 1869
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: windpark
+BEZEICHNUNG: Windpark Rammert
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  windkraftanlagen_gesamt: 13
+  windkraftanlagen_dußlingen: 2
+  bauplatz_dußlingen: Höhnisch
+  status: geplant (beim Abrufdatum)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet Maltschach
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gewerbegebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet Staffelbrunnenwiesen
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gewerbegebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Industrie- und Gewerbegebiet Im Steinig
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Industrie- und Gewerbegebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Anne-Frank-Schule
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grund- und Hauptschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Karl-von-Frisch-Gymnasium
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Gymnasium
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Merian-Gemeinschaftsschule
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Gemeinschaftsschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Freie Evangelische Realschule Dußlingen
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Realschule
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Herter von Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1314-1359
+  titel: schwäbischer Ritter
+  herkunft: Dußlingen
+GUELTIG_AB: 1314
+GUELTIG_BIS: 1359
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johannes Fabri
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1571-1620
+  beruf: Arzt
+  posten: Professor an der Universität Tübingen
+  herkunft: Dußlingen
+GUELTIG_AB: 1571
+GUELTIG_BIS: 1620
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Martin Vollmer
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 22. Juni 1869 (Dußlingen)
+  tod: 30. Januar 1954 (Dußlingen)
+  beruf: Oberlehrer
+  nebentätigkeit: Lyriker
+GUELTIG_AB: 1869
+GUELTIG_BIS: 1954
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Sigmund Herter von Herteneck
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  amt: Obervogt der Grafschaft Zollern und der Herrschaft Haigerloch
+  wirkort: Dußlingen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Herter von Hertneck
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1424-1477
+  titel: Ritter, Feldhauptmann
+  bedeutung: bedeutendster Spross des Geschlechts Herter
+  straße_benannt: Wilhelm-Herter-Straße in Dußlingen
+GUELTIG_AB: 1424
+GUELTIG_BIS: 1477
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hermann Zahr
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1895-1974
+  partei: SPD
+  amt: Bürgermeister von Dußlingen
+  amt_regional: Landrat des Landkreises Tübingen
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wolfgang Däubler
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1939
+  beruf: Rechtswissenschaftler
+  wohnort: Dußlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Herta Däubler-Gmelin
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1943
+  partei: SPD
+  beruf: Politikerin
+  wohnort: Dußlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Werner Raupp
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1955
+  beruf: Historiker
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Thomas Leon Heck
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1957
+  beruf: Antiquar, Verleger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Markus Gaugisch
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1974
+  beruf: Handballspieler, Handballtrainer
+  arbeitgeber: Karl-von-Frisch-Gymnasium Dußlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Sebastian Nerz
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1983
+  partei_ehemals: Piratenpartei
+  amt_ehemals: Politiker
+  wohnort: Dußlingen
+  engagement: Deutsches Rotes Kreuz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Steinlach
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  fließt_durch: Dußlinger Gemarkung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Wiesaz
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  fließt_durch: Dußlinger Gemarkung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Bundesstraße 27
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: Nord-Süd-Richtung durch Gemeindegebiet
+  vorgänger: Schweizer Straße
+  vorgänger_verkehrsrolle: wichtige Handelsroute
+  vorgänger_auswirkung: zahlreiche Truppendurchzüge, Einquartierungen und Plünderungen in Kriegszeiten (17. bis frühen 19. Jahrhundert)
+  ausbau_zeitraum: 2009-2014
+  ausbau_umfang: vierspuriger Ausbau in zwei Tunnel-Röhren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Landesstraße 385
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: Dußlingen - Reutlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wasserversorgung
+BEZEICHNUNG: Zweckverband Steinlach-Wasserversorgung
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Trinkwasserversorgung
+  gründungsjahr: 1919
+  gründergemeinden: Dußlingen, Mössingen, Nehren, Ofterdingen
+  verbandsmitglieder_aktuell: Dußlingen, Mössingen, Nehren, Ofterdingen
+  wasserkuellen_anteil_eigenwasser: 60% (Wasserwerk Tübingen-Kilchberg)
+  wasserkuellen_anteil_bodensee: 40% (Bodensee-Wasserversorgung)
+  erste_wasserfassung: Galeriebrunnen auf Mössinger Gemarkung
+  erste_wasserfassung_betrieb_bis: 1947
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: abwasserverband
+BEZEICHNUNG: Abwasserverband Steinlach-Wiesaz
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Abwasserentsorgung
+  mitgliedsgemeinden: Dußlingen, Gomaringen, Nehren, Sonnenbühl, Ofterdingen, Mössingen, Reutlingen
+  kläranlage_standort: Gemarkung Dußlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zwangsarbeit während Weltkrieg II
+ORTSTEIL_BEZUG: Dußlingen (Höhnisch)
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: letzte Monate des Zweiten Weltkriegs
+  zwangsarbeiter_anzahl: 700
+  tätigkeit: Ölschiefer-Abbau
+  arbeitsbedingungen: unmenschlich
+  militärische_operation: Unternehmen Wüste
+  ziel: Treibstoffgewinnung für Wehrmacht-Fahrzeuge
+  durchführung: nicht mehr realisiert (militärischer Zusammenbruch)
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeinderatswahl
+BEZEICHNUNG: Kommunalwahl Dußlingen 2024
+ORTSTEIL_BEZUG: Dußlingen
+QUELLE: https://de.wikipedia.org/wiki/Dußlingen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 9. Juni 2024
+  ergebnis_dußlinger_wählervereinigung: 31.52% (4 Sitze)
+  ergebnis_freie_wählervereinigung: 32.77% (5 Sitze)
+  ergebnis_cdu_bürgliche: 13.07% (2 Sitze)
+  ergebnis_spd: 7.65% (1 Sitz)
+  ergebnis_bündnis_90_die_grünen: 14.99% (2 Sitze)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

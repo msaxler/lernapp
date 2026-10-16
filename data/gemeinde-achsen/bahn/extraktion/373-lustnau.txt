@@ -1,0 +1,664 @@
+ENTITÄT: ort
+BEZEICHNUNG: Lustnau
+QUELLE: https://www.tuebingen.de/154.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: östlich von Tübingen
+  einwohner: 11144
+  stadtteil_rang: größter Stadtteil
+  status: ehemals eigenständige Gemeinde, jetzt Stadtteil
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Lustnau
+QUELLE: https://www.tuebingen.de/154/406.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_erwahnung: 1100
+  erstmalige_erwahnung_name: Lustnow
+  besitzer_mittelalter: Herren von Lustnau
+  besitzer_herrschaft_bis: 1466
+  verbindung_kloster: Kloster Bebenhausen
+  hauptwirtschaft_mittelalter: Wein- und Ackerbau
+  weinbau_gebiete: Herrlesberg, Österberg, Neuhalde
+  weinbau_verfall_ab: 2. Hälfte 19. Jahrhundert
+  ersatz_weinbau: Hopfenanbau
+  hopfenanbau_beendigung: 1. Weltkrieg
+  eingemeindung_jahr: 1934
+  eingemeindung_stadt: Tübingen
+  einwohner_bei_eingemeindung: 3500
+  einwohner_bei_eingemeindung_genauigkeit: ca.
+GUELTIG_BIS: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Lustnau
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  lage_wikipedia: nordöstlich der Innenstadt an der Mündung der Ammer in den Neckar
+  dialekt_name: Luschtna
+  ursprung: alamannische Besiedlung
+  reihengraberfriehof: 7. Jahrhundert
+  roemische_funde: ja
+  ortsteil_pfrondorf_zugehoerigkeit_bis: 1715
+  beschreibung: Von allen Talseiten aus gut sichtbar bildete sie den hervorgehobenen Mittelpunkt von Ammer- und Goldersbachtal bei deren Übergang ins Neckartal
+GUELTIG_AB: 700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gebaude
+BEZEICHNUNG: Lustnauer Rathaus
+QUELLE: https://www.tuebingen.de/154/405.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1824
+  erweiterung_jahr: 1912
+  erweiterung_art: Dachstockaufbau
+  einrichtungen: Geschäftsstelle, Trauzimmer, Sitzungssaal
+  trauzimmer_ausstattung: Parkettfußboden, Holzvertäfelungen
+GUELTIG_AB: 1824
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaude
+BEZEICHNUNG: Lustnauer Klosterhof
+QUELLE: https://www.tuebingen.de/154/406.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: Mitte 13. Jahrhundert
+  urspruengliche_funktion: Wirtschaftshof des Klosters Bebenhausen
+  kloster_bezug: Kloster Bebenhausen
+  dienstsitz_ab: Reformation um 1540
+  dienstsitz_inhaber: Klostervogt von Bebenhausen
+  verwaltung_aenderung: 1807/08 Auflösung Klosteramt
+  verwaltung_zugeordnung: Oberamt Tübingen
+  renovation_status: völlig renoviert
+  heutige_nutzung: Therapiezentrum der Drogenhilfe Tübingen
+GUELTIG_AB: 1270
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Lustnau / St. Martin
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  erste_kirche_vermutung: 7. Jahrhundert
+  ersturkund_erwaehnung: 1120
+  ersterwaehnung_name: St. Martin
+  verschenkung_kloster: 1276 an Kloster Bebenhausen
+  verschenker: Pfalzgraf Wilhelm von Tübingen
+  abriss_neubau_1: 1370
+  abriss_neubau_2: 1495-1496
+  zisterziensischer_einfluss: Abt Johann von Friedlingen
+  reformation_jahr: 1534
+  reformation_grund: Einführung durch Herzog Ulrich von Württemberg
+  spezialsuperintendentur_sitz: 1692-1811
+  spezialsuperintendentur_verlegung_nach: Tübingen
+  architektur_stil: spätgotisch
+  architektur_form: einschiffiges Langhaus
+  kirchturm_erhoehung: 1862-1885
+  kirchturm_aenderung: Fachwerkaufsatz durch steinernen Turmhelm ersetzt
+  chor_neubau: 1888-1889
+  chor_architekt: Heinrich Dolmetsch (Stuttgart)
+  chor_stil: neogotisch
+  chorscheitelfenster: Bergpredigt-Darstellung, von fränkischem Künstler, in Münchner Glasmalerei ausgeführt
+  empore: 1968
+  orgel: 1982
+  westfront: kleines farbiges Rundfenster seit 1982
+  lage: Sporn des Herrlesberg mitten im damaligen Friedhof
+  kirchenbezirk: Tübingen
+GUELTIG_AB: 1120
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Petrus
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  gemeinde_gruendung: 1955
+  kirche_errichtung_datum: 26. Februar 1956
+  kirche_erbauer: Helmut Basten (Tübinger Architekt)
+  sitzplaetze: 400
+  renovation_jahr: 1975
+  renovator: Johannes Manderscheid (Rottenburg Architekt)
+  gewidmet_person: Carlo Steeb
+  urspruenglicher_gedaechtnisname: Carlo-Steeb-Gedächtniskirche
+  endgueltige_weihe_name: Apostel Petrus
+  weihe_grund: nur Heilige möglich als Kirchenname
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Carlo Steeb
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 18. Dezember 1773
+  geburtsort: Tübingen
+  geburtsname: Karl
+  vater_beruf: Gastwirt "Zum Lamm", auch Wollhandel
+  ausbildung_orte: Paris und Verona
+  priesterweihe_jahr: 1796
+  konfession: katholisch
+  gruendung_gemeinschaft: 1840
+  gemeinschaft_name: Gemeinschaft der Schwestern der Barmherzigkeit
+  gemeinschaft_orte: Armenhaus und Spital in Verona
+  todestag: 15. Dezember
+  todesjahr: 1773 (100 Jahre = 1873, aber 1955 war 100. Jahrestag genannt)
+  seligsprechungsprozess: ab 1948
+  verbindung_lustnau: Kirche St. Petrus gewidmet
+GUELTIG_AB: 1773
+GUELTIG_BIS: 1855
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Lustnauer Friedhof
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  rang_tuebingen: einer von 14 Friedhöfen
+  friedhofskapelle_neubau: 1935
+  glasmalerei_kuenstler: Rudolf Yelin d. J. (Stuttgart)
+  glasmalerei_inhalte: Kreuztragung Jesu, Frauen am Grab, Auferstehung Christi
+  bestattungen_jaehrlich_erde: 44
+  bestattungen_jaehrlich_urne: 17
+  bestand_2005_erdbestattungsgraeber: 85
+  bestand_2005_erdbestattungsgraeber_reihe: 45
+  bestand_2005_erdbestattungsgraeber_wahl: 40
+  bestand_2005_urnengraeber: 45
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: wohnviertel
+BEZEICHNUNG: Herrlesberg/Stäudach
+ORTSTEIL_BEZUG: Herrlesberg/Stäudach
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  bauerschliessung: ab Ende 1980er Jahre
+  lage: Anhöhe nordöstlich von Lustnau
+  dorfladen_gruendung: Frühjahr 2007
+  dorfladen_eroffnung: 13. Februar 2009
+  dorfladen_organisation: genossenschaftlich
+  infrastruktur_erweiterung: Dorfladen
+  einwohner: 2102
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wohnviertel
+BEZEICHNUNG: Denzenberg
+ORTSTEIL_BEZUG: Denzenberg
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Südwärts von der Eberhard-Wildermuth-Siedlung hinunter zur Ammer abfallender Hang
+  einwohner: 1908
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Eberhard-Wildermuth-Siedlung
+ORTSTEIL_BEZUG: Sand
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  lage: Sporn zwischen südwärts ziehenden Tälern von Gutleuthausbach und Goldersbach
+  lage_detail: oberhalb des Denzenbergs
+  entstehung_jahrzehnt: 1950er Jahre
+  urspruenglicher_gewannname: Sand
+  benannt_nach: Eberhard Wildermuth
+  wildermuth_studium: Rechtswissenschaften in Tübingen
+  wildermuth_funktion_ab: 1949 Bundesminister für Wohnungsbau
+  wildermuth_partei: Gründungsmitglied FDP
+  militaerkrankenhaus_eroeffnung: Februar 1940
+  militaerkrankenhaus_heutige_nutzung: Wilhelm-Schickard-Institut für Informatik und weitere Institute der Eberhard Karls Universität Tübingen
+  einwohner: 443
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: stadtquartier
+BEZEICHNUNG: Alte Weberei
+ORTSTEIL_BEZUG: Alte Weberei
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  lage: unmittelbar am Neckar
+  gelaende_groesse: 6 Hektar
+  vorherige_nutzung: Frottierweberei Egeria
+  wettbewerb_ausschreibung: 2009
+  wettbewerb_teil: städtebaulicher
+  wettbewerb_phase1_preis: zwei zweite Preise
+  namenswettbewerb: ja
+  namenswettbewerb_teilnehmer: alle Einwohner
+  namenswettbewerb_jury: Runder Tisch Lustnau und Ortsbeirat
+  namenswettbewerb_gewinner: Alte Weberei
+  bewohner_zahl: 550
+  arbeitsplaetze_geplant: 100
+  wohnraum_ziel: bis zu 700 Personen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Württembergische Frottierweberei Lustnau / Egeria
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  markenname: Egeria
+  mitarbeiter_beste_zeiten: 1500
+  gebaeudeteil_erhalt: Turm und Halle
+  gebaeudeteil_erhalt_grund: überlebten 2009 Abriss
+  insolvenz: ja
+  insolvenz_folge: Abriss eines Großteils der alten Fabrikgebäude
+  neuer_besitzer: Türkischer Unternehmer
+  neuer_besitzer_erwerbung: Markennamen und Gebäudekomplex
+  heutige_nutzung: Spinnerei mit Vertrieb (wenige Beschäftigte)
+GUELTIG_BIS: Insolvenz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Kress Elektrowerkzeuge
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  gruender: Christian Kress
+  gruendung_jahr: 1928
+  gruendung_ort: Tübingen-Lustnau
+  urspruengliche_tätigkeit: Elektroinstallationsgeschäft und Werkstatt für Autoelektrik
+  produktentwicklung_ab: 1929
+  produktentwicklung: Kleinmotoren für Gleich- und Wechselstrom
+  heutiger_sitz: Bisingen
+  heutige_tätigkeit: Entwicklung und Produktion von Elektrowerkzeugen
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brauerei
+BEZEICHNUNG: Brauerei zum Ochsen Carl Heinrich
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1875
+  arbeiterzahl_wwi_ausbruch: 45
+  arbeiterherkunft: Meistens nicht aus Lustnau
+  namenswechsel_ab: 1920
+  neuer_name: Brauerei zum Ochsen Louis Heinrich
+  brauwasser_quelle: Quelle des ehemaligen Pfrondorfer Fischweihers
+  brauwasser_infrastruktur: eigens gebaute Wasserleitung
+  dampfmaschine_1: 1884 von G. Kuhn, Stuttgart-Berg
+  dampfmaschine_2: 1898 von Maschinenbau-AG Nürnberg (im gleichen Jahr geliefert)
+  aufloesung_monat: August 1922
+  aufloesung_grund: kurz nach Auflösung
+  dampfkessel_verkauf_preis: 140.000 Papiermark
+  dampfkessel_verkaeufer: Hans Rath (Lustnauer Schultheiß)
+  dampfkessel_verkaeufer_institution: Gemeinde Lustnau
+  dampfkessel_kaeufer: Egeria
+  dampfkessel_heizfläche: 100 Quadratmeter
+  komplex_wiederaufbau: Mitte 1990er
+  komplex_kaeufer: Dr. Rall GmbH (Reutlingen)
+GUELTIG_BIS: 1922
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Konrad von Lustnau
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  todesjahr: 1353
+  position: Abt des Zisterzienserklosters Bebenhausen
+GUELTIG_BIS: 1353
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jörg Unkair
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1500
+  todesjahr: 1553
+  beruf: Architekt
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1553
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ernst Theophil Maier
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1651
+  todesjahr: 1727
+  beruf: Jurist und Hochschullehrer
+GUELTIG_AB: 1651
+GUELTIG_BIS: 1727
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Stephan Christoph Harpprecht von Harpprechtstein
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1676
+  todesjahr: 1735
+  beruf: Rechtswissenschaftler
+GUELTIG_AB: 1676
+GUELTIG_BIS: 1735
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hermann von Hoser
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1830
+  todesjahr: 1913
+  positionen: württembergischer Oberamtmann und Regierungspräsident
+GUELTIG_AB: 1830
+GUELTIG_BIS: 1913
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gottlob Friedrich Riekert
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1841
+  todesjahr: 1900
+  position: Reichstagsabgeordneter
+GUELTIG_AB: 1841
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Karl Rilling
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1869
+  todesjahr: 1928
+  positionen: württembergischer Beamter und Oberamtmann
+GUELTIG_AB: 1869
+GUELTIG_BIS: 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johannes Rath
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1876
+  todesjahr: 1945
+  position: Bürgermeister von Lustnau
+  amtsende_grund: Zwangseingemeindung 1934 durch Nationalsozialisten
+  beisetzung_ort: Lustnauer Friedhof
+GUELTIG_AB: 1876
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Fritz Kreß
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1884
+  todesjahr: 1962
+  position: Leiter einer Zimmereifachschule in Lustnau
+  zusatzinfo: Autor
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1962
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gottfried Käuffelin
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1701
+  todesjahr: 1777
+  position: lutherischer Prälat und Abt
+  funktion_spezialsuperintendent: 1748-1762 im Ort
+GUELTIG_AB: 1701
+GUELTIG_BIS: 1777
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Victor Heinrich Riecke
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1759
+  todesjahr: 1830
+  berufe: evangelischer Pfarrer und Schulmann
+  pfarrer_lustnau: 1811-1830
+GUELTIG_AB: 1759
+GUELTIG_BIS: 1830
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Peter Goessler
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1872
+  geburtsort: Geislingen an der Steige
+  todesjahr: 1956
+  sterbeort: Tübingen
+  berufe: Prähistoriker und Denkmalpfleger
+  wirkungsort: Land Württemberg
+  beisetzung_ort: Lustnauer Friedhof
+GUELTIG_AB: 1872
+GUELTIG_BIS: 1956
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bernard Lagat
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1974
+  nationalitaet: US-amerikanisch
+  herkunft: kenianisch
+  beruf: Leichtathlet
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ernst Käsemann
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  wohnort: Eduard-Haber-Straße (Lustnau)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bruno von Freytag-Löringhoff
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsdatum: 11. Juni 1912
+  geburtsort: Bilderlingshof (heute Bulduri), Jūrmala, Riga
+  todesjahr: 28. Februar 1996
+  sterbeort: Tübingen
+  berufe: Philosoph und Mathematiker
+  beisetzung_ort: Lustnauer Friedhof
+GUELTIG_AB: 1912
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Paul Hoffmann
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsdatum: 5. April 1917
+  geburtsort: Willendorf/Donau, Österreich
+  todesjahr: 2. Mai 1999
+  sterbeort: Tübingen
+  position: Ordentlicher Professor für Deutsche Philologie an der Universität Tübingen
+  beisetzung_ort: Lustnauer Friedhof
+GUELTIG_AB: 1917
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jürgen Sydow
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1921
+  todesjahr: 1995
+  position: Direktor des Stadtarchivs Tübingen
+  beisetzung_ort: Lustnauer Friedhof
+GUELTIG_AB: 1921
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Elisabeth Käsemann
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsdatum: 11. Mai 1947
+  geburtsort: Gelsenkirchen
+  todesjahr: 24. Mai 1977
+  sterbeort: Argentinien
+  beschreibung: bekanntes deutsches Opfer der argentinischen Militärdiktatur
+GUELTIG_AB: 1947
+GUELTIG_BIS: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Viktor Renner
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  geburtsdatum: 31. Dezember 1899
+  geburtsort: Mönchweiler
+  todesjahr: 21. April 1969
+  sterbeort: Tübingen
+  berufe: Jurist und Politiker
+  partei: SPD
+  beisetzung_ort: Lustnauer Friedhof
+GUELTIG_AB: 1899
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Geologischer Lehrpfad Kirnberg
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  lage: Kirnberg (nordnordwestlich von Lustnau im Schönbuch)
+  laenge: 3 km
+  laenge_genauigkeit: ca.
+  inhalte: Keuperschichten und Geologie des Tübinger Raums
+  schautafeln: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Schwarzwald-Schwäbische-Alb-Allgäu-Weg
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  kategorie: Hauptwanderweg
+  nummer: 5
+  verein: Schwäbischer Albverein
+  verlauf: durch Lustnau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Lustnauer Geschichtsverein e. V.
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: ab 2007
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wappen
+DESIGNATION: Lustnauer Siegel
+QUELLE: https://de.wikipedia.org/wiki/Lustnau | Wikipedia
+EIGENSCHAFTEN:
+  fleckenzeichen_jahr: 1683
+  fleckenzeichen_quelle: Kieserches Forstlagerbuch
+  fleckenzeichen_lagerort: Hauptstaatsarchiv
+  fleckenzeichen_form: Großbuchstabe "L"
+  ortssiegel_beschreibung: Hirschkopf in Wappenschild
+  ortssiegel_herkunft: Wappen des ausgestorbenen Ortsadels (Herren von Lust(e)nau)
+  wappen_als_stadtteil: Lustnau führte kein Wappen als kommunal selbstständig
+GUELTIG_BIS: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88

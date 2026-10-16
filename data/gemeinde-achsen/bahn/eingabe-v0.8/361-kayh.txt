@@ -1,0 +1,302 @@
+ZIELORT: Kayh (Ortsteil von Herrenberg)
+LAGE: Stadtteil von Herrenberg; 23 km nordwestlich von Reutlingen (Luftlinie)
+ARTIKEL: Kayh
+
+GRUNDDATEN:
+  landkreis: Landkreis Böblingen  [von Hand (Herrenberg liegt im Landkreis Böblingen; Wikidata P131 des Ortsteils nennt die Stadt)]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 1746  [dewiki Infobox, Stand 2026-03-31]
+  kfz: BB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE HERRENBERG  [Wikidata P395]
+  naechste_grossstadt: Reutlingen, 23 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 30 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1971-12-01  [dewiki Infobox]
+  plz: 71083  [Wikidata P281]
+  vorwahl: 07032  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,8 %, GRÜNE 17,3 %, AfD 15,4 %, SPD 14,7 %, FDP 6,7 %, Die Linke 6,3 %; Wahlbeteiligung 85,5 % — GILT FÜR DIE GEMEINDE HERRENBERG  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  hoehe_m: 434  [Altbestand geo.sqlite (GeoNames 2891998)]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT eingemeindung: Jahr der Eingemeindung (Ersatz: Luftlinie zur Landeshauptstadt), C, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Herrenberg (Stadt)
+  landkreis: Böblingen  [dewiki Infobox]
+  einwohner: 34.167  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 65,7  [Wikidata P2046; Altbestand staedte.json]
+  kfz: BB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 460 | 431 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2905826)]
+  naechste_grossstadt: Reutlingen, 27 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Gültstein, Bahnhof Herrenberg  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,8 %, GRÜNE 17,3 %, AfD 15,4 %, SPD 14,7 %, FDP 6,7 %, Die Linke 6,3 %; Wahlbeteiligung 85,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen
+
+FAKTEN (Zielort Kayh):
+ID: 361-kayh/001
+ENTITÄT: ort
+BEZEICHNUNG: Kayh
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtteil_von: Herrenberg
+  gründung_jahr: ca. 1190
+  namensherkunft: Gehai – Ort an dem Holz geschlagen wird
+  einwohnerzahl: 1746
+  eingemeindung_datum: 1. Dezember 1971
+  lage_geografisch: Korngäu, am Rand des Schönbuchs, nahe A 81, 4 Kilometer südlich Herrenberg
+  topografie: an Schönbuchhang unterhalb des Grafenbergs
+  streuobstlandschaft_superlativ: eine der größten zusammenhängenden Europas
+  wirtschaft_weinbau_zeitraum: ca. 1190–Mitte 17. Jahrhundert
+  wirtschaft_weinbau_grund: Klosterbrüder aus Ottobeuren bauten Wein an
+  wirtschaft_obstbau_zeitraum: ab Mitte 17. Jahrhundert
+  aktuelle_obstprodukte: Zwetschgen, Kirschen, Kernobst, Saftgewinnung, Fruchtseccos, Destillate
+  bürgertreff_intervall: alle vier Wochen
+GUELTIG_AB: 1190
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 361-kayh/002
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: evangelisch
+  rang: heimliches Wahrzeichen
+  gemeinde: Evangelische Gesamtkirchengemeinde Kayh-Mönchberg
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 361-kayh/003
+ENTITÄT: kirche
+BEZEICHNUNG: Marienkirche
+QUELLE: https://de.wikipedia.org/wiki/Kayh | Wikipedia
+EIGENSCHAFTEN:
+  lage_ort: Kayh
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 361-kayh/004
+ENTITÄT: rathaus
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaute_jahr: 1550
+  baustil: Fachwerk
+  rang: prachtvoll, Zeugnis der Weinbauwohlstand
+GUELTIG_AB: 1550
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 361-kayh/005
+ENTITÄT: kelter
+BEZEICHNUNG: Alte Kelter
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaute_jahr: 1709
+  baustil: Fachwerk
+  nutzung_aktuell: Bürger- und Vereinshaus
+GUELTIG_AB: 1709
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 361-kayh/006
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Seegersches Häusle
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hauptstraße Kayh
+  größe: klein
+  fokus: Geschichte Kayhs
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 361-kayh/007
+ENTITÄT: naturgebilde
+BEZEICHNUNG: Grafenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristika: Streuobstgürtel
+  größe: riesig
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 361-kayh/008
+ENTITÄT: wanderweg
+BEZEICHNUNG: Streuobsterlebnisweg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  startpunkt: Zentrum des Stadtteils Kayh
+  route: über Südhang des Grafenbergs
+  landschaft: charakteristische Streuobstlandschaft
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 361-kayh/009
+ENTITÄT: verein
+BEZEICHNUNG: Obst- und Gartenbauverein
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: prägt kulturelles und sportliches Leben
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 361-kayh/010
+ENTITÄT: verein
+BEZEICHNUNG: Sportfreunde
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: prägt kulturelles und sportliches Leben
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 361-kayh/011
+ENTITÄT: verein
+BEZEICHNUNG: Feuerwehr
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: prägt kulturelles und sportliches Leben
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 361-kayh/012
+ENTITÄT: verein
+BEZEICHNUNG: Liederkranz
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: prägt kulturelles und sportliches Leben
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 361-kayh/013
+ENTITÄT: verein
+BEZEICHNUNG: Posaunenchor
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: prägt kulturelles und sportliches Leben
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 361-kayh/014
+ENTITÄT: verein
+BEZEICHNUNG: Heimatgeschichts- und Trachtenverein
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: prägt kulturelles und sportliches Leben
+  organisiert_event: Maibaumstellen
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 361-kayh/015
+ENTITÄT: verein
+BEZEICHNUNG: Kayher Familienverein Wirbelwind
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: prägt kulturelles und sportliches Leben
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 361-kayh/016
+ENTITÄT: fest
+BEZEICHNUNG: Maibaumstellen
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristika: traditionell
+  termin: 1. Mai
+  organisierer: Heimatgeschichts- und Trachtenverein
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 361-kayh/017
+ENTITÄT: fest
+BEZEICHNUNG: Blütenspaziergang mit Hocketse
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: 1. Mai
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 361-kayh/018
+ENTITÄT: fest
+BEZEICHNUNG: Kayher Kirschenfest
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: Sommer
+  besucherschaft: lockt viele Gäste
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 361-kayh/019
+ENTITÄT: fest
+BEZEICHNUNG: 800-Jahr-Fest
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: September 1990
+  beschreibung: zwei große Festwochenenden
+  besucherschaft_festzug: ca. 20000
+GUELTIG_AB: 1990
+GUELTIG_BIS: 1990
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 361-kayh/020
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Kayh
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schulart: Grundschule
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 361-kayh/021
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Kindertageseinrichtung
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 2
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 361-kayh/022
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Volkshochschule Herrenberg Außenstelle Kayh
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: VHS-Außenstelle
+  träger: Volkshochschule Herrenberg
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 361-kayh/023
+ENTITÄT: verkehrsanbindung
+BEZEICHNUNG: Busverbindung Kayh–Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zielort: Herrenberg
+  anschluss: S-Bahn nach Stuttgart
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 361-kayh/024
+ENTITÄT: verkehrsanbindung
+BEZEICHNUNG: Busverbindung Kayh–Entringen
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zielort: Entringen
+  anschluss: Ammertalbahn nach Tübingen
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 361-kayh/025
+ENTITÄT: stadtteilgruppe
+BEZEICHNUNG: Südliche Stadtteile Herrenbergs
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtteile/Kayh | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammensetzung: Kayh, Mönchberg, Gültstein
+  lage_charakterisierung: südliche Stadtteile
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

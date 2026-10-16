@@ -1,0 +1,44 @@
+Orte: 381-dettenhausen 382-kirchentellinsfurt 383-kusterdingen 384-gomaringen 385-dusslingen 386-wurmlingen-rottenburg
+== Extraktion (Haiku) 10:08:21
+381-dettenhausen     extraktion ein  22022  aus  10125   0.08 USD    81 s  claude-haiku-4-5-20251001
+382-kirchentellinsfurt extraktion ein  36936  aus  15234   0.14 USD   118 s  claude-haiku-4-5-20251001
+383-kusterdingen     extraktion ein  22555  aus   8867   0.08 USD    66 s  claude-haiku-4-5-20251001
+384-gomaringen       extraktion ein  24925  aus   9534   0.08 USD    72 s  claude-haiku-4-5-20251001
+385-dusslingen       extraktion ein  21402  aus  18927   0.12 USD   137 s  claude-haiku-4-5-20251001
+386-wurmlingen-rottenburg extraktion ein  20043  aus  17774   0.12 USD   132 s  claude-haiku-4-5-20251001
+zusammen: 17249 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+381-dettenhausen   15584 Zeichen
+382-kirchentellinsfurt   27253 Zeichen
+383-kusterdingen   20743 Zeichen
+384-gomaringen     23684 Zeichen
+385-dusslingen     24809 Zeichen
+386-wurmlingen-rottenburg   20073 Zeichen
+== Karten (claude-opus-5-5) 10:11:39
+381-dettenhausen     karten     ein  35316  aus  34704   0.92 USD   305 s  claude-opus-5-5
+382-kirchentellinsfurt karten     ein  42457  aus  36020   1.01 USD   308 s  claude-opus-5-5
+383-kusterdingen     karten     ein  39206  aus  35541   0.97 USD   303 s  claude-opus-5-5
+384-gomaringen       karten     ein  40527  aus  42630   1.12 USD   367 s  claude-opus-5-5
+385-dusslingen       karten     ein  41889  aus  31388   0.91 USD   265 s  claude-opus-5-5
+386-wurmlingen-rottenburg karten     ein  35708  aus  31731   0.87 USD   277 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 10:20:40
+381-dettenhausen     pruefung   ein  43963  aus   7425   0.45 USD    61 s  claude-opus-5-5
+382-kirchentellinsfurt pruefung   ein  72779  aus  13229   0.79 USD   187 s  claude-opus-5-5
+383-kusterdingen     pruefung   ein  49168  aus  11055   0.56 USD    96 s  claude-opus-5-5
+384-gomaringen       pruefung   ein  51372  aus  10531   0.57 USD    88 s  claude-opus-5-5
+385-dusslingen       pruefung   ein  42210  aus   8033   0.44 USD    73 s  claude-opus-5-5
+386-wurmlingen-rottenburg pruefung   ein  40686  aus   5741   0.39 USD    52 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 10:23:47
+381-dettenhausen     FEHLER keine Karte an Stufe 2 – kein Lauf
+382-kirchentellinsfurt stufe2     ein 184488  aus   7404   0.69 USD    94 s  claude-opus-5-5,claude-haiku-4-5-20251001
+383-kusterdingen     stufe2     ein 295761  aus   5143   0.61 USD   104 s  claude-opus-5-5,claude-haiku-4-5-20251001
+384-gomaringen       stufe2     ein 262195  aus   6927   0.62 USD   124 s  claude-opus-5-5,claude-haiku-4-5-20251001
+385-dusslingen       stufe2     ein 896740  aus  16411   1.65 USD   249 s  claude-opus-5-5,claude-haiku-4-5-20251001
+386-wurmlingen-rottenburg stufe2     ein 306649  aus   9551   0.98 USD   127 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 10:27:56
+Urteile: {'korrigiert': 1144, 'bestätigt': 1940, 'gesperrt': 103, 'unsicher': 249} | im Vorrat: 3333 Karten an 386 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     386 Orte, 3333 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 3802180 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 10:27:58

@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "369-hagelloch",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 4267,
+ "token_ein": 167495,
+ "token_aus": 3161,
+ "usage": {
+  "input_tokens": 14,
+  "cache_creation_input_tokens": 20961,
+  "cache_read_input_tokens": 146520,
+  "output_tokens": 3161,
+  "output_tokens_details": {
+   "thinking_tokens": 1174
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 20961,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 1667,
+    "cache_read_input_tokens": 26670,
+    "cache_creation_input_tokens": 1193,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1193
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.44159800000000005,
+ "sekunden": 68,
+ "fehler": false,
+ "zeit": "2026-10-16T09:40:44"
+}

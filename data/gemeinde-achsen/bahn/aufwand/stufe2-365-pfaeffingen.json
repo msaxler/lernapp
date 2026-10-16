@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "365-pfaeffingen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 14603,
+ "token_ein": 333752,
+ "token_aus": 9089,
+ "usage": {
+  "input_tokens": 18,
+  "cache_creation_input_tokens": 40259,
+  "cache_read_input_tokens": 293475,
+  "output_tokens": 9089,
+  "output_tokens_details": {
+   "thinking_tokens": 4205
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 40259,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 5011,
+    "cache_read_input_tokens": 46071,
+    "cache_creation_input_tokens": 1090,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1090
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.004753,
+ "sekunden": 128,
+ "fehler": false,
+ "zeit": "2026-10-16T09:39:49"
+}

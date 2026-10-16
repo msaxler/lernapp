@@ -1,0 +1,393 @@
+ENTITÄT: ort
+BEZEICHNUNG: Wurmlingen
+QUELLE: https://www.rottenburg.de/wurmlingen.30020.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2584
+  charakteristisches_merkmal_1: Jahrgängerwesen
+  charakteristisches_merkmal_2: Pfingstritt (alle zwei Jahre)
+  vereine_anzahl: 20
+  kindergarten_anzahl: 2
+  grundschule_anzahl: 1
+  baecker_anzahl: 2
+  discounter_anzahl: 1
+  verkehrsanbindung: gute Erreichbarkeit von Tübingen und Rottenburg via ÖPNV
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Wurmlingen
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  stadtteil_von: Rottenburg am Neckar
+  landkreis: Tübingen
+  bundesland: Baden-Württemberg
+  land: Deutschland
+  lage_zu_rottenburg_km: 4 nordöstlich
+  lage_zu_tuebingen_km: 8 südwestlich
+  gesamtflaeche_ha: 714
+  landwirtschaftliche_flaeche_prozent: 68.6
+  siedlung_verkehr_flaeche_prozent: 15.1
+  waldflaehe_prozent: 15.1
+  wasserflaeche_prozent: 0.1
+  sonstige_nutzung_prozent: 1.1
+  nachbarorte: Unterjesingen, Hirschau, Rottenburg (Kernstadt), Wendelsheim, Pfäffingen
+  bevoelkerungsdichte_pro_km2: 348
+  ersterwahnung_urkundlich: um 1100
+  zugehoerig_grafschaft_hohenberg_ab: 1381
+  zugehoerig_oesterreich_ab: 1381
+  zugehoerig_württemberg_ab: 1805
+  oberamt_ab_1805: Rottenburg
+  kreis_ab_1938: Tübingen
+  eingliederung_rottenburg_datum: 1971-12-01
+  bevoelkerung_jahr_2018: ca. 2600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Sankt-Remigius-Kapelle (Wurmlinger Kapelle)
+ORTSTEIL_BEZUG: Spitzberg/Kapellenberg
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  lage_geografisch: Kapellenberg
+  bauzeitraum: 1049-1054 (zur Zeit von Papst Leo IX.)
+  weithin_bekannt: true
+  rundblick_ueber: Neckartal und Ammertal
+  obst_weinbaulehrpfad: ja, durch Weinberge unterhalb
+  sommerkonzerte: Serenade in der Wurmlinger Kapelle (Sonntagabende Sommerzeit)
+GUELTIG_AB: 1049
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Briccius
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  denkmalschutz: ja
+  ausmalung_kuenstler: Carl Dehner
+  fassadenbild_motiv: Erzengel Michael als Drachentöter
+  fassadenbild_bedeutung: erinnert an Sage der Namensherkunft (Lindwurm)
+  musikveranstaltungen: Gottesdienste gestaltet vom Jugendchor Wurmlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wasserschloss
+BEZEICHNUNG: die Vest
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  ersterwahnung: um 1400
+  lage_bei: Gasthaus Rößle
+  merkmale_baulich: Wassergraben, Damm, Schlossgarten
+  herr_ab_1478: Megenzer von Felldorf
+  herr_ab_1675: Freiherren von Hohenberg (Pfandherren)
+  herr_1731_bis_1762: von Rost
+  pfandherren_bis_1762: Freiherren Raßler von Gamerschwang
+  schicksal_1762: Lehen fiel an Österreich zurück
+  zeitraum_abgang: Ende 18. Jahrhundert
+  status: abgegangen
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herren von Wurmlingen
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum_genannt: um 1120
+  herkunft: Ortsadel des Dorfes
+  burg_im_dorf: gehörte den Mörhild von Wurmlingen
+  spaetere_verzweigungen: Familien von Märheld, von Mörsperg, von Steinhilben
+  linie_rottenburger_maerheld_zeitraum: 1292-1519
+  linie_rottenburger_maerheld_rolle: stellte mehrere Schultheißen
+GUELTIG_AB: 1120
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Brestenegg
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Ammann von Brestenegg
+  fruehere_eigentuemer: Ammann von Brestenegg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: historisches_dokument
+BEZEICHNUNG: Urkunde vom 7. Dezember 1252
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1252-12-07
+  akteure: Albert, Friedrich und Heinrich von Wurmlingen (genannt die Hohin), Herren von Wurmlingen, Ministerialen der Grafen von Zollern
+  inhalt: Verkauf eines Weinbergs im Pfaffenberg (Kapellenberg)
+  zustimmung: Graf Friedrich von Zollern
+  empfaenger: Frauenkloster Kirchberg
+  bedeutung: deutet auf Verbindung zwischen Wurmlingen (Rottenburg) und Wurmlingen (bei Tuttlingen)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Sebastian Bauer
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Dekan
+  verleihung_jahr: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Franz Joseph Fischer
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Weihbischof
+  verleihung_jahr: 1953
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Stefan Kruschina
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Pfarrer
+  verleihung: posthum
+  entzug_grund: sexuelle Missbrauch von Schutzbefohlenen (von ehemaligen Schülern belastet, später erwiesen)
+  status: posthum entzogen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Eberhard von Wurmlingen
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  status: Ritter
+  geburtszeit_circa: 1252
+  beschreibung: Sohn/Tochter des Ortes
+GUELTIG_AB: 1252
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Konrad von Wurmlingen
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  status: Kanoniker des Stifts St. Martin in Sindelfingen
+  werk: Autor des überwiegenden Teils der Sindelfinger Annalen
+  todesjahr: 1295
+  beschreibung: Sohn/Tochter des Ortes
+GUELTIG_BIS: 1295
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Lorenz Haug
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1818-1856
+  beruf: Gehörlosenpädagoge
+  beschreibung: Sohn/Tochter des Ortes
+GUELTIG_AB: 1818
+GUELTIG_BIS: 1856
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anton Birlinger
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1834-1891
+  berufe: Germanist, Volkskundler
+  beschreibung: Sohn/Tochter des Ortes
+GUELTIG_AB: 1834
+GUELTIG_BIS: 1891
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jochen Kopp
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1966
+  beruf: Verleger
+  beschreibung: Sohn/Tochter des Ortes
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Roman Schnur
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  wohnort: Wurmlingen
+  beschreibung: mit dem Ort verbundene Person
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: brauchtum
+BEZEICHNUNG: Jahrgängerwesen
+QUELLE: https://www.rottenburg.de/wurmlingen.30020.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristisches_merkmal_von: Wurmlingen
+  besonderheit: Auswärtige stoßen hinzu
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Pfingstritt
+QUELLE: https://www.rottenburg.de/wurmlingen.30020.htm | Gemeinde-Webseite / https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: alle zwei Jahre
+  zeit: Pfingsten
+  typ: traditionelle Brauchtumspflege
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Alemannische Fasnet
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  region_festgebiet: Raum Rottenburg
+  umzug_wurmlingen: Fasnetsamstag
+  umzug_gross: ja
+  straessenfasnet_start: Schmotziger Donnerstag
+  straessenfasnet_ende: Aschermittwoch
+  straessenfasnet_organisiert_von: verschiedene Vereine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Wurmlinger Weinbergfest
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: jedes Jahr
+  zeit: Anfang/Mitte Juni
+  ort: Weinberge unterhalb der Wurmlinger Kapelle
+  organisatoren: Wurmlinger Weinbauern
+  inhalt: selbst gekekerter Wein und schwäbische Spezialitäten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Wurmlinger Sommerfest
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: jedes Jahr
+  zeit: letztes Wochenende vor Sommerferien
+  organisatoren: Jugendchor Wurmlingen mit Vereinen und Gruppierungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Besenwirtschaften
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: ein paar Tage pro Jahr
+  ort: Häuser der Wurmlinger Weinbauern
+  inhalt: selbst gekekerter Wein und schwäbische Spezialitäten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Vereinsfeste
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: wärmere Monate des Jahres
+  dauer: jeweils ein Wochenende
+  organisatoren: verschiedene Vereine (z.B. Musik-, Sportverein, Jugendchor)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Serenade in der Wurmlinger Kapelle
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: Sommermonaten
+  wochentag_und_tageszeit: Sonntagabende
+  ort: Wurmlinger Kapelle
+  typ: Konzerte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Adventskonzert des Jugendchors Wurmlingen
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: jedes Jahr
+  zeit: Dritter Advent
+  organisatoren: Jugendchor Wurmlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Jugendchor Wurmlingen
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaet_gottesdienste: musikalische Gestaltung in St. Briccius
+  teilnahme_festivals_national: Trier, Paderborn, Regensburg, Münster, München
+  teilnahme_festivals_international: Granada, Paris, Rom, Barcelona, Florenz
+  rolle_speziell: Botschafter Wurmlingens in Deutschland und Europa
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sage
+BEZEICHNUNG: Legende des Lindwurms am Kapellenberg
+QUELLE: https://de.wikipedia.org/wiki/Wurmlingen_(Rottenburg) | Wikipedia
+EIGENSCHAFTEN:
+  inhalt: Name Wurmlingen könnte von einem Drachen (Lindwurm) am Kapellenberg herrühren
+  genauigkeit: vermutlich
+  kulturelle_manifestation: Fassadenbild St. Briccius zeigt Erzengel Michael als Drachentöter
+  beschreibung: erinnert an die Legende
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6

@@ -1,0 +1,496 @@
+ENTITÄT: ort
+BEZEICHNUNG: Unterjesingen
+QUELLE: https://www.tuebingen.de/156.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_relative_zu_tuebingen: 6 km westlich
+  lage_region: Ammertal, südlicher Schönbuchrand
+  hoehe_ueber_meeresspiegel: 361 m
+  einwohnerzahl: 2640
+  is_stadtteil_tuebingen: true
+  bundesland: Baden-Württemberg
+GUELTIG_AB: 1971
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Unterjesingen
+QUELLE: https://www.tuebingen.de/156/423.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_jungsteinzeit: true
+  besiedlung_roemer: true
+  romische_siedlungsspuren: true
+  namensherkunft: geht zurück auf frühe alemannische Siedlungsgeschichte der -ingen Orte
+  erste_urkundliche_erwaehnung: 13. Jahrhundert
+  erwaehnung_kloster_bebenhausen: 1294
+  eingliederung_kreis_tuebingen: 1938
+  eingliederung_universitaetsstadt_tuebingen: 1. Juli 1971
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Sankt Barbara
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://www.tuebingen.de/156.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauart: spätgotisch
+  bauzeit: 1475-1484
+GUELTIG_AB: 1475
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Sankt Barbara (Barbarakirche)
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1475-1484
+  erbaut_unter: Eberhard V. im Bart
+  bauschule: Uracher Bauschule
+  superlativ: beschreibung
+GUELTIG_AB: 1475
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rosecker Kelter
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://www.tuebingen.de/156.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1784
+  zusatz: historisches Bauernhaus
+GUELTIG_AB: 1784
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rosecker Kelter
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1784
+  erbaut_von: Klosteramt Bebenhausen
+  inschrift_torbogens: CBPR (Closter Bebenhausen Pflege Roseck)
+GUELTIG_AB: 1784
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Isinger-Dorfmuseum
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://www.tuebingen.de/156/422.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Rosecker Kelter und Zeeb-Haus
+  adresse: Kirchhalde 10, 72070 Tübingen-Unterjesingen
+  eintritt: kostenlos
+  ansprechpartnerin: Irmtraud Silber
+  telefon: 07073 7550
+  sammlungen: Geräte aus Weinbau/Vieh-/Landwirtschaft, Sacksammlung, Handwerkstradition
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Isinger Dorfmuseum
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  standort: Rosecker Kelter und Zeeb-Haus, Kirchhalde 9-10
+  schwerpunkte: Weinbau Ammertal, württembergisches Dorf unter Klosterherrschaft, Hopfenanbau um 1900, ländliche Arbeitsgeräte, vorindustrielles Handwerk
+  handwerke_belegt: Schmied, Wagner, Küfer, Sattler
+  zeeb_haus_bewohnung_bis: 1986
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Zeeb-Haus
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: historisches Bauernhaus
+  bewohnt_durch_familie: Zeeb bis 1986
+  restauriert_zustand: alter Bau- und Einrichtungszustand mit alten Betten und Plumpsklo
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Roseck
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Schönbuch oberhalb des Ammertales
+  urspruenglicher_name: Burg Roseck
+  erbauer_vermutlich: Pfalzgrafen von Tübingen
+  erbauer_zeit: Zeit der Staufer (1138-1254)
+  erste_urkundliche_erwaehnung: 1287
+  verkaeufer_1287: Gottfried I., Graf von Böblingen und Pfalzgraf von Tübingen
+  verkauf_1287_an: König Rudolf
+  verkauf_1410_datum: 28. Oktober 1410
+  verkauf_1410_objekt: Burg Roseck mit Dorf Jesingen
+  verkauf_1410_an: Kloster Bebenhausen
+  klosterpflege_errichtet: Bebenhausen
+  gerichtsbarkeit_niedere: Bebenhausen ab 1410
+  gerichtsbarkeit_hohe: Württemberg
+GUELTIG_AB: 1138
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahn
+BEZEICHNUNG: Ammertalbahn
+QUELLE: https://www.tuebingen.de/156.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: Unterjesingen - Tübingen - Herrenberg
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahn
+BEZEICHNUNG: Ammertalbahn
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  haltepunkte_unterjesingen: 2
+  verkehrsstrecke: zwischen Herrenberg und Tübingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Bundesstraße 296
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  vorgaengername_bis: Bundesstraße 28
+  vorgaengername_gueltig_bis: Januar 2018
+  richtung: Herrenberg und Tübingen Zentrum
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Unterjesingen
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://www.tuebingen.de/156/420.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  website: www.barbaragemeinde.de
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde St. Johannes
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://www.tuebingen.de/156/420.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  website: www.katholisch-tue.de/gemeinden/st-johannes
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: SV Unterjesingen
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1923
+  angebote: Fußball, Leichtathletik, Turnen
+  frauenfussballmannschaft_seit: 1970
+GUELTIG_AB: 1923
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Unterjesingen
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Freiwillige Feuerwehr
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Flugsportverein Unterjesingen
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Flugsportverein
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: DRK-Ortsverein Ammerbuch
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  zustaendigkeit_unterjesingen_seit: Ende 2016
+  helfer_vor_ort_gruppe_gegruendet: 2019
+  elektrofahrzeug_einsatz_deutschland: erstes Elektrofahrzeug als Einsatzfahrzeug in Süddeutschland 2019
+  projekt: elektrisch-leben-retten.de
+GUELTIG_AB: 2016
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Alexander Muders
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Ortsvorsteher
+  amtsantritt: 2024
+  vorgaenger: Michael Rak
+GUELTIG_AB: 2024
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Michael Rak
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Ortsvorsteher
+  amtszeit: 2004-2024
+  amtsantritt: 2004
+  vorgaenger: Fritz Maichle
+GUELTIG_AB: 2004
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Fritz Maichle
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Ortsvorsteher
+  nachfolger: Michael Rak
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Eberhard von Faber
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort_oder_bezug: Unterjesingen
+  lebensdaten: 1787-1872
+  beruf: Mediziner und Veterinärmediziner
+GUELTIG_AB: 1787
+GUELTIG_BIS: 1872
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ferdinand Friedrich Faber
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort_oder_bezug: Unterjesingen
+  lebensdaten: 1789-1858
+  beruf: württembergischer Finanzbeamter und Genealoge
+GUELTIG_AB: 1789
+GUELTIG_BIS: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort_abgegangen
+BEZEICHNUNG: Lachen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 13. Jahrhundert
+  lage_vermutlich: auf heutiger Gemarkung Unterjesingen
+  status: abgegangen
+GUELTIG_AB: 13. Jahrhundert
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Kirbe
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: jährlich Anfang November
+  ort: Festplatz beim Sportgelände
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: landwirtschaft
+BEZEICHNUNG: Weinanbau Unterjesingen
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://www.tuebingen.de/156.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tradition_seit: Jahrhunderte
+  charakteristikum: zahlreiche Weingärten an sonnigen Südhängen
+  bedeutung_fuer_landwirtschaft: alte Tradition prägt örtliche Landwirtschaft
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: landwirtschaft
+BEZEICHNUNG: Weinanbau Unterjesingen
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  lage_name: Unterjesingen Sonnenhalde
+  lage_bereich: Oberer Neckar
+  winzer_typ: Nebenerwerbs- und Hobby-Winzer
+  umfang: nennenswert
+  historische_bedeutung_um_100_jahre_zurueck: bedeutender Wirtschaftsfaktor
+  neuere_entwicklung: Aufschwung in letzten Jahren aufgrund wärmeres Klima
+  vertrieb: private Besenwirtschaften (wenige Tage im Jahr geöffnet), regionaler Handel mit Flaschenweinen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Hopfenanbau Unterjesingen
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://www.tuebingen.de/156/423.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: um 1900
+  effekt: brachte relativen Wohlstand
+  industrialisierung: keine Industrieansiedlung
+GUELTIG_AB: 1900
+GUELTIG_BIS:
+IST_VERMUTISMUS: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Bebenhausen
+QUELLE: https://www.tuebingen.de/156/423.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beziehung_zu_unterjesingen: mehrfache Erwerbungen im 13. Jahrhundert
+  kauf_1294: Hof des Pfalzgrafen von Tübingen
+  erwerb_burg_roseck: 28. Oktober 1410 (Burg Roseck mit Dorf Jesingen)
+  herrschaft_pflege_roseck: niedere Gerichtsbarkeit
+  aufgeloest: 1560
+  nachfolger_verwaltung: württembergisches Klosteramt Bebenhausen, dann Oberamt Herrenberg
+GUELTIG_AB: 13. Jahrhundert
+GUELTIG_BIS: 1560
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Wurmlinger Kapelle
+QUELLE: https://www.tuebingen.de/156.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: im Ammertal, eine Seite von Unterjesingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Naturpark Schönbuch
+QUELLE: https://www.tuebingen.de/156.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: andere Seite von Unterjesingen im Ammertal
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: umwelt
+BEZEICHNUNG: Feinstaubbelastung Unterjesingen
+ORTSTEIL_BEZUG: Unterjesingen
+QUELLE: https://de.wikipedia.org/wiki/Unterjesingen | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: einer der Orte mit höchster Feinstaub- und Schadstoffbelastung in Deutschland
+  messwert_2006_tage_ueberschreitung_eu_grenzwert: 84
+  rang_2006: sechster Platz in Deutschland
+  ursache: hohes Verkehrsaufkommen
+  fahrzeuge_taglich_2006: 22000
+  folge: stockender Verkehr, erhöhte Feinstaub- und Schadstoffwerte
+  massnahme_datum: 30. Juli 2007
+  massnahme: Pförtnerampel am westlichen Ortseingang
+  massnahme_effekt: geringfügige Verringerung der Schadstoffmenge
+GUELTIG_AB: 2006
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

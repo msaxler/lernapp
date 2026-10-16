@@ -1,0 +1,400 @@
+ID: 383-kusterdingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Kusterdingen
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Gemeindeportrait/Zahlen-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Tübingen
+  postleitzahl: 72127
+  telefon_vorwahl: 07071
+  einwohner: 9113
+  fläche_ha: 2424
+  landwirtschaftsfläche_ha: 1460
+  waldfläche_ha: 444
+  ortsteile_count: 5
+  ortsteile: Immenhausen, Jettenburg, Kusterdingen, Mähringen, Wankheim
+  erreichbarkeit: über B 27 und ÖPNV
+GUELTIG_AB: 1975
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 383-kusterdingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Kusterdingen
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Gemeindeportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_durch_gemeindereform: 1975
+  lage: Hochebene über Neckar- und Echaztal
+  synonym: Härten
+  landschaftlicher_kontext: unweit Schwäbischer Alb und Schönbuchs
+  vereine_count: 60
+  vereinsangaben_quelle: engagierte Menschen
+GUELTIG_AB: 1975
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 383-kusterdingen/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Immenhausen
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Gemeindeportrait/Zahlen-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 738
+  fläche_ha: 368
+  hoehe_ueber_nn_m: 413
+  telefon_vorwahl: 07072
+GUELTIG_AB: 2021
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 383-kusterdingen/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Gemeindeportrait/Zahlen-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1153
+  fläche_ha: 326
+  hoehe_ueber_nn_m: 383
+GUELTIG_AB: 2021
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 383-kusterdingen/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kusterdingen
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Gemeindeportrait/Zahlen-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 3619
+  fläche_ha: 642
+  hoehe_ueber_nn_m: 410
+GUELTIG_AB: 2021
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 383-kusterdingen/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mähringen
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Gemeindeportrait/Zahlen-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1499
+  fläche_ha: 533
+  hoehe_ueber_nn_m: 412
+GUELTIG_AB: 2021
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 383-kusterdingen/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wankheim
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Gemeindeportrait/Zahlen-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1722
+  fläche_ha: 555
+  hoehe_ueber_nn_m: 427
+GUELTIG_AB: 2021
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 383-kusterdingen/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1159
+  fläche_km2: 3.26
+  hoehe_ueber_nn_m: 381
+  haeuser_count: 430
+  entfernung_reutlingen_km: 7
+  entfernung_tuebingen_km: 7
+  wohnungstyp_dominierend: Einfamilienhaus
+GUELTIG_AB: 2026
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 383-kusterdingen/009
+ENTITÄT: kirche
+BEZEICHNUNG: St. Ulrich und Pankratius
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1324
+  ursprünglicher_typ: Kapelle
+  ursprüngliche_zugehörigkeit: Filialkirche von Mähringen
+  aktuelle_zugehörigkeit: evangelische Kirchengemeinde Wankheim-Jettenburg
+  ortsbildprägend: true
+GUELTIG_AB: 1324
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 383-kusterdingen/010
+ENTITÄT: rathaus
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsbildprägend: true
+  merkmal: Mühlsteinbrunnen (leuchtend)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 383-kusterdingen/011
+ENTITÄT: burg
+BEZEICHNUNG: Burg Jettenburg
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Rathaus/Archiv/Burgmauer | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung_urkunde: 1452
+  besitzer_1452: Reutlinger Patrizierfamilie Becht
+  verkauf_1452: an Grafen von Württemberg
+  ursprungsnamen: Oethenbrugge, Udenbrugen
+  benannt_nach: Edelfreien und später Reutlinger Bächt
+  ortsnamensursprung: aus "Burg Jettenburg" entstand um 1450 der heutige Ortsname Jettenburg; namensgebend war eine Brücke oder ein Knüppeldamm (Brugge)
+GUELTIG_AB: 1452
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 383-kusterdingen/012
+ENTITÄT: burgturm
+BEZEICHNUNG: Burgturm Jettenburg
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Rathaus/Archiv/Burgmauer | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mauerstärke_m: 2.2-2.4
+  eingrabungstiefe_m: 2
+  außenseitenlänge_ca_m: 10
+  innenraum_m2: 25
+  fundamentmaterial: Kalksteine (wechselnde Lagen)
+  mauerwerk_material: Kalksteinquader (bis zu 1,2 m lang, 0,6 m breit, 0,35 m hoch)
+  fundmaterial_zeitraum: 10.-12. Jahrhundert
+  fundmaterial_keramik: Hochmittelalter (10.-11. Jh.), bemalte Drehscheibenware (11.-12. Jh.)
+  endet_in_brandereignis: true
+  errichtung_zeitraum: 10.-11. Jahrhundert (deutlich früher als bislang angenommen)
+  superlativ: erste steinerne Turmburg im 11. oder ausgehenden 10. Jahrhundert in der Region
+  ausgrabungen: Winterhalbjahr 2023/24
+GUELTIG_AB: 1000
+GUELTIG_BIS: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 383-kusterdingen/013
+ENTITÄT: umfassungsmauer
+BEZEICHNUNG: Umfassungsmauer Burg Jettenburg
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Rathaus/Archiv/Burgmauer | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauweise: zweischalig
+  verfolgbare_länge_m: 10
+  graben_abstand_m: 8
+  material: Kalkstein
+  ausgrabungen: Winterhalbjahr 2023/24
+  rekonstruktion: Teile wurden rekonstruiert und sind ca. 60 m vom Originalstandort entfernt an der Bushaltestelle "Brunnenplatz" zu sehen
+GUELTIG_AB: 1000
+GUELTIG_BIS: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 383-kusterdingen/014
+ENTITÄT: bach
+BEZEICHNUNG: Lumpenbach
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südlich des Ortes (streift)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/015
+ENTITÄT: bach
+BEZEICHNUNG: Segaderbach
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nördlich des Ortes (streift)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/016
+ENTITÄT: bach
+BEZEICHNUNG: Hollbach
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: durchquert den Ort von West nach Ost
+  hochwasserschutz: mehrere Hochwasserschutzmaßnahmen vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 383-kusterdingen/017
+ENTITÄT: waldgebiet
+BEZEICHNUNG: Hummelberg
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Nordosten des Ortes, am Ortsrand
+  waldtyp: Mischwaldgebiet mit altem Eichenwald
+  charakterisierung: Juwel an Fauna und Flora
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/018
+ENTITÄT: kindertagesstätte
+BEZEICHNUNG: Pfiffikus
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_zusätzlich: Mehrgenerationenhaus
+  generationengeschichte: Viele Generationen geboren, aufgewachsen, zur Schule gegangen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/019
+ENTITÄT: musikverein
+BEZEICHNUNG: Jettenburger Dorfmusikanten
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: musikbegabt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/020
+ENTITÄT: musikverein
+BEZEICHNUNG: Musicalchor "Anything Goes" des Liederkranzes Jettenburg
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: musikbegabt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/021
+ENTITÄT: kunsteinrichtung
+BEZEICHNUNG: Kunstraum Härten
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstellungstyp: zeitgenössische und historische Kunst
+  charakterisierung: verbindendes Element der Kulturszene
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/022
+ENTITÄT: theatergruppe
+BEZEICHNUNG: Mordsteam
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bekanntheit: über die Grenzen Jettenburgs hinaus
+  charakterisierung: spektakuläre Theaterarrangements (Theater, Krimi, Dinner)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/023
+ENTITÄT: dorfgemeinschaftshaus
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: leicht oberhalb des ehemaligen Burgstandortes
+  ausstattung: moderne Akustik- und Lichttechnik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/024
+ENTITÄT: feuerwehr
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Feuerwehrabteilung
+  verbund: mit anderen Härtengemeinden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/025
+ENTITÄT: pferdepension
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: Unterkunft für Pferde, Reitunterricht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 383-kusterdingen/026
+ENTITÄT: narrenzunft
+BEZEICHNUNG: Agneshexen Narrenzunft Jettenburg 2013 e.V.
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Geschichte der 1664 in Reutlingen der Hexerei angeklagten Agnes Nestlerin
+  gründung: 2013
+GUELTIG_AB: 2013
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 383-kusterdingen/027
+ENTITÄT: museum
+BEZEICHNUNG: Bauernmuseum "Im Höfle"
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  veranstaltung: "Karls-Höfle-Fest"
+  veranstaltungsrhythmus: alljährlich im August
+  ausrichter: Geschichtsverein Kusterdingen
+  bekanntheit: über die Grenzen von Jettenburg/Utinbrugge hinaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 383-kusterdingen/028
+ENTITÄT: ort
+BEZEICHNUNG: Utinbrugge
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: früherer Name von Jettenburg (um 1100, als "Burgweiler")
+  namensherkunft: von "Brugge" (Brücke oder Knüppeldamm)
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/029
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Lärmschutzwand B 28
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Unsere-Ortschaften/Jettenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: entlang der B 28
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 383-kusterdingen/030
+ENTITÄT: geschlecht
+BEZEICHNUNG: Edelfreien-Geschlecht
+ORTSTEIL_BEZUG: Jettenburg
+QUELLE: https://www.kusterdingen.de/de/Rathaus/Archiv/Burgmauer | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: ab frühem 12. Jahrhundert
+  benannt_nach: Ort Jettenburg (urspr. Oethenbrugge, Udenbrugen)
+  kontakt: im Umfeld der Pfalzgrafen von Tübingen und der Staufer
+  beschreibung: benannte sich nach dem Ort
+GUELTIG_AB: 1100
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 383-kusterdingen/031
+ENTITÄT: begrifflichkeit
+BEZEICHNUNG: Härten
+QUELLE: https://www.kusterdingen.de/de/Unsere-Gemeinde/Gemeindeportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Hochebene über dem Neckar- und dem Echaztal, vielfach als Synonym für die Gemeinde verwendet
+  bekannte_einrichtungen: Gemeindepflegehaus Härten, Härten-Sporthalle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
