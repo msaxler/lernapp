@@ -76110,6 +76110,98 @@
      }
     ]
    }
+  },
+  {
+   "slug": "417-wolfenacker",
+   "rolle": "ziel",
+   "name": "Wolfenacker",
+   "einheit": "Ortsteil von Niederbreitbach",
+   "wikidata": "Q139754136",
+   "lat": 50.52326,
+   "lon": 7.43808,
+   "gemeindeschluessel": "07138047",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Neuwied",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Niederbreitbach, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Niederbreitbach, nicht für den Stadtteil allein"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "NR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Niederbreitbach, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 270,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 271,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2806918)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 21
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "21 km nordwestlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 85
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 35.2,
+        "AfD": 18.9,
+        "SPD": 16.3,
+        "GRÜNE": 10.8,
+        "Die Linke": 5.2
+       },
+       "wahlbeteiligung_prozent": 86.9,
+       "gueltige_zweitstimmen": 1022
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Niederbreitbach, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
   }
  ]
 }
