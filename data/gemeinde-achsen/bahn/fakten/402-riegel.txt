@@ -1,0 +1,311 @@
+ID: 402-riegel/001
+ENTITÄT: ort
+BEZEICHNUNG: Riegel am Kaiserstuhl
+QUELLE: https://www.gemeinde-riegel.de/de/Leben-in-Riegel/Gemeinde/Lage,Zahlen,Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 4041
+  flaehe: 18,34 [km²]
+  hoehe: 183-245 [m ü. NN]
+  bevoelkerungsdichte: 220 [Einwohner/km²]
+  postleitzahl: 79359
+  telefon_vorwahl: 07642
+  kfz_kennzeichen: EM
+  landkreis: Emmendingen
+  bundesland: Baden-Württemberg
+  gemeindeschluessel: 08316037
+  steuer_nummer: 05082/00020
+  burgermeister: Daniel Kietz
+GUELTIG_AB: 762
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 402-riegel/002
+ENTITÄT: ort
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 762
+  benannt_nach: Testament des Bischofs Heddo von Straßburg am 12. März 762, der das Gut Riegel an das Kloster Einsiedeln in Ettenheimmünster vermachte
+  besiedlung_jungsteinzeit: 6. Jahrtausend v. Chr.
+  besiedlung_keltenzeit: ausgedehntes Dorf am Nordrand des heutigen Ortes
+  besiedlung_romerzeit: 1.-3. Jahrhundert n. Chr.
+  rolle_romerzeit: Verwaltungszentrum der Region, auch "Freiburg der Antike" genannt
+  grosse_bedeutung_in_epoche: Römerzeit
+  jubilaeumsjahr_2012: 1250-jähriges Bestehen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 402-riegel/003
+ENTITÄT: muenzschatz
+BEZEICHNUNG: Keltischer Goldmünzschatz
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 27 [Goldmünzen]
+  zeitepoche: Keltenzeit
+  superlativ: einmaliger Fund in Baden-Württemberg (bei Ausgrabungen)
+  entdeckungsart: Ausgrabung
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 402-riegel/004
+ENTITÄT: museum
+BEZEICHNUNG: Archäologisches Museum
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Roemer-in-Riegel/Archaeologisches-Museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Geschichtsverein Riegel e.V.
+  betrieb: ehrenamtliche Arbeit
+  auszeichnung: Archäologiepreis Baden-Württemberg
+  ausgraebungsfunde: ca. 300
+  glanzstueck: Modell der römischen Basilika im Maßstab 1:25
+  schwerpunkt: römische Vergangenheit Riegels mit Alltäglichem wie Tagesablauf und Mahlzeiten
+  standort: Bürgerhaus "Alte Schule", Hauptstraße 12, 79359 Riegel am Kaiserstuhl
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 402-riegel/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Pfarrkirche
+  standort: Ortskern
+  baustil: Barock
+  baumeister: Franz Rudhart (Kenzingen)
+  bauzeit: 1743-1749
+  einweihung: 1749
+  vorgaenger: romanische Kirche (abgebrochen vor 1743)
+  brand: 1936 (28. Oktober, verheerend, zerstörte Innenausstattung)
+  kriegszerstoerung: 1944
+  wiederaufbauten: 1936-1945 und unmittelbar nach Kriegsende
+  restaurierung: unter Pfarrer Siegfried Flaig, Architekt Ulrich Teichert
+  erhaltene_kunstwerke: Skulptur von Johann Michael Winterhalter am Hochaltar, Maria Immaculata von Joseph Hörr (Wentzinger-Schüler)
+  stuck: von Hans Georg Gigel
+  gemalde: von Benedikt Gambs (Deckengemälde: Geburt Christi, Pfingsten, Letztes Abendmahl; Altargemälde: Heiliger Martin bei Mantelteilung)
+  orgel: von Johann Andreas Silbermann aus Straßburg
+  klosternutzung: Katharinenkloster (Dominikanerinnenkonvent) hatte "Chörle" in der Kirche
+  patrozinium: Heiliger Martin, Fest am 11. November
+  superlativ: schönste Barockkirche des Breisgau
+GUELTIG_AB: 1743
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 402-riegel/006
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Michaelskapelle
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: gotisch, später barockisiert
+  standort: hoch über Riegel, im Bereich einer untergegangenen Burganlage
+  bedeutung: weit sichtbares Zeichen am Beginn der Breisgauer Bucht
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 402-riegel/007
+ENTITÄT: archäologischer_rundweg
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_tafeln: 13
+  tafel_typ: Text- und Bildtafeln
+  themen: Keltenzeit, Römerzeit, frühes Mittelalter
+  zentrale_punkte_romerzeit: römische Ortsgeschichte
+  freilichtanlage: Mithras Tempel
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 402-riegel/008
+ENTITÄT: basilika
+BEZEICHNUNG: Römische Marktbasilika
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Mehrzweckhalle
+  zeitepoche: römisch (ca. 2000 Jahre alt)
+  bauweise: monumental
+  modell_im_museum: ja (Glanzstück des Archäologischen Museums, Maßstab 1:25)
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 402-riegel/009
+ENTITÄT: brunnen
+BEZEICHNUNG: Brunnen am Amthof
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft: hat historisches Vorbild
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 402-riegel/010
+ENTITÄT: brunnen
+BEZEICHNUNG: Brunnenfigur Kaiser Vespasian
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Ortsmitte von Riegel
+  darstellung: Kaiser Vespasian
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 402-riegel/011
+ENTITÄT: freilichtanlage
+BEZEICHNUNG: Mithras Tempel
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitepoche: römisch
+  beschreibung: Zentrale archäologische Fundstelle
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 402-riegel/012
+ENTITÄT: dorf
+BEZEICHNUNG: Nidingen
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: verschwunden
+  zeitepoche: Mittelalter
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 402-riegel/013
+ENTITÄT: theatergruppe
+BEZEICHNUNG: KUMEDI
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: seit 199
+GUELTIG_AB: 199
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 402-riegel/014
+ENTITÄT: kanal
+BEZEICHNUNG: Leopoldskanal
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  merkmal: Obelisk neben der Schleuse
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 402-riegel/015
+ENTITÄT: statue
+BEZEICHNUNG: Heiliger Nepomuk
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Gemeindegarten
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 402-riegel/016
+ENTITÄT: haus
+BEZEICHNUNG: Stamhaus
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historische_aktivitaeten: Bierbrau
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 402-riegel/017
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Prinzessin Elisabeth
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wohnort: Schloss in Riegel
+  zeitliche_einordnung: ferne Vergangenheit
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 402-riegel/018
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anton Anreith
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung_riegel: Straßenname in Riegel
+  bekanntheitsgrad: Berühmtheit in Südafrika
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 402-riegel/019
+ENTITÄT: koenigshof
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitepoche: Mittelalter
+  beschreibung: In dessen Nähe wurde eine Kirche errichtet, die Bedeutung Riegels in dieser Zeit anzeigte
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 402-riegel/020
+ENTITÄT: kloster
+BEZEICHNUNG: Katharinenkloster
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Dominikanerinnenkonvent
+  zeitepoche: existierte in Riegel vor/während 1743
+  beteiligung_st_martin: Finanzierung des Kirchenneubaus 1743, erhielt eigenes "Chörle" in der Kirche
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 402-riegel/021
+ENTITÄT: burganlage
+QUELLE: https://www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: untergegangen
+  standort: Bereich der St. Michaelskapelle
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 402-riegel/022
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Riegel und Endingen
+QUELLE: https://www.gemeinde-riegel.de/de/Leben-in-Riegel/Gesundheit-Soziales/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrsekretariat_adresse: Andlaustraße 6, 79346 Endingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 402-riegel/023
+ENTITÄT: seelsorgeeinheit
+BEZEICHNUNG: Katholische Seelsorgeeinheit Nördlicher Kaiserstuhl
+QUELLE: https://www.gemeinde-riegel.de/de/Leben-in-Riegel/Gesundheit-Soziales/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrgemeinde: St. Martin Riegel
+  pfarrburo_adresse: Kirchstraße 5, 79359 Riegel
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

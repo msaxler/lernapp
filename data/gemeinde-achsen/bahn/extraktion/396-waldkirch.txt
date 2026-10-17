@@ -1,0 +1,512 @@
+ENTITÄT: ort
+BEZEICHNUNG: Waldkirch
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Ausgang des Elztals
+  entfernung_von_freiburg: 16 [Kilometer] nordöstlich
+  einwohner: 22000
+  ist_kreisstadt: true
+  stadteile: Buchholz, Suggental, Siensbach, Kollnau
+  verwaltung_organ: Gemeinderat mit Oberbürgermeister als Vorsitz
+  staedtepartnerschaften: 5 europäische Städte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Elztalmuseum
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinformation+und+tourismus/elztalmuseum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Kirchplatz 14
+  gebaeude: barockes Chorherrenstift
+  ausstellungsflaeche: 1700 [Quadratmeter]
+  schwerpunkte: Orgelbau, mechanische Musikinstrumente, Stadtgeschichte, Badische Revolution, Edelsteinschleifer-Handwerk
+  besonderheit_herzstock: in Waldkirch gebaute Musikautomaten, Konzert- und Jahrmarktorgeln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kollnau
+ORTSTEIL_BEZUG: Kollnau
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/kollnau.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 5400
+  einwohner_stand: Januar 2025
+  rang: größter Stadtteil Waldkirchs
+  eingemeindung: 1975
+  entstehung: aus Streusiedlungen Kohlenbach und Kollnau (Rodungsplätze)
+  geschichte_mittelalter: zur Herrschaft der Kastelburg gehörig
+  geschichte_1525: Bauernhaufen zur Verhandlung über Übergabe Stadt und Burg
+  wappen_symbol: Kastelburg (seit 1525)
+  industrie_1683: Hammerwerk gegründet
+  industrie_1869: Baumwollspinnerei und -weberei
+  firma_praegend: Gütermann
+  besondere_vereine: ca. 40 Vereine
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schwimmbad
+BEZEICHNUNG: 's Bad
+ORTSTEIL_BEZUG: Kollnau
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/kollnau.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: drei Rutschen, Spielbereiche, Liegeflächen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Kollnauer Fescht
+ORTSTEIL_BEZUG: Kollnau
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/kollnau.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frequenz: jährlich
+  dauer_tradition: über 35 Jahre
+  organisation: rotation unter örtlichen Vereinen pro Jahr
+  beschreibung: abwechslungsreiches Programm mit Musik, Unterhaltung, Aktionen, Speisen und Getränken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fasnet_brauch
+BEZEICHNUNG: Fasnet in Kollnau
+ORTSTEIL_BEZUG: Kollnau
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/kollnau.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zunfte_anzahl: 6
+  zentrale_figur: Feuerteufel
+  hoehepunkt: Schmutziger Dunnschdig mit Schulbefreiung, Gizig-Rufen, Rathaus-Schlüssel-Übergabe, Umzug zum Schulzenloch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Renate Rieder
+ORTSTEIL_BEZUG: Kollnau
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/kollnau.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Ortsvorsteherin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Buchholz
+ORTSTEIL_BEZUG: Buchholz
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/buchholz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 3000
+  einwohner_stand: Januar 2025
+  lage: zwischen Rebhängen und Obstgärten
+  charakterisierung: Florida des Elztals
+  klima: mediterran
+  eingemeindung: 1975
+  geschichte_erste_erwaehnung: 920
+  geschichte_schloss_erbauer: Franz Anton von Bayer (Freiburger Bürgermeister)
+  geschichte_schloss_baujahr: 1760
+  geschichte_schloss_style: barock
+  geschichte_waldrodung: 1833 (ca. 30 Hektar Gemeindewald)
+  geschichte_obstgarten_weinanbau: nach Waldrodung 1833
+  weinbau_aufschwung: ab Mitte 20. Jahrhundert
+  wein_spezialisierung: Burgunder (Spät-, Weiß-, Grauburgunder)
+  wein_praedikat: Weinsüden
+  partnergemeinde: Chavanay (Frankreich)
+  partnergemeinde_gruendung: 1993
+  partnergemeinde_ursprung: Musikverein 1983 zu Fanfare-de-Chavanay-Jubiläum eingeladen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Buchholz
+ORTSTEIL_BEZUG: Buchholz
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/buchholz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Franz Anton von Bayer
+  baujahr: 1760
+  stil: barock
+  status: Wahrzeichen des Stadtteils
+  besitz: Privatbesitz
+  renovierung_beginn: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Wein-Testival
+ORTSTEIL_BEZUG: Buchholz
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/buchholz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: eine Woche vor Ostern
+  beschreibung: Winzer öffnen ihre Türen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderung
+BEZEICHNUNG: Kulinarische Weinwanderung
+ORTSTEIL_BEZUG: Buchholz
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/buchholz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: 3. Oktober
+  beteiligte: drei Weingüter und Winzergenossenschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Christian Ringwald
+ORTSTEIL_BEZUG: Buchholz
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/buchholz.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Ortsvorsteher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Siensbach
+ORTSTEIL_BEZUG: Siensbach
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/siensbach.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 786
+  einwohner_stand: Januar 2025
+  eingemeindung: 1973
+  lage: Höfe entlang Talsbach bis Dobel, Nordhang Kandel
+  charakterisierung: ländlicher Charme, Natur, Erholung
+  geschichte_erste_erwaehnung: 1290
+  geschichte_holzrecht: Waldkircher Klostervögte Johann und Wilhelm von Schwarzenberg
+  geschichte_dorfrecht: 16. Jahrhundert
+  geschichte_hoefe_16jh: 23 Höfe
+  geschichte_dorf_unterscheidung: 1512 (Ober- und Unterdorf)
+  geschichte_kriege: 17.-18. Jahrhundert (französisch-habsburgische Kämpfe)
+  wappen_beschreibung: Bach zwischen zwei Tannen am Berg
+  wappen_einfuehrung: Mitte 19. Jahrhundert
+  religion_vergangenheit: lange katholisch geprägt
+  religion_evangelist_erster: 1885
+  infrastruktur_strasse_erstes_mal: 1840
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: pilgerstatte
+BEZEICHNUNG: Mariengrotte
+ORTSTEIL_BEZUG: Siensbach
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/siensbach.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Wald
+  veranstaltung: jährliche Maiandacht mit Bewirtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Christina Disch
+ORTSTEIL_BEZUG: Siensbach
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/siensbach.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Ortsvorsteherin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Suggental
+ORTSTEIL_BEZUG: Suggental
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/suggental.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 400
+  einwohner_stand: Januar 2025
+  rang: kleinster Stadtteil Waldkirchs
+  charakterisierung: idyllisch, naturnah, ohne Durchgangsverkehr
+  besonderheit_frueher: Luftkurort
+  geschichte_nutzung: Silberbergbau, später Heilbad
+  geschichte_silberbergbau_bluete: bis zu 1000 Bergleute
+  geschichte_kanal: ca. 15 Kilometer langer Kanal von St. Peter
+  geschichte_stauewerke: mehrere Stauseen für Wasserkraft
+  geschichte_katastrophe_1288: Damm brach nach Unwetter, Baracken zerstört, viele Todesfälle
+  geschichte_heilbad: spaetes Mittelalter wegen Schwefelquellen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Besucherstollen Suggental
+ORTSTEIL_BEZUG: Suggental
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/suggental.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stollen_1_name: oberer Stollen
+  stollen_1_charakterisierung: familienfreundlich, mit Kinderwagen begehbar
+  stollen_2_name: unterer Stollen
+  stollen_2_charakterisierung: eng, ab 12 Jahren, nur mit Helm zugänglich
+  stollen_2_empfehlung: alte Kleidung empfohlen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: natur_quelle
+BEZEICHNUNG: Schwefelquelle Suggental
+ORTSTEIL_BEZUG: Suggental
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/suggental.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zustand: fließt noch heute
+  historische_nutzung: Heilbad im spaeten Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Stollenfest
+ORTSTEIL_BEZUG: Suggental
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/suggental.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: Herbst
+  frequenz: jährlich
+  beschreibung: Bergwerksführungen, Musik, geselliges Miteinander, Festzelt, Kaffee- und Kuchenstube
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fasnet_figur
+BEZEICHNUNG: Schreckli
+ORTSTEIL_BEZUG: Suggental
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/suggental.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Waldgeist
+  ausstattung: Wildschweinhauer, rot-schwarzes Narrenkleid, Glocken
+  zunftabend: Januar (Gaudi-Abend)
+  hemdglunker_umzug: Schmutziger Donnerstag
+  schnurren: Fasnet-Samstag (besucht Menschen zu Hause)
+  kinderfasnet: Fasnet-Dienstag
+  rueckkehr: nach närrischer Zeit in den Wald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Winfried Drayer
+ORTSTEIL_BEZUG: Suggental
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/suggental.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Ortsvorsteher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Michael Schmieder
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/haushalt.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Oberbürgermeister
+  wahl_jahr: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verwaltungssystem
+BEZEICHNUNG: Neues kommunales Haushalts- und Rechnungswesen (NKHR)
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/haushalt.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ziel: mehr Kostentransparenz, nachhaltige Steuerung kommunaler Ressourcen
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: leitbild
+BEZEICHNUNG: Waldkirch 2020
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/leitbild.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  slogan: zukunftsorientierte Stadt – lebens- und liebenswert für alle
+  entwicklung_jahr: 2014
+  kernprinzip: Nachhaltigkeit (sozial, ökologisch, ökonomisch gleichrangig)
+  tradition: Orgelbau- und Musikstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Waldkirch
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/friedhoefe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Rosenweg 12
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Kollnau
+ORTSTEIL_BEZUG: Kollnau
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/friedhoefe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kohlenbacher Talstraße 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Buchholz
+ORTSTEIL_BEZUG: Buchholz
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/friedhoefe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bannweid 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Suggental
+ORTSTEIL_BEZUG: Suggental
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/friedhoefe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Talstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Manuela Winterhalter
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/friedhoefe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Friedhofsverwaltung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hubert Gehring
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/friedhoefe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Friedhofsverwalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: eigenbetrieb
+BEZEICHNUNG: Abwasserbeseitigung
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/eigenbetriebe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgabe: ordnungsgemäße Abwasserableitung, Umweltschutz
+  funktionen: Planung, Bau, Wartung und Instandhaltung öffentliches Kanalnetz
+  kanalnetz_art: Trenn- und Mischsystem
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Tobias Brenzinger
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/eigenbetriebe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Betriebsleiter Abwasserbeseitigung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: eigenbetrieb
+BEZEICHNUNG: Technische Betriebe
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/eigenbetriebe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb_jahreszeit: rund ums Jahr
+  aufgaben: Straßenräumung (Winter), Grünanlagenpflege (Sommer), Schilderaufstellung, Spielplatzwartung, Straßenunterhalt, Friedhofsunterhalt, öffentliche Mülleimer, Verkehrssicherung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Sascha Henrich
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/eigenbetriebe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Betriebsleiter Technische Betriebe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: eigenbetrieb
+BEZEICHNUNG: Wasserwerke
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/eigenbetriebe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgabe: Wasserversorgung Bevölkerung und gewerbliche Unternehmen
+  betriebsfuehrung: Stadtwerke Waldkirch GmbH
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jochen Fischer
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/eigenbetriebe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Betriebsleiter Wasserwerke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: eigenbetrieb
+BEZEICHNUNG: Wohnungswirtschaft
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/eigenbetriebe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgabe: Verwaltung städtischer und angemieteter Wohn- und Gewerbeeinheiten, Garagenverwaltung
+  flaeche_verwaltet: 44000 [Quadratmeter]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Tino Störk
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/eigenbetriebe.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Betriebsleiter Wohnungswirtschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Monika Heizmann
+QUELLE: https://www.stadt-waldkirch.de/start/stadtinfo+und+politik/wahlen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Ansprechperson Wahlen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

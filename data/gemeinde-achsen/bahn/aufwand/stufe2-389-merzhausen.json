@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "389-merzhausen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 10108,
+ "token_ein": 226583,
+ "token_aus": 5755,
+ "usage": {
+  "input_tokens": 16,
+  "cache_creation_input_tokens": 25816,
+  "cache_read_input_tokens": 200751,
+  "output_tokens": 5755,
+  "output_tokens_details": {
+   "thinking_tokens": 2620
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 25816,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3734,
+    "cache_read_input_tokens": 31824,
+    "cache_creation_input_tokens": 894,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 894
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.5759492,
+ "sekunden": 97,
+ "fehler": false,
+ "zeit": "2026-10-17T11:05:52"
+}

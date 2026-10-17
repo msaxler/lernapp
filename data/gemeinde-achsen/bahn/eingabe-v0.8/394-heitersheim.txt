@@ -1,0 +1,653 @@
+ZIELORT: Heitersheim (Stadt)
+LAGE: 20 km südwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Heitersheim
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 6598  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 11,71  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 563  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 254 | 236 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2907068)]
+  naechste_grossstadt: Freiburg im Breisgau, 20 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 151 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Heitersheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79423  [Wikidata P281]
+  vorwahl: 07634  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,3 %, SPD 16,2 %, GRÜNE 15,7 %, AfD 14,8 %, Die Linke 6,7 %, FDP 5,6 %; Wahlbeteiligung 84,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Christoph Zachow [https://www.heitersheim.de/lokalpolitik/buergermeister/ Porträt des Bürgermeisters Christoph Zachow] auf heitersheim.de, abgerufen am 21. März 2020. — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-17]
+  partnerstaedte: Vandans  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Bad Krozingen (Stadt)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 21.620  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 35,69  [Wikidata P2046; Altbestand staedte.json]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 233 | 230 | 224  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2819974); Altbestand geo.sqlite (GeoNames 2953414)]
+  naechste_grossstadt: Freiburg im Breisgau, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Bad Krozingen, Haltepunkt Bad Krozingen Ost, Haltepunkt Oberkrozingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,7 %, AfD 16,8 %, GRÜNE 16 %, SPD 15,2 %, Die Linke 6,1 %, FDP 5,4 %; Wahlbeteiligung 82,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Ebnet, Littenweiler, Merzhausen, Au, Ebringen, Schallstadt, Bad Krozingen, Heitersheim, Müllheim, Waldkirch, Hochdorf, March, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen
+
+FAKTEN (Zielort Heitersheim):
+ID: 394-heitersheim/001
+ENTITÄT: ort
+DESIGNATON: Heitersheim
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beiname: Malteserstadt
+  beschreibung: einer der ältesten Weinorte im sonnigen Markgräflerland
+  lage: Vorbergzone des Südschwarzwaldes, eingebettet zwischen Reben und Äckern
+  einwohner: 6500
+  einwohner_nationalitaeten: 50 verschiedene
+  arbeitsplaetze: 2500, genauigkeit: "ca."
+  ortsteile: Gallenweiler
+  besiedlung_bronzezeit: true, form: Grabfunde
+  erste_urkundliche_erwaehnung: 777
+  erste_erwaehnung_quelle: Urkundensammlung des Reichsklosters Lorsch
+  weingueter_anzahl: 10
+  winzergenossenschaften: 1
+  besonderheit_infrastruktur: Schulzentrum, mehrere Kindergärten, Schwimmbad, Bücherei, Mehrzweckhalle, Spielplätze, Vereins- und Jugendhaus
+  infrastruktur_elektrizitaet_seit: 1904
+  infrastruktur_wasserversorgung_seit: 1910
+  kriegsverluste_weltkrieg_1: 30
+  kriegsverluste_weltkrieg_2_gefallene: 78
+  kriegsverluste_weltkrieg_2_vermisste: 34
+  kriegsverluste_weltkrieg_2_beendigung: 22. April 1945 durch französische Truppen
+GUELTIG_AB: 777
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 394-heitersheim/002
+ENTITÄT: ort
+DESIGNATON: Heitersheim
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_frueh: Fürstentum
+  status_frueh_grund: Kaiser Karl V. erhob Großprior Georg Schilling von Cannstatt zum Reichsfürsten
+  status_frueh_jahr: 1548
+  herrschaft: Johanniter- und Malteserorden
+  status_baden: Großherzogtum Baden
+  status_baden_seit: 1806
+  stadtrecht_verleihung: 1810
+  stadtrecht_verleihung_durch: Großherzog Karl Friedrich
+  stadtrecht_entzug: 1935, grund: Neuregelung nur noch für Städte mit über 10.000 Einwohnern
+  stadtrecht_wiederverleihung: 1952
+  stadtrecht_wiederverleihung_durch: badischer Ministerpräsident Leo Wohleb
+GUELTIG_AB: 1548
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 394-heitersheim/003
+ENTITÄT: ortsteil
+DESIGNATON: Gallenweiler
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1971
+  dorfplatz_neuanlage: 2022
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 394-heitersheim/004
+ENTITÄT: schloss
+DESIGNATON: Malteserschloss
+QUELLE: https://www.heitersheim.de/adresse/Malteserschloss-address789 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Johanniterstraße 81, 79423 Heitersheim
+  denkmalschutz: true
+  ursprung: 8. Jahrhundert, Teil des Klosters Murbach
+  besitzer_johanniterorden_seit: 1276, durch: Markgraf Heinrich von Hachberg
+  kommende_neue_seit: 1335
+  grosspriorat_deutschland_seit: 1428
+  reformbau_zu_wasserburg: 1512-1546, durch: Johann von Hattstein
+  erstes_bewohnen_als_schloss: 1505, durch: Großprior Johann Hegenzen von Wasserstelz
+  reichsfuerstentum_seit: 1548, grund: Erhebung Großprior Georg Schilling von Cannstatt durch Kaiser Karl V.
+  superlativ: eines der schönsten Schlösser im Markgräflerland
+  hauptsitz_malteser: 16. Jahrhundert, dauer: über 300 Jahre
+  architektur_kernburg: ovale, festgeschlossene Anlage
+  architektur_vorburg: unregelmäßiges Vieleck
+  architektur_gebaeude: Ritterhaus, Diener- und Gästehäuser, Zehntscheuern, Verwaltungs- und Bruderhäuser
+  architektur_charakter: wohl bedeutendste Tiefburg im südwestdeutschen Raum
+  besitzer_schwestern_seit: 1897, orden: Orden der Barmherzigen Schwestern vom heiligen Vinzenz von Paul
+  besitzer_schwestern_bis: 2022
+  nutzung_schwestern_zeit: Werkstätte für körperlich und geistig behinderte Menschen, Sonderschule für behinderte Kinder
+  besitzer_stadt_seit: 2023
+  erbpacht_investor: 2024, gebaeude: 11 von 13
+  erbpacht_konzept: Pflege, betreutes Wohnen, Kinderbetreuung, Flüchtlingsunterkunft, Gastronomie, Tourismus, Kultur, Wohnraum
+GUELTIG_AB: 8
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 394-heitersheim/005
+ENTITÄT: kirche
+DESIGNATON: Pfarrkirche St. Leodegar
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1100
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/006
+ENTITÄT: kirche
+DESIGNATON: Pfarrkirche St. Bartholomäus
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_original: 1527
+  stil_original: gotisch
+  neubau: 1826-1827
+  stil_neubau: Weinbrennerstil
+  bedeutung: pragt das Heitersheimer Stadtbild
+GUELTIG_AB: 1527
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 394-heitersheim/007
+ENTITÄT: kirche
+DESIGNATON: Schlosskirche St. Borromäus
+QUELLE: https://www.heitersheim.de/adresse/Malteserschloss-address789 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1900-1910
+  lage: Baulücke des Nordflügels des Malteserschlosses
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/008
+ENTITÄT: kirche
+DESIGNATON: Evangelische Kirche Heitersheim
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_kirche_eroeffnung: 1951
+  neue_kirche_bau: 1972
+  gemeindezentrum_fertigstellung: 2020
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 394-heitersheim/009
+ENTITÄT: kloster
+DESIGNATON: Franziskanerkloster
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1619
+  gruender: Fürst Johann Friedrich Hund von Saulheim
+  seelsorge_uebernahme_durch: Franziskaner
+  spitalkirche_st_nikolaus_weihe: 1619
+  aufhebung: 1807
+  nutzung_nach_aufhebung: Pfarrhaus
+  kirche_abbruch: 1812
+GUELTIG_AB: 1619
+GUELTIG_BIS: 1807
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 394-heitersheim/010
+ENTITÄT: hospital
+DESIGNATON: Leprosenhaus und Spital
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1227, bezeichnung: Domus leprosum
+  erste_spital_errichtung: 1547, zweck: Leprosen- und Armenhaus
+  zweite_spital_errichtung: 1892, lage: Eisenbahnstraße (heute Stühlinger), zweck: Spital für Arme und Kranke später Krankenhaus
+  umwandlung: 1984, zu: Altenpflegeheim
+GUELTIG_AB: 1227
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/011
+ENTITÄT: markt
+DESIGNATON: Bartholomäus-Markt (Chilbi)
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  marktrecht_verleihung: 1466
+  verleihung_durch: Kaiser Friedrich III.
+  markttermin: Montag nach dem 24. August (Bartholomäus)
+  haeufigkeit: jaehrlich
+  bestand: heute noch abgehalten
+GUELTIG_AB: 1466
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 394-heitersheim/012
+ENTITÄT: markt
+DESIGNATON: Nikolaus-Markt (Klausdig)
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  marktrecht_verleihung: 1481
+  verleihung_durch: Kaiser Friedrich III.
+  markttermin: erster Montag im Dezember (St. Nikolaus)
+  haeufigkeit: jaehrlich
+  bestand: heute noch abgehalten
+GUELTIG_AB: 1481
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 394-heitersheim/013
+ENTITÄT: markt
+DESIGNATON: Pferde-, Vieh- und Schweinemärkte
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  marktrecht_verleihung: 1853
+  haeufigkeit: halbmonatlich
+GUELTIG_AB: 1853
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 394-heitersheim/014
+ENTITÄT: persoenlichkeit
+DESIGNATON: Bernhard von Clairvaux
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Gründer des Zisterzienserordens
+  ereignis_heitersheim: 1146 predigt in Heitersheim
+  anlass_predigt: Werben für den zweiten Kreuzzug
+GUELTIG_AB: 1146
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 394-heitersheim/015
+ENTITÄT: persoenlichkeit
+DESIGNATON: Gottfried von Staufen
+QUELLE: https://www.heitersheim.de/adresse/Malteserschloss-address789 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: 1272, schenkt dem Johanniterorden Hof und Kirche
+GUELTIG_AB: 1272
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/016
+ENTITÄT: persoenlichkeit
+DESIGNATON: Georg Schilling von Cannstatt
+QUELLE: https://www.heitersheim.de/adresse/Malteserschloss-address789 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Großprior
+  ehrung: 1548 von Kaiser Karl V. zum Reichsfürsten erhoben
+  ehrung_ort: Reichstag in Augsburg
+  grund_ehrung: Mut und Tapferkeit
+  folge: Heitersheim wird Fürstentum
+GUELTIG_AB: 1548
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 394-heitersheim/017
+ENTITÄT: persoenlichkeit
+DESIGNATON: Johann Hegenzen von Wasserstelz
+QUELLE: https://www.heitersheim.de/adresse/Malteserschloss-address789 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: erster Großprior
+  aktion: 1505 bezieht Fronhof, baut ihn in den Folgejahren zum wehrhaften Schloss um
+GUELTIG_AB: 1505
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/018
+ENTITÄT: persoenlichkeit
+DESIGNATON: Johann Friedrich Hund von Saulheim
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Fürst
+  aktion_1: 1619 gründet Franziskanerkloster
+  aktion_2: überträgt den Franziskanern die Seelsorge
+GUELTIG_AB: 1619
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/019
+ENTITÄT: persoenlichkeit
+DESIGNATON: Friedrich, Landgraf von Hessen
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Fürst und Großprior
+  aktion_1: 1647-1682 baut Hof Weinstetten zum Sommersitz aus
+  aktion_2: 1647-1682 errichtet die Herrenmühle
+GUELTIG_AB: 1647
+GUELTIG_BIS: 1682
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/020
+ENTITÄT: persoenlichkeit
+DESIGNATON: Otto von Merfeldt
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Fürst und Großprior
+  aktion: 1721-1727 errichtet das Malteserbad
+GUELTIG_AB: 1721
+GUELTIG_BIS: 1727
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/021
+ENTITÄT: persoenlichkeit
+DESIGNATON: Philipp Wilhelm von Nesselrode und Reichenstein
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Fürst und Großprior
+  aktion_1: 1727-1754 gestaltet das Heitersheimer Schloss baulich aus
+  aktion_2: 1727-1754 errichtet Kanzleigebäude und Fruchtscheune in der Vorburg
+  aktion_3: 1727-1754 errichtet Kanzlerwohnhaus und Herrenmühle außerhalb der Schlossanlage
+GUELTIG_AB: 1727
+GUELTIG_BIS: 1754
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/022
+ENTITÄT: persoenlichkeit
+DESIGNATON: Otto Braasch
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Luftbildarchäologe des Landesdenkmalamts
+  aktion: 1989 Luftaufnahmen der Villa urbana, veranlassen die archäologische Erforschung der römischen Villa urbana durch die Universität Freiburg
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/023
+ENTITÄT: roemischer_landsitz
+DESIGNATON: Villa urbana
+QUELLE: https://www.heitersheim.de/Freizeit-Tourismus/museen/Villa-urbana-address406 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Johanniterstraße 89, 79423 Heitersheim
+  beschreibung: herrschaftlicher Landsitz eines Gutsherrn
+  gruendung: ca. 30, genauigkeit: ca.
+  auflassung: ca. 275, genauigkeit: ca.
+  bauausbeutung: ca. 760, genauigkeit: vermutlich, vermuteter_zweck: Bau des Klosters Lorsch
+  museum_eroeffnung: 2001
+  museum_funde: 18 Meter langes Zierwasserbecken mit Brunnenfigur, Mosaikboden, antikes Fensterglas, Gegenstände des alltäglichen Gebrauchs
+  aussage_bedeutung: umfassender Einblick in das Landleben der römischen Oberschicht
+GUELTIG_AB: 30
+GUELTIG_BIS: 275
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 394-heitersheim/024
+ENTITÄT: bahnhof
+DESIGNATON: Bahnhof Heitersheim
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1847
+  eisenbahnlinie: Freiburg - Basel
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/025
+ENTITÄT: schule
+DESIGNATON: Malteserschule
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1971
+  ursprüngliche_bezeichnung: Sonderschule für geistig behinderte Kinder und Jugendliche
+  lage_original: Haus Bethania des Malteserschlosses
+  traeger: Landkreis Müllheim und Staatliches Schulamt Lörrach
+  umzug: 2014, neuer_ort: Johanniter-Schulzentrum neben der Malteserhalle
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 394-heitersheim/026
+ENTITÄT: schule
+DESIGNATON: Johanniterschule
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1977
+  ursprünglicher_schwerpunkt: Grund- und Hauptschule
+  erweiterung: 1977, um: eigenständige Realschule
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/027
+ENTITÄT: gebaeude
+DESIGNATON: Vereins- und Jugendhaus
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2016
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/028
+ENTITÄT: halle
+DESIGNATON: Malteserhalle
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2009
+  grund: Neubau nach Abriss der alten Turn- und Festhalle
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/029
+ENTITÄT: museum
+DESIGNATON: Johanniter-Malteser-Museum
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1985
+  lage: Malteserschloss
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/030
+ENTITÄT: museum
+DESIGNATON: Römermuseum Villa urbana
+QUELLE: https://www.heitersheim.de/Freizeit-Tourismus/museen/Villa-urbana-address406 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2001
+  lage: Johanniterstraße 89, 79423 Heitersheim
+  beschreibung: moderner Bau am Standort des ehemals römischen Wohnhauses
+  ausstellungen: 18 Meter langes Zierwasserbecken mit Brunnenfigur, Mosaikboden, antikes Fensterglas, Gegenstände des alltäglichen Gebrauchs
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 394-heitersheim/031
+ENTITÄT: kunstwerk
+DESIGNATON: Kreuzblume vom Freiburger Münster
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerb: 2021, form: Dauerleihgabe
+  lage: Heitersheimer Künstlerpark
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/032
+ENTITÄT: historisches_ereignis
+DESIGNATON: Brand von Heitersheim 1638
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Heitersheim wird während des dreißigjährigen Krieges durch einen Brand vernichtet
+  schloss_schicksal: bleibt fast verschont
+  vermutung: Historiker schließen eine Abmachung zwischen dem Fürsten und den Kaiserlichen nicht aus
+  genauigkeit_vermutung: vermutlich
+GUELTIG_AB: 1638
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 394-heitersheim/033
+ENTITÄT: fabrik
+DESIGNATON: Seifensiederei und Seifenfabrik Hirtler
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  uebernahme: 1887
+  uebernahme_durch: Ernst Hirtler aus Endingen
+  uebernahme_von: Franz Josef Walz
+  verwaltungsgebaeude_umnutzung: 1981, zu: Neues Rathaus
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 394-heitersheim/034
+ENTITÄT: bergwerk
+DESIGNATON: Kaliwerk Buggingen
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abbau_beginn: 1961, grund: nach dem Bau eines Schachtes
+  abbaugebiet: Heitersheimer Gemarkung
+  betriebsbeendigung: 1973
+GUELTIG_AB: 1961
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/035
+ENTITÄT: rathaus
+DESIGNATON: Altes Rathaus Heitersheim
+QUELLE: https://www.heitersheim.de/Freizeit-Tourismus/Sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umwandlung: 1844-1847, aus: ehemaliges Wohnhaus in der Unterstadt
+  umbau: 1902, zu: heutiger Form als Altes Rathaus
+  bedeutung: pragt das Heitersheimer Stadtbild
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/036
+ENTITÄT: ziegelei
+DESIGNATON: Ziegelei Müller
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebsbeginn: 1860
+  lage: Lehenbühl
+  produktion: Backsteine
+GUELTIG_AB: 1860
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 394-heitersheim/037
+ENTITÄT: gesellschaft
+DESIGNATON: Schloss-Heitersheim GmbH
+QUELLE: https://www.heitersheim.de/adresse/Malteserschloss-address789 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbpacht: 2024
+  erbpacht_von: Stadt Heitersheim
+  gebaeude_erbpacht: 11 von 13 Gebäuden
+  konzept_nutzung: Pflege, betreutes Wohnen, Kinderbetreuung, Flüchtlingsunterkunft, Gastronomie, Tourismus, Kultur, Wohnraum
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 394-heitersheim/038
+ENTITÄT: kindertagesstaette
+DESIGNATON: Kindertagesstätte Sternschnuppe
+QUELLE: https://www.heitersheim.de/mitteilung/Offizielle-Einweihung-der-Kindertagesstaette-Sternschnuppe-im-Malteserschloss-article3967 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebsbeginn: Januar 2026
+  offizielle_eroeffnung: 9. Mai 2026
+  lage: Malteserschloss
+  traeger: Flexible Kinderbetreuung Staufen gGmbH
+  segnung_durch: Pfarrer Martin Patz
+  umbauzeit: ca. 1,5 Jahre
+  auszeichnung: BeKi – Bewusste Kinderernährung (Land Baden-Württemberg), verliehen: 2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 394-heitersheim/039
+ENTITÄT: behindertenwerkstaette
+DESIGNATON: Behindertenwerkstätte
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1967
+  gruender: Caritasverband des Landkreises Müllheim
+  lage_original: Teile der Schlossanlage
+  umzug_neuer_standort: neben Malteserhalle
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/040
+ENTITÄT: cafe
+DESIGNATON: Café artis
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2011
+  projektname: Villa artis / Café artis
+  konzept: Team von Menschen mit und ohne Behinderung
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 394-heitersheim/041
+ENTITÄT: wohneinrichtung
+DESIGNATON: Häuser Antonius und Ulrika
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: betreutes Wohnen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 394-heitersheim/042
+ENTITÄT: verein
+DESIGNATON: Turnverein Heitersheim
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jubilaesum: 100 Jahre
+  jubilaesum_jahr: 2021
+  feierlichkeiten_verlegung: Oktober 2022, grund: pandemiebedingt
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 394-heitersheim/043
+ENTITÄT: verein
+DESIGNATON: Freiwillige Feuerwehr Heitersheim
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jubilaesum: 100 Jahre
+  jubilaesum_jahr: 2019
+  festakt: true
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 394-heitersheim/044
+ENTITÄT: leibeigenschaft
+DESIGNATON: Abolition der Leibeigenschaft
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufhebung: 1771
+  folge: Malteser müssen Schupflehen in Erbpacht umwandeln
+GUELTIG_AB: 1771
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 394-heitersheim/045
+ENTITÄT: herren_von_staufen
+DESIGNATON: Herren von Staufen
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1112
+  status: Lehensleute des Klosters Murbach (Elsass)
+GUELTIG_AB: 1112
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 394-heitersheim/046
+ENTITÄT: herren_von_heitersheim
+DESIGNATON: Herren von Heitersheim
+QUELLE: https://www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1112
+  status: Lehensleute des Klosters Murbach (Elsass)
+GUELTIG_AB: 1112
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+

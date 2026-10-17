@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "401-bahlingen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 11377,
+ "token_ein": 229050,
+ "token_aus": 6305,
+ "usage": {
+  "input_tokens": 14,
+  "cache_creation_input_tokens": 33443,
+  "cache_read_input_tokens": 195593,
+  "output_tokens": 6305,
+  "output_tokens_details": {
+   "thinking_tokens": 2385
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 33443,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 2770,
+    "cache_read_input_tokens": 39105,
+    "cache_creation_input_tokens": 1240,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1240
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7807396,
+ "sekunden": 98,
+ "fehler": false,
+ "zeit": "2026-10-17T11:29:13"
+}

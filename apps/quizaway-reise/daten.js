@@ -5075,6 +5075,2908 @@ window.QA_DATEN = {
 "name": "Freiburg–Neuwied und Umgebung (Bahn und Auto)",
 "orte": [
 {
+"slug": "387-ebnet",
+"name": "Ebnet",
+"lat": 47.98639,
+"lon": 7.90472,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebnet",
+"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
+"frage": "In der Ebneter Pfarrkirche St. Hilarius heiratete 1756 ein Paar mit Verbindung zu einem berühmten Komponisten. Wer war es?",
+"optionen": [
+"Es waren die Eltern Wolfgang Amadeus Mozarts.",
+"Es waren Mozarts spätere Schwiegereltern.",
+"Es waren die Eltern Joseph Haydns.",
+"Es waren die Großeltern Ludwig van Beethovens."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mozarts Eltern liegen nahe, denn Mozart kam im selben Jahr zur Welt. Doch in Ebnet heirateten am 14. September 1756 Fridolin Weber und Cäcilia Stamm, die Eltern von Mozarts späterer Frau Constanze. Richtig war 2.",
+"quelle": "Weber-Gesamtausgabe, weber-gesamtausgabe.de/de/A008362.html",
+"faktencheck": "korrigiert",
+"id": "387-ebnet/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ebnet",
+"steckbrief": "Freiburger Stadtteil 4 km östlich der Stadtmitte, Gemarkung knapp 7 km².",
+"frage": "Wie viele Einwohner hat Ebnet?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.500",
+"2.500 bis unter 5.000",
+"5.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil am Stadtrand wirkt schnell wie ein kleines Dorf. Ebnet zählte 2024 aber 3.010 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2024",
+"faktencheck": "bestätigt",
+"id": "387-ebnet/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ebnet",
+"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Ebneter Wasserwerk versorgt nur den Stadtteil selbst.",
+"Benedikt Gambs malte Deckenbilder im Ebneter Schloss.",
+"Früher führte eine Bundesstraße durch das Dorf."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein eigenes Wasserwerk klingt nach einem Dorf, das sich selbst versorgt. Doch das Wasserwerk Freiburg-Ebnet versorgt mit seinen Brunnen die Stadt Freiburg mit Trinkwasser. Benedikt Gambs malte tatsächlich Deckenbilder im Schloss, und früher führte die Bundesstraße durch Ebnet. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "387-ebnet/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Ebnet",
+"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Welche Partei wurde in Ebnet zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"GRÜNE",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Grünen liegen nahe, denn Freiburg gilt als grüne Hochburg. Sie wurden in Ebnet mit 35,3 Prozent auch stärkste Kraft. Zweitstärkste Partei war die CDU mit 23,6 Prozent, vor SPD und Linke. Richtig war 1.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "387-ebnet/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebnet",
+"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
+"frage": "Kasimir Anton von Sickingen, geboren in Ebnet, wurde Fürstbischof von Konstanz. Was von ihm wurde in der Ebneter Kirche beigesetzt?",
+"optionen": [
+"Seine rechte Hand wurde dort beigesetzt.",
+"Sein Herz wurde dort beigesetzt.",
+"Sein Schädel wurde dort beigesetzt.",
+"Sein ganzer Leichnam wurde dort beigesetzt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist, dass der Fürstbischof ganz in seinem Geburtsort ruht. Doch in der Ebneter Kirche wurde sein Herz beigesetzt. Solche getrennten Herzbestattungen waren bei Adligen und hohen Geistlichen verbreitet. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "387-ebnet/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ebnet",
+"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
+"frage": "In welchem Zeitraum wurde Ebnet nach Freiburg im Breisgau eingemeindet?",
+"optionen": [
+"vor 1930",
+"1930 bis 1959",
+"1960 bis 1979",
+"1980 oder später"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. So nah an der Freiburger Stadtmitte vermutet man eine frühe Eingemeindung. Doch Ebnet blieb lange eine eigene Gemeinde und kam erst am 1. Juli 1974 zu Freiburg. Richtig war 3.",
+"quelle": "dewiki Infobox, Ebnet (Freiburg im Breisgau)",
+"faktencheck": "bestätigt",
+"id": "387-ebnet/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebnet",
+"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
+"frage": "Wozu dient das Ziegenprojekt der Arbeitsgemeinschaft Ebneter Ortsbild am Galgenberg?",
+"optionen": [
+"Die Ziegenmilch soll zu Dorfkäse werden.",
+"Es hält eine alte Hirtentradition lebendig.",
+"Es erinnert an eine Sage vom Berg.",
+"Es hält die Aussicht vom Berg frei."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Galgenberg lässt an Sagen und alte Bräuche denken. Doch das Ziegenprojekt hat einen praktischen Zweck: Es dient dazu, die Aussicht vom Galgenberg ins Dreisamtal freizuhalten. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau)",
+"faktencheck": "bestätigt",
+"id": "387-ebnet/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebnet",
+"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
+"frage": "Ebnet ist erstmals 1113 schriftlich belegt. In welchen Schriftstücken taucht der Ort zuerst auf?",
+"optionen": [
+"Ebnet erscheint in Urkunden des Klosters St. Peter.",
+"Ebnet erscheint in einer Urkunde Kaiser Heinrichs V.",
+"Ebnet erscheint im Zinsbuch des Bistums Konstanz.",
+"Ebnet erscheint in einer Chronik des Klosters Reichenau."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Kaiserurkunde liegt nahe, denn viele Orte tauchen erstmals in Herrscherurkunden auf. Ebnet aber erscheint im Urkunden- und Güterbuch des Klosters St. Peter, direkt nach der Notiz über die Kirchweihe von 1113. Der Eintrag selbst trägt kein Datum. Richtig war 1.",
+"quelle": "Th. Zotz, 900 Jahre Ebnet, regionalia.blb-karlsruhe.de/files/475/BLB_Zotz_900_Jahre_Ebnet.pdf",
+"faktencheck": "korrigiert",
+"id": "387-ebnet/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": null,
+"anschluss": [],
+"anschluesse": {
+"388-littenweiler": [
+"Littenweiler hat fast dreimal so viele Einwohner wie Ebnet."
+],
+"389-merzhausen": [
+"Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Merzhausen hat fast doppelt so viele Einwohner wie Ebnet."
+],
+"390-au-breisgau": [
+"Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Ebnet hat doppelt so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Ebringen lag die CDU vorn, in Ebnet die Grünen."
+],
+"392-schallstadt": [
+"Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Schallstadt lag die CDU vorn, in Ebnet die Grünen."
+],
+"393-bad-krozingen": [
+"Kreisgrenze: Bad Krozingen gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Bad Krozingen lag die CDU vorn, in Ebnet die Grünen."
+],
+"396-waldkirch": [
+"Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Waldkirch lag die CDU vorn, in Ebnet die Grünen."
+],
+"397-hochdorf-freiburg": [
+"Bundestagswahl 2025: In Hochdorf lag die CDU vorn, in Ebnet die Grünen.",
+"Hochdorf hat fast doppelt so viele Einwohner wie Ebnet."
+],
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In March lag die CDU vorn, in Ebnet die Grünen."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Gottenheim lag die CDU vorn, in Ebnet die Grünen."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Bötzingen lag die CDU vorn, in Ebnet die Grünen."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Eichstetten lag die CDU vorn, in Ebnet die Grünen."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Vörstetten lag die CDU vorn, in Ebnet die Grünen."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Reute lag die CDU vorn, in Ebnet die Grünen."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Teningen lag die CDU vorn, in Ebnet die Grünen."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Bahlingen lag die CDU vorn, in Ebnet die Grünen."
+],
+"71-stegen": [
+"Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Stegen lag die CDU vorn, in Ebnet die Grünen."
+],
+"72-oberried": [
+"Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Oberried lag die CDU vorn, in Ebnet die Grünen."
+],
+"73-buchenbach": [
+"Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Buchenbach lag die CDU vorn, in Ebnet die Grünen."
+],
+"74-hinterzarten": [
+"Kreisgrenze: Hinterzarten gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Hinterzarten lag die CDU vorn, in Ebnet die Grünen."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Emmendingen lag die CDU vorn, in Ebnet die Grünen."
+]
+},
+"ags": "08311000",
+"ortsteil": true
+},
+{
+"slug": "388-littenweiler",
+"name": "Littenweiler",
+"lat": 47.97944,
+"lon": 7.89667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Littenweiler",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Littenweilers Ortswappen zeigt ein weißes Tatzenkreuz auf Rot, in jedem Feld eine silberne Kugel. Woher stammt dieses Bild?",
+"optionen": [
+"Es vereint die Zeichen zweier früherer Ortsherren.",
+"Die Kugeln stehen für Silbererz aus dem Bergbau.",
+"Das Kreuz erinnert an eine Pestkapelle im Dorf.",
+"Es zeigt das Zeichen einer alten Pilgerstraße."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kreuz und Kugeln wirken wie Zeichen von Kirche oder Bergbau. Doch das Wappen kombiniert die Zeichen der beiden langjährigen Ortsherren: Das Tatzenkreuz, ein Kreuz mit breiten Enden, steht für den Deutschen Orden, die Silberkugeln stehen für die Grafen von Sickingen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
+"faktencheck": "unsicher",
+"id": "388-littenweiler/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Littenweiler",
+"steckbrief": "Freiburger Stadtteil mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Littenweiler?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 6 km²",
+"6 bis unter 10 km²",
+"10 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil am Rand Freiburgs, da vermutet man viel Feld und Wald. Doch Littenweiler misst nur 4,13 Quadratkilometer und ist dicht bewohnt. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "388-littenweiler/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Littenweiler",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Teil des Friedhofs Bergäcker wurde zum Tierfriedhof abgeteilt.",
+"Die Bundesstraße in den Schwarzwald führt oberirdisch durch den Ortskern.",
+"Der SC Freiburg spielte früher im nahen Dreisamstadion an der Schwarzwaldstraße."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Tierfriedhof klingt ungewöhnlicher als eine Bundesstraße durchs Dorf. Doch gerade die Straße ist gelogen: Die B 31 Ost verläuft größtenteils im Kappler Tunnel unter Littenweiler hindurch, was den Verkehr im Stadtteil verringert. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
+"faktencheck": "unsicher",
+"id": "388-littenweiler/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Littenweiler",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Wie hoch war die Wahlbeteiligung in Littenweiler bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 85 %",
+"85 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Freiburger Stadtteil mit Hochschule und Studentenwohnheimen, da tippt man eher auf mittlere Werte. Doch bei der Bundestagswahl 2025 gaben in Littenweiler 89,8 Prozent ihre Stimme ab. Richtig war 4.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "388-littenweiler/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Littenweiler",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Vermutlich wegen der Bergleute im Ort bekam Littenweilers alte Pfarrkirche ihre Schutzheilige. Welche war es?",
+"optionen": [
+"Die Kirche war der heiligen Barbara geweiht.",
+"Die Kirche war der heiligen Katharina geweiht.",
+"Die Kirche war der heiligen Ursula geweiht.",
+"Die Kirche war der heiligen Margareta geweiht."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Katharina und Margareta sind ebenso beliebte Kirchenpatroninnen. Doch Barbara gilt als Patronin der Bergleute. Die Kirche erhielt sie vermutlich, weil Bergleute aus Littenweiler und Kappel in den Stollen des Schauinslands arbeiteten. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
+"faktencheck": "unsicher",
+"id": "388-littenweiler/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Littenweiler",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "In welchem Zeitraum wurde Littenweiler nach Freiburg eingemeindet?",
+"optionen": [
+"vor 1900",
+"1900 bis 1919",
+"1920 bis 1949",
+"1950 oder später"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an die großen Gemeindereformen der Nachkriegszeit denkt, tippt zu spät. Littenweiler wurde schon am 25. Februar 1914 nach Freiburg eingemeindet. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "388-littenweiler/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Littenweiler",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Christoph Meckel schildert in „Der Brand“ die Feuersbrunst nach der Bombardierung Freiburgs am 27. November 1944. Von wo sah er zu?",
+"optionen": [
+"Er beobachtete sie vom Schlossberg aus.",
+"Er beobachtete sie vom Kybfelsen aus.",
+"Er beobachtete sie vom Eichberg aus.",
+"Er beobachtete sie vom Schauinsland aus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schlossberg oder Schauinsland liegen als bekannte Aussichtspunkte nahe. Meckel aber beobachtete das Feuer vom Eichberg aus; so wurde Littenweiler zum Schauplatz seiner autobiografischen Erzählung. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
+"faktencheck": "unsicher",
+"id": "388-littenweiler/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Littenweiler",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Das Pflegeheim St. Antonius am Freiburger „Stahlbad“ nutzt ein denkmalgeschütztes Haus. Wofür wurde es ursprünglich gebaut?",
+"optionen": [
+"Es wurde als Kur- und Badehaus gebaut.",
+"Es wurde als Hammerschmiede für Stahl gebaut.",
+"Es wurde als Schulhaus des Dorfes gebaut.",
+"Es wurde als adliges Jagdhaus gebaut."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name „Stahlbad“ lässt an Eisen und Schmiedefeuer denken. Doch das Haus entstand am Austritt einer mineralischen Heilquelle, als Kur- und Badehaus. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
+"faktencheck": "unsicher",
+"id": "388-littenweiler/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Littenweiler",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Das Studentenwohnheim St. Alban Haus war nach dem Theologen Alban Stolz benannt; 2017 wechselte der Namensbezug zu Alban von Mainz. Warum?",
+"optionen": [
+"Die Familie Stolz verlangte, den Namen aufzugeben.",
+"Ein Gericht untersagte die Nutzung des Namens.",
+"Das Haus ging an einen neuen Träger über.",
+"Antisemitische Äußerungen von Stolz wurden näher beleuchtet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Gerichtsstreit um einen Namen klingt nach handfestem Anlass. Tatsächlich wurden antisemitische Äußerungen des Theologen Alban Stolz näher beleuchtet. Das Wohnheim der Erzdiözese Freiburg bezieht seinen Namen seither auf Alban von Mainz. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
+"faktencheck": "unsicher",
+"id": "388-littenweiler/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "387-ebnet",
+"anschluss": [
+"Einwohner: Littenweiler hat fast dreimal so viele wie Ebnet.",
+"Littenweiler wächst mit dem Nachbarstadtteil Ebnet zusammen."
+],
+"anschluesse": {
+"387-ebnet": [
+"Einwohner: Littenweiler hat fast dreimal so viele wie Ebnet.",
+"Littenweiler wächst mit dem Nachbarstadtteil Ebnet zusammen."
+],
+"389-merzhausen": [
+"Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Littenweiler hat gut anderthalbmal so viele Einwohner wie Merzhausen."
+],
+"390-au-breisgau": [
+"Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Littenweiler hat fast sechsmal so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Ebringen lag die CDU vorn, in Littenweiler die Grünen."
+],
+"392-schallstadt": [
+"Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Schallstadt lag die CDU vorn, in Littenweiler die Grünen."
+],
+"393-bad-krozingen": [
+"Kreisgrenze: Bad Krozingen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Bad Krozingen lag die CDU vorn, in Littenweiler die Grünen."
+],
+"396-waldkirch": [
+"Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Waldkirch lag die CDU vorn, in Littenweiler die Grünen."
+],
+"397-hochdorf-freiburg": [
+"Bundestagswahl 2025: In Hochdorf lag die CDU vorn, in Littenweiler die Grünen.",
+"Littenweiler hat gut anderthalbmal so viele Einwohner wie Hochdorf."
+],
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In March lag die CDU vorn, in Littenweiler die Grünen."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Gottenheim lag die CDU vorn, in Littenweiler die Grünen."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Bötzingen lag die CDU vorn, in Littenweiler die Grünen."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Eichstetten lag die CDU vorn, in Littenweiler die Grünen."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Vörstetten lag die CDU vorn, in Littenweiler die Grünen."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Reute lag die CDU vorn, in Littenweiler die Grünen."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Teningen lag die CDU vorn, in Littenweiler die Grünen."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Bahlingen lag die CDU vorn, in Littenweiler die Grünen."
+],
+"69-ihringen": [
+"Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Ihringen lag die CDU vorn, in Littenweiler die Grünen."
+],
+"71-stegen": [
+"Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Stegen lag die CDU vorn, in Littenweiler die Grünen."
+],
+"72-oberried": [
+"Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Oberried lag die CDU vorn, in Littenweiler die Grünen."
+],
+"73-buchenbach": [
+"Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Buchenbach lag die CDU vorn, in Littenweiler die Grünen."
+],
+"74-hinterzarten": [
+"Kreisgrenze: Hinterzarten gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Hinterzarten lag die CDU vorn, in Littenweiler die Grünen."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Emmendingen lag die CDU vorn, in Littenweiler die Grünen."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"km_vom_vorigen": 1.0
+},
+{
+"slug": "389-merzhausen",
+"name": "Merzhausen",
+"lat": 47.96639,
+"lon": 7.82861,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merzhausen",
+"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "In welchem Archiv werden die ältesten Urkunden über Merzhausen aufbewahrt?",
+"optionen": [
+"Sie liegen im Stadtarchiv Freiburg.",
+"Sie liegen im Vatikanischen Archiv in Rom.",
+"Sie liegen im Archiv des Klosters Reichenau.",
+"Sie liegen im Stiftsarchiv St. Gallen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein Archiv im nahen Freiburg. Doch die ältesten Urkunden über Merzhausen liegen im Stiftsarchiv St. Gallen. Denn Heimo und seine Tochter Svanahilt übertrugen ihren Besitz Meresusir an die Abtei Sankt Gallen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/geschichte",
+"faktencheck": "korrigiert",
+"id": "389-merzhausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Merzhausen",
+"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Merzhausen?",
+"optionen": [
+"unter 4 km²",
+"4 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an ein Dorf mit Wald und Reben denkt, schätzt die Fläche oft größer. Doch die Gemarkung von Merzhausen misst nur 2,76 Quadratkilometer; die vorstädtisch geprägte Wohngemeinde liegt unmittelbar südlich von Freiburg. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "389-merzhausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Merzhausen",
+"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Friedhofshalle bekam bei ihrer Renovierung eine Orgel.",
+"Im Gemeindegebiet gibt es mehr Landwirtschaftsfläche als Wald.",
+"In früheren Jahrhunderten war das Dorf überwiegend evangelisch."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Orgel für die Friedhofshalle klingt erfunden, stimmt aber, ebenso das Übergewicht der Landwirtschaftsfläche über den Wald. Gelogen war die Konfession: Lange war Merzhausen ausschließlich katholisch, und auch spätere Zählungen zeigen mehr Katholiken als Protestanten. Wer den katholisch geprägten Breisgau kennt, konnte es ahnen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/leben-wohnen/kirchen",
+"faktencheck": "bestätigt",
+"id": "389-merzhausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Merzhausen",
+"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Merzhausen die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Breisgau erwarten viele die CDU klar vorn. Doch vor den Toren Freiburgs lagen die Grünen an der Spitze: 33,2 Prozent der Zweitstimmen, vor der CDU mit 24,4 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "389-merzhausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merzhausen",
+"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Ein Gelände in Merzhausen heißt „Casinogelände“. Woher hat es diesen Namen?",
+"optionen": [
+"Dort stand früher eine Spielbank.",
+"Dort stand ein Tanzcafé der Nachkriegszeit.",
+"Dort stand das Werk einer Firma Casino.",
+"Dort stand früher das Casino einer Kaserne."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Beim Wort Casino denkt man an Roulette und Spieltische. Gemeint war aber das Casino der Vauban-Kaserne; so heißt in Kasernen der Treffpunkt der Offiziere. Die Fläche lag lange größtenteils brach, das Gebäude nutzten Vereine, bis es abgerissen wurde. Die gewerbliche Nutzung übernahm schließlich ein Hotel. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/bebauungsplaene-abgeschlossen",
+"faktencheck": "korrigiert",
+"id": "389-merzhausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Merzhausen",
+"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist es von Merzhausen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 150 km",
+"150 bis unter 180 km",
+"180 bis unter 220 km",
+"220 km oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer die Fahrt über Autobahn oder durch den Schwarzwald kennt, schätzt leicht zu hoch, denn Straßen machen Umwege. In Luftlinie liegen zwischen Merzhausen und Stuttgart nur 135 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "389-merzhausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Merzhausen",
+"steckbrief": "Merzhausen hat heute rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "1830 war Merzhausen ein Dorf am Fuß des Schönbergs. Wie viele Einwohner hatte es damals?",
+"optionen": [
+"unter 100",
+"100 bis unter 300",
+"300 bis unter 1.000",
+"1.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer die heutige Größe kennt, rechnet mit einem stattlichen Dorf. Doch damals lebten nur 180 Menschen im Ort, im sogenannten Thälchen am Fuß des Schönbergs. Zur vorstädtischen Wohngemeinde entwickelte sich Merzhausen verstärkt seit dem Zweiten Weltkrieg. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/geschichte",
+"faktencheck": "bestätigt",
+"id": "389-merzhausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merzhausen",
+"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Das Jesuitenschloss am Schönberg ist nach Jesuiten benannt, die an der Freiburger Universität lehrten. Wie kamen sie zu ihrem Besitz dort?",
+"optionen": [
+"Sie kauften ihn mit Geld der Universität.",
+"Der Landesherr übertrug ihn dem Orden.",
+"Eine Familie schenkte ihn den Jesuiten.",
+"Sie erhielten ihn als Pfand für Schulden."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein gelehrter Orden mit Geld, so denkt man, kauft sich ein Landgut vor der Stadt. Doch die Familie Schnewlin-Bernlapp von Bollschweil schenkte den Jesuiten den Besitz. Den Namen behielt das Schloss auch nach der Auflösung des Ordens. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/freizeit-kultur/jesuitenschloss",
+"faktencheck": "bestätigt",
+"id": "389-merzhausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merzhausen",
+"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Rathaus, Sporthalle und FORUM in Merzhausen wurden ab 2010 mit Fernwärme versorgt. Woher kam diese Wärme?",
+"optionen": [
+"Die Wärme kam aus dem Hallenbad.",
+"Ein Holzheizwerk im Gemeindewald lieferte sie.",
+"Sie kam aus dem Netz Freiburgs.",
+"Die Biogasanlage eines Landwirts lieferte sie."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Fernwärme denkt man an ein großes Heizwerk oder an das Netz der nahen Großstadt. In Merzhausen aber kam die Wärme aus dem Hallenbad, dem BürgerBad. Seine Blockheizkraftwerke bildeten die Grundlage der 2010 eingerichteten Fernwärme. Versorgt wurden auch das Alois-Rapp-Haus und ein Wohn- und Geschäftshaus in der Ortsmitte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/abgeschlossene-projekte",
+"faktencheck": "korrigiert",
+"id": "389-merzhausen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "388-littenweiler",
+"anschluss": [
+"Trotz Kreisgrenze haben Littenweiler und Merzhausen beide Kennzeichen FR.",
+"Einwohner: Littenweiler hat rund 8.500, Merzhausen rund 5.400."
+],
+"anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+"Merzhausen hat fast doppelt so viele Einwohner wie Ebnet."
+],
+"388-littenweiler": [
+"Trotz Kreisgrenze haben Littenweiler und Merzhausen beide Kennzeichen FR.",
+"Einwohner: Littenweiler hat rund 8.500, Merzhausen rund 5.400."
+],
+"390-au-breisgau": [
+"Merzhausen hat dreieinhalbmal so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Bundestagswahl 2025: In Ebringen lag die CDU vorn, in Merzhausen die Grünen.",
+"Merzhausen hat fast doppelt so viele Einwohner wie Ebringen."
+],
+"392-schallstadt": [
+"Bundestagswahl 2025: In Schallstadt lag die CDU vorn, in Merzhausen die Grünen.",
+"Schallstadt hat rund 1.600 Einwohner mehr als Merzhausen."
+],
+"393-bad-krozingen": [
+"Bundestagswahl 2025: In Bad Krozingen lag die CDU vorn, in Merzhausen die Grünen.",
+"Bad Krozingen hat viermal so viele Einwohner wie Merzhausen."
+],
+"394-heitersheim": [
+"Bundestagswahl 2025: In Heitersheim lag die CDU vorn, in Merzhausen die Grünen.",
+"Heitersheim hat rund 1.200 Einwohner mehr als Merzhausen."
+],
+"396-waldkirch": [
+"Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Waldkirch lag die CDU vorn, in Merzhausen die Grünen."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Hochdorf lag die CDU vorn, in Merzhausen die Grünen."
+],
+"65-march": [
+"Bundestagswahl 2025: In March lag die CDU vorn, in Merzhausen die Grünen.",
+"March hat gut anderthalbmal so viele Einwohner wie Merzhausen."
+],
+"66-gottenheim": [
+"Bundestagswahl 2025: In Gottenheim lag die CDU vorn, in Merzhausen die Grünen.",
+"Merzhausen hat gut anderthalbmal so viele Einwohner wie Gottenheim."
+],
+"67-boetzingen": [
+"Bundestagswahl 2025: In Bötzingen lag die CDU vorn, in Merzhausen die Grünen.",
+"Bötzingen und Merzhausen sind fast gleich groß: rund 5.500 und 5.400 Einwohner."
+],
+"68-eichstetten": [
+"Bundestagswahl 2025: In Eichstetten lag die CDU vorn, in Merzhausen die Grünen.",
+"Merzhausen hat fast anderthalbmal so viele Einwohner wie Eichstetten."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Vörstetten lag die CDU vorn, in Merzhausen die Grünen."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Reute lag die CDU vorn, in Merzhausen die Grünen."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Teningen lag die CDU vorn, in Merzhausen die Grünen."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Bahlingen lag die CDU vorn, in Merzhausen die Grünen."
+],
+"69-ihringen": [
+"Bundestagswahl 2025: In Ihringen lag die CDU vorn, in Merzhausen die Grünen.",
+"Ihringen hat rund 900 Einwohner mehr als Merzhausen."
+],
+"70-breisach": [
+"Bundestagswahl 2025: In Breisach lag die CDU vorn, in Merzhausen die Grünen.",
+"Breisach hat dreimal so viele Einwohner wie Merzhausen."
+],
+"71-stegen": [
+"Bundestagswahl 2025: In Stegen lag die CDU vorn, in Merzhausen die Grünen.",
+"Merzhausen hat rund 900 Einwohner mehr als Stegen."
+],
+"72-oberried": [
+"Bundestagswahl 2025: In Oberried lag die CDU vorn, in Merzhausen die Grünen.",
+"Merzhausen hat doppelt so viele Einwohner wie Oberried."
+],
+"73-buchenbach": [
+"Bundestagswahl 2025: In Buchenbach lag die CDU vorn, in Merzhausen die Grünen.",
+"Merzhausen hat gut anderthalbmal so viele Einwohner wie Buchenbach."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Emmendingen lag die CDU vorn, in Merzhausen die Grünen."
+]
+},
+"ags": "08315073",
+"ortsteil": false,
+"km_vom_vorigen": 5.3
+},
+{
+"slug": "390-au-breisgau",
+"name": "Au",
+"lat": 47.95,
+"lon": 7.83333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Au",
+"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
+"frage": "Das Wappen von Au ist in zwei Hälften gespalten. Woher stammen die beiden Hälften?",
+"optionen": [
+"Sie zeigen Felder und Wiesen des Dorfs.",
+"Sie stehen für zwei zusammengelegte Dörfer.",
+"Sie stammen von zwei früheren Grundherrenfamilien.",
+"Sie erinnern an Bergbau und Holzhandel."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gold über Grün erinnert an Feld und Wiese, das liegt bei einem Dorf nahe. Doch die vordere Hälfte stammt aus dem Wappen der Schnewlin von Weiher, die hintere aus dem der Freiherrn von Baden. An beide Familien war Au lange gebunden. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/geschichte/wappen",
+"faktencheck": "bestätigt",
+"id": "390-au-breisgau/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Au",
+"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
+"frage": "Au liegt im Hexental zwischen Schönberg und Schauinsland. Auf welcher Höhe liegt der Ort?",
+"optionen": [
+"unter 200 m",
+"200 bis unter 270 m",
+"270 bis unter 330 m",
+"330 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Au liegt nah an Freiburg, da denkt man an die flache Rheinebene. Doch das Dorf liegt im Hexental zwischen Schönberg und Schauinsland und damit schon deutlich höher. Die Quellen nennen 359 und 367 Meter. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "390-au-breisgau/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Au",
+"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Auer Landwirte leben überwiegend vom Weinbau.",
+"Ein Heinrich von Au beschenkte Kloster St. Peter.",
+"Im Mittelalter ist ein Ritter von Au bezeugt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Breisgau ist als Weinland bekannt, deshalb klingt Weinbau glaubhaft. Doch die Auer Betriebe leben überwiegend von der Milchwirtschaft, dazu kommen Rinder- und Schweinezucht. Heinrich von Au schenkte dem Kloster St. Peter einen Hof, und der Ritter Liutfried von Au ist bezeugt. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/daten-fakten und www.au-hexental.de/unsere-gemeinde/geschichte/geschichte",
+"faktencheck": "korrigiert",
+"id": "390-au-breisgau/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Au",
+"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Welche Partei wurde in Au zweitstärkste Kraft?",
+"optionen": [
+"Grüne",
+"CDU",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In einem Dorf erwartet man die CDU vorn und die Grünen auf Platz zwei. In Au war es umgekehrt: Die Grünen gewannen mit 31,6 Prozent, die CDU folgte mit 27,9 Prozent. Die SPD lag weit dahinter. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "390-au-breisgau/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Au",
+"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
+"frage": "Au bekam im 17. Jahrhundert eine Kapelle. Wer weihte sie ein?",
+"optionen": [
+"Der Bischof von Basel weihte sie ein.",
+"Der Bischof von Straßburg weihte sie ein.",
+"Der Bischof von Konstanz weihte sie ein.",
+"Der Abt von St. Blasien weihte sie ein."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Basel und Straßburg sind von Freiburg aus näher als Konstanz, deshalb liegt einer dieser Bischöfe nahe. Doch geweiht hat die Kapelle der Bischof von Konstanz. Erhalten ist sie nicht: Sie wurde später abgerissen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/geschichte/geschichte",
+"faktencheck": "bestätigt",
+"id": "390-au-breisgau/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Au",
+"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
+"frage": "Wie weit liegt Au in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 90 km",
+"90 bis unter 120 km",
+"120 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg wirkt auf der Karte überschaubar, und Stuttgart scheint nicht weit. Doch Au liegt südlich von Freiburg, tief im Südwesten des Landes. Bis Stuttgart sind es 136 Kilometer Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "390-au-breisgau/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Au",
+"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
+"frage": "Die Zeittafel der Auer Ortsgeschichte verzeichnet Geburt und Tod eines Dichters des Mittelalters. Welches Dichters?",
+"optionen": [
+"Es ist Hartmann von Aue.",
+"Es ist Walther von der Vogelweide.",
+"Es ist Wolfram von Eschenbach.",
+"Es ist Gottfried von Straßburg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Walther von der Vogelweide fällt vielen zuerst ein, doch er war vor allem Liederdichter. Die Auer Ortsgeschichte verzeichnet Geburt und Tod von Hartmann von Aue. Ob er aus Au stammt, sagt die Zeittafel nicht. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/geschichte/geschichte",
+"faktencheck": "korrigiert",
+"id": "390-au-breisgau/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Au",
+"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
+"frage": "Ernst-Wolfgang Böckenförde lebte in Au. Welches Amt hatte er inne?",
+"optionen": [
+"Er war Ministerpräsident von Baden-Württemberg.",
+"Er war Präsident des Deutschen Bundestags.",
+"Er war Erzbischof von Freiburg.",
+"Er war Richter am Bundesverfassungsgericht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein bekannter Name lässt zuerst an Politik denken, etwa an den Landtag in Stuttgart oder den Bundestag. Doch Ernst-Wolfgang Böckenförde war Richter des Bundesverfassungsgerichts und lebte in Au. Richtig war 4.",
+"quelle": "Deutsche Biographie, www.deutsche-biographie.de/dbo014256.html",
+"faktencheck": "korrigiert",
+"id": "390-au-breisgau/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Au",
+"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
+"frage": "In Au gab es im Mittelalter wahrscheinlich eine Burg. Auffindbar ist sie nicht. Was spricht trotzdem für sie?",
+"optionen": [
+"Im Wald liegen noch ihre Mauerreste.",
+"Eine überlieferte Bezeichnung deutet auf sie hin.",
+"Das Gemeindewappen zeigt einen Burgturm.",
+"Bei Ausgrabungen wurden ihre Grundmauern freigelegt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Burg denkt man zuerst an Mauerreste. Doch die Burg, die es wahrscheinlich gab, ist nicht auffindbar. Auf sie deutet die Bezeichnung „Burghöfe“. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/kurzportrait",
+"faktencheck": "korrigiert",
+"id": "390-au-breisgau/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "389-merzhausen",
+"anschluss": [
+"Au gehört zur Verwaltungsgemeinschaft Hexental mit Sitz in Merzhausen.",
+"Au hat mehr Fläche als Merzhausen, aber viel weniger Einwohner."
+],
+"anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Au zum Landkreis Breisgau-Hochschwarzwald.",
+"Ebnet hat doppelt so viele Einwohner wie Au."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Au zum Landkreis Breisgau-Hochschwarzwald.",
+"Littenweiler hat fast sechsmal so viele Einwohner wie Au."
+],
+"389-merzhausen": [
+"Au gehört zur Verwaltungsgemeinschaft Hexental mit Sitz in Merzhausen.",
+"Au hat mehr Fläche als Merzhausen, aber viel weniger Einwohner."
+],
+"391-ebringen": [
+"Bundestagswahl 2025: In Ebringen lag die CDU vorn, in Au die Grünen.",
+"Ebringen hat fast doppelt so viele Einwohner wie Au."
+],
+"392-schallstadt": [
+"Bundestagswahl 2025: In Schallstadt lag die CDU vorn, in Au die Grünen.",
+"Schallstadt hat gut viereinhalbmal so viele Einwohner wie Au."
+],
+"393-bad-krozingen": [
+"Bundestagswahl 2025: In Bad Krozingen lag die CDU vorn, in Au die Grünen.",
+"Bad Krozingen hat gut vierzehnmal so viele Einwohner wie Au."
+],
+"394-heitersheim": [
+"Bundestagswahl 2025: In Heitersheim lag die CDU vorn, in Au die Grünen.",
+"Heitersheim hat viereinhalbmal so viele Einwohner wie Au."
+],
+"396-waldkirch": [
+"Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Au zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Waldkirch lag die CDU vorn, in Au die Grünen."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Au zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Hochdorf lag die CDU vorn, in Au die Grünen."
+],
+"65-march": [
+"Bundestagswahl 2025: In March lag die CDU vorn, in Au die Grünen.",
+"March hat gut sechsmal so viele Einwohner wie Au."
+],
+"66-gottenheim": [
+"Bundestagswahl 2025: In Gottenheim lag die CDU vorn, in Au die Grünen.",
+"Gottenheim hat gut doppelt so viele Einwohner wie Au."
+],
+"67-boetzingen": [
+"Bundestagswahl 2025: In Bötzingen lag die CDU vorn, in Au die Grünen.",
+"Bötzingen hat gut dreieinhalbmal so viele Einwohner wie Au."
+],
+"68-eichstetten": [
+"Bundestagswahl 2025: In Eichstetten lag die CDU vorn, in Au die Grünen.",
+"Eichstetten hat zweieinhalbmal so viele Einwohner wie Au."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Au zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Vörstetten lag die CDU vorn, in Au die Grünen."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Au zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Reute lag die CDU vorn, in Au die Grünen."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Au zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Teningen lag die CDU vorn, in Au die Grünen."
+],
+"69-ihringen": [
+"Bundestagswahl 2025: In Ihringen lag die CDU vorn, in Au die Grünen.",
+"Ihringen hat gut viermal so viele Einwohner wie Au."
+],
+"71-stegen": [
+"Bundestagswahl 2025: In Stegen lag die CDU vorn, in Au die Grünen.",
+"Stegen hat dreimal so viele Einwohner wie Au."
+],
+"72-oberried": [
+"Bundestagswahl 2025: In Oberried lag die CDU vorn, in Au die Grünen.",
+"Oberried hat fast doppelt so viele Einwohner wie Au."
+],
+"73-buchenbach": [
+"Bundestagswahl 2025: In Buchenbach lag die CDU vorn, in Au die Grünen.",
+"Buchenbach hat gut doppelt so viele Einwohner wie Au."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Au zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Emmendingen lag die CDU vorn, in Au die Grünen."
+]
+},
+"ags": "08315003",
+"ortsteil": false,
+"km_vom_vorigen": 1.9
+},
+{
+"slug": "391-ebringen",
+"name": "Ebringen",
+"lat": 47.95778,
+"lon": 7.78056,
+"karten": [
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Ebringen",
+"steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Ebringen?",
+"optionen": [
+"EM",
+"FR",
+"LÖ",
+"OG"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Richtig ist FR, dasselbe Kürzel wie in der Stadt Freiburg. Wer ein eigenes Kreiskürzel erwartet, denkt an Kreise wie Emmendingen oder Lörrach, die eigene Buchstaben haben. Ebringens Kreis aber teilt sich FR mit der Großstadt. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "391-ebringen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ebringen",
+"steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner leben in Ebringen durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 450",
+"450 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In Ebringen leben im Schnitt 349 Menschen auf einem Quadratkilometer. Wer bei einem Dorf an weite Felder denkt, schätzt tiefer. Doch die Einwohner teilen sich eine kleine Gemarkung, und für ein Dorf ist das recht dicht besiedelt. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "391-ebringen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Klassiker",
+"ort": "Ebringen",
+"steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ebringen hat die Telefonvorwahl 07664.",
+"Ebringen hat die Postleitzahl 89285.",
+"Ebringens Gemarkung umfasst rund 8 Quadratkilometer."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war die Postleitzahl: Ebringen hat die 79285. Verdächtiger wirkt vielleicht die Vorwahl, weil kaum jemand solche Ziffern kennt. Doch Postleitzahlen mit 79 sind typisch für die Gegend um Freiburg, eine führende 89 passt nicht in den Breisgau. Die Lüge war 2.",
+"quelle": "Wikidata P281",
+"faktencheck": "bestätigt",
+"id": "391-ebringen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ebringen",
+"steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war die Wahlbeteiligung in Ebringen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 90 %",
+"90 bis unter 92 %",
+"92 bis unter 94 %",
+"94 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Ebringen bei 89,5 Prozent. Wer von der Nähe zu Freiburg und den feinen oberen Spannen auf über 90 Prozent schloss, lag nur knapp daneben. Ebringen blieb knapp darunter. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "391-ebringen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Ebringen",
+"steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Zu welchem Landkreis gehört Ebringen?",
+"optionen": [
+"Emmendingen",
+"Breisgau-Hochschwarzwald",
+"Lörrach",
+"Ortenaukreis"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald. Naheliegend wäre, wegen der Lage südwestlich von Freiburg auf Lörrach zu tippen, den Kreis an der Grenze zur Schweiz. Doch der Kreis mit dem Doppelnamen reicht vom Rhein bis in den Hochschwarzwald und umschließt Freiburg fast ringsum. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "391-ebringen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ebringen",
+"steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist es von Ebringen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 80 km",
+"80 bis unter 120 km",
+"120 bis unter 160 km",
+"160 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Von Ebringen bis Stuttgart sind es 138 Kilometer Luftlinie. Wer an ein Land denkt, das man schnell durchquert, schätzt kürzer. Doch zwischen dem Breisgau und Stuttgart liegt der ganze Schwarzwald. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "391-ebringen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ebringen",
+"steckbrief": "Gemeinde 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Menschen wohnen in Ebringen?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 1.800",
+"1.800 bis unter 2.500",
+"2.500 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ende 2025 zählte Ebringen 2.852 Einwohner. Wer bei einem Ort vor den Toren Freiburgs an ein kleines Dorf denkt, schätzt tiefer. Ebringen ist aber größer, als viele vermuten. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "391-ebringen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "390-au-breisgau",
+"anschluss": [
+"Einwohner: Ebringen hat fast doppelt so viele wie Au.",
+"Bundestagswahl 2025: In Ebringen vorne CDU, in Au die Grünen."
+],
+"anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Ebringen die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Ebringen die CDU."
+],
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Ebringen die CDU.",
+"Merzhausen hat fast doppelt so viele Einwohner wie Ebringen."
+],
+"390-au-breisgau": [
+"Einwohner: Ebringen hat fast doppelt so viele wie Au.",
+"Bundestagswahl 2025: In Ebringen vorne CDU, in Au die Grünen."
+],
+"392-schallstadt": [
+"Schallstadt hat zweieinhalbmal so viele Einwohner wie Ebringen."
+],
+"393-bad-krozingen": [
+"Bad Krozingen hat fast achtmal so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Ebringen die Grünen."
+],
+"394-heitersheim": [
+"Heitersheim hat fast zweieinhalbmal so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Heitersheim die SPD, in Ebringen die Grünen."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Hochdorf hat fast doppelt so viele Einwohner wie Ebringen."
+],
+"65-march": [
+"March hat fast dreieinhalbmal so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Ebringen die Grünen."
+],
+"66-gottenheim": [
+"Gottenheim hat rund 300 Einwohner mehr als Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Gottenheim die SPD, in Ebringen die Grünen."
+],
+"67-boetzingen": [
+"Bötzingen hat fast doppelt so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Ebringen die Grünen."
+],
+"68-eichstetten": [
+"Eichstetten hat rund 900 Einwohner mehr als Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in Ebringen die Grünen."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Vörstetten hat rund 300 Einwohner mehr als Ebringen."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Reute und Ebringen sind fast gleich groß: rund 3.000 und 2.900 Einwohner."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Teningen hat gut viermal so viele Einwohner wie Ebringen."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bahlingen hat gut anderthalbmal so viele Einwohner wie Ebringen."
+],
+"69-ihringen": [
+"Ihringen hat gut doppelt so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ihringen die SPD, in Ebringen die Grünen."
+],
+"70-breisach": [
+"Breisach hat sechsmal so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Breisach die AfD, in Ebringen die Grünen."
+],
+"71-stegen": [
+"Stegen hat gut anderthalbmal so viele Einwohner wie Ebringen."
+],
+"72-oberried": [
+"Oberried und Ebringen sind fast gleich groß: rund 2.800 und 2.900 Einwohner.",
+"Oberried liegt rund 170 Meter höher als Ebringen."
+],
+"73-buchenbach": [
+"Buchenbach hat rund 300 Einwohner mehr als Ebringen.",
+"Buchenbach liegt rund 160 Meter höher als Ebringen."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Emmendingen hat gut zehnmal so viele Einwohner wie Ebringen."
+]
+},
+"ags": "08315028",
+"ortsteil": false,
+"km_vom_vorigen": 4.0
+},
+{
+"slug": "392-schallstadt",
+"name": "Schallstadt",
+"lat": 47.95806,
+"lon": 7.75028,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde an der Badischen Weinstraße mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Der Ortsname klingt nach Lärm. Wie deutet ihn die Ortsgeschichte?",
+"optionen": [
+"Als Stätte, wo Hörige und Leibeigene wohnten.",
+"Als Ort, an dem ein Echo widerhallt.",
+"Als Ort einer früheren Glockengießerei.",
+"Als Ort, an dem ein Wächter ins Horn blies."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Beim heutigen Namen denkt man an Schall und Echo, das liegt nahe. Die Ortsgeschichte leitet ihn aber vom althochdeutschen Scalc ab, Knecht oder Leibeigener, und deutet Schallstadt als Stätte, wo Hörige und Leibeigene wohnten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Ortsteile",
+"faktencheck": "korrigiert",
+"id": "392-schallstadt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde an der Badischen Weinstraße, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner hat die Gemeinde Schallstadt?",
+"optionen": [
+"unter 4.000",
+"4.000 bis unter 8.000",
+"8.000 bis unter 12.000",
+"12.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an ein Winzerdorf an der Weinstraße denkt, schätzt leicht zu niedrig. Doch die Gemeinde vereint die Dörfer Schallstadt, Wolfenweiler und Mengen und liegt nah an Freiburg. Ende 2025 zählte sie 6.966 Einwohner. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "392-schallstadt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde mit den Ortsteilen Schallstadt, Wolfenweiler und Mengen, rund 7.000 Einwohner, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Jakobsweg ins Elsass führt über Schallstadts Gemarkung.",
+"Wolfenweiler kam einst an die Grafen von Freiburg.",
+"Im Wappen der Gemeinde schreitet ein schwarzer Bär."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bär wirkt glaubhaft, er ist ein beliebtes Wappentier. Das Gemeindewappen vereint aber Motive aus den Wappen der Ortsteile: ein Hufeisen, eine Weintraube und unten einen schreitenden schwarzen Wolf. Jakobsweg und Grafen von Freiburg stimmen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte",
+"faktencheck": "bestätigt",
+"id": "392-schallstadt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Schallstadt bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Freiburg denkt man an eine Hochburg der Grünen, das legt eine knappe Wahl nahe. In Schallstadt lag aber die CDU klar vorn: Sie holte 30,5 Prozent, die Grünen folgten als Zweite. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "392-schallstadt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Der im Ortsteil Wolfenweiler geborene Kartograph Martin Waldseemüller schuf 1507 die erste Weltkarte mit dem Namen America. Wer gab sie in Auftrag?",
+"optionen": [
+"Der Herzog von Lothringen gab sie in Auftrag.",
+"Der Herzog von Württemberg gab sie in Auftrag.",
+"Der König von Portugal gab sie in Auftrag.",
+"Der Herzog von Bayern gab sie in Auftrag."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Portugal liegt nahe, denn die Karte beruhte auf Reiseberichten Amerigo Vespuccis. Auftraggeber war aber Herzog René II. von Lothringen, mitgearbeitet hat Matthias Ringmann. Waldseemüllers Geburtshaus war vermutlich die Binzenmühle. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte",
+"faktencheck": "korrigiert",
+"id": "392-schallstadt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner leben in Schallstadt im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 200",
+"200 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Freiburg lässt an dichte Vorstadt denken. Doch den Großteil der Gemarkung nimmt die Landwirtschaft ein, dazu kommt Wald. So leben auf jedem Quadratkilometer 356 Einwohner. Richtig war 2.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "392-schallstadt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Die Gemeinde Schallstadt hat mehrere Ortsteile. Welcher ist am frühesten sicher schriftlich belegt?",
+"optionen": [
+"Der Ortsteil Schallstadt ist zuerst sicher belegt.",
+"Der Ortsteil Wolfenweiler ist zuerst sicher belegt.",
+"Der Ortsteil Mengen ist zuerst sicher belegt.",
+"Der Ortsteil Leutersberg ist zuerst sicher belegt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dass der Ort, der der Gemeinde den Namen gibt, auch am frühesten belegt ist, liegt nahe. Doch Mengen ist schon 776 als „Maginger marca“ genannt, drei Jahre vor Schallstadt. Für Wolfenweiler gibt es nur unsichere ältere Nennungen, sicher belegt ist es erst 873, Leutersberg erst 1347. Richtig war 3.",
+"quelle": "LEO-BW, Ortslexikon Mengen; Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Ortsteile",
+"faktencheck": "korrigiert",
+"id": "392-schallstadt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Woher hat der Schallstadter Ortsteil Mengen nach der Ortsgeschichte seinen Namen?",
+"optionen": [
+"Er kommt von großen Getreidemengen.",
+"Er geht auf einen germanischen Personennamen zurück.",
+"Er geht auf ein keltisches Flusswort zurück.",
+"Er erinnert an einen römischen Gutshof."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Beim heutigen Namen denkt man an große Mengen, etwa von Korn, das liegt nahe. Die Ortsgeschichte führt Mengen aber auf den germanischen Personennamen Mago zurück: Maginga bedeutet „bei den Leuten des Mago“. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Ortsteile",
+"faktencheck": "korrigiert",
+"id": "392-schallstadt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde an der Badischen Weinstraße mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Vor der Namensvereinfachung 1977 trug die Gemeinde einen Doppelnamen. Welchen?",
+"optionen": [
+"Die Gemeinde hieß Schallstadt-Mengen.",
+"Die Gemeinde hieß Mengen-Wolfenweiler.",
+"Die Gemeinde hieß Schallstadt-Leutersberg.",
+"Die Gemeinde hieß Schallstadt-Wolfenweiler."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Schallstadt-Mengen liegt nahe, weil Mengen heute dazugehört. Der Doppelname stammt aber vom Zusammenschluss von Schallstadt und Wolfenweiler; Mengen kam erst später hinzu. Danach wurde aus Schallstadt-Wolfenweiler schlicht Schallstadt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte",
+"faktencheck": "bestätigt",
+"id": "392-schallstadt/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "391-ebringen",
+"anschluss": [
+"Einwohner: Schallstadt hat über doppelt so viele wie Ebringen.",
+"Bundestagswahl 2025: CDU in Ebringen stärker als in Schallstadt."
+],
+"anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Schallstadt die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Schallstadt die CDU."
+],
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Schallstadt die CDU.",
+"Schallstadt hat rund 1.600 Einwohner mehr als Merzhausen."
+],
+"390-au-breisgau": [
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Schallstadt die CDU.",
+"Schallstadt hat gut viereinhalbmal so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Einwohner: Schallstadt hat über doppelt so viele wie Ebringen.",
+"Bundestagswahl 2025: CDU in Ebringen stärker als in Schallstadt."
+],
+"393-bad-krozingen": [
+"Bad Krozingen hat gut dreimal so viele Einwohner wie Schallstadt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Schallstadt die Grünen."
+],
+"394-heitersheim": [
+"Heitersheim und Schallstadt sind fast gleich groß: rund 6.600 und 7.000 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Heitersheim die SPD, in Schallstadt die Grünen."
+],
+"395-muellheim": [
+"Müllheim hat fast dreimal so viele Einwohner wie Schallstadt."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+"Schallstadt hat rund 1.700 Einwohner mehr als Hochdorf."
+],
+"65-march": [
+"March hat rund 2.400 Einwohner mehr als Schallstadt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Schallstadt die Grünen."
+],
+"66-gottenheim": [
+"Schallstadt hat gut doppelt so viele Einwohner wie Gottenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Gottenheim die SPD, in Schallstadt die Grünen."
+],
+"67-boetzingen": [
+"Schallstadt hat rund 1.400 Einwohner mehr als Bötzingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Schallstadt die Grünen."
+],
+"68-eichstetten": [
+"Schallstadt hat fast doppelt so viele Einwohner wie Eichstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in Schallstadt die Grünen."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+"Schallstadt hat gut doppelt so viele Einwohner wie Vörstetten."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+"Schallstadt hat fast zweieinhalbmal so viele Einwohner wie Reute."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+"Teningen hat gut anderthalbmal so viele Einwohner wie Schallstadt."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+"Schallstadt hat anderthalbmal so viele Einwohner wie Bahlingen."
+],
+"69-ihringen": [
+"Schallstadt hat rund 700 Einwohner mehr als Ihringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ihringen die SPD, in Schallstadt die Grünen."
+],
+"70-breisach": [
+"Breisach hat fast zweieinhalbmal so viele Einwohner wie Schallstadt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Breisach die AfD, in Schallstadt die Grünen."
+],
+"71-stegen": [
+"Schallstadt hat gut anderthalbmal so viele Einwohner wie Stegen.",
+"Stegen liegt rund 170 Meter höher als Schallstadt."
+],
+"72-oberried": [
+"Schallstadt hat zweieinhalbmal so viele Einwohner wie Oberried.",
+"Oberried liegt rund 220 Meter höher als Schallstadt."
+],
+"73-buchenbach": [
+"Schallstadt hat gut doppelt so viele Einwohner wie Buchenbach.",
+"Buchenbach liegt rund 210 Meter höher als Schallstadt."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+"Emmendingen hat gut viermal so viele Einwohner wie Schallstadt."
+]
+},
+"ags": "08315098",
+"ortsteil": false,
+"km_vom_vorigen": 2.3
+},
+{
+"slug": "393-bad-krozingen",
+"name": "Bad Krozingen",
+"lat": 47.91806,
+"lon": 7.7025,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Krozingen",
+"steckbrief": "Staatlich anerkanntes Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
+"frage": "1911 schoss bei einer Bohrung in Krozingen heißes Wasser empor. Wonach suchte man bei dieser Bohrung?",
+"optionen": [
+"Man suchte nach einer Heilquelle für Kurgäste.",
+"Man suchte nach Trinkwasser für das Dorf.",
+"Man suchte nach silberhaltigem Erz.",
+"Man suchte nach Erdöl."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Heilquelle liegt nahe, schließlich ist Bad Krozingen heute ein Heilbad. Doch gesucht wurde nach Erdöl. Stattdessen schoss bei der Bohrung kohlensäurereiches Thermalwasser empor, begleitet von einer mächtigen Dampfwolke. Daraus wurde die Nena-Quelle. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Staatlich-anerkanntes-Heilbad",
+"faktencheck": "bestätigt",
+"id": "393-bad-krozingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Krozingen",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern und mehreren Ortsteilen, 14 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Stadt Bad Krozingen samt Ortsteilen?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 60 km²",
+"60 bis unter 90 km²",
+"90 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mit Ortsteilen wie Hausen, Tunsel und Schlatt wirkt die Stadt weitläufig, das verleitet zu großen Schätzungen. Tatsächlich misst die Fläche 35,69 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "393-bad-krozingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bad Krozingen",
+"steckbrief": "Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Ortsburg wurde beim Bau einer Umgehungsstraße wiederentdeckt.",
+"Kloster St. Blasien hatte in Krozingen eine Propstei.",
+"Die Freiherren von Pfirt herrschten einst über Krozingen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der fremd klingende Name Pfirt wirkt erfunden, doch die Freiherren von Pfirt herrschten wirklich über Krozingen. Auch das Kloster St. Blasien verwaltete von seiner Krozinger Propstei aus seine Breisgauer Güter. Gelogen war die Umgehungsstraße: Erste Hinweise auf die Ortsburg kamen bei den Bauarbeiten für das neue Rathaus zutage. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Historisches-Stadtarchiv",
+"faktencheck": "korrigiert",
+"id": "393-bad-krozingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bad Krozingen",
+"steckbrief": "Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
+"frage": "Welche Partei holte in Bad Krozingen bei der Bundestagswahl 2025 die zweitmeisten Zweitstimmen?",
+"optionen": [
+"Die Grünen",
+"SPD",
+"AfD",
+"CDU"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Freiburg spricht für die Grünen, und es war knapp: Hinter der CDU mit 31,7 Prozent kam die AfD mit 16,8 Prozent, dicht gefolgt von den Grünen mit 16 und der SPD mit 15,2 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "393-bad-krozingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Krozingen",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern und mehreren Ortsteilen, 14 km südwestlich von Freiburg im Breisgau.",
+"frage": "Um 1270 entstand im heutigen Ortsteil Schlatt ein Kloster, das zugleich ein Pflegeheim war. Für wen?",
+"optionen": [
+"Es nahm Waisenkinder aus der Umgebung auf.",
+"Es pflegte alte Witwen ohne Familie.",
+"Es versorgte Menschen mit Geisteskrankheiten.",
+"Es pflegte Menschen, die an Lepra litten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Waisenkinder liegen nahe, denn viele Klöster nahmen sie auf. Doch in Schlatt entstand ein Lazariterkloster, ein Pflegeheim für Leprakranke. Wegen wirtschaftlicher Schwierigkeiten schloss sich der Konvent später dem Johanniterorden an. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/ortsteil/Schlatt-district1534",
+"faktencheck": "korrigiert",
+"id": "393-bad-krozingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Krozingen",
+"steckbrief": "Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner leben in Bad Krozingen im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 700",
+"700 bis unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe nahe Freiburg wirkt dicht bebaut. Doch zur Stadt gehören auch Ortsteile wie Schlatt mit Weinbau, Erdbeeren und Spargel. Im Schnitt kommen etwa 606 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "393-bad-krozingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Krozingen",
+"steckbrief": "Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
+"frage": "Das Herz-Zentrum in Bad Krozingen, heute Teil der Universitätsklinik Freiburg, eröffnete 1972. Wie hieß es ursprünglich?",
+"optionen": [
+"Es hieß Sebastian-Kneipp-Herzsanatorium.",
+"Es hieß Benedikt-Kreutz-Rehabilitationszentrum.",
+"Es hieß Johann-Peter-Hebel-Kurklinik.",
+"Es hieß Albert-Schweitzer-Herzklinik."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kneipp liegt nahe: Sein Name steht für Wasserkuren, und Bad Krozingen ist ein Heilbad. Doch das Haus begann als Benedikt-Kreutz-Rehabilitationszentrum. Heute prägt es den Gesundheitsstandort Bad Krozingen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Historisches-Stadtarchiv",
+"faktencheck": "bestätigt",
+"id": "393-bad-krozingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Krozingen",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern und mehreren Ortsteilen, 14 km südwestlich von Freiburg im Breisgau.",
+"frage": "Mitte der 1960er-Jahre entstand im heutigen Ortsteil Hausen ein Wasserwerk. Wer baute es?",
+"optionen": [
+"Die damals eigenständige Gemeinde Hausen baute es.",
+"Die Gemeinde Bad Krozingen baute es.",
+"Die Stadtwerke Basel bauten es.",
+"Die Stadtwerke Freiburg bauten es."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Wasserwerk im Dorf baut meist das Dorf selbst, das liegt nahe. Doch in Hausen bauten es die Stadtwerke Freiburg. Inzwischen liefert es auch Wasser nach Bad Krozingen und Tunsel. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/ortsteil/Hausen-district1535",
+"faktencheck": "bestätigt",
+"id": "393-bad-krozingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Krozingen",
+"steckbrief": "Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
+"frage": "1146 oder 1147 machte ein berühmter Prediger in Krozingen Station. Wer war es?",
+"optionen": [
+"Es war Bernhard von Clairvaux.",
+"Es war Franz von Assisi.",
+"Es war Albertus Magnus.",
+"Es war Meister Eckhart."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Franz von Assisi fällt vielen zuerst ein, wenn von großen Predigern des Mittelalters die Rede ist. Wie Albertus Magnus und Meister Eckhart lebte er aber erst später. In Krozingen hielt sich damals Bernhard von Clairvaux auf. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Historisches-Stadtarchiv",
+"faktencheck": "bestätigt",
+"id": "393-bad-krozingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "392-schallstadt",
+"anschluss": [
+"Einwohner: Bad Krozingen hat gut dreimal so viele wie Schallstadt.",
+"Wahlbeteiligung 2025: in Schallstadt höher als in Bad Krozingen."
+],
+"anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bad Krozingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Bad Krozingen die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bad Krozingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Bad Krozingen die CDU."
+],
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Bad Krozingen die CDU.",
+"Bad Krozingen hat viermal so viele Einwohner wie Merzhausen."
+],
+"390-au-breisgau": [
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Bad Krozingen die CDU.",
+"Bad Krozingen hat gut vierzehnmal so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Bad Krozingen hat fast achtmal so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Bad Krozingen die AfD."
+],
+"392-schallstadt": [
+"Einwohner: Bad Krozingen hat gut dreimal so viele wie Schallstadt.",
+"Wahlbeteiligung 2025: in Schallstadt höher als in Bad Krozingen."
+],
+"394-heitersheim": [
+"Bad Krozingen hat fast dreieinhalbmal so viele Einwohner wie Heitersheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Heitersheim die SPD, in Bad Krozingen die AfD."
+],
+"395-muellheim": [
+"Müllheim und Bad Krozingen sind fast gleich groß: rund 20.000 und 22.000 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Müllheim die Grünen, in Bad Krozingen die AfD."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bad Krozingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bad Krozingen hat viermal so viele Einwohner wie Hochdorf."
+],
+"65-march": [
+"Bad Krozingen hat fast zweieinhalbmal so viele Einwohner wie March.",
+"Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Bad Krozingen die AfD."
+],
+"66-gottenheim": [
+"Bad Krozingen hat siebenmal so viele Einwohner wie Gottenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Gottenheim die SPD, in Bad Krozingen die AfD."
+],
+"67-boetzingen": [
+"Bad Krozingen hat viermal so viele Einwohner wie Bötzingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Bad Krozingen die AfD."
+],
+"68-eichstetten": [
+"Bad Krozingen hat fast sechsmal so viele Einwohner wie Eichstetten."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Bad Krozingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bad Krozingen hat siebenmal so viele Einwohner wie Vörstetten."
+],
+"69-ihringen": [
+"Bad Krozingen hat dreieinhalbmal so viele Einwohner wie Ihringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ihringen die SPD, in Bad Krozingen die AfD."
+],
+"70-breisach": [
+"Bad Krozingen hat rund 5.000 Einwohner mehr als Breisach."
+],
+"72-oberried": [
+"Bad Krozingen hat achtmal so viele Einwohner wie Oberried.",
+"Oberried liegt rund 230 Meter höher als Bad Krozingen."
+]
+},
+"ags": "08315006",
+"ortsteil": false,
+"km_vom_vorigen": 5.7
+},
+{
+"slug": "394-heitersheim",
+"name": "Heitersheim",
+"lat": 47.87528,
+"lon": 7.65472,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heitersheim",
+"steckbrief": "Eine Stadt mit rund 6.600 Einwohnern, 20 km südwestlich von Freiburg im Breisgau.",
+"frage": "1935 verlor Heitersheim sein Stadtrecht, 1952 bekam es dieses zurück. Welchen Grund für den Verlust nennt die Stadtgeschichte?",
+"optionen": [
+"Das Stadtrecht war nur befristet verliehen.",
+"Die Stadt wurde für Widerstand bestraft.",
+"Eine Neuregelung verlangte eine Mindestzahl an Einwohnern.",
+"Ein Gericht erklärte die Urkunde für ungültig."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Strafe liegt nahe, denn der Entzug fiel in die NS-Zeit. Doch laut Stadtgeschichte stand das Stadtrecht nach einer Neuregelung nur noch Städten ab einer bestimmten Einwohnerzahl zu. Verliehen hatte es einst Großherzog Karl Friedrich, zurückgegeben hat es der badische Staatspräsident Leo Wohleb. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait (WÖRTER RÜCKSEITE: 50)",
+"faktencheck": "korrigiert",
+"id": "394-heitersheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heitersheim",
+"steckbrief": "Eine Stadt im Markgräflerland mit rund 6.600 Einwohnern, 20 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist das Stadtgebiet von Heitersheim?",
+"optionen": [
+"unter 4 km²",
+"4 bis unter 7 km²",
+"7 bis unter 10 km²",
+"10 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine kleine Stadt lässt ein kleines Gebiet vermuten. Doch Heitersheim liegt eingebettet zwischen Reben und Äckern, und zur Stadt gehört auch der Ortsteil Gallenweiler. Zusammen sind es 11,71 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "394-heitersheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Heitersheim",
+"steckbrief": "Eine Stadt mit rund 6.600 Einwohnern, 20 km südwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Landgraf von Hessen war hier einst Fürst.",
+"Napoleon verlieh dem Ort seinen Bartholomäus- und Nikolausmarkt.",
+"Bernhard von Clairvaux warb hier für einen Kreuzzug."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Hesse als Fürst im Markgräflerland wirkt erfunden, doch Landgraf Friedrich von Hessen war hier tatsächlich Fürst und Großprior. Auch Bernhard von Clairvaux warb in Heitersheim für den zweiten Kreuzzug. Gelogen ist Napoleon: Beide Märkte verlieh Kaiser Friedrich III. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait",
+"faktencheck": "bestätigt",
+"id": "394-heitersheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heitersheim",
+"steckbrief": "Eine Kleinstadt mit rund 6.600 Einwohnern, 20 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war in Heitersheim die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 85 %",
+"85 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer tiefer tippt, denkt oft an Kommunal- oder Landtagswahlen, bei denen meist weniger Menschen abstimmen. Bei der Bundestagswahl 2025 gaben in Heitersheim 84,4 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Kraft wurde die CDU, vor SPD und Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "394-heitersheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heitersheim",
+"steckbrief": "Eine Stadt mit rund 6.600 Einwohnern, 20 km südwestlich von Freiburg im Breisgau.",
+"frage": "In Heitersheim stand ein römischer Landsitz. Wofür wurde er um 760 möglicherweise als Steinbruch genutzt?",
+"optionen": [
+"Für den Bau des Speyerer Doms.",
+"Für den Bau des Ulmer Münsters.",
+"Für den Bau des Klosters Lorsch.",
+"Für den Bau des Freiburger Münsters."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Freiburger Münster liegt als Ziel nahe, denn es steht in der Nähe. Doch sein Bau begann erst Jahrhunderte später. Möglicherweise wurde das Material für den Bau des Klosters Lorsch genutzt. Der Landsitz gehörte einst einem Gutsherrn; Funde wie ein Mosaikboden und antikes Fensterglas zeugen davon. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait und www.heitersheim.de/Freizeit-Tourismus/museen/Villa-urbana-address406 (WÖRTER RÜCKSEITE: 53; ERFUNDEN: 1, 2, 4, falsch, weil der Bau jeweils erst lange nach 760 begann)",
+"faktencheck": "korrigiert",
+"id": "394-heitersheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Heitersheim",
+"steckbrief": "Eine Stadt mit rund 6.600 Einwohnern, 20 km südwestlich von Freiburg im Breisgau.",
+"frage": "Zu welchem Landkreis gehört Heitersheim?",
+"optionen": [
+"Lörrach",
+"Emmendingen",
+"Waldshut",
+"Breisgau-Hochschwarzwald"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Lörrach liegt nahe, weil Heitersheim an der Bahnlinie von Freiburg Richtung Basel liegt. Doch Heitersheim gehört zum Landkreis Breisgau-Hochschwarzwald, der die Stadt Freiburg umschließt und bis ins Markgräflerland reicht. Am Auto steht deshalb meist FR. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "394-heitersheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heitersheim",
+"steckbrief": "Eine Stadt mit rund 6.600 Einwohnern, 20 km südwestlich von Freiburg im Breisgau.",
+"frage": "Von 1961 bis 1973 wurde unter der Heitersheimer Gemarkung ein Bodenschatz abgebaut. Welcher?",
+"optionen": [
+"Ein Bergwerk baute dort Kali ab.",
+"Ein Bergwerk baute dort Steinkohle ab.",
+"Ein Bergwerk baute dort Silbererz ab.",
+"Ein Bergwerk baute dort Braunkohle ab."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bergbau verbindet man in der Gegend eher mit den alten Silbergruben des Schwarzwalds. Doch nach dem Bau eines Schachtes baute das Kaliwerk Buggingen nur noch Kali auf Heitersheimer Gemarkung ab. Dann wurde der Betrieb eingestellt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait",
+"faktencheck": "korrigiert",
+"id": "394-heitersheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heitersheim",
+"steckbrief": "Eine Stadt mit rund 6.600 Einwohnern, 20 km südwestlich von Freiburg im Breisgau.",
+"frage": "Das Malteserschloss wechselte mehrmals den Besitzer. Wem gehörte es das ganze 20. Jahrhundert hindurch?",
+"optionen": [
+"Es gehörte der evangelischen Landeskirche.",
+"Es gehörte einem Frauenorden.",
+"Es gehörte dem Land Baden-Württemberg.",
+"Es gehörte dem Deutschen Roten Kreuz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele Schlösser im Südwesten gehören dem Land, daher liegt diese Theorie nahe. Doch das Schloss besaßen die Barmherzigen Schwestern vom heiligen Vinzenz von Paul. In dieser Zeit gab es dort eine Werkstätte für behinderte Menschen und eine Sonderschule für behinderte Kinder. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.heitersheim.de/adresse/Malteserschloss-address789",
+"faktencheck": "korrigiert",
+"id": "394-heitersheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heitersheim",
+"steckbrief": "Eine Stadt mit rund 6.600 Einwohnern, 20 km südwestlich von Freiburg im Breisgau.",
+"frage": "1548 erhob Kaiser Karl V. den Heitersheimer Großprior Georg Schilling von Cannstatt zum Reichsfürsten. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Er hatte dem Kaiser Heitersheim geschenkt.",
+"Er war ein naher Verwandter des Kaisers.",
+"Er hatte in Heitersheim die Reformation eingeführt.",
+"Er wurde für Mut und Tapferkeit geehrt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Fürstenwürden denkt man an Verwandtschaft mit dem Kaiser, denn Titel blieben oft in der Familie. Die Ortsgeschichte nennt aber Mut und Tapferkeit. Die Ehrung geschah auf dem Reichstag in Augsburg, und Heitersheim wurde Fürstentum. Ein Großprior leitete eine Ordensprovinz der Johanniter. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.heitersheim.de/Leben-in-Heitersheim/Stadtportrait",
+"faktencheck": "korrigiert",
+"id": "394-heitersheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "393-bad-krozingen",
+"anschluss": [
+"Einwohner: Bad Krozingen hat gut dreimal so viele wie Heitersheim."
+],
+"anschluesse": {
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Heitersheim die CDU.",
+"Heitersheim hat rund 1.200 Einwohner mehr als Merzhausen."
+],
+"390-au-breisgau": [
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Heitersheim die CDU.",
+"Heitersheim hat viereinhalbmal so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Heitersheim hat fast zweieinhalbmal so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Heitersheim die SPD."
+],
+"392-schallstadt": [
+"Schallstadt und Heitersheim sind fast gleich groß: rund 7.000 und 6.600 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Heitersheim die SPD."
+],
+"393-bad-krozingen": [
+"Einwohner: Bad Krozingen hat gut dreimal so viele wie Heitersheim."
+],
+"395-muellheim": [
+"Müllheim hat dreimal so viele Einwohner wie Heitersheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Müllheim die Grünen, in Heitersheim die SPD."
+],
+"69-ihringen": [
+"Ihringen und Heitersheim sind fast gleich groß: rund 6.300 und 6.600 Einwohner."
+],
+"70-breisach": [
+"Breisach hat zweieinhalbmal so viele Einwohner wie Heitersheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Breisach die AfD, in Heitersheim die SPD."
+]
+},
+"ags": "08315050",
+"ortsteil": false,
+"km_vom_vorigen": 5.9
+},
+{
+"slug": "395-muellheim",
+"name": "Müllheim",
+"lat": 47.80833,
+"lon": 7.63083,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Müllheim",
+"steckbrief": "Rund 20.000 Einwohner, 27 km südwestlich von Freiburg im Breisgau.",
+"frage": "Unter der Martinskirche von Müllheim fand man Reste eines Baus, der älter ist als jede Kirche an dieser Stelle. Was für einer? (RÜCKSEITE bleibt unverändert.)",
+"optionen": [
+"Dort stand eine mittelalterliche Wassermühle.",
+"Dort stand ein römisches Gebäude mit Fußbodenheizung.",
+"Dort lag ein keltisches Quellheiligtum.",
+"Dort stand eine Burg der Stauferzeit."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Ort namens Müllheim liegt eine Mühle nahe. Doch unter der Martinskirche steckt ein römisches Gebäude: Mosaiksteine, Wandmalerei und eine Hypokaust-Heizung, die Böden und Wände wärmte. Vermutlich war es das Kernstück eines großen römischen Landguts. Heute dient die Kirche als Konzertsaal. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.muellheim.de/kultur-tourismus/martinskirche/",
+"faktencheck": "korrigiert",
+"id": "395-muellheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Müllheim",
+"steckbrief": "Rund 20.000 Einwohner, 27 km südwestlich von Freiburg, zwischen Rhein und Schwarzwald.",
+"frage": "Auf welcher Höhe über dem Meer liegt Müllheim?",
+"optionen": [
+"unter 100 m",
+"100 bis unter 200 m",
+"200 bis unter 300 m",
+"300 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer den nahen Schwarzwald vor Augen hat, schätzt leicht zu hoch. Müllheim liegt auf 267 Metern, je nach Quelle auf 268. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "395-muellheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Müllheim",
+"steckbrief": "Rund 20.000 Einwohner, 27 km südwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Jahr 1810 erhielt Müllheim die Stadtrechte.",
+"1727 wurde Müllheim Amtssitz der Herrschaft Badenweiler.",
+"Seit 1971 ist Müllheim Sitz eines Landkreises."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Kreisstadt klingt glaubhaft, denn Müllheim war tatsächlich eine. Doch mit der Kreisreform zum 1. Januar 1973 verlor die Stadt den Kreissitz, statt einen zu bekommen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.muellheim.de/buerger-infos/stadtinfos/; Landesarchiv Baden-Württemberg über Archivportal-D",
+"faktencheck": "korrigiert",
+"id": "395-muellheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Müllheim",
+"steckbrief": "Rund 20.000 Einwohner, 27 km südwestlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Müllheim die stärkste Partei?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 35 %",
+"35 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an das ländliche Baden-Württemberg denkt, erwartet eine übermächtige CDU. Stärkste Partei wurde sie auch, aber nur mit 26,6 Prozent der Zweitstimmen. Dahinter folgten die Grünen. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "395-muellheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Müllheim",
+"steckbrief": "Rund 20.000 Einwohner, 27 km südwestlich von Freiburg im Breisgau.",
+"frage": "Seit 1992 sitzt der Stab der Deutsch-Französischen Brigade in Müllheim. Wie heißt seine Kaserne?",
+"optionen": [
+"Er sitzt in der Charles-de-Gaulle-Kaserne.",
+"Er sitzt in der Robert-Schuman-Kaserne.",
+"Er sitzt in der Konrad-Adenauer-Kaserne.",
+"Er sitzt in der Jean-Monnet-Kaserne."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. De Gaulle und Adenauer liegen nahe: Auf ihren Élysée-Vertrag geht die Idee der Brigade zurück. Beschlossen haben die Gründung Kohl und Mitterrand. Der Stab sitzt aber in der Robert-Schuman-Kaserne. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.muellheim.de/buerger-infos/stadtinfos/",
+"faktencheck": "bestätigt",
+"id": "395-muellheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Müllheim",
+"steckbrief": "Rund 20.000 Einwohner, 27 km südwestlich von Freiburg im Breisgau.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Müllheim?",
+"optionen": [
+"LÖ",
+"EM",
+"FR",
+"OG"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Zwischen Freiburg und Basel gelegen, könnte Müllheim auch LÖ für Lörrach tragen. Es gehört aber zum Landkreis Breisgau-Hochschwarzwald, und dessen Hauptkennzeichen ist FR. Richtig war 3.",
+"quelle": "Wikidata P395; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "395-muellheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Müllheim",
+"steckbrief": "Rund 20.000 Einwohner, 27 km südwestlich von Freiburg im Breisgau.",
+"frage": "758 schenkte Strachfried seinen Besitz in der „villa Mulinhaimo“, dem heutigen Müllheim. An wen?",
+"optionen": [
+"Er ging an das Kloster St. Gallen.",
+"Er ging an das Kloster Reichenau.",
+"Er ging an das Kloster Murbach.",
+"Er ging an das Kloster Fulda."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Reichenau oder Murbach im Elsass wirken plausibel, beide waren mächtige Klöster jener Zeit. Doch Strachfried schenkte seinen Besitz in der villa Mulinhaimo dem Kloster St. Gallen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.muellheim.de/buerger-infos/stadtinfos/",
+"faktencheck": "korrigiert",
+"id": "395-muellheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Müllheim",
+"steckbrief": "Rund 20.000 Einwohner, 27 km südwestlich von Freiburg im Breisgau.",
+"frage": "Was gilt für die Berufspendler von und nach Müllheim?",
+"optionen": [
+"Es pendeln weit mehr aus als ein.",
+"Es pendeln etwas mehr aus als ein.",
+"Es pendeln mehr Menschen ein als aus.",
+"Kaum jemand pendelt, fast alle arbeiten vor Ort."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mit Freiburg so nah erwartet man vor allem Auspendler. Laut Stadt pendeln aber rund 5900 Menschen ein und nur rund 4500 aus. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.muellheim.de/buerger-infos/stadtinfos/",
+"faktencheck": "korrigiert",
+"id": "395-muellheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "394-heitersheim",
+"anschluss": [
+"Einwohner: Müllheim hat rund dreimal so viele wie Heitersheim.",
+"Fläche: Müllheim ist fast fünfmal so groß wie Heitersheim."
+],
+"anschluesse": {
+"392-schallstadt": [
+"Müllheim hat fast dreimal so viele Einwohner wie Schallstadt."
+],
+"393-bad-krozingen": [
+"Bad Krozingen und Müllheim sind fast gleich groß: rund 22.000 und 20.000 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Müllheim die Grünen."
+],
+"394-heitersheim": [
+"Einwohner: Müllheim hat rund dreimal so viele wie Heitersheim.",
+"Fläche: Müllheim ist fast fünfmal so groß wie Heitersheim."
+]
+},
+"ags": "08315074",
+"ortsteil": false,
+"km_vom_vorigen": 7.7
+},
+{
+"slug": "396-waldkirch",
+"name": "Waldkirch",
+"lat": 48.09389,
+"lon": 7.96083,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldkirch",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 14 km nordöstlich von Freiburg im Breisgau.",
+"frage": "1288 kamen im Waldkircher Stadtteil Suggental viele Menschen ums Leben. Was war geschehen?",
+"optionen": [
+"Nach einem Unwetter brach ein Damm.",
+"Ein Erdbeben ließ die Häuser einstürzen.",
+"Ein Großbrand vernichtete die ganze Siedlung.",
+"Eine Seuche raffte die Bewohner dahin."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Großbrand liegt nahe, denn Feuer war im Mittelalter die große Gefahr für Siedlungen. In Suggental kam das Unheil aber vom Wasser: Für den Silberbergbau wurde Wasser in mehreren Stauseen gesammelt. Nach einem schweren Unwetter brach der Damm, die Fluten rissen die Baracken der Bergleute hinweg, viele Menschen starben. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stadt-waldkirch.de/start/stadtinfo+und+politik/suggental.html",
+"faktencheck": "korrigiert",
+"id": "396-waldkirch/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Waldkirch",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 14 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner leben in Waldkirch durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 250",
+"250 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt dieser Größe schätzt man leicht über 500. Doch zu Waldkirch gehören auch ländliche Stadtteile wie Siensbach, dessen Höfe am Nordhang des Kandel liegen. Das drückt den Schnitt: Rechnerisch kommen 448 Einwohner auf einen Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "396-waldkirch/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Waldkirch",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern am Ausgang des Elztals, 14 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Buchholzer Winzer haben sich auf Riesling spezialisiert.",
+"Die Suggentaler Fasnetsfigur Schreckli stellt einen Waldgeist dar.",
+"Schloss Buchholz ließ ein Freiburger Bürgermeister erbauen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Riesling klingt nach deutschem Wein schlechthin, und in Buchholz wird tatsächlich Wein angebaut. Doch im badischen Süden dominieren die Burgunder, und darauf setzen auch die Buchholzer: Spät-, Weiß- und Grauburgunder. Das Schreckli ist wirklich ein Waldgeist, das Schloss ließ der Freiburger Bürgermeister Franz Anton von Bayer bauen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.stadt-waldkirch.de/start/stadtinfo+und+politik/buchholz.html",
+"faktencheck": "bestätigt",
+"id": "396-waldkirch/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Waldkirch",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern im Landkreis Emmendingen, 14 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Waldkirch nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"CDU",
+"Grüne"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit landete die AfD auf Platz zwei, das liegt als Tipp nahe. Waldkirch liegt aber nahe Freiburg, einer Hochburg der Grünen. Sie holten in Waldkirch 18,6 Prozent der Zweitstimmen, knapp vor der SPD. Die AfD folgte erst auf Platz vier, stärkste Kraft wurde die CDU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "396-waldkirch/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldkirch",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 14 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Das Elztalmuseum zeigt in Waldkirch gebaute Musikautomaten, Konzert- und Jahrmarktorgeln. In welchem Gebäude ist es untergebracht?",
+"optionen": [
+"Es nutzt ein barockes Chorherrenstift.",
+"Es nutzt ein umgebautes Bahnhofsgebäude.",
+"Es nutzt eine mittelalterliche Burg.",
+"Es nutzt einen alten Schwarzwaldhof."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Schwarzwaldhof liegt nahe, denn in solchen Höfen sind viele Heimatmuseen der Region untergebracht. Das Elztalmuseum aber steht am Kirchplatz in einem barocken Chorherrenstift. Chorherren waren Geistliche, die gemeinsam an einer Kirche lebten. Neben Orgeln zeigt das Museum auch Stadtgeschichte, die Badische Revolution und das Handwerk der Edelsteinschleifer. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stadt-waldkirch.de/start/stadtinformation+und+tourismus/elztalmuseum.html",
+"faktencheck": "bestätigt",
+"id": "396-waldkirch/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Waldkirch",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern am Ausgang des Elztals, 14 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist Waldkirch in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"91 km",
+"118 km",
+"147 km",
+"176 km"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer die Fahrt kennt, tippt eher hoch, denn Straßen müssen den Schwarzwald umgehen oder überwinden. Die Luftlinie führt dagegen quer über das Gebirge: Von Waldkirch bis Stuttgart sind es 118 Kilometer. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "396-waldkirch/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldkirch",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern am Ausgang des Elztals, 14 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Buchholz, ein Stadtteil Waldkirchs, hat Chavanay in Frankreich als Partnergemeinde. Womit fing die Verbindung an?",
+"optionen": [
+"Eine Fußballelf spielte dort ein Turnier.",
+"Ein Pfarrer aus Chavanay kam nach Buchholz.",
+"Der Musikverein war zu einem Jubiläum eingeladen.",
+"Eine Schulklasse verbrachte dort eine Klassenfahrt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Klassenfahrt liegt nahe, denn viele Partnerschaften beginnen an Schulen. In Buchholz war es die Musik: Der Musikverein wurde zum Jubiläum der „Fanfare de Chavanay“ eingeladen. Aus dieser Einladung erwuchs Jahre später die enge Partnerschaft der beiden Orte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stadt-waldkirch.de/start/stadtinfo+und+politik/buchholz.html",
+"faktencheck": "korrigiert",
+"id": "396-waldkirch/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldkirch",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern, 14 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Die Stadt stellt ihren Stadtteil Buchholz als „Florida des Elztals“ vor. Was hebt sie unter diesem Beinamen hervor?",
+"optionen": [
+"Eine einstige Sumpflandschaft in der Talaue.",
+"Ein mediterran anmutendes Klima.",
+"Orangenbäume an den Hängen.",
+"Einen Auswanderer, der nach Florida ging."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Orangenbäume liegen nahe, Florida ist schließlich für Zitrusfrüchte bekannt. Die Stadt nennt aber das Klima: In Buchholz sei es mediterran anmutend und begünstige Obst- und Weinanbau. Der Ort liegt zwischen Rebhängen und Obstgärten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-waldkirch.de/start/stadtinfo+und+politik/buchholz.html",
+"faktencheck": "korrigiert",
+"id": "396-waldkirch/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldkirch",
+"steckbrief": "Stadt mit rund 22.000 Einwohnern am Ausgang des Elztals, 14 km nordöstlich von Freiburg im Breisgau.",
+"frage": "Im späten Mittelalter wurde der heutige Waldkircher Stadtteil Suggental zum Heilbad. Was machte ihn dazu?",
+"optionen": [
+"Ein Moor lieferte Schlamm für Heilbäder.",
+"Eine salzhaltige Solequelle trat dort zutage.",
+"Ein Wallfahrtsbrunnen galt als wundertätig.",
+"Schwefelhaltige Quellen entsprangen dort."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Solequelle liegt nahe, viele alte Bäder verdanken ihren Ruf dem Salz. Suggental aber hatte Schwefelquellen, und eine davon fließt noch heute. Früher war Suggental zudem Luftkurort. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stadt-waldkirch.de/start/stadtinfo+und+politik/suggental.html",
+"faktencheck": "bestätigt",
+"id": "396-waldkirch/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "395-muellheim",
+"anschluss": [
+"Kennzeichen: In Waldkirch steht EM am Auto, in Müllheim FR.",
+"Bundestagswahl 2025: Die Grünen lagen in Waldkirch und Müllheim fast gleichauf."
+],
+"anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Waldkirch zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Waldkirch die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Waldkirch zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Waldkirch die CDU."
+],
+"389-merzhausen": [
+"Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Waldkirch die CDU."
+],
+"390-au-breisgau": [
+"Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Waldkirch die CDU."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Waldkirch zum Landkreis Emmendingen.",
+"Waldkirch hat viermal so viele Einwohner wie Hochdorf."
+],
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+"Waldkirch hat fast zweieinhalbmal so viele Einwohner wie March."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+"Waldkirch hat siebenmal so viele Einwohner wie Gottenheim."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+"Waldkirch hat viermal so viele Einwohner wie Bötzingen."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+"Waldkirch hat fast sechsmal so viele Einwohner wie Eichstetten."
+],
+"398-voerstetten": [
+"Waldkirch hat siebenmal so viele Einwohner wie Vörstetten."
+],
+"399-reute": [
+"Waldkirch hat gut siebenmal so viele Einwohner wie Reute.",
+"Reute liegt rund 680 Meter höher als Waldkirch."
+],
+"400-teningen": [
+"Waldkirch hat fast doppelt so viele Einwohner wie Teningen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Waldkirch die Grünen."
+],
+"401-bahlingen": [
+"Waldkirch hat fast fünfmal so viele Einwohner wie Bahlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Waldkirch die Grünen."
+],
+"402-riegel": [
+"Waldkirch hat gut fünfmal so viele Einwohner wie Riegel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Riegel die AfD, in Waldkirch die Grünen."
+],
+"403-endingen": [
+"Waldkirch hat gut doppelt so viele Einwohner wie Endingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Endingen die AfD, in Waldkirch die Grünen."
+],
+"71-stegen": [
+"Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+"Waldkirch hat fast fünfmal so viele Einwohner wie Stegen."
+],
+"72-oberried": [
+"Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+"Waldkirch hat achtmal so viele Einwohner wie Oberried."
+],
+"73-buchenbach": [
+"Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+"Waldkirch hat siebenmal so viele Einwohner wie Buchenbach."
+],
+"11-emmendingen": [
+"Emmendingen hat rund 7.800 Einwohner mehr als Waldkirch."
+],
+"01-kenzingen": [
+"Waldkirch hat doppelt so viele Einwohner wie Kenzingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kenzingen die AfD, in Waldkirch die Grünen."
+],
+"12-herbolzheim": [
+"Waldkirch hat doppelt so viele Einwohner wie Herbolzheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Herbolzheim die AfD, in Waldkirch die Grünen."
+],
+"395-muellheim": [
+"Kennzeichen: In Waldkirch steht EM am Auto, in Müllheim FR.",
+"Bundestagswahl 2025: Die Grünen lagen in Waldkirch und Müllheim fast gleichauf."
+]
+},
+"ags": "08316056",
+"ortsteil": false,
+"km_vom_vorigen": 40.2
+},
+{
+"slug": "397-hochdorf-freiburg",
+"name": "Hochdorf",
+"lat": 48.05,
+"lon": 7.80194,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
+"frage": "Der erste schriftliche Beleg für Hochdorf stammt aus dem Jahr 773. Wovon erzählt er?",
+"optionen": [
+"Besitz im Ort ging an das Kloster Reichenau.",
+"Besitz im Ort ging an das Kloster St. Trudpert.",
+"Besitz im Ort ging an das Kloster Murbach.",
+"Besitz im Ort ging an das Kloster Lorsch."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster aus der Nähe liegt als Vermutung nahe. Der Beleg steht aber im Lorscher Codex, der Besitzübertragungen an das Kloster Lorsch vermerkt: Besitz in Hochdorf ging damals an dieses Kloster. Hochdorf wird damit Jahrhunderte vor der Gründung Freiburgs erwähnt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
+"faktencheck": "korrigiert",
+"id": "397-hochdorf-freiburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hochdorf",
+"steckbrief": "Stadtteil von Freiburg im Breisgau, 7 km nordwestlich der Stadtmitte, Fläche rund 10 km².",
+"frage": "Wie viele Menschen leben im Freiburger Stadtteil Hochdorf?",
+"optionen": [
+"unter 6.000",
+"6.000 bis unter 9.000",
+"9.000 bis unter 12.000",
+"12.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Als Stadtteil einer Großstadt schätzt man Hochdorf leicht größer ein. Doch zum Stadtteil gehören neben dem Ort selbst nur Benzhausen und das Gewerbegebiet Markwald. Wikidata nennt 5.308 Einwohner (Stand 2024). Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2024; Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
+"faktencheck": "bestätigt",
+"id": "397-hochdorf-freiburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Auch Benzhausen gehört zum Freiburger Stadtteil Hochdorf.",
+"Die Benzhausener Kapelle blieb im Dreißigjährigen Krieg verschont.",
+"Am Högebrunnenplatz fließt ein nachgebautes Freiburger Bächle."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Bächle wirken erfunden, weil sie das Markenzeichen der Freiburger Innenstadt sind; am Högebrunnenplatz wurden sie nachgebildet. Gelogen ist die Kapelle: St. Agatha in Benzhausen musste nach dem Dreißigjährigen Krieg wieder aufgebaut werden. Benzhausen gehört tatsächlich zu Hochdorf. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
+"faktencheck": "bestätigt",
+"id": "397-hochdorf-freiburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 im Freiburger Stadtbezirk Hochdorf?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 80 %",
+"80 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Großstädte verbindet man oft mit geringerer Beteiligung, und Hochdorf gehört zu Freiburg. Hier lag sie aber bei 83,9 Prozent; bei den Zweitstimmen wurde die CDU stärkste Partei, vor den Grünen. Stand: Wahl vom 23. Februar 2025. Richtig war 3.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "397-hochdorf-freiburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
+"frage": "Bekannt ist der Tunisee in Hochdorf durch das Sea You Festival. Wie ist der See entstanden?",
+"optionen": [
+"Er ist ein natürlicher Altarm des Rheins.",
+"Er füllt einen alten Torfstich im Mooswald.",
+"Er wurde für das Sea You Festival ausgehoben.",
+"Er entstand beim Bau der Autobahn A5."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein stiller See am Oberrhein lässt schnell an einen alten Rheinarm denken. Der Tunisee ist aber menschengemacht: Er entstand beim Straßenbau in der Umgebung, als die Autobahn A5 gebaut wurde. Auf dieselbe Weise entstand der Silbersee. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "397-hochdorf-freiburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
+"frage": "In welchem Zeitraum wurde Hochdorf nach Freiburg eingemeindet?",
+"optionen": [
+"vor 1974",
+"1974 bis 1989",
+"1990 bis 2004",
+"2005 oder später"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Hochdorf liegt weit draußen; das spricht scheinbar für einen späten Anschluss. Eingemeindet wurde es aber am 1. September 1973. Politisch trennte sich Hochdorf damit von den übrigen Marchgemeinden, zu denen es geschichtlich zählt. Richtig war 1.",
+"quelle": "dewiki Infobox; Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
+"faktencheck": "korrigiert",
+"id": "397-hochdorf-freiburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
+"frage": "Wie viele Einwohner zählte Hochdorf im Jahr 1963?",
+"optionen": [
+"unter 800",
+"800 bis unter 2.000",
+"2.000 bis unter 3.500",
+"3.500 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer die heutige Einwohnerzahl kennt, rechnet auch für damals mit einem großen Ort. Doch 1963 zählte Hochdorf erst 1.000 Einwohner. Der Ort ist also erst in den Jahrzehnten danach stark gewachsen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
+"faktencheck": "bestätigt",
+"id": "397-hochdorf-freiburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
+"frage": "Am südlichen Ortseingang steht die Holzskulptur „Weltenlenker“. Woher stammt ihr Holz?",
+"optionen": [
+"Von der alten Linde am Kirchplatz.",
+"Aus Balken eines abgerissenen Bauernhauses.",
+"Von einer Eiche, die nach einem Waldfest umstürzte.",
+"Von einer Eiche, gefällt für das Gewerbegebiet."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Dorfskulptur denkt man an einen Baum, der für Bauarbeiten fallen musste. Doch kurz nach dem Waldfest stürzte eine entwurzelte Mooswaldeiche um. Der Freiburger Bildhauer Thomas Rees schuf daraus den Weltenlenker. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "397-hochdorf-freiburg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
+"frage": "Das Hochdorfer Wappen zeigt oben einen Greif. Woher stammt dieses Wappenbild?",
+"optionen": [
+"Aus dem Wappen der Grundherren Stürtzel.",
+"Aus dem Wappen der Stadt Freiburg.",
+"Aus dem Wappen der Grundherren Schnewlin.",
+"Aus dem Wappen des Bistums Konstanz."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Wappentier denkt man zuerst an eine Stadt oder ein Bistum. Der Greif stammt aber von den Stürtzel, einst Grundherren in Hochdorf. Auch eine weitere Grundherrenfamilie ist vertreten: Die grüne Fläche unten kommt von den Schnewlin. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "397-hochdorf-freiburg/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "396-waldkirch",
+"anschluss": [
+"Kennzeichen: In Hochdorf steht FR am Auto, in Waldkirch EM.",
+"Fläche: Waldkirch ist fast fünfmal so groß wie Hochdorf."
+],
+"anschluesse": {
+"387-ebnet": [
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Hochdorf die CDU.",
+"Hochdorf hat fast doppelt so viele Einwohner wie Ebnet."
+],
+"388-littenweiler": [
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Hochdorf die CDU.",
+"Littenweiler hat gut anderthalbmal so viele Einwohner wie Hochdorf."
+],
+"389-merzhausen": [
+"Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Hochdorf die CDU."
+],
+"390-au-breisgau": [
+"Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Hochdorf die CDU."
+],
+"391-ebringen": [
+"Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Hochdorf hat fast doppelt so viele Einwohner wie Ebringen."
+],
+"392-schallstadt": [
+"Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Schallstadt hat rund 1.700 Einwohner mehr als Hochdorf."
+],
+"393-bad-krozingen": [
+"Kreisgrenze: Bad Krozingen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bad Krozingen hat viermal so viele Einwohner wie Hochdorf."
+],
+"396-waldkirch": [
+"Kennzeichen: In Hochdorf steht FR am Auto, in Waldkirch EM.",
+"Fläche: Waldkirch ist fast fünfmal so groß wie Hochdorf."
+],
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"March hat fast doppelt so viele Einwohner wie Hochdorf."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Hochdorf hat gut anderthalbmal so viele Einwohner wie Gottenheim."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Bötzingen und Hochdorf sind fast gleich groß: rund 5.500 und 5.300 Einwohner."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Hochdorf hat fast anderthalbmal so viele Einwohner wie Eichstetten."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Hochdorf hat gut anderthalbmal so viele Einwohner wie Vörstetten."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Hochdorf hat fast doppelt so viele Einwohner wie Reute."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Teningen hat fast zweieinhalbmal so viele Einwohner wie Hochdorf."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Hochdorf hat rund 800 Einwohner mehr als Bahlingen."
+],
+"402-riegel": [
+"Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Hochdorf hat rund 1.300 Einwohner mehr als Riegel."
+],
+"403-endingen": [
+"Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Endingen hat doppelt so viele Einwohner wie Hochdorf."
+],
+"69-ihringen": [
+"Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Ihringen hat rund 1.000 Einwohner mehr als Hochdorf."
+],
+"70-breisach": [
+"Kreisgrenze: Breisach gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Breisach hat gut dreimal so viele Einwohner wie Hochdorf."
+],
+"71-stegen": [
+"Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Hochdorf hat rund 800 Einwohner mehr als Stegen."
+],
+"72-oberried": [
+"Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Hochdorf hat fast doppelt so viele Einwohner wie Oberried."
+],
+"73-buchenbach": [
+"Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Hochdorf hat gut anderthalbmal so viele Einwohner wie Buchenbach."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Emmendingen hat fast sechsmal so viele Einwohner wie Hochdorf."
+],
+"01-kenzingen": [
+"Kreisgrenze: Kenzingen gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Kenzingen hat doppelt so viele Einwohner wie Hochdorf."
+],
+"12-herbolzheim": [
+"Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+"Herbolzheim hat doppelt so viele Einwohner wie Hochdorf."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"km_vom_vorigen": 12.8
+},
+{
 "slug": "65-march",
 "name": "March",
 "lat": 48.05611,
@@ -5220,9 +8122,45 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": null,
+"anschluss_von": "397-hochdorf-freiburg",
 "anschluss": [],
 "anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, March zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in March die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, March zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in March die CDU."
+],
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in March die CDU.",
+"March hat gut anderthalbmal so viele Einwohner wie Merzhausen."
+],
+"390-au-breisgau": [
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in March die CDU.",
+"March hat gut sechsmal so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"March hat fast dreieinhalbmal so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in March die SPD."
+],
+"392-schallstadt": [
+"March hat rund 2.400 Einwohner mehr als Schallstadt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in March die SPD."
+],
+"393-bad-krozingen": [
+"Bad Krozingen hat fast zweieinhalbmal so viele Einwohner wie March.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in March die SPD."
+],
+"396-waldkirch": [
+"Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+"Waldkirch hat fast zweieinhalbmal so viele Einwohner wie March."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, March zum Landkreis Breisgau-Hochschwarzwald.",
+"March hat fast doppelt so viele Einwohner wie Hochdorf."
+],
 "66-gottenheim": [
 "March hat dreimal so viele Einwohner wie Gottenheim."
 ],
@@ -5232,6 +8170,30 @@ window.QA_DATEN = {
 "68-eichstetten": [
 "March hat zweieinhalbmal so viele Einwohner wie Eichstetten.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in March die SPD."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+"March hat dreimal so viele Einwohner wie Vörstetten."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+"March hat gut dreimal so viele Einwohner wie Reute."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+"Teningen hat rund 2.700 Einwohner mehr als March."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+"March hat doppelt so viele Einwohner wie Bahlingen."
+],
+"402-riegel": [
+"Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+"March hat fast zweieinhalbmal so viele Einwohner wie Riegel."
+],
+"403-endingen": [
+"Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+"Endingen hat rund 1.200 Einwohner mehr als March."
 ],
 "69-ihringen": [
 "March hat anderthalbmal so viele Einwohner wie Ihringen."
@@ -5266,7 +8228,8 @@ window.QA_DATEN = {
 ]
 },
 "ags": "08315132",
-"ortsteil": false
+"ortsteil": false,
+"km_vom_vorigen": 1.6
 },
 {
 "slug": "66-gottenheim",
@@ -5480,6 +8443,42 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In March und in Gottenheim lag die CDU vorn, mit 31,4 und 33,8 Prozent."
 ],
 "anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Gottenheim die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Gottenheim die CDU."
+],
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Gottenheim die CDU.",
+"Merzhausen hat gut anderthalbmal so viele Einwohner wie Gottenheim."
+],
+"390-au-breisgau": [
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Gottenheim die CDU.",
+"Gottenheim hat gut doppelt so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Gottenheim hat rund 300 Einwohner mehr als Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Gottenheim die SPD."
+],
+"392-schallstadt": [
+"Schallstadt hat gut doppelt so viele Einwohner wie Gottenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Gottenheim die SPD."
+],
+"393-bad-krozingen": [
+"Bad Krozingen hat siebenmal so viele Einwohner wie Gottenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Gottenheim die SPD."
+],
+"396-waldkirch": [
+"Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Waldkirch hat siebenmal so viele Einwohner wie Gottenheim."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Hochdorf hat gut anderthalbmal so viele Einwohner wie Gottenheim."
+],
 "65-march": [
 "March hat fast dreimal so viele Einwohner wie Gottenheim.",
 "Bundestagswahl 2025: In March und in Gottenheim lag die CDU vorn, mit 31,4 und 33,8 Prozent."
@@ -5490,6 +8489,30 @@ window.QA_DATEN = {
 "68-eichstetten": [
 "Eichstetten hat rund 600 Einwohner mehr als Gottenheim.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in Gottenheim die SPD."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Vörstetten und Gottenheim sind fast gleich groß: rund 3.200 und 3.200 Einwohner."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Reute und Gottenheim sind fast gleich groß: rund 3.000 und 3.200 Einwohner."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Teningen hat fast viermal so viele Einwohner wie Gottenheim."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Bahlingen hat fast anderthalbmal so viele Einwohner wie Gottenheim."
+],
+"402-riegel": [
+"Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Riegel hat rund 800 Einwohner mehr als Gottenheim."
+],
+"403-endingen": [
+"Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Endingen hat fast dreieinhalbmal so viele Einwohner wie Gottenheim."
 ],
 "69-ihringen": [
 "Ihringen hat doppelt so viele Einwohner wie Gottenheim."
@@ -5691,6 +8714,42 @@ window.QA_DATEN = {
 "Gottenheim und Bötzingen gehören beide zum Gemeindeverwaltungsverband Kaiserstuhl-Tuniberg."
 ],
 "anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Bötzingen die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Bötzingen die CDU."
+],
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Bötzingen die CDU.",
+"Merzhausen und Bötzingen sind fast gleich groß: rund 5.400 und 5.500 Einwohner."
+],
+"390-au-breisgau": [
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Bötzingen die CDU.",
+"Bötzingen hat gut dreieinhalbmal so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Bötzingen hat fast doppelt so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Bötzingen die SPD."
+],
+"392-schallstadt": [
+"Schallstadt hat rund 1.400 Einwohner mehr als Bötzingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Bötzingen die SPD."
+],
+"393-bad-krozingen": [
+"Bad Krozingen hat viermal so viele Einwohner wie Bötzingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Bötzingen die SPD."
+],
+"396-waldkirch": [
+"Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Waldkirch hat viermal so viele Einwohner wie Bötzingen."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Hochdorf und Bötzingen sind fast gleich groß: rund 5.300 und 5.500 Einwohner."
+],
 "65-march": [
 "March hat gut anderthalbmal so viele Einwohner wie Bötzingen."
 ],
@@ -5701,6 +8760,30 @@ window.QA_DATEN = {
 "68-eichstetten": [
 "Bötzingen hat anderthalbmal so viele Einwohner wie Eichstetten.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in Bötzingen die SPD."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bötzingen hat gut anderthalbmal so viele Einwohner wie Vörstetten."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bötzingen hat fast doppelt so viele Einwohner wie Reute."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Teningen hat gut doppelt so viele Einwohner wie Bötzingen."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bötzingen hat rund 1.000 Einwohner mehr als Bahlingen."
+],
+"402-riegel": [
+"Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bötzingen hat rund 1.500 Einwohner mehr als Riegel."
+],
+"403-endingen": [
+"Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Endingen hat fast doppelt so viele Einwohner wie Bötzingen."
 ],
 "69-ihringen": [
 "Ihringen hat rund 800 Einwohner mehr als Bötzingen."
@@ -5918,6 +9001,41 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Eichstetten die AfD."
 ],
 "anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Eichstetten die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Eichstetten die CDU."
+],
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Eichstetten die CDU.",
+"Merzhausen hat fast anderthalbmal so viele Einwohner wie Eichstetten."
+],
+"390-au-breisgau": [
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Eichstetten die CDU.",
+"Eichstetten hat zweieinhalbmal so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Eichstetten hat rund 900 Einwohner mehr als Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Eichstetten die AfD."
+],
+"392-schallstadt": [
+"Schallstadt hat fast doppelt so viele Einwohner wie Eichstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Eichstetten die AfD."
+],
+"393-bad-krozingen": [
+"Bad Krozingen hat fast sechsmal so viele Einwohner wie Eichstetten."
+],
+"396-waldkirch": [
+"Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Waldkirch hat fast sechsmal so viele Einwohner wie Eichstetten."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Hochdorf hat fast anderthalbmal so viele Einwohner wie Eichstetten."
+],
 "65-march": [
 "March hat zweieinhalbmal so viele Einwohner wie Eichstetten.",
 "Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Eichstetten die AfD."
@@ -5929,6 +9047,30 @@ window.QA_DATEN = {
 "67-boetzingen": [
 "Bötzingen hat rund 1.800 Einwohner mehr als Eichstetten.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Eichstetten die AfD."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Eichstetten hat rund 600 Einwohner mehr als Vörstetten."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Eichstetten hat rund 800 Einwohner mehr als Reute."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Teningen hat gut dreimal so viele Einwohner wie Eichstetten."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Bahlingen hat rund 800 Einwohner mehr als Eichstetten."
+],
+"402-riegel": [
+"Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Riegel und Eichstetten sind fast gleich groß: rund 4.000 und 3.800 Einwohner."
+],
+"403-endingen": [
+"Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Endingen hat fast dreimal so viele Einwohner wie Eichstetten."
 ],
 "69-ihringen": [
 "Ihringen hat gut anderthalbmal so viele Einwohner wie Eichstetten.",
@@ -5953,6 +9095,1720 @@ window.QA_DATEN = {
 "ags": "08315030",
 "ortsteil": false,
 "km_vom_vorigen": 2.4
+},
+{
+"slug": "398-voerstetten",
+"name": "Vörstetten",
+"lat": 48.06417,
+"lon": 7.84917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vörstetten",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Woher kommt der Ortsname Vörstetten nach der Ortsgeschichte der Gemeinde?",
+"optionen": [
+"Der Name meint ein Dorf vor der Stadt.",
+"Der Name meint einen Ort bei Föhren.",
+"Der Name meint eine Stätte in weiter Niederung.",
+"Der Name meint eine Siedlung an einer Furt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Vor der Stadt liegt nahe, denn Freiburg ist nur wenige Kilometer entfernt und der heutige Name klingt danach. Nach Auffassung der Historiker, die die Ortsgeschichte der Gemeinde wiedergibt, deutet der Name aber auf eine Stätte oder einen Platz in der sich weithin ausdehnenden Niederung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, voerstetten.de/p/geschichte",
+"faktencheck": "korrigiert",
+"id": "398-voerstetten/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Vörstetten",
+"steckbrief": "Gemeinde im Landkreis Emmendingen, 8 km nördlich von Freiburg im Breisgau, mit 7,88 km² Gemarkung.",
+"frage": "Wie viele Menschen wohnen in Vörstetten?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 3.000",
+"3.000 bis unter 4.000"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Zwischen 2.000 und 3.000 liegt nahe, denn Vörstetten wirkt mit seiner kleinen Gemarkung wie ein Dorf. Doch Ende 2025 zählte die Gemeinde 3.180 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "398-voerstetten/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Vörstetten",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die mittelalterliche Burg stand auf einem Berg.",
+"Ein Mühlstein stammt aus einer ehemaligen Mühle.",
+"Ein hölzerner Schieber bewässerte früher die Wiesen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Berg liegt nahe, denn Burgen denkt man sich meist auf Anhöhen. Die Burg in Vörstetten war aber eine Tiefburg, also eine Burg in der Ebene. Sie stand südlich des Mühlbachs auf Höhe der unteren Mühle; ein Luftbild mit konzentrischen Kreisen wies sie nach. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, voerstetten.de/p/geschichte",
+"faktencheck": "korrigiert",
+"id": "398-voerstetten/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Vörstetten",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Vörstetten die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"Grüne",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn sie wurde 2025 vielerorts zweitstärkste Kraft. In Vörstetten kamen aber die Grünen mit 20,4 Prozent knapp vor der SPD mit 19 Prozent auf Platz zwei, hinter der CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "398-voerstetten/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„Ausgrabungen in Vörstetten legten eine Siedlung aus dem 4. und 5. Jahrhundert n. Chr. frei. Wer lebte dort?“ (Optionen 1–4 bleiben gleich.) RÜCKSEITE: „Du hattest [Option] getippt. Kelten liegen nahe, denn sie gelten als frühe Bewohner des Oberrheingebiets. Die Grabungen von 1998 bis 2000 zeigten aber eine frühalamannische Siedlung. Nach Angaben der Gemeinde ist sie bisher die einzige ihrer Art. Heute zeigt das Alamannen-Museum im Ort, wie man dort lebte. Richtig war 3.“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kelten liegen nahe, denn sie gelten als frühe Bewohner des Oberrheingebiets. Die Grabungen in Vörstetten zeigten aber eine frühalamannische Siedlung, nach Angaben der Gemeinde die bisher einzige ihrer Art. Alamannen nennt man die germanischen Gruppen, aus denen später die Schwaben hervorgingen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, voerstetten.de/p/geschichte",
+"faktencheck": "korrigiert",
+"id": "398-voerstetten/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Vörstetten",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Vörstetten?",
+"optionen": [
+"FR",
+"OG",
+"LÖ",
+"EM"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. FR liegt nahe, denn Freiburg ist nur wenige Kilometer entfernt. Vörstetten gehört aber zum Landkreis Emmendingen, und dessen Hauptkennzeichen ist EM. Richtig war 4.",
+"quelle": "Wikidata P395; Landkreis: dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "398-voerstetten/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vörstetten",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Im Jahr 993 verschenkte Graf Birchtilo Vörstetten samt anderen Gütern. Wer bekam die Schenkung?",
+"optionen": [
+"Sie ging an eine Kirche in Sulzburg.",
+"Sie ging an das Kloster Reichenau.",
+"Sie ging an den Dom zu Konstanz.",
+"Sie ging an das Kloster St. Gallen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Kloster Reichenau liegt nahe, denn große Klöster erhielten damals viele solche Schenkungen. Graf Birchtilo gab Vörstetten mit anderen Gütern aber der Kirche des Heiligen Cyriak in Sulzburg. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, voerstetten.de/p/geschichte",
+"faktencheck": "bestätigt",
+"id": "398-voerstetten/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vörstetten",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Wie entstand der Vörstetter Baggersee?",
+"optionen": [
+"Er war früher ein Seitenarm des Rheins.",
+"Er entstand mit dem Bau der Autobahn.",
+"Er wurde als Hochwasserbecken angelegt.",
+"Er entstand in einer alten Ziegelei-Lehmgrube."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein alter Rheinarm liegt nahe, denn in der Oberrheinebene gibt es viele solche Altwasser. Der Vörstetter Baggersee entstand aber mit dem Bau der Autobahn; das Wort Baggersee verrät die Baggerarbeit. Heute ist er Fischgewässer des Angelsportclubs Vörstetten. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Vörstetten",
+"faktencheck": "unsicher",
+"id": "398-voerstetten/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„1803 wurde die evangelische Kirche in Vörstetten erweitert. Nach welchem Baumeister ist ihr Baustil benannt? 1. Nach Karl Friedrich Schinkel. 2. Nach Leo von Klenze. 3. Nach Nikolaus von Thouret. 4. Nach Friedrich Weinbrenner.“ RÜCKSEITE: „Du hattest [Option] getippt. Schinkel liegt nahe, denn sein Name steht für den deutschen Klassizismus. Die Kirche von 1803 ist aber im Weinbrennerstil gebaut, benannt nach dem badischen Baumeister Friedrich Weinbrenner. Die Orgel baute Mathias Martin 1803/04. Richtig war 4. Quelle: LEO-BW, Denkmalliste Evangelische Kirche Vörstetten“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Schinkel liegt nahe, denn sein Name steht für den deutschen Klassizismus. Die Erweiterung der Kirche stammte aber von Friedrich Weinbrenner. In der Kirche mitten im Dorf steht zudem eine historische Orgel von Mathias Martin. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Vörstetten",
+"faktencheck": "korrigiert",
+"id": "398-voerstetten/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "68-eichstetten",
+"anschluss": [
+"Kreisgrenze: In Eichstetten steht FR am Auto, in Vörstetten EM.",
+"Bundestagswahl 2025: Grüne in Vörstetten 20,4, in Eichstetten 13,3 Prozent."
+],
+"anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Vörstetten zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Vörstetten die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Vörstetten zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Vörstetten die CDU."
+],
+"389-merzhausen": [
+"Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Vörstetten die CDU."
+],
+"390-au-breisgau": [
+"Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Vörstetten die CDU."
+],
+"391-ebringen": [
+"Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"Vörstetten hat rund 300 Einwohner mehr als Ebringen."
+],
+"392-schallstadt": [
+"Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"Schallstadt hat gut doppelt so viele Einwohner wie Vörstetten."
+],
+"393-bad-krozingen": [
+"Kreisgrenze: Bad Krozingen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"Bad Krozingen hat siebenmal so viele Einwohner wie Vörstetten."
+],
+"396-waldkirch": [
+"Waldkirch hat siebenmal so viele Einwohner wie Vörstetten."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Vörstetten zum Landkreis Emmendingen.",
+"Hochdorf hat gut anderthalbmal so viele Einwohner wie Vörstetten."
+],
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"March hat dreimal so viele Einwohner wie Vörstetten."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"Gottenheim und Vörstetten sind fast gleich groß: rund 3.200 und 3.200 Einwohner."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"Bötzingen hat gut anderthalbmal so viele Einwohner wie Vörstetten."
+],
+"68-eichstetten": [
+"Kreisgrenze: In Eichstetten steht FR am Auto, in Vörstetten EM.",
+"Bundestagswahl 2025: Grüne in Vörstetten 20,4, in Eichstetten 13,3 Prozent."
+],
+"399-reute": [
+"Reute und Vörstetten sind fast gleich groß: rund 3.000 und 3.200 Einwohner.",
+"Reute liegt rund 730 Meter höher als Vörstetten."
+],
+"400-teningen": [
+"Teningen hat fast viermal so viele Einwohner wie Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Vörstetten die Grünen."
+],
+"401-bahlingen": [
+"Bahlingen hat fast anderthalbmal so viele Einwohner wie Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Vörstetten die Grünen."
+],
+"402-riegel": [
+"Riegel hat rund 800 Einwohner mehr als Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Riegel die AfD, in Vörstetten die Grünen."
+],
+"403-endingen": [
+"Endingen hat fast dreieinhalbmal so viele Einwohner wie Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Endingen die AfD, in Vörstetten die Grünen."
+],
+"69-ihringen": [
+"Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"Ihringen hat doppelt so viele Einwohner wie Vörstetten."
+],
+"71-stegen": [
+"Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"Stegen hat fast anderthalbmal so viele Einwohner wie Vörstetten."
+],
+"72-oberried": [
+"Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"Vörstetten hat rund 400 Einwohner mehr als Oberried."
+],
+"73-buchenbach": [
+"Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+"Buchenbach und Vörstetten sind fast gleich groß: rund 3.200 und 3.200 Einwohner."
+],
+"11-emmendingen": [
+"Emmendingen hat gut neunmal so viele Einwohner wie Vörstetten."
+],
+"01-kenzingen": [
+"Kenzingen hat dreieinhalbmal so viele Einwohner wie Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kenzingen die AfD, in Vörstetten die Grünen."
+],
+"12-herbolzheim": [
+"Herbolzheim hat fast dreieinhalbmal so viele Einwohner wie Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Herbolzheim die AfD, in Vörstetten die Grünen."
+]
+},
+"ags": "08316045",
+"ortsteil": false,
+"km_vom_vorigen": 8.5
+},
+{
+"slug": "399-reute",
+"name": "Reute",
+"lat": 48.08333,
+"lon": 7.82556,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reute",
+"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "1757 brannte das Schloss der Familie Harsch in Reute. Welche Ursache nennt die Ortsgeschichte?",
+"optionen": [
+"Ein Blitz schlug in den Dachstuhl ein.",
+"Herdfeuer sprang beim Kochen ins Pfannenfett.",
+"Ein Knecht schlief mit brennender Pfeife ein.",
+"Funken aus der Dorfschmiede flogen aufs Dach."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Blitz liegt nahe, denn er traf früher oft große Dächer. Laut Ortsgeschichte bereitete man aber ein Gastmahl vor, und das Herdfeuer sprang ins Pfannenfett. Dabei wurden Lagebücher und Steuerregister vernichtet; die Herrschaft zog nach Holzhausen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/die-familie-harsch",
+"faktencheck": "bestätigt",
+"id": "399-reute/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Reute",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Reute?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 4 km²",
+"4 bis unter 7 km²",
+"7 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dorf in der Rheinebene erwartet man viel Feld drumherum, also eine größere Gemarkung. Reute ist aber eng bemessen: Die Gemeinde umfasst 4,79 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "399-reute/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Reute",
+"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Früher wurde in Reute Hanf angebaut.",
+"Im Ersten Weltkrieg wurde in Reute selbst gekämpft.",
+"Früher lief das Abwasser durch den Dorfbach."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hanf klingt heute nach Rauschmittel, ist aber belegt; später ersetzte ihn der Tabak. Auch das Abwasser lief durch den Dorfbach, bis man ihn zuschüttete. Gelogen ist der Kampf: Laut Ortsgeschichte hat der Erste Weltkrieg Reute nicht erreicht. Männer aus dem Dorf fielen trotzdem. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege",
+"faktencheck": "bestätigt",
+"id": "399-reute/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Reute",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025: Wie hoch war die Wahlbeteiligung in Reute?",
+"optionen": [
+"unter 88 %",
+"88 bis unter 90 %",
+"90 bis unter 92 %",
+"92 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Wahl 2025 hatte bundesweit eine hohe Beteiligung, da liegt eine noch höhere Spanne nahe. Reute kam bei der Bundestagswahl 2025 auf eine Wahlbeteiligung von 87,6 Prozent. Stärkste Partei bei den Zweitstimmen war die CDU, vor der SPD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "399-reute/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reute",
+"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Die Kirche in Oberreute ist St. Felix und Regula geweiht. Wie kam laut Ortsgeschichte die Verehrung dieser Heiligen wahrscheinlich nach Reute?",
+"optionen": [
+"Pilger brachten Reliquien aus Rom mit.",
+"Ein Pfarrer des Dorfes war zugleich Chorherr in Zürich.",
+"Ein Kreuzritter brachte sie aus dem Heiligen Land.",
+"Ein Kaufmann aus Venedig brachte ihren Kult mit."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Reliquien aus Rom liegen nahe, denn so kamen viele Heiligenkulte über die Alpen. In Reute war es wahrscheinlich ein Pfarrer namens Hugo: Er ist als Pfarrer des Dorfes belegt und zugleich als Chorherr, also Stiftsgeistlicher, an St. Felix und Regula in Zürich, dem Großmünster. Laut Ortsgeschichte hat er ihre Verehrung wahrscheinlich in Reute eingeführt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/das-mittelalter-und-bis-zum-18jh",
+"faktencheck": "korrigiert",
+"id": "399-reute/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Reute",
+"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Wie weit liegt Reute in Luftlinie von Stuttgart entfernt?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 100 km",
+"100 bis unter 150 km",
+"150 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer im Breisgau wohnt, empfindet Stuttgart oft als fern, über Autobahn und Schwarzwald ist der Weg lang. In Luftlinie liegen zwischen Reute und der Landeshauptstadt 126 Kilometer. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "399-reute/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reute",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Ab 1880 war in Reute das Faulfieber abgeklungen. Womit bringt die Ortsgeschichte das in Verbindung?",
+"optionen": [
+"Ein Arzt ließ sich im Dorf nieder.",
+"Eine Wasserleitung brachte sauberes Trinkwasser.",
+"Man impfte die Dorfbewohner gegen das Fieber.",
+"Ein Fluss in der Nähe wurde reguliert."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Sauberes Leitungswasser liegt nahe, doch die moderne Wasserversorgung kam erst viel später. Die Ortsgeschichte nennt im selben Satz die Regulierung der Elz: Durch sie sank das Grundwasser, das der Kaiserstuhl aufstaute und das lange knapp unter der Oberfläche stand. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/reute-im-19-jh und www.reute.de/unsere-gemeinde/geschichte/die-steinzeit",
+"faktencheck": "korrigiert",
+"id": "399-reute/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reute",
+"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Im Frühjahr 1945 kamen Volksdeutsche aus Ungarn nach Reute. Was erzählt die Ortsgeschichte über sie?",
+"optionen": [
+"Sie hatten zuvor als Erntehelfer in Reute gearbeitet.",
+"Reute hatte eine Patenschaft für ihr Dorf.",
+"Ihre Vorfahren waren einst aus dem Breisgau ausgewandert.",
+"Ein Soldat aus Reute hatte sie hergeholt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Erntehelfer liegen nahe, denn Erntearbeit führt oft Fremde aufs Land. Die Ortsgeschichte erzählt es anders: Die Volksdeutschen, also deutschsprachige Menschen aus Ungarn, waren Nachfahren von Auswanderern, die einst aus dem Breisgau nach Ungarn gezogen waren. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/das-20-jh-die-zwei-weltkriege",
+"faktencheck": "korrigiert",
+"id": "399-reute/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reute / Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau. / Wer hat laut Ortsgeschichte vermutlich Reutes erstes Rathaus an der Hauptstraße gestiftet? / 1. Eine Adelige, die den Ort verwaltete, stiftete es. / 2. Die Bauern legten das Geld dafür zusammen. / 3. Der Dorfpfarrer stiftete es aus eigenem Vermögen. / 4. Ein reicher Kaufmann aus der Stadt stiftete es.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gemeinsam bezahlte Rathäuser klingen nach Dorfgemeinschaft, deshalb liegen die Bauern nahe. Laut Ortsgeschichte dürfte es aber Margarethe Held gestiftet haben. Nach dieser Quelle war sie die Letzte der Adelsfamilie Held, die den Ort verwaltete. Das Rathaus steht an der Hauptstraße, gegenüber dem ehemaligen Weiher. Richtig war 1. /",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl",
+"faktencheck": "korrigiert",
+"id": "399-reute/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Reute / Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau. / Reute ist 772/73 erstmals schriftlich belegt. In welcher Quelle? / 1. Der Ort steht in einer St. Galler Urkunde. / 2. Der Ort steht im Lorscher Codex. / 3. Der Ort steht in einer Reichenauer Urkunde. / 4. Der Ort steht in einer Straßburger Bischofsurkunde.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. St. Gallen oder Reichenau liegen nahe, denn sie besaßen viel im Südwesten. Belegt ist Reute, damals „Reuden“, aber im Lorscher Codex. Darin hat das Kloster Lorsch Abschriften seiner Urkunden gesammelt. Er verzeichnet eine Schenkung von Besitz im Ort an das Kloster. Der Name verweist auf Rodung. Richtig war 2. /",
+"quelle": "Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/wappen; LEO-BW, Ortslexikon Oberreute",
+"faktencheck": "korrigiert",
+"id": "399-reute/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "398-voerstetten",
+"anschluss": [
+"Bundestagswahl 2025: In Vörstetten wählten anteilig mehr als in Reute.",
+"Die Glotter bildet meist die Grenze zwischen Reute und Vörstetten."
+],
+"anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Reute zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Reute die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Reute zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Reute die CDU."
+],
+"389-merzhausen": [
+"Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Reute die CDU."
+],
+"390-au-breisgau": [
+"Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Reute die CDU."
+],
+"391-ebringen": [
+"Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Ebringen und Reute sind fast gleich groß: rund 2.900 und 3.000 Einwohner."
+],
+"392-schallstadt": [
+"Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Schallstadt hat fast zweieinhalbmal so viele Einwohner wie Reute."
+],
+"396-waldkirch": [
+"Waldkirch hat gut siebenmal so viele Einwohner wie Reute.",
+"Reute liegt rund 680 Meter höher als Waldkirch."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Reute zum Landkreis Emmendingen.",
+"Hochdorf hat fast doppelt so viele Einwohner wie Reute."
+],
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"March hat gut dreimal so viele Einwohner wie Reute."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Gottenheim und Reute sind fast gleich groß: rund 3.200 und 3.000 Einwohner."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Bötzingen hat fast doppelt so viele Einwohner wie Reute."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Eichstetten hat rund 800 Einwohner mehr als Reute."
+],
+"398-voerstetten": [
+"Bundestagswahl 2025: In Vörstetten wählten anteilig mehr als in Reute.",
+"Die Glotter bildet meist die Grenze zwischen Reute und Vörstetten."
+],
+"400-teningen": [
+"Teningen hat viermal so viele Einwohner wie Reute.",
+"Reute liegt rund 770 Meter höher als Teningen."
+],
+"401-bahlingen": [
+"Bahlingen hat anderthalbmal so viele Einwohner wie Reute.",
+"Reute liegt rund 740 Meter höher als Bahlingen."
+],
+"402-riegel": [
+"Riegel hat rund 1.000 Einwohner mehr als Reute.",
+"Reute liegt rund 770 Meter höher als Riegel."
+],
+"403-endingen": [
+"Endingen hat dreieinhalbmal so viele Einwohner wie Reute.",
+"Reute liegt rund 770 Meter höher als Endingen."
+],
+"69-ihringen": [
+"Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Ihringen hat gut doppelt so viele Einwohner wie Reute."
+],
+"70-breisach": [
+"Kreisgrenze: Breisach gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Breisach hat fast sechsmal so viele Einwohner wie Reute."
+],
+"71-stegen": [
+"Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Stegen hat anderthalbmal so viele Einwohner wie Reute."
+],
+"72-oberried": [
+"Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Oberried und Reute sind fast gleich groß: rund 2.800 und 3.000 Einwohner."
+],
+"73-buchenbach": [
+"Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+"Buchenbach und Reute sind fast gleich groß: rund 3.200 und 3.000 Einwohner."
+],
+"11-emmendingen": [
+"Emmendingen hat zehnmal so viele Einwohner wie Reute.",
+"Reute liegt rund 750 Meter höher als Emmendingen."
+],
+"01-kenzingen": [
+"Kenzingen hat dreieinhalbmal so viele Einwohner wie Reute.",
+"Reute liegt rund 780 Meter höher als Kenzingen."
+],
+"12-herbolzheim": [
+"Herbolzheim hat dreieinhalbmal so viele Einwohner wie Reute.",
+"Reute liegt rund 780 Meter höher als Herbolzheim."
+]
+},
+"ags": "08316036",
+"ortsteil": false,
+"km_vom_vorigen": 2.8
+},
+{
+"slug": "400-teningen",
+"name": "Teningen",
+"lat": 48.12694,
+"lon": 7.81028,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Teningen",
+"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Die Malerin Hilla von Rebay brachte später den Bau des Guggenheim-Museums auf den Weg. Ihre Eltern ließen sich 1919 in Teningen nieder. Wer vermittelte ihnen dort den Kauf ihres Hauses?",
+"optionen": [
+"Ein Fabrikant vermittelte ihnen das Haus.",
+"Ein Kunsthändler vermittelte ihnen das Haus.",
+"Ein Pfarrer vermittelte ihnen das Haus.",
+"Ein Bürgermeister vermittelte ihnen das Haus."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Künstlerin liegt ein Kunsthändler als Vermittler nahe. Doch das Haus in Teningen vermittelte der Fabrikant Tscheulin. Hilla von Rebay lebte und arbeitete vor ihrer Übersiedlung in die USA immer wieder in Teningen und schenkte das Haus später der Gemeinde. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
+"faktencheck": "korrigiert",
+"id": "400-teningen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Teningen",
+"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Teningen mit all ihren Ortsteilen?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 50 km²",
+"50 bis unter 100 km²",
+"100 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer nur an den Kernort denkt, schätzt leicht zu klein. Zur Gemeinde gehören aber auch Köndringen mit Landeck, Heimbach sowie Nimburg mit Bottingen, dazu viel Wald. Zusammen sind es 40,26 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "400-teningen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Teningen",
+"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Es geht um die Bergkirche im Ortsteil Nimburg. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Antoniterorden ließ die heutige Kirche erbauen.",
+"Ein Teil ihrer Wandmalereien wurde nach der Reformation übermalt.",
+"Die heutige Kirche ist nach Osten ausgerichtet."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kirchen sind traditionell nach Osten ausgerichtet, darum wirkt diese Aussage harmlos. Doch der Vorgängerbau war geostet, die heutige Kirche ist gesüdet: Ihr Chor liegt im Süden. Errichtet hat sie der Antoniterorden, der in Nimburg ein Ordenshaus mit Hospital besaß. Ein Teil ihrer Fresken wurde nach der Reformation übermalt oder neu geschaffen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/leben-und-wohnen/kirchen",
+"faktencheck": "korrigiert",
+"id": "400-teningen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Teningen",
+"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Bei der Bundestagswahl 2025 wurde die CDU in Teningen stärkste Partei. Wie hoch war ihr Zweitstimmenanteil?",
+"optionen": [
+"unter 18 %",
+"18 bis unter 24 %",
+"24 bis unter 29 %",
+"29 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zur Großstadt Freiburg, wo die Grünen traditionell stark sind, spricht scheinbar für einen niedrigen Wert. Teningen wählte aber anders: Die CDU kam auf 30,3 Prozent, vor SPD und AfD; die Grünen landeten auf Platz vier. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "400-teningen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Teningen",
+"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Bei seiner ersten Erwähnung 972 gehörte Teningen dem Kloster Einsiedeln. Wie kam das Kloster nach der Ortsgeschichte wohl an diesen Besitz?",
+"optionen": [
+"Der König übertrug ihm Güter eines Verräters.",
+"Ein kinderloser Graf vermachte ihn dem Kloster.",
+"Das Kloster kaufte ihn von freien Bauern.",
+"Ein Bischof tauschte ihn gegen andere Klostergüter."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schenkungen frommer Adliger waren der übliche Weg, auf dem Klöster zu Land kamen. Hier lief es wohl anders: König Otto I. hatte dem hochverräterischen Grafen Guntram ein Breisgauer Gut entzogen und dem Kloster übereignet. Deninga, wie Teningen damals hieß, gehörte offenbar dazu. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/unsere-gemeinde/ortsteile+der+gemeinde",
+"faktencheck": "korrigiert",
+"id": "400-teningen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Teningen",
+"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist Teningen in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 90 km",
+"90 bis unter 140 km",
+"140 bis unter 200 km",
+"200 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Aus dem Breisgau wirkt Stuttgart fern, wie am anderen Ende des Landes. Doch die Luftlinie von Teningen zur Landeshauptstadt beträgt 124 Kilometer. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "400-teningen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Teningen",
+"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Teningens Rathaus wurde 1850 von der Gemeinde gekauft. Wozu diente das Gebäude vor dem Kauf?",
+"optionen": [
+"Es diente als Pfarrhaus des Ortes.",
+"Es diente als Gutshof der Markgrafen.",
+"Es diente als Gasthaus im Ort.",
+"Es diente als Zehntscheuer des Ortes."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem alten Rathaus vermutet man eher ein früheres Pfarr- oder Herrenhaus. Tatsächlich war es das Gasthaus „Zur Sonne“. Nach dem Kauf brachte die Gemeinde dort zuerst Arme unter; später kamen Schulzimmer, Lehrerwohnung und Ratszimmer dazu. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
+"faktencheck": "bestätigt",
+"id": "400-teningen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Teningen",
+"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Heimbacher Buntsandstein wurde für Arbeiten am Freiburger Münster verwendet. Welchen Vorteil gegenüber Allmendsberger Stein nennt die Ortsgeschichte?",
+"optionen": [
+"Er hielt der Witterung besser stand.",
+"Er war weicher und leichter zu behauen.",
+"Beim Behauen entstand deutlich weniger Staub.",
+"Er hatte eine hellere, gleichmäßigere Farbe."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Leichte Bearbeitung klingt nach dem Hauptargument jedes Steinmetzen. Beim Heimbacher Stein war es umgekehrt: Er war härter, schwerer zu bearbeiten und staubte stark. Dafür trotzte er Witterungseinflüssen besser. Die Brüche waren wichtig für das Bauen im nördlichen Breisgau und sind heute Kultur- und Naturdenkmal. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
+"faktencheck": "bestätigt",
+"id": "400-teningen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Teningen",
+"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Am Hermannsbrunnen im Ortsteil Heimbach tagte im Mittelalter jedes Jahr ein Gericht. Worüber wurde dort gerichtet?",
+"optionen": [
+"Es schlichtete Streit um das Brunnenwasser.",
+"Es bestrafte Frevel im gemeinsam genutzten Wald.",
+"Es urteilte über Diebstahl auf Märkten.",
+"Es entschied Erbstreitigkeiten unter Bauern."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Brunnen denkt man zuerst an Wasserrechte. Doch hier tagte das Waldgericht für den Vierdörferwald, den Heimbach, Köndringen, Malterdingen und Mundingen gemeinsam nutzten. Jedes Jahr am Ostermontag wurde die Waldordnung verlesen, und Waldfrevler wurden bestraft. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
+"faktencheck": "bestätigt",
+"id": "400-teningen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Teningen",
+"steckbrief": "Teningen hat rund 12.000 Einwohner und liegt 15 km nördlich von Freiburg im Breisgau.",
+"frage": "Das Neue Schloss im Ortsteil Heimbach entstand 1803 bis 1806 mit Ecktürmen und eigenwilliger Gestalt. Wer hat es entworfen?",
+"optionen": [
+"Ein badischer Hofbaumeister entwarf das Schloss.",
+"Ein Pariser Architekt entwarf das Schloss.",
+"Ein Freiburger Stadtbaumeister entwarf das Schloss.",
+"Der Bauherr entwarf das Schloss selbst."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Schloss jener Zeit verbindet man mit einem Hof- oder Stadtbaumeister. Doch Freiherr Maximilian von Duminique war Amateur-Architekt und entwarf seinen Bau selbst. Heraus kam ein eigenwilliges Schloss zwischen Klassizismus und früher Romantik, mit einem Rundtempelchen als Salon, einem Felsenzimmer und englischem Garten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.teningen.de/freizeit-und-kultur/sehenswuerdigkeiten",
+"faktencheck": "bestätigt",
+"id": "400-teningen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "399-reute",
+"anschluss": [
+"Bundestagswahl 2025: CDU in Reute 38,1 Prozent, in Teningen 30,3.",
+"Gemeindefläche: Teningen ist gut achtmal so groß wie Reute."
+],
+"anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Teningen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Teningen die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Teningen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Teningen die CDU."
+],
+"389-merzhausen": [
+"Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Teningen die CDU."
+],
+"390-au-breisgau": [
+"Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Teningen die CDU."
+],
+"391-ebringen": [
+"Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+"Teningen hat gut viermal so viele Einwohner wie Ebringen."
+],
+"392-schallstadt": [
+"Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+"Teningen hat gut anderthalbmal so viele Einwohner wie Schallstadt."
+],
+"396-waldkirch": [
+"Waldkirch hat fast doppelt so viele Einwohner wie Teningen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Teningen die SPD."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Teningen zum Landkreis Emmendingen.",
+"Teningen hat fast zweieinhalbmal so viele Einwohner wie Hochdorf."
+],
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+"Teningen hat rund 2.700 Einwohner mehr als March."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+"Teningen hat fast viermal so viele Einwohner wie Gottenheim."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+"Teningen hat gut doppelt so viele Einwohner wie Bötzingen."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+"Teningen hat gut dreimal so viele Einwohner wie Eichstetten."
+],
+"398-voerstetten": [
+"Teningen hat fast viermal so viele Einwohner wie Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Teningen die SPD."
+],
+"399-reute": [
+"Bundestagswahl 2025: CDU in Reute 38,1 Prozent, in Teningen 30,3.",
+"Gemeindefläche: Teningen ist gut achtmal so groß wie Reute."
+],
+"401-bahlingen": [
+"Teningen hat gut zweieinhalbmal so viele Einwohner wie Bahlingen."
+],
+"402-riegel": [
+"Teningen hat dreimal so viele Einwohner wie Riegel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Riegel die AfD, in Teningen die SPD."
+],
+"403-endingen": [
+"Teningen hat rund 1.600 Einwohner mehr als Endingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Endingen die AfD, in Teningen die SPD."
+],
+"69-ihringen": [
+"Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+"Teningen hat fast doppelt so viele Einwohner wie Ihringen."
+],
+"71-stegen": [
+"Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+"Teningen hat gut zweieinhalbmal so viele Einwohner wie Stegen."
+],
+"11-emmendingen": [
+"Emmendingen hat zweieinhalbmal so viele Einwohner wie Teningen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Emmendingen die Grünen, in Teningen die SPD."
+],
+"01-kenzingen": [
+"Teningen hat rund 1.200 Einwohner mehr als Kenzingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kenzingen die AfD, in Teningen die SPD."
+],
+"12-herbolzheim": [
+"Teningen hat rund 1.300 Einwohner mehr als Herbolzheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Herbolzheim die AfD, in Teningen die SPD."
+]
+},
+"ags": "08316043",
+"ortsteil": false,
+"km_vom_vorigen": 5.0
+},
+{
+"slug": "401-bahlingen",
+"name": "Bahlingen",
+"lat": 48.12194,
+"lon": 7.73667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Von 1771 bis 1776 diente Bahlingen als Musterdorf für einen Versuch. Was wurde erprobt?",
+"optionen": [
+"Im Dorf wurden gar keine Steuern erhoben.",
+"Alle Felder wurden gemeinsam vom Dorf bewirtschaftet.",
+"Alle Kinder mussten eine Winzerschule besuchen.",
+"Im Dorf galt nur noch eine einzige Steuer."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Steuerfreiheit klingt nach einem verlockenden Versuch. Erprobt wurde aber der Physiokratismus, eine Wirtschaftstheorie: Statt vieler Abgaben galt eine Einsteuer, französisch impôt unique. Markgraf Karl Friedrich war vermutlich von dem System überzeugt. Nach Angabe der Gemeinde ist es der weltweit einzig bekannte Praxistest dieser Theorie. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie",
+"faktencheck": "unsicher",
+"id": "401-bahlingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner leben in Bahlingen durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 600",
+"600 bis unter 900",
+"900 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Freiburg lässt an einen dicht bebauten Vorort denken. Doch 4.556 Einwohner auf 12,66 Quadratkilometern ergeben nur rund 360 je Quadratkilometer. Stand der Einwohnerzahl: 31. Dezember 2025. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "401-bahlingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In der Reformation blieb Bahlingen weiterhin katholisch.",
+"Ab dem Spätmittelalter gehörte Bahlingen zu Baden.",
+"Im Dreißigjährigen Krieg wurde Bahlingen fast völlig zerstört."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Katholisch läge nahe, denn große Teile des Breisgaus waren habsburgisch und blieben katholisch. Bahlingen aber gehörte zur Markgrafschaft Baden und wurde in der Reformation protestantisch. Zerstört wurde der Ort nicht nur im Dreißigjährigen Krieg, sondern auch in den Kriegen Ludwigs XIV. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie",
+"faktencheck": "bestätigt",
+"id": "401-bahlingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Bahlingen die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"GRÜNE",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Freiburg lässt an die Grünen denken, doch sie landeten mit 15,6 Prozent nur auf Platz vier. Zweite wurde die SPD mit 17,2 Prozent, knapp vor der AfD mit 16,5 Prozent. Die CDU lag vorn. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "401-bahlingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Woher stammt der Name Bahlingen vermutlich?",
+"optionen": [
+"Er beschreibt eine sumpfige Niederung am Fluss.",
+"Er erinnert an eine längst verschwundene Burg.",
+"Er stammt von einer römischen Straßenstation.",
+"Er bedeutet etwa: bei den Leuten eines Mannes."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In der Ebene vor dem Kaiserstuhl liegen Sumpf oder Ufer als Namensquelle nahe. Die Gemeinde leitet den Namen aber vermutlich von „Baldinga“ ab, etwa „bei den Leuten des Baldo“. Die Endung -ingen ist typisch für alemannische Sippensiedlungen, als die Bahlingen wohl entstand. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie",
+"faktencheck": "korrigiert",
+"id": "401-bahlingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist es von Bahlingen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 140 km",
+"140 bis unter 170 km",
+"170 bis unter 200 km",
+"200 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer die Strecke mit dem Auto kennt, schätzt leicht zu hoch, denn die Straße umfährt den Schwarzwald. In Luftlinie liegen zwischen Bahlingen und Stuttgart nur 129 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "401-bahlingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wonach ist das Bahlinger Hoselipsfest benannt?",
+"optionen": [
+"Nach einem Räuber, der einst Weinberge plünderte.",
+"Nach einer Holzfigur, die Winzern Glück bringen soll.",
+"Nach einer alten Rebsorte vom Kaiserstuhl.",
+"Nach einem Bach, der durchs Dorf fließt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem Schelm, deshalb denken viele an eine Person. Gemeint ist aber eine kleine Holzfigur namens Hoselips, die den Bahlinger Winzern seit je Glück bringen soll. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl",
+"faktencheck": "bestätigt",
+"id": "401-bahlingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Das Bahlinger Wappen zeigt vorn einen roten Schrägbalken. Was ist in der hinteren, blauen Hälfte zu sehen?",
+"optionen": [
+"Eine goldene Weintraube hängt über einem Fass.",
+"Ein silbernes Mühlrad steht über einem Wellenband.",
+"Ein Winzermesser steht über einer gestürzten Pflugschar.",
+"Ein schwarzer Adler hält einen Rebstock."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Traube wäre im Weinort das naheliegende Zeichen. Bahlingen zeigt aber ein silbernes Winzermesser mit schwarzem Griff über einer gestürzten, also kopfstehenden, silbernen Pflugschar. Schon ein altes Siegel trug den badischen Schrägbalken und ein Rebmesser. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl",
+"faktencheck": "bestätigt",
+"id": "401-bahlingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Karl Alfred von Zittel ist ein Sohn der Gemeinde Bahlingen. Was war er von Beruf?",
+"optionen": [
+"Er war Geologe und Paläontologe.",
+"Er war Komponist von Kirchenmusik.",
+"Er war Rebenzüchter und Weinbauforscher.",
+"Er war Arzt und Seuchenforscher."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einem Weinort liegt ein Rebenzüchter nahe. Karl Alfred von Zittel war aber Geologe und Paläontologe, also Forscher für Gesteine, Erdgeschichte und Fossilien. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl",
+"faktencheck": "bestätigt",
+"id": "401-bahlingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bahlingen",
+"steckbrief": "Bahlingen hat rund 4.600 Einwohner und liegt 16 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Seit wann trägt Bahlingen amtlich den Namenszusatz „am Kaiserstuhl“?",
+"optionen": [
+"Der Zusatz gilt seit 1806.",
+"Der Zusatz gilt seit 1936.",
+"Der Zusatz gilt seit 1971.",
+"Der Zusatz gilt seit 1996."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Zusatz klingt nach alter Tradition, er ist aber jung: Erst seit dem 1. September 1996 heißt der Ort amtlich „Bahlingen am Kaiserstuhl“. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie",
+"faktencheck": "bestätigt",
+"id": "401-bahlingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "400-teningen",
+"anschluss": [
+"Physiokratie-Versuch: Bahlingen und Teningen waren beide markgräfliche Musterdörfer.",
+"Bundestagswahl 2025: Bahlingen und Teningen wählten die AfD gleich stark."
+],
+"anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bahlingen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Bahlingen die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bahlingen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Bahlingen die CDU."
+],
+"389-merzhausen": [
+"Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Bahlingen die CDU."
+],
+"391-ebringen": [
+"Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+"Bahlingen hat gut anderthalbmal so viele Einwohner wie Ebringen."
+],
+"392-schallstadt": [
+"Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+"Schallstadt hat anderthalbmal so viele Einwohner wie Bahlingen."
+],
+"396-waldkirch": [
+"Waldkirch hat fast fünfmal so viele Einwohner wie Bahlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Bahlingen die SPD."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bahlingen zum Landkreis Emmendingen.",
+"Hochdorf hat rund 800 Einwohner mehr als Bahlingen."
+],
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+"March hat doppelt so viele Einwohner wie Bahlingen."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+"Bahlingen hat fast anderthalbmal so viele Einwohner wie Gottenheim."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+"Bötzingen hat rund 1.000 Einwohner mehr als Bahlingen."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+"Bahlingen hat rund 800 Einwohner mehr als Eichstetten."
+],
+"398-voerstetten": [
+"Bahlingen hat fast anderthalbmal so viele Einwohner wie Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Bahlingen die SPD."
+],
+"399-reute": [
+"Bahlingen hat anderthalbmal so viele Einwohner wie Reute.",
+"Reute liegt rund 740 Meter höher als Bahlingen."
+],
+"400-teningen": [
+"Physiokratie-Versuch: Bahlingen und Teningen waren beide markgräfliche Musterdörfer.",
+"Bundestagswahl 2025: Bahlingen und Teningen wählten die AfD gleich stark."
+],
+"402-riegel": [
+"Bahlingen hat rund 600 Einwohner mehr als Riegel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Riegel die AfD, in Bahlingen die SPD."
+],
+"403-endingen": [
+"Endingen hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Endingen die AfD, in Bahlingen die SPD."
+],
+"69-ihringen": [
+"Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+"Ihringen hat rund 1.700 Einwohner mehr als Bahlingen."
+],
+"70-breisach": [
+"Kreisgrenze: Breisach gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+"Breisach hat gut dreieinhalbmal so viele Einwohner wie Bahlingen."
+],
+"11-emmendingen": [
+"Emmendingen hat gut sechsmal so viele Einwohner wie Bahlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Emmendingen die Grünen, in Bahlingen die SPD."
+],
+"01-kenzingen": [
+"Kenzingen hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kenzingen die AfD, in Bahlingen die SPD."
+],
+"12-herbolzheim": [
+"Herbolzheim hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Herbolzheim die AfD, in Bahlingen die SPD."
+]
+},
+"ags": "08316002",
+"ortsteil": false,
+"km_vom_vorigen": 5.5
+},
+{
+"slug": "402-riegel",
+"name": "Riegel",
+"lat": 48.15056,
+"lon": 7.75,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Riegel",
+"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Die Gemeinde nennt Riegel „sozusagen das Freiburg der Antike“. Worauf spielt der Vergleich an?",
+"optionen": [
+"Riegel hatte in der Römerzeit eine Hochschule.",
+"In der Römerzeit saß in Riegel ein Bischof.",
+"In der Römerzeit war Riegel Verwaltungszentrum der Region.",
+"In der Römerzeit stand in Riegel ein Münster."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Freiburg denkt man an Universität, Münster und Erzbischof – darum liegen diese Theorien nahe. Der Vergleich meint aber die Römerzeit: Damals war Riegel das Verwaltungszentrum der Region. In dieser Epoche hatte der Ort große Bedeutung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte",
+"faktencheck": "korrigiert",
+"id": "402-riegel/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Riegel",
+"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner kommen in Riegel auf einen Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 160",
+"160 bis unter 210",
+"210 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Rund 4.000 Einwohner klingen nach Dorf, darum schätzen viele niedrig. Gerechnet auf die Gemeindefläche kommen in Riegel aber 217 Einwohner auf einen Quadratkilometer – dichter, als viele erwarten. Richtig war 4.",
+"quelle": "Grunddaten, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "402-riegel/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Riegel",
+"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Dominikanerinnenkloster beteiligte sich einst an der Finanzierung der Pfarrkirche.",
+"Die Pfarrkirche überstand den Zweiten Weltkrieg ganz unversehrt.",
+"Neben der Schleuse am Leopoldskanal steht ein Obelisk."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele Dorfkirchen kamen glimpflich durch den Krieg, darum klingt die Aussage glaubhaft. St. Martin aber wurde im Krieg teilweise zerstört, nachdem schon ein verheerender Brand die Innenausstattung fast ganz vernichtet hatte. Nach Kriegsende baute man die Kirche wieder auf. Kloster und Obelisk stimmen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/St.Martinskirche; www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten-",
+"faktencheck": "korrigiert",
+"id": "402-riegel/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Riegel",
+"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war die Wahlbeteiligung in Riegel bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 86 %",
+"86 bis unter 92 %",
+"92 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 zog bundesweit auffallend viele an die Urnen, darum tippen manche sehr hoch. In Riegel gaben 84,5 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "402-riegel/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Riegel",
+"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "In Riegel stand in römischer Zeit eine monumentale Basilika. Wozu diente sie?",
+"optionen": [
+"Sie war eine frühe christliche Kirche.",
+"Sie war ein großes römisches Badehaus.",
+"Sie war eine Markt- und Mehrzweckhalle.",
+"Sie war der Palast eines Statthalters."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Heute denkt man bei einer Basilika an eine Kirche – das liegt nahe. Bei den Römern war eine Basilika aber eine große Halle. Die in Riegel war eine Marktbasilika, eine monumentale Mehrzweckhalle. Ihr Modell ist das Glanzstück des Archäologischen Museums. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten-",
+"faktencheck": "bestätigt",
+"id": "402-riegel/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Riegel",
+"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Gemeindefläche von Riegel?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 12 km²",
+"12 bis unter 16 km²",
+"16 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 4.000 Einwohnern rechnen viele mit einer kleinen Gemarkung. Riegel umfasst aber 18,33 Quadratkilometer. Richtig war 4.",
+"quelle": "Grunddaten, Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "402-riegel/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Riegel",
+"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "In Riegel ist eine Straße nach Anton Anreith benannt. In welchem Land ist er eine Berühmtheit?",
+"optionen": [
+"Anreith ist in Südafrika eine Berühmtheit.",
+"Anreith ist in Brasilien eine Berühmtheit.",
+"Anreith ist in Kanada eine Berühmtheit.",
+"Anreith ist in Russland eine Berühmtheit."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Übersee denkt man zuerst an Amerika – darum liegen Brasilien und Kanada nahe. Anton Anreith aber ist eine Berühmtheit in Südafrika. In Riegel erinnert ein Straßenname an ihn. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Geschichte-Geschichten/Geschichten-",
+"faktencheck": "bestätigt",
+"id": "402-riegel/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Riegel",
+"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Auf dem archäologischen Rundweg in Riegel steht die Freilichtanlage eines römischen Tempels. Welchem Gott war er geweiht?",
+"optionen": [
+"Der Tempel war Jupiter geweiht.",
+"Der Tempel war Mithras geweiht.",
+"Der Tempel war Merkur geweiht.",
+"Der Tempel war Mars geweiht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei römischen Tempeln denkt man an Jupiter, Merkur oder Mars, die großen Götter des Staates. In Riegel aber war es ein Mithras-Tempel. Mithras war ein aus dem Osten stammender Gott, dessen Kult in geheimen Gemeinschaften gepflegt wurde. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-riegel.de/de/Tourismus-Freizeit/Schauen-Entdecken/Geschichte",
+"faktencheck": "bestätigt",
+"id": "402-riegel/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "401-bahlingen",
+"anschluss": [
+"Riegel hat mehr Fläche als Bahlingen, aber weniger Einwohner.",
+"Bundestagswahl 2025: SPD-Anteil in Riegel und Bahlingen exakt gleich."
+],
+"anschluesse": {
+"396-waldkirch": [
+"Waldkirch hat gut fünfmal so viele Einwohner wie Riegel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Riegel die AfD."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Riegel zum Landkreis Emmendingen.",
+"Hochdorf hat rund 1.300 Einwohner mehr als Riegel."
+],
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+"March hat fast zweieinhalbmal so viele Einwohner wie Riegel."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+"Riegel hat rund 800 Einwohner mehr als Gottenheim."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+"Bötzingen hat rund 1.500 Einwohner mehr als Riegel."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+"Eichstetten und Riegel sind fast gleich groß: rund 3.800 und 4.000 Einwohner."
+],
+"398-voerstetten": [
+"Riegel hat rund 800 Einwohner mehr als Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Riegel die AfD."
+],
+"399-reute": [
+"Riegel hat rund 1.000 Einwohner mehr als Reute.",
+"Reute liegt rund 770 Meter höher als Riegel."
+],
+"400-teningen": [
+"Teningen hat dreimal so viele Einwohner wie Riegel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Riegel die AfD."
+],
+"401-bahlingen": [
+"Riegel hat mehr Fläche als Bahlingen, aber weniger Einwohner.",
+"Bundestagswahl 2025: SPD-Anteil in Riegel und Bahlingen exakt gleich."
+],
+"403-endingen": [
+"Endingen hat gut zweieinhalbmal so viele Einwohner wie Riegel."
+],
+"69-ihringen": [
+"Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+"Ihringen hat gut anderthalbmal so viele Einwohner wie Riegel."
+],
+"70-breisach": [
+"Kreisgrenze: Breisach gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+"Breisach hat gut viermal so viele Einwohner wie Riegel."
+],
+"11-emmendingen": [
+"Emmendingen hat gut siebenmal so viele Einwohner wie Riegel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Emmendingen die Grünen, in Riegel die AfD."
+],
+"01-kenzingen": [
+"Kenzingen hat gut zweieinhalbmal so viele Einwohner wie Riegel."
+],
+"12-herbolzheim": [
+"Herbolzheim hat gut zweieinhalbmal so viele Einwohner wie Riegel."
+]
+},
+"ags": "08316037",
+"ortsteil": false,
+"km_vom_vorigen": 3.3
+},
+{
+"slug": "403-endingen",
+"name": "Endingen",
+"lat": 48.14083,
+"lon": 7.70639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Endingen",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "In Endingen trat 1932 ein Mann auf: Er sei Oskar Daubmann, nach 16 Jahren französischer Kriegsgefangenschaft heimgekehrt. Was stellte sich heraus?",
+"optionen": [
+"Er sagte über seine Gefangenschaft die Wahrheit.",
+"Er war ein Kleinkrimineller mit falscher Identität.",
+"Er war ein französischer Spion mit Auftrag.",
+"Er spielte die Rolle für eine Wette."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Geschichte passte den Nationalsozialisten, sie nutzten sie für antifranzösische Propaganda. Doch der echte Oskar Daubmann war längst gefallen. Der Heimkehrer war der Kleinkriminelle Ignaz Hummel. Die internationale Presse berichtete, und der Spott traf Endingen und besonders die Nationalsozialisten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik",
+"faktencheck": "bestätigt",
+"id": "403-endingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Endingen",
+"steckbrief": "Kleinstadt am Kaiserstuhl mit drei Ortsteilen, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Menschen leben in der Stadt Endingen samt ihren Ortsteilen?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 8.000",
+"8.000 bis unter 12.000",
+"12.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Kernstadt allein wirkt wie ein Landstädtchen, da schätzt man leicht zu niedrig. Doch Amoltern, Kiechlinsbergen und Königschaffhausen zählen mit. Ende 2025 lebten in Endingen 10.517 Menschen. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "403-endingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Endingen",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Endingen gehörte lange Zeit zum habsburgischen Vorderösterreich.",
+"Die Endinger Schützengesellschaft ging aus einer Bürgerwehr hervor.",
+"Das Endinger Stadtwappen zeigt eine Weinrebe und Kirschen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Kaiserstuhl mit viel Rebland liegt eine Weinrebe im Wappen nahe. Doch das Wappen zeigt Herrschaft: das rot-weiße Wappen Österreichs und den silbernen Flügel der Üsenberger auf Blau. Die Üsenberger verliehen Endingen das Stadtrecht, danach kam die Stadt an Habsburg. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte",
+"faktencheck": "bestätigt",
+"id": "403-endingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Endingen",
+"steckbrief": "Weinbaustadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welchen Zweitstimmenanteil erreichte die stärkste Partei in Endingen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 35 %",
+"35 bis unter 40 %",
+"40 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einer Weinbau-Kleinstadt rechnet man oft mit einer übermächtigen CDU. Sie wurde stärkste Partei, blieb aber mit 34,3 Prozent knapp in der untersten Spanne. Dahinter folgten AfD und SPD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "403-endingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Endingen",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wilhelm Jensens Roman „Die Heiligen von Amoltern“ spielt vor allem im Pfarrhaus des Endinger Ortsteils. Worauf beruht die Geschichte?",
+"optionen": [
+"Er beruht auf einem Streit um gestohlene Reliquien.",
+"Er beruht auf einem Versuch mit Gemeinschaftsbesitz.",
+"Er beruht auf einer angeblichen Marienerscheinung.",
+"Er beruht auf der Heiligsprechung eines Dorfpfarrers."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Titel lässt an Reliquien oder Heilige denken. Doch Jensen griff einen Versuch auf: Pater Romuald wollte mit Pfarrer Ganter eine Gemeinschaft mit gemeinsamem Besitz, gemeinsamer Arbeit und gemeinsamen Erträgen schaffen, gegen die Armut. Das Vorhaben scheiterte an der Obrigkeit, die darin einen Versuch sah, die Ständeordnung aufzuheben. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/ortsteile/amoltern",
+"faktencheck": "korrigiert",
+"id": "403-endingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Endingen",
+"steckbrief": "Weinbaustadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner kommen in Endingen auf einen Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 500",
+"500 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Reben und darüber Laubwald prägen die Gemarkung, da schätzt man leicht zu niedrig. Doch auf 26,7 Quadratkilometern kommen rund 10.500 Einwohner: 394 je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "403-endingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Endingen",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Im 19. Jahrhundert zogen Hunderte aus Endingen und Umgebung gemeinsam fort. Wo gründeten sie eine eigene Siedlung?",
+"optionen": [
+"Sie gründeten eine Siedlung in Texas.",
+"Sie gründeten eine Siedlung in Südbrasilien.",
+"Sie gründeten eine Siedlung an der Wolga.",
+"Sie gründeten eine Siedlung in Venezuela."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Texas und Brasilien lockten damals viele Auswanderer aus Deutschland, das liegt nahe. Doch die Gruppe um Alexander Benitz gründete in Venezuela die Colonia Tovar. Die Siedlung besteht noch; Nachkommen sprechen Spanisch und den Dialekt der alten Heimat. Das Heimatmuseum zeigt die Auswanderung in den Tovarer Stuben. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte",
+"faktencheck": "bestätigt",
+"id": "403-endingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Endingen",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Woher hat der Endinger Ortsteil Königschaffhausen seinen Namen?",
+"optionen": [
+"Ein königliches Schafhaus gab dem Ort den Namen.",
+"Siedler aus dem Schweizer Schaffhausen gründeten ihn.",
+"Hier lag eine königliche Werft für Rheinschiffe.",
+"Ein Rittergeschlecht von Schaffhausen besaß das Dorf."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach der Schweizer Stadt Schaffhausen, das liegt nahe. Doch „Künges Schafhusen“ bedeutet königliches Schafhaus. Daran erinnern die Gewannnamen, also Flurnamen, Königsweg und Schaflager. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/ortsteile/koenigschaffhausen",
+"faktencheck": "bestätigt",
+"id": "403-endingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Endingen",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Was bezeichnet man in Endingen als „Heiliwog“?",
+"optionen": [
+"Man segnet an Weihnachten den jungen Wein.",
+"Eine Prozession führt an Ostern zu allen Brunnen.",
+"Man fasst an Heiligabend um Mitternacht Wasser.",
+"Man räuchert in den Raunächten Haus und Stall."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Vor der Wasserleitung hieß es, Endingen habe manches Jahr mehr Wein als Wasser, da denkt man an Wein. Doch das Heiliwog ist „heiliges Wasser“: Es wird an Heiligabend um Mitternacht aus den öffentlichen Brunnen gefasst und das ganze Jahr über als Heiltrank geschätzt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte",
+"faktencheck": "korrigiert",
+"id": "403-endingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Endingen",
+"steckbrief": "Stadt am Kaiserstuhl mit rund 10.500 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Woher hat der Endinger Ortsteil Kiechlinsbergen den ersten Teil seines Namens?",
+"optionen": [
+"Ein Kirchlein am Berg gab ihm den Namen.",
+"Ein Freiburger Rittergeschlecht gab ihm den Namen.",
+"Die Kühe auf den Bergweiden gaben ihm den Namen.",
+"Ein örtlicher Heiliger gab ihm den Namen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Kiechlin“ klingt nach Kirchlein, das liegt nahe. Doch der Ort hieß zunächst Bergen, dann Unterbergen. Den Zusatz gab das Rittergeschlecht Küchlin von Freiburg, Vögte des Klosters Andlau. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.endingen.de/stadt-wirtschaft/ortsteile/kiechlinsbergen",
+"faktencheck": "bestätigt",
+"id": "403-endingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "402-riegel",
+"anschluss": [
+"Kaiserstuhlbahn: Das Bahnstück von Riegel nach Endingen stammt von 1894.",
+"Bundestagswahl 2025: In Endingen wählten 84,9 Prozent, in Riegel 84,5."
+],
+"anschluesse": {
+"396-waldkirch": [
+"Waldkirch hat gut doppelt so viele Einwohner wie Endingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Endingen die AfD."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Endingen zum Landkreis Emmendingen.",
+"Endingen hat doppelt so viele Einwohner wie Hochdorf."
+],
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+"Endingen hat rund 1.200 Einwohner mehr als March."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+"Endingen hat fast dreieinhalbmal so viele Einwohner wie Gottenheim."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+"Endingen hat fast doppelt so viele Einwohner wie Bötzingen."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+"Endingen hat fast dreimal so viele Einwohner wie Eichstetten."
+],
+"398-voerstetten": [
+"Endingen hat fast dreieinhalbmal so viele Einwohner wie Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Endingen die AfD."
+],
+"399-reute": [
+"Endingen hat dreieinhalbmal so viele Einwohner wie Reute.",
+"Reute liegt rund 770 Meter höher als Endingen."
+],
+"400-teningen": [
+"Teningen hat rund 1.600 Einwohner mehr als Endingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Endingen die AfD."
+],
+"401-bahlingen": [
+"Endingen hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Endingen die AfD."
+],
+"402-riegel": [
+"Kaiserstuhlbahn: Das Bahnstück von Riegel nach Endingen stammt von 1894.",
+"Bundestagswahl 2025: In Endingen wählten 84,9 Prozent, in Riegel 84,5."
+],
+"69-ihringen": [
+"Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+"Endingen hat gut anderthalbmal so viele Einwohner wie Ihringen."
+],
+"70-breisach": [
+"Kreisgrenze: Breisach gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+"Breisach hat gut anderthalbmal so viele Einwohner wie Endingen."
+],
+"11-emmendingen": [
+"Emmendingen hat fast dreimal so viele Einwohner wie Endingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Emmendingen die Grünen, in Endingen die AfD."
+],
+"01-kenzingen": [
+"Kenzingen und Endingen sind fast gleich groß: rund 11.000 und 11.000 Einwohner."
+],
+"12-herbolzheim": [
+"Herbolzheim und Endingen sind fast gleich groß: rund 11.000 und 11.000 Einwohner."
+]
+},
+"ags": "08316012",
+"ortsteil": false,
+"km_vom_vorigen": 3.4
 },
 {
 "slug": "69-ihringen",
@@ -6119,12 +10975,40 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "68-eichstetten",
-"anschluss": [
-"Ihringen hat gut anderthalbmal so viele Einwohner wie Eichstetten.",
-"Ihringen hat fast doppelt so viel Fläche wie Eichstetten: 23 und gut 12 Quadratkilometer."
-],
+"anschluss_von": "403-endingen",
+"anschluss": [],
 "anschluesse": {
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Ihringen die CDU."
+],
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Ihringen die CDU.",
+"Ihringen hat rund 900 Einwohner mehr als Merzhausen."
+],
+"390-au-breisgau": [
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Ihringen die CDU.",
+"Ihringen hat gut viermal so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Ihringen hat gut doppelt so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Ihringen die SPD."
+],
+"392-schallstadt": [
+"Schallstadt hat rund 700 Einwohner mehr als Ihringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Ihringen die SPD."
+],
+"393-bad-krozingen": [
+"Bad Krozingen hat dreieinhalbmal so viele Einwohner wie Ihringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Ihringen die SPD."
+],
+"394-heitersheim": [
+"Heitersheim und Ihringen sind fast gleich groß: rund 6.600 und 6.300 Einwohner."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Ihringen hat rund 1.000 Einwohner mehr als Hochdorf."
+],
 "65-march": [
 "March hat anderthalbmal so viele Einwohner wie Ihringen."
 ],
@@ -6137,6 +11021,30 @@ window.QA_DATEN = {
 "68-eichstetten": [
 "Ihringen hat gut anderthalbmal so viele Einwohner wie Eichstetten.",
 "Ihringen hat fast doppelt so viel Fläche wie Eichstetten: 23 und gut 12 Quadratkilometer."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Ihringen hat doppelt so viele Einwohner wie Vörstetten."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Ihringen hat gut doppelt so viele Einwohner wie Reute."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Teningen hat fast doppelt so viele Einwohner wie Ihringen."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Ihringen hat rund 1.700 Einwohner mehr als Bahlingen."
+],
+"402-riegel": [
+"Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Ihringen hat gut anderthalbmal so viele Einwohner wie Riegel."
+],
+"403-endingen": [
+"Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Endingen hat gut anderthalbmal so viele Einwohner wie Ihringen."
 ],
 "70-breisach": [
 "Breisach hat gut zweieinhalbmal so viele Einwohner wie Ihringen.",
@@ -6153,7 +11061,7 @@ window.QA_DATEN = {
 },
 "ags": "08315059",
 "ortsteil": false,
-"km_vom_vorigen": 9.2
+"km_vom_vorigen": 11.7
 },
 {
 "slug": "70-breisach",
@@ -6347,6 +11255,29 @@ window.QA_DATEN = {
 "Breisach ist eine Stadt, Ihringen eine Gemeinde; beide bilden eine Verwaltungsgemeinschaft."
 ],
 "anschluesse": {
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Breisach die CDU.",
+"Breisach hat dreimal so viele Einwohner wie Merzhausen."
+],
+"391-ebringen": [
+"Breisach hat sechsmal so viele Einwohner wie Ebringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Breisach die AfD."
+],
+"392-schallstadt": [
+"Breisach hat fast zweieinhalbmal so viele Einwohner wie Schallstadt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Breisach die AfD."
+],
+"393-bad-krozingen": [
+"Bad Krozingen hat rund 5.000 Einwohner mehr als Breisach."
+],
+"394-heitersheim": [
+"Breisach hat zweieinhalbmal so viele Einwohner wie Heitersheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Heitersheim die SPD, in Breisach die AfD."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Breisach zum Landkreis Breisgau-Hochschwarzwald.",
+"Breisach hat gut dreimal so viele Einwohner wie Hochdorf."
+],
 "65-march": [
 "Breisach hat fast doppelt so viele Einwohner wie March.",
 "Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Breisach die AfD."
@@ -6361,6 +11292,22 @@ window.QA_DATEN = {
 ],
 "68-eichstetten": [
 "Breisach hat viereinhalbmal so viele Einwohner wie Eichstetten."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Breisach zum Landkreis Breisgau-Hochschwarzwald.",
+"Breisach hat fast sechsmal so viele Einwohner wie Reute."
+],
+"401-bahlingen": [
+"Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Breisach zum Landkreis Breisgau-Hochschwarzwald.",
+"Breisach hat gut dreieinhalbmal so viele Einwohner wie Bahlingen."
+],
+"402-riegel": [
+"Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Breisach zum Landkreis Breisgau-Hochschwarzwald.",
+"Breisach hat gut viermal so viele Einwohner wie Riegel."
+],
+"403-endingen": [
+"Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Breisach zum Landkreis Breisgau-Hochschwarzwald.",
+"Breisach hat gut anderthalbmal so viele Einwohner wie Endingen."
 ],
 "69-ihringen": [
 "Breisach hat gut zweieinhalbmal so viele Einwohner wie Ihringen.",
@@ -6543,6 +11490,37 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Stegen wählten 89,4, in Breisach 82,3 Prozent."
 ],
 "anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Stegen die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Stegen die CDU."
+],
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Stegen die CDU.",
+"Merzhausen hat rund 900 Einwohner mehr als Stegen."
+],
+"390-au-breisgau": [
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Stegen die CDU.",
+"Stegen hat dreimal so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Stegen hat gut anderthalbmal so viele Einwohner wie Ebringen."
+],
+"392-schallstadt": [
+"Schallstadt hat gut anderthalbmal so viele Einwohner wie Stegen.",
+"Stegen liegt rund 170 Meter höher als Schallstadt."
+],
+"396-waldkirch": [
+"Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+"Waldkirch hat fast fünfmal so viele Einwohner wie Stegen."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+"Hochdorf hat rund 800 Einwohner mehr als Stegen."
+],
 "65-march": [
 "March hat gut doppelt so viele Einwohner wie Stegen.",
 "Stegen liegt rund 210 Meter höher als March."
@@ -6550,6 +11528,18 @@ window.QA_DATEN = {
 "66-gottenheim": [
 "Stegen hat fast anderthalbmal so viele Einwohner wie Gottenheim.",
 "Stegen liegt rund 200 Meter höher als Gottenheim."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+"Stegen hat fast anderthalbmal so viele Einwohner wie Vörstetten."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+"Stegen hat anderthalbmal so viele Einwohner wie Reute."
+],
+"400-teningen": [
+"Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+"Teningen hat gut zweieinhalbmal so viele Einwohner wie Stegen."
 ],
 "72-oberried": [
 "Stegen hat gut anderthalbmal so viele Einwohner wie Oberried.",
@@ -6747,9 +11737,53 @@ window.QA_DATEN = {
 "Stegen und Oberried gehören beide zum Gemeindeverwaltungsverband Dreisamtal."
 ],
 "anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Oberried die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Oberried die CDU."
+],
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Oberried die CDU.",
+"Merzhausen hat doppelt so viele Einwohner wie Oberried."
+],
+"390-au-breisgau": [
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Oberried die CDU.",
+"Oberried hat fast doppelt so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Ebringen und Oberried sind fast gleich groß: rund 2.900 und 2.800 Einwohner.",
+"Oberried liegt rund 170 Meter höher als Ebringen."
+],
+"392-schallstadt": [
+"Schallstadt hat zweieinhalbmal so viele Einwohner wie Oberried.",
+"Oberried liegt rund 220 Meter höher als Schallstadt."
+],
+"393-bad-krozingen": [
+"Bad Krozingen hat achtmal so viele Einwohner wie Oberried.",
+"Oberried liegt rund 230 Meter höher als Bad Krozingen."
+],
+"396-waldkirch": [
+"Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+"Waldkirch hat achtmal so viele Einwohner wie Oberried."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+"Hochdorf hat fast doppelt so viele Einwohner wie Oberried."
+],
 "65-march": [
 "March hat fast dreieinhalbmal so viele Einwohner wie Oberried.",
 "Oberried liegt rund 260 Meter höher als March."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+"Vörstetten hat rund 400 Einwohner mehr als Oberried."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+"Reute und Oberried sind fast gleich groß: rund 3.000 und 2.800 Einwohner."
 ],
 "71-stegen": [
 "Oberried hat zweieinhalbmal so viel Fläche wie Stegen, aber nicht einmal zwei Drittel der Einwohner.",
@@ -6978,9 +12012,49 @@ window.QA_DATEN = {
 "Oberried und Buchenbach gehören beide zum Gemeindeverwaltungsverband Dreisamtal."
 ],
 "anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Buchenbach die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Buchenbach die CDU."
+],
+"389-merzhausen": [
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Buchenbach die CDU.",
+"Merzhausen hat gut anderthalbmal so viele Einwohner wie Buchenbach."
+],
+"390-au-breisgau": [
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Buchenbach die CDU.",
+"Buchenbach hat gut doppelt so viele Einwohner wie Au."
+],
+"391-ebringen": [
+"Buchenbach hat rund 300 Einwohner mehr als Ebringen.",
+"Buchenbach liegt rund 160 Meter höher als Ebringen."
+],
+"392-schallstadt": [
+"Schallstadt hat gut doppelt so viele Einwohner wie Buchenbach.",
+"Buchenbach liegt rund 210 Meter höher als Schallstadt."
+],
+"396-waldkirch": [
+"Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+"Waldkirch hat siebenmal so viele Einwohner wie Buchenbach."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+"Hochdorf hat gut anderthalbmal so viele Einwohner wie Buchenbach."
+],
 "65-march": [
 "March hat dreimal so viele Einwohner wie Buchenbach.",
 "Buchenbach liegt rund 250 Meter höher als March."
+],
+"398-voerstetten": [
+"Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+"Vörstetten und Buchenbach sind fast gleich groß: rund 3.200 und 3.200 Einwohner."
+],
+"399-reute": [
+"Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+"Reute und Buchenbach sind fast gleich groß: rund 3.000 und 3.200 Einwohner."
 ],
 "71-stegen": [
 "Stegen hat fast anderthalbmal so viele Einwohner wie Buchenbach."
@@ -7194,6 +12268,14 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Buchenbach und in Hinterzarten kamen die Grünen auf Platz zwei."
 ],
 "anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Hinterzarten zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Hinterzarten die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Hinterzarten zum Landkreis Breisgau-Hochschwarzwald.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Hinterzarten die CDU."
+],
 "71-stegen": [
 "Stegen hat fast doppelt so viele Einwohner wie Hinterzarten.",
 "Hinterzarten liegt rund 480 Meter höher als Stegen."
@@ -20307,6 +25389,37 @@ window.QA_DATEN = {
 "anschluss_von": "95-starzach",
 "anschluss": [],
 "anschluesse": {
+"387-ebnet": [
+"Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Emmendingen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Emmendingen die CDU."
+],
+"388-littenweiler": [
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Emmendingen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Emmendingen die CDU."
+],
+"389-merzhausen": [
+"Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Emmendingen die CDU."
+],
+"390-au-breisgau": [
+"Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Emmendingen die CDU."
+],
+"391-ebringen": [
+"Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+"Emmendingen hat gut zehnmal so viele Einwohner wie Ebringen."
+],
+"392-schallstadt": [
+"Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+"Emmendingen hat gut viermal so viele Einwohner wie Schallstadt."
+],
+"396-waldkirch": [
+"Emmendingen hat rund 7.800 Einwohner mehr als Waldkirch."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Emmendingen zum Landkreis Emmendingen.",
+"Emmendingen hat fast sechsmal so viele Einwohner wie Hochdorf."
+],
 "65-march": [
 "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
 "Emmendingen hat gut dreimal so viele Einwohner wie March."
@@ -20322,6 +25435,29 @@ window.QA_DATEN = {
 "68-eichstetten": [
 "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
 "Emmendingen hat achtmal so viele Einwohner wie Eichstetten."
+],
+"398-voerstetten": [
+"Emmendingen hat gut neunmal so viele Einwohner wie Vörstetten."
+],
+"399-reute": [
+"Emmendingen hat zehnmal so viele Einwohner wie Reute.",
+"Reute liegt rund 750 Meter höher als Emmendingen."
+],
+"400-teningen": [
+"Emmendingen hat zweieinhalbmal so viele Einwohner wie Teningen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Emmendingen die Grünen."
+],
+"401-bahlingen": [
+"Emmendingen hat gut sechsmal so viele Einwohner wie Bahlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Emmendingen die Grünen."
+],
+"402-riegel": [
+"Emmendingen hat gut siebenmal so viele Einwohner wie Riegel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Riegel die AfD, in Emmendingen die Grünen."
+],
+"403-endingen": [
+"Emmendingen hat fast dreimal so viele Einwohner wie Endingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Endingen die AfD, in Emmendingen die Grünen."
 ],
 "69-ihringen": [
 "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
@@ -20536,6 +25672,14 @@ window.QA_DATEN = {
 "Kenzingen und Emmendingen liegen beide im Landkreis Emmendingen."
 ],
 "anschluesse": {
+"396-waldkirch": [
+"Waldkirch hat doppelt so viele Einwohner wie Kenzingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Kenzingen die AfD."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Kenzingen zum Landkreis Emmendingen.",
+"Kenzingen hat doppelt so viele Einwohner wie Hochdorf."
+],
 "65-march": [
 "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Kenzingen zum Landkreis Emmendingen.",
 "Kenzingen hat rund 1.500 Einwohner mehr als March."
@@ -20551,6 +25695,28 @@ window.QA_DATEN = {
 "68-eichstetten": [
 "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Kenzingen zum Landkreis Emmendingen.",
 "Kenzingen hat fast dreimal so viele Einwohner wie Eichstetten."
+],
+"398-voerstetten": [
+"Kenzingen hat dreieinhalbmal so viele Einwohner wie Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Kenzingen die AfD."
+],
+"399-reute": [
+"Kenzingen hat dreieinhalbmal so viele Einwohner wie Reute.",
+"Reute liegt rund 780 Meter höher als Kenzingen."
+],
+"400-teningen": [
+"Teningen hat rund 1.200 Einwohner mehr als Kenzingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Kenzingen die AfD."
+],
+"401-bahlingen": [
+"Kenzingen hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Kenzingen die AfD."
+],
+"402-riegel": [
+"Kenzingen hat gut zweieinhalbmal so viele Einwohner wie Riegel."
+],
+"403-endingen": [
+"Endingen und Kenzingen sind fast gleich groß: rund 11.000 und 11.000 Einwohner."
 ],
 "69-ihringen": [
 "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Kenzingen zum Landkreis Emmendingen.",
@@ -20783,6 +25949,14 @@ window.QA_DATEN = {
 "Herbolzheim und Kenzingen sind fast gleich groß: rund 10.700 und 10.800 Einwohner."
 ],
 "anschluesse": {
+"396-waldkirch": [
+"Waldkirch hat doppelt so viele Einwohner wie Herbolzheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Herbolzheim die AfD."
+],
+"397-hochdorf-freiburg": [
+"Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Herbolzheim zum Landkreis Emmendingen.",
+"Herbolzheim hat doppelt so viele Einwohner wie Hochdorf."
+],
 "65-march": [
 "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Herbolzheim zum Landkreis Emmendingen.",
 "Herbolzheim hat rund 1.400 Einwohner mehr als March."
@@ -20798,6 +25972,28 @@ window.QA_DATEN = {
 "68-eichstetten": [
 "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Herbolzheim zum Landkreis Emmendingen.",
 "Herbolzheim hat fast dreimal so viele Einwohner wie Eichstetten."
+],
+"398-voerstetten": [
+"Herbolzheim hat fast dreieinhalbmal so viele Einwohner wie Vörstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Herbolzheim die AfD."
+],
+"399-reute": [
+"Herbolzheim hat dreieinhalbmal so viele Einwohner wie Reute.",
+"Reute liegt rund 780 Meter höher als Herbolzheim."
+],
+"400-teningen": [
+"Teningen hat rund 1.300 Einwohner mehr als Herbolzheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Herbolzheim die AfD."
+],
+"401-bahlingen": [
+"Herbolzheim hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Herbolzheim die AfD."
+],
+"402-riegel": [
+"Herbolzheim hat gut zweieinhalbmal so viele Einwohner wie Riegel."
+],
+"403-endingen": [
+"Endingen und Herbolzheim sind fast gleich groß: rund 11.000 und 11.000 Einwohner."
 ],
 "11-emmendingen": [
 "Emmendingen hat gut zweieinhalbmal so viele Einwohner wie Herbolzheim.",

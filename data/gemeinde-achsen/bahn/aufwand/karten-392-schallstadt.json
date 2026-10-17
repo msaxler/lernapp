@@ -1,0 +1,50 @@
+{
+ "stufe": "karten",
+ "ort": "392-schallstadt",
+ "prompt": "prompt-karten-v0.8.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 37660,
+ "token_ein": 38995,
+ "token_aus": 30863,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 32091,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 30863,
+  "output_tokens_details": {
+   "thinking_tokens": 21356
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 32091,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 30863,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 32091,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 32091
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.8753763999999999,
+ "sekunden": 264,
+ "fehler": false,
+ "zeit": "2026-10-17T10:56:46"
+}

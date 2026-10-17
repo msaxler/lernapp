@@ -1,7 +1,879 @@
 {
  "_doc": "Gerechnet von scripts/data-build/gemeinde_achsen_anschluesse.py (Radius 20 km); Handzeilen in anschluss-berichtigt.json haben für ihr Paar Vorrang.",
  "anschluesse": {
+  "387-ebnet": {
+   "388-littenweiler": [
+    "Littenweiler hat fast dreimal so viele Einwohner wie Ebnet."
+   ],
+   "389-merzhausen": [
+    "Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Merzhausen hat fast doppelt so viele Einwohner wie Ebnet."
+   ],
+   "390-au-breisgau": [
+    "Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Ebnet hat doppelt so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Ebringen lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "392-schallstadt": [
+    "Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Schallstadt lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "393-bad-krozingen": [
+    "Kreisgrenze: Bad Krozingen gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Bad Krozingen lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Waldkirch lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "397-hochdorf-freiburg": [
+    "Bundestagswahl 2025: In Hochdorf lag die CDU vorn, in Ebnet die Grünen.",
+    "Hochdorf hat fast doppelt so viele Einwohner wie Ebnet."
+   ],
+   "65-march": [
+    "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In March lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "66-gottenheim": [
+    "Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Gottenheim lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "67-boetzingen": [
+    "Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Bötzingen lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "68-eichstetten": [
+    "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Eichstetten lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Vörstetten lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Reute lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Teningen lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Bahlingen lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "71-stegen": [
+    "Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Stegen lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "72-oberried": [
+    "Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Oberried lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "73-buchenbach": [
+    "Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Buchenbach lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "74-hinterzarten": [
+    "Kreisgrenze: Hinterzarten gehört zum Landkreis Breisgau-Hochschwarzwald, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Hinterzarten lag die CDU vorn, in Ebnet die Grünen."
+   ],
+   "11-emmendingen": [
+    "Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Ebnet zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Emmendingen lag die CDU vorn, in Ebnet die Grünen."
+   ]
+  },
+  "388-littenweiler": {
+   "387-ebnet": [
+    "Littenweiler hat fast dreimal so viele Einwohner wie Ebnet."
+   ],
+   "389-merzhausen": [
+    "Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Littenweiler hat gut anderthalbmal so viele Einwohner wie Merzhausen."
+   ],
+   "390-au-breisgau": [
+    "Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Littenweiler hat fast sechsmal so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Ebringen lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "392-schallstadt": [
+    "Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Schallstadt lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "393-bad-krozingen": [
+    "Kreisgrenze: Bad Krozingen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Bad Krozingen lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Waldkirch lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "397-hochdorf-freiburg": [
+    "Bundestagswahl 2025: In Hochdorf lag die CDU vorn, in Littenweiler die Grünen.",
+    "Littenweiler hat gut anderthalbmal so viele Einwohner wie Hochdorf."
+   ],
+   "65-march": [
+    "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In March lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "66-gottenheim": [
+    "Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Gottenheim lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "67-boetzingen": [
+    "Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Bötzingen lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "68-eichstetten": [
+    "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Eichstetten lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Vörstetten lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Reute lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Teningen lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Bahlingen lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "69-ihringen": [
+    "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Ihringen lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "71-stegen": [
+    "Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Stegen lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "72-oberried": [
+    "Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Oberried lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "73-buchenbach": [
+    "Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Buchenbach lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "74-hinterzarten": [
+    "Kreisgrenze: Hinterzarten gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Hinterzarten lag die CDU vorn, in Littenweiler die Grünen."
+   ],
+   "11-emmendingen": [
+    "Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Emmendingen lag die CDU vorn, in Littenweiler die Grünen."
+   ]
+  },
+  "389-merzhausen": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Merzhausen hat fast doppelt so viele Einwohner wie Ebnet."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Littenweiler hat gut anderthalbmal so viele Einwohner wie Merzhausen."
+   ],
+   "390-au-breisgau": [
+    "Merzhausen hat dreieinhalbmal so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Bundestagswahl 2025: In Ebringen lag die CDU vorn, in Merzhausen die Grünen.",
+    "Merzhausen hat fast doppelt so viele Einwohner wie Ebringen."
+   ],
+   "392-schallstadt": [
+    "Bundestagswahl 2025: In Schallstadt lag die CDU vorn, in Merzhausen die Grünen.",
+    "Schallstadt hat rund 1.600 Einwohner mehr als Merzhausen."
+   ],
+   "393-bad-krozingen": [
+    "Bundestagswahl 2025: In Bad Krozingen lag die CDU vorn, in Merzhausen die Grünen.",
+    "Bad Krozingen hat viermal so viele Einwohner wie Merzhausen."
+   ],
+   "394-heitersheim": [
+    "Bundestagswahl 2025: In Heitersheim lag die CDU vorn, in Merzhausen die Grünen.",
+    "Heitersheim hat rund 1.200 Einwohner mehr als Merzhausen."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Waldkirch lag die CDU vorn, in Merzhausen die Grünen."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Hochdorf lag die CDU vorn, in Merzhausen die Grünen."
+   ],
+   "65-march": [
+    "Bundestagswahl 2025: In March lag die CDU vorn, in Merzhausen die Grünen.",
+    "March hat gut anderthalbmal so viele Einwohner wie Merzhausen."
+   ],
+   "66-gottenheim": [
+    "Bundestagswahl 2025: In Gottenheim lag die CDU vorn, in Merzhausen die Grünen.",
+    "Merzhausen hat gut anderthalbmal so viele Einwohner wie Gottenheim."
+   ],
+   "67-boetzingen": [
+    "Bundestagswahl 2025: In Bötzingen lag die CDU vorn, in Merzhausen die Grünen.",
+    "Bötzingen und Merzhausen sind fast gleich groß: rund 5.500 und 5.400 Einwohner."
+   ],
+   "68-eichstetten": [
+    "Bundestagswahl 2025: In Eichstetten lag die CDU vorn, in Merzhausen die Grünen.",
+    "Merzhausen hat fast anderthalbmal so viele Einwohner wie Eichstetten."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Vörstetten lag die CDU vorn, in Merzhausen die Grünen."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Reute lag die CDU vorn, in Merzhausen die Grünen."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Teningen lag die CDU vorn, in Merzhausen die Grünen."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Bahlingen lag die CDU vorn, in Merzhausen die Grünen."
+   ],
+   "69-ihringen": [
+    "Bundestagswahl 2025: In Ihringen lag die CDU vorn, in Merzhausen die Grünen.",
+    "Ihringen hat rund 900 Einwohner mehr als Merzhausen."
+   ],
+   "70-breisach": [
+    "Bundestagswahl 2025: In Breisach lag die CDU vorn, in Merzhausen die Grünen.",
+    "Breisach hat dreimal so viele Einwohner wie Merzhausen."
+   ],
+   "71-stegen": [
+    "Bundestagswahl 2025: In Stegen lag die CDU vorn, in Merzhausen die Grünen.",
+    "Merzhausen hat rund 900 Einwohner mehr als Stegen."
+   ],
+   "72-oberried": [
+    "Bundestagswahl 2025: In Oberried lag die CDU vorn, in Merzhausen die Grünen.",
+    "Merzhausen hat doppelt so viele Einwohner wie Oberried."
+   ],
+   "73-buchenbach": [
+    "Bundestagswahl 2025: In Buchenbach lag die CDU vorn, in Merzhausen die Grünen.",
+    "Merzhausen hat gut anderthalbmal so viele Einwohner wie Buchenbach."
+   ],
+   "11-emmendingen": [
+    "Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Emmendingen lag die CDU vorn, in Merzhausen die Grünen."
+   ]
+  },
+  "390-au-breisgau": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Au zum Landkreis Breisgau-Hochschwarzwald.",
+    "Ebnet hat doppelt so viele Einwohner wie Au."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Au zum Landkreis Breisgau-Hochschwarzwald.",
+    "Littenweiler hat fast sechsmal so viele Einwohner wie Au."
+   ],
+   "389-merzhausen": [
+    "Merzhausen hat dreieinhalbmal so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Bundestagswahl 2025: In Ebringen lag die CDU vorn, in Au die Grünen.",
+    "Ebringen hat fast doppelt so viele Einwohner wie Au."
+   ],
+   "392-schallstadt": [
+    "Bundestagswahl 2025: In Schallstadt lag die CDU vorn, in Au die Grünen.",
+    "Schallstadt hat gut viereinhalbmal so viele Einwohner wie Au."
+   ],
+   "393-bad-krozingen": [
+    "Bundestagswahl 2025: In Bad Krozingen lag die CDU vorn, in Au die Grünen.",
+    "Bad Krozingen hat gut vierzehnmal so viele Einwohner wie Au."
+   ],
+   "394-heitersheim": [
+    "Bundestagswahl 2025: In Heitersheim lag die CDU vorn, in Au die Grünen.",
+    "Heitersheim hat viereinhalbmal so viele Einwohner wie Au."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Au zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Waldkirch lag die CDU vorn, in Au die Grünen."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Au zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Hochdorf lag die CDU vorn, in Au die Grünen."
+   ],
+   "65-march": [
+    "Bundestagswahl 2025: In March lag die CDU vorn, in Au die Grünen.",
+    "March hat gut sechsmal so viele Einwohner wie Au."
+   ],
+   "66-gottenheim": [
+    "Bundestagswahl 2025: In Gottenheim lag die CDU vorn, in Au die Grünen.",
+    "Gottenheim hat gut doppelt so viele Einwohner wie Au."
+   ],
+   "67-boetzingen": [
+    "Bundestagswahl 2025: In Bötzingen lag die CDU vorn, in Au die Grünen.",
+    "Bötzingen hat gut dreieinhalbmal so viele Einwohner wie Au."
+   ],
+   "68-eichstetten": [
+    "Bundestagswahl 2025: In Eichstetten lag die CDU vorn, in Au die Grünen.",
+    "Eichstetten hat zweieinhalbmal so viele Einwohner wie Au."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Au zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Vörstetten lag die CDU vorn, in Au die Grünen."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Au zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Reute lag die CDU vorn, in Au die Grünen."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Au zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Teningen lag die CDU vorn, in Au die Grünen."
+   ],
+   "69-ihringen": [
+    "Bundestagswahl 2025: In Ihringen lag die CDU vorn, in Au die Grünen.",
+    "Ihringen hat gut viermal so viele Einwohner wie Au."
+   ],
+   "71-stegen": [
+    "Bundestagswahl 2025: In Stegen lag die CDU vorn, in Au die Grünen.",
+    "Stegen hat dreimal so viele Einwohner wie Au."
+   ],
+   "72-oberried": [
+    "Bundestagswahl 2025: In Oberried lag die CDU vorn, in Au die Grünen.",
+    "Oberried hat fast doppelt so viele Einwohner wie Au."
+   ],
+   "73-buchenbach": [
+    "Bundestagswahl 2025: In Buchenbach lag die CDU vorn, in Au die Grünen.",
+    "Buchenbach hat gut doppelt so viele Einwohner wie Au."
+   ],
+   "11-emmendingen": [
+    "Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Au zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Emmendingen lag die CDU vorn, in Au die Grünen."
+   ]
+  },
+  "391-ebringen": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Ebringen die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Ebringen die CDU."
+   ],
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Ebringen die CDU.",
+    "Merzhausen hat fast doppelt so viele Einwohner wie Ebringen."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Ebringen die CDU.",
+    "Ebringen hat fast doppelt so viele Einwohner wie Au."
+   ],
+   "392-schallstadt": [
+    "Schallstadt hat zweieinhalbmal so viele Einwohner wie Ebringen."
+   ],
+   "393-bad-krozingen": [
+    "Bad Krozingen hat fast achtmal so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Ebringen die Grünen."
+   ],
+   "394-heitersheim": [
+    "Heitersheim hat fast zweieinhalbmal so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Heitersheim die SPD, in Ebringen die Grünen."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Hochdorf hat fast doppelt so viele Einwohner wie Ebringen."
+   ],
+   "65-march": [
+    "March hat fast dreieinhalbmal so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Ebringen die Grünen."
+   ],
+   "66-gottenheim": [
+    "Gottenheim hat rund 300 Einwohner mehr als Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Gottenheim die SPD, in Ebringen die Grünen."
+   ],
+   "67-boetzingen": [
+    "Bötzingen hat fast doppelt so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Ebringen die Grünen."
+   ],
+   "68-eichstetten": [
+    "Eichstetten hat rund 900 Einwohner mehr als Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in Ebringen die Grünen."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Vörstetten hat rund 300 Einwohner mehr als Ebringen."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Reute und Ebringen sind fast gleich groß: rund 3.000 und 2.900 Einwohner."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Teningen hat gut viermal so viele Einwohner wie Ebringen."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bahlingen hat gut anderthalbmal so viele Einwohner wie Ebringen."
+   ],
+   "69-ihringen": [
+    "Ihringen hat gut doppelt so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Ihringen die SPD, in Ebringen die Grünen."
+   ],
+   "70-breisach": [
+    "Breisach hat sechsmal so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Breisach die AfD, in Ebringen die Grünen."
+   ],
+   "71-stegen": [
+    "Stegen hat gut anderthalbmal so viele Einwohner wie Ebringen."
+   ],
+   "72-oberried": [
+    "Oberried und Ebringen sind fast gleich groß: rund 2.800 und 2.900 Einwohner.",
+    "Oberried liegt rund 170 Meter höher als Ebringen."
+   ],
+   "73-buchenbach": [
+    "Buchenbach hat rund 300 Einwohner mehr als Ebringen.",
+    "Buchenbach liegt rund 160 Meter höher als Ebringen."
+   ],
+   "11-emmendingen": [
+    "Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Emmendingen hat gut zehnmal so viele Einwohner wie Ebringen."
+   ]
+  },
+  "392-schallstadt": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Schallstadt die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Schallstadt die CDU."
+   ],
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Schallstadt die CDU.",
+    "Schallstadt hat rund 1.600 Einwohner mehr als Merzhausen."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Schallstadt die CDU.",
+    "Schallstadt hat gut viereinhalbmal so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Schallstadt hat zweieinhalbmal so viele Einwohner wie Ebringen."
+   ],
+   "393-bad-krozingen": [
+    "Bad Krozingen hat gut dreimal so viele Einwohner wie Schallstadt.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Schallstadt die Grünen."
+   ],
+   "394-heitersheim": [
+    "Heitersheim und Schallstadt sind fast gleich groß: rund 6.600 und 7.000 Einwohner.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Heitersheim die SPD, in Schallstadt die Grünen."
+   ],
+   "395-muellheim": [
+    "Müllheim hat fast dreimal so viele Einwohner wie Schallstadt."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+    "Schallstadt hat rund 1.700 Einwohner mehr als Hochdorf."
+   ],
+   "65-march": [
+    "March hat rund 2.400 Einwohner mehr als Schallstadt.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Schallstadt die Grünen."
+   ],
+   "66-gottenheim": [
+    "Schallstadt hat gut doppelt so viele Einwohner wie Gottenheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Gottenheim die SPD, in Schallstadt die Grünen."
+   ],
+   "67-boetzingen": [
+    "Schallstadt hat rund 1.400 Einwohner mehr als Bötzingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Schallstadt die Grünen."
+   ],
+   "68-eichstetten": [
+    "Schallstadt hat fast doppelt so viele Einwohner wie Eichstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in Schallstadt die Grünen."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+    "Schallstadt hat gut doppelt so viele Einwohner wie Vörstetten."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+    "Schallstadt hat fast zweieinhalbmal so viele Einwohner wie Reute."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+    "Teningen hat gut anderthalbmal so viele Einwohner wie Schallstadt."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+    "Schallstadt hat anderthalbmal so viele Einwohner wie Bahlingen."
+   ],
+   "69-ihringen": [
+    "Schallstadt hat rund 700 Einwohner mehr als Ihringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Ihringen die SPD, in Schallstadt die Grünen."
+   ],
+   "70-breisach": [
+    "Breisach hat fast zweieinhalbmal so viele Einwohner wie Schallstadt.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Breisach die AfD, in Schallstadt die Grünen."
+   ],
+   "71-stegen": [
+    "Schallstadt hat gut anderthalbmal so viele Einwohner wie Stegen.",
+    "Stegen liegt rund 170 Meter höher als Schallstadt."
+   ],
+   "72-oberried": [
+    "Schallstadt hat zweieinhalbmal so viele Einwohner wie Oberried.",
+    "Oberried liegt rund 220 Meter höher als Schallstadt."
+   ],
+   "73-buchenbach": [
+    "Schallstadt hat gut doppelt so viele Einwohner wie Buchenbach.",
+    "Buchenbach liegt rund 210 Meter höher als Schallstadt."
+   ],
+   "11-emmendingen": [
+    "Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Schallstadt zum Landkreis Breisgau-Hochschwarzwald.",
+    "Emmendingen hat gut viermal so viele Einwohner wie Schallstadt."
+   ]
+  },
+  "393-bad-krozingen": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bad Krozingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Bad Krozingen die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bad Krozingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Bad Krozingen die CDU."
+   ],
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Bad Krozingen die CDU.",
+    "Bad Krozingen hat viermal so viele Einwohner wie Merzhausen."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Bad Krozingen die CDU.",
+    "Bad Krozingen hat gut vierzehnmal so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Bad Krozingen hat fast achtmal so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Bad Krozingen die AfD."
+   ],
+   "392-schallstadt": [
+    "Bad Krozingen hat gut dreimal so viele Einwohner wie Schallstadt.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Bad Krozingen die AfD."
+   ],
+   "394-heitersheim": [
+    "Bad Krozingen hat fast dreieinhalbmal so viele Einwohner wie Heitersheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Heitersheim die SPD, in Bad Krozingen die AfD."
+   ],
+   "395-muellheim": [
+    "Müllheim und Bad Krozingen sind fast gleich groß: rund 20.000 und 22.000 Einwohner.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Müllheim die Grünen, in Bad Krozingen die AfD."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bad Krozingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bad Krozingen hat viermal so viele Einwohner wie Hochdorf."
+   ],
+   "65-march": [
+    "Bad Krozingen hat fast zweieinhalbmal so viele Einwohner wie March.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Bad Krozingen die AfD."
+   ],
+   "66-gottenheim": [
+    "Bad Krozingen hat siebenmal so viele Einwohner wie Gottenheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Gottenheim die SPD, in Bad Krozingen die AfD."
+   ],
+   "67-boetzingen": [
+    "Bad Krozingen hat viermal so viele Einwohner wie Bötzingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Bad Krozingen die AfD."
+   ],
+   "68-eichstetten": [
+    "Bad Krozingen hat fast sechsmal so viele Einwohner wie Eichstetten."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Bad Krozingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bad Krozingen hat siebenmal so viele Einwohner wie Vörstetten."
+   ],
+   "69-ihringen": [
+    "Bad Krozingen hat dreieinhalbmal so viele Einwohner wie Ihringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Ihringen die SPD, in Bad Krozingen die AfD."
+   ],
+   "70-breisach": [
+    "Bad Krozingen hat rund 5.000 Einwohner mehr als Breisach."
+   ],
+   "72-oberried": [
+    "Bad Krozingen hat achtmal so viele Einwohner wie Oberried.",
+    "Oberried liegt rund 230 Meter höher als Bad Krozingen."
+   ]
+  },
+  "394-heitersheim": {
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Heitersheim die CDU.",
+    "Heitersheim hat rund 1.200 Einwohner mehr als Merzhausen."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Heitersheim die CDU.",
+    "Heitersheim hat viereinhalbmal so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Heitersheim hat fast zweieinhalbmal so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Heitersheim die SPD."
+   ],
+   "392-schallstadt": [
+    "Schallstadt und Heitersheim sind fast gleich groß: rund 7.000 und 6.600 Einwohner.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Heitersheim die SPD."
+   ],
+   "393-bad-krozingen": [
+    "Bad Krozingen hat fast dreieinhalbmal so viele Einwohner wie Heitersheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Heitersheim die SPD."
+   ],
+   "395-muellheim": [
+    "Müllheim hat dreimal so viele Einwohner wie Heitersheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Müllheim die Grünen, in Heitersheim die SPD."
+   ],
+   "69-ihringen": [
+    "Ihringen und Heitersheim sind fast gleich groß: rund 6.300 und 6.600 Einwohner."
+   ],
+   "70-breisach": [
+    "Breisach hat zweieinhalbmal so viele Einwohner wie Heitersheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Breisach die AfD, in Heitersheim die SPD."
+   ]
+  },
+  "395-muellheim": {
+   "392-schallstadt": [
+    "Müllheim hat fast dreimal so viele Einwohner wie Schallstadt."
+   ],
+   "393-bad-krozingen": [
+    "Bad Krozingen und Müllheim sind fast gleich groß: rund 22.000 und 20.000 Einwohner.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Müllheim die Grünen."
+   ],
+   "394-heitersheim": [
+    "Müllheim hat dreimal so viele Einwohner wie Heitersheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Heitersheim die SPD, in Müllheim die Grünen."
+   ]
+  },
+  "396-waldkirch": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Waldkirch zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Waldkirch die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Waldkirch zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Waldkirch die CDU."
+   ],
+   "389-merzhausen": [
+    "Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Waldkirch die CDU."
+   ],
+   "390-au-breisgau": [
+    "Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Waldkirch die CDU."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Waldkirch zum Landkreis Emmendingen.",
+    "Waldkirch hat viermal so viele Einwohner wie Hochdorf."
+   ],
+   "65-march": [
+    "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+    "Waldkirch hat fast zweieinhalbmal so viele Einwohner wie March."
+   ],
+   "66-gottenheim": [
+    "Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+    "Waldkirch hat siebenmal so viele Einwohner wie Gottenheim."
+   ],
+   "67-boetzingen": [
+    "Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+    "Waldkirch hat viermal so viele Einwohner wie Bötzingen."
+   ],
+   "68-eichstetten": [
+    "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+    "Waldkirch hat fast sechsmal so viele Einwohner wie Eichstetten."
+   ],
+   "398-voerstetten": [
+    "Waldkirch hat siebenmal so viele Einwohner wie Vörstetten."
+   ],
+   "399-reute": [
+    "Waldkirch hat gut siebenmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 680 Meter höher als Waldkirch."
+   ],
+   "400-teningen": [
+    "Waldkirch hat fast doppelt so viele Einwohner wie Teningen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Waldkirch die Grünen."
+   ],
+   "401-bahlingen": [
+    "Waldkirch hat fast fünfmal so viele Einwohner wie Bahlingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Waldkirch die Grünen."
+   ],
+   "402-riegel": [
+    "Waldkirch hat gut fünfmal so viele Einwohner wie Riegel.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Riegel die AfD, in Waldkirch die Grünen."
+   ],
+   "403-endingen": [
+    "Waldkirch hat gut doppelt so viele Einwohner wie Endingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Endingen die AfD, in Waldkirch die Grünen."
+   ],
+   "71-stegen": [
+    "Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+    "Waldkirch hat fast fünfmal so viele Einwohner wie Stegen."
+   ],
+   "72-oberried": [
+    "Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+    "Waldkirch hat achtmal so viele Einwohner wie Oberried."
+   ],
+   "73-buchenbach": [
+    "Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Waldkirch zum Landkreis Emmendingen.",
+    "Waldkirch hat siebenmal so viele Einwohner wie Buchenbach."
+   ],
+   "11-emmendingen": [
+    "Emmendingen hat rund 7.800 Einwohner mehr als Waldkirch."
+   ],
+   "01-kenzingen": [
+    "Waldkirch hat doppelt so viele Einwohner wie Kenzingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Kenzingen die AfD, in Waldkirch die Grünen."
+   ],
+   "12-herbolzheim": [
+    "Waldkirch hat doppelt so viele Einwohner wie Herbolzheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Herbolzheim die AfD, in Waldkirch die Grünen."
+   ]
+  },
+  "397-hochdorf-freiburg": {
+   "387-ebnet": [
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Hochdorf die CDU.",
+    "Hochdorf hat fast doppelt so viele Einwohner wie Ebnet."
+   ],
+   "388-littenweiler": [
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Hochdorf die CDU.",
+    "Littenweiler hat gut anderthalbmal so viele Einwohner wie Hochdorf."
+   ],
+   "389-merzhausen": [
+    "Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Hochdorf die CDU."
+   ],
+   "390-au-breisgau": [
+    "Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Hochdorf die CDU."
+   ],
+   "391-ebringen": [
+    "Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Hochdorf hat fast doppelt so viele Einwohner wie Ebringen."
+   ],
+   "392-schallstadt": [
+    "Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Schallstadt hat rund 1.700 Einwohner mehr als Hochdorf."
+   ],
+   "393-bad-krozingen": [
+    "Kreisgrenze: Bad Krozingen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bad Krozingen hat viermal so viele Einwohner wie Hochdorf."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Waldkirch hat viermal so viele Einwohner wie Hochdorf."
+   ],
+   "65-march": [
+    "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "March hat fast doppelt so viele Einwohner wie Hochdorf."
+   ],
+   "66-gottenheim": [
+    "Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Hochdorf hat gut anderthalbmal so viele Einwohner wie Gottenheim."
+   ],
+   "67-boetzingen": [
+    "Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Bötzingen und Hochdorf sind fast gleich groß: rund 5.500 und 5.300 Einwohner."
+   ],
+   "68-eichstetten": [
+    "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Hochdorf hat fast anderthalbmal so viele Einwohner wie Eichstetten."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Hochdorf hat gut anderthalbmal so viele Einwohner wie Vörstetten."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Hochdorf hat fast doppelt so viele Einwohner wie Reute."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Teningen hat fast zweieinhalbmal so viele Einwohner wie Hochdorf."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Hochdorf hat rund 800 Einwohner mehr als Bahlingen."
+   ],
+   "402-riegel": [
+    "Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Hochdorf hat rund 1.300 Einwohner mehr als Riegel."
+   ],
+   "403-endingen": [
+    "Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Endingen hat doppelt so viele Einwohner wie Hochdorf."
+   ],
+   "69-ihringen": [
+    "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Ihringen hat rund 1.000 Einwohner mehr als Hochdorf."
+   ],
+   "70-breisach": [
+    "Kreisgrenze: Breisach gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Breisach hat gut dreimal so viele Einwohner wie Hochdorf."
+   ],
+   "71-stegen": [
+    "Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Hochdorf hat rund 800 Einwohner mehr als Stegen."
+   ],
+   "72-oberried": [
+    "Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Hochdorf hat fast doppelt so viele Einwohner wie Oberried."
+   ],
+   "73-buchenbach": [
+    "Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Hochdorf hat gut anderthalbmal so viele Einwohner wie Buchenbach."
+   ],
+   "11-emmendingen": [
+    "Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Emmendingen hat fast sechsmal so viele Einwohner wie Hochdorf."
+   ],
+   "01-kenzingen": [
+    "Kreisgrenze: Kenzingen gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Kenzingen hat doppelt so viele Einwohner wie Hochdorf."
+   ],
+   "12-herbolzheim": [
+    "Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
+    "Herbolzheim hat doppelt so viele Einwohner wie Hochdorf."
+   ]
+  },
   "65-march": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, March zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in March die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, March zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in March die CDU."
+   ],
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in March die CDU.",
+    "March hat gut anderthalbmal so viele Einwohner wie Merzhausen."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in March die CDU.",
+    "March hat gut sechsmal so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "March hat fast dreieinhalbmal so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in March die SPD."
+   ],
+   "392-schallstadt": [
+    "March hat rund 2.400 Einwohner mehr als Schallstadt.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in March die SPD."
+   ],
+   "393-bad-krozingen": [
+    "Bad Krozingen hat fast zweieinhalbmal so viele Einwohner wie March.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in March die SPD."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+    "Waldkirch hat fast zweieinhalbmal so viele Einwohner wie March."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, March zum Landkreis Breisgau-Hochschwarzwald.",
+    "March hat fast doppelt so viele Einwohner wie Hochdorf."
+   ],
    "66-gottenheim": [
     "March hat dreimal so viele Einwohner wie Gottenheim."
    ],
@@ -11,6 +883,30 @@
    "68-eichstetten": [
     "March hat zweieinhalbmal so viele Einwohner wie Eichstetten.",
     "Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in March die SPD."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+    "March hat dreimal so viele Einwohner wie Vörstetten."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+    "March hat gut dreimal so viele Einwohner wie Reute."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+    "Teningen hat rund 2.700 Einwohner mehr als March."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+    "March hat doppelt so viele Einwohner wie Bahlingen."
+   ],
+   "402-riegel": [
+    "Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+    "March hat fast zweieinhalbmal so viele Einwohner wie Riegel."
+   ],
+   "403-endingen": [
+    "Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+    "Endingen hat rund 1.200 Einwohner mehr als March."
    ],
    "69-ihringen": [
     "March hat anderthalbmal so viele Einwohner wie Ihringen."
@@ -45,6 +941,42 @@
    ]
   },
   "66-gottenheim": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Gottenheim die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Gottenheim die CDU."
+   ],
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Gottenheim die CDU.",
+    "Merzhausen hat gut anderthalbmal so viele Einwohner wie Gottenheim."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Gottenheim die CDU.",
+    "Gottenheim hat gut doppelt so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Gottenheim hat rund 300 Einwohner mehr als Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Gottenheim die SPD."
+   ],
+   "392-schallstadt": [
+    "Schallstadt hat gut doppelt so viele Einwohner wie Gottenheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Gottenheim die SPD."
+   ],
+   "393-bad-krozingen": [
+    "Bad Krozingen hat siebenmal so viele Einwohner wie Gottenheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Gottenheim die SPD."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+    "Waldkirch hat siebenmal so viele Einwohner wie Gottenheim."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+    "Hochdorf hat gut anderthalbmal so viele Einwohner wie Gottenheim."
+   ],
    "65-march": [
     "March hat dreimal so viele Einwohner wie Gottenheim."
    ],
@@ -54,6 +986,30 @@
    "68-eichstetten": [
     "Eichstetten hat rund 600 Einwohner mehr als Gottenheim.",
     "Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in Gottenheim die SPD."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+    "Vörstetten und Gottenheim sind fast gleich groß: rund 3.200 und 3.200 Einwohner."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+    "Reute und Gottenheim sind fast gleich groß: rund 3.000 und 3.200 Einwohner."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+    "Teningen hat fast viermal so viele Einwohner wie Gottenheim."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bahlingen hat fast anderthalbmal so viele Einwohner wie Gottenheim."
+   ],
+   "402-riegel": [
+    "Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+    "Riegel hat rund 800 Einwohner mehr als Gottenheim."
+   ],
+   "403-endingen": [
+    "Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+    "Endingen hat fast dreieinhalbmal so viele Einwohner wie Gottenheim."
    ],
    "69-ihringen": [
     "Ihringen hat doppelt so viele Einwohner wie Gottenheim."
@@ -80,6 +1036,42 @@
    ]
   },
   "67-boetzingen": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Bötzingen die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Bötzingen die CDU."
+   ],
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Bötzingen die CDU.",
+    "Merzhausen und Bötzingen sind fast gleich groß: rund 5.400 und 5.500 Einwohner."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Bötzingen die CDU.",
+    "Bötzingen hat gut dreieinhalbmal so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Bötzingen hat fast doppelt so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Bötzingen die SPD."
+   ],
+   "392-schallstadt": [
+    "Schallstadt hat rund 1.400 Einwohner mehr als Bötzingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Bötzingen die SPD."
+   ],
+   "393-bad-krozingen": [
+    "Bad Krozingen hat viermal so viele Einwohner wie Bötzingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Bötzingen die SPD."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Waldkirch hat viermal so viele Einwohner wie Bötzingen."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Hochdorf und Bötzingen sind fast gleich groß: rund 5.300 und 5.500 Einwohner."
+   ],
    "65-march": [
     "March hat gut anderthalbmal so viele Einwohner wie Bötzingen."
    ],
@@ -89,6 +1081,30 @@
    "68-eichstetten": [
     "Bötzingen hat anderthalbmal so viele Einwohner wie Eichstetten.",
     "Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in Bötzingen die SPD."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bötzingen hat gut anderthalbmal so viele Einwohner wie Vörstetten."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bötzingen hat fast doppelt so viele Einwohner wie Reute."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Teningen hat gut doppelt so viele Einwohner wie Bötzingen."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bötzingen hat rund 1.000 Einwohner mehr als Bahlingen."
+   ],
+   "402-riegel": [
+    "Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bötzingen hat rund 1.500 Einwohner mehr als Riegel."
+   ],
+   "403-endingen": [
+    "Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Endingen hat fast doppelt so viele Einwohner wie Bötzingen."
    ],
    "69-ihringen": [
     "Ihringen hat rund 800 Einwohner mehr als Bötzingen."
@@ -111,6 +1127,41 @@
    ]
   },
   "68-eichstetten": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Eichstetten die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Eichstetten die CDU."
+   ],
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Eichstetten die CDU.",
+    "Merzhausen hat fast anderthalbmal so viele Einwohner wie Eichstetten."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Eichstetten die CDU.",
+    "Eichstetten hat zweieinhalbmal so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Eichstetten hat rund 900 Einwohner mehr als Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Eichstetten die AfD."
+   ],
+   "392-schallstadt": [
+    "Schallstadt hat fast doppelt so viele Einwohner wie Eichstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Eichstetten die AfD."
+   ],
+   "393-bad-krozingen": [
+    "Bad Krozingen hat fast sechsmal so viele Einwohner wie Eichstetten."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Waldkirch hat fast sechsmal so viele Einwohner wie Eichstetten."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Hochdorf hat fast anderthalbmal so viele Einwohner wie Eichstetten."
+   ],
    "65-march": [
     "March hat zweieinhalbmal so viele Einwohner wie Eichstetten.",
     "Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Eichstetten die AfD."
@@ -122,6 +1173,30 @@
    "67-boetzingen": [
     "Bötzingen hat anderthalbmal so viele Einwohner wie Eichstetten.",
     "Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Eichstetten die AfD."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Eichstetten hat rund 600 Einwohner mehr als Vörstetten."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Eichstetten hat rund 800 Einwohner mehr als Reute."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Teningen hat gut dreimal so viele Einwohner wie Eichstetten."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bahlingen hat rund 800 Einwohner mehr als Eichstetten."
+   ],
+   "402-riegel": [
+    "Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Riegel und Eichstetten sind fast gleich groß: rund 4.000 und 3.800 Einwohner."
+   ],
+   "403-endingen": [
+    "Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Endingen hat fast dreimal so viele Einwohner wie Eichstetten."
    ],
    "69-ihringen": [
     "Ihringen hat gut anderthalbmal so viele Einwohner wie Eichstetten.",
@@ -143,7 +1218,540 @@
     "Herbolzheim hat fast dreimal so viele Einwohner wie Eichstetten."
    ]
   },
+  "398-voerstetten": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Vörstetten zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Vörstetten die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Vörstetten zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Vörstetten die CDU."
+   ],
+   "389-merzhausen": [
+    "Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Vörstetten die CDU."
+   ],
+   "390-au-breisgau": [
+    "Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Vörstetten die CDU."
+   ],
+   "391-ebringen": [
+    "Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Vörstetten hat rund 300 Einwohner mehr als Ebringen."
+   ],
+   "392-schallstadt": [
+    "Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Schallstadt hat gut doppelt so viele Einwohner wie Vörstetten."
+   ],
+   "393-bad-krozingen": [
+    "Kreisgrenze: Bad Krozingen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Bad Krozingen hat siebenmal so viele Einwohner wie Vörstetten."
+   ],
+   "396-waldkirch": [
+    "Waldkirch hat siebenmal so viele Einwohner wie Vörstetten."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Vörstetten zum Landkreis Emmendingen.",
+    "Hochdorf hat gut anderthalbmal so viele Einwohner wie Vörstetten."
+   ],
+   "65-march": [
+    "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "March hat dreimal so viele Einwohner wie Vörstetten."
+   ],
+   "66-gottenheim": [
+    "Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Gottenheim und Vörstetten sind fast gleich groß: rund 3.200 und 3.200 Einwohner."
+   ],
+   "67-boetzingen": [
+    "Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Bötzingen hat gut anderthalbmal so viele Einwohner wie Vörstetten."
+   ],
+   "68-eichstetten": [
+    "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Eichstetten hat rund 600 Einwohner mehr als Vörstetten."
+   ],
+   "399-reute": [
+    "Reute und Vörstetten sind fast gleich groß: rund 3.000 und 3.200 Einwohner.",
+    "Reute liegt rund 730 Meter höher als Vörstetten."
+   ],
+   "400-teningen": [
+    "Teningen hat fast viermal so viele Einwohner wie Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Vörstetten die Grünen."
+   ],
+   "401-bahlingen": [
+    "Bahlingen hat fast anderthalbmal so viele Einwohner wie Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Vörstetten die Grünen."
+   ],
+   "402-riegel": [
+    "Riegel hat rund 800 Einwohner mehr als Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Riegel die AfD, in Vörstetten die Grünen."
+   ],
+   "403-endingen": [
+    "Endingen hat fast dreieinhalbmal so viele Einwohner wie Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Endingen die AfD, in Vörstetten die Grünen."
+   ],
+   "69-ihringen": [
+    "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Ihringen hat doppelt so viele Einwohner wie Vörstetten."
+   ],
+   "71-stegen": [
+    "Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Stegen hat fast anderthalbmal so viele Einwohner wie Vörstetten."
+   ],
+   "72-oberried": [
+    "Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Vörstetten hat rund 400 Einwohner mehr als Oberried."
+   ],
+   "73-buchenbach": [
+    "Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Vörstetten zum Landkreis Emmendingen.",
+    "Buchenbach und Vörstetten sind fast gleich groß: rund 3.200 und 3.200 Einwohner."
+   ],
+   "11-emmendingen": [
+    "Emmendingen hat gut neunmal so viele Einwohner wie Vörstetten."
+   ],
+   "01-kenzingen": [
+    "Kenzingen hat dreieinhalbmal so viele Einwohner wie Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Kenzingen die AfD, in Vörstetten die Grünen."
+   ],
+   "12-herbolzheim": [
+    "Herbolzheim hat fast dreieinhalbmal so viele Einwohner wie Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Herbolzheim die AfD, in Vörstetten die Grünen."
+   ]
+  },
+  "399-reute": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Reute zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Reute die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Reute zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Reute die CDU."
+   ],
+   "389-merzhausen": [
+    "Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Reute die CDU."
+   ],
+   "390-au-breisgau": [
+    "Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Reute die CDU."
+   ],
+   "391-ebringen": [
+    "Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Ebringen und Reute sind fast gleich groß: rund 2.900 und 3.000 Einwohner."
+   ],
+   "392-schallstadt": [
+    "Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Schallstadt hat fast zweieinhalbmal so viele Einwohner wie Reute."
+   ],
+   "396-waldkirch": [
+    "Waldkirch hat gut siebenmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 680 Meter höher als Waldkirch."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Reute zum Landkreis Emmendingen.",
+    "Hochdorf hat fast doppelt so viele Einwohner wie Reute."
+   ],
+   "65-march": [
+    "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "March hat gut dreimal so viele Einwohner wie Reute."
+   ],
+   "66-gottenheim": [
+    "Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Gottenheim und Reute sind fast gleich groß: rund 3.200 und 3.000 Einwohner."
+   ],
+   "67-boetzingen": [
+    "Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Bötzingen hat fast doppelt so viele Einwohner wie Reute."
+   ],
+   "68-eichstetten": [
+    "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Eichstetten hat rund 800 Einwohner mehr als Reute."
+   ],
+   "398-voerstetten": [
+    "Vörstetten und Reute sind fast gleich groß: rund 3.200 und 3.000 Einwohner.",
+    "Reute liegt rund 730 Meter höher als Vörstetten."
+   ],
+   "400-teningen": [
+    "Teningen hat viermal so viele Einwohner wie Reute.",
+    "Reute liegt rund 770 Meter höher als Teningen."
+   ],
+   "401-bahlingen": [
+    "Bahlingen hat anderthalbmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 740 Meter höher als Bahlingen."
+   ],
+   "402-riegel": [
+    "Riegel hat rund 1.000 Einwohner mehr als Reute.",
+    "Reute liegt rund 770 Meter höher als Riegel."
+   ],
+   "403-endingen": [
+    "Endingen hat dreieinhalbmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 770 Meter höher als Endingen."
+   ],
+   "69-ihringen": [
+    "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Ihringen hat gut doppelt so viele Einwohner wie Reute."
+   ],
+   "70-breisach": [
+    "Kreisgrenze: Breisach gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Breisach hat fast sechsmal so viele Einwohner wie Reute."
+   ],
+   "71-stegen": [
+    "Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Stegen hat anderthalbmal so viele Einwohner wie Reute."
+   ],
+   "72-oberried": [
+    "Kreisgrenze: Oberried gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Oberried und Reute sind fast gleich groß: rund 2.800 und 3.000 Einwohner."
+   ],
+   "73-buchenbach": [
+    "Kreisgrenze: Buchenbach gehört zum Landkreis Breisgau-Hochschwarzwald, Reute zum Landkreis Emmendingen.",
+    "Buchenbach und Reute sind fast gleich groß: rund 3.200 und 3.000 Einwohner."
+   ],
+   "11-emmendingen": [
+    "Emmendingen hat zehnmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 750 Meter höher als Emmendingen."
+   ],
+   "01-kenzingen": [
+    "Kenzingen hat dreieinhalbmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 780 Meter höher als Kenzingen."
+   ],
+   "12-herbolzheim": [
+    "Herbolzheim hat dreieinhalbmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 780 Meter höher als Herbolzheim."
+   ]
+  },
+  "400-teningen": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Teningen zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Teningen die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Teningen zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Teningen die CDU."
+   ],
+   "389-merzhausen": [
+    "Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Teningen die CDU."
+   ],
+   "390-au-breisgau": [
+    "Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Teningen die CDU."
+   ],
+   "391-ebringen": [
+    "Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+    "Teningen hat gut viermal so viele Einwohner wie Ebringen."
+   ],
+   "392-schallstadt": [
+    "Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+    "Teningen hat gut anderthalbmal so viele Einwohner wie Schallstadt."
+   ],
+   "396-waldkirch": [
+    "Waldkirch hat fast doppelt so viele Einwohner wie Teningen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Teningen die SPD."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Teningen zum Landkreis Emmendingen.",
+    "Teningen hat fast zweieinhalbmal so viele Einwohner wie Hochdorf."
+   ],
+   "65-march": [
+    "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+    "Teningen hat rund 2.700 Einwohner mehr als March."
+   ],
+   "66-gottenheim": [
+    "Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+    "Teningen hat fast viermal so viele Einwohner wie Gottenheim."
+   ],
+   "67-boetzingen": [
+    "Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+    "Teningen hat gut doppelt so viele Einwohner wie Bötzingen."
+   ],
+   "68-eichstetten": [
+    "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+    "Teningen hat gut dreimal so viele Einwohner wie Eichstetten."
+   ],
+   "398-voerstetten": [
+    "Teningen hat fast viermal so viele Einwohner wie Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Teningen die SPD."
+   ],
+   "399-reute": [
+    "Teningen hat viermal so viele Einwohner wie Reute.",
+    "Reute liegt rund 770 Meter höher als Teningen."
+   ],
+   "401-bahlingen": [
+    "Teningen hat gut zweieinhalbmal so viele Einwohner wie Bahlingen."
+   ],
+   "402-riegel": [
+    "Teningen hat dreimal so viele Einwohner wie Riegel.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Riegel die AfD, in Teningen die SPD."
+   ],
+   "403-endingen": [
+    "Teningen hat rund 1.600 Einwohner mehr als Endingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Endingen die AfD, in Teningen die SPD."
+   ],
+   "69-ihringen": [
+    "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+    "Teningen hat fast doppelt so viele Einwohner wie Ihringen."
+   ],
+   "71-stegen": [
+    "Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Teningen zum Landkreis Emmendingen.",
+    "Teningen hat gut zweieinhalbmal so viele Einwohner wie Stegen."
+   ],
+   "11-emmendingen": [
+    "Emmendingen hat zweieinhalbmal so viele Einwohner wie Teningen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Emmendingen die Grünen, in Teningen die SPD."
+   ],
+   "01-kenzingen": [
+    "Teningen hat rund 1.200 Einwohner mehr als Kenzingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Kenzingen die AfD, in Teningen die SPD."
+   ],
+   "12-herbolzheim": [
+    "Teningen hat rund 1.300 Einwohner mehr als Herbolzheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Herbolzheim die AfD, in Teningen die SPD."
+   ]
+  },
+  "401-bahlingen": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bahlingen zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Bahlingen die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bahlingen zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Bahlingen die CDU."
+   ],
+   "389-merzhausen": [
+    "Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Bahlingen die CDU."
+   ],
+   "391-ebringen": [
+    "Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+    "Bahlingen hat gut anderthalbmal so viele Einwohner wie Ebringen."
+   ],
+   "392-schallstadt": [
+    "Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+    "Schallstadt hat anderthalbmal so viele Einwohner wie Bahlingen."
+   ],
+   "396-waldkirch": [
+    "Waldkirch hat fast fünfmal so viele Einwohner wie Bahlingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Bahlingen die SPD."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Bahlingen zum Landkreis Emmendingen.",
+    "Hochdorf hat rund 800 Einwohner mehr als Bahlingen."
+   ],
+   "65-march": [
+    "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+    "March hat doppelt so viele Einwohner wie Bahlingen."
+   ],
+   "66-gottenheim": [
+    "Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+    "Bahlingen hat fast anderthalbmal so viele Einwohner wie Gottenheim."
+   ],
+   "67-boetzingen": [
+    "Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+    "Bötzingen hat rund 1.000 Einwohner mehr als Bahlingen."
+   ],
+   "68-eichstetten": [
+    "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+    "Bahlingen hat rund 800 Einwohner mehr als Eichstetten."
+   ],
+   "398-voerstetten": [
+    "Bahlingen hat fast anderthalbmal so viele Einwohner wie Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Bahlingen die SPD."
+   ],
+   "399-reute": [
+    "Bahlingen hat anderthalbmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 740 Meter höher als Bahlingen."
+   ],
+   "400-teningen": [
+    "Teningen hat gut zweieinhalbmal so viele Einwohner wie Bahlingen."
+   ],
+   "402-riegel": [
+    "Bahlingen hat rund 600 Einwohner mehr als Riegel.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Riegel die AfD, in Bahlingen die SPD."
+   ],
+   "403-endingen": [
+    "Endingen hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Endingen die AfD, in Bahlingen die SPD."
+   ],
+   "69-ihringen": [
+    "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+    "Ihringen hat rund 1.700 Einwohner mehr als Bahlingen."
+   ],
+   "70-breisach": [
+    "Kreisgrenze: Breisach gehört zum Landkreis Breisgau-Hochschwarzwald, Bahlingen zum Landkreis Emmendingen.",
+    "Breisach hat gut dreieinhalbmal so viele Einwohner wie Bahlingen."
+   ],
+   "11-emmendingen": [
+    "Emmendingen hat gut sechsmal so viele Einwohner wie Bahlingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Emmendingen die Grünen, in Bahlingen die SPD."
+   ],
+   "01-kenzingen": [
+    "Kenzingen hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Kenzingen die AfD, in Bahlingen die SPD."
+   ],
+   "12-herbolzheim": [
+    "Herbolzheim hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Herbolzheim die AfD, in Bahlingen die SPD."
+   ]
+  },
+  "402-riegel": {
+   "396-waldkirch": [
+    "Waldkirch hat gut fünfmal so viele Einwohner wie Riegel.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Riegel die AfD."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Riegel zum Landkreis Emmendingen.",
+    "Hochdorf hat rund 1.300 Einwohner mehr als Riegel."
+   ],
+   "65-march": [
+    "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+    "March hat fast zweieinhalbmal so viele Einwohner wie Riegel."
+   ],
+   "66-gottenheim": [
+    "Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+    "Riegel hat rund 800 Einwohner mehr als Gottenheim."
+   ],
+   "67-boetzingen": [
+    "Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+    "Bötzingen hat rund 1.500 Einwohner mehr als Riegel."
+   ],
+   "68-eichstetten": [
+    "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+    "Eichstetten und Riegel sind fast gleich groß: rund 3.800 und 4.000 Einwohner."
+   ],
+   "398-voerstetten": [
+    "Riegel hat rund 800 Einwohner mehr als Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Riegel die AfD."
+   ],
+   "399-reute": [
+    "Riegel hat rund 1.000 Einwohner mehr als Reute.",
+    "Reute liegt rund 770 Meter höher als Riegel."
+   ],
+   "400-teningen": [
+    "Teningen hat dreimal so viele Einwohner wie Riegel.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Riegel die AfD."
+   ],
+   "401-bahlingen": [
+    "Bahlingen hat rund 600 Einwohner mehr als Riegel.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Riegel die AfD."
+   ],
+   "403-endingen": [
+    "Endingen hat gut zweieinhalbmal so viele Einwohner wie Riegel."
+   ],
+   "69-ihringen": [
+    "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+    "Ihringen hat gut anderthalbmal so viele Einwohner wie Riegel."
+   ],
+   "70-breisach": [
+    "Kreisgrenze: Breisach gehört zum Landkreis Breisgau-Hochschwarzwald, Riegel zum Landkreis Emmendingen.",
+    "Breisach hat gut viermal so viele Einwohner wie Riegel."
+   ],
+   "11-emmendingen": [
+    "Emmendingen hat gut siebenmal so viele Einwohner wie Riegel.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Emmendingen die Grünen, in Riegel die AfD."
+   ],
+   "01-kenzingen": [
+    "Kenzingen hat gut zweieinhalbmal so viele Einwohner wie Riegel."
+   ],
+   "12-herbolzheim": [
+    "Herbolzheim hat gut zweieinhalbmal so viele Einwohner wie Riegel."
+   ]
+  },
+  "403-endingen": {
+   "396-waldkirch": [
+    "Waldkirch hat gut doppelt so viele Einwohner wie Endingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Endingen die AfD."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Endingen zum Landkreis Emmendingen.",
+    "Endingen hat doppelt so viele Einwohner wie Hochdorf."
+   ],
+   "65-march": [
+    "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+    "Endingen hat rund 1.200 Einwohner mehr als March."
+   ],
+   "66-gottenheim": [
+    "Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+    "Endingen hat fast dreieinhalbmal so viele Einwohner wie Gottenheim."
+   ],
+   "67-boetzingen": [
+    "Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+    "Endingen hat fast doppelt so viele Einwohner wie Bötzingen."
+   ],
+   "68-eichstetten": [
+    "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+    "Endingen hat fast dreimal so viele Einwohner wie Eichstetten."
+   ],
+   "398-voerstetten": [
+    "Endingen hat fast dreieinhalbmal so viele Einwohner wie Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Endingen die AfD."
+   ],
+   "399-reute": [
+    "Endingen hat dreieinhalbmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 770 Meter höher als Endingen."
+   ],
+   "400-teningen": [
+    "Teningen hat rund 1.600 Einwohner mehr als Endingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Endingen die AfD."
+   ],
+   "401-bahlingen": [
+    "Endingen hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Endingen die AfD."
+   ],
+   "402-riegel": [
+    "Endingen hat gut zweieinhalbmal so viele Einwohner wie Riegel."
+   ],
+   "69-ihringen": [
+    "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+    "Endingen hat gut anderthalbmal so viele Einwohner wie Ihringen."
+   ],
+   "70-breisach": [
+    "Kreisgrenze: Breisach gehört zum Landkreis Breisgau-Hochschwarzwald, Endingen zum Landkreis Emmendingen.",
+    "Breisach hat gut anderthalbmal so viele Einwohner wie Endingen."
+   ],
+   "11-emmendingen": [
+    "Emmendingen hat fast dreimal so viele Einwohner wie Endingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Emmendingen die Grünen, in Endingen die AfD."
+   ],
+   "01-kenzingen": [
+    "Kenzingen und Endingen sind fast gleich groß: rund 11.000 und 11.000 Einwohner."
+   ],
+   "12-herbolzheim": [
+    "Herbolzheim und Endingen sind fast gleich groß: rund 11.000 und 11.000 Einwohner."
+   ]
+  },
   "69-ihringen": {
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Ihringen die CDU."
+   ],
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Ihringen die CDU.",
+    "Ihringen hat rund 900 Einwohner mehr als Merzhausen."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Ihringen die CDU.",
+    "Ihringen hat gut viermal so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Ihringen hat gut doppelt so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Ihringen die SPD."
+   ],
+   "392-schallstadt": [
+    "Schallstadt hat rund 700 Einwohner mehr als Ihringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Ihringen die SPD."
+   ],
+   "393-bad-krozingen": [
+    "Bad Krozingen hat dreieinhalbmal so viele Einwohner wie Ihringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Ihringen die SPD."
+   ],
+   "394-heitersheim": [
+    "Heitersheim und Ihringen sind fast gleich groß: rund 6.600 und 6.300 Einwohner."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Ihringen hat rund 1.000 Einwohner mehr als Hochdorf."
+   ],
    "65-march": [
     "March hat anderthalbmal so viele Einwohner wie Ihringen."
    ],
@@ -156,6 +1764,30 @@
    "68-eichstetten": [
     "Ihringen hat gut anderthalbmal so viele Einwohner wie Eichstetten.",
     "Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in Ihringen die SPD."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Ihringen hat doppelt so viele Einwohner wie Vörstetten."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Ihringen hat gut doppelt so viele Einwohner wie Reute."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Teningen hat fast doppelt so viele Einwohner wie Ihringen."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Ihringen hat rund 1.700 Einwohner mehr als Bahlingen."
+   ],
+   "402-riegel": [
+    "Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Ihringen hat gut anderthalbmal so viele Einwohner wie Riegel."
+   ],
+   "403-endingen": [
+    "Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Endingen hat gut anderthalbmal so viele Einwohner wie Ihringen."
    ],
    "70-breisach": [
     "Breisach hat gut zweieinhalbmal so viele Einwohner wie Ihringen.",
@@ -171,6 +1803,29 @@
    ]
   },
   "70-breisach": {
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Breisach die CDU.",
+    "Breisach hat dreimal so viele Einwohner wie Merzhausen."
+   ],
+   "391-ebringen": [
+    "Breisach hat sechsmal so viele Einwohner wie Ebringen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Breisach die AfD."
+   ],
+   "392-schallstadt": [
+    "Breisach hat fast zweieinhalbmal so viele Einwohner wie Schallstadt.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Breisach die AfD."
+   ],
+   "393-bad-krozingen": [
+    "Bad Krozingen hat rund 5.000 Einwohner mehr als Breisach."
+   ],
+   "394-heitersheim": [
+    "Breisach hat zweieinhalbmal so viele Einwohner wie Heitersheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Heitersheim die SPD, in Breisach die AfD."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Breisach zum Landkreis Breisgau-Hochschwarzwald.",
+    "Breisach hat gut dreimal so viele Einwohner wie Hochdorf."
+   ],
    "65-march": [
     "Breisach hat fast doppelt so viele Einwohner wie March.",
     "Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Breisach die AfD."
@@ -186,12 +1841,59 @@
    "68-eichstetten": [
     "Breisach hat viereinhalbmal so viele Einwohner wie Eichstetten."
    ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Breisach zum Landkreis Breisgau-Hochschwarzwald.",
+    "Breisach hat fast sechsmal so viele Einwohner wie Reute."
+   ],
+   "401-bahlingen": [
+    "Kreisgrenze: Bahlingen gehört zum Landkreis Emmendingen, Breisach zum Landkreis Breisgau-Hochschwarzwald.",
+    "Breisach hat gut dreieinhalbmal so viele Einwohner wie Bahlingen."
+   ],
+   "402-riegel": [
+    "Kreisgrenze: Riegel gehört zum Landkreis Emmendingen, Breisach zum Landkreis Breisgau-Hochschwarzwald.",
+    "Breisach hat gut viermal so viele Einwohner wie Riegel."
+   ],
+   "403-endingen": [
+    "Kreisgrenze: Endingen gehört zum Landkreis Emmendingen, Breisach zum Landkreis Breisgau-Hochschwarzwald.",
+    "Breisach hat gut anderthalbmal so viele Einwohner wie Endingen."
+   ],
    "69-ihringen": [
     "Breisach hat gut zweieinhalbmal so viele Einwohner wie Ihringen.",
     "Bundestagswahl 2025: Auf Platz zwei kam in Ihringen die SPD, in Breisach die AfD."
    ]
   },
   "71-stegen": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Stegen die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Stegen die CDU."
+   ],
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Stegen die CDU.",
+    "Merzhausen hat rund 900 Einwohner mehr als Stegen."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Stegen die CDU.",
+    "Stegen hat dreimal so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Stegen hat gut anderthalbmal so viele Einwohner wie Ebringen."
+   ],
+   "392-schallstadt": [
+    "Schallstadt hat gut anderthalbmal so viele Einwohner wie Stegen.",
+    "Stegen liegt rund 170 Meter höher als Schallstadt."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Waldkirch hat fast fünfmal so viele Einwohner wie Stegen."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Hochdorf hat rund 800 Einwohner mehr als Stegen."
+   ],
    "65-march": [
     "March hat gut doppelt so viele Einwohner wie Stegen.",
     "Stegen liegt rund 210 Meter höher als March."
@@ -199,6 +1901,18 @@
    "66-gottenheim": [
     "Stegen hat fast anderthalbmal so viele Einwohner wie Gottenheim.",
     "Stegen liegt rund 200 Meter höher als Gottenheim."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Stegen hat fast anderthalbmal so viele Einwohner wie Vörstetten."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Stegen hat anderthalbmal so viele Einwohner wie Reute."
+   ],
+   "400-teningen": [
+    "Kreisgrenze: Teningen gehört zum Landkreis Emmendingen, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+    "Teningen hat gut zweieinhalbmal so viele Einwohner wie Stegen."
    ],
    "72-oberried": [
     "Stegen hat gut anderthalbmal so viele Einwohner wie Oberried.",
@@ -217,9 +1931,53 @@
    ]
   },
   "72-oberried": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Oberried die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Oberried die CDU."
+   ],
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Oberried die CDU.",
+    "Merzhausen hat doppelt so viele Einwohner wie Oberried."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Oberried die CDU.",
+    "Oberried hat fast doppelt so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Ebringen und Oberried sind fast gleich groß: rund 2.900 und 2.800 Einwohner.",
+    "Oberried liegt rund 170 Meter höher als Ebringen."
+   ],
+   "392-schallstadt": [
+    "Schallstadt hat zweieinhalbmal so viele Einwohner wie Oberried.",
+    "Oberried liegt rund 220 Meter höher als Schallstadt."
+   ],
+   "393-bad-krozingen": [
+    "Bad Krozingen hat achtmal so viele Einwohner wie Oberried.",
+    "Oberried liegt rund 230 Meter höher als Bad Krozingen."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+    "Waldkirch hat achtmal so viele Einwohner wie Oberried."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+    "Hochdorf hat fast doppelt so viele Einwohner wie Oberried."
+   ],
    "65-march": [
     "March hat fast dreieinhalbmal so viele Einwohner wie Oberried.",
     "Oberried liegt rund 260 Meter höher als March."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+    "Vörstetten hat rund 400 Einwohner mehr als Oberried."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Oberried zum Landkreis Breisgau-Hochschwarzwald.",
+    "Reute und Oberried sind fast gleich groß: rund 3.000 und 2.800 Einwohner."
    ],
    "71-stegen": [
     "Stegen hat gut anderthalbmal so viele Einwohner wie Oberried.",
@@ -235,9 +1993,49 @@
    ]
   },
   "73-buchenbach": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Buchenbach die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Buchenbach die CDU."
+   ],
+   "389-merzhausen": [
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Buchenbach die CDU.",
+    "Merzhausen hat gut anderthalbmal so viele Einwohner wie Buchenbach."
+   ],
+   "390-au-breisgau": [
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Buchenbach die CDU.",
+    "Buchenbach hat gut doppelt so viele Einwohner wie Au."
+   ],
+   "391-ebringen": [
+    "Buchenbach hat rund 300 Einwohner mehr als Ebringen.",
+    "Buchenbach liegt rund 160 Meter höher als Ebringen."
+   ],
+   "392-schallstadt": [
+    "Schallstadt hat gut doppelt so viele Einwohner wie Buchenbach.",
+    "Buchenbach liegt rund 210 Meter höher als Schallstadt."
+   ],
+   "396-waldkirch": [
+    "Kreisgrenze: Waldkirch gehört zum Landkreis Emmendingen, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+    "Waldkirch hat siebenmal so viele Einwohner wie Buchenbach."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+    "Hochdorf hat gut anderthalbmal so viele Einwohner wie Buchenbach."
+   ],
    "65-march": [
     "March hat dreimal so viele Einwohner wie Buchenbach.",
     "Buchenbach liegt rund 250 Meter höher als March."
+   ],
+   "398-voerstetten": [
+    "Kreisgrenze: Vörstetten gehört zum Landkreis Emmendingen, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+    "Vörstetten und Buchenbach sind fast gleich groß: rund 3.200 und 3.200 Einwohner."
+   ],
+   "399-reute": [
+    "Kreisgrenze: Reute gehört zum Landkreis Emmendingen, Buchenbach zum Landkreis Breisgau-Hochschwarzwald.",
+    "Reute und Buchenbach sind fast gleich groß: rund 3.000 und 3.200 Einwohner."
    ],
    "71-stegen": [
     "Stegen hat fast anderthalbmal so viele Einwohner wie Buchenbach."
@@ -256,6 +2054,14 @@
    ]
   },
   "74-hinterzarten": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Hinterzarten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Hinterzarten die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Hinterzarten zum Landkreis Breisgau-Hochschwarzwald.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Hinterzarten die CDU."
+   ],
    "71-stegen": [
     "Stegen hat fast doppelt so viele Einwohner wie Hinterzarten.",
     "Hinterzarten liegt rund 480 Meter höher als Stegen."
@@ -4786,6 +6592,37 @@
    ]
   },
   "11-emmendingen": {
+   "387-ebnet": [
+    "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Emmendingen zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Ebnet lagen die Grünen vorn, in Emmendingen die CDU."
+   ],
+   "388-littenweiler": [
+    "Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Emmendingen zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Littenweiler lagen die Grünen vorn, in Emmendingen die CDU."
+   ],
+   "389-merzhausen": [
+    "Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Emmendingen die CDU."
+   ],
+   "390-au-breisgau": [
+    "Kreisgrenze: Au gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+    "Bundestagswahl 2025: In Au lagen die Grünen vorn, in Emmendingen die CDU."
+   ],
+   "391-ebringen": [
+    "Kreisgrenze: Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+    "Emmendingen hat gut zehnmal so viele Einwohner wie Ebringen."
+   ],
+   "392-schallstadt": [
+    "Kreisgrenze: Schallstadt gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+    "Emmendingen hat gut viermal so viele Einwohner wie Schallstadt."
+   ],
+   "396-waldkirch": [
+    "Emmendingen hat rund 7.800 Einwohner mehr als Waldkirch."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Emmendingen zum Landkreis Emmendingen.",
+    "Emmendingen hat fast sechsmal so viele Einwohner wie Hochdorf."
+   ],
    "65-march": [
     "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
     "Emmendingen hat gut dreimal so viele Einwohner wie March."
@@ -4801,6 +6638,29 @@
    "68-eichstetten": [
     "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
     "Emmendingen hat achtmal so viele Einwohner wie Eichstetten."
+   ],
+   "398-voerstetten": [
+    "Emmendingen hat gut neunmal so viele Einwohner wie Vörstetten."
+   ],
+   "399-reute": [
+    "Emmendingen hat zehnmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 750 Meter höher als Emmendingen."
+   ],
+   "400-teningen": [
+    "Emmendingen hat zweieinhalbmal so viele Einwohner wie Teningen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Emmendingen die Grünen."
+   ],
+   "401-bahlingen": [
+    "Emmendingen hat gut sechsmal so viele Einwohner wie Bahlingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Emmendingen die Grünen."
+   ],
+   "402-riegel": [
+    "Emmendingen hat gut siebenmal so viele Einwohner wie Riegel.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Riegel die AfD, in Emmendingen die Grünen."
+   ],
+   "403-endingen": [
+    "Emmendingen hat fast dreimal so viele Einwohner wie Endingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Endingen die AfD, in Emmendingen die Grünen."
    ],
    "69-ihringen": [
     "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
@@ -4820,6 +6680,14 @@
    ]
   },
   "01-kenzingen": {
+   "396-waldkirch": [
+    "Waldkirch hat doppelt so viele Einwohner wie Kenzingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Kenzingen die AfD."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Kenzingen zum Landkreis Emmendingen.",
+    "Kenzingen hat doppelt so viele Einwohner wie Hochdorf."
+   ],
    "65-march": [
     "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Kenzingen zum Landkreis Emmendingen.",
     "Kenzingen hat rund 1.500 Einwohner mehr als March."
@@ -4835,6 +6703,28 @@
    "68-eichstetten": [
     "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Kenzingen zum Landkreis Emmendingen.",
     "Kenzingen hat fast dreimal so viele Einwohner wie Eichstetten."
+   ],
+   "398-voerstetten": [
+    "Kenzingen hat dreieinhalbmal so viele Einwohner wie Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Kenzingen die AfD."
+   ],
+   "399-reute": [
+    "Kenzingen hat dreieinhalbmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 780 Meter höher als Kenzingen."
+   ],
+   "400-teningen": [
+    "Teningen hat rund 1.200 Einwohner mehr als Kenzingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Kenzingen die AfD."
+   ],
+   "401-bahlingen": [
+    "Kenzingen hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Kenzingen die AfD."
+   ],
+   "402-riegel": [
+    "Kenzingen hat gut zweieinhalbmal so viele Einwohner wie Riegel."
+   ],
+   "403-endingen": [
+    "Endingen und Kenzingen sind fast gleich groß: rund 11.000 und 11.000 Einwohner."
    ],
    "69-ihringen": [
     "Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Kenzingen zum Landkreis Emmendingen.",
@@ -4853,6 +6743,14 @@
    ]
   },
   "12-herbolzheim": {
+   "396-waldkirch": [
+    "Waldkirch hat doppelt so viele Einwohner wie Herbolzheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Waldkirch die Grünen, in Herbolzheim die AfD."
+   ],
+   "397-hochdorf-freiburg": [
+    "Kreisgrenze: Hochdorf gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Herbolzheim zum Landkreis Emmendingen.",
+    "Herbolzheim hat doppelt so viele Einwohner wie Hochdorf."
+   ],
    "65-march": [
     "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Herbolzheim zum Landkreis Emmendingen.",
     "Herbolzheim hat rund 1.400 Einwohner mehr als March."
@@ -4868,6 +6766,28 @@
    "68-eichstetten": [
     "Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Herbolzheim zum Landkreis Emmendingen.",
     "Herbolzheim hat fast dreimal so viele Einwohner wie Eichstetten."
+   ],
+   "398-voerstetten": [
+    "Herbolzheim hat fast dreieinhalbmal so viele Einwohner wie Vörstetten.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Vörstetten die Grünen, in Herbolzheim die AfD."
+   ],
+   "399-reute": [
+    "Herbolzheim hat dreieinhalbmal so viele Einwohner wie Reute.",
+    "Reute liegt rund 780 Meter höher als Herbolzheim."
+   ],
+   "400-teningen": [
+    "Teningen hat rund 1.300 Einwohner mehr als Herbolzheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Teningen die SPD, in Herbolzheim die AfD."
+   ],
+   "401-bahlingen": [
+    "Herbolzheim hat fast zweieinhalbmal so viele Einwohner wie Bahlingen.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bahlingen die SPD, in Herbolzheim die AfD."
+   ],
+   "402-riegel": [
+    "Herbolzheim hat gut zweieinhalbmal so viele Einwohner wie Riegel."
+   ],
+   "403-endingen": [
+    "Endingen und Herbolzheim sind fast gleich groß: rund 11.000 und 11.000 Einwohner."
    ],
    "11-emmendingen": [
     "Emmendingen hat gut zweieinhalbmal so viele Einwohner wie Herbolzheim.",

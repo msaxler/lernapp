@@ -1,0 +1,689 @@
+ENTITÄT: ort
+BEZEICHNUNG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ortsteil: true
+  lage: Nordwesten Freiburgs
+  hoehe: 209 [m ü. NN]
+  flaeche: 10,11 [km²]
+  einwohner: 5248 [Stand 31.12.2025]
+  bevoelkerungsdichte: 533 [Einwohner je km²]
+  nachbarorte: Hugstetten, Buchheim, Holzhausen
+  ist_marchgemeinde: true
+  gliederung_ortsteile: Hochdorf, Benzhausen, Gewerbegebiet Markwald
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 5200 [ca.]
+  genauigkeit: "ca."
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Benzhausen
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_bezug: Nordwesten Freiburgs, gehört zu Hochdorf
+  erste_erwaehnung: 788
+  erste_erwaehnung_quelle: Schenkungsurkunde an Kloster St. Gallen
+
+---
+
+ENTITÄT: erste_erwaehnung_schriftlich
+BEZEICHNUNG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 773
+  quelldokument: Lorscher Codex
+  kontext: Besitzübertragung an Kloster Lorsch
+  dokumentation_jahr_codex: 1180
+  anmerkung: 330+ Jahre vor Freiburg urkundlich erwähnt
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martinskirche
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: markantestes Wahrzeichen, bis ins 12. Jahrhundert zurückreichend, im Altarbereich reich verziert
+  erste_erwaehnung: 1147
+  heutige_gestalt_jahr: 1717
+  turm_bau: 1760
+  turm_status: unter Denkmalschutz
+GUELTIG_AB: 1147
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martinskirche
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung_nachweis: 1147
+  mehrfach_vergroessert_renoviert: true
+  heutige_form: 1717
+  turm_fertigstellung: 1760
+  turm_denkmalschutz: true
+  platzposition: leicht erhöhter Platz in Dorfmitte
+  annahme: dem Ort kam bereits vor Kirchenerrichtung besondere Bedeutung zu
+  gemeinde_konfession: römisch-katholisch
+  seelsorgeeinheit: Freiburg-Nordwest im Dekanat Freiburg
+  gemeindeglieder: 2560
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kirchliche_einrichtung
+BEZEICHNUNG: St. Agatha-Kapelle
+ORTSTEIL_BEZUG: Benzhausen
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: nach 30-jährigem Krieg wieder aufgebaut
+  charakterisierung: schlichte Ausstrahlung
+  erste_erwaehnung: 1596
+
+---
+
+ENTITÄT: kirchliche_einrichtung
+BEZEICHNUNG: St. Agatha-Kapelle
+ORTSTEIL_BEZUG: Benzhausen
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1596
+  bedeutung_historisch: untergeordnet (mangels eigener Pfarrer)
+  gottesdienste_saisonalitaet: nur von Kreuzauffindung (3. Mai) bis Kreuzerhöhung (14. September)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel der St. Martinskirche
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Xaver Bernauer (1768-1831)
+  erbauer_ort: Staufen im Breisgau
+  bau_jahr: 1804
+  verlust_werk: 1913
+  erhaltung_element: spätbarockes Gehäuse
+  neubau_firma: Johannes Rohlf (Ruit-Ostfildern)
+  neubau_jahr: 1975
+  register: 14
+  trakturen: mechanische Register- und Spieltraktur auf Hauptwerk, Hinterwerk und Pedal
+  renovierung: 2001 durch Orgelbau Rohlf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: evangelische_gemeinde
+BEZEICHNUNG: Evangelische Pfarrei Hochdorf
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bestand_ab: 1970er
+  kirchenzugehörigkeit: Evangelische Landeskirche in Baden
+  gemeindehaus_benannt_nach: Katharina von Bora
+  gemeindehaus_einweihung: 1992
+  gemeindeglieder: mehr als 1300
+  teil_von: Kirchengemeinde Freiburg
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Weltenlenker
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_schaffung: 2016
+  kuenstler: Holzskulpturenkünstler (Name nicht genannt)
+  standort: Festplatz am südlichen Ortseingang
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Weltenlenker
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Waldhockplatz (Festplatz am südlichen Ortseingang)
+  kuenstler: Thomas Rees, Freiburger Bildhauer
+  material_quelle: 200-jährige entwurzelte Mooswaldeiche
+  anlass: Eiche gestürzt 3 Tage nach Waldfest 2014
+  arbeitsbeginn: Herbst 2015
+  einweihung: Juni 2016
+  material: Eichenholz
+  hoehe: 8 [ca. Meter]
+  gewicht: 8 [ca. Tonnen]
+  stammumfang: 3 [ca. Meter]
+  wurzelstockdurchmesser_oben: 3,5 [ca. Meter]
+  genauigkeit: "ca."
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: platz_zentrum
+BEZEICHNUNG: Högebrunnenplatz
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neugestaltung_jahr: 2014
+  ausstattung: Quellbrunnen und Bachlauf (Nachbildung der Bächle aus Innenstadt)
+  funktion: Treffpunkt, Wochenmarkt-Standort
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schwimmbad
+BEZEICHNUNG: Hochdorfer Hallenbad
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/790741.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beckentypen: Kinderrutschbahn (ca. 7m), Sand- und Matschplatz, 25m-Schwimmerbecken (29°C), Infrarot-Tiefenwärme-Kabine, Liegewiese
+  saisonal_angebote_sommer: Grillmöglichkeiten
+  saisonal_angebote_herbst_winter: Schwimmkurse, Sportangebote
+  oeffnungszeiten: "Di 18-20, Do 9:30-11 und 18-20, Fr 15-20 und 18-21, Sa 14-18, So 8:30-13"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: badeanlagen
+BEZEICHNUNG: Tunisee
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Badesee
+  betriebsform: Campingsee
+  zugaenglichkeit_tagesbesucher: gegen Gebühr frei zugänglich
+  besonderheit: Wasserskianlage
+  event: Sea You Festival (Tanz- und Musikfestival)
+  event_frequenz: einmal jährlich
+  event_start: 2002
+  herkunft: Straßenbau in der Umgebung (A5)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: badeanlagen
+BEZEICHNUNG: Silbersee
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Badesee
+  betriebsform: Campingsee
+  zugaenglichkeit_tagesbesucher: gegen Gebühr frei zugänglich
+  herkunft: Straßenbau in der Umgebung (A5)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wochenmarkt
+BEZEICHNUNG: Hochdorfer Wochenmarkt
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/790741.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tag: Freitag
+  uhrzeit: 14-18
+  standort: Platz am Högebrunnen
+  angebote: Obst und Gemüse (auch biologisch), Bauernhof-Produkte, Oliven und mediterrane Spezialitäten, französische Käsesorten, Salami (25 Sorten)
+  verein: Hochdorfer Wochenmarkt e.V.
+  kontakt: HochdorferWoMa@web.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: tierprojekt
+BEZEICHNUNG: Storchennest Freiburg-Hochdorf
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/790741.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tierart: Weißstorch
+  standort: St. Martin (Kirche)
+  beobachtung_online: http://www.pc-wolf.de/hochdorf/
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: buergerprojekt
+BEZEICHNUNG: Nachtwanderer
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/790741.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Entwicklung aus Alkoholpräventionsprojekt "PräRIE"
+  beteiligung: geschulte ehrenamtliche Erwachsene
+  einsatzzeiten: Freitag und Samstag, später Abend bis Nacht
+  ziele: angenehme Atmosphäre, Vertrauen zu Jugendlichen aufbauen, Hilfe und Unterstützung, soziales Klima verbessern, respektvolles Miteinander
+  erfolgsindikator: massiver Rückgang von Vandalismus und Aggressionen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: sammelstelle
+BEZEICHNUNG: Korksammelstelle Hochdorf
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/790741.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Ortsverwaltung (links am Rathaus neben Kellerabgang)
+  verarbeitungsort: Epilepsiezentrum Kork (Diakonie, Nähe Kehl)
+  verarbeitungsbeginn: 1991
+  zielprodukt: natürlicher Baustoff zur Wärmedämmung und Schalldämmung
+  arbeitsplätze_diakonie: mehr als 10
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsverwaltung
+BEZEICHNUNG: Ortsverwaltung Hochdorf
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/207672.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hochdorfer Straße 4, 79108 Freiburg
+  telefon: 07665/947 39
+  email: ov-hochdorf@freiburg.de
+  oeffnungszeiten_mo_fr: 08:30-12:00
+  oeffnungszeiten_mi_zusaetzlich: 17:30-19:30
+  termine_absprache: möglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Anita Reich
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Ortsvorsteherin
+  telefon: 07665/947 39-10
+  sprechzeiten: Mo 10-12, Mi 17:30-19, nach Vereinbarung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Mühlmattenschule
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  bau_bezug_jahr: 1991
+  standortnaeche: in der Nähe Mooswaldhalle und Schwimmbad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Regenbogen
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bestand: true
+  standortnaeche: in der Nähe Mooswaldhalle und Schwimmbad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Löwenzahn
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Kinder-Tagesstätte
+  standortnaeche: in der Nähe Mooswaldhalle und Schwimmbad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Kunterbunt
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  status: geschlossen
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Zentrales Kunstdepot der Städtischen Museen Freiburg
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Gewerbegebiet Hochdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeindewappen Hochdorf
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zeigezeit: seit 1900
+  beschreibung_oben: Greif aus Wappen der Stürtzel
+  beschreibung_unten: grüne Fläche aus Wappen der Schnewlin
+  herkunft_stürtzel: Hochdorfer Grundherren
+  herkunft_schnewlin: Hochdorfer Grundherren
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Chevilly-Larue
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Département Val-de-Marne
+  lage: südwestlich von Paris
+  partnerschaft_seit: 1978
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Eingemeindung nach Freiburg
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  monat_jahr: September 1973
+  genaueres_datum: 1. September 1973
+  folge: politische Trennung von Marchgemeinden
+  prozess: zwei Bürgerentscheide, Stadt Freiburg mit attraktiven Verträgen
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Besiedlung in Jungsteinzeit
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zeitperiode: Jungsteinzeit
+  befund_1969: Wohngrube der Michelsberger Kultur
+GUELTIG_AB: -4000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Hallstattzeit-Funde
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zeitperiode: Hallstattzeit
+  befund: zwei Hügelgräber zwischen Hugstetten und Buchheim
+  befund_zusaetzlich: Tonscherben zwischen Hochdorf und Benzhausen
+GUELTIG_AB: -1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Keltische Siedlung
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zeitperiode: Eisenzeit (Keltische Zeit)
+  befund_1988: Sondierungsgrabungen bestätigten Existenz
+GUELTIG_AB: -500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Römisches Gewerbegebiet
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zeitperiode: Römische Zeit
+  befund_jahre: 1928, 1972, 1976
+  befunde: Fundamente von Ziegelbrennöfen, Terra Sigillata
+GUELTIG_AB: 50
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Alemannische Besiedlung
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zeitperiode: Alemannenzeit
+  befunde: Gräber, Waffen, kunstvolles Geschirr
+GUELTIG_AB: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Hochdorfer Wochenmarkt e.V.
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/790741.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontakt: HochdorferWoMa@web.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrslinie
+BEZEICHNUNG: Buslinie 36
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Freiburger Verkehrs-AG
+  betrieb_start: 1986
+  verlauf: Landwasser - Hochdorf
+  taktung: 20-Minuten-Takt
+  verbindung: Anschluss Stadtbahn Richtung Stadtmitte
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: verkehrslinie
+BEZEICHNUNG: Buslinie 25
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Freiburger Verkehrs-AG
+  betrieb_start: 2004
+  tage: werktags
+  verlauf: Hugstetten (Industriegebiet Nord) - Hochdorf
+  verbindung: Anschluss S-Bahn S1 in Hugstetten
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: verkehrsplanung
+BESCHREIBUNG: Straßenbahn-Anbindung
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  planstatus: Erweiterung geplant
+  optionen: Verlängerung Linie Landwasser über Gewerbegebiet unter A5 zum Ort ODER Verlängerung Linie Messe über Gewerbegebiet Nord und Markwaldstraße
+  realisierungsprognose: nicht vor 2030
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Fahrradverleihsystem Frelo
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  anbindung_start: 2021
+  stationen_inbetrieb: Oktober 2023
+  station_anzahl: zwei im Gewerbegebiet, eine in Hugstetten
+  finanzierung_beteiligung: durch ansässige Betriebe
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: einwohnerentwicklung
+BEZEICHNUNG: Einwohnerzahl Hochdorf und Benzhausen
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_1526: 300 [ca.]
+  grund_1526: Ende Bauernkrieg
+GUELTIG_AB: 1526
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: einwohnerentwicklung
+BEZEICHNUNG: Einwohnerzahl Hochdorf und Benzhausen
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_1648: 160
+  grund: Dreißigjähriger Krieg
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: einwohnerentwicklung
+BEZEICHNUNG: Einwohnerzahl Hochdorf
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_1963: 1000
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: beruendung_prozess
+BEZEICHNUNG: Abwanderungen nach Ungarn
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1750-1800 [ca.]
+  ergebnis: Rückgang der Einwohnerzahl
+GUELTIG_AB: 1750
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: begruendung_prozess
+BEZEICHNUNG: Abwanderungen nach Amerika
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1820-1890 [ca.]
+  ergebnis: Rückgang der Einwohnerzahl
+GUELTIG_AB: 1820
+GUELTIG_BIS: 1890
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ortschaftsrat_wahl
+BEZEICHNUNG: Ortschaftsratswahl Hochdorf
+ORTSTEIL_BEZUG: Hochdorf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  wahltermin: 26. Mai 2019
+  gruene_liste_hochdorf: "33,6% (5 Sitze)"
+  fwg_freie_waehlergruppe: "36,1% (5 Sitze)"
+  cdu: "17,4% (2 Sitze)"
+  spd: "12,9% (2 Sitze)"
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kuenstler
+BEZEICHNUNG: Thomas Rees
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Freiburger Bildhauer
+  werk: Skulptur Weltenlenker in Hochdorf
+  werk_material: Mooswaldeiche
+  werk_schaffung: Herbst 2015 - Juni 2016
+
+---
+
+ENTITÄT: kuenstler
+BEZEICHNUNG: Xaver Bernauer
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1768-1831
+  herkunft: Staufen im Breisgau
+  werk: Orgel der St. Martinskirche Hochdorf
+  werk_jahr: 1804
+
+---
+
+ENTITÄT: orgelbauunternehmen
+BEZEICHNUNG: Johannes Rohlf
+QUELLE: https://de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ort: Ruit-Ostfildern
+  werke: Orgelneubau St. Martinskirche Hochdorf 1975, Renovierung 2001
+  register_arbeit_1975: 14 Register

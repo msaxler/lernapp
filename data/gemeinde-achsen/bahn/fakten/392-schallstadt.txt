@@ -1,0 +1,368 @@
+ID: 392-schallstadt/001
+ENTITÄT: ort
+BEZEICHNUNG: Schallstadt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: vom althochdeutsch Scalc (Knecht, Leibeigener) – Stätte, wo Hörige und Leibeigene wohnen
+  erste_schriftliche_erwaehnung_ort: 776, Lorscher Codex
+  scalcstater_marca_erwaehnung: 779
+  weinbau_erwaehnung: 793
+  herrschaft_badenweiler_zugehoerigkeit: 1368
+  herrschaft_baden_zugehoerigkeit: 1503
+  zusammenschluss_mit_wolfenweiler: 1.1.1971
+  zusammenschluss_mit_mengen: 1.1.1975
+  gemeindename_vereinfachung: 1.11.1977 von Schallstadt-Wolfenweiler zu Schallstadt
+GUELTIG_AB: 776
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 392-schallstadt/002
+ENTITÄT: ort
+BEZEICHNUNG: Schallstadt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nördliches Eingangstor zum Markgräflerland, an der Badischen Weinstraße
+  charakter: harmonische Verbindung von Tradition und Fortschritt
+  architektur_prägend: Stapfelhäuser mit trutzigen, treppenförmig bekrönten Fassaden
+GUELTIG_AB: 776
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/003
+ENTITÄT: ort
+BEZEICHNUNG: Schallstadt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Zahlen-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 6941
+  stand_einwohnerzahl: 30.06.2025
+  gemarkungsflaeche: 1956 [ha]
+  davon_landwirtschaft: 1290 [ha]
+  davon_siedlung_verkehr: 331 [ha]
+  davon_wald: 326 [ha]
+  davon_wasser: 19 [ha]
+  davon_uebrige_nutzungen: 3 [ha]
+  hoehenlage: 280-494 [m über NN]
+  mittlere_jahrestemperatur: 10.30 [°C]
+  landkreis: Breisgau-Hochschwarzwald
+  postleitzahl: 79227
+  telefon_vorwahl: 07664
+  region: Südlicher-Oberrhein
+  regierungsbezirk: Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ID: 392-schallstadt/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mengen
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlungsspuren: Jungsteinzeit
+  erste_erwaehnung: 768, Urkundenbuch Abtei St. Gallen (villa Maghingas)
+  lorscher_codex_erwaehnung: 794, pago Brisegowe in Maginger marca
+  namensherkunft: von germanischer Personenname Mago (Maginga bedeutet bei den Leuten des Mago), -ingen-Name
+  stabsamt_zugehoerigkeit: 1803 zum Stabsamt Wolfenweiler zugeschlagen
+  jahrfeier_1200_jahre: 1976
+  jahrfeier_1225_jahre: 2001
+  kindergarten_100_jahre: 2004
+  vereinigung_mit_schallstadt_wolfenweiler: 1.1.1975
+GUELTIG_AB: 768
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 392-schallstadt/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wolfenweiler
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlungsspuren: Jungsteinzeit
+  erste_sichere_erwaehnung: 873, St. Galler Urkunden (Wolviwilare)
+  namensherkunft: Weiler des Wolvo (Wulf(o) bedeutet Wolf)
+  grafen_freiburg_uebernahme: 1218 aus Zähringer Erbe in Hand der Grafen von Freiburg
+  vereinigung_mit_schallstadt: 1.1.1971 zur Gemeinde Schallstadt-Wolfenweiler
+  jahrfeier_1200_jahre: 1979
+GUELTIG_AB: 873
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 392-schallstadt/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Leutersberg
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: mittelalterliche Ausbausiedlung von Wolfenweiler
+  erste_erwaehnung: 1347 (Lútzisberg)
+  namensherkunft: Berg des Luzo (genitivische Bildung)
+  besonderheit: hatte eigenen Bann und Stabhalter, bildete aber immer mit Wolfenweiler eine Gemeinde
+ORTSTEIL_BEZUG: Wolfenweiler
+GUELTIG_AB: 1347
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 392-schallstadt/007
+ENTITÄT: person
+BEZEICHNUNG: Martin Waldseemüller
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Kartograph
+  geburtsjahr_ungefaehr: zwischen 1472 und 1475
+  geburtsort: Wolfenweiler
+  vermutet_geburtshaus: Binzenmühle
+  werk_weltkarte_datum: 25.4.1507 in St. Dié, Lothringen
+  werk_weltkarte_basis: Reiseberichte Amerigo Vespuccis
+  werk_weltkarte_besonderheit: erste Weltkarte mit Name America
+  werk_weltkarte_bezeichnung: Geburtsurkunde von Amerika
+  werk_begleitwerk: Faltglobus aus 12 Segmenten und Cosmographiae Introductio
+  auftraggeber: Herzog René II von Lothringen
+  kollaborateur: Matthias Ringmann
+  familienresidenz_ab_1480: Freiburg (Brsg.)
+  bedeutung: eine der bedeutendsten geschichtlichen Persönlichkeiten des Ortes
+ORTSTEIL_BEZUG: Wolfenweiler
+GUELTIG_AB: 1472
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 392-schallstadt/008
+ENTITÄT: person
+BEZEICHNUNG: Martin Waldseemüller
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strasse_benannt_nach: Waldseemüller-Straße (2007)
+  briefmarke_sonderausgabe: Sonderbriefmarke Bundesfinanzministerium 2007
+  jubilaeum: 500 Jahre Erstausgabe der Weltkarte 2007
+ORTSTEIL_BEZUG: Wolfenweiler
+GUELTIG_AB: 1507
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 392-schallstadt/009
+ENTITÄT: person
+BEZEICHNUNG: Johann-Philipp-Glock
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: eine der bedeutendsten geschichtlichen Persönlichkeiten des Ortes
+  schule_benannt_nach: Johann-Philipp-Glock-Schule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.55
+---
+ID: 392-schallstadt/010
+ENTITÄT: person
+BEZEICHNUNG: Tim Lang
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Weisch-no | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Fachbereichsleitung Bürger- und Ordnungsamt, Katastrophenschutz, Feuerschutz, Jugend
+  telefon: 07664 6109-22
+  telefon_fax: 07664 6109-91
+  email: tim.lang(at)schallstadt.de
+  funktion: Ansprechpartner Zeitzeugen-Projekt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/011
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeindewappen Schallstadt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gestaltung: halb gespalten und geteilt – oben rechts in Blau silbernes Hufeisen, oben links in Gold blaue Weintraube an grünem Stiel mit grünem Blatt, unten in Silber auf grünem Dreiberg schreitender schwarzer Wolf
+  flagge: Weiß-Blau
+  verleihung_durch: Landratsamt Breisgau Hochschwarzwald
+  verleihung_datum: 7.4.1992
+  gemeinderat_beschluss: 18.2.1992
+  symbolik: je ein charakteristisches Motiv aus den Wappern der drei Ortsteile Mengen, Wolfenweiler, Schallstadt
+  hufeisen_bedeutung: Symbol für dörfliche Vergangenheit und Landwirtschaft
+  weintraube_bedeutung: Symbol für Weinbau, heute noch bedeutend
+  wolf_bedeutung: heraldische Darstellung aus Ortsteilwappern
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/012
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirchengemeinde Mengen
+QUELLE: https://www.schallstadt.de/de/Leben-in-Schallstadt/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+ORTSTEIL_BEZUG: Mengen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/013
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirchengemeinde Wolfenweiler-Schallstadt
+QUELLE: https://www.schallstadt.de/de/Leben-in-Schallstadt/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/014
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirchengemeinde Freiburg-Tuniberg
+QUELLE: https://www.schallstadt.de/de/Leben-in-Schallstadt/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/015
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirchengemeinde St. Blasius
+QUELLE: https://www.schallstadt.de/de/Leben-in-Schallstadt/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/016
+ENTITÄT: kirche
+BEZEICHNUNG: Liebenzeller Gemeinschaft
+QUELLE: https://www.schallstadt.de/de/Leben-in-Schallstadt/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: religiöse Gemeinschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/017
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche
+QUELLE: https://www.schallstadt.de/de/Leben-in-Schallstadt/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/018
+ENTITÄT: kirche
+BEZEICHNUNG: Mengener Dorfkirche
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: schlanker Turm prägt Ortsbild
+ORTSTEIL_BEZUG: Mengen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 392-schallstadt/019
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus Schallstadt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: neugotisch
+  besonderheit: prägt Ortsbild
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 392-schallstadt/020
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus Schallstadt (Neubau)
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezugsjahr: 2022
+  besonderheit: modernes Rathaus
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bürger- und Kulturhaus
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Kultur- und Bürgerzentrum
+  besonderheit: Blickfang im Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 392-schallstadt/022
+ENTITÄT: gebaeude
+BEZEICHNUNG: Zapfenhof
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: traditioneller Zapfenhof, prägt Ortsbild
+ORTSTEIL_BEZUG: Wolfenweiler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 392-schallstadt/023
+ENTITÄT: muehle
+BEZEICHNUNG: Binzenmühle
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: vermutetes Geburtshaus Martin Waldseemüllers
+  heute_existierend: true
+ORTSTEIL_BEZUG: Wolfenweiler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 392-schallstadt/024
+ENTITÄT: schule
+BEZEICHNUNG: Johann-Philipp-Glock-Schule
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Johann-Philipp-Glock
+  besonderheit: gelungene Erweiterung als Blickfang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/025
+ENTITÄT: ortsmitte
+BEZEICHNUNG: Neue Ortsmitte Schallstadt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: Sommer 2023
+  planungszeit: mehrjährig
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 392-schallstadt/026
+ENTITÄT: projekt
+BEZEICHNUNG: Zeitzeugen-Projekt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Weisch-no | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ziel: Sammlung und Bewahrung von Geschichten, Erzählungen und Bildern aus der Gemeindegeschichte für aktuelle und zukünftige Generationen
+  plattform: Veröffentlichung von Filmen, Bildern, Ton- und Textdateien
+  ansprechpartner: Tim Lang
+  vorbild: Stadt Schiltach mit Zeitzeugen-Rubrik auf Homepage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/027
+ENTITÄT: ausstellung
+BEZEICHNUNG: FundMengen
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Mengen im frühen Mittelalter
+  jahr: 1994
+  besonderheit: überregionale Beachtung
+ORTSTEIL_BEZUG: Mengen
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 392-schallstadt/028
+ENTITÄT: wanderweg
+BEZEICHNUNG: Jakobsweg
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  route: von Rothenburg o.d.T. über Rottenburg a.N. nach Thann im Elsass
+  pilgerziel: Santiago de Compostela
+  gekennzeichnung_komplett: 2011
+  markierung: Jakobsmuschel
+  teilstück_schallstadt: über Schallstadter Gemarkung
+  nutzer: Pilger aus östlichen Nachbarländern und aus Norden und Osten Deutschlands
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/029
+ENTITÄT: gemeinde
+BEZEICHNUNG: Rosà
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Italien
+  partnerschaft_start: 1991/92
+  partnerschaft_10_jahre_jubilaeum: 2001/2002
+  partnerschaft_20_jahre_jubilaeum: 2011/2012
+  typ: Partnergemeinde Schallstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

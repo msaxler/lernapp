@@ -1,0 +1,746 @@
+ZIELORT: Endingen (Stadt)
+LAGE: 19 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Endingen am Kaiserstuhl
+
+GRUNDDATEN:
+  landkreis: Emmendingen  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 10.517  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 26,7  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 394  [berechnet aus Einwohner und Fläche]
+  kfz: EM (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 186 | 182  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2930383)]
+  naechste_grossstadt: Freiburg im Breisgau, 19 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 130 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Endingen am Kaiserstuhl, Bahnhof Königschaffhausen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79346  [Wikidata P281]
+  vorwahl: 07642  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,3 %, AfD 17,2 %, SPD 15,8 %, GRÜNE 14 %, FDP 5,4 %, Die Linke 5,1 %; Wahlbeteiligung 84,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Tobias Metz (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-17]
+  partnerstaedte: Erstein, Colonia Tovar, Coulonges-sur-l'Autize  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Riegel (Gemeinde)
+  landkreis: Emmendingen  [dewiki Infobox]
+  einwohner: 3982  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 18,33  [Wikidata P2046]
+  kfz: EM (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 184 | 183  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2847049)]
+  naechste_grossstadt: Freiburg im Breisgau, 19 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Riegel Ort, Bahnhof Riegel-Malterdingen SWEG  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,1 %, AfD 20,4 %, SPD 17,2 %, GRÜNE 14,9 %, Die Linke 5,4 %; Wahlbeteiligung 84,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Ebnet, Littenweiler, Merzhausen, Au, Ebringen, Schallstadt, Bad Krozingen, Heitersheim, Müllheim, Waldkirch, Hochdorf, March, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen
+
+FAKTEN (Zielort Endingen):
+ID: 403-endingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Endingen am Kaiserstuhl
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  regierungsbezirk: Freiburg
+  landkreis: Emmendingen
+  koordinaten: 48° 8′ Nord, 7° 42′ Ost
+  hoehe: 186 m ü. NN
+  flaeche: 26,72 km²
+  postleitzahl: 79346
+  telefonvorwahl: 07642
+  kfz_kennzeichen: EM
+  gemeindeschluessel: 08 3 16 012
+GUELTIG_AB: 1805
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 403-endingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Endingen am Kaiserstuhl
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: alemannischer Sippenführer Ando oder Endillo
+  einwohner_gesamtstadt: 10900
+  einwohner_kernstadt: 8096
+  hoehe_min: 187 m ü. NN
+  hoehe_max: 492 m ü. NN
+  gemeindegebiet: 2672 ha
+  gemeindegebiet_kernstadt: 1384 ha
+  rebflaeche_gesamtgebiet: 700 ha, genauigkeit: "über"
+  rebflaeche_kernstadt: 400 ha
+  walddecke_ab_hoehe: 400 m
+  walddecke_typ: überwiegend Laubbaum, vornehmlich Buchen
+  lossdecken_staerke: 30 m, genauigkeit: "bis zu"
+  ortsteile: Amoltern, Kiechlinsbergen, Königschaffhausen
+  flagge: Weiß-Blau (Silber-Blau)
+  wappen: in geteiltem Schild, links Rot mit weißem Balken (Wappen Österreich), rechts Blau mit silbernem Flügel (Wappen Üsenberger)
+  ist_kleinstadt: true
+GUELTIG_AB: 1805
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/003
+ENTITÄT: ort
+BEZEICHNUNG: Endingen am Kaiserstuhl
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_ansiedlung_hockergräber: 3 Jahrtausend vor Christus
+  alemannische_ansiedlung_ab: 5-6 Jahrhundert
+  erste_urkundliche_erwähnung: 862
+  erste_urkundliche_erwähnung_grund: Ludwig der Deutsche schenkt seinem Sohn Karl Güter
+  herren_von_endingen_ab: um 1000
+  stadtrrechte_verleihung: 1285-1286
+  stadtrrechte_verleihung_durch: Herren von Üsenberg
+  uebergang_zu_habsburg: 1379
+  uebergang_zu_habsburg_grund: Aussterben der Herren von Üsenberg
+  uebergang_zu_oesterreich: 1379
+  stadt_aufteilung_in_ober_unterstadt: 1270
+  endinger_mass_erwaehnung: 1272
+  amt_bürgermeister_belegt_ab: 1308
+  endinger_rat_belegt_ab: 1308
+  stadtmauer_fertiggestellt: 1319
+  machthoehepunkt: 1336-1366
+  schlacht_bei_endingen: 1367
+  schlacht_bei_endingen_grund: Kriegshandlungen zwischen Breisgau-Städten und weltlichen Herrschern
+  schlacht_bei_endingen_folge: Friedensvermittlung durch Habsburger, Schwächung beider Seiten
+  habsburger_bestaetigung_stadtrechte: 1387
+  habsburger_bestaetigung_durch: Herzog Albrecht III. von Österreich
+  reichsstadt_periode: 1415-1427
+  reichsstadt_grund: politische Macht der Habsburger auf Tiefstand
+  fasnet_vasnacht_erwaehnung: 1499
+  fasnet_vasnacht_erwaehnung_kontext: Urkunde zur Bewilligung eines Jahrmarktes
+  vorlande_eigenlandesherr: 1564
+  vorlande_eigenlandesherr: Erzherzog Ferdinand II.
+  vorlande_rückkehr_zu_habsburger: 1665
+  vorlande_rückkehr_grund: Aussterben Tiroler Linie
+  schwedische_besetzung: 1632
+  schwedische_besetzung_folge: erste Kriegshandlung nach Verschonung
+  französische_plünderung: 1796
+  französische_plünderung_kontext: Erster Koalitionskrieg 1792-1797
+  uebergang_zu_baden: 1805
+  uebergang_zu_baden_grund: Neuordnung nach Niederlage Österreichs gegen Napoleon
+  uebergang_zu_baden_jahr2: 1806
+  großbrand_marktplatz: 1909
+  erster_weltkrieg_folgen: Einquartierung, Verpflegung Truppen, Einberufung hunderte Männer, Requirierungen, Grenzlandlage, entmilitarisierte Zone
+  zentrale_wasserleitung: 1865
+  zentrale_wasserleitung_hausanschlüsse: 1865
+  gaswerk_städtisch: 1905
+  historischer_stadtkern_denkmalschutz: 1964
+  städtepartnerschaft_erstein: 1970
+  gemeindereform_amoltern: 1971
+  gemeindereform_kiechlinsbergen: 1974
+  gemeindereform_königschaffhausen: 1975
+  stadtrecht_erneuerung: 1950
+  stadtrecht_erneuerung_grund: Städte mit <15000 Einwohnern hatten 1921 Stadtrecht aberkannt bekommen
+  zehn_tausend_einwohner_erreicht: 2019
+GUELTIG_AB: 862
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/004
+ENTITÄT: ansiedlung_praehistorisch
+BEZEICHNUNG: Hockergräber-Fundstelle
+ORTSTEIL_BEZUG: Südwestlicher Stadtausgang
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fundort: südwestlicher Stadtausgang
+  zeitraum: 3 Jahrtausend vor Christus
+  archäologisches_zeugnis: Hockergräber
+  bedeutung: Hinweis auf erste Ansiedlung
+GUELTIG_AB: 3000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 403-endingen/005
+ENTITÄT: fasnet
+BEZEICHNUNG: Jokili
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  region: Endingen am Kaiserstuhl
+  status: eine der Hochburgen der alemannischen Fasnet
+  erste_erwaehnung: vor über 500 Jahren
+  leitfigur: Jokili
+  maskentraeger_anzahl: über 800
+  jokili_narrenkappe: dreihörnig
+  jokili_kleidung_material: roter Wollstoff
+  jokili_kleidung_merkmale: Kutte, Hose, Gürtel mit vielen Zipfeln
+  jokili_halskrause: barocke weiße Halskrause
+  jokili_maske: hölzern
+  jokili_maske_schau: 1782 als Schauspiel "Jokilis Heimkehr"
+GUELTIG_AB: 1499
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/006
+ENTITÄT: schützengesellschaft
+BEZEICHNUNG: Endinger Schützengesellschaft
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Bürgerwehr nach Dreißigjährigen Krieg
+  aktivitaeten: Schützenaufzug, Schützenkönig-Kür, s'Rugili (Roll- und Würfelspiel)
+  rugili_genehmigung_epoche: Maria Theresia
+  rugili_gewinn_historisch: Brot
+  rugili_gewinn_heute: Brezel
+  rugili_ursprüngliche_verwendung: Waffen und Munition
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/007
+ENTITÄT: brunnen
+BEZEICHNUNG: Öffentliche Brunnen Endingens
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Brunnen und Quellen spielen symbolträchtige Rolle
+  historischer_kontext: "Die Stadt, die manches Jahr mehr Wein als Wasser hat" (vor Wasserleitung)
+  wasserleitung_installation: 1869
+  heiliwog_brauch: "Heiliges Wasser" am Heiligen Abend um Mitternacht gefasst
+  heiliwog_nutzung: Heiltrank das ganze Jahr
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 403-endingen/008
+ENTITÄT: auswanderung
+BEZEICHNUNG: Auswanderung nach Tovar, Venezuela
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtportrait-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1842
+  ausgewanderer_anzahl: über 400
+  leiter: Alexander Benitz
+  zielort: Tovar, Venezuela
+  heutige_existenz: Siedlung existiert noch
+  nachkommen_generation: 6. Generation
+  nachkommen_sprachen: spanisch und Dialekt aus alter Heimat
+GUELTIG_AB: 1842
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/009
+ENTITÄT: auswanderung
+BEZEICHNUNG: Auswanderung nach Colonia Tovar, Venezuela
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1843
+  ausgewanderer_anzahl: mehr als 350
+  ausgewanderer_herkunft: Endingen und Umgebung
+  gruendung: Colonia Tovar
+  dokumentation: im Heimatmuseum (Tovarer Stuben)
+  austausch_heute: reger Austausch zu Nachkommen
+GUELTIG_AB: 1843
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/010
+ENTITÄT: kaiserstuhlbahn
+BEZEICHNUNG: Kaiserstuhlbahn
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teilabschnitt_riegel_endingen: 1894
+  teilabschnitt_endingen_breisach: 1895
+  feierliche_eroeffnung_endingen_breisach: in Anwesenheit Großherzog Friedrich von Baden 1895
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/011
+ENTITÄT: lederfabrik
+BEZEICHNUNG: Lederfabrik Loesch
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1847
+  bedeutung: später größter Arbeitgeber in der Stadt
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 403-endingen/012
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Daubmann-Fall
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1932
+  person_behauptet: Oskar Daubmann
+  person_behauptet_hintergrund: nach 16 Jahren französischer Kriegsgefangenschaft
+  person_real: Ignaz Hummel (Kleinkrimineller)
+  person_echte_oskar_daubmann: bereits 1916 gefallen
+  propagandistische_nutzung: von Nationalsozialisten für antifranzösische Propaganda
+  konsequenzen: Spott für Endingen und besonders für Nationalsozialisten
+  presseresonanz: internationale Presse
+GUELTIG_AB: 1932
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/013
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hexenverbrennung Anna Trutt
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1751
+  person: Anna Trutt
+  herkunft: Wyhl
+  vorwurf: angebliche Hexe
+GUELTIG_AB: 1751
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/014
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Endingen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.endingen.de/tourismus-freizeit/sehenswertes/museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Marktplatz 3
+  gebaeude: Altes Rathaus
+  gebaeude_jahr: 1527
+  ratssaal_stil: barock
+  ratssaal_inhalt: Gemälde Habsburger Kaiser
+  glasmalereien_anzahl: 13
+  glasmalereien_jahr: 1528-1529
+  glasmalereien_motiv: Wappen Österreich, Üsenberger, Adlige, Klöster
+  ausstellungsinhalt: Stadtgeschichte, Handwerk, Weinbau, Zunftheilige, Auswanderung 1843
+  tovarer_stuben: dokumentieren Auswanderung
+  bürgersaal: 14 Wappenscheiben von 1528-1529
+GUELTIG_AB: 1527
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/015
+ENTITÄT: museum
+BEZEICHNUNG: Vorderösterreich Museum
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.endingen.de/tourismus-freizeit/sehenswertes/museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Adelshof 20
+  gebaeude: Üsenberger Hof
+  historischer_kontext: Endingen gehörte 1379-1805 zu Habsburg / Vorderösterreich
+  ausstellung_raeume: sieben Räume
+  ausstellungsinhalt: Geschichte der habsburgischen Vorlande, Verwaltungsreform 1752 Maria Theresias
+GUELTIG_AB: 1379
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/016
+ENTITÄT: museum
+BEZEICHNUNG: Käserei Museum
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.endingen.de/tourismus-freizeit/sehenswertes/museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Rempartstraße 7
+  ursprung_gebaeude_jahr: 1901
+  ursprung_gebaeude: Käserei
+  käserei_herstellung: alemannische Käsesorten
+  museum_eroeffnung: 1997
+  ausstellungsflaeche: über 100 qm
+  ausstellungsinhalt: Gegenstände rund um Käseherstellung
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/017
+ENTITÄT: museum
+BEZEICHNUNG: Fasnetmuseum
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.endingen.de/tourismus-freizeit/sehenswertes/museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Königschaffhausener Tor
+  historischer_kontext: ehemals Zugbrücke über Stadtgraben bis Mitte 19. Jahrhundert
+  historischer_kontext_neben: Arrestzelle als Stadtgefängnis
+  restaurierung_jahr: 1782
+  restaurierung_durch: Narrenzunft
+  ausstellungsinhalt: Narrenfiguren, lebendiges Brauchtum
+  verwalter: Endinger Narrenzunft 1782 e.V.
+GUELTIG_AB: 1782
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/018
+ENTITÄT: museum
+BEZEICHNUNG: Kirschenmuseum
+ORTSTEIL_BEZUG: Königschaffhausen
+QUELLE: https://www.endingen.de/tourismus-freizeit/sehenswertes/museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Untere Guldenstraße 1a
+  ausstellungsflaeche: über 100 qm
+  ausstellungsinhalt: Tradition Kirschanbau, Gegenstände rund um Kirsche
+  verwalter: Heimatverein Königschaffhausen e.V.
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/019
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Kiechlinsbergen
+ORTSTEIL_BEZUG: Kiechlinsbergen
+QUELLE: https://www.endingen.de/tourismus-freizeit/sehenswertes/museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Grienerstraße 13
+  eroeffnung: 1992
+  gebaeude: ehemaliges Rathaus und Teil der "Alten Schule"
+  verwalter: Heimatverein Kiechlinsbergen
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/020
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Tobias Metz
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Bürgermeister von Endingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/021
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Endingen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.endingen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Andlaustraße 6
+  konfession: evangelisch
+GUELTIG_AB: 1557
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/022
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirchengemeinde Königschaffhausen
+ORTSTEIL_BEZUG: Königschaffhausen
+QUELLE: https://www.endingen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  pfarrei_zugehoerigkeit: Filiale der Pfarrei Leiselheim bis 1954
+  erster_pfarrer: Bernhard Krugk (1557-1559)
+  pfarrer_heute: Peter Boos (45. Pfarrer seit 1557)
+  orgel_dauer: seit 200 Jahren
+GUELTIG_AB: 1557
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/023
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrgemeinde St. Peter
+ORTSTEIL_BEZUG: Kernstadt (Endingen)
+QUELLE: https://www.endingen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Kaplanei Straße 7
+  konfession: katholisch
+GUELTIG_AB: 1285
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/024
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Wallfahrtskirche St. Martin
+ORTSTEIL_BEZUG: Kernstadt (Endingen)
+QUELLE: https://www.endingen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  wallfahrtsort: true
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 403-endingen/025
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrgemeinde St. Petronilla
+ORTSTEIL_BEZUG: Kiechlinsbergen
+QUELLE: https://www.endingen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hinterer Kirchweg 2
+  konfession: katholisch
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/026
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Vitus
+ORTSTEIL_BEZUG: Amoltern
+QUELLE: https://www.endingen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Dorfstraße 36
+  konfession: katholisch
+  bauzeit_klassizistisch: 1832
+  baustil: Weinbrenner-Stil
+  ursprung: Üsenbergerstiftung 1248
+  ursprung_zerstörung: Erdbeben 1823
+  kircheninnenraum: lichtdurchflutet mit renoviertem Rundfenster
+  veranstaltung_advent: Alpenländisches Konzert
+GUELTIG_AB: 1248
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/027
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Katharinenkapelle
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.endingen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 403-endingen/028
+ENTITÄT: gemeinde
+BEZEICHNUNG: Jehovas Zeugen Endingen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.endingen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Holderackerstraße 7
+  konfession: Jehovas Zeugen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 403-endingen/029
+ENTITÄT: brunnen
+BEZEICHNUNG: Sandsteinbrunnen Amoltern
+ORTSTEIL_BEZUG: Amoltern
+QUELLE: https://www.endingen.de/stadt-wirtschaft/ortsteile/amoltern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1987
+  motiv: Weingott Bacchus und Zecher
+  bedeutung: Hommage an Wein
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/030
+ENTITÄT: roman
+BEZEICHNUNG: Die Heiligen von Amoltern
+ORTSTEIL_BEZUG: Amoltern
+QUELLE: https://www.endingen.de/stadt-wirtschaft/ortsteile/amoltern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autor: Wilhelm Jensen
+  autor_lebensdaten: 1837-1911
+  veroeffentlichung: 1886
+  inhalt: spielt hauptsächlich in Pfarrhaus Amoltern
+  historischer_hintergrund: basiert auf Versuch des Pater Romuald 1778 mit Pfarrer Ganter
+  versuch_ziel: Gemeinschaft mit kommunalem Besitz, gemeinsamer Arbeit und Erträgen gegen Armut
+  versuch_ausfall: gescheitert am politischen Willen, Obrigkeit sah Verstoß gegen Ständeordnung
+GUELTIG_AB: 1886
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/031
+ENTITÄT: ortsteil
+BEZEICHNUNG: Amoltern
+QUELLE: https://www.endingen.de/stadt-wirtschaft/ortsteile/amoltern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 432
+  hoehe: 260 m ü. NN
+  gemeindereform_anschluss: 1971
+  lage: Seitental nördlicher Kaiserstuhl
+  ursprung_namensherkunft: Amarelle (wilde Sauerkirsche) → "Amiltran"
+  urkundliche_erwaehnung: um Jahr 1100
+  landwirtschaft: Wein- und Obstbau
+  fruehling_merkmale: Meer blühender Kirschbäume
+  naturschutzgebiet: Amolterer Heide
+  naturschutzgebiet_besonderheit: eines der ältesten am Kaiserstuhl
+  naturschutzgebiet_flora: viele Orchideenarten
+  wanderpfad: Amolterer Kräuterpfad
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/032
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kiechlinsbergen
+QUELLE: https://www.endingen.de/stadt-wirtschaft/ortsteile/kiechlinsbergen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspprung_name: Bergen, dann Unterbergen
+  name_herkunft: Rittergeschlecht Küchlin von Freiburg (Vögte Kloster Andlau)
+  erste_urkundliche_erwaehnung: 862
+  erste_urkundliche_erwaehnung_erweitert: 1309 als "ze hern Küchelins Bergen"
+  herkunft_fränkisch: alter fränkischer Königsbesitz
+  kloster_andlau_erwaehnung: um 880
+  kloster_andlau_rolle: beherrschende Rolle bis 1682
+  kloster_tennenbach_erwerbung: 1344 (Kiechlinsberger Hof)
+  bauernkrieg_beteiligung: 13 Kiechlinsberger als Rädelsführer gesucht nach 1525
+  gemeindereform_anschluss: 1.1.1974 zur Stadt Endingen
+  bevoelkerung_1475: 60 Haushalte
+  bevoelkerung_1798: 740 Einwohner
+  bevoelkerung_1836: 997 Einwohner
+  bevoelkerung_1939: 796 Einwohner
+  bevoelkerung_1970: 853 Einwohner
+  erwerbtaettige_1950_landwirtschaft: 76 Prozent
+  erwerbtaettige_heute_landwirtschaft: 30 Prozent
+  rebflaeche_1960: 55 ha
+  rebflaeche_1970: 130 ha
+  flurbereinigung_ab: 1951
+  weinbau_umstellung: Qualitätsweinbau
+  winzergenossenschaft_gruendung: 1951
+GUELTIG_AB: 862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/033
+ENTITÄT: ortsteil
+BEZEICHNUNG: Königschaffhausen
+QUELLE: https://www.endingen.de/stadt-wirtschaft/ortsteile/koenigschaffhausen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1136
+  hoehe: 197 m ü. NN
+  erste_urkundliche_erwaehnung: 995
+  erste_urkundliche_erwaehnung_grund: Kaiser Otto III stiftet Grundbesitz dem Frauenkloster St. Margarethen Waldkirch
+  namensherkunft: "Künges Schafhusen" = königliches Schafhaus
+  gewannnamen: Königsweg und Schaflager
+  habsburg_verkauf: 1270
+  habsburg_verkauf_an: Ritter Dietrich von Tusseling
+  habsburg_verkauf_betrag: 150 Mark Silber
+  habsburg_verkauf_anlass: erste Erwähnung als "Dorf"
+  baden_besitz_ab: um 1455
+  baden_besitz_alleinig_ab: Markgraf Ernst von Baden
+  reforma_konfession: evangelisch
+  reformation_grund: Markgrafen von Baden zum evangelischen Glauben
+  pfarrei_zugehoerigkeit_historisch: Filiale Pfarrei Leiselheim
+  pfarrei_zugehoerigkeit_aenderung: 1954
+  erster_evangelischer_pfarrer: Bernhard Krugk (1557-1559)
+  pfarrer_heute: Peter Boos (45. Pfarrer seit 1557)
+  orgel_dauer: seit 200 Jahren
+  glocken_wk1: 1917 abgegeben
+  glocken_wk1_ersatz: 1923 ersetzt trotz Inflation durch Spenden
+  glocken_wk2: WWII abgegeben
+  glocken_wk2_ersatz: 1948 ersetzt durch Verkauf von Schnaps, Wein und Kirschen
+  19_jahrhundert_infrastruktur: Stromversorgung, zentrale Wasserversorgung, Feldflurbereinigung, eigener Bahnhof
+  weinbau_seit: 1933 hervorragende Weine ausgebaut und vermarktet
+  weinlagen: Hasenberg und Steingrüble
+  kirschen_typ: madenfreie schwarze Kirschen
+  kirschen_anbau: in Gärten der Ebene
+  kirschengemeinde_status: eine der größten Kirschengemeinden Badens
+  kirschenbluete: einzigartiger Eindruck schneeweißer Blütenwogen
+GUELTIG_AB: 995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/034
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Amolterer Heide
+ORTSTEIL_BEZUG: Amoltern
+QUELLE: https://www.endingen.de/stadt-wirtschaft/ortsteile/amoltern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: eines der ältesten Naturschutzgebiete am Kaiserstuhl
+  flora: viele Orchideenarten
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 403-endingen/035
+ENTITÄT: app
+BEZEICHNUNG: Zeigmal.App
+QUELLE: https://www.endingen.de/tourismus-freizeit/sehenswertes/digitales-stadterlebnis | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwicklung_partner: Kleinstadtperlen Baden-Württemberg, Archivar, Stadtführer
+  funktionalitaet: digitale vorgefertigte Stadttour
+  funktionalitaet_interaktiv: interaktive Erkundung der Stadt
+  inhalte: Informationen Sehenswürdigkeiten und Erlebnismöglichkeiten
+  inhalte_audio: Audiodateien lokaler Guides
+  inhalte_ar: Augmented-Reality-Stationen
+  ar_funktionalitaet: historische Aufnahmen bei Smartphoneausrichtung auf Gebäude
+  ar_effekt: spielerischer Zugang zur Stadtgeschichte
+  verfuegbarkeit: kostenlos in App-Stores
+  registrierung: keine erforderlich
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/036
+ENTITÄT: künstler_galerie
+BEZEICHNUNG: KunstKÖ21
+ORTSTEIL_BEZUG: Königschaffhausen
+QUELLE: https://www.endingen.de/tourismus-freizeit/sehenswertes/kuenstler-galerien | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Jörg Dassow
+  adresse: Königschaffhauser Straße 21
+  ausstellungsart: wechselnde Einzel- und Gruppenausstellungen regionaler und überregionaler Künstler
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/037
+ENTITÄT: künstler_galerie
+BEZEICHNUNG: Kunst im kleinen Hof
+ORTSTEIL_BEZUG: Königschaffhausen
+QUELLE: https://www.endingen.de/tourismus-freizeit/sehenswertes/kuenstler-galerien | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Petra Deutscher und Hubert Germann
+  adresse: Kiechlinsberger Straße 13
+  spezialitaet: besondere Skulpturen aus Raku-Keramik
+  ambiente: kunstvolles Ambiente im historischen Gehöft mit Atelier und Garten
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/038
+ENTITÄT: künstler_atelier
+BEZEICHNUNG: Bildhauer-Atelier im Hof
+ORTSTEIL_BEZUG: Kiechlinsbergen
+QUELLE: https://www.endingen.de/tourismus-freizeit/sehenswertes/kuenstler-galerien | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Christopher Lampart
+  adresse: Kirchstraße 1
+  kunstform: Skulpturen aus Holz und Stein
+  kunstform_art: Auftragsarbeiten
+  ambiente: historisches Gehöft von 1544-1589
+GUELTIG_AB: 1544
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/039
+ENTITÄT: künstler_galerie
+BEZEICHNUNG: MILU – Individuelle Bilder
+ORTSTEIL_BEZUG: Königschaffhausen
+QUELLE: https://www.endingen.de/tourismus-freizeit/sehenswertes/kuenstler-galerien | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Michaela Lucie Dassow
+  adresse: Königschaffhauser Straße 21
+  kunstform: abstrakte Acrylbilder und Collagen
+  kunstform_feature: mit Entstehungsgeschichte
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 403-endingen/040
+ENTITÄT: gaststätte
+BEZEICHNUNG: Gasthaus "Sonne"
+ORTSTEIL_BEZUG: Amoltern
+QUELLE: https://www.endingen.de/stadt-wirtschaft/ortsteile/amoltern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: historisches Fachwerk
+  bedeutung: prägt Dorfplatz
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 403-endingen/041
+ENTITÄT: stadtverwaltung
+BEZEICHNUNG: Stadtverwaltung Endingen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Marktplatz 6, 79346 Endingen am Kaiserstuhl
+GUELTIG_AB: 1308
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 403-endingen/042
+ENTITÄT: stromversorgung
+BEZEICHNUNG: Stromversorgung Endingen
+QUELLE: https://www.endingen.de/stadt-wirtschaft/stadt-endingen/stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  liefervertrag: 1920
+  ausbau_netz: 1920
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

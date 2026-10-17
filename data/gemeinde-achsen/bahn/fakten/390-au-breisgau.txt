@@ -1,0 +1,548 @@
+ID: 390-au-breisgau/001
+ENTITÄT: ort
+BEZEICHNUNG: Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 861
+  erste_erwähnung_datum: 1861-07-12
+  erste_erwähnung_kontext: Urkunde aus Mengen, Verpflichtung für jährliche Kirchenzinsen
+  bundesland: Baden-Württemberg
+  landkreis: Breisgau-Hochschwarzwald
+  regierungsbezirk: Freiburg im Breisgau
+  verwaltungsgemeinschaft: Hexental (Sitz Merzhausen)
+  kfz_kennzeichen: FR
+  einwohner: 1505 (737 m, 768 w)
+  einwohner_stand: 2023-09-30
+  entfernung_freiburg_city: 4.6 km
+  lage: Hexental zwischen Schönberg und Schauinsland, wenige Kilometer südlich von Freiburg
+  charakterisierung: naturnaher Charakter erhalten
+  landwirtschaftliche_betriebe: erfreulich große Anzahl, überwiegend Milchwirtschaft
+  weitere_landwirtschaft: Rinder- und Schweinezucht
+  pferdehöfe: 2
+  waldbedeckung: 40%
+  häuser_1525: 25
+  einwohner_1786: 215
+  häuser_1786: 32
+GUELTIG_AB: 861
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 390-au-breisgau/002
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht bei Freiburg - Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1644-08-03
+  kontext: Dreißigjähriger Krieg
+  beschreibung: zweiter Tag der Schlacht bei Freiburg
+  genauigkeit: ca. (Wikipedia nennt 05.08.1644)
+GUELTIG_AB: 1644
+GUELTIG_BIS: 1644
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 390-au-breisgau/003
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Gemeinde Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihungsdatum: 1965-03-29
+  flaggenfarben: Grün-Gelb (Grün-Gold)
+  beschreibung: Gespaltener Schild, vorne von Gold über Grün geteilt, hinten von Schwarz-Silber einundzwanzigfach geschacht
+  herkunft_vorne: Wappen der Schnewlin von Weiher
+  herkunft_hinten: Wappen der Freiherrn von Baden
+  grund: lange Bindung der Gemeinde Au an die Schnewlin und Freiherrn von Baden
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/004
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Gemeinde Au (1899)
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_annahme: 1899
+  beschreibung: Gespaltener Schild, vorne von Gold über Grün geteilt, hinten von Schwarz-Silber einundzwanzigfach geschacht
+  grund_annahme: kombiniert aus Wappen der beiden Grundherrenfamilien
+  graveur: Klett (Karlsruhe)
+  stempel_typ: Farbdruckstempel
+  verwendungsstatus: Verwendung ab August 1899 nicht nachvollziehbar, 1938 nicht mehr im Einsatz
+GUELTIG_AB: 1899
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 390-au-breisgau/005
+ENTITÄT: kirche
+BEZEICHNUNG: Kapelle in Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_jahr: 1668
+  bau_vogt: Simon Zimmermann
+  einweihung_jahr: 1669
+  einweihung_durch: Bischof von Konstanz
+  instandsetzung_jahr: 1772
+  abriss_jahr: 1967
+GUELTIG_AB: 1668
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 390-au-breisgau/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes, Au (Filialkirche)
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1956
+  orgel_installation: 1979
+  konfession: Katholisch
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/007
+ENTITÄT: person
+BEZEICHNUNG: Hartmann von Aue
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtszeitraum: 1150-1168
+  todesjahr: ca. 1210
+  herkunft_möglichkeit: möglicherweise Au
+  herkunft_vermutung: nicht bewiesen
+  profession: Epiker (großer Epiker der Stauferzeit)
+  genauigkeit: vermutlich
+GUELTIG_AB: 1150
+GUELTIG_BIS: 1210
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 390-au-breisgau/008
+ENTITÄT: person
+BEZEICHNUNG: Heinrich von Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Verschenkung des Hofes an Kloster St. Peter
+  ereignis_jahr: 1112
+GUELTIG_AB: 1112
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/009
+ENTITÄT: person
+BEZEICHNUNG: Liutfried von Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stand: Ritter (miles)
+  nennung_jahr: 1123
+GUELTIG_AB: 1123
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/010
+ENTITÄT: person
+BEZEICHNUNG: Hans Konrad Nagel von der Alten Schönenstein
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Erschlagenwerden in Au
+  ereignis_jahr: 1637
+GUELTIG_AB: 1637
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/011
+ENTITÄT: person
+BEZEICHNUNG: Elmar Bitzenhofer
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Bürgermeister
+  amtszeit: 1980-2003
+GUELTIG_AB: 1980
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/012
+ENTITÄT: person
+BEZEICHNUNG: Jörg Kindel
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  position: Bürgermeister
+  amtszeit_ab: 2004
+  zusatz: seit 2018 auch Bürgermeister von Wittnau
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/013
+ENTITÄT: person
+BEZEICHNUNG: Ernst-Wolfgang Böckenförde
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  geburts_jahr: 1930
+  todes_jahr: 2019
+  position: Richter des Bundesverfassungsgerichts (a.D.)
+  wohnort: Au (Breisgau)
+GUELTIG_AB: 1930
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/014
+ENTITÄT: person
+BEZEICHNUNG: Natalie Lumpp
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  geburts_jahr: 1971
+  profession: Spitzensommelière und Weinautorin
+  verbindung_zu_au: Kindheit und Jugend
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/015
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 1344
+  neuer_friedhof_anlegung: 1957
+  friedhofskapelle_bau: 1980
+  ehrenmal_für: Gefallene 1914-1918 und 1939-1945
+GUELTIG_AB: 1344
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 390-au-breisgau/016
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung_jahr: 1927
+  erste_renovierung: 1970
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/017
+ENTITÄT: schulhaus
+BEZEICHNUNG: Schulhaus Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung_jahr: 1911
+  renovierung_und_erweiterung: 1971-1972
+  wohnungen_zusatz: 7
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 390-au-breisgau/018
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Auer Feuerwehr
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 1818
+GUELTIG_AB: 1818
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/019
+ENTITÄT: musikverein
+BEZEICHNUNG: Männergesangverein "Sängerrunde Au"
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1912
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/020
+ENTITÄT: verein
+BEZEICHNUNG: Kriegserverein Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1913
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/021
+ENTITÄT: musikverein
+BEZEICHNUNG: Musikverein Au e.V.
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1934
+GUELTIG_AB: 1934
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/022
+ENTITÄT: sportverein
+BEZEICHNUNG: Sportverein Au-Wittnau
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1961
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/023
+ENTITÄT: sportverein
+BEZEICHNUNG: Sportschützeverein Merzhausen-Au e.V.
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1962
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/024
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Handharmonika-Club Hexental e.V.
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1963
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/025
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Auer Chörli
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1978
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/026
+ENTITÄT: brunnen
+BEZEICHNUNG: Zierbrunnen am Schloßberg
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1979
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 390-au-breisgau/027
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_jahr: 1962
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/028
+ENTITÄT: gebäude
+BEZEICHNUNG: Bürgerhaus (Gemeindesaal Au)
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Ortszentrum zwischen Rathaus und Kirche
+  architektur: modern
+  ausbau_under_kirche: 1968
+  funktion: Ort der Begegnung und des bürgerschaftlichen Engagements, Seminare, Feste, Tagungen, Veranstaltungen
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 390-au-breisgau/029
+ENTITÄT: wanderweg
+BEZEICHNUNG: Naturlehrpfad am Schönberg
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Natur
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/030
+ENTITÄT: wanderweg
+BEZEICHNUNG: Hexentäler Vogellehrpfad
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Natur, Vögel
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/031
+ENTITÄT: wanderweg
+BEZEICHNUNG: Bettlerpfad (historischer Pfad)
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: von Merzhausen/Freiburg nach Badenweiler
+  charakterisierung: historisch
+  durchquert_gemeinde: Au
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/032
+ENTITÄT: weinberg
+BEZEICHNUNG: Auer Altberg
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  weingut: Wissler
+  erste_urkundliche_erwähnung: 1789
+  erste_erwähnung_weinbau_au: 868
+GUELTIG_AB: 868
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 390-au-breisgau/033
+ENTITÄT: burg
+BEZEICHNUNG: Burg in Au
+ORTSTEIL_BEZUG:
+QUELLE: https://www.au-hexental.de/unsere-gemeinde/geschichte/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 1344
+  status: Mittelalter, wahrscheinlich vorhanden, nicht auffindbar
+  indiz: Bezeichnung "Burghöfe"
+GUELTIG_AB: 1344
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 390-au-breisgau/034
+ENTITÄT: burg
+BEZEICHNUNG: Burg Obhusen (abgegangen)
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  status: abgegangen
+  beschreibung: im Gemeindegebiet Au gelegen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 390-au-breisgau/035
+ENTITÄT: burg
+BEZEICHNUNG: Burg Au (abgegangen)
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  status: abgegangen
+  beschreibung: im Gemeindegebiet Au gelegen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 390-au-breisgau/036
+ENTITÄT: ortschaft
+BEZEICHNUNG: Witraha (abgegangen)
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  status: abgegangen
+  beschreibung: im Gemeindegebiet Au gelegen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 390-au-breisgau/037
+ENTITÄT: zinken
+BEZEICHNUNG: Schönberg
+ORTSTEIL_BEZUG: Schönberg
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  status: Zinken der Gemeinde Au
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/038
+ENTITÄT: zinken
+BEZEICHNUNG: Hof
+ORTSTEIL_BEZUG: Hof
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  status: Zinken der Gemeinde Au
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/039
+ENTITÄT: geologie
+BEZEICHNUNG: Oberrheingrabens Hauptverwerfung
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: durch Au
+  auswirkungen: Überreste großer Hangrutschungen am Schönberg
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/040
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Buslinie 7208
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Südbadenbus GmbH
+  strecke: Freiburg nach Bad Krozingen
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/041
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radweg L 122
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: entlang der L 122
+  verbindung: Au, Sölden, Wittnau, Merzhausen, FR 7, Freiburger Radnetz
+  alternative_route: über Alte Straße und Merzhausen entlang Lorettoberges zur Wiehre
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 390-au-breisgau/042
+ENTITÄT: landstraße
+BEZEICHNUNG: L 122 (Dorfstraße)
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Au_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: durch Au, von Freiburg nach Ehrenkirchen
+  ausbau_jahre: 1970-1971
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92

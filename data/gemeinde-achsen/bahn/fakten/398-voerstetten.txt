@@ -1,0 +1,665 @@
+ID: 398-voerstetten/001
+ENTITÄT: ort
+DESIGNIERUNG: Vörstetten
+QUELLE: https://voerstetten.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung_jahr: 993
+  ersterwähnung_als: "Verstat"
+  älter_als: 1000
+  älter_als_einheit: "Jahre"
+  namensherkunft: "Stätte oder Platz in der sich weithin ausdehnenden Niederung"
+  einwohner: 3000
+  genauigkeit_einwohner: "ca."
+  infrastruktur_kindergärten: 4
+  infrastruktur_grundschule: 1
+  infrastruktur_mehrzweckhalle: 1
+  vereine_und_organisationen: 30
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 398-voerstetten/002
+ENTITÄT: ort
+DESIGNIERUNG: Vörstetten
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  lage: "wenige Kilometer nördlich von Freiburg im Breisgau"
+  landkreis: Emmendingen
+  bundesland: Baden-Württemberg
+  archäologische_besiedlung_vor_jahren: 7000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 398-voerstetten/003
+ENTITÄT: frühalammannische_siedlung
+QUELLE: https://voerstetten.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "4. bis 5. Jahrhundert n.Chr."
+  superlativ: "bisher einzige ihrer Art"
+  nachweismethode: "Ausgrabungen"
+GUELTIG_AB: 400
+GUELTIG_BIS: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/004
+ENTITÄT: schenkungsurkunde
+QUELLE: https://voerstetten.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 993
+  schenker: "Graf Birchtilo"
+  empfänger: "Kirche des Heiligen Cyriak in Sulzburg"
+  gegenstand: "Vörstetten mit anderen Gütern"
+GUELTIG_AB: 993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 398-voerstetten/005
+ENTITÄT: tiefburg
+QUELLE: https://voerstetten.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: "12. bis 13. Jahrhundert"
+  standort: "südlich Mühlbach in Höhe der unteren Mühle von Vörstetten"
+  nachweismethode: "Luftbild mit konzentrischen Kreisen"
+  nachweisdatum: 1993
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 398-voerstetten/006
+ENTITÄT: tiefburg
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  wappentier_träger: true
+  wappentier: "Krebs"
+  wappentier_seit: "mindestens 12. bis 13. Jahrhundert"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/007
+ENTITÄT: fachwerkhaus
+QUELLE: https://voerstetten.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 60
+  genauigkeit_anzahl: "ca."
+  bauzeit: "1770-1820"
+  zustand: "noch gut erhalten"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/008
+ENTITÄT: fachwerkhaus
+QUELLE: https://www.historisches-voerstetten.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 60
+  modifikator_anzahl: "mehr als"
+  bauzeit: "1770-1830"
+  zustand: "gepflegt und modernisiert, Charme bewahrt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/009
+ENTITÄT: fachwerkhaus
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 70
+  genauigkeit_anzahl: "etwa"
+  bauzeit: "1770-1825"
+  zustand: "gut erhalten und gepflegt"
+  merkmal_ortsbild: "besonders schönes Ortsbild"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/010
+ENTITÄT: kirchturm
+QUELLE: https://voerstetten.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 46
+  höhe_einheit: "m"
+  merkmal: "schlank"
+  beschreibung: "prägendes Merkmal des Ortsbildes"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/011
+ENTITÄT: rathaus
+DESIGNIERUNG: Rat- und Schulhaus
+QUELLE: https://voerstetten.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1841
+  baustil: "klassizistisch"
+  merkmal: "prägendes Merkmal des Ortsbildes"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/012
+ENTITÄT: rathaus
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  baustil: "klassizistisch"
+  mittelpunkt: "Mittelpunkt des Dorfes"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/013
+ENTITÄT: wettbewerbsauszeichnung
+DESIGNIERUNG: "Unser Dorf soll schöner werden"
+QUELLE: https://voerstetten.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1992
+  auszeichnung: "schönste Gemeinde im Landkreis Emmendingen"
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 398-voerstetten/014
+ENTITÄT: wettbewerbsauszeichnung
+DESIGNIERUNG: "Landeswettbewerb Baden-Württemberg"
+QUELLE: https://voerstetten.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1993
+  auszeichnung: "Silbermedaille"
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 398-voerstetten/015
+ENTITÄT: evangelische_kirche
+QUELLE: https://voerstetten.de/p/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Pfarrstraße 1, 79279 Vörstetten"
+  pfarramt: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/016
+ENTITÄT: evangelische_kirche
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  erweiterung_jahr: 1803
+  erweiterung_architekt: "Friedrich Weinbrenner"
+  orgel: "historische Orgel von Mathias Martin"
+  lage: "mitten im Dorf"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/017
+ENTITÄT: liebenzeller_gemeinde
+QUELLE: https://voerstetten.de/p/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Viehweidweg 3, 79279 Vörstetten"
+  website: "www.lgv-voerstetten.de"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/018
+ENTITÄT: katholische_kirche
+DESIGNIERUNG: "St. Maximilian Kolbe"
+QUELLE: https://voerstetten.de/p/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Im Brühl 10, 79279 Vörstetten"
+  kirchengemeinde: "Röm.-kath. Kirchengemeinde An der Glotter"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/019
+ENTITÄT: katholische_kirche
+DESIGNIERUNG: "St. Maximilian Kolbe"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1997
+  beschreibung: "Neubau"
+  auszeichnung: "2001 Preis für beispielhaftes Bauen der Architektenkammer Baden-Württemberg"
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/020
+ENTITÄT: kleindenk_mal
+DESIGNIERUNG: "Grenzstein Vörstetten/Neuershausen"
+QUELLE: https://voerstetten.de/p/kleindenkmale | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  merkmal: "Steinoberseite abgerundet, badisches Wappen mit schräem Balken von links oben nach rechts unten, Markierung V und D"
+  erfassungsjahr: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 398-voerstetten/021
+ENTITÄT: kleindenk_mal
+DESIGNIERUNG: "Stellfalle"
+QUELLE: https://voerstetten.de/p/kleindenkmale | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "zur früheren Wiesenbewässerung - Schieber aus Holz mit Eisenbeschlägen, zwei Ketten zur Querstange als Winde zur Einstellung des Schiebers"
+  erfassungsjahr: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 398-voerstetten/022
+ENTITÄT: kleindenk_mal
+DESIGNIERUNG: "Löwenstatue"
+QUELLE: https://voerstetten.de/p/kleindenkmale | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "liegender Löwe auf niedrigem Sockel"
+  standort: "vor dem Gasthaus Löwen"
+  erfassungsjahr: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 398-voerstetten/023
+ENTITÄT: kleindenk_mal
+DESIGNIERUNG: "Mühlstein auf Sockel"
+QUELLE: https://voerstetten.de/p/kleindenkmale | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Mühlstein aus ehemaliger Mühle an dieser Stelle"
+  mühle_letzte_betreiber: "Familie Keller"
+  mühle_betriebszeit: "1937-2000"
+  erfassungsjahr: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/024
+ENTITÄT: museum
+DESIGNIERUNG: "Alamannen-Museum Vörstetten"
+QUELLE: https://alamannen-museum.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schwerpunkt: "Römer und Alamannen vor 1600 Jahren"
+  beschreibung: "interaktive Ausstellung mit historischem Handwerk"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 398-voerstetten/025
+ENTITÄT: wappenelement
+DESIGNIERUNG: "Krebs (Flusskrebs)"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  heraldische_bedeutung: "Wehrhaftigkeit und Wendigkeit"
+  natürlicher_bezug: "Krebse früher in größerer Menge in Schobbach, Mühlbach, Futterholzbach, Riemenbach, Rossschwämmebächle"
+  wappenteil_seit: "12. bis 13. Jahrhundert (Tiefburg-Herrschaft)"
+  superlativ: "ältester Teil des Wappens"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/026
+ENTITÄT: wappenelement
+DESIGNIERUNG: "Schrägbalken (Rot auf Gold)"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: "badisches Wappen, zitiert Zugehörigkeit zur Markgrafschaft Baden-Hachberg"
+  beschreibung: "rechte (vordere) Hälfte des gespaltenen Schildes"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/027
+ENTITÄT: ortsadel
+DESIGNIERUNG: "Herren von Vörstetten"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  nachgewiesen: "1111-1179"
+  status: "Ministerialen der Zähringer"
+GUELTIG_AB: 1111
+GUELTIG_BIS: 1179
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/028
+ENTITÄT: ortsadel
+DESIGNIERUNG: "Herren von Schwarzenberg"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  grundbesitz: "in Vörstetten"
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 398-voerstetten/029
+ENTITÄT: ortsadel
+DESIGNIERUNG: "Herren von Falkenstein"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  grundbesitz: "in Vörstetten"
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 398-voerstetten/030
+ENTITÄT: markgrafschaft
+DESIGNIERUNG: "Baden-Hachberg"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  vörstetten_teil_seit: 1405
+GUELTIG_AB: 1405
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/031
+ENTITÄT: auswandererbewegung
+DESIGNIERUNG: "nach Siebenbürgen und Banat"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: "18. Jahrhundert"
+  anzahl_personen: 50
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/032
+ENTITÄT: auswandererbewegung
+DESIGNIERUNG: "nach Amerika"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: "19. Jahrhundert"
+  anzahl_personen: 350
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/033
+ENTITÄT: verwaltungsverband
+DESIGNIERUNG: "Verwaltungsverband Vörstetten-Denzlingen-Reute"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  gründung_jahr: 1972
+  gründer: "Vörstetten, Denzlingen"
+  erweiterung_jahr: 1974
+  erweiterung_um: "Reute"
+  aufgaben: "Schulträger für alle Schulen im Verbandsgebiet, gemeinsamer Bauhof"
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/034
+ENTITÄT: baggersee
+DESIGNIERUNG: "Vörstetter Baggersee"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  größe_ha: 3.1
+  tiefe_m: 18
+  genauigkeit_tiefe: "ca."
+  entstehung: "mit dem Bau der Autobahn"
+  nutzung: "Fischgewässer des Angelsportclub Vörstetten"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/035
+ENTITÄT: sportverein
+DESIGNIERUNG: "VfR Vörstetten"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1956
+  sportart: "Fußball"
+  superlativ: "größter Sportverein Vörstettens"
+  erste_mannschaft_liga: "Kreisliga B"
+  erste_mannschaft_seit: 2015
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/036
+ENTITÄT: sporthalle
+DESIGNIERUNG: "Heinz-Ritter-Halle"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1975
+  beschreibung: "Mehrzweckhalle"
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/037
+ENTITÄT: gemeindepartnerschaft
+DESIGNIERUNG: "L'Étrat"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  land: "Frankreich"
+  département: "Loire"
+  typ: "verschwistert"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/038
+ENTITÄT: gemeindepartnerschaft
+DESIGNIERUNG: "La Tour-en-Jarez"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  land: "Frankreich"
+  département: "Loire"
+  typ: "verschwistert"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/039
+ENTITÄT: unternehmen
+DESIGNIERUNG: "Bolz GmbH"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  branche: "Holzverarbeitung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 398-voerstetten/040
+ENTITÄT: unternehmen
+DESIGNIERUNG: "Hegemann GmbH"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  tätigkeit: "Entwicklung und Produktion"
+  branche: "Industrieelektronik"
+  schwerpunkte: "Mikroprozessor-Technik, unterstützte Leistungselektronik"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 398-voerstetten/041
+ENTITÄT: ortsteil
+DESIGNIERUNG: "Schupfholz"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Weiler"
+  lage: "etwa 2 km nordwestlich von Vörstetten"
+  nachbarorte: "Reute, Holzhausen"
+  entfernung_autobahnausfahrt: "etwa 3 km zur A5-Ausfahrt Freiburg-Nord"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 398-voerstetten/042
+ENTITÄT: abgegangene_ortschaft
+DESIGNIERUNG: "Sulzhof"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "liegt im Gemeindegebiet von Vörstetten"
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 398-voerstetten/043
+ENTITÄT: abgegangene_ortschaft
+DESIGNIERUNG: "Thiermondingen"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "liegt im Gemeindegebiet von Vörstetten"
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 398-voerstetten/044
+ENTITÄT: radweg
+DESIGNIERUNG: "Breisgau-Radweg"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  streckenverlauf: "von Herbolzheim nach Breisach, führt von Teninger Ortsteil Nimburg und Reute nach Vörstetten und weiter nach Freiburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 398-voerstetten/045
+ENTITÄT: fahrradverleihstation
+DESIGNIERUNG: "Frelo"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  station_seit: 2024
+  dauer_probelauf: "zwei Jahre"
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 398-voerstetten/046
+ENTITÄT: fest
+DESIGNIERUNG: "Gumbiswinkelfest"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  häufigkeit: "jedes ungerade Jahr"
+  austragungsort: "Gumbiswinkel"
+  veranstalter: "Vörstetter Vereine"
+  letzte_fest_nummer: 26
+  letzte_fest_jahr: 2022
+  grund_verschiebung: "Coronapandemie"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 398-voerstetten/047
+ENTITÄT: fest
+DESIGNIERUNG: "Rettichfest"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  häufigkeit: "in Jahren ohne Gumbiswinkelfest"
+  veranstalter: "Musikverein"
+  seit: 2012
+  austragungsort: "Marchstraße"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 398-voerstetten/048
+ENTITÄT: bürgermeister
+DESIGNIERUNG: "Johann Jakob Lay"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "1888-1903"
+GUELTIG_AB: 1888
+GUELTIG_BIS: 1903
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/049
+ENTITÄT: bürgermeister
+DESIGNIERUNG: "Karl Josef Binninger"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "1903-1921"
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1921
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/050
+ENTITÄT: bürgermeister
+DESIGNIERUNG: "Hermann Schüssele"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "1921-1930"
+GUELTIG_AB: 1921
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/051
+ENTITÄT: bürgermeister
+DESIGNIERUNG: "Adolf Wilhelm Binninger"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "1930-1945"
+GUELTIG_AB: 1930
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/052
+ENTITÄT: bürgermeister
+DESIGNIERUNG: "Karl Adolf Bolz"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "1945-1948"
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/053
+ENTITÄT: bürgermeister
+DESIGNIERUNG: "Karl Joseph Reisacher"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "1948-1957"
+GUELTIG_AB: 1948
+GUELTIG_BIS: 1957
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/054
+ENTITÄT: bürgermeister
+DESIGNIERUNG: "Heinz Erhard Ritter"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "1957-1977"
+GUELTIG_AB: 1957
+GUELTIG_BIS: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/055
+ENTITÄT: bürgermeister
+DESIGNIERUNG: "Karl Heinz Beck"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "1977-2009"
+GUELTIG_AB: 1977
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/056
+ENTITÄT: bürgermeister
+DESIGNIERUNG: "Lars Brügner"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: "2010-2026"
+GUELTIG_AB: 2010
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/057
+ENTITÄT: bürgermeister
+DESIGNIERUNG: "Kevin Schüller"
+QUELLE: https://de.wikipedia.org/wiki/Vörstetten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_ab: 2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/058
+ENTITÄT: buchwissenschaft
+DESIGNIERUNG: "Vergangenes Vörstetten"
+QUELLE: https://www.historisches-voerstetten.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autor: "Manfred Groß"
+  jahr: 2016
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 398-voerstetten/059
+ENTITÄT: kleindenkmale_erfassung
+DESIGNIERUNG: "Grenzsteine Vörstetten"
+QUELLE: https://voerstetten.de/p/kleindenkmale | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  großaktionen_termine: "17.03.2012, 14.04.2012"
+  projektkoordinator: "Dieter Ohmberger (Denzlingen)"
+  erfassungsteam: "Karl Heinz Beck, Jutta Siebert, Dietrich Limberger, Edwin Franz (Heuweiler)"
+  grenzen_erfasst_zu_gemeinden: "Bottingen, Neuershausen, Holzhausen, Hochdorf, Freiburg, Gundelfingen, Denzlingen, Reute"
+  längste_grenze_fluss: "Schobbach"
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

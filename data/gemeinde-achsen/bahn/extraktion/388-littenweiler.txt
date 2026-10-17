@@ -1,0 +1,590 @@
+ENTITÄT: ort
+BEZEICHNUNG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  lage: südöstliches Stadtgebiet Freiburgs an der Dreisam im Dreisamtal
+  ist_stadtteil: true
+  urspruengliche_charakterisierung: Bauerndorf
+  erste_erwaehnung: 11. Jahrhundert als "Lutenwile" in Urkunde des Klosters Einsiedeln
+  erste_erwaehnung_quelle: Kloster Einsiedeln
+  teil_1_nach_teilung_1560: Herren von Sickingen
+  teil_2_nach_teilung_1560: Deutschordenskommende Freiburg
+  eingemeindung_nach_freiburg: 1914
+  bahnanbindung_beginn: 1887 (Höllentalbahn)
+  straßenbahnanbindung_beginn: 1925 (Linie 1)
+  einwohner_1950: 2.132
+  einwohner_1961: 4.735
+  einwohner_1970: 6.826
+  einwohner_aktuell: 8.400
+  genauigkeit_aktuell: "ca."
+  charakterentwicklung_ab_mitte_1950er: Transformation von Bauerndorf zu städtischem Wohnquartier
+  nachbarstaedtteile_zusammenwachsen_mit: Waldsee, Ebnet, Kappel
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Freiburg-Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_ueber_meeresspiegel: 318 [m]
+  bahnlinie: Höllentalbahn
+  betrieb_ab: 1887
+  verkehrstakt: Halbstundentakt
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Höllentalbahn
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  streckenverlauf: von Hauptbahnhof Freiburg durch gesamtes Höllental bis Titisee-Neustadt
+  erschliessung_littenweiler_ab: 1887
+  bedeutung: wichtigstes öffentliches Verkehrsmittel für Berufspendler, Urlauber und Wintersportler in der Region
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche der Heiligen Barbara (alte Kirche)
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  patron: heilige Barbara
+  patron_bedeutung: Patronin der Bergleute
+  weihe_grund_vermutung: Bergleute aus Littenweiler und Kappel arbeiteten in den Stollen des Schauinslands
+  genauigkeit_grund: "vermutlich"
+  standort: Ortskern
+  nutzung_urspruenglich: Pfarrkirche
+  umnutzung_ab_1960er: Bürgersaal
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Barbara-Kirche (Neubau)
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  baujahr: 1960er Jahre
+  architektur: moderner Bau
+  standort: neben der alten Kirche im Ortskern
+  grund_neubau: Bevölkerungszuwachs ab Mitte 1950er Jahre
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Auferstehungskirche
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  baujahr: 1960er Jahre
+  architektur: moderner Betonbau mit charakteristischem Zweischeiben-Glocken-Turm
+  grund_bau: Bevölkerungszuwachs ab Mitte 1950er Jahre
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: altenheim
+BEZEICHNUNG: St. Antonius
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  standort: "Stahlbad" Freiburg
+  art: stationäre Pflegeeinrichtung
+  gebaeude_herkunft: ehemaliges Kur- und Badehaus
+  gebaeude_erbaut: 1844
+  genauigkeit_baujahr: "ca."
+  grund_erbauung: am Austritt einer mineralischen Heilquelle
+  denkmalschutz: true
+  betreuer_original: Gengenbacher Franziskanerinnen
+  betreuer_original_bis: 2010er Jahre
+  betreuer_neu_ab: 2010er Jahre
+  betreuer_neu: Marienhaus St. Johann e. V.
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Schauinsland
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  alternate_name: Erzkasten
+  art: Stollen
+  standort: östlich von Littenweiler und Kappel
+  arbeitnehmer: Bergleute aus Littenweiler und Kappel
+  abbaugut: Erze
+  genauigkeit_abbaugut: "vermutlich"
+  bedeutung_fuer_littenweiler: deutet auf lokale Bergbautradition hin
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Ortsfriedhof Littenweiler
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  groesse: klein
+  nutzung_aktuell: nur noch selten genutzt
+  bedeutung: Hinweis auf Geschichte als ehemals selbständiges Dorf
+  standort: Ortskern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Bergäcker
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  angelegt: 1960er Jahre
+  grund_anlage: Bevölkerungszuwachs ab Mitte 1950er Jahre
+  standort: südlich der Höllentalbahn, Südwesten des Stadtteils
+  funktion: Bestattungen aus der ganzen Stadt
+  besonderheit: 2007 Teil als Tierfriedhof abgeteilt
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Tierfriedhof
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  art: Tierfriedhof
+  abgeteilt_von: Friedhof Bergäcker
+  abgeteilt_ab: 2007
+  standort: südlich der Höllentalbahn, Südwesten des Stadtteils
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Recyclinghof Littenweiler
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Entsorgung von Abfällen verschiedenster Art
+  anteil_in_freiburg: einer der drei Freiburger Recyclinghöfe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Polizeidienststelle
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  standort: Nähe des Recyclinghofes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Pädagogische Hochschule Freiburg
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1962
+  entstanden_aus: Lehrerbildungsakademien I und II
+  standort: Littenweiler (auf Feldern zwischen Bahnlinie und altem Ortskern)
+  ausbildung_lehramt: Lehrer an Grund-, Haupt- und Realschulen
+  ausbildung_diplom: Diplompädagogen
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Waldhof
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1950
+  art: freie Einrichtung der Erwachsenenbildung
+  angebot: Blockseminare und Vorträge zu Geistes- und Naturwissenschaft, Kunst, Landes- und Völkerkunde, Religion und Philosophie, musische und kreative Kurse
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Reinhold-Schneider-Schule
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  art: Grund- und Hauptschule
+  benannt_nach: Reinhold Schneider
+  grund_benennung: Schriftsteller, der lange Jahre in Freiburg lebte
+  erweiterung_ab: 1960er Jahre
+  grund_erweiterung: starker Bevölkerungszuwachs
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Sprachenkolleg für studierende Ausländer
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  traeger: Erzdiözese Freiburg
+  zweck: Erlernen der deutschen Sprache
+  zielgruppe: Studenten aus anderen Sprachräumen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: studentenwohnheim
+BEZEICHNUNG: Thomas-Morus-Burse
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  traeger: Erzdiözese Freiburg
+  plaetze: 300
+  genauigkeit_plaetze: "ca."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: studentenwohnheim
+BEZEICHNUNG: St. Alban Haus
+ORTSTEIL_BEZUG: Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: Anfang 1960er Jahre
+  traeger: Erzdiözese Freiburg
+  urspruenglicher_namensbezug: Theologe Alban Stolz
+  grund_namenswechsel: antisemitische Äußerungen des Theologen wurden näher beleuchtet
+  namenswechsel_zu: St. Alban nach Alban von Mainz
+  namenswechsel_ab: 2017
+  plaetze_vor_sanierung: 300
+  plaetze_nach_sanierung_geplant: 350
+  sanierung_ab: September 2025 (geplant)
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: sportstaette
+BEZEICHNUNG: Strandbad Freiburg
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  standort: Waldsee (Nachbarstadtteil), an der Schwarzwaldstraße, direkt neben Dreisamstadion
+  art: Freibad
+  groesse: größtes Freibad Freiburgs
+  superlativ: "größtes Freibad Freiburgs"
+  einrichtung: Rutschbahn 91 m lang
+  bedeutung_fuer_littenweiler: auch für Littenweiler von Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: sportstaette
+BEZEICHNUNG: Dreisamstadion
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  standort: Waldsee (Nachbarstadtteil), an der Schwarzwaldstraße
+  art: Fußballstadion
+  heimat_verein: Sportclub (SC) Freiburg
+  spielbetrieb_bis: Ende Spielzeit 2020/21
+  anmerkung: neues Stadion im Westen der Stadt errichtet
+  bedeutung_fuer_littenweiler: auch für Littenweiler von Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: sportstaette
+BEZEICHNUNG: Möslestadion
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  standort: Waldsee (Nachbarstadtteil), an der Schwarzwaldstraße
+  art: Fußballstadion
+  heimat_verein: SC Amateure
+  zusatzeinrichtung: Fußballschule
+  bedeutung_fuer_littenweiler: auch für Littenweiler von Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: PTSV (Post-Turn- und Sportverein) Jahn
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  standort: Waldsee (Nachbarstadtteil)
+  art: Breitensportverein
+  bedeutung_fuer_littenweiler: auch für Littenweiler von Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: FT (Freiburger Turnerschaft) 1844
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1844
+  standort: Waldsee (Nachbarstadtteil), an der Schwarzwaldstraße
+  art: Sportverein
+  groesse: größter südbadischer Sportverein
+  superlativ: "größter südbadischer Sportverein"
+  einrichtungen: Hallenschwimmbad, Halle für Rollkunstlauf, Tennisplätze, Sportkindergärten, Sportgrundschule
+  bedeutung_fuer_littenweiler: auch für Littenweiler von Bedeutung
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Freiburger Tennisclub
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  standort: Waldsee (Nachbarstadtteil), an der Schwarzwaldstraße
+  bedeutung_fuer_littenweiler: auch für Littenweiler von Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: sportstaette
+BEZEICHNUNG: Sportanlagen Albert-Ludwigs-Universität Freiburg
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  standort: Waldsee (Nachbarstadtteil), an der Schwarzwaldstraße
+  betrieber: Albert-Ludwigs-Universität Freiburg
+  nutzer: Studenten der Pädagogischen Hochschule und der Universität
+  bedeutung_fuer_littenweiler: auch für Littenweiler von Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Freiburger Straßenbahn Linie 1
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  einführung_in_littenweiler: 1925
+  charakterisierung: am stärksten frequentierte Linie der Freiburger Verkehrs AG
+  betreiber: Freiburger Verkehrs AG
+  endhaltestelle_bisherig: Laßbergstraße
+  geplante_verlaengerung_ziel: Kappler Knoten
+  geplante_verlaengerung_haltestellen: drei weitere Stationen über Bahnhof Littenweiler und Haltestelle Römerstraße
+  geplanter_baubeginn_anfang_2000er: nicht verwirklicht
+  geplanter_neuer_baubeginn: Anfang 2027
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: B 31 Ost
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  art: Bundesstraße
+  verlauf: größtenteils im Kappler Tunnel unter Littenweiler hindurch
+  effekt_verkehr: Reduktion der Verkehrsbelastung
+  ausfahrt_standort: östlicher Stadtrand
+  anbindung: schnelle Verbindung zur Innenstadt und in den Schwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hansjakobstraße
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Hauptsächliche Verbindung zur Innenstadt
+  verkehrsmittel: Stadtbahn Linie 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Frelo-Fahrradverleih
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  art: Fahrradverleihsystem
+  stationen_in_littenweiler: 3
+  standorte_stationen: Bahnhof Littenweiler, Laßbergstraße (Endhaltestelle Straßenbahn), Strandbad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: FR 1
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  standort: nördlicher Rand Littenweilers entlang der Dreisam
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: FR 8
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: nördlich entlang der Höllentalbahn nach Waldsee und in die Wiehre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Ortswappen Littenweiler
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: weißes Tatzenkreuz auf rotem Grund
+  felder: vier Felder, je eine silberne Kugel
+  komponente_1: Tatzenkreuz (Deutscher Orden)
+  komponente_1_bedeutung: Symbol des Deutschen Ordens als Ortsherr
+  komponente_2: Silberkugeln (Grafen von Sickingen)
+  komponente_2_bedeutung: Symbol der Grafen von Sickingen als Ortsherr
+  herkunft: Kombination aus Wappen der beiden langjährigen Ortsherren
+GUELTIG_AB: 1560
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebietsherr
+BEZEICHNUNG: Deutschordenskommende Freiburg
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  art: Ordenskommende (Deutscher Orden)
+  besitz_teilgebiet: südlicher Teil von Littenweiler (nach Teilung 1560)
+  vertrag: 1614 mit Herren von Sickingen über Gerichtsbarkeit und Steuern
+  regelbereich: Gerichtsbarkeit, Steuern
+GUELTIG_AB: 1560
+GUELTIG_BIS: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebietsherr
+BEZEICHNUNG: Herren von Sickingen
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  art: Adelsgeschlecht
+  besitz_teilgebiet: nördlicher Teil von Littenweiler (nach Teilung 1560)
+  vertrag: 1614 mit Deutschordenskommende Freiburg über gegenseitige Interessen
+  regelbereich: Gerichtsbarkeit, Steuern
+GUELTIG_AB: 1560
+GUELTIG_BIS: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Albert Benitz
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Kameramann
+  geburtsort: Littenweiler
+  geburtsjaahr: 1904
+  todesjahr: 1979
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1979
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Klaus Schüle
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjaahr: 1963
+  beruf: Landtagsabgeordneter
+  partei: CDU
+  wohnort: Littenweiler
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Christian Streich
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjaahr: 1965
+  beruf: Trainer
+  arbeitgeber: SC Freiburg
+  wohnort: Littenweiler
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: literarisches_werk
+BEZEICHNUNG: Der Brand
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  autor: Christoph Meckel
+  art: autobiografische Erzählung
+  schauplatz: Littenweiler
+  inhalt: Schilderung der Feuersbrunst nach der Bombardierung Freiburgs am 27. November 1944, vom Eichberg aus beobachtet
+  bezug_zu_ereignis: Bombardierung Freiburg (27. November 1944)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bombardierung Freiburg
+QUELLE: https://de.wikipedia.org/wiki/Littenweiler | Wikipedia
+EIGENSCHAFTEN:
+  datum: 27. November 1944
+  folge_fuer_littenweiler: Feuersbrunst
+  beobachter: Christoph Meckel vom Eichberg
+  dokumentation: Erzählung "Der Brand" von Christoph Meckel
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92

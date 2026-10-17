@@ -1,0 +1,500 @@
+ENTITÄT: ort
+BEZEICHNUNG: Bahlingen
+QUELLE: https://www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: leitet sich vermutlich von „Baldinga" ab, was etwa „bei den Leuten des Baldo" bedeutet
+  genauigkeit: vermutlich
+  erste_urkundliche_erwahnung: 762
+  alemannische_sippensiedlung_entstehung_zeitraum: 3.-5. Jahrhundert
+GUELTIG_AB: 762
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bahlingen
+QUELLE: https://www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zugehoerigkeit_markgrafschaft_baden: ja
+  konfession_reformation: protestantisch
+GUELTIG_AB: 1415
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bahlingen
+QUELLE: https://www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Im Dreißigjährigen Krieg und in den Kriegen Ludwigs XIV. wurde der Ort fast völlig zerstört
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bahlingen am Kaiserstuhl
+QUELLE: https://www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtlicher_zusatz_seit: 1. September 1996
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bahlingen am Kaiserstuhl
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Baden-Württemberg
+  landkreis: Emmendingen
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bahlingen am Kaiserstuhl
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  lage_geografisch: Nordostrand des Mittelgebirges Kaiserstuhl an der Alten Dreisam
+  entfernung_freiburg_km: 20
+  genauigkeit_entfernung: ca.
+  richtung_freiburg: nordnordwestlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bahlingen am Kaiserstuhl
+QUELLE: https://www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemarkungsflaeche_ha: 1266
+  einwohnerzahl: 4556
+GUELTIG_AB: 2025
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bahlingen am Kaiserstuhl
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  klima: mediterran
+  charakterisierung: eine der wärmsten Gegenden Deutschlands
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Silberbrunnen
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wohnplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Endingen am Kaiserstuhl
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Emmendingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Riegel am Kaiserstuhl
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Emmendingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Teningen mit Nimburg
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Emmendingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Eichstetten
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Breisgau-Hochschwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Vogtsburg im Kaiserstuhl
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Breisgau-Hochschwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wirtschaftliches_experiment
+BEZEICHNUNG: Physiokratismus-Versuch
+QUELLE: https://www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  system: Physiokratismus
+  zeitraum_bahlingen: 1771-1776
+  weitere_musterdoerfer: Teningen, Dietlingen
+  superlativ: weltweit einzig bekannter Versuch einer praktischen Erprobung dieser Wirtschaftstheorie
+  eingefuehrtes_steuersystem: Einsteuer (impôt unique)
+  grund: Markgraf Karl Friedrich wurde von dem System überzeugt, dem Nationalökonom Johann August Schlettwein angehörte
+  genauigkeit_grund: vermutlich
+GUELTIG_AB: 1771
+GUELTIG_BIS: 1776
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bergkirche
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  glasfenster_kuenstler: Valentin Peter Feuerstein
+  lage: prominente Stelle des Dorfes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  baustil: reiches Fachwerk
+  bauzeit: 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In gespaltenem Schild vorn in Gold ein roter Schrägbalken, hinten in Blau ein silbernes Winzermesser mit schwarzem Griff über einer gestürzten silbernen Pflugschar
+  farben_festlegung_jahr: 1913
+  altes_siegel_jahr: 1482
+  altes_siegel_beschreibung: halbrunder gespaltener Schild mit badischem Schrägbalken und nach rechts auswärts gekehrtem Rebmesser
+  neues_siegel_jahr: 1665
+  stempel_zeitraum: 2. Hälfte 18. Jahrhundert bis 1. Viertel 19. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gemeindeverwaltungsverband
+BEZEICHNUNG: Nördlicher Kaiserstuhl
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  sitz: Endingen
+  mitgliedsgemeinden: Endingen, Forchheim (Kaiserstuhl), Riegel, Sasbach am Kaiserstuhl, Wyhl am Kaiserstuhl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: staedtepartnerschaft
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  partnergemeinden: Bischwihr, Holtzwihr, Riedwihr, Wickerschwihr
+  land: Frankreich
+  region: Elsass
+  gruendung: 1996
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Florian Wissert
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Harald Lotis
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 2002-2026
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Gerhard Breisacher
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1994-2002
+GUELTIG_AB: 1994
+GUELTIG_BIS: 2002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Walter Schreyvogel
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1970-1994
+GUELTIG_AB: 1970
+GUELTIG_BIS: 1994
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Kaiserstuhlbahn
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  anschluss_eisenbahnnetz_jahr: 1896
+  elektrifizierung_jahr: 2019
+  anschluss_nach_elektrifizierung: Breisgau-S-Bahn
+  verbindung: über Gottenheim zu Freiburg und Breisach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Bahlinger SC
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  sport: Fußball
+  spielklasse_ab_2026_27: Oberliga Baden-Württemberg (5. Spielklasse)
+  heimstadion: Kaiserstuhlstadion
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadion
+BEZEICHNUNG: Kaiserstuhlstadion
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  kapazitaet_plaetze: 4000
+  heimteam: Bahlinger SC
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schulhaus
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Silberberghalle
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  fertigstellung_jahr: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Otto Männer Holding AG
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaet: international
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: genossenschaft
+BEZEICHNUNG: Die Winzer vom Silberberg
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  taetigkeitsbereich: Weinbau
+  rebsorten: Müller-Thurgau, Spätburgunder, Weißburgunder, Ruländer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: genossenschaft
+BEZEICHNUNG: Bahlinger Winzergenossenschaft
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  mitglieder_ca: 450
+  bewirtschaftete_flaeche_ha: 140
+  verarbeitung_verbuendung_mit: Zentralkellerei Badischer Winzergenossenschaften in Breisach
+  verbuendung_datum: 19. Dezember 1962
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: weinbau
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  bewirtschaftete_flaeche_ha: 280
+  historischer_ursprung: Roemerzeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: muehle
+BEZEICHNUNG: Adler Mühle
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  nutzung: Mühlenfest zum Deutschen Mühlentag am Pfingstmontag
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Hoselipsfest
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  haeufigkeit: alle zwei Jahre
+  erste_erwaehnungen: 1977
+  namensherkunft: kleine Holzfigur Hoselips, die seit je den Bahlinger Winzern Glück bringt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kaiserstuhl-Cup
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  haeufigkeit: jaehrlich
+  art: Fußballturnier
+  modus: Mischung je eines internationalen und nationalen Fußballteams mit einem regionalen Team sowie dem Team des Bahlinger SC
+  letzte_durchfuehrung: 2019
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 2019
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Alfred von Zittel
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: 1839-1904
+  profession: Geologe und Paläontologe
+  beziehung_bahlingen: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: August Hässig
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: 1883-1960
+  profession: Politiker
+  beziehung_bahlingen: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Michael Schwarze
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1939
+  profession: freier Bildhauer
+  wirkungsstätte_seit: 1989 Bahlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jan Männer
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: 1982-2022
+  profession: Fußballspieler
+  beziehung_bahlingen: mit der Gemeinde verbunden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Kaiserstuhlradweg
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: parallel zur Kaiserstuhlbahn nach Norden mit Riegel und parallel zur Landesstraße 116 mit Eichstetten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Breisgauradweg
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: entlang der Kaiserstuhlbahn nach Südosten bis Nimburg und weiter nach Reute
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsanbindung
+QUELLE: https://de.wikipedia.org/wiki/Bahlingen_am_Kaiserstuhl | Wikipedia
+EIGENSCHAFTEN:
+  autobahnanschluss_1: A 5 Abfahrt 59 (Riegel), Entfernung ca. 5 km
+  autobahnanschluss_2: A 5 Abfahrt 60 (Teningen), Entfernung ca. 5 km
+  entfernung_emmendingen_km: 10
+  entfernung_freiburg_km: 18
+  entfernung_strassburg_km: 70
+  entfernung_basel_km: 90
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
