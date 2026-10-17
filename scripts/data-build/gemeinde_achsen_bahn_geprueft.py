@@ -44,12 +44,54 @@ def urteil(text):
     return m.group(1).lower() if m else None
 
 
+OPT = re.compile(r'^\d[.):]?\s')
+
+
+def vorderseite_ordnen(neu, alt):
+    """Bringt eine berichtigte Vorderseite in die Zeilenform der Karte (Ort / Steckbrief / Frage / 1.–4.).
+    Die Prüfstufen schreiben sie teils in eine Zeile mit „ / “ und angehängtem „— RÜCKSEITE: …“ (Kloster Marienhaus 1),
+    teils nur die neue Frage mit „(Optionen 1–4 bleiben gleich.)“ (Vörstetten 5); wörtlich eingesetzt, verlor die Karte
+    Ort, Steckbrief und Antworten (86 leere Karten bis 2026-10-17)."""
+    neu = re.split(r'\s*[—–-]?\s*RÜCKSEITE\b', neu, maxsplit=1)[0].strip()
+    # „Frage neu: „…““ (Rüsselsheim 1, 8) und ein „…“ am Anfang (Buchenbach 9) sind nur Verpackung
+    neu = re.sub(r'^[…/\s]+', '', re.sub(r'^Frage neu:\s*', '', neu)).strip()
+    if neu.startswith('„') and '“' in neu:
+        neu = neu[1:neu.rindex('“')] + neu[neu.rindex('“') + 1:]
+    alt_z = [z.strip() for z in alt.split('\n') if z.strip()]
+    zeilen = [z.strip() for z in neu.split('\n') if z.strip()]
+    if len(zeilen) == 1 and ' / ' in zeilen[0]:
+        teile = [t.strip() for t in zeilen[0].split(' / ')]
+        zeilen = teile[:-1] + [t.strip() for t in re.split(r'\s+(?=\d[.)]\s)', teile[-1]) if t.strip()]
+    if not any(OPT.match(z) for z in zeilen) and any(OPT.match(z) for z in alt_z):
+        # nur die Frage ist neu: Ort, Steckbrief und Antworten bleiben aus der alten Karte
+        frage = re.sub(r'\s*\((?:[^()]*?(?:bleib|unverändert|gleich)[^()]*)\)\s*', ' ', ' '.join(zeilen)).strip()
+        # auch ohne Klammern: „… Frage? Optionen 1–4 unverändert.“ (Kloster Marienhaus 5, 2026-10-17)
+        frage = re.sub(r'\s*(?:Die\s+)?(?:Optionen|Antworten)\s*\d?\s*[–-]?\s*\d?\s*(?:bleiben\s*)?(?:unverändert|gleich)\.?\s*$', '', frage)
+        frage = re.sub(r'^[…/\s]+', '', frage.strip('„“"').strip()).strip()
+        frage = re.sub(r'\s*\(\s*$', '', frage)   # abgeschnittene Klammer „(Optionen …“ (Müllheim 1)
+        kopf = alt_z[:2]
+        opts = [z for z in alt_z[2:] if OPT.match(z)]
+        return '\n'.join(kopf + [frage] + opts)
+    if alt_z and zeilen and zeilen[0] != alt_z[0] and len([z for z in zeilen if not OPT.match(z)]) == 1:
+        # Frage und Antworten ohne Ort und Steckbrief
+        zeilen = alt_z[:2] + zeilen
+    return '\n'.join(zeilen)
+
+
 def einsetzen(karte, berichtigt):
     """Ersetzt VORDERSEITE/RÜCKSEITE der Karte durch die berichtigte Fassung."""
     if not berichtigt or berichtigt.strip() in ('–', '-'):
         return karte, False
     # die letzte Karte einer Prüfdatei: Trennlinie und ÜBERSICHT gehören nicht zur Berichtigung
     berichtigt = re.split(r'^(?:---\s*$|## )', berichtigt, flags=re.M)[0]
+    # Rückseite in derselben Zeile wie die Vorderseite (Vörstetten 5, Kloster Marienhaus 1): als eigenes Feld lesen
+    if not re.search(r'^RÜCKSEITE:', berichtigt, flags=re.M):
+        berichtigt = re.sub(r'[ \t]*[—–-]?[ \t]*RÜCKSEITE:', '\nRÜCKSEITE:', berichtigt, count=1)
+        berichtigt = re.sub(r'\s+/\s+Quelle:', '\nQuelle:', berichtigt)
+    alte_optionen = [z.strip() for z in feld(karte, 'VORDERSEITE').split('\n') if OPT.match(z.strip())]
+    rueck_neu = re.search(r'^RÜCKSEITE:[ \t]*(.*?)(?=^VORDERSEITE:|\Z)', berichtigt, flags=re.S | re.M)
+    rueck_neu = rueck_neu.group(1).strip().lstrip('„') if rueck_neu else ''
+    rueck_tauglich = rueck_neu.startswith('Du hattest') and re.search(r'Richtig war|Die Lüge war|bis Stufe', rueck_neu)
     geaendert = False
     for name in ('VORDERSEITE', 'RÜCKSEITE'):
         m = re.search(r'^%s:[ \t]*(.*?)(?=^(?:VORDERSEITE|RÜCKSEITE):|\Z)' % name, berichtigt, flags=re.S | re.M)
@@ -72,6 +114,24 @@ def einsetzen(karte, berichtigt):
             neu = text_alt + '\n' + (q.group(0) if q else (alt[alt.index('Quelle:'):] if 'Quelle:' in alt else ''))
         if name == 'RÜCKSEITE' and 'Quelle:' not in neu and 'Quelle:' in alt:
             neu += '\n' + alt[alt.index('Quelle:'):]
+        if name == 'VORDERSEITE':
+            neu = vorderseite_ordnen(neu, alt)
+            # neue Antworten brauchen eine vollständige neue Rückseite (die Lösungsstelle kann sich verschoben haben);
+            # fehlt sie (Stufe 2 brach ab: Kloster Marienhaus 1), ist die Berichtigung nicht einsetzbar
+            if [z for z in neu.split('\n') if OPT.match(z)] != alte_optionen and not rueck_tauglich:
+                return karte, False
+            # Form prüfen: Ort, Steckbrief, eine Frage, Antworten 1, 2, 3 … ohne Lücke (nur einzelne Optionen berichtigt:
+            # Weststadt 7, Mettmann 3, Hardert 3 → nicht einsetzbar)
+            z = [x for x in neu.split('\n') if x.strip()]
+            nummern = [int(x[0]) for x in z[2:] if OPT.match(x)]
+            frage = [x for x in z[2:] if not OPT.match(x)]
+            if len(z) < 5 or not frage or nummern != list(range(1, len(nummern) + 1)) or len(nummern) < 3 or '“ „' in neu:
+                return karte, False
+            # Anweisungsreste der Prüfstufe in der Frage („Optionen 1, 3 und 4 bleiben, Option 2 neu“, Bad Wörishofen 5):
+            # nicht einsetzbar, die Karte bleibt in der Urfassung und läuft als „unsicher“
+            if re.search(r'\bneu:|unverändert|(?:Optionen|Antworten)\s+bleiben|RÜCKSEITE|\bOption(?:en)?\s*\d|lautet:\s*„|^[…/]|\(\s*$',
+                         ' '.join(frage)):
+                return karte, False
         k = re.search(r'^%s:[ \t]*\n?(.*?)(?=^[A-ZÄÖÜ][A-ZÄÖÜ0-9 -]*:|\Z)' % name, karte, flags=re.S | re.M)
         if k:
             karte = karte[:k.start(1)] + neu + '\n' + karte[k.end(1):]

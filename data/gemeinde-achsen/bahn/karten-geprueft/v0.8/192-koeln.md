@@ -6,9 +6,15 @@ FAKT-ID: 192-koeln/028.besonderheit
 GEWÄHLTER FAKT: St. Maria in den Trümmern (kirche), besonderheit: errichtet um erhaltene Marienfigur; erbaut_jahr: 1950er Jahre
 BEKANNTHEIT: mittel – Die Kapelle ist in Köln als „Madonna in den Trümmern“ bekannt, überregional aber kaum.
 VORDERSEITE:
-„Die Kapelle St. Maria in den Trümmern wurde 1949/50 in der Ruine der Kirche St. Kolumba errichtet. Um was herum wurde sie gebaut?“ (Optionen bleiben gleich). RÜCKSEITE: „Du hattest [Option] getippt. In Köln liegt ein römischer Fund nahe, die Stadt war schließlich eine Römergründung. Hier aber war es eine Marienfigur: Sie hatte die Zerstörung der Kirche 1943 auf einem Pfeilerrest überstanden, und um sie herum wurde die Kapelle errichtet. Richtig war 3.“
+Köln
+Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.
+Die Kapelle St. Maria in den Trümmern wurde 1949/50 in der Ruine der Kirche St. Kolumba errichtet. Um was herum wurde sie gebaut? .
+1. Sie wurde um einen erhaltenen römischen Grabstein gebaut.
+2. Sie wurde um einen erhaltenen mittelalterlichen Brunnen gebaut.
+3. Sie wurde um eine erhaltene Marienfigur gebaut.
+4. Sie wurde um eine erhaltene Dorflinde gebaut.
 RÜCKSEITE:
-Du hattest [Option] getippt. In Köln liegt ein römischer Fund nahe, die Stadt war schließlich eine Römergründung. Hier aber war es eine Marienfigur: Sie war erhalten geblieben, und um sie herum wurde die Kapelle errichtet. Richtig war 3.
+Du hattest [Option] getippt. In Köln liegt ein römischer Fund nahe, die Stadt war schließlich eine Römergründung. Hier aber war es eine Marienfigur: Sie hatte die Zerstörung der Kirche 1943 auf einem Pfeilerrest überstanden, und um sie herum wurde die Kapelle errichtet. Richtig war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Köln
 WÖRTER RÜCKSEITE: 38
 NEGATIVNACHWEISE:
@@ -47,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Erzbischof Brun gründete Groß St. Martin als Kollegiatstift. Erst um 985 wurde es eine Benediktinerabtei, darum ist „geht auf ein Benediktinerkloster zurück“ ungenau. Die Mülheimer Brücke ist nach der Stadt Köln eine Stahl-Hängebrücke. Das Römisch-Germanische Museum stellt seit 2019 im Belgischen Haus aus, weil das Haus am Roncalliplatz bis etwa 2028 saniert wird. Das Präsens „zeigt“ stimmt also, wenn man das Ausweichquartier nennt.
+FAKTENCHECK: korrigiert – Erzbischof Brun gründete Groß St. Martin als Kollegiatstift. Erst um 985 wurde es eine Benediktinerabtei, darum ist „geht auf ein Benediktinerkloster zurück“ ungenau. Die Mülheimer Brücke ist nach der Stadt Köln eine Stahl-Hängebrücke. Das Römisch-Germanische Museum stellt seit 2019 im Belgischen Haus aus, weil das Haus am Roncalliplatz bis etwa 2028 saniert wird. Das Präsens „zeigt“ stimmt also, wenn man das Ausweichquartier nennt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 192-koeln/059.ausstellung
@@ -61,7 +67,7 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. Die Mülheimer Brücke ist eine Hängebrücke.
 3. Das Römisch-Germanische Museum zeigt vor allem Barockgemälde.
 RÜCKSEITE:
-Du hattest [Option] getippt. Kunstmuseen gibt es in Köln genug, etwa das Wallraf-Richartz-Museum. Doch der Name verrät es: Das Römisch-Germanische Museum zeigt Kunst-, Schmuck- und Alltagsgegenstände aus römischer und merowingischer Epoche. Groß St. Martin geht auf ein Benediktinerkloster zurück, die Mülheimer Brücke ist eine Hängebrücke. Die Lüge war 3.
+Du hattest [Option] getippt. Kunstmuseen gibt es in Köln genug, etwa das Wallraf-Richartz-Museum. Doch der Name verrät es: Das Römisch-Germanische Museum zeigt, derzeit im Belgischen Haus, Kunst-, Schmuck- und Alltagsgegenstände aus römischer und merowingischer Epoche. Groß St. Martin war die Kirche einer Benediktinerabtei, die Mülheimer Brücke ist eine Hängebrücke. Die Lüge war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Köln
 WÖRTER RÜCKSEITE: 49
 NEGATIVNACHWEISE:
@@ -159,11 +165,13 @@ FAKT-ID: 192-koeln/091.action
 GEWÄHLTER FAKT: Kaiserin Agrippina (persona), rolle: Gattin von Claudius, geburt_ort: am Rhein, action: ließ die Ubiersiedlung Oppidum Ubiorum im Jahre 50 n. Chr. zur Stadt erheben
 BEKANNTHEIT: mittel – Die Römergründung ist bekannt, die Rolle Agrippinas weniger.
 VORDERSEITE:
-„Im Jahr 50 n. Chr. wurde die Siedlung, aus der Köln hervorging, zur römischen Kolonie erhoben. Auf wessen Betreiben geschah das?
+Köln
+Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.
+Im Jahr 50 n. Chr. wurde die Siedlung, aus der Köln hervorging, zur römischen Kolonie erhoben. Auf wessen Betreiben geschah das?
 1. Auf Betreiben von Kaiserin Agrippina.
 2. Auf Betreiben von Kaiser Augustus.
 3. Auf Betreiben von Kaiser Nero.
-4. Auf Betreiben von Kaiser Vespasian.“
+4. Auf Betreiben von Kaiser Vespasian.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei einer römischen Stadterhebung denkt man zuerst an einen Kaiser. Es war aber eine Kaiserin: Agrippina, Gattin des Claudius, setzte durch, dass ihr Geburtsort, die Ubiersiedlung, Kolonie wurde. Der römische Name lautete Colonia Claudia Ara Agrippinensium. Richtig war 1.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Köln

@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: korrigiert – (a) bestätigt: Bischof Ulrich erwähnt „Gegina“ zuerst in einer Urkunde von 969. Das Stadtarchiv nennt 1969 als Jahr der 1000-Jahr-Feier. Diese Quelle ist eine andere als die Fest-Seite. (b) konnte nicht geklärt werden: Keine vertrauenswürdige Quelle schließt aus, dass das Fest 1969 auch einen ausgefallenen Plärrer ersetzen sollte. Deshalb wird Option 1 durch eine Option ersetzt, die nachweislich falsch ist: Das Gögginger Kurhaus wurde 1886 eröffnet, nicht 1969.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: (a) bestätigt: Bischof Ulrich erwähnt „Gegina“ zuerst in einer Urkunde von 969. Das Stadtarchiv nennt 1969 als Jahr der 1000-Jahr-Feier. Diese Quelle ist eine andere als die Fest-Seite. (b) konnte nicht geklärt werden: Keine vertrauenswürdige Quelle schließt aus, dass das Fest 1969 auch einen ausgefallenen Plärrer ersetzen sollte. Deshalb wird Option 1 durch eine Option ersetzt, die nachweislich falsch ist: Das Gögginger Kurhaus wurde 1886 eröffnet, nicht 1969.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 112-augsburg/003.urspruengliche_form
@@ -9,7 +9,7 @@ VORDERSEITE:
 Augsburg
 Bayerische Großstadt mit rund 300.000 Einwohnern an Lech und Wertach, 56 Kilometer Luftlinie von München.
 Das Gögginger Frühlingsfest gibt es seit 1969 im heutigen Augsburger Stadtteil Göggingen. Wie fing es an?
-1. Es war das Eröffnungsfest des Gögginger Kurhauses.
+1. Es ersetzte einen ausgefallenen Augsburger Plärrer.
 2. Es feierte Göggingens Eingemeindung nach Augsburg.
 3. Es war ein Starkbierfest zu einem Ortsjubiläum.
 4. Es begann als Frühjahrsmarkt der Gögginger Bauern.

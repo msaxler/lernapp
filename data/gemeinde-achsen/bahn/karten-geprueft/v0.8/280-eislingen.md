@@ -159,7 +159,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 7
-FAKTENCHECK: korrigiert – Dass die Sprache nur in Eislingen Süd gesprochen wurde, steht nicht im QUELLTEXT. Dort liegt nur die Station, der Text spricht von der jungen Generation und dem „Eislinger Manisch“ allgemein. Option 1 wird genauer gefasst: Der Name deutet auf die Sprache der Sinti und Roma, nicht auf die Menschen.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Dass die Sprache nur in Eislingen Süd gesprochen wurde, steht nicht im QUELLTEXT. Dort liegt nur die Station, der Text spricht von der jungen Generation und dem „Eislinger Manisch“ allgemein. Option 1 wird genauer gefasst: Der Name deutet auf die Sprache der Sinti und Roma, nicht auf die Menschen.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 280-eislingen/029.etymologie_hinweis
@@ -168,8 +168,8 @@ BEKANNTHEIT: niedrig – Diese Ortssprache kennen fast nur Einheimische.
 VORDERSEITE:
 Eislingen/Fils
 Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.
-Zwischen 1945 und 1955 sprach die junge Generation in Eislingen „Eislinger Manisch“, das nur Einheimische verstanden. Worauf deutet der Name hin?
-1. Er deutet auf die Sprache der Sinti und Roma hin.
+Zwischen 1945 und 1955 sprach die junge Generation in Eislingen Süd „Eislinger Manisch“, das nur Einheimische verstanden. Worauf deutet der Name hin?
+1. Er deutet auf die Sinti und Roma hin.
 2. Er spielt auf aufgedrehtes, hektisches Reden an.
 3. Er stammt vom englischen „man“ der US-Soldaten.
 4. Er geht auf die Arbeiter einer Manufaktur zurück.

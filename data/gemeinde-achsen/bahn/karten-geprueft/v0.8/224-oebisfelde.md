@@ -192,7 +192,12 @@ FAKT-ID: 224-oebisfelde/018.grenzbahnhof
 GEWÄHLTER FAKT: bahnhof Bahnhof Oebisfelde, grenzbahnhof: wahr (innerdeutsche Grenze), bedeutung_historisch: bedeutender Eisenbahnknoten, 1945–1990. Belege der wahren Aussagen: 224-oebisfelde/023 (Mittellandkanal, staedtgebiet_lage: Norden) und 224-oebisfelde/001 (topografie: Nordostrand des Lappwalds)
 BEKANNTHEIT: mittel – der Grenzbahnhof Oebisfelde ist vielen Bahn- und DDR-Interessierten ein Begriff.
 VORDERSEITE:
-Oebisfelde-Weferlingen / Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg. / Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? / 1. Der Mittellandkanal führt durch das Stadtgebiet. / 2. Der Ortsteil Döhren liegt direkt an der Landesgrenze zu Niedersachsen. / 3. Der Bahnhof Oebisfelde lag zu DDR-Zeiten still.
+Oebisfelde-Weferlingen
+Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg.
+Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
+1. Der Mittellandkanal führt durch das Stadtgebiet.
+2. Der Ortsteil Döhren liegt direkt an der Landesgrenze zu Niedersachsen.
+3. Der Bahnhof Oebisfelde lag zu DDR-Zeiten still.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Bahnhof an der innerdeutschen Grenze wirkt wie ein toter Winkel. Doch Oebisfelde war Grenzbahnhof und bedeutender Eisenbahnknoten. Der Mittellandkanal führt wirklich durchs Stadtgebiet, und Döhren liegt direkt an der Grenze zu Niedersachsen. Die Lüge war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Oebisfelde-Weferlingen

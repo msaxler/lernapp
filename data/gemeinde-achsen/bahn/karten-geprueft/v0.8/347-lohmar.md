@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Aussage 2 spricht von „Lohmars altes Bahnhofsgebäude“. Laut GRUNDDATEN hat Lohmar aber mit Honrath einen weiteren Bahnhof, dessen Gebäude der Quelltext nicht behandelt. Die Lüge ist deshalb nur für das abgerissene Gebäude an der Kirchstraße sicher und muss es benennen. Aussage 1, Aussage 3 und der Grund für die Kita-Gründung („weil die vorhandenen Plätze nicht reichten“, laut Quelle nur 50 % Bedarfsdeckung) sind treu wiedergegeben.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Aussage 2 spricht von „Lohmars altes Bahnhofsgebäude“. Laut GRUNDDATEN hat Lohmar aber mit Honrath einen weiteren Bahnhof, dessen Gebäude der Quelltext nicht behandelt. Die Lüge ist deshalb nur für das abgerissene Gebäude an der Kirchstraße sicher und muss es benennen. Aussage 1, Aussage 3 und der Grund für die Kita-Gründung („weil die vorhandenen Plätze nicht reichten“, laut Quelle nur 50 % Bedarfsdeckung) sind treu wiedergegeben.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 347-lohmar/040.abriss
@@ -64,7 +64,7 @@ Lohmar
 Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 1. Eltern gründeten in Neuhonrath eine Kita als Notgemeinschaft.
-2. Lohmars Bahnhofsgebäude an der Kirchstraße dient heute als Kulturzentrum.
+2. Lohmars altes Bahnhofsgebäude dient heute als Kulturzentrum.
 3. Orkan Kyrill entwurzelte in Lohmar zahlreiche Nadelbäume.
 RÜCKSEITE:
 Du hattest [Option] getippt. Umgenutzte Bahnhöfe gibt es in vielen Orten, deshalb klingt die Aussage glaubhaft. Lohmars Bahnhofsgebäude an der Kirchstraße wurde jedoch abgerissen, an seiner Stelle entstand ein Kreisverkehr. Die Kita in Neuhonrath gründeten Eltern, weil die vorhandenen Plätze nicht reichten. Die Lüge war 2.

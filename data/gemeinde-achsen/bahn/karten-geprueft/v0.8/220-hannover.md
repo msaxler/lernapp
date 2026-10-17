@@ -165,7 +165,13 @@ FAKT-ID: 220-hannover/015.ursprünge
 GEWÄHLTER FAKT: Schützenfest Hannover, ursprünge: 1529; ehrentitel: „Schützenstadt“; superlativ: „größtes Schützenfest der Welt“
 BEKANNTHEIT: mittel – Das Schützenfest ist regional sehr bekannt, sein Ursprungsjahr kennen nur wenige.
 VORDERSEITE:
-Hannover / Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner. / Hannover feiert jedes Jahr ein großes Schützenfest. Seit wann hat die Stadt das Privileg dazu? / 1. Seit dem 16. Jahrhundert. / 2. Seit dem 17. Jahrhundert. / 3. Seit dem 18. Jahrhundert. / 4. Seit dem 19. Jahrhundert.
+Hannover
+Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.
+Hannover feiert jedes Jahr ein großes Schützenfest. Seit wann hat die Stadt das Privileg dazu?
+1. Seit dem 16. Jahrhundert.
+2. Seit dem 17. Jahrhundert.
+3. Seit dem 18. Jahrhundert.
+4. Seit dem 19. Jahrhundert.
 RÜCKSEITE:
 Du hattest [Option] getippt. Schützenfeste wirken wie ein Kind des bürgerlichen Vereinslebens, darum liegt eine späte Entstehung nahe. Doch schon 1529 gab Herzog Erich I. den Hannoveranern das Privileg für ein jährliches Schützenfest. Heute gilt es als größtes Schützenfest der Welt. Richtig war 1.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Hannover
@@ -240,7 +246,13 @@ FAKT-ID: 220-hannover/019.glaube
 GEWÄHLTER FAKT: Pagode Viên Giác, glaube: „buddhismus vietnamesisch“; lage: „Karlsruher Straße in Mittelfeld“; superlativ: „eine der größten Pagoden Europas“
 BEKANNTHEIT: niedrig – Die Pagode ist außerhalb Hannovers kaum bekannt.
 VORDERSEITE:
-Hannover / Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner. / In Hannover-Mittelfeld steht eine große buddhistische Pagode. Welcher buddhistischen Tradition gehört sie an? / 1. Sie gehört dem japanischen Zen-Buddhismus an. / 2. Sie gehört dem tibetischen Buddhismus an. / 3. Sie gehört dem vietnamesischen Buddhismus an. / 4. Sie gehört dem thailändischen Buddhismus an.
+Hannover
+Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.
+In Hannover-Mittelfeld steht eine große buddhistische Pagode. Welcher buddhistischen Tradition gehört sie an?
+1. Sie gehört dem japanischen Zen-Buddhismus an.
+2. Sie gehört dem tibetischen Buddhismus an.
+3. Sie gehört dem vietnamesischen Buddhismus an.
+4. Sie gehört dem thailändischen Buddhismus an.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei einer Pagode denken viele zuerst an Japan oder Tibet. Die Pagode Viên Giác an der Karlsruher Straße in Mittelfeld ist jedoch vietnamesisch-buddhistisch. Richtig war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Hannover

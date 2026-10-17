@@ -111,7 +111,13 @@ FAKT-ID: 163-maintal/023.früherer_name
 GEWÄHLTER FAKT: Bahnhof Maintal West, früherer_name: Bischofsheim-Rumpenheim; namensänderung_datum: Juni 1997
 BEKANNTHEIT: niedrig – Der alte Bahnhofsname ist nur Ortskundigen geläufig.
 VORDERSEITE:
-Maintal / Maintal hat rund 39.000 Einwohner und liegt 7 km nordöstlich von Offenbach am Main. / Früher trug der heutige Bahnhof Maintal West einen Doppelnamen. Wie lautete er? / 1. Er hieß Bischofsheim-Fechenheim. / 2. Er hieß Hochstadt-Dörnigheim. / 3. Er hieß Bischofsheim-Dörnigheim. / 4. Er hieß Bischofsheim-Rumpenheim.
+Maintal
+Maintal hat rund 39.000 Einwohner und liegt 7 km nordöstlich von Offenbach am Main.
+Früher trug der heutige Bahnhof Maintal West einen Doppelnamen. Wie lautete er?
+1. Er hieß Bischofsheim-Fechenheim.
+2. Er hieß Hochstadt-Dörnigheim.
+3. Er hieß Bischofsheim-Dörnigheim.
+4. Er hieß Bischofsheim-Rumpenheim.
 RÜCKSEITE:
 Du hattest [Option] getippt. Naheliegend ist ein Maintaler Stadtteil oder ein Nachbar auf derselben Mainseite. Doch der zweite Namensteil war Rumpenheim, ein Stadtteil von Offenbach am Main auf der anderen Mainseite. Richtig war 4.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Maintal

@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Die eigene Website des Tennisclubs Rot-Weiss Baden-Baden formuliert: „1881, nur vier Jahre nach Wimbledon, hob man hier den **mit Bad Homburg ältesten** Tennisclub Deutschlands aus der Taufe." Der Superlativ ist damit nur im Gleichstand mit Bad Homburg gültig. Die Lügen-Option 2 muss von „Deutschlands ältester Tennisclub" auf „Einer der ältesten Tennisclubs Deutschlands" abgeschwächt werden. Die Begründung in der Rückseite (englische Kurgäste, Golfsport) ist durch die Club-Seite bestätigt.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die eigene Website des Tennisclubs Rot-Weiss Baden-Baden formuliert: „1881, nur vier Jahre nach Wimbledon, hob man hier den **mit Bad Homburg ältesten** Tennisclub Deutschlands aus der Taufe." Der Superlativ ist damit nur im Gleichstand mit Bad Homburg gültig. Die Lügen-Option 2 muss von „Deutschlands ältester Tennisclub" auf „Einer der ältesten Tennisclubs Deutschlands" abgeschwächt werden. Die Begründung in der Rückseite (englische Kurgäste, Golfsport) ist durch die Club-Seite bestätigt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 16-baden-baden/056.gründung_grund
@@ -64,7 +64,7 @@ Baden-Baden
 Bäderstadt mit rund 57.000 Einwohnern, 30 km südwestlich von Karlsruhe.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 1. Das Kurhaus entwarf der Architekt Friedrich Weinbrenner
-2. Einer der ältesten Tennisclubs Deutschlands entstand für russische Kurgäste
+2. Deutschlands ältester Tennisclub entstand für russische Kurgäste
 3. Die Philharmonie geht auf eine Hofkapelle zurück
 RÜCKSEITE:
 Du hattest [Option] getippt. Russische Gäste prägten Baden-Badens Bäder und Casino – doch Tennis brachten englische Kurgäste mit, die den Club gründeten. Sie führten auch den Golfsport in der Stadt ein. Die Lüge war 2.

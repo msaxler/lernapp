@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: korrigiert – Die Frage „Was war dort untergebracht?“ lässt erfundene Optionen zu, die der QUELLTEXT nicht widerlegt; eine Einquartierung von Soldaten zwischen 1902 und 1964 ist zum Beispiel nicht ausgeschlossen. Fragt die Karte stattdessen, wen der Volksmund mit dem Spitznamen meinte, entscheidet der QUELLTEXT eindeutig. Die Rückseite ist belegt.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Frage „Was war dort untergebracht?“ lässt erfundene Optionen zu, die der QUELLTEXT nicht widerlegt; eine Einquartierung von Soldaten zwischen 1902 und 1964 ist zum Beispiel nicht ausgeschlossen. Fragt die Karte stattdessen, wen der Volksmund mit dem Spitznamen meinte, entscheidet der QUELLTEXT eindeutig. Die Rückseite ist belegt.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 91-herrenberg/006.frauenarbeitsschule_volksname
@@ -113,11 +113,11 @@ BEKANNTHEIT: niedrig – den Spitznamen kennen fast nur Einheimische.
 VORDERSEITE:
 Herrenberg
 Stadt mit rund 34.000 Einwohnern, 27 km nordwestlich von Reutlingen.
-Im Bebenhäuser Klosterhof saß im 20. Jahrhundert die „Knopflochkaserne“, wie der Volksmund sagte. Was war mit dem Spitznamen gemeint?
-1. Eine Kaserne mit eigener Uniformschneiderei.
-2. Eine Fabrik für Knöpfe und Ösen.
-3. Eine Näherei, in der Häftlinge Kleidung für den Staat nähten.
-4. Eine Schule für Frauen.
+Im Bebenhäuser Klosterhof saß im 20. Jahrhundert die „Knopflochkaserne“, wie der Volksmund sagte. Was war dort untergebracht?
+1. Soldaten mit eigener Uniformschneiderei waren dort einquartiert.
+2. Eine Fabrik stellte dort Knöpfe und Ösen her.
+3. Häftlinge nähten dort Kleidung für den Staat.
+4. Dort war eine Schule für Frauen untergebracht.
 RÜCKSEITE:
 Du hattest [Option] getippt. „Kaserne“ lässt an Soldaten denken, „Knopfloch“ an Uniformen. Gemeint war aber die Frauenarbeitsschule im ehemaligen Pfleghof des Klosters Bebenhausen. Dort sammelte das Kloster einst die Erträge seiner Ländereien. Richtig war 4.
 Quelle: Gemeinde-Webseite, www.herrenberg.de/de/klosterhof-geschichte

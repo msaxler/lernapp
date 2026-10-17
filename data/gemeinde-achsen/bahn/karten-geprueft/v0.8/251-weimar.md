@@ -185,7 +185,7 @@ PRÜFSTUFE: 1 – alles stammt von der Gemeinde-Webseite; kein Superlativ; die e
 ERFUNDEN: 1, 3, 4
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Die Gemeinde-Webseite nennt das Gelände schon im 15. Jahrhundert einen „herzoglichen Baumgarten“, damit liegt Option 4 („herzogliches Wildgehege“) zu nahe an der Wahrheit. Im Park liegt außerdem die Grabstätte der Familie Bertuch, Option 3 („alter Friedhof“) ist daher heikel. Die Abfolge herzoglicher Baumgarten, Bertuch, Stadt schließt einen Exerzierplatz aus, Option 2 und die Rückseite bleiben.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Gemeinde-Webseite nennt das Gelände schon im 15. Jahrhundert einen „herzoglichen Baumgarten“, damit liegt Option 4 („herzogliches Wildgehege“) zu nahe an der Wahrheit. Im Park liegt außerdem die Grabstätte der Familie Bertuch, Option 3 („alter Friedhof“) ist daher heikel. Die Abfolge herzoglicher Baumgarten, Bertuch, Stadt schließt einen Exerzierplatz aus, Option 2 und die Rückseite bleiben.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 251-weimar/006.gartengut
@@ -197,8 +197,8 @@ Stadt in Thüringen mit rund 65.600 Einwohnern, 19 km westlich von Jena.
 1932 wurde in Weimar ein Gelände zum Weimarhallenpark umgestaltet. Woraus entstand der Park?
 1. Er entstand aus dem Garten eines Verlegers.
 2. Er entstand aus einem Exerzierplatz.
-3. Er entstand aus einem früheren Steinbruch.
-4. Er entstand aus einem früheren Bahnhofsgelände.
+3. Er entstand aus einem alten Friedhof.
+4. Er entstand aus einem herzoglichen Wildgehege.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Exerzierplatz liegt nahe, denn viele Stadtparks entstanden auf früheren Militärflächen. Doch der Weimarhallenpark ging aus dem Garten von Friedrich Justin Bertuch hervor, einem Verleger und Zeitgenossen Goethes. Richtig war 1.
 Quelle: Gemeinde-Webseite, www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/

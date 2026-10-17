@@ -192,6 +192,8 @@ FAKT-ID: 366-poltringen/008.umgestaltung_leitung
 GEWÄHLTER FAKT: wasserschloss Wasserschloss, umgestaltung_jahr: 1613, umgestaltung_leitung: Heinrich Schickhardt, baustil: Renaissance-Stil
 BEKANNTHEIT: mittel – Schickhardt kennt man in Württemberg, seine Arbeit in Poltringen kaum jemand.
 VORDERSEITE:
+Poltringen
+Ortsteil von Ammerbuch mit rund 1.800 Einwohnern, 19 km westlich von Reutlingen.
 1613 wurde das Poltringer Wasserschloss im Renaissance-Stil umgestaltet. Nach wessen Plänen geschah der Umbau?
 1. Nach Plänen des Baumeisters Jakob Wolff.
 2. Nach Plänen des Baumeisters Paul Francke.

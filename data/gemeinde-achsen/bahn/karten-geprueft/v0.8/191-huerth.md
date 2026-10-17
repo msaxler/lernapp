@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Nach KuLaDig und der Stadt Hürth entstand der Otto-Maigler-See bei der Rekultivierung nach dem Braunkohletagebau. Die Westdeutsche Zeitung nennt Hürth-Hermülheim als Geburtsort der Schumacher-Brüder. KuLaDig nennt die Wilhelmshöhe nur eine „künstliche Erhebung“ in der Berrenrather Börde, nicht ausdrücklich eine Abraumhalde. Deshalb wird Aussage 3 abgeschwächt.
+FAKTENCHECK: korrigiert – Nach KuLaDig und der Stadt Hürth entstand der Otto-Maigler-See bei der Rekultivierung nach dem Braunkohletagebau. Die Westdeutsche Zeitung nennt Hürth-Hermülheim als Geburtsort der Schumacher-Brüder. KuLaDig nennt die Wilhelmshöhe nur eine „künstliche Erhebung“ in der Berrenrather Börde, nicht ausdrücklich eine Abraumhalde. Deshalb wird Aussage 3 abgeschwächt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 191-huerth/031.entstehung_grund
@@ -67,8 +67,8 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. Der Otto-Maigler-See ist ein natürlicher Eiszeitsee.
 3. Die Hürther Wilhelmshöhe ist eine Abraumhalde.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein See wirkt wie Natur, deshalb klingt die Eiszeit glaubhaft. Doch der Otto-Maigler-See entstand durch Braunkohleabbau und Rekultivierung. Die Wilhelmshöhe ist tatsächlich eine Abraumhalde, und beide Schumacher-Brüder wurden in Hürth geboren. Die Lüge war 2.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Hürth
+Du hattest [Option] getippt. Ein See wirkt wie Natur, deshalb klingt die Eiszeit glaubhaft. Doch der Otto-Maigler-See entstand bei der Rekultivierung nach dem Braunkohleabbau. Die Wilhelmshöhe ist tatsächlich ein künstlicher Hügel, und beide Schumacher-Brüder wurden in Hürth geboren. Die Lüge war 2.
+Quelle: KuLaDig (LVR), Stadt Hürth
 WÖRTER RÜCKSEITE: 39
 NEGATIVNACHWEISE:
 2: Weg (a). 191-huerth/031 entstehung_grund: Braunkohleabbau und Rekultivierungsmaßnahmen. Der See ist also kein natürlicher Eiszeitsee.
@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: KuLaDig (LVR, 2019) bestätigt, dass die Hürther die zwölf hohen Schornsteine „Zwölf Apostel“ nannten. Den Kühlturm nennt die Quelle getrennt davon, Option 2 bleibt also falsch. Gebaut wurde ab 1913, in Betrieb ging das Werk im April 1914. Die letzten vier Großkamine wurden zwischen November 2003 und April 2004 abgetragen. „Später gesprengt“ (1961) ist damit widerlegt, und den RWE-Schriftzug in Leuchtbuchstaben belegt keine Quelle.
+FAKTENCHECK: korrigiert – KuLaDig (LVR, 2019) bestätigt, dass die Hürther die zwölf hohen Schornsteine „Zwölf Apostel“ nannten. Den Kühlturm nennt die Quelle getrennt davon, Option 2 bleibt also falsch. Gebaut wurde ab 1913, in Betrieb ging das Werk im April 1914. Die letzten vier Großkamine wurden zwischen November 2003 und April 2004 abgetragen. „Später gesprengt“ (1961) ist damit widerlegt, und den RWE-Schriftzug in Leuchtbuchstaben belegt keine Quelle.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 191-huerth/048.schornsteine
@@ -119,8 +119,8 @@ Das 1914 errichtete Braunkohlekraftwerk Goldenberg hatte seine „Zwölf Apostel
 3. Gemeint waren zwölf nach Aposteln benannte Turbinen.
 4. Gemeint waren die zwölf Schornsteine des Kraftwerks.
 RÜCKSEITE:
-Du hattest [Option] getippt. Bei Aposteln denkt man an Kirchen und Heiligenfiguren. Gemeint waren aber die zwölf Schornsteine des Kraftwerks, einige mit RWE-Schriftzug in Leuchtbuchstaben. Später wurden sie gesprengt. Richtig war 4.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Hürth
+Du hattest [Option] getippt. Bei Aposteln denkt man an Kirchen und Heiligenfiguren. Gemeint waren aber die zwölf hohen Schornsteine des Kraftwerks, jahrzehntelang ein Wahrzeichen Hürths. Die letzten vier wurden 2003/04 abgetragen. Richtig war 4.
+Quelle: KuLaDig (LVR), kuladig.de
 WÖRTER RÜCKSEITE: 32
 NEGATIVNACHWEISE:
 1: Weg (c). Der Fakt nennt genau eine Bedeutung des Beinamens: die zwölf Schornsteine.
@@ -131,7 +131,7 @@ PRÜFSTUFE: 2 – Der Fakt steht nur in Wikipedia.
 ERFUNDEN: 1, 2, 3
 
 ## Karte 6
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Nach Anlage 1 der Fahrzeug-Zulassungsverordnung (FZV) hat der Rhein-Erft-Kreis nur das Unterscheidungszeichen BM. SU gehört zum Rhein-Sieg-Kreis, EU zum Kreis Euskirchen und DN zum Kreis Düren. Dass die meisten Autos in Hürth BM tragen, belegt keine Quelle. Deshalb wird nach dem Zulassungskennzeichen gefragt.
+FAKTENCHECK: korrigiert – Nach Anlage 1 der Fahrzeug-Zulassungsverordnung (FZV) hat der Rhein-Erft-Kreis nur das Unterscheidungszeichen BM. SU gehört zum Rhein-Sieg-Kreis, EU zum Kreis Euskirchen und DN zum Kreis Düren. Dass die meisten Autos in Hürth BM tragen, belegt keine Quelle. Deshalb wird nach dem Zulassungskennzeichen gefragt.
 SORTE: Klassiker
 FAMILIE: A
 FAKT-ID: GRUNDDATEN.kfz
@@ -146,8 +146,8 @@ Welches Kennzeichen tragen die meisten Autos in Hürth?
 3. EU
 4. DN
 RÜCKSEITE:
-Du hattest [Option] getippt. SU, EU und DN gehören zu Kreisen rund um Köln, deshalb klingen sie plausibel. In Hürth aber ist BM das Hauptkennzeichen. Richtig war 1.
-Quelle: Wikidata P395
+Du hattest [Option] getippt. SU, EU und DN gehören zu Kreisen rund um Köln, deshalb klingen sie plausibel. Hürth gehört aber zum Rhein-Erft-Kreis, und der gibt nur BM aus. Richtig war 1.
+Quelle: FZV Anlage 1
 WÖRTER RÜCKSEITE: 28
 NEGATIVNACHWEISE:
 2: Weg (a). GRUNDDATEN kfz: BM, nur ein Wert. SU ist das Kennzeichen des Rhein-Sieg-Kreises und wird im Kreis von Hürth nicht ausgegeben.
@@ -185,7 +185,7 @@ PRÜFSTUFE: 2 – Der Fakt steht nur in Wikipedia, und die Rückseite enthält e
 ERFUNDEN: keine
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Laut Stadt Hürth pachtete Hermann Dümgen aus Gleuel ein großes Gelände vom Kölner Domkapitel und legte dort 1751 die Grube „Gotteshülfe“ an. Eine kirchliche Stelle war also als Verpächter beteiligt, deshalb wird Option 1 ersetzt. Ob Dümgen Schöffe war, ist unklar: Der Suchauszug übersetzt sein Amt nur mit „mayor“ (Bürgermeister). Belegt bleibt „Landwirt aus Gleuel“. Eine Beteiligung des Kurfürsten oder eines Kaufmanns fand ich nicht.
+FAKTENCHECK: korrigiert – Laut Stadt Hürth pachtete Hermann Dümgen aus Gleuel ein großes Gelände vom Kölner Domkapitel und legte dort 1751 die Grube „Gotteshülfe“ an. Eine kirchliche Stelle war also als Verpächter beteiligt, deshalb wird Option 1 ersetzt. Ob Dümgen Schöffe war, ist unklar: Der Suchauszug übersetzt sein Amt nur mit „mayor“ (Bürgermeister). Belegt bleibt „Landwirt aus Gleuel“. Eine Beteiligung des Kurfürsten oder eines Kaufmanns fand ich nicht.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 191-huerth/038.anlaeger
@@ -200,8 +200,8 @@ Stadt mit rund 62.000 Einwohnern, 8 km südwestlich von Köln.
 3. Der Kölner Kurfürst ließ sie anlegen.
 4. Ein Kölner Kaufmann gründete sie.
 RÜCKSEITE:
-Du hattest [Option] getippt. Der fromme Name „Gotteshülfe“ lässt an ein Kloster denken. Angelegt hat die Grube aber der Schöffe und Landwirt Hermann Dümgen. Richtig war 2.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Hürth
+Du hattest [Option] getippt. Der fromme Name „Gotteshülfe“ lässt an die Kirche denken. Das Kölner Domkapitel verpachtete aber nur das Gelände. Angelegt hat die Grube der Gleueler Landwirt Hermann Dümgen. Richtig war 2.
+Quelle: Stadt Hürth, huerth.de
 WÖRTER RÜCKSEITE: 27
 NEGATIVNACHWEISE:
 1: Weg (c). Der Fakt nennt genau einen Anleger: Hermann Dümgen.

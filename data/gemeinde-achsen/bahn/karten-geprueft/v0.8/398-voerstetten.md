@@ -111,9 +111,15 @@ FAKT-ID: 398-voerstetten/003.superlativ
 GEWÄHLTER FAKT: frühalamannische_siedlung, Zeitraum 4. bis 5. Jahrhundert n. Chr., superlativ "bisher einzige ihrer Art", nachweismethode "Ausgrabungen"
 BEKANNTHEIT: niedrig. Den Fund kennen vor allem Fachleute und Leute aus der Region.
 VORDERSEITE:
-„Ausgrabungen in Vörstetten legten eine Siedlung aus dem 4. und 5. Jahrhundert n. Chr. frei. Wer lebte dort?“ (Optionen 1–4 bleiben gleich.) RÜCKSEITE: „Du hattest [Option] getippt. Kelten liegen nahe, denn sie gelten als frühe Bewohner des Oberrheingebiets. Die Grabungen von 1998 bis 2000 zeigten aber eine frühalamannische Siedlung. Nach Angaben der Gemeinde ist sie bisher die einzige ihrer Art. Heute zeigt das Alamannen-Museum im Ort, wie man dort lebte. Richtig war 3.“
+Vörstetten
+Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.
+Ausgrabungen in Vörstetten legten eine Siedlung aus dem 4. und 5. Jahrhundert n. Chr. frei. Wer lebte dort?
+1. Dort lebten Kelten.
+2. Dort lebten Franken.
+3. Dort lebten Alamannen.
+4. Dort lebten Burgunder.
 RÜCKSEITE:
-Du hattest [Option] getippt. Kelten liegen nahe, denn sie gelten als frühe Bewohner des Oberrheingebiets. Die Grabungen in Vörstetten zeigten aber eine frühalamannische Siedlung, nach Angaben der Gemeinde die bisher einzige ihrer Art. Alamannen nennt man die germanischen Gruppen, aus denen später die Schwaben hervorgingen. Richtig war 3.
+Du hattest [Option] getippt. Kelten liegen nahe, denn sie gelten als frühe Bewohner des Oberrheingebiets. Die Grabungen von 1998 bis 2000 zeigten aber eine frühalamannische Siedlung. Nach Angaben der Gemeinde ist sie bisher die einzige ihrer Art. Heute zeigt das Alamannen-Museum im Ort, wie man dort lebte. Richtig war 3.
 Quelle: Gemeinde-Webseite, voerstetten.de/p/geschichte
 WÖRTER RÜCKSEITE: 48
 NEGATIVNACHWEISE:
@@ -213,10 +219,16 @@ FAKT-ID: 398-voerstetten/016.erweiterung_architekt
 GEWÄHLTER FAKT: evangelische_kirche, erweiterung_jahr 1803, erweiterung_architekt "Friedrich Weinbrenner", orgel "historische Orgel von Mathias Martin", lage "mitten im Dorf"
 BEKANNTHEIT: mittel. Weinbrenner ist in Baden als Baumeister bekannt, seine Arbeit in Vörstetten aber kaum.
 VORDERSEITE:
-„1803 wurde die evangelische Kirche in Vörstetten erweitert. Nach welchem Baumeister ist ihr Baustil benannt? 1. Nach Karl Friedrich Schinkel. 2. Nach Leo von Klenze. 3. Nach Nikolaus von Thouret. 4. Nach Friedrich Weinbrenner.“ RÜCKSEITE: „Du hattest [Option] getippt. Schinkel liegt nahe, denn sein Name steht für den deutschen Klassizismus. Die Kirche von 1803 ist aber im Weinbrennerstil gebaut, benannt nach dem badischen Baumeister Friedrich Weinbrenner. Die Orgel baute Mathias Martin 1803/04. Richtig war 4. Quelle: LEO-BW, Denkmalliste Evangelische Kirche Vörstetten“
+Vörstetten
+Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.
+1803 wurde die evangelische Kirche in Vörstetten erweitert. Nach welchem Baumeister ist ihr Baustil benannt? 1. Nach Karl Friedrich Schinkel. 2. Nach Leo von Klenze. 3. Nach Nikolaus von Thouret. 4. Nach Friedrich Weinbrenner.
+1. Sie stammte von Karl Friedrich Schinkel.
+2. Sie stammte von Leo von Klenze.
+3. Sie stammte von Nikolaus von Thouret.
+4. Sie stammte von Friedrich Weinbrenner.
 RÜCKSEITE:
-Du hattest [Option] getippt. Schinkel liegt nahe, denn sein Name steht für den deutschen Klassizismus. Die Erweiterung der Kirche stammte aber von Friedrich Weinbrenner. In der Kirche mitten im Dorf steht zudem eine historische Orgel von Mathias Martin. Richtig war 4.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Vörstetten
+Du hattest [Option] getippt. Schinkel liegt nahe, denn sein Name steht für den deutschen Klassizismus. Die Kirche von 1803 ist aber im Weinbrennerstil gebaut, benannt nach dem badischen Baumeister Friedrich Weinbrenner. Die Orgel baute Mathias Martin 1803/04. Richtig war 4.
+Quelle: LEO-BW, Denkmalliste Evangelische Kirche Vörstetten
 WÖRTER RÜCKSEITE: 41
 NEGATIVNACHWEISE:
 1: Weg (c). FAKTEN nennen für die Erweiterung von 1803 genau einen Baumeister. Die Option ist frei erfunden.

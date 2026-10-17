@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: korrigiert – Die wahre Option und die Rückseite sind belegt. Option 2 („Ein Orden machte daraus ein Kloster“) berührt aber eine echte frühere Phase: Von 1675 bis 1773 war Bühl samt Herrschaft an den Jesuitenorden verpfändet bzw. als Lehen vergeben. Das verstößt gegen die Regel „kein anderer Zeitpunkt derselben Sache“. Ich habe Option 2 durch eine Option ersetzt, die der Quelltext widerlegt (das Schloss wurde saniert, nicht abgerissen).
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die wahre Option und die Rückseite sind belegt. Option 2 („Ein Orden machte daraus ein Kloster“) berührt aber eine echte frühere Phase: Von 1675 bis 1773 war Bühl samt Herrschaft an den Jesuitenorden verpfändet bzw. als Lehen vergeben. Das verstößt gegen die Regel „kein anderer Zeitpunkt derselben Sache“. Ich habe Option 2 durch eine Option ersetzt, die der Quelltext widerlegt (das Schloss wurde saniert, nicht abgerissen).
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 379-buehl-tuebingen/007.sanierung_methode
@@ -115,7 +115,7 @@ Bühl
 Bühl ist ein Tübinger Stadtteil mit rund 2.100 Einwohnern, 15 km westlich von Reutlingen.
 Was geschah um 1980 mit dem Renaissance-Schloss im Ortskern von Bühl?
 1. Die Stadt baute es zur Musikschule um.
-2. Es wurde abgerissen und durch Neubauten ersetzt.
+2. Ein Orden machte daraus ein Kloster.
 3. Private Käufer ersteigerten und sanierten es.
 4. Ein Hotelier baute es zum Schlosshotel um.
 RÜCKSEITE:

@@ -1,39 +1,34 @@
-ENTITÄT: kloster
-BEZEICHNUNG: Marienhaus
+ENTITÄT: ort
+BEZEICHNUNG: Kloster Marienhaus
 ORTSTEIL_BEZUG: Glockscheid
 QUELLE: https://de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  mutterhaus_von: Waldbreitbacher Franziskanerinnen
-  gründungsjahr: 1863
-  gründer: Rosa Flesch, Maria Bonner, Gertrud Beißel
-  ursprünglicher_standort: Kapellenberg
-  gründungsdatum: 13.3.1863
-  baugestaltung_durch: Agatha Simons
+  ist_mutterhaus: Franziskanerinnen von der allerseligsten Jungfrau Maria von den Engeln
+  funktion: Kloster, Krankenhaus, Bildungszentrum
+  gründung: 1863
+  gründer: Rosa Flesch mit ihren Gefährtinnen Maria Bonner und Gertrud Beißel
 GUELTIG_AB: 1863
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Rosa Flesch
+ENTITÄT: person
+BEZEICHNUNG: Rosa Flesch (Maria Rosa Flesch, eigentlich Margaretha Flesch)
 QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  taufname: Margaretha Flesch
-  ordensname: Maria Rosa
-  geburt: 24.2.1826
+  geburt: 24. Februar 1826
   geburtsort: Schönstatt bei Vallendar
-  tod: 25.3.1906
+  tod: 25. März 1906
   sterbeort: Kloster Marienhaus bei Waldbreitbach
-  funktion: Gründerin der Waldbreitbacher Franziskanerinnen
-  vater_beruf: Ölmüller
-  seligsprechung_jahr: 2008
-  seligsprechung_ort: Trierer Dom
-  seligsprechung_datum: 4.5.2008
+  beruf: Ordensgründerin, Krankenpflegerin, Heilkräutersammlerin
+  orden_rolle: Gründerin und erste Generaloberin (1869-1878)
+  seliggesprochen: 4. Mai 2008
+  seligsprechungsort: Trierer Dom
   gedenktag: 19. Juni
-  generaloberin_von: 1869
-  generaloberin_bis: 1878
-  vertrauen_einschätzung: bescheiden, resolut, evangelischer Armut verpflichtet
+  vater: Johann Georg Flesch (Ölmüller)
+  mutter: Agnes (verstorben 1832)
+  stiefmutter: Helene Richarz
 GUELTIG_AB: 1826
 GUELTIG_BIS: 1906
 IST_VERMUTLICH_AKTUELL: false
@@ -42,38 +37,47 @@ VERTRAUEN_EXTRAKTION: 0.98
 ---
 
 ENTITÄT: orden
-BEZEICHNUNG: Waldbreitbacher Franziskanerinnen
+BEZEICHNUNG: Franziskanerinnen von der allerseligsten Jungfrau Maria von den Engeln
 QUELLE: https://de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  offizieller_name: Franziskanerinnen von der allerseligsten Jungfrau Maria von den Engeln
-  ordenskuerzel: FBMVA
-  ordenstyp: Kongregation des regulierten Dritten Ordens des Heiligen Franziskus
-  gründungsdatum: 13.3.1863
+  gründung: 13. März 1863
   gründerinnen: Rosa Flesch, Maria Bonner, Gertrud Beißel
-  mutterhaus: Kloster Marienhaus
-  erste_ordensregel_bestätigung: 16.9.1869
-  erste_ordensregel_bestätiger: Matthias Eberhard, Bischof von Trier
-  satzung_verabschiedung: 21.10.1869
-  erste_generaloberin: Rosa Flesch
-  päpstliche_approbation: 12.12.1912
-  päpstliche_approbation_durch: Papst Pius X
-  schwesternzahl_1878: ca. 100
-  filialen_1878: 21
-  schwesternzahl_1906: 900
-  niederlassungen_1906: 67
-  bundesländer_1906: Nordrhein-Westfalen, Rheinland-Pfalz, Saarland
-  expansion_usa: 1923
-  expansion_niederlande: 1931
-  expansion_brasilien: 1958
-  soziale_einrichtungen_heute: über 80
-  einrichtungstypen: Krankenhäuser, Altenheime, Kinderheime, Hospize, Bildungsstätten
-  bundesländer_heute: Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Hessen
-  beschaeftigte_heute: über 13.800
-  spirituelle_angebote: Exerzitien, Einkehrtage, Seminare, Bibelgarten, Kräuterwanderungen
-  publikationsorgan: Zeitschrift „horizont" (vierteljährlich)
+  ordenskürzel: FBMVA
+  zugehörigkeit: regulierter Dritter Orden des Heiligen Franziskus
+  ordensregel_bestätigung: 16. September 1869 durch Bischof Matthias Eberhard (Trier)
+  satzung_verabschiedung: 21. Oktober 1869
+  päpstliche_approbation: 12. Dezember 1912 durch Pius X.
+  erste_generaloberin: Rosa Flesch (1869-1878)
+  generaloberin_2012_2024: Schwester Edith-Maria Magar
+  generaloberin_seit_juli_2024: Maria Michaele Rohde
+  schwesternzahl_1878: 100 in 21 Filialen
+  schwesternzahl_1906: 900 in 67 Niederlassungen
+  schwerpunkt: Krankenpflege, Sozialarbeit, Waisenbetreuung
+  unternehmensgruppe: Marienhaus Stiftung (über 80 soziale Einrichtungen, über 13.800 Beschäftigte)
+  mutterhaus: Kloster Marienhaus, Waldbreitbach
 GUELTIG_AB: 1863
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.96
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Fleschmühle
+ORTSTEIL_BEZUG: Niederbreitbach
+QUELLE: https://www.kuladig.de/Objektansicht/Drucken/O-99702-20140814-7 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauart: Ölmühle (Keltermühle)
+  lage: Fockenbachtal
+  bewohner_periode: Familie Flesch (1838-1851)
+  bewohner_bekannteste: Rosa Flesch
+  betriebsende: 1878
+  grund_abriss: Keine Familie Flesch mehr dort ansässig
+  gedenkkapelle_errichtet: 2004
+  gedenkkapelle_material: Fachwerkgebäude
+GUELTIG_AB: 1838
+GUELTIG_BIS: 1878
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
 
 ---
 
@@ -81,200 +85,226 @@ ENTITÄT: kapelle
 BEZEICHNUNG: Kreuzkapelle
 QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  standort: zwischen Waldbreitbach und Hausen an der Wied
-  wohnungstyp: Eremitenwohnungen
-  rosa_flesch_einzug: 1851
-  rosa_flesch_mitbewohner: Schwester Maria Anna
-  rosa_flesch_auszug: 1860
-  rosa_flesch_gelübde_ablage: 1863
-  bedeutung: Ort der Ordensgründung
+  lage: zwischen Waldbreitbach und Hausen an der Wied
+  ausstattung: zwei Eremitenwohnungen
+  historische_bedeutung: Ort der Ordensgelübde (1863), Erstwohnung von Rosa Flesch und ihrer Schwester (1851)
+  nutzung_von_rosa_flesch: 1851-1860 als Wohnort und Pflege-/Waisenstation
 GUELTIG_AB: 1851
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: muehle
-BEZEICHNUNG: Fleschmühle
-ORTSTEIL_BEZUG: Niederbreitbach
-QUELLE: https://www.kuladig.de/Objektansicht/Drucken/O-99702-20140814-7 | Gemeinde-Webseite
+ENTITÄT: gelande
+BEZEICHNUNG: Kapellenberg
+QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  alternativname: Keltermühle
-  typ: Ölmühle
-  standort: Fockenbachtal bei Niederbreitbach
-  pachter: Johann Georg Flesch
-  pachtbeginn: 1838
-  abriss_jahr: 1878
-  abrissgrund: niemand der Familie Flesch lebte mehr dort
-  bedeutung: Elternhaus und Wirkungsstätte der Ordensgründerin Rosa Flesch
-  rosa_flesch_residenz: 1838-1851
-  gedenkkapelle_errichtung: 2004
-  gedenkkapelle_material: Fachwerkgebäude
-  gedenkkapelle_anlass: 72-Stunden-Aktion des BDKJ
-  heute_vorhanden: Mühlstein, Gedenkkapelle mit Informationsmaterial
-GUELTIG_AB: 1838
-GUELTIG_BIS: 1878
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+  lage: oberhalb der Kreuzkapelle, bei Waldbreitbach
+  erwerb_durch_rosa_flesch: 1857
+  erste_bebauung: 1861
+  heutige_nutzung: Standort des Klosters Marienhaus
+GUELTIG_AB: 1857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
 
 ---
 
 ENTITÄT: krankenhaus
-BEZEICHNUNG: Marienhaus Klinikum St. Antonius Waldbreitbach
-QUELLE: https://www.kliniken.de/krankenhaus/marienhaus-klinikum-st-antonius-waldbreitbach-81K.html | Gemeinde-Webseite
+BEZEICHNUNG: Marienhaus Klinikum St. Antonius
+ORTSTEIL_BEZUG: Waldbreitbach
+QUELLE: https://www.marienhaus-klinikum.de/abteilungen-zentren-und-fachbereiche/st-antonius-waldbreitbach/klinik-fuer-psychiatrie-psychotherapie-und-psychosomatik | Gemeinde-Webseite
 EIGENSCHAFTEN:
   adresse: Margaretha-Flesch-Straße 4, 56588 Waldbreitbach
-  telefon: +49 (2638) 923-9
-  betten: 149
-  lehrkrankenhaus_universitaet_1: Johannes Gutenberg-Universität Mainz
-  lehrkrankenhaus_universitaet_2: Universität Maastricht
   spezialisierung: Psychiatrie, Psychotherapie, Psychosomatik
-  träger: Waldbreitbacher Franziskanerinnen
-  tradition: über hundert Jahre
-  gründungskontext: hervorgegangen aus Wirken der Ordensgründerin Mutter Rosa Flesch
-  fallzahlen_vollstationär: 1.669
-  fallzahlen_teilstationär: 212
-  fallzahlen_ambulant: 6.906
-  nebenbetriebe: Wohnheim, Tagesklinik, Institutsambulanz
+  träger: Marienhaus Stiftung (Orden der Franziskanerinnen)
+  betten: 149
+  stationen: 8
+  zugehörige_einrichtungen: Wohnheim für chronisch psychisch Kranke, Tagesklinik Neuwied, Institutsambulanz
+  besonderheit: Akademisches Lehrkrankenhaus der Johannes Gutenberg-Universität und Universität Maastricht
+GUELTIG_AB: 1863 (Gründung der Vorgängerinstitution)
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.94
 
 ---
 
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Agatha Simons
-QUELLE: https://de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln | Gemeinde-Webseite
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Westerwaldklinik
+ORTSTEIL_BEZUG: Waldbreitbach
+QUELLE: https://www.westerwaldklinik.de/die-klinik/historie.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  funktion: Generaloberin der Waldbreitbacher Franziskanerinnen
-  amtszeit_von: 1878
-  amtszeit_bis: 1905
-  vorgängerin: Rosa Flesch
-  leistung: Bauherrin des Klosters Marienhaus in seiner heutigen Gestalt
-GUELTIG_AB: 1878
-GUELTIG_BIS: 1905
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  hoehenlage: 240 Meter über Meeresspiegel
+  ursprünglicher_zweck: Sanatorium für Tuberkulosebehandlung (Anfang 20. Jahrhundert)
+  träger_früher: LVA Rheinprovinz (bis 1980er Jahre)
+  spezialisierung_heute: Neurologische Rehabilitation und Neurologische Psychosomatik
+  besonderheit: Luftkurort
+GUELTIG_AB: ca. 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
-ENTITÄT: organisation
-BEZEICHNUNG: Marienhaus GmbH
-QUELLE: https://de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln | Gemeinde-Webseite
+ENTITÄT: strassenname
+BEZEICHNUNG: Margaretha-Flesch-Straße
+QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gegründet: 1903
-  gründungsgrund: Bindung des Vermögens des Ordens
-  träger: Waldbreitbacher Franziskanerinnen
-  betreibt: soziale Einrichtungen
-  einrichtungstypen: Krankenhäuser, Altenheime, Kinderheime, Hospize, Bildungsstätten
-  bundesländer: Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Hessen
-  nachfolger: Marienhaus Stiftung (ab 2011)
-GUELTIG_AB: 1903
-GUELTIG_BIS: 2011
-IST_VERMUTLICH_AKTUELL: false
+  benannt_nach: Rosa Flesch
+  standorte: Niederbreitbach und Waldbreitbach
+  ehre: Erinnerung an Ordensgründerin
+GUELTIG_AB: nach 1906
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.92
 
 ---
 
-ENTITÄT: organisation
-BEZEICHNUNG: Marienhaus Stiftung
-QUELLE: https://de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln | Gemeinde-Webseite
+ENTITÄT: person
+BEZEICHNUNG: Johann Georg Flesch
+QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gegründet: Herbst 2011
-  gründer: Waldbreitbacher Franziskanerinnen
-  sitz: Neuwied
-  vorgänger: Marienhaus GmbH
-  betreibt: über 80 soziale Einrichtungen
-  einrichtungstypen: Krankenhäuser, Altenheime, Kinderheime, Hospize, Bildungsstätten
-  bundesländer: Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Hessen
-  beschaeftigte: über 13.800
-  gründungsstätte_ortsanbindung: Waldbreitbacher Kapellenberg
-GUELTIG_AB: 2011
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.94
+  beruf: Ölmüller
+  arbeitsplatz_1826: Klostermühle von Schönstatt bei Vallendar
+  arbeitsplatz_ab_1838: Fleschmühle im Fockenbachtal bei Niederbreitbach (Pacht)
+  kind: Margaretha Flesch (Rosa Flesch)
+  tod: 1842
+GUELTIG_AB: vor 1826
+GUELTIG_BIS: 1842
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
 
 ---
 
-ENTITÄT: persoenlichkeit
+ENTITÄT: person
+BEZEICHNUNG: Agatha Simons
+QUELLE: https://de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ordensfunktion: Generaloberin
+  amtszeit: 1878-1905
+  leistung: Bauherrin des Klosters Marienhaus in seiner heutigen Gestalt
+GUELTIG_AB: 1878
+GUELTIG_BIS: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
 BEZEICHNUNG: Jakob Gomm
 QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beruf: Pfarrer von Waldbreitbach
-  amtsantritt: 1850
-  rolle: Zögerliche Genehmigung der Ordensgründung
-  verbindung_rosa_flesch: eng verbunden
-  haltung_initial: zögerlich
+  beruf: Pfarrer
+  pfarrstelle: Waldbreitbach seit 1850
+  rolle_im_orden: Zögerlich gewährte Genehmigung zur Ordensgründung
 GUELTIG_AB: 1850
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Konrad Probst
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Ölgemälde von Rosa Flesch
 QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beruf: Geistlicher Rektor der Waldbreitbacher Franziskanerinnen
-  rolle: Antagonist und Intrigant gegen Rosa Flesch
-  manipulierte_wahl_jahr: 1881
-  wahl_manipulation_folge: Rosa Flesch wurde nicht wiedergewählt als Generaloberin
-  strategie: Drohung mit Ausschluss gegenüber Wahlberechtigten
-  tod: 1915
-  charakterisierung_quellentext: größter Widersacher Mutter Rosas
-GUELTIG_AB: ca. 1878
-GUELTIG_BIS: 1915
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.88
-
----
-
-ENTITÄT: gelaende
-BEZEICHNUNG: Kapellenberg
-QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  standort: Waldbreitbach, oberhalb der Kreuzkapelle
-  erwerb_jahr: 1857
-  erwerber: Rosa Flesch
-  erwerb_bedingung: felsiges Land zu günstigem Preis
-  erste_bebauung: 1861
-  erste_bebauung_typ: einfaches Wohnhaus mit Krankentrakt
-  bedeutung: Gründungsstätte des Ordens und Standort des Klosters Marienhaus
-  heute: Standort des Klosters Marienhaus und zweier Einrichtungen der Marienhaus Stiftung
-GUELTIG_AB: 1857
+  künstler: Octavie de Lasalle
+  entstehung: 1866
+  standort: Klausur des Klosters Marienhaus
+  beschreibung: älteste bekannte Darstellung von Rosa Flesch (ca. 40 Jahre alt)
+GUELTIG_AB: 1866
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.92
 
 ---
 
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Maria Bonner
-QUELLE: https://de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln | Gemeinde-Webseite
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Glasfenster (Waldbreitbacher Pfarrkirche)
+QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  funktion: Mitgründerin der Waldbreitbacher Franziskanerinnen
-  gründungsdatum: 13.3.1863
-  mitgründerinnen: Rosa Flesch, Gertrud Beißel
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Gertrud Beißel
-QUELLE: https://de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  funktion: Mitgründerin der Waldbreitbacher Franziskanerinnen
-  gründungsdatum: 13.3.1863
-  mitgründerinnen: Rosa Flesch, Maria Bonner
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: ortsteil
-BEZEICHNUNG: Glockscheid
-QUELLE: https://de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gemeinde: Waldbreitbach
-  bedeutung: Standort des Mutterhauses Kloster Marienhaus
-GUELTIG_AB: 1863
+  künstler: Helmut Rams
+  entstehung: 1956
+  darstellung: Mutter Rosa im Zug der Ordensleute aus der Kreuzkapelle
+  standort: Waldbreitbacher Pfarrkirche
+GUELTIG_AB: 1956
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: 21 Türbilder zu Szenen aus Mutter Rosas Leben
+QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Karl Unverzagt
+  entstehung: 1980
+  standort: Bildungs- und Tagungshaus des Klosters Marienhaus
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Chorfenster (Liebfrauenkirche Koblenz)
+QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Hans Gottfried von Stockhausen
+  entstehung: 1992
+  konzept: Frauen in der Heilsgeschichte
+  darstellung: erste Darstellung Mutter Rosas außerhalb von Waldbreitbach
+  standort: Liebfrauenkirche, Koblenz
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Fenster mit Rosa Flesch (Kirche Mariae Heimsuchung)
+QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Clemens Hillebrand (Kölner Künstler)
+  standort: Kirche Mariae Heimsuchung, Wadgassen (Saarland)
+  beschreibung: eines von zwölf Fenstern im Kirchenschiff
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Mutter-Rosa-Plastik (Trierer Dom)
+QUELLE: https://de.wikipedia.org/wiki/Rosa_Flesch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Elisabeth Wagner
+  entstehung: 2008
+  anlass: Seligsprechung Mutter Rosas
+  größe: etwa lebensgroß
+  standort: Westchor des Trierer Doms (barocke Nische)
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Gedenkkapelle Fleschmühle
+ORTSTEIL_BEZUG: Niederbreitbach
+QUELLE: https://www.kuladig.de/Objektansicht/Drucken/O-99702-20140814-7 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 2004
+  anlass: 72-Stunden-Aktion der Sozialaktion des BDKJ
+  material: Fachwerkgebäude
+  standort: exakte Stelle der früheren Fleschmühle
+  inhalt: Literatur und Informationsmaterial über Rosa Flesch
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Waldbreitbach
+QUELLE: https://www.westerwaldklinik.de/die-klinik/historie.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehenlage: 240 Meter über Meeresspiegel
+  charakteristikum: Luftkurort
+GUELTIG_AB: vor 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88

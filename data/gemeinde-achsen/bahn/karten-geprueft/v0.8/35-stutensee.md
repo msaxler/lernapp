@@ -192,7 +192,13 @@ FAKT-ID: 35-stutensee/105.reformprogramm
 GEWÄHLTER FAKT: Heinrich-Wetzlar-Haus (erziehungsheim), reformprogramm: Resozialisierung straffällig gewordener Jugendlicher; gruendung_jahr: 1919; status_heute: Landesjugendheim
 BEKANNTHEIT: niedrig – Das Heim und seine Gründer kennt man kaum über die Region hinaus.
 VORDERSEITE:
-Heinrich Wetzlar und seine Frau Therese richteten 1919 im Schloss Stutensee ein Heim ein. Wofür war es gedacht? (Optionen unverändert)
+Stutensee
+Große Kreisstadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.
+Heinrich Wetzlar und seine Frau Therese richteten 1919 im Schloss Stutensee ein Heim ein. Wofür war es gedacht?
+1. Es war ein Lazarett für Kriegsverwundete.
+2. Es war ein Altenheim für verarmte Handwerker.
+3. Es war ein Erziehungsheim für straffällige Jugendliche.
+4. Es war ein Kurheim für lungenkranke Kinder.
 RÜCKSEITE:
 Du hattest [Option] getippt. Kurz nach dem Ersten Weltkrieg liegt ein Lazarett nahe. Doch der jüdische Richter, später Landgerichtspräsident in Mannheim, und seine Frau wollten gestrauchelte Jugendliche durch Erziehung und Ausbildung wieder eingliedern. 1943 wurden beide nach Theresienstadt deportiert und kamen dort ums Leben. Seit 1984 trägt ein Haus der Jugendeinrichtung seinen Namen. Richtig war 3.
 Quelle: Jugendeinrichtung Schloss Stutensee, www.jugend-schloss.de

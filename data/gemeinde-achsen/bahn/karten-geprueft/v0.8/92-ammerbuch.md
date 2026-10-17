@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Aussage 2 sagt „im Schloss“. Die Quelle sagt aber, die Gemeindewaschküche war „auf dem Schlossgelände untergebracht“. Die Lüge 1 ist sicher widerlegt: Die Explosion zerstörte nur einen Eckturm, und heute gibt es Privatwohnungen im Schloss. Aussage 3 und die Rückseite sind belegt (Pläne Schickhardts, Renaissance-Stil, Gemeindebesitz, Volksschule, Verkauf an einen Investor).
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Aussage 2 sagt „im Schloss“. Die Quelle sagt aber, die Gemeindewaschküche war „auf dem Schlossgelände untergebracht“. Die Lüge 1 ist sicher widerlegt: Die Explosion zerstörte nur einen Eckturm, und heute gibt es Privatwohnungen im Schloss. Aussage 3 und die Rückseite sind belegt (Pläne Schickhardts, Renaissance-Stil, Gemeindebesitz, Volksschule, Verkauf an einen Investor).
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 92-ammerbuch/025.renovierung_zeitraum
@@ -64,7 +64,7 @@ Ammerbuch
 Gemeinde mit rund 11.400 Einwohnern, 19 km westlich von Reutlingen.
 Das Wasserschloss im Ortsteil Poltringen zählt zu den Sehenswürdigkeiten Ammerbuchs. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 1. Nach einer Gasexplosion wurde das Schloss abgerissen.
-2. Auf dem Schlossgelände gab es einst eine öffentliche Gemeindewaschküche.
+2. Im Schloss gab es einst eine öffentliche Gemeindewaschküche.
 3. Heinrich Schickhardt baute das Schloss im Renaissancestil um.
 RÜCKSEITE:
 Du hattest [Option] getippt. Die Waschküche klingt erfunden, gerade in einem Schloss, das Heinrich Schickhardt im Renaissancestil umbaute. Doch das Schloss gehörte lange der Gemeinde und diente auch als Schule. Eine Gasexplosion zerstörte zwar einen Eckturm, abgerissen wurde es aber nicht: Ein privater Investor kaufte und renovierte es, darin entstanden Privatwohnungen. Die Lüge war 1.

@@ -192,7 +192,13 @@ FAKT-ID: 226-rathenow/005.vorbild
 GEWÄHLTER FAKT: St. Marien-Andreas-Kirche, vorbild: Jerichower Klosterkirche; romanische_basilika_typ: kreuzförmige Pfeilerbasilika; ursprung_baustoff_und_stil: Holzbauweise
 BEKANNTHEIT: niedrig – das Vorbild der Kirche kennen nur Fachleute für Baugeschichte.
 VORDERSEITE:
-Rathenow / Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam. / Die St. Marien-Andreas-Kirche wurde als romanische Basilika errichtet. Welche Kirche gilt als ihr Vorbild? / 1. Vorbild war der Dom in Havelberg. / 2. Vorbild war der Dom in Magdeburg. / 3. Vorbild war der Dom in Brandenburg. / 4. Vorbild war die Klosterkirche in Jerichow.
+Rathenow
+Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam.
+Die St. Marien-Andreas-Kirche wurde als romanische Basilika errichtet. Welche Kirche gilt als ihr Vorbild?
+1. Vorbild war der Dom in Havelberg.
+2. Vorbild war der Dom in Magdeburg.
+3. Vorbild war der Dom in Brandenburg.
+4. Vorbild war die Klosterkirche in Jerichow.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein großer Dom läge als Vorbild nahe. Doch als Vorbild der kreuzförmigen Pfeilerbasilika gilt die Jerichower Klosterkirche. Ihre Ursprünge sollen auf eine Holzkirche zurückgehen. Richtig war 4. (31 Wörter)
 Quelle: Gemeinde-Webseite, www.rathenow.de/kultur-tourismus/sehenswertes/sehenswertes-in-der-region/

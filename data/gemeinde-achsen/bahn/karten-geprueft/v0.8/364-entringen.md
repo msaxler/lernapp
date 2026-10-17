@@ -111,7 +111,13 @@ FAKT-ID: 364-entringen/024.motiv
 GEWÄHLTER FAKT: kunstwerk Gemälde Kirchenzug-Szene, motiv: fünf verwandte Familien mit 100 Kindern in stattlichem Zug von Schloss Hohenentringen zur Kirche; kuenstler: Gunhild von Ow; jahr: 1913 (Ereignis 1417 laut 364-entringen/014)
 BEKANNTHEIT: niedrig – das Bild ist nur vor Ort bekannt.
 VORDERSEITE:
-Entringen / Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen. / Ein Gemälde, das Gunhild von Ow 1913 malte, zeigt eine Szene rund um Schloss Hohenentringen. Was ist zu sehen? / 1. Ritter verteidigen Hohenentringen gegen eine Belagerung. / 2. Bauern liefern den Zehnten am Schlosstor ab. / 3. Ein Brand zerstört Teile des Schlosses. / 4. Verwandte Familien ziehen mit Kinderscharen zur Kirche.
+Entringen
+Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen.
+Ein Gemälde, das Gunhild von Ow 1913 malte, zeigt eine Szene rund um Schloss Hohenentringen. Was ist zu sehen?
+1. Ritter verteidigen Hohenentringen gegen eine Belagerung.
+2. Bauern liefern den Zehnten am Schlosstor ab.
+3. Ein Brand zerstört Teile des Schlosses.
+4. Verwandte Familien ziehen mit Kinderscharen zur Kirche.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei einem Schlossgemälde denkt man zuerst an Ritter und Belagerung. Das Bild zeigt aber einen stattlichen Zug: Mehrere verwandte Familien gehen mit einer großen Kinderschar vom Schloss Hohenentringen zur Kirche. Richtig war 4. / Quelle: Wikipedia, de.wikipedia.org/wiki/Entringen
 WÖRTER RÜCKSEITE: 36

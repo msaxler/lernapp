@@ -185,7 +185,7 @@ PRÜFSTUFE: 1 – alle Aussagen stammen von der Gemeinde-Webseite, kein Superlat
 ERFUNDEN: keine
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Die Optionen sagen nur „Er wurde … bebaut“ und lassen das „so neu“ aus der Frage weg. Für sich gelesen ist Option 2 dann wahr, denn der Platz war schon vor dem Krieg bebaut. Die Optionen müssen sich deshalb auf das heutige Ensemble beziehen, so wie es der Quelltext tut.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Optionen sagen nur „Er wurde … bebaut“ und lassen das „so neu“ aus der Frage weg. Für sich gelesen ist Option 2 dann wahr, denn der Platz war schon vor dem Krieg bebaut. Die Optionen müssen sich deshalb auf das heutige Ensemble beziehen, so wie es der Quelltext tut.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 227-berlin/021.neubebauung_nach
@@ -194,11 +194,11 @@ BEKANNTHEIT: mittel – den Potsdamer Platz kennen viele, wann sein heutiges Bil
 VORDERSEITE:
 Berlin
 Rund 3,7 Millionen Einwohner, Stadtstaat an Spree und Havel.
-Am Potsdamer Platz steht ein Ensemble aus Hochhäusern und futuristischen Neubauten. Wann entstand dieses Ensemble?
-1. Es entstand nach der Wiedervereinigung.
-2. Es entstand in den Goldenen Zwanzigern.
-3. Es entstand beim Wiederaufbau nach dem Krieg.
-4. Es entstand als Prestigeprojekt der DDR.
+Am Potsdamer Platz steht ein Ensemble aus Hochhäusern und futuristischen Neubauten. Wann wurde der Platz so neu bebaut?
+1. Er wurde nach der Wiedervereinigung bebaut.
+2. Er wurde in den Goldenen Zwanzigern bebaut.
+3. Er wurde beim Wiederaufbau nach dem Krieg bebaut.
+4. Er wurde als Prestigeprojekt der DDR bebaut.
 RÜCKSEITE:
 Du hattest [Option] getippt. Hochhäuser und kühne Bauten passen zum Glanz der Zwanzigerjahre oder zum Wiederaufbau nach dem Krieg, deshalb liegt eine frühere Zeit nahe. Doch das heutige Ensemble aus Hochhäusern und futuristischen Neubauten entstand bei der Neubebauung nach der Wiedervereinigung. Richtig war 1.
 Quelle: Gemeinde-Webseite, www.berlin.de/sehenswuerdigkeiten/

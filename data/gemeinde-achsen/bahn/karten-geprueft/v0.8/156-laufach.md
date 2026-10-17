@@ -185,7 +185,7 @@ PRÜFSTUFE: 1 – Alle Aussagen und Namen stammen von der Gemeinde-Webseite. Die
 ERFUNDEN: 3, 4
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die zwei Stauweiher, die Floßkarte von etwa 1630 und den Laserscan bestätigt die Quelle. Ob über die Dämme ein Weg führte oder führt, habe ich in keiner vertrauenswürdigen Quelle gefunden; nur Wanderportale erwähnen einen Weg durch das Seebachtal. Ich ersetze Option 3 durch eine Option, die die Floßkarte von etwa 1630 sicher widerlegt.
+FAKTENCHECK: korrigiert – Die zwei Stauweiher, die Floßkarte von etwa 1630 und den Laserscan bestätigt die Quelle. Ob über die Dämme ein Weg führte oder führt, habe ich in keiner vertrauenswürdigen Quelle gefunden; nur Wanderportale erwähnen einen Weg durch das Seebachtal. Ich ersetze Option 3 durch eine Option, die die Floßkarte von etwa 1630 sicher widerlegt.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 156-laufach/036.funktion
@@ -200,7 +200,8 @@ Im Seebachtal zeigt ein Laserscan aus der Luft noch zwei alte Dämme. Wozu dient
 3. Sie trugen einen Weg durch das sumpfige Tal.
 4. Sie sind Reste eines alten Bahndamms.
 RÜCKSEITE:
-Du hattest [Option] getippt. Alte Dämme lassen an Bahn oder Wege denken. Diese Stauweiher dienten aber der Flößerei, dem Holztransport auf dem Wasser: So kam Brennholz in den Goldbacher Holzhof, beaufsichtigt vom Floßmeister zu Hain. Schon eine alte Floßkarte zeigt sie. Richtig war 2.
+Du hattest [Option] getippt. Alte Dämme lassen an Bahn, Krieg oder Gehege denken. Diese Stauweiher dienten aber der Flößerei, dem Holztransport auf dem Wasser: So kam Brennholz in den Goldbacher Holzhof, beaufsichtigt vom Floßmeister zu Hain. Schon eine Floßkarte um 1630 zeigt sie. Richtig war 2.
+NEGATIVNACHWEIS neu 3: Weg (a). Fakt 036 zeigt die Dämme auf der Floßkarte um 1630, also lange vor dem Zweiten Weltkrieg.
 Quelle: Gemeinde-Webseite, www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf
 WÖRTER RÜCKSEITE: 44
 NEGATIVNACHWEISE:

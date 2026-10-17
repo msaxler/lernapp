@@ -7,16 +7,16 @@
   "claude-opus-5-5",
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 22297,
- "token_ein": 702092,
- "token_aus": 17388,
+ "eingabe_zeichen": 21282,
+ "token_ein": 451020,
+ "token_aus": 12378,
  "usage": {
-  "input_tokens": 30,
-  "cache_creation_input_tokens": 55729,
-  "cache_read_input_tokens": 646333,
-  "output_tokens": 17388,
+  "input_tokens": 20,
+  "cache_creation_input_tokens": 51556,
+  "cache_read_input_tokens": 399444,
+  "output_tokens": 12378,
   "output_tokens_details": {
-   "thinking_tokens": 7268
+   "thinking_tokens": 4954
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -24,19 +24,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 55729,
+   "ephemeral_1h_input_tokens": 51556,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "global",
   "iterations": [
    {
     "input_tokens": 2,
-    "output_tokens": 7221,
-    "cache_read_input_tokens": 61462,
-    "cache_creation_input_tokens": 1169,
+    "output_tokens": 5181,
+    "cache_read_input_tokens": 56844,
+    "cache_creation_input_tokens": 1614,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 1169
+     "ephemeral_1h_input_tokens": 1614
     },
     "type": "message"
    }
@@ -44,8 +44,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 1.5618405999999996,
- "sekunden": 248,
+ "kosten_usd": 1.2663488,
+ "sekunden": 165,
  "fehler": false,
- "zeit": "2026-10-17T13:30:59"
+ "zeit": "2026-10-17T14:18:02"
 }

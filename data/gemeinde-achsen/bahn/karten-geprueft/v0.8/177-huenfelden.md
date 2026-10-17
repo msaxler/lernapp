@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: korrigiert – Bau 1932 und Zweck (Nachtflüge Köln–Frankfurt, Betrieb bis 1939, Abbau vermutlich um 1953) stehen nur auf der Gemeinde-Webseite. Für die Jahre 1939 bis 1953 habe ich in keiner vertrauenswürdigen Quelle eine Nutzung gefunden, auch keine als Feuerwache. Damit Option 3 sicher falsch ist, fragt die Vorderseite jetzt nach dem Zweck, für den der Turm gebaut wurde. Den nennt die Gemeinde-Webseite eindeutig.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Bau 1932 und Zweck (Nachtflüge Köln–Frankfurt, Betrieb bis 1939, Abbau vermutlich um 1953) stehen nur auf der Gemeinde-Webseite. Für die Jahre 1939 bis 1953 habe ich in keiner vertrauenswürdigen Quelle eine Nutzung gefunden, auch keine als Feuerwache. Damit Option 3 sicher falsch ist, fragt die Vorderseite jetzt nach dem Zweck, für den der Turm gebaut wurde. Den nennt die Gemeinde-Webseite eindeutig.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 177-huenfelden/014.leuchtturm_funktion
@@ -8,12 +8,11 @@ BEKANNTHEIT: niedrig – Ein Flug-Leuchtturm in einem Dorf im Hügelland ist au�
 VORDERSEITE:
 Hünfelden
 Gemeinde mit rund 9.700 Einwohnern, 28 km nördlich von Wiesbaden.
-Im Ortsteil Nauheim wurde 1932 ein Leuchtturm gebaut, weit weg von jeder Küste. Wozu wurde er gebaut?
-1. Er sollte Schiffer auf der Lahn vor Untiefen warnen.
-2. Er sollte Nachtflüge zwischen Köln und Frankfurt leiten.
-3. Er sollte als Feuerwache am Nauheimer Kopf dienen.
-4. Er sollte die alte Hühnerstraße für Fuhrleute markieren.
-(Rückseite bleibt unverändert.)
+Im Ortsteil Nauheim wurde 1932 ein Leuchtturm gebaut, weit weg von jeder Küste. Wozu diente er?
+1. Er warnte Schiffer auf der Lahn vor Untiefen.
+2. Er leitete Nachtflüge zwischen Köln und Frankfurt.
+3. Er diente als Feuerwache am Nauheimer Kopf.
+4. Er markierte die alte Hühnerstraße für Fuhrleute.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei einem Leuchtturm denkt man an Schiffe, im Hügelland eher an Wache oder Wegzeichen. Doch Nauheims Turm leuchtete für den Himmel: Er ermöglichte Nachtflüge auf der Strecke Köln–Frankfurt. Solche Feuer gaben Piloten im Dunkeln Orientierung. Richtig war 2.
 Quelle: Gemeinde-Webseite, www.huenfelden.de/leben-in-huenfelden/ortsteile/nauheim/

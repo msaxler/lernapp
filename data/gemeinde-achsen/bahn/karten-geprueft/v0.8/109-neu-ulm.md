@@ -185,7 +185,7 @@ PRÜFSTUFE: 1 – Alle Aussagen stammen von der Gemeinde-Webseite, es gibt keine
 ERFUNDEN: 1, 2, 3
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Die wahre Option ist belegt. Die Optionen 1 und 2 sind aber so offen formuliert, dass sie auf die Herkunft des alten Ortsnamens zutreffen könnten. Der alte Name kann auf eine Schwaige zurückgehen, und der Quelltext schließt einen Personennamen nicht aus. Deshalb sind beide Optionen auf die Riedhöfe bezogen; für die Riedhöfe widerlegt sie der Quelltext.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die wahre Option ist belegt. Die Optionen 1 und 2 sind aber so offen formuliert, dass sie auf die Herkunft des alten Ortsnamens zutreffen könnten. Der alte Name kann auf eine Schwaige zurückgehen, und der Quelltext schließt einen Personennamen nicht aus. Deshalb sind beide Optionen auf die Riedhöfe bezogen; für die Riedhöfe widerlegt sie der Quelltext.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 109-neu-ulm/042.namenuebernahme_ursprung
@@ -195,8 +195,8 @@ VORDERSEITE:
 Neu-Ulm
 Stadt mit rund 63.000 Einwohnern, 2 km südlich von Ulm.
 Der Stadtteil Schwaighofen ging aus Höfen an der Straße nach Reutti hervor. Woher stammt sein Name?
-1. Die Höfe wurden nach ihren eigenen Viehweiden benannt.
-2. Ein Bauer der Höfe gab ihnen seinen Familiennamen.
+1. Die Höfe wurden nach ihren Viehweiden benannt.
+2. Er geht auf den Familiennamen eines Bauern zurück.
 3. Er stammt von einem verschwundenen mittelalterlichen Ort.
 4. Bayerische Beamte erfanden ihn bei der Stadtgründung.
 RÜCKSEITE:

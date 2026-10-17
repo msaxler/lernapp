@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Laut LAGIS schenkte Heinrich II. den Hof Herleshausen 1019 dem Kloster Kaufungen, das ihn an Adlige zu Lehen gab. Kaufungen hat Herleshausen also besessen, nicht selbst verwaltet; die Aussage 1 ist darum auf „gehörte“ berichtigt. Die Gemeinde-Webseite beschreibt das Wappen von 1984 als Kirchhofmauer mit Türmen, die der Chorturm der Pfarrkirche überragt. Den Zusammenschluss von 1970 belegt LAGIS („schloss sich … zusammen“), das Wort „freiwillig“ steht aber nur in Wikipedia und Wikipedia-Abschriften (Vermerk).
+FAKTENCHECK: korrigiert – Laut LAGIS schenkte Heinrich II. den Hof Herleshausen 1019 dem Kloster Kaufungen, das ihn an Adlige zu Lehen gab. Kaufungen hat Herleshausen also besessen, nicht selbst verwaltet; die Aussage 1 ist darum auf „gehörte“ berichtigt. Die Gemeinde-Webseite beschreibt das Wappen von 1984 als Kirchhofmauer mit Türmen, die der Chorturm der Pfarrkirche überragt. Den Zusammenschluss von 1970 belegt LAGIS („schloss sich … zusammen“), das Wort „freiwillig“ steht aber nur in Wikipedia und Wikipedia-Abschriften (Vermerk).
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 246-herleshausen/040.art
@@ -67,8 +67,8 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. Das Gemeindewappen zeigt den Turm der alten Wehrkirche.
 3. Die Großgemeinde wurde den Dörfern von oben aufgezwungen.
 RÜCKSEITE:
-Du hattest [Option] getippt. Gebietsreformen gelten oft als Diktat von oben, darum klingt die Lüge glaubhaft. Doch Herleshausen und die umliegenden Dörfer schlossen sich freiwillig zur Großgemeinde zusammen. Wahr ist: Das Wappen zeigt den Chorturm der Wehrkirche, und das Kloster Kaufungen verwaltete Herleshausen bis zur Säkularisation der hessischen Klöster. Die Lüge war 3.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Herleshausen
+Du hattest [Option] getippt. Gebietsreformen gelten oft als Diktat von oben, darum klingt die Lüge glaubhaft. Doch Herleshausen und die umliegenden Dörfer schlossen sich 1970 freiwillig zur Großgemeinde zusammen. Wahr ist: Das Wappen zeigt den Chorturm der Wehrkirche über der Kirchhofmauer, und Herleshausen gehörte seit 1019 dem Kloster Kaufungen, bis zur Säkularisation der hessischen Klöster. Die Lüge war 3.
+Quelle: LAGIS Hessen; Gemeinde Herleshausen
 WÖRTER RÜCKSEITE: 53
 NEGATIVNACHWEISE:
 3: Weg (a). Laut 040 war die Bildung der Großgemeinde ein freiwilliger Zusammenschluss.
@@ -185,7 +185,7 @@ PRÜFSTUFE: 2 – Der Fakt stammt nur aus Wikipedia und enthält eine Fast-Super
 ERFUNDEN: 4
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Laut Gemeinde kamen vom 12.10.1955 bis 16.01.1956 fast 8.000 Spätheimkehrer aus sowjetischer Kriegsgefangenschaft am „Bahnhof Herleshausen“ an. LAGIS stuft den Zug nur als „Letzter großer Heimkehrertransport in Herleshausen“ ein; der Superlativ ist darum abgeschwächt. Die Station hieß 1956 Bahnhof, nicht Haltepunkt.
+FAKTENCHECK: korrigiert – Laut Gemeinde kamen vom 12.10.1955 bis 16.01.1956 fast 8.000 Spätheimkehrer aus sowjetischer Kriegsgefangenschaft am „Bahnhof Herleshausen“ an. LAGIS stuft den Zug nur als „Letzter großer Heimkehrertransport in Herleshausen“ ein; der Superlativ ist darum abgeschwächt. Die Station hieß 1956 Bahnhof, nicht Haltepunkt.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 246-herleshausen/011.ereignis_1956
@@ -200,8 +200,8 @@ Im Januar 1956 erreichte ein besonderer Zug den Haltepunkt Herleshausen. Wen bra
 3. Er brachte Flüchtlinge aus Ungarn.
 4. Er brachte Übersiedler aus der DDR.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Zug aus dem Osten in den Fünfzigern lässt an Vertreibung denken. Doch er brachte Spätheimkehrer: Kriegsgefangene, die erst Jahre nach Kriegsende aus der Sowjetunion zurückkamen. Es war der letzte Eisenbahntransport dieser Art. Richtig war 2.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Herleshausen
+Du hattest [Option] getippt. Ein Zug aus dem Osten in den Fünfzigern lässt an Vertreibung denken. Doch er brachte Spätheimkehrer: Kriegsgefangene, die erst Jahre nach Kriegsende aus der Sowjetunion zurückkamen. Es war der letzte große Heimkehrertransport über Herleshausen; seit Oktober 1955 waren hier fast 8.000 angekommen. Richtig war 2.
+Quelle: Gemeinde Herleshausen; LAGIS Hessen
 WÖRTER RÜCKSEITE: 40
 NEGATIVNACHWEISE:
 1: Weg (c). 011 nennt genau eine Fracht des Transports, Spätheimkehrer. Vertriebene sind erfunden.

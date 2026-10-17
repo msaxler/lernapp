@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Schwäbische Zeitung bestätigt, dass die Stadt nach Friedrich benannt ist, dem ersten König Württembergs, und dass das Wappen der Reichsstadt Buchhorn heute noch das Stadtwappen ist. Buchhorn war aber nur bis 1802 Reichsstadt, kam dann an Bayern und 1810 an Württemberg. 1811 war Buchhorn also keine Reichsstadt mehr.
+FAKTENCHECK: korrigiert – Die Schwäbische Zeitung bestätigt, dass die Stadt nach Friedrich benannt ist, dem ersten König Württembergs, und dass das Wappen der Reichsstadt Buchhorn heute noch das Stadtwappen ist. Buchhorn war aber nur bis 1802 Reichsstadt, kam dann an Bayern und 1810 an Württemberg. 1811 war Buchhorn also keine Reichsstadt mehr.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 121-friedrichshafen/001.benannt_nach
@@ -14,7 +14,7 @@ Friedrichshafen entstand 1811 aus der Reichsstadt Buchhorn und Hofen. Nach wem w
 3. Sie hieß nach dem Hafen eines Fischers Friedrich.
 4. Sie ehrt König Friedrich I. von Württemberg.
 RÜCKSEITE:
-Du hattest [Option] getippt. Barbarossa liegt nahe, denn die Staufer waren in Schwaben mächtig. Benannt wurde die Stadt aber nach Friedrich I., dem ersten württembergischen König. Vom alten Buchhorn blieb das Wappen: Friedrichshafen führt das Wappen der Reichsstadt Buchhorn. Richtig war 4.
+Du hattest [Option] getippt. Barbarossa liegt nahe, denn die Staufer waren in Schwaben mächtig. Benannt wurde die Stadt aber nach Friedrich I., dem ersten württembergischen König. Vom alten Buchhorn blieb das Wappen: Friedrichshafen führt das Wappen der ehemaligen Reichsstadt Buchhorn. Richtig war 4.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Friedrichshafen
 WÖRTER RÜCKSEITE: 42
 NEGATIVNACHWEISE:
@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Aussage 1 (Zahnradfabrik für Zeppelin-Getriebe), Aussage 2 (Museum im Hafenbahnhof), die Herkunft aus dem Kloster Hofen und der Umbau zur Sommerresidenz von 1823 bis 1830 sind belegt. Der Audioguide der Stadt sagt aber, dass auf der Landzunge früher das Dorf Hofen mit dem Sitz der Grafen von Buchhorn lag. Die Lüge „ursprünglich eine Burg am Seeufer“ ist damit nicht sicher falsch und wird durch eine nachweislich falsche Aussage ersetzt.
+FAKTENCHECK: korrigiert – Aussage 1 (Zahnradfabrik für Zeppelin-Getriebe), Aussage 2 (Museum im Hafenbahnhof), die Herkunft aus dem Kloster Hofen und der Umbau zur Sommerresidenz von 1823 bis 1830 sind belegt. Der Audioguide der Stadt sagt aber, dass auf der Landzunge früher das Dorf Hofen mit dem Sitz der Grafen von Buchhorn lag. Die Lüge „ursprünglich eine Burg am Seeufer“ ist damit nicht sicher falsch und wird durch eine nachweislich falsche Aussage ersetzt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 121-friedrichshafen/032.ursprung
@@ -67,7 +67,7 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. Das Zeppelin-Museum befindet sich im ehemaligen Hafenbahnhof.
 3. Schloss Hofen war ursprünglich eine Burg am Seeufer.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Museum in einem Bahnhof klingt erfunden, doch das Zeppelin-Museum nutzt tatsächlich den ehemaligen Hafenbahnhof. Auch die Zahnradfabrik entstand für Zeppelin-Getriebe. Gelogen ist die Burg: Schloss Hofen war ursprünglich das Kloster Hofen und wurde später zur königlichen Sommerresidenz umgebaut. Die Lüge war 3.
+Du hattest [Option] getippt. Ein Museum in einem Bahnhof klingt erfunden, doch das Zeppelin-Museum nutzt tatsächlich den ehemaligen Hafenbahnhof. Auch die Zahnradfabrik entstand für Zeppelin-Getriebe. Gelogen ist die späte Jahreszahl: Das ehemalige Kloster Hofen wurde schon in den 1820er-Jahren unter König Wilhelm I. zum Schloss umgebaut. Die Lüge war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Friedrichshafen
 WÖRTER RÜCKSEITE: 47
 NEGATIVNACHWEISE:

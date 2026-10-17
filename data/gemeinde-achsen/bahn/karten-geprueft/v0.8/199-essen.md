@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: korrigiert – Keine vertrauenswürdige Quelle erwähnt Dietrichs Mutter Sophie von Limburg oder einen Witwensitz. Das gilt für die Stadt Essen und für KuLaDig vom LVR-Amt für Denkmalpflege im Rheinland. Beide nennen als einzigen Zweck, dass Dietrich sein Erbe bei den Abteien Essen und Werden durchsetzen wollte. Dass sie nicht so genutzt wurde, ist damit aber nicht widerlegt. Deshalb ersetze ich Option 3 durch eine Option, die die Quellen widerlegen: Dietrich erbaute die Burg selbst gegen Köln, und der Kölner Erzbischof eroberte sie 1244.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Keine vertrauenswürdige Quelle erwähnt Dietrichs Mutter Sophie von Limburg oder einen Witwensitz. Das gilt für die Stadt Essen und für KuLaDig vom LVR-Amt für Denkmalpflege im Rheinland. Beide nennen als einzigen Zweck, dass Dietrich sein Erbe bei den Abteien Essen und Werden durchsetzen wollte. Dass sie nicht so genutzt wurde, ist damit aber nicht widerlegt. Deshalb ersetze ich Option 3 durch eine Option, die die Quellen widerlegen: Dietrich erbaute die Burg selbst gegen Köln, und der Kölner Erzbischof eroberte sie 1244.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 199-essen/018.grund_gruendung
@@ -11,7 +11,7 @@ Ruhrgebietsstadt an der Ruhr mit rund 574.000 Einwohnern, 30 km Luftlinie von D�
 Die Isenburg über dem Baldeneysee ließ Dietrich von Isenberg um 1240 errichten. Welchen Anlass nennt die Stadt Essen?
 1. Er sollte die Gegend für Köln bewachen.
 2. Er hatte seine Burg bei Hattingen verkauft.
-3. Er hatte das Land vom Kölner Erzbischof als Lehen erhalten.
+3. Er baute sie als Witwensitz für seine Mutter.
 4. Er wollte damit sein Erbe zurückfordern.
 RÜCKSEITE:
 Du hattest [Option] getippt. Eine Burg über dem Wasser lässt an eine Wache für einen Landesherrn denken. Die Stadt Essen nennt einen anderen Anlass: Die Hattinger Isenburg war nach einem Überfall, bei dem Erzbischof Engelbert von Köln starb, zerstört worden. Mit der neuen Burg wollte Dietrich von Isenberg sein Erbe zurückfordern. Köln eroberte sie später. Richtig war 4.

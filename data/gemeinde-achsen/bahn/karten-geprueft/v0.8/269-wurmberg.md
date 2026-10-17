@@ -6,7 +6,13 @@ FAKT-ID: 269-wurmberg/004.herkunft
 GEWÄHLTER FAKT: Lucerne (Ortsteil), herkunft, Waldenser-Flüchtlinge aus Italien
 BEKANNTHEIT: niedrig – Die Waldenserorte im Raum Pforzheim kennt man in der Region, außerhalb kaum.
 VORDERSEITE:
-Wurmberg / Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim. / Zu Wurmberg gehört das einstige Lucerne, bis 1808 eine eigene Gemeinde. Wer hat die Siedlung gegründet? / 1. Auswanderer aus Luzern in der Schweiz gründeten sie. / 2. Bergleute aus dem Erzgebirge gründeten sie. / 3. Glasmacher aus Böhmen gründeten sie. / 4. Waldenser, die als Glaubensflüchtlinge kamen, gründeten sie.
+Wurmberg
+Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim.
+Zu Wurmberg gehört das einstige Lucerne, bis 1808 eine eigene Gemeinde. Wer hat die Siedlung gegründet?
+1. Auswanderer aus Luzern in der Schweiz gründeten sie.
+2. Bergleute aus dem Erzgebirge gründeten sie.
+3. Glasmacher aus Böhmen gründeten sie.
+4. Waldenser, die als Glaubensflüchtlinge kamen, gründeten sie.
 RÜCKSEITE:
 Du hattest [Option] getippt. Der Name erinnert an die Schweizer Stadt Luzern, deren französischer Name Lucerne lautet. Doch gegründet haben die Siedlung 1699 Waldenser, reformierte Glaubensflüchtlinge aus dem Queyras im Dauphiné und aus dem Piemont. Sie sprachen Französisch und weihten 1728 in Lucerne eine eigene Kirche ein. Richtig war 4. / Quelle: Landeskirchliches Archiv Stuttgart, wkgo.de; Landratsamt Enzkreis, enzkreis-geschichte.de
 WÖRTER RÜCKSEITE: 44
@@ -104,7 +110,13 @@ FAKT-ID: 269-wurmberg/003.grund
 GEWÄHLTER FAKT: Neubärental (Ortsteil), grund, Religionsflüchtlinge – Katholiken aus Bärenthal (Hohenzollern), zum Protestantismus übergetreten
 BEKANNTHEIT: niedrig – Die Gründungsgeschichte des Ortsteils ist außerhalb der Gegend unbekannt.
 VORDERSEITE:
-Wurmberg / Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim. / Der Wurmberger Ortsteil Neubärental wurde Anfang des 18. Jahrhunderts von Menschen aus Bärenthal in Hohenzollern gegründet. Welchen Grund für ihren Wegzug nennt die Ortsgeschichte? / 1. Ein Großbrand hatte ihr Heimatdorf zerstört. / 2. Eine Seuche hatte ihr Heimatdorf entvölkert. / 3. Ihr Heimatdorf musste einem Stausee weichen. / 4. Sie wurden wegen ihres reformierten Glaubens vertrieben.
+Wurmberg
+Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim.
+Der Wurmberger Ortsteil Neubärental wurde Anfang des 18. Jahrhunderts von Menschen aus Bärenthal in Hohenzollern gegründet. Welchen Grund für ihren Wegzug nennt die Ortsgeschichte?
+1. Ein Großbrand hatte ihr Heimatdorf zerstört.
+2. Eine Seuche hatte ihr Heimatdorf entvölkert.
+3. Ihr Heimatdorf musste einem Stausee weichen.
+4. Sie wurden wegen ihres reformierten Glaubens vertrieben.
 RÜCKSEITE:
 Du hattest [Option] getippt. Brände und Seuchen trieben damals viele Menschen aus ihren Dörfern, darum liegt das nahe. Doch die Siedler waren Reformierte, die aus Bärenthal ausgewiesen wurden. Als Glaubensflüchtlinge gründeten sie Neubärental, das kirchlich eng mit dem Waldenserort Lucerne verbunden war. Richtig war 4. / Quelle: Landratsamt Enzkreis, enzkreis-geschichte.de; LEO-BW
 WÖRTER RÜCKSEITE: 40
@@ -151,7 +163,13 @@ FAKT-ID: 269-wurmberg/027.betroffene_orte
 GEWÄHLTER FAKT: Tornado über Pforzheim (Ereignis), datum 10. Juli 1968, betroffene_orte: Neubärental (besonders schwer betroffen)
 BEKANNTHEIT: mittel – Der Pforzheimer Tornado von 1968 ist in der Region und unter Wetterkundigen bekannt. Dass er gerade Neubärental traf, wissen wenige.
 VORDERSEITE:
-Wurmberg / Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim. / Am 10. Juli 1968 traf ein Naturereignis Wurmberg und richtete große Schäden an Gebäuden an. Welches? / 1. Ein Erdbeben beschädigte viele Häuser. / 2. Ein Tornado zog über den Ort. / 3. Der Boden brach ein, Häuser sackten ab. / 4. Ein Waldbrand griff auf die Häuser über.
+Wurmberg
+Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim.
+Am 10. Juli 1968 traf ein Naturereignis Wurmberg und richtete große Schäden an Gebäuden an. Welches?
+1. Ein Erdbeben beschädigte viele Häuser.
+2. Ein Tornado zog über den Ort.
+3. Der Boden brach ein, Häuser sackten ab.
+4. Ein Waldbrand griff auf die Häuser über.
 RÜCKSEITE:
 Du hattest [Option] getippt. Wirbelstürme verbindet man eher mit Amerika als mit dem Heckengäu, darum denken viele zuerst an anderes. Doch an diesem Tag wütete ein Tornado über Wurmberg und beschädigte etwa 70 Häuser. Richtig war 2. / Quelle: Landeskirchliches Archiv Stuttgart, wkgo.de
 WÖRTER RÜCKSEITE: 38

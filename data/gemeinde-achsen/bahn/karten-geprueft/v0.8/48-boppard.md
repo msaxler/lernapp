@@ -6,7 +6,13 @@ FAKT-ID: 48-boppard/001.lage
 GEWÄHLTER FAKT: archäologischer Fundplatz unter Hauptbahnhof Boppard, lage: unterhalb einer Bimsschicht des Laacher-See-Ausbruchs, Baugrube unweit Hauptbahnhof
 BEKANNTHEIT: niedrig – der Fundplatz ist außerhalb der Fachwelt und der Region kaum bekannt.
 VORDERSEITE:
-Boppard / Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz. / In einer Baugrube nahe dem Hauptbahnhof fand man eine altsteinzeitliche Feuerstelle. Unter welcher Schicht lag sie laut Stadtgeschichte? / 1. Darüber lag Schutt eines Gletschers. / 2. Darüber lag Lava eines Vulkans im Hunsrück. / 3. Darüber lag Bims vom Ausbruch des Laacher Sees. / 4. Darüber lag Asche eines Waldbrands im Hunsrück.
+Boppard
+Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz.
+In einer Baugrube nahe dem Hauptbahnhof fand man eine altsteinzeitliche Feuerstelle. Unter welcher Schicht lag sie laut Stadtgeschichte?
+1. Darüber lag Schutt eines Gletschers.
+2. Darüber lag Lava eines Vulkans im Hunsrück.
+3. Darüber lag Bims vom Ausbruch des Laacher Sees.
+4. Darüber lag Asche eines Waldbrands im Hunsrück.
 RÜCKSEITE:
 Du hattest [Option] getippt. Über der altsteinzeitlichen Feuerstelle lag laut Stadtgeschichte Bims vom Ausbruch des Laacher Sees. Entdeckt hatten den Platz 2001 der Verein ARRATA und der Archäologe Wolfgang Welker. Spätere Grabungen der Landesarchäologie förderten Knochen vom Rothirsch und Pfeilspitzen zutage. Als besonderer Fund gilt ein verziertes Knochengerät. Richtig war 3.
 Quelle: Gemeinde-Webseite, www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/
@@ -47,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Laut Quelltext ist ein Besuch Barbarossas in Boppard belegt. Dass er dabei den Königshof besuchte, steht dort nicht. Richard von Cornwall „ließ den Bau beginnen“; die Karte sollte das nicht zu „ließ bauen“ verkürzen. Die Lüge in Aussage 3 widerlegt der Quelltext eindeutig, und der Titel „König“ ist durch „Nach der Krönung“ gedeckt.
+FAKTENCHECK: korrigiert – Laut Quelltext ist ein Besuch Barbarossas in Boppard belegt. Dass er dabei den Königshof besuchte, steht dort nicht. Richard von Cornwall „ließ den Bau beginnen“; die Karte sollte das nicht zu „ließ bauen“ verkürzen. Die Lüge in Aussage 3 widerlegt der Quelltext eindeutig, und der Titel „König“ ist durch „Nach der Krönung“ gedeckt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 48-boppard/003.nachnutzung
@@ -61,7 +67,7 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. König Richard von Cornwall ließ einen Bergfried bauen.
 3. Nach Abzug der Römer blieb das Kastell leer.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein verlassenes Römerlager klingt nach Ruinenromantik und passt zum Bild vom Untergang Roms. Doch nach dem Abzug der Römer bewohnte die Zivilbevölkerung das Kastell, und daraus entwickelte sich ein merowingischer Königssitz. Barbarossa besuchte tatsächlich den Königshof, und Richard von Cornwall ließ den Bergfried bauen. Die Lüge war 3.
+Du hattest [Option] getippt. Ein verlassenes Römerlager klingt nach Ruinenromantik und passt zum Bild vom Untergang Roms. Doch nach dem Abzug der Römer bewohnte die Zivilbevölkerung das Kastell weiter, und daraus wurde ein merowingischer Königssitz. Barbarossa besuchte tatsächlich Boppard, und Richard von Cornwall ließ den Bau des Bergfrieds am Rheinufer beginnen. Die Lüge war 3.
 Quelle: Gemeinde-Webseite, www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/
 WÖRTER RÜCKSEITE: 52
 NEGATIVNACHWEISE:
@@ -105,7 +111,13 @@ FAKT-ID: 48-boppard/035.erfindung
 GEWÄHLTER FAKT: Michael Thonet, geburtsort: Boppard, geburtsjahr: 1796, erfindung: Bugholztechnik (dazu 034: Grundschule seit 1995 nach ihm benannt)
 BEKANNTHEIT: mittel – Thonet-Stühle sind weltbekannt, Thonets Geburtsort Boppard kennen dagegen nur wenige.
 VORDERSEITE:
-Boppard / Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz. / Eine Grundschule in Boppard trägt den Namen eines 1796 hier geborenen Mannes. Wofür ist er bekannt? / 1. Er konstruierte Dampfschiffe für den Rhein. / 2. Er züchtete eine neue Rebsorte. / 3. Er entwickelte die Bugholztechnik. / 4. Er entwickelte eine neue Art der Schieferdeckung.
+Boppard
+Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz.
+Eine Grundschule in Boppard trägt den Namen eines 1796 hier geborenen Mannes. Wofür ist er bekannt?
+1. Er konstruierte Dampfschiffe für den Rhein.
+2. Er züchtete eine neue Rebsorte.
+3. Er entwickelte die Bugholztechnik.
+4. Er entwickelte eine neue Art der Schieferdeckung.
 RÜCKSEITE:
 Du hattest [Option] getippt. Am Rhein liegen Wein und Schifffahrt als Ruhmesquelle nahe. Doch der Mann war Michael Thonet. Er entwickelte die Bugholztechnik, bei der Holz in Form gebogen wird. Richtig war 3.
 Quelle: Gemeinde-Webseite, www.boppard.de/bildung-und-soziales/schulen/michael-thonet-schule-boppard/schule/geschichte-der-michael-thonet-schule/

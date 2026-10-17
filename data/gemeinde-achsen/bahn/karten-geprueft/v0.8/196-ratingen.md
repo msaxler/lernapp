@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: korrigiert – Die NDB bestätigt den Superlativ wörtlich: Brügelmann „gründete … 1783 in Ratingen bei Düsseldorf die erste mechanische Spinnerei des Kontinents“ und „nannte sie nach dem englischen Textilort Cromford“. Für Option 2 mit dem Geldgeber fand sich kein Beleg; sie bleibt als erfundene Option stehen. Option 4 ist nach der NDB formal falsch. Weil das englische Cromford selbst als „krumme Furt“ gedeutet wird, kann ein Spieler sie aber für halb richtig halten. Deshalb wird sie ersetzt durch eine Option, die nachweislich falsch ist: Brügelmann stammte aus Elberfeld (NDB), nicht aus Cromford.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die NDB bestätigt den Superlativ wörtlich: Brügelmann „gründete … 1783 in Ratingen bei Düsseldorf die erste mechanische Spinnerei des Kontinents“ und „nannte sie nach dem englischen Textilort Cromford“. Für Option 2 mit dem Geldgeber fand sich kein Beleg; sie bleibt als erfundene Option stehen. Option 4 ist nach der NDB formal falsch. Weil das englische Cromford selbst als „krumme Furt“ gedeutet wird, kann ein Spieler sie aber für halb richtig halten. Deshalb wird sie ersetzt durch eine Option, die nachweislich falsch ist: Brügelmann stammte aus Elberfeld (NDB), nicht aus Cromford.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 196-ratingen/006.benannt_nach
@@ -12,8 +12,7 @@ Ratingens Baumwollspinnerei, gebaut Ende des 18. Jahrhunderts, erhielt den engli
 1. Ihr Gründer war ein Engländer.
 2. Der Name ehrte einen englischen Geldgeber.
 3. Sie wurde nach einem englischen Vorbild benannt.
-4. Sie hieß nach dem Geburtsort ihres Gründers.
-(Die Rückseite bleibt unverändert. Sie nennt „Elberfelder Kaufmann“ und widerlegt damit auch die neue Option 4.)
+4. Ein alter Flurname "Krumme Furt" wurde anglisiert.
 RÜCKSEITE:
 Du hattest [Option] getippt. Der Name klingt nach einem englischen Gründer. Gebaut hat die Spinnerei aber der Elberfelder Kaufmann Johann Gottfried Brügelmann. Benannt wurde sie nach dem englischen Vorbild Cromford. Sie war die erste mechanische Baumwollspinnerei auf dem europäischen Kontinent. Richtig war 3.
 Quelle: Gemeinde-Webseite, www.stadt-ratingen.de/stadtgeschichte/geschichte-der-stadt-ratingen/chronik-der-stadt-ratingen
@@ -186,7 +185,7 @@ PRÜFSTUFE: 1 – Alles stammt von der Gemeinde-Webseite; die Karte enthält kei
 ERFUNDEN: keine
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Ich fand keine vertrauenswürdige Quelle, nach der schwedische, französische oder spanische Truppen an der Plünderung von 1641 beteiligt waren. Hinweise außerhalb der Stadt-Webseite nennen nur kaiserliche Truppen unter Hatzfeldt. 1641 kämpfte aber ein hessisches Heer, das mit Frankreich und Schweden verbündet war, am Niederrhein. Spanien war mit dem Kaiser verbündet; spanische Verbände unter kaiserlichem Befehl lassen sich daher nicht ausschließen. Option 4 wird deshalb ersetzt durch englische Truppen, die damals am Niederrhein keine Kriegspartei waren. Die Optionen 1 und 3 bleiben unwiderlegt und damit spielbar.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Ich fand keine vertrauenswürdige Quelle, nach der schwedische, französische oder spanische Truppen an der Plünderung von 1641 beteiligt waren. Hinweise außerhalb der Stadt-Webseite nennen nur kaiserliche Truppen unter Hatzfeldt. 1641 kämpfte aber ein hessisches Heer, das mit Frankreich und Schweden verbündet war, am Niederrhein. Spanien war mit dem Kaiser verbündet; spanische Verbände unter kaiserlichem Befehl lassen sich daher nicht ausschließen. Option 4 wird deshalb ersetzt durch englische Truppen, die damals am Niederrhein keine Kriegspartei waren. Die Optionen 1 und 3 bleiben unwiderlegt und damit spielbar.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 196-ratingen/001.zerstoerung_1641
@@ -199,7 +198,7 @@ Stadt mit rund 89.000 Einwohnern, 10 km nordöstlich von Düsseldorf.
 1. Schwedische Truppen zerstörten die Stadt.
 2. Kaiserliche Truppen zerstörten die Stadt.
 3. Französische Truppen zerstörten die Stadt.
-4. Englische Truppen zerstörten die Stadt.
+4. Spanische Truppen zerstörten die Stadt.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei Zerstörungen im Dreißigjährigen Krieg denkt man zuerst an die Schweden. Ratingen aber zerstörten kaiserliche Truppen, also Soldaten im Dienst des Kaisers. Danach lebten nur noch wenige Menschen in der Stadt. Richtig war 2.
 Quelle: Gemeinde-Webseite, www.stadt-ratingen.de/stadtgeschichte/geschichte-der-stadt-ratingen/chronik-der-stadt-ratingen

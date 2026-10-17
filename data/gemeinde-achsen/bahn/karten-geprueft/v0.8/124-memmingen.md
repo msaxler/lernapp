@@ -111,7 +111,13 @@ FAKT-ID: 124-memmingen/010.beschreibung
 GEWÄHLTER FAKT: Fischertag (event), beschreibung, Leerfischen des Stadtbachs innerhalb der Altstadt mit ca. 1500 Fischern
 BEKANNTHEIT: mittel – Der Fischertag ist in Süddeutschland bekannt, darüber hinaus kaum.
 VORDERSEITE:
-Memmingen / Rund 44.000 Einwohner, 48 km südlich von Ulm. / Jedes Jahr im Sommer feiert Memmingen den Fischertag. Was geschieht dabei im Kern? 1. Fischer fischen den Stadtbach in der Altstadt leer. 2. Fischer fahren in geschmückten Booten die Iller hinab. 3. Die Stadt setzt Jungfische in die Iller aus. 4. Fischer fischen einen Weiher vor der Stadt leer.
+Memmingen
+Rund 44.000 Einwohner, 48 km südlich von Ulm.
+Jedes Jahr im Sommer feiert Memmingen den Fischertag. Was geschieht dabei im Kern?
+1. Fischer fischen den Stadtbach in der Altstadt leer.
+2. Fischer fahren in geschmückten Booten die Iller hinab.
+3. Die Stadt setzt Jungfische in die Iller aus.
+4. Fischer fischen einen Weiher vor der Stadt leer.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei Fischen denkt man an die Iller oder an Weiher vor der Stadt. Doch beim Fischertag fischen zahlreiche Fischer den Stadtbach mitten in der Altstadt leer. Wer die schwerste Forelle fängt, wird Fischerkönig. Richtig war 1.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Memmingen
@@ -213,7 +219,13 @@ FAKT-ID: 124-memmingen/014.ereignis
 GEWÄHLTER FAKT: Wallenstein (person), ereignis, Absetzung als Oberbefehlshaber der Kaiserlichen (während des Aufenthalts in Memmingen 1630, einige Wochen)
 BEKANNTHEIT: mittel – Wallenstein ist bekannt, seine Absetzung während der Zeit in Memmingen weniger.
 VORDERSEITE:
-Memmingen / Rund 44.000 Einwohner, 48 km südlich von Ulm. / Im Dreißigjährigen Krieg hielt sich Wallenstein im Sommer 1630 mit seinem Heer in Memmingen auf. Was geschah in dieser Zeit? 1. Er belagerte die Stadt vergeblich von außen. 2. Er heiratete eine Memminger Kaufmannstochter. 3. Er schloss dort Frieden mit den Schweden. 4. Er wurde als Oberbefehlshaber der Kaiserlichen abgesetzt.
+Memmingen
+Rund 44.000 Einwohner, 48 km südlich von Ulm.
+Im Dreißigjährigen Krieg hielt sich Wallenstein im Sommer 1630 mit seinem Heer in Memmingen auf. Was geschah in dieser Zeit?
+1. Er belagerte die Stadt vergeblich von außen.
+2. Er heiratete eine Memminger Kaufmannstochter.
+3. Er schloss dort Frieden mit den Schweden.
+4. Er wurde als Oberbefehlshaber der Kaiserlichen abgesetzt.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Feldherr bei einer Stadt klingt nach Belagerung. Doch Wallenstein hielt sich in der Stadt auf, nicht vor ihr. Im September 1630 überbrachten ihm dort kaiserliche Gesandte seine Absetzung als Oberbefehlshaber der Kaiserlichen. Richtig war 4.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Memmingen

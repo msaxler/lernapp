@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Alle drei Aussagen sind belegt, und die Lüge (Gitter) ist durch den QUELLTEXT widerlegt. In Aussage 1 steht aber „Kaufhaus der Stadt“, und dass das Kaufhaus der Stadt gehörte, steht nicht im QUELLTEXT. Er sagt nur, das heutige Rathaus diente einst als Kaufhaus. Die Aussagen 1 und 2 stammen aus der Stadtgeschichte, die Quellenzeile nennt aber nur die Seite zum Stadtkern.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Alle drei Aussagen sind belegt, und die Lüge (Gitter) ist durch den QUELLTEXT widerlegt. In Aussage 1 steht aber „Kaufhaus der Stadt“, und dass das Kaufhaus der Stadt gehörte, steht nicht im QUELLTEXT. Er sagt nur, das heutige Rathaus diente einst als Kaufhaus. Die Aussagen 1 und 2 stammen aus der Stadtgeschichte, die Quellenzeile nennt aber nur die Seite zum Stadtkern.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 76-loeffingen/065.form
@@ -63,7 +63,7 @@ VORDERSEITE:
 Löffingen
 Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-1. Das heutige Rathaus diente früher als Kaufhaus.
+1. Das Rathaus war früher ein Kaufhaus der Stadt.
 2. Die Dreifeldsporthalle steht auf dem Fundament eines Hallenbads.
 3. Die Altstadt ist ein rechtwinkliges Gitter aus Straßen.
 RÜCKSEITE:

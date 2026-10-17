@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Stadt Kamen nennt ein Siegel von 1284 als ihr ältestes erhaltenes Stadtsiegel. Dass darauf ein Rad zu sehen war (unter dem Schachbalken), steht nur auf heraldry-wiki, und das gilt nicht als Beleg. Auch die Deutung als Mühlen an der Seseke steht weiterhin nur bei Wikipedia. Das „soll“ bleibt deshalb stehen, und die Rückseite sagt jetzt „wohl“. Die Option 3 (Wagenbauerzunft) ließ sich nicht widerlegen. Ich ersetze sie durch die Grafen von der Mark: Deren Zeichen ist der Schachbalken, nicht das Rad.
+FAKTENCHECK: korrigiert – Die Stadt Kamen nennt ein Siegel von 1284 als ihr ältestes erhaltenes Stadtsiegel. Dass darauf ein Rad zu sehen war (unter dem Schachbalken), steht nur auf heraldry-wiki, und das gilt nicht als Beleg. Auch die Deutung als Mühlen an der Seseke steht weiterhin nur bei Wikipedia. Das „soll“ bleibt deshalb stehen, und die Rückseite sagt jetzt „wohl“. Die Option 3 (Wagenbauerzunft) ließ sich nicht widerlegen. Ich ersetze sie durch die Grafen von der Mark: Deren Zeichen ist der Schachbalken, nicht das Rad.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 203-kamen/066.kammrad
@@ -14,7 +14,7 @@ Kamens Stadtwappen zeigt ein Kammrad. Worauf soll sich dieses Zeichen beziehen?
 3. Es ist das Zeichen einer Wagenbauerzunft.
 4. Es erinnert an frühe Mühlen am Fluss.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Zahnrad im Ruhrgebiet lässt an Zechen oder Eisenbahn denken. Doch das Kammrad, ein Zahnrad aus dem Mühlenwerk, stand schon auf dem Stadtsiegel von 1284. Es soll sich auf früh nachgewiesene Mühlen an der Seseke beziehen. Der Schachbalken im Wappen erinnert an die frühere Zugehörigkeit zur Grafschaft Mark. Richtig war 4.
+Du hattest [Option] getippt. Ein Zahnrad im Ruhrgebiet lässt an Zechen oder Eisenbahn denken. Doch ein Rad zeigte wohl schon das älteste erhaltene Stadtsiegel von 1284. Das Kammrad, ein Zahnrad aus dem Mühlenwerk, soll sich auf früh nachgewiesene Mühlen an der Seseke beziehen. Der Schachbalken im Wappen steht für die Grafschaft Mark. Richtig war 4.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Kamen
 WÖRTER RÜCKSEITE: 55
 NEGATIVNACHWEISE:
@@ -185,7 +185,7 @@ PRÜFSTUFE: 2 – Der Fakt stammt nur aus Wikipedia, und die Rückseite nennt zu
 ERFUNDEN: 1, 3, 4
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Laut Hellweger Anzeiger (5.10.2026) steht am Kamener Kreuz bis heute ein Hubschrauber mit acht Engeln aus Stahl, seit etwa 15 Jahren. Der Artikel heißt aber „Populärer Irrtum … Was viele über den Hubschrauber nicht wissen“, und die Adresse enthält „bundeswehr“. Die Herkunft als ADAC-Hubschrauber ist also zweifelhaft und wird gestrichen. Die Lage im Nordwesten und der Umbau des früheren Kleeblatts sind unbelegt und fallen weg.
+FAKTENCHECK: korrigiert – Laut Hellweger Anzeiger (5.10.2026) steht am Kamener Kreuz bis heute ein Hubschrauber mit acht Engeln aus Stahl, seit etwa 15 Jahren. Der Artikel heißt aber „Populärer Irrtum … Was viele über den Hubschrauber nicht wissen“, und die Adresse enthält „bundeswehr“. Die Herkunft als ADAC-Hubschrauber ist also zweifelhaft und wird gestrichen. Die Lage im Nordwesten und der Umbau des früheren Kleeblatts sind unbelegt und fallen weg.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 203-kamen/054.besonderheit
@@ -200,7 +200,7 @@ Am Kamener Kreuz treffen sich die A 1 und die A 2. Was steht dort im Nordwesten 
 3. Dort steht ein ehemaliger ADAC-Hubschrauber.
 4. Dort steht ein alter Lastwagen auf einem Sockel.
 RÜCKSEITE:
-Du hattest [Option] getippt. Im Ruhrgebiet läge ein Denkmal des Bergbaus nahe, etwa ein Förderturm. Doch im Nordwesten des Kreuzes steht ein ehemaliger ADAC-Hubschrauber auf künstlerisch gestalteten Stahlplatten. Das Kreuz war früher ein reines Kleeblatt und wurde für mehr Verkehrsdurchsatz umgebaut. Richtig war 3.
+Du hattest [Option] getippt. Im Ruhrgebiet läge ein Denkmal des Bergbaus nahe, etwa ein Förderturm. Doch am Kamener Kreuz steht seit rund 15 Jahren ein ausgemusterter Hubschrauber, umgeben von acht Engeln aus Stahl. Er erinnert an die ‚Gelben Engel‘, die Pannenhelfer auf der Autobahn. Richtig war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Kamen
 WÖRTER RÜCKSEITE: 44
 NEGATIVNACHWEISE:

@@ -6,7 +6,13 @@ FAKT-ID: 378-kilchberg-tuebingen/002.erste_nennung_anlass
 GEWÄHLTER FAKT: ort Kilchberg; erste_nennung: 1236; erste_nennung_anlass: Verheiratung Adelheid mit Kuno von Münzenberg durch Pfalzgraf Wilhelm von Tübingen; erste_nennung_urkunde_zeuge: Heynrikus de Kirchperc
 BEKANNTHEIT: niedrig – den Anlass der ersten Nennung kennt man nur aus der Ortsgeschichte.
 VORDERSEITE:
-Kilchberg / Stadtteil von Tübingen mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie). / Als erste Nennung Kilchbergs gilt eine Urkunde von 1236. In welchem Zusammenhang? / 1. Ein Kloster erhielt den Ort als Schenkung. / 2. Ein Streit um Weiderechte wurde beigelegt. / 3. Eine Steuerliste führte das Dorf auf. / 4. Ein Zeuge einer Adelsheirat hieß nach dem Ort.
+Kilchberg
+Stadtteil von Tübingen mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie).
+Als erste Nennung Kilchbergs gilt eine Urkunde von 1236. In welchem Zusammenhang?
+1. Ein Kloster erhielt den Ort als Schenkung.
+2. Ein Streit um Weiderechte wurde beigelegt.
+3. Eine Steuerliste führte das Dorf auf.
+4. Ein Zeuge einer Adelsheirat hieß nach dem Ort.
 RÜCKSEITE:
 Du hattest [Option] getippt. Pfalzgraf Wilhelm von Tübingen verheiratete seine Tochter Adelheid mit Kuno von Münzenberg. In der Urkunde steht als Zeuge Heynrikus de Kirchperc. Eine Klosterschenkung liegt nahe, weil viele Orte zuerst in Klosterbüchern auftauchen. Richtig war 4.
 Quelle: Gemeinde-Webseite, www.tuebingen.de/153/398.html
@@ -159,7 +165,13 @@ FAKT-ID: 378-kilchberg-tuebingen/012.ehemann
 GEWÄHLTER FAKT: person Ernestine Philippine Wilhelmine Haas; herkunft: Pfarrerstochter aus Kilchberg; ehemann: Johann Friedrich Cotta; ehemann_beruf: Verleger Schillers und Goethes
 BEKANNTHEIT: mittel – Cotta, Schiller und Goethe sind bekannt, die Heirat mit einer Kilchberger Pfarrerstochter nicht.
 VORDERSEITE:
-Kilchberg / Tübinger Stadtteil mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie). / Wilhelmine Haas war eine Pfarrerstochter aus Kilchberg. Wen heiratete sie? / 1. Den Dichter Friedrich Schiller / 2. Den Verleger Johann Friedrich Cotta / 3. Den Philosophen Georg Wilhelm Friedrich Hegel / 4. Den Dichter Christoph Martin Wieland
+Kilchberg
+Tübinger Stadtteil mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie).
+Wilhelmine Haas war eine Pfarrerstochter aus Kilchberg. Wen heiratete sie?
+1. Den Dichter Friedrich Schiller
+2. Den Verleger Johann Friedrich Cotta
+3. Den Philosophen Georg Wilhelm Friedrich Hegel
+4. Den Dichter Christoph Martin Wieland
 RÜCKSEITE:
 Du hattest [Option] getippt. Wilhelmine Haas heiratete Johann Friedrich Cotta, den Verleger Schillers und Goethes. Schiller liegt nahe, weil man bei Schwaben und Literatur zuerst an ihn denkt. Richtig war 2. / Quelle: Deutsche Biographie, deutsche-biographie.de/pnd118961675.html
 WÖRTER RÜCKSEITE: 31

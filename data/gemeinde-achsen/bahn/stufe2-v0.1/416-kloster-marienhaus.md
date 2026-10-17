@@ -1,57 +1,45 @@
 ## Karte 1
-URTEIL: korrigiert
-BEFUND: Laut der Ordenswebseite gründeten die Schwestern die GmbH, um ihre Einrichtungen „rechtlich auf ein sicheres und dauerhaftes Fundament“ zu stellen. Vorher musste Grundbesitz auf einzelne Schwestern eingetragen werden, das war bei Todesfällen „unpraktisch und kostspielig“. Die GmbH wurde deshalb „Vermögensträgerin“; ihr Satzungszweck war die „Errichtung und Verwaltung von Kranken- und sonstigen Wohltätigkeits-Anstalten“. Die Vermögenssicherung ist also tatsächlich der Gründungsgrund, „binden“ gibt ihn aber ungenau wieder. Die Optionen 1, 2 und 4 sind weder belegt noch Mitursachen.
-BELEG: https://www.waldbreitbacher-franziskanerinnen.de/unsere-gemeinschaft/unsere-geschichte/marienhaus-unternehmensgruppe
-BERICHTIGT: VORDERSEITE Option 3: „Sie sollte den Besitz des Ordens rechtlich sichern.“ – RÜCKSEITE: „Du hattest [Option] getippt. Bei einer Firma denkt man zuerst an Gewinn, deshalb liegt das Geldverdienen nahe. Die Schwestern wollten aber ihren Besitz rechtlich sichern, denn bis dahin standen die Häuser auf den Namen einzelner Schwestern. Die GmbH trug Krankenhäuser und andere soziale Einrichtungen. Richtig war 3.
-Quelle: Waldbreitbacher Franziskanerinnen, waldbreitbacher-franziskanerinnen.de/unsere-gemeinschaft/unsere-geschichte/marienhaus-unternehmensgruppe“
+URTEIL: unsicher
+BEFUND: Ein Denkmalverzeichnis des Kreises Neuwied (Anlage eines Planungsverfahrens) belegt, dass 1886/87 die neugotische Klosterkirche entstand und das erste Mutterhaus durch einen viergeschossigen Neubau ersetzt wurde. Dass Agatha Simons diese Bauten veranlasste und von 1878 bis 1905 Generaloberin war, steht weiter nur in Wikipedia. Auch der Artikel „Kloster Marienhaus“ schränkt mit „im Wesentlichen“ ein, deshalb gehört die Einschränkung auf die Karte. Dass Bonner, Gomm oder Eberhard an späteren Bauabschnitten beteiligt waren, habe ich nirgends gefunden; die NDB nennt Eberhard nur 1869 als den Bischof, der die Satzungen bestätigte.
+BELEG: uvp-verbund.de/documents-ige-ng/igc_rp/CB9D53BA-87AF-4EBD-876D-79CA4CD367F0/Anlage%202%20-%20Denkmaeler.pdf (Bauten 1886/87); www.deutsche-biographie.de/sfz16442.html (Eberhard 1869); für Agatha Simons als Bauherrin keiner gefunden
+BERICHTIGT: RÜCKSEITE: Du hattest [Option] getippt. Eine Mitgründerin wie Maria Bonner liegt nahe, denn wer einen Orden gründet, baut oft auch sein Haus. Seine heutige Gestalt erhielt das Kloster aber im Wesentlichen unter Agatha Simons. Damals entstanden die neugotische Klosterkirche und ein neues Mutterhaus. Sie leitete den Orden als Generaloberin nach Rosa Flesch. Richtig war 3.
 
 ## Karte 2
-URTEIL: korrigiert
-BEFUND: Nach der Ordenswebseite erwarb Rosa Flesch das Land 1857 „von einem Bauern“. Laut Heimatjahrbuch des Kreises Ahrweiler (1964) war es „ein unfruchtbares, mit Dornen und Ginstern bewachsenes Gelände“, das erste Haus wurde 1861 bezogen. Einen „günstigen Preis“ und ausdrücklich einen Kauf nennt außer Wikipedia keine Quelle, deshalb steht jetzt „erwarb“ statt „kaufte“. Das „zuerst“ ist belegt, denn der Orden spricht vom „ersten Marienhaus“ von 1861.
-BELEG: https://www.waldbreitbacher-franziskanerinnen.de/unsere-gemeinschaft/unsere-geschichte/ordensgeschichte ; https://heimatjahrbuch.kreis-ahrweiler.de/die-macht-der-ohnmacht/ ; https://www.waldbreitbacher-franziskanerinnen.de/selige-mutter-m-rosa/biografie-der-seligen-mutter-m-rosa
-BERICHTIGT: VORDERSEITE Option 4: „Sie erwarb karges, unbebautes Land von einem Bauern.“ – RÜCKSEITE: „Du hattest [Option] getippt. Eine Schenkung liegt nahe, denn viele Klöster entstanden auf gestiftetem Grund. Rosa Flesch erwarb aber von einem Bauern unfruchtbares Gelände voller Dornen und Ginster. Darauf entstand 1861 das erste Marienhaus. Richtig war 4.
-Quelle: Waldbreitbacher Franziskanerinnen, waldbreitbacher-franziskanerinnen.de (Ordensgeschichte); Heimatjahrbuch Kreis Ahrweiler 1964“
+URTEIL: unsicher
+BEFUND: Nach einer örtlichen Geschichtsseite wurde das Haus 1901–1903 als Volksheilstätte für Lungenkranke gebaut und am 1. Juli 1903 eröffnet. „Anfang des 20. Jahrhunderts“ stimmt also; die Klinikseite irrt mit „vorletzten Jahrhunderts“. Die Geschichtsseite gehört zwei Privatleuten und zählt nicht als Beleg. Erst 1920 übernahm die LVA Rheinprovinz das Haus, Bauherr war ein Heilstätten-Verband im Regierungsbezirk Koblenz. Eine Nutzung als Hotel, Kurhaus oder Waisenhaus ist nirgends erwähnt. „Luftkurort“ habe ich nur auf Wikipedia und Werbeseiten gefunden, deshalb fällt der Satz weg.
+BELEG: www.westerwaldklinik.de/die-klinik/historie.html (Tuberkulose-Sanatorium, LVA Rheinprovinz); als Wegweiser, kein Beleg: www.altes-waldbreitbach.de/hauser-bauwerke/commende/ (1901–1903, LVA ab 1920)
+BERICHTIGT: VORDERSEITE: Kloster Marienhaus / Kloster Marienhaus ist ein Ortsteil von Waldbreitbach, 24 km nordwestlich von Koblenz. / Waldbreitbach liegt waldreich im Wiedtal. Wofür entstand die heutige Westerwaldklinik Anfang des 20. Jahrhunderts? / Optionen 1–4 unverändert.
+RÜCKSEITE: Du hattest [Option] getippt. Ein Kurhotel liegt nahe, denn waldreiche Täler lockten Sommergäste mit frischer Luft. Gute Luft suchten aber auch Lungenheilstätten: Das Haus begann als Sanatorium zur Behandlung der Tuberkulose, ab 1920 getragen von der Landesversicherungsanstalt Rheinprovinz. Heute ist es eine Klinik für neurologische Rehabilitation. Richtig war 4.
 
 ## Karte 3
-URTEIL: korrigiert
-BEFUND: Die Gründung durch drei Frauen ist belegt: „Einkleidung von Margaretha Flesch und ihren zwei Gefährtinnen Maria Bonner und Gertrud Beißel“. Beim Jahr der päpstlichen Anerkennung widersprechen sich die Quellen: Das Erzbistum Köln nennt 1913, Wikipedia den 12.12.1912. Pius X. war in beiden Jahren Papst. Aussage 3 verzichtet deshalb auf die Jahreszahl.
-BELEG: https://www.waldbreitbacher-franziskanerinnen.de/unsere-gemeinschaft/unsere-geschichte/ordensgeschichte ; https://www.erzbistum-koeln.de/erzbistum/orden/frauenorden/franziskanerinnen_von_der_allerseligsten_jungfrau_maria_von_den_engeln/index.html
-BERICHTIGT: VORDERSEITE Aussage 3: „Unter Papst Pius X. wurde der Orden päpstlich anerkannt.“ – RÜCKSEITE: „Du hattest [Option] getippt. Wer zwei Aussagen mit demselben Papst sieht, ahnt den Haken: Unter Pius X. wurde der Orden erst kurz vor dem Ersten Weltkrieg anerkannt. Die erste Ordensregel bestätigte 1869 dagegen Matthias Eberhard, der Bischof von Trier. Die Lüge war 2.
-Quelle: Waldbreitbacher Franziskanerinnen (Ordensgeschichte); Erzbistum Köln; deutsche-biographie.de“
+URTEIL: bestätigt
+BEFUND: Der BRF berichtet, dass Kardinal Meisner Rosa Flesch im Auftrag des Papstes im Trierer Dom seligsprechen sollte; das Dokument des Heiligen Stuhls ist auf den 4. Mai 2008 datiert. Laut Heiligem Stuhl ließ sie sich 1851 „in der Einsiedelei neben der Kapelle des Heiligen Kreuzes“ nieder, und Kuladig nennt eine Klause. „Eremitenwohnung“ ist damit gedeckt, und „jahrelang“ stimmt bei Einzug 1850 wie 1851. Dass der Vater eine Ölmühle betrieb, belegt Kuladig.
+BELEG: brf.be/regional/45924; www.vatican.va/news_services/liturgy/saints/2008/ns_lit_doc_20080504_margaret-flesch_sp.html; www.kuladig.de/Objektansicht/Drucken/O-99702-20140814-7
+BERICHTIGT: –
 
 ## Karte 4
-URTEIL: korrigiert
-BEFUND: Drei Seiten nennen den Trierer Dom und den 4. Mai 2008 als Ort und Tag der Seligsprechung: der Orden, die Marienhaus-Stiftung und die Webseite des Trierer Doms. Den Ölmüller bestätigt der Orden ebenfalls. Nach der Ordensbiografie nahm sie den Namen Maria Rosa 1863 bei ihrer Einkleidung an; der Halbsatz zum Ordensnamen wird entsprechend ersetzt.
-BELEG: https://www.waldbreitbacher-franziskanerinnen.de/selige-mutter-m-rosa/biografie-der-seligen-mutter-m-rosa ; https://www.trierer-dom.de/bauwerk/ausstattung-des-doms/seligen-figuren/page/index.html ; https://www.marienhaus-stiftung.de/wir-ueber-uns/selige-rosa-flesch
-BERICHTIGT: RÜCKSEITE: „Du hattest [Option] getippt. Der Ölmüller klingt am ungewöhnlichsten, stimmt aber. Getauft wurde sie als Margaretha Flesch; Maria Rosa war ihr Ordensname, den sie 1863 bei ihrer Einkleidung annahm. Seliggesprochen wurde sie im Trierer Dom. Die Lüge war 3.
-Quelle: Waldbreitbacher Franziskanerinnen (Biografie Mutter M. Rosa), trierer-dom.de, deutsche-biographie.de“
+URTEIL: unsicher
+BEFUND: Die zögerliche Genehmigung durch Pfarrer Gomm und das Fenster mit Mutter Rosa in der Pfarrkirche fand ich nur in Wikipedia und Kopien davon. Die Lüge ist belegt: Laut NDB ließ Rosa Flesch 1861 auf erworbenem Land neu bauen, und die Kreuzkapelle gegenüber stammt erst von 1694. Ein mittelalterliches Kloster stand dort also nicht. 1863 wurde der Orden gegründet, nicht das Kloster.
+BELEG: www.deutsche-biographie.de/sfz16442.html; www.kuladig.de/Objektansicht/Drucken/O-99702-20140814-7; für die Aussagen 1 und 2 keiner gefunden
+BERICHTIGT: RÜCKSEITE: Du hattest [Option] getippt. Ein Kloster auf dem Berg wirkt mittelalterlich, und das Fenster klingt nach Ausschmückung. Doch es zeigt Mutter Rosa im Zug der Ordensleute, und auch der zögerliche Pfarrer stimmt. Das Kloster bauten keine Mönche, sondern Rosa Flesch ab 1861; 1863 gründete sie mit zwei Gefährtinnen den Orden. Die Lüge war 3.
 
 ## Karte 5
-URTEIL: unsicher
-BEFUND: Agatha Simons als Bauherrin der heutigen Anlage habe ich in keiner vertrauenswürdigen Quelle gefunden, auch nicht im Denkmalverzeichnis. Laut Wikipedia („Kloster Marienhaus“) entstanden unter ihr die Mutterhauskirche 1886/87, der Neubau des Mutterhauses 1888 und eine Erweiterung 1901. Das erste Haus von Rosa Flesch wurde danach abgerissen, deshalb ist Option 2 für die heutige Gestalt nicht haltbar. Nur spielbar mit dem Vorbehalt „weitgehend“, wie unten angegeben.
-BELEG: keiner gefunden
-BERICHTIGT: VORDERSEITE Frage: „Unter wem erhielt das Kloster Marienhaus weitgehend seine heutige Gestalt?“, die Optionen sinngemäß angepasst (z. B. „3. Unter Generaloberin Agatha Simons.“). – RÜCKSEITE: „Du hattest [Option] getippt. Die Gründerin liegt nahe, denn Rosa Flesch hatte den Orden gegründet. Weitgehend heutige Gestalt erhielt das Kloster aber unter ihrer Nachfolgerin als Generaloberin, also Leiterin des Ordens, Agatha Simons. Richtig war 3.
-Quelle: de.wikipedia.org/wiki/Kloster_Marienhaus (Wikipedia, kein zweiter Beleg)“
+URTEIL: korrigiert
+BEFUND: Die Klinikseite bestätigt den heutigen Stand: Psychiatrie, Psychotherapie und Psychosomatik nur für Erwachsene. Sie nennt St. Antonius „Akademisches Lehrkrankenhaus der Johannes Gutenberg-Universität Mainz“ und „Lehrkrankenhaus der Universität Maastricht“. Als Betreiber nennen Klinikseite und kliniken.de die Marienhaus-Gruppe bzw. die Marienhaus Kliniken GmbH, dazu die enge Verbindung zum Orden. Eine Trägerschaft der „Stiftung der Franziskanerinnen“ fand ich nicht belegt.
+BELEG: www.marienhaus-klinikum.de/abteilungen-zentren-und-fachbereiche/st-antonius-waldbreitbach/klinik-fuer-psychiatrie-psychotherapie-und-psychosomatik
+BERICHTIGT: VORDERSEITE: … / Das Marienhaus Klinikum St. Antonius in Waldbreitbach gehört zur Marienhaus-Gruppe, die eng mit den Franziskanerinnen verbunden ist. Worauf ist es spezialisiert? / Optionen 1–4 unverändert.
+RÜCKSEITE: Du hattest [Option] getippt. Eine Kinderklinik liegt nahe, denn Ordensschwestern verbindet man mit der Pflege von Kindern und Müttern. St. Antonius ist aber ein Haus für Psychiatrie, Psychotherapie und Psychosomatik, dazu akademisches Lehrkrankenhaus der Universität Mainz und Lehrkrankenhaus der Universität Maastricht. Richtig war 3.
 
 ## Karte 7
-URTEIL: korrigiert
-BEFUND: Der Einzug im Herbst 1851 ist dreifach belegt: Orden, Vatikan und KuLaDig. Die Angabe 1850 der NDB steht allein. Den Auszug 1860 belegt der Vatikan: Der Pfarrer lud sie 1860 ein, in Räume in Hausen zu ziehen. Option 2 stützt sich nicht als zweite Wahrheit. Die „Vikarie-Wohnung“ der NDB ist dieselbe Klause an der Kreuzkapelle, und sie war dort weder Magd noch im Pfarrhaus. Orden und Vatikan nennen die leibliche Schwester „Marianne“.
-BELEG: https://www.waldbreitbacher-franziskanerinnen.de/selige-mutter-m-rosa/biografie-der-seligen-mutter-m-rosa ; https://www.vatican.va/news_services/liturgy/saints/2008/ns_lit_doc_20080504_margaret-flesch_en.html ; https://www.kuladig.de/Objektansicht/O-99702-20140814-7
-BERICHTIGT: RÜCKSEITE: „Du hattest [Option] getippt. Ein Pfarrhaus liegt nahe, weil fromme Frauen oft dem Pfarrer den Haushalt führten. Rosa Flesch lebte aber mit ihrer kranken Schwester Marianne in einer Eremitenwohnung, also einer Einsiedlerklause, an der Kapelle. Richtig war 1.
-Quelle: Waldbreitbacher Franziskanerinnen (Biografie Mutter M. Rosa), vatican.va, kuladig.de“
-
-## Karte 8
-URTEIL: korrigiert
-BEFUND: Laut Heimatjahrbuch 1964 lehnte Pfarrer Gomm die Bitte zunächst ab („Pfarrer Gomm lehnte diese Bitte ab“). Am 11. Januar 1863 schickte er dann selbst ein Genehmigungsgesuch an den Bischof. Der Orden schreibt, er habe „in einer Ordensgründung keinen Sinn“ gesehen. Option 1 traf für den Anfang also zu und muss ersetzt werden; Option 2 bleibt richtig.
-BELEG: https://heimatjahrbuch.kreis-ahrweiler.de/die-macht-der-ohnmacht/ ; https://www.waldbreitbacher-franziskanerinnen.de/unsere-gemeinschaft/unsere-geschichte/ordensgeschichte
-BERICHTIGT: VORDERSEITE Option 1: „Er lehnte sie bis zuletzt ab.“ – RÜCKSEITE: „Du hattest [Option] getippt. Bei einem engen Vertrauten erwartet man Begeisterung. Jakob Gomm, der Pfarrer von Waldbreitbach, hielt eine Ordensgründung aber zunächst für sinnlos und wies die Bitte ab. Erst 1863 unterstützte er sie zögerlich beim Bischof. Richtig war 2.
-Quelle: Waldbreitbacher Franziskanerinnen (Ordensgeschichte); Heimatjahrbuch Kreis Ahrweiler 1964“
+URTEIL: unsicher
+BEFUND: 900 Schwestern in 67 Niederlassungen im Todesjahr fand ich nur in Wikipedia und Kopien davon. Die NDB nennt 21 Niederlassungen schon für 1875 und 1957 erst 1.276 Schwestern in 98 Häusern. Eine Zahl unter 1.000 für 1906 ist danach plausibel, aber nicht belegt. Für 1878 ist der Anhalt „über 100“ treffender, und die Rückseite sollte „im Todesjahr“ sagen.
+BELEG: www.deutsche-biographie.de/sfz16442.html (nur Rahmenzahlen 1875 und 1957); für 900/67 keiner gefunden
+BERICHTIGT: VORDERSEITE: Kloster Marienhaus / Kloster Marienhaus bei Waldbreitbach, 24 km nordwestlich von Koblenz, ist Mutterhaus eines Ordens, der im Jahr 1878 gut 100 Schwestern zählte. / Frage und Optionen unverändert.
+RÜCKSEITE: Du hattest [Option] getippt. Wer weiß, wie schnell manche Orden wuchsen, landet leicht über 1.000. Im Todesjahr von Rosa Flesch waren es 900 Schwestern in 67 Niederlassungen. Richtig war 1.
 
 ## ÜBERSICHT
-bestätigt: 0
-korrigiert: 6
-unsicher: 1
+bestätigt: 1
+korrigiert: 1
+unsicher: 4
 gesperrt: 0
-Suchen insgesamt: 14
-
-Hinweis: Das Heimatjahrbuch des Kreises Ahrweiler und die Ordenswebseite (Orden zu seiner eigenen Geschichte) habe ich als vertrauenswürdig gewertet. Wenn das Heimatjahrbuch nicht zählt, stehen Karte 2 und Karte 8 jeweils nur noch auf der Ordenswebseite.
+Suchen insgesamt: 15 (Karte 1: 4, Karte 2: 4, Karte 3: 1, Karte 4: 3, Karte 5: 2, Karte 7: 1), dazu 10 Seitenabrufe; zwei PDF-Abrufe (Hirtenbrief Bistum Trier, Krankenhausverzeichnis) ließen sich nicht lesen.

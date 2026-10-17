@@ -158,7 +158,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 7
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Stadt vergibt den Ludwig-Beck-Preis für Zivilcourage weiter, zuletzt für 2025, überreicht am 23. Januar 2026. Ihr zweiter Preis, der Preis für Bürgermut, ist nach keiner Person benannt, also bleiben die Optionen 2 bis 4 falsch. Eine jährliche Vergabe ist nicht belegt: Die Vergaben 2023 und 2025 sprechen eher für einen anderen Rhythmus. „Jährlich“ wird deshalb gestrichen. Dass Beck aus Wiesbaden stammt, habe ich nicht in einer zweiten Quelle gefunden. Ich lasse den Satz trotzdem stehen, weil Beck in Biebrich geboren wurde, das heute zu Wiesbaden gehört. Diese Herkunftsangabe sollte noch nachgeprüft werden.
+FAKTENCHECK: korrigiert – Die Stadt vergibt den Ludwig-Beck-Preis für Zivilcourage weiter, zuletzt für 2025, überreicht am 23. Januar 2026. Ihr zweiter Preis, der Preis für Bürgermut, ist nach keiner Person benannt, also bleiben die Optionen 2 bis 4 falsch. Eine jährliche Vergabe ist nicht belegt: Die Vergaben 2023 und 2025 sprechen eher für einen anderen Rhythmus. „Jährlich“ wird deshalb gestrichen. Dass Beck aus Wiesbaden stammt, habe ich nicht in einer zweiten Quelle gefunden. Ich lasse den Satz trotzdem stehen, weil Beck in Biebrich geboren wurde, das heute zu Wiesbaden gehört. Diese Herkunftsangabe sollte noch nachgeprüft werden.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 46-wiesbaden/038.preis_nach_ihm

@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Laut Quelltext „beteiligen sich“ die Helmstadter Bauern am Überfall auf Kloster Holzkirchen. Die Aussage „überfielen das Kloster“ macht sie zu den alleinigen Tätern. Die Lüge in Aussage 1 ist sicher falsch („1529 … werden evangelisch“), auch wegen 1632–1634. Rückseite und Aussage 3 sind belegt.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Laut Quelltext „beteiligen sich“ die Helmstadter Bauern am Überfall auf Kloster Holzkirchen. Die Aussage „überfielen das Kloster“ macht sie zu den alleinigen Tätern. Die Lüge in Aussage 1 ist sicher falsch („1529 … werden evangelisch“), auch wegen 1632–1634. Rückseite und Aussage 3 sind belegt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 166-helmstadt/028.jah_evangelisch_1529
@@ -64,7 +64,7 @@ Helmstadt
 Marktgemeinde mit rund 2.500 Einwohnern, 17 km westlich von Würzburg.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 1. Helmstadt blieb in der Reformationszeit durchgehend katholisch.
-2. Helmstadter Bauern beteiligten sich im Bauernkrieg am Überfall auf das Kloster Holzkirchen.
+2. Helmstadter Bauern überfielen im Bauernkrieg das Kloster Holzkirchen.
 3. Helmstadt wurde einst dem Kloster Fulda geschenkt.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei einem Dorf so nah am katholischen Würzburg klingt das plausibel. Doch Helmstadt wurde in der Reformation evangelisch und erst unter dem Würzburger Fürstbischof Julius Echter wieder katholisch. Die Bauern plünderten im Bauernkrieg auch das Pfarrhaus. Die Lüge war 1.

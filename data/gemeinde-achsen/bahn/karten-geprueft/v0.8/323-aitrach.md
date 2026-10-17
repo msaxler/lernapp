@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Aussage 3 behauptet, die Keltengräber seien „in Aitrach“ gefunden worden. Der Quelltext nennt aber keinen Fundort für die Grabung, und „Funde in Iller und Aitrach“ kann auch den Fluss meinen. Belegt ist die Ansiedlung der Kelten im Ortsgebiet, deshalb steht Aussage 3 jetzt so. Die Lüge und Aussage 2 sind belegt.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Aussage 3 behauptet, die Keltengräber seien „in Aitrach“ gefunden worden. Der Quelltext nennt aber keinen Fundort für die Grabung, und „Funde in Iller und Aitrach“ kann auch den Fluss meinen. Belegt ist die Ansiedlung der Kelten im Ortsgebiet, deshalb steht Aussage 3 jetzt so. Die Lüge und Aussage 2 sind belegt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 323-aitrach/010.besatzungsmacht
@@ -65,7 +65,7 @@ Gemeinde mit rund 3.100 Einwohnern, 51 km südlich von Ulm.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 1. Nach Kriegsende gehörte Aitrach zur amerikanischen Besatzungszone.
 2. Eine Pest ließ Aitrach einst fast aussterben.
-3. Im Ortsgebiet von Aitrach siedelten einst Kelten.
+3. Bei Grabungen fand man in Aitrach Keltengräber.
 RÜCKSEITE:
 Du hattest [Option] getippt. Die Lüge liegt nahe: Gleich jenseits der Iller beginnt Bayern, und das gehörte zur amerikanischen Zone. Aitrach aber liegt diesseits des Flusses, und Besatzungsmacht war hier Frankreich. Die Lüge war 1.
 Quelle: Gemeinde-Webseite, www.aitrach.de/unsere-gemeinde/geschichtliches/heimatbeilagen

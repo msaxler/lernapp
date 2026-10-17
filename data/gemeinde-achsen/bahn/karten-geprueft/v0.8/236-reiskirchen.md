@@ -192,7 +192,13 @@ FAKT-ID: 236-reiskirchen/021.spitzname
 GEWÄHLTER FAKT: Ortsteil Bersrod, spitzname: Kuckuck (brunnen_detail: Brunnen Lindenplatz mit eingemeißeltem Kuckuck)
 BEKANNTHEIT: niedrig – Dorf-Spitznamen kennen nur Einheimische.
 VORDERSEITE:
-Reiskirchen / Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main. / Die Einwohner des Ortsteils Bersrod hatten früher einen Vogelnamen als Spitznamen. Welchen? / 1. Sie wurden „Gockel“ genannt. / 2. Sie wurden „Kuckuck“ genannt. / 3. Sie wurden „Spatz“ genannt. / 4. Sie wurden „Eule“ genannt.
+Reiskirchen
+Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main.
+Die Einwohner des Ortsteils Bersrod hatten früher einen Vogelnamen als Spitznamen. Welchen?
+1. Sie wurden „Gockel“ genannt.
+2. Sie wurden „Kuckuck“ genannt.
+3. Sie wurden „Spatz“ genannt.
+4. Sie wurden „Eule“ genannt.
 RÜCKSEITE:
 Du hattest [Option] getippt. Der Gockel liegt nahe, denn er gehört zu jedem Dorf und thront oft auf Kirchtürmen. Die Bersröder aber hießen früher Kuckuck. Sie nahmen es mit Humor: In den Stein des Brunnens am Lindenplatz ließen sie einen Kuckuck einmeißeln. Richtig war 2.
 Quelle: Gemeinde-Webseite, www.gemeinde-reiskirchen.de/unsere-gemeinde/ortsteile/

@@ -165,7 +165,13 @@ FAKT-ID: 253-stadtroda/005.todesursache
 GEWÄHLTER FAKT: Helene Fleischer (persönlichkeit), KPD-Reichstagsabgeordnete, todesursache: Euthanasie (Aktion T4); gedenkstätte: Denkmal im Asklepios Fachklinikum (1988)
 BEKANNTHEIT: niedrig – die Person ist außerhalb der Fachgeschichte kaum bekannt.
 VORDERSEITE:
-Stadtroda / Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena. / Die KPD-Reichstagsabgeordnete Helene Fleischer starb 1941 in Stadtroda. Wie kam sie ums Leben? / 1. Sie wurde auf der Flucht erschossen. / 2. Sie wurde vom Volksgerichtshof zum Tod verurteilt. / 3. Sie kam bei einem Bombenangriff ums Leben. / 4. Sie wurde Opfer der NS-Krankenmorde.
+Stadtroda
+Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena.
+Die KPD-Reichstagsabgeordnete Helene Fleischer starb 1941 in Stadtroda. Wie kam sie ums Leben?
+1. Sie wurde auf der Flucht erschossen.
+2. Sie wurde vom Volksgerichtshof zum Tod verurteilt.
+3. Sie kam bei einem Bombenangriff ums Leben.
+4. Sie wurde Opfer der NS-Krankenmorde.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei einer Kommunistin denkt man an ein Todesurteil der NS-Justiz. Helene Fleischer bekam 1934 aber „nur“ drei Jahre Gefängnis. 1941 wurde sie nach schweren Misshandlungen in die Heilanstalt Stadtroda gebracht und dort ermordet. Richtig war 4.
 Quelle: Biographisches Lexikon, Bundesstiftung Aufarbeitung, kommunismusgeschichte.de
@@ -186,7 +192,13 @@ FAKT-ID: 253-stadtroda/007.bistum
 GEWÄHLTER FAKT: Katholische Pfarrgemeinde Stadtroda-Kahla (gemeinde_kirchlich), bistum: Dresden-Meißen; dekanat: Gera
 BEKANNTHEIT: niedrig – kirchliche Grenzen kennt man außerhalb der Gemeinde kaum.
 VORDERSEITE:
-Stadtroda / Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena. / Stadtroda liegt in Thüringen. Zu welchem Bistum gehört die katholische Kirche St. Jakobus in Stadtroda? / 1. Sie gehört zum Bistum Dresden-Meißen. / 2. Sie gehört zum Bistum Erfurt. / 3. Sie gehört zum Bistum Magdeburg. / 4. Sie gehört zum Bistum Görlitz.
+Stadtroda
+Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena.
+Stadtroda liegt in Thüringen. Zu welchem Bistum gehört die katholische Kirche St. Jakobus in Stadtroda?
+1. Sie gehört zum Bistum Dresden-Meißen.
+2. Sie gehört zum Bistum Erfurt.
+3. Sie gehört zum Bistum Magdeburg.
+4. Sie gehört zum Bistum Görlitz.
 RÜCKSEITE:
 Du hattest [Option] getippt. Erfurt ist Thüringens Hauptstadt, daher liegt das Bistum Erfurt nahe. Bistumsgrenzen folgen aber nicht immer den Landesgrenzen: Die katholische Kirche in Stadtroda gehört heute zur Pfarrei St. Elisabeth Gera im Bistum Dresden-Meißen. Richtig war 1.
 Quelle: Katholische Pfarrei St. Elisabeth Gera, katholische-kirche-gera.de

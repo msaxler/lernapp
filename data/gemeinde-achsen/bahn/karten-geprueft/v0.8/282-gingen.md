@@ -111,7 +111,13 @@ FAKT-ID: 282-gingen/021.plausibelste_version_ereignis
 GEWÄHLTER FAKT: Spitzname „Schnapper“, plausibelste_version_ereignis: Der Gingener Schultes unterschrieb am 3. Mai 1887 genau vor den Kucher Vertretern (Fassungsrechte der Sieben-Brunnen-Quelle „weggeschnappt“)
 BEKANNTHEIT: niedrig – Den Spitznamen kennt man nur in der Gegend.
 VORDERSEITE:
-Gingen an der Fils / Gemeinde an der Fils mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm. / Die Gingener tragen den Spitznamen „Schnapper“. Welche Herkunft des Spitznamens hält die Ortsgeschichte für die plausibelste? / 1. Sie schnappten dem Nachbarort ein Quellrecht weg. 2. Sie brannten früher besonders viel Schnaps. 3. Sie fingen Forellen mit bloßen Händen. 4. Sie galten als bissige, schnippische Streithähne.
+Gingen an der Fils
+Gemeinde an der Fils mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.
+Die Gingener tragen den Spitznamen „Schnapper“. Welche Herkunft des Spitznamens hält die Ortsgeschichte für die plausibelste?
+1. Sie schnappten dem Nachbarort ein Quellrecht weg.
+2. Sie brannten früher besonders viel Schnaps.
+3. Sie fingen Forellen mit bloßen Händen.
+4. Sie galten als bissige, schnippische Streithähne.
 RÜCKSEITE:
 Du hattest [Option] getippt. Schnaps liegt beim Wortklang nahe. Die Gemeinde hält aber eine andere Version für die plausibelste: Kuchen und Gingen wollten beide die Sieben-Brunnen-Quelle fassen. Der Überlieferung nach unterschrieb der Gingener Schultes am 3. Mai 1887 gerade, als die Kuchener Vertreter eintraten. Damit war das Recht „weggeschnappt“. Richtig war 1. (49 Wörter)
 Quelle: Gemeinde-Webseite, www.gingen.de/gemeinde-wirtschaft/geschichte/spitzname-schnapper
@@ -159,7 +165,13 @@ FAKT-ID: 282-gingen/007.verwandt_mit
 GEWÄHLTER FAKT: Maria von Bosnien, verwandt_mit: erster bosnischer König (Bruder); Gräfin von Helfenstein, Dorfherrin, Lebensunterhalt aus Abgaben Gingens, 1396–1403
 BEKANNTHEIT: niedrig – Die Verbindung eines Filstal-Dorfs zum bosnischen Königshaus ist kaum bekannt.
 VORDERSEITE:
-Gingen an der Fils / Gemeinde im Filstal mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm. / Um 1400 war eine Gräfin von Helfenstein Dorfherrin von Gingen und lebte von seinen Abgaben. Aus welchem Herrscherhaus stammte sie? / 1. Aus dem Königshaus von Norwegen. 2. Aus dem Königshaus von Portugal. 3. Aus dem Herrscherhaus von Bosnien. 4. Aus dem Königshaus von Schottland.
+Gingen an der Fils
+Gemeinde im Filstal mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.
+Um 1400 war eine Gräfin von Helfenstein Dorfherrin von Gingen und lebte von seinen Abgaben. Aus welchem Herrscherhaus stammte sie?
+1. Aus dem Königshaus von Norwegen.
+2. Aus dem Königshaus von Portugal.
+3. Aus dem Herrscherhaus von Bosnien.
+4. Aus dem Königshaus von Schottland.
 RÜCKSEITE:
 Du hattest [Option] getippt. Schottland liegt nahe, weil Fürstenhöfe Töchter quer durch Europa verheirateten. Doch Maria von Bosnien, die Frau des Grafen Ulrich von Helfenstein, stammte aus dem bosnischen Herrscherhaus, das den ersten König Bosniens stellte. Ihren Lebensunterhalt bestritt sie aus Gingens Abgaben. Richtig war 3. (45 Wörter)
 VERMERK: Die Gemeinde nennt Maria „Schwester des ersten bosnischen Königs“. Bitte diesen Hinweis an die Gemeinde nicht als Faktenquelle übernehmen.

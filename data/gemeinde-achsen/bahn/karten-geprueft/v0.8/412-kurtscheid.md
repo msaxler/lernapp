@@ -112,13 +112,13 @@ FAKT-ID: 412-kurtscheid/010.herkunft
 GEWÄHLTER FAKT: kirchenglocke Fis-Glocke, herkunft: Spende von Papst Pius XI, geweiht: hl. Kastor
 BEKANNTHEIT: niedrig – die Spende des Papstes ist nur auf der Gemeinde-Webseite beschrieben.
 VORDERSEITE:
-„Kurtscheid
+Kurtscheid
 Westerwalddorf mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.
 Eine Glocke der katholischen Kirche in Kurtscheid ist dem heiligen Kastor geweiht. Aus wessen Spende wurde sie angeschafft?
 1. Aus einer Spende von Kaiser Wilhelm I.
 2. Aus einer Spende von Kaiserin Augusta.
 3. Aus einer Spende von Papst Pius XI.
-4. Aus einer Spende von Otto von Bismarck.“
+4. Aus einer Spende von Otto von Bismarck.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Landesherr als Stifter liegt nahe, denn Fürsten beschenkten oft die Kirchen ihrer Dörfer. Diese Glocke wurde aber aus einer Spende von ganz oben angeschafft: von Papst Pius XI. Nach ihrem Ton heißt sie Fis-Glocke; geweiht ist sie dem heiligen Kastor. Richtig war 3.
 Quelle: Gemeinde-Webseite, www.kurtscheid.de/kirchengemeinde-katholisch.html“

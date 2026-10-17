@@ -158,7 +158,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN
 ERFUNDEN: keine
 
 ## Karte 7
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Der Titel ist zusätzlich in einer Zeitschrift belegt, die die Württembergische Landesbibliothek veröffentlicht. Laut Suchauszug sagt sie, Schwenningen sei „vom größten Dorf Württembergs zur größten Uhrenstadt der Welt“ geworden und habe bei der Stadterhebung 1907 als größter Uhrenstandort der Welt gegolten. Den Volltext konnte ich nicht abrufen. Option 2 „Harmonikastadt“ ist zu nah an der Wahrheit: Hohner im benachbarten Trossingen war um 1900 Weltmarktführer und beschäftigte laut Deutscher Biographie Hunderte Harmonikamacher in der Umgebung. Sie wird deshalb durch eine nachweislich ortsfremde Option ersetzt; der Hinweis auf die Harmonika auf der Rückseite entfällt.
+FAKTENCHECK: korrigiert – Der Titel ist zusätzlich in einer Zeitschrift belegt, die die Württembergische Landesbibliothek veröffentlicht. Laut Suchauszug sagt sie, Schwenningen sei „vom größten Dorf Württembergs zur größten Uhrenstadt der Welt“ geworden und habe bei der Stadterhebung 1907 als größter Uhrenstandort der Welt gegolten. Den Volltext konnte ich nicht abrufen. Option 2 „Harmonikastadt“ ist zu nah an der Wahrheit: Hohner im benachbarten Trossingen war um 1900 Weltmarktführer und beschäftigte laut Deutscher Biographie Hunderte Harmonikamacher in der Umgebung. Sie wird deshalb durch eine nachweislich ortsfremde Option ersetzt; der Hinweis auf die Harmonika auf der Rückseite entfällt.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 81-villingen-schwenningen/003.superlativ_uhrenstadt
@@ -173,7 +173,7 @@ Mit welchem einstigen Titel beschreibt die Stadt ihren Stadtbezirk Schwenningen?
 3. Einst größte Glasstadt der Welt.
 4. Einst größte Uhrenstadt der Welt.
 RÜCKSEITE:
-Du hattest [Option] getippt. Harmonika oder Glas liegen nahe, denn beides kennt man aus Handwerk und Industrie der Region. Schwenningen aber hatte eine beachtliche Industrie mit Schwerpunkt Uhrenfertigung. Die Stadt nennt es die einst größte Uhrenstadt der Welt; davon erzählt das Uhrenindustriemuseum. Richtig war 4.
+Du hattest [Option] getippt. Strohhut oder Glas liegen nahe, denn Strohflechterei und Glashütten kennt man aus dem Schwarzwald. Schwenningen aber hatte eine beachtliche Industrie mit Schwerpunkt Uhrenfertigung. Die Stadt nennt es die einst größte Uhrenstadt der Welt; davon erzählt das Uhrenindustriemuseum. Richtig war 4. (Strohflechterei und Glashütten im Schwarzwald habe ich als Allgemeinwissen eingesetzt, aber nicht über eine Suche belegt.)
 Quelle: Gemeinde-Webseite, www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/
 WÖRTER RÜCKSEITE: 45
 NEGATIVNACHWEISE:

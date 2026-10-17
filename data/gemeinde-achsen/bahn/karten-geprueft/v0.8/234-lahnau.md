@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Keine vertrauenswürdige Quelle nennt den Kaiser im Zusammenhang mit der Genehmigung von 1531. Ausschließen lässt sich ein Befehl des Kaisers aber auch nicht, deshalb wird Option 2 ersetzt. Die neue Option ist nachweislich falsch: Seit der Umwandlung 1437 lebten in Dorlar Mönche, also 1531 keine Nonnen mehr. Die Seite des Prämonstratenserordens nennt zum Ende des Klosters andere Angaben (1540 Aufhebung durch Nassau-Weilburg, Verkauf „1641“, vermutlich ein Tippfehler); diese betreffen die Lösung nicht.
+FAKTENCHECK: korrigiert – Keine vertrauenswürdige Quelle nennt den Kaiser im Zusammenhang mit der Genehmigung von 1531. Ausschließen lässt sich ein Befehl des Kaisers aber auch nicht, deshalb wird Option 2 ersetzt. Die neue Option ist nachweislich falsch: Seit der Umwandlung 1437 lebten in Dorlar Mönche, also 1531 keine Nonnen mehr. Die Seite des Prämonstratenserordens nennt zum Ende des Klosters andere Angaben (1540 Aufhebung durch Nassau-Weilburg, Verkauf „1641“, vermutlich ein Tippfehler); diese betreffen die Lösung nicht.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 234-lahnau/008.genehmigungsgrund
@@ -14,7 +14,8 @@ Die Herren von Buseck kauften 1532 das ehemalige Kloster Dorlar. Wie begründete
 3. Die Pest habe alle Mönche dahingerafft.
 4. Der Papst habe das Kloster aufgehoben.
 RÜCKSEITE:
-Du hattest [Option] getippt. Krieg, Seuche oder ein Machtwort von Kaiser oder Papst haben manches Kloster beendet, das liegt nahe. Das Kloster Dorlar aber hatte mit der Reformation geendet. Der Erzbischof von Trier genehmigte den Verkauf, „weil der Ketzerei verfallen“. Richtig war 1.
+Du hattest [Option] getippt. Seuche, Weggang oder ein Machtwort des Papstes haben manches Kloster beendet, das liegt nahe. In Dorlar lebten aber seit 1437 Mönche statt Nonnen, und das Kloster hatte mit der Reformation geendet. Der Erzbischof von Trier genehmigte den Verkauf, „weil der Ketzerei verfallen“. Richtig war 1.“
+NEGATIVNACHWEIS neu 2: Weg (a). Seit 1437 lebten dort Mönche, keine Nonnen mehr (234-lahnau/008, Umwandlung in ein Mönchskloster).
 Quelle: Gemeinde-Webseite, www.lahnau.de/Leben-in-Lahnau/Geschichte/
 WÖRTER RÜCKSEITE: 43
 NEGATIVNACHWEISE:

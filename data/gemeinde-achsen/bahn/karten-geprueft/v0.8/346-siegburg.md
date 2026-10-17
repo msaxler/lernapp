@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Aussage 1 (Lüge) ist durch das Gründungsdatum 30.11.1903 widerlegt, Aussage 2 ist wörtlich belegt. Aussage 3 nennt den Rhein-Sieg-Kreis. Die QUELLTEXTE sagen aber nur „Kreisstadt Siegburg“ und „zentrale Lage“. Die Extraktion „zentral im Rhein-Sieg-Kreis“ hat dort einen Kreis ergänzt, der im Text nicht steht.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Aussage 1 (Lüge) ist durch das Gründungsdatum 30.11.1903 widerlegt, Aussage 2 ist wörtlich belegt. Aussage 3 nennt den Rhein-Sieg-Kreis. Die QUELLTEXTE sagen aber nur „Kreisstadt Siegburg“ und „zentrale Lage“. Die Extraktion „zentral im Rhein-Sieg-Kreis“ hat dort einen Kreis ergänzt, der im Text nicht steht.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 346-siegburg/002.gruendungsdatum
@@ -65,7 +65,7 @@ Stadt mit rund 42.000 Einwohnern, 11 km nordöstlich von Bonn.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 1. Siegburgs Altertumsverein entstand erst nach dem Zweiten Weltkrieg.
 2. Stallberg entwickelte sich nach dem Zweiten Weltkrieg industriell.
-3. Siegburg ist eine Kreisstadt.
+3. Siegburg ist die Kreisstadt des Rhein-Sieg-Kreises.
 RÜCKSEITE:
 Du hattest [Option] getippt. Mancher hält die Kreisstadt für gelogen, weil man den Kreissitz in einer größeren Nachbarstadt vermutet. Doch Siegburg ist Kreisstadt. Gelogen ist der Verein: Der Geschichts- und Altertumsverein stammt noch aus der Kaiserzeit und hieß zuerst Altertumsverein Siegburg. Stallberg dagegen entwickelte sich tatsächlich nach dem Zweiten Weltkrieg baulich und industriell. Die Lüge war 1.
 Quelle: Gemeinde-Webseite, siegburg.de/buergerservice-views/leistungen/NRW:entry:41713-VLR/geschichts-und-altertumsverein/

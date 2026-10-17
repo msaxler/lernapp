@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: korrigiert – Option 4 sagt „kaufte den Ort“. Das geht über den Quelltext hinaus: Hans-Christoph Widmann verkaufte nur „alles, was ihm gehörte“. Gut die Hälfte des Dorfes blieb im Besitz Reutlinger Pflegen, und die Lehenhoheit über die 17 Bauernhöfe blieb bei Österreich. Im Quelltext steht „evangelischer Herzog“, deshalb ist „Herzog“ genauer als „Herrscher“. Die erfundenen Optionen 1 bis 3 sind ausreichend widerlegt, weil der Quelltext den späteren Glaubenswechsel ausdrücklich auf den Verkauf zurückführt („wurden damit … Protestanten“).
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Option 4 sagt „kaufte den Ort“. Das geht über den Quelltext hinaus: Hans-Christoph Widmann verkaufte nur „alles, was ihm gehörte“. Gut die Hälfte des Dorfes blieb im Besitz Reutlinger Pflegen, und die Lehenhoheit über die 17 Bauernhöfe blieb bei Österreich. Im Quelltext steht „evangelischer Herzog“, deshalb ist „Herzog“ genauer als „Herrscher“. Die erfundenen Optionen 1 bis 3 sind ausreichend widerlegt, weil der Quelltext den späteren Glaubenswechsel ausdrücklich auf den Verkauf zurückführt („wurden damit … Protestanten“).
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 382-kirchentellinsfurt/010.verkauf_konsequenz_außerordentlich_wichtig
@@ -12,7 +12,7 @@ Kirchentellinsfurt wurde 60 Jahre später evangelisch als die Nachbardörfer. We
 1. Ein Pfarrer verweigerte den Wechsel bis zum Tod.
 2. Ein Brand hatte die Kirche lange unbenutzbar gemacht.
 3. Ein Hochwasser schnitt das Dorf jahrelang ab.
-4. Erst dann kaufte ein evangelischer Herzog die Ortsherrschaft.
+4. Erst dann kaufte ein evangelischer Herrscher den Ort.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein sturer Pfarrer liegt nahe, Glaubenswechsel stießen oft auf Widerstand. Doch Ortsherr war die Familie Widmann von Mühringen. Erst als Hans-Christoph Widmann alles, was ihm hier gehörte, an den Herzog von Württemberg verkaufte, wurden die Kirchentellinsfurter württembergische Untertanen und evangelisch. Richtig war 4.
 Quelle: Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait
@@ -185,7 +185,7 @@ PRÜFSTUFE: 1 – Alle Aussagen und Namen stammen von der Gemeinde-Webseite. Es 
 ERFUNDEN: 1, 3, 4
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Das Statistische Landesamt BW stützt die wahre Option unabhängig von der Gemeinde: Mitte des 19. Jahrhunderts lag die Einwohnerzahl bei rund 1.500, nach 1850 folgte eine starke Auswanderung vor allem nach Amerika, und die Einwohnerzahl sank. Eine Seuche ließ sich in keiner vertrauenswürdigen Quelle belegen oder ausschließen. Weil sie als Mitursache möglich bleibt, ersetze ich Option 1 durch eine Option, die zeitlich nachweislich falsch ist (der Krieg gegen Frankreich war erst 1870/71). Option 4 bleibt, weil Umsiedlung „in andere Dörfer“ nicht dasselbe ist wie von der Gemeinde bezahlte Auswanderung; einen Beleg für eine Umsiedlung habe ich nicht gefunden. Der Hinweis zum Statistischen Landesamt stammt aus dem Auszug der Suchmaschine. Den Text des PDF konnte ich nicht lesen.
+FAKTENCHECK: korrigiert – Das Statistische Landesamt BW stützt die wahre Option unabhängig von der Gemeinde: Mitte des 19. Jahrhunderts lag die Einwohnerzahl bei rund 1.500, nach 1850 folgte eine starke Auswanderung vor allem nach Amerika, und die Einwohnerzahl sank. Eine Seuche ließ sich in keiner vertrauenswürdigen Quelle belegen oder ausschließen. Weil sie als Mitursache möglich bleibt, ersetze ich Option 1 durch eine Option, die zeitlich nachweislich falsch ist (der Krieg gegen Frankreich war erst 1870/71). Option 4 bleibt, weil Umsiedlung „in andere Dörfer“ nicht dasselbe ist wie von der Gemeinde bezahlte Auswanderung; einen Beleg für eine Umsiedlung habe ich nicht gefunden. Der Hinweis zum Statistischen Landesamt stammt aus dem Auszug der Suchmaschine. Den Text des PDF konnte ich nicht lesen.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 382-kirchentellinsfurt/023.folge_emigration
@@ -200,7 +200,7 @@ Zwischen 1849 und 1858 sank die Einwohnerzahl, obwohl die Zahl der Geburten star
 3. Viele Bewohner wanderten wegen ihrer Armut aus.
 4. Württemberg siedelte Familien in andere Dörfer um.
 RÜCKSEITE:
-Du hattest [Option] getippt. Eine Seuche liegt nahe, sie erklärt viele Einbrüche in alten Dorfchroniken. Hier war es Armut: Die Bauernbefreiung machte die Bewohner zu freien Eigentümern, aber kaum reicher. Viele wanderten aus. Die Bahn kam erst danach und brachte dem Dorf später Aufschwung. Richtig war 3.
+Du hattest [Option] getippt. Ein Krieg liegt nahe, er erklärt viele Einbrüche in Dorfchroniken. Doch der Krieg gegen Frankreich kam erst Jahre später. Hier war es Armut: Die Bauernbefreiung machte die Bewohner zu freien Eigentümern, aber kaum reicher. Viele wanderten aus. Die Bahn kam erst danach. Richtig war 3.
 Quelle: Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait
 WÖRTER RÜCKSEITE: 47
 NEGATIVNACHWEISE:
@@ -212,7 +212,7 @@ PRÜFSTUFE: 1 – Alle Aussagen stammen von der Gemeinde-Webseite. Es gibt keine
 ERFUNDEN: 1, 4
 
 ## Karte 9
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Ob Kirchentellinsfurt am Martinusweg nach Tours liegt, ließ sich nicht klären. Die Diözese Rottenburg-Stuttgart verbindet ihre Martinskirchen über regionale Pilgerwege, der Flyer des Dekanats Reutlingen war aber nicht abrufbar (Fehler 404). Für einen Martinsmarkt fand sich weder ein Beleg noch eine Widerlegung. Deshalb ersetze ich die Optionen 3 und 4 durch Aussagen, die die Gemeinde-Webseite widerlegt (Mutterkirche im Mittelalter; Schenkung des Dorfs 1007). Den „Lieblingsheiligen“ konnte ich innerhalb der vier Suchen nicht in einer zweiten Quelle finden. Er steht jetzt mit dem Vorbehalt „gilt Historikern als“.
+FAKTENCHECK: korrigiert – Ob Kirchentellinsfurt am Martinusweg nach Tours liegt, ließ sich nicht klären. Die Diözese Rottenburg-Stuttgart verbindet ihre Martinskirchen über regionale Pilgerwege, der Flyer des Dekanats Reutlingen war aber nicht abrufbar (Fehler 404). Für einen Martinsmarkt fand sich weder ein Beleg noch eine Widerlegung. Deshalb ersetze ich die Optionen 3 und 4 durch Aussagen, die die Gemeinde-Webseite widerlegt (Mutterkirche im Mittelalter; Schenkung des Dorfs 1007). Den „Lieblingsheiligen“ konnte ich innerhalb der vier Suchen nicht in einer zweiten Quelle finden. Er steht jetzt mit dem Vorbehalt „gilt Historikern als“.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 382-kirchentellinsfurt/003.besonderheit_heiliger
@@ -227,7 +227,7 @@ Die Kirche im Ort ist dem heiligen Martin geweiht. Was verrät dieser Patron lau
 3. Der Ort lag an einem Pilgerweg nach Tours.
 4. Das Dorf hielt einst einen großen Martinsmarkt.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Ritter namens Martin liegt nahe, Stifter prägten oft ihre Kirchen. Doch Martin war der Lieblingsheilige der Franken, ein sicheres Zeichen für das Alter der Kirche. Vermutlich gründeten die Franken sie als Zentrum ihrer Herrschaft und der Christianisierung. Im Mittelalter war sie Mutterkirche für Nachbarorte. Richtig war 1.
+Du hattest [Option] getippt. Ein Ritter namens Martin liegt nahe, Stifter prägten oft ihre Kirchen. Doch Martin war der Lieblingsheilige der Franken und gilt Historikern als sicheres Zeichen für das Alter der Kirche. Vermutlich gründeten die Franken sie als Zentrum ihrer Herrschaft und der Christianisierung. Im Mittelalter war sie Mutterkirche für Nachbarorte. Richtig war 1.
 Quelle: Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait
 WÖRTER RÜCKSEITE: 52
 NEGATIVNACHWEISE:

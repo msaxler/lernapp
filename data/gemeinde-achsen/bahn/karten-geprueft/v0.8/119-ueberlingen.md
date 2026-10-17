@@ -185,7 +185,7 @@ PRÜFSTUFE: 2 – die Karte enthält einen Superlativ („erste“).
 ERFUNDEN: keine
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Der QUELLTEXT belegt, dass der Rat den Hochaltar in Auftrag gab. Die Optionen 2 und 4 fragen aber nach dem Stiften, also nach der Finanzierung, und eine Stifterfamilie neben dem Auftraggeber Rat schließt der QUELLTEXT nicht aus. Werden alle Optionen auf „in Auftrag geben“ vereinheitlicht, widerlegt der QUELLTEXT die falschen Optionen.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Der QUELLTEXT belegt, dass der Rat den Hochaltar in Auftrag gab. Die Optionen 2 und 4 fragen aber nach dem Stiften, also nach der Finanzierung, und eine Stifterfamilie neben dem Auftraggeber Rat schließt der QUELLTEXT nicht aus. Werden alle Optionen auf „in Auftrag geben“ vereinheitlicht, widerlegt der QUELLTEXT die falschen Optionen.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 119-ueberlingen/002.hochaltar_auftraggeber
@@ -195,10 +195,10 @@ VORDERSEITE:
 Überlingen
 Stadt im Bodenseekreis mit rund 22.800 Einwohnern, 81 km südlich von Reutlingen.
 Den Hochaltar im Überlinger Münster schufen Jörg Zürn und seine Verwandten. Wer gab ihn in Auftrag?
-1. Der Rat der Stadt gab ihn in Auftrag.
-2. Der Bischof gab ihn in Auftrag.
-3. Ein Kloster gab ihn in Auftrag.
-4. Eine reiche Kaufmannsfamilie gab ihn in Auftrag.
+1. Der Rat der Stadt bestellte ihn.
+2. Der Bischof stiftete ihn für seine Kirche.
+3. Ein Kloster ließ ihn für das Münster bauen.
+4. Eine reiche Kaufmannsfamilie stiftete ihn.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei einem Hochaltar denkt man zuerst an Bischof oder Kloster als Bauherrn. Im Münster St. Nikolaus bestellte ihn jedoch der Rat der Stadt. Die Altäre im Kapellenkranz stifteten dagegen Bürger, von der Gotik bis zum Barock. Richtig war 1.
 Quelle: Gemeinde-Webseite, www.ueberlingen.de/stadtpotrait

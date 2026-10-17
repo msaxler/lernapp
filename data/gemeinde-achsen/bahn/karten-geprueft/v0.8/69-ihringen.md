@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Zu (a): Wasenweiler gehörte nie zu Baden-Durlach. Die Obervogtei lag bei den Herren von Üsenberg, die sie 1297/98 an den Deutschen Orden verkauften. Der Orden hielt sie bis 1806, danach kam der Ort an Baden. Zu (d): Gemeinde und LEO-BW bestätigen Traube und Rebmesser im Ihringer Wappen. Zu (b): „Teil Vorderösterreichs“ fand ich nicht ausdrücklich in einer vertrauenswürdigen Quelle, deshalb ist es auf der Rückseite gestrichen. Zu (c): Belegt ist nur die Tradition (Wasenweiler katholische Pfarrei, die Evangelischen sind nach Ihringen eingepfarrt), deshalb steht Aussage 3 jetzt mit „traditionell“.
+FAKTENCHECK: korrigiert – Zu (a): Wasenweiler gehörte nie zu Baden-Durlach. Die Obervogtei lag bei den Herren von Üsenberg, die sie 1297/98 an den Deutschen Orden verkauften. Der Orden hielt sie bis 1806, danach kam der Ort an Baden. Zu (d): Gemeinde und LEO-BW bestätigen Traube und Rebmesser im Ihringer Wappen. Zu (b): „Teil Vorderösterreichs“ fand ich nicht ausdrücklich in einer vertrauenswürdigen Quelle, deshalb ist es auf der Rückseite gestrichen. Zu (c): Belegt ist nur die Tradition (Wasenweiler katholische Pfarrei, die Evangelischen sind nach Ihringen eingepfarrt), deshalb steht Aussage 3 jetzt mit „traditionell“.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 69-ihringen/002.herrschaftsverhältnisse
@@ -67,7 +67,7 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. Wasenweiler gehörte jahrhundertelang den Markgrafen von Baden-Durlach.
 3. Ihringen ist evangelisch geprägt, Wasenweiler dagegen katholisch.
 RÜCKSEITE:
-Du hattest [Option] getippt. Die Lüge klingt glaubhaft, denn Ihringen selbst gehörte den Markgrafen von Baden-Durlach. Wasenweiler aber unterstand jahrhundertelang dem Deutschen Orden und war Teil Vorderösterreichs. Den Glauben bestimmte damals meist der Landesherr; die Konfessionen waren also ein Hinweis. Die Lüge war 2.
+Du hattest [Option] getippt. Die Lüge klingt glaubhaft, denn Ihringen selbst gehörte den Markgrafen von Baden-Durlach. Wasenweiler aber unterstand von 1297/98 bis 1806 dem Deutschen Orden in Freiburg. Den Glauben bestimmte damals meist der Landesherr; die Konfessionen waren also ein Hinweis. Die Lüge war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Ihringen
 WÖRTER RÜCKSEITE: 44
 NEGATIVNACHWEISE:

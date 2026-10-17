@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Das Zentrum Paul Klee bestätigt: „Ab Januar 1917 ist Klee als Schreiber in der Kassenverwaltung der Fliegerschule in Gersthofen tätig.“ Den Ausdruck „Schreiber des Kassenwarts“ und das Malen „außerhalb der Kaserne“ fand ich in keiner vertrauenswürdigen Quelle, die ich lesen konnte. Die Karte übernimmt deshalb den Wortlaut des Museums. Andere Aufgaben, die Option 1, 2 oder 3 wahr machen würden, sind nicht belegt.
+FAKTENCHECK: korrigiert – Das Zentrum Paul Klee bestätigt: „Ab Januar 1917 ist Klee als Schreiber in der Kassenverwaltung der Fliegerschule in Gersthofen tätig.“ Den Ausdruck „Schreiber des Kassenwarts“ und das Malen „außerhalb der Kaserne“ fand ich in keiner vertrauenswürdigen Quelle, die ich lesen konnte. Die Karte übernimmt deshalb den Wortlaut des Museums. Andere Aufgaben, die Option 1, 2 oder 3 wahr machen würden, sind nicht belegt.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 297-gersthofen/065.funktion_flugplatz
@@ -119,7 +119,7 @@ Ab 1917 tat der Maler Paul Klee am Flugplatz Gersthofen Dienst. Welche Aufgabe h
 3. Er unterrichtete Rekruten im Morsen.
 4. Er war Schreiber des Kassenwarts.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Flugplatz im Ersten Weltkrieg lässt an Einsätze über der Front denken. Klee aber war Schreiber des Kassenwarts. Der Posten ersparte ihm den Fronteinsatz, und er konnte außerhalb der Kaserne malen. Richtig war 4.
+Du hattest [Option] getippt. Ein Flugplatz im Ersten Weltkrieg lässt an Einsätze über der Front denken. Klee aber arbeitete als Schreiber in der Kassenverwaltung der Fliegerschule. Er saß also am Schreibtisch statt im Flugzeug und fand daneben Zeit zum Malen. Richtig war 4.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Gersthofen
 WÖRTER RÜCKSEITE: 38
 NEGATIVNACHWEISE:
@@ -158,7 +158,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 7
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die taz vom 18.09.1999 bestätigt: Jeder Einwohner bekam 100 DM aus dem Haushaltsüberschuss, insgesamt etwa 2 Mio. DM als „Bürgerdividende“. Möglich machten das hohe Gewerbesteuereinnahmen. Der Artikel nennt weder den Euro noch ein Gericht noch Baulärm. Kritiker hätten lieber die Gebühren gesenkt, aber das war kein Grund für die Auszahlung. Das Urteil des Landratsamts „gerade noch akzeptabel“ fand ich nicht belegt; die taz beschreibt die Behörden als ablehnend. Dass der Überschuss genau aus dem Vorjahr stammte, sagt die taz ebenfalls nicht.
+FAKTENCHECK: korrigiert – Die taz vom 18.09.1999 bestätigt: Jeder Einwohner bekam 100 DM aus dem Haushaltsüberschuss, insgesamt etwa 2 Mio. DM als „Bürgerdividende“. Möglich machten das hohe Gewerbesteuereinnahmen. Der Artikel nennt weder den Euro noch ein Gericht noch Baulärm. Kritiker hätten lieber die Gebühren gesenkt, aber das war kein Grund für die Auszahlung. Das Urteil des Landratsamts „gerade noch akzeptabel“ fand ich nicht belegt; die taz beschreibt die Behörden als ablehnend. Dass der Überschuss genau aus dem Vorjahr stammte, sagt die taz ebenfalls nicht.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 297-gersthofen/095.event
@@ -173,7 +173,7 @@ Die Stadt mit rund 23.400 Einwohnern liegt 6 km nordwestlich von Augsburg.
 3. Ein Gericht hatte zu hohe Gebühren beanstandet.
 4. Sie feierte damit die Einführung des Euro.
 RÜCKSEITE:
-Du hattest [Option] getippt. Wenn eine Stadt Geld an alle verteilt, vermutet man eine Pflicht, etwa nach einem Urteil. Gersthofen hatte aber im Vorjahr einen Überschuss im Haushalt und gab einen Teil davon an die Bürger weiter. Das Landratsamt fand das gerade noch akzeptabel. Richtig war 2.
+Du hattest [Option] getippt. Wenn eine Stadt Geld an alle verteilt, vermutet man eine Pflicht, etwa nach einem Urteil. Gersthofen hatte aber dank hoher Gewerbesteuer einen Überschuss im Haushalt und gab rund 2 Millionen Mark als „Bürgerdividende“ an die Einwohner weiter. Richtig war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Gersthofen
 WÖRTER RÜCKSEITE: 47
 NEGATIVNACHWEISE:
@@ -219,9 +219,15 @@ FAKT-ID: 297-gersthofen/014.fundament_geschichte
 GEWÄHLTER FAKT: St. Jakobus major, fundament_geschichte, steht auf Resten eines römischen Heiligtums aus dem 1. Jahrhundert (dazu: heiligtum_erbauer_name: romanisierter Kelte namens Senno; römisches_heiligtum_gottheit: möglicherweise Mercurius; römisches_heiligtum_entdeckung: 1854/55 bei Abrissarbeiten)
 BEKANNTHEIT: niedrig – Ein örtlicher Fund, der überregional kaum bekannt ist.
 VORDERSEITE:
-„1854 riss man die alte Pfarrkirche St. Jakobus major bis auf den Turm ab. Im Fundament stieß man auf ältere Steine. Wovon?“ (die Optionen bleiben gleich) – RÜCKSEITE: Du hattest [Option] getippt. Unter einer Kirche vermutet man eher Mittelalterliches, etwa eine Burg. Doch im Fundament steckten Reste eines römischen Merkurheiligtums, darunter ein Weihestein, den ein Mann namens Senno dem Gott Merkur gestiftet hatte. Ob dort ein Tempel stand oder die Steine erst später hergebracht wurden, ist offen. Richtig war 1.
+Gersthofen
+Die Stadt mit rund 23.400 Einwohnern liegt 6 km nordwestlich von Augsburg.
+1854 riss man die alte Pfarrkirche St. Jakobus major bis auf den Turm ab. Im Fundament stieß man auf ältere Steine. Wovon?
+1. Sie stammten von einem römischen Heiligtum.
+2. Sie stammten von einer mittelalterlichen Wasserburg.
+3. Sie stammten von einem alten Pestfriedhof.
+4. Sie stammten von einer mittelalterlichen Glockengießerei.
 RÜCKSEITE:
-Du hattest [Option] getippt. Unter einer Kirche vermutet man eher Mittelalterliches, etwa eine Burg. Doch die Kirche steht auf Resten eines römischen Heiligtums. Gestiftet hat es ein romanisierter Kelte namens Senno, gewidmet war es möglicherweise dem Gott Mercurius. Richtig war 1.
+Du hattest [Option] getippt. Unter einer Kirche vermutet man eher Mittelalterliches, etwa eine Burg. Doch im Fundament steckten Reste eines römischen Merkurheiligtums, darunter ein Weihestein, den ein Mann namens Senno dem Gott Merkur gestiftet hatte. Ob dort ein Tempel stand oder die Steine erst später hergebracht wurden, ist offen. Richtig war 1.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Gersthofen
 WÖRTER RÜCKSEITE: 41
 NEGATIVNACHWEISE:

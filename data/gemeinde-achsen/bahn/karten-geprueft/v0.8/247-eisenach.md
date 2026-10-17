@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Ich habe keine vertrauenswürdige Quelle gefunden, die den Brunnen mit einer Seuche oder einem Bergwerksunglück verbindet. Nach dem Wegweiser Wikipedia (Spiegel de-academic) war der Schwarze Brunnen aber als Röhrenbrunnen gebaut. Er bekam sein Wasser gefasst aus dem Schloßbergborn und war bis nach 1870 Wasserstelle für das westliche Altstadtviertel. Option 2 (Wasserleitung) liegt damit zu nah an einer Mitwidmung und wird ersetzt. Die Überschwemmung ist nachweislich falsch, weil die Stadtgeschichte nur die Pulverexplosion als Anlass nennt. Vermeiden sollte man Stadtbrand (die Explosion löste einen Brand aus), Hungersnot (1816/17) und Friedensschluss (Errichtung 1817).
+FAKTENCHECK: korrigiert – Ich habe keine vertrauenswürdige Quelle gefunden, die den Brunnen mit einer Seuche oder einem Bergwerksunglück verbindet. Nach dem Wegweiser Wikipedia (Spiegel de-academic) war der Schwarze Brunnen aber als Röhrenbrunnen gebaut. Er bekam sein Wasser gefasst aus dem Schloßbergborn und war bis nach 1870 Wasserstelle für das westliche Altstadtviertel. Option 2 (Wasserleitung) liegt damit zu nah an einer Mitwidmung und wird ersetzt. Die Überschwemmung ist nachweislich falsch, weil die Stadtgeschichte nur die Pulverexplosion als Anlass nennt. Vermeiden sollte man Stadtbrand (die Explosion löste einen Brand aus), Hungersnot (1816/17) und Friedensschluss (Errichtung 1817).
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 247-eisenach/002.anlass
@@ -119,7 +119,7 @@ Der Schwarze Brunnen ist ein Denkmal in Eisenach. Welchen Anlass nennt die Stadt
 3. Er erinnert an ein Bergwerksunglück.
 4. Er erinnert an eine Pulverexplosion.
 RÜCKSEITE:
-Du hattest [Option] getippt. Bei einem Brunnen denkt man zuerst an Wasser, und das Wort „schwarz“ lässt an Trauer um Seuchenopfer denken. Die Stadtgeschichte nennt als Anlass jedoch eine Pulverexplosion. Richtig war 4.
+Du hattest [Option] getippt. Bei einem Brunnen denkt man zuerst an Wasser, und das Wort „schwarz“ lässt an Trauer um Seuchenopfer denken. Die Stadtgeschichte nennt als Anlass jedoch eine Pulverexplosion im Jahr 1810. Richtig war 4.
 Quelle: Gemeinde-Webseite, www.eisenach.de/leben/geschichte/denkmale/
 WÖRTER RÜCKSEITE: 33
 NEGATIVNACHWEISE:
@@ -131,7 +131,7 @@ PRÜFSTUFE: 1 – Die Aussage stammt von der Gemeinde-Webseite. Es gibt keinen S
 ERFUNDEN: 1, 2, 3
 
 ## Karte 6
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Der Wartburgkreis vergibt laut Landratsamt die Unterscheidungszeichen WAK und SLZ. Für Bürger der Stadt Eisenach wird nach der Eingliederung von 2021 EA vergeben. Dass EA das häufigste Kennzeichen in Eisenach ist, belegt keine Quelle. Deshalb fragt die Karte jetzt nach dem Zeichen bei der Zulassung. Für ESW (Werra-Meißner-Kreis, Hessen) und GTH (Gotha) habe ich keinen amtlichen Beleg auslesen können, die Bundesanzeiger-PDF ließ sich nicht lesen. Diese Angaben werden daher von der Rückseite gestrichen.
+FAKTENCHECK: korrigiert – Der Wartburgkreis vergibt laut Landratsamt die Unterscheidungszeichen WAK und SLZ. Für Bürger der Stadt Eisenach wird nach der Eingliederung von 2021 EA vergeben. Dass EA das häufigste Kennzeichen in Eisenach ist, belegt keine Quelle. Deshalb fragt die Karte jetzt nach dem Zeichen bei der Zulassung. Für ESW (Werra-Meißner-Kreis, Hessen) und GTH (Gotha) habe ich keinen amtlichen Beleg auslesen können, die Bundesanzeiger-PDF ließ sich nicht lesen. Diese Angaben werden daher von der Rückseite gestrichen.
 SORTE: Klassiker
 FAMILIE: A
 FAKT-ID: GRUNDDATEN.kfz
@@ -146,8 +146,8 @@ Welches Kfz-Kennzeichen tragen die meisten Autos in Eisenach?
 3. GTH
 4. EF
 RÜCKSEITE:
-Du hattest [Option] getippt. EF liegt nahe, weil Erfurt die nächste Großstadt ist. ESW steht für den hessischen Werra-Meißner-Kreis, GTH für Gotha. Eisenach gehört zum Wartburgkreis; als Hauptkennzeichen ist für die Stadt EA geführt. Richtig war 1.
-Quelle: Wikidata P395
+Du hattest [Option] getippt. EF liegt nahe, weil Erfurt die nächste Großstadt ist. Eisenach gehört seit 2021 wieder zum Wartburgkreis, dessen Zeichen WAK und SLZ sind. Für Fahrzeuge aus der Stadt Eisenach vergibt das Landratsamt aber EA. Richtig war 1.
+Quelle: Landratsamt Wartburgkreis, www.wartburgkreis.de/leben-im-wartburgkreis/ordnung-sicherheit/kfz-zulassung-strassenverkehrsrecht
 WÖRTER RÜCKSEITE: 37
 NEGATIVNACHWEISE:
 2: Weg (a). GRUNDDATEN kfz EA. ESW ist laut LETZTER_PIN das Kennzeichen des Werra-Meißner-Kreises.

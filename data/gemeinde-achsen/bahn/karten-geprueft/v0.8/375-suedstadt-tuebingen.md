@@ -53,16 +53,21 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Aussage 1 stimmt: Laut dem Theater selbst baute man die leerstehende Fabrik Schäfer ab 1975 zum Haupthaus des LTT um. Die Quelle nennt sie Möbelfabrik, darum ist das Wort „Stuhlfabrik“ auf „Möbelfabrik“ abgeschwächt. Aussage 3 stimmt: Laut den Stadtwerken beginnt ihre Geschichte 1862 mit dem ersten städtischen Gaswerk. Der Bergfriedhof liegt laut Stadt an der Galgenbergstraße, also oben am Galgenberg, damit bleibt Aussage 2 gelogen. „Wie sein Name sagt“ ist gestrichen. Für die Steinlach als Westgrenze habe ich keinen Beleg gefunden, der Satz ist deshalb ersetzt.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Aussage 1 stimmt: Laut dem Theater selbst baute man die leerstehende Fabrik Schäfer ab 1975 zum Haupthaus des LTT um. Die Quelle nennt sie Möbelfabrik, darum ist das Wort „Stuhlfabrik“ auf „Möbelfabrik“ abgeschwächt. Aussage 3 stimmt: Laut den Stadtwerken beginnt ihre Geschichte 1862 mit dem ersten städtischen Gaswerk. Der Bergfriedhof liegt laut Stadt an der Galgenbergstraße, also oben am Galgenberg, damit bleibt Aussage 2 gelogen. „Wie sein Name sagt“ ist gestrichen. Für die Steinlach als Westgrenze habe ich keinen Beleg gefunden, der Satz ist deshalb ersetzt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 375-suedstadt-tuebingen/016.lage
 GEWÄHLTER FAKT: Bergfriedhof, lage: oberhalb des Galgenbergs (Galgenberg = südliche Grenze der Südstadt, 014). Belege der wahren Aussagen: Aussage 1 – 375-suedstadt-tuebingen/009.vorheriges_gebaeude: Stuhlfabrik Schäfer (auch 006.nachfolgenutzer: Landestheater Tübingen). Aussage 3 – 375-suedstadt-tuebingen/008.funktion: Vorläufer der Stadtwerke Tübingen.
 BEKANNTHEIT: niedrig – Die Einzelheiten zur Stadtteilgeschichte sind nur örtlich bekannt.
 VORDERSEITE:
-Aussage 1 lautet neu: „1. Das Gebäude des Landestheaters war früher eine Möbelfabrik.“ (Aussagen 2 und 3 bleiben gleich.)
+Südstadt
+Tübinger Stadtteil mit rund 10.000 Einwohnern (2007), 11 km westlich von Reutlingen.
+Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
+1. Das Gebäude des Landestheaters war früher eine Stuhlfabrik.
+2. Der Bergfriedhof liegt unten am Ufer der Steinlach.
+3. Das frühere Gaswerk war ein Vorläufer der Stadtwerke.
 RÜCKSEITE:
-Du hattest [Option] getippt. Die Möbelfabrik wirkt wie die Lüge, weil ein Theater selten in einer Fabrik beginnt. Gelogen war aber der Bergfriedhof: Er liegt nicht unten an der Steinlach, sondern oben am Galgenberg im Süden des Stadtteils. Das LTT spielt seit den 1970er-Jahren in der früheren Fabrik Schäfer. Die Lüge war 2.
+Du hattest [Option] getippt. Die Stuhlfabrik wirkt wie die Lüge, weil ein Theater selten in einer Fabrik beginnt. Gelogen war aber der Bergfriedhof: Wie sein Name sagt, liegt er oberhalb des Galgenbergs im Süden des Stadtteils. Die Steinlach bildet dagegen die Westgrenze. Die Lüge war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Südstadt_(Tübingen)
 WÖRTER RÜCKSEITE: 46
 NEGATIVNACHWEISE:

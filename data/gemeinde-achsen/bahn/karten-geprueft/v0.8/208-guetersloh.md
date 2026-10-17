@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Dass Reinhard Mohn „von Bertelsmann“ war, steht in keinem QUELLTEXT. Die Ehrenbürgerliste nennt nur den Namen und das Jahr 1981, Bertelsmann kommt nur in FAKTEN 042 vor. Lüge 1 ist klar widerlegt: Die Übergabe war kampflos, und die Webseite berichtet von keinen Gefechten beim Einmarsch. Aussage 2 („damals Neue Kirche“) und die Rückseite sind belegt.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Dass Reinhard Mohn „von Bertelsmann“ war, steht in keinem QUELLTEXT. Die Ehrenbürgerliste nennt nur den Namen und das Jahr 1981, Bertelsmann kommt nur in FAKTEN 042 vor. Lüge 1 ist klar widerlegt: Die Übergabe war kampflos, und die Webseite berichtet von keinen Gefechten beim Einmarsch. Aussage 2 („damals Neue Kirche“) und die Rückseite sind belegt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 208-guetersloh/021.kampflose_uebergabe_erfolg
@@ -65,7 +65,7 @@ Kreisstadt in Nordrhein-Westfalen mit rund 100.000 Einwohnern.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 1. Am Kriegsende wurde die Stadt im Straßenkampf erobert.
 2. Die Martin-Luther-Kirche hieß früher einmal Neue Kirche.
-3. Reinhard Mohn wurde Ehrenbürger der Stadt.
+3. Reinhard Mohn von Bertelsmann wurde Ehrenbürger der Stadt.
 RÜCKSEITE:
 Du hattest [Option] getippt. Zu Kämpfen hätte es kommen können: Hitler hatte Verteidigung bis zur letzten Patrone befohlen. Bürgermeister Josef Bauer hielt die offene, flache Stadt aber für unverteidigbar und wollte ihre Zerstörung verhindern. Am Ostermontag wurde Gütersloh kampflos übergeben. Die Lüge war 1.
 Quelle: Gemeinde-Webseite, www.guetersloh.de/de/leben-in-guetersloh/stadtportrait/kriegsende-in-guetersloh.php

@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Stadt ist nicht direkt nach Carl Leverkus benannt. Leverkus gab seinem neuen Anwesen am Rhein den Namen „Leverkusen“, nach dem alten bergischen Stammhof seiner Familie bei Remscheid-Lennep. Diesen Namen übernahm die Stadt 1930. Der Satz zur Endung „-kusen“ mit dem „aber“ ist deshalb irreführend und muss weg. Die Firma „Bayer“ hat die Fabriken von Leverkus gekauft (die Alizarinfabrik ab 1891, die Ultramarinfabrik 1917); „Vorgänger von Bayer“ trifft nicht zu. Keine Quelle stützt Ritter, Bach oder Kloster als Namensherkunft.
+FAKTENCHECK: korrigiert – Die Stadt ist nicht direkt nach Carl Leverkus benannt. Leverkus gab seinem neuen Anwesen am Rhein den Namen „Leverkusen“, nach dem alten bergischen Stammhof seiner Familie bei Remscheid-Lennep. Diesen Namen übernahm die Stadt 1930. Der Satz zur Endung „-kusen“ mit dem „aber“ ist deshalb irreführend und muss weg. Die Firma „Bayer“ hat die Fabriken von Leverkus gekauft (die Alizarinfabrik ab 1891, die Ultramarinfabrik 1917); „Vorgänger von Bayer“ trifft nicht zu. Keine Quelle stützt Ritter, Bach oder Kloster als Namensherkunft.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 193-leverkusen/001.namensherkunft
@@ -14,7 +14,7 @@ Woher hat die Stadt Leverkusen ihren Namen?
 3. Die Stadt heißt nach einem Bach im Stadtgebiet.
 4. Die Stadt heißt nach einem früheren Kloster.
 RÜCKSEITE:
-Du hattest [Option] getippt. Die Endung -kusen klingt nach altem Siedlungsnamen, und an Bäche, Klöster oder Ritter denkt man schnell. Benannt ist die Stadt aber nach Carl Leverkus, Apotheker und Chemieunternehmer. Er verlegte seine Ultramarinfabrik an den Rhein; sie zählt zu den Vorgängern von Bayer. Richtig war 2.
+Du hattest [Option] getippt. Bei alten Ortsnamen denkt man schnell an Bäche, Klöster oder Ritter. Die Stadt übernahm 1930 aber einen Namen, den der Apotheker Carl Leverkus seinem Werksgelände am Rhein gegeben hatte. Er benannte es nach dem Stammhof seiner Familie bei Lennep. Später kaufte Bayer seine Fabriken. Richtig war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Leverkusen
 WÖRTER RÜCKSEITE: 48
 NEGATIVNACHWEISE:
@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Rheinfähre „Helga“ fuhr 1969 zum letzten Mal von Wiesdorf nach Merkenich. Diese Quelle meint nicht die Hitdorfer Fähre. Für Murat belegt das LVR nur, dass er als Großherzog von Berg Morsbroich zum Mittelpunkt einer neuen Grafschaft erhob; einen Besitz und die Jahre 1795–1807 belegt keine Quelle, deshalb wird Aussage 2 umformuliert. Den goldenen Kahn im Wappen belegt keine vertrauenswürdige Quelle, der Satz fällt weg. Der Wupperverband bestätigt die Wuppermündung in Leverkusen-Rheindorf. Vermerk: Der Beleg für die Fähre stammt von einem Geschichtsverein.
+FAKTENCHECK: korrigiert – Die Rheinfähre „Helga“ fuhr 1969 zum letzten Mal von Wiesdorf nach Merkenich. Diese Quelle meint nicht die Hitdorfer Fähre. Für Murat belegt das LVR nur, dass er als Großherzog von Berg Morsbroich zum Mittelpunkt einer neuen Grafschaft erhob; einen Besitz und die Jahre 1795–1807 belegt keine Quelle, deshalb wird Aussage 2 umformuliert. Den goldenen Kahn im Wappen belegt keine vertrauenswürdige Quelle, der Satz fällt weg. Der Wupperverband bestätigt die Wuppermündung in Leverkusen-Rheindorf. Vermerk: Der Beleg für die Fähre stammt von einem Geschichtsverein.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 193-leverkusen/092.betriebsende
@@ -67,7 +67,7 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. Ein Schwager Napoleons besaß einst Schloss Morsbroich.
 3. Die Wupper mündet in Leverkusen in den Rhein.
 RÜCKSEITE:
-Du hattest [Option] getippt. Die Fähre klingt glaubwürdig, denn am Rhein fahren vielerorts noch Fähren. Die Wiesdorfer Fähre nach Merkenich wurde aber eingestellt; das alte Wiesdorfer Wappen zeigte sie als goldenen Kahn. Murat, Napoleons Schwager, besaß Schloss Morsbroich tatsächlich, und die Wupper mündet wirklich in Leverkusen. Die Lüge war 1.
+Du hattest [Option] getippt. Die Fähre klingt glaubwürdig, denn am Rhein fahren vielerorts noch Fähren. Die Wiesdorfer Fähre nach Merkenich machte aber 1969 ihre letzte Fahrt. Napoleons Schwager Murat erhob Schloss Morsbroich tatsächlich zum Mittelpunkt einer Grafschaft, und die Wupper mündet wirklich in Leverkusen. Die Lüge war 1.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Leverkusen
 WÖRTER RÜCKSEITE: 50
 NEGATIVNACHWEISE:
@@ -185,14 +185,20 @@ PRÜFSTUFE: 2 – Der Fakt stammt nur aus Wikipedia, und „erste“ ist ein Sup
 ERFUNDEN: keine
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Opladen schloss die Partnerschaft 1973 mit Bracknell, und Leverkusen führte sie nach 1975 weiter. Der Geschichtsverein nennt 1975 einen Zusammenschluss von Leverkusen, Opladen und Bergisch Neukirchen; eingemeindet wurde nur Hitdorf. „Eingemeindung“ wird deshalb ersetzt. Die Partnerin heißt in der Quelle „Bracknell“. Das Ziel „europäische Einheit“ belegt keine Quelle, der Satz fällt weg.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Opladen schloss die Partnerschaft 1973 mit Bracknell, und Leverkusen führte sie nach 1975 weiter. Der Geschichtsverein nennt 1975 einen Zusammenschluss von Leverkusen, Opladen und Bergisch Neukirchen; eingemeindet wurde nur Hitdorf. „Eingemeindung“ wird deshalb ersetzt. Die Partnerin heißt in der Quelle „Bracknell“. Das Ziel „europäische Einheit“ belegt keine Quelle, der Satz fällt weg.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 193-leverkusen/081.uebernahmegrund
 GEWÄHLTER FAKT: Bracknell Forest (staedtepartnerschaft), partnerschaft_seit_opladen: 1973; uebernahme_durch_leverkusen: 1975; uebernahmegrund: Opladen wird Teil Leverkusens; hauptziel: Europäische Einheit stärken
 BEKANNTHEIT: niedrig – Wie diese Städtepartnerschaft entstand, ist kaum bekannt.
 VORDERSEITE:
-„Bracknell in England ist Partnerstadt Leverkusens. Wie kam Leverkusen zu dieser Partnerschaft?“ Option 2: „Bergisch Neukirchen brachte sie beim Zusammenschluss 1975 mit.“ Option 3: „Opladen brachte sie beim Zusammenschluss 1975 mit.“ – RÜCKSEITE: „Du hattest [Option] getippt. Naheliegend wäre, dass Leverkusen den Kontakt selbst geknüpft hat. Geschlossen hatte die Partnerschaft aber 1973 die Stadt Opladen. Als sich Opladen 1975 mit Leverkusen zusammenschloss, führte Leverkusen sie weiter. Richtig war 3.“
+Leverkusen
+Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.
+Bracknell Forest in Großbritannien ist Partnerstadt Leverkusens. Wie kam Leverkusen zu dieser Partnerschaft?
+1. Leverkusen schloss sie als allererste Städtepartnerschaft.
+2. Bergisch Neukirchen brachte sie bei der Eingemeindung mit.
+3. Opladen brachte sie bei der Eingemeindung mit.
+4. Sie entstand aus Kontakten nach der Wiedervereinigung.
 RÜCKSEITE:
 Du hattest [Option] getippt. Naheliegend wäre, dass Leverkusen den Kontakt selbst geknüpft hat. Geschlossen hatte die Partnerschaft aber Opladen. Als Opladen Teil Leverkusens wurde, übernahm Leverkusen sie. Hauptziel war, die europäische Einheit zu stärken. Richtig war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Leverkusen
@@ -206,7 +212,7 @@ PRÜFSTUFE: 2 – Der Fakt stammt nur aus Wikipedia, und eine Option enthält ei
 ERFUNDEN: keine
 
 ## Karte 9
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Landesgartenschau 2005 fand auf der früheren Deponie Dhünnaue-Mitte statt. Dort wurden 1923 bis in die 1960er Jahre Bauschutt, Hausmüll und Chemierückstände von Bayer abgelagert. Zwischen 1995 und 2000 wurde die Deponie saniert und abgedichtet. „Giftmülldeponie“ ist zu eng, „Planen“ ist nicht belegt. Eine Quelle für einen Flugplatz, eine Zeche oder eine Pferderennbahn auf dem Gelände fand ich nicht.
+FAKTENCHECK: korrigiert – Die Landesgartenschau 2005 fand auf der früheren Deponie Dhünnaue-Mitte statt. Dort wurden 1923 bis in die 1960er Jahre Bauschutt, Hausmüll und Chemierückstände von Bayer abgelagert. Zwischen 1995 und 2000 wurde die Deponie saniert und abgedichtet. „Giftmülldeponie“ ist zu eng, „Planen“ ist nicht belegt. Eine Quelle für einen Flugplatz, eine Zeche oder eine Pferderennbahn auf dem Gelände fand ich nicht.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 193-leverkusen/054.sanierung
@@ -221,7 +227,7 @@ Der Neuland-Park am Leverkusener Rheinufer war Gelände einer Landesgartenschau.
 3. Er liegt auf dem Gelände einer Zeche.
 4. Er liegt auf einer früheren Pferderennbahn.
 RÜCKSEITE:
-Du hattest [Option] getippt. Bei einem Park am Fluss denkt man an alte Wiesen oder einstige Industrieflächen. Der Neuland-Park entstand aber auf einer ehemaligen Giftmülldeponie. Sie wurde mit speziellen Planen und Abdichtungen saniert, bevor die Landesgartenschau kam. Richtig war 1.
+Du hattest [Option] getippt. Bei einem Park am Fluss denkt man an alte Wiesen oder einstige Industrieflächen. Der Neuland-Park entstand aber auf einer ehemaligen Deponie für Bauschutt, Hausmüll und Chemieabfälle von Bayer. Sie wurde abgedichtet und saniert, bevor 2005 die Landesgartenschau kam. Richtig war 1.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Leverkusen
 WÖRTER RÜCKSEITE: 40
 NEGATIVNACHWEISE:

@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Die Quelle schreibt "Kirche und Turm". Dass "Kirchturm" gemeint ist, liegt nahe, steht dort aber nicht. Aussage 3 folgt deshalb dem Wortlaut der Quelle. "Löschten den Brand vor der Kirche" lässt sich auch räumlich lesen, die Quelle sagt aber "bevor sie die Kirche erreichte". Die Lüge ist belegt falsch, denn die Quelle nennt als Ursache für 1685 nur einen Blitzstrahl.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Quelle schreibt "Kirche und Turm". Dass "Kirchturm" gemeint ist, liegt nahe, steht dort aber nicht. Aussage 3 folgt deshalb dem Wortlaut der Quelle. "Löschten den Brand vor der Kirche" lässt sich auch räumlich lesen, die Quelle sagt aber "bevor sie die Kirche erreichte". Die Lüge ist belegt falsch, denn die Quelle nennt als Ursache für 1685 nur einen Blitzstrahl.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 89-bondorf/007.ursache
@@ -64,8 +64,8 @@ Bondorf
 Bondorf ist eine Gemeinde mit rund 6.200 Einwohnern, 27 km westlich von Reutlingen.
 Bondorf hat mehrmals gebrannt. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 1. 1685 legten durchziehende Soldaten Feuer im Dorf.
-2. 1815 löschten Bondorfer das Feuer, bevor es die Kirche erreichte.
-3. 1559 brannte Bondorf samt Kirche und Turm ab.
+2. 1815 löschten Bondorfer den Brand vor der Kirche.
+3. 1559 brannten Dorf, Kirche und Kirchturm ab.
 RÜCKSEITE:
 Du hattest [Option] getippt. Soldaten liegen nahe, denn in Kriegen gingen viele Dörfer in Flammen auf. Den Brand von 1685 löste jedoch ein Blitzschlag aus. 1559 brannte Bondorf samt Kirche und Turm ab, 1815 löschten mutige Bondorfer das Feuer, bevor es die Kirche erreichte. Die Lüge war 1.
 Quelle: Gemeinde-Webseite, www.bondorf.de/unsere-gemeinde/geschichtliches

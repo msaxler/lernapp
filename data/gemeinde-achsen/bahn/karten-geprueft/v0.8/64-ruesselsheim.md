@@ -1,12 +1,18 @@
 ## Karte 1
-FAKTENCHECK: korrigiert – Opels eigene Quellen widersprechen sich beim Jahr. Laut Stellantis-Pressetext hat Adam Opel im August 1862 zuerst im Elternhaus gearbeitet und erst 1863 seine erste eigene Fertigungsstätte im leeren Kuhstall seines Onkels mütterlicherseits eingerichtet. Laut OpelPost hat er im Herbst 1862 im Kuhstall begonnen. Keine Quelle nennt eine Mühle, ein Pfarrhaus oder eine Gastwirtschaft. „Ausgebildet“ ist nicht belegt: Er hat bei der Firma F. Journeaux & Leblond in Paris gearbeitet. Für „Schlosserlehrling“ habe ich keinen Beleg gefunden, deshalb fällt es weg.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Opels eigene Quellen widersprechen sich beim Jahr. Laut Stellantis-Pressetext hat Adam Opel im August 1862 zuerst im Elternhaus gearbeitet und erst 1863 seine erste eigene Fertigungsstätte im leeren Kuhstall seines Onkels mütterlicherseits eingerichtet. Laut OpelPost hat er im Herbst 1862 im Kuhstall begonnen. Keine Quelle nennt eine Mühle, ein Pfarrhaus oder eine Gastwirtschaft. „Ausgebildet“ ist nicht belegt: Er hat bei der Firma F. Journeaux & Leblond in Paris gearbeitet. Für „Schlosserlehrling“ habe ich keinen Beleg gefunden, deshalb fällt es weg.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 64-ruesselsheim/007.gruendung
 GEWÄHLTER FAKT: Adam Opel, gruendung, Nähmaschinen-Manufaktur 1862 im Stall seines Onkels in Rüsselsheim
 BEKANNTHEIT: mittel – Opel als Autobauer aus Rüsselsheim kennt fast jeder, auch die Nähmaschinen kennen viele, den Stall des Onkels kaum jemand.
 VORDERSEITE:
-Frage neu: „Adam Opel gründete 1862 in Rüsselsheim eine Nähmaschinen-Manufaktur. Wo richtete er seine erste eigene Fertigungsstätte ein?“ Die Optionen 1–4 bleiben. RÜCKSEITE: „Du hattest [Option] getippt. Eine Mühle am Fluss läge für eine Werkstatt nahe, denn Wasser trieb früher Maschinen an. Doch Adam Opel, der zuvor bei einem großen Pariser Nähmaschinenhersteller gearbeitet hatte, begann ganz klein: in einem leeren Kuhstall seines Onkels. Daraus wurde später der Autohersteller Opel. Richtig war 4.“ Quelle: Opel/Stellantis, opelpost.com
+Rüsselsheim
+Stadt mit rund 66.000 Einwohnern, 10 km östlich von Mainz.
+Adam Opel gründete 1862 in Rüsselsheim eine Nähmaschinen-Manufaktur. Wo richtete er sie ein?
+1. Er nutzte eine leerstehende Mühle am Mainufer.
+2. Er mietete einen Raum im Pfarrhaus.
+3. Er arbeitete im Hinterzimmer einer Gastwirtschaft.
+4. Er richtete sich im Stall seines Onkels ein.
 RÜCKSEITE:
 Du hattest [Option] getippt. Eine Mühle am Fluss läge für eine Werkstatt nahe, denn Wasser trieb früher Maschinen an. Doch Adam Opel, einst Schlosserlehrling und bei einem Pariser Nähmaschinenhersteller ausgebildet, begann ganz klein: im Stall seines Onkels. Aus der Nähmaschinen-Manufaktur wurde später der Autohersteller Opel. Richtig war 4.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Rüsselsheim_am_Main
@@ -179,14 +185,20 @@ PRÜFSTUFE: 2 – Der Fakt stammt nur aus Wikipedia, und die Karte enthält eine
 ERFUNDEN: 1, 3, 4
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Die Festung wurde um 1540 unter Philipp dem Großmütigen fertig ausgebaut. Nach seiner Niederlage im Schmalkaldischen Krieg musste er sie 1547 Karl V. übergeben, und der Kaiser ordnete die Schleifung an. Sie wurde nur teilweise geschleift und 1560–1563 wiederhergestellt, „abgerissen“ geht also zu weit. Keine Quelle nennt Brand oder Main als Ursache. Die Seite des Germanischen Nationalmuseums habe ich nur im Suchauszug gesehen, der Abruf lief in eine Zeitüberschreitung.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Festung wurde um 1540 unter Philipp dem Großmütigen fertig ausgebaut. Nach seiner Niederlage im Schmalkaldischen Krieg musste er sie 1547 Karl V. übergeben, und der Kaiser ordnete die Schleifung an. Sie wurde nur teilweise geschleift und 1560–1563 wiederhergestellt, „abgerissen“ geht also zu weit. Keine Quelle nennt Brand oder Main als Ursache. Die Seite des Germanischen Nationalmuseums habe ich nur im Suchauszug gesehen, der Abruf lief in eine Zeitüberschreitung.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 64-ruesselsheim/010.grund_schleifung
 GEWÄHLTER FAKT: Festung Rüsselsheim, grund_schleifung, Anordnung Kaiser Karl V. nach Niederlage im Schmalkaldischen Krieg (geschleift 1547)
 BEKANNTHEIT: niedrig – Die Geschichte der Festung ist außerhalb der Region kaum bekannt.
 VORDERSEITE:
-Frage neu: „Philipp der Großmütige ließ die Burg am Main zur Festung ausbauen. Warum wurde sie 1547 geschleift, also ihre Befestigung abgetragen?“ Die Optionen 1–4 bleiben. RÜCKSEITE: „Du hattest [Option] getippt. Bei einer Burg am Main liegt ein unterspülter Bau nahe. Doch Philipp hatte die Festung für den Schmalkaldischen Krieg aufgerüstet. Nach seiner Niederlage musste er sie dem Kaiser übergeben, und Karl V. ordnete an, sie zu schleifen. 1560 bis 1563 wurde sie wiederhergestellt. Richtig war 3.“
+Rüsselsheim
+Stadt mit rund 66.000 Einwohnern, 10 km östlich von Mainz.
+Philipp der Großmütige ließ die Burg am Main zur Festung ausbauen. Warum wurde sie 1547 wieder abgerissen?
+1. Ein Großbrand hatte sie unbrauchbar gemacht.
+2. Der Main hatte ihre Mauern unterspült.
+3. Der Kaiser befahl es nach Philipps Niederlage.
+4. Philipp ließ sie für ein Schloss abtragen.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei einer Burg am Main liegt ein unterspülter Bau nahe. Doch Philipp hatte die Festung für den Schmalkaldischen Krieg aufgerüstet. Nach der Niederlage ordnete Kaiser Karl V. an, sie zu schleifen, also planmäßig abzutragen. Später wurde sie wiederhergestellt. Richtig war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Rüsselsheim_am_Main

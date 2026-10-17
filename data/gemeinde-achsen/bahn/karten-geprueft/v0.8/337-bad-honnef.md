@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Laut KuLaDig (LVR) zog Adenauer im April 1935 nach Rhöndorf, zuerst zur Miete in der Löwenburgstraße 76. Von Oktober 1935 bis April 1936 wohnte er in Unkel, Weihnachten 1937 zog er ins eigene Haus und starb dort am 19. April 1967. „Ab 1935 ohne Unterbrechung“ stimmt also nicht ganz, die Lüge in Aussage 1 bleibt aber klar falsch. Eingemeindung Aegidienbergs 1969 und Zusatz „Bad“ ab 1960 fand ich nur in Wikipedia-nahen Texten, dort auch als „Honnef am Rhein“. Deshalb ist Aussage 2 neutral umformuliert.
+FAKTENCHECK: korrigiert – Laut KuLaDig (LVR) zog Adenauer im April 1935 nach Rhöndorf, zuerst zur Miete in der Löwenburgstraße 76. Von Oktober 1935 bis April 1936 wohnte er in Unkel, Weihnachten 1937 zog er ins eigene Haus und starb dort am 19. April 1967. „Ab 1935 ohne Unterbrechung“ stimmt also nicht ganz, die Lüge in Aussage 1 bleibt aber klar falsch. Eingemeindung Aegidienbergs 1969 und Zusatz „Bad“ ab 1960 fand ich nur in Wikipedia-nahen Texten, dort auch als „Honnef am Rhein“. Deshalb ist Aussage 2 neutral umformuliert.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 337-bad-honnef/036.wohnort_rhoenorf
@@ -67,7 +67,7 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. Bad Honnef trug früher schlicht den Namen Honnef.
 3. Der Ortsteil Aegidienberg war früher eine eigene Gemeinde.
 RÜCKSEITE:
-Du hattest [Option] getippt. Verdächtig wirkt leicht Aegidienberg, doch der Stadtbezirk war wirklich einst eine eigene Gemeinde, und Bad Honnef hieß früher nur Honnef. Gelogen war Adenauers Umzug: Er wohnte schon ab 1935 bis zu seinem Tod in Rhöndorf, also auch als Kanzler. Die Lüge war 1.
+Du hattest [Option] getippt. Verdächtig wirkt leicht Aegidienberg, doch der Stadtbezirk war wirklich einst eine eigene Gemeinde, und Bad Honnef hieß früher ohne das „Bad“. Gelogen war Adenauers Umzug: Er zog schon 1935 nach Rhöndorf und lebte dort bis zu seinem Tod 1967, also auch als Kanzler. Die Lüge war 1.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Bad_Honnef
 WÖRTER RÜCKSEITE: 47
 NEGATIVNACHWEISE:
@@ -111,7 +111,13 @@ FAKT-ID: 337-bad-honnef/060.grund
 GEWÄHLTER FAKT: cities_partnership Städtepartnerschaft Cadenabbia, grund: Konrad Adenauer verbrachte dort regelmäßig seinen Urlaub
 BEKANNTHEIT: mittel – Adenauer ist allen bekannt, die Verbindung zur Partnerschaft wenigen.
 VORDERSEITE:
+Bad Honnef
+Rund 25.000 Einwohner, 14 km südöstlich von Bonn.
 Bad Honnef ist mit Cadenabbia verpartnert, einem Ortsteil von Griante am Comer See in der Lombardei. Worauf geht diese Partnerschaft zurück?
+1. Honnefer Kurgäste entdeckten dort ein Heilbad.
+2. Ein berühmter Bewohner machte dort regelmäßig Urlaub.
+3. Beide Kirchen tragen denselben Schutzheiligen.
+4. Honnefer Winzer holten von dort ihre Reben.
 RÜCKSEITE:
 Du hattest [Option] getippt. Kur oder Weinbau liegen nahe, denn Bad Honnef war Heilbad, und am Drachenfels liegen Weinberge. Der Grund war aber ein Urlauber: Konrad Adenauer verbrachte in Cadenabbia regelmäßig seinen Urlaub. Daran knüpft die Partnerschaft an. Richtig war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Bad_Honnef

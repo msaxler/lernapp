@@ -111,7 +111,13 @@ FAKT-ID: 319-wasserburg-bodensee/057.namensgeber
 GEWÄHLTER FAKT: Sumserhalle, namensgeber: Augustin Sumser (Hauptperson in Horst Wolfram Geisslers Roman „Der liebe Augustin“)
 BEKANNTHEIT: niedrig – Der Roman ist heute wenig bekannt, und den Hallennamen kennen nur Ortskundige.
 VORDERSEITE:
-Wasserburg (Bodensee) / Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee. / Die Sumserhalle in Wasserburg ist nach Augustin Sumser benannt. Wer ist das? / 1. Er war ein Fischer, der Ertrinkende rettete. / 2. Er schenkte der Gemeinde den Grund am See. / 3. Er war lange Bürgermeister von Wasserburg. / 4. Er ist die Hauptfigur eines Romans.
+Wasserburg (Bodensee)
+Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee.
+Die Sumserhalle in Wasserburg ist nach Augustin Sumser benannt. Wer ist das?
+1. Er war ein Fischer, der Ertrinkende rettete.
+2. Er schenkte der Gemeinde den Grund am See.
+3. Er war lange Bürgermeister von Wasserburg.
+4. Er ist die Hauptfigur eines Romans.
 RÜCKSEITE:
 Du hattest [Option] getippt. Hallen tragen oft die Namen verdienter Bürger, daher liegt ein Mensch aus dem Ort nahe. Augustin Sumser hat aber nie gelebt: Er ist die erfundene Hauptfigur in Horst Wolfram Geißlers Roman „Der liebe Augustin“ von 1921. Der Schriftsteller wuchs in Wasserburg auf und wurde Ehrenbürger. Richtig war 4. / Quelle: Schwäbische Zeitung; museen-in-bayern.de
 WÖRTER RÜCKSEITE: 45
@@ -212,7 +218,13 @@ FAKT-ID: 319-wasserburg-bodensee/043.beschreibung
 GEWÄHLTER FAKT: Wasserburger Einbaum, beschreibung: bronzezeitliches Transportmittel, alter ca. 3150 Jahre (dendrochronologisch), Bergung Frühjahr 2018
 BEKANNTHEIT: niedrig – Der Fund war vor allem regional in den Nachrichten.
 VORDERSEITE:
-Wasserburg (Bodensee) / Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee. / 2018 wurde vor dem Wasserburger Ufer das Teil eines uralten Holzboots geborgen. Aus welcher Zeit stammt es? / 1. Es stammt aus der Jungsteinzeit. / 2. Es stammt aus der Römerzeit. / 3. Es stammt aus der Bronzezeit. / 4. Es stammt aus dem Mittelalter.
+Wasserburg (Bodensee)
+Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee.
+2018 wurde vor dem Wasserburger Ufer das Teil eines uralten Holzboots geborgen. Aus welcher Zeit stammt es?
+1. Es stammt aus der Jungsteinzeit.
+2. Es stammt aus der Römerzeit.
+3. Es stammt aus der Bronzezeit.
+4. Es stammt aus dem Mittelalter.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei Funden im Bodensee denkt man schnell an die Pfahlbauten der Steinzeit. Dieses Boot ist jünger: Nach den Jahresringen seines Holzes stammt es aus der Zeit um 1137 v. Chr., also aus der Bronzezeit. Es gilt als ältestes Schiff des Bodensees. Richtig war 3. / Quelle: Pfahlbaumuseum Unteruhldingen; Schwäbische Zeitung
 WÖRTER RÜCKSEITE: 39

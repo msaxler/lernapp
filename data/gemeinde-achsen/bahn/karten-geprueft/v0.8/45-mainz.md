@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Goethe schreibt in seinem eigenen Bericht „Belagerung von Mainz“, dass er dort am 8. Juni 1793 seine „Arbeit an ‚Reineke Fuchs‘ fleißig fort[setzte]“. Arbeit am „Werther“, am „Götz“ oder an der „Iphigenie“ erwähnt er nicht. Das Frankfurter Goethe-Haus ordnet „Götz“ und „Werther“ Goethes Frankfurter Jugendjahren zu; dass die Neufassungen von „Werther“ und „Iphigenie“ 1787 abgeschlossen waren, fand ich aber nur über Wikipedia als Wegweiser. Goethes Titel lautet „Reineke Fuchs“. Den Satz über Kleist und Clausewitz habe ich nach dem Vorschlag aus Stufe 1 an die Quelle angeglichen.
+FAKTENCHECK: korrigiert – Goethe schreibt in seinem eigenen Bericht „Belagerung von Mainz“, dass er dort am 8. Juni 1793 seine „Arbeit an ‚Reineke Fuchs‘ fleißig fort[setzte]“. Arbeit am „Werther“, am „Götz“ oder an der „Iphigenie“ erwähnt er nicht. Das Frankfurter Goethe-Haus ordnet „Götz“ und „Werther“ Goethes Frankfurter Jugendjahren zu; dass die Neufassungen von „Werther“ und „Iphigenie“ 1787 abgeschlossen waren, fand ich aber nur über Wikipedia als Wegweiser. Goethes Titel lautet „Reineke Fuchs“. Den Satz über Kleist und Clausewitz habe ich nach dem Vorschlag aus Stufe 1 an die Quelle angeglichen.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 45-mainz/031.schreibort
@@ -119,7 +119,7 @@ Goethe lag 1793 mit dem Weimarer Herzog vor dem belagerten Mainz. Woran schrieb 
 3. Er schrieb dort an der „Iphigenie“.
 4. Er schrieb dort an „Reinecke Fuchs“.
 RÜCKSEITE:
-Du hattest [Option] getippt. Bei Goethe denkt man zuerst an die berühmten Jugendwerke wie den Werther. Im Chausseehaus in Marienborn entstanden nach der Ortsgeschichte aber Teile von „Reinecke Fuchs“. Prominente Gäste in Marienborn waren damals auch Heinrich von Kleist und Carl von Clausewitz. Richtig war 4.
+Du hattest [Option] getippt. Bei Goethe denkt man zuerst an die berühmten Jugendwerke wie den Werther. Im Chausseehaus in Marienborn entstanden nach der Ortsgeschichte aber Teile von „Reineke Fuchs“. Auch Heinrich von Kleist und Carl von Clausewitz waren damals in Marienborn. Richtig war 4.
 Quelle: Gemeinde-Webseite, www.mainz.de/startseite-mainz.de/stadtteile/marienborn/marienborn
 WÖRTER RÜCKSEITE: 46
 NEGATIVNACHWEISE:

@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Alle drei Aussagen und die Rückseite sind belegt: Die Autobahn zerschneidet die Gemarkung, Hettarazi war Italiener, und die Christuskirche wurde 1958/59 gebaut. Die Lüge „Die evangelische Kirche Aichelbergs“ lässt sich aber auch auf die Kirche der Kirchengemeinde Zell-Aichelberg in Zell beziehen. Dann könnte Aussage 2 zutreffen. Ich schränke sie auf den Ort ein. Für den Ort ist sie durch den QUELLTEXT sicher widerlegt.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Alle drei Aussagen und die Rückseite sind belegt: Die Autobahn zerschneidet die Gemarkung, Hettarazi war Italiener, und die Christuskirche wurde 1958/59 gebaut. Die Lüge „Die evangelische Kirche Aichelbergs“ lässt sich aber auch auf die Kirche der Kirchengemeinde Zell-Aichelberg in Zell beziehen. Dann könnte Aussage 2 zutreffen. Ich schränke sie auf den Ort ein. Für den Ort ist sie durch den QUELLTEXT sicher widerlegt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 277-aichelberg/015.baujahr
@@ -64,7 +64,7 @@ Aichelberg
 Aichelberg ist eine Gemeinde mit rund 1.300 Einwohnern, 31 km nordöstlich von Reutlingen.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 1. Eine Autobahn durchschneidet das Gemeindegebiet von Aichelberg.
-2. Die evangelische Kirche im Ort Aichelberg stammt aus dem Mittelalter.
+2. Die evangelische Kirche Aichelbergs stammt aus dem Mittelalter.
 3. Ein italienischer Unternehmer baute die Neue Steige.
 RÜCKSEITE:
 Du hattest [Option] getippt. Eine mittelalterliche Kirche liegt nahe, denn viele Dörfer der Gegend haben eine. Doch Aichelbergs Christuskirche entstand erst nach dem Zweiten Weltkrieg. Mit ihr erfüllte sich der Wunsch, evangelischen Gottesdienst in einem Kirchenraum zu feiern. Wahr sind die Autobahn und die Neue Steige, gebaut vom Italiener Hettarazi. Die Lüge war 2.

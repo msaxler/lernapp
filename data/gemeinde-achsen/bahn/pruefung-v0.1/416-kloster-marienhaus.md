@@ -1,61 +1,54 @@
 ## Karte 1
 URTEIL: stufe2
-BEFUND: Der Quelltext nennt als Zweck der GmbH Krankenpflege und Sozialarbeit („Zu diesem Zwecke“). Dass das Vermögen des Ordens in ihr gebunden war, beschreibt nur, wie die GmbH aufgebaut war, nicht warum sie gegründet wurde. Die Rückseite („gründeten sie aber, um das Vermögen des Ordens zu binden“) liest die Quelle also falsch. Die Quellenzeile nennt außerdem „Gemeinde-Webseite“ für eine Wikipedia-Adresse.
-BELEG: nur Wikipedia (de.wikipedia.org/wiki/Franziskanerinnen_…: „Zu diesem Zwecke gründete sich 1903 die Marienhaus GmbH, in der das Vermögen des Ordens gebunden war“)
-STUFE2: Klären, ob die Vermögensbindung tatsächlich der Gründungszweck der GmbH von 1903 war. Sonst die Frage umbauen, sodass die wahre Option „Krankenpflege und Sozialarbeit tragen“ lautet. Die Quellenart „Gemeinde-Webseite“ berichtigen.
+BEFUND: Dass Agatha Simons die Bauherrin war, steht nur im Wikipedia-Artikel zum Orden. Dort steht auch nur „weitgehend“, nämlich „unter ihrer Ägide erhielt das Kloster weitgehend sein heutiges Aussehen“; die Rückseite lässt diese Einschränkung weg. Nach NDB baute Rosa Flesch 1861 die erste Niederlassung; die Pfarrei half laut Wikipedia nicht mit, also ist Option 2 für die erste Bebauung nicht zweifelhaft.
+BELEG: nur Wikipedia (de.wikipedia.org/wiki/Franziskanerinnen_…: „Agatha Simons, Bauherrin des Klosters Marienhaus in seiner heutigen Gestalt“)
+STUFE2: Im Netz klären, ob Agatha Simons als Bauherrin der heutigen Klosteranlage belegt ist und ob „weitgehend“ in die Karte gehört. Außerdem klären, ob Maria Bonner an späteren Bauabschnitten führend beteiligt war.
 BERICHTIGT: –
 
 ## Karte 2
 URTEIL: stufe2
-BEFUND: Der Erwerb 1857 von felsigem Land zu günstigem Preis steht im Quelltext. „Günstig erworben“ schließt Schenkung und Erbe aus, und das Land war damals unbebaut. Das „zuerst“ auf der Rückseite ist eine Aussage zur Reihenfolge, die der Text nicht ausdrücklich macht. Der Quelltext sagt nur: „errichtete sie dann …“.
-BELEG: nur Wikipedia (de.wikipedia.org/wiki/Rosa_Flesch: „auf dem sie 1857 felsiges Land günstig erworben hatte“). Die NDB (deutsche-biographie.de) bestätigt den Erwerb des Landes, nennt aber keinen Preis.
-STUFE2: Den Kauf zu günstigem Preis und das Jahr 1857 außerhalb von Wikipedia belegen. Das „zuerst“ streichen oder belegen.
+BEFUND: Die Klinikseite schreibt „Anfang des vorletzten Jahrhunderts“. Von 2020 aus ist das das 19. Jahrhundert, also nicht „Anfang des 20. Jahrhunderts“ wie auf der Vorderseite; die Extraktion hat sich hier verlesen oder die Seite irrt. Die Zeitangabe ist nicht belegt und sollte aus der Frage, etwa: „Wofür entstand die heutige Westerwaldklinik?“. Die erfundene Option 1 (Kurhotel) könnte in einem Luftkurort eine zweite Wahrheit sein, etwa als Vorgängernutzung oder als Kurhaus mit Sanatorium. Die Klinikseite ist außerdem weder Gemeinde-Webseite noch Landesportal, und „Waldbreitbach ist Luftkurort“ beruht nur auf dieser Seite von 2020.
+BELEG: www.westerwaldklinik.de/die-klinik/historie.html: „ursächlich für die Errichtung eines Sanatoriums zur Behandlung der Tuberkulose“
+STUFE2: Im Netz klären: das Baujahr bzw. Jahrhundert des Sanatoriums, ob das Haus vorher oder zugleich Kurhaus oder Hotel war, ob die LVA Rheinprovinz schon das Sanatorium trug oder erst später die Reha, und ob Waldbreitbach heute noch Luftkurort ist.
 BERICHTIGT: –
 
 ## Karte 3
 URTEIL: stufe2
-BEFUND: Die Lüge stimmt: Die erste Regel bestätigte 1869 Bischof Matthias Eberhard von Trier, das sagen Wikipedia und die NDB. Die Gründung durch genau drei Frauen und die Approbation 1912 durch Pius X. stehen aber nur bei Wikipedia. Die NDB spricht ohne Zahl von „Gefährtinnen“. „Erkannte an“ gibt die „päpstliche Approbation“ vertretbar wieder.
-BELEG: nur Wikipedia (de.wikipedia.org/wiki/Franziskanerinnen_…: „Am 12. Dezember 1912 erhielt der Orden die päpstliche Approbation durch Pius X.“)
-STUFE2: Die päpstliche Approbation vom 12.12.1912 durch Pius X. belegen. Klären, ob genau drei Gründerinnen genannt werden dürfen.
+BEFUND: Die NDB widerspricht der wahren Aussage 3 teilweise: Dort zog sie 1850 „in die … Wohnung der erloschenen Vikarie an der Kreuzkapelle“ und nicht 1851 in eine Eremitenwohnung. Nur Wikipedia nennt die Eremitenwohnung und das Ende 1860; kuladig nennt immerhin eine „Klause“. Dass ihr Vater Ölmüller war, trägt kuladig mit „Ölmühle“; die NDB sagt nur „Müllermeister“. Der Trierer Dom als Ort der Seligsprechung steht nur in Wikipedia.
+BELEG: www.kuladig.de/Objektansicht/Drucken/O-99702-20140814-7: „Ihr Vater übernahm 1838 die Keltermühle, eine Ölmühle im Fockenbachtal.“ / „1851 bezog sie eine Klause in der Kreuzkapelle“; Trierer Dom nur Wikipedia
+STUFE2: Im Netz klären: ob ihre Wohnung an der Kreuzkapelle eine Eremitenwohnung oder Klause war oder die Wohnung der Vikarie, sowie die Wohndauer (1850/1851–1860). Den Trierer Dom als Ort der Seligsprechung am 4. Mai 2008 mit einer Nicht-Wikipedia-Quelle bestätigen.
 BERICHTIGT: –
 
 ## Karte 4
 URTEIL: stufe2
-BEFUND: Den Taufnamen und den Ölmüller tragen auch Quellen außerhalb von Wikipedia: die NDB („Taufname Margarete“) und KuLaDig („Ölmühle“). Die Seligsprechung im Trierer Dom steht nur bei Wikipedia. Der Halbsatz „wie ihn Ordensfrauen beim Eintritt annehmen“ ist ungenau, denn laut Quelltext nahm sie den Namen 1863 beim Ablegen der Gelübde an. Vorschlag: „Maria Rosa war ihr Ordensname, den sie 1863 bei den Gelübden annahm.“
-BELEG: nur Wikipedia (de.wikipedia.org/wiki/Rosa_Flesch: „Sie fand am 4. Mai 2008 im Trierer Dom statt“). Für den Taufnamen ergänzend deutsche-biographie.de: „Flesch, Maria Rosa (Taufname Margarete)“.
-STUFE2: Den Ort der Seligsprechung (Trierer Dom, 4.5.2008) belegen. Den Halbsatz zum Ordensnamen wie vorgeschlagen ersetzen.
+BEFUND: Aussage 1 (der Pfarrer genehmigte nur zögerlich) und Aussage 2 (das Fenster von Helmut Rams) stehen nur in Wikipedia. Gegen die Lüge spricht auch die NDB, also nicht nur Wikipedia: Niederlassung 1861 auf erworbenem Land neu gebaut, Gründung 1863. Die Rückseite sagt, „das Kloster“ sei 1863 gegründet worden; 1863 wurde aber der Orden gegründet, das Haus auf dem Kapellenberg entstand schon 1861. Das Jahr steht außerdem nach Regel 3a an Stufe 2.
+BELEG: nur Wikipedia (de.wikipedia.org/wiki/Franziskanerinnen_…: „Pfarrer Jakob Gomm ursprünglich nur zögerlich seine Genehmigung erteilt“); Gegenbeleg zur Lüge: www.deutsche-biographie.de/sfz16442.html: „dort 1861 eine neue Niederlassung bauen“
+STUFE2: Im Netz klären: die zögerliche Genehmigung durch Pfarrer Gomm und das Rams-Fenster in der Pfarrkirche (Bestand heute) außerhalb von Wikipedia bestätigen. Auf der Rückseite „das Kloster … 1863“ zu „den Orden … 1863“ ändern oder die Jahreszahl prüfen.
 BERICHTIGT: –
 
 ## Karte 5
 URTEIL: stufe2
-BEFUND: Der Quelltext schränkt ein: „Unter ihrer Ägide erhielt das Kloster Marienhaus weitgehend sein heutiges Aussehen.“ Diesen Vorbehalt verliert die Karte. Rosa Flesch baute 1861 das erste Haus auf dem Kapellenberg, deshalb könnte Option 2 als Mitbeteiligung angefochten werden. Teile der heutigen Anlage können auch nach 1905 entstanden sein.
-BELEG: nur Wikipedia (de.wikipedia.org/wiki/Franziskanerinnen_…: „Agatha Simons, Bauherrin des Klosters Marienhaus in seiner heutigen Gestalt“)
-STUFE2: Klären, ob Agatha Simons ohne Einschränkung als Bauherrin der heutigen Anlage gelten kann und welche Gebäude von Rosa Flesch oder aus der Zeit nach 1905 stammen. Sonst „weitgehend“ in Frage und Rückseite aufnehmen.
+BEFUND: Das Fachgebiet ist durch die Abteilungsseite und durch kliniken.de belegt. Kliniken.de führt nur Psychiatrie und Tagesklinik als Fachabteilungen und nennt nur Erwachsene, damit sind die Optionen 1, 2 und 4 widerlegt. Die Trägerschaft der Stiftung (Vorderseite) steht nur in Wikipedia; kliniken.de nennt lediglich das „Stiftungsleitbild“ und die Nähe zum Orden. Bei Maastricht nennt kliniken.de nur „Lehrkrankenhaus“, nicht „akademisches“; die Rückseite überdehnt das, und beides ist ein veränderlicher aktueller Stand.
+BELEG: www.marienhaus-klinikum.de/…/klinik-fuer-psychiatrie-psychotherapie-und-psychosomatik: „In unserer Klinik für Psychiatrie, Psychotherapie und Psychosomatik werden Erwachsene aufgenommen“
+STUFE2: Im Netz klären: die heutige Trägerschaft (Marienhaus Stiftung), den aktuellen Status als Lehrkrankenhaus für Mainz und Maastricht samt genauer Bezeichnung, und ob das Fachgebiet noch so gilt.
 BERICHTIGT: –
 
 ## Karte 6
 URTEIL: bestätigt
-BEFUND: keiner
-BELEG: GRUNDDATEN: „km_landeshauptstadt: Mainz, 88 km Luftlinie“; „landkreis: Landkreis Neuwied“
+BEFUND: keiner. Mainz, 88 km Luftlinie, Landkreis Neuwied und Rheinland-Pfalz (für die Gemeinde) stehen genau so in GRUNDDATEN; Option 4 ist richtig.
+BELEG: GRUNDDATEN: „km_landeshauptstadt: Mainz, 88 km Luftlinie“
 STUFE2: nichts
 BERICHTIGT: –
 
 ## Karte 7
 URTEIL: stufe2
-BEFUND: Laut Quelltext ist Maria Anna ihre leibliche Schwester. Auf der Rückseite klingt „mit Schwester Maria Anna“ wie eine Ordensschwester; besser ist „mit ihrer Schwester Maria Anna“. Für den Einzug gibt die NDB 1850 an, Wikipedia und KuLaDig nennen 1851. Die NDB nennt die Unterkunft „Wohnung der erloschenen Vikarie“, eine Geistlichenwohnung, und kommt damit dem erfundenen „Pfarrhaus“ (Option 2) nahe.
-BELEG: kuladig.de/Objektansicht/Drucken/O-99702-20140814-7: „1851 bezog sie eine Klause in der Kreuzkapelle“. Für 1860 nur Wikipedia.
-STUFE2: Das Einzugsjahr klären (1850 oder 1851) und den Auszug 1860 belegen. Klären, ob die Vikarie-Wohnung Option 2 als zweite Wahrheit stützt. Die Rückseite in „mit ihrer Schwester Maria Anna“ ändern.
-BERICHTIGT: –
-
-## Karte 8
-URTEIL: stufe2
-BEFUND: Der Artikel über Rosa Flesch sagt, ihr Gesuch sei „von Pfarrer Gomm zunächst abgewiesen“ worden. Damit trifft Option 1 („verbot ihr die Gründung“) für den Anfang teilweise zu, und die Karte hat zwei vertretbare Antworten. Die zögerliche Genehmigung steht nur im zweiten Wikipedia-Artikel. Retten ließe sich die Karte so: Option 1 wird zu „Er lehnte sie bis zuletzt ab.“, und die Rückseite nennt die erste Abweisung.
-BELEG: nur Wikipedia (de.wikipedia.org/wiki/Franziskanerinnen_…: „Pfarrer Jakob Gomm ursprünglich nur zögerlich seine Genehmigung erteilt hatte“)
-STUFE2: Klären, wie Gomm zur Gründung stand (erst abgewiesen, dann genehmigt?). Option 1 so umformulieren, dass sie belegt falsch ist.
+BEFUND: 900 Schwestern und 67 Niederlassungen stehen nur in Wikipedia, und 900 liegt nah an der Grenze von Option 1. Für 1878 schreibt der Rosa-Flesch-Artikel „über 100“ Schwestern in „über 21 Filialen“, die NDB nennt 21 Niederlassungen schon für 1875; der Anhalt im Steckbrief ist also unscharf. Die Quelle sagt „im Todesjahr“, die Rückseite „beim Tod“; besser „Im Todesjahr von Rosa Flesch“. Das Todesjahr 1906 trägt die NDB.
+BELEG: nur Wikipedia (de.wikipedia.org/wiki/Franziskanerinnen_…: „Im Todesjahr von Mutter Rosa gehörten 900 Schwestern in 67 Niederlassungen“)
+STUFE2: Im Netz klären: die Schwesternzahl 1906 (900) und die 67 Niederlassungen, außerdem die Zahl für 1878 (100 oder „über 100“) für den Steckbrief.
 BERICHTIGT: –
 
 ## ÜBERSICHT
 bestätigt: 1
 korrigiert: 0
-stufe2: 7
+stufe2: 6
 gesperrt: 0

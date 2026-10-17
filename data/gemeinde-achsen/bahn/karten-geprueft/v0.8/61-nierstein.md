@@ -185,7 +185,7 @@ PRÜFSTUFE: 1 – Gemeinde-Webseite, kein Superlativ, keine Zahl auf der Rückse
 ERFUNDEN: 1, 2, 4
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Laut QUELLTEXT „galt“ der Oberhof als Orientierungs- und Entscheidungsinstanz. Die wahre Option 2 („Er war Vorbild“) lässt diesen Vorbehalt fallen, die Rückseite behält ihn. Alle übrigen Angaben der Rückseite sind belegt, und der QUELLTEXT verwendet „Oberhof“ nur im Zusammenhang mit dem Sendgericht. Ein gleichnamiger Gutshof kommt dort nicht vor.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Laut QUELLTEXT „galt“ der Oberhof als Orientierungs- und Entscheidungsinstanz. Die wahre Option 2 („Er war Vorbild“) lässt diesen Vorbehalt fallen, die Rückseite behält ihn. Alle übrigen Angaben der Rückseite sind belegt, und der QUELLTEXT verwendet „Oberhof“ nur im Zusammenhang mit dem Sendgericht. Ein gleichnamiger Gutshof kommt dort nicht vor.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 61-nierstein/043.oberhof_funktion
@@ -196,7 +196,7 @@ Nierstein
 Stadt mit rund 8.100 Einwohnern, 13 km südlich von Mainz.
 Im Mittelalter genoss der „Niersteiner Oberhof“ hohes Ansehen. Was war er?
 1. Er war ein Gutshof mit berühmtem Weinkeller.
-2. Er galt als Vorbild für die Sendgerichte der Umgebung.
+2. Er war Vorbild für die Sendgerichte der Umgebung.
 3. Er war eine Herberge für reisende Pilger.
 4. Er war ein Gestüt für königliche Pferde.
 RÜCKSEITE:

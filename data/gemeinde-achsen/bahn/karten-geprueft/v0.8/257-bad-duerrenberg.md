@@ -165,9 +165,15 @@ FAKT-ID: 257-bad-duerrenberg/023.betriebsdauer
 GEWÄHLTER FAKT: Tollwitz-Dürrenberger Eisenbahn, betriebsdauer, 1836–1935; besonderheit: erster Eisenbahntunnel Deutschlands (1836); spurweite 585 mm
 BEKANNTHEIT: mittel – Der „erste Eisenbahntunnel Deutschlands“ ist unter Eisenbahnfreunden bekannt. Deshalb steht er nur als Rahmen in der Frage, gefragt wird nach dem Betriebsende.
 VORDERSEITE:
-… Hier liegt ein Tunnel von 1836, der als erster Eisenbahntunnel Deutschlands gilt. Bis wann fuhr die Tollwitz-Dürrenberger Eisenbahn? 1.–4. wie bisher. RÜCKSEITE: Du hattest [Option] getippt. Wer an frühe Bahnen denkt, erwartet ein kurzes Leben, weil viele Pionierstrecken bald umgebaut wurden. Doch die schmalspurige Kohlebahn brachte von 1836 bis 1935 Braunkohle aus Tollwitz zur Saline. Richtig war 4.
+Bad Dürrenberg
+Stadt im Saalekreis mit rund 11.500 Einwohnern, 22 km südlich von Halle (Saale).
+Hier liegt ein Tunnel von 1836, der als erster Eisenbahntunnel Deutschlands gilt. Bis wann fuhr die Tollwitz-Dürrenberger Eisenbahn? 1.–4. wie bisher.
+1. Die Bahn fuhr bis 1848.
+2. Die Bahn fuhr bis 1871.
+3. Die Bahn fuhr bis 1918.
+4. Die Bahn fuhr bis 1935.
 RÜCKSEITE:
-Du hattest [Option] getippt. Wer an frühe Bahnen denkt, erwartet ein kurzes Leben, weil viele Pionierstrecken bald umgebaut wurden. Doch die schmalspurige Tollwitz-Dürrenberger Eisenbahn fuhr von 1836 bis 1935 durch den Tunnel. Im selben Jahr endete in Tollwitz auch der Braunkohleabbau. Richtig war 4.
+Du hattest [Option] getippt. Wer an frühe Bahnen denkt, erwartet ein kurzes Leben, weil viele Pionierstrecken bald umgebaut wurden. Doch die schmalspurige Kohlebahn brachte von 1836 bis 1935 Braunkohle aus Tollwitz zur Saline. Richtig war 4.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Bad_Dürrenberg
 WÖRTER RÜCKSEITE: 44
 NEGATIVNACHWEISE:

@@ -111,7 +111,13 @@ FAKT-ID: 230-loehnberg/008.grund_verbergung
 GEWÄHLTER FAKT: Münzschatz Laneburg, grund_verbergung: Unruhen durch französische Truppen, Pfälzischer Erbfolgekrieg, Befürchtung von Franzoseneinfall; vermutlicher_besitzer: Johann Philipp Diehler oder Person aus seinem sozialen Umfeld; entdeckung_kontext: Sanierungsarbeiten Schloss Laneburg
 BEKANNTHEIT: niedrig. Über den Fund wurde höchstens regional berichtet.
 VORDERSEITE:
-„Löhnberg / Gemeinde mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen. / Bei Sanierungsarbeiten am Schloss Laneburg kamen Silbermünzen aus einer Außenmauer zum Vorschein. In welche Lage stellt die Gemeinde das Versteck? / 1. Man fürchtete einen Einfall französischer Truppen. / 2. Ein Fremder auf der Durchreise versteckte dort seine Beute. / 3. Sie wurden als Glücksbringer eingemauert. / 4. Man schützte das Geld vor Plünderern im Dreißigjährigen Krieg.“
+Löhnberg
+Gemeinde mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen.
+Bei Sanierungsarbeiten am Schloss Laneburg kamen Silbermünzen aus einer Außenmauer zum Vorschein. In welche Lage stellt die Gemeinde das Versteck?
+1. Man fürchtete einen Einfall französischer Truppen.
+2. Ein Fremder auf der Durchreise versteckte dort seine Beute.
+3. Sie wurden als Glücksbringer eingemauert.
+4. Man schützte das Geld vor Plünderern im Dreißigjährigen Krieg.
 RÜCKSEITE:
 Du hattest [Option] getippt. Münzen in einer Mauer lassen an Beute, einen Glücksbringer oder den Dreißigjährigen Krieg denken. Doch die jüngste Münze stammt von 1687, und ein Fremder wäre am Versteck sofort aufgefallen. Vermutlich gehörte das Silber Johann Philipp Diehler oder jemandem aus seinem Umfeld. Damals war die Lage an der Lahn unruhig, und man fürchtete einen Einfall der Franzosen. Richtig war 1.
 Quelle: Gemeinde-Webseite, gemeinde-loehnberg.de/freizeit-erleben/politik/sehenswuerdigkeiten

@@ -111,9 +111,15 @@ FAKT-ID: 225-stendal/041.gruendung_massnahmen
 GEWÄHLTER FAKT: Albrecht der Bär, gruendung_massnahmen, gründete Markt, verlieh Magdeburger Stadtrecht (gruendung_stadt: um 1160; titel: Markgraf von Brandenburg)
 BEKANNTHEIT: niedrig – das Stadtrecht einer Stadt gehört nicht zum Allgemeinwissen.
 VORDERSEITE:
-Um 1160 gründete Albrecht der Bär in Stendal einen Markt. Nach welchem Recht sollten die Stendaler laut seiner Urkunde leben? 1. Nach Lübecker Recht. 2. Nach Magdeburger Recht. 3. Nach Soester Recht. 4. Nach Freiburger Recht. RÜCKSEITE: Du hattest [Option] getippt. Lübecker Recht liegt nahe, weil es im Norden weit verbreitet war. Doch Albrecht der Bär erlaubte den Stendalern, nach demselben Recht zu leben wie die Bürger Magdeburgs. Ob die Urkunde echt ist, ist allerdings umstritten. Richtig war 2.
+Stendal
+Rund 38.000 Einwohner, 54 km nördlich von Magdeburg.
+Um 1160 gründete Albrecht der Bär in Stendal einen Markt. Nach welchem Recht sollten die Stendaler laut seiner Urkunde leben? 1. Nach Lübecker Recht. 2. Nach Magdeburger Recht. 3. Nach Soester Recht. 4. Nach Freiburger Recht.
+1. Er verlieh Stendal das Lübecker Stadtrecht.
+2. Er verlieh Stendal das Magdeburger Stadtrecht.
+3. Er verlieh Stendal das Soester Stadtrecht.
+4. Er verlieh Stendal das Freiburger Stadtrecht.
 RÜCKSEITE:
-Du hattest [Option] getippt. Lübecker Recht liegt nahe, weil es im Norden weit verbreitet war. Doch Albrecht der Bär, Markgraf von Brandenburg, gründete den Markt und verlieh Stendal das Magdeburger Stadtrecht. Richtig war 2.
+Du hattest [Option] getippt. Lübecker Recht liegt nahe, weil es im Norden weit verbreitet war. Doch Albrecht der Bär erlaubte den Stendalern, nach demselben Recht zu leben wie die Bürger Magdeburgs. Ob die Urkunde echt ist, ist allerdings umstritten. Richtig war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Stendal
 WÖRTER RÜCKSEITE: 34
 NEGATIVNACHWEISE:
@@ -159,9 +165,15 @@ FAKT-ID: 225-stendal/019.notable_absolvent
 GEWÄHLTER FAKT: Flugplatz Stendal-Borstel, notable_absolvent, Max Schmeling (Boxer) (fallschirmschule_aufstellung 1936; fallschirmjaeger_ausbildung_bis 1944)
 BEKANNTHEIT: mittel – Schmeling ist überregional berühmt, seine Ausbildung in Stendal-Borstel kaum.
 VORDERSEITE:
-Der Boxer Max Schmeling wurde 1940 in Stendal militärisch ausgebildet. Wozu? (Optionen unverändert, ohne „dort“ → „Er wurde zum … ausgebildet.“) RÜCKSEITE: Du hattest [Option] getippt. Bei Stendal denkt man an den Flugplatz und an Piloten. Doch Schmeling wurde 1940 zur Wehrmacht eingezogen und zum Fallschirmjäger ausgebildet; 1941 sprang er über Kreta ab. Richtig war 4.
+Stendal
+Rund 38.000 Einwohner, 54 km nördlich von Magdeburg.
+Der Boxer Max Schmeling wurde 1940 in Stendal militärisch ausgebildet. Wozu?
+1. Er wurde dort zum Piloten ausgebildet.
+2. Er wurde dort zum Flugzeugmechaniker ausgebildet.
+3. Er wurde dort zum Funker ausgebildet.
+4. Er wurde dort zum Fallschirmjäger ausgebildet.
 RÜCKSEITE:
-Du hattest [Option] getippt. Auf einem Flugplatz denkt man zuerst an Piloten. Doch in Borstel bestand eine Fallschirmschule, die Fallschirmjäger ausbildete, und Max Schmeling gehörte zu ihren Absolventen. Richtig war 4.
+Du hattest [Option] getippt. Bei Stendal denkt man an den Flugplatz und an Piloten. Doch Schmeling wurde 1940 zur Wehrmacht eingezogen und zum Fallschirmjäger ausgebildet; 1941 sprang er über Kreta ab. Richtig war 4.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Stendal
 WÖRTER RÜCKSEITE: 31
 NEGATIVNACHWEISE:

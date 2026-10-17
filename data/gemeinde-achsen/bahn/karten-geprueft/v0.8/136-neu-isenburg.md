@@ -6,7 +6,13 @@ FAKT-ID: 136-neu-isenburg/014.urspruengliche_funktion
 GEWÄHLTER FAKT: Haus zum Löwen (museum), urspruengliche_funktion: "erstes Gasthaus der hugenottischen Siedler"
 BEKANNTHEIT: niedrig – Dass das Stadtmuseum ein früheres Gasthaus ist, wissen außerhalb des Orts wohl nur wenige.
 VORDERSEITE:
-Neu-Isenburg / Stadt mit rund 38.000 Einwohnern, 7 km südlich von Frankfurt am Main. / Im Haus zum Löwen ist heute das Stadtmuseum. Wozu diente das Gebäude ursprünglich? / 1. Es war eine Apotheke der Siedler. / 2. Es war ein Gasthaus der Siedler. / 3. Es war eine Schmiede der Siedler. / 4. Es war eine Mühle der Siedler.
+Neu-Isenburg
+Stadt mit rund 38.000 Einwohnern, 7 km südlich von Frankfurt am Main.
+Im Haus zum Löwen ist heute das Stadtmuseum. Wozu diente das Gebäude ursprünglich?
+1. Es war eine Apotheke der Siedler.
+2. Es war ein Gasthaus der Siedler.
+3. Es war eine Schmiede der Siedler.
+4. Es war eine Mühle der Siedler.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Löwe im Hausnamen erinnert an die vielen Löwen-Apotheken, daher liegt die Apotheke nahe. Doch auch Wirtshäuser trugen gern Tiernamen: Das Haus zum Löwen war eines der ersten Gasthäuser der Siedler. Das Museum erzählt dort, wie aus dem Dorf eine Stadt wurde. Richtig war 2.
 Quelle: Gemeinde-Webseite, www.haus-zum-loewen.de/

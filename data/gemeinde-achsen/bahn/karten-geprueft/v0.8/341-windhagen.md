@@ -158,7 +158,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 7
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Keine vertrauenswürdige Quelle nennt einen Ort „Lauer“ in Schlesien. Ob „Jauer“ gemeint ist, bleibt offen. Es gab nach 1951/52 tatsächlich ein Verfahren, in dem rund 1.300 Glocken aus den Ostgebieten vom Hamburger Glockenfriedhof als Leihglocken an westdeutsche Gemeinden gingen. Dass gerade dieses Glöckchen so kam, belegt aber keine Quelle; die Gemeinde-Webseite sagt nur, es „steht nun als Leihglocke zur Verfügung“. Deshalb Ortsnamen streichen und Herkunft und heutigen Status trennen. Option 2 bleibt falsch, sie nennt einen Dampfer und nicht den Weg über Hamburg.
+FAKTENCHECK: korrigiert – Keine vertrauenswürdige Quelle nennt einen Ort „Lauer“ in Schlesien. Ob „Jauer“ gemeint ist, bleibt offen. Es gab nach 1951/52 tatsächlich ein Verfahren, in dem rund 1.300 Glocken aus den Ostgebieten vom Hamburger Glockenfriedhof als Leihglocken an westdeutsche Gemeinden gingen. Dass gerade dieses Glöckchen so kam, belegt aber keine Quelle; die Gemeinde-Webseite sagt nur, es „steht nun als Leihglocke zur Verfügung“. Deshalb Ortsnamen streichen und Herkunft und heutigen Status trennen. Option 2 bleibt falsch, sie nennt einen Dampfer und nicht den Weg über Hamburg.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 341-windhagen/011.glöckchen_herkunft_detail
@@ -173,7 +173,7 @@ Das Glöckchen der Kapelle St. Mariä Heimsuchung in Hüngsberg stammt nicht aus
 3. Es kam aus einer Kirche in Bayern.
 4. Es kam als Leihglocke aus Schlesien.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Geschenk oder ein ausgedientes Schiffsglöckchen klingen nach typischer Dorfgeschichte. Das Glöckchen stammt aber aus Lauer in Schlesien und wurde nach dem Krieg als Leihglocke hierher verschlagen: eine Glocke, die eine Gemeinde nutzt, ohne dass sie ihr gehört. Richtig war 4.
+Du hattest [Option] getippt. Ein Geschenk oder ein ausgedientes Schiffsglöckchen klingen nach typischer Dorfgeschichte. Das Glöckchen von 1863 stammt aber aus Schlesien und kam nach dem Krieg hierher. Heute steht es als Leihglocke zur Verfügung: eine Glocke, die eine Gemeinde nutzt, ohne dass sie ihr gehört. Richtig war 4.
 Quelle: Gemeinde-Webseite, windhagen.de/html/sehenswertes.htm
 WÖRTER RÜCKSEITE: 45
 NEGATIVNACHWEISE:

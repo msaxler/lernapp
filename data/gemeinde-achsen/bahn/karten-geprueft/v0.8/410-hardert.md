@@ -53,19 +53,22 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Die Lüge ist durch die Gemeinde-Webseite belegt: Die Feier wurde wegen Corona verschoben und am 1. und 3. Juni 2022 nachgeholt. Für „Wappen 1981 genehmigt“ und „1815 160 Einwohner“ habe ich keine vertrauenswürdige Quelle gefunden, nur Wikipedia und heraldry-wiki. Deshalb werden die beiden wahren Aussagen durch Angaben aus der Gemeinde-Chronik ersetzt: 1843 hatte Hardert 256 Einwohner, 1966 wurde es Luftkurort. Auf der Rückseite heißt es jetzt, dass die Feier nachgeholt wurde, nicht das Bestehen.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Lüge ist durch die Gemeinde-Webseite belegt: Die Feier wurde wegen Corona verschoben und am 1. und 3. Juni 2022 nachgeholt. Für „Wappen 1981 genehmigt“ und „1815 160 Einwohner“ habe ich keine vertrauenswürdige Quelle gefunden, nur Wikipedia und heraldry-wiki. Deshalb werden die beiden wahren Aussagen durch Angaben aus der Gemeinde-Chronik ersetzt: 1843 hatte Hardert 256 Einwohner, 1966 wurde es Luftkurort. Auf der Rückseite heißt es jetzt, dass die Feier nachgeholt wurde, nicht das Bestehen.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 410-hardert/004.urspruengliches_jahr
 GEWÄHLTER FAKT: 700-Jahr-Feier Hardert. Sie fand am 1. und 3. Juni 2022 statt, ursprünglich geplant war 2021, verschoben wegen der Corona-Pandemie. Belege der wahren Aussagen: Aussage 1 aus 410-hardert/013 (Wappen genehmigt 1981 durch die Bezirksregierung Koblenz), Aussage 3 aus 410-hardert/022 (einwohner_1815: 160).
 BEKANNTHEIT: niedrig – Ein Dorfjubiläum ist nur vor Ort bekannt.
 VORDERSEITE:
-1. Hardert wurde 1966 als Luftkurort anerkannt.
+Hardert
+Die Gemeinde mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.
+Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
+1. Das Wappen von Hardert wurde 1981 genehmigt.
 2. Die 700-Jahr-Feier fand wie geplant 2021 statt.
-3. Im Jahr 1843 zählte Hardert 256 Einwohner.
+3. Im Jahr 1815 zählte Hardert 160 Einwohner.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Jubiläum feiert man gewöhnlich im Jubiläumsjahr, deshalb klingt die Feier 2021 glaubwürdig. Doch die Corona-Pandemie kam dazwischen: Hardert holte die Feier zu seinem 700-jährigen Bestehen erst im Juni 2022 nach. Luftkurort und Einwohnerzahl stimmen. Die Lüge war 2.
-Quelle: Gemeinde-Webseite, www.hardert.de/geschichte.html und www.hardert.de/geschichte-chronik.html
+Du hattest [Option] getippt. Ein Jubiläum feiert man gewöhnlich im Jubiläumsjahr, deshalb klingt die Feier 2021 glaubwürdig. Doch die Corona-Pandemie kam dazwischen: Hardert holte sein 700-jähriges Bestehen erst im Juni 2022 nach. Wappen und Einwohnerzahl stimmen. Die Lüge war 2.
+Quelle: Gemeinde-Webseite, www.hardert.de/geschichte.html
 WÖRTER RÜCKSEITE: 40
 NEGATIVNACHWEISE:
 2: Weg (a). In 004 steht als Termin der 1. und 3. Juni 2022; ursprünglich geplant war 2021, verschoben wegen Corona.

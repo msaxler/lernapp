@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Laut Stadt Wetzlar hieß der Säuturm im Mittelalter Schneiderturm, weil die Schneiderzunft diesen Mauerabschnitt instand hielt und bewachte. 1745 wurde neben dem Turm eine Pforte gebaut. Durch sie trieb man die Schweine auf die Felder vor der Stadtmauer. Die Pforte gehörte also nicht zum Turm selbst, sondern lag neben ihm. Eine andere überlieferte Deutung (Schlachten, Säen, Betrunkene) habe ich in vertrauenswürdigen Quellen nicht gefunden.
+FAKTENCHECK: korrigiert – Laut Stadt Wetzlar hieß der Säuturm im Mittelalter Schneiderturm, weil die Schneiderzunft diesen Mauerabschnitt instand hielt und bewachte. 1745 wurde neben dem Turm eine Pforte gebaut. Durch sie trieb man die Schweine auf die Felder vor der Stadtmauer. Die Pforte gehörte also nicht zum Turm selbst, sondern lag neben ihm. Eine andere überlieferte Deutung (Schlachten, Säen, Betrunkene) habe ich in vertrauenswürdigen Quellen nicht gefunden.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 233-wetzlar/032.funktion_turmpforte
@@ -14,8 +14,8 @@ Ein Turm der Wetzlarer Stadtmauer heißt Schneiderturm, aber auch Säuturm. Wohe
 3. Bauern säten vor dem Turm ihr Getreide aus.
 4. Im Turm wurden früher Betrunkene eingesperrt.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ans Schlachten denkt man schnell, denn „Säu“ sind Schweine. Gemeint war aber Friedlicheres: Durch die Turmpforte trieben Bauern ihre Säue auf die Weide vor der Stadtmauer. Seinen ersten Namen verdankt der Turm der Schneiderzunft, die für ihn und dieses Mauerstück zuständig war. Richtig war 2.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Wetzlar
+Du hattest [Option] getippt. Ans Schlachten denkt man schnell, denn „Säu“ sind Schweine. Gemeint war aber Friedlicheres: 1745 entstand neben dem Turm eine Pforte, durch die man die Schweine auf die Felder vor der Stadtmauer trieb. Seinen älteren Namen verdankt der Turm der Schneiderzunft, die dieses Mauerstück instand hielt und bewachte. Richtig war 2.
+Quelle: Stadt Wetzlar, wetzlar.de/microsite/en/Discovering/sow-tower.php
 WÖRTER RÜCKSEITE: 49
 NEGATIVNACHWEISE:
 1: Weg (c). FAKTEN nennen genau eine Herkunft des Namens Säuturm: die Pforte, durch die Schweine zur Weide getrieben wurden.
@@ -131,7 +131,7 @@ PRÜFSTUFE: 2 – Der Fakt stammt nur aus Wikipedia, und die Karte enthält eine
 ERFUNDEN: keine
 
 ## Karte 6
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: WZ ist nicht das Hauptkennzeichen des Lahn-Dill-Kreises. Der Kreis vergab 1977–1991 „L“, danach LDK, und seit 2012 für Wetzlar wieder WZ. Alte LDK-Kennzeichen bleiben gültig, bis das Auto umgemeldet wird. Wie viele Autos in Wetzlar WZ tragen, ist nirgends belegt, deshalb lässt sich die Frage „die meisten Autos“ nicht halten. GI, LM und MR gehören zu den Nachbarkreisen und werden im Lahn-Dill-Kreis nicht vergeben.
+FAKTENCHECK: korrigiert – WZ ist nicht das Hauptkennzeichen des Lahn-Dill-Kreises. Der Kreis vergab 1977–1991 „L“, danach LDK, und seit 2012 für Wetzlar wieder WZ. Alte LDK-Kennzeichen bleiben gültig, bis das Auto umgemeldet wird. Wie viele Autos in Wetzlar WZ tragen, ist nirgends belegt, deshalb lässt sich die Frage „die meisten Autos“ nicht halten. GI, LM und MR gehören zu den Nachbarkreisen und werden im Lahn-Dill-Kreis nicht vergeben.
 SORTE: Klassiker
 FAMILIE: A
 FAKT-ID: GRUNDDATEN.kfz
@@ -146,8 +146,8 @@ Welches Kennzeichen tragen die meisten Autos in Wetzlar?
 3. WZ
 4. MR
 RÜCKSEITE:
-Du hattest [Option] getippt. GI liegt nahe, denn Gießen liegt ebenfalls an der Lahn in Mittelhessen. Wetzlar ist aber selbst Kreisstadt, und zwar des Lahn-Dill-Kreises. Dessen Hauptkennzeichen ist WZ. Richtig war 3.
-Quelle: Wikidata P395; dewiki Infobox (Landkreis)
+Du hattest [Option] getippt. GI liegt nahe, denn Gießen liegt ebenfalls an der Lahn in Mittelhessen. Der Lahn-Dill-Kreis vergibt aber LDK und DIL, und seit 2012 für Wetzlar wieder das alte WZ. Richtig war 3.
+Quelle: Auto Bild, autobild.de
 WÖRTER RÜCKSEITE: 32
 NEGATIVNACHWEISE:
 1: Weg (a). GRUNDDATEN nennen als Landkreis genau den Lahn-Dill-Kreis und als Kennzeichen WZ. GI ist das Kennzeichen des Landkreises Gießen.
@@ -239,7 +239,7 @@ PRÜFSTUFE: 2 – Der Fakt stammt nur aus Wikipedia.
 ERFUNDEN: 2, 4
 
 ## Karte 10
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Bibliothek selbst nennt sich nur „die vermutlich weltweit größte öffentlich zugängliche Sammlung phantastischer Literatur“ mit über 330.000 Titeln. Den Superlativ habe ich daher abgeschwächt. Die Bibliothek nennt Fantasy, Science Fiction, Märchen und Sagen, Horror sowie Utopien und Dystopien; „Mythen“ steht dort nicht. Eine vergleichbare Weltsammlung zu Recht oder Optik in Wetzlar habe ich nicht gefunden.
+FAKTENCHECK: korrigiert – Die Bibliothek selbst nennt sich nur „die vermutlich weltweit größte öffentlich zugängliche Sammlung phantastischer Literatur“ mit über 330.000 Titeln. Den Superlativ habe ich daher abgeschwächt. Die Bibliothek nennt Fantasy, Science Fiction, Märchen und Sagen, Horror sowie Utopien und Dystopien; „Mythen“ steht dort nicht. Eine vergleichbare Weltsammlung zu Recht oder Optik in Wetzlar habe ich nicht gefunden.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 233-wetzlar/048.fachgebiet
@@ -254,8 +254,8 @@ Wetzlar beherbergt die weltweit größte öffentlich zugängliche Sammlung einer
 3. Es ist eine Sammlung optischer Fachliteratur.
 4. Es ist eine Sammlung von Kochbüchern.
 RÜCKSEITE:
-Du hattest [Option] getippt. Recht oder Optik liegen nahe, denn dafür ist Wetzlar bekannt. Die Phantastische Bibliothek sammelt jedoch Science Fiction, Fantasy, Horror, Utopien, Märchen, Sagen und Mythen. Richtig war 2.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Wetzlar
+Du hattest [Option] getippt. Recht oder Optik liegen nahe, denn dafür ist Wetzlar bekannt. Die Phantastische Bibliothek sammelt jedoch Science Fiction, Fantasy, Horror, Utopien, Märchen und Sagen. Richtig war 2.
+Quelle: Phantastische Bibliothek Wetzlar, phantastik.eu
 WÖRTER RÜCKSEITE: 31
 NEGATIVNACHWEISE:
 1: Weg (c). FAKTEN nennen für die weltweit größte öffentlich zugängliche Sammlung in Wetzlar genau ein Fachgebiet: phantastische Literatur. Die juristischen Schriften sind erfunden.

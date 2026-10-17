@@ -7215,7 +7215,7 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "Müllheim",
 "steckbrief": "Rund 20.000 Einwohner, 27 km südwestlich von Freiburg im Breisgau.",
-"frage": "Unter der Martinskirche von Müllheim fand man Reste eines Baus, der älter ist als jede Kirche an dieser Stelle. Was für einer? (RÜCKSEITE bleibt unverändert.)",
+"frage": "Unter der Martinskirche von Müllheim liegt ein älterer Bau. Was für einer?",
 "optionen": [
 "Dort stand eine mittelalterliche Wassermühle.",
 "Dort stand ein römisches Gebäude mit Fußbodenheizung.",
@@ -7226,7 +7226,7 @@ window.QA_DATEN = {
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Bei einem Ort namens Müllheim liegt eine Mühle nahe. Doch unter der Martinskirche steckt ein römisches Gebäude: Mosaiksteine, Wandmalerei und eine Hypokaust-Heizung, die Böden und Wände wärmte. Vermutlich war es das Kernstück eines großen römischen Landguts. Heute dient die Kirche als Konzertsaal. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, www.muellheim.de/kultur-tourismus/martinskirche/",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "395-muellheim/v0.8/1",
 "tisch": false
 },
@@ -9184,13 +9184,18 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„Ausgrabungen in Vörstetten legten eine Siedlung aus dem 4. und 5. Jahrhundert n. Chr. frei. Wer lebte dort?“ (Optionen 1–4 bleiben gleich.) RÜCKSEITE: „Du hattest [Option] getippt. Kelten liegen nahe, denn sie gelten als frühe Bewohner des Oberrheingebiets. Die Grabungen von 1998 bis 2000 zeigten aber eine frühalamannische Siedlung. Nach Angaben der Gemeinde ist sie bisher die einzige ihrer Art. Heute zeigt das Alamannen-Museum im Ort, wie man dort lebte. Richtig war 3.“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Vörstetten",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "Ausgrabungen in Vörstetten legten eine Siedlung aus dem 4. und 5. Jahrhundert n. Chr. frei. Wer lebte dort?",
+"optionen": [
+"Dort lebten Kelten.",
+"Dort lebten Franken.",
+"Dort lebten Alamannen.",
+"Dort lebten Burgunder."
+],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Kelten liegen nahe, denn sie gelten als frühe Bewohner des Oberrheingebiets. Die Grabungen in Vörstetten zeigten aber eine frühalamannische Siedlung, nach Angaben der Gemeinde die bisher einzige ihrer Art. Alamannen nennt man die germanischen Gruppen, aus denen später die Schwaben hervorgingen. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Kelten liegen nahe, denn sie gelten als frühe Bewohner des Oberrheingebiets. Die Grabungen von 1998 bis 2000 zeigten aber eine frühalamannische Siedlung. Nach Angaben der Gemeinde ist sie bisher die einzige ihrer Art. Heute zeigt das Alamannen-Museum im Ort, wie man dort lebte. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, voerstetten.de/p/geschichte",
 "faktencheck": "korrigiert",
 "id": "398-voerstetten/v0.8/5",
@@ -9259,14 +9264,19 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„1803 wurde die evangelische Kirche in Vörstetten erweitert. Nach welchem Baumeister ist ihr Baustil benannt? 1. Nach Karl Friedrich Schinkel. 2. Nach Leo von Klenze. 3. Nach Nikolaus von Thouret. 4. Nach Friedrich Weinbrenner.“ RÜCKSEITE: „Du hattest [Option] getippt. Schinkel liegt nahe, denn sein Name steht für den deutschen Klassizismus. Die Kirche von 1803 ist aber im Weinbrennerstil gebaut, benannt nach dem badischen Baumeister Friedrich Weinbrenner. Die Orgel baute Mathias Martin 1803/04. Richtig war 4. Quelle: LEO-BW, Denkmalliste Evangelische Kirche Vörstetten“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Vörstetten",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
+"frage": "1803 wurde die evangelische Kirche in Vörstetten erweitert. Nach welchem Baumeister ist ihr Baustil benannt? 1. Nach Karl Friedrich Schinkel. 2. Nach Leo von Klenze. 3. Nach Nikolaus von Thouret. 4. Nach Friedrich Weinbrenner.",
+"optionen": [
+"Sie stammte von Karl Friedrich Schinkel.",
+"Sie stammte von Leo von Klenze.",
+"Sie stammte von Nikolaus von Thouret.",
+"Sie stammte von Friedrich Weinbrenner."
+],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Schinkel liegt nahe, denn sein Name steht für den deutschen Klassizismus. Die Erweiterung der Kirche stammte aber von Friedrich Weinbrenner. In der Kirche mitten im Dorf steht zudem eine historische Orgel von Mathias Martin. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Vörstetten",
+"rueckseite": "Du hattest [Option] getippt. Schinkel liegt nahe, denn sein Name steht für den deutschen Klassizismus. Die Kirche von 1803 ist aber im Weinbrennerstil gebaut, benannt nach dem badischen Baumeister Friedrich Weinbrenner. Die Orgel baute Mathias Martin 1803/04. Richtig war 4.",
+"quelle": "LEO-BW, Denkmalliste Evangelische Kirche Vörstetten",
 "faktencheck": "korrigiert",
 "id": "398-voerstetten/v0.8/9",
 "tisch": false
@@ -9549,10 +9559,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Reute / Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau. / Wer hat laut Ortsgeschichte vermutlich Reutes erstes Rathaus an der Hauptstraße gestiftet? / 1. Eine Adelige, die den Ort verwaltete, stiftete es. / 2. Die Bauern legten das Geld dafür zusammen. / 3. Der Dorfpfarrer stiftete es aus eigenem Vermögen. / 4. Ein reicher Kaufmann aus der Stadt stiftete es.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Reute",
+"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Wer hat laut Ortsgeschichte vermutlich Reutes erstes Rathaus an der Hauptstraße gestiftet?",
+"optionen": [
+"Eine Adelige, die den Ort verwaltete, stiftete es.",
+"Die Bauern legten das Geld dafür zusammen.",
+"Der Dorfpfarrer stiftete es aus eigenem Vermögen.",
+"Ein reicher Kaufmann aus der Stadt stiftete es."
+],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Gemeinsam bezahlte Rathäuser klingen nach Dorfgemeinschaft, deshalb liegen die Bauern nahe. Laut Ortsgeschichte dürfte es aber Margarethe Held gestiftet haben. Nach dieser Quelle war sie die Letzte der Adelsfamilie Held, die den Ort verwaltete. Das Rathaus steht an der Hauptstraße, gegenüber dem ehemaligen Weiher. Richtig war 1. /",
@@ -9564,10 +9579,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Reute / Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau. / Reute ist 772/73 erstmals schriftlich belegt. In welcher Quelle? / 1. Der Ort steht in einer St. Galler Urkunde. / 2. Der Ort steht im Lorscher Codex. / 3. Der Ort steht in einer Reichenauer Urkunde. / 4. Der Ort steht in einer Straßburger Bischofsurkunde.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Reute",
+"steckbrief": "Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.",
+"frage": "Reute ist 772/73 erstmals schriftlich belegt. In welcher Quelle?",
+"optionen": [
+"Der Ort steht in einer St. Galler Urkunde.",
+"Der Ort steht im Lorscher Codex.",
+"Der Ort steht in einer Reichenauer Urkunde.",
+"Der Ort steht in einer Straßburger Bischofsurkunde."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. St. Gallen oder Reichenau liegen nahe, denn sie besaßen viel im Südwesten. Belegt ist Reute, damals „Reuden“, aber im Lorscher Codex. Darin hat das Kloster Lorsch Abschriften seiner Urkunden gesammelt. Er verzeichnet eine Schenkung von Besitz im Ort an das Kloster. Der Name verweist auf Rodung. Richtig war 2. /",
@@ -10012,9 +10032,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Steuerfreiheit klingt nach einem verlockenden Versuch. Erprobt wurde aber der Physiokratismus, eine Wirtschaftstheorie: Statt vieler Abgaben galt eine Einsteuer, französisch impôt unique. Markgraf Karl Friedrich war vermutlich von dem System überzeugt. Nach Angabe der Gemeinde ist es der weltweit einzig bekannte Praxistest dieser Theorie. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Steuerfreiheit klingt nach einem verlockenden Versuch. Erprobt wurde aber der Physiokratismus, eine Wirtschaftstheorie: Bisherige Abgaben wurden durch eine Einsteuer ersetzt, französisch impôt unique. Der Nationalökonom Schlettwein soll Markgraf Karl Friedrich davon überzeugt haben. Bahlingen war eines von drei badischen Versuchsdörfern, neben Dietlingen und Teningen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie; Deutsche Biographie, www.deutsche-biographie.de/sfz78475.html",
+"faktencheck": "korrigiert",
 "id": "401-bahlingen/v0.8/1",
 "tisch": false
 },
@@ -10849,9 +10869,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Lüge klingt glaubhaft, denn Ihringen selbst gehörte den Markgrafen von Baden-Durlach. Wasenweiler aber unterstand jahrhundertelang dem Deutschen Orden und war Teil Vorderösterreichs. Den Glauben bestimmte damals meist der Landesherr; die Konfessionen waren also ein Hinweis. Die Lüge war 2.",
+"rueckseite": "Du hattest [Option] getippt. Die Lüge klingt glaubhaft, denn Ihringen selbst gehörte den Markgrafen von Baden-Durlach. Wasenweiler aber unterstand von 1297/98 bis 1806 dem Deutschen Orden in Freiburg. Den Glauben bestimmte damals meist der Landesherr; die Konfessionen waren also ein Hinweis. Die Lüge war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "69-ihringen/v0.8/3",
 "tisch": false
 },
@@ -11138,13 +11158,13 @@ window.QA_DATEN = {
 "Sie ersetzte Breisach nach einem Friedensvertrag.",
 "Sie diente als Zollstation für den Rheinhandel.",
 "Sie war als Residenz eines Fürsten gedacht.",
-"Sie wurde als Sitz eines Bischofs gegründet."
+"Sie ersetzte ein vom Rhein zerstörtes Dorf."
 ],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Ein Zollposten am Rhein läge nahe, denn der Fluss war ein wichtiger Handelsweg. Die Ortsgeschichte nennt aber den Frieden von Rijswijk: Danach baute Vauban Neuf-Brisach als Ersatz für Breisach, in Sichtweite auf der anderen Rheinseite. Heute ist die Stadt Breisachs Partnerstadt. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Breisach_am_Rhein",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "70-breisach/v0.8/5",
 "tisch": false
 },
@@ -11855,7 +11875,7 @@ window.QA_DATEN = {
 "steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Die Herrschaft Wiesneck war einst ein österreichisches Lehen.",
+"Die Burg Wiesneck war einst ein österreichisches Lehen.",
 "Falkensteig gehört als Ortsteil zur Gemeinde Buchenbach.",
 "Das Gemeindewappen zeigt eine grüne Tanne in Silber."
 ],
@@ -11863,7 +11883,7 @@ window.QA_DATEN = {
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Tannen prägen das Bild des Schwarzwalds, darum klingt eine Tanne im Wappen glaubhaft. Doch im Wappen steht, passend zum Ortsnamen, eine grüne Buche in Silber, daneben in Rot ein silberner Wellenbalken, ein häufiges Wappenzeichen für Wasser. Die Lüge war 3.",
 "quelle": "Gemeinde-Webseite, www.buchenbach.de/p/ortsteile-und-geschichte",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "73-buchenbach/v0.8/3",
 "tisch": false
 },
@@ -11970,10 +11990,11 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "… Im Ibental steht die Vaterunser-Kapelle aus den 1960er-Jahren. Wer ließ sie bauen?",
-"steckbrief": "1. Talbauern nach einem Unwetter.",
-"frage": "",
+"ort": "Buchenbach",
+"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
+"frage": "Im Ibental steht die Vaterunser-Kapelle aus den 1960er-Jahren. Wer ließ sie bauen?",
 "optionen": [
+"Talbauern nach einem Unwetter.",
 "Ein Orden, als Wallfahrtsort.",
 "Ein Verleger.",
 "Eine Bergbaufirma, für ihre Arbeiter."
@@ -12566,7 +12587,7 @@ window.QA_DATEN = {
 "steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Das heutige Rathaus diente früher als Kaufhaus.",
+"Das Rathaus war früher ein Kaufhaus der Stadt.",
 "Die Dreifeldsporthalle steht auf dem Fundament eines Hallenbads.",
 "Die Altstadt ist ein rechtwinkliges Gitter aus Straßen."
 ],
@@ -12574,7 +12595,7 @@ window.QA_DATEN = {
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Ein Rathaus, das einst Kaufhaus war, und eine Halle auf einem alten Hallenbad klingen erfunden – beides stimmt. Gelogen ist das Straßengitter, wie man es von Planstädten kennt: Der Stadtkern ist ein unregelmäßiges Oval, die einstige Fernhandelsstraße zieht in leichtem Bogen hindurch. Die Lüge war 3.",
 "quelle": "Gemeinde-Webseite, www.loeffingen.de/tourismus-freizeit/sehenswertes/historischer-stadtkern",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "76-loeffingen/v0.8/3",
 "tisch": false
 },
@@ -13648,9 +13669,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Harmonika oder Glas liegen nahe, denn beides kennt man aus Handwerk und Industrie der Region. Schwenningen aber hatte eine beachtliche Industrie mit Schwerpunkt Uhrenfertigung. Die Stadt nennt es die einst größte Uhrenstadt der Welt; davon erzählt das Uhrenindustriemuseum. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Strohhut oder Glas liegen nahe, denn Strohflechterei und Glashütten kennt man aus dem Schwarzwald. Schwenningen aber hatte eine beachtliche Industrie mit Schwerpunkt Uhrenfertigung. Die Stadt nennt es die einst größte Uhrenstadt der Welt; davon erzählt das Uhrenindustriemuseum. Richtig war 4. (Strohflechterei und Glashütten im Schwarzwald habe ich als Allgemeinwissen eingesetzt, aber nicht über eine Suche belegt.)",
 "quelle": "Gemeinde-Webseite, www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "81-villingen-schwenningen/v0.8/7",
 "tisch": false
 },
@@ -14438,9 +14459,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Kaiser, der dem Ort den Salzabbau erlaubt, klingt nach Legende – stimmt aber: Kaiser Heinrich genehmigte ihn 1064. Gelogen war das späte Ende: Die Saline schloss schon 1924; auf dem Wöhrd entstand später ein Wohngebiet. Die Buntweberei von 1897 gab es wirklich. Die Lüge war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein König, der dem Ort das Salzsieden erlaubt, klingt nach Legende – stimmt aber: König Heinrich gestattete es 1064. Gelogen war das späte Ende: Die Saline schloss schon 1924; auf dem Wöhrd entstand später ein Wohngebiet. Die Buntweberei von 1897 gab es wirklich. Die Lüge war 3.",
 "quelle": "Gemeinde-Webseite, www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "85-sulz/v0.8/3",
 "tisch": false
 },
@@ -15301,14 +15322,14 @@ window.QA_DATEN = {
 "frage": "Bondorf hat mehrmals gebrannt. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
 "1685 legten durchziehende Soldaten Feuer im Dorf.",
-"1815 löschten Bondorfer das Feuer, bevor es die Kirche erreichte.",
-"1559 brannte Bondorf samt Kirche und Turm ab."
+"1815 löschten Bondorfer den Brand vor der Kirche.",
+"1559 brannten Dorf, Kirche und Kirchturm ab."
 ],
 "art": "luege",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Soldaten liegen nahe, denn in Kriegen gingen viele Dörfer in Flammen auf. Den Brand von 1685 löste jedoch ein Blitzschlag aus. 1559 brannte Bondorf samt Kirche und Turm ab, 1815 löschten mutige Bondorfer das Feuer, bevor es die Kirche erreichte. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, www.bondorf.de/unsere-gemeinde/geschichtliches",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "89-bondorf/v0.8/3",
 "tisch": false
 },
@@ -15925,18 +15946,18 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "Herrenberg",
 "steckbrief": "Stadt mit rund 34.000 Einwohnern, 27 km nordwestlich von Reutlingen.",
-"frage": "Im Bebenhäuser Klosterhof saß im 20. Jahrhundert die „Knopflochkaserne“, wie der Volksmund sagte. Was war mit dem Spitznamen gemeint?",
+"frage": "Im Bebenhäuser Klosterhof saß im 20. Jahrhundert die „Knopflochkaserne“, wie der Volksmund sagte. Was war dort untergebracht?",
 "optionen": [
-"Eine Kaserne mit eigener Uniformschneiderei.",
-"Eine Fabrik für Knöpfe und Ösen.",
-"Eine Näherei, in der Häftlinge Kleidung für den Staat nähten.",
-"Eine Schule für Frauen."
+"Soldaten mit eigener Uniformschneiderei waren dort einquartiert.",
+"Eine Fabrik stellte dort Knöpfe und Ösen her.",
+"Häftlinge nähten dort Kleidung für den Staat.",
+"Dort war eine Schule für Frauen untergebracht."
 ],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. „Kaserne“ lässt an Soldaten denken, „Knopfloch“ an Uniformen. Gemeint war aber die Frauenarbeitsschule im ehemaligen Pfleghof des Klosters Bebenhausen. Dort sammelte das Kloster einst die Erträge seiner Ländereien. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.herrenberg.de/de/klosterhof-geschichte",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "91-herrenberg/v0.8/5",
 "tisch": false
 },
@@ -17193,10 +17214,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Entringen / Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen. / Ein Gemälde, das Gunhild von Ow 1913 malte, zeigt eine Szene rund um Schloss Hohenentringen. Was ist zu sehen? / 1. Ritter verteidigen Hohenentringen gegen eine Belagerung. / 2. Bauern liefern den Zehnten am Schlosstor ab. / 3. Ein Brand zerstört Teile des Schlosses. / 4. Verwandte Familien ziehen mit Kinderscharen zur Kirche.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Entringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 3.900 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Ein Gemälde, das Gunhild von Ow 1913 malte, zeigt eine Szene rund um Schloss Hohenentringen. Was ist zu sehen?",
+"optionen": [
+"Ritter verteidigen Hohenentringen gegen eine Belagerung.",
+"Bauern liefern den Zehnten am Schlosstor ab.",
+"Ein Brand zerstört Teile des Schlosses.",
+"Verwandte Familien ziehen mit Kinderscharen zur Kirche."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Bei einem Schlossgemälde denkt man zuerst an Ritter und Belagerung. Das Bild zeigt aber einen stattlichen Zug: Mehrere verwandte Familien gehen mit einer großen Kinderschar vom Schloss Hohenentringen zur Kirche. Richtig war 4. /",
@@ -17548,9 +17574,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Der Ortsname klingt nach Pfaffen, also nach Kirche, daher liegt ein Pfarrsiegel nahe. Vorbild war aber das Siegel des Andreas von Kröwelsau, der den Beinamen „Pfeffinger“ trug. Das Wappen davor folgte einem Siegel mit dem Wappen der Herren von Gültlingen. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Der Ortsname klingt nach Pfaffen, also nach Kirche, daher liegt ein Pfarrsiegel nahe. Vorbild war aber das Siegel des Andreas von Kröwelsau von 1495, der den Beinamen „Pfeffinger“ trug. Davor führte die Gemeinde auf einem Siegel das Wappen der Herren von Gültlingen. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "365-pfaeffingen/v0.8/5",
 "tisch": false
 },
@@ -17608,9 +17634,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Industriebetrieb im Dorf denkt man eher an Metall oder Textil. Bechtle war aber eine Teigwarenfabrik, ursprünglich aus Tübingen. Um die Jahrtausendwende endete der Standort Pfäffingen; Bechtle schloss sich später zur Alb-Gold Teigwaren GmbH zusammen, die Fertigung zog nach Trochtelfingen. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Bei einem Industriebetrieb im Dorf denkt man eher an Metall oder Textil. Bechtle war aber eine Teigwarenfabrik. Zum 1. Januar 2001 übernahm die Alb-Gold Teigwaren GmbH aus Trochtelfingen alle Anteile der Firma. Richtig war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Pfäffingen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "365-pfaeffingen/v0.8/8",
 "tisch": false
 }
@@ -17903,10 +17929,11 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "1613 wurde das Poltringer Wasserschloss im Renaissance-Stil umgestaltet. Nach wessen Plänen geschah der Umbau?",
-"steckbrief": "1. Nach Plänen des Baumeisters Jakob Wolff.",
-"frage": "",
+"ort": "Poltringen",
+"steckbrief": "Ortsteil von Ammerbuch mit rund 1.800 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "1613 wurde das Poltringer Wasserschloss im Renaissance-Stil umgestaltet. Nach wessen Plänen geschah der Umbau?",
 "optionen": [
+"Nach Plänen des Baumeisters Jakob Wolff.",
 "Nach Plänen des Baumeisters Paul Francke.",
 "Nach Plänen des Baumeisters Heinrich Schickhardt.",
 "Nach Plänen des Baumeisters Lüder von Bentheim."
@@ -18463,14 +18490,14 @@ window.QA_DATEN = {
 "frage": "Das Wasserschloss im Ortsteil Poltringen zählt zu den Sehenswürdigkeiten Ammerbuchs. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
 "Nach einer Gasexplosion wurde das Schloss abgerissen.",
-"Auf dem Schlossgelände gab es einst eine öffentliche Gemeindewaschküche.",
+"Im Schloss gab es einst eine öffentliche Gemeindewaschküche.",
 "Heinrich Schickhardt baute das Schloss im Renaissancestil um."
 ],
 "art": "luege",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Die Waschküche klingt erfunden, gerade in einem Schloss, das Heinrich Schickhardt im Renaissancestil umbaute. Doch das Schloss gehörte lange der Gemeinde und diente auch als Schule. Eine Gasexplosion zerstörte zwar einen Eckturm, abgerissen wurde es aber nicht: Ein privater Investor kaufte und renovierte es, darin entstanden Privatwohnungen. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/wasserschloss-poltringen",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "92-ammerbuch/v0.8/3",
 "tisch": false
 },
@@ -18916,9 +18943,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein auffälliger Stein im Wald lässt an Grab, Gipfel oder Gerichtsort denken. Doch er markiert den geografischen Landesmittelpunkt Baden-Württembergs, errechnet nach der Schwerpunkt-Methode. Er liegt unterhalb des Luise-Wetzel-Wegs nahe dem Botanischen Garten. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Tübingen",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Ein auffälliger Stein im Wald lässt an Grab, Gipfel oder Gerichtsort denken. Doch er markiert den geografischen Landesmittelpunkt Baden-Württembergs, errechnet nach der Schwerpunkt-Methode. Er steht im Käsenbachtal nahe dem Botanischen Garten. Richtig war 2.",
+"quelle": "Landesamt für Geologie, Rohstoffe und Bergbau, www.lgrb-bw.de/sites/default/files/download_pool/lgrb_n1602.pdf",
+"faktencheck": "korrigiert",
 "id": "93-tuebingen/v0.8/8",
 "tisch": false
 },
@@ -18936,9 +18963,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Naturwissenschaften klingen nach Aufbruch, und tatsächlich war Tübingen auch dort Vorreiter, nur Jahrzehnte später. Zuerst kam die Staatswissenschaftliche Fakultät, die erste in Deutschland; erster Professor war Friedrich List. Medizin und Jura gab es schon seit Gründung der Universität. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.tuebingen.de/172/41.html",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Naturwissenschaften klingen nach Aufbruch, und Tübingen gründete 1863 tatsächlich die erste Naturwissenschaftliche Fakultät an einer deutschen Universität. 1817 aber kam die Staatswirtschaftliche Fakultät, mit Friedrich List als Professor. Sie gilt heute als älteste noch bestehende Wirtschaftsfakultät Deutschlands. Medizin und Jura gab es schon seit 1477. Richtig war 1.",
+"quelle": "Universität Tübingen, uni-tuebingen.de/de/132187",
+"faktencheck": "korrigiert",
 "id": "93-tuebingen/v0.8/10",
 "tisch": false
 }
@@ -19428,15 +19455,15 @@ window.QA_DATEN = {
 "steckbrief": "Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Früher waren viele Hagellocher Handwerker, etwa Maurer oder Gipser.",
+"Früher arbeiteten viele Hagellocher als Maurer oder Gipser.",
 "Die Realteilung brachte Hagelloch einst große Bauernhöfe.",
-"Die Zehntscheuer gehörte einst zum Kloster Bebenhausen."
+"Die Zehntscheuer gehörte ursprünglich dem Kloster Bebenhausen."
 ],
 "art": "luege",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Große Höfe passen zum Bild vom Bauerndorf. Die Realteilung, also das Aufteilen des Landes unter allen Erben, bewirkte aber das Gegenteil: In Hagelloch entstand ein Kleinbauerntum. Nach der Ortsgeschichte bestimmte Armut jahrhundertelang das Leben im Dorf. Die Lüge war 2.",
 "quelle": "Gemeinde-Webseite, www.tuebingen.de/151/367.html",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "369-hagelloch/v0.8/3",
 "tisch": false
 },
@@ -19505,18 +19532,18 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "Hagelloch",
 "steckbrief": "Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.",
-"frage": "Ein Bau am Torbogenweg in Hagelloch wird „Schloss“ genannt. Was ist er nach der Ortsbeschreibung?",
+"frage": "Ein Bau am Torbogenweg in Hagelloch wird „Schloss“ genannt. Was war er bei seinem Bau?",
 "optionen": [
 "Er war ein Jagdschloss eines Grafenhauses.",
 "Er war das Amtshaus für den Zehnteinzug.",
-"Er ist ein ummauerter Gutshof des niederen Ortsadels.",
+"Er war ein ummauerter Gutshof des niederen Ortsadels.",
 "Er war ein befestigter Pfarrhof der Dorfkirche."
 ],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Bei „Schloss“ denkt man an Grafen, Herzöge und Jagdgesellschaften. Am Torbogenweg steht aber kein Fürstensitz, sondern ein kleiner ummauerter Gutshof des niederen Ortsadels. Seinen Torbogen erhielt er erst später. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.tuebingen.de/151/366.html",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "369-hagelloch/v0.8/7",
 "tisch": false
 },
@@ -19747,15 +19774,19 @@ window.QA_DATEN = {
 {
 "familie": "B",
 "sorte": "Geschichte",
-"ort": "„3. Im Westen der Weststadt liegt der Stadtteil Universität.“ – RÜCKSEITE: unverändert",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Weststadt",
+"steckbrief": "Stadtteil von Tübingen mit rund 8.000 Einwohnern, 13 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Tübinger Freibad liegt in der Weststadt.",
+"Die Paul Horn-Arena steht in der Weststadt.",
+"Die Weststadt grenzt westlich an den Stadtteil Universität."
+],
 "art": "luege",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Eine Arena oder ein Freibad vermutet man leicht anderswo in der Stadt. Beide liegen aber in der Weststadt. Gelogen ist die Grenze: Der Stadtteil Universität liegt östlich der Weststadt, im Westen grenzen Hirschau und Unterjesingen an. Die Lüge war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Weststadt_(Tübingen)",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "370-weststadt-tuebingen/v0.8/3",
 "tisch": false
 },
@@ -19822,15 +19853,20 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„2. Er wurde nach einer Renovierung wiedereröffnet.“ – RÜCKSEITE: „Du hattest [Option] getippt. Alte Türme verfallen oft, wenn sich niemand um sie kümmert, deshalb liegen Abriss oder Sperrung nahe. Der Bismarckturm am Lichtenberger Weg wurde aber renoviert und im Jahr 2000 wiedereröffnet. Richtig war 2.“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Weststadt",
+"steckbrief": "Stadtteil von Tübingen mit rund 8.000 Einwohnern, 13 km westlich von Reutlingen.",
+"frage": "Was geschah im Jahr 2000 mit dem Bismarckturm am Lichtenberger Weg?",
+"optionen": [
+"Er wurde abgerissen und durch einen Neubau ersetzt.",
+"Er wurde renoviert und danach wiedereröffnet.",
+"Er wurde wegen Baufälligkeit endgültig geschlossen.",
+"Er wurde gesprengt, nur der Sockel blieb."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Alte Türme verfallen oft, wenn sich niemand um sie kümmert, deshalb liegen Abriss oder Sperrung nahe. Der Bismarckturm am Lichtenberger Weg wurde aber renoviert und danach wiedereröffnet. Richtig war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Weststadt_(Tübingen)",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "370-weststadt-tuebingen/v0.8/7",
 "tisch": false
 }
@@ -20692,10 +20728,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Lustnau / Der Stadtteil von Tübingen hat rund 10.000 Einwohner und liegt 10 km nordwestlich von Reutlingen. / Die Firma Kress, bekannt für Elektrowerkzeuge, wurde 1928 in Tübingen-Lustnau gegründet. Womit fing Christian Kress an? / 1. Er betrieb eine Möbelschreinerei. / 2. Er betrieb eine Werkstatt für Autoelektrik. / 3. Er baute Uhren und feinmechanische Geräte. / 4. Er reparierte Fahrräder und Nähmaschinen.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Lustnau",
+"steckbrief": "Der Stadtteil von Tübingen hat rund 10.000 Einwohner und liegt 10 km nordwestlich von Reutlingen.",
+"frage": "Die Firma Kress, bekannt für Elektrowerkzeuge, wurde 1928 in Tübingen-Lustnau gegründet. Womit fing Christian Kress an?",
+"optionen": [
+"Er betrieb eine Möbelschreinerei.",
+"Er betrieb eine Werkstatt für Autoelektrik.",
+"Er baute Uhren und feinmechanische Geräte.",
+"Er reparierte Fahrräder und Nähmaschinen."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Fahrräder liegen nahe, denn auch dort wurde damals viel geschraubt und repariert. Christian Kress begann 1928 jedoch mit einer Werkstatt für Autoelektrik. Gleich danach baute er Motoren für Gleich- und Wechselstrom. Richtig war 2.",
@@ -21166,15 +21207,19 @@ window.QA_DATEN = {
 {
 "familie": "B",
 "sorte": "Geschichte",
-"ort": "Aussage 1 lautet neu: „1. Das Gebäude des Landestheaters war früher eine Möbelfabrik.“ (Aussagen 2 und 3 bleiben gleich.)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Südstadt",
+"steckbrief": "Tübinger Stadtteil mit rund 10.000 Einwohnern (2007), 11 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Gebäude des Landestheaters war früher eine Stuhlfabrik.",
+"Der Bergfriedhof liegt unten am Ufer der Steinlach.",
+"Das frühere Gaswerk war ein Vorläufer der Stadtwerke."
+],
 "art": "luege",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Möbelfabrik wirkt wie die Lüge, weil ein Theater selten in einer Fabrik beginnt. Gelogen war aber der Bergfriedhof: Er liegt nicht unten an der Steinlach, sondern oben am Galgenberg im Süden des Stadtteils. Das LTT spielt seit den 1970er-Jahren in der früheren Fabrik Schäfer. Die Lüge war 2.",
+"rueckseite": "Du hattest [Option] getippt. Die Stuhlfabrik wirkt wie die Lüge, weil ein Theater selten in einer Fabrik beginnt. Gelogen war aber der Bergfriedhof: Wie sein Name sagt, liegt er oberhalb des Galgenbergs im Süden des Stadtteils. Die Steinlach bildet dagegen die Westgrenze. Die Lüge war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Südstadt_(Tübingen)",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "375-suedstadt-tuebingen/v0.8/3",
 "tisch": false
 },
@@ -21392,10 +21437,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Derendingen / Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen. / Die St.-Gallus-Kirche in Derendingen gilt bis heute als eine Art Wallfahrtsort für Slowenen. Warum kommen sie gerade hierher? / 1. Ihre Glocken wurden einst in Slowenien gegossen. / 2. Ein slowenischer Reformator war hier Pfarrer. / 3. Ein slowenisches Kloster besaß früher das Dorf. / 4. Die Kirche ist einer slowenischen Kathedrale nachgebaut.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Derendingen",
+"steckbrief": "Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Die St.-Gallus-Kirche in Derendingen gilt bis heute als eine Art Wallfahrtsort für Slowenen. Warum kommen sie gerade hierher?",
+"optionen": [
+"Ihre Glocken wurden einst in Slowenien gegossen.",
+"Ein slowenischer Reformator war hier Pfarrer.",
+"Ein slowenisches Kloster besaß früher das Dorf.",
+"Die Kirche ist einer slowenischen Kathedrale nachgebaut."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein Kloster, denn Wallfahrten kennt man vor allem aus katholischer Tradition. Doch der slowenische Reformator Primus Truber war in Derendingen Gemeindepfarrer. An ihn erinnert dort ein Denkmal. Richtig war 2.",
@@ -21972,10 +22022,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Kilchberg / Stadtteil von Tübingen mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie). / Als erste Nennung Kilchbergs gilt eine Urkunde von 1236. In welchem Zusammenhang? / 1. Ein Kloster erhielt den Ort als Schenkung. / 2. Ein Streit um Weiderechte wurde beigelegt. / 3. Eine Steuerliste führte das Dorf auf. / 4. Ein Zeuge einer Adelsheirat hieß nach dem Ort.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Kilchberg",
+"steckbrief": "Stadtteil von Tübingen mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie).",
+"frage": "Als erste Nennung Kilchbergs gilt eine Urkunde von 1236. In welchem Zusammenhang?",
+"optionen": [
+"Ein Kloster erhielt den Ort als Schenkung.",
+"Ein Streit um Weiderechte wurde beigelegt.",
+"Eine Steuerliste führte das Dorf auf.",
+"Ein Zeuge einer Adelsheirat hieß nach dem Ort."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Pfalzgraf Wilhelm von Tübingen verheiratete seine Tochter Adelheid mit Kuno von Münzenberg. In der Urkunde steht als Zeuge Heynrikus de Kirchperc. Eine Klosterschenkung liegt nahe, weil viele Orte zuerst in Klosterbüchern auftauchen. Richtig war 4.",
@@ -22066,10 +22121,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Kilchberg / Tübinger Stadtteil mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie). / Wilhelmine Haas war eine Pfarrerstochter aus Kilchberg. Wen heiratete sie? / 1. Den Dichter Friedrich Schiller / 2. Den Verleger Johann Friedrich Cotta / 3. Den Philosophen Georg Wilhelm Friedrich Hegel / 4. Den Dichter Christoph Martin Wieland",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Kilchberg",
+"steckbrief": "Tübinger Stadtteil mit rund 1.300 Einwohnern, 14 km westlich von Reutlingen (Luftlinie).",
+"frage": "Wilhelmine Haas war eine Pfarrerstochter aus Kilchberg. Wen heiratete sie?",
+"optionen": [
+"Den Dichter Friedrich Schiller",
+"Den Verleger Johann Friedrich Cotta",
+"Den Philosophen Georg Wilhelm Friedrich Hegel",
+"Den Dichter Christoph Martin Wieland"
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Wilhelmine Haas heiratete Johann Friedrich Cotta, den Verleger Schillers und Goethes. Schiller liegt nahe, weil man bei Schwaben und Literatur zuerst an ihn denkt. Richtig war 2. /",
@@ -22305,7 +22365,7 @@ window.QA_DATEN = {
 "frage": "Was geschah um 1980 mit dem Renaissance-Schloss im Ortskern von Bühl?",
 "optionen": [
 "Die Stadt baute es zur Musikschule um.",
-"Es wurde abgerissen und durch Neubauten ersetzt.",
+"Ein Orden machte daraus ein Kloster.",
 "Private Käufer ersteigerten und sanierten es.",
 "Ein Hotelier baute es zum Schlosshotel um."
 ],
@@ -22313,7 +22373,7 @@ window.QA_DATEN = {
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Ein Schloss mitten im Ort wirkt wie gemacht für eine öffentliche Nutzung durch die Stadt. Doch Tübinger Bürger ersteigerten das Renaissance-Schloss und sanierten es; darin entstanden Eigentumswohnungen. Seine Renaissance-Gestalt verdankt es David von Stein; der Weg, an dessen Kopfende es steht, trägt seinen Namen. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.tuebingen.de/149/347.html",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "379-buehl-tuebingen/v0.8/5",
 "tisch": false
 },
@@ -22511,9 +22571,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Reutlingen steht im Steckbrief, und Reichsstädte stritten oft mit ihren Nachbarn. Doch Hirschau war ein Grenzort: Seine wehrhafte Mauer mit Oberem und Unterem Tor schützte vor den Pfalzgrafen von Tübingen, einem mächtigen Adelsgeschlecht. Ausgerechnet zu Tübingen gehört Hirschau heute als Stadtteil. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Reutlingen steht im Steckbrief, und Reichsstädte stritten oft mit ihren Nachbarn. Doch Hirschau war bis ins frühe 19. Jahrhundert ein Grenzort gegen Tübingen. Seine wehrhafte Mauer hatte ein Oberes und ein Unteres Tor. Ausgerechnet zu Tübingen gehört Hirschau heute als Stadtteil. Richtig war 2.“ Hinweis: Weil im Steckbrief „Stadtteil von Tübingen“ steht, wird die Frage dadurch leichter. Falls das nicht gewollt ist, die Karte sperren.",
 "quelle": "Gemeinde-Webseite, www.tuebingen.de/152/378.html",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "380-hirschau-tuebingen/v0.8/1",
 "tisch": false
 },
@@ -22579,13 +22639,18 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„Am Fuß des Spitzbergs steht die Riedkelter. Welchem Kloster gehörte sie früher?“ RÜCKSEITE: „Du hattest [Option] getippt. Hirsau liegt nahe, denn der Name klingt fast wie Hirschau. Doch früher gehörte die Riedkelter dem Kloster Kreuzlingen bei Konstanz. In einer Kelter wurden früher die Trauben gepresst. Richtig war 2.“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Hirschau",
+"steckbrief": "Rund 3.400 Einwohner; Stadtteil von Tübingen, 16 km westlich von Reutlingen.",
+"frage": "Am Fuß des Spitzbergs steht die Riedkelter. Welchem Kloster gehörte sie früher?",
+"optionen": [
+"Sie gehörte dem Kloster Hirsau.",
+"Sie gehörte dem Kloster Kreuzlingen.",
+"Sie gehörte dem Kloster Zwiefalten.",
+"Sie gehörte dem Kloster Blaubeuren."
+],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Hirsau liegt nahe: Der Name klingt fast wie Hirschau, und das Kloster liegt nicht weit entfernt im Schwarzwald. Doch ursprünglich gehörte die Riedkelter dem Kloster Kreuzlingen am Bodensee. In einer Kelter wurden früher die Trauben gepresst. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Hirsau liegt nahe, denn der Name klingt fast wie Hirschau. Doch früher gehörte die Riedkelter dem Kloster Kreuzlingen bei Konstanz. In einer Kelter wurden früher die Trauben gepresst. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, www.tuebingen.de/152/377.html",
 "faktencheck": "korrigiert",
 "id": "380-hirschau-tuebingen/v0.8/5",
@@ -23071,13 +23136,13 @@ window.QA_DATEN = {
 "Ein Pfarrer verweigerte den Wechsel bis zum Tod.",
 "Ein Brand hatte die Kirche lange unbenutzbar gemacht.",
 "Ein Hochwasser schnitt das Dorf jahrelang ab.",
-"Erst dann kaufte ein evangelischer Herzog die Ortsherrschaft."
+"Erst dann kaufte ein evangelischer Herrscher den Ort."
 ],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Ein sturer Pfarrer liegt nahe, Glaubenswechsel stießen oft auf Widerstand. Doch Ortsherr war die Familie Widmann von Mühringen. Erst als Hans-Christoph Widmann alles, was ihm hier gehörte, an den Herzog von Württemberg verkaufte, wurden die Kirchentellinsfurter württembergische Untertanen und evangelisch. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "382-kirchentellinsfurt/v0.8/1",
 "tisch": false
 },
@@ -23214,9 +23279,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Seuche liegt nahe, sie erklärt viele Einbrüche in alten Dorfchroniken. Hier war es Armut: Die Bauernbefreiung machte die Bewohner zu freien Eigentümern, aber kaum reicher. Viele wanderten aus. Die Bahn kam erst danach und brachte dem Dorf später Aufschwung. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein Krieg liegt nahe, er erklärt viele Einbrüche in Dorfchroniken. Doch der Krieg gegen Frankreich kam erst Jahre später. Hier war es Armut: Die Bauernbefreiung machte die Bewohner zu freien Eigentümern, aber kaum reicher. Viele wanderten aus. Die Bahn kam erst danach. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "382-kirchentellinsfurt/v0.8/8",
 "tisch": false
 },
@@ -23234,9 +23299,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Ritter namens Martin liegt nahe, Stifter prägten oft ihre Kirchen. Doch Martin war der Lieblingsheilige der Franken, ein sicheres Zeichen für das Alter der Kirche. Vermutlich gründeten die Franken sie als Zentrum ihrer Herrschaft und der Christianisierung. Im Mittelalter war sie Mutterkirche für Nachbarorte. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Ein Ritter namens Martin liegt nahe, Stifter prägten oft ihre Kirchen. Doch Martin war der Lieblingsheilige der Franken und gilt Historikern als sicheres Zeichen für das Alter der Kirche. Vermutlich gründeten die Franken sie als Zentrum ihrer Herrschaft und der Christianisierung. Im Mittelalter war sie Mutterkirche für Nachbarorte. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.kirchentellinsfurt.de/de/Leben-im-Ort/Ortsportrait",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "382-kirchentellinsfurt/v0.8/9",
 "tisch": false
 }
@@ -26988,15 +27053,20 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Option 1 lautet: „1. Er gilt als erster gesicherter Meteoritenfall im Land.“ (alles Übrige unverändert)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Im Juli 2018 zog nachts eine sehr helle Feuerkugel über Baden-Württemberg. Was stimmt über den Meteoriten von Renchen?",
+"optionen": [
+"Er war der erste gesicherte Meteoritenfall im Land.",
+"Man fand nur einen einzigen großen Brocken.",
+"Die Feuerkugel war nur über Renchen zu sehen.",
+"Trotz langer Suche fand man kein Bruchstück."
+],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Weil der Meteorit Renchen heißt, liegt nahe, dass man ihn nur dort sah. Die Feuerkugel leuchtete aber über Süddeutschland, ihr Bersten war bis zu 400 km weit zu sehen. Später fand man mehrere Bruchstücke. Renchen gilt als erster gesicherter Meteoritenfall in Baden-Württemberg. Richtig war 1.",
-"quelle": "Universität Münster, uni-muenster.de/news/view.php?cmdid=9853; BNN",
-"faktencheck": "korrigiert",
+"rueckseite": "Du hattest [Option] getippt. Weil der Meteorit Renchen heißt, liegt nahe, dass man ihn nur dort sah. Die Feuerkugel leuchtete aber bis ins Elsass und nach Lothringen. Später fand man mehrere Bruchstücke. Es war der erste gesicherte Meteoritenfall in Baden-Württemberg. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Renchen",
+"faktencheck": "unsicher",
 "id": "32-renchen/v0.8/7",
 "tisch": false
 },
@@ -27565,14 +27635,14 @@ window.QA_DATEN = {
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
 "Das Kurhaus entwarf der Architekt Friedrich Weinbrenner",
-"Einer der ältesten Tennisclubs Deutschlands entstand für russische Kurgäste",
+"Deutschlands ältester Tennisclub entstand für russische Kurgäste",
 "Die Philharmonie geht auf eine Hofkapelle zurück"
 ],
 "art": "luege",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Russische Gäste prägten Baden-Badens Bäder und Casino – doch Tennis brachten englische Kurgäste mit, die den Club gründeten. Sie führten auch den Golfsport in der Stadt ein. Die Lüge war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Baden-Baden",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "16-baden-baden/v0.8/3",
 "tisch": false
 },
@@ -28061,10 +28131,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / Im Wappen des Ortsteils Würmersheim steht ein gelber Wurm. Was war vor 1901 zeitweise an seiner Stelle zu sehen? / 1. Dort war ein Fisch abgebildet. / 2. Dort war eine Schere abgebildet. / 3. Dort war ein Pflug abgebildet. / 4. Dort war ein Schlüssel abgebildet.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.",
+"frage": "Im Wappen des Ortsteils Würmersheim steht ein gelber Wurm. Was war vor 1901 zeitweise an seiner Stelle zu sehen?",
+"optionen": [
+"Dort war ein Fisch abgebildet.",
+"Dort war eine Schere abgebildet.",
+"Dort war ein Pflug abgebildet.",
+"Dort war ein Schlüssel abgebildet."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Ein Fisch läge nahe, denn Würmersheims Name bedeutet Heim am Bach im Sumpfland. Doch vor 1901 stand dort zeitweise eine Schere. Den Wurm zeigte das Wappen schon 1553. Heute steht er gelb auf blauem Grund neben dem rot-gelben badischen Wappen. Richtig war 2. /",
@@ -28096,10 +28171,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / Die Rohrburg war ein markgräfliches Schloss am Zusammenfluss von Schmidt- und Federbach. Was wurde sie ab etwa 1574? / 1. Sie wurde erstmals urkundlich erwähnt. / 2. Sie wurde von Hans Dietrich von Bademer wieder aufgebaut. / 3. Ihr Areal wurde verkauft. / 4. Sie wurde Dienst- und Wohnsitz badischer Forstmeister.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.",
+"frage": "Die Rohrburg war ein markgräfliches Schloss am Zusammenfluss von Schmidt- und Federbach. Was wurde sie ab etwa 1574?",
+"optionen": [
+"Sie wurde erstmals urkundlich erwähnt.",
+"Sie wurde von Hans Dietrich von Bademer wieder aufgebaut.",
+"Ihr Areal wurde verkauft.",
+"Sie wurde Dienst- und Wohnsitz badischer Forstmeister."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Alles davon gehört zur Geschichte der Rohrburg, nur zu anderen Zeiten: Erstmals erwähnt wurde sie 1388, wieder aufgebaut ab 1657, ihr Areal verkauft 1776. Ab etwa 1574 war sie Dienst- und Wohnsitz badischer Forstmeister. Richtig war 4. /",
@@ -28131,10 +28211,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / In den Fundamenten der alten Pfarrkirche steckte ein Fund, der heute in der neuen eingemauert ist. Was ist es? / 1. Es ist ein Gedenkstein an den Abriss der alten Kirche. / 2. Es ist ein Grenzstein der Markgrafen. / 3. Es ist ein Stück eines römischen Viergöttersteins. / 4. Es ist ein alter Mühlstein vom Federbach.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.",
+"frage": "In den Fundamenten der alten Pfarrkirche steckte ein Fund, der heute in der neuen eingemauert ist. Was ist es?",
+"optionen": [
+"Es ist ein Gedenkstein an den Abriss der alten Kirche.",
+"Es ist ein Grenzstein der Markgrafen.",
+"Es ist ein Stück eines römischen Viergöttersteins.",
+"Es ist ein alter Mühlstein vom Federbach."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Ein Grenzstein oder Mühlstein als Baumaterial läge nahe. In den Fundamenten steckte aber ein Stück eines römischen Viergöttersteins, eines Steins mit Götterbildern. Die alte Kirche stand im Pfarrgarten an der Römerstraße. Funde deuten darauf hin, dass dort eine Römerstraße verlief. Richtig war 3. /",
@@ -28544,10 +28629,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Heinrich Wetzlar und seine Frau Therese richteten 1919 im Schloss Stutensee ein Heim ein. Wofür war es gedacht? (Optionen unverändert)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Stutensee",
+"steckbrief": "Große Kreisstadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.",
+"frage": "Heinrich Wetzlar und seine Frau Therese richteten 1919 im Schloss Stutensee ein Heim ein. Wofür war es gedacht?",
+"optionen": [
+"Es war ein Lazarett für Kriegsverwundete.",
+"Es war ein Altenheim für verarmte Handwerker.",
+"Es war ein Erziehungsheim für straffällige Jugendliche.",
+"Es war ein Kurheim für lungenkranke Kinder."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Kurz nach dem Ersten Weltkrieg liegt ein Lazarett nahe. Doch der jüdische Richter, später Landgerichtspräsident in Mannheim, und seine Frau wollten gestrauchelte Jugendliche durch Erziehung und Ausbildung wieder eingliedern. 1943 wurden beide nach Theresienstadt deportiert und kamen dort ums Leben. Seit 1984 trägt ein Haus der Jugendeinrichtung seinen Namen. Richtig war 3.",
@@ -29790,10 +29880,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Ein Ladenburger Färbersohn wurde in Wien österreichischer Hofkanzler. Welches berühmte Dokument soll er verfasst haben? (Optionen 1–4 bleiben)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Ein Ladenburger Färbersohn wurde in Wien österreichischer Hofkanzler. Welches berühmte Dokument soll er verfasst haben?",
+"optionen": [
+"Er verfasste die Goldene Bulle.",
+"Er verfasste die Pragmatische Sanktion.",
+"Er verfasste das Wormser Edikt.",
+"Er verfasste den Augsburger Religionsfrieden."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Die Goldene Bulle klingt nach Kanzlei, entstand aber lange vor seiner Zeit. Johann Friedrich von Seilern gilt als Verfasser der Pragmatischen Sanktion. Sie sicherte der Habsburgerin Maria Theresia die Erbfolge in den habsburgischen Ländern. Richtig war 2.",
@@ -29845,10 +29940,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Um 600 kam Ladenburg als Geschenk fränkischer Könige an den Bischof von Worms. Wie lange blieb der Bischof Stadtherr, zuletzt gemeinsam mit der Kurpfalz? (Optionen 1–4 bleiben)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Um 600 kam Ladenburg als Geschenk fränkischer Könige an den Bischof von Worms. Wie lange blieb der Bischof Stadtherr, zuletzt gemeinsam mit der Kurpfalz?",
+"optionen": [
+"Sie dauerte etwa 50 Jahre.",
+"Sie dauerte etwa 200 Jahre.",
+"Sie dauerte über 1.000 Jahre.",
+"Sie dauerte etwa 500 Jahre."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Viele vermuten, die Reformationszeit habe die Bischöfe vertrieben. Ab dem 14. Jahrhundert teilten sie sich die Stadt zwar mit der Kurpfalz. Doch erst der Zessionsvertrag zwischen Kurfürst und Bischof von Worms beendete ihre Herrschaft im Wesentlichen, im Jahr 1705. Richtig war 3.",
@@ -31776,10 +31876,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Neu-Isenburg / Stadt mit rund 38.000 Einwohnern, 7 km südlich von Frankfurt am Main. / Im Haus zum Löwen ist heute das Stadtmuseum. Wozu diente das Gebäude ursprünglich? / 1. Es war eine Apotheke der Siedler. / 2. Es war ein Gasthaus der Siedler. / 3. Es war eine Schmiede der Siedler. / 4. Es war eine Mühle der Siedler.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Neu-Isenburg",
+"steckbrief": "Stadt mit rund 38.000 Einwohnern, 7 km südlich von Frankfurt am Main.",
+"frage": "Im Haus zum Löwen ist heute das Stadtmuseum. Wozu diente das Gebäude ursprünglich?",
+"optionen": [
+"Es war eine Apotheke der Siedler.",
+"Es war ein Gasthaus der Siedler.",
+"Es war eine Schmiede der Siedler.",
+"Es war eine Mühle der Siedler."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Ein Löwe im Hausnamen erinnert an die vielen Löwen-Apotheken, daher liegt die Apotheke nahe. Doch auch Wirtshäuser trugen gern Tiernamen: Das Haus zum Löwen war eines der ersten Gasthäuser der Siedler. Das Museum erzählt dort, wie aus dem Dorf eine Stadt wurde. Richtig war 2.",
@@ -32012,15 +32117,15 @@ window.QA_DATEN = {
 "steckbrief": "Rund 760.000 Einwohner, Großstadt am Main, 31 km Luftlinie von der Landeshauptstadt Wiesbaden.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Bevor Frankfurt ein eigenes Rathaus hatte, nutzte der Rat das Barfüßerkloster.",
-"Infolge der Reformation löste sich der Barfüßerkonvent selbst auf.",
+"Vor dem Rathausbau nutzte der Rat das Barfüßerkloster.",
+"Nach der Reformation löste sich der Barfüßerkonvent auf.",
 "Die Barfüßerkirche steht noch heute neben der Paulskirche."
 ],
 "art": "luege",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Ein zweiter alter Kirchenbau gleich daneben klingt in einer Altstadt plausibel. Doch die Barfüßerkirche, später Hauptkirche der lutherischen Reichsstadt, wurde niedergelegt, um Platz für einen Neubau zu schaffen. Die Französische Revolution und ihre Kriege unterbrachen die Baupläne. Der Neubau wurde die Paulskirche. Die Lüge war 3.",
 "quelle": "Gemeinde-Webseite, www.stadtgeschichte-ffm.de/en/city-history/publications/36/von-der-barfuesserkirche-zur-paulskirche",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "44-frankfurt/v0.8/3",
 "tisch": false
 },
@@ -32190,15 +32295,20 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Frage neu: „Adam Opel gründete 1862 in Rüsselsheim eine Nähmaschinen-Manufaktur. Wo richtete er seine erste eigene Fertigungsstätte ein?“ Die Optionen 1–4 bleiben. RÜCKSEITE: „Du hattest [Option] getippt. Eine Mühle am Fluss läge für eine Werkstatt nahe, denn Wasser trieb früher Maschinen an. Doch Adam Opel, der zuvor bei einem großen Pariser Nähmaschinenhersteller gearbeitet hatte, begann ganz klein: in einem leeren Kuhstall seines Onkels. Daraus wurde später der Autohersteller Opel. Richtig war 4.“ Quelle: Opel/Stellantis, opelpost.com",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Rüsselsheim",
+"steckbrief": "Stadt mit rund 66.000 Einwohnern, 10 km östlich von Mainz.",
+"frage": "Adam Opel gründete 1862 in Rüsselsheim eine Nähmaschinen-Manufaktur. Wo richtete er sie ein?",
+"optionen": [
+"Er nutzte eine leerstehende Mühle am Mainufer.",
+"Er mietete einen Raum im Pfarrhaus.",
+"Er arbeitete im Hinterzimmer einer Gastwirtschaft.",
+"Er richtete sich im Stall seines Onkels ein."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Eine Mühle am Fluss läge für eine Werkstatt nahe, denn Wasser trieb früher Maschinen an. Doch Adam Opel, einst Schlosserlehrling und bei einem Pariser Nähmaschinenhersteller ausgebildet, begann ganz klein: im Stall seines Onkels. Aus der Nähmaschinen-Manufaktur wurde später der Autohersteller Opel. Richtig war 4.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Rüsselsheim_am_Main",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "64-ruesselsheim/v0.8/1",
 "tisch": false
 },
@@ -32324,15 +32434,20 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Frage neu: „Philipp der Großmütige ließ die Burg am Main zur Festung ausbauen. Warum wurde sie 1547 geschleift, also ihre Befestigung abgetragen?“ Die Optionen 1–4 bleiben. RÜCKSEITE: „Du hattest [Option] getippt. Bei einer Burg am Main liegt ein unterspülter Bau nahe. Doch Philipp hatte die Festung für den Schmalkaldischen Krieg aufgerüstet. Nach seiner Niederlage musste er sie dem Kaiser übergeben, und Karl V. ordnete an, sie zu schleifen. 1560 bis 1563 wurde sie wiederhergestellt. Richtig war 3.“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Rüsselsheim",
+"steckbrief": "Stadt mit rund 66.000 Einwohnern, 10 km östlich von Mainz.",
+"frage": "Philipp der Großmütige ließ die Burg am Main zur Festung ausbauen. Warum wurde sie 1547 wieder abgerissen?",
+"optionen": [
+"Ein Großbrand hatte sie unbrauchbar gemacht.",
+"Der Main hatte ihre Mauern unterspült.",
+"Der Kaiser befahl es nach Philipps Niederlage.",
+"Philipp ließ sie für ein Schloss abtragen."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Bei einer Burg am Main liegt ein unterspülter Bau nahe. Doch Philipp hatte die Festung für den Schmalkaldischen Krieg aufgerüstet. Nach der Niederlage ordnete Kaiser Karl V. an, sie zu schleifen, also planmäßig abzutragen. Später wurde sie wiederhergestellt. Richtig war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Rüsselsheim_am_Main",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "64-ruesselsheim/v0.8/8",
 "tisch": false
 },
@@ -33282,9 +33397,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei Goethe denkt man zuerst an die berühmten Jugendwerke wie den Werther. Im Chausseehaus in Marienborn entstanden nach der Ortsgeschichte aber Teile von „Reinecke Fuchs“. Prominente Gäste in Marienborn waren damals auch Heinrich von Kleist und Carl von Clausewitz. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Bei Goethe denkt man zuerst an die berühmten Jugendwerke wie den Werther. Im Chausseehaus in Marienborn entstanden nach der Ortsgeschichte aber Teile von „Reineke Fuchs“. Auch Heinrich von Kleist und Carl von Clausewitz waren damals in Marienborn. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.mainz.de/startseite-mainz.de/stadtteile/marienborn/marienborn",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "45-mainz/v0.8/5",
 "tisch": false
 },
@@ -33578,7 +33693,7 @@ window.QA_DATEN = {
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Beim Widerstand denken viele zuerst an Stauffenberg oder die Geschwister Scholl. Der Preis ehrt aber einen Sohn der Stadt: General Ludwig Beck stammte aus Wiesbaden, war am Attentat auf Hitler beteiligt und bezahlte mit seinem Leben. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Wiesbaden",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "46-wiesbaden/v0.8/7",
 "tisch": false
 },
@@ -35589,7 +35704,7 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "St. Goarshausen",
 "steckbrief": "Rund 1.200 Einwohner, 24 km südöstlich von Koblenz, überragt von der Burg Katz.",
-"frage": "Warum ließ Graf Wilhelm II. von Katzenelnbogen um 1360 die Burg Katz erbauen? RÜCKSEITE (unverändert, da dort nur „Graf Wilhelm\" ohne Numeral steht): Du hattest [Option] getippt. Ein Jagdsitz klingt plausibel über dem Rheintal. Doch als der Trierer Erzbischof Boemund II. ab 1356 die Burg Peterseck errichten ließ, antwortete Graf Wilhelm II. mit einer eigenen Burg – im Volksmund wurden beide zu „Katz und Maus\". Richtig war 2. Quelle: Gemeinde-Webseite, sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-wellmich/",
+"frage": "Warum ließ Graf Wilhelm II. von Katzenelnbogen um 1360 die Burg Katz erbauen?",
 "optionen": [
 "Als Jagdsitz für die gräfliche Familie",
 "Als Reaktion auf eine Burg des Trierer Erzbischofs",
@@ -38560,10 +38675,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Boppard / Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz. / In einer Baugrube nahe dem Hauptbahnhof fand man eine altsteinzeitliche Feuerstelle. Unter welcher Schicht lag sie laut Stadtgeschichte? / 1. Darüber lag Schutt eines Gletschers. / 2. Darüber lag Lava eines Vulkans im Hunsrück. / 3. Darüber lag Bims vom Ausbruch des Laacher Sees. / 4. Darüber lag Asche eines Waldbrands im Hunsrück.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Boppard",
+"steckbrief": "Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz.",
+"frage": "In einer Baugrube nahe dem Hauptbahnhof fand man eine altsteinzeitliche Feuerstelle. Unter welcher Schicht lag sie laut Stadtgeschichte?",
+"optionen": [
+"Darüber lag Schutt eines Gletschers.",
+"Darüber lag Lava eines Vulkans im Hunsrück.",
+"Darüber lag Bims vom Ausbruch des Laacher Sees.",
+"Darüber lag Asche eines Waldbrands im Hunsrück."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Über der altsteinzeitlichen Feuerstelle lag laut Stadtgeschichte Bims vom Ausbruch des Laacher Sees. Entdeckt hatten den Platz 2001 der Verein ARRATA und der Archäologe Wolfgang Welker. Spätere Grabungen der Landesarchäologie förderten Knochen vom Rothirsch und Pfeilspitzen zutage. Als besonderer Fund gilt ein verziertes Knochengerät. Richtig war 3.",
@@ -38605,9 +38725,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein verlassenes Römerlager klingt nach Ruinenromantik und passt zum Bild vom Untergang Roms. Doch nach dem Abzug der Römer bewohnte die Zivilbevölkerung das Kastell, und daraus entwickelte sich ein merowingischer Königssitz. Barbarossa besuchte tatsächlich den Königshof, und Richard von Cornwall ließ den Bergfried bauen. Die Lüge war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein verlassenes Römerlager klingt nach Ruinenromantik und passt zum Bild vom Untergang Roms. Doch nach dem Abzug der Römer bewohnte die Zivilbevölkerung das Kastell weiter, und daraus wurde ein merowingischer Königssitz. Barbarossa besuchte tatsächlich Boppard, und Richard von Cornwall ließ den Bau des Bergfrieds am Rheinufer beginnen. Die Lüge war 3.",
 "quelle": "Gemeinde-Webseite, www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "48-boppard/v0.8/3",
 "tisch": false
 },
@@ -38634,10 +38754,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Boppard / Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz. / Eine Grundschule in Boppard trägt den Namen eines 1796 hier geborenen Mannes. Wofür ist er bekannt? / 1. Er konstruierte Dampfschiffe für den Rhein. / 2. Er züchtete eine neue Rebsorte. / 3. Er entwickelte die Bugholztechnik. / 4. Er entwickelte eine neue Art der Schieferdeckung.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Boppard",
+"steckbrief": "Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz.",
+"frage": "Eine Grundschule in Boppard trägt den Namen eines 1796 hier geborenen Mannes. Wofür ist er bekannt?",
+"optionen": [
+"Er konstruierte Dampfschiffe für den Rhein.",
+"Er züchtete eine neue Rebsorte.",
+"Er entwickelte die Bugholztechnik.",
+"Er entwickelte eine neue Art der Schieferdeckung."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Am Rhein liegen Wein und Schifffahrt als Ruhmesquelle nahe. Doch der Mann war Michael Thonet. Er entwickelte die Bugholztechnik, bei der Holz in Form gebogen wird. Richtig war 3.",
@@ -40799,16 +40924,16 @@ window.QA_DATEN = {
 "steckbrief": "Bodenheim hat rund 7.600 Einwohner und liegt 6 km südlich von Mainz.",
 "frage": "Das Rathaus von Bodenheim ist ein Fachwerkbau der Renaissance. Wozu wurde es ursprünglich errichtet?",
 "optionen": [
-"Es wurde als Gasthaus für Fuhrleute errichtet.",
-"Es wurde als Kelterhaus der Winzer errichtet.",
-"Es wurde als Kornspeicher des Dorfes errichtet.",
-"Es wurde als Gerichtsgebäude errichtet."
+"Es diente zuerst als Gasthaus für Fuhrleute.",
+"Es diente zuerst als Kelterhaus der Winzer.",
+"Es diente zuerst als Kornspeicher des Dorfes.",
+"Es diente zuerst als Haus des Gerichts."
 ],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Im Weinland Rheinhessen liegt ein Kelterhaus nahe. Doch das Fachwerkhaus entstand als Gerichtsgebäude: Bodenheim war Sitz eines Ober- und Dorfgerichts und Ort der Rechtsprechung auch für die Umgebung. An seiner Rückseite streckt ein Kopf die Zunge heraus. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.vg-bodenheim.de/tourismus/historisches/geschichten/",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "134-bodenheim/v0.8/7",
 "tisch": false
 },
@@ -41276,7 +41401,7 @@ window.QA_DATEN = {
 "frage": "Im Mittelalter genoss der „Niersteiner Oberhof“ hohes Ansehen. Was war er?",
 "optionen": [
 "Er war ein Gutshof mit berühmtem Weinkeller.",
-"Er galt als Vorbild für die Sendgerichte der Umgebung.",
+"Er war Vorbild für die Sendgerichte der Umgebung.",
 "Er war eine Herberge für reisende Pilger.",
 "Er war ein Gestüt für königliche Pferde."
 ],
@@ -41284,7 +41409,7 @@ window.QA_DATEN = {
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Bei „Hof“ denkt man an ein Gut oder eine Herberge. Der Oberhof gehörte aber zum Niersteiner Sendgericht, das Vergehen in Fragen des Glaubens und der Moral ahndete. Er galt als Orientierungs- und Entscheidungsinstanz für umliegende Orte und deren Sendgerichte. Gerichtsherr des Sendgerichts war zuerst der Mainzer Erzbischof. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, www.nierstein.de/chronik-von-nierstein",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "61-nierstein/v0.8/8",
 "tisch": false
 },
@@ -42198,30 +42323,40 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Option 1 neu: „1. Der Name lobte ursprünglich die wonnige, fruchtbare Landschaft.“ (alles andere unverändert)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Worms",
+"steckbrief": "Stadt mit rund 87.000 Einwohnern, 17 km nordwestlich von Mannheim.",
+"frage": "Westlich von Worms liegt die Hügellandschaft Wonnegau. Woher hat sie ihren Namen?",
+"optionen": [
+"Der Name lobt die wonnige, fruchtbare Landschaft.",
+"Er geht auf einen mittelalterlichen Grundherrn zurück.",
+"Er geht auf einen antiken Volksstamm zurück.",
+"Er stammt von einem fränkischen Königshof."
+],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die Wonne liegt nahe, weil sie im Namen steckt. Doch der Name kommt vom antiken Volk der Vangionen: Aus Civitas Vangionum wurde Wangengau, und erst der Volksmund machte daraus das verständlichere Wonnegau. Worms war Hauptort der Civitas Vangionum. Richtig war 3.",
-"quelle": "Stadt Worms, worms-erleben.de",
-"faktencheck": "korrigiert",
+"rueckseite": "Du hattest [Option] getippt. Die Wonne liegt nahe, weil sie im Namen steckt. Der Name ist vom Volk der Vangionen abgeleitet; der Volksmund machte daraus das verständlichere Wonnegau. Worms war in römischer Zeit Hauptort der Civitas Vangionum. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Worms",
+"faktencheck": "unsicher",
 "id": "55-worms/v0.8/8",
 "tisch": false
 },
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Option 1 neu: „1. Er forderte den Papst zum Rücktritt auf.“ (alles andere unverändert)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Worms",
+"steckbrief": "Stadt am Rhein mit rund 87.000 Einwohnern, 17 km nordwestlich von Mannheim.",
+"frage": "1076 hielt König Heinrich IV. einen Hoftag in Worms ab. Was erklärte er dort?",
+"optionen": [
+"Er erklärte den Papst für abgesetzt.",
+"Er erklärte seinen Verzicht auf den Thron.",
+"Er erklärte Worms zur Hauptstadt des Reiches.",
+"Er rief die Fürsten zum Kreuzzug auf."
+],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Thronverzicht klingt nach Canossa, wo sich der König später beugte. Doch auf dem Hoftag, einer Versammlung der Großen des Reiches, kündigten Heinrich IV. und die Bischöfe Papst Gregor VII. den Gehorsam auf und verlangten seine Abdankung. Der Papst bannte darauf den König; so kam es zum Gang nach Canossa. Richtig war 1.",
-"quelle": "Landesmuseum Mainz, landesmuseum-mainz.de",
-"faktencheck": "korrigiert",
+"rueckseite": "Du hattest [Option] getippt. Ein Thronverzicht klingt nach Canossa, wo sich der König später beugte. Doch auf dem Hoftag, einer Versammlung der Großen des Reiches, erklärte Heinrich IV. Papst Gregor VII. für abgesetzt. Darauf wurde er mit dem Kirchenbann belegt; das war einer der Auslöser des Gangs nach Canossa. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Worms",
+"faktencheck": "unsicher",
 "id": "55-worms/v0.8/9",
 "tisch": false
 }
@@ -43378,13 +43513,13 @@ window.QA_DATEN = {
 "optionen": [
 "Soldaten zerstörten die Burg Roßwag im Dreißigjährigen Krieg.",
 "Riets Kirche birgt den Grabstein eines Paracelsus-Onkels.",
-"Ensingens evangelische Dorfkirche ist dem heiligen Veit geweiht."
+"Die Ensinger Kirche ist dem heiligen Veit geweiht."
 ],
 "art": "luege",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Zerstörte Burgen verbindet man oft mit dem Dreißigjährigen Krieg, deshalb klingt die Lüge glaubhaft. Die Burg Roßwag auf dem Muschelkalkfelsen ebneten aber die Äbte des Klosters Maulbronn ein, lange vor diesem Krieg. Die beiden anderen Aussagen stimmen. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, www.vaihingen.de/unsere-stadt/stadtteile/rosswag",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "97-vaihingen/v0.8/3",
 "tisch": false
 },
@@ -44617,10 +44752,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Wurmberg / Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim. / Zu Wurmberg gehört das einstige Lucerne, bis 1808 eine eigene Gemeinde. Wer hat die Siedlung gegründet? / 1. Auswanderer aus Luzern in der Schweiz gründeten sie. / 2. Bergleute aus dem Erzgebirge gründeten sie. / 3. Glasmacher aus Böhmen gründeten sie. / 4. Waldenser, die als Glaubensflüchtlinge kamen, gründeten sie.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Wurmberg",
+"steckbrief": "Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim.",
+"frage": "Zu Wurmberg gehört das einstige Lucerne, bis 1808 eine eigene Gemeinde. Wer hat die Siedlung gegründet?",
+"optionen": [
+"Auswanderer aus Luzern in der Schweiz gründeten sie.",
+"Bergleute aus dem Erzgebirge gründeten sie.",
+"Glasmacher aus Böhmen gründeten sie.",
+"Waldenser, die als Glaubensflüchtlinge kamen, gründeten sie."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Der Name erinnert an die Schweizer Stadt Luzern, deren französischer Name Lucerne lautet. Doch gegründet haben die Siedlung 1699 Waldenser, reformierte Glaubensflüchtlinge aus dem Queyras im Dauphiné und aus dem Piemont. Sie sprachen Französisch und weihten 1728 in Lucerne eine eigene Kirche ein. Richtig war 4. /",
@@ -44691,10 +44831,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Wurmberg / Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim. / Der Wurmberger Ortsteil Neubärental wurde Anfang des 18. Jahrhunderts von Menschen aus Bärenthal in Hohenzollern gegründet. Welchen Grund für ihren Wegzug nennt die Ortsgeschichte? / 1. Ein Großbrand hatte ihr Heimatdorf zerstört. / 2. Eine Seuche hatte ihr Heimatdorf entvölkert. / 3. Ihr Heimatdorf musste einem Stausee weichen. / 4. Sie wurden wegen ihres reformierten Glaubens vertrieben.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Wurmberg",
+"steckbrief": "Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim.",
+"frage": "Der Wurmberger Ortsteil Neubärental wurde Anfang des 18. Jahrhunderts von Menschen aus Bärenthal in Hohenzollern gegründet. Welchen Grund für ihren Wegzug nennt die Ortsgeschichte?",
+"optionen": [
+"Ein Großbrand hatte ihr Heimatdorf zerstört.",
+"Eine Seuche hatte ihr Heimatdorf entvölkert.",
+"Ihr Heimatdorf musste einem Stausee weichen.",
+"Sie wurden wegen ihres reformierten Glaubens vertrieben."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Brände und Seuchen trieben damals viele Menschen aus ihren Dörfern, darum liegt das nahe. Doch die Siedler waren Reformierte, die aus Bärenthal ausgewiesen wurden. Als Glaubensflüchtlinge gründeten sie Neubärental, das kirchlich eng mit dem Waldenserort Lucerne verbunden war. Richtig war 4. /",
@@ -44726,10 +44871,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Wurmberg / Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim. / Am 10. Juli 1968 traf ein Naturereignis Wurmberg und richtete große Schäden an Gebäuden an. Welches? / 1. Ein Erdbeben beschädigte viele Häuser. / 2. Ein Tornado zog über den Ort. / 3. Der Boden brach ein, Häuser sackten ab. / 4. Ein Waldbrand griff auf die Häuser über.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Wurmberg",
+"steckbrief": "Wurmberg hat rund 3.300 Einwohner und liegt 9 km östlich von Pforzheim.",
+"frage": "Am 10. Juli 1968 traf ein Naturereignis Wurmberg und richtete große Schäden an Gebäuden an. Welches?",
+"optionen": [
+"Ein Erdbeben beschädigte viele Häuser.",
+"Ein Tornado zog über den Ort.",
+"Der Boden brach ein, Häuser sackten ab.",
+"Ein Waldbrand griff auf die Häuser über."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Wirbelstürme verbindet man eher mit Amerika als mit dem Heckengäu, darum denken viele zuerst an anderes. Doch an diesem Tag wütete ein Tornado über Wurmberg und beschädigte etwa 70 Häuser. Richtig war 2. /",
@@ -47657,14 +47807,14 @@ window.QA_DATEN = {
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
 "Eine Autobahn durchschneidet das Gemeindegebiet von Aichelberg.",
-"Die evangelische Kirche im Ort Aichelberg stammt aus dem Mittelalter.",
+"Die evangelische Kirche Aichelbergs stammt aus dem Mittelalter.",
 "Ein italienischer Unternehmer baute die Neue Steige."
 ],
 "art": "luege",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Eine mittelalterliche Kirche liegt nahe, denn viele Dörfer der Gegend haben eine. Doch Aichelbergs Christuskirche entstand erst nach dem Zweiten Weltkrieg. Mit ihr erfüllte sich der Wunsch, evangelischen Gottesdienst in einem Kirchenraum zu feiern. Wahr sind die Autobahn und die Neue Steige, gebaut vom Italiener Hettarazi. Die Lüge war 2.",
 "quelle": "Gemeinde-Webseite, www.aichelberg.de/seite/734011/geschichte.html",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "277-aichelberg/v0.8/3",
 "tisch": false
 },
@@ -48721,9 +48871,9 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "Eislingen/Fils",
 "steckbrief": "Stadt mit rund 22.000 Einwohnern, 39 km nordwestlich von Ulm.",
-"frage": "Zwischen 1945 und 1955 sprach die junge Generation in Eislingen „Eislinger Manisch“, das nur Einheimische verstanden. Worauf deutet der Name hin?",
+"frage": "Zwischen 1945 und 1955 sprach die junge Generation in Eislingen Süd „Eislinger Manisch“, das nur Einheimische verstanden. Worauf deutet der Name hin?",
 "optionen": [
-"Er deutet auf die Sprache der Sinti und Roma hin.",
+"Er deutet auf die Sinti und Roma hin.",
 "Er spielt auf aufgedrehtes, hektisches Reden an.",
 "Er stammt vom englischen „man“ der US-Soldaten.",
 "Er geht auf die Arbeiter einer Manufaktur zurück."
@@ -48732,7 +48882,7 @@ window.QA_DATEN = {
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. „Manisch“ klingt heute nach aufgedreht, und das passt scheinbar gut zu Jugendsprache. Doch der Name deutet auf eine Nähe zur Sprache der Sinti und Roma hin. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.eislingen.de/de/Freizeit-Kultur/Sehen-Staunen/Geschichtspfad",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "280-eislingen/v0.8/7",
 "tisch": false
 },
@@ -49175,10 +49325,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Gingen an der Fils / Gemeinde an der Fils mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm. / Die Gingener tragen den Spitznamen „Schnapper“. Welche Herkunft des Spitznamens hält die Ortsgeschichte für die plausibelste? / 1. Sie schnappten dem Nachbarort ein Quellrecht weg. 2. Sie brannten früher besonders viel Schnaps. 3. Sie fingen Forellen mit bloßen Händen. 4. Sie galten als bissige, schnippische Streithähne.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Gingen an der Fils",
+"steckbrief": "Gemeinde an der Fils mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.",
+"frage": "Die Gingener tragen den Spitznamen „Schnapper“. Welche Herkunft des Spitznamens hält die Ortsgeschichte für die plausibelste?",
+"optionen": [
+"Sie schnappten dem Nachbarort ein Quellrecht weg.",
+"Sie brannten früher besonders viel Schnaps.",
+"Sie fingen Forellen mit bloßen Händen.",
+"Sie galten als bissige, schnippische Streithähne."
+],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Schnaps liegt beim Wortklang nahe. Die Gemeinde hält aber eine andere Version für die plausibelste: Kuchen und Gingen wollten beide die Sieben-Brunnen-Quelle fassen. Der Überlieferung nach unterschrieb der Gingener Schultes am 3. Mai 1887 gerade, als die Kuchener Vertreter eintraten. Damit war das Recht „weggeschnappt“. Richtig war 1. (49 Wörter)",
@@ -49210,10 +49365,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Gingen an der Fils / Gemeinde im Filstal mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm. / Um 1400 war eine Gräfin von Helfenstein Dorfherrin von Gingen und lebte von seinen Abgaben. Aus welchem Herrscherhaus stammte sie? / 1. Aus dem Königshaus von Norwegen. 2. Aus dem Königshaus von Portugal. 3. Aus dem Herrscherhaus von Bosnien. 4. Aus dem Königshaus von Schottland.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Gingen an der Fils",
+"steckbrief": "Gemeinde im Filstal mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.",
+"frage": "Um 1400 war eine Gräfin von Helfenstein Dorfherrin von Gingen und lebte von seinen Abgaben. Aus welchem Herrscherhaus stammte sie?",
+"optionen": [
+"Aus dem Königshaus von Norwegen.",
+"Aus dem Königshaus von Portugal.",
+"Aus dem Herrscherhaus von Bosnien.",
+"Aus dem Königshaus von Schottland."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Schottland liegt nahe, weil Fürstenhöfe Töchter quer durch Europa verheirateten. Doch Maria von Bosnien, die Frau des Grafen Ulrich von Helfenstein, stammte aus dem bosnischen Herrscherhaus, das den ersten König Bosniens stellte. Ihren Lebensunterhalt bestritt sie aus Gingens Abgaben. Richtig war 3. (45 Wörter)",
@@ -50079,9 +50239,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Heute ist der Ödenturm ein Aussichtsturm, darum klingt die Aussage glaubhaft. Gebaut wurde er aber zum Schutz der Burg Helfenstein, später diente er als Wachturm. Schubart unterrichtete tatsächlich in Geislingen, und das Werksgelände der WMF ist ein Kulturdenkmal. Die Lüge war 1.",
+"rueckseite": "Du hattest [Option] getippt. Heute ist der Ödenturm ein Aussichtsturm, darum klingt die Aussage glaubhaft. Gebaut wurde er aber zum Schutz der Burg Helfenstein, später diente er als Wachturm. Schubart unterrichtete tatsächlich in Geislingen, und das historische Warenarchiv der WMF steht unter Denkmalschutz. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, www.geislingen.de/de/gaeste/stadtportrait/fuenftaelerstadt/einzigartig",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "106-geislingen/v0.8/3",
 "tisch": false
 },
@@ -50159,9 +50319,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einer Wegmarke nach Osten, daher liegt der Pilgerweg nahe. Das Kreuz erinnert aber an das Leid der Deutschen aus Böhmen und Mähren bei ihrer Vertreibung. Geislingen hatte die Patenschaft für vertriebene Südmährer übernommen. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einer Wegmarke nach Osten, daher liegt der Pilgerweg nahe. Das Kreuz erinnert aber an das Leid der Deutschen aus Böhmen und Mähren bei ihrer Vertreibung. Geislingen übernahm 1953 die Patenschaft für die vertriebenen Südmährer. Richtig war 4.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Geislingen_an_der_Steige",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "106-geislingen/v0.8/8",
 "tisch": false
 },
@@ -51050,9 +51210,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Figur im Ulmer Museum denkt man leicht an die Bildhauer der Ulmer Schule, deren Altäre bis nach Wien gingen. Ihre Werke zeigt das Museum auch. Der Löwenmensch ist aber ungleich älter: Er stammt etwa aus der Zeit um 37.000 vor Christus. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Eine Figur aus Mensch und Tier erinnert leicht an Fabelwesen aus mittelalterlichen Kirchen. Der Löwenmensch ist aber ungleich älter: Er wurde vor rund 40.000 Jahren aus Mammutelfenbein geschnitzt. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Ulm",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "108-ulm/v0.8/7",
 "tisch": false
 },
@@ -51090,9 +51250,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Siegel denkt man an Metall- oder Edelwaren, deren Echtheit man prüfen muss. Gesiegelt wurde aber Barchent, ein Mischgewebe aus Baumwolle und Leinen. Er war in ganz Europa verbreitet und so begehrt wie Geld. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Bei einem Gütezeichen denkt man an Metall- oder Edelwaren, deren Echtheit man prüfen muss. Geprüft und gezeichnet wurde aber Barchent, ein Mischgewebe aus Baumwolle und Leinen. Er machte Ulm in ganz Europa berühmt. Richtig war 4.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Ulm",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "108-ulm/v0.8/9",
 "tisch": false
 }
@@ -51273,8 +51433,8 @@ window.QA_DATEN = {
 "steckbrief": "Stadt mit rund 63.000 Einwohnern, 2 km südlich von Ulm.",
 "frage": "Der Stadtteil Schwaighofen ging aus Höfen an der Straße nach Reutti hervor. Woher stammt sein Name?",
 "optionen": [
-"Die Höfe wurden nach ihren eigenen Viehweiden benannt.",
-"Ein Bauer der Höfe gab ihnen seinen Familiennamen.",
+"Die Höfe wurden nach ihren Viehweiden benannt.",
+"Er geht auf den Familiennamen eines Bauern zurück.",
 "Er stammt von einem verschwundenen mittelalterlichen Ort.",
 "Bayerische Beamte erfanden ihn bei der Stadtgründung."
 ],
@@ -51282,7 +51442,7 @@ window.QA_DATEN = {
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. „Schwaig“ klingt nach Viehhof, und alte Gehöfte und Kuhweiden prägen den Stadtteil noch – das liegt nahe. Doch die Riedhöfe, die nie selbstständig waren, übernahmen den Namen eines abgegangenen, also verschwundenen Orts, der schon im Mittelalter urkundlich genannt wurde. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "109-neu-ulm/v0.8/8",
 "tisch": false
 },
@@ -53813,9 +53973,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Flugplatz im Ersten Weltkrieg lässt an Einsätze über der Front denken. Klee aber war Schreiber des Kassenwarts. Der Posten ersparte ihm den Fronteinsatz, und er konnte außerhalb der Kaserne malen. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Ein Flugplatz im Ersten Weltkrieg lässt an Einsätze über der Front denken. Klee aber arbeitete als Schreiber in der Kassenverwaltung der Fliegerschule. Er saß also am Schreibtisch statt im Flugzeug und fand daneben Zeit zum Malen. Richtig war 4.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Gersthofen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "297-gersthofen/v0.8/5",
 "tisch": false
 },
@@ -53853,9 +54013,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wenn eine Stadt Geld an alle verteilt, vermutet man eine Pflicht, etwa nach einem Urteil. Gersthofen hatte aber im Vorjahr einen Überschuss im Haushalt und gab einen Teil davon an die Bürger weiter. Das Landratsamt fand das gerade noch akzeptabel. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Wenn eine Stadt Geld an alle verteilt, vermutet man eine Pflicht, etwa nach einem Urteil. Gersthofen hatte aber dank hoher Gewerbesteuer einen Überschuss im Haushalt und gab rund 2 Millionen Mark als „Bürgerdividende“ an die Einwohner weiter. Richtig war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Gersthofen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "297-gersthofen/v0.8/7",
 "tisch": false
 },
@@ -53882,13 +54042,18 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„1854 riss man die alte Pfarrkirche St. Jakobus major bis auf den Turm ab. Im Fundament stieß man auf ältere Steine. Wovon?“ (die Optionen bleiben gleich) – RÜCKSEITE: Du hattest [Option] getippt. Unter einer Kirche vermutet man eher Mittelalterliches, etwa eine Burg. Doch im Fundament steckten Reste eines römischen Merkurheiligtums, darunter ein Weihestein, den ein Mann namens Senno dem Gott Merkur gestiftet hatte. Ob dort ein Tempel stand oder die Steine erst später hergebracht wurden, ist offen. Richtig war 1.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Gersthofen",
+"steckbrief": "Die Stadt mit rund 23.400 Einwohnern liegt 6 km nordwestlich von Augsburg.",
+"frage": "1854 riss man die alte Pfarrkirche St. Jakobus major bis auf den Turm ab. Im Fundament stieß man auf ältere Steine. Wovon?",
+"optionen": [
+"Sie stammten von einem römischen Heiligtum.",
+"Sie stammten von einer mittelalterlichen Wasserburg.",
+"Sie stammten von einem alten Pestfriedhof.",
+"Sie stammten von einer mittelalterlichen Glockengießerei."
+],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Unter einer Kirche vermutet man eher Mittelalterliches, etwa eine Burg. Doch die Kirche steht auf Resten eines römischen Heiligtums. Gestiftet hat es ein romanisierter Kelte namens Senno, gewidmet war es möglicherweise dem Gott Mercurius. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Unter einer Kirche vermutet man eher Mittelalterliches, etwa eine Burg. Doch im Fundament steckten Reste eines römischen Merkurheiligtums, darunter ein Weihestein, den ein Mann namens Senno dem Gott Merkur gestiftet hatte. Ob dort ein Tempel stand oder die Steine erst später hergebracht wurden, ist offen. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Gersthofen",
 "faktencheck": "korrigiert",
 "id": "297-gersthofen/v0.8/9",
@@ -53949,7 +54114,7 @@ window.QA_DATEN = {
 "steckbrief": "Bayerische Großstadt mit rund 300.000 Einwohnern an Lech und Wertach, 56 Kilometer Luftlinie von München.",
 "frage": "Das Gögginger Frühlingsfest gibt es seit 1969 im heutigen Augsburger Stadtteil Göggingen. Wie fing es an?",
 "optionen": [
-"Es war das Eröffnungsfest des Gögginger Kurhauses.",
+"Es ersetzte einen ausgefallenen Augsburger Plärrer.",
 "Es feierte Göggingens Eingemeindung nach Augsburg.",
 "Es war ein Starkbierfest zu einem Ortsjubiläum.",
 "Es begann als Frühjahrsmarkt der Gögginger Bauern."
@@ -53958,7 +54123,7 @@ window.QA_DATEN = {
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Weil Göggingen heute zu Augsburg gehört, liegt ein Fest zur Eingemeindung nahe. Tatsächlich begann es als Starkbierfest zur 1000-Jahr-Feier Göggingens, das damals noch eine eigenständige Gemeinde war. Eröffnet wird es traditionell mit einem Fassanstich. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.augsburg.de/freizeit/feste-und-maerkte/goegginger-fruehlingsfest",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "112-augsburg/v0.8/1",
 "tisch": false
 },
@@ -54240,7 +54405,7 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "Friedberg",
 "steckbrief": "Stadt mit rund 30.000 Einwohnern, 7 km östlich von Augsburg.",
-"frage": "Eine Friedberger Kirche wirkt auf viele Besucher wie ein Fremdkörper. Wie entstand der heutige Bau? (RÜCKSEITE unverändert)",
+"frage": "Die Friedberger Kirche St. Marien wirkt auf viele Besucher wie ein Fremdkörper. Wie entstand die heutige Kirche?",
 "optionen": [
 "Sie wurde nach Bombenschäden modern wiederaufgebaut.",
 "Sie wurde nach italienischen Vorbildern neu gebaut.",
@@ -54251,7 +54416,7 @@ window.QA_DATEN = {
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Ein Bau, der nicht ins Stadtbild passt, lässt an Kriegsschäden denken. Tatsächlich stürzte der Turm der alten gotischen Hallenkirche ein. Der Neubau entstand neuromanisch, also in romanischen Formen, nach italienischen Vorbildern – für viele Besucher ein Fremdkörper. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, www.friedberg.de/politik-verwaltung/stadtportrait/geschichte-friedberg/",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "298-friedberg-bayern/v0.8/5",
 "tisch": false
 },
@@ -55660,13 +55825,13 @@ window.QA_DATEN = {
 "Er erinnert an eine alte Taufquelle.",
 "Er erinnert an das Taufbecken der Vorgängerkirche.",
 "Er erinnert an die brutale Ausrottung der Täufer.",
-"Er erinnert an die Gründung der Pfarrei."
+"Er erinnert an eine frühe Massentaufe im Dorf."
 ],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Der Name lenkt die Gedanken zur Taufe, zumal der Brunnen neben der Kirche steht. Gemeint sind aber die Täufer, eine Glaubensbewegung der Reformationszeit, die nur Erwachsene taufte und dafür verfolgt wurde. An ihre brutale Ausrottung erinnert der Brunnen. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.althegnenberg.de/heimatgeschichte",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "303-althegnenberg/v0.8/8",
 "tisch": false
 },
@@ -56608,15 +56773,15 @@ window.QA_DATEN = {
 "frage": "Als die Bahn München–Augsburg gebaut wurde, gab es Widerstand gegen die ursprünglich geplante Trasse. Von wem?",
 "optionen": [
 "Eine Posthalterfamilie aus Fürstenfeldbruck wehrte sich.",
-"Die Gemeinde Gröbenzell wehrte sich.",
+"Die Flößer auf der Amper wehrten sich.",
 "Die Mönche von Kloster Fürstenfeld wehrten sich.",
 "Die Pfarrei Olching wehrte sich."
 ],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Wer an Widerstand gegen die Bahn denkt, denkt an Grundbesitzer wie ein Kloster. Belegt ist anderes: Die Posthalterfamilie Weiß in Fürstenfeldbruck wehrte sich gegen die ursprüngliche Trassenführung. Kloster Fürstenfeld war in Olching nur bis zur Säkularisierung begütert. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.olching.de/politik-and-service/stadtportrait/stadtgeschichte",
-"faktencheck": "korrigiert",
+"quelle": "Gemeinde-Webseite, www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse",
+"faktencheck": "unsicher",
 "id": "114-olching/v0.8/5",
 "tisch": false
 },
@@ -58229,13 +58394,18 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„Die Burg Hohenhewen auf dem Berg über dem Engener Stadtteil Anselfingen wurde 1639 zerstört. Von wem?“ (Optionen 1–4 bleiben.) RÜCKSEITE: „Du hattest [Option] getippt. Schweden liegen nahe, denn schwedische Heere zogen im Dreißigjährigen Krieg durch Süddeutschland. Doch die Burg Hohenhewen zerstörten kaiserlich-bayerische Truppen, also Soldaten der kaiserlichen Seite. Reste der Burg sind noch vorhanden. Richtig war 1.“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Engen",
+"steckbrief": "Engen hat gut 11.000 Einwohner und liegt 70 km östlich von Freiburg im Breisgau.",
+"frage": "Die Burg Hohenhewen auf dem Berg über dem Engener Stadtteil Anselfingen wurde 1639 zerstört. Von wem?",
+"optionen": [
+"Kaiserlich-bayerische Truppen zerstörten sie.",
+"Schwedische Truppen zerstörten sie.",
+"Französische Truppen zerstörten sie.",
+"Eidgenössische Truppen zerstörten sie."
+],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Schweden liegen nahe, denn schwedische Heere zogen im Dreißigjährigen Krieg durch Süddeutschland. Doch die Burg Anselfingen zerstörten kaiserlich-bayerische Truppen, also Soldaten der kaiserlichen Seite. Reste der Burg sind noch vorhanden. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Schweden liegen nahe, denn schwedische Heere zogen im Dreißigjährigen Krieg durch Süddeutschland. Doch die Burg Hohenhewen zerstörten kaiserlich-bayerische Truppen, also Soldaten der kaiserlichen Seite. Reste der Burg sind noch vorhanden. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.engen.de/leben+in+engen/unsere+stadt/stadtteile",
 "faktencheck": "korrigiert",
 "id": "116-engen/v0.8/7",
@@ -59317,16 +59487,16 @@ window.QA_DATEN = {
 "steckbrief": "Stadt im Bodenseekreis mit rund 22.800 Einwohnern, 81 km südlich von Reutlingen.",
 "frage": "Den Hochaltar im Überlinger Münster schufen Jörg Zürn und seine Verwandten. Wer gab ihn in Auftrag?",
 "optionen": [
-"Der Rat der Stadt gab ihn in Auftrag.",
-"Der Bischof gab ihn in Auftrag.",
-"Ein Kloster gab ihn in Auftrag.",
-"Eine reiche Kaufmannsfamilie gab ihn in Auftrag."
+"Der Rat der Stadt bestellte ihn.",
+"Der Bischof stiftete ihn für seine Kirche.",
+"Ein Kloster ließ ihn für das Münster bauen.",
+"Eine reiche Kaufmannsfamilie stiftete ihn."
 ],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Bei einem Hochaltar denkt man zuerst an Bischof oder Kloster als Bauherrn. Im Münster St. Nikolaus bestellte ihn jedoch der Rat der Stadt. Die Altäre im Kapellenkranz stifteten dagegen Bürger, von der Gotik bis zum Barock. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.ueberlingen.de/stadtpotrait",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "119-ueberlingen/v0.8/8",
 "tisch": false
 },
@@ -59775,9 +59945,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Barbarossa liegt nahe, denn die Staufer waren in Schwaben mächtig. Benannt wurde die Stadt aber nach Friedrich I., dem ersten württembergischen König. Vom alten Buchhorn blieb das Wappen: Friedrichshafen führt das Wappen der Reichsstadt Buchhorn. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Barbarossa liegt nahe, denn die Staufer waren in Schwaben mächtig. Benannt wurde die Stadt aber nach Friedrich I., dem ersten württembergischen König. Vom alten Buchhorn blieb das Wappen: Friedrichshafen führt das Wappen der ehemaligen Reichsstadt Buchhorn. Richtig war 4.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Friedrichshafen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "121-friedrichshafen/v0.8/1",
 "tisch": false
 },
@@ -59814,9 +59984,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Museum in einem Bahnhof klingt erfunden, doch das Zeppelin-Museum nutzt tatsächlich den ehemaligen Hafenbahnhof. Auch die Zahnradfabrik entstand für Zeppelin-Getriebe. Gelogen ist die Burg: Schloss Hofen war ursprünglich das Kloster Hofen und wurde später zur königlichen Sommerresidenz umgebaut. Die Lüge war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein Museum in einem Bahnhof klingt erfunden, doch das Zeppelin-Museum nutzt tatsächlich den ehemaligen Hafenbahnhof. Auch die Zahnradfabrik entstand für Zeppelin-Getriebe. Gelogen ist die späte Jahreszahl: Das ehemalige Kloster Hofen wurde schon in den 1820er-Jahren unter König Wilhelm I. zum Schloss umgebaut. Die Lüge war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Friedrichshafen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "121-friedrichshafen/v0.8/3",
 "tisch": false
 },
@@ -60362,9 +60532,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Kapelle an der Friedhofstraße wirkt wie ein eigenständiger Bau, etwa für Kranke oder Pilger. Doch sie ist der Chor, also der Altarraum, der früheren Pfarrkirche St. Martin. Als die neue Barockkirche geweiht wurde, erhielt sie die heilige Anna als Patronin. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Eine Kapelle an der Friedhofstraße wirkt wie ein eigenständiger Bau, etwa für Kranke oder Pilger. Doch sie ist der Chor, also der Altarraum, der früheren spätgotischen Pfarrkirche St. Martin. Erst als die neue Barockkirche geweiht wurde, erhielt sie die heilige Anna als Patronin. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.langenargen.de/leben-in-langenargen/glaube/kirchen-kapellen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "316-langenargen/v0.8/9",
 "tisch": false
 },
@@ -60890,10 +61060,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Wasserburg (Bodensee) / Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee. / Die Sumserhalle in Wasserburg ist nach Augustin Sumser benannt. Wer ist das? / 1. Er war ein Fischer, der Ertrinkende rettete. / 2. Er schenkte der Gemeinde den Grund am See. / 3. Er war lange Bürgermeister von Wasserburg. / 4. Er ist die Hauptfigur eines Romans.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Wasserburg (Bodensee)",
+"steckbrief": "Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee.",
+"frage": "Die Sumserhalle in Wasserburg ist nach Augustin Sumser benannt. Wer ist das?",
+"optionen": [
+"Er war ein Fischer, der Ertrinkende rettete.",
+"Er schenkte der Gemeinde den Grund am See.",
+"Er war lange Bürgermeister von Wasserburg.",
+"Er ist die Hauptfigur eines Romans."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Hallen tragen oft die Namen verdienter Bürger, daher liegt ein Mensch aus dem Ort nahe. Augustin Sumser hat aber nie gelebt: Er ist die erfundene Hauptfigur in Horst Wolfram Geißlers Roman „Der liebe Augustin“ von 1921. Der Schriftsteller wuchs in Wasserburg auf und wurde Ehrenbürger. Richtig war 4. /",
@@ -60965,10 +61140,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Wasserburg (Bodensee) / Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee. / 2018 wurde vor dem Wasserburger Ufer das Teil eines uralten Holzboots geborgen. Aus welcher Zeit stammt es? / 1. Es stammt aus der Jungsteinzeit. / 2. Es stammt aus der Römerzeit. / 3. Es stammt aus der Bronzezeit. / 4. Es stammt aus dem Mittelalter.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Wasserburg (Bodensee)",
+"steckbrief": "Rund 3.900 Einwohner, 96 km südlich von Ulm am Bodensee.",
+"frage": "2018 wurde vor dem Wasserburger Ufer das Teil eines uralten Holzboots geborgen. Aus welcher Zeit stammt es?",
+"optionen": [
+"Es stammt aus der Jungsteinzeit.",
+"Es stammt aus der Römerzeit.",
+"Es stammt aus der Bronzezeit.",
+"Es stammt aus dem Mittelalter."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Bei Funden im Bodensee denkt man schnell an die Pfahlbauten der Steinzeit. Dieses Boot ist jünger: Nach den Jahresringen seines Holzes stammt es aus der Zeit um 1137 v. Chr., also aus der Bronzezeit. Es gilt als ältestes Schiff des Bodensees. Richtig war 3. /",
@@ -62130,13 +62310,13 @@ window.QA_DATEN = {
 "optionen": [
 "Nach Kriegsende gehörte Aitrach zur amerikanischen Besatzungszone.",
 "Eine Pest ließ Aitrach einst fast aussterben.",
-"Im Ortsgebiet von Aitrach siedelten einst Kelten."
+"Bei Grabungen fand man in Aitrach Keltengräber."
 ],
 "art": "luege",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Die Lüge liegt nahe: Gleich jenseits der Iller beginnt Bayern, und das gehörte zur amerikanischen Zone. Aitrach aber liegt diesseits des Flusses, und Besatzungsmacht war hier Frankreich. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, www.aitrach.de/unsere-gemeinde/geschichtliches/heimatbeilagen",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "323-aitrach/v0.8/3",
 "tisch": false
 },
@@ -62368,10 +62548,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Memmingen / Rund 44.000 Einwohner, 48 km südlich von Ulm. / Jedes Jahr im Sommer feiert Memmingen den Fischertag. Was geschieht dabei im Kern? 1. Fischer fischen den Stadtbach in der Altstadt leer. 2. Fischer fahren in geschmückten Booten die Iller hinab. 3. Die Stadt setzt Jungfische in die Iller aus. 4. Fischer fischen einen Weiher vor der Stadt leer.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Memmingen",
+"steckbrief": "Rund 44.000 Einwohner, 48 km südlich von Ulm.",
+"frage": "Jedes Jahr im Sommer feiert Memmingen den Fischertag. Was geschieht dabei im Kern?",
+"optionen": [
+"Fischer fischen den Stadtbach in der Altstadt leer.",
+"Fischer fahren in geschmückten Booten die Iller hinab.",
+"Die Stadt setzt Jungfische in die Iller aus.",
+"Fischer fischen einen Weiher vor der Stadt leer."
+],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Bei Fischen denkt man an die Iller oder an Weiher vor der Stadt. Doch beim Fischertag fischen zahlreiche Fischer den Stadtbach mitten in der Altstadt leer. Wer die schwerste Forelle fängt, wird Fischerkönig. Richtig war 1.",
@@ -62443,10 +62628,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Memmingen / Rund 44.000 Einwohner, 48 km südlich von Ulm. / Im Dreißigjährigen Krieg hielt sich Wallenstein im Sommer 1630 mit seinem Heer in Memmingen auf. Was geschah in dieser Zeit? 1. Er belagerte die Stadt vergeblich von außen. 2. Er heiratete eine Memminger Kaufmannstochter. 3. Er schloss dort Frieden mit den Schweden. 4. Er wurde als Oberbefehlshaber der Kaiserlichen abgesetzt.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Memmingen",
+"steckbrief": "Rund 44.000 Einwohner, 48 km südlich von Ulm.",
+"frage": "Im Dreißigjährigen Krieg hielt sich Wallenstein im Sommer 1630 mit seinem Heer in Memmingen auf. Was geschah in dieser Zeit?",
+"optionen": [
+"Er belagerte die Stadt vergeblich von außen.",
+"Er heiratete eine Memminger Kaufmannstochter.",
+"Er schloss dort Frieden mit den Schweden.",
+"Er wurde als Oberbefehlshaber der Kaiserlichen abgesetzt."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Ein Feldherr bei einer Stadt klingt nach Belagerung. Doch Wallenstein hielt sich in der Stadt auf, nicht vor ihr. Im September 1630 überbrachten ihm dort kaiserliche Gesandte seine Absetzung als Oberbefehlshaber der Kaiserlichen. Richtig war 4.",
@@ -62679,9 +62869,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die Türken liegen beim heutigen Namen nahe, doch der Ortsname hat mit ihnen nichts zu tun. Die Ortsgeschichte deutet ihn als „Heim des Thüringers\": Die Merowinger siedelten ein thüringisches Familienband an, aus dessen Siedlung sich Türkheim über Jahrhunderte entwickelte. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Die Türken liegen beim heutigen Namen nahe, doch der Ortsname hat mit ihnen nichts zu tun. Die Ortsgeschichte deutet ihn als „Heim des Thüringers“: Die Merowinger siedelten einen thüringischen Familienverband an, aus dessen Siedlung sich Türkheim über Jahrhunderte entwickelte. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.tuerkheim.de/gemeinde/geschichte-tuerkheims/",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "324-tuerkheim/v0.8/1",
 "tisch": false
 },
@@ -62718,9 +62908,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein großer alter Stadel klingt nach Platz für Löschfahrzeuge. Doch der Zehentstadel war Abgabestelle für den Zehent, eine Abgabe, und wurde zum Pfarrheim Pater Rupert Mayer umgebaut. Die Loretokapelle bildet die Santa Casa zu Loreto nach, das dort verehrte Haus Marias. Die Lüge war 1.",
+"rueckseite": "Du hattest [Option] getippt. Ein alter Stadel klingt nach Holz. Doch der Zehentstadel ist ein Massivbau mit steilem Satteldach, einst Abgabestelle für den Zehent, heute Pfarrheim Pater Rupert Mayer. Die Loretokapelle bildet die Santa Casa zu Loreto nach, das dort verehrte Haus Marias. Die Lüge war 1. (47 Wörter)",
 "quelle": "Gemeinde-Webseite, www.tuerkheim.de/gemeinde/kirchen/",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "324-tuerkheim/v0.8/3",
 "tisch": false
 },
@@ -62818,9 +63008,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Brand oder Hochwasser liegt als Anlass für eine Kapelle nahe. Doch Wendelin gilt als Schutzpatron des Viehs: Anlass war eine Viehseuche in Ettringen. Wegen des Spanischen Erbfolgekriegs verzögerte sich der Bau; errichtet hat die Kapelle der Ettringer Hafner und Baumeister Adam Stiller. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Ein Brand oder Hochwasser liegt als Anlass für eine Kapelle nahe. Doch die Berger Bauern planten die Kapelle schon länger, der Spanische Erbfolgekrieg verzögerte den Bau. Als in Ettringen eine Viehseuche grassierte, gelobten sie, ernst zu machen; Wendelin gilt als Schutzpatron des Viehs. Richtig war 2. (50 Wörter)",
 "quelle": "Gemeinde-Webseite, www.tuerkheim.de/gemeinde/kirchen/",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "324-tuerkheim/v0.8/8",
 "tisch": false
 }
@@ -62943,15 +63133,20 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Optionen 1, 3 und 4 bleiben, Option 2 neu: „2. Die Wasserkuren des Ortspfarrers lockten sie.“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Bad Wörishofen",
+"steckbrief": "Die Stadt hat rund 17.000 Einwohner und liegt 46 km südwestlich von Augsburg.",
+"frage": "Im 19. Jahrhundert strömten Kurgäste nach Wörishofen. Was gab den Anstoß dazu?",
+"optionen": [
+"Eine beim Brunnenbau entdeckte Heilquelle lockte sie.",
+"Das Buch eines Pfarrers über Wasserkuren lockte sie.",
+"Ein Solebad über altem Salzvorkommen lockte sie.",
+"Die Höhenluft für Lungenkranke lockte sie."
+],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein „Bad“ verbindet man meist mit einer Heilquelle. Den Anstoß gab aber Pfarrer Sebastian Kneipp mit seinen Wasserkuren: Schon vor 1886 kamen immer mehr Hilfesuchende zu ihm. Sein Buch „Meine Wasserkur“ (1886) machte seine Lehre dann weithin bekannt. Richtig war 2.",
-"quelle": "Neue Deutsche Biographie, deutsche-biographie.de/sfz43187.html",
-"faktencheck": "korrigiert",
+"rueckseite": "Du hattest [Option] getippt. Ein „Bad“ verbindet man meist mit einer Heilquelle. Den Anstoß gab aber Pfarrer Sebastian Kneipp: Sein Buch „Meine Wasserkur“ lockte Kurgäste an, die auf die heilende Kraft des Wassers nach seiner Lehre setzten. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_W%C3%B6rishofen",
+"faktencheck": "unsicher",
 "id": "325-bad-woerishofen/v0.8/5",
 "tisch": false
 },
@@ -63018,10 +63213,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Die katholische Kirche St. Ulrich hat einen freistehenden, spitzen, dreieckigen Glockenturm mit einer dreiseitigen Glockenstube. Was zeigen Turm und Glockenstube von oben gesehen? (Optionen 1 bis 4 bleiben)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Bad Wörishofen",
+"steckbrief": "Die Stadt hat rund 17.000 Einwohner und liegt 46 km südwestlich von Augsburg.",
+"frage": "Die katholische Kirche St. Ulrich hat einen freistehenden, spitzen, dreieckigen Glockenturm mit einer dreiseitigen Glockenstube. Was zeigen Turm und Glockenstube von oben gesehen?",
+"optionen": [
+"Von oben bildet er ein Kreuz.",
+"Von oben bildet er einen fünfzackigen Stern.",
+"Von oben bildet er einen Davidsstern.",
+"Von oben bildet er eine Bischofsmitra."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Bei einer katholischen Kirche liegt ein Kreuz nahe. Der dreieckige Turm von St. Ulrich in der Wörishofener Gartenstadt trägt aber oben eine ebenfalls dreiseitige Glockenstube. Von oben gesehen ergeben beide zusammen einen Davidsstern. Der Turm ist ein Wahrzeichen der Stadt. Richtig war 3.",
@@ -65082,15 +65282,20 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Frage: Das goldene Kreuz im Neufahrner Gemeindewappen hat ein Vorbild. Welches? Option 2: Es verweist auf das Wilgefortis-Kreuz der Pfarrkirche. (Optionen 1, 3, 4 unverändert)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Neufahrn bei Freising",
+"steckbrief": "Gemeinde mit rund 21.000 Einwohnern, 21 km nördlich von München.",
+"frage": "Das gelbe Kreuz im Neufahrner Gemeindewappen hat ein Vorbild. Welches?",
+"optionen": [
+"Es stammt aus einem alten Adelswappen.",
+"Es bildet das Kreuz am Hauptaltar nach.",
+"Es zeigt ein altes Wegkreuz am Ortsrand.",
+"Es erinnert an Kreuzfahrer aus dem Dorf."
+],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Kreuz im Gemeindewappen hält man schnell für ein Adels- oder Wegzeichen. Das goldene Kreuz verweist aber auf das romanische Wilgefortis-Kreuz der alten Pfarrkirche und auf die Wallfahrt zur Heiligen Kümmernis. Das Grün steht für die Lage im Gefilde. Richtig war 2.",
-"quelle": "Haus der Bayerischen Geschichte, hdbg.eu/gemeinden/index.php/detail?rschl=9178145",
-"faktencheck": "korrigiert",
+"rueckseite": "Du hattest [Option] getippt. Ein Kreuz im Gemeindewappen hält man schnell für ein Adels- oder Wegzeichen. Vorbild ist aber das Wilgefortis-Kreuz am Hauptaltar der Pfarr- und Wallfahrtskirche St. Wilgefortis. Es steht für das alte Neufahrn, der grüne Grund für die Heidelandschaft, das Gfild. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Neufahrn_bei_Freising",
+"faktencheck": "unsicher",
 "id": "128-neufahrn/v0.8/10",
 "tisch": false
 }
@@ -66805,10 +67010,11 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Im Ortsteil Retzbach steht die barocke Pfarrkirche St. Laurentius. Nach wessen Plänen entstand sie?",
-"steckbrief": "1. Nach Plänen von Johann Dientzenhofer.",
-"frage": "",
+"ort": "Zellingen",
+"steckbrief": "Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.",
+"frage": "Im Ortsteil Retzbach steht die barocke Pfarrkirche St. Laurentius. Nach wessen Plänen entstand sie?",
 "optionen": [
+"Nach Plänen von Johann Dientzenhofer.",
 "Nach Plänen von Balthasar Neumann.",
 "Nach Plänen von Dominikus Zimmermann.",
 "Nach Plänen von Johann Michael Fischer."
@@ -66864,10 +67070,11 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Zellingen erhielt 1312 von König Heinrich VII. das Schweinfurter Stadtrecht und die Erlaubnis, sich mit Mauern und Gräben zu umgeben. Was wurde aus der Stadtmauer?",
-"steckbrief": "1. Sie wurde 1313 fertiggestellt.",
-"frage": "",
+"ort": "Zellingen",
+"steckbrief": "Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.",
+"frage": "Zellingen erhielt 1312 von König Heinrich VII. das Schweinfurter Stadtrecht und die Erlaubnis, sich mit Mauern und Gräben zu umgeben. Was wurde aus der Stadtmauer?",
 "optionen": [
+"Sie wurde 1313 fertiggestellt.",
 "Sie wurde nie gebaut.",
 "Sie wurde im Dreißigjährigen Krieg geschleift.",
 "Sie umgibt bis heute den Altort."
@@ -66883,10 +67090,11 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Am 21. September 1619 kam Kaiser Ferdinand II. nach Wahl und Krönung auf seiner Reise von Frankfurt nach Wien durch Zellingen. Wo empfing und bewirtete ihn Dompropst Konrad Friedrich von Thüngen?",
-"steckbrief": "1. Im Alten Rathaus von Zellingen.",
-"frage": "",
+"ort": "Zellingen",
+"steckbrief": "Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.",
+"frage": "Am 21. September 1619 kam Kaiser Ferdinand II. nach Wahl und Krönung auf seiner Reise von Frankfurt nach Wien durch Zellingen. Wo empfing und bewirtete ihn Dompropst Konrad Friedrich von Thüngen?",
 "optionen": [
+"Im Alten Rathaus von Zellingen.",
 "Im Pfarrhaus von Zellingen.",
 "Im Zellinger Schloss.",
 "Auf einem Mainschiff."
@@ -67737,9 +67945,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Für ein Walzwerk liegt eine Mühle am Fluss nahe. Friedrich Stein zog aber in die leerstehende kurfürstliche Spiegelmanufaktur, deren Spiegel weit über Deutschland hinaus geschätzt waren. Die Brüder Rexroth erwarben das Werk später; heute gehört das Unternehmen zum Bosch-Konzern. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.lohr.de/tourismus/stadtgeschichte-chronik",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Für eine neue Fabrik liegt ein eigener Neubau nahe. Friedrich Stein zog aber in die leerstehende kurfürstliche Spiegelmanufaktur, deren Spiegel weit über Deutschland hinaus geschätzt waren. Die Brüder Rexroth erwarben das Werk später; heute gehört das Unternehmen zum Bosch-Konzern. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.lohr.de/tourismus/stadtgeschichte-chronik (45 Wörter)",
+"faktencheck": "korrigiert",
 "id": "153-lohr/v0.8/8",
 "tisch": false
 },
@@ -68399,9 +68607,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Alte Dämme lassen an Bahn oder Wege denken. Diese Stauweiher dienten aber der Flößerei, dem Holztransport auf dem Wasser: So kam Brennholz in den Goldbacher Holzhof, beaufsichtigt vom Floßmeister zu Hain. Schon eine alte Floßkarte zeigt sie. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Alte Dämme lassen an Bahn, Krieg oder Gehege denken. Diese Stauweiher dienten aber der Flößerei, dem Holztransport auf dem Wasser: So kam Brennholz in den Goldbacher Holzhof, beaufsichtigt vom Floßmeister zu Hain. Schon eine Floßkarte um 1630 zeigt sie. Richtig war 2. NEGATIVNACHWEIS neu 3: Weg (a). Fakt 036 zeigt die Dämme auf der Floßkarte um 1630, also lange vor dem Zweiten Weltkrieg.",
 "quelle": "Gemeinde-Webseite, www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "156-laufach/v0.8/8",
 "tisch": false
 },
@@ -69415,10 +69623,14 @@ window.QA_DATEN = {
 {
 "familie": "B",
 "sorte": "Geschichte",
-"ort": "Großkrotzenburg / Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main. / Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? / 1. Der Bahnhof liegt an der Strecke Hanau–Aschaffenburg. / 2. Der See am Strandbad war früher ein Mainarm. / 3. Das Museum steht in einem ehemaligen Römerkastell.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Großkrotzenburg",
+"steckbrief": "Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Bahnhof liegt an der Strecke Hanau–Aschaffenburg.",
+"Der See am Strandbad war früher ein Mainarm.",
+"Das Museum steht in einem ehemaligen Römerkastell."
+],
 "art": "luege",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Ein See in einem Ort am Main lässt an einen alten Flussarm denken. Doch der See ist ein Tagebausee: Zu Beginn des 20. Jahrhunderts wurde hier Braunkohle abgebaut. Der Bahnhof liegt wirklich an der Strecke Hanau–Aschaffenburg, und das Museum steht in einem ehemaligen Römerkastell. Die Lüge war 2.",
@@ -69510,10 +69722,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Großkrotzenburg / Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main. / Um 1628 wurden in Großkrotzenburg Menschen in Hexenprozessen verfolgt. Wer war dafür verantwortlich? / 1. Mainz ließ die Prozesse führen. / 2. Württemberg ließ die Prozesse führen. / 3. Sachsen ließ die Prozesse führen. / 4. Die Pfalz ließ die Prozesse führen.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Großkrotzenburg",
+"steckbrief": "Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main.",
+"frage": "Um 1628 wurden in Großkrotzenburg Menschen in Hexenprozessen verfolgt. Wer war dafür verantwortlich?",
+"optionen": [
+"Mainz ließ die Prozesse führen.",
+"Württemberg ließ die Prozesse führen.",
+"Sachsen ließ die Prozesse führen.",
+"Die Pfalz ließ die Prozesse führen."
+],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Hexenprozesse gab es in vielen Ländern, darum wirkt jeder größere Staat plausibel. Großkrotzenburg gehörte aber über 800 Jahre zu Mainz, und die Prozesse liefen im Kurfürstentum Mainz. Inquisitor war hier Reigersberger, der auch in Aschaffenburg Hexengerichte leitete. Richtig war 1.",
@@ -69699,10 +69916,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Klassiker",
-"ort": "Hanau / Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main. / Welches Kfz-Kennzeichen ist das eigene Kennzeichen der Stadt Hanau? / 1. OF 2. HU 3. F 4. AB",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Hanau",
+"steckbrief": "Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.",
+"frage": "Welches Kfz-Kennzeichen ist das eigene Kennzeichen der Stadt Hanau?",
+"optionen": [
+"OF",
+"HU",
+"F",
+"AB"
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. HU ist das Kennzeichen der Stadt Hanau. OF liegt nahe, weil Offenbach am Main gleich nebenan liegt. Doch OF steht für Offenbach. HU verschwand als einziges hessisches Heimatkennzeichen nie ganz, denn Hanauer mussten nie MKK nehmen. Richtig war 2. /",
@@ -69734,10 +69956,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Hanau / Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main. / Der in Hanau geborene Arzt Franciscus Sylvius soll der Überlieferung nach ein Getränk erfunden haben, zunächst als Arznei. Welches? / 1. Er soll den Apfelwein erfunden haben. 2. Er soll den Genever erfunden haben, den Vorläufer des Gin. 3. Er soll den Kaffee erfunden haben. 4. Er soll das Bier erfunden haben.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Hanau",
+"steckbrief": "Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.",
+"frage": "Der in Hanau geborene Arzt Franciscus Sylvius soll der Überlieferung nach ein Getränk erfunden haben, zunächst als Arznei. Welches?",
+"optionen": [
+"Er soll den Apfelwein erfunden haben.",
+"Er soll den Genever erfunden haben, den Vorläufer des Gin.",
+"Er soll den Kaffee erfunden haben.",
+"Er soll das Bier erfunden haben."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Sylvius, Professor der Medizin in Leiden, soll um 1650 den Genever als Arznei gegen Magen- und Nierenleiden gemischt haben. Belegt ist das nicht, Arzneien aus Wacholder gab es schon lange vorher. Apfelwein liegt in Hessen nahe, doch er war wie Bier längst bekannt. Richtig war 2. /",
@@ -69749,10 +69976,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Hanau / Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main. / Im Wappen des Hanauer Stadtteils Kesselstadt stehen zwei silberne Sterne neben einem Bootshaken. Wofür sollen die Sterne nach Angabe der Stadt stehen? / 1. Sie stehen für zwei Schutzheilige des Dorfes. 2. Sie stehen für zwei zusammengelegte Dörfer. 3. Sie stehen für zwei Adelsfamilien des Ortes. 4. Sie stehen für zwei Flüsse am Ort.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Hanau",
+"steckbrief": "Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.",
+"frage": "Im Wappen des Hanauer Stadtteils Kesselstadt stehen zwei silberne Sterne neben einem Bootshaken. Wofür sollen die Sterne nach Angabe der Stadt stehen?",
+"optionen": [
+"Sie stehen für zwei Schutzheilige des Dorfes.",
+"Sie stehen für zwei zusammengelegte Dörfer.",
+"Sie stehen für zwei Adelsfamilien des Ortes.",
+"Sie stehen für zwei Flüsse am Ort."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Nach Angabe der Stadt sollen die Sterne für Main und Kinzig stehen, der Bootshaken für die Bedeutung des Wassers. Wer zwei Sterne sieht, denkt leicht an zwei Heilige oder Familien. Doch Kesselstadt war ein Ort der Fischer und Bootsleute. Richtig war 4. /",
@@ -69897,10 +70129,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Maintal / Maintal hat rund 39.000 Einwohner und liegt 7 km nordöstlich von Offenbach am Main. / Früher trug der heutige Bahnhof Maintal West einen Doppelnamen. Wie lautete er? / 1. Er hieß Bischofsheim-Fechenheim. / 2. Er hieß Hochstadt-Dörnigheim. / 3. Er hieß Bischofsheim-Dörnigheim. / 4. Er hieß Bischofsheim-Rumpenheim.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Maintal",
+"steckbrief": "Maintal hat rund 39.000 Einwohner und liegt 7 km nordöstlich von Offenbach am Main.",
+"frage": "Früher trug der heutige Bahnhof Maintal West einen Doppelnamen. Wie lautete er?",
+"optionen": [
+"Er hieß Bischofsheim-Fechenheim.",
+"Er hieß Hochstadt-Dörnigheim.",
+"Er hieß Bischofsheim-Dörnigheim.",
+"Er hieß Bischofsheim-Rumpenheim."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Naheliegend ist ein Maintaler Stadtteil oder ein Nachbar auf derselben Mainseite. Doch der zweite Namensteil war Rumpenheim, ein Stadtteil von Offenbach am Main auf der anderen Mainseite. Richtig war 4.",
@@ -70466,14 +70703,14 @@ window.QA_DATEN = {
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
 "Helmstadt blieb in der Reformationszeit durchgehend katholisch.",
-"Helmstadter Bauern beteiligten sich im Bauernkrieg am Überfall auf das Kloster Holzkirchen.",
+"Helmstadter Bauern überfielen im Bauernkrieg das Kloster Holzkirchen.",
 "Helmstadt wurde einst dem Kloster Fulda geschenkt."
 ],
 "art": "luege",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Bei einem Dorf so nah am katholischen Würzburg klingt das plausibel. Doch Helmstadt wurde in der Reformation evangelisch und erst unter dem Würzburger Fürstbischof Julius Echter wieder katholisch. Die Bauern plünderten im Bauernkrieg auch das Pfarrhaus. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "166-helmstadt/v0.8/3",
 "tisch": false
 },
@@ -70876,13 +71113,18 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Wertheim / Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg. / Der Spitze Turm an der Mainspitze war ein Wach- und Wartturm. Die Stadt Wertheim nennt zwei Gruppen, die dort zeitweise eingesperrt wurden. Welche? / 1. Gefangene Raubritter und Wegelagerer. / 2. Säumige Steuerzahler und Schuldner. / 3. Trunkenbolde und zänkische Weiber. / 4. Deserteure und Plünderer. — RÜCKSEITE: Du hattest [Option] getippt. Ein wehrhafter Turm lässt an schwere Verbrecher denken. Die Stadt nennt als Gefangene aber Trunkenbolde und zänkische Weiber. Aus dieser Zeit ist im Inneren das sogenannte Angstloch erhalten. Der ursprüngliche Eingang liegt hoch über dem Boden und war nur über eine Leiter erreichbar. Richtig war 3.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Wertheim",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg.",
+"frage": "Der Spitze Turm an der Mainspitze war ein Wach- und Wartturm. Die Stadt Wertheim nennt zwei Gruppen, die dort zeitweise eingesperrt wurden. Welche?",
+"optionen": [
+"Gefangene Raubritter und Wegelagerer.",
+"Säumige Steuerzahler und Schuldner.",
+"Trunkenbolde und zänkische Weiber.",
+"Deserteure und Plünderer."
+],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein wehrhafter Turm lässt an schwere Verbrecher denken. Eingesperrt wurden dort aber Trunkenbolde und zänkische Weiber. Aus dieser Zeit ist das Angstloch erhalten, eine Öffnung, durch die man Gefangene hinabließ. Der ursprüngliche Eingang liegt hoch über dem Boden und war nur über eine Leiter erreichbar. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein wehrhafter Turm lässt an schwere Verbrecher denken. Die Stadt nennt als Gefangene aber Trunkenbolde und zänkische Weiber. Aus dieser Zeit ist im Inneren das sogenannte Angstloch erhalten. Der ursprüngliche Eingang liegt hoch über dem Boden und war nur über eine Leiter erreichbar. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/",
 "faktencheck": "korrigiert",
 "id": "168-wertheim/v0.8/1",
@@ -71021,9 +71263,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Burgruine denkt man an Feinde oder Feuer von außen. Teilzerstört wurde die Burg Wertheim aber durch eine Pulverexplosion. Im Dreißigjährigen Krieg wurde sie zudem beschossen. Heute gehört die Ruine der Stadt und ist ihr Wahrzeichen. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Bei einer Burgruine denkt man an Feinde oder Naturgewalten. Teilzerstört wurde die Burg Wertheim 1619 aber durch eine Pulverexplosion. Im Dreißigjährigen Krieg wurde sie zudem beschossen. Heute gehört die Ruine der Stadt und ist ihr Wahrzeichen. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "168-wertheim/v0.8/8",
 "tisch": false
 },
@@ -71061,9 +71303,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein Wechsel nach Uhrzeit, wie man ihn von geteilten Räumen kennt. In Wertheim teilte man stattdessen den Raum: Der Chor war katholisch, das Langhaus evangelisch. Das endete mit der Vollendung der katholischen Pfarrkirche St. Venantius. Im Chor liegen Grabmäler der Wertheimer Grafen. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Bei geteilten Kirchen denkt man oft an eine Trennung nach Seiten. In Wertheim verlief die Grenze zwischen Chor und Langhaus: Der Chor war katholisch, das Langhaus evangelisch. Das endete mit der Vollendung der katholischen Pfarrkirche St. Venantius. Im Chor liegen Grabmäler der Wertheimer Grafen. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "168-wertheim/v0.8/10",
 "tisch": false
 }
@@ -71466,10 +71708,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Stockstadt am Main / Rund 7.900 Einwohner, 25 km südöstlich von Offenbach am Main. / Stockstadt pflegt Partnerschaften mit drei Orten. Was trifft auf sie zu? (Optionen unverändert)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Stockstadt am Main",
+"steckbrief": "Rund 7.900 Einwohner, 25 km südöstlich von Offenbach am Main.",
+"frage": "Stockstadt am Main Rund 7.900 Einwohner, 25 km südöstlich von Offenbach am Main. Stockstadt pflegt Partnerschaften mit drei Orten. Was trifft auf sie zu?",
+"optionen": [
+"Sie liegen in Frankreich, Italien und Polen.",
+"Sie liegen in Frankreich und sind Nachbarorte.",
+"Sie tragen alle ebenfalls den Namen Stockstadt.",
+"Sie liegen alle in Polen und sind Nachbarorte."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Viele Gemeinden sammeln Partner in mehreren Ländern, das liegt nahe. Stockstadts drei Partnerorte liegen dagegen alle nahe beieinander an der Orne in Frankreich: Saint-André-sur-Orne, Saint-Martin-de-Fontenay und May-sur-Orne. Die beiden letzten bilden seit 2025 die Gemeinde Saint-Martin-de-May. Richtig war 2.",
@@ -72967,18 +73214,18 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "Hünfelden",
 "steckbrief": "Gemeinde mit rund 9.700 Einwohnern, 28 km nördlich von Wiesbaden.",
-"frage": "Im Ortsteil Nauheim wurde 1932 ein Leuchtturm gebaut, weit weg von jeder Küste. Wozu wurde er gebaut? (Rückseite bleibt unverändert.)",
+"frage": "Im Ortsteil Nauheim wurde 1932 ein Leuchtturm gebaut, weit weg von jeder Küste. Wozu diente er?",
 "optionen": [
-"Er sollte Schiffer auf der Lahn vor Untiefen warnen.",
-"Er sollte Nachtflüge zwischen Köln und Frankfurt leiten.",
-"Er sollte als Feuerwache am Nauheimer Kopf dienen.",
-"Er sollte die alte Hühnerstraße für Fuhrleute markieren."
+"Er warnte Schiffer auf der Lahn vor Untiefen.",
+"Er leitete Nachtflüge zwischen Köln und Frankfurt.",
+"Er diente als Feuerwache am Nauheimer Kopf.",
+"Er markierte die alte Hühnerstraße für Fuhrleute."
 ],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Bei einem Leuchtturm denkt man an Schiffe, im Hügelland eher an Wache oder Wegzeichen. Doch Nauheims Turm leuchtete für den Himmel: Er ermöglichte Nachtflüge auf der Strecke Köln–Frankfurt. Solche Feuer gaben Piloten im Dunkeln Orientierung. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, www.huenfelden.de/leben-in-huenfelden/ortsteile/nauheim/",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "177-huenfelden/v0.8/1",
 "tisch": false
 },
@@ -75653,9 +75900,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Für ein Parlament denkt man an einen würdigen Saal, etwa in der Universität. Ausgewichen wurde aber in das Pumpenhaus des historischen Wasserwerks. Das Bundeshaus selbst diente ursprünglich als pädagogische Akademie und ist heute ein Konferenzzentrum. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Für ein Parlament denkt man an einen würdigen Saal, etwa in der Universität. Der Bundestag zog aber in das Pumpenhaus des alten Wasserwerks und tagte dort von 1986 bis 1992. Das Bundeshaus selbst war ursprünglich eine Pädagogische Akademie. Richtig war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Bonn",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "188-bonn/v0.8/1",
 "tisch": false
 },
@@ -75732,9 +75979,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Jedes dieser Werke ist berühmt genug für einen Platz im Weltgedächtnis. Ausgezeichnet ist aber die Neunte Sinfonie: Ein Teil ihrer Originalhandschrift liegt im Beethoven-Haus und gehört zum Weltdokumentenerbe. Geboren wurde Beethoven in der Bonngasse, getauft in der Remigiuskirche. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Jedes dieser Werke ist berühmt genug für einen Platz im Weltgedächtnis. Ausgezeichnet ist aber die Neunte Sinfonie: Ihre Originalhandschrift gehört zum Weltdokumentenerbe, einige Blätter davon liegen im Beethoven-Haus. Geboren wurde Beethoven in der Bonngasse; sein Taufbecken steht heute in der Remigiuskirche. Richtig war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Bonn",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "188-bonn/v0.8/5",
 "tisch": false
 },
@@ -75792,9 +76039,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Deutsche Post liegt nahe, ihr Post Tower steht direkt neben dem Hochhaus. Seit 2002 nutzen aber die Vereinten Nationen den früheren Abgeordnetenbau; er ist heute das Zentrum des UN-Campus Bonn. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Die Deutsche Post liegt nahe, ihr Post Tower steht direkt neben dem Hochhaus. Seit 2006 nutzen aber die Vereinten Nationen den früheren Abgeordnetenbau; er ist heute das Zentrum des UN-Campus Bonn. Richtig war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Bonn",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "188-bonn/v0.8/8",
 "tisch": false
 },
@@ -76301,9 +76548,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein See wirkt wie Natur, deshalb klingt die Eiszeit glaubhaft. Doch der Otto-Maigler-See entstand durch Braunkohleabbau und Rekultivierung. Die Wilhelmshöhe ist tatsächlich eine Abraumhalde, und beide Schumacher-Brüder wurden in Hürth geboren. Die Lüge war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Hürth",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Ein See wirkt wie Natur, deshalb klingt die Eiszeit glaubhaft. Doch der Otto-Maigler-See entstand bei der Rekultivierung nach dem Braunkohleabbau. Die Wilhelmshöhe ist tatsächlich ein künstlicher Hügel, und beide Schumacher-Brüder wurden in Hürth geboren. Die Lüge war 2.",
+"quelle": "KuLaDig (LVR), Stadt Hürth",
+"faktencheck": "korrigiert",
 "id": "191-huerth/v0.8/3",
 "tisch": false
 },
@@ -76341,9 +76588,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei Aposteln denkt man an Kirchen und Heiligenfiguren. Gemeint waren aber die zwölf Schornsteine des Kraftwerks, einige mit RWE-Schriftzug in Leuchtbuchstaben. Später wurden sie gesprengt. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Hürth",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Bei Aposteln denkt man an Kirchen und Heiligenfiguren. Gemeint waren aber die zwölf hohen Schornsteine des Kraftwerks, jahrzehntelang ein Wahrzeichen Hürths. Die letzten vier wurden 2003/04 abgetragen. Richtig war 4.",
+"quelle": "KuLaDig (LVR), kuladig.de",
+"faktencheck": "korrigiert",
 "id": "191-huerth/v0.8/5",
 "tisch": false
 },
@@ -76361,9 +76608,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. SU, EU und DN gehören zu Kreisen rund um Köln, deshalb klingen sie plausibel. In Hürth aber ist BM das Hauptkennzeichen. Richtig war 1.",
-"quelle": "Wikidata P395",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. SU, EU und DN gehören zu Kreisen rund um Köln, deshalb klingen sie plausibel. Hürth gehört aber zum Rhein-Erft-Kreis, und der gibt nur BM aus. Richtig war 1.",
+"quelle": "FZV Anlage 1",
+"faktencheck": "korrigiert",
 "id": "191-huerth/v0.8/6",
 "tisch": false
 },
@@ -76401,9 +76648,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Der fromme Name „Gotteshülfe“ lässt an ein Kloster denken. Angelegt hat die Grube aber der Schöffe und Landwirt Hermann Dümgen. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Hürth",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Der fromme Name „Gotteshülfe“ lässt an die Kirche denken. Das Kölner Domkapitel verpachtete aber nur das Gelände. Angelegt hat die Grube der Gleueler Landwirt Hermann Dümgen. Richtig war 2.",
+"quelle": "Stadt Hürth, huerth.de",
+"faktencheck": "korrigiert",
 "id": "191-huerth/v0.8/8",
 "tisch": false
 },
@@ -76462,13 +76709,18 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„Die Kapelle St. Maria in den Trümmern wurde 1949/50 in der Ruine der Kirche St. Kolumba errichtet. Um was herum wurde sie gebaut?“ (Optionen bleiben gleich). RÜCKSEITE: „Du hattest [Option] getippt. In Köln liegt ein römischer Fund nahe, die Stadt war schließlich eine Römergründung. Hier aber war es eine Marienfigur: Sie hatte die Zerstörung der Kirche 1943 auf einem Pfeilerrest überstanden, und um sie herum wurde die Kapelle errichtet. Richtig war 3.“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Köln",
+"steckbrief": "Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.",
+"frage": "Die Kapelle St. Maria in den Trümmern wurde 1949/50 in der Ruine der Kirche St. Kolumba errichtet. Um was herum wurde sie gebaut? .",
+"optionen": [
+"Sie wurde um einen erhaltenen römischen Grabstein gebaut.",
+"Sie wurde um einen erhaltenen mittelalterlichen Brunnen gebaut.",
+"Sie wurde um eine erhaltene Marienfigur gebaut.",
+"Sie wurde um eine erhaltene Dorflinde gebaut."
+],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. In Köln liegt ein römischer Fund nahe, die Stadt war schließlich eine Römergründung. Hier aber war es eine Marienfigur: Sie war erhalten geblieben, und um sie herum wurde die Kapelle errichtet. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. In Köln liegt ein römischer Fund nahe, die Stadt war schließlich eine Römergründung. Hier aber war es eine Marienfigur: Sie hatte die Zerstörung der Kirche 1943 auf einem Pfeilerrest überstanden, und um sie herum wurde die Kapelle errichtet. Richtig war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Köln",
 "faktencheck": "korrigiert",
 "id": "192-koeln/v0.8/1",
@@ -76507,9 +76759,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Kunstmuseen gibt es in Köln genug, etwa das Wallraf-Richartz-Museum. Doch der Name verrät es: Das Römisch-Germanische Museum zeigt Kunst-, Schmuck- und Alltagsgegenstände aus römischer und merowingischer Epoche. Groß St. Martin geht auf ein Benediktinerkloster zurück, die Mülheimer Brücke ist eine Hängebrücke. Die Lüge war 3.",
+"rueckseite": "Du hattest [Option] getippt. Kunstmuseen gibt es in Köln genug, etwa das Wallraf-Richartz-Museum. Doch der Name verrät es: Das Römisch-Germanische Museum zeigt, derzeit im Belgischen Haus, Kunst-, Schmuck- und Alltagsgegenstände aus römischer und merowingischer Epoche. Groß St. Martin war die Kirche einer Benediktinerabtei, die Mülheimer Brücke ist eine Hängebrücke. Die Lüge war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Köln",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "192-koeln/v0.8/3",
 "tisch": false
 },
@@ -76576,13 +76828,14 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„Im Jahr 50 n. Chr. wurde die Siedlung, aus der Köln hervorging, zur römischen Kolonie erhoben. Auf wessen Betreiben geschah das?",
-"steckbrief": "1. Auf Betreiben von Kaiserin Agrippina.",
-"frage": "",
+"ort": "Köln",
+"steckbrief": "Kreisfreie Großstadt am Rhein mit gut einer Million Einwohnern, 34 km Luftlinie von Düsseldorf.",
+"frage": "Im Jahr 50 n. Chr. wurde die Siedlung, aus der Köln hervorging, zur römischen Kolonie erhoben. Auf wessen Betreiben geschah das?",
 "optionen": [
+"Auf Betreiben von Kaiserin Agrippina.",
 "Auf Betreiben von Kaiser Augustus.",
 "Auf Betreiben von Kaiser Nero.",
-"Auf Betreiben von Kaiser Vespasian.“"
+"Auf Betreiben von Kaiser Vespasian."
 ],
 "art": "richtig",
 "loesung": 1,
@@ -76713,9 +76966,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Endung -kusen klingt nach altem Siedlungsnamen, und an Bäche, Klöster oder Ritter denkt man schnell. Benannt ist die Stadt aber nach Carl Leverkus, Apotheker und Chemieunternehmer. Er verlegte seine Ultramarinfabrik an den Rhein; sie zählt zu den Vorgängern von Bayer. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Bei alten Ortsnamen denkt man schnell an Bäche, Klöster oder Ritter. Die Stadt übernahm 1930 aber einen Namen, den der Apotheker Carl Leverkus seinem Werksgelände am Rhein gegeben hatte. Er benannte es nach dem Stammhof seiner Familie bei Lennep. Später kaufte Bayer seine Fabriken. Richtig war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "193-leverkusen/v0.8/1",
 "tisch": false
 },
@@ -76752,9 +77005,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Fähre klingt glaubwürdig, denn am Rhein fahren vielerorts noch Fähren. Die Wiesdorfer Fähre nach Merkenich wurde aber eingestellt; das alte Wiesdorfer Wappen zeigte sie als goldenen Kahn. Murat, Napoleons Schwager, besaß Schloss Morsbroich tatsächlich, und die Wupper mündet wirklich in Leverkusen. Die Lüge war 1.",
+"rueckseite": "Du hattest [Option] getippt. Die Fähre klingt glaubwürdig, denn am Rhein fahren vielerorts noch Fähren. Die Wiesdorfer Fähre nach Merkenich machte aber 1969 ihre letzte Fahrt. Napoleons Schwager Murat erhob Schloss Morsbroich tatsächlich zum Mittelpunkt einer Grafschaft, und die Wupper mündet wirklich in Leverkusen. Die Lüge war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "193-leverkusen/v0.8/3",
 "tisch": false
 },
@@ -76841,15 +77094,20 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„Bracknell in England ist Partnerstadt Leverkusens. Wie kam Leverkusen zu dieser Partnerschaft?“ Option 2: „Bergisch Neukirchen brachte sie beim Zusammenschluss 1975 mit.“ Option 3: „Opladen brachte sie beim Zusammenschluss 1975 mit.“ – RÜCKSEITE: „Du hattest [Option] getippt. Naheliegend wäre, dass Leverkusen den Kontakt selbst geknüpft hat. Geschlossen hatte die Partnerschaft aber 1973 die Stadt Opladen. Als sich Opladen 1975 mit Leverkusen zusammenschloss, führte Leverkusen sie weiter. Richtig war 3.“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Leverkusen",
+"steckbrief": "Leverkusen hat rund 168.000 Einwohner und liegt am Rhein, 25 Kilometer Luftlinie von Düsseldorf.",
+"frage": "Bracknell Forest in Großbritannien ist Partnerstadt Leverkusens. Wie kam Leverkusen zu dieser Partnerschaft?",
+"optionen": [
+"Leverkusen schloss sie als allererste Städtepartnerschaft.",
+"Bergisch Neukirchen brachte sie bei der Eingemeindung mit.",
+"Opladen brachte sie bei der Eingemeindung mit.",
+"Sie entstand aus Kontakten nach der Wiedervereinigung."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass Leverkusen den Kontakt selbst geknüpft hat. Geschlossen hatte die Partnerschaft aber Opladen. Als Opladen Teil Leverkusens wurde, übernahm Leverkusen sie. Hauptziel war, die europäische Einheit zu stärken. Richtig war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "193-leverkusen/v0.8/8",
 "tisch": false
 },
@@ -76867,9 +77125,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Park am Fluss denkt man an alte Wiesen oder einstige Industrieflächen. Der Neuland-Park entstand aber auf einer ehemaligen Giftmülldeponie. Sie wurde mit speziellen Planen und Abdichtungen saniert, bevor die Landesgartenschau kam. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Bei einem Park am Fluss denkt man an alte Wiesen oder einstige Industrieflächen. Der Neuland-Park entstand aber auf einer ehemaligen Deponie für Bauschutt, Hausmüll und Chemieabfälle von Bayer. Sie wurde abgedichtet und saniert, bevor 2005 die Landesgartenschau kam. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Leverkusen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "193-leverkusen/v0.8/9",
 "tisch": false
 }
@@ -77247,18 +77505,18 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "Düsseldorf",
 "steckbrief": "Düsseldorf hat rund 620.000 Einwohner und ist Landeshauptstadt Nordrhein-Westfalens am Rhein.",
-"frage": "Kurfürst Carl Theodor gab 1755 Schloss Benrath in Auftrag. Wofür war es gedacht? (Rückseite unverändert. Negativnachweis 3 neu: Weg (a). Laut LVR war Benrath als „Jagd- und Lustschloss“ im Bautyp der Maison de plaisance geplant, also nicht als Wehrbau.)",
+"frage": "Kurfürst Carl Theodor gab 1755 Schloss Benrath in Auftrag. Wofür war es gedacht?",
 "optionen": [
 "Er wollte von dort dauerhaft regieren.",
 "Es sollte eine Akademie für Gartenkunst werden.",
-"Es sollte als Festung den Rhein sichern.",
+"Es sollte Gesandte fremder Höfe beherbergen.",
 "Es sollte sein Sommersitz werden."
 ],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Ein Kurfürstenschloss hält man leicht für einen Regierungssitz. Benrath war aber ein kurfürstlicher Sommersitz. Nicolas de Pigage schuf Schloss und Park als Gesamtkunstwerk. Der Küchengarten versorgte den Hofstaat bei seinen Aufenthalten; war der Hof fort, gingen die Erträge an den Gutshof. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.duesseldorf.de/stadtgruen/park/schlosspark-benrath",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "195-duesseldorf/v0.8/5",
 "tisch": false
 },
@@ -77391,18 +77649,18 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "Ratingen",
 "steckbrief": "Stadt mit rund 89.000 Einwohnern, 10 km nordöstlich von Düsseldorf.",
-"frage": "Ratingens Baumwollspinnerei, gebaut Ende des 18. Jahrhunderts, erhielt den englischen Namen Cromford. Warum? (Die Rückseite bleibt unverändert. Sie nennt „Elberfelder Kaufmann“ und widerlegt damit auch die neue Option 4.)",
+"frage": "Ratingens Baumwollspinnerei, gebaut Ende des 18. Jahrhunderts, erhielt den englischen Namen Cromford. Warum?",
 "optionen": [
 "Ihr Gründer war ein Engländer.",
 "Der Name ehrte einen englischen Geldgeber.",
 "Sie wurde nach einem englischen Vorbild benannt.",
-"Sie hieß nach dem Geburtsort ihres Gründers."
+"Ein alter Flurname \"Krumme Furt\" wurde anglisiert."
 ],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem englischen Gründer. Gebaut hat die Spinnerei aber der Elberfelder Kaufmann Johann Gottfried Brügelmann. Benannt wurde sie nach dem englischen Vorbild Cromford. Sie war die erste mechanische Baumwollspinnerei auf dem europäischen Kontinent. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.stadt-ratingen.de/stadtgeschichte/geschichte-der-stadt-ratingen/chronik-der-stadt-ratingen",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "196-ratingen/v0.8/1",
 "tisch": false
 },
@@ -77535,13 +77793,13 @@ window.QA_DATEN = {
 "Schwedische Truppen zerstörten die Stadt.",
 "Kaiserliche Truppen zerstörten die Stadt.",
 "Französische Truppen zerstörten die Stadt.",
-"Englische Truppen zerstörten die Stadt."
+"Spanische Truppen zerstörten die Stadt."
 ],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Bei Zerstörungen im Dreißigjährigen Krieg denkt man zuerst an die Schweden. Ratingen aber zerstörten kaiserliche Truppen, also Soldaten im Dienst des Kaisers. Danach lebten nur noch wenige Menschen in der Stadt. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, www.stadt-ratingen.de/stadtgeschichte/geschichte-der-stadt-ratingen/chronik-der-stadt-ratingen",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "196-ratingen/v0.8/8",
 "tisch": false
 },
@@ -77987,14 +78245,14 @@ window.QA_DATEN = {
 "optionen": [
 "Er sollte die Gegend für Köln bewachen.",
 "Er hatte seine Burg bei Hattingen verkauft.",
-"Er hatte das Land vom Kölner Erzbischof als Lehen erhalten.",
+"Er baute sie als Witwensitz für seine Mutter.",
 "Er wollte damit sein Erbe zurückfordern."
 ],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Eine Burg über dem Wasser lässt an eine Wache für einen Landesherrn denken. Die Stadt Essen nennt einen anderen Anlass: Die Hattinger Isenburg war nach einem Überfall, bei dem Erzbischof Engelbert von Köln starb, zerstört worden. Mit der neuen Burg wollte Dietrich von Isenberg sein Erbe zurückfordern. Köln eroberte sie später. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.essen.de/dasistessen/leben_im_gruenen_/isenburg_/die_isenburg.de.html",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "199-essen/v0.8/1",
 "tisch": false
 },
@@ -78190,14 +78448,19 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Gelsenkirchen / Gelsenkirchen ist eine Großstadt im zentralen Ruhrgebiet mit rund 266.000 Einwohnern. / 1928 wurde Buer mit Gelsenkirchen und Horst zu einer Stadt vereinigt. Was war Buer unmittelbar vor diesem Zusammenschluss? / 1. Buer war ein Stadtteil von Recklinghausen. 2. Buer war eine Landgemeinde ohne Stadtrecht. 3. Buer war selbst eine kreisfreie Stadt. 4. Buer war eine Bergarbeitersiedlung ohne eigene Gemeinde. — RÜCKSEITE: Du hattest [Option] getippt. Heute ist Buer ein Stadtteil, deshalb liegt ein Dorf oder Vorort nahe. Doch Buer hatte Stadtrecht und war kreisfrei, bevor es 1928 mit Gelsenkirchen zusammenging. Erstmals urkundlich erwähnt wurde es 1003 als Puira. Richtig war 3. / Quelle: Stadtarchiv Gelsenkirchen, gelsenkirchen.de (Findbuch Buer)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Gelsenkirchen",
+"steckbrief": "Gelsenkirchen ist eine Großstadt im zentralen Ruhrgebiet mit rund 266.000 Einwohnern.",
+"frage": "1928 wurde Buer mit Gelsenkirchen und Horst zu einer Stadt vereinigt. Was war Buer unmittelbar vor diesem Zusammenschluss?",
+"optionen": [
+"Buer war ein Stadtteil von Recklinghausen.",
+"Buer war eine Landgemeinde ohne Stadtrecht.",
+"Buer war selbst eine kreisfreie Stadt.",
+"Buer war eine Bergarbeitersiedlung ohne eigene Gemeinde."
+],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Heute ist Buer ein Stadtteil, deshalb liegt ein Dorf oder Vorort nahe. Doch Buer hatte Stadtrecht und war kreisfrei, bevor es 1928 mit Gelsenkirchen zusammenging. Erstmals urkundlich erwähnt wurde es als Puira. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Gelsenkirchen",
+"rueckseite": "Du hattest [Option] getippt. Heute ist Buer ein Stadtteil, deshalb liegt ein Dorf oder Vorort nahe. Doch Buer hatte Stadtrecht und war kreisfrei, bevor es 1928 mit Gelsenkirchen zusammenging. Erstmals urkundlich erwähnt wurde es 1003 als Puira. Richtig war 3.",
+"quelle": "Stadtarchiv Gelsenkirchen, gelsenkirchen.de (Findbuch Buer)",
 "faktencheck": "korrigiert",
 "id": "200-gelsenkirchen/v0.8/1",
 "tisch": false
@@ -78777,9 +79040,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Zahnrad im Ruhrgebiet lässt an Zechen oder Eisenbahn denken. Doch das Kammrad, ein Zahnrad aus dem Mühlenwerk, stand schon auf dem Stadtsiegel von 1284. Es soll sich auf früh nachgewiesene Mühlen an der Seseke beziehen. Der Schachbalken im Wappen erinnert an die frühere Zugehörigkeit zur Grafschaft Mark. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Ein Zahnrad im Ruhrgebiet lässt an Zechen oder Eisenbahn denken. Doch ein Rad zeigte wohl schon das älteste erhaltene Stadtsiegel von 1284. Das Kammrad, ein Zahnrad aus dem Mühlenwerk, soll sich auf früh nachgewiesene Mühlen an der Seseke beziehen. Der Schachbalken im Wappen steht für die Grafschaft Mark. Richtig war 4.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Kamen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "203-kamen/v0.8/1",
 "tisch": false
 },
@@ -78896,9 +79159,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet läge ein Denkmal des Bergbaus nahe, etwa ein Förderturm. Doch im Nordwesten des Kreuzes steht ein ehemaliger ADAC-Hubschrauber auf künstlerisch gestalteten Stahlplatten. Das Kreuz war früher ein reines Kleeblatt und wurde für mehr Verkehrsdurchsatz umgebaut. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet läge ein Denkmal des Bergbaus nahe, etwa ein Förderturm. Doch am Kamener Kreuz steht seit rund 15 Jahren ein ausgemusterter Hubschrauber, umgeben von acht Engeln aus Stahl. Er erinnert an die ‚Gelben Engel‘, die Pannenhelfer auf der Autobahn. Richtig war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Kamen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "203-kamen/v0.8/8",
 "tisch": false
 },
@@ -79796,13 +80059,13 @@ window.QA_DATEN = {
 "optionen": [
 "Am Kriegsende wurde die Stadt im Straßenkampf erobert.",
 "Die Martin-Luther-Kirche hieß früher einmal Neue Kirche.",
-"Reinhard Mohn wurde Ehrenbürger der Stadt."
+"Reinhard Mohn von Bertelsmann wurde Ehrenbürger der Stadt."
 ],
 "art": "luege",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Zu Kämpfen hätte es kommen können: Hitler hatte Verteidigung bis zur letzten Patrone befohlen. Bürgermeister Josef Bauer hielt die offene, flache Stadt aber für unverteidigbar und wollte ihre Zerstörung verhindern. Am Ostermontag wurde Gütersloh kampflos übergeben. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, www.guetersloh.de/de/leben-in-guetersloh/stadtportrait/kriegsende-in-guetersloh.php",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "208-guetersloh/v0.8/3",
 "tisch": false
 },
@@ -81306,9 +81569,9 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "Bückeburg",
 "steckbrief": "Stadt mit rund 19.000 Einwohnern, 43 km nordöstlich von Bielefeld.",
-"frage": "Eine Bückeburger Führung zum Jagdschloss Baum im Schaumburger Wald besucht auch eine Pyramide. Was ist sie?",
+"frage": "Im Schaumburger Wald, wo auch das Jagdschloss Baum liegt, steht eine Pyramide. Was ist sie?",
 "optionen": [
-"Sie ist ein Grabmal der gräflichen Familie.",
+"Sie ist die Grabstätte der gräflichen Familie.",
 "Sie ist der alte Eiskeller des Jagdschlosses.",
 "Sie ist ein alter Grenzstein der Grafschaft.",
 "Sie ist ein alter Punkt der Landvermessung."
@@ -81317,7 +81580,7 @@ window.QA_DATEN = {
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Bei einem Jagdschloss im Wald liegt ein Eiskeller nahe, solche Bauten gehörten oft dazu. Die Pyramide ist aber die Grabpyramide der gräflichen Familie. Das Jagdschloss geht auf Graf Wilhelm zu Schaumburg-Lippe und Gräfin Marie Barbara Eleonore zurück. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.bueckeburg.de/de/Tourismus-Kultur/Staunen-und-Erleben/Historisches-Weserbergland",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "215-bueckeburg/v0.8/8",
 "tisch": false
 }
@@ -81567,10 +81830,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Haste / Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover. / Der heutige Eisenbahnchor Haste wurde 1905 als Männergesangverein gegründet. Welchen Beruf hatte sein Gründer? / 1. Der Gründer war ein Bahnhofsvorsteher. 2. Der Gründer war ein Gastwirt. 3. Der Gründer war ein Lokführer. 4. Der Gründer war ein Dorfschullehrer.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Haste",
+"steckbrief": "Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover.",
+"frage": "Der heutige Eisenbahnchor Haste wurde 1905 als Männergesangverein gegründet. Welchen Beruf hatte sein Gründer?",
+"optionen": [
+"Der Gründer war ein Bahnhofsvorsteher.",
+"Der Gründer war ein Gastwirt.",
+"Der Gründer war ein Lokführer.",
+"Der Gründer war ein Dorfschullehrer."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Der Name lockt auf die Schiene, doch „Eisenbahn“ trägt der Chor erst seit 1953. Gegründet hat ihn 1905 der Gastwirt Heinrich Mensing als Männergesangverein, und er führte ihn anfangs auch als Vorsitzender. Richtig war 2. /",
@@ -81621,10 +81889,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Klassiker",
-"ort": "Haste / Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover. / Bundestagswahl 2025, Zweitstimmen in der Samtgemeinde Nenndorf, zu der Haste gehört: Welche Partei wurde dort zweitstärkste Kraft? / 1. SPD 2. CDU 3. AfD 4. Grüne",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Haste",
+"steckbrief": "Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der Samtgemeinde Nenndorf, zu der Haste gehört: Welche Partei wurde dort zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"CDU",
+"AfD",
+"Grüne"
+],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn bundesweit wurde sie zweitstärkste Kraft. In der Samtgemeinde Nenndorf kam sie nur auf Platz drei. Vorn lag die CDU, dahinter die SPD. Richtig war 1. /",
@@ -82222,10 +82495,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Hannover / Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner. / Hannover feiert jedes Jahr ein großes Schützenfest. Seit wann hat die Stadt das Privileg dazu? / 1. Seit dem 16. Jahrhundert. / 2. Seit dem 17. Jahrhundert. / 3. Seit dem 18. Jahrhundert. / 4. Seit dem 19. Jahrhundert.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Hannover",
+"steckbrief": "Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.",
+"frage": "Hannover feiert jedes Jahr ein großes Schützenfest. Seit wann hat die Stadt das Privileg dazu?",
+"optionen": [
+"Seit dem 16. Jahrhundert.",
+"Seit dem 17. Jahrhundert.",
+"Seit dem 18. Jahrhundert.",
+"Seit dem 19. Jahrhundert."
+],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Schützenfeste wirken wie ein Kind des bürgerlichen Vereinslebens, darum liegt eine späte Entstehung nahe. Doch schon 1529 gab Herzog Erich I. den Hannoveranern das Privileg für ein jährliches Schützenfest. Heute gilt es als größtes Schützenfest der Welt. Richtig war 1.",
@@ -82277,10 +82555,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Hannover / Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner. / In Hannover-Mittelfeld steht eine große buddhistische Pagode. Welcher buddhistischen Tradition gehört sie an? / 1. Sie gehört dem japanischen Zen-Buddhismus an. / 2. Sie gehört dem tibetischen Buddhismus an. / 3. Sie gehört dem vietnamesischen Buddhismus an. / 4. Sie gehört dem thailändischen Buddhismus an.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Hannover",
+"steckbrief": "Landeshauptstadt Niedersachsens an der Leine, rund 523.000 Einwohner.",
+"frage": "In Hannover-Mittelfeld steht eine große buddhistische Pagode. Welcher buddhistischen Tradition gehört sie an?",
+"optionen": [
+"Sie gehört dem japanischen Zen-Buddhismus an.",
+"Sie gehört dem tibetischen Buddhismus an.",
+"Sie gehört dem vietnamesischen Buddhismus an.",
+"Sie gehört dem thailändischen Buddhismus an."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Bei einer Pagode denken viele zuerst an Japan oder Tibet. Die Pagode Viên Giác an der Karlsruher Straße in Mittelfeld ist jedoch vietnamesisch-buddhistisch. Richtig war 3.",
@@ -83028,10 +83311,14 @@ window.QA_DATEN = {
 {
 "familie": "B",
 "sorte": "Geschichte",
-"ort": "Oebisfelde-Weferlingen / Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg. / Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? / 1. Der Mittellandkanal führt durch das Stadtgebiet. / 2. Der Ortsteil Döhren liegt direkt an der Landesgrenze zu Niedersachsen. / 3. Der Bahnhof Oebisfelde lag zu DDR-Zeiten still.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Oebisfelde-Weferlingen",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Mittellandkanal führt durch das Stadtgebiet.",
+"Der Ortsteil Döhren liegt direkt an der Landesgrenze zu Niedersachsen.",
+"Der Bahnhof Oebisfelde lag zu DDR-Zeiten still."
+],
 "art": "luege",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Ein Bahnhof an der innerdeutschen Grenze wirkt wie ein toter Winkel. Doch Oebisfelde war Grenzbahnhof und bedeutender Eisenbahnknoten. Der Mittellandkanal führt wirklich durchs Stadtgebiet, und Döhren liegt direkt an der Grenze zu Niedersachsen. Die Lüge war 3.",
@@ -83162,13 +83449,18 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Um 1160 gründete Albrecht der Bär in Stendal einen Markt. Nach welchem Recht sollten die Stendaler laut seiner Urkunde leben? 1. Nach Lübecker Recht. 2. Nach Magdeburger Recht. 3. Nach Soester Recht. 4. Nach Freiburger Recht. RÜCKSEITE: Du hattest [Option] getippt. Lübecker Recht liegt nahe, weil es im Norden weit verbreitet war. Doch Albrecht der Bär erlaubte den Stendalern, nach demselben Recht zu leben wie die Bürger Magdeburgs. Ob die Urkunde echt ist, ist allerdings umstritten. Richtig war 2.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Stendal",
+"steckbrief": "Rund 38.000 Einwohner, 54 km nördlich von Magdeburg.",
+"frage": "Um 1160 gründete Albrecht der Bär in Stendal einen Markt. Nach welchem Recht sollten die Stendaler laut seiner Urkunde leben? 1. Nach Lübecker Recht. 2. Nach Magdeburger Recht. 3. Nach Soester Recht. 4. Nach Freiburger Recht.",
+"optionen": [
+"Er verlieh Stendal das Lübecker Stadtrecht.",
+"Er verlieh Stendal das Magdeburger Stadtrecht.",
+"Er verlieh Stendal das Soester Stadtrecht.",
+"Er verlieh Stendal das Freiburger Stadtrecht."
+],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Lübecker Recht liegt nahe, weil es im Norden weit verbreitet war. Doch Albrecht der Bär, Markgraf von Brandenburg, gründete den Markt und verlieh Stendal das Magdeburger Stadtrecht. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Lübecker Recht liegt nahe, weil es im Norden weit verbreitet war. Doch Albrecht der Bär erlaubte den Stendalern, nach demselben Recht zu leben wie die Bürger Magdeburgs. Ob die Urkunde echt ist, ist allerdings umstritten. Richtig war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Stendal",
 "faktencheck": "korrigiert",
 "id": "225-stendal/v0.8/5",
@@ -83197,13 +83489,18 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Der Boxer Max Schmeling wurde 1940 in Stendal militärisch ausgebildet. Wozu? (Optionen unverändert, ohne „dort“ → „Er wurde zum … ausgebildet.“) RÜCKSEITE: Du hattest [Option] getippt. Bei Stendal denkt man an den Flugplatz und an Piloten. Doch Schmeling wurde 1940 zur Wehrmacht eingezogen und zum Fallschirmjäger ausgebildet; 1941 sprang er über Kreta ab. Richtig war 4.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Stendal",
+"steckbrief": "Rund 38.000 Einwohner, 54 km nördlich von Magdeburg.",
+"frage": "Der Boxer Max Schmeling wurde 1940 in Stendal militärisch ausgebildet. Wozu?",
+"optionen": [
+"Er wurde dort zum Piloten ausgebildet.",
+"Er wurde dort zum Flugzeugmechaniker ausgebildet.",
+"Er wurde dort zum Funker ausgebildet.",
+"Er wurde dort zum Fallschirmjäger ausgebildet."
+],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Auf einem Flugplatz denkt man zuerst an Piloten. Doch in Borstel bestand eine Fallschirmschule, die Fallschirmjäger ausbildete, und Max Schmeling gehörte zu ihren Absolventen. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Bei Stendal denkt man an den Flugplatz und an Piloten. Doch Schmeling wurde 1940 zur Wehrmacht eingezogen und zum Fallschirmjäger ausgebildet; 1941 sprang er über Kreta ab. Richtig war 4.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Stendal",
 "faktencheck": "korrigiert",
 "id": "225-stendal/v0.8/7",
@@ -83413,10 +83710,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Rathenow / Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam. / Die St. Marien-Andreas-Kirche wurde als romanische Basilika errichtet. Welche Kirche gilt als ihr Vorbild? / 1. Vorbild war der Dom in Havelberg. / 2. Vorbild war der Dom in Magdeburg. / 3. Vorbild war der Dom in Brandenburg. / 4. Vorbild war die Klosterkirche in Jerichow.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Rathenow",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 54 km nordwestlich von Potsdam.",
+"frage": "Die St. Marien-Andreas-Kirche wurde als romanische Basilika errichtet. Welche Kirche gilt als ihr Vorbild?",
+"optionen": [
+"Vorbild war der Dom in Havelberg.",
+"Vorbild war der Dom in Magdeburg.",
+"Vorbild war der Dom in Brandenburg.",
+"Vorbild war die Klosterkirche in Jerichow."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Ein großer Dom läge als Vorbild nahe. Doch als Vorbild der kreuzförmigen Pfeilerbasilika gilt die Jerichower Klosterkirche. Ihre Ursprünge sollen auf eine Holzkirche zurückgehen. Richtig war 4. (31 Wörter)",
@@ -83631,18 +83933,18 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "Berlin",
 "steckbrief": "Rund 3,7 Millionen Einwohner, Stadtstaat an Spree und Havel.",
-"frage": "Am Potsdamer Platz steht ein Ensemble aus Hochhäusern und futuristischen Neubauten. Wann entstand dieses Ensemble?",
+"frage": "Am Potsdamer Platz steht ein Ensemble aus Hochhäusern und futuristischen Neubauten. Wann wurde der Platz so neu bebaut?",
 "optionen": [
-"Es entstand nach der Wiedervereinigung.",
-"Es entstand in den Goldenen Zwanzigern.",
-"Es entstand beim Wiederaufbau nach dem Krieg.",
-"Es entstand als Prestigeprojekt der DDR."
+"Er wurde nach der Wiedervereinigung bebaut.",
+"Er wurde in den Goldenen Zwanzigern bebaut.",
+"Er wurde beim Wiederaufbau nach dem Krieg bebaut.",
+"Er wurde als Prestigeprojekt der DDR bebaut."
 ],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Hochhäuser und kühne Bauten passen zum Glanz der Zwanzigerjahre oder zum Wiederaufbau nach dem Krieg, deshalb liegt eine frühere Zeit nahe. Doch das heutige Ensemble aus Hochhäusern und futuristischen Neubauten entstand bei der Neubebauung nach der Wiedervereinigung. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.berlin.de/sehenswuerdigkeiten/",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "227-berlin/v0.8/8",
 "tisch": false
 }
@@ -83938,13 +84240,13 @@ window.QA_DATEN = {
 "optionen": [
 "Die Orangerien sind Schloss Schönbrunn in Wien nachgebildet.",
 "Heinrich von Gagern ging in Weilburg zur Schule.",
-"Konrad I. gründete das Walpurgisstift zum Gedächtnis an seinen Vater."
+"Konrad I. gründete das Walpurgisstift für seinen Vater."
 ],
 "art": "luege",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Schönbrunn klingt nach höfischer Pracht und passt zum Schloss. Doch Graf Johann Ernst ließ die Orangerien als fast originalgetreue Nachbildung des Grand Trianon in Versailles bauen. Gagern war Schüler des Gymnasiums Philippinum, und Konrad I. gründete das Walpurgisstift zum Gedächtnis an seinen Vater. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "229-weilburg/v0.8/3",
 "tisch": false
 },
@@ -84216,10 +84518,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„Löhnberg / Gemeinde mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen. / Bei Sanierungsarbeiten am Schloss Laneburg kamen Silbermünzen aus einer Außenmauer zum Vorschein. In welche Lage stellt die Gemeinde das Versteck? / 1. Man fürchtete einen Einfall französischer Truppen. / 2. Ein Fremder auf der Durchreise versteckte dort seine Beute. / 3. Sie wurden als Glücksbringer eingemauert. / 4. Man schützte das Geld vor Plünderern im Dreißigjährigen Krieg.“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Löhnberg",
+"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen.",
+"frage": "Bei Sanierungsarbeiten am Schloss Laneburg kamen Silbermünzen aus einer Außenmauer zum Vorschein. In welche Lage stellt die Gemeinde das Versteck?",
+"optionen": [
+"Man fürchtete einen Einfall französischer Truppen.",
+"Ein Fremder auf der Durchreise versteckte dort seine Beute.",
+"Sie wurden als Glücksbringer eingemauert.",
+"Man schützte das Geld vor Plünderern im Dreißigjährigen Krieg."
+],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Münzen in einer Mauer lassen an Beute, einen Glücksbringer oder den Dreißigjährigen Krieg denken. Doch die jüngste Münze stammt von 1687, und ein Fremder wäre am Versteck sofort aufgefallen. Vermutlich gehörte das Silber Johann Philipp Diehler oder jemandem aus seinem Umfeld. Damals war die Lage an der Lahn unruhig, und man fürchtete einen Einfall der Franzosen. Richtig war 1.",
@@ -84720,9 +85027,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ans Schlachten denkt man schnell, denn „Säu“ sind Schweine. Gemeint war aber Friedlicheres: Durch die Turmpforte trieben Bauern ihre Säue auf die Weide vor der Stadtmauer. Seinen ersten Namen verdankt der Turm der Schneiderzunft, die für ihn und dieses Mauerstück zuständig war. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Wetzlar",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Ans Schlachten denkt man schnell, denn „Säu“ sind Schweine. Gemeint war aber Friedlicheres: 1745 entstand neben dem Turm eine Pforte, durch die man die Schweine auf die Felder vor der Stadtmauer trieb. Seinen älteren Namen verdankt der Turm der Schneiderzunft, die dieses Mauerstück instand hielt und bewachte. Richtig war 2.",
+"quelle": "Stadt Wetzlar, wetzlar.de/microsite/en/Discovering/sow-tower.php",
+"faktencheck": "korrigiert",
 "id": "233-wetzlar/v0.8/1",
 "tisch": false
 },
@@ -84819,9 +85126,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. GI liegt nahe, denn Gießen liegt ebenfalls an der Lahn in Mittelhessen. Wetzlar ist aber selbst Kreisstadt, und zwar des Lahn-Dill-Kreises. Dessen Hauptkennzeichen ist WZ. Richtig war 3.",
-"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. GI liegt nahe, denn Gießen liegt ebenfalls an der Lahn in Mittelhessen. Der Lahn-Dill-Kreis vergibt aber LDK und DIL, und seit 2012 für Wetzlar wieder das alte WZ. Richtig war 3.",
+"quelle": "Auto Bild, autobild.de",
+"faktencheck": "korrigiert",
 "id": "233-wetzlar/v0.8/6",
 "tisch": false
 },
@@ -84899,9 +85206,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Recht oder Optik liegen nahe, denn dafür ist Wetzlar bekannt. Die Phantastische Bibliothek sammelt jedoch Science Fiction, Fantasy, Horror, Utopien, Märchen, Sagen und Mythen. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Wetzlar",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Recht oder Optik liegen nahe, denn dafür ist Wetzlar bekannt. Die Phantastische Bibliothek sammelt jedoch Science Fiction, Fantasy, Horror, Utopien, Märchen und Sagen. Richtig war 2.",
+"quelle": "Phantastische Bibliothek Wetzlar, phantastik.eu",
+"faktencheck": "korrigiert",
 "id": "233-wetzlar/v0.8/10",
 "tisch": false
 }
@@ -84959,9 +85266,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Krieg, Seuche oder ein Machtwort von Kaiser oder Papst haben manches Kloster beendet, das liegt nahe. Das Kloster Dorlar aber hatte mit der Reformation geendet. Der Erzbischof von Trier genehmigte den Verkauf, „weil der Ketzerei verfallen“. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Seuche, Weggang oder ein Machtwort des Papstes haben manches Kloster beendet, das liegt nahe. In Dorlar lebten aber seit 1437 Mönche statt Nonnen, und das Kloster hatte mit der Reformation geendet. Der Erzbischof von Trier genehmigte den Verkauf, „weil der Ketzerei verfallen“. Richtig war 1.“ NEGATIVNACHWEIS neu 2: Weg (a). Seit 1437 lebten dort Mönche, keine Nonnen mehr (234-lahnau/008, Umwandlung in ein Mönchskloster).",
 "quelle": "Gemeinde-Webseite, www.lahnau.de/Leben-in-Lahnau/Geschichte/",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "234-lahnau/v0.8/1",
 "tisch": false
 },
@@ -85326,18 +85633,18 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "Gießen",
 "steckbrief": "Rund 88.500 Einwohner, 52 km nördlich von Frankfurt am Main.",
-"frage": "Das Alte Schloss steht am Gießener Brandplatz. Woher hat dieser Platz seinen Namen?",
+"frage": "Das Alte Schloss steht am Gießener Brandplatz. Wie ist dieser Platz entstanden?",
 "optionen": [
-"Von einem Großbrand, der dort Gebäude vernichtet hatte.",
-"Von Hexenverbrennungen, die dort stattfanden.",
-"Von der Feuerwache der Stadt, die dort stand.",
-"Von Ziegelöfen, in denen dort gebrannt wurde."
+"Er entstand, wo ein Großbrand Gebäude vernichtet hatte.",
+"Dort wurden früher verurteilte Hexen verbrannt.",
+"Dort stand früher die Feuerwache der Stadt.",
+"Dort brannte man früher Ziegel für die Stadt."
 ],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Ein Platz mit „Brand“ im Namen lässt an Hexenfeuer oder Ziegelöfen denken. Tatsächlich zerstörte ein Großbrand, vor allem im Bereich des Walltores, zahlreiche Gebäude. Manche wurden nicht wieder aufgebaut, und so entstand der Brandplatz. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.giessen.de/Erleben/Über-Gießen/Stadtgeschichte/",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "235-giessen/v0.8/8",
 "tisch": false
 },
@@ -85537,10 +85844,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Reiskirchen / Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main. / Die Einwohner des Ortsteils Bersrod hatten früher einen Vogelnamen als Spitznamen. Welchen? / 1. Sie wurden „Gockel“ genannt. / 2. Sie wurden „Kuckuck“ genannt. / 3. Sie wurden „Spatz“ genannt. / 4. Sie wurden „Eule“ genannt.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Reiskirchen",
+"steckbrief": "Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main.",
+"frage": "Die Einwohner des Ortsteils Bersrod hatten früher einen Vogelnamen als Spitznamen. Welchen?",
+"optionen": [
+"Sie wurden „Gockel“ genannt.",
+"Sie wurden „Kuckuck“ genannt.",
+"Sie wurden „Spatz“ genannt.",
+"Sie wurden „Eule“ genannt."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Der Gockel liegt nahe, denn er gehört zu jedem Dorf und thront oft auf Kirchtürmen. Die Bersröder aber hießen früher Kuckuck. Sie nahmen es mit Humor: In den Stein des Brunnens am Lindenplatz ließen sie einen Kuckuck einmeißeln. Richtig war 2.",
@@ -87517,9 +87829,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Gebietsreformen gelten oft als Diktat von oben, darum klingt die Lüge glaubhaft. Doch Herleshausen und die umliegenden Dörfer schlossen sich freiwillig zur Großgemeinde zusammen. Wahr ist: Das Wappen zeigt den Chorturm der Wehrkirche, und das Kloster Kaufungen verwaltete Herleshausen bis zur Säkularisation der hessischen Klöster. Die Lüge war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Herleshausen",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Gebietsreformen gelten oft als Diktat von oben, darum klingt die Lüge glaubhaft. Doch Herleshausen und die umliegenden Dörfer schlossen sich 1970 freiwillig zur Großgemeinde zusammen. Wahr ist: Das Wappen zeigt den Chorturm der Wehrkirche über der Kirchhofmauer, und Herleshausen gehörte seit 1019 dem Kloster Kaufungen, bis zur Säkularisation der hessischen Klöster. Die Lüge war 3.",
+"quelle": "LAGIS Hessen; Gemeinde Herleshausen",
+"faktencheck": "korrigiert",
 "id": "246-herleshausen/v0.8/3",
 "tisch": false
 },
@@ -87597,9 +87909,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Zug aus dem Osten in den Fünfzigern lässt an Vertreibung denken. Doch er brachte Spätheimkehrer: Kriegsgefangene, die erst Jahre nach Kriegsende aus der Sowjetunion zurückkamen. Es war der letzte Eisenbahntransport dieser Art. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Herleshausen",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Ein Zug aus dem Osten in den Fünfzigern lässt an Vertreibung denken. Doch er brachte Spätheimkehrer: Kriegsgefangene, die erst Jahre nach Kriegsende aus der Sowjetunion zurückkamen. Es war der letzte große Heimkehrertransport über Herleshausen; seit Oktober 1955 waren hier fast 8.000 angekommen. Richtig war 2.",
+"quelle": "Gemeinde Herleshausen; LAGIS Hessen",
+"faktencheck": "korrigiert",
 "id": "246-herleshausen/v0.8/8",
 "tisch": false
 },
@@ -87746,9 +88058,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Brunnen denkt man zuerst an Wasser, und das Wort „schwarz“ lässt an Trauer um Seuchenopfer denken. Die Stadtgeschichte nennt als Anlass jedoch eine Pulverexplosion. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Bei einem Brunnen denkt man zuerst an Wasser, und das Wort „schwarz“ lässt an Trauer um Seuchenopfer denken. Die Stadtgeschichte nennt als Anlass jedoch eine Pulverexplosion im Jahr 1810. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.eisenach.de/leben/geschichte/denkmale/",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "247-eisenach/v0.8/5",
 "tisch": false
 },
@@ -87766,9 +88078,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. EF liegt nahe, weil Erfurt die nächste Großstadt ist. ESW steht für den hessischen Werra-Meißner-Kreis, GTH für Gotha. Eisenach gehört zum Wartburgkreis; als Hauptkennzeichen ist für die Stadt EA geführt. Richtig war 1.",
-"quelle": "Wikidata P395",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. EF liegt nahe, weil Erfurt die nächste Großstadt ist. Eisenach gehört seit 2021 wieder zum Wartburgkreis, dessen Zeichen WAK und SLZ sind. Für Fahrzeuge aus der Stadt Eisenach vergibt das Landratsamt aber EA. Richtig war 1.",
+"quelle": "Landratsamt Wartburgkreis, www.wartburgkreis.de/leben-im-wartburgkreis/ordnung-sicherheit/kfz-zulassung-strassenverkehrsrecht",
+"faktencheck": "korrigiert",
 "id": "247-eisenach/v0.8/6",
 "tisch": false
 },
@@ -88601,14 +88913,14 @@ window.QA_DATEN = {
 "optionen": [
 "Er entstand aus dem Garten eines Verlegers.",
 "Er entstand aus einem Exerzierplatz.",
-"Er entstand aus einem früheren Steinbruch.",
-"Er entstand aus einem früheren Bahnhofsgelände."
+"Er entstand aus einem alten Friedhof.",
+"Er entstand aus einem herzoglichen Wildgehege."
 ],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Ein Exerzierplatz liegt nahe, denn viele Stadtparks entstanden auf früheren Militärflächen. Doch der Weimarhallenpark ging aus dem Garten von Friedrich Justin Bertuch hervor, einem Verleger und Zeitgenossen Goethes. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, www.weimar.de/kultur/sehenswuerdigkeiten/parks-und-gaerten/",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "251-weimar/v0.8/8",
 "tisch": false
 }
@@ -88691,9 +89003,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Goethe als Knochenforscher klingt erfunden, man kennt ihn als Dichter und Minister. Doch mit Justus Christian Loder entdeckte er am Anatomieturm den Zwischenkieferknochen. Gelogen war Hegels Fach: Er lehrte in Jena Philosophie, wie auch Fichte und Schelling. Die Lüge war 3.",
+"rueckseite": "Du hattest [Option] getippt. Goethe als Knochenforscher klingt erfunden, man kennt ihn als Dichter und Minister. Doch mit Justus Christian Loder wies er 1784 im Anatomieturm den Zwischenkieferknochen beim Menschen nach. Gelogen war Hegels Fach: Er lehrte in Jena Philosophie, wie auch Fichte und Schelling. Die Lüge war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Jena",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "252-jena/v0.8/3",
 "tisch": false
 },
@@ -88720,15 +89032,20 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„Jena / Großstadt an der Saale mit rund 109.000 Einwohnern. / Warum entstand in Jena im 16. Jahrhundert eine Hochschule? Welchen Grund nennt die Stadtgeschichte? / 1. Ein Naumburger Bischof wollte hier Priester ausbilden. / 2. Ein reicher Jenaer Kaufmann vermachte der Stadt dafür sein Erbe. / 3. Sie ersetzte die im Krieg verlorene Universität Wittenberg. / 4. Der Papst wollte ein Bollwerk gegen Luthers Lehre.“ RÜCKSEITE bleibt unverändert.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Jena",
+"steckbrief": "Großstadt an der Saale mit rund 109.000 Einwohnern.",
+"frage": "Warum entstand in Jena im 16. Jahrhundert eine Hochschule? Welchen Grund nennt die Stadtgeschichte?",
+"optionen": [
+"Ein Naumburger Bischof wollte hier Priester ausbilden.",
+"Erfurter Professoren flohen nach einem Stadtbrand hierher.",
+"Sie ersetzte die im Krieg verlorene Universität Wittenberg.",
+"Der Papst wollte ein Bollwerk gegen Luthers Lehre."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Ein Bischof als Gründer liegt nahe, denn viele alte Hochschulen wuchsen aus kirchlichen Schulen. Doch der Anlass war eine Niederlage: Nach dem Schmalkaldischen Krieg war die Universität Wittenberg verloren. Den Ersatz schuf man in Jena, zunächst als Hohe Schule im Dominikanerkloster. Richtig war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Jena",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "252-jena/v0.8/5",
 "tisch": false
 },
@@ -88755,14 +89072,19 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„Jena / Großstadt an der Saale mit rund 109.000 Einwohnern, 39 km Luftlinie von Erfurt. / Die Firma Carl Zeiss verschenkte 1904 ihr zehntausendstes Objektiv für homogene Immersion. Wer bekam es? / 1. Es ging an Robert Koch. / 2. Es ging an Rudolf Virchow. / 3. Es ging an Kaiser Wilhelm II. / 4. Es ging an Ernst Haeckel.“ RÜCKSEITE: „Du hattest [Option] getippt. Ernst Haeckel lag nahe: Der Zoologe lehrte an der Jenaer Universität. Doch das zehntausendste Objektiv für homogene Immersion schenkte Zeiss 1904 Robert Koch. Koch schrieb an Carl Zeiss, er verdanke einen großen Teil seiner Erfolge dessen Mikroskopen. Richtig war 1. / Quelle: zeiss.com, Seite Nobelpreise“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Jena",
+"steckbrief": "Großstadt an der Saale mit rund 109.000 Einwohnern, 39 km Luftlinie von Erfurt.",
+"frage": "Die Firma Carl Zeiss verschenkte 1904 ihr zehntausendstes Objektiv für homogene Immersion. Wer bekam es?",
+"optionen": [
+"Es ging an Robert Koch.",
+"Es ging an Rudolf Virchow.",
+"Es ging an Kaiser Wilhelm II.",
+"Es ging an Ernst Haeckel."
+],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ernst Haeckel lag nahe: Der Zoologe war einer der berühmtesten Lehrer der Jenaer Universität. Doch das zehntausendste Mikroskop ging als Geschenk an Robert Koch. Zu den wichtigen Partnern von Zeiss zählten Ernst Abbe und Otto Schott. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Jena",
+"rueckseite": "Du hattest [Option] getippt. Ernst Haeckel lag nahe: Der Zoologe lehrte an der Jenaer Universität. Doch das zehntausendste Objektiv für homogene Immersion schenkte Zeiss 1904 Robert Koch. Koch schrieb an Carl Zeiss, er verdanke einen großen Teil seiner Erfolge dessen Mikroskopen. Richtig war 1.",
+"quelle": "zeiss.com, Seite Nobelpreise",
 "faktencheck": "korrigiert",
 "id": "252-jena/v0.8/7",
 "tisch": false
@@ -88881,10 +89203,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Stadtroda / Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena. / Die KPD-Reichstagsabgeordnete Helene Fleischer starb 1941 in Stadtroda. Wie kam sie ums Leben? / 1. Sie wurde auf der Flucht erschossen. / 2. Sie wurde vom Volksgerichtshof zum Tod verurteilt. / 3. Sie kam bei einem Bombenangriff ums Leben. / 4. Sie wurde Opfer der NS-Krankenmorde.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Stadtroda",
+"steckbrief": "Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena.",
+"frage": "Die KPD-Reichstagsabgeordnete Helene Fleischer starb 1941 in Stadtroda. Wie kam sie ums Leben?",
+"optionen": [
+"Sie wurde auf der Flucht erschossen.",
+"Sie wurde vom Volksgerichtshof zum Tod verurteilt.",
+"Sie kam bei einem Bombenangriff ums Leben.",
+"Sie wurde Opfer der NS-Krankenmorde."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Bei einer Kommunistin denkt man an ein Todesurteil der NS-Justiz. Helene Fleischer bekam 1934 aber „nur“ drei Jahre Gefängnis. 1941 wurde sie nach schweren Misshandlungen in die Heilanstalt Stadtroda gebracht und dort ermordet. Richtig war 4.",
@@ -88896,10 +89223,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Stadtroda / Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena. / Stadtroda liegt in Thüringen. Zu welchem Bistum gehört die katholische Kirche St. Jakobus in Stadtroda? / 1. Sie gehört zum Bistum Dresden-Meißen. / 2. Sie gehört zum Bistum Erfurt. / 3. Sie gehört zum Bistum Magdeburg. / 4. Sie gehört zum Bistum Görlitz.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Stadtroda",
+"steckbrief": "Stadt mit rund 6.700 Einwohnern, 13 km südöstlich von Jena.",
+"frage": "Stadtroda liegt in Thüringen. Zu welchem Bistum gehört die katholische Kirche St. Jakobus in Stadtroda?",
+"optionen": [
+"Sie gehört zum Bistum Dresden-Meißen.",
+"Sie gehört zum Bistum Erfurt.",
+"Sie gehört zum Bistum Magdeburg.",
+"Sie gehört zum Bistum Görlitz."
+],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Erfurt ist Thüringens Hauptstadt, daher liegt das Bistum Erfurt nahe. Bistumsgrenzen folgen aber nicht immer den Landesgrenzen: Die katholische Kirche in Stadtroda gehört heute zur Pfarrei St. Elisabeth Gera im Bistum Dresden-Meißen. Richtig war 1.",
@@ -89617,13 +89949,18 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "… Hier liegt ein Tunnel von 1836, der als erster Eisenbahntunnel Deutschlands gilt. Bis wann fuhr die Tollwitz-Dürrenberger Eisenbahn? 1.–4. wie bisher. RÜCKSEITE: Du hattest [Option] getippt. Wer an frühe Bahnen denkt, erwartet ein kurzes Leben, weil viele Pionierstrecken bald umgebaut wurden. Doch die schmalspurige Kohlebahn brachte von 1836 bis 1935 Braunkohle aus Tollwitz zur Saline. Richtig war 4.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Bad Dürrenberg",
+"steckbrief": "Stadt im Saalekreis mit rund 11.500 Einwohnern, 22 km südlich von Halle (Saale).",
+"frage": "Hier liegt ein Tunnel von 1836, der als erster Eisenbahntunnel Deutschlands gilt. Bis wann fuhr die Tollwitz-Dürrenberger Eisenbahn? 1.–4. wie bisher.",
+"optionen": [
+"Die Bahn fuhr bis 1848.",
+"Die Bahn fuhr bis 1871.",
+"Die Bahn fuhr bis 1918.",
+"Die Bahn fuhr bis 1935."
+],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer an frühe Bahnen denkt, erwartet ein kurzes Leben, weil viele Pionierstrecken bald umgebaut wurden. Doch die schmalspurige Tollwitz-Dürrenberger Eisenbahn fuhr von 1836 bis 1935 durch den Tunnel. Im selben Jahr endete in Tollwitz auch der Braunkohleabbau. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Wer an frühe Bahnen denkt, erwartet ein kurzes Leben, weil viele Pionierstrecken bald umgebaut wurden. Doch die schmalspurige Kohlebahn brachte von 1836 bis 1935 Braunkohle aus Tollwitz zur Saline. Richtig war 4.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Dürrenberg",
 "faktencheck": "korrigiert",
 "id": "257-bad-duerrenberg/v0.8/7",
@@ -90350,10 +90687,14 @@ window.QA_DATEN = {
 {
 "familie": "B",
 "sorte": "Geschichte",
-"ort": "Coswig (Anhalt) / Stadt mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale). / Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? / 1. Im Dreißigjährigen Krieg hatte der Schwedenkönig Gustav Adolf sein Hauptquartier im Coswiger Schloss. / 2. Das Coswiger Schloss wurde zum Gefängnis umgebaut. / 3. Coswig liegt am nördlichen Rand des Harzes.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Coswig (Anhalt)",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Dreißigjährigen Krieg hatte der Schwedenkönig Gustav Adolf sein Hauptquartier im Coswiger Schloss.",
+"Das Coswiger Schloss wurde zum Gefängnis umgebaut.",
+"Coswig liegt am nördlichen Rand des Harzes."
+],
 "art": "luege",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Ein Schwedenkönig in einer Kleinstadt wirkt verdächtig, doch Gustav Adolf hatte im August 1631 tatsächlich sein Hauptquartier im Coswiger Schloss. Das Schloss war später Witwensitz und wurde ab 1874 Strafanstalt. Gelogen ist der Harz: Coswig liegt an der Elbe, der Harz weit westlich von Halle. Die Lüge war 3.",
@@ -90405,10 +90746,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Klassiker",
-"ort": "Coswig (Anhalt) / Stadt an der Elbe mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale). / Welches ist das Hauptkennzeichen des Landkreises, zu dem Coswig gehört? / 1. DE / 2. HAL / 3. WB / 4. SK",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Coswig (Anhalt)",
+"steckbrief": "Stadt an der Elbe mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).",
+"frage": "Welches ist das Hauptkennzeichen des Landkreises, zu dem Coswig gehört?",
+"optionen": [
+"DE",
+"HAL",
+"WB",
+"SK"
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. DE liegt nahe, denn Dessau ist der große Nachbar. Coswig gehört aber zum Landkreis Wittenberg, und dessen Hauptkennzeichen ist WB. Richtig war 3.",
@@ -90420,10 +90766,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "… Coswig war 1965 Drehort eines DEFA-Spielfilms nach einem Roman von Erik Neutsch. Wer führte Regie? (Optionen unverändert)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Coswig (Anhalt)",
+"steckbrief": "Stadt an der Elbe mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).",
+"frage": "Coswig war 1965 Drehort eines DEFA-Spielfilms nach einem Roman von Erik Neutsch. Wer führte Regie?",
+"optionen": [
+"Regie führte Konrad Wolf.",
+"Regie führte Kurt Maetzig.",
+"Regie führte Heiner Carow.",
+"Regie führte Frank Beyer."
+],
 "art": "richtig",
 "loesung": 4,
 "rueckseite": "Du hattest [Option] getippt. Konrad Wolf liegt nahe, denn er war ein sehr bekannter Regisseur der DEFA. In Coswig drehte aber Frank Beyer 1965 Szenen für seinen Schwarz-Weiß-Film „Spur der Steine“ nach dem gleichnamigen Roman von Erik Neutsch. Richtig war 4.",
@@ -90455,10 +90806,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "… In der DDR wurde 1979 ein Werk in Coswig mit einem Werk in Riesa zu einem Betrieb zusammengelegt. Was stellten beide her? (Optionen unverändert)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Coswig (Anhalt)",
+"steckbrief": "Stadt an der Elbe mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).",
+"frage": "In der DDR wurde 1979 ein Werk in Coswig mit einem Werk in Riesa zu einem Betrieb zusammengelegt. Was stellten beide her?",
+"optionen": [
+"Man stellte Nudeln her.",
+"Man stellte Autoreifen her.",
+"Man stellte Streichhölzer her.",
+"Man stellte Stahldraht her."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Nudeln liegen nahe, denn dafür ist Riesa bis heute bekannt. Gemeint sind aber Zündwaren, also Streichhölzer: Coswig war lange ein Standort der Streichholzherstellung, und 1979 ging das Coswiger Zündholzwerk im VEB Zündwarenwerke Riesa auf. Richtig war 3.",
@@ -92430,9 +92786,9 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Verdächtig wirkt leicht Aegidienberg, doch der Stadtbezirk war wirklich einst eine eigene Gemeinde, und Bad Honnef hieß früher nur Honnef. Gelogen war Adenauers Umzug: Er wohnte schon ab 1935 bis zu seinem Tod in Rhöndorf, also auch als Kanzler. Die Lüge war 1.",
+"rueckseite": "Du hattest [Option] getippt. Verdächtig wirkt leicht Aegidienberg, doch der Stadtbezirk war wirklich einst eine eigene Gemeinde, und Bad Honnef hieß früher ohne das „Bad“. Gelogen war Adenauers Umzug: Er zog schon 1935 nach Rhöndorf und lebte dort bis zu seinem Tod 1967, also auch als Kanzler. Die Lüge war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Honnef",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "337-bad-honnef/v0.8/3",
 "tisch": false
 },
@@ -92459,10 +92815,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Bad Honnef ist mit Cadenabbia verpartnert, einem Ortsteil von Griante am Comer See in der Lombardei. Worauf geht diese Partnerschaft zurück?",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Bad Honnef",
+"steckbrief": "Rund 25.000 Einwohner, 14 km südöstlich von Bonn.",
+"frage": "Bad Honnef ist mit Cadenabbia verpartnert, einem Ortsteil von Griante am Comer See in der Lombardei. Worauf geht diese Partnerschaft zurück?",
+"optionen": [
+"Honnefer Kurgäste entdeckten dort ein Heilbad.",
+"Ein berühmter Bewohner machte dort regelmäßig Urlaub.",
+"Beide Kirchen tragen denselben Schutzheiligen.",
+"Honnefer Winzer holten von dort ihre Reben."
+],
 "art": "richtig",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Kur oder Weinbau liegen nahe, denn Bad Honnef war Heilbad, und am Drachenfels liegen Weinberge. Der Grund war aber ein Urlauber: Konrad Adenauer verbrachte in Cadenabbia regelmäßig seinen Urlaub. Daran knüpft die Partnerschaft an. Richtig war 2.",
@@ -93583,9 +93944,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Geschenk oder ein ausgedientes Schiffsglöckchen klingen nach typischer Dorfgeschichte. Das Glöckchen stammt aber aus Lauer in Schlesien und wurde nach dem Krieg als Leihglocke hierher verschlagen: eine Glocke, die eine Gemeinde nutzt, ohne dass sie ihr gehört. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Ein Geschenk oder ein ausgedientes Schiffsglöckchen klingen nach typischer Dorfgeschichte. Das Glöckchen von 1863 stammt aber aus Schlesien und kam nach dem Krieg hierher. Heute steht es als Leihglocke zur Verfügung: eine Glocke, die eine Gemeinde nutzt, ohne dass sie ihr gehört. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, windhagen.de/html/sehenswertes.htm",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "341-windhagen/v0.8/7",
 "tisch": false
 },
@@ -93738,10 +94099,15 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Vettelschoß / Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn. / In den 1920er-Jahren entstand im Ortsteil Kalenborn ein Schmelzbasaltwerk. Von wem stammte die Idee zum Schmelzbasalt? / 1. Die Idee stammte von einem französischen Arzt. / 2. Die Idee stammte von einem deutschen Steinbruchmeister. / 3. Die Idee stammte von einem englischen Chemiker. / 4. Die Idee stammte von einem belgischen Ingenieur.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Vettelschoß",
+"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
+"frage": "In den 1920er-Jahren entstand im Ortsteil Kalenborn ein Schmelzbasaltwerk. Von wem stammte die Idee zum Schmelzbasalt?",
+"optionen": [
+"Die Idee stammte von einem französischen Arzt.",
+"Die Idee stammte von einem deutschen Steinbruchmeister.",
+"Die Idee stammte von einem englischen Chemiker.",
+"Die Idee stammte von einem belgischen Ingenieur."
+],
 "art": "richtig",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Ein Steinbruchmeister liegt nahe, denn bei Vettelschoß wurde Basalt gebrochen. Doch die Idee stammte von einem französischen Arzt, der in Laborversuchen den Grundstein legte. In Kalenborn wurde Schmelzbasalt dann industriell hergestellt. Der Werkstoff schützt gegen Verschleiß. Richtig war 1.",
@@ -93852,10 +94218,15 @@ window.QA_DATEN = {
 {
 "familie": "C",
 "sorte": "Geschichte",
-"ort": "Vettelschoß / Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn. / Nach dem Zweiten Weltkrieg siedelte sich die Firma Streif Schalungsbau in Vettelschoß an. Später wurde sie eine große Fertighausfirma. Wie viele Mitarbeiter hatte sie in ihrer Spitzenzeit? / 1. unter 500 / 2. 500 bis unter 2.000 / 3. 2.000 bis unter 8.000 / 4. 8.000 und mehr",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Vettelschoß",
+"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
+"frage": "Nach dem Zweiten Weltkrieg siedelte sich die Firma Streif Schalungsbau in Vettelschoß an. Später wurde sie eine große Fertighausfirma. Wie viele Mitarbeiter hatte sie in ihrer Spitzenzeit?",
+"optionen": [
+"unter 500",
+"500 bis unter 2.000",
+"2.000 bis unter 8.000",
+"8.000 und mehr"
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Eine Firma in einem Dorf dieser Größe stellt man sich mittelständisch vor. Doch Streif wurde nach Angaben der Gemeinde eine der größten Fertighausfirmen Deutschlands, mit insgesamt bis zu 5.000 Mitarbeitern, mehr als Vettelschoß heute Einwohner hat. Später traf der Niedergang der Bauwirtschaft auch Streif. Richtig war 3.",
@@ -93887,25 +94258,35 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Option 4 lautet jetzt: „Das Geld sollte einen regelmäßigen Sonntagsgottesdienst sichern.“ (Rest unverändert.)",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Vettelschoß",
+"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
+"frage": "1862 stiftete Johann Anton Stockhausen 735 Taler für Vettelschoß. Wofür war das Geld bestimmt?",
+"optionen": [
+"Das Geld war für eine Dorfschule bestimmt.",
+"Das Geld ging an die Armen des Dorfes.",
+"Das Geld bezahlte eine neue Glocke der Kapelle.",
+"Das Geld sicherte einen regelmäßigen Sonntagsgottesdienst."
+],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Schule oder die Armen wären typische Stiftungszwecke. Doch ein Gottesdienst an jedem Sonntag war in Vettelschoß damals nicht selbstverständlich. Stockhausen stiftete die 735 Taler, damit es ihn regelmäßig gab. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Eine Schule oder die Armen wären typische Stiftungszwecke. Doch Vettelschoß hatte noch keinen eigenen Geistlichen; Sonntagsgottesdienste hingen von auswärtigen Priestern ab. Stockhausens Geld sollte sie regelmäßig sichern. Ein eigener Geistlicher kam erst später mit Vikar Johann Klöckner. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "342-vettelschoss/v0.8/9",
 "tisch": false
 },
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Vettelschoß / Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn. / Kalenborn, heute Ortsteil von Vettelschoß, gilt als erstmals 1209 urkundlich belegt. Worum ging es in dieser Urkunde? / 1. Kalenborn erhielt das Stadtrecht. / 2. Die Bauern erhielten dort ein Marktrecht. / 3. Ein Erzbischof verzichtete auf ein Wildbannrecht. / 4. Kalenborn bekam eine eigene Pfarrkirche.",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Vettelschoß",
+"steckbrief": "Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.",
+"frage": "Kalenborn, heute Ortsteil von Vettelschoß, gilt als erstmals 1209 urkundlich belegt. Worum ging es in dieser Urkunde?",
+"optionen": [
+"Kalenborn erhielt das Stadtrecht.",
+"Die Bauern erhielten dort ein Marktrecht.",
+"Ein Erzbischof verzichtete auf ein Wildbannrecht.",
+"Kalenborn bekam eine eigene Pfarrkirche."
+],
 "art": "richtig",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Ein Marktrecht oder Stadtrecht liegt nahe, denn solche Rechte wurden oft beurkundet. In der Urkunde aber verzichtete Erzbischof Dietrich von Köln auf ein Wildbannrecht, also ein Jagdrecht in einem Gebiet. Richtig war 3.",
@@ -94739,13 +95120,13 @@ window.QA_DATEN = {
 "optionen": [
 "Siegburgs Altertumsverein entstand erst nach dem Zweiten Weltkrieg.",
 "Stallberg entwickelte sich nach dem Zweiten Weltkrieg industriell.",
-"Siegburg ist eine Kreisstadt."
+"Siegburg ist die Kreisstadt des Rhein-Sieg-Kreises."
 ],
 "art": "luege",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Mancher hält die Kreisstadt für gelogen, weil man den Kreissitz in einer größeren Nachbarstadt vermutet. Doch Siegburg ist Kreisstadt. Gelogen ist der Verein: Der Geschichts- und Altertumsverein stammt noch aus der Kaiserzeit und hieß zuerst Altertumsverein Siegburg. Stallberg dagegen entwickelte sich tatsächlich nach dem Zweiten Weltkrieg baulich und industriell. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, siegburg.de/buergerservice-views/leistungen/NRW:entry:41713-VLR/geschichts-und-altertumsverein/",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "346-siegburg/v0.8/3",
 "tisch": false
 },
@@ -94927,14 +95308,14 @@ window.QA_DATEN = {
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
 "Eltern gründeten in Neuhonrath eine Kita als Notgemeinschaft.",
-"Lohmars Bahnhofsgebäude an der Kirchstraße dient heute als Kulturzentrum.",
+"Lohmars altes Bahnhofsgebäude dient heute als Kulturzentrum.",
 "Orkan Kyrill entwurzelte in Lohmar zahlreiche Nadelbäume."
 ],
 "art": "luege",
 "loesung": 2,
 "rueckseite": "Du hattest [Option] getippt. Umgenutzte Bahnhöfe gibt es in vielen Orten, deshalb klingt die Aussage glaubhaft. Lohmars Bahnhofsgebäude an der Kirchstraße wurde jedoch abgerissen, an seiner Stelle entstand ein Kreisverkehr. Die Kita in Neuhonrath gründeten Eltern, weil die vorhandenen Plätze nicht reichten. Die Lüge war 2.",
 "quelle": "Gemeinde-Webseite, www.lohmar.de/buergerservice-aktuelles-verwaltung-und-rat/stadtportraet/25-jahre-stadt-lohmar/",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "347-lohmar/v0.8/3",
 "tisch": false
 },
@@ -95486,9 +95867,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei Solingen denken viele an Sole, also Salzwasser, weil der Name so klingt. Tatsächlich steckt das altsächsische Adjektiv solag darin: kotig, schmutzig. Gemeint ist eine Schweinesuhle, also ein schlammiger Platz, an dem sich Schweine wälzen. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Solingen",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Bei Solingen denken viele an Sole, also Salzwasser, oder wegen der Klingen an ein Wort für Klinge. Meist wird der Name aber vom altsächsischen solag abgeleitet: kotig, schmutzig. Gemeint wäre eine Schweinesuhle, also ein schlammiger Platz, an dem sich Schweine wälzen. Richtig war 1.",
+"quelle": "Wikipedia, mit Vermerk „Namensdeutung ohne zweiten Beleg“.",
+"faktencheck": "korrigiert",
 "id": "350-solingen/v0.8/1",
 "tisch": false
 },
@@ -95565,9 +95946,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Alle vier Städte liegen im Bergischen Land, das macht das Raten schwer. Die Müngstener Brücke, Solingens Wahrzeichen, spannt sich über das Tal der Wupper und verbindet Solingen mit Remscheid. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Solingen",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Alle vier Städte liegen im Bergischen Land, das macht das Raten schwer. Die Müngstener Brücke, Solingens Wahrzeichen, spannt sich 107 Meter hoch über das Tal der Wupper und verbindet Solingen mit Remscheid. Richtig war 1.",
+"quelle": "Deutsche Bahn.",
+"faktencheck": "korrigiert",
 "id": "350-solingen/v0.8/5",
 "tisch": false
 },
@@ -95605,9 +95986,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Anker lässt an Schifffahrt oder Handel denken. Gemeint war aber der Schutzpatron der Stadt, der heilige Clemens: Er wurde mit einem Anker ertränkt, darum ist der Anker sein Zeichen. Nach ihm heißt auch die Kirche St. Clemens. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein Anker lässt an Schifffahrt oder Handel denken. Er gilt aber als Zeichen des Stadtpatrons, des heiligen Clemens: Der Legende nach wurde er mit einem Anker ertränkt. Nach ihm heißt auch die Kirche St. Clemens. Richtig war 3.“ Vermerk: Bezug des Ankers auf Clemens ohne zweiten Beleg.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Solingen",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "350-solingen/v0.8/7",
 "tisch": false
 },
@@ -96364,9 +96745,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre der Urmensch, doch es ist umgekehrt: Der Neandertaler ist nach dem Tal benannt. Das Tal heißt nach dem evangelischen Liederdichter Joachim Neander, der dort regelmäßig Gottesdienste im Freien hielt und sich von der Natur zu Liedern anregen ließ. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre der Urmensch, doch es ist umgekehrt: Der Neandertaler ist nach dem Tal benannt. Das Tal heißt nach dem reformierten Liederdichter Joachim Neander. Er soll dort Gottesdienste im Freien gehalten und sich von der Natur zu Liedern haben anregen lassen. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Mettmann",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "354-mettmann/v0.8/1",
 "tisch": false
 },
@@ -96393,15 +96774,19 @@ window.QA_DATEN = {
 {
 "familie": "B",
 "sorte": "Geschichte",
-"ort": "„2. Die evangelische Kirche an der Freiheitstraße wurde 1780 eingeweiht.“ / „3. Die Stadtrechte verlieh im 19. Jahrhundert der König von Sachsen.“ – RÜCKSEITE: „Du hattest [Option] getippt. Ein König war es tatsächlich, nur nicht der sächsische: Die Stadtrechte verlieh König Friedrich Wilhelm IV. von Preußen. Die beiden anderen Aussagen stimmen. Metzkausen ist seit 1975 ein Ortsteil von Mettmann, und die Kirche an der Freiheitstraße wurde 1780 als reformierte Kirche geweiht. Die Lüge war 3.“",
-"steckbrief": "",
-"frage": "",
-"optionen": [],
+"ort": "Mettmann",
+"steckbrief": "Mettmann hat knapp 40.000 Einwohner und liegt 12 km nordwestlich von Solingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Metzkausen kam 1975 durch Eingemeindung zu Mettmann.",
+"Die evangelische Kirche im Zentrum wurde 1780 eingeweiht.",
+"Das Stadtrecht verlieh 1856 der König von Sachsen."
+],
 "art": "luege",
 "loesung": 3,
 "rueckseite": "Du hattest [Option] getippt. Ein König war es tatsächlich, nur nicht der sächsische: Das Stadtrecht verlieh König Friedrich-Wilhelm IV. von Preußen. Die beiden anderen Aussagen stimmen. Metzkausen, einst Sitz des Amtes Hubbelrath, ist seither Ortsteil, und die Kirche im Zentrum besteht aus grauen Feldsteinen. Die Lüge war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Mettmann",
-"faktencheck": "korrigiert",
+"faktencheck": "unsicher",
 "id": "354-mettmann/v0.8/3",
 "tisch": false
 },
@@ -96439,9 +96824,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Im Bergischen Land denkt man bei Steigungen schnell an Schienen und Seile. Tatsächlich fuhr hier ein Fahrdrahtbus, ein Bus mit Strom aus der Oberleitung. Entwickelt hatte ihn der Mettmanner Gustav Kemmann; die anspruchsvolle Bergische Strecke diente als Teststrecke. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Im Bergischen Land denkt man bei Steigungen schnell an Schienen und Seile. Tatsächlich fuhr hier ein Fahrdrahtbus, ein Bus mit Strom aus der Oberleitung. Er gilt als erster neuzeitlicher Oberleitungsbus Deutschlands; einzelne Versuchsanlagen gab es schon früher. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Mettmann",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "354-mettmann/v0.8/5",
 "tisch": false
 },
@@ -96499,9 +96884,9 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei Städtekontakten denkt man an Wirtschaft oder Zuwanderung. Hier verbindet die Urgeschichte: In Mettmann liegt das Neandertal, der Fundort des Neandertalers, und auch San Felice Circeo ist ein Fundort von Überresten des Neandertalers. Richtig war 2.",
+"rueckseite": "Du hattest [Option] getippt. Bei Städtekontakten denkt man an Wirtschaft oder Zuwanderung. Hier verbindet die Urgeschichte: Bei Mettmann liegt das Neandertal, der Fundort des Neandertalers, und auch in San Felice Circeo wurden Überreste von Neandertalern gefunden. Richtig war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Mettmann",
-"faktencheck": "unsicher",
+"faktencheck": "korrigiert",
 "id": "354-mettmann/v0.8/8",
 "tisch": false
 }
@@ -96922,10 +97307,11 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "Die Schwebebahn ist das Wahrzeichen Wuppertals und fährt größtenteils über der Wupper. Wer hat sie erfunden?",
-"steckbrief": "1. Eugen Langen erfand die Schwebebahn.",
-"frage": "",
+"ort": "Wuppertal",
+"steckbrief": "Großstadt mit rund 357.000 Einwohnern, 29 km Luftlinie von Düsseldorf.",
+"frage": "Die Schwebebahn ist das Wahrzeichen Wuppertals und fährt größtenteils über der Wupper. Wer hat sie erfunden?",
 "optionen": [
+"Eugen Langen erfand die Schwebebahn.",
 "Ferdinand von Zeppelin erfand die Schwebebahn.",
 "Carl Benz erfand die Schwebebahn.",
 "Rudolf Diesel erfand die Schwebebahn."
@@ -99600,17 +99986,19 @@ window.QA_DATEN = {
 {
 "familie": "B",
 "sorte": "Geschichte",
-"ort": "1. Hardert wurde 1966 als Luftkurort anerkannt.",
-"steckbrief": "2. Die 700-Jahr-Feier fand wie geplant 2021 statt.",
-"frage": "",
+"ort": "Hardert",
+"steckbrief": "Die Gemeinde mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Im Jahr 1843 zählte Hardert 256 Einwohner."
+"Das Wappen von Hardert wurde 1981 genehmigt.",
+"Die 700-Jahr-Feier fand wie geplant 2021 statt.",
+"Im Jahr 1815 zählte Hardert 160 Einwohner."
 ],
 "art": "luege",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Jubiläum feiert man gewöhnlich im Jubiläumsjahr, deshalb klingt die Feier 2021 glaubwürdig. Doch die Corona-Pandemie kam dazwischen: Hardert holte die Feier zu seinem 700-jährigen Bestehen erst im Juni 2022 nach. Luftkurort und Einwohnerzahl stimmen. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, www.hardert.de/geschichte.html und www.hardert.de/geschichte-chronik.html",
-"faktencheck": "korrigiert",
+"rueckseite": "Du hattest [Option] getippt. Ein Jubiläum feiert man gewöhnlich im Jubiläumsjahr, deshalb klingt die Feier 2021 glaubwürdig. Doch die Corona-Pandemie kam dazwischen: Hardert holte sein 700-jähriges Bestehen erst im Juni 2022 nach. Wappen und Einwohnerzahl stimmen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.hardert.de/geschichte.html",
+"faktencheck": "unsicher",
 "id": "410-hardert/v0.8/3",
 "tisch": false
 },
@@ -100158,14 +100546,14 @@ window.QA_DATEN = {
 {
 "familie": "A",
 "sorte": "Geschichte",
-"ort": "„Kurtscheid",
+"ort": "Kurtscheid",
 "steckbrief": "Westerwalddorf mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
 "frage": "Eine Glocke der katholischen Kirche in Kurtscheid ist dem heiligen Kastor geweiht. Aus wessen Spende wurde sie angeschafft?",
 "optionen": [
 "Aus einer Spende von Kaiser Wilhelm I.",
 "Aus einer Spende von Kaiserin Augusta.",
 "Aus einer Spende von Papst Pius XI.",
-"Aus einer Spende von Otto von Bismarck.“"
+"Aus einer Spende von Otto von Bismarck."
 ],
 "art": "richtig",
 "loesung": 3,
@@ -101179,18 +101567,18 @@ window.QA_DATEN = {
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Kloster Marienhaus",
-"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
-"frage": "1903 gründeten die Waldbreitbacher Franziskanerinnen eine GmbH. Welchen Zweck sollte sie erfüllen?",
+"steckbrief": "Kloster Marienhaus ist ein Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
+"frage": "Wer ließ das Kloster Marienhaus in seiner heutigen Gestalt bauen?",
 "optionen": [
-"Sie sollte Ordensbesitz rasch zu Geld machen.",
-"Sie sollte Gewinne für das Bistum erwirtschaften.",
-"Sie sollte das Vermögen des Ordens binden.",
-"Sie sollte ein Kurhotel für Gäste betreiben."
+"Die Mitgründerin Maria Bonner.",
+"Der Waldbreitbacher Pfarrer Jakob Gomm.",
+"Die Generaloberin Agatha Simons.",
+"Der Trierer Bischof Matthias Eberhard."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Firma denkt man zuerst an Gewinn, deshalb liegt das Geldverdienen nahe. Die Schwestern gründeten sie aber, um das Vermögen des Ordens zu binden. Die GmbH betrieb soziale Einrichtungen wie Krankenhäuser, Altenheime und Hospize. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln",
+"rueckseite": "Du hattest [Option] getippt. Eine Mitgründerin wie Maria Bonner liegt nahe, denn wer einen Orden gründet, baut oft auch sein Haus. Die heutige Gestalt des Klosters geht aber auf Agatha Simons zurück. Sie leitete den Orden als Generaloberin nach Rosa Flesch. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln",
 "faktencheck": "unsicher",
 "id": "416-kloster-marienhaus/v0.8/1",
 "tisch": false
@@ -101199,18 +101587,18 @@ window.QA_DATEN = {
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Kloster Marienhaus",
-"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
-"frage": "1857 erwarb Rosa Flesch Land auf dem Kapellenberg, wo heute das Kloster steht. Wie kam sie daran?",
+"steckbrief": "Kloster Marienhaus ist ein Ortsteil von Waldbreitbach, 24 km nordwestlich von Koblenz.",
+"frage": "Waldbreitbach ist Luftkurort. Wofür entstand die heutige Westerwaldklinik Anfang des 20. Jahrhunderts?",
 "optionen": [
-"Ein Adliger schenkte ihr das Grundstück.",
-"Sie erbte es von ihrem Vater.",
-"Sie kaufte einen bereits bebauten Hof.",
-"Sie kaufte felsiges Land zu günstigem Preis."
+"Sie entstand als Kurhotel für Sommergäste.",
+"Sie entstand als Jagdschloss eines Adelshauses.",
+"Sie entstand als Waisenhaus der Franziskanerinnen.",
+"Sie entstand als Sanatorium für Tuberkulosekranke."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Schenkung liegt nahe, denn viele Klöster entstanden auf gestiftetem Grund. Rosa Flesch kaufte aber felsiges Land zu günstigem Preis. Darauf entstand zuerst ein einfaches Wohnhaus mit Krankentrakt. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, de.wikipedia.org/wiki/Rosa_Flesch",
+"rueckseite": "Du hattest [Option] getippt. Ein Kurhotel liegt nahe, denn Luftkurorte lockten Sommergäste mit frischer Waldluft. Gute Luft suchten aber auch Lungenheilstätten: Das Haus begann als Sanatorium zur Behandlung der Tuberkulose, früher getragen von der Landesversicherungsanstalt Rheinprovinz. Heute ist es eine Klinik für neurologische Rehabilitation. Richtig war 4.",
+"quelle": "Klinik-Webseite, www.westerwaldklinik.de/die-klinik/historie.html",
 "faktencheck": "unsicher",
 "id": "416-kloster-marienhaus/v0.8/2",
 "tisch": false
@@ -101219,18 +101607,18 @@ window.QA_DATEN = {
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Kloster Marienhaus",
-"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"steckbrief": "Kloster Marienhaus ist ein Ortsteil von Waldbreitbach, 24 km nordwestlich von Koblenz.",
+"frage": "Das Kloster ist Mutterhaus des von Rosa Flesch gegründeten Ordens. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"1863 gründeten drei Frauen die Waldbreitbacher Franziskanerinnen.",
-"1869 bestätigte Papst Pius X. die erste Ordensregel.",
-"1912 erkannte Papst Pius X. den Orden an."
+"Rosa Flesch war die Tochter eines Ölmüllers.",
+"Rosa Flesch wurde in Rom seliggesprochen.",
+"Rosa Flesch lebte jahrelang in einer Eremitenwohnung."
 ],
 "art": "luege",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer zwei Aussagen mit demselben Papst sieht, ahnt den Haken: Pius X. erkannte den Orden 1912 an. Die erste Ordensregel bestätigte 1869 dagegen Matthias Eberhard, der Bischof von Trier. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Die Eremitenwohnung klingt erfunden, doch Rosa Flesch lebte tatsächlich jahrelang in einer solchen Einsiedlerwohnung an der Kreuzkapelle, zusammen mit ihrer Schwester. Auch der Vater als Ölmüller stimmt. Gelogen ist Rom: Seliggesprochen wurde sie im Trierer Dom. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rosa_Flesch",
+"faktencheck": "bestätigt",
 "id": "416-kloster-marienhaus/v0.8/3",
 "tisch": false
 },
@@ -101238,18 +101626,18 @@ window.QA_DATEN = {
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Kloster Marienhaus",
-"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
+"steckbrief": "Kloster Marienhaus ist ein Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Rosa Flesch wurde im Trierer Dom seliggesprochen.",
-"Der Vater von Rosa Flesch war Ölmüller.",
-"Rosa Flesch wurde auf den Namen Rosa getauft."
+"Der Ortspfarrer genehmigte die Ordensgründung nur zögerlich.",
+"Ein Fenster der Waldbreitbacher Pfarrkirche zeigt Rosa Flesch.",
+"Mönche gründeten das Kloster schon im Mittelalter."
 ],
 "art": "luege",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Der Ölmüller klingt am ungewöhnlichsten, stimmt aber. Getauft wurde sie als Margaretha Flesch; Maria Rosa war ihr Ordensname, den sie 1863 bei ihrer Einkleidung annahm. Seliggesprochen wurde sie im Trierer Dom. Die Lüge war 3.",
-"quelle": "Waldbreitbacher Franziskanerinnen (Biografie Mutter M. Rosa), trierer-dom.de, deutsche-biographie.de",
-"faktencheck": "korrigiert",
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster auf dem Berg wirkt mittelalterlich, und das Fenster klingt nach Ausschmückung. Doch es zeigt Mutter Rosa im Zug der Ordensleute, und auch der zögerliche Pfarrer stimmt. Gegründet haben das Kloster keine Mönche, sondern Rosa Flesch mit zwei Gefährtinnen, im Jahr 1863. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln",
+"faktencheck": "unsicher",
 "id": "416-kloster-marienhaus/v0.8/4",
 "tisch": false
 },
@@ -101257,19 +101645,19 @@ window.QA_DATEN = {
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Kloster Marienhaus",
-"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
-"frage": "Wer ließ das Kloster Marienhaus in seiner heutigen Gestalt bauen?",
+"steckbrief": "Kloster Marienhaus ist ein Ortsteil von Waldbreitbach, 24 km nordwestlich von Koblenz.",
+"frage": "Das Marienhaus Klinikum St. Antonius in Waldbreitbach gehört zur Marienhaus-Gruppe, die eng mit den Franziskanerinnen verbunden ist. Worauf ist es spezialisiert?",
 "optionen": [
-"Bischof Matthias Eberhard von Trier ließ es bauen.",
-"Die Gründerin Rosa Flesch ließ es so bauen.",
-"Generaloberin Agatha Simons ließ es so bauen.",
-"Mitgründerin Maria Bonner ließ es so bauen."
+"Es ist eine Klinik für Orthopädie und Unfallchirurgie.",
+"Es ist eine Kinderklinik mit eigener Geburtsstation.",
+"Es ist eine Klinik für Psychiatrie und Psychosomatik.",
+"Es ist eine Fachklinik für Herzkrankheiten."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die Gründerin liegt nahe, denn Rosa Flesch hatte den Orden gegründet. Die heutige Gestalt gab dem Kloster aber ihre Nachfolgerin als Generaloberin, also Leiterin des Ordens, Agatha Simons. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln",
-"faktencheck": "unsicher",
+"rueckseite": "Du hattest [Option] getippt. Eine Kinderklinik liegt nahe, denn Ordensschwestern verbindet man mit der Pflege von Kindern und Müttern. St. Antonius ist aber ein Haus für Psychiatrie, Psychotherapie und Psychosomatik, dazu akademisches Lehrkrankenhaus der Universität Mainz und Lehrkrankenhaus der Universität Maastricht. Richtig war 3.",
+"quelle": "Klinik-Webseite, www.marienhaus-klinikum.de/abteilungen-zentren-und-fachbereiche/st-antonius-waldbreitbach/klinik-fuer-psychiatrie-psychotherapie-und-psychosomatik",
+"faktencheck": "korrigiert",
 "id": "416-kloster-marienhaus/v0.8/5",
 "tisch": false
 },
@@ -101277,67 +101665,47 @@ window.QA_DATEN = {
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Kloster Marienhaus",
-"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
-"frage": "Wie weit ist Kloster Marienhaus in Luftlinie von der Landeshauptstadt Mainz entfernt?",
+"steckbrief": "Kloster Marienhaus ist ein Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
+"frage": "Waldbreitbach gehört zu Rheinland-Pfalz. Wie weit liegt Kloster Marienhaus in Luftlinie von der Landeshauptstadt Mainz entfernt?",
 "optionen": [
-"unter 50 km",
-"50 bis unter 65 km",
-"65 bis unter 80 km",
+"unter 40 km",
+"40 bis unter 60 km",
+"60 bis unter 80 km",
 "80 km und mehr"
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Koblenz liegt nah, also schätzt man auch Mainz nah; doch Mainz liegt weit rheinaufwärts. Von Kloster Marienhaus sind es 88 km Luftlinie. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Weil Koblenz nur 24 km entfernt liegt, schätzt man auch Mainz gern nah ein. Doch Mainz liegt weit rheinaufwärts: Es sind 88 km Luftlinie. Richtig war 4.",
 "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
 "faktencheck": "bestätigt",
 "id": "416-kloster-marienhaus/v0.8/6",
 "tisch": false
 },
 {
-"familie": "A",
+"familie": "C",
 "sorte": "Geschichte",
 "ort": "Kloster Marienhaus",
-"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
-"frage": "Von 1851 bis 1860 lebte Rosa Flesch an der Kreuzkapelle bei Waldbreitbach. Wie wohnte sie dort?",
+"steckbrief": "Kloster Marienhaus bei Waldbreitbach, 24 km nordwestlich von Koblenz, ist Mutterhaus eines Ordens, der im Jahr 1878 100 Schwestern zählte.",
+"frage": "Wie viele Schwestern zählte der Orden 1906, im Todesjahr seiner Gründerin Rosa Flesch?",
 "optionen": [
-"Sie wohnte in einer Eremitenwohnung an der Kapelle.",
-"Sie wohnte als Magd im Pfarrhaus.",
-"Sie wohnte als Pächterin auf einem Bauernhof.",
-"Sie wohnte als Gast in einem Gasthof."
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 4.000",
+"4.000 und mehr"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Pfarrhaus liegt nahe, weil fromme Frauen oft dem Pfarrer den Haushalt führten. Rosa Flesch lebte aber mit ihrer kranken Schwester Marianne in einer Eremitenwohnung, also einer Einsiedlerklause, an der Kapelle. Richtig war 1.",
-"quelle": "Waldbreitbacher Franziskanerinnen (Biografie Mutter M. Rosa), vatican.va, kuladig.de",
-"faktencheck": "korrigiert",
-"id": "416-kloster-marienhaus/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kloster Marienhaus",
-"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
-"frage": "Pfarrer Jakob Gomm war Rosa Flesch eng verbunden. Wie stand er zu ihrer Ordensgründung?",
-"optionen": [
-"Er verbot ihr die Gründung ausdrücklich.",
-"Er genehmigte sie, aber nur zögerlich.",
-"Er drängte sie selbst zur Gründung.",
-"Er stimmte sofort und begeistert zu."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei einem engen Vertrauten erwartet man Begeisterung. Jakob Gomm, der Pfarrer von Waldbreitbach, genehmigte die Gründung aber nur zögerlich. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, de.wikipedia.org/wiki/Rosa_Flesch",
+"rueckseite": "Du hattest [Option] getippt. Wer weiß, wie schnell manche Orden wuchsen, landet leicht über 1.000. Beim Tod von Rosa Flesch waren es 900 Schwestern in 67 Niederlassungen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln",
 "faktencheck": "unsicher",
-"id": "416-kloster-marienhaus/v0.8/8",
+"id": "416-kloster-marienhaus/v0.8/7",
 "tisch": false
 }
 ],
 "anschluss_von": "415-breitscheid-westerwald",
 "anschluss": [
-"Kloster Marienhaus und Breitscheid liegen beide im Landkreis Neuwied.",
-"Kloster Marienhaus liegt drei Kilometer näher an Koblenz als Breitscheid."
+"Landkreis: Kloster Marienhaus und Breitscheid liegen beide im Landkreis Neuwied.",
+"Kloster Marienhaus liegt Koblenz drei Kilometer näher als Breitscheid."
 ],
 "anschluesse": {
 "47-andernach": [
@@ -101407,8 +101775,8 @@ window.QA_DATEN = {
 "Kreisgrenze: Hausen (Wied) gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
 ],
 "415-breitscheid-westerwald": [
-"Kloster Marienhaus und Breitscheid liegen beide im Landkreis Neuwied.",
-"Kloster Marienhaus liegt drei Kilometer näher an Koblenz als Breitscheid."
+"Landkreis: Kloster Marienhaus und Breitscheid liegen beide im Landkreis Neuwied.",
+"Kloster Marienhaus liegt Koblenz drei Kilometer näher als Breitscheid."
 ]
 },
 "ags": null,

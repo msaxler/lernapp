@@ -60,7 +60,12 @@ FAKT-ID: 161-grosskrotzenburg/007.ursprung
 GEWÄHLTER FAKT: Strandbad Spessartblick, ursprung, Braunkohletagebau bis 1920er Jahre, später Sand- und Kiesabbau. Belege der wahren Aussagen: Aussage 1 aus 029 (Bahnhof Großkrotzenburg, strecke: Frankfurt–Aschaffenburg); Aussage 3 aus 005 (St. Laurentius, baustil: klassizistisch).
 BEKANNTHEIT: niedrig – Wie der Badesee entstanden ist, wissen fast nur Leute aus der Gegend.
 VORDERSEITE:
-Großkrotzenburg / Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main. / Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? / 1. Der Bahnhof liegt an der Strecke Hanau–Aschaffenburg. / 2. Der See am Strandbad war früher ein Mainarm. / 3. Das Museum steht in einem ehemaligen Römerkastell.
+Großkrotzenburg
+Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main.
+Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
+1. Der Bahnhof liegt an der Strecke Hanau–Aschaffenburg.
+2. Der See am Strandbad war früher ein Mainarm.
+3. Das Museum steht in einem ehemaligen Römerkastell.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein See in einem Ort am Main lässt an einen alten Flussarm denken. Doch der See ist ein Tagebausee: Zu Beginn des 20. Jahrhunderts wurde hier Braunkohle abgebaut. Der Bahnhof liegt wirklich an der Strecke Hanau–Aschaffenburg, und das Museum steht in einem ehemaligen Römerkastell. Die Lüge war 2.
 Quelle: HLNUG, badeseen.hlnug.de; Gemeinde Großkrotzenburg, grosskrotzenburg.de
@@ -187,7 +192,13 @@ FAKT-ID: 161-grosskrotzenburg/009.verursacher
 GEWÄHLTER FAKT: Hexenverfolgungen in Großkrotzenburg, verursacher, Erzstift Mainz (zeitraum 1628–1630, opfer_anzahl 90)
 BEKANNTHEIT: niedrig – Die Hexenprozesse kennt man regional, wer sie verantwortete, ist kaum bekannt.
 VORDERSEITE:
-Großkrotzenburg / Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main. / Um 1628 wurden in Großkrotzenburg Menschen in Hexenprozessen verfolgt. Wer war dafür verantwortlich? / 1. Mainz ließ die Prozesse führen. / 2. Württemberg ließ die Prozesse führen. / 3. Sachsen ließ die Prozesse führen. / 4. Die Pfalz ließ die Prozesse führen.
+Großkrotzenburg
+Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main.
+Um 1628 wurden in Großkrotzenburg Menschen in Hexenprozessen verfolgt. Wer war dafür verantwortlich?
+1. Mainz ließ die Prozesse führen.
+2. Württemberg ließ die Prozesse führen.
+3. Sachsen ließ die Prozesse führen.
+4. Die Pfalz ließ die Prozesse führen.
 RÜCKSEITE:
 Du hattest [Option] getippt. Hexenprozesse gab es in vielen Ländern, darum wirkt jeder größere Staat plausibel. Großkrotzenburg gehörte aber über 800 Jahre zu Mainz, und die Prozesse liefen im Kurfürstentum Mainz. Inquisitor war hier Reigersberger, der auch in Aschaffenburg Hexengerichte leitete. Richtig war 1.
 Quelle: Universität Tübingen; Main-Echo, main-echo.de; Gemeinde Großkrotzenburg

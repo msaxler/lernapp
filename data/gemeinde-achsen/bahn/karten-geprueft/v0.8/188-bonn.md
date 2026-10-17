@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Der Bundestag tagte vom 9. September 1986 bis zur Einweihung des neuen Plenarsaals am 30. Oktober 1992 im Pumpenhaus des alten Wasserwerks; einen zweiten Ausweichort nennen die Quellen nicht. Der alte Saal wurde aber 1987 abgerissen und neu gebaut, nicht bloß „umgebaut“. Der Bundesrat hatte einen eigenen Saal und war nicht betroffen, deshalb nennt die Frage jetzt den Bundestag. Die Pädagogische Akademie (eröffnet 1933) ist belegt; die heutige Nutzung als Konferenzzentrum habe ich nicht in einer vertrauenswürdigen Quelle gefunden und deshalb gestrichen.
+FAKTENCHECK: korrigiert – Der Bundestag tagte vom 9. September 1986 bis zur Einweihung des neuen Plenarsaals am 30. Oktober 1992 im Pumpenhaus des alten Wasserwerks; einen zweiten Ausweichort nennen die Quellen nicht. Der alte Saal wurde aber 1987 abgerissen und neu gebaut, nicht bloß „umgebaut“. Der Bundesrat hatte einen eigenen Saal und war nicht betroffen, deshalb nennt die Frage jetzt den Bundestag. Die Pädagogische Akademie (eröffnet 1933) ist belegt; die heutige Nutzung als Konferenzzentrum habe ich nicht in einer vertrauenswürdigen Quelle gefunden und deshalb gestrichen.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 188-bonn/025.interimsnutzung_gebaeude
@@ -14,7 +14,7 @@ Von 1986 bis 1992 wurde der Plenarsaal im Bonner Bundeshaus umgebaut. Wohin wich
 3. Man tagte in einem historischen Wasserwerk.
 4. Man tagte in einem Zelt am Rheinufer.
 RÜCKSEITE:
-Du hattest [Option] getippt. Für ein Parlament denkt man an einen würdigen Saal, etwa in der Universität. Ausgewichen wurde aber in das Pumpenhaus des historischen Wasserwerks. Das Bundeshaus selbst diente ursprünglich als pädagogische Akademie und ist heute ein Konferenzzentrum. Richtig war 3.
+Du hattest [Option] getippt. Für ein Parlament denkt man an einen würdigen Saal, etwa in der Universität. Der Bundestag zog aber in das Pumpenhaus des alten Wasserwerks und tagte dort von 1986 bis 1992. Das Bundeshaus selbst war ursprünglich eine Pädagogische Akademie. Richtig war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Bonn
 WÖRTER RÜCKSEITE: 42
 NEGATIVNACHWEISE:
@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Beethoven wurde in der alten Remigiuskirche getauft. Sie brannte 1800 nach einem Blitzschlag ab; nur das Taufbecken kam in die heutige Remigiuskirche, die frühere Minoritenkirche. „Getauft in der Remigiuskirche“ ist deshalb eine Verschiebung. Die Neunte steht seit 2001 im Weltdokumentenerbe, und Teile ihrer Handschrift liegen in Berlin, Bonn und Paris. Dass die Bonner Blätter selbst ausdrücklich zur Eintragung gehören, habe ich in keiner vertrauenswürdigen Quelle gefunden, deshalb ist die Vorderseite vorsichtiger formuliert. Dass Eroica, „Für Elise“ oder Fidelio eingetragen wären, ist mir nirgends begegnet.
+FAKTENCHECK: korrigiert – Beethoven wurde in der alten Remigiuskirche getauft. Sie brannte 1800 nach einem Blitzschlag ab; nur das Taufbecken kam in die heutige Remigiuskirche, die frühere Minoritenkirche. „Getauft in der Remigiuskirche“ ist deshalb eine Verschiebung. Die Neunte steht seit 2001 im Weltdokumentenerbe, und Teile ihrer Handschrift liegen in Berlin, Bonn und Paris. Dass die Bonner Blätter selbst ausdrücklich zur Eintragung gehören, habe ich in keiner vertrauenswürdigen Quelle gefunden, deshalb ist die Vorderseite vorsichtiger formuliert. Dass Eroica, „Für Elise“ oder Fidelio eingetragen wären, ist mir nirgends begegnet.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 188-bonn/003.weltdokumentenerbe
@@ -119,7 +119,7 @@ Im Beethoven-Haus liegt ein Stück Weltdokumentenerbe. Was ist es?
 3. Es ist ein Teil der handschriftlichen Neunten Sinfonie.
 4. Es ist ein Teil der handschriftlichen Oper „Fidelio“.
 RÜCKSEITE:
-Du hattest [Option] getippt. Jedes dieser Werke ist berühmt genug für einen Platz im Weltgedächtnis. Ausgezeichnet ist aber die Neunte Sinfonie: Ein Teil ihrer Originalhandschrift liegt im Beethoven-Haus und gehört zum Weltdokumentenerbe. Geboren wurde Beethoven in der Bonngasse, getauft in der Remigiuskirche. Richtig war 3.
+Du hattest [Option] getippt. Jedes dieser Werke ist berühmt genug für einen Platz im Weltgedächtnis. Ausgezeichnet ist aber die Neunte Sinfonie: Ihre Originalhandschrift gehört zum Weltdokumentenerbe, einige Blätter davon liegen im Beethoven-Haus. Geboren wurde Beethoven in der Bonngasse; sein Taufbecken steht heute in der Remigiuskirche. Richtig war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Bonn
 WÖRTER RÜCKSEITE: 45
 NEGATIVNACHWEISE:
@@ -185,7 +185,7 @@ PRÜFSTUFE: 2 – der Fakt ist nur in Wikipedia belegt.
 ERFUNDEN: 2, 3, 4
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Das Jahr 2002 ist falsch. Der Lange Eugen wurde am 11. Juli 2006 als erster Teil des UN-Campus an die Bonner UN-Organisationen übergeben und ist sein Mittelpunkt. Die Telekom-Zentrale liegt an anderer Stelle; das habe ich nicht eigens nachgesucht.
+FAKTENCHECK: korrigiert – Das Jahr 2002 ist falsch. Der Lange Eugen wurde am 11. Juli 2006 als erster Teil des UN-Campus an die Bonner UN-Organisationen übergeben und ist sein Mittelpunkt. Die Telekom-Zentrale liegt an anderer Stelle; das habe ich nicht eigens nachgesucht.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 188-bonn/024.funktion_seit_2002
@@ -200,7 +200,7 @@ Der „Lange Eugen“ war einst das Bonner Abgeordnetenhochhaus. Wer nutzt das G
 3. Die Deutsche Post hat dort ihre Hauptverwaltung.
 4. Die Deutsche Telekom hat dort ihre Zentrale.
 RÜCKSEITE:
-Du hattest [Option] getippt. Die Deutsche Post liegt nahe, ihr Post Tower steht direkt neben dem Hochhaus. Seit 2002 nutzen aber die Vereinten Nationen den früheren Abgeordnetenbau; er ist heute das Zentrum des UN-Campus Bonn. Richtig war 2.
+Du hattest [Option] getippt. Die Deutsche Post liegt nahe, ihr Post Tower steht direkt neben dem Hochhaus. Seit 2006 nutzen aber die Vereinten Nationen den früheren Abgeordnetenbau; er ist heute das Zentrum des UN-Campus Bonn. Richtig war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Bonn
 WÖRTER RÜCKSEITE: 38
 NEGATIVNACHWEISE:

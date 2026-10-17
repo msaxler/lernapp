@@ -185,7 +185,7 @@ PRÜFSTUFE: 1 – Alle Aussagen und Namen stammen von der Gemeinde-Webseite; kei
 ERFUNDEN: 1, 3, 4
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Die Grabpyramide und die Erbauer sind belegt. Der QUELLTEXT sagt aber nicht, dass Schaumburger Wald, Jagdschloss oder Pyramide auf Bückeburger Gebiet liegen. Er nennt sie nur als Ziel einer Bückeburger Führung. „Die Grabstätte“ suggeriert zudem eine einzige Grabstätte der Familie. Die berichtigte Frage stützt den Ortsbezug auf die Führung und behauptet keine Gebietszugehörigkeit.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Grabpyramide und die Erbauer sind belegt. Der QUELLTEXT sagt aber nicht, dass Schaumburger Wald, Jagdschloss oder Pyramide auf Bückeburger Gebiet liegen. Er nennt sie nur als Ziel einer Bückeburger Führung. „Die Grabstätte“ suggeriert zudem eine einzige Grabstätte der Familie. Die berichtigte Frage stützt den Ortsbezug auf die Führung und behauptet keine Gebietszugehörigkeit.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 215-bueckeburg/015.besonderheit
@@ -194,8 +194,8 @@ BEKANNTHEIT: niedrig – Die Pyramide ist nur in der Region bekannt.
 VORDERSEITE:
 Bückeburg
 Stadt mit rund 19.000 Einwohnern, 43 km nordöstlich von Bielefeld.
-Eine Bückeburger Führung zum Jagdschloss Baum im Schaumburger Wald besucht auch eine Pyramide. Was ist sie?
-1. Sie ist ein Grabmal der gräflichen Familie.
+Im Schaumburger Wald, wo auch das Jagdschloss Baum liegt, steht eine Pyramide. Was ist sie?
+1. Sie ist die Grabstätte der gräflichen Familie.
 2. Sie ist der alte Eiskeller des Jagdschlosses.
 3. Sie ist ein alter Grenzstein der Grafschaft.
 4. Sie ist ein alter Punkt der Landvermessung.

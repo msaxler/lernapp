@@ -1,125 +1,125 @@
 ## Karte 1
 SORTE: Geschichte
 FAMILIE: A
-FAKT-ID: 416-kloster-marienhaus/008.gründungsgrund
-GEWÄHLTER FAKT: Marienhaus GmbH, gründungsgrund, Bindung des Vermögens des Ordens (gegründet 1903, Träger: Waldbreitbacher Franziskanerinnen)
-BEKANNTHEIT: niedrig – Den Zweck einer Ordens-GmbH von 1903 kennen höchstens Fachleute für Kirchengeschichte.
+FAKT-ID: 416-kloster-marienhaus/011.leistung
+GEWÄHLTER FAKT: Agatha Simons, leistung, Bauherrin des Klosters Marienhaus in seiner heutigen Gestalt (Generaloberin 1878–1905)
+BEKANNTHEIT: niedrig – Agatha Simons kennt außerhalb des Ordens kaum jemand, man denkt eher an die Gründerinnen.
 VORDERSEITE:
 Kloster Marienhaus
-Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.
-1903 gründeten die Waldbreitbacher Franziskanerinnen eine GmbH. Welchen Zweck sollte sie erfüllen?
-1. Sie sollte Ordensbesitz rasch zu Geld machen.
-2. Sie sollte Gewinne für das Bistum erwirtschaften.
-3. Sie sollte das Vermögen des Ordens binden.
-4. Sie sollte ein Kurhotel für Gäste betreiben.
+Kloster Marienhaus ist ein Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.
+Wer ließ das Kloster Marienhaus in seiner heutigen Gestalt bauen?
+1. Die Mitgründerin Maria Bonner.
+2. Der Waldbreitbacher Pfarrer Jakob Gomm.
+3. Die Generaloberin Agatha Simons.
+4. Der Trierer Bischof Matthias Eberhard.
 RÜCKSEITE:
-Du hattest [Option] getippt. Bei einer Firma denkt man zuerst an Gewinn, deshalb liegt das Geldverdienen nahe. Die Schwestern gründeten sie aber, um das Vermögen des Ordens zu binden. Die GmbH betrieb soziale Einrichtungen wie Krankenhäuser, Altenheime und Hospize. Richtig war 3.
-Quelle: Gemeinde-Webseite, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln
-WÖRTER RÜCKSEITE: 42
+Du hattest [Option] getippt. Eine Mitgründerin wie Maria Bonner liegt nahe, denn wer einen Orden gründet, baut oft auch sein Haus. Die heutige Gestalt des Klosters geht aber auf Agatha Simons zurück. Sie leitete den Orden als Generaloberin nach Rosa Flesch. Richtig war 3.
+Quelle: Wikipedia, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln
+WÖRTER RÜCKSEITE: 44
 NEGATIVNACHWEISE:
-1: Weg (c). FAKTEN nennen genau einen Gründungsgrund: „Bindung des Vermögens des Ordens“. Die Option sagt das Gegenteil (Besitz flüssig machen statt binden).
-2: Weg (c). Es gibt genau einen belegten Gründungsgrund (008.gründungsgrund). Gewinne für das Bistum sind frei erfunden.
-4: Weg (c). Es gibt genau einen belegten Gründungsgrund (008.gründungsgrund). Ein Kurhotel ist frei erfunden; laut 008.betreibt führte die GmbH soziale Einrichtungen.
-PRÜFHINWEIS: Die Optionen 1, 2 und 4 sind erfunden. Bitte prüfen, dass keine davon eine belegte Mitursache war. Die Quelle ist als Gemeinde-Webseite markiert, die Adresse ist aber Wikipedia.
-PRÜFSTUFE: 2 – Die Adresse der Quelle ist ein Wikipedia-Artikel, auch wenn die Art „Gemeinde-Webseite“ lautet.
-ERFUNDEN: 1, 2, 4
+1: Weg (a). 011 nennt genau eine Bauherrin der heutigen Gestalt, Agatha Simons; Maria Bonner ist nach 003 Mitgründerin.
+2: Weg (a). 011 wie oben; Jakob Gomm ist nach 012 Pfarrer von Waldbreitbach.
+4: Weg (a). 011 wie oben; Matthias Eberhard hat nach 003 die Ordensregel bestätigt.
+PRÜFHINWEIS: Prüfen, ob Bonner, Gomm oder Eberhard an früheren Bauabschnitten beteiligt waren (Regel 4, anderer Zeitpunkt). Die Rosa Flesch zugeschriebene erste Bebauung von 1861 (006) ist deshalb bewusst keine Option. „Nach Rosa Flesch“ ist aus den Amtszeiten abgeleitet (002: 1869–1878, 011: ab 1878).
+PRÜFSTUFE: 2 – Die Quelle ist laut Adresse ein Wikipedia-Artikel, obwohl als Art „Gemeinde-Webseite“ angegeben ist.
+ERFUNDEN: keine
 
 ## Karte 2
 SORTE: Geschichte
 FAMILIE: A
-FAKT-ID: 416-kloster-marienhaus/012.erwerb_bedingung
-GEWÄHLTER FAKT: Kapellenberg, erwerb_bedingung, felsiges Land zu günstigem Preis (erwerb_jahr 1857, erwerber Rosa Flesch, erste_bebauung 1861: einfaches Wohnhaus mit Krankentrakt, heute Standort des Klosters Marienhaus)
-BEKANNTHEIT: niedrig – Wie das Gelände erworben wurde, ist nur aus der Ordensgeschichte bekannt.
+FAKT-ID: 416-kloster-marienhaus/008.ursprünglicher_zweck
+GEWÄHLTER FAKT: Westerwaldklinik, ursprünglicher_zweck, Sanatorium für Tuberkulosebehandlung (Anfang 20. Jahrhundert)
+BEKANNTHEIT: niedrig – Die Klinik ist regional bekannt, ihre Herkunft als Tuberkulose-Sanatorium kaum.
 VORDERSEITE:
 Kloster Marienhaus
-Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.
-1857 erwarb Rosa Flesch Land auf dem Kapellenberg, wo heute das Kloster steht. Wie kam sie daran?
-1. Ein Adliger schenkte ihr das Grundstück.
-2. Sie erbte es von ihrem Vater.
-3. Sie kaufte einen bereits bebauten Hof.
-4. Sie kaufte felsiges Land zu günstigem Preis.
+Kloster Marienhaus ist ein Ortsteil von Waldbreitbach, 24 km nordwestlich von Koblenz.
+Waldbreitbach ist Luftkurort. Wofür entstand die heutige Westerwaldklinik Anfang des 20. Jahrhunderts?
+1. Sie entstand als Kurhotel für Sommergäste.
+2. Sie entstand als Jagdschloss eines Adelshauses.
+3. Sie entstand als Waisenhaus der Franziskanerinnen.
+4. Sie entstand als Sanatorium für Tuberkulosekranke.
 RÜCKSEITE:
-Du hattest [Option] getippt. Eine Schenkung liegt nahe, denn viele Klöster entstanden auf gestiftetem Grund. Rosa Flesch kaufte aber felsiges Land zu günstigem Preis. Darauf entstand zuerst ein einfaches Wohnhaus mit Krankentrakt. Richtig war 4.
-Quelle: Gemeinde-Webseite, de.wikipedia.org/wiki/Rosa_Flesch
-WÖRTER RÜCKSEITE: 35
+Du hattest [Option] getippt. Ein Kurhotel liegt nahe, denn Luftkurorte lockten Sommergäste mit frischer Waldluft. Gute Luft suchten aber auch Lungenheilstätten: Das Haus begann als Sanatorium zur Behandlung der Tuberkulose, früher getragen von der Landesversicherungsanstalt Rheinprovinz. Heute ist es eine Klinik für neurologische Rehabilitation. Richtig war 4.
+Quelle: Klinik-Webseite, www.westerwaldklinik.de/die-klinik/historie.html
+WÖRTER RÜCKSEITE: 47
 NEGATIVNACHWEISE:
-1: Weg (a). 012.erwerb_bedingung nennt einen Erwerb „zu günstigem Preis“, also einen Kauf und keine Schenkung.
-2: Weg (a). 012.erwerb_bedingung nennt einen Erwerb „zu günstigem Preis“, also einen Kauf und kein Erbe.
-3: Weg (a). 012.erste_bebauung: Das erste Gebäude entstand erst 1861, das Land war beim Erwerb 1857 also unbebaut.
-PRÜFHINWEIS: Bitte prüfen, ob „Erwerb zu günstigem Preis“ in der Quelle eindeutig einen Kauf meint. Die Quelle ist als Gemeinde-Webseite markiert, die Adresse ist aber Wikipedia.
-PRÜFSTUFE: 2 – Die Adresse der Quelle ist ein Wikipedia-Artikel.
-ERFUNDEN: keine
+1: Weg (c). 008 nennt genau einen ursprünglichen Zweck, das Sanatorium für Tuberkulosebehandlung.
+2: Weg (c). Wie oben.
+3: Weg (c). Wie oben.
+PRÜFHINWEIS: Die Optionen 1–3 sind erfunden. Bitte prüfen, ob das Haus später einmal Hotel oder Waisenhaus war (Regel 4, anderer Zeitpunkt). „LVA“ ist auf der Rückseite zu „Landesversicherungsanstalt“ ausgeschrieben. Ob das Prädikat Luftkurort noch gilt, steht nur in der Klinikquelle (008, 020).
+PRÜFSTUFE: 2 – Die Art ist als „Gemeinde-Webseite“ angegeben, die Adresse ist aber die eigene Webseite der Klinik.
+ERFUNDEN: 1, 2, 3
 
 ## Karte 3
 SORTE: Geschichte
 FAMILIE: B
-FAKT-ID: 416-kloster-marienhaus/003.erste_ordensregel_bestätiger
-GEWÄHLTER FAKT: Waldbreitbacher Franziskanerinnen, erste_ordensregel_bestätiger, Matthias Eberhard, Bischof von Trier (erste_ordensregel_bestätigung 16.9.1869). Beleg für Aussage 1: 003.gründungsdatum 13.3.1863 und 003.gründerinnen Rosa Flesch, Maria Bonner, Gertrud Beißel. Beleg für Aussage 3: 003.päpstliche_approbation 12.12.1912 durch Papst Pius X.
-BEKANNTHEIT: niedrig – Wer die Regel bestätigt hat und wann der Papst den Orden anerkannte, ist Spezialwissen.
+FAKT-ID: 416-kloster-marienhaus/002.seligsprechungsort
+GEWÄHLTER FAKT: Rosa Flesch, seligsprechungsort, Trierer Dom (seliggesprochen 4. Mai 2008). Belege der wahren Aussagen: 1 → 002, vater: Johann Georg Flesch (Ölmüller); 3 → 005, Kreuzkapelle mit zwei Eremitenwohnungen, 1851–1860 Wohnort von Rosa Flesch, Erstwohnung mit ihrer Schwester.
+BEKANNTHEIT: mittel – Die Seligsprechung 2008 fand regional Beachtung; der Ort der Feier ist weniger bekannt.
 VORDERSEITE:
 Kloster Marienhaus
-Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.
-Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-1. 1863 gründeten drei Frauen die Waldbreitbacher Franziskanerinnen.
-2. 1869 bestätigte Papst Pius X. die erste Ordensregel.
-3. 1912 erkannte Papst Pius X. den Orden an.
+Kloster Marienhaus ist ein Ortsteil von Waldbreitbach, 24 km nordwestlich von Koblenz.
+Das Kloster ist Mutterhaus des von Rosa Flesch gegründeten Ordens. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
+1. Rosa Flesch war die Tochter eines Ölmüllers.
+2. Rosa Flesch wurde in Rom seliggesprochen.
+3. Rosa Flesch lebte jahrelang in einer Eremitenwohnung.
 RÜCKSEITE:
-Du hattest [Option] getippt. Wer zwei Aussagen mit demselben Papst sieht, ahnt den Haken: Pius X. erkannte den Orden 1912 an. Die erste Ordensregel bestätigte 1869 dagegen Matthias Eberhard, der Bischof von Trier. Die Lüge war 2.
-Quelle: Gemeinde-Webseite, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln
-WÖRTER RÜCKSEITE: 37
+Du hattest [Option] getippt. Die Eremitenwohnung klingt erfunden, doch Rosa Flesch lebte tatsächlich jahrelang in einer solchen Einsiedlerwohnung an der Kreuzkapelle, zusammen mit ihrer Schwester. Auch der Vater als Ölmüller stimmt. Gelogen ist Rom: Seliggesprochen wurde sie im Trierer Dom. Die Lüge war 2.
+Quelle: Wikipedia, de.wikipedia.org/wiki/Rosa_Flesch
+WÖRTER RÜCKSEITE: 44
 NEGATIVNACHWEISE:
-2: Weg (a). Laut 003.erste_ordensregel_bestätiger hat Bischof Matthias Eberhard von Trier die erste Regel bestätigt, nicht der Papst. Pius X. erscheint nur bei der Approbation 1912.
-PRÜFHINWEIS: Bitte prüfen, ob „erkannte an“ die päpstliche Approbation richtig wiedergibt und ob „Orden“ für die Kongregation unbedenklich ist. Aus Allgemeinwissen lässt sich folgern, dass 1869 Pius IX. Papst war.
-PRÜFSTUFE: 2 – Die Adresse der Quelle ist ein Wikipedia-Artikel, und die Rückseite nennt zwei Jahreszahlen.
+2: Weg (a). 002 nennt als Ort der Seligsprechung den Trierer Dom.
+PRÜFHINWEIS: Aus Allgemeinwissen lässt sich die Lüge erschließen, weil Seligsprechungen heute meist vor Ort gefeiert werden. „Jahrelang“ ist aus 005 abgeleitet (1851–1860). Laut 005 war die Kapelle die Erstwohnung von Rosa und ihrer Schwester; ob die Schwester die ganze Zeit dort wohnte, steht nicht da, die Karte behauptet es auch nicht.
+PRÜFSTUFE: 2 – Alle Aussagen stammen aus Wikipedia (Adresse), obwohl als Art „Gemeinde-Webseite“ angegeben ist.
 ERFUNDEN: keine
 
 ## Karte 4
 SORTE: Geschichte
 FAMILIE: B
-FAKT-ID: 416-kloster-marienhaus/002.taufname
-GEWÄHLTER FAKT: Rosa Flesch, taufname, Margaretha Flesch (ordensname: Maria Rosa). Beleg für Aussage 1: 002.seligsprechung_ort Trierer Dom. Beleg für Aussage 2: 002.vater_beruf Ölmüller.
-BEKANNTHEIT: mittel – Die Seligsprechung 2008 war in der Region ein Ereignis, der Taufname ist kaum bekannt.
+FAKT-ID: 416-kloster-marienhaus/001.gründung
+GEWÄHLTER FAKT: Kloster Marienhaus, gründung, 1863, gegründet von Rosa Flesch mit Maria Bonner und Gertrud Beißel. Belege der wahren Aussagen: 1 → 012, Pfarrer Jakob Gomm (Waldbreitbach seit 1850): „Zögerlich gewährte Genehmigung zur Ordensgründung“; 2 → 014, Glasfenster in der Waldbreitbacher Pfarrkirche zeigt Mutter Rosa im Zug der Ordensleute.
+BEKANNTHEIT: niedrig – Gründungsgeschichte und Kirchenfenster kennen fast nur Leute aus der Gegend.
 VORDERSEITE:
 Kloster Marienhaus
-Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.
+Kloster Marienhaus ist ein Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-1. Rosa Flesch wurde im Trierer Dom seliggesprochen.
-2. Der Vater von Rosa Flesch war Ölmüller.
-3. Rosa Flesch wurde auf den Namen Rosa getauft.
+1. Der Ortspfarrer genehmigte die Ordensgründung nur zögerlich.
+2. Ein Fenster der Waldbreitbacher Pfarrkirche zeigt Rosa Flesch.
+3. Mönche gründeten das Kloster schon im Mittelalter.
 RÜCKSEITE:
-Du hattest [Option] getippt. Der Ölmüller klingt am ungewöhnlichsten, stimmt aber. Getauft wurde sie als Margaretha Flesch; Maria Rosa war ihr Ordensname, wie ihn Ordensfrauen beim Eintritt annehmen. Seliggesprochen wurde sie im Trierer Dom. Die Lüge war 3.
-Quelle: Gemeinde-Webseite, de.wikipedia.org/wiki/Rosa_Flesch
-WÖRTER RÜCKSEITE: 38
+Du hattest [Option] getippt. Ein Kloster auf dem Berg wirkt mittelalterlich, und das Fenster klingt nach Ausschmückung. Doch es zeigt Mutter Rosa im Zug der Ordensleute, und auch der zögerliche Pfarrer stimmt. Gegründet haben das Kloster keine Mönche, sondern Rosa Flesch mit zwei Gefährtinnen, im Jahr 1863. Die Lüge war 3.
+Quelle: Wikipedia, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln
+WÖRTER RÜCKSEITE: 51
 NEGATIVNACHWEISE:
-3: Weg (a). 002.taufname: Margaretha Flesch. „Rosa“ ist Teil des Ordensnamens Maria Rosa.
-PRÜFHINWEIS: Die Lüge lässt sich aus Allgemeinwissen folgern, weil Ordensfrauen beim Eintritt einen neuen Namen annehmen. Bitte prüfen, ob der Halbsatz dazu als Erläuterung zulässig ist.
-PRÜFSTUFE: 2 – Die Adresse der Quelle ist ein Wikipedia-Artikel.
+3: Weg (a). 001: gegründet 1863 von Rosa Flesch mit zwei Gefährtinnen. 006: Kapellenberg 1857 erworben, erste Bebauung 1861.
+PRÜFHINWEIS: Prüfen, dass auf dem Kapellenberg kein mittelalterlicher Vorgängerbau stand. Bei der Kreuzkapelle mit ihren Eremitenwohnungen (005) ist das Alter unbekannt; die Lüge spricht aber vom Kloster. „Ortspfarrer“ steht für den Pfarrer von Waldbreitbach (012). Das Jahr 1863 steht als Erklärung auf der Rückseite.
+PRÜFSTUFE: 2 – Die Quellen sind Wikipedia (Adresse), und auf der Rückseite steht eine Jahreszahl.
 ERFUNDEN: keine
 
 ## Karte 5
 SORTE: Geschichte
 FAMILIE: A
-FAKT-ID: 416-kloster-marienhaus/007.leistung
-GEWÄHLTER FAKT: Agatha Simons, leistung, Bauherrin des Klosters Marienhaus in seiner heutigen Gestalt (Generaloberin 1878–1905, Vorgängerin Rosa Flesch)
-BEKANNTHEIT: niedrig – Den Namen der Bauherrin kennt außerhalb des Ordens kaum jemand.
+FAKT-ID: 416-kloster-marienhaus/007.spezialisierung
+GEWÄHLTER FAKT: Marienhaus Klinikum St. Antonius (Waldbreitbach), spezialisierung, Psychiatrie, Psychotherapie, Psychosomatik; Träger: Marienhaus Stiftung (Orden der Franziskanerinnen)
+BEKANNTHEIT: niedrig – Außerhalb der Region kennt man das Haus kaum, und sein Fachgebiet ergibt sich nicht aus dem Namen.
 VORDERSEITE:
 Kloster Marienhaus
-Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.
-Wer ließ das Kloster Marienhaus in seiner heutigen Gestalt bauen?
-1. Bischof Matthias Eberhard von Trier ließ es bauen.
-2. Die Gründerin Rosa Flesch ließ es so bauen.
-3. Generaloberin Agatha Simons ließ es so bauen.
-4. Mitgründerin Maria Bonner ließ es so bauen.
+Kloster Marienhaus ist ein Ortsteil von Waldbreitbach, 24 km nordwestlich von Koblenz.
+Träger des Marienhaus Klinikums St. Antonius in Waldbreitbach ist die Stiftung der Franziskanerinnen. Worauf ist es spezialisiert?
+1. Es ist eine Klinik für Orthopädie und Unfallchirurgie.
+2. Es ist eine Kinderklinik mit eigener Geburtsstation.
+3. Es ist eine Klinik für Psychiatrie und Psychosomatik.
+4. Es ist eine Fachklinik für Herzkrankheiten.
 RÜCKSEITE:
-Du hattest [Option] getippt. Die Gründerin liegt nahe, denn Rosa Flesch hatte den Orden gegründet. Die heutige Gestalt gab dem Kloster aber ihre Nachfolgerin als Generaloberin, also Leiterin des Ordens, Agatha Simons. Richtig war 3.
-Quelle: Gemeinde-Webseite, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln
-WÖRTER RÜCKSEITE: 35
+Du hattest [Option] getippt. Eine Kinderklinik liegt nahe, denn Ordensschwestern verbindet man mit der Pflege von Kindern und Müttern. St. Antonius ist aber ein Haus für Psychiatrie, Psychotherapie und Psychosomatik, dazu akademisches Lehrkrankenhaus der Johannes Gutenberg-Universität und der Universität Maastricht. Richtig war 3.
+Quelle: Klinik-Webseite, www.marienhaus-klinikum.de/abteilungen-zentren-und-fachbereiche/st-antonius-waldbreitbach/klinik-fuer-psychiatrie-psychotherapie-und-psychosomatik
+WÖRTER RÜCKSEITE: 43
 NEGATIVNACHWEISE:
-1: Weg (a). Laut 007.leistung und 001.baugestaltung_durch war Agatha Simons die Bauherrin der heutigen Gestalt.
-2: Weg (a). Laut 007.leistung und 001.baugestaltung_durch war Agatha Simons die Bauherrin. Rosa Flesch war ihre Vorgängerin (007.vorgängerin).
-4: Weg (a). Laut 007.leistung und 001.baugestaltung_durch war Agatha Simons die Bauherrin, nicht Maria Bonner.
-PRÜFHINWEIS: Bitte prüfen, ob Rosa Flesch nicht doch an Teilen der heutigen Anlage als Bauherrin beteiligt war. Die Frage zielt ausdrücklich auf die „heutige Gestalt“.
-PRÜFSTUFE: 2 – Die Adresse der Quelle ist ein Wikipedia-Artikel.
+1: Weg (a). 007 nennt als Spezialisierung Psychiatrie, Psychotherapie und Psychosomatik.
+2: Weg (a). Wie oben.
+4: Weg (a). Wie oben.
+PRÜFHINWEIS: Die Quelle ist eine Abteilungsseite. Bitte prüfen, dass St. Antonius keine Orthopädie, Kinderheilkunde oder Kardiologie führt. Fachgebiet und Status als Lehrkrankenhaus sind aktueller Stand und können sich ändern (Regel 1, Angebot eines Betriebs).
+PRÜFSTUFE: 2 – Die Art ist als „Gemeinde-Webseite“ angegeben, die Adresse ist aber die Webseite des Klinikträgers. Dazu kommt ein aktueller, veränderlicher Status.
 ERFUNDEN: keine
 
 ## Karte 6
@@ -127,93 +127,67 @@ SORTE: Klassiker
 FAMILIE: C
 FAKT-ID: GRUNDDATEN.km_landeshauptstadt
 GEWÄHLTER FAKT: km_landeshauptstadt: Mainz, 88 km Luftlinie
-BEKANNTHEIT: niedrig – Man muss die Entfernung schätzen, wissen kann man sie kaum.
+BEKANNTHEIT: niedrig – Die Entfernung muss man schätzen; die Nähe zu Koblenz verleitet zum Unterschätzen.
 VORDERSEITE:
 Kloster Marienhaus
-Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.
-Wie weit ist Kloster Marienhaus in Luftlinie von der Landeshauptstadt Mainz entfernt?
-1. unter 50 km
-2. 50 bis unter 65 km
-3. 65 bis unter 80 km
+Kloster Marienhaus ist ein Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.
+Waldbreitbach gehört zu Rheinland-Pfalz. Wie weit liegt Kloster Marienhaus in Luftlinie von der Landeshauptstadt Mainz entfernt?
+1. unter 40 km
+2. 40 bis unter 60 km
+3. 60 bis unter 80 km
 4. 80 km und mehr
 RÜCKSEITE:
-Du hattest [Option] getippt. Koblenz liegt nah, also schätzt man auch Mainz nah; doch Mainz liegt weit rheinaufwärts. Von Kloster Marienhaus sind es 88 km Luftlinie. Richtig war 4.
+Du hattest [Option] getippt. Weil Koblenz nur 24 km entfernt liegt, schätzt man auch Mainz gern nah ein. Doch Mainz liegt weit rheinaufwärts: Es sind 88 km Luftlinie. Richtig war 4.
 Quelle: berechnet aus Koordinaten (Wikidata, staedte.json)
-WÖRTER RÜCKSEITE: 29
+WÖRTER RÜCKSEITE: 31
 NEGATIVNACHWEISE:
-1: Weg (a). GRUNDDATEN.km_landeshauptstadt: 88 km
-2: Weg (a). GRUNDDATEN.km_landeshauptstadt: 88 km
-3: Weg (a). GRUNDDATEN.km_landeshauptstadt: 88 km
-PRÜFHINWEIS: Die wahre Spanne ist nach oben offen. Bitte prüfen, ob das zulässig ist.
+1: Weg (a). In GRUNDDATEN ist km_landeshauptstadt mit genau einem Wert belegt: 88 km.
+2: Weg (a). Wie oben.
+3: Weg (a). Wie oben.
+PRÜFHINWEIS: Das Bundesland gilt laut Vermerk für die Gemeinde Waldbreitbach; die Frage sagt das so.
 PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 7
 SORTE: Geschichte
-FAMILIE: A
-FAKT-ID: 416-kloster-marienhaus/004.wohnungstyp
-GEWÄHLTER FAKT: Kreuzkapelle, wohnungstyp, Eremitenwohnungen (rosa_flesch_einzug 1851, rosa_flesch_auszug 1860, rosa_flesch_mitbewohner Schwester Maria Anna, standort zwischen Waldbreitbach und Hausen an der Wied)
-BEKANNTHEIT: niedrig – Rosa Fleschs Jahre an der Kreuzkapelle sind nur der Ordensgeschichte bekannt.
+FAMILIE: C
+FAKT-ID: 416-kloster-marienhaus/003.schwesternzahl_1906
+GEWÄHLTER FAKT: Franziskanerinnen von der allerseligsten Jungfrau Maria von den Engeln, schwesternzahl_1906, 900 in 67 Niederlassungen (Anhalt: schwesternzahl_1878: 100 in 21 Filialen)
+BEKANNTHEIT: niedrig – Mitgliederzahlen von Orden um 1900 kennt praktisch niemand.
 VORDERSEITE:
 Kloster Marienhaus
-Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.
-Von 1851 bis 1860 lebte Rosa Flesch an der Kreuzkapelle bei Waldbreitbach. Wie wohnte sie dort?
-1. Sie wohnte in einer Eremitenwohnung an der Kapelle.
-2. Sie wohnte als Magd im Pfarrhaus.
-3. Sie wohnte als Pächterin auf einem Bauernhof.
-4. Sie wohnte als Gast in einem Gasthof.
+Kloster Marienhaus bei Waldbreitbach, 24 km nordwestlich von Koblenz, ist Mutterhaus eines Ordens, der im Jahr 1878 100 Schwestern zählte.
+Wie viele Schwestern zählte der Orden 1906, im Todesjahr seiner Gründerin Rosa Flesch?
+1. unter 1.000
+2. 1.000 bis unter 2.000
+3. 2.000 bis unter 4.000
+4. 4.000 und mehr
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Pfarrhaus liegt nahe, weil fromme Frauen oft dem Pfarrer den Haushalt führten. Rosa Flesch lebte aber mit Schwester Maria Anna in einer Eremitenwohnung, also einer Einsiedlerwohnung, an der Kapelle. Richtig war 1.
-Quelle: Gemeinde-Webseite, de.wikipedia.org/wiki/Rosa_Flesch
-WÖRTER RÜCKSEITE: 37
+Du hattest [Option] getippt. Wer weiß, wie schnell manche Orden wuchsen, landet leicht über 1.000. Beim Tod von Rosa Flesch waren es 900 Schwestern in 67 Niederlassungen. Richtig war 1.
+Quelle: Wikipedia, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln
+WÖRTER RÜCKSEITE: 30
 NEGATIVNACHWEISE:
-2: Weg (c). FAKTEN nennen für 1851–1860 genau eine Unterkunft, die Eremitenwohnung an der Kreuzkapelle. Das Pfarrhaus ist frei erfunden.
-3: Weg (c). Es gibt genau eine belegte Unterkunft (004.wohnungstyp). Der Bauernhof ist frei erfunden.
-4: Weg (c). Es gibt genau eine belegte Unterkunft (004.wohnungstyp). Der Gasthof ist frei erfunden.
-PRÜFHINWEIS: Bitte prüfen, dass Rosa Flesch in diesen Jahren nicht zeitweise im Pfarrhaus wohnte oder arbeitete; Pfarrer Gomm war ihr eng verbunden. Die Mühle des Vaters wurde bewusst nicht als falsche Option genommen, weil sie dort vorher lebte. Die Kreuzkapelle liegt zwischen Waldbreitbach und Hausen (Wied), einem Ort der FAHRT; der Fakt erzählt aber nicht überwiegend von Hausen.
-PRÜFSTUFE: 2 – Die Adresse der Quelle ist ein Wikipedia-Artikel, und die Frage nennt zwei Jahreszahlen.
-ERFUNDEN: 2, 3, 4
-
-## Karte 8
-SORTE: Geschichte
-FAMILIE: A
-FAKT-ID: 416-kloster-marienhaus/010.rolle
-GEWÄHLTER FAKT: Jakob Gomm, rolle, zögerliche Genehmigung der Ordensgründung (beruf: Pfarrer von Waldbreitbach, verbindung_rosa_flesch: eng verbunden, haltung_initial: zögerlich)
-BEKANNTHEIT: niedrig – Die Haltung des Ortspfarrers kennt nur, wer die Gründungsgeschichte kennt.
-VORDERSEITE:
-Kloster Marienhaus
-Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.
-Pfarrer Jakob Gomm war Rosa Flesch eng verbunden. Wie stand er zu ihrer Ordensgründung?
-1. Er verbot ihr die Gründung ausdrücklich.
-2. Er genehmigte sie, aber nur zögerlich.
-3. Er drängte sie selbst zur Gründung.
-4. Er stimmte sofort und begeistert zu.
-RÜCKSEITE:
-Du hattest [Option] getippt. Bei einem engen Vertrauten erwartet man Begeisterung. Jakob Gomm, der Pfarrer von Waldbreitbach, genehmigte die Gründung aber nur zögerlich. Richtig war 2.
-Quelle: Gemeinde-Webseite, de.wikipedia.org/wiki/Rosa_Flesch
-WÖRTER RÜCKSEITE: 26
-NEGATIVNACHWEISE:
-1: Weg (a). 010.rolle: Er hat die Gründung genehmigt, also nicht verboten.
-3: Weg (a). 010.haltung_initial: zögerlich. Das widerspricht dem Drängen.
-4: Weg (a). 010.haltung_initial: zögerlich. Das widerspricht einer sofortigen, begeisterten Zustimmung.
-PRÜFHINWEIS: Das Extraktionsvertrauen liegt bei 0,85. Bitte prüfen, ob die Quelle wirklich „zögerlich genehmigt“ sagt und nicht etwa eine anfängliche Ablehnung.
-PRÜFSTUFE: 2 – Die Adresse der Quelle ist ein Wikipedia-Artikel.
+2: Weg (a). 003 belegt für 1906 genau einen Wert: 900 Schwestern.
+3: Weg (a). Wie oben.
+4: Weg (a). Wie oben.
+PRÜFHINWEIS: Den Anhalt zum Schätzen (100 Schwestern 1878) gibt der Steckbrief nach Regel 6. Das Todesjahr 1906 stammt aus 002. „67 Niederlassungen“ ist eine weitere Zahl auf der Rückseite.
+PRÜFSTUFE: 2 – Die Quelle ist Wikipedia (Adresse), und auf der Rückseite steht eine weitere Zahl.
 ERFUNDEN: keine
 
 ## ORTS-ANSCHLUSS
-Kloster Marienhaus und Breitscheid liegen beide im Landkreis Neuwied.
-Kloster Marienhaus liegt drei Kilometer näher an Koblenz als Breitscheid.
+Landkreis: Kloster Marienhaus und Breitscheid liegen beide im Landkreis Neuwied.
+Kloster Marienhaus liegt Koblenz drei Kilometer näher als Breitscheid.
 
 ## NICHT VERWENDET
-- 416-kloster-marienhaus/011 (Konrad Probst, manipulierte Wahl 1881): Die Daten passen nicht zusammen. Rosa Flesch war laut 002 und 007 schon ab 1878 nicht mehr Generaloberin, und der Fakt ist stark wertend.
-- 416-kloster-marienhaus/003 (Ausbreitung in die USA 1923, die Niederlande 1931, Brasilien 1958): Ein vierter, falscher Zielort ließe sich nicht nachweislich widerlegen. Fakt 003 trägt außerdem schon Karte 3.
-- 416-kloster-marienhaus/005 (Fleschmühle, abgerissen 1878, weil niemand der Familie mehr dort lebte): Der Fakt erzählt überwiegend von Niederbreitbach, einem Ort der FAHRT.
+- 416-kloster-marienhaus/018 (lebensgroße Mutter-Rosa-Plastik im Trierer Dom): Karte 3 spielt schon mit der Seligsprechung im Trierer Dom; eine zweite Karte dazu wäre zu nah dran.
+- 416-kloster-marienhaus/004 und /019 (Fleschmühle, Gedenkkapelle der 72-Stunden-Aktion): Beide erzählen überwiegend von Niederbreitbach, und Niederbreitbach gehört zur FAHRT (Regel 4).
+- 416-kloster-marienhaus/013 (Ölgemälde von Octavie de Lasalle, 1866): Es ist nur „älteste bekannte“ Darstellung, also ein Superlativ mit Vorbehalt, und regt kaum eine Theorie an.
 
 ## UNGEREGELT
-- **Quellenart passt nicht zur Adresse:** Fast alle QUELLE-Zeilen nennen die Art „Gemeinde-Webseite“, die Adressen sind aber Wikipedia (bei 005 kuladig.de, bei 006 kliniken.de). In die Quellenzeile habe ich Art und Adresse wie vorgegeben übernommen. Für die Prüfstufe habe ich die Adresse zugrunde gelegt, deshalb haben alle Geschichten-Karten PRÜFSTUFE 2. Bitte prüfen, ob die Kennzeichnung „Gemeinde-Webseite“ auf den Karten stehen bleiben darf.
-- **Keine Einwohnerzahl:** GRUNDDATEN nennen keine Einwohnerzahl. Der Steckbrief kommt deshalb ohne sie aus und nennt stattdessen Gemeinde und Landkreis.
-- **Ortsteil statt Stadtteil:** LAGE nennt „Stadtteil von Waldbreitbach“. Waldbreitbach ist eine Gemeinde, deshalb steht im Steckbrief „Ortsteil“, wie in der Zeile ZIELORT.
-- **Familie von Karte 7:** Der PLAN ließ A, B oder C offen. Ich habe A gewählt, weil keine Zahl aus FAKTEN einen Anhalt zum Schätzen im Steckbrief hat (Regel 6).
-- **Zusatzkarten:** Nur Karte 8 ist entstanden. Für 9 und 10 reichte kein weiterer Fakt, der alle Regeln erfüllt: 013, 014 und 015 rufen keine Theorie hervor; 006 und 009 enthalten Angaben eines Betriebs, die sich ändern können.
-- **Klinikum (006):** Bettenzahl, Fallzahlen und Lehrkrankenhaus-Status sind Angaben eines Betriebs, die sich ändern können. Der Fakt trägt deshalb keine Karte, zumal Mainz ein Ort der FAHRT ist.
-- **Rosa Fleschs Geburtsort:** Den Geburtsort (Schönstatt bei Vallendar) habe ich nicht verwendet, weil Vallendar ein Ort der FAHRT ist.
+- Bei allen Fakten steht als Art „Gemeinde-Webseite“, die Adressen sind aber Wikipedia, kuladig und Webseiten von Kliniken. Damit die Spielenden keine falsche Herkunft lesen, habe ich in den Quellenzeilen die Art nach der Adresse angegeben („Wikipedia“, „Klinik-Webseite“). Alle Geschichten-Karten haben deshalb PRÜFSTUFE 2.
+- Die GRUNDDATEN enthalten keine Einwohnerzahl. Die Steckbriefe nennen deshalb nur die Lage. LAGE sagt „Stadtteil“, ZIELORT sagt „Ortsteil“; ich habe „Ortsteil“ verwendet.
+- Mikes Wunsch nach zwei Klinikkarten ist mit Karte 2 (Westerwaldklinik) und Karte 5 (St. Antonius) erfüllt. Das heutige Fachgebiet von St. Antonius ist ein Angebot eines Betriebs (Regel 1). Ich habe es wegen des ausdrücklichen Wunschs trotzdem als Auflösung genommen und im Prüfhinweis markiert.
+- Für Karte 7 hat der PLAN „A, B oder C“ freigestellt. Ich habe C gewählt, mit der Schwesternzahl 1878 als Anhalt im Steckbrief.
+- Zusatzkarten habe ich nicht geschrieben. Die übrigen Fakten sind Kunstwerke mit schwacher Theorie, betreffen Orte der FAHRT (Niederbreitbach, Koblenz, Vallendar) oder liegen thematisch zu nah an den Karten 3 und 4.
+- Zwei Fakten habe ich nicht verwendet: das ORTSTEIL_BEZUG „Glockscheid“ in 001 ist unklar, und 020 (Waldbreitbach, Luftkurort, aus einer Klinikquelle) dient nur als Kontext in der Frage von Karte 2.
+- Dass Rosa Flesch den Orden gründete, steht als Rahmen auf den Vorderseiten der Karten 3 und 7 und als Erklärung auf der Rückseite von Karte 4. Als Aussage, die geraten werden muss, kommt es in keiner Karte vor.

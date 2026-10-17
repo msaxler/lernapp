@@ -192,7 +192,13 @@ FAKT-ID: 373-lustnau/015.urspruengliche_tätigkeit
 GEWÄHLTER FAKT: Kress Elektrowerkzeuge, urspruengliche_tätigkeit, Elektroinstallationsgeschäft und Werkstatt für Autoelektrik (gruendung_ort: Tübingen-Lustnau; produktentwicklung: Kleinmotoren für Gleich- und Wechselstrom)
 BEKANNTHEIT: mittel – Die Marke Kress kennen viele Heimwerker, ihre Anfänge in Lustnau kaum.
 VORDERSEITE:
-Lustnau / Der Stadtteil von Tübingen hat rund 10.000 Einwohner und liegt 10 km nordwestlich von Reutlingen. / Die Firma Kress, bekannt für Elektrowerkzeuge, wurde 1928 in Tübingen-Lustnau gegründet. Womit fing Christian Kress an? / 1. Er betrieb eine Möbelschreinerei. / 2. Er betrieb eine Werkstatt für Autoelektrik. / 3. Er baute Uhren und feinmechanische Geräte. / 4. Er reparierte Fahrräder und Nähmaschinen.
+Lustnau
+Der Stadtteil von Tübingen hat rund 10.000 Einwohner und liegt 10 km nordwestlich von Reutlingen.
+Die Firma Kress, bekannt für Elektrowerkzeuge, wurde 1928 in Tübingen-Lustnau gegründet. Womit fing Christian Kress an?
+1. Er betrieb eine Möbelschreinerei.
+2. Er betrieb eine Werkstatt für Autoelektrik.
+3. Er baute Uhren und feinmechanische Geräte.
+4. Er reparierte Fahrräder und Nähmaschinen.
 RÜCKSEITE:
 Du hattest [Option] getippt. Fahrräder liegen nahe, denn auch dort wurde damals viel geschraubt und repariert. Christian Kress begann 1928 jedoch mit einer Werkstatt für Autoelektrik. Gleich danach baute er Motoren für Gleich- und Wechselstrom. Richtig war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Lustnau

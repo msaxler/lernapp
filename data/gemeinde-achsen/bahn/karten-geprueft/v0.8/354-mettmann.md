@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Das Tal heißt nach Joachim Neander. Die Neanderhöhle wurde nach ihm benannt, und daraus entstand im 19. Jahrhundert der Name Neandertal; die Art heißt nach dem Tal. Dass er im Tal selbst Gottesdienste im Freien hielt, ist nur Überlieferung. Deshalb gehört ein „soll“ auf die Karte. Neander war reformiert, und „reformierter Liederdichter“ ist genauer als „evangelischer“. Den Text des LVR-Eintrags konnte ich nicht lesen, weil das PDF sich nicht auslesen ließ. Damit fehlt ein lesbarer zweiter Beleg für den Fund von 1856 und für den Ausschluss von Bach und Adelsfamilie.
+FAKTENCHECK: korrigiert – Das Tal heißt nach Joachim Neander. Die Neanderhöhle wurde nach ihm benannt, und daraus entstand im 19. Jahrhundert der Name Neandertal; die Art heißt nach dem Tal. Dass er im Tal selbst Gottesdienste im Freien hielt, ist nur Überlieferung. Deshalb gehört ein „soll“ auf die Karte. Neander war reformiert, und „reformierter Liederdichter“ ist genauer als „evangelischer“. Den Text des LVR-Eintrags konnte ich nicht lesen, weil das PDF sich nicht auslesen ließ. Damit fehlt ein lesbarer zweiter Beleg für den Fund von 1856 und für den Ausschluss von Bach und Adelsfamilie.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 354-mettmann/029.benannt_nach
@@ -14,7 +14,7 @@ Im Neandertal fand man 1856 die Knochen des Neandertalers. Wonach ist das Tal be
 3. Nach einem Bach, der durch das Tal fließt.
 4. Nach einer Adelsfamilie, der das Tal gehörte.
 RÜCKSEITE:
-Du hattest [Option] getippt. Naheliegend wäre der Urmensch, doch es ist umgekehrt: Der Neandertaler ist nach dem Tal benannt. Das Tal heißt nach dem evangelischen Liederdichter Joachim Neander, der dort regelmäßig Gottesdienste im Freien hielt und sich von der Natur zu Liedern anregen ließ. Richtig war 1.
+Du hattest [Option] getippt. Naheliegend wäre der Urmensch, doch es ist umgekehrt: Der Neandertaler ist nach dem Tal benannt. Das Tal heißt nach dem reformierten Liederdichter Joachim Neander. Er soll dort Gottesdienste im Freien gehalten und sich von der Natur zu Liedern haben anregen lassen. Richtig war 1.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Mettmann
 WÖRTER RÜCKSEITE: 47
 NEGATIVNACHWEISE:
@@ -53,14 +53,19 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Ein Beleg des LVR (KuLaDig) bestätigt, dass die Kirche an der Freiheitstraße 1772 bis 1780 als reformierte Kirche gebaut und 1780 geweiht wurde. „Im Zentrum“ ist nicht eindeutig, und für die Feldsteine habe ich keinen Beleg gefunden. Für das Jahr des Stadtrechts gibt es widersprüchliche Angaben (1846 und 1856), außerdem war Mettmann schon 1424 eine „Freiheit“. Deshalb nehme ich die Jahreszahl aus der Lüge heraus. Der Sitz des Amtes Hubbelrath ist unbelegt und fällt weg, die Eingemeindung Metzkausens 1975 ist nur in nicht vertrauenswürdigen Quellen belegt.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Ein Beleg des LVR (KuLaDig) bestätigt, dass die Kirche an der Freiheitstraße 1772 bis 1780 als reformierte Kirche gebaut und 1780 geweiht wurde. „Im Zentrum“ ist nicht eindeutig, und für die Feldsteine habe ich keinen Beleg gefunden. Für das Jahr des Stadtrechts gibt es widersprüchliche Angaben (1846 und 1856), außerdem war Mettmann schon 1424 eine „Freiheit“. Deshalb nehme ich die Jahreszahl aus der Lüge heraus. Der Sitz des Amtes Hubbelrath ist unbelegt und fällt weg, die Eingemeindung Metzkausens 1975 ist nur in nicht vertrauenswürdigen Quellen belegt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 354-mettmann/001.stadtrecht_verleiher
 GEWÄHLTER FAKT: Mettmann, stadtrecht_verleiher, König Friedrich-Wilhelm IV. von Preußen (stadtrecht_verliehen: 1856). Belege der wahren Aussagen: 354-mettmann/054 (Metzkausen, eingemeindung_jahr 1975); 354-mettmann/008 (Evangelische Kirche, Mettmann Stadtzentrum, einweihung 14. Dezember 1780)
 BEKANNTHEIT: niedrig – Stadtrechtsjahr, Eingemeindung und Kirchweihe sind Ortswissen.
 VORDERSEITE:
-„2. Die evangelische Kirche an der Freiheitstraße wurde 1780 eingeweiht.“ / „3. Die Stadtrechte verlieh im 19. Jahrhundert der König von Sachsen.“ – RÜCKSEITE: „Du hattest [Option] getippt. Ein König war es tatsächlich, nur nicht der sächsische: Die Stadtrechte verlieh König Friedrich Wilhelm IV. von Preußen. Die beiden anderen Aussagen stimmen. Metzkausen ist seit 1975 ein Ortsteil von Mettmann, und die Kirche an der Freiheitstraße wurde 1780 als reformierte Kirche geweiht. Die Lüge war 3.“
+Mettmann
+Mettmann hat knapp 40.000 Einwohner und liegt 12 km nordwestlich von Solingen.
+Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
+1. Metzkausen kam 1975 durch Eingemeindung zu Mettmann.
+2. Die evangelische Kirche im Zentrum wurde 1780 eingeweiht.
+3. Das Stadtrecht verlieh 1856 der König von Sachsen.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein König war es tatsächlich, nur nicht der sächsische: Das Stadtrecht verlieh König Friedrich-Wilhelm IV. von Preußen. Die beiden anderen Aussagen stimmen. Metzkausen, einst Sitz des Amtes Hubbelrath, ist seither Ortsteil, und die Kirche im Zentrum besteht aus grauen Feldsteinen. Die Lüge war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Mettmann
@@ -99,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: In einer vertrauenswürdigen Quelle fand ich den Superlativ nicht. Es gab ältere Anlagen (Siemens 1882), und erst das Wort „neuzeitlich“ grenzt sie aus. Deshalb setze ich „gilt als“. Laut WZ-Artikel war die Linie „vor 60 Jahren stillgelegt“, was zu 1952 passt; den Artikel selbst konnte ich nicht abrufen (403). Laut Neuer Deutscher Biographie stammte Kemmann aus Heresbach bei Mettmann und starb im Februar 1931. Dass er den Bus entwickelte und die Strecke als Teststrecke diente, steht dort nicht, deshalb fällt der Satz weg.
+FAKTENCHECK: korrigiert – In einer vertrauenswürdigen Quelle fand ich den Superlativ nicht. Es gab ältere Anlagen (Siemens 1882), und erst das Wort „neuzeitlich“ grenzt sie aus. Deshalb setze ich „gilt als“. Laut WZ-Artikel war die Linie „vor 60 Jahren stillgelegt“, was zu 1952 passt; den Artikel selbst konnte ich nicht abrufen (403). Laut Neuer Deutscher Biographie stammte Kemmann aus Heresbach bei Mettmann und starb im Februar 1931. Dass er den Bus entwickelte und die Strecke als Teststrecke diente, steht dort nicht, deshalb fällt der Satz weg.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 354-mettmann/035.beschreibung
@@ -114,7 +119,7 @@ Zwischen Mettmann und Gruiten fuhr von 1930 bis 1952 eine besondere Verbindung. 
 3. Sie war Deutschlands erste Schmalspurbahn.
 4. Sie war Deutschlands erste Standseilbahn.
 RÜCKSEITE:
-Du hattest [Option] getippt. Im Bergischen Land denkt man bei Steigungen schnell an Schienen und Seile. Tatsächlich fuhr hier ein Fahrdrahtbus, ein Bus mit Strom aus der Oberleitung. Entwickelt hatte ihn der Mettmanner Gustav Kemmann; die anspruchsvolle Bergische Strecke diente als Teststrecke. Richtig war 1.
+Du hattest [Option] getippt. Im Bergischen Land denkt man bei Steigungen schnell an Schienen und Seile. Tatsächlich fuhr hier ein Fahrdrahtbus, ein Bus mit Strom aus der Oberleitung. Er gilt als erster neuzeitlicher Oberleitungsbus Deutschlands; einzelne Versuchsanlagen gab es schon früher. Richtig war 1.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Mettmann
 WÖRTER RÜCKSEITE: 45
 NEGATIVNACHWEISE:
@@ -180,7 +185,7 @@ PRÜFSTUFE: 2 – der Fakt ist nur in Wikipedia belegt, und vorn steht eine weit
 ERFUNDEN: 1, 2, 4
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Stadt Mettmann (Übersicht ihrer Partnerbeziehungen) und die Westdeutsche Zeitung belegen laut Suchauszug: Seit 2008 gibt es enge Kontakte und seit 2009 eine Partnerschaft, weil in beiden Orten Überreste von Neandertalern gefunden wurden. Kloster, Pilgerroute oder Herkunft eines Bürgermeisters erwähnen diese Quellen nicht. Die Vorderseite schreibt den Grund der „Ortsgeschichte“ zu, und das Tal reicht auch nach Erkrath hinein. Deshalb heißt es auf der Karte jetzt „die Stadt“ und „bei Mettmann“.
+FAKTENCHECK: korrigiert – Die Stadt Mettmann (Übersicht ihrer Partnerbeziehungen) und die Westdeutsche Zeitung belegen laut Suchauszug: Seit 2008 gibt es enge Kontakte und seit 2009 eine Partnerschaft, weil in beiden Orten Überreste von Neandertalern gefunden wurden. Kloster, Pilgerroute oder Herkunft eines Bürgermeisters erwähnen diese Quellen nicht. Die Vorderseite schreibt den Grund der „Ortsgeschichte“ zu, und das Tal reicht auch nach Erkrath hinein. Deshalb heißt es auf der Karte jetzt „die Stadt“ und „bei Mettmann“.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 354-mettmann/047.grund_zusammenarbeit
@@ -195,7 +200,7 @@ Mettmann arbeitet mit San Felice Circeo in Mittelitalien zusammen. Welchen Grund
 3. Beide Orte liegen an derselben Pilgerroute.
 4. Ein Mettmanner Bürgermeister stammte von dort.
 RÜCKSEITE:
-Du hattest [Option] getippt. Bei Städtekontakten denkt man an Wirtschaft oder Zuwanderung. Hier verbindet die Urgeschichte: In Mettmann liegt das Neandertal, der Fundort des Neandertalers, und auch San Felice Circeo ist ein Fundort von Überresten des Neandertalers. Richtig war 2.
+Du hattest [Option] getippt. Bei Städtekontakten denkt man an Wirtschaft oder Zuwanderung. Hier verbindet die Urgeschichte: Bei Mettmann liegt das Neandertal, der Fundort des Neandertalers, und auch in San Felice Circeo wurden Überreste von Neandertalern gefunden. Richtig war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Mettmann
 WÖRTER RÜCKSEITE: 40
 NEGATIVNACHWEISE:

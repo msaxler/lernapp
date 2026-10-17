@@ -6,10 +6,16 @@ FAKT-ID: 200-gelsenkirchen/004.kreisfreie_stadt
 GEWÄHLTER FAKT: Buer (Stadtteil), stadtrecht_erhalten 1911, kreisfreie_stadt 1912, zusammenschluss_mit_gelsenkirchen 1928
 BEKANNTHEIT: niedrig – Gelsenkirchen-Buer ist in der Region bekannt, dass Buer selbst eine kreisfreie Stadt war, wissen aber nur wenige.
 VORDERSEITE:
-Gelsenkirchen / Gelsenkirchen ist eine Großstadt im zentralen Ruhrgebiet mit rund 266.000 Einwohnern. / 1928 wurde Buer mit Gelsenkirchen und Horst zu einer Stadt vereinigt. Was war Buer unmittelbar vor diesem Zusammenschluss? / 1. Buer war ein Stadtteil von Recklinghausen. 2. Buer war eine Landgemeinde ohne Stadtrecht. 3. Buer war selbst eine kreisfreie Stadt. 4. Buer war eine Bergarbeitersiedlung ohne eigene Gemeinde. — RÜCKSEITE: Du hattest [Option] getippt. Heute ist Buer ein Stadtteil, deshalb liegt ein Dorf oder Vorort nahe. Doch Buer hatte Stadtrecht und war kreisfrei, bevor es 1928 mit Gelsenkirchen zusammenging. Erstmals urkundlich erwähnt wurde es 1003 als Puira. Richtig war 3. / Quelle: Stadtarchiv Gelsenkirchen, gelsenkirchen.de (Findbuch Buer)
+Gelsenkirchen
+Gelsenkirchen ist eine Großstadt im zentralen Ruhrgebiet mit rund 266.000 Einwohnern.
+1928 wurde Buer mit Gelsenkirchen und Horst zu einer Stadt vereinigt. Was war Buer unmittelbar vor diesem Zusammenschluss?
+1. Buer war ein Stadtteil von Recklinghausen.
+2. Buer war eine Landgemeinde ohne Stadtrecht.
+3. Buer war selbst eine kreisfreie Stadt.
+4. Buer war eine Bergarbeitersiedlung ohne eigene Gemeinde.
 RÜCKSEITE:
-Du hattest [Option] getippt. Heute ist Buer ein Stadtteil, deshalb liegt ein Dorf oder Vorort nahe. Doch Buer hatte Stadtrecht und war kreisfrei, bevor es 1928 mit Gelsenkirchen zusammenging. Erstmals urkundlich erwähnt wurde es als Puira. Richtig war 3.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Gelsenkirchen
+Du hattest [Option] getippt. Heute ist Buer ein Stadtteil, deshalb liegt ein Dorf oder Vorort nahe. Doch Buer hatte Stadtrecht und war kreisfrei, bevor es 1928 mit Gelsenkirchen zusammenging. Erstmals urkundlich erwähnt wurde es 1003 als Puira. Richtig war 3.
+Quelle: Stadtarchiv Gelsenkirchen, gelsenkirchen.de (Findbuch Buer)
 WÖRTER RÜCKSEITE: 39
 NEGATIVNACHWEISE:
 1: Weg (a). 004: Buer wurde 1912 kreisfreie Stadt und war damit kein Stadtteil einer anderen Stadt.

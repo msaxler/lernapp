@@ -185,17 +185,23 @@ PRÜFSTUFE: 2 – Die Karte hat Superlative, und das Detail ist wohl nur in Wiki
 ERFUNDEN: 1, 3, 4
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Die Stadt Worms leitet den Namen Wonnegau von den Vangionen ab, über Civitas Vangionum, Vangionengau und Wangengau. Der Volksmund machte daraus Wonnegau. Bönnen bestätigt die „Civitas Vangionum“ mit Worms als Hauptort. Option 1 ist eine Teilwahrheit, weil die „Wonne“ wirklich aus der volkstümlichen Umdeutung stammt. Mit „ursprünglich“ ist Option 1 eindeutig falsch.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Stadt Worms leitet den Namen Wonnegau von den Vangionen ab, über Civitas Vangionum, Vangionengau und Wangengau. Der Volksmund machte daraus Wonnegau. Bönnen bestätigt die „Civitas Vangionum“ mit Worms als Hauptort. Option 1 ist eine Teilwahrheit, weil die „Wonne“ wirklich aus der volkstümlichen Umdeutung stammt. Mit „ursprünglich“ ist Option 1 eindeutig falsch.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 55-worms/066.herkunft_name
 GEWÄHLTER FAKT: Landstrich Wonnegau, herkunft_name, "vom Namen Vangionen abgeleitet, vom Volksmund in verständlicheres Wonnegau umgesetzt"
 BEKANNTHEIT: niedrig – Die Herkunft des Namens Wonnegau ist außerhalb der Region kaum bekannt.
 VORDERSEITE:
-Option 1 neu: „1. Der Name lobte ursprünglich die wonnige, fruchtbare Landschaft.“ (alles andere unverändert)
+Worms
+Stadt mit rund 87.000 Einwohnern, 17 km nordwestlich von Mannheim.
+Westlich von Worms liegt die Hügellandschaft Wonnegau. Woher hat sie ihren Namen?
+1. Der Name lobt die wonnige, fruchtbare Landschaft.
+2. Er geht auf einen mittelalterlichen Grundherrn zurück.
+3. Er geht auf einen antiken Volksstamm zurück.
+4. Er stammt von einem fränkischen Königshof.
 RÜCKSEITE:
-Du hattest [Option] getippt. Die Wonne liegt nahe, weil sie im Namen steckt. Doch der Name kommt vom antiken Volk der Vangionen: Aus Civitas Vangionum wurde Wangengau, und erst der Volksmund machte daraus das verständlichere Wonnegau. Worms war Hauptort der Civitas Vangionum. Richtig war 3.
-Quelle: Stadt Worms, worms-erleben.de
+Du hattest [Option] getippt. Die Wonne liegt nahe, weil sie im Namen steckt. Der Name ist vom Volk der Vangionen abgeleitet; der Volksmund machte daraus das verständlichere Wonnegau. Worms war in römischer Zeit Hauptort der Civitas Vangionum. Richtig war 3.
+Quelle: Wikipedia, de.wikipedia.org/wiki/Worms
 WÖRTER RÜCKSEITE: 40
 NEGATIVNACHWEISE:
 1: Weg (c). FAKTEN nennen genau eine Herkunft (Vangionen); die naheliegende Deutung aus dem heutigen Namen ist erlaubt.
@@ -206,17 +212,23 @@ PRÜFSTUFE: 2 – Der Fakt stammt nur aus Wikipedia.
 ERFUNDEN: 1, 2, 4
 
 ## Karte 9
-FAKTENCHECK: korrigiert – Das Landesmuseum Mainz schreibt, dass „König und Bischöfe … Papst Gregor VII. den Gehorsam auf[kündigen] und … seine Abdankung“ verlangten. Von einer eigenen Absetzungserklärung spricht es nicht. Der Titel König für 1076 ist damit bestätigt. Der Papst belegte den König danach mit dem Bann, und mit dem Gang nach Canossa erreichte Heinrich die Wiederaufnahme in die Kirche.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Das Landesmuseum Mainz schreibt, dass „König und Bischöfe … Papst Gregor VII. den Gehorsam auf[kündigen] und … seine Abdankung“ verlangten. Von einer eigenen Absetzungserklärung spricht es nicht. Der Titel König für 1076 ist damit bestätigt. Der Papst belegte den König danach mit dem Bann, und mit dem Gang nach Canossa erreichte Heinrich die Wiederaufnahme in die Kirche.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 55-worms/018.ereignis
 GEWÄHLTER FAKT: Hoftag 1076, ereignis, "Heinrich IV. erklärte Papst Gregor VII. für abgesetzt"; folge: Kirchenbann, einer der Auslöser des Gangs nach Canossa
 BEKANNTHEIT: mittel – Canossa ist sprichwörtlich, die Vorgeschichte in Worms weniger.
 VORDERSEITE:
-Option 1 neu: „1. Er forderte den Papst zum Rücktritt auf.“ (alles andere unverändert)
+Worms
+Stadt am Rhein mit rund 87.000 Einwohnern, 17 km nordwestlich von Mannheim.
+1076 hielt König Heinrich IV. einen Hoftag in Worms ab. Was erklärte er dort?
+1. Er erklärte den Papst für abgesetzt.
+2. Er erklärte seinen Verzicht auf den Thron.
+3. Er erklärte Worms zur Hauptstadt des Reiches.
+4. Er rief die Fürsten zum Kreuzzug auf.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Thronverzicht klingt nach Canossa, wo sich der König später beugte. Doch auf dem Hoftag, einer Versammlung der Großen des Reiches, kündigten Heinrich IV. und die Bischöfe Papst Gregor VII. den Gehorsam auf und verlangten seine Abdankung. Der Papst bannte darauf den König; so kam es zum Gang nach Canossa. Richtig war 1.
-Quelle: Landesmuseum Mainz, landesmuseum-mainz.de
+Du hattest [Option] getippt. Ein Thronverzicht klingt nach Canossa, wo sich der König später beugte. Doch auf dem Hoftag, einer Versammlung der Großen des Reiches, erklärte Heinrich IV. Papst Gregor VII. für abgesetzt. Darauf wurde er mit dem Kirchenbann belegt; das war einer der Auslöser des Gangs nach Canossa. Richtig war 1.
+Quelle: Wikipedia, de.wikipedia.org/wiki/Worms
 WÖRTER RÜCKSEITE: 52
 NEGATIVNACHWEISE:
 2: Weg (c). FAKTEN nennen für den Hoftag 1076 genau ein Ereignis (55-worms/018).

@@ -192,7 +192,13 @@ FAKT-ID: 170-stockstadt/019.land
 GEWÄHLTER FAKT: Partnergemeinden Saint-André-sur-Orne, Saint-Martin-de-Fontenay, May-sur-Orne: land Frankreich, benachbart true (019 bis 021; Namen auch in GRUNDDATEN partnerstaedte)
 BEKANNTHEIT: niedrig – Die Partnerschaften einer Gemeinde kennt man außerhalb kaum.
 VORDERSEITE:
-Stockstadt am Main / Rund 7.900 Einwohner, 25 km südöstlich von Offenbach am Main. / Stockstadt pflegt Partnerschaften mit drei Orten. Was trifft auf sie zu? (Optionen unverändert)
+Stockstadt am Main
+Rund 7.900 Einwohner, 25 km südöstlich von Offenbach am Main.
+Stockstadt am Main Rund 7.900 Einwohner, 25 km südöstlich von Offenbach am Main. Stockstadt pflegt Partnerschaften mit drei Orten. Was trifft auf sie zu?
+1. Sie liegen in Frankreich, Italien und Polen.
+2. Sie liegen in Frankreich und sind Nachbarorte.
+3. Sie tragen alle ebenfalls den Namen Stockstadt.
+4. Sie liegen alle in Polen und sind Nachbarorte.
 RÜCKSEITE:
 Du hattest [Option] getippt. Viele Gemeinden sammeln Partner in mehreren Ländern, das liegt nahe. Stockstadts drei Partnerorte liegen dagegen alle nahe beieinander an der Orne in Frankreich: Saint-André-sur-Orne, Saint-Martin-de-Fontenay und May-sur-Orne. Die beiden letzten bilden seit 2025 die Gemeinde Saint-Martin-de-May. Richtig war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Stockstadt_am_Main

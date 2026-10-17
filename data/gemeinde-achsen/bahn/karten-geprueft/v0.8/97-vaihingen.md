@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Alle drei Aussagen sind belegt. Die Lüge (Aussage 1) widerlegt der QUELLTEXT: Die Burg wurde schon im 14. Jahrhundert eingeebnet. Aussage 3 ist aber mehrdeutig: In Ensingen steht nach dem QUELLTEXT auch die katholische Marienkirche (1964). „Die Ensinger Kirche“ muss deshalb die evangelische Dorfkirche benennen.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Alle drei Aussagen sind belegt. Die Lüge (Aussage 1) widerlegt der QUELLTEXT: Die Burg wurde schon im 14. Jahrhundert eingeebnet. Aussage 3 ist aber mehrdeutig: In Ensingen steht nach dem QUELLTEXT auch die katholische Marienkirche (1964). „Die Ensinger Kirche“ muss deshalb die evangelische Dorfkirche benennen.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 97-vaihingen/022.burg_verfall
@@ -65,7 +65,7 @@ Stadt mit rund 28.600 Einwohnern, 20 km östlich von Pforzheim.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 1. Soldaten zerstörten die Burg Roßwag im Dreißigjährigen Krieg.
 2. Riets Kirche birgt den Grabstein eines Paracelsus-Onkels.
-3. Ensingens evangelische Dorfkirche ist dem heiligen Veit geweiht.
+3. Die Ensinger Kirche ist dem heiligen Veit geweiht.
 RÜCKSEITE:
 Du hattest [Option] getippt. Zerstörte Burgen verbindet man oft mit dem Dreißigjährigen Krieg, deshalb klingt die Lüge glaubhaft. Die Burg Roßwag auf dem Muschelkalkfelsen ebneten aber die Äbte des Klosters Maulbronn ein, lange vor diesem Krieg. Die beiden anderen Aussagen stimmen. Die Lüge war 1.
 Quelle: Gemeinde-Webseite, www.vaihingen.de/unsere-stadt/stadtteile/rosswag

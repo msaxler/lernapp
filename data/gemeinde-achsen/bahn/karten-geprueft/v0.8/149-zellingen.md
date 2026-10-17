@@ -111,6 +111,8 @@ FAKT-ID: 149-zellingen/013.erbaut_von
 GEWÄHLTER FAKT: Pfarrkirche St. Laurentius (Retzbach), erbaut_von: Balthasar Neumann; stil: barock; bauzeit: 1736-1738
 BEKANNTHEIT: mittel – Balthasar Neumann ist überregional bekannt, seine Dorfkirche in Retzbach kaum.
 VORDERSEITE:
+Zellingen
+Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.
 Im Ortsteil Retzbach steht die barocke Pfarrkirche St. Laurentius. Nach wessen Plänen entstand sie?
 1. Nach Plänen von Johann Dientzenhofer.
 2. Nach Plänen von Balthasar Neumann.
@@ -190,6 +192,8 @@ FAKT-ID: 149-zellingen/018.status
 GEWÄHLTER FAKT: Verleihung Schweinfurter Stadtrecht, ort: Zellingen, zeitraum: 1312-1313, status: vorübergehend, ungenutzt geblieben
 BEKANNTHEIT: niedrig – Das kurze Stadtrecht ist eine Fußnote der Ortsgeschichte.
 VORDERSEITE:
+Zellingen
+Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.
 Zellingen erhielt 1312 von König Heinrich VII. das Schweinfurter Stadtrecht und die Erlaubnis, sich mit Mauern und Gräben zu umgeben. Was wurde aus der Stadtmauer?
 1. Sie wurde 1313 fertiggestellt.
 2. Sie wurde nie gebaut.
@@ -215,6 +219,8 @@ FAKT-ID: 149-zellingen/020.besonderheit
 GEWÄHLTER FAKT: Kaiserempfang für Ferdinand, September 1619, ausrichter: Fürstbischof Johann Gottfried von Aschhausen, besonderheit: 21. September Mittagessen im Zellinger Jagdschloss mit Dompropst Konrad Friedrich von Thüngen
 BEKANNTHEIT: niedrig – Der Kaiserbesuch ist außerhalb der Ortschronik unbekannt.
 VORDERSEITE:
+Zellingen
+Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.
 Am 21. September 1619 kam Kaiser Ferdinand II. nach Wahl und Krönung auf seiner Reise von Frankfurt nach Wien durch Zellingen. Wo empfing und bewirtete ihn Dompropst Konrad Friedrich von Thüngen?
 1. Im Alten Rathaus von Zellingen.
 2. Im Pfarrhaus von Zellingen.

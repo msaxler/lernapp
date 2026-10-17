@@ -219,7 +219,13 @@ FAKT-ID: 399-reute/030.gestiftet_von
 GEWÄHLTER FAKT: erstes Rathaus Reute, gestiftet_von, Margarethe Held (dazu 399-reute/028: letzte der Familie Held, Verwaltung des Ortes)
 BEKANNTHEIT: niedrig – Die Stifterin kennt nur die Ortsgeschichte.
 VORDERSEITE:
-Reute / Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau. / Wer hat laut Ortsgeschichte vermutlich Reutes erstes Rathaus an der Hauptstraße gestiftet? / 1. Eine Adelige, die den Ort verwaltete, stiftete es. / 2. Die Bauern legten das Geld dafür zusammen. / 3. Der Dorfpfarrer stiftete es aus eigenem Vermögen. / 4. Ein reicher Kaufmann aus der Stadt stiftete es.
+Reute
+Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau.
+Wer hat laut Ortsgeschichte vermutlich Reutes erstes Rathaus an der Hauptstraße gestiftet?
+1. Eine Adelige, die den Ort verwaltete, stiftete es.
+2. Die Bauern legten das Geld dafür zusammen.
+3. Der Dorfpfarrer stiftete es aus eigenem Vermögen.
+4. Ein reicher Kaufmann aus der Stadt stiftete es.
 RÜCKSEITE:
 Du hattest [Option] getippt. Gemeinsam bezahlte Rathäuser klingen nach Dorfgemeinschaft, deshalb liegen die Bauern nahe. Laut Ortsgeschichte dürfte es aber Margarethe Held gestiftet haben. Nach dieser Quelle war sie die Letzte der Adelsfamilie Held, die den Ort verwaltete. Das Rathaus steht an der Hauptstraße, gegenüber dem ehemaligen Weiher. Richtig war 1. / Quelle: Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/die-adelsfamilie-held-von-arl
 WÖRTER RÜCKSEITE: 39
@@ -239,7 +245,13 @@ FAKT-ID: 399-reute/002.ersterwähnung_quelle
 GEWÄHLTER FAKT: Reute, ersterwähnung_quelle, Lorscher Codex (Ersterwähnung 772, Schreibweise Reuden; dazu 399-reute/068: Baducho, fränkischer Grundbesitzer, vermachte Besitz an Kloster Lorsch)
 BEKANNTHEIT: niedrig – Dass ein Breisgaudorf im Codex eines hessischen Klosters steht, weiß kaum jemand.
 VORDERSEITE:
-Reute / Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau. / Reute ist 772/73 erstmals schriftlich belegt. In welcher Quelle? / 1. Der Ort steht in einer St. Galler Urkunde. / 2. Der Ort steht im Lorscher Codex. / 3. Der Ort steht in einer Reichenauer Urkunde. / 4. Der Ort steht in einer Straßburger Bischofsurkunde.
+Reute
+Rund 3.000 Einwohner, 10 km nördlich von Freiburg im Breisgau.
+Reute ist 772/73 erstmals schriftlich belegt. In welcher Quelle?
+1. Der Ort steht in einer St. Galler Urkunde.
+2. Der Ort steht im Lorscher Codex.
+3. Der Ort steht in einer Reichenauer Urkunde.
+4. Der Ort steht in einer Straßburger Bischofsurkunde.
 RÜCKSEITE:
 Du hattest [Option] getippt. St. Gallen oder Reichenau liegen nahe, denn sie besaßen viel im Südwesten. Belegt ist Reute, damals „Reuden“, aber im Lorscher Codex. Darin hat das Kloster Lorsch Abschriften seiner Urkunden gesammelt. Er verzeichnet eine Schenkung von Besitz im Ort an das Kloster. Der Name verweist auf Rodung. Richtig war 2. / Quelle: Gemeinde-Webseite, www.reute.de/unsere-gemeinde/geschichte/wappen; LEO-BW, Ortslexikon Oberreute
 WÖRTER RÜCKSEITE: 47

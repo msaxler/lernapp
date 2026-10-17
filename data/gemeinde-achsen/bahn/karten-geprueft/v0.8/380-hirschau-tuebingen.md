@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Pfalzgrafen haben Tübingen schon 1342 an Württemberg verkauft. Von 1381 bis 1805 gehörte Hirschau zu Hohenberg, also zu Vorderösterreich. Für die ganze Zeit der Mauer war der Nachbar also Württemberg, und „gegen die Pfalzgrafen“ auf der Gemeinde-Webseite ist zeitlich ungenau. Richtig bleibt in jeder Lesart „gegen Tübingen“. Die Oberamtsbeschreibung von 1828 bestätigt Tore an beiden Enden des Dorfes und nennt weder Reutlingen noch Baden. Eine Quelle, die solche Ansprüche ausdrücklich ausschließt, habe ich nicht gefunden. „Mächtiges Adelsgeschlecht“ ist nicht belegt und wird gestrichen.
+FAKTENCHECK: korrigiert – Die Pfalzgrafen haben Tübingen schon 1342 an Württemberg verkauft. Von 1381 bis 1805 gehörte Hirschau zu Hohenberg, also zu Vorderösterreich. Für die ganze Zeit der Mauer war der Nachbar also Württemberg, und „gegen die Pfalzgrafen“ auf der Gemeinde-Webseite ist zeitlich ungenau. Richtig bleibt in jeder Lesart „gegen Tübingen“. Die Oberamtsbeschreibung von 1828 bestätigt Tore an beiden Enden des Dorfes und nennt weder Reutlingen noch Baden. Eine Quelle, die solche Ansprüche ausdrücklich ausschließt, habe ich nicht gefunden. „Mächtiges Adelsgeschlecht“ ist nicht belegt und wird gestrichen.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 380-hirschau-tuebingen/002.grenzort_bis_19jh_anf
@@ -14,7 +14,7 @@ Bis ins frühe 19. Jahrhundert war Hirschau ein Grenzort mit wehrhafter Mauer. G
 3. Sie schützte vor der Reichsstadt Reutlingen.
 4. Sie schützte vor den Markgrafen von Baden.
 RÜCKSEITE:
-Du hattest [Option] getippt. Reutlingen steht im Steckbrief, und Reichsstädte stritten oft mit ihren Nachbarn. Doch Hirschau war ein Grenzort: Seine wehrhafte Mauer mit Oberem und Unterem Tor schützte vor den Pfalzgrafen von Tübingen, einem mächtigen Adelsgeschlecht. Ausgerechnet zu Tübingen gehört Hirschau heute als Stadtteil. Richtig war 2.
+Du hattest [Option] getippt. Reutlingen steht im Steckbrief, und Reichsstädte stritten oft mit ihren Nachbarn. Doch Hirschau war bis ins frühe 19. Jahrhundert ein Grenzort gegen Tübingen. Seine wehrhafte Mauer hatte ein Oberes und ein Unteres Tor. Ausgerechnet zu Tübingen gehört Hirschau heute als Stadtteil. Richtig war 2.“ Hinweis: Weil im Steckbrief „Stadtteil von Tübingen“ steht, wird die Frage dadurch leichter. Falls das nicht gewollt ist, die Karte sperren.
 Quelle: Gemeinde-Webseite, www.tuebingen.de/152/378.html
 WÖRTER RÜCKSEITE: 48
 NEGATIVNACHWEISE:
@@ -111,9 +111,15 @@ FAKT-ID: 380-hirschau-tuebingen/012.ursprung
 GEWÄHLTER FAKT: Riedkelter (kelter), ursprung: ehemals Kloster Kreuzlingen; lage: am Fuß des Spitzbergs
 BEKANNTHEIT: niedrig – Wem die Kelter früher gehörte, ist nur örtlich bekannt.
 VORDERSEITE:
-„Am Fuß des Spitzbergs steht die Riedkelter. Welchem Kloster gehörte sie früher?“ RÜCKSEITE: „Du hattest [Option] getippt. Hirsau liegt nahe, denn der Name klingt fast wie Hirschau. Doch früher gehörte die Riedkelter dem Kloster Kreuzlingen bei Konstanz. In einer Kelter wurden früher die Trauben gepresst. Richtig war 2.“
+Hirschau
+Rund 3.400 Einwohner; Stadtteil von Tübingen, 16 km westlich von Reutlingen.
+Am Fuß des Spitzbergs steht die Riedkelter. Welchem Kloster gehörte sie früher?
+1. Sie gehörte dem Kloster Hirsau.
+2. Sie gehörte dem Kloster Kreuzlingen.
+3. Sie gehörte dem Kloster Zwiefalten.
+4. Sie gehörte dem Kloster Blaubeuren.
 RÜCKSEITE:
-Du hattest [Option] getippt. Hirsau liegt nahe: Der Name klingt fast wie Hirschau, und das Kloster liegt nicht weit entfernt im Schwarzwald. Doch ursprünglich gehörte die Riedkelter dem Kloster Kreuzlingen am Bodensee. In einer Kelter wurden früher die Trauben gepresst. Richtig war 2.
+Du hattest [Option] getippt. Hirsau liegt nahe, denn der Name klingt fast wie Hirschau. Doch früher gehörte die Riedkelter dem Kloster Kreuzlingen bei Konstanz. In einer Kelter wurden früher die Trauben gepresst. Richtig war 2.
 Quelle: Gemeinde-Webseite, www.tuebingen.de/152/377.html
 WÖRTER RÜCKSEITE: 43
 NEGATIVNACHWEISE:

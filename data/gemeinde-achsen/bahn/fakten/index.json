@@ -178293,236 +178293,246 @@
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/001": {
-"entitaet": "kloster",
-"bezeichnung": "Marienhaus",
+"entitaet": "ort",
+"bezeichnung": "Kloster Marienhaus",
 "eigenschaften": [
-"baugestaltung_durch",
+"funktion",
 "gründer",
-"gründungsdatum",
-"gründungsjahr",
-"mutterhaus_von",
-"ursprünglicher_standort"
+"gründung",
+"ist_mutterhaus"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/002": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Rosa Flesch",
+"entitaet": "person",
+"bezeichnung": "Rosa Flesch (Maria Rosa Flesch, eigentlich Margaretha Flesch)",
 "eigenschaften": [
-"funktion",
+"beruf",
 "geburt",
 "geburtsort",
 "gedenktag",
-"generaloberin_bis",
-"generaloberin_von",
-"ordensname",
-"seligsprechung_datum",
-"seligsprechung_jahr",
-"seligsprechung_ort",
+"mutter",
+"orden_rolle",
+"seliggesprochen",
+"seligsprechungsort",
 "sterbeort",
-"taufname",
+"stiefmutter",
 "tod",
-"vater_beruf",
-"vertrauen_einschätzung"
+"vater"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/003": {
 "entitaet": "orden",
-"bezeichnung": "Waldbreitbacher Franziskanerinnen",
+"bezeichnung": "Franziskanerinnen von der allerseligsten Jungfrau Maria von den Engeln",
 "eigenschaften": [
-"beschaeftigte_heute",
-"bundesländer_1906",
-"bundesländer_heute",
-"einrichtungstypen",
 "erste_generaloberin",
-"erste_ordensregel_bestätiger",
-"erste_ordensregel_bestätigung",
-"expansion_brasilien",
-"expansion_niederlande",
-"expansion_usa",
-"filialen_1878",
+"generaloberin_2012_2024",
+"generaloberin_seit_juli_2024",
 "gründerinnen",
-"gründungsdatum",
+"gründung",
 "mutterhaus",
-"niederlassungen_1906",
-"offizieller_name",
-"ordenskuerzel",
-"ordenstyp",
-"publikationsorgan",
+"ordenskürzel",
+"ordensregel_bestätigung",
 "päpstliche_approbation",
-"päpstliche_approbation_durch",
 "satzung_verabschiedung",
+"schwerpunkt",
 "schwesternzahl_1878",
 "schwesternzahl_1906",
-"soziale_einrichtungen_heute",
-"spirituelle_angebote"
+"unternehmensgruppe",
+"zugehörigkeit"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/004": {
-"entitaet": "kapelle",
-"bezeichnung": "Kreuzkapelle",
+"entitaet": "gebäude",
+"bezeichnung": "Fleschmühle",
 "eigenschaften": [
-"bedeutung",
-"rosa_flesch_auszug",
-"rosa_flesch_einzug",
-"rosa_flesch_gelübde_ablage",
-"rosa_flesch_mitbewohner",
-"standort",
-"wohnungstyp"
+"bauart",
+"betriebsende",
+"bewohner_bekannteste",
+"bewohner_periode",
+"gedenkkapelle_errichtet",
+"gedenkkapelle_material",
+"grund_abriss",
+"lage"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/005": {
-"entitaet": "muehle",
-"bezeichnung": "Fleschmühle",
+"entitaet": "kapelle",
+"bezeichnung": "Kreuzkapelle",
 "eigenschaften": [
-"abriss_jahr",
-"abrissgrund",
-"alternativname",
-"bedeutung",
-"gedenkkapelle_anlass",
-"gedenkkapelle_errichtung",
-"gedenkkapelle_material",
-"heute_vorhanden",
-"pachtbeginn",
-"pachter",
-"rosa_flesch_residenz",
-"standort",
-"typ"
+"ausstattung",
+"historische_bedeutung",
+"lage",
+"nutzung_von_rosa_flesch"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/006": {
-"entitaet": "krankenhaus",
-"bezeichnung": "Marienhaus Klinikum St. Antonius Waldbreitbach",
+"entitaet": "gelande",
+"bezeichnung": "Kapellenberg",
 "eigenschaften": [
-"adresse",
-"betten",
-"fallzahlen_ambulant",
-"fallzahlen_teilstationär",
-"fallzahlen_vollstationär",
-"gründungskontext",
-"lehrkrankenhaus_universitaet_1",
-"lehrkrankenhaus_universitaet_2",
-"nebenbetriebe",
-"spezialisierung",
-"telefon",
-"tradition",
-"träger"
+"erste_bebauung",
+"erwerb_durch_rosa_flesch",
+"heutige_nutzung",
+"lage"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/007": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Agatha Simons",
+"entitaet": "krankenhaus",
+"bezeichnung": "Marienhaus Klinikum St. Antonius",
 "eigenschaften": [
-"amtszeit_bis",
-"amtszeit_von",
-"funktion",
-"leistung",
-"vorgängerin"
+"adresse",
+"besonderheit",
+"betten",
+"spezialisierung",
+"stationen",
+"träger",
+"zugehörige_einrichtungen"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/008": {
-"entitaet": "organisation",
-"bezeichnung": "Marienhaus GmbH",
+"entitaet": "krankenhaus",
+"bezeichnung": "Westerwaldklinik",
 "eigenschaften": [
-"betreibt",
-"bundesländer",
-"einrichtungstypen",
-"gegründet",
-"gründungsgrund",
-"nachfolger",
-"träger"
+"besonderheit",
+"hoehenlage",
+"spezialisierung_heute",
+"träger_früher",
+"ursprünglicher_zweck"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/009": {
-"entitaet": "organisation",
-"bezeichnung": "Marienhaus Stiftung",
+"entitaet": "strassenname",
+"bezeichnung": "Margaretha-Flesch-Straße",
 "eigenschaften": [
-"beschaeftigte",
-"betreibt",
-"bundesländer",
-"einrichtungstypen",
-"gegründet",
-"gründer",
-"gründungsstätte_ortsanbindung",
-"sitz",
-"vorgänger"
+"benannt_nach",
+"ehre",
+"standorte"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/010": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Jakob Gomm",
+"entitaet": "person",
+"bezeichnung": "Johann Georg Flesch",
 "eigenschaften": [
-"amtsantritt",
+"arbeitsplatz_1826",
+"arbeitsplatz_ab_1838",
 "beruf",
-"haltung_initial",
-"rolle",
-"verbindung_rosa_flesch"
+"kind",
+"tod"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/011": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Konrad Probst",
+"entitaet": "person",
+"bezeichnung": "Agatha Simons",
 "eigenschaften": [
-"beruf",
-"charakterisierung_quellentext",
-"manipulierte_wahl_jahr",
-"rolle",
-"strategie",
-"tod",
-"wahl_manipulation_folge"
+"amtszeit",
+"leistung",
+"ordensfunktion"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/012": {
-"entitaet": "gelaende",
-"bezeichnung": "Kapellenberg",
+"entitaet": "person",
+"bezeichnung": "Jakob Gomm",
 "eigenschaften": [
-"bedeutung",
-"erste_bebauung",
-"erste_bebauung_typ",
-"erwerb_bedingung",
-"erwerb_jahr",
-"erwerber",
-"heute",
-"standort"
+"beruf",
+"pfarrstelle",
+"rolle_im_orden"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/013": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Maria Bonner",
+"entitaet": "kunstwerk",
+"bezeichnung": "Ölgemälde von Rosa Flesch",
 "eigenschaften": [
-"funktion",
-"gründungsdatum",
-"mitgründerinnen"
+"beschreibung",
+"entstehung",
+"künstler",
+"standort"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/014": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Gertrud Beißel",
+"entitaet": "kunstwerk",
+"bezeichnung": "Glasfenster (Waldbreitbacher Pfarrkirche)",
 "eigenschaften": [
-"funktion",
-"gründungsdatum",
-"mitgründerinnen"
+"darstellung",
+"entstehung",
+"künstler",
+"standort"
 ],
 "berichtigungen": 0
 },
 "416-kloster-marienhaus/015": {
-"entitaet": "ortsteil",
-"bezeichnung": "Glockscheid",
+"entitaet": "kunstwerk",
+"bezeichnung": "21 Türbilder zu Szenen aus Mutter Rosas Leben",
 "eigenschaften": [
-"bedeutung",
-"gemeinde"
+"entstehung",
+"künstler",
+"standort"
+],
+"berichtigungen": 0
+},
+"416-kloster-marienhaus/016": {
+"entitaet": "kunstwerk",
+"bezeichnung": "Chorfenster (Liebfrauenkirche Koblenz)",
+"eigenschaften": [
+"darstellung",
+"entstehung",
+"konzept",
+"künstler",
+"standort"
+],
+"berichtigungen": 0
+},
+"416-kloster-marienhaus/017": {
+"entitaet": "kunstwerk",
+"bezeichnung": "Fenster mit Rosa Flesch (Kirche Mariae Heimsuchung)",
+"eigenschaften": [
+"beschreibung",
+"künstler",
+"standort"
+],
+"berichtigungen": 0
+},
+"416-kloster-marienhaus/018": {
+"entitaet": "kunstwerk",
+"bezeichnung": "Mutter-Rosa-Plastik (Trierer Dom)",
+"eigenschaften": [
+"anlass",
+"entstehung",
+"größe",
+"künstler",
+"standort"
+],
+"berichtigungen": 0
+},
+"416-kloster-marienhaus/019": {
+"entitaet": "gedenkstaette",
+"bezeichnung": "Gedenkkapelle Fleschmühle",
+"eigenschaften": [
+"anlass",
+"errichtung",
+"inhalt",
+"material",
+"standort"
+],
+"berichtigungen": 0
+},
+"416-kloster-marienhaus/020": {
+"entitaet": "ort",
+"bezeichnung": "Waldbreitbach",
+"eigenschaften": [
+"charakteristikum",
+"hoehenlage"
 ],
 "berichtigungen": 0
 },

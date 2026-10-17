@@ -185,7 +185,7 @@ PRÜFSTUFE: 1 – Alle Aussagen kommen von der Gemeinde-Webseite. Es gibt keinen
 ERFUNDEN: 1, 2, 3
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Keine vertrauenswürdige Quelle sagt, wofür das Gebäude der Spiegelmanufaktur vor oder nach der Manufaktur genutzt wurde. Ob dort eine Mühle oder Spiegelschleife lag, ließ sich in vier Suchen nicht klären. Deshalb wird Option 2 durch einen Neubau ersetzt. Das ist nachweislich falsch, denn laut Gemeinde-Webseite zog Stein in ein schon bestehendes, leerstehendes Gebäude. Auch für die Optionen 3 (Stallungen) und 4 (Kaserne) fand sich kein Beleg, weder dafür noch dagegen.
+FAKTENCHECK: korrigiert – Keine vertrauenswürdige Quelle sagt, wofür das Gebäude der Spiegelmanufaktur vor oder nach der Manufaktur genutzt wurde. Ob dort eine Mühle oder Spiegelschleife lag, ließ sich in vier Suchen nicht klären. Deshalb wird Option 2 durch einen Neubau ersetzt. Das ist nachweislich falsch, denn laut Gemeinde-Webseite zog Stein in ein schon bestehendes, leerstehendes Gebäude. Auch für die Optionen 3 (Stallungen) und 4 (Kaserne) fand sich kein Beleg, weder dafür noch dagegen.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 153-lohr/033.standort_vorher
@@ -200,8 +200,8 @@ Aus dem Lohrer Blechwalzwerk wurde ein Industrieunternehmen von Weltruf. Wo bega
 3. In den früheren Stallungen des Schlosses.
 4. In einer ehemaligen Kaserne der Stadt.
 RÜCKSEITE:
-Du hattest [Option] getippt. Für ein Walzwerk liegt eine Mühle am Fluss nahe. Friedrich Stein zog aber in die leerstehende kurfürstliche Spiegelmanufaktur, deren Spiegel weit über Deutschland hinaus geschätzt waren. Die Brüder Rexroth erwarben das Werk später; heute gehört das Unternehmen zum Bosch-Konzern. Richtig war 1.
-Quelle: Gemeinde-Webseite, www.lohr.de/tourismus/stadtgeschichte-chronik
+Du hattest [Option] getippt. Für eine neue Fabrik liegt ein eigener Neubau nahe. Friedrich Stein zog aber in die leerstehende kurfürstliche Spiegelmanufaktur, deren Spiegel weit über Deutschland hinaus geschätzt waren. Die Brüder Rexroth erwarben das Werk später; heute gehört das Unternehmen zum Bosch-Konzern. Richtig war 1.
+Quelle: Gemeinde-Webseite, www.lohr.de/tourismus/stadtgeschichte-chronik (45 Wörter)
 WÖRTER RÜCKSEITE: 46
 NEGATIVNACHWEISE:
 2: Weg (c). 153-lohr/033.standort_vorher nennt genau einen Standort. Die Option ist frei erfunden.

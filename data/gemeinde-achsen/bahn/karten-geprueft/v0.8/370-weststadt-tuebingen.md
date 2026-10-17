@@ -53,14 +53,19 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Aussage 3 muss nach Stufe 1 eindeutig formuliert werden. Freibad und Paul Horn-Arena liegen an der Europastraße und damit im südlichen Teil der Weststadt. Dass der Stadtteil Universität im Osten angrenzt und Hagelloch im Norden, habe ich nur in Wikipedia-Kopien gefunden. Ein Planungs-PDF der Stadt (zukunftsplan_weststadt_textteil.pdf) war nicht lesbar. Die beiden wahren Aussagen behalten deshalb den Vermerk „nur Wikipedia“.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Aussage 3 muss nach Stufe 1 eindeutig formuliert werden. Freibad und Paul Horn-Arena liegen an der Europastraße und damit im südlichen Teil der Weststadt. Dass der Stadtteil Universität im Osten angrenzt und Hagelloch im Norden, habe ich nur in Wikipedia-Kopien gefunden. Ein Planungs-PDF der Stadt (zukunftsplan_weststadt_textteil.pdf) war nicht lesbar. Die beiden wahren Aussagen behalten deshalb den Vermerk „nur Wikipedia“.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 370-weststadt-tuebingen/001.grenzt_oestlich_an
 GEWÄHLTER FAKT: Weststadt (ort), grenzt_oestlich_an: Stadtteile Universität und Zentrum; grenzt_westlich_an: Hirschau und Unterjesingen. Belege der wahren Aussagen: 1 aus 007 (Freibad Tübingen, lage: Weststadt), 2 aus 006 (Paul Horn-Arena, lage: Weststadt).
 BEKANNTHEIT: niedrig – Wo die Stadtteile aneinandergrenzen und wo die Anlagen liegen, wissen vor allem Ortskundige.
 VORDERSEITE:
-„3. Im Westen der Weststadt liegt der Stadtteil Universität.“ – RÜCKSEITE: unverändert
+Weststadt
+Stadtteil von Tübingen mit rund 8.000 Einwohnern, 13 km westlich von Reutlingen.
+Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
+1. Das Tübinger Freibad liegt in der Weststadt.
+2. Die Paul Horn-Arena steht in der Weststadt.
+3. Die Weststadt grenzt westlich an den Stadtteil Universität.
 RÜCKSEITE:
 Du hattest [Option] getippt. Eine Arena oder ein Freibad vermutet man leicht anderswo in der Stadt. Beide liegen aber in der Weststadt. Gelogen ist die Grenze: Der Stadtteil Universität liegt östlich der Weststadt, im Westen grenzen Hirschau und Unterjesingen an. Die Lüge war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Weststadt_(Tübingen)
@@ -153,14 +158,20 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 7
-FAKTENCHECK: korrigiert – Der Turm steht laut den gefundenen Texten am Ende des Lichtenberger Wegs auf dem Schlossberg, nicht auf dem Österberg. Nach Vandalismus und Bränden war er gesperrt und verfiel. 1999 zahlte ein Tübinger Ehepaar 64.000 DM für die Renovierung, wiedereröffnet wurde er 2000. Die Renovierung fällt also nicht sicher ins Jahr 2000. Deshalb habe ich Option 2 so gefasst, dass sie nur die Wiedereröffnung auf 2000 legt. Option 3 bleibt wegen „endgültig“ falsch. Eine spätere Schließung habe ich nicht gefunden. Belege gibt es nur aus Wikipedia-Kopien und Freizeitportalen.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Der Turm steht laut den gefundenen Texten am Ende des Lichtenberger Wegs auf dem Schlossberg, nicht auf dem Österberg. Nach Vandalismus und Bränden war er gesperrt und verfiel. 1999 zahlte ein Tübinger Ehepaar 64.000 DM für die Renovierung, wiedereröffnet wurde er 2000. Die Renovierung fällt also nicht sicher ins Jahr 2000. Deshalb habe ich Option 2 so gefasst, dass sie nur die Wiedereröffnung auf 2000 legt. Option 3 bleibt wegen „endgültig“ falsch. Eine spätere Schließung habe ich nicht gefunden. Belege gibt es nur aus Wikipedia-Kopien und Freizeitportalen.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 370-weststadt-tuebingen/003.status_nach_renovierung
 GEWÄHLTER FAKT: Bismarckturm (bauwerk), lage: Lichtenberger Weg; renovierungsjahr: 2000; status_nach_renovierung: wiedereröffnet
 BEKANNTHEIT: niedrig – Bismarcktürme gibt es viele, das Schicksal dieses einen kennen wenige.
 VORDERSEITE:
-„2. Er wurde nach einer Renovierung wiedereröffnet.“ – RÜCKSEITE: „Du hattest [Option] getippt. Alte Türme verfallen oft, wenn sich niemand um sie kümmert, deshalb liegen Abriss oder Sperrung nahe. Der Bismarckturm am Lichtenberger Weg wurde aber renoviert und im Jahr 2000 wiedereröffnet. Richtig war 2.“
+Weststadt
+Stadtteil von Tübingen mit rund 8.000 Einwohnern, 13 km westlich von Reutlingen.
+Was geschah im Jahr 2000 mit dem Bismarckturm am Lichtenberger Weg?
+1. Er wurde abgerissen und durch einen Neubau ersetzt.
+2. Er wurde renoviert und danach wiedereröffnet.
+3. Er wurde wegen Baufälligkeit endgültig geschlossen.
+4. Er wurde gesprengt, nur der Sockel blieb.
 RÜCKSEITE:
 Du hattest [Option] getippt. Alte Türme verfallen oft, wenn sich niemand um sie kümmert, deshalb liegen Abriss oder Sperrung nahe. Der Bismarckturm am Lichtenberger Weg wurde aber renoviert und danach wiedereröffnet. Richtig war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Weststadt_(Tübingen)

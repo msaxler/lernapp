@@ -239,17 +239,23 @@ PRÜFSTUFE: 2 – Der Fakt stammt nur aus Wikipedia, und die Rückseite enthält
 ERFUNDEN: 1, 2, 3
 
 ## Karte 10
-FAKTENCHECK: korrigiert – Das Haus der Bayerischen Geschichte beschreibt das Wappenkreuz als goldenes Wiederkreuz. Es stellt einen Bezug zur alten Pfarrkirche mit dem romanischen Wilgefortis-Kreuz und zur Kümmernis-Wallfahrt her. Dort ist weder vom Hauptaltar noch von einem „Nachbilden“ die Rede, und die Kirche heißt dort „Heilig Kreuz“. Grün steht für die „Lage im sogenannten Gefilde“, nicht ausdrücklich für Heide. Ein Bezug zu einem Adelswappen, einem Wegkreuz oder Kreuzfahrern wird nicht genannt, die Optionen 1, 3 und 4 bleiben also falsch.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Das Haus der Bayerischen Geschichte beschreibt das Wappenkreuz als goldenes Wiederkreuz. Es stellt einen Bezug zur alten Pfarrkirche mit dem romanischen Wilgefortis-Kreuz und zur Kümmernis-Wallfahrt her. Dort ist weder vom Hauptaltar noch von einem „Nachbilden“ die Rede, und die Kirche heißt dort „Heilig Kreuz“. Grün steht für die „Lage im sogenannten Gefilde“, nicht ausdrücklich für Heide. Ein Bezug zu einem Adelswappen, einem Wegkreuz oder Kreuzfahrern wird nicht genannt, die Optionen 1, 3 und 4 bleiben also falsch.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 128-neufahrn/033.oberer_teil_fundort
 GEWÄHLTER FAKT: wappen Neufahrn bei Freising, oberer_teil_element_name: Wilgefortis-Kreuz, oberer_teil_fundort: Hauptaltar der St. Wilgefortis, oberer_teil_symbol: altes Neufahrn, oberer_teil_gruenground_bedeutung: Heidelandschaft (Gfild)
 BEKANNTHEIT: niedrig – Die Bedeutung des Wappens kennen nur Ortskundige.
 VORDERSEITE:
-Frage: Das goldene Kreuz im Neufahrner Gemeindewappen hat ein Vorbild. Welches? Option 2: Es verweist auf das Wilgefortis-Kreuz der Pfarrkirche. (Optionen 1, 3, 4 unverändert)
+Neufahrn bei Freising
+Gemeinde mit rund 21.000 Einwohnern, 21 km nördlich von München.
+Das gelbe Kreuz im Neufahrner Gemeindewappen hat ein Vorbild. Welches?
+1. Es stammt aus einem alten Adelswappen.
+2. Es bildet das Kreuz am Hauptaltar nach.
+3. Es zeigt ein altes Wegkreuz am Ortsrand.
+4. Es erinnert an Kreuzfahrer aus dem Dorf.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Kreuz im Gemeindewappen hält man schnell für ein Adels- oder Wegzeichen. Das goldene Kreuz verweist aber auf das romanische Wilgefortis-Kreuz der alten Pfarrkirche und auf die Wallfahrt zur Heiligen Kümmernis. Das Grün steht für die Lage im Gefilde. Richtig war 2.
-Quelle: Haus der Bayerischen Geschichte, hdbg.eu/gemeinden/index.php/detail?rschl=9178145
+Du hattest [Option] getippt. Ein Kreuz im Gemeindewappen hält man schnell für ein Adels- oder Wegzeichen. Vorbild ist aber das Wilgefortis-Kreuz am Hauptaltar der Pfarr- und Wallfahrtskirche St. Wilgefortis. Es steht für das alte Neufahrn, der grüne Grund für die Heidelandschaft, das Gfild. Richtig war 2.
+Quelle: Wikipedia, de.wikipedia.org/wiki/Neufahrn_bei_Freising
 WÖRTER RÜCKSEITE: 46
 NEGATIVNACHWEISE:
 1: Weg (c). 033 nennt genau ein Vorbild (Kreuz am Hauptaltar von St. Wilgefortis); die Option ist frei erfunden.

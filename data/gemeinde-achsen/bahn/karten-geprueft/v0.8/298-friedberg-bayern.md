@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: korrigiert – Der Name „St. Marien“ steht in keinem Quelltext. Er stammt aus der Extraktion, denn die Quelle spricht nur von der „alten gotischen Hallenkirche“. Die übrigen Aussagen sind belegt. „Neubau … Gotheshaus“ zeigt, dass die ganze Kirche neu gebaut wurde und nicht nur der Turm. Die Optionen 1, 3 und 4 sind durch „errichtete Neubau“ und „neuromanisch“ widerlegt.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Der Name „St. Marien“ steht in keinem Quelltext. Er stammt aus der Extraktion, denn die Quelle spricht nur von der „alten gotischen Hallenkirche“. Die übrigen Aussagen sind belegt. „Neubau … Gotheshaus“ zeigt, dass die ganze Kirche neu gebaut wurde und nicht nur der Turm. Die Optionen 1, 3 und 4 sind durch „errichtete Neubau“ und „neuromanisch“ widerlegt.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 298-friedberg-bayern/004.neubau_vorbild
@@ -113,12 +113,11 @@ BEKANNTHEIT: niedrig – Die Baugeschichte der Kirche kennen fast nur Einheimisc
 VORDERSEITE:
 Friedberg
 Stadt mit rund 30.000 Einwohnern, 7 km östlich von Augsburg.
-Eine Friedberger Kirche wirkt auf viele Besucher wie ein Fremdkörper. Wie entstand der heutige Bau?
+Die Friedberger Kirche St. Marien wirkt auf viele Besucher wie ein Fremdkörper. Wie entstand die heutige Kirche?
 1. Sie wurde nach Bombenschäden modern wiederaufgebaut.
 2. Sie wurde nach italienischen Vorbildern neu gebaut.
 3. Sie wurde Stein für Stein hierher versetzt.
 4. Sie wurde im Jugendstil neu errichtet.
-(RÜCKSEITE unverändert)
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Bau, der nicht ins Stadtbild passt, lässt an Kriegsschäden denken. Tatsächlich stürzte der Turm der alten gotischen Hallenkirche ein. Der Neubau entstand neuromanisch, also in romanischen Formen, nach italienischen Vorbildern – für viele Besucher ein Fremdkörper. Richtig war 2.
 Quelle: Gemeinde-Webseite, www.friedberg.de/politik-verwaltung/stadtportrait/geschichte-friedberg/

@@ -138,7 +138,13 @@ FAKT-ID: GRUNDDATEN.kfz
 GEWÄHLTER FAKT: kfz: HU (Hauptkennzeichen)
 BEKANNTHEIT: mittel – HU ist vielen bekannt, die Nähe zu Offenbach lockt aber zu OF.
 VORDERSEITE:
-Hanau / Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main. / Welches Kfz-Kennzeichen ist das eigene Kennzeichen der Stadt Hanau? / 1. OF 2. HU 3. F 4. AB
+Hanau
+Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.
+Welches Kfz-Kennzeichen ist das eigene Kennzeichen der Stadt Hanau?
+1. OF
+2. HU
+3. F
+4. AB
 RÜCKSEITE:
 Du hattest [Option] getippt. HU ist das Kennzeichen der Stadt Hanau. OF liegt nahe, weil Offenbach am Main gleich nebenan liegt. Doch OF steht für Offenbach. HU verschwand als einziges hessisches Heimatkennzeichen nie ganz, denn Hanauer mussten nie MKK nehmen. Richtig war 2. / Quelle: hessenschau.de, 7. 8. 2026
 WÖRTER RÜCKSEITE: 32
@@ -185,7 +191,13 @@ FAKT-ID: 162-hanau/022.innovation
 GEWÄHLTER FAKT: Franciscus Sylvius, geburtsort: Hanau; aemter: Professor der Medizin und Vizekanzler der Universität Leiden; innovation: setzte erstmals Gin als Arznei gegen Tuberkulose ein; bedeutung: Begründer der naturwissenschaftlich ausgerichteten Medizin und klinischen Chemie
 BEKANNTHEIT: mittel – die Verbindung von Sylvius und Gin taucht als Kuriosum auf, dass er aus Hanau stammt, weiß kaum jemand.
 VORDERSEITE:
-Hanau / Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main. / Der in Hanau geborene Arzt Franciscus Sylvius soll der Überlieferung nach ein Getränk erfunden haben, zunächst als Arznei. Welches? / 1. Er soll den Apfelwein erfunden haben. 2. Er soll den Genever erfunden haben, den Vorläufer des Gin. 3. Er soll den Kaffee erfunden haben. 4. Er soll das Bier erfunden haben.
+Hanau
+Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.
+Der in Hanau geborene Arzt Franciscus Sylvius soll der Überlieferung nach ein Getränk erfunden haben, zunächst als Arznei. Welches?
+1. Er soll den Apfelwein erfunden haben.
+2. Er soll den Genever erfunden haben, den Vorläufer des Gin.
+3. Er soll den Kaffee erfunden haben.
+4. Er soll das Bier erfunden haben.
 RÜCKSEITE:
 Du hattest [Option] getippt. Sylvius, Professor der Medizin in Leiden, soll um 1650 den Genever als Arznei gegen Magen- und Nierenleiden gemischt haben. Belegt ist das nicht, Arzneien aus Wacholder gab es schon lange vorher. Apfelwein liegt in Hessen nahe, doch er war wie Bier längst bekannt. Richtig war 2. / Quelle: Universität Leiden, universiteitleiden.nl
 WÖRTER RÜCKSEITE: 39
@@ -205,7 +217,13 @@ FAKT-ID: 162-hanau/003.symbolik_sterne
 GEWÄHLTER FAKT: Kesselstadt Wappen, motiv: senkrecht gestellter Bootshaken von zwei silbernen Sternen eingefasst; symbolik_sterne: Flüsse Main und Kinzig; symbolik_bootshaken: Bedeutung des Wassers für Bevölkerung; historischer_beruf: Fischer und Bootsleute
 BEKANNTHEIT: niedrig – Stadtteilwappen kennt kaum jemand außerhalb des Ortes.
 VORDERSEITE:
-Hanau / Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main. / Im Wappen des Hanauer Stadtteils Kesselstadt stehen zwei silberne Sterne neben einem Bootshaken. Wofür sollen die Sterne nach Angabe der Stadt stehen? / 1. Sie stehen für zwei Schutzheilige des Dorfes. 2. Sie stehen für zwei zusammengelegte Dörfer. 3. Sie stehen für zwei Adelsfamilien des Ortes. 4. Sie stehen für zwei Flüsse am Ort.
+Hanau
+Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.
+Im Wappen des Hanauer Stadtteils Kesselstadt stehen zwei silberne Sterne neben einem Bootshaken. Wofür sollen die Sterne nach Angabe der Stadt stehen?
+1. Sie stehen für zwei Schutzheilige des Dorfes.
+2. Sie stehen für zwei zusammengelegte Dörfer.
+3. Sie stehen für zwei Adelsfamilien des Ortes.
+4. Sie stehen für zwei Flüsse am Ort.
 RÜCKSEITE:
 Du hattest [Option] getippt. Nach Angabe der Stadt sollen die Sterne für Main und Kinzig stehen, der Bootshaken für die Bedeutung des Wassers. Wer zwei Sterne sieht, denkt leicht an zwei Heilige oder Familien. Doch Kesselstadt war ein Ort der Fischer und Bootsleute. Richtig war 4. / Quelle: Gemeinde-Webseite, www.hanau.de/stadtentwicklung/geschichte/wappen/index.html
 WÖRTER RÜCKSEITE: 41

@@ -185,7 +185,7 @@ PRÜFSTUFE: 2 – Der Weltrekord ist ein Superlativ, und der Ortsbezug des Ereig
 ERFUNDEN: 1, 3, 4
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Ich habe keine vertrauenswürdige Quelle gefunden, die Hexenverbrennungen, eine Feuerwache oder Ziegelbrennerei am Brandplatz belegt oder ausschließt. Belegt ist nur die Entstehung durch den Brand. Die Optionen werden deshalb nach Stufe 1 als Namensherkunft formuliert. Für den Namen gibt die Stadt genau eine Herkunft an.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Ich habe keine vertrauenswürdige Quelle gefunden, die Hexenverbrennungen, eine Feuerwache oder Ziegelbrennerei am Brandplatz belegt oder ausschließt. Belegt ist nur die Entstehung durch den Brand. Die Optionen werden deshalb nach Stufe 1 als Namensherkunft formuliert. Für den Namen gibt die Stadt genau eine Herkunft an.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 235-giessen/038.folge
@@ -194,11 +194,11 @@ BEKANNTHEIT: niedrig – Den Namen Brandplatz kennen Gießener; woher er kommt, 
 VORDERSEITE:
 Gießen
 Rund 88.500 Einwohner, 52 km nördlich von Frankfurt am Main.
-Das Alte Schloss steht am Gießener Brandplatz. Woher hat dieser Platz seinen Namen?
-1. Von einem Großbrand, der dort Gebäude vernichtet hatte.
-2. Von Hexenverbrennungen, die dort stattfanden.
-3. Von der Feuerwache der Stadt, die dort stand.
-4. Von Ziegelöfen, in denen dort gebrannt wurde.
+Das Alte Schloss steht am Gießener Brandplatz. Wie ist dieser Platz entstanden?
+1. Er entstand, wo ein Großbrand Gebäude vernichtet hatte.
+2. Dort wurden früher verurteilte Hexen verbrannt.
+3. Dort stand früher die Feuerwache der Stadt.
+4. Dort brannte man früher Ziegel für die Stadt.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Platz mit „Brand“ im Namen lässt an Hexenfeuer oder Ziegelöfen denken. Tatsächlich zerstörte ein Großbrand, vor allem im Bereich des Walltores, zahlreiche Gebäude. Manche wurden nicht wieder aufgebaut, und so entstand der Brandplatz. Richtig war 1.
 Quelle: Gemeinde-Webseite, www.giessen.de/Erleben/Über-Gießen/Stadtgeschichte/

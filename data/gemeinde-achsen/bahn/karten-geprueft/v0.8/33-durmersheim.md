@@ -111,7 +111,13 @@ FAKT-ID: 33-durmersheim/005.wappen_vorlauf
 GEWÄHLTER FAKT: Würmersheim, Wappen: geteilt, rot-gelbes badisches Wappen, gelber Wurm auf blauem Grund; vor 1901 Schere statt Wurm
 BEKANNTHEIT: niedrig – Das Ortsteilwappen ist außerhalb des Orts unbekannt.
 VORDERSEITE:
-Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / Im Wappen des Ortsteils Würmersheim steht ein gelber Wurm. Was war vor 1901 zeitweise an seiner Stelle zu sehen? / 1. Dort war ein Fisch abgebildet. / 2. Dort war eine Schere abgebildet. / 3. Dort war ein Pflug abgebildet. / 4. Dort war ein Schlüssel abgebildet.
+Durmersheim
+Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.
+Im Wappen des Ortsteils Würmersheim steht ein gelber Wurm. Was war vor 1901 zeitweise an seiner Stelle zu sehen?
+1. Dort war ein Fisch abgebildet.
+2. Dort war eine Schere abgebildet.
+3. Dort war ein Pflug abgebildet.
+4. Dort war ein Schlüssel abgebildet.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Fisch läge nahe, denn Würmersheims Name bedeutet Heim am Bach im Sumpfland. Doch vor 1901 stand dort zeitweise eine Schere. Den Wurm zeigte das Wappen schon 1553. Heute steht er gelb auf blauem Grund neben dem rot-gelben badischen Wappen. Richtig war 2. / Quelle: Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_würmersheim.html und …/leben_historisches_wuermersheim_zeittafel.html (45 Wörter)
 WÖRTER RÜCKSEITE: 46
@@ -158,7 +164,13 @@ FAKT-ID: 33-durmersheim/016.nutzung_ab_1574
 GEWÄHLTER FAKT: Rohrburg (markgräfliches Schloss Rohrburg), Nutzung ab 1574: Dienst- und Wohnsitz badischer Forstmeister
 BEKANNTHEIT: niedrig – Die Rohrburg ist kaum über den Ort hinaus bekannt.
 VORDERSEITE:
-Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / Die Rohrburg war ein markgräfliches Schloss am Zusammenfluss von Schmidt- und Federbach. Was wurde sie ab etwa 1574? / 1. Sie wurde erstmals urkundlich erwähnt. / 2. Sie wurde von Hans Dietrich von Bademer wieder aufgebaut. / 3. Ihr Areal wurde verkauft. / 4. Sie wurde Dienst- und Wohnsitz badischer Forstmeister.
+Durmersheim
+Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.
+Die Rohrburg war ein markgräfliches Schloss am Zusammenfluss von Schmidt- und Federbach. Was wurde sie ab etwa 1574?
+1. Sie wurde erstmals urkundlich erwähnt.
+2. Sie wurde von Hans Dietrich von Bademer wieder aufgebaut.
+3. Ihr Areal wurde verkauft.
+4. Sie wurde Dienst- und Wohnsitz badischer Forstmeister.
 RÜCKSEITE:
 Du hattest [Option] getippt. Alles davon gehört zur Geschichte der Rohrburg, nur zu anderen Zeiten: Erstmals erwähnt wurde sie 1388, wieder aufgebaut ab 1657, ihr Areal verkauft 1776. Ab etwa 1574 war sie Dienst- und Wohnsitz badischer Forstmeister. Richtig war 4. / Quelle: Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html (41 Wörter)
 WÖRTER RÜCKSEITE: 47
@@ -205,7 +217,13 @@ FAKT-ID: 33-durmersheim/008.vorgaenger_funde
 GEWÄHLTER FAKT: Pfarrkirche St. Dionys, Vorgängerkirche im Pfarrgarten an der Römerstraße; in ihren Fundamenten ein Fragment eines römischen Viergöttersteins, heute in der neuen Pfarrkirche eingemauert
 BEKANNTHEIT: niedrig – Der Fund ist nur örtlich bekannt.
 VORDERSEITE:
-Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / In den Fundamenten der alten Pfarrkirche steckte ein Fund, der heute in der neuen eingemauert ist. Was ist es? / 1. Es ist ein Gedenkstein an den Abriss der alten Kirche. / 2. Es ist ein Grenzstein der Markgrafen. / 3. Es ist ein Stück eines römischen Viergöttersteins. / 4. Es ist ein alter Mühlstein vom Federbach.
+Durmersheim
+Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.
+In den Fundamenten der alten Pfarrkirche steckte ein Fund, der heute in der neuen eingemauert ist. Was ist es?
+1. Es ist ein Gedenkstein an den Abriss der alten Kirche.
+2. Es ist ein Grenzstein der Markgrafen.
+3. Es ist ein Stück eines römischen Viergöttersteins.
+4. Es ist ein alter Mühlstein vom Federbach.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Grenzstein oder Mühlstein als Baumaterial läge nahe. In den Fundamenten steckte aber ein Stück eines römischen Viergöttersteins, eines Steins mit Götterbildern. Die alte Kirche stand im Pfarrgarten an der Römerstraße. Funde deuten darauf hin, dass dort eine Römerstraße verlief. Richtig war 3. / Quelle: Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_durmersheim.html und Seite zum Heimatmuseum (Gemeinde-Webseite) (46 Wörter)
 WÖRTER RÜCKSEITE: 49

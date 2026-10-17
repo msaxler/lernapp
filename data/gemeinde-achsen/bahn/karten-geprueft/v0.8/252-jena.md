@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Pressemitteilung des Universitätsklinikums Jena setzt „entdeckte“ selbst in Anführungszeichen, weil französische Forscher den Knochen schon vorher erwähnt hatten. Deshalb muss es „wies nach“ heißen. Hegel war in Jena von 1801 bis 1807 Privatdozent und dann Professor für Philosophie; Option 3 bleibt damit eindeutig falsch. Die Schillerkirche liegt in Wenigenjena, das heute zu Jena gehört; dafür fand sich nur kein zweiter amtlicher Beleg.
+FAKTENCHECK: korrigiert – Die Pressemitteilung des Universitätsklinikums Jena setzt „entdeckte“ selbst in Anführungszeichen, weil französische Forscher den Knochen schon vorher erwähnt hatten. Deshalb muss es „wies nach“ heißen. Hegel war in Jena von 1801 bis 1807 Privatdozent und dann Professor für Philosophie; Option 3 bleibt damit eindeutig falsch. Die Schillerkirche liegt in Wenigenjena, das heute zu Jena gehört; dafür fand sich nur kein zweiter amtlicher Beleg.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 252-jena/038.disziplin
@@ -67,7 +67,7 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. Goethe entdeckte in Jena mit Loder den Zwischenkieferknochen.
 3. Hegel unterrichtete in Jena das Fach Medizin.
 RÜCKSEITE:
-Du hattest [Option] getippt. Goethe als Knochenforscher klingt erfunden, man kennt ihn als Dichter und Minister. Doch mit Justus Christian Loder entdeckte er am Anatomieturm den Zwischenkieferknochen. Gelogen war Hegels Fach: Er lehrte in Jena Philosophie, wie auch Fichte und Schelling. Die Lüge war 3.
+Du hattest [Option] getippt. Goethe als Knochenforscher klingt erfunden, man kennt ihn als Dichter und Minister. Doch mit Justus Christian Loder wies er 1784 im Anatomieturm den Zwischenkieferknochen beim Menschen nach. Gelogen war Hegels Fach: Er lehrte in Jena Philosophie, wie auch Fichte und Schelling. Die Lüge war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Jena
 WÖRTER RÜCKSEITE: 45
 NEGATIVNACHWEISE:
@@ -104,14 +104,20 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: korrigiert – Die Stadtchronik bestätigt den Anlass: Nach dem verlorenen Schmalkaldischen Krieg 1547 wollte Johann Friedrich Ersatz für die verlorene Universität Wittenberg, und 1548 öffnete im früheren Dominikanerkloster eine Hohe Schule. Option 2 ist heikel: 1527 und 1535 floh die Universität Wittenberg vor der Pest nach Jena und kam 1535 im leeren Dominikanerkloster unter. Die Option „geflohene Professoren“ liegt damit zu nahe an der wahren Geschichte und wird ersetzt. Für die Optionen 1 und 4 fand sich kein Beleg, dass sie zutreffen.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Stadtchronik bestätigt den Anlass: Nach dem verlorenen Schmalkaldischen Krieg 1547 wollte Johann Friedrich Ersatz für die verlorene Universität Wittenberg, und 1548 öffnete im früheren Dominikanerkloster eine Hohe Schule. Option 2 ist heikel: 1527 und 1535 floh die Universität Wittenberg vor der Pest nach Jena und kam 1535 im leeren Dominikanerkloster unter. Die Option „geflohene Professoren“ liegt damit zu nahe an der wahren Geschichte und wird ersetzt. Für die Optionen 1 und 4 fand sich kein Beleg, dass sie zutreffen.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 252-jena/002.gruender_grund
 GEWÄHLTER FAKT: Friedrich-Schiller-Universität Jena, gruender_grund: Ersatz für verlorene Universität Wittenberg nach Schmalkaldischer Krieg (vorgaenger: Hohe Schule im Dominikanerkloster)
 BEKANNTHEIT: mittel – Die Universität ist bekannt, der Gründungsanlass kaum.
 VORDERSEITE:
-„Jena / Großstadt an der Saale mit rund 109.000 Einwohnern. / Warum entstand in Jena im 16. Jahrhundert eine Hochschule? Welchen Grund nennt die Stadtgeschichte? / 1. Ein Naumburger Bischof wollte hier Priester ausbilden. / 2. Ein reicher Jenaer Kaufmann vermachte der Stadt dafür sein Erbe. / 3. Sie ersetzte die im Krieg verlorene Universität Wittenberg. / 4. Der Papst wollte ein Bollwerk gegen Luthers Lehre.“ RÜCKSEITE bleibt unverändert.
+Jena
+Großstadt an der Saale mit rund 109.000 Einwohnern.
+Warum entstand in Jena im 16. Jahrhundert eine Hochschule? Welchen Grund nennt die Stadtgeschichte?
+1. Ein Naumburger Bischof wollte hier Priester ausbilden.
+2. Erfurter Professoren flohen nach einem Stadtbrand hierher.
+3. Sie ersetzte die im Krieg verlorene Universität Wittenberg.
+4. Der Papst wollte ein Bollwerk gegen Luthers Lehre.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Bischof als Gründer liegt nahe, denn viele alte Hochschulen wuchsen aus kirchlichen Schulen. Doch der Anlass war eine Niederlage: Nach dem Schmalkaldischen Krieg war die Universität Wittenberg verloren. Den Ersatz schuf man in Jena, zunächst als Hohe Schule im Dominikanerkloster. Richtig war 3.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Jena
@@ -159,10 +165,16 @@ FAKT-ID: 252-jena/003.besonderheit_mikroskop
 GEWÄHLTER FAKT: Carl Zeiss, besonderheit_mikroskop: zehntausendste Mikroskop 1886 an Robert Koch geschenkt
 BEKANNTHEIT: mittel – Zeiss ist weltbekannt, wer das Jubiläumsmikroskop bekam, weiß kaum jemand.
 VORDERSEITE:
-„Jena / Großstadt an der Saale mit rund 109.000 Einwohnern, 39 km Luftlinie von Erfurt. / Die Firma Carl Zeiss verschenkte 1904 ihr zehntausendstes Objektiv für homogene Immersion. Wer bekam es? / 1. Es ging an Robert Koch. / 2. Es ging an Rudolf Virchow. / 3. Es ging an Kaiser Wilhelm II. / 4. Es ging an Ernst Haeckel.“ RÜCKSEITE: „Du hattest [Option] getippt. Ernst Haeckel lag nahe: Der Zoologe lehrte an der Jenaer Universität. Doch das zehntausendste Objektiv für homogene Immersion schenkte Zeiss 1904 Robert Koch. Koch schrieb an Carl Zeiss, er verdanke einen großen Teil seiner Erfolge dessen Mikroskopen. Richtig war 1. / Quelle: zeiss.com, Seite Nobelpreise“
+Jena
+Großstadt an der Saale mit rund 109.000 Einwohnern, 39 km Luftlinie von Erfurt.
+Die Firma Carl Zeiss verschenkte 1904 ihr zehntausendstes Objektiv für homogene Immersion. Wer bekam es?
+1. Es ging an Robert Koch.
+2. Es ging an Rudolf Virchow.
+3. Es ging an Kaiser Wilhelm II.
+4. Es ging an Ernst Haeckel.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ernst Haeckel lag nahe: Der Zoologe war einer der berühmtesten Lehrer der Jenaer Universität. Doch das zehntausendste Mikroskop ging als Geschenk an Robert Koch. Zu den wichtigen Partnern von Zeiss zählten Ernst Abbe und Otto Schott. Richtig war 1.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Jena
+Du hattest [Option] getippt. Ernst Haeckel lag nahe: Der Zoologe lehrte an der Jenaer Universität. Doch das zehntausendste Objektiv für homogene Immersion schenkte Zeiss 1904 Robert Koch. Koch schrieb an Carl Zeiss, er verdanke einen großen Teil seiner Erfolge dessen Mikroskopen. Richtig war 1.
+Quelle: zeiss.com, Seite Nobelpreise
 WÖRTER RÜCKSEITE: 43
 NEGATIVNACHWEISE:
 2: Weg (c). Der Fakt nennt genau einen Empfänger (Robert Koch).

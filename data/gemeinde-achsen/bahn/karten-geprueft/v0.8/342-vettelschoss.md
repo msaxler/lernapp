@@ -6,7 +6,13 @@ FAKT-ID: 342-vettelschoss/008.erfinder
 GEWÄHLTER FAKT: Schmelzbasaltwerk (Ortsteil Kalenborn), erfinder: französischer Arzt (Laborversuche); dazu gruendung 1924, superlativ: erstes Schmelzbasaltwerk der Welt
 BEKANNTHEIT: niedrig – Schmelzbasalt und das Werk in Kalenborn kennen fast nur Fachleute aus der Werkstoffbranche.
 VORDERSEITE:
-Vettelschoß / Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn. / In den 1920er-Jahren entstand im Ortsteil Kalenborn ein Schmelzbasaltwerk. Von wem stammte die Idee zum Schmelzbasalt? / 1. Die Idee stammte von einem französischen Arzt. / 2. Die Idee stammte von einem deutschen Steinbruchmeister. / 3. Die Idee stammte von einem englischen Chemiker. / 4. Die Idee stammte von einem belgischen Ingenieur.
+Vettelschoß
+Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.
+In den 1920er-Jahren entstand im Ortsteil Kalenborn ein Schmelzbasaltwerk. Von wem stammte die Idee zum Schmelzbasalt?
+1. Die Idee stammte von einem französischen Arzt.
+2. Die Idee stammte von einem deutschen Steinbruchmeister.
+3. Die Idee stammte von einem englischen Chemiker.
+4. Die Idee stammte von einem belgischen Ingenieur.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Steinbruchmeister liegt nahe, denn bei Vettelschoß wurde Basalt gebrochen. Doch die Idee stammte von einem französischen Arzt, der in Laborversuchen den Grundstein legte. In Kalenborn wurde Schmelzbasalt dann industriell hergestellt. Der Werkstoff schützt gegen Verschleiß. Richtig war 1.
 Quelle: Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/
@@ -159,7 +165,13 @@ FAKT-ID: 342-vettelschoss/010.mitarbeiter_maximum
 GEWÄHLTER FAKT: Streif Schalungsbau (unternehmen), mitarbeiter_maximum: 5000; ansiedlung_zeit: nach dem Zweiten Weltkrieg; entwicklung: eine der größten Fertighausfirmen Deutschlands
 BEKANNTHEIT: mittel – Den Namen Streif kennen viele Hausbauer, die Größe der Firma und ihre Herkunft aus Vettelschoß kaum jemand.
 VORDERSEITE:
-Vettelschoß / Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn. / Nach dem Zweiten Weltkrieg siedelte sich die Firma Streif Schalungsbau in Vettelschoß an. Später wurde sie eine große Fertighausfirma. Wie viele Mitarbeiter hatte sie in ihrer Spitzenzeit? / 1. unter 500 / 2. 500 bis unter 2.000 / 3. 2.000 bis unter 8.000 / 4. 8.000 und mehr
+Vettelschoß
+Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.
+Nach dem Zweiten Weltkrieg siedelte sich die Firma Streif Schalungsbau in Vettelschoß an. Später wurde sie eine große Fertighausfirma. Wie viele Mitarbeiter hatte sie in ihrer Spitzenzeit?
+1. unter 500
+2. 500 bis unter 2.000
+3. 2.000 bis unter 8.000
+4. 8.000 und mehr
 RÜCKSEITE:
 Du hattest [Option] getippt. Eine Firma in einem Dorf dieser Größe stellt man sich mittelständisch vor. Doch Streif wurde nach Angaben der Gemeinde eine der größten Fertighausfirmen Deutschlands, mit insgesamt bis zu 5.000 Mitarbeitern, mehr als Vettelschoß heute Einwohner hat. Später traf der Niedergang der Bauwirtschaft auch Streif. Richtig war 3.
 Quelle: Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/
@@ -200,16 +212,22 @@ PRÜFSTUFE: 1 – Alle Aussagen und Namen stammen von der Gemeinde-Webseite, es 
 ERFUNDEN: 1, 3, 4
 
 ## Karte 9
-FAKTENCHECK: korrigiert – Kein zweiter Beleg für Klöckner als „ersten eigenen Geistlichen“ (1896) und keiner für Amdohrs Wohnort gefunden. Deshalb sind die „auswärtigen Priester“ und der Superlativ von der Rückseite gestrichen. Der Stiftungszweck selbst ist durch die Gemeinde belegt. Option 4 ist wie in Stufe 1 verlangt berichtigt.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Kein zweiter Beleg für Klöckner als „ersten eigenen Geistlichen“ (1896) und keiner für Amdohrs Wohnort gefunden. Deshalb sind die „auswärtigen Priester“ und der Superlativ von der Rückseite gestrichen. Der Stiftungszweck selbst ist durch die Gemeinde belegt. Option 4 ist wie in Stufe 1 verlangt berichtigt.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 342-vettelschoss/024.stiftung_zweck
 GEWÄHLTER FAKT: Johann Anton Stockhausen (persoenlichkeit), stiftung_zweck: regelmäßiger Sonntagsgottesdienst in Vettelschoß; stiftung_jahr 1862, stiftung_betrag 735 Taler
 BEKANNTHEIT: niedrig – Die Stiftung ist nur aus der Ortsgeschichte bekannt.
 VORDERSEITE:
-Option 4 lautet jetzt: „Das Geld sollte einen regelmäßigen Sonntagsgottesdienst sichern.“ (Rest unverändert.)
+Vettelschoß
+Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.
+1862 stiftete Johann Anton Stockhausen 735 Taler für Vettelschoß. Wofür war das Geld bestimmt?
+1. Das Geld war für eine Dorfschule bestimmt.
+2. Das Geld ging an die Armen des Dorfes.
+3. Das Geld bezahlte eine neue Glocke der Kapelle.
+4. Das Geld sicherte einen regelmäßigen Sonntagsgottesdienst.
 RÜCKSEITE:
-Du hattest [Option] getippt. Eine Schule oder die Armen wären typische Stiftungszwecke. Doch ein Gottesdienst an jedem Sonntag war in Vettelschoß damals nicht selbstverständlich. Stockhausen stiftete die 735 Taler, damit es ihn regelmäßig gab. Richtig war 4.
+Du hattest [Option] getippt. Eine Schule oder die Armen wären typische Stiftungszwecke. Doch Vettelschoß hatte noch keinen eigenen Geistlichen; Sonntagsgottesdienste hingen von auswärtigen Priestern ab. Stockhausens Geld sollte sie regelmäßig sichern. Ein eigener Geistlicher kam erst später mit Vikar Johann Klöckner. Richtig war 4.
 Quelle: Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/
 WÖRTER RÜCKSEITE: 44
 NEGATIVNACHWEISE:
@@ -228,7 +246,13 @@ FAKT-ID: 342-vettelschoss/005.erwaehnung_kontext
 GEWÄHLTER FAKT: Kalenborn (ortsteil), erwaehnung_kontext: Erzbischof Dietrich von Köln verzichtet auf Wildbannrecht; erste_urkundliche_erwaehnung 1209
 BEKANNTHEIT: niedrig – Mittelalterliche Urkunden zu Kalenborn kennen fast nur Heimatforscher.
 VORDERSEITE:
-Vettelschoß / Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn. / Kalenborn, heute Ortsteil von Vettelschoß, gilt als erstmals 1209 urkundlich belegt. Worum ging es in dieser Urkunde? / 1. Kalenborn erhielt das Stadtrecht. / 2. Die Bauern erhielten dort ein Marktrecht. / 3. Ein Erzbischof verzichtete auf ein Wildbannrecht. / 4. Kalenborn bekam eine eigene Pfarrkirche.
+Vettelschoß
+Vettelschoß hat rund 3.700 Einwohner und liegt 22 km südöstlich von Bonn.
+Kalenborn, heute Ortsteil von Vettelschoß, gilt als erstmals 1209 urkundlich belegt. Worum ging es in dieser Urkunde?
+1. Kalenborn erhielt das Stadtrecht.
+2. Die Bauern erhielten dort ein Marktrecht.
+3. Ein Erzbischof verzichtete auf ein Wildbannrecht.
+4. Kalenborn bekam eine eigene Pfarrkirche.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Marktrecht oder Stadtrecht liegt nahe, denn solche Rechte wurden oft beurkundet. In der Urkunde aber verzichtete Erzbischof Dietrich von Köln auf ein Wildbannrecht, also ein Jagdrecht in einem Gebiet. Richtig war 3.
 Quelle: Gemeinde-Webseite, www.vettelschoss.de/gemeinde-vettelschoss/ueber-vettelschoss/geschichte-wappen/

@@ -6,16 +6,16 @@
  "modelle": [
   "claude-opus-5-5"
  ],
- "eingabe_zeichen": 33757,
- "token_ein": 36331,
- "token_aus": 30090,
+ "eingabe_zeichen": 34678,
+ "token_ein": 37018,
+ "token_aus": 38239,
  "usage": {
   "input_tokens": 2,
-  "cache_creation_input_tokens": 29427,
+  "cache_creation_input_tokens": 30114,
   "cache_read_input_tokens": 6902,
-  "output_tokens": 30090,
+  "output_tokens": 38239,
   "output_tokens_details": {
-   "thinking_tokens": 21242
+   "thinking_tokens": 30134
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 29427,
+   "ephemeral_1h_input_tokens": 30114,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "global",
   "iterations": [
    {
     "input_tokens": 2,
-    "output_tokens": 30090,
+    "output_tokens": 38239,
     "cache_read_input_tokens": 6902,
-    "cache_creation_input_tokens": 29427,
+    "cache_creation_input_tokens": 30114,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 29427
+     "ephemeral_1h_input_tokens": 30114
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.8386043999999999,
- "sekunden": 258,
+ "kosten_usd": 1.0070804,
+ "sekunden": 345,
  "fehler": false,
- "zeit": "2026-10-17T13:22:38"
+ "zeit": "2026-10-17T14:13:45"
 }

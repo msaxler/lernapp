@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: korrigiert – Die Grabungsberichte der Landesdenkmalpflege (Grabung ab 1979) nennen unter der Kirche eine große, repräsentative römische villa rustica mit Hypokaust, Wandmalerei und Mosaiksteinen. Damit ist „eines großen Landguts“ mit „vermutlich“ gedeckt. Sie nennen aber auch mittelalterliche Kirchenfundamente und Vorgängerkirchen; eine Mühle, ein keltisches Heiligtum oder eine Burg erwähnen sie nicht. Weil es Vorgängerkirchen gibt, fragt die Vorderseite jetzt nach dem Bau, der älter ist als jede Kirche dort. Den Volltext konnte ich nicht öffnen (Zugriffssperre), nur Auszüge aus den Suchtreffern.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Grabungsberichte der Landesdenkmalpflege (Grabung ab 1979) nennen unter der Kirche eine große, repräsentative römische villa rustica mit Hypokaust, Wandmalerei und Mosaiksteinen. Damit ist „eines großen Landguts“ mit „vermutlich“ gedeckt. Sie nennen aber auch mittelalterliche Kirchenfundamente und Vorgängerkirchen; eine Mühle, ein keltisches Heiligtum oder eine Burg erwähnen sie nicht. Weil es Vorgängerkirchen gibt, fragt die Vorderseite jetzt nach dem Bau, der älter ist als jede Kirche dort. Den Volltext konnte ich nicht öffnen (Zugriffssperre), nur Auszüge aus den Suchtreffern.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 395-muellheim/011.untergrund
@@ -8,12 +8,11 @@ BEKANNTHEIT: niedrig – Den römischen Bau unter der Kirche kennt man außerhal
 VORDERSEITE:
 Müllheim
 Rund 20.000 Einwohner, 27 km südwestlich von Freiburg im Breisgau.
-Unter der Martinskirche von Müllheim fand man Reste eines Baus, der älter ist als jede Kirche an dieser Stelle. Was für einer?
+Unter der Martinskirche von Müllheim liegt ein älterer Bau. Was für einer?
 1. Dort stand eine mittelalterliche Wassermühle.
 2. Dort stand ein römisches Gebäude mit Fußbodenheizung.
 3. Dort lag ein keltisches Quellheiligtum.
 4. Dort stand eine Burg der Stauferzeit.
-(RÜCKSEITE bleibt unverändert.)
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei einem Ort namens Müllheim liegt eine Mühle nahe. Doch unter der Martinskirche steckt ein römisches Gebäude: Mosaiksteine, Wandmalerei und eine Hypokaust-Heizung, die Böden und Wände wärmte. Vermutlich war es das Kernstück eines großen römischen Landguts. Heute dient die Kirche als Konzertsaal. Richtig war 2.
 Quelle: Gemeinde-Webseite, www.muellheim.de/kultur-tourismus/martinskirche/

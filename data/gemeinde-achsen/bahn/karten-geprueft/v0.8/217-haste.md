@@ -6,7 +6,13 @@ FAKT-ID: 217-haste/006.beruf
 GEWÄHLTER FAKT: Heinrich Mensing, Gründer und Vorsitzender Eisenbahnchor Haste (1905–1908), Beruf: Gastwirt
 BEKANNTHEIT: niedrig – eine Vereinsgeschichte, die außerhalb von Haste kaum jemand kennt.
 VORDERSEITE:
-Haste / Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover. / Der heutige Eisenbahnchor Haste wurde 1905 als Männergesangverein gegründet. Welchen Beruf hatte sein Gründer? / 1. Der Gründer war ein Bahnhofsvorsteher. 2. Der Gründer war ein Gastwirt. 3. Der Gründer war ein Lokführer. 4. Der Gründer war ein Dorfschullehrer.
+Haste
+Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover.
+Der heutige Eisenbahnchor Haste wurde 1905 als Männergesangverein gegründet. Welchen Beruf hatte sein Gründer?
+1. Der Gründer war ein Bahnhofsvorsteher.
+2. Der Gründer war ein Gastwirt.
+3. Der Gründer war ein Lokführer.
+4. Der Gründer war ein Dorfschullehrer.
 RÜCKSEITE:
 Du hattest [Option] getippt. Der Name lockt auf die Schiene, doch „Eisenbahn“ trägt der Chor erst seit 1953. Gegründet hat ihn 1905 der Gastwirt Heinrich Mensing als Männergesangverein, und er führte ihn anfangs auch als Vorsitzender. Richtig war 2. / Quelle: Gemeinde-Webseite, haste.de/vereine/eisenbahnchor/vereinshistorie
 WÖRTER RÜCKSEITE: 36
@@ -77,7 +83,13 @@ FAKT-ID: GRUNDDATEN.wahl_btw25
 GEWÄHLTER FAKT: wahl_btw25 (Verbandsgemeinde Nenndorf): CDU 29,8 %, SPD 25,7 %, AfD 15 %, GRÜNE 11,8 %, Die Linke 6 %
 BEKANNTHEIT: mittel – Wahlergebnisse sind öffentlich, auf dieser Ebene kennt sie aber kaum jemand.
 VORDERSEITE:
-Haste / Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover. / Bundestagswahl 2025, Zweitstimmen in der Samtgemeinde Nenndorf, zu der Haste gehört: Welche Partei wurde dort zweitstärkste Kraft? / 1. SPD 2. CDU 3. AfD 4. Grüne
+Haste
+Haste ist eine Gemeinde mit rund 2.800 Einwohnern, 23 km westlich von Hannover.
+Bundestagswahl 2025, Zweitstimmen in der Samtgemeinde Nenndorf, zu der Haste gehört: Welche Partei wurde dort zweitstärkste Kraft?
+1. SPD
+2. CDU
+3. AfD
+4. Grüne
 RÜCKSEITE:
 Du hattest [Option] getippt. Die AfD liegt nahe, denn bundesweit wurde sie zweitstärkste Kraft. In der Samtgemeinde Nenndorf kam sie nur auf Platz drei. Vorn lag die CDU, dahinter die SPD. Richtig war 1. / Quelle: Samtgemeinde Nenndorf, amtliche Ergebnisse Bundestagswahl 2025 (votemanager.kdo.de), Stand 2025-02-23
 WÖRTER RÜCKSEITE: 37

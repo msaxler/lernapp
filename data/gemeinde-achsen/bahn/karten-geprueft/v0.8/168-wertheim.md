@@ -6,9 +6,15 @@ FAKT-ID: 168-wertheim/006.historische_nebennutzung
 GEWÄHLTER FAKT: Spitzer Turm, historische_nebennutzung, Gefängnis für Trunkenbolde und zänkische Weiber
 BEKANNTHEIT: niedrig – Der Turm ist vor Ort ein Blickfang, seine Nutzung als Gefängnis ist aber kaum über die Region hinaus bekannt.
 VORDERSEITE:
-Wertheim / Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg. / Der Spitze Turm an der Mainspitze war ein Wach- und Wartturm. Die Stadt Wertheim nennt zwei Gruppen, die dort zeitweise eingesperrt wurden. Welche? / 1. Gefangene Raubritter und Wegelagerer. / 2. Säumige Steuerzahler und Schuldner. / 3. Trunkenbolde und zänkische Weiber. / 4. Deserteure und Plünderer. — RÜCKSEITE: Du hattest [Option] getippt. Ein wehrhafter Turm lässt an schwere Verbrecher denken. Die Stadt nennt als Gefangene aber Trunkenbolde und zänkische Weiber. Aus dieser Zeit ist im Inneren das sogenannte Angstloch erhalten. Der ursprüngliche Eingang liegt hoch über dem Boden und war nur über eine Leiter erreichbar. Richtig war 3.
+Wertheim
+Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg.
+Der Spitze Turm an der Mainspitze war ein Wach- und Wartturm. Die Stadt Wertheim nennt zwei Gruppen, die dort zeitweise eingesperrt wurden. Welche?
+1. Gefangene Raubritter und Wegelagerer.
+2. Säumige Steuerzahler und Schuldner.
+3. Trunkenbolde und zänkische Weiber.
+4. Deserteure und Plünderer.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein wehrhafter Turm lässt an schwere Verbrecher denken. Eingesperrt wurden dort aber Trunkenbolde und zänkische Weiber. Aus dieser Zeit ist das Angstloch erhalten, eine Öffnung, durch die man Gefangene hinabließ. Der ursprüngliche Eingang liegt hoch über dem Boden und war nur über eine Leiter erreichbar. Richtig war 3.
+Du hattest [Option] getippt. Ein wehrhafter Turm lässt an schwere Verbrecher denken. Die Stadt nennt als Gefangene aber Trunkenbolde und zänkische Weiber. Aus dieser Zeit ist im Inneren das sogenannte Angstloch erhalten. Der ursprüngliche Eingang liegt hoch über dem Boden und war nur über eine Leiter erreichbar. Richtig war 3.
 Quelle: Gemeinde-Webseite, tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/
 WÖRTER RÜCKSEITE: 52
 NEGATIVNACHWEISE:
@@ -179,7 +185,7 @@ PRÜFSTUFE: 1 – Alle Aussagen stammen von der Gemeinde-Webseite; kein Superlat
 ERFUNDEN: keine
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Jahreszahl 1619 und den Auslöser der Explosion konnte ich nicht unabhängig klären. Eine Suche nennt für Wertheim eine Explosion des Pulverturms durch Blitzschlag am 10. August 1634 (Residenzen-Handbuch der Akademie der Wissenschaften zu Göttingen). Die Zusammenfassung zitiert den PDF-Text, ich konnte die Datei aber nicht selbst lesen. Ein Blitz als Auslöser einer Wertheimer Pulverexplosion ist also nicht abwegig, und deshalb habe ich Option 1 ersetzt.
+FAKTENCHECK: korrigiert – Die Jahreszahl 1619 und den Auslöser der Explosion konnte ich nicht unabhängig klären. Eine Suche nennt für Wertheim eine Explosion des Pulverturms durch Blitzschlag am 10. August 1634 (Residenzen-Handbuch der Akademie der Wissenschaften zu Göttingen). Die Zusammenfassung zitiert den PDF-Text, ich konnte die Datei aber nicht selbst lesen. Ein Blitz als Auslöser einer Wertheimer Pulverexplosion ist also nicht abwegig, und deshalb habe ich Option 1 ersetzt.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 168-wertheim/003.teilzerstoerung_durch_pulverexplosion
@@ -194,7 +200,7 @@ Die Burg Wertheim über der Stadt ist heute eine Ruine. Was zerstörte sie 1619 
 3. Ein Erdrutsch riss Teile vom Bergsporn.
 4. Aufständische Bauern legten in der Burg Feuer.
 RÜCKSEITE:
-Du hattest [Option] getippt. Bei einer Burgruine denkt man an Feinde oder Feuer von außen. Teilzerstört wurde die Burg Wertheim aber durch eine Pulverexplosion. Im Dreißigjährigen Krieg wurde sie zudem beschossen. Heute gehört die Ruine der Stadt und ist ihr Wahrzeichen. Richtig war 2.
+Du hattest [Option] getippt. Bei einer Burgruine denkt man an Feinde oder Naturgewalten. Teilzerstört wurde die Burg Wertheim 1619 aber durch eine Pulverexplosion. Im Dreißigjährigen Krieg wurde sie zudem beschossen. Heute gehört die Ruine der Stadt und ist ihr Wahrzeichen. Richtig war 2.
 Quelle: Gemeinde-Webseite, tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/
 WÖRTER RÜCKSEITE: 44
 NEGATIVNACHWEISE:
@@ -233,7 +239,7 @@ PRÜFSTUFE: 1 – Alle Aussagen stammen von der Gemeinde-Webseite; kein Superlat
 ERFUNDEN: 1, 2, 3
 
 ## Karte 10
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Ob auch die Gottesdienstzeiten geregelt wurden, ließ sich nicht klären. Die PDF-Studie der Badischen Landesbibliothek über Simultaneen in Baden war maschinell nicht lesbar. Option 1 ersetze ich durch eine Teilung, die der Quelltext (Langhaus ganz evangelisch) widerlegt, und „stattdessen“ fällt weg. Ein Hinweis zum Weiterprüfen: KuLaDig nennt für den katholischen Teil eine Weiternutzung bis zum Neubau der Marienkirche 1862. Das könnte dem Ende 1842 mit St. Venantius widersprechen, und ich weiß nicht sicher, ob es um dieselbe Kirche geht.
+FAKTENCHECK: korrigiert – Ob auch die Gottesdienstzeiten geregelt wurden, ließ sich nicht klären. Die PDF-Studie der Badischen Landesbibliothek über Simultaneen in Baden war maschinell nicht lesbar. Option 1 ersetze ich durch eine Teilung, die der Quelltext (Langhaus ganz evangelisch) widerlegt, und „stattdessen“ fällt weg. Ein Hinweis zum Weiterprüfen: KuLaDig nennt für den katholischen Teil eine Weiternutzung bis zum Neubau der Marienkirche 1862. Das könnte dem Ende 1842 mit St. Venantius widersprechen, und ich weiß nicht sicher, ob es um dieselbe Kirche geht.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 168-wertheim/004.simultankirche_nutzung
@@ -248,7 +254,7 @@ Von etwa 1622 bis 1842 nutzten beide Konfessionen die Stiftskirche St. Marien. W
 3. Das Langhaus war katholisch, der Chor evangelisch.
 4. Die Evangelischen durften nur die Emporen nutzen.
 RÜCKSEITE:
-Du hattest [Option] getippt. Naheliegend wäre ein Wechsel nach Uhrzeit, wie man ihn von geteilten Räumen kennt. In Wertheim teilte man stattdessen den Raum: Der Chor war katholisch, das Langhaus evangelisch. Das endete mit der Vollendung der katholischen Pfarrkirche St. Venantius. Im Chor liegen Grabmäler der Wertheimer Grafen. Richtig war 2.
+Du hattest [Option] getippt. Bei geteilten Kirchen denkt man oft an eine Trennung nach Seiten. In Wertheim verlief die Grenze zwischen Chor und Langhaus: Der Chor war katholisch, das Langhaus evangelisch. Das endete mit der Vollendung der katholischen Pfarrkirche St. Venantius. Im Chor liegen Grabmäler der Wertheimer Grafen. Richtig war 2.
 Quelle: Gemeinde-Webseite, tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/
 WÖRTER RÜCKSEITE: 51
 NEGATIVNACHWEISE:

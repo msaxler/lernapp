@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Der Superlativ hält nicht. Fachquellen beschreiben einen Versuch in drei badischen Dörfern: Dietlingen, Teningen und Bahlingen. Dietlingen begann 1770 und lief bis 1792, ein „weltweit einzig bekannter Praxistest“ in Bahlingen ist damit widerlegt. Bestätigt ist, dass Schlettwein die bisherigen Abgaben durch eine Einsteuer auf den Bodenertrag ersetzte und vor allem die indirekten Steuern abschaffte. Ob auch der Zehnt und die Fronen wegfielen, ist nicht belegt, deshalb wird Option 4 vorsichtiger formuliert. Für gemeinsame Feldbewirtschaftung (Option 2) gibt es keinen Hinweis; sie bleibt falsch.
+FAKTENCHECK: korrigiert – Der Superlativ hält nicht. Fachquellen beschreiben einen Versuch in drei badischen Dörfern: Dietlingen, Teningen und Bahlingen. Dietlingen begann 1770 und lief bis 1792, ein „weltweit einzig bekannter Praxistest“ in Bahlingen ist damit widerlegt. Bestätigt ist, dass Schlettwein die bisherigen Abgaben durch eine Einsteuer auf den Bodenertrag ersetzte und vor allem die indirekten Steuern abschaffte. Ob auch der Zehnt und die Fronen wegfielen, ist nicht belegt, deshalb wird Option 4 vorsichtiger formuliert. Für gemeinsame Feldbewirtschaftung (Option 2) gibt es keinen Hinweis; sie bleibt falsch.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 401-bahlingen/015.eingefuehrtes_steuersystem
@@ -14,8 +14,8 @@ Von 1771 bis 1776 diente Bahlingen als Musterdorf für einen Versuch. Was wurde 
 3. Alle Kinder mussten eine Winzerschule besuchen.
 4. Im Dorf galt nur noch eine einzige Steuer.
 RÜCKSEITE:
-Du hattest [Option] getippt. Steuerfreiheit klingt nach einem verlockenden Versuch. Erprobt wurde aber der Physiokratismus, eine Wirtschaftstheorie: Statt vieler Abgaben galt eine Einsteuer, französisch impôt unique. Markgraf Karl Friedrich war vermutlich von dem System überzeugt. Nach Angabe der Gemeinde ist es der weltweit einzig bekannte Praxistest dieser Theorie. Richtig war 4.
-Quelle: Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie
+Du hattest [Option] getippt. Steuerfreiheit klingt nach einem verlockenden Versuch. Erprobt wurde aber der Physiokratismus, eine Wirtschaftstheorie: Bisherige Abgaben wurden durch eine Einsteuer ersetzt, französisch impôt unique. Der Nationalökonom Schlettwein soll Markgraf Karl Friedrich davon überzeugt haben. Bahlingen war eines von drei badischen Versuchsdörfern, neben Dietlingen und Teningen. Richtig war 4.
+Quelle: Gemeinde-Webseite, www.bahlingen.de/unsere-gemeinde/gemeinde-bahlingen/historie; Deutsche Biographie, www.deutsche-biographie.de/sfz78475.html
 WÖRTER RÜCKSEITE: 51
 NEGATIVNACHWEISE:
 1: Weg (a). Fakt 015 nennt ein eingeführtes Steuersystem (Einsteuer); also wurden Steuern erhoben.

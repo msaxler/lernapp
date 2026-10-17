@@ -158,7 +158,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 7
-FAKTENCHECK: korrigiert – Keine vertrauenswürdige Quelle sagt, dass das Rathaus von 1608 von Anfang an zusätzlich als Kelter, Kornspeicher oder Gasthaus diente. Dass es so war, ließ sich aber auch nicht ausschließen. Nur Tourismusseiten (rheinhessen.de, freizeitmonster.de) und Wikipedia beschreiben das Erdgeschoss als ursprünglich offene Halle mit Rundbögen; ihren Zweck nennen sie nicht. Deshalb übernehmen die Optionen jetzt den Wortlaut der Quelle („errichtet … als Gerichtsgebäude“) statt „diente zuerst als“. So bleiben 1 bis 3 auch bei einer möglichen Mischnutzung falsch.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Keine vertrauenswürdige Quelle sagt, dass das Rathaus von 1608 von Anfang an zusätzlich als Kelter, Kornspeicher oder Gasthaus diente. Dass es so war, ließ sich aber auch nicht ausschließen. Nur Tourismusseiten (rheinhessen.de, freizeitmonster.de) und Wikipedia beschreiben das Erdgeschoss als ursprünglich offene Halle mit Rundbögen; ihren Zweck nennen sie nicht. Deshalb übernehmen die Optionen jetzt den Wortlaut der Quelle („errichtet … als Gerichtsgebäude“) statt „diente zuerst als“. So bleiben 1 bis 3 auch bei einer möglichen Mischnutzung falsch.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 134-bodenheim/004.urspruenglicher_zweck
@@ -168,10 +168,10 @@ VORDERSEITE:
 Bodenheim
 Bodenheim hat rund 7.600 Einwohner und liegt 6 km südlich von Mainz.
 Das Rathaus von Bodenheim ist ein Fachwerkbau der Renaissance. Wozu wurde es ursprünglich errichtet?
-1. Es wurde als Gasthaus für Fuhrleute errichtet.
-2. Es wurde als Kelterhaus der Winzer errichtet.
-3. Es wurde als Kornspeicher des Dorfes errichtet.
-4. Es wurde als Gerichtsgebäude errichtet.
+1. Es diente zuerst als Gasthaus für Fuhrleute.
+2. Es diente zuerst als Kelterhaus der Winzer.
+3. Es diente zuerst als Kornspeicher des Dorfes.
+4. Es diente zuerst als Haus des Gerichts.
 RÜCKSEITE:
 Du hattest [Option] getippt. Im Weinland Rheinhessen liegt ein Kelterhaus nahe. Doch das Fachwerkhaus entstand als Gerichtsgebäude: Bodenheim war Sitz eines Ober- und Dorfgerichts und Ort der Rechtsprechung auch für die Umgebung. An seiner Rückseite streckt ein Kopf die Zunge heraus. Richtig war 4.
 Quelle: Gemeinde-Webseite, www.vg-bodenheim.de/tourismus/historisches/geschichten/

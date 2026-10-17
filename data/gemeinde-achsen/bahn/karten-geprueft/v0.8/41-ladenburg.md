@@ -111,7 +111,13 @@ FAKT-ID: 41-ladenburg/019.leistung_beschreibung
 GEWÄHLTER FAKT: Johann Friedrich von Seilern, herkunft: "Ladenburger Färbersohn", karriere_titel: "Kanzler des Heiligen Römischen Reiches", leistung_beschreibung: "verfasste die Pragmatische Sanktion", leistung_kontext: "ebnete der habsburgischen Kaiserin Maria Theresia den Weg auf den Kaiserthron"
 BEKANNTHEIT: mittel – Die Pragmatische Sanktion kennt man aus dem Geschichtsunterricht, ihren Verfasser aus Ladenburg kaum jemand.
 VORDERSEITE:
-Ein Ladenburger Färbersohn wurde in Wien österreichischer Hofkanzler. Welches berühmte Dokument soll er verfasst haben? (Optionen 1–4 bleiben)
+Ladenburg
+Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.
+Ein Ladenburger Färbersohn wurde in Wien österreichischer Hofkanzler. Welches berühmte Dokument soll er verfasst haben?
+1. Er verfasste die Goldene Bulle.
+2. Er verfasste die Pragmatische Sanktion.
+3. Er verfasste das Wormser Edikt.
+4. Er verfasste den Augsburger Religionsfrieden.
 RÜCKSEITE:
 Du hattest [Option] getippt. Die Goldene Bulle klingt nach Kanzlei, entstand aber lange vor seiner Zeit. Johann Friedrich von Seilern gilt als Verfasser der Pragmatischen Sanktion. Sie sicherte der Habsburgerin Maria Theresia die Erbfolge in den habsburgischen Ländern. Richtig war 2.
 Quelle: Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte
@@ -186,7 +192,13 @@ FAKT-ID: 41-ladenburg/009.herrschaftsdauer_jahr_bis
 GEWÄHLTER FAKT: Franken in Ladenburg, beschenker: "Frankische Könige", beschenkter: "Bischof von Worms", beschenkung_jahr: 600, herrschaftsdauer: 600–1705, hauptstadt: "Hauptstadt des Lobdengaus". Ende der Herrschaft auch in 031 (Zessionsvertrag 1705, konsequenz: "Ende der bischöflichen Herrschaft").
 BEKANNTHEIT: niedrig – Die Herrschaft der Wormser Bischöfe kennen fast nur Einheimische.
 VORDERSEITE:
-Um 600 kam Ladenburg als Geschenk fränkischer Könige an den Bischof von Worms. Wie lange blieb der Bischof Stadtherr, zuletzt gemeinsam mit der Kurpfalz? (Optionen 1–4 bleiben)
+Ladenburg
+Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.
+Um 600 kam Ladenburg als Geschenk fränkischer Könige an den Bischof von Worms. Wie lange blieb der Bischof Stadtherr, zuletzt gemeinsam mit der Kurpfalz?
+1. Sie dauerte etwa 50 Jahre.
+2. Sie dauerte etwa 200 Jahre.
+3. Sie dauerte über 1.000 Jahre.
+4. Sie dauerte etwa 500 Jahre.
 RÜCKSEITE:
 Du hattest [Option] getippt. Viele vermuten, die Reformationszeit habe die Bischöfe vertrieben. Ab dem 14. Jahrhundert teilten sie sich die Stadt zwar mit der Kurpfalz. Doch erst der Zessionsvertrag zwischen Kurfürst und Bischof von Worms beendete ihre Herrschaft im Wesentlichen, im Jahr 1705. Richtig war 3.
 Quelle: Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte

@@ -212,7 +212,7 @@ PRÜFSTUFE: 1 – Alle Aussagen stammen von der Gemeinde-Webseite. Die Karte ent
 ERFUNDEN: 3, 4
 
 ## Karte 9
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Schwäbische Zeitung bestätigt: Von der früheren Martinskirche blieb nur der Chorraum übrig, heute die St.-Anna-Kapelle. Die Erbgrablege der Montforter lag nach Hinweisen in der Suche im Kloster Langnau. Den Wortlaut konnte ich aber nicht prüfen, weil die Seite der Württembergischen Landesbibliothek gesperrt war. Einzelne Adelsgräber im alten Chor lassen sich deshalb nicht ausschließen. Option 3 wird ersetzt durch eine Option, die die Quellen nachweislich widerlegen: Der Bau stammt aus dem 15. Jahrhundert und wurde 1722 nur neu geweiht. Für Siechenhaus und Pilgerkapelle fand ich keinen Hinweis.
+FAKTENCHECK: korrigiert – Die Schwäbische Zeitung bestätigt: Von der früheren Martinskirche blieb nur der Chorraum übrig, heute die St.-Anna-Kapelle. Die Erbgrablege der Montforter lag nach Hinweisen in der Suche im Kloster Langnau. Den Wortlaut konnte ich aber nicht prüfen, weil die Seite der Württembergischen Landesbibliothek gesperrt war. Einzelne Adelsgräber im alten Chor lassen sich deshalb nicht ausschließen. Option 3 wird ersetzt durch eine Option, die die Quellen nachweislich widerlegen: Der Bau stammt aus dem 15. Jahrhundert und wurde 1722 nur neu geweiht. Für Siechenhaus und Pilgerkapelle fand ich keinen Hinweis.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 316-langenargen/013.ursprung
@@ -227,7 +227,7 @@ Die spätgotische St.-Anna-Kapelle steht an der Friedhofstraße. Was war sie urs
 3. Sie wurde als Grabkapelle einer Adelsfamilie gebaut.
 4. Sie wurde als Chor der Pfarrkirche gebaut.
 RÜCKSEITE:
-Du hattest [Option] getippt. Eine Kapelle an der Friedhofstraße wirkt wie ein eigenständiger Bau, etwa für Kranke oder Pilger. Doch sie ist der Chor, also der Altarraum, der früheren Pfarrkirche St. Martin. Als die neue Barockkirche geweiht wurde, erhielt sie die heilige Anna als Patronin. Richtig war 4.
+Du hattest [Option] getippt. Eine Kapelle an der Friedhofstraße wirkt wie ein eigenständiger Bau, etwa für Kranke oder Pilger. Doch sie ist der Chor, also der Altarraum, der früheren spätgotischen Pfarrkirche St. Martin. Erst als die neue Barockkirche geweiht wurde, erhielt sie die heilige Anna als Patronin. Richtig war 4.
 Quelle: Gemeinde-Webseite, www.langenargen.de/leben-in-langenargen/glaube/kirchen-kapellen
 WÖRTER RÜCKSEITE: 48
 NEGATIVNACHWEISE:

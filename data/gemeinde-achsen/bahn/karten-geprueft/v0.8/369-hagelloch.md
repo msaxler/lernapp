@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Aussage 3: Der Quelltext sagt „gehörte ehemals“, nicht „ursprünglich“. Das Wort „ursprünglich“ hat die Extraktion falsch gelesen. Aussage 1: Der Quelltext nennt 43 Prozent Handwerker und darunter Maurer und Gipser, sagt aber nicht, dass viele Maurer oder Gipser waren. Die Lüge in Aussage 2 widerlegt der Quelltext eindeutig.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Aussage 3: Der Quelltext sagt „gehörte ehemals“, nicht „ursprünglich“. Das Wort „ursprünglich“ hat die Extraktion falsch gelesen. Aussage 1: Der Quelltext nennt 43 Prozent Handwerker und darunter Maurer und Gipser, sagt aber nicht, dass viele Maurer oder Gipser waren. Die Lüge in Aussage 2 widerlegt der Quelltext eindeutig.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 369-hagelloch/004.wirtschaftliche_entwicklung
@@ -63,9 +63,9 @@ VORDERSEITE:
 Hagelloch
 Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-1. Früher waren viele Hagellocher Handwerker, etwa Maurer oder Gipser.
+1. Früher arbeiteten viele Hagellocher als Maurer oder Gipser.
 2. Die Realteilung brachte Hagelloch einst große Bauernhöfe.
-3. Die Zehntscheuer gehörte einst zum Kloster Bebenhausen.
+3. Die Zehntscheuer gehörte ursprünglich dem Kloster Bebenhausen.
 RÜCKSEITE:
 Du hattest [Option] getippt. Große Höfe passen zum Bild vom Bauerndorf. Die Realteilung, also das Aufteilen des Landes unter allen Erben, bewirkte aber das Gegenteil: In Hagelloch entstand ein Kleinbauerntum. Nach der Ortsgeschichte bestimmte Armut jahrhundertelang das Leben im Dorf. Die Lüge war 2.
 Quelle: Gemeinde-Webseite, www.tuebingen.de/151/367.html
@@ -158,7 +158,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 7
-FAKTENCHECK: korrigiert – Der Quelltext nennt den Bau einen ummauerten Gutshof des niederen Ortsadels. Er sagt aber nicht, dass der Bau schon bei seiner Errichtung (um 1419/20) diese Funktion und die Mauer hatte. Die Frage „bei seinem Bau“ ist daher nicht gedeckt. Die Optionen 1 (Grafenhaus) und 4 (Pfarrhof) widersprechen „niederer Ortsadel“, und Option 2 schließt der Bezug auf den Ortsadel aus.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Der Quelltext nennt den Bau einen ummauerten Gutshof des niederen Ortsadels. Er sagt aber nicht, dass der Bau schon bei seiner Errichtung (um 1419/20) diese Funktion und die Mauer hatte. Die Frage „bei seinem Bau“ ist daher nicht gedeckt. Die Optionen 1 (Grafenhaus) und 4 (Pfarrhof) widersprechen „niederer Ortsadel“, und Option 2 schließt der Bezug auf den Ortsadel aus.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 369-hagelloch/006.typ
@@ -167,10 +167,10 @@ BEKANNTHEIT: niedrig – der Bau ist nur im Ort bekannt.
 VORDERSEITE:
 Hagelloch
 Stadtteil von Tübingen mit rund 1.700 Einwohnern, 15 km westlich von Reutlingen.
-Ein Bau am Torbogenweg in Hagelloch wird „Schloss“ genannt. Was ist er nach der Ortsbeschreibung?
+Ein Bau am Torbogenweg in Hagelloch wird „Schloss“ genannt. Was war er bei seinem Bau?
 1. Er war ein Jagdschloss eines Grafenhauses.
 2. Er war das Amtshaus für den Zehnteinzug.
-3. Er ist ein ummauerter Gutshof des niederen Ortsadels.
+3. Er war ein ummauerter Gutshof des niederen Ortsadels.
 4. Er war ein befestigter Pfarrhof der Dorfkirche.
 RÜCKSEITE:
 Du hattest [Option] getippt. Bei „Schloss“ denkt man an Grafen, Herzöge und Jagdgesellschaften. Am Torbogenweg steht aber kein Fürstensitz, sondern ein kleiner ummauerter Gutshof des niederen Ortsadels. Seinen Torbogen erhielt er erst später. Richtig war 3.

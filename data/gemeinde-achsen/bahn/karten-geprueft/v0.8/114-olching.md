@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: korrigiert – Ich habe keine Quelle gefunden, die Flößer auf der Amper oder andere Gegner der Trasse nennt. Ausgeschlossen ist es aber auch nicht, deshalb ersetze ich Option 2 durch eine Option, die aus zeitlichen Gründen falsch sein muss. Gröbenzell wurde erst 1952 eine eigene Gemeinde. Das habe ich in diesem Durchgang nicht nachgeschlagen, es sollte auf der Webseite der Gemeinde Gröbenzell noch geprüft werden. Die Quellenzeile ist nach dem Befund aus Stufe 1 berichtigt.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Ich habe keine Quelle gefunden, die Flößer auf der Amper oder andere Gegner der Trasse nennt. Ausgeschlossen ist es aber auch nicht, deshalb ersetze ich Option 2 durch eine Option, die aus zeitlichen Gründen falsch sein muss. Gröbenzell wurde erst 1952 eine eigene Gemeinde. Das habe ich in diesem Durchgang nicht nachgeschlagen, es sollte auf der Webseite der Gemeinde Gröbenzell noch geprüft werden. Die Quellenzeile ist nach dem Befund aus Stufe 1 berichtigt.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 114-olching/016.opposition
@@ -115,12 +115,12 @@ Olching
 Olching ist eine Stadt mit rund 27.000 Einwohnern, 20 km westlich von München.
 Als die Bahn München–Augsburg gebaut wurde, gab es Widerstand gegen die ursprünglich geplante Trasse. Von wem?
 1. Eine Posthalterfamilie aus Fürstenfeldbruck wehrte sich.
-2. Die Gemeinde Gröbenzell wehrte sich.
+2. Die Flößer auf der Amper wehrten sich.
 3. Die Mönche von Kloster Fürstenfeld wehrten sich.
 4. Die Pfarrei Olching wehrte sich.
 RÜCKSEITE:
 Du hattest [Option] getippt. Wer an Widerstand gegen die Bahn denkt, denkt an Grundbesitzer wie ein Kloster. Belegt ist anderes: Die Posthalterfamilie Weiß in Fürstenfeldbruck wehrte sich gegen die ursprüngliche Trassenführung. Kloster Fürstenfeld war in Olching nur bis zur Säkularisierung begütert. Richtig war 1.
-Quelle: Gemeinde-Webseite, www.olching.de/politik-and-service/stadtportrait/stadtgeschichte
+Quelle: Gemeinde-Webseite, www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse
 WÖRTER RÜCKSEITE: 44
 NEGATIVNACHWEISE:
 2: Weg (c). FAKTEN nennen genau eine Seite, die Widerstand leistete: die Posthaltersfamilie Weiß (016).

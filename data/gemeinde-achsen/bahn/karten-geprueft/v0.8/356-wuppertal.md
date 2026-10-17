@@ -165,6 +165,8 @@ FAKT-ID: 356-wuppertal/002.konstrukteur
 GEWÄHLTER FAKT: Schwebebahn Wuppertal, konstrukteur, Eugen Langen
 BEKANNTHEIT: hoch – Die Schwebebahn ist bundesweit bekannt. Gefragt wird nach dem Konstrukteur, den kaum jemand kennt.
 VORDERSEITE:
+Wuppertal
+Großstadt mit rund 357.000 Einwohnern, 29 km Luftlinie von Düsseldorf.
 Die Schwebebahn ist das Wahrzeichen Wuppertals und fährt größtenteils über der Wupper. Wer hat sie erfunden?
 1. Eugen Langen erfand die Schwebebahn.
 2. Ferdinand von Zeppelin erfand die Schwebebahn.

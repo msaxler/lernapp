@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Aussage 1 „Vor dem Rathausbau“ trifft den Quelltext nicht genau. Dort steht „als Frankfurt noch kein eigenes Rathaus besaß“. Nach der Seite „Geschichte des Instituts“ wurde das Rathaus 1405 gekauft und umgebaut, nicht neu gebaut. In Aussage 2 macht „Nach der Reformation“ aus „im Gefolge“ eine Zeitangabe, und „selbst“ fehlt. Die Lüge 3 und die Rückseite sind belegt (Niederlegung Ende 18. Jh., Revolution unterbrach die Baupläne, die Paulskirche ersetzte die 1786 abgerissene Barfüßerkirche).
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Aussage 1 „Vor dem Rathausbau“ trifft den Quelltext nicht genau. Dort steht „als Frankfurt noch kein eigenes Rathaus besaß“. Nach der Seite „Geschichte des Instituts“ wurde das Rathaus 1405 gekauft und umgebaut, nicht neu gebaut. In Aussage 2 macht „Nach der Reformation“ aus „im Gefolge“ eine Zeitangabe, und „selbst“ fehlt. Die Lüge 3 und die Rückseite sind belegt (Niederlegung Ende 18. Jh., Revolution unterbrach die Baupläne, die Paulskirche ersetzte die 1786 abgerissene Barfüßerkirche).
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 44-frankfurt/013.niederlegung
@@ -63,8 +63,8 @@ VORDERSEITE:
 Frankfurt am Main
 Rund 760.000 Einwohner, Großstadt am Main, 31 km Luftlinie von der Landeshauptstadt Wiesbaden.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-1. Bevor Frankfurt ein eigenes Rathaus hatte, nutzte der Rat das Barfüßerkloster.
-2. Infolge der Reformation löste sich der Barfüßerkonvent selbst auf.
+1. Vor dem Rathausbau nutzte der Rat das Barfüßerkloster.
+2. Nach der Reformation löste sich der Barfüßerkonvent auf.
 3. Die Barfüßerkirche steht noch heute neben der Paulskirche.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein zweiter alter Kirchenbau gleich daneben klingt in einer Altstadt plausibel. Doch die Barfüßerkirche, später Hauptkirche der lutherischen Reichsstadt, wurde niedergelegt, um Platz für einen Neubau zu schaffen. Die Französische Revolution und ihre Kriege unterbrachen die Baupläne. Der Neubau wurde die Paulskirche. Die Lüge war 3.

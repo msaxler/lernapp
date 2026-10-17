@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: korrigiert – Der Grund ist belegt: Nach dem Verlust Breisachs 1697 (Frieden von Rijswijk) wurde ab 1699 eine neue Festung gebaut, fertig um 1703. Für Zollaufgaben (Option 2) fand ich keinen Beleg. Option 4 bleibt heikel, weil nach Rijswijk auch die französische Rheinstadt Saint-Louis aufgegeben wurde. Ich ersetze sie deshalb durch eine nachweislich falsche Option.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Der Grund ist belegt: Nach dem Verlust Breisachs 1697 (Frieden von Rijswijk) wurde ab 1699 eine neue Festung gebaut, fertig um 1703. Für Zollaufgaben (Option 2) fand ich keinen Beleg. Option 4 bleibt heikel, weil nach Rijswijk auch die französische Rheinstadt Saint-Louis aufgegeben wurde. Ich ersetze sie deshalb durch eine nachweislich falsche Option.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 70-breisach/045.beschreibung
@@ -117,7 +117,7 @@ Auf der anderen Rheinseite baute Vauban die Stadt Neuf-Brisach. Welchen Grund ne
 1. Sie ersetzte Breisach nach einem Friedensvertrag.
 2. Sie diente als Zollstation für den Rheinhandel.
 3. Sie war als Residenz eines Fürsten gedacht.
-4. Sie wurde als Sitz eines Bischofs gegründet.
+4. Sie ersetzte ein vom Rhein zerstörtes Dorf.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Zollposten am Rhein läge nahe, denn der Fluss war ein wichtiger Handelsweg. Die Ortsgeschichte nennt aber den Frieden von Rijswijk: Danach baute Vauban Neuf-Brisach als Ersatz für Breisach, in Sichtweite auf der anderen Rheinseite. Heute ist die Stadt Breisachs Partnerstadt. Richtig war 1.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Breisach_am_Rhein

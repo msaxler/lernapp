@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Laut QUELLTEXT war nicht die Burg ein österreichisches Lehen, sondern die Herrschaft Wiesneck („Die Herrschaft war österreichisches Lehen“, später „das Lehen Wiesneck“). Aussage 1 wird entsprechend genauer gefasst. Aussage 2 und die Wappenbeschreibung sind wörtlich belegt. Dass der Wellenbalken ein häufiges Zeichen für Wasser ist, ist allgemeine Wappenkunde und wird nicht als Aussage über Buchenbach gelesen.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Laut QUELLTEXT war nicht die Burg ein österreichisches Lehen, sondern die Herrschaft Wiesneck („Die Herrschaft war österreichisches Lehen“, später „das Lehen Wiesneck“). Aussage 1 wird entsprechend genauer gefasst. Aussage 2 und die Wappenbeschreibung sind wörtlich belegt. Dass der Wellenbalken ein häufiges Zeichen für Wasser ist, ist allgemeine Wappenkunde und wird nicht als Aussage über Buchenbach gelesen.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 73-buchenbach/046.beschreibung
@@ -63,7 +63,7 @@ VORDERSEITE:
 Buchenbach
 Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-1. Die Herrschaft Wiesneck war einst ein österreichisches Lehen.
+1. Die Burg Wiesneck war einst ein österreichisches Lehen.
 2. Falkensteig gehört als Ortsteil zur Gemeinde Buchenbach.
 3. Das Gemeindewappen zeigt eine grüne Tanne in Silber.
 RÜCKSEITE:
@@ -219,7 +219,9 @@ FAKT-ID: 73-buchenbach/026.erbaut_von
 GEWÄHLTER FAKT: Vaterunser-Kapelle (Ibental), bauzeit_jahren: 1967–1968, erbaut_von: Theophil Herder-Dorneich (Verleger)
 BEKANNTHEIT: niedrig – Den Verlegernamen Herder kennen manche, die Kapelle kaum jemand.
 VORDERSEITE:
-… Im Ibental steht die Vaterunser-Kapelle aus den 1960er-Jahren. Wer ließ sie bauen?
+Buchenbach
+Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.
+Im Ibental steht die Vaterunser-Kapelle aus den 1960er-Jahren. Wer ließ sie bauen?
 1. Talbauern nach einem Unwetter.
 2. Ein Orden, als Wallfahrtsort.
 3. Ein Verleger.

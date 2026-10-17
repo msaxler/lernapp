@@ -165,9 +165,15 @@ FAKT-ID: 116-engen/011.zerstoerung
 GEWÄHLTER FAKT: Burg Anselfingen (burg), zerstoerung: 1639 (kaiserlich-bayrische Truppen); heutige_reste: noch vorhanden
 BEKANNTHEIT: niedrig – die Burg ist nur lokal bekannt.
 VORDERSEITE:
-„Die Burg Hohenhewen auf dem Berg über dem Engener Stadtteil Anselfingen wurde 1639 zerstört. Von wem?“ (Optionen 1–4 bleiben.) RÜCKSEITE: „Du hattest [Option] getippt. Schweden liegen nahe, denn schwedische Heere zogen im Dreißigjährigen Krieg durch Süddeutschland. Doch die Burg Hohenhewen zerstörten kaiserlich-bayerische Truppen, also Soldaten der kaiserlichen Seite. Reste der Burg sind noch vorhanden. Richtig war 1.“
+Engen
+Engen hat gut 11.000 Einwohner und liegt 70 km östlich von Freiburg im Breisgau.
+Die Burg Hohenhewen auf dem Berg über dem Engener Stadtteil Anselfingen wurde 1639 zerstört. Von wem?
+1. Kaiserlich-bayerische Truppen zerstörten sie.
+2. Schwedische Truppen zerstörten sie.
+3. Französische Truppen zerstörten sie.
+4. Eidgenössische Truppen zerstörten sie.
 RÜCKSEITE:
-Du hattest [Option] getippt. Schweden liegen nahe, denn schwedische Heere zogen im Dreißigjährigen Krieg durch Süddeutschland. Doch die Burg Anselfingen zerstörten kaiserlich-bayerische Truppen, also Soldaten der kaiserlichen Seite. Reste der Burg sind noch vorhanden. Richtig war 1.
+Du hattest [Option] getippt. Schweden liegen nahe, denn schwedische Heere zogen im Dreißigjährigen Krieg durch Süddeutschland. Doch die Burg Hohenhewen zerstörten kaiserlich-bayerische Truppen, also Soldaten der kaiserlichen Seite. Reste der Burg sind noch vorhanden. Richtig war 1.
 Quelle: Gemeinde-Webseite, www.engen.de/leben+in+engen/unsere+stadt/stadtteile
 WÖRTER RÜCKSEITE: 37
 NEGATIVNACHWEISE:

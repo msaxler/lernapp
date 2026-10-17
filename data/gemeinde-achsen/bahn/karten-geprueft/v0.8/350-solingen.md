@@ -1,5 +1,5 @@
 ## Karte 1
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Keine vertrauenswürdige Quelle belegt die Ableitung von solag („kotig, schmutzig“). Gefunden wurden nur Schul- und Privatseiten, die „Sol“ als Wort für Suhle oder Schlamm deuten. Ob die Fachliteratur die Sole- oder eine Sippen-Deutung vertritt, ließ sich nicht klären. Deshalb bekommt die Karte einen Vorbehalt, und die riskante Option 4 („-ingen“ als Sippenname, ein verbreitetes Muster bei Ortsnamen) wird ersetzt. „Schlammig“ trifft „kotig, schmutzig“ sinngemäß, denn Kot heißt im älteren Deutsch auch Schlamm oder Dreck.
+FAKTENCHECK: korrigiert – Keine vertrauenswürdige Quelle belegt die Ableitung von solag („kotig, schmutzig“). Gefunden wurden nur Schul- und Privatseiten, die „Sol“ als Wort für Suhle oder Schlamm deuten. Ob die Fachliteratur die Sole- oder eine Sippen-Deutung vertritt, ließ sich nicht klären. Deshalb bekommt die Karte einen Vorbehalt, und die riskante Option 4 („-ingen“ als Sippenname, ein verbreitetes Muster bei Ortsnamen) wird ersetzt. „Schlammig“ trifft „kotig, schmutzig“ sinngemäß, denn Kot heißt im älteren Deutsch auch Schlamm oder Dreck.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 350-solingen/001.namensherkunft
@@ -14,8 +14,8 @@ Woher stammt nach der Ortsgeschichte der Name Solingen?
 3. Der Name erinnert an ein altes Sonnenheiligtum.
 4. Der Name nennt die Sippe eines Gründers.
 RÜCKSEITE:
-Du hattest [Option] getippt. Bei Solingen denken viele an Sole, also Salzwasser, weil der Name so klingt. Tatsächlich steckt das altsächsische Adjektiv solag darin: kotig, schmutzig. Gemeint ist eine Schweinesuhle, also ein schlammiger Platz, an dem sich Schweine wälzen. Richtig war 1.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Solingen
+Du hattest [Option] getippt. Bei Solingen denken viele an Sole, also Salzwasser, oder wegen der Klingen an ein Wort für Klinge. Meist wird der Name aber vom altsächsischen solag abgeleitet: kotig, schmutzig. Gemeint wäre eine Schweinesuhle, also ein schlammiger Platz, an dem sich Schweine wälzen. Richtig war 1.
+Quelle: Wikipedia, mit Vermerk „Namensdeutung ohne zweiten Beleg“.
 WÖRTER RÜCKSEITE: 42
 NEGATIVNACHWEISE:
 2: Weg (c). FAKTEN nennen genau eine Herkunft (solag, Schweinesuhle); die Sole-Deutung liegt beim heutigen Ortsnamen nahe.
@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Deutsche Bahn als Eigentümerin nennt die Brücke „zwischen Solingen und Remscheid“ und „die höchste Eisenbahnbrücke aus Stahl in Deutschland“ (107 m). Die Brücke überquert das Tal der Wupper. Der Superlativ muss daher auf „aus Stahl“ eingeschränkt werden, und „steht in Solingen“ wird zu „zwischen Solingen und Remscheid“. Dass Wermelskirchen, Burscheid und Hückeswagen im Bergischen Land liegen, habe ich nicht eigens gesucht; es ist Allgemeinwissen.
+FAKTENCHECK: korrigiert – Die Deutsche Bahn als Eigentümerin nennt die Brücke „zwischen Solingen und Remscheid“ und „die höchste Eisenbahnbrücke aus Stahl in Deutschland“ (107 m). Die Brücke überquert das Tal der Wupper. Der Superlativ muss daher auf „aus Stahl“ eingeschränkt werden, und „steht in Solingen“ wird zu „zwischen Solingen und Remscheid“. Dass Wermelskirchen, Burscheid und Hückeswagen im Bergischen Land liegen, habe ich nicht eigens gesucht; es ist Allgemeinwissen.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 350-solingen/003.verbindet
@@ -119,8 +119,8 @@ Deutschlands höchste Eisenbahnbrücke steht in Solingen, die Müngstener Brück
 3. Die Brücke führt hinüber nach Burscheid.
 4. Die Brücke führt hinüber nach Hückeswagen.
 RÜCKSEITE:
-Du hattest [Option] getippt. Alle vier Städte liegen im Bergischen Land, das macht das Raten schwer. Die Müngstener Brücke, Solingens Wahrzeichen, spannt sich über das Tal der Wupper und verbindet Solingen mit Remscheid. Richtig war 1.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Solingen
+Du hattest [Option] getippt. Alle vier Städte liegen im Bergischen Land, das macht das Raten schwer. Die Müngstener Brücke, Solingens Wahrzeichen, spannt sich 107 Meter hoch über das Tal der Wupper und verbindet Solingen mit Remscheid. Richtig war 1.
+Quelle: Deutsche Bahn.
 WÖRTER RÜCKSEITE: 36
 NEGATIVNACHWEISE:
 2: Weg (a). 350-solingen/003.verbindet: Solingen und Remscheid; eine Brücke hat genau diese zwei Enden.
@@ -158,7 +158,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 7
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Das Wort „früher“ ist falsch. Die gültige Hauptsatzung der Stadt (§ 2 Abs. 1) beschreibt das heutige Wappen mit einem goldenen Anker, gekreuzt mit zwei Schwertern. Dass der Anker als Zeichen des Stadtpatrons Clemens die Heiligenfigur der alten Siegel ersetzt hat, steht nur in heraldischen Sammelseiten, nicht in einer vertrauenswürdigen Quelle. Das Ertränken mit dem Anker ist Legende. Deshalb braucht die Karte die Vorbehalte „gilt als“ und „der Legende nach“.
+FAKTENCHECK: korrigiert – Das Wort „früher“ ist falsch. Die gültige Hauptsatzung der Stadt (§ 2 Abs. 1) beschreibt das heutige Wappen mit einem goldenen Anker, gekreuzt mit zwei Schwertern. Dass der Anker als Zeichen des Stadtpatrons Clemens die Heiligenfigur der alten Siegel ersetzt hat, steht nur in heraldischen Sammelseiten, nicht in einer vertrauenswürdigen Quelle. Das Ertränken mit dem Anker ist Legende. Deshalb braucht die Karte die Vorbehalte „gilt als“ und „der Legende nach“.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 350-solingen/011.früher_stadtwappen_anker_attribut
@@ -173,7 +173,7 @@ Das Solinger Stadtwappen zeigte früher einen Anker. Welchen Grund nennt die Sta
 3. Der Stadtpatron Clemens wurde mit einem Anker ertränkt.
 4. Der Anker war das Zunftzeichen der Klingenschmiede.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Anker lässt an Schifffahrt oder Handel denken. Gemeint war aber der Schutzpatron der Stadt, der heilige Clemens: Er wurde mit einem Anker ertränkt, darum ist der Anker sein Zeichen. Nach ihm heißt auch die Kirche St. Clemens. Richtig war 3.
+Du hattest [Option] getippt. Ein Anker lässt an Schifffahrt oder Handel denken. Er gilt aber als Zeichen des Stadtpatrons, des heiligen Clemens: Der Legende nach wurde er mit einem Anker ertränkt. Nach ihm heißt auch die Kirche St. Clemens. Richtig war 3.“ Vermerk: Bezug des Ankers auf Clemens ohne zweiten Beleg.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Solingen
 WÖRTER RÜCKSEITE: 45
 NEGATIVNACHWEISE:

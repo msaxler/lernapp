@@ -158,17 +158,23 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 7
-FAKTENCHECK: korrigiert – Die Universität Münster bestätigt den Fall vom 10.07.2018 und mehrere Bruchstücke; damit sind die Optionen 2 und 4 falsch. Laut BNN war das Bersten bis zu 400 km weit zu sehen; damit ist Option 3 falsch. Den Rang „erster gesicherter Meteoritenfall in Baden-Württemberg“ fand ich nur in einer Pressemitteilung auf meteorites.de, einer Sammlerseite, nicht in einer vertrauenswürdigen Quelle. Deshalb steht dort jetzt „gilt als“. Für Elsass und Lothringen fand ich keinen Beleg; die Rückseite nennt stattdessen die 400 km.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Universität Münster bestätigt den Fall vom 10.07.2018 und mehrere Bruchstücke; damit sind die Optionen 2 und 4 falsch. Laut BNN war das Bersten bis zu 400 km weit zu sehen; damit ist Option 3 falsch. Den Rang „erster gesicherter Meteoritenfall in Baden-Württemberg“ fand ich nur in einer Pressemitteilung auf meteorites.de, einer Sammlerseite, nicht in einer vertrauenswürdigen Quelle. Deshalb steht dort jetzt „gilt als“. Für Elsass und Lothringen fand ich keinen Beleg; die Rückseite nennt stattdessen die 400 km.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 32-renchen/033.superlativ
 GEWÄHLTER FAKT: Meteorit von Renchen, superlativ, erster gesicherter Meteoritenfall in Baden-Württemberg (Feuerkugel am 10.07.2018; Beobachtungsgebiet u. a. Baden-Württemberg, Elsass, Lothringen; Fundmenge 5 Rohstücke und mehrere Fragmente)
 BEKANNTHEIT: mittel – die Feuerkugel ging 2018 durch die regionalen Medien, der Rang des Falls ist kaum bekannt.
 VORDERSEITE:
-Option 1 lautet: „1. Er gilt als erster gesicherter Meteoritenfall im Land.“ (alles Übrige unverändert)
+Renchen
+Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.
+Im Juli 2018 zog nachts eine sehr helle Feuerkugel über Baden-Württemberg. Was stimmt über den Meteoriten von Renchen?
+1. Er war der erste gesicherte Meteoritenfall im Land.
+2. Man fand nur einen einzigen großen Brocken.
+3. Die Feuerkugel war nur über Renchen zu sehen.
+4. Trotz langer Suche fand man kein Bruchstück.
 RÜCKSEITE:
-Du hattest [Option] getippt. Weil der Meteorit Renchen heißt, liegt nahe, dass man ihn nur dort sah. Die Feuerkugel leuchtete aber über Süddeutschland, ihr Bersten war bis zu 400 km weit zu sehen. Später fand man mehrere Bruchstücke. Renchen gilt als erster gesicherter Meteoritenfall in Baden-Württemberg. Richtig war 1.
-Quelle: Universität Münster, uni-muenster.de/news/view.php?cmdid=9853; BNN
+Du hattest [Option] getippt. Weil der Meteorit Renchen heißt, liegt nahe, dass man ihn nur dort sah. Die Feuerkugel leuchtete aber bis ins Elsass und nach Lothringen. Später fand man mehrere Bruchstücke. Es war der erste gesicherte Meteoritenfall in Baden-Württemberg. Richtig war 1.
+Quelle: Wikipedia, de.wikipedia.org/wiki/Renchen
 WÖRTER RÜCKSEITE: 43
 NEGATIVNACHWEISE:
 2: Weg (a). Laut 033 umfasst die Fundmenge 5 Rohstücke und mehrere Fragmente.

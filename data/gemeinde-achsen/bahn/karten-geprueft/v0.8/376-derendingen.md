@@ -6,7 +6,13 @@ FAKT-ID: 376-derendingen/004.erinnerung_heute
 GEWÄHLTER FAKT: Primus Truber (persoenlichkeit); herkunft: Slowenien; beruf: Reformator; position: Gemeindepfarrer in Derendingen 1567–1586; besonderheit: Denkmal in St. Gallus-Kirche; erinnerung_heute: Wallfahrtsort für slowenische Besucher
 BEKANNTHEIT: mittel – In Slowenien ist Truber eine Nationalfigur, in Deutschland kennt ihn kaum jemand, und dass er in Derendingen Pfarrer war, weiß man nicht nebenbei.
 VORDERSEITE:
-Derendingen / Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen. / Die St.-Gallus-Kirche in Derendingen gilt bis heute als eine Art Wallfahrtsort für Slowenen. Warum kommen sie gerade hierher? / 1. Ihre Glocken wurden einst in Slowenien gegossen. / 2. Ein slowenischer Reformator war hier Pfarrer. / 3. Ein slowenisches Kloster besaß früher das Dorf. / 4. Die Kirche ist einer slowenischen Kathedrale nachgebaut.
+Derendingen
+Derendingen ist ein Stadtteil von Tübingen mit rund 6.600 Einwohnern, 11 km westlich von Reutlingen.
+Die St.-Gallus-Kirche in Derendingen gilt bis heute als eine Art Wallfahrtsort für Slowenen. Warum kommen sie gerade hierher?
+1. Ihre Glocken wurden einst in Slowenien gegossen.
+2. Ein slowenischer Reformator war hier Pfarrer.
+3. Ein slowenisches Kloster besaß früher das Dorf.
+4. Die Kirche ist einer slowenischen Kathedrale nachgebaut.
 RÜCKSEITE:
 Du hattest [Option] getippt. Naheliegend wäre ein Kloster, denn Wallfahrten kennt man vor allem aus katholischer Tradition. Doch der slowenische Reformator Primus Truber war in Derendingen Gemeindepfarrer. An ihn erinnert dort ein Denkmal. Richtig war 2.
 Quelle: Gemeinde-Webseite, www.tuebingen.de/150/358.html

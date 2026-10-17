@@ -185,7 +185,7 @@ PRÜFSTUFE: 1 – Alle Aussagen stammen von der Gemeinde-Webseite, die Karte hat
 ERFUNDEN: keine
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Das Landesamt für Geologie (LGRB) bestätigt den Landesmittelpunkt nach der Schwerpunkt-Methode im Elysium im Käsenbachtal. Den Stein beschreibt es als 1986 aufgestellten Kegel „Nabel der kleinen Welt“ aus fränkischem Kalkstein des Oberen Muschelkalks. Er ist also nicht aus dem „Frankenjura“, und nach der Extremwert-Methode liegt die Mitte in Böblingen. Das PDF ließ sich nicht direkt lesen, deshalb stammen diese Angaben aus dem Suchauszug. Den Luise-Wetzel-Weg und den Hornkopf als höchsten Punkt fand ich in keiner vertrauenswürdigen Quelle. Option 1 bleibt trotzdem falsch, weil der Stein in einem Tal steht. Option 3 ist falsch: Eberhard im Bart wurde zuerst im Stift St. Peter auf dem Einsiedel beigesetzt und 1537 in den Chor der Stiftskirche umgebettet. Option 4 ist falsch, weil der Stein erst 1986 als Mittelpunktsmal gesetzt wurde.
+FAKTENCHECK: korrigiert – Das Landesamt für Geologie (LGRB) bestätigt den Landesmittelpunkt nach der Schwerpunkt-Methode im Elysium im Käsenbachtal. Den Stein beschreibt es als 1986 aufgestellten Kegel „Nabel der kleinen Welt“ aus fränkischem Kalkstein des Oberen Muschelkalks. Er ist also nicht aus dem „Frankenjura“, und nach der Extremwert-Methode liegt die Mitte in Böblingen. Das PDF ließ sich nicht direkt lesen, deshalb stammen diese Angaben aus dem Suchauszug. Den Luise-Wetzel-Weg und den Hornkopf als höchsten Punkt fand ich in keiner vertrauenswürdigen Quelle. Option 1 bleibt trotzdem falsch, weil der Stein in einem Tal steht. Option 3 ist falsch: Eberhard im Bart wurde zuerst im Stift St. Peter auf dem Einsiedel beigesetzt und 1537 in den Chor der Stiftskirche umgebettet. Option 4 ist falsch, weil der Stein erst 1986 als Mittelpunktsmal gesetzt wurde.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 93-tuebingen/026.beschreibung
@@ -200,8 +200,8 @@ Im Tübinger Wald Elysium steht ein kegelförmiger Stein aus dem Frankenjura. Wa
 3. Er markiert das Grab Eberhards im Bart.
 4. Er markiert eine alte Tübinger Gerichtsstätte.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein auffälliger Stein im Wald lässt an Grab, Gipfel oder Gerichtsort denken. Doch er markiert den geografischen Landesmittelpunkt Baden-Württembergs, errechnet nach der Schwerpunkt-Methode. Er liegt unterhalb des Luise-Wetzel-Wegs nahe dem Botanischen Garten. Richtig war 2.
-Quelle: Wikipedia, de.wikipedia.org/wiki/Tübingen
+Du hattest [Option] getippt. Ein auffälliger Stein im Wald lässt an Grab, Gipfel oder Gerichtsort denken. Doch er markiert den geografischen Landesmittelpunkt Baden-Württembergs, errechnet nach der Schwerpunkt-Methode. Er steht im Käsenbachtal nahe dem Botanischen Garten. Richtig war 2.
+Quelle: Landesamt für Geologie, Rohstoffe und Bergbau, www.lgrb-bw.de/sites/default/files/download_pool/lgrb_n1602.pdf
 WÖRTER RÜCKSEITE: 39
 NEGATIVNACHWEISE:
 1: Weg (a). Laut 93-tuebingen/025 ist der höchste Punkt der Hornkopf im Schönbuch nördlich von Hagelloch.
@@ -239,7 +239,7 @@ PRÜFSTUFE: 2 – Der Fakt stammt nur aus Wikipedia.
 ERFUNDEN: 1, 2, 4
 
 ## Karte 10
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Universität bestätigt „erste in Deutschland“ nicht, sondern nennt die 1817 gegründete „Staatswirtschaftliche Fakultät“ die älteste der heute noch bestehenden Wirtschaftsfakultäten in Deutschland. List war dort „erster Professor am Lehrstuhl Staatsverwaltungspraxis“, aber nicht der erste Professor der ganzen Fakultät. Die erste Naturwissenschaftliche Fakultät an einer deutschen Universität (1863) bestätigen Seiten der Universität.
+FAKTENCHECK: korrigiert – Die Universität bestätigt „erste in Deutschland“ nicht, sondern nennt die 1817 gegründete „Staatswirtschaftliche Fakultät“ die älteste der heute noch bestehenden Wirtschaftsfakultäten in Deutschland. List war dort „erster Professor am Lehrstuhl Staatsverwaltungspraxis“, aber nicht der erste Professor der ganzen Fakultät. Die erste Naturwissenschaftliche Fakultät an einer deutschen Universität (1863) bestätigen Seiten der Universität.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 93-tuebingen/003.superlativ
@@ -254,8 +254,8 @@ Universitätsstadt am Neckar mit rund 93.000 Einwohnern, 11 km westlich von Reut
 3. Es war eine Medizinische Fakultät.
 4. Es war eine Juristische Fakultät.
 RÜCKSEITE:
-Du hattest [Option] getippt. Naturwissenschaften klingen nach Aufbruch, und tatsächlich war Tübingen auch dort Vorreiter, nur Jahrzehnte später. Zuerst kam die Staatswissenschaftliche Fakultät, die erste in Deutschland; erster Professor war Friedrich List. Medizin und Jura gab es schon seit Gründung der Universität. Richtig war 1.
-Quelle: Gemeinde-Webseite, www.tuebingen.de/172/41.html
+Du hattest [Option] getippt. Naturwissenschaften klingen nach Aufbruch, und Tübingen gründete 1863 tatsächlich die erste Naturwissenschaftliche Fakultät an einer deutschen Universität. 1817 aber kam die Staatswirtschaftliche Fakultät, mit Friedrich List als Professor. Sie gilt heute als älteste noch bestehende Wirtschaftsfakultät Deutschlands. Medizin und Jura gab es schon seit 1477. Richtig war 1.
+Quelle: Universität Tübingen, uni-tuebingen.de/de/132187
 WÖRTER RÜCKSEITE: 45
 NEGATIVNACHWEISE:
 2: Weg (a). Laut 93-tuebingen/005 wurde die Naturwissenschaftliche Fakultät erst 1863 gegründet.

@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Heinrich IV. wurde 1054 zum König gekrönt und erst am 31.3.1084 zum Kaiser. 1064 war er also König, nicht Kaiser. Dazu kommt ein ungesicherter Hinweis: Ein Wikipedia-Spiegel (de-academic) und eine Suchzusammenfassung ordnen eine Urkunde Heinrichs IV. vom 5.12.1064 mit dem Recht zum Salzsieden dem Ort Sulza in Thüringen zu. Vielleicht verwechselt die Gemeinde-Webseite also die Orte. Eine vertrauenswürdige Quelle dafür habe ich nicht gefunden. Vor der Freigabe sollte das noch jemand prüfen.
+FAKTENCHECK: korrigiert – Heinrich IV. wurde 1054 zum König gekrönt und erst am 31.3.1084 zum Kaiser. 1064 war er also König, nicht Kaiser. Dazu kommt ein ungesicherter Hinweis: Ein Wikipedia-Spiegel (de-academic) und eine Suchzusammenfassung ordnen eine Urkunde Heinrichs IV. vom 5.12.1064 mit dem Recht zum Salzsieden dem Ort Sulza in Thüringen zu. Vielleicht verwechselt die Gemeinde-Webseite also die Orte. Eine vertrauenswürdige Quelle dafür habe ich nicht gefunden. Vor der Freigabe sollte das noch jemand prüfen.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 85-sulz/015.betriebsende
@@ -67,7 +67,7 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. 1897 wurde in Sulz eine Buntweberei gegründet.
 3. Bis 1974 förderte die Saline Sulz noch Salz.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Kaiser, der dem Ort den Salzabbau erlaubt, klingt nach Legende – stimmt aber: Kaiser Heinrich genehmigte ihn 1064. Gelogen war das späte Ende: Die Saline schloss schon 1924; auf dem Wöhrd entstand später ein Wohngebiet. Die Buntweberei von 1897 gab es wirklich. Die Lüge war 3.
+Du hattest [Option] getippt. Ein König, der dem Ort das Salzsieden erlaubt, klingt nach Legende – stimmt aber: König Heinrich gestattete es 1064. Gelogen war das späte Ende: Die Saline schloss schon 1924; auf dem Wöhrd entstand später ein Wohngebiet. Die Buntweberei von 1897 gab es wirklich. Die Lüge war 3.
 Quelle: Gemeinde-Webseite, www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar
 WÖRTER RÜCKSEITE: 51
 NEGATIVNACHWEISE:

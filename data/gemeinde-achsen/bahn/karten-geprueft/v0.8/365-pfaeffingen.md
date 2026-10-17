@@ -104,7 +104,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 5
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Keine vertrauenswürdige Quelle nennt Andreas von Kröwelsau ausdrücklich einen Adligen. Die Oberamtsbeschreibung nennt die Kröwelsauer nur als Besitzer eines der Pfäffinger Schlösser. Ein Findbuch des Landesarchivs nennt sogar einen „Albrecht Kirchherr von Kröwelsau genannte Pfeffinger“, also einen Geistlichen aus der Familie. Deshalb wird Option 3 neutral formuliert, und der Satz zu Gültlingen wird wie in Stufe 1 verlangt an die Quelle angeglichen.
+FAKTENCHECK: korrigiert – Keine vertrauenswürdige Quelle nennt Andreas von Kröwelsau ausdrücklich einen Adligen. Die Oberamtsbeschreibung nennt die Kröwelsauer nur als Besitzer eines der Pfäffinger Schlösser. Ein Findbuch des Landesarchivs nennt sogar einen „Albrecht Kirchherr von Kröwelsau genannte Pfeffinger“, also einen Geistlichen aus der Familie. Deshalb wird Option 3 neutral formuliert, und der Satz zu Gültlingen wird wie in Stufe 1 verlangt an die Quelle angeglichen.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 365-pfaeffingen/005.basis
@@ -119,7 +119,7 @@ Von 1925 an führte Pfäffingen ein Wappen: in Blau ein silberner Querbalken mit
 3. Vorbild war das Siegel eines Adligen.
 4. Vorbild war ein Hauszeichen der Dorfmühle.
 RÜCKSEITE:
-Du hattest [Option] getippt. Der Ortsname klingt nach Pfaffen, also nach Kirche, daher liegt ein Pfarrsiegel nahe. Vorbild war aber das Siegel des Andreas von Kröwelsau, der den Beinamen „Pfeffinger“ trug. Das Wappen davor folgte einem Siegel mit dem Wappen der Herren von Gültlingen. Richtig war 3.
+Du hattest [Option] getippt. Der Ortsname klingt nach Pfaffen, also nach Kirche, daher liegt ein Pfarrsiegel nahe. Vorbild war aber das Siegel des Andreas von Kröwelsau von 1495, der den Beinamen „Pfeffinger“ trug. Davor führte die Gemeinde auf einem Siegel das Wappen der Herren von Gültlingen. Richtig war 3.
 Quelle: Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen
 WÖRTER RÜCKSEITE: 47
 NEGATIVNACHWEISE:
@@ -185,7 +185,7 @@ PRÜFSTUFE: 2 – Der Fakt stammt nur aus Wikipedia.
 ERFUNDEN: 2, 3, 4
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Lebensmittel Zeitung vom 18.10.2000 berichtet, dass die Alb-Gold Teigwaren GmbH aus Trochtelfingen zum 1. Januar 2001 alle Geschäftsanteile der Teigwarenfabrik Bechtle GmbH übernimmt. Es war also eine Übernahme und kein Zusammenschluss; die Teigwarenfabrik ist damit belegt. Für das Jahr 1962, die Herkunft aus Tübingen und das Ende des Standorts um 1999 fand ich keinen vertrauenswürdigen Beleg, deshalb fallen sie weg. Der Standort Pfäffingen selbst stützt sich weiter nur auf Wikipedia (Vermerk).
+FAKTENCHECK: korrigiert – Die Lebensmittel Zeitung vom 18.10.2000 berichtet, dass die Alb-Gold Teigwaren GmbH aus Trochtelfingen zum 1. Januar 2001 alle Geschäftsanteile der Teigwarenfabrik Bechtle GmbH übernimmt. Es war also eine Übernahme und kein Zusammenschluss; die Teigwarenfabrik ist damit belegt. Für das Jahr 1962, die Herkunft aus Tübingen und das Ende des Standorts um 1999 fand ich keinen vertrauenswürdigen Beleg, deshalb fallen sie weg. Der Standort Pfäffingen selbst stützt sich weiter nur auf Wikipedia (Vermerk).
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 365-pfaeffingen/015.spezialisierung
@@ -200,7 +200,7 @@ Ab 1962 hatte die Firma Bechtle einen Betrieb in Pfäffingen. Was wurde dort her
 3. Bechtle braute dort Bier für die Region.
 4. Bechtle webte dort Stoffe für Kleidung.
 RÜCKSEITE:
-Du hattest [Option] getippt. Bei einem Industriebetrieb im Dorf denkt man eher an Metall oder Textil. Bechtle war aber eine Teigwarenfabrik, ursprünglich aus Tübingen. Um die Jahrtausendwende endete der Standort Pfäffingen; Bechtle schloss sich später zur Alb-Gold Teigwaren GmbH zusammen, die Fertigung zog nach Trochtelfingen. Richtig war 2.
+Du hattest [Option] getippt. Bei einem Industriebetrieb im Dorf denkt man eher an Metall oder Textil. Bechtle war aber eine Teigwarenfabrik. Zum 1. Januar 2001 übernahm die Alb-Gold Teigwaren GmbH aus Trochtelfingen alle Anteile der Firma. Richtig war 2.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Pfäffingen
 WÖRTER RÜCKSEITE: 48
 NEGATIVNACHWEISE:

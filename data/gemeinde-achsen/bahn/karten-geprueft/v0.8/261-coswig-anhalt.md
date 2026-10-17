@@ -60,7 +60,12 @@ FAKT-ID: 261-coswig-anhalt/001.hoehenzug
 GEWÄHLTER FAKT: Coswig (Anhalt), hoehenzug, Fläming (lage_geographisch: nördliches Ufer der Elbe). Die Lüge hängt hieran. Belege der wahren Aussagen: Aussage 1 durch 261-coswig-anhalt/038.person_coswig (Wallenstein hielt sich im Dreißigjährigen Krieg in Coswig auf), Aussage 2 durch 261-coswig-anhalt/003.umbau_zweck (Umbau des Schlosses ab 1874 zum Gefängnis).
 BEKANNTHEIT: mittel – Wallenstein kennt jeder, seinen Aufenthalt in Coswig kaum jemand.
 VORDERSEITE:
-Coswig (Anhalt) / Stadt mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale). / Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? / 1. Im Dreißigjährigen Krieg hatte der Schwedenkönig Gustav Adolf sein Hauptquartier im Coswiger Schloss. / 2. Das Coswiger Schloss wurde zum Gefängnis umgebaut. / 3. Coswig liegt am nördlichen Rand des Harzes.
+Coswig (Anhalt)
+Stadt mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).
+Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
+1. Im Dreißigjährigen Krieg hatte der Schwedenkönig Gustav Adolf sein Hauptquartier im Coswiger Schloss.
+2. Das Coswiger Schloss wurde zum Gefängnis umgebaut.
+3. Coswig liegt am nördlichen Rand des Harzes.
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Schwedenkönig in einer Kleinstadt wirkt verdächtig, doch Gustav Adolf hatte im August 1631 tatsächlich sein Hauptquartier im Coswiger Schloss. Das Schloss war später Witwensitz und wurde ab 1874 Strafanstalt. Gelogen ist der Harz: Coswig liegt an der Elbe, der Harz weit westlich von Halle. Die Lüge war 3.
 Quelle: Gemeinde-Webseite, www.coswigonline.de/download/5892/das_coswiger_schloss.pdf; Landesarchiv Sachsen-Anhalt, Z 109 Nr. 258
@@ -133,7 +138,13 @@ FAKT-ID: GRUNDDATEN.kfz
 GEWÄHLTER FAKT: kfz: WB (Hauptkennzeichen, Wikidata P395)
 BEKANNTHEIT: mittel – Der Landkreis Wittenberg ist bekannt, die Zugehörigkeit Coswigs nicht unbedingt.
 VORDERSEITE:
-Coswig (Anhalt) / Stadt an der Elbe mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale). / Welches ist das Hauptkennzeichen des Landkreises, zu dem Coswig gehört? / 1. DE / 2. HAL / 3. WB / 4. SK
+Coswig (Anhalt)
+Stadt an der Elbe mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).
+Welches ist das Hauptkennzeichen des Landkreises, zu dem Coswig gehört?
+1. DE
+2. HAL
+3. WB
+4. SK
 RÜCKSEITE:
 Du hattest [Option] getippt. DE liegt nahe, denn Dessau ist der große Nachbar. Coswig gehört aber zum Landkreis Wittenberg, und dessen Hauptkennzeichen ist WB. Richtig war 3.
 Quelle: Wahlleitung Sachsen-Anhalt, Kreistagswahl 2007; GRUNDDATEN kfz
@@ -154,7 +165,13 @@ FAKT-ID: 261-coswig-anhalt/028.regie
 GEWÄHLTER FAKT: Film „Spur der Steine“, regie, Frank Beyer (DEFA, 1966, Spielfilm s/w, nach dem Roman von Erik Neutsch, Drehort Coswig)
 BEKANNTHEIT: hoch – „Spur der Steine“ ist ein bekannter DEFA-Film. Die Frage fragt deshalb nach dem Detail Regie und nennt den Titel nicht.
 VORDERSEITE:
-… Coswig war 1965 Drehort eines DEFA-Spielfilms nach einem Roman von Erik Neutsch. Wer führte Regie? (Optionen unverändert)
+Coswig (Anhalt)
+Stadt an der Elbe mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).
+Coswig war 1965 Drehort eines DEFA-Spielfilms nach einem Roman von Erik Neutsch. Wer führte Regie?
+1. Regie führte Konrad Wolf.
+2. Regie führte Kurt Maetzig.
+3. Regie führte Heiner Carow.
+4. Regie führte Frank Beyer.
 RÜCKSEITE:
 Du hattest [Option] getippt. Konrad Wolf liegt nahe, denn er war ein sehr bekannter Regisseur der DEFA. In Coswig drehte aber Frank Beyer 1965 Szenen für seinen Schwarz-Weiß-Film „Spur der Steine“ nach dem gleichnamigen Roman von Erik Neutsch. Richtig war 4.
 Quelle: Gemeinde-Webseite, www.coswigonline.de/de/stadtgeschichte.html; DEFA-Stiftung, Pressemitteilung 14/2026
@@ -202,7 +219,13 @@ FAKT-ID: 261-coswig-anhalt/023.marktposition_ddr
 GEWÄHLTER FAKT: Zündwarenproduktion Coswig, marktposition_ddr, zweiter größter Hersteller nach VEB Zündwarenwerke Riesa (Zeitraum 1890–1979)
 BEKANNTHEIT: niedrig – Riesa kennt man für Nudeln, Coswig als Streichholzstandort kaum.
 VORDERSEITE:
-… In der DDR wurde 1979 ein Werk in Coswig mit einem Werk in Riesa zu einem Betrieb zusammengelegt. Was stellten beide her? (Optionen unverändert)
+Coswig (Anhalt)
+Stadt an der Elbe mit rund 11.000 Einwohnern, 55 km nordöstlich von Halle (Saale).
+In der DDR wurde 1979 ein Werk in Coswig mit einem Werk in Riesa zu einem Betrieb zusammengelegt. Was stellten beide her?
+1. Man stellte Nudeln her.
+2. Man stellte Autoreifen her.
+3. Man stellte Streichhölzer her.
+4. Man stellte Stahldraht her.
 RÜCKSEITE:
 Du hattest [Option] getippt. Nudeln liegen nahe, denn dafür ist Riesa bis heute bekannt. Gemeint sind aber Zündwaren, also Streichhölzer: Coswig war lange ein Standort der Streichholzherstellung, und 1979 ging das Coswiger Zündholzwerk im VEB Zündwarenwerke Riesa auf. Richtig war 3.
 Quelle: Landesarchiv Sachsen-Anhalt, Slg. 34 Zündholzfabrik Coswig (Anhalt); museum-digital Sachsen-Anhalt

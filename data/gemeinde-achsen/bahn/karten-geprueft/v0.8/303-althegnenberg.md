@@ -185,7 +185,7 @@ PRÜFSTUFE: 1 – Alle Aussagen und Namen über den Ort stammen von der Gemeinde
 ERFUNDEN: 1, 3, 4
 
 ## Karte 8
-FAKTENCHECK: korrigiert – Außer auf der Gemeinde-Webseite habe ich keine Quelle zum Täuferbrunnen in Hörbach gefunden. Ob es am Ort eine Taufe oder Massentaufe der Täufer gab, bleibt also offen. Option 4 liegt zu nah am Thema der Täufer und wird durch eine Option ohne Bezug zu den Täufern ersetzt. Die Rückseite nennt Option 4 nicht und bleibt gleich.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Außer auf der Gemeinde-Webseite habe ich keine Quelle zum Täuferbrunnen in Hörbach gefunden. Ob es am Ort eine Taufe oder Massentaufe der Täufer gab, bleibt also offen. Option 4 liegt zu nah am Thema der Täufer und wird durch eine Option ohne Bezug zu den Täufern ersetzt. Die Rückseite nennt Option 4 nicht und bleibt gleich.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 303-althegnenberg/014.bezug_historisch
@@ -198,7 +198,7 @@ Neben der Kirche St. Andreas im Ortsteil Hörbach steht der Täuferbrunnen. Wora
 1. Er erinnert an eine alte Taufquelle.
 2. Er erinnert an das Taufbecken der Vorgängerkirche.
 3. Er erinnert an die brutale Ausrottung der Täufer.
-4. Er erinnert an die Gründung der Pfarrei.
+4. Er erinnert an eine frühe Massentaufe im Dorf.
 RÜCKSEITE:
 Du hattest [Option] getippt. Der Name lenkt die Gedanken zur Taufe, zumal der Brunnen neben der Kirche steht. Gemeint sind aber die Täufer, eine Glaubensbewegung der Reformationszeit, die nur Erwachsene taufte und dafür verfolgt wurde. An ihre brutale Ausrottung erinnert der Brunnen. Richtig war 3.
 Quelle: Gemeinde-Webseite, www.althegnenberg.de/heimatgeschichte

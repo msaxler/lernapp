@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Aussage 2 ist belegt: Schubart war von 1763 bis 1769 Präzeptor bzw. Hilfslehrer in Geislingen. Für Aussage 3 fand sich nur, dass das historische Warenarchiv der WMF als Kulturdenkmal eingetragen ist. Dass das ganze Werksgelände ein Kulturdenkmal ist, ist nicht belegt. Aussage 3 wird deshalb auf das Warenarchiv eingeengt.
+FAKTENCHECK: korrigiert – Aussage 2 ist belegt: Schubart war von 1763 bis 1769 Präzeptor bzw. Hilfslehrer in Geislingen. Für Aussage 3 fand sich nur, dass das historische Warenarchiv der WMF als Kulturdenkmal eingetragen ist. Dass das ganze Werksgelände ein Kulturdenkmal ist, ist nicht belegt. Aussage 3 wird deshalb auf das Warenarchiv eingeengt.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 106-geislingen/012.funktion_ursprung
@@ -67,7 +67,7 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. Der Dichter Schubart unterrichtete einige Jahre in Geislingen.
 3. Das Werksgelände der WMF ist ein Kulturdenkmal.
 RÜCKSEITE:
-Du hattest [Option] getippt. Heute ist der Ödenturm ein Aussichtsturm, darum klingt die Aussage glaubhaft. Gebaut wurde er aber zum Schutz der Burg Helfenstein, später diente er als Wachturm. Schubart unterrichtete tatsächlich in Geislingen, und das Werksgelände der WMF ist ein Kulturdenkmal. Die Lüge war 1.
+Du hattest [Option] getippt. Heute ist der Ödenturm ein Aussichtsturm, darum klingt die Aussage glaubhaft. Gebaut wurde er aber zum Schutz der Burg Helfenstein, später diente er als Wachturm. Schubart unterrichtete tatsächlich in Geislingen, und das historische Warenarchiv der WMF steht unter Denkmalschutz. Die Lüge war 1.
 Quelle: Gemeinde-Webseite, www.geislingen.de/de/gaeste/stadtportrait/fuenftaelerstadt/einzigartig
 WÖRTER RÜCKSEITE: 46
 NEGATIVNACHWEISE:
@@ -185,7 +185,7 @@ PRÜFSTUFE: 2 – der Fakt steht nur in Wikipedia.
 ERFUNDEN: 1, 2, 4
 
 ## Karte 8
-FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Die Gemeinde-Webseite bestätigt, dass das Kreuz 1950 auf der Schildwacht errichtet wurde und für die Verbundenheit mit den vertriebenen Südmährern steht. Die Stuttgarter Zeitung berichtet vom Gedenken der Südmährer dort. Die Patenschaft übernahm die Stadt 1953, nicht 1948. Option 2 (Bergkapelle) lässt sich weder bestätigen noch widerlegen und wird durch eine nachweislich falsche Option ersetzt.
+FAKTENCHECK: korrigiert – Die Gemeinde-Webseite bestätigt, dass das Kreuz 1950 auf der Schildwacht errichtet wurde und für die Verbundenheit mit den vertriebenen Südmährern steht. Die Stuttgarter Zeitung berichtet vom Gedenken der Südmährer dort. Die Patenschaft übernahm die Stadt 1953, nicht 1948. Option 2 (Bergkapelle) lässt sich weder bestätigen noch widerlegen und wird durch eine nachweislich falsche Option ersetzt.
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 106-geislingen/021.ostlandkreuz_bedeutung
@@ -200,7 +200,7 @@ Seit 1950 steht auf der Schildwacht über Geislingen das Ostlandkreuz. Woran eri
 3. Es weist Pilgern den Weg nach Osten.
 4. Es erinnert an Vertriebene aus Böhmen und Mähren.
 RÜCKSEITE:
-Du hattest [Option] getippt. Der Name klingt nach einer Wegmarke nach Osten, daher liegt der Pilgerweg nahe. Das Kreuz erinnert aber an das Leid der Deutschen aus Böhmen und Mähren bei ihrer Vertreibung. Geislingen hatte die Patenschaft für vertriebene Südmährer übernommen. Richtig war 4.
+Du hattest [Option] getippt. Der Name klingt nach einer Wegmarke nach Osten, daher liegt der Pilgerweg nahe. Das Kreuz erinnert aber an das Leid der Deutschen aus Böhmen und Mähren bei ihrer Vertreibung. Geislingen übernahm 1953 die Patenschaft für die vertriebenen Südmährer. Richtig war 4.
 Quelle: Wikipedia, de.wikipedia.org/wiki/Geislingen_an_der_Steige
 WÖRTER RÜCKSEITE: 44
 NEGATIVNACHWEISE:

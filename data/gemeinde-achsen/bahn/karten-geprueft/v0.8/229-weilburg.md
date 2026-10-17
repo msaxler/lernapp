@@ -53,7 +53,7 @@ PRÜFSTUFE: 0 – Klassiker aus GRUNDDATEN.
 ERFUNDEN: keine
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Alle drei Aussagen und die Rückseite sind belegt. Die Schönbrunn-Aussage widerlegt der Quelltext, denn er nennt das Grand Trianon. „Für seinen Vater“ verkürzt „zum Gedächtnis an seinen Vater“ so, dass man es als Gründung zugunsten des lebenden Vaters lesen kann. Der Vater war aber schon 906 beigesetzt. Deshalb nimmt Aussage 3 jetzt den Wortlaut der Quelle.
+FAKTENCHECK: unsicher – Berichtigung nicht einsetzbar: Alle drei Aussagen und die Rückseite sind belegt. Die Schönbrunn-Aussage widerlegt der Quelltext, denn er nennt das Grand Trianon. „Für seinen Vater“ verkürzt „zum Gedächtnis an seinen Vater“ so, dass man es als Gründung zugunsten des lebenden Vaters lesen kann. Der Vater war aber schon 906 beigesetzt. Deshalb nimmt Aussage 3 jetzt den Wortlaut der Quelle.
 SORTE: Geschichte
 FAMILIE: B
 FAKT-ID: 229-weilburg/023.vorbild
@@ -65,7 +65,7 @@ Weilburg, Stadt mit rund 13.000 Einwohnern, liegt 44 km nördlich von Wiesbaden.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 1. Die Orangerien sind Schloss Schönbrunn in Wien nachgebildet.
 2. Heinrich von Gagern ging in Weilburg zur Schule.
-3. Konrad I. gründete das Walpurgisstift zum Gedächtnis an seinen Vater.
+3. Konrad I. gründete das Walpurgisstift für seinen Vater.
 RÜCKSEITE:
 Du hattest [Option] getippt. Schönbrunn klingt nach höfischer Pracht und passt zum Schloss. Doch Graf Johann Ernst ließ die Orangerien als fast originalgetreue Nachbildung des Grand Trianon in Versailles bauen. Gagern war Schüler des Gymnasiums Philippinum, und Konrad I. gründete das Walpurgisstift zum Gedächtnis an seinen Vater. Die Lüge war 1.
 Quelle: Gemeinde-Webseite, www.weilburg.de/mein-weilburg/zahlen-fakten/stadtgeschichte/
