@@ -133,6 +133,9 @@ def waehle(ort, rotation, i, gesperrt=()):
     """Erste zulässige Eigenschaft der Rotation ab Stelle i, dazu die nächste als Ersatz."""
     kand = [rotation[(i + k) % len(rotation)] for k in range(len(rotation))]
     kand = [r for r in kand if zulaessig(ort, r[0]) and r[0] not in gesperrt]
+    # ein Ort ohne passende Eigenschaft (Kloster Marienhaus, 2026-10-17: keine Einwohner, keine Wahl) bekommt dafür eine Geschichte
+    if not kand:
+        return None, None
     return kand[0], (kand[1] if len(kand) > 1 else None)
 
 
@@ -147,16 +150,19 @@ def plan(i, ort):
         pol_fam, pol = POLITIK[2]
     # Landkreis und Kennzeichen eines Stadtteils sind die der Stadt und schon durch den Steckbrief verraten
     stadt = ('landkreis', 'kfz') if ort['einheit'].startswith('Ortsteil') else ()
-    lage, lage_ersatz = waehle(ort, LAGE, i, gesperrt=(zahl[0], zahl_ersatz[0] if zahl_ersatz else '') + stadt)
+    lage, lage_ersatz = waehle(ort, LAGE, i, gesperrt=((zahl[0] if zahl else ''), zahl_ersatz[0] if zahl_ersatz else '') + stadt)
     ersatz = lambda e: ' (Ersatz: %s)' % e[-1] if e else ''
     zahl_form = ('C-LEITER, letzte Stufe mit "höher": %d' % (a(2) % 3 + 1)) if slug in LEITER else 'C, wahre Spanne an Stelle %d' % a(2)
     return '\n'.join([
         '  Karte 1: Geschichte, A, wahre Option an Stelle %d' % a(1),
-        '  Karte 2: Klassiker, EIGENSCHAFT %s: %s%s, %s' % (zahl[0], zahl[1], ersatz(zahl_ersatz), zahl_form),
+        ('  Karte 2: Klassiker, EIGENSCHAFT %s: %s%s, %s' % (zahl[0], zahl[1], ersatz(zahl_ersatz), zahl_form)) if zahl
+        else '  Karte 2: Geschichte, A, wahre Option an Stelle %d (keine Zahl in den GRUNDDATEN)' % a(2),
         '  Karte 3: Geschichte, B, Lüge an Stelle %d' % b(3),
-        '  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: %s, %s, wahre Option an Stelle %d' % (pol, pol_fam, a(4)),
+        ('  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: %s, %s, wahre Option an Stelle %d' % (pol, pol_fam, a(4)))
+        if 'wahl_btw25' in ort['eigenschaften'] else '  Karte 4: Geschichte, B, Lüge an Stelle %d (kein Wahlergebnis in den GRUNDDATEN)' % b(4),
         '  Karte 5: Geschichte, A, wahre Option an Stelle %d' % a(5),
-        '  Karte 6: Klassiker, EIGENSCHAFT %s: %s%s, %s, wahre Option an Stelle %d' % (lage[0], lage[2], ersatz(lage_ersatz), lage[1], a(6)),
+        ('  Karte 6: Klassiker, EIGENSCHAFT %s: %s%s, %s, wahre Option an Stelle %d' % (lage[0], lage[2], ersatz(lage_ersatz), lage[1], a(6)))
+        if lage else '  Karte 6: Geschichte, A, wahre Option an Stelle %d (keine passende Lage-Eigenschaft)' % a(6),
         '  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); '
         'wahre Option an Stelle %d (bei B: Lüge an Stelle %d)' % (a(7), b(7)),
         # Mike 2026-10-02: mehr als sieben, wenn die Fakten es hergeben (Prompt v0.6.1)

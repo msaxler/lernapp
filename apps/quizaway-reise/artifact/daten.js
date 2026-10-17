@@ -37176,6 +37176,42 @@ window.QA_DATEN = {
 "184-hoehr-grenzhausen": [
 "Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Vallendar zum Landkreis Mayen-Koblenz.",
 "Höhr-Grenzhausen und Vallendar sind fast gleich groß: rund 9.400 und 9.000 Einwohner."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat doppelt so viele Einwohner wie Niederbieber."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat fünfmal so viele Einwohner wie Segendorf."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Vallendar zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Vallendar die CDU."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat fast doppelt so viele Einwohner wie Oberbieber."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat viereinhalbmal so viele Einwohner wie Melsbach."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat elfmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat sechsmal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat neunmal so viele Einwohner wie Kurtscheid."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Vallendar zum Landkreis Mayen-Koblenz.",
+"Wolfenacker liegt rund 170 Meter höher als Vallendar."
 ]
 },
 "ags": "07137226",
@@ -37433,6 +37469,61 @@ window.QA_DATEN = {
 "336-erpel": [
 "Kreisgrenze: Erpel gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
 "Andernach hat zwölfmal so viele Einwohner wie Erpel."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat gut sechsmal so viele Einwohner wie Niederbieber."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat gut sechzehnmal so viele Einwohner wie Segendorf."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Andernach die CDU."
+],
+"407-niederbreitbach": [
+"Kreisgrenze: Niederbreitbach gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat zwanzigmal so viele Einwohner wie Niederbreitbach."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat sechsmal so viele Einwohner wie Oberbieber."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat fünfzehnmal so viele Einwohner wie Melsbach."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat rund 35-mal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat neunzehnmal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat rund 30-mal so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Kreisgrenze: Roßbach gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat rund zwanzigmal so viele Einwohner wie Roßbach."
+],
+"414-hausen-wied": [
+"Kreisgrenze: Hausen (Wied) gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat sechzehnmal so viele Einwohner wie Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Kreisgrenze: Breitscheid gehört zum Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat dreizehnmal so viele Einwohner wie Breitscheid."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Andernach zum Landkreis Mayen-Koblenz.",
+"Wolfenacker liegt rund 210 Meter höher als Andernach."
 ]
 },
 "ags": "07137003",
@@ -37610,6 +37701,61 @@ window.QA_DATEN = {
 "334-leubsdorf": [
 "Kreisgrenze: Leubsdorf gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
 "Bundestagswahl 2025: In Leubsdorf lag die CDU vorn, in Weißenthurm die AfD."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Niederbieber lag die CDU vorn, in Weißenthurm die AfD."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Segendorf lag die CDU vorn, in Weißenthurm die AfD."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Weißenthurm hat rund 30-mal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Kreisgrenze: Niederbreitbach gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Niederbreitbach lag die CDU vorn, in Weißenthurm die AfD."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Oberbieber lag die CDU vorn, in Weißenthurm die AfD."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Melsbach lag die CDU vorn, in Weißenthurm die AfD."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Hardert lag die CDU vorn, in Weißenthurm die AfD."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Ehlscheid lag die CDU vorn, in Weißenthurm die AfD."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Kurtscheid lag die CDU vorn, in Weißenthurm die AfD."
+],
+"413-rossbach-wied": [
+"Kreisgrenze: Roßbach gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Roßbach lag die CDU vorn, in Weißenthurm die AfD."
+],
+"414-hausen-wied": [
+"Kreisgrenze: Hausen (Wied) gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Hausen (Wied) lag die CDU vorn, in Weißenthurm die AfD."
+],
+"415-breitscheid-westerwald": [
+"Kreisgrenze: Breitscheid gehört zum Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Breitscheid lag die CDU vorn, in Weißenthurm die AfD."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Wolfenacker lag die CDU vorn, in Weißenthurm die AfD."
 ]
 },
 "ags": "07137228",
@@ -37880,6 +38026,30 @@ window.QA_DATEN = {
 "184-hoehr-grenzhausen": [
 "Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Koblenz ist kreisfrei.",
 "Koblenz hat zwölfmal so viele Einwohner wie Höhr-Grenzhausen."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Koblenz ist kreisfrei.",
+"Koblenz hat rund 25-mal so viele Einwohner wie Niederbieber."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Koblenz ist kreisfrei.",
+"Koblenz hat rund 60-mal so viele Einwohner wie Segendorf."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Koblenz ist kreisfrei.",
+"Koblenz hat rund 25-mal so viele Einwohner wie Oberbieber."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Koblenz ist kreisfrei.",
+"Koblenz hat rund 60-mal so viele Einwohner wie Melsbach."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Koblenz ist kreisfrei.",
+"Koblenz hat rund 135-mal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Koblenz ist kreisfrei.",
+"Koblenz hat rund 75-mal so viele Einwohner wie Ehlscheid."
 ]
 },
 "ags": "07111000",
@@ -74299,6 +74469,34 @@ window.QA_DATEN = {
 ],
 "184-hoehr-grenzhausen": [
 "Höhr-Grenzhausen hat rund 1.200 Einwohner mehr als Ransbach-Baumbach."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Ransbach-Baumbach zum Westerwaldkreis.",
+"Ransbach-Baumbach hat fast doppelt so viele Einwohner wie Niederbieber."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Ransbach-Baumbach zum Westerwaldkreis.",
+"Ransbach-Baumbach hat viereinhalbmal so viele Einwohner wie Segendorf."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Ransbach-Baumbach zum Westerwaldkreis.",
+"Ransbach-Baumbach hat gut anderthalbmal so viele Einwohner wie Oberbieber."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Ransbach-Baumbach zum Westerwaldkreis.",
+"Ransbach-Baumbach hat gut viermal so viele Einwohner wie Melsbach."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Ransbach-Baumbach zum Westerwaldkreis.",
+"Ransbach-Baumbach hat fast zehnmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Ransbach-Baumbach zum Westerwaldkreis.",
+"Ransbach-Baumbach hat gut fünfmal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Ransbach-Baumbach zum Westerwaldkreis.",
+"Ransbach-Baumbach hat achtmal so viele Einwohner wie Kurtscheid."
 ]
 },
 "ags": "07143062",
@@ -74498,6 +74696,41 @@ window.QA_DATEN = {
 ],
 "183-ransbach-baumbach": [
 "Einwohner: Höhr-Grenzhausen hat rund 1.200 mehr als Ransbach-Baumbach."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Höhr-Grenzhausen hat doppelt so viele Einwohner wie Niederbieber."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Höhr-Grenzhausen hat gut fünfmal so viele Einwohner wie Segendorf."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Höhr-Grenzhausen die CDU."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Höhr-Grenzhausen hat fast doppelt so viele Einwohner wie Oberbieber."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Höhr-Grenzhausen hat fast fünfmal so viele Einwohner wie Melsbach."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Höhr-Grenzhausen hat elfmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Höhr-Grenzhausen hat sechsmal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Höhr-Grenzhausen hat gut neunmal so viele Einwohner wie Kurtscheid."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Höhr-Grenzhausen zum Westerwaldkreis."
 ]
 },
 "ags": "07143032",
@@ -74766,6 +74999,61 @@ window.QA_DATEN = {
 "Kreisgrenze: Asbach gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
 "Bad Breisig hat rund 1.800 Einwohner mehr als Asbach."
 ],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat gut doppelt so viele Einwohner wie Niederbieber."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat gut fünfmal so viele Einwohner wie Segendorf."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Bad Breisig die CDU."
+],
+"407-niederbreitbach": [
+"Kreisgrenze: Niederbreitbach gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat gut sechsmal so viele Einwohner wie Niederbreitbach."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat doppelt so viele Einwohner wie Oberbieber."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat fünfmal so viele Einwohner wie Melsbach."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat gut elfmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat gut sechsmal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat fast zehnmal so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Kreisgrenze: Roßbach gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat fast siebenmal so viele Einwohner wie Roßbach."
+],
+"414-hausen-wied": [
+"Kreisgrenze: Hausen (Wied) gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat gut fünfmal so viele Einwohner wie Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Kreisgrenze: Breitscheid gehört zum Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Bad Breisig hat fast viereinhalbmal so viele Einwohner wie Breitscheid."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Bad Breisig zum Landkreis Ahrweiler.",
+"Wolfenacker liegt rund 200 Meter höher als Bad Breisig."
+],
 "184-hoehr-grenzhausen": [
 "Einwohner: Bad Breisig hat rund 300 mehr als Höhr-Grenzhausen.",
 "Höhr-Grenzhausen liegt 11 km von Koblenz, Bad Breisig 26 km."
@@ -75017,6 +75305,61 @@ window.QA_DATEN = {
 "343-asbach": [
 "Kreisgrenze: Asbach gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
 "Sinzig hat gut doppelt so viele Einwohner wie Asbach."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat fast viermal so viele Einwohner wie Niederbieber."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat fast zehnmal so viele Einwohner wie Segendorf."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Sinzig die CDU."
+],
+"407-niederbreitbach": [
+"Kreisgrenze: Niederbreitbach gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat gut elfmal so viele Einwohner wie Niederbreitbach."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat dreieinhalbmal so viele Einwohner wie Oberbieber."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat neunmal so viele Einwohner wie Melsbach."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat rund zwanzigmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat elfmal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat siebzehnmal so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Kreisgrenze: Roßbach gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat zwölfmal so viele Einwohner wie Roßbach."
+],
+"414-hausen-wied": [
+"Kreisgrenze: Hausen (Wied) gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat gut neunmal so viele Einwohner wie Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Kreisgrenze: Breitscheid gehört zum Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Sinzig hat fast achtmal so viele Einwohner wie Breitscheid."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Sinzig zum Landkreis Ahrweiler.",
+"Wolfenacker liegt rund 180 Meter höher als Sinzig."
 ]
 },
 "ags": "07131077",
@@ -75249,6 +75592,41 @@ window.QA_DATEN = {
 "343-asbach": [
 "Kreisgrenze: Asbach gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
 "Remagen hat gut doppelt so viele Einwohner wie Asbach."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Remagen die CDU."
+],
+"407-niederbreitbach": [
+"Kreisgrenze: Niederbreitbach gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat fast zwölfmal so viele Einwohner wie Niederbreitbach."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat gut elfmal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat siebzehnmal so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Kreisgrenze: Roßbach gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat zwölfmal so viele Einwohner wie Roßbach."
+],
+"414-hausen-wied": [
+"Kreisgrenze: Hausen (Wied) gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat fast zehnmal so viele Einwohner wie Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Kreisgrenze: Breitscheid gehört zum Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Remagen hat achtmal so viele Einwohner wie Breitscheid."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Remagen zum Landkreis Ahrweiler."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Remagen zum Landkreis Ahrweiler.",
+"Wolfenacker liegt rund 210 Meter höher als Remagen."
 ]
 },
 "ags": "07131070",
@@ -91115,6 +91493,59 @@ window.QA_DATEN = {
 "Rheinbrohl hat rund 500 Einwohner mehr als Vettelschoß.",
 "Vettelschoß liegt rund 200 Meter höher als Rheinbrohl."
 ],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Rheinbrohl zum Landkreis Neuwied.",
+"Niederbieber hat rund 400 Einwohner mehr als Rheinbrohl."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Rheinbrohl zum Landkreis Neuwied.",
+"Rheinbrohl hat fast zweieinhalbmal so viele Einwohner wie Segendorf."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Rheinbrohl die CDU.",
+"Rheinbrohl hat gut vierzehnmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Rheinbrohl hat gut zweieinhalbmal so viele Einwohner wie Niederbreitbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Niederbreitbach die AfD, in Rheinbrohl die SPD."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Rheinbrohl zum Landkreis Neuwied.",
+"Oberbieber hat rund 700 Einwohner mehr als Rheinbrohl."
+],
+"409-melsbach": [
+"Rheinbrohl hat gut doppelt so viele Einwohner wie Melsbach."
+],
+"410-hardert": [
+"Rheinbrohl hat fünfmal so viele Einwohner wie Hardert.",
+"Hardert liegt rund 220 Meter höher als Rheinbrohl."
+],
+"411-ehlscheid": [
+"Rheinbrohl hat gut zweieinhalbmal so viele Einwohner wie Ehlscheid.",
+"Ehlscheid liegt rund 270 Meter höher als Rheinbrohl."
+],
+"412-kurtscheid": [
+"Rheinbrohl hat gut viermal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 300 Meter höher als Rheinbrohl."
+],
+"413-rossbach-wied": [
+"Rheinbrohl hat fast dreimal so viele Einwohner wie Roßbach."
+],
+"414-hausen-wied": [
+"Rheinbrohl hat fast zweieinhalbmal so viele Einwohner wie Hausen (Wied).",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hausen (Wied) die AfD, in Rheinbrohl die SPD."
+],
+"415-breitscheid-westerwald": [
+"Rheinbrohl hat fast doppelt so viele Einwohner wie Breitscheid.",
+"Breitscheid liegt rund 240 Meter höher als Rheinbrohl."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Rheinbrohl zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Rheinbrohl zum Landkreis Neuwied.",
+"Wolfenacker liegt rund 190 Meter höher als Rheinbrohl."
+],
 "265-potsdam": [
 "Kennzeichen: In Rheinbrohl steht NR am Auto, in Potsdam P.",
 "Einwohner: Potsdam hat über vierzigmal so viele wie Rheinbrohl."
@@ -91349,6 +91780,60 @@ window.QA_DATEN = {
 "343-asbach": [
 "Asbach hat fast fünfmal so viele Einwohner wie Leubsdorf.",
 "Asbach liegt rund 200 Meter höher als Leubsdorf."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Leubsdorf zum Landkreis Neuwied.",
+"Niederbieber hat fast dreimal so viele Einwohner wie Leubsdorf."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Leubsdorf zum Landkreis Neuwied.",
+"Segendorf hat rund 200 Einwohner mehr als Leubsdorf."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Leubsdorf die CDU.",
+"Leubsdorf hat fast sechsmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Niederbreitbach und Leubsdorf sind fast gleich groß: rund 1.500 und 1.600 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Niederbreitbach die AfD, in Leubsdorf die SPD."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Leubsdorf zum Landkreis Neuwied.",
+"Oberbieber hat dreimal so viele Einwohner wie Leubsdorf."
+],
+"409-melsbach": [
+"Melsbach hat rund 300 Einwohner mehr als Leubsdorf.",
+"Leubsdorf hat gut dreieinhalbmal so viel Fläche wie Melsbach, aber weniger Einwohner."
+],
+"410-hardert": [
+"Leubsdorf hat fast doppelt so viele Einwohner wie Hardert.",
+"Hardert liegt rund 220 Meter höher als Leubsdorf."
+],
+"411-ehlscheid": [
+"Ehlscheid und Leubsdorf sind fast gleich groß: rund 1.500 und 1.600 Einwohner.",
+"Ehlscheid liegt rund 280 Meter höher als Leubsdorf."
+],
+"412-kurtscheid": [
+"Leubsdorf hat gut anderthalbmal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 310 Meter höher als Leubsdorf."
+],
+"413-rossbach-wied": [
+"Leubsdorf hat rund 200 Einwohner mehr als Roßbach."
+],
+"414-hausen-wied": [
+"Hausen (Wied) hat rund 200 Einwohner mehr als Leubsdorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hausen (Wied) die AfD, in Leubsdorf die SPD."
+],
+"415-breitscheid-westerwald": [
+"Breitscheid hat rund 600 Einwohner mehr als Leubsdorf.",
+"Breitscheid liegt rund 240 Meter höher als Leubsdorf."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Leubsdorf zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Leubsdorf zum Landkreis Neuwied.",
+"Wolfenacker liegt rund 200 Meter höher als Leubsdorf."
 ]
 },
 "ags": "07138037",
@@ -91601,6 +92086,36 @@ window.QA_DATEN = {
 "345-sankt-augustin": [
 "Landesgrenze: Sankt Augustin liegt in Nordrhein-Westfalen, Unkel in Rheinland-Pfalz.",
 "Sankt Augustin hat elfmal so viele Einwohner wie Unkel."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Unkel die CDU.",
+"Unkel hat siebzehnmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Unkel hat fast dreieinhalbmal so viele Einwohner wie Niederbreitbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Niederbreitbach die AfD, in Unkel die SPD."
+],
+"412-kurtscheid": [
+"Unkel hat fünfmal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 330 Meter höher als Unkel."
+],
+"413-rossbach-wied": [
+"Unkel hat dreieinhalbmal so viele Einwohner wie Roßbach."
+],
+"414-hausen-wied": [
+"Unkel hat gut zweieinhalbmal so viele Einwohner wie Hausen (Wied).",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hausen (Wied) die AfD, in Unkel die SPD."
+],
+"415-breitscheid-westerwald": [
+"Unkel hat gut doppelt so viele Einwohner wie Breitscheid.",
+"Breitscheid liegt rund 260 Meter höher als Unkel."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Unkel zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Unkel zum Landkreis Neuwied.",
+"Wolfenacker liegt rund 210 Meter höher als Unkel."
 ]
 },
 "ags": "07138073",
@@ -91813,6 +92328,43 @@ window.QA_DATEN = {
 "343-asbach": [
 "Asbach hat dreimal so viele Einwohner wie Erpel.",
 "Asbach liegt rund 220 Meter höher als Erpel."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Erpel die CDU.",
+"Erpel hat neunmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Erpel hat gut anderthalbmal so viele Einwohner wie Niederbreitbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Niederbreitbach die AfD, in Erpel die SPD."
+],
+"409-melsbach": [
+"Erpel hat rund 600 Einwohner mehr als Melsbach."
+],
+"411-ehlscheid": [
+"Erpel hat gut anderthalbmal so viele Einwohner wie Ehlscheid.",
+"Ehlscheid liegt rund 290 Meter höher als Erpel."
+],
+"412-kurtscheid": [
+"Erpel hat zweieinhalbmal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 330 Meter höher als Erpel."
+],
+"413-rossbach-wied": [
+"Erpel hat gut anderthalbmal so viele Einwohner wie Roßbach."
+],
+"414-hausen-wied": [
+"Erpel hat rund 700 Einwohner mehr als Hausen (Wied).",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hausen (Wied) die AfD, in Erpel die SPD."
+],
+"415-breitscheid-westerwald": [
+"Erpel hat rund 300 Einwohner mehr als Breitscheid.",
+"Breitscheid liegt rund 260 Meter höher als Erpel."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Erpel zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Erpel zum Landkreis Neuwied.",
+"Wolfenacker liegt rund 210 Meter höher als Erpel."
 ]
 },
 "ags": "07138019",
@@ -92071,6 +92623,25 @@ window.QA_DATEN = {
 "346-siegburg": [
 "Siegburg hat gut anderthalbmal so viele Einwohner wie Bad Honnef.",
 "Bad Honnef hat doppelt so viel Fläche wie Siegburg, aber weniger Einwohner."
+],
+"407-niederbreitbach": [
+"Landesgrenze: Niederbreitbach liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat sechzehnmal so viele Einwohner wie Niederbreitbach."
+],
+"413-rossbach-wied": [
+"Landesgrenze: Roßbach liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat siebzehnmal so viele Einwohner wie Roßbach."
+],
+"414-hausen-wied": [
+"Landesgrenze: Hausen (Wied) liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat vierzehnmal so viele Einwohner wie Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Landesgrenze: Breitscheid liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen.",
+"Bad Honnef hat elfmal so viele Einwohner wie Breitscheid."
+],
+"416-kloster-marienhaus": [
+"Landesgrenze: Kloster Marienhaus liegt in Rheinland-Pfalz, Bad Honnef in Nordrhein-Westfalen."
 ]
 },
 "ags": "05382008",
@@ -92814,6 +93385,56 @@ window.QA_DATEN = {
 "343-asbach": [
 "Asbach hat rund 1.300 Einwohner mehr als Neustadt (Wied)."
 ],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Neustadt (Wied) zum Landkreis Neuwied.",
+"Neustadt (Wied) hat fast anderthalbmal so viele Einwohner wie Niederbieber."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Neustadt (Wied) zum Landkreis Neuwied.",
+"Neustadt (Wied) hat gut dreieinhalbmal so viele Einwohner wie Segendorf."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Neustadt (Wied) die CDU.",
+"Neustadt (Wied) hat rund zwanzigmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Neustadt (Wied) hat fast viereinhalbmal so viele Einwohner wie Niederbreitbach."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Neustadt (Wied) zum Landkreis Neuwied.",
+"Neustadt (Wied) hat rund 1.700 Einwohner mehr als Oberbieber."
+],
+"409-melsbach": [
+"Neustadt (Wied) hat fast dreieinhalbmal so viele Einwohner wie Melsbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Melsbach die SPD, in Neustadt (Wied) die AfD."
+],
+"410-hardert": [
+"Neustadt (Wied) hat fast achtmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Neustadt (Wied) hat gut viermal so viele Einwohner wie Ehlscheid.",
+"Ehlscheid liegt rund 180 Meter höher als Neustadt (Wied)."
+],
+"412-kurtscheid": [
+"Neustadt (Wied) hat fast siebenmal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 210 Meter höher als Neustadt (Wied)."
+],
+"413-rossbach-wied": [
+"Neustadt (Wied) hat viereinhalbmal so viele Einwohner wie Roßbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Roßbach die SPD, in Neustadt (Wied) die AfD."
+],
+"414-hausen-wied": [
+"Neustadt (Wied) hat dreieinhalbmal so viele Einwohner wie Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Neustadt (Wied) hat fast dreimal so viele Einwohner wie Breitscheid."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Neustadt (Wied) zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Neustadt (Wied) zum Landkreis Neuwied."
+],
 "339-troisdorf": [
 "Troisdorf hat über elfmal so viele Einwohner wie Neustadt (Wied).",
 "Kennzeichen: SU in Troisdorf, NR in Neustadt (Wied)."
@@ -93064,6 +93685,44 @@ window.QA_DATEN = {
 "345-sankt-augustin": [
 "Landesgrenze: Sankt Augustin liegt in Nordrhein-Westfalen, Windhagen in Rheinland-Pfalz.",
 "Sankt Augustin hat zwölfmal so viele Einwohner wie Windhagen."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Windhagen die CDU.",
+"Windhagen hat sechzehnmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Windhagen hat dreimal so viele Einwohner wie Niederbreitbach.",
+"Windhagen liegt rund 170 Meter höher als Niederbreitbach."
+],
+"409-melsbach": [
+"Windhagen hat fast zweieinhalbmal so viele Einwohner wie Melsbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Melsbach die SPD, in Windhagen die AfD."
+],
+"410-hardert": [
+"Windhagen hat fast sechsmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Windhagen hat dreimal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Windhagen hat viereinhalbmal so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Windhagen hat gut dreimal so viele Einwohner wie Roßbach.",
+"Windhagen liegt rund 170 Meter höher als Roßbach."
+],
+"414-hausen-wied": [
+"Windhagen hat zweieinhalbmal so viele Einwohner wie Hausen (Wied).",
+"Windhagen liegt rund 160 Meter höher als Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Windhagen hat gut doppelt so viele Einwohner wie Breitscheid."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Windhagen zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Windhagen zum Landkreis Neuwied."
 ]
 },
 "ags": "07138077",
@@ -93311,6 +93970,56 @@ window.QA_DATEN = {
 "344-hennef": [
 "Landesgrenze: Hennef liegt in Nordrhein-Westfalen, Vettelschoß in Rheinland-Pfalz.",
 "Hennef hat dreizehnmal so viele Einwohner wie Vettelschoß."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Vettelschoß zum Landkreis Neuwied.",
+"Niederbieber hat rund 900 Einwohner mehr als Vettelschoß."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Vettelschoß zum Landkreis Neuwied.",
+"Vettelschoß hat doppelt so viele Einwohner wie Segendorf."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Vettelschoß die CDU.",
+"Vettelschoß hat dreizehnmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Vettelschoß hat fast zweieinhalbmal so viele Einwohner wie Niederbreitbach.",
+"Vettelschoß liegt rund 160 Meter höher als Niederbreitbach."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Vettelschoß zum Landkreis Neuwied.",
+"Oberbieber hat rund 1.200 Einwohner mehr als Vettelschoß."
+],
+"409-melsbach": [
+"Vettelschoß hat fast doppelt so viele Einwohner wie Melsbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Melsbach die SPD, in Vettelschoß die AfD."
+],
+"410-hardert": [
+"Vettelschoß hat fast viereinhalbmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Vettelschoß hat fast zweieinhalbmal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Vettelschoß hat gut dreieinhalbmal so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Vettelschoß hat zweieinhalbmal so viele Einwohner wie Roßbach.",
+"Vettelschoß liegt rund 160 Meter höher als Roßbach."
+],
+"414-hausen-wied": [
+"Vettelschoß hat doppelt so viele Einwohner wie Hausen (Wied).",
+"Vettelschoß liegt rund 150 Meter höher als Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Vettelschoß hat gut anderthalbmal so viele Einwohner wie Breitscheid."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Vettelschoß zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Vettelschoß zum Landkreis Neuwied."
 ]
 },
 "ags": "07138075",
@@ -93494,6 +94203,43 @@ window.QA_DATEN = {
 "344-hennef": [
 "Landesgrenze: Hennef liegt in Nordrhein-Westfalen, Asbach in Rheinland-Pfalz.",
 "Hennef hat sechsmal so viele Einwohner wie Asbach."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Asbach die CDU.",
+"Asbach hat rund 25-mal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Asbach hat fünfmal so viele Einwohner wie Niederbreitbach.",
+"Asbach liegt rund 160 Meter höher als Niederbreitbach."
+],
+"409-melsbach": [
+"Asbach hat viermal so viele Einwohner wie Melsbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Melsbach die SPD, in Asbach die AfD."
+],
+"410-hardert": [
+"Asbach hat neunmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Asbach hat fünfmal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Asbach hat achtmal so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Asbach hat gut fünfmal so viele Einwohner wie Roßbach.",
+"Asbach liegt rund 160 Meter höher als Roßbach."
+],
+"414-hausen-wied": [
+"Asbach hat fast viereinhalbmal so viele Einwohner wie Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Asbach hat dreieinhalbmal so viele Einwohner wie Breitscheid."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Asbach zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Asbach zum Landkreis Neuwied."
 ]
 },
 "ags": "07138003",
@@ -97197,6 +97943,3773 @@ window.QA_DATEN = {
 "ags": "05113000",
 "ortsteil": true,
 "km_vom_vorigen": 8.4
+},
+{
+"slug": "404-niederbieber",
+"name": "Niederbieber",
+"lat": 50.4594,
+"lon": 7.46861,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederbieber",
+"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
+"frage": "Beim Schulzentrum liegt eine Erdzeiten-Uhr aus Beton. Was dient bei ihr als Zeiger?",
+"optionen": [
+"Der Schatten eines Stabs zeigt die Zeit.",
+"Ein Wasserstrahl wandert über das Zifferblatt.",
+"Wer den Zentralstein umrundet, ist selbst der Zeiger.",
+"Ein Motor dreht einen Zeiger aus Stahl."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine liegende Uhr mit Stein in der Mitte erinnert an eine Sonnenuhr. Doch den Zeiger spielt, wer um den Zentralstein geht. Das Zifferblatt erzählt die Erdgeschichte als einen Tag: Der Frühmensch Homo habilis erscheint erst kurz vor Mitternacht. Geschaffen hat sie Alfred Hörchner aus Höhr-Grenzhausen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
+"faktencheck": "bestätigt",
+"id": "404-niederbieber/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niederbieber",
+"steckbrief": "Stadtteil von Neuwied, 14 km nordwestlich von Koblenz (Luftlinie).",
+"frage": "Wie viele Einwohner hat Niederbieber?",
+"optionen": [
+"unter 2.000",
+"2.000 bis unter 3.500",
+"3.500 bis unter 4.500",
+"4.500 bis unter 6.000"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer bei „Stadtteil“ an ein kleines Dorf am Stadtrand denkt, schätzt zu niedrig. In Niederbieber leben 4.633 Menschen. Aus dem einstigen Bauerndorf wurde eine Arbeiter- und Industriesiedlung. Richtig war 4.",
+"quelle": "dewiki Infobox, Stand 2026-07-06",
+"faktencheck": "bestätigt",
+"id": "404-niederbieber/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Niederbieber",
+"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Wellen im alten Ortswappen standen für Aubach und Wied.",
+"Im Rat- und Backhaus backt die Gemeinde bis heute ihr Brot.",
+"Mühlen wie der Rasselstein waren Keimzelle der Industrie."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an frisches Brot denken, doch ihr Brot backt die Gemeinde dort längst nicht mehr. Heute nutzt der Verein Niederbieberer Bürger das Haus für Veranstaltungen. Einst tagte im Fachwerkobergeschoss der Gemeinderat. Wahr sind die Wellen im alten Wappen für Aubach und Wied und die Mühlen, etwa der Rasselstein an der Wied, als Keimzelle der Industrie. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
+"faktencheck": "korrigiert",
+"id": "404-niederbieber/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niederbieber",
+"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Stadt Neuwied, zu der Niederbieber gehört?",
+"optionen": [
+"unter 72 %",
+"72 bis unter 79 %",
+"79 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer die hohe Beteiligung dieser Wahl im Kopf hat, schätzt leicht zu hoch. In der Stadt Neuwied, zu der Niederbieber gehört, gingen 77,4 Prozent der Wahlberechtigten zur Wahl. Stärkste Partei wurde die CDU, vor der AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "404-niederbieber/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederbieber",
+"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
+"frage": "Unter dem Altar der evangelischen Pfarrkirche wurde 1552 Graf Hermann zu Wied beigesetzt. Welches Amt hatte er?",
+"optionen": [
+"Er war Fürstbischof von Bamberg.",
+"Er war Kurfürst-Erzbischof von Trier.",
+"Er war Kurfürst-Erzbischof von Köln.",
+"Er war Fürstbischof von Passau."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Trier drängt sich auf, denn das nahe Koblenz war lange kurtrierisch. Doch Hermann zu Wied war Kurfürst-Erzbischof von Köln und zugleich Reformator. Die Grafen von Wied hatten in der Kirche ihre Grablege. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
+"faktencheck": "korrigiert",
+"id": "404-niederbieber/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niederbieber",
+"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
+"frage": "Wie weit ist es von Niederbieber in Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 30 km",
+"30 bis unter 50 km",
+"50 bis unter 70 km",
+"70 bis unter 90 km"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Koblenz liegt nah, und von dort scheint Mainz nur ein Stück rheinaufwärts. Doch zwischen Niederbieber und der Landeshauptstadt liegen 78 Kilometer Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "404-niederbieber/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederbieber",
+"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
+"frage": "Um 260 n. Chr. endete das Römerkastell bei Niederbieber. Was geschah mit ihm?",
+"optionen": [
+"Angreifer von jenseits der Grenze zerstörten es.",
+"Ein Hochwasser riss die Mauern fort.",
+"Ein Erdbeben ließ die Mauern einstürzen.",
+"Ein Blitzschlag setzte das ganze Lager in Brand."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ruinen lassen oft an Naturgewalten denken. Doch das Kastell wurde zerstört, als die Franken über den Limes vorrückten. Heute liegt sein Gelände überbaut zwischen altem und neuem Friedhof; gesichert sind die Grundmauern eines großen Bades. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/niederbieber",
+"faktencheck": "korrigiert",
+"id": "404-niederbieber/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederbieber",
+"steckbrief": "Stadtteil von Neuwied mit rund 4.600 Einwohnern, 14 km nordwestlich von Koblenz (Luftlinie).",
+"frage": "Bei Niederbieber fanden Archäologen Spuren der sogenannten Federmesser-Gruppen. Wie lebten diese Menschen?",
+"optionen": [
+"Sie bauten Getreide an und hielten Vieh.",
+"Sie lebten als Jäger und Sammler.",
+"Sie schmolzen Erz und schmiedeten Bronzewerkzeug.",
+"Sie lebten als Hirten mit großen Rinderherden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Siedlungsreste hört, denkt leicht an Bauern mit festen Höfen. Doch die Federmesser-Gruppen lebten am Ende der Eiszeit als Jäger und Sammler, lange vor dem Ackerbau. Ihre Funde in Niederbieber brachten wichtige Erkenntnisse über das Leben jener Zeit. Richtig war 2.",
+"quelle": "Römisch-Germanisches Zentralmuseum, Forschungszentrum Monrepos (Monographie zu Niederbieber), books.ub.uni-heidelberg.de/propylaeum/catalog/view/1590/2717/123535",
+"faktencheck": "korrigiert",
+"id": "404-niederbieber/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "360-heisingen",
+"anschluss": [
+"Kennzeichen: In Heisingen steht E am Auto, in Niederbieber NR."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Vallendar hat doppelt so viele Einwohner wie Niederbieber."
+],
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Andernach hat gut sechsmal so viele Einwohner wie Niederbieber."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Niederbieber die CDU."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Niederbieber gehört zum Landkreis Landkreis Neuwied.",
+"Koblenz hat rund 25-mal so viele Einwohner wie Niederbieber."
+],
+"183-ransbach-baumbach": [
+"Kreisgrenze: Ransbach-Baumbach gehört zum Westerwaldkreis, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Ransbach-Baumbach hat fast doppelt so viele Einwohner wie Niederbieber."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Höhr-Grenzhausen hat doppelt so viele Einwohner wie Niederbieber."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Bad Breisig hat gut doppelt so viele Einwohner wie Niederbieber."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Sinzig hat fast viermal so viele Einwohner wie Niederbieber."
+],
+"333-rheinbrohl": [
+"Kreisgrenze: Rheinbrohl gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Niederbieber hat rund 400 Einwohner mehr als Rheinbrohl."
+],
+"334-leubsdorf": [
+"Kreisgrenze: Leubsdorf gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Niederbieber hat fast dreimal so viele Einwohner wie Leubsdorf."
+],
+"340-neustadt-wied": [
+"Kreisgrenze: Neustadt (Wied) gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Neustadt (Wied) hat fast anderthalbmal so viele Einwohner wie Niederbieber."
+],
+"342-vettelschoss": [
+"Kreisgrenze: Vettelschoß gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Niederbieber hat rund 900 Einwohner mehr als Vettelschoß."
+],
+"405-segendorf": [
+"Niederbieber hat zweieinhalbmal so viele Einwohner wie Segendorf."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Niederbieber die CDU."
+],
+"407-niederbreitbach": [
+"Kreisgrenze: Niederbreitbach gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Niederbieber hat dreimal so viele Einwohner wie Niederbreitbach."
+],
+"408-oberbieber": [
+"Oberbieber und Niederbieber sind fast gleich groß: rund 4.900 und 4.600 Einwohner."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Niederbieber hat fast zweieinhalbmal so viele Einwohner wie Melsbach."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Niederbieber hat gut fünfmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Niederbieber hat dreimal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Niederbieber hat viereinhalbmal so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Kreisgrenze: Roßbach gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Niederbieber hat gut dreimal so viele Einwohner wie Roßbach."
+],
+"414-hausen-wied": [
+"Kreisgrenze: Hausen (Wied) gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Niederbieber hat zweieinhalbmal so viele Einwohner wie Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Kreisgrenze: Breitscheid gehört zum Landkreis Neuwied, Niederbieber zum Landkreis Landkreis Neuwied.",
+"Niederbieber hat doppelt so viele Einwohner wie Breitscheid."
+],
+"417-wolfenacker": [
+"Wolfenacker liegt rund 180 Meter höher als Niederbieber."
+],
+"360-heisingen": [
+"Kennzeichen: In Heisingen steht E am Auto, in Niederbieber NR."
+]
+},
+"ags": "07138045",
+"ortsteil": true,
+"km_vom_vorigen": 108.8
+},
+{
+"slug": "405-segendorf",
+"name": "Segendorf",
+"lat": 50.4678,
+"lon": 7.45917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Segendorf",
+"steckbrief": "Segendorf ist ein Stadtteil von Neuwied mit rund 1.800 Einwohnern, 15 km nordwestlich von Koblenz.",
+"frage": "Auf den Höhen Neuwieds bei Segendorf liegt Monrepos. Was steckt hinter dem Namen?",
+"optionen": [
+"Er bedeutet auf Französisch „mein Berg“.",
+"Er bedeutet auf Französisch „meine Ruhe“.",
+"Er geht auf einen keltischen Bergnamen zurück.",
+"Er erinnert an eine Gräfin namens Repos."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Mein Berg“ liegt nahe, denn französisch „mont“ heißt Berg, und Monrepos liegt auf den Höhen Neuwieds. Doch „mon repos“ bedeutet „meine Ruhe“. Das passt: Monrepos ist ein historisches Naherholungsgebiet inmitten ausgedehnter Wälder am Rand des Westerwaldes. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
+"faktencheck": "bestätigt",
+"id": "405-segendorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Segendorf",
+"steckbrief": "Segendorf ist ein Stadtteil von Neuwied, 15 km nordwestlich von Koblenz.",
+"frage": "Wie viele Einwohner hat Segendorf?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Weniger liegt nahe, denn viele Stadtteile sind kleine eingemeindete Dörfer. Doch in Segendorf leben 1.815 Menschen. Richtig war 3.",
+"quelle": "dewiki Infobox, Stand 2026-07-06",
+"faktencheck": "bestätigt",
+"id": "405-segendorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Segendorf",
+"steckbrief": "Segendorf, rund 1.800 Einwohner, ist ein Stadtteil von Neuwied, 15 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In Segendorf gab es einst ein wiedisches Hofgericht.",
+"Auf dem einstigen Herrengut Nodhausen lag lange ein beliebtes Ausflugsziel.",
+"Monrepos über Neuwied wurde ursprünglich als Kloster erbaut."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Hofgericht klingt erfunden, doch es ist für Segendorf bezeugt: ein Gericht der Grafen von Wied. Und auf dem einstigen Gut Nodhausen lockten neue Anlagen viele Jahrzehnte Ausflügler an. Gelogen ist das Kloster: Monrepos ließ Graf Alexander zu Wied-Neuwied als Sommersitz bauen. Der französische Name, „meine Ruhe“, passt dazu. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf; KuLaDig, www.kuladig.de/Objektansicht/O-111964-20150115-4",
+"faktencheck": "korrigiert",
+"id": "405-segendorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Segendorf",
+"steckbrief": "Segendorf, Stadtteil von Neuwied mit rund 1.800 Einwohnern, liegt 15 km nordwestlich von Koblenz.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Neuwied: Wie viel Prozent holte die stärkste Partei?",
+"optionen": [
+"unter 28 %",
+"28 bis unter 32 %",
+"32 bis unter 36 %",
+"36 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mehr liegt nahe, denn auf dem Land liegen Wahlsieger oft deutlicher vorn. In der Stadt Neuwied lag die CDU mit 27,1 Prozent vorn, vor AfD und SPD. Die Zahl gilt für die ganze Stadt, nicht nur für Segendorf. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "405-segendorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Segendorf",
+"steckbrief": "Segendorf ist ein Stadtteil von Neuwied mit rund 1.800 Einwohnern, 15 km nordwestlich von Koblenz.",
+"frage": "Als erste Erwähnung Segendorfs gilt eine Urkunde von 1218. In welchem Zusammenhang wird der Ort dort genannt?",
+"optionen": [
+"Ein Graf verpfändete das Dorf einem Erzbischof.",
+"Ein nach dem Ort benannter Burgmann war Zeuge.",
+"Eine Steuerliste zählte die Höfe des Dorfes auf.",
+"Ein Pfarrer weihte im Dorf eine Kapelle."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Steuerliste liegt nahe, denn so tauchen viele Dörfer erstmals auf. Hier war es anders: Rudeger von Sehterndorf, ein wiedischer Burgmann, bezeugte eine Schenkung des Burggrafen von Isenburg an das Kloster Rommersdorf. Ein Burgmann diente auf einer Burg seines Herrn. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
+"faktencheck": "korrigiert",
+"id": "405-segendorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Segendorf",
+"steckbrief": "Segendorf, rund 1.800 Einwohner, ist ein Stadtteil von Neuwied, 15 km nordwestlich von Koblenz.",
+"frage": "In welchem Jahr wurde Segendorf nach Neuwied eingemeindet?",
+"optionen": [
+"vor 1900",
+"1900 bis unter 1950",
+"1950 bis unter 1980",
+"1980 und später"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Früher liegt nahe, denn viele Vororte kamen schon mit dem Wachstum der Städte im Industriezeitalter dazu. Segendorf wurde erst 1970 eingemeindet. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "405-segendorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Segendorf",
+"steckbrief": "Segendorf ist ein Stadtteil von Neuwied mit rund 1.800 Einwohnern, 15 km nordwestlich von Koblenz.",
+"frage": "Bei Segendorf liegt Monrepos. Dort sitzen heute ein Forschungszentrum und ein Museum. Womit befassen sie sich?",
+"optionen": [
+"Sie erforschen die Geschichte des Fürstenhauses Wied.",
+"Sie erforschen Wildtiere und Wälder des Westerwalds.",
+"Sie erforschen den Weinbau am Mittelrhein.",
+"Sie erforschen die Evolution menschlichen Verhaltens."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Das Fürstenhaus liegt nahe, denn Monrepos war einst Sommerresidenz der Fürsten zu Wied. Heute forschen dort Archäologen aus aller Welt. Das Museum spannt den Bogen vom Verhalten der Urmenschen bis zu unserem eigenen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/segendorf",
+"faktencheck": "bestätigt",
+"id": "405-segendorf/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "404-niederbieber",
+"anschluss": [
+"Gericht: Segendorf gehörte einst zum Kirchspielgericht Niederbieber.",
+"Einwohner: Niederbieber hat mehr als doppelt so viele wie Segendorf."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Segendorf zum Landkreis Landkreis Neuwied.",
+"Vallendar hat fünfmal so viele Einwohner wie Segendorf."
+],
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Segendorf zum Landkreis Landkreis Neuwied.",
+"Andernach hat gut sechzehnmal so viele Einwohner wie Segendorf."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Segendorf zum Landkreis Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Segendorf die CDU."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Segendorf gehört zum Landkreis Landkreis Neuwied.",
+"Koblenz hat rund 60-mal so viele Einwohner wie Segendorf."
+],
+"183-ransbach-baumbach": [
+"Kreisgrenze: Ransbach-Baumbach gehört zum Westerwaldkreis, Segendorf zum Landkreis Landkreis Neuwied.",
+"Ransbach-Baumbach hat viereinhalbmal so viele Einwohner wie Segendorf."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Segendorf zum Landkreis Landkreis Neuwied.",
+"Höhr-Grenzhausen hat gut fünfmal so viele Einwohner wie Segendorf."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Segendorf zum Landkreis Landkreis Neuwied.",
+"Bad Breisig hat gut fünfmal so viele Einwohner wie Segendorf."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Segendorf zum Landkreis Landkreis Neuwied.",
+"Sinzig hat fast zehnmal so viele Einwohner wie Segendorf."
+],
+"333-rheinbrohl": [
+"Kreisgrenze: Rheinbrohl gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Rheinbrohl hat fast zweieinhalbmal so viele Einwohner wie Segendorf."
+],
+"334-leubsdorf": [
+"Kreisgrenze: Leubsdorf gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Segendorf hat rund 200 Einwohner mehr als Leubsdorf."
+],
+"340-neustadt-wied": [
+"Kreisgrenze: Neustadt (Wied) gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Neustadt (Wied) hat gut dreieinhalbmal so viele Einwohner wie Segendorf."
+],
+"342-vettelschoss": [
+"Kreisgrenze: Vettelschoß gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Vettelschoß hat doppelt so viele Einwohner wie Segendorf."
+],
+"404-niederbieber": [
+"Gericht: Segendorf gehörte einst zum Kirchspielgericht Niederbieber.",
+"Einwohner: Niederbieber hat mehr als doppelt so viele wie Segendorf."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Segendorf die CDU."
+],
+"407-niederbreitbach": [
+"Kreisgrenze: Niederbreitbach gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Segendorf hat rund 300 Einwohner mehr als Niederbreitbach."
+],
+"408-oberbieber": [
+"Oberbieber hat gut zweieinhalbmal so viele Einwohner wie Segendorf."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Melsbach und Segendorf sind fast gleich groß: rund 2.000 und 1.800 Einwohner."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Segendorf hat gut doppelt so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Segendorf hat rund 300 Einwohner mehr als Ehlscheid."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Segendorf hat fast doppelt so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Kreisgrenze: Roßbach gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Segendorf hat rund 400 Einwohner mehr als Roßbach."
+],
+"414-hausen-wied": [
+"Kreisgrenze: Hausen (Wied) gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Hausen (Wied) und Segendorf sind fast gleich groß: rund 1.800 und 1.800 Einwohner."
+],
+"415-breitscheid-westerwald": [
+"Kreisgrenze: Breitscheid gehört zum Landkreis Neuwied, Segendorf zum Landkreis Landkreis Neuwied.",
+"Breitscheid hat rund 400 Einwohner mehr als Segendorf."
+],
+"417-wolfenacker": [
+"Wolfenacker liegt rund 170 Meter höher als Segendorf."
+]
+},
+"ags": "07138045",
+"ortsteil": true,
+"km_vom_vorigen": 1.1
+},
+{
+"slug": "406-datzeroth",
+"name": "Datzeroth",
+"lat": 50.50667,
+"lon": 7.42806,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Datzeroth",
+"steckbrief": "Rund 290 Einwohner, 20 km nordwestlich von Koblenz.",
+"frage": "Zu Datzeroth gehört der Wohnplatz Forsthaus Friedrichsthal. Welcher Friedrich steckt in diesem Namen?",
+"optionen": [
+"Gemeint ist Graf Friedrich III. zu Wied.",
+"Gemeint ist König Friedrich der Große.",
+"Gemeint ist Kaiser Friedrich Barbarossa.",
+"Gemeint ist ein früherer Förster namens Friedrich."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Forsthaus denkt man zuerst an einen Förster. Doch der Name geht auf Graf Friedrich III. zu Wied zurück, den Gründer der Stadt Neuwied. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Datzeroth",
+"faktencheck": "unsicher",
+"id": "406-datzeroth/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Datzeroth",
+"steckbrief": "Gemeinde im Tal der Wied, 20 km nordwestlich von Koblenz.",
+"frage": "Wie viele Einwohner hat die Gemeinde Datzeroth?",
+"optionen": [
+"unter 150",
+"150 bis unter 400",
+"400 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine eigene Gemeinde lässt mehr Menschen erwarten. Doch Datzeroth zählte Ende 2025 nur 291 Einwohner. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "406-datzeroth/v0.8/2",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Datzeroth",
+"steckbrief": "Rund 290 Einwohner, 20 km nordwestlich von Koblenz.",
+"frage": "Welche Partei wurde in Datzeroth bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"Die Linke",
+"CDU"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land liegt die CDU oft vorn, deshalb denkt man bei Platz zwei eher an andere. In Datzeroth lag aber die AfD vorn, die CDU folgte auf Platz zwei. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "406-datzeroth/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Datzeroth",
+"steckbrief": "Rund 290 Einwohner, 20 km nordwestlich von Koblenz.",
+"frage": "1219 stritten Wilhelm von Ouch und Datzerother Einwohner mit Andernacher Klosterfrauen. Der Trierer Erzbischof beendete den Streit. Wem sprach er dabei den Dingvogt zu, also Abgaben?",
+"optionen": [
+"Er sprach ihn den Klosterfrauen zu.",
+"Er sprach ihn Wilhelm von Ouch zu.",
+"Er sprach ihn den Datzerother Einwohnern zu.",
+"Er behielt ihn selbst für das Erzbistum."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Herr aus dem Rittergeschlecht vor Ort wirkt wie der stärkere Streiter. Doch Erzbischof Dietrich von Wied sprach den Dingvogt, also Abgaben, den Augustinerinnen des Klosters St. Thomas zu Andernach zu. Richtig war 1.",
+"quelle": "Ortsgemeinde Datzeroth, datzeroth.de/geschichte",
+"faktencheck": "korrigiert",
+"id": "406-datzeroth/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Datzeroth",
+"steckbrief": "Rund 290 Einwohner, im Wiedtal 20 km nordwestlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Datzeroth rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 20",
+"20 bis unter 60",
+"60 bis unter 150",
+"150 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. So nah an Koblenz erwartet man dichtere Besiedlung. Doch knapp 300 Menschen verteilen sich auf rund acht Quadratkilometer Gemeindefläche, das ergibt rechnerisch 36 je Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "406-datzeroth/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Datzeroth",
+"steckbrief": "Rund 290 Einwohner, 20 km nordwestlich von Koblenz.",
+"frage": "Im Gemeindewappen von Datzeroth ist eine goldene Sichel zu sehen. Wofür steht sie?",
+"optionen": [
+"Sie erinnert an die Klosterfrauen vom Grenzelberg.",
+"Sie steht für eine frühere Sensenschmiede.",
+"Sie steht für Ackerbau und Wiesengelände.",
+"Sie zeigt eine Mondsichel über dem Wiedtal."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine goldene Sichel erinnert leicht an den Mond. Im Wappen steht sie aber für Ackerbau und Wiesengelände. Auch der Rest deutet die Landschaft: der blaue Wellenbalken die Lage im Wiedbachtal, Eichenblatt und Grün die waldreiche Umgebung. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Datzeroth",
+"faktencheck": "unsicher",
+"id": "406-datzeroth/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Datzeroth",
+"steckbrief": "Rund 290 Einwohner, 20 km nordwestlich von Koblenz.",
+"frage": "Nördlich von Datzeroth liegt die Seiferts-Au. Woher hat sie ihren Namen?",
+"optionen": [
+"Sie heißt nach dem Gründer eines Campingplatzes dort.",
+"Sie heißt nach einem Hofmann eines Klosterhofs.",
+"Sie heißt nach einer Seifensiederei in der Au.",
+"Sie heißt nach einem Wanderprediger an der Wied."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Platz am Fluss liegt ein heutiger Besitzer als Namensgeber nahe. Doch der Name ist alt: Bis zur Reformation gehörte die Seiferts-Au den Augustinerinnen vom Grenzelberg. Benannt ist sie nach einem Hofmann eines nahe gelegenen, ehemaligen Klosterhofs. Richtig war 2.",
+"quelle": "Ortsgemeinde Datzeroth, datzeroth.de/geschichte",
+"faktencheck": "korrigiert",
+"id": "406-datzeroth/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Datzeroth",
+"steckbrief": "Rund 290 Einwohner, 20 km nordwestlich von Koblenz.",
+"frage": "Bei Datzeroth lag der Weiler Ouch, Sitz eines Rittergeschlechts. 1623 wird er zuletzt erwähnt. Was wurde aus ihm?",
+"optionen": [
+"Ein Hochwasser der Wied riss ihn fort.",
+"Er wuchs mit Datzeroth zu einem Dorf zusammen.",
+"Ein Bergrutsch vom Hang begrub ihn.",
+"Er wurde im Dreißigjährigen Krieg zerstört."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein verschwundener Weiler lässt an eine Naturkatastrophe denken. Doch Ouch wurde im Dreißigjährigen Krieg zerstört. Heute steht an seiner Stelle das Forsthaus Friedrichstal. Richtig war 4.",
+"quelle": "Ortsgemeinde Datzeroth, datzeroth.de/geschichte (Hinweis: Das Forsthaus kommt auch in Karte 1 vor, dort aber in einer anderen Aussage, nämlich zur Herkunft des Namens.)",
+"faktencheck": "korrigiert",
+"id": "406-datzeroth/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "405-segendorf",
+"anschluss": [
+"Wahlbeteiligung 2025: Datzeroth 92 Prozent, ganz Neuwied samt Segendorf 77."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Datzeroth zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Vallendar lag die CDU vorn, in Datzeroth die AfD."
+],
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Datzeroth zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Andernach lag die CDU vorn, in Datzeroth die AfD."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Datzeroth zum Landkreis Neuwied.",
+"Weißenthurm hat rund 30-mal so viele Einwohner wie Datzeroth."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Datzeroth zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Höhr-Grenzhausen lag die CDU vorn, in Datzeroth die AfD."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Datzeroth zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Bad Breisig lag die CDU vorn, in Datzeroth die AfD."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Datzeroth zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Sinzig lag die CDU vorn, in Datzeroth die AfD."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Datzeroth zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Remagen lag die CDU vorn, in Datzeroth die AfD."
+],
+"333-rheinbrohl": [
+"Bundestagswahl 2025: In Rheinbrohl lag die CDU vorn, in Datzeroth die AfD.",
+"Rheinbrohl hat gut vierzehnmal so viele Einwohner wie Datzeroth."
+],
+"334-leubsdorf": [
+"Bundestagswahl 2025: In Leubsdorf lag die CDU vorn, in Datzeroth die AfD.",
+"Leubsdorf hat fast sechsmal so viele Einwohner wie Datzeroth."
+],
+"335-unkel": [
+"Bundestagswahl 2025: In Unkel lag die CDU vorn, in Datzeroth die AfD.",
+"Unkel hat siebzehnmal so viele Einwohner wie Datzeroth."
+],
+"336-erpel": [
+"Bundestagswahl 2025: In Erpel lag die CDU vorn, in Datzeroth die AfD.",
+"Erpel hat neunmal so viele Einwohner wie Datzeroth."
+],
+"340-neustadt-wied": [
+"Bundestagswahl 2025: In Neustadt (Wied) lag die CDU vorn, in Datzeroth die AfD.",
+"Neustadt (Wied) hat rund zwanzigmal so viele Einwohner wie Datzeroth."
+],
+"341-windhagen": [
+"Bundestagswahl 2025: In Windhagen lag die CDU vorn, in Datzeroth die AfD.",
+"Windhagen hat sechzehnmal so viele Einwohner wie Datzeroth."
+],
+"342-vettelschoss": [
+"Bundestagswahl 2025: In Vettelschoß lag die CDU vorn, in Datzeroth die AfD.",
+"Vettelschoß hat dreizehnmal so viele Einwohner wie Datzeroth."
+],
+"343-asbach": [
+"Bundestagswahl 2025: In Asbach lag die CDU vorn, in Datzeroth die AfD.",
+"Asbach hat rund 25-mal so viele Einwohner wie Datzeroth."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Datzeroth zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Niederbieber lag die CDU vorn, in Datzeroth die AfD."
+],
+"405-segendorf": [
+"Wahlbeteiligung 2025: Datzeroth 92 Prozent, ganz Neuwied samt Segendorf 77."
+],
+"407-niederbreitbach": [
+"Bundestagswahl 2025: In Niederbreitbach lag die CDU vorn, in Datzeroth die AfD.",
+"Niederbreitbach hat gut fünfmal so viele Einwohner wie Datzeroth."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Datzeroth zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Oberbieber lag die CDU vorn, in Datzeroth die AfD."
+],
+"409-melsbach": [
+"Bundestagswahl 2025: In Melsbach lag die CDU vorn, in Datzeroth die AfD.",
+"Melsbach hat fast siebenmal so viele Einwohner wie Datzeroth."
+],
+"410-hardert": [
+"Bundestagswahl 2025: In Hardert lag die CDU vorn, in Datzeroth die AfD.",
+"Hardert hat dreimal so viele Einwohner wie Datzeroth."
+],
+"411-ehlscheid": [
+"Bundestagswahl 2025: In Ehlscheid lag die CDU vorn, in Datzeroth die AfD.",
+"Ehlscheid hat gut fünfmal so viele Einwohner wie Datzeroth."
+],
+"412-kurtscheid": [
+"Bundestagswahl 2025: In Kurtscheid lag die CDU vorn, in Datzeroth die AfD.",
+"Kurtscheid hat dreieinhalbmal so viele Einwohner wie Datzeroth."
+],
+"413-rossbach-wied": [
+"Bundestagswahl 2025: In Roßbach lag die CDU vorn, in Datzeroth die AfD.",
+"Roßbach hat fünfmal so viele Einwohner wie Datzeroth."
+],
+"414-hausen-wied": [
+"Bundestagswahl 2025: In Hausen (Wied) lag die CDU vorn, in Datzeroth die AfD.",
+"Hausen (Wied) hat gut sechsmal so viele Einwohner wie Datzeroth."
+],
+"415-breitscheid-westerwald": [
+"Bundestagswahl 2025: In Breitscheid lag die CDU vorn, in Datzeroth die AfD.",
+"Breitscheid hat fast achtmal so viele Einwohner wie Datzeroth."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Datzeroth zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Datzeroth zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Wolfenacker lag die CDU vorn, in Datzeroth die AfD."
+]
+},
+"ags": "07138010",
+"ortsteil": false,
+"km_vom_vorigen": 4.9
+},
+{
+"slug": "407-niederbreitbach",
+"name": "Niederbreitbach",
+"lat": 50.53194,
+"lon": 7.41778,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederbreitbach",
+"steckbrief": "Niederbreitbach hat rund 1.500 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Über dem Fockenbachtal liegt die Burgruine Neuerburg. Wer ließ die Burg um 1170 erbauen?",
+"optionen": [
+"Ein Erzbischof von Trier ließ sie bauen.",
+"Die Grafen von Wied ließen sie bauen.",
+"Ein Abt von Maria Laach ließ sie bauen.",
+"Ein Landgraf von Thüringen ließ sie bauen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Grafen von Wied liegen nahe, denn der Fluss gibt dem ganzen Tal den Namen. Erbauer war aber Landgraf Ludwig II. von Thüringen. 1250 übergab Gräfin Mechthild von Sayn, die Witwe Heinrichs III., die Burg dem Erzstift Köln. Richtig war 4.",
+"quelle": "KuLaDig, kuladig.de/Objektansicht/O-99697-20140814-2",
+"faktencheck": "korrigiert",
+"id": "407-niederbreitbach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niederbreitbach",
+"steckbrief": "Niederbreitbach hat rund 1.500 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Wie groß ist die Fläche der Gemeinde Niederbreitbach?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land erwartet man oft weitläufige Gemeinden mit viel Feld und Wald. Niederbreitbach misst aber nur 8,53 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "407-niederbreitbach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Niederbreitbach",
+"steckbrief": "Niederbreitbach hat rund 1.500 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schon vor Jahrhunderten wurde im Ort Wein angebaut.",
+"Die heutige Pfarrkirche stammt aus dem Mittelalter.",
+"Die Schulkinder wurden einst in Schichten unterrichtet."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wein an der Wied klingt am ehesten erfunden, doch schon 1468 wird der Herrenhof im Ort als „Kelterhaus“ genannt. Auch der Schichtunterricht stimmt. Die Pfarrkirche St. Laurentius aber ist ein Neubau der 1960er-Jahre; die alte Laurentiuskapelle dient heute als Friedhofskapelle. Die Lüge war 2.",
+"quelle": "KuLaDig; Wikipedia, de.wikipedia.org/wiki/Niederbreitbach",
+"faktencheck": "korrigiert",
+"id": "407-niederbreitbach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niederbreitbach",
+"steckbrief": "Niederbreitbach hat rund 1.500 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Wie hoch war die Wahlbeteiligung in Niederbreitbach bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 82 %",
+"82 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Wahlmüdigkeit auf dem Land denkt, tippt eher niedrig. In Niederbreitbach wählten aber 86,9 Prozent der Wahlberechtigten; stärkste Kraft bei den Zweitstimmen wurde die CDU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "407-niederbreitbach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederbreitbach",
+"steckbrief": "Niederbreitbach hat rund 1.500 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Im Fockenbachtal stand einst die Clemenshütte. Nach welchem Clemens war sie benannt?",
+"optionen": [
+"Nach dem heiligen Papst Clemens.",
+"Nach ihrem Hüttenmeister Clemens Weber.",
+"Nach dem Kölner Kaufmann Clemens Müller.",
+"Nach Kurfürst Clemens August."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Heiliger liegt nahe, denn Gruben und Hütten trugen oft Heiligennamen. Benannt war sie aber nach Kurfürst Clemens August von Köln. Ab 1752 schmolz sie Kupfer, 1787 hatte sie auch einen Hochofen für Eisen. 1810 wurde sie versteigert und später abgerissen. Richtig war 4.",
+"quelle": "KuLaDig, kuladig.de/Objektansicht/O-99703-20140814-8",
+"faktencheck": "korrigiert",
+"id": "407-niederbreitbach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Niederbreitbach",
+"steckbrief": "Niederbreitbach hat rund 1.500 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "In welchem Landkreis liegt Niederbreitbach?",
+"optionen": [
+"Neuwied",
+"Mayen-Koblenz",
+"Westerwaldkreis",
+"Altenkirchen (Westerwald)"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wegen der Nähe zu Koblenz liegt Mayen-Koblenz nahe. Niederbreitbach gehört aber zum Landkreis Neuwied; das Hauptkennzeichen ist NR. Richtig war 1.",
+"quelle": "dewiki Infobox; Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "407-niederbreitbach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederbreitbach",
+"steckbrief": "Niederbreitbach hat rund 1.500 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "In der Niederbreitbacher Kirche steht eine Laurentiusfigur. Woher soll sie nach der Volkssage stammen?",
+"optionen": [
+"Sie soll in der Wied angeschwemmt worden sein.",
+"Sie soll aus einem alten Hofbrunnen stammen.",
+"Ein Pilger soll sie aus Rom mitgebracht haben.",
+"Sie soll aus der Neuerburg gerettet worden sein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Fund am Fluss liegt nahe, denn von vielen Heiligenfiguren erzählt man, sie seien angeschwemmt worden. Der Sage nach stammt sie aber aus dem Brunnen des Hofmanns Laurentius am Klosterhof bei Nonnenbach, den einst das Andernacher Marienkloster besaß. Von Hof und Brunnen sind Reste erhalten. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Niederbreitbach",
+"faktencheck": "unsicher",
+"id": "407-niederbreitbach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederbreitbach",
+"steckbrief": "Niederbreitbach hat rund 1.500 Einwohner und liegt 23 km nordwestlich von Koblenz.",
+"frage": "Der Rheindorfer Hof gehörte einst einem Stift der Benediktinerinnen. Was geschah 1821 mit ihm?",
+"optionen": [
+"Ein Hochwasser der Wied zerstörte ihn.",
+"Ein Großbrand legte ihn in Asche.",
+"Er wurde versteigert und abgebrochen.",
+"Ein Erdrutsch vom Hang verschüttete ihn."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. An einem Fluss denkt man zuerst an Hochwasser. Das Ende kam aber mit der Säkularisation, der Enteignung kirchlichen Besitzes: Der Hof wurde versteigert und abgebrochen. Er hatte dem Benediktinerinnenstift Schwarzrheindorf bei Bonn gehört. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Niederbreitbach (Vermerk: Hergang 1821 nur Wikipedia)",
+"faktencheck": "korrigiert",
+"id": "407-niederbreitbach/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "406-datzeroth",
+"anschluss": [
+"Einwohner: Niederbreitbach hat gut fünfmal so viele wie Datzeroth.",
+"Bundestagswahl 2025: Stärkste Partei in Datzeroth AfD, in Niederbreitbach CDU."
+],
+"anschluesse": {
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Niederbreitbach zum Landkreis Neuwied.",
+"Andernach hat zwanzigmal so viele Einwohner wie Niederbreitbach."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Niederbreitbach zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Niederbreitbach die CDU."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Niederbreitbach zum Landkreis Neuwied.",
+"Bad Breisig hat gut sechsmal so viele Einwohner wie Niederbreitbach."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Niederbreitbach zum Landkreis Neuwied.",
+"Sinzig hat gut elfmal so viele Einwohner wie Niederbreitbach."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Niederbreitbach zum Landkreis Neuwied.",
+"Remagen hat fast zwölfmal so viele Einwohner wie Niederbreitbach."
+],
+"333-rheinbrohl": [
+"Rheinbrohl hat gut zweieinhalbmal so viele Einwohner wie Niederbreitbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rheinbrohl die SPD, in Niederbreitbach die AfD."
+],
+"334-leubsdorf": [
+"Leubsdorf und Niederbreitbach sind fast gleich groß: rund 1.600 und 1.500 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Leubsdorf die SPD, in Niederbreitbach die AfD."
+],
+"335-unkel": [
+"Unkel hat fast dreieinhalbmal so viele Einwohner wie Niederbreitbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Unkel die SPD, in Niederbreitbach die AfD."
+],
+"336-erpel": [
+"Erpel hat gut anderthalbmal so viele Einwohner wie Niederbreitbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Erpel die SPD, in Niederbreitbach die AfD."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Niederbreitbach in Rheinland-Pfalz.",
+"Bad Honnef hat sechzehnmal so viele Einwohner wie Niederbreitbach."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat fast viereinhalbmal so viele Einwohner wie Niederbreitbach."
+],
+"341-windhagen": [
+"Windhagen hat dreimal so viele Einwohner wie Niederbreitbach.",
+"Windhagen liegt rund 170 Meter höher als Niederbreitbach."
+],
+"342-vettelschoss": [
+"Vettelschoß hat fast zweieinhalbmal so viele Einwohner wie Niederbreitbach.",
+"Vettelschoß liegt rund 160 Meter höher als Niederbreitbach."
+],
+"343-asbach": [
+"Asbach hat fünfmal so viele Einwohner wie Niederbreitbach.",
+"Asbach liegt rund 160 Meter höher als Niederbreitbach."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Niederbreitbach zum Landkreis Neuwied.",
+"Niederbieber hat dreimal so viele Einwohner wie Niederbreitbach."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Niederbreitbach zum Landkreis Neuwied.",
+"Segendorf hat rund 300 Einwohner mehr als Niederbreitbach."
+],
+"406-datzeroth": [
+"Einwohner: Niederbreitbach hat gut fünfmal so viele wie Datzeroth.",
+"Bundestagswahl 2025: Stärkste Partei in Datzeroth AfD, in Niederbreitbach CDU."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Niederbreitbach zum Landkreis Neuwied.",
+"Oberbieber hat gut dreimal so viele Einwohner wie Niederbreitbach."
+],
+"409-melsbach": [
+"Melsbach hat rund 400 Einwohner mehr als Niederbreitbach.",
+"Niederbreitbach hat dreimal so viel Fläche wie Melsbach, aber weniger Einwohner."
+],
+"410-hardert": [
+"Niederbreitbach hat fast doppelt so viele Einwohner wie Hardert.",
+"Hardert liegt rund 180 Meter höher als Niederbreitbach."
+],
+"411-ehlscheid": [
+"Ehlscheid und Niederbreitbach sind fast gleich groß: rund 1.500 und 1.500 Einwohner.",
+"Ehlscheid liegt rund 230 Meter höher als Niederbreitbach."
+],
+"412-kurtscheid": [
+"Niederbreitbach hat anderthalbmal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 270 Meter höher als Niederbreitbach."
+],
+"413-rossbach-wied": [
+"Roßbach und Niederbreitbach sind fast gleich groß: rund 1.500 und 1.500 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Roßbach die SPD, in Niederbreitbach die AfD."
+],
+"414-hausen-wied": [
+"Hausen (Wied) hat rund 300 Einwohner mehr als Niederbreitbach."
+],
+"415-breitscheid-westerwald": [
+"Breitscheid hat anderthalbmal so viele Einwohner wie Niederbreitbach.",
+"Breitscheid liegt rund 200 Meter höher als Niederbreitbach."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Niederbreitbach zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Niederbreitbach zum Landkreis Neuwied.",
+"Wolfenacker liegt rund 150 Meter höher als Niederbreitbach."
+]
+},
+"ags": "07138047",
+"ortsteil": false,
+"km_vom_vorigen": 2.9
+},
+{
+"slug": "408-oberbieber",
+"name": "Oberbieber",
+"lat": 50.4733,
+"lon": 7.50111,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberbieber",
+"steckbrief": "Rund 4.900 Einwohner; Stadtteil von Neuwied, 14 km nördlich von Koblenz.",
+"frage": "Einst fanden in Oberbieber drei Jahrmärkte statt, der Überlieferung nach auf dem Hermesplatz. Warum endeten sie dort 1662?",
+"optionen": [
+"Die Händler zogen freiwillig in größere Städte.",
+"Mangels Händlern wurden die Märkte ersatzlos aufgegeben.",
+"Der Graf verlegte sie in seine neue Residenz.",
+"Die Märkte wanderten ins nahe Engers ab."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Niedergang liegt nahe, denn Kriege trafen viele Dörfer jener Zeit. Doch Graf Friedrich verlegte die Jahrmärkte in seine neue Residenz Neuwied. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
+"faktencheck": "korrigiert",
+"id": "408-oberbieber/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberbieber",
+"steckbrief": "Rund 4.900 Einwohner; Stadtteil von Neuwied, 14 km nördlich von Koblenz, am Rand des Westerwalds.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Oberbieber?",
+"optionen": [
+"unter 70 m",
+"70 bis unter 85 m",
+"85 bis unter 95 m",
+"95 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Neuwied liegt am Rhein, das legt eine niedrige Höhe nahe. Oberbieber liegt aber schon an den Hügeln des Westerwalds, wo der Aubach dem Neuwieder Becken zufließt. Die Quellen nennen 100 bis 102 Meter. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox; GeoNames 2861261",
+"faktencheck": "bestätigt",
+"id": "408-oberbieber/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oberbieber",
+"steckbrief": "Stadtteil von Neuwied mit rund 4.900 Einwohnern, 14 km nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Aubach trieb zahlreiche Mühlen an.",
+"Töpfer und Lohgerber arbeiteten früher im Ort.",
+"Für Weinbau war Oberbieber immer zu kühl."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Rand des Westerwalds klingt Kälte plausibel. Doch der Weinbau war in Oberbieber von Bedeutung, auf dem Wingertsberg standen Reben. Mühlen am Aubach, Töpfer und Lohgerber gab es wirklich. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
+"faktencheck": "korrigiert",
+"id": "408-oberbieber/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberbieber",
+"steckbrief": "Rund 4.900 Einwohner; Stadtteil von Neuwied, 14 km nördlich von Koblenz.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei bei der Bundestagswahl 2025 in der Stadt Neuwied, zu der Oberbieber gehört?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Am Westerwaldrand vermutet man eine sehr starke CDU. Die Zahl gilt aber für die ganze Stadt Neuwied, nicht nur für Oberbieber: Dort lag die CDU vorn, mit 27,1 Prozent der Zweitstimmen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "408-oberbieber/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberbieber",
+"steckbrief": "Rund 4.900 Einwohner; Stadtteil von Neuwied, 14 km nördlich von Koblenz.",
+"frage": "Woher hat Oberbieber seinen Namen?",
+"optionen": [
+"Der Ort ist nach einem fränkischen Grundherrn benannt.",
+"Der Name meint ein Dorf an einer Flussbiegung.",
+"Der Ort ist nach seinem Bach benannt.",
+"Der Ort ist nach einer verschwundenen Burg benannt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele Ortsnamen gehen auf Burgen oder Grundherren zurück, und „Bieber“ klingt nach Biegung. Oberbieber aber trägt den alten Namen des Aubachs: Eine Urkunde nennt ihn „biuira“, gedeutet als Biberbach. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
+"faktencheck": "korrigiert",
+"id": "408-oberbieber/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberbieber",
+"steckbrief": "Rund 4.900 Einwohner; Stadtteil von Neuwied, 14 km nördlich von Koblenz.",
+"frage": "In welchem Jahr wurde Oberbieber in die Stadt Neuwied eingemeindet?",
+"optionen": [
+"vor 1900",
+"1900 bis 1944",
+"1945 bis 1964",
+"1965 oder später"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Stadtteil so nah an der Kernstadt liegt eine frühe Eingemeindung nahe. Oberbieber kam aber erst am 7. November 1970 zu Neuwied. Bis dahin war es eine eigene Gemeinde. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "408-oberbieber/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberbieber",
+"steckbrief": "Stadtteil von Neuwied mit rund 4.900 Einwohnern, 14 km nördlich von Koblenz.",
+"frage": "Auf dem Wingertsberg steht ein Wachturm, wie ihn die Römer am Limes bauten. Was stimmt über ihn?",
+"optionen": [
+"Er ist ein Nachbau aus dem 20. Jahrhundert.",
+"Er ist ein Römer-Original aus dem 2. Jahrhundert.",
+"Mönche bauten ihn im 12. Jahrhundert nach.",
+"Er war ein Wehrturm aus dem 16. Jahrhundert."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein echter Römerturm liegt nahe, denn der Limes verlief tatsächlich über den Wingertsberg. Doch dieser Turm ist ein Nachbau: Er wurde im 20. Jahrhundert als Denkmal für die historische Grenze errichtet. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
+"faktencheck": "korrigiert",
+"id": "408-oberbieber/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberbieber",
+"steckbrief": "Stadtteil von Neuwied mit rund 4.900 Einwohnern, 14 km nördlich von Koblenz.",
+"frage": "Kaiser Heinrich II. schenkte Oberbieber im Jahr 1021 einem Frauenstift. Wo lag dieses Stift?",
+"optionen": [
+"Das Stift lag bei Trier.",
+"Das Stift lag bei Aachen.",
+"Das Stift lag bei Fulda.",
+"Das Stift lag bei Bonn."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Trier liegt nahe, denn das Erzbistum war am Mittelrhein mächtig. Doch die Schenkung ging an das Frauenstift Dietkirchen zu Bonn. Später gab das Stift Oberbieber im Tausch gegen ein Gut in Oberwinter an die Abtei Rommersdorf. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
+"faktencheck": "korrigiert",
+"id": "408-oberbieber/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "407-niederbreitbach",
+"anschluss": [
+"Einwohner: Oberbieber hat gut dreimal so viele wie Niederbreitbach.",
+"Luftlinie nach Koblenz: von Oberbieber 14 km, von Niederbreitbach 23."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Vallendar hat fast doppelt so viele Einwohner wie Oberbieber."
+],
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Andernach hat sechsmal so viele Einwohner wie Oberbieber."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Oberbieber die CDU."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Oberbieber gehört zum Landkreis Landkreis Neuwied.",
+"Koblenz hat rund 25-mal so viele Einwohner wie Oberbieber."
+],
+"183-ransbach-baumbach": [
+"Kreisgrenze: Ransbach-Baumbach gehört zum Westerwaldkreis, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Ransbach-Baumbach hat gut anderthalbmal so viele Einwohner wie Oberbieber."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Höhr-Grenzhausen hat fast doppelt so viele Einwohner wie Oberbieber."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Bad Breisig hat doppelt so viele Einwohner wie Oberbieber."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Sinzig hat dreieinhalbmal so viele Einwohner wie Oberbieber."
+],
+"333-rheinbrohl": [
+"Kreisgrenze: Rheinbrohl gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Oberbieber hat rund 700 Einwohner mehr als Rheinbrohl."
+],
+"334-leubsdorf": [
+"Kreisgrenze: Leubsdorf gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Oberbieber hat dreimal so viele Einwohner wie Leubsdorf."
+],
+"340-neustadt-wied": [
+"Kreisgrenze: Neustadt (Wied) gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Neustadt (Wied) hat rund 1.700 Einwohner mehr als Oberbieber."
+],
+"342-vettelschoss": [
+"Kreisgrenze: Vettelschoß gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Oberbieber hat rund 1.200 Einwohner mehr als Vettelschoß."
+],
+"404-niederbieber": [
+"Niederbieber und Oberbieber sind fast gleich groß: rund 4.600 und 4.900 Einwohner."
+],
+"405-segendorf": [
+"Oberbieber hat gut zweieinhalbmal so viele Einwohner wie Segendorf."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Oberbieber die CDU."
+],
+"407-niederbreitbach": [
+"Einwohner: Oberbieber hat gut dreimal so viele wie Niederbreitbach.",
+"Luftlinie nach Koblenz: von Oberbieber 14 km, von Niederbreitbach 23."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Oberbieber hat zweieinhalbmal so viele Einwohner wie Melsbach."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Oberbieber hat fast sechsmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Oberbieber hat gut dreimal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Oberbieber hat fast fünfmal so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Kreisgrenze: Roßbach gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Oberbieber hat fast dreieinhalbmal so viele Einwohner wie Roßbach."
+],
+"414-hausen-wied": [
+"Kreisgrenze: Hausen (Wied) gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Oberbieber hat gut zweieinhalbmal so viele Einwohner wie Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Kreisgrenze: Breitscheid gehört zum Landkreis Neuwied, Oberbieber zum Landkreis Landkreis Neuwied.",
+"Oberbieber hat gut doppelt so viele Einwohner wie Breitscheid."
+],
+"417-wolfenacker": [
+"Wolfenacker liegt rund 170 Meter höher als Oberbieber."
+]
+},
+"ags": "07138045",
+"ortsteil": true,
+"km_vom_vorigen": 8.8
+},
+{
+"slug": "409-melsbach",
+"name": "Melsbach",
+"lat": 50.49083,
+"lon": 7.47833,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Melsbach",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
+"frage": "Bis 1880 arbeitete in Melsbach ein Alaunwerk. Was liegt heute auf seiner früheren Abraumhalde?",
+"optionen": [
+"Auf der Halde liegt heute der Friedhof.",
+"Auf der Halde liegt heute der Sportplatz.",
+"Auf der Halde steht heute ein Aussichtsturm.",
+"Auf der Halde liegt heute ein Freibad."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Alte Halden ragen oft als Hügel auf, da denkt man an Aussicht oder Grün. In Melsbach wurde aus der Abraumhalde des Alaunwerks, das nach der Stilllegung abgerissen wurde, der Sportplatz. Alaun ist ein Salz, das man früher etwa zum Gerben und Färben brauchte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html",
+"faktencheck": "unsicher",
+"id": "409-melsbach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Melsbach",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Melsbach je Quadratkilometer?",
+"optionen": [
+"unter 200",
+"200 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf am Rand des Westerwaldes klingt nach viel Platz. Doch die Gemeindefläche ist mit 2,8 Quadratkilometern klein, und darauf leben 1.953 Menschen. Das ergibt 698 Einwohner je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "409-melsbach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Melsbach",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Welche Partei wurde in Melsbach zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"CDU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt als Tipp nahe, denn bundesweit kam sie 2025 auf Platz zwei. In Melsbach aber holte die SPD mit 20,1 Prozent knapp Rang zwei, die AfD folgte mit 19,5 Prozent. Vorn lag die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "409-melsbach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Melsbach",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
+"frage": "Wie weit ist es von Melsbach in Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 40 km",
+"40 bis unter 70 km",
+"70 bis unter 100 km",
+"100 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Koblenz liegt um die Ecke, und wie Koblenz liegt auch Mainz am Rhein. Das lässt die Landeshauptstadt näher wirken. Doch von Melsbach bis Mainz sind es 80 Kilometer Luftlinie. Wer mit dem Auto fährt, legt noch mehr zurück. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "409-melsbach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Melsbach",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
+"frage": "Das Melsbacher Wappen zeigt eine Eiche auf einem grünen Dreiberg. Wofür steht der Dreiberg?",
+"optionen": [
+"Er steht für die Höhenlage des Ortes.",
+"Er steht für die waldreiche Umgebung.",
+"Er steht für den Bach im Ortsnamen.",
+"Er steht für die früheren Tongruben."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Grün und Berg lassen an Wald denken, doch für die waldreiche Umgebung steht die Eiche. Der Dreiberg, in der Wappenkunde drei gerundete Hügel, zeigt die Höhenlage des Ortes zwischen Wied- und Wallbachtal. Der silberne Wellenbalken steht für das Grundwort -bach im Ortsnamen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Melsbach",
+"faktencheck": "unsicher",
+"id": "409-melsbach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Melsbach",
+"steckbrief": "Gemeinde mit rund 2.000 Einwohnern, 17 km nordwestlich von Koblenz.",
+"frage": "Um 1780 ließ der Unternehmer Heinrich Wilhelm Remy bei Melsbach bohren. Was hoffte er zu finden?",
+"optionen": [
+"Er hoffte auf eine ergiebige Silberader.",
+"Er hoffte auf eine heilkräftige Mineralquelle.",
+"Er hoffte auf Steinkohle für ein Hüttenwerk.",
+"Er hoffte auf ein Vorkommen von Gold."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Silber und Gold klingen nach typischen Zielen alter Bohrungen. Remy aber vermutete ein Steinkohlelager, denn das Hütten- und Walzwerk Rasselstein im Wiedtal bei Neuwied brauchte Kohle. Gefunden wurde nur unbrauchbare Braunkohle zwischen Tonlagern. In den Tonlagern erkannte man später den Grundstoff für Alaun, ein Salz zum Gerben und Färben. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html",
+"faktencheck": "korrigiert",
+"id": "409-melsbach/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "408-oberbieber",
+"anschluss": [
+"Einwohner: Oberbieber hat mehr als doppelt so viele wie Melsbach."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Melsbach zum Landkreis Neuwied.",
+"Vallendar hat viereinhalbmal so viele Einwohner wie Melsbach."
+],
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Melsbach zum Landkreis Neuwied.",
+"Andernach hat fünfzehnmal so viele Einwohner wie Melsbach."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Melsbach zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Melsbach die CDU."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Melsbach gehört zum Landkreis Neuwied.",
+"Koblenz hat rund 60-mal so viele Einwohner wie Melsbach."
+],
+"183-ransbach-baumbach": [
+"Kreisgrenze: Ransbach-Baumbach gehört zum Westerwaldkreis, Melsbach zum Landkreis Neuwied.",
+"Ransbach-Baumbach hat gut viermal so viele Einwohner wie Melsbach."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Melsbach zum Landkreis Neuwied.",
+"Höhr-Grenzhausen hat fast fünfmal so viele Einwohner wie Melsbach."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Melsbach zum Landkreis Neuwied.",
+"Bad Breisig hat fünfmal so viele Einwohner wie Melsbach."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Melsbach zum Landkreis Neuwied.",
+"Sinzig hat neunmal so viele Einwohner wie Melsbach."
+],
+"333-rheinbrohl": [
+"Rheinbrohl hat gut doppelt so viele Einwohner wie Melsbach."
+],
+"334-leubsdorf": [
+"Melsbach hat rund 300 Einwohner mehr als Leubsdorf.",
+"Leubsdorf hat gut dreieinhalbmal so viel Fläche wie Melsbach, aber weniger Einwohner."
+],
+"336-erpel": [
+"Erpel hat rund 600 Einwohner mehr als Melsbach."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat fast dreieinhalbmal so viele Einwohner wie Melsbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Neustadt (Wied) die AfD, in Melsbach die SPD."
+],
+"341-windhagen": [
+"Windhagen hat fast zweieinhalbmal so viele Einwohner wie Melsbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Windhagen die AfD, in Melsbach die SPD."
+],
+"342-vettelschoss": [
+"Vettelschoß hat fast doppelt so viele Einwohner wie Melsbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Vettelschoß die AfD, in Melsbach die SPD."
+],
+"343-asbach": [
+"Asbach hat viermal so viele Einwohner wie Melsbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Asbach die AfD, in Melsbach die SPD."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Melsbach zum Landkreis Neuwied.",
+"Niederbieber hat fast zweieinhalbmal so viele Einwohner wie Melsbach."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Melsbach zum Landkreis Neuwied.",
+"Segendorf und Melsbach sind fast gleich groß: rund 1.800 und 2.000 Einwohner."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Melsbach die CDU.",
+"Melsbach hat fast siebenmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Melsbach hat rund 400 Einwohner mehr als Niederbreitbach.",
+"Niederbreitbach hat dreimal so viel Fläche wie Melsbach, aber weniger Einwohner."
+],
+"408-oberbieber": [
+"Einwohner: Oberbieber hat mehr als doppelt so viele wie Melsbach."
+],
+"410-hardert": [
+"Melsbach hat fast zweieinhalbmal so viele Einwohner wie Hardert.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hardert die AfD, in Melsbach die SPD."
+],
+"411-ehlscheid": [
+"Melsbach hat rund 400 Einwohner mehr als Ehlscheid.",
+"Ehlscheid liegt rund 180 Meter höher als Melsbach."
+],
+"412-kurtscheid": [
+"Melsbach hat fast doppelt so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 220 Meter höher als Melsbach."
+],
+"413-rossbach-wied": [
+"Melsbach hat rund 500 Einwohner mehr als Roßbach.",
+"Roßbach hat fast zweieinhalbmal so viel Fläche wie Melsbach, aber weniger Einwohner."
+],
+"414-hausen-wied": [
+"Hausen (Wied) und Melsbach sind fast gleich groß: rund 1.800 und 2.000 Einwohner.",
+"Hausen (Wied) hat fast dreimal so viel Fläche wie Melsbach, aber weniger Einwohner."
+],
+"415-breitscheid-westerwald": [
+"Breitscheid hat rund 300 Einwohner mehr als Melsbach.",
+"Breitscheid liegt rund 150 Meter höher als Melsbach."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Melsbach zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Melsbach zum Landkreis Neuwied.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Wolfenacker die AfD, in Melsbach die SPD."
+]
+},
+"ags": "07138043",
+"ortsteil": false,
+"km_vom_vorigen": 2.5
+},
+{
+"slug": "410-hardert",
+"name": "Hardert",
+"lat": 50.51861,
+"lon": 7.51778,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hardert",
+"steckbrief": "Die Gemeinde mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
+"frage": "Was bedeutet der Ortsname Hardert ursprünglich?",
+"optionen": [
+"Der Name meint gerodetes Land im Bergwald.",
+"Der Name meint harten, steinigen Ackerboden.",
+"Der Name meint einen Wachposten auf der Höhe.",
+"Der Name meint eine Furt am Bach."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer „hart“ hört, denkt an mühsamen Boden. Doch der Name geht auf „-rode“ zurück, also auf gerodetes Waldland. 1321 hieß der Ort noch Harterode. Die Ortschronik deutet ihn als Rodung eines Mannes namens Hardo. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.hardert.de/geschichte-chronik.html",
+"faktencheck": "korrigiert",
+"id": "410-hardert/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hardert",
+"steckbrief": "Das Westerwalddorf mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Hardert rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 400",
+"400 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Westerwalddorf klingt nach viel Wald und wenig Menschen. Doch die Gemarkung ist klein, nur 3,44 Quadratkilometer. Darauf kommen rechnerisch 246 Einwohner je Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "410-hardert/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "1. Hardert wurde 1966 als Luftkurort anerkannt.",
+"steckbrief": "2. Die 700-Jahr-Feier fand wie geplant 2021 statt.",
+"frage": "",
+"optionen": [
+"Im Jahr 1843 zählte Hardert 256 Einwohner."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Jubiläum feiert man gewöhnlich im Jubiläumsjahr, deshalb klingt die Feier 2021 glaubwürdig. Doch die Corona-Pandemie kam dazwischen: Hardert holte die Feier zu seinem 700-jährigen Bestehen erst im Juni 2022 nach. Luftkurort und Einwohnerzahl stimmen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.hardert.de/geschichte.html und www.hardert.de/geschichte-chronik.html",
+"faktencheck": "korrigiert",
+"id": "410-hardert/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hardert",
+"steckbrief": "Das Dorf mit rund 850 Einwohnern liegt im Kreis Neuwied, 19 km nördlich von Koblenz.",
+"frage": "Wie hoch war in Hardert die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 76 %",
+"76 bis unter 82 %",
+"82 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an sinkende Wahlbeteiligung denkt, tippt tiefer. In Hardert lag sie bei der Bundestagswahl 2025 aber bei 84,7 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "410-hardert/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hardert",
+"steckbrief": "Das Westerwalddorf mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
+"frage": "Das Wappen von Hardert ist rot und golden. Woher stammen diese Farben?",
+"optionen": [
+"Sie stammen von den Grafen, denen Hardert gehörte.",
+"Sie erinnern an einen großen Dorfbrand.",
+"Sie wurden von den Ortsvereinen übernommen.",
+"Sie zeigen die Farben des heimischen Gesteins."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rot und Gold wirken wie Feuer, daher liegt ein Dorfbrand nahe. Tatsächlich stammen die Farben aus dem Wappen der Grafen, später Fürsten zu Wied, die Hardert in Besitz nahmen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hardert",
+"faktencheck": "unsicher",
+"id": "410-hardert/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hardert",
+"steckbrief": "Die Gemeinde in Rheinland-Pfalz mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
+"frage": "Wie weit ist es von Hardert in Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 90 km",
+"90 bis unter 120 km",
+"120 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Weil Koblenz und Mainz beide am Rhein liegen, wirkt der Weg kurz. Von Hardert sind es bis Mainz aber 81 Kilometer Luftlinie. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "410-hardert/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hardert",
+"steckbrief": "Das Dorf mit rund 850 Einwohnern liegt im Westerwald, 19 km nördlich von Koblenz.",
+"frage": "Hardert ist erstmals 1321 urkundlich belegt. Wer stellte diese Urkunde aus?",
+"optionen": [
+"Die Abtei Maria Laach stellte sie aus.",
+"Die Grafen von Sayn stellten sie aus.",
+"Das Koblenzer Stift St. Kastor stellte sie aus.",
+"Das Kloster Arnstein stellte sie aus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer frühen Urkunde denkt man an Landesherren oder ein großes Kloster der Gegend. Tatsächlich stellte sie ein Stift in Koblenz aus: Hardert wird in einer Pachturkunde von St. Kastor genannt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hardert.de/geschichte-chronik.html",
+"faktencheck": "korrigiert",
+"id": "410-hardert/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hardert",
+"steckbrief": "Die Gemeinde mit rund 850 Einwohnern liegt 19 km nördlich von Koblenz.",
+"frage": "Im Wappen von Hardert sind Schwerter zu sehen. Worauf deuten sie hin?",
+"optionen": [
+"Sie erinnern an eine Schlacht beim Dorf.",
+"Sie deuten auf ein Adelsgeschlecht des Ortes.",
+"Sie erinnern an eine berühmte Dorfschmiede.",
+"Sie ehren Soldaten aus den Weltkriegen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Schwerter im Wappen lassen an Kampf denken, an eine Schlacht vor Ort. Gemeint ist aber das Ortsadelsgeschlecht derer von Hartenrode: Ein Siegel Heinrichs von Hartenrode von 1494 zeigt zwei gekreuzte Schwerter. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hardert.de/geschichte-chronik.html; Wikipedia, de.wikipedia.org/wiki/Hardert",
+"faktencheck": "korrigiert",
+"id": "410-hardert/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "409-melsbach",
+"anschluss": [
+"Einwohner: Melsbach hat mehr als doppelt so viele wie Hardert.",
+"Fläche: Hardert hat 3,44 Quadratkilometer, Melsbach nur 2,8."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Hardert zum Landkreis Neuwied.",
+"Vallendar hat elfmal so viele Einwohner wie Hardert."
+],
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Hardert zum Landkreis Neuwied.",
+"Andernach hat rund 35-mal so viele Einwohner wie Hardert."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Hardert zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Hardert die CDU."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Hardert gehört zum Landkreis Neuwied.",
+"Koblenz hat rund 135-mal so viele Einwohner wie Hardert."
+],
+"183-ransbach-baumbach": [
+"Kreisgrenze: Ransbach-Baumbach gehört zum Westerwaldkreis, Hardert zum Landkreis Neuwied.",
+"Ransbach-Baumbach hat fast zehnmal so viele Einwohner wie Hardert."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Hardert zum Landkreis Neuwied.",
+"Höhr-Grenzhausen hat elfmal so viele Einwohner wie Hardert."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Hardert zum Landkreis Neuwied.",
+"Bad Breisig hat gut elfmal so viele Einwohner wie Hardert."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Hardert zum Landkreis Neuwied.",
+"Sinzig hat rund zwanzigmal so viele Einwohner wie Hardert."
+],
+"333-rheinbrohl": [
+"Rheinbrohl hat fünfmal so viele Einwohner wie Hardert.",
+"Hardert liegt rund 220 Meter höher als Rheinbrohl."
+],
+"334-leubsdorf": [
+"Leubsdorf hat fast doppelt so viele Einwohner wie Hardert.",
+"Hardert liegt rund 220 Meter höher als Leubsdorf."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat fast achtmal so viele Einwohner wie Hardert."
+],
+"341-windhagen": [
+"Windhagen hat fast sechsmal so viele Einwohner wie Hardert."
+],
+"342-vettelschoss": [
+"Vettelschoß hat fast viereinhalbmal so viele Einwohner wie Hardert."
+],
+"343-asbach": [
+"Asbach hat neunmal so viele Einwohner wie Hardert."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Hardert zum Landkreis Neuwied.",
+"Niederbieber hat gut fünfmal so viele Einwohner wie Hardert."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Hardert zum Landkreis Neuwied.",
+"Segendorf hat gut doppelt so viele Einwohner wie Hardert."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Hardert die CDU.",
+"Hardert hat dreimal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Niederbreitbach hat fast doppelt so viele Einwohner wie Hardert.",
+"Hardert liegt rund 180 Meter höher als Niederbreitbach."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Hardert zum Landkreis Neuwied.",
+"Oberbieber hat fast sechsmal so viele Einwohner wie Hardert."
+],
+"409-melsbach": [
+"Einwohner: Melsbach hat mehr als doppelt so viele wie Hardert.",
+"Fläche: Hardert hat 3,44 Quadratkilometer, Melsbach nur 2,8."
+],
+"411-ehlscheid": [
+"Ehlscheid hat fast doppelt so viele Einwohner wie Hardert."
+],
+"412-kurtscheid": [
+"Kurtscheid hat rund 200 Einwohner mehr als Hardert."
+],
+"413-rossbach-wied": [
+"Roßbach hat gut anderthalbmal so viele Einwohner wie Hardert.",
+"Hardert liegt rund 180 Meter höher als Roßbach."
+],
+"414-hausen-wied": [
+"Hausen (Wied) hat gut doppelt so viele Einwohner wie Hardert.",
+"Hardert liegt rund 170 Meter höher als Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Breitscheid hat gut zweieinhalbmal so viele Einwohner wie Hardert."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Hardert zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Hardert zum Landkreis Neuwied."
+]
+},
+"ags": "07138026",
+"ortsteil": false,
+"km_vom_vorigen": 4.2
+},
+{
+"slug": "411-ehlscheid",
+"name": "Ehlscheid",
+"lat": 50.51611,
+"lon": 7.46806,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ehlscheid",
+"steckbrief": "Gemeinde im Landkreis Neuwied, gut 6 Quadratkilometer groß, 20 km nordwestlich von Koblenz.",
+"frage": "Wie viele Einwohner hat Ehlscheid?",
+"optionen": [
+"unter 2.000",
+"2.000 bis unter 3.500",
+"3.500 bis unter 5.000",
+"5.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Koblenz lässt an eine größere Wohngemeinde denken. Tatsächlich zählt Ehlscheid 1.544 Einwohner, Stand Ende 2025. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "411-ehlscheid/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ehlscheid",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 20 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ursprünglich lebte Ehlscheid von Land- und Forstwirtschaft.",
+"Nach dem Zweiten Weltkrieg wurde Ehlscheid Fremdenverkehrsort.",
+"Sommerfrischler kamen erst nach dem Zweiten Weltkrieg."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Weil Ehlscheid erst nach dem Krieg zum Fremdenverkehrsort wurde, wirkt die Lüge glaubhaft. Doch schon das Wort Sommerfrischler klingt nach Kaiserzeit: Sommerfrischler kamen laut Ortsgeschichte bereits 1905. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.ehlscheid.de/unsere-geschichte",
+"faktencheck": "bestätigt",
+"id": "411-ehlscheid/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ehlscheid",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern im Landkreis Neuwied, 20 km nordwestlich von Koblenz.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Ehlscheid?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land erwartet man oft eine übermächtige CDU. In Ehlscheid lag sie zwar vorn, aber mit 32,9 Prozent unter einem Drittel. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "411-ehlscheid/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ehlscheid",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern im Landkreis Neuwied, 20 km nordwestlich von Koblenz.",
+"frage": "Wie weit ist Ehlscheid in Luftlinie von der Landeshauptstadt Mainz entfernt?",
+"optionen": [
+"unter 100 km",
+"100 bis unter 130 km",
+"130 bis unter 160 km",
+"160 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Fahrt über Koblenz und das Rheintal denkt, schätzt leicht zu hoch. In Luftlinie trennen Ehlscheid und Mainz nur 83 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "411-ehlscheid/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ehlscheid",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern im Landkreis Neuwied, 20 km nordwestlich von Koblenz.",
+"frage": "Im Ehlscheider Wappen stehen eine Ähre und zwei Eichenblätter. Was ist darunter abgebildet?",
+"optionen": [
+"Darunter steht ein Mühlrad am Bach.",
+"Darunter steht ein Westerwälder Fachwerkhaus.",
+"Darunter steht ein überdachter Ziehbrunnen.",
+"Darunter steht eine kleine Dorfkirche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Fachwerkhaus läge nahe, es ist in der Gegend ein typisches Motiv. Im Wappen steht aber unten in der Spitze ein überdachter goldener Ziehbrunnen. Darüber stehen die goldene Ähre und zu beiden Seiten je ein silbernes Eichenblatt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ehlscheid (Vermerk: Blasonierung ohne zweiten Beleg)",
+"faktencheck": "korrigiert",
+"id": "411-ehlscheid/v0.8/8",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ehlscheid",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 20 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ehlscheid war über Jahrhunderte katholisch geprägt.",
+"Ehlscheid stand früher unter der Herrschaft von Wied.",
+"Nach dem Zweiten Weltkrieg zogen Katholiken zu."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rund um Koblenz denkt man zuerst an katholische Dörfer. Ehlscheid gehörte aber zu Wied, und dort hatten die Grafen die Reformation eingeführt. So blieb das Dorf bis ins 20. Jahrhundert evangelisch. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ehlscheid",
+"faktencheck": "korrigiert",
+"id": "411-ehlscheid/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "410-hardert",
+"anschluss": [
+"Fläche: Ehlscheid ist fast doppelt so groß wie Hardert.",
+"Bundestagswahl 2025: In Ehlscheid wählten 86,7 Prozent, in Hardert 84,7."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Ehlscheid zum Landkreis Neuwied.",
+"Vallendar hat sechsmal so viele Einwohner wie Ehlscheid."
+],
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Ehlscheid zum Landkreis Neuwied.",
+"Andernach hat neunzehnmal so viele Einwohner wie Ehlscheid."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Ehlscheid zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Ehlscheid die CDU."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Ehlscheid gehört zum Landkreis Neuwied.",
+"Koblenz hat rund 75-mal so viele Einwohner wie Ehlscheid."
+],
+"183-ransbach-baumbach": [
+"Kreisgrenze: Ransbach-Baumbach gehört zum Westerwaldkreis, Ehlscheid zum Landkreis Neuwied.",
+"Ransbach-Baumbach hat gut fünfmal so viele Einwohner wie Ehlscheid."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Ehlscheid zum Landkreis Neuwied.",
+"Höhr-Grenzhausen hat sechsmal so viele Einwohner wie Ehlscheid."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Ehlscheid zum Landkreis Neuwied.",
+"Bad Breisig hat gut sechsmal so viele Einwohner wie Ehlscheid."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Ehlscheid zum Landkreis Neuwied.",
+"Sinzig hat elfmal so viele Einwohner wie Ehlscheid."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Ehlscheid zum Landkreis Neuwied.",
+"Remagen hat gut elfmal so viele Einwohner wie Ehlscheid."
+],
+"333-rheinbrohl": [
+"Rheinbrohl hat gut zweieinhalbmal so viele Einwohner wie Ehlscheid.",
+"Ehlscheid liegt rund 270 Meter höher als Rheinbrohl."
+],
+"334-leubsdorf": [
+"Leubsdorf und Ehlscheid sind fast gleich groß: rund 1.600 und 1.500 Einwohner.",
+"Ehlscheid liegt rund 280 Meter höher als Leubsdorf."
+],
+"336-erpel": [
+"Erpel hat gut anderthalbmal so viele Einwohner wie Ehlscheid.",
+"Ehlscheid liegt rund 290 Meter höher als Erpel."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat gut viermal so viele Einwohner wie Ehlscheid.",
+"Ehlscheid liegt rund 180 Meter höher als Neustadt (Wied)."
+],
+"341-windhagen": [
+"Windhagen hat dreimal so viele Einwohner wie Ehlscheid."
+],
+"342-vettelschoss": [
+"Vettelschoß hat fast zweieinhalbmal so viele Einwohner wie Ehlscheid."
+],
+"343-asbach": [
+"Asbach hat fünfmal so viele Einwohner wie Ehlscheid."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Ehlscheid zum Landkreis Neuwied.",
+"Niederbieber hat dreimal so viele Einwohner wie Ehlscheid."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Ehlscheid zum Landkreis Neuwied.",
+"Segendorf hat rund 300 Einwohner mehr als Ehlscheid."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Ehlscheid die CDU.",
+"Ehlscheid hat gut fünfmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Niederbreitbach und Ehlscheid sind fast gleich groß: rund 1.500 und 1.500 Einwohner.",
+"Ehlscheid liegt rund 230 Meter höher als Niederbreitbach."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Ehlscheid zum Landkreis Neuwied.",
+"Oberbieber hat gut dreimal so viele Einwohner wie Ehlscheid."
+],
+"409-melsbach": [
+"Melsbach hat rund 400 Einwohner mehr als Ehlscheid.",
+"Ehlscheid liegt rund 180 Meter höher als Melsbach."
+],
+"410-hardert": [
+"Fläche: Ehlscheid ist fast doppelt so groß wie Hardert.",
+"Bundestagswahl 2025: In Ehlscheid wählten 86,7 Prozent, in Hardert 84,7."
+],
+"412-kurtscheid": [
+"Ehlscheid hat anderthalbmal so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Roßbach und Ehlscheid sind fast gleich groß: rund 1.500 und 1.500 Einwohner.",
+"Ehlscheid liegt rund 230 Meter höher als Roßbach."
+],
+"414-hausen-wied": [
+"Hausen (Wied) hat rund 300 Einwohner mehr als Ehlscheid.",
+"Ehlscheid liegt rund 220 Meter höher als Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Breitscheid hat anderthalbmal so viele Einwohner wie Ehlscheid."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Ehlscheid zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Ehlscheid zum Landkreis Neuwied."
+]
+},
+"ags": "07138015",
+"ortsteil": false,
+"km_vom_vorigen": 3.5
+},
+{
+"slug": "412-kurtscheid",
+"name": "Kurtscheid",
+"lat": 50.53667,
+"lon": 7.46583,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kurtscheid",
+"steckbrief": "Gemeinde mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
+"frage": "1556 trat der Graf zu Wied zum evangelischen Glauben über. Was taten Kurtscheider, die katholisch bleiben wollten?",
+"optionen": [
+"Sie bauten sofort eine eigene Kirche.",
+"Sie kauften dem Grafen das Dorf ab.",
+"Sie verlegten Häuser auf benachbartes katholisches Gebiet.",
+"Sie traten nur zum Schein evangelisch über."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein Scheinübertritt, denn damals bestimmte der Landesherr die Konfession. Die Kurtscheider rissen aber ihre elf Häuser auf wiedischem Gebiet ab und bauten sie etwas weiter nördlich auf kurkölnischem Gebiet wieder auf. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kurtscheid.de/geschichte_zeitreise.html“ In der Fakt-Datei 412-kurtscheid/003 ist 1556 auf 1546 zu ändern.",
+"faktencheck": "korrigiert",
+"id": "412-kurtscheid/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kurtscheid",
+"steckbrief": "Dorf mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
+"frage": "Aus welchem Zeitraum stammt die erste gesicherte urkundliche Erwähnung von Kurtscheid?",
+"optionen": [
+"vor 1300",
+"1300 bis vor 1400",
+"1400 bis vor 1450",
+"1450 bis vor 1500"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein früher Tipp liegt nahe, denn viele Dörfer sind älter als ihre erste Urkunde. Gesichert belegt ist Kurtscheid aber erst 1457, als „Kurtschyt“. Eine Nennung von 1314 gilt als ungesichert. Bestanden haben kann der Ort schon vorher. Richtig war 4.",
+"quelle": "Wikidata P1249; Namensform und ungesicherte Nennung: Wikipedia, de.wikipedia.org/wiki/Kurtscheid",
+"faktencheck": "unsicher",
+"id": "412-kurtscheid/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kurtscheid",
+"steckbrief": "Gemeinde mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kurtscheids erste eigene Kirche stammt aus dem Mittelalter.",
+"Eine Glocke ist dem heiligen Franziskus Xaverius geweiht.",
+"Eine Kurtscheider Kirche wurde an einem Pfingstmontag geweiht."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein altes Dorf, eine alte Kirche – das liegt nahe. Doch eine eigene Kirche bekam Kurtscheid erst 1842; vorher gab es nur eine Kapelle. Die Glocke ehrt Franziskus Xaverius, den Schutzpatron der ersten Kurtscheider Kapelle. Am Pfingstmontag geweiht wurde eine spätere, neue Kirche. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.kurtscheid.de/kirchengemeinde-katholisch.html",
+"faktencheck": "korrigiert",
+"id": "412-kurtscheid/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kurtscheid",
+"steckbrief": "Dorf mit rund 1.000 Einwohnern im ländlichen Raum, 22 km nördlich von Koblenz.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Kurtscheid nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt als alte Volkspartei nahe. In Kurtscheid kam bei der Bundestagswahl 2025 aber die AfD mit 19,5 Prozent der Zweitstimmen auf Platz zwei, hinter der CDU mit 38,6 Prozent. Die SPD folgte mit 12,2 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "412-kurtscheid/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„Kurtscheid",
+"steckbrief": "Westerwalddorf mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
+"frage": "Eine Glocke der katholischen Kirche in Kurtscheid ist dem heiligen Kastor geweiht. Aus wessen Spende wurde sie angeschafft?",
+"optionen": [
+"Aus einer Spende von Kaiser Wilhelm I.",
+"Aus einer Spende von Kaiserin Augusta.",
+"Aus einer Spende von Papst Pius XI.",
+"Aus einer Spende von Otto von Bismarck.“"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Landesherr als Stifter liegt nahe, denn Fürsten beschenkten oft die Kirchen ihrer Dörfer. Diese Glocke wurde aber aus einer Spende von ganz oben angeschafft: von Papst Pius XI. Nach ihrem Ton heißt sie Fis-Glocke; geweiht ist sie dem heiligen Kastor. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kurtscheid.de/kirchengemeinde-katholisch.html“ In den Negativnachweisen ist für die Optionen 1, 2 und 4 jeweils das Todesjahr vor 1922 anzugeben.",
+"faktencheck": "korrigiert",
+"id": "412-kurtscheid/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kurtscheid",
+"steckbrief": "Dorf mit rund 1.000 Einwohnern auf der Höhe, 22 km nördlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Kurtscheid rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 80",
+"80 bis unter 130",
+"130 bis unter 180",
+"180 bis unter 230"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf mit rund tausend Einwohnern klingt nach viel Platz und dünner Besiedlung. Doch die Fläche der Gemeinde ist klein: Auf 5,1 Quadratkilometern leben 1.007 Menschen, rechnerisch 197 je Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Wikidata P1082 (Einwohner, Stand 2025-12-31) und Wikidata P2046 (Fläche)",
+"faktencheck": "bestätigt",
+"id": "412-kurtscheid/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kurtscheid",
+"steckbrief": "Gemeinde mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
+"frage": "Das Wappen von Kurtscheid zeigt unten ein silbernes Zahnrad. Wofür steht es?",
+"optionen": [
+"Es steht für frühere Erzgruben und heutige Industrie.",
+"Es erinnert an eine alte Getreidemühle im Ort.",
+"Es erinnert an eine frühere Uhrmacherwerkstatt.",
+"Es erinnert an den Bau einer Bahnstrecke."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Zahnrad im Dorfwappen deutet man leicht als Mühlrad, denn Mühlen gehörten zu fast jedem Dorf. Gemeint sind aber die früheren Silber- und Eisenerzgruben und die Industrie, die es heute in der Gemeinde gibt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kurtscheid",
+"faktencheck": "unsicher",
+"id": "412-kurtscheid/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kurtscheid",
+"steckbrief": "Gemeinde mit rund 1.000 Einwohnern, 22 km nördlich von Koblenz.",
+"frage": "Die Kurtscheider Kirche von 1923 diente nur bis 1957 für Gottesdienste. Was geschah dann mit ihr?",
+"optionen": [
+"Sie wurde zu einem Gemeindesaal umgebaut.",
+"Sie wurde abgerissen und durch einen Neubau ersetzt.",
+"Sie wurde der evangelischen Gemeinde überlassen.",
+"Sie wurde zu Wohnungen umgebaut."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Kirche, die erst wenige Jahrzehnte steht, baut man eher um, als sie aufzugeben – so geht man heute oft mit Kirchen um. Kurtscheid riss sie aber ab und ersetzte sie durch einen Neubau. Die Gemeinde-Webseite nennt das rückblickend vielleicht einen Fehler. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kurtscheid.de/kirchengemeinde-katholisch.html",
+"faktencheck": "bestätigt",
+"id": "412-kurtscheid/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "411-ehlscheid",
+"anschluss": [
+"Katholiken aus Ehlscheid gehörten ab 1842 zur Pfarrvikarie Kurtscheid.",
+"Mehrere Jahrhunderte lang verlief zwischen Kurtscheid und Ehlscheid eine Konfessionsgrenze."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Kurtscheid zum Landkreis Neuwied.",
+"Vallendar hat neunmal so viele Einwohner wie Kurtscheid."
+],
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Kurtscheid zum Landkreis Neuwied.",
+"Andernach hat rund 30-mal so viele Einwohner wie Kurtscheid."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Kurtscheid zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Kurtscheid die CDU."
+],
+"183-ransbach-baumbach": [
+"Kreisgrenze: Ransbach-Baumbach gehört zum Westerwaldkreis, Kurtscheid zum Landkreis Neuwied.",
+"Ransbach-Baumbach hat achtmal so viele Einwohner wie Kurtscheid."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Kurtscheid zum Landkreis Neuwied.",
+"Höhr-Grenzhausen hat gut neunmal so viele Einwohner wie Kurtscheid."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Kurtscheid zum Landkreis Neuwied.",
+"Bad Breisig hat fast zehnmal so viele Einwohner wie Kurtscheid."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Kurtscheid zum Landkreis Neuwied.",
+"Sinzig hat siebzehnmal so viele Einwohner wie Kurtscheid."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Kurtscheid zum Landkreis Neuwied.",
+"Remagen hat siebzehnmal so viele Einwohner wie Kurtscheid."
+],
+"333-rheinbrohl": [
+"Rheinbrohl hat gut viermal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 300 Meter höher als Rheinbrohl."
+],
+"334-leubsdorf": [
+"Leubsdorf hat gut anderthalbmal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 310 Meter höher als Leubsdorf."
+],
+"335-unkel": [
+"Unkel hat fünfmal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 330 Meter höher als Unkel."
+],
+"336-erpel": [
+"Erpel hat zweieinhalbmal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 330 Meter höher als Erpel."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat fast siebenmal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 210 Meter höher als Neustadt (Wied)."
+],
+"341-windhagen": [
+"Windhagen hat viereinhalbmal so viele Einwohner wie Kurtscheid."
+],
+"342-vettelschoss": [
+"Vettelschoß hat gut dreieinhalbmal so viele Einwohner wie Kurtscheid."
+],
+"343-asbach": [
+"Asbach hat achtmal so viele Einwohner wie Kurtscheid."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Kurtscheid zum Landkreis Neuwied.",
+"Niederbieber hat viereinhalbmal so viele Einwohner wie Kurtscheid."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Kurtscheid zum Landkreis Neuwied.",
+"Segendorf hat fast doppelt so viele Einwohner wie Kurtscheid."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Kurtscheid die CDU.",
+"Kurtscheid hat dreieinhalbmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Niederbreitbach hat anderthalbmal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 270 Meter höher als Niederbreitbach."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Kurtscheid zum Landkreis Neuwied.",
+"Oberbieber hat fast fünfmal so viele Einwohner wie Kurtscheid."
+],
+"409-melsbach": [
+"Melsbach hat fast doppelt so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 220 Meter höher als Melsbach."
+],
+"410-hardert": [
+"Kurtscheid hat rund 200 Einwohner mehr als Hardert."
+],
+"411-ehlscheid": [
+"Katholiken aus Ehlscheid gehörten ab 1842 zur Pfarrvikarie Kurtscheid.",
+"Mehrere Jahrhunderte lang verlief zwischen Kurtscheid und Ehlscheid eine Konfessionsgrenze."
+],
+"413-rossbach-wied": [
+"Roßbach hat fast anderthalbmal so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 270 Meter höher als Roßbach."
+],
+"414-hausen-wied": [
+"Hausen (Wied) hat fast doppelt so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 260 Meter höher als Hausen (Wied)."
+],
+"415-breitscheid-westerwald": [
+"Breitscheid hat gut doppelt so viele Einwohner wie Kurtscheid."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Kurtscheid zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Kurtscheid zum Landkreis Neuwied."
+]
+},
+"ags": "07138036",
+"ortsteil": false,
+"km_vom_vorigen": 2.3
+},
+{
+"slug": "413-rossbach-wied",
+"name": "Roßbach",
+"lat": 50.575,
+"lon": 7.41611,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
+"frage": "Die Ortsgeschichte nennt einen klaren Ursprung des Dorfs. Woraus ist Roßbach entstanden?",
+"optionen": [
+"Roßbach entstand aus einer Siedlung von Pferdezüchtern.",
+"Roßbach entstand aus dem Hof eines Ritterordens.",
+"Roßbach entstand aus einer Siedlung von Basaltarbeitern.",
+"Roßbach entstand aus einer Zollstation an der Wied."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Ross im Ortsnamen lässt an Pferdezüchter denken. Die Ortsgeschichte führt Roßbach aber auf einen Hof der Waldbreitbacher Deutschherren zurück; so hießen die Ritter eines geistlichen Ordens. Später nennt die Ortsgeschichte weitere Höfe, etwa Buchenau und Spreitchen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/geschichte/",
+"faktencheck": "bestätigt",
+"id": "413-rossbach-wied/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Roßbach",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
+"frage": "Wie groß ist das Gemeindegebiet von Roßbach?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 5 km²",
+"5 bis unter 10 km²",
+"10 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf dieser Größe stellt man sich auf engem Raum vor. Doch zur Gemeinde gehören neben dem Hauptort auch Ortsteile wie Reifert und Schimmelshahn. Das Gemeindegebiet misst 6,4 km². Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "413-rossbach-wied/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bomben beschädigten im Krieg die Kirche Sankt Michael.",
+"Das Roßbe Platt zählt zu den niederdeutschen Mundarten.",
+"Oberbuchenau war einst ein Hof mit eigener Stromversorgung."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Platt klingt nach Norddeutschland, wo die Mundart oft so heißt. Das Roßbacher Platt liegt aber zwischen Ripuarisch und Moselfränkisch, ist also mitteldeutsch. Wahr sind die Bombenschäden an Sankt Michael im Zweiten Weltkrieg und der stattliche Hof mit eigener Stromversorgung, aus dem Oberbuchenau hervorging. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/os-sproch/ und www.rossbach-wied.de/unser-dorf/",
+"faktencheck": "korrigiert",
+"id": "413-rossbach-wied/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Roßbach",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
+"frage": "Wie hoch war in Roßbach die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"85 % oder mehr",
+"80 bis unter 85 %",
+"75 bis unter 80 %",
+"unter 75 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit lag die Beteiligung niedriger, darum wirkt eine mittlere Spanne naheliegend. In Roßbach gaben aber 86,3 % der Wahlberechtigten ihre Stimme ab. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "413-rossbach-wied/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
+"frage": "Aus dem Aussiedlerhof Lache machte ein phantasiereicher Bürger etwas ganz Neues. Was?",
+"optionen": [
+"Er legte dort einen Golfplatz an.",
+"Er schuf dort ein Ferienhausgebiet mit See.",
+"Er baute dort eine Motocross-Strecke.",
+"Er gründete dort einen Reiterhof."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Charly Reuschenbach machte aus dem einstigen Aussiedlerhof, einem aus dem Dorf verlegten Bauernhof, ein Ferienhausgebiet mit See und Gaststätte. Dass dort heute noch viele Pferde stehen, erinnert an den alten Hof. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/ortsteile/",
+"faktencheck": "korrigiert",
+"id": "413-rossbach-wied/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Roßbach",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
+"frage": "Wie viele Einwohner kommen in Roßbach rechnerisch auf einen Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 300",
+"300 oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf mit mehreren kleinen Ortsteilen wirkt locker besiedelt. Doch rechnerisch kommen 228 Einwohner auf jeden Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "413-rossbach-wied/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
+"frage": "Wie viele Gästeübernachtungen verzeichnete Roßbach im Jahr 1971?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 20.000",
+"20.000 bis unter 50.000",
+"50.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für ein Dorf dieser Größe wirkt eine fünfstellige Zahl hoch, deshalb liegen die kleinen Spannen nahe. Doch die Ortsgeschichte verzeichnet für jenes Jahr 66.883 Gästeübernachtungen. Kurz zuvor war eine neue Campinganlage entstanden. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/geschichte/",
+"faktencheck": "bestätigt",
+"id": "413-rossbach-wied/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Roßbach",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
+"frage": "Das Gemeindewappen von Roßbach zeigt neben einem Ross ein Kreuz. Wofür steht das Kreuz?",
+"optionen": [
+"Es erinnert an die lange Zugehörigkeit zu Kurköln.",
+"Es steht für die Kirche Sankt Michael.",
+"Es erinnert an die Johanniter.",
+"Es steht für die Schützenbruderschaft St. Hubertus."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Kreuz im Dorfwappen deutet man leicht auf die eigene Kirche. Doch es ist das Kurkölner Kreuz. Es erinnert an den langen kölnischen Einfluss, der vor allem in der Sprache bis heute erkennbar ist. Die Spaltung in der Wappenmitte soll die Wied darstellen, also einen Bach. Zusammen mit dem Ross ergibt das Roßbach: ein redendes Wappen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/geschichte/",
+"faktencheck": "korrigiert",
+"id": "413-rossbach-wied/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "412-kurtscheid",
+"anschluss": [
+"Höhe: Kurtscheid liegt gut 250 Meter höher als Roßbach.",
+"Zufall: Kurtscheid wurde 1457 erstmals erwähnt, Roßbach hat 1457 Einwohner."
+],
+"anschluesse": {
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Roßbach zum Landkreis Neuwied.",
+"Andernach hat rund zwanzigmal so viele Einwohner wie Roßbach."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Roßbach zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Roßbach die CDU."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Roßbach zum Landkreis Neuwied.",
+"Bad Breisig hat fast siebenmal so viele Einwohner wie Roßbach."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Roßbach zum Landkreis Neuwied.",
+"Sinzig hat zwölfmal so viele Einwohner wie Roßbach."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Roßbach zum Landkreis Neuwied.",
+"Remagen hat zwölfmal so viele Einwohner wie Roßbach."
+],
+"333-rheinbrohl": [
+"Rheinbrohl hat fast dreimal so viele Einwohner wie Roßbach."
+],
+"334-leubsdorf": [
+"Leubsdorf hat rund 200 Einwohner mehr als Roßbach."
+],
+"335-unkel": [
+"Unkel hat dreieinhalbmal so viele Einwohner wie Roßbach."
+],
+"336-erpel": [
+"Erpel hat gut anderthalbmal so viele Einwohner wie Roßbach."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Roßbach in Rheinland-Pfalz.",
+"Bad Honnef hat siebzehnmal so viele Einwohner wie Roßbach."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat viereinhalbmal so viele Einwohner wie Roßbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Neustadt (Wied) die AfD, in Roßbach die SPD."
+],
+"341-windhagen": [
+"Windhagen hat gut dreimal so viele Einwohner wie Roßbach.",
+"Windhagen liegt rund 170 Meter höher als Roßbach."
+],
+"342-vettelschoss": [
+"Vettelschoß hat zweieinhalbmal so viele Einwohner wie Roßbach.",
+"Vettelschoß liegt rund 160 Meter höher als Roßbach."
+],
+"343-asbach": [
+"Asbach hat gut fünfmal so viele Einwohner wie Roßbach.",
+"Asbach liegt rund 160 Meter höher als Roßbach."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Roßbach zum Landkreis Neuwied.",
+"Niederbieber hat gut dreimal so viele Einwohner wie Roßbach."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Roßbach zum Landkreis Neuwied.",
+"Segendorf hat rund 400 Einwohner mehr als Roßbach."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Roßbach die CDU.",
+"Roßbach hat fünfmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Niederbreitbach und Roßbach sind fast gleich groß: rund 1.500 und 1.500 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Niederbreitbach die AfD, in Roßbach die SPD."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Roßbach zum Landkreis Neuwied.",
+"Oberbieber hat fast dreieinhalbmal so viele Einwohner wie Roßbach."
+],
+"409-melsbach": [
+"Melsbach hat rund 500 Einwohner mehr als Roßbach.",
+"Roßbach hat fast zweieinhalbmal so viel Fläche wie Melsbach, aber weniger Einwohner."
+],
+"410-hardert": [
+"Roßbach hat gut anderthalbmal so viele Einwohner wie Hardert.",
+"Hardert liegt rund 180 Meter höher als Roßbach."
+],
+"411-ehlscheid": [
+"Ehlscheid und Roßbach sind fast gleich groß: rund 1.500 und 1.500 Einwohner.",
+"Ehlscheid liegt rund 230 Meter höher als Roßbach."
+],
+"412-kurtscheid": [
+"Höhe: Kurtscheid liegt gut 250 Meter höher als Roßbach.",
+"Zufall: Kurtscheid wurde 1457 erstmals erwähnt, Roßbach hat 1457 Einwohner."
+],
+"414-hausen-wied": [
+"Hausen (Wied) hat rund 400 Einwohner mehr als Roßbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hausen (Wied) die AfD, in Roßbach die SPD."
+],
+"415-breitscheid-westerwald": [
+"Breitscheid hat gut anderthalbmal so viele Einwohner wie Roßbach.",
+"Breitscheid liegt rund 200 Meter höher als Roßbach."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Roßbach zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Roßbach zum Landkreis Neuwied.",
+"Wolfenacker liegt rund 150 Meter höher als Roßbach."
+]
+},
+"ags": "07138065",
+"ortsteil": false,
+"km_vom_vorigen": 5.5
+},
+{
+"slug": "414-hausen-wied",
+"name": "Hausen (Wied)",
+"lat": 50.54222,
+"lon": 7.40667,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hausen (Wied)",
+"steckbrief": "Rund 1.800 Einwohner, 24 km nordwestlich von Koblenz.",
+"frage": "Hausen liegt an der Wied. Auf welcher Höhe über dem Meeresspiegel liegt der Ort?",
+"optionen": [
+"unter 100 m",
+"100 bis unter 200 m",
+"200 bis unter 300 m",
+"300 m oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Mittelgebirgshöhen denkt, schätzt leicht zu hoch. Hausen liegt aber an der Wied, auf 128 bis 130 Metern – die Quellen nennen beide Werte. Flüsse suchen sich eben die Täler. Richtig war 2.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "korrigiert",
+"id": "414-hausen-wied/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hausen (Wied)",
+"steckbrief": "Rund 1.800 Einwohner, 24 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schauspielerin Margarita Broich wuchs in Hausen auf.",
+"Musiker Klaus Lage wohnte mehrere Jahre in Hausen.",
+"Sängerin Susanne Betancor wurde in Hausen geboren."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am ehesten ausgedacht wirkt der Musiker Klaus Lage – doch er lebte tatsächlich mehrere Jahre im Hausener Ortsteil Weißfeld. Und Margarita Broich verbrachte in Hausen Kindheit und Jugend. Susanne Betancor wuchs zwar unter anderem in Hausen auf, geboren wurde die Sängerin aber in Neuwied am Rhein. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hausen_(Wied)",
+"faktencheck": "unsicher",
+"id": "414-hausen-wied/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hausen (Wied)",
+"steckbrief": "Rund 1.800 Einwohner, 24 km nordwestlich von Koblenz.",
+"frage": "Welchen Zweitstimmenanteil erreichte die stärkste Partei in Hausen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 26 %",
+"26 bis unter 30 %",
+"30 bis unter 34 %",
+"34 % oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer die Union auf dem Land stark, aber nicht übermächtig sieht, tippt knapp darunter. Doch die CDU lag in Hausen deutlich vorn: 35 Prozent der Zweitstimmen, vor der AfD mit 20,7 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "414-hausen-wied/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hausen (Wied)",
+"steckbrief": "Rund 1.800 Einwohner, 24 km nordwestlich von Koblenz.",
+"frage": "Seit 1971 trägt die Gemeinde den Namen Hausen. Wie hieß sie bis dahin?",
+"optionen": [
+"Sie hieß bis dahin Bremscheid.",
+"Sie hieß bis dahin Wiedhausen.",
+"Sie hieß bis dahin Malberg.",
+"Sie hieß bis dahin Unterhausen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wiedhausen liegt nahe, weil der heutige Name den Fluss schon im Zusatz trägt. Tatsächlich entstand die Gemeinde in ihrer heutigen Form durch Umbenennung der bisherigen Gemeinde Bremscheid. Heute umfasst sie eine ganze Reihe von Dörfern und Weilern. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hausen_(Wied)",
+"faktencheck": "unsicher",
+"id": "414-hausen-wied/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hausen (Wied)",
+"steckbrief": "Rund 1.800 Einwohner, 24 km nordwestlich von Koblenz.",
+"frage": "Zu welchem Landkreis gehört Hausen (Wied)?",
+"optionen": [
+"Landkreis Mayen-Koblenz",
+"Landkreis Neuwied",
+"Westerwaldkreis",
+"Landkreis Altenkirchen"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Koblenz lässt an den Landkreis Mayen-Koblenz denken. Hausen gehört aber zum Landkreis Neuwied; das Hauptkennzeichen dort ist NR. Richtig war 2.",
+"quelle": "dewiki Infobox; Kennzeichen: Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "414-hausen-wied/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Hausen (Wied)",
+"steckbrief": "Rund 1.800 Einwohner, 24 km nordwestlich von Koblenz.",
+"frage": "Wie viele Einwohner zählte man 1815 in Hausen?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 500",
+"500 oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer vom heutigen Ort ausgeht, schätzt leicht zu hoch. 1815 zählte man 311 Einwohner. Danach wuchs die Zahl kräftig; zeitweise lebten sogar mehr Menschen hier als heute. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hausen_(Wied)",
+"faktencheck": "unsicher",
+"id": "414-hausen-wied/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hausen (Wied)",
+"steckbrief": "Rund 1.800 Einwohner, 24 km nordwestlich von Koblenz.",
+"frage": "1964 entstand am Malberg bei Hausen eine Skipiste mit Schlepplift. Als was wurde sie damals bezeichnet?",
+"optionen": [
+"Man nannte sie die höchstgelegene Skipiste des Westerwalds.",
+"Man nannte sie Europas größte Kunstschneepiste.",
+"Man nannte sie Deutschlands erste Piste mit Sessellift.",
+"Man nannte sie Westdeutschlands steilste Skipiste."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein kleiner Skihang im Wiedtal lässt kaum an einen Europarekord denken. Bei ihrer Errichtung 1964 wurde die Anlage am Malberg aber als größte Kunstschneepiste Europas tituliert, ausgestattet mit Schneekanonen und Schlepplift. Rentiert hat sie sich mangels Schnee nicht. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hausen_(Wied)",
+"faktencheck": "korrigiert",
+"id": "414-hausen-wied/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hausen (Wied)",
+"steckbrief": "Rund 1.800 Einwohner, 24 km nordwestlich von Koblenz.",
+"frage": "1862 gründete Peter Wirth, genannt Bruder Jakobus, die Franziskanerbrüder vom Heiligen Kreuz. 1863 entstand in Hausen ihr St. Josefshaus. Welchen Beruf hatte Wirth erlernt?",
+"optionen": [
+"Er war Lehrer.",
+"Er war Pfarrer.",
+"Er war Arzt.",
+"Er war Schuhmacher."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Ordensgründer, so die naheliegende Vermutung, kommt aus Schule, Kanzel oder Studierstube. Peter Wirth aber, 1830 in Niederbreitbach geboren, hatte eine Schusterlehre gemacht. Gründungsort des Ordens war die Kreuzkapelle Waldbreitbach, in Hausen entstand 1863 das St. Josefshaus. Richtig war 4.",
+"quelle": "KuLaDig, kuladig.de/Objektansicht/O-99704-20140814-9",
+"faktencheck": "korrigiert",
+"id": "414-hausen-wied/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "413-rossbach-wied",
+"anschluss": [
+"Einwohner: Hausen hat 1.829, Roßbach 1.457.",
+"Wahlbeteiligung 2025: In Roßbach 86,3, in Hausen 77,8 Prozent."
+],
+"anschluesse": {
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Hausen (Wied) zum Landkreis Neuwied.",
+"Andernach hat sechzehnmal so viele Einwohner wie Hausen (Wied)."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Hausen (Wied) zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Hausen (Wied) die CDU."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Hausen (Wied) zum Landkreis Neuwied.",
+"Bad Breisig hat gut fünfmal so viele Einwohner wie Hausen (Wied)."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Hausen (Wied) zum Landkreis Neuwied.",
+"Sinzig hat gut neunmal so viele Einwohner wie Hausen (Wied)."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Hausen (Wied) zum Landkreis Neuwied.",
+"Remagen hat fast zehnmal so viele Einwohner wie Hausen (Wied)."
+],
+"333-rheinbrohl": [
+"Rheinbrohl hat fast zweieinhalbmal so viele Einwohner wie Hausen (Wied).",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rheinbrohl die SPD, in Hausen (Wied) die AfD."
+],
+"334-leubsdorf": [
+"Hausen (Wied) hat rund 200 Einwohner mehr als Leubsdorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Leubsdorf die SPD, in Hausen (Wied) die AfD."
+],
+"335-unkel": [
+"Unkel hat gut zweieinhalbmal so viele Einwohner wie Hausen (Wied).",
+"Bundestagswahl 2025: Auf Platz zwei kam in Unkel die SPD, in Hausen (Wied) die AfD."
+],
+"336-erpel": [
+"Erpel hat rund 700 Einwohner mehr als Hausen (Wied).",
+"Bundestagswahl 2025: Auf Platz zwei kam in Erpel die SPD, in Hausen (Wied) die AfD."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Hausen (Wied) in Rheinland-Pfalz.",
+"Bad Honnef hat vierzehnmal so viele Einwohner wie Hausen (Wied)."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat dreieinhalbmal so viele Einwohner wie Hausen (Wied)."
+],
+"341-windhagen": [
+"Windhagen hat zweieinhalbmal so viele Einwohner wie Hausen (Wied).",
+"Windhagen liegt rund 160 Meter höher als Hausen (Wied)."
+],
+"342-vettelschoss": [
+"Vettelschoß hat doppelt so viele Einwohner wie Hausen (Wied).",
+"Vettelschoß liegt rund 150 Meter höher als Hausen (Wied)."
+],
+"343-asbach": [
+"Asbach hat fast viereinhalbmal so viele Einwohner wie Hausen (Wied)."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Hausen (Wied) zum Landkreis Neuwied.",
+"Niederbieber hat zweieinhalbmal so viele Einwohner wie Hausen (Wied)."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Hausen (Wied) zum Landkreis Neuwied.",
+"Segendorf und Hausen (Wied) sind fast gleich groß: rund 1.800 und 1.800 Einwohner."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Hausen (Wied) die CDU.",
+"Hausen (Wied) hat gut sechsmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Hausen (Wied) hat rund 300 Einwohner mehr als Niederbreitbach."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Hausen (Wied) zum Landkreis Neuwied.",
+"Oberbieber hat gut zweieinhalbmal so viele Einwohner wie Hausen (Wied)."
+],
+"409-melsbach": [
+"Melsbach und Hausen (Wied) sind fast gleich groß: rund 2.000 und 1.800 Einwohner.",
+"Hausen (Wied) hat fast dreimal so viel Fläche wie Melsbach, aber weniger Einwohner."
+],
+"410-hardert": [
+"Hausen (Wied) hat gut doppelt so viele Einwohner wie Hardert.",
+"Hardert liegt rund 170 Meter höher als Hausen (Wied)."
+],
+"411-ehlscheid": [
+"Hausen (Wied) hat rund 300 Einwohner mehr als Ehlscheid.",
+"Ehlscheid liegt rund 220 Meter höher als Hausen (Wied)."
+],
+"412-kurtscheid": [
+"Hausen (Wied) hat fast doppelt so viele Einwohner wie Kurtscheid.",
+"Kurtscheid liegt rund 260 Meter höher als Hausen (Wied)."
+],
+"413-rossbach-wied": [
+"Einwohner: Hausen hat 1.829, Roßbach 1.457.",
+"Wahlbeteiligung 2025: In Roßbach 86,3, in Hausen 77,8 Prozent."
+],
+"415-breitscheid-westerwald": [
+"Breitscheid hat rund 400 Einwohner mehr als Hausen (Wied).",
+"Breitscheid liegt rund 190 Meter höher als Hausen (Wied)."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Hausen (Wied) zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Hausen (Wied) zum Landkreis Neuwied."
+]
+},
+"ags": "07138007",
+"ortsteil": false,
+"km_vom_vorigen": 3.7
+},
+{
+"slug": "415-breitscheid-westerwald",
+"name": "Breitscheid",
+"lat": 50.58111,
+"lon": 7.44583,
+"karten": [
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Breitscheid",
+"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
+"frage": "Mit welchen zwei Ziffern beginnt die Postleitzahl von Breitscheid?",
+"optionen": [
+"56",
+"57",
+"54",
+"53"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die nahe Großstadt Koblenz legt deren Postleitzahlbereich nahe. Doch Postleitzahlen folgen den Wegen der Post, nicht der Luftlinie zur nächsten Großstadt. Breitscheid hat die Postleitzahl 53547. Richtig war 4.",
+"quelle": "Wikidata P281",
+"faktencheck": "bestätigt",
+"id": "415-breitscheid-westerwald/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Breitscheid",
+"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Breitscheid rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 250",
+"250 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Koblenz lässt an dichte, stadtnahe Besiedlung denken. Doch zwischen Breitscheid und der Großstadt liegt ein gutes Stück Land. Rechnerisch leben in Breitscheid 184 Menschen je Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "415-breitscheid-westerwald/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Klassiker",
+"ort": "Breitscheid",
+"steckbrief": "Breitscheid ist eine Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Breitscheid liegt mehr als 500 Meter hoch.",
+"Die Gemeinde ist gut 12 Quadratkilometer groß.",
+"Die Ortsvorwahl von Breitscheid lautet 02638."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Vorwahl wirkt verdächtig, wenn man an Koblenz denkt, stimmt aber, ebenso die Fläche. Gelogen ist die Höhe: Das Land nördlich von Koblenz steigt zwar an, doch Breitscheid liegt auf gut 320 Metern. Die Lüge war 1.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "415-breitscheid-westerwald/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Breitscheid",
+"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
+"frage": "Welche Partei wurde in Breitscheid bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"CDU",
+"AfD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, weil sie lange als zweite große Volkspartei galt. In Breitscheid landete sie 2025 aber nur auf Platz drei. Vorn lag die CDU mit 35 Prozent, dahinter die AfD mit 23,8 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "415-breitscheid-westerwald/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Breitscheid",
+"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
+"frage": "Zu welchem Landkreis gehört Breitscheid?",
+"optionen": [
+"Mayen-Koblenz",
+"Westerwaldkreis",
+"Altenkirchen (Westerwald)",
+"Neuwied"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Mayen-Koblenz liegt nahe, denn der Kreis trägt die nächste Großstadt im Namen. Breitscheid gehört aber zum Landkreis Neuwied. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "415-breitscheid-westerwald/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Breitscheid",
+"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Breitscheid?",
+"optionen": [
+"NR",
+"KO",
+"MYK",
+"WW"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. KO liegt nahe, weil Koblenz die nächste Großstadt ist. Doch Kennzeichen folgen dem Kreis, nicht der Großstadt in der Nähe. In Breitscheid ist NR das Hauptkennzeichen. Richtig war 1.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "415-breitscheid-westerwald/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Breitscheid",
+"steckbrief": "Gemeinde mit rund 2.300 Einwohnern, 27 km nördlich von Koblenz.",
+"frage": "Wie weit ist es von Breitscheid in Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 100 km",
+"100 bis unter 140 km",
+"140 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an die lange Fahrt den Rhein hinauf denkt, schätzt leicht zu weit. In Luftlinie liegen zwischen Breitscheid und Mainz 89 Kilometer. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "415-breitscheid-westerwald/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "414-hausen-wied",
+"anschluss": [],
+"anschluesse": {
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Breitscheid zum Landkreis Neuwied.",
+"Andernach hat dreizehnmal so viele Einwohner wie Breitscheid."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Breitscheid zum Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Breitscheid die CDU."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Breitscheid zum Landkreis Neuwied.",
+"Bad Breisig hat fast viereinhalbmal so viele Einwohner wie Breitscheid."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Breitscheid zum Landkreis Neuwied.",
+"Sinzig hat fast achtmal so viele Einwohner wie Breitscheid."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Breitscheid zum Landkreis Neuwied.",
+"Remagen hat achtmal so viele Einwohner wie Breitscheid."
+],
+"333-rheinbrohl": [
+"Rheinbrohl hat fast doppelt so viele Einwohner wie Breitscheid.",
+"Breitscheid liegt rund 240 Meter höher als Rheinbrohl."
+],
+"334-leubsdorf": [
+"Breitscheid hat rund 600 Einwohner mehr als Leubsdorf.",
+"Breitscheid liegt rund 240 Meter höher als Leubsdorf."
+],
+"335-unkel": [
+"Unkel hat gut doppelt so viele Einwohner wie Breitscheid.",
+"Breitscheid liegt rund 260 Meter höher als Unkel."
+],
+"336-erpel": [
+"Erpel hat rund 300 Einwohner mehr als Breitscheid.",
+"Breitscheid liegt rund 260 Meter höher als Erpel."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Breitscheid in Rheinland-Pfalz.",
+"Bad Honnef hat elfmal so viele Einwohner wie Breitscheid."
+],
+"340-neustadt-wied": [
+"Neustadt (Wied) hat fast dreimal so viele Einwohner wie Breitscheid."
+],
+"341-windhagen": [
+"Windhagen hat gut doppelt so viele Einwohner wie Breitscheid."
+],
+"342-vettelschoss": [
+"Vettelschoß hat gut anderthalbmal so viele Einwohner wie Breitscheid."
+],
+"343-asbach": [
+"Asbach hat dreieinhalbmal so viele Einwohner wie Breitscheid."
+],
+"404-niederbieber": [
+"Kreisgrenze: Niederbieber gehört zum Landkreis Landkreis Neuwied, Breitscheid zum Landkreis Neuwied.",
+"Niederbieber hat doppelt so viele Einwohner wie Breitscheid."
+],
+"405-segendorf": [
+"Kreisgrenze: Segendorf gehört zum Landkreis Landkreis Neuwied, Breitscheid zum Landkreis Neuwied.",
+"Breitscheid hat rund 400 Einwohner mehr als Segendorf."
+],
+"406-datzeroth": [
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Breitscheid die CDU.",
+"Breitscheid hat fast achtmal so viele Einwohner wie Datzeroth."
+],
+"407-niederbreitbach": [
+"Breitscheid hat anderthalbmal so viele Einwohner wie Niederbreitbach.",
+"Breitscheid liegt rund 200 Meter höher als Niederbreitbach."
+],
+"408-oberbieber": [
+"Kreisgrenze: Oberbieber gehört zum Landkreis Landkreis Neuwied, Breitscheid zum Landkreis Neuwied.",
+"Oberbieber hat gut doppelt so viele Einwohner wie Breitscheid."
+],
+"409-melsbach": [
+"Breitscheid hat rund 300 Einwohner mehr als Melsbach.",
+"Breitscheid liegt rund 150 Meter höher als Melsbach."
+],
+"410-hardert": [
+"Breitscheid hat gut zweieinhalbmal so viele Einwohner wie Hardert."
+],
+"411-ehlscheid": [
+"Breitscheid hat anderthalbmal so viele Einwohner wie Ehlscheid."
+],
+"412-kurtscheid": [
+"Breitscheid hat gut doppelt so viele Einwohner wie Kurtscheid."
+],
+"413-rossbach-wied": [
+"Breitscheid hat gut anderthalbmal so viele Einwohner wie Roßbach.",
+"Breitscheid liegt rund 200 Meter höher als Roßbach."
+],
+"414-hausen-wied": [
+"Breitscheid hat rund 400 Einwohner mehr als Hausen (Wied).",
+"Breitscheid liegt rund 190 Meter höher als Hausen (Wied)."
+],
+"416-kloster-marienhaus": [
+"Kreisgrenze: Kloster Marienhaus gehört zum Landkreis Landkreis Neuwied, Breitscheid zum Landkreis Neuwied."
+],
+"417-wolfenacker": [
+"Kreisgrenze: Wolfenacker gehört zum Landkreis Landkreis Neuwied, Breitscheid zum Landkreis Neuwied."
+]
+},
+"ags": "07138006",
+"ortsteil": false,
+"km_vom_vorigen": 5.1
+},
+{
+"slug": "416-kloster-marienhaus",
+"name": "Kloster Marienhaus",
+"lat": 50.5444,
+"lon": 7.41757,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kloster Marienhaus",
+"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
+"frage": "1903 gründeten die Waldbreitbacher Franziskanerinnen eine GmbH. Welchen Zweck sollte sie erfüllen?",
+"optionen": [
+"Sie sollte Ordensbesitz rasch zu Geld machen.",
+"Sie sollte Gewinne für das Bistum erwirtschaften.",
+"Sie sollte das Vermögen des Ordens binden.",
+"Sie sollte ein Kurhotel für Gäste betreiben."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Firma denkt man zuerst an Gewinn, deshalb liegt das Geldverdienen nahe. Die Schwestern gründeten sie aber, um das Vermögen des Ordens zu binden. Die GmbH betrieb soziale Einrichtungen wie Krankenhäuser, Altenheime und Hospize. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln",
+"faktencheck": "unsicher",
+"id": "416-kloster-marienhaus/v0.8/1",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kloster Marienhaus",
+"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
+"frage": "1857 erwarb Rosa Flesch Land auf dem Kapellenberg, wo heute das Kloster steht. Wie kam sie daran?",
+"optionen": [
+"Ein Adliger schenkte ihr das Grundstück.",
+"Sie erbte es von ihrem Vater.",
+"Sie kaufte einen bereits bebauten Hof.",
+"Sie kaufte felsiges Land zu günstigem Preis."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Schenkung liegt nahe, denn viele Klöster entstanden auf gestiftetem Grund. Rosa Flesch kaufte aber felsiges Land zu günstigem Preis. Darauf entstand zuerst ein einfaches Wohnhaus mit Krankentrakt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, de.wikipedia.org/wiki/Rosa_Flesch",
+"faktencheck": "unsicher",
+"id": "416-kloster-marienhaus/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kloster Marienhaus",
+"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"1863 gründeten drei Frauen die Waldbreitbacher Franziskanerinnen.",
+"1869 bestätigte Papst Pius X. die erste Ordensregel.",
+"1912 erkannte Papst Pius X. den Orden an."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer zwei Aussagen mit demselben Papst sieht, ahnt den Haken: Pius X. erkannte den Orden 1912 an. Die erste Ordensregel bestätigte 1869 dagegen Matthias Eberhard, der Bischof von Trier. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln",
+"faktencheck": "unsicher",
+"id": "416-kloster-marienhaus/v0.8/3",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kloster Marienhaus",
+"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Rosa Flesch wurde im Trierer Dom seliggesprochen.",
+"Der Vater von Rosa Flesch war Ölmüller.",
+"Rosa Flesch wurde auf den Namen Rosa getauft."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Ölmüller klingt am ungewöhnlichsten, stimmt aber. Getauft wurde sie als Margaretha Flesch; Maria Rosa war ihr Ordensname, den sie 1863 bei ihrer Einkleidung annahm. Seliggesprochen wurde sie im Trierer Dom. Die Lüge war 3.",
+"quelle": "Waldbreitbacher Franziskanerinnen (Biografie Mutter M. Rosa), trierer-dom.de, deutsche-biographie.de",
+"faktencheck": "korrigiert",
+"id": "416-kloster-marienhaus/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kloster Marienhaus",
+"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
+"frage": "Wer ließ das Kloster Marienhaus in seiner heutigen Gestalt bauen?",
+"optionen": [
+"Bischof Matthias Eberhard von Trier ließ es bauen.",
+"Die Gründerin Rosa Flesch ließ es so bauen.",
+"Generaloberin Agatha Simons ließ es so bauen.",
+"Mitgründerin Maria Bonner ließ es so bauen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Gründerin liegt nahe, denn Rosa Flesch hatte den Orden gegründet. Die heutige Gestalt gab dem Kloster aber ihre Nachfolgerin als Generaloberin, also Leiterin des Ordens, Agatha Simons. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, de.wikipedia.org/wiki/Franziskanerinnen_von_der_allerseligsten_Jungfrau_Maria_von_den_Engeln",
+"faktencheck": "unsicher",
+"id": "416-kloster-marienhaus/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kloster Marienhaus",
+"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
+"frage": "Wie weit ist Kloster Marienhaus in Luftlinie von der Landeshauptstadt Mainz entfernt?",
+"optionen": [
+"unter 50 km",
+"50 bis unter 65 km",
+"65 bis unter 80 km",
+"80 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Koblenz liegt nah, also schätzt man auch Mainz nah; doch Mainz liegt weit rheinaufwärts. Von Kloster Marienhaus sind es 88 km Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "416-kloster-marienhaus/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kloster Marienhaus",
+"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
+"frage": "Von 1851 bis 1860 lebte Rosa Flesch an der Kreuzkapelle bei Waldbreitbach. Wie wohnte sie dort?",
+"optionen": [
+"Sie wohnte in einer Eremitenwohnung an der Kapelle.",
+"Sie wohnte als Magd im Pfarrhaus.",
+"Sie wohnte als Pächterin auf einem Bauernhof.",
+"Sie wohnte als Gast in einem Gasthof."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Pfarrhaus liegt nahe, weil fromme Frauen oft dem Pfarrer den Haushalt führten. Rosa Flesch lebte aber mit ihrer kranken Schwester Marianne in einer Eremitenwohnung, also einer Einsiedlerklause, an der Kapelle. Richtig war 1.",
+"quelle": "Waldbreitbacher Franziskanerinnen (Biografie Mutter M. Rosa), vatican.va, kuladig.de",
+"faktencheck": "korrigiert",
+"id": "416-kloster-marienhaus/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kloster Marienhaus",
+"steckbrief": "Ortsteil von Waldbreitbach im Landkreis Neuwied, 24 km nordwestlich von Koblenz.",
+"frage": "Pfarrer Jakob Gomm war Rosa Flesch eng verbunden. Wie stand er zu ihrer Ordensgründung?",
+"optionen": [
+"Er verbot ihr die Gründung ausdrücklich.",
+"Er genehmigte sie, aber nur zögerlich.",
+"Er drängte sie selbst zur Gründung.",
+"Er stimmte sofort und begeistert zu."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem engen Vertrauten erwartet man Begeisterung. Jakob Gomm, der Pfarrer von Waldbreitbach, genehmigte die Gründung aber nur zögerlich. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, de.wikipedia.org/wiki/Rosa_Flesch",
+"faktencheck": "unsicher",
+"id": "416-kloster-marienhaus/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "415-breitscheid-westerwald",
+"anschluss": [
+"Kloster Marienhaus und Breitscheid liegen beide im Landkreis Neuwied.",
+"Kloster Marienhaus liegt drei Kilometer näher an Koblenz als Breitscheid."
+],
+"anschluesse": {
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"333-rheinbrohl": [
+"Kreisgrenze: Rheinbrohl gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"334-leubsdorf": [
+"Kreisgrenze: Leubsdorf gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"335-unkel": [
+"Kreisgrenze: Unkel gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"336-erpel": [
+"Kreisgrenze: Erpel gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"337-bad-honnef": [
+"Landesgrenze: Bad Honnef liegt in Nordrhein-Westfalen, Kloster Marienhaus in Rheinland-Pfalz."
+],
+"340-neustadt-wied": [
+"Kreisgrenze: Neustadt (Wied) gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"341-windhagen": [
+"Kreisgrenze: Windhagen gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"342-vettelschoss": [
+"Kreisgrenze: Vettelschoß gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"343-asbach": [
+"Kreisgrenze: Asbach gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"407-niederbreitbach": [
+"Kreisgrenze: Niederbreitbach gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"413-rossbach-wied": [
+"Kreisgrenze: Roßbach gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"414-hausen-wied": [
+"Kreisgrenze: Hausen (Wied) gehört zum Landkreis Neuwied, Kloster Marienhaus zum Landkreis Landkreis Neuwied."
+],
+"415-breitscheid-westerwald": [
+"Kloster Marienhaus und Breitscheid liegen beide im Landkreis Neuwied.",
+"Kloster Marienhaus liegt drei Kilometer näher an Koblenz als Breitscheid."
+]
+},
+"ags": null,
+"ortsteil": true,
+"km_vom_vorigen": 4.5
+},
+{
+"slug": "417-wolfenacker",
+"name": "Wolfenacker",
+"lat": 50.52326,
+"lon": 7.43808,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wolfenacker",
+"steckbrief": "Ortsteil von Niederbreitbach, rund 170 Einwohner (2008), 21 km nordwestlich von Koblenz.",
+"frage": "Wolfenacker ist erstmals 1583 urkundlich belegt. In welcher Form taucht der Name dort auf?",
+"optionen": [
+"Er steht als Burgname in einer Lehnsurkunde.",
+"Er steht als Flurname in einem Güterverzeichnis.",
+"Er steht als Dorfname in einer Steuerliste.",
+"Er steht als Pfarrei in einem Kirchenbuch."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Dorf, und Orte tauchen in alten Urkunden meist als Wohnplatz auf. Der erste Beleg von 1583 nennt Wolfenacker aber als Flurnamen, also als Namen eines Stücks Land, im Güterverzeichnis des Rheindorfer Hofs in Niederbreitbach. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wolfenacker",
+"faktencheck": "unsicher",
+"id": "417-wolfenacker/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wolfenacker",
+"steckbrief": "Ortsteil von Niederbreitbach im Niederwesterwald, rund 170 Einwohner (2008), 21 km nordwestlich von Koblenz.",
+"frage": "Wie hoch über dem Meeresspiegel liegt Wolfenacker?",
+"optionen": [
+"unter 150 m",
+"150 bis unter 250 m",
+"250 bis unter 350 m",
+"350 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Westerwald klingt nach Mittelgebirge, also schätzt man leicht höher. Wolfenacker liegt aber im Niederwesterwald, rund 270 Meter über dem Meeresspiegel. Richtig war 3.",
+"quelle": "Wikidata P2044; Altbestand geo.sqlite (GeoNames 2806918)",
+"faktencheck": "bestätigt",
+"id": "417-wolfenacker/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wolfenacker",
+"steckbrief": "Ortsteil von Niederbreitbach im Niederwesterwald, rund 170 Einwohner (2008), 21 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Früher standen in Wolfenacker strohgedeckte Hütten.",
+"Ein Architekt aus Kurtscheid entwarf die Albertuskapelle.",
+"Wolfenacker liegt unten im Tal an der Wied."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf, das man mit der Wied verbindet, vermutet man unten am Fluss. Wolfenacker aber liegt auf einem Höhenrücken der Sayn-Wied-Hochflächen, oberhalb der Wied. Die Hütten und der junge Architekt aus Kurtscheid stimmen. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wolfenacker",
+"faktencheck": "unsicher",
+"id": "417-wolfenacker/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wolfenacker",
+"steckbrief": "Ortsteil von Niederbreitbach, rund 170 Einwohner (2008), 21 km nordwestlich von Koblenz.",
+"frage": "Bundestagswahl 2025, gezählt für die ganze Gemeinde Niederbreitbach: Wie viel Prozent der Zweitstimmen holte die stärkste Partei?",
+"optionen": [
+"unter 37 %",
+"37 bis unter 43 %",
+"43 bis unter 49 %",
+"49 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land erwartet man oft eine übermächtige CDU. Stärkste Partei wurde sie in der Gemeinde Niederbreitbach auch, aber mit 35,2 Prozent der Zweitstimmen; dahinter folgten AfD und SPD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "417-wolfenacker/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wolfenacker",
+"steckbrief": "Ortsteil von Niederbreitbach, rund 170 Einwohner (2008), 21 km nordwestlich von Koblenz.",
+"frage": "Der bekannte Maler Karl Otto Götz lebte in Wolfenacker. In welchem Jahr zog er dorthin?",
+"optionen": [
+"Er zog 1965 nach Wolfenacker.",
+"Er zog 1975 nach Wolfenacker.",
+"Er zog 1985 nach Wolfenacker.",
+"Er zog 1995 nach Wolfenacker."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Künstler ziehen sich oft erst im Ruhestand aufs Land zurück, das legt ein spätes Jahr nahe. Der Maler Karl Otto Götz zog aber 1975 nach Wolfenacker, in einen Ortsteil von Niederbreitbach. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wolfenacker",
+"faktencheck": "bestätigt",
+"id": "417-wolfenacker/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wolfenacker",
+"steckbrief": "Ortsteil von Niederbreitbach, rund 170 Einwohner (2008), 21 km nordwestlich von Koblenz.",
+"frage": "Wie weit ist es von Wolfenacker in der Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 40 km",
+"40 bis unter 70 km",
+"70 bis unter 100 km",
+"100 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an kurvige Straßen durch Westerwald und Rheintal denkt, schätzt die Strecke leicht länger. In der Luftlinie liegen Wolfenacker und Mainz aber 85 Kilometer auseinander. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "417-wolfenacker/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Wolfenacker",
+"steckbrief": "Ortsteil von Niederbreitbach, rund 170 Einwohner (2008), 21 km nordwestlich von Koblenz.",
+"frage": "Wie viele Einwohner hatte Wolfenacker im Jahr 1987?",
+"optionen": [
+"150 und mehr",
+"120 bis unter 150",
+"100 bis unter 120",
+"unter 100"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Dörfer wachsen meist langsam, also liegt eine Zahl knapp unter der von 2008 nahe. Doch 1987 zählte Wolfenacker nur 90 Einwohner. Bis 2008 hat sich die Zahl fast verdoppelt; ab Mitte der 2000er-Jahre wuchs ein Neubaugebiet nach Südwesten. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wolfenacker",
+"faktencheck": "unsicher",
+"id": "417-wolfenacker/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wolfenacker",
+"steckbrief": "Ortsteil von Niederbreitbach, rund 170 Einwohner (2008), 21 km nordwestlich von Koblenz.",
+"frage": "Um 1862 bekam Wolfenacker einen Brunnen, doch er reichte nicht. Es folgte eine Wasserleitung. Woraus bestanden ihre Rohre?",
+"optionen": [
+"Die Rohre bestanden aus Ton.",
+"Die Rohre bestanden aus Blei.",
+"Die Rohre bestanden aus Gusseisen.",
+"Die Rohre waren ausgehöhlte Baumstämme."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ausgehöhlte Baumstämme waren auf dem Land lange üblich, Eisen klingt nach Fortschritt. Die Leitung nach Wolfenacker bestand aber aus Tonrohren. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wolfenacker",
+"faktencheck": "korrigiert",
+"id": "417-wolfenacker/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wolfenacker",
+"steckbrief": "Ortsteil von Niederbreitbach, rund 170 Einwohner (2008), 21 km nordwestlich von Koblenz.",
+"frage": "Vor der Albertuskapelle in Wolfenacker steht ein überdachter Brunnen, der Albertusbrunnen. Wer schuf ihn?",
+"optionen": [
+"Der Architekt der Kapelle schuf ihn.",
+"Eine Glockengießerei goss ihn aus Bronze.",
+"Schüler einer Bildhauer-Meisterklasse schufen ihn.",
+"Eine Eisengießerei goss ihn aus Gusseisen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Brunnen neben einer Kapelle denkt man leicht an deren Architekten oder an eine Gießerei. Den Albertusbrunnen schufen aber Schüler einer Meisterklasse der Bildhauerschule Mainz-Hechtsheim unter ihrem Lehrer Mosen. Richtig war 3.",
+"quelle": "Pfarrei St. Elisabeth Rengsdorf-Waldbreitbach, salzkoerner.de",
+"faktencheck": "korrigiert",
+"id": "417-wolfenacker/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "416-kloster-marienhaus",
+"anschluss": [
+"Wolfenacker und Kloster Marienhaus liegen beide im Landkreis Neuwied.",
+"Wolfenacker liegt 21 km von Koblenz, Kloster Marienhaus 24 km."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Wolfenacker liegt rund 170 Meter höher als Vallendar."
+],
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Wolfenacker liegt rund 210 Meter höher als Andernach."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Wolfenacker die CDU."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Wolfenacker zum Landkreis Landkreis Neuwied."
+],
+"185-bad-breisig": [
+"Kreisgrenze: Bad Breisig gehört zum Landkreis Ahrweiler, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Wolfenacker liegt rund 200 Meter höher als Bad Breisig."
+],
+"186-sinzig": [
+"Kreisgrenze: Sinzig gehört zum Landkreis Ahrweiler, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Wolfenacker liegt rund 180 Meter höher als Sinzig."
+],
+"187-remagen": [
+"Kreisgrenze: Remagen gehört zum Landkreis Ahrweiler, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Wolfenacker liegt rund 210 Meter höher als Remagen."
+],
+"333-rheinbrohl": [
+"Kreisgrenze: Rheinbrohl gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Wolfenacker liegt rund 190 Meter höher als Rheinbrohl."
+],
+"334-leubsdorf": [
+"Kreisgrenze: Leubsdorf gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Wolfenacker liegt rund 200 Meter höher als Leubsdorf."
+],
+"335-unkel": [
+"Kreisgrenze: Unkel gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Wolfenacker liegt rund 210 Meter höher als Unkel."
+],
+"336-erpel": [
+"Kreisgrenze: Erpel gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Wolfenacker liegt rund 210 Meter höher als Erpel."
+],
+"340-neustadt-wied": [
+"Kreisgrenze: Neustadt (Wied) gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied."
+],
+"341-windhagen": [
+"Kreisgrenze: Windhagen gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied."
+],
+"342-vettelschoss": [
+"Kreisgrenze: Vettelschoß gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied."
+],
+"343-asbach": [
+"Kreisgrenze: Asbach gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied."
+],
+"404-niederbieber": [
+"Wolfenacker liegt rund 180 Meter höher als Niederbieber."
+],
+"405-segendorf": [
+"Wolfenacker liegt rund 170 Meter höher als Segendorf."
+],
+"406-datzeroth": [
+"Kreisgrenze: Datzeroth gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Bundestagswahl 2025: In Datzeroth lag die AfD vorn, in Wolfenacker die CDU."
+],
+"407-niederbreitbach": [
+"Kreisgrenze: Niederbreitbach gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Wolfenacker liegt rund 150 Meter höher als Niederbreitbach."
+],
+"408-oberbieber": [
+"Wolfenacker liegt rund 170 Meter höher als Oberbieber."
+],
+"409-melsbach": [
+"Kreisgrenze: Melsbach gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Melsbach die SPD, in Wolfenacker die AfD."
+],
+"410-hardert": [
+"Kreisgrenze: Hardert gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied."
+],
+"411-ehlscheid": [
+"Kreisgrenze: Ehlscheid gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied."
+],
+"412-kurtscheid": [
+"Kreisgrenze: Kurtscheid gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied."
+],
+"413-rossbach-wied": [
+"Kreisgrenze: Roßbach gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied.",
+"Wolfenacker liegt rund 150 Meter höher als Roßbach."
+],
+"414-hausen-wied": [
+"Kreisgrenze: Hausen (Wied) gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied."
+],
+"415-breitscheid-westerwald": [
+"Kreisgrenze: Breitscheid gehört zum Landkreis Neuwied, Wolfenacker zum Landkreis Landkreis Neuwied."
+],
+"416-kloster-marienhaus": [
+"Wolfenacker und Kloster Marienhaus liegen beide im Landkreis Neuwied.",
+"Wolfenacker liegt 21 km von Koblenz, Kloster Marienhaus 24 km."
+]
+},
+"ags": "07138047",
+"ortsteil": true,
+"km_vom_vorigen": 2.8
 }
 ]
 }

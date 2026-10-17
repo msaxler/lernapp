@@ -1,0 +1,31 @@
+Orte: 411-ehlscheid 412-kurtscheid 413-rossbach-wied 414-hausen-wied 415-breitscheid-westerwald 416-kloster-marienhaus 417-wolfenacker
+== Extraktion (Haiku) 13:08:16
+411-ehlscheid        extraktion ein  19545  aus   7012   0.06 USD    53 s  claude-haiku-4-5-20251001
+412-kurtscheid       extraktion ein  21391  aus   8318   0.07 USD    62 s  claude-haiku-4-5-20251001
+413-rossbach-wied    extraktion ein  23488  aus  19986   0.13 USD   139 s  claude-haiku-4-5-20251001
+414-hausen-wied      extraktion ein  21018  aus  14076   0.10 USD   116 s  claude-haiku-4-5-20251001
+415-breitscheid-westerwald extraktion ein  22713  aus   9826   0.08 USD    74 s  claude-haiku-4-5-20251001
+416-kloster-marienhaus extraktion ein  32709  aus   7667   0.09 USD    57 s  claude-haiku-4-5-20251001
+417-wolfenacker      extraktion ein  17759  aus   2943   0.04 USD    23 s  claude-haiku-4-5-20251001
+zusammen: 18265 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+Traceback (most recent call last):
+  File "D:\claude-code\LernApp\scripts\data-build\gemeinde_achsen_karten_eingabe.py", line 237, in <module>
+    main()
+    ~~~~^^
+  File "D:\claude-code\LernApp\scripts\data-build\gemeinde_achsen_karten_eingabe.py", line 210, in main
+    'PLAN:', plan(i, o), '']
+             ~~~~^^^^^^
+  File "D:\claude-code\LernApp\scripts\data-build\gemeinde_achsen_karten_eingabe.py", line 143, in plan
+    zahl, zahl_ersatz = waehle(ort, ZAHL, i)
+                        ~~~~~~^^^^^^^^^^^^^^
+  File "D:\claude-code\LernApp\scripts\data-build\gemeinde_achsen_karten_eingabe.py", line 136, in waehle
+    return kand[0], (kand[1] if len(kand) > 1 else None)
+           ~~~~^^^
+IndexError: list index out of range
+411-ehlscheid      15118 Zeichen
+412-kurtscheid     19015 Zeichen
+413-rossbach-wied   28323 Zeichen
+414-hausen-wied    19016 Zeichen
+415-breitscheid-westerwald    9915 Zeichen
+ABBRUCH: keine Eingabe für 416-kloster-marienhaus (Grunddaten?)
+Fertig mit Abbruch 13:10:35

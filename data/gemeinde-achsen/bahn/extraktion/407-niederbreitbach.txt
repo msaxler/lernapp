@@ -1,0 +1,615 @@
+ENTITÄT: ort
+BEZEICHNUNG: Niederbreitbach
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  gemeindeart: Ortsgemeinde
+  status_luftkurort: staatlich anerkannt
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  lage_bundesland: Norden von Rheinland-Pfalz
+  verbandsgemeinde: Rengsdorf-Waldbreitbach
+  geografische_lage: mittleres Wiedtal, ca. 14 km von Neuwied entfernt
+  erste_urkundliche_erwähnung_jahr: 857
+  urkundliche_bezeichnung: Bretbah
+  ursprüngliche_bezeichnung_context: Grenze des Zehntbezirks von Rengsdorf
+  abgabenpflicht: Koblenzer Castorstift
+  kirchspielzugehörigkeit: Breitbach (Wiedtal)
+  verwaltungszeitraum: teilweise Sitz der Verwaltung des Kirchspiels Breitbach
+  admin_center_seit: Mitte 17. Jahrhundert (Verwaltungsort des Kirchspiels)
+  bevölkerung_1815: 515
+  bevölkerung_1835: 656
+  bevölkerung_1871: 656
+  bevölkerung_1905: 626
+  bevölkerung_1939: 749
+  bevölkerung_1950: 834
+  bevölkerung_1961: 949
+  bevölkerung_1970: 1070
+  bevölkerung_1987: 1204
+  bevölkerung_1997: 1469
+  bevölkerung_2005: 1521
+  bevölkerung_2011: 1568
+  bevölkerung_2017: 1585
+  bevölkerung_2025: 1527
+  gemeinderat_groesse: 16 Mitglieder
+  gemeinderat_wahl_2024: 9. Juni 2024, Mehrheitswahl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bachlauf
+BEZEICHNUNG: Fockenbach
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  muendung: mündet in die Wied in Niederbreitbach
+  tal: Fockenbachtal
+  naturpark_status: Kernzone des Naturparks Rhein-Westerwald
+  tal_auszeichnung: als Kernzone des Naturparks Rhein-Westerwald ausgewiesen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: flusstal
+BEZEICHNUNG: Wiedtal
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: nahezu unberührte Natur
+  wanderwege: gut ausgebaut
+  zeugnis_vergangenheit: Flieger-Denkmal, ehemalige Erzstollen, Verarbeitungsstätten, Mühlen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burgruine
+BEZEICHNUNG: Neuerburg
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Ludwig II. von Thüringen
+  erbauung: um 1170
+  lage_relativ: etwa 2,5 km östlich von Niederbreitbach
+  hoehe: etwa 250 m ü. NHN
+  topografie: steil aufragende Klippe über dem Fockenbach
+  tal_bezug: Fockenbachtal
+  status_1250: mit Amt Breitbach dem Erzstift Köln übergeben
+  grund_uebergabe: Folge des Todes von Heinrich III. von Sayn
+  zerstoerung_beginn: 17. Jahrhundert (Verfall begann)
+  wiederherstellung: Teile wiederhergestellt durch Privatinitiative
+  zugaenglichkeit: nicht zugänglich für Wanderer und Interessierte
+  besonderheit: superlativ "unsichtbar vom Talgrund aus" (liegt oberhalb)
+GUELTIG_AB: 1170
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Nikolaus
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  erbauer_vermutung: Benediktinerinnen von Schwarz-Rheindorf
+  weihe: St. Nikolaus
+  frueherer_name: Nikolausberg (nycolausberg)
+  noch_gaeltige_bezeichnung: Clausberg
+  ersterwahnung: 1393
+  ersterwahnung_context: Kaufvertrag, aufgeführt als "nycolausberg"
+  baugeschichte: "Chorteil bis 1583 erhalten; 1583 Anbau mit barocker Ausstattung; 1833-1838 durchgreifende Renovierungen; 1912 westlicher Anbau; 1975 Anbau großenteils niedergelegt; 1977 zur Friedhofskapelle umgewandelt"
+  nutzung_seit_1977: Friedhofskapelle
+  baubeginn_barock: 1583
+  renovierung_periode: 1833-1838
+  umbau_1912: Westlicher Anbau
+  abriss_teilweise: 1975
+  umnutzung_zur_friedhofskapelle: 1977
+GUELTIG_AB: 1393
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Laurentius
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  pfarrei_errichtung: 1. Mai 1961
+  pfarrei_status: selbstständige Pfarrei (vorher Vikarie)
+  grundsteinlegung_neubau: 1966
+  inbetriebnahme: Ostern 1968
+  pfarrkirche_seit: Ostern 1968
+  konfession: katholisch
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: klosterhof
+BEZEICHNUNG: Rheindorfer Hof
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  anlegung: 1173
+  anlegung_befehl: Erzbischof Arnold II. von Wied
+  zweck: Hof für das Stift der Benediktinerinnen in Schwarz-Rheindorf
+  eigentuemer_anfang: Stift der Benediktinerinnen in Schwarz-Rheindorf
+  versteigert: 1821
+  gebaeudeabbruch: 1821
+  grund_abbruch: Auswirkung der Säkularisation
+GUELTIG_AB: 1173
+GUELTIG_BIS: 1821
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Ackerhof
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+ORTSTEIL_BEZUG: Ackerhof
+EIGENSCHAFTEN:
+  ersterwahnung: 1278
+  ersterwahnung_context: Urkunde mit Nennung als "Hof Acker" (up deme ackere)
+  erbauung: um 1265
+  funktion: Wohnstätte
+GUELTIG_AB: 1265
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Schützeichel (später Heisterbacher Hof)
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+ORTSTEIL_BEZUG: Bürder
+EIGENSCHAFTEN:
+  ersterwahnung: 1468
+  urspuenglicher_name: Schudensichel
+  spaeterer_name: Heisterbacher Hof
+  eigentuemer_original: Kloster Heisterbach
+  zeitweise_namensgebung_grund: Kloster-Besitz
+GUELTIG_AB: 1468
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: flurbezeichnung
+BEZEICHNUNG: Greffenbreitbach
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Grefenbreitbach (Greffier = Gerichtsschöffe)
+  verwaltungstyp: Hubengerichtsbarkeit
+  gerichtssitzungen: an drei festgelegten Tagen im Jahr
+GUELTIG_AB: 1583
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: siedlung_ortsteil
+BEZEICHNUNG: Wolfenacker
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+ORTSTEIL_BEZUG: Wolfenacker
+EIGENSCHAFTEN:
+  ersterwahnung: 1583
+  ersterwahnung_quelle: Lagerbuch des Stifts Schwarz-Rheindorf
+  notiz_ueber_lagerbuch: Aus der Vermessung von Hof und Feldern durch das Stift
+GUELTIG_AB: 1583
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: huette
+BEZEICHNUNG: Clemenshütte
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  baubeginn: 1750
+  inbetriebnahme: 1752
+  benannt_nach: Kurfürst Clemens August
+  kurfuerst_herrschaft: 1723-1761
+  urspruengliche_funktion: Kupferhütte
+  rohstoff_original: Kupfer
+  ausstattung: Hochofen, Kupferschmelzofen mit vier Hämmern und Feuer
+  umfunktionierung: Um 1787 zur Eisenhütte (nach Bericht des Bergrats Zeppenfeld)
+  ausguenftgebung: In Bericht des Bergrats Zeppenfeld an Kurfürst Maximilian Franz (1784-1801) aus 1787
+  rohstoff_spaeter: Kupfer und Eisen
+  standort_problem: schlechte Verkehrsverbindungen, keine Rentabilität
+  versteigert: 1811
+  betriebseinstellung: 1812
+  denkmal_des_kurfuersten: bis 1961 auf dem Gelände, später auf Gelände der ehemaligen Firma Boesner in Niederbieber
+  lage: Fockenbachtal Richtung Niederhonnefeld
+GUELTIG_AB: 1750
+GUELTIG_BIS: 1812
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Grube Heinrich
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  rohstoff: Kupfer
+  lage: andere Seite der Wied in Richtung Hausen
+  zeitraum: Ende 18. Jahrhundert
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Grube Louisenglück
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  rohstoff: Kupfer
+  lage: Fockenbachtal Richtung Niederhonnefeld
+  zeitraum: Ende 18. Jahrhundert
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Grube Ferdinand
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  rohstoff: Kupfer
+  lage: Fockenbachtal Richtung Niederhonnefeld
+  zeitraum: Ende 18. Jahrhundert
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Kurkölnische Normalschule Niederbreitbach
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  lehrer_bekannt: Matthias Wittlich
+  lehrer_zeitraum: 1792-1803
+  sitz_nachricht: 15. Mai 1821
+  renovierungsantrag: Bürgermeister an königlichen Landrat in Heddesdorf, Kosten 55 Gulden
+  gebaeudebestand: vermutlich klein
+  hausanlauf: 1824 Ankauf eines Hauses von Bertram Steiner
+  schaeler_1837: 96 schulpflichtige Kinder
+  unterricht_modus: Schicht-Betrieb (vormittags und nachmittags)
+  neubau_1840: "Hümmerichs Scheune" erworben für 430 Taler, Reparaturen 386 Taler
+  umzug_1877: ins Gemeindehaus
+  neubau_1910: Volksschule (heutige Grundschule Neuerburgschule)
+GUELTIG_AB: 1792
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Neuerburgschule
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1910
+  schultyp: Grundschule (ehemals Volksschule)
+  vorgaengergebaeude: Gemeindehaus (1877-1910)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Peter Wirth
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  geburt_ort: Niederbreitbach
+  geburt_jahr: 1830
+  tod_jahr: 1871
+  ordensname: Bruder Jakobus
+  grundung: Kongregation der Franziskanerbrüder vom Heiligen Kreuz (FFSC)
+  grundungsort: Hausen (Kreis Neuwied)
+  religionszugehoerigkeit: katholisch
+  besonderheit: Kreuzkapelle in Hausen gilt als Stiftungsort der Franziskaner im benachbarten Hausen
+GUELTIG_AB: 1830
+GUELTIG_BIS: 1871
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Rosa Flesch
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1826
+  tod_jahr: 1906
+  berufsbezeichnung: Baumeisterin
+  grundung: Franziskanerinnen von der allerseligsten Jungfrau Maria von den Engeln (FBMVA)
+  baumeisterin_fuer: psychiatrische Anstalten, Krankenhäuser, Verwahranstalten für Alte und Kinder sowie Nähschulen
+GUELTIG_AB: 1826
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: K. O. Götz
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+ORTSTEIL_BEZUG: Wolfenacker (Todesort)
+EIGENSCHAFTEN:
+  geburt_jahr: 1914
+  geburt_ort: Aachen
+  tod_jahr: 2017
+  tod_ort: Wolfenacker
+  beruf: Maler und Lyriker
+  professur: Kunstakademie Düsseldorf
+  familienstand: verheiratet mit Rissa (Karin Götz)
+GUELTIG_AB: 1914
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Albert Hardt
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+ORTSTEIL_BEZUG: Wolfenacker (Geburtsort)
+EIGENSCHAFTEN:
+  geburt_jahr: 1933
+  geburt_ort: Wolfenacker
+  tod_jahr: 2022
+  beruf: Gymnasiallehrer und Historiker
+GUELTIG_AB: 1933
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Rissa (Karin Götz)
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1938
+  geburt_ort: Chemnitz
+  buergerlicher_name: Karin Götz
+  familienstand: Ehefrau von K. O. Götz
+  professur: Kunstakademie Düsseldorf
+  professur_zeitraum: 1969-2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gerhard Grüber
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1962
+  geburt_ort: Niederbreitbach
+  beruf: Molekularbiologe
+  professur: Nanyang Technological University, Singapur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsbuergermeister
+BEZEICHNUNG: Frank Jacke
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 4. Juli 2024
+  wahl_datum: 9. Juni 2024
+  wahlsystem: Direktwahl
+  stimmenanteil: 86.9
+  stimmenanteil_einheit: Prozent
+  amtsdauer: 5 Jahre
+  konkurrenzsituation: einziger Bewerber
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsbuergermeister
+BEZEICHNUNG: Susanne Hardt
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: Juni 2019
+  wahl_datum: 26. Mai 2019
+  wahlsystem: Direktwahl
+  stimmenanteil: 84.79
+  stimmenanteil_einheit: Prozent
+  amtsdauer: 5 Jahre
+GUELTIG_AB: 2019
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsbuergermeister
+BEZEICHNUNG: Bruno Hoffmann
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  amtsdauer_jahre: 15
+  amtsende: Juni 2019
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  groesse: 16 Ratsmitglieder
+  vorsitzender: ehrenamtlicher Ortsbürgermeister
+  wahl_2024: 9. Juni 2024
+  wahlsystem_2024: Mehrheitswahl
+  wahlsystem_bis_2009: personalisierte Verhältniswahl (ab 2009 Mehrheitswahl)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: klosterhof_ruine
+BEZEICHNUNG: Nonnenbach (Grenzelberg/Grundelberg, ehemaliges Forsthaus)
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  lage: zwischen Datzeroth und ehemaliges Forsthaus Nonnenbach, links der Kreisstraße
+  frueherer_name: Grenzelberg oder Grundelberg
+  spaeterer_name: Forsthaus Nonnenbach
+  eigentuemer_ursprung: Andernacher Marienkloster
+  nutzungszeit: erste Hälfte des 12. Jahrhunderts bis Mitte 16. Jahrhundert
+  erhaltung: Mauerreste teilweise erhalten
+  brunnen_name: Brunnen des Hofmanns Laurentius
+  brunnen_erhaltung: Teile in unmittelbarer Nähe erhalten
+  volkssage: heutige Laurentiusfigur in der Niederbreitbacher Kirche soll diesem Brunnen entnommen worden sein
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1550
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Dorfmuseum Niederbreitbach
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  lage: Zentrum des Ortes
+  oeffnungsfrequenz: mehrfach im Jahr
+  beschreibung: zeigt ein kleines Gehöft, das vor nicht mal 100 Jahren zwei bis drei Generationen Brot und Herberge gab
+  ausstellungsbestandteile: Küche, gute Stube, Schusterwerkstatt, Grabungsfunde, Rekonstruktionsmodell der Neuerburg (verschiedene Bauabschnitte), Dokumente, Bilder, Originalschriften, Fotografien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein_gesangverein
+BEZEICHNUNG: Männergesangverein Concordia Niederbreitbach
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  vereinstyp: Männergesangverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein_kirchenchor
+BEZEICHNUNG: Kirchenchor Cäcilia Niederbreitbach e.V.
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  vereinstyp: Kirchenchor
+  rechtsform: eingetragener Verein (e.V.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein_schützenbruderschaft
+BEZEICHNUNG: St. Hubertus Schützenbruderschaft Niederbreitbach
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  vereinstyp: Schützenbruderschaft
+  veranstaltung: Königsschießen
+  kooperationspartner: Junggesellenverein 1864 Niederbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein_junggesellenverein
+BEZEICHNUNG: Junggesellenverein 1864 Niederbreitbach
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1864
+  vereinstyp: Junggesellenverein
+  veranstaltung: St. Laurentius-Kirmes (2. Augustwochenende, traditionell)
+  kooperationspartner: St. Hubertus Schützenbruderschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: muehle
+BEZEICHNUNG: Fockenbachsmühle
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  lage: Wiedtal bzw. Fockenbachtal
+  beschreibung: noch vorhanden und als Zeuge der Vergangenheit zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: muehle
+BEZEICHNUNG: Krölls-Mühle
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  lage: Wiedtal bzw. Fockenbachtal
+  beschreibung: noch vorhanden und als Zeuge der Vergangenheit zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Flieger-Denkmal
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  lage: Wiedtal und Fockenbachtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: weinbau
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  ersterwahnung: 1505
+  ersterwahnung_beleg: Verkaufsurkunde
+  gmaerkungen: Servais (Servatius) aus Leubsdorf verkaufte Amtmann Nesselrode 14 Morgen Weingartenbruch und "das Argendorfer Gut"
+  beschreibung: Niederbreitbach war schon 1505 ein Weinort
+GUELTIG_AB: 1505
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirchspiel
+BEZEICHNUNG: Breitbach
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  orte_im_kirchspiel: Ober- und Niederbreitbach, weitere Orte im Wiedtal
+  admin_center_wechsel: immer dort "Walt-Breitbach" (Breitbachwald), wo die Verwaltung untergebracht war
+  zusammenfassung_historisch: Orte im Wiedtal schon in frühester Zeit unter Bezeichnung "Im Grunde Breitbach" zusammengefasst
+GUELTIG_AB: 857
+IST_VERMUTWEISE_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gaerber
+BEZEICHNUNG: Fränkische Gräber
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  entdeckung: 1930 bei Anlegung des Friedhofs
+  anzahl: 1930 Gräber
+  zeitlich_zuordnung: fränkische Zeit (etwa 7. oder 8. Jahrhundert)
+GUELTIG_AB: 700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+QUELLE: https://de.wikipedia.org/wiki/Niederbreitbach | Wikipedia
+EIGENSCHAFTEN:
+  landesstrasse_l255: verbindung zu Neuwied und Neustadt (Wied) oder Asbach
+  landesstrasse_l257: verbindung zu Bad Hönningen und Bundesstraße 256
+  autobahn_nächste_anschlüsse: Neuwied und Neustadt/Wied an der Bundesautobahn 3
+  bahnhof_nächster: Bad Hönningen an der rechten Rheinstrecke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

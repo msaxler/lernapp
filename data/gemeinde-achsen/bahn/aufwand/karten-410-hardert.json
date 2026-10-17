@@ -1,0 +1,50 @@
+{
+ "stufe": "karten",
+ "ort": "410-hardert",
+ "prompt": "prompt-karten-v0.8.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 32287,
+ "token_ein": 35787,
+ "token_aus": 25942,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 28883,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 25942,
+  "output_tokens_details": {
+   "thinking_tokens": 18447
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 28883,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 25942,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 28883,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 28883
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7512923999999999,
+ "sekunden": 227,
+ "fehler": false,
+ "zeit": "2026-10-17T13:00:15"
+}

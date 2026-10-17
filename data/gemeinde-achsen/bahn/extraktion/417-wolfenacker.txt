@@ -1,0 +1,110 @@
+ENTITÄT: ort
+BEZEICHNUNG: Wolfenacker
+QUELLE: https://de.wikipedia.org/wiki/Wolfenacker | Wikipedia
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Gemeinde Niederbreitbach
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  region: Niederwesterwald
+  lage_geographisch: auf Höhenrücken der Sayn-Wied-Hochflächen, etwa 170 m oberhalb der Wied
+  hoehenlage_minimum: 260 [m ü. NHN]
+  hoehenlage_maximum: 290 [m ü. NHN]
+  nachbargemeinde_nordwesten: Niederbreitbach
+  nachbargemeinde_osten: Kurtscheid, wert: 2 [km entfernt, höher gelegen]
+  erreichbarkeit: Landesstraße 257 (Bad Hönningen–Bonefeld)
+  erste_urkundliche_erwaehnung: 1583
+  erwaehnung_kontext: Flurname in Güterverzeichnis für Rheindorfer Hof in Niederbreitbach
+  besiedlung_beginn: Unterdorf
+  entwicklung_mitte_17_jh: kein zusammenhängendes Dorf
+  hütten_18_jh: 7 [strohbedeckte]
+  wohnhäuser_1843: 15
+  wirtschaftsgebäude_1843: 21
+  wassermangel: chronisch
+  brunnen_baujahr: 1862, genauigkeit: "ca."
+  brunnen_grund: chronischer Wassermangel
+  brunnen_effektivitaet: nicht ausreichend
+  wasserleitung_baustoff: Tonrohren
+  wasserleitung_beschreibung: eine der ersten Wasserleitungen im Landkreis Neuwied
+  verwaltungszugehoerigkeit_ab_1815: preußische Zeit, Teil Gemeinde Niederbreitbach, Bürgermeisterei Neuerburg, Kreis Neuwied
+  amt_benannt_um: 1927 in Amt Neuerburg
+  verwaltungszugehoerigkeit_bis: 1968
+  neubaugebiet_erweiterung: ab Mitte 2000er Jahre nach Südwesten
+  einwohner_1816: 53
+  einwohner_1828: 58
+  einwohner_1843: 68
+  einwohner_1885: 97
+  einwohner_1987: 90
+  einwohner_2008: 171
+GUELTIG_AB: 1583
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Albertuskapelle
+ORTSTEIL_BEZUG: Wolfenacker
+QUELLE: https://de.wikipedia.org/wiki/Wolfenacker | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1982-1983
+  architekt: junger Architekt aus Kurtscheid
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Albertusbrunnen
+ORTSTEIL_BEZUG: Wolfenacker
+QUELLE: https://de.wikipedia.org/wiki/Wolfenacker | Wikipedia
+EIGENSCHAFTEN:
+  ist_ueberdacht: true
+  standort: vor der Albertuskapelle
+  fertiger: Schüler einer Meisterklasse der Bildhauerschule Mainz-Hechtsheim
+  kunstform: Bildhauerei
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: brunnen
+ORTSTEIL_BEZUG: Wolfenacker
+QUELLE: https://de.wikipedia.org/wiki/Wolfenacker | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1862, genauigkeit: "ca."
+  grund: chronischer Wassermangel
+  effektivitaet: nicht ausreichend
+GUELTIG_AB: 1862
+GUELTIG_BIS: 1862
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wasserleitung
+ORTSTEIL_BEZUG: Wolfenacker
+QUELLE: https://de.wikipedia.org/wiki/Wolfenacker | Wikipedia
+EIGENSCHAFTEN:
+  material: Tonrohren
+  verlauf: von Bach nach Wolfenacker
+  beschreibung: eine der ersten Wasserleitungen im Landkreis Neuwied
+  bauzeitpunkt: nach ca. 1862
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Karl Otto Götz
+QUELLE: https://de.wikipedia.org/wiki/Wolfenacker | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Maler
+  wohnort: Wolfenacker
+  wohnbeginn: 1975
+  wohnpartner: Karin
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95

@@ -1,0 +1,521 @@
+ZIELORT: Melsbach (Gemeinde)
+LAGE: 17 km nordwestlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Melsbach
+
+GRUNDDATEN:
+  landkreis: Neuwied  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 1953  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 2,8  [Wikidata P2046]
+  dichte_ew_km2: 698  [berechnet aus Einwohner und Fläche]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 170 | 181 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2872033)]
+  naechste_grossstadt: Koblenz, 17 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 80 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 56581  [Wikidata P281]
+  vorwahl: 02634  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33,5 %, SPD 20,1 %, AfD 19,5 %, GRÜNE 8,3 %, Die Linke 5,8 %; Wahlbeteiligung 86,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Holger Klein — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-17]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Oberbieber (Ortsteil von Neuwied)
+  landkreis: Landkreis Neuwied — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P131]
+  einwohner: 4882  [dewiki Infobox, Stand 2026-07-06]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P395]
+  hoehe_m: 100 | 102  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2861261)]
+  naechste_grossstadt: Koblenz, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,1 %, AfD 23,5 %, SPD 20,5 %, GRÜNE 8,2 %, Die Linke 7,3 %, BSW 5,7 %; Wahlbeteiligung 77,4 % — GILT FÜR DIE GEMEINDE NEUWIED  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Ebnet, Littenweiler, Merzhausen, Au, Ebringen, Schallstadt, Bad Krozingen, Heitersheim, Müllheim, Waldkirch, Hochdorf, March, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker
+
+FAKTEN (Zielort Melsbach):
+ID: 409-melsbach/001
+ENTITÄT: ort
+BEZEICHNUNG: Melsbach
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ortsgemeinde: true
+  lage_westerwald: Rand des Westerwaldes
+  lage_neuwieder_becken: auf Anhöhe
+  naturpark: Rhein-Westerwald
+  lage_zu_rengsdorf: südwestlich
+  in_naeche_von: Wied
+  erste_urkundliche_erwahnung: 1267
+  erste_erwahnung_transaktion: "Graf Gottfried von Eppstein, der Jüngere, verkauft seinen Erbhof"
+GUELTIG_AB: 1267
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/002
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  region_bundesland: Norden
+  hoehe_ue_nn_min: 130
+  hoehe_ue_nn_max: 200
+  hoehe_einheit: m ü.NN
+  verbandsgemeinde: Rengsdorf-Waldbreitbach
+  verbandsgemeinde_gueltig_ab: 1. Januar 2018
+  verbandsgemeinde_vorher: Rengsdorf (ab 1970)
+  verbandsgemeinde_davor: Niederbieber-Segendorf (bis 1970)
+  jubilaeums_bestehen_dauer: 750 Jahre
+  jubilaeums_bestehen_datum: 11.-14. August 2017
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/003
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Bronzeeimer (Situla)
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fundjahr: 1956
+  fundort: Gelände Tonbergwerk Didier-Werke AG
+  epoche: Hallstattzeit
+  epoche_zeitspanne: 600-300 v.Chr.
+  aufbewahrung: Kreismuseum Neuwied
+  bedeutung: deutet auf Besiedlung in Bronzezeit hin
+GUELTIG_AB: 600 v.Chr.
+GUELTIG_BIS: 300 v.Chr.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/004
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Bronzeeimer (Situla)
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  fundjahr: 1956
+  fundort: Gelände Tonbergwerk Didier-Werke AG
+  dekor: Henkel mit schraffierten Dreiecken verziert
+  typus: Rheinischer Typus
+  aufbewahrung: Kreismuseum Neuwied
+GUELTIG_AB: 600 v.Chr.
+GUELTIG_BIS: 300 v.Chr.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/005
+ENTITÄT: limes_roemer
+BEZEICHNUNG: Obergermanischer Limes
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  verlauf_zeit: römische Zeit
+  lage_zur_kreuzkirche: ca. 200 Meter südlich
+  spuren_erkennbar_bis: ca. 1962
+  wachturm: Wp 1/33 ("An der Kreuzkirche")
+  wachturm_standort: Kreuzberg (Gemarkung Altwied)
+  wachturm_sichtbarmachung: 2007 durch Gabionen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 409-melsbach/006
+ENTITÄT: kirche
+BEZEICHNUNG: Kreuzkirche
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 1399
+  erste_erwahnung_funktion: Wallfahrtsort
+  architektur_erhalten: gotisch
+  vermutlich_aelter_als: 1399
+  zugehoerigkeit_geistlich: Abtei St. Thomas zu Andernach (1399)
+  wallfahrtsort_zeitspanne: bis ca. 1558
+  status_nach_1558: aufgegeben und verfallen
+  status_ab_1625: Ruine
+  denkmalschutz: true
+  denkmalschutz_grundlage: Denkmalschutzgesetz Rheinland-Pfalz (DSchG)
+GUELTIG_AB: 1399
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 409-melsbach/007
+ENTITÄT: alaunwerk
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erkannt_grundstoff: 1786
+  erkannt_durch: Engelhardt
+  superlativ: ältestes Alaunwerk im Rheinland
+  stilllegung: 1880
+  abriss: 1882
+  standort_nach_abriss: Abraumhalde heute Sportplatz Melsbach
+GUELTIG_AB: 1786
+GUELTIG_BIS: 1882
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/008
+ENTITÄT: alaunwerk
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  erkannt_grundstoff: 1786
+  erkannt_durch: Gustav Engelhardt
+  erkannt_titel: Bergassessor (fürstlich-wiedisch)
+  superlativ: ältestes Alaunwerk im Rheinland
+  stilllegung: 1880
+  abriss: 1882
+  standort_nach_abriss: Sportplatz Melsbach auf ehemaliger Abraumhalde
+  bedeutung_ortsteil: Gründung der Alaunhütten mag die Entstehung des Ortsteils Kreuzkirch erklären
+GUELTIG_AB: 1786
+GUELTIG_BIS: 1882
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/009
+ENTITÄT: tonbergwerk
+BEZEICHNUNG: Didier-Werke AG
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Wiesbaden
+  foerderschacht_errichtet: 1938-1939
+  foerderschacht_teufe_ca: 86
+  foerderschacht_teufe_einheit: m
+  zweck_ton: Auskleidung von Hochöfen (Wehrmacht-Aufrüstung)
+  kontext_start: ab 1935 Stahlerzeugung wieder aufgeblüht
+  foerderung_unterbrochen: Zweiter Weltkrieg
+  foerderung_wiederaufnahme: 1948
+  betriebsstilllegung: 1983
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/010
+ENTITÄT: tonbergwerk
+BEZEICHNUNG: Dr. C. Otto & Comp.
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Bendorf
+  zweck_ton: Auskleidung von Hochöfen (Wehrmacht-Aufrüstung)
+  betrieb_bis: 1990
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 409-melsbach/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Förderturm (Tonbergwerk)
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  gehoert_zu: Dr. C. Otto & Comp.
+  material: Eisen
+  errichtet: ca. 1938-1939
+  lage_zu_kreuzkirch: unweit
+  besichtigung_moeglich: true
+  besteigung_erlaubt: false
+  grund_sperrung: Einsturzgefahr
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 409-melsbach/012
+ENTITÄT: schule
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schulgebaeude_errichtet: 1692-1720
+  erste_schulgebaeude_nennung: 1896
+  schulform_alt: Volksschule
+  schulform_ab_1971: Grundschule (gemeindeeigen)
+  grund_grundschule: nach wiederholten Protesten Gemeinderäte gegen Auflösung (Schulreformen)
+  besteht_heute: true
+GUELTIG_AB: 1692
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 409-melsbach/013
+ENTITÄT: schule
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  schulgebaeude_errichtet: Januar 1896
+  schulform_original: Volksschule
+  schulform_ab_1971: Grundschule (gemeindeeigen)
+  status_1971: sollte aufgelöst werden (landesweite Schulreformen)
+  grund_erhalt: wiederholte Proteste mehrerer Gemeinderäte
+  besteht_heute: true
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/014
+ENTITÄT: kirmes
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_kirmes: 1863
+  erstes_getraenk: Wein Melsbacher Goldberg
+  tradition_unterbrochen: Zeit der Weltkriege
+  zeitpoint_tradition: zweites Wochenende im August
+  tradition_alter: über 140 Jahre
+  ausrichtung_durch: Burschenverein 1865 Melsbach
+  burschen_anzahl: 25
+  maimaedchen_anzahl: 17
+  kooperationsverein: Kirmes- und Kulturgesellschaft Melsbach e.V. (2006-2011)
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/015
+ENTITÄT: verein
+BEZEICHNUNG: Burschenverein 1865 Melsbach
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1865
+  aufgabe: Ausrichtung der Kirmes
+  burschen_aktuell: 25
+  maimaedchen_aktuell: 17
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/016
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Melsbach
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1907
+GUELTIG_AB: 1907
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/017
+ENTITÄT: verein
+BEZEICHNUNG: SV Melsbach 1919 e.V.
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 1919
+  grund_gruendung: Aktive Turner und Fußballer hatten sich zusammengeschlossen
+  aktivitaeten: Turnen, Fußball
+  jubilaeums_100_jahre: 15. Juni 2019
+  jubilaeums_spiel_gegner: Auswahl Borussia Mönchengladbach
+  jubilaeums_spiel_ergebnis: 1:4 (verloren)
+  jubilaeums_spiel_detail: "Traditionsteam (Weisweiler-Elf) von Borussia Mönchengladbach, darunter Ex-Kapitän Hans-Jörg Criens"
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 409-melsbach/018
+ENTITÄT: verein
+BEZEICHNUNG: Burschenverein 1865 Melsbach
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 1865
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/019
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Melsbach
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 1907
+GUELTIG_AB: 1907
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/020
+ENTITÄT: verein
+BEZEICHNUNG: Kirmes- und Kulturgesellschaft Melsbach e.V.
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 2006
+  aufgabe: Ausrichtung Kirmes und Bereicherung kulturelles Leben durch weitere Veranstaltungen
+  aufgelöst: 2011
+GUELTIG_AB: 2006
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 409-melsbach/021
+ENTITÄT: mundart
+BEZEICHNUNG: Melsbacher Mundart (Melsbija Platt)
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  spielart_von: Wäller Platt
+  dialekt_gruppe: moselfränkisch
+  kategorie_dialekt: Mitteldeutsch
+  charakteristikum: zweite (hochdeutsche) Lautverschiebung nur unvollständig durchgeführt
+  beispiel: "das=dat, was=wat (t wird nicht durch s ersetzt)"
+  problem_aktuell: immer weniger Menschen sprechen und verstehen die Mundart
+  stammtisch_gegründet: Februar 2004
+  stammtisch_grund: Aufhalten des Aussterbens
+  stammtisch_taetigkeit_bis: ca. 2018
+  broschure_1_veroeffentlichung: 2014
+  broschure_1_umfang: 72 Seiten
+  broschure_1_inhalt_woerter: über 1300 Wörter (Hochdeutsch und Mundart)
+  broschure_1_inhalt_weitere: Sprüche, Sprichwörter, Geschichten, mundartliche Bezeichnungen für Plätze und Fluren
+  broschure_2_veroeffentlichung: 2017
+  broschure_2_umfang: 10 Seiten
+  broschure_2_inhalt: über 150 weitere Begriffe und in Mundart übertragene Redensarten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/022
+ENTITÄT: ortsbürgermeister
+BEZEICHNUNG: Holger Klein
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 30. Juni 2014
+  partei: FWG (Freie Wählergruppe Melsbacher Bürger e.V.)
+  wiederwaehlung_1: 26. Mai 2019
+  stimmenanteil_2019: 93,60%
+  wiederwaehlung_2: 9. Juni 2024
+  stimmenanteil_2024: 90,8%
+  kandidaten_2024: einziger Bewerber
+  amtsperiode_dauer: 5 Jahre
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/023
+ENTITÄT: ortsbürgermeister
+BEZEICHNUNG: Joachim Herzog
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  amtsdauer_jahre: 15
+  nachfolger: Holger Klein
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/024
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  ratsmitglieder_anzahl: 16
+  wahlform: personalisierte Verhältniswahl
+  wahltermin_aktuell: 9. Juni 2024
+  vorsitz: ehrenamtlicher Ortsbürgermeister
+  sitzverteilung_2024_fwg: 10
+  sitzverteilung_2024_cdu: 4
+  sitzverteilung_2024_spd: 2
+  sitzverteilung_2024_gesamt: 16
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/025
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: "Unter grünem Schildplatt, darin ein linksschräger silberner Wellenbalken, in Silber auf grünem Dreiberg eine grüne Eiche"
+  symbolik_wellenbalken: Grundwort "-bach" des Ortsnamens
+  symbolik_dreiberg: Höhenlage des Ortes zwischen Wied- und Wallbachtal
+  symbolik_eiche: waldreiche Umgebung
+  rechtsgueltig_seit: 31. August 1966
+  entwurf: A. Brust, Kirn
+  aenderung_verbandsgemeinde: Neues Wappen für Verbandsgemeinde Rengsdorf-Waldbreitbach seit 1. Januar 2018, Melsbachs Dorfwappen unverändert
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/026
+ENTITÄT: schiefergewinnung
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  zeit_ca: 1750
+  ort_gewässer: Laubach
+  anzahl_gruben: 9
+  produkt: blauer Dachschiefer
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 409-melsbach/027
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kreuzkirch
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  existenz_auf_preussischen_landkarten_1820_1878: nein (nicht eingetragen)
+  eintraege_auf_landkarten: nur Alaunhütten und "Ruine Kreutzkirche"
+  genese: Gründung der Alaunhütten mag die Entstehung des Ortsteils erklären
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 409-melsbach/028
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Wasserfall des Laubachs
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  note: siehe auch Liste der Wasserfälle in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 409-melsbach/029
+ENTITÄT: bohrung_kohlesuche
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+EIGENSCHAFTEN:
+  zeit_ca: 1780
+  auftraggeber: Heinrich Wilhelm Remy (Unternehmer)
+  grund_auftrag: Kohle benötigt für Hütten- und Walzwerk "Rasselstein" im Wiedtal bei Neuwied
+  lage: nahe Ruine der Kreuzkirche
+  vermutung: Steinkohlelager
+  ergebnis: stieß nur auf unbrauchbare Braunkohle (zwischen Tonlagern)
+  folge: Erkenntnis der Tonlagern als Grundstoff von Alaun (1786)
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 409-melsbach/030
+ENTITÄT: ort
+EIGENSCHAFTEN:
+  einwohnerzahl_1815: 345
+  einwohnerzahl_1835: 382
+  einwohnerzahl_1871: 431
+  einwohnerzahl_1905: 576
+  einwohnerzahl_1939: 609
+  einwohnerzahl_1950: 731
+  einwohnerzahl_1961: 973
+  einwohnerzahl_1970: 1391
+  einwohnerzahl_1987: 2015
+  einwohnerzahl_2005: 2114
+  einwohnerzahl_2022: 2011
+QUELLE: https://de.wikipedia.org/wiki/Melsbach | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 409-melsbach/031
+ENTITÄT: kirchspiel
+BEZEICHNUNG: Kirchspiel Rengsdorf
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gehoert_zu: Melsbach
+  zeitspanne: 1278-1747
+  zeitspanne_wiedereintritt: ab 1747
+GUELTIG_AB: 1278
+GUELTIG_BIS: 1747
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 409-melsbach/032
+ENTITÄT: kirchspiel
+BEZEICHNUNG: Kirchspiel Altwied
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gehoert_zu: Melsbach
+  zeitspanne_1: bis 1278
+  zeitspanne_2: ab 1747
+GUELTIG_AB: 1747
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 409-melsbach/033
+ENTITÄT: zollstation
+QUELLE: https://www.gemeinde-melsbach.de/startseite/melsbach-historie-zahlen-daten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Melsbach
+  errichtet: 1357
+GUELTIG_AB: 1357
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+

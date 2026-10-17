@@ -1,0 +1,50 @@
+{
+ "stufe": "extraktion",
+ "ort": "414-hausen-wied",
+ "prompt": "prompt-stufe1-v0.6.txt",
+ "modell_wunsch": "haiku",
+ "modelle": [
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 14498,
+ "token_ein": 21020,
+ "token_aus": 13910,
+ "usage": {
+  "input_tokens": 9,
+  "cache_creation_input_tokens": 13883,
+  "cache_read_input_tokens": 7128,
+  "output_tokens": 13910,
+  "output_tokens_details": {
+   "thinking_tokens": 8738
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 13883,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 9,
+    "output_tokens": 13910,
+    "cache_read_input_tokens": 7128,
+    "cache_creation_input_tokens": 13883,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 13883
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.0980378,
+ "sekunden": 107,
+ "fehler": false,
+ "zeit": "2026-10-17T13:14:00"
+}

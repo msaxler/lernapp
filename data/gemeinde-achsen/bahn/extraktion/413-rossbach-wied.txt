@@ -1,0 +1,882 @@
+ENTITÄT: ort
+BEZEICHNUNG: Roßbach
+EIGENSCHAFTEN:
+  ersterwahnung: 1307
+  ursprung: Hof der Waldbreitbacher Deutschherren
+  ursprung_ungefaehr_jahr: 1250
+  status: staatlich anerkannter Luftkurort
+  ist_kreisstadt: false
+GUELTIG_AB: 1250
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Roßbach
+EIGENSCHAFTEN:
+  verwaltungstyp: Ortsgemeinde
+  landkreis: Landkreis Neuwied
+  bundesland: Rheinland-Pfalz
+  verbandsgemeine: Verbandsgemeinde Rengsdorf-Waldbreitbach
+  lage_fluss: an der Wied
+  lage_region: Rande des Westerwaldes, Mittleres Wiedtal
+  naehe_grossstaedte: Koblenz, Bonn, Köln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Gemeinde Roßbach
+EIGENSCHAFTEN:
+  entstehung_jahr: 2002
+  typ: redendes Wappen
+  beschreibung: Blau mit zwei halbkreisförmigen eingebogenen silbernen Flanken, rechts schwarzes Balkenkreuz, links sich aufbäumendes schwarzes Pferd
+  symbolik_farbe_blau: Wied
+  symbolik_balkenkreuz: Kurköln (552-jähriger Einfluss)
+  symbolik_pferd: Ross
+  symbolik_gesamt: Gemeindenamen Roßbach darstellend
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: territoriale_zugehoerigkeit
+BEZEICHNUNG: Kurköln
+EIGENSCHAFTEN:
+  zeitraum: 1250-1802
+  dauer_jahre: 552
+  einfluss_bereiche: Sprache, Kultur
+GUELTIG_AB: 1250
+GUELTIG_BIS: 1802
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Hof Buchenau
+EIGENSCHAFTEN:
+  ersterwahnung: 1459
+GUELTIG_AB: 1459
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle Roßbach
+EIGENSCHAFTEN:
+  ersterwahnung: 1578
+GUELTIG_AB: 1578
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Hof Spreitchen
+ORTSTEIL_BEZUG: Spreitchen
+EIGENSCHAFTEN:
+  ersterwahnung: 1578
+GUELTIG_AB: 1578
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Hof der Commende
+EIGENSCHAFTEN:
+  ersterwahnung: 1660
+GUELTIG_AB: 1660
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Hof der Braunsberger
+ORTSTEIL_BEZUG: Nieder- und Oberbuchenau
+EIGENSCHAFTEN:
+  ersterwahnung: 1660
+GUELTIG_AB: 1660
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Höfe Reifert
+ORTSTEIL_BEZUG: Reifert
+EIGENSCHAFTEN:
+  anzahl: 3
+  ersterwahnung: 1660
+GUELTIG_AB: 1660
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Hof Scheuerchen
+ORTSTEIL_BEZUG: Scheuerchen
+EIGENSCHAFTEN:
+  ersterwahnung: 1670
+GUELTIG_AB: 1670
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: muehle
+BEZEICHNUNG: Erste Mühle Roßbach
+EIGENSCHAFTEN:
+  ersterwahnung: 1742
+  erbauer: Hermann Schmitz
+GUELTIG_AB: 1742
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Lache
+ORTSTEIL_BEZUG: Lache
+EIGENSCHAFTEN:
+  ersterwahnung: 1758
+  ursprung: Aussiedlerhof
+GUELTIG_AB: 1758
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle Reifert
+ORTSTEIL_BEZUG: Reifert
+EIGENSCHAFTEN:
+  ersterwahnung: 1767
+GUELTIG_AB: 1767
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: schulhaus
+BEZEICHNUNG: Erstes Schulhaus Roßbach
+EIGENSCHAFTEN:
+  erstellung: 1824
+GUELTIG_AB: 1824
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: schulhaus
+BEZEICHNUNG: Schulhaus Roßbach (Neubau)
+EIGENSCHAFTEN:
+  neubau: 1899
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: basaltabbau
+BEZEICHNUNG: Basaltabbau Roßbacher-Häubchen
+EIGENSCHAFTEN:
+  beginn: 1883
+  ende: 1941 oder 1942
+  genauigkeit: ungefaehr
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Roßbach
+EIGENSCHAFTEN:
+  gaeste_uebernachtungen_1938: 20000
+  genauigkeit: mehr als
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Roßbach
+EIGENSCHAFTEN:
+  status: staatlich anerkannter Luftkurort
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: campinganlage
+BEZEICHNUNG: Campinganlage Roßbach
+EIGENSCHAFTEN:
+  neubau: 1970
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Roßbach
+EIGENSCHAFTEN:
+  gaeste_uebernachtungen_1971: 66883
+  fremdenbetten_1971: 415
+GUELTIG_AB: 1971
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: Katholischer Kindergarten Roßbach
+EIGENSCHAFTEN:
+  erstellung: 1972
+  konfession: katholisch
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schule Roßbach
+EIGENSCHAFTEN:
+  schließung: 1973
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Waldfriedhof
+EIGENSCHAFTEN:
+  neubau: 1980
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: friedhofskapelle
+BEZEICHNUNG: Friedhofskapelle Waldfriedhof
+EIGENSCHAFTEN:
+  neubau: 1993
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: urnenwand
+BEZEICHNUNG: Urnenwand Waldfriedhof
+EIGENSCHAFTEN:
+  neubau: 2002
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: radweg_und_fussweg
+BEZEICHNUNG: Rad- und Fußweg nach Waldbreitbach
+EIGENSCHAFTEN:
+  neubau: 1994
+  erweiterung: 2018
+  erweiterung_ziel: Arnsau
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: dienstleistungszentrum
+BEZEICHNUNG: Alte Schule / Dienstleistungszentrum Roßbach
+EIGENSCHAFTEN:
+  umbau: 2001
+  nutzung: Arztpraxis, Sparkasse, Jugendraum, Gemeindearchiv, Wohnungen
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://www.rossbach-wied.de/unser-dorf/geschichte/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Sankt Michael
+EIGENSCHAFTEN:
+  bauzeit: 1864-1866
+  konfession: katholisch
+  lage: Herzen von Roßbach
+GUELTIG_AB: 1864
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+QUELLE: https://www.rossbach-wied.de/unser-dorf/kirche/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Sankt Michael
+EIGENSCHAFTEN:
+  beschaedigung_2_weltkrieg: Bombardierungen
+  wiederaufbau_dauer_ungefaehr: gut ein Jahr
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/kirche/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Sankt Michael
+EIGENSCHAFTEN:
+  renovierung_chorraum: 1967
+GUELTIG_AB: 1967
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/kirche/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Sankt Michael
+EIGENSCHAFTEN:
+  aussenbereich_neugestaltung_beginn: Anfang 70er Jahre
+  innensanierung: 1978
+GUELTIG_AB: 1970
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/kirche/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Sankt Michael
+EIGENSCHAFTEN:
+  generalsanierung: 1993
+  neubau_kirchturm: 1993
+  eigenanteil_buerger: 40000 [DM]
+  genauigkeit_eigenanteil: ca.
+GUELTIG_AB: 1993
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/kirche/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Sankt Michael
+EIGENSCHAFTEN:
+  innensanierung: 1998
+GUELTIG_AB: 1998
+GUELTIG_BIS: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+QUELLE: https://www.rossbach-wied.de/unser-dorf/kirche/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Sankt Michael
+EIGENSCHAFTEN:
+  aussenbereich_neugestaltung: 2016
+  jubilaeumsjahr: 150. Geburtstag
+  festlichkeiten_datum: 14.-15. Mai 2016
+GUELTIG_AB: 2016
+GUELTIG_BIS: 2016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/kirche/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: buegermeister
+BEZEICHNUNG: Thomas Boden
+EIGENSCHAFTEN:
+  amt: Ortsbürgermeister
+  wahl_datum: 9.6.2024
+  partei: CDU
+  wahl_prozent_2024: 61,1
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+QUELLE: https://www.rossbach-wied.de/rat-verwaltung/ortsburgermeister/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: beigeordneter
+BEZEICHNUNG: Jörg Gries
+EIGENSCHAFTEN:
+  wahl_datum: 1.7.2024
+  rang: 1. Beigeordneter
+  typ: ehrenamtlich
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+QUELLE: https://www.rossbach-wied.de/rat-verwaltung/ortsburgermeister/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: beigeordneter
+BEZEICHNUNG: Kirsten Heumann
+EIGENSCHAFTEN:
+  wahl_datum: 1.7.2024
+  rang: 2. Beigeordnete
+  typ: ehrenamtlich
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+QUELLE: https://www.rossbach-wied.de/rat-verwaltung/ortsburgermeister/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: beigeordneter
+BEZEICHNUNG: Günter Fröhlich
+EIGENSCHAFTEN:
+  wahl_datum: 1.7.2024
+  rang: 3. Beigeordneter
+  typ: ehrenamtlich
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+QUELLE: https://www.rossbach-wied.de/rat-verwaltung/ortsburgermeister/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Reifert
+ORTSTEIL_BEZUG: Reifert
+EIGENSCHAFTEN:
+  lage: westliche Höhe, Richtung Linz am Rhein, Westen von Roßbach
+  charakterisierung: größter Nebenort
+  entwicklung: junge Familien
+  besonderheit: Aussicht auf Wallbach- und Wiedtal
+  infrastruktur: Dorfgemeinschaftshaus, Kapelle
+  wahrzeichen: Kapelle in Ortsmitte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://www.rossbach-wied.de/unser-dorf/ortsteile/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Spreitchen
+ORTSTEIL_BEZUG: Spreitchen
+EIGENSCHAFTEN:
+  ursprung: kleine landwirtschaftliche Betriebe
+  lage: abseits der L256, zwischen Roßbach (ca. 2 km) und Reifert (ca. 1 km)
+  besonderheit: Hanglage mit Blick auf Wiedtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://www.rossbach-wied.de/unser-dorf/ortsteile/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Scheuerchen
+ORTSTEIL_BEZUG: Scheuerchen
+EIGENSCHAFTEN:
+  ursprung: ehemals kleine Gehöfte
+  nutzung_heute: Wohnzwecke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/ortsteile/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schimmelshahn
+ORTSTEIL_BEZUG: Schimmelshahn
+EIGENSCHAFTEN:
+  ursprung: ehemals kleine Gehöfte
+  nutzung_heute: Wohnzwecke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/ortsteile/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lache
+ORTSTEIL_BEZUG: Lache
+EIGENSCHAFTEN:
+  ursprung: ehemals landschaftlich geprägt, Aussiedlerhof
+  entwicklung_durch: phantasiereicher Bürger
+  entwickler: Charly Reuschenbach
+  entwickler_status_2006: verstorben
+  entwicklung_ergebnis: Ferienhausgebiet mit See und Gaststätte
+  gastaette: Lacher Stall
+  charakterisierung: beliebter Wohnort
+  neubewohner: viele Zugereiste
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/ortsteile/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Niederbuchenau
+ORTSTEIL_BEZUG: Niederbuchenau
+EIGENSCHAFTEN:
+  lage: unmittelbar an der Wied
+  infrastruktur: 3-Sterne-Hotel mit Restaurant
+  hotel_name: PRIMA Hotel Strandcafé
+  charakterisierung: beliebter Wohnort
+  attraktion: ruhige und schöne Wohnlage, Besucher am Wochenende
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/ortsteile/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: campingplatz
+BEZEICHNUNG: Wiedbogen
+ORTSTEIL_BEZUG: Niederbuchenau
+EIGENSCHAFTEN:
+  lage: Wiedbogen, gegenüber von Niederbuchenau
+  besonderheit: Landeplatz für Drachenflieger und Paraglider
+  nutzung_flieger: Finkenberg starten, lange Flugzeiten durch günstige Thermik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/ortsteile/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberbuchenau
+ORTSTEIL_BEZUG: Oberbuchenau
+EIGENSCHAFTEN:
+  ursprung: stattlicher landwirtschaftlicher Betrieb mit eigener Stromversorgung
+  entwicklung: idyllische Wohnanlage
+  infrastruktur: eigene Abwasserversorgung, erneuerbare Energien
+  charakterisierung: vorbildlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://www.rossbach-wied.de/unser-dorf/ortsteile/ | Gemeinde-Webseite
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Roßbacher Häubchen
+EIGENSCHAFTEN:
+  typ: ehemaliger Basalttagebau
+  geographie: Fuße von Roßbach, am Rande des Westerwaldes
+  verwaltung: gehört zu Gemeinde Breitscheid, behält aber Namen von Roßbach
+  infrastruktur: Lehrpfad, Schleife des Westerwaldsteigs
+  wanderziel: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: nachbarort
+BEZEICHNUNG: Neustadt (Wied)
+EIGENSCHAFTEN:
+  richtung: Norden
+  relation: Nachbarort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: nachbarort
+BEZEICHNUNG: Breitscheid
+EIGENSCHAFTEN:
+  richtung: Osten
+  relation: Nachbarort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: nachbarort
+BEZEICHNUNG: Waldbreitbach
+EIGENSCHAFTEN:
+  richtung: Süden
+  relation: Nachbarort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: nachbarort
+BEZEICHNUNG: Hausen (Wied)
+EIGENSCHAFTEN:
+  richtung: Südwesten
+  relation: Nachbarort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: nachbarort
+BEZEICHNUNG: Dattenberg
+EIGENSCHAFTEN:
+  richtung: Westen
+  lage: am Rhein
+  relation: Nachbarort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: gemeinderat
+BEZEICHNUNG: Gemeinderat Roßbach
+EIGENSCHAFTEN:
+  mitglieder_anzahl: 16
+  mitglieder_plus_buergermeister: 17
+  wahl_datum: 9. Juni 2024
+  wahlverfahren: personalisierte Verhältniswahl
+  sitze_cdu: 10
+  sitze_bfr: 6
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: dialekt
+BEZEICHNUNG: Roßbacher Dialekt
+EIGENSCHAFTEN:
+  name: Roßbe Platt
+  sprache: moselfränkisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Sportgelände Roßbach
+EIGENSCHAFTEN:
+  einrichtungen: Fußballplatz, beleuchtet Kunstrasenplatz, 4 Tennisplätze, Schießsporthalle
+  schiesssporthalle_stände: 10 elektronische Stände für Luftdruckwaffen
+  weitere_einrichtungen: Bouleplatz, Kleinkaliber-Stand im Masbachtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: startplatz
+BEZEICHNUNG: Gleitschirmstartplatz Finkenberg
+ORTSTEIL_BEZUG: Finkenberg
+EIGENSCHAFTEN:
+  typ: offizieller Gleitschirmstartplatz
+  ausrichtung: Süd
+  lage: oberhalb des Hotels Strand-Cafe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Wied-Radweg
+EIGENSCHAFTEN:
+  streckenverlauf_start: Rotenhain (Gebiet der Westerwälder Seenplatte)
+  streckenverlauf_ende: Mündung bei Neuwied
+  oberflaeche: weitgehend asphaltiert bzw. gepflastert
+  verhalten_zu_motorisiertem_verkehr: größtenteils (nicht durchgehend) getrennt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: infrastruktur_strasse
+BEZEICHNUNG: Autobahn A 3
+EIGENSCHAFTEN:
+  ausfahrten_naechst: Neustadt (Wied), Bad Honnef/Linz
+  entfernung_ungefaehr: wenige Minuten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: infrastruktur_strasse
+BEZEICHNUNG: Bundesstraße B 42
+EIGENSCHAFTEN:
+  verbindung: von Linz am Rhein zu Koblenz, Bonn, Köln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Linz (Rhein)
+EIGENSCHAFTEN:
+  strecke: rechte Rheinstrecke
+  naechstgelegener_zu: Roßbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: schnellfahrstrecke
+BEZEICHNUNG: Schnellfahrstrecke Köln–Rhein/Main
+EIGENSCHAFTEN:
+  naechster_bahnhof: Siegburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Roßbach
+EIGENSCHAFTEN:
+  typ: Feuerwehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Karnevalsclub "Blau-Weiß" Roßbach
+EIGENSCHAFTEN:
+  typ: Karnevalsclub
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Kolpingsfamilie Reifert
+ORTSTEIL_BEZUG: Reifert
+EIGENSCHAFTEN:
+  typ: Kolpingsfamilie
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Möhnenverein Roßbach
+EIGENSCHAFTEN:
+  typ: Möhnenverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Sportverein Roßbach/Verscheid
+EIGENSCHAFTEN:
+  typ: Sportverein
+  sport: Fußball
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: St. Hubertus Schützenbruderschaft Roßbach 1881 e. V.
+EIGENSCHAFTEN:
+  typ: Schützenbruderschaft
+  gruendung: 1881
+  weitere_organisation: Tambourcorps
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Tennisverein Roßbach
+EIGENSCHAFTEN:
+  typ: Tennisverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Funkengarde Roßbach
+EIGENSCHAFTEN:
+  typ: Funkengarde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Drachen- und Gleitschirmfliegerclub Siebengebirge e. V.
+EIGENSCHAFTEN:
+  typ: Drachen- und Gleitschirmfliegerclub
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Land schafft Verbindung Westerwald Taunus e. V.
+EIGENSCHAFTEN:
+  typ: Landwirtschaftlicher Interessensverbund
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+QUELLE: https://de.wikipedia.org/wiki/Roßbach_(Wied) | Wikipedia

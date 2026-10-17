@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "417-wolfenacker",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 18489,
+ "token_ein": 474951,
+ "token_aus": 9837,
+ "usage": {
+  "input_tokens": 24,
+  "cache_creation_input_tokens": 43393,
+  "cache_read_input_tokens": 431534,
+  "output_tokens": 9837,
+  "output_tokens_details": {
+   "thinking_tokens": 4422
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 43393,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 4884,
+    "cache_read_input_tokens": 47950,
+    "cache_creation_input_tokens": 2345,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 2345
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.0252147999999999,
+ "sekunden": 157,
+ "fehler": false,
+ "zeit": "2026-10-17T13:30:26"
+}

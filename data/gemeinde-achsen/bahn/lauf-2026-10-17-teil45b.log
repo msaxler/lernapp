@@ -1,0 +1,49 @@
+Orte: 411-ehlscheid 412-kurtscheid 413-rossbach-wied 414-hausen-wied 415-breitscheid-westerwald 416-kloster-marienhaus 417-wolfenacker
+== Extraktion (Haiku) 13:12:13
+411-ehlscheid        extraktion ein  19544  aus  16963   0.11 USD   129 s  claude-haiku-4-5-20251001
+412-kurtscheid       extraktion ein  21387  aus  23825   0.15 USD   182 s  claude-haiku-4-5-20251001
+413-rossbach-wied    extraktion ein  23488  aus  22083   0.14 USD   142 s  claude-haiku-4-5-20251001
+414-hausen-wied      extraktion ein  21020  aus  13910   0.10 USD   107 s  claude-haiku-4-5-20251001
+415-breitscheid-westerwald extraktion ein  22715  aus   1822   0.04 USD    18 s  claude-haiku-4-5-20251001
+416-kloster-marienhaus extraktion ein  32707  aus  10134   0.10 USD    72 s  claude-haiku-4-5-20251001
+417-wolfenacker      extraktion ein  17757  aus   4685   0.05 USD    33 s  claude-haiku-4-5-20251001
+zusammen: 18296 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+411-ehlscheid      18139 Zeichen
+412-kurtscheid     19517 Zeichen
+413-rossbach-wied   31289 Zeichen
+414-hausen-wied    20371 Zeichen
+415-breitscheid-westerwald    8129 Zeichen
+416-kloster-marienhaus   17082 Zeichen
+417-wolfenacker    10641 Zeichen
+== Karten (claude-opus-5-5) 13:15:16
+411-ehlscheid        karten     ein  37606  aus  32004   0.89 USD   274 s  claude-opus-5-5
+412-kurtscheid       karten     ein  38237  aus  30824   0.87 USD   269 s  claude-opus-5-5
+413-rossbach-wied    karten     ein  46380  aus  34248   1.00 USD   298 s  claude-opus-5-5
+414-hausen-wied      karten     ein  38689  aus  33317   0.92 USD   285 s  claude-opus-5-5
+415-breitscheid-westerwald karten     ein  30933  aus  21476   0.62 USD   184 s  claude-opus-5-5
+416-kloster-marienhaus karten     ein  36331  aus  30090   0.84 USD   258 s  claude-opus-5-5
+417-wolfenacker      karten     ein  32540  aus  34808   0.90 USD   299 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 13:24:43
+411-ehlscheid        pruefung   ein  40293  aus   7398   0.42 USD    69 s  claude-opus-5-5
+412-kurtscheid       pruefung   ein  43487  aus   7598   0.45 USD    72 s  claude-opus-5-5
+413-rossbach-wied    pruefung   ein  52150  aus   9890   0.56 USD    91 s  claude-opus-5-5
+414-hausen-wied      pruefung   ein  40912  aus   5030   0.37 USD    46 s  claude-opus-5-5
+415-breitscheid-westerwald pruefung   ein  38933  aus   3142   0.32 USD    32 s  claude-opus-5-5
+416-kloster-marienhaus pruefung   ein  60526  aus  10595   0.64 USD    97 s  claude-opus-5-5
+417-wolfenacker      pruefung   ein  34842  aus   5278   0.33 USD    49 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 13:26:52
+411-ehlscheid        stufe2     ein 369493  aus   7522   1.04 USD   136 s  claude-opus-5-5,claude-haiku-4-5-20251001
+412-kurtscheid       stufe2     ein 338093  aus  10297   0.77 USD   143 s  claude-opus-5-5,claude-haiku-4-5-20251001
+413-rossbach-wied    stufe2     ein 151131  aus   3722   0.33 USD    57 s  claude-opus-5-5,claude-haiku-4-5-20251001
+414-hausen-wied      stufe2     ein 485589  aus   9874   1.04 USD   136 s  claude-opus-5-5,claude-haiku-4-5-20251001
+415-breitscheid-westerwald FEHLER keine Karte an Stufe 2 – kein Lauf
+416-kloster-marienhaus stufe2     ein 702092  aus  17388   1.56 USD   248 s  claude-opus-5-5,claude-haiku-4-5-20251001
+417-wolfenacker      stufe2     ein 474951  aus   9837   1.03 USD   157 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 13:30:59
+Urteile: {'korrigiert': 1228, 'bestätigt': 2083, 'unsicher': 281, 'gesperrt': 114} | im Vorrat: 3592 Karten an 417 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     417 Orte, 3592 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 4315010 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 13:31:01

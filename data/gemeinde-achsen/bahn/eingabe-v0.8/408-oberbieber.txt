@@ -1,0 +1,479 @@
+ZIELORT: Oberbieber (Ortsteil von Neuwied)
+LAGE: Stadtteil von Neuwied; 14 km nördlich von Koblenz (Luftlinie)
+ARTIKEL: Oberbieber
+
+GRUNDDATEN:
+  landkreis: Landkreis Neuwied — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P131]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 4882  [dewiki Infobox, Stand 2026-07-06]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P395]
+  hoehe_m: 100 | 102  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2861261)]
+  naechste_grossstadt: Koblenz, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 78 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1970-11-07  [dewiki Infobox]
+  plz: 56566  [Wikidata P281]
+  vorwahl: 02631  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,1 %, AfD 23,5 %, SPD 20,5 %, GRÜNE 8,2 %, Die Linke 7,3 %, BSW 5,7 %; Wahlbeteiligung 77,4 % — GILT FÜR DIE GEMEINDE NEUWIED  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT eingemeindung: Jahr der Eingemeindung (Ersatz: Luftlinie zur Landeshauptstadt), C, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Niederbreitbach (Gemeinde)
+  landkreis: Neuwied  [dewiki Infobox]
+  einwohner: 1527  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 8,53  [Wikidata P2046]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 120 | 130 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2863574)]
+  naechste_grossstadt: Koblenz, 23 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35,2 %, AfD 18,9 %, SPD 16,3 %, GRÜNE 10,8 %, Die Linke 5,2 %; Wahlbeteiligung 86,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Ebnet, Littenweiler, Merzhausen, Au, Ebringen, Schallstadt, Bad Krozingen, Heitersheim, Müllheim, Waldkirch, Hochdorf, March, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker
+
+FAKTEN (Zielort Oberbieber):
+ID: 408-oberbieber/001
+ENTITÄT: ort
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: an bewaldeten Hügeln des Westerwalds, wo der Aubach in Richtung Neuwieder Becken fließt
+  verbindung_nachbarort: locker mit Niederbieber durch Bebauung verbunden
+  namensherkunft: vom Aubach, in Urkunde 857 als "biuira" bezeichnet (Biberbach)
+  erste_urkundliche_erwahnung_ort: 1021
+  grund_erste_erwahnung: Schenkungsurkunde Kaiser Heinrich II. für Stift Dietkirchen
+  marktplatze_fruher: drei Jahrmärkte auf Hermesplatz unter alten Eichen
+  marktplatz_verlagerung: 1662 durch Graf Friedrich nach Neuwied
+  grund_marktverlagerung: Stadtrechtsprivileg für neue Residenzstadt Neuwied
+  wasserkraft_bedeutung: Wasserkraft des Aubachs spielte bedeutende Rolle für Entwicklung
+  muhlenanzahl: zahlreiche seit Beginn 19. Jahrhundert
+  gewerbe: Töpferei, Lohgerberei, Weinbau
+  weinanbau_ende: gegen Ende 19. Jahrhundert noch Reben auf Wingertsberg
+GUELTIG_AB: 857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 408-oberbieber/002
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  status_aktuell: Stadtteil von Neuwied
+  frueher_status: eigenständige Ortsgemeinde
+  eingemeindung_datum: 7. November 1970
+  lage_distanz_stadtkern: ca. 7 km nördlich
+  lage_region: Nordrand Neuwieder Becken, Fuße Westerwalds
+  strasse_ehemalig: Bundesstraße 256
+  strasse_aktuell: L 260
+  fernwanderwege: Deutsche Limesstraße, Historische Raiffeisenstraße, Rheinsteig
+  nachbarortschaften: Anhausen, Gladbach, Niederbieber, Melsbach, Rengsdorf
+  namensherkunft_aubach: vermutlich Biberbach oder braunes Sumpfwasser (Eisenoxid von Eisenerzadern)
+  historische_schreibweisen: Bivera (1021), Biverne (1204), Oberbiberne (1263), Byvern (1328), Ober-Blieberen (1359), Bevern (1376), Ober-Beveren (1404), Bieber (1560), Dorff Oberbivern (1613)
+  herrschaft_bis_1315: Stift Dietkirchen
+  herrschaft_1315_bis_1575: Abtei Rommersdorf
+  herrschaft_ab_1575: Grafschaft Wied (Graf Johann IV. zu Wied)
+  pest_vorkommen: um 1390 und 1664
+  kriegsschaeden_1582: Erzbischof Gebhard I. von Waldburg richtete Schäden an
+  dreissigjahrigerkrieg_verhaeltnisse: 1639 Schweden plünderten, über Hälfte der Einwohner starb
+  kirche_zerstoerung: 1673 durch Truppen Ludwig XIV., Wiederaufbau 1758
+  franzoesische_revolutionary_verheuerungen: 1794 und 1797
+  weinanbau_enddatum: 1830
+  infrastruktur_bruennen_fruher: 7 öffentliche Brunnen
+  infrastruktur_hausbrunnen_fruher: über 30 bekannt
+  wasserleitung_jahr: 1890
+  elektrizitaet_jahr: 31. Januar 1912 (Friedrich-Ebert-Schule)
+  elektrische_bahn_start: 19. Juli 1901
+  elektrische_bahn_frequenz: halbstündlich nach Neuwied
+  elektrische_bahn_fahrpreis: 21 Pfennig
+  busumstellung_datum: Ende Oktober 1950
+  busumstellung_fahrpreis: 35 Pfennig
+  industrie_unternehmen: Rech-Laternen (seit 2. Weltkrieg), einer der bedeutendsten Außenlaternen-Hersteller in Deutschland
+  herrschaft_bis_1806: Grafschaft Wied bzw. seit 1784 Fürstentum Wied-Neuwied
+  herrschaft_1806_bis_1815: Herzogtum Nassau
+  herrschaft_ab_1815: Königreich Preußen
+  verwaltungskreis: Standesherrlicher Kreis Neuwied (Regierungsbezirk Koblenz, ab 1822 Rheinprovinz)
+  verwaltung_durch: Bürgermeisterei Heddesdorf
+  standesherrlicher_sonderstatus_bis: 1848
+  landeszugehoerigkeit_ab_1946: Rheinland-Pfalz
+  verwaltungsreform_datum: 7. November 1970 (Achtes Landesgesetz vom 28. Juli 1970)
+  ortsbeirat_ortsvorsteher_datum: 22. Januar 1971
+GUELTIG_AB: 857
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 408-oberbieber/003
+ENTITÄT: stift
+BEZEICHNUNG: Dietkirchen
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zugehoerigkeit: Nonnenkloster des hl. Petrus, Bonner Vorstadt
+  erwerb_oberbieber: 10. August 1021 durch Schenkung Kaiser Heinrichs II.
+  veraeusserung_oberbieber: knapp 300 Jahre später (ca. 1315) an Abtei Rommersdorf im Tausch gegen Gut in Oberwinter
+GUELTIG_AB: 1021
+GUELTIG_BIS: 1315
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 408-oberbieber/004
+ENTITÄT: abtei
+BEZEICHNUNG: Rommersdorf
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerb_oberbieber: ca. 1315 von Stift Dietkirchen im Tausch gegen Gut in Oberwinter
+  grund_erwerb: Tausch
+  veraeusserung_kirche: überließ Kirche an Grafen zu Wied im Tausch gegen Kircheneinkünfte in Engers
+  konflikt_isenburger: konnte sich in Oberbieber nicht gegen Isenburger von Burg Braunsberg durchsetzen (Vogteirecht)
+GUELTIG_AB: 1315
+GUELTIG_BIS: 1575
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 408-oberbieber/005
+ENTITÄT: burg
+BEZEICHNUNG: Braunsberg
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  lage: außerhalb Stadtteils Oberbieber, auf Gemarkung Ortsgemeinde Anhausen
+  bauzeit: um 1200
+  bauepochen_vorhanden: Isenburger (Vogteirecht), später fürstlich-wiedische Forstverwaltung
+  heutige_nutzung: Revierförsterei der fürstlich-wiedischen Forstverwaltung
+  geschichtliche_dokumentation: in letzten Jahren intensiver dokumentiert durch Historiker
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 408-oberbieber/006
+ENTITÄT: kapelle
+BEZEICHNUNG: Nikolauskapelle
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  patron: heiliger Nikolaus
+  bauzeit: 1050-1100
+  bauherr: Stift Dietkirchen
+  architektur: romanische, zweigeschossige Apsis
+  historische_bedeutung: Apsis noch als Chor in heutiger Evangelischer Kirche erhalten
+  aelteste_baudenkmal: ältestes kirchliches Baudenkmal im Landkreis Neuwied
+  weitergabe_abtei_rommersdorf: 1315
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 408-oberbieber/007
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Oberbieber
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  lage: auf Fundamenten der Nikolauskapelle aus 11. Jahrhundert
+  baugeschichte_turme: erste Hälfte 13. Jahrhundert zwei viergeschossige spätromanische Türme errichtet
+  schadensfall_1673: 1673 durch Truppen Ludwig XIV. vollständig zerstört
+  wiederaufbau_datum: 1758 (85 Jahre nach Zerstörung)
+  baugeschichte_kirchenschiff: zweite Hälfte 18. Jahrhundert Kirchenschiff durch einschiffiges Langhaus mit flacher Decke und je drei Rundbogenfenstern ersetzt
+  nordturm_geschichte: 17. Jahrhundert bei Brandschatzung beschädigt und abgerissen
+  sakristei_anbau: 1935 an Stelle des ehemaligen Nordturms
+  superlativ: ältestes kirchliches Baudenkmal im Landkreis Neuwied
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 408-oberbieber/008
+ENTITÄT: fluss
+BEZEICHNUNG: Aubach
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensform_mittelalter: "biuira" (in Urkunde 857)
+  bedeutung_name: Biberbach oder braunes Sumpfwasser
+  funktion: Wasserkraft für Entwicklung Oberbiebers
+  maehlen_anzahl: zahlreiche Mühlen seit Beginn 19. Jahrhundert
+GUELTIG_AB: 857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 408-oberbieber/009
+ENTITÄT: berg
+BEZEICHNUNG: Wingertsberg
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weinanbau: Reben noch gegen Ende 19. Jahrhundert vorhanden
+  nachweisbarkeit_wingerte: nachweisbar bis 1912
+  flurname_1: "Im Weinbergsberg"
+  flurname_2: "Auf dem Weinbergsberg"
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 408-oberbieber/010
+ENTITÄT: siehe_auch
+BEZEICHNUNG: Wingertsberg
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  limes_wachturm_rekonstruktion: Rekonstruktion 1970 auf Kuppe
+  wachturm_original_wp1_37: Grundmauern erhalten, heute überbaut
+  wachturm_original_wp1_38: benachbart, im Gelände erkennbar
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 408-oberbieber/011
+ENTITÄT: see
+BEZEICHNUNG: Aubach-Stausee
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb der Reitsportanlagen an Einmündung des Engelsbachtales
+  uebergabe_oeffentlich: Juli 1971
+  wasserinhalt_normal: 20000 Kubikmeter
+  tiefe_normal: 3,4 Meter
+  wasserinhalt_aufgestaut: 50000 Kubikmeter
+  tiefe_aufgestaut: 4,7 Meter
+  funktion: Wasserregulierung Aubach und Naherholungsgebiet
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 408-oberbieber/012
+ENTITÄT: see
+BEZEICHNUNG: Aubach-Stausee
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  auch_bekannt_als: "Schwanenteich"
+  grund_namengebung: Name älter als Stausee, bezog sich auf kleinen Teich seitlich des heutigen Stausees
+  tierwelt: Schwäne leben auf Stausee
+  funktion: Wasserregulierung Aubach und Naherholungsgebiet der Stadt Neuwied
+  uebergabe_oeffentlich: Juli 1971
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 408-oberbieber/013
+ENTITÄT: muhle
+BEZEICHNUNG: Abtsmühle
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  aelteste: älteste der 10 Wassermühlen
+  besitzer_frueh: mehrere Jahrhunderte Klöster Wülfersberg oder Rommersdorf
+  nutzungsfolge: Papiermühle, Knochenmühle, Walkmühle
+  superlativ: älteste unter 10 Wassermühlen
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 408-oberbieber/014
+ENTITÄT: muhle
+BEZEICHNUNG: Kupferhammer (später Farbmühle Jüngst)
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  funktion_frueh: Kupferhammer
+  rohstoff: Kupfer auch aus Stollen im Aubachtal
+  abbruch_datum: ca. 1955
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 408-oberbieber/015
+ENTITÄT: muhle
+BEZEICHNUNG: Paulsmühle (auch Freundsmühle)
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nicht weit vom Restaurant am Eingang Engelsbachtales
+  brand_datum: 1893
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1893
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 408-oberbieber/016
+ENTITÄT: industrieanlage
+BEZEICHNUNG: Silberschmelzhütte
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am oberen Ende Aubach-Stausees beim Waldhaus Musikverein "Eintracht", Fuß Windelberges
+  zeit: 19. Jahrhundert
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 408-oberbieber/017
+ENTITÄT: platz
+BEZEICHNUNG: Hermesplatz
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  lage: nördlicher Ortsausgang unter uralten Eichen
+  namensbedeutung: Name deutet auf griechischen Götterboten Hermes, Gott des Handels
+  funktion_historisch: ältester bekannter Handelsplatz der Grafschaft Wied-Neuwied
+  maerktezeit: Bedeutendste Märkte der Grafschaft bis Mitte 17. Jahrhundert
+  marktverlagerung: 1662 durch Graf Friedrich III. von Neuwied verlegt (Stadtrechtsprivileg Neuwied vom 1662)
+  gerichtsfunktion: auch Gerichtsstätte
+  nutzung_modern: Park- und Buswendeplatz
+  namenszusatz_modern: "Unter den Eichen" (seit Ende Zweiter Weltkrieg, als Jugendheim zur Steppdeckenfabrik umgebaut)
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 408-oberbieber/018
+ENTITÄT: denkmal
+BEZEICHNUNG: Limes-Wachturmrekonstruktion
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_datum: Ende 1960er Jahre
+  lage: auf Kuppe Wingertsberges
+  grund_errichtung: Denkmal für historische Grenze
+  historische_periode: erste bis dritte Jahrhundert n.Chr.
+  orientierung_original: entspricht Reliefdarstellungen aus Antike
+  original_befund: Grundmauern im Boden erhalten, heute überbaut, originaler Turm von Kuppe entfernt
+  turmbeschreibung: kleine, meist viereckige Türme zwischen 5 und 10 Meter hoch (allgemein Limes)
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 408-oberbieber/019
+ENTITÄT: limes
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  bezeichnung: Obergermanischer Limes
+  lage: verlief durch Gebiet Oberbiebers
+  historische_periode: römische Zeit
+  rekonstruktion_wachturm: 1970 auf Wingertsberg
+  befunde_wp1_37: Überreste als flacher Schutthügel erkennbar
+  befunde_wp1_38: benachbart, im Gelände auszumachen
+  wanderweg: Limeswanderweg erschließt ehemalige Grenze zwischen Römischem Reich und Germanien
+GUELTIG_AB: 1
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 408-oberbieber/020
+ENTITÄT: garten
+BEZEICHNUNG: Klimagarten Oberbieber
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  lage: Hochstraße
+  schirmherrschaft: Neuwieder Verein Rethink e. V.
+  betreuer: Vereinsmitglieder und ortsansässige Bürger
+  ziele: praxisnahe Vermittlung Naturschutz, Umweltschutz, Stärkung Bewusstsein natürliche Abläufe
+  schwerpunkte: naturnahes und klimawandelangepasstes Gärtnern
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 408-oberbieber/021
+ENTITÄT: werk
+BEZEICHNUNG: Rech-Laternen
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  sitz_seit: Zweiter Weltkrieg in Oberbieber
+  produkt: Außenlaternen
+  bedeutung: einer der bedeutendsten Außenlaternen-Hersteller in Deutschland
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 408-oberbieber/022
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein "Eintracht"
+QUELLE: https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  waldhaus_lage: am oberen Ende Aubach-Stausees, Fuß Windelberges
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 408-oberbieber/023
+ENTITÄT: verein
+BEZEICHNUNG: VfL Oberbieber
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  sportarten: Fußball, Turnen, Gymnastik, Volleyball, Tischtennis
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 408-oberbieber/024
+ENTITÄT: verein
+BEZEICHNUNG: Heimat- und Verschönerungsverein Oberbieber
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Gesellschaftlicher Verein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 408-oberbieber/025
+ENTITÄT: gremium
+BEZEICHNUNG: Ortsbeirat Oberbieber
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  groesse: 8 Ratsmitglieder
+  wahl_datum: 9. Juni 2024
+  wahlmodus: personalisierte Verhältniswahl
+  vorsitz: ehrenamtliche Ortsvorsteherin
+  sitze_spd: 3
+  sitze_cdu: 2
+  sitze_fwg: 3
+  sitze_wgh: 0
+  sitzverteilung_jahr_2024: SPD 3, CDU 2, FWG 3, Gesamt 8
+  sitzverteilung_jahr_2019: SPD 3, CDU 2, FWG 3, Gesamt 8
+  sitzverteilung_jahr_2014: SPD 5, CDU 3, Gesamt 8
+  sitzverteilung_jahr_2009: SPD 3, CDU 3, FWG –, WGH 2, Gesamt 8
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 408-oberbieber/026
+ENTITÄT: person
+BEZEICHNUNG: Maren Dümmler
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Ortsvorsteherin Oberbieber
+  partei: SPD
+  amtsantritt: 3. September 2024
+  wahl_datum: 23. Juni 2024 (Stichwahl)
+  stimmenanteil: 54,7 %
+  gegner_stichwahl: Amtsinhaber
+  vorgaenger: Rolf Löhmar
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 408-oberbieber/027
+ENTITÄT: person
+BEZEICHNUNG: Rolf Löhmar
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Ortsvorsteher Oberbieber
+  partei: FWG
+  amtszeit: 2019-2024
+GUELTIG_AB: 2019
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 408-oberbieber/028
+ENTITÄT: person
+BEZEICHNUNG: Ingrid Ely-Herbst
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Ortsvorsteherin Oberbieber
+  partei: SPD
+  amtszeit: 2009-2019
+GUELTIG_AB: 2009
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 408-oberbieber/029
+ENTITÄT: schule
+BEZEICHNUNG: Friedrich-Ebert-Schule
+QUELLE: https://de.wikipedia.org/wiki/Oberbieber | Wikipedia
+EIGENSCHAFTEN:
+  historische_bedeutung: erste Schule mit Elektrisches Licht in Oberbieber
+  elektrizitaet_datum: 31. Januar 1912
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

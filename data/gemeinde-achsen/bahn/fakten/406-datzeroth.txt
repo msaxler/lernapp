@@ -1,0 +1,455 @@
+ID: 406-datzeroth/001
+ENTITÄT: ort
+BEZEICHNUNG: Datzeroth
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  art: Ortsgemeinde
+  landkreis: Neuwied
+  region: Norden von Rheinland-Pfalz
+  verbandsgemeinde: Rengsdorf-Waldbreitbach
+  naturpark: Rhein-Westerwald
+  gewässer: Wied
+  lage: 5 km südsüdöstlich von Waldbreitbach
+  ersterwähnung: 1219
+  ersterwähnung_name: Dazinrod
+GUELTIG_AB: 1219
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/002
+ENTITÄT: gewässer
+BEZEICHNUNG: Dombach
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  typ: Bach
+  mündung: Wied, östlich von Datzeroth
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 406-datzeroth/003
+ENTITÄT: erhebung
+BEZEICHNUNG: Friedrichsthaler Kopf
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  höhe: 268
+  höhe_einheit: m ü. NHN
+  lage: südlich von Datzeroth
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 406-datzeroth/004
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Forsthaus Friedrichsthal
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  typ: Forsthaus
+  namensherkunft: geht zurück auf Graf Friedrich III. zu Wied, Gründer der Stadt Neuwied
+  historischer_nachfolger: Schloss Friedrichstal (1640er Jahre)
+  nutzung_früher: Jagdschloss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 406-datzeroth/005
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Haus Grenzelberg
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wohnplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 406-datzeroth/006
+ENTITÄT: campingplatz
+BEZEICHNUNG: Seiferts-Au
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  namensherkunft: benannt nach einem Hofmann eines nahgelegenen ehemaligen Klosterhofs
+  lage: nördlich von Datzeroth
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 406-datzeroth/007
+ENTITÄT: klosterhof
+BEZEICHNUNG: Grenzelberg
+ORTSTEIL_BEZUG: Grenzelberg
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  träger: Augustinerinnen des Klosters St. Thomas zu Andernach
+  gewässer: Nonnenbach (Hunninbac)
+  ausstattung: Kapelle
+  gründung: 1152
+  besitz: Waldstücke zwischen Datzeroth und Grenzelberg
+GUELTIG_AB: 1152
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 406-datzeroth/008
+ENTITÄT: klosterhof
+BEZEICHNUNG: Forsthaus Nonnenbach
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  träger: Augustinerinnen von Grenzelberg
+  lage: rechte Seite der Wied, an Gemeindegrenze zu Niederbreitbach
+  status: ehemals
+GUELTIG_BIS: Reformation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 406-datzeroth/009
+ENTITÄT: weiler
+BEZEICHNUNG: Ouch
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  alternativnamen: Auch, Auche
+  etabliert: 13. Jahrhundert
+  charakterisierung: Sitz eines Rittergeschlechts
+  erste_erwähnung: 1219 (Wilhelm von Ouch)
+  ereignis: zerstört im Dreißigjährigen Krieg
+  letzte_erwähnung: 1623
+GUELTIG_AB: 1219
+GUELTIG_BIS: 1623
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/010
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Friedrichstal
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  bauherr: Graf Friedrich III. zu Wied
+  bauzeit: 1640-1649
+  typ: Jagdschloss
+  standort: Stelle des früheren Weiliers Ouch
+  schicksal: im 19. Jahrhundert niedergelegt
+GUELTIG_AB: 1640
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 406-datzeroth/011
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Altwied
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  konfession: Evangelisch
+  zugehörigkeit_datzeroth: aktuelle Kirchenzugehörigkeit
+  kirchenkreis: Wied der Evangelischen Kirche im Rheinland
+  frühere_zugehörigkeit: Rengsdorf (1583-1745), Altwied (ab 1747)
+GUELTIG_AB: 1747
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/012
+ENTITÄT: pfarrgemeinde
+BEZEICHNUNG: St. Laurentius
+ORTSTEIL_BEZUG: Niederbreitbach
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  zugehörigkeit_datzeroth: aktuelle Kirchenzugehörigkeit
+  dekanat: Rhein-Wied
+  bistum: Trier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/013
+ENTITÄT: schule
+BEZEICHNUNG: Evangelische Elementarschule Datzeroth
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  typ: Elementarschule
+  konfession: Evangelisch
+  gründung: 1817
+  schulneubau: 1854
+  umbauten: 1911
+  auflösung: 1966
+  grund_auflösung: bevorstehende Verwaltungsreform
+  erster_lehrer: Görg Matthias Fackert
+  letzter_lehrer: Gerhard Tröger
+GUELTIG_AB: 1817
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/014
+ENTITÄT: bauwerk
+BEZEICHNUNG: Vierbogige Straßenbrücke
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  material: Bruchstein
+  erbauung: 1909
+  status: Kulturdenkmal
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 406-datzeroth/015
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hofanlage
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  entstehung: 18. Jahrhundert
+  status: Kulturdenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 406-datzeroth/016
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm von Ouch
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Rittergeschlecht
+  erste_erwähnung: 1219
+  ereignis: Streit mit Augustinerinnen des Klosters St. Thomas zu Andernach
+GUELTIG_AB: 1219
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 406-datzeroth/017
+ENTITÄT: person
+BEZEICHNUNG: Dietrich von Wied
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  amt: Trierer Erzbischof und Kurfürst
+  lebensdauer: 1212-1242
+  ereignis: beendete 1219 einen Streit zwischen Wilhelm von Ouch und Einwohnern zu Datzeroth einerseits sowie Augustinerinnen des Klosters St. Thomas zu Andernach andererseits
+  entscheidung: Dingvogt (Abgaben) den Klosterfrauen zugesprochen
+GUELTIG_AB: 1219
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 406-datzeroth/018
+ENTITÄT: person
+BEZEICHNUNG: Graf Johann IV. zu Wied
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  lebensdauer: 1535-1581
+  ereignis: schloss am 28. April 1557 vor reformatorischem Hintergrund einen Vertrag mit den Frauen vom Grenzelberg
+  vertrag_inhalt: regelte strittigen Fragen des Datzerother Hundestalls und der Güter zu Kurtscheid
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 406-datzeroth/019
+ENTITÄT: person
+BEZEICHNUNG: Graf Friedrich III. zu Wied
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  lebensdauer: 1634-1698
+  rolle: Gründer der Stadt Neuwied
+  aktion: baute in den 1640er Jahren ein Jagdschloss (Schloss Friedrichstal) an der Stelle des früheren Weiliers Ouch
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 406-datzeroth/020
+ENTITÄT: person
+BEZEICHNUNG: Görg Matthias Fackert
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Lehrer
+  zeitraum: um 1820
+  schule: Evangelische Elementarschule Datzeroth
+  orden: erster Lehrer
+GUELTIG_AB: 1820
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 406-datzeroth/021
+ENTITÄT: person
+BEZEICHNUNG: Gerhard Tröger
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Lehrer
+  schule: Evangelische Elementarschule Datzeroth
+  orden: letzter Lehrer
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 406-datzeroth/022
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Runkel
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  lebensdauer: 1862-1938
+  beruf: Politiker
+  partei: DVP
+  herkunft: geboren in Datzeroth
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/023
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Linn
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteher
+  amtszeit: 1887-1919
+GUELTIG_AB: 1887
+GUELTIG_BIS: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/024
+ENTITÄT: person
+BEZEICHNUNG: Christian Börder
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteher
+  amtszeit: 1919-1925
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/025
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Runkel
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteher
+  amtszeiten: 1925-1933, 1948-1969
+GUELTIG_AB: 1925
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/026
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Pinnhammer
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteher
+  amtszeit: 1933-1945
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/027
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Rörig
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteher
+  amtszeit: 1945-1948
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/028
+ENTITÄT: person
+BEZEICHNUNG: Georg Börder
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteher
+  amtszeit: 1969-1974
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/029
+ENTITÄT: person
+BEZEICHNUNG: Fritz Müller
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteher
+  amtszeit: 1974-1984
+GUELTIG_AB: 1974
+GUELTIG_BIS: 1984
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/030
+ENTITÄT: person
+BEZEICHNUNG: Dieter Zahn
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteher
+  amtszeiten: 1984-1989, 1999-2009
+GUELTIG_AB: 1984
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/031
+ENTITÄT: person
+BEZEICHNUNG: Günter Rörig
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteher
+  amtszeit: 1989-1999
+GUELTIG_AB: 1989
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/032
+ENTITÄT: person
+BEZEICHNUNG: Kirsten Hardt
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsbürgermeisterin
+  amtszeit: 2009-2024
+  wiederwahl_2019: ja
+  stimmenanteil_2019: 94.24
+  stimmenanteil_einheit: "%"
+GUELTIG_AB: 2009
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/033
+ENTITÄT: person
+BEZEICHNUNG: Natascha Berg
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Ortsbürgermeisterin
+  amtsantritt: 2. Juli 2024
+  wahl: 9. Juni 2024
+  stimmenanteil: 71.2
+  stimmenanteil_einheit: "%"
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/034
+ENTITÄT: straße
+BEZEICHNUNG: Landesstraße 255
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  klassifizierung: Landesstraße
+  nummering: L 255
+  verlauf: durch Datzeroth
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 406-datzeroth/035
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Datzeroth
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  rechtskraft: 31. August 1966
+  entwerfer: A. Brust, Kirn
+  blasonierung: "Unter silbernem mit blauem Wellenbalken belegten Schildhaupt grüner, mit silbernem Stab gespaltener Schild; vorne goldenes Eichenblatt mit zwei Eicheln, hinten goldene Sichel"
+  symbolik_wellenbalken: Lage des Ortes im Wiedbachtal
+  symbolik_eichenblatt: waldreiche Umgebung
+  symbolik_farbe_grün: waldreiche Umgebung
+  symbolik_sichel: Ackerbau und Wiesengelände
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 406-datzeroth/036
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Datzeroth | Wikipedia
+EIGENSCHAFTEN:
+  größe: 8 Ratsmitglieder
+  plus: ehrenamtliche Ortsbürgermeisterin als Vorsitzende
+  wahlform: Mehrheitswahl
+  letzter_wahltermin: 9. Juni 2024
+  veränderung: Anzahl der Ratsmitglieder von 6 auf 8 erhöht, da Einwohnerzahl über 300
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

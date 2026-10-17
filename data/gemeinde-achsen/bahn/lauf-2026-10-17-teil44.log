@@ -1,0 +1,49 @@
+Orte: 404-niederbieber 405-segendorf 406-datzeroth 407-niederbreitbach 408-oberbieber 409-melsbach 410-hardert
+== Extraktion (Haiku) 12:48:14
+404-niederbieber     extraktion ein  21334  aus   7957   0.07 USD    66 s  claude-haiku-4-5-20251001
+405-segendorf        extraktion ein  19942  aus  18639   0.12 USD   136 s  claude-haiku-4-5-20251001
+406-datzeroth        extraktion ein  20308  aus   7203   0.06 USD    53 s  claude-haiku-4-5-20251001
+407-niederbreitbach  extraktion ein  22491  aus  10966   0.09 USD    90 s  claude-haiku-4-5-20251001
+408-oberbieber       extraktion ein  22837  aus  14433   0.10 USD   124 s  claude-haiku-4-5-20251001
+409-melsbach         extraktion ein  23070  aus  16924   0.12 USD   137 s  claude-haiku-4-5-20251001
+410-hardert          extraktion ein  18741  aus  11478   0.08 USD    81 s  claude-haiku-4-5-20251001
+zusammen: 18115 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+404-niederbieber   20465 Zeichen
+405-segendorf      21993 Zeichen
+406-datzeroth      20688 Zeichen
+407-niederbreitbach   27435 Zeichen
+408-oberbieber     24445 Zeichen
+409-melsbach       23481 Zeichen
+410-hardert        15612 Zeichen
+== Karten (claude-opus-5-5) 12:51:24
+404-niederbieber     karten     ein  38535  aus  39216   1.04 USD   344 s  claude-opus-5-5
+405-segendorf        karten     ein  39774  aus  39047   1.05 USD   341 s  claude-opus-5-5
+406-datzeroth        karten     ein  39191  aus  34215   0.94 USD   303 s  claude-opus-5-5
+407-niederbreitbach  karten     ein  42880  aus  32553   0.94 USD   286 s  claude-opus-5-5
+408-oberbieber       karten     ein  40895  aus  43394   1.14 USD   386 s  claude-opus-5-5
+409-melsbach         karten     ein  40590  aus  34246   0.96 USD   292 s  claude-opus-5-5
+410-hardert          karten     ein  35787  aus  25942   0.75 USD   227 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 13:01:02
+404-niederbieber     pruefung   ein  43900  aus  10170   0.50 USD    90 s  claude-opus-5-5
+405-segendorf        pruefung   ein  43333  aus   7927   0.45 USD    74 s  claude-opus-5-5
+406-datzeroth        pruefung   ein  41074  aus   5289   0.38 USD    52 s  claude-opus-5-5
+407-niederbreitbach  pruefung   ein  44279  aus   6140   0.42 USD    61 s  claude-opus-5-5
+408-oberbieber       pruefung   ein  45931  aus  11330   0.54 USD    94 s  claude-opus-5-5
+409-melsbach         pruefung   ein  44867  aus   9538   0.50 USD    86 s  claude-opus-5-5
+410-hardert          pruefung   ein  37290  aus   4560   0.34 USD    42 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 13:03:20
+404-niederbieber     stufe2     ein 131491  aus   3665   0.38 USD    62 s  claude-opus-5-5,claude-haiku-4-5-20251001
+405-segendorf        stufe2     ein 396981  aus   7554   0.91 USD   144 s  claude-opus-5-5,claude-haiku-4-5-20251001
+406-datzeroth        stufe2     ein 838825  aus  14257   1.30 USD   266 s  claude-opus-5-5,claude-haiku-4-5-20251001
+407-niederbreitbach  stufe2     ein 388706  aus  11229   1.27 USD   177 s  claude-opus-5-5,claude-haiku-4-5-20251001
+408-oberbieber       stufe2     ein 141764  aus   2493   0.34 USD    53 s  claude-opus-5-5,claude-haiku-4-5-20251001
+409-melsbach         stufe2     ein 243495  aus   6635   0.88 USD    98 s  claude-opus-5-5,claude-haiku-4-5-20251001
+410-hardert          stufe2     ein 253583  aus   7315   0.61 USD   107 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 13:07:46
+Urteile: {'korrigiert': 1213, 'bestätigt': 2057, 'unsicher': 268, 'gesperrt': 110} | im Vorrat: 3538 Karten an 410 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     410 Orte, 3538 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 4265663 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 13:07:49

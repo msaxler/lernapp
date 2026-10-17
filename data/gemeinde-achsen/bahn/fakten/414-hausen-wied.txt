@@ -1,0 +1,386 @@
+ID: 414-hausen-wied/001
+ENTITÄT: ort
+BEZEICHNUNG: Hausen (Wied)
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Ortsgemeinde
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  region: Norden von Rheinland-Pfalz
+  verbandsgemeinde: Rengsdorf-Waldbreitbach
+  status: staatlich anerkannter Luftkurort
+  lage: an der Wied im Naturpark Rhein-Westerwald, südwestlich von Waldbreitbach
+  entfernung_koblenz: 30, einheit: "km", richtung: "nördlich", genauigkeit: "ca."
+  entfernung_koeln: 50, einheit: "km", richtung: "südlich", genauigkeit: "ca."
+  gründung_heutige_form_datum: 1. Oktober 1971
+  grund_gründung: Umbenennung der bisherigen Gemeinde Bremscheid
+  komponenten: 17 Dörfer und Weiler
+  einwohner_1815: 311
+  einwohner_1835: 558
+  einwohner_1871: 615
+  einwohner_1905: 1405
+  einwohner_1939: 1912
+  einwohner_1950: 1359
+  einwohner_1961: 1789
+  einwohner_1970: 1851
+  einwohner_1987: 1588
+  einwohner_1997: 1715
+  einwohner_2005: 1955
+  einwohner_2025: 1829
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 414-hausen-wied/002
+ENTITÄT: berg
+BEZEICHNUNG: Malberg
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 373, einheit: "m ü. NHN"
+  typ: erloschener Vulkan
+  superlativ: höchste Erhebung der Gemeinde Hausen, der Gemeinde Rheinbrohl und der Stadt Bad Hönningen
+  basaltabbau_zeitraum: bis 1932
+  krater_nutzung: kleiner See im entstandenen Krater
+  basaltlehrpfad: nicht mehr betreut, an der Ostflanke bis zum Gipfel
+  sichtweite_sage: gemäß überlieferten Erzählungen soll bei sehr guten Sichtverhältnissen vom höchsten Punkt sogar der Kölner Dom zu erkennen gewesen sein
+  sichtweite_sage_genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 414-hausen-wied/003
+ENTITÄT: kapelle
+BEZEICHNUNG: Kreuzkapelle
+ORTSTEIL_BEZUG: Waldbreitbach
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1694
+  erbauer: Waldbreitbacher Pfarrer Bartholomäus Frederici
+  grund_bau: Ehre des Heiligen Kreuzes
+  lage: Wiedufer
+  bedeutung_18_jahrhundert: beliebter Wallfahrtsort
+  heiliges_kreuz_ursprung: 15. Jahrhundert in einer Nische des felsigen Berges (Kapellenberg)
+  heiliges_kreuz_entwendung: 1659
+  heiliges_kreuz_wiederauffindung: ca. 1667, genauigkeit: "auf wundersame Weise"
+  heiliges_kreuz_aufbewahrung: Mittelnische des Altars
+  erweiterung_1700: Einsiedler Hubertus Quirenbach erweiterte um Querhaus und Klausen
+  nutzung_klausen_1851: Wohnstätte von Rosa Flesch (Mutter Rosa) und ihrer Schwester Marianne (epilepsiekrank)
+  zustand: Wiedtalstraße durchschneidet heute das Gelände
+GUELTIG_AB: 1694
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 414-hausen-wied/004
+ENTITÄT: orden
+BEZEICHNUNG: Franziskanerbrüder vom Heiligen Kreuz
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1862
+  gründer: Peter Wirth (genannt Bruder Jakobus), Beruf: Schuhmacher
+  keimzelle: Kreuzkapelle
+  mutterhaus_standort: Kernort Hausen
+  mutterhaus_fertigstellung: 1866
+  klosterkirche_weihe: 1906
+  wirkung: prägt heute die architektonische Gestalt des Ortes
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 414-hausen-wied/005
+ENTITÄT: person
+BEZEICHNUNG: Peter Wirth (Bruder Jakobus)
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Schuhmacher
+  rolle: Gründer des Ordens der Franziskanerbrüder vom Heiligen Kreuz
+  gründungsjahr: 1862
+  gefährte: Anton Weber
+  mutterhaus_bezug: 1866 Übersiedelung in das neu erbaute Mutterhaus im Kernort Hausen
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 414-hausen-wied/006
+ENTITÄT: person
+BEZEICHNUNG: Rosa Flesch (Mutter Rosa)
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Gründerin der Waldbreitbacher Franziskanerinnen
+  wohnort_1851: Klausen der Kreuzkapelle
+  schwester: Marianne (epilepsiekrank)
+  relokation_1860: Kapellenberg, Waldbreitbacher Ortsteil Glockscheid (heutiges Kloster Marienhaus)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 414-hausen-wied/007
+ENTITÄT: person
+BEZEICHNUNG: Hubertus Quirenbach
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  status: Einsiedler
+  zeitraum: um 1700
+  wohnort: Kreuzkapelle
+  aktion: Erweiterung um Querhaus und Klausen
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 414-hausen-wied/008
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Carmen Boden
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Ortsbürgermeisterin
+  partei: CDU
+  amtsantritt: 25. Juli 2019
+  wahl_2019_datum: 26. Mai 2019
+  wahl_2019_stimmenanteil: 62,66 %
+  gegenkandidatin_2019: Karl-Josef Hühner (SPD)
+  wahl_2024_datum: 9. Juni 2024
+  wahl_2024_stimmenanteil: 85,6 %
+  wahl_2024_besonderheit: als einzige Bewerberin gewählt
+  amtszeit: 5 Jahre
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 414-hausen-wied/009
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Karl-Josef Hühner
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Ortsbürgermeister (vorgänger)
+  partei: SPD
+  amtszeit: 20 Jahre (bis 2019)
+  wahl_2019_ergebnis: unterlag Carmen Boden mit 62,66 %
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 414-hausen-wied/010
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  mitglieder: 16 Ratsmitglieder
+  wahl_2024: 9. Juni 2024
+  wahlsystem: personalisierte Verhältniswahl
+  vorsitz: Ortsbürgermeisterin
+  sitze_2024_cdu: 9
+  sitze_2024_wgt: 7
+  sitze_2019_cdu: 9
+  sitze_2019_spd: 7
+  sitze_2014_cdu: 7
+  sitze_2014_spd: 9
+  sitze_2009_cdu: 7
+  sitze_2009_spd: 9
+  sitze_2004_cdu: 7
+  sitze_2004_spd: 9
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 414-hausen-wied/011
+ENTITÄT: unternehmen
+BEZEICHNUNG: POS Service Group
+ORTSTEIL_BEZUG: Solscheid
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  spezialisierung: Reinigung und Reparatur von Polstermöbeln, Küchenaufmaße, Instandsetzung von Einbruchschäden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 414-hausen-wied/012
+ENTITÄT: klinik
+BEZEICHNUNG: Westerwaldklinik
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Wald oberhalb des Ortes
+  schwerpunkt: Neurologie und neurologische Psychosomatik
+  träger: drei Träger der Rentenversicherungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 414-hausen-wied/013
+ENTITÄT: alten_und_pflegeheim
+BEZEICHNUNG: Margaretha-Flesch-Haus
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ortsrand, in der Nähe der Wied
+  träger: Waldbreitbacher Franziskanerinnen
+  plätze: 80
+  kurzzeitpflegeplätze: 2
+  schwerpunkt: Wohnbereich für an Demenz erkrankte Bewohner
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 414-hausen-wied/014
+ENTITÄT: alten_und_pflegeheim
+BEZEICHNUNG: St. Josefshaus
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  träger: Franziskanerbrüder vom Heiligen Kreuz
+  restaurierung: 1931
+  kapazität: ca. 300 Menschen
+  zielgruppe: Menschen mit psychischen oder neurologischen Erkrankungen oder geistiger Behinderung
+  zugehörigkeit: dem klösterlichen Mutterhaus angegliedert
+  anlage: großer Park mit historischem Baumbestand, Lourdes-Grotte und Antonius-Brunnen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 414-hausen-wied/015
+ENTITÄT: bad
+BEZEICHNUNG: Wiedtalbad
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1971
+  funktion: Hallen- und Freibad
+  ursprüngliche_zuständigkeit: ehemalige Verbandsgemeinde Waldbreitbach (heute Verbandsgemeinde Rengsdorf-Waldbreitbach)
+  erweiterung_1: November 2006
+  erweiterung_1_umfang: Sauna-Landschaft mit Außenbereich und Restaurant
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 414-hausen-wied/016
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet Hausener Wiedaue
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 2015
+  fläche: 24000, einheit: "m²"
+  ansiedlungen: Discounter, Bäckerei
+  kontroverse: kritische Stimmen seitens des ansässigen Einzelhandels
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 414-hausen-wied/017
+ENTITÄT: person
+BEZEICHNUNG: Katharina Müller (Schwester Anselma FBMVA)
+ORTSTEIL_BEZUG: Langscheid
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1903–1994
+  orden: FBMVA
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1994
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 414-hausen-wied/018
+ENTITÄT: person
+BEZEICHNUNG: Margarita Broich
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Schauspielerin
+  bezug: verbrachte Kindheit und Jugend in Hausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 414-hausen-wied/019
+ENTITÄT: person
+BEZEICHNUNG: Klaus Lage
+ORTSTEIL_BEZUG: Weißfeld
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Musiker und Komponist
+  bezug: lebte mehrere Jahre im Hausener Ortsteil Weißfeld
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 414-hausen-wied/020
+ENTITÄT: person
+BEZEICHNUNG: Susanne Betancor
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Sängerin, Komponistin und Autorin
+  geburtsort: Neuwied am Rhein
+  bezug: wuchs u. a. in Hausen auf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 414-hausen-wied/021
+ENTITÄT: laufveranstaltung
+BEZEICHNUNG: Malberglauf
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  ausrichter: VfL Waldbreitbach
+  zeitpunkt: Mitte August, Freitagabend
+  regelmäßigkeit: jährlich
+  länge: ca. 6 km
+  höhenmeter: ca. 370
+  bergab_anteil: ca. 100 m
+  start: Klärwerk in der Au
+  streckenführung: zum Teil über den Westerwaldsteig
+  ziel: Malbergkopf bei der Skihütte Malberg
+  meisterschaften: westdeutsche Berglaufmeisterschaften 2003 und 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 414-hausen-wied/022
+ENTITÄT: wanderweg
+BEZEICHNUNG: Westerwaldsteig
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  strecke: von Waldbreitbach nach Bad Hönningen
+  besonderheit: führt am Kloster der Franziskanerbrüder vom Heiligen Kreuz vorbei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 414-hausen-wied/023
+ENTITÄT: skianlage
+BEZEICHNUNG: Skipiste Malberg
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1964
+  superlativ: zur Zeit der Errichtung als größte Kunstschneepiste Europas tituliert
+  ausstattung: Schlepplift, Schneekanonen
+  bedeutung: längster Abfahrtshang für alpinen Skilauf im größeren Umkreis
+  wirtschaftlichkeit: Mangels Schnee rentierte sich die Anlage nicht
+  abbau_schneekanonen: nach dem Verkauf
+  abbau_schlepplift: seit 2008 komplett abgebaut (bis auf eine Liftstütze)
+GUELTIG_AB: 1964
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 414-hausen-wied/024
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Dorfgemeinschaftshaus
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ortsmitte
+  nutzung: Gemeindesitzungen, Privatzwecke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 414-hausen-wied/025
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sportlerheim und Sportzentrum
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  umgestaltung: 2006
+  ausstattung: Multifunktionsplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 414-hausen-wied/026
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rettungsstützpunkt des Deutschen Roten Kreuzes
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  lage: im Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 414-hausen-wied/027
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Marienhaus
+ORTSTEIL_BEZUG: Glockscheid (Waldbreitbacher Ortsteil)
+QUELLE: https://de.wikipedia.org/wiki/Hausen_(Wied) | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1860
+  gründerin: Rosa Flesch
+  ursprungsgemeinschaft: Waldbreitbacher Franziskanerinnen
+GUELTIG_AB: 1860
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
