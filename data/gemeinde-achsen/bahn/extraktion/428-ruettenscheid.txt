@@ -1,0 +1,830 @@
+ENTITÄT: ort
+BEZEICHNUNG: Rüttenscheid
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Essen
+  lage: Südlich der Innenstadt, grenzt an Holsterhausen, Margarethenhöhe, Bredeney, Stadtwald, Bergerhausen, Huttrop, Südviertel
+  einwohner: 30869 [Stand 31.03.2025]
+  erste_urkundliche_erwaehnung: 970
+  eingemeindung_nach_essen: 1905
+  bis_etwa_1850_gepraegt_von: ländlich
+  namensherkunft: vermutlich von hriudi (Riedgras)
+  bevölkerungsanteil_unter_18_jahren: 12.6 [Prozent, Stand 31.03.2025]
+  bevölkerungsanteil_mindestens_65_jahren: 20.1 [Prozent, Stand 31.03.2025]
+  ausländeranteil: 15.1 [Prozent, Stand 31.03.2025]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Siechenhauskapelle
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  denkmalpflege: denkmalgeschützt
+  baustil: gotisch
+  beschreibung: ältestes Gotteshaus in Rüttenscheid
+  superlativ: ältestes Gotteshaus in Rüttenscheid
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Reformationskirche (evangelisch)
+ORTSTEIL_BEZUG: Hauptort
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ecke Alfredstraße/Martinstraße
+  grundsteinlegung: 1899-11-04
+  einweihung: 1902-07-13
+  architekt: Carl Nordmann
+  baustil: neugotisch
+  geschickte_im_zweiten_weltkrieg: völlig zerstört, nicht wiedergegeben
+  grund_zerstörung: Zweiter Weltkrieg
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Neue Reformationskirche
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Innenhof des Ernst-Moritz-Arndt-Hauses
+  baustil: Saalbau
+  architekt: Horst Lippert
+  erbaut: 1950
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Versöhnungskirche
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Alfredstraße
+  einweihung: 1964-05-23
+  entwidmung: 2021-05-23
+  turm_abgerissen: 2026-02
+GUELTIG_AB: 1964
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Ludgerus-Kirche
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  weihe: 1890
+  kriegszerstörung: ja
+  wiederaufbau: 1950
+  konfession: katholisch
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Andreas-Kirche
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  fertigstellung: 1957
+  architekt: Rudolf Schwarz
+  denkmalpflege: unter Denkmalschutz gestellt 1995
+  vorgaengerbau_zerstoert_im_krieg: ja
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Rüttenscheider Straße
+  erbauerung: 1967
+  schliessung: 2006
+  umbau_zu: Altenpflegeheim
+GUELTIG_AB: 1967
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Krankenhauskirche des Alfried Krupp Krankenhauses
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  urspruenglicher_zweck: katholische Kapelle der Krupp-Siedlung Altenhof
+  einweihung: 1900
+  anwesende_personen_bei_einweihung: Kaiser Wilhelm II.
+  konfession: katholisch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: größte Kirche und Kirchengemeinde der Neuapostolischen Kirche in Essen
+  konfession: Neuapostolisch
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Girardet-Haus
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: südliches Rüttenscheid
+  urspruengliche_funktion: Druckereibetrieb
+  max_mitarbeiter: 3500
+  gruender: Wilhelm Girardet
+  gruendungsjahr_betrieb: 1865
+  betriebsstilllegung: Mitte 1980er Jahre
+  umbau_zu: Passage mit Arzt- und Anwaltspraxen, Tanzschule, Seniorenwohnanlage, Brauerei-Gasthof, Restaurants
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Altenhof
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Südosten Rüttenscheids
+  bauherr: Krupp
+  erbaut: 1890
+  urspruenglicher_zweck: Siedlung für pensionierte Arbeiter des Unternehmens Krupp
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rüttenscheider Rathaus
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  grundstückkauf: 1897
+  grundsteinlegung: 1901
+  bezugsfertig: 1902-12
+  funktion: Rathaus der Gemeinde Rüttenscheid
+  zerstoert_im_krieg: ja
+  neubau: Neubau der Sparkasse
+  erster_bürgermeister: Friedrich Wilhelm Hild
+GUELTIG_AB: 1902
+GUELTIG_BIS: Kriegszeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Herzberg
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: nördlicher Bereich des Haumannplatzes
+  baubeginn: 1911
+  architekt: Edmund Körner
+  bauherr: Carl Herzberg, jüdischer Kaufmann
+  bauherr_geburtstag: 1864-01-14
+  bauherr_todestag: 1938-08-23
+  baustil: kubische Backsteinvilla mit gerundeten Ecken, dreistöckig
+  zerstoert: Zweiter Weltkrieg
+GUELTIG_AB: 1911
+GUELTIG_BIS: Zweiter Weltkrieg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Polizeipräsidium Essen
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Zweigertstraße
+  grundung: Juli 1909
+  urspruengliche_bezeichnung: Königliche Polizei-Direktion Essen
+  baustil: barock und klassizistisch
+  beschaedigungen_im_krieg: ein Flügel völlig zerstört, andere Gebäudeteile schwer beschädigt
+  wiederaufbau: ja
+  denkmalpflege: seit 1986 unter Denkmalschutz
+  zustaendigkeit: Essener Polizeiinspektionen sowie auch für Mülheim an der Ruhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Justizzentrum Essen
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  komponenten: Amtsgericht, Landgericht, Arbeitsgericht, Staatsanwaltschaft, Landessozialgericht, Untersuchungshaftgefängnis
+  frueheres_justizgebaeude_seit: 1884
+  landesamt_neubau_erbaut: 1908-1913
+  landesamt_baustil: barocke Fassade
+  kriegszerstoerung: ja
+  wiederaufbau: Anfang 1950er Jahre
+  wiederaufbau_stil: neuer Stil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Finanzamt Essen-Süd
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Goethestraße/Ecke Krawehlstraße
+  erbaut: 1927-1928
+  baustil: Backsteingebäude
+  zerstoerung_im_krieg: ja
+  wiederaufbau: mit neuen Seitenflügeln
+  umzug: Sommer 2004 nach Altendorf
+GUELTIG_AB: 1927
+GUELTIG_BIS: 2004
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Königliches Land- und Amtsgericht
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1908-1913
+  baustil: barocke Fassade
+  zerstoerung_im_krieg: ja
+  wiederaufbau_zeitraum: Anfang 1950er Jahre
+  wiederaufbau_stil: neuer Stil
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Ernst-Moritz-Arndt-Haus
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Innenhof enthielt Neue Reformationskirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: ort_oder_region
+BEZEICHNUNG: Montagsloch
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Gebiet in Rüttenscheid, bekannt aus dunkelster Geschichte
+  ereignis_april_1945: 34 stark verweste Leichen von Osteuropäern in Bombenkrater gefunden
+  grund_tod_der_opfer: Hinrichtung durch Geheime Staatspolizei (GeStapo)
+  bestattung_initial: durch englische Militärs, orthodoxe Grabkreuze aufgestellt
+  verlagerung_der_toten: 1949 auf Ehrenfriedhof im Südwestfriedhof
+  weitere_funde: Mai 1945 eine weitere Leiche, 1962 weitere Knochenreste bei Baggerarbeiten (Grugapark-Neugestaltung)
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Langenbrahm
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Rüttenscheid
+  gruendung: 1772
+  betriebsstilllegung: 1966
+  beschreibung: Rüttenscheids einzige Zeche
+GUELTIG_AB: 1772
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hof_oder_anwesen
+BEZEICHNUNG: Montagshof
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1359
+  abgerissen: 1905
+  beschreibung: Lehenshof mit Abgabenpflicht zu Stift Essen
+GUELTIG_AB: 1359
+GUELTIG_BIS: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: hof_oder_anwesen
+BEZEICHNUNG: Ritterhof (später Niemöhlmann)
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1394
+  beschreibung: Lehenshof mit Abgabenpflicht teils zum Stift Essen und teils zur Abtei Werden
+GUELTIG_AB: 1394
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: hof_oder_anwesen
+BEZEICHNUNG: Kahmannhof
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1413
+  beschreibung: Lehenshof mit Abgabenpflicht teils zum Stift Essen und teils zur Abtei Werden
+GUELTIG_AB: 1413
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: hof_oder_anwesen
+BEZEICHNUNG: Hof Silberkuhle
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich Rüttenscheids
+  beschreibung: erste Beleg für Erzabbau im Essener Raum
+  erzbau_mineralien: Silber, Kupfer, Blei
+  land_verkauf: 1354 durch Witwe Johannis de Ruddenscede
+GUELTIG_AB: 1354
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Gestapo-Sitz
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Kortumstraße 46, Backstein-Eckhaus
+  nutzung_zeitraum: 1933-1945
+  funktion: Sitz der Geheimen Staatspolizei (GeStapo)
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Handwerker- und Kunstgewerbeschule / Folkwang-Schule Vorgängerinstitution
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: altes Rüttenscheider Rathaus
+  untergebracht_ab: 1908
+  beschreibung: Vorgängerinstitution der Folkwang-Schule für Gestaltung
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Rüttenscheider Bahnhof
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Veronikastraße
+  bahnstrecke: Mülheim-Heißen–Altendorf (Ruhr)
+  abriss: Ende 1990er Jahre
+  abriss_grund: Parkplatz der Grugahalle
+  lagerung_im_krieg: 25 polnische Zwangsarbeiter (Deutsche Reichsbahn)
+GUELTIG_AB: unbekannt
+GUELTIG_BIS: Ende 1990er Jahre
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Rüttenscheids
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  entworfen_von: Kurt Schweder
+  zeitpunkt_design: Ende 1980er Jahre
+  offizieller_charakter: nein, hatte nie offiziellen Charakter
+  akzeptanz: von der Essener Bevölkerung gut angenommen
+  blasonierung: "In Gold (Gelb) eine aufsteigende rote Spitze, darin in wechselnden Farben in Rot und Gold (Gelb) je ein gestürztes Lindenblatt besteckt mit einem Kleeblattkreuz."
+  symbolik_spitze: bezeichnet Flächenausscheidung aus grundherrlichem Waldbesitz zur Acker- und Wohnplatznutzung
+  wappenbezug_lindenblätter: Familie von Schielt
+  wappenbezug_kleeblattkreuze: Familie Steenshuis
+GUELTIG_AB: Ende 1980er Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: vergnuegungspark
+BEZEICHNUNG: Prater
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Winkel der Norbert- und Lührmannstraße
+  zeitraum: 1926-1930
+  attraktionen: Achterbahn, Bootsbecken
+GUELTIG_AB: 1926
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Rüttenscheider Straße
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  alternative_bezeichnung: "Rü"
+  historischer_name: Kettwiger Chaussee
+  historische_funktion: zentraler Weg von Essen nach Werden
+  verkehrsgeschichte: bis Sommer 1986 Straßenbahn oberirdisch, dann Tunnel
+  tunneleröffnung: Sommer 1986
+  tunnelstrecke_eigentum: Drei-Schienen-Gleise
+  bahnsteighoehe: 80 cm
+  umgestaltung_abschnitt_1_kosten: 2.3 Millionen DM
+  umbenennung_ereignis: Schlusssteinlegung mit Name "Rü" durch Oberbürgermeister Peter Reuschenbach
+GUELTIG_AB: historisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Rü-Fest
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  art: Stadtteilfestival mit Live-Musik
+  erste_durchfuehrung: 3. September 1988
+  haeufigkeit: jährlich
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: E.ON
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  art: Energiekonzern
+  ansaessig_in: Rüttenscheid
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Ruhrbahn
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  ansaessig_in: Rüttenscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Stadtwerke Essen
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  ansaessig_in: Rüttenscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Steag
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  art: Stromerzeuger
+  ansaessig_in: Rüttenscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: stadteil_abspaltung
+BEZEICHNUNG: Margarethenhöhe
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: westlich gelegen
+  lage_detailliert: grenzt an Rüttenscheid
+  abspaltung: 1948
+  abspaltung_von: Rüttenscheid
+  neue_status: eigenständiger Stadtteil von Essen
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: namensgesch
+BEZEICHNUNG: Rüttenscheid Namensetymologie
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung_form: Riudenscethe (mittelalterlich)
+  etymologie_basis: vermutlich von "hriudi" (Riedgras)
+  etymologie_bedeutung: das Riedgras durch dessen Schnitt die Ansiedlung ermöglicht wurde
+  wappendeitung_letzter_worthälfte: bezeichnet Flächenausscheidung aus grundherrlichem Waldbesitz zur Acker- und Wohnplatznutzung
+GUELTIG_AB: 970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: buergemeister
+BEZEICHNUNG: Friedrich Wilhelm Hild
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 1901
+  amtszeit_bis: 1905
+  superlativ: erster und einziger Bürgermeister von Rüttenscheid
+  amtsübernahme_grund: Grundsteinlegung Rathaus 1901
+  amtsende_grund: Eingemeindung nach Essen 1905
+GUELTIG_AB: 1901
+GUELTIG_BIS: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: architekt
+BEZEICHNUNG: Carl Nordmann
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1849-1922
+  erbaute_gebaeude: Reformationskirche (evangelisch)
+  wirktstaette: Rüttenscheid
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: architekt
+BEZEICHNUNG: Rudolf Schwarz
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erbaute_gebaeude: St. Andreas-Kirche
+  fertigstellung_gebaeude: 1957
+  wirktstaette: Rüttenscheid
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: architekt
+BEZEICHNUNG: Horst Lippert
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erbaute_gebaeude: Neue Reformationskirche
+  fertigstellung_gebaeude: 1950
+  wirktstaette: Rüttenscheid
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: architekt
+BEZEICHNUNG: Edmund Körner
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  erbaute_gebaeude: Villa Herzberg
+  baubeginn_gebaeude: 1911
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: kaufmann
+BEZEICHNUNG: Carl Herzberg
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1864-01-14
+  todestag: 1938-08-23
+  glauben: jüdisch
+  profession: Kaufmann
+  unternehmen_teilhaber: Essener Getreidegroßhandlung Carl und Gustav Herzberg
+  bauherr: Villa Herzberg
+GUELTIG_AB: 1864
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmer
+BEZEICHNUNG: Wilhelm Girardet
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  profession: Buchdruckereibetreiber
+  gruendung_unternehmen: 1865
+  unternehmen: Girardet-Druckerei und Verlag
+  weiterfuehrung_durch: gleichnamiger Sohn
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: strasse_benennung
+BEZEICHNUNG: Straßenbenennung Rüttenscheids nach Geschlecht
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  beschluss_jahr: 1895
+  system: weibliche Vornamen links der Kettwiger Chaussee, männliche Vornamen rechts, alphabetisch von Norden nach Süden
+  ausnahme: Alfredstraße nicht betroffen
+  kritik: System wurde bald kritisiert, da es auf örtliche Begebenheiten keine Rücksicht nahm
+  weiterfuehrung_nach_eingemeindung: konnte nicht weiter aufrechterhalten werden (Mehrfachnennungen im Stadtgebiet)
+  weiterfuehrung_heute: bei Neubaumaßnahmen wird an Tradition angeknüpft
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum_oder_kulturinstitution
+BEZEICHNUNG: Messe Essen
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  bekannheit: über die Stadtgrenze hinaus bekannt
+  lage_bezug: Rüttenscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Grugapark
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  bekannheit: über die Stadtgrenze hinaus bekannt
+  lage_bezug: Rüttenscheid / südlich der A 52
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: halle
+BEZEICHNUNG: Grugahalle
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  bekannheit: über die Stadtgrenze hinaus bekannt
+  lage_bezug: Rüttenscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Alfried Krupp Krankenhaus
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  bekannheit: über die Stadtgrenze hinaus bekannt
+  lage_bezug: Rüttenscheid
+  besonderheit: hat eine Krankenhauskirche (früher Kapelle der Krupp-Siedlung Altenhof)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: schwimmeinrichtung
+BEZEICHNUNG: Schwimmzentrum Rüttenscheid
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  art: öffentliches Schwimmbad
+  lage_bezug: Rüttenscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: schwimmeinrichtung
+BEZEICHNUNG: Grugabad
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  art: öffentliches Schwimmbad
+  lage_bezug: Rüttenscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: stadtbahn_linie
+BEZEICHNUNG: Stadtbahnlinie U 11
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  verlauf_durch: Rüttenscheid
+  tunnelisierung_zeitraum: geplant seit 1970er Jahren
+  tunnel_eroeffnung: Sommer 1986
+  tunnel_strecke_und_typ: Drei-Schienen-Gleise (Betrieb Type M auf Meterspur und Type B auf Normalspur)
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Rüttenscheider Stern
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  art: U-Bahnhof
+  bahnlinien: Linie U 11
+  bedeutung: wichtigster Knotenpunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Martinstraße
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  art: U-Bahnhof
+  bahnlinien: Linie U 11
+  bedeutung: wichtigster Knotenpunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Essen Süd
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlicher Zipfel Rüttenscheids
+  bahnlinien: S-Bahn-Linie 6
+  zusatz_information: Straßenbahnlinie 105 kreuzt hier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: autobahnabschnitt
+BEZEICHNUNG: Autobahn A 52
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlicher und östlicher Rand Rüttenscheids
+  gewerbegebiet: Langenbrahm südlich der Autobahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: bundesstrasse
+BEZEICHNUNG: Bundesstraße 224 (Alfredstraße)
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: Westrand Rüttenscheids
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: stadtradweg
+BEZEICHNUNG: Grugatrasse
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  umbau_von: Bahnstrecke Mülheim-Heißen–Altendorf (Ruhr)
+  umbauzeitraum: 1998-2004
+  beschreibung: Radweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kino_oder_unterhaltungsstaette
+BEZEICHNUNG: Girardet-Zentrum
+QUELLE: https://de.wikipedia.org/wiki/Rüttenscheid | Wikipedia
+EIGENSCHAFTEN:
+  lage: nördlich des alten Bahnhofs
+  namenherkunft: 1865 von Wilhelm Girardet gegründete Buchdruckerei samt Verlag
+  umbenennung_ereignis: 1965 anlässlich hundertjährigen Firmenjubiläums
+  umbenennung_strasse: Gerswidastraße in Girardetstraße umbenannt
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

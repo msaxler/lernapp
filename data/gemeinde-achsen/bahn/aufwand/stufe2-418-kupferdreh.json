@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "418-kupferdreh",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 21001,
+ "token_ein": 442248,
+ "token_aus": 14401,
+ "usage": {
+  "input_tokens": 20,
+  "cache_creation_input_tokens": 48217,
+  "cache_read_input_tokens": 394011,
+  "output_tokens": 14401,
+  "output_tokens_details": {
+   "thinking_tokens": 6357
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 48217,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 7000,
+    "cache_read_input_tokens": 54057,
+    "cache_creation_input_tokens": 1062,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1062
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.3696492000000005,
+ "sekunden": 215,
+ "fehler": false,
+ "zeit": "2026-10-18T09:54:52"
+}

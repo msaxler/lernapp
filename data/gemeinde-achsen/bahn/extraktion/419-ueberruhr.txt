@@ -1,0 +1,597 @@
+ENTITÄT: ort
+BEZEICHNUNG: Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  stadtteil_von: Essen
+  lage: südöstlicher Stadtteil
+  topografie: Halbinsel über der Ruhr
+  administrative_unterteilung: zwei Stadtteile (Überruhr-Hinsel, Überruhr-Holthausen)
+  grenzt_an_westen: Heisingen, Rellinghausen
+  grenzt_an_nordwesten: Bergerhausen
+  grenzt_an_norden: Steele
+  grenzt_an_osten: Horst
+  grenzt_an_sudosten: Burgaltendorf
+  grenzt_an_sueden: Byfang
+  urspruengliche_siedlungsform: Bauerschaften
+  historische_wirtschaft: Steinkohlenbergbau (Zechenlandschaft)
+  aktuelle_struktur: lockere Wohnbebauung
+  namensherkunft: "Über der Ruhr" (geographisch Overruhr/Oberruhr, Fährenüberquerung notwendig)
+  eingemeindung: 1. August 1929 zu Essen (gegen Willen der Bevölkerung)
+  einwohner_gesamt: 15977
+  gueltig_ab: 2025
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Überruhr-Hinsel
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Überruhr
+  siedlungsform: ehemalige Bauerschaft
+  lage: Norden, auf Hügel
+  hoehe: 100 meter ü. NHN
+  hoehe_ruhr_basis: 50 meter ü. NHN
+  urkundliche_ersterwhaehnung: 1092 (Hintisle)
+  namensherkunft_vermutung: Ansiedlung in Niederung mit stehendem Gewässer (Altsächsisch -sel)
+  hof_springob_existenz: 18. Jahrhundert, ca. 62 Morgen Land
+  hof_springob_eigentuemer: 1834 J. A. Springob
+  strasse_springhoffsfeld_benannt: 1961
+  infrastruktur_trinkwasser: großes Areal zur Trinkwassergewinnung vorhanden
+  einwohner: 7781
+  gueltig_ab: 2025
+  bevoelkerungsanteil_unter_18: 14.2 %
+  bevoelkerungsanteil_ab_65: 30.8 %
+  auslaenderanteil: 6.8 %
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Überruhr-Holthausen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Überruhr
+  siedlungsform: ehemalige Bauerschaft
+  lage: Süden
+  hoehe: 130 meter ü. NHN
+  hoehe_ruhr_basis: 50 meter ü. NHN
+  urkundliche_ersterwhaehnung: 1054
+  namensherkunft: Ansiedlungen im "holt", Niederwald-Nutzung für Einschlag und Viehtrieb
+  einwohner: 8196
+  gueltig_ab: 2025
+  bevoelkerungsanteil_unter_18: 15.6 %
+  bevoelkerungsanteil_ab_65: 29.9 %
+  auslaenderanteil: 11.9 %
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Mönkhoffsbank
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  ort: Wichteltal am linken Ruhrufer
+  gruendung: 1673
+  bauwerk_schacht: Bruchstein-Schachtgebäude (Reste vorhanden)
+  nebengebaeude: Schmiede (umgebaut, als Wohngebäude vorhanden)
+  verbindung: Pferdeeisenbahnanbindung zu Holteyer Hafen und Zeche Vereinigte Charlotte
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: hafen
+BEZEICHNUNG: Holteyer Hafen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  ort: Überruhr
+  funktion: Sicherheitshafen für Ruhrschifffahrt
+  angelegt: 1837-1838
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Vereinigte Charlotte
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  ort: Überruhr
+  verbindung: Pferdeeisenbahnanbindung mit Holteyer Hafen und Zeche Mönkhoffsbank
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Vereinigte Gewalt
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  ort: Überruhr
+  gruendung_zeitraum: um 1860
+  superlativ: größte und tiefste Grube im Ruhrgebiet (Mitte 19. Jahrhundert)
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Heinrich
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  ort: Überruhr
+  foerderturm: noch heute vorhanden
+  arbeitende_personen: ca. 3000
+  stilllegung: 1968
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Friedenskapelle der Heiligen Eucharistie
+ORTSTEIL_BEZUG: Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  standort: Mönkhoffstraße
+  erbaut: 1961
+  anlass: Eucharistischer Weltkongress München (1961)
+  tradition_prozession: Sternförmige Prozession von allen Gemeinden Überruhrs am 1. Mai
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Suitbert
+ORTSTEIL_BEZUG: Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1964
+  beschreibung: modernster Kirchbau Essens, experimenteller Stahlbeton-Schalenbau
+  architekt: Josef Lehmbrock (Düsseldorf)
+  denkmalliste_eintrag: 2019
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Ludwig-Kessing-Park
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Ludwig Kessing (Bergmann, Heimatdichter, 1869-1940)
+  ausblick: Weitblick übers Ruhrtal
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Realschule Überruhr
+ORTSTEIL_BEZUG: Überruhr-Hinsel
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  standort: Überruhrstraße
+  eroeffnet: 2002
+  superlativ: jüngste Schule auf Gebiet der Stadt Essen (2002)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Hinseler Schule
+ORTSTEIL_BEZUG: Überruhr-Hinsel
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  schulart: Grundschule (städtisch)
+  standort: Treibweg
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Essen-Überruhr
+ORTSTEIL_BEZUG: Überruhr-Hinsel
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  schueleranzahl: ca. 1100
+  eroeffnet: 1974
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Johann-Peter-Hebel Schule
+ORTSTEIL_BEZUG: Überruhr-Holthausen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  schulart: Grundschule (städtisch)
+  standort: Dellmannsweg/Klapperstraße (Ecke)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Suitbert-Schule
+ORTSTEIL_BEZUG: Überruhr-Holthausen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  schulart: Grundschule (katholisch)
+  standort: Hinseler Hof 125
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Ludwig-Kessing-Schule
+ORTSTEIL_BEZUG: Überruhr-Hinsel
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  schulart: Grundschule (katholisch)
+  standort: hinter Realschule Überruhr
+  letzte_eingangsklasse: Schuljahr 2007/2008
+  ausgelaufen: ab 2007/2008
+  gebaeudenutzer_spaeter: Realschule Überruhr
+  ist_vermutlich_aktuell: false
+  gueltig_bis: 2008
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasseraufbereitungsanlage Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Wassergewinnung Essen
+  standort: westlich und östlich angrenzend
+  durchsatz_jaehrlich: 50 Millionen Kubikmeter
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Theodor Heider
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1894-1903
+  geburtstag: 1837
+  todesjahr: 1913
+  erste_buergermeister: true (erster Bürgermeister Überruhrs)
+  rang: erste Bürgermeisterei Überruhr
+  gueltig_ab: 1894
+  gueltig_bis: 1903
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Adolf von Auer
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1903-1924
+  geburtstag: 1855
+  todesjahr: 1937
+  gueltig_ab: 1903
+  gueltig_bis: 1924
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Josef Hermanns
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1925-1934
+  geburtstag: 1879
+  todesjahr: 1961
+  amtszeit_als_verwaltungsstellenleiter: 1925-31. März 1934
+  gueltig_ab: 1925
+  gueltig_bis: 1934
+  ruhestand_ab: 31. März 1934
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ludwig Kessing
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1869
+  todesjahr: 1940
+  beruf: Bergarbeiter, Heimatdichter (Arbeiterdichter)
+  gueltig_ab: 1869
+  gueltig_bis: 1940
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Robert Geritzmann
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1893
+  todesjahr: 1969
+  beruf: Politiker
+  partei: SPD
+  gueltig_ab: 1893
+  gueltig_bis: 1969
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Theodor Ruhrländer
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1896
+  todesjahr: 1961
+  beruf: Politiker
+  partei: CDU
+  gueltig_ab: 1896
+  gueltig_bis: 1961
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heinrich Bischoff
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1904
+  todesjahr: 1964
+  rang: SS-Unterscharführer
+  funktion: Blockführer im KZ Auschwitz
+  gueltig_ab: 1904
+  gueltig_bis: 1964
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Manfred Müller
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1947
+  beruf: Fußballspieler
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Wulf
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1951
+  beruf: Fußballspieler
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Frank Klötgen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1968
+  beruf: Musiker, Dichter, Kabarettist
+  organisation: Münchner Lach- und Schießgesellschaft
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Markus Heppke
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1986
+  beruf: Fußballspieler
+  superligaerfahrung: Fußball-Bundesliga (Rot-Weiss Essen)
+  jugendverein: Blau-Gelb Überruhr (sieben Jahre)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Steve Tunga
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1997
+  beruf: Fußballspieler
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Lorenz Höfs
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 2010
+  verein: Blau-Gelb Überruhr
+  rolle: Leistungsträger in der Jugendabteilung
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.75
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Michael Galla
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Rapper
+  vereinszugehoerigkeit: Jugendabteilung SG Überruhr (Handball)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.75
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Blau-Gelb Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+  bekannte_spieler: Markus Heppke (Bundesligaspieler), Lorenz Höfs (Jugendnachwuchstalent)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: SG Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Handball
+  bekannte_spieler: Michael Galla (Jugendabteilung)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: S-Bahn S9
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  strecke_nordende: Haltern am See
+  strecke_südende: Wuppertal
+  haltepunkte_überruhr: Überruhr, Holthausen
+  verbindungen: über Bottrop, Essen, Velbert-Langenberg
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: bahn_historisch
+BEZEICHNUNG: Prinz-Wilhelm-Eisenbahn
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  strecke_nord: Essen
+  strecke_sued: Wuppertal
+  beschreibung: historische Eisenbahn (nicht mehr im Betrieb)
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  entworfer_original: Kurt Schweder
+  charakter_original: nie offiziellen Charakter
+  neufassung_zeit: Ende 1980er Jahre
+  heraldiker_neugestaltung: Heraldiker (für alle Essener Stadtteile)
+  akzeptanz: von Essener Bevölkerung gut angenommen
+  typus: redendes Wappen
+  beschreibung_blasonierung: "In Grün ein silberner (weißer) gestürzter Wellensparren dazwischen in Rot ein silberner (weißer) Kreuzschargen oder Sonnenrad mit schwarzem Auge"
+  wellensparren_deutung: Hinweis auf "Over Rore" und "Overruhr" aus Urkunden des Stifts Rellinghausen
+  kreuzschargen_bedeutung: heraldisches Sonnensymbol, glücksbringendes und unheilabwehrendes germanisches Zeichen (Hinweis auf germanische Bodenfunde)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Rennöfen am Sonderfeld
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  fundort: Sonderfeld in Überruhr
+  periode: jüngere Eisenzeit
+  datierung: ca. 800 v. Chr. - Christi Geburt
+  beschreibung: Überreste früher Eisenverarbeitung
+  bedeutung: wohl älteste Zeugnisse einer Besiedlung im Gebiet
+  gueltig_ab: -800
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Germanische Brukterer-Siedlung Sonderfeld
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  fundort: Sonderfeld, westlich der Straße Lehmanns Brink
+  entdeckungszeit: Mitte 1960er Jahre (bei Wohngebietserschließung)
+  periode: 2. und 3. Jahrhundert n. Chr.
+  volk: Brukterer
+  funde: Keramiken aus römischer Rheinprovinz
+  identifikation_moeglichkeit: möglicherweise identisch mit "Navalia" in Geographike Hyphegesis des Klaudios Ptolemaios
+  gueltig_ab: 200
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.75
+
+---
+
+ENTITÄT: stift
+BEZEICHNUNG: Damenstift Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  gehoerigkeit_hinsel_holthausen: Hinsel und Holthausen als Bauerschaften gehörig
+  verhaeltnis_bewohner: Bewohner waren Lehnsabhängige des Stiftes (Bauern)
+  zugang_kirche: Bewohner mussten mit Fähre zur Kirche fahren
+  saekularisation: 1803 (danach wurden Bauern frei)
+  ist_vermutlich_aktuell: false
+  gueltig_bis: 1803
+  vertrauen_extraktion: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung Überruhr zu Essen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. August 1929
+  kontext: gegen den Willen der Überuhrer Bevölkerung
+  einwohnerzahl_zeitpunkt: ca. 5000 Personen
+  verkehrsanbindung_problem: Straßenbahn nach Essen-Mitte dauerte über Steele 45 Minuten
+  fehlende_infrastruktur: keine Ruhrbrücke, nur drei Fähren (Zornige Ameise, Annenfähre, Rote Mühle)
+  charakter_ortsteil: noch dörflich
+  strassenzustand: einfach, bei schlechter Witterung kaum befahrbar
+  ist_vermutlich_aktuell: false
+  gueltig_ab: 1929
+  vertrauen_extraktion: 0.95
+
+---
+
+ENTITÄT: administratives_gebaeude
+BEZEICHNUNG: Rathaus Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  standort: Provinzialstraße (seit 1933 Langenberger Straße 449)
+  funktion_1929: Behördengänge für Überuhrer Bevölkerung
+  nsdap_dienststelle: 1937 Einrichtung einer NSDAP-Dienststelle
+  meldestelle: 1956 erhielt Überruhr hier eine Meldestelle
+  ortspolizei: hatte dort ihren Sitz
+  heutiger_status: Wohngebäude
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+
+ENTITÄT: tradition
+BEZEICHNUNG: Sankt-Martins-Zug
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  description: großer Sankt-Martins-Zug zieht traditionell jedes Jahr durch Überruhr
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85

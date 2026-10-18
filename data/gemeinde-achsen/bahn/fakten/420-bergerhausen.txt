@@ -1,0 +1,508 @@
+ID: 420-bergerhausen/001
+ENTITÄT: ort
+BEZEICHNUNG: Bergerhausen
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Essen
+  lage: südöstlich des Stadtkerns
+  grenzt_an_osten: Steele, Überruhr-Hinsel
+  grenzt_an_südosten: Ruhr
+  grenzt_an_süden: Rellinghausen
+  grenzt_an_westen: Rüttenscheid, Stadtmitte
+  grenzt_an_norden: Huttrop
+  urkundliche_ersterwähnung: 943
+  urkundliche_ersterwähnung_schreibweise: Bergarahuson
+  wappenbeschreibung: "In Rot wachsend über einem grünen Dreiberg, belegt mit gekreuzten silbernen Schlägeln und Eisen, ein silbernes Haus mit schwarzem Fachwerk."
+  wappenentwurf_durch: Kurt Schweder
+  wappenentwurf_jahr: 1980er Jahre
+  redender_wappen_deutung: "Haus (-hausen) auf dem Berg (Dreiberg, Berger-). Schlägel und Eisen deuten auf früheren Eisenerz- und Steinkohlenbergbau hin."
+  namensherkunft: "Frühere Schreibweise 'Bergahuson' bedeutet 'Bewohner eines Berges'"
+  zugehörigkeit_1815_1875: Steele
+  zugehörigkeit_1876_1910: Bürgermeisterei Rellinghausen
+  zugehörigkeit_ab_1910: Stadt Essen
+  charakter: "Dichte Wohnbebauung mit Grünflächen und Gewerbegebieten"
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/002
+ENTITÄT: ort
+BEZEICHNUNG: Bergerhausen
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 11531
+  anteil_unter_18_jahren: 14.6
+  anteil_ab_65_jahren: 26.3
+  ausländeranteil: 10.2
+GUELTIG_AB: 2025
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/003
+ENTITÄT: kirche
+BEZEICHNUNG: St. Hubertus
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  baustil: neugotische Gewölbebasilika
+  architekt: Josef Kleesattel
+  bauzeit: 1912-1914
+  konfession: katholisch
+  pfarrei: St. Lambertus in Rellinghausen
+  superlativ: "letzte neugotische Gewölbebasilika im Bistum Essen"
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Raphael
+ORTSTEIL_BEZUG: Unterbergerhausen
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  baustil: Stahlbeton-Ziegelbau
+  bauzeit: 1964-1965
+  konfession: katholisch
+  status: ehemalige Filialkirche
+  pfarrei: St. Lambertus in Rellinghausen
+  schließung: 2009
+  nachnutzung: Mehrgenerationenkomplex
+  orgel_verkauft_an: "Pfarrei St. Judas Thaddäus in Duisburg (2012/2013 in Kirche St. Peter und Paul in Huckingen eingebaut)"
+GUELTIG_AB: 1965
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/005
+ENTITÄT: kirche
+BEZEICHNUNG: Pax-Christi-Kirche
+ORTSTEIL_BEZUG: Billebrinkhöhe
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  ursprüngliche_weihe: St. Albertus Magnus
+  bauzeit: 1950-1959
+  konfession: katholisch
+  baustil: Doppelkirche mit Unter- und Oberkirche
+  pfarrei: St. Laurentius in Steele
+  denkmalliste_eintrag: 2019
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/006
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  standort: Weserstraße
+  architekt: Ernst-Erik Pfannschmidt
+  erbaut_seit: 1955
+  besonderheit: ehemals kubischer Gemeindesaal
+  umgestaltung_1990er_jahre: "mit kleinerem, spitzem Neubau umgestaltet"
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/007
+ENTITÄT: kirche
+BEZEICHNUNG: evangelische Kirche
+ORTSTEIL_BEZUG: Billebrinkhöhe
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  eingeweiht: 1965
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 420-bergerhausen/008
+ENTITÄT: schule
+BEZEICHNUNG: Theodor-Heuss-Schule
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  schultyp: Grundschule
+  angebot: offenes Ganztagsangebot
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/009
+ENTITÄT: schule
+BEZEICHNUNG: Schule am Krausen Bäumchen
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  schultyp: Grundschule
+  angebot: offenes Ganztagsangebot
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/010
+ENTITÄT: schule
+BEZEICHNUNG: Elsa-Brändström-Realschule
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Realschule
+  profil: Eliteschule des Sports
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/011
+ENTITÄT: schule
+BEZEICHNUNG: Kunstwerkerschule (ehemalig)
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Kunstwerkerstraße 98
+  baustil: Backsteingebäude
+  erbaut: "Anfang 20. Jahrhundert"
+  ursprünglicher_name: Katholische Schule Nr. 35
+  name_ab_1940er_jahren: Volksschule
+  stilllegung: 1980er Jahre
+  zwischennutzung: Kunstatelier
+  nachnutzung_ab_2024: "Quartier für 45 Menschen mit und ohne Behinderung (Aktion Mensch)"
+  status_gebäude: denkmalgeschützt
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1980er Jahre
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/012
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Wasserfall
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: nördlich des St.-Annentales
+  urkundliche_ersterwähnung: 1575
+  mutung: 1748
+  konsolidierung_mit: Zeche Sonnenschein
+  konsolidierungsjahr: 1806
+  superlativ: "zu den ältesten Zechen im Ruhrgebiet gehörend"
+GUELTIG_AB: 1575
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/013
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Sonnenschein
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "südwestlich der heutigen Kreuzung Wuppertaler-/Frankenstraße"
+  gründung: 1721
+  konsolidierung_versuch_mit: Zeche Kunstwerk
+  konsolidierungsjahr_fehlgeschlagen: 1817
+  stilllegung: 1821
+  nachfolge: Abbaufeld fiel an Zeche Kunstwerk
+GUELTIG_AB: 1721
+GUELTIG_BIS: 1821
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/014
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Kunstwerk
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Kunstwerkerstraße
+  gründung_vermutlich: "Mitte 16. Jahrhundert"
+  superlativ: "zu den ältesten Zechen im Ruhrgebiet gehörend"
+  förderung_spitze: 45000
+  förderung_spitze_einheit: "Tonnen Kohle pro Jahr"
+  stilllegung_betrieb: 1862
+  endgültige_stilllegung: 1865
+  übernahme_wasserhaltung_zeche_stüpert: 1859
+  namensgebung: "wohl eine mechanische Fördereinrichtung"
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1865
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 420-bergerhausen/015
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Stüpert
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 1749
+  status_vor_stilllegung: bereits stillgelegt
+  wasserhaltung_übernommen_durch: Zeche Kunstwerk
+  wasserhaltung_übernahme_jahr: 1859
+GUELTIG_AB: 1749
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 420-bergerhausen/016
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Henriettenglück
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Vöcklinger Feld"
+  inbetriebnahme: 1799
+  konsolidierung_mit: Zeche Ludwig
+  konsolidierungsjahr: 1831
+  förderung_früher: Eisenstein
+  förderung_später: Anthrazitkohle
+  stilllegung: 1966
+  massnahmen_stilllegung: "alle Schächte verfüllt, Großteil Übertageanlagen abgerissen"
+GUELTIG_AB: 1799
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/017
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Ludwig
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "dort, wo heute das Gewerbegebiet Zeche Ludwig liegt"
+  konsolidierung_mit: Zeche Henriettenglück
+  konsolidierungsjahr: 1831
+GUELTIG_AB: 1831
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 420-bergerhausen/018
+ENTITÄT: fabrik
+BEZEICHNUNG: Kunstwerkerhütte
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  gründer: Franz Dinnendahl
+  gründung: 1821
+  standort: "neben der Zeche Kunstwerk"
+  typ: "Maschinenfabrik und Eisengießerei"
+  spezialisierung: Dampfmaschinen zur Wasserhebung
+  laufzeit_bis: "weit ins 20. Jahrhundert"
+GUELTIG_AB: 1821
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/019
+ENTITÄT: fabrik
+BEZEICHNUNG: Montagehalle Eisenhütte Westfalia Dinnendahl AG
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  baustil: "Stahlfachwerk und Backstein mit Glasdach"
+  erbaut_um: 1925
+  denkmalliste: eingetragen
+  nachnutzung: "moderne Loftwohnungen nach Leerstand"
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/020
+ENTITÄT: verwaltungsgebaeude
+BEZEICHNUNG: Verwaltungsgebäude Nürnberger Bund
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1925
+  lage: "westlich bei ehemaliger Zeche Henriettenglück"
+  stockwerke: 5
+  architektur: "fünfgeschossig, markant"
+  nachnutzung: Wohngebäude
+  denkmalliste: eingetragen
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/021
+ENTITÄT: zentrale
+BEZEICHNUNG: Europas Coca-Cola-Zentrale
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: "Bergerhausen-Nähe"
+  dauer: "mehrere Jahrzehnte"
+  verlagerung: Berlin
+  verlagerung_jahr: "Mitte 1990er Jahre"
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 420-bergerhausen/022
+ENTITÄT: hof
+BEZEICHNUNG: Gantenberg (ehemals Schürmannshof)
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage_historisch: "Kaninenberghöhe"
+  datierte_ersterwähnung: "5. August 1472 (als Schuyrmans Gud)"
+  erbbeleihung_durch: Familie Vittinghoff-Schell
+  erbrente: "sieben Rheinische Gulden"
+  schriften_haupthaus: "1810 (Inschriftenbalken über dem Deelentor)"
+  schriften_altenteilerhaus: "1792 (Türbalken)"
+  bewirtschaftung_durch_gantenberg: 1938-2004
+  denkmalschutz: ja
+  nachnutzung_ab_2004: "Private, umfangreiche Sanierungsarbeiten unter Berücksichtigung des Denkmalschutzes"
+GUELTIG_AB: 1472
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/023
+ENTITÄT: personifikation
+BEZEICHNUNG: Franz Dinnendahl
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Industrieller
+  herkunft: "aus der Nähe stammend"
+  rolle: "Gewerk der Zeche Kunstwerk"
+  produkte: "Dampfmaschinen zur Wasserhebung"
+  unternehmung_gründung: 1821
+  unternehmung_name: Kunstwerkerhütte
+  unternehmung_typ: "Maschinenfabrik und Eisengießerei"
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 420-bergerhausen/024
+ENTITÄT: personifikation
+BEZEICHNUNG: Kurt Schweder
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Heraldiker
+  leistung: "Entwurf des Wappens von Bergerhausen"
+  zeitraum: "Ende 1980er Jahre"
+  ausführung: "Wappen für alle Essener Stadtteile"
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 420-bergerhausen/025
+ENTITÄT: personifikation
+BEZEICHNUNG: Josef Kleesattel
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Architekt
+  werke: "Planung der Kirche St. Hubertus (1912-1914)"
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 420-bergerhausen/026
+ENTITÄT: personifikation
+BEZEICHNUNG: Ernst-Erik Pfannschmidt
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Architekt
+  werke: "Planung der Johanneskirche"
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 420-bergerhausen/027
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet Zeche Ludwig
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  flaeche: "auf dem Areal der ehemaligen Zeche Ludwig"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/028
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbepark Ruhrallee
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "entlang der Ruhrallee"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/029
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Autobahn A 52
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  direkter_anschluss: ja
+  anbindung_zu: A 40
+  anbindung_via: Autobahndreieck Essen-Ost
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/030
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Ruhrallee
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: "wichtigste innerörtliche Verkehrsachse"
+  teil_von: B 227
+  besonderheit: "teilt den Stadtteil geografisch in der Mitte"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/031
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Ruhrtalradweg
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "rechtes Ruhrufer"
+  netzanschluss: "Radnetz NRW"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/032
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Grugatrasse
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  netzanschluss: "Radnetz NRW"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/033
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Straßenbahnlinie 105
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  takt_mo_fr: "10 min"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/034
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Buslinie SB 15
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Ruhrbahn
+  takt_mo_fr: "10 min"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/035
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Buslinie 154
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Ruhrbahn
+  takt_mo_fr: "20 min"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/036
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Buslinie 155
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Ruhrbahn
+  takt_mo_fr: "20 min"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/037
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Buslinie 160
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Ruhrbahn
+  takt_mo_fr: "20 min"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/038
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Buslinie 161
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Ruhrbahn
+  takt_mo_fr: "20 min"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 420-bergerhausen/039
+ENTITÄT: kulturobjekt
+BEZEICHNUNG: Wegekreuz
+QUELLE: https://de.wikipedia.org/wiki/Bergerhausen_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  standort: "Ecke Am Krausen Bäumchen/Weserstraße"
+  funktion: "markierte die Grenze zum Rellinghauser Stift"
+  bedeutung: "Gerichtsbarkeitsgrenze"
+  status_gegenwärtig: "noch vorhanden"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

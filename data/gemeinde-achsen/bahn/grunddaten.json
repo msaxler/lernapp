@@ -1,5 +1,5 @@
 {
- "erzeugt": "2026-10-17",
+ "erzeugt": "2026-10-18",
  "katalog": [
   {
    "schluessel": "bundesland",
@@ -801,7 +801,17 @@
   "Roßbach: einwohner 1457 (Wikidata P1082) gegen 937 (Altbestand geo.sqlite (GeoNames 2844837))",
   "Roßbach: hoehe_m 116 (Wikidata P2044) gegen 122 (Altbestand geo.sqlite (GeoNames 2844837))",
   "Hausen (Wied): kfz NR (Wikidata P395) gegen BIR (Altbestand geo.sqlite (Kreis 07134))",
-  "Breitscheid: kfz NR (Wikidata P395) gegen LDK (Altbestand geo.sqlite (Kreis 06532))"
+  "Breitscheid: kfz NR (Wikidata P395) gegen LDK (Altbestand geo.sqlite (Kreis 06532))",
+  "Kupferdreh: hoehe_m 62 (Wikidata P2044) gegen 90 (Altbestand geo.sqlite (GeoNames 2882413))",
+  "Überruhr: hoehe_m 94 (Wikidata P2044) gegen 83 (Altbestand geo.sqlite (GeoNames 2820568))",
+  "Bergerhausen: hoehe_m 110 (Wikidata P2044) gegen 118 (Altbestand geo.sqlite (GeoNames 2950590))",
+  "Rellinghausen: hoehe_m 79 (Wikidata P2044) gegen 107 (Altbestand geo.sqlite (GeoNames 2848339))",
+  "Stadtwald: hoehe_m 122 (Wikidata P2044) gegen 144 (Altbestand geo.sqlite (GeoNames 11611394))",
+  "Burgaltendorf: hoehe_m 99 (Wikidata P2044) gegen 126 (Altbestand geo.sqlite (GeoNames 3205794))",
+  "Steele: hoehe_m 67 (Wikidata P2044) gegen 74 (Altbestand geo.sqlite (GeoNames 2829187))",
+  "Byfang: hoehe_m 114 (Wikidata P2044) gegen 125 (Altbestand geo.sqlite (GeoNames 2940447))",
+  "Rüttenscheid: hoehe_m 110 (Wikidata P2044) gegen 117 (Altbestand geo.sqlite (GeoNames 2842772))",
+  "Kettwig: hoehe_m 53 (Wikidata P2044) gegen 91 (Altbestand geo.sqlite (GeoNames 2891290))"
  ],
  "orte": [
   {
@@ -76193,6 +76203,1595 @@
       "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
       "stand": "2025-02-23",
       "hinweis": "gilt für die Gemeinde Niederbreitbach, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "418-kupferdreh",
+   "rolle": "ziel",
+   "name": "Kupferdreh",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368635",
+   "lat": 51.39222,
+   "lon": 7.0825,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 9.34,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 62,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 90,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2882413)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 9
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "9 km südöstlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 29
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1929-08-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45257"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "419-ueberruhr",
+   "rolle": "ziel",
+   "name": "Überruhr",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368663",
+   "lat": 51.42639,
+   "lon": 7.07889,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 6.72,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 94,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 83,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2820568)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 6
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "6 km südöstlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 31
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1929-08-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45277"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "420-bergerhausen",
+   "rolle": "ziel",
+   "name": "Bergerhausen",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368611",
+   "lat": 51.43639,
+   "lon": 7.04444,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 3.34,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 110,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 118,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2950590)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 3
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "3 km südöstlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 30
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1910-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45134",
+       "45136"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "421-rellinghausen",
+   "rolle": "ziel",
+   "name": "Rellinghausen",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q257147",
+   "lat": 51.42861,
+   "lon": 7.04889,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 1.4,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 79,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 107,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2848339)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 4
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "4 km südöstlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 30
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1910-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45134"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "422-stadtwald-essen",
+   "rolle": "ziel",
+   "name": "Stadtwald",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368649",
+   "lat": 51.42083,
+   "lon": 7.02417,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.14,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 122,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 144,
+      "quelle": "Altbestand geo.sqlite (GeoNames 11611394)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 4
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "4 km südlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 28
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1910-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45133",
+       "45134"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "423-fischlaken",
+   "rolle": "ziel",
+   "name": "Fischlaken",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368621",
+   "lat": 51.38889,
+   "lon": 7.02667,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 9.17,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 122,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 127,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2926483)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 8
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "8 km südlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 25
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1929-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45239",
+       "45257"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "424-werden",
+   "rolle": "ziel",
+   "name": "Werden",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q258391",
+   "lat": 51.38639,
+   "lon": 6.99639,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.04,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 58,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 60,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2810961)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 8
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "8 km südlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 24
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1929-08-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45239"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "425-burgaltendorf",
+   "rolle": "ziel",
+   "name": "Burgaltendorf",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368614",
+   "lat": 51.41806,
+   "lon": 7.12222,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 6.3,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 99,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 126,
+      "quelle": "Altbestand geo.sqlite (GeoNames 3205794)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 9
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "9 km südöstlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 32
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1970-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45289"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "426-steele",
+   "rolle": "ziel",
+   "name": "Steele",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368652",
+   "lat": 51.44944,
+   "lon": 7.07639,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 3.03,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 67,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 74,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2829187)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 5
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "5 km östlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 33
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1929-08-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45276"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "427-byfang",
+   "rolle": "ziel",
+   "name": "Byfang",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368620",
+   "lat": 51.40556,
+   "lon": 7.09806,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.12,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 114,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 125,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2940447)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 8
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "8 km südöstlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 30
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1922-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45257"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "428-ruettenscheid",
+   "rolle": "ziel",
+   "name": "Rüttenscheid",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368639",
+   "lat": 51.43556,
+   "lon": 7.00528,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.53,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 110,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 117,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2842772)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 2
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "2 km südlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 29
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1905-06-21",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45130",
+       "45131",
+       "45133",
+       "45136",
+       "45147"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "429-bredeney",
+   "rolle": "ziel",
+   "name": "Bredeney",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q258193",
+   "lat": 51.41444,
+   "lon": 6.99389,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 8.76,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 158,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 161,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2944900)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 5
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "5 km südlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 26
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1915-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45133",
+       "45134",
+       "45239"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "430-huttrop",
+   "rolle": "ziel",
+   "name": "Huttrop",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q1368631",
+   "lat": 51.44861,
+   "lon": 7.04417,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 2.73,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 100,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 102,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2896873)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Essen",
+       "km": 2
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "2 km östlich von Essen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 31
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1908-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45136",
+       "45138",
+       "45139"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "431-kettwig",
+   "rolle": "ziel",
+   "name": "Kettwig",
+   "einheit": "Ortsteil von Essen",
+   "wikidata": "Q153444",
+   "lat": 51.36833,
+   "lon": 6.94,
+   "gemeindeschluessel": "05113000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Essen",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Nordrhein-Westfalen",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 15.0,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "E",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 53,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 91,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2891290)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Mülheim an der Ruhr",
+       "km": 8
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "8 km südöstlich von Mülheim an der Ruhr (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Düsseldorf",
+       "km": 20
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1975-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "45219"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.5,
+        "SPD": 22.2,
+        "AfD": 17.0,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.5
+       },
+       "wahlbeteiligung_prozent": 80.1,
+       "gueltige_zweitstimmen": 317018
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
      }
     ],
     "kueste": [

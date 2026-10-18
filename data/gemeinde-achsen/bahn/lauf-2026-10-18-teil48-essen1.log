@@ -1,0 +1,54 @@
+Orte: 418-kupferdreh 419-ueberruhr 420-bergerhausen 421-rellinghausen 422-stadtwald-essen 423-fischlaken 424-werden 425-burgaltendorf
+== Extraktion (Haiku) 09:37:07
+418-kupferdreh       extraktion ein  21260  aus  12035   0.09 USD    93 s  claude-haiku-4-5-20251001
+419-ueberruhr        extraktion ein  20840  aus   9682   0.08 USD    78 s  claude-haiku-4-5-20251001
+420-bergerhausen     extraktion ein  19425  aus   8693   0.07 USD    67 s  claude-haiku-4-5-20251001
+421-rellinghausen    extraktion ein  20563  aus  13176   0.09 USD   111 s  claude-haiku-4-5-20251001
+422-stadtwald-essen  extraktion ein  19863  aus   8256   0.07 USD    69 s  claude-haiku-4-5-20251001
+423-fischlaken       extraktion ein  18863  aus  13253   0.09 USD   101 s  claude-haiku-4-5-20251001
+424-werden           extraktion ein  22588  aus   8286   0.07 USD    63 s  claude-haiku-4-5-20251001
+425-burgaltendorf    extraktion ein  19753  aus   9234   0.07 USD    71 s  claude-haiku-4-5-20251001
+zusammen: 18599 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+418-kupferdreh     32131 Zeichen
+419-ueberruhr      25396 Zeichen
+420-bergerhausen   23783 Zeichen
+421-rellinghausen   27662 Zeichen
+422-stadtwald-essen   21121 Zeichen
+423-fischlaken     21178 Zeichen
+424-werden         21538 Zeichen
+425-burgaltendorf   21960 Zeichen
+== Karten (claude-opus-5-5) 09:39:56
+418-kupferdreh       karten     ein  43669  aus  37195   1.04 USD   321 s  claude-opus-5-5
+419-ueberruhr        karten     ein  38585  aus  31715   0.89 USD   273 s  claude-opus-5-5
+420-bergerhausen     karten     ein  38170  aus  32236   0.90 USD   270 s  claude-opus-5-5
+421-rellinghausen    karten     ein  40088  aus  34006   0.95 USD   291 s  claude-opus-5-5
+422-stadtwald-essen  karten     ein  36146  aus  28483   0.80 USD   242 s  claude-opus-5-5
+423-fischlaken       karten     ein  36299  aus  31989   0.88 USD   275 s  claude-opus-5-5
+424-werden           karten     ein  36474  aus  34339   0.92 USD   298 s  claude-opus-5-5
+425-burgaltendorf    karten     ein  36898  aus  34848   0.94 USD   293 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 09:49:24
+418-kupferdreh       pruefung   ein  47148  aus   6722   0.46 USD    59 s  claude-opus-5-5
+419-ueberruhr        pruefung   ein  38878  aus   5439   0.37 USD    79 s  claude-opus-5-5
+420-bergerhausen     pruefung   ein  40983  aus   5604   0.39 USD    51 s  claude-opus-5-5
+421-rellinghausen    pruefung   ein  43537  aus   6295   0.42 USD    57 s  claude-opus-5-5
+422-stadtwald-essen  pruefung   ein  38176  aus   5887   0.37 USD    54 s  claude-opus-5-5
+423-fischlaken       pruefung   ein  38980  aus   5223   0.36 USD    46 s  claude-opus-5-5
+424-werden           pruefung   ein  39001  aus   6414   0.39 USD    58 s  claude-opus-5-5
+425-burgaltendorf    pruefung   ein  40924  aus   6014   0.39 USD    54 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 09:51:16
+418-kupferdreh       stufe2     ein 442248  aus  14401   1.37 USD   215 s  claude-opus-5-5,claude-haiku-4-5-20251001
+419-ueberruhr        stufe2     ein 617922  aus  15758   1.63 USD   205 s  claude-opus-5-5,claude-haiku-4-5-20251001
+420-bergerhausen     stufe2     ein 1121583  aus  14423   1.54 USD   310 s  claude-opus-5-5,claude-haiku-4-5-20251001
+421-rellinghausen    stufe2     ein 522044  aus  12396   1.57 USD   177 s  claude-opus-5-5,claude-haiku-4-5-20251001
+422-stadtwald-essen  stufe2     ein 633970  aus  13368   1.70 USD   226 s  claude-opus-5-5,claude-haiku-4-5-20251001
+423-fischlaken       stufe2     ein 807027  aus  14938   1.32 USD   270 s  claude-opus-5-5,claude-haiku-4-5-20251001
+424-werden           stufe2     ein 497788  aus  12755   1.51 USD   173 s  claude-opus-5-5,claude-haiku-4-5-20251001
+425-burgaltendorf    stufe2     ein 439839  aus  12330   1.40 USD   152 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 09:58:43
+Urteile: {'korrigiert': 1260, 'bestätigt': 2107, 'unsicher': 292, 'gesperrt': 119} | im Vorrat: 3659 Karten an 425 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     425 Orte, 3659 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 4471162 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 09:58:46

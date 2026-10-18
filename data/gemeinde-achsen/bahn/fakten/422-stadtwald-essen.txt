@@ -1,0 +1,386 @@
+ID: 422-stadtwald-essen/001
+ENTITÄT: ort
+BEZEICHNUNG: Essen-Stadtwald
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich der Innenstadt, nördlich des Baldeneysees auf den Ruhrhöhen
+  stadtteil_von: Essen
+  typ: Wohngebiet
+  charakteristiken: dominiert von Wald- und Grünflächen
+  nachbarteile: Rüttenscheid, Bergerhausen, Rellinghausen, Heisingen, Bredeney
+  eingemeindung: April 1910
+  ursprünglich_teil_von: Rellinghausen (bis 1910)
+  frühere_bezeichnung: Gemarkung Heide
+  ursprung_name: benannt nach Waldgebiet, das die Stadt Essen aufforsten ließ
+  einwohnerzahl: 9713
+  einwohnerzahl_stand: 31. März 2025
+  altersstruktur_unter18: 15,1%
+  altersstruktur_ab65: 29,7%
+  ausländeranteil: 5,6%
+GUELTIG_AB: 1910
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 422-stadtwald-essen/002
+ENTITÄT: geschichte
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  wurzeln: Landwirtschaft
+  funktion_früher: Kornkammer des Stifts Rellinghausen
+  beschreibung: Das Gebiet gehörte bis zur Eingemeindung nach Essen im April 1910 zu Rellinghausen
+GUELTIG_BIS: 1910
+IST_VERMUTWEISE_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 422-stadtwald-essen/003
+ENTITÄT: burg
+BEZEICHNUNG: Haus Vittinghoff
+ORTSTEIL_BEZUG: Vittinghoffstraße
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: mittelalterliche Wasserburg (Motte)
+  status: Bodendenkmal
+  ersterwähnung: 1272
+  benannt_nach: Heinrich II. von Vittinghoff, der sie 1272 erbte
+GUELTIG_AB: 1272
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/004
+ENTITÄT: hof
+BEZEICHNUNG: Leveringhof
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Pachtgut
+  besitzer_ursprünglich: Stift Rellinghausen
+  ersterwähnung: 1361
+  beschreibung: Grund des Standortes der Filialkirche St. Theresia
+GUELTIG_AB: 1361
+IST_VERMUTWEISE_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/005
+ENTITÄT: hof
+BEZEICHNUNG: Gebrandenhof
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1798
+  baustil: niederdeutsches Hallenhaus
+  ursprüngliche_gebäudeanzahl: 5
+  status: Denkmalgeschütztes Fachwerkhaus
+  ursprünglich_benannt: Gebrande an der Heide
+  landwirtschaftliche_nutzung_bis: 1940
+  heutige_nutzung: Gastronomie
+GUELTIG_AB: 1798
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 422-stadtwald-essen/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Theresia
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Filialkirche
+  mutterkirche: St. Lambertus
+  bauzeit: 1956-1958
+  standort_grund: Grund des ehemaligen Leveringhofes (erstmals 1361 erwähnt)
+  letzter_gottesdienst: Pfingsten 2022
+  umwandlung_beginn: Jahreswechsel 2022/2023
+  umwandlung_kosten: 6000000
+  umwandlung_kosten_einheit: Euro
+  genauigkeit_kosten: ca.
+  umwandlung_inhalte: Kindertagesstätte, Bücherei, Gemeindezentrum mit Kapelle
+  bezug_umbau: August 2024
+  besonderheit: Turm bleibt als Landmarke erhalten
+GUELTIG_AB: 1956
+GUELTIG_BIS: 2022
+IST_VERMUTWEISE_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 422-stadtwald-essen/007
+ENTITÄT: denkmal
+BEZEICHNUNG: Zweigertstein
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: 1909
+  benannt_nach: Oberbürgermeister Erich Zweigert (bereits verstorben zum Zeitpunkt)
+  grund: Dankbarkeit für Zweigerts Rolle bei der Aufforstung und Stadtentwicklung
+  errichtet_durch: zehn Bürger
+GUELTIG_AB: 1909
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 422-stadtwald-essen/008
+ENTITÄT: person
+BEZEICHNUNG: Erich Zweigert
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Oberbürgermeister
+  zeitliche_zuordnung: anfang 20. Jahrhundert
+  verdienste: Setzte sich für gebietsmäßige Ausweitung der Stadt ein; erkannte Notwendigkeit von Ausgleichsflächen als Erholungsgebiete; ließ Waldgebiet aufforsten
+  beschaffung_waldgebiet: 105 Hektar Waldgebiet aus Besitz der Adels-Familie Vittinghoff-Schell
+  kosten: 1900000
+  kosten_einheit: Goldmark
+  anlegung: noch heute existierendes Wegenetz
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1909
+IST_VERMUTWEISE_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/009
+ENTITÄT: brunnen
+BEZEICHNUNG: Schillerbrunnen
+ORTSTEIL_BEZUG: Wittenbergstraße
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  einweihung: 7. Mai 1905
+  anlass: 100. Todestag Friedrich Schillers
+  denkmalschutz_seit: 1991
+  stifter: Hans Gelling
+  stifter_beruf: Essener Theaterdirektor
+  anregung_durch: Heinz Niemeyer
+  niemeyer_funktion: Essener Stadtverordneter und Justizrat
+  gestalter: Fritz Behn
+  gestalter_ort: München
+  gestalter_beruf: Bildhauer
+  design: Brunnenbecken mit gebogener Steinbank; Relief mit mittig angebrachtem Kopf (Wasserspeier); zwei rahmende Reliefs mit Szenen aus Das Lied von der Glocke und Wilhelm Tell
+  restauration: 2024
+  restauration_massnahmen: Restauration mit Aufstellung einer Geschichtstafel
+GUELTIG_AB: 1905
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 422-stadtwald-essen/010
+ENTITÄT: stadium
+BEZEICHNUNG: Uhlenkrugstadion
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: 1922
+  errichter: Verein Schwarz-Weiß Essen
+  finanzierung: ausschließlich aus Spenden
+  kosten: 750000
+  kosten_einheit: Mark
+  kapazität_original: 35000
+  kapazität_1939: 45000
+  kapazität_1939_typ: temporäre Erweiterung
+  kapazität_aktuell: 20000
+  nutzer_hauptsächlich: Schwarz-Weiß Essen
+  nutzer_liga: NRW-Liga
+GUELTIG_AB: 1922
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 422-stadtwald-essen/011
+ENTITÄT: siedlung
+BEZEICHNUNG: Eyhofsiedlung
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: 1921
+  ursprünglicher_name: Stadtwaldsiedlung
+  grundlage: Grundstück des landwirtschaftlichen Eyhofs
+  auftraggeber: Gemeinnütziger Bauverein Essen-Stadtwald
+  auftraggeber_kontext: einer von rund zwanzig Bauvereinen und Baugenossenschaften bis 1930 in Essen
+  architekt: Josef Rings
+  architekt_ort: Essen
+  planung_auftrag: 1919
+  ziel: genossenschaftlicher Wohnungsbau für gehobenen Mittelstand
+  fertigstellung_1921_hausanzahl: 155
+  fertigstellung_1921_familien: 231
+  layout: achsensymmetrisch als geschlossene Einheit
+  besonderheit_lage: Nordwestlicher Waldsaum mit begehrter Wohnlage und Waldblick
+  wwii_schicksal: weitestgehend verschont durch Bombardierungen der Stadt Essen
+  grund_verschonung: frühzeitige Einquartierung eigener Offiziere der britischen Militärleitung
+  luftschutz: unterirdischer Luftschutzbunker im Bereich des Grünhofs
+  nachkriegsentwicklung: Vervollständigung mit Bebauung am Waldsaum
+  eigentum_entwicklung: Mit der Zeit gingen fast alle Häuser in privates Eigentum über
+  geplante_neubebauung: 2021 Diskussionen über Neubebauung (Angerstraße 21–29)
+  erhaltungssatzung_ausschuss: 3. Februar 2022
+  erhaltungssatzung_beschluss: 27. September 2023
+  erhaltungssatzung_gültig_ab: 13. Januar 2024
+  erhaltungssatzung_fläche: 11.5
+  erhaltungssatzung_fläche_einheit: Hektar
+  erhaltungssatzung_ziel: Erhalt der städtebaulichen Eigenart
+GUELTIG_AB: 1921
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 422-stadtwald-essen/012
+ENTITÄT: geplantes_projekt
+BEZEICHNUNG: Zoologischer Garten
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  jahr_verträge: 1927
+  status: unterzeichnete Verträge, nicht realisiert
+  kooperationspartner: Willy Hagenbeck (1884–1965) und Carl Hagenbeck (1888–1949)
+  kooperationspartner_kontext: Söhne des bekannten Hamburger Zoodirektors Carl Hagenbeck
+  grund_nichtrealisierung: knappe Stadtkassen
+GUELTIG_AB: 1927
+GUELTIG_BIS: 1927
+IST_VERMUTWEISE_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/013
+ENTITÄT: vogelpark
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: zwischen Franken- und Eichenstraße
+  umzug_tiere: Mitte der 1990er Jahre
+  umzug_ziel: Grugapark
+GUELTIG_BIS: 1995
+IST_VERMUTWEISE_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 422-stadtwald-essen/014
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Grün fünf goldene (gelbe) Eichen im Verhältnis 3:2; zwischen den beiden unteren ein aufrechtes goldenes Schwert
+  entworfer: Kurt Schweder
+  offizieller_charakter: hatte nie offiziellen Charakter
+  wappentyp: reddendes Wappen
+  symbolik_schwert: "Stadt-" als Attribut der Stadtpatrone Cosmas und Damian; stellt Bezug zum Essener Stadtwappen her
+  symbolik_eichen: "-wald" sowie die fünf ehemaligen Höfe der Gemarkung Heide
+  erstellung_allen_stadtteilen: Ende der 1980er Jahre
+  akzeptanz: von der Essener Bevölkerung gut angenommen
+GUELTIG_AB: 1980
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 422-stadtwald-essen/015
+ENTITÄT: reithalle
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  status: Denkmalgeschütztes Gebäude
+  baujahr: 1929
+  architekten: Alfred Fischer und Richard Speidel
+  baustil: Bauhausstil
+  nutzer: Großer Reitverein
+GUELTIG_AB: 1929
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/016
+ENTITÄT: schule
+BEZEICHNUNG: Gesamtschule Essen-Süd
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: über Stadtteilgrenzen hinaus
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 422-stadtwald-essen/017
+ENTITÄT: schule
+BEZEICHNUNG: Freie Waldorfschule in Essen
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: über Stadtteilgrenzen hinaus
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 422-stadtwald-essen/018
+ENTITÄT: schule
+BEZEICHNUNG: Dore-Jacobs-Berufskolleg
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: private Berufsfachschule für Gymnastik
+  bedeutung: über Stadtteilgrenzen hinaus
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 422-stadtwald-essen/019
+ENTITÄT: schule
+BEZEICHNUNG: Stiftsschule
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: städtische Grundschule
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 422-stadtwald-essen/020
+ENTITÄT: bibliothek
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Zweigstelle
+  hauptbibliothek: Stadtbibliothek Essen
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 422-stadtwald-essen/021
+ENTITÄT: straße
+BEZEICHNUNG: Frankenstraße
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: wichtigste Verkehrsverbindung
+  richtung: Ost-West durch Stadtteil
+  historische_funktion: seit Mittelalter Verbindung zwischen Kloster Werden und Rellinghausen
+GUELTIG_AB: 1200
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 422-stadtwald-essen/022
+ENTITÄT: platz
+BEZEICHNUNG: Stadtwaldplatz
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Zentrum des Stadtteils
+  städtebauliche_neugestaltung: 2003
+  anbindung_buslinien: 142, 144, 145, 175, 194
+  anbindung_taxibus: T175
+  anbindung_schnellbus: NE7
+  anbindung_betreiber: Ruhrbahn (VRR)
+  historischer_verkehrsmittel: Straßenbahn Essen (früher)
+GUELTIG_AB: 2003
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 422-stadtwald-essen/023
+ENTITÄT: tunnel
+BEZEICHNUNG: Stadtwald-Tunnel
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  lage: unter dem Stadtwaldplatz
+  länge: 247
+  länge_einheit: Meter
+  bahnstrecke: Essen–Essen-Werden
+  nutzung: S-Bahn-Linie S6
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 422-stadtwald-essen/024
+ENTITÄT: bahnhof
+BEZEICHNUNG: S-Bahnhof Essen-Stadtwald
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  früherer_name: Rellinghausen West
+  umbenennung: 31. Dezember 1910
+  lage: nördlich des Stadtwaldplatzes
+  bahnlinie: S6
+GUELTIG_AB: 1910
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 422-stadtwald-essen/025
+ENTITÄT: sportplatz
+BEZEICHNUNG: Schillerwiese
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  typ: großer Sportplatz
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 422-stadtwald-essen/026
+ENTITÄT: sportverein
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: mehrere Tennisvereine und Kampfsportabteilung des Polizeisportvereins Essen
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 422-stadtwald-essen/027
+ENTITÄT: waldpark
+QUELLE: https://de.wikipedia.org/wiki/Stadtwald_(Essen) | Wikipedia
+EIGENSCHAFTEN:
+  grund: Gelände eines ehemaligen Vogelparks
+  ausstattung: mehrere Lehrtafeln mit Einblick in heimische Tier- und Pflanzenwelt
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

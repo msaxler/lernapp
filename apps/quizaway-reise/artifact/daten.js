@@ -77632,6 +77632,9 @@ window.QA_DATEN = {
 ],
 "358-heiligenhaus": [
 "Düsseldorf hat rund 25-mal so viele Einwohner wie Heiligenhaus."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Düsseldorf ist kreisfrei."
 ]
 },
 "ags": "05111000",
@@ -77865,6 +77868,30 @@ window.QA_DATEN = {
 ],
 "360-heisingen": [
 "Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Ratingen ist kreisfrei."
+],
+"418-kupferdreh": [
+"Kreisgrenze: Kupferdreh gehört zum Landkreis Stadtkreis Essen, Ratingen ist kreisfrei."
+],
+"421-rellinghausen": [
+"Kreisgrenze: Rellinghausen gehört zum Landkreis Stadtkreis Essen, Ratingen ist kreisfrei."
+],
+"422-stadtwald-essen": [
+"Kreisgrenze: Stadtwald gehört zum Landkreis Stadtkreis Essen, Ratingen ist kreisfrei."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Ratingen ist kreisfrei."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Ratingen ist kreisfrei."
+],
+"428-ruettenscheid": [
+"Kreisgrenze: Rüttenscheid gehört zum Landkreis Stadtkreis Essen, Ratingen ist kreisfrei."
+],
+"429-bredeney": [
+"Kreisgrenze: Bredeney gehört zum Landkreis Stadtkreis Essen, Ratingen ist kreisfrei."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Ratingen ist kreisfrei."
 ]
 },
 "ags": "05158028",
@@ -78038,6 +78065,42 @@ window.QA_DATEN = {
 "358-heiligenhaus": [
 "Bundestagswahl 2025: In Heiligenhaus lag die CDU vorn, in Duisburg die SPD.",
 "Duisburg hat neunzehnmal so viele Einwohner wie Heiligenhaus."
+],
+"420-bergerhausen": [
+"Kreisgrenze: Bergerhausen gehört zum Landkreis Stadtkreis Essen, Duisburg ist kreisfrei.",
+"Bundestagswahl 2025: In Bergerhausen lag die CDU vorn, in Duisburg die SPD."
+],
+"421-rellinghausen": [
+"Kreisgrenze: Rellinghausen gehört zum Landkreis Stadtkreis Essen, Duisburg ist kreisfrei.",
+"Bundestagswahl 2025: In Rellinghausen lag die CDU vorn, in Duisburg die SPD."
+],
+"422-stadtwald-essen": [
+"Kreisgrenze: Stadtwald gehört zum Landkreis Stadtkreis Essen, Duisburg ist kreisfrei.",
+"Bundestagswahl 2025: In Stadtwald lag die CDU vorn, in Duisburg die SPD."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Duisburg ist kreisfrei.",
+"Bundestagswahl 2025: In Fischlaken lag die CDU vorn, in Duisburg die SPD."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Duisburg ist kreisfrei.",
+"Bundestagswahl 2025: In Werden lag die CDU vorn, in Duisburg die SPD."
+],
+"428-ruettenscheid": [
+"Kreisgrenze: Rüttenscheid gehört zum Landkreis Stadtkreis Essen, Duisburg ist kreisfrei.",
+"Bundestagswahl 2025: In Rüttenscheid lag die CDU vorn, in Duisburg die SPD."
+],
+"429-bredeney": [
+"Kreisgrenze: Bredeney gehört zum Landkreis Stadtkreis Essen, Duisburg ist kreisfrei.",
+"Bundestagswahl 2025: In Bredeney lag die CDU vorn, in Duisburg die SPD."
+],
+"430-huttrop": [
+"Kreisgrenze: Huttrop gehört zum Landkreis Stadtkreis Essen, Duisburg ist kreisfrei.",
+"Bundestagswahl 2025: In Huttrop lag die CDU vorn, in Duisburg die SPD."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Duisburg ist kreisfrei.",
+"Bundestagswahl 2025: In Kettwig lag die CDU vorn, in Duisburg die SPD."
 ]
 },
 "ags": "05112000",
@@ -78224,6 +78287,48 @@ window.QA_DATEN = {
 ],
 "360-heisingen": [
 "Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"418-kupferdreh": [
+"Kreisgrenze: Kupferdreh gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"419-ueberruhr": [
+"Kreisgrenze: Überruhr gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"420-bergerhausen": [
+"Kreisgrenze: Bergerhausen gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"421-rellinghausen": [
+"Kreisgrenze: Rellinghausen gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"422-stadtwald-essen": [
+"Kreisgrenze: Stadtwald gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"425-burgaltendorf": [
+"Kreisgrenze: Burgaltendorf gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"426-steele": [
+"Kreisgrenze: Steele gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"427-byfang": [
+"Kreisgrenze: Byfang gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"428-ruettenscheid": [
+"Kreisgrenze: Rüttenscheid gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"429-bredeney": [
+"Kreisgrenze: Bredeney gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"430-huttrop": [
+"Kreisgrenze: Huttrop gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Mülheim an der Ruhr ist kreisfrei."
 ]
 },
 "ags": "05117000",
@@ -78432,6 +78537,48 @@ window.QA_DATEN = {
 ],
 "360-heisingen": [
 "Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"418-kupferdreh": [
+"Kreisgrenze: Kupferdreh gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"419-ueberruhr": [
+"Kreisgrenze: Überruhr gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"420-bergerhausen": [
+"Kreisgrenze: Bergerhausen gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"421-rellinghausen": [
+"Kreisgrenze: Rellinghausen gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"422-stadtwald-essen": [
+"Kreisgrenze: Stadtwald gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"425-burgaltendorf": [
+"Kreisgrenze: Burgaltendorf gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"426-steele": [
+"Kreisgrenze: Steele gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"427-byfang": [
+"Kreisgrenze: Byfang gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"428-ruettenscheid": [
+"Kreisgrenze: Rüttenscheid gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"429-bredeney": [
+"Kreisgrenze: Bredeney gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"430-huttrop": [
+"Kreisgrenze: Huttrop gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Essen ist kreisfrei."
 ]
 },
 "ags": "05113000",
@@ -78614,6 +78761,62 @@ window.QA_DATEN = {
 "360-heisingen": [
 "Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
 "Bundestagswahl 2025: In Heisingen lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"418-kupferdreh": [
+"Kreisgrenze: Kupferdreh gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Kupferdreh lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"419-ueberruhr": [
+"Kreisgrenze: Überruhr gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Überruhr lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"420-bergerhausen": [
+"Kreisgrenze: Bergerhausen gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Bergerhausen lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"421-rellinghausen": [
+"Kreisgrenze: Rellinghausen gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Rellinghausen lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"422-stadtwald-essen": [
+"Kreisgrenze: Stadtwald gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Stadtwald lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Fischlaken lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Werden lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"425-burgaltendorf": [
+"Kreisgrenze: Burgaltendorf gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Burgaltendorf lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"426-steele": [
+"Kreisgrenze: Steele gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Steele lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"427-byfang": [
+"Kreisgrenze: Byfang gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Byfang lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"428-ruettenscheid": [
+"Kreisgrenze: Rüttenscheid gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Rüttenscheid lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"429-bredeney": [
+"Kreisgrenze: Bredeney gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Bredeney lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"430-huttrop": [
+"Kreisgrenze: Huttrop gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Huttrop lag die CDU vorn, in Gelsenkirchen die AfD."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Gelsenkirchen ist kreisfrei.",
+"Bundestagswahl 2025: In Kettwig lag die CDU vorn, in Gelsenkirchen die AfD."
 ]
 },
 "ags": "05513000",
@@ -78830,6 +79033,58 @@ window.QA_DATEN = {
 "360-heisingen": [
 "Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
 "Bundestagswahl 2025: In Heisingen lag die CDU vorn, in Bochum die SPD."
+],
+"418-kupferdreh": [
+"Kreisgrenze: Kupferdreh gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Kupferdreh lag die CDU vorn, in Bochum die SPD."
+],
+"419-ueberruhr": [
+"Kreisgrenze: Überruhr gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Überruhr lag die CDU vorn, in Bochum die SPD."
+],
+"420-bergerhausen": [
+"Kreisgrenze: Bergerhausen gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Bergerhausen lag die CDU vorn, in Bochum die SPD."
+],
+"421-rellinghausen": [
+"Kreisgrenze: Rellinghausen gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Rellinghausen lag die CDU vorn, in Bochum die SPD."
+],
+"422-stadtwald-essen": [
+"Kreisgrenze: Stadtwald gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Stadtwald lag die CDU vorn, in Bochum die SPD."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Fischlaken lag die CDU vorn, in Bochum die SPD."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Werden lag die CDU vorn, in Bochum die SPD."
+],
+"425-burgaltendorf": [
+"Kreisgrenze: Burgaltendorf gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Burgaltendorf lag die CDU vorn, in Bochum die SPD."
+],
+"426-steele": [
+"Kreisgrenze: Steele gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Steele lag die CDU vorn, in Bochum die SPD."
+],
+"427-byfang": [
+"Kreisgrenze: Byfang gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Byfang lag die CDU vorn, in Bochum die SPD."
+],
+"428-ruettenscheid": [
+"Kreisgrenze: Rüttenscheid gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Rüttenscheid lag die CDU vorn, in Bochum die SPD."
+],
+"429-bredeney": [
+"Kreisgrenze: Bredeney gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Bredeney lag die CDU vorn, in Bochum die SPD."
+],
+"430-huttrop": [
+"Kreisgrenze: Huttrop gehört zum Landkreis Stadtkreis Essen, Bochum ist kreisfrei.",
+"Bundestagswahl 2025: In Huttrop lag die CDU vorn, in Bochum die SPD."
 ]
 },
 "ags": "05911000",
@@ -96483,6 +96738,9 @@ window.QA_DATEN = {
 ],
 "358-heiligenhaus": [
 "Haan hat rund 4.100 Einwohner mehr als Heiligenhaus."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Haan ist kreisfrei."
 ]
 },
 "ags": "05158008",
@@ -96719,6 +96977,15 @@ window.QA_DATEN = {
 ],
 "358-heiligenhaus": [
 "Erkrath hat gut anderthalbmal so viele Einwohner wie Heiligenhaus."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Erkrath ist kreisfrei."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Erkrath ist kreisfrei."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Erkrath ist kreisfrei."
 ]
 },
 "ags": "05158004",
@@ -96936,6 +97203,27 @@ window.QA_DATEN = {
 ],
 "360-heisingen": [
 "Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Mettmann ist kreisfrei."
+],
+"418-kupferdreh": [
+"Kreisgrenze: Kupferdreh gehört zum Landkreis Stadtkreis Essen, Mettmann ist kreisfrei."
+],
+"422-stadtwald-essen": [
+"Kreisgrenze: Stadtwald gehört zum Landkreis Stadtkreis Essen, Mettmann ist kreisfrei."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Mettmann ist kreisfrei."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Mettmann ist kreisfrei."
+],
+"427-byfang": [
+"Kreisgrenze: Byfang gehört zum Landkreis Stadtkreis Essen, Mettmann ist kreisfrei."
+],
+"429-bredeney": [
+"Kreisgrenze: Bredeney gehört zum Landkreis Stadtkreis Essen, Mettmann ist kreisfrei."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Mettmann ist kreisfrei."
 ]
 },
 "ags": "05158024",
@@ -97173,6 +97461,58 @@ window.QA_DATEN = {
 "360-heisingen": [
 "Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
 "Wülfrath liegt rund 170 Meter höher als Heisingen."
+],
+"418-kupferdreh": [
+"Kreisgrenze: Kupferdreh gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
+"Wülfrath liegt rund 200 Meter höher als Kupferdreh."
+],
+"419-ueberruhr": [
+"Kreisgrenze: Überruhr gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
+"Wülfrath liegt rund 170 Meter höher als Überruhr."
+],
+"420-bergerhausen": [
+"Kreisgrenze: Bergerhausen gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
+"Wülfrath liegt rund 150 Meter höher als Bergerhausen."
+],
+"421-rellinghausen": [
+"Kreisgrenze: Rellinghausen gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
+"Wülfrath liegt rund 180 Meter höher als Rellinghausen."
+],
+"422-stadtwald-essen": [
+"Kreisgrenze: Stadtwald gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
+"Wülfrath liegt rund 200 Meter höher als Werden."
+],
+"425-burgaltendorf": [
+"Kreisgrenze: Burgaltendorf gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
+"Wülfrath liegt rund 160 Meter höher als Burgaltendorf."
+],
+"426-steele": [
+"Kreisgrenze: Steele gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
+"Wülfrath liegt rund 200 Meter höher als Steele."
+],
+"427-byfang": [
+"Kreisgrenze: Byfang gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei."
+],
+"428-ruettenscheid": [
+"Kreisgrenze: Rüttenscheid gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
+"Wülfrath liegt rund 150 Meter höher als Rüttenscheid."
+],
+"429-bredeney": [
+"Kreisgrenze: Bredeney gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei."
+],
+"430-huttrop": [
+"Kreisgrenze: Huttrop gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
+"Wülfrath liegt rund 160 Meter höher als Huttrop."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Wülfrath ist kreisfrei.",
+"Wülfrath liegt rund 210 Meter höher als Kettwig."
 ]
 },
 "ags": "05158036",
@@ -97378,6 +97718,24 @@ window.QA_DATEN = {
 ],
 "360-heisingen": [
 "Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Wuppertal ist kreisfrei."
+],
+"418-kupferdreh": [
+"Kreisgrenze: Kupferdreh gehört zum Landkreis Stadtkreis Essen, Wuppertal ist kreisfrei."
+],
+"419-ueberruhr": [
+"Kreisgrenze: Überruhr gehört zum Landkreis Stadtkreis Essen, Wuppertal ist kreisfrei."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Wuppertal ist kreisfrei."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Wuppertal ist kreisfrei."
+],
+"425-burgaltendorf": [
+"Kreisgrenze: Burgaltendorf gehört zum Landkreis Stadtkreis Essen, Wuppertal ist kreisfrei."
+],
+"427-byfang": [
+"Kreisgrenze: Byfang gehört zum Landkreis Stadtkreis Essen, Wuppertal ist kreisfrei."
 ]
 },
 "ags": "05124000",
@@ -97620,6 +97978,53 @@ window.QA_DATEN = {
 ],
 "360-heisingen": [
 "Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei."
+],
+"418-kupferdreh": [
+"Kreisgrenze: Kupferdreh gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei.",
+"Velbert liegt rund 170 Meter höher als Kupferdreh."
+],
+"419-ueberruhr": [
+"Kreisgrenze: Überruhr gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei."
+],
+"420-bergerhausen": [
+"Kreisgrenze: Bergerhausen gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei."
+],
+"421-rellinghausen": [
+"Kreisgrenze: Rellinghausen gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei.",
+"Velbert liegt rund 150 Meter höher als Rellinghausen."
+],
+"422-stadtwald-essen": [
+"Kreisgrenze: Stadtwald gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei.",
+"Velbert liegt rund 170 Meter höher als Werden."
+],
+"425-burgaltendorf": [
+"Kreisgrenze: Burgaltendorf gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei."
+],
+"426-steele": [
+"Kreisgrenze: Steele gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei.",
+"Velbert liegt rund 160 Meter höher als Steele."
+],
+"427-byfang": [
+"Kreisgrenze: Byfang gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei."
+],
+"428-ruettenscheid": [
+"Kreisgrenze: Rüttenscheid gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei."
+],
+"429-bredeney": [
+"Kreisgrenze: Bredeney gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei."
+],
+"430-huttrop": [
+"Kreisgrenze: Huttrop gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Velbert ist kreisfrei.",
+"Velbert liegt rund 180 Meter höher als Kettwig."
 ]
 },
 "ags": "05158032",
@@ -97845,6 +98250,48 @@ window.QA_DATEN = {
 ],
 "360-heisingen": [
 "Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"418-kupferdreh": [
+"Kreisgrenze: Kupferdreh gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"419-ueberruhr": [
+"Kreisgrenze: Überruhr gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"420-bergerhausen": [
+"Kreisgrenze: Bergerhausen gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"421-rellinghausen": [
+"Kreisgrenze: Rellinghausen gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"422-stadtwald-essen": [
+"Kreisgrenze: Stadtwald gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"425-burgaltendorf": [
+"Kreisgrenze: Burgaltendorf gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"426-steele": [
+"Kreisgrenze: Steele gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"427-byfang": [
+"Kreisgrenze: Byfang gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"428-ruettenscheid": [
+"Kreisgrenze: Rüttenscheid gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"429-bredeney": [
+"Kreisgrenze: Bredeney gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"430-huttrop": [
+"Kreisgrenze: Huttrop gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Heiligenhaus ist kreisfrei."
 ]
 },
 "ags": "05158012",
@@ -98071,6 +98518,48 @@ window.QA_DATEN = {
 ],
 "360-heisingen": [
 "Kreisgrenze: Heisingen gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"418-kupferdreh": [
+"Kreisgrenze: Kupferdreh gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"419-ueberruhr": [
+"Kreisgrenze: Überruhr gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"420-bergerhausen": [
+"Kreisgrenze: Bergerhausen gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"421-rellinghausen": [
+"Kreisgrenze: Rellinghausen gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"422-stadtwald-essen": [
+"Kreisgrenze: Stadtwald gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"423-fischlaken": [
+"Kreisgrenze: Fischlaken gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"424-werden": [
+"Kreisgrenze: Werden gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"425-burgaltendorf": [
+"Kreisgrenze: Burgaltendorf gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"426-steele": [
+"Kreisgrenze: Steele gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"427-byfang": [
+"Kreisgrenze: Byfang gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"428-ruettenscheid": [
+"Kreisgrenze: Rüttenscheid gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"429-bredeney": [
+"Kreisgrenze: Bredeney gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"430-huttrop": [
+"Kreisgrenze: Huttrop gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
+],
+"431-kettwig": [
+"Kreisgrenze: Kettwig gehört zum Landkreis Stadtkreis Essen, Hattingen ist kreisfrei."
 ]
 },
 "ags": "05954016",
@@ -102078,6 +102567,3222 @@ window.QA_DATEN = {
 "ags": "07138047",
 "ortsteil": true,
 "km_vom_vorigen": 2.8
+},
+{
+"slug": "418-kupferdreh",
+"name": "Kupferdreh",
+"lat": 51.39222,
+"lon": 7.0825,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kupferdreh",
+"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Worauf bezieht sich der Name Kupferdreh?",
+"optionen": [
+"Der Name beschreibt eine scharfe Flussbiegung.",
+"Der Name stammt von einem Drehkreuz an einer Zollstelle.",
+"Der Name erinnert an einen Kupferhändler.",
+"Eine kupferne Wetterfahne gab den Namen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kupfer liegt nahe, und manche verbinden den Namen auch mit einem Kupferhammer am Deilbach. Der Wortteil „Dreh“ meint aber die Drehung der Ruhr: An der Deilbachmündung lag die gefürchtetste Flussbiegung, bei Schiffern „Kopperdrai“. 1813 hieß der Ort plattdeutsch Kupperdreh. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
+"faktencheck": "korrigiert",
+"id": "418-kupferdreh/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kupferdreh",
+"steckbrief": "Stadtteil im Essener Südosten, 9 km von der Stadtmitte, mit rund 11.000 Einwohnern.",
+"frage": "Wie groß ist die Fläche des Essener Stadtteils Kupferdreh?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 12 km²",
+"12 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Stadtteile am Rand einer Großstadt sind oft weitläufiger als die dichten Viertel der Mitte, darum schätzt man leicht zu groß. Kupferdreh misst 9,34 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "418-kupferdreh/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kupferdreh",
+"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Karnevalszug zieht am Aschermittwoch durch Kupferdreh.",
+"Familie Bender vermachte ihr Gelände für einen Bürgerpark.",
+"Die Kampmannbrücke war anfangs eine schwimmende Pontonbrücke."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am Aschermittwoch ist die Fastnacht vorbei. Der Kupferdreher Zug zieht sonst am Rosenmontag, 2026 aus Sicherheitsgründen am Tulpensonntag. Wahr ist: Der Zementfabrikant August Bender vermachte seinen Park der Gemeinde als Erholungsort, und die erste Kampmannbrücke von 1895 war eine Pontonbrücke, also eine Brücke auf Schwimmkörpern. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
+"faktencheck": "korrigiert",
+"id": "418-kupferdreh/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kupferdreh",
+"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in der Stadt Essen nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"GRÜNE",
+"SPD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet erwartet man die SPD vorn, also die CDU auf Platz zwei. In Essen lag aber die CDU vorn; die SPD folgte mit 22,2 Prozent, vor der AfD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "418-kupferdreh/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kupferdreh",
+"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Im Zweiten Weltkrieg betrieb die Luftwaffe auf dem Kupferdreher Rottberg die „Kruppsche Nachtscheinanlage“. Wozu diente sie?",
+"optionen": [
+"Sie sollte alliierte Bomber täuschen.",
+"Sie ortete feindliche Flugzeuge per Funk.",
+"Sie diente Nachtjägern als Landeplatz.",
+"Sie warnte die Bevölkerung vor Luftangriffen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Anlage der Luftwaffe denkt man an Abwehr oder Warnung. Diese aber sollte die alliierten Bomber täuschen: Eine Scheinanlage gaukelt nachts ein lohnendes Ziel vor. Die Folge waren zahlreiche Bombenangriffe auf die ländliche Umgebung. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
+"faktencheck": "unsicher",
+"id": "418-kupferdreh/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kupferdreh",
+"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Wie weit ist es von Kupferdreh in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"unter 15 km",
+"15 bis unter 40 km",
+"40 bis unter 70 km",
+"70 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Ballungsraum an Rhein und Ruhr wirken Essen und Düsseldorf wie Nachbarn. Von Kupferdreh aus sind es aber 29 Kilometer Luftlinie bis zur Landeshauptstadt, deutlich mehr als bis zur Essener Stadtmitte. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "418-kupferdreh/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kupferdreh",
+"steckbrief": "Essener Stadtteil an der Ruhr mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Friedrich Harkort baute 1831 die Deilthaler Eisenbahn. Wohin sollte sie Kohle bringen?",
+"optionen": [
+"Sie brachte Kohle ins Bergische Land.",
+"Sie brachte Kohle ins Münsterland.",
+"Sie brachte Kohle an den Niederrhein.",
+"Sie brachte Kohle ins Siegerland."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ruhrkohle denkt man sich auf dem Weg zum Rhein. Die Deilthaler Eisenbahn aber führte von der Ruhr hinauf nach Nierenhof und sollte Kohle ins Bergische Land bringen. Ihre Gesellschaft gilt als erste deutsche Eisenbahn-Aktiengesellschaft. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
+"faktencheck": "korrigiert",
+"id": "418-kupferdreh/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kupferdreh",
+"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Bis 1987 entstand in Kupferdreh auf dem Gelände eines früheren Kohlekraftwerks ein Zentrum. Wofür wurde es gebaut?",
+"optionen": [
+"Dort sollte ein Museum für Elektrizität entstehen.",
+"Dort sollte Personal von Kernkraftwerken am Simulator üben.",
+"Dort sollten neue Windräder erprobt werden.",
+"Dort sollten Forscher an Solarzellen arbeiten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein früheres Kraftwerksgelände legt ein Museum nahe. Doch das Simulatorzentrum entstand, damit Personal aus Kernkraftwerken an originalgetreuen Simulatoren trainiert, wie der Name sagt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
+"faktencheck": "korrigiert",
+"id": "418-kupferdreh/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kupferdreh",
+"steckbrief": "Essener Stadtteil mit rund 11.000 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "1937 stieß man beim Bau einer Kaserne in Kupferdreh auf ein Steinkistengrab. Wie alt ist es ungefähr?",
+"optionen": [
+"Es ist etwa 400 Jahre alt.",
+"Es ist etwa 1.000 Jahre alt.",
+"Es ist etwa 2.000 Jahre alt.",
+"Es ist etwa 5.000 Jahre alt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Steinkiste ist ein mit Steinen ausgekleidetes Grab und klingt nach Römern oder Mittelalter. Das Kupferdreher Grab stammt aber aus der Jungsteinzeit, ist etwa 5.000 Jahre alt und gilt als ältestes erhaltenes Bauwerk Essens. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kupferdreh",
+"faktencheck": "korrigiert",
+"id": "418-kupferdreh/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "417-wolfenacker",
+"anschluss": [
+"Kennzeichen: In Wolfenacker steht NR am Auto, in Kupferdreh E.",
+"Bundestagswahl 2025: In Niederbreitbach wählten anteilig mehr als in Essen."
+],
+"anschluesse": {
+"196-ratingen": [
+"Kreisgrenze: Ratingen ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen."
+],
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Kupferdreh die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Kupferdreh die CDU."
+],
+"354-mettmann": [
+"Kreisgrenze: Mettmann ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen.",
+"Wülfrath liegt rund 200 Meter höher als Kupferdreh."
+],
+"356-wuppertal": [
+"Kreisgrenze: Wuppertal ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen.",
+"Velbert liegt rund 170 Meter höher als Kupferdreh."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Kupferdreh gehört zum Landkreis Stadtkreis Essen."
+],
+"417-wolfenacker": [
+"Kennzeichen: In Wolfenacker steht NR am Auto, in Kupferdreh E.",
+"Bundestagswahl 2025: In Niederbreitbach wählten anteilig mehr als in Essen."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 99.8
+},
+{
+"slug": "419-ueberruhr",
+"name": "Überruhr",
+"lat": 51.42639,
+"lon": 7.07889,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
+"frage": "In Überruhr-Hinsel lag eine germanische Siedlung, vermutlich der Brukterer. Wann wurde sie ausgegraben?",
+"optionen": [
+"vor dem Ersten Weltkrieg",
+"in den 1930er-Jahren",
+"in den 1960er- und 1970er-Jahren",
+"nach dem Jahr 2000"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Solche Funde verbindet man oft mit neuen Bauprojekten. Gegraben wurde aber von 1966 bis 1971, unter anderem vom damaligen Ruhrland- und Heimatmuseum. Man fand Reste von Häusern, einen Rennofen und römische Keramik. Vermutlich lebten hier Brukterer. Richtig war 3.",
+"quelle": "LVR-Amt für Bodendenkmalpflege (KuLaDig); Ruhr Museum",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Überruhr?",
+"optionen": [
+"unter 7 km²",
+"7 bis unter 10 km²",
+"10 bis unter 15 km²",
+"15 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Überruhr umfasst die Stadtteile Überruhr-Hinsel und Überruhr-Holthausen; das klingt nach viel Fläche. Zusammen messen beide aber nur rund 6,6 Quadratkilometer, oberhalb einer Halbinsel der Ruhr. Richtig war 1.",
+"quelle": "Stadt Essen, Amt für Statistik, Stadtforschung und Wahlen",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Park in Überruhr ehrt einen Bergmann und Dichter.",
+"Erst nach 1900 fuhr ein Zug über die Ruhr nach Steele.",
+"Die Kirche St. Suitbert trägt ein Dach aus einer Betonschale."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Bahnbrücke über die Ruhr klingt nach jüngerer Zeit. Doch schon am 1. Juni 1863 fuhr der erste Zug über die Eisenbahnbrücke zwischen Überruhr und Steele. Der Park ehrt den Bergmann und Dichter Ludwig Kessing. St. Suitbert trägt eine nur vier Zentimeter dünne Betonschale. Die Lüge war 2.",
+"quelle": "Stadt Essen, Historisches Portal; LVR (KuLaDig); TU Dortmund",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
+"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in der Stadt Essen, zu der Überruhr gehört?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 77 %",
+"77 bis unter 82 %",
+"82 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ruhrgebietsstädte stehen im Ruf geringer Wahlbeteiligung, ein niedriger Wert liegt also nahe. In Essen lag die Beteiligung bei der Bundestagswahl 2025 aber bei 80,1 Prozent. Stärkste Partei wurde die CDU vor der SPD. Der Wert gilt für ganz Essen, nicht eigens für Überruhr. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "419-ueberruhr/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
+"frage": "Die Friedenskapelle der Heiligen Eucharistie in Überruhr entstand 1960/61. Welchen Anlass nennt die Ortsgeschichte für ihren Bau?",
+"optionen": [
+"Sie dankte für die Heimkehr der Kriegsgefangenen.",
+"Sie erinnert an ein Grubenunglück im Ort.",
+"Sie feierte ein Jubiläum der Pfarrgemeinde.",
+"Ein großer katholischer Kongress gab den Anlass."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name Friedenskapelle lässt an das Kriegsende und an heimgekehrte Gefangene denken. Die Ortsgeschichte nennt aber einen kirchlichen Anlass: den Eucharistischen Weltkongress, ein Großtreffen der katholischen Kirche, 1960 in München. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Überruhr; Historisches Lexikon Bayerns",
+"faktencheck": "korrigiert",
+"id": "419-ueberruhr/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
+"frage": "Wann wurde Überruhr nach Essen eingemeindet?",
+"optionen": [
+"vor 1935",
+"1935 bis 1954",
+"1955 bis 1974",
+"1975 oder später"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele denken an die große Gebietsreform in Nordrhein-Westfalen, als zahlreiche Orte ihre Selbstständigkeit verloren. Überruhr gehört aber schon seit dem 1. August 1929 zu Essen. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "419-ueberruhr/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überruhr",
+"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
+"frage": "Im Wappen von Überruhr steht ein silbernes Sonnenrad mit schwarzem Auge. Worauf weist es nach der Deutung des Wappens hin?",
+"optionen": [
+"Es steht für das Seilrad eines Förderturms.",
+"Es weist auf germanische Bodenfunde im Ort hin.",
+"Es erinnert an die Räder der Pferdeeisenbahn.",
+"Es zeigt das Rad einer alten Wassermühle."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei einem Rad zuerst an den Förderturm. Das Zeichen heißt aber Kreuzschargen: ein heraldisches Sonnensymbol, als germanisches Zeichen glücksbringend und unheilabwehrend. Es weist auf germanische Bodenfunde hin. Der wellige Sparren verweist auf den alten Namen „Over Rore“. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Überruhr",
+"faktencheck": "bestätigt",
+"id": "419-ueberruhr/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "418-kupferdreh",
+"anschluss": [
+"Luftlinie zur Essener Mitte: Überruhr 6 km, Kupferdreh 9 km."
+],
+"anschluesse": {
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Überruhr gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Überruhr gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Überruhr gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Überruhr die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Überruhr gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Überruhr die CDU."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Überruhr gehört zum Landkreis Stadtkreis Essen.",
+"Wülfrath liegt rund 170 Meter höher als Überruhr."
+],
+"356-wuppertal": [
+"Kreisgrenze: Wuppertal ist kreisfrei, Überruhr gehört zum Landkreis Stadtkreis Essen."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Überruhr gehört zum Landkreis Stadtkreis Essen."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Überruhr gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Überruhr gehört zum Landkreis Stadtkreis Essen."
+],
+"418-kupferdreh": [
+"Luftlinie zur Essener Mitte: Überruhr 6 km, Kupferdreh 9 km."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 3.8
+},
+{
+"slug": "420-bergerhausen",
+"name": "Bergerhausen",
+"lat": 51.43639,
+"lon": 7.04444,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bergerhausen",
+"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
+"frage": "Im heutigen Bergerhausen lag die Zeche Kunstwerk. Woher hatte sie vermutlich ihren Namen?",
+"optionen": [
+"Ein Kunstmaler gehörte zu ihren ersten Teilhabern.",
+"Ihr Gründer trug den Familiennamen Kunst.",
+"Gemeint war wohl eine mechanische Fördereinrichtung.",
+"Bergleute schmückten ihre Stollen mit Bildern."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Heute denkt man bei Kunst an Malerei und Bilder, deshalb liegt ein Künstler als Namensgeber nahe. In der alten Bergmannssprache hieß aber auch eine Maschine Kunst, etwa eine Wasserkunst zum Heben von Grubenwasser. Der Name meint wohl eine mechanische Fördereinrichtung dieses Namens. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bergerhausen_(Essen)",
+"faktencheck": "korrigiert",
+"id": "420-bergerhausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bergerhausen",
+"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Bergerhausen?",
+"optionen": [
+"unter 1 km²",
+"1 bis unter 2 km²",
+"2 bis unter 3 km²",
+"3 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Stadtteil so nah an der Stadtmitte schätzt man die Fläche leicht zu klein ein. Bergerhausen umfasst aber 3,34 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "420-bergerhausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bergerhausen",
+"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Zeche Henriettenglück förderte erst Eisenstein, dann Anthrazit.",
+"Die Ruhrallee teilt den Stadtteil in zwei Hälften.",
+"Eine denkmalgeschützte Montagehalle wurde zur Markthalle umgebaut."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Halle mit Glasdach lässt an Markt oder Veranstaltungen denken. Die denkmalgeschützte Montagehalle der Eisenhütte Westfalia Dinnendahl wurde nach langem Leerstand aber zu Loftwohnungen ausgebaut. Die Zeche Henriettenglück ging tatsächlich schon 1799 in Betrieb, und die Ruhrallee teilt den Stadtteil in der Mitte. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bergerhausen_(Essen)",
+"faktencheck": "korrigiert",
+"id": "420-bergerhausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bergerhausen",
+"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in ganz Essen: Welchen Anteil holte die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an die früheren Volksparteien denkt, erwartet leicht einen höheren Wert. Die Stimmen verteilten sich aber breit: In ganz Essen wurde die CDU mit 26,5 Prozent stärkste Partei. Die Zahl gilt für die ganze Stadt, nicht für Bergerhausen allein. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "420-bergerhausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bergerhausen",
+"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
+"frage": "Der Essener Stadtteil Bergerhausen führt ein eigenes Wappen mit Haus, Dreiberg, Schlägel und Eisen. Woher stammt es?",
+"optionen": [
+"Es geht auf ein altes Gerichtssiegel zurück.",
+"Ein Bergmannsverein stiftete es dem Stadtteil.",
+"Ein Heraldiker entwarf es für alle Essener Stadtteile.",
+"Es stammt von einem Adelsgeschlecht des Ortes."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schlägel und Eisen sehen aus wie ein altes Bergmannszeichen, daher liegt ein Bergmannsverein nahe. Das Wappen ist aber jünger: Der Heraldiker Kurt Schweder entwarf Ende der 1980er-Jahre nicht amtliche Wappen für alle Essener Stadtteile. Das Haus auf dem Berg steht für den Namen, Schlägel und Eisen erinnern an früheren Eisenerz- und Steinkohlenbergbau. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bergerhausen_(Essen)",
+"faktencheck": "korrigiert",
+"id": "420-bergerhausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bergerhausen",
+"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
+"frage": "Bergerhausen gehört heute zur Stadt Essen. Wann wurde es eingemeindet?",
+"optionen": [
+"vor 1880",
+"1880 bis 1894",
+"1895 bis 1904",
+"1905 oder später"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. So nah an der Stadtmitte liegt eine frühe Eingemeindung nahe, zumal die Stadt im Industriezeitalter rasch wuchs. Bergerhausen kam aber erst am 1. April 1910 zu Essen. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "420-bergerhausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bergerhausen",
+"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
+"frage": "Nahe Bergerhausen lag mehrere Jahrzehnte lang die Europa-Zentrale von Coca-Cola. Wohin wurde sie Mitte der 1990er-Jahre verlagert?",
+"optionen": [
+"Sie zog nach Berlin.",
+"Sie zog nach Frankfurt am Main.",
+"Sie zog nach Hamburg.",
+"Sie zog nach München."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Frankfurt liegt nahe, weil dort viele Konzerne und Banken sitzen. Die deutsche Zentrale von Coca-Cola, 1929 in Essen gegründet, zog Anfang der 2000er-Jahre aber nach Berlin in die Friedrichstraße. Richtig war 1.",
+"quelle": "Tagesspiegel, tagesspiegel.de/wirtschaft/coca-cola-zieht-nach-berlin-952990.html",
+"faktencheck": "korrigiert",
+"id": "420-bergerhausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bergerhausen",
+"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
+"frage": "Die katholische Kirche St. Raphael in Unterbergerhausen wurde 2009 geschlossen. Was entstand danach dort?",
+"optionen": [
+"Dort entstand eine Kletterhalle.",
+"Dort entstand ein Mehrgenerationenkomplex.",
+"Dort entstand ein Kolumbarium für Urnen.",
+"Dort entstand ein Supermarkt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele aufgegebene Kirchen werden Urnenkirchen, deshalb liegt ein Kolumbarium nahe. Nachgenutzt wurde der Standort aber als Mehrgenerationenkomplex, eine Anlage für Jung und Alt. Die Orgel ging an eine Duisburger Pfarrei und wurde in Huckingen eingebaut. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bergerhausen_(Essen)",
+"faktencheck": "unsicher",
+"id": "420-bergerhausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bergerhausen",
+"steckbrief": "Essener Stadtteil mit rund 11.500 Einwohnern, 3 km südöstlich der Essener Stadtmitte.",
+"frage": "Was markierte das Wegekreuz an der Ecke Am Krausen Bäumchen/Weserstraße?",
+"optionen": [
+"Es markierte die Stelle eines Grubenunglücks.",
+"Es markierte ein Grab aus der Pestzeit.",
+"Es markierte den Weg zur nächsten Zeche.",
+"Es markierte eine Grenze der Gerichtsbarkeit."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einem Bergbauort liegt ein Gedenkkreuz für verunglückte Bergleute nahe. Das Kreuz markierte aber die Grenze zum Rellinghauser Stift, eine Gerichtsbarkeitsgrenze: Jenseits davon galt eine andere Rechtsprechung. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bergerhausen_(Essen)",
+"faktencheck": "unsicher",
+"id": "420-bergerhausen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "419-ueberruhr",
+"anschluss": [
+"Fläche: Überruhr ist etwa doppelt so groß wie Bergerhausen.",
+"Nachbarn: Bergerhausen grenzt im Osten an Überruhr-Hinsel."
+],
+"anschluesse": {
+"197-duisburg": [
+"Kreisgrenze: Duisburg ist kreisfrei, Bergerhausen gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Bergerhausen die CDU."
+],
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Bergerhausen gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Bergerhausen gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Bergerhausen gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Bergerhausen die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Bergerhausen gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Bergerhausen die CDU."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Bergerhausen gehört zum Landkreis Stadtkreis Essen.",
+"Wülfrath liegt rund 150 Meter höher als Bergerhausen."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Bergerhausen gehört zum Landkreis Stadtkreis Essen."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Bergerhausen gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Bergerhausen gehört zum Landkreis Stadtkreis Essen."
+],
+"419-ueberruhr": [
+"Fläche: Überruhr ist etwa doppelt so groß wie Bergerhausen.",
+"Nachbarn: Bergerhausen grenzt im Osten an Überruhr-Hinsel."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 2.6
+},
+{
+"slug": "421-rellinghausen",
+"name": "Rellinghausen",
+"lat": 51.42861,
+"lon": 7.04889,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rellinghausen",
+"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Rellinghausen?",
+"optionen": [
+"unter 0,5 km²",
+"0,5 bis unter 1 km²",
+"1 bis unter 2 km²",
+"2 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Ortsteil mit eigener Geschichte klingt nach viel Fläche, und Großstadtteile werden leicht überschätzt. Rellinghausen misst aber nur 1,4 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "421-rellinghausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rellinghausen",
+"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der blaue Wellenbalken im Wappen steht für Bergbau.",
+"Die Zinsen einer Schulstiftung gingen an den Dorflehrer.",
+"Ein Adliger ließ einer Zeche den Dampfbetrieb verbieten."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bergbau läge nahe, denn hier gab es Zechen. Doch der blaue Wellenbalken, ein gewellter Schrägstreifen, deutet die Lage an der Ruhr an; das rote Kreuz steht für das einstige adelige Damenstift. Wahr sind die Lehrerzinsen aus einer Schulstiftung und das Dampfverbot, das ein Adliger vor Gericht durchsetzte. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rellinghausen",
+"faktencheck": "unsicher",
+"id": "421-rellinghausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Rellinghausen",
+"steckbrief": "Rellinghausen, rund 3.500 Einwohner, ist ein Stadtteil 4 km südöstlich der Essener Stadtmitte.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Essen: Welche Partei wurde dort zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"CDU",
+"AfD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer die SPD in Essen vorn vermutet, liegt knapp daneben: Stärkste Partei wurde die CDU mit 26,5 Prozent, die SPD folgte mit 22,2 Prozent auf Platz zwei. Die Zahlen gelten für die ganze Stadt Essen. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "421-rellinghausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rellinghausen",
+"steckbrief": "Der Stadtteil Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
+"frage": "1516 entstand im heutigen Annental eine hölzerne Kapelle, Vorläuferin der St.-Annen-Kapelle. Was war der Anlass?",
+"optionen": [
+"Ein Bauer stiftete sie nach einer Viehseuche.",
+"Gestohlene Hostien waren dort im Tal wiedergefunden worden.",
+"Eine Stiftsdame ließ sie als ihre Grabkapelle bauen.",
+"Ein Kind sah dort eine Erscheinung der Anna."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Erscheinung der Anna liegt nahe, denn die Kapelle trägt ihren Namen. Doch Anlass war ein Frevel: 1516 stahlen Diebe nach dem Festgottesdienst zum Jakobustag das Hostiengefäß aus der Stiftskirche. Als sie sich verfolgt glaubten, schütteten sie die Hostien in ein Dornengestrüpp. Dort fand man sie am nächsten Tag, dem Annenfest. Zur Sühne entstand eine Fachwerkkapelle. Richtig war 2.",
+"quelle": "LVR / KuLaDig, kuladig.de/Objektansicht/KLD-261848",
+"faktencheck": "korrigiert",
+"id": "421-rellinghausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rellinghausen",
+"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
+"frage": "In welchem Zeitraum wurde Rellinghausen in die Stadt Essen eingemeindet?",
+"optionen": [
+"vor 1850",
+"1850 bis 1899",
+"1900 bis 1929",
+"1930 oder später"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. So nah an der Essener Stadtmitte erwartet man leicht einen frühen Anschluss, andere vermuten eine Gebietsreform der Nachkriegszeit. Eingemeindet wurde Rellinghausen am 1. April 1910. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "421-rellinghausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rellinghausen",
+"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
+"frage": "Im November 1225 wurde der Kölner Erzbischof Engelbert von Berg von Friedrich von Isenberg ermordet. Was nennt die Ortsgeschichte als Auslöser?",
+"optionen": [
+"Friedrich wollte auf der Ruhr Zölle erheben.",
+"Engelbert hatte Friedrichs Bruder hinrichten lassen.",
+"Friedrich forderte die Hand von Engelberts Nichte.",
+"Es ging um einträgliche Vogteien, darunter Rellinghausen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Zölle liegen nahe, um solche Rechte stritt der Adel oft. Auslöser waren aber Besitzrechte an den einträglichen Vogteien Werden, Essen und Rellinghausen. Ein Vogt war weltlicher Schutzherr eines Stifts oder Klosters. Ob der Streit eskalierte oder der Mord geplant war, ist unklar. Friedrich kostete die Tat später den Kopf. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rellinghausen",
+"faktencheck": "unsicher",
+"id": "421-rellinghausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rellinghausen",
+"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
+"frage": "Die heutige Dorfschenke an der Frankenstraße stifteten Cord und Bathe von Vittinghoff-Schell. Wofür war das Haus ursprünglich gedacht?",
+"optionen": [
+"Es war als Brauhaus des Stifts gedacht.",
+"Es war als Jagdhaus der Schlossherren gedacht.",
+"Es sollte Arme, Gebrechliche und Pilger aufnehmen.",
+"Es war als Witwensitz der Stifterin gedacht."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Brauhaus liegt nahe, weil das Haus heute eine Schenke ist. Gestiftet wurde es aber für Arme, Gebrechliche und Pilger, auf dem Grund von Schloss Schellenberg. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rellinghausen",
+"faktencheck": "unsicher",
+"id": "421-rellinghausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rellinghausen",
+"steckbrief": "Rellinghausen hat rund 3.500 Einwohner und liegt 4 km südöstlich der Essener Stadtmitte.",
+"frage": "Der Blücherturm am Stiftsplatz wurde als Gerichtsturm gebaut. Woher hat er seinen heutigen Namen?",
+"optionen": [
+"Der letzte Bewohner, ein Polizist, sah Blücher ähnlich.",
+"Marschall Blücher übernachtete auf einem Feldzug darin.",
+"Ein Wirt namens Blücher kaufte den Turm.",
+"Gefangene Franzosen nannten ihn nach Blücher."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Besuch des Feldmarschalls liegt nahe, so entstehen viele Gedenknamen. Doch es war ein Spitzname: Der letzte Bewohner, ein Polizist, ähnelte dem berühmten Marschall von Blücher und war in Rellinghausen als Blücher bekannt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rellinghausen",
+"faktencheck": "unsicher",
+"id": "421-rellinghausen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "420-bergerhausen",
+"anschluss": [
+"Bergerhausen gehörte einst als Bauerschaft zur Gemeinde Rellinghausen.",
+"Fläche: Rellinghausen misst 1,4 km², Bergerhausen 3,34 km²."
+],
+"anschluesse": {
+"196-ratingen": [
+"Kreisgrenze: Ratingen ist kreisfrei, Rellinghausen gehört zum Landkreis Stadtkreis Essen."
+],
+"197-duisburg": [
+"Kreisgrenze: Duisburg ist kreisfrei, Rellinghausen gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Rellinghausen die CDU."
+],
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Rellinghausen gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Rellinghausen gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Rellinghausen gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Rellinghausen die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Rellinghausen gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Rellinghausen die CDU."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Rellinghausen gehört zum Landkreis Stadtkreis Essen.",
+"Wülfrath liegt rund 180 Meter höher als Rellinghausen."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Rellinghausen gehört zum Landkreis Stadtkreis Essen.",
+"Velbert liegt rund 150 Meter höher als Rellinghausen."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Rellinghausen gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Rellinghausen gehört zum Landkreis Stadtkreis Essen."
+],
+"420-bergerhausen": [
+"Bergerhausen gehörte einst als Bauerschaft zur Gemeinde Rellinghausen.",
+"Fläche: Rellinghausen misst 1,4 km², Bergerhausen 3,34 km²."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 0.9
+},
+{
+"slug": "422-stadtwald-essen",
+"name": "Stadtwald",
+"lat": 51.42083,
+"lon": 7.02417,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadtwald",
+"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "1927 unterschrieb die Stadt Essen Verträge für ein Vorhaben im Stadtwald, das nie verwirklicht wurde. Was sollte entstehen?",
+"optionen": [
+"Ein Zoologischer Garten sollte entstehen.",
+"Eine Sternwarte sollte entstehen.",
+"Ein Flugplatz für Segelflieger sollte entstehen.",
+"Eine Seilbahn zum Baldeneysee sollte entstehen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei so viel Wald denkt man eher an Sport oder Ausflüge. Doch geplant war ein Zoo: Die Stadt hatte Verträge mit Willy und Carl Hagenbeck geschlossen, Söhnen des bekannten Hamburger Zoodirektors Carl Hagenbeck. Gebaut wurde er nie, die Stadtkassen waren knapp. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadtwald_(Essen)",
+"faktencheck": "unsicher",
+"id": "422-stadtwald-essen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stadtwald",
+"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Stadtwald?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 6 km²",
+"6 bis unter 12 km²",
+"12 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an ein großes Waldgebiet denken, daher schätzen viele hoch. Doch Stadtwald ist ein Stadtteil, kein Forstrevier: Er misst 4,14 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "422-stadtwald-essen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Stadtwald",
+"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Reithalle im Stadtteil wurde im Bauhausstil gebaut.",
+"Der Schillerbrunnen zeigt Szenen aus Goethes „Faust“.",
+"Ein S-Bahn-Tunnel führt unter dem Stadtwaldplatz hindurch."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Faust klingt nach deutscher Klassik und passt scheinbar. Doch ein Schillerbrunnen ehrt Schiller: Die Reliefs zeigen Szenen aus „Das Lied von der Glocke“ und „Wilhelm Tell“. Gestaltet hat ihn der Münchner Bildhauer Fritz Behn. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadtwald_(Essen)",
+"faktencheck": "unsicher",
+"id": "422-stadtwald-essen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stadtwald",
+"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der ganzen Stadt Essen?",
+"optionen": [
+"unter 65 %",
+"65 bis unter 72 %",
+"72 bis unter 78 %",
+"78 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Dem Ruhrgebiet hängt der Ruf an, eher wahlmüde zu sein; viele schätzen deshalb niedrig. Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Essen aber bei 80,1 Prozent. Der Wert gilt für die ganze Stadt, nicht nur für Stadtwald. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "422-stadtwald-essen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadtwald",
+"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "Das inoffizielle Stadtteilwappen zeigt fünf Eichen und ein goldenes Schwert. Wofür steht das Schwert?",
+"optionen": [
+"Es steht für die Silbe „Stadt-“ im Namen.",
+"Es erinnert an eine Schlacht im Wald.",
+"Es steht für ein altes Gerichtsrecht.",
+"Es erinnert an einen Grenzstreit mit Nachbarn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Schwert lässt an Ritter oder Schlachten denken. Doch das Wappen ist redend: Die Eichen stehen für „-wald“, das Schwert für „Stadt-“. Es ist ein Attribut der Essener Stadtpatrone Cosmas und Damian und knüpft so ans Essener Stadtwappen an. Entworfen hat es Kurt Schweder. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stadtwald_(Essen)",
+"faktencheck": "unsicher",
+"id": "422-stadtwald-essen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stadtwald",
+"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "In welchem Zeitraum wurde das Gebiet des heutigen Stadtteils Stadtwald nach Essen eingemeindet?",
+"optionen": [
+"vor 1900",
+"1900 bis 1914",
+"1915 bis 1929",
+"1930 oder später"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele denken bei Eingemeindungen im Ruhrgebiet an die großen Gebietsreformen späterer Jahrzehnte. Stadtwald kam früher dazu: Am 1. April 1910 wurde das Gebiet nach Essen eingemeindet. Richtig war 2.",
+"quelle": "Wikipedia (dewiki Infobox), de.wikipedia.org/wiki/Stadtwald_(Essen)",
+"faktencheck": "bestätigt",
+"id": "422-stadtwald-essen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadtwald",
+"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "Die Kirche St. Theresia feierte Pfingsten 2022 ihren letzten Gottesdienst. Wozu wurde sie danach umgebaut?",
+"optionen": [
+"Zu einem Haus mit Eigentumswohnungen.",
+"Zu Kita, Bücherei und Gemeindezentrum mit Kapelle.",
+"Zu einer Kletterhalle für den Vereinssport.",
+"Zu einem Restaurant mit Biergarten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Aufgegebene Kirchen werden oft zu Wohnungen oder Veranstaltungsorten. Bei St. Theresia kam es anders: Sie wurde zu Kita, Bücherei und Gemeindezentrum mit Kapelle umgebaut. Der Turm blieb als Landmarke erhalten. Richtig war 2.",
+"quelle": "Bistum Essen, bistum-essen.de (Pressemeldungen vom 06.06.2022 und 25.09.2024)",
+"faktencheck": "korrigiert",
+"id": "422-stadtwald-essen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stadtwald",
+"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
+"frage": "1909 wurde im Stadtwald der Zweigertstein für Oberbürgermeister Erich Zweigert errichtet. Wer stellte ihn auf?",
+"optionen": [
+"Die Stadtverwaltung ließ ihn aufstellen.",
+"Zweigert selbst gab ihn in Auftrag.",
+"Die städtischen Förster stellten ihn auf.",
+"Eine Gruppe von Bürgern stellte ihn auf."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Denkmal für einen Oberbürgermeister klingt nach einem Auftrag der Stadt. Doch Freunde Zweigerts stellten den Stein auf, als Dank für seinen Einsatz für den Stadtwald als Erholungsgebiet. Zweigert selbst war da schon gestorben, im Mai 1906. Richtig war 4.",
+"quelle": "Stadt Essen, Historisches Portal (geschichte.essen.de); LVR, rheinische-geschichte.lvr.de",
+"faktencheck": "korrigiert",
+"id": "422-stadtwald-essen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "421-rellinghausen",
+"anschluss": [
+"Stadtwald gehörte bis zur Eingemeindung nach Essen zu Rellinghausen.",
+"Der S-Bahnhof Essen-Stadtwald hieß früher Rellinghausen West."
+],
+"anschluesse": {
+"196-ratingen": [
+"Kreisgrenze: Ratingen ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen."
+],
+"197-duisburg": [
+"Kreisgrenze: Duisburg ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Stadtwald die CDU."
+],
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Stadtwald die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Stadtwald die CDU."
+],
+"354-mettmann": [
+"Kreisgrenze: Mettmann ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Stadtwald gehört zum Landkreis Stadtkreis Essen."
+],
+"421-rellinghausen": [
+"Stadtwald gehörte bis zur Eingemeindung nach Essen zu Rellinghausen.",
+"Der S-Bahnhof Essen-Stadtwald hieß früher Rellinghausen West."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 1.9
+},
+{
+"slug": "423-fischlaken",
+"name": "Fischlaken",
+"lat": 51.38889,
+"lon": 7.02667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Fischlaken wird 796 zum ersten Mal erwähnt. Bei welchem Ereignis?",
+"optionen": [
+"Ein Ritter baute eine Burg am Fluss.",
+"Bergleute siedelten sich an einer Kohlengrube an.",
+"Fischer gründeten eine Siedlung am Ufer.",
+"Ein Hof wurde einem Klostergründer geschenkt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Ortsname lässt an Fischer denken, die sich am Ufer niederließen. Zum ersten Mal genannt wird Fischlaken aber 796: Damals übertrug der Franke Theganbald den Affgatinghof an Liudger, den späteren Gründer des Klosters Werden. Richtig war 4. /",
+"quelle": "LVR KuLaDig, kuladig.de/Objektansicht/O-4679-20110128-2",
+"faktencheck": "korrigiert",
+"id": "423-fischlaken/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Fischlaken",
+"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Wie groß ist die Fläche des Stadtteils Fischlaken?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Weit draußen gelegene Stadtteile wirken oft weitläufig, deshalb liegt eine große Fläche nahe. Fischlaken misst aber 9,17 Quadratkilometer und fällt damit in die kleinste Spanne. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "423-fischlaken/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Fischlaken gehörte früher zur Reichsabtei Werden.",
+"Auf früherem Zechengelände steht eine Seilscheibe.",
+"Haus Scheppen überstand den Zweiten Weltkrieg unversehrt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Denkmal auf Zechengelände klingt nach Erfindung, doch die Seilscheibe der 1973 stillgelegten Zeche Pörtingsiepen erinnert noch heute an den Bergbau; über solche Räder lief das Förderseil. Zur Abtei Werden gehörte Fischlaken bis 1803. Haus Scheppen aber wurde 1944 bei einem Luftangriff schwer beschädigt. Die Lüge war 3. /",
+"quelle": "Stadt Essen, essen.de; LVR KuLaDig",
+"faktencheck": "korrigiert",
+"id": "423-fischlaken/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Fischlaken",
+"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Essen: Wie viel Prozent erreichte die stärkste Partei?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denken viele an eine übermächtige SPD und tippen hoch. In ganz Essen lag jedoch die CDU mit 26,5 Prozent vorn, vor der SPD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "423-fischlaken/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Haus Scheppen am Baldeneysee stammt aus dem 13. Jahrhundert. Was war es früher?",
+"optionen": [
+"Es war ein Zollhaus für Ruhrschiffer.",
+"Es war eine Herberge für Pilger.",
+"Es war ein Siechenhaus für Kranke.",
+"Es war ein adeliger Lehnshof."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Lage am Wasser lässt an Zoll und Schifffahrt denken. Haus Scheppen war aber ein adeliger Lehnshof. Ein Lehen war Land, das ein Herr gegen Treue und Dienste vergab. Heute gehört das Haus zu den Anziehungspunkten am Baldeneysee. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Fischlaken",
+"faktencheck": "bestätigt",
+"id": "423-fischlaken/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Fischlaken",
+"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "In welchem Zeitraum wurde Fischlaken in die Stadt Essen eingemeindet?",
+"optionen": [
+"vor 1930",
+"1930 bis 1949",
+"1950 bis 1974",
+"1975 oder später"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Eingemeindungen denken viele an die große Gebietsreform in Nordrhein-Westfalen. Fischlaken kam aber schon 1929 zur Stadt Essen. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "423-fischlaken/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Die Zeche Pörtingsiepen wurde 1973 stillgelegt. Wie viele Menschen arbeiteten zeitweise dort?",
+"optionen": [
+"unter 250",
+"250 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an einen ländlichen Stadtteil denkt, schätzt die Zeche klein. Pörtingsiepen gab aber zeitweise über 2.000 Menschen Arbeit. Richtig war 4. /",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Fischlaken; Stadt Essen, essen.de",
+"faktencheck": "korrigiert",
+"id": "423-fischlaken/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "1877 gründeten Fischlaker Bürger einen Begräbnisverein. Wie kamen Verstorbene bis dahin zur Friedhofskapelle?",
+"optionen": [
+"Man fuhr sie auf einem Heuwagen.",
+"Man setzte sie im Kahn über die Ruhr.",
+"Man zog sie auf einem Grubenwagen.",
+"Man fuhr sie in der Kutsche des Pfarrers."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Für eine würdige letzte Fahrt läge eine Kutsche nahe. Vor der Gründung des Vereins brachte man die Toten aber auf dem Heuwagen zur Kapelle. Der Verein, eine Sterbekasse, schaffte einen eigenen Leichenwagen an. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Fischlaken",
+"faktencheck": "unsicher",
+"id": "423-fischlaken/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Ab 1952 feierten Fischlakens Katholiken Gottesdienst in einer Notkirche, Vorläuferin der Christi-Himmelfahrtskirche. Was war das Gebäude vorher?",
+"optionen": [
+"Es war der Tanzsaal einer Gaststätte.",
+"Es war ein Lagerschuppen der Zeche.",
+"Es war die Scheune eines Bauernhofs.",
+"Es war ein Klassenzimmer der Dorfschule."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Nach dem Krieg lagen Säle oder Klassenräume als Notlösung nahe. Die Notkirche entstand aber in der Scheune des ehemaligen Wintgenhofes. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Fischlaken",
+"faktencheck": "unsicher",
+"id": "423-fischlaken/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Fischlaken",
+"steckbrief": "Essener Stadtteil mit rund 4.400 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Woher hat der Essener Stadtteil Fischlaken seinen Namen?",
+"optionen": [
+"Fischer trockneten ihre Netze auf Tüchern.",
+"Ein stehendes Gewässer war reich an Fischen.",
+"Fischhändler breiteten ihre Ware auf Laken aus.",
+"Fischer zahlten ihre Abgaben in Leinentuch."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Beim Wort Laken denkt man heute an Tücher und Bettwäsche. Die alten Namensformen Fislacu und Wislaken bezeichneten aber ein stehendes Gewässer mit reichem Fischbestand. Richtig war 2. /",
+"quelle": "Stadt Essen, essen.de/dasistessen/stadtteile/fischlaken_1/fischlaken_geschichte.de.html",
+"faktencheck": "korrigiert",
+"id": "423-fischlaken/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "422-stadtwald-essen",
+"anschluss": [
+"Fläche: Fischlaken misst 9,17 km², Stadtwald nur 4,14 km².",
+"Luftlinie zur Stadtmitte: Stadtwald liegt 4 km entfernt, Fischlaken 8."
+],
+"anschluesse": {
+"196-ratingen": [
+"Kreisgrenze: Ratingen ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen."
+],
+"197-duisburg": [
+"Kreisgrenze: Duisburg ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Fischlaken die CDU."
+],
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Fischlaken die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Fischlaken die CDU."
+],
+"353-erkrath": [
+"Kreisgrenze: Erkrath ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen."
+],
+"354-mettmann": [
+"Kreisgrenze: Mettmann ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen."
+],
+"356-wuppertal": [
+"Kreisgrenze: Wuppertal ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Fischlaken gehört zum Landkreis Stadtkreis Essen."
+],
+"422-stadtwald-essen": [
+"Fläche: Fischlaken misst 9,17 km², Stadtwald nur 4,14 km².",
+"Luftlinie zur Stadtmitte: Stadtwald liegt 4 km entfernt, Fischlaken 8."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 3.6
+},
+{
+"slug": "424-werden",
+"name": "Werden",
+"lat": 51.38639,
+"lon": 6.99639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Werden",
+"steckbrief": "Der Essener Stadtteil mit rund 9.700 Einwohnern liegt 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Worauf weist der Name Werden hin?",
+"optionen": [
+"Er meint eine neu entstehende Siedlung.",
+"Er geht auf den Namen eines Grundherrn zurück.",
+"Er weist auf eine Furt oder Fähre hin.",
+"Er bezeichnete einst einen gerodeten Wald."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist das Verb „werden“, denn so klingt der Name heute. Die Herkunft liegt aber anderswo: Das alte Wort „werd“ bedeutet Ufer, Insel oder einen Ort, den das Hochwasser nicht erreicht. Die Urkunde von 799 nennt Werden „Insel, Ufer, Werder“ zwischen zwei Bächen. Richtig war 3.",
+"quelle": "Stadt Essen, essen.de (Geschichte des Stadtteils Werden)",
+"faktencheck": "korrigiert",
+"id": "424-werden/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Werden",
+"steckbrief": "Werden ist ein Stadtteil von Essen mit rund 9.700 Einwohnern, 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Wie hoch liegt Werden über dem Meeresspiegel?",
+"optionen": [
+"unter 10 m",
+"10 bis unter 30 m",
+"30 bis unter 50 m",
+"50 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer Essen mit dem flachen Niederrhein verbindet, schätzt niedriger. Die Quellen nennen für Werden 58 beziehungsweise 60 Meter über dem Meer; beides liegt über 50 Metern. Richtig war 4.",
+"quelle": "Wikidata P2044; GeoNames 2810961 (Altbestand geo.sqlite)",
+"faktencheck": "bestätigt",
+"id": "424-werden/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Werden",
+"steckbrief": "Werden hat rund 9.700 Einwohner und liegt als Stadtteil von Essen 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"1923 wurde Gustav Krupp in Werden freigesprochen.",
+"1912 starben bei einem Straßenbahnunfall vier Kinder.",
+"1920 schoss ein Freikorps in eine Demonstration."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Freispruch scheint denkbar, so einflussreich wie Krupp war. Doch Werden war 1923 von Frankreich besetzt. Ein französisches Militärgericht verurteilte dort Gustav Krupp von Bohlen und Halbach und Direktoren seines Konzerns zu Haft und Geldstrafe. Der Vorwurf: Aufwiegelung zum Widerstand am Essener Blutsamstag. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Werden",
+"faktencheck": "unsicher",
+"id": "424-werden/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Werden",
+"steckbrief": "Werden liegt 8 km südlich der Essener Stadtmitte (Luftlinie) und hat rund 9.700 Einwohner.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in der Stadt Essen, zu der Werden gehört, bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"SPD",
+"AfD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer das Ruhrgebiet als Hochburg der Sozialdemokraten kennt, erwartet die SPD vorn. In ganz Essen lag aber die CDU mit 26,5 Prozent an der Spitze; die SPD folgte mit 22,2 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "424-werden/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Werden",
+"steckbrief": "Werden hat rund 9.700 Einwohner und liegt als Essener Stadtteil 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Das Benediktinerkloster Werden wurde 1803 aufgehoben. Wozu dienten seine Gebäude danach über ein Jahrhundert lang?",
+"optionen": [
+"Sie beherbergten eine Porzellanmanufaktur.",
+"Sie wurden zu einem Kurhaus umgebaut.",
+"Sie dienten als Strafanstalt.",
+"Sie dienten als Waisenhaus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Aus aufgehobenen Klöstern wurden oft Fabriken, Schulen oder Spitäler; das liegt nahe. In Werden aber zogen Gefangene ein: Ab 1811 war in den Abteibauten bis ins 20. Jahrhundert ein Zuchthaus untergebracht. Heute ist dort die Folkwang Universität der Künste. Richtig war 3.",
+"quelle": "LVR-KuLaDig, Denkmalbereich Essen-Werden",
+"faktencheck": "korrigiert",
+"id": "424-werden/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Werden",
+"steckbrief": "Werden, heute Stadtteil von Essen, hat rund 9.700 Einwohner und liegt 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Werden besaß seit dem Mittelalter Stadtrechte. In welchem Zeitraum wurde es nach Essen eingemeindet?",
+"optionen": [
+"vor 1871",
+"1871 bis 1899",
+"1900 bis 1918",
+"1919 oder später"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele denken an die Industrialisierung, als die Revierstädte rasch wuchsen. Werden kam aber spät dazu: Erst am 1. August 1929 wurde es nach Essen eingemeindet, zusammen mit mehreren anderen Orten. Richtig war 4.",
+"quelle": "dewiki Infobox, Artikel Werden",
+"faktencheck": "bestätigt",
+"id": "424-werden/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Werden",
+"steckbrief": "Werden, Stadtteil von Essen mit rund 9.700 Einwohnern, liegt 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Der heilige Liudger gründete um 799 das Kloster Werden. Welches Bistum hat er außerdem begründet?",
+"optionen": [
+"Er begründete das Bistum Bremen.",
+"Er begründete das Bistum Paderborn.",
+"Er begründete das Bistum Osnabrück.",
+"Er begründete das Bistum Münster."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bremen, Paderborn und Osnabrück sind ebenfalls frühe Bistümer im Sachsenland, darum liegen sie nahe. Liudger aber begründete neben dem Kloster Werden das Bistum Münster. Seine Ruhestätte ist die Krypta der Abteikirche St. Ludgerus in Werden. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Werden",
+"faktencheck": "korrigiert",
+"id": "424-werden/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Werden",
+"steckbrief": "Der Essener Stadtteil Werden zählt rund 9.700 Einwohner und liegt 8 km südlich der Stadtmitte (Luftlinie).",
+"frage": "Der in Werden geborene Theologe Johann Julius Hecker begründete eine Schulform. Welche?",
+"optionen": [
+"Er begründete den Kindergarten.",
+"Er begründete die Realschule.",
+"Er begründete die Volkshochschule.",
+"Er begründete die Gesamtschule."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Theologe als Schulgründer lässt eher an Kindergarten oder Volksbildung denken. Hecker aber gilt als Begründer der praxisorientierten Realschule: 1747 gründete er in Berlin seine „Ökonomisch-mathematische Realschule“. Dort starb er auch. Richtig war 2.",
+"quelle": "Neue Deutsche Biographie, deutsche-biographie.de",
+"faktencheck": "korrigiert",
+"id": "424-werden/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "423-fischlaken",
+"anschluss": [
+"Fischlaken gehörte einst zu den Besitzungen der Abtei Werden.",
+"Fläche: Fischlaken ist mehr als doppelt so groß wie Werden."
+],
+"anschluesse": {
+"196-ratingen": [
+"Kreisgrenze: Ratingen ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen."
+],
+"197-duisburg": [
+"Kreisgrenze: Duisburg ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Werden die CDU."
+],
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Werden die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Werden die CDU."
+],
+"353-erkrath": [
+"Kreisgrenze: Erkrath ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen."
+],
+"354-mettmann": [
+"Kreisgrenze: Mettmann ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen.",
+"Wülfrath liegt rund 200 Meter höher als Werden."
+],
+"356-wuppertal": [
+"Kreisgrenze: Wuppertal ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen.",
+"Velbert liegt rund 170 Meter höher als Werden."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Werden gehört zum Landkreis Stadtkreis Essen."
+],
+"423-fischlaken": [
+"Fischlaken gehörte einst zu den Besitzungen der Abtei Werden.",
+"Fläche: Fischlaken ist mehr als doppelt so groß wie Werden."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 2.1
+},
+{
+"slug": "425-burgaltendorf",
+"name": "Burgaltendorf",
+"lat": 51.41806,
+"lon": 7.12222,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burgaltendorf",
+"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "1858 wurde im Ort die katholische Burgschule errichtet. Woraus entstand sie?",
+"optionen": [
+"Sie entstand aus Ziegeln einer Dorfziegelei.",
+"Sie entstand aus alten Steinen der Burg.",
+"Sie entstand als Fachwerkbau aus Holz.",
+"Sie entstand aus Schlackensteinen einer Hütte."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ziegel liegen nahe, im Ruhrgebiet wurde viel mit Backstein gebaut. Die katholische Burgschule entstand aber auf dem Gelände der Vorburg, und zwar aus alten Steinen der Burg selbst. Die alte Burg Altendorf lieferte also das Baumaterial. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Burgaltendorf",
+"faktencheck": "unsicher",
+"id": "425-burgaltendorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Burgaltendorf",
+"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Burgaltendorf?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 5 km²",
+"5 bis unter 8 km²",
+"8 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an einen dichten Großstadtvorort denkt, schätzt kleiner. Burgaltendorf misst aber 6,3 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "korrigiert",
+"id": "425-burgaltendorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Burgaltendorf",
+"steckbrief": "Essener Stadtteil auf der Ruhrhalbinsel, rund 9.300 Einwohner, 9 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Deutsche sprengten einst die Eisenbahnbrücke Dahlhausen.",
+"Die Herz-Jesu-Kirche ist aus rotem Backstein gebaut.",
+"Eine Urkunde Rainalds von Dassel nennt Altendorf."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Backstein klingt nach Ruhrgebiet, doch die katholische Herz-Jesu-Kirche wurde aus Ruhrsandstein gebaut, mit romanischen Stilelementen. Die Sprengung stimmt: Deutsche selbst zerstörten die Eisenbahnbrücke Dahlhausen. Und Rainald von Dassel, Erzbischof von Köln, nennt den Ort in einer Urkunde als villa aldendorpe. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Burgaltendorf",
+"faktencheck": "unsicher",
+"id": "425-burgaltendorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Burgaltendorf",
+"steckbrief": "Stadtteil im Südosten Essens mit rund 9.300 Einwohnern, 9 km von der Stadtmitte.",
+"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in der Stadt Essen, zu der Burgaltendorf gehört?",
+"optionen": [
+"unter 82 %",
+"82 bis unter 85 %",
+"85 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ruhige Wohnviertel am Stadtrand wählen oft fleißiger als die Innenstadt, das verleitet zu hohen Schätzungen. Die Angabe gilt aber für ganz Essen: Dort lag die Wahlbeteiligung bei 80,1 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "425-burgaltendorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burgaltendorf",
+"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Lange gingen die Kinder zum Unterricht nach Niederwenigern. Wo wurde Mitte der 1840er Jahre erstmals im Ort unterrichtet?",
+"optionen": [
+"Man unterrichtete in einem leeren Bauernhaus.",
+"Man unterrichtete in einer Gaststätte.",
+"Man unterrichtete im Wartesaal des Bahnhofs.",
+"Man unterrichtete in einem Raum der Zeche."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Raum der Zeche wirkt im Ruhrgebiet naheliegend. Den ersten Unterricht im Ort gab es aber in der Gaststätte Mintrop im Schwarzensteinweg. Damit entfiel für die Kinder der lange Weg nach Niederwenigern. Richtig war 2. /",
+"quelle": "KuLaDig (LVR), Gaststätte Bungert in Burgaltendorf, kuladig.de/Objektansicht/A-KL-20090527-0006",
+"faktencheck": "korrigiert",
+"id": "425-burgaltendorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Burgaltendorf",
+"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Wie weit ist es von Burgaltendorf in Luftlinie bis zur Landeshauptstadt Düsseldorf?",
+"optionen": [
+"unter 15 km",
+"15 bis unter 25 km",
+"25 bis unter 40 km",
+"40 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Essen und Düsseldorf gelten als Nachbarn, deshalb schätzen viele zu knapp. Von Burgaltendorf bis zur Landeshauptstadt sind es aber 32 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "korrigiert",
+"id": "425-burgaltendorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burgaltendorf",
+"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Die 1953 geweihte evangelische Kirche wurde 1988 durch einen Neubau ersetzt. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Bergschäden zwangen dazu, sie aufzugeben.",
+"Ein Brand hatte sie schwer zerstört.",
+"Sie musste einer neuen Straße weichen.",
+"Ein Sturm hatte ihren Turm umgeworfen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Brand ist der klassische Grund für einen Kirchenneubau. Hier aber war es der Untergrund: Wegen Bergschäden musste der Bau aufgegeben werden. Ersatz wurde die neue Jesus-lebt-Kirche. Bergschäden entstehen, wenn Hohlräume des Bergbaus im Untergrund nachgeben. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Burgaltendorf",
+"faktencheck": "unsicher",
+"id": "425-burgaltendorf/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burgaltendorf",
+"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Die Eggemannsche Schwimmbrücke hieß im Volksmund Fünf-Pfennigs-Brücke. Warum?",
+"optionen": [
+"Für ihren Bau spendete jeder Haushalt fünf Pfennige.",
+"Sie schwamm auf fünf verankerten Kähnen.",
+"Jede Überquerung kostete fünf Pfennige.",
+"Ihr Holz kostete fünf Pfennige je Brett."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Spendensammlung klingt nach Dorfgemeinschaft. Der Name kommt aber vom Preis: Jede Überquerung kostete fünf Pfennige. Die Schwimmbrücke brachte Altendorfer Arbeiter nach Horst oder Dahlhausen. Auch die Schwimmbrücke Holtey trug denselben Spitznamen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Burgaltendorf",
+"faktencheck": "unsicher",
+"id": "425-burgaltendorf/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burgaltendorf",
+"steckbrief": "Essener Stadtteil mit rund 9.300 Einwohnern, 9 km südöstlich der Stadtmitte.",
+"frage": "Ein Heraldiker schuf für die Essener Stadtteile Wappen. Was zeigt das Wappen von Burgaltendorf?",
+"optionen": [
+"Es zeigt drei schwarze Grubenlampen auf Silber.",
+"Es zeigt drei schwarze Pferdeprammen auf Silber.",
+"Es zeigt eine schwarze Burgruine auf Silber.",
+"Es zeigt ein schwarzes Wasserrad auf Silber."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Grubenlampen passen zum Ruhrgebiet, doch das Wappen geht auf die Burgherren von Altendorf zurück. Prammen sind Metallklemmen mit Zacken, die man beim Wildpferdefang auf die Nüstern klemmte. Entworfen hat es der Heraldiker Kurt Schweder, amtlich ist es nicht. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Burgaltendorf",
+"faktencheck": "unsicher",
+"id": "425-burgaltendorf/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "424-werden",
+"anschluss": [
+"Fläche: Burgaltendorf misst 6,3 km², Werden nur 4,04 km².",
+"Burg Altendorf lag einst im Grenzgebiet zum Kloster Werden."
+],
+"anschluesse": {
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Burgaltendorf gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Burgaltendorf gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Burgaltendorf gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Burgaltendorf die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Burgaltendorf gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Burgaltendorf die CDU."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Burgaltendorf gehört zum Landkreis Stadtkreis Essen.",
+"Wülfrath liegt rund 160 Meter höher als Burgaltendorf."
+],
+"356-wuppertal": [
+"Kreisgrenze: Wuppertal ist kreisfrei, Burgaltendorf gehört zum Landkreis Stadtkreis Essen."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Burgaltendorf gehört zum Landkreis Stadtkreis Essen."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Burgaltendorf gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Burgaltendorf gehört zum Landkreis Stadtkreis Essen."
+],
+"424-werden": [
+"Fläche: Burgaltendorf misst 6,3 km², Werden nur 4,04 km².",
+"Burg Altendorf lag einst im Grenzgebiet zum Kloster Werden."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 9.4
+},
+{
+"slug": "426-steele",
+"name": "Steele",
+"lat": 51.44944,
+"lon": 7.07639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Steele",
+"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
+"frage": "Anfang des 18. Jahrhunderts unterschied man östlich von Steele ein „Königssteele“. Welchen Grund nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Die Siedlungen dort gehörten zu Preußen.",
+"Der Name ehrte eine Bauernfamilie König.",
+"Dort wurde jährlich ein Schützenkönig gekürt.",
+"Dort lag ein uraltes Königsgrab."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Schützenkönig oder eine Familie König liegen bei diesem Namen nahe. Der Grund war aber politisch: Steele gehörte zum Äbtissinnenstift Essen, die Siedlungen im Osten zum Königreich Preußen. Auch der heutige Bahnhof Essen-Steele Ost hieß einst Königssteele. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)",
+"faktencheck": "unsicher",
+"id": "426-steele/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Steele",
+"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Steele?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 4 km²",
+"4 bis unter 8 km²",
+"8 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer weiß, dass Steele bis zu seiner Eingemeindung eine eigene Gemeinde war, schätzt die Fläche leicht größer. Tatsächlich misst der Stadtteil nur 3,03 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "426-steele/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Steele",
+"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Pergamonaltar-Entdecker Carl Humann war Ehrenbürger von Steele.",
+"Für den Stadtgarten schuf Franz Guntermann einen Odysseus.",
+"Steeles Verschönerungsverein überstand die NS-Zeit ohne Unterbrechung."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dass der Entdecker des Pergamonaltars Steeler Ehrenbürger war, klingt am ehesten erfunden, stimmt aber. Gelogen war die Vereinsgeschichte: Der Verschönerungsverein von 1882, der den Stadtgarten anlegen ließ, wurde in den 1930er Jahren im Zuge der Gleichschaltung aufgelöst. Nach dem Krieg entstand er neu als Steeler Bürgerschaft e. V. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)",
+"faktencheck": "korrigiert",
+"id": "426-steele/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Steele",
+"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in ganz Essen: Wie viel Prozent holte die stärkste Partei?",
+"optionen": [
+"unter 18 %",
+"18 bis unter 22 %",
+"22 bis unter 25 %",
+"25 % oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele tippen bei Essen auf die SPD als klare Siegerin. In ganz Essen lag bei der Bundestagswahl 2025 aber die CDU mit 26,5 Prozent der Zweitstimmen vorn, vor der SPD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "426-steele/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Steele",
+"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
+"frage": "Nach einem Baustopp im Januar 1972 wurde das Möbelhaus Kröger dennoch höher fertiggestellt, als der Bebauungsplan erlaubte. Wie ging es aus?",
+"optionen": [
+"Der Bebauungsplan wurde nachträglich hochgestuft.",
+"Das zu hohe Geschoss wurde wieder abgetragen.",
+"Der Bau blieb jahrelang eine unfertige Ruine.",
+"Das Möbelhaus erhielt nie eine Genehmigung."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nach einem Baustopp liegt der Rückbau nahe. Stattdessen wurde der Bebauungsplan nachträglich hochgestuft und der Rechtsbruch so legalisiert. Die Akten dazu gingen später im Essener Rechtsamt spurlos verloren. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)",
+"faktencheck": "unsicher",
+"id": "426-steele/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Steele",
+"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
+"frage": "In welchem Zeitraum wurde Steele nach Essen eingemeindet?",
+"optionen": [
+"vor 1910",
+"1910 bis 1939",
+"1940 bis 1969",
+"1970 oder später"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele denken bei Eingemeindungen an die großen Gebietsreformen der Nachkriegszeit. Steele kam aber schon 1929 zu Essen; bis dahin war es eigenständig. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "426-steele/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Steele",
+"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
+"frage": "Ein Wohnhochhaus an der Bochumer Straße sollte laut Bebauungsplan 12 Etagen haben. Wie viele wurden auf Drängen des Investors genehmigt?",
+"optionen": [
+"Genehmigt wurden 14 Etagen.",
+"Genehmigt wurden 16 Etagen.",
+"Genehmigt wurden 21 Etagen.",
+"Genehmigt wurden 26 Etagen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein paar Etagen Zugabe wären ein naheliegender Kompromiss gewesen. Genehmigt wurden aber 21 statt der im Bebauungsplan vorgesehenen 12 Etagen, fast doppelt so viele. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)",
+"faktencheck": "korrigiert",
+"id": "426-steele/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Steele",
+"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
+"frage": "Die Barockfassade eines Waisenhauses prägt das Bild von Steele. Wer hat das Waisenhaus gestiftet?",
+"optionen": [
+"Ein reicher Steeler Kaufmann stiftete es.",
+"Die Essener Fürstäbtissin stiftete es.",
+"Der König von Preußen stiftete es.",
+"Die katholische Pfarrgemeinde stiftete es."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Waisenhäusern denkt man oft an Kirchengemeinden oder wohlhabende Bürger. Gestiftet hat es aber die Essener Fürstäbtissin Franziska Christine von Pfalz-Sulzbach; die Stiftung trägt bis heute ihren Namen. Richtig war 2.“ –",
+"quelle": "LWL, KuLaDig (LVR)",
+"faktencheck": "korrigiert",
+"id": "426-steele/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Steele",
+"steckbrief": "Stadtteil von Essen, 5 km Luftlinie östlich der Stadtmitte.",
+"frage": "Im Jahr 938 hielt ein deutscher König in Steele einen Hoftag ab. Wer war es?",
+"optionen": [
+"Karl der Große hielt den Hoftag.",
+"Heinrich I. hielt den Hoftag.",
+"Friedrich Barbarossa hielt den Hoftag.",
+"Otto I. der Große hielt den Hoftag."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ottos Vater Heinrich I. liegt nahe, war zu dieser Zeit aber schon tot. Den Hoftag in Steele hielt Otto I. der Große, damals deutscher König und später römischer Kaiser. Ein Hoftag war eine Versammlung des Königs mit den Großen des Reichs. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Steele_(Essen)",
+"faktencheck": "bestätigt",
+"id": "426-steele/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "425-burgaltendorf",
+"anschluss": [
+"Fläche: Burgaltendorf ist etwa doppelt so groß wie Steele."
+],
+"anschluesse": {
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Steele gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Steele gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Steele gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Steele die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Steele gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Steele die CDU."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Steele gehört zum Landkreis Stadtkreis Essen.",
+"Wülfrath liegt rund 200 Meter höher als Steele."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Steele gehört zum Landkreis Stadtkreis Essen.",
+"Velbert liegt rund 160 Meter höher als Steele."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Steele gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Steele gehört zum Landkreis Stadtkreis Essen."
+],
+"425-burgaltendorf": [
+"Fläche: Burgaltendorf ist etwa doppelt so groß wie Steele."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 4.7
+},
+{
+"slug": "427-byfang",
+"name": "Byfang",
+"lat": 51.40556,
+"lon": 7.09806,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Byfang",
+"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
+"frage": "Woher hat Byfang seinen Namen?",
+"optionen": [
+"Der Name erinnert an Fischfang in der Ruhr.",
+"Der Name bezeichnete eine Furt durch die Ruhr.",
+"Der Name bedeutet „Siedlung bei der Kirche\".",
+"Der Name bedeutete einst ein eingefriedetes Feld."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. ‚Fang' klingt nach Fischfang, das liegt nahe. Doch der Name kommt vom altdeutschen Bifang, von ‚befangen', also umfangen oder eingeschlossen. Gemeint war ein ringsum eingeschlossenes Stück Land, vielleicht eine Siedlung mitten im Wald. Richtig war 4.",
+"quelle": "LVR-KuLaDig, kuladig.de/Objektansicht/O-FJK-20100511-0002\"",
+"faktencheck": "korrigiert",
+"id": "427-byfang/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Byfang",
+"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Byfang?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil mit dörflichem Charakter am Rand der Großstadt lässt viel Fläche vermuten. Byfang misst aber nur 4,12 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "427-byfang/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Byfang",
+"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kirche St. Barbara stammt aus dem Mittelalter.",
+"Die Ruhr bildet die Westgrenze von Byfang.",
+"Byfang zählte einst zum Besitz eines Damenstifts."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Damenstift klingt fern, doch Byfang gehörte tatsächlich zu den Stiftsgütern von Rellinghausen. Gelogen war die Kirche: St. Barbara wurde erst 1928 bis 1929 gebaut. Und Byfang gehört wirklich zum Essener Stadtbezirk VIII. Die Lüge war 1.\"",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Byfang",
+"faktencheck": "korrigiert",
+"id": "427-byfang/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Byfang",
+"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in der Stadt Essen, zu der Byfang gehört, nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"SPD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet gilt die SPD traditionell als Siegerin, doch in ganz Essen lag die CDU mit 26,5 Prozent vorn. Die SPD kam mit 22,2 Prozent auf Platz zwei, vor der AfD mit 17 Prozent. Die Zahlen gelten für die Stadt Essen, nicht eigens für Byfang. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "427-byfang/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Byfang",
+"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
+"frage": "Bis 1968 war im Gebäude die Volksschule Oberbyfang. Was zog danach für fast vier Jahrzehnte ein?",
+"optionen": [
+"Ein kleines Heimatmuseum für den Stadtteil.",
+"Eine Jugendherberge für Wanderer an der Ruhr.",
+"Eine Lehrwerkstatt für angehende Bergleute.",
+"Eine Klinik für Brieftauben eines Züchterverbands."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Leere Dorfschulen werden oft zu Museen oder Treffpunkten, das liegt nahe. In Oberbyfang zog aber die Taubenklinik des Verbandes der Deutschen Brieftaubenzüchter ein. Später wurde das Haus ein Wohnhaus. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Byfang",
+"faktencheck": "unsicher",
+"id": "427-byfang/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Byfang",
+"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
+"frage": "Byfang war früher eine eigene Gemeinde. In welchem Jahr wurde es eingemeindet?",
+"optionen": [
+"vor 1925",
+"1925 bis 1944",
+"1945 bis 1969",
+"1970 oder später"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Eingemeindungen denken viele an die großen Gebietsreformen der Nachkriegszeit. Byfang kam aber schon 1929 mit der Bürgermeisterei Kupferdreh zu Essen. Richtig war 2.",
+"quelle": "LVR-KuLaDig, kuladig.de/Objektansicht/O-FJK-20100511-0002\"",
+"faktencheck": "korrigiert",
+"id": "427-byfang/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Byfang",
+"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
+"frage": "In den 1970er-Jahren brach in Byfang ein Bagger in einen unterirdischen Raum ein. Was war das?",
+"optionen": [
+"Ein vergessener Stollen eines alten Kohlebergwerks.",
+"Das unterirdische Verlies des früheren Gerichtshauses.",
+"Ein Luftschutzkeller aus dem Zweiten Weltkrieg.",
+"Der zugeschüttete Brunnen eines alten Bauernhofs."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei einem Loch im Boden zuerst an alte Zechenstollen. Der Bagger war aber in das Verlies des alten Byfanger Gerichtshauses gebrochen, das nach einem Brand abgerissen worden war. Unten war der Raum verputzt, die Deckenöffnung zugemauert. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Byfang",
+"faktencheck": "korrigiert",
+"id": "427-byfang/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Byfang",
+"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
+"frage": "Das Byfanger Stadtteilwappen zeigt ein rotes Andreaskreuz. Wofür steht es?",
+"optionen": [
+"Es ehrt den heiligen Andreas als Kirchenpatron.",
+"Es markiert die Kreuzung zweier alter Handelswege.",
+"Es deutet auf eigene Gerichtsbarkeit hin.",
+"Es erinnert an gekreuztes Werkzeug der Bergleute."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gekreuzte Zeichen erinnern im Ruhrgebiet an Schlägel und Eisen der Bergleute. Das Andreaskreuz, ein schräg gestelltes Kreuz, ist aber ein altes Rechtssymbol und deutet auf Byfangs gerichtliche Eigenständigkeit hin. Die Rosen stammen vom Wappen der Herren von Drimborn. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Byfang",
+"faktencheck": "unsicher",
+"id": "427-byfang/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Byfang",
+"steckbrief": "Essener Stadtteil mit rund 2.000 Einwohnern, 8 km südöstlich der Stadtmitte.",
+"frage": "Wer stiftete 1902 den Bauplatz für Byfangs katholische Kirche St. Barbara?",
+"optionen": [
+"Ein Gastwirt stiftete das Grundstück.",
+"Eine Zechengesellschaft stiftete das Grundstück.",
+"Ein Adelsgeschlecht der Umgebung stiftete das Grundstück.",
+"Ein Kloster der Umgebung stiftete das Grundstück."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die heilige Barbara ist Schutzpatronin der Bergleute, da liegt eine Zeche als Stifterin nahe. Den Bauplatz gab aber der Wirt des späteren Restaurants Schnitzler. Gebaut wurde die Kirche aus Ruhrsandstein. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Byfang",
+"faktencheck": "unsicher",
+"id": "427-byfang/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "426-steele",
+"anschluss": [
+"Fläche: Byfang misst 4,12 km², Steele nur 3,03 km².",
+"Steele liegt 5 km von Essens Mitte, Byfang 8 km."
+],
+"anschluesse": {
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Byfang gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Byfang gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Byfang gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Byfang die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Byfang gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Byfang die CDU."
+],
+"354-mettmann": [
+"Kreisgrenze: Mettmann ist kreisfrei, Byfang gehört zum Landkreis Stadtkreis Essen."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Byfang gehört zum Landkreis Stadtkreis Essen."
+],
+"356-wuppertal": [
+"Kreisgrenze: Wuppertal ist kreisfrei, Byfang gehört zum Landkreis Stadtkreis Essen."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Byfang gehört zum Landkreis Stadtkreis Essen."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Byfang gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Byfang gehört zum Landkreis Stadtkreis Essen."
+],
+"426-steele": [
+"Fläche: Byfang misst 4,12 km², Steele nur 3,03 km².",
+"Steele liegt 5 km von Essens Mitte, Byfang 8 km."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 5.1
+},
+{
+"slug": "428-ruettenscheid",
+"name": "Rüttenscheid",
+"lat": 51.43556,
+"lon": 7.00528,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüttenscheid",
+"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Rüttenscheid beschloss 1895 ein System für Straßennamen rund um die Kettwiger Chaussee. Welches?",
+"optionen": [
+"Straßen wurden nach alten Höfen im Ort benannt.",
+"Straßen bekamen Namen von Bäumen und Sträuchern.",
+"Straßen links der Chaussee bekamen Frauen-, rechts Männervornamen.",
+"Straßen wurden nach Siegen gegen Frankreich benannt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Höfe oder Siege als Straßennamen waren damals verbreitet. Rüttenscheid beschloss etwas anderes: links der Kettwiger Chaussee weibliche, rechts männliche Vornamen, jeweils alphabetisch von Norden nach Süden. Das System wurde bald kritisiert, weil es örtliche Begebenheiten überging. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
+"faktencheck": "unsicher",
+"id": "428-ruettenscheid/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rüttenscheid",
+"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Rüttenscheid?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 3 km²",
+"3 bis unter 4 km²",
+"4 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei so vielen Einwohnern denkt man an ein dicht bebautes, kleines Viertel. Rüttenscheid misst aber 4,53 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "428-ruettenscheid/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rüttenscheid",
+"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Einst stand in Rüttenscheid ein Vergnügungspark mit Achterbahn.",
+"Der Radweg Grugatrasse liegt auf einem zugeschütteten Kanal.",
+"In Rüttenscheid gab es früher eine eigene Zeche."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kanäle gibt es im Ruhrgebiet viele, das klingt plausibel. Doch das Wort Trasse verrät es: Die Grugatrasse ist ein Radweg auf einer früheren Bahnstrecke. Der Vergnügungspark Prater mit Achterbahn und Bootsbecken lag wirklich in Rüttenscheid, und mit Langenbrahm hatte der Stadtteil eine eigene Zeche. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
+"faktencheck": "unsicher",
+"id": "428-ruettenscheid/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rüttenscheid",
+"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in ganz Essen, zu dem Rüttenscheid gehört?",
+"optionen": [
+"unter 72 %",
+"72 bis unter 82 %",
+"82 bis unter 87 %",
+"87 % oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Spitzenwerte denkt, schätzt hier zu hoch. In ganz Essen gingen 80,1 Prozent der Wahlberechtigten zur Wahl; die Zahl gilt für die ganze Stadt, nicht nur für Rüttenscheid. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "428-ruettenscheid/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüttenscheid",
+"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Woher kommt der Name Rüttenscheid vermutlich?",
+"optionen": [
+"Der Name geht vermutlich auf Jagdhunde (Rüden) zurück.",
+"Der Name geht vermutlich auf angebaute Rüben zurück.",
+"Der Name geht vermutlich auf geschnittenes Riedgras zurück.",
+"Der Name geht vermutlich auf rötliche Erde zurück."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rüden oder Rüben drängen sich beim heutigen Klang auf. Doch die mittelalterliche Form lautete Riudenscethe. Darin steckt vermutlich hriudi, ein altes Wort für Riedgras: Durch dessen Schnitt wurde die Ansiedlung vermutlich möglich. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
+"faktencheck": "bestätigt",
+"id": "428-ruettenscheid/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rüttenscheid",
+"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "In welchem Jahr wurde Rüttenscheid, damals eine eigene Gemeinde, nach Essen eingemeindet?",
+"optionen": [
+"vor 1870",
+"1870 bis 1889",
+"1890 bis 1899",
+"1900 oder später"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. So nah an der Innenstadt wirkt Rüttenscheid, als gehöre es seit jeher zu Essen. Doch es wurde erst am 21. Juni 1905 nach Essen eingemeindet. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "428-ruettenscheid/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüttenscheid",
+"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Ende der 1990er-Jahre wurde der alte Rüttenscheider Bahnhof an der Veronikastraße abgerissen. Wofür?",
+"optionen": [
+"Er wich einem Parkplatz für eine Veranstaltungshalle.",
+"Er wich einem Betriebshof für Straßenbahnen.",
+"Er wich einer neuen Wache der Feuerwehr.",
+"Er wich einer Tankstelle mit Waschanlage."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Betriebshof liegt nahe, wo schon Schienen lagen. Doch der Rüttenscheider Bahnhof wich einem Parkplatz der Grugahalle. Im Krieg waren dort polnische Zwangsarbeiter der Reichsbahn untergebracht. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
+"faktencheck": "unsicher",
+"id": "428-ruettenscheid/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüttenscheid",
+"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Krupp ließ im Südosten Rüttenscheids eine Werkssiedlung bauen. Für wen war sie ursprünglich gedacht?",
+"optionen": [
+"Sie war für Lehrlinge der Krupp-Werkstätten gedacht.",
+"Sie war für leitende Angestellte und Ingenieure gedacht.",
+"Sie war für Arbeiter im Ruhestand gedacht.",
+"Sie war für neu angeworbene Stahlarbeiter gedacht."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Werkssiedlungen entstanden meist für aktive Belegschaften, das liegt nahe. Krupp baute die Siedlung Altenhof aber für Rentner und Invaliden des Unternehmens. Richtig war 3.",
+"quelle": "Stadt Essen, essen.de/dasistessen/stadtteile/ruettenscheid_1/ruettenscheid_kultur_freizeit.de.html",
+"faktencheck": "korrigiert",
+"id": "428-ruettenscheid/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüttenscheid",
+"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
+"frage": "Wofür wurde das Girardet-Haus im Süden Rüttenscheids ursprünglich genutzt?",
+"optionen": [
+"Es war eine große Fabrik für Bergbaumaschinen.",
+"Es war ein großer Druckereibetrieb.",
+"Es war eine große Kaserne für Reiter.",
+"Es war ein großes Depot für Straßenbahnen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man bei Großbetrieben zuerst an Bergbau. Das Girardet-Haus war aber ein Druckereibetrieb, gegründet von Wilhelm Girardet und von seinem gleichnamigen Sohn weitergeführt. Nach der Stilllegung wurde es zur Passage umgebaut, mit Praxen, Tanzschule, Seniorenwohnungen und Gastronomie. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
+"faktencheck": "unsicher",
+"id": "428-ruettenscheid/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "427-byfang",
+"anschluss": [
+"Luftlinie zur Essener Stadtmitte: Rüttenscheid 2 km, Byfang 8 km."
+],
+"anschluesse": {
+"196-ratingen": [
+"Kreisgrenze: Ratingen ist kreisfrei, Rüttenscheid gehört zum Landkreis Stadtkreis Essen."
+],
+"197-duisburg": [
+"Kreisgrenze: Duisburg ist kreisfrei, Rüttenscheid gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Rüttenscheid die CDU."
+],
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Rüttenscheid gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Rüttenscheid gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Rüttenscheid gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Rüttenscheid die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Rüttenscheid gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Rüttenscheid die CDU."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Rüttenscheid gehört zum Landkreis Stadtkreis Essen.",
+"Wülfrath liegt rund 150 Meter höher als Rüttenscheid."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Rüttenscheid gehört zum Landkreis Stadtkreis Essen."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Rüttenscheid gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Rüttenscheid gehört zum Landkreis Stadtkreis Essen."
+],
+"427-byfang": [
+"Luftlinie zur Essener Stadtmitte: Rüttenscheid 2 km, Byfang 8 km."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 7.2
+},
+{
+"slug": "429-bredeney",
+"name": "Bredeney",
+"lat": 51.41444,
+"lon": 6.99389,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bredeney",
+"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte.",
+"frage": "Ab 1885 entstand in Bredeney die Siedlung Brandenbusch. Für wen wurde sie ursprünglich gebaut?",
+"optionen": [
+"Sie war für Bergleute der Zechen gedacht.",
+"Sie war für Bedienstete einer Industriellenfamilie gedacht.",
+"Sie war für Beamte der Stadt Essen gedacht.",
+"Sie war für Arbeiter einer Tuchfabrik gedacht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bergleute liegen im Ruhrgebiet nahe. Doch Brandenbusch liegt an der Zufahrt zur Villa Hügel, dem ehemaligen Sitz der Familie Krupp. Hier wohnten ursprünglich Diener und Angestellte der Krupps, in Häusern nach Plänen des Baurats Marx. Richtig war 2.",
+"quelle": "KuLaDig (LVR), Siedlung am Brandenbusch",
+"faktencheck": "korrigiert",
+"id": "429-bredeney/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bredeney",
+"steckbrief": "Rund 11.000 Einwohner, Stadtteil von Essen, 5 km südlich der Stadtmitte.",
+"frage": "Bredeney liegt auf den Ruhrhöhen am Übergang zum Ruhrtal. Wie hoch liegt der Stadtteil über dem Meeresspiegel?",
+"optionen": [
+"unter 60 m",
+"60 bis unter 120 m",
+"120 bis unter 200 m",
+"200 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ruhrgebiet klingt nach flachem Land, und die Ruhr fließt tief im Tal. Bredeney liegt aber oben auf den Ruhrhöhen: Die Quellen nennen 158 oder 161 Meter über dem Meer. Richtig war 3.",
+"quelle": "Wikidata P2044; GeoNames 2944900 (Altbestand geo.sqlite)",
+"faktencheck": "bestätigt",
+"id": "429-bredeney/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bredeney",
+"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Gebäude der Grashofschule wurde 1929/30 errichtet.",
+"Haus Baldeney war ein Lehen der Abtei Werden.",
+"Der Baldeneysee liegt im Norden von Bredeney."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Baldeneysee liegt im Süden Bredeneys, unterhalb der Ruhrhöhen. Der Steckbrief hilft: Nördlich von Bredeney liegt die Essener Mitte, kein Stausee. Echt sind der Schulbau von 1929/30 und das Werdener Lehen. Die Lüge war 3.",
+"quelle": "KuLaDig (LVR)",
+"faktencheck": "korrigiert",
+"id": "429-bredeney/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bredeney",
+"steckbrief": "Rund 11.000 Einwohner, Stadtteil der Großstadt Essen, 5 km südlich der Stadtmitte.",
+"frage": "Bei der Bundestagswahl 2025 gilt die Frage für ganz Essen, nicht nur Bredeney: Wie viel Prozent der Zweitstimmen holte die stärkste Partei?",
+"optionen": [
+"unter 28 %",
+"28 bis unter 32 %",
+"32 bis unter 36 %",
+"36 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen höher, weil die Union bundesweit vorn lag und Großparteien früher deutlich mehr holten. In Essen verteilten sich die Zweitstimmen breit: Die CDU wurde mit 26,5 Prozent stärkste Partei, vor SPD und AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "429-bredeney/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bredeney",
+"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte.",
+"frage": "Bredeney hat ein eigenes, denkmalgeschütztes Rathaus. Wofür wurde es ursprünglich gebaut?",
+"optionen": [
+"Es war Verwaltungssitz einer Zechengesellschaft.",
+"Es war Sitz einer eigenständigen Gemeinde.",
+"Es wurde als Villa eines Fabrikanten gebaut.",
+"Es wurde als kaiserliches Postamt gebaut."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele denken an eine Fabrikantenvilla, weil der Essener Süden für Industriellenvillen bekannt ist. Doch das Haus wurde 1901/02 als Sitz der Bürgermeisterei der Gemeinde Zweihonnschaften gebaut, zu der Bredeney gehörte. Nach der Eingemeindung 1915 nutzten es verschiedene Dienststellen. Die heutigen Eigentümer ließen es behutsam sanieren. Richtig war 2.",
+"quelle": "Stadt Essen, essen.de",
+"faktencheck": "korrigiert",
+"id": "429-bredeney/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bredeney",
+"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte.",
+"frage": "Bredeney war nicht immer ein Teil der Stadt Essen. In welchem Jahr wurde es eingemeindet?",
+"optionen": [
+"vor 1880",
+"1880 bis 1909",
+"1910 bis 1929",
+"1930 oder später"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele denken an die großen Gebietsreformen im Ruhrgebiet und schätzen später. Bredeney kam aber schon am 1. April 1915 zur Stadt Essen. Richtig war 3.",
+"quelle": "dewiki Infobox, de.wikipedia.org/wiki/Bredeney",
+"faktencheck": "bestätigt",
+"id": "429-bredeney/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bredeney",
+"steckbrief": "Rund 11.000 Einwohner, Stadtteil von Essen, 5 km südlich der Stadtmitte.",
+"frage": "Der Borbecker Mühlenbach entspringt im Westen Bredeneys auf den Ruhrhöhen. Wohin fließt er?",
+"optionen": [
+"Er fließt südwärts in die Ruhr.",
+"Er speist den Baldeneysee.",
+"Er mündet direkt in den Rhein.",
+"Er fließt nordwärts zur Emscher."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Ruhr liegt gleich unterhalb, darum tippen viele auf sie. Der Bach fließt aber nach Norden und gelangt über die Berne in die Emscher. Die Emschergenossenschaft hat ihn zu einem sauberen Bach umgebaut. Richtig war 4.",
+"quelle": "Emschergenossenschaft, eglv.de",
+"faktencheck": "korrigiert",
+"id": "429-bredeney/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bredeney",
+"steckbrief": "Stadtteil von Essen mit rund 11.000 Einwohnern, 5 km südlich der Stadtmitte.",
+"frage": "Der Ortsname Bredeney klingt ungewöhnlich. Wie wird er gedeutet?",
+"optionen": [
+"Als „breite Au\".",
+"Als „neue Siedlung\".",
+"Nach einem Gründer namens Brede.",
+"Als „Brücke am Bach\"."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Endung klingt nach „neu\", deshalb denken viele an eine Neugründung. Der Name wird aber als „breite Au\" gedeutet, also als weite, feuchte Niederung. Schon 875 ist eine ähnliche Form überliefert. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bredeney",
+"faktencheck": "korrigiert",
+"id": "429-bredeney/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bredeney",
+"steckbrief": "Rund 11.000 Einwohner, Stadtteil von Essen, 5 km südlich der Stadtmitte.",
+"frage": "Das Wappen von Bredeney zeigt einen schwarzen Balken mit Zinnen. Woher kommt dieses Zeichen?",
+"optionen": [
+"Er kommt von der Industriellenfamilie Krupp.",
+"Er kommt aus dem Essener Stadtwappen.",
+"Er kommt von den Herren von Bottlenberg.",
+"Er zeigt die Zinnen der Villa Hügel."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Zinnen erinnern an Burgmauern, darum liegt ein prächtiger Bau nahe. Der sogenannte Wechselzinnenbalken stammt aber aus dem Wappen der Herren von Bottlenberg. Ihr Wappen ist bis heute über dem Turmportal von Haus Baldeney zu sehen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bredeney; KuLaDig (LVR)",
+"faktencheck": "korrigiert",
+"id": "429-bredeney/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "428-ruettenscheid",
+"anschluss": [
+"Fläche: Bredeney ist fast doppelt so groß wie Rüttenscheid.",
+"Nachbarschaft: Bredeney und Rüttenscheid sind angrenzende Essener Stadtteile."
+],
+"anschluesse": {
+"196-ratingen": [
+"Kreisgrenze: Ratingen ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen."
+],
+"197-duisburg": [
+"Kreisgrenze: Duisburg ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Bredeney die CDU."
+],
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Bredeney die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Bredeney die CDU."
+],
+"354-mettmann": [
+"Kreisgrenze: Mettmann ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Bredeney gehört zum Landkreis Stadtkreis Essen."
+],
+"428-ruettenscheid": [
+"Fläche: Bredeney ist fast doppelt so groß wie Rüttenscheid.",
+"Nachbarschaft: Bredeney und Rüttenscheid sind angrenzende Essener Stadtteile."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 2.5
+},
+{
+"slug": "430-huttrop",
+"name": "Huttrop",
+"lat": 51.44861,
+"lon": 7.04417,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Huttrop",
+"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
+"frage": "Was bedeutet die Silbe „trop“ im Ortsnamen Huttrop?",
+"optionen": [
+"Die Silbe „trop“ bedeutet Dorf.",
+"Die Silbe „trop“ steht für Tropfen.",
+"Die Silbe „trop“ bezeichnet eine Viehtränke.",
+"Die Silbe „trop“ bezeichnet eine Furt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Trop“ ist eine niederdeutsche Form von „dorp“ und bedeutet Dorf. Tropfen liegt nahe, weil die Silbe fast genauso klingt. Dieselbe Endung steckt in vielen westfälischen Ortsnamen auf -trop und -trup. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop; Westfälisches Ortsnamenbuch",
+"faktencheck": "korrigiert",
+"id": "430-huttrop/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Huttrop",
+"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
+"frage": "Wie groß ist die Fläche des Stadtteils Huttrop?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 4 km²",
+"4 bis unter 8 km²",
+"8 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Huttrop umfasst 2,73 Quadratkilometer. Mehr zu schätzen liegt nahe, weil im Stadtteil viele Menschen leben. Doch Stadtteile nahe einer Innenstadt sind oft klein geschnitten und eng bewohnt. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "430-huttrop/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Huttrop",
+"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Franz Sales Haus heißt nach seinem Gründer.",
+"Die Steeler Straße war einst Teil des Hellwegs.",
+"Landrat Leo Huttrop stammte aus dem Ort Huttrop."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist der Gründer: Das katholische Franz Sales Haus ist nach dem heiligen Franz von Sales benannt. Ein Gründer liegt nahe, weil viele Häuser nach ihren Stiftern heißen. Wahr ist dagegen: Landrat Leo Huttrop trug den Namen seines Heimatorts, und die Steeler Straße war Teil des Hellwegs. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop",
+"faktencheck": "unsicher",
+"id": "430-huttrop/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Huttrop",
+"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der ganzen Stadt Essen: Welche Partei wurde Zweite?",
+"optionen": [
+"CDU",
+"AfD",
+"GRÜNE",
+"SPD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In ganz Essen wurde die CDU stärkste Kraft, dahinter landete die SPD. Die AfD liegt als Tipp nahe, weil sie bundesweit Zweite wurde; in Essen reichte es nur für Platz drei. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "430-huttrop/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Huttrop",
+"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
+"frage": "Das Huttroper Stadtteilwappen zeigt einen blauen Hut und fünf Tropfen. Woher stammen diese Bilder?",
+"optionen": [
+"Sie bilden den Klang des Ortsnamens nach.",
+"Sie stammen aus dem Siegel der Bauerschaft.",
+"Sie erinnern an Hutmacher, die hier arbeiteten.",
+"Sie wurden aus einem Adelswappen übernommen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Hut und Tropfen malen den Klang von „Huttrop“ nach; man spricht von einem redenden Wappen. Ein altes Bauerschaftssiegel liegt nahe, weil Wappen meist uralt wirken. Doch Heraldiker Kurt Schweder schuf es erst Ende der 1980er Jahre, wie Wappen für alle Essener Stadtteile. Offiziell war es nie. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop",
+"faktencheck": "unsicher",
+"id": "430-huttrop/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Huttrop",
+"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
+"frage": "In welchem Zeitraum wurde Huttrop nach Essen eingemeindet?",
+"optionen": [
+"vor 1900",
+"1900 bis 1919",
+"1920 bis 1945",
+"1946 oder später"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Huttrop wurde am 1. April 1908 nach Essen eingemeindet. Wegen der Nähe zur Stadtmitte liegt ein früherer Termin nahe. Doch bis dahin gehörte Huttrop nicht zur Stadt. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "430-huttrop/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Huttrop",
+"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
+"frage": "Wofür wurde das Gebäude des heutigen Ruhrturms in Huttrop ursprünglich errichtet?",
+"optionen": [
+"Es entstand als Wohnhaus mit Mietwohnungen.",
+"Es entstand als Bettenhaus eines Krankenhauses.",
+"Es entstand als Zentrale eines Energiekonzerns.",
+"Es entstand als Schulgebäude eines Gymnasiums."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Gebäude entstand Anfang der 1970er Jahre als Zentrale der Ruhrgas AG, später E.ON Ruhrgas. Nach dem Auszug des Konzerns bekam es neue Mieter und den Namen Ruhrturm. Ein Krankenhausbau liegt nahe, weil in Huttrop zwei Essener Krankenhäuser liegen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop; Immobilien Zeitung",
+"faktencheck": "korrigiert",
+"id": "430-huttrop/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Huttrop",
+"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
+"frage": "Das Elisabeth-Krankenhaus gehört zu Huttrop. Wo war es ursprünglich untergebracht?",
+"optionen": [
+"Es begann in einem ehemaligen Gutshof.",
+"Es begann in einem ehemaligen Kapuzinerkloster.",
+"Es begann im Verwaltungsbau einer Zeche.",
+"Es begann in einem alten Gasthaus."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Elisabeth-Krankenhaus begann in Räumen des ehemaligen Kapuzinerklosters Essen. Ein Gutshof liegt nahe, weil Huttrop einst eine Bauerschaft war. Zum Krankenhaus gehört eine katholische Kirche mit langer Geschichte. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop",
+"faktencheck": "unsicher",
+"id": "430-huttrop/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Huttrop",
+"steckbrief": "Essener Stadtteil mit rund 15.500 Einwohnern, 2 km östlich der Stadtmitte (Luftlinie).",
+"frage": "Die evangelische Neue Pauluskirche in Huttrop wurde entwidmet. Was wurde aus dem Bau?",
+"optionen": [
+"Sie wurde zu einer Kletterhalle umgebaut.",
+"Sie wurde zu einem Kino umgebaut.",
+"Sie wurde zu einer Stadtteilbücherei umgebaut.",
+"Sie wurde zu einem Altenwohnheim umgebaut."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Neue Pauluskirche wurde zu einem Altenwohnheim umgebaut; im einstigen Kirchenschiff liegen heute Apartments. Kino oder Kletterhalle liegen nahe, weil aufgegebene Kirchen oft spektakulär umgenutzt werden. Ein Saal im Haus dient weiter für Gottesdienste der Bewohner. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Huttrop",
+"faktencheck": "korrigiert",
+"id": "430-huttrop/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "429-bredeney",
+"anschluss": [
+"Fläche: Bredeney ist gut dreimal so groß wie Huttrop.",
+"Höhenlage: Bredeney liegt rund 60 Meter höher als Huttrop."
+],
+"anschluesse": {
+"197-duisburg": [
+"Kreisgrenze: Duisburg ist kreisfrei, Huttrop gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Huttrop die CDU."
+],
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Huttrop gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Huttrop gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Huttrop gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Huttrop die CDU."
+],
+"201-bochum": [
+"Kreisgrenze: Bochum ist kreisfrei, Huttrop gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Bochum lag die SPD vorn, in Huttrop die CDU."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Huttrop gehört zum Landkreis Stadtkreis Essen.",
+"Wülfrath liegt rund 160 Meter höher als Huttrop."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Huttrop gehört zum Landkreis Stadtkreis Essen."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Huttrop gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Huttrop gehört zum Landkreis Stadtkreis Essen."
+],
+"429-bredeney": [
+"Fläche: Bredeney ist gut dreimal so groß wie Huttrop.",
+"Höhenlage: Bredeney liegt rund 60 Meter höher als Huttrop."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 5.2
+},
+{
+"slug": "431-kettwig",
+"name": "Kettwig",
+"lat": 51.36833,
+"lon": 6.94,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kettwig",
+"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Der Haltepunkt Kettwig Stausee liegt direkt am Südufer des Kettwiger Sees. Welchen Anlass für seine Entstehung nennt die Ortsgeschichte?",
+"optionen": [
+"Er wurde für Ausflügler zum See angelegt.",
+"Er ersetzte einen vom Hochwasser zerstörten Bahnhof.",
+"Er entstand als Halt für ein Lazarett.",
+"Er war ein Notbehelf nach einer Brückenzerstörung."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an Ausflügler denken, die ans Seeufer wollen. Entstanden ist Kettwig Stausee aber als Behelfshalt, nachdem die Eisenbahnbrücke Kettwig zerstört worden war. Er liegt im Ortsteil Kettwig Vor der Brücke an der Ruhrtalbahn. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kettwig",
+"faktencheck": "bestätigt",
+"id": "431-kettwig/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kettwig",
+"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt im äußersten Südwesten Essens an der Ruhr, 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Wie groß ist die Fläche des Stadtteils Kettwig?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 30 km²",
+"30 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an einen Stadtteil denkt, stellt sich oft nur ein paar Straßenzüge vor; die vielen Einwohner lassen dagegen an eine große Fläche denken. Kettwig misst 15 Quadratkilometer und liegt damit in der kleinsten Spanne. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "431-kettwig/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kettwig",
+"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kirche am Markt ist aus Ruhrsandstein gebaut.",
+"Kettwigs doppelköpfiger Wappenadler stammt aus dem Preußenwappen.",
+"St. Peters Hochaltar stammt aus einem aufgehobenen Kloster."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Preußen liegt nahe, denn Kettwig gehörte einst zum Königreich Preußen. Doch der Preußenadler hat nur einen Kopf. Kettwigs Doppelkopfadler über der Brücke stammt aus dem Wappen der Reichsabtei Werden. Die Kirche am Markt ist tatsächlich aus Ruhrsandstein, und der Hochaltar von St. Peter kam aus dem aufgehobenen Katharinenkloster in Gerresheim. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kettwig",
+"faktencheck": "unsicher",
+"id": "431-kettwig/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kettwig",
+"steckbrief": "Kettwig ist mit rund 18.000 Einwohnern ein Stadtteil der Großstadt Essen und liegt 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der ganzen Stadt Essen, zu der Kettwig gehört?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 77 %",
+"77 bis unter 83 %",
+"83 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In Großstädten gehen oft weniger Menschen wählen als in ländlichen Gegenden, deshalb liegen die unteren Spannen nahe. In Essen lag die Wahlbeteiligung 2025 aber bei 80,1 Prozent. Der Wert gilt für die ganze Stadt, nicht eigens für Kettwig. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "431-kettwig/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kettwig",
+"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Die Firma Scheidt war einst der größte Arbeitgeber Kettwigs. Womit machte sie ihr Geschäft?",
+"optionen": [
+"Sie förderte Steinkohle aus eigenen Zechen.",
+"Sie fertigte Werkzeuge aus Stahl.",
+"Sie stellte Papier und Pappe her.",
+"Sie stellte Garn und Tuch her."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet denkt man zuerst an Kohle und Stahl. Scheidt war aber ein Textilbetrieb mit Tuchfabrik und Spinnerei, gegründet 1720. Beide Werke sind längst geschlossen. Richtig war 4.",
+"quelle": "LWL, Tuchfabrik J. W. Scheidt; Stadt Essen, Geschichte Kettwig",
+"faktencheck": "korrigiert",
+"id": "431-kettwig/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kettwig",
+"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Essener Stadtteil 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "In welchem Zeitraum wurde Kettwig nach Essen eingemeindet?",
+"optionen": [
+"1970 oder später",
+"1945 bis 1969",
+"1918 bis 1944",
+"vor 1918"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Heute wirkt Kettwig wie selbstverständlich als Teil Essens, und viele denken an die Zeit, als die Ruhrstädte rasch wuchsen. Die Eingemeindung kam aber erst am 1. Januar 1975. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "431-kettwig/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kettwig",
+"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Wo stehen die Werke des Skulpturenparks Kettwig?",
+"optionen": [
+"Alle stehen zusammen in einem eingezäunten Park.",
+"Sie stehen verteilt über das Ortsgebiet.",
+"Alle stehen im Garten eines Schlosses.",
+"Alle stehen in einer ehemaligen Fabrikhalle."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Wort Park lässt an eine geschlossene Anlage denken, in der alle Werke beisammen stehen. Die Werke des Skulpturenparks sind aber über das Ortsgebiet verteilt. Gegründet hat ihn die Künstlerin Marianne Kühn; zu sehen sind unter anderem Arbeiten von Werner Graeff und Johannes Brus. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kettwig",
+"faktencheck": "bestätigt",
+"id": "431-kettwig/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kettwig",
+"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Vor dem heutigen E trugen Kettwiger Autos ein anderes Kennzeichen. Welches?",
+"optionen": [
+"Die Autos trugen das Kennzeichen MH.",
+"Die Autos trugen das Kennzeichen W.",
+"Die Autos trugen das Kennzeichen D.",
+"Die Autos trugen das Kennzeichen BO."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. MH liegt nahe, denn Mülheim an der Ruhr ist die nächste Großstadt. Kettwig gehörte damals aber zum Landkreis Düsseldorf-Mettmann, und so fuhren Kettwiger Autos mit D. Erst mit dem Wechsel nach Essen kam das E. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kettwig",
+"faktencheck": "unsicher",
+"id": "431-kettwig/v0.8/8",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kettwig",
+"steckbrief": "Kettwig hat rund 18.000 Einwohner und liegt als Stadtteil von Essen 8 km südöstlich von Mülheim an der Ruhr.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Bahnhof Kettwig liegt mitten im alten Ortskern.",
+"Der Bahnhof Kettwig war früher ein großer Eisenbahnknoten.",
+"Schloss Hugenpoet birgt Renaissance-Kamine aus einem anderen Schloss."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Eisenbahnknoten denkt man an einen Bahnhof mitten im Ort, deshalb klingt Aussage 1 glaubwürdig. Der Bahnhof Kettwig liegt aber dezentral am äußersten Ende der Bebauung. Ein großer Eisenbahnknoten war er wirklich, und Schloss Hugenpoet enthält tatsächlich Renaissance-Kamine aus Schloss Horst. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kettwig",
+"faktencheck": "unsicher",
+"id": "431-kettwig/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "430-huttrop",
+"anschluss": [
+"Fläche: Kettwig ist mehr als fünfmal so groß wie Huttrop.",
+"Kennzeichen: In Kettwig wie in Huttrop steht E am Auto."
+],
+"anschluesse": {
+"195-duesseldorf": [
+"Kreisgrenze: Düsseldorf ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen."
+],
+"196-ratingen": [
+"Kreisgrenze: Ratingen ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen."
+],
+"197-duisburg": [
+"Kreisgrenze: Duisburg ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Duisburg lag die SPD vorn, in Kettwig die CDU."
+],
+"198-muelheim": [
+"Kreisgrenze: Mülheim an der Ruhr ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen."
+],
+"199-essen": [
+"Kreisgrenze: Essen ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen."
+],
+"200-gelsenkirchen": [
+"Kreisgrenze: Gelsenkirchen ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen.",
+"Bundestagswahl 2025: In Gelsenkirchen lag die AfD vorn, in Kettwig die CDU."
+],
+"352-haan": [
+"Kreisgrenze: Haan ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen."
+],
+"353-erkrath": [
+"Kreisgrenze: Erkrath ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen."
+],
+"354-mettmann": [
+"Kreisgrenze: Mettmann ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen."
+],
+"355-wuelfrath": [
+"Kreisgrenze: Wülfrath ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen.",
+"Wülfrath liegt rund 210 Meter höher als Kettwig."
+],
+"357-velbert": [
+"Kreisgrenze: Velbert ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen.",
+"Velbert liegt rund 180 Meter höher als Kettwig."
+],
+"358-heiligenhaus": [
+"Kreisgrenze: Heiligenhaus ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen."
+],
+"359-hattingen": [
+"Kreisgrenze: Hattingen ist kreisfrei, Kettwig gehört zum Landkreis Stadtkreis Essen."
+],
+"430-huttrop": [
+"Fläche: Kettwig ist mehr als fünfmal so groß wie Huttrop.",
+"Kennzeichen: In Kettwig wie in Huttrop steht E am Auto."
+]
+},
+"ags": "05113000",
+"ortsteil": true,
+"km_vom_vorigen": 11.5
 }
 ]
 }

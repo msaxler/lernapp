@@ -1,0 +1,594 @@
+ZIELORT: Überruhr (Ortsteil von Essen)
+LAGE: Stadtteil von Essen, 6 km südöstlich der Stadtmitte (Luftlinie)
+ARTIKEL: Überruhr
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 6,72  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 94 | 83 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2820568)]
+  naechste_grossstadt: Essen, 6 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 31 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1929-08-01  [dewiki Infobox]
+  plz: 45277  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung, C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT eingemeindung: Jahr der Eingemeindung (Ersatz: Luftlinie zur Landeshauptstadt), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Kupferdreh (Ortsteil von Essen)
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  flaeche_km2: 9,34  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 62 | 90 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2882413)]
+  naechste_grossstadt: Essen, 9 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Ebnet, Littenweiler, Merzhausen, Au, Ebringen, Schallstadt, Bad Krozingen, Heitersheim, Müllheim, Waldkirch, Hochdorf, March, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Überruhr):
+ID: 419-ueberruhr/001
+ENTITÄT: ort
+BEZEICHNUNG: Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  stadtteil_von: Essen
+  lage: südöstlicher Stadtteil
+  topografie: Halbinsel über der Ruhr
+  administrative_unterteilung: zwei Stadtteile (Überruhr-Hinsel, Überruhr-Holthausen)
+  grenzt_an_westen: Heisingen, Rellinghausen
+  grenzt_an_nordwesten: Bergerhausen
+  grenzt_an_norden: Steele
+  grenzt_an_osten: Horst
+  grenzt_an_sudosten: Burgaltendorf
+  grenzt_an_sueden: Byfang
+  urspruengliche_siedlungsform: Bauerschaften
+  historische_wirtschaft: Steinkohlenbergbau (Zechenlandschaft)
+  aktuelle_struktur: lockere Wohnbebauung
+  namensherkunft: "Über der Ruhr" (geographisch Overruhr/Oberruhr, Fährenüberquerung notwendig)
+  eingemeindung: 1. August 1929 zu Essen (gegen Willen der Bevölkerung)
+  einwohner_gesamt: 15977
+  gueltig_ab: 2025
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Überruhr-Hinsel
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Überruhr
+  siedlungsform: ehemalige Bauerschaft
+  lage: Norden, auf Hügel
+  hoehe: 100 meter ü. NHN
+  hoehe_ruhr_basis: 50 meter ü. NHN
+  urkundliche_ersterwhaehnung: 1092 (Hintisle)
+  namensherkunft_vermutung: Ansiedlung in Niederung mit stehendem Gewässer (Altsächsisch -sel)
+  hof_springob_existenz: 18. Jahrhundert, ca. 62 Morgen Land
+  hof_springob_eigentuemer: 1834 J. A. Springob
+  strasse_springhoffsfeld_benannt: 1961
+  infrastruktur_trinkwasser: großes Areal zur Trinkwassergewinnung vorhanden
+  einwohner: 7781
+  gueltig_ab: 2025
+  bevoelkerungsanteil_unter_18: 14.2 %
+  bevoelkerungsanteil_ab_65: 30.8 %
+  auslaenderanteil: 6.8 %
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Überruhr-Holthausen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Überruhr
+  siedlungsform: ehemalige Bauerschaft
+  lage: Süden
+  hoehe: 130 meter ü. NHN
+  hoehe_ruhr_basis: 50 meter ü. NHN
+  urkundliche_ersterwhaehnung: 1054
+  namensherkunft: Ansiedlungen im "holt", Niederwald-Nutzung für Einschlag und Viehtrieb
+  einwohner: 8196
+  gueltig_ab: 2025
+  bevoelkerungsanteil_unter_18: 15.6 %
+  bevoelkerungsanteil_ab_65: 29.9 %
+  auslaenderanteil: 11.9 %
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/004
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Mönkhoffsbank
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  ort: Wichteltal am linken Ruhrufer
+  gruendung: 1673
+  bauwerk_schacht: Bruchstein-Schachtgebäude (Reste vorhanden)
+  nebengebaeude: Schmiede (umgebaut, als Wohngebäude vorhanden)
+  verbindung: Pferdeeisenbahnanbindung zu Holteyer Hafen und Zeche Vereinigte Charlotte
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/005
+ENTITÄT: hafen
+BEZEICHNUNG: Holteyer Hafen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  ort: Überruhr
+  funktion: Sicherheitshafen für Ruhrschifffahrt
+  angelegt: 1837-1838
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+---
+ID: 419-ueberruhr/006
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Vereinigte Charlotte
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  ort: Überruhr
+  verbindung: Pferdeeisenbahnanbindung mit Holteyer Hafen und Zeche Mönkhoffsbank
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+---
+ID: 419-ueberruhr/007
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Vereinigte Gewalt
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  ort: Überruhr
+  gruendung_zeitraum: um 1860
+  superlativ: größte und tiefste Grube im Ruhrgebiet (Mitte 19. Jahrhundert)
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+---
+ID: 419-ueberruhr/008
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Heinrich
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  ort: Überruhr
+  foerderturm: noch heute vorhanden
+  arbeitende_personen: ca. 3000
+  stilllegung: 1968
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/009
+ENTITÄT: kirche
+BEZEICHNUNG: Friedenskapelle der Heiligen Eucharistie
+ORTSTEIL_BEZUG: Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  standort: Mönkhoffstraße
+  erbaut: 1961
+  anlass: Eucharistischer Weltkongress München (1961)
+  tradition_prozession: Sternförmige Prozession von allen Gemeinden Überruhrs am 1. Mai
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/010
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Suitbert
+ORTSTEIL_BEZUG: Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1964
+  beschreibung: modernster Kirchbau Essens, experimenteller Stahlbeton-Schalenbau
+  architekt: Josef Lehmbrock (Düsseldorf)
+  denkmalliste_eintrag: 2019
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/011
+ENTITÄT: park
+BEZEICHNUNG: Ludwig-Kessing-Park
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Ludwig Kessing (Bergmann, Heimatdichter, 1869-1940)
+  ausblick: Weitblick übers Ruhrtal
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/012
+ENTITÄT: schule
+BEZEICHNUNG: Realschule Überruhr
+ORTSTEIL_BEZUG: Überruhr-Hinsel
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  standort: Überruhrstraße
+  eroeffnet: 2002
+  superlativ: jüngste Schule auf Gebiet der Stadt Essen (2002)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/013
+ENTITÄT: schule
+BEZEICHNUNG: Hinseler Schule
+ORTSTEIL_BEZUG: Überruhr-Hinsel
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  schulart: Grundschule (städtisch)
+  standort: Treibweg
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/014
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Essen-Überruhr
+ORTSTEIL_BEZUG: Überruhr-Hinsel
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  schueleranzahl: ca. 1100
+  eroeffnet: 1974
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/015
+ENTITÄT: schule
+BEZEICHNUNG: Johann-Peter-Hebel Schule
+ORTSTEIL_BEZUG: Überruhr-Holthausen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  schulart: Grundschule (städtisch)
+  standort: Dellmannsweg/Klapperstraße (Ecke)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/016
+ENTITÄT: schule
+BEZEICHNUNG: Suitbert-Schule
+ORTSTEIL_BEZUG: Überruhr-Holthausen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  schulart: Grundschule (katholisch)
+  standort: Hinseler Hof 125
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/017
+ENTITÄT: schule
+BEZEICHNUNG: Ludwig-Kessing-Schule
+ORTSTEIL_BEZUG: Überruhr-Hinsel
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  schulart: Grundschule (katholisch)
+  standort: hinter Realschule Überruhr
+  letzte_eingangsklasse: Schuljahr 2007/2008
+  ausgelaufen: ab 2007/2008
+  gebaeudenutzer_spaeter: Realschule Überruhr
+  ist_vermutlich_aktuell: false
+  gueltig_bis: 2008
+  vertrauen_extraktion: 0.85
+---
+ID: 419-ueberruhr/018
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasseraufbereitungsanlage Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Wassergewinnung Essen
+  standort: westlich und östlich angrenzend
+  durchsatz_jaehrlich: 50 Millionen Kubikmeter
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/019
+ENTITÄT: buergermeister
+BEZEICHNUNG: Theodor Heider
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1894-1903
+  geburtstag: 1837
+  todesjahr: 1913
+  erste_buergermeister: true (erster Bürgermeister Überruhrs)
+  rang: erste Bürgermeisterei Überruhr
+  gueltig_ab: 1894
+  gueltig_bis: 1903
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/020
+ENTITÄT: buergermeister
+BEZEICHNUNG: Adolf von Auer
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1903-1924
+  geburtstag: 1855
+  todesjahr: 1937
+  gueltig_ab: 1903
+  gueltig_bis: 1924
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/021
+ENTITÄT: buergermeister
+BEZEICHNUNG: Josef Hermanns
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1925-1934
+  geburtstag: 1879
+  todesjahr: 1961
+  amtszeit_als_verwaltungsstellenleiter: 1925-31. März 1934
+  gueltig_ab: 1925
+  gueltig_bis: 1934
+  ruhestand_ab: 31. März 1934
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/022
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ludwig Kessing
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1869
+  todesjahr: 1940
+  beruf: Bergarbeiter, Heimatdichter (Arbeiterdichter)
+  gueltig_ab: 1869
+  gueltig_bis: 1940
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/023
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Robert Geritzmann
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1893
+  todesjahr: 1969
+  beruf: Politiker
+  partei: SPD
+  gueltig_ab: 1893
+  gueltig_bis: 1969
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/024
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Theodor Ruhrländer
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1896
+  todesjahr: 1961
+  beruf: Politiker
+  partei: CDU
+  gueltig_ab: 1896
+  gueltig_bis: 1961
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/025
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heinrich Bischoff
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1904
+  todesjahr: 1964
+  rang: SS-Unterscharführer
+  funktion: Blockführer im KZ Auschwitz
+  gueltig_ab: 1904
+  gueltig_bis: 1964
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Manfred Müller
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1947
+  beruf: Fußballspieler
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+---
+ID: 419-ueberruhr/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Wulf
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1951
+  beruf: Fußballspieler
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+---
+ID: 419-ueberruhr/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Frank Klötgen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1968
+  beruf: Musiker, Dichter, Kabarettist
+  organisation: Münchner Lach- und Schießgesellschaft
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+---
+ID: 419-ueberruhr/029
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Markus Heppke
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1986
+  beruf: Fußballspieler
+  superligaerfahrung: Fußball-Bundesliga (Rot-Weiss Essen)
+  jugendverein: Blau-Gelb Überruhr (sieben Jahre)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/030
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Steve Tunga
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1997
+  beruf: Fußballspieler
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+---
+ID: 419-ueberruhr/031
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Lorenz Höfs
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 2010
+  verein: Blau-Gelb Überruhr
+  rolle: Leistungsträger in der Jugendabteilung
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.75
+---
+ID: 419-ueberruhr/032
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Michael Galla
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Rapper
+  vereinszugehoerigkeit: Jugendabteilung SG Überruhr (Handball)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.75
+---
+ID: 419-ueberruhr/033
+ENTITÄT: sportverein
+BEZEICHNUNG: Blau-Gelb Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+  bekannte_spieler: Markus Heppke (Bundesligaspieler), Lorenz Höfs (Jugendnachwuchstalent)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+---
+ID: 419-ueberruhr/034
+ENTITÄT: sportverein
+BEZEICHNUNG: SG Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Handball
+  bekannte_spieler: Michael Galla (Jugendabteilung)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+---
+ID: 419-ueberruhr/035
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: S-Bahn S9
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  strecke_nordende: Haltern am See
+  strecke_südende: Wuppertal
+  haltepunkte_überruhr: Überruhr, Holthausen
+  verbindungen: über Bottrop, Essen, Velbert-Langenberg
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/036
+ENTITÄT: bahn_historisch
+BEZEICHNUNG: Prinz-Wilhelm-Eisenbahn
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  strecke_nord: Essen
+  strecke_sued: Wuppertal
+  beschreibung: historische Eisenbahn (nicht mehr im Betrieb)
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+---
+ID: 419-ueberruhr/037
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  entworfer_original: Kurt Schweder
+  charakter_original: nie offiziellen Charakter
+  neufassung_zeit: Ende 1980er Jahre
+  heraldiker_neugestaltung: Heraldiker (für alle Essener Stadtteile)
+  akzeptanz: von Essener Bevölkerung gut angenommen
+  typus: redendes Wappen
+  beschreibung_blasonierung: "In Grün ein silberner (weißer) gestürzter Wellensparren dazwischen in Rot ein silberner (weißer) Kreuzschargen oder Sonnenrad mit schwarzem Auge"
+  wellensparren_deutung: Hinweis auf "Over Rore" und "Overruhr" aus Urkunden des Stifts Rellinghausen
+  kreuzschargen_bedeutung: heraldisches Sonnensymbol, glücksbringendes und unheilabwehrendes germanisches Zeichen (Hinweis auf germanische Bodenfunde)
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/038
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Rennöfen am Sonderfeld
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  fundort: Sonderfeld in Überruhr
+  periode: jüngere Eisenzeit
+  datierung: ca. 800 v. Chr. - Christi Geburt
+  beschreibung: Überreste früher Eisenverarbeitung
+  bedeutung: wohl älteste Zeugnisse einer Besiedlung im Gebiet
+  gueltig_ab: -800
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/039
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Germanische Brukterer-Siedlung Sonderfeld
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  fundort: Sonderfeld, westlich der Straße Lehmanns Brink
+  entdeckungszeit: Mitte 1960er Jahre (bei Wohngebietserschließung)
+  periode: 2. und 3. Jahrhundert n. Chr.
+  volk: Brukterer
+  funde: Keramiken aus römischer Rheinprovinz
+  identifikation_moeglichkeit: möglicherweise identisch mit "Navalia" in Geographike Hyphegesis des Klaudios Ptolemaios
+  gueltig_ab: 200
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.75
+---
+ID: 419-ueberruhr/040
+ENTITÄT: stift
+BEZEICHNUNG: Damenstift Rellinghausen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  gehoerigkeit_hinsel_holthausen: Hinsel und Holthausen als Bauerschaften gehörig
+  verhaeltnis_bewohner: Bewohner waren Lehnsabhängige des Stiftes (Bauern)
+  zugang_kirche: Bewohner mussten mit Fähre zur Kirche fahren
+  saekularisation: 1803 (danach wurden Bauern frei)
+  ist_vermutlich_aktuell: false
+  gueltig_bis: 1803
+  vertrauen_extraktion: 0.9
+---
+ID: 419-ueberruhr/041
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung Überruhr zu Essen
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. August 1929
+  kontext: gegen den Willen der Überuhrer Bevölkerung
+  einwohnerzahl_zeitpunkt: ca. 5000 Personen
+  verkehrsanbindung_problem: Straßenbahn nach Essen-Mitte dauerte über Steele 45 Minuten
+  fehlende_infrastruktur: keine Ruhrbrücke, nur drei Fähren (Zornige Ameise, Annenfähre, Rote Mühle)
+  charakter_ortsteil: noch dörflich
+  strassenzustand: einfach, bei schlechter Witterung kaum befahrbar
+  ist_vermutlich_aktuell: false
+  gueltig_ab: 1929
+  vertrauen_extraktion: 0.95
+---
+ID: 419-ueberruhr/042
+ENTITÄT: administratives_gebaeude
+BEZEICHNUNG: Rathaus Überruhr
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  standort: Provinzialstraße (seit 1933 Langenberger Straße 449)
+  funktion_1929: Behördengänge für Überuhrer Bevölkerung
+  nsdap_dienststelle: 1937 Einrichtung einer NSDAP-Dienststelle
+  meldestelle: 1956 erhielt Überruhr hier eine Meldestelle
+  ortspolizei: hatte dort ihren Sitz
+  heutiger_status: Wohngebäude
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+---
+ID: 419-ueberruhr/043
+ENTITÄT: tradition
+BEZEICHNUNG: Sankt-Martins-Zug
+QUELLE: https://de.wikipedia.org/wiki/Überruhr | Wikipedia
+EIGENSCHAFTEN:
+  description: großer Sankt-Martins-Zug zieht traditionell jedes Jahr durch Überruhr
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+

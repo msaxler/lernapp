@@ -1,0 +1,426 @@
+ID: 425-burgaltendorf/001
+ENTITÄT: ort
+BEZEICHNUNG: Burgaltendorf
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  frueherer_name: Altendorf (Ruhr)
+  ist_stadtteil: true
+  stadtteil_von: Essen
+  position_eingemeindung: 48.
+  lage_geografisch: Südosten der Stadt Essen
+  liegt_auf: Ruhrhalbinsel
+  einwohner: 9253
+  einwohner_stand: 2025-03-31
+  bevölkerungsanteil_unter_18_jahren: 15.2 %
+  bevölkerungsanteil_ab_65_jahren: 29.6 %
+  auslaenderanteil: 4.4 %
+  charakterisierung: "Ruine der um 1180 erbauten Burg Altendorf, große Wohngebiete und etwas Landwirtschaft"
+  infrastruktur: "Landwirtschaft und lockerer Wohnbebauung in kleineren Ein- und Mehrfamilienhäusern"
+  ortskern: "fehlt"
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 425-burgaltendorf/002
+ENTITÄT: ort
+BEZEICHNUNG: Altendorf
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  administrativer_status: selbstständige Gemeinde
+  zugehoerigkeit_grafschaft_mark: 1200-1918
+  zugehoerigkeit_kurfuersten_brandenburg: 1609-1918
+  zugehoerigkeit_amtmann_blankenstein: 1200-1918
+  zugehoerigkeit_landkreis_hoerde: 1753-1806
+  zugehoerigkeit_kreis_bochum: 1815-1885
+  zugehoerigkeit_kreis_hattingen: 1885-1929
+  zugehoerigkeit_ennepe_ruhr_kreis: 1929-1970
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/003
+ENTITÄT: burg
+BEZEICHNUNG: Burg Altendorf
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  frueherer_name: Haus Altendorf
+  erbaut_um: 1180
+  zustand: Ruine
+  lage_geografisch: "Ruhrtal im früheren Grenzgebiet zwischen der Grafschaft Mark, dem Kloster Werden und dem Stift Essen"
+GUELTIG_AB: 1180
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 425-burgaltendorf/004
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Mauritius-Kirche
+ORTSTEIL_BEZUG: Niederwenigern
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  erwaehnt_um: 1147
+  nutzung_altendorf_bis: 1900
+  typ: Filialkirche
+  ursprung: "Eigenkirche im Reichshof Hattingen aus dem 10. Jahrhundert"
+GUELTIG_AB: 1147
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/005
+ENTITÄT: kirche
+BEZEICHNUNG: Herz-Jesu-Kirche
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1898-1900
+  material: Ruhrsandstein
+  stil: romanische Stilelementen
+  konfession: katholisch
+  grund_neubau: "Zunahme evangelischer Bürger; Altendorf schied aus dem Kirchspiel Niederwenigern aus"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 425-burgaltendorf/006
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Altendorf
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  baubeginn: 1952
+  einweihung: 1953-07-19
+  grund_bau: "Zunahme evangelischer Bürger; Gemeinde von Niederwenigern wurde unabhängig"
+  gemeinde_zugehoerigkeit_westfaelische_kirche: 1953
+  gemeinde_zugehoerigkeit_kirche_rheinland: 1971
+  grund_aufgabe: Bergschäden
+GUELTIG_AB: 1953
+GUELTIG_BIS: 1988
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/007
+ENTITÄT: kirche
+BEZEICHNUNG: Jesus-lebt-Kirche
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  einweihung: 1988-09-04
+  grund_neubau: "Bergschäden; Vorgängerbau musste aufgegeben werden"
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 425-burgaltendorf/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+ORTSTEIL_BEZUG: Hattingen
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  hervorgang: "aus der Eigenkirche im Reichshof Hattingen (10. Jahrhundert)"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 425-burgaltendorf/009
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Mölleney
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Arzt
+  arbeitsort: Elisabeth-Hospital in Niederwenigern
+  rollen: "Leiter der Sanitätskolonne, Mitglied der Gemeindevertretung, erster Vorsitzender des Kirchbauvereins"
+  ehrenbuerger: true
+  grund_ehrenbuerger: "zu seinem 75. Geburtstag"
+  wahl_kirchenvorstand_herz_jesu: 1902-12-22
+  todesjahr: 1913
+  todesdatum: 1913-03-23
+  honor: "Mölleneystraße benannt nach ihm 1925"
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1913
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 425-burgaltendorf/010
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Altendorf (Ruhr)
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung_personenverkehr: 1879-07-01
+  zeitraum_nach_streckeneroffnung: "etwa ein Jahr nach Streckeneröffnung für den Kohlenverkehr"
+  stilllegung_personenverkehr: 1959-05-31
+  zugehoerigkeit_bahnstrecke_1: Mülheim-Heißen–Altendorf (Ruhr)
+  zugehoerigkeit_bahnstrecke_2: Mittlere Ruhrtalbahn
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 425-burgaltendorf/011
+ENTITÄT: eisenbahnbruecke
+BEZEICHNUNG: Eisenbahnbrücke Dahlhausen
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 1879
+  zerstoerung: 1945
+  grund_zerstoerung: "von den Deutschen gesprengt"
+  wiederinbetriebnahme: 1951
+  wiederinbetriebnahme_form: "eingleisig wieder in Betrieb genommen"
+  zustand_heute: "eingleisig ohne Gleise erhalten"
+GUELTIG_AB: 1879
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/012
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Altendorf Tiefbau
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  besonderheit: "im Jahre 1867 bereits der erste Presslufthammer im Bergbau verwendet"
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/013
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Theodor
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  schacht_tiefe: 1060 m
+  superlativ: "tiefsten Schacht aller Zechen an der Ruhr"
+  schacht_tiefe_bezugsraum: "Ruhr"
+  geschlossenheit: 1968
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 425-burgaltendorf/014
+ENTITÄT: schule
+BEZEICHNUNG: Schulunterricht Gaststätte Mintrop
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  erstauffuehrung_schulunterricht: 1846
+  lage: "Gaststätte Mintrop im Schwarzensteinweg"
+  grund: "Damit entfiel erstmals der lange Weg der Kinder zum Unterricht nach Niederwenigern"
+GUELTIG_AB: 1846
+GUELTIG_BIS: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/015
+ENTITÄT: schule
+BEZEICHNUNG: Burgschule
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: 1858
+  material: "aus alten Burgsteinen"
+  lage: "auf dem Gelände der Vorburg"
+  konfession: katholisch
+GUELTIG_AB: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/016
+ENTITÄT: schule
+BEZEICHNUNG: Buschschule
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnet: 1876
+  lage: "an der Schulstraße, heutige Mölleneystraße"
+GUELTIG_AB: 1876
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/017
+ENTITÄT: schule
+BEZEICHNUNG: Evangelische Schule
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnet: 1899
+  lage: "an der Kohlenstraße"
+  konfession: evangelisch
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/018
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule (städtisch)
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  traeger: städtisch
+  lage: "an der Alten Hauptstraße mit Abzweig an der Holteyer Straße"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/019
+ENTITÄT: schule
+BEZEICHNUNG: Comenius-Schule
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  typ: Förderschule
+  traeger: städtisch
+  foerderschwerpunkt: "geistige Entwicklung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/020
+ENTITÄT: bruecke
+BEZEICHNUNG: Eggemannsche Schwimmbrücke
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1898-1901
+  funktion: "ermöglichte Altendorfer Arbeitern, nach Horst oder Dahlhausen zu gelangen"
+  kosten_pro_ueberquerung: "fünf Pfennige"
+  volksnamen: "Fünf-Pfennigs-Brücke"
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/021
+ENTITÄT: bruecke
+BEZEICHNUNG: Schwimmbrücke Holtey
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1898-1901
+  kosten_pro_ueberquerung: "fünf Pfennige"
+  volksnamen: "Fünf-Pfennigs-Brücke"
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/022
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Altendorf
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 1894
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/023
+ENTITÄT: person
+BEZEICHNUNG: Herren von Altendorf
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  adelsstand: niederem Adel
+  funktion: "Droste für die Küche der Essener Fürstäbtissin und den Essener Markt zuständig"
+  namenherkunft_altendorf: "Der ursprüngliche Name Altendorf stammt von den Herren von Altendorf"
+  wappentier: "Pferdeprammen"
+  wappenbeschreibung: "Dienstmannenwappen mit einer gewissen Anzahl von Pferdepramen auf einem Schild"
+  funktion_prammen: "Klemmen aus Metall mit innen liegenden Zacken, wurden beim Wildpferdefang auf die Nüstern geklemmt, um die Pferde damit gefügig zu machen"
+  praemen_jagd: false
+GUELTIG_AB: 1166
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/024
+ENTITÄT: ereignis
+BEZEICHNUNG: Erster Weltkrieg
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  todesfaelle_altendorf: 112
+  beschreibung: "112 Altendorfer Bewohner verloren ihr Leben"
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/025
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter Weltkrieg
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  kriegstote_altendorf: "mehr als 230"
+  beschreibung: "mehr als 230 Altendorfer fielen, oder sie blieben vermisst"
+  bombardements: "Die großen Bombardements erreichten mehr die großen Zentren von Essen und Bochum"
+  zwangsarbeiter: "Zwangsarbeiter in Bergbau und Landwirtschaft eingesetzt"
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/026
+ENTITÄT: urkunde
+BEZEICHNUNG: Urkunde des Kölner Erzbischofs Rainald von Dassel
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1166
+  inhalt: "erste Namennenung Altendorfs als villa aldendorpe; Festlegung des Zehntens an das Stift"
+  bedeutung: "erste Erwähnung des Namens Altendorf"
+GUELTIG_AB: 1166
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 425-burgaltendorf/027
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Burgaltendorf
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "In Silber (Weiß) drei aufrechte schwarze Pferdeprammen mit Kordeln im Verhältnis 2:1"
+  entworfer: Kurt Schweder
+  entwurfsjahr: 1980
+  offizieller_charakter: false
+  herkunft: "abgeleitet vom Wappen der Burgherren von Altendorf"
+  wappenbild_burgherren_original: "drei silberne Pferdeprammen im roten Schild"
+  wappenbild_herren_von_horst: "drei rote Prammen im silbernen Schild"
+  anerkennung: "inzwischen von der Essener Bevölkerung gut angenommen worden"
+  kontext_entstehung: "Ende der 1980er Jahre schuf der Heraldiker für alle Essener Stadtteile Wappen"
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 425-burgaltendorf/028
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Steinaxt aus Amphibolitschiefer
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: "vor ca. 10.000 Jahren"
+  genauigkeit: "ca."
+  bedeutung: "Beweis für frühe Besiedlung der Gegend des heutigen Burgaltendorf"
+GUELTIG_AB: -8000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/029
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Keramikreste und Pfostenspuren von Häusern
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1000-500 vor Christus
+  bedeutung: "Auskunft über Besiedlungen"
+GUELTIG_AB: -1000
+GUELTIG_BIS: -500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 425-burgaltendorf/030
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Roemische Funde
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: "vor etwa 2000 Jahren, kurz vor germanischer Ansiedlung"
+  beschreibung: "Funde weisen darauf hin, dass Römer in diesem Gebiet waren"
+  genauigkeit: "vermutlich"
+GUELTIG_AB: -100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 425-burgaltendorf/031
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Germanische Ansiedlung
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: "südlich der Ruhr, etwa 1000 Jahre nach 1000-500 v.Chr."
+  zeitraum_absolut: "etwa 500 v.Chr. - 500 n.Chr."
+GUELTIG_AB: -500
+GUELTIG_BIS: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 425-burgaltendorf/032
+ENTITÄT: ort
+BEZEICHNUNG: Grenzgebiet historisch
+QUELLE: https://de.wikipedia.org/wiki/Burgaltendorf | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Die einstige Bauerschaft Altendorf befand sich im Ruhrtal im früheren Grenzgebiet zwischen der Grafschaft Mark, dem Kloster Werden und dem Stift Essen"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

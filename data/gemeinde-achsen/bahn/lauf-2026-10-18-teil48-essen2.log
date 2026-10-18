@@ -1,0 +1,44 @@
+Orte: 426-steele 427-byfang 428-ruettenscheid 429-bredeney 430-huttrop 431-kettwig
+== Extraktion (Haiku) 09:58:46
+426-steele           extraktion ein  23298  aus  20031   0.13 USD   154 s  claude-haiku-4-5-20251001
+427-byfang           extraktion ein  23837  aus   9834   0.08 USD    78 s  claude-haiku-4-5-20251001
+428-ruettenscheid    extraktion ein  25552  aus  12119   0.10 USD    96 s  claude-haiku-4-5-20251001
+429-bredeney         extraktion ein  19752  aus   8063   0.07 USD    59 s  claude-haiku-4-5-20251001
+430-huttrop          extraktion ein  19109  aus  16251   0.11 USD   128 s  claude-haiku-4-5-20251001
+431-kettwig          extraktion ein  25840  aus   8701   0.08 USD    67 s  claude-haiku-4-5-20251001
+zusammen: 18907 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+426-steele         40238 Zeichen
+427-byfang         25431 Zeichen
+428-ruettenscheid   32292 Zeichen
+429-bredeney       22283 Zeichen
+430-huttrop        18390 Zeichen
+431-kettwig        25716 Zeichen
+== Karten (claude-opus-5-5) 10:01:21
+426-steele           karten     ein  48959  aus  45165   1.24 USD   395 s  claude-opus-5-5
+427-byfang           karten     ein  39244  aus  31980   0.90 USD   269 s  claude-opus-5-5
+428-ruettenscheid    karten     ein  43620  aus  38985   1.07 USD   340 s  claude-opus-5-5
+429-bredeney         karten     ein  37367  aus  32111   0.89 USD   419 s  claude-opus-5-5
+430-huttrop          karten     ein  34640  aus  32316   0.87 USD   272 s  claude-opus-5-5
+431-kettwig          karten     ein  39478  aus  36759   1.00 USD   309 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 10:10:58
+426-steele           pruefung   ein  52675  aus   5538   0.48 USD    50 s  claude-opus-5-5
+427-byfang           pruefung   ein  41717  aus   5698   0.39 USD    51 s  claude-opus-5-5
+428-ruettenscheid    pruefung   ein  46173  aus   6060   0.44 USD    55 s  claude-opus-5-5
+429-bredeney         pruefung   ein  39922  aus   6625   0.40 USD    57 s  claude-opus-5-5
+430-huttrop          pruefung   ein  36933  aus   5038   0.34 USD    46 s  claude-opus-5-5
+431-kettwig          pruefung   ein  42187  aus   5819   0.40 USD    53 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 10:12:37
+426-steele           stufe2     ein 464626  aus  10725   1.20 USD   146 s  claude-opus-5-5,claude-haiku-4-5-20251001
+427-byfang           stufe2     ein 788280  aus  12126   1.26 USD   275 s  claude-opus-5-5,claude-haiku-4-5-20251001
+428-ruettenscheid    stufe2     ein 358312  aus  11944   1.49 USD   146 s  claude-opus-5-5,claude-haiku-4-5-20251001
+429-bredeney         stufe2     ein 499520  aus  15158   1.64 USD   187 s  claude-opus-5-5,claude-haiku-4-5-20251001
+430-huttrop          stufe2     ein 977838  aus  13855   1.56 USD   237 s  claude-opus-5-5,claude-haiku-4-5-20251001
+431-kettwig          stufe2     ein 549906  aus  12186   1.43 USD   157 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 10:17:40
+Urteile: {'korrigiert': 1278, 'bestätigt': 2128, 'unsicher': 307, 'gesperrt': 120} | im Vorrat: 3713 Karten an 431 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     431 Orte, 3713 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 4521002 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 10:17:42

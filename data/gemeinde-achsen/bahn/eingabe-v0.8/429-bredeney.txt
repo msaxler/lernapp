@@ -1,0 +1,544 @@
+ZIELORT: Bredeney (Ortsteil von Essen)
+LAGE: Stadtteil von Essen, 5 km südlich der Stadtmitte (Luftlinie)
+ARTIKEL: Bredeney
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  bundesland: Nordrhein-Westfalen — GILT FÜR DIE GEMEINDE ESSEN  [über die Gemeinde]
+  flaeche_km2: 8,76  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 158 | 161  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2944900)]
+  naechste_grossstadt: Essen, 5 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Düsseldorf, 26 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1915-04-01  [dewiki Infobox]
+  plz: 45133, 45134, 45239  [Wikidata P281]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT eingemeindung: Jahr der Eingemeindung (Ersatz: Luftlinie zur Landeshauptstadt), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Rüttenscheid (Ortsteil von Essen)
+  landkreis: Stadtkreis Essen — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P131]
+  flaeche_km2: 4,53  [Wikidata P2046]
+  kfz: E (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE ESSEN  [Wikidata P395]
+  hoehe_m: 110 | 117 — MEHRERE WERTE  [Wikidata P2044; Altbestand geo.sqlite (GeoNames 2842772)]
+  naechste_grossstadt: Essen, 2 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, SPD 22,2 %, AfD 17 %, GRÜNE 12,4 %, Die Linke 9,5 %; Wahlbeteiligung 80,1 % — GILT FÜR DIE GEMEINDE ESSEN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Ebnet, Littenweiler, Merzhausen, Au, Ebringen, Schallstadt, Bad Krozingen, Heitersheim, Müllheim, Waldkirch, Hochdorf, March, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Bredeney):
+ID: 429-bredeney/001
+ENTITÄT: ort
+BEZEICHNUNG: Bredeney
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadtteil: true
+  übergeordnete_stadt: Essen
+  lage_im_stadtteil: südlich
+  angrenzende_stadtteile: Fischlaken, Werden, Schuir, Haarzopf, Margarethenhöhe, Rüttenscheid, Stadtwald, Heisingen
+  erste_erwaenung: 875
+  erste_erwaenung_anlass: Einweihung einer Kirche in Werden
+  namensherkunft: breite Au
+  einwohnerzahl: 10966
+  einwohnerzahl_stand: 31. März 2025
+  eingemeinde_datum: 1. April 1915
+  geographische_region: südliches Ruhrgebiet, Ruhrhöhen, Übergang Westenhellwegs zum Ruhrtal
+  naturraum: Bergisch-Sauerländisches Unterland
+GUELTIG_AB: 875
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 429-bredeney/002
+ENTITÄT: bauwerk_religioes
+BEZEICHNUNG: Kapelle Allerheiligsten Dreifaltigkeit
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: Kapelle
+  erbaut: 1036
+  erbaut_durch: Abt Gerold
+  zweck: Zu Ehren der Allerheiligsten Dreifaltigkeit
+GUELTIG_AB: 1036
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/003
+ENTITÄT: schloss
+BEZEICHNUNG: Haus Baldeney / Schloss Baldeney
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1226
+  erbaut_durch: Adolf von der Mark
+  urspruengliche_funktion: Lehnsgut der Abtei Werden
+GUELTIG_AB: 1226
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/004
+ENTITÄT: rathaus
+BEZEICHNUNG: Bredeneyer Rathaus
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1902
+  architekt: Oskar Kunhenn
+  urspruengliche_funktion: Sitz der Bürgermeisterei der Gemeinde Zweihonnschaften
+  funktion_nach_1915: Dienststelle der Stadt Essen
+  architektur_stil: Neorenaissance
+  in_denkmalliste_seit: 14. Februar 1985
+  denkmalgerechte_sanierung: 2022-2024
+  sanierung_finanziert_durch: Bredeneyer Unternehmer
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 429-bredeney/005
+ENTITÄT: gebietskoerperschaft
+BEZEICHNUNG: Gemeinde Zweihonnschaften
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  bestand_ab: 3. April 1875
+  zur_buergermeisterei_erhoben: 1. September 1902
+  ortschaften: Bredeney, Schuir
+  ortschaften_ab_1910: Bredeney, Schuir, Haarzopf
+  eingemeinde_zur_stadt_essen: 1. April 1915
+GUELTIG_AB: 1875
+GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 429-bredeney/006
+ENTITÄT: buergermeister
+BEZEICHNUNG: Georg Gustav Eduard Vorberg
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  gemeinde: Gemeinde Zweihonnschaften
+  partei_oder_funktion: CDU
+  amtszeit_von: 21. April 1903
+  amtszeit_bis: 1910
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 429-bredeney/007
+ENTITÄT: buergermeister
+BEZEICHNUNG: Walter Heinrich Maria Sachsse
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  gemeinde: Gemeinde Zweihonnschaften
+  amtszeit_von: 23. Juni 1910
+  amtszeit_bis: 1. April 1915
+GUELTIG_AB: 1910
+GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 429-bredeney/008
+ENTITÄT: siedlung
+BEZEICHNUNG: Brandenbusch
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  erbaut_ab: 1895
+  erbaut_plaene: Samuel Marx
+  lage: unmittelbare Nähe zur Villa Hügel
+  bauweise: Cottage-Bauweise
+  bewohner_urspruenglich: bis zu 600 Diener und Angestellte der Familie Krupp
+  evangelische_kirche_erbaut: 1906
+  evangelische_kirche_architekt: Karl Nordmann
+  evangelische_kirche_stil: Bruchsteinsockel und Holztonnengewölbe
+  bauende: 1914
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/009
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Flöte
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: kleinere Zeche in Bredeney
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 429-bredeney/010
+ENTITÄT: zeche
+BEZEICHNUNG: Zeche Trotz
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: kleinere Zeche in Bredeney
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 429-bredeney/011
+ENTITÄT: zeche
+BEZEICHNUNG: Grunewald
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: kleinere Zeche in Bredeney
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 429-bredeney/012
+ENTITÄT: zeche
+BEZEICHNUNG: Prinz Georg
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: kleinere Zeche in Bredeney
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 429-bredeney/013
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Bredeney
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  designer: Kurt Schweder
+  entwurf_originalcharakter: nie offiziellen Charakter
+  ueberarbeitung: Ende der 1980er Jahre durch Heraldiker
+  ueberarbeitung_umfang: alle Essener Stadtteile
+  blasonierung: In Grün ein silberner (weißer) Balken belegt mit einem schwarzen Wechselzinnenbalken.
+  bedeutung_gruen: Aue, abgeleitet von Bredenoye, Bredanaia oder Bredonoia
+  bedeutung_wechselzinnenbalken: aus dem Wappen der Herren von Bottlenberg
+  rezeption: inzwischen von der Essener Bevölkerung gut angenommen
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/014
+ENTITÄT: villa
+BEZEICHNUNG: Villa Hügel
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  ehemaliger_sitz: Industriellenfamilie Krupp
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/015
+ENTITÄT: friedhof
+BEZEICHNUNG: Familienfriedhof Krupp
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Familienfriedhof der Industriellenfamilie Krupp
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/016
+ENTITÄT: see
+BEZEICHNUNG: Baldeneysee
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  grenze_zu: Werden, Fischlaken
+  lage: Süden Bredeneys
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/017
+ENTITÄT: wildgehege
+BEZEICHNUNG: Wildgatter Heissiwald
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich gelegenes Heissiwald
+ORTSTEIL_BEZUG: Heissiwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 429-bredeney/018
+ENTITÄT: schule
+BEZEICHNUNG: Graf-Spee-Grundschule
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/019
+ENTITÄT: schule
+BEZEICHNUNG: Meisenburg-Grundschule
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/020
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Grashof
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: Gymnasium
+  ehemals_bekannt_als: Lyzeum Bredeney
+  erbaut: 1929-1930
+  architekt: Alfred Fischer
+GUELTIG_AB: 1929
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 429-bredeney/021
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Goetheschule
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: Gymnasium
+  erbaut: 1913
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/022
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Alexander Heinrich von dem Bottlenberg gen. von Schirp (jr.)
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1814
+  todesjahr: 1887
+  beruf: Kommunalpolitiker
+  geburt_oder_herkunft: Bredeney (Sohn/Tochter von Bredeney)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 429-bredeney/023
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Leo Wiese
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1871
+  todesjahr: 1929
+  beruf: Romanist, Mediävist
+  geburt_oder_herkunft: Bredeney (Sohn/Tochter von Bredeney)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 429-bredeney/024
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ewald Erb
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1903
+  todesjahr: 1978
+  beruf: Literaturwissenschaftler
+  geburt_oder_herkunft: Bredeney (Sohn/Tochter von Bredeney)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 429-bredeney/025
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Birgitta Ashoff
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1948
+  beruf: Filmregisseurin, Drehbuchautorin, Journalistin
+  geburt_oder_herkunft: Bredeney (Sohn/Tochter von Bredeney)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 429-bredeney/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hermann Karoli
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1906
+  todesjahr: 1996
+  beruf: Wirtschaftsprüfer, Wirtschaftsfunktionär
+  wohnort: Bredeney
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 429-bredeney/027
+ENTITÄT: politiker
+BEZEICHNUNG: Hans Toussaint
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Großhandelskaufmann
+  partei: CDU
+  wahlbezirk: 40
+  wahlbezirk_umfasst: Bredeney, Essen-Fischlaken, Essen-Schuir
+  rat_der_stadt_essen: 1946-1975
+  oberbürgermeister_essen: 1949-1956
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 429-bredeney/028
+ENTITÄT: politiker
+BEZEICHNUNG: Wolfgang Reiniger
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Rechtsanwalt, Notar
+  partei: CDU
+  wahlbezirk: 40
+  rat_der_stadt_essen: 1975-1999
+  oberbürgermeister_essen_gewählt: 1999
+  oberbürgermeister_essen_wiedergewählt: 2004
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 429-bredeney/029
+ENTITÄT: politiker
+BEZEICHNUNG: Matthias Hauer
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Rechtsanwalt
+  partei: CDU
+  wahlbezirk: 40
+  kommunalwahl: 2004, 2009
+  ergebnis: höchstes stadtweit CDU-Ergebnis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/030
+ENTITÄT: politiker
+BEZEICHNUNG: Andreas Hellmann
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  partei: FDP
+  wahlbezirk: 40
+  gewählt_ueber: Platz 4 der Ratsreserveliste
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 429-bredeney/031
+ENTITÄT: politiker
+BEZEICHNUNG: Elisabeth van Heesch-Orgass
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  partei: Bündnis 90/Die Grünen
+  wahlbezirk: Bredeney
+  funktion: Rat der Stadt Essen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/032
+ENTITÄT: gewaesser
+BEZEICHNUNG: Borbecker Mühlenbach
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: Bach
+  quelle: Nordflanke der Ruhrhöhen, westlicher Bredeney
+  flussrichtung: nördlich
+  muendung: Emscher
+  durchfliessungen: Grugapark
+  speist: Margarethensee, Waldsee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/033
+ENTITÄT: gewaesser
+BEZEICHNUNG: Wolfsbach
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: Bach
+  quelle: westlicher Bredeney, Südseite der Ruhrhöhen
+  flussrichtung: südlich
+  aufnahmen: Asseybach
+  muendung: Ruhr
+  grenze: Stadtteilgrenze zu Werden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/034
+ENTITÄT: gewaesser
+BEZEICHNUNG: Asseybach
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: Bach
+  muendung: Wolfsbach
+  grenze_vorher: Stadtteilgrenze zu Schuir
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/035
+ENTITÄT: gewaesser
+BEZEICHNUNG: Margarethensee
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: See
+  lage: Grugapark
+  gespeist_durch: Borbecker Mühlenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/036
+ENTITÄT: gewaesser
+BEZEICHNUNG: Waldsee
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: See
+  lage: Grugapark
+  gespeist_durch: Borbecker Mühlenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/037
+ENTITÄT: wald
+BEZEICHNUNG: Stadtwald
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: ausgedehnte Waldfläche auf den Ruhrhöhen
+  lage: östlich von Bredeney, an der Grenze zum gleichnamigen Essener Stadtteil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/038
+ENTITÄT: wald
+BEZEICHNUNG: Kruppwald
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Fortsetzung des Stadtwaldes
+  lage: westlich, oberhalb der Ruhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/039
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Bundesstraße 224
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: Bundesstraße
+  verlauf: durch Stadtteil Bredeney
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/040
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Autobahn A 52
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  art: Autobahn
+  anbindung: direkter Anschluss vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/041
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Straßenbahn Bredeney
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  erste_fahrt: 1897
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 429-bredeney/042
+ENTITÄT: bevölkerung
+BEZEICHNUNG: Bevölkerungsstruktur Bredeney
+QUELLE: https://de.wikipedia.org/wiki/Bredeney | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 10966
+  stand: 31. März 2025
+  anteil_unter_18: 15.3
+  anteil_unter_18_einheit: prozent
+  anteil_65_plus: 26.5
+  anteil_65_plus_einheit: prozent
+  auslaenderanteil: 9.7
+  auslaenderanteil_einheit: prozent
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
