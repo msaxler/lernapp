@@ -1,5 +1,5 @@
 {
- "erzeugt": "2026-10-18",
+ "erzeugt": "2026-10-19",
  "katalog": [
   {
    "schluessel": "bundesland",
@@ -811,7 +811,10 @@
   "Steele: hoehe_m 67 (Wikidata P2044) gegen 74 (Altbestand geo.sqlite (GeoNames 2829187))",
   "Byfang: hoehe_m 114 (Wikidata P2044) gegen 125 (Altbestand geo.sqlite (GeoNames 2940447))",
   "Rüttenscheid: hoehe_m 110 (Wikidata P2044) gegen 117 (Altbestand geo.sqlite (GeoNames 2842772))",
-  "Kettwig: hoehe_m 53 (Wikidata P2044) gegen 91 (Altbestand geo.sqlite (GeoNames 2891290))"
+  "Kettwig: hoehe_m 53 (Wikidata P2044) gegen 91 (Altbestand geo.sqlite (GeoNames 2891290))",
+  "Breitnau: Wikidata P131 nennt „Landkreis Hochschwarzwald“ ohne Enddatum, Infobox „Breisgau-Hochschwarzwald“",
+  "Breitnau: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
+  "Kirchzarten: geo.sqlite hat für Kreis 08315 kein Kennzeichen"
  ],
  "orte": [
   {
@@ -77792,6 +77795,336 @@
       "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
       "stand": "2025-02-23",
       "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "432-breitnau",
+   "rolle": "ziel",
+   "name": "Breitnau",
+   "einheit": "Gemeinde",
+   "wikidata": "Q534202",
+   "lat": 47.93917,
+   "lon": 8.07917,
+   "gemeindeschluessel": "08315016",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1894,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 1903,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2944455)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 39.9,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 47,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 1018,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 968,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 1018,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 968,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2944455)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 18
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "18 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 124
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Hirschsprung",
+       "Bahnhof Posthalde",
+       "Haltepunkt Höllsteig"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79874"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79874"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07652"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 38.9,
+        "GRÜNE": 14.8,
+        "SPD": 13.6,
+        "AfD": 13.2,
+        "Die Linke": 5.9
+       },
+       "wahlbeteiligung_prozent": 87.5,
+       "gueltige_zweitstimmen": 1164
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Markus Kleiser"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-19",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "433-kirchzarten",
+   "rolle": "ziel",
+   "name": "Kirchzarten",
+   "einheit": "Gemeinde",
+   "wikidata": "Q528089",
+   "lat": 47.96667,
+   "lon": 7.95,
+   "gemeindeschluessel": "08315064",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 10364,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 9730,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2890328)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 21.13,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 490,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 380,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 380,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 376,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2890328)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 8
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "8 km südöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 128
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Himmelreich",
+       "Bahnhof Kirchzarten"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79199"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79199"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07661"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 29.2,
+        "GRÜNE": 25.7,
+        "SPD": 17.0,
+        "AfD": 9.2,
+        "Die Linke": 7.6
+       },
+       "wahlbeteiligung_prozent": 89.9,
+       "gueltige_zweitstimmen": 7187
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Darius Reutter",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-19",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
      }
     ],
     "kueste": [

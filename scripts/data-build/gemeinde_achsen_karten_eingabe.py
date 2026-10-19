@@ -198,6 +198,46 @@ def plan(i, ort):
     ] + (['  ' + WUNSCH[slug]] if slug in WUNSCH else []))
 
 
+def plan_portraet(i, ort):
+    """PLAN für Prompt v0.9 „Ortsporträt“ (Mike 2026-10-19: Charakteristika statt Datenwerte): sieben Karten mit Facette,
+    höchstens eine Zahlenkarte, Politik nur bei auffälliger Wahlbeteiligung. Reihenfolge der Facetten wechselt je Ort."""
+    slug = ort['slug']
+    a = lambda k: ((i * 3 + k * 5) % 4) + 1
+    b = lambda k: ((i + k) % 3) + 1
+    zahl, zahl_ersatz = waehle(ort, ZAHL, i)
+    # drei Reihen, damit nicht jeder Ort mit derselben Facette beginnt
+    reihen = [['FREIZEIT', 'GESCHICHTE', 'ALLTAG', 'LAGE', 'INFRA', 'GESCHICHTE'],
+              ['GESCHICHTE', 'FREIZEIT', 'LAGE', 'ALLTAG', 'GESCHICHTE', 'INFRA'],
+              ['ALLTAG', 'GESCHICHTE', 'FREIZEIT', 'INFRA', 'LAGE', 'GESCHICHTE']]
+    reihe = reihen[i % 3]
+    ersatz = {'FREIZEIT': 'ALLTAG', 'ALLTAG': 'FREIZEIT', 'LAGE': 'GESCHICHTE', 'INFRA': 'LAGE', 'GESCHICHTE': 'FREIZEIT'}
+    zeilen = []
+    for n, fac in enumerate(reihe, 1):
+        if n == 6:
+            zeilen.append('  Karte %d: FACETTE %s (Ersatz: %s), Geschichte, B, Lüge an Stelle %d' % (n, fac, ersatz[fac], b(n)))
+        elif fac in ('FREIZEIT', 'ALLTAG', 'INFRA') and (i + n) % 2 == 0:
+            zeilen.append('  Karte %d: FACETTE %s (Ersatz: %s), Geschichte, D, wahre Option an Stelle %d' % (n, fac, ersatz[fac], a(n)))
+        else:
+            zeilen.append('  Karte %d: FACETTE %s (Ersatz: %s), Geschichte, A, wahre Option an Stelle %d' % (n, fac, ersatz[fac], a(n)))
+    # Karte 7: die eine Zahl – oder die auffällige Wahlbeteiligung
+    if wahlbeteiligung_auffaellig(ort):
+        w, land = wahlbeteiligung_land(ort)
+        zeilen.append('  Karte 7: FACETTE POLITIK, Klassiker, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent – AUFFÄLLIG: %s %% gegen %s %% im Bundesland; '
+                      'als Vergleich fragen, Spannen um den Landeswert legen; C, wahre Spanne an Stelle %d' % (de(w), de(land), a(7)))
+    elif zahl:
+        zahl_form = ('C-LEITER, letzte Stufe mit "höher": %d' % (a(7) % 3 + 1)) if slug in LEITER else 'C, wahre Spanne an Stelle %d' % a(7)
+        zeilen.append('  Karte 7: FACETTE %s, Klassiker, EIGENSCHAFT %s: %s%s, %s'
+                      % ('LAGE' if zahl[0] in ('hoehe_m', 'flaeche_km2', 'dichte_ew_km2') else 'GESCHICHTE' if zahl[0] == 'ersterwaehnung' else 'INFRA',
+                         zahl[0], zahl[1], ' (Ersatz: %s)' % zahl_ersatz[1] if zahl_ersatz else '', zahl_form))
+    else:
+        zeilen.append('  Karte 7: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle %d (keine Zahl in den GRUNDDATEN)' % a(7))
+    zeilen.append('  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, '
+                  'auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor')
+    if slug in WUNSCH:
+        zeilen.append('  ' + WUNSCH[slug])
+    return '\n'.join(zeilen)
+
+
 def lies(pfad):
     with io.open(pfad, encoding='utf-8') as f:
         return f.read().strip()
@@ -236,11 +276,16 @@ def main():
             else:
                 # die Stadt des Stadtteils ist nicht die nächste Großstadt (Neuwied: Koblenz)
                 lage = 'Stadtteil von %s; %s von %s (Luftlinie)' % (stadt, km_text, rest.split(' (')[0])
+        # Ortsporträt (GA_PORTRAET=1, Prompt v0.9): Block ZEUGEN aus OpenStreetMap (osm/<slug>.txt) und PLAN mit Facetten
+        portraet = os.environ.get('GA_PORTRAET') == '1'
+        pfad_osm = os.path.join(ITER, 'osm', o['slug'] + '.txt')
         teile = ['ZIELORT: %s (%s)' % (o['name'], o['einheit']),
                  'LAGE: ' + lage,
                  'ARTIKEL: ' + artikel[o['slug']], '',
-                 'GRUNDDATEN:', grunddaten_text(o), '',
-                 'PLAN:', plan(i, o), '']
+                 'GRUNDDATEN:', grunddaten_text(o), '']
+        if portraet and os.path.exists(pfad_osm):
+            teile += [lies(pfad_osm), '']
+        teile += ['PLAN:', plan_portraet(i, o) if portraet else plan(i, o), '']
         if i > 0:
             v = ziel[i - 1]
             teile += ['LETZTER_PIN: %s (%s)' % (v['name'], v['einheit']),
@@ -262,7 +307,7 @@ def main():
         with io.open(os.path.join(AUS, o['slug'] + '.txt'), 'w', encoding='utf-8', newline='\n') as f:
             f.write(text + '\n')
         print('%-16s %7d Zeichen' % (o['slug'], len(text)))
-        print(plan(i, o))
+        print(plan_portraet(i, o) if portraet else plan(i, o))
 
 
 if __name__ == '__main__':

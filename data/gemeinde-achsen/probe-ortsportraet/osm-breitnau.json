@@ -1,0 +1,998 @@
+{
+ "Kultur / Bildung": [
+  {
+   "amenity": "library",
+   "name": "Bücherei im Alten Pfarrhof",
+   "opening_hours": "Mo 16:00-18:00; Fr 17:30-19:00"
+  }
+ ],
+ "Gipfel / Natur": [
+  {
+   "ele": "1191",
+   "name": "Weißtannenhöhe",
+   "natural": "peak",
+   "wikidata": "Q25099535"
+  },
+  {
+   "name": "Kaiserwacht",
+   "natural": "peak",
+   "wikidata": "Q31536587"
+  },
+  {
+   "ele": "1087",
+   "name": "Haldenbuck",
+   "natural": "peak",
+   "wikidata": "Q31542540"
+  },
+  {
+   "ele": "1120",
+   "name": "Hohwarth",
+   "natural": "peak"
+  },
+  {
+   "ele": "971",
+   "name": "Freyel",
+   "natural": "peak",
+   "wikidata": "Q31546740"
+  },
+  {
+   "ele": "1098",
+   "name": "Dietschenberg",
+   "natural": "peak",
+   "wikidata": "Q31561573"
+  },
+  {
+   "ele": "1120",
+   "name": "Rossberg",
+   "natural": "peak",
+   "wikidata": "Q2171320"
+  },
+  {
+   "name": "Hohfelsen",
+   "natural": "peak"
+  },
+  {
+   "ele": "1046",
+   "name": "Hinterberg",
+   "natural": "peak"
+  },
+  {
+   "name": "Paulcke-Turm",
+   "natural": "peak"
+  }
+ ],
+ "Museum / Sehenswert": [
+  {
+   "name": "Galgenbühl",
+   "tourism": "viewpoint"
+  },
+  {
+   "name": "Hirsch",
+   "tourism": "artwork"
+  },
+  {
+   "amenity": "clock",
+   "name": "Kuckucksuhr",
+   "tourism": "attraction"
+  },
+  {
+   "name": "Ravennaviadukt",
+   "tourism": "attraction"
+  },
+  {
+   "name": "Ravennaschlucht",
+   "tourism": "attraction"
+  },
+  {
+   "name": "Alte Seilerei",
+   "opening_hours": "May-Oct Su[1,3] 11:00-16:00",
+   "tourism": "museum"
+  },
+  {
+   "name": "Ravennabrücke",
+   "tourism": "attraction",
+   "wikidata": "Q1261411",
+   "wikipedia": "de:Ravennabrücke"
+  }
+ ],
+ "Bad / Freizeit": [
+  {
+   "leisure": "swimming_pool",
+   "name": "Hallenbad Breitnau"
+  },
+  {
+   "amenity": "community_centre",
+   "leisure": "water_park",
+   "name": "Kultur- und Sporthalle Breitnau",
+   "sport": "multi"
+  }
+ ],
+ "Burg / Denkmal": [
+  {
+   "historic": "memorial",
+   "name": "Waldsterbenkundgebung von 1986"
+  },
+  {
+   "historic": "memorial",
+   "name": "Mord auf der Weißtannenhöhe"
+  },
+  {
+   "historic": "archaeological_site",
+   "name": "Hohwart Schanze"
+  },
+  {
+   "historic": "archaeological_site",
+   "name": "Ringel Schanze",
+   "website": "https://www.schwarzwaldverein-tourenportal.de/de/punkt/festung/ringelschanze/5135732/"
+  },
+  {
+   "historic": "archaeological_site",
+   "name": "Rossbergschanze"
+  },
+  {
+   "historic": "archaeological_site",
+   "name": "Haldenbuck-Schanze"
+  }
+ ],
+ "Fluss / Bach": [
+  {
+   "name": "Höllbach",
+   "waterway": "river"
+  },
+  {
+   "name": "Jungholzbächle",
+   "waterway": "stream"
+  },
+  {
+   "name": "Ödenbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Josbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Bruckbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Weiherbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Eckbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Siedelbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Lenzhofbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Rotbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Ravenna",
+   "waterway": "stream"
+  },
+  {
+   "name": "Alpersbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Kuhnenbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Diezendobel",
+   "waterway": "stream"
+  },
+  {
+   "name": "Griesdobelbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Laubbrunnendobel",
+   "waterway": "stream"
+  },
+  {
+   "name": "Hohlfelsendobelbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Engenbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Breitnauer Bächle",
+   "waterway": "stream"
+  },
+  {
+   "name": "Bistenbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Kehrdobelbach",
+   "waterway": "stream"
+  }
+ ],
+ "Industrie / Betrieb": [
+  {
+   "name": "Großjockenmühle",
+   "start_date": "1883"
+  }
+ ],
+ "Sport (Stadion/Halle)": [
+  {
+   "leisure": "track",
+   "name": "Mountainbike-Parcours",
+   "operator": "Ski-Zunft Breitnau",
+   "sport": "bmx",
+   "website": "https://www.sz-breitnau.de/der-verein/sportanlagen/mtb-strecke"
+  }
+ ],
+ "Schutzgebiet": [
+  {
+   "leisure": "nature_reserve",
+   "name": "Hirschenmoor",
+   "start_date": "1983-09-12"
+  },
+  {
+   "leisure": "nature_reserve",
+   "name": "Dreherhofmoor",
+   "start_date": "2003-12-10"
+  }
+ ],
+ "Wanderweg": [
+  {
+   "description": "Kalte Herberge - Titisee",
+   "name": "Westweg [09. Kalte Herberge→Titisee]",
+   "operator": "Schwarzwaldverein e.V.",
+   "route": "hiking"
+  },
+  {
+   "name": "Panoramarundweg Thurner",
+   "route": "hiking"
+  },
+  {
+   "name": "European Long distance path E1 - part Germany, Baden-Wuerttemberg (region Schwarzwald centre)",
+   "operator": "European Ramblers Association",
+   "route": "hiking",
+   "website": "http://www.era-ewv-ferp.com/"
+  },
+  {
+   "description": "Kirchzarten - Hinterwaldkopf - Feldberg (Westweg)",
+   "name": "Kirchzarten - Feldberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Eingang Löffeltal - Unterführung B31",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.5",
+   "name": "Höllsteig Sternen - Mittlere Ravenna",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Höllsteig Sternen - Steigenhaus",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Höllsteig Sternen - fixme",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.5",
+   "name": "Höllsteig Sternen - Unter der Kaiserwacht",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Mittlere Ravenna - Obere Schlucht",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.4",
+   "name": "Jungholzwald - Obere Schlucht",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Obere Schlucht - Seiltrieb",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Sternenwald - Unterführung B31",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Steigenhaus - Unterführung B31",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.1",
+   "name": "Föhrwald - Jungholzwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.4",
+   "name": "Grillplatz - Jungholzwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.8",
+   "name": "Jungholzwald - Leohof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Bengelhäusle - Leohof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Leohof - Rotseppenhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Bengelhäusle - Breitnau Im Wiesengrund",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Bengelhäusle - Breitnau Im Talgrund",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Im Talgrund - Breitnau Kirche",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Im Talgrund - Pfarrwäldele",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Im Wiesengrund - Wirbsteinsattel",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Im Wiesengrund - Klengsenhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Am Panoramaweg - Breitnau Kirche",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Kirche - Schanzenhäusle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Abrahamenhof - Am Wirbstein",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Abrahamenhof - Breitnau Löwen",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Abrahamenhof - Klengsenhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Klengsenhof - Wirbsteinsattel",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Am Wirbstein - Ödenbach",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Am Wirbstein - Kaiserhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Baschihof - Steiertenhäusle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Baschihof - Ödenbach",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Kläranlage - Ödenbach",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Ödenbach - Kaiserhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Steiertenhäusle - Zehntwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Birkleshäusle - Steiertenhäusle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "An der Lafette - Ankenhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Birkleshäusle - Beim Lenzenhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Birkleshäusle - Rössleberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Ankenhof - Beim Lenzenhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Lenzenhof - Rössleberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Löwen - Tiefen",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Naturfreundehaus Breitnau - Oberer Fahrenberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Naturfreundehaus Breitnau - Schanz Waldeck",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Im alten Holzhofwald - Weißtannenhöhe",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Eckershäusle - Weißtannenhöhe",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Rössleberg - Seiltrieb",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.6",
+   "name": "Hinterwaldkopf - Hinterwaldkopfsattel",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "3.0",
+   "name": "Hinterwaldkopfsattel - Spähnplatz",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.2",
+   "name": "Am Dr. Ganter Weg - Hinterwaldkopfsattel",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.4",
+   "name": "Am Horneck - Hinterwaldkopfsattel",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Birklehof - Eingang Löffeltal",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.0",
+   "name": "Bisten - Weberhansenkreuz",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bisten - Eingang Löffeltal",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Rotbach - Weißtannenhütte",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.0",
+   "name": "Sternenwald - Weberhansenkreuz",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "2.0",
+   "name": "Am Dr. Ganter Weg - Weißtannenhütte",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Kläranlage - Seiltrieb",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "description": "Hüfingen - Freiburg - Basel",
+   "name": "Himmelreich-Jakobusweg",
+   "route": "hiking",
+   "website": "https://himmelreich-jakobusweg.de",
+   "wikidata": "Q41150",
+   "wikipedia": "de:Jakobsweg"
+  },
+  {
+   "name": "Holzwaldweg - Trescherhöhhäusle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.2",
+   "name": "Trescherhöhhäusle - Trescherwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.4",
+   "name": "Trescherwald - Weißtannenhöhe",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Eckershäusle - Trescherwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bei der Fürsatzhöhe - Holzwaldweg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Holzwaldweg - Weißtannenhöhe",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Süßes Häusle - Süßes Häusle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Doldenbühl Schanze - Süßes Häusle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Doldenbühl - Doldenbühl Schanze",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Doldenbühl - Holzletz",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Holzletz - Wildmoos",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.8",
+   "name": "Fahrenberger Höhe - Wildmoos",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Dorfstraße - Fahrenberg Mathislehof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Fahrenberg Mathislehof - Hoheckweg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Ankenbühl - Fahrenberg Mathislehof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.2",
+   "name": "Ankenbühl - Fahrenberger Höhe",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Ankenbühl - Ramshalde",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Oberer Fahrenberg - Ramshalde",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Hugenweiher - Umsetzer Roßberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bartleshöhe - Umsetzer Roßberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Roßberg - Umsetzer Roßberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Pfarrwald - Roßberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Am Panoramaweg - Roßberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Am Panoramaweg - Pfarrwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Hugenweiher - Oberer Fahrenberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bartleshöhe - Hugenweiher",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bartleshöhe - Breitnau Haldenmichelhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.2",
+   "name": "Beim Eckershäusle - Fahrenberger Höhe",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Winterhalden - Zehntwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Hoheckweg - Im alten Holzhofwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Holzhof - Im alten Holzhofwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Hoheckweg - Weißtannenweg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bei Heiligenbrunnen - Beim Holzhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Holzhof - Winterhalden",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Weißtannenweg - Winterhalden",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Tiefen - Weißtannenweg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Dorfstraße - Breitnau Löwen",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Dorfstraße - Breitnau Haldenmichelhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Breitnau Haldenmichelhof - Breitnau Im Wiesengrund",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Pfarrwald - Schanz Waldeck",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bauhof - Rotseppenhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Rotseppenhof - Wirbsteinsattel",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Wirbsteinblick - Zehntwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bauhof - Kläranlage",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Schanz Waldeck - Schanzenhäusle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Sattellegeweg - Schanzenhäusle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Hohwarth Schanze - Sattellegeweg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Hohwarth Schanze - Windrad",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bei Nessellachen - Windrad",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Schuhhof - Windrad",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Obere Mühle - Schuhhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Am Neuhof - Schuhhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Obere Mühle - Pfarrwäldele",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.6",
+   "name": "Neuhofsäge - Obere Mühle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.0",
+   "name": "Mooshof - Pfarrwäldele",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.5",
+   "name": "Grillplatz - Mooshof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.1",
+   "name": "Mooshof - Neuhofsäge",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.8",
+   "name": "Neuhofsäge - Schwärzlehofwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.4",
+   "name": "Bauhof - Föhrwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.2",
+   "name": "Föhrwald - Seiltrieb",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.0",
+   "name": "Grillplatz - Schwärzlehofwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.5",
+   "name": "Am Piketfelsen - Schwärzlehofwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Höllsteig",
+   "operator": "Höhenklimaregion Hochschwarzwald",
+   "route": "hiking",
+   "website": "https://www.hochschwarzwald.de/touren/hoehenklimaweg-hinterzarten-hoellsteig-819b1aba48"
+  },
+  {
+   "name": "Über der Posthalde - Unter der Kaiserwacht",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Posthaldenhof - Unter der Kaiserwacht",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Posthaldenhof - Unterführung Posthalde",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Rotbach - Unterführung Posthalde",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Sternenwald - Unterführung Posthalde",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Pfaffeneck - Nessellachen Rösslehof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Nessellachen Rösslehof - Bei Nessellachen",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bei Nessellachen - Posthaldefelsen",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Posthaldefelsen - Am Neuhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Am Neuhof - Über der Posthalde",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.2",
+   "name": "Über der Posthalde - Am Piketfelsen",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.2",
+   "name": "Am Piketfelsen - Mittlere Ravenna",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Mittlere Ravenna - Birklehof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Horneckdobel - Lausbühl",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Lausbühl - Posthaldefelsen",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Nord Süd Trail, Abschnitt Kalte Herberge - Lörrach",
+   "operator": "Initiative Nord Süd Trail",
+   "route": "hiking",
+   "website": "https://nordsüdtrail.de"
+  },
+  {
+   "name": "Kaiserhof - Wirbsteinblick",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  }
+ ]
+}

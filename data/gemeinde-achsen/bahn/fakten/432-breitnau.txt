@@ -1,0 +1,392 @@
+ID: 432-breitnau/001
+ENTITÄT: ort
+BEZEICHNUNG: Breitnau
+FACETTE: LAGE
+QUELLE: https://www.gemeinde-breitnau.de/gemeinde-breitnau/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1887
+  lage_zu_freiburg: 30 km
+  lage_zu_hinterzarten: 5 km
+  lage_zu_titisee: 10 km
+  lage_zu_feldberg: 22 km
+  hoechster_punkt: Weißtannenhöhe, 1190 m
+  tiefster_punkt: Hirschsprung, 550 m
+  waldanteil_prozent: 40
+  landwirtschaftliche_betriebe: 76
+  davon_im_vollerwerb: 34
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/002
+ENTITÄT: ort
+FACETTE: Geschichte
+QUELLE: https://www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1275
+  erwaehnung_als: Breittnowe
+  erste_kirche_ort: um 1200
+  status_ab_1970: Kurort
+  grund_kurort_status: "Höhenlage oberhalb 800 m mit reizarmen Klima im Sommer und UV-Strahlung sowie dunst- und staubfreie Höhenluft"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/003
+ENTITÄT: burg
+BEZEICHNUNG: Burg Falkenstein
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1100
+  gruender: "Herren von Falkenstein"
+  zerstoerung_jahr: 1390
+  grund_zerstoerung: "Besitzer durch Verarmung zu Raubrittern herabgesunken"
+  bedeutung_fuer_ort: "Erste Siedlung und Lehenshöfe im Höllental entstanden unter ihrer Herrschaft"
+GUELTIG_BIS: 1390
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/004
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Oswald
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_jahr: 1148
+  eingeweiht_durch: "Bischof Hermann von Konstanz"
+  erste_pfarrkirche_ort: true
+  altar_typ: "Spätgotischer Altar"
+  altar_datierung: 1514-1518
+  altar_werkstatt: "Hans Baldung Grien"
+  superlativ: "eines der ältesten Gotteshäuser im Schwarzwald"
+  ortsbezug_heute: Ravennaschlucht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes dem Täufer
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Breitnau | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1753
+  architekturstil: "Barocker Bau, teilweise auf Fundamenten aus dem Mittelalter"
+  vorhergehende_kirche_brand: 1500
+  grund_brand: "Blitzschlag"
+GUELTIG_AB: 1753
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/006
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Ravennaschlucht
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Wildromantische Schlucht von Breitnau in das Höllental"
+  wanderweg: "Heimatpfad führt durch die Schlucht entlang von Schwarzwaldmühlen und Sägemühlen"
+  sehenswert: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/007
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Ravennaviadukt
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Eisenbahnviadukt der Höllentalbahn am unteren Ausgang der Ravennaschlucht"
+  infrastruktur_zweck: "Überquerung durch die Höllentalbahn"
+  waechter_sehenswert: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/008
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Hirschsprung
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/hoellental/hirschsprung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Schluchtartige Verengung des Höllentals"
+  hoehe: 550 m
+  bedeutung_fuer_ort: "Tiefster Punkt der Gemeinde, Beginn Breitnaus"
+  sage_ursprung: "Ritter der Burg Falkenstein jagte Hirsch, dieser sprang über die Schlucht und entkam; Schlucht war damals 9 m breit"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/009
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Windkraftanlage Hohwartsattel
+FACETTE: ALLTAG
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/windkraft-und-walmdaecher | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: "Mai 1992"
+  typ: "ENERCON-33"
+  rotordurchmesser_m: 33.0
+  nennleistung_kw: 280
+  turmhoehe_m: 33.5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 432-breitnau/010
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Hallenbad Breitnau
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/hallenbad-breitnau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1973
+  location: "Untergeschoss der Kultur- und Sporthalle"
+  foerderverein_gruendung: 2004
+  betriebsstatus_ab_2026: "seit 1. August 2026 Betrieb ruht aufgrund baulicher Mängel und Personalmangel"
+GUELTIG_AB: 1973
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/011
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Kultur- und Sporthalle Breitnau
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/kultur-und-sporthalle | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_jahr: 2005
+  anlassfuer_neubau: "Abriss des alten Kurhauses"
+  zweck: "Mehrzweckhalle für Sport, Kultur und Gemeinschaft"
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/012
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Hotel Hofgut Sternen
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Breitnau | Wikipedia
+EIGENSCHAFTEN:
+  bestand_seit: "über 250 Jahre"
+  gaeste_historisch: ["Johann Wolfgang von Goethe (1779)", "Felix Mendelssohn Bartholdy (1837)", "Marie-Antoinette (1770)"]
+  nebengewerbe: "Glasmanufaktur in Seitengebäude"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/013
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Alte Seilerei
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/heimatpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  museum_typ: "Handwerk, Gewerbe"
+  teil_von: "Heimatpfad Hochschwarzwald"
+  beschreibung: "Teil eines Weges, der Bauernhöfe, Menschen und Geschichte der Schwarzwälder Kultur verbindet"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 432-breitnau/014
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Kuckucksuhr
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breizeit/sehenswertes/ravennaschlucht/st-oswald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Riesenkuckucksuhr"
+  location: "Fassade Schwarzwaldkaufladen bei Hotel Hofgut Sternen"
+  raum: Ravennaschlucht
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 432-breitnau/015
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Türkenlouispfad
+FACETTE: FREIZEIT
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/tuerkenlouispfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Geschichtslehrpfad in barocker Landschaft"
+  fokus: "Wiederherstellung barocker Militär-Schanzenanlagen um Breitnau"
+  zielgruppe: "Wanderer, Kultur- und Museumsfreunde"
+  initiiert_durch: ["Schwarzwaldverein Hinterzarten-Breitnau e.V.", "Verein Wälderleben e.V."]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 432-breitnau/016
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Schwarzwaldhöfe mit Walmdächern
+FACETTE: LAGE
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/windkraft-und-walmdaecher | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  merkmal_ort: "prägen das Landschaftsbild auf der Breitnauer Hochebene"
+  bauform: "Eindachgehöfte, auch Heidenhäuser genannt; mächtiges Dach beherbergt Menschen, Tiere und Erntegut"
+  ältester_hof: "alter Beckenhof am Fahrenberg, datiert von 1357"
+  entwicklung_wohnlage: "Ursprünglich zum Hang hin gebaut (besserer Kälteschutz); gegen Ende 16. Jahrhundert zunehmend nach Süden zur Talseite ausgerichtet"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/017
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Jugendschanze am Wirbstein
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Breitnau | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltung: "Georg-Thoma-Pokal für Nachwuchs-Skispringer und -Kombinierer (jährlich)"
+  sportart: "Skispringen, Nordische Kombination"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 432-breitnau/018
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Hirschenmoor
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Breitnau | Wikipedia
+EIGENSCHAFTEN:
+  kategorie: "Naturschutzgebiet"
+  identifikationsnummer: 3129
+  schutz_seit: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/019
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Dreherhofmoor
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Breitnau | Wikipedia
+EIGENSCHAFTEN:
+  kategorie: "Naturschutzgebiet"
+  identifikationsnummer: 3267
+  schutz_seit: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/020
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Höllentalbahn
+FACETTE: INFRA
+QUELLE: https://www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_datum: 21. Mai 1887
+  bahnhof_breitnau: "in Hinterzarten"
+  bedeutung_fuer_ort: "verbindet Breitnau mit überregionalem Schienennetz"
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/021
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Höllentalstraße
+FACETTE: INFRA
+QUELLE: https://www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausbau_phasen: ["1755-1770", "1857"]
+  anlass_erster_ausbau: "Erleichterung des Brautzugs der Prinzessin Marie-Antoinette 1770 auf Weg nach Paris"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 432-breitnau/022
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Breitbandnetz
+FACETTE: INFRA
+QUELLE: https://www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 432-breitnau/023
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Nahwärmenetz BreitnauEnergie eG
+FACETTE: INFRA
+QUELLE: https://www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufbau_jahr: 2010
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 432-breitnau/024
+ENTITÄT: polituker
+BEZEICHNUNG: Markus Kleiser
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Breitnau | Wikipedia
+EIGENSCHAFTEN:
+  amt: "Bürgermeister"
+  amtsantritt: 1. April 2024
+  wahl_datum: 28. Januar 2024
+  wahl_prozent: 58.5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/025
+ENTITÄT: gemeinde_struktur
+DESIGNNATION: Gemeinderat Breitnau
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Breitnau | Wikipedia
+EIGENSCHAFTEN:
+  mitgliederanzahl: 10
+  wahlmodus: "Mehrheitswahl aus Einheitsliste"
+  wahl_datum: 9. Juni 2024
+  wahlbeteiligung_prozent: 76.9
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/026
+ENTITÄT: personenlichkeit
+BEZEICHNUNG: Fabian Rießle
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Breitnau | Wikipedia
+EIGENSCHAFTEN:
+  beruf_sportart: "Nordische Kombination"
+  status: "Olympiasieger & Weltmeister"
+  verbindung_zu_ort: "aus Breitnau"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/027
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Benedikt Doll
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Breitnau | Wikipedia
+EIGENSCHAFTEN:
+  beruf_sportart: "Biathlete"
+  status: "Olympia-Medaillengewinner & Weltmeister"
+  verbindung_zu_ort: "aus Breitnau"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/028
+ENTITÄT: vergangenes_ereignis
+BEZEICHNUNG: Französischer Überfall 1690
+FACETTE: GESCHICHTE
+QUELLE: https://www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: "20. Februar 1690"
+  täter: "Französische Soldaten"
+  schaden: "14 Höfe und der Pfarrhof niedergebrannt"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 432-breitnau/029
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Oliveri
+FACETTE: POLITIK
+QUELLE: https://www.gemeinde-breitnau.de/gemeinde-breitnau/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: "Italien (Sizilien)"
+  partnerschaftsbeginn: 17. Oktober 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 432-breitnau/030
+ENTITÄT: wanderweg
+BEZEICHNUNG: Himmelreich-Jakobusweg
+FACETTE: FREIZEIT
+QUELLE: Deduced aus ZEUGEN
+EIGENSCHAFTEN:
+  beschreibung: "Wanderweg mit religiösem Bezug"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 432-breitnau/031
+ENTITÄT: wanderweg
+BEZEICHNUNG: Höllsteig
+FACETTE: FREIZEIT
+QUELLE: Deduced aus ZEUGEN
+EIGENSCHAFTEN:
+  beschreibung: "Wanderweg durch Höllental"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50

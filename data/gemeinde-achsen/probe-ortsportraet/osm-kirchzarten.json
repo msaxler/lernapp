@@ -1,0 +1,578 @@
+{
+ "Bahnhof": [
+  {
+   "name": "Kirchzarten",
+   "operator": "DB InfraGO AG",
+   "railway": "station",
+   "website": "https://www.bahnhof.de/kirchzarten",
+   "wikidata": "Q109753928"
+  },
+  {
+   "name": "Himmelreich",
+   "operator": "DB InfraGO AG",
+   "railway": "station",
+   "website": "https://www.bahnhof.de/himmelreich",
+   "wikidata": "Q110183437"
+  }
+ ],
+ "Museum / Sehenswert": [
+  {
+   "name": "Sündenfall",
+   "tourism": "artwork",
+   "website": "https://thomas-rees.com/suendenfall/"
+  },
+  {
+   "amenity": "drinking_water",
+   "name": "Narrenbrunnen",
+   "start_date": "1985",
+   "tourism": "artwork"
+  },
+  {
+   "name": "\"Haltestelle Kamelberg\"",
+   "tourism": "artwork"
+  },
+  {
+   "name": "Coronus",
+   "tourism": "artwork",
+   "website": "http://thomas-rees.com/coronus/"
+  },
+  {
+   "name": "Fenster zur Landschaft",
+   "tourism": "artwork"
+  },
+  {
+   "name": "Agatha",
+   "tourism": "artwork",
+   "website": "https://thomas-rees.com/agatha/"
+  },
+  {
+   "description": "Handgemalte Bilder, auch zum Verkauf direkt von der Künstlerin.",
+   "name": "Erika Graf Bilder",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "operator": "Erika Graf",
+   "tourism": "gallery",
+   "website": "https://erika-graf-bilder.de/"
+  },
+  {
+   "name": "Alte Säge",
+   "tourism": "museum"
+  },
+  {
+   "description": "historische Schmiede mit Wasserrad und Hammerwerk",
+   "historic": "building",
+   "name": "Kienzlerschmiede",
+   "opening_hours": "\"einzelne Tage\"",
+   "tourism": "museum"
+  },
+  {
+   "amenity": "place_of_worship",
+   "name": "Kreuzweg zum Giersberg",
+   "start_date": "1897",
+   "tourism": "attraction",
+   "website": "https://www.schwarzwald-tourismus.info/Media/Attraktionen/Kreuzweg-zum-Giersberg"
+  }
+ ],
+ "Gipfel / Natur": [
+  {
+   "name": "Andreasbrunnen",
+   "natural": "spring"
+  },
+  {
+   "ele": "683",
+   "name": "Laubisköpfle",
+   "natural": "peak",
+   "wikidata": "Q31560639"
+  }
+ ],
+ "Sport (Stadion/Halle)": [
+  {
+   "description": "Trailpark Hexenwald http://hexenwald-trailpark.de/",
+   "leisure": "track",
+   "name": "MTB Fahrtechnikparcours U13",
+   "sport": "cycling"
+  },
+  {
+   "description": "Trailpark Hexenwald http://hexenwald-trailpark.de/",
+   "leisure": "track",
+   "name": "MTB Fahrtechnikparcours U15",
+   "sport": "cycling"
+  },
+  {
+   "leisure": "sports_hall",
+   "name": "Sporthalle Schulzentrum"
+  }
+ ],
+ "Kultur / Bildung": [
+  {
+   "amenity": "library",
+   "name": "Bubli – die Kinderbücherei",
+   "opening_hours": "We 16:00-18:00",
+   "operator": "Bürgerverein Burg"
+  },
+  {
+   "amenity": "library",
+   "name": "Mediathek Kirchzarten",
+   "opening_hours": "Tu,Fr 10:00-12:30,15:00-18:30; We 10:00-12:30; Th 15:00-18:30",
+   "operator": "Gemeinde Kirchzarten",
+   "website": "https://www.mediathek-kirchzarten.de/"
+  }
+ ],
+ "Burg / Denkmal": [
+  {
+   "description": "Vor Ort und auf Luftbildern (z.B. Google Earth) ist eine ringförmige Struktur zu erkennen. Auf alten Landkarten ist an diesem Ort die Bezeichnung \"ehem. Schloss Hohstauden\" zu finden.",
+   "historic": "archaeological_site",
+   "name": "Hohstauden",
+   "website": "https://www.dreisamtal.de/_Resources/Persistent/ec9c6250d20dfd1c2619327304fcd432596b25d6/9ADA7015-F591-4193-BBF3-B8515CF5351A.jpeg",
+   "wikipedia": "de:Burg Kirchzarten (Hochstauden)"
+  },
+  {
+   "historic": "archaeological_site",
+   "name": "Brandenburg",
+   "wikidata": "Q981254",
+   "wikipedia": "de:Burgstall am Galgenbühl (Kirchzarten)"
+  },
+  {
+   "historic": "archaeological_site",
+   "name": "Burg bei Burg",
+   "wikidata": "Q1014714",
+   "wikipedia": "de:Burg bei Burg"
+  },
+  {
+   "historic": "archaeological_site",
+   "name": "Römerhaus"
+  }
+ ],
+ "Fluss / Bach": [
+  {
+   "name": "Dreisam",
+   "waterway": "river"
+  },
+  {
+   "name": "Zastlerbach (Osterbach)",
+   "waterway": "stream"
+  },
+  {
+   "name": "Krummbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Eschbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Dorfbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Wagensteigbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Hagenbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Geroldsbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Reichenbach",
+   "waterway": "stream"
+  },
+  {
+   "name": "Krebsgraben",
+   "waterway": "stream"
+  },
+  {
+   "name": "Rotbach",
+   "waterway": "river"
+  },
+  {
+   "name": "Brugga",
+   "waterway": "stream"
+  },
+  {
+   "name": "Rötenbach",
+   "waterway": "stream"
+  }
+ ],
+ "Bad / Freizeit": [
+  {
+   "leisure": "sports_centre",
+   "name": "Christa Barnikol Halle Burg",
+   "sport": "multi"
+  },
+  {
+   "leisure": "golf_course",
+   "name": "Freiburger Golfclub",
+   "website": "http://www.fr-gc.de/"
+  },
+  {
+   "leisure": "water_park",
+   "name": "Dreisambad",
+   "opening_hours": "09:00-19:30; Tu,Th 08:00-19:30; Jul: Tu,Th 08:00-20:30; Sep 16-May 13 off",
+   "sport": "swimming",
+   "tourism": "attraction",
+   "website": "https://www.dreisambad.de/"
+  }
+ ],
+ "Industrie / Betrieb": [
+  {
+   "name": "Rainmühle"
+  }
+ ],
+ "Wanderweg": [
+  {
+   "description": "Kirchzarten - Hinterwaldkopf - Feldberg (Westweg)",
+   "name": "Kirchzarten - Feldberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "description": "Wanderung entlang der ehemaligen Befestigung des Oppidum \"Tarodunum\"",
+   "distance": "7.8",
+   "name": "Tarodunum-Rundweg",
+   "route": "hiking",
+   "website": "https://www.schwarzwald-tourismus.info/Media/Touren/Tarodunum-Rundweg"
+  },
+  {
+   "name": "Kirchzarten Bahnhof - Kirchzarten Pfaffeneck",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Ob den Rainmatten - Weilersbach",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "description": "Mensch-Zeit-Erde Themenweg Lebensraum Freiburg-Kappel",
+   "distance": "12.8",
+   "name": "Lebensraum Freiburg-Kappel - Großer Rundweg",
+   "operator": "Biosphärengebiet Schwarzwald - UNESCO Naturerbe",
+   "route": "hiking",
+   "website": "http://kkv-kappel.com/mensch-zeit-erde-points-of-interest/"
+  },
+  {
+   "description": "Mensch-Zeit-Erde Themenweg Lebensraum Freiburg-Kappel",
+   "distance": "7",
+   "name": "Lebensraum Freiburg-Kappel - Kleiner Rundweg",
+   "operator": "Biosphärengebiet Schwarzwald - UNESCO Naturerbe",
+   "route": "hiking",
+   "website": "http://kkv-kappel.com/mensch-zeit-erde-points-of-interest/"
+  },
+  {
+   "name": "Dietenbach Jungbauernhof - Schlößle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "2.2",
+   "name": "Am Sonneck - Holzeck",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "description": "Hüfingen - Freiburg - Basel",
+   "name": "Himmelreich-Jakobusweg",
+   "route": "hiking",
+   "website": "https://himmelreich-jakobusweg.de",
+   "wikidata": "Q41150",
+   "wikipedia": "de:Jakobsweg"
+  },
+  {
+   "name": "Bruckmühle - Ebneter Schlosssteg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bahnhof Himmelreich - Buchenbach Moosbachstraße",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Horneckdobel - Zähringerhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bahnhof Himmelreich - Zähringerhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bahnhof Himmelreich - Bahnhof Himmelreich",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.4",
+   "name": "Himmelreich Unterführung B 31 - Untere Blechschmiede",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bahnhof Himmelreich - Himmelreich Unterführung B 31",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Himmelreich Unterführung B 31 - Höfen",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Giersberg Parkplatz - Höfen",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.0",
+   "name": "Höfen - Kirchzarten Schauinslandstraße",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Pfisterhof - Talbrücke",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Sportplatz Buchenbach - Vogtweg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Beim Pfisterhof - Sportplatz Buchenbach",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Burg am Wald Laubishof - Beim Pfisterhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Burg am Wald Mühlenstraße - Burg am Wald Laubishof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Am Hohrain - Burg am Wald Mühlenstraße",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Stegen Dorfplatz - Aumatten",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Aumatten - Am Hohrain",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Aumatten - Rotbachbrücke",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Am Hohrain - Rotbachbrücke",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Kirchzarten Alte Post - Rotbachbrücke",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Aumatten - Zarten Wittentalstraße",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Baldenwegerhof - Zarten Wittentalstraße",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bruckmühle - Petersbergstraße",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Bruckmühle - Zarten Kreisel",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Zarten Kreisel - Zarten Wittentalstraße",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Kirchzarten Pfaffeneck - Zarten Kreisel",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.5",
+   "name": "Kirchzarten Pfaffeneck - Kirchzarten Schauinslandstraße",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Kirchzarten Alte Post - Kirchzarten Bahnhof",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.5",
+   "name": "Kirchzarten Alte Post - Kirchzarten Schauinslandstraße",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.0",
+   "name": "Kirchzarten Schauinslandstraße - Spielplatz am Giersberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Giersberg Kapelle - Spielplatz am Giersberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Giersberg Kapelle - Giersberg Parkplatz",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.0",
+   "name": "Am Sonneck - Giersberg Parkplatz",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.2",
+   "name": "Kirchzarten Pfaffeneck - Kirchzarten Tourist-Information",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "0.4",
+   "name": "Kirchzarten Kurgebiet - Kirchzarten Tourist-Information",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "distance": "1.0",
+   "name": "Ob den Rainmatten - Spielplatz am Giersberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Spielplatz am Giersberg - Spielplatz am Giersberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Kirchzarten Kurgebiet - Spielplatz am Giersberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Kirchzarten Kurgebiet - Spielplatz am Engenwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Am Bannwald - Pfeiferberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Pfeiferberg - Spielplatz am Engenwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Herchersattel - Pfeiferberg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Herchersattel - Molzenwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Herchersattel - Pfisterhöhe",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Molzenwald - Pfisterhöhe",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Pfisterhöhe - Rössle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Rössle - Spielplatz am Engenwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Dietenbach Jungbauernhof - Rössle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Am Sonneck - Schweizerlehofweg",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Am Johannisberg - Giersberg Kapelle",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Am Johannisberg - Ob den Rainmatten",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Am Johannisberg - Am Sonneck",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Falkensteig Schule - Untere Blechschmiede",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Burg am Wald Laubishof - Hauriwald",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Burg am Wald Mühlenstraße - Oberbirken",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  },
+  {
+   "name": "Dietenbach Jungbauernhof - Rappeneck",
+   "operator": "Schwarzwaldverein",
+   "route": "hiking"
+  }
+ ]
+}

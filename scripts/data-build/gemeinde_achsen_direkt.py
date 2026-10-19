@@ -32,8 +32,12 @@ WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file_
 RAUM = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 WIKI_AB = 12000
 VERBOTEN = 'Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Agent,Task,NotebookEdit,TodoWrite'
+# Ortsporträt (2026-10-19): GA_PROMPT_EXTRAKTION=prompt-stufe1-v0.7.txt, GA_PORTRAET=1 (ZEUGEN-Block aus osm/ vor den
+# Quelltexten, Wikipedia immer dabei), GA_EINGABE=eingabe-v0.9, GA_PROMPT_KARTEN=prompt-karten-v0.9.txt
+PORTRAET = os.environ.get('GA_PORTRAET') == '1'
+EINGABE = os.environ.get('GA_EINGABE', 'eingabe-v0.8')
 STUFEN = {
-    'extraktion': ('prompt-stufe1-v0.6.txt', 'extraktion', '.txt'),
+    'extraktion': (os.environ.get('GA_PROMPT_EXTRAKTION', 'prompt-stufe1-v0.6.txt'), 'extraktion', '.txt'),
     # GA_PROMPT_KARTEN / GA_PROMPT_PRUEFUNG wählen eine spätere Prompt-Fassung (v0.8.1, v0.2: Zahlenregel nach der
     # Gegenprobe, Mike 2026-10-03); die Ausgabeordner bleiben, die Fassung steht im Aufwand-Protokoll
     'karten': (os.environ.get('GA_PROMPT_KARTEN', 'prompt-karten-v0.8.txt'), 'karten-v0.8', '.md'),
@@ -71,11 +75,14 @@ def eingabe(stufe, slug, name, titel):
     if stufe == 'extraktion':
         t = lies(os.path.join(RAUM, 'quellen-amtlich', slug + '.txt'))
         wiki = os.path.join(RAUM, 'quellen', slug + '.txt')
-        if len(t) < WIKI_AB and os.path.exists(wiki):
+        if (len(t) < WIKI_AB or PORTRAET) and os.path.exists(wiki):
             t += '\n\n=== QUELLE: https://de.wikipedia.org/wiki/%s | Wikipedia ===\n%s' % (titel.replace(' ', '_'), lies(wiki))
+        osm = os.path.join(RAUM, 'osm', slug + '.txt')
+        if PORTRAET and os.path.exists(osm):
+            t = lies(osm) + '\n' + t
         return t
     if stufe == 'karten':
-        return lies(os.path.join(RAUM, 'eingabe-v0.8', slug + '.txt'))
+        return lies(os.path.join(RAUM, EINGABE, slug + '.txt'))
     if stufe == 'stufe2':
         karten = abschnitte(lies(os.path.join(RAUM, kd('karten-v0.8'), slug + '.md')))
         pr = abschnitte(lies(os.path.join(RAUM, kd('pruefung-v0.1'), slug + '.md')))
@@ -85,7 +92,7 @@ def eingabe(stufe, slug, name, titel):
         return '\n\n'.join('## Karte %s %d\n%s' % (name, n, karten[n]) for n in auswahl(slug))
     if stufe == 'pruefung':
         return ('=== KARTEN ===\n' + lies(os.path.join(RAUM, kd('karten-v0.8'), slug + '.md')) +
-                '\n\n=== FAKTEN, AUS DENEN DIE KARTEN GEBAUT SIND ===\n' + lies(os.path.join(RAUM, 'eingabe-v0.8', slug + '.txt')) +
+                '\n\n=== FAKTEN, AUS DENEN DIE KARTEN GEBAUT SIND ===\n' + lies(os.path.join(RAUM, EINGABE, slug + '.txt')) +
                 '\n\n=== QUELLTEXTE ===\n' + lies(os.path.join(RAUM, 'quellen-amtlich', slug + '.txt')))
 
 

@@ -28,11 +28,16 @@ WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file_
 RAUM = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 AUS = os.path.join(RAUM, 'quellen-amtlich')
 UA = {'User-Agent': 'Mozilla/5.0 (LernApp-GemeindeAchsen/0.1; https://github.com/msaxler/lernapp)'}
-MAX_SEITEN = 14
+MAX_SEITEN = 20   # Ortsporträt 2026-10-19: vorher 14
 MAX_ZEICHEN_SEITE = 12000
-# Wörter in Linktext oder Adresse, die auf ortskundliche Seiten zeigen; Gewicht für die Reihenfolge
+# Wörter in Linktext oder Adresse, die auf ortskundliche Seiten zeigen; Gewicht für die Reihenfolge.
+# Ortsporträt (2026-10-19): dazu Freizeit, Bad, Verein, Fest, Markt, Gewerbe, Betrieb, Wander- und Radweg – die
+# Charakteristika, die ein Bild vom Ort geben (Befund docs/konzepte/quizaway-ortsportraet-quellenbefund-2026-10-19.md)
 STICH = [(r'geschicht|chronik|histor', 5), (r'stadtportr|ortsportr|portr[aä]it|stadtinfo|ortsinfo|wir-ueber|ueber-uns', 4),
          (r'zahlen|daten-und-fakten|daten-fakten', 3), (r'sehensw|denkm[aä]l|kirche|burg|schloss|museum|wappen|persoenlich|beruehmt', 2),
+         (r'freizeit|erholung|schwimmbad|hallenbad|freibad|naturbad|wanderw|radweg|themenweg|rundweg|lehrpfad|heimatpfad|aussicht', 2),
+         (r'verein|brauchtum|fest(e|kalender)?\b|fasnet|fasnacht|kirchweih|kilbi|markt\b|wochenmarkt|tradition', 2),
+         (r'wirtschaft|gewerbe|betrieb|unternehmen|industrie|handwerk|landwirtschaft|tourismus|kurort', 2),
          (r'ortsteil|stadtteil', 1)]
 WEG = (r'veranstalt|termin|kalender|aktuell|news|presse|stellen|ausschreib|formular|login|suche|kontakt|impressum|datenschutz|'
        r'ordnung|vertrag|satzung|gebuehr|gebühr|miet|austritt|dienstleistung|gottesdienst|\.jpe?g|\.png|\.docx?|mailto:|tel:')
