@@ -30,8 +30,19 @@ def lies(pfad):
 
 def abschnitte(text, kopf):
     teile = re.split(r'^##\s*%s\s*(\d+)\s*$' % kopf, text, flags=re.M)
-    return {int(teile[i]): re.split(r'^##\s*(?:ORTS-ANSCHLUSS|NICHT VERWENDET|UNGEREGELT)', teile[i + 1], flags=re.M)[0]
+    return {int(teile[i]): re.split(r'^##\s*(?:STECKBRIEF|ORTS-ANSCHLUSS|NICHT VERWENDET|UNGEREGELT)', teile[i + 1], flags=re.M)[0]
             for i in range(1, len(teile), 2)}
+
+
+def steckbrief_lesen(text):
+    """v0.9 Ortsporträt: '## STECKBRIEF' mit Zeilen 'FACETTE: Text' → Liste [{facette, text}]."""
+    m = re.search(r'^##\s*STECKBRIEF\s*\n(.*?)(?=^##\s|\Z)', text, flags=re.S | re.M)
+    aus = []
+    for z in (m.group(1) if m else '').strip().split('\n'):
+        mm = re.match(r'^\s*-?\s*([A-ZÄÖÜ]+):\s*(.+)$', z.strip())
+        if mm:
+            aus.append({'facette': mm.group(1), 'text': ' '.join(mm.group(2).split())})
+    return aus
 
 
 def feld(text, name):
@@ -57,11 +68,16 @@ def karte_lesen(text):
     art = 'leiter' if m.group(1).endswith('bis Stufe') else {'Richtig war': 'richtig', 'Die Lüge war': 'luege'}[m.group(1)]
     if 'LEITER' in familie:
         art = 'leiter'
-    return {'familie': 'Leiter' if art == 'leiter' else familie, 'sorte': (feld(text, 'SORTE').split() or ['Geschichte'])[0],
+    # v0.9 Ortsporträt: Facette, Charakteristikum und Rang (1 = beste Karte zuerst); ältere Karten haben sie nicht
+    rang = re.match(r'(\d+)', feld(text, 'RANG') or '')
+    extra = {k: v for k, v in (('facette', (feld(text, 'FACETTE').split() or [''])[0].upper() or None),
+                               ('charakteristikum', feld(text, 'CHARAKTERISTIKUM') or None),
+                               ('rang', int(rang.group(1)) if rang else None)) if v}
+    return dict(extra, **{'familie': 'Leiter' if art == 'leiter' else familie, 'sorte': (feld(text, 'SORTE').split() or ['Geschichte'])[0],
             'ort': vorn[0], 'steckbrief': vorn[1] if len(vorn) > 1 else '', 'frage': frage, 'optionen': optionen,
             'art': art, 'loesung': int(m.group(2)), 'rueckseite': rueck,
             'quelle': ' '.join(quelle.split()).replace('Quelle: ', ''),
-            'faktencheck': (feld(text, 'FAKTENCHECK').split(' – ')[0] or 'ungeprüft').strip()}
+            'faktencheck': (feld(text, 'FAKTENCHECK').split(' – ')[0] or 'ungeprüft').strip()})
 
 
 def km(a, b):
@@ -105,15 +121,18 @@ def main():
                 k['id'] = '%s/%s/%d' % (slug, v['lauf'], v['karte'])
                 k['tisch'] = (v['lauf'] == lauf_reihe and reihe.get(slug) == v['karte'])
                 karten.append(k)
-            anschluss = []
-            pfad = os.path.join(iter_, 'karten-geprueft', lauf_anschluss, slug + '.md')
+            anschluss, steckbrief = [], []
+            # ein Ort mit Ortsporträt-Karten (v0.9) hat seinen Anschluss und Steckbrief in dessen geprüfter Fassung
+            lauf_ort = max((x['lauf'] for x in vorrat if x['ort'] == slug), default=lauf_anschluss)
+            pfad = os.path.join(iter_, 'karten-geprueft', lauf_ort, slug + '.md')
             if os.path.exists(pfad):
                 m = re.search(r'^## ORTS-ANSCHLUSS\s*\n(.*?)(?=^## |\Z)', lies(pfad), flags=re.S | re.M)
                 if m:
                     anschluss = [z.strip(' -') for z in m.group(1).strip().split('\n') if z.strip() and not z.lower().startswith('keiner')]
+                steckbrief = steckbrief_lesen(lies(pfad))
             # Der Anschluss des Kartenlaufs gilt nur für den Vorgänger, den seine Eingabe als LETZTER_PIN hatte; ist auf
             # der Fahrt ein anderer Ort davor (Raum bahn nach dem Ausbau), entfällt er
-            pfad_e = os.path.join(iter_, 'eingabe-' + lauf_anschluss, slug + '.txt')
+            pfad_e = os.path.join(iter_, 'eingabe-' + lauf_ort, slug + '.txt')
             if anschluss and vorher and os.path.exists(pfad_e):
                 m = re.search(r'^LETZTER_PIN:\s*(.*?)\s*\(', lies(pfad_e), flags=re.M)
                 if m and m.group(1) != grund[vorher]['name']:
@@ -139,6 +158,8 @@ def main():
                    # Gemeindeschlüssel: im GPS-Modus ersetzt ein Ort mit Geschichten-Karten die Grundversorgung derselben
                    # Gemeinde (ein Ortsteil wie Zähringen nicht die Stadt Freiburg)
                    'ags': g.get('gemeindeschluessel'), 'ortsteil': g.get('einheit', '').startswith('Ortsteil')}
+            if steckbrief:
+                ort['steckbrief'] = steckbrief
             if slug in korridor:
                 ort['korridor'] = korridor[slug]
             if vorher:

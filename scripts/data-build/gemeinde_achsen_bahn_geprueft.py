@@ -20,7 +20,11 @@ import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 RAUM = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'bahn'))
-LAUF = 'v0.8'
+# Ortsporträt (2026-10-19): GA_LAUF=v0.9 GA_TAG=-portraet liest karten-v0.8-portraet/, pruefung-v0.1-portraet/, stufe2-v0.1-portraet/
+# und schreibt karten-geprueft/v0.9/; in vorrat-liste.json ersetzen die v0.9-Karten eines Orts dessen ältere Karten
+# (Mike: Qualität zuerst), andere Orte bleiben unberührt.
+LAUF = os.environ.get('GA_LAUF', 'v0.8')
+TAG = os.environ.get('GA_TAG', '')
 STRENGE = {'bestätigt': 0, 'unsicher': 1, 'korrigiert': 2, 'gesperrt': 3}
 
 
@@ -144,17 +148,19 @@ def main():
     hand = json.loads(lies(os.path.join(RAUM, 'korrekturen-hand.json'))) if os.path.exists(os.path.join(RAUM, 'korrekturen-hand.json')) else {}
     aus_ordner = os.path.join(RAUM, 'karten-geprueft', LAUF)
     os.makedirs(aus_ordner, exist_ok=True)
-    vorrat, summe = [], {}
+    vorrat, summe, orte_lauf = [], {}, set()
     for slug, rolle, name, _, _ in conf['orte']:
-        pfad = os.path.join(RAUM, 'karten-v0.8', slug + '.md')
-        if rolle != 'ziel' or not os.path.exists(pfad) or not os.path.exists(os.path.join(RAUM, 'pruefung-v0.1', slug + '.md')):
+        pfad = os.path.join(RAUM, 'karten-v0.8' + TAG, slug + '.md')
+        if rolle != 'ziel' or not os.path.exists(pfad) or not os.path.exists(os.path.join(RAUM, 'pruefung-v0.1' + TAG, slug + '.md')):
             continue
+        orte_lauf.add(slug)
         roh = lies(pfad)
         kopf, _, rest = roh.partition('## Karte ')
-        schluss = re.search(r'^## ORTS-ANSCHLUSS.*', roh, flags=re.S | re.M)
-        karten = abschnitte(roh.split('## ORTS-ANSCHLUSS')[0])
-        p1 = abschnitte(lies(os.path.join(RAUM, 'pruefung-v0.1', slug + '.md')))
-        p2 = abschnitte(lies(os.path.join(RAUM, 'stufe2-v0.1', slug + '.md'))) if os.path.exists(os.path.join(RAUM, 'stufe2-v0.1', slug + '.md')) else {}
+        # v0.9: STECKBRIEF steht vor ORTS-ANSCHLUSS; beides gehört in den Schluss, nicht in die letzte Karte
+        schluss = re.search(r'^## (?:STECKBRIEF|ORTS-ANSCHLUSS).*', roh, flags=re.S | re.M)
+        karten = abschnitte(re.split(r'^## (?:STECKBRIEF|ORTS-ANSCHLUSS)', roh, flags=re.M)[0])
+        p1 = abschnitte(lies(os.path.join(RAUM, 'pruefung-v0.1' + TAG, slug + '.md')))
+        p2 = abschnitte(lies(os.path.join(RAUM, 'stufe2-v0.1' + TAG, slug + '.md'))) if os.path.exists(os.path.join(RAUM, 'stufe2-v0.1' + TAG, slug + '.md')) else {}
         gp = abschnitte(lies(os.path.join(RAUM, 'gegenprobe-v0.1', slug + '.md')), r'^## Karte .*? (\d+)\s*$') \
             if os.path.exists(os.path.join(RAUM, 'gegenprobe-v0.1', slug + '.md')) else {}
         teile = []
@@ -188,7 +194,12 @@ def main():
                                'familie': (feld(k, 'FAMILIE').split() or ['?'])[0], 'faktencheck': status})
         with io.open(os.path.join(aus_ordner, slug + '.md'), 'w', encoding='utf-8', newline='\n') as f:
             f.write('\n\n'.join(teile) + '\n\n' + (schluss.group(0) if schluss else '') + '\n')
-    with io.open(os.path.join(RAUM, 'vorrat-liste.json'), 'w', encoding='utf-8', newline='\n') as f:
+    pfad_v = os.path.join(RAUM, 'vorrat-liste.json')
+    if LAUF != 'v0.8' and os.path.exists(pfad_v):
+        # Zusammenführen: Orte dieses Laufs ersetzen ihre älteren Karten, alle anderen Orte bleiben
+        alt = [v for v in json.loads(lies(pfad_v)) if v['ort'] not in orte_lauf]
+        vorrat = alt + vorrat
+    with io.open(pfad_v, 'w', encoding='utf-8', newline='\n') as f:
         json.dump(vorrat, f, ensure_ascii=False, indent=1)
     kur = os.path.join(RAUM, 'kuratierung.json')
     if not os.path.exists(kur):

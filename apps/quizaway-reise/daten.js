@@ -103503,6 +103503,535 @@ window.QA_DATEN = {
 "ags": "05113000",
 "ortsteil": true,
 "km_vom_vorigen": 11.5
+},
+{
+"slug": "432-breitnau",
+"name": "Breitnau",
+"lat": 47.93917,
+"lon": 8.07917,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Handwerksmuseum in alter Seilerei",
+"rang": 8,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Breitnau?",
+"optionen": [
+"ein Museum in einem alten Bergwerk",
+"ein Museum für Landmaschinen",
+"ein Museum in einer alten Seilerei",
+"ein Museum für Holzschnitzerei"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bergwerk liegt nahe, denn im Schwarzwald wurde vielerorts Erz abgebaut. Breitnau aber hat die Alte Seilerei: Dort zeigt man, wie früher Seile gedreht wurden. Sie gehört zum Heimatpfad Hochschwarzwald, einem Weg, der Bauernhöfe, Menschen und Geschichte der Schwarzwälder Kultur verbindet. Für ein Dorf mit rund 1.900 Einwohnern ist das ein Stück gepflegte Heimat. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/heimatpfad; OpenStreetMap; Einwohner Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "barocke Militärschanzen statt Sprungschanzen",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Der Türkenlouispfad um Breitnau ist ein Geschichtslehrpfad zu Schanzen. Was waren diese Schanzen?",
+"optionen": [
+"Es waren frühe Sprungschanzen für Skispringer.",
+"Es waren Wälle gegen Lawinen und Schnee.",
+"Es waren Hangterrassen für den Ackerbau.",
+"Es waren militärische Anlagen aus der Barockzeit."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Schanzen denkt man im Schwarzwald zuerst ans Skispringen. Doch hier geht es um Barockgeschichte: Der Schwarzwaldverein Hinterzarten-Breitnau und der Verein Wälderleben haben ein Konzept erarbeitet, die barocken Militär-Schanzenanlagen um Breitnau teilweise wiederherzustellen. Ein Themenweg gibt Einblick in Geschichte und Alltag der Barockzeit. Wer heute über die Hochebene wandert, geht durch eine einst befestigte Landschaft. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/tuerkenlouispfad",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Eisenbahnviadukt an der Ravennaschlucht",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Breitnau?",
+"optionen": [
+"ein Eisenbahnviadukt am Ausgang einer Schlucht",
+"eine Seilbahn auf einen Aussichtsgipfel",
+"eine Talsperre mit Stausee",
+"ein Kloster mit Klosterbrauerei"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Stausee liegt in einem Bergland voller Bäche nahe. Breitnau aber hat ein Eisenbahnviadukt, also eine Bahnbrücke über ein Tal: Am unteren Ausgang der Ravennaschlucht führt die Höllentalbahn über das Ravennaviadukt. Wer mit der Bahn durchs Höllental fährt, rollt hier über Breitnauer Gebiet, weit unterhalb der Hochebene mit den Höfen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Höllentalstraße für Marie-Antoinettes Brautzug",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Im Jahr 1770 zog ein großer Reisezug durch das Höllental unterhalb von Breitnau. Wer reiste da?",
+"optionen": [
+"Ein Kaiser reiste zur Krönung.",
+"Eine Prinzessin reiste zur Hochzeit.",
+"Ein Papst reiste zum Konzil.",
+"Ein König reiste zur Kur."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kaiser liegt nahe, denn große Reisezüge gehörten meist zu Herrschern. 1770 zog aber eine Braut durch: Prinzessin Marie-Antoinette reiste von Wien nach Paris zu ihrer Hochzeit. So hängt ein Stück europäischer Hofgeschichte an der Straße, die unten durch das Höllental an Breitnau vorbeiführt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Gemeinde beginnt unten am Hirschsprung",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Unten im Höllental, an ihrem tiefsten Punkt, beginnt die Gemeinde Breitnau an einer engen Stelle namens Hirschsprung. Woher hat sie ihren Namen, der Sage nach?",
+"optionen": [
+"Jäger trieben dort Hirsche in den Abgrund.",
+"Ein Felsen dort gleicht einem springenden Hirsch.",
+"Ein gejagter Hirsch sprang über die Schlucht.",
+"Ein Ritter sprang mit seinem Pferd hinüber."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Felsen in Hirschgestalt liegt nahe, denn viele Orte heißen nach ihrer Form. Die Sage erzählt es anders: Ein Ritter der Burg Falkenstein jagte einen Hirsch, der Hirsch sprang über die Schlucht und entkam. Hier unten, an der schluchtartigen Verengung des Höllentals, beginnt Breitnau; von dort reicht die Gemeinde hinauf bis zur Weißtannenhöhe. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/hoellental/hirschsprung",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kapelle St. Oswald mit Baldung-Altar",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Französische Soldaten brannten einst Breitnauer Höfe nieder.",
+"Hans Baldung Griens Werkstatt schuf St. Oswalds Altar.",
+"Ein Bischof von Basel weihte St. Oswald ein."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Basel liegt nahe, denn die Schweiz ist vom Südschwarzwald nicht weit. Geweiht hat die Kapelle aber Bischof Hermann von Konstanz. Die beiden anderen Aussagen stimmen: Französische Soldaten legten Höfe und den Pfarrhof in Asche, und der spätgotische Altar stammt aus der Werkstatt von Hans Baldung Grien. So hütet die Kapelle an der Ravennaschlucht Kunst von Rang. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald",
+"faktencheck": "bestätigt",
+"id": "432-breitnau/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "weite Gemarkung, wenig Einwohner",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Breitnau?",
+"optionen": [
+"unter 42 km²",
+"42 bis unter 60 km²",
+"60 bis unter 80 km²",
+"80 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen höher, denn Schwarzwaldgemeinden mit viel Wald wirken weitläufig. Breitnau misst 39,9 Quadratkilometer. Darauf leben rund 1.900 Menschen, nur etwa 47 je Quadratkilometer: viel Raum für Höfe und Wald zwischen Höllental und Hochebene. Richtig war 1.",
+"quelle": "Wikidata P2046; Einwohner Wikidata P1082, Stand 2025-12-31; Dichte berechnet aus Einwohner und Fläche",
+"faktencheck": "bestätigt",
+"id": "432-breitnau/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "zwei Wintersport-Weltmeister aus 1.900-Seelen-Dorf",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Für den Skiclub Breitnau starteten zwei Wintersportler, die Weltmeister wurden. In welchen Sportarten?",
+"optionen": [
+"Einer siegte alpin, einer im Snowboard.",
+"Einer siegte in der Kombination, einer im Biathlon.",
+"Einer siegte im Rodeln, einer im Bob.",
+"Einer siegte im Eisschnelllauf, einer im Eishockey."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ski alpin liegt im Schwarzwald nahe, Abfahrtshänge gibt es viele. Doch Fabian Rießle wurde in der Nordischen Kombination, also Skispringen plus Langlauf, mit dem Team Olympiasieger und Weltmeister. Benedikt Doll wurde im Biathlon Weltmeister und gewann olympisches Bronze. Für ein Dorf mit rund 1.900 Einwohnern sind zwei Weltmeister im Wintersport eine bemerkenswerte Bilanz. Richtig war 2.",
+"quelle": "t-online.de; Tagesspiegel; Abendzeitung München; Schwäbische Zeitung; Einwohner Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Kurort wegen Höhenluft",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Breitnau ist seit 1970 staatlich anerkannter Kurort. Was nennt die Gemeinde als einen Grund dafür?",
+"optionen": [
+"Eine warme Heilquelle entspringt im Höllental.",
+"Torf aus den Mooren dient für Heilbäder.",
+"Ein Kloster im Ort pflegte seit jeher Kranke.",
+"Die Höhenluft ist dunst- und staubfrei."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Kurorten denkt man zuerst an Heilquellen, wie in vielen Bädern. Die Gemeinde nennt aber das Klima: In den Höhenlagen ist es im Sommer reizschwach, dazu kommen die ultraviolette Sonneneinstrahlung und die dunst- und staubfreie Höhenluft. Diese Faktoren haben dazu beigetragen, dass Breitnau staatlich anerkannter Kurort ist. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/gemeinde-breitnau/kurzportrait",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/9",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Eindachhöfe prägen die Hochebene",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Mächtige Walmdächer prägen die alten Höfe auf der Breitnauer Hochebene. Was beherbergt so ein Dach?",
+"optionen": [
+"Nur das Vieh; die Familie wohnte nebenan.",
+"Nur Heu und Stroh für den Winter.",
+"Menschen, Tiere und Ernte unter einem Dach.",
+"Nur die Familie; die Ställe standen extra."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Getrennte Ställe und Scheunen kennt man von vielen Bauernhöfen, deshalb liegt das nahe. Die Höfe der Breitnauer Hochebene sind aber Eindachgehöfte, auch Heidenhäuser genannt: Unter dem mächtigen Dach sind Menschen, Tiere und Erntegut gleichermaßen aufgehoben. Bei den älteren Höfen lag der Wohnteil zum Hang hin, zum besseren Schutz vor der Kälte. Beim Vorbeifahren prägen diese Höfe das Bild der Hochebene. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/windkraft-und-walmdaecher",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": "431-kettwig",
+"anschluss": [
+"Breitnau hat mehr als doppelt so viel Fläche wie Kettwig."
+],
+"anschluesse": {
+"431-kettwig": [
+"Breitnau hat mehr als doppelt so viel Fläche wie Kettwig."
+]
+},
+"ags": "08315016",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 1.900 Einwohner auf knapp 40 km², 18 km östlich von Freiburg, vom Höllental bis zur Weißtannenhöhe; Moore als Naturschutzgebiete."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1275 als Breittnowe erwähnt; Kapelle St. Oswald 1148 geweiht, Barockkirche St. Johannes, Überfall französischer Soldaten 1690."
+},
+{
+"facette": "ALLTAG",
+"text": "Kurort seit 1970, 76 landwirtschaftliche Betriebe, davon 34 im Vollerwerb; Windrad auf dem Hohwartsattel, Nahwärmenetz, Großjockenmühle."
+},
+{
+"facette": "FREIZEIT",
+"text": "Ravennaschlucht mit Heimatpfad, Museum Alte Seilerei, Türkenlouispfad, Kuckucksuhr, Himmelreich-Jakobusweg; das Hallenbad ruht seit August 2026."
+},
+{
+"facette": "INFRA",
+"text": "Höllentalbahn mit Ravennaviadukt; Breitnaus Bahnhof liegt in Hinterzarten; Breitbandnetz seit 2025; Partnergemeinde Oliveri auf Sizilien."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 38,9 Prozent vor den Grünen mit 14,8; Wahlbeteiligung 87,5 Prozent, über dem Landeswert von 83,4."
+}
+],
+"km_vom_vorigen": 390.0
+},
+{
+"slug": "433-kirchzarten",
+"name": "Kirchzarten",
+"lat": 47.96667,
+"lon": 7.95,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Mountainbike-WM im Dreisamtal",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "1995 war Kirchzarten Gastgeber einer Weltmeisterschaft. Welcher?",
+"optionen": [
+"Es war die Weltmeisterschaft im Orientierungslauf.",
+"Es war die Weltmeisterschaft der Mountainbiker.",
+"Es war die Weltmeisterschaft im Gleitschirmfliegen.",
+"Es war die Weltmeisterschaft im Kanuslalom."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Orientierungslauf liegt nahe, weil Wald und Hänge dafür ideal scheinen. Ausgetragen wurde aber die Weltmeisterschaft der Mountainbiker, mit Rennen im Cross-Country und im Downhill. Kirchzarten liegt mitten im Dreisamtal, und für ein paar Tage war der Ort ein Treffpunkt des internationalen Radsports. Richtig war 2.",
+"quelle": "Badische Zeitung, www.badische-zeitung.de (Rückblick auf die WM vor 30 Jahren)",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Ortsname aus keltischer Festung",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Woher hat Kirchzarten den zweiten Teil seines Namens, „Zarten“?",
+"optionen": [
+"Der Name beschreibt die zarten Wiesen der Talaue.",
+"Der Name geht auf einen fränkischen Grundherrn zurück.",
+"Der Name stammt von einer keltischen Befestigungsanlage.",
+"Der Name meint eine Rodung am Waldrand."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Zarte Wiesen liegen nahe, weil das Wort so klingt. Tatsächlich steckt im Namen Tarodunum, eine befestigte Keltensiedlung, die schon der antike Geograph Ptolemäus nannte. Später taucht der Name als Zarduna wieder auf und lebt in Zarten und Kirchzarten fort. Reste der Befestigung sind im Ortsteil Burg zwischen Wagensteigbach und Rotbach teils noch sichtbar; wozu die Anlage diente, ist unklar. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/geschichte",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Verwaltungsmittelpunkt des Dreisamtals",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Kirchzarten ist Sitz eines Gemeindeverwaltungsverbands. Wer gehört außer Kirchzarten noch dazu?",
+"optionen": [
+"Nur ehemals selbstständige Ortsteile Kirchzartens gehören dazu.",
+"Die nahe Großstadt gehört als Partnerin dazu.",
+"Gemeinden aus der Rheinebene gehören dazu.",
+"Nachbargemeinden aus dem Dreisamtal gehören dazu."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die nahe Großstadt Freiburg läge als Partnerin nahe, schließlich ist sie nur wenige Kilometer entfernt. Doch im Gemeindeverwaltungsverband Dreisamtal mit Sitz in Kirchzarten erledigen Kirchzarten, Buchenbach, Oberried und Stegen Verwaltungsaufgaben gemeinsam. Das passt zu einer Gemeinde mit rund 10.400 Einwohnern, die sich als Mittelpunkt des Tals versteht. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/portrait",
+"faktencheck": "bestätigt",
+"id": "433-kirchzarten/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Bauernland im Talboden statt Wald",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Kirchzarten liegt im Naturpark Südschwarzwald. Was nimmt den größten Teil der Gemeindefläche ein?",
+"optionen": [
+"Landwirtschaftsflächen nehmen den größten Teil ein.",
+"Wald bedeckt den größten Teil der Gemeinde.",
+"Siedlungen und Straßen belegen den größten Teil.",
+"Wald und Felder sind etwa gleich groß."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Schwarzwald liegt Wald nahe, doch Kirchzarten liegt mitten im Dreisamtal. In der Gemeinde überwiegt die Landwirtschaft: Sie belegt mehr als die Hälfte der Gemeindefläche, Wald deutlich weniger. Beim Vorbeifahren prägen deshalb Felder und Wiesen das Bild. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/zahlen-daten-fakten",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Ausweichstelle der eingleisigen Höllentalbahn",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Der Bahnhof Himmelreich gehört zu Kirchzarten. Welche Aufgabe hat er für die Höllentalbahn?",
+"optionen": [
+"Hier zweigt eine Bahnstrecke nach St. Märgen ab.",
+"Hier weichen sich entgegenkommende Züge gegenseitig aus.",
+"Hier endet die Straßenbahnlinie aus Freiburg.",
+"Hier werden die Züge in zwei Teile getrennt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Abzweig nach St. Märgen liegt nahe, denn bei Himmelreich zweigt die Landesstraße dorthin ab. Der Bahnhof aber ist ein Kreuzungsbahnhof: Die Höllentalbahn ist eingleisig, und hier können sich Züge aus beiden Richtungen begegnen. Für eine Gemeinde mit rund 10.400 Einwohnern sind zwei Bahnhöfe viel: Kirchzarten und Himmelreich, beide an der Strecke nach Titisee und Neustadt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kirchzarten",
+"faktencheck": "unsicher",
+"id": "433-kirchzarten/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Zeitweise französisch, lange österreichisch",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kirchzarten gehörte bis 1805 zu Württemberg.",
+"Das heutige Rathaus Kirchzartens war früher ein Wasserschloss.",
+"Ein Geistlicher aus Kirchzarten gründete ein Freilichttheater."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Freilichttheater klingt erfunden, stimmt aber: Josef Saier aus Kirchzarten gründete die Ötigheimer Volksschauspiele. Auch das Wasserschloss stimmt: Dort residierte der Vogt der Stadt Freiburg, heute sitzt in der Talvogtei das Rathaus. Gelogen ist Württemberg: Von etwa 1500 bis 1805 gehörte Kirchzarten der Stadt Freiburg. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/geschichte; Historisches Lexikon der Schweiz, hls-dhs-dss.ch (Hinweis: Das Charakteristikum ändert sich in „Talvogtei der Stadt Freiburg“.)",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung deutlich über Landesschnitt",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025: Im ganzen Land Baden-Württemberg lag die Wahlbeteiligung bei 83,4 Prozent. Wie hoch war sie in Kirchzarten?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 83,4 %",
+"83,4 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Landesniveau liegt nahe, denn eine Gemeinde am Rand einer Großstadt fällt selten auf. Doch in Kirchzarten lag die Wahlbeteiligung bei 89,9 Prozent, 6,5 Punkte über dem Land. Fast neun von zehn Wahlberechtigten gaben also ihre Stimme ab; stärkste Partei wurde die CDU vor den Grünen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "433-kirchzarten/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kapellenberg mit Kreuzweg",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Der Giersberg ist Kirchzartens Postkartenmotiv. Welches dieser vier Dinge gibt es dort?",
+"optionen": [
+"eine Skisprungschanze",
+"ein Aussichtsturm",
+"eine Kapelle mit Kreuzweg",
+"ein Wildgehege"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Aussichtsturm liegt nahe, denn von einem Postkartenberg erwartet man Fernsicht. Auf dem Giersberg steht aber die Giersbergkapelle, und hinauf führt ein Kreuzweg mit seinen Stationen. Schon alte Ansichtskarten zeigen „Giersberg, Kreuzweg“ als Motiv des Orts. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kirchzarten.de/de/historische-postkarten/ (dazu www.kirchzarten.de/p/portrait)",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Lehrgut für Palästina-Einwanderer",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Der Markenhof in Kirchzarten diente in den 1920er-Jahren als Lehrgut. Für wen?",
+"optionen": [
+"Für junge Leute auf dem Weg nach Palästina.",
+"Für junge Siedler auf dem Weg nach Amerika.",
+"Für angehende Missionare vor dem Einsatz in Afrika.",
+"Für künftige Förster im Dienst des Landes Baden."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Amerika liegt nahe, denn es war lange das bekannteste Ziel von Auswanderern. Der Markenhof aber, ein alter Hof im Dreisamtal, diente ab 1919 als Lehrgut für junge Juden, die nach Palästina auswandern wollten: Sie lernten hier Landwirtschaft und Viehzucht. So reicht die Geschichte des Hofs bis in den Nahen Osten. Richtig war 1.",
+"quelle": "Institut für die Geschichte der deutschen Juden, hachschara.juedische-geschichte-online.net/site/36",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "432-breitnau",
+"anschluss": [
+"Breitnau liegt rund 600 Meter höher als Kirchzarten.",
+"Kirchzarten hat über fünfmal so viele Einwohner wie Breitnau."
+],
+"anschluesse": {
+"432-breitnau": [
+"Breitnau liegt rund 600 Meter höher als Kirchzarten.",
+"Kirchzarten hat über fünfmal so viele Einwohner wie Breitnau."
+]
+},
+"ags": "08315064",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 10.400 Einwohner im flachen Dreisamtal, 8 km südöstlich von Freiburg, auf rund 380 Metern, im Naturpark Südschwarzwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Der Name stammt von der Keltensiedlung Tarodunum; einst Hauptort der Freiburger Talvogtei; Burg und Zarten kamen 1974 dazu."
+},
+{
+"facette": "ALLTAG",
+"text": "Anerkannter Kurort und Sitz des Gemeindeverwaltungsverbands Dreisamtal, dazu die historische Rainmühle."
+},
+{
+"facette": "FREIZEIT",
+"text": "Dreisambad, Golfplatz, Segelflugplatz, Mountainbike-Parcours, die Museen Alte Säge und Kienzlerschmiede, Tarodunum-Rundweg und Südschwarzwald-Radweg."
+},
+{
+"facette": "INFRA",
+"text": "Zwei Bahnhöfe an der Höllentalbahn, Kirchzarten und Himmelreich; Bundesstraße 31; Schulzentrum mit Gymnasium und Realschule."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 29,2 Prozent vor den Grünen mit 25,7 Prozent."
+}
+],
+"km_vom_vorigen": 10.1
 }
 ]
 }

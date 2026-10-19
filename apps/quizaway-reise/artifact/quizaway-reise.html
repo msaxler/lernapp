@@ -214,6 +214,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <div class="src" id="a-quelle"></div>
     <div class="vermerk" id="a-vermerk" hidden></div>
     <div class="conn" id="a-anschluss" hidden><b>Anschluss</b><span id="a-anschluss-text"></span></div>
+    <div class="conn" id="a-steck" hidden><b>Steckbrief</b><div id="a-steck-text"></div></div>
     <button class="btn small quiet nochmal" id="a-nochmal" hidden>Nochmal vorlesen</button>
     <div class="grow"></div>
     <div class="bar"><button class="btn primary" id="a-mehr" hidden>Noch mehr zu diesem Ort?</button></div>
@@ -815,6 +816,10 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     var frei = freieKarten(i), hier = (fahrt.orte[i].karten || []).length;
     var tisch = frei.filter(function(k){ return k.tisch; });
     if(tisch.length && hier === 0) return tisch[0];
+    // Ortsporträt (v0.9, Mike 2026-10-19): die Karten tragen einen Rang (1 = ungewöhnlichstes Charakteristikum zuerst);
+    // gespielt wird der Reihe nach, die besten zuerst, weil die Spielenden jederzeit abbrechen können
+    var mitRang = frei.filter(function(k){ return k.rang; });
+    if(mitRang.length) return mitRang.sort(function(a, b){ return a.rang - b.rang; })[0];
     var letzte = fahrt.log.length ? fahrt.log[fahrt.log.length - 1].familie : null;
     var wunsch = MUSTER[(i + hier * 3) % MUSTER.length];
     var passt = frei.filter(function(k){ return k.familie === wunsch && k.familie !== letzte; });
@@ -946,13 +951,19 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
         paar = anschlussRechnen(vo.grund, o.grund); }
     var an = (ersteHier && vorige && vorige !== o.slug && paar && paar.length) ? paar[0] : '';
     $('a-anschluss').hidden = !an; $('a-anschluss-text').textContent = an;
+    // Steckbrief (Ortsporträt v0.9): nach der letzten Frage des Dreierblocks oder wenn der Vorrat leer ist – auch bei
+    // Abbruch nach einer Frage weiß man danach etwas über den Ort
+    var steckJetzt = o.steckbrief && o.steckbrief.length && (f.karten.length % JE_ORT === 0 || !freieKarten(aktuell.i).length);
+    var steckText = steckJetzt ? o.steckbrief.map(function(s){ return s.text; }).join(' ') : '';
+    $('a-steck').hidden = !steckJetzt;
+    if(steckJetzt) $('a-steck-text').innerHTML = o.steckbrief.map(function(s){ return '<div>' + s.text + '</div>'; }).join('');
     fahrt.log.push({ ort: o.slug, name: o.name, karte: k.id, familie: k.familie, sorte: k.sorte, status: status, antwort: antwort,
                      loesung: z.loesung, aussagen: z.optionen.length, sekunden: Math.round((Date.now() - t0) / 1000), anschluss: !!an,
                      wie: aktuell.wie, fahrzeit: istPush() ? Math.round(uhr()) : null, vorlesen: !!fahrt.vor, zeit: new Date().toISOString() });
     (gespielt[fahrt.raum] = gespielt[fahrt.raum] || []).push(k.id);
     sichern('fahrt', fahrt); sichern('gespielt', gespielt);
     auflBar(); show('s-aufl');
-    sprich(chip.textContent.replace(' · ', '. ') + ' ' + geschichte(k) + (an ? ' Anschluss: ' + an : ''));
+    sprich(chip.textContent.replace(' · ', '. ') + ' ' + geschichte(k) + (an ? ' Anschluss: ' + an : '') + (steckText ? ' Steckbrief ' + o.name + '. ' + steckText : ''));
   }
   // Wie es nach der Auflösung weitergeht (v0.3.1 §1a, §5): steht ein anderer Ort an, endet dieser nach der Frage;
   // sonst im Dreierblock weiter; nach drei „Noch mehr zu diesem Ort?“
