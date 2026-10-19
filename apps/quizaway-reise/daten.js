@@ -11145,169 +11145,216 @@ window.QA_DATEN = {
 "lon": 7.96389,
 "karten": [
 {
-"familie": "A",
+"facette": "ALLTAG",
+"charakteristikum": "Bauernmarkt auf dem Dorfplatz",
+"rang": 10,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Stegen",
-"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau.",
-"frage": "Woher hat die Gemeinde Stegen ihren Namen?",
+"steckbrief": "Gemeinde mit rund 4.500 Einwohnern, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Stegen?",
 "optionen": [
-"Er stammt von steilen Steigen hinauf zu Höfen.",
-"Er geht auf eine frühere Adelsfamilie zurück.",
-"Er bezeichnete einen Rastplatz für Fuhrleute.",
-"Er erinnert an Holzwege durch sumpfiges Gelände."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Beim Wort Stegen denkt man an steile Steige. Der Name kommt aber von hölzernen Bohlwegen, Stegen genannt, die am Ausgang des Eschbachtals durch sumpfiges Gelände führten. Zuerst hießen Höfe oberhalb des Meierhofs Weiler so, schließlich die ganze Gemeinde. Das heutige Wappen zeigt einen roten Steg. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.stegen.de/p/geschichte-ortsteile",
-"faktencheck": "bestätigt",
-"id": "71-stegen/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Stegen",
-"steckbrief": "Eine Gemeinde mit rund 4.500 Einwohnern, 8 km östlich von Freiburg im Breisgau.",
-"frage": "Wie groß ist die Fläche der Gemeinde Stegen?",
-"optionen": [
-"unter 30 km²",
-"30 bis unter 45 km²",
-"45 bis unter 60 km²",
-"60 km² und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Stegen reicht von flachen Tallagen am Nordrand des Dreisamtals bis hinauf auf Waldkämme des Südschwarzwalds. Wer an Schwarzwaldgemeinden denkt, erwartet weite Flächen. Die Gemarkung misst aber nur 26,32 Quadratkilometer. Richtig war 1.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "71-stegen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Stegen",
-"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Kagenecks herrschten über Stegen bis zur Gebietsreform.",
-"Ober- und Unterbirken entstanden auf gerodetem Herrschaftsland.",
-"Der Bach Eschbach durchzieht das Gemeindegebiet in ganzer Länge."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Gerodetes Herrschaftsland klingt erfunden, stimmt aber für die Wohnplätze Ober- und Unterbirken. Auch der Eschbach durchzieht das Gemeindegebiet in ganzer Länge. Gelogen war die Kageneck-Aussage: Die Freiherren und späteren Grafen waren die letzten Grundherren der Herrschaft Weiler, aus der Stegen hervorging. Ihre Herrschaft fiel aber an Baden, lange vor der Gebietsreform. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.stegen.de/p/geschichte-ortsteile",
-"faktencheck": "korrigiert",
-"id": "71-stegen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Stegen",
-"steckbrief": "Rund 4.500 Einwohner, nur 8 km östlich von Freiburg im Breisgau.",
-"frage": "Welche Partei wurde in Stegen bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
-"optionen": [
-"SPD",
-"AfD",
-"GRÜNE",
-"FDP"
+"eine Brauerei",
+"ein Weingut",
+"ein Bauernmarkt",
+"eine Uhrenfabrik"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bundesweit wurde die AfD hinter der Union zweitstärkste Kraft, darum liegt sie nahe. In Stegen, nahe der Universitätsstadt Freiburg, kamen dagegen die Grünen mit 20,7 Prozent auf Platz zwei, hinter der CDU mit 31,4 Prozent. Die AfD erreichte 12,3 Prozent. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "71-stegen/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Auf dem Dorfplatz von Stegen gibt es einen Bauernmarkt mit landwirtschaftlichen Produkten aus der Region. Eine Uhrenfabrik liegt nahe, weil Uhren zum Schwarzwald gehören; doch OpenStreetMap kennt in Stegen weder Uhrenfabrik noch Brauerei oder Weingut. Der Markt passt zu einem Ort zwischen Freiburg und den Höfen seiner Täler: Hier kommt das Land zum Kunden. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stegen.de/p/bauernmarkt",
+"faktencheck": "unsicher",
+"id": "71-stegen/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Name aus Bohlwegen im Sumpf",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Stegen",
-"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau.",
-"frage": "Das alte Wappen von Wittental zeigte ein rotes Kreuz und vier rote Kugeln. Wofür standen die Kugeln?",
+"steckbrief": "Gemeinde mit rund 4.500 Einwohnern, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Das Wappen von Stegen erklärt den Ortsnamen. Woher kommt er?",
 "optionen": [
-"Sie standen für die vier Höfe des Dorfs.",
-"Sie erinnerten an vier alte Grenzsteine.",
-"Sie zeigten vier Quellen im Tal.",
-"Sie standen für eine frühere Adelsherrschaft."
+"Steile Steige führten hinauf zu den Höfen.",
+"Ein Gründer gab dem Ort seinen Namen.",
+"Der Name bedeutete einst Weidegrund für Vieh.",
+"Hölzerne Wege führten durch sumpfiges Gelände."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Vier Kugeln laden zum Zählen ein, darum liegen Höfe oder Grenzsteine nahe. Das Wappen erzählte aber von Herrschaft: Das rote Kreuz stand für Freiburg, die Kugeln für die Freiherren von Sickingen. Sie herrschten über Wittental, bis sie es an Baden verkauften. Vorgeschlagen hatte das Wappen das Generallandesarchiv. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Steige klingt ähnlich und passt zu einem Ort am Schwarzwaldrand. Gemeint sind aber Stege im alten Sinn: hölzerne Bohlwege durch sumpfiges Gelände am Ausgang des Eschbachtals. Das Wappen zeigt diesen Weg rot vor einer Esche. Wer heute durch den Talboden fährt, denkt kaum an den Sumpf, über den man einst auf Holz ging. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.stegen.de/p/geschichte-ortsteile",
 "faktencheck": "bestätigt",
-"id": "71-stegen/v0.8/5",
+"id": "71-stegen/v0.9/2",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Stegen",
-"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau, am Rand des Schwarzwalds.",
-"frage": "Zu welchem Landkreis gehört Stegen?",
-"optionen": [
-"Breisgau-Hochschwarzwald",
-"Emmendingen",
-"Schwarzwald-Baar-Kreis",
-"Ortenaukreis"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer an den Hochschwarzwald denkt, landet leicht beim Schwarzwald-Baar-Kreis. Stegen gehört aber zum Landkreis Breisgau-Hochschwarzwald, der Freiburg umschließt; die Großstadt selbst ist kreisfrei. Richtig war 1.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "71-stegen/v0.8/6",
-"tisch": false
-},
-{
+"facette": "INFRA",
+"charakteristikum": "Gymnasium im ehemaligen Schloss",
+"rang": 6,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Stegen",
-"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau.",
-"frage": "Auf dem Gebiet von Stegen gehörte einst der Hof Falkenbühl zur Herrschaft Ebnet. Woher hat er seinen Namen?",
+"steckbrief": "Gemeinde mit rund 4.500 Einwohnern, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Das katholische Gymnasium Kolleg St. Sebastian liegt mitten in Stegen. Was stand früher auf seinem Gelände?",
 "optionen": [
-"Dort richtete man einst Jagdfalken ab.",
-"Er ist nach einer früheren Burg benannt.",
-"Auf dem Hügel nisteten früher Wanderfalken.",
-"Er ist nach einem früheren Gasthaus benannt."
+"Dort stand früher eine Spinnerei.",
+"Dort stand früher ein Schloss.",
+"Dort stand früher eine Ziegelei.",
+"Dort stand früher ein Steinbruch."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Falkenbühl klingt nach Falken auf einem Bühl, also einem Hügel, und damit nach Jagd oder Nistplätzen. Der Hof ist aber nach einer Burg benannt. Sie stand auf dem Hügel vor dem Ausgang des Wittentals und wurde früh aufgegeben. Der Hof gehörte zur Herrschaft Ebnet. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.stegen.de/p/geschichte-ortsteile; LEO-BW",
+"rueckseite": "Du hattest [Option] getippt. Eine Fabrik liegt nahe, denn altes Fabrikgelände wird oft umgenutzt. In Stegen aber stand das Schloss Stegen-Weiler, zuletzt im Besitz der Grafen von Kageneck. 1928 pachteten die Herz-Jesu-Priester Haus und Gelände als Ordenshaus, später entstanden dort Gymnasium und Internat. Die Schlosskapelle, schon 1365 erwähnt, steht noch heute auf dem Schulgelände. Richtig war 2.",
+"quelle": "Kolleg St. Sebastian, www.kolleg-st-sebastian.de/eip/pages/tradition.php",
 "faktencheck": "korrigiert",
-"id": "71-stegen/v0.8/7",
+"id": "71-stegen/v0.9/4",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Ortsteil als langes Hoftal",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Stegen",
-"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau.",
-"frage": "Das Eschbacher Gemeindesiegel von 1788 zeigte eine Esche, gekreuzte Schlüssel und die Buchstaben S.P. Wofür stand S.P.?",
+"steckbrief": "Gemeinde mit rund 4.500 Einwohnern, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Wie sieht der Stegener Ortsteil Eschbach aus?",
 "optionen": [
-"Es waren die Initialen des Vogts Simon Pfister.",
-"S.P. stand für „Sigillum Publicum“, also Amtssiegel.",
-"S.P. stand für Sankt Peter.",
-"Es waren die Initialen des Siegelstechers Sebastian Pfaff."
+"Eschbach liegt geschlossen oben auf einem Bergrücken.",
+"Eschbach drängt sich rund um einen Marktplatz.",
+"Eschbach ist ein langes Tal mit Seitentälern.",
+"Eschbach umringt eine Burg auf einem Felsen."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Zwei Buchstaben auf einem Siegel lassen an Initialen oder eine lateinische Formel denken. Vogt, also Ortsvorsteher, war damals aber Michael Hug. S.P. stand für Sankt Peter, dazu passen die gekreuzten Petersschlüssel. Der st. petrische Teil Eschbachs war eine Vogtei, also ein Amtsbezirk, des Klosters St. Peter. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf um Kirche und Platz ist das übliche Bild. Eschbach aber ist ein langes Tal mit den Seitentälern Steurental, Hintereschbachtal und Scherlenzendobel. So reicht Stegen von flachen Tallagen bis hinauf zu den Waldkämmen des Südschwarzwalds. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.stegen.de/p/geschichte-ortsteile",
 "faktencheck": "korrigiert",
-"id": "71-stegen/v0.8/8",
+"id": "71-stegen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "alte Grundherrschaft der Kageneck",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Stegen",
+"steckbrief": "Gemeinde mit rund 4.500 Einwohnern, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eschbach kam erst durch die Gebietsreform zu Stegen.",
+"Wittentals altes Wappen zeigte das Freiburger Kreuz.",
+"Die letzten Grundherren in Stegen waren die Herzöge von Zähringen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Zähringer liegen nahe, denn sie gründeten Freiburg und sind im Breisgau allgegenwärtig. Die letzten Grundherren der Herrschaft Weiler, aus der Stegen hervorging, waren aber die Freiherren und späteren Grafen von Kageneck. Wer durch Stegen fährt, fährt durch eine alte Grundherrschaft vor den Toren Freiburgs. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.stegen.de/p/geschichte-ortsteile",
+"faktencheck": "korrigiert",
+"id": "71-stegen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "sehr hohe Wahlbeteiligung",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stegen",
+"steckbrief": "Gemeinde mit rund 4.500 Einwohnern, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Baden-Württemberg bei 83,4 Prozent. Und in Stegen?",
+"optionen": [
+"mehr als 4 Punkte darüber",
+"gleich hoch bis 4 Punkte darüber",
+"weniger als 4 Punkte darunter",
+"4 Punkte oder mehr darunter"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Man könnte meinen, ein Dorf vor den Toren Freiburgs wählt wie das Land. In Stegen gingen aber 89,4 Prozent wählen, sechs Punkte mehr als im Land. Fast neun von zehn Wahlberechtigten gaben in der Gemeinde mit rund 4.500 Einwohnern ihre Stimme ab. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "71-stegen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Versteck vor den Nationalsozialisten",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stegen",
+"steckbrief": "Gemeinde mit rund 4.500 Einwohnern, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Die Schriftstellerin Lotte Paepcke entkam in Stegen den Nationalsozialisten. Wo fand sie Zuflucht und Versteck?",
+"optionen": [
+"Sie versteckte sich in einem Stollen am Hohstegkopf.",
+"Sie fand Zuflucht im Kloster der Herz-Jesu-Priester.",
+"Sie versteckte sich in einer Mühle am Eschbach.",
+"Sie lebte versteckt in einer Jagdhütte am Flaunser."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Versteck im Wald liegt nahe, weil Stegen bis an die Waldkämme reicht. Lotte Paepcke aber fand mit ihrem Sohn Zuflucht im Kloster der Herz-Jesu-Priester und blieb dort bis Kriegsende. Dessen Rektor Heinrich Middendorf wurde für die Rettung von Juden 1994 von Yad Vashem als Gerechter unter den Völkern geehrt. Ein Stolperstein auf dem Klostergelände erinnert an sie. Richtig war 2. /",
+"quelle": "Gedenkstätte Stille Helden; Kolleg St. Sebastian",
+"faktencheck": "korrigiert",
+"id": "71-stegen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Schulzentrum für Hörgeschädigte",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stegen",
+"steckbrief": "Gemeinde mit rund 4.500 Einwohnern, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Stegen hat eine überregionale staatliche Schule mit Internat, vom Kindergarten bis zum Gymnasium. Worauf ist sie spezialisiert?",
+"optionen": [
+"Sie ist auf sehbehinderte Kinder spezialisiert.",
+"Sie bildet junge Wintersportler aus.",
+"Sie fördert hochbegabte Schülerinnen und Schüler.",
+"Sie ist auf Hörgeschädigte spezialisiert."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Sportschule läge im Schwarzwald nahe. Das Bildungs- und Beratungszentrum Stegen aber ist auf Hörgeschädigte spezialisiert, vom Kindergarten über Grund- und Realschule bis zum Aufbaugymnasium, mit Internat. Für eine Gemeinde mit rund 4.500 Einwohnern ist eine staatliche Schule mit überregionalem Auftrag ungewöhnlich. Richtig war 4. /",
+"quelle": "BBZ Stegen, www.bbzstegen.de",
+"faktencheck": "korrigiert",
+"id": "71-stegen/v0.9/9",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Highland Games im Schwarzwald",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stegen",
+"steckbrief": "Gemeinde mit rund 4.500 Einwohnern, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Im Stegener Ortsteil Wittental findet alle zwei Jahre ein ungewöhnliches Sportfest statt. Welche Tradition steht dahinter?",
+"optionen": [
+"Dort messen sich Schwinger nach Schweizer Art.",
+"Dort wird Fingerhakeln nach bayerischer Art ausgetragen.",
+"Dort finden Highland Games nach schottischer Tradition statt.",
+"Dort wird Hurling nach irischer Tradition gespielt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schwingen liegt nahe, denn die Schweiz ist vom Breisgau aus nicht weit. In Wittental aber finden Highland Games statt, eine Sportveranstaltung mit schottischen Traditionen. Ein Hauch Schottland im Dreisamtal, und das in einem Ortsteil einer Gemeinde mit rund 4.500 Einwohnern. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stegen",
+"faktencheck": "bestätigt",
+"id": "71-stegen/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "70-breisach",
 "anschluss": [
-"Einwohner: Breisach hat fast viermal so viele wie Stegen.",
-"Bundestagswahl 2025: In Stegen wählten 89,4, in Breisach 82,3 Prozent."
+"Stegens Wahlbeteiligung 2025 lag gut sieben Punkte über Breisachs.",
+"Stegen wählte 2025 Grüne auf Platz zwei, Breisach die AfD."
 ],
 "anschluesse": {
 "387-ebnet": [
@@ -11377,12 +11424,38 @@ window.QA_DATEN = {
 "Emmendingen hat fast siebenmal so viele Einwohner wie Stegen."
 ],
 "70-breisach": [
-"Einwohner: Breisach hat fast viermal so viele wie Stegen.",
-"Bundestagswahl 2025: In Stegen wählten 89,4, in Breisach 82,3 Prozent."
+"Stegens Wahlbeteiligung 2025 lag gut sieben Punkte über Breisachs.",
+"Stegen wählte 2025 Grüne auf Platz zwei, Breisach die AfD."
 ]
 },
 "ags": "08315109",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 4.500 Einwohner, 8 km östlich von Freiburg am Nordrand des Dreisamtals; das Gemeindegebiet reicht bis zum Kleinen Flaunser, 819 Meter."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Stegen, Eschbach und Wittental wurden zu einer Gemeinde; den Namen gaben hölzerne Bohlwege durch sumpfiges Gelände."
+},
+{
+"facette": "ALLTAG",
+"text": "Auf dem Dorfplatz gibt es einen Bauernmarkt mit Obst, Gemüse, Käse und Wurst aus der Region."
+},
+{
+"facette": "FREIZEIT",
+"text": "Turn- und Schwimmhalle, Kageneckhalle, Highland Games in Wittental, Dreisamtal-Radwanderweg, Zähringer-Wanderweg, zwei Jakobuswege und der Bannwald Konventwald."
+},
+{
+"facette": "INFRA",
+"text": "Gymnasium Kolleg St. Sebastian, Bildungs- und Beratungszentrum für Hörgeschädigte, Klinik KOSMedics, eine Außenstelle der Universität Freiburg in Wittental."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 31,4 Prozent vor den Grünen mit 20,7 Prozent; Wahlbeteiligung 89,4 Prozent."
+}
+],
 "km_vom_vorigen": 29.0
 },
 {
@@ -11392,162 +11465,209 @@ window.QA_DATEN = {
 "lon": 7.94722,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Besucherbergwerk am Wahrzeichen Schauinsland",
+"rang": 4,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Oberried",
-"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
-"frage": "1679 zog der Orden der Wilhelmiten von Freiburg nach Oberried. Welchen Anlass nennt die Ortsgeschichte dafür?",
+"steckbrief": "Oberried hat knapp 2.800 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Am Schauinsland können Besucher ein Bergwerk von innen erleben. Welche Temperatur herrscht dort unter Tage?",
 "optionen": [
-"Ein Hochwasser hatte ihr Freiburger Haus zerstört.",
-"Der Papst hatte die Verlegung angeordnet.",
-"Freiburg war an Frankreich gefallen.",
-"Sie wollten in Oberried Bergbau betreiben."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Orden zieht oft auf Weisung von oben um, daher liegt der Papst nahe. Die Ortsgeschichte nennt aber einen politischen Anlass: Freiburg war an Frankreich gefallen, und das Freiburger Priorat musste dem Festungsbau weichen. Daraufhin siedelten die Wilhelmiten nach Oberried um und errichteten dort Kirche und Konventgebäude neu. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.oberried.de/p/geschichte",
-"faktencheck": "korrigiert",
-"id": "72-oberried/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Oberried",
-"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
-"frage": "Wie groß ist das Gemeindegebiet von Oberried?",
-"optionen": [
-"unter 20 km²",
-"20 bis unter 40 km²",
-"40 bis unter 60 km²",
-"60 km² und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wenige Einwohner lassen eine kleine Fläche vermuten. Das Gemeindegebiet ist aber 66,32 Quadratkilometer groß; dazu gehören die Ortsteile Hofsgrund, St. Wilhelm und Zastler. Entsprechend dünn ist Oberried besiedelt. Richtig war 4.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "72-oberried/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Oberried",
-"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Das Kloster St. Gallen besaß einst Rechte in Oberried.",
-"Hofsgrund gehörte schon immer zur Gemeinde Oberried.",
-"Eine Waldgenossenschaft kaufte einst einen Teil der Klosterscheune."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Das ferne St. Gallen wirkt wie die Lüge, doch das Kloster besaß tatsächlich alte grundherrliche Rechte in Oberried. Gelogen ist Hofsgrund: Es war früher eine selbstständige Gemeinde und kam erst durch die Gemeindereform zu Oberried. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, www.oberried.de/p/geschichte und www.oberried.de/p/historie",
-"faktencheck": "korrigiert",
-"id": "72-oberried/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Oberried",
-"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war die Wahlbeteiligung in Oberried bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 85 %",
-"85 bis unter 91 %",
-"91 bis unter 95 %",
-"95 % und mehr"
+"Es hat das ganze Jahr 2 Grad.",
+"Es hat das ganze Jahr 10 Grad.",
+"Es hat das ganze Jahr 18 Grad.",
+"Im Winter fällt sie unter 0 Grad."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer vom bundesweiten Wert ausgeht, tippt eher niedriger. In Oberried gaben jedoch 90,1 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Partei wurde die CDU. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "72-oberried/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Kälte liegt nahe, denn oben auf dem Berg kann es frostig werden. Im Fels aber schwankt die Temperatur kaum: Im Museums-Bergwerk sind es ganzjährig 10 Grad, bei hoher Luftfeuchtigkeit. Bei den längeren Führungen steigt man über Leitern ab und auf, und eine warme Jacke ist sinnvoll. Richtig war 2.",
+"quelle": "Betreiber-Webseite (Forschergruppe Steiber), www.schauinsland.de/museums-bergwerk/",
+"faktencheck": "korrigiert",
+"id": "72-oberried/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "NS-Denkmal für englische Schüler",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Oberried",
-"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
-"frage": "Im April 1936 gerieten englische Schüler am Schauinsland in einen Schneesturm. Wer rettete die Überlebenden nach der Ortsgeschichte tatsächlich?",
+"steckbrief": "Oberried hat knapp 2.800 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "1936 gerieten 27 englische Schüler in einen Schneesturm, fünf starben. Wer gab das Engländerdenkmal in Auftrag?",
 "optionen": [
-"Die Hitler-Jugend rettete die Schüler.",
-"Soldaten aus einer Kaserne retteten die Schüler.",
-"Bewohner von Hofsgrund retteten die Schüler.",
-"Ihr Lehrer führte die Gruppe allein ins Tal."
+"Die Eltern der Toten gaben es in Auftrag.",
+"Die Gemeinde Hofsgrund gab es in Auftrag.",
+"Die NS-Führung gab es für Propaganda in Auftrag.",
+"Die englische Schule gab es in Auftrag."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die Hitler-Jugend liegt nahe, denn so stellten es die Nationalsozialisten dar. Sie war aber nicht einmal vor Ort. Gerettet hat die Hofsgrunder Bevölkerung; das Unglück ging vor allem auf eine Fehlplanung des Lehrers zurück. Ein Denkmal am Schauinsland verbreitete trotzdem die NS-Version. Richtig war 3.",
+"rueckseite": "Du hattest [Option] getippt. Eltern, Schule oder Retter liegen nahe, so ehren Orte gewöhnlich ihre Toten. Die Hofsgrunder, die die Schüler gerettet hatten, wollten ein Denkmal für die Opfer. Doch die NS-Regierung setzte sich darüber hinweg: Reichsjugendführer Baldur von Schirach gab das Denkmal in Auftrag, Hermann Alker gestaltete es. Es ehrte die Hitler-Jugend, die gar nicht vor Ort war. Reichsadler und Hakenkreuz wurden bei Kriegsende entfernt. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.oberried.de/p/das-nazi-denkmal",
 "faktencheck": "korrigiert",
-"id": "72-oberried/v0.8/5",
+"id": "72-oberried/v0.9/2",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Oberried",
-"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
-"frage": "Zu welchem Landkreis gehört Oberried?",
-"optionen": [
-"Landkreis Emmendingen",
-"Landkreis Lörrach",
-"Landkreis Waldshut",
-"Landkreis Breisgau-Hochschwarzwald"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Lörrach oder Waldshut liegen nahe, weil beide Kreise weite Teile des südlichen Schwarzwalds umfassen. Oberried gehört aber zum Landkreis Breisgau-Hochschwarzwald und zum Regierungsbezirk Freiburg. Richtig war 4.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "72-oberried/v0.8/6",
-"tisch": false
-},
-{
+"facette": "ALLTAG",
+"charakteristikum": "Bürgerprojekt für das Alter",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Oberried",
-"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
-"frage": "1237 übertrugen die Herren von Tengen ihren Besitz im Oberrieder Tal an die Nonnen von Günterstal. Welche Bedingung knüpften sie daran?",
+"steckbrief": "Oberried hat knapp 2.800 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Die 2015 gegründete Bürgergemeinschaft Oberried hat das Konzept für den Ursulinenhof gestaltet; seit 2020 ist er in Betrieb. Wozu dient er?",
 "optionen": [
-"Die Nonnen mussten in Oberried ein Kloster bauen.",
-"Die Nonnen mussten ihr Kloster nach Tengen verlegen.",
-"Die Nonnen mussten eine Burg der Tengener unterhalten.",
-"Die Nonnen mussten das Tal unbesiedelt lassen."
+"Er ist ein Reiterhof mit Pferdepension.",
+"Er ist ein Gründerzentrum für junge Handwerker.",
+"Er ist ein Tagungshaus für Seminare und Kurse.",
+"Er bietet Pflege und Wohnen im Alter."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Hof im Schwarzwald lässt an Gäste oder Gewerbe denken, zumal Freiburg nah ist. Der Ursulinenhof aber war einst ein Kinderheim und dient heute dem Alter: Die Bürgergemeinschaft betreibt dort eine Tagespflege und eine selbstverantwortete Wohngemeinschaft für Pflegebedürftige, dazu kommen Sozialwohnungen. Gebaut hat die Gemeinde. Für ein Dorf mit knapp 2.800 Einwohnern ist das viel Eigeninitiative. Richtig war 4.",
+"quelle": "neue caritas 2022; Hochschule Neubrandenburg, Kurzporträt Oberried",
+"faktencheck": "korrigiert",
+"id": "72-oberried/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "drei Viertel der Gemeinde sind Wald",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberried",
+"steckbrief": "Oberried hat knapp 2.800 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Oberrieds Gemeindegebiet umfasst gut 66 Quadratkilometer. Welcher Anteil davon ist Wald?",
+"optionen": [
+"Drei Viertel der Fläche sind Wald.",
+"Die Hälfte der Fläche ist Wald.",
+"Ein Viertel der Fläche ist Wald.",
+"Neun Zehntel der Fläche sind Wald."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Eine Burg zu unterhalten klingt nach typischer Gegenleistung für adelige Herren. Die Herren von Tengen, ein im westlichen Hegau beheimatetes Geschlecht, verlangten jedoch etwas anderes: Die Günterstaler Nonnen sollten in Oberried ein Kloster bauen. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.oberried.de/p/geschichte",
-"faktencheck": "unsicher",
-"id": "72-oberried/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf so nah an Freiburg lässt Felder, Weiden und Neubaugebiete erwarten. Landwirtschaft gibt es auch, doch drei Viertel der Gemeindefläche sind Wald; Siedlung und Verkehr nehmen nur einen kleinen Teil ein. Oberried ist dünn besiedelt, und wer vorbeifährt, sieht vor allem Wald. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.oberried.de/p/zahlen-daten-fakten",
+"faktencheck": "korrigiert",
+"id": "72-oberried/v0.9/4",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Kulturgut-Archiv des Bundes im Stollen",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Oberried",
-"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
-"frage": "1832 kaufte ein Händler einen Teil der Oberrieder Klosterscheune und baute daran ein Wohnhaus. Womit handelte er?",
+"steckbrief": "Oberried hat knapp 2.800 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "In einem ehemaligen Silberbergwerkstollen bei Oberried lagert der Bund seit 1975 etwas für den Ernstfall. Was?",
 "optionen": [
-"Er handelte mit Holz.",
-"Er handelte mit Wein.",
-"Er handelte mit Erz.",
-"Er handelte mit Vieh."
+"Dort lagern Goldreserven als Notvorrat.",
+"Dort lagern Mikrofilme wichtiger Kulturgüter.",
+"Dort lagert Saatgut heimischer Nutzpflanzen.",
+"Dort lagern schwach radioaktive Abfälle."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Holz liegt nahe, denn Oberried ist überwiegend bewaldet. Der Käufer war jedoch ein Weinhändler aus Stockach. An die Klosterscheune baute er ein Wohnhaus mit Weinkeller. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.oberried.de/p/historie",
+"rueckseite": "Du hattest [Option] getippt. Ein Stollen klingt nach Tresor oder Endlager, beides vermutet man oft unter Tage. Im Barbarastollen aber lagern Mikrofilmkopien wichtiger Kulturgüter, nach der Haager Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten. Betreiber ist das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe. So hütet ein Schwarzwalddorf mit knapp 2.800 Einwohnern einen Vorrat, der Kulturgut auch im Krieg bewahren soll. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oberried_(Breisgau)",
+"faktencheck": "unsicher",
+"id": "72-oberried/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kloster mit wechselnden Orden",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oberried",
+"steckbrief": "Oberried hat knapp 2.800 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bis heute leben Mönche im Oberrieder Kloster.",
+"Das Kloster wurde für Zisterzienserinnen aus Günterstal gegründet.",
+"Später übernahmen Wilhelmiten das Oberrieder Kloster."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mönche wirken glaubhaft, denn Orden prägten Oberried über Jahrhunderte: erst Zisterzienserinnen aus Günterstal, dann Wilhelmiten, und später kam das Kloster an die Abtei St. Blasien. Aufgelöst wurde es im selben Jahr, in dem Oberried an Baden kam. Heute sitzt im Westflügel das Rathaus. Für ein Dorf mit knapp 2.800 Einwohnern ist das eine bewegte Klostergeschichte. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.oberried.de/p/geschichte und www.oberried.de/p/historie",
+"faktencheck": "korrigiert",
+"id": "72-oberried/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung weit über dem Land",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberried",
+"steckbrief": "Oberried hat knapp 2.800 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Baden-Württemberg bei 83,4 Prozent. Wie hoch war sie in Oberried?",
+"optionen": [
+"unter dem Landeswert",
+"Landeswert bis unter 3 Punkte darüber",
+"3 bis unter 6 Punkte darüber",
+"6 Punkte oder mehr darüber"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf nahe Freiburg könnte dem Landesschnitt folgen, deshalb wirken die mittleren Spannen plausibel. In Oberried gingen aber 90,1 Prozent wählen, 6,7 Punkte mehr als im Land; stärkste Partei wurde die CDU mit 42,4 Prozent. Neun von zehn Wahlberechtigten stimmten ab, in einer Gemeinde mit knapp 2.800 Einwohnern ein auffälliger Wert. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, alle Wahlbezirke des Landes",
 "faktencheck": "bestätigt",
-"id": "72-oberried/v0.8/8",
+"id": "72-oberried/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Einhorn der Grafen von Tengen",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberried",
+"steckbrief": "Oberried hat knapp 2.800 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Seit 1899 zeigt Oberrieds Wappen ein silbernes Einhorn auf Rot. Woher stammt das Einhorn?",
+"optionen": [
+"Der Sage nach lebte im Tal ein Einhorn.",
+"Es kommt aus dem Wappen früherer Lehensherren.",
+"Es war das Zeichen der Bergleute im Tal.",
+"Es stammt vom Schild eines alten Gasthauses."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Fabeltier lässt an eine Sage denken, solche erzählt man sich im Schwarzwald viele. Doch das Einhorn stammt aus dem Wappen der Grafen von Tengen, die im Mittelalter zeitweise Lehensherren von Oberried waren. Vorher siegelte die Gemeinde mit Sensenblatt und drei Sternen. Das Wappen zeigt also bis heute, wem das Dorf einst unterstand, das alte Siegel eher die Arbeit der Bauern. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oberried_(Breisgau)",
+"faktencheck": "unsicher",
+"id": "72-oberried/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Viehabtrieb als Höhepunkt im Herbst",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberried",
+"steckbrief": "Oberried hat knapp 2.800 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Jeden Herbst pflegt Oberried in der Alemannischen Woche Mundart und Brauchtum. Was ist ihr Höhepunkt?",
+"optionen": [
+"Ein Fackelzug zieht nachts durchs Dorf.",
+"Holzhauer messen sich im Baumstammsägen.",
+"Das Vieh kehrt von der Sommerweide zurück.",
+"Ein Umzug zeigt alte Handwerksberufe."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Brauchtum denkt man schnell an Umzüge, Feuer oder Wettkämpfe. Höhepunkt der Alemannischen Woche ist aber der Viehabtrieb der Erlenbacher Weidegenossenschaft: Das Jungvieh kommt von der Sommerweide unterhalb des Toten Manns ins Tal zurück. Der Brauch zeigt, dass gemeinsame Weiden in Oberried noch zum Dorfleben gehören. Richtig war 3.",
+"quelle": "Mitteilungsblatt der Gemeinde Oberried, oberried.de",
+"faktencheck": "korrigiert",
+"id": "72-oberried/v0.9/9",
 "tisch": false
 }
 ],
@@ -11620,6 +11740,32 @@ window.QA_DATEN = {
 },
 "ags": "08315084",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Liegt auf 460 Metern, gut 66 Quadratkilometer groß, mit Gipfeln wie Schauinsland und Toter Mann und Anteil am Biosphärengebiet Schwarzwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1237 erwähnt, geprägt vom Kloster; Ortsteile Hofsgrund, St. Wilhelm und Zastler; seit 1974 im Kreis Breisgau-Hochschwarzwald."
+},
+{
+"facette": "ALLTAG",
+"text": "Knapp 2.800 Einwohner; Direkterzeugermarkt in der Klosterscheune, die Gassenbauernhofmühle und ein Sägewerk in Hofsgrund."
+},
+{
+"facette": "FREIZEIT",
+"text": "Steinwasen-Park, Berg-Rodelbahn, Schniederlihof, Kunsthandwerkertag und Zwiebelkuchenfest; Westweg, Felsenweg und Kletterfelsen im Gfäll."
+},
+{
+"facette": "INFRA",
+"text": "Vorwahl 07661, Kennzeichen FR, Mitglied im Gemeindeverwaltungsverband Dreisamtal mit Sitz in Kirchzarten."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 42,4 Prozent klar vor SPD und Grünen."
+}
+],
 "km_vom_vorigen": 5.8
 },
 {
@@ -11629,201 +11775,187 @@ window.QA_DATEN = {
 "lon": 8.01028,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Burg Falkenstein, von Freiburgern zerstört",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Buchenbach",
-"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
-"frage": "1956 wurde der Schriftsteller Alfred Döblin in Buchenbach ärztlich behandelt. Was für eine Klinik war das?",
+"steckbrief": "Rund 3.150 Einwohner, 12 km östlich von Freiburg im Breisgau.",
+"frage": "Die Burg Falkenstein in Buchenbach wurde 1388 zerstört. Wer oder was brachte sie zu Fall?",
 "optionen": [
-"Es war eine Lungenheilstätte für Tuberkulosekranke.",
-"Es war eine anthroposophisch orientierte psychiatrische Klinik.",
-"Es war eine Unfallklinik für Wintersportler.",
-"Es war ein Kurhaus für Herzkranke."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Schwarzwaldort lässt an Luftkur und Lungenheilstätten denken, die es in vielen Höhenlagen gab. Döblin, selbst Arzt, kam 1956 aber ins Sanatorium Wiesneck, die heutige Friedrich-Husemann-Klinik. Der Psychiater Friedrich Husemann hatte es 1930 als anthroposophisch orientiertes Haus für Psychiatrie und Psychotherapie eröffnet. Richtig war 2.",
-"quelle": "Deutsches Ärzteblatt PP 7/2007; friedrich-husemann-klinik.de",
-"faktencheck": "korrigiert",
-"id": "73-buchenbach/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Buchenbach",
-"steckbrief": "Buchenbach mit rund 3.200 Einwohnern liegt 12 km östlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner kommen in Buchenbach im Schnitt auf einen Quadratkilometer?",
-"optionen": [
-"unter 40",
-"40 bis unter 70",
-"70 bis unter 120",
-"120 und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. So nah an Freiburg erwartet man eine dicht bebaute Vorortgemeinde. Doch schon der Kernort Buchenbach besteht aus weilerartigen Siedlungsteilen und Einzelhöfen, und Wald bedeckt den Großteil der Gemarkung. Deshalb kommen rechnerisch nur 81 Einwohner auf einen Quadratkilometer. Richtig war 3.",
-"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "korrigiert",
-"id": "73-buchenbach/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Buchenbach",
-"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Burg Wiesneck war einst ein österreichisches Lehen.",
-"Falkensteig gehört als Ortsteil zur Gemeinde Buchenbach.",
-"Das Gemeindewappen zeigt eine grüne Tanne in Silber."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Tannen prägen das Bild des Schwarzwalds, darum klingt eine Tanne im Wappen glaubhaft. Doch im Wappen steht, passend zum Ortsnamen, eine grüne Buche in Silber, daneben in Rot ein silberner Wellenbalken, ein häufiges Wappenzeichen für Wasser. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.buchenbach.de/p/ortsteile-und-geschichte",
-"faktencheck": "unsicher",
-"id": "73-buchenbach/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Buchenbach",
-"steckbrief": "Buchenbach im Schwarzwald hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
-"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Buchenbach bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 35 %",
-"35 bis unter 40 %",
-"40 bis unter 45 %",
-"45 % und mehr"
+"Bürger der Stadt Freiburg zerstörten sie.",
+"Ein Blitzschlag setzte die Burg in Brand.",
+"Die Burgherren ließen sie selbst abreißen.",
+"Räuber überfielen die Burg und brannten sie nieder."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Schwarzwalddorf gilt vielen als sichere CDU-Hochburg, daher liegt ein hoher Wert nahe. Die CDU wurde in Buchenbach zwar stärkste Partei, kam aber nur auf 32,7 Prozent. Zweitstärkste Kraft wurden die Grünen. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "73-buchenbach/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Ein Blitz oder ein Überfall liegt nahe, so endeten viele Burgen. Doch es waren Bürger der Stadt Freiburg, die die Burg 1388 zerstörten. Erbaut hatten sie die Herren von Falkenstein, ein zähringisches Ministerialengeschlecht, das das Höllental und den Gebirgspass beherrschte. Die wenigen Reste liegen heute schon auf Breitnauer Gemarkung. Richtig war 1.",
+"quelle": "Gemeinde Buchenbach, buchenbach.de/p/falkensteig",
+"faktencheck": "korrigiert",
+"id": "73-buchenbach/v0.9/1",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Schwarzwaldhof als Museum",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Buchenbach",
-"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
-"frage": "Die Burg Falkenstein bei Falkensteig wurde 1388 zerstört. Von wem?",
+"steckbrief": "Rund 3.150 Einwohner, 12 km östlich von Freiburg im Breisgau.",
+"frage": "Der Hansmeyerhof ist ein alter Schwarzwaldhof in Buchenbach. Was ist heute in ihm untergebracht?",
 "optionen": [
-"Württembergische Truppen zerstörten die Burg.",
-"Bürger der Stadt Freiburg zerstörten die Burg.",
-"Schweizer Eidgenossen zerstörten die Burg.",
-"Söldner des Bischofs von Straßburg zerstörten die Burg."
+"Er ist heute ein Gasthof mit Fremdenzimmern.",
+"Er ist heute ein Museum für bäuerliche Kultur.",
+"Er ist heute der Sitz des Rathauses.",
+"Er ist heute eine Käserei mit Hofladen."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Burgen fielen oft fremden Heeren zum Opfer, darum denkt man an Truppen von außen. Die Burg Falkenstein, gegründet von den Herren von Falkenstein, zerstörten aber Bürger der Stadt Freiburg im Breisgau. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Buchenbach",
-"faktencheck": "bestätigt",
-"id": "73-buchenbach/v0.8/5",
+"rueckseite": "Du hattest [Option] getippt. Ein alter Hof als Gasthof oder Hofladen liegt nahe, so leben viele Schwarzwaldhöfe weiter. Im Hansmeyerhof aber ist heute das Heimatmuseum Hansmeyerhof untergebracht; dahinter steht der Heimatverein Hansmeyerhof. Richtig war 2.",
+"quelle": "ISIL-Verzeichnis, Staatsbibliothek zu Berlin (DE-MUS-101920); Gemeinde Buchenbach, buchenbach.de/p/vereine",
+"faktencheck": "korrigiert",
+"id": "73-buchenbach/v0.9/2",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "am Anfang des Dreisamtals",
+"rang": 4,
 "familie": "A",
-"sorte": "Klassiker",
+"sorte": "Geschichte",
 "ort": "Buchenbach",
-"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
-"frage": "Welches Hauptkennzeichen gilt für Autos aus Buchenbach?",
+"steckbrief": "Rund 3.150 Einwohner, 12 km östlich von Freiburg im Breisgau.",
+"frage": "Westlich von Buchenbach vereinigen sich zwei Gebirgsbäche. Welcher Fluss entsteht dort?",
 "optionen": [
-"VS",
-"EM",
-"FR",
-"WT"
+"Dort entsteht die Glotter.",
+"Dort entsteht die Kander.",
+"Dort entsteht die Dreisam.",
+"Dort entsteht die Wehra."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Buchenbach liegt am Eingang des Höllentals, und ein Kennzeichen aus dem Schwarzwald läge nahe. Die Gemeinde gehört aber zum Landkreis Breisgau-Hochschwarzwald, und dessen Hauptkennzeichen ist FR, dasselbe wie in Freiburg. Richtig war 3.",
-"quelle": "Wikidata P395; Landkreis: dewiki Infobox",
-"faktencheck": "korrigiert",
-"id": "73-buchenbach/v0.8/6",
+"rueckseite": "Du hattest [Option] getippt. Den Ursprung eines Flusses sucht man gern an einer Quelle hoch im Gebirge. Die Dreisam aber entsteht erst westlich von Buchenbach, wo sich zwei Gebirgsbäche vereinigen. Buchenbach liegt damit am oberen Anfang des Dreisamtals, am Westrand des Schwarzwalds. Freiburg, durch das die Dreisam später fließt, liegt talabwärts im Westen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Buchenbach",
+"faktencheck": "unsicher",
+"id": "73-buchenbach/v0.9/3",
 "tisch": false
 },
 {
-"familie": "C",
+"facette": "ALLTAG",
+"charakteristikum": "Eisenwerk mit 400 Arbeitern",
+"rang": 1,
+"familie": "A",
 "sorte": "Geschichte",
 "ort": "Buchenbach",
-"steckbrief": "Buchenbach hat heute rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
-"frage": "Im 19. Jahrhundert betrieben die Gebrüder Fauler in Falkensteig die Obere Blechschmiede. Wie viele Menschen arbeiteten dort zu Spitzenzeiten?",
+"steckbrief": "Rund 3.150 Einwohner, 12 km östlich von Freiburg im Breisgau.",
+"frage": "Im Ortsteil Falkensteig arbeiteten im 19. Jahrhundert bis zu 400 Menschen in einem Betrieb. Was für einer war das?",
 "optionen": [
-"unter 50",
-"50 bis unter 150",
-"150 bis unter 300",
-"300 und mehr"
+"Es war eine Glashütte für Fensterglas.",
+"Es war eine Fabrik für Kuckucksuhren.",
+"Es war eine Papierfabrik am Bach.",
+"Es war ein Eisenwerk mit Hammerwerk und Gießerei."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. In einem Schwarzwaldtal denkt man an eine Handvoll Schmiede. Doch die Obere Blechschmiede in Falkensteig war mit Walzwerk, Hammerwerk und später Eisengießerei ein Industriebetrieb: Zu Spitzenzeiten arbeiteten dort 400 Menschen. Wegen mangelnder Rentabilität wurde sie geschlossen, die meisten Gebäude später abgebrochen. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Glas und Uhren sind die klassischen Gewerbe des Schwarzwalds, darum liegen sie nahe. In Falkensteig aber stand das Eisenwerk der Gebrüder Fauler, auch Obere Blechschmiede genannt, mit Walzwerk, Hammerwerk und Eisengießerei. Es schloss, weil es sich nicht mehr rechnete. Für einen Ort, der heute rund 3.150 Einwohner hat, war ein Werk mit bis zu 400 Arbeitern ein großer Arbeitgeber der Region. Richtig war 4.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Buchenbach",
-"faktencheck": "unsicher",
-"id": "73-buchenbach/v0.8/7",
+"faktencheck": "bestätigt",
+"id": "73-buchenbach/v0.9/4",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Buche und Wellen im Wappen",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Buchenbach",
-"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
-"frage": "Im Namen des Ortsteils Unteribental steckt die Silbe „ib“. Worauf weist sie hin?",
+"steckbrief": "Rund 3.150 Einwohner, 12 km östlich von Freiburg im Breisgau.",
+"frage": "Das Gemeindewappen von Buchenbach zeigt unten drei grüne Hügel. Was ist darüber zu sehen?",
 "optionen": [
-"Sie weist auf frühere Eibenbestände hin.",
-"Sie geht auf den Namen eines Siedlers zurück.",
-"Sie stammt von einem keltischen Flussnamen.",
-"Sie bedeutet in der Mundart „steiler Hang“."
+"Darüber stehen eine Buche und ein Wellenbalken.",
+"Darüber stehen ein Falke und ein Wellenbalken.",
+"Darüber stehen eine Buche und eine Burg.",
+"Darüber stehen eine Buche und ein Wagenrad."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Kurze Silben in Ortsnamen gehen oft auf Personen oder alte Gewässernamen zurück, deshalb liegen diese Deutungen nahe. Im Namen Unteribental steckt aber ein Baum: Das „ib“ weist auf frühere Eibenbestände hin. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Buchenbach",
+"rueckseite": "Du hattest [Option] getippt. Falke, Burg und Wagenrad liegen nahe, denn Falkensteig, Wagensteig und die Burgen der Gemeinde erinnern daran. Das Wappen zeigt aber vorn eine grüne Buche auf Silber und hinten auf Rot einen silbernen Wellenbalken, einen gewellten Querstreifen. Buche und Wellen lesen sich wie der Ortsname selbst; die Gemeindeflagge ist grün-weiß. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.buchenbach.de/p/ortsteile-und-geschichte",
 "faktencheck": "bestätigt",
-"id": "73-buchenbach/v0.8/8",
+"id": "73-buchenbach/v0.9/5",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Geschichte",
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung weit über Landesschnitt",
+"rang": 6,
+"familie": "C",
+"sorte": "Klassiker",
 "ort": "Buchenbach",
-"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
-"frage": "Im Ibental steht die Vaterunser-Kapelle aus den 1960er-Jahren. Wer ließ sie bauen?",
+"steckbrief": "Rund 3.150 Einwohner, 12 km östlich von Freiburg im Breisgau.",
+"frage": "Bei der Bundestagswahl 2025 gingen in Baden-Württemberg 83,4 Prozent zur Wahl. Wie hoch war die Wahlbeteiligung in Buchenbach?",
 "optionen": [
-"Talbauern nach einem Unwetter.",
-"Ein Orden, als Wallfahrtsort.",
-"Ein Verleger.",
-"Eine Bergbaufirma, für ihre Arbeiter."
+"unter 80 %",
+"80 bis unter 86 %",
+"86 bis unter 92 %",
+"92 % und mehr"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Kapellen in Schwarzwaldtälern gehen oft auf Gelübde von Bauern oder auf Orden zurück. Diese aber stifteten der Verleger Theophil Herder-Dorneich und seine Frau Elisabeth als Privatkapelle und Grablege der Familie Herder. Richtig war 3.",
-"quelle": "Denkmalstiftung Baden-Württemberg",
-"faktencheck": "korrigiert",
-"id": "73-buchenbach/v0.8/9",
+"rueckseite": "Du hattest [Option] getippt. Ein Wert nahe am Landesschnitt liegt nahe, denn viele Gemeinden bleiben dicht bei ihm. Buchenbach aber kam auf 89,8 Prozent, 6,4 Punkte über den 83,4 Prozent im Land. Für eine Gemeinde mit rund 3.150 Einwohnern im Umland von Freiburg ist das ein auffällig hoher Wert. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "73-buchenbach/v0.9/7",
 "tisch": false
 },
 {
-"familie": "B",
+"facette": "ALLTAG",
+"charakteristikum": "Sägewerk und Pellets im Waldort",
+"rang": 5,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Buchenbach",
-"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"steckbrief": "Rund 3.150 Einwohner, 12 km östlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Buchenbach?",
 "optionen": [
-"Erzbischof Oskar Saier wurde im Ortsteil Wagensteig geboren.",
-"Die neugotische Kirche St. Blasius wurde später barockisiert.",
-"Philosoph Broder Christiansen betrieb in Wiesneck einen Verlag."
+"ein Sägewerk",
+"eine Brauerei",
+"ein Weingut",
+"ein Hallenbad"
 ],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Barockkirchen sind im Süden häufig, darum klingt eine Barockisierung glaubhaft. Doch die Neugotik ist jünger als der Barock: Die katholische Pfarrkirche St. Blasius von 1811 wurde um 1900 neugotisch umgebaut, nicht umgekehrt. Christiansens Felsen-Verlag hatte seinen Sitz in Buchenbach. Die Lüge war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Buchenbach",
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Brauerei, Weingut und Hallenbad passen zur Gegend um Freiburg, in Buchenbach aber ist keines davon zu finden. Das Sägewerk gehört zu den Dold Holzwerken, die dort auch Massivholzplatten und Holzpellets herstellen. Das passt zum Ort: Wald bedeckt rund zwei Drittel der Gemarkung, Holz wächst hier vor der Tür. Richtig war 1.",
+"quelle": "Gemeinde Buchenbach, buchenbach.de; taz.de/!532775",
 "faktencheck": "korrigiert",
-"id": "73-buchenbach/v0.8/10",
+"id": "73-buchenbach/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kapelle eines Verlegers im Ibental",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Buchenbach",
+"steckbrief": "Rund 3.150 Einwohner, 12 km östlich von Freiburg im Breisgau.",
+"frage": "Im Buchenbacher Ibental steht die Vaterunser-Kapelle, Ende der 1960er-Jahre erbaut. Wer ließ sie bauen?",
+"optionen": [
+"Ein Bauer erfüllte damit ein Gelübde.",
+"Ein Holzunternehmer aus dem Tal stiftete sie.",
+"Ein Verleger ließ sie erbauen.",
+"Ein Erzbischof von Freiburg ließ sie errichten."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bauer oder ein Kirchenmann liegen bei einer Kapelle nahe, so entstanden viele Kapellen im Schwarzwald. Diese aber ließ der Verleger Theophil Herder-Dorneich 1967/68 zusammen mit seiner Frau Elisabeth nach eigenen Ideen bauen. Damit löste er ein Gelübde aus dem Zweiten Weltkrieg ein. Die Kapelle ist auch Grabstätte der Familie. Richtig war 3.",
+"quelle": "Badische Landesbibliothek, regionalia.blb-karlsruhe.de",
+"faktencheck": "korrigiert",
+"id": "73-buchenbach/v0.9/9",
 "tisch": false
 }
 ],
@@ -11895,6 +12027,32 @@ window.QA_DATEN = {
 },
 "ags": "08315020",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 12 km östlich von Freiburg, am Eingang des Höllentals; die Gemarkung reicht von 450 bis 1.160 Meter, meist Wald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Burg Falkenstein, Burgruine Wiesneck, Ruine Bubenstein; die heutige Gemeinde entstand 1971 bis 1975 aus Buchenbach, Falkensteig, Wagensteig und Unteribental."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 3.150 Einwohner; Dold Holzwerke, Messtechnik von Siko, Reinigungstechnik von Wandres, ein Transportbetonwerk."
+},
+{
+"facette": "FREIZEIT",
+"text": "Heimatmuseen Hansmeyerhof und Rombachhof, über 100 km Wanderwege, zwei Jakobuswege, Tarodunum-Rundweg, Dreisamtal-Radwanderweg, Pumptrack in Unteribental."
+},
+{
+"facette": "INFRA",
+"text": "Friedrich-Husemann-Klinik, Studienhaus Wiesneck, Ibentalhalle und Sommerberghalle; die Partnerstadt ist Auerbach im Vogtland."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 32,7, Grüne 18,3, AfD 14,8 Prozent; Wahlbeteiligung 89,8 Prozent."
+}
+],
 "km_vom_vorigen": 5.7
 },
 {
@@ -11904,182 +12062,231 @@ window.QA_DATEN = {
 "lon": 8.10083,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "Lymphklinik als größter Arbeitgeber",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hinterzarten",
-"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
-"frage": "Woraus ist der Ortsname Hinterzarten nach der Ortsgeschichte entstanden?",
+"steckbrief": "Hinterzarten hat gut 2.500 Einwohner und liegt 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Hinterzarten lebt heute vom Tourismus. Wer ist aber der größte Arbeitgeber in der Gemeinde?",
 "optionen": [
-"Zwei ältere Namen sind miteinander verschmolzen.",
-"Ein Siedler gab dem Ort seinen Namen.",
-"Er beschreibt das zarte Gras der Hochweiden.",
-"Er erinnert an eine verlorene Schlacht."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei „zarten“ denkt man an Weiden oder einen Siedler. Doch nach der Ortsgeschichte hieß die Vogtei früher „Hinter der Straß in der Zarten“, also hinter der Straße durchs Höllental. „Zarten“ geht wohl auf den Zartenbach zurück. Aus dem langen Namen wurde bis etwa 1750 Hinterzarten. Richtig war 1.",
-"quelle": "Gemeinde Hinterzarten, gemeinde-hinterzarten.de/seite/238968/geschichte.html",
-"faktencheck": "korrigiert",
-"id": "74-hinterzarten/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Hinterzarten",
-"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner kommen in Hinterzarten rechnerisch auf einen Quadratkilometer Gemeindefläche?",
-"optionen": [
-"unter 50",
-"50 bis unter 100",
-"100 bis unter 200",
-"200 oder mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Nahe Freiburg und mit eigenem Bahnhof vermutet man einen dichter besiedelten Ort. Doch die rund 2.500 Einwohner verteilen sich auf gut 33 Quadratkilometer Gemeindefläche. Das ergibt rund 76 Einwohner je Quadratkilometer. Richtig war 2.",
-"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "74-hinterzarten/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Hinterzarten",
-"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Jockele-Uhren sind nach ihrem Kuckucksruf benannt.",
-"Früher lebte das Bauerndorf auch vom Löffelmachen.",
-"Die Herren von Sickingen erbten hier durch Heirat."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Kuckucksuhren sind das Schwarzwald-Klischee, also klingt Jockele nach Vogelruf. Doch Jockel ist eine Form von Jacob: Der Uhrmacher Jacob Herbstreith gab den Uhren seinen Vornamen. Löffelmachen war tatsächlich ein Erwerb, und die Sickinger erbten durch die Heirat der Erbtochter Anna von Schnewlin. Die Lüge war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten",
-"faktencheck": "bestätigt",
-"id": "74-hinterzarten/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Hinterzarten",
-"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
-"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Hinterzarten die zweitmeisten Zweitstimmen?",
-"optionen": [
-"SPD",
-"AfD",
-"FDP",
-"GRÜNE"
+"Es ist ein privates Internatsgymnasium.",
+"Es ist eine Brauerei mit Gasthaus.",
+"Es ist ein Hersteller von Wintersportgeräten.",
+"Es ist eine Fachklinik für Lymphkrankheiten."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bundesweit landete die AfD auf Platz zwei, daher liegt sie nahe. In Hinterzarten aber folgten auf die CDU die Grünen mit 20,5 Prozent. SPD und AfD lagen dicht beieinander dahinter. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "74-hinterzarten/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre das Internatsgymnasium Birklehof, denn eine Schule mit Internat braucht Personal rund um die Uhr. Größter Arbeitgeber ist aber die Földiklinik, eine Fachklinik für Lymphologie, also für Erkrankungen des Lymphsystems. Sie kam 1986 nach Hinterzarten und steht auf dem Gelände des früheren Hotels Weißes Rössle. Für ein Dorf mit gut 2.500 Einwohnern ist eine Fachklinik als größter Arbeitgeber ungewöhnlich. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten",
+"faktencheck": "korrigiert",
+"id": "74-hinterzarten/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Name aus Straße und Wallfahrtskirche",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hinterzarten",
-"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
-"frage": "Ein Kreis der Krebsforschung heißt „Hinterzartener Kreis“. Warum trägt er diesen Namen?",
+"steckbrief": "Hinterzarten hat gut 2.500 Einwohner und liegt 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Woher hat Hinterzarten nach der Ortsgeschichte seinen Namen?",
 "optionen": [
-"Die Forscher trafen sich anfangs in Hinterzarten.",
-"Eine Stiftung aus dem Ort hat ihn gegründet.",
-"Im Ort wurde ein Krebsmittel entdeckt.",
-"Er erforscht die Heilkraft der Höhenluft."
+"Er verbindet eine Straßenlage mit einer Wallfahrtskirche.",
+"Er verbindet die Namen zweier alter Bauernhöfe.",
+"Er geht auf ein Rittergeschlecht namens Zart zurück.",
+"Er bedeutet schlicht: das Dorf hinter Zarten."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Höhenluftkurort legt Heilforschung nahe. Doch Hermann Druckrey und Adolf Butenandt gründeten einen Kreis zur Grundlagenforschung über Krebs, der sich einmal im Jahr traf, ursprünglich in Hinterzarten, wegen der ländlichen Abgeschiedenheit. Der Name blieb, unabhängig vom Tagungsort. Richtig war 1.",
+"rueckseite": "Du hattest [Option] getippt. Ein Adelsname läge nahe, viele Orte heißen nach ihren Herren. Nach der gängigen Deutung wuchsen aber zwei ältere Namen zusammen: „Hinter der Straß“, nach der Höllental-Straße, und „in der Zarten“, nach der Wallfahrtskirche Maria in der Zarten. Im Namen stecken also zwei Dinge, die den Ort früh prägten: der Weg durchs Höllental und die Wallfahrt. Richtig war 1.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten",
-"faktencheck": "unsicher",
-"id": "74-hinterzarten/v0.8/5",
+"faktencheck": "korrigiert",
+"id": "74-hinterzarten/v0.9/2",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Hinterzarten",
-"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
-"frage": "Hinterzarten pflegt eine Städtepartnerschaft mit einem Ort im Elsass. Mit welchem?",
-"optionen": [
-"Riquewihr",
-"Eguisheim",
-"Kaysersberg",
-"Obernai"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Alle vier sind Weinorte im Elsass, und jeder wäre als Partner einer Schwarzwaldgemeinde denkbar. Hinterzartens Partnerstadt ist Eguisheim. Richtig war 2.",
-"quelle": "Wikidata P190",
-"faktencheck": "bestätigt",
-"id": "74-hinterzarten/v0.8/6",
-"tisch": false
-},
-{
+"facette": "FREIZEIT",
+"charakteristikum": "Skimuseum in altem Schwarzwaldhof",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hinterzarten",
-"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
-"frage": "Hinterzarten ist Ausgangspunkt für Wintersport im Hochschwarzwald. Wann wurde im Ort die erste Skisprungschanze gebaut?",
+"steckbrief": "Hinterzarten hat gut 2.500 Einwohner und liegt 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Hinterzarten ist ein Wintersportort mit eigenem Skimuseum. Worin ist das Schwarzwälder Skimuseum heute untergebracht?",
 "optionen": [
-"Im Jahr 1891",
-"Im Jahr 1906",
-"Im Jahr 1923",
-"Im Jahr 1952"
+"Es nutzt die frühere Wartehalle des Bahnhofs.",
+"Es steht in einem alten Schwarzwaldhof.",
+"Es liegt unter der Tribüne der Sprungschanze.",
+"Es belegt die ehemalige Dorfschule."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Tribüne liegt nahe, weil Museen gern dort stehen, wo der Sport stattfindet. Das Skimuseum ist aber im Hugenhof untergebracht, einem jahrhundertealten Hof, und dokumentiert die frühe Entwicklung des Skisports im Hochschwarzwald. Dass ein Dorf mit gut 2.500 Einwohnern ein eigenes Skimuseum hat, zeigt, wie sehr der Wintersport Hinterzarten prägt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "74-hinterzarten/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Bahnhof im Ortskern auf 885 m",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Hinterzarten",
+"steckbrief": "Hinterzarten hat gut 2.500 Einwohner und liegt 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Hinterzarten?",
+"optionen": [
+"eine Brauerei",
+"eine Eissporthalle",
+"einen Bahnhof",
+"ein Hallenbad"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Der Skilauf kam früh in den Hochschwarzwald, darum liegt ein Datum vor dem Ersten Weltkrieg nahe. Die erste Schanze im Ort, die Kirchwaldschanze, entstand aber erst 1923; bald darauf folgte die Adlerschanze. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten",
-"faktencheck": "unsicher",
-"id": "74-hinterzarten/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Hinterzarten",
-"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
-"frage": "Im Herbst 2024 verhinderte Hinterzarten eine Solaranlage auf freiem Feld in der Nachbargemeinde Breitnau. Wie war das möglich?",
-"optionen": [
-"Die Fläche gehörte zur Gemarkung Hinterzarten.",
-"Planänderungen in Breitnau brauchen Hinterzartens Zustimmung.",
-"Breitnaus Gemeinderat lehnte die Anlage selbst ab.",
-"Hinterzarten kaufte die geplante Fläche auf."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass die Fläche zu Hinterzarten gehörte. Doch Breitnau und Hinterzarten bilden eine Verwaltungsgemeinschaft: Keine Gemeinde kann Änderungen im Flächennutzungsplan, der die Bodennutzung regelt, ohne Zustimmung der anderen durchsetzen. So stoppte Hinterzarten die Anlage, obwohl Breitnaus Gemeinderat einstimmig zugestimmt hatte. Richtig war 2.",
-"quelle": "Badische Zeitung, badische-zeitung.de/breitnau-stimmt-zu-hinterzarten-lehnt-ab-projekt-solarpark-einsiedel-ist-geplatzt",
+"rueckseite": "Du hattest [Option] getippt. Ein Autobahnanschluss liegt nahe, denn viele Ferienorte sind gut erreichbar; Hinterzarten erreicht man aber über die Bundesstraße durchs Höllental. Den Bahnhof gibt es dagegen, mitten im Ortskern an der Höllentalbahn. Ein Bahnhof in einem Höhendorf mit gut 2.500 Einwohnern: Die Strecke von Freiburg über Titisee nach Donaueschingen macht es möglich. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten; OpenStreetMap",
 "faktencheck": "korrigiert",
-"id": "74-hinterzarten/v0.8/8",
+"id": "74-hinterzarten/v0.9/4",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Hochmoor, seit 1941 geschützt",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hinterzarten",
-"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
-"frage": "Der Säbelthomaweg ist ein Wanderweg in Hinterzarten. Nach wem ist er benannt?",
+"steckbrief": "Hinterzarten hat gut 2.500 Einwohner und liegt 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "In Hinterzarten steht seit 1941 ein Stück Landschaft unter Naturschutz. Was für eines?",
 "optionen": [
-"Nach einem Säbelschmied aus dem Ort.",
-"Nach einem berühmten Skispringer des Orts.",
-"Nach einem Ritter, der dort fiel.",
-"Nach einem früheren Ortssheriff."
+"Es ist eine Wacholderheide.",
+"Es ist ein Orchideenhang.",
+"Es ist eine Felswand.",
+"Es ist ein Hochmoor."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. In einem Ort mit Schanzen liegt ein Skispringer als Namensgeber nahe. Doch der Weg ist nach Thomas Steiert benannt, einem Dorfpolizisten aus dem 19. Jahrhundert. Weil er stets einen Säbel trug, nannte man ihn „Säbelthoma“. Richtig war 4.",
-"quelle": "Badische Zeitung, badische-zeitung.de/auf-den-spuren-des-dorfpolizisten--173542480.html",
+"rueckseite": "Du hattest [Option] getippt. Eine Wacholderheide liegt nahe, denn Weidfelder prägen viele Schwarzwaldhöhen. Seit 1941 geschützt ist aber das Hinterzartener Moor; 1975 wurde das Schutzgebiet erweitert. Es gilt als größtes Moor im Südschwarzwald. Auch weitere Moore rund um den Ort stehen unter Naturschutz. Wer an Hinterzarten vorbeifährt, fährt durch Moor- und Berglandschaft. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten; OpenStreetMap",
 "faktencheck": "korrigiert",
-"id": "74-hinterzarten/v0.8/9",
+"id": "74-hinterzarten/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "heilklimatischer Kurort statt Heilbad",
+"rang": 4,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hinterzarten",
+"steckbrief": "Hinterzarten hat gut 2.500 Einwohner und liegt 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"1969 begann die Freundschaft mit Eguisheim im Elsass.",
+"1952 tagte in Hinterzarten eine Konferenz zur Hochschulreform.",
+"1964 wurde Hinterzarten ein Heilbad mit Thermalquelle."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Seit 1964 ist Hinterzarten heilklimatischer Kurort: Heilmittel ist das Klima, nicht eine Quelle. Die Thermalquelle klingt plausibel, denn früher soll eine Schwefelquelle im Ort Heilung versprochen haben; ein Mineralgehalt ließ sich aber nicht nachweisen. Das Prädikat trug dazu bei, dass aus dem Bauerndorf ein Tourismusort wurde. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten",
+"faktencheck": "korrigiert",
+"id": "74-hinterzarten/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "große, dünn besiedelte Gemarkung",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hinterzarten",
+"steckbrief": "Hinterzarten hat gut 2.500 Einwohner und liegt 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Hinterzarten?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 40 km²",
+"40 bis unter 80 km²",
+"80 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Unter 15 Quadratkilometern liegt nahe, denn ein Dorf mit gut 2.500 Einwohnern wirkt klein. Hinterzarten misst aber gut 33 Quadratkilometer. Mit rund 76 Einwohnern je Quadratkilometer ist die Gemeinde dünn besiedelt; beim Vorbeifahren sieht man mehr Landschaft als Ort. Richtig war 2.",
+"quelle": "Wikidata P2046; Dichte berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche",
+"faktencheck": "bestätigt",
+"id": "74-hinterzarten/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Jockele-Uhren aus dem Bauerndorf",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hinterzarten",
+"steckbrief": "Hinterzarten hat gut 2.500 Einwohner und liegt 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Um 1790 entstanden in Hinterzarten die Jockele-Uhren. Woher haben sie ihren Namen?",
+"optionen": [
+"Ihre Figur, ein tanzender Bauer, hieß Jockele.",
+"Der Name beschreibt ihr wackelndes Pendel.",
+"Sie tragen den Vornamen ihres Uhrmachers.",
+"Sie hießen nach dem Kuckuck, mundartlich Jockele."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Pendel liegt nahe, denn „Jockele“ klingt nach Bewegung. Benannt sind die Uhren aber nach ihrem Hersteller Jacob Herbstreith aus Hinterzarten: Jockele ist die Koseform von Jacob. Das Deutsche Uhrenmuseum in Furtwangen besitzt solche Uhren. Sie erinnern daran, dass das Bauerndorf früher auch von Holz und hölzernen Uhren lebte. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten",
+"faktencheck": "korrigiert",
+"id": "74-hinterzarten/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Wanderweg nach Dorfsheriff benannt",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hinterzarten",
+"steckbrief": "Hinterzarten hat gut 2.500 Einwohner und liegt 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Der Säbelthomaweg ist ein Premium-Wanderweg in Hinterzarten. Nach wem ist er benannt?",
+"optionen": [
+"Namensgeber ist ein Ortssheriff mit diesem Beinamen.",
+"Namensgeber ist ein Säbelfechter aus dem Dorf.",
+"Namensgeber ist ein Schmied, der Säbel fertigte.",
+"Namensgeber ist ein Wilderer aus dem Hochschwarzwald."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Säbel im Namen lässt an einen Fechter oder Schmied denken. Namensgeber ist aber ein Dorfpolizist, der stets einen Säbel trug und deshalb „Säbelthoma“ hieß. Der Premium-Wanderweg, also eine nach Qualitätskriterien ausgezeichnete Route, führt zum Mathisleweiher. So erzählt schon der Wegname ein Stück Dorfgeschichte. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten",
+"faktencheck": "korrigiert",
+"id": "74-hinterzarten/v0.9/9",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Skisprung und Langlauf statt Alpinski",
+"rang": 1,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hinterzarten",
+"steckbrief": "Hinterzarten hat gut 2.500 Einwohner und liegt 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Adler-Skistadion hat neben der Hauptschanze Nachwuchsschanzen.",
+"Am Alpersbach liegt ein großes Skigebiet für Urlauber.",
+"Von Hinterzarten führt ein Fernskiwanderweg nach Schluchsee."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist das große Skigebiet: Am Alpersbach laufen nur wenige kleine Lifte, überwiegend für den Skilauf vor Ort, auch weil oft der Schnee fehlt. Die Lüge liegt nahe, weil Hinterzarten als Wintersportort bekannt ist. Seine Stärke sind aber Skispringen und Langlauf: Im Adler-Skistadion fanden schon Weltcupspringen statt. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten",
+"faktencheck": "korrigiert",
+"id": "74-hinterzarten/v0.9/10",
 "tisch": false
 }
 ],
@@ -12120,6 +12327,32 @@ window.QA_DATEN = {
 },
 "ags": "08315052",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Südschwarzwald, 21 km südöstlich von Freiburg, gut 33 Quadratkilometer; Moore, Zartenbach, Ravennaschlucht und Gipfel wie der Wiesenwaldkopf."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Früher ein Bauerndorf, durch Höllentalbahn und Kurort-Titel zum Ferienort geworden; Keimzelle der Pfarrei ist Maria in der Zarten."
+},
+{
+"facette": "ALLTAG",
+"text": "Heilklimatischer Kurort mit gut 2.500 Einwohnern; größter Arbeitgeber ist die Földiklinik, dazu kommt die Klinik in der Zarten."
+},
+{
+"facette": "FREIZEIT",
+"text": "Adler-Skistadion mit vier Schanzen, Skimuseum im Hugenhof, Landtechnikmuseum, Westweg, Säbelthomaweg und Südschwarzwald-Radweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof der Höllentalbahn auf 885 Metern, Internatsgymnasium Birklehof, Partnerstadt Eguisheim im Elsass."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 35,3 Prozent vor den Grünen; Wahlbeteiligung 88,2 Prozent, fast fünf Punkte über dem Land."
+}
+],
 "km_vom_vorigen": 9.0
 },
 {
@@ -12129,162 +12362,209 @@ window.QA_DATEN = {
 "lon": 8.21472,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Weltcup-Skisprungschanze am Hochfirst",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Knapp 13.000 Einwohner, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Welche dieser vier Wintersportanlagen gibt es in Titisee-Neustadt?",
+"optionen": [
+"ein Biathlonstadion für Weltcuprennen",
+"eine Bobbahn durch den Wald",
+"eine Skisprungschanze für Weltcupspringen",
+"eine Eisschnelllaufbahn unter freiem Himmel"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Biathlonstadion liegt nahe, denn die Stadt ist ein bekanntes Wintersportzentrum. Doch hier wird gesprungen: Die Hochfirstschanze im Schmiedsbachtal ist laut Stadt die größte Naturschanze Deutschlands; ihren Neubau machten die Erfolge der Schwarzwaldadler um Martin Schmitt und Sven Hannawald nötig. Für eine Stadt mit knapp 13.000 Einwohnern ist eine Weltcupschanze viel; die Stadt nennt sie ein Wahrzeichen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/freizeit-kultur/attraktionen-in-titisee-neustadt/skischanze; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "75-titisee-neustadt/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Schwedenkreuz für ermordeten Pfarrer",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Titisee-Neustadt",
-"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
-"frage": "Woher hat der Titisee nach der Ortsgeschichte seinen Namen?",
+"steckbrief": "Knapp 13.000 Einwohner, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Am Saigerberg steht ein sogenanntes Schwedenkreuz. Woran erinnert es?",
 "optionen": [
-"Er ist nach dem römischen Kaiser Titus benannt.",
-"Er ist nach der keltischen Göttin Tita benannt.",
-"Er ist nach dem heiligen Titus benannt.",
-"Er ist nach dem alemannischen Anführer Titin benannt."
+"An schwedische Siedler, die das Tal rodeten.",
+"An einen Schwedenkönig, der hier Rast machte.",
+"An einen schwedischen Kaufmann, der es stiftete.",
+"An schwedische Söldner im Dreißigjährigen Krieg."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Der Name klingt lateinisch, fast wie Kaiser Titus. Doch nach der Ortsgeschichte geht er auf den alemannischen Anführer Titin zurück. Er lebte im nahen Ausbaudorf Titinshusen, heute Dittishausen. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an Schweden denken, die hier lebten oder Gutes taten. Tatsächlich erinnert das Kreuz laut Stadt an den Dreißigjährigen Krieg: Marodierende schwedische Söldner streiften bis nach Neustadt, nahmen den Neustädter Pfarrer Anton Wehinger gefangen und töteten ihn aufs grausamste. Wanderer stoßen hier auf ein Stück Ortsgeschichte jenseits von See und Schanze. Richtig war 4.",
 "quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
 "faktencheck": "korrigiert",
-"id": "75-titisee-neustadt/v0.8/1",
+"id": "75-titisee-neustadt/v0.9/2",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "ALLTAG",
+"charakteristikum": "Papierfabrik im Kurort",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
 "ort": "Titisee-Neustadt",
-"steckbrief": "Stadt im Landkreis Breisgau-Hochschwarzwald mit den Bahnhöfen Neustadt und Titisee, 29 km östlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner hat die Stadt Titisee-Neustadt?",
+"steckbrief": "Knapp 13.000 Einwohner, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Welcher dieser vier Betriebe arbeitet heute in Titisee-Neustadt?",
 "optionen": [
-"unter 15.000",
-"15.000 bis unter 20.000",
-"20.000 bis unter 30.000",
-"30.000 und mehr"
+"eine Papierfabrik",
+"eine Glashütte",
+"eine Porzellanmanufaktur",
+"eine Glockengießerei"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Der bekannte Ferienname Titisee lässt eine größere Stadt erwarten. Doch Titisee-Neustadt hatte Ende 2025 12.873 Einwohner, und die meisten davon leben im Stadtteil Neustadt, nicht am See. Richtig war 1.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "75-titisee-neustadt/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Eine Glashütte liegt im Schwarzwald nahe, denn Glasmacher brauchten viel Holz. Neustadt aber macht Papier: Die Papierfabrik Neustadt gehört heute zur Felix Schoeller Gruppe und ging aus der Papierfabrik Fürst zu Fürstenberg hervor. Sie ist ein großer Arbeitgeber; eine ehemalige Dampflok der Fabrik steht als Denkmal. Neben dem Kurort hat die Stadt so auch eine Industrieseite. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "75-titisee-neustadt/v0.9/3",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Gletschersee Titisee",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Knapp 13.000 Einwohner, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Wie ist der Titisee laut Stadt entstanden?",
+"optionen": [
+"Ein Bergsturz staute den Bach zum See auf.",
+"Ein eiszeitlicher Gletscher schürfte seine Mulde aus.",
+"Ein erloschener Vulkankrater füllte sich mit Wasser.",
+"Der Boden brach über ausgewaschenem Gestein ein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Vulkan liegt nahe, denn Kraterseen sind oft tief, und im Hegau gibt es erloschene Vulkane. Doch laut Stadt schürfte der Feldberggletscher die tiefe Mulde aus, in der heute der Titisee liegt. Was das Eis hinterließ, prägt den Stadtteil Titisee bis heute: Am Ufer liegen Badestrand und Liegewiese, auf dem Wasser fährt ein Fahrgastschiff. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
+"faktencheck": "bestätigt",
+"id": "75-titisee-neustadt/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "zwei Bahnhöfe, Abzweig Dreiseenbahn",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Knapp 13.000 Einwohner, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Welche dieser vier Verkehrsanlagen gibt es in Titisee-Neustadt?",
+"optionen": [
+"eine Autobahnausfahrt am Stadtrand",
+"einen Flugplatz für Segelflieger",
+"einen Bahnhof mit abzweigender Bahnstrecke",
+"eine Standseilbahn auf den Hausberg"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Segelflugplatz klingt nach Hochschwarzwald, wo Flieger die Aufwinde über den Höhen suchen. Tatsächlich zweigt am Bahnhof Titisee von der Höllentalbahn die Dreiseenbahn nach Seebrugg ab. Für eine Stadt mit knapp 13.000 Einwohnern sind zwei Bahnhöfe viel; laut Stadt brachte die Höllentalbahn die Urlauber in Scharen nach Titisee. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "75-titisee-neustadt/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "mittelalterliche Gründungsstadt mit Salzprivileg",
+"rang": 6,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Titisee-Neustadt",
-"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
+"steckbrief": "Knapp 13.000 Einwohner, 29 km östlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Bis zur Gemeindereform hieß die Stadt noch Neustadt.",
-"Die Höllentalbahn erreichte Donaueschingen noch vor Neustadt.",
-"In Neustadt arbeiteten einst Strohflechterinnen in einer Strohhutfabrik."
+"Neustadt bekam seinen Namen nach einem Großbrand.",
+"Neustadt war im Mittelalter eine privilegierte Salzstadt.",
+"Beim heutigen Friedhof stand einst das Hochgericht."
 ],
 "art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Strohflechterinnen klingen erfunden, sind aber belegt. Gelogen war die Bahn: Sie erreichte zuerst Neustadt, Donaueschingen erst später. Titisee-Neustadt heißt die Stadt tatsächlich erst seit der Gemeindereform. Die Lüge war 2.",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Neuanfang nach einem Brand klingt einleuchtend, denn ein Großbrand zerstörte tatsächlich viele alte Häuser. Der Name ist aber älter: Die Fürstenberger gründeten im Mittelalter die „Nuwenstatt“, die neue Stadt; sie bildete den Mittelpunkt ihrer „Herrschaft über Wald“. Ein Hochgericht war eine Richtstätte. Mit Salzhandel und Gericht war Neustadt ein Mittelpunkt der Gegend. Die Lüge war 1.",
 "quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
 "faktencheck": "korrigiert",
-"id": "75-titisee-neustadt/v0.8/3",
+"id": "75-titisee-neustadt/v0.9/6",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Titisee-Neustadt",
-"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
-"frage": "Im Jahr 1817 brannte die ganze Stadt Neustadt. Wodurch wurde der Stadtbrand nach der Ortsgeschichte angeblich ausgelöst?",
-"optionen": [
-"Ein Blitz schlug in den Kirchturm ein.",
-"In einer Backstube geriet der Ofen außer Kontrolle.",
-"Brandstifter legten aus Rache mehrere Feuer.",
-"Soldaten hantierten im Stall mit offenem Feuer."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Blitzschlag liegt nahe, denn so begannen früher viele Stadtbrände. Hier aber sollen kaiserliche Soldaten im Stall mit offenem Feuer hantiert und das Heu in Brand gesetzt haben. Viele Familien wurden obdachlos. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
-"faktencheck": "korrigiert",
-"id": "75-titisee-neustadt/v0.8/5",
-"tisch": false
-},
-{
+"facette": "LAGE",
+"charakteristikum": "weite Gemarkung mit sechs Ortsteilen",
+"rang": 9,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Titisee-Neustadt",
-"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
-"frage": "Wie weit ist es von Titisee-Neustadt in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"steckbrief": "Knapp 13.000 Einwohner, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Zur Stadt gehören sechs Ortsteile, darunter Titisee und Neustadt. Wie groß ist die Fläche der Gemarkung?",
 "optionen": [
-"unter 130 km",
-"130 bis unter 160 km",
-"160 bis unter 190 km",
-"190 km und mehr"
+"80 bis unter 110 km²",
+"50 bis unter 80 km²",
+"30 bis unter 50 km²",
+"unter 30 km²"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer von Freiburg aus denkt, rechnet die Strecke nach Osten noch obendrauf. Doch Stuttgart liegt nordöstlich, und der Weg nach Osten führt schon ein Stück in seine Richtung: 120 km Luftlinie. Richtig war 1.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt schätzt man die Fläche leicht kleiner. Titisee-Neustadt misst aber 89,64 Quadratkilometer, denn neben Neustadt und Titisee gehören die Ortsteile Waldau, Langenordnach, Schwärzenbach und Rudenberg dazu. Mit rund 144 Einwohnern je Quadratkilometer wohnt man entsprechend locker, verteilt über Täler und Höhen. Richtig war 1.",
+"quelle": "GRUNDDATEN, Wikidata P2046; Altbestand staedte.json (Ortsteile: Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten)",
 "faktencheck": "bestätigt",
-"id": "75-titisee-neustadt/v0.8/6",
+"id": "75-titisee-neustadt/v0.9/7",
 "tisch": false
 },
 {
-"familie": "C",
+"facette": "ALLTAG",
+"charakteristikum": "jeder dritte Arbeitsplatz im Tourismus",
+"rang": 5,
+"familie": "A",
 "sorte": "Geschichte",
 "ort": "Titisee-Neustadt",
-"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
-"frage": "Im Ortsteil Titisee mit Jostal leben gut 2.000 Menschen. Wie viele Übernachtungen zählte er im Jahr 2020?",
+"steckbrief": "Knapp 13.000 Einwohner, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Jedes Jahr kommen Millionen Gäste nach Titisee-Neustadt. Welchen Anteil der Arbeitsplätze stellt laut Stadt der Tourismus?",
 "optionen": [
-"unter 100.000",
-"100.000 bis unter 400.000",
-"400.000 bis unter 1 Million",
-"1 Million und mehr"
+"Der Tourismus stellt jeden zehnten Arbeitsplatz.",
+"Der Tourismus stellt jeden fünften Arbeitsplatz.",
+"Der Tourismus stellt jeden dritten Arbeitsplatz.",
+"Der Tourismus stellt jeden zweiten Arbeitsplatz."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Jeden zweiten zu tippen liegt nahe, wenn man an Seeufer, Schanze und Badeparadies denkt. Laut Stadt stellt der Tourismus aber jeden dritten Arbeitsplatz. Er prägt die Stadt bis heute, Lebens- und Urlaubsqualität nennt sie ihre Aushängeschilder. In einer Stadt mit knapp 13.000 Einwohnern prägen Gäste so den Alltag, tragen ihn aber nicht allein. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/wirtschaft-handel/uebersicht; www.titisee-neustadt.de/freizeit-kultur/tourismus",
+"faktencheck": "korrigiert",
+"id": "75-titisee-neustadt/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "See mit dem Namen eines Alemannen",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Knapp 13.000 Einwohner, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Woher hat der Titisee laut Stadt seinen Namen?",
+"optionen": [
+"Von einem keltischen Wort für Wasser.",
+"Von einem alemannischen Anführer.",
+"Von einem Mönch, der am Ufer lebte.",
+"Von einem Fischerdorf, das im See versank."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Für einen Ortsteil von gut zweitausend Menschen wirkt schon eine sechsstellige Zahl kühn. Doch Titisee mit Jostal zählte 368.493 Übernachtungen, weit mehr als der viel einwohnerstärkere Ortsteil Neustadt. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/stadtteile",
-"faktencheck": "korrigiert",
-"id": "75-titisee-neustadt/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Titisee-Neustadt",
-"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
-"frage": "Noch vor der Gründung Neustadts lag auf der heutigen Gemarkung das Dorf Honfirst. Zu wessen Umfeld gehörten seine Gründer?",
-"optionen": [
-"Sie gehörten zum Umfeld des Klosters St. Gallen.",
-"Sie gehörten zum Umfeld des Klosters Fulda.",
-"Sie gehörten zum Gefolge des Kölner Erzbischofs.",
-"Sie gehörten zum Umfeld des Klosters Corvey."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Große Namen wie Fulda oder Köln wirken verlockend, weil sie weit verstreuten Besitz hatten. Die Ortsgeschichte nennt aber Kleinadlige aus dem Umfeld des Klosters St. Gallen in der heutigen Schweiz. Vieles spricht dafür, dass zum Dorf eine Burg Honvirst auf dem heutigen Burgkopf gehörte. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
-"faktencheck": "korrigiert",
-"id": "75-titisee-neustadt/v0.8/9",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Titisee-Neustadt",
-"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
-"frage": "Bei Waldau kamen Fundamente einer Römerstraße zum Vorschein. Wie stieß man auf sie?",
-"optionen": [
-"Ein Hochwasser spülte sie aus dem Boden.",
-"Ein Bauer stieß beim Pflügen auf sie.",
-"Ein Sturm legte sie unter Wurzeln frei.",
-"Bauarbeiter stießen beim Straßenbau auf sie."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Pflügende Bauern sind die klassischen Finder alter Mauern. Hier aber kamen die Fundamente beim Bau der B 500 ans Licht. Die Römerstraße führte von Hüfingen in den Breisgau, über die Hochebene im heutigen Ortsteil Schwärzenbach bis zum Thurner. Richtig war 4.",
+"rueckseite": "Du hattest [Option] getippt. Kelten liegen nahe, denn laut Stadt lebten hier früh keltische Sippen. Der Name geht aber auf den alemannischen Anführer Titin zurück, der in Titinshusen lebte, dem heutigen Dittishausen. Wer am Ufer steht, blickt also auf einen See, der seit vielen Jahrhunderten den Namen eines Mannes trägt. Richtig war 2.",
 "quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
 "faktencheck": "bestätigt",
-"id": "75-titisee-neustadt/v0.8/10",
+"id": "75-titisee-neustadt/v0.9/9",
 "tisch": false
 }
 ],
@@ -12312,6 +12592,32 @@ window.QA_DATEN = {
 },
 "ags": "08315113",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Titisee-Neustadt liegt 29 km östlich von Freiburg, gut 840 Meter hoch, am Titisee und an der Gutach."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Ein Kapuzinerkloster ist als Klösterle erhalten, das neugotische Münster St. Jakobus gilt als Wahrzeichen; seit 1971 heißt die Stadt Titisee-Neustadt."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 12.900 Einwohner leben in sechs Ortsteilen; Arbeit geben Tourismus, Papierfabrik und Helios-Klinik, früher auch die Uhrmacherei."
+},
+{
+"facette": "FREIZEIT",
+"text": "Hochfirstschanze und Mattenschanze, Badeparadies Schwarzwald, Freibad, Badestelle am See, Felsele-Erlebniswald, Märklin World, Heimatstuben, Westweg und Mittelweg."
+},
+{
+"facette": "INFRA",
+"text": "Zwei Bahnhöfe an der Höllentalbahn, Neustadt und Titisee; dazu die B 31 mit der Gutachtalbrücke, eine Klinik und ein Amtsgericht."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 33 Prozent vorn, dahinter die AfD mit 19,1 Prozent."
+}
+],
 "km_vom_vorigen": 8.5
 },
 {

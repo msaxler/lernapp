@@ -1,0 +1,966 @@
+ZIELORT: Hinterzarten (Gemeinde)
+LAGE: 21 km südöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Hinterzarten
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 2521  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 33,37  [Wikidata P2046]
+  dichte_ew_km2: 76  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 885 | 895 | 893  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2903889)]
+  naechste_grossstadt: Freiburg im Breisgau, 21 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 126 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Hinterzarten  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79856  [Wikidata P281]
+  vorwahl: 07652  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35,3 %, GRÜNE 20,5 %, SPD 12,6 %, AfD 12,2 %, FDP 6,2 %, Die Linke 6 %; Wahlbeteiligung 88,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 88,2 %, Abstand 4,8 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+  buergermeister: Christoph Franke — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-06]
+  partnerstaedte: Eguisheim  [Wikidata P190]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Klinik: Klinik in der Zarten
+  Klinik: Földi Klinik
+  Natur: Straßburger Brünnele
+  Freizeit: Naturerlebnispfad Barfusspfad
+  Freizeit: Liegehaus
+  Freizeit: Glockenspiel
+  Freizeit: Kingenhofsäge
+  Freizeit: Adler-Skistadion (ski jumping)
+  Freizeit: Golfclub Hochschwarzwald e.V.
+  Gipfel: Windeck (1209 m)
+  Gipfel: Eckle (1114 m)
+  Gipfel: Kesslerhöhe (1015 m)
+  Gipfel: Bankgallihöhe (1210 m)
+  Gipfel: Wiesenwaldkopf (1278 m)
+  Gipfel: Kaspelskopf (1176 m)
+  Gipfel: Winterhalde (1036 m)
+  Gipfel: Bistenkopf (1118 m)
+  Sportstätte: Scheibenfels (climbing)
+  Sportstätte: Rothaus-Schanze (ski jumping)
+  Sportstätte: Energiedienst-Schanze (ski jumping)
+  Sportstätte: Europa-Park-Schanze (ski jumping)
+  Sportstätte: Schülerschanze (ski jumping)
+  Burg/Denkmal: Pfadfinderdenkmal
+  Burg/Denkmal: Gedenkstein Stefan Kozlowski
+  Aussicht: Vinzenz Zahn
+  Aussicht: Windeckkopf
+  Aussicht: Aussichtspunkt Bisten
+  Bahnhof: Hinterzarten (885 m)
+  Museum: Museum für alte Landtechnik
+  Museum: Schwarzwälder Skimuseum im Hugenhof
+  Museum: Bankenhof
+  Gewässer: Zartenbach
+  Gewässer: Seebach
+  Schutzgebiet: Hinterzartener Moor (seit 1941)
+  Schutzgebiet: Feldberg
+  Schutzgebiet: Unteres Seebachtal (seit 2008)
+  Schutzgebiet: Bisten (seit 1975)
+  Schutzgebiet: Erlenbruckmoor (seit 1942)
+  Schutzgebiet: Eschengrundmoos (seit 1984)
+  Schutzgebiet: Biosphärengebiet Schwarzwald (Kernzone)
+  Schutzgebiet: Biosphärengebiet Schwarzwald
+  Betrieb: Kläranlage Hinterzarten
+  Betrieb: Jockeleshofmühle
+  Betrieb: Hochgangsäge
+  Wanderweg: Westweg (Westliche Variante)
+  Wanderweg: Westweg (Östliche Variante)
+  Wanderweg: Emil-Thoma-Weg
+  Wanderweg: Westweg (Variante Feldberger Hof)
+  Wanderweg: Main-Neckar-Rhein-Weg (94 km)
+  Wanderweg: Naturerlebnispfad Hinterzarten (1.5 km)
+  Radweg: Südschwarzwald-Radweg (269 km)
+
+PLAN:
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 1
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, A, wahre Option an Stelle 2
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, D, wahre Option an Stelle 3
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 4
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 2
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Buchenbach (Gemeinde)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 3153  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 38,98  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 447 | 590 | 420 | 449 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2942614)]
+  naechste_grossstadt: Freiburg im Breisgau, 12 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,7 %, GRÜNE 18,3 %, AfD 14,8 %, SPD 14,2 %, Die Linke 6,9 %; Wahlbeteiligung 89,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 89,8 %, Abstand 6,4 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Ebnet, Littenweiler, Merzhausen, Au, Ebringen, Schallstadt, Bad Krozingen, Heitersheim, Müllheim, Waldkirch, Hochdorf, March, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig, Breitnau, Kirchzarten
+
+FAKTEN (Zielort Hinterzarten):
+ID: 74-hinterzarten/001
+ENTITÄT: ort
+BEZEICHNUNG: Hinterzarten
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  entfernung_von_freiburg: 25 [km], richtung: östlich
+  landesteil: Südschwarzwald
+  hoechste_erhaebung: 1400 [m ü. NN]
+  niedrigste_erhaebung: 740 [m ü. NN]
+  naturpark: Naturpark Südschwarzwald
+  gewaesser: Zartenbach
+  gesamtflaeche: 3337 [ha]
+  waldflaeche: 2432 [ha]
+  landwirtschaftsflaeche: 604 [ha]
+  siedlungs_verkehrsflaeche_anteil: 6.2 [%]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/002
+ENTITÄT: ort
+BEZEICHNUNG: Hinterzarten
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung_heute: Tourismusort
+  charakterisierung_urspruenglich: Bauerndorf
+  wechsel_zu_tourismus_grund_1: Höllentalbahn-Bau 1887
+  wechsel_zu_tourismus_grund_2: Prädikatisierung zum heilklimatischen Kurort 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/003
+ENTITÄT: ort
+BEZEICHNUNG: Hinterzarten
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  namensherkunft: Zusammensetzung der Namen "Hinter der Straß" (wegen Höllental-Straße) und "in der Zarten" (Wallfahrtskirche Maria in der Zarten) bis ca. 1750
+  genauigkeit_namensherkunft: "bis ungefähr 1750"
+GUELTIG_BIS: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/004
+ENTITÄT: ort
+BEZEICHNUNG: Hinterzarten
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  herrschaftliche_zugehoerigkeit_phase_1: Falkenstein
+  herrschaftliche_zugehoerigkeit_phase_2: Schnewlin
+  herrschaftliche_zugehoerigkeit_phase_3: Sickingen, 1588-1810
+  herrschaftliche_zugehoerigkeit_phase_4: Großherzogtum Baden, ab 1810
+  herrschaftliche_zugehoerigkeit_phase_5_teilweise: Herren von Pfirt (Anteil), später Freifrau Meyronnet, 1844 zu Posthalter und Gastwirt
+GUELTIG_AB: 1588
+GUELTIG_BIS: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/005
+ENTITÄT: ort
+BEZEICHNUNG: Hinterzarten
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl_1820: 766
+  beschaeftigung_1820_1: Viehzucht
+  beschaeftigung_1820_2: Holzwirtschaft
+  beschaeftigung_1820_3: Herstellung hölzerner Uhren
+  beschaeftigung_1820_4: Herstellung von Löffeln
+GUELTIG_AB: 1820
+GUELTIG_BIS: 1820
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/006
+ENTITÄT: kurort
+BEZEICHNUNG: Hinterzarten
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  status: Heilklimatischer Kurort
+  grund: Jahresniederschlag 1406 mm im oberen Zehntel, kühles Hochgebirgsklima
+  gueltig_ab_jahr: 1964
+  bedeutung_fuer_ort: essentiell für tourismusgeprägten Charakter des Ortes
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/007
+ENTITÄT: schlucht
+BEZEICHNUNG: Ravennaschlucht
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Bewaldete Schluchtenlandschaft entlang des Ravenna-Bachs
+  funktion: Wanderziel
+  bedeutung_fuer_ort: bekanntes Wanderziel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/008
+ENTITÄT: wanderweg
+BEZEICHNUNG: Säbelthomaweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Ortssheriff "Säbelthoma"
+  charakterisierung: Premium-Wanderweg
+  ziel_am_weg: Mathisleweiher
+  erstellung_jahr: 2019
+  erstellung_monat: Mai
+  bedeutung_fuer_ort: attraktive Wanderroute im Hochschwarzwald
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/009
+ENTITÄT: wanderweg
+BEZEICHNUNG: Gipfel-Trail
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: anspruchsvoll
+  laenge: 16 [km]
+  startpunkt: Titisee
+  endpunkt: Nordhang des Feldbergs
+  verlauf_durch: Hinterzarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/010
+ENTITÄT: wanderweg
+BEZEICHNUNG: Schwarzwald-Querweg Freiburg–Bodensee
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Fernwanderweg für Fernwanderer attraktiv
+  verlauf_durch: Hinterzarten
+  startpunkt: Freiburg im Breisgau
+  endpunkt: Bodensee/Konstanz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/011
+ENTITÄT: wanderweg
+BEZEICHNUNG: Westweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Fernwanderweg für Fernwanderer attraktiv
+  teil_von: Europäischer Fernwanderweg E1 (Nordkap bis Süditalien)
+  startpunkt: Pforzheim
+  endpunkt: Basel
+  verlauf_durch: Hinterzarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/012
+ENTITÄT: museum
+BEZEICHNUNG: Schwarzwälder Skimuseum im Hugenhof
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  location_gebaeude: Hugenhof
+  gebaeude_baujahr: 1446
+  museum_eroeffnung: 1997
+  inhalt: dokumentiert frühe Entwicklung des Skisports im Hochschwarzwald
+  bedeutung_fuer_ort: unterstreicht Wintersport-Bedeutung des Ortes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/013
+ENTITÄT: sportstadion
+BEZEICHNUNG: Adler-Skistadion
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  besonderheit: bekannt
+  hauptanlage: Rothaus-Schanze
+  nebenanlagen: drei Nachwuchsschanzen
+  wettkampf_seit_2023: FIS Skisprung-Weltcup der Frauen
+  bedeutung_fuer_ort: unterstreicht Wintersport-Bedeutung des Ortes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/014
+ENTITÄT: skisprungschanze
+BEZEICHNUNG: Rothaus-Schanze
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  location: Adler-Skistadion
+  status_seit_2023: renoviert, FIS Skisprung-Weltcup der Frauen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/015
+ENTITÄT: skisprungschanze
+BEZEICHNUNG: Kirchwaldschanze
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr: 1923
+  charakterisierung: erste Skisprungschanze im Ort
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/016
+ENTITÄT: skisprungschanze
+BEZEICHNUNG: Adlerschanze
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr: 1924
+  umwandlung_jahr: 1981
+  umwandlung_zu: Mattensprungschanze
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/017
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Nordische Junioren-Skiweltmeisterschaft 2010
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  durchfuehrungsdatum: 24.-31. Januar 2010
+  austragungsort: Hinterzarten
+GUELTIG_AB: 2010
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/018
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Fernskiwanderweg Schonach–Belchen
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 100 [km]
+  charakterisierung: längster Skiwanderweg im Schwarzwald
+  verlauf_durch: Hinterzarten
+  kleine_rucksacklauf_distanz: 60 [km]
+  kleine_rucksacklauf_startort: Schonach
+  kleine_rucksacklauf_termin_monat: Februar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/019
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Fernskiwanderweg Hinterzarten–Schluchsee
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 32 [km]
+  startort: Hinterzarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/020
+ENTITÄT: museum
+BEZEICHNUNG: Museum für alte Landtechnik im Bankenhof
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Bruderhalde
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  location_gebaeude: Bankenhof
+  gebaeude_alter: über 400 Jahre
+  museum_eroeffnung: 2004
+  inhalt: alte landwirtschaftliche Geräte und Maschinen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/021
+ENTITÄT: museum
+BEZEICHNUNG: Spielzeugmuseum "Zum kleinen Hannes"
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  location_in_naehe_von: Adlerschanze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 74-hinterzarten/022
+ENTITÄT: museum
+BEZEICHNUNG: Feuerwehrmuseum Bruderhalde
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Bruderhalde
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: klein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 74-hinterzarten/023
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Maria in der Zarten
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  urkundliche_erwaehnung_als_st_oswaldkapelle: 1148
+  bauteile_mittelalter: vorhanden
+  bauteile_barock: vorhanden
+  bauteile_modern_baujahre: 1962-1963
+  bedeutung_fuer_ort: Keimzelle der Hinterzartener Pfarrgemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/024
+ENTITÄT: wallfahrtsort
+BEZEICHNUNG: Maria in der Zarten
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 13. Jahrhundert
+  grund: Schwefelquelle versprach heilende Wirkung
+  verifikation_mineralgehalt: konnte später nicht nachgewiesen werden
+  genauigkeit_grund: vermutlich
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 74-hinterzarten/025
+ENTITÄT: quelle
+BEZEICHNUNG: Schwefelquelle (Schwefelmatte)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  location: zwischen Erlenbrucker Straße und Zartenbach
+  heilungsversprechen: 13. Jahrhundert
+  mineralgehalt_nachweis: später nicht nachweisbar
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 74-hinterzarten/026
+ENTITÄT: bauwerk
+BEZEICHNUNG: Gasthof Sternen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr_urspruenglich: 1446
+  erneuerung_jahr: 1806
+  charakterisierung: Gastwirtschaft
+  erwerb_durch_baden: 1910
+  erwerb_mit_waldungen: ja
+GUELTIG_AB: 1446
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/027
+ENTITÄT: uhrmacher
+BEZEICHNUNG: Jacob Herbstreith
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum_taetig: um 1790
+  produkt: Jockele-Uhren
+  produkt_benennung: nach Vorname Jockel (Jacob)
+  produkt_ausstellung: Uhrenmuseum Furtwangen
+GUELTIG_AB: 1790
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 74-hinterzarten/028
+ENTITÄT: produkt
+BEZEICHNUNG: Jockele-Uhren
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  herstellung_zeitraum: um 1790
+  hersteller: Jacob Herbstreith
+  benannt_nach: Vorname des Uhrmachers (Jockel)
+  ausstellung_in: Uhrenmuseum Furtwangen
+GUELTIG_AB: 1790
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 74-hinterzarten/029
+ENTITÄT: ereignis_kriegsende
+BEZEICHNUNG: Kriegsende Zweiter Weltkrieg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  datum: 27. April 1945
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/030
+ENTITÄT: konferenz
+BEZEICHNUNG: Hochschulreformkonferenz
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  monat_jahr: August 1952
+  charakterisierung: erste Hochschulreformkonferenz nach Gründung der Bundesrepublik
+  austragungsort: Hinterzarten
+GUELTIG_AB: 1952
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/031
+ENTITÄT: forschungskreis
+BEZEICHNUNG: Hinterzartener Kreis für Krebsforschung
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1950er Jahre
+  gruender_1: Hermann Druckrey
+  gruender_2: Adolf Butenandt
+  zweck: Diskussion über Ergebnisse und Ausrichtung der onkologischen Grundlagenforschung
+  haeufigkeit: einmal im Jahr
+  lokalitaet: ländliche Abgeschiedenheit
+  foerderung_durch: Deutsche Forschungsgemeinschaft
+  foerderung_unabhaengig_vom: aktuellem Tagungsort
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/032
+ENTITÄT: ereignis_unfall
+BEZEICHNUNG: Unfall Elektrische Victoria
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  datum_jahr: 2010
+  objekt: Nachbau Siemens-Elektrowagen "Elektrische Victoria"
+  herstellung_ort: Hinterzarten
+  ereignis: Unfall während Probefahrt gegen Böschung
+  folge_toedlich: Projektleiter Professor Wilfried Feldenkirchen
+  folge_verletzungen: vier mitfahrende Studenten (zum Teil schwer)
+GUELTIG_AB: 2010
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/033
+ENTITÄT: klinik
+BEZEICHNUNG: Földiklinik
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  fruehere_bezeichnung: Hotel Weißes Rössle
+  spezialisierung: Lymphologie
+  beschaeftigte_anzahl: 165
+  bedeutung_fuer_ort: größter Arbeitgeber in der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/034
+ENTITÄT: klinik
+BEZEICHNUNG: Klinik in der Zarten
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  spezialisierung: psychotherapeutisch-psychosomatische Behandlung psychischer Erkrankungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/035
+ENTITÄT: schule
+BEZEICHNUNG: Georg-Thoma-Schule
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  charakterisierung: offene Ganztags-Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/036
+ENTITÄT: gymnasium
+BEZEICHNUNG: Internatsgymnasium Birklehof
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Gymnasium (weiterführende Schule)
+  charakterisierung: privat betrieben
+  unterkunft: Internat
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/037
+ENTITÄT: kindergarten
+BEZEICHNUNG: Katholischer Kindergarten St. Josef
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  erweiterung_seit_mai_2014: Plätze für Kinder zwischen einem und drei Jahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 74-hinterzarten/038
+ENTITÄT: kindergarten
+BEZEICHNUNG: Waldkindergarten
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_seit: April 2019
+  plaetze: 20
+  alter_zielgruppe: ab drei Jahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 74-hinterzarten/039
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Hinterzarten
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 885 [m]
+  bahnlinie: Höllentalbahn
+  location_im_ort: Ortskern
+  hoellentalbahn_route: Freiburg – Titisee – Neustadt – Donaueschingen
+  taktzahl_werktags: Halbstundentakt nach Freiburg, Titisee, Neustadt; Stundentakt nach Donaueschingen, Villingen-Schwenningen, Seebrugg
+  taktzahl_sonn_feiertag: 20-Minuten-Takt
+  s_bahn_integration_seit: Dezember 2019
+  s_bahn_linie: S1 Breisgau-S-Bahn
+  s_bahn_verbindung: Breisach am Rhein – Endingen am Kaiserstuhl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/040
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Höllentalbahn
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1887
+  bedeutung_fuer_ort: wesentlich beigetragen zum Wechsel vom Bauerndorf zu Tourismusort
+  route: Freiburg – Titisee – Neustadt – Donaueschingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/041
+ENTITÄT: radweg
+BEZEICHNUNG: Südschwarzwald-Radweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 269 [km]
+  charakterisierung: Rundweg
+  route: Waldshut-Tiengen – Basel – Freiburg – Hinterzarten
+  besonderheit_ab_hinterzarten: bis Freiburg fast durchgehend bergab
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/042
+ENTITÄT: radweg
+BEZEICHNUNG: Dreiseenradweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  abschnitt_teilweise_identisch: Südschwarzwald-Radweg (zwischen Oberried und Titisee)
+  weitere_ziele: Windgfällweiher, Schluchsee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 74-hinterzarten/043
+ENTITÄT: radweg
+BEZEICHNUNG: Radweg der Grünen Straße
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  route_grenzen: Neustadt – Contrexéville im Elsass
+  verbindung: Titisee – Neustadt – Hinterzarten – Alpersbach – Falkensteig – Kirchzarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 74-hinterzarten/044
+ENTITÄT: radweg
+BEZEICHNUNG: Schwarzwald-Bike-Crossing
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  route_grenzen: Pforzheim – Bad Säckingen
+  verbindung: Breitnau – Heiligenbrunnen – Hinterzarten – Titisee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 74-hinterzarten/045
+ENTITÄT: bundesstrasse
+BEZEICHNUNG: Bundesstraße 31
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  route_grenzen: Breisach – Lindau am Bodensee
+  teil_von: Grüne Straße
+  geplante_verbesserung: 4-streifiger Ausbau mit Tunnel
+  tunnel_laenge: 3.8 [km]
+  tunnel_route_beginn: östlich Hinterzartener Hochmoor
+  tunnel_route_ende: Löffeltalkurve bei Hofgut Sternen
+  geplante_kosten_stand_2014: 224.1 [Mio. Euro]
+  planungsstand: Bundesverkehrswegeplan 2030 (Weiterer Bedarf)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 74-hinterzarten/046
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Hinterzartener Moor
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  schutzstatus: NSG
+GUELTIG_AB: 1941
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/047
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Feldberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  schutzstatus: NSG (teilweise auf Hinterzartener Gebiet)
+  hoehe: 1493 [m ü. NN]
+  superlativ: höchste Erhebung des Schwarzwaldes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/048
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Unteres Seebachtal
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  schutzstatus: NSG (teilweise auf Hinterzartener Gebiet)
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 74-hinterzarten/049
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Bisten
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  schutzstatus: NSG
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/050
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Erlenbruckmoor
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  schutzstatus: NSG
+GUELTIG_AB: 1942
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/051
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Eschengrundmoos
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  schutzstatus: NSG
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 74-hinterzarten/052
+ENTITÄT: biosphaerengebiet
+BEZEICHNUNG: Biosphärengebiet Schwarzwald
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  anerkennung_jahr: 2017
+  anerkennung_durch: UNESCO
+  schutzstatus_auf_hinterzartener_gebiet: Kernzone (Bannwald "Seewald")
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/053
+ENTITÄT: naturerlebnispfad
+BEZEICHNUNG: Naturerlebnispfad Hinterzarten
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: seit 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 74-hinterzarten/054
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Eguisheim
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  land: Elsass (Frankreich)
+  beziehung_freundschaft_seit: 1969
+  beziehung_jumelage_seit: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/055
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Verwaltungsgemeinschaft Hinterzarten-Breitnau
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  partner: Breitnau
+  gruendung: 1974
+  besonderheit: Regelung, dass keine Gemeinde Flächennutzungsplan-Änderungen ohne Zustimmung der anderen durchsetzen kann
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/056
+ENTITÄT: gemeinderat
+BEZEICHNUNG: Gemeinderat Hinterzarten
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  zusammensetzung: Bürgermeister als Vorsitzender + 12 ehrenamtliche Mitglieder
+  amtszeit_ehrenamtliche: 5 Jahre
+  kommunalwahl_2024_datum: 9. Juni 2024
+  kommunalwahl_2024_gewinner: Liste für Hinterzarten
+  kommunalwahl_2024_sitze: 12 (von 12)
+  kommunalwahl_2024_besonderheit: einzig angetretene Liste
+  wahlbeteiligung_2024: 66 [%]
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/057
+ENTITÄT: buergermeister
+BEZEICHNUNG: Christoph Franke
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_beginn: 2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 74-hinterzarten/058
+ENTITÄT: buergermeister
+BEZEICHNUNG: Klaus-Michael Tatsch
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 2010-2026
+GUELTIG_AB: 2010
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 74-hinterzarten/059
+ENTITÄT: feuerwehrhotel
+BEZEICHNUNG: Feuerwehrhotel Sankt Florian
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Bruderhalde
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  traeger: Landesfeuerwehrverband Baden-Württemberg
+  funktion: Erholungseinrichtung
+  location_naehe: Titisee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 74-hinterzarten/060
+ENTITÄT: jugendherberge
+BEZEICHNUNG: Jugendherberge Veltishof
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Bruderhalde
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  location_lage: gegenüber vom Feuerwehrhotel Sankt Florian
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 74-hinterzarten/061
+ENTITÄT: sportverein
+BEZEICHNUNG: Sportverein Hinterzarten
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  sport: Fußball
+  mannschaft_liga: Fußball-Bezirksliga Schwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 74-hinterzarten/062
+ENTITÄT: musik_festival
+BEZEICHNUNG: Wolfgang-Marschner-Musik-Festival
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1976
+  gruender: Wolfgang Marschner (Freiburger Geigenprofessor)
+  haeufigkeit: jährlich
+  inhalt: Klassik-Konzerte mit internationalen jungen Virtuosen
+  ausfall_jahre: 2019, pandemiebedingt 2020
+  wiederaufnahme: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 74-hinterzarten/063
+ENTITÄT: markt
+BEZEICHNUNG: Bauernmarkt
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  haeufigkeit: wöchentlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 74-hinterzarten/064
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Black Forest Ultra Bike Marathon
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  startpunkt: Hinterzarten
+  durchfuehrung_bis: 2019
+  haeufigkeit: jährlich
+  bestandteile: Short Track und Power Track
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 74-hinterzarten/065
+ENTITÄT: waldkindergarten
+BESCHREIBUNG: wird bereits unter kindergarten aufgeführt
+ENTITÄT: loipenzentrum
+BEZEICHNUNG: Loipenzentrum Hinterzarten
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  location: Ortskern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 74-hinterzarten/066
+ENTITÄT: skigebiet
+BEZEICHNUNG: Alpines Skigebiet Alpersbach
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Alpersbach
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  liftzahl: 3
+  charakterisierung: überwiegend für lokalen Skilauf nutzbar
+  grund_limitierung: häufig fehlende Schneesicherheit in den letzten Jahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 74-hinterzarten/067
+ENTITÄT: kloeppfsaege
+BEZEICHNUNG: Kingenhofsäge
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Löffeltal
+QUELLE: https://de.wikipedia.org/wiki/Hinterzarten | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: eine der wenigen erhaltenen Klopfsägen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+

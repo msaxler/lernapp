@@ -1,6 +1,7 @@
 ID: 72-oberried/001
 ENTITÄT: ort
 BEZEICHNUNG: Oberried
+FACETTE: LAGE | GESCHICHTE | ALLTAG | INFRA | POLITIK
 QUELLE: https://www.oberried.de/p/zahlen-daten-fakten | Gemeinde-Webseite
 EIGENSCHAFTEN:
   bundesland: Baden-Württemberg
@@ -9,458 +10,541 @@ EIGENSCHAFTEN:
   postleitzahl: 79254
   vorwahlen: 07661, 07602
   ortsteile: Hofsgrund, St. Wilhelm, Zastler
-  bevoelkerung: 2840
-  bevoelkerung_maennlich: 1410
-  bevoelkerung_weiblich: 1430
-  flaeche_gesamt_ha: 6632
-  flaeche_siedlung_verkehr_prozent: 3
-  flaeche_wald_prozent: 75
-  flaeche_landwirtschaft_prozent: 21
-  bevoelkerungsdichte_einwohner_km2: 43
+  flaeche_ha: 6632
+  waldflaeche_prozent: 75
+  siedlungs_verkehrsflaeche_prozent: 3
+  landwirtschaftsflaeche_prozent: 21
+  bevoelkerung_2023: 2840
+  bevoelkerung_maennlich_2023: 1410
+  bevoelkerung_weiblich_2023: 1430
+  bevoelkerungsdichte_pro_qkm: 43
 GUELTIG_AB: 2023
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 1.0
 ---
 ID: 72-oberried/002
 ENTITÄT: ort
+FACETTE: GESCHICHTE
 QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  besiedlung_epoche: frühes 12. Jahrhundert
-  besiedlung_beschreibung: Tal "ob dem Ried" besiedelt
-  kloester_bedeutung: Kloster St. Gallen und St. Peter hatten frühe Rechte
-  entwicklung_grundherrschaft: grundherrliche Rechte allmählich in adelige Hände
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
----
-ID: 72-oberried/003
-ENTITÄT: buergermeister
-BEZEICHNUNG: Franz-Josef Winterhalter
-QUELLE: https://www.oberried.de/p/historie | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  zeitraum: 2010-2011
-  projekt: Restaurierung Klosterscheune
-GUELTIG_AB: 2010
-GUELTIG_BIS: 2011
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 72-oberried/004
-ENTITÄT: buergermeister
-BEZEICHNUNG: Klaus Vosberg
-QUELLE: https://www.oberried.de/p/zahlen-daten-fakten | Gemeinde-Webseite
-GUELTIG_AB: 2023
+  besiedlung_ab: 12. Jahrhundert, Frühzeit
+  erstwaehnungJahr: 1237
+  gründung_grund: Geheiß des Dompropsts von Straßburg Rudolf von Tengen zur Gründung eines Zisterzienerinnenklosters im Wilhelmertal
+  verwaltung_ab_1806: Großherzogtum Baden
+  vereinigung_ab_1819: Vereinigtes Amt Freiburg
+  kreisangehoerigkeit_ab_1939: Landkreis Freiburg
+  kreisangehoerigkeit_ab_1974: Landkreis Breisgau-Hochschwarzwald
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
+ID: 72-oberried/003
+ENTITÄT: buergermeister
+BEZEICHNUNG: Klaus Vosberg
+FACETTE: POLITIK
+QUELLE: https://www.oberried.de/p/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtsantritt: 2013
+  waehlerische_stabilitaet: 66,63% Zustimmung 2021
+  amtsbestaetigung: Januar 2021
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 72-oberried/004
+ENTITÄT: buergermeister
+BEZEICHNUNG: Franz-Josef Winterhalter
+FACETTE: POLITIK
+QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_dauer: 24 Jahre
+  nachfolger: Klaus Vosberg
+GUELTIG_BIS: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
 ID: 72-oberried/005
-ENTITÄT: gebaeude
-BEZEICHNUNG: Klosterscheune
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Oberried
+FACETTE: GESCHICHTE | LAGE
+QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründung_jahr: 1237, Zisterzienerinnen von Günterstal
+  übernahme_durch_wilhelmiten: 1252
+  vereinigung_priorat_freiburg: 1507, Verlassenschaft des Wilhelmertal-Klosters
+  neugründung_nach_dreissigjaerigem_krieg: 1682
+  neuerrichtung_kirche_und_konventsbau: 1684-1688
+  übernahme_benediktiner: 1724
+  eingliederung_st_blasien: 1725
+  aufloessung: 1806
+  barocke_klosterkirche_weihe: 1699
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 72-oberried/006
+ENTITÄT: klosterscheune
+BEZEICHNUNG: Klosterscheune Oberried
+FACETTE: KULTUR | FREIZEIT
 QUELLE: https://www.oberried.de/p/historie | Gemeinde-Webseite
 EIGENSCHAFTEN:
   frueherer_name: Riegelhaus
-  baujahr_original: 1684
-  funktion_original: kleine Klosterscheune östlich des Klosters
-  umnutzung: Bürger- und Kulturhaus
-  sanierung_jahre: 2010-2011
+  restauration_jahre: 2010-2011
   sanierungskosten_euro: 1750000
-  foerderung_euro: 730000
-  foerderung_quelle: Zukunftsinvestitionsprogramm der Bundesrepublik Deutschland
-  projektierung_bauleitung: Willi Sutter, Oliver Hug
+  foerderung_bundesrepublik_euro: 730000
   bauherr: Gemeinde Oberried
-  buergermeister: Franz-Josef Winterhalter
-  restauration_unter_denkmalschutz: true
-  einweihung: 2. Oktober 2011
-  wochenmarkt_seit: 2012
-  verkaeufer_1832: Mathias Ortlieb (Stockacher Weinhändler)
-  kaeufer_1842: Waldgenossenschaft Oberried
-  vorige_funktion: Sitz der staatlichen Forstinspection
-  versteigert_1850: Franz Sales Wiederle (Landwirt und Bürgermeister vom Adamshof im Zastler)
-  umbau_1850: Teilabriss und Umbau, Errichtung Scheune- und Stallgebäude
-  familienverbindung: Tochter Maria heiratete Karl Riegel vom Reesenbauernhof in Zarten, so Übergang in Familie Riegel
-  letzte_private_besitzer: Bruno Riegel (verstorben 2002), Erben Carmen und Frank Riegel
-  kaeufer_2007_gemeinde: Gemeinde Oberried
-  kaufpreis_2007_euro: 450000
-  foerderung_2007: 60% Zuschuss aus Landessanierungsprogramm Baden-Württemberg
+  umwandlung_zu: Bürger- und Kulturhaus
+  restauration_einweihung: 2. Oktober 2011
+  bedeutung_fuer_ort: Zentrum für Veranstaltungen (Wochenmarkt, Kunsthandwerkertag, Zwiebelkuchenfest)
+GUELTIG_AB: 2011
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
----
-ID: 72-oberried/006
-ENTITÄT: kloster
-BEZEICHNUNG: Kloster Oberried
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gruendung_initiative_1237: Herren von Tengen übertrugen Lehensbesitz an Nonnen von Günterstal
-  gruendungsbedingang: Bedingung: Klosterbau in Oberried
-  uebernahme_1252: Zisterzienserinnen (Wilhelmiten)
-  uebernahme_zustimmung_gemeinde: villani (Gemeinde Oberried und Vörlinsbach) stimmten zu
-  rechtliche_besonderheit: besondere Rechtsstellung der Bauern gegenüber Grundherrschaft
-  grundrechtserwerb_zeitraum: 13. Jahrhundert
-  grundrechtserwerb_raeume: Oberrieder Tal, St. Wilhelmer Tal, Hofsgrund
-  dingrodel_1296: Lehnsherren als freie Leute bezeichnet
-  dingrodel_erneuerungen: 1395, 1504, 1510
-  priorat_freiburg_1266: bezeugt; neues Priorat in Oberried gegründet durch Johannes von Urberg
-  vereinigung_priorate_1507: "im Wald" und Freiburg vereinigt, Kloster Oberried aufgegeben
-  kastvogtei_frueh: Schnewlin
-  vogtei_1496_bis_1681: Stadt Freiburg
-  vogtei_wilhelm: Österreich
-  wiederbesiedelung_1679: Wilhelmiten siedelten von Freiburg nach Oberried um nach Anfall Freiburgs an Frankreich
-  neubau_kirche_konvent: 1682-1688 neu errichtet
-  ortsbild: beherrschen auch heute noch das Ortsbild
-  inkorporation_1725: Priorat der Abtei St. Blasien einverleibt
-  aufloesung: 1806
-IST_VERMUTLICH_AKTUELL: false
-GUELTIG_AB: 1237
-GUELTIG_BIS: 1806
-VERTRAUEN_EXTRAKTION: 0.87
+VERTRAUEN_EXTRAKTION: 1.0
 ---
 ID: 72-oberried/007
-ENTITÄT: kirche
-BEZEICHNUNG: Kirche und Konventgebäude Oberried
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: markt
+BEZEICHNUNG: Wochenmarkt Oberried
+FACETTE: ALLTAG | FREIZEIT
+QUELLE: https://www.oberried.de/p/wochenmarkt | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erbauer: Wilhelmiten
-  baujahr: 1682-1688
-  grund_neubau: Umzug Wilhelmiten von Freiburg nach Oberried 1679
-  ortsbild_bedeutung: beherrschen auch heute noch das Ortsbild
+  etablierung: Mai 2012
+  lage: Klosterscheune Oberried
+  typus: Direkterzeugermarkt
+  zielgruppe_motto: "Gesunde und bewusste Ernährung"
+  produktqualitaet: regionale, saisonale, Bioqualität
+  wochentag: Freitag
+  uhrzeit: 15:00-18:00
+  produkte: Gemüse, Salat, Obst, Honig, Marmelade, Quark, Joghurt, Käse, Nudeln, Speck, Wurstwaren, Bauernbrot, Tee, Obstbrände, Säfte, Kräuterprodukte, Pflanzen, Blumen
+GUELTIG_AB: 2012
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 1.0
 ---
 ID: 72-oberried/008
-ENTITÄT: denkmal
-BEZEICHNUNG: Nazi-Denkmal / Englländerdenkmal
-QUELLE: https://www.oberried.de/p/das-nazi-denkmal | Gemeinde-Webseite
+ENTITÄT: berg
+BEZEICHNUNG: Schauinsland
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://www.oberried.de/p/rad-und-wanderwege | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  historischer_anlass_datum: 17. April 1936
-  historischer_anlass: Schneesturm mit 27 englischen Schülern, 5 starben
-  grund_ungluck: Fehlplanung des Lehrers
-  tatsaechliche_rettung: Hofsgrunder Bevölkerung
-  falsche_ns_darstellung: Nationalsozialisten behaupteten, Hitler-Jugend hätte gerettet
-  wahrheit_hitlerjugend: war nicht einmal vor Ort, trug nichts zur Rettung bei
-  errichtungszweck: Propagandazwecke und Ehrung der Hitler-Jugend
-  designer: Hermann Alker
-  auftraggeber: Baldur von Schirach (NS-Reichsjugendführer)
-  einweihung: 1938
-  urspruengliche_symbole: Reichsadler und Hakenkreuz eingraviert
-  symbole_entfernt: 1945 bei Kriegsende
-  tafel_inhalt: Version des Lehrers, Tote als gefallene Bergkameraden oder Pfadfinder
-  wirkungsgeschichte: Jahrzehntelang glaubten Besucher des Schauinslands dieser Version
-  beabsichtigung_hofsgrund: Denkmal zum Gedenken an die Opfer
-  konflikt_ergebnis: NS-Regierung setzte sich über Wunsch der Hofsgrunder hinweg
-  status_unter_engllaenderdenkmael: eines der drei, das bekannteste
-GUELTIG_AB: 1936
+  hoehe_m: 1284
+  eigenschaft: Charakteristikum, Wahrzeichen
+  museumsbergwerk: ja
+  bedeutung_fuer_ort: Tourismusanziehungspunkt, Wintersport, Wanderungen
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.92
+VERTRAUEN_EXTRAKTION: 1.0
 ---
 ID: 72-oberried/009
-ENTITÄT: ortsteil
-BEZEICHNUNG: Hofsgrund
-QUELLE: https://www.oberried.de/p/zahlen-daten-fakten | Gemeinde-Webseite
+ENTITÄT: besucherbergwerk
+BEZEICHNUNG: Museums-Bergwerk Schauinsland
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.schauinsland.de/museums-bergwerk/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  eingemeindung: 1. Oktober 1974
-  grund_eingemeindung: Gemeindereform
-  frueherer_status: selbstständig
+  lage: Gipfelregion Schauinsland
+  fußweg_vom_gipfelparkplatz: 400 m
+  bedeutung_fuer_ort: Touristisches Besucherziel, eines der wenigen Besucherbergwerke bei einer Großstadt
+  erreichbarkeit: öffentliche Straßen, Parkplätze, ÖPNV, Schauinsland-Seilbahn
+  fuehrungen_saison: Ostern bis Anfang November
+  fuehrungstypen: 45-Min-Führung, 1,5h-Führung, 2,5h-Führung, Sonderführungen
+  temperatur_untertage: 10°C ganzjährig
+  besonderheit: sehr authentisches Erlebnis mit Leitern
+GUELTIG_AB: historisch, aktuell bis 1. November
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/010
-ENTITÄT: ortsteil
-BEZEICHNUNG: St. Wilhelm
-QUELLE: https://www.oberried.de/p/zahlen-daten-fakten | Gemeinde-Webseite
+ENTITÄT: denkmal
+BEZEICHNUNG: Engländerdenkmal
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.oberried.de/p/das-nazi-denkmal | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  eingemeindung: 1. Oktober 1974
-  grund_eingemeindung: Gemeindereform
-  frueherer_status: selbstständig
+  historischer_anlass: Engländerunglück 17. April 1936
+  ereignis_beschreibung: 27 englische Schüler in Schneesturm geraten, 5 Todesfälle
+  todesursache: Fehlplanung des Lehrers
+  rettung_durch: Hofsgrunder Bevölkerung
+  denkmalauftraggeber_propagandistisch: Nationalsozialisten
+  gestalter: Hermann Alker
+  auftraggeber: NS-Reichjugendführer Baldur von Schirach
+  einweihung: 1938
+  urspruengliche_symbole: Reichsadler und Hakenkreuz (1945 entfernt)
+  superlativ: bekanntestes der drei Engländerdenkmäler
+GUELTIG_AB: 1938
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 1.0
 ---
 ID: 72-oberried/011
-ENTITÄT: ortsteil
-BEZEICHNUNG: Zastler
-QUELLE: https://www.oberried.de/p/zahlen-daten-fakten | Gemeinde-Webseite
+ENTITÄT: fest
+BEZEICHNUNG: Schwarzwälder Kunsthandwerkertag
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.oberried.de/p/schwarzwaelder-kunsthandwerkertag | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  eingemeindung: 1. Oktober 1974
-  grund_eingemeindung: Gemeindereform
-  frueherer_status: selbstständig
+  lage: Klosterscheune und Wilhelmitenkloster
+  bekanntheitsgrad: weit über Grenzen des Dreisamtals bekannt
+  termin_nächst: 18. Juli 2027
+  durchfuehrungen: 15. Mal
+  uhrzeit: 11:00-18:00
+  kunsthandwerk_typen: Holz-, Metall-, Keramik- und Porzellanarbeiten, Schmuck aus Silberbesteck, Bernsteinschmuck, Seifen, Malerei, Floristik, Steinskulpturen
+  verpflegung: Kaffee, Kuchen, feines Essen
+  bedeutung_fuer_ort: überörtlich bekanntes Fest
+GUELTIG_AB: mehrere Jahre vor 2027
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/012
-ENTITÄT: museum
-BEZEICHNUNG: Museums-Bergwerk Schauinsland
-QUELLE: https://www.schauinsland.de/museums-bergwerk/ | Gemeinde-Webseite
+ENTITÄT: brauch
+BEZEICHNUNG: Alemannische Woche
+FACETTE: KULTUR | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  lage: Schauinsland Gipfel
-  typ: Besucherbergwerk
-  besonderheit: eines der wenigen Besucherbergwerke bei Großstadt mit guter ÖPNV-Anbindung
-  erreichbarkeit_oepnv: Straßenbahn, Bus, Seilbahn
-  fussweg_zum_eingang: 400 m vom Gipfelparkplatz oder Schauinslandbahn-Bergstation
-  parkenplaetze: in Gipfelregion vorhanden
-  temperatur_untertag_celsius: 10
-  luftfeuchtigkeit: hoch
-  wettereinfluß: kein Einfluss auf Führungen
-  mindestalter_45min_tour: keine besonderen Anforderungen
-  mindestalter_1_5h_2_5h_tour: 12 Jahre empfohlen
-  mindestalter_ausnahmen: 10 Jahre möglich, Bedingung Körpergröße 1,50m und körperliche Eignung
-  leitern_laengen_m: 2-6
-  kleidung_45min: Straßenkleidung, normales Schuhwerk, warme Jacke empfohlen
-  kleidung_1_5h_2_5h: warme Kleidung, festes Schuhwerk, vorzugsweise Wanderschuhe
-  zahlungsform_vor_ort: nur Bargeldzahlung
-  reservierung_bestaetigung: elektronisch mit 7% Mehrwertsteuer (Kulturgut)
+  jahreszeit: Herbst
+  rhythmus: jährlich
+  fokus: Pflege der heimischen Mundart und des Brauchtums
+  höhepunkt: Viehabtrieb der Erlenbacher Weidegenossenschaft
+  viehabtrieb_herkunft: Sommerweide bei Erlenbacher Hütte
+  bedeutung_fuer_ort: Charakteristikum, Brauch mit Ortsidentität
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/013
-ENTITÄT: historischer_ort
-BEZEICHNUNG: Weilersbach
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: museum
+BEZEICHNUNG: Schniederlihof
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  eingemeindung: 1. April 1936
-  frueherer_status: selbstständige Gemeinde
-  grund_eingemeindung: Gemeindeumfang-Veränderung
+  ortsteil: Hofsgrund
+  thema: Bäuerliche Kultur des Südschwarzwalds
+  charakeristikum: Museum
+GUELTIG_AB: historisch
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/014
-ENTITÄT: historischer_ort
-BEZEICHNUNG: Hanisenhof
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: freizeitpark
+BEZEICHNUNG: Steinwasen-Park
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  eingemeindung: 1. April 1936
-  frueherer_status: ehemals Gemeinde Burg
-  grund_eingemeindung: Gemeindeumfang-Veränderung
+  superlativ: längste Erlebnis-Seilbrücke der Welt
+  seilbruecke_spannweite: 218 m
+  seilbruecke_hoehe: 30 m
+  bedeutung_fuer_ort: Touristisches Anziehungspunkt
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/015
-ENTITÄT: historischer_ort
-BEZEICHNUNG: Helmlehof
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: wanderweg
+BEZEICHNUNG: Felsenweg
+FACETTE: FREIZEIT
+QUELLE: https://www.oberried.de/p/rad-und-wanderwege | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  eingemeindung: 1. April 1936
-  frueherer_status: ehemals Gemeinde Dietenbach
-  grund_eingemeindung: Gemeindeumfang-Veränderung
+  laenge_km: 12.2
+  klassifizierung: Qualitätswanderweg
+  höhenlage: ca. 1000 m
+  charakteristikum: Felsenlandschaft
+  panorama: Dreisamtal, Schauinsland, Stübenwasen, Feldberg
+  zielort: St. Wilhelmer Tal
+GUELTIG_AB: mehrere Jahre
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/016
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Mathias Ortlieb
-QUELLE: https://www.oberried.de/p/historie | Gemeinde-Webseite
+ENTITÄT: wanderweg
+BEZEICHNUNG: Wildnis-Erlebnispfad "Füchsleweg"
+FACETTE: FREIZEIT
+QUELLE: https://www.oberried.de/p/rad-und-wanderwege | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beruf: Weinhändler
-  herkunft: Stockach
-  taetigkeit: Kauf westlicher Teil kleine Klosterscheune
-  jahreszahl: 1832
-  massnahme: Bau Wohnhaus mit Weinkeller westlich an Klosterscheune anschließend
-GUELTIG_AB: 1832
-GUELTIG_BIS: 1842
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  laenge_km: 4.5
+  ortsteil: St. Wilhelm
+  zielgruppe: Kinder
+  stationen: 14 interaktive Stationen
+  zielgruppe_aktivitaet: Mitmachen
+  verlauf: Kernzonen des Biosphärengebiets Schwarzwald
+  charakteristikum: schmale Pfade, Seitental des Feldbergs
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/017
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Franz Sales Wiederle
-QUELLE: https://www.oberried.de/p/historie | Gemeinde-Webseite
+ENTITÄT: radweg
+BEZEICHNUNG: Dreisamtal-Radwanderweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  beruf: Landwirt und Bürgermeister
-  herkunft: Adamshof im Zastler
-  kaeufer: Versteigerung 1850
-  tochter: Maria
-  schwiegersohn: Karl Riegel vom Reesenbauernhof in Zarten
-  nachlass: Anwesen über Heirat in Besitz Familie Riegel
-  umbaumassnahmen: Teilabriss und Umbau kleine Klosterscheune, Errichtung Scheune- und Stallgebäude über Keller
-GUELTIG_AB: 1850
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  charakteristikum: familienfreundliche Radtour
+  tal: Dreisamtal
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
 ---
 ID: 72-oberried/018
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Bruno Riegel
-QUELLE: https://www.oberried.de/p/historie | Gemeinde-Webseite
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hofsgrund
+FACETTE: LAGE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  status: letzter privater Besitzer des Anwesens
-  tod: 2002
-  erben: Carmen und Frank Riegel
-IST_VERMUTLICH_AKTUELL: false
-GUELTIG_BIS: 2002
-VERTRAUEN_EXTRAKTION: 0.9
+  eingemeindung: 1. Oktober 1974
+  bevoelkerung: ca. 600
+  lage: Talkessel südlich des Schauinsland-Gipfels
+  gebiet_typ: Mulde
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/019
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Hermann Alker
-QUELLE: https://www.oberried.de/p/das-nazi-denkmal | Gemeinde-Webseite
+ENTITÄT: ortsteil
+BEZEICHNUNG: St. Wilhelm
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  taetigkeit: Designer Nazi-Denkmal
-  auftrag_von: Baldur von Schirach (NS-Reichsjugendführer)
-  fertigstellung: 1938
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  gründung_des_ortes: 1266
+  gründer: Johannes von Urberg
+  grund: Zweigstelle des Oberrieder Klosters
+  ursprung_name: Nach den Wilhelmiten
+  erstmaliger_eigenname: Kloster St. Wilhelm
+  bevoelkerung: ca. 260
+  eingemeindung: 1. Oktober 1974
+  vogteirechte_ab_1496: Österreich
+GUELTIG_AB: 1266
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/020
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Baldur von Schirach
-QUELLE: https://www.oberried.de/p/das-nazi-denkmal | Gemeinde-Webseite
+ENTITÄT: ortsteil
+BEZEICHNUNG: Zastler
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  titel: NS-Reichsjugendführer
-  taetigkeit: Auftrag zur Erstellung Nazi-Denkmal
-  designer_beauftragt: Hermann Alker
-GUELTIG_AB: 1938
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  bevoelkerung: ca. 450
+  eingemeindung: 1. Oktober 1974
+GUELTIG_AB: 1974
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/021
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Johannes von Urberg
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: berg
+BEZEICHNUNG: Feldberg
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  taetigkeit: Gründung Priorat Oberried
-  jahreszahl: 1266
-  organisation: Priorat der Wilhelmiten
-  beschreibung_vermutung: möglicherweise Neugründung Expositur im St. Wilhelmer Tal, nicht Wiederbesiedlung Kloster Maria Kron
-  genauigkeit: vermutlich
-GUELTIG_AB: 1266
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
+  hoehe: höchster Berg des Schwarzwalds (in diesem Kontext)
+  charakeristikum: Landmarke, Aussichtspunkt
+GUELTIG_AB: geologisch alt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
 ---
 ID: 72-oberried/022
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Willi Sutter
-QUELLE: https://www.oberried.de/p/historie | Gemeinde-Webseite
+ENTITÄT: berg
+BEZEICHNUNG: Toter Mann
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  taetigkeit: Projektierung und Bauleitung
-  projekt: Restaurierung Klosterscheune
-  mitarbeiter: Oliver Hug
-GUELTIG_AB: 2010
-GUELTIG_BIS: 2011
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  hoehe_m: 1321
+GUELTIG_AB: geologisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
 ---
 ID: 72-oberried/023
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Oliver Hug
-QUELLE: https://www.oberried.de/p/historie | Gemeinde-Webseite
+ENTITÄT: gewässer
+BEZEICHNUNG: Brugga
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  taetigkeit: Projektierung und Bauleitung
-  projekt: Restaurierung Klosterscheune
-  mitarbeiter: Willi Sutter
-GUELTIG_AB: 2010
-GUELTIG_BIS: 2011
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  klassifikation: Flüsschen
+  lokation: Oberrieder Tal, westlich
+  flussverlauf: östlich vom Schauinsland hinauf bis Pass Notschrei
+GUELTIG_AB: geologisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/024
-ENTITÄT: historisches_ereignis
-BEZEICHNUNG: Schneesturm vom 17. April 1936
-QUELLE: https://www.oberried.de/p/das-nazi-denkmal | Gemeinde-Webseite
+ENTITÄT: verein
+BEZEICHNUNG: Trachtenkapelle Oberried e.V.
+FACETTE: KULTUR | ALLTAG
+QUELLE: https://www.oberried.de/de/vereine/ | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  datum: 17. April 1936
-  ort_bezug: Schauinsland / Hofsgrund
-  teilnehmer: englische Schüler
-  anzahl: 27
-  todesfaelle: 5
-  grund_ungluck: Fehlplanung des Lehrers
-  tatsaechliche_rettung_durch: Hofsgrunder Bevölkerung
-  falsche_attribution_ns: Hitler-Jugend sollte gerettet haben
-  wahrheit: Hitler-Jugend war nicht vor Ort
-  folge_denkmal: Errichtung Nazi-Denkmal zu Propagandazwecken
-IST_VERMUTLICH_AKTUELL: false
-GUELTIG_AB: 1936
-VERTRAUEN_EXTRAKTION: 0.9
+  veranstaltung: Zwiebelkuchenfest
+  zwiebelkuchenfest_termin: 27. September
+  zwiebelkuchenfest_uhrzeit: 11:00-18:00
+  zwiebelkuchenfest_ort: Klosterscheune Oberried
+  zusammenarbeit_musikgruppen: Jugendkapelle Oberried, Musikverein Bachheim, Musikverein Suggental
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/025
-ENTITÄT: kloster
-BEZEICHNUNG: Kloster St. Gallen
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: verein
+BEZEICHNUNG: Motorradfreunde Zastler
+FACETTE: KULTUR | ALLTAG
+QUELLE: https://www.oberried.de/p/oktoberfest | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  bezug_oberried: alte grundherrliche Rechte in Oberried
-  entwicklung: Rechte gingen allmählich in adelige Hände über
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
+  veranstaltung: Oktoberfest
+  oktoberfest_termin: 26. September
+  oktoberfest_uhrzeit: ab 19:00
+  oktoberfest_ort: Goldberghalle Oberried
+  oktoberfest_auflage: 18. Mal
+  musikgruppe: Party Band "POP ALPIN"
+  spezialitaet_bier: Weißbier und Massbier am Zastler-Bierbrunnen
+  verpflegung: Weißwurst mit Brezel, Vegetarisches
+  fassanstich: 20:00
+GUELTIG_AB: mehrere Jahre vor 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/026
-ENTITÄT: kloster
-BEZEICHNUNG: Kloster St. Peter
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: kirche
+BEZEICHNUNG: Wallfahrtskirche Mariä Krönung
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  lokation_name: Obirrieth (Oberried)
-  quelle_erwaehnung: Rotulus Sanpetrinus
-  zeitpunkt_erwaehnung: Anfang 13. Jahrhundert
-  bezug_oberried: Besitz erwähnt
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+  bauzeit_ende: Ende 17. Jahrhundert
+  baustil: Barock
+  kirchenkruzifix: großes Wallfahrtskruzifix
+  kruzifix_zeitraum: Mitte 15. Jahrhundert
+  bedeutung: Wallfahrtsort
+GUELTIG_AB: Ende 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/027
-ENTITÄT: kloster
-BEZEICHNUNG: Kloster Maria Kron
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: rathaus
+DESIGNATION: Rathaus Oberried
+FACETTE: INFRA | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  lokation: Oberried
-  status_1266: weiterhin Bestand während Neubesiedelung
-  genauigkeit: vermutlich
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.7
+  lage: Flügel des Klostergebäudes
+  nutzung_klostergebäude: Rathaus in einem Flügel, Kirchengemeinde in zwei Flügeln
+GUELTIG_AB: 1806 (nach Klosterauflösung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/028
-ENTITÄT: kloster
-BEZEICHNUNG: Kloster Günterstal
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Joseph Ertel
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  bezug_oberried: Nonnen von Günterstal erhielten 1237 Lehensbesitz im Oberrieder Tal
-  grund: Bedingung zum Klosterbau in Oberried
-  quellgeber: Herren von Tengen
+  lebensjahre: 1785-1834
+  beruf: Verwaltungsjurist, badischer Staatsdienst
+  position: Oberamtmann
+GUELTIG_AB: 1785
+GUELTIG_BIS: 1834
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 1.0
 ---
 ID: 72-oberried/029
-ENTITÄT: kloster
-BEZEICHNUNG: Abtei St. Blasien
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Eberhard Feik
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  bezug_oberried: Priorat Oberried 1725 einverleibt
-  zeitpunkt: 1725
-  folge: übte von diesem Zeitpunkt an grundherrlichen Rechte Oberrieds aus
+  lebensjahre: 1943-1994
+  beruf: Schauspieler
+  bekannt_aus: Tatort-Reihe der ARD
+  wohnort: Oberried-Hofsgrund
+  todesursache: Herzinfarkt
+GUELTIG_AB: 1943
+GUELTIG_BIS: 1994
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 1.0
 ---
 ID: 72-oberried/030
-ENTITÄT: organisation
-BEZEICHNUNG: Waldgenossenschaft Oberried
-QUELLE: https://www.oberried.de/p/historie | Gemeinde-Webseite
+ENTITÄT: ereignis
+BEZEICHNUNG: Engländerunglück
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  erwerb: 1842 Kauf westlicher Teil kleine Klosterscheune und dazugehöriges Gelände
-  funktion: Sitz der staatlichen Forstinspection
-GUELTIG_AB: 1842
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+  datum: 17. April 1936
+  lage: oberhalb Hofsgrund
+  beteiligte_personen: 27 englische Schüler
+  todesfaelle: 5
+  ursache: schlecht vorbereitete Wanderung, einbrechende Dunkelheit, Nebel, Schneesturm, Bergnot
+  rettung_durch: Hofsgrunder Bevölkerung
+  denkmaeler: Engländerdenkmal, Gedenktafel in Kirche St. Laurentius
+  bedeutung_fuer_ort: prägende historische Katastrophe
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/031
-ENTITÄT: geschlechter
-BEZEICHNUNG: Herren von Tengen
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: archiv
+BEZEICHNUNG: Barbarastollen
+FACETTE: INFRA | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  beschreibung: im westlichen Hegau beheimatetes Geschlecht
-  taetigkeit: 1237 Übertragung ihres Lehensbesitzes im Oberrieder Tal an Nonnen von Günterstal
-  bedingung: Klosterbau in Oberried
-IST_VERMUTLICH_AKTUELL: false
-GUELTIG_AB: 1237
-VERTRAUEN_EXTRAKTION: 0.85
+  lage: bei Oberried
+  ursprung: ehemaliger Silberbergwerkstollen
+  nutzung_ab_1975: Archivierung wichtiger Kulturgüter
+  betreiber: Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
+  grund_archivierung: Haager Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
+  inhalt: Mikrofilmkopien wichtiger Kulturgüter
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/032
-ENTITÄT: administration
-BEZEICHNUNG: Schnewlin
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: bibliothek
+BEZEICHNUNG: Klosterbibliothek Oberried
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  funktion: Ausübung Kastvogtei über Kloster Oberried
-  zeitpunkt: zunächst, vor 1496
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.75
+  lage: Räume des ehemaligen Klostergebäudes
+  sammlung: Bücherschatz
+  fokus: Schriften des Theologen, Musikwissenschaftlers und Historikers Martin Gerbert
+  besonderheit: Originalausgaben
+  ursprung_sammlung: Martin Gerbert, ehemaliger Fürstabbat von St. Blasien
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 72-oberried/033
-ENTITÄT: ortsteil_frueh
-BEZEICHNUNG: Vörlinsbach
-QUELLE: https://www.oberried.de/p/geschichte | Gemeinde-Webseite
+ENTITÄT: ruhebegräebnis_gedenkstaette
+BEZEICHNUNG: Ruheberg Oberried
+FACETTE: KULTUR | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  bezug: dazugehörig zur Gemeinde Oberried in frühem 13. Jahrhundert
-  gemeinde_schenkung: Gemeinde Vörlinsbach stimmte 1252 der Schenkung an Wilhelmiten zu
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.8
+  gründung: 2006
+  superlativ: erstes Ruheberg in Deutschland
+  lage: bei der Stollenbacher Hütte
+  bedeutung_fuer_ort: innovatives Bestattungskonzept
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 72-oberried/034
+ENTITÄT: projekt
+BEZEICHNUNG: Ursulinenhof
+FACETTE: ALLTAG | INFRA | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  gründung_konzept: 2015 durch Bürgergemeinschaft Oberried
+  gründer: Bürgergemeinschaft Oberried
+  zweck: kommunal und bürgerschaftlich basierte Alterssozialagenda
+  betrieb_ab: 2020
+  infrastruktur: Tagespflege, selbstverantwortete Wohngemeinschaft, Sozialwohnungen
+  ueberregionale_aufmerksamkeit: ZDF-Weihnachtskonzert 2023 mit Bundespräsident
+  bedeutung_fuer_ort: Modell für andere Umlandgemeinden
+GUELTIG_AB: 2015 Konzept, 2020 Betrieb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 72-oberried/035
+ENTITÄT: gemeinde_administrativ
+BEZEICHNUNG: Gemeindeverwaltungsverband Dreisamtal
+FACETTE: POLITICS | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  mitgliedsgemeinden: Kirchzarten, Buchenbach, Stegen, Oberried
+  sitz: Kirchzarten
+GUELTIG_AB: mehrere Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 72-oberried/036
+ENTITÄT: wappen
+DESIGNATION: Wappen Oberried
+FACETTE: KULTUR | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Oberried_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: "In Rot ein aufgerichtetes silbernes (weißes) Einhorn"
+  herkunft: Wappen der Grafen von Tengen
+  begründung: Grafen von Tengen waren im Mittelalter zeitweise Lehensherren von Oberried
+  annahme: 1899
+  vorheriges_siegel: Sensenblatt und drei Sterne
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

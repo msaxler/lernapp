@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "73-buchenbach",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 25594,
+ "token_ein": 400188,
+ "token_aus": 12967,
+ "usage": {
+  "input_tokens": 18,
+  "cache_creation_input_tokens": 51624,
+  "cache_read_input_tokens": 348546,
+  "output_tokens": 12967,
+  "output_tokens_details": {
+   "thinking_tokens": 5962
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 51624,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 5782,
+    "cache_read_input_tokens": 55380,
+    "cache_creation_input_tokens": 3146,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 3146
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.3518571999999998,
+ "sekunden": 168,
+ "fehler": false,
+ "zeit": "2026-10-19T23:19:10"
+}

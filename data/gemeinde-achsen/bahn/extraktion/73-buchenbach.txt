@@ -1,32 +1,21 @@
 ENTITÄT: ort
 BEZEICHNUNG: Buchenbach
-QUELLE: https://www.buchenbach.de/p/ortsteile-und-geschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  ortsteile: Buchenbach, Falkensteig, Unteribental, Wagensteig
-  lage: unteres Wagensteigtal, Höllental, Wagensteigtal, Unteribental, St. Märgener Hochfläche
-  zusammensetzung: weilernartige Siedlungsteile und Einzelhöfe
-GUELTIG_AB: 1350
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: ort
-BEZEICHNUNG: Buchenbach
+FACETTE: LAGE | GESCHICHTE | ALLTAG | INFRA | POLITIK
 QUELLE: https://www.buchenbach.de/p/informationen | Gemeinde-Webseite
 EIGENSCHAFTEN:
   einwohner: 3200
-  einwohner_genauigkeit: ca.
-  flaeche_gesamt_ha: 3899
-  flaeche_wald_ha: 2586
-  hoehenlage_m: 450-1160
-  hoechste_erhebeung: Roteck
-  hoechste_erhebeung_m: 1160
-  entfernung_freiburg_km: 15
-  entfernung_freiburg_genauigkeit: ca.
-  lage_geografisch: Westrand des Schwarzwaldes, Eingang des Höllentals, umrahmt von Schwarzwaldbergen
-  wanderwege_laenge_km: 100
-  wanderwege_genauigkeit: über
+  einwohner_genauigkeit: "ca."
+  gemarkung_flaeche: 3899 [ha]
+  waldflaeche: 2586 [ha]
+  landwirtschaftsflaeche: 1123 [ha]
+  siedlungs_verkehrsflaeche: 166 [ha]
+  hoehe_min: 450 [m]
+  hoehe_max: 1160 [m]
+  entfernung_freiburg: 15 [km]
+  lage: "Westrand Schwarzwald, Eingang Höllental"
+  wanderwege_laenge: 100 [km]
+  wanderwege_laenge_genauigkeit: "über"
+GUELTIG_AB: 2026
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
@@ -34,33 +23,16 @@ VERTRAUEN_EXTRAKTION: 0.95
 
 ENTITÄT: ort
 BEZEICHNUNG: Buchenbach
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  region: Südschwarzwald
-  bundesland: Baden-Württemberg
-  land: Deutschland
-  landkreis: Breisgau-Hochschwarzwald
-  naturpark: Südschwarzwald
-  entfernung_freiburg_km: 12
-  entfernung_freiburg_masseinheit: Luftlinie
-  flaeche_gesamt_ha: 3899
-  flaeche_wald_ha: 2586
-  hoehenlage_min_m: 420
-  hoehenlage_min_standort: Ortsausgang Unteribental
-  hoehenlage_max_m: 1156
-  hoechste_erhebeung: Roteck
-  hoechste_erhebeung_superlativ: südlichster Punkt der Gemeindegemarkung
-  nachbargemeinden: St. Peter, St. Märgen, Breitnau, Oberried, Kirchzarten, Stegen
-  gewaesser_durchfliessung: Rotbach durchfließt Höllental
-  gewaesser_vereinigung: Rotbach und Wagensteigbach vereinigen sich westlich von Buchenbach zur Dreisam
-  lage_dreisamtal: oberer Anfang des Dreisamtals
-  eingemeindung_falkensteig_datum: 1971-12-01
-  eingemeindung_wagensteig_datum: 1973-08-01
-  eingemeindung_unteribental_datum: 1975-01-01
-  eingemeindung_himmelreich_datum: 1977-01-01
-  verwaltungsgemeinschaft: Gemeindeverwaltungsverband Dreisamtal
-  verwaltungsgemeinschaft_sitz: Kirchzarten
-  verwaltungsgemeinschaft_mitglieder: Kirchzarten, Oberried, Stegen
+  landkreis: "Breisgau-Hochschwarzwald"
+  bundesland: "Baden-Württemberg"
+  lage_naturpark: "Südschwarzwald"
+  entfernung_freiburg_luftlinie: 12 [km]
+  ortsteile: "Buchenbach, Falkensteig, Unteribental, Wagensteig"
+  nachbargemeinden: "St. Peter, St. Märgen, Breitnau, Oberried, Kirchzarten, Stegen"
+GUELTIG_AB: 2026
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
@@ -68,308 +40,119 @@ VERTRAUEN_EXTRAKTION: 0.95
 
 ENTITÄT: ort
 BEZEICHNUNG: Buchenbach
-QUELLE: https://www.buchenbach.de/p/informationen | Gemeinde-Webseite
+FACETTE: GESCHICHTE
+QUELLE: https://www.buchenbach.de/p/ortsteile-und-geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  bodenflaeche_insgesamt_ha: 3899
-  siedlungs_und_verkehrsflaeche_ha: 166
-  siedlungs_und_verkehrsflaeche_prozent: 4.2
-  gebaeude_und_freiflaeche_ha: 89
-  gebaeude_und_freiflaeche_prozent: 54
-  verkehrsflaeche_ha: 67
-  verkehrsflaeche_prozent: 40.6
-  landwirtschaftsflaeche_ha: 1123
-  landwirtschaftsflaeche_prozent: 28.8
-  waldflaeche_ha: 2586
-  waldflaeche_prozent: 66.3
-  wasserflaeche_ha: 17
-  wasserflaeche_prozent: 0.4
-  uebrige_nutzungsarten_ha: 8
-  uebrige_nutzungsarten_prozent: 0.2
+  ersterwaehnung: 1350
+  wappen_beschreibung: "Über grünem Dreiberg gespalten; vorn in Silber (Weiß) eine grüne Buche auf dem vorderen Hügel des Dreibergs, hinten in Rot ein silberner (weißer) Wellenbalken"
+  flagge_farben: "Grün-Weiß"
+  gemeindezusammenschluss_hauptort_falkensteig: 1971-12-01
+  eingemeindung_wagensteig: 1973-08-01
+  eingemeindung_unteribental: 1975-01-01
+GUELTIG_AB: 1350
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: ortsteil
-BEZEICHNUNG: Wiesneck
-QUELLE: https://www.buchenbach.de/p/ortsteile-und-geschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  status_bis_1837: selbstständig
-  lage: zwischen Ibental und Kernort
-GUELTIG_BIS: 1837
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.98
 
 ---
 
 ENTITÄT: burg
 BEZEICHNUNG: Burg Wiesneck
+FACETTE: GESCHICHTE | LAGE
 ORTSTEIL_BEZUG: Wiesneck
 QUELLE: https://www.buchenbach.de/p/ortsteile-und-geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  erste_erwaehnung_jahr: 1079
-  erste_erwaehnung_form: urkundlich erwähnt
-  urspruenglicher_besitzer: Grafen von Haigerloch
-  lage: strategisch wichtige Stelle vor dem Aufstieg zur Wagensteige
-  lehen_art: österreichisches Lehen
-  besitzwechsel_jahr: 1577
-  besitzwechsel_zu: Freiherren von Sickingen - Hohenburg
+  ersterwaehnung: 1079
+  urspruengliche_besitzer: "Grafen von Haigerloch"
+  lage_strategisch: "vor dem Aufstieg zur Wagensteige"
+  lehen_art: "österreichisches Lehen"
+  besitzwechsel_1577: "Freiherren von Sickingen - Hohenburg"
+  eingemeindung_nach_buchenbach: 1837
+  beschreibung: "strategisch wichtiger Ort, ältester Teil von Buchenbach"
 GUELTIG_AB: 1079
+GUELTIG_BIS: 1837
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burg_ruine
+BEZEICHNUNG: Burgruine Wiesneck
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  zerstoerung_1121: "durch konkurrierende Zähringer"
+  zerstoerung_1646: "durch Franzosen im Dreißigjährigen Krieg"
+  besiedlung_um_burg: "entwickelte sich ein kleiner Ort"
+GUELTIG_AB: 1121
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
 ENTITÄT: burg
-BEZEICHNUNG: Burg Wiesneck
-ORTSTEIL_BEZUG: Wiesneck
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  erste_erwaehnung_jahr: 1079
-  erste_erwaehnung_form: urkundlich
-  urspruenglicher_besitzer: Grafen von Haigerloch-Wiesneck
-  zerstoerung_event_1_jahr: 1121
-  zerstoerung_event_1_verursacher: Zähringer
-  zerstoerung_event_2_jahr: 1646
-  zerstoerung_event_2_verursacher: Franzosen (Dreißigjähriger Krieg)
-  status_heute: Burgruine Wiesneck
-  entwicklung_um_burg: kleiner Ort entwickelte sich um die Burg
-  eingemeindung_datum: 1837
-GUELTIG_AB: 1079
-GUELTIG_BIS: 1837
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: kloster
-BEZEICHNUNG: Kloster St. Märgen
-QUELLE: https://www.buchenbach.de/p/ortsteile-und-geschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  gegruendet_von: Grafen von Haigerloch
-VERTRAUEN_EXTRAKTION: 0.75
-
----
-
-ENTITÄT: ortsteil
-BEZEICHNUNG: Falkensteig
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  burg_name: Burg Falkenstein
-  burg_gruendung_zeitraum: Anfang des 12. Jahrhunderts
-  burg_gruender: Herren von Falkenstein
-  burg_zerstoerung_jahr: 1388
-  burg_zerstoerung_verursacher: Bürger der Stadt Freiburg im Breisgau
-  besitz_17_jhd: Herren von Pfirt
-  spaeterer_besitz: Großherzogtum Baden
-GUELTIG_AB: 1100
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: fabrik
-BEZEICHNUNG: Obere Blechschmiede
+BEZEICHNUNG: Burg Falkenstein
+FACETTE: GESCHICHTE
 ORTSTEIL_BEZUG: Falkensteig
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  betreiber: Gebrüder Fauler
-  betriebszeitraum_beginn_jhd: 19. Jahrhundert
-  bestandteile: Walzwerk, Hammerwerk, später Eisengießerei
-  mitarbeiter_hoechststand: 400
-  betriebsschluss_jahr: 1872
-  grund_betriebsschluss: mangelnde Rentabilität
-  nachnutzung: die meisten Gebäude später abgebrochen
+  erbauerzeit: "Anfang 12. Jahrhundert"
+  erbauer: "Herren von Falkenstein"
+  zerstoerung: 1388
+  zerstoerung_durch: "Bürger der Stadt Freiburg im Breisgau"
+  besitzwechsel_17jhd: "Herren von Pfirt"
+  spaeter_gehoerigkeit: "Großherzogtum Baden"
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Eisenwerk Gebrüder Fauler
+FACETTE: WIRTSCHAFT | ALLTAG
+ORTSTEIL_BEZUG: Falkensteig
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  anderer_name: "Obere Blechschmiede"
+  tätigkeitsbereich: "Eisenwerk mit Walzwerk, Hammerwerk und Eisengießerei"
+  zeitraum_betrieb: "19. Jahrhundert"
+  arbeiterzahl_max: 400
+  schliessung: 1872
+  grund_schliessung: "mangelnde Rentabilität"
+  bedeutung_fuer_ort: "großer Arbeitgeber in der Region"
+GUELTIG_AB: 1800
 GUELTIG_BIS: 1872
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: ortsteil
-BEZEICHNUNG: Unteribental
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  gruendung_jahr: 1120
-  gruendung_jahr_genauigkeit: ca.
-  urspruengliche_unterordnung: Zähringer
-  erste_vereinigung: Stegen
-  wiederselbststaendigung_jahr: 1827
-  anfall_an_baden_jahr: 1806
-  amtsbezirk: Freiburg
-  amtsbezirk_ab_jahr: 1806
-  namensherkunft_teil: "ib" im Namen weist auf frühere Eibenbestände hin
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: ortsteil
-BEZEICHNUNG: Wagensteig
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  erste_erwaehnung_jahr: 1125
-  erste_erwaehnung_form: urkundlich
-  anfall_an_territorium_nach_saekularisation: Baden
-  anfall_an_territorium_jahr: nach Reichsdeputationshauptschluss
-  amtsbezirk: Freiburg
-  amtsbezirk_ab_jahr: 1819
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: erhebeung
-BEZEICHNUNG: Roteck
-QUELLE: https://www.buchenbach.de/p/informationen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  hoehe_m: 1160
-  superlativ: höchste Erhebung
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: erhebeung
-BEZEICHNUNG: Roteck
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  hoehe_m: 1156
-  superlativ: höchste Erhebung innerhalb der Gemeindegemarkung und südlichster Punkt
-VERTRAUEN_EXTRAKTION: 0.95
-
----
-
-ENTITÄT: erhebeung
-BEZEICHNUNG: Frauensteig
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  hoehe_m: 783
-  besonderheit: Frauensteigfelsen
-  lage_beschreibung: bildet linke Bergflanke des Höllentals oberhalb von Falkensteig
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: erhebeung
-BEZEICHNUNG: Otten
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  hoehe_m: 1041
-  lage: zwischen Diezen- und Griesdobel, südöstliche Richtung vom Kernort
-  grenzregion: Gemeinde Breitnau
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: erhebeung
-BEZEICHNUNG: Belleck
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  hoehe_m: 807
-  beschreibung: höchster Punkt einer Erhebung
-  lage: An der Abzweigung der Spirzenstraße von der L128
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: erhebeung
-BEZEICHNUNG: Zwerisberg
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  hoehe_m: 719
-  lage: hinteres Wagensteigtal, nördlicher Rand, linke Talseite
-  grenzregion: Grenze zur Gemeinde St. Märgen
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: erhebeung
-BEZEICHNUNG: Rohrberg
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  hoehe_m: 868
-  lage: hinteres Wagensteigtal, nördlicher Rand, rechte Talseite
-  grenzregion: Grenze zur Gemeinde St. Märgen
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: erhebeung
-BEZEICHNUNG: Kappeneck
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  hoehe_m: 701
-  lage: zwischen Wiesnecksattel und Ibental
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: erhebeung
-BEZEICHNUNG: Winterkapf
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  hoehe_m: 796
-  lage: Ibental, genau zwischen Unteribental und Wagensteig
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: erhebeung
-BEZEICHNUNG: Lindenberg
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  hoehe_m: 730
-  lage: linke Flanke des Ibentals
-  grenzregion: Gemarkungsgrenze zur Nachbargemeinde St. Peter
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: erhebeung
-BEZEICHNUNG: Hochgericht
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  hoehe_m: 813
-  lage: Gemarkungsgrenze zur Nachbargemeinde St. Peter, ausgehend von Lindenberg
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: buergermeister
-BEZEICHNUNG: Ralf Kaiser
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  wahl_datum: 1970-02-02
-  wahl_stimmen_prozent: 75.2
-  wahl_wahlgang: erster Wahlgang
-  wahlbeteiligung_prozent: 74.0
-  amtsvorgaenger: Harald Reinhard
-  wahl_ergebnis_vorgaenger: 14.3
-GUELTIG_AB: 2020
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
 ENTITÄT: kirche
 BEZEICHNUNG: St. Blasius
-ORTSTEIL_BEZUG: Buchenbach
+FACETTE: KULTUR | LAGE
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  typ: katholische Pfarrkirche
-  stil_original: Barock
-  umgestaltung_jahren: 1899-1901
-  stil_nach_umgestaltung: neugotisch
+  ursprungsstil: "barock"
+  umbau_zeitraum: 1899-1901
+  umbau_stil: "neugotisch"
+  funktion: "katholische Pfarrkirche"
+  pfarrgemeinde: "Kath. Pfarrgemeinde St. Blasius"
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
 ENTITÄT: kapelle
 BEZEICHNUNG: Vaterunser-Kapelle
+FACETTE: KULTUR | LAGE
 ORTSTEIL_BEZUG: Ibental
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  bauzeit_jahren: 1967-1968
-  erbaut_von: Theophil Herder-Dorneich (Verleger)
-  lage: Ibental
+  bauzeit: 1967-1968
+  erbauer: "Theophil Herder-Dorneich"
+  erbauer_beruf: "Verleger"
+  lage: "im Ibental"
 GUELTIG_AB: 1967
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
@@ -378,236 +161,517 @@ VERTRAUEN_EXTRAKTION: 0.95
 
 ENTITÄT: kapelle
 BEZEICHNUNG: Nikolauskapelle
+FACETTE: KULTUR
 ORTSTEIL_BEZUG: Falkensteig
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "eine der zwei Nikolauskapellen der Gemeinde"
+GUELTIG_AB: 1000
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+VERTRAUEN_EXTRAKTION: 0.70
 
 ---
 
 ENTITÄT: kapelle
 BEZEICHNUNG: Nikolauskapelle
+FACETTE: KULTUR
 ORTSTEIL_BEZUG: Wagensteig
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "eine der zwei Nikolauskapellen der Gemeinde"
+GUELTIG_AB: 1000
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+VERTRAUEN_EXTRAKTION: 0.70
 
 ---
 
 ENTITÄT: museum
 BEZEICHNUNG: Hansmeyerhof
+FACETTE: KULTUR | FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  erbaut_jahr: 1620
-  beschreibung: einer der ältesten Schwarzwaldhöfe im Tal
-  sammlung_schwerpunkt: bäuerliche Kultur des südlichen Schwarzwaldes
+  erbauerzeit: 1620
+  superlativ: "einer der ältesten Schwarzwaldhöfe im Tal"
+  bezugsraum_superlativ: "südlicher Schwarzwald"
+  funktion: "Museum für bäuerliche Kultur"
+  sammlungsschwerpunkt: "bäuerliche Kultur des südlichen Schwarzwalds"
+  heimatverein: "Heimatverein Hansmeyerhof"
+  bedeutung_fuer_ort: "Heimatmuseum, kulturelle Einrichtung"
 GUELTIG_AB: 1620
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.95
 
 ---
 
-ENTITÄT: schule
-BEZEICHNUNG: Sommerbergschule
-ORTSTEIL_BEZUG: Buchenbach
+ENTITÄT: betrieb
+BEZEICHNUNG: Dold Holzwerke GmbH
+FACETTE: WIRTSCHAFT
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  schultyp: Grundschule
-  schueler_2015_2016: 105
-  klassen_2015_2016: 7
-  klassenstruktur_2015_2016: drei Klassen 1/2, Klasse 3 und 4 jeweils zweizügig
+  produktionsbereich: "Sägewerk, Möbel- und Baumarktplatten, Holzpellet-Fabrikation"
+  arbeiterzahl: 200
+  bedeutung_fuer_ort: "größter Arbeitgeber"
+  tochterfirma: "Bioenergie Sonnen Pellet GmbH"
+GUELTIG_AB: 1900
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Siko GmbH
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  produktionsbereich: "Messtechnik"
+  arbeiterzahl: 160
+  arbeiterzahl_stand: 2008
+  bedeutung_fuer_ort: "größer Arbeitgeber"
+GUELTIG_AB: 1900
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: schule
-BEZEICHNUNG: Werkrealschule Dreisamtal
-ORTSTEIL_BEZUG: Buchenbach
+ENTITÄT: betrieb
+BEZEICHNUNG: Wandres GmbH
+FACETTE: WIRTSCHAFT
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  aussenstellenstandort: Schulgebäude Sommerbergschule
-  klassenstufen: 5-7
-  schueler_herkunft: Buchenbach, Oberried
+  produktionsbereich: "Entwicklung und Produktion innovativer bürst- und lufttechnischer Reinigungssysteme"
+GUELTIG_AB: 1900
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
-
----
-
-ENTITÄT: bildungseinrichtung
-BEZEICHNUNG: Studienhaus Wiesneck
-ORTSTEIL_BEZUG: Wiesneck
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  gegruendet_jahr: 1958
-  typ: Bildungs- und Begegnungsstätte
-  autragende_institution: Institut für politische Bildung Baden-Württemberg e.V.
-  fruehere_bezeichnung: Ost-West-Institut
-  gruendungsinitiator: Arnold Bergstraesser
-GUELTIG_AB: 1958
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
 
 ---
 
 ENTITÄT: klinik
 BEZEICHNUNG: Friedrich-Husemann-Klinik
+FACETTE: INFRA | KULTUR
 ORTSTEIL_BEZUG: Wiesneck
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  orientierung: anthroposophisch orientiert
-  fachbereich: Psychiatrie und Psychotherapie
-GUELTIG_AB:
+  gruender: "Friedrich Husemann"
+  gruender_lebensdaten: 1887-1959
+  gruender_beruf: "Arzt und Psychiater"
+  orientierung: "anthroposophisch"
+  fachabteilungen: "Psychiatrie und Psychotherapie"
+  bedeutung_fuer_ort: "medizinische Einrichtung, kulturelle Bedeutung"
+GUELTIG_AB: 1900
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
-ENTITÄT: unternehmen
-BEZEICHNUNG: Dold Holzwerke GmbH
+ENTITÄT: bildungsstaette
+BEZEICHNUNG: Studienhaus Wiesneck
+FACETTE: INFRA | BILDUNG
+ORTSTEIL_BEZUG: Wiesneck
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  betaetigung: Sägewerk, Produktion von Möbel- und Baumarktplatten, Holzpellet-Fabrikation
-  mitarbeiter: 200
+  gruendung: 1958
+  art: "Bildungs- und Begegnungsstätte"
+  institutionen: "Institut für politische Bildung Baden-Württemberg"
+  früherer_name: "Ost-West-Institut"
+  gruender_initiator: "Arnold Bergstraesser"
+GUELTIG_AB: 1958
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.92
 
 ---
 
-ENTITÄT: unternehmen
-BEZEICHNUNG: Siko GmbH
+ENTITÄT: schule
+BEZEICHNUNG: Sommerbergschule
+FACETTE: INFRA | BILDUNG
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  betaetigung: Messtechnik
-  mitarbeiter_2008: 160
+  schultyp: "Grundschule"
+  schueler_stand_2015_16: 105
+  klassenzahl: 7
+  klassengliederung_2015_16: "drei Klassen 1/2, Klasse 3 und 4 jeweils zweizügig"
+  besonderheit: "Außenstelle der Werkrealschule Dreisamtal beherbergt"
+GUELTIG_AB: 2015
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: unternehmen
-BEZEICHNUNG: Wandres GmbH
+ENTITÄT: schulform
+BEZEICHNUNG: Werkrealschule Dreisamtal
+FACETTE: INFRA | BILDUNG
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  betaetigung: Entwicklung und Produktion innovativer bürst- und lufttechnischer Reinigungssysteme
+  aussenstellenort: "Sommerbergschule Buchenbach"
+  klassenstufen: "Klassen 5 bis 7"
+  einzugsgebiet: "Buchenbach und Oberried"
+GUELTIG_AB: 2015
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 
 ---
 
-ENTITÄT: unternehmen
-BEZEICHNUNG: Widmann GmbH
+ENTITÄT: fluss
+BEZEICHNUNG: Rotbach
+FACETTE: LAGE
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  betaetigung: Gebäudereinigung und Gebäudedienstleistungen
+  tal: "Höllental"
+  geografische_funktion: "durchfließt das Höllental"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Dreisam
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  entstehung: "Vereinigung von zwei Gebirgsbächen westlich von Buchenbach"
+  bedeutung: "Buchenbach liegt am oberen Anfang des Dreisamtals"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Roteck
+FACETTE: LAGE | GEOGRAPHIE
+QUELLE: https://www.buchenbach.de/p/informationen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 1160 [m]
+  superlativ: "höchste Erhebung der Gemeinde"
+  lage: "südlichster Punkt der Gemeindemarkung"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Otten
+FACETTE: LAGE | GEOGRAPHIE
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 1041 [m]
+  lage: "zwischen Diezen- und Griesdobel, südöstlich vom Kernort, Grenze zur Gemeinde Breitnau"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Belleck
+FACETTE: LAGE | GEOGRAPHIE
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 807 [m]
+  lage: "an der Abzweigung Spirzenstraße von der L128"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Frauensteig
+FACETTE: LAGE | GEOGRAPHIE
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 783 [m]
+  besonderheit: "Frauensteigfelsen"
+  lage: "bildet vom Dreisamtal kommend die linke Bergflanke des Höllentals oberhalb von Falkensteig"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Rohrberg
+FACETTE: LAGE | GEOGRAPHIE
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 868 [m]
+  lage: "nordwestliche Grenze zur Gemeinde St. Märgen, rechte Talseite Wagensteigtal"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Kappeneck
+FACETTE: LAGE | GEOGRAPHIE
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 701 [m]
+  lage: "Erhebung zwischen Ibental und Kernort, entlang Wiesnecksattel"
+GUELTIG_AB: 1000
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Winterkapf
+FACETTE: LAGE | GEOGRAPHIE
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 796 [m]
+  lage: "zwischen Unteribental und Wagensteig"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Falkensteig
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_zu_buchenbach: 1971-12-01
+  unabhaengigkeit_ende: 1971
+  lage_besonderheit: "funktionale Exklave in Barthelshäusle, fast vollständig von St. Märgen umgeben"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unteribental
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1120
+  gruendung_genauigkeit: "ca."
+  urspruengliche_herren: "Zähringer"
+  vereinigung_mit: "Stegen"
+  wiederselbstaendigkeit: 1827
+  zugehoerigkeit_baden: 1806
+  amtsbezirk: "Amtsbezirk Freiburg (1819)"
+  eingemeindung_zu_buchenbach: 1975-01-01
+  namensherkunft: "Bestandteil 'ib' weist auf frühere Eibenbestände hin"
+GUELTIG_AB: 1120
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wagensteig
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  ersterwaehnung: 1125
+  zugehoerigkeit_baden: "nach Säkularisation durch Reichsdeputationshauptschluss"
+  amtsbezirk: "Amtsbezirk Freiburg (1819)"
+  eingemeindung_zu_buchenbach: 1973-08-01
+GUELTIG_AB: 1125
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
 ENTITÄT: bahnhof
-BEZEICHNUNG: Himmelreich
-ORTSTEIL_BEZUG: Himmelreich
+BEZEICHNUNG: Bahnhof Himmelreich
+FACETTE: INFRA
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  lage: westlicher Ortsrand auf Kirchzartener Gemarkung
-  bahnlinie: Höllentalbahn
-  verkehrstakt_tagsueber: Halbstundentakt
-  verbindung_freiburg: Freiburg im Breisgau
-  verbindung_hochschwarzwald: Hochschwarzwald (abwechselnd Titisee nach Neustadt oder Dreiseenbahn nach Seebrugg)
+  lage: "Kirchzartener Gemarkung, westlicher Ortsrand"
+  bahnstrecke: "Höllentalbahn"
+  verkehrsfrequenz: "tagsüber Halbstundentakt"
+  verbindungen: "Freiburg im Breisgau und Hochschwarzwald"
+  besonderheit: "abwechselnd ab Titisee nach Neustadt oder Dreiseenbahn nach Seebrugg"
+GUELTIG_AB: 1900
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.92
 
 ---
 
-ENTITÄT: strasse
-BEZEICHNUNG: Bundesstraße B31
+ENTITÄT: radweg
+BEZEICHNUNG: Dreisamtal-Radwanderweg
+FACETTE: FREIZEIT | INFRA
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  lage: westlich von Buchenbach und durch Ortsteil Falkensteig
-  verlauf: Breisach–Lindau
-  funktion: wichtigste Verbindung nach Freiburg im Breisgau und in den Hochschwarzwald und zum Bodensee
+  route: "über Burg nach Stegen"
+GUELTIG_AB: 1900
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.80
 
 ---
 
-ENTITÄT: strasse
-BEZEICHNUNG: Landesstraße L128
+ENTITÄT: radweg
+BEZEICHNUNG: Schwarzwald Bike Crossing
+FACETTE: FREIZEIT | INFRA
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  lage: unmittelbar am Ortsrand, südliche Abzweigung
-  verlauf: durch Wagensteigtal über St. Märgen zum Thurner
+  route_richtung_nord: "Unteribental mit St. Peter"
+  route_richtung_sued: "Pfaffendobel mit Breitnau"
+GUELTIG_AB: 1900
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.80
 
 ---
 
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Friedrich Husemann
+ENTITÄT: verwaltungsgebuende
+BEZEICHNUNG: Gemeindeverwaltungsverband Dreisamtal
+FACETTE: POLITIK | INFRA
 QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
 EIGENSCHAFTEN:
-  geburtsjahr: 1887
-  todesjahr: 1959
-  beruf: Arzt und Psychiater
-  leistung: gründete in Buchenbach eine anthroposophisch orientierte Klinik für Psychiatrie und Psychotherapie
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Alfred Döblin
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1878
-  todesjahr: 1957
-  beruf: Arzt und gesellschaftskritischer Schriftsteller
-  buchenbach_bezug: wurde 1956 in der Husemann-Klinik ärztlich behandelt
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Broder Christiansen
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1869
-  todesjahr: 1958
-  beruf: Philosoph und Sprachwissenschaftler
-  wohnort: Wiesneck
-  dauer_aufenthalt_jahre: 20
-  aktivitaeten: lebte in Einsiedelei, schrieb Bücher als Privatgelehrter, betrieb Felsen-Verlag
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Uli Führe
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  geburtsjahr: 1957
-  beruf: Komponist, Liedermacher, freier Musikpädagoge, Autor
-  wohnort: Buchenbach
-GUELTIG_AB: 1957
+  mitgliedsgemeinden: "Kirchzarten, Oberried, Stegen, Buchenbach"
+  sitz: "Kirchzarten"
+GUELTIG_AB: 1970
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.90
 
 ---
 
-ENTITÄT: persoenlichkeit
-BEZEICHNUNG: Oskar Saier
-QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
-EIGENSCHAFTEN:
-  status: emeritierter Erzbischof von Freiburg
-  geburtsort: Wagensteig
-VERTRAUEN_EXTRAKTION: 0.9
-
----
-
-ENTITÄT: wappen
-BEZEICHNUNG: Wappen von Buchenbach
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Märgen
+FACETTE: GESCHICHTE | KULTUR
 QUELLE: https://www.buchenbach.de/p/ortsteile-und-geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beschreibung: Über grünem Dreiberg gespalten; vorn in Silber (Weiß) eine grüne Buche auf dem vorderen Hügel des Dreibergs, hinten in Rot ein silberner (weißer) Wellenbalken
-  flagge: Grün-Weiß (Grün-Silber)
+  gruender: "Grafen von Haigerloch"
+  bedeutung: "historisches Kloster in der Region"
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Narrengilde Rot-Blau Höllental
+FACETTE: KULTUR | ALLTAG
+QUELLE: https://www.buchenbach.de/p/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: "Fasnachtsbrauch"
+  bedeutung_fuer_ort: "Fest und Brauch mit überörtlicher Bekanntheit"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Schwarzwaldverein e.V.
+FACETTE: FREIZEIT
+QUELLE: https://www.buchenbach.de/p/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: "Wanderverein"
+  aktivitaeten: "Wandern und Naturschutz"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: buegermeister
+BEZEICHNUNG: Ralf Kaiser
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  wahltermin: 2020-02-02
+  wahlerg_prozent: 75.2
+  wahlbeteiligung: 74.0
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: initiative
+BEZEICHNUNG: Klima-Bürger*innenrat Region Freiburg
+FACETTE: POLITIK
+QUELLE: https://www.buchenbach.de/p/klima-buergerinnen-rat-fuer-die-region-freiburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: "interkommunaler Klima-Bürger*innenrat"
+  superlativ: "erster interkommunaler Klima-Bürger*innenrat Deutschlands"
+  teilnehmergemeinden: 16
+  beteiligung_buchenbach: true
+  zentrales_thema: "100% Erneuerbare Energien"
+  durchfuehrungsorganisation: "Allianz für WERTEorientierte Demokratie e.V. (AllWeDo)"
+  zeitraum_durchfuehrung: 2022
+GUELTIG_AB: 2022
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Alfred Döblin
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1878-1957
+  beruf: "Arzt und gesellschaftskritischer Schriftsteller"
+  verbindung_buchenbach: "1956 in der Husemann-Klinik ärztlich behandelt"
+GUELTIG_AB: 1878
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Friedrich Husemann
+FACETTE: KULTUR | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1887-1959
+  beruf: "Arzt und Psychiater"
+  leistung: "gründete in Buchenbach eine anthroposophisch orientierte Klinik für Psychiatrie und Psychotherapie"
+  bedeutung_fuer_ort: "Gründer der Friedrich-Husemann-Klinik"
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Theophil Herder-Dorneich
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  beruf: "Verleger"
+  verbindung_buchenbach: "erbaute 1967/68 die Vaterunser-Kapelle im Ibental"
+  bedeutung_fuer_ort: "Mäzen und Kulturgestalter"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Oskar Saier
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  beruf: "emeritierter Erzbischof von Freiburg"
+  geburtsort_ortsteil: "Wagensteig"
+  bedeutung: "hochrangige kirchliche Persönlichkeit"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Broder Christiansen
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Buchenbach | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1869-1958
+  beruf: "Philosoph und Sprachwissenschaftler"
+  aufenthaltsort: "Wiesneck-Einsiedelei"
+  aufenthaltsdauer: 20 [Jahre]
+  beschreibung: "Privatgelehrter, betrieb Felsen-Verlag"
+  bedeutung_fuer_ort: "kulturelle Persönlichkeit mit Wirkung in Buchenbach"
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

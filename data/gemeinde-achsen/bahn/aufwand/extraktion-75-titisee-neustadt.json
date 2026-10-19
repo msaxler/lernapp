@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "75-titisee-neustadt",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 21614,
- "token_ein": 23863,
- "token_aus": 11284,
+ "eingabe_zeichen": 121135,
+ "token_ein": 61873,
+ "token_aus": 14238,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 16733,
-  "cache_read_input_tokens": 7121,
-  "output_tokens": 11284,
+  "cache_creation_input_tokens": 54736,
+  "cache_read_input_tokens": 7128,
+  "output_tokens": 14238,
   "output_tokens_details": {
-   "thinking_tokens": 4184
+   "thinking_tokens": 1298
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 16733,
+   "ephemeral_1h_input_tokens": 54736,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 11284,
-    "cache_read_input_tokens": 7121,
-    "cache_creation_input_tokens": 16733,
+    "output_tokens": 14238,
+    "cache_read_input_tokens": 7128,
+    "cache_creation_input_tokens": 54736,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 16733
+     "ephemeral_1h_input_tokens": 54736
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.09060710000000001,
- "sekunden": 105,
+ "kosten_usd": 0.18138379999999998,
+ "sekunden": 111,
  "fehler": false,
- "zeit": "2026-10-06T09:13:02"
+ "zeit": "2026-10-19T22:58:03"
 }
