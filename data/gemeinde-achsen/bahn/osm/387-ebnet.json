@@ -1,0 +1,499 @@
+{
+ "ort": "387-ebnet",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Gipfel": [
+   {
+    "name": "Rosskopf",
+    "zusatz": "737 m",
+    "wikipedia": "de:Roßkopf (Breisgau)",
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Kleiner Rosskopf",
+    "zusatz": "562 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Eleonore Sternweiler",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/eleonore-sternweiler/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Ruth Sternweiler",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/ruth-sternweiler/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hans Sternweiler",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hans-sternweiler/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Schloß Ebnet",
+    "zusatz": "seit 1750",
+    "wikipedia": "de:Schloss Ebnet",
+    "website": null,
+    "tags": {
+     "historic": "castle"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Dreisam",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Eschbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Welchentalbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Krummbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Klaradobelbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Dietersbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Erlenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Lochbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "BDachsbaugrabven",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Totengraben",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Brugga",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Gewerbekanal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Bad": [
+   {
+    "name": "Strandbad",
+    "zusatz": "swimming",
+    "wikipedia": null,
+    "website": "https://www.badeninfreiburg.de/baeder-saunen/strandbad",
+    "tags": {
+     "landuse": "recreation_ground",
+     "leisure": "water_park",
+     "sport": "swimming"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Dreisamhalle",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Reithalle",
+    "zusatz": "equestrian",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_hall",
+     "sport": "equestrian"
+    }
+   },
+   {
+    "name": "Sportplatz Ebnet",
+    "zusatz": "soccer",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "soccer"
+    }
+   },
+   {
+    "name": "Sportclub Freiburg",
+    "zusatz": "soccer",
+    "wikipedia": "de:SC Freiburg",
+    "website": "https://www.scfreiburg.com/",
+    "tags": {
+     "landuse": "recreation_ground",
+     "leisure": "sports_centre",
+     "sport": "soccer"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Freiburger Golfclub",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://www.fr-gc.de/",
+    "tags": {
+     "leisure": "golf_course"
+    }
+   },
+   {
+    "name": "Kamelhof Karawansinn",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://www.karawansinn.de",
+    "tags": {
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Fun Strand an der Dreisam - Beachclub und Minigolf",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.fun-strand.de/",
+    "tags": {
+     "leisure": "miniature_golf"
+    }
+   },
+   {
+    "name": "Dreisamstadion",
+    "zusatz": "soccer",
+    "wikipedia": "de:Schwarzwald-Stadion",
+    "website": "https://www.scfreiburg.com/",
+    "tags": {
+     "leisure": "stadium",
+     "sport": "soccer",
+     "tourism": "attraction"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Dreisamtal-Radwanderweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Südschwarzwald-Radweg",
+    "zusatz": "269 km",
+    "wikipedia": "de:Südschwarzwald-Radweg",
+    "website": "http://www.suedschwarzwald-radweg.info/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Grüne Straße - Route Verte",
+    "zusatz": "250 km",
+    "wikipedia": null,
+    "website": "http://www.gruene-strasse.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Zähringer-Wanderweg",
+    "zusatz": "74 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Planetenweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kandel-Höhenweg [05. St. Peter→Freiburg]",
+    "zusatz": "",
+    "wikipedia": "de:Kandelhöhenweg",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Himmelreich-Jakobusweg",
+    "zusatz": "",
+    "wikipedia": "de:Jakobsweg",
+    "website": "https://himmelreich-jakobusweg.de",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bruckmühle - Ebneter Schlosssteg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Eingang Welchental - Attental Kreuzmatte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "blaue Raute Stühlingen - Rothaus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Galgenberg - Hinter dem Fabrikle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hinter dem Fabrikle - Freiburg-Ebnet Kirche",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Freiburg-Ebnet Kirche - Eingang Welchental",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Freiburg-Ebnet Kirche - Ebneter Schlosssteg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Galgenberg - Freiburg-Ebnet Kirche",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Galgenberg - St. Wendelinweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ochsenlager Rosmarientanne - Heidelbeerhütte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "St. Ottilienhalde - Ochsenlager Rosmarientanne",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rosskopfsattel - St. Wendelinweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "St. Ottilienhalde - Rosskopfsattel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Lachen - St. Ottilienhalde",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hornbühlweg - Ochsenlager Rosmarientanne",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ochsenlager Rosmarientanne - Martinsfelsen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "St. Wendelinkapelle - Eingang Welchental",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "St. Wendelinweg - St. Wendelinkapelle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ]
+ }
+}

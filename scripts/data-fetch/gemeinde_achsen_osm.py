@@ -144,6 +144,10 @@ def main():
         o, g = orte[slug], grund[slug]
         d, art = holen(o[2], o[4], g['lat'], g['lon'])
         aus = sortieren(d)
+        # Overpass-Ausfall (502 nach allen Versuchen, Littenweiler 2026-10-19): eine vorhandene Zeugenliste nicht mit „nichts“ überschreiben
+        if not aus and os.path.exists(os.path.join(AUS, slug + '.txt')):
+            print('%-24s Overpass ohne Antwort – vorhandene Zeugenliste bleibt' % slug)
+            continue
         with io.open(os.path.join(AUS, slug + '.json'), 'w', encoding='utf-8', newline='\n') as f:
             json.dump({'ort': slug, 'gebiet': art, 'kategorien': aus}, f, ensure_ascii=False, indent=1)
         txt = block(aus, art)

@@ -18263,6 +18263,21 @@
     "zeichen": 1157
    },
    {
+    "url": "https://www.freiburg.de/pb/206696.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2798
+   },
+   {
+    "url": "https://www.freiburg.de/pb/206712.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2023
+   },
+   {
+    "url": "https://www.freiburg.de/pb/550854.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 465
+   },
+   {
     "url": "https://www.freiburg.de/pb/838151.html",
     "art": "Gemeinde-Webseite",
     "zeichen": 3269
@@ -18326,17 +18341,70 @@
     "url": "https://www.freiburg.de/pb/2539961.html",
     "art": "Gemeinde-Webseite",
     "zeichen": 8540
+   },
+   {
+    "url": "https://www.freiburg.de/pb/2542141.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 1326
+   },
+   {
+    "url": "https://www.freiburg.de/pb/1156511.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 6845
+   },
+   {
+    "url": "https://www.freiburg.de/pb/206468.html",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 9968
+   },
+   {
+    "url": "https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7710/Ebnet",
+    "art": "Landesportal",
+    "zeichen": 6291
    }
   ],
   "start": "https://www.freiburg.de/pb/206692.html",
-  "sekunden": 26,
-  "zeichen": 55640
+  "sekunden": 34,
+  "zeichen": 85931
  },
  "388-littenweiler": {
   "slug": "388-littenweiler",
-  "seiten": [],
-  "sekunden": 0,
-  "zeichen": 0
+  "seiten": [
+   {
+    "url": "http://bv-littenweiler.de/joomla/buergerverein-littenweiler",
+    "fehler": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "http://bv-littenweiler.de/joomla/152-dorfplatzfest-20-21-07-2024",
+    "fehler": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "http://bv-littenweiler.de/joomla/148-freiburg-putzt-sich-raus-am-02-03-2024",
+    "fehler": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "http://bv-littenweiler.de/joomla/162-energiekarawane-der-fesa-e-v-zu-gast-beim-buergerverein",
+    "fehler": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "http://bv-littenweiler.de/joomla/index.php?option=com_content&view=article&id=9&Itemid=5",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2044
+   },
+   {
+    "url": "http://bv-littenweiler.de/joomla/index.php?option=com_content&view=article&id=10&Itemid=3",
+    "art": "Gemeinde-Webseite",
+    "zeichen": 2216
+   },
+   {
+    "url": "https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7723/Littenweiler",
+    "art": "Landesportal",
+    "zeichen": 3037
+   }
+  ],
+  "start": "http://bv-littenweiler.de/joomla/",
+  "sekunden": 19,
+  "zeichen": 7678
  },
  "389-merzhausen": {
   "slug": "389-merzhausen",

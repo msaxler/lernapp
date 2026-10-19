@@ -164,6 +164,13 @@
    "Stadt"
   ],
   [
+   "433-kirchzarten",
+   "ziel",
+   "Kirchzarten",
+   "Kirchzarten",
+   "Gemeinde"
+  ],
+  [
    "71-stegen",
    "ziel",
    "Stegen",
@@ -189,6 +196,13 @@
    "ziel",
    "Hinterzarten",
    "Hinterzarten",
+   "Gemeinde"
+  ],
+  [
+   "432-breitnau",
+   "ziel",
+   "Breitnau",
+   "Breitnau",
    "Gemeinde"
   ],
   [
@@ -3018,20 +3032,6 @@
    "Kettwig",
    "Kettwig",
    "Ortsteil von Essen"
-  ],
-  [
-   "432-breitnau",
-   "ziel",
-   "Breitnau",
-   "Breitnau",
-   "Gemeinde"
-  ],
-  [
-   "433-kirchzarten",
-   "ziel",
-   "Kirchzarten",
-   "Kirchzarten",
-   "Gemeinde"
   ]
  ],
  "spender": [],
@@ -4004,7 +4004,13 @@
   "387-ebnet": {
    "webseite": "https://www.freiburg.de/pb/206692.html",
    "seiten": [
-    "https://www.freiburg.de/pb/206692.html"
+    "https://www.freiburg.de/pb/206692.html",
+    "https://www.freiburg.de/pb/206696.html",
+    "https://www.freiburg.de/pb/206712.html",
+    "https://www.freiburg.de/pb/550854.html"
+   ],
+   "portal": [
+    "https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7710/Ebnet"
    ]
   },
   "397-hochdorf-freiburg": {
@@ -4066,6 +4072,16 @@
    "webseite": "https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber",
    "seiten": [
     "https://www.neuwied.de/stadtleben/standort/stadtteile/oberbieber"
+   ]
+  },
+  "388-littenweiler": {
+   "webseite": "http://bv-littenweiler.de/joomla/",
+   "seiten": [
+    "http://bv-littenweiler.de/joomla/index.php?option=com_content&view=article&id=9&Itemid=5",
+    "http://bv-littenweiler.de/joomla/index.php?option=com_content&view=article&id=10&Itemid=3"
+   ],
+   "portal": [
+    "https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7723/Littenweiler"
    ]
   }
  },

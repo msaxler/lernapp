@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "387-ebnet",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 19839,
+ "token_ein": 428823,
+ "token_aus": 15670,
+ "usage": {
+  "input_tokens": 18,
+  "cache_creation_input_tokens": 59176,
+  "cache_read_input_tokens": 369629,
+  "output_tokens": 15670,
+  "output_tokens_details": {
+   "thinking_tokens": 6994
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 59176,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 6979,
+    "cache_read_input_tokens": 63233,
+    "cache_creation_input_tokens": 2845,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 2845
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.5158808000000001,
+ "sekunden": 176,
+ "fehler": false,
+ "zeit": "2026-10-19T23:51:56"
+}

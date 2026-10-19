@@ -1,0 +1,50 @@
+{
+ "stufe": "karten-portraet",
+ "ort": "388-littenweiler",
+ "prompt": "prompt-karten-v0.9.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 55363,
+ "token_ein": 49355,
+ "token_aus": 53475,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 42451,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 53475,
+  "output_tokens_details": {
+   "thinking_tokens": 40915
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 42451,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 53475,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 42451,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 42451
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.4104964,
+ "sekunden": 459,
+ "fehler": false,
+ "zeit": "2026-10-19T23:47:14"
+}

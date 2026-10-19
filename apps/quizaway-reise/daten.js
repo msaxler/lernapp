@@ -4981,162 +4981,163 @@ window.QA_DATEN = {
 "lon": 7.90472,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Rokokoschloss mit Wentzinger-Figurenpark",
+"rang": 6,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Ebnet",
 "steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
-"frage": "In der Ebneter Pfarrkirche St. Hilarius heiratete 1756 ein Paar mit Verbindung zu einem berühmten Komponisten. Wer war es?",
+"frage": "Im Park von Schloss Ebnet stehen Kopien von Sandsteinfiguren des Bildhauers Johann Christian Wentzinger. Die Originale sind heute im Freiburger Museum für Stadtgeschichte. Was stellen die Figuren dar?",
 "optionen": [
-"Es waren die Eltern Wolfgang Amadeus Mozarts.",
-"Es waren Mozarts spätere Schwiegereltern.",
-"Es waren die Eltern Joseph Haydns.",
-"Es waren die Großeltern Ludwig van Beethovens."
+"Sie stellen die vier Elemente dar.",
+"Sie stellen die vier Jahreszeiten dar.",
+"Sie stellen die vier Evangelisten dar.",
+"Sie stellen die vier Erdteile dar."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Mozarts Eltern liegen nahe, denn Mozart kam im selben Jahr zur Welt. Doch in Ebnet heirateten am 14. September 1756 Fridolin Weber und Cäcilia Stamm, die Eltern von Mozarts späterer Frau Constanze. Richtig war 2.",
-"quelle": "Weber-Gesamtausgabe, weber-gesamtausgabe.de/de/A008362.html",
+"rueckseite": "Du hattest [Option] getippt. Vier Elemente oder vier Erdteile liegen nahe, solche Figurengruppen schmückten viele Schlossgärten. Wentzingers Figuren aus dem Park von Schloss Ebnet stellen aber die Vier Jahreszeiten dar. Sie gelten als herausragendes Barockwerk im Südwesten. Im Park stehen heute Kopien, die Originale zeigt das Freiburger Museum für Stadtgeschichte. So ein Figurenpark überrascht in einem Freiburger Stadtteil mit rund 3.000 Einwohnern. Richtig war 2.",
+"quelle": "Kulturstiftung der Länder, kulturstiftung.de/produkt/johann-christian-wentzinger-vier-jahreszeiten/",
 "faktencheck": "korrigiert",
-"id": "387-ebnet/v0.8/1",
+"id": "387-ebnet/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "GESCHICHTE",
+"charakteristikum": "Mozarts Schwiegereltern heirateten hier",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Ebnet",
-"steckbrief": "Freiburger Stadtteil 4 km östlich der Stadtmitte, Gemarkung knapp 7 km².",
-"frage": "Wie viele Einwohner hat Ebnet?",
+"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
+"frage": "1756 wurde in der Ebneter Kirche St. Hilarius ein Paar getraut, das mit Mozart verbunden ist. Wer war es?",
 "optionen": [
-"unter 1.000",
-"1.000 bis unter 2.500",
-"2.500 bis unter 5.000",
-"5.000 und mehr"
+"Hier heirateten Mozarts Eltern.",
+"Hier heirateten Mozarts Großeltern.",
+"Hier heirateten Mozarts Schwiegereltern.",
+"Hier heiratete Mozarts Taufpate."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil am Stadtrand wirkt schnell wie ein kleines Dorf. Ebnet zählte 2024 aber 3.010 Einwohner. Richtig war 3.",
-"quelle": "Wikidata P1082, Stand 2024",
-"faktencheck": "bestätigt",
-"id": "387-ebnet/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Mozarts Eltern liegen nahe, doch Mozart kam selbst 1756 zur Welt, seine Eltern waren da schon verheiratet. Getraut wurden in St. Hilarius seine späteren Schwiegereltern Fridolin Weber und Cäcilia Stamm, die Eltern seiner Frau Constanze. Die Kirche ist ein Neubau von 1720 mit Bauteilen des späten Mittelalters. So steht ein Stück Mozart-Familiengeschichte in einem Freiburger Stadtteil mit rund 3.000 Einwohnern. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "387-ebnet/v0.9/2",
 "tisch": false
 },
 {
+"facette": "ALLTAG",
+"charakteristikum": "Ziegen halten die Aussicht frei",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebnet",
+"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
+"frage": "Ebneter Bürger haben sich zur Arbeitsgemeinschaft Ebneter Ortsbild zusammengeschlossen. Sie betreibt ein Ziegenprojekt. Wozu dient es?",
+"optionen": [
+"Die Ziegen liefern Milch für Ebneter Käse.",
+"Die Ziegen bilden einen Streichelzoo für Kinder.",
+"Die Ziegen sollen Touristen zum Galgenberg locken.",
+"Die Ziegen halten den Blick vom Galgenberg frei."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Ziegen denkt man zuerst an Milch und Käse. In Ebnet sind sie Landschaftspfleger: Das Ziegenprojekt der Arbeitsgemeinschaft Ebneter Ortsbild hält die Aussicht vom Galgenberg ins Dreisamtal frei. Dass Bürger eines Stadtteils mit rund 3.000 Einwohnern ihre Aussicht mit Ziegen pflegen, ist eher Dorf als Großstadt. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "387-ebnet/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Trinkwasser für zwei Drittel Freiburgs",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebnet",
+"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
+"frage": "In Ebnet steht das Wasserwerk Freiburg-Ebnet mit neun Tiefbrunnen. Welchen Teil Freiburgs versorgt es mit Trinkwasser?",
+"optionen": [
+"Es versorgt nur den Stadtteil Ebnet selbst.",
+"Es versorgt den Freiburger Osten, von der Wiehre bis Zähringen.",
+"Es versorgt nur die Industriegebiete im Freiburger Norden.",
+"Es versorgt ausnahmslos ganz Freiburg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Werk in einem kleinen Stadtteil denkt man an die Versorgung des eigenen Orts. Das Wasserwerk Freiburg-Ebnet fasst Grundwasser aus neun Tiefbrunnen und zwei Sammlern. Zusammen mit dem Wasserschlössle im Sternwald beliefert es über 30.000 Haushalte im Freiburger Osten, von der Wiehre bis Zähringen. Das Wasser fließt durch natürliches Gefälle ohne Pumpen in die Speicher. Richtig war 2.",
+"quelle": "badenova, badenova.de/privatkunden/wasser",
+"faktencheck": "korrigiert",
+"id": "387-ebnet/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Name von der Ebene, Adelssitz",
+"rang": 8,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Ebnet",
 "steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Das Ebneter Wasserwerk versorgt nur den Stadtteil selbst.",
-"Benedikt Gambs malte Deckenbilder im Ebneter Schloss.",
-"Früher führte eine Bundesstraße durch das Dorf."
+"Der Name Ebnet geht auf einen Personennamen zurück.",
+"Das Schloss steht an der Stelle einer Wasserburg.",
+"Durch Heirat fiel Ebnet an die Sickinger."
 ],
 "art": "luege",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein eigenes Wasserwerk klingt nach einem Dorf, das sich selbst versorgt. Doch das Wasserwerk Freiburg-Ebnet versorgt mit seinen Brunnen die Stadt Freiburg mit Trinkwasser. Benedikt Gambs malte tatsächlich Deckenbilder im Schloss, und früher führte die Bundesstraße durch Ebnet. Die Lüge war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau)",
-"faktencheck": "unsicher",
-"id": "387-ebnet/v0.8/3",
+"rueckseite": "Du hattest [Option] getippt. Viele Ortsnamen gehen auf einen Gründer zurück, daher klingt die erste Aussage glaubhaft. Ebnet heißt aber nach der Ebene; früh belegt ist die Form Ebenôte. Wahr sind die beiden anderen: Das Schloss steht an der Stelle einer Wasserburg, und durch Heirat fiel Ebnet an die Sickinger. Viel Adelsgeschichte für einen Stadtteil mit rund 3.000 Einwohnern. Die Lüge war 1.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7710/Ebnet",
+"faktencheck": "korrigiert",
+"id": "387-ebnet/v0.9/6",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Ebnet",
-"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
-"frage": "Bundestagswahl 2025, Zweitstimmen: Welche Partei wurde in Ebnet zweitstärkste Kraft?",
-"optionen": [
-"CDU",
-"GRÜNE",
-"SPD",
-"Die Linke"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Grünen liegen nahe, denn Freiburg gilt als grüne Hochburg. Sie wurden in Ebnet mit 35,3 Prozent auch stärkste Kraft. Zweitstärkste Partei war die CDU mit 23,6 Prozent, vor SPD und Linke. Richtig war 1.",
-"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "387-ebnet/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Ebnet",
-"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
-"frage": "Kasimir Anton von Sickingen, geboren in Ebnet, wurde Fürstbischof von Konstanz. Was von ihm wurde in der Ebneter Kirche beigesetzt?",
-"optionen": [
-"Seine rechte Hand wurde dort beigesetzt.",
-"Sein Herz wurde dort beigesetzt.",
-"Sein Schädel wurde dort beigesetzt.",
-"Sein ganzer Leichnam wurde dort beigesetzt."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Naheliegend ist, dass der Fürstbischof ganz in seinem Geburtsort ruht. Doch in der Ebneter Kirche wurde sein Herz beigesetzt. Solche getrennten Herzbestattungen waren bei Adligen und hohen Geistlichen verbreitet. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau)",
-"faktencheck": "unsicher",
-"id": "387-ebnet/v0.8/5",
-"tisch": false
-},
-{
+"facette": "POLITIK",
+"charakteristikum": "Ausgesprochen hohe Wahlbeteiligung",
+"rang": 7,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Ebnet",
 "steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
-"frage": "In welchem Zeitraum wurde Ebnet nach Freiburg im Breisgau eingemeindet?",
+"frage": "Bundestagswahl 2025: Im Land Baden-Württemberg gingen 83,4 Prozent wählen. Wie lag die Wahlbeteiligung in Ebnet im Vergleich zum Landeswert?",
 "optionen": [
-"vor 1930",
-"1930 bis 1959",
-"1960 bis 1979",
-"1980 oder später"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. So nah an der Freiburger Stadtmitte vermutet man eine frühe Eingemeindung. Doch Ebnet blieb lange eine eigene Gemeinde und kam erst am 1. Juli 1974 zu Freiburg. Richtig war 3.",
-"quelle": "dewiki Infobox, Ebnet (Freiburg im Breisgau)",
-"faktencheck": "bestätigt",
-"id": "387-ebnet/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Ebnet",
-"steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
-"frage": "Wozu dient das Ziegenprojekt der Arbeitsgemeinschaft Ebneter Ortsbild am Galgenberg?",
-"optionen": [
-"Die Ziegenmilch soll zu Dorfkäse werden.",
-"Es hält eine alte Hirtentradition lebendig.",
-"Es erinnert an eine Sage vom Berg.",
-"Es hält die Aussicht vom Berg frei."
+"Mehr als 3 Punkte darunter",
+"Bis zu 3 Punkte darunter",
+"Gleich bis unter 5 Punkte darüber",
+"5 Punkte darüber oder mehr"
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Galgenberg lässt an Sagen und alte Bräuche denken. Doch das Ziegenprojekt hat einen praktischen Zweck: Es dient dazu, die Aussicht vom Galgenberg ins Dreisamtal freizuhalten. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau)",
+"rueckseite": "Du hattest [Option] getippt. Stadtteile großer Städte gehen oft seltener wählen als ländliche Gemeinden, das spricht für einen Wert unter dem Land. Ebnet lag bei der Bundestagswahl 2025 mit 89,9 Prozent aber 6,5 Punkte über dem Landeswert von 83,4 Prozent. Stärkste Partei wurden die Grünen mit 35,3 Prozent. Für einen Stadtteil mit rund 3.000 Einwohnern am Freiburger Stadtrand ist das eine sehr hohe Beteiligung. Richtig war 4.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23; Bundeswahlleiterin, Bundestagswahl 2025",
 "faktencheck": "bestätigt",
-"id": "387-ebnet/v0.8/7",
+"id": "387-ebnet/v0.9/7",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Bischofsherz in der Dorfkirche",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Ebnet",
 "steckbrief": "Freiburger Stadtteil mit rund 3.000 Einwohnern, 4 km östlich der Stadtmitte.",
-"frage": "Ebnet ist erstmals 1113 schriftlich belegt. In welchen Schriftstücken taucht der Ort zuerst auf?",
+"frage": "Kasimir Anton von Sickingen wurde in Ebnet geboren und später Fürstbischof von Konstanz. Was von ihm wurde in der Ebneter Kirche beigesetzt?",
 "optionen": [
-"Ebnet erscheint in Urkunden des Klosters St. Peter.",
-"Ebnet erscheint in einer Urkunde Kaiser Heinrichs V.",
-"Ebnet erscheint im Zinsbuch des Bistums Konstanz.",
-"Ebnet erscheint in einer Chronik des Klosters Reichenau."
+"Sein Leichnam wurde dort vollständig bestattet.",
+"Seine Asche wurde dort in einer Urne beigesetzt.",
+"Sein Herz wurde dort beigesetzt.",
+"Nur seine Bischofsinsignien wurden dort beigesetzt."
 ],
 "art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Eine Kaiserurkunde liegt nahe, denn viele Orte tauchen erstmals in Herrscherurkunden auf. Ebnet aber erscheint im Urkunden- und Güterbuch des Klosters St. Peter, direkt nach der Notiz über die Kirchweihe von 1113. Der Eintrag selbst trägt kein Datum. Richtig war 1.",
-"quelle": "Th. Zotz, 900 Jahre Ebnet, regionalia.blb-karlsruhe.de/files/475/BLB_Zotz_900_Jahre_Ebnet.pdf",
-"faktencheck": "korrigiert",
-"id": "387-ebnet/v0.8/8",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein ganzes Grab liegt nahe, er stammte ja aus Ebnet. Beigesetzt wurde in der Ebneter Kirche aber sein Herz – getrennte Herzbestattungen kamen im Adel jener Zeit vor. Als Fürstbischof von Konstanz war er geistlicher und weltlicher Herr zugleich. Ein Bischofsherz in der Dorfkirche zeigt, wie eng ein Stadtteil von heute rund 3.000 Einwohnern einst mit seinem Adel verbunden war. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau)",
+"faktencheck": "bestätigt",
+"id": "387-ebnet/v0.9/8",
 "tisch": false
 }
 ],
@@ -5228,7 +5229,33 @@ window.QA_DATEN = {
 ]
 },
 "ags": "08311000",
-"ortsteil": true
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 4 km östlich der Mitte, nördlich der Dreisam, unter dem 737 Meter hohen Rosskopf; rund 3.000 Einwohner."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals belegt 1111 als „Ebenôte“, benannt nach der Ebene; seit 1974 Teil von Freiburg; Rokokoschloss der Sickinger."
+},
+{
+"facette": "ALLTAG",
+"text": "Neue Wohnungen auf dem alten Sportplatz und im Baugebiet Hornbühl-Ost; Bürger pflegen per Ziegenprojekt die Aussicht."
+},
+{
+"facette": "FREIZEIT",
+"text": "Strandbad, Golfclub, Kamelhof, Dreisamhalle; dazu Zähringer-Wanderweg, Himmelreich-Jakobusweg, Planetenweg und Südschwarzwald-Radweg."
+},
+{
+"facette": "INFRA",
+"text": "Wasserwerk für Freiburgs Trinkwasser, Feyel-Grundschule, Radweg FR 1; die B 31 führt seit 2002 nicht mehr durch den Ort."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: Grüne 35,3 Prozent vor CDU 23,6 Prozent, Wahlbeteiligung 89,9 Prozent."
+}
+]
 },
 {
 "slug": "388-littenweiler",
@@ -5237,194 +5264,221 @@ window.QA_DATEN = {
 "lon": 7.89667,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Bergleute im Bauerndorf",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Littenweiler",
-"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
-"frage": "Littenweilers Ortswappen zeigt ein weißes Tatzenkreuz auf Rot, in jedem Feld eine silberne Kugel. Woher stammt dieses Bild?",
+"steckbrief": "Freiburger Stadtteil mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Die alte Kirche von Littenweiler war der heiligen Barbara geweiht. Was verrät das nach der Ortsgeschichte über das Dorf?",
 "optionen": [
-"Es vereint die Zeichen zweier früherer Ortsherren.",
-"Die Kugeln stehen für Silbererz aus dem Bergbau.",
-"Das Kreuz erinnert an eine Pestkapelle im Dorf.",
-"Es zeigt das Zeichen einer alten Pilgerstraße."
+"Im Dorf lebten früher Bergleute.",
+"Eine Stifterin der Kirche hieß Barbara.",
+"Das Dorf lag an einem Pilgerweg.",
+"An den Hängen wuchs einst Wein."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Kreuz und Kugeln wirken wie Zeichen von Kirche oder Bergbau. Doch das Wappen kombiniert die Zeichen der beiden langjährigen Ortsherren: Das Tatzenkreuz, ein Kreuz mit breiten Enden, steht für den Deutschen Orden, die Silberkugeln stehen für die Grafen von Sickingen. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
-"faktencheck": "unsicher",
-"id": "388-littenweiler/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Eine Stifterin läge nahe, weil Kirchen manchmal an Wohltäter erinnern. Die heilige Barbara ist aber die Patronin der Bergleute, und die Ortsgeschichte schließt daraus, dass hier auch Bergleute lebten. Vermutlich arbeiteten sie wie die Nachbarn aus Kappel in den Stollen am Schauinsland, dem Erzkasten. Aus dem Bauerndorf wurde ein Wohnviertel, doch auch die neue katholische Kirche heißt wieder St. Barbara. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, bv-littenweiler.de/joomla/index.php?option=com_content&view=article&id=9&Itemid=5",
+"faktencheck": "korrigiert",
+"id": "388-littenweiler/v0.9/1",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "alte Kirche als Bürgersaal",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Littenweiler",
+"steckbrief": "Stadtteil im Südosten Freiburgs mit rund 8.500 Einwohnern, 4 km von der Stadtmitte.",
+"frage": "Im alten Ortskern von Littenweiler steht eine ehemalige katholische Kirche. Wozu dient sie seit 1973?",
+"optionen": [
+"Sie beherbergt das Heimatmuseum des Stadtteils.",
+"Sie ist Bürgersaal und Probenhaus der Vereine.",
+"Sie ist die Bibliothek der Hochschule.",
+"Sie wurde zu Wohnungen umgebaut."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Museum läge nahe, denn viele alte Kirchen werden so weitergenutzt. Diese wurde Bürgersaal und Proben- und Aufführungshaus für die kulturellen Vereine; die Stadt Freiburg hatte sie dafür dem Bürgerverein überlassen. Heute ist der Saal das Zentrum des Geschehens im alten Ortskern, ein Stück Dorfmitte in einem Stadtteil mit rund 8.500 Einwohnern. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, bv-littenweiler.de/joomla/index.php?option=com_content&view=article&id=10&Itemid=3",
+"faktencheck": "korrigiert",
+"id": "388-littenweiler/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Tor zum Zartener Becken",
+"rang": 10,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Littenweiler",
+"steckbrief": "Freiburger Stadtteil an der Dreisam mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Östlich von Littenweiler wird das Dreisamtal weit. Wohin öffnet es sich?",
+"optionen": [
+"Es öffnet sich zur Rheinebene.",
+"Es öffnet sich zum Glottertal.",
+"Es öffnet sich zum Zartener Becken.",
+"Es öffnet sich zum Hotzenwald."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Rheinebene läge nahe, denn Freiburg ist zum Rhein hin offen. Sie liegt aber im Westen. Nach Osten öffnet sich das Dreisamtal bei Littenweiler zum Zartener Becken. Der Stadtteil liegt im Dreisamtal am Rand des Schwarzwalds und ist mit Waldsee, Ebnet und Kappel zusammengewachsen. Wer ostwärts fährt, sieht das Tal hier weit werden. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, bv-littenweiler.de/joomla/index.php?option=com_content&view=article&id=9&Itemid=5",
+"faktencheck": "korrigiert",
+"id": "388-littenweiler/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Bauerndorf wird Wohnquartier",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Littenweiler",
+"steckbrief": "Freiburger Stadtteil, heute mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "1950 war Littenweiler noch ein Bauerndorf. Wie entwickelte sich die Einwohnerzahl bis 1970?",
+"optionen": [
+"Sie blieb ungefähr gleich.",
+"Sie stieg um etwa die Hälfte.",
+"Sie verdoppelte sich ungefähr.",
+"Sie stieg auf mehr als das Dreifache."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Verdopplung klänge schon nach viel für zwanzig Jahre. Tatsächlich wuchs Littenweiler von gut 2.100 auf über 6.800 Einwohner. Es entstanden große Baugebiete, eine neue Pfarrkirche, ein evangelisches Gotteshaus und die Pädagogische Hochschule; aus dem Bauerndorf wurde ein städtisches Wohnquartier. Heute leben rund 8.500 Menschen hier, fast viermal so viele wie damals. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, bv-littenweiler.de/joomla/index.php?option=com_content&view=article&id=9&Itemid=5",
+"faktencheck": "bestätigt",
+"id": "388-littenweiler/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Schauplatz von Meckels „Der Brand“",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Littenweiler",
+"steckbrief": "Stadtteil mit rund 8.500 Einwohnern, 4 km südöstlich der Freiburger Stadtmitte.",
+"frage": "Der Schriftsteller Christoph Meckel erzählt in „Der Brand“ autobiografisch vom ländlichen Littenweiler. Von welchem Feuer handelt die Erzählung?",
+"optionen": [
+"Sie erzählt vom Feuer nach Freiburgs Bombardierung.",
+"Sie erzählt vom Großbrand eines Littenweiler Hofs.",
+"Sie erzählt von einem Waldbrand am Schauinsland.",
+"Sie erzählt vom Brand einer Dreisammühle."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein brennender Hof läge nahe, denn die Erzählung spielt im ländlich geprägten Littenweiler. Meckel erzählt aber von der Feuersbrunst nach der Bombardierung Freiburgs im Zweiten Weltkrieg, die er vom Eichberg aus beobachtete. So bewahrt ein Buch das Bild des Ortes, bevor er zum Wohnquartier mit rund 8.500 Einwohnern wuchs. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
+"faktencheck": "unsicher",
+"id": "388-littenweiler/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Bahnhof an der Höllentalbahn",
+"rang": 5,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Littenweiler",
+"steckbrief": "Freiburger Stadtteil mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Pädagogische Hochschule entstand auf früheren Feldern.",
+"Die Höllentalbahn endet am Bahnhof Littenweiler.",
+"Ein Teil des Friedhofs Bergäcker ist Tierfriedhof."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Tierfriedhof klingt erfunden, doch direkt am Friedhof Bergäcker liegt tatsächlich einer. Auch die Hochschule wuchs auf Feldern zwischen Bahnlinie und altem Ortskern. Gelogen ist das Ende der Bahn: Die Höllentalbahn fährt vom Freiburger Hauptbahnhof durch Littenweiler weiter durchs Höllental hinauf in den Hochschwarzwald. Die Lüge war 2.",
+"quelle": "Stadt Freiburg, freiburg.de/pb/2580371.html; Bürgerverein Littenweiler",
+"faktencheck": "korrigiert",
+"id": "388-littenweiler/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "fast neun von zehn wählten",
+"rang": 8,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Littenweiler",
 "steckbrief": "Freiburger Stadtteil mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
-"frage": "Wie groß ist die Fläche des Stadtteils Littenweiler?",
+"frage": "Bundestagswahl 2025: In Baden-Württemberg lag die Wahlbeteiligung bei 83,4 Prozent. Wie lag Littenweiler im Vergleich zum Land?",
 "optionen": [
-"unter 3 km²",
-"3 bis unter 6 km²",
-"6 bis unter 10 km²",
-"10 km² und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil am Rand Freiburgs, da vermutet man viel Feld und Wald. Doch Littenweiler misst nur 4,13 Quadratkilometer und ist dicht bewohnt. Richtig war 2.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "388-littenweiler/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Littenweiler",
-"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Ein Teil des Friedhofs Bergäcker wurde zum Tierfriedhof abgeteilt.",
-"Die Bundesstraße in den Schwarzwald führt oberirdisch durch den Ortskern.",
-"Der SC Freiburg spielte früher im nahen Dreisamstadion an der Schwarzwaldstraße."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Tierfriedhof klingt ungewöhnlicher als eine Bundesstraße durchs Dorf. Doch gerade die Straße ist gelogen: Die B 31 Ost verläuft größtenteils im Kappler Tunnel unter Littenweiler hindurch, was den Verkehr im Stadtteil verringert. Die Lüge war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
-"faktencheck": "unsicher",
-"id": "388-littenweiler/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Littenweiler",
-"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
-"frage": "Wie hoch war die Wahlbeteiligung in Littenweiler bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 85 %",
-"85 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Freiburger Stadtteil mit Hochschule und Studentenwohnheimen, da tippt man eher auf mittlere Werte. Doch bei der Bundestagswahl 2025 gaben in Littenweiler 89,8 Prozent ihre Stimme ab. Richtig war 4.",
-"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "388-littenweiler/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Littenweiler",
-"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
-"frage": "Vermutlich wegen der Bergleute im Ort bekam Littenweilers alte Pfarrkirche ihre Schutzheilige. Welche war es?",
-"optionen": [
-"Die Kirche war der heiligen Barbara geweiht.",
-"Die Kirche war der heiligen Katharina geweiht.",
-"Die Kirche war der heiligen Ursula geweiht.",
-"Die Kirche war der heiligen Margareta geweiht."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Katharina und Margareta sind ebenso beliebte Kirchenpatroninnen. Doch Barbara gilt als Patronin der Bergleute. Die Kirche erhielt sie vermutlich, weil Bergleute aus Littenweiler und Kappel in den Stollen des Schauinslands arbeiteten. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
-"faktencheck": "unsicher",
-"id": "388-littenweiler/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Littenweiler",
-"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
-"frage": "In welchem Zeitraum wurde Littenweiler nach Freiburg eingemeindet?",
-"optionen": [
-"vor 1900",
-"1900 bis 1919",
-"1920 bis 1949",
-"1950 oder später"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an die großen Gemeindereformen der Nachkriegszeit denkt, tippt zu spät. Littenweiler wurde schon am 25. Februar 1914 nach Freiburg eingemeindet. Richtig war 2.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "388-littenweiler/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Littenweiler",
-"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
-"frage": "Christoph Meckel schildert in „Der Brand“ die Feuersbrunst nach der Bombardierung Freiburgs am 27. November 1944. Von wo sah er zu?",
-"optionen": [
-"Er beobachtete sie vom Schlossberg aus.",
-"Er beobachtete sie vom Kybfelsen aus.",
-"Er beobachtete sie vom Eichberg aus.",
-"Er beobachtete sie vom Schauinsland aus."
+"unter dem Landeswert",
+"bis unter 3 Punkte darüber",
+"3 bis unter 8 Punkte darüber",
+"8 Punkte und mehr darüber"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Schlossberg oder Schauinsland liegen als bekannte Aussichtspunkte nahe. Meckel aber beobachtete das Feuer vom Eichberg aus; so wurde Littenweiler zum Schauplatz seiner autobiografischen Erzählung. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
-"faktencheck": "unsicher",
-"id": "388-littenweiler/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Knapp über dem Land zu tippen liegt nahe, wenn man an einen gewöhnlichen Stadtteil denkt. In Littenweiler gingen bei der Bundestagswahl 2025 aber 89,8 Prozent wählen, 6,4 Punkte mehr als im Land. Das passt zu einem Stadtteil, den die Ortsgeschichte als großes Wohnquartier bürgerlicher Bevölkerung beschreibt. Stand: 23. Februar 2025. Richtig war 3.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025",
+"faktencheck": "bestätigt",
+"id": "388-littenweiler/v0.9/7",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Kurhaus an einer Heilquelle",
+"rang": 2,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Littenweiler",
-"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
-"frage": "Das Pflegeheim St. Antonius am Freiburger „Stahlbad“ nutzt ein denkmalgeschütztes Haus. Wofür wurde es ursprünglich gebaut?",
+"steckbrief": "Stadtteil mit rund 8.500 Einwohnern, 4 km südöstlich der Freiburger Stadtmitte.",
+"frage": "Das Altenpflegeheim St. Antonius in Littenweiler trägt den Beinamen „Stahlbad“. Wofür wurde das Haus ursprünglich gebaut?",
 "optionen": [
-"Es wurde als Kur- und Badehaus gebaut.",
-"Es wurde als Hammerschmiede für Stahl gebaut.",
-"Es wurde als Schulhaus des Dorfes gebaut.",
-"Es wurde als adliges Jagdhaus gebaut."
+"Es war die Halle einer Stahlgießerei.",
+"Es war ein Kurhaus an einer Heilquelle.",
+"Es war die Villa eines Fabrikanten.",
+"Es war das Schulhaus des Dorfes."
 ],
 "art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Der Name „Stahlbad“ lässt an Eisen und Schmiedefeuer denken. Doch das Haus entstand am Austritt einer mineralischen Heilquelle, als Kur- und Badehaus. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
-"faktencheck": "unsicher",
-"id": "388-littenweiler/v0.8/8",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei „Stahl“ denkt man an Hütten und Gießereien. Das Haus entstand aber um 1844 als Gast- und Badhaus an einer Quelle, die schon 1841 für ihre Heilkraft bekannt war. Als „Stahlbad“ bezeichnete man allgemein Bäder mit eisenhaltigem Wasser. Der denkmalgeschützte Bau ist seit 1938 ein Pflegeheim. Richtig war 2.",
+"quelle": "Badische Zeitung, badische-zeitung.de",
+"faktencheck": "korrigiert",
+"id": "388-littenweiler/v0.9/8",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Wappen zweier Ortsherren",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Littenweiler",
-"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
-"frage": "Das Studentenwohnheim St. Alban Haus war nach dem Theologen Alban Stolz benannt; 2017 wechselte der Namensbezug zu Alban von Mainz. Warum?",
+"steckbrief": "Freiburger Stadtteil mit rund 8.500 Einwohnern, 4 km südöstlich der Stadtmitte.",
+"frage": "Das Wappen von Littenweiler zeigt ein weißes Tatzenkreuz auf Rot mit vier silbernen Kugeln. Woher stammt dieses Bild?",
 "optionen": [
-"Die Familie Stolz verlangte, den Namen aufzugeben.",
-"Ein Gericht untersagte die Nutzung des Namens.",
-"Das Haus ging an einen neuen Träger über.",
-"Antisemitische Äußerungen von Stolz wurden näher beleuchtet."
+"Die Kugeln stehen für vier alte Bauernhöfe.",
+"Es vereint die Wappen zweier früherer Ortsherren.",
+"Das Kreuz erinnert an eine alte Wallfahrt.",
+"Das Kreuz stammt aus dem Freiburger Wappen."
 ],
 "art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Gerichtsstreit um einen Namen klingt nach handfestem Anlass. Tatsächlich wurden antisemitische Äußerungen des Theologen Alban Stolz näher beleuchtet. Das Wohnheim der Erzdiözese Freiburg bezieht seinen Namen seither auf Alban von Mainz. Richtig war 4.",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Freiburger Wappen läge nahe, denn es zeigt ebenfalls ein Kreuz. Littenweilers Wappen vereint aber zwei Ortsherren: Das Tatzenkreuz, dessen Arme sich nach außen verbreitern, stammt vom Deutschen Orden, die Kugeln von den Sickingen. Beide teilten sich das Dorf bis zum Ende der österreichischen Herrschaft. Im Wappen des heutigen Stadtteils lebt diese doppelte Herrschaft weiter. Richtig war 2.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Littenweiler",
 "faktencheck": "unsicher",
-"id": "388-littenweiler/v0.8/9",
+"id": "388-littenweiler/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "387-ebnet",
 "anschluss": [
-"Einwohner: Littenweiler hat fast dreimal so viele wie Ebnet.",
-"Littenweiler wächst mit dem Nachbarstadtteil Ebnet zusammen."
+"Littenweiler und Ebnet hatten 2025 fast dieselbe Wahlbeteiligung.",
+"Littenweiler gehörte einst teils den Herren von Sickingen zu Ebnet."
 ],
 "anschluesse": {
 "387-ebnet": [
-"Einwohner: Littenweiler hat fast dreimal so viele wie Ebnet.",
-"Littenweiler wächst mit dem Nachbarstadtteil Ebnet zusammen."
+"Littenweiler und Ebnet hatten 2025 fast dieselbe Wahlbeteiligung.",
+"Littenweiler gehörte einst teils den Herren von Sickingen zu Ebnet."
 ],
 "389-merzhausen": [
 "Kreisgrenze: Merzhausen gehört zum Landkreis Breisgau-Hochschwarzwald, Littenweiler zum Landkreis Stadtkreis Freiburg im Breisgau.",
@@ -5513,6 +5567,32 @@ window.QA_DATEN = {
 },
 "ags": "08311000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil an Dreisam und Brugga, 4 km südöstlich von Freiburgs Mitte, im Naturpark Südschwarzwald; Gipfel bis 757 Meter."
+},
+{
+"facette": "GESCHICHTE",
+"text": "1233 erstmals erwähnt als Ludinwilere, lange geteilt zwischen Deutschem Orden und Sickingen, seit 1914 bei Freiburg."
+},
+{
+"facette": "ALLTAG",
+"text": "Einst Bauerndorf, heute bürgerliches Wohnquartier mit rund 8.500 Einwohnern auf gut vier Quadratkilometern."
+},
+{
+"facette": "FREIZEIT",
+"text": "Dreisamtal-Radwanderweg und Südschwarzwald-Radweg führen durch den Stadtteil; Aussichtspunkt Zwei Birken; Stadtteilfest seit 1987."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Freiburg-Littenweiler an der Höllentalbahn, Straßenbahnlinie 1, Pädagogische Hochschule; die B 31 läuft größtenteils im Tunnel darunter."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: Grüne vorn mit 34 Prozent, dann CDU; Wahlbeteiligung 89,8 Prozent."
+}
+],
 "km_vom_vorigen": 1.0
 },
 {
@@ -11139,6 +11219,252 @@ window.QA_DATEN = {
 "km_vom_vorigen": 5.3
 },
 {
+"slug": "433-kirchzarten",
+"name": "Kirchzarten",
+"lat": 47.96667,
+"lon": 7.95,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Mountainbike-WM im Dreisamtal",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "1995 war Kirchzarten Gastgeber einer Weltmeisterschaft. Welcher?",
+"optionen": [
+"Es war die Weltmeisterschaft im Orientierungslauf.",
+"Es war die Weltmeisterschaft der Mountainbiker.",
+"Es war die Weltmeisterschaft im Gleitschirmfliegen.",
+"Es war die Weltmeisterschaft im Kanuslalom."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Orientierungslauf liegt nahe, weil Wald und Hänge dafür ideal scheinen. Ausgetragen wurde aber die Weltmeisterschaft der Mountainbiker, mit Rennen im Cross-Country und im Downhill. Kirchzarten liegt mitten im Dreisamtal, und für ein paar Tage war der Ort ein Treffpunkt des internationalen Radsports. Richtig war 2.",
+"quelle": "Badische Zeitung, www.badische-zeitung.de (Rückblick auf die WM vor 30 Jahren)",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Ortsname aus keltischer Festung",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Woher hat Kirchzarten den zweiten Teil seines Namens, „Zarten“?",
+"optionen": [
+"Der Name beschreibt die zarten Wiesen der Talaue.",
+"Der Name geht auf einen fränkischen Grundherrn zurück.",
+"Der Name stammt von einer keltischen Befestigungsanlage.",
+"Der Name meint eine Rodung am Waldrand."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Zarte Wiesen liegen nahe, weil das Wort so klingt. Tatsächlich steckt im Namen Tarodunum, eine befestigte Keltensiedlung, die schon der antike Geograph Ptolemäus nannte. Später taucht der Name als Zarduna wieder auf und lebt in Zarten und Kirchzarten fort. Reste der Befestigung sind im Ortsteil Burg zwischen Wagensteigbach und Rotbach teils noch sichtbar; wozu die Anlage diente, ist unklar. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/geschichte",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Verwaltungsmittelpunkt des Dreisamtals",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Kirchzarten ist Sitz eines Gemeindeverwaltungsverbands. Wer gehört außer Kirchzarten noch dazu?",
+"optionen": [
+"Nur ehemals selbstständige Ortsteile Kirchzartens gehören dazu.",
+"Die nahe Großstadt gehört als Partnerin dazu.",
+"Gemeinden aus der Rheinebene gehören dazu.",
+"Nachbargemeinden aus dem Dreisamtal gehören dazu."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die nahe Großstadt Freiburg läge als Partnerin nahe, schließlich ist sie nur wenige Kilometer entfernt. Doch im Gemeindeverwaltungsverband Dreisamtal mit Sitz in Kirchzarten erledigen Kirchzarten, Buchenbach, Oberried und Stegen Verwaltungsaufgaben gemeinsam. Das passt zu einer Gemeinde mit rund 10.400 Einwohnern, die sich als Mittelpunkt des Tals versteht. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/portrait",
+"faktencheck": "bestätigt",
+"id": "433-kirchzarten/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Bauernland im Talboden statt Wald",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Kirchzarten liegt im Naturpark Südschwarzwald. Was nimmt den größten Teil der Gemeindefläche ein?",
+"optionen": [
+"Landwirtschaftsflächen nehmen den größten Teil ein.",
+"Wald bedeckt den größten Teil der Gemeinde.",
+"Siedlungen und Straßen belegen den größten Teil.",
+"Wald und Felder sind etwa gleich groß."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Schwarzwald liegt Wald nahe, doch Kirchzarten liegt mitten im Dreisamtal. In der Gemeinde überwiegt die Landwirtschaft: Sie belegt mehr als die Hälfte der Gemeindefläche, Wald deutlich weniger. Beim Vorbeifahren prägen deshalb Felder und Wiesen das Bild. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/zahlen-daten-fakten",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Ausweichstelle der eingleisigen Höllentalbahn",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Der Bahnhof Himmelreich gehört zu Kirchzarten. Welche Aufgabe hat er für die Höllentalbahn?",
+"optionen": [
+"Hier zweigt eine Bahnstrecke nach St. Märgen ab.",
+"Hier weichen sich entgegenkommende Züge gegenseitig aus.",
+"Hier endet die Straßenbahnlinie aus Freiburg.",
+"Hier werden die Züge in zwei Teile getrennt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Abzweig nach St. Märgen liegt nahe, denn bei Himmelreich zweigt die Landesstraße dorthin ab. Der Bahnhof aber ist ein Kreuzungsbahnhof: Die Höllentalbahn ist eingleisig, und hier können sich Züge aus beiden Richtungen begegnen. Für eine Gemeinde mit rund 10.400 Einwohnern sind zwei Bahnhöfe viel: Kirchzarten und Himmelreich, beide an der Strecke nach Titisee und Neustadt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kirchzarten",
+"faktencheck": "unsicher",
+"id": "433-kirchzarten/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Zeitweise französisch, lange österreichisch",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kirchzarten gehörte bis 1805 zu Württemberg.",
+"Das heutige Rathaus Kirchzartens war früher ein Wasserschloss.",
+"Ein Geistlicher aus Kirchzarten gründete ein Freilichttheater."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Freilichttheater klingt erfunden, stimmt aber: Josef Saier aus Kirchzarten gründete die Ötigheimer Volksschauspiele. Auch das Wasserschloss stimmt: Dort residierte der Vogt der Stadt Freiburg, heute sitzt in der Talvogtei das Rathaus. Gelogen ist Württemberg: Von etwa 1500 bis 1805 gehörte Kirchzarten der Stadt Freiburg. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/geschichte; Historisches Lexikon der Schweiz, hls-dhs-dss.ch (Hinweis: Das Charakteristikum ändert sich in „Talvogtei der Stadt Freiburg“.)",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung deutlich über Landesschnitt",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025: Im ganzen Land Baden-Württemberg lag die Wahlbeteiligung bei 83,4 Prozent. Wie hoch war sie in Kirchzarten?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 83,4 %",
+"83,4 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Landesniveau liegt nahe, denn eine Gemeinde am Rand einer Großstadt fällt selten auf. Doch in Kirchzarten lag die Wahlbeteiligung bei 89,9 Prozent, 6,5 Punkte über dem Land. Fast neun von zehn Wahlberechtigten gaben also ihre Stimme ab; stärkste Partei wurde die CDU vor den Grünen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "433-kirchzarten/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kapellenberg mit Kreuzweg",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Der Giersberg ist Kirchzartens Postkartenmotiv. Welches dieser vier Dinge gibt es dort?",
+"optionen": [
+"eine Skisprungschanze",
+"ein Aussichtsturm",
+"eine Kapelle mit Kreuzweg",
+"ein Wildgehege"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Aussichtsturm liegt nahe, denn von einem Postkartenberg erwartet man Fernsicht. Auf dem Giersberg steht aber die Giersbergkapelle, und hinauf führt ein Kreuzweg mit seinen Stationen. Schon alte Ansichtskarten zeigen „Giersberg, Kreuzweg“ als Motiv des Orts. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kirchzarten.de/de/historische-postkarten/ (dazu www.kirchzarten.de/p/portrait)",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Lehrgut für Palästina-Einwanderer",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchzarten",
+"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
+"frage": "Der Markenhof in Kirchzarten diente in den 1920er-Jahren als Lehrgut. Für wen?",
+"optionen": [
+"Für junge Leute auf dem Weg nach Palästina.",
+"Für junge Siedler auf dem Weg nach Amerika.",
+"Für angehende Missionare vor dem Einsatz in Afrika.",
+"Für künftige Förster im Dienst des Landes Baden."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Amerika liegt nahe, denn es war lange das bekannteste Ziel von Auswanderern. Der Markenhof aber, ein alter Hof im Dreisamtal, diente ab 1919 als Lehrgut für junge Juden, die nach Palästina auswandern wollten: Sie lernten hier Landwirtschaft und Viehzucht. So reicht die Geschichte des Hofs bis in den Nahen Osten. Richtig war 1.",
+"quelle": "Institut für die Geschichte der deutschen Juden, hachschara.juedische-geschichte-online.net/site/36",
+"faktencheck": "korrigiert",
+"id": "433-kirchzarten/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "70-breisach",
+"anschluss": [],
+"anschluesse": {},
+"ags": "08315064",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 10.400 Einwohner im flachen Dreisamtal, 8 km südöstlich von Freiburg, auf rund 380 Metern, im Naturpark Südschwarzwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Der Name stammt von der Keltensiedlung Tarodunum; einst Hauptort der Freiburger Talvogtei; Burg und Zarten kamen 1974 dazu."
+},
+{
+"facette": "ALLTAG",
+"text": "Anerkannter Kurort und Sitz des Gemeindeverwaltungsverbands Dreisamtal, dazu die historische Rainmühle."
+},
+{
+"facette": "FREIZEIT",
+"text": "Dreisambad, Golfplatz, Segelflugplatz, Mountainbike-Parcours, die Museen Alte Säge und Kienzlerschmiede, Tarodunum-Rundweg und Südschwarzwald-Radweg."
+},
+{
+"facette": "INFRA",
+"text": "Zwei Bahnhöfe an der Höllentalbahn, Kirchzarten und Himmelreich; Bundesstraße 31; Schulzentrum mit Gymnasium und Realschule."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 29,2 Prozent vor den Grünen mit 25,7 Prozent."
+}
+],
+"km_vom_vorigen": 28.4
+},
+{
 "slug": "71-stegen",
 "name": "Stegen",
 "lat": 47.98278,
@@ -11351,11 +11677,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "70-breisach",
-"anschluss": [
-"Stegens Wahlbeteiligung 2025 lag gut sieben Punkte über Breisachs.",
-"Stegen wählte 2025 Grüne auf Platz zwei, Breisach die AfD."
-],
+"anschluss_von": "433-kirchzarten",
+"anschluss": [],
 "anschluesse": {
 "387-ebnet": [
 "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
@@ -11422,10 +11745,6 @@ window.QA_DATEN = {
 "11-emmendingen": [
 "Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
 "Emmendingen hat fast siebenmal so viele Einwohner wie Stegen."
-],
-"70-breisach": [
-"Stegens Wahlbeteiligung 2025 lag gut sieben Punkte über Breisachs.",
-"Stegen wählte 2025 Grüne auf Platz zwei, Breisach die AfD."
 ]
 },
 "ags": "08315109",
@@ -11456,7 +11775,7 @@ window.QA_DATEN = {
 "text": "Bundestagswahl 2025: CDU 31,4 Prozent vor den Grünen mit 20,7 Prozent; Wahlbeteiligung 89,4 Prozent."
 }
 ],
-"km_vom_vorigen": 29.0
+"km_vom_vorigen": 2.1
 },
 {
 "slug": "72-oberried",
@@ -12356,6 +12675,275 @@ window.QA_DATEN = {
 "km_vom_vorigen": 9.0
 },
 {
+"slug": "432-breitnau",
+"name": "Breitnau",
+"lat": 47.93917,
+"lon": 8.07917,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Handwerksmuseum in alter Seilerei",
+"rang": 8,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Breitnau?",
+"optionen": [
+"ein Museum in einem alten Bergwerk",
+"ein Museum für Landmaschinen",
+"ein Museum in einer alten Seilerei",
+"ein Museum für Holzschnitzerei"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bergwerk liegt nahe, denn im Schwarzwald wurde vielerorts Erz abgebaut. Breitnau aber hat die Alte Seilerei: Dort zeigt man, wie früher Seile gedreht wurden. Sie gehört zum Heimatpfad Hochschwarzwald, einem Weg, der Bauernhöfe, Menschen und Geschichte der Schwarzwälder Kultur verbindet. Für ein Dorf mit rund 1.900 Einwohnern ist das ein Stück gepflegte Heimat. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/heimatpfad; OpenStreetMap; Einwohner Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "barocke Militärschanzen statt Sprungschanzen",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Der Türkenlouispfad um Breitnau ist ein Geschichtslehrpfad zu Schanzen. Was waren diese Schanzen?",
+"optionen": [
+"Es waren frühe Sprungschanzen für Skispringer.",
+"Es waren Wälle gegen Lawinen und Schnee.",
+"Es waren Hangterrassen für den Ackerbau.",
+"Es waren militärische Anlagen aus der Barockzeit."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Schanzen denkt man im Schwarzwald zuerst ans Skispringen. Doch hier geht es um Barockgeschichte: Der Schwarzwaldverein Hinterzarten-Breitnau und der Verein Wälderleben haben ein Konzept erarbeitet, die barocken Militär-Schanzenanlagen um Breitnau teilweise wiederherzustellen. Ein Themenweg gibt Einblick in Geschichte und Alltag der Barockzeit. Wer heute über die Hochebene wandert, geht durch eine einst befestigte Landschaft. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/tuerkenlouispfad",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Eisenbahnviadukt an der Ravennaschlucht",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Breitnau?",
+"optionen": [
+"ein Eisenbahnviadukt am Ausgang einer Schlucht",
+"eine Seilbahn auf einen Aussichtsgipfel",
+"eine Talsperre mit Stausee",
+"ein Kloster mit Klosterbrauerei"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Stausee liegt in einem Bergland voller Bäche nahe. Breitnau aber hat ein Eisenbahnviadukt, also eine Bahnbrücke über ein Tal: Am unteren Ausgang der Ravennaschlucht führt die Höllentalbahn über das Ravennaviadukt. Wer mit der Bahn durchs Höllental fährt, rollt hier über Breitnauer Gebiet, weit unterhalb der Hochebene mit den Höfen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Höllentalstraße für Marie-Antoinettes Brautzug",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Im Jahr 1770 zog ein großer Reisezug durch das Höllental unterhalb von Breitnau. Wer reiste da?",
+"optionen": [
+"Ein Kaiser reiste zur Krönung.",
+"Eine Prinzessin reiste zur Hochzeit.",
+"Ein Papst reiste zum Konzil.",
+"Ein König reiste zur Kur."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kaiser liegt nahe, denn große Reisezüge gehörten meist zu Herrschern. 1770 zog aber eine Braut durch: Prinzessin Marie-Antoinette reiste von Wien nach Paris zu ihrer Hochzeit. So hängt ein Stück europäischer Hofgeschichte an der Straße, die unten durch das Höllental an Breitnau vorbeiführt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Gemeinde beginnt unten am Hirschsprung",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Unten im Höllental, an ihrem tiefsten Punkt, beginnt die Gemeinde Breitnau an einer engen Stelle namens Hirschsprung. Woher hat sie ihren Namen, der Sage nach?",
+"optionen": [
+"Jäger trieben dort Hirsche in den Abgrund.",
+"Ein Felsen dort gleicht einem springenden Hirsch.",
+"Ein gejagter Hirsch sprang über die Schlucht.",
+"Ein Ritter sprang mit seinem Pferd hinüber."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Felsen in Hirschgestalt liegt nahe, denn viele Orte heißen nach ihrer Form. Die Sage erzählt es anders: Ein Ritter der Burg Falkenstein jagte einen Hirsch, der Hirsch sprang über die Schlucht und entkam. Hier unten, an der schluchtartigen Verengung des Höllentals, beginnt Breitnau; von dort reicht die Gemeinde hinauf bis zur Weißtannenhöhe. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/hoellental/hirschsprung",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kapelle St. Oswald mit Baldung-Altar",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Französische Soldaten brannten einst Breitnauer Höfe nieder.",
+"Hans Baldung Griens Werkstatt schuf St. Oswalds Altar.",
+"Ein Bischof von Basel weihte St. Oswald ein."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Basel liegt nahe, denn die Schweiz ist vom Südschwarzwald nicht weit. Geweiht hat die Kapelle aber Bischof Hermann von Konstanz. Die beiden anderen Aussagen stimmen: Französische Soldaten legten Höfe und den Pfarrhof in Asche, und der spätgotische Altar stammt aus der Werkstatt von Hans Baldung Grien. So hütet die Kapelle an der Ravennaschlucht Kunst von Rang. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald",
+"faktencheck": "bestätigt",
+"id": "432-breitnau/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "weite Gemarkung, wenig Einwohner",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Breitnau?",
+"optionen": [
+"unter 42 km²",
+"42 bis unter 60 km²",
+"60 bis unter 80 km²",
+"80 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen höher, denn Schwarzwaldgemeinden mit viel Wald wirken weitläufig. Breitnau misst 39,9 Quadratkilometer. Darauf leben rund 1.900 Menschen, nur etwa 47 je Quadratkilometer: viel Raum für Höfe und Wald zwischen Höllental und Hochebene. Richtig war 1.",
+"quelle": "Wikidata P2046; Einwohner Wikidata P1082, Stand 2025-12-31; Dichte berechnet aus Einwohner und Fläche",
+"faktencheck": "bestätigt",
+"id": "432-breitnau/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "zwei Wintersport-Weltmeister aus 1.900-Seelen-Dorf",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Für den Skiclub Breitnau starteten zwei Wintersportler, die Weltmeister wurden. In welchen Sportarten?",
+"optionen": [
+"Einer siegte alpin, einer im Snowboard.",
+"Einer siegte in der Kombination, einer im Biathlon.",
+"Einer siegte im Rodeln, einer im Bob.",
+"Einer siegte im Eisschnelllauf, einer im Eishockey."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ski alpin liegt im Schwarzwald nahe, Abfahrtshänge gibt es viele. Doch Fabian Rießle wurde in der Nordischen Kombination, also Skispringen plus Langlauf, mit dem Team Olympiasieger und Weltmeister. Benedikt Doll wurde im Biathlon Weltmeister und gewann olympisches Bronze. Für ein Dorf mit rund 1.900 Einwohnern sind zwei Weltmeister im Wintersport eine bemerkenswerte Bilanz. Richtig war 2.",
+"quelle": "t-online.de; Tagesspiegel; Abendzeitung München; Schwäbische Zeitung; Einwohner Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Kurort wegen Höhenluft",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Breitnau ist seit 1970 staatlich anerkannter Kurort. Was nennt die Gemeinde als einen Grund dafür?",
+"optionen": [
+"Eine warme Heilquelle entspringt im Höllental.",
+"Torf aus den Mooren dient für Heilbäder.",
+"Ein Kloster im Ort pflegte seit jeher Kranke.",
+"Die Höhenluft ist dunst- und staubfrei."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Kurorten denkt man zuerst an Heilquellen, wie in vielen Bädern. Die Gemeinde nennt aber das Klima: In den Höhenlagen ist es im Sommer reizschwach, dazu kommen die ultraviolette Sonneneinstrahlung und die dunst- und staubfreie Höhenluft. Diese Faktoren haben dazu beigetragen, dass Breitnau staatlich anerkannter Kurort ist. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/gemeinde-breitnau/kurzportrait",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/9",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Eindachhöfe prägen die Hochebene",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breitnau",
+"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
+"frage": "Mächtige Walmdächer prägen die alten Höfe auf der Breitnauer Hochebene. Was beherbergt so ein Dach?",
+"optionen": [
+"Nur das Vieh; die Familie wohnte nebenan.",
+"Nur Heu und Stroh für den Winter.",
+"Menschen, Tiere und Ernte unter einem Dach.",
+"Nur die Familie; die Ställe standen extra."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Getrennte Ställe und Scheunen kennt man von vielen Bauernhöfen, deshalb liegt das nahe. Die Höfe der Breitnauer Hochebene sind aber Eindachgehöfte, auch Heidenhäuser genannt: Unter dem mächtigen Dach sind Menschen, Tiere und Erntegut gleichermaßen aufgehoben. Bei den älteren Höfen lag der Wohnteil zum Hang hin, zum besseren Schutz vor der Kälte. Beim Vorbeifahren prägen diese Höfe das Bild der Hochebene. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/windkraft-und-walmdaecher",
+"faktencheck": "korrigiert",
+"id": "432-breitnau/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": "74-hinterzarten",
+"anschluss": [],
+"anschluesse": {},
+"ags": "08315016",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 1.900 Einwohner auf knapp 40 km², 18 km östlich von Freiburg, vom Höllental bis zur Weißtannenhöhe; Moore als Naturschutzgebiete."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1275 als Breittnowe erwähnt; Kapelle St. Oswald 1148 geweiht, Barockkirche St. Johannes, Überfall französischer Soldaten 1690."
+},
+{
+"facette": "ALLTAG",
+"text": "Kurort seit 1970, 76 landwirtschaftliche Betriebe, davon 34 im Vollerwerb; Windrad auf dem Hohwartsattel, Nahwärmenetz, Großjockenmühle."
+},
+{
+"facette": "FREIZEIT",
+"text": "Ravennaschlucht mit Heimatpfad, Museum Alte Seilerei, Türkenlouispfad, Kuckucksuhr, Himmelreich-Jakobusweg; das Hallenbad ruht seit August 2026."
+},
+{
+"facette": "INFRA",
+"text": "Höllentalbahn mit Ravennaviadukt; Breitnaus Bahnhof liegt in Hinterzarten; Breitbandnetz seit 2025; Partnergemeinde Oliveri auf Sizilien."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 38,9 Prozent vor den Grünen mit 14,8; Wahlbeteiligung 87,5 Prozent, über dem Landeswert von 83,4."
+}
+],
+"km_vom_vorigen": 3.8
+},
+{
 "slug": "75-titisee-neustadt",
 "name": "Titisee-Neustadt",
 "lat": 47.91222,
@@ -12568,11 +13156,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "74-hinterzarten",
-"anschluss": [
-"Titisee-Neustadt hat rund fünfmal so viele Einwohner wie Hinterzarten.",
-"Titisee-Neustadt hat gut zweieinhalbmal so viel Fläche wie Hinterzarten."
-],
+"anschluss_von": "432-breitnau",
+"anschluss": [],
 "anschluesse": {
 "73-buchenbach": [
 "Titisee-Neustadt hat viermal so viele Einwohner wie Buchenbach.",
@@ -12618,7 +13203,7 @@ window.QA_DATEN = {
 "text": "Bei der Bundestagswahl 2025 lag die CDU mit 33 Prozent vorn, dahinter die AfD mit 19,1 Prozent."
 }
 ],
-"km_vom_vorigen": 8.5
+"km_vom_vorigen": 10.5
 },
 {
 "slug": "76-loeffingen",
@@ -103809,535 +104394,6 @@ window.QA_DATEN = {
 "ags": "05113000",
 "ortsteil": true,
 "km_vom_vorigen": 11.5
-},
-{
-"slug": "432-breitnau",
-"name": "Breitnau",
-"lat": 47.93917,
-"lon": 8.07917,
-"karten": [
-{
-"facette": "FREIZEIT",
-"charakteristikum": "Handwerksmuseum in alter Seilerei",
-"rang": 8,
-"familie": "D",
-"sorte": "Geschichte",
-"ort": "Breitnau",
-"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
-"frage": "Welches dieser vier Dinge gibt es in Breitnau?",
-"optionen": [
-"ein Museum in einem alten Bergwerk",
-"ein Museum für Landmaschinen",
-"ein Museum in einer alten Seilerei",
-"ein Museum für Holzschnitzerei"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Bergwerk liegt nahe, denn im Schwarzwald wurde vielerorts Erz abgebaut. Breitnau aber hat die Alte Seilerei: Dort zeigt man, wie früher Seile gedreht wurden. Sie gehört zum Heimatpfad Hochschwarzwald, einem Weg, der Bauernhöfe, Menschen und Geschichte der Schwarzwälder Kultur verbindet. Für ein Dorf mit rund 1.900 Einwohnern ist das ein Stück gepflegte Heimat. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/heimatpfad; OpenStreetMap; Einwohner Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "korrigiert",
-"id": "432-breitnau/v0.9/1",
-"tisch": false
-},
-{
-"facette": "GESCHICHTE",
-"charakteristikum": "barocke Militärschanzen statt Sprungschanzen",
-"rang": 2,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Breitnau",
-"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
-"frage": "Der Türkenlouispfad um Breitnau ist ein Geschichtslehrpfad zu Schanzen. Was waren diese Schanzen?",
-"optionen": [
-"Es waren frühe Sprungschanzen für Skispringer.",
-"Es waren Wälle gegen Lawinen und Schnee.",
-"Es waren Hangterrassen für den Ackerbau.",
-"Es waren militärische Anlagen aus der Barockzeit."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei Schanzen denkt man im Schwarzwald zuerst ans Skispringen. Doch hier geht es um Barockgeschichte: Der Schwarzwaldverein Hinterzarten-Breitnau und der Verein Wälderleben haben ein Konzept erarbeitet, die barocken Militär-Schanzenanlagen um Breitnau teilweise wiederherzustellen. Ein Themenweg gibt Einblick in Geschichte und Alltag der Barockzeit. Wer heute über die Hochebene wandert, geht durch eine einst befestigte Landschaft. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/tuerkenlouispfad",
-"faktencheck": "korrigiert",
-"id": "432-breitnau/v0.9/2",
-"tisch": false
-},
-{
-"facette": "FREIZEIT",
-"charakteristikum": "Eisenbahnviadukt an der Ravennaschlucht",
-"rang": 5,
-"familie": "D",
-"sorte": "Geschichte",
-"ort": "Breitnau",
-"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
-"frage": "Welches dieser vier Dinge gibt es in Breitnau?",
-"optionen": [
-"ein Eisenbahnviadukt am Ausgang einer Schlucht",
-"eine Seilbahn auf einen Aussichtsgipfel",
-"eine Talsperre mit Stausee",
-"ein Kloster mit Klosterbrauerei"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein Stausee liegt in einem Bergland voller Bäche nahe. Breitnau aber hat ein Eisenbahnviadukt, also eine Bahnbrücke über ein Tal: Am unteren Ausgang der Ravennaschlucht führt die Höllentalbahn über das Ravennaviadukt. Wer mit der Bahn durchs Höllental fährt, rollt hier über Breitnauer Gebiet, weit unterhalb der Hochebene mit den Höfen. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald; OpenStreetMap",
-"faktencheck": "korrigiert",
-"id": "432-breitnau/v0.9/3",
-"tisch": false
-},
-{
-"facette": "INFRA",
-"charakteristikum": "Höllentalstraße für Marie-Antoinettes Brautzug",
-"rang": 3,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Breitnau",
-"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
-"frage": "Im Jahr 1770 zog ein großer Reisezug durch das Höllental unterhalb von Breitnau. Wer reiste da?",
-"optionen": [
-"Ein Kaiser reiste zur Krönung.",
-"Eine Prinzessin reiste zur Hochzeit.",
-"Ein Papst reiste zum Konzil.",
-"Ein König reiste zur Kur."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Kaiser liegt nahe, denn große Reisezüge gehörten meist zu Herrschern. 1770 zog aber eine Braut durch: Prinzessin Marie-Antoinette reiste von Wien nach Paris zu ihrer Hochzeit. So hängt ein Stück europäischer Hofgeschichte an der Straße, die unten durch das Höllental an Breitnau vorbeiführt. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik",
-"faktencheck": "korrigiert",
-"id": "432-breitnau/v0.9/4",
-"tisch": false
-},
-{
-"facette": "LAGE",
-"charakteristikum": "Gemeinde beginnt unten am Hirschsprung",
-"rang": 4,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Breitnau",
-"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
-"frage": "Unten im Höllental, an ihrem tiefsten Punkt, beginnt die Gemeinde Breitnau an einer engen Stelle namens Hirschsprung. Woher hat sie ihren Namen, der Sage nach?",
-"optionen": [
-"Jäger trieben dort Hirsche in den Abgrund.",
-"Ein Felsen dort gleicht einem springenden Hirsch.",
-"Ein gejagter Hirsch sprang über die Schlucht.",
-"Ein Ritter sprang mit seinem Pferd hinüber."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Felsen in Hirschgestalt liegt nahe, denn viele Orte heißen nach ihrer Form. Die Sage erzählt es anders: Ein Ritter der Burg Falkenstein jagte einen Hirsch, der Hirsch sprang über die Schlucht und entkam. Hier unten, an der schluchtartigen Verengung des Höllentals, beginnt Breitnau; von dort reicht die Gemeinde hinauf bis zur Weißtannenhöhe. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/hoellental/hirschsprung",
-"faktencheck": "korrigiert",
-"id": "432-breitnau/v0.9/5",
-"tisch": false
-},
-{
-"facette": "GESCHICHTE",
-"charakteristikum": "Kapelle St. Oswald mit Baldung-Altar",
-"rang": 9,
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Breitnau",
-"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Französische Soldaten brannten einst Breitnauer Höfe nieder.",
-"Hans Baldung Griens Werkstatt schuf St. Oswalds Altar.",
-"Ein Bischof von Basel weihte St. Oswald ein."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Basel liegt nahe, denn die Schweiz ist vom Südschwarzwald nicht weit. Geweiht hat die Kapelle aber Bischof Hermann von Konstanz. Die beiden anderen Aussagen stimmen: Französische Soldaten legten Höfe und den Pfarrhof in Asche, und der spätgotische Altar stammt aus der Werkstatt von Hans Baldung Grien. So hütet die Kapelle an der Ravennaschlucht Kunst von Rang. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald",
-"faktencheck": "bestätigt",
-"id": "432-breitnau/v0.9/6",
-"tisch": false
-},
-{
-"facette": "LAGE",
-"charakteristikum": "weite Gemarkung, wenig Einwohner",
-"rang": 10,
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Breitnau",
-"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
-"frage": "Wie groß ist die Fläche der Gemeinde Breitnau?",
-"optionen": [
-"unter 42 km²",
-"42 bis unter 60 km²",
-"60 bis unter 80 km²",
-"80 km² und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Viele schätzen höher, denn Schwarzwaldgemeinden mit viel Wald wirken weitläufig. Breitnau misst 39,9 Quadratkilometer. Darauf leben rund 1.900 Menschen, nur etwa 47 je Quadratkilometer: viel Raum für Höfe und Wald zwischen Höllental und Hochebene. Richtig war 1.",
-"quelle": "Wikidata P2046; Einwohner Wikidata P1082, Stand 2025-12-31; Dichte berechnet aus Einwohner und Fläche",
-"faktencheck": "bestätigt",
-"id": "432-breitnau/v0.9/7",
-"tisch": false
-},
-{
-"facette": "FREIZEIT",
-"charakteristikum": "zwei Wintersport-Weltmeister aus 1.900-Seelen-Dorf",
-"rang": 1,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Breitnau",
-"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
-"frage": "Für den Skiclub Breitnau starteten zwei Wintersportler, die Weltmeister wurden. In welchen Sportarten?",
-"optionen": [
-"Einer siegte alpin, einer im Snowboard.",
-"Einer siegte in der Kombination, einer im Biathlon.",
-"Einer siegte im Rodeln, einer im Bob.",
-"Einer siegte im Eisschnelllauf, einer im Eishockey."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ski alpin liegt im Schwarzwald nahe, Abfahrtshänge gibt es viele. Doch Fabian Rießle wurde in der Nordischen Kombination, also Skispringen plus Langlauf, mit dem Team Olympiasieger und Weltmeister. Benedikt Doll wurde im Biathlon Weltmeister und gewann olympisches Bronze. Für ein Dorf mit rund 1.900 Einwohnern sind zwei Weltmeister im Wintersport eine bemerkenswerte Bilanz. Richtig war 2.",
-"quelle": "t-online.de; Tagesspiegel; Abendzeitung München; Schwäbische Zeitung; Einwohner Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "korrigiert",
-"id": "432-breitnau/v0.9/8",
-"tisch": false
-},
-{
-"facette": "ALLTAG",
-"charakteristikum": "Kurort wegen Höhenluft",
-"rang": 7,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Breitnau",
-"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
-"frage": "Breitnau ist seit 1970 staatlich anerkannter Kurort. Was nennt die Gemeinde als einen Grund dafür?",
-"optionen": [
-"Eine warme Heilquelle entspringt im Höllental.",
-"Torf aus den Mooren dient für Heilbäder.",
-"Ein Kloster im Ort pflegte seit jeher Kranke.",
-"Die Höhenluft ist dunst- und staubfrei."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei Kurorten denkt man zuerst an Heilquellen, wie in vielen Bädern. Die Gemeinde nennt aber das Klima: In den Höhenlagen ist es im Sommer reizschwach, dazu kommen die ultraviolette Sonneneinstrahlung und die dunst- und staubfreie Höhenluft. Diese Faktoren haben dazu beigetragen, dass Breitnau staatlich anerkannter Kurort ist. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/gemeinde-breitnau/kurzportrait",
-"faktencheck": "korrigiert",
-"id": "432-breitnau/v0.9/9",
-"tisch": false
-},
-{
-"facette": "LAGE",
-"charakteristikum": "Eindachhöfe prägen die Hochebene",
-"rang": 6,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Breitnau",
-"steckbrief": "Breitnau, rund 1.900 Einwohner, liegt 18 km östlich von Freiburg im Breisgau.",
-"frage": "Mächtige Walmdächer prägen die alten Höfe auf der Breitnauer Hochebene. Was beherbergt so ein Dach?",
-"optionen": [
-"Nur das Vieh; die Familie wohnte nebenan.",
-"Nur Heu und Stroh für den Winter.",
-"Menschen, Tiere und Ernte unter einem Dach.",
-"Nur die Familie; die Ställe standen extra."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Getrennte Ställe und Scheunen kennt man von vielen Bauernhöfen, deshalb liegt das nahe. Die Höfe der Breitnauer Hochebene sind aber Eindachgehöfte, auch Heidenhäuser genannt: Unter dem mächtigen Dach sind Menschen, Tiere und Erntegut gleichermaßen aufgehoben. Bei den älteren Höfen lag der Wohnteil zum Hang hin, zum besseren Schutz vor der Kälte. Beim Vorbeifahren prägen diese Höfe das Bild der Hochebene. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/windkraft-und-walmdaecher",
-"faktencheck": "korrigiert",
-"id": "432-breitnau/v0.9/10",
-"tisch": false
-}
-],
-"anschluss_von": "431-kettwig",
-"anschluss": [
-"Breitnau hat mehr als doppelt so viel Fläche wie Kettwig."
-],
-"anschluesse": {
-"431-kettwig": [
-"Breitnau hat mehr als doppelt so viel Fläche wie Kettwig."
-]
-},
-"ags": "08315016",
-"ortsteil": false,
-"steckbrief": [
-{
-"facette": "LAGE",
-"text": "Rund 1.900 Einwohner auf knapp 40 km², 18 km östlich von Freiburg, vom Höllental bis zur Weißtannenhöhe; Moore als Naturschutzgebiete."
-},
-{
-"facette": "GESCHICHTE",
-"text": "Erstmals 1275 als Breittnowe erwähnt; Kapelle St. Oswald 1148 geweiht, Barockkirche St. Johannes, Überfall französischer Soldaten 1690."
-},
-{
-"facette": "ALLTAG",
-"text": "Kurort seit 1970, 76 landwirtschaftliche Betriebe, davon 34 im Vollerwerb; Windrad auf dem Hohwartsattel, Nahwärmenetz, Großjockenmühle."
-},
-{
-"facette": "FREIZEIT",
-"text": "Ravennaschlucht mit Heimatpfad, Museum Alte Seilerei, Türkenlouispfad, Kuckucksuhr, Himmelreich-Jakobusweg; das Hallenbad ruht seit August 2026."
-},
-{
-"facette": "INFRA",
-"text": "Höllentalbahn mit Ravennaviadukt; Breitnaus Bahnhof liegt in Hinterzarten; Breitbandnetz seit 2025; Partnergemeinde Oliveri auf Sizilien."
-},
-{
-"facette": "POLITIK",
-"text": "Bundestagswahl 2025: CDU 38,9 Prozent vor den Grünen mit 14,8; Wahlbeteiligung 87,5 Prozent, über dem Landeswert von 83,4."
-}
-],
-"km_vom_vorigen": 390.0
-},
-{
-"slug": "433-kirchzarten",
-"name": "Kirchzarten",
-"lat": 47.96667,
-"lon": 7.95,
-"karten": [
-{
-"facette": "FREIZEIT",
-"charakteristikum": "Mountainbike-WM im Dreisamtal",
-"rang": 1,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kirchzarten",
-"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
-"frage": "1995 war Kirchzarten Gastgeber einer Weltmeisterschaft. Welcher?",
-"optionen": [
-"Es war die Weltmeisterschaft im Orientierungslauf.",
-"Es war die Weltmeisterschaft der Mountainbiker.",
-"Es war die Weltmeisterschaft im Gleitschirmfliegen.",
-"Es war die Weltmeisterschaft im Kanuslalom."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Orientierungslauf liegt nahe, weil Wald und Hänge dafür ideal scheinen. Ausgetragen wurde aber die Weltmeisterschaft der Mountainbiker, mit Rennen im Cross-Country und im Downhill. Kirchzarten liegt mitten im Dreisamtal, und für ein paar Tage war der Ort ein Treffpunkt des internationalen Radsports. Richtig war 2.",
-"quelle": "Badische Zeitung, www.badische-zeitung.de (Rückblick auf die WM vor 30 Jahren)",
-"faktencheck": "korrigiert",
-"id": "433-kirchzarten/v0.9/1",
-"tisch": false
-},
-{
-"facette": "GESCHICHTE",
-"charakteristikum": "Ortsname aus keltischer Festung",
-"rang": 2,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kirchzarten",
-"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
-"frage": "Woher hat Kirchzarten den zweiten Teil seines Namens, „Zarten“?",
-"optionen": [
-"Der Name beschreibt die zarten Wiesen der Talaue.",
-"Der Name geht auf einen fränkischen Grundherrn zurück.",
-"Der Name stammt von einer keltischen Befestigungsanlage.",
-"Der Name meint eine Rodung am Waldrand."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Zarte Wiesen liegen nahe, weil das Wort so klingt. Tatsächlich steckt im Namen Tarodunum, eine befestigte Keltensiedlung, die schon der antike Geograph Ptolemäus nannte. Später taucht der Name als Zarduna wieder auf und lebt in Zarten und Kirchzarten fort. Reste der Befestigung sind im Ortsteil Burg zwischen Wagensteigbach und Rotbach teils noch sichtbar; wozu die Anlage diente, ist unklar. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/geschichte",
-"faktencheck": "korrigiert",
-"id": "433-kirchzarten/v0.9/2",
-"tisch": false
-},
-{
-"facette": "ALLTAG",
-"charakteristikum": "Verwaltungsmittelpunkt des Dreisamtals",
-"rang": 9,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kirchzarten",
-"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
-"frage": "Kirchzarten ist Sitz eines Gemeindeverwaltungsverbands. Wer gehört außer Kirchzarten noch dazu?",
-"optionen": [
-"Nur ehemals selbstständige Ortsteile Kirchzartens gehören dazu.",
-"Die nahe Großstadt gehört als Partnerin dazu.",
-"Gemeinden aus der Rheinebene gehören dazu.",
-"Nachbargemeinden aus dem Dreisamtal gehören dazu."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Die nahe Großstadt Freiburg läge als Partnerin nahe, schließlich ist sie nur wenige Kilometer entfernt. Doch im Gemeindeverwaltungsverband Dreisamtal mit Sitz in Kirchzarten erledigen Kirchzarten, Buchenbach, Oberried und Stegen Verwaltungsaufgaben gemeinsam. Das passt zu einer Gemeinde mit rund 10.400 Einwohnern, die sich als Mittelpunkt des Tals versteht. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/portrait",
-"faktencheck": "bestätigt",
-"id": "433-kirchzarten/v0.9/3",
-"tisch": false
-},
-{
-"facette": "LAGE",
-"charakteristikum": "Bauernland im Talboden statt Wald",
-"rang": 7,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kirchzarten",
-"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
-"frage": "Kirchzarten liegt im Naturpark Südschwarzwald. Was nimmt den größten Teil der Gemeindefläche ein?",
-"optionen": [
-"Landwirtschaftsflächen nehmen den größten Teil ein.",
-"Wald bedeckt den größten Teil der Gemeinde.",
-"Siedlungen und Straßen belegen den größten Teil.",
-"Wald und Felder sind etwa gleich groß."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Im Schwarzwald liegt Wald nahe, doch Kirchzarten liegt mitten im Dreisamtal. In der Gemeinde überwiegt die Landwirtschaft: Sie belegt mehr als die Hälfte der Gemeindefläche, Wald deutlich weniger. Beim Vorbeifahren prägen deshalb Felder und Wiesen das Bild. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/zahlen-daten-fakten",
-"faktencheck": "korrigiert",
-"id": "433-kirchzarten/v0.9/4",
-"tisch": false
-},
-{
-"facette": "INFRA",
-"charakteristikum": "Ausweichstelle der eingleisigen Höllentalbahn",
-"rang": 3,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kirchzarten",
-"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
-"frage": "Der Bahnhof Himmelreich gehört zu Kirchzarten. Welche Aufgabe hat er für die Höllentalbahn?",
-"optionen": [
-"Hier zweigt eine Bahnstrecke nach St. Märgen ab.",
-"Hier weichen sich entgegenkommende Züge gegenseitig aus.",
-"Hier endet die Straßenbahnlinie aus Freiburg.",
-"Hier werden die Züge in zwei Teile getrennt."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ein Abzweig nach St. Märgen liegt nahe, denn bei Himmelreich zweigt die Landesstraße dorthin ab. Der Bahnhof aber ist ein Kreuzungsbahnhof: Die Höllentalbahn ist eingleisig, und hier können sich Züge aus beiden Richtungen begegnen. Für eine Gemeinde mit rund 10.400 Einwohnern sind zwei Bahnhöfe viel: Kirchzarten und Himmelreich, beide an der Strecke nach Titisee und Neustadt. Richtig war 2.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Kirchzarten",
-"faktencheck": "unsicher",
-"id": "433-kirchzarten/v0.9/5",
-"tisch": false
-},
-{
-"facette": "GESCHICHTE",
-"charakteristikum": "Zeitweise französisch, lange österreichisch",
-"rang": 6,
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Kirchzarten",
-"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Kirchzarten gehörte bis 1805 zu Württemberg.",
-"Das heutige Rathaus Kirchzartens war früher ein Wasserschloss.",
-"Ein Geistlicher aus Kirchzarten gründete ein Freilichttheater."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Das Freilichttheater klingt erfunden, stimmt aber: Josef Saier aus Kirchzarten gründete die Ötigheimer Volksschauspiele. Auch das Wasserschloss stimmt: Dort residierte der Vogt der Stadt Freiburg, heute sitzt in der Talvogtei das Rathaus. Gelogen ist Württemberg: Von etwa 1500 bis 1805 gehörte Kirchzarten der Stadt Freiburg. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.kirchzarten.de/p/geschichte; Historisches Lexikon der Schweiz, hls-dhs-dss.ch (Hinweis: Das Charakteristikum ändert sich in „Talvogtei der Stadt Freiburg“.)",
-"faktencheck": "korrigiert",
-"id": "433-kirchzarten/v0.9/6",
-"tisch": false
-},
-{
-"facette": "POLITIK",
-"charakteristikum": "Wahlbeteiligung deutlich über Landesschnitt",
-"rang": 8,
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Kirchzarten",
-"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
-"frage": "Bundestagswahl 2025: Im ganzen Land Baden-Württemberg lag die Wahlbeteiligung bei 83,4 Prozent. Wie hoch war sie in Kirchzarten?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 83,4 %",
-"83,4 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Landesniveau liegt nahe, denn eine Gemeinde am Rand einer Großstadt fällt selten auf. Doch in Kirchzarten lag die Wahlbeteiligung bei 89,9 Prozent, 6,5 Punkte über dem Land. Fast neun von zehn Wahlberechtigten gaben also ihre Stimme ab; stärkste Partei wurde die CDU vor den Grünen. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
-"faktencheck": "bestätigt",
-"id": "433-kirchzarten/v0.9/7",
-"tisch": false
-},
-{
-"facette": "FREIZEIT",
-"charakteristikum": "Kapellenberg mit Kreuzweg",
-"rang": 5,
-"familie": "D",
-"sorte": "Geschichte",
-"ort": "Kirchzarten",
-"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
-"frage": "Der Giersberg ist Kirchzartens Postkartenmotiv. Welches dieser vier Dinge gibt es dort?",
-"optionen": [
-"eine Skisprungschanze",
-"ein Aussichtsturm",
-"eine Kapelle mit Kreuzweg",
-"ein Wildgehege"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Aussichtsturm liegt nahe, denn von einem Postkartenberg erwartet man Fernsicht. Auf dem Giersberg steht aber die Giersbergkapelle, und hinauf führt ein Kreuzweg mit seinen Stationen. Schon alte Ansichtskarten zeigen „Giersberg, Kreuzweg“ als Motiv des Orts. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.kirchzarten.de/de/historische-postkarten/ (dazu www.kirchzarten.de/p/portrait)",
-"faktencheck": "korrigiert",
-"id": "433-kirchzarten/v0.9/8",
-"tisch": false
-},
-{
-"facette": "GESCHICHTE",
-"charakteristikum": "Lehrgut für Palästina-Einwanderer",
-"rang": 4,
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Kirchzarten",
-"steckbrief": "Rund 10.400 Einwohner, 8 km südöstlich von Freiburg im Breisgau.",
-"frage": "Der Markenhof in Kirchzarten diente in den 1920er-Jahren als Lehrgut. Für wen?",
-"optionen": [
-"Für junge Leute auf dem Weg nach Palästina.",
-"Für junge Siedler auf dem Weg nach Amerika.",
-"Für angehende Missionare vor dem Einsatz in Afrika.",
-"Für künftige Förster im Dienst des Landes Baden."
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Amerika liegt nahe, denn es war lange das bekannteste Ziel von Auswanderern. Der Markenhof aber, ein alter Hof im Dreisamtal, diente ab 1919 als Lehrgut für junge Juden, die nach Palästina auswandern wollten: Sie lernten hier Landwirtschaft und Viehzucht. So reicht die Geschichte des Hofs bis in den Nahen Osten. Richtig war 1.",
-"quelle": "Institut für die Geschichte der deutschen Juden, hachschara.juedische-geschichte-online.net/site/36",
-"faktencheck": "korrigiert",
-"id": "433-kirchzarten/v0.9/9",
-"tisch": false
-}
-],
-"anschluss_von": "432-breitnau",
-"anschluss": [
-"Breitnau liegt rund 600 Meter höher als Kirchzarten.",
-"Kirchzarten hat über fünfmal so viele Einwohner wie Breitnau."
-],
-"anschluesse": {
-"432-breitnau": [
-"Breitnau liegt rund 600 Meter höher als Kirchzarten.",
-"Kirchzarten hat über fünfmal so viele Einwohner wie Breitnau."
-]
-},
-"ags": "08315064",
-"ortsteil": false,
-"steckbrief": [
-{
-"facette": "LAGE",
-"text": "Rund 10.400 Einwohner im flachen Dreisamtal, 8 km südöstlich von Freiburg, auf rund 380 Metern, im Naturpark Südschwarzwald."
-},
-{
-"facette": "GESCHICHTE",
-"text": "Der Name stammt von der Keltensiedlung Tarodunum; einst Hauptort der Freiburger Talvogtei; Burg und Zarten kamen 1974 dazu."
-},
-{
-"facette": "ALLTAG",
-"text": "Anerkannter Kurort und Sitz des Gemeindeverwaltungsverbands Dreisamtal, dazu die historische Rainmühle."
-},
-{
-"facette": "FREIZEIT",
-"text": "Dreisambad, Golfplatz, Segelflugplatz, Mountainbike-Parcours, die Museen Alte Säge und Kienzlerschmiede, Tarodunum-Rundweg und Südschwarzwald-Radweg."
-},
-{
-"facette": "INFRA",
-"text": "Zwei Bahnhöfe an der Höllentalbahn, Kirchzarten und Himmelreich; Bundesstraße 31; Schulzentrum mit Gymnasium und Realschule."
-},
-{
-"facette": "POLITIK",
-"text": "Bei der Bundestagswahl 2025 lag die CDU mit 29,2 Prozent vor den Grünen mit 25,7 Prozent."
-}
-],
-"km_vom_vorigen": 10.1
 }
 ]
 }

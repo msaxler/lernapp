@@ -165531,669 +165531,741 @@
 "entitaet": "ort",
 "bezeichnung": "Ebnet",
 "eigenschaften": [
-"eingemeindung_zu_freiburg",
+"begrenzung_dreisam",
+"eingemeindet_am",
 "einwohner",
-"ersterwähnung",
-"ersterwähnung_bezeichnung",
-"ersterwähnung_quelle",
-"genauigkeit_einwohner",
-"hat_ortsverwaltung",
-"ist_stadtteil",
 "lage"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/002": {
 "entitaet": "ort",
-"bezeichnung": "ort",
+"bezeichnung": "Ebnet",
 "eigenschaften": [
-"herrscher_früh",
-"herrscher_später"
+"ersterwahnung",
+"ersterwahnung_form",
+"namensherkunft"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/003": {
 "entitaet": "ort",
-"bezeichnung": "ort",
+"bezeichnung": "Ebnet",
 "eigenschaften": [
-"gehört_zu"
+"herrschaft_entzug_oesterreich",
+"herrschaft_heirat",
+"herrschaft_verpfaendung",
+"herrscher_frueher",
+"herrscher_spaeter"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/004": {
-"entitaet": "ort",
-"bezeichnung": "ort",
-"eigenschaften": [
-"gehört_zu"
-],
-"berichtigungen": 0
-},
-"387-ebnet/005": {
-"entitaet": "ort",
-"bezeichnung": "ort",
-"eigenschaften": [
-"gehört_zu"
-],
-"berichtigungen": 0
-},
-"387-ebnet/006": {
-"entitaet": "institution",
+"entitaet": "administration",
 "bezeichnung": "Ortsverwaltung Ebnet",
 "eigenschaften": [
 "adresse",
 "email",
+"ortsvorsteherin",
 "telefon"
 ],
 "berichtigungen": 0
 },
-"387-ebnet/007": {
-"entitaet": "person",
-"bezeichnung": "Gabriele Hoferichter",
+"387-ebnet/005": {
+"entitaet": "kirche",
+"bezeichnung": "St. Hilarius und St. Remigius",
 "eigenschaften": [
-"email",
-"titel"
+"bauteile_mittelalter",
+"dekorateure",
+"ersterwahnung",
+"ersterwahnung_status",
+"neubau",
+"neubau_gegenwaertig",
+"patrozinium",
+"pfarrei_verselbststaendigung"
+],
+"berichtigungen": 0
+},
+"387-ebnet/006": {
+"entitaet": "kirche",
+"bezeichnung": "St. Hilarius",
+"eigenschaften": [
+"notabe",
+"stil_urspruenglich",
+"umgestaltung_jahr",
+"umgestaltung_stil"
+],
+"berichtigungen": 0
+},
+"387-ebnet/007": {
+"entitaet": "schloss",
+"bezeichnung": "Schloss Ebnet",
+"eigenschaften": [
+"architekt",
+"architekturstil",
+"ausfuehrung",
+"ausstattung",
+"bauzeit",
+"bedeutung_fuer_ort",
+"grund_neubau",
+"kunstwerke_park",
+"nutzer",
+"oeffentlichkeit_zugang"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/008": {
-"entitaet": "infrastruktur_wasser",
-"bezeichnung": "Wasserwerk Freiburg-Ebnet",
+"entitaet": "schloss",
+"bezeichnung": "Schloss Ebnet",
 "eigenschaften": [
-"funktion",
-"hat_brunnen",
-"lage",
-"versorgungsquote"
+"bauzeit",
+"funktion_frueher",
+"vorgaenger"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/009": {
-"entitaet": "bundesstrasse",
-"bezeichnung": "B 31",
+"entitaet": "bad",
+"bezeichnung": "Strandbad",
 "eigenschaften": [
-"grund_umlenkung",
-"verlauf_historisch"
+"beschreibung",
+"grenzpunkt"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/010": {
-"entitaet": "pfarrkirche",
-"bezeichnung": "St. Hilarius",
+"entitaet": "sportstatte",
+"bezeichnung": "Dreisamhalle",
 "eigenschaften": [
-"baustil_aktuell",
-"baustil_ursprünglich",
-"historisches_ereignis",
-"konfession",
-"umbau_jahr",
-"umbau_jahr_bis"
+"bedeutung_fuer_ort",
+"frelo_station",
+"funktion_urspruenglich"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/011": {
-"entitaet": "schloss",
-"bezeichnung": "Schloss Ebnet",
+"entitaet": "stadion",
+"bezeichnung": "Dreisamstadion",
 "eigenschaften": [
-"ausstattung_künstler",
-"baubeginn",
-"baustil",
-"erbauer_ausführung",
-"erbauer_planung",
-"funktionen_heute",
-"gehört_zu",
-"hat_park"
+"grenzen",
+"nutzer"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/012": {
-"entitaet": "kunstwerk",
-"bezeichnung": "Vier Jahreszeiten Plastiken",
+"entitaet": "sportplatz",
+"bezeichnung": "Sportplatz Ebnet (neuer)",
 "eigenschaften": [
-"künstler",
-"standort"
+"entstehungsjahr",
+"groesse_vergleich",
+"location"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/013": {
-"entitaet": "veranstaltungsort",
-"bezeichnung": "Theodor-Egel-Saal",
+"entitaet": "neubaugebiet",
+"bezeichnung": "Alter Sportplatz",
 "eigenschaften": [
-"nutzer",
-"nutzung"
+"beschreibung",
+"vorgaenger"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/014": {
-"entitaet": "kapelle",
-"bezeichnung": "Anna-Kapelle",
-"eigenschaften": [
-"baubeginn",
-"baustil",
-"standort",
-"weihe"
-],
-"berichtigungen": 0
-},
-"387-ebnet/015": {
-"entitaet": "wohngebiet",
+"entitaet": "neubaugebiet",
 "bezeichnung": "Hornbühl-Ost",
 "eigenschaften": [
 "baubeginn",
-"genauigkeit_bewohner",
-"geschaetzte_bewohner",
-"standort",
+"kapazitaet",
+"location",
 "wohnungen"
 ],
 "berichtigungen": 0
 },
-"387-ebnet/016": {
-"entitaet": "sportplatz",
-"bezeichnung": "sportplatz",
+"387-ebnet/015": {
+"entitaet": "kapelle",
+"bezeichnung": "Anna-Kapelle",
 "eigenschaften": [
-"baujahr",
-"grund_neubau",
-"standort"
+"lage",
+"weihe"
+],
+"berichtigungen": 0
+},
+"387-ebnet/016": {
+"entitaet": "kultureinrichtung",
+"bezeichnung": "Theodor-Egel-Saal",
+"eigenschaften": [
+"location",
+"nutzer"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/017": {
-"entitaet": "wohngebiet",
-"bezeichnung": "Alter Sportplatz",
+"entitaet": "verein",
+"bezeichnung": "Musikverein Ebnet e.V.",
+"eigenschaften": [
+"gruendung"
+],
+"berichtigungen": 0
+},
+"387-ebnet/018": {
+"entitaet": "verein",
+"bezeichnung": "Gemischter Chor Ebnet e.V.",
+"eigenschaften": [
+"gruendung",
+"vorgaenger"
+],
+"berichtigungen": 0
+},
+"387-ebnet/019": {
+"entitaet": "verein",
+"bezeichnung": "Radsportverein \"Wanderlust\" Ebnet e.V.",
+"eigenschaften": [
+"gruendung"
+],
+"berichtigungen": 0
+},
+"387-ebnet/020": {
+"entitaet": "verein",
+"bezeichnung": "Sportverein Ebnet e.V.",
+"eigenschaften": [
+"gruendung"
+],
+"berichtigungen": 0
+},
+"387-ebnet/021": {
+"entitaet": "narrenzunft",
+"bezeichnung": "Narrenzunft \"Feurige Salamander Ebnet e.V.\"",
+"eigenschaften": [
+"gruendung"
+],
+"berichtigungen": 0
+},
+"387-ebnet/022": {
+"entitaet": "kirchenchor",
+"bezeichnung": "Kirchenchor von St. Hilarius",
+"eigenschaften": [
+"gruendung"
+],
+"berichtigungen": 0
+},
+"387-ebnet/023": {
+"entitaet": "feuerwehr",
+"bezeichnung": "Freiwillige Feuerwehr – Abteilung Freiburg-Ebnet",
+"eigenschaften": [
+"abteilungskommandant",
+"kontakt"
+],
+"berichtigungen": 0
+},
+"387-ebnet/024": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Kasimir Anton von Sickingen",
+"eigenschaften": [
+"begrabnis",
+"herkunft",
+"lebensjahre",
+"titel_funktion"
+],
+"berichtigungen": 0
+},
+"387-ebnet/025": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Benedikt Gambs",
+"eigenschaften": [
+"herkunft",
+"lebensjahre",
+"profession",
+"tod_ort",
+"werke"
+],
+"berichtigungen": 0
+},
+"387-ebnet/026": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Johann Christian Wentzinger",
+"eigenschaften": [
+"beteiligung_schloss",
+"lebensjahre",
+"profession",
+"werke"
+],
+"berichtigungen": 0
+},
+"387-ebnet/027": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "August Feyel",
+"eigenschaften": [
+"begrabnis",
+"lebensjahre",
+"nachwirkung",
+"profession",
+"wohnort"
+],
+"berichtigungen": 0
+},
+"387-ebnet/028": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Franz von Roggenbach",
+"eigenschaften": [
+"begrabnis",
+"lebensjahre",
+"profession"
+],
+"berichtigungen": 0
+},
+"387-ebnet/029": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Pater Bonaventura Schweizer",
+"eigenschaften": [
+"funktion",
+"herkunft",
+"konzil",
+"lebensjahre"
+],
+"berichtigungen": 0
+},
+"387-ebnet/030": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Sepp Allgeier",
+"eigenschaften": [
+"lebensjahre",
+"profession",
+"wohnort"
+],
+"berichtigungen": 0
+},
+"387-ebnet/031": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Eduard Baumgarten",
+"eigenschaften": [
+"lebensjahre",
+"profession",
+"wohnort"
+],
+"berichtigungen": 0
+},
+"387-ebnet/032": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Adolf J. Schmid",
+"eigenschaften": [
+"funktion",
+"lebensjahre",
+"profession"
+],
+"berichtigungen": 0
+},
+"387-ebnet/033": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Wasserwerk Freiburg-Ebnet",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"standort"
+],
+"berichtigungen": 0
+},
+"387-ebnet/034": {
+"entitaet": "radweg",
+"bezeichnung": "FR 1",
+"eigenschaften": [
+"nutzung",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"387-ebnet/035": {
+"entitaet": "radweg",
+"bezeichnung": "Dreisamtal-Radwanderweg",
 "eigenschaften": [
 "beschreibung"
 ],
 "berichtigungen": 0
 },
-"387-ebnet/018": {
-"entitaet": "radweg",
-"bezeichnung": "FR 1",
-"eigenschaften": [
-"verlauf"
-],
-"berichtigungen": 0
-},
-"387-ebnet/019": {
-"entitaet": "radschnellweg",
-"bezeichnung": "radschnellweg",
-"eigenschaften": [
-"status",
-"trasse",
-"ziel"
-],
-"berichtigungen": 0
-},
-"387-ebnet/020": {
-"entitaet": "frelo_station",
-"bezeichnung": "frelo station",
-"eigenschaften": [
-"standort"
-],
-"berichtigungen": 0
-},
-"387-ebnet/021": {
-"entitaet": "verein",
-"bezeichnung": "Musikverein Ebnet e. V.",
-"eigenschaften": [
-"gründung"
-],
-"berichtigungen": 0
-},
-"387-ebnet/022": {
-"entitaet": "verein",
-"bezeichnung": "Gesangsverein Ebnet e. V. / Gemischter Chor Ebnet e. V.",
-"eigenschaften": [
-"gründung",
-"namenswechsel_zu"
-],
-"berichtigungen": 0
-},
-"387-ebnet/023": {
-"entitaet": "verein",
-"bezeichnung": "Radsportverein \"Wanderlust\" Ebnet e. V.",
-"eigenschaften": [
-"gründung"
-],
-"berichtigungen": 0
-},
-"387-ebnet/024": {
-"entitaet": "verein",
-"bezeichnung": "Sportverein Ebnet e. V.",
-"eigenschaften": [
-"gründung"
-],
-"berichtigungen": 0
-},
-"387-ebnet/025": {
-"entitaet": "verein",
-"bezeichnung": "Narrenzunft \"Feurige Salamander Ebnet e. V.\"",
-"eigenschaften": [
-"gründung"
-],
-"berichtigungen": 0
-},
-"387-ebnet/026": {
-"entitaet": "institution",
-"bezeichnung": "Freiwillige Feuerwehr – Abteilung Freiburg-Ebnet",
-"eigenschaften": [],
-"berichtigungen": 0
-},
-"387-ebnet/027": {
-"entitaet": "chor",
-"bezeichnung": "Kirchenchor von St. Hilarius",
-"eigenschaften": [
-"gründung",
-"kirche"
-],
-"berichtigungen": 0
-},
-"387-ebnet/028": {
-"entitaet": "arbeitsgemeinschaft",
-"bezeichnung": "Arbeitsgemeinschaft Ebneter Ortsbild",
-"eigenschaften": [
-"beschreibung",
-"projekte"
-],
-"berichtigungen": 0
-},
-"387-ebnet/029": {
-"entitaet": "person",
-"bezeichnung": "Kasimir Anton von Sickingen",
-"eigenschaften": [
-"geboren",
-"geburtsort",
-"gestorben",
-"herz_beisetzung",
-"titel",
-"titel_ab"
-],
-"berichtigungen": 0
-},
-"387-ebnet/030": {
-"entitaet": "person",
-"bezeichnung": "Benedikt Gambs",
-"eigenschaften": [
-"beruf",
-"geboren",
-"genauigkeit_geburtstag",
-"gestorben",
-"herkunft",
-"todesort",
-"werke"
-],
-"berichtigungen": 0
-},
-"387-ebnet/031": {
-"entitaet": "person",
-"bezeichnung": "Johann Christian Wentzinger",
-"eigenschaften": [
-"arbeiten_ebnet",
-"beruf",
-"geboren",
-"gestorben"
-],
-"berichtigungen": 0
-},
-"387-ebnet/032": {
-"entitaet": "person",
-"bezeichnung": "Franz von Roggenbach",
-"eigenschaften": [
-"beisetzung",
-"beruf",
-"geboren",
-"gestorben"
-],
-"berichtigungen": 0
-},
-"387-ebnet/033": {
-"entitaet": "person",
-"bezeichnung": "August Feyel",
-"eigenschaften": [
-"beisetzung",
-"beruf",
-"geboren",
-"gestorben",
-"namensgeberinnen",
-"wohnzeit_ebnet"
-],
-"berichtigungen": 0
-},
-"387-ebnet/034": {
-"entitaet": "person",
-"bezeichnung": "Pater Bonaventura Schweizer",
-"eigenschaften": [
-"geboren",
-"geburtsort",
-"gestorben",
-"konzil",
-"orden",
-"titel"
-],
-"berichtigungen": 0
-},
-"387-ebnet/035": {
-"entitaet": "person",
-"bezeichnung": "Sepp Allgeier",
-"eigenschaften": [
-"beruf",
-"geboren",
-"gestorben",
-"wohnort_gestorben"
-],
-"berichtigungen": 0
-},
 "387-ebnet/036": {
-"entitaet": "person",
-"bezeichnung": "Eduard Baumgarten",
+"entitaet": "wanderweg",
+"bezeichnung": "Zähringer-Wanderweg",
 "eigenschaften": [
-"beruf",
-"geboren",
-"gestorben",
-"wohnzeit_ebnet"
+"laenge"
 ],
 "berichtigungen": 0
 },
 "387-ebnet/037": {
-"entitaet": "person",
-"bezeichnung": "Adolf J. Schmid",
+"entitaet": "wanderweg",
+"bezeichnung": "Planetenweg",
 "eigenschaften": [
-"beruf",
-"geboren",
-"gestorben",
-"titel"
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"387-ebnet/038": {
+"entitaet": "wanderweg",
+"bezeichnung": "Himmelreich-Jakobusweg",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"387-ebnet/039": {
+"entitaet": "berg",
+"bezeichnung": "Rosskopf",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"hoehe",
+"recreational"
+],
+"berichtigungen": 0
+},
+"387-ebnet/040": {
+"entitaet": "berg",
+"bezeichnung": "Kleiner Rosskopf",
+"eigenschaften": [
+"hoehe"
+],
+"berichtigungen": 0
+},
+"387-ebnet/041": {
+"entitaet": "gewaesser",
+"bezeichnung": "Dreisam",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beschreibung",
+"trennung"
+],
+"berichtigungen": 0
+},
+"387-ebnet/042": {
+"entitaet": "gewaesser",
+"bezeichnung": "Brugga",
+"eigenschaften": [
+"beschreibung",
+"einmuendung",
+"grenzen"
+],
+"berichtigungen": 0
+},
+"387-ebnet/043": {
+"entitaet": "gewaesser",
+"bezeichnung": "Eschbach",
+"eigenschaften": [
+"grenzen"
+],
+"berichtigungen": 0
+},
+"387-ebnet/044": {
+"entitaet": "tal",
+"bezeichnung": "Welchental",
+"eigenschaften": [
+"abgrenzung",
+"location"
+],
+"berichtigungen": 0
+},
+"387-ebnet/045": {
+"entitaet": "verkehr",
+"bezeichnung": "B 31",
+"eigenschaften": [
+"ersatz",
+"status_historisch",
+"vergangenheit"
+],
+"berichtigungen": 0
+},
+"387-ebnet/046": {
+"entitaet": "organisation",
+"bezeichnung": "Arbeitsgemeinschaft Ebneter Ortsbild",
+"eigenschaften": [
+"aktivitaeten",
+"beschreibung"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/001": {
 "entitaet": "ort",
-"bezeichnung": "Littenweiler",
+"bezeichnung": "ort",
 "eigenschaften": [
-"bahnanbindung_beginn",
-"charakterentwicklung_ab_mitte_1950er",
-"eingemeindung_nach_freiburg",
-"einwohner_1950",
-"einwohner_1961",
-"einwohner_1970",
-"einwohner_aktuell",
-"erste_erwaehnung",
-"erste_erwaehnung_quelle",
-"genauigkeit_aktuell",
-"ist_stadtteil",
+"aktuelle_einwohnerzahl",
+"am_schwarzwald",
+"an_dreisam",
+"geografischer_kontext",
+"hoehenlage_bahnhof",
+"im_dreisamtal",
 "lage",
-"nachbarstaedtteile_zusammenwachsen_mit",
-"straßenbahnanbindung_beginn",
-"teil_1_nach_teilung_1560",
-"teil_2_nach_teilung_1560",
-"urspruengliche_charakterisierung"
+"nachbarstadtteile"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/002": {
-"entitaet": "bahnhof",
-"bezeichnung": "Freiburg-Littenweiler",
+"entitaet": "ort",
+"bezeichnung": "ort",
 "eigenschaften": [
-"bahnlinie",
-"betrieb_ab",
-"hoehe_ueber_meeresspiegel",
-"verkehrstakt"
+"besitzverhaeltnisse_periode1",
+"besitzverhaeltnisse_periode2_anfang15jh",
+"charakterisierung_alter_settlement",
+"eingemeindung",
+"ersterwaehnungsjahrgang",
+"herrschende_familien",
+"historischer_ortsname",
+"kondominatsdauer",
+"nachheriges_system",
+"teilung_1560",
+"verkauf_1518"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/003": {
-"entitaet": "bahnlinie",
-"bezeichnung": "Höllentalbahn",
+"entitaet": "ort",
+"bezeichnung": "ort",
 "eigenschaften": [
-"bedeutung",
-"erschliessung_littenweiler_ab",
-"streckenverlauf"
+"abschluss_transformation",
+"benachbartes_bergbaudorf",
+"charakterisierung",
+"grund_bergbaubasis",
+"infrastruktur_1887",
+"infrastruktur_1925",
+"kulturelle_umbildung_periode1",
+"transformation_ab_1950er",
+"wirtschaftliche_basis_vermutung",
+"zersiedlungsmerkmale"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/004": {
-"entitaet": "kirche",
-"bezeichnung": "Kirche der Heiligen Barbara (alte Kirche)",
+"entitaet": "ort",
+"bezeichnung": "ort",
 "eigenschaften": [
-"genauigkeit_grund",
-"nutzung_urspruenglich",
-"patron",
-"patron_bedeutung",
-"standort",
-"umnutzung_ab_1960er",
-"weihe_grund_vermutung"
+"bevoelkerung_1950",
+"bevoelkerung_1961",
+"bevoelkerung_1970"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/005": {
-"entitaet": "kirche",
-"bezeichnung": "St.-Barbara-Kirche (Neubau)",
+"entitaet": "wappen",
+"bezeichnung": "wappen",
 "eigenschaften": [
-"architektur",
-"baujahr",
-"grund_neubau",
-"konfession",
-"standort"
+"felder",
+"form",
+"heraldische_quellen",
+"quelle_kreuz",
+"quelle_kugeln"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/006": {
 "entitaet": "kirche",
-"bezeichnung": "Evangelische Auferstehungskirche",
+"bezeichnung": "St. Barbara (alt)",
 "eigenschaften": [
-"architektur",
-"baujahr",
-"grund_bau",
-"konfession"
+"abbruchjahrgang",
+"ersterwaehnungsjahrgang",
+"ersterwaehnungskontext",
+"filiale",
+"grund_kirche_heilige_barbara",
+"patronin_bedeutung",
+"patrozinium",
+"pfarrei_jahrgang",
+"pfarrkuratie_jahrgang",
+"wiederaufbau_lage"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/007": {
-"entitaet": "altenheim",
-"bezeichnung": "St. Antonius",
+"entitaet": "kirche",
+"bezeichnung": "St. Barbara (neu)",
 "eigenschaften": [
-"art",
-"betreuer_neu",
-"betreuer_neu_ab",
-"betreuer_original",
-"betreuer_original_bis",
-"denkmalschutz",
-"gebaeude_erbaut",
-"gebaeude_herkunft",
-"genauigkeit_baujahr",
-"grund_erbauung",
-"standort"
+"baujahrgang",
+"baustil_charakterisierung",
+"charakterisierung",
+"patrozinium",
+"zeitliche_dimension"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/008": {
-"entitaet": "bergwerk",
-"bezeichnung": "Schauinsland",
+"entitaet": "kirche",
+"bezeichnung": "Evangelische Auferstehungskirche",
 "eigenschaften": [
-"abbaugut",
-"alternate_name",
-"arbeitnehmer",
-"art",
-"bedeutung_fuer_littenweiler",
-"genauigkeit_abbaugut",
-"standort"
+"architekturmerkmale",
+"bauzeitraum_kirche",
+"charakterisierung",
+"grundung",
+"zustaendig_fuer"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/009": {
-"entitaet": "friedhof",
-"bezeichnung": "Ortsfriedhof Littenweiler",
+"entitaet": "kirche",
+"bezeichnung": "St. Barbara (Bürgersaal)",
 "eigenschaften": [
-"bedeutung",
-"groesse",
-"nutzung_aktuell",
-"standort"
+"bedeutung_fuer_ort",
+"lage",
+"neue_nutzung",
+"umnutzung_jahrgang",
+"vormalige_nutzung"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/010": {
-"entitaet": "friedhof",
-"bezeichnung": "Bergäcker",
+"entitaet": "bahnhof",
+"bezeichnung": "Freiburg-Littenweiler",
 "eigenschaften": [
-"angelegt",
-"besonderheit",
-"funktion",
-"grund_anlage",
-"standort"
+"bahnline",
+"bedeutung_fuer_region",
+"einfuehrungsjahrgang",
+"hoehenlage",
+"verkehrsfrequenz",
+"verlaengerung"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/011": {
-"entitaet": "friedhof",
-"bezeichnung": "Tierfriedhof",
+"entitaet": "bahnlinie",
+"bezeichnung": "Höllentalbahn",
 "eigenschaften": [
-"abgeteilt_ab",
-"abgeteilt_von",
-"art",
-"standort"
+"bedeutung_regional",
+"einfuehrungsjahrgang",
+"verkehrsregelmassigkeit",
+"verlauf"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/012": {
-"entitaet": "infrastruktur",
-"bezeichnung": "Recyclinghof Littenweiler",
+"entitaet": "strassenbahnlinie",
+"bezeichnung": "Freiburger Straßenbahn Linie 1",
 "eigenschaften": [
-"anteil_in_freiburg",
-"funktion"
+"ausbauplanung_aktuell",
+"ausbaustufen_vergangenheit",
+"bereichscharakter",
+"einfuehrungsjahrgang",
+"endhaltestelle_aktuell",
+"endhaltestelle_geplant"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/013": {
-"entitaet": "infrastruktur",
-"bezeichnung": "Polizeidienststelle",
+"entitaet": "hochschule",
+"bezeichnung": "Pädagogische Hochschule Freiburg",
 "eigenschaften": [
-"standort"
+"bildungsangebot",
+"gruendungsjahrgang",
+"gruendungskontext",
+"infrastruktur_charakterisierung",
+"lage"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/014": {
-"entitaet": "hochschule",
-"bezeichnung": "Pädagogische Hochschule Freiburg",
+"entitaet": "schule",
+"bezeichnung": "Reinhold-Schneider-Schule",
 "eigenschaften": [
-"ausbildung_diplom",
-"ausbildung_lehramt",
-"entstanden_aus",
-"gründung",
-"standort"
+"erweiterung_jahrgang",
+"grund_erweiterung",
+"lage",
+"namensgeber",
+"schultyp"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/015": {
-"entitaet": "bildungseinrichtung",
+"entitaet": "einrichtung_erwachsenenbildung",
 "bezeichnung": "Waldhof",
 "eigenschaften": [
-"angebot",
-"art",
-"gründung"
+"bildungsangebot",
+"gruendungsjahrgang",
+"traegerschaft"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/016": {
-"entitaet": "schule",
-"bezeichnung": "Reinhold-Schneider-Schule",
-"eigenschaften": [
-"art",
-"benannt_nach",
-"erweiterung_ab",
-"grund_benennung",
-"grund_erweiterung"
-],
-"berichtigungen": 0
-},
-"388-littenweiler/017": {
-"entitaet": "bildungseinrichtung",
+"entitaet": "sprachenkolleg",
 "bezeichnung": "Sprachenkolleg für studierende Ausländer",
 "eigenschaften": [
-"traeger",
-"zielgruppe",
+"traegerschaft",
 "zweck"
 ],
 "berichtigungen": 0
 },
-"388-littenweiler/018": {
-"entitaet": "studentenwohnheim",
+"388-littenweiler/017": {
+"entitaet": "wohnheim",
 "bezeichnung": "Thomas-Morus-Burse",
 "eigenschaften": [
-"genauigkeit_plaetze",
-"plaetze",
-"traeger"
+"kapazitaet",
+"traegerschaft",
+"zielgruppe"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/018": {
+"entitaet": "wohnheim",
+"bezeichnung": "St. Alban Haus",
+"eigenschaften": [
+"baujahrgang",
+"grund_umbenennnung",
+"kapazitaet_aktuell",
+"kapazitaet_nach_sanierung",
+"neuer_namensgeber",
+"neuer_namensgeber_jahrgang",
+"sanierungsstart_geplant",
+"traegerschaft",
+"urspruenglicher_namensgeber"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/019": {
-"entitaet": "studentenwohnheim",
-"bezeichnung": "St. Alban Haus",
+"entitaet": "baedeanstalt",
+"bezeichnung": "Strandbad",
 "eigenschaften": [
-"erbaut",
-"grund_namenswechsel",
-"namenswechsel_ab",
-"namenswechsel_zu",
-"plaetze_nach_sanierung_geplant",
-"plaetze_vor_sanierung",
-"sanierung_ab",
-"traeger",
-"urspruenglicher_namensbezug"
-],
-"berichtigungen": 0
-},
-"388-littenweiler/020": {
-"entitaet": "sportstaette",
-"bezeichnung": "Strandbad Freiburg",
-"eigenschaften": [
-"art",
-"bedeutung_fuer_littenweiler",
-"einrichtung",
-"groesse",
-"standort",
+"ausstattung",
+"bedeutung_fuer_ort",
+"lage",
 "superlativ"
 ],
 "berichtigungen": 0
 },
-"388-littenweiler/021": {
-"entitaet": "sportstaette",
+"388-littenweiler/020": {
+"entitaet": "stadium",
 "bezeichnung": "Dreisamstadion",
 "eigenschaften": [
-"anmerkung",
-"art",
-"bedeutung_fuer_littenweiler",
-"heimat_verein",
-"spielbetrieb_bis",
-"standort"
+"bedeutung_regional",
+"lage",
+"nutzung",
+"uebergangscharakter"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/021": {
+"entitaet": "stadion",
+"bezeichnung": "Möslestadion",
+"eigenschaften": [
+"lage",
+"nutzung"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/022": {
-"entitaet": "sportstaette",
-"bezeichnung": "Möslestadion",
+"entitaet": "sportstätte",
+"bezeichnung": "Freiburger Fußballschule",
 "eigenschaften": [
-"art",
-"bedeutung_fuer_littenweiler",
-"heimat_verein",
-"standort",
-"zusatzeinrichtung"
+"lage",
+"sportarten"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/023": {
 "entitaet": "sportverein",
-"bezeichnung": "PTSV (Post-Turn- und Sportverein) Jahn",
+"bezeichnung": "PTSV Jahn",
 "eigenschaften": [
-"art",
-"bedeutung_fuer_littenweiler",
-"standort"
+"charakterisierung",
+"lage",
+"sportausstattung"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/024": {
 "entitaet": "sportverein",
-"bezeichnung": "FT (Freiburger Turnerschaft) 1844",
+"bezeichnung": "FT 1844 Freiburg (Freiburger Turnerschaft)",
 "eigenschaften": [
-"art",
-"bedeutung_fuer_littenweiler",
-"einrichtungen",
-"groesse",
-"gründung",
-"standort",
+"ausstattung",
+"lage",
 "superlativ"
 ],
 "berichtigungen": 0
@@ -166202,51 +166274,110 @@
 "entitaet": "sportverein",
 "bezeichnung": "Freiburger Tennisclub",
 "eigenschaften": [
-"bedeutung_fuer_littenweiler",
-"standort"
+"lage"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/026": {
-"entitaet": "sportstaette",
-"bezeichnung": "Sportanlagen Albert-Ludwigs-Universität Freiburg",
+"entitaet": "pflegeeinrichtung",
+"bezeichnung": "Altenpflegeheim St. Antonius (Stahlbad)",
 "eigenschaften": [
-"bedeutung_fuer_littenweiler",
-"betrieber",
-"nutzer",
-"standort"
+"baujahrgang",
+"bauplanung",
+"charakterisierung",
+"denkmalstatus",
+"grund_baujahrgang",
+"traegerschaft_aktuell",
+"traegerschaft_uebernahme",
+"traegerschaft_vergangenheit",
+"urspruengliche_funktion"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/027": {
-"entitaet": "verkehrsmittel",
-"bezeichnung": "Freiburger Straßenbahn Linie 1",
+"entitaet": "friedhof",
+"bezeichnung": "Ortsfriedhof",
 "eigenschaften": [
-"betreiber",
-"charakterisierung",
-"einführung_in_littenweiler",
-"endhaltestelle_bisherig",
-"geplante_verlaengerung_haltestellen",
-"geplante_verlaengerung_ziel",
-"geplanter_baubeginn_anfang_2000er",
-"geplanter_neuer_baubeginn"
+"bedeutung_historisch",
+"charakterisierung"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/028": {
-"entitaet": "infrastruktur",
-"bezeichnung": "B 31 Ost",
+"entitaet": "friedhof",
+"bezeichnung": "Friedhof Bergäcker",
 "eigenschaften": [
-"anbindung",
-"art",
-"ausfahrt_standort",
-"effekt_verkehr",
-"verlauf"
+"baujahrgang",
+"erweiterung",
+"lage",
+"zweck"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/029": {
-"entitaet": "infrastruktur",
+"entitaet": "einrichtung_umwelt",
+"bezeichnung": "Recyclinghof",
+"eigenschaften": [
+"charakterisierung",
+"funktion",
+"lage"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/030": {
+"entitaet": "polizei",
+"bezeichnung": "Polizeidienststelle Littenweiler",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/031": {
+"entitaet": "radweg",
+"bezeichnung": "Dreisamtal-Radwanderweg",
+"eigenschaften": [
+"charakterisierung",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/032": {
+"entitaet": "radweg",
+"bezeichnung": "Südschwarzwald-Radweg",
+"eigenschaften": [
+"charakterisierung",
+"laenge"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/033": {
+"entitaet": "radweg",
+"bezeichnung": "FR 1",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/034": {
+"entitaet": "radweg",
+"bezeichnung": "FR 8",
+"eigenschaften": [
+"lage",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/035": {
+"entitaet": "fahrradverleihsystem",
+"bezeichnung": "Frelo",
+"eigenschaften": [
+"anzahl_stationen",
+"stationen"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/036": {
+"entitaet": "strasse",
 "bezeichnung": "Hansjakobstraße",
 "eigenschaften": [
 "funktion",
@@ -166254,121 +166385,194 @@
 ],
 "berichtigungen": 0
 },
-"388-littenweiler/030": {
-"entitaet": "infrastruktur",
-"bezeichnung": "Frelo-Fahrradverleih",
-"eigenschaften": [
-"art",
-"standorte_stationen",
-"stationen_in_littenweiler"
-],
-"berichtigungen": 0
-},
-"388-littenweiler/031": {
-"entitaet": "radweg",
-"bezeichnung": "FR 1",
-"eigenschaften": [
-"standort"
-],
-"berichtigungen": 0
-},
-"388-littenweiler/032": {
-"entitaet": "radweg",
-"bezeichnung": "FR 8",
-"eigenschaften": [
-"verlauf"
-],
-"berichtigungen": 0
-},
-"388-littenweiler/033": {
-"entitaet": "wappen",
-"bezeichnung": "Ortswappen Littenweiler",
-"eigenschaften": [
-"beschreibung",
-"felder",
-"herkunft",
-"komponente_1",
-"komponente_1_bedeutung",
-"komponente_2",
-"komponente_2_bedeutung"
-],
-"berichtigungen": 0
-},
-"388-littenweiler/034": {
-"entitaet": "gebietsherr",
-"bezeichnung": "Deutschordenskommende Freiburg",
-"eigenschaften": [
-"art",
-"besitz_teilgebiet",
-"regelbereich",
-"vertrag"
-],
-"berichtigungen": 0
-},
-"388-littenweiler/035": {
-"entitaet": "gebietsherr",
-"bezeichnung": "Herren von Sickingen",
-"eigenschaften": [
-"art",
-"besitz_teilgebiet",
-"regelbereich",
-"vertrag"
-],
-"berichtigungen": 0
-},
-"388-littenweiler/036": {
-"entitaet": "person",
-"bezeichnung": "Albert Benitz",
-"eigenschaften": [
-"beruf",
-"geburtsjaahr",
-"geburtsort",
-"todesjahr"
-],
-"berichtigungen": 0
-},
 "388-littenweiler/037": {
-"entitaet": "person",
-"bezeichnung": "Klaus Schüle",
+"entitaet": "strassenverkehrsanlage",
+"bezeichnung": "Bundesstraße 31 Ost (B 31 Ost)",
 "eigenschaften": [
-"beruf",
-"geburtsjaahr",
-"partei",
-"wohnort"
+"anbindung",
+"ausfahrt",
+"besonderheit",
+"wirkung"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/038": {
-"entitaet": "person",
-"bezeichnung": "Christian Streich",
+"entitaet": "einkaufszentrum",
+"bezeichnung": "ZO (Zentrum Oberwiehre)",
 "eigenschaften": [
-"arbeitgeber",
-"beruf",
-"geburtsjaahr",
-"wohnort"
+"bedeutung_fuer_ort",
+"erreichbarkeit",
+"lage"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/039": {
-"entitaet": "literarisches_werk",
-"bezeichnung": "Der Brand",
+"entitaet": "organization",
+"bezeichnung": "Bürgerverein Littenweiler e.V.",
 "eigenschaften": [
-"art",
-"autor",
-"bezug_zu_ereignis",
-"inhalt",
-"schauplatz"
+"bauernmarkt_charakterisierung",
+"bauernmarkt_erster_termin",
+"erste_erfolgreiche_aktion",
+"erstes_stadtteilfest_jahrgang",
+"gedenksteine_aktion_jahrgang",
+"gruendungsjahrgang",
+"jugendtreff_errichtung",
+"neujahrsempfang_charakterisierung",
+"neujahrsempfang_erster_termin",
+"vorgaenger",
+"vorgaenger_gruendungsjahrgang",
+"vorsitzende",
+"zweck_satzung"
 ],
 "berichtigungen": 0
 },
 "388-littenweiler/040": {
-"entitaet": "historisches_ereignis",
-"bezeichnung": "Bombardierung Freiburg",
+"entitaet": "veranstaltung",
+"bezeichnung": "Stadtteilfest Littenweiler",
 "eigenschaften": [
-"beobachter",
-"datum",
-"dokumentation",
-"folge_fuer_littenweiler"
+"charakterisierung",
+"erstes_fest_jahrgang",
+"initiator",
+"mitveranstalter"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/041": {
+"entitaet": "markt",
+"bezeichnung": "Bauernmarkt Littenweiler",
+"eigenschaften": [
+"entwicklung",
+"erster_markt",
+"initiator",
+"urspruengliche_intention"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/042": {
+"entitaet": "veranstaltung",
+"bezeichnung": "Neujahrsempfang Littenweiler",
+"eigenschaften": [
+"entwicklung",
+"erstes_ereignis",
+"urspruengliche_intention"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/043": {
+"entitaet": "literarisches_werk",
+"bezeichnung": "Der Brand",
+"eigenschaften": [
+"autor",
+"beobachtungsstandort_autor",
+"charakterisierung",
+"schauplatz",
+"thema"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/044": {
+"entitaet": "event_historisch",
+"bezeichnung": "Bombardierung Freiburgs",
+"eigenschaften": [
+"auswirkungen_lokal",
+"bedeutung_literarisch",
+"jahrgang"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/045": {
+"entitaet": "person",
+"bezeichnung": "Albert Benitz",
+"eigenschaften": [
+"beruf",
+"bezug_littenweiler",
+"geburtsjahr",
+"todesjahr"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/046": {
+"entitaet": "person",
+"bezeichnung": "Klaus Schüle",
+"eigenschaften": [
+"beruf",
+"bezug_littenweiler",
+"geburtsjahr",
+"partei"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/047": {
+"entitaet": "person",
+"bezeichnung": "Christian Streich",
+"eigenschaften": [
+"bedeutung_lokal",
+"beruf",
+"bezug_littenweiler",
+"geburtsjahr"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/048": {
+"entitaet": "natur_schutzgebiet",
+"bezeichnung": "Naturpark Südschwarzwald",
+"eigenschaften": [
+"bedeutung_regional",
+"besonderheit",
+"errichtungsjahrgang"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/049": {
+"entitaet": "gewaesser",
+"bezeichnung": "Dreisam",
+"eigenschaften": [
+"beschreibung",
+"ortsbezug"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/050": {
+"entitaet": "gewaesser",
+"bezeichnung": "Brugga",
+"eigenschaften": [
+"beschreibung",
+"ortsbezug"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/051": {
+"entitaet": "berg",
+"bezeichnung": "Schauinsland",
+"eigenschaften": [
+"bergbau_arbeiter",
+"historische_nutzung",
+"name_alternativ"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/052": {
+"entitaet": "gipfel",
+"bezeichnung": "Rehhagkopf",
+"eigenschaften": [
+"hoehenlage"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/053": {
+"entitaet": "gipfel",
+"bezeichnung": "Bleichendobelkopf",
+"eigenschaften": [
+"hoehenlage"
+],
+"berichtigungen": 0
+},
+"388-littenweiler/054": {
+"entitaet": "aussichtspunkt",
+"bezeichnung": "Zwei Birken",
+"eigenschaften": [
+"charakterisierung",
+"hoehenlage"
 ],
 "berichtigungen": 0
 },

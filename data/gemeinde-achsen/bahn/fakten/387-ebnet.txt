@@ -1,442 +1,556 @@
 ID: 387-ebnet/001
 ENTITÄT: ort
 BEZEICHNUNG: Ebnet
+FACETTE: LAGE | LANDSCHAFT
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  ist_stadtteil: true
-  hat_ortsverwaltung: true
-  lage: "Osten von Freiburg, fast komplett nördlich der Dreisam"
+  lage: Stadtteil von Freiburg im Breisgau, östlich der Stadt, nördlich der Dreisam
   einwohner: 2800
-  genauigkeit_einwohner: "ca."
-  ersterwähnung: 1113
-  ersterwähnung_quelle: "Urkunden des Klosters St. Peter"
-  ersterwähnung_bezeichnung: "Ebenôte"
-  eingemeindung_zu_freiburg: 1974
-GUELTIG_AB: 1974
+  eingemeindet_am: 1. Juli 1974
+  begrenzung_dreisam: Dreisam trennt im Süden vom Stadtteil Littenweiler
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 387-ebnet/002
 ENTITÄT: ort
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+BEZEICHNUNG: Ebnet
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7710/Ebnet | Landesportal
 EIGENSCHAFTEN:
-  herrscher_früh: "Herren von Falkenstein"
-  herrscher_später: "Grafen von Freiburg"
-GUELTIG_BIS: 1350
+  ersterwahnung: 1111
+  ersterwahnung_form: Ebenôte
+  namensherkunft: Ebene
+GUELTIG_AB: 1111
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 387-ebnet/003
 ENTITÄT: ort
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+BEZEICHNUNG: Ebnet
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7710/Ebnet | Landesportal
 EIGENSCHAFTEN:
-  gehört_zu: "Patriziergeschlecht der Schnewlin-Landeck"
-GUELTIG_AB: 1350
-GUELTIG_BIS: 1500
+  herrscher_frueher: Herren von Falkenstein
+  herrscher_spaeter: Grafen von Freiburg (nach Ausgang der Zähringer)
+  herrschaft_verpfaendung: 1350 an Schnewlin-Landeck
+  herrschaft_heirat: 16. Jahrhundert an Sickingen
+  herrschaft_entzug_oesterreich: 1806
+GUELTIG_AB: 1111
+GUELTIG_BIS: 1806
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/004
-ENTITÄT: ort
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
-EIGENSCHAFTEN:
-  gehört_zu: "Geschlecht derer von Sickingen"
-GUELTIG_AB: 1500
-GUELTIG_BIS: 1974
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 387-ebnet/005
-ENTITÄT: ort
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
-EIGENSCHAFTEN:
-  gehört_zu: "Großherzogtum Baden"
-GUELTIG_AB: 1805
-GUELTIG_BIS: 1974
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 387-ebnet/006
-ENTITÄT: institution
+ENTITÄT: administration
 BEZEICHNUNG: Ortsverwaltung Ebnet
+FACETTE: INFRA | POLITIK
 QUELLE: https://www.freiburg.de/pb/206692.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  adresse: "Steinhalde 6, 79117 Freiburg"
-  telefon: "0761/696898-0"
-  email: "ov-ebnet@freiburg.de"
+  adresse: Steinhalde 6, 79117 Freiburg
+  telefon: 0761/696898-0
+  email: ov-ebnet@freiburg.de
+  ortsvorsteherin: Gabriele Hoferichter
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 387-ebnet/007
-ENTITÄT: person
-BEZEICHNUNG: Gabriele Hoferichter
-QUELLE: https://www.freiburg.de/pb/206692.html | Gemeinde-Webseite
+ID: 387-ebnet/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Hilarius und St. Remigius
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7710/Ebnet | Landesportal
 EIGENSCHAFTEN:
-  titel: "Ortsvorsteherin"
-  email: "gabriele.hoferichter@freiburg.de"
+  patrozinium: St. Hilarius und St. Remigius
+  ersterwahnung: 1353
+  ersterwahnung_status: Filialkirche von Kirchzarten
+  pfarrei_verselbststaendigung: 1631
+  bauteile_mittelalter: Chor und Turm
+  neubau: bald nach 1610
+  neubau_gegenwaertig: 1720
+  dekorateure: Benedikt Gambs (Deckenbilder und Stukkaturen)
+GUELTIG_AB: 1353
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 387-ebnet/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Hilarius
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  stil_urspruenglich: gotisch
+  umgestaltung_stil: Barock
+  umgestaltung_jahr: 1720/21
+  notabe: Wolfgang Amadeus Mozarts Schwiegereltern wurden hier am 14. September 1756 getraut
+GUELTIG_AB: 1720
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 387-ebnet/007
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Ebnet
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  architekturstil: Rokoko
+  bauzeit: ab 1748
+  grund_neubau: Neuerrichtung an Stelle der früheren Wasserburg
+  architekt: Johann Jacob Fechter
+  ausfuehrung: Simon Schratt
+  ausstattung: Johann Christian Wentzinger
+  kunstwerke_park: Vier Jahreszeiten (Plastiken von Wentzinger)
+  bedeutung_fuer_ort: Veranstaltungsort (Konzerte, kulturelle Events)
+  nutzer: Ebneter Sommer
+  oeffentlichkeit_zugang: Tag des offenen Denkmals
+GUELTIG_AB: 1748
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/008
-ENTITÄT: infrastruktur_wasser
-BEZEICHNUNG: Wasserwerk Freiburg-Ebnet
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Ebnet
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7710/Ebnet | Landesportal
 EIGENSCHAFTEN:
-  lage: "Gemarkung Ebnet"
-  funktion: "Versorgung der Stadt Freiburg mit Trinkwasser"
-  versorgungsquote: "ca. 2/3 aller Freiburger Haushalte"
-  hat_brunnen: true
-IST_VERMUTLICH_AKTUELL: true
+  vorgaenger: Wasserburg
+  bauzeit: 1748
+  funktion_frueher: Herrschaftssitz der Familie von Sickingen
+GUELTIG_AB: 1748
+IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 387-ebnet/009
-ENTITÄT: bundesstrasse
-BEZEICHNUNG: B 31
+ENTITÄT: bad
+BEZEICHNUNG: Strandbad
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  verlauf_historisch: "durch Ortsdurchfahrt von Ebnet"
-  grund_umlenkung: "Fertigstellung von Kappler und Schützenalleetunnel"
-GUELTIG_AB: 2002
-GUELTIG_BIS: 2002
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  beschreibung: Badeangebot an der Dreisam
+  grenzpunkt: Gemeinsamer Grenzpunkt zwischen Ebnet, Waldsee und Littenweiler liegt im Strandbad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 387-ebnet/010
-ENTITÄT: pfarrkirche
-BEZEICHNUNG: St. Hilarius
+ENTITÄT: sportstatte
+BEZEICHNUNG: Dreisamhalle
+FACETTE: FREIZEIT | INFRA
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  konfession: "katholisch"
-  baustil_ursprünglich: "gotisch"
-  baustil_aktuell: "Barockzeit"
-  umbau_jahr: 1720
-  umbau_jahr_bis: 1721
-  historisches_ereignis: "Schwiegereltern von Wolfgang Amadeus Mozart am 14. September 1756 getraut"
+  funktion_urspruenglich: Sportplatz neben der Halle zu klein geworden
+  bedeutung_fuer_ort: Zentrale Sportstätte
+  frelo_station: Fahrradverleihstation an der Dreisamhalle
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 387-ebnet/011
-ENTITÄT: schloss
-BEZEICHNUNG: Schloss Ebnet
+ENTITÄT: stadion
+BEZEICHNUNG: Dreisamstadion
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  baustil: "Rokoko-Schloss"
-  gehört_zu: "Geschlecht der von Sickingen (heute: Gayling von Altheim)"
-  erbauer_planung: "Johann Jacob Fechter"
-  erbauer_ausführung: "Simon Schratt"
-  ausstattung_künstler: "Johann Christian Wentzinger"
-  baubeginn: 1748
-  funktionen_heute: "Konzerte und Veranstaltungen, Tag des offenen Denkmals"
-  hat_park: true
+  nutzer: SC Freiburg
+  grenzen: Nordostecke und Nordteil gehören zu Ebnet
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 387-ebnet/012
-ENTITÄT: kunstwerk
-BEZEICHNUNG: Vier Jahreszeiten Plastiken
+ENTITÄT: sportplatz
+BEZEICHNUNG: Sportplatz Ebnet (neuer)
+FACETTE: FREIZEIT | INFRA
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  künstler: "Johann Christian Wentzinger"
-  standort: "Schlosspark"
+  groesse_vergleich: größer als alter Platz
+  entstehungsjahr: 2019
+  location: östlicher Ortsausgang
+GUELTIG_AB: 2019
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/013
-ENTITÄT: veranstaltungsort
-BEZEICHNUNG: Theodor-Egel-Saal
+ENTITÄT: neubaugebiet
+BEZEICHNUNG: Alter Sportplatz
+FACETTE: INFRA | ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  nutzer: "Freiburger Bachchor"
-  nutzung: "Proberäume"
+  beschreibung: Alter Sportplatz bebaut mit Wohnungen
+  vorgaenger: Ehemaliger Sportplatz
+GUELTIG_AB: 2019
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 387-ebnet/014
-ENTITÄT: kapelle
-BEZEICHNUNG: Anna-Kapelle
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
-EIGENSCHAFTEN:
-  baustil: "modern"
-  baubeginn: 2010
-  weihe: 2010
-  standort: "Ortsausgang nach Stegen"
-GUELTIG_AB: 2010
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 387-ebnet/015
-ENTITÄT: wohngebiet
+ENTITÄT: neubaugebiet
 BEZEICHNUNG: Hornbühl-Ost
+FACETTE: INFRA | ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
   baubeginn: 2020
-  standort: "östlicher Ortsrand zwischen Dreisam, Schwarzwaldstraße und neuem Sportplatz"
+  location: östlicher Ortsrand zwischen Dreisam, Schwarzwaldstraße und neuem Sportplatz
   wohnungen: 120
-  geschaetzte_bewohner: 280
-  genauigkeit_bewohner: "ca."
+  kapazitaet: Platz für ca. 280 Menschen
 GUELTIG_AB: 2020
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 387-ebnet/016
-ENTITÄT: sportplatz
+ID: 387-ebnet/015
+ENTITÄT: kapelle
+BEZEICHNUNG: Anna-Kapelle
+FACETTE: KULTUR | RELIGION
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  grund_neubau: "alte Möglichkeiten am bestehenden Sportplatz neben der Dreisamhalle zu klein"
-  baujahr: 2019
-  standort: "östlicher Ortsausgang"
-GUELTIG_AB: 2019
+  lage: Ortsausgang nach Stegen
+  weihe: 2010
+GUELTIG_AB: 2010
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 387-ebnet/017
-ENTITÄT: wohngebiet
-BEZEICHNUNG: Alter Sportplatz
+ID: 387-ebnet/016
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Theodor-Egel-Saal
+FACETTE: KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  beschreibung: "ehemaliger Sportplatz mit Wohnungen bebaut"
-GUELTIG_AB: 2019
+  nutzer: Freiburger Bachchor (Proberäume)
+  location: östlich des Schlossparks
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.8
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 387-ebnet/017
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein Ebnet e.V.
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1923
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/018
-ENTITÄT: radweg
-BEZEICHNUNG: FR 1
+ENTITÄT: verein
+BEZEICHNUNG: Gemischter Chor Ebnet e.V.
+FACETTE: KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  verlauf: "entlang der Dreisam über Oberau zur Innenstadt und weiter bis Lehen"
+  vorgaenger: Gesangsverein Ebnet e.V.
+  gruendung: 1910
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/019
-ENTITÄT: radschnellweg
+ENTITÄT: verein
+BEZEICHNUNG: Radsportverein "Wanderlust" Ebnet e.V.
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  ziel: "Kirchzarten"
-  status: "geplant"
-  trasse: "zurückgebaute ehemalige B 31 nach Zarten"
+  gruendung: 1922
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/020
-ENTITÄT: frelo_station
+ENTITÄT: verein
+BEZEICHNUNG: Sportverein Ebnet e.V.
+FACETTE: FREIZEIT
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  standort: "an der Dreisamhalle"
+  gruendung: 1933
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/021
-ENTITÄT: verein
-BEZEICHNUNG: Musikverein Ebnet e. V.
+ENTITÄT: narrenzunft
+BEZEICHNUNG: Narrenzunft "Feurige Salamander Ebnet e.V."
+FACETTE: KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  gründung: 1923
-GUELTIG_AB: 1923
+  gruendung: 1955
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/022
-ENTITÄT: verein
-BEZEICHNUNG: Gesangsverein Ebnet e. V. / Gemischter Chor Ebnet e. V.
+ENTITÄT: kirchenchor
+BEZEICHNUNG: Kirchenchor von St. Hilarius
+FACETTE: KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  gründung: 1910
-  namenswechsel_zu: "Gemischter Chor Ebnet e. V."
-GUELTIG_AB: 1910
+  gruendung: seit 1847
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/023
-ENTITÄT: verein
-BEZEICHNUNG: Radsportverein "Wanderlust" Ebnet e. V.
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr – Abteilung Freiburg-Ebnet
+FACETTE: INFRA | POLITIK
+QUELLE: https://www.freiburg.de/pb/206712.html | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gründung: 1922
-GUELTIG_AB: 1922
+  abteilungskommandant: Michael Scherer
+  kontakt: ebnet@feuerwehr-freiburg.de
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/024
-ENTITÄT: verein
-BEZEICHNUNG: Sportverein Ebnet e. V.
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
-EIGENSCHAFTEN:
-  gründung: 1933
-GUELTIG_AB: 1933
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 387-ebnet/025
-ENTITÄT: verein
-BEZEICHNUNG: Narrenzunft "Feurige Salamander Ebnet e. V."
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
-EIGENSCHAFTEN:
-  gründung: 1955
-GUELTIG_AB: 1955
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 387-ebnet/026
-ENTITÄT: institution
-BEZEICHNUNG: Freiwillige Feuerwehr – Abteilung Freiburg-Ebnet
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
-EIGENSCHAFTEN:
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 387-ebnet/027
-ENTITÄT: chor
-BEZEICHNUNG: Kirchenchor von St. Hilarius
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
-EIGENSCHAFTEN:
-  gründung: 1847
-  kirche: "St. Hilarius"
-GUELTIG_AB: 1847
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 387-ebnet/028
-ENTITÄT: arbeitsgemeinschaft
-BEZEICHNUNG: Arbeitsgemeinschaft Ebneter Ortsbild
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
-EIGENSCHAFTEN:
-  beschreibung: "Zusammenschluss von Ebneter Bürgern"
-  projekte: "Ziegenprojekt zur Freihaltung der Aussicht vom Galgenberg in das Dreisamtal"
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 387-ebnet/029
-ENTITÄT: person
+ENTITÄT: persoenlichkeit
 BEZEICHNUNG: Kasimir Anton von Sickingen
+FACETTE: GESCHICHTE
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  geboren: 1684
-  gestorben: 1750
-  geburtsort: "Ebnet"
-  titel: "Fürstbischof von Konstanz"
-  titel_ab: 1743
-  herz_beisetzung: "Ebneter Kirche"
-GUELTIG_AB: 1684
-GUELTIG_BIS: 1750
+  lebensjahre: 1684–1750
+  titel_funktion: Fürstbischof von Konstanz (ab 1743)
+  herkunft: geboren in Ebnet
+  begrabnis: Herz in der Ebneter Kirche beigesetzt
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 387-ebnet/030
-ENTITÄT: person
+ID: 387-ebnet/025
+ENTITÄT: persoenlichkeit
 BEZEICHNUNG: Benedikt Gambs
+FACETTE: GESCHICHTE | KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  geboren: 1703
-  genauigkeit_geburtstag: "ca."
-  gestorben: 1751
-  herkunft: "Westallgäu"
-  beruf: "Maler"
-  werke: "Deckenbilder im Ebneter Schloss"
-  todesort: "Ebnet"
-GUELTIG_AB: 1703
-GUELTIG_BIS: 1751
+  lebensjahre: ca. 1703–1751
+  profession: Maler
+  herkunft: aus dem Westallgäu
+  werke: Deckenbilder im Ebneter Schloss
+  tod_ort: Ebnet
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 387-ebnet/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Christian Wentzinger
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1710–1797
+  profession: Künstler
+  beteiligung_schloss: Ausstattung des Schlosses
+  werke: Vier Jahreszeiten (Plastiken im Schlosspark)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 387-ebnet/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: August Feyel
+FACETTE: KULTUR | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1881–1963
+  profession: Landschaftsmaler
+  wohnort: jahrzehntelang in Ebnet
+  begrabnis: Dorffriedhof Ebnet
+  nachwirkung: Grundschule des Ortes nach ihm benannt (Feyel-Grundschule)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 387-ebnet/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz von Roggenbach
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1825–1907
+  profession: badischer Politiker
+  begrabnis: Familiengruft der Familie Gayling von Altheim neben der Kirche
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 387-ebnet/029
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Pater Bonaventura Schweizer
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1893–1968
+  herkunft: in Ebnet geboren
+  funktion: Generaloberer der Salvatorianer
+  konzil: Konzilsvater des Zweiten Vatikanischen Konzils
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 387-ebnet/030
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Sepp Allgeier
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1895–1968
+  profession: deutscher Kameramann
+  wohnort: lebte und starb in Ebnet
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/031
-ENTITÄT: person
-BEZEICHNUNG: Johann Christian Wentzinger
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Eduard Baumgarten
+FACETTE: KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  geboren: 1710
-  gestorben: 1797
-  beruf: "Künstler"
-  arbeiten_ebnet: "Ausstattung Schloss Ebnet, Vier-Jahreszeiten-Plastiken"
-GUELTIG_AB: 1710
-GUELTIG_BIS: 1797
+  lebensjahre: 1898–1982
+  profession: Philosoph und Soziologe
+  wohnort: lange Jahre in Ebnet
 IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.85
 ---
 ID: 387-ebnet/032
-ENTITÄT: person
-BEZEICHNUNG: Franz von Roggenbach
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Adolf J. Schmid
+FACETTE: KULTUR
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  geboren: 1825
-  gestorben: 1907
-  beruf: "badischer Politiker"
-  beisetzung: "Familiengruft neben der Kirche, Familie Gayling von Altheim"
-GUELTIG_AB: 1825
-GUELTIG_BIS: 1907
+  lebensjahre: 1934–2011
+  profession: Historiker
+  funktion: Chronist der Gemeinde
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 387-ebnet/033
-ENTITÄT: person
-BEZEICHNUNG: August Feyel
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserwerk Freiburg-Ebnet
+FACETTE: INFRA
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  geboren: 1881
-  gestorben: 1963
-  beruf: "Landschaftsmaler"
-  wohnzeit_ebnet: "jahrzehntelang"
-  beisetzung: "Dorffriedhof Ebnet"
-  namensgeberinnen: "Grundschule Ebnet"
-GUELTIG_AB: 1881
-GUELTIG_BIS: 1963
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
----
-ID: 387-ebnet/034
-ENTITÄT: person
-BEZEICHNUNG: Pater Bonaventura Schweizer
-QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
-EIGENSCHAFTEN:
-  geboren: 1893
-  gestorben: 1968
-  geburtsort: "Ebnet"
-  orden: "Salvatorianer"
-  titel: "Generaloberer"
-  konzil: "Konzilsvater des Zweiten Vatikanischen Konzils"
-GUELTIG_AB: 1893
-GUELTIG_BIS: 1968
-IST_VERMUTLICH_AKTUELL: false
+  bedeutung_fuer_ort: versorgt ca. zwei Drittel aller Freiburger Haushalte mit Trinkwasser
+  standort: Gemarkung Ebnet mit zahlreichen Brunnen
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
-ID: 387-ebnet/035
-ENTITÄT: person
-BEZEICHNUNG: Sepp Allgeier
+ID: 387-ebnet/034
+ENTITÄT: radweg
+BEZEICHNUNG: FR 1
+FACETTE: FREIZEIT | INFRA
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  geboren: 1895
-  gestorben: 1968
-  beruf: "deutscher Kameramann"
-  wohnort_gestorben: "Ebnet"
-GUELTIG_AB: 1895
-GUELTIG_BIS: 1968
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  verlauf: entlang der Dreisam über die Oberau in Richtung Innenstadt und weiter bis nach Lehen
+  nutzung: Radverkehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 387-ebnet/035
+ENTITÄT: radweg
+BEZEICHNUNG: Dreisamtal-Radwanderweg
+FACETTE: FREIZEIT
+QUELLE: [Aus ZEUGEN identifiziert]
+EIGENSCHAFTEN:
+  beschreibung: Radwanderweg im Dreisamtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
 ---
 ID: 387-ebnet/036
-ENTITÄT: person
-BEZEICHNUNG: Eduard Baumgarten
+ENTITÄT: wanderweg
+BEZEICHNUNG: Zähringer-Wanderweg
+FACETTE: FREIZEIT
+QUELLE: [Aus ZEUGEN identifiziert]
+EIGENSCHAFTEN:
+  laenge: 74 km
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 387-ebnet/037
+ENTITÄT: wanderweg
+BEZEICHNUNG: Planetenweg
+FACETTE: FREIZEIT
+QUELLE: [Aus ZEUGEN identifiziert]
+EIGENSCHAFTEN:
+  beschreibung: Themenweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 387-ebnet/038
+ENTITÄT: wanderweg
+BEZEICHNUNG: Himmelreich-Jakobusweg
+FACETTE: FREIZEIT
+QUELLE: [Aus ZEUGEN identifiziert]
+EIGENSCHAFTEN:
+  beschreibung: Jakobusweg (Pilgerweg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 387-ebnet/039
+ENTITÄT: berg
+BEZEICHNUNG: Rosskopf
+FACETTE: LAGE | LANDSCHAFT
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  geboren: 1898
-  gestorben: 1982
-  beruf: "Philosoph und Soziologe"
-  wohnzeit_ebnet: "lange Jahre"
-GUELTIG_AB: 1898
-GUELTIG_BIS: 1982
+  hoehe: 737 m
+  bedeutung_fuer_ort: prägt Landschaftsbild, Grenzmarke der Gemarkung
+  recreational: Borderline-Downhill für Mountain-Bikes entlang Gemarkungsgrenze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 387-ebnet/040
+ENTITÄT: berg
+BEZEICHNUNG: Kleiner Rosskopf
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: [Aus ZEUGEN identifiziert]
+EIGENSCHAFTEN:
+  hoehe: 562 m
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 387-ebnet/041
+ENTITÄT: gewaesser
+BEZEICHNUNG: Dreisam
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Fluss, grenzt Ebnet im Süden ab
+  trennung: Dreisam trennt Ebnet vom Stadtteil Littenweiler
+  bedeutung_fuer_ort: prägt Landschaft und Grenzen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 387-ebnet/042
+ENTITÄT: gewaesser
+BEZEICHNUNG: Brugga
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Fluss, grenzt Ebnet ab
+  einmuendung: Brugga mündet in die Dreisam
+  grenzen: Ab Einmündung grenzt Ebnet an Nachbargemeinde Kirchzarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 387-ebnet/043
+ENTITÄT: gewaesser
+BEZEICHNUNG: Eschbach
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  grenzen: Ab Eschbach grenzt Ebnet an die Gemeinde Stegen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 387-ebnet/044
+ENTITÄT: tal
+BEZEICHNUNG: Welchental
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  location: gehört zu Ebnet
+  abgrenzung: zwischen Stegener Attental und Welchental liegt Höhenrücken als Grenzmarke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 387-ebnet/045
+ENTITÄT: verkehr
+BEZEICHNUNG: B 31
+FACETTE: INFRA | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  status_historisch: Bundesstraße führte bis 2002 durch Ortsdurchfahrt
+  vergangenheit: stark belastet, lange Staus
+  ersatz: Fertigstellung von autobahnähnlicher B 31 ins Dreisamtal mit Tunneln (Kappler und Schützenallee) im Jahr 2002
+GUELTIG_AB: unbekannt
+GUELTIG_BIS: 2002
 IST_VERMUTLICH_AKTUELL: false
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 387-ebnet/037
-ENTITÄT: person
-BEZEICHNUNG: Adolf J. Schmid
+ID: 387-ebnet/046
+ENTITÄT: organisation
+BEZEICHNUNG: Arbeitsgemeinschaft Ebneter Ortsbild
+FACETTE: ALLTAG
 QUELLE: https://de.wikipedia.org/wiki/Ebnet_(Freiburg_im_Breisgau) | Wikipedia
 EIGENSCHAFTEN:
-  geboren: 1934
-  gestorben: 2011
-  beruf: "Historiker"
-  titel: "Chronist der Gemeinde Ebnet"
-GUELTIG_AB: 1934
-GUELTIG_BIS: 2011
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  beschreibung: Zusammenschluss von Ebneter Bürgern
+  aktivitaeten: Ziegenprojekt zur Freihaltung der Aussicht vom Galgenberg ins Dreisamtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
