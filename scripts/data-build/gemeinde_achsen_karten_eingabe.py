@@ -50,6 +50,23 @@ if os.path.exists(os.path.join(ITER, 'orte.json')):
 ZAHL = [('einwohner', 'Einwohnerzahl'), ('ersterwaehnung', 'Jahr der ersten Erwähnung'), ('flaeche_km2', 'Fläche der Gemarkung'),
         ('hoehe_m', 'Höhe des Orts'), ('dichte_ew_km2', 'Einwohner je Quadratkilometer')]
 POLITIK = [('A', 'zweitstärkste Partei'), ('C', 'Wahlbeteiligung in Prozent'), ('C', 'Anteil der stärksten Partei in Prozent')]
+# Wahlbeteiligung nur, wenn sie auffällig ist (Mike 2026-10-19: seltener, und nur bei außergewöhnlich hoher oder niedriger
+# Beteiligung im Vergleich). Vergleich: amtlicher Landeswert der Bundestagswahl 2025; Schwelle in Prozentpunkten (Vorschlag 5).
+WB_SCHWELLE = 5.0
+with io.open(os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'land_wahlbeteiligung_btw25.json'), encoding='utf-8') as _f:
+    LAND_WB = {k: v for k, v in json.load(_f).items() if not k.startswith('_')}
+
+
+def wahlbeteiligung_land(ort):
+    """(Beteiligung des Orts, Landeswert) oder None, wenn eines fehlt."""
+    w = ort['eigenschaften'].get('wahl_btw25', [{}])[0].get('wert', {}).get('wahlbeteiligung_prozent')
+    land = LAND_WB.get((ort.get('gemeindeschluessel') or '')[:2])
+    return (w, land) if w and land else None
+
+
+def wahlbeteiligung_auffaellig(ort):
+    wl = wahlbeteiligung_land(ort)
+    return bool(wl) and abs(wl[0] - wl[1]) >= WB_SCHWELLE
 LAGE = [('landkreis', 'A', 'Landkreis'), ('kfz', 'A', 'Kennzeichen'), ('partnerstaedte', 'A', 'Partnerstadt'),
         ('eingemeindung', 'C', 'Jahr der Eingemeindung'), ('km_landeshauptstadt', 'C', 'Luftlinie zur Landeshauptstadt'),
         ('flaeche_km2', 'C', 'Fläche der Gemarkung'), ('dichte_ew_km2', 'C', 'Einwohner je Quadratkilometer')]
@@ -121,6 +138,10 @@ def grunddaten_text(ort, nur=None):
         if (nur and key not in nur) or key == 'lage' or (key == 'kueste' and liste[0]['wert'] != 'ja'):
             continue
         aus.append(zeile(key, liste) + ''.join(' — BERICHTIGT: ' + h for h in GRUND_BERICHTIGT.get((ort['slug'], key), [])))
+        if key == 'wahl_btw25' and wahlbeteiligung_land(ort):
+            w, land = wahlbeteiligung_land(ort)
+            aus.append('  wahlbeteiligung_land: %s %% im Bundesland (Ort %s %%, Abstand %s Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]'
+                       % (de(land), de(w), de(round(abs(w - land), 1))))
     return '\n'.join(aus)
 
 
@@ -144,10 +165,16 @@ def plan(i, ort):
     a = lambda k: ((i * 3 + k * 5) % 4) + 1
     b = lambda k: ((i + k) % 3) + 1
     zahl, zahl_ersatz = waehle(ort, ZAHL, i)
-    pol_fam, pol = POLITIK[i % len(POLITIK)]
+    # Politik: zweitstärkste Partei und Anteil der stärksten wechseln sich ab; die Wahlbeteiligung kommt genau dann,
+    # wenn sie auffällig ist (Mike 2026-10-19), unabhängig von der Rotation
+    pol_fam, pol = (POLITIK[0], POLITIK[2])[i % 2]
     if 'nur ungefähr' in ort['eigenschaften'].get('wahl_btw25', [{}])[0].get('hinweis', ''):
         # ein ungefähres Stadtteilergebnis trägt keinen knappen Rang und keine Wahlbeteiligung, nur eine Spanne
         pol_fam, pol = POLITIK[2]
+    elif wahlbeteiligung_auffaellig(ort):
+        w, land = wahlbeteiligung_land(ort)
+        pol_fam, pol = POLITIK[1]
+        pol += ' – AUFFÄLLIG: %s %% gegen %s %% im Bundesland; als Vergleich fragen (deutlich über/unter dem Landeswert), Spannen um den Landeswert legen' % (de(w), de(land))
     # Landkreis und Kennzeichen eines Stadtteils sind die der Stadt und schon durch den Steckbrief verraten
     stadt = ('landkreis', 'kfz') if ort['einheit'].startswith('Ortsteil') else ()
     lage, lage_ersatz = waehle(ort, LAGE, i, gesperrt=((zahl[0] if zahl else ''), zahl_ersatz[0] if zahl_ersatz else '') + stadt)

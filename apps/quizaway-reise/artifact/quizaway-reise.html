@@ -32,6 +32,9 @@ button:focus-visible{outline:3px solid var(--spine);outline-offset:2px}
 .scr{position:absolute;inset:0;background:var(--bg);color:var(--fg);display:flex;flex-direction:column;padding:16px 16px calc(16px + env(safe-area-inset-bottom));gap:10px;overflow:auto}
 .scr[hidden]{display:none}
 .grow{flex:1 1 auto;min-height:0}
+/* Inhaltslisten dürfen nicht unter ihre Inhaltshöhe gestaucht werden – sonst laufen sie unter Legende und Buttons (Fahrtkarte mit vielen Orten). Der Screen scrollt dann stattdessen. */
+.route.grow{flex:1 0 auto;min-height:max-content}
+.legend,.status{flex:0 0 auto}
 .top{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px;flex-wrap:wrap}
 .top .sp{flex:1}
 .top button{border:1px solid var(--line);border-radius:8px;padding:4px 8px;font-weight:700;font-size:12px}
@@ -582,7 +585,12 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     sichern('fahrt', fahrt); tonFreigeben(); fahrtLaufen();
     try{ if(window.speechSynthesis && fahrt.vor) speechSynthesis.speak(new SpeechSynthesisUtterance('')); }catch(e){}
   };
-  $('weiter').onclick = function(){ tonFreigeben(); fahrtLaufen(); };
+  // Fortsetzen übernimmt die Vorlesen-Wahl des Startbildschirms (Mike 2026-10-19: sonst las das Handy trotz „liest selbst“ weiter vor)
+  $('weiter').onclick = function(){
+    if(fahrt.vor !== wahlStart.vor){ fahrt.vor = wahlStart.vor; ereignis(fahrt.vor ? 'vorlesen-an' : 'vorlesen-aus'); sichern('fahrt', fahrt); }
+    if(!fahrt.vor) still();
+    tonFreigeben(); fahrtLaufen();
+  };
   function fahrtLaufen(){
     rt = routeBauen(raum());
     if(fahrt.quelle === 'gps' && gpsId === null) gpsStarten();
@@ -765,7 +773,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   $('k-skip').onclick = function(){ fahrt.orte[fahrt.pos].zustand = 'skip'; fahrt.pos++; sichern('fahrt', fahrt); karteZeichnen(); };
   $('k-ende').onclick = function(){ endeZeigen(); };
   $('k-menue').onclick = function(){ startZeichnen(); show('s-start'); };
-  $('k-vor').onclick = function(){ fahrt.vor = fahrt.vor ? 0 : 1; ereignis(fahrt.vor ? 'vorlesen-an' : 'vorlesen-aus'); sichern('fahrt', fahrt); karteZeichnen(); show('s-karte'); };
+  $('k-vor').onclick = function(){ fahrt.vor = fahrt.vor ? 0 : 1; wahlStart.vor = fahrt.vor; if(!fahrt.vor) still();
+    ereignis(fahrt.vor ? 'vorlesen-an' : 'vorlesen-aus'); sichern('fahrt', fahrt); sichern('wahl', wahlStart); karteZeichnen(); show('s-karte'); };
   $('k-stimme').onclick = function(){ fahrt.stimme = fahrt.stimme === false; ereignis(fahrt.stimme ? 'stimme-an' : 'stimme-aus'); sichern('fahrt', fahrt); karteZeichnen(); };
   $('f-nochmal').onclick = $('l-nochmal').onclick = $('a-nochmal').onclick = function(){ sprich(letzterText, true); };
   $('k-pause').onclick = function(){ fahrt.sim.pause = !fahrt.sim.pause; karteZeichnen(); };

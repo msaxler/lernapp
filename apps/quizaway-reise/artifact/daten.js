@@ -323,26 +323,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Gundelfingen",
-"steckbrief": "Rund 12.000 Einwohner, 5 km nördlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war die Wahlbeteiligung in Gundelfingen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 Prozent",
-"75 bis unter 80 Prozent",
-"80 bis unter 85 Prozent",
-"85 Prozent und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Naheliegend ist ein mittlerer Wert, wie man ihn aus den Nachrichten zu Wahlabenden kennt. In Gundelfingen gingen bei der Bundestagswahl am 23. Februar 2025 aber 87,7 Prozent zur Wahl. Bei den Zweitstimmen lag die CDU mit 26,3 Prozent knapp vor den Grünen mit 25,2 Prozent. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025",
-"faktencheck": "bestätigt",
-"id": "02-gundelfingen/v0.6/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Gundelfingen",
@@ -1180,26 +1160,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, Artikel „St. Peter (Hochschwarzwald)“",
 "faktencheck": "bestätigt",
 "id": "05-st-peter/v0.6/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "St. Peter",
-"steckbrief": "Die Gemeinde im Hochschwarzwald hat rund 2.700 Einwohner und liegt 14 km östlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war in St. Peter die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"85 % und mehr",
-"80 bis unter 85 %",
-"75 bis unter 80 %",
-"unter 75 %"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer vom Üblichen bei Bundestagswahlen ausgeht, landet eine Spanne tiefer. In St. Peter gaben am 23. Februar 2025 aber 86,8 Prozent der Wahlberechtigten ihre Stimme ab. Zur Gemeinderatswahl 2024 gingen deutlich weniger: 73,6 Prozent. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025; Gemeinderatswahl: Wikipedia, Artikel „St. Peter (Hochschwarzwald)“",
-"faktencheck": "bestätigt",
-"id": "05-st-peter/v0.6/4",
 "tisch": false
 },
 {
@@ -3687,26 +3647,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Rengsdorf",
-"steckbrief": "Ortsgemeinde mit rund 3.000 Einwohnern, 18 km nördlich von Koblenz.",
-"frage": "Wie hoch war in Rengsdorf die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 84 %",
-"84 bis unter 87 %",
-"87 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl am 23. Februar 2025 lag die Wahlbeteiligung in Rengsdorf bei 82,6 Prozent. Stärkste Partei wurde die CDU mit 32,7 Prozent der Zweitstimmen, vor der AfD mit 18,6 und der SPD mit 17,6 Prozent. Höhere Tipps liegen nahe, weil kleine Orte oft besonders fleißig wählen; Rengsdorf blieb unter 84 Prozent. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025",
-"faktencheck": "bestätigt",
-"id": "05-rengsdorf/v0.7/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Rengsdorf",
@@ -4247,26 +4187,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, Artikel „Linz am Rhein“",
 "faktencheck": "bestätigt",
 "id": "08-linz/v0.7/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Linz am Rhein",
-"steckbrief": "Stadt mit rund 6.300 Einwohnern, 23 km südöstlich von Bonn, Sitz einer Verbandsgemeinde.",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Verbandsgemeinde Linz am Rhein?",
-"optionen": [
-"unter 82 %",
-"82 bis unter 87 %",
-"87 bis unter 92 %",
-"92 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. In der Verbandsgemeinde Linz am Rhein gaben bei der Bundestagswahl 2025 85,4 Prozent der Wahlberechtigten ihre Stimme ab. Ein niedrigerer Wert liegt nahe, weil oft über Wahlmüdigkeit geklagt wird. Stärkste Partei wurde die CDU mit 37,3 Prozent der Zweitstimmen, vor der SPD mit 17,5 Prozent. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025",
-"faktencheck": "bestätigt",
-"id": "08-linz/v0.7/4",
 "tisch": false
 },
 {
@@ -4910,26 +4830,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, Artikel „Feldkirche (Neuwied)“",
 "faktencheck": "korrigiert",
 "id": "11-feldkirchen/v0.7/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Feldkirchen",
-"steckbrief": "Stadtteil von Neuwied mit rund 5.200 Einwohnern, 16 km nordwestlich von Koblenz.",
-"frage": "Wie hoch war die Wahlbeteiligung in Feldkirchen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 72 %",
-"72 bis unter 78 %",
-"78 bis unter 86 %",
-"86 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Für einen Stadtteil schätzt man die Beteiligung oft niedriger, weil man an anonyme Wohnviertel denkt. In Feldkirchen gingen 83 Prozent zur Wahl. Stärkste Kraft wurde die CDU mit 29,9 Prozent vor SPD mit 21,2 und AfD mit 19,8 Prozent. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich); Stimmbezirke nach der Stimmbezirkseinteilung der Stadt Neuwied, Stand 23. Februar 2025",
-"faktencheck": "bestätigt",
-"id": "11-feldkirchen/v0.7/4",
 "tisch": false
 },
 {
@@ -7044,26 +6944,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Heitersheim",
-"steckbrief": "Eine Kleinstadt mit rund 6.600 Einwohnern, 20 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war in Heitersheim die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 78 %",
-"78 bis unter 85 %",
-"85 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer tiefer tippt, denkt oft an Kommunal- oder Landtagswahlen, bei denen meist weniger Menschen abstimmen. Bei der Bundestagswahl 2025 gaben in Heitersheim 84,4 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Kraft wurde die CDU, vor SPD und Grünen. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "394-heitersheim/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Heitersheim",
@@ -7738,26 +7618,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
 "faktencheck": "bestätigt",
 "id": "397-hochdorf-freiburg/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Hochdorf",
-"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 im Freiburger Stadtbezirk Hochdorf?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 80 %",
-"80 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Großstädte verbindet man oft mit geringerer Beteiligung, und Hochdorf gehört zu Freiburg. Hier lag sie aber bei 83,9 Prozent; bei den Zweitstimmen wurde die CDU stärkste Partei, vor den Grünen. Stand: Wahl vom 23. Februar 2025. Richtig war 3.",
-"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "397-hochdorf-freiburg/v0.8/4",
 "tisch": false
 },
 {
@@ -9457,26 +9317,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Reute",
-"steckbrief": "Gemeinde mit rund 3.000 Einwohnern, 10 km nördlich von Freiburg im Breisgau.",
-"frage": "Bundestagswahl 2025: Wie hoch war die Wahlbeteiligung in Reute?",
-"optionen": [
-"unter 88 %",
-"88 bis unter 90 %",
-"90 bis unter 92 %",
-"92 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Wahl 2025 hatte bundesweit eine hohe Beteiligung, da liegt eine noch höhere Spanne nahe. Reute kam bei der Bundestagswahl 2025 auf eine Wahlbeteiligung von 87,6 Prozent. Stärkste Partei bei den Zweitstimmen war die CDU, vor der SPD. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "399-reute/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Reute",
@@ -10379,26 +10219,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Riegel",
-"steckbrief": "Gemeinde mit rund 4.000 Einwohnern, 19 km nordwestlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war die Wahlbeteiligung in Riegel bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 78 %",
-"78 bis unter 86 %",
-"86 bis unter 92 %",
-"92 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 zog bundesweit auffallend viele an die Urnen, darum tippen manche sehr hoch. In Riegel gaben 84,5 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "402-riegel/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Riegel",
@@ -10873,26 +10693,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
 "faktencheck": "korrigiert",
 "id": "69-ihringen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Ihringen",
-"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war die Wahlbeteiligung in Ihringen bei der Bundestagswahl 2025?",
-"optionen": [
-"85 % und mehr",
-"78 bis unter 85 %",
-"70 bis unter 78 %",
-"unter 70 %"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Viele schätzen niedriger, weil so hohe Wahlbeteiligungen selten sind. In Ihringen gaben bei der Bundestagswahl 2025 aber 87,8 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Partei wurde die CDU. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "69-ihringen/v0.8/4",
 "tisch": false
 },
 {
@@ -12388,26 +12188,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Titisee-Neustadt",
-"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war die Wahlbeteiligung in Titisee-Neustadt bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 77 %",
-"77 bis unter 84 %",
-"84 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Kleinstadt abseits der Großstadt lässt manche eine maue Beteiligung erwarten. Doch in Titisee-Neustadt gaben bei der Bundestagswahl 2025 80,4 Prozent ihre Stimme ab. Stärkste Partei wurde die CDU, gefolgt von der AfD. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "75-titisee-neustadt/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Titisee-Neustadt",
@@ -13021,26 +12801,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Hüfingen",
-"steckbrief": "Hüfingen hat rund 8.000 Einwohner und liegt 48 km östlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war die Wahlbeteiligung in Hüfingen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 76 %",
-"76 bis unter 82 %",
-"82 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 gaben in Hüfingen 84,4 Prozent der Wahlberechtigten ihre Stimme ab. In einer Kleinstadt auf dem Land vermutet man leicht weniger, doch 2025 gingen bundesweit ungewöhnlich viele Menschen wählen. Stärkste Partei wurde in Hüfingen die CDU. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "78-huefingen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Klassiker",
 "ort": "Hüfingen",
@@ -13593,26 +13353,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/",
 "faktencheck": "bestätigt",
 "id": "81-villingen-schwenningen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Villingen-Schwenningen",
-"steckbrief": "Rund 90.000 Einwohner, 48 km östlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war die Wahlbeteiligung in Villingen-Schwenningen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 83 %",
-"83 bis unter 86 %",
-"86 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. 2025 gingen bundesweit besonders viele Menschen wählen, darum liegt eine der höheren Spannen nahe. In Villingen-Schwenningen lag die Wahlbeteiligung aber bei 79,1 Prozent, knapp darunter. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "81-villingen-schwenningen/v0.8/4",
 "tisch": false
 },
 {
@@ -14254,26 +13994,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Oberndorf am Neckar",
-"steckbrief": "Stadt mit rund 14.700 Einwohnern, 52 km südwestlich von Reutlingen.",
-"frage": "Wie hoch war die Wahlbeteiligung in Oberndorf am Neckar bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 gingen bundesweit auffallend viele Menschen wählen, das lockt zu hohen Schätzungen. In Oberndorf am Neckar lag die Beteiligung bei 79,2 Prozent. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "korrigiert",
-"id": "84-oberndorf/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Oberndorf am Neckar",
@@ -14863,26 +14583,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.horb.de/GeschichtlicherRueckblick",
 "faktencheck": "bestätigt",
 "id": "87-horb/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Horb am Neckar",
-"steckbrief": "Große Kreisstadt am Oberen Neckar mit rund 25.700 Einwohnern, 38 km westlich von Reutlingen.",
-"frage": "Wie hoch war die Wahlbeteiligung in Horb bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 80 %",
-"80 bis unter 86 %",
-"86 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Viele schätzen die Beteiligung niedriger, weil sie an frühere Wahlen mit weniger Andrang denken. Bei der Bundestagswahl 2025 gaben in Horb aber 83 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "87-horb/v0.8/4",
 "tisch": false
 },
 {
@@ -15626,26 +15326,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/gaeufelden",
 "faktencheck": "bestätigt",
 "id": "90-gaeufelden/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Gäufelden",
-"steckbrief": "Gäufelden hat rund 9.200 Einwohner und liegt 29 km westlich von Reutlingen im Landkreis Böblingen.",
-"frage": "Wie hoch war die Wahlbeteiligung in Gäufelden bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 84 %",
-"84 % oder mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Kleine Gemeinden auf dem Land hält man leicht für wahlmüde, daher liegen niedrigere Spannen nahe. In Gäufelden betrug die Wahlbeteiligung bei der Bundestagswahl 2025 aber 86,1 Prozent. Stärkste Partei wurde die CDU mit 34,7 Prozent, vor der AfD. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "90-gaeufelden/v0.8/4",
 "tisch": false
 },
 {
@@ -16526,26 +16206,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/altingen",
 "faktencheck": "bestätigt",
 "id": "362-altingen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Altingen",
-"steckbrief": "Altingen ist ein Ortsteil von Ammerbuch im Landkreis Tübingen mit rund 2.600 Einwohnern, 23 km westlich von Reutlingen (Luftlinie).",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Gemeinde Ammerbuch, zu der Altingen gehört?",
-"optionen": [
-"85 % und mehr",
-"80 bis unter 85 %",
-"75 bis unter 80 %",
-"unter 75 %"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Viele tippen niedriger, weil die Beteiligung bundesweit geringer ausfiel. In der Gemeinde Ammerbuch, zu der Altingen gehört, gaben aber 88,3 Prozent ihre Stimme ab. Stärkste Partei wurde die CDU. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "362-altingen/v0.8/4",
 "tisch": false
 },
 {
@@ -17538,26 +17198,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/gemeindeteile/pfaeffingen",
 "faktencheck": "korrigiert",
 "id": "365-pfaeffingen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Pfäffingen",
-"steckbrief": "Ammerbuch-Ortsteil mit rund 1.800 Einwohnern, 18 km westlich von Reutlingen.",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Gemeinde Ammerbuch, zu der Pfäffingen gehört?",
-"optionen": [
-"unter 84 %",
-"84 bis unter 89 %",
-"89 bis unter 92 %",
-"92 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die unterste Spanne liegt nahe, denn bei Bundestagswahlen bleibt meist ein größerer Teil zu Hause. In der Gemeinde Ammerbuch, zu der Pfäffingen gehört, gaben bei der Wahl vom 23. Februar 2025 aber 88,3 Prozent ihre Stimme ab. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "365-pfaeffingen/v0.8/4",
 "tisch": false
 },
 {
@@ -22896,26 +22536,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Dettenhausen",
-"steckbrief": "Gemeinde mit rund 5.500 Einwohnern, 15 km nordwestlich von Reutlingen.",
-"frage": "Wie hoch war die Wahlbeteiligung in Dettenhausen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 78 %",
-"78 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Auf dem Land wird die Beteiligung oft niedriger vermutet, daher liegt eine mittlere Spanne nahe. In Dettenhausen gaben bei der Bundestagswahl 2025 aber 87,7 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Kraft wurde die CDU, vor der AfD. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "381-dettenhausen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Dettenhausen",
@@ -23806,26 +23426,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.gomaringen.de/unser-gomaringen/zahlen-daten-fakten/geografie-geologie und www.gomaringen.de/unser-gomaringen/geschichtliches/ortsgeschichte",
 "faktencheck": "korrigiert",
 "id": "384-gomaringen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Gomaringen",
-"steckbrief": "Gemeinde mit rund 9.100 Einwohnern, 9 km südwestlich von Reutlingen.",
-"frage": "Wie hoch war die Wahlbeteiligung in Gomaringen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 87 %",
-"87 bis unter 89 %",
-"89 bis unter 91 %",
-"91 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer an die hohe Beteiligung im Umland großer Städte denkt, tippt leicht zu hoch. In Gomaringen gaben bei der Bundestagswahl 2025 86,2 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "384-gomaringen/v0.8/4",
 "tisch": false
 },
 {
@@ -26379,26 +25979,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Friesenheim",
-"steckbrief": "Gemeinde mit rund 14.000 Einwohnern, 42 km nördlich von Freiburg im Breisgau",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"über 80 %",
-"75 % bis unter 80 %",
-"68 % bis unter 75 %",
-"unter 68 %"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ländliche Gemeinden in Baden-Württemberg haben oft eine hohe Wahlbeteiligung. Friesenheim erreichte 83,4 Prozent. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "30-friesenheim/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Friesenheim",
@@ -26607,26 +26187,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-i/",
 "faktencheck": "bestätigt",
 "id": "14-offenburg/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Offenburg",
-"steckbrief": "Rund 63.000 Einwohner, 53 km nördlich von Freiburg",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in Offenburg?",
-"optionen": [
-"75 bis unter 80 Prozent",
-"80 bis unter 85 Prozent",
-"Unter 75 Prozent",
-"85 Prozent und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg ist für hohe Wahlbeteiligung bekannt, und viele tippen auf über 80 Prozent. Offenburg lag mit 79,5 Prozent aber knapp darunter. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "14-offenburg/v0.8/4",
 "tisch": false
 },
 {
@@ -26991,26 +26551,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Renchen",
-"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
-"frage": "Wie hoch war die Wahlbeteiligung in Renchen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 85 %",
-"85 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Abseits der Großstädte vermutet man oft eine geringere Beteiligung, darum liegt die unterste Spanne nahe. In Renchen lag die Wahlbeteiligung 2025 bei 82,9 Prozent; stärkste Partei wurde die CDU. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "32-renchen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Renchen",
@@ -27199,26 +26739,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.achern.de/de/Unsere-Stadt/Stadtteile/Grossweier",
 "faktencheck": "bestätigt",
 "id": "02-achern/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Achern",
-"steckbrief": "Rund 27.000 Einwohner, 48 km südwestlich von Karlsruhe",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in Achern?",
-"optionen": [
-"Unter 75 %",
-"75 bis unter 79 %",
-"79 bis unter 82 %",
-"82 % und höher"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Die Wahlbeteiligung in Achern lag bei der Bundestagswahl 2025 bei 82,3 Prozent (amtliches Ergebnis, Stand 23.02.2025). Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 23.02.2025",
-"faktencheck": "bestätigt",
-"id": "02-achern/v0.8/4",
 "tisch": false
 },
 {
@@ -27644,26 +27164,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Baden-Baden",
 "faktencheck": "unsicher",
 "id": "16-baden-baden/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Baden-Baden",
-"steckbrief": "Kurstadt mit rund 57.000 Einwohnern, 30 km südwestlich von Karlsruhe.",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in Baden-Baden?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 82 %",
-"82 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Als Kurstadt mit wohlhabendem Publikum könnte man eine besonders hohe Beteiligung erwarten – die Wahlbeteiligung lag bei 80,1 Prozent. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "16-baden-baden/v0.8/4",
 "tisch": false
 },
 {
@@ -28326,26 +27826,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Karlsruhe",
-"steckbrief": "Karlsruhe ist eine Großstadt mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
-"frage": "Wie hoch war in Karlsruhe die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 74 %",
-"74 bis unter 78 %",
-"78 bis unter 82 %",
-"82 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Großstädte gelten oft als Orte, an denen weniger Menschen wählen als auf dem Land. In Karlsruhe lag die Beteiligung bei der Bundestagswahl 2025 aber bei 83,1 Prozent; stärkste Kraft wurden die Grünen vor der CDU. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "34-karlsruhe/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Karlsruhe",
@@ -28962,26 +28442,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/geschichte-wappen/blick-in-die-ortsgeschichte",
 "faktencheck": "korrigiert",
 "id": "37-waghaeusel/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Waghäusel",
-"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
-"frage": "Wie hoch war die Wahlbeteiligung in Waghäusel bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 85 %",
-"85 bis unter 88 %",
-"88 bis unter 91 %",
-"91 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bundestagswahlen ziehen mehr Menschen an die Urne als Kommunal- oder Europawahlen, da schätzt man leicht zu hoch. In Waghäusel lag die Wahlbeteiligung 2025 bei 84 Prozent. Stärkste Kraft wurde die CDU, Zweite die AfD. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "37-waghaeusel/v0.8/4",
 "tisch": false
 },
 {
@@ -32851,26 +32311,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Groß-Gerau",
-"steckbrief": "Kreisstadt im Rhein-Main-Gebiet, rund 25.000 Einwohner, 13 km nordwestlich von Darmstadt.",
-"frage": "Wie hoch war die Wahlbeteiligung in Groß-Gerau bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 83 %",
-"83 bis unter 85 %",
-"85 bis unter 87 %",
-"87 % oder mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 mobilisierte bundesweit stark, da liegt eine höhere Spanne nahe. In Groß-Gerau lag die Wahlbeteiligung bei 82,2 Prozent. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "138-gross-gerau/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Groß-Gerau",
@@ -33615,26 +33055,6 @@ window.QA_DATEN = {
 "quelle": "Landeshauptstadt Wiesbaden, Stadtlexikon (Faulbrunnen, Mosburg); ESWE Verkehr",
 "faktencheck": "korrigiert",
 "id": "46-wiesbaden/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Wiesbaden",
-"steckbrief": "Hessische Landeshauptstadt mit rund 289.000 Einwohnern, am rechten Rheinufer gegenüber Mainz.",
-"frage": "Wie hoch war die Wahlbeteiligung in Wiesbaden bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 mobilisierte bundesweit stark, da liegt ein Wert über 80 Prozent nahe. Wiesbaden blieb mit 79,7 Prozent knapp darunter. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "46-wiesbaden/v0.8/4",
 "tisch": false
 },
 {
@@ -34832,26 +34252,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Rüdesheim am Rhein",
-"steckbrief": "Weinstadt mit rund 10.000 Einwohnern im Rheingau, 26 km westlich von Mainz.",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 82 Prozent",
-"82 bis unter 85 Prozent",
-"85 bis unter 88 Prozent",
-"88 Prozent und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Wahlbeteiligung in Rüdesheim lag bei der Bundestagswahl 2025 bei 80,3 Prozent. Für eine Stadt mit rund 10.000 Einwohnern ist das ein gängiger Wert. Die CDU kam auf 32,8 Prozent der Zweitstimmen. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "05-ruedesheim/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Rüdesheim am Rhein",
@@ -35620,26 +35020,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "St. Goarshausen",
-"steckbrief": "Rund 1.200 Einwohner, 24 km südöstlich von Koblenz in Rheinland-Pfalz.",
-"frage": "Wie hoch war die Wahlbeteiligung in der Verbandsgemeinde Loreley bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 88 %",
-"88 bis unter 94 %",
-"94 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. In ländlichen Gebieten ist die Wahlbeteiligung oft überdurchschnittlich. In der Verbandsgemeinde Loreley lag sie bei der Bundestagswahl 2025 bei 85,4 %. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "08-st-goarshausen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "St. Goarshausen",
@@ -36381,26 +35761,6 @@ window.QA_DATEN = {
 "quelle": "Landesportal, regionalgeschichte.net/mittelrhein/osterspai.html",
 "faktencheck": "bestätigt",
 "id": "28-osterspai/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Osterspai",
-"steckbrief": "Gemeinde am Mittelrhein, 12 km südlich von Koblenz, rund 1.200 Einwohner.",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Verbandsgemeinde Loreley?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % oder mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. In der ländlichen Verbandsgemeinde Loreley, zu der Osterspai gehört, lag die Wahlbeteiligung bei der Bundestagswahl 2025 bei 85,4 %. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "28-osterspai/v0.8/4",
 "tisch": false
 },
 {
@@ -37399,26 +36759,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Andernach",
-"steckbrief": "Andernach hat rund 30.000 Einwohner und liegt 16 km nordwestlich von Koblenz.",
-"frage": "Wie hoch war die Wahlbeteiligung in Andernach bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 76 %",
-"76 bis unter 81 %",
-"81 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die vorgezogene Wahl mobilisierte bundesweit viele Wähler, da liegt ein hoher Tipp nahe. In Andernach gingen 79,3 Prozent zur Wahl; stärkste Kraft wurde die CDU vor der AfD. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "47-andernach/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Andernach",
@@ -38234,26 +37574,6 @@ window.QA_DATEN = {
 "quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/rhens.html",
 "faktencheck": "bestätigt",
 "id": "59-rhens/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Rhens",
-"steckbrief": "Rhens hat rund 2.900 Einwohner und liegt 9 km südlich von Koblenz.",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Verbandsgemeinde Rhein-Mosel, zu der Rhens gehört?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. In der Verbandsgemeinde Rhein-Mosel gingen 86,9 Prozent der Wahlberechtigten wählen. Wer von Wahlmüdigkeit liest, tippt eher tiefer. Bei der Bundestagswahl 2025 gingen aber auffallend viele Menschen wählen. Stärkste Kraft wurde dort die CDU. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Angabe für die Verbandsgemeinde Rhein-Mosel",
-"faktencheck": "bestätigt",
-"id": "59-rhens/v0.8/4",
 "tisch": false
 },
 {
@@ -39725,26 +39045,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Niederheimbach",
-"steckbrief": "Niederheimbach ist ein Dorf mit rund 800 Einwohnern, 32 km westlich von Wiesbaden.",
-"frage": "Bundestagswahl 2025: Wie hoch war die Wahlbeteiligung in der Verbandsgemeinde Rhein-Nahe, zu der Niederheimbach gehört?",
-"optionen": [
-"unter 82 %",
-"82 bis unter 88 %",
-"88 bis unter 92 %",
-"92 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ländliche Gemeinden im engen Rheintal hält man leicht für wahlmüde. In der Verbandsgemeinde Rhein-Nahe gaben bei der Bundestagswahl 2025 aber 86,2 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "142-niederheimbach/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Niederheimbach",
@@ -40425,26 +39725,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/",
 "faktencheck": "bestätigt",
 "id": "60-ingelheim/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Ingelheim",
-"steckbrief": "Ingelheim, rund 35.000 Einwohner, liegt 16 km westlich von Mainz.",
-"frage": "Wie hoch war die Wahlbeteiligung in Ingelheim bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 87 %",
-"87 bis unter 92 %",
-"92 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Viele schätzen niedriger, weil Wahlbeteiligungen oft enttäuschen. Ingelheim lag aber hoch: 85,4 Prozent der Wahlberechtigten gaben ihre Stimme ab. Bei den Zweitstimmen siegte die CDU vor SPD und Grünen. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "60-ingelheim/v0.8/4",
 "tisch": false
 },
 {
@@ -41553,26 +40833,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Oppenheim",
-"steckbrief": "Rund 7.200 Einwohner, 15 km südlich von Mainz.",
-"frage": "Wie hoch war die Wahlbeteiligung in Oppenheim bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 Prozent",
-"70 bis unter 78 Prozent",
-"78 bis unter 86 Prozent",
-"86 Prozent und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Viele schätzen niedriger, weil sie bei Wahlen müde Wähler erwarten. Doch in Oppenheim gingen 83,5 Prozent der Wahlberechtigten wählen. Bei den Zweitstimmen lag die CDU vorn, vor SPD und Grünen. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "62-oppenheim/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Oppenheim",
@@ -41789,26 +41049,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.guntersblum.eu/geschichte/",
 "faktencheck": "bestätigt",
 "id": "144-guntersblum/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Guntersblum",
-"steckbrief": "Rund 3.900 Einwohner, 21 km südlich von Mainz.",
-"frage": "Wie hoch war die Wahlbeteiligung in Guntersblum bei der Bundestagswahl 2025?",
-"optionen": [
-"85 bis unter 90 %",
-"90 % und mehr",
-"80 bis unter 85 %",
-"unter 80 %"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Eine so hohe Beteiligung klingt nach Ausnahme, deshalb tippen viele tiefer. Tatsächlich gaben bei der Bundestagswahl 2025 in Guntersblum 86,6 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "144-guntersblum/v0.8/4",
 "tisch": false
 },
 {
@@ -43753,26 +42993,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Ludwigsburg",
-"steckbrief": "Stadt mit rund 93.000 Einwohnern, 13 km nördlich von Stuttgart.",
-"frage": "Wie hoch war die Wahlbeteiligung in Ludwigsburg bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 72 %",
-"72 bis unter 77 %",
-"77 bis unter 81 %",
-"81 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. In Städten gehen oft weniger Menschen wählen als auf dem Land, daher liegt eine niedrigere Spanne nahe. In Ludwigsburg lag die Wahlbeteiligung bei der Bundestagswahl 2025 aber bei 82,3 Prozent. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "98-ludwigsburg/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Ludwigsburg",
@@ -45013,26 +44233,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Heimsheim",
-"steckbrief": "Stadt im Enzkreis mit rund 5.500 Einwohnern, 15 km südöstlich von Pforzheim.",
-"frage": "Wie hoch war die Wahlbeteiligung in Heimsheim bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 85 %",
-"85 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Wahl 2025 brachte bundesweit eine hohe Beteiligung, da liegt ein noch höherer Tipp nahe. In Heimsheim gaben 83,7 Prozent ihre Stimme ab, knapp unter 85. Stärkste Partei wurde die CDU. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "270-heimsheim/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Heimsheim",
@@ -45717,26 +44917,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Sindelfingen",
-"steckbrief": "Stadt mit rund 61.000 Einwohnern, 15 km südwestlich von Stuttgart.",
-"frage": "Wie hoch war die Wahlbeteiligung in Sindelfingen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 77 %",
-"77 bis unter 82 %",
-"82 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 mobilisierte stark, daher liegt ein Wert über 82 Prozent nahe. In Sindelfingen lag die Wahlbeteiligung bei 80,2 Prozent. Stärkste Kraft wurde die CDU, zweitstärkste die AfD. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025",
-"faktencheck": "bestätigt",
-"id": "272-sindelfingen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Sindelfingen",
@@ -46203,26 +45383,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Stuttgart; Stuttgarter Zeitung (Killesberg)",
 "faktencheck": "korrigiert",
 "id": "101-stuttgart/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Stuttgart",
-"steckbrief": "Stuttgart ist Landeshauptstadt von Baden-Württemberg, hat rund 609.000 Einwohner und liegt am Neckar.",
-"frage": "Wie hoch war in Stuttgart die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 83 %",
-"83 bis unter 85 %",
-"85 bis unter 87 %",
-"87 % oder mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Spanne darüber liegt nahe, denn die Beteiligung war bei dieser Wahl vielerorts hoch. In Stuttgart gaben 82,9 Prozent der Wahlberechtigten ihre Stimme ab, knapp unter der Grenze von 83 Prozent. Stärkste Partei wurde die CDU vor den Grünen. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "101-stuttgart/v0.8/4",
 "tisch": false
 },
 {
@@ -47147,26 +46307,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Wendlingen am Neckar",
-"steckbrief": "Stadt mit rund 16.000 Einwohnern im Landkreis Esslingen, 19 km südöstlich von Stuttgart.",
-"frage": "Wie hoch war in Wendlingen am Neckar die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 84 %",
-"84 bis unter 86 %",
-"86 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Im Umland großer Städte gehen oft viele Menschen wählen, daher tippen viele hoch. In Wendlingen am Neckar lag die Wahlbeteiligung bei der Bundestagswahl 2025 bei 83,5 Prozent. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "276-wendlingen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Wendlingen am Neckar",
@@ -47596,26 +46736,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Kirchheim unter Teck",
-"steckbrief": "Kirchheim unter Teck hat rund 42.000 Einwohner und liegt 25 km südöstlich von Stuttgart.",
-"frage": "Wie hoch war die Wahlbeteiligung in Kirchheim unter Teck bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 76 %",
-"76 bis unter 84 %",
-"84 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an eher mäßige Beteiligung in Städten denkt, tippt zu niedrig. Bei der Bundestagswahl 2025 gaben in Kirchheim unter Teck 82,1 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "104-kirchheim-teck/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Kirchheim unter Teck",
@@ -47816,26 +46936,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.aichelberg.de/seite/734011/geschichte.html",
 "faktencheck": "unsicher",
 "id": "277-aichelberg/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Aichelberg",
-"steckbrief": "Aichelberg ist eine Gemeinde mit rund 1.300 Einwohnern, 31 km nordöstlich von Reutlingen.",
-"frage": "Wie hoch war die Wahlbeteiligung in Aichelberg bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 88 %",
-"88 bis unter 92 %",
-"92 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Eine höhere Beteiligung liegt nahe, wenn man an ein eng verbundenes Dorf denkt. Bei der Bundestagswahl 2025 gingen in Aichelberg 86,8 Prozent zur Wahl. Stärkste Partei wurde die CDU vor der AfD. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "277-aichelberg/v0.8/4",
 "tisch": false
 },
 {
@@ -49303,26 +48403,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Gingen an der Fils",
-"steckbrief": "Gingen an der Fils: Gemeinde mit rund 4.400 Einwohnern, 33 km nordwestlich von Ulm.",
-"frage": "Wie hoch war in Gingen die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Spanne in der Mitte wirkt oft am sichersten. In Gingen gingen bei der Bundestagswahl 2025 aber 86,1 Prozent der Wahlberechtigten zur Wahl. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "282-gingen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Gingen an der Fils",
@@ -50043,26 +49123,6 @@ window.QA_DATEN = {
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Mühlhausen im Täle",
-"steckbrief": "Gemeinde im Landkreis Göppingen mit rund 1.100 Einwohnern, 32 km nordwestlich von Ulm.",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in Mühlhausen im Täle?",
-"optionen": [
-"85 % und mehr",
-"80 bis unter 85 %",
-"75 bis unter 80 %",
-"unter 75 %"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Eine tiefere Spanne liegt nahe, denn bundesweit gingen anteilig weniger Menschen wählen. In Mühlhausen im Täle lag die Wahlbeteiligung aber bei 86,2 Prozent. Stärkste Partei wurde die CDU vor der AfD. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "285-muehlhausen-taele/v0.8/4",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Mühlhausen im Täle",
 "steckbrief": "Gemeinde mit rund 1.100 Einwohnern, 32 km nordwestlich von Ulm.",
 "frage": "Wie weit ist es in Luftlinie von Mühlhausen im Täle bis Stuttgart?",
 "optionen": [
@@ -50702,26 +49762,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.amstetten.de/geschichte.html",
 "faktencheck": "bestätigt",
 "id": "286-amstetten/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Amstetten",
-"steckbrief": "Gemeinde mit rund 4.200 Einwohnern, 22 km nordwestlich von Ulm.",
-"frage": "Wie hoch war in Amstetten die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 86 %",
-"86 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. In kleinen Gemeinden wird oft besonders fleißig gewählt, darum liegt eine höhere Spanne nahe. Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Amstetten bei 84 Prozent. Stärkste Partei wurde die CDU vor der AfD. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025",
-"faktencheck": "bestätigt",
-"id": "286-amstetten/v0.8/4",
 "tisch": false
 },
 {
@@ -52624,26 +51664,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Jettingen-Scheppach",
-"steckbrief": "Markt mit rund 7.000 Einwohnern in Bayern, 33 km östlich von Ulm.",
-"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in Jettingen-Scheppach?",
-"optionen": [
-"unter 85 %",
-"85 bis unter 88 %",
-"88 bis unter 91 %",
-"91 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 mobilisierte bundesweit stark, deshalb liegt ein Tipp über 85 Prozent nahe. In Jettingen-Scheppach gingen 83,9 Prozent der Wahlberechtigten wählen – viel, aber knapp unter dieser Marke. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "291-jettingen-scheppach/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Jettingen-Scheppach",
@@ -53303,26 +52323,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Adelsried",
-"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 14 km westlich von Augsburg.",
-"frage": "Wie hoch war die Wahlbeteiligung in Adelsried bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 88 %",
-"88 bis unter 92 %",
-"92 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Kleinen Dörfern traut man oft eine besonders hohe Beteiligung zu. Ganz so hoch lag Adelsried nicht: Die Wahlbeteiligung betrug 87,4 Prozent, knapp unter der nächsten Spanne. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "294-adelsried/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Adelsried",
@@ -53937,26 +52937,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, gersthofen.de/stadt/unsere-stadt/stadtportrait/",
 "faktencheck": "korrigiert",
 "id": "297-gersthofen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Gersthofen",
-"steckbrief": "Gersthofen ist eine Stadt mit rund 23.400 Einwohnern, 6 km nordwestlich von Augsburg.",
-"frage": "Wie hoch war in Gersthofen die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 78 %",
-"78 bis unter 84 %",
-"84 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer bei einer Stadt am Rand einer Großstadt an wenig Wahlinteresse denkt, tippt zu niedrig. Bei der Bundestagswahl 2025 gaben in Gersthofen 81,7 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Kraft wurde die CSU. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "297-gersthofen/v0.8/4",
 "tisch": false
 },
 {
@@ -55495,26 +54475,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Odelzhausen",
-"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 22 km östlich von Augsburg.",
-"frage": "Wie hoch war die Wahlbeteiligung in Odelzhausen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 85 %",
-"85 bis unter 88 %",
-"88 bis unter 91 %",
-"91 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Im ländlichen Umland zweier Großstädte könnte man eine besonders hohe Beteiligung erwarten. Tatsächlich gingen in Odelzhausen 83,6 Prozent der Wahlberechtigten zur Wahl. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "113-odelzhausen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Odelzhausen",
@@ -56004,26 +54964,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.mammendorf.de/chronik-mammendorf; www.mammendorf.de/wappen-und-fahne-mammendorf",
 "faktencheck": "korrigiert",
 "id": "304-mammendorf/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Mammendorf",
-"steckbrief": "Gemeinde im Landkreis Fürstenfeldbruck mit rund 5.100 Einwohnern, 27 km südöstlich von Augsburg.",
-"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in Mammendorf?",
-"optionen": [
-"unter 84 %",
-"84 bis unter 89 %",
-"89 bis unter 93 %",
-"93 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an Wahlmüdigkeit denkt, schätzt leicht zu niedrig. Bei der Bundestagswahl 2025 gingen in Mammendorf 87,6 Prozent der Wahlberechtigten wählen; stärkste Kraft wurde die CSU. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "304-mammendorf/v0.8/4",
 "tisch": false
 },
 {
@@ -57488,26 +56428,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Karlsfeld",
-"steckbrief": "Die Gemeinde mit rund 21.400 Einwohnern liegt 13 km nordwestlich von München.",
-"frage": "Wie hoch war die Wahlbeteiligung in Karlsfeld bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 72 %",
-"72 bis unter 77 %",
-"77 bis unter 81 %",
-"81 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Vororte mit vielen Zugezogenen gelten oft als wahlmüde, daher liegen niedrigere Spannen nahe. In Karlsfeld gaben bei der Bundestagswahl 2025 aber 82,9 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "korrigiert",
-"id": "309-karlsfeld/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Klassiker",
 "ort": "Karlsfeld",
@@ -58092,26 +57012,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Immendingen",
-"steckbrief": "Immendingen ist eine Gemeinde im Landkreis Tuttlingen mit rund 6.600 Einwohnern, 66 km östlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war die Wahlbeteiligung in Immendingen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 85 %",
-"85 bis unter 88 %",
-"88 bis unter 91 %",
-"91 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Wahl war stark umkämpft, da liegt eine noch höhere Beteiligung nahe. In Immendingen gaben 82,2 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Partei wurde die CDU vor der AfD. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "311-immendingen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Immendingen",
@@ -58329,26 +57229,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.engen.de/leben+in+engen/unsere+stadt/geschichte und www.engen.de/leben+in+engen/unsere+stadt/stadtteile",
 "faktencheck": "korrigiert",
 "id": "116-engen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Engen",
-"steckbrief": "Engen hat gut 11.000 Einwohner und liegt 70 km östlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war in Engen die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 76 %",
-"76 bis unter 83 %",
-"83 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an niedrige Beteiligung bei früheren Wahlen denkt, tippt leicht zu tief. Doch die vorgezogene Bundestagswahl 2025 mobilisierte viele Wählerinnen und Wähler, auch in Engen: die Wahlbeteiligung lag bei 82,2 Prozent. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "116-engen/v0.8/4",
 "tisch": false
 },
 {
@@ -58774,26 +57654,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.radolfzell.de/stadtgeschichte",
 "faktencheck": "korrigiert",
 "id": "312-radolfzell/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Radolfzell am Bodensee",
-"steckbrief": "Stadt mit rund 32.000 Einwohnern, 86 km südlich von Reutlingen.",
-"frage": "Wie hoch war die Wahlbeteiligung in Radolfzell bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 85 %",
-"85 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. In Städten gehen oft weniger Menschen wählen als auf dem Land, darum tippen viele niedriger. In Radolfzell gaben bei der Bundestagswahl 2025 aber 83,4 Prozent (Stand 23.02.2025) ihre Stimme ab. Stärkste Kraft wurde die CDU, vor den Grünen. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "312-radolfzell/v0.8/4",
 "tisch": false
 },
 {
@@ -59766,26 +58626,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Meersburg",
-"steckbrief": "Kleine Stadt mit rund 6.000 Einwohnern, 89 km südlich von Reutlingen.",
-"frage": "Wie hoch war die Wahlbeteiligung in Meersburg bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 75 %",
-"75 bis unter 80 %",
-"80 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei Bundestagswahlen gehen längst nicht alle zur Urne, deshalb tippen viele auf eine mittlere Spanne. In Meersburg lag die Beteiligung aber bei 81,7 Prozent. Stärkste Partei bei den Zweitstimmen wurde die CDU. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "120-meersburg/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Meersburg",
@@ -60659,26 +59499,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-kabelhaengebruecke/ und www.kressbronn.de/tourismus/sehen-erleben/sehenswertes-im-ort/historische-hofanlage-milz/",
 "faktencheck": "korrigiert",
 "id": "317-kressbronn/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Kressbronn am Bodensee",
-"steckbrief": "Bodensee-Gemeinde mit rund 8.800 Einwohnern, 94 km südlich von Ulm.",
-"frage": "Wie hoch war in Kressbronn die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 88 %",
-"88 bis unter 91 %",
-"91 bis unter 94 %",
-"94 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Beteiligung war 2025 bundesweit hoch; wer am Bodensee Spitzenwerte erwartet, tippt leicht zu hoch. In Kressbronn gaben 87,5 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "317-kressbronn/v0.8/4",
 "tisch": false
 },
 {
@@ -61927,26 +60747,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Wangen im Allgäu",
-"steckbrief": "Stadt im württembergischen Allgäu mit rund 29.000 Einwohnern, 80 km südlich von Ulm.",
-"frage": "Wie hoch war die Wahlbeteiligung in Wangen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 85 %",
-"85 bis unter 88 %",
-"88 bis unter 91 %",
-"91 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Die Spanne darüber liegt nahe, denn 2025 war die Beteiligung bundesweit so hoch wie lange nicht. In Wangen lag sie bei 84,2 Prozent, also knapp unter der Grenze von 85 Prozent. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "123-wangen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Wangen im Allgäu",
@@ -63111,26 +61911,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bad Wörishofen",
-"steckbrief": "Die Stadt hat rund 17.000 Einwohner und liegt 46 km südwestlich von Augsburg.",
-"frage": "Wie hoch war die Wahlbeteiligung in Bad Wörishofen bei der Bundestagswahl 2025?",
-"optionen": [
-"80 % oder mehr",
-"76 bis unter 80 %",
-"72 bis unter 76 %",
-"unter 72 %"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ein beschaulicher Kurort klingt nicht nach politischem Eifer, deshalb schätzen viele niedriger. Doch bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Bad Wörishofen bei 80,8 Prozent – mehr als vier von fünf Wahlberechtigten gaben ihre Stimme ab. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "325-bad-woerishofen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bad Wörishofen",
@@ -63750,26 +62530,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.landsberg.de/kultur/stadtgeschichte/landsberg-und-der-lech/",
 "faktencheck": "bestätigt",
 "id": "126-landsberg/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Landsberg am Lech",
-"steckbrief": "Stadt am Lech mit rund 29.000 Einwohnern, 36 km südlich von Augsburg.",
-"frage": "Wie hoch war die Wahlbeteiligung in Landsberg am Lech bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 85 %",
-"85 bis unter 90 %",
-"90 % oder mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an frühere Wahlen denkt, schätzt oft tiefer. In Landsberg am Lech lag die Wahlbeteiligung bei 83,8 Prozent. Bei den Zweitstimmen lag die CSU vorn, dahinter die Grünen. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "126-landsberg/v0.8/4",
 "tisch": false
 },
 {
@@ -65180,26 +63940,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Neufahrn bei Freising",
-"steckbrief": "Gemeinde mit rund 21.000 Einwohnern im Münchner Umland, 21 km nördlich von München.",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Gemeinde Neufahrn?",
-"optionen": [
-"unter 78 %",
-"78 bis unter 84 %",
-"84 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Wahl 2025 mobilisierte stark, und im Münchner Umland vermutet man oft besonders eifrige Wähler. In Neufahrn lag die Wahlbeteiligung bei 82,9 Prozent. Stärkste Kraft wurde die CSU, dahinter folgte die AfD. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "128-neufahrn/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Klassiker",
 "ort": "Neufahrn bei Freising",
@@ -65778,26 +64518,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Moosburg an der Isar",
-"steckbrief": "Stadt mit rund 20.000 Einwohnern, 45 km nordöstlich von München.",
-"frage": "Wie hoch war in Moosburg die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 72 %",
-"72 bis unter 80 %",
-"80 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer an die oft beklagte Wahlmüdigkeit denkt, schätzt niedriger. Doch die Bundestagswahl 2025 mobilisierte stark: In Moosburg gaben 84,2 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "131-moosburg/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Moosburg an der Isar",
@@ -66307,26 +65027,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.wuerzburg.de/themen/bauen-planen/stadtplanung/stadtentwicklung/stadtteilkonzepte/isek-rottenbauer1; www.wuerzburg.de/themen/umwelt-klima/abfall-und-stadtreinigung/wir-ueber-uns",
 "faktencheck": "korrigiert",
 "id": "146-wuerzburg/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Würzburg",
-"steckbrief": "Würzburg ist eine Universitätsstadt am Main mit rund 134.000 Einwohnern, etwa 220 km Luftlinie von München.",
-"frage": "Wie hoch war in Würzburg die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 75 %",
-"75 bis unter 80 %",
-"80 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. In Universitätsstädten mit vielen jungen Menschen erwartet man oft eine eher schwache Beteiligung. In Würzburg gaben bei der Bundestagswahl 2025 aber 83,7 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "146-wuerzburg/v0.8/4",
 "tisch": false
 },
 {
@@ -66988,26 +65688,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Zellingen",
-"steckbrief": "Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.",
-"frage": "Wie hoch war die Wahlbeteiligung in Zellingen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 86 %",
-"86 bis unter 88 %",
-"88 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Auf dem Land in Bayern gehen viele wählen, darum liegt eine noch höhere Beteiligung nahe. In Zellingen lag sie bei der Bundestagswahl 2025 bei 85,3 Prozent. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "149-zellingen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Zellingen",
@@ -67654,26 +66334,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.stadt-gemuenden.de/geschichte/",
 "faktencheck": "korrigiert",
 "id": "152-gemuenden/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Gemünden am Main",
-"steckbrief": "Kleinstadt mit rund 10.000 Einwohnern, 33 km nordwestlich von Würzburg.",
-"frage": "Wie hoch war die Wahlbeteiligung in Gemünden bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 78 %",
-"78 bis unter 84 %",
-"84 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 lockte bundesweit viele an die Urnen, da liegt ein sehr hoher Wert nahe. In Gemünden wählten 83 Prozent. Bei den Zweitstimmen lag die CSU klar vorn, die AfD wurde Zweite. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "152-gemuenden/v0.8/4",
 "tisch": false
 },
 {
@@ -68985,26 +67645,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Goldbach",
-"steckbrief": "Markt im Landkreis Aschaffenburg mit rund 9.800 Einwohnern, 32 km östlich von Offenbach am Main.",
-"frage": "Wie hoch war die Wahlbeteiligung in Goldbach bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Viele schätzen tiefer, weil so hohe Beteiligungen selten sind. In Goldbach gingen bei der Bundestagswahl 2025 aber 86,6 Prozent der Wahlberechtigten wählen. Stärkste Kraft wurde die CSU. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "158-goldbach/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Goldbach",
@@ -69637,26 +68277,6 @@ window.QA_DATEN = {
 "quelle": "HLNUG, badeseen.hlnug.de; Gemeinde Großkrotzenburg, grosskrotzenburg.de",
 "faktencheck": "korrigiert",
 "id": "161-grosskrotzenburg/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Großkrotzenburg",
-"steckbrief": "Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main.",
-"frage": "Wie hoch war die Wahlbeteiligung in Großkrotzenburg bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 86 %",
-"86 bis unter 88 %",
-"88 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Gemeinden im Umland großer Städte gehen oft besonders fleißig wählen, darum liegt eine höhere Spanne nahe. Großkrotzenburg kam auf 85,6 Prozent. Stärkste Partei wurde die CDU vor SPD und AfD. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "161-grosskrotzenburg/v0.8/4",
 "tisch": false
 },
 {
@@ -70964,26 +69584,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Marktheidenfeld",
-"steckbrief": "Stadt im Landkreis Main-Spessart mit rund 11.300 Einwohnern, 26 km westlich von Würzburg.",
-"frage": "Wie hoch war die Wahlbeteiligung in Marktheidenfeld bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 78 %",
-"78 bis unter 86 %",
-"86 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer Kleinstädte für wahlmüde hält, tippt zu niedrig. Bei der Bundestagswahl 2025 beteiligten sich in Marktheidenfeld 82,8 Prozent der Wahlberechtigten; stärkste Partei wurde die CSU. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "167-marktheidenfeld/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Marktheidenfeld",
@@ -71623,26 +70223,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.ich-geh-wandern.de/stockstadt-am-main",
 "faktencheck": "korrigiert",
 "id": "170-stockstadt/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Stockstadt am Main",
-"steckbrief": "Marktgemeinde mit rund 7.900 Einwohnern, 25 km südöstlich von Offenbach am Main.",
-"frage": "Wie hoch war in Stockstadt am Main die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 76 %",
-"76 bis unter 82 %",
-"82 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wahlbeteiligungen schätzt man leicht zu niedrig, zumal in Orten nahe einer Großstadt. Doch bei der Bundestagswahl 2025 gingen in Stockstadt 84,5 Prozent der Wahlberechtigten wählen. Stärkste Kraft wurde die CSU vor der AfD. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "170-stockstadt/v0.8/4",
 "tisch": false
 },
 {
@@ -72357,26 +70937,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Kelsterbach",
-"steckbrief": "Stadt mit rund 17.000 Einwohnern, 12 km südwestlich von Frankfurt am Main.",
-"frage": "Wie hoch war die Wahlbeteiligung in Kelsterbach bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 83 %",
-"83 bis unter 86 %",
-"86 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 war das Interesse groß, da liegt eine hohe Spanne nahe. In Kelsterbach gingen 79,4 Prozent der Wahlberechtigten zur Wahl, knapp unter achtzig. Stärkste Partei wurde die CDU vor der SPD. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "173-kelsterbach/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Kelsterbach",
@@ -73040,26 +71600,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Idstein",
-"steckbrief": "Stadt mit rund 26.000 Einwohnern, 15 km nördlich von Wiesbaden.",
-"frage": "Wie hoch war die Wahlbeteiligung in Idstein bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 78 %",
-"78 bis unter 87 %",
-"87 bis unter 91 %",
-"91 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Wahl 2025 brachte bundesweit eine hohe Beteiligung, da liegt die dritte Spanne nahe. In Idstein gaben 86,1 Prozent der Wahlberechtigten ihre Stimme ab, knapp unter dieser Grenze. Stärkste Kraft wurde die CDU. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "176-idstein/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Idstein",
@@ -73685,26 +72225,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/",
 "faktencheck": "bestätigt",
 "id": "179-elz/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Elz",
-"steckbrief": "Gemeinde mit rund 8.100 Einwohnern, 33 km östlich von Koblenz.",
-"frage": "Wie hoch war die Wahlbeteiligung in Elz bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 78 %",
-"78 bis unter 86 %",
-"86 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer an sinkende Wahlbeteiligung in vielen Jahren denkt, schätzt eher niedrig. Bei der Bundestagswahl 2025 gingen in Elz aber 82,6 Prozent der Wahlberechtigten zur Wahl; stärkste Kraft wurde die CDU. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "179-elz/v0.8/4",
 "tisch": false
 },
 {
@@ -74360,26 +72880,6 @@ window.QA_DATEN = {
 "quelle": "Landesportal, www.regionalgeschichte.net/westerwald/heiligenroth.html",
 "faktencheck": "korrigiert",
 "id": "182-heiligenroth/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Heiligenroth",
-"steckbrief": "Heiligenroth hat rund 1.500 Einwohner und liegt 23 km nordöstlich von Koblenz.",
-"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in der Verbandsgemeinde Montabaur, zu der Heiligenroth gehört?",
-"optionen": [
-"unter 72 %",
-"72 bis unter 78 %",
-"78 bis unter 82 %",
-"82 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine niedrigere Spanne liegt nahe, denn auf dem Land vermutet man oft weniger Wahleifer als in Städten. Doch in der Verbandsgemeinde Montabaur gaben 84,9 Prozent der Wahlberechtigten ihre Stimme ab. Der Wert gilt für die ganze Verbandsgemeinde, nicht für Heiligenroth allein. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "182-heiligenroth/v0.8/4",
 "tisch": false
 },
 {
@@ -75047,26 +73547,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.bad-breisig.de/tourismus/freizeit/sehenswertes/stadtrundgang/",
 "faktencheck": "korrigiert",
 "id": "185-bad-breisig/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bad Breisig",
-"steckbrief": "Bad Breisig hat rund 9.700 Einwohner und liegt 26 km nordwestlich von Koblenz.",
-"frage": "Bundestagswahl 2025, Verbandsgemeinde Bad Breisig: Wie hoch war dort die Wahlbeteiligung?",
-"optionen": [
-"unter 81 %",
-"81 bis unter 83 %",
-"83 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Gemeinden im Umland großer Städte wählen oft eifriger als der Schnitt, darum liegt ein hoher Wert nahe. In der Verbandsgemeinde Bad Breisig gaben 80,2 Prozent der Wahlberechtigten ihre Stimme ab; stärkste Partei wurde die CDU. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "185-bad-breisig/v0.8/4",
 "tisch": false
 },
 {
@@ -75946,26 +74426,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bonn",
-"steckbrief": "Bonn ist eine Großstadt am Rhein mit rund 324.000 Einwohnern, 59 km Luftlinie von Düsseldorf.",
-"frage": "Wie hoch war die Wahlbeteiligung in Bonn bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 80 %",
-"80 bis unter 86 %",
-"86 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. In Großstädten vermutet man oft eine eher maue Beteiligung. In Bonn gingen bei der Bundestagswahl 2025 aber 84,9 Prozent der Wahlberechtigten zur Wahl. Bei den Zweitstimmen lag die CDU vorn, die Grünen wurden Zweite. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "188-bonn/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bonn",
@@ -76552,26 +75012,6 @@ window.QA_DATEN = {
 "quelle": "KuLaDig (LVR), Stadt Hürth",
 "faktencheck": "korrigiert",
 "id": "191-huerth/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Hürth",
-"steckbrief": "Stadt mit rund 62.000 Einwohnern, 8 km südwestlich von Köln.",
-"frage": "Wie hoch war die Wahlbeteiligung in Hürth bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 80 %",
-"80 bis unter 87 %",
-"87 % oder mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Viele unterschätzen, wie viele Menschen zur Bundestagswahl gehen, weil Kommunal- und Europawahlen oft schwächer besucht sind. In Hürth gingen 2025 84,1 Prozent der Wahlberechtigten wählen. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "191-huerth/v0.8/4",
 "tisch": false
 },
 {
@@ -77228,26 +75668,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
 "faktencheck": "korrigiert",
 "id": "194-langenfeld/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Langenfeld",
-"steckbrief": "Langenfeld hat rund 60.000 Einwohner und liegt 10 km nördlich von Leverkusen.",
-"frage": "Wie hoch war die Wahlbeteiligung in Langenfeld bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 77 %",
-"77 bis unter 83 %",
-"83 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Viele schätzen eine Wahlbeteiligung im Mittelfeld, weil Großstädte oft niedriger liegen. Langenfeld lag aber hoch: Bei der Bundestagswahl 2025 gingen 85,2 Prozent der Wahlberechtigten zur Wahl. Stärkste Partei wurde die CDU. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "194-langenfeld/v0.8/4",
 "tisch": false
 },
 {
@@ -79345,26 +77765,6 @@ window.QA_DATEN = {
 "sorte": "Klassiker",
 "ort": "Kamen",
 "steckbrief": "Stadt mit rund 42.000 Einwohnern, 15 km südwestlich von Hamm.",
-"frage": "Wie hoch war die Wahlbeteiligung in Kamen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 78 %",
-"78 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Im Ruhrgebiet erwartet man oft eine maue Wahlbeteiligung, vor allem in früheren Bergbaustädten. In Kamen gingen bei der Bundestagswahl 2025 aber 82,4 Prozent der Wahlberechtigten zur Wahl. Stärkste Kraft wurde knapp die SPD vor der CDU. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "203-kamen/v0.8/4",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Kamen",
-"steckbrief": "Stadt mit rund 42.000 Einwohnern, 15 km südwestlich von Hamm.",
 "frage": "Wie viele Einwohner kommen in Kamen durchschnittlich auf einen Quadratkilometer?",
 "optionen": [
 "unter 1.200",
@@ -79931,26 +78331,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.oelde.de/de/oelde-erleben/stadtportrait/stromberg/",
 "faktencheck": "bestätigt",
 "id": "206-oelde/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Oelde",
-"steckbrief": "Oelde hat rund 30.000 Einwohner und liegt im Münsterland, 18 km südwestlich von Gütersloh.",
-"frage": "Wie hoch war die Wahlbeteiligung in Oelde bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 78 %",
-"78 bis unter 84 %",
-"84 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine mittlere Spanne liegt nahe, denn auf dem Land vermutet man oft weniger Wahleifer als in der Großstadt. Doch in Oelde gingen 86 Prozent der Wahlberechtigten zur Wahl. Stärkste Kraft wurde die CDU. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "206-oelde/v0.8/4",
 "tisch": false
 },
 {
@@ -80532,26 +78912,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bielefeld",
-"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 331.000 Einwohnern, etwa 150 km Luftlinie von Düsseldorf.",
-"frage": "Wie hoch war die Wahlbeteiligung in Bielefeld bei der Bundestagswahl 2025?",
-"optionen": [
-"80 % oder mehr",
-"75 bis unter 80 %",
-"70 bis unter 75 %",
-"unter 70 %"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Großstädte gelten oft als wahlmüder, deshalb liegt ein niedrigerer Wert nahe. In Bielefeld lag bei der Bundestagswahl 2025 die Wahlbeteiligung aber bei 81,8 Prozent. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "209-bielefeld/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bielefeld",
@@ -81094,26 +79454,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.badoeynhausen.de/freizeit-kultur-sport/kultur/staedtische-museen/museumshof und …/deutsches-maerchen-und-wesersagenmuseum",
 "faktencheck": "korrigiert",
 "id": "212-bad-oeynhausen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bad Oeynhausen",
-"steckbrief": "Stadt mit rund 50.500 Einwohnern, 26 km nordöstlich von Bielefeld.",
-"frage": "Wie hoch war die Wahlbeteiligung in Bad Oeynhausen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 76 %",
-"76 bis unter 80 %",
-"80 bis unter 84 %",
-"84 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 gingen bundesweit auffallend viele Menschen wählen, darum liegt eine Spanne über 80 Prozent nahe. In Bad Oeynhausen gaben 79,2 Prozent der Wahlberechtigten ihre Stimme ab, knapp darunter. Stärkste Partei wurde die CDU vor SPD und AfD. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "212-bad-oeynhausen/v0.8/4",
 "tisch": false
 },
 {
@@ -81740,26 +80080,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bückeburg",
-"steckbrief": "Residenzstadt im Landkreis Schaumburg, rund 19.000 Einwohner, 43 km nordöstlich von Bielefeld.",
-"frage": "Wie hoch war die Wahlbeteiligung in Bückeburg bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Werte nahe der Spitze wirken unwahrscheinlich, deshalb tippen viele vorsichtiger. In Bückeburg gingen bei der Bundestagswahl 2025 aber 83,8 Prozent der Wahlberechtigten wählen. Stärkste Partei wurde die CDU vor der SPD. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "215-bueckeburg/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bückeburg",
@@ -82331,26 +80651,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Wunstorf",
-"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km westlich von Hannover.",
-"frage": "Wie hoch war die Wahlbeteiligung in Wunstorf bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 72 %",
-"72 bis unter 78 %",
-"78 bis unter 84 %",
-"84 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer an frühere, schwächere Wahlen denkt, schätzt niedriger. Bei der Bundestagswahl 2025 gaben in Wunstorf aber 85,3 Prozent der Wahlberechtigten ihre Stimme ab. Die meisten Zweitstimmen holte die CDU, vor der SPD. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "218-wunstorf/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Klassiker",
 "ort": "Wunstorf",
@@ -82913,26 +81213,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Lehrte",
-"steckbrief": "Stadt mit rund 44.000 Einwohnern, 17 km östlich von Hannover.",
-"frage": "Wie hoch war in Lehrte die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"82 % und mehr",
-"78 bis unter 82 %",
-"74 bis unter 78 %",
-"unter 74 %"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer an sinkende Wahlbeteiligung denkt, tippt eher niedrig. Doch bei der Bundestagswahl 2025 gaben in Lehrte 84,1 Prozent der Wahlberechtigten ihre Stimme ab (Stand 23.02.2025). Stärkste Kraft bei den Zweitstimmen wurde die CDU. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "221-lehrte/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Lehrte",
@@ -83481,26 +81761,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Oebisfelde-Weferlingen",
 "faktencheck": "bestätigt",
 "id": "224-oebisfelde/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Oebisfelde-Weferlingen",
-"steckbrief": "Stadt mit rund 13.000 Einwohnern, 14 km östlich von Wolfsburg.",
-"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in Oebisfelde-Weferlingen?",
-"optionen": [
-"unter 78 %",
-"78 bis unter 84 %",
-"84 bis unter 88 %",
-"88 % oder mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an niedrige Beteiligung im Osten denkt, liegt daneben: 81,6 Prozent der Wahlberechtigten gingen zur Wahl. Stärkste Kraft wurde die AfD vor der CDU. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "224-oebisfelde/v0.8/4",
 "tisch": false
 },
 {
@@ -84751,26 +83011,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Löhnberg",
-"steckbrief": "Hessische Gemeinde mit rund 4.700 Einwohnern, 43 km südöstlich von Siegen.",
-"frage": "Wie hoch war in Löhnberg die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 75 %",
-"75 bis unter 80 %",
-"80 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Kleinen Gemeinden traut man oft eine eher mäßige Beteiligung zu. In Löhnberg gaben bei der Bundestagswahl 2025 aber 80,9 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "230-loehnberg/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Löhnberg",
@@ -86017,26 +84257,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Reiskirchen",
-"steckbrief": "Gemeinde mit rund 10.000 Einwohnern, 55 km nördlich von Frankfurt am Main.",
-"frage": "Wie hoch war die Wahlbeteiligung in Reiskirchen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 78 %",
-"78 bis unter 84 %",
-"84 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Wahl 2025 mobilisierte bundesweit stark, darum tippen viele noch höher. In Reiskirchen gingen 82,4 Prozent der Wahlberechtigten zur Urne. Bei den Zweitstimmen wurde die CDU stärkste Kraft, knapp vor der AfD. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "236-reiskirchen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Reiskirchen",
@@ -86664,26 +84884,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Alsfeld",
-"steckbrief": "Stadt mit rund 15.300 Einwohnern, 65 km südlich von Kassel.",
-"frage": "Wie hoch war die Wahlbeteiligung in Alsfeld bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 78 %",
-"78 bis unter 82 %",
-"82 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Auf dem Land vermuten viele eine eher geringe Wahlbeteiligung. In Alsfeld gaben bei der Bundestagswahl 2025 aber 80,5 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "239-alsfeld/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Alsfeld",
@@ -87250,26 +85450,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Hersfeld",
 "faktencheck": "korrigiert",
 "id": "242-bad-hersfeld/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bad Hersfeld",
-"steckbrief": "Kreisstadt mit rund 30.600 Einwohnern, 52 km südlich von Kassel.",
-"frage": "Wie hoch war in Bad Hersfeld die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 65 %",
-"65 bis unter 70 %",
-"70 bis unter 75 %",
-"75 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. In Städten gehen oft weniger Menschen wählen als auf dem Land, deshalb liegt eine niedrige Schätzung nahe. In Bad Hersfeld lag die Wahlbeteiligung aber bei 78,3 Prozent; vorn lag die CDU vor AfD und SPD. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "242-bad-hersfeld/v0.8/4",
 "tisch": false
 },
 {
@@ -87876,26 +86056,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.gerstungen.de/de/wappen.html",
 "faktencheck": "bestätigt",
 "id": "245-gerstungen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Gerstungen",
-"steckbrief": "Gemeinde mit rund 8.800 Einwohnern, 55 km südöstlich von Kassel.",
-"frage": "Wie hoch war die Wahlbeteiligung in Gerstungen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 84 %",
-"84 bis unter 87 %",
-"87 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 lag die Beteiligung vielerorts sehr hoch, das verleitet zu einem höheren Tipp. In Gerstungen gaben 82,5 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "245-gerstungen/v0.8/4",
 "tisch": false
 },
 {
@@ -88508,26 +86668,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Waltershausen",
-"steckbrief": "Waltershausen hat rund 13.000 Einwohner und liegt 35 km westlich von Erfurt.",
-"frage": "Wie hoch war die Wahlbeteiligung in Waltershausen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an niedrige Wahlbeteiligung in Kleinstädten denkt, tippt tiefer. Doch bei der Bundestagswahl 2025 gaben in Waltershausen 78,9 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "248-waltershausen/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Waltershausen",
@@ -89077,26 +87217,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.weimar.de/kultur/sehenswuerdigkeiten/kirchen-und-friedhoefe/",
 "faktencheck": "korrigiert",
 "id": "251-weimar/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Weimar",
-"steckbrief": "Stadt in Thüringen mit rund 65.600 Einwohnern, 19 km westlich von Jena.",
-"frage": "Wie hoch war in Weimar die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 78 %",
-"78 bis unter 86 %",
-"86 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Im Osten lag die Beteiligung früher oft unter dem Bundesschnitt, deshalb wird gern niedriger geschätzt. Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Weimar aber bei 82,2 Prozent (Stand 23. Februar 2025). Stärkste Kraft wurde die AfD, knapp vor der Linken. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "251-weimar/v0.8/4",
 "tisch": false
 },
 {
@@ -90142,26 +88262,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bad Dürrenberg",
-"steckbrief": "Stadt im Saalekreis mit rund 11.500 Einwohnern, 22 km südlich von Halle (Saale).",
-"frage": "Wie hoch war die Wahlbeteiligung in Bad Dürrenberg bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 76 %",
-"76 bis unter 80 %",
-"80 bis unter 84 %",
-"84 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bundesweit war die Beteiligung 2025 hoch, das lockt zu den oberen Spannen. In Bad Dürrenberg gingen aber 75,1 Prozent der Wahlberechtigten zur Wahl. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "257-bad-duerrenberg/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bad Dürrenberg",
@@ -90730,26 +88830,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, verwaltung.dessau-rosslau.de/kultur-tourismus/museum-fuer-stadtgeschichte/dauerausstellung.html",
 "faktencheck": "bestätigt",
 "id": "260-dessau-rosslau/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Dessau-Roßlau",
-"steckbrief": "Stadt mit rund 75.000 Einwohnern, 43 km nordöstlich von Halle (Saale).",
-"frage": "Wie hoch war die Wahlbeteiligung in Dessau-Roßlau bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bundesweit war die Beteiligung 2025 hoch, da liegt ein höherer Wert nahe. In Dessau-Roßlau lag sie bei 76,3 Prozent. Stärkste Kraft wurde die AfD, vor CDU und SPD. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "260-dessau-rosslau/v0.8/4",
 "tisch": false
 },
 {
@@ -91330,26 +89410,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, beelitz.de/beelitz-und-seine-ortsteile/",
 "faktencheck": "korrigiert",
 "id": "263-beelitz/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Beelitz",
-"steckbrief": "Beelitz hat rund 14.100 Einwohner und liegt 20 km südlich von Potsdam.",
-"frage": "Wie hoch war die Wahlbeteiligung in Beelitz bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 82 %",
-"82 bis unter 88 %",
-"88 % oder mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Im Osten lag die Wahlbeteiligung lange unter der im Westen, deshalb tippen viele niedriger. In Beelitz lag sie bei der Bundestagswahl 2025 aber bei 85,7 Prozent. Stärkste Partei wurde die AfD vor der CDU. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "263-beelitz/v0.8/4",
 "tisch": false
 },
 {
@@ -92517,26 +90577,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Unkel",
-"steckbrief": "Stadt mit rund 5.000 Einwohnern, 17 km südöstlich von Bonn.",
-"frage": "Wie hoch war die Wahlbeteiligung in Unkel bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 80 %",
-"80 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Viele schätzen die Beteiligung niedriger, weil man von Wahlen eher sinkende Zahlen hört. In Unkel beteiligten sich bei der Bundestagswahl 2025 aber 86,8 Prozent der Wahlberechtigten. Stärkste Kraft wurde die CDU, vor SPD und Grünen. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "335-unkel/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Unkel",
@@ -93331,26 +91371,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Königswinter",
-"steckbrief": "Stadt mit rund 40.000 Einwohnern, 8 km südöstlich von Bonn.",
-"frage": "Wie hoch war die Wahlbeteiligung in Königswinter bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine mittlere Spanne wirkt sicher, weil kaum jemand mit so hohen Werten rechnet. In Königswinter lag die Wahlbeteiligung bei der Bundestagswahl 2025 aber bei 86,8 %. Stärkste Partei wurde die CDU, vor den Grünen. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "338-koenigswinter/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Königswinter",
@@ -94123,26 +92143,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, windhagen.de/html/sehenswertes.htm",
 "faktencheck": "bestätigt",
 "id": "341-windhagen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Windhagen",
-"steckbrief": "Gemeinde mit rund 4.700 Einwohnern, 21 km südöstlich von Bonn.",
-"frage": "Wie hoch war die Wahlbeteiligung in Windhagen bei der Bundestagswahl 2025?",
-"optionen": [
-"86 % und mehr",
-"82 bis unter 86 %",
-"78 bis unter 82 %",
-"unter 78 %"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Landgemeinde rechnet man leicht mit weniger Andrang an den Urnen. Bei der Bundestagswahl 2025 gaben in Windhagen aber 87,2 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Partei wurde die CDU. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "341-windhagen/v0.8/4",
 "tisch": false
 },
 {
@@ -94949,26 +92949,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Hennef",
-"steckbrief": "Hennef, eine Stadt mit rund 48.000 Einwohnern, liegt 14 km östlich von Bonn.",
-"frage": "Wie hoch war in Hennef die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 82 %",
-"82 bis unter 87 %",
-"87 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Viele unterschätzen die Wahlbeteiligung, denn bei anderen Wahlen liegt sie oft deutlich tiefer. In Hennef lag sie bei der Bundestagswahl 2025 bei 85,8 Prozent. Stärkste Kraft wurde die CDU. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "344-hennef/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hennef",
@@ -95575,26 +93555,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Lohmar",
-"steckbrief": "Lohmar zählt rund 31.000 Einwohner und liegt 15 km nordöstlich von Bonn.",
-"frage": "Wie hoch war die Wahlbeteiligung in Lohmar bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 82 %",
-"82 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Stadt am Rand von Bonn verleitet zu einer vorsichtigen, mittleren Schätzung. Bei der Bundestagswahl 2025 gingen in Lohmar aber 86,6 Prozent der Wahlberechtigten zur Wahl. Stärkste Partei wurde die CDU. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "347-lohmar/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Lohmar",
@@ -96165,26 +94125,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Solingen",
 "faktencheck": "korrigiert",
 "id": "350-solingen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Solingen",
-"steckbrief": "Großstadt in Nordrhein-Westfalen mit rund 165.000 Einwohnern, 22 km Luftlinie von Düsseldorf.",
-"frage": "Wie hoch war in Solingen die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 74 %",
-"74 bis unter 78 %",
-"78 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. In Großstädten gehen oft weniger Menschen wählen als auf dem Land, daher liegt eine niedrigere Spanne nahe. In Solingen gaben bei der Bundestagswahl 2025 aber 80,1 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "350-solingen/v0.8/4",
 "tisch": false
 },
 {
@@ -96810,26 +94750,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.erkrath.de/rathaus-politik/stadt/stadtportraet/geschichte",
 "faktencheck": "bestätigt",
 "id": "353-erkrath/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Erkrath",
-"steckbrief": "Stadt mit rund 44.000 Einwohnern, 10 km östlich von Düsseldorf.",
-"frage": "Wie hoch war die Wahlbeteiligung in Erkrath bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 82 %",
-"82 bis unter 84 %",
-"84 bis unter 86 %",
-"86 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Vororte von Großstädten wählen oft fleißig, deshalb liegt eine höhere Spanne nahe. In Erkrath lag die Wahlbeteiligung bei der Bundestagswahl 2025 bei 81,7 Prozent. Stärkste Partei wurde die CDU, vor SPD und AfD. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "353-erkrath/v0.8/4",
 "tisch": false
 },
 {
@@ -97582,26 +95502,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Wuppertal",
 "faktencheck": "korrigiert",
 "id": "356-wuppertal/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Wuppertal",
-"steckbrief": "Großstadt mit rund 357.000 Einwohnern, 29 km Luftlinie von Düsseldorf.",
-"frage": "Wie hoch war die Wahlbeteiligung in Wuppertal bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 80 %",
-"80 bis unter 85 %",
-"85 % und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an die hohe bundesweite Beteiligung denkt, schätzt leicht zu hoch; in Großstädten gehen oft weniger Menschen wählen als im Umland. In Wuppertal waren es 78,9 Prozent der Wahlberechtigten. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "356-wuppertal/v0.8/4",
 "tisch": false
 },
 {
@@ -98362,26 +96262,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.hattingen.de/stadt_hattingen/Bildung und Kultur/Stadtarchiv/Stadtgeschichte/Kurzchronik/",
 "faktencheck": "korrigiert",
 "id": "359-hattingen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Hattingen",
-"steckbrief": "Stadt mit rund 53.000 Einwohnern, 9 km südlich von Bochum.",
-"frage": "Wie hoch war in Hattingen die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 78 %",
-"78 bis unter 86 %",
-"86 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer tiefer tippt, denkt oft an Kommunalwahlen, bei denen deutlich weniger Menschen wählen. Bei der Bundestagswahl 2025 gingen in Hattingen aber 82,7 Prozent zur Wahl. Stärkste Partei wurde die CDU vor der SPD. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "359-hattingen/v0.8/4",
 "tisch": false
 },
 {
@@ -99695,26 +97575,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Niederbreitbach",
-"steckbrief": "Niederbreitbach hat rund 1.500 Einwohner und liegt 23 km nordwestlich von Koblenz.",
-"frage": "Wie hoch war die Wahlbeteiligung in Niederbreitbach bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 75 %",
-"75 bis unter 82 %",
-"82 bis unter 90 %",
-"90 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Wer an Wahlmüdigkeit auf dem Land denkt, tippt eher niedrig. In Niederbreitbach wählten aber 86,9 Prozent der Wahlberechtigten; stärkste Kraft bei den Zweitstimmen wurde die CDU. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "407-niederbreitbach/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Niederbreitbach",
@@ -100489,26 +98349,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.hardert.de/geschichte.html",
 "faktencheck": "unsicher",
 "id": "410-hardert/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Hardert",
-"steckbrief": "Das Dorf mit rund 850 Einwohnern liegt im Kreis Neuwied, 19 km nördlich von Koblenz.",
-"frage": "Wie hoch war in Hardert die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 76 %",
-"76 bis unter 82 %",
-"82 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Wer an sinkende Wahlbeteiligung denkt, tippt tiefer. In Hardert lag sie bei der Bundestagswahl 2025 aber bei 84,7 Prozent. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "410-hardert/v0.8/4",
 "tisch": false
 },
 {
@@ -101296,26 +99136,6 @@ window.QA_DATEN = {
 "quelle": "Gemeinde-Webseite, www.rossbach-wied.de/unser-dorf/os-sproch/ und www.rossbach-wied.de/unser-dorf/",
 "faktencheck": "korrigiert",
 "id": "413-rossbach-wied/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Roßbach",
-"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 27 km nordwestlich von Koblenz.",
-"frage": "Wie hoch war in Roßbach die Wahlbeteiligung bei der Bundestagswahl 2025?",
-"optionen": [
-"85 % oder mehr",
-"80 bis unter 85 %",
-"75 bis unter 80 %",
-"unter 75 %"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bundesweit lag die Beteiligung niedriger, darum wirkt eine mittlere Spanne naheliegend. In Roßbach gaben aber 86,3 % der Wahlberechtigten ihre Stimme ab. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "413-rossbach-wied/v0.8/4",
 "tisch": false
 },
 {
@@ -102872,26 +100692,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Überruhr",
-"steckbrief": "Stadtteil von Essen mit rund 16.000 Einwohnern, 6 km südöstlich der Stadtmitte.",
-"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in der Stadt Essen, zu der Überruhr gehört?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 77 %",
-"77 bis unter 82 %",
-"82 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ruhrgebietsstädte stehen im Ruf geringer Wahlbeteiligung, ein niedriger Wert liegt also nahe. In Essen lag die Beteiligung bei der Bundestagswahl 2025 aber bei 80,1 Prozent. Stärkste Partei wurde die CDU vor der SPD. Der Wert gilt für ganz Essen, nicht eigens für Überruhr. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "419-ueberruhr/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Überruhr",
@@ -103506,26 +101306,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Stadtwald_(Essen)",
 "faktencheck": "unsicher",
 "id": "422-stadtwald-essen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Stadtwald",
-"steckbrief": "Essener Stadtteil mit rund 9.700 Einwohnern, 4 km südlich der Stadtmitte.",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der ganzen Stadt Essen?",
-"optionen": [
-"unter 65 %",
-"65 bis unter 72 %",
-"72 bis unter 78 %",
-"78 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Dem Ruhrgebiet hängt der Ruf an, eher wahlmüde zu sein; viele schätzen deshalb niedrig. Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Essen aber bei 80,1 Prozent. Der Wert gilt für die ganze Stadt, nicht nur für Stadtwald. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "422-stadtwald-essen/v0.8/4",
 "tisch": false
 },
 {
@@ -104214,26 +101994,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Burgaltendorf",
-"steckbrief": "Stadtteil im Südosten Essens mit rund 9.300 Einwohnern, 9 km von der Stadtmitte.",
-"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in der Stadt Essen, zu der Burgaltendorf gehört?",
-"optionen": [
-"unter 82 %",
-"82 bis unter 85 %",
-"85 bis unter 88 %",
-"88 % und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ruhige Wohnviertel am Stadtrand wählen oft fleißiger als die Innenstadt, das verleitet zu hohen Schätzungen. Die Angabe gilt aber für ganz Essen: Dort lag die Wahlbeteiligung bei 80,1 Prozent. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "425-burgaltendorf/v0.8/4",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Burgaltendorf",
@@ -104902,26 +102662,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Rüttenscheid",
 "faktencheck": "unsicher",
 "id": "428-ruettenscheid/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Rüttenscheid",
-"steckbrief": "Rüttenscheid ist ein Stadtteil von Essen mit rund 31.000 Einwohnern, 2 km südlich der Stadtmitte.",
-"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in ganz Essen, zu dem Rüttenscheid gehört?",
-"optionen": [
-"unter 72 %",
-"72 bis unter 82 %",
-"82 bis unter 87 %",
-"87 % oder mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an Spitzenwerte denkt, schätzt hier zu hoch. In ganz Essen gingen 80,1 Prozent der Wahlberechtigten zur Wahl; die Zahl gilt für die ganze Stadt, nicht nur für Rüttenscheid. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "428-ruettenscheid/v0.8/4",
 "tisch": false
 },
 {
@@ -105604,26 +103344,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Kettwig",
 "faktencheck": "unsicher",
 "id": "431-kettwig/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Kettwig",
-"steckbrief": "Kettwig ist mit rund 18.000 Einwohnern ein Stadtteil der Großstadt Essen und liegt 8 km südöstlich von Mülheim an der Ruhr.",
-"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der ganzen Stadt Essen, zu der Kettwig gehört?",
-"optionen": [
-"unter 70 %",
-"70 bis unter 77 %",
-"77 bis unter 83 %",
-"83 % und mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. In Großstädten gehen oft weniger Menschen wählen als in ländlichen Gegenden, deshalb liegen die unteren Spannen nahe. In Essen lag die Wahlbeteiligung 2025 aber bei 80,1 Prozent. Der Wert gilt für die ganze Stadt, nicht eigens für Kettwig. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "431-kettwig/v0.8/4",
 "tisch": false
 },
 {

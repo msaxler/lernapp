@@ -78,6 +78,9 @@ def main():
         vorrat = json.loads(lies(os.path.join(iter_, 'vorrat-liste.json')))
         kur = json.loads(lies(os.path.join(iter_, 'kuratierung.json')))
         reihe = kur.get('kartensatz', {}).get('reihe', {})
+        # Herausnahme ohne Modell (kuratierung.json "raus": je Ort Liste {lauf, karte, grund}), z. B. Wahlbeteiligungs-
+        # Karten ohne deutlichen Abstand zum Landeswert (Mike 2026-10-19)
+        raus = {(slug, e['lauf'], e['karte']) for slug, liste in kur.get('raus', {}).items() for e in liste}
         pfad_b = os.path.join(iter_, 'anschluss-berichtigt.json')
         berichtigt = json.loads(lies(pfad_b)) if os.path.exists(pfad_b) else {}
         pfad_u = os.path.join(iter_, 'anschluesse-umkreis.json')
@@ -93,7 +96,7 @@ def main():
         for slug in reihe_orte:
             g = grund[slug]
             karten = []
-            for v in [x for x in vorrat if x['ort'] == slug]:
+            for v in [x for x in vorrat if x['ort'] == slug and (slug, x['lauf'], x['karte']) not in raus]:
                 pfad = os.path.join(iter_, 'karten-geprueft', v['lauf'], slug + '.md')
                 k = karte_lesen(abschnitte(lies(pfad), KOPF.get(v['lauf'], 'Karte'))[v['karte']])
                 if not k:
