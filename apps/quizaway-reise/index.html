@@ -152,6 +152,18 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
         <button class="opt" data-f="20">Zeitraffer ×20</button>
       </div>
     </div>
+    <div id="route-wahl">
+      <b>Route</b>
+      <div class="row" id="route" style="margin-top:8px">
+        <button class="opt" data-route="0">Ohne Route<br><small>Fahrtrichtung aus GPS</small></button>
+        <button class="opt" data-route="1">Geplante Route<br><small>Orte entlang der Straße voraus</small></button>
+      </div>
+      <div class="row" id="route-orte" style="margin-top:8px" hidden>
+        <select id="route-von" aria-label="Start" style="flex:1 1 45%;min-height:44px;font:inherit;border:2px solid var(--line);border-radius:12px;background:var(--surface);color:var(--fg);padding:6px"></select>
+        <select id="route-bis" aria-label="Ziel" style="flex:1 1 45%;min-height:44px;font:inherit;border:2px solid var(--line);border-radius:12px;background:var(--surface);color:var(--fg);padding:6px"></select>
+      </div>
+      <div class="note" id="route-info"></div>
+    </div>
     <div id="takt-wahl">
       <b>Takt</b>
       <div class="row" id="takt" style="margin-top:8px">
@@ -260,6 +272,17 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     Object.keys(o.anschluesse || {}).forEach(function(v){ an[p(v)] = o.anschluesse[v]; });
     ALLE.orte.push(Object.assign({}, o, { slug: p(o.slug), anschluss_von: p(o.anschluss_von), anschluesse: an }));
   }); });
+  // dieselbe Gemeinde in zwei Räumen (Kirchzarten: Raum Freiburg v0.5 und Raum bahn Ortsporträt v0.9, 2026-10-19): im Topf
+  // nur die Fassung mit Rang-Karten (Ortsporträt), sonst die zuletzt gebaute
+  (function(){
+    var je = {};
+    ALLE.orte.forEach(function(o){ if(o.ags && !o.ortsteil) (je[o.ags] = je[o.ags] || []).push(o); });
+    Object.keys(je).forEach(function(ags){
+      if(je[ags].length < 2) return;
+      var best = je[ags].filter(function(o){ return o.karten.some(function(k){ return k.rang; }); })[0] || je[ags][je[ags].length - 1];
+      je[ags].forEach(function(o){ if(o !== best) ALLE.orte.splice(ALLE.orte.indexOf(o), 1); });
+    });
+  })();
 
   // ---- Grundversorgung (Mike 2026-10-07): alle Gemeinden Deutschlands mit Klassiker-Karten, ohne Modell ----
   // Daten: grund-de.js (scripts/data-build/quizaway_grundversorgung.py). Die Karten rechnet die Seite erst, wenn ein Ort
@@ -449,7 +472,10 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   var MUSTER = ['A','C','A','B','Leiter','A','B','A','B','A','C'];   // gemischte Reihe des Kartensatzes für den Tisch
   var JE_ORT = 3;
   // Zielfenster, Spielkonzept v0.3.1 §1a (Startwerte, eingestellt im Feldtest). Zeiten in Sekunden Fahrzeit, Wege in Metern.
-  var FENSTER = { vorschau: 180, ausloesung: 30, nachlauf: 60, korridor: 5000, strecke: 1000, still_kmh: 10, still_radius: 2000, gleich: 30 };
+  var FENSTER = { vorschau: 180, ausloesung: 30, nachlauf: 60, korridor: 5000, strecke: 1000, still_kmh: 10, still_radius: 2000, gleich: 30,
+                  // geplante Route (Mike 2026-10-19): Ort gehört zur Route bis route_breit seitlich; Position gilt als auf der Route bis
+                  // route_ab daneben, sonst Rückfall auf die Fahrtrichtung; Orte näher als nah (Luftlinie) kommen immer
+                  route_breit: 1000, route_ab: 2000, nah: 3000 };   // nah: Mike 2026-10-19 „3 km Luftlinie sind in jedem Fall in der Nähe“
 
   // ---- Speicher (nur Komfort; die Seite läuft auch ohne) ----
   function laden(k, leer){ try{ var v = localStorage.getItem('qa3-'+k); return v ? JSON.parse(v) : leer; }catch(e){ return leer; } }
@@ -508,6 +534,22 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     stimmeWaehlen();
     gruppe('#takt .opt', 'takt', 'takt', String);
     $('takt-wahl').hidden = wahlStart.quelle !== 'gps';
+    // Geplante Route (Mike 2026-10-19): Start und Ziel aus den Geschichten-Orten, Straßenroute vom Routendienst
+    gruppe('#route .opt', 'route', 'route', Number);
+    $('route-wahl').hidden = wahlStart.quelle !== 'gps';
+    $('route-orte').hidden = !(wahlStart.quelle === 'gps' && wahlStart.route === 1);
+    if(!$('route-von').options.length){
+      var namen = ALLE.orte.filter(function(o){ return o.slug.indexOf('de:') !== 0; })
+        .sort(function(a, b){ return a.name.localeCompare(b.name, 'de'); });
+      ['route-von', 'route-bis'].forEach(function(id){
+        $(id).innerHTML = '<option value="">' + (id === 'route-von' ? 'Start …' : 'Ziel …') + '</option>' +
+          namen.map(function(o){ return '<option value="' + o.slug + '">' + o.name + '</option>'; }).join('');
+        $(id).onchange = function(){ wahlStart[id === 'route-von' ? 'routeVon' : 'routeBis'] = this.value; sichern('wahl', wahlStart); };
+      });
+    }
+    $('route-von').value = wahlStart.routeVon || ''; $('route-bis').value = wahlStart.routeBis || '';
+    $('route-info').textContent = wahlStart.quelle === 'gps' && wahlStart.route === 1
+      ? 'Die Route wird beim Start einmal vom Routendienst geholt (Auto-Straßen, dafür kurz Netz nötig). Orte bis 1 km neben der Route kommen der Reihe nach; Orte in unmittelbarer Nähe immer.' : '';
     gruppe('#sim-tempo .opt', 'kmh', 'kmh', Number);
     gruppe('#sim-faktor .opt', 'f', 'f', Number);
     $('sim-wahl').hidden = wahlStart.quelle !== 'sim';
@@ -534,6 +576,46 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     var i = 1; while(i < rt.s.length - 1 && rt.s[i] < sNow) i++;
     var a = rt.pts[i - 1], b = rt.pts[i], l = rt.s[i] - rt.s[i - 1] || 1, t = Math.min(1, Math.max(0, (sNow - rt.s[i - 1]) / l));
     return { x: a.x + (b.x - a.x) * t, y: a.y + (b.y - a.y) * t, hx: (b.x - a.x) / l, hy: (b.y - a.y) / l };
+  }
+
+  // ---- Geplante Route (Mike 2026-10-19): Straßenroute vom Routendienst, Position auf die Route gelegt ----
+  // route = { pts: [{x,y}], s: [laufende Meter], laenge, orte: {slug: {s, lat}} } in der Ebene von rt.ref;
+  // fahrt.route hält die Koordinaten, damit „Fahrt fortsetzen“ ohne Netz auskommt
+  var route = null, posR = null;
+  function routeAufbauen(coords){
+    var pts = coords.map(function(c){ return xy(c[0], c[1], rt.ref); }), s = [0];
+    for(var i = 1; i < pts.length; i++) s.push(s[i - 1] + Math.hypot(pts[i].x - pts[i - 1].x, pts[i].y - pts[i - 1].y));
+    var r = { pts: pts, s: s, laenge: s[s.length - 1], orte: {} };
+    var minx = Infinity, maxx = -Infinity, miny = Infinity, maxy = -Infinity;
+    pts.forEach(function(p){ minx = Math.min(minx, p.x); maxx = Math.max(maxx, p.x); miny = Math.min(miny, p.y); maxy = Math.max(maxy, p.y); });
+    var rand = FENSTER.route_breit + 500;
+    raum().orte.forEach(function(o){
+      var q = xy(o.lat, o.lon, rt.ref);
+      if(q.x < minx - rand || q.x > maxx + rand || q.y < miny - rand || q.y > maxy + rand) return;
+      var p = projizieren(r, q);
+      if(p.lat <= FENSTER.route_breit) r.orte[o.slug] = { s: p.s, lat: p.lat };
+    });
+    return r;
+  }
+  // nächster Punkt der Route zu q: laufende Meter s und seitlicher Abstand lat
+  function projizieren(r, q){
+    var best = { s: 0, lat: Infinity };
+    for(var i = 1; i < r.pts.length; i++){
+      var a = r.pts[i - 1], b = r.pts[i], dx = b.x - a.x, dy = b.y - a.y, l2 = dx * dx + dy * dy || 1;
+      var t = Math.max(0, Math.min(1, ((q.x - a.x) * dx + (q.y - a.y) * dy) / l2));
+      var px = a.x + dx * t, py = a.y + dy * t, d = Math.hypot(q.x - px, q.y - py);
+      if(d < best.lat) best = { s: r.s[i - 1] + Math.sqrt(l2) * t, lat: d };
+    }
+    return best;
+  }
+  function routeHolen(vonSlug, bisSlug){
+    var von = ortVon(vonSlug), bis = ortVon(bisSlug);
+    var url = 'https://router.project-osrm.org/route/v1/driving/' + von.lon + ',' + von.lat + ';' + bis.lon + ',' + bis.lat + '?overview=full&geometries=geojson';
+    return fetch(url).then(function(r){ return r.json(); }).then(function(j){
+      if(!j.routes || !j.routes.length) throw new Error('keine Route');
+      var coords = j.routes[0].geometry.coordinates.map(function(c){ return [Math.round(c[1] * 1e5) / 1e5, Math.round(c[0] * 1e5) / 1e5]; });
+      return { von: vonSlug, bis: bisSlug, coords: coords, km: Math.round(j.routes[0].distance / 100) / 10 };
+    });
   }
 
   // ---- Position: Simulation oder GPS ----
@@ -585,6 +667,11 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     var dx = q.x - pos.x, dy = q.y - pos.y, dist = Math.hypot(dx, dy);
     var still = pos.v * 3.6 < FENSTER.still_kmh || !pos.hx;
     if(still) return { t: null, lat: dist, dist: dist, still: true };
+    // geplante Route: Ort an der Route und Position auf der Route → voraus heißt weiter vorn auf der Route, keine Richtungsrechnung
+    var oR = route && posR ? route.orte[o.slug] : null;
+    if(oR) return { t: (oR.s - posR.s) / Math.max(pos.v, 8), lat: oR.lat, dist: dist, still: false, route: true };
+    // auf der Route gilt für Orte abseits nur die Nähe-Regel, nicht die Fahrtrichtung (t unendlich: nie „voraus“, nie „passiert“)
+    if(route && posR) return { t: Infinity, lat: dist, dist: dist, still: false, abseits: true };
     var along = dx * pos.hx + dy * pos.hy, lat = Math.abs(dx * pos.hy - dy * pos.hx);
     return { t: along / pos.v, lat: lat, dist: dist, still: false };
   }
@@ -600,8 +687,17 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     fahrt = { raum: r.id, quelle: wahlStart.quelle, vor: wahlStart.vor, stimme: true, takt: wahlStart.takt, start: new Date().toISOString(), pos: 0,
               orte: r.orte.map(function(o){ return { slug: o.slug, zustand: 'fern', ev: {} }; }), log: [], ereignisse: [], aktiv: -1 };
     if(fahrt.quelle === 'sim') fahrt.sim = { kmh: wahlStart.kmh, f: wahlStart.f, s: 0, t: 0, pause: false };
-    sichern('fahrt', fahrt); tonFreigeben(); fahrtLaufen();
+    sichern('fahrt', fahrt); tonFreigeben();
     try{ if(window.speechSynthesis && fahrt.vor) speechSynthesis.speak(new SpeechSynthesisUtterance('')); }catch(e){}
+    // geplante Route: einmal holen, dann ohne Netz; ohne Antwort läuft die Fahrt mit der Fahrtrichtung weiter
+    if(fahrt.quelle === 'gps' && wahlStart.route === 1 && wahlStart.routeVon && wahlStart.routeBis && wahlStart.routeVon !== wahlStart.routeBis){
+      $('route-info').textContent = 'Route wird geholt …';
+      rt = routeBauen(raum());
+      routeHolen(wahlStart.routeVon, wahlStart.routeBis).then(function(r){ fahrt.route = r; ereignis('route', r.von + '>' + r.bis); sichern('fahrt', fahrt); fahrtLaufen(); },
+        function(e){ fahrt.routeFehler = 'Route nicht geholt (' + (e.message || e) + ') – Fahrt mit Fahrtrichtung'; ereignis('route-fehlt'); sichern('fahrt', fahrt); fahrtLaufen(); });
+      return;
+    }
+    fahrtLaufen();
   };
   // Fortsetzen übernimmt die Vorlesen-Wahl des Startbildschirms (Mike 2026-10-19: sonst las das Handy trotz „liest selbst“ weiter vor)
   $('weiter').onclick = function(){
@@ -611,6 +707,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   };
   function fahrtLaufen(){
     rt = routeBauen(raum());
+    route = fahrt.route && fahrt.route.coords ? routeAufbauen(fahrt.route.coords) : null;
     if(fahrt.quelle === 'gps' && gpsId === null) gpsStarten();
     if(fahrt.quelle === 'sim') simSchritt(0);
     karteZeichnen(); show('s-karte');
@@ -634,6 +731,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   function fensterPruefen(){
     var now = uhr();
     geschichteInSicht = false;
+    // Position auf die geplante Route legen; zu weit daneben → Rückfall auf die Fahrtrichtung (lage() ohne posR)
+    if(route && fahrt.quelle === 'gps'){ var pr = projizieren(route, pos); posR = pr.lat <= FENSTER.route_ab ? pr : null; } else posR = null;
     // Lage aller Orte zuerst; im Stand wird nur der nächste Ort fällig (Feldtest Waldbreitbach 2026-10-19: im 2-km-Radius
     // lagen vier Orte, drei liefen mit je einer Frage hintereinander, das Kloster fiel aus)
     var lagen = [], naechsterStill = -1, bestDist = Infinity;
@@ -650,10 +749,14 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       // Städte abseits der Autobahn haben ein breiteres Fenster (Ort.korridor, Mike 2026-10-13: bis 7 km)
       var kor = raum().orte[i].korridor || FENSTER.korridor;
       if(f.slug.indexOf('de:') !== 0 && !(f.karten && f.karten.length) && !l.still && l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= kor) geschichteInSicht = true;
-      var inVorschau = l.still ? l.dist <= FENSTER.still_radius : (l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= kor);
-      var faellig = l.still ? i === naechsterStill : (l.t <= FENSTER.ausloesung && l.t > -FENSTER.nachlauf && l.lat <= kor);
+      // Nähe-Regel (Mike 2026-10-19): ein Ort in unmittelbarer Nähe erscheint immer, auch abseits der Route oder der Richtung
+      var nah = !l.still && l.dist <= FENSTER.nah && f.slug.indexOf('de:') !== 0;
+      var inVorschau = l.still ? l.dist <= FENSTER.still_radius : (nah || (l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= kor));
+      var faellig = l.still ? i === naechsterStill : (nah || (l.t <= FENSTER.ausloesung && l.t > -FENSTER.nachlauf && l.lat <= kor));
       if(l.still && f.zustand === 'faellig' && i !== naechsterStill && !(f.karten && f.karten.length)) f.zustand = 'vorschau';
       if(!l.still && l.t < 0 && f.ev.vorschau && !f.ev.passiert){ f.ev.passiert = now; }
+      // Ort abseits der Route: „passiert“, sobald er die Nähe wieder verlässt (sonst bliebe er fällig, bis er gespielt ist)
+      if(l.abseits && !nah && f.ev.vorschau && !f.ev.passiert && l.dist > FENSTER.nah + 500){ f.ev.passiert = now; }
       if(f.zustand === 'aktiv') return;
       if(f.zustand === 'fern' && inVorschau){ f.zustand = 'vorschau'; f.ev.vorschau = f.ev.vorschau || now; }
       if((f.zustand === 'fern' || f.zustand === 'vorschau') && faellig){ f.zustand = 'faellig'; f.ev.faellig = f.ev.faellig || now; f.ev.vorschau = f.ev.vorschau || now; }
@@ -730,7 +833,11 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     // Status-Zeile
     var st = '';
     if(fahrt.quelle === 'sim') st = 'Simulation · ' + fahrt.sim.kmh + ' km/h · ×' + fahrt.sim.f + ' · ' + fmtKm(fahrt.sim.s) + ' von ' + fmtKm(rt.laenge) + (fahrt.sim.pause ? ' · angehalten' : '');
-    else if(fahrt.quelle === 'gps') st = gpsFehler || (pos ? 'GPS · ' + Math.round(pos.v * 3.6) + ' km/h · Genauigkeit ' + pos.genau + ' m' : 'GPS · warte auf Position …');
+    else if(fahrt.quelle === 'gps'){
+      st = gpsFehler || (pos ? 'GPS · ' + Math.round(pos.v * 3.6) + ' km/h · Genauigkeit ' + pos.genau + ' m' : 'GPS · warte auf Position …');
+      if(route) st += posR ? ' · Route ' + fmtKm(posR.s) + ' von ' + fmtKm(route.laenge) : ' · neben der Route (Fahrtrichtung gilt)';
+      else if(fahrt.routeFehler) st += ' · ' + fahrt.routeFehler;
+    }
     else st = 'Durchtippen · eigenes Tempo';
     $('k-status').textContent = st;
     // Positionsmarke nur bei Simulation zwischen die Orte setzen
@@ -1041,6 +1148,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
                                 sim: fahrt.sim ? { kmh: fahrt.sim.kmh, faktor: fahrt.sim.f } : null, fenster: FENSTER,
                                 start: fahrt.start, ende: fahrt.ende, ort_der_fahrt: fahrt.ortDerFahrt || null, notiz: fahrt.notiz || '',
                                 orte_im_topf: fahrt.orte.length, zeiten: 'Sekunden ab Fahrtbeginn',
+                                route: fahrt.route ? { von: fahrt.route.von, bis: fahrt.route.bis, km: fahrt.route.km, punkte: fahrt.route.coords.length } : (fahrt.routeFehler || null),
                                 fenster_je_ort: orte, ereignisse: fahrt.ereignisse, fragen: fahrt.log, spur: spur }, null, 1);
     var ok = function(){ $('e-hinweis').textContent = 'Protokoll in der Zwischenablage – bitte in den Feldtest-Bogen oder an Claude geben.'; };
     var zeigen = function(){ var t = $('e-protokoll-text'); t.hidden = false; t.value = text; t.focus(); t.select();
@@ -1061,7 +1169,10 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   document.addEventListener('visibilitychange', function(){ try{ if(!document.hidden && navigator.wakeLock) navigator.wakeLock.request('screen').catch(function(){}); }catch(e){} });
 
   // Für Tests von außen (Konsole): Zustand lesen
-  window.QA_PROTO = { fahrt: function(){ return fahrt; }, fenster: FENSTER,
+  window.QA_PROTO = { fahrt: function(){ return fahrt; }, fenster: FENSTER, route: function(){ return route; },
+                     // Test ohne GPS: Position setzen (Breitengrad, Längengrad, km/h, Kurs in Grad) und das Fenster prüfen
+                     setzePosition: function(lat, lon, kmh, kurs){ var q = xy(lat, lon, rt.ref), k = (kurs || 0) * Math.PI / 180;
+                       pos = { x: q.x, y: q.y, hx: Math.sin(k), hy: Math.cos(k), v: (kmh || 0) / 3.6, genau: 5 }; fensterPruefen(); karteZeichnen(); return posR; },
                      grund: function(ags){ return G && GREC[ags] ? grundKarten(gRec(GREC[ags])) : null; },
                      anschluss: function(a, b){ return anschlussRechnen(gRec(GREC[a]), gRec(GREC[b])); } };
 
