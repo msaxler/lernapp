@@ -173,6 +173,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <div class="bar"><button class="btn primary" id="starten">Fahrt starten</button></div>
     <div class="bar" id="bar-weiter" hidden><button class="btn" id="weiter">Fahrt fortsetzen</button></div>
     <div class="note" id="vorrat-info"></div>
+    <div class="bar"><button class="btn small quiet" id="verlauf-loeschen" style="flex:1">Verlauf löschen – gespielte Karten vergessen</button></div>
   </section>
 
   <!-- Fahrtkarte -->
@@ -558,6 +559,15 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
         else if(pos && pos.hx){ hx = pos.hx; hy = pos.hy; }
         pos = { x: q.x, y: q.y, hx: hx, hy: hy, v: v || 0, genau: Math.round(c.accuracy) };
         gpsFehler = '';
+        // GPS-Spur alle 10 s fürs Protokoll (Feldtest 2026-10-19: Fahrtrichtung und Zeitfenster kippten im Wiedtal, ohne Spur
+        // nicht messbar): Fahrzeit, Position, Tempo, Kurs, Genauigkeit
+        var sp = fahrt.spur = fahrt.spur || [];
+        if(!sp.length || now - sp[sp.length - 1].t >= 10){
+          if(sp.length >= 2000) sp.shift();
+          sp.push({ t: Math.round(now), lat: Math.round(c.latitude * 1e5) / 1e5, lon: Math.round(c.longitude * 1e5) / 1e5,
+                    kmh: Math.round((v || 0) * 3.6), kurs: hx || hy ? Math.round((Math.atan2(hx, hy) * 180 / Math.PI + 360) % 360) : null,
+                    genau: Math.round(c.accuracy) });
+        }
       }, function(e){ gpsFehler = 'GPS: ' + (e.code === 1 ? 'Zugriff verweigert' : e.code === 2 ? 'keine Position' : 'Zeitüberschreitung') + '. „Jetzt“ startet den nächsten Ort von Hand.'; },
       { enableHighAccuracy: true, maximumAge: 2000, timeout: 20000 });
     }catch(e){ gpsFehler = 'GPS nicht verfügbar: ' + e.message; }
@@ -623,16 +633,25 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   function fensterPruefen(){
     var now = uhr();
     geschichteInSicht = false;
+    // Lage aller Orte zuerst; im Stand wird nur der nächste Ort fällig (Feldtest Waldbreitbach 2026-10-19: im 2-km-Radius
+    // lagen vier Orte, drei liefen mit je einer Frage hintereinander, das Kloster fiel aus)
+    var lagen = [], naechsterStill = -1, bestDist = Infinity;
     fahrt.orte.forEach(function(f, i){
       if(f.zustand === 'gespielt' || f.zustand === 'ausgefallen') return;
       var l = lage(i);
       if(fahrt.raum === 'alle' && l.dist > 40000){ if(f.lage) delete f.lage; if(f.zustand === 'vorschau') f.zustand = 'fern'; return; }
+      lagen[i] = l;
+      if(l.still && f.zustand !== 'aktiv' && l.dist <= FENSTER.still_radius && l.dist < bestDist && !(f.karten && f.karten.length)){ bestDist = l.dist; naechsterStill = i; }
+    });
+    fahrt.orte.forEach(function(f, i){
+      var l = lagen[i]; if(!l) return;
       f.lage = l;
       // Städte abseits der Autobahn haben ein breiteres Fenster (Ort.korridor, Mike 2026-10-13: bis 7 km)
       var kor = raum().orte[i].korridor || FENSTER.korridor;
       if(f.slug.indexOf('de:') !== 0 && !(f.karten && f.karten.length) && !l.still && l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= kor) geschichteInSicht = true;
       var inVorschau = l.still ? l.dist <= FENSTER.still_radius : (l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= kor);
-      var faellig = l.still ? l.dist <= FENSTER.still_radius : (l.t <= FENSTER.ausloesung && l.t > -FENSTER.nachlauf && l.lat <= kor);
+      var faellig = l.still ? i === naechsterStill : (l.t <= FENSTER.ausloesung && l.t > -FENSTER.nachlauf && l.lat <= kor);
+      if(l.still && f.zustand === 'faellig' && i !== naechsterStill && !(f.karten && f.karten.length)) f.zustand = 'vorschau';
       if(!l.still && l.t < 0 && f.ev.vorschau && !f.ev.passiert){ f.ev.passiert = now; }
       if(f.zustand === 'aktiv') return;
       if(f.zustand === 'fern' && inVorschau){ f.zustand = 'vorschau'; f.ev.vorschau = f.ev.vorschau || now; }
@@ -766,8 +785,9 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       if(fahrt.quelle === 'gps' && !inReichweite(l)) return;
       if(!freieKarten(i).length) return;
       var t = l.still ? l.dist : (l.t < -FENSTER.nachlauf ? Infinity : Math.abs(l.t));
-      // mit GPS zählt der Weg zur Seite mit (50 m je Sekunde): ein Ort direkt voraus geht dem 8 km neben der Straße vor
-      if(fahrt.quelle === 'gps' && !l.still) t += l.lat / 50;
+      // mit GPS zählt der Weg zur Seite stark mit (10 m je Sekunde, ab 1,5 km seitlich nochmals +5 min): die eigene Straße
+      // geht vor – Feldtest 2026-10-19: „Jetzt“ holte Rheinbrohl, Bad Hönningen, Bad Breisig jenseits des Rheins statt Niederbieber
+      if(fahrt.quelle === 'gps' && !l.still){ t += l.lat / 10; if(l.lat > 1500) t += 300; }
       if(f.slug.indexOf('de:') === 0) t += 120;   // Geschichten-Orte zuerst
       if(t < bt){ bt = t; best = i; }
     });
@@ -997,18 +1017,33 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   }
   $('e-notiz').oninput = function(){ fahrt.notiz = this.value; sichern('fahrt', fahrt); };
   $('e-protokoll').onclick = function(){
-    var orte = fahrt.orte.map(function(f){ var r = { ort: f.slug, zustand: f.zustand, fragen: (f.karten || []).length };
-      Object.keys(f.ev).forEach(function(k){ r[k] = Math.round(f.ev[k]); }); return r; });
-    var text = JSON.stringify({ prototyp: 'quizaway-reise 0.3', konzept: 'v0.3.1', raum: fahrt.raum, quelle: fahrt.quelle, vorlesen: !!fahrt.vor,
+    // nur Orte, die etwas erlebt haben (Feldtest 2026-10-19: mit allen 11.000 Orten des Topfs wurde die Zwischenablage
+    // abgeschnitten, Fragen und Ereignisse fehlten); Zeiten relativ zum Fahrtbeginn
+    var t0 = fahrt.orte.reduce(function(m, f){ return Object.keys(f.ev).reduce(function(m2, k){ return Math.min(m2, f.ev[k]); }, m); }, Infinity);
+    if(fahrt.spur && fahrt.spur.length) t0 = Math.min(t0, fahrt.spur[0].t);
+    if(!isFinite(t0)) t0 = 0;
+    var orte = fahrt.orte.filter(function(f){ return Object.keys(f.ev).length || (f.karten && f.karten.length); })
+      .map(function(f){ var r = { ort: f.slug, zustand: f.zustand, fragen: (f.karten || []).length };
+      Object.keys(f.ev).forEach(function(k){ r[k] = Math.round(f.ev[k] - t0); }); return r; });
+    var spur = (fahrt.spur || []).map(function(s){ return Object.assign({}, s, { t: s.t - Math.round(t0) }); });
+    var text = JSON.stringify({ prototyp: 'quizaway-reise 0.3.1', konzept: 'v0.3.1', raum: fahrt.raum, quelle: fahrt.quelle, vorlesen: !!fahrt.vor,
                                 sim: fahrt.sim ? { kmh: fahrt.sim.kmh, faktor: fahrt.sim.f } : null, fenster: FENSTER,
                                 start: fahrt.start, ende: fahrt.ende, ort_der_fahrt: fahrt.ortDerFahrt || null, notiz: fahrt.notiz || '',
-                                fenster_je_ort: orte, ereignisse: fahrt.ereignisse, fragen: fahrt.log }, null, 1);
+                                orte_im_topf: fahrt.orte.length, zeiten: 'Sekunden ab Fahrtbeginn',
+                                fenster_je_ort: orte, ereignisse: fahrt.ereignisse, fragen: fahrt.log, spur: spur }, null, 1);
     var ok = function(){ $('e-hinweis').textContent = 'Protokoll in der Zwischenablage – bitte in den Feldtest-Bogen oder an Claude geben.'; };
     var zeigen = function(){ var t = $('e-protokoll-text'); t.hidden = false; t.value = text; t.focus(); t.select();
       $('e-hinweis').textContent = 'Kopieren hier nicht möglich – das Protokoll steht markiert im Feld unten.'; };
     try{ navigator.clipboard.writeText(text).then(ok, zeigen); }catch(e){ zeigen(); }
   };
   $('e-neu').onclick = function(){ fahrt = null; sichern('fahrt', null); startZeichnen(); show('s-start'); };
+  // Verlauf löschen (Mike 2026-10-19): gespielte Karten vergessen, damit alle Fragen wieder kommen; die laufende Fahrt bleibt
+  $('verlauf-loeschen').onclick = function(){
+    var n = Object.keys(gespielt).reduce(function(s, r){ return s + gespielt[r].length; }, 0);
+    if(!n){ $('vorrat-info').textContent = 'Noch keine gespielten Karten gemerkt.'; return; }
+    if(!window.confirm(n + ' gespielte Karten vergessen? Danach können alle Fragen wieder kommen.')) return;
+    gespielt = {}; sichern('gespielt', gespielt); startZeichnen();
+  };
 
   // Bildschirm anlassen (unterwegs)
   try{ if(navigator.wakeLock) navigator.wakeLock.request('screen').catch(function(){}); }catch(e){}
