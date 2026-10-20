@@ -1,0 +1,340 @@
+ENTITÄT: ort
+BEZEICHNUNG: Tiengen
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ersterwaehnungsjahr: 888
+  ersterwaehnungsform: Tunginga
+  bundesland: Baden-Württemberg
+  stadt: Freiburg im Breisgau
+  lage_zu_stadt: zehn Kilometer westlich
+  lage_detail: am Tuniberg zwischen Opfingen und Munzingen
+  einwohner: 3700
+  einwohner_stand: Ende 2022
+  gemarkung_groesse: 838
+  gemarkung_groesse_einheit: ha
+  unbebaut_flaeche: 746
+  unbebaut_flaeche_einheit: ha
+  eingemeindungsjahr: 1973
+  eingemeindungsdatum: 1. Januar
+  bevölkerungstrend_seit_1970: großer Einwohnerzuwachs, Pendlergemeinde
+  wirtschaft_weinbau: hat in letzten Jahren an relativer Bedeutung stark eingebüßt
+  dialekt: Hochalemannisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Symphoriankirche
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7743/Tiengen | Landesportal
+EIGENSCHAFTEN:
+  patrozinium: St. Symphorian
+  ersterwaehnungsjahr: 1275
+  baujahr_neuaufbau: 1751
+  besonderheit_bausubstanz: Untergeschosse des mittelalterlichen Turms erhalten
+  kirchensatz_gehoert_zu: Basler Dompropsteihof
+  religionszugehoerigkeit: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Symphorianus
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  religionszugehoerigkeit: evangelisch
+  turmhoehe: 36
+  turmhoehe_einheit: Meter
+  besonderheit_turmhoehe: Spitze liegt auf gleicher Höhe wie der Freiburger Münsterplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Reutemattensee
+FACETTE: LAGE | FREIZEIT
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Niedermoor, ehemaliger Badesee
+  entstehung: ehemaliger Baggersee
+  lage: am Autobahnanschluss, ein Kilometer östlich des Ortes
+  funktion_heute: Badesee
+  grund_baden_moeglich: verschließung des künstlichen Zulaufs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Arlesheimer See
+FACETTE: LAGE | FREIZEIT | NATURSCHUTZ
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: ehemaliger Baggersee
+  lage: östlich der Autobahn im Mooswald
+  zugaenglichkeit: unzugänglich
+  grund_unzugeaenglichkeit: liegt in einem Naturschutzgebiet
+  status_schutzgebiet: seit 1966
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Mühlbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Entlang des Mühlbachs verläuft ein Radweg von Tiengen nach Opfingen und Waltershofen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Zur Ehre den Kriegern vom Jahr 1870/71
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kriegerdenkmal
+  bezug: Deutsch-Französischer Krieg
+  jahr_kriegereignis: 1870-1871
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Den Gefallenen der Gemeinde Tiengen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kriegerdenkmal
+  bezug: Gefallene der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Tuniberghaus
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Veranstaltungsstätte
+  lage: am östlichen Ortsrand
+  baujahr: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gaststaette
+BEZEICHNUNG: Zum Anker
+FACETTE: ALLTAG | LAGE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gasthaus
+  lage: in der Ortsmitte
+  urspruengliche_funktion: Poststation
+  baujahr: 1650
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: weingut
+BEZEICHNUNG: Schlatthöfe
+FACETTE: ALLTAG | LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: außerhalb des Ortes im Mooswald, in der Nähe des Freiburger Thermalbades
+  entstehungsjahr_urspruenglich: 13. Jahrhundert
+  heute_funktion: Weingut mit Straußwirtschaft
+  bedeutung_fuer_ort: bekannt durch das Weingut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wohngebiet
+BEZEICHNUNG: Terrassenhäuser
+FACETTE: ALLTAG | LAGE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1973
+  beschreibung: auffällig im Ortsbild
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrslinie
+BEZEICHNUNG: Schnellbuslinie 37
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ziel: Freiburger Hauptbahnhof
+  fahrzeit: 20 Minuten
+  start_betrieb: Dezember 2022
+  taktfolge_betriebstage: Halbstundentakt vormittags und nachmittags
+  zielgruppe: Pendler
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Breisgau-Radwanderweg
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 64
+  laenge_einheit: km
+  streckenabschnitt_tiengen: verläuft entlang des Mühlbachs von Tiengen nach Opfingen und Waltershofen
+  startort: Breisach
+  zielort: Herbolzheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Grüne Straße
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  startort: Titisee-Neustadt
+  zielort: Contrexéville
+  streckenabschnitt_tiengen: verläuft entlang des Mühlbachs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Europäischer Radwanderweg Freiburg–Colmar
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  startort: Freiburg
+  zielort: Colmar
+  streckenabschnitt_tiengen: verläuft entlang des Mühlbachs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Tunibergradweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Über den Tuniberg
+  anschluss_maerzen: mit Merdingen und Gottenheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: personalitaet
+BEZEICHNUNG: Anna Ewers
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1993
+  beruf: deutsches Model
+  herkunft: Freiburg-Tiengen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Gaisenmoos
+FACETTE: LAGE | NATURSCHUTZ
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  status_schutzgebiet: seit 1995
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Tiengen
+FACETTE: GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: gespaltenem Schild vorne in Silber ein aufgerichteter, linksgewendeter schwarzer Bär, hinten in Rot ein silberner Bischofsstab (Baselstab)
+  bedeutung_fuer_ort: zeigt Besitzverhältnisse an
+  bedeutung_baer: steht für St. Gallen
+  bedeutung_baselstab: steht für Basel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: herrschaftsverhaeltnis
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7743/Tiengen | Landesportal
+EIGENSCHAFTEN:
+  herrschaftsverlauf: 1008 Bistum Basel; 11. Jahrhundert Basler bischöfliche Ministeriale; Basler Dinghof (seit 1250 Dompropsteihof); Grafen von Hohenberg; Habsburger; 1271 Kloster St. Märgen; Grafen von Freiburg (Vogteirechte); nach 1368 Herrschaft Badenweiler; 1399 Österreich; Grafen/Markgrafen von Hachberg-Sausenberg; 1499 Markgrafen von Baden
+  badesee_see_der_untergeschosse: mittelalterlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7743/Tiengen | Landesportal
+EIGENSCHAFTEN:
+  administrative_zuordnung_1803: Sitz des neugebildeten Stabsamtes Wolfenweiler
+  administrative_zuordnung_seit_1807: dem Freiburger Amtssitz zugeteilt
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1803
+GUELTIG_BIS: 1807
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Frelo-Station
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Tiengen
+QUELLE: https://de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Fahrradverleihsystem
+  stadt: Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

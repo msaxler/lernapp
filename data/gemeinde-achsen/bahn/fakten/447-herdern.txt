@@ -1,0 +1,487 @@
+ID: 447-herdern/001
+ENTITÄT: ort
+BEZEICHNUNG: Herdern
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: nordöstlich der Innenstadt Freiburgs
+  grenzt_nord: Zähringen
+  grenzt_suedlich: Neuburg
+  grenzt_west: Stühlinger und Brühl (getrennt durch Rheintalbahn-Gleise)
+  grenzt_ost: Westhänge des Roßkopfs
+  einwohner: 12700
+  einwohner_stand: 2026
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 447-herdern/002
+ENTITÄT: ort
+BEZEICHNUNG: Herdern
+FACETTE: GESCHICHTE | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7716/Herdern | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung_jahr: 1008
+  ersterwahnung_form: Harderen
+  ersterwahnung_quelle: Wildbannurkunde
+  historische_namensform_1: Harderen
+  historische_namensform_jahr_1: 1008
+  historische_namensform_2: Herdra
+  historische_namensform_jahr_2: 1190
+  namensherkunft: wahrscheinlich von Herden oder Hirten
+  eigenstaendiges_dorf_bis: 1457
+  stadt_freiburg_seit: 1457
+  erste_herrscher: Herzöge von Zähringen
+  folgende_herrscher: Grafen von Freiburg
+  folgende_herrscher_2: Fürstenberg
+  oberlehensherren: Bischöfe von Straßburg (bis Anfang 15. Jahrhundert)
+  niederadel_periode: 13. bis 15. Jahrhundert
+GUELTIG_AB: 1008
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 447-herdern/003
+ENTITÄT: kirche
+BEZEICHNUNG: St. Urbans-Pfarrkirche
+FACETTE: GESCHICHTE | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7716/Herdern | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung: 1239
+  patron: St. Urban
+  patron_bedeutung: Patron der Winzer und Rebleute
+  bauzeit_neubau: 1839-1841
+  aenderungen_1936: umgebaut und erweitert
+  patronat_historie: mit dem Besitz des Dinghofs verbunden, ab 1457 vom Deutschen Orden vorbehalten
+  seelsorge_geschichte: 17./18. Jahrhundert schwierig, 1787 erster ständiger Ortspfarrer wieder aufgezogen
+  bedeutung_fuer_ort: erinnert an Weinbau-Vergangenheit Herdens
+GUELTIG_AB: 1239
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 447-herdern/004
+ENTITÄT: schloss_wasserschloss
+BEZEICHNUNG: Dinghof
+FACETTE: GESCHICHTE | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7716/Herdern | Landesportal
+EIGENSCHAFTEN:
+  typ: Wasserschloss
+  ersterwahnung: 1417
+  eigentuemer_1417: Fürstenberger
+  eigentuemer_1447: Freiburger Deutschordens-Kommende
+  eigentuemer_ab_1457: Stadt Freiburg (mit Verkauf der Ortsobrigkeit)
+  eigentuemer_mitte_16_jhd: Dr. Schiller (berühmter Arzt)
+  eigentuemer_name_aenderung: Schiller von Herdern (nach Erwerb des Dinghofs)
+GUELTIG_AB: 1417
+GUELTIG_BIS: 
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 447-herdern/005
+ENTITÄT: person
+BEZEICHNUNG: Johann Pedius Tethinger
+FACETTE: GESCHICHTE | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  taetigkeitsbereich: Verfasser einer Geschichte Herdens
+  werk: lateinische Geschichte über Herdern in Gedichtform
+  werk_jahr: 1543
+GUELTIG_AB: 1543
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 447-herdern/006
+ENTITÄT: gymnasium
+BEZEICHNUNG: Friedrich-Gymnasium
+FACETTE: INFRA | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr: 1903
+  errichtung_monat: Juli
+  bauzeit: 1901-1903
+  architekt: Josef Durm
+  ausrichtung: alt- und neusprachlich
+  bedeutung_fuer_ort: Markante Schule des Stadtteils
+GUELTIG_AB: 1903
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 447-herdern/007
+ENTITÄT: gymnasium
+BEZEICHNUNG: Kepler-Gymnasium (ehemals Oberrealschule)
+FACETTE: INFRA | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr: 1907
+  urspruenglicher_name: Oberrealschule
+  spaeterer_name: Kepler-Gymnasium
+  situation_heute: Gebäude bis auf markanten Turm abgerissen, neue Schule im Rieselfeld
+GUELTIG_AB: 1907
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 447-herdern/008
+ENTITÄT: gymnasium
+BEZEICHNUNG: Droste-Hülshoff-Gymnasium
+FACETTE: INFRA | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr: 1965
+  bauzeit: 1965-1966
+  architekt: Behnisch & Partner
+  ausrichtung: mathematisch-naturwissenschaftlich mit neusprachlichem und künstlerischem Zweig
+GUELTIG_AB: 1965
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 447-herdern/009
+ENTITÄT: stadtquartier
+BEZEICHNUNG: Musikerviertel
+FACETTE: GESCHICHTE | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  entstehung_beginn: 1933
+  charakteristika: Straßennamen nach deutschen Musikern
+  benannt_nach_ideologie: nationalsozialistische Ideologie
+  beschreibung: Haupterschließungsstraße (Wagner) für Lieblingskomponist der Nazis, Mittelstraße (Bach) für Basis deutscher Musik, Querstraßen chronologisch von Händel bis Bruckner zur Propagierung der Eroberung neuen Lebensraumes im Osten
+GUELTIG_AB: 1933
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 447-herdern/010
+ENTITÄT: sozio_kulturelles_zentrum
+BEZEICHNUNG: FABRIK für Handwerk, Kultur & Ökologie
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Habsburgerstraße
+  gruendung: 1978
+  groesse_kategorie: eines der größten und ältesten sozio-kulturellen Zentren in Deutschland
+  nutzung_vorher: Garnfabrik (davor Möbelfabrik)
+  betriebe_einrichtungen: 25
+  mitarbeiter: ca. 150
+  beispiel_betriebe: Druckerei, Fahrradwerkstatt, Kindertagesstätte, Motorradclub
+  innovation_blockheizkraftwerk: 1987 erstes Freiburger Blockheizkraftwerk eingebaut
+  barrierefreiheit: 2001 ganzes Gelände und alle Gebäude barrierefrei erschlossen
+  kleinkuenstlerbuehne: Vorderhaus mit Restaurant
+  bedeutung_fuer_ort: Kulturelles und wirtschaftliches Zentrum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 447-herdern/011
+ENTITÄT: hallenbad
+BEZEICHNUNG: Licht-Luft-Sportbad am Hebsack
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  errichtung: 1923
+GUELTIG_AB: 1923
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 447-herdern/012
+ENTITÄT: sportstatte
+BEZEICHNUNG: Sporthalle der Weiherhof-Grundschule
+FACETTE: INFRA | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  errichtung: 1965
+GUELTIG_AB: 1965
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 447-herdern/013
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Roßkopfturm
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  errichtung: 1889
+  lage: östlich Herdens auf Westhängen des Roßkopfs
+GUELTIG_AB: 1889
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 447-herdern/014
+ENTITÄT: botanischer_garten
+BEZEICHNUNG: Botanischer Garten (Fakultät für Biologie)
+FACETTE: FREIZEIT | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Fakultät für Biologie der Albert-Ludwigs-Universität Freiburg
+  lage: Herdern
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 447-herdern/015
+ENTITÄT: hochschule
+BEZEICHNUNG: Katholische Hochschule Freiburg
+FACETTE: INFRA | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  schwerpunkte: Sozialwesen, Religionspädagogik, Pflege und Management
+  fruehere_bezeichnung: KFH
+  lage: Herdern
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 447-herdern/016
+ENTITÄT: universitaetsabteilung
+BEZEICHNUNG: Fakultät für Biologie (Albert-Ludwigs-Universität Freiburg)
+FACETTE: INFRA | BILDUNG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Herdern
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 447-herdern/017
+ENTITÄT: klinik
+BEZEICHNUNG: Klinik für Dermatologie und Venerologie
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  traeger: Universitätsklinikum Freiburg (Außenstelle)
+  lage: Herdern
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 447-herdern/018
+ENTITÄT: klinik
+BEZEICHNUNG: Klinik für Psychiatrie und Psychotherapie
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  traeger: Universitätsklinikum Freiburg (Außenstelle)
+  lage: Herdern
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 447-herdern/019
+ENTITÄT: fest_brauch
+BEZEICHNUNG: Seifenkistenrennen
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erste_durchfuehrung: 1931
+  haendigkeit: jährlich (mit Unterbrechungen)
+  termin_seit_1999: letzter Sonntag im September
+  veranstaltungsort: Eichhalde
+  organisatoren: Herdermer Vereine
+GUELTIG_AB: 1931
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 447-herdern/020
+ENTITÄT: fest_brauch
+BEZEICHNUNG: Herdermer Hock
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  haendigkeit: einmal jährlich
+  veranstaltungsort: Kirchplatz im Ortszentrum
+  organisatoren: Arbeitsgemeinschaft der Herdermer Vereine (AGHV)
+  zusammensetzung_organisatoren: Turnverein Freiburg-Herdern, herdermer Abteilung der Freiwilligen Feuerwehr, Fasnachtszunft der Herdermer Lalli
+  sommerhock_dauer: Freitag bis Montag
+  besucher: tausende jährlich
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 447-herdern/021
+ENTITÄT: wanderweg
+BEZEICHNUNG: Zähringer-Wanderweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  laenge: 74 km
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 447-herdern/022
+ENTITÄT: wanderweg
+BEZEICHNUNG: Breisgauer Weinweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  bezug_herdern: führt durch Region mit Weinbau-Tradition
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 447-herdern/023
+ENTITÄT: bahnhof
+BEZEICHNUNG: Freiburg-Herdern
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Rheintalbahn
+  bahnverbindungen: Breisgau-S-Bahn (über Elztalbahn nach Denzlingen, Waldkirch, Elzach)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 447-herdern/024
+ENTITÄT: gewaesser
+BEZEICHNUNG: Glasbach
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: entlang des alten Dorfkerns Herdens
+  bedeutung_19_jhd: rege Bautätigkeit rund um Glasbach im 19. Jahrhundert
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 447-herdern/025
+ENTITÄT: person
+BEZEICHNUNG: Dr. Schiller
+FACETTE: GESCHICHTE | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7716/Herdern | Landesportal
+EIGENSCHAFTEN:
+  beruf: berühmter Arzt
+  erwerb_dinghof: Mitte 16. Jahrhundert
+  namensaenderung: nannte sich danach Schiller von Herdern
+GUELTIG_AB: 1550
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 447-herdern/026
+ENTITÄT: person
+BEZEICHNUNG: Otto Winterer
+FACETTE: GESCHICHTE | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Oberbürgermeister
+  aktion: viele Mammutbäume in Herdern gepflanzt
+  zeitraum: Anfang des 20. Jahrhunderts
+  bedeutung_fuer_ort: prägte Baumbestand Herdens
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 447-herdern/027
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Gottenheim
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  vertragsabschluss: Dezember 2010
+  typ_partnerschaft: Umlandgemeinde-Partnerschaft
+GUELTIG_AB: 2010
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 447-herdern/028
+ENTITÄT: denkmal
+BEZEICHNUNG: Ehrenmal Wintererstraße/Eichhalde
+FACETTE: GESCHICHTE | IDENTITAET
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  anlass_begehung: Totensonntag
+  begehung_frequenz: jährlich
+  initiator: Bürgerverein Herdern
+  besonderheit_2019: Gedenken an Bombenangriff auf Freiburg 75 Jahre zuvor (1944)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 447-herdern/029
+ENTITÄT: moschee
+BEZEICHNUNG: Abdurrahman-Moschee
+FACETTE: KULTUR | RELIGION
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: Zentrum der salafistischen Szene Südbadens
+  lage: Herdern
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 447-herdern/030
+ENTITÄT: behoerdenzentrum
+BEZEICHNUNG: Behördenzentrum Herdern
+FACETTE: INFRA | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: westlich der Habsburgerstraße, weniger gehobener Bereich
+  behoerden: Finanzämter Freiburg I und II und weitere Landesbehörden
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 447-herdern/031
+ENTITÄT: zentralverwaltung
+BEZEICHNUNG: Zentrale des Deutschen Caritasverbandes (DCV)
+FACETTE: INFRA | POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Herdern, neben Gelände der Katholischen Hochschule
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

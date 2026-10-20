@@ -1,0 +1,582 @@
+{
+ "ort": "449-bruehl-freiburg",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Kultur": [
+   {
+    "name": "Kino Kandelhof",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://friedrichsbau-kino.de",
+    "tags": {
+     "amenity": "cinema"
+    }
+   },
+   {
+    "name": "Delphi Space",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.delphi-space.com/",
+    "tags": {
+     "amenity": "arts_centre"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Eiger Nord",
+    "zusatz": "climbing",
+    "wikipedia": null,
+    "website": "https://www.eigernord.de/",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "climbing"
+    }
+   },
+   {
+    "name": "Rückgrat",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": "http://www.rueckgrat-freiburg.de",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Yoga & Pilates Center",
+    "zusatz": "yoga",
+    "wikipedia": null,
+    "website": "https://yoga-pilates-freiburg.de/",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "yoga"
+    }
+   },
+   {
+    "name": "kraft.werk powered by Rückgrat",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Amrita Naturheilpraxis",
+    "zusatz": "yoga",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "yoga"
+    }
+   },
+   {
+    "name": "Gym 52",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Germania",
+    "zusatz": "seit 1929",
+    "wikipedia": "de:Hauptfriedhof Freiburg im Breisgau",
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Grab- und Ehrenmal 27. November 1944",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Vertriebenenkreuz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hedwig Metzger",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hedwig-metzger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Fritz Hauser",
+    "zusatz": "seit 2010",
+    "wikipedia": null,
+    "website": "https://der-liebe-wegen.org/?profil=fritz-friedrich-hauser",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Leo Metzger",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/leo-metzger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Dr. Else Hamburge",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/dr-else-hamburger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Fritz Hamburger",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/fritz-hamburger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Dr. Bertha Ottenstein",
+    "zusatz": "seit 2020",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/dr-bertha-ottenstein/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Alte Einsegnungshalle",
+    "zusatz": "seit 1872",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "ruins"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Klimmzugstangen",
+    "zusatz": "athletics",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "track",
+     "sport": "athletics"
+    }
+   },
+   {
+    "name": "Europa-Park Stadion",
+    "zusatz": "soccer",
+    "wikipedia": "de:Europa-Park-Stadion",
+    "website": "https://www.scfreiburg.com/",
+    "tags": {
+     "leisure": "stadium",
+     "sport": "soccer",
+     "tourism": "attraction"
+    }
+   }
+  ],
+  "Gipfel": [
+   {
+    "name": "Wolfsbuck",
+    "zusatz": "260 m",
+    "wikipedia": null,
+    "website": "https://www.freiburg-schwarzwald.de/blog/regio/berge/wolfsbuck/",
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Eichelbuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   }
+  ],
+  "Museum": [
+   {
+    "name": "PEAC Museum",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "museum"
+    }
+   }
+  ],
+  "Brauerei/Winzer": [
+   {
+    "name": "Braukollektiv",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "craft": "brewery"
+    }
+   }
+  ],
+  "Betrieb": [
+   {
+    "name": "MSW Metallhandel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.msw-metallhandel.de",
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Madeira",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.madeira.com",
+    "tags": {
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "Dietsche  Services - Lagerhaus - Vermietungen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "Chefs Culinar",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "Advantek",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "HEMA Hydraulik GmbH",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "TDK-Micronas GmbH",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Pfizer Manufacturing Deutschland",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Friedhofsmeisterei",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Streck Transportgesellschaft mbH",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.streck-transport.com/",
+    "tags": {
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "Recyclinghof St. Gabriel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.abfallwirtschaft-freiburg.de/de/private_haushalte/Recyclinghoefe/StGabriel.php",
+    "tags": {
+     "amenity": "recycling",
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "InfraRHOD Industriepark",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Max-Planck-Institut für Immunbiologie und Epigenetik",
+    "zusatz": "",
+    "wikipedia": "de:Max-Planck-Institut für Immunbiologie und Epigenetik",
+    "website": null,
+    "tags": {
+     "amenity": "research_institute",
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Allos Schwarzwald GmbH",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.allos.de/",
+    "tags": {
+     "man_made": "works"
+    }
+   },
+   {
+    "name": "Industriegebiet Nord",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   }
+  ],
+  "Bahnhof": [
+   {
+    "name": "Freiburg Messe/Universität",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.bahnhof.de/freiburg-messe-universitaet",
+    "tags": {
+     "railway": "halt"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Schobbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Rossgässlebach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Dorfbach Zähringen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Brandbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Hagelbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Hanfreezenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Karrenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Abtsmattenbächle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Mühlbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Brutbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Lausbühlbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Hochdorfer Bach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Scheidbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Dillenbächle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Storchenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Schutzgebiet": [
+   {
+    "name": "Güterbahnhof CEF-Fläche",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "scrub"
+    }
+   },
+   {
+    "name": "Schangen-Dierloch",
+    "zusatz": "",
+    "wikipedia": "de:Schangen-Dierloch",
+    "website": null,
+    "tags": {
+     "leisure": "nature_reserve"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Breisgau-Radwanderweg",
+    "zusatz": "64 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Radweg FR2",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Bildung": [
+   {
+    "name": "Albert-Ludwigs-Universität Freiburg",
+    "zusatz": "",
+    "wikipedia": "de:Albert-Ludwigs-Universität Freiburg",
+    "website": "https://uni-freiburg.de",
+    "tags": {
+     "amenity": "university"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,605 @@
+ZIELORT: Vauban (Ortsteil von Freiburg im Breisgau)
+LAGE: Stadtteil von Freiburg im Breisgau, 3 km südwestlich der Stadtmitte (Luftlinie)
+ARTIKEL: Vauban (Freiburg im Breisgau)
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Freiburg im Breisgau — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P131]
+  bundesland: Baden-Württemberg — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [über die Gemeinde]
+  einwohner: 5146  [Wikidata P1082, Stand 2024]
+  flaeche_km2: 0,41  [Wikidata P2046]
+  dichte_ew_km2: 12.551  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P395]
+  hoehe_m: 255 | 260  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 11594339)]
+  naechste_grossstadt: Freiburg im Breisgau, 3 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 134 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 79100  [Wikidata P281]
+  vorwahl: 0761  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 46,3 %, Die Linke 27,1 %, SPD 10,1 %, CDU 6 %; Wahlbeteiligung 92,6 %  [Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 92,6 %, Abstand 9,2 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Burg/Denkmal: Georg-Elser-Denkmal (306 m)
+  Sportstätte: Kletterkartoffel (climbing)
+  Sportstätte: Karoline-Kaspar-Schule (multi)
+  Kultur: Diva
+  Gewässer: Dorfbach
+  Radweg: Südschwarzwald-Radweg (269 km)
+  Wanderweg: Himmelreich-Jakobusweg
+
+PLAN:
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 3
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 1
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 2
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 3
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE POLITIK, Klassiker, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent – AUFFÄLLIG: 92,6 % gegen 83,4 % im Bundesland; als Vergleich fragen, Spannen um den Landeswert legen; C, wahre Spanne an Stelle 1
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Sankt Georgen (Ortsteil von Freiburg im Breisgau)
+  landkreis: Stadtkreis Freiburg im Breisgau — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P131]
+  einwohner: 12.962  [Wikidata P1082, Stand 2024]
+  flaeche_km2: 10,67  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P395]
+  hoehe_m: 243 | 230 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2841625)]
+  naechste_grossstadt: Freiburg im Breisgau, 4 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 30,2 %, CDU 17,9 %, Die Linke 16,9 %, SPD 15,2 %, AfD 8,8 %; Wahlbeteiligung 85,7 % — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 85,7 %, Abstand 2,3 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, March, Umkirch, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Kirchzarten, Stegen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Vauban):
+ID: 453-vauban/001
+ENTITÄT: ort
+BEZEICHNUNG: Quartier Vauban
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 5200
+  lage: im Süden Freiburgs
+  grenzt_an: Merzhausen (südlich)
+  gemarkung: St. Georgen
+  stadtteil_nummer: 680
+  flaeche_hektar: 41
+  besendelung_dichte_ew_pro_qkm: 12500
+GUELTIG_AB: 2008
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 453-vauban/002
+ENTITÄT: ort
+BEZEICHNUNG: Quartier Vauban
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ursprung_name: Schlageter-Kaserne
+  ursprung_year: 1937-1938
+  benannt_nach: Albert Leo Schlageter (Freikorps-Aktivist, NS-Bewegung)
+  umbenannt_zu: Vauban-Kaserne
+  umbenannt_wann: 1945
+  umbenannt_grund: Übernamen durch französische Armee
+  namenspatroin_beschreibung: Sébastien Le Prestre de Vauban, französischer Festungsbaumeister, baute Freiburg 1679-1697 zu sternförmiger Festung um und Neuf-Brisach 1699-1703
+  militaer_abzug_datum: 15. August 1992
+  grund_abzug: Deutsche Wiedervereinigung, Zwei-plus-Vier-Vertrag
+  stadium_entwicklung: ehemalige Kasernengelände
+GUELTIG_AB: 1937
+GUELTIG_BIS: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/003
+ENTITÄT: ort
+BEZEICHNUNG: Quartier Vauban
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erste_konversion_idee: 1994
+  forum_vauban_gruendung: 22. Dezember 1994
+  forum_vauban_startkapital_dm: 98000
+  forum_vauban_initiative_gründer: Matthias-Martin Lübke, Andre Heuss
+  bebauungsplan_rechtskraeftig: 1997
+  erste_baumassnamen_beginn: April 1998
+  erste_bewohner: Ende 1998
+  einwohnerzahl_01_07_2006: 4100
+  einwohnerzahl_ende_2008: 5000
+  einwohnerzahl_ende_2013: 5631
+  expo_2010_praesentiert: ja
+  expo_2010_bereich: Urban Best Practices
+  teilweise_selbstverwaltet: true
+  umweltfreundlich_ausgerichtet: true
+  autofrei_konzept: true
+GUELTIG_AB: 1994
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 453-vauban/004
+ENTITÄT: militaergebaeude
+BEZEICHNUNG: Schlageter-Kaserne (später Vauban-Kaserne)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.freiburg.de/pb/208760.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustart: 1938
+  ort: Gewann Feldmatten, St. Georgen
+  bauflaeche_hektar: ca. 38
+  stadt_kauf_flaeche_hektar: 34
+  stadt_kauf_preis_euro: 20450000
+  stadt_kauf_preis_konvertiert: true
+  stadt_kauf_beteiligung_studentenwerk: ca. 4 ha
+  stadt_kauf_beteiligung_susi: ca. 4 ha
+  abbruch_kaserngebaeude: vor April 1998
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/005
+ENTITÄT: verein
+BEZEICHNUNG: Forum Vauban
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_datum: 22. Dezember 1994
+  startkapital_dm: 98000
+  gruendungs_initiator_1: Matthias-Martin Lübke
+  gruendungs_initiator_2: Andre Heuss
+  ziel: Stadtteil als nachhaltigen Modellstadtteil gestalten
+  beteiligung_typ: Erweiterte Bürgerbeteiligung
+  erfolg: ökologisch-alternative Impulse in Planung eingeflossen
+  durchgesetzte_konzepte: auto-/stellplatzfreies Verkehrskonzept, Niedrigenergie-/Passiväuser, Holzhackschnitzel-Blockheizkraftwerk
+GUELTIG_AB: 1994
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/006
+ENTITÄT: schule
+BEZEICHNUNG: Karoline-Kaspar-Grundschule
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: Grundschule
+  benoetigt_erwerbung: kurz nach Eröffnung
+  grund_erweiterung: hohe Kinderzahl im Stadtteil
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 453-vauban/007
+ENTITÄT: denkmal
+BEZEICHNUNG: Georg-Elser-Denkmal
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: Denkmal für Hitler-Attentäter
+  ursprungsmaterial: Pappelholz
+  errichtet_wann: 2004
+  errichtet_wo: Grünspange nahe Georg-Elser-Straße
+  abbau_wann: 2013
+  abbau_grund: Pappelholz verrottet
+  neubau_wann: 2015
+  neubau_material: Robinienholz
+GUELTIG_AB: 2004
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/008
+ENTITÄT: hotel
+BEZEICHNUNG: Green City Hotel Vauban
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: erstes Integratives Hotel Freiburgs
+  teil_von: Stadthaus M1
+  architekt: Barkow Leibinger Architekten (Berlin)
+  fertigstellung: 2013
+GUELTIG_AB: 2013
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 453-vauban/009
+ENTITÄT: freizeiteinrichtung
+BEZEICHNUNG: Kinderabenteuerhof
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: St. Georgen
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: Freizeiteinrichtung für Kinder
+  traeger: Verein
+  gelaende_groesse_qm: 11000
+  barrierefrei_teilweise: true
+  angebote: tier-, natur-, handwerk- und erlebnispädagogische Angebote
+  lage: jenseits des Dorfbaches auf St. Georgener Gemarkung
+  bestand_seit: 1998
+GUELTIG_AB: 1998
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 453-vauban/010
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Grünspangen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: Grünflächensystem
+  anzahl: 3
+  ausrichtung: Nord-Süd
+  flaeche_hektar_gesamt: 15
+  planung: verschiedene Gartenarchitekten mit Bevölkerung
+  beinhalten: Dorfbach (von Merzhausen kommend), Spielangebote für Kinder und Jugendliche, selbstverwaltetes Backhaus
+  baeume_erhalten: ueber 60 Jahre alt (Linde, Ahorn, Platane, Buche), z.B. auf Vaubanallee
+  auszeichnung: 2013 vom Bund Deutscher Landschaftsarchitekten unter hundert besonderen Orten gewürdigt
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/011
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Weidendom
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: Kunstwerk/Grünanlage
+  material: Weiden
+  neu_errichtet: true
+  lage: nahe der Straßenbahnendhaltestelle
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 453-vauban/012
+ENTITÄT: stadtteilzentrum
+BEZEICHNUNG: Haus 037
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: selbstverwaltetes Stadtteilzentrum
+  untergebracht_in: erhaltenes ehemaliges Kasernengebäude
+  zweck: Stadtteilzentrum, alternative Nutzung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 453-vauban/013
+ENTITÄT: wohnprojekt
+BEZEICHNUNG: Genova
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: genossenschaftliches Bau- und Wohnprojekt
+  organisationsform: Baugruppe
+  konstruktion_art: Selbstbau mit Eigenleistung
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 453-vauban/014
+ENTITÄT: wohninitiative
+BEZEICHNUNG: S.U.S.I. (Selbstorganisierte Unabhängige SiedlungsInitiative)
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: Wohninitiative alternative
+  zweck: Wohnraum für Studierende und Sozialwohnungen, alternatives Wohnkonzept
+  massnahme: Umnutzung alter Kasernengebäude kostengünstig
+  beteiligung_kasernenflaeche: ca. 4 ha
+GUELTIG_AB: 1992
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 453-vauban/015
+ENTITÄT: verein
+BEZEICHNUNG: Autofreiverein
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: durch Initiatoren des Verkehrskonzepts
+  aufgabe: Überwachung Einhaltung Regeln autofreies Wohnen
+  vermuteter_regelverstosse_prozent: 10-15% der erwachsenen Bewohner versuchen Regeln zu umgehen
+GUELTIG_AB: 1990er
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 453-vauban/016
+ENTITÄT: oepnv_linie
+BEZEICHNUNG: Linie 4 (Freiburger Verkehrs AG)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  netzanschluss: Straßenbahnlinie
+  betreiber: Freiburger Verkehrs AG (VAG)
+  haltestellen_anzahl: 3
+  haltestelle_1: Paula-Modersohn-Platz (mit Anschluss SBG-Buslinie 7208)
+  haltestelle_2: n.n.
+  haltestelle_3: Innsbrucker Straße (Endhaltestelle mit Anschluss Buslinie 11)
+  betriebsbeginn: April 2006
+GUELTIG_AB: 2006
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/017
+ENTITÄT: radweg
+BEZEICHNUNG: FR 7 Radvorrangroute
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: entlang Merzhauser Straße
+  anbindung: Verbindung zur Wiehre und weiter zur Innenstadt
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 453-vauban/018
+ENTITÄT: radweg
+BEZEICHNUNG: FR 3 Radvorrangroute
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: über Lörracher Straße
+  anbindung: verbindet Vauban mit Haslach und Stühlinger
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 453-vauban/019
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stadthaus M1
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  architekt: Barkow Leibinger Architekten (Berlin)
+  fertigstellung: 2013
+  nutzer_1: Green City Hotel Vauban (integratives Hotel)
+  nutzer_2: Wohn- und Geschäftshaus gehobener Ausstattung
+  standort: Eingangsbereich Vauban
+GUELTIG_AB: 2013
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 453-vauban/020
+ENTITÄT: gebaeude
+BEZEICHNUNG: V8
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: Wohngebäude
+  fertigstellung: Anfang 2017
+  standort: Ecke Wiesentalstraße / Merzhauser Straße
+  bedeutung: letzte Baulücke im Stadtteil
+GUELTIG_AB: 2017
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 453-vauban/021
+ENTITÄT: energiekonzept
+BEZEICHNUNG: Plusenergiehäuser (Solarsiedlung)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: Energieautarke Häuser
+  anzahl_einheiten: ca. 100
+  leistung: erzeugen über das Jahr gerechnet mehr Energie als sie verbrauchen
+  standort: östlich der Merzhauser Straße
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/022
+ENTITÄT: energiekonzept
+BEZEICHNUNG: Passivhäuser
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: Häuser mit minimalstem Energieverbrauch
+  besonderheit: eines davon erstes Mehrfamilienhaus in Passivhaus-Bauweise in Deutschland
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/023
+ENTITÄT: energiekonzept
+BEZEICHNUNG: Blockheizkraftwerk mit Holzhackschnitzel-Befeuerung
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: Nahwärmesystem modern
+  beschreibung: Blockheizkraftwerk befeuert mit Holzhackschnitzeln
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 453-vauban/024
+ENTITÄT: abwassertechnik
+BEZEICHNUNG: Ecosan-Abwassertechnologie
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: Abwassertechnologie
+  bestaende_in: Teil der Häuser im Stadtteil ausgerüstet
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 453-vauban/025
+ENTITÄT: abwassertechnik
+BEZEICHNUNG: Vakuumtoiletten
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: Toilettentechnik
+  bestaende_in: Teil der Häuser im Stadtteil ausgerüstet
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 453-vauban/026
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Entwässerungssystem Vauban (Mulden-Rigolen-System)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: innovatives Gesamtkonzept Oberflächenentwässerung
+  system: modifiziertes Trennsystem mit naturnaher Regenwasserbewirtschaftung
+  komponenten: dezentrale Niederschlagswasserbewirtschaftung (Gründächer, durchlässige Flächenbefestigung, Grünflächen, Bäume, Regenwassernutzung) + zentrales MRS mit Überlauf in Dorfbach
+  effektivitaet_2011: 87% Abflussreduktion
+  effektivitaet_2012: 66% Abflussreduktion
+  gruendacheffekt: 40-70% Dachablauf-Reduktion
+  nebeneffekte: Lebensraum für Insekten, Aufenthaltsqualität
+  forscher: Universität Freiburg (Untersuchungen)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/027
+ENTITÄT: umweltproblem
+BESCHREIBUNG: Grundwasserverunreinigung
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  schadstoff: Kohlenwasserstoffe
+  grund: frühere militärische Nutzung des Geländes
+  massnahme: eigene Anlage für Grundwasser-Umwälzung und -Austausch
+  ziel: 2026 wieder einwandfrei
+GUELTIG_AB: 1945
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 453-vauban/028
+ENTITÄT: person
+BEZEICHNUNG: Sébastien Le Prestre de Vauban
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  profession: französischer Festungsbaumeister
+  bedeutung_fuer_ort: Namenspate des Stadtteils
+  taetigkeit_freiburg: Bau einer sternförmigen Festung
+  zeitraum_freiburg: 1679-1697
+  taetigkeit_neuf_brisach: Bau Idealtyp sternförmiger Festung auf freiem Feld
+  zeitraum_neuf_brisach: 1699-1703
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/029
+ENTITÄT: person
+BEZEICHNUNG: Albert Leo Schlageter
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Freikorps-Aktivist, Märtyrerfigur der nationalsozialistischen Bewegung
+  bedeutung_fuer_ort: Namenspate der ursprünglichen Kaserne
+  kaserne_name: Schlageter-Kaserne
+  kaserne_betrieb: 1937-1945
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/030
+ENTITÄT: bewoelkerung
+BEZEICHNUNG: Bewohnerschaft Vauban
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  anteil_kinder_unter_18_jahren: ca. 1/3 (Stand 2007)
+  charakteristikum: hoher Kinderanteil
+  besonderheit_vergleich: neben Rieselfeld eine der kinderreichsten Stadtteile Freiburgs
+  ruf: wird oft als kinderreichster in Deutschland bezeichnet
+  hauptgruppe: Familien, organisiert in Baugruppen
+  konstruktionsmethode_familien: Selbstbau mit hoher Eigenleistung
+  weitere_bewohnergruppe: Studierende (in umgenutzten Kaserngebäuden)
+GUELTIG_AB: 1998
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/031
+ENTITÄT: planungsansatz
+BEZEICHNUNG: Bebauungsplan Vauban
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.freiburg.de/pb/208760.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wettbewerb_idee: 1994
+  wettbewerb_gewinner: Kohlhoff & Kohlhoff (Stuttgart)
+  planungsvorgaben: Mischung Arbeit und Wohnen, Vorrang Fußgänger/Radfahrer/ÖPNV, Erhalt Baumbestand und St. Georgener Dorfbach Biotop, Mischung sozialer Gruppen, gute Verbindung Wohnungen zu Freiräumen, Nahwärme und Niedrigenergiebauweise
+  bebauungsplan_umfang_hektar: ca. 40
+  bebauungsplan_rechtskraeftig: 1997
+  marktierung_beginn: 1997
+  baumassnamen_start: März 1998
+GUELTIG_AB: 1994
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 453-vauban/032
+ENTITÄT: gewaesser
+BEZEICHNUNG: Dorfbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: von Merzhausen kommend
+  verlauf: durch St. Georgen und Vauban
+  naturschutz: Bachlauf naturgeschützt
+  bestand: alter Baumbestand
+  bedeutung: Biotop für seltene Tiere
+  entwasserung_verbindung: Überlauf Entwässerungssystem MRS
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

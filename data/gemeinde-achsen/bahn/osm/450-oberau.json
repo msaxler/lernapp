@@ -1,0 +1,464 @@
+{
+ "ort": "450-oberau",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Aussicht": [
+   {
+    "name": "Kleiner Kanonenplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Albertus Magnus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Sternschanze",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "archaeological_site"
+    }
+   },
+   {
+    "name": "Mathilde Schwarz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/mathilde-schwarz/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Otto Schwarz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/otto-schwarz/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Erna Reutlinger",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/erna-reutlinger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Willy Reutlinger",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/willy-reutlinger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hedwig Reutlinger",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hedwig-reutlinger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Carry Judas",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/carry-judas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Albert Lingert",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/albert-lingert/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Leopold Judas",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/leopold-judas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Martin Goldmann",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/martin-goldmann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Jakob Uffenheimer",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/jakob-uffenheimer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   }
+  ],
+  "Natur": [
+   {
+    "name": "Katharinenbrunnen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "spring"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Gewerbebach, Hauptkanal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Dreisam",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Kronenmühlebach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Bildung": [
+   {
+    "name": "Hochschule für Musik Freiburg",
+    "zusatz": "",
+    "wikipedia": "de:Hochschule für Musik Freiburg",
+    "website": "https://www.mh-freiburg.de",
+    "tags": {
+     "amenity": "university"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Dreisamtal-Radwanderweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Südschwarzwald-Radweg",
+    "zusatz": "269 km",
+    "wikipedia": "de:Südschwarzwald-Radweg",
+    "website": "http://www.suedschwarzwald-radweg.info/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Grüne Straße - Route Verte",
+    "zusatz": "250 km",
+    "wikipedia": null,
+    "website": "http://www.gruene-strasse.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Zähringer-Wanderweg",
+    "zusatz": "74 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Breisgauer Weinweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Planetenweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kandel-Höhenweg [05. St. Peter→Freiburg]",
+    "zusatz": "",
+    "wikipedia": "de:Kandelhöhenweg",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Himmelreich-Jakobusweg",
+    "zusatz": "",
+    "wikipedia": "de:Jakobsweg",
+    "website": "https://himmelreich-jakobusweg.de",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Mezsche Gärten Hexenwegle - Freiburg Schwabentor",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kleiner Kanonenplatz - Mezsche Gärten Hexenwegle",
+    "zusatz": "0.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Burggraben Süd - Kleiner Kanonenplatz Treppe",
+    "zusatz": "0.3 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kleiner Kanonenplatz Treppe - Kleiner Kanonenplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Burggraben Süd - Kleiner Kanonenplatz",
+    "zusatz": "0.3 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ludwigshöhe - Burggraben Süd",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kanonenplatz - Burggraben Süd",
+    "zusatz": "0.1 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Krottenweiher - Sieben Linden",
+    "zusatz": "2.0 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Roßkopfhaldenweg - Sieben Linden",
+    "zusatz": "1.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Abgang Sternschanze - Sternschanze",
+    "zusatz": "0.3 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Abgang Sternschanze - St. Ottilien",
+    "zusatz": "2.5 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sieben Linden - Abgang Sternschanze",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sternschanze - Hirzberg Waldkindergarten",
+    "zusatz": "0.3 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hirzberg Waldkindergarten - Am Hirzberg",
+    "zusatz": "0.5 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Hirzberg - Sieben Linden",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Silberbrunnen - Am Hirzberg",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Am Hirzberg - Silberbrunnen",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Silberbrunnen - Beim Silberbrunnen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rote Hütte - Sieben Linden",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Mezsche Gärten Hexenwegle - Freiburg St. Augustinus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Freiburg St. Augustinus - Freiburg Max-Müller-Steg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Freiburg Max-Müller-Steg - Camping Hirzberg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ],
+  "Betrieb": [
+   {
+    "name": "Brauerei Ganter",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial",
+     "man_made": "works"
+    }
+   }
+  ]
+ }
+}

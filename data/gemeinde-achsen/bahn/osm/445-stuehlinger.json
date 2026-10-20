@@ -1,0 +1,486 @@
+{
+ "ort": "445-stuehlinger",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Bahnhof": [
+   {
+    "name": "Freiburg (Breisgau) Hauptbahnhof",
+    "zusatz": "",
+    "wikipedia": "de:Freiburg (Breisgau) Hauptbahnhof",
+    "website": "https://www.bahnhof.de/en/freiburg-breisgau-hbf",
+    "tags": {
+     "railway": "station"
+    }
+   },
+   {
+    "name": "Freiburg Klinikum",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.bahnhof.de/freiburg-klinikum",
+    "tags": {
+     "railway": "halt"
+    }
+   }
+  ],
+  "Kultur": [
+   {
+    "name": "E-Werk",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://ewerk-freiburg.de/",
+    "tags": {
+     "amenity": "arts_centre"
+    }
+   },
+   {
+    "name": "Theater der Immoralisten",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.immoralisten.de/",
+    "tags": {
+     "amenity": "theatre"
+    }
+   }
+  ],
+  "Bildung": [
+   {
+    "name": "Freiburger Schauspielschule",
+    "zusatz": "",
+    "wikipedia": "de:Freiburger Schauspielschule im E-Werk",
+    "website": "https://freiburger-schauspielschule.de",
+    "tags": {
+     "amenity": "college"
+    }
+   },
+   {
+    "name": "Akademie im Universitätsklinikum",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "university"
+    }
+   },
+   {
+    "name": "Albert-Ludwigs-Universität Freiburg",
+    "zusatz": "",
+    "wikipedia": "de:Albert-Ludwigs-Universität Freiburg",
+    "website": "https://uni-freiburg.de",
+    "tags": {
+     "amenity": "university"
+    }
+   }
+  ],
+  "Museum": [
+   {
+    "name": "Strich und Faden",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "gallery"
+    }
+   },
+   {
+    "name": "Die Andere Galerie",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "gallery"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Fünfwundenkreuz",
+    "zusatz": "",
+    "wikipedia": "de:Fünfwundenkreuz (Freiburg im Breisgau)",
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Gedenkstein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Atomwaffenfreie Zone",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Leo Bloch",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Kurt Lindemann",
+    "zusatz": "seit Jul ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Carla Lindemann",
+    "zusatz": "seit Jul ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Camilla Bloch",
+    "zusatz": "seit Sep ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Golda Kuflik",
+    "zusatz": "seit 2016",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/golda-kuflik/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Abraham Kuflik",
+    "zusatz": "seit 2016",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/abraham-kuflik/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Markus Kuflik",
+    "zusatz": "seit 2016",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/markus-kuflik/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "David Kuflik",
+    "zusatz": "seit 2016",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/david-kuflik/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Paula Kuflik",
+    "zusatz": "seit 2016",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/paula-kuflik/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Julius Heilbrunner",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Meier-Friedrich Bloch",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Christian Daniel Nussbaum",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/christian-daniel-nussbaum/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Maria Nelson",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/maria-nelson/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Siegfried Nelson",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/siegfried-nelson/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Sofie Heilbrunner",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Ida Heilbrunner",
+    "zusatz": "seit Sep ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Karl Balzer",
+    "zusatz": "seit Nov ",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/karl-balzer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Gustav Adolf Weber",
+    "zusatz": "seit 2006",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/gustav-adolf-weber/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Robert Burgheimer",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/robert-burgheimer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Lydia Bloch",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Max Maier",
+    "zusatz": "seit Oct ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Albrecht 'Tonio' Pflaum",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Bernd Koberstein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hilda Kahn",
+    "zusatz": "seit 2007",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hilda-kahn/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Siegfried Kahn",
+    "zusatz": "seit 2007",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/siegfried-kahn/",
+    "tags": {
+     "historic": "memorial"
+    }
+   }
+  ],
+  "Klinik": [
+   {
+    "name": "Praxisklinik im Stühlinger",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "Klinik für Onkologische Rehabilitation",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "hospital"
+    }
+   },
+   {
+    "name": "Universitätsklinikum Freiburg - Klinik für Innere Medizin",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://uniklinik-freiburg.de/",
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "Sozialpädiatrisches Zentrum",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "Interdisziplinäres Schmerzzentrum",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "Dialysestation",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "Zentrum für Geriatrie und Gerontologie (ZGGF)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "Universitätsklinikum Freiburg",
+    "zusatz": "",
+    "wikipedia": "de:Universitätsklinikum Freiburg",
+    "website": null,
+    "tags": {
+     "amenity": "hospital"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Dampfwalze",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "attraction"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Gewerbebach (Südarm)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Gewerbekanal (Südarm)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Dreisam",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Gerolf-Staschull-Sporthalle",
+    "zusatz": "seit 2017, multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Radweg FR2",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ]
+ }
+}

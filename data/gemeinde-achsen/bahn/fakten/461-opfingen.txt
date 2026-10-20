@@ -1,0 +1,363 @@
+ID: 461-opfingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Opfingen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Stadtteil von Freiburg im Breisgau, westlich der Stadt am Ostrand des Tunibergs
+  gemarkung_hektar: 1462
+  einwohner: 4500
+  gueltig_ab: 2004
+  gueltig_bis: 2019
+  ersterwahnung_jahr: 1006
+  ersterwahnung_form: Obphinga
+  ersterwahnung_kontext: Urkunde König Heinrichs II., Übertragung eines Gutes an das Domstift Basel
+  siedlungsschicht: älteste alamannische Siedlungsschicht seit 5. Jahrhundert
+  eingemeindung_jahr: 1971
+  eingemeindung_datum: 1. Dezember 1971
+  eingemeindung_verfahren: Gebietsreform nach Volksabstimmung
+  bevoelkerungsentwicklung_1970: 1287
+  bevoelkerungsentwicklung_2004: 4072
+  ortsteil_st_nikolaus: ja
+  ortsteil_wippertskirch: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 461-opfingen/002
+ENTITÄT: ortsverwaltung
+BEZEICHNUNG: Ortsverwaltung Opfingen
+FACETTE: INFRA | POLITIK
+QUELLE: https://www.freiburg.de/pb/207840.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Dürleberg 2, 79112 Freiburg
+  telefon: 0 76 64 / 50 40-0
+  fax: 0 76 64 / 50 40-19
+  email: ov-opfingen@freiburg.de
+  verwaltungsleiterin: Gabriela Kappeler
+  standesbeamtin: Gabriela Kappeler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 461-opfingen/003
+ENTITÄT: person
+BEZEICHNUNG: Silvia Schumacher
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  amt: Ortsvorsteherin
+  amtsantritt_jahr: 2014
+  amtsantritt_monat: September
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 461-opfingen/004
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Opfingen (St. Katharina)
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  baureihe: neugotisch
+  erbaut_jahr: 1778
+  architekt: Carl Friedrich Meerwein
+  orgel_erbauer: Georg Marcus Stein
+  orgel_erbauer_schule: Silbermann-Schule
+  orgel_lebensjahre: 1738-1794
+  urspruengliche_kapelle_ersterwahnung: 1360
+  urspruengliche_kapelle_name: St. Katharina
+  kapelle_funktion: Filiale von Wippertskirch
+  vergroesserung_jahr: 1776
+  vergroesserung_jahr_ende: 1778
+  religionszugehoerigkeit_1950_evangelisch_prozent: ca. 98
+  religionszugehoerigkeit_2008_evangelisch_prozent: 34.9
+  gueltig_ab: 1778
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 461-opfingen/005
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Nikolaus
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  erbaut_jahr: 1985
+  grund_bau: Wachstum des katholischen Bevölkerungsanteils nach Eingemeindung zur Stadt
+  religionszugehoerigkeit_2008_katholisch_prozent: 36.5
+  gueltig_ab: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 461-opfingen/006
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Opfingen
+FACETTE: INFRA | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  erbaut_jahr: 1778
+  architekt: Carl Friedrich Meerwein
+  beschreibung: Herz von Opfingen, in der Ortsmitte gelegen
+  bedeutung_fuer_ort: zentraler Verwaltungssitz nach Eingemeindung
+  gueltig_ab: 1778
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 461-opfingen/007
+ENTITÄT: gewaesser
+BEZEICHNUNG: Opfinger See (großer)
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  groesse_hektar: 44
+  entstehung: Kiesabbau
+  entstehung_periode_start: 1960er Jahre, Ende
+  entstehung_periode_end: 2014
+  nutzung_teil_sued: Naherholungsgebiet
+  nutzung_teil_nord: Biotopschutzzone
+  lage: Osten der Opfinger Gemarkung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 461-opfingen/008
+ENTITÄT: gewaesser
+BEZEICHNUNG: Opfinger See (kleiner)
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  entstehung: Versuchsgrabungen
+  nutzung: Baden und Angeln
+  sicherheit: Ehrenamtliche Rettungsschwimmer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 461-opfingen/009
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Rieselfeld
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Opfingen
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlich angrenzend an Opfinger Gemarkung
+  schutzstatus: Naturschutzgebiet
+  gueltig_ab: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 461-opfingen/010
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Mooswald
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Opfingen
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Osten der Opfinger Gemarkung, angrenzend an Naturschutzgebiet Rieselfeld
+  durchschneidung: Bundesautobahn 5 in Nord-Süd-Richtung
+  schutzstatus: Landschaftsschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 461-opfingen/011
+ENTITÄT: schule
+BEZEICHNUNG: Schulanlage Opfingen
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  erbaut_jahr: 1963
+  schultypen: Grundschule, Hauptschule, Werkrealschule (auslaufend)
+  grundschule_name: Opfinger Grundschule
+  schulverbund: Hauptschule für Freiburger Stadtteile am Tuniberg
+  leitung: Iris Paul
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 461-opfingen/012
+ENTITÄT: ort
+BEZEICHNUNG: Wippertskirch
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Wippertskirch
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  ersterwahnung_jahr: 1136
+  ersterwahnung_form: Wipreskircha
+  ersterwahnung_kontext: päpstliche Urkunde
+  urspruengliche_funktion: eigenständige Pfarrei für Waltershofen, Opfingen, St. Nikolaus und Wüstungen Harthausen, St. Katharina, St. Bartholomäus
+  status_1276: Priorat der Benediktiner des Klosters Schuttern
+  kloster_uebernahme_jahr: 1276
+  kloster_gemarkung_jahr: 1326
+  kloster_aufloesung_jahr: 1806
+  bevoelkerung_1816: 18 Bewohner in 3 Höfen
+  bevoelkerung_1816_gebaeude: Kirche, Schloss
+  schloss_abbruch_jahr: 1822
+  siedlung_restbestand_1885: Wipperskircher Hof
+  gemarkungsteilung_jahr: 1891
+  gemarkungsteilung_parteien: Opfingen, Waltershofen, Merdingen
+  wipperskircher_hof_zugehoerigkeit: Opfingen
+  wappen_inschrift: Abt Franziskus, der erste seines Namens verwaltete treu dieses Gebäude; 1733
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 461-opfingen/013
+ENTITÄT: denkmal
+BEZEICHNUNG: Aussichtsturm Wippertskirch
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Wippertskirch
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  material: Holz
+  hoehe_meter: 6
+  treppen: doppelläufige Wendeltreppe
+  lage: Weinberge bei Wippertskirch
+  erbaut_jahr: 2000
+  bedeutung_fuer_ort: Aussichtspunkt über Opfinger Landschaft
+  gueltig_ab: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 461-opfingen/014
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Gasthaus Tanne
+FACETTE: WIRTSCHAFT | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  spezialisierung: Spargelanbau-Gastronomie
+  regionaler_ruf: Opfingen erlangte regionale Bekanntheit durch Spargelanbau und dieses Gasthaus
+  geschichtliche_assoziation: angeblich übernachtete Napoleon hier
+  gaeste: Alt-Bundespräsident Walter Scheel regelmäßig während der Spargelzeit
+  status: geschlossen
+  aktuelle_nutzung: Unterkunft für Flüchtlings-Frauen mit Kindern
+  bedeutung_fuer_ort: Wahrzeichen des Spargelanbaus
+  gueltig_ab: unbekannt
+  gueltig_bis: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 461-opfingen/015
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Weinbau in Opfingen
+FACETTE: WIRTSCHAFT | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Opfingen war bis in die 1970er Jahre stark landwirtschaftlich geprägt, insbesondere durch Weinbau
+  entwicklung_20_jahrhundert: Rebflurbereinigungen in den 50er bis 70er Jahren mit Anlage großer Rebterrassen
+  heute: Vorwiegend Weinbau neben Sparselanbau und Maisanbau
+  bedeutung_fuer_ort: Traditionelle Erwerbsgrundlage, heute gering, viele Berufspendler
+  gueltig_ab: 1006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 461-opfingen/016
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Spargelanbau in Opfingen
+FACETTE: WIRTSCHAFT | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: Opfingen erlangte regionale Bekanntheit durch Spargelanbau
+  verbindung: Gasthaus Tanne als Zentrum des Spargelbewusstseins
+  heute: Anbau neben Weinbau und Maisanbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 461-opfingen/017
+ENTITÄT: dialekt
+BEZEICHNUNG: Obfigerdydsch
+FACETTE: ALLTAG | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  klassifizierung: südalemannischer Dialekt
+  regional_spezifisch: Nördlicher Müllheimer Raum, unteres Markgräflerland
+  hauptkennzeichen: k-Verschiebung im Anlaut (Chind=Kind, Chobf=Kopf, Chrod=Kröte)
+  grenzlinie: entspricht alter Grenze zwischen unteren Vogteien und vorderösterreichischem Breisgau
+  superlativ: Opfingen ist der nördlichste Ort, in dem ein hochalemannischer Dialekt gesprochen wird
+  superlativ_bereich: nördlichster Hochalemannischer Dialektort
+  charakteristika: südalemannische Formen überwiegend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 461-opfingen/018
+ENTITÄT: archaeologisches_fund
+BEZEICHNUNG: Grab eines alamannischen Kriegers
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  fundstelle: Gewann Katzensteig oberhalb des Friedhofs
+  fundjahr: 1990
+  fundjahr_end: 1991
+  zeitstellung: 2. Hälfte 5. Jahrhundert
+  kultur: alamannisch
+  typ: Kriegergrab
+  kontext: vermutlich Teil eines größeren Gräberfeldes
+  bedeutung: zeigt lange Besiedlungsgeschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 461-opfingen/019
+ENTITÄT: auswanderung
+BESCHREIBUNG: Auswanderungswellen aus Opfingen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  periode: 18. und 19. Jahrhundert
+  intensivste_periode: 1833-1854
+  zielland: Amerika
+  effekt: viele Familien suchten ihr Glück in Amerika
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 461-opfingen/020
+ENTITÄT: verkehr
+BESCHREIBUNG: Busverbindung Opfingen
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  linie_nummer: 32
+  taktung: Halbstundentakt
+  verbindungen: Opfingen - Rieselfeld - Haslach - Lehen
+  anschluss: Straßenbahnnetz in Lehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 461-opfingen/021
+ENTITÄT: verkehr
+BESCHREIBUNG: Fahrradverleihsystem Frelo
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme_monat: Juni
+  inbetriebnahme_jahr: 2020
+  erste_station: Probestation in Opfingen
+  status_probestation: später fest installiert
+  zweite_station: direkt am Opfinger See
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 461-opfingen/022
+ENTITÄT: museum
+BEZEICHNUNG: Sanitätsbunker des Westwalls
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Kriegshistorisches Zeugnis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.4
+---
+ID: 461-opfingen/023
+ENTITÄT: betrieb
+BEZEICHNUNG: Die Weinwerkstatt
+FACETTE: WIRTSCHAFT | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Brauerei/Winzerei
+  fokus: Wein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.4
+---
+ID: 461-opfingen/024
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Maisfeld-Labyrinth Opfingen
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Opfingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Freizeitattraktion
+  saisonalitaet: saisonal (Maiszeit)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.4

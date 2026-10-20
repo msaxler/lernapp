@@ -1,0 +1,617 @@
+ENTITÄT: ort
+BEZEICHNUNG: Altstadt
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadtzentrum: true
+  ist_geschaeftszentrum: true
+  ist_ursprungskern: true
+  bezirke: 2
+  bezirk_1: Altstadt-Mitte
+  bezirk_2: Altstadt-Ring
+  wohnbevoelkerung: 7600
+  grenzen_westen: Bahnlinie
+  grenzen_sueden: Dreisam
+  grenzen_osten: Schlossberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Freiburger Münster
+FACETTE: KULTUR | LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Altstadt-Mitte
+QUELLE: https://www.freiburg.de/pb/231015.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1200-1513
+  baustil: gotisch
+  material: Buntsandstein
+  westturm_hoehe: 116 m
+  merkmale: Ostchor, Langschiff, filigrane Turmpyramide
+  baubeginn_unter: Herzog Konrad und Bertold V
+  baubeginn_jahr: 1200
+  fertigstellung_jahr: 1513
+  bedeutung_fuer_ort: Wahrzeichen, dominiert die Altstadt
+  beschreibung: einer der wenigen Kirchenbauten, die fast ganz im gotischen Stil vollendet wurden
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Augustinermuseum
+FACETTE: KULTUR | INFRA
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Salzstraße
+  geschichte: ehemaliges Kloster der Augustinereremiten, später Altertümersammlung
+  bedeutung_fuer_ort: Kultureinrichtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Martinstor
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Altstadt-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Stadttor
+  bauzeitraum: 1220-1240
+  erhalten: untere Teile noch vorhanden
+  lage_sueden: südlicher Abschluss Kaiser-Joseph-Straße
+  bedeutung_fuer_ort: Teil der mittelalterlichen Befestigung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schwabentor
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+ORTSTEIL_BEZUG: Altstadt-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Stadttor
+  bauzeitraum: 1220-1240
+  erhalten: untere Teile noch vorhanden
+  besonderheit: höchster Punkt, von dem die Freiburger Bächle fließen
+  bedeutung_fuer_ort: Teil der mittelalterlichen Befestigung, Ausgangspunkt der Bächle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Fischbrunnen
+FACETTE: KULTUR | LAGE
+ORTSTEIL_BEZUG: Altstadt-Mitte
+QUELLE: https://www.freiburg.de/pb/231015.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1483
+  standort: Münsterplatz
+  merkmale: figurenreich
+  beschreibung: einziger mittelalterlicher Brunnen der Stadt
+  geschichte: nach Krieg in erneuerter Form aufgestellt
+  superlativ: einziger mittelalterlicher Brunnen Freiburgs
+GUELTIG_AB: 1483
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Bertoldsbrunnen
+FACETTE: LAGE | ALLTAG
+ORTSTEIL_BEZUG: Altstadt-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Kreuzung Kaiser-Joseph-Straße und Salz-/Bertoldstraße
+  funktion: Stadtmittelpunkt
+  benannt_nach: Stadtgründer
+  bedeutung_fuer_ort: Zentrum, Kreuzung der Hauptachsen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Altes Rathaus
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Altstadt-Mitte
+QUELLE: https://www.freiburg.de/pb/231015.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1556-1559
+  standort: Rathausplatz
+  zerstoert_bei_luftangriff: 1944
+  wiederaufgebaut: true
+  funktion: Rathaus mit Gerichtslaube
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Historisches Kaufhaus
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Altstadt-Mitte
+QUELLE: https://www.freiburg.de/pb/231015.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1518
+  standort: Münsterplatz
+  merkmale: wappengeschmückte Erker, vier Standfiguren habsburgischer Kaiser
+  bildhauer_standfiguren: Sixt von Staufen
+  jahr_standfiguren: 1530
+  erhalten: unbeschädigt erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: palais
+BEZEICHNUNG: Basler Hof
+FACETTE: LAGE | GESCHICHTE | POLITIK
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.freiburg.de/pb/231015.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1494-1505
+  bauherr: Kanzler Konrad Stürzel
+  standort: Kaiserstraße
+  geschichte_1590: Sitz Basler Domkapitel
+  geschichte_1651: Sitz vorderösterreichischer Regierung
+  zerstoert_1944: true
+  wiederaufgebaut: Fassade wiederhergestellt
+  aktuelle_nutzung: Sitz Regierungspräsidium Freiburg (Regierungspräsident)
+  bedeutung_fuer_ort: repräsentativer Sitz der Regierung
+GUELTIG_AB: 1494
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Münsterplatz
+FACETTE: LAGE | ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Altstadt-Mitte
+QUELLE: https://www.freiburg.de/pb/231015.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruengliche_funktion: Friedhof
+  heutige_funktion: Marktplatz und Geschäftszentrum
+  besonderheit: junger Marktbetrieb (erst in jüngerer Zeit)
+  umgeben_von: gotischen bis barocken Bauten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Kaiser-Joseph-Straße
+FACETTE: LAGE | ALLTAG | INFRA
+ORTSTEIL_BEZUG: Altstadt-Mitte
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Hauptachse der Altstadt
+  verlauf: Martinstor (Süden) bis Platz des Siegesdenkmals (Norden)
+  urspruengliche_funktion: Marktstraße der Gründungsstadt
+  aktuelle_funktion: Hauptgeschäftsstraße, Geschäftszentrum
+  wiederaufbau_nach_1944: Geschäftshäuser viergeschossig, Traufseitenstellung, Lauben im Erdgeschoss
+  verkehrsmittel: Straßenbahn auf beiden Hauptachsen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Salzstraße und Bertoldstraße
+FACETTE: LAGE | GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: S-förmig geschwungen
+  kreuzt: Kaiser-Joseph-Straße beim Bertoldsbrunnen
+  historische_bedeutung: West-Ost-Verkehr durch die Stadt
+  geschichte: folgt der höchsten Linie des Dreisamschwemmfächers
+  aktuelle_nutzung: Hauptgeschäftsstraße
+  gebaeude: Augustinermuseum (Salzstraße), Alte Universität (Bertoldstraße)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Insel-Viertel
+FACETTE: LAGE | GESCHICHTE | ALLTAG
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  straßen: Insel, Fischerau, Gerberau
+  geschichte: früheres Handwerkerviertel der Fischer und Gerber
+  ursprung_name: Gewerbebach gabelte sich und bildete eine Insel
+  heutige_nutzung: beliebtes Viertel mit Gaststätten und Geschäften
+  kunstwerk: Krokodilskopf aus Diorit im Gewerbebach (Künstler Ole Meinecke, 2001, 400 kg)
+  besonderheit: Ölmühle (Kulturdenkmal, ehemaliges Schabhäuschen für Gerber)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Sedanquartier / Im Grün
+FACETTE: LAGE | GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Altstadt-Ring
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  groesse: größtes zusammenhängendes Wohngebiet in der Altstadt
+  grenzen_nord: Bertoldstraße
+  grenzen_ost: Platz der Alten Synagoge, Platz der Universität, Werthmannstraße
+  grenzen_sued: Dreisam
+  grenzen_west: Rheintalbahn
+  besiedlung_ab: 1744 (nach Schleifung Vaubans Festung)
+  entwicklung_1865: Eisengießerei Fauler, Kohlenhandlung Specht
+  straßennamen: Moltke-, Sedan-, Wilhelmstraße (zur Erinnerung an Deutsch-Französischen Krieg 1871)
+  architektur: Jugendstilhäuser in unterer Wilhelmstraße
+  geschichte_1970er_1980er: Hausbesetzungen, Demonstrationen, soziale Spannungen
+  charakteristika: ["Konzerthaus", "Cinemaxx", "Stadtbahnbau", "Verkehrsberuhigung"]
+  kultur: links-alternative Szene, Specht-Passage (Radio Dreyeckland, Rosa Hilfe), Grether Fabrik
+  bedeutung_fuer_ort: links-alternativer Fleck im grünen Freiburg
+  buergerforum: seit 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Freiburger Bächle
+FACETTE: LAGE | FREIZEIT
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Schwabentor (höchster Punkt)
+  verlauf: durchfließt die ganze Altstadt
+  bedeutung_fuer_ort: charakteristisches Merkmal der Altstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Stadttheater Freiburg
+FACETTE: KULTUR | INFRA
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Altstadt
+  rolle: Zentrum des Freiburger Kulturlebens
+  bedeutung_fuer_ort: Kulturzentrum mit Großveranstaltungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Konzerthaus Freiburg
+FACETTE: KULTUR | INFRA
+ORTSTEIL_BEZUG: Altstadt-Ring (Sedanquartier)
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Sedanquartier
+  rolle: Zentrum des Freiburger Kulturlebens
+  erbaut: später als Aufwertungsmaßnahme des Quartiers
+  bedeutung_fuer_ort: Kulturzentrum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kino
+BEZEICHNUNG: Cinemaxx
+FACETTE: KULTUR | INFRA
+ORTSTEIL_BEZUG: Altstadt-Ring (Sedanquartier)
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Sedanquartier
+  erbaut: später als Aufwertungsmaßnahme des Quartiers
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: bibliothek
+BEZEICHNUNG: Universitätsbibliothek Freiburg
+FACETTE: BILDUNG | INFRA
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Altstadt
+  funktion: Universitätseinrichtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtbibliothek Freiburg
+FACETTE: BILDUNG | INFRA | KULTUR
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Altstadt
+  merkmale: Hauptstelle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Volkshochschule Freiburg
+FACETTE: BILDUNG | INFRA
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Altstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Albert-Ludwigs-Universität Freiburg
+FACETTE: BILDUNG | LAGE | KULTUR
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zentrum_standort: Altstadt
+  fakultaeten: ["Geisteswissenschaften", "Sozialwissenschaften"]
+  bedeutung_fuer_ort: bestimmt den Charakter der Altstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: synagoge
+BEZEICHNUNG: Alte Synagoge
+FACETTE: GESCHICHTE | KULTUR | LAGE
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.freiburg.de/pb/1156511.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 23. September 1870
+  standort: Platz der Alten Synagoge
+  gemeinde_begruendung: 1864-1865
+  geschichte: brannte 1938 (Kristallnacht)
+  ursprungs_synagogenrat_gewaehlt: 11. Januar 1865
+  erster_vorsteher: Adolf Weil
+  bedeutung_fuer_ort: Zeugnis der jüdischen Gemeinde Freiburgs
+GUELTIG_AB: 1870
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: topografie
+BEZEICHNUNG: Schlossberg
+FACETTE: LAGE | FREIZEIT | GESCHICHTE
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: grenzt östlich direkt an die Altstadt
+  bedeutung_fuer_ort: Wahrzeichen, Aussichtspunkt
+  besonderheit: Schlossbergturm mit Rundumsicht über alle Teile der Stadt
+  geschichte: Zähringerburg ab 1091
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schlossbergturm
+FACETTE: LAGE | FREIZEIT
+ORTSTEIL_BEZUG: Altstadt (Schlossberg)
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: Schlossberg
+  merkmale: Rundumsicht über alle Teile der Stadt und ihre Umgebung
+  funktion: Aussichtspunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Pulverturm
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: zwischen Schwabentor und Dreisam
+  ursprung: frühere Bastion
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Colombipark
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  standort: auf früheren Bastionen
+  besonderheit: Colombischlössle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: behörde
+BEZEICHNUNG: Regierungspräsidium Freiburg
+FACETTE: POLITIK | INFRA
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.freiburg.de/pb/231015.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz_praesident: Basler Hof (Altstadt)
+  hauptsitz_seit_1990er: Neubau in Betzenhausen
+  bedeutung_fuer_ort: Regierungssitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Luftangriff vom 27. November 1944
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.freiburg.de/pb/231015.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 27. November 1944
+  gebaeude_zerstoert_komplett: 2380
+  gebaeude_zerstoert_prozent: 20
+  gebaeude_unbeschaedigt: 1645
+  gebaeude_unbeschaedigt_prozent: 11.5
+  todesfaelle: 3000
+  besonderheit: Münster nur leicht beschädigt
+  auswirkung: Zerstörung weiter Teile der Stadt, besonders Altstadt und Neuburg
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: periode
+BEZEICHNUNG: Wiederaufbau nach 1945
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum_beginn: 1945
+  merkmale: ["Wiederaufbau", "Umbauten", "Erhaltung des Grundrisses der zähringischen Gründung"]
+  architektur_neubau: Geschäftshäuser viergeschossig, Traufseitenstellung, Lauben im Erdgeschoss
+  bedeutung_fuer_ort: Rekonstruktion der mittelalterlichen Struktur trotz Zerstörung
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Krokodilskopf aus Diorit
+FACETTE: KULTUR | LAGE
+ORTSTEIL_BEZUG: Altstadt (Insel-Viertel)
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  kuenstler: Ole Meinecke
+  jahr_erstellung: 2001
+  ausbildung_kuenstler: Meisterprüfung Friedrich-Weinbrenner-Schule 2001
+  material: Diorit
+  gewicht: 400 kg
+  standort: Gewerbebach bei der Insel
+  besonderheit: schaut normalerweise bachaufwärts, wurde mehrfach verdreht
+  ankauf: Familie Himmelsbach (3.500 Euro)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: festival
+BEZEICHNUNG: Freiburger Kinderliteraturfestival
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.freiburg.de/pb/230696.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  start_jahr: 1994
+  kooperation: ["Theater Freiburg (seit 2007)", "Literaturhaus Freiburg (2017-2024)"]
+  dauer_tage: 8
+  veranstaltungen_anzahl: über 30
+  zielgruppe: Kinder 6-12 Jahre
+  kooperationspartner: ["Schulen", "Stadtteilbibliotheken", "Kulturinstitutionen", "Vereine", "Buchhandlungen"]
+  besonderheit: alle Veranstaltungen kostenlos
+  struktur: zwei Großveranstaltungen (Auftakt Theater Freiburg, Finale Haus der Jugend oder Literaturhaus)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: archiv
+BEZEICHNUNG: Freiburger Stadtarchiv
+FACETTE: BILDUNG | INFRA | KULTUR | GESCHICHTE
+ORTSTEIL_BEZUG: Altstadt (historisch), Neue Messe (aktuell)
+QUELLE: https://www.freiburg.de/pb/2539961.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschichte_ursprung: Hochmittelalter, als wanderndes Archiv in Truhe
+  standort_1414: Hahnentürme des Freiburger Münsters
+  standort_1896: altes Stadtgefängnis in Turmstraße
+  standort_1957: Haus zum Herzog in Salzstraße
+  standort_2023: Neubau an der Neuen Messe (seit Ende 2023)
+  rettung_wwii: Auslagerung während WWII (Kloster Günterstal, dann St. Blasien)
+  kriegsverluste: minimal
+  bedeutung_fuer_ort: dokumentiert Freiburger Stadtgeschichte
+GUELTIG_AB: Hochmittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Altstadt-Mitte (Bezirk 111)
+FACETTE: LAGE | POLITIK
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Verwaltungsbezirk
+  flaeche_definition: bebaute Fläche zur Zeit der Stadtgründung
+  struktur: Straßenkreuz teilt Stadt in vier Viertel
+  besonderheit: Kirche und Rathaus nicht im selben Viertel
+  muster: nach Vorbild aller Zähringer-Gründungsstädte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Altstadt-Ring (Bezirk 112)
+FACETTE: LAGE | POLITIK
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Verwaltungsbezirk
+  grenzen_westen: Bahnlinie
+  grenzen_sueden: Dreisam
+  funktion: Bereich westlich und südlich der Altstadt-Mitte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtrundgang
+BEZEICHNUNG: "9 aus 900 - Frauenarbeit hat Geschichte"
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Altstadt (teilweise)
+QUELLE: https://www.freiburg.de/pb/1571359.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Stadtrundgang durch Freiburg
+  stationen_zahl: 9
+  thema: Frauenarbeit in der Geschichte
+  anlass: ["Freiburger Stadtjubiläum", "25. Jubiläum Kontaktstelle Frau und Beruf", "35. Jubiläum Stelle zur Gleichberechtigung der Frau"]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ausstellung
+BEZEICHNUNG: "Aufbrechen! 50 Jahre Neue Feministische Bewegungen in Freiburg"
+FACETTE: KULTUR | GESCHICHTE
+ORTSTEIL_BEZUG: Altstadt (Im Grün)
+QUELLE: https://www.freiburg.de/pb/1927562.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: ArTik und Galerie Alter Wiehrebahnhof, Arbeitsbereiche Femwerkstatt und Archiv für soziale Bewegungen
+  zeitraum: Juli 2022 - Juni 2023
+  thema: 50 Jahre feministische Bewegungen in Freiburg
+  charakteristika: partizipatives Archiv, barrierefrei, mehrsprachig
+  besonderheit: Leerstellen sichtbar machen, Oral History
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80

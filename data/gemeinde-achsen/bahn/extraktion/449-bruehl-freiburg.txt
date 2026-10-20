@@ -1,0 +1,405 @@
+ENTITÄT: ort
+BEZEICHNUNG: Brühl
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: nordwestlicher Stadtteil Freiburgs
+  administrative_gliederung: 3 Stadtbezirke (Brühl-Güterbahnhof, Brühl-Industriegebiet, Brühl-Beurbarung)
+  entstehungszeit: ab Ende 19. Jahrhundert durch Industrialisierung
+  topographie: flach
+  nachbarstaedtteile: Hochdorf, Zähringen, Herdern, Stühlinger, Mooswald, Landwasser, Vörstetten, Gundelfingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Brühl-Güterbahnhof
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_ha: 90
+  position: südlicher Teil des Stadtteils
+  charakteristika: ehemaliger Güterbahnhof mit teilweise stillgelegten Gleisen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Brühl-Industriegebiet
+FACETTE: LAGE | ALLTAG
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_ha: 1000
+  position: Westen und Norden des Stadtteils
+  enthaelt: Industriegebiet Nord, Flugplatz, Neue Messe, Technische Fakultät Universität, Markwald, Mooswald
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Konrad
+FACETTE: GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7709/Br%C3%BChl | Landesportal
+EIGENSCHAFTEN:
+  baujahr: 1930
+  geschichte_1925_kuratie: 1925 als Kuratie gegründet
+  geschichte_1945_pfarrei: 1945 zur katholischen Pfarrei erhoben
+  geschichte_1967_umbau: 1967 aufgelöst und in Pfarrkuratie St. Elisabeth überführt
+GUELTIG_AB: 1930
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Elisabeth (Pfarrkuratie/Pfarrei)
+FACETTE: GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7709/Br%C3%BChl | Landesportal
+EIGENSCHAFTEN:
+  geschichte_1967_gruendung: 1967 als Pfarrkuratie aus Teilen von St. Konrad, St. Blasius und St. Urban gegründet
+  geschichte_1975_pfarrei: 1975 zur Pfarrei erhoben
+  urspruengliche_kuratie: St. Konrad
+GUELTIG_AB: 1967
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gelaende
+BEZEICHNUNG: Wolfsbuck
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_m: 260
+  charakteristika: renaturierte Schuttdeponie
+  urspruengliche_funktion: Depot für französisches Militär, dann Stadt Freiburg
+  nutzungszeitraum_stadt: 1953-1972
+  zusammensetzung: enthält Trümmer des Bombardements Freiburgs vom 27. November 1944
+  bedeutung_fuer_ort: eine der beiden einzigen Geländeerhebungen im sonst flachen Brühl
+GUELTIG_AB: 1953
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gelaende
+BEZEICHNUNG: Eichelbuck
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_m: 60
+  lage: Norden des Mooswaldes
+  charakteristika: ehemals Mülldeponie
+  nutzungszeitraum: 1972-2005 Mülldeponie
+  abdichtungsphase: 2006-2024
+  nachsorge_dauer_jahre: 30
+  oeffnung_veroeffentlichkeit: ab 2054 geplant
+  bedeutung_fuer_ort: eine der beiden einzigen Geländeerhebungen im sonst flachen Brühl
+GUELTIG_AB: 1972
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Lokhalle
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Brühl (Güterbahnhof)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1903-1905
+  urspruengliche_funktion: Lokhalle des Güterbahnhofs
+  denkmalschutz_seit: 2011
+  eigentuemer_seit_2011: Lars Bargmann und Frank Böttinger (Projektentwickler)
+  sanierung: 2011-2016 mit Förderung Baden-Württemberg
+  heutige_nutzung: Kreativpark mit ca. 20 Firmen und über 100 Beschäftigten
+  beschreibung: eine der wenigen Industriedenkmäler des Güterbahnhofs
+GUELTIG_AB: 1903
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Turmcafé
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Zähringer Straße 44
+  baujahr: 1951
+  architekt: Wilhelm Schelkes (Freiburger Architekt)
+  urspruengliche_planung: Generalvertretung Autobauer Borgward
+  nutzung: Restaurant
+  denkmalschutz_seit: 1986
+  beschreibung: einzigartiger Bau, Türmchen mit Tankstellenvordach
+  aktuelle_lage: zwischen Wohnhäusern hinter Glasschallschutzwand
+GUELTIG_AB: 1951
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wohnanlage
+BEZEICHNUNG: Campo Novo
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl (Güterbahnhof)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bautyp: Studentenwohnheim
+  gruendungsjahr: 2014
+GUELTIG_AB: 2014
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: markt
+BEZEICHNUNG: Stadtteilmarkt Brühl
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Güterbahnhof)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ort: Zollhallenplatz
+  durchfuehrung: donnerstags Nachmittag
+  gruendungsdatum: 28. März 2019
+GUELTIG_AB: 2019
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Stadtraumbahn Brühl
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Freiburger Verkehrs AG (VAG)
+  linien: Linien 2 und 4
+  verkehrsbau: Verlegung der Linie 2 von Komturstraße in Waldkircherstraße
+  verlegung_bauphase: September 2020 bis Juni 2023
+  verlegung_grund: alte Gleise aus 1940ern/50ern mussten erneuert werden; bessere Anbindung neues Güterbahnwohngebiet
+  inbetriebnahme_neue_gleise: Juni 2023
+GUELTIG_AB: 2023
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: betrieb_industrie
+BEZEICHNUNG: Rhodia / Cerdia
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahr_hauptwerk: 1926-1927
+  funktion: Hersteller für Zigarettenfilter
+  bedeutung_fuer_ort: mit Bau des Großbetriebs Rhodia begann die Entwicklung des Industriegebietes Nord
+  umbenennung_2019: 2019 in Cerdia umbenannt
+GUELTIG_AB: 1926
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb_industrie
+BEZEICHNUNG: Pfizer Manufacturing Deutschland
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Pharmazeutika
+  lage: Industriegebiet Nord
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb_industrie
+BEZEICHNUNG: TDK-Micronas
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Microchiptechnologie
+  lage: Industriegebiet Nord
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb_versorgung
+BEZEICHNUNG: Badenova
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Energieversorgung
+  lage: Industriegebiet Nord
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: moebelbetrieb
+BEZEICHNUNG: IKEA
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Westen des Gebietes am Rande des Flugplatzes
+  nachbarschaft: in unmittelbarer Nachbarschaft mit Möbel Braun und XXXLutz
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: moebelbetrieb
+BEZEICHNUNG: Möbel Braun
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Westen des Gebietes am Rande des Flugplatzes
+  nachbarschaft: in unmittelbarer Nachbarschaft mit IKEA und XXXLutz
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: moebelbetrieb
+BEZEICHNUNG: XXXLutz
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Westen des Gebietes am Rande des Flugplatzes
+  nachbarschaft: in unmittelbarer Nachbarschaft mit IKEA und Möbel Braun
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Freiburger Hauptfriedhof
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Süden des Stadtteils
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kino
+BEZEICHNUNG: Kino Kandelhof
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Süden des Stadtteils
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltungsort
+BEZEICHNUNG: Neue Messe
+FACETTE: KULTUR | ALLTAG
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: wichtiger Standort des Freiburger Wirtschafts- und Kulturlebens
+  lage: Industriegebiet
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportstadion
+BEZEICHNUNG: Mooswaldstadion
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  nutzung: SC Freiburg (Fußball)
+  bezug_spielbetrieb: seit Oktober 2021
+GUELTIG_AB: 2021
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: flugplatz
+BEZEICHNUNG: Flugplatz Freiburg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl (Industriegebiet)
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristika: auf kleine und leichte Luftfahrzeuge beschraenkt
+  lage: Westen des Industriegebietes am Rande
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Funkturm Freiburg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Brühl
+QUELLE: https://de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Richtfunk
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

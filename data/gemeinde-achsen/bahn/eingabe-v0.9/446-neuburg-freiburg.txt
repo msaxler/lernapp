@@ -1,0 +1,367 @@
+ZIELORT: Neuburg (Ortsteil von Freiburg im Breisgau)
+LAGE: Stadtteil von Freiburg im Breisgau, 0 km nördlich der Stadtmitte (Luftlinie)
+ARTIKEL: Neuburg (Freiburg im Breisgau)
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Freiburg im Breisgau — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P131]
+  bundesland: Baden-Württemberg — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [über die Gemeinde]
+  einwohner: 5567  [Wikidata P1082, Stand 2024]
+  flaeche_km2: 1,64  [Wikidata P2046]
+  dichte_ew_km2: 3395  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P395]
+  hoehe_m: 270  [Wikidata P2044; dewiki Infobox]
+  naechste_grossstadt: Freiburg im Breisgau, 0 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 131 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 79104, 79106  [Wikidata P281]
+  vorwahl: 0761  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 31,6 %, CDU 19,3 %, SPD 16,8 %, Die Linke 16 %, AfD 6,2 %; Wahlbeteiligung 83,2 %  [Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 83,2 %, Abstand 0,2 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Bahnhof: Talstation Schlossbergbahn
+  Bahnhof: Bergstation Schlossbergbahn
+  Klinik: Druckkammerzentrum Freiburg GmbH und HBO2-Tagesklinik
+  Klinik: Sankt Josefskrankenhaus
+  Gipfel: Schlossberg (455 m)
+  Aussicht: Kommandantengarten
+  Aussicht: Fort Carré
+  Burg/Denkmal: Entendenkmal (seit 1950)
+  Burg/Denkmal: Mathilde Feist (seit 2003)
+  Burg/Denkmal: Richard Feist (seit 2003)
+  Burg/Denkmal: Freundeskreis Freiburger Ungarn (seit 2018)
+  Burg/Denkmal: Eugenie Adelheid Dischler (seit 2012)
+  Burg/Denkmal: Siegfried Maier (seit 2003)
+  Burg/Denkmal: Sofie Eppstein (seit 2003)
+  Burg/Denkmal: Therese Loewy (seit 2003)
+  Sportstätte: Villa Ambiente (gymnastics)
+  Sportstätte: Sporthalle Karlschule (multi)
+  Sportstätte: Gerhard-Graf-Halle (multi)
+  Museum: Archäologische Sammlung
+  Bildung: Professur für Umweltmeteorologie (Nebenstelle)
+  Bildung: Fachschaft Chemie Albert-Ludwigs-Universität Freiburg
+  Bildung: Bildung- und Wissenschaftszentrum der Bundesfinanzverwaltung
+  Bildung: Fakultät für Umwelt und natürliche Ressorcen
+  Bildung: Katholische Akademie
+  Bildung: Albert-Ludwigs-Universität Freiburg
+  Freizeit: Dampfmaschine Lokomobil
+  Freizeit: Schlossbergturm (463 m, seit 2002)
+  Gewässer: Gewerbekanal (Nordarm)
+  Wanderweg: Zähringer-Wanderweg (74 km)
+  Wanderweg: Breisgauer Weinweg
+  Wanderweg: Himmelreich-Jakobusweg
+
+PLAN:
+  Karte 1: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 2: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 3
+  Karte 3: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 4
+  Karte 4: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 1
+  Karte 5: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 6: FACETTE INFRA (Ersatz: LAGE), Geschichte, B, Lüge an Stelle 2
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 4
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Stühlinger (Ortsteil von Freiburg im Breisgau)
+  landkreis: Stadtkreis Freiburg im Breisgau — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P131]
+  einwohner: 15.811  [Wikidata P1082, Stand 2024]
+  flaeche_km2: 1,74  [dewiki Infobox]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P395]
+  hoehe_m: 265 | 262  [dewiki Infobox; Altbestand geo.sqlite (GeoNames 11611371)]
+  naechste_grossstadt: Freiburg im Breisgau, 1 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 30,2 %, CDU 17,9 %, Die Linke 16,9 %, SPD 15,2 %, AfD 8,8 %; Wahlbeteiligung 85,7 % — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 85,7 %, Abstand 2,3 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, March, Umkirch, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Kirchzarten, Stegen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Neuburg):
+ID: 446-neuburg-freiburg/001
+ENTITÄT: stadtteil
+BEZEICHNUNG: Neuburg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage_innerort: unmittelbar nördlich der Altstadt von Freiburg
+  liegt_in: Freiburg im Breisgau
+  grenzt_osten: Oberau (bewaldeter Schlossberg)
+  grenzt_norden: Herdern
+  grenzt_westen: Stühlinger (durch Rheintalbahn getrennt)
+  enthaelt_gebiete: Schlossberg (östlich der Altstadt)
+  alternative_bezeichnung: Ludwigsvorstadt (bis 20. Jahrhundert)
+GUELTIG_BIS: 1839
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 446-neuburg-freiburg/002
+ENTITÄT: stadtteil
+BEZEICHNUNG: Neuburg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erste_bebauung: nach Stadtgründung Freiburgs im frühen 12. Jahrhundert
+  ausgrabungen_2016: Besiedelungsreste aus dem 11. Jahrhundert
+  archaeologische_funde: älteste Weinkelter Süddeutschlands, Musikinstrument aus 12. Jahrhundert
+  infrastruktur_ausbau_zeitraum: Ende 12. bis Mitte 13. Jahrhundert
+  infrastruktur_ausbau_elemente: Straßennetz, Brunnen, Pfarrkirche, Mauer
+  soziale_einrichtungen: Armenspital und Findelhaus
+  dreissigjähriger_krieg: Vorstadt schwer beschädigt
+  zerstoerung_1677: Vauban ließ Vorstadt schleifen für Festungsring
+  glacis: Festungsrayon angelegt für freies Schussfeld
+  besatzungsgeschichte: 1697 ans Reich zurückgegeben, 1713 und 1744 erneut eingenommen
+  sprengung_1745: gesamte Festungsanlagen beim Abzug systematisch gesprengt
+  wiederbesiedelung: um 1825
+  namensvergabe_grund: zu Ehren des badischen Großherzogs
+  bombardierung_1944: bei Bombardierung Freiburgs fast vollständig zerstört
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 446-neuburg-freiburg/003
+ENTITÄT: kirche
+BEZEICHNUNG: Ludwigskirche (evangelisch)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahre_original: 1829-1839
+  material: aus Klosterkirche von Tennenbach abgebrochen
+  aenderungen: Grundriss und Aufriss verändert
+  kriegszerstörung: 1944
+  wiederaufbau: 1954
+  wiederaufbau_stil: modern
+  lage_original: Habsburgerstraße/Ecke Rheinstraße
+  gemeinde: Ludwigsgemeinde Süd (umfasst Teil von Herdern)
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 446-neuburg-freiburg/004
+ENTITÄT: kirche
+BEZEICHNUNG: Ludwigskirche (evangelisch)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahre: 1954
+  stil: modern
+  zweck: Ersatz für kriegszerstörte erste evangelische Kirche Freiburgs
+  lage: nördlich des Alten Friedhofs
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 446-neuburg-freiburg/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michaelskapelle
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahre: 1725, 1753-1757
+  lage: im Alten Friedhof
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 446-neuburg-freiburg/006
+ENTITÄT: kirche
+BEZEICHNUNG: Erlöserkirche (evangelisch-lutherisch)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  stil: neugotisch
+  lage: Ostrand des Alten Friedhofs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 446-neuburg-freiburg/007
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Friedhof
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  funktion_zeitraum: Freiburger Begräbnisstätte 1683-1872
+  funktion_heute: Grünanlage
+  kulturelle_bedeutung: Teil des Stadtgartens
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 446-neuburg-freiburg/008
+ENTITÄT: klinik
+BEZEICHNUNG: Josefskrankenhaus
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Habsburgerstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 446-neuburg-freiburg/009
+ENTITÄT: kloster
+BEZEICHNUNG: Mutterhaus der Barmherzigen Schwestern vom hl. Vinzenz von Paul
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Habsburgerstraße
+  gebaeudeteil: Mutterhauskirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 446-neuburg-freiburg/010
+ENTITÄT: museum
+BEZEICHNUNG: Archäologische Sammlung
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: ehemaliges Papierlager der Herder-Druckerei
+  betreiber: Albert-Ludwigs-Universität Freiburg
+  bestaende: antike Originale und Gipsabgüsse nach antiken Skulpturen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 446-neuburg-freiburg/011
+ENTITÄT: universität
+BEZEICHNUNG: Albert-Ludwigs-Universität Freiburg (Campus Neuburg)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  flaechenanteil: große Teile der westlichen Hälfte
+  einrichtungen: mathematisch-naturwissenschaftliche Fakultäten, Rektorat, Institutsviertel
+  fakultaet_umwelt: Fakultät für Umwelt und Natürliche Ressourcen (Herder-Verlagsgebäude)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 446-neuburg-freiburg/012
+ENTITÄT: behoerde
+BEZEICHNUNG: Landratsamt Breisgau-Hochschwarzwald
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Osthälfte des Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 446-neuburg-freiburg/013
+ENTITÄT: behoerde
+BEZEICHNUNG: Amt für Vermögen und Bau Baden-Württemberg, Amtsstelle Freiburg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ecke Mozartstraße/Starkenstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 446-neuburg-freiburg/014
+ENTITÄT: gebaeudeensemble
+BEZEICHNUNG: Institutsviertel
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: westliche Teile des Stadtteils, teilweise genannt statt Neuburg
+  hauptnutzung: universitäre Einrichtungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 446-neuburg-freiburg/015
+ENTITÄT: stadtteil
+BEZEICHNUNG: Neuburg
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 5500
+  bevoelkerungswachstum_seit_2000: über 40%
+  bevoelkerungswachstum_prozent: 40
+  gueltig_ab: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 446-neuburg-freiburg/016
+ENTITÄT: wohnheim
+BEZEICHNUNG: The Fizz
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: privates Studentenwohnheim
+  lage: südlicher Abschnitt der Habsburgerstraße
+  miethöhe_max: 1500
+  miethöhe_max_einheit: €/Monat (Studentenappartement)
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 446-neuburg-freiburg/017
+ENTITÄT: oeffentliche_verkehrsmittel
+BEZEICHNUNG: Stadtbahnlinie 3
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  strecke: entlang der Habsburgerstraße
+  zugehoerigkeit: Freiburger Stadtbahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 446-neuburg-freiburg/018
+ENTITÄT: oeffentliche_verkehrsmittel
+BEZEICHNUNG: Stadtbahnlinie 5
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  endhaltestelle: Europaplatz
+  zugehoerigkeit: Freiburger Stadtbahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 446-neuburg-freiburg/019
+ENTITÄT: radweg
+BEZEICHNUNG: FR 4
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  route: entlang des Altstadtrings
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 446-neuburg-freiburg/020
+ENTITÄT: radweg
+BEZEICHNUNG: FR 6
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  route: durch das Institutsviertel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 446-neuburg-freiburg/021
+ENTITÄT: radschnellweg
+BEZEICHNUNG: Radschnellweg Emmendingen-Waldkirch
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  route: entlang der Stadtstraße und der Weiherhofstraße
+  baubeginn: Oktober 2025
+  status: in Bau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 446-neuburg-freiburg/022
+ENTITÄT: berg
+BEZEICHNUNG: Schlossberg
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlich der Altstadt, gehört zu Neuburg
+  beschaffenheit: bewaldet
+ZEUGEN: 
+  hoehe: 455 m
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+

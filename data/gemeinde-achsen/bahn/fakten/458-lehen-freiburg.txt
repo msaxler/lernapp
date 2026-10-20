@@ -1,0 +1,492 @@
+ID: 458-lehen-freiburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Lehen
+FACETTE: LAGE | GESCHICHTE | ALLTAG | FREIZEIT | INFRA | POLITIK
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Nordwesten Freiburgs, westlich an der Dreisam
+  eingemeindet_am: 1. September 1971
+  eingemeindet_in: Stadt Freiburg
+  namensherkunft: ahd. "lê" = Hügel (Leheim = Haus am Hügel)
+  erste_urkundliche_erwahnung: 1139 (Schutzbrief Papst Innozenz II., wahrscheinlich Fälschung Ende 12. Jahrhundert)
+  gueltig_ab_erste_erwahnung: 1139
+  anfangseinwohner: knapp 2500
+  gueltig_ab_einwohner_2020: 2020
+  einwohner_tendenz: leicht sinkend (bis 2020)
+  grundlage_ortschaftsverfassung: Ortsvorsteher im Gemeinderat mit Mitspracherecht
+  ortsvorsteher: Bernhard Schätzle
+  anzahl_ortschaftsrat: zwölfköpfig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 458-lehen-freiburg/002
+ENTITÄT: landschaft
+BEZEICHNUNG: Lehener Bergle
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Erhebung
+  breite: 500 m
+  laenge: 1,5 km
+  hoehe_ueber_umland: 30 m
+  absolute_hoehe: 253-254 m ü.d.M.
+  schutzgebiet: Landschaftsschutzgebiet Mooswald (großteils)
+  gesteinsalter: 65 Millionen Jahre
+  gesteinsschichten: Mesozoikum
+  fossilien: Ammoniten
+  lossschicht: mächtige Schicht (Landgebiet sehr fruchtbar)
+  archaeologische_funde: Feuersteinsplitter aus Jaspis (vorrömische Eisenzeit), knöcherne Doppelwerkzeuge (vorrömische Eisenzeit), Tongefäßscherben mit Stempeldruckverzierung (Hallstattzeit und Latènezeit)
+  bedeutung_fuer_ort: wiedererkennbarer Landmarkspunkt, Naherholungsgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 458-lehen-freiburg/003
+ENTITÄT: kirche
+BEZEICHNUNG: St. Cyriak
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  first_erwahnung: 1100 (12. Jahrhundert)
+  patrozinium: St. Cyriak
+  bauzeit_jetziges_gebaeude: 1724-1725
+  turm: spätmittelalterlich
+  langhaus: frühes 18. Jahrhundert
+  urspruengliche_bauteile: gotische Kirche (13./14. Jahrhundert) noch teilweise erhalten
+  warzeichen: Zwiebelturm ist Wahrzeichen des Ortes
+  bedeutung_fuer_ort: Wahrzeichen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 458-lehen-freiburg/004
+ENTITÄT: denkmal
+BEZEICHNUNG: Bundschuh-Eiche
+FACETTE: GESCHICHTE | KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kunstwerk_ja: true
+  kuenstler: Thomas Rees (Holzbildhauer/Bildhauer)
+  errichtet: Juni 2013
+  anlass: 500-Jahr-Feier des Bundschuhaufstands
+  standort: Bundschuhhalle (Lehen)
+  material: Holz (ca. 180 Jahre alte Eiche)
+  durchmesser: 1,25 m
+  hoehe: ca. 6 m
+  herkunft_holz: Hartmatte (Versammlungsplatz der Bundschuhbewegung)
+  ikonographie: Gekreuzigter Jesus zentral, Klerus und Adel oberhalb (unterdrückung), zwei Figuren mit Buch unterhalb (Zweifel an Ordnung), Rückseite: Teufel mit Bundschuh (Sicht Freiburger Obrigkeit), Bauern mit Joß Fritz und Fahne
+  untertitel: Gottes Ordnung, Pfründefressern und verbotenen Gedanken
+  teil_wanderweg: vierzehnte Station des Lehener Bundschuhpfads (3,4 km, 14 Stationen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 458-lehen-freiburg/005
+ENTITÄT: aufstand
+BEZEICHNUNG: Bundschuhaufstand von Lehen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1513
+  anlass: harte Frondienste, hohe Steuern, Abgaben durch Adel und Kirche
+  führer: Joß Fritz (aus Untergrombach)
+  funktion_fritz: Bannwart zu Lehen (angestellt)
+  versammlungsort: Hartmatte (Wald bei Lehen, geheim)
+  ziel_initial: Freiburg als Operationsbasis
+  rekrutierungsgebiet: Umgebung Bretten, Kinzigtal, Elsass, Kaiserstuhl
+  niederlag_datum: 6. Oktober 1513
+  niederlag_durch: Freiburger Herren (200 bewaffnete Freiburger)
+  folgen: kein Lehener durfte fortan mit Waffen nach Freiburg
+  teil_bundschuh_bewegung: ja (eine von mehreren 1493-1517)
+  bedeutung_fuer_ort: wichtigster Moment in der Lehener Geschichte (Aussage Ortsvorsteher), Basis des Deutschen Grundgesetzes in geforderten Inhalten
+  gueltig_ab: 1513
+  gueltig_bis: 1513
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 458-lehen-freiburg/006
+ENTITÄT: schloss
+BEZEICHNUNG: Altes Schloss (Curtis zu Leheim)
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwahnung: 13. Jahrhundert
+  funktion_16_19_jh: Freiburger Försterhaus
+  bauart: befestigter Herrenhof, Tiefburg, Wasserburg
+  befestigung: Dreisamarm umfloss das Herrenhaus
+  lage_herrenhaus: vermutlich kleine Insel (Ausläufer des Lehener Bergles)
+  zugang: Brücke an Nordseite
+  umzaeunung: geschlossene Mauer
+  status_modern: noch bewohnt
+  bedeutung_bundschuhplatz: historisches Zentrum des Ortes (Bundschuhplatz)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 458-lehen-freiburg/007
+ENTITÄT: schloss
+BEZEICHNUNG: Wasserschloss Nöttstein (Weiherschloss)
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erscheinung: Mitte 16. Jahrhundert
+  ersturkundung: Henricus de Notingestên 1239 als Zeuge genannt
+  heutiges_gebaeude: 16. Jahrhundert
+  renoviert: um 1587 (durch Michaelem Textorem und Maria Prombacherin)
+  status_modern: noch bewohnt
+  nutzer: Weingut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 458-lehen-freiburg/008
+ENTITÄT: aussichtsturm
+BEZEICHNUNG: Herdertürmle (Schneckenhausturm)
+FACETTE: GESCHICHTE | FREIZEIT | KULTUR
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1894
+  erbauer: Hans Josef Hutter (Unternehmer)
+  lage: höchster Punkt Lehener Bergle (254 m)
+  urspung_name_schneckenhausturm: Ammonit über der Tür
+  ursprung_name_herdertuermle: Verkauf 1895 an Hermann Herder (Verlagsbuchhändler), seitdem Familienbesitz
+  ursprung_nutzung: Teegesellschaften (sonntags)
+  soziale_funktion: Lehrlinge Herders konnten Wochenenden dort verbringen, eine der ersten Sozialeinrichtungen eines Unternehmers
+  archaeologie: Keltische Höhensiedlung aus 7. Jahrhundert v. Chr. nachgewiesen
+  nutzung_wk1: Artillerie-Beobachtungsturm
+  nutzung_wk2: Wohnung (Wohnungsnot)
+  restaurierung: letzte Jahre, durch Verein Bundschuh zu Lehen e.V.
+  moderner_status: kultureller Treffpunkt, Nutzung durch Verein und Ortsverwaltung, unter Denkmalschutz
+  pacht_durch: Bundschuh zu Lehen e.V. (von Familie Herder)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 458-lehen-freiburg/009
+ENTITÄT: sportstätte
+BEZEICHNUNG: Hallenbad Lehen
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Freizeitgestaltung
+  bedeutung_fuer_ort: Freizeitmöglichkeit Naherholung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 458-lehen-freiburg/010
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Lehen
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: schildförmig
+  komponenten_1: großes L (für Lehen)
+  komponenten_2: rote sichelförmige Form (Rebmesser)
+  komponenten_3: Rosette
+  angenommen: Februar 1899
+  annahmegremium: Gemeinderat Lehen
+  vorgaenger: älteres Wappen und Siegel ab frühem 18. Jahrhundert (Betzenhausen und Lehen)
+  aenderung_1899: Stern wurde in Rosette umgewandelt (Grund unbekannt)
+  vermutet_bedeutung_rosette: Ammoniten
+  hauser_mit_ammoniten: 15 Häuser mit wagenradgroßen Ammoniten an Giebelfronten
+  bedeutung_wappen: Wichtigkeit des Weinbaus für die Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 458-lehen-freiburg/011
+ENTITÄT: wirtschaftssektor
+BEZEICHNUNG: Weinbau Lehen
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anfang: 13. Jahrhundert (am Lehener Bergle)
+  bluete: 16. und 17. Jahrhundert
+  traubensorte: Spätburgunder
+  bodenverhaeltnis: aufgeweichter Lehmboden ideal
+  bedeutung_fuer_ort: so wichtig, dass es Wahl des Wappens 1899 prägte
+  status_modern: noch zwei landwirtschaftliche Vollerwerbsbetriebe, einer ist Weingut
+  gueltig_ab: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 458-lehen-freiburg/012
+ENTITÄT: sendeanlage
+BEZEICHNUNG: Sender Freiburg-Lehen
+FACETTE: INFRA | GESCHICHTE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Südwestrundfunk (SWR)
+  funktion: UKW-Rundfunk
+  antennentraeger: 92 Meter hoher Stahlfachwerkmast, gegen Erde isoliert, viereckiger Querschnitt
+  betriebsbeginn: 20. Dezember 1933
+  vorherige_sendanlage: Sender in Gewerbeschule Wiehre (Kirchstraße 4), 1926 erste Rundfunksendeanlage Baden
+  gueltig_ab: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 458-lehen-freiburg/013
+ENTITÄT: platz
+BEZEICHNUNG: Bundschuhplatz
+FACETTE: GESCHICHTE | KULTUR | LAGE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Bundschuhbewegung
+  bedeutung: historisches Zentrum des Ortes
+  umliegende_bauten: Altes Schloss, Zehntscheuer, Kirche, alter Friedhof
+  friedhof_umgestaltung: 1991 neu gestaltet
+  skulptur: Figurengruppe
+  kuenstler_skulptur: Hans-Peter Wernet (Bildhauer)
+  skulptur_symbole_1: Hahn (Wachrufen gegen Ungerechtigkeit)
+  skulptur_symbole_2: Pflug (Bauernaufstände 16. Jahrhundert)
+  skulptur_symbole_3: Bundschuh (Bauernaufstände 16. Jahrhundert)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 458-lehen-freiburg/014
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Lehen
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: beim Bundschuhplatz
+  umgestaltung: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 458-lehen-freiburg/015
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Sommer- und Winterlinde
+FACETTE: LAGE | FREIZEIT
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: zwei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 458-lehen-freiburg/016
+ENTITÄT: betrieb
+BEZEICHNUNG: Lehen-Ziegelei
+FACETTE: ALLTAG | GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rohstoff: Lehm (vom Lehener Bergle)
+  bedeutung_roemisch: Römer bauten wahrscheinlich Lehm ab (Tonwaren für römische Siedlung bei Umkirch)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 458-lehen-freiburg/017
+ENTITÄT: halle
+BEZEICHNUNG: Bundschuhhalle (Bundschuh Halle)
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung_temporaer: Interim-Standort Ortsverwaltung Lehen (März 2024 - Frühsommer 2026)
+  grund_ortsverwaltung_umzug: Neubau Feuerwache mit integrierter Ortsverwaltung
+  lage_ortsverwaltung_interim: kleiner Saal der Bundschuhhalle
+  parking: Hallenparkplatz
+  eingang_ortsverwaltung: nach Container rechts, kleiner Eingang
+  öffnungszeiten_ortsverwaltung: Montag bis Freitag 08:00-11:30, zusätzlich Mittwochabend 17:00-19:00
+  telefon_ortsverwaltung: 0761/88871-0
+  email_ortsverwaltung: ov-lehen@freiburg.de
+  gueltig_ab: März 2024
+  gueltig_bis: Frühsommer 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 458-lehen-freiburg/018
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Defibrillator Bierhäusle
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/207752.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: am Bierhäusle
+  art: Automatisierter externer Defibrillator (AED)
+  finanzierung: Spenden 2023
+  grund: Erste-Hilfe-Maßnahme bei Herzinfarkt (Defibrillation wichtig in ersten Minuten)
+  gueltig_ab: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 458-lehen-freiburg/019
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Defibrillator Bundschuhhalle
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/207752.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Bundschuhhalle
+  art: Automatisierter externer Defibrillator (AED)
+  finanzierung: finanzielle Unterstützung örtlicher Unternehmen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 458-lehen-freiburg/020
+ENTITÄT: baugebiet
+BEZEICHNUNG: Im Zinklern
+FACETTE: ALLTAG | INFRA | LAGE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: ca. 14 Hektar
+  lage: südwestlich des Ortskerns an der Dreisam
+  entschluss: Gemeinderat (März 2023)
+  gueltig_ab_bebauungsplan: März 2023
+  ursprung_planung: bereits im Eingemeindungsvertrag 1971 vereinbart
+  planung_wohneinheiten: 550 Wohneinheiten
+  davon_miet_eigentum: 515 Miet- und Eigentumswohnungen
+  davon_gefoerdert: 100 geförderte Mietwohnungen
+  davon_doppelhaus_reihenhaus: 35 Doppelhäuser oder Reihenhäuser
+  nebengebaeude_lebensmittelgeschaeft: 800 Quadratmeter
+  nebengebaeude_kita: ja
+  nebengebaeude_pflegeeinrichtung: Pflegeeinrichtung für Senioren
+  infrastruktur_quartiersplatz: ja
+  infrastruktur_bolzplaetze: zwei kleinere
+  infrastruktur_gaerten: Flächen für neue Formen des Gärtnerns
+  erwartete_bevoelkerung: ca. 1400 neue Bewohner
+  wohnungsverhaeltnis: 50 % Zuwachs der Wohnungen in Lehen
+  bevoelkerungsprognose: voraussichtlich knapp 4000 Einwohner (von ca. 2500)
+  rangliste_ortschaft_nachher: viertgrößte Ortschaft nach St. Georgen, Hochdorf und Opfingen
+  verkehr_planung: längerfristig Stadtbahn durch neues Gebiet und Ortskern zur Haltestelle Paduaallee (Zusammenhang mit Stadtteil Dietenbach)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 458-lehen-freiburg/021
+ENTITÄT: verein
+BEZEICHNUNG: Bundschuh zu Lehen e.V.
+FACETTE: KULTUR | FREIZEIT | GESCHICHTE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bekanntheit: überörtlich bekannt
+  funktion: Kultureller Treffpunkt, Denkmalschutz (Herdertürmle)
+  pacht: Herdertürmle und Grundstücke von Familie Herder gepachtet
+  aktivitaeten: Restaurierung, Nutzung mit Ortsverwaltung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 458-lehen-freiburg/022
+ENTITÄT: wanderweg
+BEZEICHNUNG: Lehener Bundschuhpfad
+FACETTE: FREIZEIT | KULTUR | GESCHICHTE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 3,4 km
+  stationen: 14
+  thema: Lebensumstände der Bauern und Geschichte der Bundschuhbewegung (chronologische Reihenfolge)
+  station_14: Bundschuh-Eiche (2013)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 458-lehen-freiburg/023
+ENTITÄT: kunstwerk
+BEZEICHNUNG: La stele dell' abbraccio (Die Stele der Umarmung)
+FACETTE: KULTUR | LAGE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Haltestelle Paduaallee (Lehen)
+  kuenstler: Antonio Ievolella
+  uebergabe: durch Assessore Bressa
+  einweihung: 10. November 2018
+  anlass: 50-jähriges Jubiläum Städtepartnerschaft Freiburg-Padua
+  einweihung_durch: OB Martin Horn (Freiburg)
+  material: Cortenstahl und Kupfer (veränderliche Materialien wie die Zeit)
+  partnerstueck: Blocco erratico (Künstlerin Jikkemien Ligteringen, im Parco Europa Padua seit letztem Jahr vorher)
+  gueltig_ab: 10. November 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 458-lehen-freiburg/024
+ENTITÄT: verkehrsanbindung
+BEZEICHNUNG: Haltestelle Paduaallee
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Lehen (Ostrand)
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wichtigkeit: wichtiger Knotenpunkt des Freiburger ÖPNV
+  betreiber: Freiburger Verkehrs AG
+  linie_1: Stadtbahn Linie 1 (zur Stadtmitte und nach Landwasser)
+  linie_32: Busline 32 (Paduaallee-Umkirch-Waltershofen-Opfingen-Rieselfeld-Haid)
+  linie_31: Busline 31 (Paduaallee-Umkirch-Waltershofen-Merdingen-Breisach)
+  linie_19: Busline 19 (Paduaallee-Lehen Ziegelei(-Mundenhof / Lehen Industriegebiet), durch Ortskern)
+  fahrradverleih: Frelo-Station
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 458-lehen-freiburg/025
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radwegverbindung FR 4 / Sundgauallee
+FACETTE: INFRA | FREIZEIT
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: direkt mit Betzenhausen, Stühlinger und Innenstadt
+  weitere_verbindung: FR 1 südlich (querungsfrei entlang Dreisam)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 458-lehen-freiburg/026
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahnanbindung Lehen
+FACETTE: INFRA | LAGE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschlussstelle: Freiburg-Mitte (auf Lehener Gemarkung)
+  autobahn_a5: Karlsruhe-Basel
+  bundesstrasse_31a: Gottenheim-Freiburg Stadtmitte
+  ausfahrt_name: Freiburg-Lehen (südöstlich)
+  ostgrenze_infrastruktur: Westrandstraße (räumliche Trennung zu Betzenhausen)
+  trennwirkung_geschichte: mit Bau 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 458-lehen-freiburg/027
+ENTITÄT: gaststätte
+BEZEICHNUNG: Gasthaus zum Hirschen (Hirschenpost)
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: über 600 Jahre nachgewiesen
+  grund_existenz: Lage an wichtiger Ost-West-Verbindung (Roßkopf, vor Freiburg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 458-lehen-freiburg/028
+ENTITÄT: gaststätte
+BEZEICHNUNG: Gasthaus Löwen
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seit: 1728
+  status_bewirtung: ständig bewirtet nachgewiesen
+GUELTIG_AB: 1728
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 458-lehen-freiburg/029
+ENTITÄT: gaststätte
+BEZEICHNUNG: Bierhäusle
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Lehen
+QUELLE: https://www.freiburg.de/pb/1866522.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seit: 1855
+  status_bewirtung: ständig bewirtet nachgewiesen
+GUELTIG_AB: 1855
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

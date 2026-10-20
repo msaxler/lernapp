@@ -1,0 +1,875 @@
+{
+ "ort": "447-herdern",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Museum": [
+   {
+    "name": "depot.K",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "gallery"
+    }
+   },
+   {
+    "name": "Galerie der Schönen Künste",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "gallery"
+    }
+   },
+   {
+    "name": "Atelier - Viola Jürgens",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://viola-juergens.com",
+    "tags": {
+     "tourism": "gallery"
+    }
+   }
+  ],
+  "Kultur": [
+   {
+    "name": "Vorderhaus - Kultur in der FABRIK",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.vorderhaus.de/",
+    "tags": {
+     "amenity": "theatre"
+    }
+   },
+   {
+    "name": "aka-Filmclub e.V. Kino im Hörsaal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.aka-filmclub.de",
+    "tags": {
+     "amenity": "cinema"
+    }
+   }
+  ],
+  "Bahnhof": [
+   {
+    "name": "Freiburg-Herdern",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.bahnhof.de/freiburg-herdern",
+    "tags": {
+     "railway": "halt"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Botanischer Garten",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "attraction"
+    }
+   }
+  ],
+  "Bildung": [
+   {
+    "name": "Sankt Elisabeth Leben-Lernen-Arbeiten",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "college"
+    }
+   },
+   {
+    "name": "Arbeit und Ausbildung für Flüchtlinge",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "college"
+    }
+   },
+   {
+    "name": "Fakultät für Biologie",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "university",
+     "landuse": "education"
+    }
+   },
+   {
+    "name": "Albert-Ludwigs-Universität Freiburg",
+    "zusatz": "",
+    "wikipedia": "de:Albert-Ludwigs-Universität Freiburg",
+    "website": "https://uni-freiburg.de",
+    "tags": {
+     "amenity": "university"
+    }
+   },
+   {
+    "name": "Katholische Hochschule Freiburg",
+    "zusatz": "",
+    "wikipedia": "de:Katholische Hochschule Freiburg",
+    "website": "https://www.kh-freiburg.de/",
+    "tags": {
+     "amenity": "university"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Sankt Urbans Gedenkstein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Isidor Fränkel",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/isidor-fraenkel/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Ostarbeiterlager",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Weißes Kreuz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Max Tritschler",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/max-tritschler/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Sigmund Dreyfuss",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/bertha-judas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Bertha Judas",
+    "zusatz": "seit 2006",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/bertha-judas//",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Lina Bloch",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/lina-bloch/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Sigmund Bloch",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/sigmund-bloch/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Richard Guggenheim",
+    "zusatz": "seit 2006",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/renee-guggenheim/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Adolf Levy",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/adolf-levy/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Heinrich Rosenberg",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/heinrich-rosenberg/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Ilse Rosenberg",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/ilse-rosenberg/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Nathan Otto Rosenberg",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/nathan-otto-rosenberg/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Beatrice Weinschenk",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/beatrice-weinschenk/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hermine Roos",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hermine-roos/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Otto Roos",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/otto-roos/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Nina Roos",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/nina-roos/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Jette Judas",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/jette-judas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Rosa Regina Bloch",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/rosa-regina-bloch/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Annette Witkop",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/annette-witkop/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Dr. Bernhard Witkop",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/dr-bernhard-witkop/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Harald Witkop",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/harald-witkop/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hedwig Witkop",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hedwig-witkop/",
+    "tags": {
+     "historic": "memorial"
+    }
+   }
+  ],
+  "Natur": [
+   {
+    "name": "Felsbrunnen Immental",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "spring"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Glasbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Gewerbekanal (Nordarm)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Sporthalle des Droste-Hülshoff-Gymnasiums",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Sporthalle der Weiherhof-Grundschule",
+    "zusatz": "seit 1965, multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Licht-Luft-Sportbad am Hebsack",
+    "zusatz": "seit 1923",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre"
+    }
+   }
+  ],
+  "Betrieb": [
+   {
+    "name": "FABRIK für Handwerk, Kultur & Ökologie e.V.",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.fabrik-freiburg.de/",
+    "tags": {
+     "landuse": "industrial"
+    }
+   }
+  ],
+  "Aussicht": [
+   {
+    "name": "Roßkopfturm",
+    "zusatz": "seit 1889",
+    "wikipedia": "de:Roßkopfturm",
+    "website": null,
+    "tags": {
+     "man_made": "tower",
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Klinik": [
+   {
+    "name": "Klinik für Dermatologie und Venerologie",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "hospital"
+    }
+   },
+   {
+    "name": "Klinik für Psychiatrie und Psychotherapie",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "hospital"
+    }
+   },
+   {
+    "name": "Psychiatrie und Psychotherapie",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "hospital"
+    }
+   },
+   {
+    "name": "Universitätsklinikum Freiburg",
+    "zusatz": "",
+    "wikipedia": "de:Universitätsklinikum Freiburg",
+    "website": null,
+    "tags": {
+     "amenity": "hospital"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Zähringer-Wanderweg",
+    "zusatz": "74 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Breisgauer Weinweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kandel-Höhenweg [05. St. Peter→Freiburg]",
+    "zusatz": "",
+    "wikipedia": "de:Kandelhöhenweg",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Spielplatz Altbach - Steinbruchweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Freiburg-Herdern Immentalstraße - Immentalkreuz",
+    "zusatz": "0.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Freiburg-Herdern Kirche - Waltersbergweg",
+    "zusatz": "0.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Freiburg-Herdern Kirche - Freiburg-Herdern Immentalstraße",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Freiburg-Herdern Kirche - Herder Sonnhalde",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Licht-, Luft-, Sportbad - Herder Sonnhalde",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Herder Sonnhalde - Licht-, Luft-, Sportbad",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Licht-, Luft-, Sportbad - Beim Rebberg Herdern",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Rebberg Herdern - Panoramahotel",
+    "zusatz": "1.0 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hebsackweg - Beim Rebberg Herdern",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bei der Hebsackwiese - Hebsackweg",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Steinbruchweg - Bei der Hebsackwiese",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bei der Hebsackwiese - Beim Rebberg Herdern",
+    "zusatz": "0.6 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Steinbruchweg - Ladstatt",
+    "zusatz": "0.6 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ladstatt - Schlosshäuser Süd",
+    "zusatz": "2.5 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ladstatt - Roßkopfweg",
+    "zusatz": "2.0 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ladstatt - Beim Hebsackweg",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Hebsackweg - Hebsackweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Fuchsköpfleweg - Ladstatt",
+    "zusatz": "0.5 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Eichhalde - Fuchsköpfleweg",
+    "zusatz": "0.6 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Krottenweiher - Sieben Linden",
+    "zusatz": "2.0 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Panoramahotel - Höllriegel",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Höllriegel - Beim Krottenweiher",
+    "zusatz": "0.1 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Höllriegel - Eichhalde",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Eichhalde - Beim Hebsackweg",
+    "zusatz": "0.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Panoramahotel - Eichhalde",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Waltersbergweg - Beim Krottenweiher",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Panoramahotel - Waltersbergweg",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Immental - Immentalkreuz",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Immentalkreuz - Wanderparkplatz Immental",
+    "zusatz": "0.3 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sommerbuck - Obere Roßkopfstufe",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Husarenwegle - Oberhalb Sankt Ottilien",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Roßkopfhaldenweg - Husarenwegle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bei den Windrädern - Rosskopf",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rosskopf - Lachen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Obere Roßkopfstufe - Roßkopfhaldenweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Roßkopfhaldenweg - Sieben Linden",
+    "zusatz": "1.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Fuchsköpfleweg - Obere Roßkopfstufe",
+    "zusatz": "1.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Jakobsweg Rottenburg - Thann (2)",
+    "zusatz": "",
+    "wikipedia": "en:Camino de Santiago",
+    "website": "https://www.jakobswege-europa.de/wege/rottenburg-hericourt.htm",
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "RadNETZ Freiburg - Gundelfingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.fahrradland-bw.de/radverkehr-in-bw/radnetz/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Badischer Weinradweg - Etappe 2 Variante: Freiburg/Glottertal",
+    "zusatz": "seit 2020, 43 km",
+    "wikipedia": null,
+    "website": "https://www.touren-schwarzwald.info/de/tour/radfahren/badischer-weinradweg-variante-zu-etappe-2-freiburg-glottertal/32683013/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Radschnellweg 6",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ]
+ }
+}

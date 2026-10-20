@@ -1,0 +1,307 @@
+ENTITÄT: ort
+BEZEICHNUNG: Dietenbach
+FACETTE: LAGE | GESCHICHTE | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadtteil: true
+  ist_im_bau_befindlich: true
+  liegt_in: Freiburg im Breisgau
+  lage: westlich von Freiburg-Zentrum, zwischen B31a und Stadtteil Rieselfeld
+  grenzt_an: Mundenhof (nordwestlich), Tel-Aviv-Yafo-Allee (östlich), Rieselfeld (östlich)
+  geplante_wohnungen: 6900
+  geplante_einwohner: 16000
+  geplante_flaeche: 107, einheit: Hektar
+  geplanter_baubeginn: 2024-02-27
+  geplantes_bauende: 2042
+  ersteraeume_bezugsfertig_ab: 2028
+  verkehrskonzept: autoarm
+  klimaneutralitaet_geplant: true
+  benannt_nach: Dietenbach (Bach durch Baugelände)
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: spatenstich
+BEZEICHNUNG: Spatenstich Dietenbach
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  datum: 2024-02-27
+  durchgeführt_von: Olaf Scholz, titel: Bundeskanzler
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: architektenbüro
+BEZEICHNUNG: K9 Architekten
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  gewann_wettbewerb: städtebaulicher Wettbewerb für Dietenbach
+  wettbewerb_jahr: 2018-10
+  sitz: Freiburg
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wald
+BEZEICHNUNG: Langmattenwäldchen
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich Dietenbach, Grenze zu Rieselfeld
+  rodung_geplant: wahr
+  rodung_fläche: 4, einheit: Hektar
+  genauigkeit_rodung: ca.
+  ist_charakteristikum: wahr
+  bedeutung_fuer_ort: Umweltschutz und Grünflächenplanung
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Dietenbachpark
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlich auf Besançonallee
+  enthält_see: Dietenbachsee
+  soll_erhalten_bleiben: wahr
+  ist_charakteristikum: wahr
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: ökologischer Stadtteilpark Dietenbach
+FACETTE: LAGE | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  breite: 35, einheit: Meter, genauigkeit: durchschnittlich
+  zweck: Hochwasserschutz Dietenbach, ökologischer Ausgleich
+  funktion_als: Überschwemmungsbereich
+  ist_charakteristikum: wahr
+  bedeutung_fuer_ort: ermöglicht Bebauung trotz Hochwassergefährdung
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hochspannungsleitungen Deutsche Bahn und Netze BW
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 2
+  betreiber: Deutsche Bahn, Netze BW
+  verlauf: über Dietenbachgelände
+  sperrzone_breite: 40, einheit: Meter, grund: Sicherheit
+  verlegung_erforderlich: wahr
+  verlegung_kosten: 9000000, einheit: Euro
+  verlegung_baubeginn_geplant: 2026, season: Frühjahr
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bebauungsplan
+FACETTE: GESCHICHTE | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  rang: erster Bebauungsplanentwurf
+  beschluss_datum: 2022-07-26
+  beschlussgremium: Freiburger Gemeinderat
+  abdeckende_fläche: 62, einheit: Hektar
+  wohnungen: 1600
+  enthält: zentraler Marktplatz, Gemeinschaftsschule (erster Bauabschnitt), Straßenbahn-Trasse
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: hochwasserschutz
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  grund: Dietenbachgelände war Überschwemmungsgebiet
+  massnahme: Aufschüttung des Baugrunds für Grundwasserschutz
+  resultat: Bauen möglich, Überschwemmungsgebiet-Status aufgehoben
+  zusaetzlich_hochwasserrueckhaltebecken: Breitmatte (in Betrieb 2022-11), Bohrertal (in Betrieb 2023-04)
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturschutz_massnahme
+FACETTE: ALLTAG | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: Vergrämen von Haselmaus
+  grund: häufiges Vorkommen auf Gelände, Teil größerer Population
+  zielgebiet: südlicher Mooswald
+  zeitraum_umsetzung: 2020-2021
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fund
+BEZEICHNUNG: amerikanische Fliegerbombe
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: American
+  art: Fliegerbombe
+  gefunden: 2021, Jahreszeit: Herbst
+  kontext: Kampfmittelsondierungen
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: grundstückserwerb
+FACETTE: GESCHICHTE | INFRA
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  datum: 2021-10, genauigkeit: Ende Oktober
+  fläche_erworben: 17, einheit: Hektar
+  kosten: 2800000, einheit: Euro
+  käufer: Stadt Freiburg
+  verkäufer: Land Baden-Württemberg
+  fläche_noch_im_landeseigentum: 5, einheit: Hektar
+  geplante_nutzung_landeseigentum: Mitarbeiterwohnungen Uniklinik, Studierendenwohnheim
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: energiekonzept
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  vorgestellt: 2021-07-13
+  basiert_auf: energieeffiziente Gebäude, Solarstrom, erneuerbare Nahwärme, grüner Wasserstoff
+  ziel: Klimaneutralität des Stadtteils
+  wurde_kritisiert: wahr, genauigkeit: vermutlich
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgerentscheid
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  datum: 2019-02-24
+  question: Soll das Dietenbachgebiet unbebaut bleiben?
+  unterschriften_gesammelt: 12500
+  quorum_erforderlich: 11812
+  quorum_prozent: 7
+  wahlbeteiligung: 49.6, einheit: Prozent
+  ergebnis_nein_prozent: 60, einheit: Prozent
+  ergebnis_nein_stimmen_erforderlich: 34245, einheit: Stimmen
+  ergebnis_auslegung: Gebiet wird bebaut (Nein-Stimmen überwiegen, aber Quorum nicht erreicht)
+  ist_bürgerentscheid: 6, einheit: Nummer in Freiburger Geschichte
+  kosten_gesamt: 580000, einheit: Euro
+  kosten_wahlkampf: 310000, einheit: Euro
+  zeitverzögerung: ca. 1, einheit: Jahr
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: protest
+BEZEICHNUNG: Baumbesetzung Langmattenwäldchen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: Juni 2021 bis Dezember 2024
+  ort: Langmattenwäldchen
+  form: Errichtung von Baumhäusern, Besetzung
+  grund: Protest gegen Waldrodung ca. 5 Hektar
+  kampagnenname: Dieti bleibt!
+  verlauf: Bäume Ende Dezember 2024 gerodet, Besetzer polizeilich entfernt
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: öpnv
+BEZEICHNUNG: Straßenbahn Dietenbach
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verkehrsmittel: Straßenbahn
+  verbindung_von: Rieselfeld Verlängerung
+  stationen_geplant: 3
+  stationen_lage: am Übergang Rieselfeld-Dietenbach (Schul- und Sportcampus), Ortsmitte, Straße Zum Tiergehege (Richtung Mundenhof)
+  ist_charakteristikum: wahr
+  bedeutung_fuer_ort: Anbindung von Beginn an, autoarmes Verkehrskonzept
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fuß_radweg
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  geplante_brücken: 2
+  brücke_nord: über B31a zum FR 1
+  brücke_ost: über Westrandstraße zum Dietenbachpark
+  verbindung_süd: FR 5 über Mundenhofer Steg, Unterführung unter Westrandstraße nach Betzenhausen
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: straßennetz
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  struktur: Ringstraße mit Anbindungen an B31a und Westrandstraße
+  quartiersstrassen: 4 verkehrsberuhigte Geschäftsstraßen als Stichboulevards
+  parkierung: Hochgaragen an Ringstraße, Haltebuchten im Quartier für Handwerker und Carsharing
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: erdaushublager
+BEZEICHNUNG: Erdaushubzwischenlager Dietenbach
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  größe: 13, einheit: Hektar
+  betreiber: Erdaushubzwischenlager Dietenbach GmbH (100% städtisch)
+  betrieb_start: 2021-12
+  jährliche_menge: 100000-130000, einheit: Tonnen, genauigkeit: geplant
+  lagerung_form: zwei Berge, höhe: 12-15, einheit: Meter
+  zweck: Aufschüttung des Baugrundes für Dietenbach
+  ausgleichsmassnahmen: Umsiedlung Zauneidechsen und Goldammer (seit 2020)
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

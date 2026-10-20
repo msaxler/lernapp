@@ -1,0 +1,261 @@
+ID: 450-oberau/001
+ENTITÄT: ort
+BEZEICHNUNG: Oberau
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 6700
+  einwohner_stand_jahr: 2022
+  bevoelkerungsdichte: 126
+  bevoelkerungsdichte_einheit: "Einwohner pro Hektar"
+  flaeche: 55.3
+  flaeche_einheit: ha
+  rang_bevoelkerungsdichte: "zweithöchste in Freiburg (nach Vauban mit 137,7)"
+  nachbarort_osten: Waldsee
+  nachbarort_sueden: Oberwiehre
+  nachbarort_westen: Altstadt
+  lage: "südlich des Schlossbergs und Hirzbergs"
+  durchflusses: Dreisam
+GUELTIG_AB: 1302
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 450-oberau/002
+ENTITÄT: ort
+BEZEICHNUNG: Oberau
+FACETTE: GESCHICHTE
+QUELLE: https://leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7730/Oberau | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung: 1302
+  ersterwahnung_form: "In der oberun ouwe"
+GUELTIG_AB: 1302
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 450-oberau/003
+ENTITÄT: brauerei
+BEZEICHNUNG: Brauerei Ganter
+FACETTE: WIRTSCHAFT | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: "Privat-Brauerei"
+  charakteristikum: "optisch beherrschender Gewerbebetrieb"
+  besonderheiten: "Mälzereiturm, eigene Tiefbrunnen, Biergarten"
+  bedeutung_fuer_ort: "einziger verbliebener größerer Gewerbebetrieb im Stadtteil"
+  zusatzangebot_veranstaltungen: "Wodan-Halle (ehemalige Bierlager-Halle) mit Musikveranstaltungen Folk, Rock, Jazz"
+  veraenderung_2021: "Teil des Geländes für Wohnbebauung verkauft"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 450-oberau/004
+ENTITÄT: kirche
+BEZEICHNUNG: Friedenskirche
+FACETTE: RELIGION | LAGE
+QUELLE: https://leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7730/Oberau | Landesportal
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  erbauungsjahr: 1951
+  pfarrei: "Evangelische Friedenspfarrei"
+  lage: "Ostrand des Stadtteils"
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 450-oberau/005
+ENTITÄT: pfarrei
+BEZEICHNUNG: Evangelische Friedenspfarrei
+FACETTE: RELIGION
+QUELLE: https://leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7730/Oberau | Landesportal
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gruendungsjahr: 1928
+  zugehoerige_stadtteile: "Oberau, Oberwiehre, Waldsee (teilweise)"
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 450-oberau/006
+ENTITÄT: pfarrei
+BEZEICHNUNG: Maria-Hilf-Pfarrei
+FACETTE: RELIGION
+QUELLE: https://leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7730/Oberau | Landesportal
+EIGENSCHAFTEN:
+  konfession: katholisch
+  lage: Wiehre
+  zugehoerige: "Katholiken aus Oberau"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 450-oberau/007
+ENTITÄT: berg
+BEZEICHNUNG: Schlossberg
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: Weinlagen
+  weinlage: "Freiburger Schlossberg"
+  weinlage_rang: "gehört zu den 100 besten Weinlagen Deutschlands"
+  weingueter_anzahl: 3
+  exposition: "reine Südlage an Südhängen"
+  besonderheiten_terroir: "optimale Sonneneinstrahlung, kühler Abendfallwind aus dem Schwarzwald (Höllentäler), Gneis-Verwitterungsböden"
+  wein_klassifizierung: "einige als Großes Gewächs klassifiziert"
+  geschichte_weinbau: "bestand schon vor der Gründung der Stadt Freiburg, Ausdehnung heute geringer"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 450-oberau/008
+ENTITÄT: berg
+BEZEICHNUNG: Hirzberg
+FACETTE: LAGE | FREIZEIT | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Anhöhe oberhalb des ehemaligen Gesindehauses"
+  bewaeltung: "teils bewaldet, teils offene Flächen"
+  nutzung_offene_flaechen: "Schafweide"
+  brauch: "Scheibenschlagen am Ende der Fasnet"
+  denkmal: "Holzkreuz von Franz Eggenschwieler (aufgestellt 1979, Anlass: 85. Katholikentag 1978)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 450-oberau/009
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule für Musik Freiburg
+FACETTE: BILDUNG | INFRASTRUKTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Ostrand des Stadtteils Oberau"
+  vorgaenger_gelaende: "ehemalige Stadtgärtnerei"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 450-oberau/010
+ENTITÄT: gymnasium
+BEZEICHNUNG: Deutsch-Französisches Gymnasium
+FACETTE: BILDUNG | INFRASTRUKTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Ostrand des Stadtteils Oberau"
+  vorgaenger_gelaende: "ehemalige Stadtgärtnerei"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 450-oberau/011
+ENTITÄT: gaststaette
+BEZEICHNUNG: Gasthaus zum Stahl
+FACETTE: ALLTAG | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erbaujahr: 1700
+  genauigkeit_erbaujahr: "ca."
+  ursprung: "ehemalige Stallwirtschaft"
+  zusatz: Biergarten
+  rang: "vermutlich ältestes heute noch bestehendes Gebäude der Oberau"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 450-oberau/012
+ENTITÄT: gaststaette
+BEZEICHNUNG: Dreikönigshaus
+FACETTE: ALTAG | GESCHICHTE | SOZIALES
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ursprungsname: "Zu den Heiligen Drei Königen"
+  erbaujahr: 1743
+  nutzung_historie: "Gasthaus"
+  nutzung_heute: "Essenstreff für bedürftige Menschen, betrieben von Förderverein"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 450-oberau/013
+ENTITÄT: gebaeuede
+BEZEICHNUNG: Gesindehaus mit Gewölbekeller
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erbaujahr: 1700
+  genauigkeit: "ca."
+  funktion_geschichte: "Gewölbekeller als Hufschmiede und Parkplatz für Fuhrwerke ärmerer Bauern aus dem Dreisamtal auf dem Weg zum Münstermarkt"
+  nutzung_heute: "Teil des Campingplatzes am Hirzberg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 450-oberau/014
+ENTITÄT: veranstaltungsort
+BEZEICHNUNG: Wodan-Halle
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: "ehemalige Bierlager-Halle der Brauerei Ganter"
+  nutzung: "Musikveranstaltungen Folk, Rock, Jazz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 450-oberau/015
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: ZO (Zentrum Oberwiehre)
+FACETTE: INFRASTRUKTUR | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Alten Messplatz, Grenze zwischen Oberau und Oberwiehre"
+  ausstattung: "Geschäfte, gastronomische Betriebe, Dienstleister"
+  funktion: "Einkaufsmöglichkeit für den Osten des Stadtteils"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 450-oberau/016
+ENTITÄT: rundfunkstation
+BEZEICHNUNG: Landesstudio Freiburg (Südwestrundfunk)
+FACETTE: INFRASTRUKTUR | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  gebaeuede: "Funkhaus (ehemaliges Fabrikgebäude der Garnfabrik Mez)"
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 450-oberau/017
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Straßenbahnlinie 1
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "entlang der Schwarzwaldstraße"
+  erschliessung: Oberau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 450-oberau/018
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radwege
+FACETTE: INFRA | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  radweg_fr1: "entlang Dreisam, verbindet westliche Stadtteile mit Sportpark Ost und Dreisamtal"
+  radweg_fr8: "teilweise östlich Richtung Kappel, westlich durch Wiehre"
+  radschnellweg_geplant: "entlang Kartäuserstraße nach Kirchzarten"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 450-oberau/019
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße 31
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "südwestlicher Rand der Oberau"
+  problem: "starke Belastung durch überörtlichen Durchgangsverkehr, trennt Oberau von Oberwiehre"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 450-oberau/020
+ENTITÄT: regulierung
+BEZEICHNUNG: Bewohnerparken
+FACETTE: INFRA | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  einfuehrungszeitpunkt: "April 2024"
+  umfang: "weite Teile des Stadtteils"
+  ziel: "Schutz der Bewohner vor Fremdparkern aus der Umgebung"
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

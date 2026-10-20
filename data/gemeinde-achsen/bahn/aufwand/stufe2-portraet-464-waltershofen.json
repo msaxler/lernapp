@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "464-waltershofen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 15802,
+ "token_ein": 340054,
+ "token_aus": 10491,
+ "usage": {
+  "input_tokens": 18,
+  "cache_creation_input_tokens": 41387,
+  "cache_read_input_tokens": 298649,
+  "output_tokens": 10491,
+  "output_tokens_details": {
+   "thinking_tokens": 5159
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 41387,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 6170,
+    "cache_read_input_tokens": 43776,
+    "cache_creation_input_tokens": 4513,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 4513
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.0269228000000001,
+ "sekunden": 135,
+ "fehler": false,
+ "zeit": "2026-10-20T13:09:36"
+}

@@ -171043,537 +171043,232 @@
 "entitaet": "ort",
 "bezeichnung": "Hochdorf",
 "eigenschaften": [
-"bevoelkerungsdichte",
+"bevoelkerungsdichte_je_km2",
+"eingemeindung_datum",
 "einwohner",
-"flaeche",
-"gliederung_ortsteile",
-"hoehe",
-"ist_marchgemeinde",
-"ist_ortsteil",
-"lage",
-"nachbarorte"
+"einwohner_stand",
+"entwicklung_merkmal",
+"erste_erwahnung_form",
+"erste_erwahnung_jahr",
+"flaeche_km2",
+"hoehe_m_ueber_nn",
+"ist_ortsteil_von",
+"liegt_in_region",
+"nachbargemeiden",
+"ortsteile"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/002": {
-"entitaet": "ort",
-"bezeichnung": "Hochdorf",
+"entitaet": "ortsteil",
+"bezeichnung": "Benzhausen",
 "eigenschaften": [
-"einwohner",
-"genauigkeit"
+"erste_erwahnung_form",
+"erste_erwahnung_jahr",
+"groesse"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/003": {
-"entitaet": "ortsteil",
-"bezeichnung": "Benzhausen",
+"entitaet": "kirche",
+"bezeichnung": "St. Martinskirche",
 "eigenschaften": [
-"erste_erwaehnung",
-"erste_erwaehnung_quelle",
-"lage_bezug"
+"architektur_zeit",
+"besonderheit",
+"errichtung_fruehestes_datum",
+"gemeinde_ausrichtung",
+"gemeinde_mitgliederzahl",
+"orgel_baujahr",
+"orgel_neubau_jahr",
+"orgel_orgelbauer",
+"orgel_register_neubau",
+"orgel_renovierung_jahr",
+"patrozinium",
+"superlativ",
+"turmfertigung_jahr",
+"umbau_jahr"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/004": {
-"entitaet": "erste_erwaehnung_schriftlich",
-"bezeichnung": "Hochdorf",
+"entitaet": "kapelle",
+"bezeichnung": "St.-Agatha-Kapelle",
 "eigenschaften": [
-"anmerkung",
-"dokumentation_jahr_codex",
-"jahr",
-"kontext",
-"quelldokument"
+"charakter",
+"erste_erwahnung_jahr",
+"gottesdienstzeiten",
+"wiedererrichtung_zeit"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/005": {
-"entitaet": "kirche",
-"bezeichnung": "St. Martinskirche",
+"entitaet": "platz_zentrum",
+"bezeichnung": "Högebrunnenplatz",
 "eigenschaften": [
-"beschreibung",
-"erste_erwaehnung",
-"heutige_gestalt_jahr",
-"turm_bau",
-"turm_status"
+"funktion",
+"gestaltung_elemente",
+"lage",
+"umgestaltung_jahr"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/006": {
-"entitaet": "kirche",
-"bezeichnung": "St. Martinskirche",
+"entitaet": "skulptur",
+"bezeichnung": "Weltenlenker",
 "eigenschaften": [
-"annahme",
-"erste_erwaehnung_nachweis",
-"gemeinde_konfession",
-"gemeindeglieder",
-"heutige_form",
-"mehrfach_vergroessert_renoviert",
-"platzposition",
-"seelsorgeeinheit",
-"turm_denkmalschutz",
-"turm_fertigstellung"
+"durchmesser_wurzelstock_m",
+"entstehungsgruende",
+"erstellungsjahr",
+"gewicht_tonnen",
+"hoehe_m",
+"kuenstler",
+"kuenstler_qualifikation",
+"lage",
+"material",
+"umfang_m"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/007": {
-"entitaet": "kirchliche_einrichtung",
-"bezeichnung": "St. Agatha-Kapelle",
+"entitaet": "hallenbad",
+"bezeichnung": "Hallenbad Hochdorf",
 "eigenschaften": [
-"charakterisierung",
-"erste_erwaehnung",
-"status"
+"beckengroesse_m",
+"besonderheit",
+"lage"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/008": {
-"entitaet": "kirchliche_einrichtung",
-"bezeichnung": "St. Agatha-Kapelle",
+"entitaet": "badesee",
+"bezeichnung": "Tunisee",
 "eigenschaften": [
-"bedeutung_historisch",
-"erste_erwaehnung",
-"gottesdienste_saisonalitaet"
+"ausstattung",
+"entstehungsgrund",
+"nutzer_anlass",
+"zugang_tagesbesucher"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/009": {
-"entitaet": "orgel",
-"bezeichnung": "Orgel der St. Martinskirche",
+"entitaet": "festival",
+"bezeichnung": "Sea You Festival",
 "eigenschaften": [
-"bau_jahr",
-"erbauer",
-"erbauer_ort",
-"erhaltung_element",
-"neubau_firma",
-"neubau_jahr",
-"register",
-"renovierung",
-"trakturen",
-"verlust_werk"
+"art",
+"beginn_jahr",
+"frequenz",
+"lage"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/010": {
-"entitaet": "evangelische_gemeinde",
-"bezeichnung": "Evangelische Pfarrei Hochdorf",
+"entitaet": "badesee",
+"bezeichnung": "Silbersee",
 "eigenschaften": [
-"bestand_ab",
-"gemeindeglieder",
-"gemeindehaus_benannt_nach",
-"gemeindehaus_einweihung",
-"kirchenzugehörigkeit",
-"teil_von"
+"entstehungsgrund",
+"nutzer_anlass",
+"zugang_tagesbesucher"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/011": {
-"entitaet": "kunstwerk",
-"bezeichnung": "Weltenlenker",
+"entitaet": "wald",
+"bezeichnung": "Mooswald",
 "eigenschaften": [
-"jahr_schaffung",
-"kuenstler",
-"standort"
+"aktivitaeten",
+"besonderheit",
+"lage"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/012": {
-"entitaet": "kunstwerk",
-"bezeichnung": "Weltenlenker",
+"entitaet": "naturschutzgebiet",
+"bezeichnung": "Mühlmatten",
 "eigenschaften": [
-"anlass",
-"arbeitsbeginn",
-"einweihung",
-"genauigkeit",
-"gewicht",
-"hoehe",
-"kuenstler",
-"material",
-"material_quelle",
-"stammumfang",
-"standort",
-"wurzelstockdurchmesser_oben"
+"lage"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/013": {
-"entitaet": "platz_zentrum",
-"bezeichnung": "Högebrunnenplatz",
+"entitaet": "gewerbegebiet",
+"bezeichnung": "Gewerbe- und Industriegebiet Hochdorf",
 "eigenschaften": [
-"ausstattung",
-"funktion",
-"neugestaltung_jahr"
+"bedeutung_fuer_ort",
+"lage"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/014": {
-"entitaet": "schwimmbad",
-"bezeichnung": "Hochdorfer Hallenbad",
+"entitaet": "schule",
+"bezeichnung": "Mühlmattenschule",
 "eigenschaften": [
-"beckentypen",
-"oeffnungszeiten",
-"saisonal_angebote_herbst_winter",
-"saisonal_angebote_sommer"
+"errichtung_jahr",
+"lage",
+"typ"
 ],
 "berichtigungen": 0
 },
 "397-hochdorf-freiburg/015": {
-"entitaet": "badeanlagen",
-"bezeichnung": "Tunisee",
-"eigenschaften": [
-"besonderheit",
-"betriebsform",
-"event",
-"event_frequenz",
-"event_start",
-"herkunft",
-"typ",
-"zugaenglichkeit_tagesbesucher"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/016": {
-"entitaet": "badeanlagen",
-"bezeichnung": "Silbersee",
-"eigenschaften": [
-"betriebsform",
-"herkunft",
-"typ",
-"zugaenglichkeit_tagesbesucher"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/017": {
-"entitaet": "wochenmarkt",
-"bezeichnung": "Hochdorfer Wochenmarkt",
-"eigenschaften": [
-"angebote",
-"kontakt",
-"standort",
-"tag",
-"uhrzeit",
-"verein"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/018": {
-"entitaet": "tierprojekt",
-"bezeichnung": "Storchennest Freiburg-Hochdorf",
-"eigenschaften": [
-"beobachtung_online",
-"standort",
-"tierart"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/019": {
-"entitaet": "buergerprojekt",
-"bezeichnung": "Nachtwanderer",
-"eigenschaften": [
-"beteiligung",
-"einsatzzeiten",
-"erfolgsindikator",
-"herkunft",
-"ziele"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/020": {
-"entitaet": "sammelstelle",
-"bezeichnung": "Korksammelstelle Hochdorf",
-"eigenschaften": [
-"arbeitsplätze_diakonie",
-"standort",
-"verarbeitungsbeginn",
-"verarbeitungsort",
-"zielprodukt"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/021": {
-"entitaet": "ortsverwaltung",
+"entitaet": "ort_verwaltung",
 "bezeichnung": "Ortsverwaltung Hochdorf",
 "eigenschaften": [
 "adresse",
-"email",
-"oeffnungszeiten_mi_zusaetzlich",
-"oeffnungszeiten_mo_fr",
-"telefon",
-"termine_absprache"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/022": {
-"entitaet": "person",
-"bezeichnung": "Anita Reich",
-"eigenschaften": [
-"amt",
-"sprechzeiten",
+"leitung",
+"leitung_titel",
 "telefon"
 ],
 "berichtigungen": 0
 },
-"397-hochdorf-freiburg/023": {
-"entitaet": "schule",
-"bezeichnung": "Mühlmattenschule",
-"eigenschaften": [
-"bau_bezug_jahr",
-"schultyp",
-"standortnaeche"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/024": {
-"entitaet": "kindergarten",
-"bezeichnung": "Kindergarten Regenbogen",
-"eigenschaften": [
-"bestand",
-"standortnaeche"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/025": {
-"entitaet": "kindergarten",
-"bezeichnung": "Kindergarten Löwenzahn",
-"eigenschaften": [
-"schultyp",
-"standortnaeche"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/026": {
-"entitaet": "kindergarten",
-"bezeichnung": "Kindergarten Kunterbunt",
-"eigenschaften": [
-"status"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/027": {
-"entitaet": "kultureinrichtung",
-"bezeichnung": "Zentrales Kunstdepot der Städtischen Museen Freiburg",
-"eigenschaften": [
-"standort"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/028": {
-"entitaet": "wappen",
-"bezeichnung": "Gemeindewappen Hochdorf",
-"eigenschaften": [
-"beschreibung_oben",
-"beschreibung_unten",
-"herkunft_schnewlin",
-"herkunft_stürtzel",
-"zeigezeit"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/029": {
-"entitaet": "partnerstadt",
+"397-hochdorf-freiburg/016": {
+"entitaet": "gemeinde_partner",
 "bezeichnung": "Chevilly-Larue",
 "eigenschaften": [
-"lage",
-"land",
-"partnerschaft_seit",
-"region"
+"lage_frankreich",
+"partnerland",
+"partnerschaft_seit"
 ],
 "berichtigungen": 0
 },
-"397-hochdorf-freiburg/030": {
-"entitaet": "geschichtliches_ereignis",
-"bezeichnung": "Eingemeindung nach Freiburg",
-"eigenschaften": [
-"folge",
-"genaueres_datum",
-"monat_jahr",
-"prozess"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/031": {
-"entitaet": "geschichtliches_ereignis",
-"bezeichnung": "Besiedlung in Jungsteinzeit",
-"eigenschaften": [
-"befund_1969",
-"zeitperiode"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/032": {
-"entitaet": "geschichtliches_ereignis",
-"bezeichnung": "Hallstattzeit-Funde",
-"eigenschaften": [
-"befund",
-"befund_zusaetzlich",
-"zeitperiode"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/033": {
-"entitaet": "geschichtliches_ereignis",
-"bezeichnung": "Keltische Siedlung",
-"eigenschaften": [
-"befund_1988",
-"zeitperiode"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/034": {
-"entitaet": "geschichtliches_ereignis",
-"bezeichnung": "Römisches Gewerbegebiet",
-"eigenschaften": [
-"befund_jahre",
-"befunde",
-"zeitperiode"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/035": {
-"entitaet": "geschichtliches_ereignis",
-"bezeichnung": "Alemannische Besiedlung",
-"eigenschaften": [
-"befunde",
-"zeitperiode"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/036": {
-"entitaet": "verein",
-"bezeichnung": "Hochdorfer Wochenmarkt e.V.",
-"eigenschaften": [
-"kontakt"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/037": {
-"entitaet": "verkehrslinie",
+"397-hochdorf-freiburg/017": {
+"entitaet": "oepnv_linie",
 "bezeichnung": "Buslinie 36",
 "eigenschaften": [
+"anschluss",
 "betreiber",
-"betrieb_start",
-"taktung",
-"verbindung",
-"verlauf"
+"betriebsbeginn_jahr",
+"takt_minuten",
+"verbindung"
 ],
 "berichtigungen": 0
 },
-"397-hochdorf-freiburg/038": {
-"entitaet": "verkehrslinie",
+"397-hochdorf-freiburg/018": {
+"entitaet": "oepnv_linie",
 "bezeichnung": "Buslinie 25",
 "eigenschaften": [
 "betreiber",
-"betrieb_start",
-"tage",
-"verbindung",
-"verlauf"
+"betriebsart",
+"betriebsbeginn_jahr",
+"verbindung"
 ],
 "berichtigungen": 0
 },
-"397-hochdorf-freiburg/039": {
-"entitaet": "verkehrsplanung",
-"bezeichnung": "verkehrsplanung",
+"397-hochdorf-freiburg/019": {
+"entitaet": "betrieb",
+"bezeichnung": "Taifun-Tofu GmbH",
 "eigenschaften": [
-"optionen",
-"planstatus",
-"realisierungsprognose"
+"besonderheit",
+"betriebstyp",
+"lage"
 ],
 "berichtigungen": 0
 },
-"397-hochdorf-freiburg/040": {
-"entitaet": "verkehrsinfrastruktur",
-"bezeichnung": "Fahrradverleihsystem Frelo",
+"397-hochdorf-freiburg/020": {
+"entitaet": "buecherei",
+"bezeichnung": "Bücherei St. Martin Hochdorf",
 "eigenschaften": [
-"anbindung_start",
-"finanzierung_beteiligung",
-"station_anzahl",
-"stationen_inbetrieb"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/041": {
-"entitaet": "einwohnerentwicklung",
-"bezeichnung": "Einwohnerzahl Hochdorf und Benzhausen",
-"eigenschaften": [
-"grund_1526",
-"jahr_1526"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/042": {
-"entitaet": "einwohnerentwicklung",
-"bezeichnung": "Einwohnerzahl Hochdorf und Benzhausen",
-"eigenschaften": [
-"grund",
-"jahr_1648"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/043": {
-"entitaet": "einwohnerentwicklung",
-"bezeichnung": "Einwohnerzahl Hochdorf",
-"eigenschaften": [
-"jahr_1963"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/044": {
-"entitaet": "beruendung_prozess",
-"bezeichnung": "Abwanderungen nach Ungarn",
-"eigenschaften": [
-"ergebnis",
-"zeitraum"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/045": {
-"entitaet": "begruendung_prozess",
-"bezeichnung": "Abwanderungen nach Amerika",
-"eigenschaften": [
-"ergebnis",
-"zeitraum"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/046": {
-"entitaet": "ortschaftsrat_wahl",
-"bezeichnung": "Ortschaftsratswahl Hochdorf",
-"eigenschaften": [
-"cdu",
-"fwg_freie_waehlergruppe",
-"gruene_liste_hochdorf",
-"spd",
-"wahltermin"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/047": {
-"entitaet": "kuenstler",
-"bezeichnung": "Thomas Rees",
-"eigenschaften": [
-"beschreibung",
-"werk",
-"werk_material",
-"werk_schaffung"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/048": {
-"entitaet": "kuenstler",
-"bezeichnung": "Xaver Bernauer",
-"eigenschaften": [
-"herkunft",
-"lebensdaten",
-"werk",
-"werk_jahr"
-],
-"berichtigungen": 0
-},
-"397-hochdorf-freiburg/049": {
-"entitaet": "orgelbauunternehmen",
-"bezeichnung": "Johannes Rohlf",
-"eigenschaften": [
-"ort",
-"register_arbeit_1975",
-"werke"
+"adresse",
+"lage",
+"telefon"
 ],
 "berichtigungen": 0
 },
@@ -195073,6 +194768,2290 @@
 ],
 "berichtigungen": 0
 },
+"444-altstadt-freiburg/001": {
+"entitaet": "ort",
+"bezeichnung": "Altstadt",
+"eigenschaften": [
+"bezirk_1",
+"bezirk_2",
+"bezirke",
+"grenzen_osten",
+"grenzen_sueden",
+"grenzen_westen",
+"ist_geschaeftszentrum",
+"ist_stadtzentrum",
+"ist_ursprungskern",
+"wohnbevoelkerung"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/002": {
+"entitaet": "kirche",
+"bezeichnung": "Freiburger Münster",
+"eigenschaften": [
+"baubeginn_jahr",
+"baubeginn_unter",
+"baustil",
+"bauzeit",
+"bedeutung_fuer_ort",
+"beschreibung",
+"fertigstellung_jahr",
+"material",
+"merkmale",
+"westturm_hoehe"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/003": {
+"entitaet": "museum",
+"bezeichnung": "Augustinermuseum",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"geschichte",
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/004": {
+"entitaet": "bauwerk",
+"bezeichnung": "Martinstor",
+"eigenschaften": [
+"bauzeitraum",
+"bedeutung_fuer_ort",
+"erhalten",
+"lage_sueden",
+"typ"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/005": {
+"entitaet": "bauwerk",
+"bezeichnung": "Schwabentor",
+"eigenschaften": [
+"bauzeitraum",
+"bedeutung_fuer_ort",
+"besonderheit",
+"erhalten",
+"typ"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/006": {
+"entitaet": "brunnen",
+"bezeichnung": "Fischbrunnen",
+"eigenschaften": [
+"beschreibung",
+"erbaut",
+"geschichte",
+"merkmale",
+"standort",
+"superlativ"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/007": {
+"entitaet": "brunnen",
+"bezeichnung": "Bertoldsbrunnen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"benannt_nach",
+"funktion",
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/008": {
+"entitaet": "bauwerk",
+"bezeichnung": "Altes Rathaus",
+"eigenschaften": [
+"erbaut",
+"funktion",
+"standort",
+"wiederaufgebaut",
+"zerstoert_bei_luftangriff"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/009": {
+"entitaet": "bauwerk",
+"bezeichnung": "Historisches Kaufhaus",
+"eigenschaften": [
+"bildhauer_standfiguren",
+"erbaut",
+"erhalten",
+"jahr_standfiguren",
+"merkmale",
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/010": {
+"entitaet": "palais",
+"bezeichnung": "Basler Hof",
+"eigenschaften": [
+"aktuelle_nutzung",
+"bauherr",
+"bedeutung_fuer_ort",
+"erbaut",
+"geschichte_1590",
+"geschichte_1651",
+"standort",
+"wiederaufgebaut",
+"zerstoert_1944"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/011": {
+"entitaet": "platz",
+"bezeichnung": "Münsterplatz",
+"eigenschaften": [
+"besonderheit",
+"heutige_funktion",
+"umgeben_von",
+"urspruengliche_funktion"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/012": {
+"entitaet": "strasse",
+"bezeichnung": "Kaiser-Joseph-Straße",
+"eigenschaften": [
+"aktuelle_funktion",
+"rolle",
+"urspruengliche_funktion",
+"verkehrsmittel",
+"verlauf",
+"wiederaufbau_nach_1944"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/013": {
+"entitaet": "strasse",
+"bezeichnung": "Salzstraße und Bertoldstraße",
+"eigenschaften": [
+"aktuelle_nutzung",
+"gebaeude",
+"geschichte",
+"historische_bedeutung",
+"kreuzt",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/014": {
+"entitaet": "stadtviertel",
+"bezeichnung": "Insel-Viertel",
+"eigenschaften": [
+"besonderheit",
+"geschichte",
+"heutige_nutzung",
+"kunstwerk",
+"straßen",
+"ursprung_name"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/015": {
+"entitaet": "stadtviertel",
+"bezeichnung": "Sedanquartier / Im Grün",
+"eigenschaften": [
+"architektur",
+"bedeutung_fuer_ort",
+"besiedlung_ab",
+"buergerforum",
+"charakteristika",
+"entwicklung_1865",
+"geschichte_1970er_1980er",
+"grenzen_nord",
+"grenzen_ost",
+"grenzen_sued",
+"grenzen_west",
+"groesse",
+"kultur",
+"straßennamen"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/016": {
+"entitaet": "gewässer",
+"bezeichnung": "Freiburger Bächle",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"ursprung",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/017": {
+"entitaet": "kultureinrichtung",
+"bezeichnung": "Stadttheater Freiburg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"rolle",
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/018": {
+"entitaet": "kultureinrichtung",
+"bezeichnung": "Konzerthaus Freiburg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"erbaut",
+"rolle",
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/019": {
+"entitaet": "kino",
+"bezeichnung": "Cinemaxx",
+"eigenschaften": [
+"erbaut",
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/020": {
+"entitaet": "bibliothek",
+"bezeichnung": "Universitätsbibliothek Freiburg",
+"eigenschaften": [
+"funktion",
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/021": {
+"entitaet": "bibliothek",
+"bezeichnung": "Stadtbibliothek Freiburg",
+"eigenschaften": [
+"merkmale",
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/022": {
+"entitaet": "bildungseinrichtung",
+"bezeichnung": "Volkshochschule Freiburg",
+"eigenschaften": [
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/023": {
+"entitaet": "hochschule",
+"bezeichnung": "Albert-Ludwigs-Universität Freiburg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"fakultaeten",
+"zentrum_standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/024": {
+"entitaet": "synagoge",
+"bezeichnung": "Alte Synagoge",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"einweihung",
+"erster_vorsteher",
+"gemeinde_begruendung",
+"geschichte",
+"standort",
+"ursprungs_synagogenrat_gewaehlt"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/025": {
+"entitaet": "topografie",
+"bezeichnung": "Schlossberg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"besonderheit",
+"geschichte",
+"lage"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/026": {
+"entitaet": "bauwerk",
+"bezeichnung": "Schlossbergturm",
+"eigenschaften": [
+"funktion",
+"merkmale",
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/027": {
+"entitaet": "bauwerk",
+"bezeichnung": "Pulverturm",
+"eigenschaften": [
+"standort",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/028": {
+"entitaet": "park",
+"bezeichnung": "Colombipark",
+"eigenschaften": [
+"besonderheit",
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/029": {
+"entitaet": "behörde",
+"bezeichnung": "Regierungspräsidium Freiburg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"hauptsitz_seit_1990er",
+"sitz_praesident"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/030": {
+"entitaet": "ereignis",
+"bezeichnung": "Luftangriff vom 27. November 1944",
+"eigenschaften": [
+"auswirkung",
+"besonderheit",
+"datum",
+"gebaeude_unbeschaedigt",
+"gebaeude_unbeschaedigt_prozent",
+"gebaeude_zerstoert_komplett",
+"gebaeude_zerstoert_prozent",
+"todesfaelle"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/031": {
+"entitaet": "periode",
+"bezeichnung": "Wiederaufbau nach 1945",
+"eigenschaften": [
+"architektur_neubau",
+"bedeutung_fuer_ort",
+"merkmale",
+"zeitraum_beginn"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/032": {
+"entitaet": "kunstwerk",
+"bezeichnung": "Krokodilskopf aus Diorit",
+"eigenschaften": [
+"ankauf",
+"ausbildung_kuenstler",
+"besonderheit",
+"gewicht",
+"jahr_erstellung",
+"kuenstler",
+"material",
+"standort"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/033": {
+"entitaet": "festival",
+"bezeichnung": "Freiburger Kinderliteraturfestival",
+"eigenschaften": [
+"besonderheit",
+"dauer_tage",
+"kooperation",
+"kooperationspartner",
+"start_jahr",
+"struktur",
+"veranstaltungen_anzahl",
+"zielgruppe"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/034": {
+"entitaet": "archiv",
+"bezeichnung": "Freiburger Stadtarchiv",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"geschichte_ursprung",
+"kriegsverluste",
+"rettung_wwii",
+"standort_1414",
+"standort_1896",
+"standort_1957",
+"standort_2023"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/035": {
+"entitaet": "stadtviertel",
+"bezeichnung": "Altstadt-Mitte (Bezirk 111)",
+"eigenschaften": [
+"besonderheit",
+"flaeche_definition",
+"muster",
+"struktur",
+"typ"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/036": {
+"entitaet": "stadtviertel",
+"bezeichnung": "Altstadt-Ring (Bezirk 112)",
+"eigenschaften": [
+"funktion",
+"grenzen_sueden",
+"grenzen_westen",
+"typ"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/037": {
+"entitaet": "stadtrundgang",
+"bezeichnung": "\"9 aus 900 - Frauenarbeit hat Geschichte\"",
+"eigenschaften": [
+"anlass",
+"stationen_zahl",
+"thema",
+"typ"
+],
+"berichtigungen": 0
+},
+"444-altstadt-freiburg/038": {
+"entitaet": "ausstellung",
+"bezeichnung": "\"Aufbrechen! 50 Jahre Neue Feministische Bewegungen in Freiburg\"",
+"eigenschaften": [
+"besonderheit",
+"charakteristika",
+"ort",
+"thema",
+"zeitraum"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/001": {
+"entitaet": "ort",
+"bezeichnung": "Stühlinger",
+"eigenschaften": [
+"grenzen_norden",
+"grenzen_osten",
+"grenzen_sueden",
+"grenzen_westen",
+"ist_stadtteil_von",
+"lage_relativ_altstadt"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/002": {
+"entitaet": "ort",
+"bezeichnung": "Stühlinger-Eschholz",
+"eigenschaften": [
+"einwohner",
+"einwohnerdichte",
+"flaeche",
+"ist_stadtbezirk",
+"teil_von"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/003": {
+"entitaet": "ort",
+"bezeichnung": "Alt-Stühlinger",
+"eigenschaften": [
+"einwohner",
+"einwohnerdichte",
+"flaeche",
+"ist_stadtbezirk",
+"teil_von"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/004": {
+"entitaet": "ort",
+"bezeichnung": "Stühlinger",
+"eigenschaften": [
+"einwohner",
+"einwohner_genauigkeit"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/005": {
+"entitaet": "ort",
+"bezeichnung": "Stühlinger",
+"eigenschaften": [
+"baugebiet_name",
+"ersterwähnung_in_quelle",
+"flurnamen",
+"flurnamen_herkunft",
+"grund_entwicklung",
+"namensgebung_ab",
+"planmaessige_erschliessung_ab",
+"ursprung",
+"ursprung_eigentuemer",
+"ursprung_nutzer"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/006": {
+"entitaet": "kirche",
+"bezeichnung": "Herz-Jesu-Kirche",
+"eigenschaften": [
+"architektur_inspiration",
+"bauzeit",
+"bedeutung_fuer_ort",
+"katholisch",
+"patrozinium"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/007": {
+"entitaet": "kirche",
+"bezeichnung": "Herz-Jesu-Kirche",
+"eigenschaften": [
+"gemeinde_gruendung",
+"lage",
+"pfarrei_seit"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/008": {
+"entitaet": "pfarrei",
+"bezeichnung": "St. Joseph",
+"eigenschaften": [
+"abspaltung_jahr",
+"abspaltung_von",
+"kirche_bauart",
+"kirche_endgueltig_neubau",
+"kirche_neubau_jahr",
+"kirche_zerstoert",
+"pfarrei_status_seit",
+"provisorische_betreuung_bis",
+"provisorische_betreuung_durch",
+"umfasst_auch"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/009": {
+"entitaet": "kirche",
+"bezeichnung": "Heiliggeistkirche",
+"eigenschaften": [
+"bauart",
+"bauzeit",
+"kuratie_gruendung",
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/010": {
+"entitaet": "kirche",
+"bezeichnung": "Lutherkirche",
+"eigenschaften": [
+"entwidmung",
+"evangelisch",
+"fertigstellung_original",
+"lage_original",
+"nachnutzung_geplant",
+"neubau",
+"neubau_stil",
+"pfarrei_gruendung",
+"zerstoerung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/011": {
+"entitaet": "pfarrei",
+"bezeichnung": "Kreuzpfarrei",
+"eigenschaften": [
+"abspaltung_jahr",
+"abspaltung_von",
+"evangelisch",
+"kirche_bauzeit",
+"name_bis_1957"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/012": {
+"entitaet": "kirche",
+"bezeichnung": "Kreuzkirche",
+"eigenschaften": [
+"bauzeit",
+"evangelisch",
+"pfarrei_zugehoerig"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/013": {
+"entitaet": "infrastruktur_bahnhof",
+"bezeichnung": "Freiburg (Breisgau) Hauptbahnhof",
+"eigenschaften": [
+"bahnlinie",
+"bedeutung_fuer_ort",
+"eroeffnung",
+"lage_relativ"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/014": {
+"entitaet": "universitaetsklinikum",
+"bezeichnung": "Universitätsklinikum Freiburg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"lage",
+"neubau_beginn"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/015": {
+"entitaet": "kultureinrichtung",
+"bezeichnung": "E-Werk",
+"eigenschaften": [
+"inhalte",
+"umfunktionierung",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/016": {
+"entitaet": "platz",
+"bezeichnung": "Stühlinger Kirchplatz",
+"eigenschaften": [
+"belebung",
+"besonderheit",
+"lage",
+"verwendung_früher"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/017": {
+"entitaet": "park",
+"bezeichnung": "Eschholzpark",
+"eigenschaften": [
+"groesse",
+"kunstwerk",
+"kunstwerk_bedeutung",
+"kunstwerk_kuenstler",
+"lage",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/018": {
+"entitaet": "bruecke",
+"bezeichnung": "Stühlingerbrücke",
+"eigenschaften": [
+"eroeffnung",
+"lage",
+"verkehrsmodi"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/019": {
+"entitaet": "bruecke",
+"bezeichnung": "Wiwilíbrücke",
+"eigenschaften": [
+"anderer_name",
+"grund_anderer_name",
+"lage",
+"verbindung_ziel"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/020": {
+"entitaet": "unterführung",
+"bezeichnung": "Unterführung Lehenerstraße",
+"eigenschaften": [
+"verbindung",
+"verkehrsmodi",
+"zeitraum_errichtung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/021": {
+"entitaet": "unterführung",
+"bezeichnung": "Unterführung Bahnhof Nord",
+"eigenschaften": [
+"fuehrung_zu",
+"lage",
+"zeitraum_errichtung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/022": {
+"entitaet": "gedenkstaette",
+"bezeichnung": "Fünfwundenkreuz",
+"eigenschaften": [
+"anlass",
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/023": {
+"entitaet": "gedenkstaette",
+"bezeichnung": "Gedenkstein Hildaspielplatz",
+"eigenschaften": [
+"anlass",
+"bombardierung_datum",
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/024": {
+"entitaet": "gedenkstaette",
+"bezeichnung": "Gedenktafel Hebelschule",
+"eigenschaften": [
+"aktion",
+"anlass",
+"ereignis_datum",
+"lage",
+"sammelort",
+"zielort"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/025": {
+"entitaet": "gedenkstaette",
+"bezeichnung": "Mahnmal Wiwilíbrücke",
+"eigenschaften": [
+"anlass",
+"art",
+"grund_pflaum_koberstein",
+"lage",
+"weiteres_mahnmal"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/026": {
+"entitaet": "gedenkstaette",
+"bezeichnung": "Gurs-Mahnmal",
+"eigenschaften": [
+"anlass",
+"bestandteile",
+"errichtung",
+"lage",
+"mahnmal_projekt"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/027": {
+"entitaet": "gedenkstaette",
+"bezeichnung": "Gedenkstein Kreispflegeanstalt",
+"eigenschaften": [
+"anlass",
+"folge",
+"grund",
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/028": {
+"entitaet": "gedenkstaette",
+"bezeichnung": "Engel der Kulturen",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/029": {
+"entitaet": "arbeitersiedlung",
+"bezeichnung": "Tellstraße Arbeitersiedlung",
+"eigenschaften": [
+"anlass_errichtung",
+"anzahl_haeuser",
+"besonderheit",
+"errichtung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/030": {
+"entitaet": "betrieb_historisch",
+"bezeichnung": "Gaswerk",
+"eigenschaften": [
+"grund_umsiedlung",
+"umsiedlung",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/031": {
+"entitaet": "betrieb_historisch",
+"bezeichnung": "Elektrizitätswerk",
+"eigenschaften": [
+"lage",
+"nachbarschaft",
+"umfunktionierung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/032": {
+"entitaet": "betrieb_historisch",
+"bezeichnung": "Löwenbrauerei",
+"eigenschaften": [
+"abriss",
+"errichtung",
+"gruender",
+"lage",
+"verbleib"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/033": {
+"entitaet": "betrieb_historisch",
+"bezeichnung": "Pumpenfabrik Lederle",
+"eigenschaften": [
+"kunstwerk",
+"lage",
+"nachnutzung",
+"umzug"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/034": {
+"entitaet": "betrieb_historisch",
+"bezeichnung": "Schlossfabrik Theodor Kromer & Co.",
+"eigenschaften": [
+"lage",
+"zerstoerung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/035": {
+"entitaet": "betrieb_historisch",
+"bezeichnung": "Zunderfabrik Klingele",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/036": {
+"entitaet": "betrieb_historisch",
+"bezeichnung": "Orgel- und Orchestrionfabrik M. Welte & Söhne",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/037": {
+"entitaet": "betrieb_historisch",
+"bezeichnung": "Dampfsäge Gustav Bissier",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/038": {
+"entitaet": "betrieb_historisch",
+"bezeichnung": "Hebwerkzeugfabrik Gebr. Birmelin",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/039": {
+"entitaet": "betrieb_historisch",
+"bezeichnung": "Brenzinger & Cie.",
+"eigenschaften": [
+"art",
+"bedeutung",
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/040": {
+"entitaet": "infrastruktur_zivilschutz",
+"bezeichnung": "Zivilschutz-Mehrzweckanlage",
+"eigenschaften": [
+"herkunft_vermutung",
+"lage",
+"nutzung_heute",
+"schutzplaetze"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/041": {
+"entitaet": "schule",
+"bezeichnung": "Hebelschule",
+"eigenschaften": [
+"lage",
+"symmetrie",
+"typ",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/042": {
+"entitaet": "schule",
+"bezeichnung": "Hansjakobschule",
+"eigenschaften": [
+"lage",
+"symmetrie",
+"typ",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/043": {
+"entitaet": "schule",
+"bezeichnung": "Max-Weber-Schule",
+"eigenschaften": [
+"lage",
+"spektrum"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/044": {
+"entitaet": "schule",
+"bezeichnung": "Berufsschulzentrum",
+"eigenschaften": [
+"groesse",
+"lage",
+"spektrum"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/045": {
+"entitaet": "schule",
+"bezeichnung": "Schule für Physiotherapie",
+"eigenschaften": [
+"lage",
+"note"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/046": {
+"entitaet": "wohnheim",
+"bezeichnung": "Albertusburse",
+"eigenschaften": [
+"traeger",
+"typ"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/047": {
+"entitaet": "wohnheim",
+"bezeichnung": "Studierendenhäuser Stühlinger",
+"eigenschaften": [
+"betreiber",
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/048": {
+"entitaet": "plaetze",
+"bezeichnung": "Lederleplatz",
+"eigenschaften": [
+"entstehung",
+"grund_entstehung",
+"kunstwerk",
+"kunstwerk_errichtung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/049": {
+"entitaet": "abenteuerspielplatz",
+"bezeichnung": "Abenteuerspielplatz Rumpelhausen",
+"eigenschaften": [
+"betrieb",
+"gelaende_eigentuemer",
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/050": {
+"entitaet": "verkehrsmittel",
+"bezeichnung": "Straßenbahn",
+"eigenschaften": [
+"linien",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/051": {
+"entitaet": "verkehrsmittel",
+"bezeichnung": "Buslinie 14",
+"eigenschaften": [
+"betreiber",
+"route"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/052": {
+"entitaet": "bahnhof",
+"bezeichnung": "S-Bahn-Station Klinikum",
+"eigenschaften": [
+"bahnlinie",
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/053": {
+"entitaet": "radweg",
+"bezeichnung": "FR 3",
+"eigenschaften": [
+"lage",
+"ziele"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/054": {
+"entitaet": "radweg",
+"bezeichnung": "FR 4",
+"eigenschaften": [
+"ziele"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/055": {
+"entitaet": "radweg",
+"bezeichnung": "FR 5",
+"eigenschaften": [
+"ziel"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/056": {
+"entitaet": "radweg",
+"bezeichnung": "FR 1",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/057": {
+"entitaet": "radweg",
+"bezeichnung": "FR 2",
+"eigenschaften": [
+"erweiterung_geplant",
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/058": {
+"entitaet": "radschnellweg",
+"bezeichnung": "Radschnellweg nach Breisach",
+"eigenschaften": [
+"status",
+"verlauf_geplant"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/059": {
+"entitaet": "radschnellweg",
+"bezeichnung": "Radschnellweg nach Kirchzarten",
+"eigenschaften": [
+"status",
+"verlauf_geplant"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/060": {
+"entitaet": "radschnellweg",
+"bezeichnung": "Radschnellweg nach Bad Krozingen",
+"eigenschaften": [
+"status",
+"verlauf_geplant"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/061": {
+"entitaet": "haltestelle_bahnhof",
+"bezeichnung": "S-Bahn-Haltepunkt Runzmattenweg",
+"eigenschaften": [
+"bahnlinie_alt",
+"lage",
+"nutzung_geplant",
+"status"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/062": {
+"entitaet": "carsharing_station",
+"bezeichnung": "DB-Carsharing",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/063": {
+"entitaet": "carsharing",
+"bezeichnung": "naturenergie sharing GmbH",
+"eigenschaften": [
+"beschreibung",
+"stellplaetze"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/064": {
+"entitaet": "ort",
+"bezeichnung": "Stühlinger",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/065": {
+"entitaet": "verkehrs_problem",
+"bezeichnung": "Eschholzstraße Verkehrsbelastung",
+"eigenschaften": [
+"erfolg",
+"massnahmen",
+"massnahmen_nachtverkehr",
+"massnahmen_zeitraum",
+"problem"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/066": {
+"entitaet": "quartiersneubau",
+"bezeichnung": "Quartier Metzgergrün",
+"eigenschaften": [
+"aenderung_wohneinheiten",
+"bauabschnitt_1",
+"bauabschnitt_2",
+"completion_geplant",
+"eigentuemer",
+"massnahme",
+"parkplaetze",
+"radweg_anschluss",
+"strategie",
+"ursprung",
+"verkehrsmodi_quad"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/067": {
+"entitaet": "quartiersneubau",
+"bezeichnung": "Quartier Kleineschholz",
+"eigenschaften": [
+"erbbaurecht",
+"erbbaurecht_aenderung",
+"lage",
+"parkplaetze",
+"parzellen_vergabe_2024",
+"stadt_rückkaufsrecht",
+"status",
+"sundgauallee",
+"verkehrs_konzept",
+"vornutzung",
+"wohneinheiten_geplant",
+"wohnungen_typ"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/068": {
+"entitaet": "wohnquartier_uniklinik",
+"bezeichnung": "Wohnquartier Klaramatte (Uniklinik-Personal)",
+"eigenschaften": [
+"adressaten",
+"baubeginn_geplant",
+"bauherr",
+"bestandsbebaeuung",
+"lage",
+"wohneinheiten_neu"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/069": {
+"entitaet": "verwaltungszentrum",
+"bezeichnung": "Rathaus Stühlinger Erweiterung",
+"eigenschaften": [
+"bauabschnitt_1",
+"bauabschnitt_2_start",
+"bauabschnitt_3",
+"bauabschnitte_geplant",
+"bisheriger_status",
+"fertigstellung_2",
+"grund_landratsamt",
+"landratsamt_verhandlung",
+"ziel_zentralisierung"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/070": {
+"entitaet": "neubaugebiet",
+"bezeichnung": "Colmarer Straße Neubau",
+"eigenschaften": [
+"abriss_start",
+"abrissbestand",
+"abrissgebaeuede",
+"fertigstellung_geplant",
+"lage",
+"neubau_höhe",
+"neubau_struktur",
+"neubau_wohnungen"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/071": {
+"entitaet": "kulturelle_ereignis",
+"bezeichnung": "Spätkauf Kollektiv",
+"eigenschaften": [
+"ausgang",
+"besonderheit",
+"betrieb",
+"betroffener_ort",
+"lage",
+"massnahmen",
+"probleme",
+"zeitraum"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/072": {
+"entitaet": "rathaus",
+"bezeichnung": "Rathaus Stühlinger",
+"eigenschaften": [
+"anderer_name",
+"behoerden",
+"erweiterung_geplant"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/073": {
+"entitaet": "kreispflegeanstalt",
+"bezeichnung": "Kreispflegeanstalt",
+"eigenschaften": [
+"aufloessung",
+"behoerde_typ",
+"errichtung",
+"grund",
+"lage",
+"schicksal_patienten"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/074": {
+"entitaet": "personen_deportiert",
+"bezeichnung": "Jüdische Bürger Stühlinger (Auswahl)",
+"eigenschaften": [
+"anzahl_aufgelistet",
+"einige_schicksale",
+"ereignis",
+"ereignis_datum",
+"stolpersteine_anzahl",
+"zielort"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/075": {
+"entitaet": "bombardierung",
+"bezeichnung": "Bombardierung durch deutsche Luftwaffe",
+"eigenschaften": [
+"art",
+"datum",
+"gedenkort"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/076": {
+"entitaet": "bombardierung",
+"bezeichnung": "Bombenangriff",
+"eigenschaften": [
+"auswirkung",
+"besonnenheit",
+"datum",
+"folge_schutt",
+"vermutet_phosphor"
+],
+"berichtigungen": 0
+},
+"445-stuehlinger/077": {
+"entitaet": "trümmerbahn",
+"bezeichnung": "Trümmerbahn",
+"eigenschaften": [
+"funktion",
+"route",
+"zeitraum"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/001": {
+"entitaet": "stadtteil",
+"bezeichnung": "Neuburg",
+"eigenschaften": [
+"alternative_bezeichnung",
+"enthaelt_gebiete",
+"grenzt_norden",
+"grenzt_osten",
+"grenzt_westen",
+"lage_innerort",
+"liegt_in"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/002": {
+"entitaet": "stadtteil",
+"bezeichnung": "Neuburg",
+"eigenschaften": [
+"archaeologische_funde",
+"ausgrabungen_2016",
+"besatzungsgeschichte",
+"bombardierung_1944",
+"dreissigjähriger_krieg",
+"erste_bebauung",
+"glacis",
+"infrastruktur_ausbau_elemente",
+"infrastruktur_ausbau_zeitraum",
+"namensvergabe_grund",
+"soziale_einrichtungen",
+"sprengung_1745",
+"wiederbesiedelung",
+"zerstoerung_1677"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/003": {
+"entitaet": "kirche",
+"bezeichnung": "Ludwigskirche (evangelisch)",
+"eigenschaften": [
+"aenderungen",
+"baujahre_original",
+"gemeinde",
+"kriegszerstörung",
+"lage_original",
+"material",
+"wiederaufbau",
+"wiederaufbau_stil"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/004": {
+"entitaet": "kirche",
+"bezeichnung": "Ludwigskirche (evangelisch)",
+"eigenschaften": [
+"baujahre",
+"lage",
+"stil",
+"zweck"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/005": {
+"entitaet": "kirche",
+"bezeichnung": "St. Michaelskapelle",
+"eigenschaften": [
+"baujahre",
+"lage"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/006": {
+"entitaet": "kirche",
+"bezeichnung": "Erlöserkirche (evangelisch-lutherisch)",
+"eigenschaften": [
+"lage",
+"stil"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/007": {
+"entitaet": "friedhof",
+"bezeichnung": "Alter Friedhof",
+"eigenschaften": [
+"funktion_heute",
+"funktion_zeitraum",
+"kulturelle_bedeutung"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/008": {
+"entitaet": "klinik",
+"bezeichnung": "Josefskrankenhaus",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/009": {
+"entitaet": "kloster",
+"bezeichnung": "Mutterhaus der Barmherzigen Schwestern vom hl. Vinzenz von Paul",
+"eigenschaften": [
+"gebaeudeteil",
+"lage"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/010": {
+"entitaet": "museum",
+"bezeichnung": "Archäologische Sammlung",
+"eigenschaften": [
+"bestaende",
+"betreiber",
+"lage"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/011": {
+"entitaet": "universität",
+"bezeichnung": "Albert-Ludwigs-Universität Freiburg (Campus Neuburg)",
+"eigenschaften": [
+"einrichtungen",
+"fakultaet_umwelt",
+"flaechenanteil"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/012": {
+"entitaet": "behoerde",
+"bezeichnung": "Landratsamt Breisgau-Hochschwarzwald",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/013": {
+"entitaet": "behoerde",
+"bezeichnung": "Amt für Vermögen und Bau Baden-Württemberg, Amtsstelle Freiburg",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/014": {
+"entitaet": "gebaeudeensemble",
+"bezeichnung": "Institutsviertel",
+"eigenschaften": [
+"beschreibung",
+"hauptnutzung"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/015": {
+"entitaet": "stadtteil",
+"bezeichnung": "Neuburg",
+"eigenschaften": [
+"bevoelkerungswachstum_prozent",
+"bevoelkerungswachstum_seit_2000",
+"einwohner",
+"gueltig_ab"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/016": {
+"entitaet": "wohnheim",
+"bezeichnung": "The Fizz",
+"eigenschaften": [
+"lage",
+"miethöhe_max",
+"miethöhe_max_einheit",
+"typ"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/017": {
+"entitaet": "oeffentliche_verkehrsmittel",
+"bezeichnung": "Stadtbahnlinie 3",
+"eigenschaften": [
+"strecke",
+"zugehoerigkeit"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/018": {
+"entitaet": "oeffentliche_verkehrsmittel",
+"bezeichnung": "Stadtbahnlinie 5",
+"eigenschaften": [
+"endhaltestelle",
+"zugehoerigkeit"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/019": {
+"entitaet": "radweg",
+"bezeichnung": "FR 4",
+"eigenschaften": [
+"route"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/020": {
+"entitaet": "radweg",
+"bezeichnung": "FR 6",
+"eigenschaften": [
+"route"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/021": {
+"entitaet": "radschnellweg",
+"bezeichnung": "Radschnellweg Emmendingen-Waldkirch",
+"eigenschaften": [
+"baubeginn",
+"route",
+"status"
+],
+"berichtigungen": 0
+},
+"446-neuburg-freiburg/022": {
+"entitaet": "berg",
+"bezeichnung": "Schlossberg",
+"eigenschaften": [
+"beschaffenheit",
+"hoehe",
+"lage"
+],
+"berichtigungen": 0
+},
+"447-herdern/001": {
+"entitaet": "ort",
+"bezeichnung": "Herdern",
+"eigenschaften": [
+"einwohner",
+"einwohner_stand",
+"grenzt_nord",
+"grenzt_ost",
+"grenzt_suedlich",
+"grenzt_west",
+"lage"
+],
+"berichtigungen": 0
+},
+"447-herdern/002": {
+"entitaet": "ort",
+"bezeichnung": "Herdern",
+"eigenschaften": [
+"eigenstaendiges_dorf_bis",
+"erste_herrscher",
+"ersterwahnung_form",
+"ersterwahnung_jahr",
+"ersterwahnung_quelle",
+"folgende_herrscher",
+"folgende_herrscher_2",
+"historische_namensform_1",
+"historische_namensform_2",
+"historische_namensform_jahr_1",
+"historische_namensform_jahr_2",
+"namensherkunft",
+"niederadel_periode",
+"oberlehensherren",
+"stadt_freiburg_seit"
+],
+"berichtigungen": 0
+},
+"447-herdern/003": {
+"entitaet": "kirche",
+"bezeichnung": "St. Urbans-Pfarrkirche",
+"eigenschaften": [
+"aenderungen_1936",
+"bauzeit_neubau",
+"bedeutung_fuer_ort",
+"ersterwahnung",
+"patron",
+"patron_bedeutung",
+"patronat_historie",
+"seelsorge_geschichte"
+],
+"berichtigungen": 0
+},
+"447-herdern/004": {
+"entitaet": "schloss_wasserschloss",
+"bezeichnung": "Dinghof",
+"eigenschaften": [
+"eigentuemer_1417",
+"eigentuemer_1447",
+"eigentuemer_ab_1457",
+"eigentuemer_mitte_16_jhd",
+"eigentuemer_name_aenderung",
+"ersterwahnung",
+"typ"
+],
+"berichtigungen": 0
+},
+"447-herdern/005": {
+"entitaet": "person",
+"bezeichnung": "Johann Pedius Tethinger",
+"eigenschaften": [
+"taetigkeitsbereich",
+"werk",
+"werk_jahr"
+],
+"berichtigungen": 0
+},
+"447-herdern/006": {
+"entitaet": "gymnasium",
+"bezeichnung": "Friedrich-Gymnasium",
+"eigenschaften": [
+"architekt",
+"ausrichtung",
+"bauzeit",
+"bedeutung_fuer_ort",
+"errichtung_jahr",
+"errichtung_monat"
+],
+"berichtigungen": 0
+},
+"447-herdern/007": {
+"entitaet": "gymnasium",
+"bezeichnung": "Kepler-Gymnasium (ehemals Oberrealschule)",
+"eigenschaften": [
+"errichtung_jahr",
+"situation_heute",
+"spaeterer_name",
+"urspruenglicher_name"
+],
+"berichtigungen": 0
+},
+"447-herdern/008": {
+"entitaet": "gymnasium",
+"bezeichnung": "Droste-Hülshoff-Gymnasium",
+"eigenschaften": [
+"architekt",
+"ausrichtung",
+"bauzeit",
+"errichtung_jahr"
+],
+"berichtigungen": 0
+},
+"447-herdern/009": {
+"entitaet": "stadtquartier",
+"bezeichnung": "Musikerviertel",
+"eigenschaften": [
+"benannt_nach_ideologie",
+"beschreibung",
+"charakteristika",
+"entstehung_beginn"
+],
+"berichtigungen": 0
+},
+"447-herdern/010": {
+"entitaet": "sozio_kulturelles_zentrum",
+"bezeichnung": "FABRIK für Handwerk, Kultur & Ökologie",
+"eigenschaften": [
+"barrierefreiheit",
+"bedeutung_fuer_ort",
+"beispiel_betriebe",
+"betriebe_einrichtungen",
+"groesse_kategorie",
+"gruendung",
+"innovation_blockheizkraftwerk",
+"kleinkuenstlerbuehne",
+"lage",
+"mitarbeiter",
+"nutzung_vorher"
+],
+"berichtigungen": 0
+},
+"447-herdern/011": {
+"entitaet": "hallenbad",
+"bezeichnung": "Licht-Luft-Sportbad am Hebsack",
+"eigenschaften": [
+"errichtung"
+],
+"berichtigungen": 0
+},
+"447-herdern/012": {
+"entitaet": "sportstatte",
+"bezeichnung": "Sporthalle der Weiherhof-Grundschule",
+"eigenschaften": [
+"errichtung"
+],
+"berichtigungen": 0
+},
+"447-herdern/013": {
+"entitaet": "aussichtspunkt",
+"bezeichnung": "Roßkopfturm",
+"eigenschaften": [
+"errichtung",
+"lage"
+],
+"berichtigungen": 0
+},
+"447-herdern/014": {
+"entitaet": "botanischer_garten",
+"bezeichnung": "Botanischer Garten (Fakultät für Biologie)",
+"eigenschaften": [
+"betreiber",
+"lage"
+],
+"berichtigungen": 0
+},
+"447-herdern/015": {
+"entitaet": "hochschule",
+"bezeichnung": "Katholische Hochschule Freiburg",
+"eigenschaften": [
+"fruehere_bezeichnung",
+"lage",
+"schwerpunkte"
+],
+"berichtigungen": 0
+},
+"447-herdern/016": {
+"entitaet": "universitaetsabteilung",
+"bezeichnung": "Fakultät für Biologie (Albert-Ludwigs-Universität Freiburg)",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"447-herdern/017": {
+"entitaet": "klinik",
+"bezeichnung": "Klinik für Dermatologie und Venerologie",
+"eigenschaften": [
+"lage",
+"traeger"
+],
+"berichtigungen": 0
+},
+"447-herdern/018": {
+"entitaet": "klinik",
+"bezeichnung": "Klinik für Psychiatrie und Psychotherapie",
+"eigenschaften": [
+"lage",
+"traeger"
+],
+"berichtigungen": 0
+},
+"447-herdern/019": {
+"entitaet": "fest_brauch",
+"bezeichnung": "Seifenkistenrennen",
+"eigenschaften": [
+"erste_durchfuehrung",
+"haendigkeit",
+"organisatoren",
+"termin_seit_1999",
+"veranstaltungsort"
+],
+"berichtigungen": 0
+},
+"447-herdern/020": {
+"entitaet": "fest_brauch",
+"bezeichnung": "Herdermer Hock",
+"eigenschaften": [
+"besucher",
+"haendigkeit",
+"organisatoren",
+"sommerhock_dauer",
+"veranstaltungsort",
+"zusammensetzung_organisatoren"
+],
+"berichtigungen": 0
+},
+"447-herdern/021": {
+"entitaet": "wanderweg",
+"bezeichnung": "Zähringer-Wanderweg",
+"eigenschaften": [
+"laenge"
+],
+"berichtigungen": 0
+},
+"447-herdern/022": {
+"entitaet": "wanderweg",
+"bezeichnung": "Breisgauer Weinweg",
+"eigenschaften": [
+"bezug_herdern"
+],
+"berichtigungen": 0
+},
+"447-herdern/023": {
+"entitaet": "bahnhof",
+"bezeichnung": "Freiburg-Herdern",
+"eigenschaften": [
+"bahnverbindungen",
+"strecke"
+],
+"berichtigungen": 0
+},
+"447-herdern/024": {
+"entitaet": "gewaesser",
+"bezeichnung": "Glasbach",
+"eigenschaften": [
+"bedeutung_19_jhd",
+"lage"
+],
+"berichtigungen": 0
+},
+"447-herdern/025": {
+"entitaet": "person",
+"bezeichnung": "Dr. Schiller",
+"eigenschaften": [
+"beruf",
+"erwerb_dinghof",
+"namensaenderung"
+],
+"berichtigungen": 0
+},
+"447-herdern/026": {
+"entitaet": "person",
+"bezeichnung": "Otto Winterer",
+"eigenschaften": [
+"aktion",
+"bedeutung_fuer_ort",
+"titel",
+"zeitraum"
+],
+"berichtigungen": 0
+},
+"447-herdern/027": {
+"entitaet": "partnergemeinde",
+"bezeichnung": "Gottenheim",
+"eigenschaften": [
+"typ_partnerschaft",
+"vertragsabschluss"
+],
+"berichtigungen": 0
+},
+"447-herdern/028": {
+"entitaet": "denkmal",
+"bezeichnung": "Ehrenmal Wintererstraße/Eichhalde",
+"eigenschaften": [
+"anlass_begehung",
+"begehung_frequenz",
+"besonderheit_2019",
+"initiator"
+],
+"berichtigungen": 0
+},
+"447-herdern/029": {
+"entitaet": "moschee",
+"bezeichnung": "Abdurrahman-Moschee",
+"eigenschaften": [
+"bedeutung",
+"lage"
+],
+"berichtigungen": 0
+},
+"447-herdern/030": {
+"entitaet": "behoerdenzentrum",
+"bezeichnung": "Behördenzentrum Herdern",
+"eigenschaften": [
+"behoerden",
+"lage"
+],
+"berichtigungen": 0
+},
+"447-herdern/031": {
+"entitaet": "zentralverwaltung",
+"bezeichnung": "Zentrale des Deutschen Caritasverbandes (DCV)",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/001": {
+"entitaet": "ort",
+"bezeichnung": "Zähringen",
+"eigenschaften": [
+"lage",
+"nachbar_nord",
+"nachbar_süd",
+"nachbar_west",
+"stadtteil_von"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/002": {
+"entitaet": "ort",
+"bezeichnung": "Zähringen",
+"eigenschaften": [
+"eingemeindung_datum",
+"eingemeindung_jahr",
+"einwohner",
+"einwohner_genauigkeit",
+"einwohner_stand"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/003": {
+"entitaet": "ort",
+"bezeichnung": "Zähringen",
+"eigenschaften": [
+"erste_urkundliche_erwähnung",
+"erwähnung_form",
+"kontext_erwähnung",
+"orte_gleicher_erwähnung"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/004": {
+"entitaet": "burg",
+"bezeichnung": "Burg Zähringen",
+"eigenschaften": [
+"besitzer_ab_ende_11_jh",
+"erste_erwähnung",
+"erste_erwähnung_quelle",
+"nachfolger",
+"urkundlicher_nachweis",
+"urkundlicher_nachweis_quelle",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/005": {
+"entitaet": "herrenhof",
+"bezeichnung": "Herrenhof/Schloss Zähringen",
+"eigenschaften": [
+"erste_erwähnung",
+"erworb_1811",
+"umbau_Jahrhundert",
+"umbau_typ",
+"vorheriger_besitzer"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/006": {
+"entitaet": "kirche",
+"bezeichnung": "St. Blasius",
+"eigenschaften": [
+"erste_erwähnung",
+"erwähnung_form",
+"kontext_erste_erwähnung",
+"nachreformation_status",
+"patron_ab_1615",
+"patrozinium",
+"patrozinium_etabliert",
+"reformation",
+"status_ab_1275",
+"teil_am",
+"ursprünglicher_patron"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/007": {
+"entitaet": "kirche",
+"bezeichnung": "St. Blasius",
+"eigenschaften": [
+"architekt",
+"architekt_lehrer",
+"baujahre",
+"religion",
+"stil"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/008": {
+"entitaet": "kirche",
+"bezeichnung": "Thomaskirche",
+"eigenschaften": [
+"baujahre",
+"lage",
+"pfarrei_etabliert",
+"pfarrei_umfang",
+"religion"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/009": {
+"entitaet": "haltestelle",
+"bezeichnung": "Haltepunkt Zähringen",
+"eigenschaften": [
+"linie",
+"verbindung_mitte",
+"verbindung_nord",
+"verbindung_süd",
+"verkehrsmittel"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/010": {
+"entitaet": "straßenbahn",
+"bezeichnung": "straßenbahn",
+"eigenschaften": [
+"anschluss_datum",
+"anschluss_strecke",
+"linie_betroffen",
+"linienänderung_12_2024",
+"verlängerung_1",
+"verlängerung_1_stationen",
+"verlängerung_1_ziel"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/011": {
+"entitaet": "ort",
+"bezeichnung": "Zähringen",
+"eigenschaften": [
+"pumptrack_eröffnung",
+"pumptrack_lage"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/012": {
+"entitaet": "ort",
+"bezeichnung": "Zähringen",
+"eigenschaften": [
+"bevölkerung_konfession_katholik",
+"bevölkerung_konfession_protestant",
+"bevölkerung_konfession_sonstige",
+"einwohner_stand_jahr",
+"einwohner_vor_eingemeindung",
+"gebäude",
+"haushaltungen"
+],
+"berichtigungen": 0
+},
+"448-zaehringen/013": {
+"entitaet": "ort",
+"bezeichnung": "Zähringen",
+"eigenschaften": [
+"besitzer_1443",
+"besitzer_1536",
+"besitzer_ab_1755",
+"besitzer_ab_ende_16_jh",
+"besitzer_später",
+"besitztum_ab_ende_11_jh",
+"eingemeindung",
+"nachfolger_ab_ca_1218",
+"status_ab_1806",
+"verkauf_1327"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/001": {
+"entitaet": "ort",
+"bezeichnung": "Brühl",
+"eigenschaften": [
+"administrative_gliederung",
+"entstehungszeit",
+"lage",
+"nachbarstaedtteile",
+"topographie"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/002": {
+"entitaet": "stadtteil",
+"bezeichnung": "Brühl-Güterbahnhof",
+"eigenschaften": [
+"charakteristika",
+"flaeche_ha",
+"position"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/003": {
+"entitaet": "stadtteil",
+"bezeichnung": "Brühl-Industriegebiet",
+"eigenschaften": [
+"enthaelt",
+"flaeche_ha",
+"position"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/004": {
+"entitaet": "kirche",
+"bezeichnung": "St. Konrad",
+"eigenschaften": [
+"baujahr",
+"geschichte_1925_kuratie",
+"geschichte_1945_pfarrei",
+"geschichte_1967_umbau"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/005": {
+"entitaet": "kirche",
+"bezeichnung": "St. Elisabeth (Pfarrkuratie/Pfarrei)",
+"eigenschaften": [
+"geschichte_1967_gruendung",
+"geschichte_1975_pfarrei",
+"urspruengliche_kuratie"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/006": {
+"entitaet": "gelaende",
+"bezeichnung": "Wolfsbuck",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"charakteristika",
+"hoehe_m",
+"nutzungszeitraum_stadt",
+"urspruengliche_funktion",
+"zusammensetzung"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/007": {
+"entitaet": "gelaende",
+"bezeichnung": "Eichelbuck",
+"eigenschaften": [
+"abdichtungsphase",
+"bedeutung_fuer_ort",
+"charakteristika",
+"hoehe_m",
+"lage",
+"nachsorge_dauer_jahre",
+"nutzungszeitraum",
+"oeffnung_veroeffentlichkeit"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/008": {
+"entitaet": "gebaeude",
+"bezeichnung": "Lokhalle",
+"eigenschaften": [
+"baujahr",
+"beschreibung",
+"denkmalschutz_seit",
+"eigentuemer_seit_2011",
+"heutige_nutzung",
+"sanierung",
+"urspruengliche_funktion"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/009": {
+"entitaet": "gebaeude",
+"bezeichnung": "Turmcafé",
+"eigenschaften": [
+"adresse",
+"aktuelle_lage",
+"architekt",
+"baujahr",
+"beschreibung",
+"denkmalschutz_seit",
+"nutzung",
+"urspruengliche_planung"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/010": {
+"entitaet": "wohnanlage",
+"bezeichnung": "Campo Novo",
+"eigenschaften": [
+"bautyp",
+"gruendungsjahr"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/011": {
+"entitaet": "markt",
+"bezeichnung": "Stadtteilmarkt Brühl",
+"eigenschaften": [
+"durchfuehrung",
+"gruendungsdatum",
+"ort"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/012": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Stadtraumbahn Brühl",
+"eigenschaften": [
+"betreiber",
+"inbetriebnahme_neue_gleise",
+"linien",
+"verkehrsbau",
+"verlegung_bauphase",
+"verlegung_grund"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/013": {
+"entitaet": "betrieb_industrie",
+"bezeichnung": "Rhodia / Cerdia",
+"eigenschaften": [
+"baujahr_hauptwerk",
+"bedeutung_fuer_ort",
+"funktion",
+"umbenennung_2019"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/014": {
+"entitaet": "betrieb_industrie",
+"bezeichnung": "Pfizer Manufacturing Deutschland",
+"eigenschaften": [
+"branche",
+"lage"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/015": {
+"entitaet": "betrieb_industrie",
+"bezeichnung": "TDK-Micronas",
+"eigenschaften": [
+"branche",
+"lage"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/016": {
+"entitaet": "betrieb_versorgung",
+"bezeichnung": "Badenova",
+"eigenschaften": [
+"branche",
+"lage"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/017": {
+"entitaet": "moebelbetrieb",
+"bezeichnung": "IKEA",
+"eigenschaften": [
+"lage",
+"nachbarschaft"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/018": {
+"entitaet": "moebelbetrieb",
+"bezeichnung": "Möbel Braun",
+"eigenschaften": [
+"lage",
+"nachbarschaft"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/019": {
+"entitaet": "moebelbetrieb",
+"bezeichnung": "XXXLutz",
+"eigenschaften": [
+"lage",
+"nachbarschaft"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/020": {
+"entitaet": "friedhof",
+"bezeichnung": "Freiburger Hauptfriedhof",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/021": {
+"entitaet": "kino",
+"bezeichnung": "Kino Kandelhof",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/022": {
+"entitaet": "veranstaltungsort",
+"bezeichnung": "Neue Messe",
+"eigenschaften": [
+"beschreibung",
+"lage"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/023": {
+"entitaet": "sportstadion",
+"bezeichnung": "Mooswaldstadion",
+"eigenschaften": [
+"bezug_spielbetrieb",
+"nutzung"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/024": {
+"entitaet": "flugplatz",
+"bezeichnung": "Flugplatz Freiburg",
+"eigenschaften": [
+"charakteristika",
+"lage"
+],
+"berichtigungen": 0
+},
+"449-bruehl-freiburg/025": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Funkturm Freiburg",
+"eigenschaften": [
+"funktion"
+],
+"berichtigungen": 0
+},
 "45-mainz/001": {
 "entitaet": "ort",
 "bezeichnung": "Mainz",
@@ -195474,6 +197453,2946 @@
 "autor",
 "kontext",
 "schreibort"
+],
+"berichtigungen": 0
+},
+"450-oberau/001": {
+"entitaet": "ort",
+"bezeichnung": "Oberau",
+"eigenschaften": [
+"bevoelkerungsdichte",
+"bevoelkerungsdichte_einheit",
+"durchflusses",
+"einwohner",
+"einwohner_stand_jahr",
+"flaeche",
+"flaeche_einheit",
+"lage",
+"nachbarort_osten",
+"nachbarort_sueden",
+"nachbarort_westen",
+"rang_bevoelkerungsdichte"
+],
+"berichtigungen": 0
+},
+"450-oberau/002": {
+"entitaet": "ort",
+"bezeichnung": "Oberau",
+"eigenschaften": [
+"ersterwahnung",
+"ersterwahnung_form"
+],
+"berichtigungen": 0
+},
+"450-oberau/003": {
+"entitaet": "brauerei",
+"bezeichnung": "Brauerei Ganter",
+"eigenschaften": [
+"art",
+"bedeutung_fuer_ort",
+"besonderheiten",
+"charakteristikum",
+"veraenderung_2021",
+"zusatzangebot_veranstaltungen"
+],
+"berichtigungen": 0
+},
+"450-oberau/004": {
+"entitaet": "kirche",
+"bezeichnung": "Friedenskirche",
+"eigenschaften": [
+"erbauungsjahr",
+"konfession",
+"lage",
+"pfarrei"
+],
+"berichtigungen": 0
+},
+"450-oberau/005": {
+"entitaet": "pfarrei",
+"bezeichnung": "Evangelische Friedenspfarrei",
+"eigenschaften": [
+"gruendungsjahr",
+"konfession",
+"zugehoerige_stadtteile"
+],
+"berichtigungen": 0
+},
+"450-oberau/006": {
+"entitaet": "pfarrei",
+"bezeichnung": "Maria-Hilf-Pfarrei",
+"eigenschaften": [
+"konfession",
+"lage",
+"zugehoerige"
+],
+"berichtigungen": 0
+},
+"450-oberau/007": {
+"entitaet": "berg",
+"bezeichnung": "Schlossberg",
+"eigenschaften": [
+"besonderheiten_terroir",
+"charakteristikum",
+"exposition",
+"geschichte_weinbau",
+"wein_klassifizierung",
+"weingueter_anzahl",
+"weinlage",
+"weinlage_rang"
+],
+"berichtigungen": 0
+},
+"450-oberau/008": {
+"entitaet": "berg",
+"bezeichnung": "Hirzberg",
+"eigenschaften": [
+"bewaeltung",
+"brauch",
+"denkmal",
+"lage",
+"nutzung_offene_flaechen"
+],
+"berichtigungen": 0
+},
+"450-oberau/009": {
+"entitaet": "hochschule",
+"bezeichnung": "Hochschule für Musik Freiburg",
+"eigenschaften": [
+"lage",
+"vorgaenger_gelaende"
+],
+"berichtigungen": 0
+},
+"450-oberau/010": {
+"entitaet": "gymnasium",
+"bezeichnung": "Deutsch-Französisches Gymnasium",
+"eigenschaften": [
+"lage",
+"vorgaenger_gelaende"
+],
+"berichtigungen": 0
+},
+"450-oberau/011": {
+"entitaet": "gaststaette",
+"bezeichnung": "Gasthaus zum Stahl",
+"eigenschaften": [
+"erbaujahr",
+"genauigkeit_erbaujahr",
+"rang",
+"ursprung",
+"zusatz"
+],
+"berichtigungen": 0
+},
+"450-oberau/012": {
+"entitaet": "gaststaette",
+"bezeichnung": "Dreikönigshaus",
+"eigenschaften": [
+"erbaujahr",
+"nutzung_heute",
+"nutzung_historie",
+"ursprungsname"
+],
+"berichtigungen": 0
+},
+"450-oberau/013": {
+"entitaet": "gebaeuede",
+"bezeichnung": "Gesindehaus mit Gewölbekeller",
+"eigenschaften": [
+"erbaujahr",
+"funktion_geschichte",
+"genauigkeit",
+"nutzung_heute"
+],
+"berichtigungen": 0
+},
+"450-oberau/014": {
+"entitaet": "veranstaltungsort",
+"bezeichnung": "Wodan-Halle",
+"eigenschaften": [
+"nutzung",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"450-oberau/015": {
+"entitaet": "einkaufszentrum",
+"bezeichnung": "ZO (Zentrum Oberwiehre)",
+"eigenschaften": [
+"ausstattung",
+"funktion",
+"lage"
+],
+"berichtigungen": 0
+},
+"450-oberau/016": {
+"entitaet": "rundfunkstation",
+"bezeichnung": "Landesstudio Freiburg (Südwestrundfunk)",
+"eigenschaften": [
+"gebaeuede"
+],
+"berichtigungen": 0
+},
+"450-oberau/017": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Straßenbahnlinie 1",
+"eigenschaften": [
+"erschliessung",
+"lage"
+],
+"berichtigungen": 0
+},
+"450-oberau/018": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Radwege",
+"eigenschaften": [
+"radschnellweg_geplant",
+"radweg_fr1",
+"radweg_fr8"
+],
+"berichtigungen": 0
+},
+"450-oberau/019": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Bundesstraße 31",
+"eigenschaften": [
+"lage",
+"problem"
+],
+"berichtigungen": 0
+},
+"450-oberau/020": {
+"entitaet": "regulierung",
+"bezeichnung": "Bewohnerparken",
+"eigenschaften": [
+"einfuehrungszeitpunkt",
+"umfang",
+"ziel"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/001": {
+"entitaet": "ort",
+"bezeichnung": "Haslach",
+"eigenschaften": [
+"eingemeindung_jahr",
+"eingemeindung_monat",
+"eingemeindung_tag",
+"einwohner",
+"erste_erwahnung",
+"genauigkeit_einwohner",
+"lage_stadt",
+"namensherkunft"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/002": {
+"entitaet": "stadtteil_gliederung",
+"bezeichnung": "Haslach-Egerten",
+"eigenschaften": [
+"stadtbezirk_nummer"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/003": {
+"entitaet": "stadtteil_gliederung",
+"bezeichnung": "Haslach-Gartenstadt",
+"eigenschaften": [
+"stadtbezirk_nummer"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/004": {
+"entitaet": "stadtteil_gliederung",
+"bezeichnung": "Haslach-Schildacker",
+"eigenschaften": [
+"stadtbezirk_nummer"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/005": {
+"entitaet": "stadtteil_gliederung",
+"bezeichnung": "Haslach-Haid",
+"eigenschaften": [
+"stadtbezirk_nummer"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/006": {
+"entitaet": "kirche",
+"bezeichnung": "St. Galluskirche",
+"eigenschaften": [
+"bauteile_chor",
+"bauteile_langhaus_baujahr",
+"bauteile_turm",
+"bedeutung_fuer_ort",
+"erste_erwahnung",
+"kirchensatz_1329",
+"konfession_ab_1556",
+"patrozinium",
+"superlativ",
+"superlativ_kirchturm"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/007": {
+"entitaet": "kirche",
+"bezeichnung": "Dietrich-Bonhoeffer-Pfarrei",
+"eigenschaften": [
+"abspaltung_jahr",
+"kirche_baujahr",
+"zustaendigkeit"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/008": {
+"entitaet": "kirche",
+"bezeichnung": "St. Michael",
+"eigenschaften": [
+"baujahr",
+"besonderheit",
+"konfession"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/009": {
+"entitaet": "brunnen",
+"bezeichnung": "Haslacher Dorfbrunnen",
+"eigenschaften": [
+"adler",
+"aufbau",
+"bedeutung_fuer_ort",
+"bildhauer",
+"erstrichtung_jahr",
+"inschrift_1",
+"inschrift_2",
+"inschrift_3",
+"versetzung_grund",
+"versetzung_jahr",
+"versetzung_neue_position",
+"wappen_freiburg",
+"wappen_haslach"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/010": {
+"entitaet": "wohnsiedlung",
+"bezeichnung": "Gartenstadt Haslach",
+"eigenschaften": [
+"baujahr",
+"bedeutung_fuer_ort",
+"entwicklung_kontext",
+"gartenzweck",
+"gebaeudetype",
+"schutzstatus",
+"vorbild"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/011": {
+"entitaet": "wohnsiedlung",
+"bezeichnung": "Laubenkolonie Haslach",
+"eigenschaften": [
+"baujahr",
+"besonderheit",
+"lage",
+"modernisierung_jahr",
+"stadtplaner",
+"verlust"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/012": {
+"entitaet": "wohnsiedlung",
+"bezeichnung": "ECA-Siedlung",
+"eigenschaften": [
+"abriss_abschluss",
+"abriss_grund",
+"abriss_start",
+"baujahr",
+"finanzierung",
+"lage"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/013": {
+"entitaet": "hochhaeuser",
+"bezeichnung": "Drei Musketiere",
+"eigenschaften": [
+"anzahl",
+"baujahr",
+"lage",
+"material",
+"volkstitel"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/014": {
+"entitaet": "wohnsiedlung",
+"bezeichnung": "Schildacker-Wohnsiedlung",
+"eigenschaften": [
+"abriss_abschluss",
+"abriss_start",
+"anteil_gefoerdert",
+"energieversorgung",
+"lage",
+"lage_alt",
+"neubau_anteil_holzbau",
+"stellplaetze_massnahme",
+"wohnungen_alt",
+"wohnungen_neu",
+"zusaetliche_infrastruktur"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/015": {
+"entitaet": "wohnsiedlung",
+"bezeichnung": "Gutleutviertel",
+"eigenschaften": [
+"baujahr_ab",
+"flaeche_gewerbegelaende",
+"lage"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/016": {
+"entitaet": "wohnsiedlung",
+"bezeichnung": "Gutleutmatten",
+"eigenschaften": [
+"baujahr",
+"bewohner",
+"genauigkeit_wohnungen",
+"kleingaerten_verzeichnung_zeitraum",
+"vorgaenger",
+"wohnungen"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/017": {
+"entitaet": "person",
+"bezeichnung": "Käthe Vordtriede",
+"eigenschaften": [
+"beruf",
+"emigration",
+"gedenken_stolperstein_ab",
+"gedenken_vordtriede_haus_ab",
+"kinder",
+"verfolgung",
+"wohnort",
+"wohnzeit"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/018": {
+"entitaet": "gedenkstaette",
+"bezeichnung": "Vordtriede-Haus Freiburg",
+"eigenschaften": [
+"gaendung_von",
+"typ",
+"zweck"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/019": {
+"entitaet": "gedenkstein",
+"bezeichnung": "Stolperstein Käthe Vordtriede",
+"eigenschaften": [
+"gueltig_ab",
+"ort"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/020": {
+"entitaet": "schule",
+"bezeichnung": "Staudinger-Gesamtschule",
+"eigenschaften": [
+"absolventin_bekannt",
+"bau_original_jahr",
+"namensgebung",
+"neubau_besonderheit",
+"neubau_kosten",
+"neubau_kosten_einheit",
+"neubau_zeitraum",
+"superlativ",
+"typ"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/021": {
+"entitaet": "bad",
+"bezeichnung": "Gartenhallenbad Haslach",
+"eigenschaften": [
+"errichtung_jahr",
+"lage_art"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/022": {
+"entitaet": "schule",
+"bezeichnung": "Schenkendorfschule",
+"eigenschaften": [
+"erbaut_zeitraum",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/023": {
+"entitaet": "aufnahmeeinrichtung",
+"bezeichnung": "Landeserstaufnahmeeinrichtung (LEA)",
+"eigenschaften": [
+"errichtung_jahr",
+"lage_stadtteil",
+"vorgaenger_gebaeude",
+"zweck"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/024": {
+"entitaet": "verkehrsinfrastruktur",
+"bezeichnung": "Straßenbahnlinie 5",
+"eigenschaften": [
+"erste_betriebszeit",
+"strecke_zweite_phase",
+"verlauf_ab_2004",
+"verlauf_ab_2019",
+"verlauf_ab_maerz_2019",
+"zweite_betriebszeit_ab"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/025": {
+"entitaet": "verkehrsinfrastruktur",
+"bezeichnung": "Straßenbahnlinie 3",
+"eigenschaften": [
+"strecke"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/026": {
+"entitaet": "verkehrsinfrastruktur",
+"bezeichnung": "Buslinie 14",
+"eigenschaften": [
+"ziel"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/027": {
+"entitaet": "verkehrsinfrastruktur",
+"bezeichnung": "Buslinie 11",
+"eigenschaften": [
+"lage",
+"ziel"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/028": {
+"entitaet": "radweg",
+"bezeichnung": "FR 1",
+"eigenschaften": [
+"verlauf"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/029": {
+"entitaet": "radweg",
+"bezeichnung": "FR 2",
+"eigenschaften": [
+"verlauf"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/030": {
+"entitaet": "radweg",
+"bezeichnung": "FR 3",
+"eigenschaften": [
+"verlauf"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/031": {
+"entitaet": "radweg",
+"bezeichnung": "FR 6",
+"eigenschaften": [
+"verlauf"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/032": {
+"entitaet": "radweg",
+"bezeichnung": "Radschnellweg Bad Krozingen",
+"eigenschaften": [
+"status",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/033": {
+"entitaet": "kleingaerten",
+"bezeichnung": "Kleingärten Haslach",
+"eigenschaften": [
+"anzahl",
+"ehemals_lage",
+"genauigkeit_anzahl",
+"verlust_grund",
+"verlust_zeitraum"
+],
+"berichtigungen": 0
+},
+"451-haslach-freiburg/034": {
+"entitaet": "scheune",
+"bezeichnung": "Scheune bei Melanchthonkirche",
+"eigenschaften": [
+"alter_ungewiss",
+"bauteile_fachwerk",
+"bauteile_giebelwand",
+"besitzer",
+"plaene_ab_august_2021"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/001": {
+"entitaet": "ort",
+"bezeichnung": "Sankt Georgen",
+"eigenschaften": [
+"eingemeindung_stadt",
+"einwohnerzahl_vor_1938",
+"gemarkungsflaeche_vor_1938",
+"grenzgeometrie",
+"selbststaendigkeit_bis",
+"stadtbezirke",
+"staedtischer_status",
+"zusammensetzung_historisch"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/002": {
+"entitaet": "ort",
+"bezeichnung": "Sankt Georgen",
+"eigenschaften": [
+"beschreibung_ursprung",
+"erstwohnung_hartkirch",
+"erstwohnung_uffhausen",
+"erstwohnung_wendlingen",
+"johanniter_1390",
+"kartaeuserzeit",
+"klosterbesitz_12_jh",
+"klosterbesitz_8_9_jh",
+"merowingische_funde",
+"namenssetzung",
+"roemer",
+"säkularisation",
+"verwaltung_17_jh",
+"waldkirch_connection_925"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/003": {
+"entitaet": "freizeitanlage",
+"bezeichnung": "Tier-Natur-Erlebnispark Mundenhof",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"besonderheit_2026",
+"charakterisierung",
+"eintritt_tiergehege",
+"eroeffnung",
+"grösse",
+"infrastruktur",
+"oeffnungszeiten",
+"rauchfrei_seit",
+"tierbestand",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/004": {
+"entitaet": "freizeitanlage",
+"bezeichnung": "Tier-Natur-Erlebnispark Mundenhof",
+"eigenschaften": [
+"besucherzahl_2025",
+"besucherzahl_status",
+"nachwuchs_2026",
+"sicherheitsereignisse_2025",
+"tierarten_nachwuchs"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/005": {
+"entitaet": "paedagogische_einrichtung",
+"bezeichnung": "KonTiKi",
+"eigenschaften": [
+"angebote",
+"bedeutung",
+"gelaende",
+"jahreszeitliche_aktivitaeten",
+"lage",
+"paedagogisches_konzept",
+"zielgruppe"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/006": {
+"entitaet": "tiergruppe",
+"bezeichnung": "KonTiKi-Tiere",
+"eigenschaften": [
+"beschreibung_auswahl",
+"tierarten"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/007": {
+"entitaet": "denkmal",
+"bezeichnung": "Georgsbrunnen",
+"eigenschaften": [
+"anlass",
+"bedeutung_fuer_ort",
+"jahr",
+"schoepfer",
+"vorbild"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/008": {
+"entitaet": "kirche",
+"bezeichnung": "Hardkirche / St. Georg (alte Kirche)",
+"eigenschaften": [
+"abriss",
+"bauart_historisch",
+"erstwohnung_geistlicher",
+"grund_abriss",
+"historische_funktion",
+"namenspatenschaft",
+"neubau",
+"neubau_stil",
+"patrozinium",
+"wallfahrtsbrauch"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/009": {
+"entitaet": "kirche",
+"bezeichnung": "Pfarrkirche St. Peter und Paul (Uffhausen)",
+"eigenschaften": [
+"bauzeit",
+"bedeutung_fuer_ort",
+"erbauung",
+"grund_neubau",
+"historische_nutzung"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/010": {
+"entitaet": "kirche",
+"bezeichnung": "Evangelische Lukaskirche / Lukaspfarrei",
+"eigenschaften": [
+"gebaeude_kirche",
+"gruendung_pfarrei",
+"gruendung_vikariat",
+"grund",
+"sprengel_umfang",
+"standort"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/011": {
+"entitaet": "schwimmbad",
+"bezeichnung": "Freibad Sankt Georgen",
+"eigenschaften": [
+"ausstattung",
+"bedeutung",
+"bestand_seit",
+"modernisierung",
+"situation_1998",
+"wiederinbetriebnahme_anlass",
+"wiederinbetriebnahme_datum"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/012": {
+"entitaet": "thermalbad",
+"bezeichnung": "Eugen-Keidel-Thermalbad / Mineral-Thermalbad",
+"eigenschaften": [
+"bedeutung",
+"bedeutung_fuer_ort",
+"benannt_nach",
+"erbauung",
+"lage",
+"typ"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/013": {
+"entitaet": "fest_brauch",
+"bezeichnung": "St. Georgsritt / Georgsritt",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"bedeutung_theologisch",
+"frequenz",
+"namenspatenschaft_stadt",
+"ritual",
+"typ"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/014": {
+"entitaet": "fest_brauch",
+"bezeichnung": "St. Georgener Weintage im Breisgau",
+"eigenschaften": [
+"bedeutung",
+"seit",
+"typ",
+"zeitpunkt"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/015": {
+"entitaet": "weinanbau",
+"bezeichnung": "Weinbau Sankt Georgen",
+"eigenschaften": [
+"anbaugebiet",
+"bedeutung_fuer_ort",
+"besitz",
+"flurbezeichnung_lage",
+"fusion",
+"gegenwart",
+"geschichtliche_bedeutung",
+"institution",
+"lage",
+"private_weinguter"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/016": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Freiburger Rieselfeld",
+"eigenschaften": [
+"bedeutung",
+"gegenwart",
+"geschichte",
+"lage",
+"typ"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/017": {
+"entitaet": "bahnhof",
+"bezeichnung": "Bahnhof Freiburg-Sankt Georgen",
+"eigenschaften": [
+"bedeutung_historisch",
+"eisenbahnstrecke",
+"eroeffnung",
+"geplante_umbauten",
+"linie"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/018": {
+"entitaet": "paedagogische_einrichtung",
+"bezeichnung": "Kinderabenteuerhof",
+"eigenschaften": [
+"angebote",
+"barrierefreiheit",
+"flaeche",
+"gruendung",
+"lage",
+"traeger"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/019": {
+"entitaet": "berg",
+"bezeichnung": "Schönberg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"gehoert_zu",
+"historische_rolle",
+"lage"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/020": {
+"entitaet": "abbau_bergbau",
+"bezeichnung": "Eisenerzabbau",
+"eigenschaften": [
+"beginn",
+"charakterisierung",
+"lage",
+"wirtschaftliche_bedeutung"
+],
+"berichtigungen": 0
+},
+"452-sankt-georgen/021": {
+"entitaet": "burg",
+"bezeichnung": "Schneeburg",
+"eigenschaften": [
+"abbau",
+"grund",
+"lage",
+"zerstoerung"
+],
+"berichtigungen": 0
+},
+"453-vauban/001": {
+"entitaet": "ort",
+"bezeichnung": "Quartier Vauban",
+"eigenschaften": [
+"besendelung_dichte_ew_pro_qkm",
+"einwohnerzahl",
+"flaeche_hektar",
+"gemarkung",
+"grenzt_an",
+"lage",
+"stadtteil_nummer"
+],
+"berichtigungen": 0
+},
+"453-vauban/002": {
+"entitaet": "ort",
+"bezeichnung": "Quartier Vauban",
+"eigenschaften": [
+"benannt_nach",
+"grund_abzug",
+"militaer_abzug_datum",
+"namenspatroin_beschreibung",
+"stadium_entwicklung",
+"umbenannt_grund",
+"umbenannt_wann",
+"umbenannt_zu",
+"ursprung_name",
+"ursprung_year"
+],
+"berichtigungen": 0
+},
+"453-vauban/003": {
+"entitaet": "ort",
+"bezeichnung": "Quartier Vauban",
+"eigenschaften": [
+"autofrei_konzept",
+"bebauungsplan_rechtskraeftig",
+"einwohnerzahl_01_07_2006",
+"einwohnerzahl_ende_2008",
+"einwohnerzahl_ende_2013",
+"erste_baumassnamen_beginn",
+"erste_bewohner",
+"erste_konversion_idee",
+"expo_2010_bereich",
+"expo_2010_praesentiert",
+"forum_vauban_gruendung",
+"forum_vauban_initiative_gründer",
+"forum_vauban_startkapital_dm",
+"teilweise_selbstverwaltet",
+"umweltfreundlich_ausgerichtet"
+],
+"berichtigungen": 0
+},
+"453-vauban/004": {
+"entitaet": "militaergebaeude",
+"bezeichnung": "Schlageter-Kaserne (später Vauban-Kaserne)",
+"eigenschaften": [
+"abbruch_kaserngebaeude",
+"bauflaeche_hektar",
+"baustart",
+"ort",
+"stadt_kauf_beteiligung_studentenwerk",
+"stadt_kauf_beteiligung_susi",
+"stadt_kauf_flaeche_hektar",
+"stadt_kauf_preis_euro",
+"stadt_kauf_preis_konvertiert"
+],
+"berichtigungen": 0
+},
+"453-vauban/005": {
+"entitaet": "verein",
+"bezeichnung": "Forum Vauban",
+"eigenschaften": [
+"beteiligung_typ",
+"durchgesetzte_konzepte",
+"erfolg",
+"gruendung_datum",
+"gruendungs_initiator_1",
+"gruendungs_initiator_2",
+"startkapital_dm",
+"ziel"
+],
+"berichtigungen": 0
+},
+"453-vauban/006": {
+"entitaet": "schule",
+"bezeichnung": "Karoline-Kaspar-Grundschule",
+"eigenschaften": [
+"benoetigt_erwerbung",
+"charakteristikum",
+"grund_erweiterung"
+],
+"berichtigungen": 0
+},
+"453-vauban/007": {
+"entitaet": "denkmal",
+"bezeichnung": "Georg-Elser-Denkmal",
+"eigenschaften": [
+"abbau_grund",
+"abbau_wann",
+"charakteristikum",
+"errichtet_wann",
+"errichtet_wo",
+"neubau_material",
+"neubau_wann",
+"ursprungsmaterial"
+],
+"berichtigungen": 0
+},
+"453-vauban/008": {
+"entitaet": "hotel",
+"bezeichnung": "Green City Hotel Vauban",
+"eigenschaften": [
+"architekt",
+"charakteristikum",
+"fertigstellung",
+"teil_von"
+],
+"berichtigungen": 0
+},
+"453-vauban/009": {
+"entitaet": "freizeiteinrichtung",
+"bezeichnung": "Kinderabenteuerhof",
+"eigenschaften": [
+"angebote",
+"barrierefrei_teilweise",
+"bestand_seit",
+"charakteristikum",
+"gelaende_groesse_qm",
+"lage",
+"traeger"
+],
+"berichtigungen": 0
+},
+"453-vauban/010": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Grünspangen",
+"eigenschaften": [
+"anzahl",
+"ausrichtung",
+"auszeichnung",
+"baeume_erhalten",
+"beinhalten",
+"charakteristikum",
+"flaeche_hektar_gesamt",
+"planung"
+],
+"berichtigungen": 0
+},
+"453-vauban/011": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Weidendom",
+"eigenschaften": [
+"charakteristikum",
+"lage",
+"material",
+"neu_errichtet"
+],
+"berichtigungen": 0
+},
+"453-vauban/012": {
+"entitaet": "stadtteilzentrum",
+"bezeichnung": "Haus 037",
+"eigenschaften": [
+"art",
+"untergebracht_in",
+"zweck"
+],
+"berichtigungen": 0
+},
+"453-vauban/013": {
+"entitaet": "wohnprojekt",
+"bezeichnung": "Genova",
+"eigenschaften": [
+"art",
+"konstruktion_art",
+"organisationsform"
+],
+"berichtigungen": 0
+},
+"453-vauban/014": {
+"entitaet": "wohninitiative",
+"bezeichnung": "S.U.S.I. (Selbstorganisierte Unabhängige SiedlungsInitiative)",
+"eigenschaften": [
+"art",
+"beteiligung_kasernenflaeche",
+"massnahme",
+"zweck"
+],
+"berichtigungen": 0
+},
+"453-vauban/015": {
+"entitaet": "verein",
+"bezeichnung": "Autofreiverein",
+"eigenschaften": [
+"aufgabe",
+"gruendung",
+"vermuteter_regelverstosse_prozent"
+],
+"berichtigungen": 0
+},
+"453-vauban/016": {
+"entitaet": "oepnv_linie",
+"bezeichnung": "Linie 4 (Freiburger Verkehrs AG)",
+"eigenschaften": [
+"betreiber",
+"betriebsbeginn",
+"haltestelle_1",
+"haltestelle_2",
+"haltestelle_3",
+"haltestellen_anzahl",
+"netzanschluss"
+],
+"berichtigungen": 0
+},
+"453-vauban/017": {
+"entitaet": "radweg",
+"bezeichnung": "FR 7 Radvorrangroute",
+"eigenschaften": [
+"anbindung",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"453-vauban/018": {
+"entitaet": "radweg",
+"bezeichnung": "FR 3 Radvorrangroute",
+"eigenschaften": [
+"anbindung",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"453-vauban/019": {
+"entitaet": "gebaeude",
+"bezeichnung": "Stadthaus M1",
+"eigenschaften": [
+"architekt",
+"fertigstellung",
+"nutzer_1",
+"nutzer_2",
+"standort"
+],
+"berichtigungen": 0
+},
+"453-vauban/020": {
+"entitaet": "gebaeude",
+"bezeichnung": "V8",
+"eigenschaften": [
+"art",
+"bedeutung",
+"fertigstellung",
+"standort"
+],
+"berichtigungen": 0
+},
+"453-vauban/021": {
+"entitaet": "energiekonzept",
+"bezeichnung": "Plusenergiehäuser (Solarsiedlung)",
+"eigenschaften": [
+"anzahl_einheiten",
+"charakteristikum",
+"leistung",
+"standort"
+],
+"berichtigungen": 0
+},
+"453-vauban/022": {
+"entitaet": "energiekonzept",
+"bezeichnung": "Passivhäuser",
+"eigenschaften": [
+"besonderheit",
+"charakteristikum"
+],
+"berichtigungen": 0
+},
+"453-vauban/023": {
+"entitaet": "energiekonzept",
+"bezeichnung": "Blockheizkraftwerk mit Holzhackschnitzel-Befeuerung",
+"eigenschaften": [
+"art",
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"453-vauban/024": {
+"entitaet": "abwassertechnik",
+"bezeichnung": "Ecosan-Abwassertechnologie",
+"eigenschaften": [
+"art",
+"bestaende_in"
+],
+"berichtigungen": 0
+},
+"453-vauban/025": {
+"entitaet": "abwassertechnik",
+"bezeichnung": "Vakuumtoiletten",
+"eigenschaften": [
+"art",
+"bestaende_in"
+],
+"berichtigungen": 0
+},
+"453-vauban/026": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Entwässerungssystem Vauban (Mulden-Rigolen-System)",
+"eigenschaften": [
+"art",
+"effektivitaet_2011",
+"effektivitaet_2012",
+"forscher",
+"gruendacheffekt",
+"komponenten",
+"nebeneffekte",
+"system"
+],
+"berichtigungen": 0
+},
+"453-vauban/027": {
+"entitaet": "umweltproblem",
+"bezeichnung": "umweltproblem",
+"eigenschaften": [
+"grund",
+"massnahme",
+"schadstoff",
+"ziel"
+],
+"berichtigungen": 0
+},
+"453-vauban/028": {
+"entitaet": "person",
+"bezeichnung": "Sébastien Le Prestre de Vauban",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"profession",
+"taetigkeit_freiburg",
+"taetigkeit_neuf_brisach",
+"zeitraum_freiburg",
+"zeitraum_neuf_brisach"
+],
+"berichtigungen": 0
+},
+"453-vauban/029": {
+"entitaet": "person",
+"bezeichnung": "Albert Leo Schlageter",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beschreibung",
+"kaserne_betrieb",
+"kaserne_name"
+],
+"berichtigungen": 0
+},
+"453-vauban/030": {
+"entitaet": "bewoelkerung",
+"bezeichnung": "Bewohnerschaft Vauban",
+"eigenschaften": [
+"anteil_kinder_unter_18_jahren",
+"besonderheit_vergleich",
+"charakteristikum",
+"hauptgruppe",
+"konstruktionsmethode_familien",
+"ruf",
+"weitere_bewohnergruppe"
+],
+"berichtigungen": 0
+},
+"453-vauban/031": {
+"entitaet": "planungsansatz",
+"bezeichnung": "Bebauungsplan Vauban",
+"eigenschaften": [
+"baumassnamen_start",
+"bebauungsplan_rechtskraeftig",
+"bebauungsplan_umfang_hektar",
+"marktierung_beginn",
+"planungsvorgaben",
+"wettbewerb_gewinner",
+"wettbewerb_idee"
+],
+"berichtigungen": 0
+},
+"453-vauban/032": {
+"entitaet": "gewaesser",
+"bezeichnung": "Dorfbach",
+"eigenschaften": [
+"bedeutung",
+"bestand",
+"entwasserung_verbindung",
+"herkunft",
+"naturschutz",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/001": {
+"entitaet": "ort",
+"bezeichnung": "Weingarten",
+"eigenschaften": [
+"einwohner",
+"erbauer",
+"erbaut",
+"grenzt_nord",
+"grenzt_ost",
+"grenzt_sued",
+"grenzt_west",
+"ist_stadtteil_von"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/002": {
+"entitaet": "ort",
+"bezeichnung": "Weingarten",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"charakteristikum",
+"migrationshintergrund_einwohner_prozent",
+"migrationshintergrund_unter_18_prozent",
+"stand"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/003": {
+"entitaet": "kirche",
+"bezeichnung": "St. Andreas-Kirche",
+"eigenschaften": [
+"erbaut",
+"ereignis",
+"kirchengemeinde_begruendung",
+"konfession",
+"renovierung_abschluss",
+"renovierung_begruendung"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/004": {
+"entitaet": "kirchengemeinde",
+"bezeichnung": "Dietrich-Bonhoeffer-Gemeinde",
+"eigenschaften": [
+"beheimatet",
+"konfession"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/005": {
+"entitaet": "kirche",
+"bezeichnung": "Neuapostolische Kirche",
+"eigenschaften": [
+"adresse",
+"existenz_zeitraum",
+"konfession",
+"status"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/006": {
+"entitaet": "hochschule",
+"bezeichnung": "Evangelische Hochschule Freiburg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"konfession"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/007": {
+"entitaet": "schule",
+"bezeichnung": "Adolf-Reichwein-Schule",
+"eigenschaften": [
+"benannt_nach",
+"besonderheit",
+"grundschulfoe_rderklassen",
+"klassen",
+"schueler",
+"type"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/008": {
+"entitaet": "seniorenzentrum",
+"bezeichnung": "AWO-Seniorenzentrum Weingarten",
+"eigenschaften": [
+"adresse",
+"einrichtungen",
+"traeger"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/009": {
+"entitaet": "naherholungsgebiet",
+"bezeichnung": "Dietenbachpark",
+"eigenschaften": [
+"ausstattung",
+"bedeutung_fuer_ort",
+"see_flaeche",
+"see_hoehe",
+"see_hoehe_einheit"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/010": {
+"entitaet": "gebaeude",
+"bezeichnung": "Holzhaus Else-Liefmann-Platz",
+"eigenschaften": [
+"baustart",
+"baustoff",
+"bezugsstand",
+"nutzung_erdgeschoss",
+"nutzung_erster_og",
+"obergeschosse",
+"superlativ",
+"wohneinheiten"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/011": {
+"entitaet": "einkaufszentrum",
+"bezeichnung": "Einkaufszentrum Krozinger Straße",
+"eigenschaften": [
+"adresse",
+"ausstattung",
+"geplante_aufstockung"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/012": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Straßenbahnanbindung",
+"eigenschaften": [
+"erschliessung_ab",
+"geplante_erweiterung",
+"linien"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/013": {
+"entitaet": "radweg",
+"bezeichnung": "Güterbahnradweg FR 2",
+"eigenschaften": [
+"verbindung"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/014": {
+"entitaet": "radweg",
+"bezeichnung": "Radweg FR 5",
+"eigenschaften": [
+"route"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/015": {
+"entitaet": "fahrradverleihsystem",
+"bezeichnung": "Frelo",
+"eigenschaften": [
+"stationen_in_stadtteil"
+],
+"berichtigungen": 0
+},
+"454-weingarten-freiburg/016": {
+"entitaet": "begruengungsstaeotte",
+"bezeichnung": "EBW (Erwachsenen-Begegnungsstätte)",
+"eigenschaften": [
+"groesse",
+"type"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/001": {
+"entitaet": "ort",
+"bezeichnung": "Betzenhausen",
+"eigenschaften": [
+"lage_in_stadt",
+"nachbarortsteil_norden",
+"nachbarortsteil_osten",
+"nachbarortsteil_sueden",
+"nachbarortsteil_westen",
+"population"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/002": {
+"entitaet": "ort_bezirk",
+"bezeichnung": "Alt-Betzenhausen",
+"eigenschaften": [
+"lage",
+"population"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/003": {
+"entitaet": "ort_bezirk",
+"bezeichnung": "Betzenhausen-Bischofslinde",
+"eigenschaften": [
+"lage",
+"population"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/004": {
+"entitaet": "ort",
+"bezeichnung": "Betzenhausen",
+"eigenschaften": [
+"bedeutung_damals",
+"eingemeindung",
+"eingemeindung_grund",
+"ersterwahnung",
+"ersterwahnung_kontext",
+"geschichte_14jhd",
+"historische_namensform",
+"status_1806_1907",
+"verkauf_an_stadt"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/005": {
+"entitaet": "ort",
+"bezeichnung": "Betzenhausen",
+"eigenschaften": [
+"eingemeindung",
+"ersterwahnung",
+"glaubenliche_zuordnung",
+"mittelalter",
+"status_badische_zeit",
+"ursprungsbesitz"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/006": {
+"entitaet": "internierungslager",
+"bezeichnung": "internierungslager",
+"eigenschaften": [
+"besatzung",
+"insassen",
+"kapazitaet",
+"lage",
+"zeitraum",
+"zweck"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/007": {
+"entitaet": "kirche",
+"bezeichnung": "St. Thomas",
+"eigenschaften": [
+"ersterwahnung",
+"filiale_bis_1677",
+"filiale_von_1677",
+"patron",
+"umgebau_anfang_19jhd",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/008": {
+"entitaet": "kirche",
+"bezeichnung": "St. Thomas",
+"eigenschaften": [
+"baumeister",
+"baustil",
+"bauzeit",
+"bedeutung_fuer_ort",
+"besonderheit",
+"patron"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/009": {
+"entitaet": "kapelle",
+"bezeichnung": "St. Agatha Kapelle",
+"eigenschaften": [
+"charakteristikum",
+"wiederaufbau"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/010": {
+"entitaet": "kirche",
+"bezeichnung": "St. Albert",
+"eigenschaften": [
+"entstehungskontext",
+"fertiggestellt",
+"konfession"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/011": {
+"entitaet": "kirchengemeinde",
+"bezeichnung": "Martinsgemeinde-Süd",
+"eigenschaften": [
+"gründung",
+"konfession",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/012": {
+"entitaet": "hallenbad",
+"bezeichnung": "Westbad",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"groesse_ranking",
+"lage",
+"superlativ"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/013": {
+"entitaet": "naherholungsgebiet",
+"bezeichnung": "Seepark",
+"eigenschaften": [
+"anlass",
+"bedeutung_fuer_ort",
+"entstehung",
+"gelande_ursprung"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/014": {
+"entitaet": "sportstätte_eishockey",
+"bezeichnung": "Echte Helden Arena",
+"eigenschaften": [
+"heimstätte",
+"nachnutzungsplanung",
+"zustand"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/015": {
+"entitaet": "stadion",
+"bezeichnung": "Weststadion",
+"eigenschaften": [
+"nutzung"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/016": {
+"entitaet": "studentenwohnheim",
+"bezeichnung": "Studentensiedlung (StuSie)",
+"eigenschaften": [
+"bedeutung_ranking",
+"entstanden_ab",
+"wichtigkeit_fuer_stadt"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/017": {
+"entitaet": "industriedenkmal",
+"bezeichnung": "Gaskugel",
+"eigenschaften": [
+"betrieb_zeitraum",
+"hoehe",
+"hoehe_einheit",
+"lage",
+"nachnutzung_status"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/018": {
+"entitaet": "sportverein",
+"bezeichnung": "Sportfreunde Eintracht Freiburg",
+"eigenschaften": [
+"fusionspartner_1",
+"fusionspartner_2",
+"gründung"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/019": {
+"entitaet": "neubaugebiet",
+"bezeichnung": "Tränkematten-Süd",
+"eigenschaften": [
+"fertiggestellt",
+"lage"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/020": {
+"entitaet": "schule",
+"bezeichnung": "Anne-Frank-Schule",
+"eigenschaften": [
+"entstanden_ab",
+"entstehungskontext"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/021": {
+"entitaet": "platz",
+"bezeichnung": "Betzenhauser Torplatz",
+"eigenschaften": [
+"funktion",
+"massnahmen",
+"umgestaltung"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/022": {
+"entitaet": "straße",
+"bezeichnung": "Berliner Allee",
+"eigenschaften": [
+"entstanden_ab",
+"geplante_verlängerung",
+"radweg_verbesserung_datum",
+"radweg_verbesserung_massnahmen",
+"typ"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/023": {
+"entitaet": "straße",
+"bezeichnung": "Sundgauallee",
+"eigenschaften": [
+"entstanden_ab",
+"typ",
+"umgestaltung_datum",
+"umgestaltung_massnahmen",
+"ziel_umgestaltung"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/024": {
+"entitaet": "infrastruktur_öpnv",
+"bezeichnung": "Stadtbahn Linie 1",
+"eigenschaften": [
+"verlauf"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/025": {
+"entitaet": "infrastruktur_öpnv",
+"bezeichnung": "Stadtbahn Linie 3",
+"eigenschaften": [
+"verlauf"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/026": {
+"entitaet": "radwegenetz",
+"bezeichnung": "Betzenhausener Radwegenetz",
+"eigenschaften": [
+"verbindungen",
+"weitere_routen"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/027": {
+"entitaet": "infrastruktur_planung",
+"bezeichnung": "infrastruktur planung",
+"eigenschaften": [
+"beschreibung",
+"status"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/028": {
+"entitaet": "behördenzentrum",
+"bezeichnung": "Behördenzentrum Betzenhausen-Bischofslinde",
+"eigenschaften": [
+"einrichtungen",
+"entstanden_ab",
+"lage",
+"neubau_regierungspräsidium"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/029": {
+"entitaet": "gewässer",
+"bezeichnung": "Dreisam",
+"eigenschaften": [
+"besonderheit",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/030": {
+"entitaet": "gewässer",
+"bezeichnung": "Tunisee",
+"eigenschaften": [
+"nutzung",
+"typ"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/031": {
+"entitaet": "gewässer",
+"bezeichnung": "Silbersee",
+"eigenschaften": [
+"nutzung",
+"typ"
+],
+"berichtigungen": 0
+},
+"455-betzenhausen/032": {
+"entitaet": "ortsteil",
+"bezeichnung": "Benzhausen",
+"eigenschaften": [
+"badeseen",
+"lage",
+"von"
+],
+"berichtigungen": 0
+},
+"456-mooswald/001": {
+"entitaet": "ort",
+"bezeichnung": "Mooswald",
+"eigenschaften": [
+"einwohnerzahl",
+"grenzen_nordosten",
+"grenzen_nordwesten",
+"grenzen_osten",
+"grenzen_südwesten",
+"gueltig_ab",
+"lage",
+"trennlinie_zu_bruehl",
+"trennlinie_zu_landwasser",
+"trennlinie_zu_stuehlinger",
+"verwaltungsgliederung"
+],
+"berichtigungen": 0
+},
+"456-mooswald/002": {
+"entitaet": "ort",
+"bezeichnung": "Mooswald",
+"eigenschaften": [
+"ausgangspunkt",
+"ausstattung_anfaengliche",
+"bauweise",
+"bombensch_november_1944",
+"erwerbsform",
+"fortführung_ab_1933",
+"gartenbau",
+"gruendung_siedlerbund",
+"gruendung_siedlung",
+"grund_griendung",
+"status_historisch",
+"wiederaufbau"
+],
+"berichtigungen": 0
+},
+"456-mooswald/003": {
+"entitaet": "kirche",
+"bezeichnung": "Heilige Familie",
+"eigenschaften": [
+"bauzeit",
+"bedeutung_fuer_ort",
+"konfession",
+"patrozinium"
+],
+"berichtigungen": 0
+},
+"456-mooswald/004": {
+"entitaet": "kirche",
+"bezeichnung": "Heilige Familie",
+"eigenschaften": [
+"bauzeit",
+"ersterwaehnug",
+"konfession",
+"patrozinium",
+"pfarrei_seit",
+"status"
+],
+"berichtigungen": 0
+},
+"456-mooswald/005": {
+"entitaet": "kirche",
+"bezeichnung": "Markuskirche",
+"eigenschaften": [
+"bauzeit",
+"charakteristikum",
+"konfession"
+],
+"berichtigungen": 0
+},
+"456-mooswald/006": {
+"entitaet": "kirche",
+"bezeichnung": "Markuskirche",
+"eigenschaften": [
+"aufteilung",
+"gruendung_pfarrei",
+"konfession",
+"teil_der_gemeinde"
+],
+"berichtigungen": 0
+},
+"456-mooswald/007": {
+"entitaet": "friedhof",
+"bezeichnung": "Jüdischer Friedhof",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"456-mooswald/008": {
+"entitaet": "gebetsraum",
+"bezeichnung": "Gebetsraum des islamischen Bildungs- und Begegnungsvereins Freiburg",
+"eigenschaften": [
+"religion",
+"status"
+],
+"berichtigungen": 0
+},
+"456-mooswald/009": {
+"entitaet": "schule",
+"bezeichnung": "Paul-Hindemith-Grundschule",
+"eigenschaften": [
+"schultyp"
+],
+"berichtigungen": 0
+},
+"456-mooswald/010": {
+"entitaet": "schule",
+"bezeichnung": "Wentzinger-Schulen",
+"eigenschaften": [
+"schultyp"
+],
+"berichtigungen": 0
+},
+"456-mooswald/011": {
+"entitaet": "schule",
+"bezeichnung": "Mooswaldschule",
+"eigenschaften": [
+"bauzeit",
+"heutiger_status",
+"schultyp"
+],
+"berichtigungen": 0
+},
+"456-mooswald/012": {
+"entitaet": "wohnheim",
+"bezeichnung": "Studierendenhaus Falkenberger Straße",
+"eigenschaften": [
+"betreiber",
+"erhoehung",
+"erweiterung",
+"plaetze",
+"uebernahme"
+],
+"berichtigungen": 0
+},
+"456-mooswald/013": {
+"entitaet": "forschungsinstitut",
+"bezeichnung": "Fraunhofer-Institut für Solare Energiesysteme",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"lage",
+"mitarbeiter"
+],
+"berichtigungen": 0
+},
+"456-mooswald/014": {
+"entitaet": "gebaeude",
+"bezeichnung": "Institut für Anatomie und Zellbiologie (Universitätsklinik Freiburg)",
+"eigenschaften": [
+"fertigstellung",
+"ort",
+"teil_von"
+],
+"berichtigungen": 0
+},
+"456-mooswald/015": {
+"entitaet": "gemeinschaftshaus",
+"bezeichnung": "Fritz-Hüttinger-Haus",
+"eigenschaften": [
+"beschreibung",
+"nutzung",
+"verwaltung"
+],
+"berichtigungen": 0
+},
+"456-mooswald/016": {
+"entitaet": "turm",
+"bezeichnung": "Funkturm Deutsche Telekom",
+"eigenschaften": [
+"beschreibung",
+"betreiber",
+"lage"
+],
+"berichtigungen": 0
+},
+"456-mooswald/017": {
+"entitaet": "verein",
+"bezeichnung": "Bürgerverein Mooswald e.V.",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"gruendung"
+],
+"berichtigungen": 0
+},
+"456-mooswald/018": {
+"entitaet": "bahnlinie",
+"bezeichnung": "Straßenbahnlinie 4",
+"eigenschaften": [
+"anbindung_seit",
+"bedeutung_fuer_ort",
+"betreiber",
+"verbindung"
+],
+"berichtigungen": 0
+},
+"456-mooswald/019": {
+"entitaet": "bahnhaltestelle",
+"bezeichnung": "Neue Messe/Universität",
+"eigenschaften": [
+"bedienung",
+"lage"
+],
+"berichtigungen": 0
+},
+"456-mooswald/020": {
+"entitaet": "bushaltestelle",
+"bezeichnung": "Buslinien 10 und 36 (VAG); Linie 7212 (SBG)",
+"eigenschaften": [
+"betreiber",
+"lage"
+],
+"berichtigungen": 0
+},
+"456-mooswald/021": {
+"entitaet": "aussichtspunkt",
+"bezeichnung": "Wolfsbuck",
+"eigenschaften": [
+"entwicklung",
+"geschichte",
+"grundlage"
+],
+"berichtigungen": 0
+},
+"456-mooswald/022": {
+"entitaet": "ort",
+"bezeichnung": "Mooswald",
+"eigenschaften": [
+"bahnhaltestelle_1948",
+"gemeinschaftshaus_fertigstellung",
+"klimabewahrung",
+"kriegszerstörung",
+"wiederaufbau_beginn"
+],
+"berichtigungen": 0
+},
+"456-mooswald/023": {
+"entitaet": "ort",
+"bezeichnung": "Mooswald",
+"eigenschaften": [
+"autoanbindung",
+"fahrradwege_fr2",
+"fahrradwege_fr4",
+"frelo_stationen",
+"radschnellweg_geplant",
+"radverkehr_intern"
+],
+"berichtigungen": 0
+},
+"456-mooswald/024": {
+"entitaet": "entwicklungsprojekt",
+"bezeichnung": "Neue Stadtteilsmitte Mooswald",
+"eigenschaften": [
+"beschreibung",
+"einzelmassnahmen",
+"marktplatz_lage",
+"ueberbauung_tankstelle",
+"ziel"
+],
+"berichtigungen": 0
+},
+"456-mooswald/025": {
+"entitaet": "entwicklungsprojekt",
+"bezeichnung": "Umwandlung Gewerbegebiet Mooswald",
+"eigenschaften": [
+"lage",
+"ziel"
+],
+"berichtigungen": 0
+},
+"457-landwasser/001": {
+"entitaet": "ort",
+"bezeichnung": "Landwasser",
+"eigenschaften": [
+"besiedlung_form",
+"bevölkerung_besiedlung",
+"bevölkerungshöchststand",
+"bevölkerungshöchststand_jahr",
+"entstehungszeit_baubeginn",
+"entstehungszeit_ende",
+"entstehungszeit_erster_bezug",
+"geplant_seit",
+"gesamt_einwohner_februar_1968",
+"gestaltung_heute",
+"lage_in_stadt",
+"planungstyp",
+"umgeben_von",
+"umgebende_stadtteile",
+"ursprüngliche_flächennutzung"
+],
+"berichtigungen": 0
+},
+"457-landwasser/002": {
+"entitaet": "kirche",
+"bezeichnung": "St. Petrus Canisius",
+"eigenschaften": [
+"baujahr",
+"bedeutung_fuer_ort",
+"konfession",
+"lage_im_stadtteil",
+"patrozinium"
+],
+"berichtigungen": 0
+},
+"457-landwasser/003": {
+"entitaet": "kirche",
+"bezeichnung": "Zachäuskirche",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"konfession",
+"lage_im_stadtteil"
+],
+"berichtigungen": 0
+},
+"457-landwasser/004": {
+"entitaet": "gemeinde_kuratie",
+"bezeichnung": "Katholische Kuratie Landwasser",
+"eigenschaften": [
+"folgeregelung",
+"gründungsjahr",
+"konfession"
+],
+"berichtigungen": 0
+},
+"457-landwasser/005": {
+"entitaet": "gemeinde_pfarrei",
+"bezeichnung": "Katholische Pfarrei Landwasser",
+"eigenschaften": [
+"gründungsjahr",
+"konfession",
+"vorgänger"
+],
+"berichtigungen": 0
+},
+"457-landwasser/006": {
+"entitaet": "gemeinde_vikariat",
+"bezeichnung": "Evangelisches Vikariat Landwasser",
+"eigenschaften": [
+"gründungsjahr",
+"konfession"
+],
+"berichtigungen": 0
+},
+"457-landwasser/007": {
+"entitaet": "gemeinde_pfarrei",
+"bezeichnung": "Evangelische Landwasser-Pfarrei",
+"eigenschaften": [
+"gründungsjahr",
+"konfession",
+"vorgänger"
+],
+"berichtigungen": 0
+},
+"457-landwasser/008": {
+"entitaet": "gemeindezentrum",
+"bezeichnung": "Gemeindezentrum (evangelisch)",
+"eigenschaften": [
+"bauzeit",
+"konfession"
+],
+"berichtigungen": 0
+},
+"457-landwasser/009": {
+"entitaet": "schulzentrum",
+"bezeichnung": "Albert-Schweitzer-Schulen",
+"eigenschaften": [
+"bestandteile",
+"lage_im_stadtteil",
+"planungsstatus"
+],
+"berichtigungen": 0
+},
+"457-landwasser/010": {
+"entitaet": "zentrum",
+"bezeichnung": "Haus der Begegnung",
+"eigenschaften": [
+"funktion",
+"lage_im_stadtteil",
+"planungsstatus"
+],
+"berichtigungen": 0
+},
+"457-landwasser/011": {
+"entitaet": "einkaufszentrum",
+"bezeichnung": "Einkaufszentrum Landwasser",
+"eigenschaften": [
+"baujahr_original",
+"baukosten_neubau",
+"baukosten_neubau_einheit",
+"besonderheit_abriss_neubau",
+"erbauer_neubau",
+"erbauer_original",
+"lage_im_stadtteil",
+"stockwerke_original",
+"wohnungen_neubau"
+],
+"berichtigungen": 0
+},
+"457-landwasser/012": {
+"entitaet": "klinik",
+"bezeichnung": "Evangelisches Diakoniekrankenhaus Freiburg",
+"eigenschaften": [
+"baustatus",
+"träger"
+],
+"berichtigungen": 0
+},
+"457-landwasser/013": {
+"entitaet": "klinik",
+"bezeichnung": "Praxisklinik 2000",
+"eigenschaften": [
+"baustatus",
+"betreiber"
+],
+"berichtigungen": 0
+},
+"457-landwasser/014": {
+"entitaet": "altenheim",
+"bezeichnung": "Alten- und Pflegeheim Landwasser",
+"eigenschaften": [
+"baustatus",
+"träger"
+],
+"berichtigungen": 0
+},
+"457-landwasser/015": {
+"entitaet": "ausbildungszentrum",
+"bezeichnung": "Ausbildungszentrum der Handwerkskammer",
+"eigenschaften": [
+"baustatus",
+"funktion"
+],
+"berichtigungen": 0
+},
+"457-landwasser/016": {
+"entitaet": "wohnheim",
+"bezeichnung": "Wohnheim für Auszubildende",
+"eigenschaften": [
+"baubeginn",
+"kapazität",
+"kapazität_einheit",
+"lage"
+],
+"berichtigungen": 0
+},
+"457-landwasser/017": {
+"entitaet": "heizwerk",
+"bezeichnung": "Heizwerk Landwasser",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"energiequelle",
+"funktion",
+"versorgungsbereich"
+],
+"berichtigungen": 0
+},
+"457-landwasser/018": {
+"entitaet": "forschungsinstitution",
+"bezeichnung": "Tierhygienisches Institut Freiburg",
+"eigenschaften": [
+"auch_genannt",
+"bedeutung_fuer_ort",
+"lage",
+"lage_charakterisierung"
+],
+"berichtigungen": 0
+},
+"457-landwasser/019": {
+"entitaet": "kunstwerk",
+"bezeichnung": "Rote Otto",
+"eigenschaften": [
+"baujahr",
+"bedeutung_fuer_ort",
+"beschreibung",
+"farbe",
+"höhe",
+"höhe_einheit",
+"kulturdenkmalstatus_seit",
+"künstler",
+"material",
+"restaurierung_jahr",
+"standort",
+"typ"
+],
+"berichtigungen": 0
+},
+"457-landwasser/020": {
+"entitaet": "gewässer",
+"bezeichnung": "Moosweiher",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"freizeitfunktion",
+"lage",
+"nutzung",
+"typ"
+],
+"berichtigungen": 0
+},
+"457-landwasser/021": {
+"entitaet": "wohnblock",
+"bezeichnung": "Max",
+"eigenschaften": [
+"baujahr",
+"bewohnungstyp",
+"charakterisierung_lokal",
+"hausnummern",
+"position",
+"stockwerke_max",
+"teil_von",
+"verkauf_jahr",
+"verkauf_käufer",
+"wohnungen_gesamtkomplex"
+],
+"berichtigungen": 0
+},
+"457-landwasser/022": {
+"entitaet": "wohnblock",
+"bezeichnung": "Moritz",
+"eigenschaften": [
+"baujahr",
+"bewohnungstyp",
+"charakterisierung_lokal",
+"hausnummern",
+"position",
+"stockwerke_max",
+"teil_von",
+"verkauf_jahr",
+"verkauf_käufer",
+"wohnungen_gesamtkomplex"
+],
+"berichtigungen": 0
+},
+"457-landwasser/023": {
+"entitaet": "bahnhof",
+"bezeichnung": "Freiburg-Landwasser",
+"eigenschaften": [
+"bahnlinie",
+"bedeutung_fuer_ort",
+"lage_im_stadtteil"
+],
+"berichtigungen": 0
+},
+"457-landwasser/024": {
+"entitaet": "stadtbahn_linie",
+"bezeichnung": "Stadtbahnlinie 1",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"haltestellen_landwasser",
+"strecke"
+],
+"berichtigungen": 0
+},
+"457-landwasser/025": {
+"entitaet": "straße",
+"bezeichnung": "Elsässerstraße",
+"eigenschaften": [
+"funktion",
+"umgestaltung_detail",
+"umgestaltung_jahr",
+"verbindung"
+],
+"berichtigungen": 0
+},
+"457-landwasser/026": {
+"entitaet": "radweg",
+"bezeichnung": "Radwegenetz Landwasser",
+"eigenschaften": [
+"brücken",
+"frelo_stationen",
+"qualität",
+"radschnellweg_geplant",
+"radschnellweg_ziele",
+"verbindung"
+],
+"berichtigungen": 0
+},
+"457-landwasser/027": {
+"entitaet": "wappen",
+"bezeichnung": "Wappen Landwasser",
+"eigenschaften": [
+"feld_1",
+"feld_2",
+"feld_3",
+"feld_4",
+"gliederung",
+"symbolik"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/001": {
+"entitaet": "ort",
+"bezeichnung": "Lehen",
+"eigenschaften": [
+"anfangseinwohner",
+"anzahl_ortschaftsrat",
+"eingemeindet_am",
+"eingemeindet_in",
+"einwohner_tendenz",
+"erste_urkundliche_erwahnung",
+"grundlage_ortschaftsverfassung",
+"gueltig_ab_einwohner_2020",
+"gueltig_ab_erste_erwahnung",
+"lage",
+"namensherkunft",
+"ortsvorsteher"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/002": {
+"entitaet": "landschaft",
+"bezeichnung": "Lehener Bergle",
+"eigenschaften": [
+"absolute_hoehe",
+"archaeologische_funde",
+"art",
+"bedeutung_fuer_ort",
+"breite",
+"fossilien",
+"gesteinsalter",
+"gesteinsschichten",
+"hoehe_ueber_umland",
+"laenge",
+"lossschicht",
+"schutzgebiet"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/003": {
+"entitaet": "kirche",
+"bezeichnung": "St. Cyriak",
+"eigenschaften": [
+"bauzeit_jetziges_gebaeude",
+"bedeutung_fuer_ort",
+"first_erwahnung",
+"langhaus",
+"patrozinium",
+"turm",
+"urspruengliche_bauteile",
+"warzeichen"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/004": {
+"entitaet": "denkmal",
+"bezeichnung": "Bundschuh-Eiche",
+"eigenschaften": [
+"anlass",
+"durchmesser",
+"errichtet",
+"herkunft_holz",
+"hoehe",
+"ikonographie",
+"kuenstler",
+"kunstwerk_ja",
+"material",
+"standort",
+"teil_wanderweg",
+"untertitel"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/005": {
+"entitaet": "aufstand",
+"bezeichnung": "Bundschuhaufstand von Lehen",
+"eigenschaften": [
+"anlass",
+"bedeutung_fuer_ort",
+"folgen",
+"funktion_fritz",
+"führer",
+"gueltig_ab",
+"gueltig_bis",
+"jahr",
+"niederlag_datum",
+"niederlag_durch",
+"rekrutierungsgebiet",
+"teil_bundschuh_bewegung",
+"versammlungsort",
+"ziel_initial"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/006": {
+"entitaet": "schloss",
+"bezeichnung": "Altes Schloss (Curtis zu Leheim)",
+"eigenschaften": [
+"bauart",
+"bedeutung_bundschuhplatz",
+"befestigung",
+"erste_erwahnung",
+"funktion_16_19_jh",
+"lage_herrenhaus",
+"status_modern",
+"umzaeunung",
+"zugang"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/007": {
+"entitaet": "schloss",
+"bezeichnung": "Wasserschloss Nöttstein (Weiherschloss)",
+"eigenschaften": [
+"erscheinung",
+"ersturkundung",
+"heutiges_gebaeude",
+"nutzer",
+"renoviert",
+"status_modern"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/008": {
+"entitaet": "aussichtsturm",
+"bezeichnung": "Herdertürmle (Schneckenhausturm)",
+"eigenschaften": [
+"archaeologie",
+"erbauer",
+"erbaut",
+"lage",
+"moderner_status",
+"nutzung_wk1",
+"nutzung_wk2",
+"pacht_durch",
+"restaurierung",
+"soziale_funktion",
+"ursprung_name_herdertuermle",
+"ursprung_nutzung",
+"urspung_name_schneckenhausturm"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/009": {
+"entitaet": "sportstätte",
+"bezeichnung": "Hallenbad Lehen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"funktion"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/010": {
+"entitaet": "wappen",
+"bezeichnung": "Wappen Lehen",
+"eigenschaften": [
+"aenderung_1899",
+"angenommen",
+"annahmegremium",
+"bedeutung_wappen",
+"form",
+"hauser_mit_ammoniten",
+"komponenten_1",
+"komponenten_2",
+"komponenten_3",
+"vermutet_bedeutung_rosette",
+"vorgaenger"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/011": {
+"entitaet": "wirtschaftssektor",
+"bezeichnung": "Weinbau Lehen",
+"eigenschaften": [
+"anfang",
+"bedeutung_fuer_ort",
+"bluete",
+"bodenverhaeltnis",
+"gueltig_ab",
+"status_modern",
+"traubensorte"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/012": {
+"entitaet": "sendeanlage",
+"bezeichnung": "Sender Freiburg-Lehen",
+"eigenschaften": [
+"antennentraeger",
+"betreiber",
+"betriebsbeginn",
+"funktion",
+"gueltig_ab",
+"vorherige_sendanlage"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/013": {
+"entitaet": "platz",
+"bezeichnung": "Bundschuhplatz",
+"eigenschaften": [
+"bedeutung",
+"friedhof_umgestaltung",
+"kuenstler_skulptur",
+"namensherkunft",
+"skulptur",
+"skulptur_symbole_1",
+"skulptur_symbole_2",
+"skulptur_symbole_3",
+"umliegende_bauten"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/014": {
+"entitaet": "friedhof",
+"bezeichnung": "Friedhof Lehen",
+"eigenschaften": [
+"lage",
+"umgestaltung"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/015": {
+"entitaet": "naturdenkmal",
+"bezeichnung": "Sommer- und Winterlinde",
+"eigenschaften": [
+"anzahl"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/016": {
+"entitaet": "betrieb",
+"bezeichnung": "Lehen-Ziegelei",
+"eigenschaften": [
+"bedeutung_roemisch",
+"rohstoff"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/017": {
+"entitaet": "halle",
+"bezeichnung": "Bundschuhhalle (Bundschuh Halle)",
+"eigenschaften": [
+"eingang_ortsverwaltung",
+"email_ortsverwaltung",
+"grund_ortsverwaltung_umzug",
+"gueltig_ab",
+"gueltig_bis",
+"lage_ortsverwaltung_interim",
+"nutzung_temporaer",
+"parking",
+"telefon_ortsverwaltung",
+"öffnungszeiten_ortsverwaltung"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/018": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Defibrillator Bierhäusle",
+"eigenschaften": [
+"art",
+"finanzierung",
+"grund",
+"gueltig_ab",
+"standort"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/019": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Defibrillator Bundschuhhalle",
+"eigenschaften": [
+"art",
+"finanzierung",
+"standort"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/020": {
+"entitaet": "baugebiet",
+"bezeichnung": "Im Zinklern",
+"eigenschaften": [
+"bevoelkerungsprognose",
+"davon_doppelhaus_reihenhaus",
+"davon_gefoerdert",
+"davon_miet_eigentum",
+"entschluss",
+"erwartete_bevoelkerung",
+"flaeche",
+"gueltig_ab_bebauungsplan",
+"infrastruktur_bolzplaetze",
+"infrastruktur_gaerten",
+"infrastruktur_quartiersplatz",
+"lage",
+"nebengebaeude_kita",
+"nebengebaeude_lebensmittelgeschaeft",
+"nebengebaeude_pflegeeinrichtung",
+"planung_wohneinheiten",
+"rangliste_ortschaft_nachher",
+"ursprung_planung",
+"verkehr_planung",
+"wohnungsverhaeltnis"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/021": {
+"entitaet": "verein",
+"bezeichnung": "Bundschuh zu Lehen e.V.",
+"eigenschaften": [
+"aktivitaeten",
+"bekanntheit",
+"funktion",
+"pacht"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/022": {
+"entitaet": "wanderweg",
+"bezeichnung": "Lehener Bundschuhpfad",
+"eigenschaften": [
+"laenge",
+"station_14",
+"stationen",
+"thema"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/023": {
+"entitaet": "kunstwerk",
+"bezeichnung": "La stele dell' abbraccio (Die Stele der Umarmung)",
+"eigenschaften": [
+"anlass",
+"einweihung",
+"einweihung_durch",
+"gueltig_ab",
+"kuenstler",
+"material",
+"partnerstueck",
+"standort",
+"uebergabe"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/024": {
+"entitaet": "verkehrsanbindung",
+"bezeichnung": "Haltestelle Paduaallee",
+"eigenschaften": [
+"betreiber",
+"fahrradverleih",
+"linie_1",
+"linie_19",
+"linie_31",
+"linie_32",
+"wichtigkeit"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/025": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Radwegverbindung FR 4 / Sundgauallee",
+"eigenschaften": [
+"verbindung",
+"weitere_verbindung"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/026": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Autobahnanbindung Lehen",
+"eigenschaften": [
+"anschlussstelle",
+"ausfahrt_name",
+"autobahn_a5",
+"bundesstrasse_31a",
+"ostgrenze_infrastruktur",
+"trennwirkung_geschichte"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/027": {
+"entitaet": "gaststätte",
+"bezeichnung": "Gasthaus zum Hirschen (Hirschenpost)",
+"eigenschaften": [
+"alter",
+"grund_existenz"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/028": {
+"entitaet": "gaststätte",
+"bezeichnung": "Gasthaus Löwen",
+"eigenschaften": [
+"seit",
+"status_bewirtung"
+],
+"berichtigungen": 0
+},
+"458-lehen-freiburg/029": {
+"entitaet": "gaststätte",
+"bezeichnung": "Bierhäusle",
+"eigenschaften": [
+"seit",
+"status_bewirtung"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/001": {
+"entitaet": "ort",
+"bezeichnung": "Rieselfeld",
+"eigenschaften": [
+"einwohner",
+"flaechengroesse",
+"gueltig_seit",
+"ist_stadtteil_von",
+"lage"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/002": {
+"entitaet": "charakteristikum",
+"bezeichnung": "Naturschutzgebiet Freiburger Rieselfeld",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"etabliert",
+"funktion",
+"lage",
+"typ"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/003": {
+"entitaet": "charakteristikum",
+"bezeichnung": "Stadtteilpark [Grünkeil]",
+"eigenschaften": [
+"ausstattung",
+"bedeutung_fuer_ort",
+"besonderheit",
+"fertigstellung",
+"lage"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/004": {
+"entitaet": "kirche",
+"bezeichnung": "Maria-Magdalena-Kirche",
+"eigenschaften": [
+"architektin",
+"bedeutung_fuer_ort",
+"besonderheit",
+"charakteristikum",
+"material",
+"weihe"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/005": {
+"entitaet": "gymnasium",
+"bezeichnung": "Kepler-Gymnasium",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"erweiterung_grundsteinlegung",
+"neubau_einweihung",
+"verlagerung"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/006": {
+"entitaet": "grundschule",
+"bezeichnung": "Clara-Grunwald-Grundschule",
+"eigenschaften": [
+"besonderheit",
+"eroeffnung"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/007": {
+"entitaet": "waldorfschule",
+"bezeichnung": "Waldorfschule [Freiburg, 3. Standort]",
+"eigenschaften": [
+"gueltig_seit",
+"identitaet"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/008": {
+"entitaet": "sporthalle",
+"bezeichnung": "Sepp-Glaser-Sporthalle",
+"eigenschaften": [
+"besonderheit",
+"einweihung",
+"nutzung"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/009": {
+"entitaet": "charakteristikum",
+"bezeichnung": "Straßenbahnlinie 5",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"fahrtdauer_zentrum",
+"haltestellen",
+"liniennummer_urspruenglich",
+"planung",
+"verbindung_stadt_seit",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/010": {
+"entitaet": "biotop",
+"bezeichnung": "Mittlerer Graben",
+"eigenschaften": [
+"lage",
+"typ",
+"vegetation",
+"wasserspeisung"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/011": {
+"entitaet": "person",
+"bezeichnung": "Käthe Vordtriede",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"berufe",
+"ehrung"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/012": {
+"entitaet": "stadtteil",
+"bezeichnung": "Rieselfeld [Stadtentwicklung]",
+"eigenschaften": [
+"basis",
+"baubeginn",
+"besonderheit",
+"charakteristika",
+"erschliessungsstart",
+"erste_bewohnung",
+"gewinner",
+"planung_vollausbau",
+"planungsstart"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/013": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Stadtteiltreff Rieselfeld",
+"eigenschaften": [
+"baubeginn",
+"einweihung"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/014": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Fahrradverleihsystem Frelo",
+"eigenschaften": [
+"stationen_im_stadtteil"
+],
+"berichtigungen": 0
+},
+"459-rieselfeld/015": {
+"entitaet": "infrastruktur_historisch",
+"bezeichnung": "Rieselfelder [1891-1985]",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"betrieb_einstellung",
+"erwerb_flaeche",
+"grund",
+"grund_stilllegung",
+"zweck"
 ],
 "berichtigungen": 0
 },
@@ -196869,6 +201788,1439 @@
 "wasserwerk_petersaue_verbindung",
 "wasserwerk_schierstein_oberflächenwasser",
 "wasserwerk_schierstein_seit"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/001": {
+"entitaet": "ort",
+"bezeichnung": "Dietenbach",
+"eigenschaften": [
+"benannt_nach",
+"ersteraeume_bezugsfertig_ab",
+"geplante_einwohner",
+"geplante_flaeche",
+"geplante_wohnungen",
+"geplanter_baubeginn",
+"geplantes_bauende",
+"grenzt_an",
+"ist_im_bau_befindlich",
+"ist_stadtteil",
+"klimaneutralitaet_geplant",
+"lage",
+"liegt_in",
+"verkehrskonzept"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/002": {
+"entitaet": "spatenstich",
+"bezeichnung": "Spatenstich Dietenbach",
+"eigenschaften": [
+"datum",
+"durchgeführt_von"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/003": {
+"entitaet": "architektenbüro",
+"bezeichnung": "K9 Architekten",
+"eigenschaften": [
+"gewann_wettbewerb",
+"sitz",
+"wettbewerb_jahr"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/004": {
+"entitaet": "wald",
+"bezeichnung": "Langmattenwäldchen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"genauigkeit_rodung",
+"ist_charakteristikum",
+"lage",
+"rodung_fläche",
+"rodung_geplant"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/005": {
+"entitaet": "park",
+"bezeichnung": "Dietenbachpark",
+"eigenschaften": [
+"enthält_see",
+"ist_charakteristikum",
+"lage",
+"soll_erhalten_bleiben"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/006": {
+"entitaet": "park",
+"bezeichnung": "ökologischer Stadtteilpark Dietenbach",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"breite",
+"funktion_als",
+"ist_charakteristikum",
+"zweck"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/007": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Hochspannungsleitungen Deutsche Bahn und Netze BW",
+"eigenschaften": [
+"anzahl",
+"betreiber",
+"sperrzone_breite",
+"verlauf",
+"verlegung_baubeginn_geplant",
+"verlegung_erforderlich",
+"verlegung_kosten"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/008": {
+"entitaet": "bebauungsplan",
+"bezeichnung": "bebauungsplan",
+"eigenschaften": [
+"abdeckende_fläche",
+"beschluss_datum",
+"beschlussgremium",
+"enthält",
+"rang",
+"wohnungen"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/009": {
+"entitaet": "hochwasserschutz",
+"bezeichnung": "hochwasserschutz",
+"eigenschaften": [
+"grund",
+"massnahme",
+"resultat",
+"zusaetzlich_hochwasserrueckhaltebecken"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/010": {
+"entitaet": "naturschutz_massnahme",
+"bezeichnung": "naturschutz massnahme",
+"eigenschaften": [
+"art",
+"grund",
+"zeitraum_umsetzung",
+"zielgebiet"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/011": {
+"entitaet": "fund",
+"bezeichnung": "amerikanische Fliegerbombe",
+"eigenschaften": [
+"art",
+"gefunden",
+"herkunft",
+"kontext"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/012": {
+"entitaet": "grundstückserwerb",
+"bezeichnung": "grundstückserwerb",
+"eigenschaften": [
+"datum",
+"fläche_erworben",
+"fläche_noch_im_landeseigentum",
+"geplante_nutzung_landeseigentum",
+"kosten",
+"käufer",
+"verkäufer"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/013": {
+"entitaet": "energiekonzept",
+"bezeichnung": "energiekonzept",
+"eigenschaften": [
+"basiert_auf",
+"vorgestellt",
+"wurde_kritisiert",
+"ziel"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/014": {
+"entitaet": "bürgerentscheid",
+"bezeichnung": "bürgerentscheid",
+"eigenschaften": [
+"datum",
+"ergebnis_auslegung",
+"ergebnis_nein_prozent",
+"ergebnis_nein_stimmen_erforderlich",
+"ist_bürgerentscheid",
+"kosten_gesamt",
+"kosten_wahlkampf",
+"question",
+"quorum_erforderlich",
+"quorum_prozent",
+"unterschriften_gesammelt",
+"wahlbeteiligung",
+"zeitverzögerung"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/015": {
+"entitaet": "protest",
+"bezeichnung": "Baumbesetzung Langmattenwäldchen",
+"eigenschaften": [
+"form",
+"grund",
+"kampagnenname",
+"ort",
+"verlauf",
+"zeitraum"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/016": {
+"entitaet": "öpnv",
+"bezeichnung": "Straßenbahn Dietenbach",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"ist_charakteristikum",
+"stationen_geplant",
+"stationen_lage",
+"verbindung_von",
+"verkehrsmittel"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/017": {
+"entitaet": "fuß_radweg",
+"bezeichnung": "fuß radweg",
+"eigenschaften": [
+"brücke_nord",
+"brücke_ost",
+"geplante_brücken",
+"verbindung_süd"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/018": {
+"entitaet": "straßennetz",
+"bezeichnung": "straßennetz",
+"eigenschaften": [
+"parkierung",
+"quartiersstrassen",
+"struktur"
+],
+"berichtigungen": 0
+},
+"460-dietenbach/019": {
+"entitaet": "erdaushublager",
+"bezeichnung": "Erdaushubzwischenlager Dietenbach",
+"eigenschaften": [
+"ausgleichsmassnahmen",
+"betreiber",
+"betrieb_start",
+"größe",
+"jährliche_menge",
+"lagerung_form",
+"zweck"
+],
+"berichtigungen": 0
+},
+"461-opfingen/001": {
+"entitaet": "ort",
+"bezeichnung": "Opfingen",
+"eigenschaften": [
+"bevoelkerungsentwicklung_1970",
+"bevoelkerungsentwicklung_2004",
+"eingemeindung_datum",
+"eingemeindung_jahr",
+"eingemeindung_verfahren",
+"einwohner",
+"ersterwahnung_form",
+"ersterwahnung_jahr",
+"ersterwahnung_kontext",
+"gemarkung_hektar",
+"gueltig_ab",
+"gueltig_bis",
+"lage",
+"ortsteil_st_nikolaus",
+"ortsteil_wippertskirch",
+"siedlungsschicht"
+],
+"berichtigungen": 0
+},
+"461-opfingen/002": {
+"entitaet": "ortsverwaltung",
+"bezeichnung": "Ortsverwaltung Opfingen",
+"eigenschaften": [
+"adresse",
+"email",
+"fax",
+"standesbeamtin",
+"telefon",
+"verwaltungsleiterin"
+],
+"berichtigungen": 0
+},
+"461-opfingen/003": {
+"entitaet": "person",
+"bezeichnung": "Silvia Schumacher",
+"eigenschaften": [
+"amt",
+"amtsantritt_jahr",
+"amtsantritt_monat"
+],
+"berichtigungen": 0
+},
+"461-opfingen/004": {
+"entitaet": "kirche",
+"bezeichnung": "Evangelische Kirche Opfingen (St. Katharina)",
+"eigenschaften": [
+"architekt",
+"baureihe",
+"erbaut_jahr",
+"gueltig_ab",
+"kapelle_funktion",
+"konfession",
+"orgel_erbauer",
+"orgel_erbauer_schule",
+"orgel_lebensjahre",
+"religionszugehoerigkeit_1950_evangelisch_prozent",
+"religionszugehoerigkeit_2008_evangelisch_prozent",
+"urspruengliche_kapelle_ersterwahnung",
+"urspruengliche_kapelle_name",
+"vergroesserung_jahr",
+"vergroesserung_jahr_ende"
+],
+"berichtigungen": 0
+},
+"461-opfingen/005": {
+"entitaet": "kirche",
+"bezeichnung": "Katholische Kirche St. Nikolaus",
+"eigenschaften": [
+"erbaut_jahr",
+"grund_bau",
+"gueltig_ab",
+"konfession",
+"religionszugehoerigkeit_2008_katholisch_prozent"
+],
+"berichtigungen": 0
+},
+"461-opfingen/006": {
+"entitaet": "rathaus",
+"bezeichnung": "Rathaus Opfingen",
+"eigenschaften": [
+"architekt",
+"bedeutung_fuer_ort",
+"beschreibung",
+"erbaut_jahr",
+"gueltig_ab"
+],
+"berichtigungen": 0
+},
+"461-opfingen/007": {
+"entitaet": "gewaesser",
+"bezeichnung": "Opfinger See (großer)",
+"eigenschaften": [
+"entstehung",
+"entstehung_periode_end",
+"entstehung_periode_start",
+"groesse_hektar",
+"lage",
+"nutzung_teil_nord",
+"nutzung_teil_sued"
+],
+"berichtigungen": 0
+},
+"461-opfingen/008": {
+"entitaet": "gewaesser",
+"bezeichnung": "Opfinger See (kleiner)",
+"eigenschaften": [
+"entstehung",
+"nutzung",
+"sicherheit"
+],
+"berichtigungen": 0
+},
+"461-opfingen/009": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Naturschutzgebiet Rieselfeld",
+"eigenschaften": [
+"gueltig_ab",
+"lage",
+"schutzstatus"
+],
+"berichtigungen": 0
+},
+"461-opfingen/010": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Landschaftsschutzgebiet Mooswald",
+"eigenschaften": [
+"durchschneidung",
+"lage",
+"schutzstatus"
+],
+"berichtigungen": 0
+},
+"461-opfingen/011": {
+"entitaet": "schule",
+"bezeichnung": "Schulanlage Opfingen",
+"eigenschaften": [
+"erbaut_jahr",
+"grundschule_name",
+"leitung",
+"schultypen",
+"schulverbund"
+],
+"berichtigungen": 0
+},
+"461-opfingen/012": {
+"entitaet": "ort",
+"bezeichnung": "Wippertskirch",
+"eigenschaften": [
+"bevoelkerung_1816",
+"bevoelkerung_1816_gebaeude",
+"ersterwahnung_form",
+"ersterwahnung_jahr",
+"ersterwahnung_kontext",
+"gemarkungsteilung_jahr",
+"gemarkungsteilung_parteien",
+"kloster_aufloesung_jahr",
+"kloster_gemarkung_jahr",
+"kloster_uebernahme_jahr",
+"schloss_abbruch_jahr",
+"siedlung_restbestand_1885",
+"status_1276",
+"urspruengliche_funktion",
+"wappen_inschrift",
+"wipperskircher_hof_zugehoerigkeit"
+],
+"berichtigungen": 0
+},
+"461-opfingen/013": {
+"entitaet": "denkmal",
+"bezeichnung": "Aussichtsturm Wippertskirch",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"erbaut_jahr",
+"gueltig_ab",
+"hoehe_meter",
+"lage",
+"material",
+"treppen"
+],
+"berichtigungen": 0
+},
+"461-opfingen/014": {
+"entitaet": "charakteristikum",
+"bezeichnung": "Gasthaus Tanne",
+"eigenschaften": [
+"aktuelle_nutzung",
+"bedeutung_fuer_ort",
+"gaeste",
+"geschichtliche_assoziation",
+"gueltig_ab",
+"gueltig_bis",
+"regionaler_ruf",
+"spezialisierung",
+"status"
+],
+"berichtigungen": 0
+},
+"461-opfingen/015": {
+"entitaet": "charakteristikum",
+"bezeichnung": "Weinbau in Opfingen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beschreibung",
+"entwicklung_20_jahrhundert",
+"gueltig_ab",
+"heute"
+],
+"berichtigungen": 0
+},
+"461-opfingen/016": {
+"entitaet": "charakteristikum",
+"bezeichnung": "Spargelanbau in Opfingen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"heute",
+"verbindung"
+],
+"berichtigungen": 0
+},
+"461-opfingen/017": {
+"entitaet": "dialekt",
+"bezeichnung": "Obfigerdydsch",
+"eigenschaften": [
+"charakteristika",
+"grenzlinie",
+"hauptkennzeichen",
+"klassifizierung",
+"regional_spezifisch",
+"superlativ",
+"superlativ_bereich"
+],
+"berichtigungen": 0
+},
+"461-opfingen/018": {
+"entitaet": "archaeologisches_fund",
+"bezeichnung": "Grab eines alamannischen Kriegers",
+"eigenschaften": [
+"bedeutung",
+"fundjahr",
+"fundjahr_end",
+"fundstelle",
+"kontext",
+"kultur",
+"typ",
+"zeitstellung"
+],
+"berichtigungen": 0
+},
+"461-opfingen/019": {
+"entitaet": "auswanderung",
+"bezeichnung": "auswanderung",
+"eigenschaften": [
+"effekt",
+"intensivste_periode",
+"periode",
+"zielland"
+],
+"berichtigungen": 0
+},
+"461-opfingen/020": {
+"entitaet": "verkehr",
+"bezeichnung": "verkehr",
+"eigenschaften": [
+"anschluss",
+"linie_nummer",
+"taktung",
+"verbindungen"
+],
+"berichtigungen": 0
+},
+"461-opfingen/021": {
+"entitaet": "verkehr",
+"bezeichnung": "verkehr",
+"eigenschaften": [
+"erste_station",
+"inbetriebnahme_jahr",
+"inbetriebnahme_monat",
+"status_probestation",
+"zweite_station"
+],
+"berichtigungen": 0
+},
+"461-opfingen/022": {
+"entitaet": "museum",
+"bezeichnung": "Sanitätsbunker des Westwalls",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"461-opfingen/023": {
+"entitaet": "betrieb",
+"bezeichnung": "Die Weinwerkstatt",
+"eigenschaften": [
+"fokus",
+"typ"
+],
+"berichtigungen": 0
+},
+"461-opfingen/024": {
+"entitaet": "charakteristikum",
+"bezeichnung": "Maisfeld-Labyrinth Opfingen",
+"eigenschaften": [
+"saisonalitaet",
+"typ"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/001": {
+"entitaet": "ort",
+"bezeichnung": "Tiengen",
+"eigenschaften": [
+"bevölkerungstrend_seit_1970",
+"bundesland",
+"dialekt",
+"eingemeindungsdatum",
+"eingemeindungsjahr",
+"einwohner",
+"einwohner_stand",
+"ersterwaehnungsform",
+"ersterwaehnungsjahr",
+"gemarkung_groesse",
+"gemarkung_groesse_einheit",
+"lage_detail",
+"lage_zu_stadt",
+"stadt",
+"unbebaut_flaeche",
+"unbebaut_flaeche_einheit",
+"wirtschaft_weinbau"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/002": {
+"entitaet": "kirche",
+"bezeichnung": "St. Symphoriankirche",
+"eigenschaften": [
+"baujahr_neuaufbau",
+"besonderheit_bausubstanz",
+"ersterwaehnungsjahr",
+"kirchensatz_gehoert_zu",
+"patrozinium",
+"religionszugehoerigkeit"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/003": {
+"entitaet": "kirche",
+"bezeichnung": "St. Symphorianus",
+"eigenschaften": [
+"besonderheit_turmhoehe",
+"religionszugehoerigkeit",
+"turmhoehe",
+"turmhoehe_einheit"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/004": {
+"entitaet": "gewaesser",
+"bezeichnung": "Reutemattensee",
+"eigenschaften": [
+"entstehung",
+"funktion_heute",
+"grund_baden_moeglich",
+"lage",
+"typ"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/005": {
+"entitaet": "gewaesser",
+"bezeichnung": "Arlesheimer See",
+"eigenschaften": [
+"grund_unzugeaenglichkeit",
+"lage",
+"status_schutzgebiet",
+"typ",
+"zugaenglichkeit"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/006": {
+"entitaet": "gewaesser",
+"bezeichnung": "Mühlbach",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/007": {
+"entitaet": "denkmal",
+"bezeichnung": "Zur Ehre den Kriegern vom Jahr 1870/71",
+"eigenschaften": [
+"bezug",
+"jahr_kriegereignis",
+"typ"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/008": {
+"entitaet": "denkmal",
+"bezeichnung": "Den Gefallenen der Gemeinde Tiengen",
+"eigenschaften": [
+"bezug",
+"typ"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/009": {
+"entitaet": "gebaeude",
+"bezeichnung": "Tuniberghaus",
+"eigenschaften": [
+"baujahr",
+"lage",
+"typ"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/010": {
+"entitaet": "gaststaette",
+"bezeichnung": "Zum Anker",
+"eigenschaften": [
+"baujahr",
+"lage",
+"typ",
+"urspruengliche_funktion"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/011": {
+"entitaet": "weingut",
+"bezeichnung": "Schlatthöfe",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"entstehungsjahr_urspruenglich",
+"heute_funktion",
+"lage"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/012": {
+"entitaet": "wohngebiet",
+"bezeichnung": "Terrassenhäuser",
+"eigenschaften": [
+"baujahr",
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/013": {
+"entitaet": "verkehrslinie",
+"bezeichnung": "Schnellbuslinie 37",
+"eigenschaften": [
+"fahrzeit",
+"start_betrieb",
+"taktfolge_betriebstage",
+"ziel",
+"zielgruppe"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/014": {
+"entitaet": "radweg",
+"bezeichnung": "Breisgau-Radwanderweg",
+"eigenschaften": [
+"laenge",
+"laenge_einheit",
+"startort",
+"streckenabschnitt_tiengen",
+"zielort"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/015": {
+"entitaet": "radweg",
+"bezeichnung": "Grüne Straße",
+"eigenschaften": [
+"startort",
+"streckenabschnitt_tiengen",
+"zielort"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/016": {
+"entitaet": "radweg",
+"bezeichnung": "Europäischer Radwanderweg Freiburg–Colmar",
+"eigenschaften": [
+"startort",
+"streckenabschnitt_tiengen",
+"zielort"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/017": {
+"entitaet": "radweg",
+"bezeichnung": "Tunibergradweg",
+"eigenschaften": [
+"anschluss_maerzen",
+"lage"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/018": {
+"entitaet": "personalitaet",
+"bezeichnung": "Anna Ewers",
+"eigenschaften": [
+"beruf",
+"geburtsjahr",
+"herkunft"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/019": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Gaisenmoos",
+"eigenschaften": [
+"status_schutzgebiet"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/020": {
+"entitaet": "wappen",
+"bezeichnung": "Wappen Tiengen",
+"eigenschaften": [
+"bedeutung_baer",
+"bedeutung_baselstab",
+"bedeutung_fuer_ort",
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/021": {
+"entitaet": "herrschaftsverhaeltnis",
+"bezeichnung": "herrschaftsverhaeltnis",
+"eigenschaften": [
+"badesee_see_der_untergeschosse",
+"herrschaftsverlauf"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/022": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"administrative_zuordnung_1803",
+"administrative_zuordnung_seit_1807"
+],
+"berichtigungen": 0
+},
+"462-tiengen-freiburg/023": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Frelo-Station",
+"eigenschaften": [
+"stadt",
+"typ"
+],
+"berichtigungen": 0
+},
+"463-munzingen/001": {
+"entitaet": "ort",
+"bezeichnung": "Munzingen",
+"eigenschaften": [
+"eingemeindung",
+"eingemeindung_als_stadtteil",
+"einwohner",
+"gueltig_ab",
+"hoehe_ueber_nn",
+"lage",
+"lage_charakteristik",
+"name"
+],
+"berichtigungen": 0
+},
+"463-munzingen/002": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"badisch_seit",
+"beschreibung",
+"beschreibung_fruehestesiedlung",
+"ersterwahnung",
+"ersterwahnung_form",
+"ersterwahnung_genauigkeit",
+"herrschaft_mittelalter",
+"herrschaft_verumstaende",
+"nameherkunft",
+"reformation"
+],
+"berichtigungen": 0
+},
+"463-munzingen/003": {
+"entitaet": "kirche",
+"bezeichnung": "St. Stephan",
+"eigenschaften": [
+"bauteile_chor",
+"bauteile_chor_stil",
+"bauteile_glockenstuhl",
+"bauteile_glockenstuhl_restaurierung",
+"bauteile_langhaus",
+"bauteile_langhaus_stil",
+"bauteile_langhaus_umgestaltung",
+"bauteile_langhaus_umgestaltung_stil",
+"bedeutung_fuer_ort",
+"ersterwahnung_kirche",
+"ersterwahnung_pfarrer",
+"inventar_taufstein",
+"lage",
+"ortsname",
+"patrozinium"
+],
+"berichtigungen": 0
+},
+"463-munzingen/004": {
+"entitaet": "schloss",
+"bezeichnung": "Schloss Munzingen",
+"eigenschaften": [
+"baustil_original",
+"bauzeit",
+"bedeutung_fuer_ort",
+"beschreibung",
+"bewohnung",
+"bewohnung_status",
+"erbauer",
+"grund_neubau",
+"umgestaltung_jahr",
+"umgestaltung_stil"
+],
+"berichtigungen": 0
+},
+"463-munzingen/005": {
+"entitaet": "schloss",
+"bezeichnung": "Schloss Reinach",
+"eigenschaften": [
+"adresse",
+"bedeutung_fuer_ort",
+"frieherer_name",
+"frueherer_besitz",
+"funktion_heute",
+"heutiger_status",
+"lage"
+],
+"berichtigungen": 0
+},
+"463-munzingen/006": {
+"entitaet": "kapelle",
+"bezeichnung": "St. Erentrudiskapelle",
+"eigenschaften": [
+"ausstattung_verbleib",
+"bedeutung_fuer_ort",
+"benannt_nach",
+"erstbau",
+"lage",
+"restaurierung_beschaffenheit",
+"restaurierung_durch",
+"restaurierung_jahr",
+"sichtbarkeit",
+"vorgaenger",
+"vorgaenger_neubau"
+],
+"berichtigungen": 0
+},
+"463-munzingen/007": {
+"entitaet": "denkmal",
+"bezeichnung": "Gigili",
+"eigenschaften": [
+"beschreibung",
+"historische_funktion",
+"lage",
+"volkstümlicher_name",
+"vorgaenger_wasserschloss",
+"weitere_bezeichnung"
+],
+"berichtigungen": 0
+},
+"463-munzingen/008": {
+"entitaet": "berg",
+"bezeichnung": "Tuniberg",
+"eigenschaften": [
+"aussicht_charakteristik",
+"aussicht_von",
+"bedeutung_fuer_ort",
+"charakteristik",
+"hoehe",
+"hoehe_einheit",
+"lage"
+],
+"berichtigungen": 0
+},
+"463-munzingen/009": {
+"entitaet": "weinbau",
+"bezeichnung": "weinbau",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"bodenbeschaffenheit",
+"flaeche",
+"flaeche_einheit",
+"klima_beschaffenheit",
+"lage_bezeichnung",
+"rebsorten_anteile_mueller_thurgau",
+"rebsorten_anteile_mueller_thurgau_einheit",
+"rebsorten_anteile_spaetburgunder",
+"rebsorten_anteile_spaetburgunder_einheit",
+"rebsorten_anteile_weisser_burgunder",
+"rebsorten_anteile_weisser_burgunder_einheit",
+"rebsorten_weitere"
+],
+"berichtigungen": 0
+},
+"463-munzingen/010": {
+"entitaet": "spargelanbau",
+"bezeichnung": "spargelanbau",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"bedingungen",
+"lage"
+],
+"berichtigungen": 0
+},
+"463-munzingen/011": {
+"entitaet": "winzergenossenschaft",
+"bezeichnung": "Winzerverein Munzingen",
+"eigenschaften": [
+"aufgabe",
+"bedeutung_fuer_ort",
+"mitgliedschaft"
+],
+"berichtigungen": 0
+},
+"463-munzingen/012": {
+"entitaet": "unternehmen",
+"bezeichnung": "KNF Neuberger",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"produktbereich",
+"sektor"
+],
+"berichtigungen": 0
+},
+"463-munzingen/013": {
+"entitaet": "golfanlage",
+"bezeichnung": "Golfanlage Munzingen-Tuniberg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"lage",
+"plaetztyp"
+],
+"berichtigungen": 0
+},
+"463-munzingen/014": {
+"entitaet": "schule",
+"bezeichnung": "Grundschule Munzingen",
+"eigenschaften": [
+"besonderheit_lehrschwimmbecken",
+"betreuung",
+"infrastruktur"
+],
+"berichtigungen": 0
+},
+"463-munzingen/015": {
+"entitaet": "kindergarten",
+"bezeichnung": "kindergarten",
+"eigenschaften": [
+"anzahl",
+"betreuungsalter_ab",
+"grund",
+"kapazitaet_charakteristik"
+],
+"berichtigungen": 0
+},
+"463-munzingen/016": {
+"entitaet": "verwaltungsgebaeude",
+"bezeichnung": "Ortsverwaltung Munzingen",
+"eigenschaften": [
+"adresse",
+"email",
+"fax",
+"ortsvorsteher",
+"telefon"
+],
+"berichtigungen": 0
+},
+"463-munzingen/017": {
+"entitaet": "fest",
+"bezeichnung": "Munzinger Weihnachtsmarkt",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beliebtheit",
+"initiator",
+"organisatoren",
+"ort",
+"zeitpunkt"
+],
+"berichtigungen": 0
+},
+"463-munzingen/018": {
+"entitaet": "fest",
+"bezeichnung": "Zwiebelkuchenfest",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"organisatoren",
+"ort"
+],
+"berichtigungen": 0
+},
+"463-munzingen/019": {
+"entitaet": "fest",
+"bezeichnung": "Sängerhock",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"organisatoren",
+"ort"
+],
+"berichtigungen": 0
+},
+"463-munzingen/020": {
+"entitaet": "fest",
+"bezeichnung": "Lindenbaumhock",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"organisatoren",
+"ort"
+],
+"berichtigungen": 0
+},
+"463-munzingen/021": {
+"entitaet": "gebaende",
+"bezeichnung": "Festscheune Dreschschopf",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"funktion"
+],
+"berichtigungen": 0
+},
+"463-munzingen/022": {
+"entitaet": "radweg",
+"bezeichnung": "Tuniberghöhenweg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"verbindung_nach",
+"verbindung_von",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"463-munzingen/023": {
+"entitaet": "radweg",
+"bezeichnung": "Breisgau-Radweg",
+"eigenschaften": [
+"abschnitt_munzingen",
+"bedeutung_fuer_ort",
+"beschreibung",
+"verlauf_nach",
+"verlauf_von"
+],
+"berichtigungen": 0
+},
+"463-munzingen/024": {
+"entitaet": "oeffentlicher_personennahverkehr",
+"bezeichnung": "Buslinie 32",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"einfuehrung",
+"startpunkt",
+"verlauf",
+"ziel"
+],
+"berichtigungen": 0
+},
+"463-munzingen/025": {
+"entitaet": "oeffentlicher_personennahverkehr",
+"bezeichnung": "Buslinie 34",
+"eigenschaften": [
+"aenderung",
+"bedeutung_fuer_ort",
+"jetzt_verlauf",
+"vorher_nach",
+"vorher_von"
+],
+"berichtigungen": 0
+},
+"463-munzingen/026": {
+"entitaet": "oeffentlicher_personennahverkehr",
+"bezeichnung": "Schnellbuslinie 37",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"permanente_uebernahme",
+"startpunkt",
+"testeinfuehrung",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"463-munzingen/027": {
+"entitaet": "oeffentlicher_personennahverkehr",
+"bezeichnung": "Nachtbuslinie N40",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"haeufigkeit",
+"verlauf_nach",
+"verlauf_von",
+"zwischenstationen"
+],
+"berichtigungen": 0
+},
+"463-munzingen/028": {
+"entitaet": "fahrradverleihsystem",
+"bezeichnung": "Frelo",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"permanente_einrichtung",
+"probestation_einrichtung"
+],
+"berichtigungen": 0
+},
+"463-munzingen/029": {
+"entitaet": "gewaesser",
+"bezeichnung": "Mättlegraben",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"463-munzingen/030": {
+"entitaet": "gewaesser",
+"bezeichnung": "Rossbächle",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"463-munzingen/031": {
+"entitaet": "gewerbegebiet",
+"bezeichnung": "Gewerbegebiet Roos",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"lage"
+],
+"berichtigungen": 0
+},
+"463-munzingen/032": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Hans Graf von Kageneck",
+"eigenschaften": [
+"beruf",
+"bezug_zu_munzingen",
+"lebenszeit"
+],
+"berichtigungen": 0
+},
+"463-munzingen/033": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Klaus Jürgen-Fischer",
+"eigenschaften": [
+"beruf",
+"lebenszeit",
+"wohnort"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/001": {
+"entitaet": "ort",
+"bezeichnung": "Waltershofen",
+"eigenschaften": [
+"lage",
+"nachbargemeinden",
+"ortsteil_status"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/002": {
+"entitaet": "ort",
+"bezeichnung": "Waltershofen",
+"eigenschaften": [
+"administrative_zugehoerigkeit_seit",
+"ersterwahnung",
+"ersterwahnung_form",
+"gemarkungsaenderung",
+"herrschaft_modern",
+"herrschaften_mittelalter",
+"historische_eigenschaft_mit_adel"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/003": {
+"entitaet": "ort",
+"bezeichnung": "Waltershofen",
+"eigenschaften": [
+"eingemeindet_nach_freiburg",
+"einwohner",
+"einwohner_stand",
+"flaeche",
+"flaeche_einheit"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/004": {
+"entitaet": "person",
+"bezeichnung": "Petra Zimmermann",
+"eigenschaften": [
+"adresse",
+"funktion",
+"telefon"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/005": {
+"entitaet": "kirche",
+"bezeichnung": "St. Peter und Paul",
+"eigenschaften": [
+"architekt",
+"bauzeit",
+"neues_patrozinium_seit",
+"patrozinium",
+"pfarrei_herkunft",
+"stil",
+"vorgaenger",
+"vorgaenger_kapelle_seit"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/006": {
+"entitaet": "kirche",
+"bezeichnung": "St. Margareten-Kapelle",
+"eigenschaften": [
+"ersterwahnung",
+"lokalkaplanei",
+"patrozinium",
+"patrozinium_recht_konflikt",
+"urspruengliche_erwahnung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/007": {
+"entitaet": "gewaesser",
+"bezeichnung": "Waltershofener See",
+"eigenschaften": [
+"besonderheit",
+"entstehung",
+"entstehungszeit",
+"folgen_belastung",
+"lage",
+"massnahme_seit_2010",
+"nährstoffquelle"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/008": {
+"entitaet": "landschaftsschutzgebiet",
+"bezeichnung": "Mooswald",
+"eigenschaften": [
+"durchschneidung",
+"lage"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/009": {
+"entitaet": "sportanlage",
+"bezeichnung": "Krebsbachstadion",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/010": {
+"entitaet": "sportanlage",
+"bezeichnung": "Steinriedhalle",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/011": {
+"entitaet": "sportanlage",
+"bezeichnung": "Windhundstadion",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/012": {
+"entitaet": "weinbetrieb",
+"bezeichnung": "Weingut Landmann",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/013": {
+"entitaet": "weinbetrieb",
+"bezeichnung": "Weingut Hercher",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/014": {
+"entitaet": "betrieb",
+"bezeichnung": "Löffel Mühlen",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/015": {
+"entitaet": "wanderweg",
+"bezeichnung": "Panoramapfad Süd Waltershofen",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/016": {
+"entitaet": "wanderweg",
+"bezeichnung": "Panoramapfad Nord Waltershofen",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/017": {
+"entitaet": "radweg",
+"bezeichnung": "Kaiserstuhl-Radwanderweg",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/018": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Freiburger Rieselfeld",
+"eigenschaften": [
+"einrichtung_seit",
+"typ"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/019": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Humbrühl-Rohrmatten",
+"eigenschaften": [
+"einrichtung_seit",
+"typ"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/020": {
+"entitaet": "verkehrsverbindung",
+"bezeichnung": "Buslinie 32",
+"eigenschaften": [
+"taktung",
+"verbindungen"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/021": {
+"entitaet": "verkehrsverbindung",
+"bezeichnung": "Radweg FR 5",
+"eigenschaften": [
+"verbindung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/022": {
+"entitaet": "verkehrsverbindung",
+"bezeichnung": "Radweg FR 1",
+"eigenschaften": [
+"verbindung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/023": {
+"entitaet": "verkehrsverbindung",
+"bezeichnung": "Radweg nach Merdingen",
+"eigenschaften": [
+"beschreibung",
+"fertigstellung"
+],
+"berichtigungen": 0
+},
+"464-waltershofen/024": {
+"entitaet": "burg",
+"bezeichnung": "Wasserburg Waltershofen",
+"eigenschaften": [
+"historische_belege",
+"nachweis"
 ],
 "berichtigungen": 0
 },

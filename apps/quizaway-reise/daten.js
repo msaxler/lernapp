@@ -5429,6 +5429,4662 @@ window.QA_DATEN = {
 "km_vom_vorigen": 2.4
 },
 {
+"slug": "444-altstadt-freiburg",
+"name": "Altstadt",
+"lat": 47.99472,
+"lon": 7.85,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "Markt auf dem einstigen Friedhof",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altstadt",
+"steckbrief": "Die Altstadt ist der zentrale Stadtteil von Freiburg im Breisgau und hat knapp 7.800 Einwohner.",
+"frage": "Auf dem Münsterplatz ist heute Markt. Wozu diente der Platz ursprünglich?",
+"optionen": [
+"Er war ursprünglich ein Fischweiher der Stadt.",
+"Er war ursprünglich ein Turnierplatz der Ritter.",
+"Er war ursprünglich ein Klostergarten mit Gemüsebeeten.",
+"Er war ursprünglich ein Friedhof."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein großer freier Platz mitten in der Stadt wirkt wie gemacht für Ritterturniere, und viele denken, dort sei schon immer Markt gewesen. Tatsächlich war der Münsterplatz ursprünglich ein Friedhof; der Marktbetrieb ist erst jüngeren Datums. Heute herrscht dort bunter Marktbetrieb, gesäumt von Bauten der Gotik bis zum Barock – wer dort einkauft, steht auf dem einstigen Friedhof. Richtig war 4.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7705/Altstadt",
+"faktencheck": "korrigiert",
+"id": "444-altstadt-freiburg/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Schweizer Name, Freiburger Regierungssitz",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altstadt",
+"steckbrief": "Die Altstadt liegt mitten in Freiburg im Breisgau und hat knapp 7.800 Einwohner.",
+"frage": "Der Basler Hof an der Kaiserstraße trägt den Namen einer Schweizer Stadt. Wer hatte dort ab 1590 seinen Sitz?",
+"optionen": [
+"Das Domkapitel von Basel hatte dort seinen Sitz.",
+"Eine Basler Kaufmannsgilde unterhielt dort ihr Kontor.",
+"Der Gesandte der Stadt Basel residierte dort.",
+"Die Basler Rheinschiffer hatten dort ihre Zunftstube."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an Basler Kaufleute denken, Basel liegt ja nicht weit rheinaufwärts. Doch hier saß das Basler Domkapitel. Erbaut wurde das Palais für Kanzler Konrad Stürzel, später saß hier die vorderösterreichische Regierung. Nach der Zerstörung im Krieg wurde es wiederaufgebaut und ist heute Sitz des Regierungspräsidiums Freiburg. So ist die Altstadt nicht nur Geschäftszentrum, sondern auch Regierungssitz. Richtig war 1.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7705/Altstadt",
+"faktencheck": "korrigiert",
+"id": "444-altstadt-freiburg/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Bächle durch die ganze Altstadt",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altstadt",
+"steckbrief": "Die Altstadt ist das Zentrum von Freiburg im Breisgau und hat knapp 7.800 Einwohner.",
+"frage": "Die Bächle durchfließen die ganze Altstadt. An welchem Bauwerk tritt ihr Wasser in die Altstadt ein?",
+"optionen": [
+"Am Martinstor.",
+"Am Schwabentor.",
+"Am Bertoldsbrunnen.",
+"Am Fischbrunnen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Brunnen als Quelle liegt nahe, am ehesten der Bertoldsbrunnen im Stadtmittelpunkt. Doch das Wasser kommt von außen: Es wird aus der Dreisam abgeleitet, läuft in einem Stollen unter dem Schlossberg und unterquert das Schwabentor. Von dort durchziehen die Bächle die ganze Altstadt. Richtig war 2.",
+"quelle": "Landesdenkmalpflege Baden-Württemberg, Denkmalpflege in Baden-Württemberg (journals.ub.uni-heidelberg.de/index.php/nbdpfbw/article/view/77050/70908)",
+"faktencheck": "korrigiert",
+"id": "444-altstadt-freiburg/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Universität prägt die Altstadt",
+"rang": 8,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Altstadt",
+"steckbrief": "Die Altstadt ist der innerste Stadtteil von Freiburg im Breisgau und hat knapp 7.800 Einwohner.",
+"frage": "Welches dieser vier Dinge gibt es in der Altstadt?",
+"optionen": [
+"ein Fußballstadion",
+"ein Messegelände",
+"das Zentrum der Universität",
+"eine Eissporthalle"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Für die Mitte einer Großstadt klingen Stadion, Messe oder Eishalle nicht abwegig. Tatsächlich liegt in der Altstadt das Zentrum der Albert-Ludwigs-Universität: das Kollegiengebäude I am Platz der Universität, die Universitätsbibliothek und das Uniseum in der Alten Universität an der Bertoldstraße. Richtig war 3.",
+"quelle": "Universität Freiburg, uni-freiburg.de/en/maps/",
+"faktencheck": "korrigiert",
+"id": "444-altstadt-freiburg/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Hauptachse auf dem Dreisam-Schwemmfächer",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altstadt",
+"steckbrief": "Die Altstadt ist der Stadtkern von Freiburg im Breisgau und hat knapp 7.800 Einwohner.",
+"frage": "Salz- und Bertoldstraße führen in einem geschwungenen S von Ost nach West durch die Altstadt. Welcher Linie folgen sie?",
+"optionen": [
+"Sie folgen dem Verlauf der alten Stadtmauer.",
+"Sie folgen einem zugeschütteten Seitenarm der Dreisam.",
+"Sie folgen einer trockengelegten Sumpfrinne.",
+"Sie folgen der höchsten Linie des Dreisamschwemmfächers."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Dreisam am Südrand lässt an einen alten Flussarm denken. Doch es ist umgekehrt: Nach dem Ortslexikon des Landes folgen die Straßen der höchsten Linie des Schwemmfächers, also des flachen Kies- und Schuttkegels, den die Dreisam aufgeschüttet hat. Am Bertoldsbrunnen treffen sie auf die Kaiser-Joseph-Straße; dort kreuzen sich die beiden Hauptachsen der Stadt. Richtig war 4.",
+"quelle": "LEO-BW, leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7705/Altstadt",
+"faktencheck": "korrigiert",
+"id": "444-altstadt-freiburg/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Erhaltenes neben Wiederaufgebautem",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Altstadt",
+"steckbrief": "Die Altstadt ist der zentrale Stadtteil von Freiburg im Breisgau und hat knapp 7.800 Einwohner.",
+"frage": "Im Zweiten Weltkrieg wurde die Altstadt schwer getroffen. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Alte Rathaus wurde nach Kriegszerstörung wiederaufgebaut.",
+"Der Fischbrunnen wurde nach dem Krieg erneuert aufgestellt.",
+"Das Historische Kaufhaus wurde im Krieg schwer beschädigt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Nach dem schweren Luftangriff liegt nahe, dass auch das Kaufhaus am Münsterplatz getroffen wurde. Doch das Historische Kaufhaus mit seinen wappengeschmückten Erkern blieb unbeschädigt erhalten, und auch das Münster wurde nur leicht beschädigt. Das Alte Rathaus wurde dagegen wiederaufgebaut, der Fischbrunnen in erneuerter Form aufgestellt. So stehen in der Altstadt Erhaltenes und Wiederaufgebautes nebeneinander. Die Lüge war 3.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7705/Altstadt; Gemeinde-Webseite, www.freiburg.de/pb/231015.html",
+"faktencheck": "korrigiert",
+"id": "444-altstadt-freiburg/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dichtes Zentrum auf kleiner Fläche",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Altstadt",
+"steckbrief": "Die Altstadt liegt im Herzen von Freiburg im Breisgau und hat knapp 7.800 Einwohner.",
+"frage": "Wie groß ist die Fläche des Stadtteils Altstadt?",
+"optionen": [
+"unter 0,5 km²",
+"0,5 bis unter 2 km²",
+"2 bis unter 5 km²",
+"5 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Münster, Universität und Sedanquartier denkt, schätzt leicht mehr. Doch die Altstadt misst nur 1,19 Quadratkilometer. Darauf wohnen knapp 7.800 Menschen, rund 6.500 je Quadratkilometer – dicht, wie es zum Stadt- und Geschäftszentrum Freiburgs passt. Richtig war 2.",
+"quelle": "Wikidata P2046 (Fläche); Wikidata P1082, Stand 2024 (Einwohner)",
+"faktencheck": "bestätigt",
+"id": "444-altstadt-freiburg/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Münster aus Buntsandstein",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altstadt",
+"steckbrief": "Die Altstadt ist der Stadtkern von Freiburg im Breisgau und hat knapp 7.800 Einwohner.",
+"frage": "Das Münster überragt die Altstadt und wurde fast ganz gotisch vollendet. Aus welchem Material ist es gebaut?",
+"optionen": [
+"Es ist aus Granit gebaut.",
+"Es ist aus Kalkstein gebaut.",
+"Es ist aus Buntsandstein gebaut.",
+"Es ist aus Backstein gebaut."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der nahe Schwarzwald lässt an Granit denken, gotische Kathedralen an hellen Kalkstein. Doch das Münster ist aus Buntsandstein gebaut, einem meist rötlichen Gestein. Es überragt die ganze Altstadt; beim Vorbeifahren sieht man seine filigrane Turmpyramide über den Dächern aufragen. Richtig war 3.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7705/Altstadt; Gemeinde-Webseite, www.freiburg.de/pb/231015.html",
+"faktencheck": "korrigiert",
+"id": "444-altstadt-freiburg/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Handwerkerviertel auf einer Bachinsel",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Altstadt",
+"steckbrief": "Die Altstadt ist das Zentrum von Freiburg im Breisgau und hat knapp 7.800 Einwohner.",
+"frage": "Ein Viertel der Altstadt heißt Insel, mit den Straßen Fischerau und Gerberau. Woher kommt der Name Insel?",
+"optionen": [
+"Ein Gewerbebach gabelte sich und bildete eine Insel.",
+"Ein Gasthaus namens Insel gab ihm den Namen.",
+"Die Stadtmauer schloss es wie eine Insel ab.",
+"Es lag als Hügel über sumpfigem Gelände."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Insel mitten in der Stadt klingt nach einem Bild, etwa für ein von der Mauer abgeschlossenes Viertel. Doch der Name ist wörtlich gemeint: Ein Gewerbebach gabelte sich und bildete eine Insel. Früher arbeiteten hier Fischer und Gerber, heute ist das Viertel mit Gaststätten und Geschäften beliebt; im Bach liegt ein Krokodilskopf aus Stein. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Altstadt_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "444-altstadt-freiburg/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "440-waldsee",
+"anschluss": [
+"Die Altstadt hat rund 1.800 Einwohner mehr als Waldsee.",
+"Waldsee hat rund viermal so viel Fläche wie die Altstadt."
+],
+"anschluesse": {
+"440-waldsee": [
+"Die Altstadt hat rund 1.800 Einwohner mehr als Waldsee.",
+"Waldsee hat rund viermal so viel Fläche wie die Altstadt."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburgs Mitte auf 282 Metern, nur 1,19 Quadratkilometer groß, zwischen Bahnlinie im Westen, Dreisam im Süden und Schlossberg im Osten."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Ursprungskern der Zähringer-Gründung, mit Martinstor und Schwabentor; nach dem Luftangriff 1944 auf altem Grundriss wiederaufgebaut."
+},
+{
+"facette": "ALLTAG",
+"text": "Geschäftszentrum der Stadt mit der Kaiser-Joseph-Straße als Hauptgeschäftsstraße, Markt auf dem Münsterplatz, knapp 7.800 Einwohner."
+},
+{
+"facette": "FREIZEIT",
+"text": "Münster, Konzerthaus, Augustinermuseum, Fasnetmuseum, Planetarium, Faulerbad, Schlossbergturm mit Rundumsicht, Zähringer-Wanderweg und Breisgauer Weinweg."
+},
+{
+"facette": "INFRA",
+"text": "Straßenbahn auf beiden Hauptachsen, Universitätsbibliothek, Stadtbibliothek, Sankt Elisabeth-Krankenhaus, Postleitzahl 79098, Vorwahl 0761."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025 in ganz Freiburg: Grüne 30,2 Prozent vor CDU 17,9 Prozent, Wahlbeteiligung 85,7 Prozent."
+}
+],
+"km_vom_vorigen": 2.7
+},
+{
+"slug": "445-stuehlinger",
+"name": "Stühlinger",
+"lat": 48.0011,
+"lon": 7.83806,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kulturhaus im alten Elektrizitätswerk",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Stühlinger",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 15.800 Einwohnern, 1 km nordwestlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es im Stühlinger?",
+"optionen": [
+"Ein Hallenbad",
+"Ein Weingut mit eigenem Weinberg",
+"Ein Kulturhaus im früheren Elektrizitätswerk",
+"Eine Wassermühle an der Dreisam"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei knapp 16.000 Einwohnern liegt ein Hallenbad nahe, gesucht war aber das E-Werk. Der Name ist wörtlich gemeint: Das Haus war früher ein Elektrizitätswerk und ist heute eine Kultureinrichtung mit Künstlerateliers, Spielstätten für Theatergruppen und Platz für Ausstellungen. Neben ihm stand früher das Gaswerk. Wo einst Strom erzeugt wurde, stehen heute Bühnen und Ateliers. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stühlinger; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "445-stuehlinger/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Name von Grundherren aus dem Klettgau",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stühlinger",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 15.800 Einwohnern, 1 km nordwestlich der Stadtmitte.",
+"frage": "Woher hat der Stühlinger seinen Namen?",
+"optionen": [
+"Hier ließen sich früher Stuhlmacher nieder.",
+"Hier stand einst ein steinerner Richterstuhl.",
+"Ein Gasthaus gab dem Gelände seinen Namen.",
+"Der Name geht auf frühere Grundbesitzer zurück."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Stühlen, daher liegen Stuhlmacher nahe. Doch er geht auf die Herren von Stühlingen aus dem Klettgau zurück, denen das Gelände einst gehörte. Damals war es sumpfiges Feld- und Wiesengelände, genutzt von Bauern aus Betzenhausen. Erst Bahnlinie und Bevölkerungswachstum machten daraus einen Stadtteil, heute mit knapp 16.000 Einwohnern. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stühlinger",
+"faktencheck": "unsicher",
+"id": "445-stuehlinger/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Universitätsklinikum als großer Arbeitgeber",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Stühlinger",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 15.800 Einwohnern, 1 km nordwestlich der Stadtmitte.",
+"frage": "Wofür steht der Stühlinger als Arbeitsort? Welches dieser vier Dinge gibt es dort?",
+"optionen": [
+"Ein Universitätsklinikum",
+"Ein Automobilwerk",
+"Eine Zuckerfabrik",
+"Eine Papierfabrik"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Fabriken liegen nahe, denn früher standen hier Betriebe wie eine Brauerei, eine Pumpen- und eine Orgelfabrik. Heute liegt im Norden des Stadtteils das Universitätsklinikum, ein großer Arbeitgeber. Wer vorbeifährt, sieht Klinikgebäude an Klinikgebäude, und die S-Bahn hat dort eine eigene Station Klinikum. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stühlinger; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "445-stuehlinger/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Stadtteil zwischen zwei Bahnstrecken",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stühlinger",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 15.800 Einwohnern, 1 km nordwestlich der Stadtmitte.",
+"frage": "Der Stühlinger hat an zwei Seiten dieselbe Art von Grenze. Welche ist das?",
+"optionen": [
+"Ein Fluss begrenzt ihn im Süden und Westen.",
+"Bahngleise begrenzen ihn im Osten und Westen.",
+"Alte Stadtmauern begrenzen ihn im Norden und Osten.",
+"Breite Ausfallstraßen begrenzen ihn im Norden und Süden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. An einen Fluss denkt man zuerst, denn die Dreisam fließt tatsächlich an der Südseite. Doch im Osten liegen die Bahnanlagen der Deutschen Bahn, im Westen die Gleise der Güterbahn, im Norden schließt der Brühl an. Auf nur 1,74 Quadratkilometern leben hier knapp 16.000 Menschen, eingerahmt von Schienen und Fluss. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stühlinger",
+"faktencheck": "unsicher",
+"id": "445-stuehlinger/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Hauptbahnhof als Motor des Viertels",
+"rang": 8,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Stühlinger",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 15.800 Einwohnern, 1 km nordwestlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge liegt im Stühlinger?",
+"optionen": [
+"Ein Naturschutzgebiet",
+"Eine Burgruine",
+"Der Hauptbahnhof der Stadt",
+"Ein Freibad"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Den Hauptbahnhof ordnet man leicht der Innenstadt zu, doch er liegt am Rand des Stühlingers. Der Bahnhof, 1845 eröffnet, trieb die Entwicklung des Stadtteils an, der im späten 19. Jahrhundert hinter den Gleisen entstand. Das Baugebiet hieß einst schlicht „Hinterm Bahnhof“. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stühlinger; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "445-stuehlinger/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kirchplatz mit Fußball- und Kirchengeschichte",
+"rang": 4,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Stühlinger",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 15.800 Einwohnern, 1 km nordwestlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Herz-Jesu-Kirche ist dem Kölner Dom nachempfunden.",
+"Auf dem Kirchplatz spielte einst der SC Freiburg.",
+"Die Löwenbrauerei im Stühlinger gründete Louis Sinner."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war der Kölner Dom: Vorbild der Herz-Jesu-Kirche war der Limburger Dom. Köln liegt nahe, weil fast jeder diesen Dom kennt. Die Kirche wurde das sichtbare Zentrum des neuen Stadtteils. Auf dem Platz davor spielte vor dem Ersten Weltkrieg wirklich der SC Freiburg, danach wuchsen dort Kartoffeln. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stühlinger",
+"faktencheck": "unsicher",
+"id": "445-stuehlinger/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Stadtteil auf gut 260 Metern",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stühlinger",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 15.800 Einwohnern, 1 km nordwestlich der Stadtmitte.",
+"frage": "Wie hoch liegt der Stühlinger über dem Meeresspiegel?",
+"optionen": [
+"unter 300 Meter",
+"300 bis unter 450 Meter",
+"450 bis unter 600 Meter",
+"600 Meter und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Freiburg verbindet man mit dem Schwarzwald, darum schätzen viele höher. Je nach Quelle liegt der Stühlinger auf 262 oder 265 Metern über dem Meer, also klar unter 300 Metern. Richtig war 1.",
+"quelle": "dewiki Infobox (265 m); GeoNames 11611371 (262 m)",
+"faktencheck": "bestätigt",
+"id": "445-stuehlinger/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Riesen-Gartenschlauch von Oldenburg im Park",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stühlinger",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 15.800 Einwohnern, 1 km nordwestlich der Stadtmitte.",
+"frage": "Im Eschholzpark liegt ein überdimensionaler Gartenschlauch mit Wasserhahn, ein Kunstwerk. Woran soll er erinnern?",
+"optionen": [
+"Hier wurde einst ein Großbrand gelöscht.",
+"Hier verlief früher die Wasserleitung zur Innenstadt.",
+"Das Gelände wurde früher gärtnerisch genutzt.",
+"Hier stand früher eine Feuerwache."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Schlauch lässt an Feuerwehr oder Wasserleitung denken. Das Kunstwerk von Coosje van Bruggen und Claes Oldenburg erinnert aber an die frühere gärtnerische Nutzung des Geländes. Der großzügige Park liegt zwischen Max-Weber-Schule und Berufsschulzentrum, mitten in einem Stadtteil mit gut 9.000 Einwohnern je Quadratkilometer. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stühlinger",
+"faktencheck": "unsicher",
+"id": "445-stuehlinger/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Bomben der eigenen Luftwaffe",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stühlinger",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 15.800 Einwohnern, 1 km nordwestlich der Stadtmitte.",
+"frage": "Am 10. Mai 1940 fielen Bomben auf Freiburg, ein Gedenkstein im Stühlinger erinnert an die Opfer. Wer hatte sie abgeworfen?",
+"optionen": [
+"Britische Flieger zielten auf die Bahnanlagen.",
+"Deutsche Flugzeuge warfen sie irrtümlich ab.",
+"Französische Flieger griffen über den Rhein an.",
+"Amerikanische Bomber griffen die Stadt gezielt an."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend sind die Kriegsgegner, und genau ihnen schob die NS-Propaganda den Angriff zu, erst Frankreich, dann der britischen Luftwaffe. Tatsächlich hatten sich deutsche Bomber bei schlechtem Wetter verflogen und Freiburg irrtümlich angegriffen, 57 Menschen starben. Der Gedenkstein steht auf dem Hildaspielplatz an der Kreuzstraße. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stühlinger; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "445-stuehlinger/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "444-altstadt-freiburg",
+"anschluss": [
+"Der Stühlinger zählt doppelt so viele Einwohner wie die Altstadt.",
+"Der Stühlinger ist dichter besiedelt als die Altstadt."
+],
+"anschluesse": {
+"444-altstadt-freiburg": [
+"Der Stühlinger zählt doppelt so viele Einwohner wie die Altstadt.",
+"Der Stühlinger ist dichter besiedelt als die Altstadt."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil 1 km nordwestlich der Freiburger Stadtmitte, zwischen Hauptbahnhof, Güterbahn und Dreisam, 262 bis 265 Meter hoch."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Einst Feld- und Wiesenland der Herren von Stühlingen, ab 1875 planmäßig bebaut, mit der Herz-Jesu-Kirche als Zentrum."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 15.800 Einwohner auf 1,74 Quadratkilometern, großer Arbeitgeber ist das Universitätsklinikum, dazu Cafés, Kneipen und kleine alternative Läden."
+},
+{
+"facette": "FREIZEIT",
+"text": "Kulturhaus E-Werk, Theater der Immoralisten, Museum Strich und Faden, Eschholzpark, belebter Kirchplatz und Gerolf-Staschull-Sporthalle."
+},
+{
+"facette": "INFRA",
+"text": "Hauptbahnhof und S-Bahn-Halt Klinikum, Straßenbahnlinien 1 bis 4 über die Stühlingerbrücke, Radrouten FR 1 bis FR 5."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lagen in ganz Freiburg die Grünen vorn, die Wahlbeteiligung betrug 85,7 Prozent."
+}
+],
+"km_vom_vorigen": 1.1
+},
+{
+"slug": "446-neuburg-freiburg",
+"name": "Neuburg",
+"lat": 48,
+"lon": 7.85361,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Vorstadt musste der Festung weichen",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neuburg",
+"steckbrief": "Rund 5.600 Einwohner, Stadtteil direkt nördlich der Freiburger Stadtmitte.",
+"frage": "Ab 1677 verschwand die alte Vorstadt nördlich der Freiburger Altstadt fast vollständig. Was war der Hauptgrund?",
+"optionen": [
+"Sie wurde für den Bau eines Bahnhofs abgerissen.",
+"Sie musste einem Festungsring weichen.",
+"Ein Erdbeben brachte die Häuser zum Einsturz.",
+"Ein Hochwasser riss die Häuser fort."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Unglück liegt nahe, denn der Dreißigjährige Krieg hatte die Vorstadt schwer beschädigt, und bei der Belagerung 1677 wurde sie beschossen. Verschwunden ist sie aber vor allem planmäßig: Festungsbaumeister Vauban ließ sie ab 1677 fast vollständig schleifen, also abtragen, für einen Festungsring mit freiem Schussfeld davor. Erst viel später wurde das Gelände neu besiedelt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "446-neuburg-freiburg/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Antike Skulpturen im ehemaligen Papierlager",
+"rang": 4,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Neuburg",
+"steckbrief": "Rund 5.600 Einwohner, Stadtteil direkt nördlich der Freiburger Stadtmitte.",
+"frage": "Welche dieser vier Dinge gibt es in Neuburg?",
+"optionen": [
+"ein Freibad",
+"eine Wassermühle",
+"eine Sammlung antiker Gipsabgüsse",
+"eine Hausbrauerei"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bad oder eine Brauerei erwartet man in einem Stadtteil mit rund 5.600 Einwohnern eher als ein Museum. Doch hier liegt die Archäologische Sammlung mit antiken Originalen und Gipsabgüssen antiker Skulpturen. Untergebracht ist sie im ehemaligen Papierlager der Herder-Druckerei: Wo früher Papier lagerte, steht heute die Antike. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau); OpenStreetMap; Einwohner: Wikidata P1082, Stand 2024",
+"faktencheck": "unsicher",
+"id": "446-neuburg-freiburg/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Westhälfte gehört der Universität",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Neuburg",
+"steckbrief": "Rund 5.600 Einwohner, Stadtteil direkt nördlich der Freiburger Stadtmitte.",
+"frage": "Wofür steht Neuburg? Was füllt große Teile der westlichen Hälfte des Stadtteils?",
+"optionen": [
+"Universitätsinstitute",
+"ein Naturschutzgebiet",
+"ein Thermalbad",
+"eine Großbrauerei"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Großbrauerei liegt nahe, denn solche Betriebe prägen in vielen Städten ganze Viertel. Doch große Teile der westlichen Hälfte nimmt die Albert-Ludwigs-Universität ein: Im Institutsviertel rund um Albertstraße und Hermann-Herder-Straße liegen naturwissenschaftliche und medizinische Institute, am Fahnenbergplatz das Rektorat. Beim Vorbeifahren sieht man dort vor allem Universitätsbauten. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "446-neuburg-freiburg/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kirche aus versetzter Klosterkirche",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neuburg",
+"steckbrief": "Rund 5.600 Einwohner, Stadtteil direkt nördlich der Freiburger Stadtmitte.",
+"frage": "Die alte Ludwigskirche in Neuburg, gebaut 1829 bis 1839, hatte eine ungewöhnliche Herkunft. Welche?",
+"optionen": [
+"Sie entstand aus einer umgebauten Zehntscheune.",
+"Sie entstand aus einer abgebrochenen Klosterkirche.",
+"Sie entstand aus einem umgebauten Festungsmagazin.",
+"Sie entstand aus einer umgebauten Reithalle."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Umbau liegt nahe, denn neue Gemeinden nutzten oft vorhandene Gebäude. Hier aber stammte das Material aus der abgebrochenen Klosterkirche von Tennenbach; Grundriss und Aufriss wurden beim Neubau verändert. Die Kirche wurde im Krieg zerstört und danach in modernem Stil wieder aufgebaut. Richtig war 2.",
+"quelle": "LEO-BW, Historisches Ortslexikon, Neuburg (leo-bw.de); Wikipedia, de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "446-neuburg-freiburg/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Alter Friedhof als Park",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Neuburg",
+"steckbrief": "Rund 5.600 Einwohner, Stadtteil direkt nördlich der Freiburger Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Durch die Habsburgerstraße fährt eine Linie der Stadtbahn.",
+"Auf dem Alten Friedhof wird bis heute bestattet.",
+"Das Landratsamt des Kreises Breisgau-Hochschwarzwald steht in Neuburg."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Landratsamt wirkt verdächtig, weil Freiburg selbst ein Stadtkreis ist; doch das Amt des Nachbarkreises steht tatsächlich in der Osthälfte Neuburgs, an der Stadtstraße. Gelogen war der Friedhof: Bestattet wurde dort nur bis 1872; heute ist er eine Grünanlage. Wer vorbeifährt, sieht mitten im Stadtteil einen Park mit der Michaelskapelle. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "446-neuburg-freiburg/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht bewohnter Innenstadtteil",
+"rang": 6,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Neuburg",
+"steckbrief": "Rund 5.600 Einwohner, Stadtteil direkt nördlich der Freiburger Stadtmitte.",
+"frage": "Wie viele Einwohner leben in Neuburg je Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 3.000",
+"3.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine mittlere Spanne liegt nahe, weil Freiburg keine Millionenstadt ist. Doch in Neuburg leben 5.567 Menschen (Stand 2024) auf nur 1,64 Quadratkilometern, rund 3.400 je Quadratkilometer. Das entspricht einem dicht bewohnten Innenstadtteil direkt neben der Altstadt. Richtig war 4.",
+"quelle": "Wikidata P1082 (Einwohner, Stand 2024), Wikidata P2046 (Fläche); Dichte berechnet",
+"faktencheck": "bestätigt",
+"id": "446-neuburg-freiburg/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "445-stuehlinger",
+"anschluss": [
+"Stühlinger hat fast dreimal so viele Einwohner wie Neuburg.",
+"Die Rheintalbahn trennt Neuburg vom westlichen Nachbarn Stühlinger."
+],
+"anschluesse": {
+"445-stuehlinger": [
+"Stühlinger hat fast dreimal so viele Einwohner wie Neuburg.",
+"Die Rheintalbahn trennt Neuburg vom westlichen Nachbarn Stühlinger."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Direkt nördlich der Freiburger Altstadt auf etwa 270 Metern; im Westen die Rheintalbahn, im Osten der 455 Meter hohe Schlossberg."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Früher Vorstadt, 1677 für die Festung abgetragen, um 1825 neu besiedelt, lange Ludwigsvorstadt genannt, 1944 fast völlig zerstört."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 5.600 Einwohner auf 1,64 Quadratkilometern; den Westen prägen Universitätsinstitute, dazu Krankenhaus und Behörden."
+},
+{
+"facette": "FREIZEIT",
+"text": "Archäologische Sammlung, Schlossbergbahn, Schlossbergturm, Alter Friedhof als Park; Zähringer-Wanderweg, Breisgauer Weinweg und Himmelreich-Jakobusweg."
+},
+{
+"facette": "INFRA",
+"text": "Stadtbahn durch die Habsburgerstraße, Sankt Josefskrankenhaus, Druckkammerzentrum, Landratsamt Breisgau-Hochschwarzwald; Postleitzahlen 79104 und 79106, Vorwahl 0761."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: Grüne vorn mit 31,6 Prozent, Wahlbeteiligung 83,2 Prozent, knapp unter dem Landesschnitt."
+}
+],
+"km_vom_vorigen": 1.2
+},
+{
+"slug": "447-herdern",
+"name": "Herdern",
+"lat": 48.0089,
+"lon": 7.86278,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "Kulturzentrum in früherer Garnfabrik",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Herdern",
+"steckbrief": "Freiburger Stadtteil mit knapp 13.000 Einwohnern, 2 km nordöstlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Herdern?",
+"optionen": [
+"ein Kulturzentrum in einer früheren Garnfabrik",
+"eine Brauerei mit eigenem Ausschank",
+"eine Getreidemühle mit Mühlenladen",
+"ein Weingut mit Straußwirtschaft"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Brauerei, Mühle oder Stausee liegen nahe, weil man so etwas am Rand einer Stadt oft findet. Herdern hat stattdessen die FABRIK für Handwerk, Kultur & Ökologie: ein Verein mit Werkstätten und Betrieben in einer früheren Garnfabrik, davor Möbelfabrik, dazu das Vorderhaus als Bühne für Veranstaltungen. Für einen Stadtteil mit knapp 13.000 Einwohnern ist das ein eigenes kleines Zentrum für Gewerbe und Kultur. Richtig war 1.",
+"quelle": "FABRIK für Handwerk, Kultur & Ökologie e.V., www.fabrik-freiburg.de/ueber-uns/geschichte",
+"faktencheck": "korrigiert",
+"id": "447-herdern/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Name wohl von Herden, Hirten",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herdern",
+"steckbrief": "Freiburger Stadtteil mit knapp 13.000 Einwohnern, 2 km nordöstlich der Stadtmitte.",
+"frage": "Woher kommt der Name Herdern nach der vorsichtigen Deutung des Landesportals?",
+"optionen": [
+"Er kommt vom Herd, der Feuerstelle.",
+"Er geht auf Herden oder Hirten zurück.",
+"Er geht auf einen fränkischen Grundherrn zurück.",
+"Er stammt von einem keltischen Bachnamen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Herd liegt nahe, weil er im heutigen Namen steckt. Das Landesportal leitet den Namen aber vorsichtig, mit einem „vielleicht“, von Herden oder Hirten ab; eine frühe Form lautete Herdra. Herdern war lange ein eigenes Dorf, bevor es zur Stadt Freiburg kam. Wo heute knapp 13.000 Menschen wohnen, zogen also vielleicht einst Hirten mit ihren Herden. Richtig war 2.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7716/Herdern",
+"faktencheck": "korrigiert",
+"id": "447-herdern/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Botanischer Garten der Universität",
+"rang": 6,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Herdern",
+"steckbrief": "Freiburger Stadtteil mit knapp 13.000 Einwohnern, 2 km nordöstlich der Stadtmitte.",
+"frage": "Welches dieser vier Ausflugsziele gibt es in Herdern?",
+"optionen": [
+"ein Golfplatz",
+"eine Sommerrodelbahn",
+"ein Botanischer Garten",
+"ein Badesee"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Badesee, Golfplatz oder Sommerrodelbahn findet man oft am Rand größerer Städte. Herdern hat stattdessen den Botanischen Garten an der Schänzlestraße. Er gehört zur Fakultät für Biologie der Universität Freiburg und dient der Forschung und Lehre. So ist Herdern ein Stück Universitätsstadt, nur zwei Kilometer von der Stadtmitte. Richtig war 3.",
+"quelle": "Universität Freiburg, uni-freiburg.de/botanischer-garten/",
+"faktencheck": "korrigiert",
+"id": "447-herdern/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Stadtteil zwischen Bahn und Roßkopf",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herdern",
+"steckbrief": "Freiburger Stadtteil mit knapp 13.000 Einwohnern, 2 km nordöstlich der Stadtmitte.",
+"frage": "Was bildet den Ostrand von Herdern?",
+"optionen": [
+"Die Westhänge des Roßkopfs bilden ihn.",
+"Die Gleise der Rheintalbahn bilden ihn.",
+"Die Dreisam bildet ihn.",
+"Der Glasbach bildet ihn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Gleise liegen nahe, weil Bahnlinien oft Stadtteile begrenzen; sie trennen Herdern aber im Westen von Stühlinger und Brühl. Im Osten reicht der Stadtteil bis an die Westhänge des Roßkopfs. Herdern liegt also zwischen Bahn und Berg: Wer durchfährt, sieht das Gelände nach Osten ansteigen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "447-herdern/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wasserschloss, Arzt „Schiller von Herdern“",
+"rang": 5,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Herdern",
+"steckbrief": "Freiburger Stadtteil mit knapp 13.000 Einwohnern, 2 km nordöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Dinghof in Herdern war ein Wasserschloss.",
+"Straßburgs Bischöfe waren Oberlehensherren über Herdern.",
+"Dinghof-Erwerber Schiller nannte sich danach „von Straßburg“."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Straßburger Bischöfe wirken wie die Lüge, weil Straßburg jenseits des Rheins liegt; doch sie waren tatsächlich Oberlehensherren, also die übergeordneten Lehnsherren über dem Ort. Gelogen war der Name: Der Arzt Schiller erwarb den Dinghof, ein Wasserschloss, und nannte sich danach Schiller von Herdern. So trug der berühmte Arzt fortan den Namen des Dorfes. Die Lüge war 3.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7716/Herdern",
+"faktencheck": "korrigiert",
+"id": "447-herdern/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Kleinstadtgröße als Stadtteil",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Herdern",
+"steckbrief": "Freiburger Stadtteil, 2 km nordöstlich der Stadtmitte, gut 4 Quadratkilometer groß.",
+"frage": "Wie viele Menschen leben in Herdern?",
+"optionen": [
+"unter 4.000",
+"4.000 bis unter 9.000",
+"9.000 bis unter 15.000",
+"15.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil klingt nach einem Viertel mit wenigen tausend Menschen, doch in Herdern leben 12.806 Menschen, Stand 2024. Auf gut vier Quadratkilometern sind das fast 3.000 Einwohner je Quadratkilometer. Damit hat Herdern so viele Einwohner wie eine eigenständige Kleinstadt, nur dass es zur Stadt Freiburg gehört. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2024; Fläche Wikidata P2046; Dichte berechnet aus Einwohnern und Fläche",
+"faktencheck": "bestätigt",
+"id": "447-herdern/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Winzerpatron erinnert an Weinbau",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herdern",
+"steckbrief": "Freiburger Stadtteil mit knapp 13.000 Einwohnern, 2 km nordöstlich der Stadtmitte.",
+"frage": "Herderns Pfarrkirche ist dem heiligen Urban geweiht. Woran erinnert dieser Patron im Ort?",
+"optionen": [
+"Er erinnert an eine überstandene Pest.",
+"Er erinnert an den früheren Weinbau.",
+"Er erinnert an einen Papstbesuch im Dorf.",
+"Er erinnert an alten Silberbergbau."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Papst liegt nahe, denn Urban hießen mehrere Päpste. Der heilige Urban ist aber der Patron der Winzer und Rebleute, und so erinnert die Kirche an die Weinbau-Vergangenheit Herderns. Das frühere Winzerdorf ist heute ein dicht bewohnter Stadtteil von Freiburg. Richtig war 2.",
+"quelle": "Landesportal, www.leo-bw.de (Patrozinium St. Urban); Bistum Mainz, „Hl. Urban, der Patron der Winzer und des Weins“; Badische Landesbibliothek, „1000 Jahre Herdern. Vom Winzerdorf zum Klein-Nizza Freiburgs“ (2008)",
+"faktencheck": "korrigiert",
+"id": "447-herdern/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Musikerviertel mit NS-Straßenplan",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herdern",
+"steckbrief": "Freiburger Stadtteil mit knapp 13.000 Einwohnern, 2 km nordöstlich der Stadtmitte.",
+"frage": "Ab 1933 entstand in Herdern das Musikerviertel. Nach wem benannte man seine Hauptstraße?",
+"optionen": [
+"Man benannte sie nach Richard Wagner.",
+"Man benannte sie nach Johann Sebastian Bach.",
+"Man benannte sie nach Ludwig van Beethoven.",
+"Man benannte sie nach Georg Friedrich Händel."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bach liegt nahe, doch nach ihm heißt die Mittelstraße. Die Haupterschließungsstraße, also die Hauptzufahrt des Viertels, trägt den Namen Wagners, des Lieblingskomponisten der Nazis; die Querstraßen folgen der Zeit von Händel bis Bruckner. Laut Badischer Zeitung bestimmte die Nazi-Ideologie diese Namen. So erzählen in Herdern schon die Straßenschilder, in welchem Geist das Viertel geplant wurde. Richtig war 1.",
+"quelle": "Badische Zeitung, 10.04.2013; Wikipedia, de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "447-herdern/v0.9/9",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Seifenkistenrennen an der Eichhalde",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herdern",
+"steckbrief": "Freiburger Stadtteil mit knapp 13.000 Einwohnern, 2 km nordöstlich der Stadtmitte.",
+"frage": "Seit 1931 richten Vereine aus Herdern an der Eichhalde ein Rennen aus, mit Unterbrechungen. Womit wird gefahren?",
+"optionen": [
+"Gefahren wird auf Bobbycars.",
+"Gefahren wird auf Skateboards.",
+"Gefahren wird auf Fahrrädern bergab.",
+"Gefahren wird in Seifenkisten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Fahrräder liegen nahe, denn an einem steilen Hang wird oft geradelt. An der Eichhalde aber rollen Seifenkisten, also selbst gebaute Wagen ohne Motor. Dass Vereine aus Herdern das Rennen ausrichten, zeigt: Der Stadtteil mit knapp 13.000 Einwohnern pflegt ein Vereinsleben wie ein Dorf. Richtig war 4.",
+"quelle": "Badische Zeitung, „Rasante Fahrten in Sperrholzkisten“, 01.10.2013; Wikipedia, de.wikipedia.org/wiki/Herdern_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "447-herdern/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": "446-neuburg-freiburg",
+"anschluss": [
+"Herdern hat mehr als doppelt so viele Einwohner wie Neuburg.",
+"Neuburg grenzt im Süden direkt an Herdern."
+],
+"anschluesse": {
+"446-neuburg-freiburg": [
+"Herdern hat mehr als doppelt so viele Einwohner wie Neuburg.",
+"Neuburg grenzt im Süden direkt an Herdern."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 2 km nordöstlich der Mitte, knapp 13.000 Einwohner auf gut vier Quadratkilometern, zwischen Rheintalbahn und Roßkopf."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Früheres Dorf, seit 1457 bei Freiburg; Name wohl von Herden oder Hirten; einst Wasserschloss Dinghof, Kirche St. Urban."
+},
+{
+"facette": "ALLTAG",
+"text": "FABRIK für Handwerk, Kultur & Ökologie, Behördenzentrum mit den Finanzämtern, Zentrale des Deutschen Caritasverbandes."
+},
+{
+"facette": "FREIZEIT",
+"text": "Botanischer Garten, Licht-Luft-Sportbad am Hebsack, Roßkopfturm, Zähringer-Wanderweg, Breisgauer Weinweg, Seifenkistenrennen und Herdermer Hock."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Freiburg-Herdern, Kliniken des Universitätsklinikums, Fakultät für Biologie, Katholische Hochschule, Friedrich- und Droste-Hülshoff-Gymnasium."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025 in ganz Freiburg: Grüne vorn mit 30,2 Prozent, Wahlbeteiligung 85,7 Prozent."
+}
+],
+"km_vom_vorigen": 1.2
+},
+{
+"slug": "448-zaehringen",
+"name": "Zähringen",
+"lat": 48.0239,
+"lon": 7.86333,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Pumptrack im dicht besiedelten Stadtteil",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zähringen",
+"steckbrief": "Freiburger Stadtteil mit gut 9.400 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Seit Juni 2020 gibt es zwischen Denzlinger Straße und Isfahanallee eine neue Freizeitanlage. Was für eine?",
+"optionen": [
+"Dort entstand ein Hochseilgarten.",
+"Dort entstand ein kleines Freibad.",
+"Dort entstand eine Minigolfanlage.",
+"Dort entstand ein Pumptrack."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Minigolf oder ein Freibad liegen nahe, weil man sie aus vielen Stadtteilen kennt. Tatsächlich entstand dort ein Pumptrack: ein welliger Rundkurs, auf dem man mit Rad, Roller oder Skateboard allein durch Pumpen Schwung holt. Für einen so dicht besiedelten Stadtteil, rund 3.000 Einwohner je Quadratkilometer, passt eine Anlage, die wenig Fläche braucht. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Zähringen_(Freiburg_im_Breisgau)",
+"faktencheck": "bestätigt",
+"id": "448-zaehringen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Burg der Herzöge von Zähringen",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zähringen",
+"steckbrief": "Stadtteil im Norden Freiburgs mit gut 9.400 Einwohnern, 3 km von der Stadtmitte.",
+"frage": "Das Dorf Zähringen gehörte im Mittelalter zum Gut um die Burg Zähringen, die die gleichnamigen Herzöge besaßen. Was für ein Gut war das?",
+"optionen": [
+"Es war Reichsgut.",
+"Es war Besitz des Bischofs von Straßburg.",
+"Es war Besitz des Klosters St. Gallen.",
+"Es war Besitz des Erzbischofs von Mainz."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bischof oder Kloster liegt nahe, denn Kirchenbesitz war im Mittelalter weit verbreitet. Das Dorf gehörte aber zum Reichsgut um die Burg Zähringen, die die Herzöge dieses Namens besaßen. Ihre Nachfolger wurden nach längeren Kämpfen mit der Reichsgewalt die Grafen von Freiburg. Die Burg selbst steht bei Wildtal in der Gemeinde Gundelfingen. Richtig war 1.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7751/Z%C3%A4hringen",
+"faktencheck": "korrigiert",
+"id": "448-zaehringen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "klassizistische Weinbrenner-Kirche St. Blasius",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zähringen",
+"steckbrief": "Stadtteil mit gut 9.400 Einwohnern, 3 km nördlich der Freiburger Stadtmitte.",
+"frage": "Die katholische Kirche St. Blasius wurde im 19. Jahrhundert an neuer Stelle errichtet. In wessen Stil?",
+"optionen": [
+"Sie steht im Stil Balthasar Neumanns.",
+"Sie steht im Stil Friedrich Weinbrenners.",
+"Sie steht im Stil Peter Parlers.",
+"Sie steht im Stil Peter Thumbs."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Barockbaumeister liegt nahe, weil man katholische Kirchen im Süden oft barock kennt. Zu dieser Zeit war aber der Klassizismus modern, und St. Blasius ist im Stil Friedrich Weinbrenners gebaut, des großen Baumeisters dieses Stils in Baden. Wer durch Zähringen fährt, sieht mit der Kirche ein Stück Weinbrenner-Stil, wie man ihn sonst aus Karlsruhe kennt. Richtig war 2.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7751/Z%C3%A4hringen",
+"faktencheck": "korrigiert",
+"id": "448-zaehringen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Nordrand Freiburgs an Gundelfingen",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zähringen",
+"steckbrief": "Freiburger Stadtteil mit gut 9.400 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Zähringen liegt im Norden Freiburgs. Was schließt im Norden an den Stadtteil an?",
+"optionen": [
+"Dort schließt der Stadtteil Herdern an.",
+"Dort schließt der Stadtteil Brühl an.",
+"Dort beginnt die Gemeinde Gundelfingen.",
+"Dort beginnt die Gemeinde Denzlingen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Herdern und Brühl liegen nahe, denn beide sind Nachbarn, sie liegen aber südlich von Zähringen. Im Norden endet an Zähringen das Freiburger Stadtgebiet, dahinter beginnt die eigenständige Gemeinde Gundelfingen mit ihrem Ortsteil Wildtal. Wer hier nach Norden fährt, verlässt also mit diesem Stadtteil die Großstadt. Richtig war 3.",
+"quelle": "Stadt Freiburg, freiburg.de (STEPZ Zähringen); Badische Zeitung",
+"faktencheck": "korrigiert",
+"id": "448-zaehringen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "S-Bahn-Halt an der Rheintalbahn",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zähringen",
+"steckbrief": "Stadtteil mit gut 9.400 Einwohnern, 3 km nördlich der Freiburger Stadtmitte.",
+"frage": "Zähringen hat einen eigenen S-Bahn-Haltepunkt. An welcher Bahnstrecke liegt er?",
+"optionen": [
+"Er liegt an der Höllentalbahn.",
+"Er liegt an der Kaiserstuhlbahn.",
+"Er liegt an der Schwarzwaldbahn.",
+"Er liegt an der Rheintalbahn."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Höllentalbahn liegt nahe, weil man sie mit Freiburg verbindet; sie führt aber nach Osten in den Schwarzwald. Zähringen liegt an der Rheintalbahn, und die Breisgau-S-Bahn fährt von hier zum Hauptbahnhof und über Denzlingen bis Elzach. Für einen Stadtteil mit gut 9.400 Einwohnern ist der eigene Halt an der großen Nord-Süd-Strecke ein kurzer Weg in die Stadt. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Zähringen_(Freiburg_im_Breisgau)",
+"faktencheck": "bestätigt",
+"id": "448-zaehringen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "katholisches Klosterdorf, später badisch",
+"rang": 3,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Zähringen",
+"steckbrief": "Freiburger Stadtteil mit gut 9.400 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Zähringen wurde in der Reformation evangelisch.",
+"Zähringen gehörte einst der Abtei St. Peter.",
+"Zu Beginn des 19. Jahrhunderts kam Zähringen an Baden."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Dass ein Schwarzwaldkloster ein Dorf vor Freiburg besaß, klingt erfunden, stimmt aber: Die Abtei St. Peter kaufte die Herrschaft über Zähringen. Mit dem Anfall an Baden und der Säkularisation unterstand das Dorf dann dem Amtssitz in Freiburg. Gelogen ist die Reformation: Zähringen blieb katholisch, und seine Kirche wurde damals wieder Pfarrei. Die Lüge war 1.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7751/Z%C3%A4hringen",
+"faktencheck": "korrigiert",
+"id": "448-zaehringen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "früh in einer Königsurkunde belegt",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Zähringen",
+"steckbrief": "Freiburger Stadtteil mit gut 9.400 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "In welchem Zeitraum ist Zähringen erstmals urkundlich belegt?",
+"optionen": [
+"vor 950",
+"950 bis unter 1100",
+"1100 bis unter 1250",
+"ab 1250"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an die mittelalterlichen Herzöge von Zähringen denkt, tippt leicht später. Doch schon 1008 erscheint der Ort als „Zaringen“, überliefert in einer späteren Abschrift. Der Name geht auf einen Personennamen zurück, wohl keltischen Ursprungs. Richtig war 2.",
+"quelle": "Wikidata P1249; Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7751/Z%C3%A4hringen",
+"faktencheck": "korrigiert",
+"id": "448-zaehringen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Schlösschen wurde Dorfschule",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zähringen",
+"steckbrief": "Freiburger Stadtteil mit gut 9.400 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "1811 erwarb die Gemeinde Zähringen das Schlösschen der Familie von Girardi. Wozu?",
+"optionen": [
+"Sie machte daraus ein Armenhaus.",
+"Sie nutzte es als Kornspeicher.",
+"Sie richtete darin das Schulhaus ein.",
+"Sie verpachtete es als Gasthaus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Gasthaus liegt nahe, weil man viele alte Herrenhäuser heute als Gaststätte kennt. Zähringen aber richtete in dem Bau, einem alten Herrenhof, den man später zum Schlösschen umgebaut hatte, sein Schulhaus ein. Aus herrschaftlichem Besitz wurde so ein Haus für die Kinder des Dorfes. Richtig war 3.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7751/Z%C3%A4hringen",
+"faktencheck": "bestätigt",
+"id": "448-zaehringen/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "447-herdern",
+"anschluss": [
+"Zähringen und Herdern sind fast gleich dicht besiedelt.",
+"Die Urkunde mit Zähringens erster Erwähnung nennt auch Herdern."
+],
+"anschluesse": {
+"447-herdern": [
+"Zähringen und Herdern sind fast gleich dicht besiedelt.",
+"Die Urkunde mit Zähringens erster Erwähnung nennt auch Herdern."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 3 km nördlich der Stadtmitte, rund 250 m hoch; zum Gebiet gehört der Uhlberg mit 618 m."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1008 erwähnt, Burg der Herzöge von Zähringen, später Besitz der Abtei St. Peter, seit 1906 Teil Freiburgs."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 9.400 Einwohner auf gut drei Quadratkilometern, also rund 3.000 Menschen je Quadratkilometer."
+},
+{
+"facette": "FREIZEIT",
+"text": "Skulpturenhalle für Konkrete Kunst, Jahn-Sporthalle, Pumptrack; Zähringer-Wanderweg und Breisgauer Weinweg führen durchs Gebiet."
+},
+{
+"facette": "INFRA",
+"text": "S-Bahn-Haltepunkt Freiburg-Zähringen, Straßenbahn seit 1910, dazu das Gelenk-Klinik OP-Zentrum."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: Grüne vorn mit 30,2 Prozent, Wahlbeteiligung 87 Prozent, über dem Landeswert von 83,4."
+}
+],
+"km_vom_vorigen": 1.7
+},
+{
+"slug": "449-bruehl-freiburg",
+"name": "Brühl",
+"lat": 48.0272,
+"lon": 7.85083,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Hügel aus Bombentrümmern",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Brühl (Freiburg im Breisgau)",
+"steckbrief": "Freiburger Stadtteil mit rund 13.600 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Im flachen Brühl ragt der Wolfsbuck auf. Was hat es mit diesem Hügel auf sich?",
+"optionen": [
+"Er ist eine natürliche Kuppe der Rheinebene.",
+"Er wurde im Mittelalter als Burghügel aufgeschüttet.",
+"Er birgt Trümmer des Bombenangriffs auf Freiburg.",
+"Er ist die Halde eines früheren Bergwerks."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Hügel in der Ebene sieht nach Natur aus. Doch der Wolfsbuck ist aufgeschüttet: Auf einer früheren Kippe des französischen Militärs lud die Stadt Freiburg ab 1953 Haus- und Gewerbemüll sowie Bauschutt ab. So wuchs am Rand des Flugplatzes ein Hügel aus dem Abfall der Nachkriegsstadt. Richtig war 3.",
+"quelle": "ASF Freiburg, Chronik.",
+"faktencheck": "korrigiert",
+"id": "449-bruehl-freiburg/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Stadion des SC Freiburg",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Brühl (Freiburg im Breisgau)",
+"steckbrief": "Freiburger Stadtteil mit rund 13.600 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Der SC Freiburg spielt heute in einem Stadion im Brühl. Seit wann spielt er dort?",
+"optionen": [
+"Schon seit den Siebzigerjahren spielt er dort.",
+"Seit den Achtzigerjahren spielt er dort.",
+"Seit der Jahrtausendwende spielt er dort.",
+"Erst seit Oktober 2021 spielt er dort."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Den SC Freiburg kennen viele seit Jahrzehnten, deshalb vermutet man ihn schon lange hier. Doch erst seit Oktober 2021 spielt er im Europa-Park Stadion am Flugplatz im Brühl. Damit liegt sein Stadion in einem Stadtteil, zu dem auch das Industriegebiet Nord, die Messe und der Flugplatz gehören. Richtig war 4.",
+"quelle": "Stadt Freiburg; Europa-Park.",
+"faktencheck": "korrigiert",
+"id": "449-bruehl-freiburg/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Berg aus Abfall",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Brühl (Freiburg im Breisgau)",
+"steckbrief": "Freiburger Stadtteil mit rund 13.600 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Im Norden des Mooswalds erhebt sich der Eichelbuck aus dem flachen Brühl. Was ist dieser Hügel?",
+"optionen": [
+"Er ist eine frühere Mülldeponie.",
+"Er ist eine Düne aus der Eiszeit.",
+"Er ist ein keltischer Grabhügel.",
+"Er ist ein Rest des alten Rheinufers."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Hügel in der flachen Ebene sieht nach Natur aus. Der Eichelbuck aber ist eine ehemalige Mülldeponie: Ab 1972 kam hier der Freiburger Abfall hin, im Mai 2005 wurde sie geschlossen und danach Abschnitt für Abschnitt abgedichtet. Wer im flachen Brühl auf diesen Hügel schaut, sieht also aufgeschichteten Abfall. Richtig war 1.",
+"quelle": "ASF Freiburg; Badische Zeitung.",
+"faktencheck": "korrigiert",
+"id": "449-bruehl-freiburg/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Zigarettenfilter-Werk als Industrie-Keimzelle",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Brühl (Freiburg im Breisgau)",
+"steckbrief": "Freiburger Stadtteil mit rund 13.600 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Mit dem Bau eines Großbetriebs begann im Brühl das Industriegebiet Nord. Was stellt dieser Betrieb, heute Cerdia, her?",
+"optionen": [
+"Er stellt Kuckucksuhren für den Export her.",
+"Er stellt Filter für Zigaretten her.",
+"Er baut Güterwaggons für die Eisenbahn.",
+"Er druckt Banknoten im Auftrag des Staates."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In Freiburg, am Rand des Schwarzwalds, denkt man schnell an Kuckucksuhren. Doch der Betrieb, früher Rhodia und heute Cerdia, stellt Zigarettenfilter her. Mit seinem Bau begann die Entwicklung des Industriegebiets Nord. Es prägt bis heute den Westen und Norden des Brühl, eines Stadtteils, der durch die Industrialisierung entstand. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "449-bruehl-freiburg/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Turmbau für Borgward, heute Restaurant",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Brühl (Freiburg im Breisgau)",
+"steckbrief": "Freiburger Stadtteil mit rund 13.600 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Das denkmalgeschützte Turmcafé im Brühl hat ein Türmchen und ein Tankstellenvordach. Wofür wurde der Bau ursprünglich geplant?",
+"optionen": [
+"Es war als Stellwerk der Bahn geplant.",
+"Es war als Feuerwache mit Schlauchturm geplant.",
+"Es war als Generalvertretung eines Autobauers geplant.",
+"Es war als Wasserturm des Viertels geplant."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Türmchen lässt an Feuerwehr oder Bahn denken. Geplant war der Bau des Freiburger Architekten Wilhelm Schelkes aber als Generalvertretung des Autobauers Borgward; heute ist darin ein Restaurant. Inzwischen steht das Turmcafé zwischen Wohnhäusern hinter einer Schallschutzwand aus Glas. Wer vorbeifährt, muss also genau hinschauen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "449-bruehl-freiburg/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "eigener Flugplatz für Kleinflugzeuge",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Brühl (Freiburg im Breisgau)",
+"steckbrief": "Freiburger Stadtteil mit rund 13.600 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Süden des Stadtteils liegt Freiburgs Hauptfriedhof.",
+"Am Flugplatz im Brühl landen auch große Verkehrsjets.",
+"Im Brühl liegt der Bahnhof Freiburg Messe/Universität."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Flugplatz in einer Großstadt klingt nach Ferienfliegern. Der Freiburger Flugplatz ist aber ein kleiner Verkehrslandeplatz mit 1.400 Meter langer Piste für den Sichtflug; große Verkehrsjets landen hier nicht. Hauptfriedhof und Messe liegen dagegen wirklich im Brühl. So hat ein Stadtteil mit rund 13.600 Einwohnern einen eigenen Flugplatz, nur eben für kleine Maschinen. Die Lüge war 2.",
+"quelle": "Stadt Freiburg.",
+"faktencheck": "korrigiert",
+"id": "449-bruehl-freiburg/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "großer Stadtteil mit viel Gewerbefläche",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Brühl (Freiburg im Breisgau)",
+"steckbrief": "Freiburger Stadtteil mit rund 13.600 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Brühl?",
+"optionen": [
+"10 km² und mehr",
+"5 bis unter 10 km²",
+"2 bis unter 5 km²",
+"unter 2 km²"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil nur 3 km von der Stadtmitte wirkt eher klein. Brühl misst aber 11,48 km². Dazu gehören das Industriegebiet Nord, der Flugplatz, die Neue Messe und Waldflächen. So verteilen sich die rund 13.600 Einwohner auf viel Fläche, etwa 1.200 je km². Richtig war 1.",
+"quelle": "Wikidata P2046; Einwohner Wikidata P1082, Stand 2024; Einordnung: Wikipedia, de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau)",
+"faktencheck": "bestätigt",
+"id": "449-bruehl-freiburg/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Lokhalle wird Kreativpark",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Brühl (Freiburg im Breisgau)",
+"steckbrief": "Freiburger Stadtteil mit rund 13.600 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Im Süden des Brühl steht eine denkmalgeschützte Lokhalle des früheren Güterbahnhofs. Was ist heute in ihr?",
+"optionen": [
+"Ein Museum zeigt dort alte Dampfloks.",
+"Dort parken die Busse der Verkehrsbetriebe.",
+"Dort wohnen Studierende in kleinen Apartments.",
+"Dort arbeiten Firmen in einem Kreativpark."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer alten Lokhalle denkt man an ein Eisenbahnmuseum. Nach ihrer Sanierung ist in ihr aber ein Kreativpark, in dem Gründer, Firmen und Freiberufler arbeiten; auf dem Gelände sitzen heute mehr als 20 Betriebe. Wer durch den Süden des Brühl fährt, sieht an ihr, wie das alte Bahngelände neu genutzt wird. Richtig war 4.",
+"quelle": "KfW; Stadt Freiburg (FWTM).",
+"faktencheck": "korrigiert",
+"id": "449-bruehl-freiburg/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Pharmawerk eines Weltkonzerns",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Brühl (Freiburg im Breisgau)",
+"steckbrief": "Freiburger Stadtteil mit rund 13.600 Einwohnern, 3 km nördlich der Stadtmitte.",
+"frage": "Welches dieser vier Werke gibt es im Brühl?",
+"optionen": [
+"eine Zuckerfabrik",
+"ein Zementwerk",
+"ein Pharmawerk",
+"eine Glashütte"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Zuckerfabrik klingt nach flachem Land und liegt nahe. Im Industriegebiet Nord stellt aber Pfizer Manufacturing Deutschland Pharmazeutika her, daneben sitzt dort der Microchiphersteller TDK-Micronas. So liegt im Brühl Industrie nur 3 km von der Freiburger Stadtmitte entfernt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Brühl_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "449-bruehl-freiburg/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "448-zaehringen",
+"anschluss": [
+"Brühl hat mehr als dreimal so viel Fläche wie Zähringen.",
+"Brühl hat gut 4.000 Einwohner mehr als Zähringen."
+],
+"anschluesse": {
+"448-zaehringen": [
+"Brühl hat mehr als dreimal so viel Fläche wie Zähringen.",
+"Brühl hat gut 4.000 Einwohner mehr als Zähringen."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Flacher Stadtteil im Freiburger Norden, 245 Meter hoch, 11,48 km² groß, mit den Hügeln Wolfsbuck und Eichelbuck."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Entstanden ab Ende des 19. Jahrhunderts durch die Industrialisierung; die Kirche St. Konrad wurde 1930 gebaut."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 13.600 Einwohner; im Industriegebiet Nord sitzen Cerdia, Pfizer, TDK-Micronas und Badenova, dazu IKEA, Möbel Braun, XXXLutz."
+},
+{
+"facette": "FREIZEIT",
+"text": "Stadion des SC Freiburg, Kino Kandelhof, Kletterhalle Eiger Nord, PEAC Museum, Braukollektiv und der Breisgau-Radwanderweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Freiburg Messe/Universität, Neue Messe, Flugplatz, Technische Fakultät der Universität, Hauptfriedhof, Stadtbahnlinien 2 und 4."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lagen in ganz Freiburg die Grünen vor der CDU, die Wahlbeteiligung betrug 85,7 Prozent."
+}
+],
+"km_vom_vorigen": 1.0
+},
+{
+"slug": "450-oberau",
+"name": "Oberau",
+"lat": 47.99056,
+"lon": 7.86556,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "Brauerei beherrscht das Stadtteilbild",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberau",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 6.800 Einwohnern, 1 km südöstlich der Stadtmitte.",
+"frage": "Ein großer Gewerbebetrieb prägt bis heute das Bild der Oberau. Was für einer?",
+"optionen": [
+"Es ist eine Papierfabrik an der Dreisam.",
+"Es ist eine Brauerei mit Mälzerei.",
+"Es ist ein Sägewerk mit großem Holzlager.",
+"Es ist eine Ziegelei mit hohem Kamin."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Fluss wie die Dreisam lässt an Mühlen, Säge- oder Papierwerke denken. Das Bild der Oberau prägt aber die Privatbrauerei Ganter. 2021 verkaufte die Familie ein Drittel des Areals für Mietwohnungen. Der Westteil mit Mälzerei, Kesselhaus, Villa und Biergarten bleibt in Familienbesitz. Richtig war 2. /",
+"quelle": "Badische Zeitung, badische-zeitung.de/auf-teilen-des-ganter-areals-sollen-mietwohnungen-entstehen",
+"faktencheck": "korrigiert",
+"id": "450-oberau/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Scheibenschlagen am Hirzberg",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberau",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 6.800 Einwohnern, 1 km südöstlich der Stadtmitte.",
+"frage": "Am Hirzberg über der Oberau gibt es am Sonntag nach der Fasnet einen Brauch. Welchen?",
+"optionen": [
+"Narren fahren mit Hornschlitten den Hang hinab.",
+"Am Gipfel wird der Narrenbaum gefällt.",
+"Die Narren springen in die Dreisam.",
+"Am Hang wird Scheibenschlagen gepflegt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Hornschlitten und Narrenbäume kennt man aus vielen Fasnetsorten im Schwarzwald, darum liegen sie nahe. Am Hirzberg aber schlägt die Zunft der Fasnetrufer seit 1956 am Funkensonntag Scheiben: Glühende Holzscheiben werden mit Stöcken hinaus in die Nacht geschlagen. So nah an der Freiburger Stadtmitte lebt ein Dorfbrauch weiter. Richtig war 4. /",
+"quelle": "Badische Zeitung, badische-zeitung.de/rainer-frauenhoffer-scheibenschlagen-ist-immer-eine-gaudi",
+"faktencheck": "korrigiert",
+"id": "450-oberau/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Musikhochschule auf früherer Stadtgärtnerei",
+"rang": 6,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Oberau",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 6.800 Einwohnern, 1 km südöstlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in der Oberau?",
+"optionen": [
+"eine Musikhochschule",
+"einen Bahnhof",
+"ein Krankenhaus",
+"ein Museum"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Einen Bahnhof oder ein Museum würde man so nah an der Stadtmitte eher erwarten. Am Ostrand der Oberau steht aber seit den 1980er-Jahren die Hochschule für Musik Freiburg, auf dem Gelände der früheren Stadtgärtnerei. Wo einst Pflanzen für die Stadt wuchsen, üben heute Studierende aus aller Welt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "450-oberau/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Reben auf Gneis über dem Stadtteil",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberau",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 6.800 Einwohnern, 1 km südöstlich der Stadtmitte.",
+"frage": "Die Reben am Schlossberg über der Oberau stehen in reiner Südlage. Worin wurzeln sie?",
+"optionen": [
+"Sie wurzeln in Vulkangestein wie am Kaiserstuhl.",
+"Sie wurzeln in verwittertem Gneis.",
+"Sie wurzeln in rotem Buntsandstein.",
+"Sie wurzeln in Muschelkalk eines urzeitlichen Meers."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Beim Breisgau denkt man zuerst an die Vulkanböden des Kaiserstuhls. Am Schlossberg wurzeln die Reben aber in verwittertem Gneis. Dazu kommen die Südlage und abends ein kühler Fallwind aus dem Schwarzwald, der Höllentäler. So wächst Wein direkt über einem dicht bewohnten Stadtteil. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "450-oberau/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "alte Häuser mit neuen Zwecken",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oberau",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 6.800 Einwohnern, 1 km südöstlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die evangelische Friedenspfarrei ist älter als ihre Kirche.",
+"Das SWR-Funkhaus der Oberau war früher eine Garnfabrik.",
+"Das Dreikönigshaus der Oberau war früher ein Pfarrhaus."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Name nach den Heiligen Drei Königen klingt nach Kirche, darum wirkt das Pfarrhaus glaubhaft. Doch „Zu den Heiligen Drei Königen“ ist ein typischer Wirtshausname, und das Dreikönigshaus war ein Gasthaus. Heute betreibt dort ein Förderverein einen Essenstreff für bedürftige Menschen, das Haus bewirtet also weiter Gäste. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "450-oberau/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung weit über dem Land",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberau",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 6.800 Einwohnern, 1 km südöstlich der Stadtmitte.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Baden-Württemberg bei 83,4 Prozent. Wie hoch war sie in der Oberau?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 83,4 %",
+"83,4 bis unter 87 %",
+"87 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Wert knapp über dem Land wäre für einen Stadtteil unauffällig. Die Oberau kam aber auf 88,9 Prozent, 5,5 Punkte über dem Landeswert. Gewählt wurde dort vor allem grün: Die Grünen holten 37,5 Prozent, Die Linke wurde mit 18,5 Prozent Zweite. Richtig war 4.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025",
+"faktencheck": "bestätigt",
+"id": "450-oberau/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Konzerthalle im alten Bierlager",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberau",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 6.800 Einwohnern, 1 km südöstlich der Stadtmitte.",
+"frage": "Die Wodan-Halle in der Oberau ist ein Veranstaltungsort für Musik. Was war sie ursprünglich?",
+"optionen": [
+"Sie war eine Reithalle für Militärpferde.",
+"Sie war eine Lagerhalle für Bier.",
+"Sie war ein Depot für Straßenbahnen.",
+"Sie war eine Markthalle für Gemüse."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Göttername wie Wodan lässt an Militär oder Turnverein denken. Tatsächlich lagerte hier die Brauerei Ganter ihr Bier. Heute klingen in der alten Bierlager-Halle Folk, Rock und Jazz, aus dem Erbe des Brauereibetriebs ist ein Ort für Musik geworden. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Oberau_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "450-oberau/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "449-bruehl-freiburg",
+"anschluss": [
+"Brühl hat rund doppelt so viele Einwohner wie die Oberau.",
+"Brühls Fläche ist neunmal so groß wie die der Oberau."
+],
+"anschluesse": {
+"449-bruehl-freiburg": [
+"Brühl hat rund doppelt so viele Einwohner wie die Oberau.",
+"Brühls Fläche ist neunmal so groß wie die der Oberau."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 1 km südöstlich der Stadtmitte, an der Dreisam, unter Schlossberg und Hirzberg; rund 6.800 Einwohner auf 1,28 km²."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals erwähnt 1302 als „In der oberun ouwe“; Gesindehaus und Gasthaus zum Stahl entstanden um 1700."
+},
+{
+"facette": "ALLTAG",
+"text": "Privatbrauerei Ganter mit Mälzereiturm; Einkaufszentrum ZO am Alten Messplatz an der Grenze zur Oberwiehre."
+},
+{
+"facette": "FREIZEIT",
+"text": "Dreisamtal-Radwanderweg, Südschwarzwald-Radweg, Zähringer-Wanderweg, Breisgauer Weinweg, Planetenweg, Himmelreich-Jakobusweg; Aussicht am Kleinen Kanonenplatz; Denkmal Sternschanze."
+},
+{
+"facette": "INFRA",
+"text": "Straßenbahnlinie 1 entlang der Schwarzwaldstraße, B 31 am Südwestrand, SWR-Landesstudio, Deutsch-Französisches Gymnasium; Postleitzahl 79102, Vorwahl 0761."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: Grüne 37,5 Prozent vor Linke 18,5, SPD 15,3 und CDU 14,9 Prozent."
+}
+],
+"km_vom_vorigen": 4.2
+},
+{
+"slug": "451-haslach-freiburg",
+"name": "Haslach",
+"lat": 47.99056,
+"lon": 7.82028,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "eigenes Hallenbad im Stadtteil",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Haslach",
+"steckbrief": "Freiburger Stadtteil mit gut 22.000 Einwohnern, 2 km westlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Haslach?",
+"optionen": [
+"ein Hallenbad",
+"eine Seilbahn",
+"einen Skilift",
+"einen Jachthafen"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Haslach hat ein eigenes Hallenbad: das Gartenhallenbad Haslach. Eine Seilbahn lag nahe, weil Freiburg mit der Schauinslandbahn eine hat; die fährt aber am Schauinsland, nicht im flachen Westen der Stadt. Für einen Stadtteil mit gut 22.000 Einwohnern ist ein eigenes Bad viel wert: Zum Schwimmen muss man nicht quer durch die Stadt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Haslach_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "451-haslach-freiburg/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Name aus Hasel und Bach",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haslach",
+"steckbrief": "Stadtteil im Westen Freiburgs mit gut 22.000 Einwohnern.",
+"frage": "Woher hat Haslach seinen Namen?",
+"optionen": [
+"Von Hasen, die an einer Lache lebten.",
+"Von Haselsträuchern an einem Wasserlauf.",
+"Von einem Siedler namens Hasso.",
+"Von einem alten Wort für Sumpfland."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name verbindet zwei alte Wörter: „Hasala“ für die Haselnussstaude und „Aha“ für ein Fließgewässer. Die Hasen an der Lache liegen nahe, weil der heutige Name genau so klingt. Wer durch Haslach fährt, kann sich das ursprüngliche Bild denken: Haselbüsche an einem Bach, lange bevor hier ein Stadtteil entstand. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Haslach_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "451-haslach-freiburg/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Erinnerung an Käthe Vordtriede",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Haslach",
+"steckbrief": "Freiburger Stadtteil mit gut 22.000 Einwohnern, rund 2 km westlich der Innenstadt.",
+"frage": "Welches dieser vier Dinge findet man in Haslach?",
+"optionen": [
+"eine historische Wassermühle",
+"eine Kurklinik",
+"ein Stolperstein für eine Journalistin",
+"ein Aussichtsberg"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Vor dem Haus Fichtestraße 4 in der Gartenstadt liegt ein Stolperstein für Käthe Vordtriede. Die jüdische Journalistin wurde von den Nazis verfolgt und musste mit ihren Kindern emigrieren. Eine Mühle lag nahe, weil viele alte Dörfer eine hatten. Mitten im Wohnviertel erinnert so ein kleiner Stein an große Geschichte; ein Bürgerprojekt, das Vordtriede-Haus, hält sie wach. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Haslach_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "451-haslach-freiburg/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Dreisam am Nordrand",
+"rang": 10,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haslach",
+"steckbrief": "Freiburger Stadtteil mit gut 22.000 Einwohnern.",
+"frage": "Haslach liegt im Westen Freiburgs. Welcher Fluss begleitet den Stadtteil am nördlichen Rand?",
+"optionen": [
+"Am Nordrand fließt die Elz.",
+"Am Nordrand fließt der Rhein.",
+"Am Nordrand fließt die Kinzig.",
+"Am Nordrand fließt die Dreisam."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Dreisam fließt am nördlichen Rand von Haslach. Die Kinzig lag nahe, denn an ihr liegt Haslach im Kinzigtal, ein anderer Ort gleichen Namens. Der Fluss gibt dem Stadtteil eine Kante: Am Ufer entlang führt der Radweg FR 1 nach Lehen und an der Innenstadt vorbei bis Littenweiler. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Haslach_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "451-haslach-freiburg/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Freiburgs einzige Gesamtschule",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Haslach",
+"steckbrief": "Stadtteil mit gut 22.000 Einwohnern, 2 km westlich der Freiburger Stadtmitte.",
+"frage": "Manche Einrichtungen gibt es in Freiburg nur ein einziges Mal. Welche davon steht in Haslach?",
+"optionen": [
+"die Gesamtschule",
+"das Universitätsklinikum",
+"der Hauptbahnhof",
+"der Flugplatz"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In Haslach steht die Staudinger-Gesamtschule, die einzige Gesamtschule Freiburgs, benannt nach dem Nobelpreisträger Hermann Staudinger. Der Hauptbahnhof lag nahe, weil die Stadtmitte nur zwei Kilometer entfernt ist. Auch ein Stadion und eine Sporthalle im Stadtteil tragen Staudingers Namen; zu den bekannten Absolventinnen der Schule zählt Judith Holofernes. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Haslach_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "451-haslach-freiburg/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "älteste evangelische Kirche Freiburgs",
+"rang": 2,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Haslach",
+"steckbrief": "Westlicher Freiburger Stadtteil mit gut 22.000 Einwohnern.",
+"frage": "Drei Aussagen über die St. Galluskirche in Haslach. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Sie ist seit jeher katholisch geblieben.",
+"Ihr Turm stammt aus spätromanischer Zeit.",
+"Der Kirchensatz lag einst beim Kloster St. Märgen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war das Katholische: Seit 1556 ist Haslach eine evangelische Pfarrei. Die Falle war der Heiligenname, der katholisch klingt. Den Kirchensatz hielt einst das Kloster St. Märgen. Später war die Pfarrei Haslach sogar für die Evangelischen in der Stadt Freiburg zuständig, und ihr spätromanischer Turm zeigt noch das Mittelalter. Die Lüge war 1.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7715/Haslach",
+"faktencheck": "korrigiert",
+"id": "451-haslach-freiburg/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht besiedelter Großstadtteil",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Haslach",
+"steckbrief": "Freiburger Stadtteil mit gut 22.000 Einwohnern, 2 km westlich der Stadtmitte.",
+"frage": "Wie viele Menschen wohnen in Haslach durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 2.500",
+"2.500 bis unter 5.500",
+"5.500 bis unter 8.000",
+"8.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rund 6.520 Menschen leben in Haslach auf jedem Quadratkilometer. Weniger lag nahe, weil man bei Freiburg zuerst an Schwarzwald und Altstadt denkt. Gut 22.000 Einwohner teilen sich 3,42 Quadratkilometer – so dicht wohnt man sonst eher in Innenstädten. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2024) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "451-haslach-freiburg/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Gartenstadt mit Selbstversorger-Gärten",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haslach",
+"steckbrief": "Stadtteil im Westen Freiburgs mit gut 22.000 Einwohnern.",
+"frage": "Die Gartenstadt Haslach besteht aus Reihenhäusern mit großen Gärten. Nach wessen Vorbild wurde sie gebaut?",
+"optionen": [
+"Vorbild waren die Ideen von Ebenezer Howard.",
+"Vorbild war Le Corbusiers Idee der Wohnmaschine.",
+"Vorbild war Walter Gropius mit dem Bauhaus.",
+"Vorbild war Haussmanns Umbau von Paris."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Vorbild war Ebenezer Howard mit seiner Idee der Gartenstadt. Le Corbusier lag nahe, weil sein Name für moderne Siedlungen steht – doch hier ging es um Gärten: Die Bewohner sollten sich selbst versorgen. Die Siedlung steht unter Denkmalschutz und prägt den Stadtteil bis heute; beim Vorbeifahren erkennt man sie an den Reihenhäusern mit großen Gärten. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Haslach_(Freiburg_im_Breisgau)",
+"faktencheck": "bestätigt",
+"id": "451-haslach-freiburg/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "drei Hochhäuser namens Drei Musketiere",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haslach",
+"steckbrief": "Freiburger Stadtteil mit gut 22.000 Einwohnern, 2 km westlich der Stadtmitte.",
+"frage": "Am Ostende der Gartenstadt stehen drei Hochhäuser aus Ziegeln. Wie nennt man sie in Haslach?",
+"optionen": [
+"Man nennt sie die Drei Zinnen.",
+"Man nennt sie die Drei Musketiere.",
+"Man nennt sie die Heiligen Drei Könige.",
+"Man nennt sie die Drei Schwestern."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Volksmund heißen die drei Ziegelbauten die Drei Musketiere. Die Drei Zinnen lagen nahe, weil man hohe Häuser gern nach Bergen benennt. Zwischen Schönberg- und Eschholzstraße stehen sie neben den Reihenhäusern der Gartenstadt; an dem Trio erkennt man ihr Ostende. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Haslach_(Freiburg_im_Breisgau)",
+"faktencheck": "bestätigt",
+"id": "451-haslach-freiburg/v0.9/9",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Brunnen zur Vereinigung mit Freiburg",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Haslach",
+"steckbrief": "Westlicher Stadtteil Freiburgs mit gut 22.000 Einwohnern.",
+"frage": "Der Haslacher Dorfbrunnen ist dreiseitig gebaut und trägt einen Adler. Woran erinnert er vor allem?",
+"optionen": [
+"Er erinnert an einen großen Dorfbrand.",
+"Er erinnert an eine überstandene Hungersnot.",
+"Er erinnert an Haslachs Vereinigung mit Freiburg.",
+"Er erinnert an die Gefallenen eines Krieges."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Brunnen erinnert an die Vereinigung Haslachs mit Freiburg; die Wappen beider Orte sind darauf zu sehen. Ein Kriegerdenkmal lag nahe, weil der Adler danach aussieht. Einst stand er dort, wo sich die Straßen nach Freiburg, St. Georgen und Opfingen trafen; wegen einer Straßenverbreiterung steht er heute an der Ecke Carl-Kistner- und Uffhauserstraße. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Haslach_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "451-haslach-freiburg/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": "450-oberau",
+"anschluss": [
+"Haslach hat gut dreimal so viele Einwohner wie Oberau.",
+"Haslach ist flächenmäßig gut zweieinhalbmal so groß wie Oberau."
+],
+"anschluesse": {
+"450-oberau": [
+"Haslach hat gut dreimal so viele Einwohner wie Oberau.",
+"Haslach ist flächenmäßig gut zweieinhalbmal so groß wie Oberau."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 2 km westlich der Mitte, an der Dreisam; gut 22.000 Einwohner auf 3,42 Quadratkilometern."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals belegt 786, seit 1890 ein Teil Freiburgs; der Name kommt von Hasel und Bach."
+},
+{
+"facette": "ALLTAG",
+"text": "Hier sitzen Schwarzwaldmilch, das Pressehaus der Badischen Zeitung, die Caritaswerkstätten Sankt Georg und das Industriegebiet Süd."
+},
+{
+"facette": "FREIZEIT",
+"text": "Gartenhallenbad, Staudinger-Stadion, Cala- und Cargo-Theater, das Morat-Institut für Kunst und der Breisgau-Radwanderweg."
+},
+{
+"facette": "INFRA",
+"text": "Straßenbahnlinien 3 und 5, Hochschule Macromedia, Postleitzahlen 79114 und 79115, Vorwahl 0761."
+}
+],
+"km_vom_vorigen": 3.4
+},
+{
+"slug": "452-sankt-georgen",
+"name": "Sankt Georgen",
+"lat": 47.98111,
+"lon": 7.80417,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Name vom Patron der Hartkirche",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sankt Georgen",
+"steckbrief": "Sankt Georgen ist ein Stadtteil von Freiburg im Breisgau mit rund 13.000 Einwohnern, 4 km südwestlich der Stadtmitte.",
+"frage": "Sankt Georgen ist aus den Dörfern Wendlingen und Uffhausen zusammengewachsen. Woher stammt sein heutiger Name?",
+"optionen": [
+"Er ehrt einen Grafen Georg, der Land schenkte.",
+"Siedler brachten ihn aus Sankt Georgen im Schwarzwald mit.",
+"Er stammt von einem Markt am Georgstag.",
+"Er stammt vom Heiligen der alten Hartkirche."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Stifter namens Georg liegt nahe, denn viele Orte heißen nach Gründern oder Grundherren. Der Name stammt aber vom heiligen Georg, dem Patron der alten Hartkirche, die bei der eigenen Siedlung Hartkirch stand. Für den ganzen Ort setzte er sich erst spät durch. Wer heute durch Sankt Georgen fährt, fährt durch alte Dörfer, die ein Kirchenpatron zusammenhält. Richtig war 4.",
+"quelle": "Landesportal, leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7738/Sankt%20Georgen",
+"faktencheck": "korrigiert",
+"id": "452-sankt-georgen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "von Bürgern gerettetes Freibad",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Sankt Georgen",
+"steckbrief": "Sankt Georgen ist ein Stadtteil von Freiburg im Breisgau mit rund 13.000 Einwohnern, 4 km südwestlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Sankt Georgen?",
+"optionen": [
+"ein Freibad",
+"eine Eissporthalle",
+"ein Golfplatz",
+"eine Kartbahn"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Eissporthalle oder ein Golfplatz würden zu einer Großstadt wie Freiburg passen, doch in Sankt Georgen gibt es ein Freibad. Es ist ein Sommerbad am Stadtrand im Freiburger Süden. Für einen Stadtteil mit rund 13.000 Einwohnern ist ein eigenes Freibad nicht selbstverständlich. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Sankt_Georgen_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "452-sankt-georgen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Markgräfler Weinort am Freiburger Stadtrand",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sankt Georgen",
+"steckbrief": "Sankt Georgen ist ein Stadtteil von Freiburg im Breisgau mit rund 13.000 Einwohnern, 4 km südwestlich der Stadtmitte.",
+"frage": "Die Reben von Sankt Georgen wachsen am Westrand des Schönbergs. Zu welchem Weinbaugebiet in Baden zählen sie?",
+"optionen": [
+"Sie gehören zum Kaiserstuhl.",
+"Sie gehören zum Markgräflerland.",
+"Sie gehören zum Tuniberg.",
+"Sie gehören zur Ortenau."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Tuniberg liegt nahe, denn dort wachsen die Reben anderer Freiburger Stadtteile. Die Weinberge von Sankt Georgen am Westrand des Schönbergs zählen aber zum Markgräflerland. Im Ort gibt es mehrere private Weingüter. So beginnt das Markgräflerland schon am Freiburger Stadtrand, und der Weinbau prägt den Ort bis heute. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Sankt_Georgen_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "452-sankt-georgen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Förderturm-Ruine eines Eisenerzbergwerks",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Sankt Georgen",
+"steckbrief": "Sankt Georgen ist ein Stadtteil von Freiburg im Breisgau mit rund 13.000 Einwohnern, 4 km südwestlich der Stadtmitte.",
+"frage": "Südlich von Sankt Georgen erhebt sich der Schönberg. Welches dieser vier Dinge gibt es in Sankt Georgen?",
+"optionen": [
+"eine Brauerei",
+"eine Zuckerfabrik",
+"Reste eines Eisenerzbergwerks",
+"eine Tabakfabrik"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Stadtrand von Freiburg rechnet man eher mit einer Brauerei oder Fabrik als mit Bergbau. Doch am Schönberg wurde von 1937 bis 1942 Eisenerz abgebaut. In Sankt Georgen beim Bahnhof ist das große Mundloch des Förderstollens erhalten, ein Kulturdenkmal mit einem Fresko von Adolf Riedlin, das Bergleute zeigt. Wer an Sankt Georgen nur als Wohnort denkt, übersieht dieses Stück Bergbaugeschichte. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Sankt_Georgen_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "452-sankt-georgen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Stadtteil von der Größe einer Kleinstadt",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sankt Georgen",
+"steckbrief": "Sankt Georgen ist ein Freiburger Stadtteil 4 km südwestlich der Stadtmitte mit gut 10 Quadratkilometern Fläche.",
+"frage": "Wie viele Menschen leben in Sankt Georgen?",
+"optionen": [
+"unter 8.000",
+"8.000 bis unter 15.000",
+"15.000 bis unter 25.000",
+"25.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen weniger, weil Sankt Georgen aus alten Dörfern hervorgegangen ist und sich am Stadtrand ausbreitet. Tatsächlich leben hier 12.962 Menschen (Stand 2024). Auf 10,67 Quadratkilometern sind das gut 1.200 je Quadratkilometer: ein Stadtteil von der Größe einer Kleinstadt. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2024; Fläche Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "452-sankt-georgen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Reiterprozession mit Pferdesegnung",
+"rang": 2,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Sankt Georgen",
+"steckbrief": "Sankt Georgen ist ein Stadtteil von Freiburg im Breisgau mit rund 13.000 Einwohnern, 4 km südwestlich der Stadtmitte.",
+"frage": "Sankt Georgen feiert jedes Jahr den Georgsritt. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Beim Georgsritt segnet der Ortspfarrer die Pferde.",
+"Der heilige Georg ist auch Freiburgs Stadtpatron.",
+"Der Georgsritt ist ein Pferderennen um Preisgeld."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Ritt denkt man an Tempo und Sieger. Der Georgsritt ist aber eine Reiterprozession zur Erinnerung an den heiligen Georg, bei der der katholische Ortspfarrer die Pferde segnet. Georg ist zugleich Freiburgs Stadtpatron, zu sehen auf der Außenseite des Schwabentors. Einmal im Jahr wird der Name des Orts so lebendig: als Prozession mit gesegneten Pferden. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Sankt_Georgen_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "452-sankt-georgen/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "451-haslach-freiburg",
+"anschluss": [
+"Sankt Georgen hat gut dreimal so viel Fläche wie Haslach.",
+"Zur Lukaspfarrei in Sankt Georgen gehört auch ein Teil Haslachs."
+],
+"anschluesse": {
+"451-haslach-freiburg": [
+"Sankt Georgen hat gut dreimal so viel Fläche wie Haslach.",
+"Zur Lukaspfarrei in Sankt Georgen gehört auch ein Teil Haslachs."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 4 km südwestlich der Mitte, rund 13.000 Einwohner auf 10,67 km², am Westrand des Schönbergs, Schutzgebiet Rieselfeld."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Aus den Dörfern Wendlingen und Uffhausen zusammengewachsen, benannt nach dem Heiligen der Hartkirche, seit 1938 Teil Freiburgs."
+},
+{
+"facette": "ALLTAG",
+"text": "Weinbau im Markgräflerland mit den Weingütern Paradies und Faber, dazu Northrop Grumman LITEF und das Industriegebiet Süd."
+},
+{
+"facette": "FREIZEIT",
+"text": "Freibad, Georgsritt, Weintage, Georgsbrunnen, DAV-Kletterzentrum, Schönbergstadion, Markgräfler Wiiwegli und Breisgau-Radwanderweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Freiburg-Sankt Georgen an der Rheintalbahn, Militärarchiv des Bundesarchivs, Celenus Fachklinik, Betriebshof der Freiburger Verkehrs AG."
+}
+],
+"km_vom_vorigen": 1.6
+},
+{
+"slug": "453-vauban",
+"name": "Vauban",
+"lat": 47.97583,
+"lon": 7.82472,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Holzdenkmal für Georg Elser",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Vauban",
+"steckbrief": "Freiburger Stadtteil mit gut 5.000 Einwohnern, 3 km südwestlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Vauban?",
+"optionen": [
+"ein Weingut",
+"eine Mühle",
+"ein Denkmal aus Holz",
+"eine Brauerei"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Weingut läge nahe, denn rund um Freiburg wird viel Wein angebaut. Doch in Vauban steht in einer Grünanlage nahe der Georg-Elser-Straße ein Holzdenkmal für den Hitler-Attentäter Georg Elser. Das erste aus Pappelholz verrottete und wurde abgebaut; das neue ist aus Robinienholz. So erinnert ein Stadtteil auf einstigem Kasernengelände der NS-Zeit an einen Mann, der Hitler töten wollte. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "453-vauban/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Name von französischer Kaserne",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vauban",
+"steckbrief": "Freiburger Stadtteil mit gut 5.000 Einwohnern, 3 km südwestlich der Stadtmitte.",
+"frage": "Der Stadtteil trägt einen französischen Namen. Woher hat er ihn?",
+"optionen": [
+"Von einer französischen Partnerstadt Freiburgs.",
+"Von einem französischen Architekten des Stadtteils.",
+"Von einem alten Flurnamen des Geländes.",
+"Von einer Kaserne, die Franzosen umbenannten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Architekt läge nahe, denn bei einem Neubauviertel denkt man an seine Planer. Doch der Name stammt von der Kaserne: Nach dem Zweiten Weltkrieg übernahmen französische Streitkräfte die Schlageter-Kaserne und benannten sie nach dem Festungsbaumeister Vauban um. Er hatte einst um die Freiburger Altstadt eine Festung gebaut. So trägt ein Viertel auf ehemaligem Militärgelände den Namen eines Franzosen, der Freiburg schon einmal prägte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/208760.html; www.freiburg.de/pb/231015.html",
+"faktencheck": "korrigiert",
+"id": "453-vauban/v0.9/2",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "autofreies Wohnen, von Bürgern durchgesetzt",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vauban",
+"steckbrief": "Freiburger Stadtteil mit gut 5.000 Einwohnern, 3 km südwestlich der Stadtmitte.",
+"frage": "Vauban hat ein autofreies Verkehrskonzept. Wer trieb es bei der Planung des Stadtteils voran?",
+"optionen": [
+"Ein Autohersteller, der Carsharing testen wollte.",
+"Ein Bürgerverein im Rahmen der Bürgerbeteiligung.",
+"Die französische Armee beim Abzug vom Gelände.",
+"Ein Gericht nach einer Klage wegen Verkehrslärm."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Autohersteller klingt modern, denn Firmen testen gern neue Mobilität. Doch es war das Forum Vauban: Dieser Bürgerverein trug die Bürgerbeteiligung bei der Planung. Autofreies Wohnen ohne Stellplätze im Gebiet war sein erklärtes Ziel, über das er mit der Stadtverwaltung verhandelte. So prägt eine Bürgeridee den Alltag von gut 5.000 Menschen: Eigene Stellplätze am Haus sieht das Konzept nicht vor. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "453-vauban/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Dorfbach als Biotop erhalten",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vauban",
+"steckbrief": "Freiburger Stadtteil mit gut 5.000 Einwohnern, 3 km südwestlich der Stadtmitte.",
+"frage": "Durch Vauban fließt der Dorfbach. Was sah die Planung des Stadtteils für ihn vor?",
+"optionen": [
+"Er sollte unter die Straßen verrohrt werden.",
+"Er sollte zu einem Badeweiher aufgestaut werden.",
+"Er sollte als Biotop erhalten bleiben.",
+"Er sollte für mehr Bauland umgeleitet werden."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Verrohren läge nahe, denn in dicht bebauten Vierteln verschwinden Bäche oft unter der Straße. Doch die Planung gab vor, das Biotop St. Georgener Dorfbach zu erhalten, ebenso den Baumbestand. So bleibt der Bach ein Stück Natur mitten im dicht bebauten Viertel. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/208760.html",
+"faktencheck": "korrigiert",
+"id": "453-vauban/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Baugruppen statt Großinvestor",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Vauban",
+"steckbrief": "Freiburger Stadtteil mit gut 5.000 Einwohnern, 3 km südwestlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Studierende zogen in umgebaute Gebäude der alten Kaserne.",
+"Viele Familien bauten in Baugruppen mit viel Eigenleistung.",
+"Ein einziger Investor bebaute das ganze Kasernengelände neu."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Großinvestor klingt plausibel, denn so entstehen viele Neubauviertel. Doch die Stadt Freiburg kaufte den Großteil des Geländes, beteiligt waren das Studentenwerk und die Initiative S.U.S.I., die alte Kasernenbauten günstig und mit viel Eigenarbeit umnutzte. So stehen in Vauban umgebaute Kasernen neben Häusern, die Familien gemeinsam in Baugruppen errichtet haben. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/208760.html",
+"faktencheck": "korrigiert",
+"id": "453-vauban/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "fast alle gehen wählen",
+"rang": 2,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Vauban",
+"steckbrief": "Freiburger Stadtteil mit gut 5.000 Einwohnern, 3 km südwestlich der Stadtmitte.",
+"frage": "Bei der Bundestagswahl 2025 gingen in Baden-Württemberg 83,4 Prozent wählen. Wie hoch war die Wahlbeteiligung in Vauban?",
+"optionen": [
+"90 Prozent oder mehr",
+"85 bis unter 90 Prozent",
+"80 bis unter 85 Prozent",
+"unter 80 Prozent"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Wert um den Landesschnitt wäre naheliegend, denn Stadtteile weichen selten weit ab. Doch in Vauban gingen 92,6 Prozent wählen, gut neun Punkte mehr als im Land. Die Grünen kamen auf 46,3 Prozent, die Linke auf 27,1 Prozent. Fast jede und jeder Wahlberechtigte ging also hin. Richtig war 1.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025",
+"faktencheck": "bestätigt",
+"id": "453-vauban/v0.9/7",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Solarsiedlung mit Energieüberschuss",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vauban",
+"steckbrief": "Freiburger Stadtteil mit gut 5.000 Einwohnern, 3 km südwestlich der Stadtmitte.",
+"frage": "An der Merzhauser Straße steht die Solarsiedlung mit 50 Reihenhäusern und neun Penthäusern. Wofür sind diese Häuser gebaut?",
+"optionen": [
+"Sie sollen genau so viel erzeugen, wie sie verbrauchen.",
+"Sie sollen mehr Energie erzeugen, als sie verbrauchen.",
+"Sie sollen knapp die Hälfte ihres Energiebedarfs decken.",
+"Sie sollen ihre gesamte Energie aus dem Netz beziehen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine ausgeglichene Bilanz klingt schon ehrgeizig, denn die meisten Häuser beziehen ihre Energie aus dem Netz. Doch die Solarsiedlung besteht aus Plusenergiehäusern: Sie sind darauf ausgelegt, mehr Energie zu gewinnen, als sie verbrauchen. Möglich machen das große Dächer mit Solarmodulen auf allen Häusern. So steht in Vauban ein Wohnviertel, das unterm Strich Energie übrig haben soll. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Vauban_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "453-vauban/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "452-sankt-georgen",
+"anschluss": [
+"Vauban liegt auf der Gemarkung von Sankt Georgen.",
+"Sankt Georgen ist flächenmäßig etwa 26-mal so groß wie Vauban."
+],
+"anschluesse": {
+"452-sankt-georgen": [
+"Vauban liegt auf der Gemarkung von Sankt Georgen.",
+"Sankt Georgen ist flächenmäßig etwa 26-mal so groß wie Vauban."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 3 km südwestlich der Mitte, 255 bis 260 Meter hoch, nur 0,41 Quadratkilometer groß, vom Dorfbach durchflossen."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Früher eine Kaserne, zuletzt der französischen Armee; seit Ende der 1990er Jahre ein Wohnviertel mit dem Namen Vauban."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 5.000 Einwohner, über 12.500 je Quadratkilometer; viele Familien mit Kindern, dazu Studierende in alten Kasernenbauten."
+},
+{
+"facette": "FREIZEIT",
+"text": "Kletteranlage Kletterkartoffel, Georg-Elser-Denkmal, Südschwarzwald-Radweg und Himmelreich-Jakobusweg, dazu drei Grünzüge in Nord-Süd-Richtung."
+},
+{
+"facette": "INFRA",
+"text": "Straßenbahnlinie 4 mit drei Haltestellen, Radvorrangrouten zur Innenstadt, Karoline-Kaspar-Grundschule; Postleitzahl 79100, Vorwahl 0761."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lagen die Grünen mit 46,3 Prozent vorn, die Linke kam mit 27,1 Prozent auf Platz zwei."
+}
+],
+"km_vom_vorigen": 1.6
+},
+{
+"slug": "454-weingarten-freiburg",
+"name": "Weingarten",
+"lat": 47.99444,
+"lon": 7.81,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "drei Hektar See im dichten Stadtteil",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weingarten",
+"steckbrief": "Freiburger Stadtteil mit knapp 12.000 Einwohnern, 3 km westlich der Stadtmitte.",
+"frage": "Weingartens Naherholungsgebiet ist der Dietenbachpark mit Sportanlagen, Abenteuerspielplatz und einem See. Wie groß ist der See?",
+"optionen": [
+"Der See misst rund einen halben Hektar.",
+"Der See misst rund drei Hektar.",
+"Der See misst rund fünfzehn Hektar.",
+"Der See misst rund vierzig Hektar."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In einem so dicht bebauten Stadtteil erwartet man eher einen kleinen Zierteich, deshalb liegt die kleinste Schätzung nahe. Der See im Dietenbachpark misst aber drei Hektar, dazu kommen Sportanlagen und ein Abenteuerspielplatz. Bei gut 7.200 Einwohnern je Quadratkilometer ist der Park für Weingarten der große Freiraum vor der Haustür. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "454-weingarten-freiburg/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Stadtteilkirche nach Brand neu gestaltet",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weingarten",
+"steckbrief": "Stadtteil im Westen Freiburgs, knapp 12.000 Einwohner, 3 km von der Stadtmitte.",
+"frage": "Die katholische St.-Andreas-Kirche in Weingarten bekam einen neu gestalteten Chorraum. Was war der Anlass?",
+"optionen": [
+"Ein Sturm hatte das Kirchendach abgedeckt.",
+"Ein Hochwasser hatte die Kirche überflutet.",
+"Ein Brand hatte die Kirche getroffen.",
+"Ein Erdbeben hatte Risse im Mauerwerk verursacht."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Sturmschaden liegt nahe, denn bei Kirchen leidet das Dach bei Unwettern oft als Erstes. Tatsächlich hatte ein Brand die Kirche getroffen; 1992 bis 1994 gestaltete der Bildhauer Franz Gutmann den Chorraum neu. Die zeltartige Kirche ohne Turm entstand 1968–1969; die Gemeinde, seit 1965 Kuratie, wurde 1975 eigenständige Pfarrei. Richtig war 3.",
+"quelle": "Pfarrei St. Andreas, kath-freiburg-suedwest.de; Badische Zeitung",
+"faktencheck": "korrigiert",
+"id": "454-weingarten-freiburg/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Holzhochhaus zwischen den Hochhäusern",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weingarten",
+"steckbrief": "Freiburger Stadtteil mit knapp 12.000 Einwohnern, 3 km westlich der Stadtmitte.",
+"frage": "Am Else-Liefmann-Platz in Weingarten steht ein Wohnhaus mit sieben Obergeschossen. Woraus sind diese Obergeschosse gebaut?",
+"optionen": [
+"Sie sind aus Stahl und Glas.",
+"Sie sind aus gestapelten Schiffscontainern.",
+"Sie sind aus Recyclingbeton.",
+"Sie sind aus Holz."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei sieben Obergeschossen denkt man an Beton oder Stahl, denn so werden hohe Häuser meist gebaut. Doch die Obergeschosse sind aus Holz, sogar Treppenhaus und Aufzugsschacht; nur Untergeschoss und Sockel sind aus Beton. Zwischen den vielen Hochhäusern, die Weingarten prägen, zeigt das Haus, wie hoch man heute mit Holz bauen kann. Richtig war 4.",
+"quelle": "Stuttgarter Zeitung, 13.7.2021; Baunetz Wissen",
+"faktencheck": "korrigiert",
+"id": "454-weingarten-freiburg/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "von Fluss, Bahn und Straßen eingefasst",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weingarten",
+"steckbrief": "Freiburger Stadtteil mit knapp 12.000 Einwohnern, 3 km westlich der Stadtmitte.",
+"frage": "Weingarten hat ringsum deutliche Grenzen. Was trennt den Stadtteil im Norden von Betzenhausen?",
+"optionen": [
+"Der Fluss Dreisam bildet dort die Grenze.",
+"Die Güterbahnlinie bildet dort die Grenze.",
+"Die Opfinger Straße bildet dort die Grenze.",
+"Die Tel-Aviv-Yafo-Allee bildet dort die Grenze."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Güterbahnlinie liegt nahe, weil Bahntrassen Stadtteile oft scharf trennen; sie bildet aber die Ostgrenze zu Haslach. Im Norden fließt die Dreisam zwischen Weingarten und Betzenhausen. Im Süden trennt die Opfinger Straße, im Westen die Tel-Aviv-Yafo-Allee zum Rieselfeld. So ist Weingarten auf gut 1,6 Quadratkilometern von Fluss, Bahn und zwei Straßen eingefasst. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "454-weingarten-freiburg/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Hochschule im Wohnstadtteil",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weingarten",
+"steckbrief": "Freiburger Stadtteil mit knapp 12.000 Einwohnern, 3 km westlich der Stadtmitte.",
+"frage": "In Weingarten hat eine Hochschule ihren Standort. Welche Ausrichtung hat sie?",
+"optionen": [
+"Sie ist eine katholische Hochschule.",
+"Sie ist eine evangelische Hochschule.",
+"Sie ist eine Hochschule der Polizei.",
+"Sie ist eine private Musikhochschule."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine katholische Hochschule liegt nahe, weil man im Süden Deutschlands eher katholische Einrichtungen erwartet. Es ist aber die Evangelische Hochschule Freiburg; Weingarten ist ihr Standort. Damit hat ein Wohnstadtteil mit knapp 12.000 Einwohnern eine eigene Hochschule, die man eher in der Innenstadt vermuten würde. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "454-weingarten-freiburg/v0.9/5",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung weit unter dem Landeswert",
+"rang": 2,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weingarten",
+"steckbrief": "Dicht bebauter Freiburger Stadtteil mit knapp 12.000 Einwohnern, 3 km westlich der Stadtmitte.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Baden-Württemberg bei 83,4 Prozent. Wie hoch war sie in Weingarten?",
+"optionen": [
+"über 83,4 %",
+"77 % bis 83,4 %",
+"72 % bis unter 77 %",
+"unter 72 %"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil einer Universitätsstadt lässt eine Beteiligung über dem Landeswert erwarten. In Weingarten gingen aber nur 70,7 Prozent wählen, 12,7 Punkte unter dem Landeswert. Stärkste Kraft wurde in dem dicht bebauten Stadtteil die AfD mit 22,7 Prozent. Richtig war 4.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23; Bundeswahlleiterin, Bundestagswahl 2025",
+"faktencheck": "bestätigt",
+"id": "454-weingarten-freiburg/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "453-vauban",
+"anschluss": [
+"Weingarten hat mehr als doppelt so viele Einwohner wie Vauban.",
+"2025 gewannen in Vauban die Grünen, in Weingarten die AfD."
+],
+"anschluesse": {
+"453-vauban": [
+"Weingarten hat mehr als doppelt so viele Einwohner wie Vauban.",
+"2025 gewannen in Vauban die Grünen, in Weingarten die AfD."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 3 km westlich der Mitte, gut 1,6 Quadratkilometer groß, rund 250 Meter hoch, im Norden die Dreisam."
+},
+{
+"facette": "GESCHICHTE",
+"text": "In den 1960er-Jahren von der Freiburger Stadtbau gebaut; die katholische St.-Andreas-Kirche wurde nach einem Brand neu gestaltet."
+},
+{
+"facette": "ALLTAG",
+"text": "Knapp 12.000 Einwohner, über 7.000 je Quadratkilometer, viele Hochhäuser; Einkaufszentrum an der Krozinger Straße, ein Fernheizwerk."
+},
+{
+"facette": "FREIZEIT",
+"text": "Dietenbachpark mit See, Dirtpark, Klimagarten, Tennisclub und Freiburger Fußball-Club; der Breisgau-Radwanderweg führt hindurch."
+},
+{
+"facette": "INFRA",
+"text": "Straßenbahn seit 1994, Evangelische Hochschule, Adolf-Reichwein-Schule und AWO-Seniorenzentrum."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die AfD vorn, die Wahlbeteiligung lag bei 70,7 Prozent."
+}
+],
+"km_vom_vorigen": 2.3
+},
+{
+"slug": "455-betzenhausen",
+"name": "Betzenhausen",
+"lat": 48.0083,
+"lon": 7.81667,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Internierungslager für NS-Funktionäre",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Betzenhausen",
+"steckbrief": "Freiburger Stadtteil mit rund 15.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "Von 1945 bis 1948 hielt die französische Besatzung in Betzenhausen Menschen in einem Lager fest. Wer war das?",
+"optionen": [
+"Ehemalige Nationalsozialisten, die entnazifiziert werden sollten.",
+"Befreite Zwangsarbeiter vor der Heimkehr.",
+"Französische Kollaborateure vor ihrem Prozess.",
+"Französische Soldatenfamilien in Baracken."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Lager für befreite Zwangsarbeiter gab es nach dem Krieg vielerorts, darum liegt das nahe. In Betzenhausen hielt die französische Militärverwaltung aber NS-belastete Männer und Frauen aus Südbaden fest, vor allem Parteifunktionäre und SS-Angehörige, bis über sie entschieden war. Danach wurden die Baracken zum Durchgangslager für Flüchtlinge. Richtig war 1.",
+"quelle": "Landesarchiv Baden-Württemberg, Staatsarchiv Freiburg, Bestand E 130/1",
+"faktencheck": "korrigiert",
+"id": "455-betzenhausen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Seepark auf ehemaligem Baggersee",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Betzenhausen",
+"steckbrief": "Stadtteil im Nordwesten Freiburgs, rund 15.500 Einwohner, 3 km von der Stadtmitte.",
+"frage": "Im Seepark von Betzenhausen liegt ein See. Wie ist er entstanden?",
+"optionen": [
+"Er ist ein alter Seitenarm der Dreisam.",
+"Er ist ein ehemaliger Baggersee.",
+"Er war früher der Fischweiher eines Klosters.",
+"Er entstand als Becken gegen Hochwasser."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Dreisam fließt durch Betzenhausen, ein alter Flussarm liegt also nahe. Der See ist aber ein ehemaliger Baggersee, der Flückigersee. Zur Landesgartenschau Baden-Württemberg entstand um ihn der Seepark. So bekam der dicht besiedelte Stadtteil mit rund 15.500 Einwohnern ein großzügiges Naherholungsgebiet, mit dem Seeparkturm als Aussichtspunkt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Betzenhausen; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "455-betzenhausen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Bischofslinde größer als das alte Dorf",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Betzenhausen",
+"steckbrief": "Freiburger Stadtteil mit rund 15.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "Betzenhausen besteht aus Alt-Betzenhausen im Westen und Bischofslinde im Osten. Wie verteilen sich die Einwohner?",
+"optionen": [
+"In Alt-Betzenhausen leben die meisten Einwohner.",
+"Beide Teile haben ungefähr gleich viele Einwohner.",
+"Bischofslinde hat etwa doppelt so viele Einwohner.",
+"Bischofslinde hat etwa fünfmal so viele Einwohner."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name Alt-Betzenhausen klingt nach dem eigentlichen Ort, deshalb vermutet man dort die meisten Menschen. Doch in Betzenhausen-Bischofslinde leben rund 10.300 Menschen, in Alt-Betzenhausen rund 5.200. Aus der einstigen Landgemeinde ist so ein Stadtteil mit rund 15.500 Einwohnern geworden, dessen größerer Teil im Osten liegt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Betzenhausen",
+"faktencheck": "unsicher",
+"id": "455-betzenhausen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "größtes Studentenwohnheim Freiburgs",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Betzenhausen",
+"steckbrief": "Stadtteil im Freiburger Nordwesten, rund 15.500 Einwohner, 3 km von der Stadtmitte.",
+"frage": "In Betzenhausen steht eine große Wohnanlage, die kurz „StuSie“ heißt. Wofür steht die Abkürzung?",
+"optionen": [
+"Sie steht für Sundgau-Siedlung, nach der Sundgauallee.",
+"Sie steht für Stadtrand-Siedlung im Freiburger Westen.",
+"Sie steht für Stufen-Siedlung, wegen der Terrassenhäuser.",
+"Sie steht für Studentensiedlung des Studierendenwerks."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Sundgauallee führt durch den Stadtteil, das macht die Sundgau-Siedlung verlockend. Gemeint ist aber die Studentensiedlung am Seepark, die als größte Wohnanlage des Studierendenwerks Freiburg gilt. Damit ist Betzenhausen mit seinen rund 15.500 Einwohnern eine wichtige Adresse für studentisches Wohnen in Freiburg. Richtig war 4.",
+"quelle": "Universität Freiburg, ayf.uni-freiburg.de; Wikipedia",
+"faktencheck": "korrigiert",
+"id": "455-betzenhausen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kaiser zieht Grafengut ein, Kloster Einsiedeln",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Betzenhausen",
+"steckbrief": "Freiburger Stadtteil mit rund 15.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "Erstmals belegt ist Betzenhausen 972 in einer Urkunde. Woher stammte der Besitz, um den es darin ging?",
+"optionen": [
+"Er war einem Grafen weggenommen worden.",
+"Ein reicher Bauer hatte ihn dem Kaiser verkauft.",
+"Ein Bischof hatte ihn der Kirche vererbt.",
+"Mönche hatten das Land selbst urbar gemacht."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei alten Urkunden denkt man an fromme Stifter oder fleißige Mönche. Hier aber gehörte der Ort zum konfiszierten Besitz des Grafen Guntram, den Kaiser Otto I. an das Kloster Einsiedeln gab. So beginnt die schriftliche Geschichte des heutigen Stadtteils mit rund 15.500 Einwohnern mit einem kaiserlichen Machtwort. Richtig war 1.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7708/Betzenhausen",
+"faktencheck": "korrigiert",
+"id": "455-betzenhausen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Rückbau der Sundgauallee",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Betzenhausen",
+"steckbrief": "Stadtteil im Nordwesten Freiburgs mit rund 15.500 Einwohnern, 3 km von der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Regierungspräsidium Freiburg hat seinen Sitz in Betzenhausen.",
+"Die Sundgauallee bekam zusätzliche Fahrspuren für Autos.",
+"Die Gaskugel an der Dreisam steht unter Denkmalschutz."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Große Erschließungsstraßen laden zum Ausbau ein, darum klingt mehr Platz für Autos glaubhaft. Tatsächlich wurde die Sundgauallee am Betzenhauser Torplatz auf eine Fahrspur je Richtung verkleinert, rund um die Haltestelle gilt Tempo 20. So sollen Fußgänger leichter queren. Das Regierungspräsidium sitzt an der Bissierstraße, die Gaskugel ist seit 2019 Kulturdenkmal. Die Lüge war 2.",
+"quelle": "Stadt Freiburg (Umgestaltung Sundgauallee); Regierungspräsidium Freiburg; Badische Zeitung",
+"faktencheck": "korrigiert",
+"id": "455-betzenhausen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Stadtteil auf rund 250 Metern",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Betzenhausen",
+"steckbrief": "Betzenhausen hat rund 15.500 Einwohner und liegt 3 km nordwestlich der Freiburger Stadtmitte.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Betzenhausen ungefähr?",
+"optionen": [
+"unter 120 m",
+"120 bis unter 200 m",
+"200 bis unter 300 m",
+"300 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Freiburg verbindet man mit dem Schwarzwald, da schätzt man leicht höher. Betzenhausen liegt auf rund 250 Metern, je nach Quelle 249 oder 250. Für eine Stadt am Schwarzwald ist das wenig; wer im Stadtteil Aussicht sucht, steigt auf den Seeparkturm. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "455-betzenhausen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "weithin sichtbare Gaskugel an der Dreisam",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Betzenhausen",
+"steckbrief": "Freiburger Stadtteil mit rund 15.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "An der Dreisam in Betzenhausen ragt eine weithin sichtbare Kugel auf. Wozu diente sie bis 2019?",
+"optionen": [
+"Sie diente als Speicher für Gas.",
+"Sie speicherte Trinkwasser für die Weststadt.",
+"Sie war eine Radarkuppel der Flugsicherung.",
+"Sie war ein Planetarium für Schulklassen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Große Kugeln und Türme kennt man oft als Wasserspeicher, daher liegt Trinkwasser nahe. Es ist aber eine Gaskugel: Sie speicherte Gas und ist heute ein Industriedenkmal. Weithin sichtbar, ist sie für einen Stadtteil mit rund 15.500 Einwohnern ein ungewöhnlicher Blickfang – beim Vorbeifahren Ausschau halten. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Betzenhausen",
+"faktencheck": "bestätigt",
+"id": "455-betzenhausen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Barockkirche mit Storchennest",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Betzenhausen",
+"steckbrief": "Stadtteil im Nordwesten Freiburgs, rund 15.500 Einwohner, 3 km von der Stadtmitte.",
+"frage": "Die Barockkirche St. Thomas in Betzenhausen trägt den Namen eines Heiligen. Welcher Thomas ist gemeint?",
+"optionen": [
+"Gemeint ist Thomas von Aquin, der Kirchenlehrer.",
+"Gemeint ist Thomas Becket, Erzbischof von Canterbury.",
+"Gemeint ist der Apostel Thomas, der Zweifler.",
+"Gemeint ist Thomas Morus, der englische Lordkanzler."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Thomas von Aquin ist ein sehr bekannter Heiliger dieses Namens und liegt deshalb nahe. Gemeint ist aber der Apostel Thomas, der an der Auferstehung Jesu zweifelte. Ihre heutige Gestalt bekam die Kirche 1767/68 durch den Freiburger Baumeister Johann Baptist Häring. Auf ihrem Turm sitzt ein Storchennest, beim Vorbeifahren lohnt der Blick nach oben. Richtig war 3.",
+"quelle": "Wikipedia; LEO-BW",
+"faktencheck": "korrigiert",
+"id": "455-betzenhausen/v0.9/9",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "größtes Schwimmbad Freiburgs",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Betzenhausen",
+"steckbrief": "Freiburger Stadtteil mit rund 15.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Betzenhausen?",
+"optionen": [
+"Freiburgs größtes Museum",
+"Freiburgs größte Klinik",
+"Freiburgs größte Brauerei",
+"Freiburgs größtes Schwimmbad"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Große Häuser vermutet man eher in der Innenstadt als drei Kilometer draußen. Doch das Westbad im Seepark ist das größte Schwimmbad Freiburgs, mit Hallen- und Freibad. Mit Seepark, Eishalle und Weststadion versammelt Betzenhausen auf 2,16 Quadratkilometern auffällig viel Freizeit. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Betzenhausen; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "455-betzenhausen/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": "454-weingarten-freiburg",
+"anschluss": [
+"Betzenhausen und Weingarten sind fast gleich dicht besiedelt.",
+"Weingarten grenzt im Süden direkt an Betzenhausen."
+],
+"anschluesse": {
+"454-weingarten-freiburg": [
+"Betzenhausen und Weingarten sind fast gleich dicht besiedelt.",
+"Weingarten grenzt im Süden direkt an Betzenhausen."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil 3 km nordwestlich der Freiburger Mitte, rund 250 Meter hoch, an der Dreisam; Nachbarn Mooswald, Stühlinger, Weingarten, Lehen."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 972 belegt, 1381 an Freiburg verkauft, seit 1908 eingemeindet; Kirche St. Thomas mit Storchennest."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 15.500 Einwohner auf 2,16 Quadratkilometern; Behördenzentrum mit Polizeipräsidium und Regierungspräsidium; Studentensiedlung StuSie."
+},
+{
+"facette": "FREIZEIT",
+"text": "Seepark, Seebühne, Seeparkturm, Westbad mit Hallen- und Freibad, Eishalle, Weststadion, Minigolf, Breisgau-Radwanderweg."
+},
+{
+"facette": "INFRA",
+"text": "Stadtbahnlinie 1 mitten durch den Stadtteil, Linie 3 am Ostrand; Katholische Hochschule Freiburg; Postleitzahlen 79110 und 79114."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025, für ganz Freiburg: Grüne vorn mit 30,2 Prozent, Wahlbeteiligung 85,7 Prozent."
+}
+],
+"km_vom_vorigen": 1.6
+},
+{
+"slug": "456-mooswald",
+"name": "Mooswald",
+"lat": 48.0136,
+"lon": 7.82583,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "Solarforschung mit rund 1.400 Beschäftigten",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mooswald",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 9.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "In Mooswald arbeiten rund 1.400 Menschen für ein Fraunhofer-Institut. Woran forscht es laut seinem Namen?",
+"optionen": [
+"Es forscht an Holz und Holzbau.",
+"Es forscht an Lebensmitteln und Verpackungen.",
+"Es forscht an Medizintechnik für Kliniken.",
+"Es forscht an solaren Energiesystemen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Medizintechnik liegt in einer Universitätsstadt nahe, doch das Institut trägt die Sonne im Namen: Es ist das Fraunhofer-Institut für Solare Energiesysteme ISE mit rund 1.300 Mitarbeitenden. Labor- und Verwaltungsgebäude stehen an der Berliner Allee in Mooswald. Für einen Stadtteil mit rund 9.500 Einwohnern ist das viel: Mooswald ist nicht nur Wohnort, sondern auch Arbeitsort. Richtig war 4.",
+"quelle": "Fraunhofer ISE, ise.fraunhofer.de/de/ueber-uns.html; Stadt Freiburg, freiburg.de/pb/1868982.html",
+"faktencheck": "korrigiert",
+"id": "456-mooswald/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Siedlung gegen die Arbeitslosigkeit",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mooswald",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 9.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "Die Siedlung Mooswald entstand ab 1932. Welchen Anlass nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Ein Reichsprogramm sollte gegen Arbeitslosigkeit helfen.",
+"Eine Fabrik brauchte Wohnungen für ihre Arbeiter.",
+"Ein Hochwasser hatte Häuser am Fluss zerstört.",
+"Die Universität suchte Wohnraum für ihre Studenten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Arbeitersiedlungen entstanden oft neben einer Fabrik, darum liegt diese Theorie nahe. Mooswald aber geht auf ein Erwerbslosenprogramm der Reichsregierung gegen die hohe Arbeitslosigkeit zurück. Die Siedler bauten im Erbbau, große Gärten dienten der Selbstversorgung mit Kartoffeln und Gemüse. Begonnen hat Mooswald im Gebiet der heutigen Hofackerstraße; heute leben im Stadtteil rund 9.500 Menschen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "456-mooswald/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Bürgerhaus in Vereinshand",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mooswald",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 9.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "Mooswald hat eine Begegnungsstätte für Jung und Alt, das Fritz-Hüttinger-Haus. Wer verwaltet es?",
+"optionen": [
+"Die Stadt Freiburg verwaltet es selbst.",
+"Der Bürgerverein Mooswald verwaltet es.",
+"Das Studierendenwerk Freiburg verwaltet es.",
+"Die katholische Pfarrei Heilige Familie verwaltet es."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Gemeinschaftshaus vermutet man oft bei der Stadt oder einer Kirchengemeinde. Das Fritz-Hüttinger-Haus aber verwaltet der Bürgerverein Mooswald, der sich auch um Bürgerbeteiligung kümmert. Damit hat der Stadtteil mit rund 9.500 Einwohnern einen eigenen Treffpunkt für Jung und Alt, getragen von einem Verein aus dem Viertel. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau)",
+"faktencheck": "bestätigt",
+"id": "456-mooswald/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Universitätsklinikum als Nachbar und Durchgang",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Mooswald",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 9.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Mooswald?",
+"optionen": [
+"Einen Fernbahnhof mit ICE-Halt",
+"Eine Brauerei mit Biergarten",
+"Einen Teil des Universitätsklinikums",
+"Ein Heimatmuseum des Stadtteils"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Fernbahnhof läge in einer Großstadt nahe, doch an Mooswalds Nordgrenze fährt die Breisgau-S-Bahn. Der Stadtteil beginnt westlich der Güterbahn, direkt neben dem Klinikgelände, und an der Elsässer Straße 2 hat das Universitätsklinikum ein Studienzentrum. Die Klinik ist für Mooswald Nachbar und zum Teil auch Bewohner. Richtig war 3.",
+"quelle": "Universitätsklinikum Freiburg, uniklinik-freiburg.de; Stadt Freiburg, freiburg.de; Bürgerverein Mooswald, buergerverein-mooswald.de",
+"faktencheck": "korrigiert",
+"id": "456-mooswald/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "von Gleisen und Straße eingefasst",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mooswald",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 9.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "Zu drei Nachbarstadtteilen hat Mooswald eine klare Trennlinie. Was bildet diese Grenzen?",
+"optionen": [
+"Ein Fluss und zwei Bäche bilden sie.",
+"Ein Waldgürtel und alte Gräben bilden sie.",
+"Eine Autobahn und zwei Kanäle bilden sie.",
+"Zwei Bahnstrecken und eine Straße bilden sie."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Name mit Moos und Wald lässt an Wasser und Bäume als Grenze denken. Tatsächlich trennt die Bahnstrecke Freiburg–Colmar Mooswald von Brühl, die Güterumgehungsbahn vom Stühlinger und die Westrandstraße von Landwasser. Auf nur 1,63 Quadratkilometern ist der Stadtteil so fest eingefasst: An drei Seiten markieren Gleise oder eine Straße, wo Mooswald beginnt. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "456-mooswald/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "im Krieg großteils zerstört",
+"rang": 4,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Mooswald",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 9.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Siedler bauten ihre Häuser größtenteils gemeinsam selbst.",
+"Anfangs kam Wasser aus Pumpbrunnen auf den Grundstücken.",
+"Den Krieg überstand die Siedlung fast unbeschädigt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wasser aus dem Pumpbrunnen klingt erfunden, war aber bis Ende der 1930er Alltag, ebenso Häuser ohne Strom. Gelogen ist der Krieg: Beim Luftangriff im November 1944 wurde die Siedlung zu etwa 80 Prozent zerstört. Noch 1945 begann der Wiederaufbau mit einfachsten Mitteln. Mooswald hat also zweimal fast von vorn begonnen: als Siedlung und nach dem Krieg. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "456-mooswald/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dicht bebaut trotz Wald im Namen",
+"rang": 3,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mooswald",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit rund 9.500 Einwohnern, 3 km nordwestlich der Stadtmitte.",
+"frage": "Wie viele Einwohner kommen in Mooswald rechnerisch auf einen Quadratkilometer?",
+"optionen": [
+"unter 2.500",
+"2.500 bis unter 6.000",
+"6.000 bis unter 10.000",
+"10.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil mit Wald im Namen klingt nach lockerer Bebauung. Tatsächlich leben in Mooswald rechnerisch 5.836 Menschen auf einem Quadratkilometer: 9.513 Einwohner (Stand 2024) auf 1,63 Quadratkilometern. Für einen Stadtteil nur drei Kilometer von der Stadtmitte ist das dicht; auf so kleiner Fläche wohnen fast so viele Menschen wie in einer Kleinstadt. Richtig war 2.",
+"quelle": "Wikidata P1082 (Einwohner, Stand 2024); dewiki Infobox (Fläche); Dichte daraus berechnet",
+"faktencheck": "bestätigt",
+"id": "456-mooswald/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "455-betzenhausen",
+"anschluss": [
+"Betzenhausen hat rund 6.000 Einwohner mehr als Mooswald.",
+"Mooswalds evangelische Markusgemeinde umfasste bis 1974 auch Betzenhausen."
+],
+"anschluesse": {
+"455-betzenhausen": [
+"Betzenhausen hat rund 6.000 Einwohner mehr als Mooswald.",
+"Mooswalds evangelische Markusgemeinde umfasste bis 1974 auch Betzenhausen."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil im Westen Freiburgs, 3 km von der Stadtmitte, 244 Meter hoch, 1,63 Quadratkilometer, rund 9.500 Einwohner."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Ab 1932 als Siedlung für Arbeitslose entstanden, im Krieg großteils zerstört; katholische Kirche Heilige Familie von 1938."
+},
+{
+"facette": "ALLTAG",
+"text": "Größerer Arbeitgeber ist das Fraunhofer-Institut für Solare Energiesysteme; dazu das Studierendenhaus Falkenberger Straße."
+},
+{
+"facette": "FREIZEIT",
+"text": "Fritz-Hüttinger-Haus des Bürgervereins, Hüttinger-Denkmal, Minigolf am Seepark, Breisgau-Radwanderweg mit 64 Kilometern."
+},
+{
+"facette": "INFRA",
+"text": "Straßenbahnlinie 4, S-Bahn-Haltestelle Neue Messe/Universität an der Grenze, Teile des Universitätsklinikums."
+},
+{
+"facette": "POLITIK",
+"text": "Freiburg wählte 2025 vorn grün mit 30,2 Prozent; die Wahlbeteiligung lag bei 85,7 Prozent."
+}
+],
+"km_vom_vorigen": 0.9
+},
+{
+"slug": "457-landwasser",
+"name": "Landwasser",
+"lat": 48.0239,
+"lon": 7.80889,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "roter Otto als Wahrzeichen",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landwasser",
+"steckbrief": "Stadtteil im Freiburger Nordwesten mit gut 7.000 Einwohnern, 4 km von der Stadtmitte.",
+"frage": "Das Wahrzeichen von Landwasser ist der „Rote Otto“. Was ist das?",
+"optionen": [
+"Es ist ein rot gestrichener Wasserturm.",
+"Es ist eine rote Dampflok als Denkmal.",
+"Es ist ein rot verklinkertes Hochhaus.",
+"Es ist eine Figurengruppe, die sich teils dreht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Wasserturm läge nahe, denn Türme sind oft Wahrzeichen. Der Rote Otto ist aber eine Figurengruppe von Eberhard Rau aus Polyester und Beton: stark reduzierte Figuren von Mann und Frau und ein dämonischer Faun. Die oberen Figuren können sich im Wind drehen. Heute ist er Kulturdenkmal und das Bild, an dem man Landwasser wiedererkennt. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "457-landwasser/v0.9/2",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Krankenhaus im Wohnstadtteil",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Landwasser",
+"steckbrief": "Freiburger Stadtteil mit gut 7.000 Einwohnern, 4 km nordwestlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Landwasser?",
+"optionen": [
+"ein evangelisches Krankenhaus",
+"eine alte Wassermühle",
+"eine Hausbrauerei",
+"ein Technikmuseum"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Wassermühle läge nahe, denn der Name Landwasser klingt nach Mühlbach. Landwasser hat aber das Evangelische Diakoniekrankenhaus Freiburg. Es geht auf das Freiburger Diakonissenhaus von 1898 zurück und wurde 1982 in Landwasser neu gebaut, lange nach der Siedlung. Für einen Stadtteil mit gut 7.000 Einwohnern ist ein eigenes Krankenhaus bemerkenswert. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "457-landwasser/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Siedlung auf einstigem Sumpfwald",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landwasser",
+"steckbrief": "Freiburger Stadtteil mit gut 7.000 Einwohnern, 4 km nordwestlich der Stadtmitte.",
+"frage": "Landwasser entstand in den 1960ern als Großwohnsiedlung. Was lag vorher auf dem Gelände?",
+"optionen": [
+"Dort lagen Äcker eines großen Gutshofs.",
+"Dort lag ein sumpfiges Waldgebiet.",
+"Dort stand eine Ziegelei mit Lehmgruben.",
+"Dort lag ein großer Rangierbahnhof."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Äcker lägen nahe, denn viele Neubausiedlungen entstanden auf Feldern am Stadtrand. Landwasser wuchs aber auf den Landwassermatten, einem sumpfigen Waldgebiet. Bis heute liegt der Stadtteil parkähnlich im Mooswald: Wer vorbeifährt, sieht Hochhäuser, Wohnblöcke und Bungalows zwischen Bäumen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "457-landwasser/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "eigener Bahnhof an der Breisacher Bahn",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Landwasser",
+"steckbrief": "Stadtteil mit gut 7.000 Einwohnern, 4 km nordwestlich der Freiburger Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Landwasser?",
+"optionen": [
+"ein Kunstmuseum",
+"ein Thermalbad",
+"ein eigener Bahnhof",
+"eine Weinkellerei"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Thermalbad läge nahe, denn Freiburg ist Bäderland, und ein Bahnhof wirkt für einen Stadtteil ungewöhnlich, denn meist fährt nur die Straßenbahn hinaus. Landwasser hat den Bahnhof Freiburg-Landwasser im Norden, an der Strecke Freiburg–Breisach. Wer auf dieser Bahn vorbeifährt, sieht den Stadtteil direkt am Gleis: Die Strecke begrenzt Landwasser im Nordosten. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "457-landwasser/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "goldene Frösche im Wappen",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Landwasser",
+"steckbrief": "Freiburger Stadtteil mit gut 7.000 Einwohnern, 4 km nordwestlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Stadtteilwappen zeigt goldene Fische auf Blau.",
+"Die evangelische Kirche im Zentrum heißt Zachäuskirche.",
+"Die katholische Kirche ist Petrus Canisius geweiht."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Fische lägen nahe, denn der Name Landwasser klingt nach Fluss und Fang. Beide Kirchen, die Zachäuskirche und St. Petrus Canisius, stehen im Zentrum des Stadtteils. Das Wappen zeigt aber zweimal einen goldenen Frosch auf Blau, neben dem Georgskreuz der Stadt Freiburg. Die Frösche verweisen auf die wasserreiche Lage und den Namen. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "457-landwasser/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung deutlich unter dem Land",
+"rang": 6,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Landwasser",
+"steckbrief": "Freiburger Stadtteil mit gut 7.000 Einwohnern, 4 km nordwestlich der Stadtmitte.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Baden-Württemberg bei 83,4 Prozent. Wie hoch war sie in Landwasser?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 83,4 %",
+"83,4 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Knapp unter dem Land läge nahe, denn mehrere Punkte Abstand wirken für einen Stadtteil viel. In Landwasser lag die Wahlbeteiligung bei der Bundestagswahl 2025 aber bei 75,4 Prozent, im Land bei 83,4 Prozent. In Großwohnsiedlungen mit preisgünstigem Wohnraum liegt die Beteiligung oft niedriger; Landwasser passt in dieses Bild. Richtig war 1.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025",
+"faktencheck": "bestätigt",
+"id": "457-landwasser/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Hochhäuser namens Max und Moritz",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landwasser",
+"steckbrief": "Freiburger Stadtteil mit gut 7.000 Einwohnern, 4 km nordwestlich der Stadtmitte.",
+"frage": "In Landwasser-Nord steht ein dicht bebauter Hochhauskomplex aus zwei Teilen mit zusammen 325 Wohnungen. Welche Spitznamen tragen die beiden Teile im Stadtteil?",
+"optionen": [
+"Sie heißen Dick und Doof.",
+"Sie heißen Pat und Patachon.",
+"Sie heißen Max und Moritz.",
+"Sie heißen Hanni und Nanni."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dick und Doof läge nahe, denn Duos aus dem Kino sind beliebte Spitznamen. Die beiden Teile heißen aber Max und Moritz. In den rund 50 Jahre alten Häusern mit 325 Wohnungen leben über 1.000 Menschen. Die liebevollen Namen machen aus zwei Wohnblöcken ein Paar, das man in Landwasser kennt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "457-landwasser/v0.9/8",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Fernwärme aus Deponiegas",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landwasser",
+"steckbrief": "Freiburger Stadtteil mit gut 7.000 Einwohnern, 4 km nordwestlich der Stadtmitte.",
+"frage": "Ein Heizwerk versorgt seit 1990 einen Teil der Wohnungen in Landwasser mit Fernwärme. Woher stammte seine Energie in den ersten Jahren?",
+"optionen": [
+"Es nutzte die Abwärme eines Kernkraftwerks.",
+"Es nutzte Gas aus einer stillgelegten Mülldeponie.",
+"Es nutzte heißes Wasser aus großer Tiefe.",
+"Es nutzte die Abwärme eines Industriebetriebs."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Abwärme läge nahe, denn viele Fernwärmenetze hängen an einem Kraftwerk. Das Heizwerk Landwasser verbrannte aber bis 2006 Gas aus der stillgelegten Deponie Eichelbuck. Weil dort immer weniger Gas entstand, wurde es 2011 umgebaut; heute laufen eine Gasmischung und ein Holzvergaser. Was früher Müll war, heizte so jahrelang den Stadtteil. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "457-landwasser/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "456-mooswald",
+"anschluss": [
+"Landwasser und Mooswald sind fast genau gleich dicht besiedelt.",
+"Der Stadtteil Mooswald grenzt im Südosten an Landwasser."
+],
+"anschluesse": {
+"456-mooswald": [
+"Landwasser und Mooswald sind fast genau gleich dicht besiedelt.",
+"Der Stadtteil Mooswald grenzt im Südosten an Landwasser."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil, vier Kilometer nordwestlich der Innenstadt, rund 230 Meter hoch, zwischen Mooswald, Autobahn A5 und Lehener Bergle."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Großwohnsiedlung der 1960er Jahre für junge Familien; ein Gedenkkreuz erinnert an ein Eisenbahnunglück von 1882."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 7.000 Einwohner auf 1,25 Quadratkilometern, Hochhäuser neben Bungalows, Einkaufszentrum im Zentrum, bis 2024 neu gebaut."
+},
+{
+"facette": "FREIZEIT",
+"text": "Moosweiher mit dem Fun Strand, Halfpipe am Nordufer, dazu der Breisgau-Radwanderweg mit 64 Kilometern."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof an der Breisacher Bahn, Stadtbahnlinie 1, Diakoniekrankenhaus, Praxisklinik 2000 und die Albert-Schweitzer-Schulen."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die AfD mit 21,6 Prozent vorn; die Wahlbeteiligung betrug 75,4 Prozent."
+}
+],
+"km_vom_vorigen": 1.7
+},
+{
+"slug": "458-lehen-freiburg",
+"name": "Lehen",
+"lat": 48.0175,
+"lon": 7.80194,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Bundschuh-Aufstand von 1513",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lehen",
+"steckbrief": "Freiburger Stadtteil mit gut 2.500 Einwohnern, 4 km nordwestlich der Stadtmitte.",
+"frage": "1513 scheiterte der Bundschuh von Lehen, ein geheimer Bauernaufstand. Welche Stellung hatte sein Anführer Joß Fritz im Dorf?",
+"optionen": [
+"Er war der Pfarrer von Lehen.",
+"Er war in Lehen als Bannwart angestellt.",
+"Er war Wirt eines Gasthauses im Dorf.",
+"Er war der Müller an der Dreisam."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Joß Fritz aus Untergrombach war in Lehen als Bannwart angestellt, also als Hüter von Feld und Wald. Der Pfarrer liegt nahe, weil Prediger bei Bauernaufständen oft vorangingen; doch Fritz hütete hier die Flur. Nach der Niederlage durfte kein Lehener mehr mit Waffen nach Freiburg. Bis heute tragen in Lehen eine Halle und ein Verein den Namen Bundschuh. Richtig war 2.",
+"quelle": "LEO-BW, www.leo-bw.de (Ortsartikel Lehen); Gemeinde-Webseite, www.freiburg.de/pb/1866522.html",
+"faktencheck": "korrigiert",
+"id": "458-lehen-freiburg/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Hallenbad im kleinen Stadtteil",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Lehen",
+"steckbrief": "Freiburger Stadtteil mit gut 2.500 Einwohnern, 4 km nordwestlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Lehen?",
+"optionen": [
+"ein Heimatmuseum",
+"ein Eisstadion",
+"ein Hallenbad",
+"ein Freibad"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Lehen hat ein eigenes Hallenbad; die Stadt zählt es zu den Sport- und Freizeitmöglichkeiten. Ein Freibad liegt nahe, weil die Dreisam vorbeifließt und Vororte im Sommer oft eines haben; ein Hallenbad dagegen erwartet man eher in der Innenstadt. Für einen Stadtteil mit gut 2.500 Einwohnern ist ein eigenes Hallenbad viel, ganzjährig nutzbar und ohne Fahrt in die Stadt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/1866522.html; Regio Bäder GmbH (Freiburger Stadtbau)",
+"faktencheck": "korrigiert",
+"id": "458-lehen-freiburg/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Dorf am Hügel, dem Bergle",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lehen",
+"steckbrief": "Freiburger Stadtteil mit gut 2.500 Einwohnern, 4 km nordwestlich der Stadtmitte.",
+"frage": "Woher hat Lehen seinen Namen?",
+"optionen": [
+"Er kommt vom Lehnswesen des Mittelalters.",
+"Der Name kommt vom Lehm im Boden.",
+"Der Name geht auf einen Grundherrn zurück.",
+"Er kommt von einem alten Wort für Hügel."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name stammt vom althochdeutschen „lê“ für Hügel; in alter Form hieß der Ort Leheim. Das Lehnswesen liegt nahe, weil das heutige Wort Lehen genau so klingt, und tatsächlich wurde die Ortsherrschaft später als Lehen vergeben; der Name geht aber auf „lê“ zurück. Auch an Lehm denkt mancher. Einen Hügel hat Lehen bis heute: das Lehener Bergle, an dessen Fuß der alte Ortskern liegt. Richtig war 4.",
+"quelle": "Landesportal, www.leo-bw.de (Historisches Ortslexikon, Lehen); Gemeinde-Webseite, www.freiburg.de/pb/1866522.html",
+"faktencheck": "korrigiert",
+"id": "458-lehen-freiburg/v0.9/3",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung weit über dem Land",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lehen",
+"steckbrief": "Freiburger Stadtteil mit gut 2.500 Einwohnern, 4 km nordwestlich der Stadtmitte.",
+"frage": "Bundestagswahl 2025: In Baden-Württemberg gingen 83,4 Prozent der Wahlberechtigten wählen. Wie hoch war die Wahlbeteiligung in Lehen?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 83,4 %",
+"83,4 bis unter 87 %",
+"87 % oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Lehen gaben 89,7 Prozent ihre Stimme ab, 6,3 Punkte mehr als im Land. Wer an einen Großstadtteil denkt, tippt eher auf den Landesschnitt, weil man in Städten oft weniger Wähler vermutet. In dem Stadtteil mit gut 2.500 Einwohnern gingen fast neun von zehn Wahlberechtigten wählen; stärkste Partei wurde die CDU. Richtig war 4.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025; Einwohner: Wikidata, Stand 2024",
+"faktencheck": "bestätigt",
+"id": "458-lehen-freiburg/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Rebmesser im Wappen: Weinbau",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lehen",
+"steckbrief": "Freiburger Stadtteil mit gut 2.500 Einwohnern, 4 km nordwestlich der Stadtmitte.",
+"frage": "Lehens Wappen von 1899 zeigt ein großes L und eine rote, sichelförmige Figur. Wofür steht diese Figur?",
+"optionen": [
+"Sie ist eine Sichel für den Getreideanbau.",
+"Sie erinnert an den Bundschuh-Aufstand der Bauern.",
+"Sie ist ein Rebmesser für den Weinbau.",
+"Sie zeigt eine Mondsichel über dem Bergle."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die rote Figur ist ein Rebmesser: Der Weinbau war für Lehen so wichtig, dass er die Wahl des Wappens prägte. Die Getreidesichel liegt nahe, weil sie fast gleich aussieht und Bauerndörfer sie gern führen. Am Lehener Bergle begann der Weinbau im Mittelalter. Rätselhaft bleibt die Rosette im Wappen: Ob sie für Ammoniten steht, ist offen; solche Fossilien sieht man wagenradgroß an Lehener Giebeln. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/1866522.html",
+"faktencheck": "korrigiert",
+"id": "458-lehen-freiburg/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "457-landwasser",
+"anschluss": [
+"Lehen hatte 2025 eine viel höhere Wahlbeteiligung als Landwasser.",
+"Lehen hat mehr Fläche, Landwasser fast dreimal so viele Einwohner."
+],
+"anschluesse": {
+"457-landwasser": [
+"Lehen hatte 2025 eine viel höhere Wahlbeteiligung als Landwasser.",
+"Lehen hat mehr Fläche, Landwasser fast dreimal so viele Einwohner."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil, 4 km nordwestlich der Stadtmitte, westlich der Dreisam, rund 3,4 Quadratkilometer groß, mit dem Lehener Bergle."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1971 Teil von Freiburg; 1513 scheiterte hier der Bundschuh-Aufstand um Joß Fritz; zwei alte Schlösser sind noch bewohnt."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 2.500 Einwohner, Weinbau seit dem Mittelalter, eine Ziegelei und alte Gasthäuser wie Hirschen, Löwen und Bierhäusle."
+},
+{
+"facette": "FREIZEIT",
+"text": "Hallenbad, Bundschuhhalle, Bundschuhpfad mit 14 Stationen und das Herdertürmle auf dem Bergle."
+},
+{
+"facette": "INFRA",
+"text": "Autobahnausfahrt Freiburg-Mitte auf Lehener Gemarkung, Stadtbahnhaltestelle Paduaallee am Ostrand, ein UKW-Sendemast des SWR."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 27,7 Prozent, Wahlbeteiligung 89,7 Prozent, deutlich über dem Land."
+}
+],
+"km_vom_vorigen": 0.9
+},
+{
+"slug": "459-rieselfeld",
+"name": "Rieselfeld",
+"lat": 47.9989,
+"lon": 7.79167,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Sporthalle mit begehbarem Gründach",
+"rang": 4,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Rieselfeld",
+"steckbrief": "Freiburger Stadtteil mit rund 9.200 Einwohnern, 5 km westlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es im Rieselfeld?",
+"optionen": [
+"eine Sporthalle mit begehbarem Gründach",
+"eine Brauerei mit Biergarten",
+"eine Wassermühle an der Dreisam",
+"ein Weingut mit eigener Kellerei"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Mühle an der Dreisam oder ein Weingut läge im Breisgau nahe. Im Rieselfeld aber trägt eine Sporthalle ein begrüntes, begehbares Dach. Es verbindet den Stadtteilpark mit dem Maria-von-Rudloff-Platz und dient als Aussichtspunkt. Bei gut 2.200 Einwohnern je Quadratkilometer wird so selbst ein Hallendach zur Wiese und zum Weg. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "459-rieselfeld/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wohnviertel auf früheren Abwasser-Rieselfeldern",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rieselfeld",
+"steckbrief": "Stadtteil im Westen Freiburgs mit rund 9.200 Einwohnern, 5 km von der Stadtmitte.",
+"frage": "Freiburg kaufte 1891 von der Universität eine große Fläche, zu der das heutige Rieselfeld gehört. Wofür?",
+"optionen": [
+"Sie sollte als Exerzierplatz der Garnison dienen.",
+"Sie sollte das Abwasser der Stadt aufnehmen.",
+"Sie war für einen neuen Zentralfriedhof gedacht.",
+"Sie sollte Kies für den Städtebau liefern."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine große Fläche am Stadtrand ließe an Friedhof oder Exerzierplatz denken. Doch Freiburg war auf 53.000 Einwohner gewachsen und brauchte eine natürliche Kläranlage: Auf Rieselfeldern versickerte das Abwasser. Als die Felder bis zu 90.000 Kubikmeter am Tag nicht mehr verkrafteten, endete der Betrieb nach fast hundert Jahren. Daran erinnert der Name Rieselfeld. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "459-rieselfeld/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Naturschutzgebiet als grüne Westgrenze",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Rieselfeld",
+"steckbrief": "Freiburger Stadtteil, 5 km westlich der Stadtmitte, mit rund 9.200 Einwohnern.",
+"frage": "Welches dieser vier Dinge gibt es im Rieselfeld?",
+"optionen": [
+"eine mittelalterliche Burgruine",
+"ein Bahnhof mit Regionalzughalt",
+"ein Naturschutzgebiet am Stadtteilrand",
+"ein Denkmal für Gefallene"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bahnhof wäre bei gut 9.000 Einwohnern denkbar, eine Burgruine im Breisgau auch. Prägend ist aber das Naturschutzgebiet Freiburger Rieselfeld, das im Westen an den Stadtteil grenzt. Es dient den Bewohnern zur Naherholung, ein Naturerlebnispfad trägt seinen Namen. So endet der Stadtteil an einer grünen Grenze. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau); OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "459-rieselfeld/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "altes Gymnasium im neuen Stadtteil",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rieselfeld",
+"steckbrief": "Rieselfeld ist ein Freiburger Stadtteil mit rund 9.200 Einwohnern, 5 km westlich der Mitte.",
+"frage": "Seit 1997 steht das Kepler-Gymnasium im Rieselfeld. Woher kam die Schule?",
+"optionen": [
+"Sie zog aus einem Dorf am Tuniberg hierher.",
+"Sie zog aus einem Schwarzwaldtal östlich hierher.",
+"Sie wurde für den neuen Stadtteil gegründet.",
+"Sie zog aus der Freiburger Innenstadt hierher."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein neuer Stadtteil bekommt oft eine neu gegründete Schule, das liegt nahe. Das Kepler-Gymnasium aber gab es schon: 1997 zog es aus einem älteren Freiburger Schulhaus in einen Neubau im Rieselfeld. Von 2005 bis 2007 wurde es von drei auf vier Züge erweitert. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "459-rieselfeld/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Planstadtteil mit Regeln für Mischung",
+"rang": 5,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rieselfeld",
+"steckbrief": "Freiburger Stadtteil, 5 km westlich der Stadtmitte, heute mit rund 9.200 Einwohnern.",
+"frage": "Das Rieselfeld wurde als neuer Stadtteil geplant und gebaut. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bauplätze je Investor wurden bewusst klein begrenzt.",
+"Miet- und Eigentumswohnungen wurden räumlich durchmischt geplant.",
+"Die Häuser entstanden ohne Vorgaben zum Energiesparen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kleine Bauplätze klingen nach Geldmangel, waren aber Absicht: Viele Investoren mit eigener Handschrift sollten ein abwechslungsreiches Stadtbild schaffen. Gemischt wurden auch Miet- und Eigentumswohnungen. Gelogen ist das Energiesparen: Die Niedrigenergie-Bauweise war von Anfang an ein wichtiges Kriterium der Planung, dazu kamen Fernwärme aus Kraft-Wärme-Kopplung und Solarenergie. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "459-rieselfeld/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "kleiner, dicht bewohnter Stadtteil",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rieselfeld",
+"steckbrief": "Freiburger Stadtteil mit rund 9.200 Einwohnern, 5 km westlich der Stadtmitte.",
+"frage": "Wie groß ist die Fläche des Stadtteils Rieselfeld?",
+"optionen": [
+"unter 1 km²",
+"1 bis unter 3 km²",
+"3 bis unter 6 km²",
+"6 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein einzelner Stadtteil lässt an eine kleine Fläche denken. Das Rieselfeld misst aber 4,16 Quadratkilometer. Bei rund 9.200 Einwohnern sind das gut 2.200 Menschen je Quadratkilometer, eine ordentliche Dichte für den Westrand Freiburgs. Richtig war 3.",
+"quelle": "Wikidata P2046 (Fläche); Wikidata P1082, Stand 2024 (Einwohner)",
+"faktencheck": "bestätigt",
+"id": "459-rieselfeld/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Doppelkirche zweier Konfessionen ohne Turm",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rieselfeld",
+"steckbrief": "Freiburger Stadtteil mit rund 9.200 Einwohnern, 5 km westlich der Stadtmitte.",
+"frage": "Im Rieselfeld steht die Maria-Magdalena-Kirche. Was ist an ihr besonders?",
+"optionen": [
+"Ihr freistehender Glockenturm überragt alle Häuser.",
+"Zwei Konfessionen haben darin je einen Kirchenraum.",
+"Sie wurde ganz aus hellem Holz gebaut.",
+"Sie steht abseits am äußersten Stadtteilrand."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Kirche denkt man zuerst an einen Turm. Die Maria-Magdalena-Kirche der Kölner Architektin Susanne Gross ist aber ein kompakter Betonbau ohne Turm. Darin liegen ein katholischer und ein evangelischer Kirchenraum, verbunden durch ein Foyer, das sich zu einem gemeinsamen Raum erweitern lässt. Mitten im Stadtteilzentrum prägt diese Doppelkirche das Bild des Rieselfelds. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "459-rieselfeld/v0.9/8",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Straßenbahn als Hauptachse des Stadtteils",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rieselfeld",
+"steckbrief": "Freiburger Stadtteil mit rund 9.200 Einwohnern, 5 km westlich der Stadtmitte.",
+"frage": "Wie ist das Rieselfeld an die Freiburger Straßenbahn angebunden?",
+"optionen": [
+"Sie fährt am Nordrand am Stadtteil vorbei.",
+"Sie endet an einer Schleife vor dem Stadtteil.",
+"Sie fährt mitten durch, entlang der Hauptallee.",
+"Sie fährt am Südrand an den Feldern entlang."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Bahn am Rand liegt nahe, damit die Wohnstraßen ruhig bleiben. Im Rieselfeld fährt die Straßenbahn aber mitten hindurch, entlang der Rieselfeld-Allee, und verbindet den Stadtteil mit dem Zentrum. Sie ist seine zentrale Verkehrsader und soll Autoverkehr sparen helfen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "459-rieselfeld/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "458-lehen-freiburg",
+"anschluss": [
+"Rieselfeld hat gut dreieinhalbmal so viele Einwohner wie Lehen.",
+"Rieselfeld wählte 2025 vor allem Grün, Lehen vor allem CDU."
+],
+"anschluesse": {
+"458-lehen-freiburg": [
+"Rieselfeld hat gut dreieinhalbmal so viele Einwohner wie Lehen.",
+"Rieselfeld wählte 2025 vor allem Grün, Lehen vor allem CDU."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 5 km westlich der Mitte, gut 230 Meter hoch, 4,16 Quadratkilometer, mit Dreisam und Naturschutzgebiet."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Bis 1985 versickerte hier Freiburgs Abwasser auf Rieselfeldern; ab 1994 wurde gebaut, 1996 zogen die ersten Bewohner ein."
+},
+{
+"facette": "ALLTAG",
+"text": "Ein familiengeprägter Stadtteil mit rund 9.200 Einwohnern, gut 2.200 je Quadratkilometer, geplant in Niedrigenergie-Bauweise."
+},
+{
+"facette": "FREIZEIT",
+"text": "Stadtteilpark mit Liegewiese, Gründach der Sporthalle, Kaffeemuseum, Tier-Natur-Erlebnispark Mundenhof, Naturerlebnispfad und eine Offene Bühne."
+},
+{
+"facette": "INFRA",
+"text": "Straßenbahn entlang der Rieselfeld-Allee, Kepler-Gymnasium, Clara-Grunwald-Grundschule und Waldorfschule; Postleitzahl 79111, Vorwahl 0761."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lagen die Grünen mit 31,8 Prozent vorn; Wahlbeteiligung 87,9 Prozent, im Land 83,4."
+}
+],
+"km_vom_vorigen": 2.2
+},
+{
+"slug": "460-dietenbach",
+"name": "Dietenbach",
+"lat": 48.006,
+"lon": 7.797,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "zwei Erdberge für den Baugrund",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dietenbach",
+"steckbrief": "Neuer Stadtteil von Freiburg im Breisgau, 4 km westlich der Stadtmitte.",
+"frage": "Am Rand des Dietenbachgeländes wird seit 2021 Erdaushub zu Bergen aufgeschüttet. Wozu dient er?",
+"optionen": [
+"Er bleibt als Lärmschutzwall zur B31a liegen.",
+"Er ist Abraum einer früheren Kiesgrube.",
+"Er ist der Rest einer alten Mülldeponie.",
+"Mit ihm wird das Gelände für die Baufelder aufgeschüttet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Lärmschutzwall an der B31a läge nahe, doch hier wird Erdaushub nur zwischengelagert. Weil das Grundwasser hoch steht, muss das Gelände vor dem Bau der Baufelder aufgeschüttet werden. Seit Dezember 2021 sammelt eine städtische Gesellschaft dafür Aushub, auch von anderen Baustellen der Region. Richtig war 4.",
+"quelle": "Stadt Freiburg, Pressemitteilung 14.12.2021",
+"faktencheck": "korrigiert",
+"id": "460-dietenbach/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kanzler beim Spatenstich",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dietenbach",
+"steckbrief": "Neuer Stadtteil von Freiburg im Breisgau, 4 km westlich der Stadtmitte.",
+"frage": "Im Februar 2024 fand in Dietenbach der Spatenstich statt. Wer griff dabei als prominenter Gast zum Spaten?",
+"optionen": [
+"Bundeskanzler Olaf Scholz griff zum Spaten.",
+"Bundespräsident Frank-Walter Steinmeier griff zum Spaten.",
+"SC-Trainer Christian Streich griff zum Spaten.",
+"Altkanzlerin Angela Merkel griff zum Spaten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Freiburger Gesicht wie Christian Streich läge nahe, schließlich geht es um ein Freiburger Projekt. Den Spaten führte aber Bundeskanzler Olaf Scholz. Dass ein Kanzler zum Baubeginn eines Stadtteils kommt, zeigt, welches Gewicht das Vorhaben hat: Hier soll ein ganzer neuer Stadtteil entstehen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau)",
+"faktencheck": "bestätigt",
+"id": "460-dietenbach/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Nachbar des Mundenhofs",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dietenbach",
+"steckbrief": "Neuer Stadtteil von Freiburg im Breisgau, 4 km westlich der Stadtmitte.",
+"frage": "Was liegt in unmittelbarer Nähe von Dietenbach?",
+"optionen": [
+"Der Flughafen Basel-Mulhouse.",
+"Der Rhein.",
+"Der Mundenhof.",
+"Die Kläranlage Forchheim."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Rhein liegt nahe, weil er westlich von Freiburg fließt, doch er ist weit entfernt. In unmittelbarer Nähe liegen der Mundenhof, die Dreisam und der Dietenbachpark. Im Norden begrenzt die B31a das Gebiet, im Osten die Besançonallee, im Süden die Mundenhofer Straße und das Rieselfeld. Richtig war 3.",
+"quelle": "Stadt Freiburg, Rahmenplan Dietenbach (Kurzfassung)",
+"faktencheck": "korrigiert",
+"id": "460-dietenbach/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Stadtteil auf früherem Überschwemmungsgebiet",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dietenbach",
+"steckbrief": "Neuer Stadtteil von Freiburg im Breisgau, 4 km westlich der Stadtmitte.",
+"frage": "Bevor Dietenbach gebaut werden durfte, stand ein Status des Geländes im Weg. Welcher?",
+"optionen": [
+"Es war Sicherheitszone eines Atomkraftwerks.",
+"Es war ein Bergbau-Senkungsgebiet.",
+"Es war Lärmschutzzone der Autobahn A5.",
+"Es war ein Überschwemmungsgebiet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Sicherheitszone klingt am Oberrhein plausibel, wo jenseits der Grenze ein Atomkraftwerk stand. Doch das Gelände lag in einem festgesetzten Überschwemmungsgebiet des Dietenbachs. Erst Deiche am ausgebauten Bach sollen es vor einem Jahrhunderthochwasser schützen. 2026 bestätigte das Bundesverwaltungsgericht diesen Ausbau. Richtig war 4.",
+"quelle": "Bundesverwaltungsgericht, Pressemitteilung 13/2026",
+"faktencheck": "korrigiert",
+"id": "460-dietenbach/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Stadtteil per Bürgerentscheid erstritten",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Dietenbach",
+"steckbrief": "Neuer Stadtteil von Freiburg im Breisgau, 4 km westlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Beim Bürgerentscheid wollte die Mehrheit keine Bebauung.",
+"Ein Freiburger Büro gewann den städtebaulichen Wettbewerb.",
+"Das Kerngebiet des Stadtteils umfasst rund 107 Hektar."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die 107 Hektar klingen nach Erfindung, doch so groß ist das Kerngebiet laut Rahmenplan. Gelogen ist der Bürgerentscheid: 2019 war gefragt, ob das Gebiet unbebaut bleiben soll, und rund 60 Prozent stimmten mit Nein. Den Wettbewerb gewann das Freiburger Büro K9 Architekten. Die Lüge war 1.",
+"quelle": "Stadt Freiburg (Wahlstatistik 2019, Rahmenplan, Infobrief 2018)",
+"faktencheck": "korrigiert",
+"id": "460-dietenbach/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Stadtteil nach Bach benannt",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dietenbach",
+"steckbrief": "Neuer Stadtteil von Freiburg im Breisgau, 4 km westlich der Stadtmitte.",
+"frage": "Wonach ist Freiburgs neuer Stadtteil Dietenbach benannt?",
+"optionen": [
+"Nach einem alten Gutshof auf dem Gelände.",
+"Nach dem Bach, der durchs Baugelände fließt.",
+"Nach einem Adelsgeschlecht aus der Gegend.",
+"Nach einem früheren Dorf an dieser Stelle."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein verschwundenes Dorf liegt nahe, denn viele Orte auf -bach sind alte Siedlungen. Der Stadtteil ist aber nach dem Dietenbach benannt, dem Bach durch das Baugelände. Den Namen trägt auch der Dietenbachpark östlich davon. Der neue Stadtteil übernimmt so den Namen dessen, was schon vor ihm da war: des Wassers mitten im Gelände. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Dietenbach_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "460-dietenbach/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Baumhäuser gegen die Rodung",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Dietenbach",
+"steckbrief": "Neuer Stadtteil von Freiburg im Breisgau, 4 km westlich der Stadtmitte.",
+"frage": "Aktivisten besetzten Bäume im Langmattenwäldchen und bauten Baumhäuser, um die Rodung zu verhindern. Wie endete die Besetzung?",
+"optionen": [
+"Die Stadt verzichtete auf die Rodung.",
+"Ein Gericht stoppte die Rodung dauerhaft.",
+"Gerodet wurde trotzdem, die Polizei räumte.",
+"Die Besetzer kauften der Stadt das Wäldchen ab."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Gerichtsstopp liegt nahe, denn um das Wäldchen wurde lange rechtlich gestritten. Anfang Dezember 2024 rückte aber die Polizei an und nahm elf Menschen vorläufig fest, viele Aktivisten gingen freiwillig. Die Bäume wurden gerodet, um Platz für eine Gasleitung und die Straßenbahn zu schaffen. Richtig war 3.",
+"quelle": "Stuttgarter Zeitung, 07.12.2024; Stadt Freiburg, Allgemeinverfügung 28.11.2024",
+"faktencheck": "korrigiert",
+"id": "460-dietenbach/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "459-rieselfeld",
+"anschluss": [
+"Das Rieselfeld grenzt im Osten direkt an Dietenbach.",
+"Dietenbach liegt einen Kilometer näher an Freiburgs Mitte als Rieselfeld."
+],
+"anschluesse": {
+"459-rieselfeld": [
+"Das Rieselfeld grenzt im Osten direkt an Dietenbach.",
+"Dietenbach liegt einen Kilometer näher an Freiburgs Mitte als Rieselfeld."
+]
+},
+"ags": null,
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Neuer Freiburger Stadtteil, 4 km westlich der Stadtmitte, zwischen B31a und Rieselfeld; nordwestlich grenzt der Mundenhof."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Benannt nach dem Bach Dietenbach; Bürgerentscheid 2019, Spatenstich 2024 mit Bundeskanzler Olaf Scholz."
+},
+{
+"facette": "ALLTAG",
+"text": "Ein städtisches Erdaushubzwischenlager mit zwei Erdbergen liefert das Material, mit dem der Baugrund aufgeschüttet wird."
+},
+{
+"facette": "FREIZEIT",
+"text": "Östlich, an der Besançonallee, liegt der Dietenbachpark mit dem Dietenbachsee."
+},
+{
+"facette": "INFRA",
+"text": "Das Gelände war Überschwemmungsgebiet; die Rückhaltebecken Breitmatte und Bohrertal schützen vor Hochwasser. Stuttgart liegt 134 km entfernt."
+}
+],
+"km_vom_vorigen": 0.9
+},
+{
+"slug": "461-opfingen",
+"name": "Opfingen",
+"lat": 48,
+"lon": 7.71667,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wippertskirch, die verschwundene Mutterpfarrei",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Opfingen",
+"steckbrief": "Freiburger Stadtteil mit rund 4.500 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Zu Opfingen gehört der Wipperskircher Hof. Was war Wippertskirch ursprünglich?",
+"optionen": [
+"Es war ein Zollposten am Weg zum Rhein.",
+"Es war ein Siechenhaus für Aussätzige.",
+"Es war die Pfarrei für Opfingen und Nachbardörfer.",
+"Es war ein Fischerweiler an einem Rheinarm."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Zollposten läge nahe, weil viele Weiler an alten Handelswegen entstanden. Doch der Name verrät es: Wippertskirch hatte eine Pfarrkirche, zu der mehrere Kirchen gehörten. Auch die Opfinger Kapelle St. Katharina war eine Filiale von Wippertskirch. Ab 1276/78 wurde der Ort ein Priorat des Klosters Schuttern. Kirche und Schloss wurden abgerissen, übrig blieb der Wipperskircher Hof. Richtig war 3.",
+"quelle": "LEO-BW, Wippertskirch – Wohnplatz; Benediktinerpropstei Wippertskirch; Opfingen",
+"faktencheck": "korrigiert",
+"id": "461-opfingen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Baggersee als Naherholungsgebiet",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Opfingen",
+"steckbrief": "Freiburger Stadtteil mit rund 4.500 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Im Osten der Opfinger Gemarkung liegt ein großer See, im Süden Naherholungsgebiet. Wie ist er entstanden?",
+"optionen": [
+"Er ist ein abgeschnittener alter Rheinarm.",
+"Er wurde als Hochwasser-Rückhaltebecken angelegt.",
+"Er entstand aus einem alten Torfstich.",
+"Er entstand durch Kiesabbau über Jahrzehnte."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein alter Rheinarm liegt nahe, denn in der Rheinebene gibt es viele davon. Der große Opfinger See ist aber ein Baggersee: Ab Ende der 1960er Jahre wurde hier Kies abgebaut, 2014 war damit Schluss. Heute ist der Süden Naherholungsgebiet, im Norden liegt eine Biotopschutzzone. Für einen Stadtteil mit gut 4.500 Einwohnern ist das viel Wasser vor der Haustür. Richtig war 4.",
+"quelle": "Stadt Freiburg, Flyer Opfinger See (2016, 2025)",
+"faktencheck": "korrigiert",
+"id": "461-opfingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "nördlichster hochalemannischer Dialektort",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Opfingen",
+"steckbrief": "Freiburger Stadtteil mit rund 4.500 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Opfinger sagen „Chind“ statt Kind und „Chobf“ statt Kopf. Was ist an ihrem Dialekt besonders?",
+"optionen": [
+"Opfingen ist der nördlichste hochalemannische Dialektort.",
+"Opfingen ist der südlichste niederalemannische Dialektort.",
+"Opfingen ist der westlichste schwäbische Dialektort.",
+"Opfingen ist der südlichste fränkische Dialektort."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Niederalemannisch läge nahe, denn so spricht man in weiten Teilen der Oberrheinebene. Doch das „Ch“ am Wortanfang wie in „Chind“ ist ein Kennzeichen des Hochalemannischen, das sonst erst weiter südlich gesprochen wird. Opfingen gilt als nördlichster Ort mit hochalemannischem Dialekt, dem „Obfigerdydsch“. Wer hier vorbeifährt, kreuzt eine unsichtbare Sprachlinie. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Opfingen",
+"faktencheck": "korrigiert",
+"id": "461-opfingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Evangelisches Dorf wird konfessionell gemischt",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Opfingen",
+"steckbrief": "Freiburger Stadtteil mit rund 4.500 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Opfingen war lange ein evangelisches Dorf. Warum bekam es Mitte der 1980er Jahre eine katholische Kirche?",
+"optionen": [
+"Ein Auswanderer stiftete sie aus Amerika.",
+"Sie wurde als Kirche für ein neues Kloster gebaut.",
+"Viele Katholiken waren zugezogen.",
+"Das Erzbistum baute sie als Wallfahrtskirche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Wallfahrtskirche läge nahe, denn auf dem Land stehen viele davon. Der Grund war aber der starke Zuzug von Katholiken in den früher evangelischen Ort. So entstand 1984 bis 1986 die Kirche St. Nikolaus. Ihr Name erinnert an eine frühere Nikolauskapelle im Ortsteil St. Nikolaus. Aus dem evangelischen Bauerndorf wurde ein konfessionell gemischter Stadtteil. Richtig war 3.",
+"quelle": "Kath. Kirchengemeinde Freiburg-Tuniberg; LEO-BW",
+"faktencheck": "korrigiert",
+"id": "461-opfingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Stadtteil ohne Schienenanschluss",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Opfingen",
+"steckbrief": "Freiburger Stadtteil mit rund 4.500 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Osten der Gemarkung durchquert die Autobahn den Mooswald.",
+"Opfingen hat einen eigenen Bahnhof mit Zügen nach Freiburg.",
+"Das Opfinger Rathaus steht in der Ortsmitte des Stadtteils."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Bahnhof wirkt plausibel, denn viele Orte um Freiburg liegen an der Bahn. Opfingen aber nicht: Wer ohne Auto in die Stadt will, nimmt den Bus und steigt dann in die Straßenbahn um. Die Autobahn zieht im Osten durch den Mooswald, das Rathaus steht mitten im Ort. Für gut 4.500 Einwohner heißt das: Freiburg ist nah, aber nicht auf Schienen. Die Lüge war 2.",
+"quelle": "Wikipedia; VAG Freiburg, Liniennetzplan; Stadt Freiburg",
+"faktencheck": "korrigiert",
+"id": "461-opfingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dünn besiedelter Stadtteil",
+"rang": 5,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Opfingen",
+"steckbrief": "Freiburger Stadtteil mit rund 4.500 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Wie viele Einwohner leben in Opfingen auf einem Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 800",
+"800 bis unter 1.500",
+"1.500 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Freiburger Stadtteil, da denkt man an dichte Bebauung. Doch Opfingen hat gut 4.500 Einwohner auf 14,62 Quadratkilometern, also 309 je Quadratkilometer. Zur Gemarkung gehören Reben am Tuniberg, ein großer See und ein Stück Mooswald. Beim Vorbeifahren sieht man vor allem Reben, Felder und Wasser, nicht Stadt. Richtig war 1.",
+"quelle": "Wikidata P1082 (Stand 2024) und P2046, Dichte daraus berechnet",
+"faktencheck": "bestätigt",
+"id": "461-opfingen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "große Rebterrassen aus der Flurbereinigung",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Opfingen",
+"steckbrief": "Freiburger Stadtteil mit rund 4.500 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "In Opfingen gibt es große Rebterrassen. Wann wurden sie angelegt?",
+"optionen": [
+"Römische Siedler legten sie schon in der Antike an.",
+"Sie wurden im Mittelalter in Handarbeit angelegt.",
+"Sie entstanden bei Flurbereinigungen im 20. Jahrhundert.",
+"Sie entstanden nach dem Dreißigjährigen Krieg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mittelalter läge nahe, denn Weinbau hat am Oberrhein eine lange Tradition. Die großen Opfinger Rebterrassen entstanden aber bei Rebflurbereinigungen ab den 1950er Jahren. Damit bauten die Opfinger ihren Weinbau aus, 1952 gründeten sie ihre Winzergenossenschaft. Seitdem prägen Reben den Tuniberg. Heute ist Opfingen für Wein und Spargel bekannt. Richtig war 3.",
+"quelle": "Stadt Freiburg, 50 Jahre Eingemeindung Opfingen",
+"faktencheck": "korrigiert",
+"id": "461-opfingen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "alamannisches Kriegergrab über dem Friedhof",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Opfingen",
+"steckbrief": "Freiburger Stadtteil mit rund 4.500 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Im Gewann Katzensteig oberhalb des Opfinger Friedhofs fand man ein altes Grab. Wer lag darin?",
+"optionen": [
+"Dort lag ein römischer Legionär des 3. Jahrhunderts.",
+"Dort lag ein alamannischer Krieger des 5. Jahrhunderts.",
+"Dort lag ein keltischer Fürst der Eisenzeit.",
+"Dort lag ein Soldat des Dreißigjährigen Kriegs."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Römer läge nahe, denn römische Funde gibt es am Oberrhein vielerorts. Im Grab lag aber ein alamannischer Krieger aus dem 5. Jahrhundert. Aus dieser Zeit kennt man im Breisgau nur wenige Gräber, das macht den Fund wertvoll. Er zeigt: Opfingen ist viel älter als seine erste Erwähnung in einer Urkunde im Jahr 1006. Richtig war 2.",
+"quelle": "Archäologische Nachrichten aus Baden 47/48 (1992); LEO-BW",
+"faktencheck": "korrigiert",
+"id": "461-opfingen/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "460-dietenbach",
+"anschluss": [
+"Opfingen liegt zehn Kilometer von Freiburgs Mitte, Dietenbach nur vier."
+],
+"anschluesse": {
+"460-dietenbach": [
+"Opfingen liegt zehn Kilometer von Freiburgs Mitte, Dietenbach nur vier."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil am Ostrand des Tunibergs, 10 km westlich der Stadtmitte; gut 4.500 Einwohner auf knapp 15 Quadratkilometern."
+},
+{
+"facette": "GESCHICHTE",
+"text": "1006 erstmals als „Obphinga“ erwähnt, seit 1971 Teil von Freiburg; dazu gehört der frühere Pfarrort Wippertskirch."
+},
+{
+"facette": "ALLTAG",
+"text": "Früher Winzer- und Bauerndorf, bekannt für Spargel; heute Reben, Spargel, Mais und viele Berufspendler."
+},
+{
+"facette": "FREIZEIT",
+"text": "Opfinger Seen, Maisfeld-Labyrinth, Westwall-Sanitätsbunker, Weinwerkstatt, Aussichtsturm in den Reben, Breisgau-Radwanderweg und Naturerlebnispfad Rieselfeld."
+},
+{
+"facette": "INFRA",
+"text": "Bus über Rieselfeld nach Lehen mit Anschluss an die Straßenbahn, eigene Grundschule, Autobahn A 5 im Osten."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 28,6 Prozent vorn; die Wahlbeteiligung lag mit 85,8 Prozent über dem Landeswert."
+}
+],
+"km_vom_vorigen": 6.0
+},
+{
+"slug": "462-tiengen-freiburg",
+"name": "Tiengen",
+"lat": 47.98333,
+"lon": 7.71389,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "Weingut draußen im Mooswald",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tiengen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.700 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Das Tiengener Weingut Schlatthöfe liegt nicht im Ort selbst. Wo liegt es?",
+"optionen": [
+"Es liegt auf dem Kamm des Tunibergs.",
+"Es liegt draußen im Mooswald.",
+"Es liegt drüben am Kaiserstuhl.",
+"Es liegt auf einer Insel im Rhein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Weingut hört, denkt an Rebhänge, und der Tuniberg liegt gleich am Ort. Die Schlatthöfe aber liegen draußen im Mooswald, zwischen St. Georgen und Opfingen. Heute gibt es dort eine Straußwirtschaft, also eine Wirtschaft, in der der Winzer eigenen Wein ausschenkt. Die Höfe gehören trotzdem zur Gemarkung Tiengen, die damit weit über das Dorf am Tuniberg hinausreicht. Richtig war 2.",
+"quelle": "LEO-BW (Schlatthöfe, Wohnplatz); Wikipedia, de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "462-tiengen-freiburg/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Heimat des Models Anna Ewers",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tiengen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.700 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Unter den bekannten Persönlichkeiten Tiengens ist eine Frau des Jahrgangs 1993. Was ist sie von Beruf?",
+"optionen": [
+"Sie ist Skispringerin.",
+"Sie ist Opernsängerin.",
+"Sie ist Model.",
+"Sie ist Tennisspielerin."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Weinort am Tuniberg denkt man eher an Sport oder Musik als an Laufstege. Doch Anna Ewers, Jahrgang 1993, stammt aus Freiburg-Tiengen und ist Model. Vom Tuniberg in die Modewelt: Für einen Stadtteil mit gut 3.700 Einwohnern ist das eine bemerkenswerte Herkunft. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "462-tiengen-freiburg/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Baggersee als unzugängliches Naturschutzgebiet",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tiengen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.700 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Im Arlesheimer Wald nahe der Autobahn liegt der Arlesheimer See. Was gilt für ihn heute?",
+"optionen": [
+"Er ist ein Badesee mit Liegewiese.",
+"Dort wird noch immer Kies gebaggert.",
+"Auf ihm gibt es einen Bootsverleih.",
+"Er liegt unzugänglich im Naturschutzgebiet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein ehemaliger Baggersee nahe der Autobahn, da denkt man an Badetücher am Ufer oder an Boote. Doch der See, entstanden beim Kiesabbau für die Autobahn, steht seit 1966 unter Naturschutz. Betreten ist verboten, gebaggert wird nicht mehr. Heute ist er ein Nist- und Rastplatz für Wasservögel auf Tiengener Gemarkung. Richtig war 4.",
+"quelle": "Stadt Freiburg (Naturschutzgebiete); LUBW-Schutzgebietssteckbrief",
+"faktencheck": "korrigiert",
+"id": "462-tiengen-freiburg/v0.9/3",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "evangelische Kirche mit mittelalterlichem Turmfuß",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Tiengen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.700 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Am Ende des Mittelalters kam Tiengen an Baden.",
+"Beim Neubau der Kirche blieben die Untergeschosse des mittelalterlichen Turms erhalten.",
+"Die Kirche St. Symphorian ist heute katholisch."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Heiliger wie Symphorian als Kirchenpatron klingt katholisch, und viele Breisgaudörfer sind es auch. Doch die Pfarrei ist evangelisch. Den Hinweis gab die erste Aussage: Tiengen kam an die Markgrafen von Baden, und unter ihnen wurde hier die Reformation eingeführt. Selbst danach blieb die Pfarrei dem Basler Domkapitel zugeordnet, ein Rest der alten Basler Rechte im Ort. Die Lüge war 3.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7743/Tiengen",
+"faktencheck": "korrigiert",
+"id": "462-tiengen-freiburg/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "gewachsener Pendlerort am Stadtrand",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Tiengen",
+"steckbrief": "Freiburger Stadtteil mit gut 8 Quadratkilometern Fläche, 10 km westlich der Stadtmitte.",
+"frage": "Wie viele Einwohner hat Tiengen?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 2.500",
+"2.500 bis unter 3.500",
+"3.500 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Einen Stadtteil am Rand mit viel unbebauter Fläche schätzt man leicht kleiner. Doch Tiengen ist seit 1970 stark gewachsen und ist eine Pendlergemeinde: 3.715 Menschen lebten 2024 hier. Auf gut 8 Quadratkilometern sind das rund 440 je Quadratkilometer, obwohl der weitaus größte Teil der Gemarkung unbebaut ist. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2024; Wikipedia, de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau)",
+"faktencheck": "bestätigt",
+"id": "462-tiengen-freiburg/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wappen mit St. Galler Bär",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tiengen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.700 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Das Tiengener Wappen zeigt einen schwarzen Bären neben einem Bischofsstab. Wofür steht der Bär?",
+"optionen": [
+"Er erinnert an Bären im alten Mooswald.",
+"Er steht für die Stadt Bern.",
+"Er steht für St. Gallen.",
+"Er steht für den Kirchenpatron Symphorian."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bär im Wappen lässt an Bern denken, das ihn schon im Namen trägt. In Tiengen aber zeigt das Wappen Besitzverhältnisse: Der schwarze Bär steht für das Kloster St. Gallen, dem Tiengen schon 888 gehörte, der silberne Bischofsstab auf Rot für Basel. So trägt ein Freiburger Stadtteil zwei Namen aus der heutigen Schweiz im Schild. Richtig war 3.",
+"quelle": "LEO-BW (Tiengen); Wikipedia, de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "462-tiengen-freiburg/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Gasthaus Anker, einst Poststation",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tiengen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.700 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Das Gasthaus „Zum Anker“ steht in der Tiengener Ortsmitte. Was war es ursprünglich?",
+"optionen": [
+"Es war eine Poststation.",
+"Es war eine Herberge für Rheinschiffer.",
+"Es war das Pfarrhaus des Dorfs.",
+"Es war die Dorfschule."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Anker im Namen lässt an Schiffer denken, die hier eingekehrt wären. Doch das Gasthaus „Zum Anker“ in der Ortsmitte war ursprünglich eine Poststation, also ein Halt, an dem Postkutschen die Pferde wechselten und Reisende rasteten. Wer heute durch die Ortsmitte fährt, sieht im Anker ein Stück Reisegeschichte des Dorfs. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Tiengen_(Freiburg_im_Breisgau)",
+"faktencheck": "bestätigt",
+"id": "462-tiengen-freiburg/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "461-opfingen",
+"anschluss": [
+"Am Mühlbach führt ein Radweg von Tiengen nach Opfingen.",
+"Opfingen ist mit rund 4.500 Einwohnern größer als Tiengen."
+],
+"anschluesse": {
+"461-opfingen": [
+"Am Mühlbach führt ein Radweg von Tiengen nach Opfingen.",
+"Opfingen ist mit rund 4.500 Einwohnern größer als Tiengen."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil am Tuniberg, 10 km westlich der Stadtmitte, gut 220 Meter hoch; Schutzgebiete Arlesheimer See und Gaisenmoos."
+},
+{
+"facette": "GESCHICHTE",
+"text": "888 als Tunginga erstmals erwähnt, einst Besitz des Bistums Basel, später badisch, seit 1973 Teil Freiburgs; zwei Kriegerdenkmäler."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 3.700 Einwohner auf gut 8 Quadratkilometern, Pendlerort; der Weinbau hat an Bedeutung verloren, Gasthaus „Zum Anker“."
+},
+{
+"facette": "FREIZEIT",
+"text": "Tuniberghaus für Veranstaltungen, Breisgau-Radwanderweg und weitere Radwege am Mühlbach, Tunibergradweg über den Berg."
+},
+{
+"facette": "INFRA",
+"text": "Schnellbuslinie 37 zum Freiburger Hauptbahnhof und eine Station des Fahrradverleihs Frelo."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: Wahlbeteiligung 87,3 Prozent, klar über dem Landeswert; CDU vor den Grünen."
+}
+],
+"km_vom_vorigen": 1.9
+},
+{
+"slug": "463-munzingen",
+"name": "Munzingen",
+"lat": 47.96861,
+"lon": 7.69972,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Golfplatz am Rand des Dorfs",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Munzingen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.000 Einwohnern, 12 km westlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Munzingen?",
+"optionen": [
+"ein Golfplatz",
+"eine Eissporthalle",
+"ein Freilichtmuseum",
+"eine Kletterhalle"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Hallen für Eis oder Klettern erwartet man eher in der Kernstadt, und ein Golfplatz wirkt in einem Dorf zunächst fremd. Doch am Rand von Munzingen liegt der Platz des Golf-Clubs Tuniberg, den auch der Ortsplan der Stadt Freiburg verzeichnet. Für einen Ortsteil mit gut 3.000 Einwohnern ist ein eigener Golfplatz bemerkenswert. Richtig war 1.",
+"quelle": "Stadt Freiburg, www.freiburg.de/pb/site/Freiburg/get/params_E1769667793/1447298/79098_150_03_20.pdf",
+"faktencheck": "korrigiert",
+"id": "463-munzingen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Rundturm „Gigili“ in der Ortsmitte",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Munzingen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.000 Einwohnern, 12 km westlich der Stadtmitte.",
+"frage": "In der Ortsmitte von Munzingen steht ein Rundturm, liebevoll „Gigili“ genannt. Was ist er?",
+"optionen": [
+"Er ist der Rest einer alten Kirche.",
+"Er ist der Rest eines Wasserschlosses.",
+"Er wurde als Wachturm der Winzer gebaut.",
+"Er wurde als Taubenturm eines Hofs gebaut."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein runder Turm mitten im Dorf erinnert an einen Kirchturm, zumal die Kirche St. Stephan in der Ortsmitte steht. Tatsächlich ist das Gigili ein Rest des einstigen Wasserschlosses, in dem die Nachfolger der Vögte saßen; von diesem Schloss steht heute noch der Rundturm. Wer durch Munzingen fährt, sieht ein Stück Schlossgeschichte zwischen den Häusern; der Kosename verrät, wie sehr das Dorf daran hängt. Richtig war 2.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7727/Munzingen; Gemeinde-Webseite, www.freiburg.de/pb/site/Freiburg/get/params_E1769667793/1447298/79098_150_03_20.pdf",
+"faktencheck": "korrigiert",
+"id": "463-munzingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Winzerdorf mit Spätburgunder auf Löß",
+"rang": 4,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Munzingen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.000 Einwohnern, 12 km westlich der Stadtmitte.",
+"frage": "Wie beschreibt die Stadt Freiburg Munzingen?",
+"optionen": [
+"als Fischerdorf",
+"als Bergbaudorf",
+"als Winzerdorf mit langer Tradition",
+"als Industriestandort"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Rhein ist nah, und am Oberrhein gab es Bergbau, doch die Stadt Freiburg nennt Munzingen ein Winzerdorf mit langer Tradition. Auf tiefgründigem Lössboden wachsen Burgunder, Müller-Thurgau, Muskateller und Gewürztraminer. Weingüter und eine Winzergenossenschaft bauen ihn aus. Wer vorbeifährt, sieht Reben am Hang des Tunibergs. Richtig war 3.",
+"quelle": "Stadt Freiburg, www.freiburg.de/pb/site/Freiburg/get/params_E1769667793/1447298/79098_150_03_20.pdf",
+"faktencheck": "korrigiert",
+"id": "463-munzingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Kapelle auf der Tuniberg-Südspitze",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Munzingen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.000 Einwohnern, 12 km westlich der Stadtmitte.",
+"frage": "Was hebt die Stadt Freiburg als von weither sichtbar auf dem südlichen Tuniberg über Munzingen hervor?",
+"optionen": [
+"einen Aussichtsturm",
+"eine Burgruine",
+"ein Gipfelkreuz",
+"eine Kapelle"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Auf einem Berg mit Aussicht zum Schwarzwald und zu den Vogesen läge ein Aussichtsturm nahe. Doch die Stadt Freiburg hebt die St. Erentrudiskapelle hervor, die von weither sichtbar auf dem südlichen Tuniberg über dem Ort steht. Laut Landesportal ist sie ein Neubau von 1870. Wer an Munzingen vorbeifährt, erkennt das Dorf an dieser Kapelle. Richtig war 4.",
+"quelle": "Stadt Freiburg, www.freiburg.de/pb/site/Freiburg/get/params_E1769667793/1447298/79098_150_03_20.pdf; LEO-BW, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7727/Munzingen",
+"faktencheck": "korrigiert",
+"id": "463-munzingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Grundschule mit eigenem Lehrschwimmbecken",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Munzingen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.000 Einwohnern, 12 km westlich der Stadtmitte.",
+"frage": "Die Stadt Freiburg hob 2020 an der Grundschule Munzingen eine Besonderheit hervor. Welche?",
+"optionen": [
+"Sie hat ein eigenes Lehrschwimmbecken.",
+"Sie ist in einem Schloss untergebracht.",
+"Sie hat eine eigene Sternwarte.",
+"Sie hat eine eigene Reithalle."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei den Schlössern im Ort läge ein Schulschloss nahe, doch Schloss Reinach etwa ist heute ein Hotel. Die Stadt Freiburg hob in ihrer Ortsbroschüre von 2020 hervor, dass die Grundschule über ein eigenes Lehrschwimmbecken verfügt, also ein Becken eigens für den Schwimmunterricht. Für einen Ortsteil mit gut 3.000 Einwohnern ist das bemerkenswert. Richtig war 1.",
+"quelle": "Stadt Freiburg, www.freiburg.de/pb/site/Freiburg/get/params_E1769667793/1447298/79098_150_03_20.pdf",
+"faktencheck": "korrigiert",
+"id": "463-munzingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "vorderösterreichisch und katholisch geblieben",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Munzingen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.000 Einwohnern, 12 km westlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Munzingen wurde in der Reformation evangelisch.",
+"Munzingen stand einst unter habsburgischer Oberhoheit.",
+"Ein Reihengräberfeld belegt Munzingens frühe Besiedlung."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele Orte im Südwesten wurden evangelisch, darum klingt Aussage 1 harmlos. Doch Munzingen stand unter habsburgischer Landeshoheit, bis es von Österreich an Baden kam, und die Habsburger hielten ihre Gebiete katholisch. Munzingen hat eine katholische Pfarrei; die Evangelischen gehörten zu Tiengen. Ein Reihengräberfeld, ein Friedhof mit Gräbern in Reihen, belegt Besiedlung vom späten 5. bis zum späten 7. Jahrhundert. Die Lüge war 1.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7727/Munzingen",
+"faktencheck": "korrigiert",
+"id": "463-munzingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "große Dorfgemarkung am Stadtrand",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Munzingen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.000 Einwohnern, 12 km westlich der Stadtmitte.",
+"frage": "Wie groß ist die Gemarkung des Stadtteils Munzingen?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 5 km²",
+"5 bis unter 8 km²",
+"8 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Stadtteil denkt man leicht an ein paar Straßenzüge, also an eine kleine Fläche. Doch Munzingen hat eine eigene Gemarkung von 6,77 Quadratkilometern. Mit gut 3.000 Einwohnern ergibt das rund 450 Einwohner je Quadratkilometer, wenig für einen Teil einer Großstadt: Munzingen wirkt eher wie ein Dorf am Rand von Freiburg. Richtig war 3.",
+"quelle": "dewiki Infobox (Fläche); Wikidata P1082 (Einwohner, Stand 2024)",
+"faktencheck": "bestätigt",
+"id": "463-munzingen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Weihnachtsmarkt im Schlosshof",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Munzingen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.000 Einwohnern, 12 km westlich der Stadtmitte.",
+"frage": "Der Munzinger Weihnachtsmarkt ist überregional bekannt. Wo findet er statt?",
+"optionen": [
+"Er findet im Hof von Schloss Munzingen statt.",
+"Er findet im Hof von Schloss Reinach statt.",
+"Er findet in der Festscheune Dreschschopf statt.",
+"Er findet rund um St. Stephan statt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Festscheune Dreschschopf wäre naheliegend, denn dort feiern die Vereine Sängerhock und Lindenbaumhock. Doch den Weihnachtsmarkt richten die Vereine im Hof des Hotels Schloss Reinach aus, eines ehemaligen Gutshofs mitten im Ort. Ein Schlosshof als Kulisse im Advent macht das Dorf zum Anziehungspunkt für Besucher von weit her. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/site/Freiburg/get/params_E1769667793/1447298/79098_150_03_20.pdf",
+"faktencheck": "bestätigt",
+"id": "463-munzingen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Spargelort in der Ebene",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Munzingen",
+"steckbrief": "Freiburger Stadtteil mit gut 3.000 Einwohnern, 12 km westlich der Stadtmitte.",
+"frage": "Die Stadt Freiburg nennt Munzingen in ihrer Bürgerinformation den „Wein- und …ort am Tuniberg“. Welches Gemüse fehlt?",
+"optionen": [
+"Zwiebel",
+"Meerrettich",
+"Kürbis",
+"Spargel"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Zwiebeln liegen nahe, denn in Munzingen gibt es ein Zwiebelkuchenfest. Doch die Stadt Freiburg nennt Munzingen in ihrer Bürgerinformation den Wein- und Spargelort am Tuniberg: In der Ebene sind die Bedingungen für den Spargelanbau optimal. Wer an Munzingen vorbeifährt, sieht also nicht nur den Berg mit den Reben, sondern auch die Spargelfelder in der Ebene. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/site/Freiburg/get/params_E1769667793/1447298/79098_150_03_20.pdf",
+"faktencheck": "korrigiert",
+"id": "463-munzingen/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "462-tiengen-freiburg",
+"anschluss": [
+"Tiengen hat knapp 700 Einwohner mehr als Munzingen.",
+"Die Wahlbeteiligung 2025 war in Tiengen höher als in Munzingen."
+],
+"anschluesse": {
+"462-tiengen-freiburg": [
+"Tiengen hat knapp 700 Einwohner mehr als Munzingen.",
+"Die Wahlbeteiligung 2025 war in Tiengen höher als in Munzingen."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 12 km westlich der Stadtmitte, gut 210 Meter hoch, am Tuniberg (314 m), Gemarkung 6,77 km²."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1973 Stadtteil von Freiburg; im Ort stehen Schloss Munzingen von 1672, Schloss Reinach und das Denkmal Weinstock."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 3.000 Einwohner, Weinbau mit dem Weingut Kuhn am Tuniberg, Spargel, Gewerbegebiet Roos, Pumpenhersteller KNF Neuberger."
+},
+{
+"facette": "FREIZEIT",
+"text": "Golfclub Tuniberg, Breisgau-Radwanderweg (64 km), Burgunderpfad (26,5 km), Vereinsfeste in der Festscheune Dreschschopf."
+},
+{
+"facette": "INFRA",
+"text": "Mehrere Buslinien nach Freiburg, eine Grundschule mit Lehrschwimmbecken, eine Ortsverwaltung in der Romanstraße."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU vorn, die AfD knapp vor den Grünen; die Wahlbeteiligung lag mit 85,3 Prozent über dem Land."
+}
+],
+"km_vom_vorigen": 1.9
+},
+{
+"slug": "464-waltershofen",
+"name": "Waltershofen",
+"lat": 48.0239,
+"lon": 7.72139,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "vermutete Wasserburg, nur im Flurnamen",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waltershofen",
+"steckbrief": "Freiburger Ortsteil mit knapp 2.200 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "In Waltershofen wird eine einstige Wasserburg vermutet. Worauf stützt sich diese Vermutung?",
+"optionen": [
+"Bei Bauarbeiten kamen alte Mauerreste zutage.",
+"Eine alte Urkunde nennt die Burg ausdrücklich.",
+"Luftbilder zeigen die Spur eines Burggrabens.",
+"Ein Flurname in der Niederung deutet darauf hin."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Urkunde läge nahe, denn Waltershofen hatte bei seiner Erstnennung 1139 eigenen Adel, und Adel saß oft auf Burgen. Doch die Landesbeschreibung nennt als Hinweis einen Flurnamen: ‚Auf der Burg‘ heißt eine Stelle in der Niederung. Die Burg selbst bleibt eine Vermutung; ihr Name lebt im Flurnamen fort. Richtig war 4.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7746/Waltershofen",
+"faktencheck": "korrigiert",
+"id": "464-waltershofen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Baggersee aus dem Autobahnbau",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waltershofen",
+"steckbrief": "Freiburger Ortschaft mit knapp 2.200 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Im Südosten der Waltershofener Gemarkung liegt ein See. Wie ist er entstanden?",
+"optionen": [
+"Er ist ein alter Seitenarm des Rheins.",
+"Er entstand beim Kiesabbau für einen Autobahnzubringer.",
+"Er füllt eine alte Torfstichgrube.",
+"Er wurde als Rückhaltebecken gegen Hochwasser angelegt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein alter Rheinarm liegt in der Rheinebene nahe, doch der Waltershofener See ist von Menschen gemacht: Von 1967 bis 1969 wurde hier Kies für den Autobahnzubringer Freiburg-Mitte ausgebaggert. Später belastete nährstoffreiches Wasser aus dem alten Rieselfeld den See stark, er war völlig überdüngt. So ist der See ein Stück Verkehrs- und Umweltgeschichte bei Waltershofen. Richtig war 2.",
+"quelle": "Fachaufsatz „Zwangszirkulation in einem hypereutrophen Baggersee (Waltershofener See, Freiburg)“.",
+"faktencheck": "korrigiert",
+"id": "464-waltershofen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kirchenname aus dem Nachbarort Wippertskirch",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waltershofen",
+"steckbrief": "Freiburger Ortsteil mit knapp 2.200 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Waltershofens Kirche St. Peter und Paul trägt einen übernommenen Namen. Von welcher Kirche stammt er?",
+"optionen": [
+"Er stammt vom Freiburger Münster.",
+"Er stammt von der alten Margaretenkapelle im Dorf.",
+"Er stammt von der Klosterkirche in St. Märgen.",
+"Er stammt von der Prioratskirche in Wippertskirch."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Margaretenkapelle liegt nahe, denn sie stand schon im Mittelalter im Dorf, als Filiale von Wippertskirch. Doch der Name kam von der abgebrochenen Prioratskirche in Wippertskirch: Die neue Pfarrkirche von Waltershofen übernahm deren Patrozinium Peter und Paul. Ein Teil der Gemarkung Wippertskirch wurde später mit Waltershofen vereinigt. So trägt die Dorfkirche ein Stück Wippertskirch mitten in Waltershofen. Richtig war 4.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7746/Waltershofen",
+"faktencheck": "korrigiert",
+"id": "464-waltershofen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "großzügige Gemarkung für einen Stadtteil",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Waltershofen",
+"steckbrief": "Freiburger Ortsteil mit knapp 2.200 Einwohnern, 10 km westlich der Stadtmitte.",
+"frage": "Wie groß ist die Gemarkung von Waltershofen?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Freiburger Stadtteil denkt man an wenige Straßenzüge und schätzt eher klein. Doch Waltershofen ist ein Dorf mit eigener Gemarkung, die 7,58 Quadratkilometer umfasst. Darauf leben knapp 2.200 Menschen, knapp 290 je Quadratkilometer: für einen Freiburger Stadtteil locker besiedelt. Richtig war 2.",
+"quelle": "dewiki Infobox (Fläche); Wikidata P1082, Stand 2024 (Einwohner)",
+"faktencheck": "bestätigt",
+"id": "464-waltershofen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Dorf am Tuniberg",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waltershofen",
+"steckbrief": "Waltershofen, knapp 2.200 Einwohner, liegt 10 km westlich der Freiburger Stadtmitte.",
+"frage": "Waltershofen liegt an einem Höhenzug der Region. An welchem?",
+"optionen": [
+"Der Ort liegt am Kaiserstuhl.",
+"Der Ort liegt am Rand des Schwarzwalds.",
+"Der Ort liegt am Tuniberg.",
+"Der Ort liegt am Schönberg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Kaiserstuhl liegt nahe, denn er ist westlich von Freiburg weithin bekannt. Waltershofen liegt aber am Tuniberg: Der Ort ist ein Haufendorf am Ostrand des nördlichen Tunibergs. Wer Waltershofen besucht, ist also am Tuniberg, nicht am Kaiserstuhl. Richtig war 3.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7746/Waltershofen",
+"faktencheck": "korrigiert",
+"id": "464-waltershofen/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "463-munzingen",
+"anschluss": [
+"Waltershofen hat weniger Einwohner, aber mehr Fläche als Munzingen.",
+"Die AfD war 2025 in Munzingen stärker als in Waltershofen."
+],
+"anschluesse": {
+"463-munzingen": [
+"Waltershofen hat weniger Einwohner, aber mehr Fläche als Munzingen.",
+"Die AfD war 2025 in Munzingen stärker als in Waltershofen."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Waltershofen liegt 10 km westlich der Freiburger Stadtmitte am Tuniberg, rund 200 Meter hoch, mit Anteil am Naturschutzgebiet Rieselfeld."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1139 als „Waltershoven“ genannt, später unter den Freiherren von Kageneck, seit 1972 ein Teil von Freiburg."
+},
+{
+"facette": "ALLTAG",
+"text": "Knapp 2.200 Einwohner auf 7,58 Quadratkilometern, die Weingüter Landmann und Hercher und der Betrieb Löffel Mühlen."
+},
+{
+"facette": "FREIZEIT",
+"text": "Windhundstadion, Krebsbachstadion, Steinriedhalle, Panoramapfade Nord und Süd, Kaiserstuhl-Radwanderweg und der Waltershofener See."
+},
+{
+"facette": "INFRA",
+"text": "Postleitzahl 79112, Vorwahl 07665, Kennzeichen FR; Radwege führen nach Umkirch und nach Merdingen."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 33,2 Prozent vorn; die Wahlbeteiligung lag mit 86,6 Prozent über dem Land."
+}
+],
+"km_vom_vorigen": 6.4
+},
+{
 "slug": "387-ebnet",
 "name": "Ebnet",
 "lat": 47.98639,
@@ -5595,7 +10251,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "440-waldsee",
+"anschluss_von": "464-waltershofen",
 "anschluss": [],
 "anschluesse": {
 "388-littenweiler": [
@@ -5710,7 +10366,7 @@ window.QA_DATEN = {
 "text": "Bundestagswahl 2025: Grüne 35,3 Prozent vor CDU 23,6 Prozent, Wahlbeteiligung 89,9 Prozent."
 }
 ],
-"km_vom_vorigen": 1.5
+"km_vom_vorigen": 14.3
 },
 {
 "slug": "388-littenweiler",
@@ -9303,169 +13959,216 @@ window.QA_DATEN = {
 "lon": 7.80194,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Dorf aus dem Lorscher Codex",
+"rang": 10,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hochdorf",
 "steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
-"frage": "Der erste schriftliche Beleg für Hochdorf stammt aus dem Jahr 773. Wovon erzählt er?",
+"frage": "Hochdorf und sein Ortsteil Benzhausen sind früh in Klosterquellen belegt. Welches Kloster verzeichnete Hochdorf selbst zuerst?",
 "optionen": [
-"Besitz im Ort ging an das Kloster Reichenau.",
-"Besitz im Ort ging an das Kloster St. Trudpert.",
-"Besitz im Ort ging an das Kloster Murbach.",
-"Besitz im Ort ging an das Kloster Lorsch."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Kloster aus der Nähe liegt als Vermutung nahe. Der Beleg steht aber im Lorscher Codex, der Besitzübertragungen an das Kloster Lorsch vermerkt: Besitz in Hochdorf ging damals an dieses Kloster. Hochdorf wird damit Jahrhunderte vor der Gründung Freiburgs erwähnt. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
-"faktencheck": "korrigiert",
-"id": "397-hochdorf-freiburg/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Hochdorf",
-"steckbrief": "Stadtteil von Freiburg im Breisgau, 7 km nordwestlich der Stadtmitte, Fläche rund 10 km².",
-"frage": "Wie viele Menschen leben im Freiburger Stadtteil Hochdorf?",
-"optionen": [
-"unter 6.000",
-"6.000 bis unter 9.000",
-"9.000 bis unter 12.000",
-"12.000 und mehr"
+"Das Kloster Lorsch verzeichnete Hochdorf zuerst.",
+"Das Kloster St. Gallen verzeichnete Hochdorf zuerst.",
+"Das Kloster Reichenau verzeichnete Hochdorf zuerst.",
+"Das Kloster St. Blasien verzeichnete Hochdorf zuerst."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Als Stadtteil einer Großstadt schätzt man Hochdorf leicht größer ein. Doch zum Stadtteil gehören neben dem Ort selbst nur Benzhausen und das Gewerbegebiet Markwald. Wikidata nennt 5.308 Einwohner (Stand 2024). Richtig war 1.",
-"quelle": "Wikidata P1082, Stand 2024; Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
-"faktencheck": "bestätigt",
-"id": "397-hochdorf-freiburg/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. St. Gallen liegt nahe, denn der Ortsteil Benzhausen taucht 788 zuerst in einer Schenkungsurkunde an dieses Kloster auf, Hochdorf selbst erst 804. Nach Angaben der Stadt erscheint Hochdorf aber zuerst im Lorscher Codex, dem Urkundenbuch des Klosters Lorsch. Seine schriftlichen Spuren reichen also viel weiter zurück als seine Zugehörigkeit zu Freiburg. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html; Schweizerisches Urkundenregister Nr. 206 (monasterium.net)",
+"faktencheck": "korrigiert",
+"id": "397-hochdorf-freiburg/v0.9/1",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Festivalsee aus dem Straßenbau",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte, mit dem Ortsteil Benzhausen.",
+"frage": "Am Tunisee bei Hochdorf läuft jedes Jahr das Sea You Festival. Wie ist der See entstanden?",
+"optionen": [
+"Er ist ein natürlicher alter Rheinarm.",
+"Er entstand durch den Straßenbau in der Umgebung.",
+"Er wurde eigens für das Festival ausgehoben.",
+"Er ist ein gefluteter alter Torfstich."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name Sea You und die Lage in der Rheinebene lassen an einen alten Rheinarm oder einen eigens angelegten Festivalsee denken. Tatsächlich entstand der Tunisee durch den Straßenbau in der Umgebung, lange vor dem ersten Festival. Der Campingsee beim Ortsteil Benzhausen macht den Stadtteil mit rund 5.300 Einwohnern einmal im Jahr zum Festivalort. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "397-hochdorf-freiburg/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Gewerbegebiet jenseits der Autobahn",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
+"frage": "Hochdorf hat ein eigenes Gewerbe- und Industriegebiet. Wo liegt es, vom alten Dorf aus gesehen?",
+"optionen": [
+"Es liegt mitten im Dorfkern bei St. Martin.",
+"Es liegt westlich, beim Naturschutzgebiet Mühlmatten.",
+"Es liegt südöstlich, umgeben vom Markwald.",
+"Es liegt nördlich, direkt am Tunisee."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Westlich klingt nach freiem Feld, doch dort liegt das Naturschutzgebiet Mühlmatten. Das Gewerbe- und Industriegebiet liegt südöstlich von Hochdorf, umgeben vom Markwald. Weiter im Norden gehört außerdem der Ortsteil Benzhausen zu Hochdorf. Dorf, Gewerbegebiet und Benzhausen liegen also nach verschiedenen Seiten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html; www.freiburg.de/pb/402847.html",
+"faktencheck": "korrigiert",
+"id": "397-hochdorf-freiburg/v0.9/3",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kirche St. Martin als Wahrzeichen",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte, seit 1973 eingemeindet.",
+"frage": "Was gilt nach Angaben der Stadt als das markanteste Wahrzeichen von Hochdorf?",
+"optionen": [
+"Die Dorfkirche gilt als Wahrzeichen.",
+"Ein Storchennest auf der Ortsverwaltung gilt als Wahrzeichen.",
+"Ein alter Wasserturm gilt als Wahrzeichen.",
+"Eine Burgruine am Dorfrand gilt als Wahrzeichen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Hallenbad, Wasserturm und Burgruine wären auffällige Kandidaten. Als markantestes Wahrzeichen nennt die Stadt aber die Kirche St. Martin: spätgotisch und im Altarbereich reich verziert. Sie erinnert daran, dass Hochdorf ein eigenes Dorf war, bevor es zu Freiburg kam. Auf ihr nisten sogar Weißstörche. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html; www.freiburg.de/pb/790741.html",
+"faktencheck": "korrigiert",
+"id": "397-hochdorf-freiburg/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Partnerschaft bis nach Paris",
+"rang": 7,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Hochdorf",
 "steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Auch Benzhausen gehört zum Freiburger Stadtteil Hochdorf.",
-"Die Benzhausener Kapelle blieb im Dreißigjährigen Krieg verschont.",
-"Am Högebrunnenplatz fließt ein nachgebautes Freiburger Bächle."
+"Die Grundschule im Ort heißt Mühlmattenschule.",
+"Hochdorfs Partnergemeinde liegt im nahen Elsass.",
+"Hochdorf hat trotz Eingemeindung eine eigene Ortsverwaltung."
 ],
 "art": "luege",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Bächle wirken erfunden, weil sie das Markenzeichen der Freiburger Innenstadt sind; am Högebrunnenplatz wurden sie nachgebildet. Gelogen ist die Kapelle: St. Agatha in Benzhausen musste nach dem Dreißigjährigen Krieg wieder aufgebaut werden. Benzhausen gehört tatsächlich zu Hochdorf. Die Lüge war 2.",
-"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
-"faktencheck": "bestätigt",
-"id": "397-hochdorf-freiburg/v0.8/3",
+"rueckseite": "Du hattest [Option] getippt. So nah an der Grenze wäre eine Partnerschaft ins Elsass naheliegend. Hochdorfs Partnergemeinde ist aber seit 1978 Chevilly-Larue im Département Val-de-Marne bei Paris. Grundschule, Ortsverwaltung und eine eigene Partnerschaft: Der Freiburger Stadtteil hat vieles, was sonst eine selbstständige Gemeinde ausmacht. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838138.html; www.freiburg.de/pb/207704.html",
+"faktencheck": "korrigiert",
+"id": "397-hochdorf-freiburg/v0.9/6",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Hochdorf",
-"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
-"frage": "Bekannt ist der Tunisee in Hochdorf durch das Sea You Festival. Wie ist der See entstanden?",
-"optionen": [
-"Er ist ein natürlicher Altarm des Rheins.",
-"Er füllt einen alten Torfstich im Mooswald.",
-"Er wurde für das Sea You Festival ausgehoben.",
-"Er entstand beim Bau der Autobahn A5."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein stiller See am Oberrhein lässt schnell an einen alten Rheinarm denken. Der Tunisee ist aber menschengemacht: Er entstand beim Straßenbau in der Umgebung, als die Autobahn A5 gebaut wurde. Auf dieselbe Weise entstand der Silbersee. Richtig war 4.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau)",
-"faktencheck": "unsicher",
-"id": "397-hochdorf-freiburg/v0.8/5",
-"tisch": false
-},
-{
+"facette": "LAGE",
+"charakteristikum": "viel Fläche für einen Stadtteil",
+"rang": 9,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Hochdorf",
-"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
-"frage": "In welchem Zeitraum wurde Hochdorf nach Freiburg eingemeindet?",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte, mit Ortsteil Benzhausen und Gewerbegebiet.",
+"frage": "Wie groß ist die Fläche des Stadtteils Hochdorf insgesamt?",
 "optionen": [
-"vor 1974",
-"1974 bis 1989",
-"1990 bis 2004",
-"2005 oder später"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Hochdorf liegt weit draußen; das spricht scheinbar für einen späten Anschluss. Eingemeindet wurde es aber am 1. September 1973. Politisch trennte sich Hochdorf damit von den übrigen Marchgemeinden, zu denen es geschichtlich zählt. Richtig war 1.",
-"quelle": "dewiki Infobox; Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
-"faktencheck": "korrigiert",
-"id": "397-hochdorf-freiburg/v0.8/6",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Geschichte",
-"ort": "Hochdorf",
-"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
-"frage": "Wie viele Einwohner zählte Hochdorf im Jahr 1963?",
-"optionen": [
-"unter 800",
-"800 bis unter 2.000",
-"2.000 bis unter 3.500",
-"3.500 und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer die heutige Einwohnerzahl kennt, rechnet auch für damals mit einem großen Ort. Doch 1963 zählte Hochdorf erst 1.000 Einwohner. Der Ort ist also erst in den Jahrzehnten danach stark gewachsen. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
-"faktencheck": "bestätigt",
-"id": "397-hochdorf-freiburg/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Hochdorf",
-"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
-"frage": "Am südlichen Ortseingang steht die Holzskulptur „Weltenlenker“. Woher stammt ihr Holz?",
-"optionen": [
-"Von der alten Linde am Kirchplatz.",
-"Aus Balken eines abgerissenen Bauernhauses.",
-"Von einer Eiche, die nach einem Waldfest umstürzte.",
-"Von einer Eiche, gefällt für das Gewerbegebiet."
+"unter 4 km²",
+"4 bis unter 8 km²",
+"8 bis unter 12 km²",
+"12 km² und mehr"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Dorfskulptur denkt man an einen Baum, der für Bauarbeiten fallen musste. Doch kurz nach dem Waldfest stürzte eine entwurzelte Mooswaldeiche um. Der Freiburger Bildhauer Thomas Rees schuf daraus den Weltenlenker. Richtig war 3.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau)",
-"faktencheck": "unsicher",
-"id": "397-hochdorf-freiburg/v0.8/8",
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil klingt nach ein paar Straßenzügen, daher liegt eine kleine Fläche nahe. Hochdorf umfasst aber 10,11 Quadratkilometer. Auf jeden kommen nur rund 525 Einwohner, denn zur Fläche gehören neben Dorf und Benzhausen auch Schutzgebiete und ein Gewerbegebiet. Richtig war 3.",
+"quelle": "Wikidata P2046; Dichte berechnet aus Einwohnern (Wikidata P1082, Stand 2024) und Fläche",
+"faktencheck": "bestätigt",
+"id": "397-hochdorf-freiburg/v0.9/7",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "eigenes Hallenbad in der Ortsmitte",
+"rang": 3,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in Hochdorf?",
+"optionen": [
+"Ein Hallenbad",
+"Ein Heimatmuseum",
+"Ein Bahnhof",
+"Eine Brauerei"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bahnhof, Brauerei oder Heimatmuseum wären für ein altes Dorf typischer als ein Hallenbad. Doch Hochdorf hat sein eigenes Hallenbad in der Ortsmitte. Für einen Stadtteil mit rund 5.300 Einwohnern ist das viel. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/402847.html",
+"faktencheck": "korrigiert",
+"id": "397-hochdorf-freiburg/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Eichenriese am Ortseingang",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Hochdorf",
 "steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
-"frage": "Das Hochdorfer Wappen zeigt oben einen Greif. Woher stammt dieses Wappenbild?",
+"frage": "Am Festplatz am südlichen Ortseingang steht der Weltenlenker, eine acht Meter hohe Holzskulptur. Woraus wurde sie geschaffen?",
 "optionen": [
-"Aus dem Wappen der Grundherren Stürtzel.",
-"Aus dem Wappen der Stadt Freiburg.",
-"Aus dem Wappen der Grundherren Schnewlin.",
-"Aus dem Wappen des Bistums Konstanz."
+"Aus einem alten Dachbalken der Kirche St. Martin.",
+"Aus einer Eiche vom Ufer des Tunisees.",
+"Aus Markwald-Eichen, gefällt für das Gewerbegebiet.",
+"Aus einer alten, entwurzelten Eiche des Mooswalds."
 ],
 "art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei einem Wappentier denkt man zuerst an eine Stadt oder ein Bistum. Der Greif stammt aber von den Stürtzel, einst Grundherren in Hochdorf. Auch eine weitere Grundherrenfamilie ist vertreten: Die grüne Fläche unten kommt von den Schnewlin. Richtig war 1.",
-"quelle": "Wikipedia, de.wikipedia.org/wiki/Hochdorf_(Freiburg_im_Breisgau)",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Holz aus einem Wald, der für Gewerbe weichen musste, wäre eine naheliegende Geschichte. Der Holzskulpturenkünstler Thomas Rees schuf den Weltenlenker aber aus einer alten Eiche aus dem Mooswald, die entwurzelt worden war. Wer von Süden nach Hochdorf kommt, wird so von einem Stück des Waldes begrüßt, der südöstlich des Orts liegt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
 "faktencheck": "unsicher",
-"id": "397-hochdorf-freiburg/v0.8/9",
+"id": "397-hochdorf-freiburg/v0.9/9",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Freiburger Bächle im Dorfzentrum",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hochdorf",
+"steckbrief": "Freiburger Stadtteil mit rund 5.300 Einwohnern, 7 km nordwestlich der Stadtmitte.",
+"frage": "Der Högebrunnenplatz im Zentrum ist Hochdorfs Treffpunkt. Welchem Vorbild ist der Bachlauf auf dem Platz nachgebildet?",
+"optionen": [
+"Einem Altrheinarm mit Kiesufer und Schilf.",
+"Den Freiburger Bächle in den Gassen.",
+"Einem Schwarzwaldbach mit kleinem Wasserfall.",
+"Einem Wässergraben wie im Markgräflerland."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Für ein Dorf in der Rheinebene läge ein Altrheinarm als Vorbild nahe. Der neu gestaltete Högebrunnenplatz hat aber Quellbrunnen und einen Bachlauf, der den Bächle in der Innenstadt nachgebildet ist, den Wasserrinnen in den Gassen der Stadt. So trägt das eingemeindete Dorf ein Stück Freiburger Innenstadt in seiner Mitte, dort, wo sich der Ort trifft. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/838151.html",
+"faktencheck": "korrigiert",
+"id": "397-hochdorf-freiburg/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "396-waldkirch",
 "anschluss": [
-"Kennzeichen: In Hochdorf steht FR am Auto, in Waldkirch EM.",
-"Fläche: Waldkirch ist fast fünfmal so groß wie Hochdorf."
+"Waldkirch hat rund viermal so viele Einwohner wie Hochdorf.",
+"Hochdorf liegt halb so weit von Freiburgs Mitte wie Waldkirch."
 ],
 "anschluesse": {
 "387-ebnet": [
@@ -9497,8 +14200,8 @@ window.QA_DATEN = {
 "Bad Krozingen hat viermal so viele Einwohner wie Hochdorf."
 ],
 "396-waldkirch": [
-"Kennzeichen: In Hochdorf steht FR am Auto, in Waldkirch EM.",
-"Fläche: Waldkirch ist fast fünfmal so groß wie Hochdorf."
+"Waldkirch hat rund viermal so viele Einwohner wie Hochdorf.",
+"Hochdorf liegt halb so weit von Freiburgs Mitte wie Waldkirch."
 ],
 "65-march": [
 "Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Hochdorf zum Landkreis Stadtkreis Freiburg im Breisgau.",
@@ -9575,6 +14278,32 @@ window.QA_DATEN = {
 },
 "ags": "08311000",
 "ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil 7 km nordwestlich von Freiburgs Mitte, rund 210 Meter hoch, gut zehn Quadratkilometer, Schutzgebiete Mühlmatten und Schangen-Dierloch."
+},
+{
+"facette": "GESCHICHTE",
+"text": "773 erstmals im Lorscher Codex genannt, Benzhausen 788; seit 1. September 1973 ein Stadtteil von Freiburg."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 5.300 Einwohner; Gewerbegebiet hinter der A5, Tofu-Hersteller Taifun, Spedition Streck, ein Paketdepot, Autobahnmeisterei Freiburg."
+},
+{
+"facette": "FREIZEIT",
+"text": "Hallenbad, Mooswaldhalle, Tennisclub, Tunisee mit Sea You Festival, Silbersee, die Holzskulptur Weltenlenker am Ortseingang."
+},
+{
+"facette": "INFRA",
+"text": "Grundschule Mühlmattenschule, Ortsverwaltung, Pfarrbücherei St. Martin, Buslinien der Freiburger Verkehrs AG, Partnergemeinde Chevilly-Larue bei Paris."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lag die CDU mit 29 Prozent vorn; Wahlbeteiligung 83,9 Prozent, knapp über dem Landeswert."
+}
+],
 "km_vom_vorigen": 12.8
 },
 {

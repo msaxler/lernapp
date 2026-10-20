@@ -1,0 +1,311 @@
+ENTITÄT: stadtteil
+BEZEICHNUNG: Neuburg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage_innerort: unmittelbar nördlich der Altstadt von Freiburg
+  liegt_in: Freiburg im Breisgau
+  grenzt_osten: Oberau (bewaldeter Schlossberg)
+  grenzt_norden: Herdern
+  grenzt_westen: Stühlinger (durch Rheintalbahn getrennt)
+  enthaelt_gebiete: Schlossberg (östlich der Altstadt)
+  alternative_bezeichnung: Ludwigsvorstadt (bis 20. Jahrhundert)
+GUELTIG_BIS: 1839
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Neuburg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erste_bebauung: nach Stadtgründung Freiburgs im frühen 12. Jahrhundert
+  ausgrabungen_2016: Besiedelungsreste aus dem 11. Jahrhundert
+  archaeologische_funde: älteste Weinkelter Süddeutschlands, Musikinstrument aus 12. Jahrhundert
+  infrastruktur_ausbau_zeitraum: Ende 12. bis Mitte 13. Jahrhundert
+  infrastruktur_ausbau_elemente: Straßennetz, Brunnen, Pfarrkirche, Mauer
+  soziale_einrichtungen: Armenspital und Findelhaus
+  dreissigjähriger_krieg: Vorstadt schwer beschädigt
+  zerstoerung_1677: Vauban ließ Vorstadt schleifen für Festungsring
+  glacis: Festungsrayon angelegt für freies Schussfeld
+  besatzungsgeschichte: 1697 ans Reich zurückgegeben, 1713 und 1744 erneut eingenommen
+  sprengung_1745: gesamte Festungsanlagen beim Abzug systematisch gesprengt
+  wiederbesiedelung: um 1825
+  namensvergabe_grund: zu Ehren des badischen Großherzogs
+  bombardierung_1944: bei Bombardierung Freiburgs fast vollständig zerstört
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Ludwigskirche (evangelisch)
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahre_original: 1829-1839
+  material: aus Klosterkirche von Tennenbach abgebrochen
+  aenderungen: Grundriss und Aufriss verändert
+  kriegszerstörung: 1944
+  wiederaufbau: 1954
+  wiederaufbau_stil: modern
+  lage_original: Habsburgerstraße/Ecke Rheinstraße
+  gemeinde: Ludwigsgemeinde Süd (umfasst Teil von Herdern)
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Ludwigskirche (evangelisch)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahre: 1954
+  stil: modern
+  zweck: Ersatz für kriegszerstörte erste evangelische Kirche Freiburgs
+  lage: nördlich des Alten Friedhofs
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michaelskapelle
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahre: 1725, 1753-1757
+  lage: im Alten Friedhof
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Erlöserkirche (evangelisch-lutherisch)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  stil: neugotisch
+  lage: Ostrand des Alten Friedhofs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Friedhof
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  funktion_zeitraum: Freiburger Begräbnisstätte 1683-1872
+  funktion_heute: Grünanlage
+  kulturelle_bedeutung: Teil des Stadtgartens
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: klinik
+BEZEICHNUNG: Josefskrankenhaus
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Habsburgerstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Mutterhaus der Barmherzigen Schwestern vom hl. Vinzenz von Paul
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Habsburgerstraße
+  gebaeudeteil: Mutterhauskirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Archäologische Sammlung
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: ehemaliges Papierlager der Herder-Druckerei
+  betreiber: Albert-Ludwigs-Universität Freiburg
+  bestaende: antike Originale und Gipsabgüsse nach antiken Skulpturen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: universität
+BEZEICHNUNG: Albert-Ludwigs-Universität Freiburg (Campus Neuburg)
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  flaechenanteil: große Teile der westlichen Hälfte
+  einrichtungen: mathematisch-naturwissenschaftliche Fakultäten, Rektorat, Institutsviertel
+  fakultaet_umwelt: Fakultät für Umwelt und Natürliche Ressourcen (Herder-Verlagsgebäude)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: behoerde
+BEZEICHNUNG: Landratsamt Breisgau-Hochschwarzwald
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Osthälfte des Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: behoerde
+BEZEICHNUNG: Amt für Vermögen und Bau Baden-Württemberg, Amtsstelle Freiburg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ecke Mozartstraße/Starkenstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeudeensemble
+BEZEICHNUNG: Institutsviertel
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: westliche Teile des Stadtteils, teilweise genannt statt Neuburg
+  hauptnutzung: universitäre Einrichtungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Neuburg
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 5500
+  bevoelkerungswachstum_seit_2000: über 40%
+  bevoelkerungswachstum_prozent: 40
+  gueltig_ab: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: wohnheim
+BEZEICHNUNG: The Fizz
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: privates Studentenwohnheim
+  lage: südlicher Abschnitt der Habsburgerstraße
+  miethöhe_max: 1500
+  miethöhe_max_einheit: €/Monat (Studentenappartement)
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: oeffentliche_verkehrsmittel
+BEZEICHNUNG: Stadtbahnlinie 3
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  strecke: entlang der Habsburgerstraße
+  zugehoerigkeit: Freiburger Stadtbahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: oeffentliche_verkehrsmittel
+BEZEICHNUNG: Stadtbahnlinie 5
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  endhaltestelle: Europaplatz
+  zugehoerigkeit: Freiburger Stadtbahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: FR 4
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  route: entlang des Altstadtrings
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: FR 6
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  route: durch das Institutsviertel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radschnellweg
+BEZEICHNUNG: Radschnellweg Emmendingen-Waldkirch
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  route: entlang der Stadtstraße und der Weiherhofstraße
+  baubeginn: Oktober 2025
+  status: in Bau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Schlossberg
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Neuburg
+QUELLE: https://de.wikipedia.org/wiki/Neuburg_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlich der Altstadt, gehört zu Neuburg
+  beschaffenheit: bewaldet
+ZEUGEN: 
+  hoehe: 455 m
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92

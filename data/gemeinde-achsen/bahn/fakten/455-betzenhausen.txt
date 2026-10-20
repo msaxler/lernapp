@@ -1,0 +1,417 @@
+ID: 455-betzenhausen/001
+ENTITÄT: ort
+BEZEICHNUNG: Betzenhausen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  lage_in_stadt: westlich von Freiburg im Breisgau
+  nachbarortsteil_norden: Mooswald
+  nachbarortsteil_osten: Stühlinger
+  nachbarortsteil_sueden: Weingarten
+  nachbarortsteil_westen: Lehen
+  population: 15500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 455-betzenhausen/002
+ENTITÄT: ort_bezirk
+BEZEICHNUNG: Alt-Betzenhausen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  lage: westlich im Stadtteil Betzenhausen
+  population: 5200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 455-betzenhausen/003
+ENTITÄT: ort_bezirk
+BEZEICHNUNG: Betzenhausen-Bischofslinde
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlich im Stadtteil Betzenhausen
+  population: 10300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 455-betzenhausen/004
+ENTITÄT: ort
+BEZEICHNUNG: Betzenhausen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  ersterwahnung: 972
+  ersterwahnung_kontext: Schenkungsurkunde von Otto I. an Kloster Einsiedeln
+  historische_namensform: Bezenhusa
+  geschichte_14jhd: Freiburger Familien mit ortsherrlichen Rechten
+  verkauf_an_stadt: 1381 durch Familie Geben Sigstein
+  bedeutung_damals: erstes Teilstück von Freiburgs späterem großen Herrschaftsgebiet
+  status_1806_1907: unabhängige Landgemeinde im badischen Amtsbezirk Freiburg
+  eingemeindung: 1. Januar 1908
+  eingemeindung_grund: Stadt erkannte Chance für Stadtentwicklung nach Westen
+GUELTIG_AB: 972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 455-betzenhausen/005
+ENTITÄT: ort
+BEZEICHNUNG: Betzenhausen
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7708/Betzenhausen | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung: 972
+  ursprungsbesitz: Besitzungen des Grafen Guntram (konfisziert durch Kaiser Otto I.)
+  glaubenliche_zuordnung: Kloster Einsiedeln
+  mittelalter: 14. Jahrhundert Freiburger Familien mit ortsherrlichen Rechten
+  status_badische_zeit: 1806 unabhängige Landgemeinde
+  eingemeindung: 1908 in Stadt Freiburg
+GUELTIG_AB: 972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 455-betzenhausen/006
+ENTITÄT: internierungslager
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1945-1948
+  zweck: Entnazifizierungsprozess
+  kapazitaet: bis zu 3000
+  insassen: ehemalige hochrangige Nationalsozialisten
+  besatzung: französische Besatzung
+  lage: zwischen Idingerstraße und Runzmattenweg
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 455-betzenhausen/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Thomas
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7708/Betzenhausen | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung: 1447
+  patron: St. Thomas
+  ursprung: Kapelle
+  filiale_bis_1677: St. Peter (Freiburg)
+  filiale_von_1677: Lehen
+  umgebau_anfang_19jhd: zu größerer Kirche
+GUELTIG_AB: 1447
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 455-betzenhausen/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Thomas
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1767-1768
+  baumeister: Johann Baptist Häring
+  baustil: Barock
+  patron: Thomas, der zweifelnde Apostel
+  besonderheit: Storchennest auf dem Kirchturm, regelmäßig besiedelt
+  bedeutung_fuer_ort: markantestes Wahrzeichen Betzenhausens (im Sinne der Hochdorf-Charakterisierung durch Vergleich)
+GUELTIG_AB: 1767
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 455-betzenhausen/009
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Agatha Kapelle
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Benzhausen
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wiederaufbau: nach dem Dreißigjährigen Krieg
+  charakteristikum: schlichte Ausstrahlung
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 455-betzenhausen/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Albert
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  fertiggestellt: 1969
+  konfession: katholisch
+  entstehungskontext: Bebauung im Gebiet Bischofslinde
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 455-betzenhausen/011
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Martinsgemeinde-Süd
+FACETTE: ALLTAG
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7708/Betzenhausen | Landesportal
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gründung: 1974
+  ursprung: Markuspfarrei Mooswald
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 455-betzenhausen/012
+ENTITÄT: hallenbad
+BEZEICHNUNG: Westbad
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  lage: im Seepark
+  groesse_ranking: größtes Schwimmbad Freiburgs
+  superlativ: größtes Schwimmbad Freiburgs
+  bedeutung_fuer_ort: zentrale Freizeiteinrichtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 455-betzenhausen/013
+ENTITÄT: naherholungsgebiet
+BEZEICHNUNG: Seepark
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  entstehung: 1986
+  anlass: Landesgartenschau Baden-Württemberg 1986
+  gelande_ursprung: Flückigersee (ehemaliger Baggersee)
+  bedeutung_fuer_ort: großzügiges Naherholungsgebiet
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 455-betzenhausen/014
+ENTITÄT: sportstätte_eishockey
+BEZEICHNUNG: Echte Helden Arena
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  heimstätte: EHC Freiburg
+  zustand: sanierungsbedürftig
+  nachnutzungsplanung: mögliche Wohnbebauung mit bis zu 600 Wohnungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 455-betzenhausen/015
+ENTITÄT: stadion
+BEZEICHNUNG: Weststadion
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  nutzung: Fußball
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 455-betzenhausen/016
+ENTITÄT: studentenwohnheim
+BEZEICHNUNG: Studentensiedlung (StuSie)
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  entstanden_ab: 1966
+  bedeutung_ranking: größtes Wohnheim des Studierendenwerks Freiburg
+  wichtigkeit_fuer_stadt: zentrale Studentenunterkunft
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 455-betzenhausen/017
+ENTITÄT: industriedenkmal
+BEZEICHNUNG: Gaskugel
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 40
+  hoehe_einheit: Meter
+  lage: an der Dreisam, weithin sichtbar
+  betrieb_zeitraum: 1965-2019
+  nachnutzung_status: seit 2019 Pläne zur Nachnutzung
+GUELTIG_AB: 1965
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 455-betzenhausen/018
+ENTITÄT: sportverein
+BEZEICHNUNG: Sportfreunde Eintracht Freiburg
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 2004
+  fusionspartner_1: SV Eintracht Freiburg
+  fusionspartner_2: Sportfreunde DJK Freiburg
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 455-betzenhausen/019
+ENTITÄT: neubaugebiet
+BEZEICHNUNG: Tränkematten-Süd
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  fertiggestellt: 2018
+  lage: südlich von bestehender Bebauung, Richtung B 31a
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 455-betzenhausen/020
+ENTITÄT: schule
+BEZEICHNUNG: Anne-Frank-Schule
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  entstanden_ab: ca. 1960er
+  entstehungskontext: Bebauung Bischofslinde
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 455-betzenhausen/021
+ENTITÄT: platz
+BEZEICHNUNG: Betzenhauser Torplatz
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Ortsmitte
+  umgestaltung: 2021
+  massnahmen: Holzskulpturen von der Landesgartenschau 1986 abgebaut, Platz zugänglicher gestaltet
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 455-betzenhausen/022
+ENTITÄT: straße
+BEZEICHNUNG: Berliner Allee
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Erschließungsstraße
+  entstanden_ab: 1960er
+  radweg_verbesserung_datum: März 2023
+  radweg_verbesserung_massnahmen: verbreitert, vom Fußverkehr getrennt
+  geplante_verlängerung: bis FR 5, unter Umgehung unfallträchtiger Unterführungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 455-betzenhausen/023
+ENTITÄT: straße
+BEZEICHNUNG: Sundgauallee
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Erschließungsstraße
+  entstanden_ab: 1960er
+  umgestaltung_datum: 2016
+  umgestaltung_massnahmen: auf eine Fahrspur pro Richtung reduziert, Tempo 20 eingeführt
+  ziel_umgestaltung: Querung für Fußgänger und Verbindung zum Seepark erleichtern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 455-betzenhausen/024
+ENTITÄT: infrastruktur_öpnv
+BEZEICHNUNG: Stadtbahn Linie 1
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: zentral durch Betzenhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 455-betzenhausen/025
+ENTITÄT: infrastruktur_öpnv
+BEZEICHNUNG: Stadtbahn Linie 3
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: Ostrand Betzenhausens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 455-betzenhausen/026
+ENTITÄT: radwegenetz
+BEZEICHNUNG: Betzenhausener Radwegenetz
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  verbindungen: FR 1 (südlich an Dreisam), FR 2 (östlich an Güterbahn), FR 4 (mit Stühlinger und Innenstadt), FR 5 (nach Weingarten und Rieselfeld)
+  weitere_routen: Fischer, Tränkematte, Schrebergärten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 455-betzenhausen/027
+ENTITÄT: infrastruktur_planung
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Umwandlung der Güterumgehungsbahn in S-Bahn mit geplanter Haltestelle auf Höhe der Straßenbahnhaltestelle Runzmattenweg
+  status: geplant für die Zukunft
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 455-betzenhausen/028
+ENTITÄT: behördenzentrum
+BEZEICHNUNG: Behördenzentrum Betzenhausen-Bischofslinde
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  entstanden_ab: 1980er
+  einrichtungen: Polizeipräsidium Freiburg, Chemisches und Veterinäruntersuchungsamt, Regierungspräsidium
+  neubau_regierungspräsidium: 2000
+  lage: Osten Betzenhausens, Bezirk Bischofslinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 455-betzenhausen/029
+ENTITÄT: gewässer
+BEZEICHNUNG: Dreisam
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Betzenhausen | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: fließt durch Betzenhausen
+  besonderheit: trägt die weithin sichtbare 40-Meter-Gaskugel an ihren Ufern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 455-betzenhausen/030
+ENTITÄT: gewässer
+BEZEICHNUNG: Tunisee
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Benzhausen
+QUELLE: https://www.freiburg.de/pb/207704.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Badesee
+  nutzung: Freizeit und Naherholung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 455-betzenhausen/031
+ENTITÄT: gewässer
+BEZEICHNUNG: Silbersee
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Benzhausen
+QUELLE: https://www.freiburg.de/pb/207704.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Badesee
+  nutzung: Freizeit und Naherholung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 455-betzenhausen/032
+ENTITÄT: ortsteil
+BEZEICHNUNG: Benzhausen
+FACETTE: LAGE
+QUELLE: https://www.freiburg.de/pb/838151.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  von: Hochdorf
+  lage: nördlich von Hochdorf
+  badeseen: Tunisee, Silbersee
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

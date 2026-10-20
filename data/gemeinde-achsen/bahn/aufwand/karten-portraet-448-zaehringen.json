@@ -1,0 +1,50 @@
+{
+ "stufe": "karten-portraet",
+ "ort": "448-zaehringen",
+ "prompt": "prompt-karten-v0.9.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 37716,
+ "token_ein": 38667,
+ "token_aus": 37134,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 31763,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 37134,
+  "output_tokens_details": {
+   "thinking_tokens": 27467
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 31763,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 37134,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 31763,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 31763
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.9981724,
+ "sekunden": 318,
+ "fehler": false,
+ "zeit": "2026-10-20T11:55:14"
+}

@@ -1,0 +1,347 @@
+ENTITÄT: ort
+BEZEICHNUNG: Mooswald
+FACETTE: LAGE | LANDSCHAFT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Stadtteil im Westen von Freiburg im Breisgau
+  verwaltungsgliederung: zwei Stadtbezirke (Mooswald-West 521, Mooswald-Ost 522)
+  grenzen_nordosten: Stadtteil Brühl mit Flugplatz, Universitäts-Campus, Messegelände
+  grenzen_nordwesten: Landwasser
+  grenzen_südwesten: Betzenhausen mit Seepark
+  grenzen_osten: Stadtteil Stühlinger
+  trennlinie_zu_bruehl: Bahnstrecke Freiburg–Colmar
+  trennlinie_zu_landwasser: Westrandstraße (Paduaallee/Mooswaldallee)
+  trennlinie_zu_stuehlinger: Güterumgehungsbahn Freiburg
+  einwohnerzahl: ca. 9500
+  gueltig_ab: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Mooswald
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  status_historisch: Altgemeinde (ehemals selbstständige Gemeinde)
+  gruendung_siedlung: 1932
+  grund_griendung: Reichsregierung beschloss Erwerbslosenprogramm 1931 wegen hoher Arbeitslosigkeit
+  ausgangspunkt: Gebiet der heutigen Hofackerstraße
+  bauweise: Häuser größenteils in gegenseitiger Eigenarbeit der Siedler errichtet
+  erwerbsform: Erbbau
+  fortführung_ab_1933: als Nationalsozialistisches Siedlungswerk
+  gruendung_siedlerbund: 1934
+  ausstattung_anfaengliche: anfangs (bis Ende 1930er) ohne Strom, Gas, Abwasser-Kanalisierung, Wasserversorgung durch Pumpbrunnen auf Grundstücken
+  gartenbau: Große Gärten ermöglichten Selbstversorgung mit Kartoffeln und Gemüse, Kleintierzucht
+  bombensch_november_1944: zu 80 Prozent zerstört
+  wiederaufbau: schon 1945 mit einfachsten Mitteln begonnen
+GUELTIG_AB: 1932
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Heilige Familie
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  patrozinium: Heilige Familie
+  bauzeit: 1938
+  bedeutung_fuer_ort: erste kirchliche Einrichtung des neuen Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Heilige Familie
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7725/Mooswald | Landesportal
+EIGENSCHAFTEN:
+  konfession: katholisch
+  patrozinium: Heilige Familie
+  bauzeit: 1938
+  pfarrei_seit: 1942
+  status: bildet seit 1942 eine katholische Pfarrei
+  ersterwaehnug: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Markuskirche
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1953
+  charakteristikum: Notkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Markuskirche
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7725/Mooswald | Landesportal
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gruendung_pfarrei: 1953 Markuspfarrei (Umwandlung des 1935 gebildeten Vikariats)
+  teil_der_gemeinde: Markusgemeinde-Nord (auch Stadtteil Lehen)
+  aufteilung: 1974 geteilt (vorher auch Betzenhausen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Friedhof von Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebetsraum
+BEZEICHNUNG: Gebetsraum des islamischen Bildungs- und Begegnungsvereins Freiburg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  religion: islamisch
+  status: geplant ist Errichtung einer Moschee der DİTİB-Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Paul-Hindemith-Grundschule
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Wentzinger-Schulen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Realschule und Gymnasium
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Mooswaldschule
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: ursprünglich Volksschule
+  bauzeit: 1955-1956
+  heutiger_status: Schule für Erziehungshilfe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: wohnheim
+BEZEICHNUNG: Studierendenhaus Falkenberger Straße
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Studierendenwerk Freiburg
+  plaetze: 294
+  uebernahme: 2017 vom Studierendenwerk von der Evangelischen Kirche übernommen
+  erhoehung: 2020 um ein Stockwerk erhöht
+  erweiterung: 2025 durch Anbau erweitert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: forschungsinstitut
+BEZEICHNUNG: Fraunhofer-Institut für Solare Energiesysteme
+FACETTE: LAGE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  mitarbeiter: ca. 1400
+  lage: zwischen Güterumgehungsbahn und Breisacher Bahn
+  bedeutung_fuer_ort: größerer Arbeitgeber und Forschungsstandort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Institut für Anatomie und Zellbiologie (Universitätsklinik Freiburg)
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Universitätsklinik Freiburg
+  ort: Elsässer Straße (westlicher Teil Mooswald)
+  fertigstellung: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gemeinschaftshaus
+BEZEICHNUNG: Fritz-Hüttinger-Haus
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verwaltung: Bürgerverein Mooswald
+  beschreibung: Begegnungsstätte für jung und alt
+  nutzung: kulturelle Veranstaltungen, Sprachkurse, Jugendtreffpunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: turm
+BEZEICHNUNG: Funkturm Deutsche Telekom
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: ziemlich markanter Turm
+  lage: Paduaallee
+  betreiber: Deutsche Telekom
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Bürgerverein Mooswald e.V.
+FACETTE: ALLTAG | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1952
+  bedeutung_fuer_ort: Verwaltung von Gemeinschaftshaus und Bürgerbeteiligung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Straßenbahnlinie 4
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  anbindung_seit: 2015
+  verbindung: Stadtteil mit Innenstadt, Stadtteil Brühl, Technische Fakultät der Uni, Messe
+  betreiber: Freiburger Verkehrs AG (VAG)
+  bedeutung_fuer_ort: wichtigste öffentliche Nahverkehrsanbindung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: bahnhaltestelle
+BEZEICHNUNG: Neue Messe/Universität
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Grenze zu Brühl
+  bedienung: Breisgau-S-Bahn Freiburg–Breisach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: bushaltestelle
+BEZEICHNUNG: Buslinien 10 und 36 (VAG); Linie 7212 (SBG)
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Elsässer Straße
+  betreiber: Freiburger Verkehrs AG (VAG) und SBG
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Wolfsbuck
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  grundlage: Mülldeponie der Stadt Freiburg ab 1953 (Nachbarnstadtteil Brühl, Wolfswinkel-Gelände)
+  geschichte: zuvor vom Französischen Militär genutzt, 1972 geschlossen
+  entwicklung: heute als Aussichtspunkt nutzbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Mooswald
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  kriegszerstörung: November 1944 Luftangriff zerstörte ca. 80 Prozent
+  wiederaufbau_beginn: 1945
+  bahnhaltestelle_1948: „Im Wolfswinkel" an Bahnstrecke nach Breisach eingerichtet (inzwischen aufgehoben)
+  gemeinschaftshaus_fertigstellung: 1955-1956
+  klimabewahrung: ständiges Thema der Bewohner war Erhaltung des westlich gelegenen Mooswalds, aber durch Ausdehnung der Stadt nach Westen immer mehr gefährdet
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1956
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Mooswald
+FACETTE: LAGE | INFRASTRUKTUR
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  radverkehr_intern: Weg durch Universitätsklinikum wichtigste Anbindung an Innenstadt
+  radschnellweg_geplant: nach Breisach entlang Breisacher Bahn mit Querung der Güterbahn auf neuer Radverkehrsbrücke
+  fahrradwege_fr2: entlang Güterbahn
+  fahrradwege_fr4: von Innenstadt nach Betzenhausen
+  frelo_stationen: 4 Stationen im Stadtteil
+  autoanbindung: Paduaallee (Westen) und Berliner Allee (Osten)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: entwicklungsprojekt
+BEZEICHNUNG: Neue Stadtteilsmitte Mooswald
+FACETTE: LAGE | INFRASTRUKTUR
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Umgestaltung der Elsässerstraße im Abschnitt zwischen Hutweg und Falkenbergerstraße
+  ziel: fußgänger- und fahrradfreundliche Umgestaltung
+  einzelmassnahmen: Geschäfte erhalten Entwicklungsmöglichkeiten zu Flaniermeile
+  marktplatz_lage: Kreuzung Elsässerstraße/Falkenbergerstraße (südwestlich)
+  ueberbauung_tankstelle: Lebensmittelmarkt geplant (nordwestlich)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: entwicklungsprojekt
+BEZEICHNUNG: Umwandlung Gewerbegebiet Mooswald
+FACETTE: LAGE | INFRASTRUKTUR
+QUELLE: https://de.wikipedia.org/wiki/Mooswald_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Gewerbegebiet zwischen Elsässerstraße und Ensisheimer Straße
+  ziel: behutsame Umwandlung zum Mischgebiet mit mehr Wohnnutzung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

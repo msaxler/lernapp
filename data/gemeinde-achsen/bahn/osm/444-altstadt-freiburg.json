@@ -1,0 +1,2438 @@
+{
+ "ort": "444-altstadt-freiburg",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Kultur": [
+   {
+    "name": "Friedrichsbau",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "cinema"
+    }
+   },
+   {
+    "name": "Harmonie",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://friedrichsbau-kino.de/unsere-kinos/harmonie/",
+    "tags": {
+     "amenity": "cinema"
+    }
+   },
+   {
+    "name": "Cinemaxx",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.cinemaxx.de/",
+    "tags": {
+     "amenity": "cinema"
+    }
+   },
+   {
+    "name": "Alemannische Bühne Freiburg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.alemannische-buehne.de/",
+    "tags": {
+     "amenity": "theatre"
+    }
+   },
+   {
+    "name": "Wallgraben Theater",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.wallgraben-theater.com/",
+    "tags": {
+     "amenity": "theatre"
+    }
+   },
+   {
+    "name": "FZ* (Feministisches Zentrum)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.fz-freiburg.de/",
+    "tags": {
+     "amenity": "arts_centre"
+    }
+   },
+   {
+    "name": "Sommernachtskino",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://sommernachts-kino.de/",
+    "tags": {
+     "amenity": "cinema"
+    }
+   },
+   {
+    "name": "Konzerthaus Freiburg",
+    "zusatz": "seit 1996",
+    "wikipedia": "de:Konzerthaus Freiburg",
+    "website": null,
+    "tags": {
+     "amenity": "theatre"
+    }
+   },
+   {
+    "name": "Theater Freiburg",
+    "zusatz": "",
+    "wikipedia": "de:Theater Freiburg",
+    "website": "https://www.theater.freiburg.de/",
+    "tags": {
+     "amenity": "theatre"
+    }
+   },
+   {
+    "name": "Theater im Marienbad",
+    "zusatz": "",
+    "wikipedia": "de:Theater im Marienbad",
+    "website": null,
+    "tags": {
+     "amenity": "theatre"
+    }
+   }
+  ],
+  "Aussicht": [
+   {
+    "name": "Ludwigshöhe",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   },
+   {
+    "name": "Kanonenplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Bildung": [
+   {
+    "name": "Institut für IT im Gesundheitswesen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "university"
+    }
+   },
+   {
+    "name": "Professur für Umweltmeteorologie (Hauptgebäude)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "university"
+    }
+   },
+   {
+    "name": "Rechtswissenschaftliche Fakultät",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "university"
+    }
+   },
+   {
+    "name": "Kriminologie und Wirtschaftsstrafrecht",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "university"
+    }
+   },
+   {
+    "name": "University College Freiburg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.ucf.uni-freiburg.de/",
+    "tags": {
+     "amenity": "university"
+    }
+   },
+   {
+    "name": "Volkshochschule Freiburg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://vhs-freiburg.de/",
+    "tags": {
+     "amenity": "college"
+    }
+   },
+   {
+    "name": "Volkshochschule",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://vhs-freiburg.de",
+    "tags": {
+     "amenity": "college"
+    }
+   },
+   {
+    "name": "SLI - Sprachlehrinstitut",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.sli.uni-freiburg.de",
+    "tags": {
+     "amenity": "university"
+    }
+   },
+   {
+    "name": "Professur für Forstliche Verfahrenstechnik",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.foresteng.uni-freiburg.de/",
+    "tags": {
+     "amenity": "college"
+    }
+   },
+   {
+    "name": "Collegium Borromaeum",
+    "zusatz": "",
+    "wikipedia": "de:Collegium Borromaeum (Freiburg im Breisgau)",
+    "website": null,
+    "tags": {
+     "amenity": "college"
+    }
+   },
+   {
+    "name": "Albert-Ludwigs-Universität Freiburg",
+    "zusatz": "",
+    "wikipedia": "de:Albert-Ludwigs-Universität Freiburg",
+    "website": "https://uni-freiburg.de",
+    "tags": {
+     "amenity": "university"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Personal Training Lounge Freiburg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.individual-personal-fitness.de/",
+    "tags": {
+     "leisure": "sports_centre"
+    }
+   },
+   {
+    "name": "Faulerbad",
+    "zusatz": "seit 1983, swimming",
+    "wikipedia": null,
+    "website": "https://www.badeninfreiburg.de/baeder-saunen/faulerbad",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "swimming"
+    }
+   },
+   {
+    "name": "Sporthalle St. Ursula-Gymnasium",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   }
+  ],
+  "Museum": [
+   {
+    "name": "Uniseum",
+    "zusatz": "",
+    "wikipedia": "de:Uniseum",
+    "website": "https://www.uniseum.uni-freiburg.de/",
+    "tags": {
+     "tourism": "museum"
+    }
+   },
+   {
+    "name": "Fasnetmuseum",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.breisgauer-narrenzunft.de/",
+    "tags": {
+     "tourism": "museum"
+    }
+   },
+   {
+    "name": "Galerie Meier",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "gallery"
+    }
+   },
+   {
+    "name": "Meckelhalle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "gallery"
+    }
+   },
+   {
+    "name": "Zinnfigurenklause im Schwabentor",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "http://www.zinnfigurenklause-freiburg.de/",
+    "tags": {
+     "tourism": "museum"
+    }
+   },
+   {
+    "name": "Dokumentationszentrum Nationalsozialismus",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://museen.freiburg.de/museen/dzns",
+    "tags": {
+     "tourism": "museum"
+    }
+   },
+   {
+    "name": "Museum für Neue Kunst",
+    "zusatz": "",
+    "wikipedia": "de:Museum für Neue Kunst (Freiburg im Breisgau)",
+    "website": null,
+    "tags": {
+     "tourism": "museum"
+    }
+   },
+   {
+    "name": "Museum Natur und Mensch",
+    "zusatz": "",
+    "wikipedia": "de:Museum Natur und Mensch Freiburg",
+    "website": null,
+    "tags": {
+     "tourism": "museum"
+    }
+   },
+   {
+    "name": "Archäologisches Museum Colombischlössle",
+    "zusatz": "",
+    "wikipedia": "de:Archäologisches Museum Colombischlössle",
+    "website": "https://museen.freiburg.de/museen/arco",
+    "tags": {
+     "man_made": "surveillance",
+     "tourism": "museum"
+    }
+   },
+   {
+    "name": "Augustinermuseum",
+    "zusatz": "",
+    "wikipedia": "de:Augustinermuseum",
+    "website": "https://museen.freiburg.de/museen/am",
+    "tags": {
+     "tourism": "museum"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Planetarium Freiburg",
+    "zusatz": "",
+    "wikipedia": "de:Planetarium Freiburg",
+    "website": "https://www.planetarium-freiburg.de/",
+    "tags": {
+     "amenity": "planetarium",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Affenbrunnen",
+    "zusatz": "seit 1905",
+    "wikipedia": null,
+    "website": "https://www.alemannische-seiten.de/deutschland/freiburg_affenbrunnen.php",
+    "tags": {
+     "amenity": "fountain",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Pulverturm Schneckenvorstadt",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Altes Rathaus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://visit.freiburg.de/altes-rathaus",
+    "tags": {
+     "amenity": "townhall",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Berthold-Schwarz-Brunnen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "fountain",
+     "natural": "water",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Rau-Brunnen",
+    "zusatz": "seit 1911",
+    "wikipedia": null,
+    "website": "http://www.alt-freiburg.de/raubrunnen01.htm",
+    "tags": {
+     "amenity": "fountain",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Münster Unserer Lieben Frau",
+    "zusatz": "",
+    "wikipedia": "de:Freiburger Münster",
+    "website": null,
+    "tags": {
+     "amenity": "place_of_worship",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Schwabentor",
+    "zusatz": "",
+    "wikipedia": "de:Schwabentor (Freiburg im Breisgau)",
+    "website": null,
+    "tags": {
+     "historic": "city_gate",
+     "man_made": "tower",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Fischbrunnen",
+    "zusatz": "",
+    "wikipedia": "de:Fischbrunnen (Freiburg im Breisgau)",
+    "website": null,
+    "tags": {
+     "amenity": "drinking_water",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Georgsbrunnen",
+    "zusatz": "",
+    "wikipedia": "de:Georgsbrunnen (Freiburg im Breisgau)",
+    "website": null,
+    "tags": {
+     "amenity": "drinking_water",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Historisches Kaufhaus",
+    "zusatz": "",
+    "wikipedia": "de:Historisches Kaufhaus (Freiburg im Breisgau)",
+    "website": "https://historischeskaufhaus.freiburg.de/",
+    "tags": {
+     "historic": "building",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Martinstor",
+    "zusatz": "",
+    "wikipedia": "de:Martinstor",
+    "website": null,
+    "tags": {
+     "historic": "city_gate",
+     "man_made": "tower",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Neues Rathaus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://visit.freiburg.de/neues-rathaus",
+    "tags": {
+     "amenity": "townhall",
+     "tourism": "attraction"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Antonie Veit",
+    "zusatz": "seit 2012",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/antonie-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Erna Dornacher",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/erna-dornacher/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Jessy Mayer",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/jessy-mayer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Julius Veit",
+    "zusatz": "seit 2012",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/julius-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Katharina Veit",
+    "zusatz": "seit 2012",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/katharina-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Lina Dornacher",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/lina-dornacher/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Max Mayer",
+    "zusatz": "seit 2012",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/max-mayer-3/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Olga Mayer",
+    "zusatz": "seit 2012",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/olga-mayer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Unvergessene Heimat",
+    "zusatz": "seit 1969",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "St. Lambert",
+    "zusatz": "seit 1719",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial",
+     "tourism": "artwork"
+    }
+   },
+   {
+    "name": "Maria",
+    "zusatz": "seit 1719",
+    "wikipedia": null,
+    "website": "https://de.wikipedia.org/wiki/Freiburger_Münster",
+    "tags": {
+     "historic": "memorial",
+     "tourism": "artwork"
+    }
+   },
+   {
+    "name": "St. Alexander",
+    "zusatz": "seit 1719",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial",
+     "tourism": "artwork"
+    }
+   },
+   {
+    "name": "Mahnmal vergessener Mantel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.memorialmuseums.org/denkmaeler/view/1498/Mahnmal-Vergessener-Mantel",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Siegesdenkmal",
+    "zusatz": "seit 1876",
+    "wikipedia": "de:Siegesdenkmal (Freiburg im Breisgau)",
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Alban Stolz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Mahnmal für die Opfer des Naziregimes",
+    "zusatz": "seit 1975",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Dr. Joseph Wirth",
+    "zusatz": "seit 2014",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/dr-joseph-wirth/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Adele Rüdenberg",
+    "zusatz": "seit 2007",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/adele-ruedenberg/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hedwig Dreyfuss",
+    "zusatz": "seit Jul ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/hedwig-dreyfuss.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Elsa Neumetzger",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/elsa-neumetzger.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Emil Dreyfuss",
+    "zusatz": "seit Apr ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/emil-dreyfuss.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Julius Neumetzger",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/julius-neumetzger.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Susanne Neumetzger",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/susanne-neumetzger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Arthur Martin Rosenberger",
+    "zusatz": "seit 2020",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Lazarus Rosenberger",
+    "zusatz": "seit 2020",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Otto Mayer",
+    "zusatz": "seit Oct ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/otto-mayer.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Martha Mayer",
+    "zusatz": "seit Oct ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/martha-mayer.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Judith Dornacher",
+    "zusatz": "seit Apr ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/judith-dornacher.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Julius Dornacher",
+    "zusatz": "seit Apr ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/julius-dornacher.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Lina Rosenberger",
+    "zusatz": "seit 2020",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Charlotte Bloch",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/charlotte-bloch.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Eugen Heitz",
+    "zusatz": "seit Jul ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Marion Abraham",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/marion-abraham/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Erna Abraham",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/erna-abraham/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Nathan Bloch",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/nathan-bloch.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Melanie Bloch",
+    "zusatz": "seit Oct ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/melanie-bloch.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Simon Bloch",
+    "zusatz": "seit Oct ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/simon-bloch.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Rosa Mayer",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": "https://stolpersteine-in-freiburg.de/rosa-mayer.html",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Julius Heilbrunner",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Lina Heilbrunner",
+    "zusatz": "seit Oct ",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/lina-heilbrunner/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Eduard Heilbrunner",
+    "zusatz": "seit Oct ",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/eduard-heilbrunner/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Rosa Heilbrunner",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/rosa-heilbrunner/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Camilla Greilsamer",
+    "zusatz": "seit Jul ",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/camilla-greilsamer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Julius Greilsamer",
+    "zusatz": "seit Jul ",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/julius-greilsamer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Abraham Levi",
+    "zusatz": "seit Jan ",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/abraham-levi/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Fanny Ullmann",
+    "zusatz": "seit Oct ",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Isidor Ullmann",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Gurs",
+    "zusatz": "seit 2000",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Stefan Meier",
+    "zusatz": "seit 2013",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/stefan-meier/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Margarete Seitz",
+    "zusatz": "seit 2013",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/margarete-seitz-2/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Adolf Keller",
+    "zusatz": "seit 2013",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/adolf-keller/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Käthe Vordtriede",
+    "zusatz": "seit 2013",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/kaethe-vordtriede-gestapo/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Urban Keller",
+    "zusatz": "seit 2013",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/urban-keller/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Gestapo-Zentrale",
+    "zusatz": "seit 2013",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/gestapo-basler-hof-1933-1941/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Alice Bloch",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Erika Bloch",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Ernst Bloch",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Rosa Bloch",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Henny Schmuckler",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Max Ruf",
+    "zusatz": "seit 2014",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/max-ruf/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Eugenie Jeanne Ruf",
+    "zusatz": "seit 2014",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/eugenie-jeanne-ruf/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Albert Abraham",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/albert-abraham/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Lina Abraham",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/lina-abraham/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Benjamin Grumbacher",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/benjamin-grumbacher/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Rita Grumbacher",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/rita-grumbacher/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Sedy Grumbacher",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/sedy-grumbacher/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Fanny Grumbacher",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/fanny-grumbacher/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Klara Grumbacher",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/klara-gerdi-grumbacher/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Samuel Sigmar Günzburger",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/samuel-sigmar-guenzburger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Alice Berta Günzburger",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/alice-berta-guenzburger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Louis Kaufmann",
+    "zusatz": "seit 2013",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/louis-kaufmann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Yvonne Kaufmann",
+    "zusatz": "seit 2013",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/yvonne-kaufmann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Manfred Kaufmann",
+    "zusatz": "seit 2013",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/manfred-kaufmann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Dr. Henry Mendel",
+    "zusatz": "seit 2024",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/dr-henry-mendel/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Alice Mendel-Weil",
+    "zusatz": "seit 2024",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/alice-mendel-weil/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Rachel Mendel",
+    "zusatz": "seit 2024",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/rachel-mendel/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Dr. Gottfried Maier-Kraemer",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/dr-gottfried-maier-kraemer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Julie Maier",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/julie-maier/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Nikolaus Glanzner",
+    "zusatz": "seit 2023",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/nikolaus-glanzner/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Rosa Glanzner",
+    "zusatz": "seit 2023",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/rosa-glanzner/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hanna Reichmann",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hanna-reichmann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Marie Reichmann",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/marie-reichmann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Ignaz Reichmann",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/ignaz-reichmann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Irma Neumann",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/irma-neumann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Ludwig Meyer",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/ludwig-meyer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Abraham Neumark",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/abraham-neumark/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Berliner Meilenstein",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Franz Peter L. Veit",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/peter-l-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "David Konrad Veit",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/david-konrad-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Margarete Veit",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/margarete-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Anneliesel Veit",
+    "zusatz": "seit 2019",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/anneliese-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hubert Veit",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hubert-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Karl Müller",
+    "zusatz": "seit 2014",
+    "wikipedia": null,
+    "website": "https://der-liebe-wegen.org/?profil=karl-mueller",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Selma Judas",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/selma-judas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Isaak Judas",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/isaak-judas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hertha 'Berthel' Frank",
+    "zusatz": "seit 2016",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hertha-berthel-frank/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Chaskel Frank",
+    "zusatz": "seit 2016",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/chaskel-frank-2/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Lore Bloch",
+    "zusatz": "seit 2024",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/lore-bloch/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Egon Bloch",
+    "zusatz": "seit 2024",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/egon-bloch/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Norbert Bloch",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/norbert-bloch/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Sofie Bloch",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/sofie-bloch/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Selma Zimmermann",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/selma-zimmermann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Irma Liebers",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/irma-liebers/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Max Liebers",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/maximilian-liebers/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Else Weil",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/else-weil/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Berthold Weil",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/berthold-weil/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Markus Cohn",
+    "zusatz": "seit 2017",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/markus-cohn/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Thekla Lion",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/thekla-lion/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Selma Lion",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/selma-lion/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Kurt Adler",
+    "zusatz": "seit 2017",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/kurt-adler/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Werner Adler",
+    "zusatz": "seit 2017",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/werner-adler/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Lina Adler",
+    "zusatz": "seit 2017",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/lina-adler/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Alfons Adler",
+    "zusatz": "seit 2017",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/alfons-adler/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Julius Blum",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/julius-blum/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Ronja Reutlinger",
+    "zusatz": "seit 2019",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/ronja-reutlinger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Alice Reutlinger",
+    "zusatz": "seit 2019",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/alice-reutlinger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Adolf Reutlinger",
+    "zusatz": "seit 2019",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/adolf-reutlinger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Flora Baer geb. Stern",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/flora-baer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Bruno Joseph",
+    "zusatz": "seit 2014",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/bruno-joseph/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Elsa Scheuermann",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/elsa-scheuermann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Dr. Siegfried Scheuermann",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/dr-siegfried-scheuermann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Leo Judas",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/leo-judas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hilde Judas geb. Süssmann",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/leo-judas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Babette Maier",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/babette-maier/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Jakob Maier",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/jakob-maier/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Stolperschwelle",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/3179/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Helene Lichtenberger geb. Veis",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/helene-lichtenberger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Dr. Erika Sinauer",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/dr-erika-sinauer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Rosa Sinauer geb. Westheimer",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/rosa-sinauer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Telly Guggenheim geb. Lichtenberger",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/telly-guggenheim/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Sofie Rosenthal geb. Bloch",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/sofie-rosenthal/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Siegfried Mayer",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/siegfried-mayer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Sofie Geismar",
+    "zusatz": "seit 2006",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/sofie-geismar/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Julian Rosenthal",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/julian-rosenthal/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Bertha Günzburger geb. Stoll",
+    "zusatz": "seit 2024",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/bertha-guenzburger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Siegmund Günzburger",
+    "zusatz": "seit 2024",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/siegmund-guenzburger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Albertine Haas",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/albertine-haas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Thekla Haas",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/thekla-haas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Sophie Haas",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/sophie-haas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Karoline Haas",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/karoline-haas/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Georg von Hevesy",
+    "zusatz": "seit 2014",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/prof-dr-georg-von-hevesy/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Pia von Hevesy",
+    "zusatz": "seit 2014",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/pia-von-hevesy/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Liselotte Weil",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/liselotte-weil/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Karolina Weil-Lion",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/karolina-weil-lion/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Moritz Weil-Lion",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/moritz-weil-lion/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Erna Eisenmann",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/erna-eisenmann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Max Eisenmann",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/max-eisenmann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Rosa Fürth",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/rosa-fuerth/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Herbert Fürth",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/herbert-fuerth/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Emmi Veit",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/emmi-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Otti Veit",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/otti-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Karl Veit",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/karl-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Georg Veit",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/georg-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Berthold Veit",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/berthold-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hilda Veit",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hilda-veit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Gustav Abraham",
+    "zusatz": "seit 2021",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/gustav-abraham/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Frieda Katz",
+    "zusatz": "seit 2007",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/frieda-katz/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Albert Levy",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/albert-levy/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Leopold Bodenheimer",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/leopold-bodenheimer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Jakob Federbusch",
+    "zusatz": "seit 2015",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/jakob-federbusch/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Peter Paepcke",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/peter-paepcke-2/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Dr. Ernst August Paepcke",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/dr-ernst-a-paepcke/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Lotte Paepcke",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/3180/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hans Mayer",
+    "zusatz": "seit 2025",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hans-mayer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Melanie Weinberg",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/melanie-weinberg/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Betha Mayer",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/berta-mayer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Israel Mayer",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/israel-mayer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Hans Arno Joachim",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/hans-arno-joachim/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Dr. Hermann Joachim",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/dr-med-hermann-joachim/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Robertine Kahn",
+    "zusatz": "seit 2007",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/robertine-kahn/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Ida Reiss",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/ida-reiss/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Fred Mayer",
+    "zusatz": "seit 2016",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/fred-mayer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Moritz Bloch",
+    "zusatz": "seit 2003",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/moritz-bloch/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Elise Burgheimer",
+    "zusatz": "seit 2015",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/elise-burgheimer/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Robert Burgheimer",
+    "zusatz": "seit 2015",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/robert-burgheimer-2/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Franz Anton Streit",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/franz-anton-streit/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Bertoldsbrunnen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "fountain",
+     "historic": "memorial"
+    }
+   }
+  ],
+  "Klinik": [
+   {
+    "name": "PraxisZentrum für Gastroenterologie und Endokrinologie",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "Nuklearmedizin Südbaden",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "Lungenfachärzte in der Bertoldstraße",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://lungenfachaerzte.de/",
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "REGIO REHA Tagesklinik Freiburg GmbH",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "Sankt Elisabeth-Krankenhaus",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "hospital"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Gewerbekanal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Gewerbekanal (Nordarm)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Gewerbekanal (Südarm)",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Dreisam",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Gewerbebach, Hauptkanal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Brauerei/Winzer": [
+   {
+    "name": "Feierling Biergarten",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.feierling.de/",
+    "tags": {
+     "amenity": "biergarten",
+     "craft": "brewery"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Dreisamtal-Radwanderweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Europäischer Radwanderweg Freiburg-Colmar",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Breisgau-Radwanderweg",
+    "zusatz": "64 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "RadNETZ Freiburg - Gundelfingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.fahrradland-bw.de/radverkehr-in-bw/radnetz/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Badischer Weinradweg - Etappe 2 Variante: Freiburg/Glottertal",
+    "zusatz": "seit 2020, 43 km",
+    "wikipedia": null,
+    "website": "https://www.touren-schwarzwald.info/de/tour/radfahren/badischer-weinradweg-variante-zu-etappe-2-freiburg-glottertal/32683013/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Zähringer-Wanderweg",
+    "zusatz": "74 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Breisgauer Weinweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kandel-Höhenweg [05. St. Peter→Freiburg]",
+    "zusatz": "",
+    "wikipedia": "de:Kandelhöhenweg",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Himmelreich-Jakobusweg",
+    "zusatz": "",
+    "wikipedia": "de:Jakobsweg",
+    "website": "https://himmelreich-jakobusweg.de",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Mezsche Gärten Hexenwegle - Freiburg Schwabentor",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Burggraben Süd - Kleiner Kanonenplatz Treppe",
+    "zusatz": "0.3 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Burggraben Süd - Kleiner Kanonenplatz",
+    "zusatz": "0.3 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Spielplatz Schlossberg West - Bergstation Schlossbergbahn",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bergstation Schlossbergbahn - Burggraben Nord",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Beim Bismarckturm - Burggraben Nord",
+    "zusatz": "0.3 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ludwigshöhe - Burggraben Süd",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kanonenplatz - Ludwigshöhe",
+    "zusatz": "0.1 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Burggraben Nord - Kanonenplatz",
+    "zusatz": "0.1 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kanonenplatz - Burggraben Süd",
+    "zusatz": "0.1 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kanonenplatz - Kanonenplatz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Greiffenegg-Schlössle - Kanonenplatz",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Freiburg Schwabentor - Greiffenegg-Schlössle",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Greiffenegg-Schlössle - Spielplatz Schlossberg West",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Haus des Schwarzwaldvereins - Spielplatz Schlossberg West",
+    "zusatz": "0.1 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Stadtgarten Schlossbergbahn - Freiburg Karlsplatz",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Freiburg Karlsplatz - Freiburg Oberlinden",
+    "zusatz": "0.4 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Freiburg Oberlinden - Freiburg Schwabentor",
+    "zusatz": "0.2 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Jakobsweg Rottenburg - Thann (2)",
+    "zusatz": "",
+    "wikipedia": "en:Camino de Santiago",
+    "website": "https://www.jakobswege-europa.de/wege/rottenburg-hericourt.htm",
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ]
+ }
+}

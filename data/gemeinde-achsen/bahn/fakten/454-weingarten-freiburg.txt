@@ -1,0 +1,221 @@
+ID: 454-weingarten-freiburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Weingarten
+FACETTE: LAGE
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Freiburg im Breisgau
+  grenzt_nord: Betzenhausen (getrennt durch Dreisam)
+  grenzt_ost: Haslach (getrennt durch Güterbahnlinie)
+  grenzt_sued: Haslach-Haid (getrennt durch Opfinger Straße)
+  grenzt_west: Rieselfeld (getrennt durch Tel-Aviv-Yafo-Allee)
+  erbaut: 1964-1966
+  erbauer: Freiburger Stadtbau
+  einwohner: 11110
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 454-weingarten-freiburg/002
+ENTITÄT: ort
+BEZEICHNUNG: Weingarten
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  charakteristikum: "geprägt durch viele Hochhäuser"
+  migrationshintergrund_einwohner_prozent: 48.2
+  migrationshintergrund_unter_18_prozent: 72.8
+  bedeutung_fuer_ort: "überdurchschnittlich hoher Ausländeranteil im Vergleich zum restlichen Freiburger Raum"
+  stand: Oktober 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 454-weingarten-freiburg/003
+ENTITÄT: kirche
+BEZEICHNUNG: St. Andreas-Kirche
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  erbaut: 1968-1969
+  ereignis: Brand
+  renovierung_abschluss: 1994
+  renovierung_begruendung: "Innenraum nach Brand erneuert und neu gestaltet"
+  kirchengemeinde_begruendung: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 454-weingarten-freiburg/004
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Dietrich-Bonhoeffer-Gemeinde
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  beheimatet: Weingarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 454-weingarten-freiburg/005
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: Neuapostolisch
+  existenz_zeitraum: 1975-2019
+  adresse: Krozinger Straße 13
+  status: entwidmet, Gebäude noch vorhanden
+GUELTIG_AB: 1975
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 454-weingarten-freiburg/006
+ENTITÄT: hochschule
+BEZEICHNUNG: Evangelische Hochschule Freiburg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bedeutung_fuer_ort: "Hochschulstandort im Stadtteil Weingarten"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 454-weingarten-freiburg/007
+ENTITÄT: schule
+BEZEICHNUNG: Adolf-Reichwein-Schule
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  type: Schulverbund (Grundschule + Schule für Erziehungshilfe)
+  benannt_nach: Dichter Adolf Reichwein
+  schueler: ca. 380
+  klassen: 16
+  grundschulfoe_rderklassen: 2
+  besonderheit: "Schüler der Schule für Erziehungshilfe werden inklusiv in Grundschulklassen unterrichtet"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 454-weingarten-freiburg/008
+ENTITÄT: seniorenzentrum
+BEZEICHNUNG: AWO-Seniorenzentrum Weingarten
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  traeger: Arbeiterwohlfahrt (AWO)
+  adresse: Sulzburger Straße
+  einrichtungen: Martha-Fackler-Pflegeheim; Seniorenwohnanlage; Begegnungsstätte; Ambulante Dienste
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 454-weingarten-freiburg/009
+ENTITÄT: naherholungsgebiet
+BEZEICHNUNG: Dietenbachpark
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  see_flaeche: "3 ha"
+  see_hoehe: 230
+  see_hoehe_einheit: "m über NN"
+  ausstattung: Sportanlagen; Abenteuerspielplatz
+  bedeutung_fuer_ort: Naherholungsgebiet für Weingarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 454-weingarten-freiburg/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: Holzhaus Else-Liefmann-Platz
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baustart: 2017
+  baustoff: Holz (Obergeschosse 1–7; Erd- und Untergeschoss Ausnahmen)
+  superlativ: "höchstes reines Holzhaus Deutschlands"
+  obergeschosse: 7
+  nutzung_erdgeschoss: Supermarkt
+  nutzung_erster_og: Kindertagesstätte
+  wohneinheiten: 30 Mietwohnungen
+  bezugsstand: Dezember 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 454-weingarten-freiburg/011
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: Einkaufszentrum Krozinger Straße
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Krozinger Straße
+  ausstattung: Parkhaus
+  geplante_aufstockung: "ab 2021 mit Wohngeschossen in Holzbauweise"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 454-weingarten-freiburg/012
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Straßenbahnanbindung
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erschliessung_ab: März 1994
+  linien: "Linie 3 (Zähringen – Haid); Linie 5 (Rieselfeld – Europaplatz)"
+  geplante_erweiterung: "S-Bahn Haltepunkt unterhalb Opfinger Brücke mit Übergang zu Linie 5"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 454-weingarten-freiburg/013
+ENTITÄT: radweg
+BEZEICHNUNG: Güterbahnradweg FR 2
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: westliche Stadtteile (Haslach, St. Georgen, Mooswald, Brühl)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 454-weingarten-freiburg/014
+ENTITÄT: radweg
+BEZEICHNUNG: Radweg FR 5
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  route: "über Berliner Brücke und Engelbergerstraße nach Betzenhausen, Stühlinger und Innenstadt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 454-weingarten-freiburg/015
+ENTITÄT: fahrradverleihsystem
+BEZEICHNUNG: Frelo
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  stationen_in_stadtteil: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 454-weingarten-freiburg/016
+ENTITÄT: begruengungsstaeotte
+BEZEICHNUNG: EBW (Erwachsenen-Begegnungsstätte)
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Weingarten
+QUELLE: https://de.wikipedia.org/wiki/Weingarten_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  type: Erwachsenen-Begegnungsstätte
+  groesse: "groß"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80

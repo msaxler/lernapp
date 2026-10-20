@@ -1,0 +1,212 @@
+ID: 448-zaehringen/001
+ENTITÄT: ort
+BEZEICHNUNG: Zähringen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Zähringen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  stadtteil_von: Freiburg im Breisgau
+  lage: Norden der Stadt
+  nachbar_süd: Herdern (Stadtteil)
+  nachbar_west: Brühl (Stadtteil)
+  nachbar_nord: Gundelfingen (Gemeinde)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 448-zaehringen/002
+ENTITÄT: ort
+BEZEICHNUNG: Zähringen
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Zähringen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 9400
+  einwohner_stand: Ende 2022
+  einwohner_genauigkeit: ca.
+  eingemeindung_jahr: 1906
+  eingemeindung_datum: 1. Januar 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 448-zaehringen/003
+ENTITÄT: ort
+BEZEICHNUNG: Zähringen
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7751/Z%C3%A4hringen | Landesportal
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1008
+  erwähnung_form: Zaringen
+  kontext_erwähnung: Wildbannurkunde König Heinrich II.
+  orte_gleicher_erwähnung: Herdern, Wiehre, Gundelfingen
+GUELTIG_AB: 1008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 448-zaehringen/004
+ENTITÄT: burg
+BEZEICHNUNG: Burg Zähringen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Zähringen
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7751/Z%C3%A4hringen | Landesportal
+EIGENSCHAFTEN:
+  erste_erwähnung: 1080
+  erste_erwähnung_quelle: Bericht Otto von Freisings
+  urkundlicher_nachweis: 1128
+  urkundlicher_nachweis_quelle: Rotulus Sanpetrinus
+  ursprung: Reich
+  besitzer_ab_ende_11_jh: Herzöge von Zähringen
+  nachfolger: Grafen von Freiburg
+GUELTIG_AB: 1080
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 448-zaehringen/005
+ENTITÄT: herrenhof
+BEZEICHNUNG: Herrenhof/Schloss Zähringen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Zähringen
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7751/Z%C3%A4hringen | Landesportal
+EIGENSCHAFTEN:
+  erste_erwähnung: 1245
+  umbau_Jahrhundert: 18. Jahrhundert
+  umbau_typ: zu Schlösschen
+  erworb_1811: Gemeinde (Schulhaus)
+  vorheriger_besitzer: Familie von Girardi
+GUELTIG_AB: 1245
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 448-zaehringen/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Blasius
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Zähringen
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7751/Z%C3%A4hringen | Landesportal
+EIGENSCHAFTEN:
+  patrozinium: St. Blasius
+  patrozinium_etabliert: 1745
+  erste_erwähnung: 1139
+  erwähnung_form: Kirche
+  kontext_erste_erwähnung: unter Patronat des Bischofs von Basel
+  status_ab_1275: Filiale der Hl. Kreuzkirche von Reutebach
+  reformation: katholisch geblieben
+  nachreformation_status: Pfarrei
+  ursprünglicher_patron: Schnewlin Bernlapp
+  patron_ab_1615: Kloster Allerheiligen Freiburg
+  teil_am: Pfarrei (mit Teil von Brühl ab 1954)
+GUELTIG_AB: 1139
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 448-zaehringen/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Blasius
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Zähringen
+QUELLE: https://de.wikipedia.org/wiki/Zähringen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baujahre: 1822-1823
+  stil: Weinbrenner-Stil
+  architekt: Christoph Arnold
+  architekt_lehrer: Friedrich Weinbrenner
+  religion: katholisch
+GUELTIG_AB: 1823
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 448-zaehringen/008
+ENTITÄT: kirche
+BEZEICHNUNG: Thomaskirche
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Zähringen
+QUELLE: https://de.wikipedia.org/wiki/Zähringen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Tullastraße
+  baujahre: 1958-1959
+  religion: evangelisch
+  pfarrei_etabliert: 1954
+  pfarrei_umfang: auch Teil von Brühl
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 448-zaehringen/009
+ENTITÄT: haltestelle
+BEZEICHNUNG: Haltepunkt Zähringen
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Zähringen
+QUELLE: https://de.wikipedia.org/wiki/Zähringen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  linie: Rheintalbahn
+  verkehrsmittel: Breisgau-S-Bahn
+  verbindung_süd: Freiburg Hauptbahnhof
+  verbindung_mitte: Denzlingen
+  verbindung_nord: Elzach
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 448-zaehringen/010
+ENTITÄT: straßenbahn
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Zähringen
+QUELLE: https://de.wikipedia.org/wiki/Zähringen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  anschluss_datum: 10. März 1910
+  anschluss_strecke: Okenstraße bis Reutebachgasse
+  verlängerung_1: März 2014
+  verlängerung_1_stationen: 3 Stationen
+  verlängerung_1_ziel: Gundelfinger Straße
+  linienänderung_12_2024: Dezember 2024
+  linie_betroffen: Linien 3 und 4
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 448-zaehringen/011
+ENTITÄT: ort
+BEZEICHNUNG: Zähringen
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Zähringen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  pumptrack_eröffnung: Juni 2020
+  pumptrack_lage: zwischen Denzlinger Straße und Isfahanallee
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 448-zaehringen/012
+ENTITÄT: ort
+BEZEICHNUNG: Zähringen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Zähringen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_vor_eingemeindung: 2185
+  einwohner_stand_jahr: 1904
+  bevölkerung_konfession_katholik: 1926
+  bevölkerung_konfession_protestant: 253
+  bevölkerung_konfession_sonstige: 6
+  haushaltungen: 455
+  gebäude: 237
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 448-zaehringen/013
+ENTITÄT: ort
+BEZEICHNUNG: Zähringen
+FACETTE: POLITIK
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7751/Z%C3%A4hringen | Landesportal
+EIGENSCHAFTEN:
+  besitztum_ab_ende_11_jh: Herzöge von Zähringen
+  nachfolger_ab_ca_1218: Grafen von Freiburg
+  verkauf_1327: Schnewlin Bernlapp
+  besitzer_1443: Schnewlin zum Wiger
+  besitzer_1536: Schnewlin von Landeck
+  besitzer_ab_ende_16_jh: von Sickingen (Erben)
+  besitzer_später: Familien von Wessenberg und Hornus von Bernkastel
+  besitzer_ab_1755: Abtei St. Peter im Schwarzwald
+  status_ab_1806: Amt Freiburg (nach Baden, Säkularisation)
+  eingemeindung: 1906
+GUELTIG_AB: 1008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

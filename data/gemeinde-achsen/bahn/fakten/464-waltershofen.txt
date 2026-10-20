@@ -1,0 +1,304 @@
+ID: 464-waltershofen/001
+ENTITÄT: ort
+BEZEICHNUNG: Waltershofen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Waltershofen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: ca. 15 km westlich der Stadt Freiburg am Tuniberg
+  ortsteil_status: Ortschaft von Freiburg mit eigener Ortsverwaltung
+  nachbargemeinden: Gottenheim, Merdingen, Umkirch (Landkreis Breisgau-Hochschwarzwald), Opfingen (Ortschaft Freiburg)
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 464-waltershofen/002
+ENTITÄT: ort
+BEZEICHNUNG: Waltershofen
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7746/Waltershofen | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung: 1139
+  ersterwahnung_form: Waltershoven
+  historische_eigenschaft_mit_adel: Bei Erstnennung eigener Adel
+  herrschaften_mittelalter: Kloster St. Märgen, Herren von Falkenstein, Bock von Stauffenberg, Herren von Blumeneck, Vögte von Alten-Summerau und Praßberg
+  herrschaft_modern: Freiherren von Kageneck (ab 1766), nach 1806 badische Domäne
+  administrative_zugehoerigkeit_seit: 1807 badisches Amtssitz Freiburg
+  gemarkungsaenderung: 1841/42 Teil der Gemarkung Wippertskirch mit Waltershofen vereinigt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 464-waltershofen/003
+ENTITÄT: ort
+BEZEICHNUNG: Waltershofen
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Waltershofen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindet_nach_freiburg: 1972-07-01
+  einwohner: 2289
+  einwohner_stand: 2025-12-31
+  flaeche: 758.339
+  flaeche_einheit: ha
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 464-waltershofen/004
+ENTITÄT: person
+BEZEICHNUNG: Petra Zimmermann
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: https://www.freiburg.de/pb/207848.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Ortsvorsteherin
+  adresse: Schulhalde 12, 79112 Freiburg-Waltershofen
+  telefon: 07665 9443-0
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 464-waltershofen/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: https://de.wikipedia.org/wiki/Waltershofen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1816-1819
+  architekt: Christoph Arnold
+  stil: Weinbrenner-Stil
+  patrozinium: Peter und Paul
+  vorgaenger: St. Margareten-Kapelle
+  pfarrei_herkunft: Verlagerung von Wippertskirch
+  vorgaenger_kapelle_seit: ca. 1270
+  neues_patrozinium_seit: 1816 (übernommen von Prioratskirche Wippertskirch, die seit 1136 Klosterkirche Schuttern war)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 464-waltershofen/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Margareten-Kapelle
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7746/Waltershofen | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung: 1342
+  urspruengliche_erwahnung: als Filial von Wippertskirch
+  patrozinium: St. Margarethen
+  patrozinium_recht_konflikt: 17. Jahrhundert zwischen Herrschaft und Gemeinde strittig
+  lokalkaplanei: nach Dreißigjährigem Krieg eingerichtet
+GUELTIG_BIS: 1816
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 464-waltershofen/007
+ENTITÄT: gewaesser
+BEZEICHNUNG: Waltershofener See
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: https://de.wikipedia.org/wiki/Waltershofen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: westlich der Bundesautobahn 5, im Südosten der Waltershofener Gemarkung
+  entstehung: Kiesabbau für Autobahnzubringer Freiburg-Mitte
+  entstehungszeit: 1967-1969
+  besonderheit: am höchsten mit Nährstoffen belasteter See Baden-Württembergs
+  nährstoffquelle: Grundwasser vom Freiburger Rieselfeld (bis Anfang 1980er Jahre)
+  folgen_belastung: Algenblüte, Fischsterben, Sauerstoffmangel ab zwei Meter Tiefe
+  massnahme_seit_2010: Solarantrieb umwälzt Wasser für Sauerstoffzufuhr in tiefere Schichten
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 464-waltershofen/008
+ENTITÄT: landschaftsschutzgebiet
+BEZEICHNUNG: Mooswald
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: https://de.wikipedia.org/wiki/Waltershofen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Südosten der Waltershofener Gemarkung, angrenzend an Naturschutzgebiet Rieselfeld und Mundenhof
+  durchschneidung: Nord-Süd-Richtung von Bundesautobahn 5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 464-waltershofen/009
+ENTITÄT: sportanlage
+BEZEICHNUNG: Krebsbachstadion
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  beschreibung: Sportstätte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 464-waltershofen/010
+ENTITÄT: sportanlage
+BEZEICHNUNG: Steinriedhalle
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  beschreibung: Sportstätte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 464-waltershofen/011
+ENTITÄT: sportanlage
+BEZEICHNUNG: Windhundstadion
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  beschreibung: Freizeit, Hunderennen (dog racing)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 464-waltershofen/012
+ENTITÄT: weinbetrieb
+BEZEICHNUNG: Weingut Landmann
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  beschreibung: Brauerei/Winzer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 464-waltershofen/013
+ENTITÄT: weinbetrieb
+BEZEICHNUNG: Weingut Hercher
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  beschreibung: Brauerei/Winzer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 464-waltershofen/014
+ENTITÄT: betrieb
+BEZEICHNUNG: Löffel Mühlen
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  beschreibung: Betrieb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 464-waltershofen/015
+ENTITÄT: wanderweg
+BEZEICHNUNG: Panoramapfad Süd Waltershofen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  beschreibung: Themenweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 464-waltershofen/016
+ENTITÄT: wanderweg
+BEZEICHNUNG: Panoramapfad Nord Waltershofen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  beschreibung: Themenweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 464-waltershofen/017
+ENTITÄT: radweg
+BEZEICHNUNG: Kaiserstuhl-Radwanderweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  beschreibung: Fernwanderweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 464-waltershofen/018
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Freiburger Rieselfeld
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  typ: Naturschutzgebiet
+  einrichtung_seit: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 464-waltershofen/019
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Humbrühl-Rohrmatten
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: ZEUGEN (OpenStreetMap)
+EIGENSCHAFTEN:
+  typ: Schutzgebiet
+  einrichtung_seit: 2001
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 464-waltershofen/020
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Buslinie 32
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: https://de.wikipedia.org/wiki/Waltershofen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verbindungen: Lehen, Haslach, Rieselfeld mit Anschluss Straßenbahnnetz und Freiburger Innenstadt
+  taktung: Halbstundentakt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 464-waltershofen/021
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Radweg FR 5
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: https://de.wikipedia.org/wiki/Waltershofen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: Mooswald am Opfinger See vorbei zum Mundenhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 464-waltershofen/022
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Radweg FR 1
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: https://de.wikipedia.org/wiki/Waltershofen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: nach Umkirch mit Anschluss FR 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 464-waltershofen/023
+ENTITÄT: verkehrsverbindung
+BEZEICHNUNG: Radweg nach Merdingen
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: https://de.wikipedia.org/wiki/Waltershofen_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Lückenschluss entlang und parallel zur Kreisstraße über den Tuniberg bis zum bestehenden Radweg auf dem Tunibergsattel mit Anschluss zum Tuniberghöhenweg
+  fertigstellung: August 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 464-waltershofen/024
+ENTITÄT: burg
+BEZEICHNUNG: Wasserburg Waltershofen
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Waltershofen
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7746/Waltershofen | Landesportal
+EIGENSCHAFTEN:
+  nachweis: Hinweis durch Flurnamen "Auf der Burg" in der Niederung
+  historische_belege: vermutet, nur durch Flurname bezeugt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.60

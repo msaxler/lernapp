@@ -1,0 +1,409 @@
+ID: 457-landwasser/001
+ENTITÄT: ort
+BEZEICHNUNG: Landwasser
+FACETTE: LAGE | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage_in_stadt: westlicher Stadtteil von Freiburg im Breisgau
+  umgebende_stadtteile: Hochdorf (Norden), Brühl (Nordosten), Mooswald (Südosten), Lehen (Westen)
+  umgeben_von: Mooswald, Autobahn A5 (Westen), Bahnstrecke Freiburg-Breisach (Nordosten), Lehener Bergle (Westen)
+  geplant_seit: 28. April 1964
+  entstehungszeit_baubeginn: Frühjahr 1965
+  entstehungszeit_erster_bezug: Juni 1966
+  entstehungszeit_ende: 1964-1966
+  planungstyp: Großwohnsiedlung
+  ursprüngliche_flächennutzung: sumpfiges Waldgebiet (Landwassermatten)
+  bevölkerung_besiedlung: vorwiegend junge Familien mit relativ preisgünstigen Wohnraum
+  besiedlung_form: Mischung aus Hochhäusern, Wohnblöcken, Bungalows und Einfamilienhäusern
+  bevölkerungshöchststand: 9423
+  bevölkerungshöchststand_jahr: 1975
+  gesamt_einwohner_februar_1968: 1000
+  gestaltung_heute: parkähnlich angelegt im Mooswald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 457-landwasser/002
+ENTITÄT: kirche
+BEZEICHNUNG: St. Petrus Canisius
+FACETTE: LAGE | GESCHICHTE | RELIGION
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7721/Landwasser | Landesportal
+EIGENSCHAFTEN:
+  konfession: katholisch
+  baujahr: 1969
+  patrozinium: Petrus Canisius
+  lage_im_stadtteil: Zentrum des Stadtteils (geplant als zentrale Infrastruktur)
+  bedeutung_fuer_ort: zentrale religiöse und infrastrukturelle Einrichtung
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 457-landwasser/003
+ENTITÄT: kirche
+BEZEICHNUNG: Zachäuskirche
+FACETTE: LAGE | GESCHICHTE | RELIGION
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  lage_im_stadtteil: Zentrum des Stadtteils (geplant als zentrale Infrastruktur)
+  bedeutung_fuer_ort: zentrale religiöse und infrastrukturelle Einrichtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/004
+ENTITÄT: gemeinde_kuratie
+BEZEICHNUNG: Katholische Kuratie Landwasser
+FACETTE: RELIGION | GESCHICHTE
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7721/Landwasser | Landesportal
+EIGENSCHAFTEN:
+  konfession: katholisch
+  gründungsjahr: 1968
+  folgeregelung: umgewandelt zur Pfarrei 1975
+GUELTIG_AB: 1968
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 457-landwasser/005
+ENTITÄT: gemeinde_pfarrei
+BEZEICHNUNG: Katholische Pfarrei Landwasser
+FACETTE: RELIGION | GESCHICHTE
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7721/Landwasser | Landesportal
+EIGENSCHAFTEN:
+  konfession: katholisch
+  gründungsjahr: 1975
+  vorgänger: Kuratie (seit 1968)
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 457-landwasser/006
+ENTITÄT: gemeinde_vikariat
+BEZEICHNUNG: Evangelisches Vikariat Landwasser
+FACETTE: RELIGION | GESCHICHTE
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7721/Landwasser | Landesportal
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gründungsjahr: 1967
+GUELTIG_AB: 1967
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/007
+ENTITÄT: gemeinde_pfarrei
+BEZEICHNUNG: Evangelische Landwasser-Pfarrei
+FACETTE: RELIGION | GESCHICHTE
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7721/Landwasser | Landesportal
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gründungsjahr: 1968
+  vorgänger: Vikariat (seit 1967)
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 457-landwasser/008
+ENTITÄT: gemeindezentrum
+BEZEICHNUNG: Gemeindezentrum (evangelisch)
+FACETTE: INFRA | RELIGION | ALLTAG
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7721/Landwasser | Landesportal
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1971-1972
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/009
+ENTITÄT: schulzentrum
+BEZEICHNUNG: Albert-Schweitzer-Schulen
+FACETTE: INFRA | ALLTAG
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bestandteile: Grundschule, Hauptschule, Förderschule für lernbehinderte Kinder und Jugendliche
+  lage_im_stadtteil: Zentrum des Stadtteils
+  planungsstatus: zentrale Infrastruktureinrichtung bei Stadtteilerstellung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/010
+ENTITÄT: zentrum
+BEZEICHNUNG: Haus der Begegnung
+FACETTE: INFRA | ALLTAG | KULTUR
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Kinder-, Jugend- und Stadtteilzentrum
+  lage_im_stadtteil: Zentrum des Stadtteils
+  planungsstatus: zentrale Infrastruktureinrichtung bei Stadtteilerstellung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/011
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: Einkaufszentrum Landwasser
+FACETTE: INFRA | ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erbauer_original: Adolf Unmüßig
+  baujahr_original: Anfang 1970er Jahre
+  stockwerke_original: 2
+  besonderheit_abriss_neubau: 2020/21 abgerissen, bis September 2024 neu erbaut
+  erbauer_neubau: Peter Unmüßig (Sohn von Adolf)
+  wohnungen_neubau: 190
+  baukosten_neubau: 175.000.000
+  baukosten_neubau_einheit: Euro
+  lage_im_stadtteil: Zentrum des Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 457-landwasser/012
+ENTITÄT: klinik
+BEZEICHNUNG: Evangelisches Diakoniekrankenhaus Freiburg
+FACETTE: INFRA | ALLTAG
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  träger: evangelische Diakonie
+  baustatus: im Laufe der Jahre nach der Stadtteilerstellung hinzugekommen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 457-landwasser/013
+ENTITÄT: klinik
+BEZEICHNUNG: Praxisklinik 2000
+FACETTE: INFRA | ALLTAG
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: privat
+  baustatus: im Laufe der Jahre nach der Stadtteilerstellung hinzugekommen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 457-landwasser/014
+ENTITÄT: altenheim
+BEZEICHNUNG: Alten- und Pflegeheim Landwasser
+FACETTE: INFRA | ALLTAG
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  träger: Arbeiterwohlfahrt
+  baustatus: im Laufe der Jahre nach der Stadtteilerstellung hinzugekommen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 457-landwasser/015
+ENTITÄT: ausbildungszentrum
+BEZEICHNUNG: Ausbildungszentrum der Handwerkskammer
+FACETTE: INFRA | ALLTAG
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: berufliche Ausbildung im Handwerk
+  baustatus: im Laufe der Jahre nach der Stadtteilerstellung hinzugekommen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/016
+ENTITÄT: wohnheim
+BEZEICHNUNG: Wohnheim für Auszubildende
+FACETTE: INFRA | ALLTAG
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: unmittelbar neben der Handwerkskammer
+  baubeginn: April 2024
+  kapazität: ca. 150
+  kapazität_einheit: Auszubildende
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/017
+ENTITÄT: heizwerk
+BEZEICHNUNG: Heizwerk Landwasser
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  energiequelle: Gas aus stillgelegter Mülldeponie
+  funktion: Fernwärmeversorgung
+  versorgungsbereich: ein Teil der Wohnungen
+  bedeutung_fuer_ort: nachhaltige Energieversorgung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 457-landwasser/018
+ENTITÄT: forschungsinstitution
+BEZEICHNUNG: Tierhygienisches Institut Freiburg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  auch_genannt: Chemische Landesuntersuchungsanstalt
+  lage: Westrand des Stadtteils
+  lage_charakterisierung: fernab der Wohnbebauung an der Autobahn
+  bedeutung_fuer_ort: Laboruntersuchungen und Kontrollen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/019
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Rote Otto
+FACETTE: KULTUR | GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Figurengruppe
+  material: Polyester und Beton
+  höhe: 12
+  höhe_einheit: Meter
+  farbe: rot
+  künstler: Eberhard Rau
+  baujahr: 1973
+  standort: herausgehobene Stelle als Wahrzeichen
+  beschreibung: formal stark reduzierte Figuren von Mann und Frau sowie dämonischer Faun (Quadratgesicht); obere Figuren können sich je nach Luftbewegung drehen
+  kulturdenkmalstatus_seit: 2013
+  restaurierung_jahr: 2015
+  bedeutung_fuer_ort: Wahrzeichen des Stadtteils
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 457-landwasser/020
+ENTITÄT: gewässer
+BEZEICHNUNG: Moosweiher
+FACETTE: FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: ehemalige Kiesgrube
+  lage: im Mooswald, Freizeitbereich des Stadtteils
+  nutzung: Skateboardfahren und Inliner (Halfpipe am Nordufer)
+  freizeitfunktion: Spaziergang und sportliche Aktivitäten im Mooswald
+  bedeutung_fuer_ort: zentrales Freizeit- und Naherholungsgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 457-landwasser/021
+ENTITÄT: wohnblock
+BEZEICHNUNG: Max
+FACETTE: GESCHICHTE | LAGE | ALLTAG
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Landwasser-Nord Komplex
+  position: südlicher Hochhauskomplex
+  hausnummern: 14 bis 22
+  stockwerke_max: 17
+  baujahr: 1972
+  bewohnungstyp: stark verdichteter Hochhauskomplex mit Sozialwohnungen
+  wohnungen_gesamtkomplex: 325
+  verkauf_jahr: 2005 (Ende)
+  verkauf_käufer: Gagfah (später Vonovia)
+  charakterisierung_lokal: liebevoll benannt
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 457-landwasser/022
+ENTITÄT: wohnblock
+BEZEICHNUNG: Moritz
+FACETTE: GESCHICHTE | LAGE | ALLTAG
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Landwasser-Nord Komplex
+  position: nördlicher Hochhauskomplex
+  hausnummern: 2 bis 12
+  stockwerke_max: 6
+  baujahr: 1972
+  bewohnungstyp: stark verdichteter Hochhauskomplex mit Sozialwohnungen
+  wohnungen_gesamtkomplex: 325
+  verkauf_jahr: 2005 (Ende)
+  verkauf_käufer: Gagfah (später Vonovia)
+  charakterisierung_lokal: liebevoll benannt
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 457-landwasser/023
+ENTITÄT: bahnhof
+BEZEICHNUNG: Freiburg-Landwasser
+FACETTE: INFRA | LAGE
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bahnlinie: S1 (Freiburg–Breisach)
+  lage_im_stadtteil: nördlicher Teil Landwassers
+  bedeutung_fuer_ort: Schienenanbindung zur Innenstadt und Region
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/024
+ENTITÄT: stadtbahn_linie
+BEZEICHNUNG: Stadtbahnlinie 1
+FACETTE: INFRA | LAGE
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Landwasser–Littenweiler
+  haltestellen_landwasser: Moosgrund, Diakoniekrankenhaus, Moosweiher (Endhaltestelle)
+  bedeutung_fuer_ort: zentrale Verbindung des Stadtteils mit der Innenstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/025
+ENTITÄT: straße
+BEZEICHNUNG: Elsässerstraße
+FACETTE: INFRA | LAGE
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Hauptzufahrtsstraße für motorisierten Verkehr
+  verbindung: mit Freiburger Straßennetz (über Kreuzung mit Westtangente)
+  umgestaltung_jahr: 2025
+  umgestaltung_detail: statt 4 Spuren nur noch 2 Spuren für Kfz-Verkehr, freiwerdender Platz für fehlende Gehwege
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/026
+ENTITÄT: radweg
+BEZEICHNUNG: Radwegenetz Landwasser
+FACETTE: INFRA | LAGE
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  qualität: gut ausgebaut
+  verbindung: mit anderen Teilen der Stadt Freiburg
+  brücken: zwei Fuß- und Radverkehrsbrücken in südlichen und nördlichen Teil
+  radschnellweg_geplant: FR 4 durch Lehen (südlich) und Radschnellweg Freiburg-Breisach (entlang Breisacher Bahn)
+  radschnellweg_ziele: Verbindung mit Brühl und Hugstetten
+  frelo_stationen: zwei Stationen des Fahrradverleihsystems Frelo
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 457-landwasser/027
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Landwasser
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Landwasser
+QUELLE: https://de.wikipedia.org/wiki/Landwasser_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  gliederung: viergeteilt
+  feld_1: Georgskreuz der Stadt Freiburg (plastisch, linkes oberes Feld)
+  feld_2: Georgskreuz der Stadt Freiburg (plastisch, rechtes unteres Feld)
+  feld_3: goldener Frosch auf blauem Grund (rechtes oberes Feld)
+  feld_4: goldener Frosch auf blauem Grund (linkes unteres Feld)
+  symbolik: Georgskreu zeigt Zugehörigkeit zu Freiburg; Frösche verweisen auf wasserreiche Lage und Stadtteilnamen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

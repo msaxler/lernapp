@@ -1,0 +1,222 @@
+ID: 459-rieselfeld/001
+ENTITÄT: ort
+BEZEICHNUNG: Rieselfeld
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Westen von Freiburg im Breisgau
+  flaechengroesse: 78 [ha]
+  einwohner: 9200 [ca.]
+  ist_stadtteil_von: Freiburg im Breisgau
+  gueltig_seit: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 459-rieselfeld/002
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Naturschutzgebiet Freiburger Rieselfeld
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Naturschutzgebiet
+  lage: grenzt Stadtteil im Westen an
+  funktion: Naherholungsgebiet für Bewohner
+  bedeutung_fuer_ort: Grüne Grenze; Naherholung
+  etabliert: seit 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 459-rieselfeld/003
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Stadtteilpark [Grünkeil]
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Norden, westlich Kepler-Gymnasium
+  ausstattung: Liegewiese, Spielgeräte
+  fertigstellung: 2001
+  besonderheit: begrüntes begehbares Dach der Sporthalle verbindet Park mit Maria-von-Rudloff-Platz
+  bedeutung_fuer_ort: zentraler Freiraum, Treffpunkt für Familien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 459-rieselfeld/004
+ENTITÄT: kirche
+BEZEICHNUNG: Maria-Magdalena-Kirche
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  architektin: Susanne Gross [Köln]
+  material: Beton
+  charakteristikum: kompakter Baukörper ohne Turm an zentraler Stelle
+  besonderheit: Doppelkirche; katholischer und evangelischer Kirchenraum durch Foyer verbunden; Foyer erweiterbar zu gemeinsamer Sakralraum
+  weihe: 2004
+  bedeutung_fuer_ort: prägende Architektur im Stadtteilzentrum
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 459-rieselfeld/005
+ENTITÄT: gymnasium
+BEZEICHNUNG: Kepler-Gymnasium
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verlagerung: 1997 Umzug von Innenstadtlage nach Rieselfeld
+  neubau_einweihung: 1997
+  erweiterung_grundsteinlegung: Juli 2006
+  bedeutung_fuer_ort: zentrale Schuleinrichtung für familiengeprägten Stadtteil
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 459-rieselfeld/006
+ENTITÄT: grundschule
+BEZEICHNUNG: Clara-Grunwald-Grundschule
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1997
+  besonderheit: begrüntes begehbares Sporthallendach (8m) verbindet Grünkeil mit Maria-von-Rudloff-Platz
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 459-rieselfeld/007
+ENTITÄT: waldorfschule
+BEZEICHNUNG: Waldorfschule [Freiburg, 3. Standort]
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  identitaet: dritte Waldorfschule Freiburgs
+  gueltig_seit: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 459-rieselfeld/008
+ENTITÄT: sporthalle
+BEZEICHNUNG: Sepp-Glaser-Sporthalle
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  einweihung: 1997
+  besonderheit: begruentes und begehbares Dach
+  nutzung: Sporthallenbau mit Grünflächenfunktion
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 459-rieselfeld/009
+ENTITÄT: charakteristikum
+BEZEICHNUNG: Straßenbahnlinie 5
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: zentral entlang Rieselfeld-Allee
+  verbindung_stadt_seit: 1997
+  liniennummer_urspruenglich: 6
+  fahrtdauer_zentrum: 15-20 [Minuten]
+  haltestellen: Maria-von-Rudloff-Platz, Geschwister-Scholl-Platz, Bollerstaudenstraße
+  bedeutung_fuer_ort: zentrale Infrastruktur; Anbindung Stadtzentrum; Reduktion MIV
+  planung: Erweiterung mit Stadtteil Dietenbach geplant
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 459-rieselfeld/010
+ENTITÄT: biotop
+BEZEICHNUNG: Mittlerer Graben
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Feuchtbiotop
+  wasserspeisung: Regenwasser von Hausdächern
+  vegetation: Wilde Möhre [Futterpflanze Schwalbenschwanz]
+  lage: Südwesten Stadtteil
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 459-rieselfeld/011
+ENTITÄT: person
+BEZEICHNUNG: Käthe Vordtriede
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  berufe: Journalistin, Schriftstellerin, Emigrantin
+  ehrung: 2003 Weg nach ihr benannt
+  bedeutung_fuer_ort: erstmals deutschlandweit in Rieselfeld geehrt; Namenspatin
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 459-rieselfeld/012
+ENTITÄT: stadtteil
+BEZEICHNUNG: Rieselfeld [Stadtentwicklung]
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  planungsstart: 1992 Städtebaulicher Wettbewerb
+  gewinner: Planungsgruppe Süd-West [Lörrach]
+  erschliessungsstart: 1993 [1. Bauabschnitt]
+  baubeginn: 1994
+  erste_bewohnung: 1996
+  planung_vollausbau: 2013
+  basis: umgenutzte Rieselfeld-Fläche
+  charakteristika: Niedrigenergie-Bauweise; erneuerbare Energien; Mischnutzung (Miet-/Eigentum räumlich durchmischt); rollstuhl- und kinderwagengerecht; 30 km/h Tempolimit stadtweit
+  besonderheit: maximale Bauplatzgröße 40 WE pro Investor zur Vermeidung Monopol
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 459-rieselfeld/013
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Stadtteiltreff Rieselfeld
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  baubeginn: 2002
+  einweihung: 2003
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 459-rieselfeld/014
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Fahrradverleihsystem Frelo
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  stationen_im_stadtteil: 2
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 459-rieselfeld/015
+ENTITÄT: infrastruktur_historisch
+BEZEICHNUNG: Rieselfelder [1891-1985]
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Rieselfeld
+QUELLE: https://de.wikipedia.org/wiki/Rieselfeld_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erwerb_flaeche: 1891 Kauf 500 ha von Universität
+  zweck: Abwasserverrieselung für Freiburg
+  grund: Stadtbevölkerung war auf über 50.000 angewachsen
+  betrieb_einstellung: 1985
+  grund_stilllegung: Kapazität überschritten (>90.000 m³ täglich); Verrieselung ohne Vorbehandlung nicht mehr zulässig
+  bedeutung_fuer_ort: Basis für spätere Stadtteilentwicklung; Transformation von Industriefläche zu Wohngebiet
+GUELTIG_AB: 1891
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95

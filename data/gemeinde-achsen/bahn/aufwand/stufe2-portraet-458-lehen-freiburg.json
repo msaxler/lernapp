@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "458-lehen-freiburg",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 20186,
+ "token_ein": 493619,
+ "token_aus": 9084,
+ "usage": {
+  "input_tokens": 22,
+  "cache_creation_input_tokens": 51178,
+  "cache_read_input_tokens": 442419,
+  "output_tokens": 9084,
+  "output_tokens_details": {
+   "thinking_tokens": 3642
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 51178,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3618,
+    "cache_read_input_tokens": 55274,
+    "cache_creation_input_tokens": 2806,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 2806
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.4982977999999996,
+ "sekunden": 168,
+ "fehler": false,
+ "zeit": "2026-10-20T13:03:39"
+}
