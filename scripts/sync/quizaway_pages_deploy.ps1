@@ -7,4 +7,4 @@ $ziel = Join-Path $env:TEMP "quizaway-pages"
 if (Test-Path $ziel) { Remove-Item -Recurse -Force $ziel }
 New-Item -ItemType Directory -Force $ziel | Out-Null
 foreach ($f in "index.html", "daten.js", "grund-de.js") { Copy-Item (Join-Path $quelle $f) $ziel }
-npx wrangler@latest pages deploy $ziel --project-name quizaway --branch main --commit-dirty=true
+npx --yes wrangler@latest pages deploy $ziel --project-name quizaway --branch main --commit-dirty=true
