@@ -1,0 +1,818 @@
+ZIELORT: Staufen (Stadt)
+LAGE: 16 km südwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Staufen im Breisgau
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 8392  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 23,32  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 360  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 284  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2829318)]
+  naechste_grossstadt: Freiburg im Breisgau, 16 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 146 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Staufen, Haltepunkt Etzenbach, Haltepunkt Staufen Süd  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79219  [Wikidata P281]
+  vorwahl: 07633  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,2 %, GRÜNE 24,9 %, SPD 17 %, AfD 10,8 %, Die Linke 6,7 %; Wahlbeteiligung 87,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 87,2 %, Abstand 3,8 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+  buergermeister: Benjamin Bröcker (Bündnis 90/Die Grünen) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-20]
+  partnerstaedte: Bonneville, Kazimierz Dolny  [Wikidata P190]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Aussicht: Burg Staufen
+  Aussicht: Messerschmiedfelsen (395 m)
+  Aussicht: Etzenbacherhöhe (715 m)
+  Aussicht: Boeckfelsen (370)
+  Burg/Denkmal: Gedenkstein
+  Burg/Denkmal: Josefle
+  Burg/Denkmal: St. Barbara
+  Freizeit: Alte Trotte
+  Freizeit: Keltischer Baumkreis
+  Freizeit: Ateliers Oelmühle
+  Gipfel: Enggründlekopf (704 m)
+  Gipfel: Riesterkopf (762 m)
+  Gipfel: Katzenstuhl (595 m)
+  Gipfel: Etzenbacher Höhe (725 m)
+  Natur: Markusbrunnen
+  Museum: Keramikmuseum Staufen
+  Museum: Galerie Trunz
+  Museum: Badisches Landesmuseum, Außenstelle Südbaden
+  Museum: Galerie Unikat
+  Museum: Galerie Fluchtstab
+  Museum: Tango- und Bandoneonmuseum Staufen
+  Museum: Literarische Dauerausstellung Peter Huchel und Erhart Kästner
+  Museum: Stadtmuseum
+  Brauerei/Winzer: Schladerer
+  Brauerei/Winzer: Weingut H. Ulmann
+  Brauerei/Winzer: Weingut Wiesler
+  Brauerei/Winzer: Weinhaus Peter und Judit Landmann
+  Brauerei/Winzer: Weingut Köpfer
+  Sportstätte: Schwimmbad Belchenblick (swimming)
+  Sportstätte: Kletterwald Staufen (climbing adventure)
+  Sportstätte: Sporthalle (multi)
+  Sportstätte: Belchenhalle (multi)
+  Sportstätte: Sportzentrum Grunern (soccer)
+  Sportstätte: 6
+  Kultur: Auerbachs Kellertheater
+  Kultur: Faustforum (seit 2026)
+  Bahnhof: Etzenbach
+  Bahnhof: Staufen
+  Bahnhof: Staufen Süd
+  Gewässer: Neumagen
+  Bad: Alemannenbad
+  Betrieb: IKA-Werke GmbH & Co. KG
+  Betrieb: Wertstoffhof und Grünschnittsammelstelle
+  Betrieb: Bauhof
+  Betrieb: Liveo Research GmbH
+  Schutzgebiet: Nunnenmacher-Teiche
+  Schutzgebiet: Naturpark Südschwarzwald (seit 1999)
+  Wanderweg: Markgräfler Wiiwegli (92 km)
+  Wanderweg: Zähringer-Wanderweg (74 km)
+  Wanderweg: Bettlerpfad
+  Wanderweg: Himmelreich-Jakobusweg
+  Wanderweg: Zwei-Burgen-Weg
+
+PLAN:
+  Karte 1: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 1
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 3: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 3
+  Karte 4: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 4
+  Karte 5: FACETTE INFRA (Ersatz: LAGE), Geschichte, D, wahre Option an Stelle 1
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 1
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 3
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Bad Krozingen (Stadt)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 21.620  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 35,69  [Wikidata P2046; Altbestand staedte.json]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 233 | 230 | 224  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2819974); Altbestand geo.sqlite (GeoNames 2953414)]
+  naechste_grossstadt: Freiburg im Breisgau, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Bad Krozingen, Haltepunkt Bad Krozingen Ost, Haltepunkt Oberkrozingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,7 %, AfD 16,8 %, GRÜNE 16 %, SPD 15,2 %, Die Linke 6,1 %, FDP 5,4 %; Wahlbeteiligung 82,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 82,5 %, Abstand 0,9 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Ebnet, Littenweiler, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, March, Umkirch, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Kirchzarten, Stegen, Oberried, Buchenbach, Hinterzarten, Breitnau, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Staufen):
+ID: 434-staufen/001
+ENTITÄT: ort
+BEZEICHNUNG: Staufen
+FACETTE: GESCHICHTE
+QUELLE: https://www.staufen.de/unsere+stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 770
+  urkundliche_quelle: "Lorscher Codex (16. April 770)"
+  namensherkunft: "Althochdeutsches 'Stauf': sowohl 'Bergkegel' als auch 'Kelch'"
+  stadtgrundung: "Anfang 14. Jahrhundert"
+  grund_stadtwerdung: "Wirtschaftsbelebung nach Rückgang des Silberbergbaus um 1300"
+  denkmalpflege_status: "Historischer Stadtkern unter Denkmalschutz"
+  besonderheit_stadtanlage: "Planmäßig angelegte Stadt nördlich des alten Dorfs mit erkennbaren Strukturelementen wie Marktplatz, Marktstraße und Stadtbewässerung"
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 434-staufen/002
+ENTITÄT: ort
+BEZEICHNUNG: Staufen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: "Breisgau-Hochschwarzwald"
+  bundesland: "Baden-Württemberg"
+  region: "Südlicher Schwarzwald"
+  lage_geographisch: "Am Fuße des Schwarzwalds am Ausgang des Münstertals"
+  nachbarschaften: "Ehrenkirchen, Münstertal/Schwarzwald, Sulzburg, Ballrechten-Dottingen, Heitersheim, Bad Krozingen"
+  hoehe_norden: "260 m ü. NN"
+  hoehe_suedosten: "810 m ü. NN"
+  fluss: "Neumagen"
+  einwohner: 8500
+  einwohner_stand: "31. Dezember 2022"
+  mittelzentrum: "mit Bad Krozingen"
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 434-staufen/003
+ENTITÄT: bergbau
+BEZEICHNUNG: Silberbergbau
+FACETTE: GESCHICHTE
+QUELLE: https://www.staufen.de/unsere+stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: "Silber"
+  bedeutung_fuer_ort: "Verschaffte den Herren von Staufen bedeutenden Reichtum"
+  zeitraum_bluetenzeit: "Mittelalter bis 14. Jahrhundert"
+  beleg_historisch: "Ende 12. Jahrhundert: Herren von Staufen stifteten Silberkreuz in Kloster St. Trudpert"
+  niedergang: "um 1300"
+  grund_niedergang: "Vermutlich Ausschöpfung der leicht zu erschließenden Silberadern"
+  folgen: "Schwere wirtschaftliche Krise der Herren von Staufen"
+GUELTIG_BIS: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 434-staufen/004
+ENTITÄT: burg
+BEZEICHNUNG: Burg Staufen
+FACETTE: LAGE
+QUELLE: https://www.staufen.de/unsere+stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: "um 1100"
+  erbauung_genauigkeit: "vermutlich"
+  inhaber_ursprung: "Herren von Staufen (im Breisgau alteingesessene Adelsfamilie)"
+  wappen_inhaber: "Drei goldene Kelche auf rotem Grund"
+  bedeutung_fuer_ort: "Weithin sichtbarer Bergkegel, Namensgeber des Ortes"
+  besonderheit: "Noch heute von weitem sichtbar, nachts hell angestrahlt"
+  status: "Ruine im Besitz der Stadt Staufen, kann besichtigt werden"
+  einnahmelage: "dominierende Erhebung nördlich des Talausgangs, Schlossberg"
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 434-staufen/005
+ENTITÄT: familie
+BEZEICHNUNG: Herren von Staufen
+FACETTE: GESCHICHTE
+QUELLE: https://www.staufen.de/unsere+stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: "Im Breisgau alteingesessene Adelsfamilie"
+  verwandtschaft: "Nicht verwandt mit dem Herrschergeschlecht der Staufer"
+  unterstuetzer: "Mit Förderung der Herzogsfamilie der Zähringer nach Staufen gekommen"
+  zweck_ansiedlung: "Erschließung des Münstertals und des Schwarzwalds"
+  kontinuitaet_herrschaft: "Fast 500 Jahre kontinuierlich"
+  aussterben: "1602"
+  folge_aussterben: "Burg, Stadt und sämtliche Lehen fielen an Österreich"
+GUELTIG_BIS: 1602
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 434-staufen/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  art: "Pfarrkirche, spätgotische dreischiffige Basilika"
+  baujahr: 1518
+  patrozinium: "St. Martin"
+  status: "Unter Denkmalschutz"
+  kunsthistorische_werke: "Zwei Skulpturen eines trauernden Johannes und einer klagenden Maria (vermutlich Hans Multscher), Statue der Stadtpatronin St. Anna, Pietà, Kruzifix aus Föhrenholz (teilweise Hans Sixt von Staufen zugeschrieben)"
+  barocker_umbau: "Nach Dreißigjährigem Krieg"
+  neugotik: "1870/79 ausgestaltet"
+  neueste_restaurierung: "1993 teilweise wiederhergestellt"
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 434-staufen/007
+ENTITÄT: kirche
+BEZEICHNUNG: Martin-Luther-Kirche
+FACETTE: LAGE
+QUELLE: https://www.staufen.de/unsere+stadt/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "Evangelisch"
+  erbauung: 1899
+  stil: "Gotische Stilelement"
+  grund_erbauung: "Für Diasporagemeinde mit damals knapp 200 Mitgliedern"
+  lage: "In der noch unbebauten Vorstadt"
+  gemeinde: "Evangelische Kirchengemeinde Staufen-Münstertal"
+  denkmalschutz: "Ja"
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 434-staufen/008
+ENTITÄT: bad
+BEZEICHNUNG: Alemannenbad
+FACETTE: FREIZEIT
+QUELLE: https://www.staufen.de/kultur+_+freizeit/tourismus/freibad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: "Freibad"
+  eroeffnung_erste: "20. Mai 1893"
+  becken_original_groesse: "18 x 9 Meter, Tiefe 1,6 Meter"
+  becken_modern: "50 x 25 Meter"
+  wasserzufuhr_original: "Gewerbekanal als 'kühler Gebirgsbach'"
+  bedeutung_fuer_ort: "Eines der ältesten Freibäder Deutschlands, nach Lorettobad in Freiburg das älteste in Baden-Württemberg"
+  denkmalschutz: "Teile des Eingangsbereichs und Umkleidekabinen"
+  solarheizung: "Ja"
+  liegewiese: "Groß mit Schatten spendendem Baumbestand"
+  aussenoert: "Am Fuße des Messerschmiedfelsens"
+  foerderverein: "Alemannenbad Staufen e.V. (gegründet 2003)"
+  betreiber: "Sport- und Freizeitmanagement GmbH"
+  oeffnung_zeitraum: "Mitte Mai bis Anfang September"
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 434-staufen/009
+ENTITÄT: museum
+BEZEICHNUNG: Keramikmuseum Staufen
+FACETTE: FREIZEIT
+QUELLE: https://www.staufen.de/kultur+_+freizeit/museen+_+galerien/keramikmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1991
+  gebaeude: "Ehemaliges Hafnerhaus"
+  besonderheit: "Einziges noch verbliebenes Zeugnis der seit Mittelalter lebendigen Töpfertradition"
+  werkstatt_erhaltung: "Werkstatt der Hafnerfamilie Maier-Bregger mit Tongrube, Drehscheibe, Trockengestell und Holzfeueröfen vollständig erhalten"
+  triaeger: "Badisches Landesmuseum Karlsruhe (als Außenstelle)"
+  sonderausstellungen: "Jährlich Keramik aus allen Zeitepochen"
+  studio_km: "Sechs ausgesuchte zeitgenössische KeramikerInnen pro Jahr können Arbeiten präsentieren"
+  bedeutung_fuer_ort: "Überregionale Ausstrahlung"
+  lage: "Am Rande der Altstadt, unmittelbar neben dem Neumagen"
+  winterpause: "1. Dezember – 31. Januar"
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 434-staufen/010
+ENTITÄT: museum
+BEZEICHNUNG: Tango- und Bandoneonmuseum Staufen
+FACETTE: FREIZEIT
+QUELLE: https://www.staufen.de/kultur+_+freizeit/museen+_+galerien/tango+und+bandoneonmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2014
+  sammlung: "Weltweit einzigartige Sammlung Steinhart mit 450 Bandoneons"
+  triaeger: "Tango & Bandoneonmuseum Staufen e.V."
+  zusatzangebote: "Kurse zum Erlernen des Tango Argentino, Konzerte und Filmvorführungen"
+  lage: "Kapuzinerhof Staufen"
+  dokumentation: "Umfangreiche Dokumente zur Geschichte des Tangos"
+  besonderheit: "Verbindung zu argentinischem Tango, Namensgeber für Freundschaft mit Dolores (Buenos Aires)"
+GUELTIG_AB: 2014
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 434-staufen/011
+ENTITÄT: theater
+BEZEICHNUNG: Auerbachs Kellertheater
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  begruendung: 1987
+  begruender: "Eberhard Busch"
+  bezeichnung_stil: "Intelligentes Theater, nicht intellektuelles"
+  standort: "Alter Gewölbekeller, ehemaliges Schnapslager der Firma Schladerer"
+  lage_detail: "Unter dem früheren Goethe-Institut"
+  kapazitaet: 99
+  umzug_standort: 1989
+  ueberregionale_bekanntheit: "Ja"
+  bedeutung_fuer_ort: "Kulturelles Zentrum der Stadt"
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 434-staufen/012
+ENTITÄT: fest
+BEZEICHNUNG: Staufener Musikwoche
+FACETTE: FREIZEIT
+QUELLE: https://www.staufen.de/kultur+_+freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1949
+  begruender: "Ernst Duis und Bürgermeister Eckart Ulmann"
+  superlativ: "Eines der ältesten Klassik-Musikfestivals Deutschlands"
+  bedeutung_fuer_ort: "Kultureller Mittelpunkt der Region nach Zweitem Weltkrieg"
+  programm_struktur: "Tagsüber Kurse für ambitionierte Laienmusiker und Berufsmusiker, abends Konzerte"
+  repertoire: "Klassische Musik vom Mittelalter bis zur Wiener Klassik"
+  zeitraum: "Ende Juli bis Anfang August"
+  besonderheit: "Teil des Programms ist Abschlusskonzert aus mehrstufiger Kurswoche"
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 434-staufen/013
+ENTITÄT: fest
+BEZEICHNUNG: Markgräfler Weinfest
+FACETTE: FREIZEIT
+QUELLE: https://www.staufen.de/kultur+_+freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "Erstes Augustwochenende"
+  charakterisierung: "Jährliches Fest"
+  aussteller: "Winzergenossenschaften und Weingüter aus dem gesamten Weinbaubereich Markgräflerland"
+  bestandteil: "Wahl der Markgräfler Weinprinzessin"
+  musik_unterhaltung: "Ja"
+  kulinarisches: "Ja"
+  bedeutung_fuer_ort: "Präsentation regionaler Spezialitäten und Produkte"
+GUELTIG_AB: "historisch undatiert"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 434-staufen/014
+ENTITÄT: person
+BEZEICHNUNG: Johann Georg Faust
+FACETTE: GESCHICHTE
+QUELLE: https://www.staufen.de/unsere+stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: "um 1480 – um 1541"
+  beruf: "Alchemist, Magier, Schwarzkünstler, Heiler"
+  bekanntheit: "Berühmtester Einwohner Staufens"
+  literarische_figur: "Vorbild für Goethes Faust"
+  todesjahr: 1539
+  todesjahr_genauigkeit: "vermutlich"
+  todesorte: "Zimmer Nr. 5 im Gasthaus zum Löwen, Staufen"
+  todesursache: "Explosion, vermutlich bei alchemistischem Experiment"
+  legende: "Teufelspakt mit Mephistopheles für 24 Jahre"
+  historische_quellen: "Zwölf Zeugnisse insgesamt, davon besonders glaubwürdig die Zimmern'sche Chronik (adlige Hauschronik 16. Jahrhundert)"
+  bedeutung_fuer_ort: "Namensgeber für Fauststadt, kulturelle Identität"
+  resonanz_zeitgenossen: "Luther und Melanchthon, Gelehrte, Fürsten setzten sich mit ihm auseinander"
+GUELTIG_BIS: 1539
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 434-staufen/015
+ENTITÄT: gaststaette
+BEZEICHNUNG: Gasthaus zum Löwen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  ersterwahnung: 1407
+  ranking: "Vermutlich drittes ältestes Gasthaus Deutschlands"
+  eigentuemer_mittelalter: "Mitte 15. Jahrhundert Kloster St. Trudpert in Münstertal"
+  namensbeleg: "Erst 1620 unter heutigem Namen urkundlich bestätigt"
+  denkmalschutz: "Ja"
+  beruehmt_wegen: "Faustlegende"
+  faust_zimmer: "Zimmer Nr. 5 um 1900 gestaltet nach Faust-Historie"
+  angebot_modern: "Übernachtung im Faust-Zimmer, Faust-Stube (seit 1915) mit Gastronomie"
+  geschichte_1848: "Im Verlauf der Badischen Revolution 1848 Tötung des Löwenwirts durch Querschläger"
+  kriegsbeschaedigung: "Unversehrt beim Bombenangriff 8. Februar 1945, bei dem rund 50 Häuser zerstört und 250 beschädigt wurden"
+GUELTIG_AB: 1407
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 434-staufen/016
+ENTITÄT: ereignis
+BEZEICHNUNG: Struve-Putsch
+FACETTE: GESCHICHTE
+QUELLE: https://www.staufen.de/unsere+stadt/stadtgeschichte/die+revolution+von+1848_49 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: "24. September 1848"
+  charakterisierung: "Niederschlagung des sogenannten Struve-Putsches"
+  bedeutung_fuer_ort: "Eines der herausragenden Ereignisse der Staufener Geschichte"
+  kontext: "Badische Revolution 1848/49"
+  initiant: "Gustav Struve (Rechtsanwalt, 1805–1870)"
+  frau: "Amalie Struve (1824–1862)"
+  motto: "Wohlstand, Bildung, Freiheit für alle"
+  truppensraerke: "Etwa 2000 Freischärler"
+  militaer_gegenseite: "Rund 800 Regierungssoldaten mit vier Geschützen"
+  gefecht_dauer: "Zwei Stunden"
+  tote: 23
+  struve_strafe: "Acht Jahre Zuchthaus, später Flucht in die USA"
+  nachwirkung: "In Staufen bewahrt man sich Sympathien für Struves Leute bis heute"
+  denkmale_erinnerung: "Gräber auf Friedhof in Ehren gehalten, Kanonenkugel in Haus im Grün, Wandgemälde am Gasthaus Krone, Gewehrkugel in Ratssaal"
+  stadtrundgang: "Sieben Stationen mit Informationstafeln in der Altstadt (Kooperationsprojekt Faust-Gymnasium und Stadt Staufen)"
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 434-staufen/017
+ENTITÄT: ereignis
+BEZEICHNUNG: Bombenangriff auf Staufen
+FACETTE: GESCHICHTE
+QUELLE: https://www.staufen.de/unsere+stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: "8. Februar 1945"
+  luftwaffe_seite: "Französische Flieger (flogen britische Flugzeuge)"
+  vermutete_grund: "Zerstörung der Eisenbahnbrücke für Rückzug deutscher Truppen"
+  kontext: "Ende Zweiter Weltkrieg"
+  tote: 79
+  tote_aufschluesseln: "51 Zivilisten, 28 Soldaten"
+  gebaeudebestand: "305 Gebäude beschädigt, davon 52 vollständig zerstört"
+  wiederaufbau: "Behutsame Eingliederung von Neubauten in historischen Bestand"
+  folge: "Kriegszerstörungen heute bei Gang durch Altstadt kaum erkennbar"
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 434-staufen/018
+ENTITÄT: ereignis_naturphaeomen
+BEZEICHNUNG: Hebungsrisse
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  ursache: "Geothermie-Bohrungen für Heizung des renovierten Rathauses"
+  beginn: 2007
+  auswirkungen: "Hebung der Altstadt bis Oktober 2010 mit Rissen in 268 Häusern"
+  hauser_stark_beschaedigt: 127
+  entwicklung: "Bis September 2012 von monatlich 1 cm auf 3 mm reduziert"
+  zukunft_planung: "Ab 2020 dauerhafter Grundwasserabpump erforderlich zur Schadenvermeidung"
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 434-staufen/019
+ENTITÄT: betrieb
+BEZEICHNUNG: IKA-Werke
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  volle_bezeichnung: "IKA, Jahnke & Kunkel GmbH & Co. KG"
+  branche: "Hersteller von Laborgeräten, Analysegeräten und prozesstechnischen Maschinen und Anlagen"
+  ansiedlung: "Nach 1945 erfolgreich angesiedelt"
+  bedeutung_fuer_region: "Führender Hersteller mit weltweiten Niederlassungen"
+  mitarbeiter_standort: "Durchschnittlich etwas über 300 Mitarbeiter am Standort Staufen in den letzten Jahren"
+  bedeutung_fuer_ort: "Zentraler Gewebe- und Industriestandort des südlichen Breisgaus"
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 434-staufen/020
+ENTITÄT: betrieb
+BEZEICHNUNG: Alfred Schladerer
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  volle_bezeichnung: "Alfred Schladerer, Alte Schwarzwälder Hausbrennerei GmbH"
+  branche: "Obstbrennerei"
+  bedeutung: "Einer der führenden Anbieter von Marken-Obstbränden"
+  location: "Ort: Schladerer sitzt in Staufen"
+  geschichte_lageort: "Ehemaliges Schnapslager, in dem heute Auerbachs Kellertheater untergebracht ist"
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 434-staufen/021
+ENTITÄT: betrieb
+BEZEICHNUNG: Bilcare Research GmbH
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  produkt: "Hart-PVC-Folien"
+  ansiedlung: "Nach Zweitem Weltkrieg (als Folienhersteller Bilcare)"
+  bedeutung_fuer_ort: "Industriestandort"
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 434-staufen/022
+ENTITÄT: berueckstelle
+BEZEICHNUNG: Bezirksamt Staufen
+FACETTE: POLITIK
+QUELLE: https://www.staufen.de/unsere+stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: "Behördenmittelpunkt für die weitere Region"
+  zeit_staette: "Badische Zeit bis 1935"
+  charakterisierung: "Einer der Vorläufer des heutigen Landratsamts"
+GUELTIG_BIS: 1935
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 434-staufen/023
+ENTITÄT: begruendung
+BEZEICHNUNG: Schelmenzunft Staufen
+FACETTE: FREIZEIT
+QUELLE: https://www.staufen.de/kultur+_+freizeit/highlights/staufener+fasnet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tradition: "Seit 1449"
+  gruendung_zunft: 1935
+  beschreibung: "Verbindung von Tradition und Lebensfreude"
+  figuren_anzahl: 3
+  figur_1_name: Schelm
+  figur_1_beschreibung: "Blau-weiß gehaltenes Gewand mit vielen Schellen, drückt überschäumende Lebensfreude und Schalkhaftigkeit aus, das Zunft-Häs"
+  figur_1_einfuehrung: 1935
+  figur_2_name: Mittwocher
+  figur_2_beschreibung: "Ruhig-freundlich und behäbig, basiert auf Markttag-Überlieferung (Mittwoch als Markttag)"
+  figur_2_entwicklung: 1950
+  figur_2_schöpfer: "Albert Ganter und Alfred Schladerer"
+  figur_2_maskendesigner: "Franz Spiegelhalter aus Freiburg"
+  figur_3_name: Schnurrewieb
+  figur_3_beschreibung: "Weib des Mittwocheres, freundlich, liebenswürdig, schwatzhaft, verteilt gönnerhaft Gutsele und Äpfel, Schnurren als Hauptmerkmal"
+  fest_staufener_fasnet: "12.–17.02.2026"
+GUELTIG_AB: 1449
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 434-staufen/024
+ENTITÄT: fest
+BEZEICHNUNG: Staufener Zeitreise – Stages
+FACETTE: FREIZEIT
+QUELLE: https://www.staufen.de/kultur+_+freizeit/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beginn: 2003
+  zeitpunkt: "Drittes Septemberwochenende"
+  konzept: "Großes Spektakel mit szenischen Darstellungen aus Staufener Stadtgeschichte"
+  bühne: "Ganze Stadt"
+  mitwirkende: "Über 800"
+  merkmale: "Geschichte und Geschichten, verborgene Schicksale, archivale Funde, Inszenierung auf Stages (Bühnen)"
+  besonderheit: "Verknüpfung von Geschichte mit aktuellen Gastronomie-, Handels- und Gewerbeangeboten"
+  veranstalter: "Faust e.V. in Zusammenarbeit mit der Stadt Staufen"
+  beschreibung: "Kostumelicht mit historischem Markt, Handwerker, Landsknechte, Spielleute, Gaukler"
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 434-staufen/025
+ENTITÄT: verein
+BEZEICHNUNG: Gewerbeverein Staufen e.V.
+FACETTE: ALLTAG
+QUELLE: https://www.staufen.de/wirtschaft/gewerbe/gewerbeverein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: "2. Dezember 1857"
+  alter_relativ: "Vor über 150 Jahren"
+  bedeutung_regional: "Einer der ersten Vereine im Großherzogtum Baden"
+  erster_vorsitz: "Oberamtmann Metzger vom Großherzoglich-Badischen Bezirksamt"
+  mitglieder_heute: "Über 180 gewerbe- und handeltreibende Betriebe, Dienstleister und Industrieunternehmen"
+  werbegemeinschaft: "Hälfte der Mitglieder engagiert in der Werbegemeinschaft"
+  aktivitaten: "Großfreiluft-Veranstaltungen, Blühendes Staufen, Oldtimertag, Wein & Musik, Lichternacht, Weihnachtsmarkt, Staufengutschein"
+GUELTIG_AB: 1857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 434-staufen/026
+ENTITÄT: werkstatt
+BEZEICHNUNG: Fark'sche Werkstatt
+FACETTE: FREIZEIT
+QUELLE: https://www.staufen.de/kultur+_+freizeit/museen+_+galerien/technisches+denkmal+fark_sche+werkstatt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1892
+  betreiber: "Emil Fark"
+  typ: "Maschinenbau- und Schlosserwerkstatt"
+  erhaltungsstatus: "Fast vollständig erhalten"
+  bedeutung_historisch: "Hervorragender Einblick in Frühzeit des deutschen Maschinenbaus"
+  verwalter: "Arbeitskreis Staufener Stadtbild e.V."
+  oeffnung: "Auf Anfrage"
+  maschinen: "Alle Maschinen wieder im Betrieb besichtigbar"
+  beruecksichtigung: "Technisches Denkmal"
+GUELTIG_AB: 1892
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 434-staufen/027
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Staufen
+FACETTE: FREIZEIT
+QUELLE: https://www.staufen.de/kultur+_+freizeit/museen+_+galerien/stadtmuseum+im+rathaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unterkunft: "Rathaus, historische Räume"
+  freitritt: "Ja"
+  ueberblick_geschichte: "Von Anfängen bis zur unmittelbaren Gegenwart"
+  aeltester_bestand: "15.000–35.000 Jahre alter Mammutknochen"
+  funde_zeitraeume: "Jungstein-, Römer- und Alamannenzeit"
+  bergbau_beleg: "Seit ca. 5000 v. Chr. Bergbau betrieben"
+  grubenlampen: "Aus frühem Mittelalter"
+  schwerpunkte: "Burg Staufen, Johann Georg Faust, Geschichte der Handwerke, aktuelles Kulturleben, Struve-Putsch"
+  multimedia: "Videorekonstruktion des mittelalterlichen Staufens"
+  oeffnungszeiten: "Mo – Fr zu den Öffnungszeiten der Tourist-Info"
+  hindernis: "Wegen andauernder Treppenhaus-Sanierung vorerst Sa. und So. geschlossen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 434-staufen/028
+ENTITÄT: schule
+BEZEICHNUNG: Faust-Gymnasium
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  funktion: "Oberschulzentrum für das gesamte Einzugsgebiet der Stadt"
+  traeger: "Landkreis (heute)"
+  schueler: "Rund 900"
+  lehrkraefte: 90
+  begruendung: "Nach Zweitem Weltkrieg als Teil der Etablierung Staufens als Kulturstadt"
+  teil_schulgeschichte: "Mitwirkung im Projekt 'Wege der Revolution 1848' mit Leistungsfach Geschichte"
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 434-staufen/029
+ENTITÄT: bruecke
+BEZEICHNUNG: Gusseisenbrücke über den Neumagen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  anderer_name: "Deckerbrücke"
+  material: "Gusseisen"
+  anderer_name_grund: "Café Tische und Stühle auf der Brücke"
+  denkmalschutz: "Ja"
+  besonderheit: "Letzte erhaltene gusseiserne Straßenbrücke in Deutschland"
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 434-staufen/030
+ENTITÄT: ortsteil
+BEZEICHNUNG: Grunern
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  status: "Ehemals selbstständige Gemeinde, seit 1. Januar 1974 eingemeindet"
+  dorf_und_orte: "Dorf Grunern, Weiler Etzenbach und Kropbach"
+  grenznaehe: "An der Grenze zur Gemeinde Münstertal"
+  hoefe: "Hohacker, Sahlenbach, Schleifsteinhof, Schöneck"
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 434-staufen/031
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wettelbrunn
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  status: "Ehemals selbstständige Gemeinde, seit 1. Juli 1971 eingemeindet"
+  gemarkungsflaechenteil: "Dorf Wettelbrunn"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 434-staufen/032
+ENTITÄT: landschaftselement
+BEZEICHNUNG: Schlossberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Sich steil erhebender Bergkegel"
+  lage: "Nördlich des Talausgangs des Münstertals"
+  dominanz: "Dominiert die Gegend"
+  namensgeber: "Namensgeber für Stadt Staufen (Althochdeutsch 'Stauf' = Bergkegel)"
+  wappen: "Beide Wappen (der Familie von Staufen und der Stadt) beziehen sich auf Schlossberg"
+  besonderheit: "Mit Wein bewachsen (heute Schlossweine)"
+  sichtbarkeit: "Von weitem sichtbar"
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 434-staufen/033
+ENTITÄT: landschaftselement
+BEZEICHNUNG: Neumagen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Fluss"
+  verlauf: "Durchfließt die Stadt Staufen"
+  tal: "Tal des Neumagen geht hier direkt in die Rheinebene über"
+  oertliche_tradition: "Kinder stauten ihn auf, um kleine Bassins zum Baden zu schaffen"
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 434-staufen/034
+ENTITÄT: produkt
+BEZEICHNUNG: Staudeker
+FACETTE: ALLTAG
+QUELLE: https://www.staufen.de/kultur+_+freizeit/vereine | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Altstaufener Weihnachtsgeld"
+  zeitpunkt: "Ab Anfang November"
+  funktion: "Zahlungsmittel von Staufener Geschäften"
+  besonderheit: "Veritables Zahlungsmittel beim Weihnachtsmarkt"
+  bedeutung_fuer_ort: "Besonderen Reiz des Weihnachtsmarkts"
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 434-staufen/035
+ENTITÄT: bucht_bauer
+BEZEICHNUNG: Bürgerverwaltung Staufen
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  buergermestergeschichte: "1889–1923: Albert Hugard, 1923–1933: Max Lederle, 1933–1945: Karl Gümbel (NSDAP), 1945–1946: Alois Schorr, 1946–1969: Eckart Ulmann, 1969–2001: Karl-Eugen Graf von Hohenthal (CDU), 2001–2026: Michael Benitz (parteilos), 2026–heute: Benjamin Bröcker (Bündnis 90/Die Grünen)"
+  buergermester_neueste: "Benjamin Bröcker"
+  buergermester_wahl_datum: "2. November 2025"
+  buergermester_wahlgang: "Zweiter Wahlgang"
+  buergermester_wahlresultat: "50,2 Prozent bzw. 18 Stimmen Vorsprung"
+  buergermester_amtsbeginn: "21. Mai 2026"
+  buergermester_titel_vorlaeufig: "Amtsverweser"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 434-staufen/036
+ENTITÄT: flurname
+BEZEICHNUNG: Messerschmiedfelsen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: "395 m"
+  lage: "Am Fuße des Schwarzwaldes nahe Staufen"
+  nutzung_historisch: "Mechaniker Camill Buisson botierte dort im 19. Jahrhundert Bäder an"
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 434-staufen/037
+ENTITÄT: foerderung_tourismus
+BEZEICHNUNG: StaufenGuide
+FACETTE: FREIZEIT
+QUELLE: https://www.staufen.de/kultur+_+freizeit/tourismus/staufenguide | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwickler: "Gewerbeverein Staufen"
+  format: "Multimediale Stadtführung, Web Version und App"
+  webseite: "www.staufenguide.com"
+  audioguide: "27 Stationen mit über 140 Fotos"
+  stadtplan: "Interaktiver Stadtplan"
+  pois_tourismus: "Über 100 POIs aus Tourismus & Handel (Hotels, Restaurants, Mode, etc.)"
+  pois_infra: "50 weitere POIs (Ärzte, Parken, WCs, EC-Automaten)"
+  technik: "GPS-Unterstützung, Veranstaltungs-Highlights, Daten und Fakten"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 434-staufen/038
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Bonneville
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  land: "Frankreich"
+  departement: "Haute-Savoie"
+  partnerschaft_seit: 1963
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 434-staufen/039
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Kazimierz Dolny
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  land: "Polen"
+  woiwodschaft: "Lublin"
+  partnerschaft_seit: 1994
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 434-staufen/040
+ENTITÄT: staedtepartnerschaft_entwicklung
+BEZEICHNUNG: Dolores
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  land: "Argentinien"
+  region: "Buenos Aires"
+  status: "Absichtserklärung zur Entwicklung einer Freundschaft"
+  zeitpunkt: "Herbst 2018"
+  verbindendes_element: "Argentinischer Tango"
+  begruendung: "Kulturelle Verknüpfung über Tango- und Bandoneonmuseum"
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 434-staufen/041
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Münstertalbahn
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  strecke: "Von Bad Krozingen nach Münstertal/Schwarzwald"
+  elektrifizierung: 2013
+  verwalter: "SWEG (Südwestdeutsche Verkehrs-Aktiengesellschaft)"
+  typ: "Nebenbahn"
+  anbindung: "An die Rheintalbahn von Karlsruhe nach Basel"
+  nahverkehr_tarif: "Regio-Verkehrsverbund Freiburg"
+  historische_strecke: "Bis 1969 gab es noch einen Zweig nach Sulzburg"
+GUELTIG_AB: "historisch undatiert"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 434-staufen/042
+ENTITÄT: denkmalobjekt
+BEZEICHNUNG: Naturdenkmal – Esskastanie
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  art: "Edelkastanie"
+  alter: "Etwa 300 Jahre"
+  stammumfang: "8,57 m (Stand 2011)"
+  superlativ: "Zu den Esskastanien mit dem größten Umfang in Deutschland"
+  lage: "In Staufen"
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 434-staufen/043
+ENTITÄT: wanderweg
+BEZEICHNUNG: Bettlerpfad
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Staufen_im_Breisgau | Wikipedia
+EIGENSCHAFTEN:
+  laenge: "Historischer Bettlerpfad von Merzhausen (südlich von Freiburg) nach Badenweiler"
+  ueberregionale_bekanntheit: "Ja"
+  quelle: "Lokal erwähnt"
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 434-staufen/044
+ENTITÄT: badisches_landesmuseum
+BEZEICHNUNG: Badisches Landesmuseum – Außenstelle Südbaden
+FACETTE: FREIZEIT
+QUELLE: OpenStreetMap
+EIGENSCHAFTEN:
+  traegerinstitution: "Badisches Landesmuseum Karlsruhe"
+  funktion: "Außenstelle für Südbaden"
+  beherbergung: "Keramikmuseum Staufen"
+  rolle: "Koordiniert Sonderausstellungen im Keramikmuseum"
+VERTRAUEN_EXTRAKTION: 0.80
+

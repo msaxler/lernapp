@@ -1,2 +1,659 @@
 ID: 391-ebringen/001
-Der bereitgestellte Text enthält nur HTML-Menüstrukturen und Navigationselemente ohne quizfähige Fakten über die Gemeinde Ebringen. Es können keine Entitäten mit Eigenschaften extrahiert werden.
+ENTITÄT: wanderweg
+BEZEICHNUNG: NatURWALDpfad
+FACETTE: FREIZEIT
+QUELLE: https://www.ebringen.de/freizeit-erlebnis/aktiv-in-ebringen/naturwaldpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Schönberg
+  laenge: ca. 6, kilometer
+  hoehenueberschuss: ca. 300, meter
+  flaeche_naturwald: ca. 70, hektar
+  ausgangspunkte: Ebringen oder Gaststätte Schönberger Hof
+  zweck: Rückzug für bedrohte Tier- und Pflanzenarten
+  co2_speicherung: ca. 25000, tonnen
+  ausstattung: 2 Aussichtsplattformen, 6 Informationstafeln, Blickröhren
+  zielgruppe: Kinder, Jugendliche, Wanderer, Touristen
+  eigenschaft_der_gemeinde: vermittelt Naturwissen und setzt Klimaschutz um
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 391-ebringen/002
+ENTITÄT: fest
+BEZEICHNUNG: Markt der schönen Dinge
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://www.ebringen.de/rathaus-service/neuigkeiten/163/verkehrsbeschraenkungen-anlaesslich-dem-markt-der-schoenen-dinge-am-18102026 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: 18. Oktober, 2026
+  uhrzeit: 11:00–18:00
+  veranstaltungsort: Schlossplatz
+  aufbau_datum: 17. Oktober, 2026
+  aufbau_uhrzeit: 15:00–18:00
+  abbau_datum: 19. Oktober, 2026
+  abbau_uhrzeit: 08:00–20:00
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 391-ebringen/003
+ENTITÄT: ort
+BEZEICHNUNG: Ebringen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  lage_bundesland: Baden-Württemberg
+  lage_landkreis: Breisgau-Hochschwarzwald
+  lage_land: Deutschland
+  lage_entfernung_freiburg: ca. 4, Kilometer südwestlich
+  hoehe_min: 245, meter
+  hoehe_max: 644, meter
+  einwohner: 2746
+  einwohner_zensus_jahr: 2011
+  dialekt: Hochalemannisch (ursprünglich), heute niederalemannisch gefärbt
+  ist_kreisstadt: false
+  zusatzbezeichnung_seit: Weinbaugemeinde seit 1. Oktober 2023
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 391-ebringen/004
+ENTITÄT: berg
+BEZEICHNUNG: Schönberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 644, meter
+  geologische_formation: Schönbergmassiv, Vorgebirge des Schwarzwaldes
+  geologische_zuordnung: Oberrheingraben
+  oberflaechen_geologie: vielfältig, alle Perioden der Trias und des Juras, Konglomerate, vulkanische Schichten aus Paläogen
+  lossablagerungen: teilweise mächtige Lössablagerungen in den Rebbergen
+  bedeutung_fuer_ort: Wahrzeichen, Weinanbau mit idealen Bedingungen
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 391-ebringen/005
+ENTITÄT: kapelle
+BEZEICHNUNG: Berghauser Kapelle zum hl. Trudpert
+FACETTE: GESCHICHTE UND IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich des Kienbergsattels, Südteil des Schönbergs
+  bauzeit: 1748
+  erbauer: unbekannter Baumeister
+  weihe_jahr: 1749
+  glocke: gegossen vom Glockengießer Weitenauer aus Basel
+  renovierung_aussen: 1979
+  renovierung_innen: 1984/85
+  orgel_einbau: 1989 von Orgelwerkstatt Jäger & Brommer Waldkirch
+  orgelgehaeuse: Barockgehäuse
+  wallfahrt: Maria vom guten Rat (historisch regional bedeutsam)
+  stationenweg: seit 1751, sieben Stationen, beginnt am Friedhof Ebringen
+  nutzung: Hochzeiten
+  film: Hauptschauplatz des Films „Jesus liebt mich" (2012)
+GUELTIG_AB: 1748
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 391-ebringen/006
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Ebringen
+FACETTE: GESCHICHTE UND IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1711–1713
+  erbauer: Lukas Graß (Statthalter 1705–1725)
+  ursprungliche_funktion: Residenz der St. Galler Statthalter
+  heutige_funktion: Rathaus
+  architektur_stil: repräsentatives Herrenhaus
+  bedeutung: später Exilresidenz des Konvents nach 1798/99
+GUELTIG_AB: 1711
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 391-ebringen/007
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Gallus und Otmar
+FACETTE: GESCHICHTE UND IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  religion: katholisch
+  grabdenkmale: Denkmäler von Sigmund von Falkenstein und seinem Sohn Christoph
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 391-ebringen/008
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Jennetal
+FACETTE: LAGE UND LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  besonderheit: Sumser Garten mit Vielfalt an heimischen Orchideenarten
+  besonderheit_detail: großer Teil der in Deutschland wachsenden Orchideenarten auf der Ebringer Gemarkung
+  oeffnung: von ehrenamtlichen Naturschutzwarten an Wochenenden während Blütezeiten für Öffentlichkeit geöffnet
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 391-ebringen/009
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Berghauser Matten
+FACETTE: LAGE UND LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  besonderheit: enthält die Berghauser Kapelle
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 391-ebringen/010
+ENTITÄT: denkmal
+BEZEICHNUNG: Schlachtenkreuz
+FACETTE: GESCHICHTE UND IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  anlass: Schlacht am Bohl zwischen Bayern und Franzosen am 3. August 1644
+  ereignis: erster Tag der Schlacht bei Freiburg im Dreißigjährigen Krieg
+  lage: am Bohl (westlicher Ausläufer des Schönbergs)
+  ursprungliche_funktion_ort: Stelle des Beinhauses mit Massengrab der Gefallenen
+  wallfahrtsort_status: entwickelte sich zu Wallfahrtsort der katholischen Bevölkerung aus der Umgebung
+  abtransport_gebeine: 1791 durch Ildefons von Arx veranlasst
+GUELTIG_AB: 1644
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 391-ebringen/011
+ENTITÄT: weinbau
+FACETTE: WIRTSCHAFT UND ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  anbauflaeche: ca. 1, quadratkilometer
+  dominanz: dominiert landwirtschaftliche Nutzung
+  erste_urkundliche_erwaehnung: 716–721 (ältester urkundlich erwähnter Weinbau im Markgräflerland)
+  sortenspiel_um_2000: 33% Spätburgunder, 29% Gutedel, 21% Müller-Thurgau, 4% Nobling, 3% Weißer Burgunder, 3% Ruländer, 7% andere
+  hauptweingutvereinigungen: Winzergenossenschaft Ebringen (mit Winzerhof und Schlossgut Ebringen), Weingut Missbach
+  gruendung_winzergenossenschaft: 1951 durch Max Schüler
+  flurbereinigung: 1964–1974
+  zertifizierung: Weinbaugemeinde seit 1. Oktober 2023
+GUELTIG_AB: 716
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 391-ebringen/012
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Ebringen
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Deutsche Bahn
+  strecke: Rheintalbahn
+  lage: auf der Gemarkung Wolfenweiler
+  verkehr_werktag: montags bis freitags in der Regel stündlich
+  verkehr_wochenende: zweistündlich
+  anschluss_freiburg: ca. 10 Minuten Fahrtzeit
+  anbindung_fernverkehr: Übergänge von ca. 30 Minuten auf Fernverkehr seit 2006/07
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 391-ebringen/013
+ENTITÄT: bergbau
+FACETTE: WIRTSCHAFT UND ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Südfeld des Schönbergs
+  rohstoff: Eisenerz
+  betriebszeitraum: 1936–1942
+  grund_einstellung: geringe Ergiebigkeit und Güte
+  wartung_schachtanlagen: bis 1957 zum Zwecke einer möglichen Wiederaufnahme
+  auswirkungen: Ansiedlung von über 200 Bergleuten aus dem Rheinland 1936–1937, Bergleute-Siedlung mit 24 Häusern für 48 Familien
+  bergungstransport: Seilbahn nach Sankt Georgen
+  verladung: für den Schienenverkehr in Sankt Georgen
+GUELTIG_AB: 1936
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 391-ebringen/014
+ENTITÄT: freibad
+BEZEICHNUNG: Franz-Josef-Bad
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ortsteil Talhausen
+  errichtung: 1937
+  eroeffnung: 1938
+  becken: Schwimmer- und Nichtschwimmerbecken
+  heizung: unbeheiztes Bad
+  wasserzufuhr: durch Nussbach
+  baennung_nach: Bürgermeister Josef Franz
+  schaedigungen: 1945 durch Handgranaten beschädigt
+  nachnutzung: seit 1970er Jahren Wohnbebauung, von den Becken nichts mehr sichtbar
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 391-ebringen/015
+ENTITÄT: wanderweg
+BEZEICHNUNG: Markgräfler Wiiwegli
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 92, kilometer
+  strecke: von Freiburg nach Weil am Rhein
+  betreiber: Schwarzwaldverein
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 391-ebringen/016
+ENTITÄT: wanderweg
+BEZEICHNUNG: Ebringer Brunnenweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Wanderweg durch Ebringen zu mehreren Brunnen
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 391-ebringen/017
+ENTITÄT: wanderweg
+BEZEICHNUNG: Stationenweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  stationen: sieben Stationen, beginnend am Friedhof in Ebringen, endend an der Berghauser Kapelle
+  verlauf: von Ebringen nach Berghausen
+  aenderung_durch_flurbereinigung: unterer Teil durch Rebumlegung Winterberg verloren
+GUELTIG_AB: 1751
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 391-ebringen/018
+ENTITÄT: wanderweg
+BEZEICHNUNG: Himmelreich-Jakobusweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Jakobusweg
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 391-ebringen/019
+ENTITÄT: radweg
+BEZEICHNUNG: Südschwarzwald-Radweg
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 269, kilometer
+  typ: Rundweg
+  strecke: von Hinterzarten über Waldshut-Tiengen, Basel und Freiburg rund um Naturpark Südschwarzwald
+  verlauf_durch_ebringen: von Bad Krozingen nach Ebringen und weiter über Freiburg nach Kirchzarten
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 391-ebringen/020
+ENTITÄT: schule
+BEZEICHNUNG: Schönbergschule
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Grundschule
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 391-ebringen/021
+ENTITÄT: buergermeister
+BEZEICHNUNG: Hans-Peter Widmann
+FACETTE: POLITIK UND DEMOGRAFIE
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 1. Juni 2022
+  wahlresultat: 74,2 Prozent
+  vorgaenger: Rainer Mosbach
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 391-ebringen/022
+ENTITÄT: ruine
+BEZEICHNUNG: Schneeburg
+FACETTE: GESCHICHTE UND IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  lage: auf dem Schönberg
+  geschichtlicher_ursprung: von Werner von Hornberg an die Fürstabtei St. Gallen übertragen (Herbst 1349)
+  aufgabe: anfang 15. Jahrhundert
+  anlass: Ortsherrschaft verlegte ihren Sitz stattdessen ins Areal des heutigen Rathauses
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 391-ebringen/023
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Ebringer Fastnacht
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: jährlich
+  tradition: Schmutziger Donnerstag, Fasnetfreitag, Fasnetsamstag, Fasnetsunntag, Fasnetzischtig
+  besonderheiten: Hemmglunkiumzug, Juckihu-Party der Guggemusik, Narreobend, Fastnachtsumzug, Kinderfasnet, Fasnetverbrennung
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 391-ebringen/024
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Ebringer Weintage
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: jährlich am dritten Augustwochenende
+  ort: historische Keller und Höfe
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 391-ebringen/025
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Wein- und Sektfestival
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: jährlich am dritten Juliwochenende
+  ort: um das Ebringer Schloss
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 391-ebringen/026
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Weihnachtsmarkt
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: jährlich am dritten Advent
+  ort: um das Ebringer Schloss
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 391-ebringen/027
+ENTITÄT: religion
+FACETTE: GESCHICHTE UND IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  bezeichnung: katholisch
+  kontinuitaet_reformation: blieb während Reformation katholisch, anders als Nachbarortschaft Wolfenweiler
+  aenderung_pfarreigrenzen: 1564 neu geregelt nach Konfessionswechsel Wolfenweilers
+  anlass: Christoph von Falkenstein soll Bewohner des Unterdorfs gehindert haben, nach Wolfenweiler zur Kirche zu gehen
+  anteile_1858: 100% Katholiken
+  anteile_1925: 97,6% Katholiken, 2,4% Protestanten
+  anteile_1970: 83,4% Katholiken, 13,5% Protestanten, 3% Sonstige
+  anteile_2014: 55% registrierte Katholiken
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 391-ebringen/028
+ENTITÄT: klima
+FACETTE: LAGE UND LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: typisch für den Ostrand des Oberrheingrabens
+  jahresdurchschnittstemperatur: 11,6, grad_celsius
+  messperiode: 1983–2014
+  min_temperatur: 2,5, grad_celsius
+  min_monat: Januar
+  max_temperatur: 21, grad_celsius
+  max_monat: Juli
+  durchschnittliche_niederschlagsmenge: 958, liter_pro_quadratmeter_jaehrlich
+  trend: Zunahme der jährlichen Durchschnittstemperaturen im Zeitablauf
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 391-ebringen/029
+ENTITÄT: personengruppe
+BEZEICHNUNG: Julius Schüler
+FACETTE: POLITIK UND DEMOGRAFIE
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  rolle_gemeinde: Bürgermeister von 1892 bis 1904
+  parteizugehoerigkeit: Katholische Deutsche Zentrumspartei
+  rolle_landtag: Mitglied des Badischen Landtags 1891–1913
+  rolle_reichstag: Mitglied des Deutschen Reichstags 1900–1912 für Wahlkreis Offenburg/Kehl
+  lebenszeit: 1850–1914
+GUELTIG_AB: 1892
+GUELTIG_BIS: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 391-ebringen/030
+ENTITÄT: personengruppe
+BEZEICHNUNG: Eugen Schüler
+FACETTE: POLITIK UND DEMOGRAFIE
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  rolle_gemeinde: Bürgermeister 1963–1990
+  flurbereinigungen: fielen in seine Amtszeit drei Ebringer Rebberge 1964–1974
+  lebenszeit: 1922–2012
+  ehrenburger_seit: 1991
+GUELTIG_AB: 1963
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 391-ebringen/031
+ENTITÄT: personengruppe
+BEZEICHNUNG: Natascha Thoma-Widmann
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  titel: Deutsche Weinkönigin 1997/98
+  lebenszeit_von: 1971
+GUELTIG_AB: 1997
+GUELTIG_BIS: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 391-ebringen/032
+ENTITÄT: personengruppe
+BEZEICHNUNG: Katrin Lang
+FACETTE: KULTUR UND FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  titel: Deutsche Weinkönigin 2022/23
+  lebenszeit_von: 1999
+GUELTIG_AB: 2022
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 391-ebringen/033
+ENTITÄT: wappen
+FACETTE: GESCHICHTE UND IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  belege: Vogteisiegel auf Urkunde von 1471
+  elemente: abgewendete schwarze Jagdhörner (Hifthörner) aus Hornberg-Wappen, Rebstock, Rebmesser
+  farbgebung_rebmesser_griff: rot seit 1966 (für Zugehörigkeit zu Vorderösterreich)
+  flaggenfarben: Blau/Gold (seit 1966)
+GUELTIG_AB: 1471
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 391-ebringen/034
+ENTITÄT: gemeinderat
+FACETTE: POLITIK UND DEMOGRAFIE
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  zusammensetzung: 12 einfache Mitglieder plus Bürgermeister als stimmberechtigeter Vorsitzender
+  frauenanteil: 50% (2019 und 2024)
+  wahl_2024: 9. Juni 2024
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 391-ebringen/035
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Vereinbarte Verwaltungsgemeinschaft
+FACETTE: POLITIK UND DEMOGRAFIE
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  member: Ebringen, Schallstadt, Pfaffenweiler
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 391-ebringen/036
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unterdorf
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Unterdorf
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  besonderheiten: mit Gewerbegebiet, Sühnekreuze im Unterdorf nach Kirchweih-Konflikt 1495
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 391-ebringen/037
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mitteldorf
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Mitteldorf
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Teil der Hauptsiedlungsachse
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 391-ebringen/038
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberdorf
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Oberdorf
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Teil der Hauptsiedlungsachse
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 391-ebringen/039
+ENTITÄT: ortsteil
+BEZEICHNUNG: Tirol
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Tirol
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  frueherer_name: bis 1920er Jahre als Beim Schlemmer bzw. Bim Schlemmer bezeichnet
+  trennung_vom_kernort: bis Mitte 20. Jahrhundert baulich getrennt
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 391-ebringen/040
+ENTITÄT: ortsteil
+BEZEICHNUNG: Talhausen
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Talhausen
+QUELLE: https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich der Umgehungsstraße, südwestlich der Ortsmitte, fast im rechten Winkel zur Hauptsiedlungsachse
+  laenge: ca. 600, meter
+  erste_erwaehnung: 817
+  siedlungsreste_roemische_zeit: 2010er Jahre bei Bauarbeiten gefunden
+GUELTIG_AB: 817
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 391-ebringen/041
+ENTITÄT: brunnen
+BEZEICHNUNG: Hohbannstein
+FACETTE: FREIZEIT
+QUELLE: OpenStreetMap (ZEUGEN)
+EIGENSCHAFTEN:
+  typ: Gemarkungsstein
+  besonderheit: an ihn grenzen fünf Gemeinden (Bollschweil, Ebringen, Ehrenkirchen, Pfaffenweiler, Schallstadt)
+  aufbewahrung_original: im Dorfmuseum von Pfaffenweiler
+  current_location: Replik am Ort
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 391-ebringen/042
+ENTITÄT: brunnen
+BEZEICHNUNG: Unterer Sinnbrunnen
+FACETTE: FREIZEIT
+QUELLE: OpenStreetMap (ZEUGEN)
+EIGENSCHAFTEN:
+  existenz: belegt in OpenStreetMap
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 391-ebringen/043
+ENTITÄT: brunnen
+BEZEICHNUNG: Oberer Sinnbrunnen
+FACETTE: FREIZEIT
+QUELLE: OpenStreetMap (ZEUGEN)
+EIGENSCHAFTEN:
+  existenz: belegt in OpenStreetMap
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 391-ebringen/044
+ENTITÄT: brunnen
+BEZEICHNUNG: Talhauser Brunnen
+FACETTE: FREIZEIT
+QUELLE: OpenStreetMap (ZEUGEN)
+EIGENSCHAFTEN:
+  existenz: belegt in OpenStreetMap
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 391-ebringen/045
+ENTITÄT: brunnen
+BEZEICHNUNG: Olympiabrunnen
+FACETTE: FREIZEIT
+QUELLE: OpenStreetMap (ZEUGEN); https://de.wikipedia.org/wiki/Ebringen | Wikipedia
+EIGENSCHAFTEN:
+  einweihung: 1936 im Jahr der Olympischen Sommerspiele
+  alternative_bezeichnung: Nepomukbrunnen
+  ausstattung: olympische Ringe, Abbildung des Hl. Nepomuk, älterer Sandsteintrog
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 391-ebringen/046
+ENTITÄT: brunnen
+BEZEICHNUNG: Sankt-Gallen-Brunnen
+FACETTE: FREIZEIT
+QUELLE: OpenStreetMap (ZEUGEN)
+EIGENSCHAFTEN:
+  existenz: belegt in OpenStreetMap
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50
+---
+ID: 391-ebringen/047
+ENTITÄT: brunnen
+BEZEICHNUNG: Brunnen der vier Brüder
+FACETTE: FREIZEIT
+QUELLE: OpenStreetMap (ZEUGEN)
+EIGENSCHAFTEN:
+  existenz: belegt in OpenStreetMap
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.50

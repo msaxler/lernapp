@@ -1,326 +1,479 @@
 ID: 389-merzhausen/001
 ENTITÄT: ort
-BEZEICHNUNG: Merzhausen
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/geschichte | Gemeinde-Webseite
+FACETTE: LAGE
+QUELLE: https://www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/ortsportrait | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  urkundlich_erste_erwähnung: 26. Dezember 786
-  benannt_nach: Meresusir (Altname des Ortes)
-  aufbewahrt_urkunden_ort: St. Galler Stiftsarchiv
-GUELTIG_AB: 786
-IST_VERMUTLICH_AKTUELL: false
+  lage: unmittelbar südlich von Freiburg am Eingang des Hexentals
+  landkreis: Breisgau-Hochschwarzwald
+  topographie: reizvolle Topographie mit Wald und Reben
+  entwicklung: vorstädtisch geprägte Wohngemeinde mit gewerblicher Komponente
+  entwicklung_ab: Jahrhundertwende, verstärkt nach Zweitem Weltkrieg
+IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 389-merzhausen/002
 ENTITÄT: ort
-BEZEICHNUNG: Merzhausen
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/ortsportrait | Gemeinde-Webseite
+FACETTE: GESCHICHTE
+QUELLE: https://www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/geschichte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: unmittelbar südlich von Freiburg, am Eingang des Hexentals
-  landkreis: Breisgau-Hochschwarzwald
-  topographie: Wald und Reben
-  entwicklung: vorstädtisch geprägte Wohngemeinde mit gewerblicher Komponente
-  entwicklung_seit: Zweiter Weltkrieg (verstärkt)
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+  erste_urkundliche_erwaehnung: 26. Dezember 786
+  erste_erwaehnung_detail: Heimone (Heimo) und Tochter Svanailta schenken Besitz Meresusir an Abtei Sankt Gallen
+  superlativ: einer der am frühesten urkundlich erwähnten Orte des Breisgaues
+  weitere_urkunden: 8. November 790, 804, 24. Juni 861
+  archivbestand: älteste Urkunden im St. Galler Stiftsarchiv
+  beschreibung_1830: Pfarrdorf am Fuße des Schönberges, 35 Häuser, 180 Seelen
+GUELTIG_AB: 786
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
 ---
 ID: 389-merzhausen/003
 ENTITÄT: ort
-BEZEICHNUNG: Merzhausen
+FACETTE: INFRA
 QUELLE: https://www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/zahlen-fakten | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  gemarkungsfläche_gesamt: 276 [ha]
-  siedlungs_und_verkehrsfläche: 99 [ha]
-  landwirtschaftsfläche: 117 [ha]
-  waldfläche: 58 [ha]
-  wasserfläche: 1 [ha]
-  sonstige_flächen: 2 [ha]
-  höhenlage_minimum: 254 [m NN]
-  höhenlage_maximum: 538 [m NN]
-GUELTIG_AB: 2026
+  gemarkungsflaeche: 276 ha
+  siedlungs_verkehrsflaeche: 99 ha
+  landwirtschaftsflaeche: 117 ha
+  waldflaeche: 58 ha
+  wasserflaeche: 1 ha
+  hoehenlage_von: 254 m
+  hoehenlage_bis: 538 m
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.98
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 389-merzhausen/004
-ENTITÄT: jumelage_partnergemeinde
+ENTITÄT: partnerstadt
 BEZEICHNUNG: Dardilly
+FACETTE: POLITIK
 QUELLE: https://www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/ortsportrait | Gemeinde-Webseite
 EIGENSCHAFTEN:
   land: Frankreich
-  region: bei Lyon
+  region: Département Rhône bei Lyon
   jumelage_seit: 1982
+  bedeutung_fuer_ort: Gemeindepartnerschaft
+GUELTIG_AB: 1982
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 389-merzhausen/005
-ENTITÄT: gebäude
-BEZEICHNUNG: FORUM
-QUELLE: https://www.merzhausen.de/forum-merzhausen/zahlen-fakten-historie | Gemeinde-Webseite
+ENTITÄT: schloss
+BEZEICHNUNG: Jesuitenschloss
+FACETTE: GESCHICHTE
+QUELLE: https://www.merzhausen.de/freizeit-kultur/jesuitenschloss | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  großer_saal_fläche: 400 [m²]
-  großer_saal_plätze_konzertbestuhlung: 532 [max]
-  großer_saal_plätze_bankett: 339
-  großer_saal_plätze_parlamentarisch: 198
-  großer_saal_stehplätze: 800
-  kleiner_saal_fläche: 140 [m²]
-  kleiner_saal_plätze: 112
-  foyer_fläche: 400 [m²]
-  bühne_breite: 10,5 [m]
-  bühne_tiefe: 6 [m]
-  tonanlage: d&b audiotechnik Line-Array
-  backstage_fläche: ca. 100 [m²]
-  künstlergarderoben_fläche: 40 [m²]
-  catering_küche_fläche: 90 [m²]
-  induktive_höranlage: vorhanden
+  lage: nördlicher Schönberg
+  namensherkunft: Jesuiten, ab 1620 an Freiburger Universität lehrend
+  erwerb_jesuiten: 10. Februar 1635 als Schenkung von Familie Schnewlin-Bernlapp von Bollschweil
+  erbauung: 1666
+  erbauung_quelle: Tafel über dem Eingang von 1901
+  orden_aufloessung: 1773
+  nachnutzung_nach_aufloessung: vorderösterreichische Regierung, dann verschiedene Eigentümer
+  nutzung_adelssitz: überwiegend
+  aktueller_nutzer_ab: 1985 Stiftungsweingut Freiburg
+  sanierung_schlosssaal: 2007
+  schlosssaal_funktion_ab_2009: Tagungen in der ersten Etage
+  bedeutung_fuer_ort: Ausgangspunkt für zahlreiche Wanderungen
+GUELTIG_AB: 1666
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.95
+VERTRAUEN_EXTRAKTION: 0.98
 ---
 ID: 389-merzhausen/006
-ENTITÄT: kirche
-BEZEICHNUNG: Evangelische Johannesgemeinde
-QUELLE: https://www.merzhausen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+ENTITÄT: weingut
+BEZEICHNUNG: Stiftungsweingut Freiburg
+FACETTE: FREIZEIT
+QUELLE: https://www.merzhausen.de/freizeit-kultur/jesuitenschloss | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  anschrift: St.-Galler-Straße 10a, 79249 Merzhausen
-  gemeindebüro_adresse: Markgrafenstraße 18 b, 79115 Freiburg
-  pfarrerin: Salome Vogt
+  gruendung: 1298
+  betrieb_im_schloss_ab: 1985
+  standort: Jesuitenschloss
+  charakteristika: seit 1298 gegründetes Stiftungsweingut
+GUELTIG_AB: 1298
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 389-merzhausen/007
-ENTITÄT: kirche
-BEZEICHNUNG: St. Gallus
-QUELLE: https://www.merzhausen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+ENTITÄT: markt
+BEZEICHNUNG: Wochenmarkt
+FACETTE: ALLTAG
+QUELLE: https://www.merzhausen.de/freizeit-kultur/maerkte/wochenmarkt | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  konfession: katholisch
-  kirchenbüro_adresse: Dorfstr. 25, 79249 Merzhausen
-  kooperator: Pfarrer Hubert Reichardt
-  pastoralreferent: Peter Schüle, Dipl.-Theol.
-  kirchengemeinde_teil_von: Freiburg im Breisgau (seit 1. Januar 2026)
+  regularitaet: jeden Samstag
+  oeffnungszeiten: 08:00 bis 13:00 Uhr
+  standort: Markt- und Festplatz beim FORUM Merzhausen
+  standort_ab: 2012
+  bedeutung_fuer_ort: zentraler Ort für regionale und spezialisierte Produkte
+GUELTIG_AB: 2012
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 389-merzhausen/008
-ENTITÄT: religionszugehörigkeit
-QUELLE: https://www.merzhausen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+ENTITÄT: fest
+BEZEICHNUNG: Weihnachtsmarkt Merzhausen
+FACETTE: FREIZEIT
+QUELLE: https://www.merzhausen.de/freizeit-kultur/maerkte/weihnachtsmarkt | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  katholisch_anteil: 43,9 [%]
-  evangelisch_anteil: 24,8 [%]
-  konfessionslos_anteil: 30,9 [%]
-  sonstige_anteil: 0,37 [%]
-  einwohner_total: 4861
-GUELTIG_AB: 2010
-GUELTIG_BIS: 2010
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.95
----
-ID: 389-merzhausen/009
-ENTITÄT: religionszugehörigkeit_historisch
-QUELLE: https://www.merzhausen.de/leben-wohnen/kirchen | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  periode_bis_19_Jahrhundert: ausschließlich katholisch
-  protestanten_1875: 14
-  katholisch_anteil_1980: 57 [%]
-  evangelisch_anteil_1980: 31 [%]
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.85
----
-ID: 389-merzhausen/010
-ENTITÄT: gebäude
-BEZEICHNUNG: Jesuitenschloss
-QUELLE: https://www.merzhausen.de/freizeit-kultur/jesuitenschloss | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  lage: nördlicher Schönberg
-  namensherkunft: Jesuiten, die ab 1620 an der Freiburger Universität lehrten
-  schenkung_datum: 10. Februar 1635
-  schenkung_von: Familie Schnewlin-Bernlapp von Bollschweil
-  baujahr: 1666
-  baujahr_quelle: Tafel über dem Eingang aus 1901
-  orden_aufgelöst: 1773
-  folgenutzung: vorderösterreichische Regierung, später verschiedene Adelssitze
-  aktuelle_nutzung: Weingut der Freiburger Heiliggeistspitalstiftung
-  weingut_gründung: 1298
-  weingut_etablierung: 1985 (nach mehreren Sanierungsabschnitten)
-  schlosssaal_renovierung: 2007
-  tagungsnutzung_seit: 2009
+  regularitaet: fester Bestandteil im Merzhauser Veranstaltungskalender
+  termin: Samstag vor dem 1. Advent
+  standort_ab: 2012
+  standort: Marktplatz mit gläsernem Foyer FORUM Merzhausen
+  besonderheit: rein lokal/regional mit Angeboten aus eigener Herstellung, keine professionellen Wiederverkäufer
+  teilnehmer: etwa 70 Teilnehmerinnen und Teilnehmer
+  charakteristika: "etwas anderer Weihnachtsmarkt"
+GUELTIG_AB: 2012
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.92
 ---
-ID: 389-merzhausen/011
-ENTITÄT: naturraum
-BEZEICHNUNG: Schönberg
-QUELLE: https://www.merzhausen.de/freizeit-kultur/jesuitenschloss | Gemeinde-Webseite
+ID: 389-merzhausen/009
+ENTITÄT: veranstaltungsort
+BEZEICHNUNG: FORUM Merzhausen
+FACETTE: INFRA
+QUELLE: https://www.merzhausen.de/forum-merzhausen/zahlen-fakten-historie | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beschreibung: eines der schönsten Naherholungsgebiete des Breisgaus
-  nutzung: Wanderungen, Mountainbike
+  eroeffnung: November 2012
+  funktion: Kultur- und Bürgerhaus
+  grosser_saal_flaeche: 400 qm
+  grosser_saal_kapazitaet_konzert: 532 plaetze
+  grosser_saal_kapazitaet_bankett: 339 plaetze
+  grosser_saal_kapazitaet_parlamentarisch: 198 plaetze
+  grosser_saal_stehplaetze: 800 plaetze
+  kleiner_saal_flaeche: 140 qm
+  kleiner_saal_kapazitaet: 112 plaetze
+  foyer_flaeche: 400 qm
+  buehne_breite: 10,5 m
+  buehne_tiefe: 6 m
+  backstage_flaeche: 100 qm, genauigkeit: ca.
+  gaerderoben_flaeche: 40 qm
+  kuechenflaeche: 90 qm
+  technik: fest installierte Tonanlage d&b audiotechnik Line-Array
+  hoeranlagen: induktive Höranlage
+  bedeutung_fuer_ort: Zentrum der Ortsmitte seit 2012
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 389-merzhausen/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Gallus
+FACETTE: GESCHICHTE
+QUELLE: https://www.merzhausen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  erste_erwaehnung: 786
+  alte_kirche_erbauung: 1759–1760
+  neue_kirche_erbauung: 1976–1978
+  alte_kirche_renovierung: 1978
+  adresse_kirchenbuero: Dorfstr. 25, 79249 Merzhausen
+GUELTIG_AB: 786
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 389-merzhausen/011
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Johannesgemeinde
+FACETTE: GESCHICHTE
+QUELLE: https://www.merzhausen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  entstehung: nach Zweitem Weltkrieg
+  grund_entstehung: Zuwanderung von Heimatvertriebenen
+  adresse: St.-Galler-Straße 10a, 79249 Merzhausen
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 389-merzhausen/012
-ENTITÄT: friedhof
-BEZEICHNUNG: Friedhof Merzhausen
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/abgeschlossene-projekte | Gemeinde-Webseite
+ENTITÄT: kapelle
+BEZEICHNUNG: Schönstattkapelle
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Merzhausen | Wikipedia
 EIGENSCHAFTEN:
-  einsegnungshalle_renovierung: 2018
-  einsegnungshalle_neue_stühle: 60
-  einsegnungshalle_neue_orgel: Sakralorgel
-  orgel_kosten: 4290 [€]
-GUELTIG_AB: 2018
+  erbauung_ab: 1980
+  lage: Nordhang des Schönbergs unterhalb Jesuitenschloss
+  grundstein: 1980
+  grundstein_material: Stein vom Turm des Münsters
+  grundstein_weihe: Freiburger Katholikentag 1978
+  weihe: 1981
+  weihe_person: Erzbischof Oskar Saier
+GUELTIG_AB: 1980
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.85
+VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 389-merzhausen/013
-ENTITÄT: baugebiet
-BEZEICHNUNG: Brunnacker
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/abgeschlossene-projekte | Gemeinde-Webseite
+ENTITÄT: konfession_statistik
+FACETTE: POLITIK
+QUELLE: https://www.merzhausen.de/leben-wohnen/kirchen | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  fläche: ca. 34808,60 [m²]
-  lage: westlicher Ortsrand, oberhalb des BürgerBades
-  wohneinheiten_gesamt: 32
-  reihenhäuser: 18
-  doppelhaushälften: 8
-  mehrfamilienhäuser: 2 (je 3 Wohnungen)
-  energiestandard: KFW 55 (Minimum)
-  heizung: zwei zentrale Holzpelletheizungen
-  barrierefreie_wohneinheiten: 6 (in 2 Mehrfamilienhäusern), zusätzlich 10 Reihenhäuser auf Wunsch
-  einliegerwohnungen_möglich: in 8 Wohneinheiten
-  baukosten_gesamt_je_wohneinheit: 467000-730000 [€ (je nach Einheit)]
-  erbbaurecht_laufzeit: 99 [Jahre]
-  grundstückspreis: 390 [€/m²]
-  erbbauzins_regulär: 4 [%]
-  vergabe_europaweit: 2020
-  alle_wohneinheiten_vergeben: bis Ende 2022
-  architekturbüro: hotz+architekten
-GUELTIG_AB: 2019
-IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.88
+  stand: 30. Juni 2010
+  einwohner: 4861
+  katholisch_prozent: 43,9
+  evangelisch_prozent: 24,8
+  konfessionslos_prozent: 30,9
+  sonstige_prozent: 0,37
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
 ---
 ID: 389-merzhausen/014
-ENTITÄT: freizeitanlage
-BEZEICHNUNG: Bouleplatz
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/abgeschlossene-projekte | Gemeinde-Webseite
+ENTITÄT: weinbau
+FACETTE: WIRTSCHAFT
+QUELLE: https://www.merzhausen.de/freizeit-kultur/weinbau | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  lage: bei der Sporthalle
-  einweihung: 28. September 2013
-  anlass_einweihung: 30jähriges Jubiläum der Jumelage Merzhausen-Dardilly
-  betrieb: Bouleplatz-Initiative
-  baukosten: 16000 [€]
-  finanzierung_zuwendungen: 8000 [€]
-  finanzierung_gemeinde: 8000 [€]
-GUELTIG_AB: 2013
+  charakteristika: traditionsreicher Weinbau
+  flaeche: 15 ha, genauigkeit: ca.
+  rebsorten: Müller-Thurgau, Gutedel, Spätburgunder, Grau- und Weißburgunder sowie Riesling
+  bodentyp_schoenberseite: Kalkboden
+  bodentyp_schwarzwaldseite: Granit-Gneis-Verwitterung
+  weincharakter: frische, fruchtige, überwiegend trockenausgebaute Weine
+  sauregehalt_promille_von: 4,5
+  sauregehalt_promille_bis: 7
+  anzahl_weingueter_2020: 2, genauigkeit: von ehemals vier
+GUELTIG_AB: null
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
 ID: 389-merzhausen/015
-ENTITÄT: hallenbad
-BEZEICHNUNG: BürgerBad
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/abgeschlossene-projekte | Gemeinde-Webseite
+ENTITÄT: brauerei
+BEZEICHNUNG: Die Brauhandwerker
+FACETTE: WIRTSCHAFT
+QUELLE: https://www.merzhausen.de/freizeit-kultur/gastgeber-gastronomie/essen-trinken | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  eröffnung: 1976
-  initial_investition: 2161700 [€]
-  außenbecken_hinzufügen: 1998
-  außenbecken_investition: 238000 [€]
-  blockheizkraftwerke_einbau: 1991
-  blockheizkraftwerke_kosten: 293000 [€]
-  fernwärmeversorgung_seit: 2010
-  fernwärmeversorgung_objekte: Rathaus, Sporthalle, Alois-Rapp-Haus, FORUM, Wohn- und Geschäftshaus Ortsmitte
-  betreiber_seit_2003: BürgerBad gGmbH (Pro Bad e.V., VfR Merzhausen e.V., DLRG Ortsgruppe Hexental)
-  energetische_sanierung: 2010
-  energetische_sanierung_kosten: 166500 [€]
-  fassadensanierung_abschluss: 2014
-  gesamtsanierung_abschluss: 19. Dezember 2014
-  sanierungskosten_gesamt: 590000 [€]
+  adresse: Alte Straße 8b, 79249 Merzhausen
+GUELTIG_AB: null
 IST_VERMUTLICH_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.9
+VERTRAUEN_EXTRAKTION: 0.7
 ---
 ID: 389-merzhausen/016
-ENTITÄT: infrastruktur
-BEZEICHNUNG: Elektro-Ladesäule
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/abgeschlossene-projekte | Gemeinde-Webseite
+ENTITÄT: weingut
+BEZEICHNUNG: Weingut Andreas Dilger
+FACETTE: WIRTSCHAFT
+QUELLE: https://www.merzhausen.de/freizeit-kultur/gastgeber-gastronomie/essen-trinken | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  typ: erste öffentliche Elektroladesäule der Gemeinde
-  lage: Friedhof
-  betreiber: badenova (in Zusammenarbeit mit Elektro-Ullmann)
+  charakteristika: Ökologisches Weingut und Brennerei
+  anbaugebiet: Schönberg - Merzhausen und FR-St. Georgen
+GUELTIG_AB: null
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.75
 ---
 ID: 389-merzhausen/017
-ENTITÄT: bebauungsplan
-BEZEICHNUNG: Am Reichenbach
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/bebauungsplaene-abgeschlossen | Gemeinde-Webseite
+ENTITÄT: bad
+BEZEICHNUNG: BürgerBad Merzhausen
+FACETTE: FREIZEIT
+QUELLE: https://www.merzhausen.de/freizeit-kultur/bewegung-entspannung/buergerbad | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  zweck: Sicherung gewerblicher Nutzung (ehemaliges Imtech-Gelände)
-  rechtskraft: 18. März 2016
-GUELTIG_AB: 2016
+  eroeffnung: 1976
+  originalname: Gartenhallenbad
+  investition_eroeffnung: 2161700 euro
+  investition_bedeutung: eine der größten Investitionen der Gemeinde überhaupt
+  blockheizkraftwerk_einbau: 1991
+  blockheizkraftwerk_investment: 293000 euro
+  fernwaermeversorgung_ab: 2010
+  fernwaermenutzer: Rathaus, Sporthalle, Alois-Rapp-Haus, FORUM, Wohn- und Geschäftshaus
+  aussenbechen_ab: 1998
+  aussenbechen_investment: 238000 euro
+  betreiber_ab_2003: BürgerBad gGmbH
+  betreiber_gruender: Pro Bad e. V., VfR Merzhausen e. V., DLRG Ortsgruppe Hexental
+  becken_schwimmen_laenge: 12 m
+  becken_schwimmen_breite: 25 m
+  becken_tiefe_nichtschwimmer_standard: 1,25 m
+  becken_tiefe_schwimmer_min: 1,25 m
+  becken_tiefe_schwimmer_max: 3,50 m
+  becken_hubboden: ja
+  sprungtuerme: gesperrt, auf Anforderung einzeln vom Aufsichtspersonal öffnbar
+  ausstattung: Massagedüsen, Wasserfall, Kinderbecken, Rutsche für Kleinkinder, Sauna
+  bedeutung_fuer_ort: Bürgerbad von Bürgern betrieben
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 389-merzhausen/018
+ENTITÄT: wanderweg
+BEZEICHNUNG: Erlebnispfad Hexental
+FACETTE: FREIZEIT
+QUELLE: https://www.merzhausen.de/freizeit-kultur/bewegung-entspannung/erlebnis-vogellehrpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 10 km, genauigkeit: ca.
+  charakteristika: historischer Weg
+  verlauf_von: Au
+  verlauf_bis: Bollschweil
+  wanderverein_bezug: folgt Wanderweg des Schwarzwaldvereins (gelbe Raute)
+  busanbindung: SBG-Bus Linie 7208
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 389-merzhausen/019
+ENTITÄT: wanderweg
+BEZEICHNUNG: Vogellehrpfad Hexental
+FACETTE: FREIZEIT
+QUELLE: https://www.merzhausen.de/freizeit-kultur/bewegung-entspannung/erlebnis-vogellehrpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: Rundweg
+  begehbarkeit: beide Richtungen
+  schwierigkeit: steile Auf- und Abstiege, schmaler Pfad durch Hagste-Wäldchen
+  eignung_kinderwagen: nein
+  charakteristika: Schautafeln, Biotop mit Informationstafel
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 389-merzhausen/020
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Melanie Kienle
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Merzhausen | Wikipedia
+EIGENSCHAFTEN:
+  partei: parteilos
+  amtsantritt: 11. April 2024
+  wahl: 24. März 2024
+  wahlerg_prozent: 55,4
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 389-merzhausen/021
+ENTITÄT: sportverein
+BEZEICHNUNG: VfR Merzhausen
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Merzhausen | Wikipedia
+EIGENSCHAFTEN:
+  mitglieder: 3500, genauigkeit: über
+  superlativ: einer der größten Sportvereine in Südbaden
+  lage: zwischen Merzhausen und Au
+GUELTIG_AB: null
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 ---
-ID: 389-merzhausen/018
-ENTITÄT: bebauungsplan
-BEZEICHNUNG: Becherwald
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/bebauungsplaene-abgeschlossen | Gemeinde-Webseite
+ID: 389-merzhausen/022
+ENTITÄT: person
+BEZEICHNUNG: Kurt Heynicke
+FACETTE: GESCHICHTE
+QUELLE: https://www.merzhausen.de/freizeit-kultur/kurt-heynicke-archiv | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  aufstellungsbeschluss: 11. April 2019
-  veränderungssperre_ausläuft: 17. April 2022
-  veränderungssperre_verlängert: bis 17. April 2023
-  frühzeitige_öffentlichkeitsbeteiligung: 28. Juni bis 30. Juli 2021
-  öffentliche_auslegung_1: 7. Februar bis 11. März 2022
-  öffentliche_auslegung_2: 8. August bis 23. September 2022
-  öffentliche_auslegung_3: 12. Dezember 2022 bis 9. Januar 2023
-  satzungsbeschluss: 9. März 2023
-  rechtskraft: 24. März 2023
-GUELTIG_AB: 2023
+  profession: deutscher Schriftsteller
+  wohnzeit_merzhausen_von: 1943
+  wohnzeit_merzhausen_bis: 1985
+  todestag_monat: März
+  todestag_tag: 18
+  todesjahr: 1985
+  archiv: Kurt Heynicke Archiv
+  archiv_verwalter: Gemeinde Merzhausen
+  archiv_beschreibung: Nachlass gesichtet und archiviert, Gemeinde hält Rechte am Werk
+  bedeutung_fuer_ort: lokales Kulturerbe
+GUELTIG_AB: 1943
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 389-merzhausen/023
+ENTITÄT: person
+BEZEICHNUNG: Joachim Löw
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Merzhausen | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 1960
+  profession: Fußballnationaltrainer
+  wohnort: Merzhausen
+  bedeutung_fuer_ort: bekannte Persönlichkeit des Ortes
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 389-merzhausen/024
+ENTITÄT: person
+BEZEICHNUNG: Hugo Ott
+FACETTE: GESCHICHTE
+QUELLE: https://www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Historiker und Prof.
+  aktivitaet: Festvortrag zur 1.200 Jahr-Feier Merzhausens
+  fokus: Urkunden von 786 und historische Geschehnisse
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 389-merzhausen/025
+ENTITÄT: sporthalle
+BEZEICHNUNG: Sporthalle Merzhausen
+FACETTE: INFRA
+QUELLE: https://www.merzhausen.de/freizeit-kultur/bewegung-entspannung/sportanlagen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Marktplatz 1, 79249 Merzhausen
+  ausstattung: Beachvolleyballanlage
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 389-merzhausen/026
+ENTITÄT: boule_spielfeld
+BEZEICHNUNG: Bouleplatz
+FACETTE: FREIZEIT
+QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/abgeschlossene-projekte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: bei Sporthalle
+  einweihung: 28. September 2013
+  anlass: 30jähriges Jubiläum Jumelage Merzhausen-Dardilly
+  betreiber: Bouleplatz-Initiative
+  baukosten: 16000 euro
+  finanzierung_zuwendungen: 8000 euro
+  finanzierung_gemeinde: 8000 euro
+GUELTIG_AB: 2013
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 389-merzhausen/019
-ENTITÄT: bebauungsplan
+ID: 389-merzhausen/027
+ENTITÄT: wohngebiet
 BEZEICHNUNG: Brunnacker
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/bebauungsplaene-abgeschlossen | Gemeinde-Webseite
+FACETTE: INFRA
+QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/abgeschlossene-projekte | Gemeinde-Webseite
 EIGENSCHAFTEN:
-  beschlussfassung: 3. Dezember 2020
-  rechtskraft: 11. Dezember 2020
+  flaeche: 34808,60 qm, genauigkeit: ca.
+  lage: westlicher Ortsrand, oberhalb BürgerBad
+  charakteristika: Wohneigentum zu kostenoptimierten Preisen für junge einheimische Familien
+  einheiten_gesamt: 32 Wohneinheiten
+  einheiten_reihenhaus: 18
+  einheiten_doppelhaus: 8
+  einheiten_mehrfamilie: 2 Häuser mit je 3 Wohnungen
+  vergabe_ab: 2020
+  vergabe_alle_einheiten_ab: 2022
+  energiestandard: KFW 55 Minimum
+  heizung: zwei zentrale Holzpelletheizungen
+  grundstueckspreise_kosten_je_we: 467000 bis 730000 euro
 GUELTIG_AB: 2020
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.9
 ---
-ID: 389-merzhausen/020
-ENTITÄT: bebauungsplan
-BEZEICHNUNG: Casinogelände / Casino II
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/bebauungsplaene-abgeschlossen | Gemeinde-Webseite
+ID: 389-merzhausen/028
+ENTITÄT: verkehr
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Merzhausen | Wikipedia
 EIGENSCHAFTEN:
-  aufstellungsbeschluss: 14. Juli 2011
-  anlass: ehemalige Casino-Fläche der Vauban-Kaserne, lange brach
-  abriss_casino_gebäude: September 2012
-  offenlage: 12. Juni bis 11. Juli 2012
-  satzungsbeschluss: 24. Januar 2013
-  rechtskraft: 21. Februar 2013
-  nachfolgenutzung: Hotel
-GUELTIG_AB: 2013
+  buslinie: 7208
+  buslinie_betreiber: Südbadenbus GmbH
+  buslinie_strecke_von: Bad Krozingen
+  buslinie_strecke_bis: Freiburg Hauptbahnhof
+  buslinie_anbindung: Freiburg-Vauban und Freiburger Stadtbahnnetz
+  busverbindung_sonntag: Bürgerbus nachmittags
+  fahrradverleih_ab: 2021
+  fahrradverleih_system: Frelo
+  fahrradverleih_stationen: 2
+  ladesaeulen_elektro_ab: August 2020
+  ladesaeulen_elektro_details: gegenüber Rathaus, zwei Ladepunkte, 22 kW
+GUELTIG_AB: 2020
 IST_VERMUTLICH_AKTUELL: true
 VERTRAUEN_EXTRAKTION: 0.85
 ---
-ID: 389-merzhausen/021
-ENTITÄT: bebauungsplan
-BEZEICHNUNG: Hexentalstraße
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/bebauungsplaene-abgeschlossen | Gemeinde-Webseite
+ID: 389-merzhausen/029
+ENTITÄT: radweg
+BEZEICHNUNG: Bettlerpfad
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Merzhausen | Wikipedia
 EIGENSCHAFTEN:
-  anlass: Bauantrag für Gaststätte "Grüner Baum" widersprach Entwicklungszielen der Gemeinde
-  aufstellungsbeschluss: 16. August 2012
-  veränderungssperre_inkrafttreten: 4. September 2012
-  status: rechtskräftig
-IST_VERMUTUNG_AKTUELL: true
-VERTRAUEN_EXTRAKTION: 0.75
----
-ID: 389-merzhausen/022
-ENTITÄT: ort
-BEZEICHNUNG: Merzhausen
-QUELLE: https://www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/geschichte | Gemeinde-Webseite
-EIGENSCHAFTEN:
-  charakterisierung_1830: Pfarrdorf am Fuße des Schönberges, im sogenannten Thälchen
-  häuser_1830: 35
-  einwohner_1830: 180
-  qualität_boden_1830: fruchtbar an Getreide, Wein und Obst
-  grundbesitz_1830: Großteil des Bodens gehörte Grund- und Gutsbesitzern
-GUELTIG_AB: 1830
-GUELTIG_BIS: 1830
-IST_VERMUTLICH_AKTUELL: false
-VERTRAUEN_EXTRAKTION: 0.9
+  charakteristika: historischer Bettlerpfad
+  funktion_heute: Wanderweg
+  historische_funktion: alte Wegeverbindung
+  verlauf_von: Freiburg
+  verlauf_stationen: Staufen im Breisgau, Sulzburg
+  verlauf_bis: Badenweiler
+  bedeutung_fuer_ort: Ausgangspunkt im Ortsgebiet
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

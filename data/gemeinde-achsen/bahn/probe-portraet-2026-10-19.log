@@ -1,0 +1,26 @@
+Orte: 432-breitnau 433-kirchzarten
+== Extraktion v0.7 (Haiku) 19:09:26
+432-breitnau         extraktion ein  34745  aus   9359   0.10 USD    79 s  claude-haiku-4-5-20251001
+433-kirchzarten      extraktion ein  43261  aus  16814   0.16 USD   131 s  claude-haiku-4-5-20251001
+zusammen: 19020 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+== Eingabe v0.9 19:11:38
+432-breitnau       22467 Zeichen
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 3
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 1
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 2
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 3
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 1
+433-kirchzarten    46331 Zeichen
+  Karte 1: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, A, wahre Option an Stelle 2
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 3
+  Karte 3: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 4: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 1
+  Karte 5: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 2
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 1
+  Karte 7: FACETTE POLITIK, Klassiker, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent – AUFFÄLLIG: 89,9 % gegen 83,4 % im Bundesland; als Vergleich fragen, Spannen um den Landeswert legen; C, wahre Spanne an Stelle 4
+== Karten v0.9 (Opus) 19:11:38
+432-breitnau         karten     ein  39817  aus  60033   1.47 USD   529 s  claude-opus-5-5
+433-kirchzarten      karten     ein  55179  aus  44719   1.28 USD   385 s  claude-opus-5-5
+Fertig 19:20:28

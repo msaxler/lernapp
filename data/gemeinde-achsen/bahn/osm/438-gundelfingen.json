@@ -1,0 +1,623 @@
+{
+ "ort": "438-gundelfingen",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Aussicht": [
+   {
+    "name": "Bergfried Zähringer Burg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   },
+   {
+    "name": "Martinsfelsen",
+    "zusatz": "686 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Kriegsdenkmal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Glückauf",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "monument"
+    }
+   }
+  ],
+  "Bildung": [
+   {
+    "name": "Volkshochschule",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "college"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Turnverein Gundelfingen \"Waldbühne\"",
+    "zusatz": "gymnastics",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "gymnastics"
+    }
+   },
+   {
+    "name": "Kandelhalle",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_hall",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Schützenverein Gundelfingen 1925 e.V.",
+    "zusatz": "shooting",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "shooting"
+    }
+   },
+   {
+    "name": "Turn- und Festhalle",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Shooting Area",
+    "zusatz": "shooting",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "shooting"
+    }
+   },
+   {
+    "name": "Neue Sporthalle ASG",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_hall",
+     "sport": "multi"
+    }
+   }
+  ],
+  "Klinik": [
+   {
+    "name": "Gelenkklinik , Dr. Peter Baum, Dr. Thomas Schneider",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "amenity": "clinic"
+    }
+   },
+   {
+    "name": "MVZ Gelenk-Klinik Praxis",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://gelenk-klinik.de/",
+    "tags": {
+     "amenity": "clinic"
+    }
+   }
+  ],
+  "Bahnhof": [
+   {
+    "name": "Gundelfingen (Breisgau)",
+    "zusatz": "",
+    "wikipedia": "de:Bahnhof Gundelfingen (Breisgau)",
+    "website": "https://www.bahnhof.de/gundelfingen",
+    "tags": {
+     "railway": "halt"
+    }
+   }
+  ],
+  "Gipfel": [
+   {
+    "name": "Mühleberg",
+    "zusatz": "403 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   },
+   {
+    "name": "Hasenkopf",
+    "zusatz": "608 m",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "peak"
+    }
+   }
+  ],
+  "Brauerei/Winzer": [
+   {
+    "name": "Kaltenbach Weine",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.kaltenbach-weine.de/",
+    "tags": {
+     "craft": "winery"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Reutebach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Schobbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Altbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Rossgässlebach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Hagelbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Mühlbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Elzdobelbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Michelbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Taubenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Bad": [
+   {
+    "name": "Obermattenbad",
+    "zusatz": "swimming",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "recreation_ground",
+     "leisure": "water_park",
+     "sport": "swimming"
+    }
+   },
+   {
+    "name": "Kinderbecken",
+    "zusatz": "swimming",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "swimming_pool",
+     "sport": "swimming"
+    }
+   }
+  ],
+  "Betrieb": [
+   {
+    "name": "Bau- und Betriebshof Gundelfingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   },
+   {
+    "name": "Industriegebiet Nord",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "industrial"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Zähringer Burg",
+    "zusatz": "",
+    "wikipedia": "de:Burg Zähringen (Freiburg im Breisgau)",
+    "website": null,
+    "tags": {
+     "historic": "castle",
+     "tourism": "attraction"
+    }
+   },
+   {
+    "name": "Obermattenstadion",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "stadium",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Waldstadion Gundelfingen",
+    "zusatz": "soccer",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "landuse": "recreation_ground",
+     "leisure": "stadium",
+     "sport": "soccer"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Breisgau-Radwanderweg",
+    "zusatz": "64 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "RadNETZ Freiburg - Gundelfingen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.fahrradland-bw.de/radverkehr-in-bw/radnetz/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Badischer Weinradweg - Etappe 2 Variante: Freiburg/Glottertal",
+    "zusatz": "seit 2020, 43 km",
+    "wikipedia": null,
+    "website": "https://www.touren-schwarzwald.info/de/tour/radfahren/badischer-weinradweg-variante-zu-etappe-2-freiburg-glottertal/32683013/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Zähringer-Wanderweg",
+    "zusatz": "74 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Breisgauer Weinweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kandel-Höhenweg [05. St. Peter→Freiburg]",
+    "zusatz": "",
+    "wikipedia": "de:Kandelhöhenweg",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hornbühlweg - Streckereck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Friedhof Wildtal - Schlosshäuser Nord",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schlosshäuser Nord - Schlosshäuser Mitte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gasthaus Zähringer Burg - Schlosshäuser Nord",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kohlerweg - Gasthaus Zähringer Burg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Gasthaus Zähringer Burg - Schlosshäuser Süd",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Friedhof Wildtal - Kohlerweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Steinbruchweg - Ladstatt",
+    "zusatz": "0.6 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schlosshäuser Mitte - Rottecksruhe Nord",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Schlosshäuser Süd - Schlosshäuser Mitte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ladstatt - Schlosshäuser Süd",
+    "zusatz": "2.5 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ladstatt - Roßkopfweg",
+    "zusatz": "2.0 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rottecksruhe Nord - Rottecksruhe",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rottecksruhe - Roßkopfweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rottecksruhe Nord - Heidelbeerhütte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Roßkopfweg - Sommerbuck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sommerbuck - Bei den Windrädern",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sommerbuck - Obere Roßkopfstufe",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ochsenlager Rosmarientanne - Heidelbeerhütte",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "St. Ottilienhalde - Ochsenlager Rosmarientanne",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Hornbühlweg - Ochsenlager Rosmarientanne",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Ochsenlager Rosmarientanne - Martinsfelsen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Martinsfelsen - Bei den Windrädern",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Bei den Windrädern - Rosskopf",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Jakobsweg Rottenburg - Thann (2)",
+    "zusatz": "",
+    "wikipedia": "en:Camino de Santiago",
+    "website": "https://www.jakobswege-europa.de/wege/rottenburg-hericourt.htm",
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ]
+ }
+}

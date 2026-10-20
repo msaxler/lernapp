@@ -1,0 +1,81 @@
+Orte: 389-merzhausen 390-au-breisgau 391-ebringen 392-schallstadt 393-bad-krozingen 434-staufen 435-horben 436-guenterstal 437-umkirch 438-gundelfingen
+== OSM-Zeugen 08:52:00
+389-merzhausen           Gemeindegrenze  16 Objekte, 16 Zeugen im Block
+390-au-breisgau          Gemeindegrenze  83 Objekte, 34 Zeugen im Block
+  Overpass: HTTP Error 502: Bad Gateway - warte
+391-ebringen             Gemeindegrenze  53 Objekte, 31 Zeugen im Block
+392-schallstadt          Gemeindegrenze  28 Objekte, 18 Zeugen im Block
+393-bad-krozingen        Gemeindegrenze  53 Objekte, 36 Zeugen im Block
+434-staufen              Gemeindegrenze  11 Objekte,  5 Zeugen im Block
+435-horben               Gemeindegrenze  21 Objekte,  8 Zeugen im Block
+436-guenterstal          Gemeindegrenze  78 Objekte, 31 Zeugen im Block
+437-umkirch              Gemeindegrenze  12 Objekte,  9 Zeugen im Block
+438-gundelfingen         Gemeindegrenze  64 Objekte, 29 Zeugen im Block
+== Gemeinde-Webseiten 09:00:22
+389-merzhausen       18 Gemeinde-Seiten, 0 Portal,  52044 Zeichen,  24 s 
+390-au-breisgau      12 Gemeinde-Seiten, 0 Portal,  25983 Zeichen,  19 s 
+435-horben            2 Gemeinde-Seiten, 0 Portal,   4867 Zeichen,   3 s 
+436-guenterstal      20 Gemeinde-Seiten, 1 Portal,  95245 Zeichen,  42 s 
+391-ebringen          5 Gemeinde-Seiten, 0 Portal,  28124 Zeichen,   8 s 
+392-schallstadt      15 Gemeinde-Seiten, 0 Portal,  35603 Zeichen,  16 s 
+393-bad-krozingen     6 Gemeinde-Seiten, 0 Portal,  36905 Zeichen,   6 s 
+434-staufen          20 Gemeinde-Seiten, 0 Portal,  73536 Zeichen,  58 s 
+438-gundelfingen     13 Gemeinde-Seiten, 0 Portal,  56057 Zeichen,  16 s 
+437-umkirch           0 Gemeinde-Seiten, 0 Portal,      0 Zeichen,   1 s 
+== Extraktion v0.7 (Haiku) 09:03:38
+389-merzhausen       extraktion ein  41476  aus  12519   0.13 USD    99 s  claude-haiku-4-5-20251001
+390-au-breisgau      extraktion ein  29081  aus   9964   0.09 USD    73 s  claude-haiku-4-5-20251001
+435-horben           extraktion ein  24598  aus  13175   0.10 USD   109 s  claude-haiku-4-5-20251001
+436-guenterstal      extraktion ein  62267  aus  10941   0.17 USD    89 s  claude-haiku-4-5-20251001
+391-ebringen         extraktion ein  50473  aus  10496   0.14 USD    89 s  claude-haiku-4-5-20251001
+392-schallstadt      extraktion ein  36339  aus  12044   0.12 USD    97 s  claude-haiku-4-5-20251001
+393-bad-krozingen    extraktion ein  40095  aus  21423   0.17 USD   186 s  claude-haiku-4-5-20251001
+434-staufen          extraktion ein  61278  aus  12891   0.17 USD   114 s  claude-haiku-4-5-20251001
+438-gundelfingen     extraktion ein  45291  aus  15454   0.15 USD   120 s  claude-haiku-4-5-20251001
+437-umkirch          extraktion ein  32493  aus   9906   0.10 USD    80 s  claude-haiku-4-5-20251001
+zusammen: 19360 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+== Eingabe v0.9 09:10:00
+389-merzhausen     25343 Zeichen
+390-au-breisgau    30256 Zeichen
+435-horben         33400 Zeichen
+436-guenterstal    30143 Zeichen
+391-ebringen       30838 Zeichen
+392-schallstadt    34891 Zeichen
+393-bad-krozingen   43436 Zeichen
+434-staufen        39404 Zeichen
+438-gundelfingen   42072 Zeichen
+437-umkirch        27074 Zeichen
+== Karten v0.9 (claude-opus-5-5) 09:10:00
+389-merzhausen       karten     ein  44063  aus  54220   1.38 USD   474 s  claude-opus-5-5
+390-au-breisgau      karten     ein  48442  aus  42690   1.19 USD   364 s  claude-opus-5-5
+435-horben           karten     ein  49333  aus  49820   1.34 USD   460 s  claude-opus-5-5
+436-guenterstal      karten     ein  47257  aus  50491   1.33 USD   456 s  claude-opus-5-5
+391-ebringen         karten     ein  45080  aus  56743   1.44 USD   485 s  claude-opus-5-5
+392-schallstadt      karten     ein  50394  aus  41619   1.18 USD   362 s  claude-opus-5-5
+393-bad-krozingen    karten     ein  55622  aus  57221   1.54 USD   493 s  claude-opus-5-5
+434-staufen          karten     ein  52167  aus  53571   1.43 USD   456 s  claude-opus-5-5
+438-gundelfingen     karten     ein  54717  aus  61464   1.61 USD   559 s  claude-opus-5-5
+437-umkirch          karten     ein  45591  aus  42294   1.16 USD   379 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 09:37:52
+389-merzhausen       pruefung   ein  73780  aus  15398   0.84 USD   133 s  claude-opus-5-5
+390-au-breisgau      pruefung   ein  64789  aus   7275   0.61 USD    66 s  claude-opus-5-5
+435-horben           pruefung   ein  64872  aus  10512   0.68 USD    94 s  claude-opus-5-5
+436-guenterstal      pruefung   ein  96895  aus   9261   0.91 USD    82 s  claude-opus-5-5
+391-ebringen         pruefung   ein  68337  aus   7511   0.64 USD    65 s  claude-opus-5-5
+392-schallstadt      pruefung   ein  72002  aus  10330   0.73 USD    94 s  claude-opus-5-5
+393-bad-krozingen    pruefung   ein  78366  aus  11617   0.81 USD   101 s  claude-opus-5-5
+434-staufen          pruefung   ein  93390  aus  11732   0.93 USD   101 s  claude-opus-5-5
+438-gundelfingen     pruefung   ein  87604  aus  15045   0.95 USD   128 s  claude-opus-5-5
+437-umkirch          pruefung   ein  60149  aus  14789   0.72 USD   130 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 09:44:11
+389-merzhausen       stufe2     ein 116907  aus   1435   0.31 USD    30 s  claude-opus-5-5,claude-haiku-4-5-20251001
+390-au-breisgau      stufe2     ein 187064  aus   6813   0.67 USD    96 s  claude-opus-5-5,claude-haiku-4-5-20251001
+435-horben           stufe2     ein 422862  aus  14982   1.36 USD   190 s  claude-opus-5-5,claude-haiku-4-5-20251001
+436-guenterstal      stufe2     ein 804135  aus  23218   2.18 USD   274 s  claude-opus-5-5,claude-haiku-4-5-20251001
+391-ebringen         stufe2     ein 723825  aus  23008   2.06 USD   291 s  claude-opus-5-5,claude-haiku-4-5-20251001
+392-schallstadt      stufe2     ein 309623  aus  13608   1.30 USD   151 s  claude-opus-5-5,claude-haiku-4-5-20251001
+393-bad-krozingen    stufe2     ein 301683  aus   8052   0.78 USD   101 s  claude-opus-5-5,claude-haiku-4-5-20251001
+434-staufen          stufe2     ein 217506  aus   8101   0.77 USD   106 s  claude-opus-5-5,claude-haiku-4-5-20251001
+438-gundelfingen     stufe2     ein 214930  aus   6446   0.67 USD    91 s  claude-opus-5-5,claude-haiku-4-5-20251001
+437-umkirch          stufe2     ein 208211  aus   8076   0.62 USD   117 s  claude-opus-5-5,claude-haiku-4-5-20251001
+Fertig 09:52:54

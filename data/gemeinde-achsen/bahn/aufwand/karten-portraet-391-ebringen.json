@@ -1,0 +1,50 @@
+{
+ "stufe": "karten-portraet",
+ "ort": "391-ebringen",
+ "prompt": "prompt-karten-v0.9.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 52302,
+ "token_ein": 45080,
+ "token_aus": 56743,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 38176,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 56743,
+  "output_tokens_details": {
+   "thinking_tokens": 43552
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 38176,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 56743,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 38176,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 38176
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.4416563999999998,
+ "sekunden": 485,
+ "fehler": false,
+ "zeit": "2026-10-20T09:25:46"
+}

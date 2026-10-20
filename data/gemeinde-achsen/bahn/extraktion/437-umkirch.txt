@@ -1,0 +1,639 @@
+ENTITÄT: ort
+FACETTE: LAGE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Das-ist-Umkirch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 5974
+  flaechenflaeche: 8.71 [km²]
+  hoehenlage_min: 195 [m NN]
+  hoehenlage_max: 225 [m NN]
+  lage_zu_freiburg: 8 [km westlich]
+  landkreis: Breisgau-Hochschwarzwald
+  plz: 79224
+  telefon_vorwahl: 07665
+  kfz_kennzeichen: FR
+  region: Breisgau
+  regierungsbezirk: Freiburg
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1087
+  erste_erwaehnung_variante: 1084/87
+  erste_erwaehnung_name: Untkilicha
+  namensherkunft: Kirche in den Wellen oder Kirche zwischen zwei Bächen
+  benannt_nach: Lage der Kirche auf einer Insel oder zwischen zwei Bächen
+GUELTIG_AB: 1087
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  erfolgreicher_widerstand_gegen_eingemeindung: 1974
+  grund_widerstand: Bewahrung der Selbständigkeit gegen Freiburg
+  mundenhof_zur_stadt: 1977
+  gebietsreform: 1973
+  landkreis_wechsel: 1973
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien / Pfarrkirche Mariä Himmelfahrt
+FACETTE: GESCHICHTE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1050-1100
+  gebaut_von: Hochstift Basel
+  superlativ: älteste Pfarrkirche des Breisgaus
+  lage: steht über Resten eines römischen Gebäudes
+  material_funde: verputzte Wand eines römischen Gebäudes
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien / Pfarrkirche Mariä Himmelfahrt
+FACETTE: GESCHICHTE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umbauten_gotik: 1352-1354
+  umbauten_barock: 1760-1765
+  barockes_aussehen_seit: 1760
+  patronatsrecht_bis: 1806
+  patronatsrecht_inhaber: Basler Bischöfe
+  patronatsrecht_endstuendung: Uebergang Breisgau an Baden
+GUELTIG_AB: 1352
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien / Pfarrkirche Mariä Himmelfahrt
+FACETTE: FREIZEIT
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9413/Umkirch | Landesportal
+EIGENSCHAFTEN:
+  patrozinium: Maria / Mariä Himmelfahrt
+  seitenaltaere: von Johann Caspar Brenzinger
+  renovierung_1956: denkmalpflegerisch
+  architektur_langhaus: 11./12. Jahrhundert
+  architektur_chor: 11./12. Jahrhundert
+  architektur_turm: 1760
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: roemische_siedlung
+FACETTE: GESCHICHTE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: beachtlich
+  siedlungstyp: Versorgungsstation (wie moderne Service-Station)
+  funde_keramik: einfache Haushaltskeramik
+  datierung_keramik: 100-250 [n. Chr.]
+  entdeckung_muehlematten: 1979
+  fundort_hauptgebaeude: Marienkirche Bereich
+  fundort_periode: 1980
+GUELTIG_AB: 100
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: roemische_siedlung
+FACETTE: GESCHICHTE
+QUELLE: https://rundgang.umkirch.de/pois-en/das-roemische-an-umkirch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlungstyp: Versorgungsstation an Straßenkreuzung
+  funktionen: Handel, Handwerk, Landwirtschaft
+  bautypen: Holzsiedlung (äußerer Bereich), Steinbauten (Zentrum)
+  beschaeftigungen: Mühlenbetriebe, Eisenverarbeitung
+  erster_namentlich_bekannter_bewohner: A. Giamilus
+  beruf_bewohner: Töpfer
+  funde_keramik_stil: südgallisch
+  funde_zusatz: Crucibles, Eisenschlacke, Mühlensteine
+  entdeckungen: 1979 Mühlematten, 1980 Marienkirche, 1988 Bueningen, 2021 Brunnen
+  enddatum_vermutet: Limesfall 259/260
+GUELTIG_AB: 70
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: wasserschloss
+BEZEICHNUNG: Schloss Büningen
+FACETTE: GESCHICHTE
+QUELLE: https://rundgang.umkirch.de/pois-en/schloss-bueningen-das-rathaus-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruenglicher_kauf: 1362
+  kaeufer: Ritter Hesse Snewelin
+  verkaeufer_herkunft: Hof von Ludwig von Wigersheim
+  urspruengliche_beschreibung: Burg mit Turm, Mauern, Graben
+  vorherige_besitzer: Familie Trösche-Arra, Familie von Wigersheim
+  spaetere_besitzer: Familien Ankenreut, von Stadion, Züricher Hans Werner Äscher
+  zerstoerung_30jaehriger_krieg: ja
+  wiederaufbau_zeitraum: 1663-1669
+  wiederaufbau_bauherr: Gervasius Äscher, Freiherr zu Umkirch und Hoffenheim
+  namensvorbild: Schloss Büningen bei Basel
+  kaiser_erlaubnis: Ferdinand II.
+  besitzer_17jhd_ausgang: Friedrich von Beroldingen, Franziska Susanna von Falkenstein
+  wehranlage_entfernung_17jhd: Wassergraben und Zugbrücke
+  besitzer_1826: Herrschaft zu Kageneck
+  funktion_1826: Gasthaus im Kaufvertrag
+  folgende_funktionen: Försterhaus, Waisen-, Schul- und Schwesternhaus, Notariat, Standesamt, Museum
+  alter_in_jahren: über 750
+GUELTIG_AB: 1362
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: wasserschloss
+BEZEICHNUNG: Schloss Büningen
+FACETTE: ALLTAG
+QUELLE: https://rundgang.umkirch.de/pois-en/schloss-bueningen-das-rathaus-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_seit_2005: Rathaus
+  renovierung_grundlegend: ja
+  renovierung_zeitpunkt: vor 2005
+  bedeutung_fuer_ort: Sitz der Gemeindeverwaltung
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Hohenzollernschloss / Schloss Hohenzollern
+FACETTE: LAGE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebaut_von: Fürst von Hohenzollern
+  baustil: 18. Jahrhundert
+  eigentumsrecht: Familie Hohenzollern
+  bewohner: Erbprinz (zeitweise)
+  ausstattung: großer Park
+  zugaenglichkeit: Privatbesitz, nicht öffentlich zugänglich
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: ehemaliges Hohenzollernschloss im englischen Landhausstil
+FACETTE: LAGE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: englischer Landhausstil
+  heutiger_besitzer: Privatbesitz
+  status: wiederhergestellt
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Queen-Auguste-Victoria-Park
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  fruehere_bezeichnung: Fulwell Park
+  groesse: 11 [ha]
+  auszeichnung: Europäischer Gartenkultur-Schöpfungspreis
+  zugaenglichkeit: nicht öffentlich zugänglich
+  lage_zu_schloss: beim Hohenzollernschloss
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: muehle
+BEZEICHNUNG: Schlossmühle
+FACETTE: GESCHICHTE
+QUELLE: https://rundgang.umkirch.de/pois-en/die-schlossmuehle-umkircher-museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1483
+  erste_erwaehnung_verkaeufer: Heinrich Küchly von Freiburg
+  erste_erwaehnung_kaeufer: Grafen von Tübingen
+  bestand_bis: 1570
+  neubau_jahr: ca. 1750
+  neubau_eigentuemer: Blasi Waldvogel und Catharina Spiegelhalter
+  turbinen_einbau: 1922
+  letzte_betreiber: Müller Adalbert Schneider
+  letzte_muehlennutzung: 1978
+  erwerb_durch_gemeinde: 1998
+  bedrohung_abriss: 2000
+  rettung_durch: Förderverein
+  restaurierung_zeitraum: 2002-2005
+  transformation: historisches Juwel der Gemeinde
+GUELTIG_AB: 1483
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: muehle
+BEZEICHNUNG: Schlossmühle
+FACETTE: FREIZEIT
+QUELLE: https://rundgang.umkirch.de/pois-en/die-schlossmuehle-umkircher-museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heutige_funktion: Heimatmuseum
+  museum_eroeffnung_neue_location: 22. September 2006
+  museum_location: Obergeschoss
+  ausstellungskonzept: Wechselausstellungen
+  muehlrad_installation: 2009
+  muehlrad_spender: Bruges (Partnerstadt)
+  fischtreppe_installation: ja
+  kraftwerk_installation: 2015
+  kraftwerk_investoren: Stiftung, Gemeinde, Badenova
+  stromerzeugung: ja
+  solarpanels: 2019
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Umkircher Museum / Heimatmuseum in der Schlossmühle
+FACETTE: FREIZEIT
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Freizeit/Heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1988
+  urspruenglicher_standort: mehrere Räume im Schloss Büningen
+  fundus_umfang: Römerzeit-Funde (Mühlematten), Haushalts- und Wohnungsutensilien, Werkzeuge, Geraetschaften (Handwerk, Landwirtschaft ab 1920er), Wappengalerie Umkircher Herrschaften
+  zwischenschliessung: wegen Rathaus-Umsiedlung in Schloss Büningen
+  neue_location: Schlossmühle
+  eroeffnung_neuer_standort: 22. September 2006
+  konzept: Wechselausstellungen
+  traeger: Heimat- und Geschichtsverein
+  einrichtung_art: Gemeinde
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Mundenhof
+FACETTE: GESCHICHTE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: ältester Gemarkungsteil
+  abtrennung_jahr: 1977
+  abtrennung_grund: Volksabstimmung
+  abtrennung_empfaenger: Stadt Freiburg
+  ausgleich: Umkirch erhielt Forellenhof
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortschaft
+BEZEICHNUNG: Dachswangen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  ortstyp: Dorf, Hof und Mühle
+  offizielle_bezeichnung: Dachswanger Mühle
+  historischer_name: Burg Dachswangen
+GUELTIG_AB: 1483
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet Umkirch
+FACETTE: ALLTAG
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Das-ist-Umkirch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebe_anzahl: 80
+  lage: westlicher Ortsrand
+  expansionsphase: 1970er Jahre
+  wirtschaftsbedeutung: Nutzt Umkirchs zentrale Lage und beste Verkehrsanbindung
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Bruges
+FACETTE: POLITIK
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Das-ist-Umkirch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Département Gironde
+  partnerschaft_seit: 1989
+  laender_verbindung: deutsch-französisch
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Pascal Saffran
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  partei: parteilos
+  amtsantritt: 9. Juni 2026
+  wahlstimmen_prozent: 51.5
+  wahlbeteiligung_prozent: 44.8
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Walter Laub
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 2002
+  amtsende: 2026
+  amtsdauer: 24 Jahre
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Gerriets GmbH
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  branche: Bühnenausstattung
+  bedeutung_weltweit: führend
+  standort: Umkirch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: TRUMPF Medizin Systeme GmbH + Co. KG
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  standort: Umkirch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: Welte Fahrzeugbau
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  standort: Umkirch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: betrieb
+BEZEICHNUNG: hms-sonosystems GmbH
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  standort: Umkirch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hallenbad
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  status: geschlossen seit 2020
+  status_aktuell: abgerissen
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kriegsevent
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Flugzeugabsturz
+  datum: 12. Oktober 1916
+  herkunft_flugzeug: Frankreich
+  kontext_ereignis: Luftkampf über Freiburg
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: lager
+BEZEICHNUNG: Kriegsgefangenenlager
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1916
+  kriegsgefangene: alliiert
+  einsatz_gefangene: Landwirtschaft
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße 31a
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  verknuepfung_autobahn: A5
+  verbindung_stadt: Freiburg (Innenstadt in unter 15 Minuten erreichbar)
+  neubau_ortsumfahrung: 20. Dezember 2007
+  eroeffnung_durch: Regierungspräsident Sven von Ungern-Sternberg
+  weiterbau_b31_west: 7. September 2012
+  ziel_weiterbau: Gottenheim
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Fahrradverleihsystem Frelo
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  stationen_anzahl: 2
+  standort: Umkirch
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Pfarrei
+FACETTE: ALLTAG
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9413/Umkirch | Landesportal
+EIGENSCHAFTEN:
+  gruendung: 1966
+  gemeindezentrum_bau: 1971
+  abspaltung_kirchengemeinde_march: 1978
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewäßer
+BEZEICHNUNG: Mühlbach
+FACETTE: LAGE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9413/Umkirch | Landesportal
+EIGENSCHAFTEN:
+  kanalisierung: teil-kanalisiert
+  funktion_entwässerung: Ableitung hochstehenden Grundwassers
+  roemisches_zentrum: bildete Hauptstraße des römischen Ortes
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Humbrühl-Rohrmatten
+FACETTE: LAGE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9413/Umkirch | Landesportal
+EIGENSCHAFTEN:
+  schutzstatus: Naturschutz
+  beschreibung: charakteristische Feuchtbiotope des Dreisamschwemmfächers
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Wilhelm Prinz von Hohenzollern
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1924
+  todestag: 2010
+  rolle: ehemaliges Oberhaupt des Hauses Hohenzollern-Sigmaringen
+  herkunft: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ferfried Prinz von Hohenzollern
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1943
+  todestag: 2022
+  rolle: Tourenwagen-Rennfahrer
+  herkunft: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1943
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Leopold Prinz von Bayern
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1943
+  rolle: ehemaliger Automobilrennfahrer
+  herkunft: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Werner Käß
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1924
+  todestag: 2022
+  rolle: Geologe, Träger der Staufermedaille
+  residenz: Umkirch
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Cécile Verny
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1969
+  rolle: Jazz-Sängerin, Frontfrau des Cécile Verny Quartets
+  residenz: Umkirch
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rüdiger Tonojan
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1972
+  rolle: Politiker (Bündnis 90/Die Grünen)
+  aufwachsen: Umkirch
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

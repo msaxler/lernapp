@@ -1,0 +1,692 @@
+{
+ "ort": "440-waldsee",
+ "gebiet": "Gemeindegrenze",
+ "kategorien": {
+  "Natur": [
+   {
+    "name": "Odilienquelle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "spring"
+    }
+   },
+   {
+    "name": "Vogelsang Quelle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "natural": "spring"
+    }
+   }
+  ],
+  "Burg/Denkmal": [
+   {
+    "name": "Gedenkstein Maria Ladenburger",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Auferstehung",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "wayside_shrine"
+    }
+   },
+   {
+    "name": "Grablegung",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "wayside_shrine"
+    }
+   },
+   {
+    "name": "Pieta",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "wayside_shrine"
+    }
+   },
+   {
+    "name": "Maria und Johannes unterm Kreuz",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "wayside_shrine"
+    }
+   },
+   {
+    "name": "Kreuzfall",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "wayside_shrine"
+    }
+   },
+   {
+    "name": "Maria und Simon von Cyrene",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "wayside_shrine"
+    }
+   },
+   {
+    "name": "Verurteilung und Kreuzaufnahme",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "wayside_shrine"
+    }
+   },
+   {
+    "name": "Getsemani",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "historic": "wayside_shrine"
+    }
+   },
+   {
+    "name": "Dr. Heinrich Bollinger",
+    "zusatz": "seit 2017",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/dr-heinrich-bollinger/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Erich Mäder",
+    "zusatz": "seit 2005",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/erich-maeder/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Heinrich Cossmann",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/heinrich-cossmann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Jürgen Cossmann",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/juergen-cossmann/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Erna Ahrendt",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/erna-ahrendt/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Wilhelm Arendt",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/wilhelm-ahrendt/",
+    "tags": {
+     "historic": "memorial"
+    }
+   },
+   {
+    "name": "Dr. Ernst Beck",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.stolpersteine-in-freiburg.de/stolpersteine/prof-dr-ernst-beck/",
+    "tags": {
+     "historic": "memorial"
+    }
+   }
+  ],
+  "Sportstätte": [
+   {
+    "name": "Multifunktionsraum",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_hall"
+    }
+   },
+   {
+    "name": "FT Bad",
+    "zusatz": "swimming",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "swimming"
+    }
+   },
+   {
+    "name": "Burdahalle",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_hall",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Tennishalle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://scfreiburg.com",
+    "tags": {
+     "leisure": "sports_hall"
+    }
+   },
+   {
+    "name": "Act-Now-Halle",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_hall",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Freiburger Fußballschule",
+    "zusatz": "soccer;tennis",
+    "wikipedia": "de:Freiburger Fußballschule",
+    "website": "https://scfreiburg.com",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "soccer;tennis"
+    }
+   },
+   {
+    "name": "Schauenberghalle",
+    "zusatz": "roller skating",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_hall",
+     "sport": "roller_skating"
+    }
+   },
+   {
+    "name": "PTSV Jahn Freiburg",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": "https://www.ptsv-jahn-freiburg.de/",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Sportclub Freiburg",
+    "zusatz": "soccer",
+    "wikipedia": "de:SC Freiburg",
+    "website": "https://www.scfreiburg.com/",
+    "tags": {
+     "landuse": "recreation_ground",
+     "leisure": "sports_centre",
+     "sport": "soccer"
+    }
+   },
+   {
+    "name": "Schützengesellschaft Freiburg im Breisgau",
+    "zusatz": "shooting;archery",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "shooting;archery"
+    }
+   },
+   {
+    "name": "FT-Sportpark",
+    "zusatz": "american football;badminton;soccer;handball;field hockey;pickleball;table tennis;volleyball;roller skating",
+    "wikipedia": null,
+    "website": "https://www.ft1844-freiburg.de/",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "american_football;badminton;soccer;handball;field_hockey;pickleball;table_tennis;volleyball;roller_skating"
+    }
+   },
+   {
+    "name": "Olympiastützpunkt",
+    "zusatz": "seit 2004",
+    "wikipedia": null,
+    "website": "https://osp-freiburg.de",
+    "tags": {
+     "leisure": "sports_centre"
+    }
+   },
+   {
+    "name": "Freiburger Tennisclub",
+    "zusatz": "tennis",
+    "wikipedia": null,
+    "website": "https://freiburgertc.de",
+    "tags": {
+     "leisure": "sports_centre",
+     "sport": "tennis"
+    }
+   }
+  ],
+  "Gewässer": [
+   {
+    "name": "Dreisam",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "river"
+    }
+   },
+   {
+    "name": "Gewerbekanal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Sankt Ottiliendobel",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Groß Wiedenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Gewerbebach, Hauptkanal",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Klein Wiedenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Engländerbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Jägermattenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Gross Weidenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   },
+   {
+    "name": "Gross Wiedenbach",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "waterway": "stream"
+    }
+   }
+  ],
+  "Bad": [
+   {
+    "name": "Strandbad",
+    "zusatz": "swimming",
+    "wikipedia": null,
+    "website": "https://www.badeninfreiburg.de/baeder-saunen/strandbad",
+    "tags": {
+     "landuse": "recreation_ground",
+     "leisure": "water_park",
+     "sport": "swimming"
+    }
+   }
+  ],
+  "Freizeit": [
+   {
+    "name": "Möslestadion",
+    "zusatz": "soccer",
+    "wikipedia": "de:Möslestadion",
+    "website": null,
+    "tags": {
+     "leisure": "stadium",
+     "sport": "soccer"
+    }
+   },
+   {
+    "name": "Fun Strand an der Dreisam - Beachclub und Minigolf",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": "https://www.fun-strand.de/",
+    "tags": {
+     "leisure": "miniature_golf"
+    }
+   },
+   {
+    "name": "Unistadion",
+    "zusatz": "multi",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "leisure": "stadium",
+     "sport": "multi"
+    }
+   },
+   {
+    "name": "Dreisamstadion",
+    "zusatz": "soccer",
+    "wikipedia": "de:Schwarzwald-Stadion",
+    "website": "https://www.scfreiburg.com/",
+    "tags": {
+     "leisure": "stadium",
+     "sport": "soccer",
+     "tourism": "attraction"
+    }
+   }
+  ],
+  "Bildung": [
+   {
+    "name": "UWC Robert Bosch College",
+    "zusatz": "",
+    "wikipedia": "de:UWC Robert Bosch College",
+    "website": "https://www.uwcrobertboschcollege.de/",
+    "tags": {
+     "amenity": "college"
+    }
+   },
+   {
+    "name": "Albert-Ludwigs-Universität Freiburg",
+    "zusatz": "",
+    "wikipedia": "de:Albert-Ludwigs-Universität Freiburg",
+    "website": "https://uni-freiburg.de",
+    "tags": {
+     "amenity": "university"
+    }
+   }
+  ],
+  "Aussicht": [
+   {
+    "name": "Roßkopfturm",
+    "zusatz": "seit 1889",
+    "wikipedia": "de:Roßkopfturm",
+    "website": null,
+    "tags": {
+     "man_made": "tower",
+     "tourism": "viewpoint"
+    }
+   }
+  ],
+  "Radweg": [
+   {
+    "name": "Dreisamtal-Radwanderweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Südschwarzwald-Radweg",
+    "zusatz": "269 km",
+    "wikipedia": "de:Südschwarzwald-Radweg",
+    "website": "http://www.suedschwarzwald-radweg.info/",
+    "tags": {
+     "route": "bicycle"
+    }
+   },
+   {
+    "name": "Grüne Straße - Route Verte",
+    "zusatz": "250 km",
+    "wikipedia": null,
+    "website": "http://www.gruene-strasse.de/",
+    "tags": {
+     "route": "bicycle"
+    }
+   }
+  ],
+  "Wanderweg": [
+   {
+    "name": "Laufstrecke Schauinsland Berglauf",
+    "zusatz": "13.7 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Planetenweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Kandel-Höhenweg [05. St. Peter→Freiburg]",
+    "zusatz": "",
+    "wikipedia": "de:Kandelhöhenweg",
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Himmelreich-Jakobusweg",
+    "zusatz": "",
+    "wikipedia": "de:Jakobsweg",
+    "website": "https://himmelreich-jakobusweg.de",
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Galgenberg - Hinter dem Fabrikle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Galgenberg - St. Wendelinweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Sommerbuck - Obere Roßkopfstufe",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rosskopfsattel - St. Wendelinweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Lachen - St. Ottilienhalde",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Husarenwegle - Oberhalb Sankt Ottilien",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Rosskopf - Lachen",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Lachen - Obere Roßkopfstufe",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Obere Roßkopfstufe - Roßkopfhaldenweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Roßkopfhaldenweg - Sieben Linden",
+    "zusatz": "1.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "St. Wendelinweg - St. Wendelinkapelle",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Oberhalb Sankt Ottilien - St. Wendelinweg",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "St. Ottilien - Oberhalb Sankt Ottilien",
+    "zusatz": "",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Abgang Sternschanze - St. Ottilien",
+    "zusatz": "2.5 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   },
+   {
+    "name": "Fuchsköpfleweg - Obere Roßkopfstufe",
+    "zusatz": "1.8 km",
+    "wikipedia": null,
+    "website": null,
+    "tags": {
+     "route": "hiking"
+    }
+   }
+  ],
+  "Schutzgebiet": [
+   {
+    "name": "Naturpark Südschwarzwald",
+    "zusatz": "seit 1999",
+    "wikipedia": "de:Naturpark Südschwarzwald",
+    "website": "https://www.naturpark-suedschwarzwald.de/",
+    "tags": {}
+   }
+  ]
+ }
+}

@@ -1,0 +1,962 @@
+ENTITÄT: ort
+BEZEICHNUNG: Gundelfingen
+FACETTE: LAGE | GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: 6 km nördlich von Freiburg im Breisgau
+  entfernung_zur_stadtgrenze_freiburg: 850 m
+  einwohner: über 12.000
+  größte_gemeinde_im_landkreis_ohne_stadtrecht: true
+  einzugsgebiet: Landkreis Breisgau-Hochschwarzwald
+  bundesländer: Baden-Württemberg
+  ortsteile: Wildtal
+  verwaltungsgemeinschaft: mit Heuweiler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wildtal
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Wildtal
+QUELLE: https://www.gundelfingen.de/unsere-gemeinde/gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_2015: 1.644
+  eingemeindung_zu_gundelfingen: 1972
+  einzigartigkeit: "Burg Zähringen liegt auf Gemarkung Wildtal"
+  bevölkerungsanteil_zustimmung_zusammenschluss_gundelfingen: 72%
+  bedeutung_fuer_ort: "malerischer Ortsteil mit historischer Burg und Rebbergen"
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Zähringer Burg
+FACETTE: GESCHICHTE | FREIZEIT | LAGE
+ORTSTEIL_BEZUG: Wildtal
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Ruine
+  original_funktion: "Stammsitz der Herzöge und Städtegründer der Zähringer"
+  erbaut_zeit: "Ende des 11. Jahrhunderts unter Zähringer Herzog Berthold II."
+  zerstört: 1525 (Bauernkrieg)
+  besonderheit: "Turm mit schönem Rundblick"
+  bedeutung_fuer_ort: "wohl bekanntestes Ausflugsziel auf Gundelfinger Gemarkung; Wahrzeichen"
+  fahne: "weht an Sonn- und Feiertagen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Obermattenbad
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/obermattenbad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Hallenbad / Freibad-Kombination
+  eröffnungsdatum: 29. September 2000
+  lage: "neben dem Leichtathletik-Stadion"
+  ausstattung: "Kombibecken mit vier 25-m-Schwimmbahnen, Nichtschwimmerbereich, Sprungbereich"
+  sprunganlage: "1-m-Sprungbrett und 3-m-Sprungturm"
+  planschbecken: true
+  planschbecken_temperatur: 34°C
+  schwimmbecken_temperatur: "28,5–29°C"
+  liegewiese: "ruhige, im Sommer vorhanden"
+  besonderheit: "moderne Wasseraufbereitungsanlage mit exzellenter Wasserqualität bei geringem Chlorgehalt"
+  gastronomie: "Bistro 'time-out!'"
+  bedeutung_fuer_ort: "attraktive Freizeiteinrichtung; Grundlage für Schwimm- und Leichtathletik-Erfolge der Gemeinde"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadion
+BEZEICHNUNG: Leichtathletik-Stadion (Obermattenstadion)
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnungsdatum: 29. September 2000
+  lage: "neben dem Obermattenbad"
+  ausstattung: "400-m-Rundbahn, Hoch- und Weitsprunganlagen mit Stabhochsprung, Basketball- und Volleyballfeld, Beachvolleyball-Anlage, großes und kleineres Rasenspielfeld"
+  finanzierung: "gemeinsam von Gemeinde und Landkreis"
+  nutzer: "Schulen und Vereine"
+  platzwart: "Ein eigens eingestellter Platzwart sorgt für Ordnung und Pflege"
+  bedeutung_fuer_ort: "enorme Bereicherung des Schulsports; zentral für Sportausbildung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: stadion
+BEZEICHNUNG: Waldstadion Gundelfingen
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/sportanlagen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hauptnutzung: Fußball
+  ausstattung: "Hartplätze, Bolzplatz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kulturbau
+BEZEICHNUNG: Kultur- und Vereinshaus
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnungsdatum: 1990
+  lage: "Ortsmitte"
+  nutzung: "Konzerte, Theateraufführungen, Kabarett, Kinoveranstaltungen, Vereinsveranstaltungen"
+  besonderheit: "Ballettaufführungen in der Festhalle; Spiegelraum für Ballettunterricht"
+  funktion: "Ideale Entfaltungsmöglichkeiten für Vereine"
+  bedeutung_fuer_ort: "kulturelles Zentrum der Gemeinde"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltungsort
+BEZEICHNUNG: Kirchberghalle
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Heuweiler
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Heuweiler
+  nutzung: "kirchliche und weltliche Feste, regelmäßige Versammlungen"
+  beschreibung: "schöne Kirchberghalle"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: markt
+BEZEICHNUNG: Gundelfinger Erzeugermarkt
+FACETTE: ALLTAG | KULTUR
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/erzeugermarkt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  start: 1990
+  regelmäßigkeit: "regelmäßig zweimal pro Woche"
+  zeiten: "Mittwoch 08:30–12:30 auf Rathausplatz; Freitag 14:00–18:30 auf Sonne- und Rathausplatz"
+  orte: "Rathausplatz, Sonneplatz"
+  expansion_freitags: seit 2020
+  angebote: "Bauernbrot, Vollkornbrot, Käse- und Quarkprodukte, Joghurt, Wurst, Kräuter, Frischkäse, Essig und Öl, Obst, Frischgemüse, Beeren, Schnittblumen"
+  marktbeschicker_herkunft: "über die Hälfte aus Verwaltungsgemeinschaft; größtenteils Landwirte"
+  selbsterzeugte_ware: "ca. 70% Jahresdurchschnitt"
+  beliebtheit: "Treffpunkt für viele Bürger, besonders am Freitag"
+  besonderheit: "schönes Ambiente des Rathausplatzes"
+  bedeutung_fuer_ort: "regelmäßiger sozialer und wirtschaftlicher Treffpunkt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kino
+BEZEICHNUNG: Kommunales Kino
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: "Donnerstag 20:30 Uhr"
+  ort: "großer Saal des Kultur- und Vereinshauses"
+  besonderheit: "kleine Einführung zu Beginn des Films; erschwinglich Eintrittspreise"
+  entwicklung: "hat sich in den letzten Jahren eine regelrechte Fangemeinde gebildet"
+  bedeutung_fuer_ort: "kulturelles Lieblingskind der Gemeinde"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Musikschule Gundelfingen
+FACETTE: KULTUR | BILDUNG
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Altes Rathaus, Vörstetter Straße 3"
+  schüler: "fast 400 Jugendliche und Erwachsene"
+  unterrichtsfächer: "verschiedenste Instrumente, Ballettunterricht"
+  schwerpunkte: "Ballettunterricht im Spiegelraum des Kultur- und Vereinshauses; Ballettaufführungen in der Festhalle"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Volkshochschule Gundelfingen
+FACETTE: BILDUNG
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  träger: "Gemeinde Gundelfingen"
+  programm: "umfangreiches und vielfältiges Programm für nahezu alle Lebensbereiche"
+  programmverteilung: "regelmäßig mit den Gundelfinger Nachrichten verteilt; im Büro erhältlich"
+  büro_lage: "Rathausplatz"
+  entwicklung: "außerordentliche Entwicklung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: grundschule
+BEZEICHNUNG: Johann-Peter-Hebel-Grundschule
+FACETTE: BILDUNG | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  schüler: "knapp 500"
+  lehrkräfte: "rund 40"
+  gründungsjahr: 1661
+  lage: "Ortsmitte"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gymnasium
+BEZEICHNUNG: Albert-Schweitzer-Gymnasium (ASG)
+FACETTE: BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  schüler_2024_2025: 709
+  einzugsgebiet: "von Gundelfingen über den Norden Freiburgs bis in die March"
+  verkehrsmittel_schüler: "viele zu Fuß oder mit Fahrrad; mehrere Schulbusse in die March, Glottertal, Heuweiler"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeinschaftsschule
+BEZEICHNUNG: Albert-Schweitzer-Gemeinschaftsschule
+FACETTE: BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lage: "direkt angeschlossen an ASG"
+  art: Gemeinschaftsschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: sonderschule
+BEZEICHNUNG: Friedrich-Fröbel-Schule
+FACETTE: BILDUNG
+ORTSTEIL_BEZUG: Wildtal
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: "Sonderpädagogisches Bildungs- und Beratungszentrum"
+  förderschwerpunkt: Lernen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Schwarzwaldverein Gundelfingen/Wildtal
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/wandern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitäten: "Wanderwege markiert, Wanderkarten zusammengestellt"
+  markierte_wege: "ca. 50 km"
+  verteilung: "Wanderkarten erhältlich in Einwohnermeldeämtern und Rathäusern"
+  besonderheit: "spezialisiert auf Wanderungen rund um Zähringer Burg"
+  kartographie: "Wanderkarte 'wandern rund um die Zähringer Burg' mit Wegemarkierung und Wegbeschreibungen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein Gundelfingen
+FACETTE: KULTUR
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erfolg: "enorme Erfolge zu verzeichnen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Kammerorchester Gundelfingen
+FACETTE: KULTUR
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erfolg: "enorme Erfolge zu verzeichnen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Trachtenkapelle Heuweiler
+FACETTE: KULTUR
+ORTSTEIL_BEZUG: Heuweiler
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: "Stolzes Aushängeschild der Gemeinde Heuweiler"
+  beliebtheit: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Gundelfinger Turnerschaft
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spezialität: "Orientierungsläufer"
+  erfolg: "erfolgreichste Sportler; mancher Deutschen Meistertitel errungen; nehmen an Weltmeisterschaften teil"
+  nutzung_ressourcen: "herrliche Wälder"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Turnverein Gundelfingen (TVG)
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  erfolgsbereich: "Turnen, Fußball, Dressur-Reiten, Sportschießen, Karate"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Kunstverein Gundelfingen
+FACETTE: KULTUR
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitäten: "regelmäßig Kunstausstellungen und Matineen"
+  ausstellungsort: "Gundelfinger Rathausfoyer"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Deutsche Pfadfinderschaft St. Georg Gundelfingen
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zielgruppe: Jugendliche
+  anerkennung: "anerkannte Einrichtung"
+  funktion: "vermittelt Jugendlichen Sinn und Halt in der Freizeit"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Gundelfinger Theatermacher
+FACETTE: KULTUR
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitäten: "Theateraufführungen"
+  veranstaltungsort: "Kultur- und Vereinshaus"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Schützenverein Gundelfingen 1925
+FACETTE: FREIZEIT
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  gründungsjahr: 1925
+  aktivität: Sportschießen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirchengemeinde Gundelfingen
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.gundelfingen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrer: "Helmut Becker"
+  konfession: evangelisch
+  geschichte: "1556 erhielt Gundelfingen einen eigenen evangelischen Pfarrer"
+  adresse: "Kirchenwinkel 3, 79194 Gundelfingen"
+  telefon: "0761 580480"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Katholisches Pfarramt Bruder Klaus
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.gundelfingen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrer: "Johannes Herrmann"
+  konfession: katholisch
+  geschichte: "katholische Pfarrkirche seit 1963"
+  geschichte_alt: "1964 wurde Gundelfingen Pfarrkuratie, 1975 katholische Pfarrei"
+  adresse: "Burgstraße 5, 79194 Gundelfingen"
+  telefon: "0761 503176"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: CONNECT - Evangelisch. Frei. Kirche.
+FACETTE: KULTUR
+QUELLE: https://www.gundelfingen.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pastoren: "Dr. Stefan Jung, Rouven Hönes"
+  konfession: "Evangelisch-Freikirchlich"
+  adresse: "Vörstetter Straße 13–15, 79194 Gundelfingen"
+  telefon: "0761 580441"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: religiöse_gemeinschaft
+BEZEICHNUNG: Evangelisch Freikirchliche Gemeinde, Baptisten
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.gundelfingen.de/unsere-gemeinde/gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsjahr: 1877
+  status: "selbständige kirchliche Gemeinschaft"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infoeinrichtung
+BEZEICHNUNG: Jugendzentrum Gundelfingen
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Vörstetter Straße 9"
+  betreuung: "von einem Sozialarbeiter betreut"
+  zielgruppe: "Mädchen und Jungen, die keiner festen Organisation beitreten wollen"
+  angebote: "offene Tür, Arbeitsgruppen, Ferienprogramme, Wochenendaufenthalte"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wappentier
+BEZEICHNUNG: Wappen Gundelfingen
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  schildform: gespalten
+  vorderseite: "roter Schrägbalken auf goldenem Hintergrund"
+  vorderseite_bedeutung: "einstige Zugehörigkeit zu Baden"
+  rückseite: "silberne Tanne in silberner Einfriedung auf grünem Hintergrund"
+  rückseite_bedeutung: "andeutet einen Besitz"
+  ursprung: "alemannischer Fürst Gundolf + Wildbannrecht des Basler Bischofs Adalbero"
+  flagge: "grüner und weißer Streifen aus Farben des hinteren Wappenteils; als Hochkantflagge oder Hängebanner"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buegermeister
+BEZEICHNUNG: Raphael Walz
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  gemeinde: Gundelfingen
+  weitere_funktion: "auch Bürgermeister von Heuweiler"
+  wahl_erstmals: "9. November 2014 im zweiten Wahlgang mit 60%"
+  wiedergewählt: "16. Oktober 2022 mit 82,2%"
+  amtszeit: "noch andauernd"
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Meung-sur-Loire
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaftsbeginn: 1987
+  einwohner: 6.800
+  lage: "an der Loire, etwa 30 km von Orléans entfernt"
+  besonderheit: "erste Gundelfinger Partnerschaft"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Bieruń
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  deutscher_name: Berun
+  partnerschaftsbeginn: 1997
+  einwohner: "rund 20.000"
+  lage: "20 km südlich von Kattowitz in Oberschlesien"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Scheibenberg
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland (Sachsen)
+  partnerschaftsbeginn: 1997
+  einwohner: "knapp 2.400"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: freundschaftsstadt
+BEZEICHNUNG: Ostroh
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  land: Ukraine
+  ukrainisch: "Острог"
+  freundschaftsbeginn: Dezember 2025
+  besonderheit: "auch Partnerstadt von Bieruń"
+  beziehung: "enge Verbindung in den letzten Jahren gewachsen"
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2025
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Gundelfingen (Breisgau)
+FACETTE: INFRA | LAGE
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: "Rheintalbahn Karlsruhe–Basel"
+  bedienung: "DB Regio und Breisgau-S-Bahn Linie S2 (Elzach – Freiburg Hbf)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: straßenbahnhaltestelle
+BEZEICHNUNG: Gundelfinger Straße
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  eröffnungsjahr: 2014
+  lage: "südlicher Ortsrand Gundelfingens"
+  linien: "Linie 3 und einzelne Fahrten Linie 2 der Freiburger Straßenbahn"
+  betreiber: "Freiburger Verkehrs AG"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Raiffeisenbank im Breisgau
+FACETTE: ALLTAG | WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  status: "Hauptsitz in Gundelfingen"
+  geschäftsfeld: Bankwesen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gemeindewerke Gundelfingen GmbH
+FACETTE: INFRA | WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  gründungsdatum: 30. November 2001
+  gesellschaftszweck: "nachhaltige Versorgung der Bevölkerung mit Energie und Wasser"
+  hauptgesellschafter: Gemeinde Gundelfingen
+  sitz: "Ortsmitte Gundelfingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: feuer_und_rettung
+BEZEICHNUNG: Freiwillige Feuerwehr Gundelfingen
+FACETTE: INFRA | KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  gründungsdatum_verein: 21. Januar 1994
+  abteilungen: "Abteilung Gundelfingen (gegründet 10.12.1942), Abteilung Wildtal (gegründet 04.04.1946)"
+  mitglieder_2021: 73
+  weibliche_mitglieder_2021: 5
+  kommandant: "Jens Lapp"
+  jugendfeuerwehr_mitglieder_2021: 35
+  jugendfeuerwehrwart: "Marcus Binger (seit 2016)"
+  altersmannschaft_mitglieder_2021: 17
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Fasnet Gundelfingen
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  art: Badische Fasnet
+  tradition: regelmäßig jährlich
+  narrenumzug: "Sonntag 2 Wochen vor Fasnetsonntag"
+  guggemusikkonzert: "Abend vor dem Umzug"
+  narrenzünfte: "Gundelfinger Dorfhexen e.V., Fässlistemmer e.V."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Wanderweg Gundelfingen (allgemein)
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/wandern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "abwechslungsreiche Landschaft mit Laub- und Nadelwäldern, Wiesen, Ackerland und Rebbergen"
+  zusammenstellung: "vom Schwarzwaldverein Gundelfingen/Wildtal markiert"
+  wege_markiert_schwarzwaldverein: "ca. 50 km"
+  kartografie: "Wanderkarte erhältlich im Rathaus"
+  besonderheit: "Kulturpfad Gundelfingen mit 40 Stationen (erweitert 2012)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wanderziel
+BEZEICHNUNG: Leheneck
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/wandern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "zwischen Wildtal und Heuweiler"
+  höhe: "erhebt sich auf ausgewiesene Höhe"
+  merkmal: "Wegkreuz mit drei Wappen (Gundelfingen, Wildtal, Heuweiler)"
+  wegkreuz_aufgestellt: 1981
+  sichtpunkte: "schöne Ausblicke; Blick auf Waldbrunnerhof, Zähringer Burg, Kaiserstuhl, Vogesen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderziel
+BEZEICHNUNG: Wildtalereck
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/wandern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 459 m
+  lage: "zwischen Wildtal und Föhrental"
+  sichtpunkte: "Blick auf Kaiserstuhl, Wildtal, Föhrental, Kandelmassiv, Flaunser, Hasenkopf"
+  besonderheit: "Wegkreuz errichtet 1864 von Mathias Gehri und Barbara Wisser"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Roßkopf
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/wandern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 737 m
+  bedeutung: "höchster und schönster Aussichtspunkt der Gemarkung"
+  feature: "Aussichtsturm mit Informationstafeln"
+  location: "südlichste Stelle der Gemarkung"
+  besonderheit: "Rundblick bei guten Sichtverhältnissen"
+  grenzpunkt: "Drei-Gemeinden-Eck (Ebnet, Freiburg, Gundelfingen)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Martinsfelsen
+FACETTE: FREIZEIT | LAGE
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/wandern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 686 m
+  lage: "nördlich vom Roßkopf"
+  sichtpunkte: "Blick auf Denzlingen, Sexau, Hochburg, Glottertal"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Hasenkopf
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/wandern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 608 m
+  besonderheit: "versperrt die Sicht nach Süden vom Wildtalereck"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Mühleberg
+FACETTE: LAGE | FREIZEIT
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  höhe: 403 m
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: waldgebiet
+BEZEICHNUNG: Mooswald
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Westen (Rheinebene)
+  beschreibung: "weite Fläche"
+  eignung: "ideal auch für Radtouren; empfohlen für Spaziergänger und Wanderfreunde"
+  erreichbarkeit: "von Gundelfingen über Gewerbestraße und Herdweg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Oskar Schellenberg
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1824–1895
+  beruf: "evangelischer Pfarrer und Dekan"
+  herkunft: "Sohn oder Tochter von Gundelfingen"
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1824
+GUELTIG_BIS: 1895
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Gustav Klaiber
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1864–1940
+  berufe: "Kaufmann, Landwirt, Mitglied des Badischen Landtages"
+  herkunft: "Sohn oder Tochter von Gundelfingen"
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1864
+GUELTIG_BIS: 1940
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportler
+BEZEICHNUNG: Nikolai Kornhaß
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1993
+  sportart: "Para-Judo"
+  herkunft: "Sohn oder Tochter von Gundelfingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportler
+BEZEICHNUNG: Oliver Hein
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Gundelfingen_(Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1997
+  sportart: Volleyball
+  herkunft: "Sohn oder Tochter von Gundelfingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortscharakteristikum
+BEZEICHNUNG: Schwarzwald (Gundelfingen, Ostrand)
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Osten, Westrand des Schwarzwaldes"
+  beschreibung: "malerische Landschaft; ausgedehnte Laub- und Nadelwälder"
+  bedeutung_fuer_ort: "Grundlage für Freizeit- und Wanderangebote"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortscharakteristikum
+BEZEICHNUNG: Vorbergzone
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Osten"
+  beschreibung: "herrliche Landschaft"
+  bedeutung_fuer_ort: "laden zu Spaziergängen, Wanderungen und Radtouren ein"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: FFH-Schutzgebiet Kandelwald, Roßkopf und Zartener Becken
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/erholungsgebiet-gundelfingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schutzart: "Flora-Fauna-Habitat"
+  gebiete: "Kandelwald, Roßkopf, Zartener Becken"
+  gundelfinger_wald: "spielt herausragende Rolle"
+  fauna: "Hirschkäfer, Fledermäuse und weitere gefährdete Tierarten"
+  dokumentation: "13-minütiger Dokumentarfilm 'Kandelwald, Roßkopf und Zartener Becken' von Robert Brinkmann, Paul Köhler und köbri films"
+  filmfestival_nominierung: "nominiert für Internationalen Wettbewerb des NaturVision Filmfestivals 2020"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortscharakteristikum
+BEZEICHNUNG: Landschaftsschutz Wildtal
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://www.gundelfingen.de/unsere-gemeinde/gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schutjahr: 1993
+  umfang: "große Teile des Wildtals und angrenzende Wälder und Freiflächen Gundelfingens"
+  grund: "Schutz von Natur und Landschaft"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortscharakteristikum
+BEZEICHNUNG: Kulturpfad Gundelfingen
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/kulturpfad-gundelfingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_zeitraum: 2005–2008
+  initiatoren: "BUND Gundelfingen, Schwarzwaldverein Gundelfingen/Wildtal, Verein für Heimatgeschichte"
+  anlass_schenkung: "1000-jährige Wiederkehr der Ersterwähnung 2008"
+  stationen_initial: 33
+  stationen_aktuell: 40 (erweitert 2012)
+  inhalte: "abgegangene Bauten (z.B. Zehntscheuer, Winkler-Schmiede, Silbermine), historische Gebäude (alte Gastwirtschaften, Englerbeck-Huus), alte Naturdenkmal-Bäume"
+  dokumentation: "Broschüre mit Texten und Bildern im Buchhandel; Informationen auf Stele am Englerbeck-Huus"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegsdenkmal
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  beschreibung: "Denkmal an Kriegstote"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Glückauf
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: OSM Zeugen
+EIGENSCHAFTEN:
+  beschreibung: "Denkmal (Art und Bedeutung aus OSM nicht näher spezifiziert)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: flurname
+BEZEICHNUNG: Reutebach
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://www.gundelfingen.de/unsere-gemeinde/gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: "Bachlauf / Tal"
+  geschichte: "Kirche und Friedhof 1275 erstmals erwähnt beim Hasengartenhof im Reutebach"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: flurname
+BEZEICHNUNG: Reutebachtal
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://www.gundelfingen.de/unsere-gemeinde/gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: "Tal"
+  geschichte: "gehörte als 'Zubehör' zur Zähringer Burg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bergwerk
+BEZEICHNUNG: Silber- und Bleibergwerk Wildtal
+FACETTE: GESCHICHTE | WIRTSCHAFT
+ORTSTEIL_BEZUG: Wildtal
+QUELLE: https://www.gundelfingen.de/unsere-gemeinde/gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebszeit: "16. bis 18. Jahrhundert"
+  lage: "oberhalb des Schümperlehofes im 'Waldbrunnertal'"
+  abbau: "Silber und Blei"
+  bedeutung_fuer_ort: "Wappensymbol: Hammer als Zeuge des Bergbaus"
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1800
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Rosmarientanne (ehemals)
+FACETTE: LANDSCHAFT
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/wandern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: "Fichte (nicht Tanne, trotz Namen)"
+  lage: "Ochsenlager, zwischen Wildtalereck und Roßkopf"
+  geschichte: "gestiftet vom Wirt der ehemaligen Freiburger Gaststätte 'Zum Fahnenberg', benannt nach dessen Frau"
+  status: "aus Sicherheitsgründen gefällt"
+  ersatz: "Douglasie gepflanzt durch Ortsgruppen Gundelfingen/Wildtal und Freiburg des Schwarzwaldvereins"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Rottecksruhe (ehemals Schönehof)
+FACETTE: LANDSCHAFT | GESCHICHTE
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/wandern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "ehemaliger Landsitz des Hofrats Professor von Rotteck"
+  lage: "am Uhlbergweg zwischen Zähringer Burg/Forsthaus und Roßkopf"
+  status: "abgegangene Ortschaft"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: spielplatz
+BEZEICHNUNG: Kinderspielplätze Gundelfingen
+FACETTE: FREIZEIT | INFRA
+QUELLE: https://www.gundelfingen.de/kultur-freizeit/grillplaetze-spielplaetze | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 19
+  betreuung: "regelmäßige Kontrolle durch Bauhof, wöchentlich bis 14-täglich"
+  standorte: "Auf der Höhe, Am See (Glotterpfad), Belchenstraße, Blumenstraße, Bundesstraße/Untere Waldstraße, Im Höfle, Kirchgässle/Kirchenwinkel, Krummacker/Kandelstraße, Lindenstraße, Nägelesee Süd, Obermatten/Zollgarten, Sonnhalde, Waldstraße (Glotterpfad/Sonnhalde), Bolzplatz (Untere Waldstraße), Streetballanlage beim OMB, Obermattenbad, Johann-Peter-Hebel-Grundschule, Heuweilerweg, Sonne"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

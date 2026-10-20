@@ -56,12 +56,12 @@ def abfrage(q, versuche=4):
 
 
 def gebiet(name, einheit, lat, lon):
-    """Overpass-Gebietsfilter: Gemeindegrenze, bei Ortsteilen die Ortsteilgrenze, sonst Umkreis."""
-    if einheit.startswith('Ortsteil'):
-        return ('area["boundary"="administrative"]["admin_level"~"^(9|10)$"]["name"="%s"]->.g;' % name, '(area.g)',
-                '(around:2000,%s,%s)' % (lat, lon))
-    return ('area["boundary"="administrative"]["admin_level"="8"]["name"="%s"]->.g;' % name, '(area.g)',
-            '(around:3000,%s,%s)' % (lat, lon))
+    """Overpass-Gebietsfilter: die Verwaltungsgrenze, die den Ortsmittelpunkt enthält (Gemeinde admin_level 8, Ortsteil 9/10);
+    nicht nach dem Namen – „Staufen“ traf eine andere Gemeinde als „Staufen im Breisgau“ (2026-10-20). Sonst Umkreis."""
+    stufe = '^(9|10)$' if einheit.startswith('Ortsteil') else '^8$'
+    radius = 2000 if einheit.startswith('Ortsteil') else 3000
+    return ('is_in(%s,%s)->.a;\n(area.a["boundary"="administrative"]["admin_level"~"%s"];)->.g;' % (lat, lon, stufe), '(area.g)',
+            '(around:%d,%s,%s)' % (radius, lat, lon))
 
 
 def holen(name, einheit, lat, lon):

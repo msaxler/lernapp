@@ -1,0 +1,29 @@
+Orte: 387-ebnet 388-littenweiler
+== OSM-Zeugen 23:26:47
+387-ebnet                Gemeindegrenze  52 Objekte, 22 Zeugen im Block
+  Overpass: HTTP Error 502: Bad Gateway - warte
+  Overpass: HTTP Error 502: Bad Gateway - warte
+  Overpass: HTTP Error 502: Bad Gateway - warte
+  Overpass: HTTP Error 502: Bad Gateway - warte
+  Overpass: HTTP Error 502: Bad Gateway - warte
+388-littenweiler         nichts           0 Objekte,  0 Zeugen im Block
+== Gemeinde-Webseiten 23:36:54
+387-ebnet            20 Gemeinde-Seiten, 1 Portal,  85931 Zeichen,  34 s 
+388-littenweiler      2 Gemeinde-Seiten, 1 Portal,   7678 Zeichen,  19 s 
+== Extraktion v0.7 (Haiku) 23:37:47
+387-ebnet            extraktion ein  53493  aus   9101   0.14 USD    70 s  claude-haiku-4-5-20251001
+388-littenweiler     extraktion ein  24595  aus  13486   0.10 USD   107 s  claude-haiku-4-5-20251001
+zusammen: 18989 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+== Eingabe v0.9 23:39:35
+387-ebnet          25479 Zeichen
+388-littenweiler   33899 Zeichen
+== Karten v0.9 (claude-opus-5-5) 23:39:35
+387-ebnet            karten     ein  44991  aus  45120   1.21 USD   382 s  claude-opus-5-5
+388-littenweiler     karten     ein  49355  aus  53475   1.41 USD   459 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 23:47:14
+387-ebnet            pruefung   ein  90332  aus   6731   0.80 USD    63 s  claude-opus-5-5
+388-littenweiler     pruefung   ein  56995  aus  12150   0.65 USD   106 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 23:49:00
+387-ebnet            stufe2     ein 428823  aus  15670   1.52 USD   176 s  claude-opus-5-5,claude-haiku-4-5-20251001
+388-littenweiler     stufe2     ein 205143  aus   8165   0.85 USD   104 s  claude-opus-5-5,claude-haiku-4-5-20251001
+Fertig 23:51:56

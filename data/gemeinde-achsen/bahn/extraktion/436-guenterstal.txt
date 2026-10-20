@@ -1,0 +1,664 @@
+ENTITÄT: ort
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  ist_sudlichster_stadtteil: true
+  lage_tal: Bohrer-Tal
+  lage_geogr: "Fuß des Schauinsland"
+  einwohner: 2200
+  abstand_stadtmitte: "ca. 2 km"
+  hat_siedlungszaesur: true
+  siedlungszaesur_name: "Wonnhaldewiesen"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7714/G%C3%BCnterstal | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung_jahr: 804
+  ersterwahnung_form: "Cundherrerhusir"
+  ersterwahnung_kontext: "Mark von Merzhausen"
+  zweite_nennung: "Guntheristal, Anfang 12. Jahrhundert"
+  eingemeindung_jahr: 1890
+  eingemeindung_zu: "Freiburg"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: "Zisterzienserinnnenkloster Günterstal"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  ordensname: "Zisterzienserinnen"
+  grundung_jahr: 1224
+  grundung_person: "Adelheid (Tochter des Adeligen)"
+  grundung_anlass: "Schenkung eines Adeligen"
+  gruender_sage: "Günther von Kibenfels"
+  gruender_sage_genauigkeit: "vermutlich"
+  besitzungen_ortschaften: 90
+  burgen_besitz: "Burg Kibenfels"
+  wichtigste_besitztumer: "Mundenhof (Tiergehege)"
+  bauphase_1: "1278, Neubau mit zweiter Kapelle"
+  bauphase_2: "1728-1738, Neubau unter Äbtissin Maria Franziska Cajetana von Zurthannen"
+  baumeister: "Peter Thumb"
+  bauphase_3: "Fertigstellung 1781-1783"
+  schutzvogtei: "Schnewlin"
+  landsitze: "vorderösterreichisch"
+  standrecht_abtissinnen: "Sitz und Stimme in Landständen"
+  saekularisation_jahr: 1806
+  saekularisation_grund: "Order Napoleons"
+  brand_jahr: 1829
+  brand_ausmass: "fast vollständige Zerstörung"
+  wiederaufbau_unternehmer: "Familie von Hermann"
+  wiederaufbau_funktion: "Brauerei"
+  neuer_eigentumer_jahr: 1892
+  neuer_eigentumer: "Freiburger Waisenhausstiftung"
+  neuer_eigentumer_nutzung: "Waisenhaus der Vinzentinerinnen"
+  benediktinerinnen_uebernahme_jahr: 1927
+  benediktinerinnen_name: "Benediktinerinnen von der heiligen Lioba"
+  bedeutung_fuer_ort: "Prägender Komplex der Ortsmitte; fast 600 Jahre Klosterherrschaft"
+GUELTIG_BIS: 1806
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: "Liebfrauen-Kirche Günterstal"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Pfarrkirche"
+  erbaut: "1833-1834"
+  baustil: "Neubau mit Teilen der barocken Kirchenfassade"
+  vorgaenger: "St. Matthias-Kirche (abgebrochen 1788)"
+  vorgaenger_alter: "Mitte 12. Jahrhundert, erbaut vom Kloster St. Peter"
+  kunstwerke_herkunft: "Altarmensa und Tabernakelaufbau aus Kloster Tennenbach, Künstler Johann Michael Winterhalder"
+  kunstwerke_kreuz: "von Winterhalder, 1706-1759"
+  kunstwerke_kanzel: "von Winterhalder"
+  kunstwerke_kreuzweg: "Wilhelm Dürr der Ältere, 1863, aus Collegium Borromäum Freiburg"
+  kunstwerke_fenster: "Helmle & Merzweiler, 1885-1902"
+  kunstwerke_altar_madonna: "14. Jahrhundert, Madonna mit Kind"
+  kunstwerke_altar_gitter: "1888"
+  renovierung_jahre: "1998-2002"
+  renovierung_architekt: "Peter Hillenbrand"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: "St. Matthias-Kirche Günterstal"
+FACETTE: GESCHICHTE
+QUELLE: https://leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7714/G%C3%BCnterstal | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung: "um 1100, Mitte 12. Jahrhundert"
+  gruender: "Kloster St. Peter"
+  status_alt: "Filiale von Merzhausen"
+  status_neu_ab: 1786
+  status_neu: "Eigene Pfarrei"
+  abbruch_jahr: 1788
+GUELTIG_BIS: 1788
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: "Jägerbrunnendenkmal"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Denkmal für Gefallene der Badischen Revolution 1848"
+  kontext: "Gefecht bei Günterstal, etwa 20 Freischärler und 3 Soldaten gefallen"
+  errichtet_durch: "Kameraden der gefallenen Soldaten"
+  errichtet_ort: "am Jägerbrunnen"
+  bestand_heute: true
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: "Schauinsland"
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: "1284 m"
+  lage: "auf Günterstaler Gemarkung"
+  bedeutung_fuer_stadt: "Grund für Preis: Deutschlands höchstgelegene Großstadt"
+  bedeutung_fuer_ort: "markantes Wahrzeichen und prägende Landschaft"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: "Waldtraut vom Mühlwald"
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  baumart: "Douglasie"
+  superlativ: "höchster Baum Deutschlands"
+  stammumfang: "300 cm"
+  hoehe_2008: "ca. 65 m"
+  hoehe_2017: "66,581 m"
+  hoehe_2019: "67,18 m"
+  lage: "Mühlwald, Teil des Arboretums Freiburg-Günterstal"
+  rang_aenderung: "verwies 2008 Eberbacher Douglasie auf Platz 2"
+  messung_vorgaenger: "Eberbacher Douglasie"
+  messungen_durchgefuehrt_von: "Messteam des geodätischen Instituts der Uni Karlsruhe"
+  bedeutung_fuer_ort: "botanisches Wahrzeichen, Tourismusattraktion"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: arboretum
+BEZEICHNUNG: "Arboretum Freiburg-Günterstal"
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Mühlwald"
+  bestandteile: "Waldtraut vom Mühlwald (höchster Baum Deutschlands)"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: "Waldhaus Freiburg"
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  eroffnung: 2008
+  eroffnung_jahreszeit: "Herbst"
+  traeger: "gemeinnützige Stiftung"
+  lage: "Wonnhalde"
+  zielgruppen: "Schulklassen, Allgemeinheit"
+  schwerpunkt: "Ökosystem Wald, nachhaltige Forstwirtschaft"
+  ausstattung: "Café (sonn- und feiertags geöffnet), Wechselausstellungen"
+  benachbart: "Forstamt (Neubau 2020-2022), Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg"
+  bedeutung_fuer_ort: "Bildungs- und Kultureinrichtung mit überörtlicher Ausrichtung"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: forstamt
+BEZEICHNUNG: "Forstamt Freiburg"
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  alter_standort: "Günterstalstraße 71"
+  neubau_baubeginn: "Ende 2020"
+  neubau_fertigstellung: "September 2022"
+  architektur_typ: "Holzhaus"
+  architektur_geschosse: 4
+  baukosten: "2,1 Millionen Euro"
+  traeger_neubau: "Stiftung Waldhaus"
+  umzug_durchfuehrt: 2022
+  neubau_funktion: "Erweiterung des Waldhauses"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: villa
+BEZEICHNUNG: "Villa Wohlgemuth"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: "1906-1913"
+  bauherr: "August Wohlgemuth (Oberamtsrichter in Müllheim)"
+  lage: "nordwestlicher Ortseingang, exponierte Lage"
+  baustil: "toskanisch"
+  besitzer_ab_1927: "Benediktinerinnen von der heiligen Lioba"
+  funktion_ab_1927: "Mutterhaus St. Lioba"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: "Kloster St. Lioba"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  grundung: 1927
+  gruender: "Benediktinerinnen von der heiligen Lioba"
+  standort: "Villa Wohlgemuth"
+  religion: "katholisch"
+  orden: "Benediktinerinnen"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: zahlungsgruppe
+BEZEICHNUNG: "Linie 2 der Freiburger Straßenbahn"
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: "Freiburger Verkehrs AG"
+  betrieb_seit: 1901
+  verbindung: "Günterstal - Innenstadt"
+  streckenverlauf: "Schauinslandstraße, zum größten Teil neben der Schauinslandstraße"
+  haltestellen: ["Wiesenweg", "Klosterplatz", "Dorfstraße (Endhaltestelle)"]
+  rang: "südlichste Haltestelle eines deutschen Verkehrsunternehmens (seit Ende 2014)"
+  bedeutung_fuer_ort: "Verkehrsanbindung; seit 1901 verbunden mit Innenstadt"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: "Schauinslandbahn"
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  talstation: "Endhaltestelle Straßenbahn Dorfstraße"
+  buslinie_verbindung: "Buslinie 21"
+  bergstation: "Schauinsland"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: "Edith Stein"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: "1891-1942"
+  maedchennamen: "Edith Stein"
+  klosternamen: "Schwester Teresia Benedicta vom Kreuz"
+  beruf: "Philosophin"
+  verbindung_guenterstal: "lebte dort 1916, 1929, 1931/32"
+  verbindung_gasthof: "oft eingekehrt im Gasthof Kybfelsen"
+  kanonisierung: "heiliggesprochen durch Papst Johannes Paul II."
+  patrozinium: "aufgenommen unter die Patrone Europas, 11. Oktober 1998"
+  grabort: "Friedhof Günterstal"
+  bedeutung_fuer_ort: "bekannte Persönlichkeit mit Guntertalverbindung, Gedenktafel am Gasthof"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: "Maxim Gorki"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: "1868-1936"
+  nationalitaet: "russisch"
+  beruf: "Schriftsteller"
+  aufenthalt: "Juni bis November 1923"
+  begleitung: "Moura Budberg (Geliebte)"
+  beschreibung_landschaft: "Schönes, grünes Tal mit interessanter Vegetation"
+  bedeutung_fuer_ort: "bekannte Persönlichkeit, schrieb über Landschaft"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: "Edmund Husserl"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: "1859-1938"
+  beruf: "Philosoph"
+  grabort: "Friedhof Günterstal"
+  begruendung: "Asche beigesetzt"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: "Sepp Allgeier"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: "1895-1968"
+  beruf: "Kameramann und Fotograf"
+  grabort: "Friedhof Günterstal"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: "Hans Filbinger"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: "1913-2007"
+  amt: "Ministerpräsident"
+  wohnort: "Günterstal (viele Jahre bis zu seinem Tod)"
+  grabort: "Günterstal"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: tal
+BEZEICHNUNG: "Bohrer-Tal"
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  handwerkliche_herkunft: "nach dem dort ausgeübten Handwerk der Deichel-Bohrer benannt"
+  gewaesser: "Bohrerbach"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: hochwasserschutz
+BEZEICHNUNG: "Bohrerdamm"
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Bohrertal, Horbener Gemarkung"
+  hoehe: "13,5 m"
+  laenge: "275 m"
+  breite_max: "bis zu 80 m"
+  landesfinanzierung: "8,8 Millionen Euro Zuschuss"
+  baukosten_gesamt: "19,5 Millionen Euro"
+  spatenstich: "Februar 2020"
+  fertigstellung: "April 2023"
+  schutz_fuer: ["Günterstal", "Wiehre", "Vauban", "Haslach", "Weingarten"]
+  schutz_level: "Jahrhunderthochwasser"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hochwasserschutz
+BEZEICHNUNG: "Breitmatte-Hochwasserrückhaltebecken Erweiterung"
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "zwischen Günterstal und Wiehre"
+  massnahme: "Aufstockung des bestehenden Beckens um 2 m"
+  baukosten: "19,5 Millionen Euro (zusammen mit Bohrerdamm)"
+  baubeginn: "Sommer 2020"
+  fertigstellung: "November 2022"
+  schutz_fuer: ["Günterstal", "Wiehre", "Vauban", "Haslach", "Weingarten"]
+  schutz_level: "Jahrhunderthochwasser"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geschaeftsbetrieb
+BEZEICHNUNG: "Mez-Fabrik"
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1812
+  gruender: "Freiburger Firma Mez"
+  standort: "Klostergebäude"
+  bedeutung_fuer_ort: "großer Einschnitt nach 600 Jahren Klosterherrschaft"
+  verursachte_wirkung: "Günterstal wurde nun politisch selbständige Gemeinde"
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: brauerei
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  standort: "ehemalige Klostergebäude"
+  betreiber: "Familie von Hermann"
+  zeitraum: "1829 nach Brand bis später"
+  beschreibung: "Wiederaufbau und Betrieb der Klostergebäude nach Brand"
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: waisenhausstiftung
+BEZEICHNUNG: "Freiburger Waisenhausstiftung"
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  erwerb_kloster: 1892
+  betreiber_ab_1892: "Waisenhaus der Vinzentinerinnen"
+  standort: "ehemalige Klostergebäude"
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: "Gefecht bei Günterstal (Badische Revolution)"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  zeit: "1848"
+  kontext: "Badische Revolution 1848/49"
+  beteiligte_seite_1: "Freischären unter Gustav von Struve"
+  beteiligte_seite_2: "badische Truppen"
+  grossere_operation: "Operationsbasis unter Franz Sigel in Horben"
+  verlauf: "Struve rückt gegen Befehl Sigels vor, trifft auf badische Truppen"
+  verlueste_freischarler: "ca. 20"
+  verlueste_soldaten: 3
+  gedenkmaeler: "Denkmal am Jägerbrunnen für die 3 gefallenen Soldaten"
+  ort_endsieg: "Sternwaldeck"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gasthof
+BEZEICHNUNG: "Gasthof Kybfelsen"
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Günterstal"
+  bemerkung: "Edith Stein besuchte diesen Ort oft"
+  gedenkstelle: "Gedenktafel an Edith Stein"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gaststaette
+BEZEICHNUNG: "Gasthaus St. Valentin"
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Oberdorf"
+  historia_vorher: "ehemalige Kapelle St. Valentin (1608 neu gebaut, 1789 abgerissen)"
+  funktion_ab_1789: "Waldhüterhaus, später Gasthaus"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: cafe
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Klosterplatz"
+  eroffnung: "September 2026"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schule
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  funktion_heute: "Sonderpädagogisches Bildungs- und Beratungszentrum mit Förderschwerpunkt geistige Entwicklung"
+  ausstattung: "Mehrzweckhalle"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kindergarten
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Günterstal"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: friedhof
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "angrenzend an Liebfrauen-Kirche"
+  begruebnis_bekannte: ["Edmund Husserl (Asche)", "Sepp Allgeier", "Hans Filbinger"]
+  grab_priester_besondere: true
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: spielplatz
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Günterstal"
+  ausstattung: "Grillstelle"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: jugendgruppe
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  name: "Jugendgruppe Günterstal"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: "St. Valentin Kapelle"
+FACETTE: GESCHICHTE
+QUELLE: https://leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7714/G%C3%BCnterstal | Landesportal
+EIGENSCHAFTEN:
+  lage: "östlich von Günterstal"
+  erstbau: "Mittelalter"
+  neubau: 1608
+  abbruch: 1789
+  verwendung_danach: "Waldhüterhaus"
+  verwendung_heute: "Gasthaus"
+GUELTIG_BIS: 1789
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: "Matthias-Claudius-Kapelle"
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  status_alt: "evangelisch"
+  status_neu: "entwidmet"
+  entwidmung_jahr: 2026
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: "Günterstäler Weiher"
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Oberdorf"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: tor
+BEZEICHNUNG: "Günterstäler Tor"
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "ehemals Eingang in den Klosterbereich"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: "Schauinsland-Radweg"
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  streckenführung: "Schauinslandstraße sowie Kirchzarten und Oberried"
+  form: "Rundweg um den Schauinsland"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fahrradverleih
+BEZEICHNUNG: "Frelo-Station"
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Günterstal"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: mitfahrbank
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: 2
+  standort_1: "Endhaltestelle Straßenbahn (Richtung Horben)"
+  standort_2: "südlicher Ortseingang (Richtung Stadtmitte)"
+  seit: 2019
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadtbezirk
+BEZEICHNUNG: "Oberdorf"
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "südlicher Teil Günterstals"
+  beschreibung: "locker mit Villen und Einfamilienhäusern bebaut"
+  grenze: "verläuft durch Maximilian-Kolbe-Weg zur Endhaltestelle und Kuenzersteige"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadtbezirk
+BEZEICHNUNG: "Unterdorf"
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Günterstal | Wikipedia
+EIGENSCHAFTEN:
+  lage: "nördlicher Teil Günterstals, der Stadt zugewandt"
+  beschreibung: "liegt näher an der Stadt Freiburg"
+  laeden_geschlossen: ["zwei Bäckereien (in 2010er Jahren geschlossen)"]
+  naechster_supermarkt: "Lorettostraße, Stadtteil Wiehre"
+  wochenmarkt_versuch: "scheiterte ab 2022 beim Schulhaus"
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

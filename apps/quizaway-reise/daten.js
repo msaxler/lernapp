@@ -5602,189 +5602,193 @@ window.QA_DATEN = {
 "lon": 7.82861,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "Weinbau auf zwei verschiedenen Böden",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Merzhausen",
 "steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
-"frage": "In welchem Archiv werden die ältesten Urkunden über Merzhausen aufbewahrt?",
+"frage": "In Merzhausen wachsen Reben am Schönberg und gegenüber auf der Schwarzwaldseite. Auf welchen Böden?",
 "optionen": [
-"Sie liegen im Stadtarchiv Freiburg.",
-"Sie liegen im Vatikanischen Archiv in Rom.",
-"Sie liegen im Archiv des Klosters Reichenau.",
-"Sie liegen im Stiftsarchiv St. Gallen."
+"Beide Lagen haben vulkanischen Boden.",
+"Der Schönberg trägt Granit, die Gegenseite Kalk.",
+"Beide Lagen haben denselben Kalkboden.",
+"Der Schönberg trägt Kalk, die Gegenseite Granit-Gneis."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein Archiv im nahen Freiburg. Doch die ältesten Urkunden über Merzhausen liegen im Stiftsarchiv St. Gallen. Denn Heimo und seine Tochter Svanahilt übertrugen ihren Besitz Meresusir an die Abtei Sankt Gallen. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/geschichte",
-"faktencheck": "korrigiert",
-"id": "389-merzhausen/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Merzhausen",
-"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie groß ist die Fläche der Gemeinde Merzhausen?",
-"optionen": [
-"unter 4 km²",
-"4 bis unter 10 km²",
-"10 bis unter 20 km²",
-"20 km² oder mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer an ein Dorf mit Wald und Reben denkt, schätzt die Fläche oft größer. Doch die Gemarkung von Merzhausen misst nur 2,76 Quadratkilometer; die vorstädtisch geprägte Wohngemeinde liegt unmittelbar südlich von Freiburg. Richtig war 1.",
-"quelle": "Wikidata P2046",
+"rueckseite": "Du hattest [Option] getippt. Vulkanboden liegt nahe, weil man ihn mit badischem Wein verbindet. In Merzhausen wachsen die Reben aber am Schönberg auf Kalk, auf der Schwarzwaldseite auf verwittertem Granit und Gneis. Die Weine sind frisch, fruchtig und meist trocken ausgebaut. Auf nur 2,76 Quadratkilometern hat Merzhausen damit zwei ganz verschiedene Weinlagen, auf beiden Seiten des Tals. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/freizeit-kultur/weinbau",
 "faktencheck": "bestätigt",
-"id": "389-merzhausen/v0.8/2",
+"id": "389-merzhausen/v0.9/1",
 "tisch": false
 },
 {
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Merzhausen",
-"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Friedhofshalle bekam bei ihrer Renovierung eine Orgel.",
-"Im Gemeindegebiet gibt es mehr Landwirtschaftsfläche als Wald.",
-"In früheren Jahrhunderten war das Dorf überwiegend evangelisch."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Eine Orgel für die Friedhofshalle klingt erfunden, stimmt aber, ebenso das Übergewicht der Landwirtschaftsfläche über den Wald. Gelogen war die Konfession: Lange war Merzhausen ausschließlich katholisch, und auch spätere Zählungen zeigen mehr Katholiken als Protestanten. Wer den katholisch geprägten Breisgau kennt, konnte es ahnen. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.merzhausen.de/leben-wohnen/kirchen",
-"faktencheck": "bestätigt",
-"id": "389-merzhausen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Merzhausen",
-"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
-"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Merzhausen die stärkste Partei?",
-"optionen": [
-"unter 25 %",
-"25 bis unter 30 %",
-"30 bis unter 35 %",
-"35 % oder mehr"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Im ländlichen Breisgau erwarten viele die CDU klar vorn. Doch vor den Toren Freiburgs lagen die Grünen an der Spitze: 33,2 Prozent der Zweitstimmen, vor der CDU mit 24,4 Prozent. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "389-merzhausen/v0.8/4",
-"tisch": false
-},
-{
+"facette": "FREIZEIT",
+"charakteristikum": "Hallenbad, von Bürgern betrieben",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Merzhausen",
-"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
-"frage": "Ein Gelände in Merzhausen heißt „Casinogelände“. Woher hat es diesen Namen?",
+"steckbrief": "Merzhausen, rund 5.400 Einwohner, liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Merzhausens Hallenbad, eröffnet als Gartenhallenbad, stand 2003/2004 vor der Schließung. Wer übernahm danach den Betrieb?",
 "optionen": [
-"Dort stand früher eine Spielbank.",
-"Dort stand ein Tanzcafé der Nachkriegszeit.",
-"Dort stand das Werk einer Firma Casino.",
-"Dort stand früher das Casino einer Kaserne."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Beim Wort Casino denkt man an Roulette und Spieltische. Gemeint war aber das Casino der Vauban-Kaserne; so heißt in Kasernen der Treffpunkt der Offiziere. Die Fläche lag lange größtenteils brach, das Gebäude nutzten Vereine, bis es abgerissen wurde. Die gewerbliche Nutzung übernahm schließlich ein Hotel. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/bebauungsplaene-abgeschlossen",
-"faktencheck": "korrigiert",
-"id": "389-merzhausen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Merzhausen",
-"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie weit ist es von Merzhausen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
-"optionen": [
-"unter 150 km",
-"150 bis unter 180 km",
-"180 bis unter 220 km",
-"220 km oder mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Wer die Fahrt über Autobahn oder durch den Schwarzwald kennt, schätzt leicht zu hoch, denn Straßen machen Umwege. In Luftlinie liegen zwischen Merzhausen und Stuttgart nur 135 Kilometer. Richtig war 1.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "389-merzhausen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Geschichte",
-"ort": "Merzhausen",
-"steckbrief": "Merzhausen hat heute rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
-"frage": "1830 war Merzhausen ein Dorf am Fuß des Schönbergs. Wie viele Einwohner hatte es damals?",
-"optionen": [
-"unter 100",
-"100 bis unter 300",
-"300 bis unter 1.000",
-"1.000 oder mehr"
+"Ein Energieversorger übernahm den Betrieb.",
+"Eine Gesellschaft örtlicher Vereine übernahm den Betrieb.",
+"Die Gemeinde führte das Bad allein weiter.",
+"Der Landkreis übernahm den Betrieb."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer die heutige Größe kennt, rechnet mit einem stattlichen Dorf. Doch damals lebten nur 180 Menschen im Ort, im sogenannten Thälchen am Fuß des Schönbergs. Zur vorstädtischen Wohngemeinde entwickelte sich Merzhausen verstärkt seit dem Zweiten Weltkrieg. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/geschichte",
-"faktencheck": "bestätigt",
-"id": "389-merzhausen/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Ein Energieversorger liegt nahe: Blockheizkraftwerke im Bad liefern Wärme an Rathaus, Sporthalle und FORUM. Den Betrieb übernahm aber die BürgerBad gGmbH, eine Gesellschaft von Pro Bad, VfR Merzhausen und DLRG. Die Gemeinde kümmert sich um die Außenhülle. Ein eigenes Hallenbad mit Sauna und Außenbecken ist für rund 5.400 Einwohner bemerkenswert. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/freizeit-kultur/bewegung-entspannung/buergerbad",
+"faktencheck": "korrigiert",
+"id": "389-merzhausen/v0.9/3",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Partnerschaft mit Dardilly bei Lyon",
+"rang": 9,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Merzhausen",
-"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
-"frage": "Das Jesuitenschloss am Schönberg ist nach Jesuiten benannt, die an der Freiburger Universität lehrten. Wie kamen sie zu ihrem Besitz dort?",
+"steckbrief": "Rund 5.400 Menschen leben in Merzhausen, 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Seit 2013 gibt es bei der Merzhauser Sporthalle einen Bouleplatz. Welcher Anlass führte zu seiner Einweihung?",
 "optionen": [
-"Sie kauften ihn mit Geld der Universität.",
-"Der Landesherr übertrug ihn dem Orden.",
-"Eine Familie schenkte ihn den Jesuiten.",
-"Sie erhielten ihn als Pfand für Schulden."
+"Merzhausen feierte die Eröffnung seines FORUMS.",
+"Merzhausen feierte ein Jubiläum seiner ersten Urkunde.",
+"Die Partnerschaft mit einer französischen Gemeinde feierte 30-jähriges Jubiläum.",
+"Die Partnerschaft mit einer italienischen Gemeinde feierte 30-jähriges Jubiläum."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein gelehrter Orden mit Geld, so denkt man, kauft sich ein Landgut vor der Stadt. Doch die Familie Schnewlin-Bernlapp von Bollschweil schenkte den Jesuiten den Besitz. Den Namen behielt das Schloss auch nach der Auflösung des Ordens. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.merzhausen.de/freizeit-kultur/jesuitenschloss",
-"faktencheck": "bestätigt",
-"id": "389-merzhausen/v0.8/8",
+"rueckseite": "Du hattest [Option] getippt. Eine Eröffnungsfeier wie die des FORUMS liegt nahe, doch das FORUM gab es da schon. Eingeweiht wurde der Platz anlässlich der Feiern zum dreißigjährigen Jubiläum der Partnerschaft mit Dardilly, einer französischen Gemeinde bei Lyon. Da passt Boule. So steht die Partnerschaft eines Orts mit rund 5.400 Einwohnern ganz greifbar neben der Sporthalle. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/abgeschlossene-projekte",
+"faktencheck": "korrigiert",
+"id": "389-merzhausen/v0.9/4",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Tor zum Hexental",
+"rang": 5,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Merzhausen",
 "steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
-"frage": "Rathaus, Sporthalle und FORUM in Merzhausen wurden ab 2010 mit Fernwärme versorgt. Woher kam diese Wärme?",
+"frage": "Merzhausen liegt am Eingang eines Tals, dessen Name an Märchen denken lässt. Wie heißt das Tal?",
 "optionen": [
-"Die Wärme kam aus dem Hallenbad.",
-"Ein Holzheizwerk im Gemeindewald lieferte sie.",
-"Sie kam aus dem Netz Freiburgs.",
-"Die Biogasanlage eines Landwirts lieferte sie."
+"Das Tal heißt Feental.",
+"Das Tal heißt Drachental.",
+"Das Tal heißt Zwergental.",
+"Das Tal heißt Hexental."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Drachen und Zwerge kennt man aus vielen Sagen, darum klingt jeder Name möglich. Merzhausen liegt aber am Eingang des Hexentals, mit Wald und Reben ringsum. Die vorstädtische Wohngemeinde ist dicht besiedelt: Rund 5.400 Menschen leben auf nur 2,76 Quadratkilometern. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/ortsportrait",
+"faktencheck": "bestätigt",
+"id": "389-merzhausen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Jesuitenschloss am Schönberg",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Merzhausen",
+"steckbrief": "Rund 5.400 Einwohner, 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Drei Aussagen über das Jesuitenschloss am Schönberg. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Jesuiten erhielten das Anwesen als Schenkung.",
+"Nach dem Orden fiel es an die vorderösterreichische Regierung.",
+"Erbaut wurde es als Jagdschloss eines Fürsten."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Schloss am Berg klingt nach Jagd, doch der Name führt zu den Jesuiten, die an der Freiburger Universität lehrten. Sie bekamen das Gut von der Familie Schnewlin-Bernlapp geschenkt. Das Herrenhaus wurde laut einer Tafel über dem Eingang erst später gebaut, als es ihnen gehörte. Später war es meist Adelssitz, heute ist dort das Stiftungsweingut Freiburg. Wer vorbeifährt, sieht es am nördlichen Schönberg. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/freizeit-kultur/jesuitenschloss",
+"faktencheck": "korrigiert",
+"id": "389-merzhausen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "auffällig hohe Wahlbeteiligung",
+"rang": 3,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Merzhausen",
+"steckbrief": "Merzhausen, rund 5.400 Einwohner, liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Baden-Württemberg bei 83,4 Prozent. Wie hoch war sie in Merzhausen?",
+"optionen": [
+"unter 88,4 Prozent",
+"88,4 bis unter 91,4 Prozent",
+"91,4 bis unter 94,4 Prozent",
+"94,4 Prozent oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Schon der Landeswert war hoch, deshalb liegt ein kleiner Abstand nahe. Merzhausen kam aber auf 90,7 Prozent, 7,3 Punkte über dem Land: Gut neun von zehn Wahlberechtigten gingen wählen. Stärkste Kraft wurden die Grünen vor CDU und SPD. Für eine vorstädtische Wohngemeinde direkt vor Freiburg sticht dieser Wert heraus. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "389-merzhausen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "frühe Schenkung an Sankt Gallen",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merzhausen",
+"steckbrief": "Rund 5.400 Einwohner, 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Eine Urkunde von 786 erzählt: Heimo und seine Tochter Svanailta übertrugen ihren Besitz im Ort. An wen?",
+"optionen": [
+"Sie übertrugen ihn der Abtei Sankt Gallen.",
+"Sie übertrugen ihn dem Kloster Reichenau.",
+"Sie übertrugen ihn dem Kloster Lorsch.",
+"Sie übertrugen ihn dem Kloster Fulda."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei Fernwärme denkt man an ein großes Heizwerk oder an das Netz der nahen Großstadt. In Merzhausen aber kam die Wärme aus dem Hallenbad, dem BürgerBad. Seine Blockheizkraftwerke bildeten die Grundlage der 2010 eingerichteten Fernwärme. Versorgt wurden auch das Alois-Rapp-Haus und ein Wohn- und Geschäftshaus in der Ortsmitte. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/abgeschlossene-projekte",
+"rueckseite": "Du hattest [Option] getippt. Die Reichenau wäre eine naheliegende Wahl. Doch Heimo und Svanailta übertrugen ihren Besitz in „Meresusir“ der Abtei Sankt Gallen; die ältesten Urkunden des Orts liegen im St. Galler Stiftsarchiv. Wer heute durch Merzhausen fährt, trifft den Namen wieder: bei der Kirche St. Gallus und in der St.-Galler-Straße. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/unsere-gemeinde/gemeinde-merzhausen/geschichte",
 "faktencheck": "korrigiert",
-"id": "389-merzhausen/v0.8/9",
+"id": "389-merzhausen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Gemeinde hütet einen Dichternachlass",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merzhausen",
+"steckbrief": "Merzhausen hat rund 5.400 Einwohner und liegt 4 km südwestlich von Freiburg im Breisgau.",
+"frage": "Der Schriftsteller Kurt Heynicke lebte von 1943 bis 1985 in Merzhausen. Was wurde aus seinem Nachlass?",
+"optionen": [
+"Seine Familie bekam ihn samt allen Rechten zurück.",
+"Ein Literaturarchiv kaufte ihn samt allen Rechten.",
+"Die Gemeinde archivierte ihn, ihr gehören die Rechte.",
+"Seine Geburtsstadt erhielt ihn als Schenkung."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein großes Literaturarchiv wäre der übliche Ort für den Nachlass eines Schriftstellers. In Merzhausen aber hat die Gemeinde Heynickes Nachlass selbst gesichtet und archiviert, und sie hält die Rechte an seinem Werk. Für eine Gemeinde mit rund 5.400 Einwohnern ist ein eigenes Schriftsteller-Archiv ein ungewöhnliches Stück Kulturerbe. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.merzhausen.de/freizeit-kultur/kurt-heynicke-archiv",
+"faktencheck": "bestätigt",
+"id": "389-merzhausen/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "388-littenweiler",
 "anschluss": [
-"Trotz Kreisgrenze haben Littenweiler und Merzhausen beide Kennzeichen FR.",
-"Einwohner: Littenweiler hat rund 8.500, Merzhausen rund 5.400."
+"Merzhausen ist fast so dicht besiedelt wie Freiburgs Stadtteil Littenweiler.",
+"Bei der Bundestagswahl lagen in Merzhausen und Littenweiler Grüne vorn."
 ],
 "anschluesse": {
 "387-ebnet": [
@@ -5792,8 +5796,8 @@ window.QA_DATEN = {
 "Merzhausen hat fast doppelt so viele Einwohner wie Ebnet."
 ],
 "388-littenweiler": [
-"Trotz Kreisgrenze haben Littenweiler und Merzhausen beide Kennzeichen FR.",
-"Einwohner: Littenweiler hat rund 8.500, Merzhausen rund 5.400."
+"Merzhausen ist fast so dicht besiedelt wie Freiburgs Stadtteil Littenweiler.",
+"Bei der Bundestagswahl lagen in Merzhausen und Littenweiler Grüne vorn."
 ],
 "390-au-breisgau": [
 "Merzhausen hat dreieinhalbmal so viele Einwohner wie Au."
@@ -5881,6 +5885,32 @@ window.QA_DATEN = {
 },
 "ags": "08315073",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Wohngemeinde am Eingang des Hexentals, 4 km südwestlich von Freiburg, mit Wald und Reben auf 2,76 Quadratkilometern."
+},
+{
+"facette": "GESCHICHTE",
+"text": "786 erstmals urkundlich erwähnt, mit einer Schenkung an Sankt Gallen; am Schönberg steht das Jesuitenschloss."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 5.400 Einwohner, etwa 15 Hektar Reben, das Stiftungsweingut im Jesuitenschloss und samstags ein Wochenmarkt."
+},
+{
+"facette": "FREIZEIT",
+"text": "BürgerBad, VfR-Sportpark, Zähringer-Wanderweg, Bettlerpfad, Hexental-Rundweg, Vogellehrpfad und Himmelreich-Jakobusweg."
+},
+{
+"facette": "INFRA",
+"text": "FORUM Merzhausen als Kultur- und Bürgerhaus seit 2012; Partnergemeinde ist Dardilly bei Lyon."
+},
+{
+"facette": "POLITIK",
+"text": "Bei der Bundestagswahl 2025 lagen die Grünen mit 33,2 Prozent vorn."
+}
+],
 "km_vom_vorigen": 5.3
 },
 {
@@ -5890,189 +5920,193 @@ window.QA_DATEN = {
 "lon": 7.83333,
 "karten": [
 {
-"familie": "A",
+"facette": "FREIZEIT",
+"charakteristikum": "historischer Bettlerpfad führt durchs Dorf",
+"rang": 8,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Au",
-"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
-"frage": "Das Wappen von Au ist in zwei Hälften gespalten. Woher stammen die beiden Hälften?",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 5 km südlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Au?",
 "optionen": [
-"Sie zeigen Felder und Wiesen des Dorfs.",
-"Sie stehen für zwei zusammengelegte Dörfer.",
-"Sie stammen von zwei früheren Grundherrenfamilien.",
-"Sie erinnern an Bergbau und Holzhandel."
+"ein Hallenbad",
+"eine Sommerrodelbahn",
+"ein historischer Wanderweg",
+"eine Minigolfanlage"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Gold über Grün erinnert an Feld und Wiese, das liegt bei einem Dorf nahe. Doch die vordere Hälfte stammt aus dem Wappen der Schnewlin von Weiher, die hintere aus dem der Freiherrn von Baden. An beide Familien war Au lange gebunden. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/geschichte/wappen",
-"faktencheck": "bestätigt",
-"id": "390-au-breisgau/v0.8/1",
+"rueckseite": "Du hattest [Option] getippt. Ein Hallenbad liegt nahe, weil Gemeinden am Stadtrand oft gut ausgestattet sind. Tatsächlich hat Au einen historischen Wanderweg: Der Erlebnispfad Hexental verläuft auf einem historischen Weg von Au bis Bollschweil. Für ein Dorf mit rund 1.500 Einwohnern ist das ein Stück Ortsgeschichte, das man zu Fuß erleben kann. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/freizeit-kultur/erlebnispfad-hexental",
+"faktencheck": "korrigiert",
+"id": "390-au-breisgau/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "GESCHICHTE",
+"charakteristikum": "Schlachtfeld im Dreißigjährigen Krieg",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Au",
-"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
-"frage": "Au liegt im Hexental zwischen Schönberg und Schauinsland. Auf welcher Höhe liegt der Ort?",
+"steckbrief": "Rund 1.500 Einwohner, 5 km südlich von Freiburg im Breisgau.",
+"frage": "Was geschah im August 1644 in Au?",
 "optionen": [
-"unter 200 m",
-"200 bis unter 270 m",
-"270 bis unter 330 m",
-"330 m und mehr"
+"Ein Bischof weihte die neue Dorfkapelle.",
+"Au weihte sein heutiges Rathaus ein.",
+"In Au wurde ein Friedensvertrag unterzeichnet.",
+"Au wurde Schauplatz einer Schlacht."
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Au liegt nah an Freiburg, da denkt man an die flache Rheinebene. Doch das Dorf liegt im Hexental zwischen Schönberg und Schauinsland und damit schon deutlich höher. Die Quellen nennen 359 und 367 Meter. Richtig war 4.",
-"quelle": "Wikidata P2044; dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "390-au-breisgau/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. Ein Friedensvertrag liegt nahe, denn der Dreißigjährige Krieg endete mit Verträgen – aber erst Jahre später. Im August 1644 war Au Schauplatz der Schlacht bei Freiburg. Heute wirkt das Dorf mit rund 1.500 Einwohnern im Hexental friedlich; damals lag es mitten im Kampfgeschehen vor den Toren Freiburgs. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/kurzportrait und /unsere-gemeinde/geschichte",
+"faktencheck": "korrigiert",
+"id": "390-au-breisgau/v0.9/2",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "Hexental zwischen Schönberg und Schauinsland",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Au",
+"steckbrief": "Rund 1.500 Einwohner, 5 km südlich von Freiburg im Breisgau.",
+"frage": "Au liegt in einem Tal südlich von Freiburg. Zwischen welchen Bergen liegt dieses Tal?",
+"optionen": [
+"Das Tal liegt zwischen Kandel und Feldberg.",
+"Das Tal liegt zwischen Schönberg und Schauinsland.",
+"Das Tal liegt zwischen Belchen und Blauen.",
+"Das Tal liegt zwischen Kaiserstuhl und Tuniberg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Belchen und Blauen liegen nahe, weil beide markante Gipfel südlich von Freiburg sind. Au liegt aber im Hexental, das sich zwischen Schönberg und Schauinsland erstreckt. Wer hier entlangfährt, hat Schönberg und Schauinsland zu beiden Seiten – eine Lage, die das Dorf mit rund 1.500 Einwohnern prägt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/kurzportrait",
+"faktencheck": "bestätigt",
+"id": "390-au-breisgau/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Bürgerhaus als Dorfmittelpunkt",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Au",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 5 km südlich von Freiburg im Breisgau.",
+"frage": "Welche dieser vier Einrichtungen gibt es in Au?",
+"optionen": [
+"ein Bahnhof",
+"eine Klinik",
+"ein Bürgerhaus",
+"eine Mühle"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bahnhof liegt nahe, weil viele Orte rund um Freiburg an der Bahn liegen. Au hat aber ein Bürgerhaus mit Bürgersaal, Kindergarten, Jugend-, Senioren- und Vereinsräumen und einer Festwiese. Die Gemeinde nennt es ihren identitätsstiftenden Dreh- und Angelpunkt. Für ein Dorf mit rund 1.500 Einwohnern bündelt es Feste, Kinderbetreuung und Vereinsleben unter einem Dach. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/freizeit-kultur/buergerhaus",
+"faktencheck": "unsicher",
+"id": "390-au-breisgau/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wappen der Schnewlin und Freiherren von Baden",
+"rang": 4,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Au",
-"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
+"steckbrief": "Rund 1.500 Einwohner, 5 km südlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Die Auer Landwirte leben überwiegend vom Weinbau.",
-"Ein Heinrich von Au beschenkte Kloster St. Peter.",
-"Im Mittelalter ist ein Ritter von Au bezeugt."
+"Das Gemeindewappen von Au zeigt Sense und Pflugschar.",
+"Der frühere Verfassungsrichter Ernst-Wolfgang Böckenförde lebte in Au.",
+"Von der einstigen Burg Au ist nichts mehr auffindbar."
 ],
 "art": "luege",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Der Breisgau ist als Weinland bekannt, deshalb klingt Weinbau glaubhaft. Doch die Auer Betriebe leben überwiegend von der Milchwirtschaft, dazu kommen Rinder- und Schweinezucht. Heinrich von Au schenkte dem Kloster St. Peter einen Hof, und der Ritter Liutfried von Au ist bezeugt. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/daten-fakten und www.au-hexental.de/unsere-gemeinde/geschichte/geschichte",
-"faktencheck": "korrigiert",
-"id": "390-au-breisgau/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Au",
-"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
-"frage": "Bundestagswahl 2025, Zweitstimmen: Welche Partei wurde in Au zweitstärkste Kraft?",
-"optionen": [
-"Grüne",
-"CDU",
-"SPD",
-"Die Linke"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. In einem Dorf erwartet man die CDU vorn und die Grünen auf Platz zwei. In Au war es umgekehrt: Die Grünen gewannen mit 31,6 Prozent, die CDU folgte mit 27,9 Prozent. Die SPD lag weit dahinter. Richtig war 2.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"rueckseite": "Du hattest [Option] getippt. Sense und Pflugschar klingen nach Bauerndorf – und tatsächlich standen sie auf älteren Siegeln von Au. Das heutige Wappen verbindet aber Gold über Grün der Schnewlin von Weiher mit dem schwarz-silbernen Schach der Freiherren von Baden. So erzählt das Dorfwappen von der langen Bindung an diese Adelsfamilien. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/geschichte/wappen",
 "faktencheck": "bestätigt",
-"id": "390-au-breisgau/v0.8/4",
+"id": "390-au-breisgau/v0.9/6",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Au",
-"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
-"frage": "Au bekam im 17. Jahrhundert eine Kapelle. Wer weihte sie ein?",
-"optionen": [
-"Der Bischof von Basel weihte sie ein.",
-"Der Bischof von Straßburg weihte sie ein.",
-"Der Bischof von Konstanz weihte sie ein.",
-"Der Abt von St. Blasien weihte sie ein."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Basel und Straßburg sind von Freiburg aus näher als Konstanz, deshalb liegt einer dieser Bischöfe nahe. Doch geweiht hat die Kapelle der Bischof von Konstanz. Erhalten ist sie nicht: Sie wurde später abgerissen. Richtig war 3.",
-"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/geschichte/geschichte",
-"faktencheck": "bestätigt",
-"id": "390-au-breisgau/v0.8/5",
-"tisch": false
-},
-{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung weit über Landesschnitt",
+"rang": 2,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Au",
-"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
-"frage": "Wie weit liegt Au in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 5 km südlich von Freiburg im Breisgau.",
+"frage": "Bei der Bundestagswahl 2025 gingen in Baden-Württemberg 83,4 % wählen. Wie hoch war die Wahlbeteiligung in Au?",
 "optionen": [
-"unter 60 km",
-"60 bis unter 90 km",
-"90 bis unter 120 km",
-"120 km und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg wirkt auf der Karte überschaubar, und Stuttgart scheint nicht weit. Doch Au liegt südlich von Freiburg, tief im Südwesten des Landes. Bis Stuttgart sind es 136 Kilometer Luftlinie. Richtig war 4.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "390-au-breisgau/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Au",
-"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
-"frage": "Die Zeittafel der Auer Ortsgeschichte verzeichnet Geburt und Tod eines Dichters des Mittelalters. Welches Dichters?",
-"optionen": [
-"Es ist Hartmann von Aue.",
-"Es ist Walther von der Vogelweide.",
-"Es ist Wolfram von Eschenbach.",
-"Es ist Gottfried von Straßburg."
+"90 % und mehr",
+"85 bis unter 90 %",
+"80 bis unter 85 %",
+"unter 80 %"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Walther von der Vogelweide fällt vielen zuerst ein, doch er war vor allem Liederdichter. Die Auer Ortsgeschichte verzeichnet Geburt und Tod von Hartmann von Aue. Ob er aus Au stammt, sagt die Zeittafel nicht. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/geschichte/geschichte",
-"faktencheck": "korrigiert",
-"id": "390-au-breisgau/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Ein Wert nahe am Landesschnitt wirkt plausibel, denn warum sollte ein Dorf aus der Reihe tanzen? In Au gingen aber 92,9 Prozent der Wahlberechtigten zur Wahl, 9,5 Punkte mehr als im Land. Für eine Gemeinde mit rund 1.500 Einwohnern vor den Toren Freiburgs ist das auffällig hoch; stärkste Kraft wurden die Grünen mit 31,6 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "390-au-breisgau/v0.9/7",
 "tisch": false
 },
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Waldpfad mit geschnitzten Tieren",
+"rang": 6,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Au",
-"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
-"frage": "Ernst-Wolfgang Böckenförde lebte in Au. Welches Amt hatte er inne?",
+"steckbrief": "Rund 1.500 Einwohner, 5 km südlich von Freiburg im Breisgau.",
+"frage": "Der Erlebnispfad Hexental führt von Au nach Bollschweil. Welches Thema hat sein Auer Abschnitt?",
 "optionen": [
-"Er war Ministerpräsident von Baden-Württemberg.",
-"Er war Präsident des Deutschen Bundestags.",
-"Er war Erzbischof von Freiburg.",
-"Er war Richter am Bundesverfassungsgericht."
+"Thema ist der Weinbau an den Hängen.",
+"Thema sind die Hexensagen des Tals.",
+"Thema ist das Leben am und im Wald.",
+"Thema ist der alte Silberbergbau."
 ],
 "art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein bekannter Name lässt zuerst an Politik denken, etwa an den Landtag in Stuttgart oder den Bundestag. Doch Ernst-Wolfgang Böckenförde war Richter des Bundesverfassungsgerichts und lebte in Au. Richtig war 4.",
-"quelle": "Deutsche Biographie, www.deutsche-biographie.de/dbo014256.html",
-"faktencheck": "korrigiert",
-"id": "390-au-breisgau/v0.8/8",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Hexensagen liegen nahe, schließlich heißt das Tal Hexental. Der Auer Abschnitt dreht sich aber um das Leben am und im Wald: Ökosystem, Tiere, Baumarten, Waldpflege. Unterwegs stehen geschnitzte, lebensgroße Waldtiere. Das passt zu Au, dessen Gemeindefläche zu einem guten Teil aus Wald besteht. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/freizeit-kultur/erlebnispfad-hexental",
+"faktencheck": "bestätigt",
+"id": "390-au-breisgau/v0.9/8",
 "tisch": false
 },
 {
+"facette": "ALLTAG",
+"charakteristikum": "Milchwirtschaft vor Freiburgs Toren",
+"rang": 7,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Au",
-"steckbrief": "Au hat rund 1.500 Einwohner und liegt 5 km südlich von Freiburg im Breisgau.",
-"frage": "In Au gab es im Mittelalter wahrscheinlich eine Burg. Auffindbar ist sie nicht. Was spricht trotzdem für sie?",
+"steckbrief": "Gemeinde mit rund 1.500 Einwohnern, 5 km südlich von Freiburg im Breisgau.",
+"frage": "Au hat zahlreiche landwirtschaftliche Betriebe. Wo liegt ihr Schwerpunkt?",
 "optionen": [
-"Im Wald liegen noch ihre Mauerreste.",
-"Eine überlieferte Bezeichnung deutet auf sie hin.",
-"Das Gemeindewappen zeigt einen Burgturm.",
-"Bei Ausgrabungen wurden ihre Grundmauern freigelegt."
+"Der Schwerpunkt liegt auf der Milchwirtschaft.",
+"Der Schwerpunkt liegt auf dem Obstbau.",
+"Der Schwerpunkt liegt auf dem Spargelanbau.",
+"Der Schwerpunkt liegt auf dem Tabakanbau."
 ],
 "art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Bei einer Burg denkt man zuerst an Mauerreste. Doch die Burg, die es wahrscheinlich gab, ist nicht auffindbar. Auf sie deutet die Bezeichnung „Burghöfe“. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/kurzportrait",
-"faktencheck": "korrigiert",
-"id": "390-au-breisgau/v0.8/9",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Obstbau liegt nahe, weil man rund um Freiburg an Obstwiesen denkt. In Au liegt der Schwerpunkt der zahlreichen Höfe aber auf der Milchwirtschaft; dazu kommen Rinder- und Schweinezucht sowie Pferdehöfe. Nur 5 Kilometer vor Freiburg zeigt sich ein Dorf mit rund 1.500 Einwohnern damit erstaunlich bäuerlich. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.au-hexental.de/unsere-gemeinde/daten-fakten",
+"faktencheck": "bestätigt",
+"id": "390-au-breisgau/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "389-merzhausen",
 "anschluss": [
-"Au gehört zur Verwaltungsgemeinschaft Hexental mit Sitz in Merzhausen.",
-"Au hat mehr Fläche als Merzhausen, aber viel weniger Einwohner."
+"Die Verwaltungsgemeinschaft von Au und Merzhausen sitzt in Merzhausen.",
+"Merzhausen hat mehr als dreimal so viele Einwohner wie Au."
 ],
 "anschluesse": {
 "387-ebnet": [
@@ -6084,8 +6118,8 @@ window.QA_DATEN = {
 "Littenweiler hat fast sechsmal so viele Einwohner wie Au."
 ],
 "389-merzhausen": [
-"Au gehört zur Verwaltungsgemeinschaft Hexental mit Sitz in Merzhausen.",
-"Au hat mehr Fläche als Merzhausen, aber viel weniger Einwohner."
+"Die Verwaltungsgemeinschaft von Au und Merzhausen sitzt in Merzhausen.",
+"Merzhausen hat mehr als dreimal so viele Einwohner wie Au."
 ],
 "391-ebringen": [
 "Bundestagswahl 2025: In Ebringen lag die CDU vorn, in Au die Grünen.",
@@ -6162,7 +6196,472 @@ window.QA_DATEN = {
 },
 "ags": "08315003",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 1.500 Einwohner im Hexental zwischen Schönberg und Schauinsland, 5 km südlich von Freiburg, auf 4 Quadratkilometern."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 861 urkundlich erwähnt, 1644 Schauplatz der Schlacht bei Freiburg; von der Burg Au ist nichts mehr auffindbar."
+},
+{
+"facette": "ALLTAG",
+"text": "Viele Höfe mit Schwerpunkt Milchwirtschaft, dazu traditioneller Weinbau; rund 40 Prozent der Fläche sind Wald."
+},
+{
+"facette": "FREIZEIT",
+"text": "Bettlerpfad, Erlebnispfad Hexental mit geschnitzten Waldtieren, Hexental-Rundweg und Vogellehrpfad; Bürgerhaus mit Festwiese, Wochenmarkt seit 2005."
+},
+{
+"facette": "INFRA",
+"text": "Verwaltungsgemeinschaft Hexental mit Sitz in Merzhausen; Kennzeichen FR, Vorwahl 0761, Postleitzahl 79280."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: Grüne 31,6 Prozent vor CDU 27,9 Prozent, Wahlbeteiligung 92,9 Prozent, weit über dem Landeswert."
+}
+],
 "km_vom_vorigen": 1.9
+},
+{
+"slug": "435-horben",
+"name": "Horben",
+"lat": 47.935,
+"lon": 7.85889,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Rundumblick, Namensgeber der Narrenzunft",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Horben",
+"steckbrief": "Gemeinde mit rund 1.200 Einwohnern, 7 km südlich von Freiburg im Breisgau.",
+"frage": "Welche dieser vier Dinge gibt es in Horben?",
+"optionen": [
+"ein Freibad",
+"ein Heimatmuseum",
+"ein Aussichtspunkt mit Rundumblick",
+"eine Burgruine"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rund um Horben reicht die Rundumsicht über Freiburg, den Schauinsland, den Schönberg und die Rheinebene. Der Bahnhof liegt nahe, weil die Höllentalbahn nicht weit entfernt durchs Dreisamtal fährt; in Horben endet aber nur die Schauinslandbahn mit ihrer Talstation. Auf den Höhen über Freiburg ist die Aussicht Horbens Aushängeschild. Richtig war 3.",
+"quelle": "Gemeinde Horben, horben.de/eip/pages/wandern.php",
+"faktencheck": "korrigiert",
+"id": "435-horben/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Talstation der Schauinslandbahn",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Horben",
+"steckbrief": "Rund 1.200 Einwohner, 7 km südlich von Freiburg im Breisgau.",
+"frage": "Wofür steht Horben?",
+"optionen": [
+"die Talstation der Schauinslandbahn",
+"ein Thermalbad",
+"eine Klosterbrauerei",
+"ein Schloss mit Park"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Talstation der Schauinslandbahn liegt in Horben, dort wo die Straße durchs Bohrertal auf die Schauinslandstraße trifft. Von hier schweben die Kabinen hinauf auf Freiburgs Hausberg. Ein Thermalbad liegt nahe, weil der Südwesten für seine Bäder bekannt ist. Wer an den Schauinsland denkt, denkt selten an Horben; dabei startet die Bahn hier, in einer Gemeinde, die bis heute selbständig ist. Richtig war 1.",
+"quelle": "Gemeinde Horben, horben.de/eip/pages/schauinslandbahn.php; LEO-BW, Ortslexikon Horben",
+"faktencheck": "korrigiert",
+"id": "435-horben/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Dorfkirche mit Freiburger Barockausstattung",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horben",
+"steckbrief": "Rund 1.200 Einwohner, 7 km südlich von Freiburg im Breisgau.",
+"frage": "Die Kirche St. Agatha wurde mit Bauteilen und Altären aus einer anderen Kirche neu erbaut. Woher stammen sie?",
+"optionen": [
+"Sie kamen aus dem Kloster St. Blasien.",
+"Sie kamen aus der Kirche des Freiburger Heiliggeist-Spitals.",
+"Sie kamen aus dem Freiburger Münster.",
+"Sie kamen aus dem Straßburger Münster."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Architekturteile und Altäre stammen aus der Kirche des Freiburger Heiliggeist-Spitals; mit ihnen wurde die Horbener Kirche neu erbaut. Das Münster liegt nahe, weil es Freiburgs Wahrzeichen ist. Zuvor stand hier eine Kapelle, die erst zur Pfarrkuratie und dann zur Pfarrkirche erhoben wurde. So trägt eine Dorfkirche für rund 1.200 Einwohner Schmuck aus der Stadt. Richtig war 2.",
+"quelle": "LEO-BW, Historisches Ortslexikon, Horben",
+"faktencheck": "korrigiert",
+"id": "435-horben/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "abseits gelegen, Busendpunkt, Schutzdamm",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Horben",
+"steckbrief": "Rund 1.200 Einwohner, 7 km südlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Horbener Damm schützt Freiburger Stadtteile vor Hochwasser.",
+"Eine Freiburger Straßenbahnlinie fährt bis nach Horben.",
+"Wegen der Berge hat Horben keinen Durchgangsverkehr."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Straßenbahn endet in Günterstal; nach Horben geht es mit dem Bus weiter. Die Lüge klingt glaubhaft, weil Freiburg ein dichtes Straßenbahnnetz hat. Der 2023 fertiggestellte Damm im Bohrertal hält Hochwasser des Bohrerbachs von Freiburger Stadtteilen wie Günterstal, Wiehre und Haslach fern. Und bis 1806 unterstand Horben selbst der Stadt Freiburg. Die Lüge war 2.",
+"quelle": "Stadt Freiburg, freiburg.de/pb/1366807.html; LEO-BW, Ortslexikon Horben",
+"faktencheck": "korrigiert",
+"id": "435-horben/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung weit über Landesschnitt",
+"rang": 5,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Horben",
+"steckbrief": "Rund 1.200 Einwohner, 7 km südlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025: In Baden-Württemberg gingen 83,4 Prozent wählen. Wie hoch war die Wahlbeteiligung in Horben?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 83,4 %",
+"83,4 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Horben gaben 91,4 Prozent ihre Stimme ab, acht Punkte über dem Landeswert. Ein Dorf am Berg unter Landesschnitt zu schätzen, liegt nahe, weil man Abgelegenheit oft mit Wahlmüdigkeit verbindet. Stärkste Partei war die CDU vor den Grünen. In einer Gemeinde mit rund 1.200 Einwohnern so nah an Freiburg geht fast jeder zur Wahl. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "435-horben/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Start des Schauinsland-Bergrennens",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horben",
+"steckbrief": "Rund 1.200 Einwohner, 7 km südlich von Freiburg im Breisgau.",
+"frage": "Im Talgrund des Bohrertals lag früher ein überregional bekannter Start. Wofür, nach der Ortsgeschichte?",
+"optionen": [
+"Dort stiegen Heißluftballone zu Wettfahrten auf.",
+"Dort starteten Brieftauben zu Wettflügen.",
+"Dort startete ein Bergrennen für Autos.",
+"Dort begann ein Hundeschlittenrennen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Bohrertal startete das Schauinsland-Rennen, ein ADAC-Bergrennen für Automobile: erst am Beginn der Großmatte, später beim Friedrichshof. Die Ballone liegen nahe, weil heute Gleitschirm- und Drachenflieger rund um Horben unterwegs sind. Für ein Dorf mit rund 1.200 Einwohnern war das eine große Bühne; heute rollen Mountainbiker und Downhill-Skateboarder die Hänge hinab. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Horben",
+"faktencheck": "unsicher",
+"id": "435-horben/v0.9/8",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Grenzberg mit Freiburger Namen",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horben",
+"steckbrief": "Rund 1.200 Einwohner, 7 km südlich von Freiburg im Breisgau.",
+"frage": "Die Eduardshöhe ist Horbens östlicher Grenzberg. Nach wem ist sie benannt?",
+"optionen": [
+"Sie ist nach einem badischen Prinzen benannt.",
+"Sie trägt den Namen eines Freiburger Bürgermeisters.",
+"Sie erinnert an einen Pfarrer von Horben.",
+"Sie ehrt den Erbauer der Schauinslandbahn."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Eduardshöhe ist nach Eduard Fauler benannt, einem früheren Bürgermeister von Freiburg. Der Prinz liegt nahe: In Horben hießen die Luisenhöhe nach Großherzogin Luise und der Friedrichshof nach Friedrich I. Eine Gemeinde mit rund 1.200 Einwohnern, 7 km vor Freiburg, hat so einen Grenzberg mit Freiburger Namen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Horben; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "435-horben/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "390-au-breisgau",
+"anschluss": [
+"Bei der Bundestagswahl siegten in Au die Grünen, in Horben die CDU.",
+"Eine Kreisstraße und ein Radweg verbinden Horben mit Au."
+],
+"anschluesse": {
+"390-au-breisgau": [
+"Bei der Bundestagswahl siegten in Au die Grünen, in Horben die CDU.",
+"Eine Kreisstraße und ein Radweg verbinden Horben mit Au."
+]
+},
+"ags": "08315056",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 1.200 Einwohner auf 8,75 km², 7 km südlich von Freiburg; Gipfel Hörnle mit 886 Metern, Naturpark Südschwarzwald."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 1265 erwähnt, lange eine Streusiedlung aus Höfen; seit 1792 eigene Pfarrei, bis heute nicht eingemeindet."
+},
+{
+"facette": "ALLTAG",
+"text": "Forst- und Landwirtschaft, kleine Handwerksbetriebe, kein Gewerbegebiet; manche Bauern vermarkten direkt, Ferien auf dem Bauernhof."
+},
+{
+"facette": "FREIZEIT",
+"text": "Wandern, Mountainbiken, Gleitschirmfliegen; Aussicht vom Heibrain, Eduardshöhe, Fernwanderweg „Weg der Revolutionäre“ nach Freiburg."
+},
+{
+"facette": "INFRA",
+"text": "Zufahrt über die Schauinslandstraße aus Günterstal, Kreisstraße nach Au; Grundschule, katholischer Kindergarten, Gemeindehalle."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vor Grünen und SPD, Wahlbeteiligung deutlich über dem Landesschnitt."
+}
+],
+"km_vom_vorigen": 2.5
+},
+{
+"slug": "436-guenterstal",
+"name": "Günterstal",
+"lat": 47.96639,
+"lon": 7.86083,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Klosterort, nach Brand Brauerei",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Günterstal",
+"steckbrief": "Freiburger Stadtteil 3 km südlich der Stadtmitte, gut 2.000 Einwohner.",
+"frage": "Das ehemalige Kloster Günterstal brannte 1829 großenteils ab. Wofür nutzte man die Gebäude danach?",
+"optionen": [
+"Man nutzte sie als Bergbauschule.",
+"Man nutzte sie als Brauerei.",
+"Man nutzte sie als Gefängnis.",
+"Man nutzte sie als Sternwarte."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Bergbauschule liegt nahe, weil am Schauinsland lange Silber abgebaut wurde. Nach dem Brand gab Marquard von Hermann aber seine Spinnerei im Kloster auf und betrieb ab 1832 eine Brauerei mit Gastwirtschaft. 1892 ging der Komplex an die Waisenhausstiftung. Bis zur Aufhebung 1806 hatte das Kloster fast 600 Jahre bestanden; seine Gebäude prägen die Ortsmitte bis heute. Richtig war 2.",
+"quelle": "damals.de; Stiftungsverwaltung Freiburg; LEO-BW",
+"faktencheck": "korrigiert",
+"id": "436-guenterstal/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Deutschlands höchster Baum",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Günterstal",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit gut 2.000 Einwohnern, 3 km südlich der Stadtmitte.",
+"frage": "Welche dieser vier Dinge gibt es in Günterstal?",
+"optionen": [
+"Ein Freibad",
+"Eine Sommerrodelbahn",
+"Deutschlands höchster Baum",
+"Ein Kino"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Sommerrodelbahn liegt nahe, weil der Schauinsland über dem Ort aufragt und solche Bahnen an Ausflugsbergen üblich sind. Tatsächlich wächst hier ein Rekordbaum: Die Douglasie „Waldtraut vom Mühlwald“ im Arboretum ist laut Messungen der Universität Karlsruhe der höchste Baum Deutschlands. Für einen Stadtteil mit gut 2.000 Einwohnern ist das ein Wahrzeichen, das Ausflügler eigens anlockt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Günterstal; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "436-guenterstal/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "südlichste Straßenbahn-Endhaltestelle",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Günterstal",
+"steckbrief": "Stadtteil von Freiburg im Breisgau, 3 km südlich der Stadtmitte, gut 2.000 Einwohner.",
+"frage": "Die Straßenbahnlinie 2 endet in Günterstal an der Haltestelle Dorfstraße. Was gilt für diese Endhaltestelle?",
+"optionen": [
+"Sie gilt als höchstgelegene Straßenbahnhaltestelle eines deutschen Verkehrsunternehmens.",
+"Sie gilt als westlichste Straßenbahnhaltestelle eines deutschen Verkehrsunternehmens.",
+"Sie gilt als älteste Straßenbahnhaltestelle eines deutschen Verkehrsunternehmens.",
+"Sie gilt als südlichste Straßenbahnhaltestelle eines deutschen Verkehrsunternehmens."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die höchstgelegene liegt nahe, weil Günterstal am Fuß des Schauinslands liegt. Entscheidend ist aber die Himmelsrichtung: Die Dorfstraße am Südrand Freiburgs gilt als südlichste Straßenbahnhaltestelle eines deutschen Verkehrsunternehmens. Der Zusatz ist nötig, denn seit Ende 2014 fährt die Basler Tram bis Weil am Rhein, und das liegt noch weiter südlich. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Günterstal",
+"faktencheck": "korrigiert",
+"id": "436-guenterstal/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Tal nach Deichel-Bohrern benannt",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Günterstal",
+"steckbrief": "Freiburger Stadtteil mit gut 2.000 Einwohnern, 3 km südlich der Stadtmitte.",
+"frage": "Günterstal liegt im Bohrertal am Fuß des Schauinslands. Woher hat das Tal seinen Namen?",
+"optionen": [
+"Von Handwerkern, die dort Deichel bohrten.",
+"Von Bergleuten, die dort nach Erz bohrten.",
+"Vom Bach, der sich tief ins Gestein bohrt.",
+"Von einer Müllerfamilie namens Bohrer."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Bach liegt nahe, denn so deutet man den heutigen Namen beim ersten Hören. Benannt ist das Tal aber nach den Deichel-Bohrern: Handwerkern, die Baumstämme der Länge nach durchbohrten, um hölzerne Wasserrohre zu fertigen. Auch der Bohrerbach, der durch das Tal fließt, trägt diesen Handwerksnamen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Günterstal",
+"faktencheck": "unsicher",
+"id": "436-guenterstal/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Philosophen und Dichter zu Gast",
+"rang": 2,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Günterstal",
+"steckbrief": "Stadtteil von Freiburg im Breisgau, gut 2.000 Einwohner, 3 km südlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Asche Edmund Husserls ruht in Günterstal.",
+"Maxim Gorki verbrachte mehrere Monate in Günterstal.",
+"Edith Stein war Äbtissin der Günterstaler Zisterzienserinnen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gorki wirkt am unwahrscheinlichsten, doch der russische Schriftsteller lebte tatsächlich mehrere Monate hier und lobte das grüne Tal. Gelogen ist die Äbtissin: Das Zisterzienserinnenkloster war aufgehoben, lange bevor Edith Stein geboren wurde. Die Philosophin lebte aber mehrmals in Günterstal und kehrte oft im Gasthof Kybfelsen ein. Für einen Stadtteil von gut 2.000 Einwohnern ziehen erstaunlich viele große Namen durch seine Geschichte. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Günterstal",
+"faktencheck": "unsicher",
+"id": "436-guenterstal/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "sehr hohe Wahlbeteiligung",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Günterstal",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit gut 2.000 Einwohnern, 3 km südlich der Stadtmitte.",
+"frage": "Bundestagswahl 2025: Im Land Baden-Württemberg gingen 83,4 % wählen. Wie hoch war die Wahlbeteiligung in Günterstal?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 86 %",
+"86 bis unter 92 %",
+"92 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Wert um den Landesschnitt klingt plausibel, weil ein Stadtteil selten weit vom Land abweicht. Doch in Günterstal gaben 89,3 % ihre Stimme ab, knapp sechs Punkte mehr als im Land. Stärkste Kraft wurden die Grünen mit 30,4 % vor der CDU mit 24,6 %. Der Stadtteil mit gut 2.000 Einwohnern wählte also auffallend eifrig und grün. Richtig war 3.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025",
+"faktencheck": "bestätigt",
+"id": "436-guenterstal/v0.9/7",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Hochwasserdamm für fünf Stadtteile",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Günterstal",
+"steckbrief": "Freiburger Stadtteil mit gut 2.000 Einwohnern, 3 km südlich der Stadtmitte.",
+"frage": "Im Bohrertal steht seit 2023 der Bohrerdamm. Wozu wurde er gebaut?",
+"optionen": [
+"Er staut einen Trinkwasserspeicher für Freiburg.",
+"Er schützt mehrere Stadtteile vor Jahrhunderthochwasser.",
+"Er staut einen Badesee für Ausflügler.",
+"Er staut Wasser für ein Kraftwerk."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Trinkwasserspeicher liegt nahe, weil man bei einem Damm zuerst an einen Stausee denkt. Der Bohrerdamm hält aber Hochwasser zurück: Zusammen mit dem erweiterten Becken Breitmatte schützt er Günterstal, Wiehre, Vauban, Haslach und Weingarten vor einem Jahrhunderthochwasser. Was im Bohrertal gebaut wurde, schützt also weit mehr als den Stadtteil mit gut 2.000 Einwohnern. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Günterstal",
+"faktencheck": "unsicher",
+"id": "436-guenterstal/v0.9/8",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Gasthaus auf altem Kapellenplatz",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Günterstal",
+"steckbrief": "Stadtteil von Freiburg im Breisgau, 3 km südlich der Stadtmitte, gut 2.000 Einwohner.",
+"frage": "Bei Günterstal liegt das Waldrestaurant St. Valentin. Was stand an seiner Stelle schon im Mittelalter?",
+"optionen": [
+"Dort stand eine Getreidemühle.",
+"Dort stand eine Zollstation.",
+"Dort stand eine Kapelle.",
+"Dort stand eine Schmiede."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Mühle liegt nahe, denn in Schwarzwaldtälern standen viele. Der Name verrät es aber: An dieser Stelle stand schon im Mittelalter die Kapelle St. Valentin. Sie wurde später neu gebaut und schließlich abgebrochen; danach folgte ein Waldhüterhaus, heute ein Gasthaus. So erinnert ein Gasthaus östlich des Orts an eine alte Kapelle. Richtig war 3.",
+"quelle": "Landesportal, leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7714/G%C3%BCnterstal",
+"faktencheck": "korrigiert",
+"id": "436-guenterstal/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "435-horben",
+"anschluss": [
+"Günterstal hat fast doppelt so viele Einwohner wie Horben.",
+"Sigels Freischaren lagerten 1848 in Horben, gekämpft wurde bei Günterstal."
+],
+"anschluesse": {
+"435-horben": [
+"Günterstal hat fast doppelt so viele Einwohner wie Horben.",
+"Sigels Freischaren lagerten 1848 in Horben, gekämpft wurde bei Günterstal."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Südlichster Freiburger Stadtteil im Bohrertal, 3 km südlich der Stadtmitte, 330 bis 345 Meter hoch, mit dem Schauinsland auf der Gemarkung."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals 804 belegt, fast 600 Jahre von einem Zisterzienserinnenkloster beherrscht, seit 1890 ein Teil von Freiburg."
+},
+{
+"facette": "ALLTAG",
+"text": "Gut 2.000 Einwohner auf gut 15 Quadratkilometern, dünn besiedelt; Gasthof Kybfelsen und Gasthaus St. Valentin."
+},
+{
+"facette": "FREIZEIT",
+"text": "Arboretum mit Waldtraut vom Mühlwald, Waldhaus Freiburg, Schauinslandbahn, Skulpturenpfad WaldMenschen, Zähringer-Wanderweg und Kletterfelsen am Stäpfele."
+},
+{
+"facette": "INFRA",
+"text": "Straßenbahnlinie 2 bis zur Endhaltestelle Dorfstraße, Postleitzahl 79100, Vorwahl 0761, Hochwasserschutz durch den Bohrerdamm."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: Grüne mit 30,4 Prozent vor der CDU, Wahlbeteiligung 89,3 Prozent."
+}
+],
+"km_vom_vorigen": 3.5
 },
 {
 "slug": "391-ebringen",
@@ -6171,149 +6670,216 @@ window.QA_DATEN = {
 "lon": 7.78056,
 "karten": [
 {
+"facette": "FREIZEIT",
+"charakteristikum": "Kapelle am Schönberg als Filmkulisse",
+"rang": 1,
 "familie": "A",
-"sorte": "Klassiker",
+"sorte": "Geschichte",
 "ort": "Ebringen",
 "steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
-"frage": "Welches Kennzeichen tragen die meisten Autos in Ebringen?",
+"frage": "Für den Kinofilm „Jesus liebt mich“ (2012) wurde in Ebringen gedreht. An welchem Ort?",
 "optionen": [
-"EM",
-"FR",
-"LÖ",
-"OG"
+"Gedreht wurde in der Pfarrkirche St. Gallus und Otmar.",
+"Gedreht wurde im Schloss Ebringen.",
+"Gedreht wurde an der Burgruine Schneeburg.",
+"Gedreht wurde an der Berghauser Kapelle."
 ],
 "art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Richtig ist FR, dasselbe Kürzel wie in der Stadt Freiburg. Wer ein eigenes Kreiskürzel erwartet, denkt an Kreise wie Emmendingen oder Lörrach, die eigene Buchstaben haben. Ebringens Kreis aber teilt sich FR mit der Großstadt. Richtig war 2.",
-"quelle": "Wikidata P395",
-"faktencheck": "bestätigt",
-"id": "391-ebringen/v0.8/1",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der fromme Filmtitel lenkt den Blick auf die Pfarrkirche St. Gallus und Otmar. Gedreht wurde aber an der Berghauser Kapelle zum heiligen Trudpert unterhalb des Kienbergsattels, umgeben vom Naturschutzgebiet Berghauser Matten. Das Filmteam entschied sich beim ersten Besuch sofort für sie. So kam ein Weinort mit knapp 2.900 Einwohnern ins Kino, und zwar mit einer Kapelle draußen am Schönberg statt im Ortskern. Richtig war 4.",
+"quelle": "Badische Zeitung; Gemeinde-Webseite, www.ebringen.de/freizeit-erlebnis/ausflugstipps",
+"faktencheck": "korrigiert",
+"id": "391-ebringen/v0.9/1",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "GESCHICHTE",
+"charakteristikum": "Rathaus im Schloss einer Schweizer Abtei",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Ebringen",
-"steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner leben in Ebringen durchschnittlich auf einem Quadratkilometer?",
+"steckbrief": "Gut 2.800 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Das Schloss Ebringen, heute Rathaus, entstand Anfang des 18. Jahrhunderts. Wer residierte ursprünglich darin?",
 "optionen": [
-"unter 150",
-"150 bis unter 300",
-"300 bis unter 450",
-"450 und mehr"
+"Statthalter der Fürstabtei St. Gallen residierten darin.",
+"Ein Basler Seidenhändler residierte darin.",
+"Der Bischof von Straßburg residierte darin.",
+"Ein Freiburger Weinhändler residierte darin."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein stattliches Herrenhaus im Weinort lässt an einen reichen Weinhändler denken. Gebaut hat es 1711 bis 1713 aber Lucas Grass, Statthalter der Fürstabtei St. Gallen; er verwaltete hier die Herrschaft des Schweizer Klosters. Als Ebringen 1809 an Baden kam, wurde das Schloss Rathaus: Ein Dorf mit knapp 2.900 Einwohnern wird aus der Residenz einer Schweizer Abtei verwaltet. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ebringen.de/freizeit-erlebnis/sehenswuerdigkeiten/schloss-ebringen",
+"faktencheck": "korrigiert",
+"id": "391-ebringen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Orchideenvielfalt im Jennetal",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebringen",
+"steckbrief": "Rund 2.900 Einwohner am Schönberg, 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Im Naturschutzgebiet Jennetal bei Ebringen liegt der Sumser Garten. Wofür ist er bekannt?",
+"optionen": [
+"Dort wachsen alte, fast vergessene Rebsorten.",
+"Dort stehen exotische Bäume eines alten Parks.",
+"Dort wachsen viele heimische Orchideenarten.",
+"Dort liegt der Kräutergarten eines Klosters."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. In Ebringen leben im Schnitt 349 Menschen auf einem Quadratkilometer. Wer bei einem Dorf an weite Felder denkt, schätzt tiefer. Doch die Einwohner teilen sich eine kleine Gemarkung, und für ein Dorf ist das recht dicht besiedelt. Richtig war 3.",
-"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"rueckseite": "Du hattest [Option] getippt. In einem Weinort liegt der Gedanke an alte Rebsorten nahe. Der Sumser Garten im Jennetal ist aber für heimische Orchideen bekannt: Ein großer Teil der in Deutschland wachsenden Orchideenarten kommt auf Ebringer Gemarkung vor. Für eine Gemeinde von gut acht Quadratkilometern ist das ein erstaunlicher Reichtum, den man vom Auto aus nicht ahnt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebringen",
 "faktencheck": "bestätigt",
-"id": "391-ebringen/v0.8/2",
+"id": "391-ebringen/v0.9/4",
 "tisch": false
 },
 {
+"facette": "INFRA",
+"charakteristikum": "Bahnhalt auf fremder Gemarkung",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebringen",
+"steckbrief": "Knapp 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Ebringen hat einen Halt an der Rheintalbahn, der den Ortsnamen trägt. Wo liegt er?",
+"optionen": [
+"Er liegt im Ebringer Ortsteil Talhausen.",
+"Er liegt im Unterdorf beim Gewerbegebiet.",
+"Er liegt im Mitteldorf nahe dem Schloss.",
+"Er liegt auf der Gemarkung Wolfenweiler."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer einen Halt namens Ebringen sucht, erwartet ihn im Dorf. Er liegt aber auf der Gemarkung des Nachbarorts Wolfenweiler, also gar nicht auf Ebringer Boden. Trotzdem trägt er den Ortsnamen: Für eine Gemeinde mit knapp 2.900 Einwohnern, 7 Kilometer Luftlinie von Freiburg, ist ein eigener Halt an der Rheintalbahn viel wert. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebringen",
+"faktencheck": "unsicher",
+"id": "391-ebringen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "katholisch geblieben neben evangelischem Nachbarn",
+"rang": 8,
 "familie": "B",
-"sorte": "Klassiker",
+"sorte": "Geschichte",
 "ort": "Ebringen",
 "steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Ebringen hat die Telefonvorwahl 07664.",
-"Ebringen hat die Postleitzahl 89285.",
-"Ebringens Gemarkung umfasst rund 8 Quadratkilometer."
+"In der Reformation wurde Ebringen evangelisch.",
+"Das Ortswappen zeigt Jagdhörner, Rebstock und Rebmesser.",
+"Von der Schneeburg zog die Ortsherrschaft ins Dorf."
 ],
 "art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Gelogen war die Postleitzahl: Ebringen hat die 79285. Verdächtiger wirkt vielleicht die Vorwahl, weil kaum jemand solche Ziffern kennt. Doch Postleitzahlen mit 79 sind typisch für die Gegend um Freiburg, eine führende 89 passt nicht in den Breisgau. Die Lüge war 2.",
-"quelle": "Wikidata P281",
-"faktencheck": "bestätigt",
-"id": "391-ebringen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Ebringen",
-"steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie hoch war die Wahlbeteiligung in Ebringen bei der Bundestagswahl 2025?",
-"optionen": [
-"unter 90 %",
-"90 bis unter 92 %",
-"92 bis unter 94 %",
-"94 % und mehr"
-],
-"art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Ebringen bei 89,5 Prozent. Wer von der Nähe zu Freiburg und den feinen oberen Spannen auf über 90 Prozent schloss, lag nur knapp daneben. Ebringen blieb knapp darunter. Richtig war 1.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "391-ebringen/v0.8/4",
+"rueckseite": "Du hattest [Option] getippt. Das Rebmesser im Wappen klingt erfunden, stimmt aber. Gelogen ist die Reformation: Ebringen blieb katholisch, anders als der Nachbarort Wolfenweiler. Christoph von Falkenstein soll Bewohner des Unterdorfs sogar gehindert haben, dort zur Kirche zu gehen. In der katholischen Pfarrkirche St. Gallus und Otmar stehen Grabdenkmäler von Sigmund von Falkenstein und seinem Sohn Christoph. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ebringen",
+"faktencheck": "unsicher",
+"id": "391-ebringen/v0.9/6",
 "tisch": false
 },
 {
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Ebringen",
-"steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
-"frage": "Zu welchem Landkreis gehört Ebringen?",
-"optionen": [
-"Emmendingen",
-"Breisgau-Hochschwarzwald",
-"Lörrach",
-"Ortenaukreis"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Ebringen gehört zum Landkreis Breisgau-Hochschwarzwald. Naheliegend wäre, wegen der Lage südwestlich von Freiburg auf Lörrach zu tippen, den Kreis an der Grenze zur Schweiz. Doch der Kreis mit dem Doppelnamen reicht vom Rhein bis in den Hochschwarzwald und umschließt Freiburg fast ringsum. Richtig war 2.",
-"quelle": "dewiki Infobox",
-"faktencheck": "bestätigt",
-"id": "391-ebringen/v0.8/5",
-"tisch": false
-},
-{
+"facette": "POLITIK",
+"charakteristikum": "Wahlbeteiligung weit über dem Land",
+"rang": 10,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Ebringen",
-"steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie weit ist es von Ebringen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"steckbrief": "Rund 2.900 Einwohner, Weinbaugemeinde 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Baden-Württemberg bei 83,4 Prozent. Wie lag Ebringen im Vergleich?",
 "optionen": [
-"unter 80 km",
-"80 bis unter 120 km",
-"120 bis unter 160 km",
-"160 km und mehr"
+"unter dem Landeswert",
+"0 bis unter 7 Punkte darüber",
+"7 bis unter 12 Punkte darüber",
+"12 Punkte und mehr darüber"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer ein besonders wahlfreudiges Dorf vermutet, tippt leicht zu hoch: Ebringen kam auf 89,5 Prozent, 6,1 Punkte über dem Landeswert. Damit gaben fast neun von zehn Wahlberechtigten ihre Stimme ab, in einem Weinort mit knapp 2.900 Einwohnern vor den Toren Freiburgs. Stärkste Kraft wurde die CDU vor den Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "391-ebringen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Eisenerzbergwerk im Weinort",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ebringen",
+"steckbrief": "Rund 2.900 Einwohner, Weinbaugemeinde 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Am Schönberg bei Ebringen lief von 1937 bis 1942 ein Bergwerk. Was wurde dort gefördert?",
+"optionen": [
+"Dort wurde Silbererz gefördert.",
+"Dort wurde Steinkohle gefördert.",
+"Dort wurde Eisenerz gefördert.",
+"Dort wurde Bleierz gefördert."
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Von Ebringen bis Stuttgart sind es 138 Kilometer Luftlinie. Wer an ein Land denkt, das man schnell durchquert, schätzt kürzer. Doch zwischen dem Breisgau und Stuttgart liegt der ganze Schwarzwald. Richtig war 3.",
-"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
-"faktencheck": "bestätigt",
-"id": "391-ebringen/v0.8/6",
+"rueckseite": "Du hattest [Option] getippt. Silber und Blei liegen nahe, denn der Schwarzwald ist für alten Erzbergbau bekannt. Am Schönberg ging es aber um kalkiges Eisenerz mit rund 20 Prozent Eisen; man brauchte es zur Verhüttung kieseliger Erze aus dem Lahn-Dill-Gebiet und Skandinavien. 1,4 Millionen Tonnen kamen aus 38,5 Kilometern Stollen bei Sankt Georgen und Ebringen. Als Lothringen wieder zum Deutschen Reich gehörte, endete der Abbau. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ebringen.de/unsere-gemeinde/kurzportrait/bergbau-und-geologie",
+"faktencheck": "korrigiert",
+"id": "391-ebringen/v0.9/8",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "GESCHICHTE",
+"charakteristikum": "Schlachtenkreuz über einem Massengrab",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Ebringen",
-"steckbrief": "Gemeinde 7 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie viele Menschen wohnen in Ebringen?",
+"steckbrief": "Gut 2.800 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Am Bohl, einem westlichen Ausläufer des Schönbergs, erinnert ein Schlachtenkreuz an die Toten des 3. August 1644. Wer kämpfte dort gegeneinander?",
 "optionen": [
-"unter 1.000",
-"1.000 bis unter 1.800",
-"1.800 bis unter 2.500",
-"2.500 und mehr"
+"Bayern und Franzosen kämpften dort.",
+"Schweden und Spanier kämpften dort.",
+"Preußen und Österreicher kämpften dort.",
+"Badener und Württemberger kämpften dort."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Beim Dreißigjährigen Krieg denkt man zuerst an die Schweden. Am 3. August 1644 versuchten aber zwei französische Armeen unter Turenne und dem Herzog von Enghien, das auf dem Bohl verschanzte bayerische Heer unter Franz von Mercy zu schlagen. Der Reitergeneral Jan von Werth sagte, so blutig habe er es in 22 Dienstjahren nie erlebt. Für ein Weindorf liegt damit ein Stück europäischer Kriegsgeschichte am eigenen Wahrzeichen, dem Schönberg. Richtig war 1.",
+"quelle": "Badische Zeitung, „Die Schlacht am Bohl“",
+"faktencheck": "korrigiert",
+"id": "391-ebringen/v0.9/9",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Naturwaldpfad am Hausberg",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Ebringen",
+"steckbrief": "Rund 2.900 Einwohner, 7 km südwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Ebringen?",
+"optionen": [
+"ein Hallenbad",
+"ein Heimatmuseum",
+"eine Sommerrodelbahn",
+"ein Naturwald-Lehrpfad"
 ],
 "art": "richtig",
 "loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ende 2025 zählte Ebringen 2.852 Einwohner. Wer bei einem Ort vor den Toren Freiburgs an ein kleines Dorf denkt, schätzt tiefer. Ebringen ist aber größer, als viele vermuten. Richtig war 4.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "391-ebringen/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Ein Hallenbad oder Museum würde man in einem Ort mit knapp 2.900 Einwohnern eher suchen. Ebringen setzt auf den NatURWALDpfad am Schönberg: Er führt durch Naturwald, der bedrohten Tier- und Pflanzenarten als Rückzug dient, mit Aussichtsplattformen, Informationstafeln und Blickröhren. Die Gemeinde vermittelt damit Naturwissen und setzt Klimaschutz um, gedacht für Kinder, Jugendliche und Wanderer. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ebringen.de/freizeit-erlebnis/aktiv-in-ebringen/naturwaldpfad; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "391-ebringen/v0.9/10",
 "tisch": false
 }
 ],
-"anschluss_von": "390-au-breisgau",
+"anschluss_von": "436-guenterstal",
 "anschluss": [
-"Einwohner: Ebringen hat fast doppelt so viele wie Au.",
-"Bundestagswahl 2025: In Ebringen vorne CDU, in Au die Grünen."
+"Ebringen und Günterstal hatten 2025 fast dieselbe Wahlbeteiligung.",
+"In Ebringen gewann 2025 die CDU, in Günterstal die Grünen."
 ],
 "anschluesse": {
 "387-ebnet": [
@@ -6329,8 +6895,8 @@ window.QA_DATEN = {
 "Merzhausen hat fast doppelt so viele Einwohner wie Ebringen."
 ],
 "390-au-breisgau": [
-"Einwohner: Ebringen hat fast doppelt so viele wie Au.",
-"Bundestagswahl 2025: In Ebringen vorne CDU, in Au die Grünen."
+"Bundestagswahl 2025: In Au lagen die Grünen vorn, in Ebringen die CDU.",
+"Ebringen hat fast doppelt so viele Einwohner wie Au."
 ],
 "392-schallstadt": [
 "Schallstadt hat zweieinhalbmal so viele Einwohner wie Ebringen."
@@ -6401,11 +6967,41 @@ window.QA_DATEN = {
 "11-emmendingen": [
 "Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Ebringen zum Landkreis Breisgau-Hochschwarzwald.",
 "Emmendingen hat gut zehnmal so viele Einwohner wie Ebringen."
+],
+"436-guenterstal": [
+"Ebringen und Günterstal hatten 2025 fast dieselbe Wahlbeteiligung.",
+"In Ebringen gewann 2025 die CDU, in Günterstal die Grünen."
 ]
 },
 "ags": "08315028",
 "ortsteil": false,
-"km_vom_vorigen": 4.0
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Weinbaugemeinde mit knapp 2.900 Einwohnern am Schönberg (644 Meter), 7 Kilometer südwestlich von Freiburg, gut 8 Quadratkilometer Fläche."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Schloss der St. Galler Statthalter, heute Rathaus; dazu Burgruine Schneeburg, alamannisches Gräberfeld und Schlachtenkreuz am Bohl."
+},
+{
+"facette": "ALLTAG",
+"text": "Weinbau dominiert die Landwirtschaft, mit Winzergenossenschaft Ebringen und Weingut Missbach; Gewerbegebiet im Unterdorf."
+},
+{
+"facette": "FREIZEIT",
+"text": "Ebringer Brunnenweg, Markgräfler Wiiwegli, Südschwarzwald-Radweg, Himmelreich-Jakobusweg, Olympiabrunnen, Weintage und Weihnachtsmarkt rund ums Schloss."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhalt Ebringen an der Rheintalbahn, Grundschule Schönbergschule, Postleitzahl 79285, Vorwahl 07664."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU mit 32,6 Prozent vor Grünen und SPD; Gemeinderat zur Hälfte mit Frauen besetzt."
+}
+],
+"km_vom_vorigen": 6.1
 },
 {
 "slug": "392-schallstadt",
@@ -6414,189 +7010,216 @@ window.QA_DATEN = {
 "lon": 7.75028,
 "karten": [
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Geburtsort des Amerika-Namensgebers",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Schallstadt",
-"steckbrief": "Gemeinde an der Badischen Weinstraße mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
-"frage": "Der Ortsname klingt nach Lärm. Wie deutet ihn die Ortsgeschichte?",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Martin Waldseemüller, auf dessen Weltkarte zum ersten Mal „America“ stand, kam im Schallstädter Ortsteil Wolfenweiler zur Welt. In welchem Haus vermutlich?",
 "optionen": [
-"Als Stätte, wo Hörige und Leibeigene wohnten.",
-"Als Ort, an dem ein Echo widerhallt.",
-"Als Ort einer früheren Glockengießerei.",
-"Als Ort, an dem ein Wächter ins Horn blies."
+"Er kam vermutlich im Pfarrhaus zur Welt.",
+"Er kam vermutlich in einer Schmiede zur Welt.",
+"Er kam vermutlich in einer Mühle zur Welt.",
+"Er kam vermutlich im Rathaus zur Welt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Gelehrten denkt man eher an ein Pfarrhaus oder ein Amtsgebäude. Als sein Geburtshaus vermutet die Gemeinde aber die Binzenmühle, und die gibt es bis heute. Auf Waldseemüllers Weltkarte erschien zum ersten Mal der Name „America“. Zum Jubiläum der Karte benannte die Gemeinde eine Straße nach ihm. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte",
+"faktencheck": "korrigiert",
+"id": "392-schallstadt/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Skulpturengarten im Bambuswald",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Am Ortsausgang des Schallstädter Ortsteils Mengen wächst ein Wald, in dem ein Verein bis 2015 einen Skulpturengarten betrieb. Woraus besteht dieser Wald?",
+"optionen": [
+"Er besteht aus alten Esskastanien.",
+"Er besteht aus Mammutbäumen.",
+"Er besteht aus Ginkgobäumen.",
+"Er besteht aus Bambus."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Esskastanien liegen nahe, denn sie wachsen am Oberrhein vielerorts. Hier aber wächst Bambus. Im Bambuswald am Ortsausgang von Mengen zeigte der Verein bambutopia bis 2015 einen Skulpturengarten. Zwischen Reben, Rheinebene und Tuniberg wirkt der Bambus fremd, und den Wald gibt es bis heute. Richtig war 4.",
+"quelle": "www.bambutopia.de",
+"faktencheck": "korrigiert",
+"id": "392-schallstadt/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Hügel ganz aus Reben",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Südlich von Schallstadt und Wolfenweiler liegt der Batzenberg, ein Hügel ganz ohne Wald. Was bedeckt ihn?",
+"optionen": [
+"Er ist lückenlos mit Reben bepflanzt.",
+"Er ist eine offene Schafweide.",
+"Er ist eine Wacholderheide unter Naturschutz.",
+"Er trägt einen großen Solarpark."
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Beim heutigen Namen denkt man an Schall und Echo, das liegt nahe. Die Ortsgeschichte leitet ihn aber vom althochdeutschen Scalc ab, Knecht oder Leibeigener, und deutet Schallstadt als Stätte, wo Hörige und Leibeigene wohnten. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Ortsteile",
+"rueckseite": "Du hattest [Option] getippt. Kahle Kuppen kennt man von Heiden und Weiden, daher liegt das nahe. Der Batzenberg aber ist komplett mit Reben bepflanzt, vor allem mit Gutedel; die Gemeinde nennt ihn den größten geschlossenen Weinberg Deutschlands. Schallstadt gilt seit jeher als fortschrittliche Winzergemeinde, und vom fast ebenen Höhenweg reicht der Blick über die Rheinebene bis zum Schwarzwald. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Weinbau-Gewerbe/Wein",
 "faktencheck": "korrigiert",
-"id": "392-schallstadt/v0.8/1",
+"id": "392-schallstadt/v0.9/3",
 "tisch": false
 },
 {
-"familie": "C",
-"sorte": "Klassiker",
+"facette": "ALLTAG",
+"charakteristikum": "Geldtransporteur mit Hauptsitz im Weinort",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
 "ort": "Schallstadt",
-"steckbrief": "Gemeinde an der Badischen Weinstraße, 9 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner hat die Gemeinde Schallstadt?",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "In Schallstadt hat die Firma Ziemann ihren Hauptsitz, ein bedeutender Wirtschaftsfaktor der Gemeinde. Was ist ihr Kerngeschäft?",
 "optionen": [
-"unter 4.000",
-"4.000 bis unter 8.000",
-"8.000 bis unter 12.000",
-"12.000 und mehr"
+"Sie liefert Kühlware an Supermärkte.",
+"Sie transportiert Bargeld und Wertsachen.",
+"Sie vermietet Baukräne und Gerüste.",
+"Sie füllt Mineralwasser ab."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Wer an ein Winzerdorf an der Weinstraße denkt, schätzt leicht zu niedrig. Doch die Gemeinde vereint die Dörfer Schallstadt, Wolfenweiler und Mengen und liegt nah an Freiburg. Ende 2025 zählte sie 6.966 Einwohner. Richtig war 2.",
-"quelle": "Wikidata P1082, Stand 2025-12-31",
-"faktencheck": "bestätigt",
-"id": "392-schallstadt/v0.8/2",
+"rueckseite": "Du hattest [Option] getippt. In einer Weingegend denkt man eher an Getränke oder Lebensmittel. Ziemann aber transportiert Geld und Wertsachen; dazu kommen Kuriertransporte, Cash-Center und der Service für Selbstbedienungsgeräte. Die Gruppe arbeitet nach eigenen Angaben in ganz Deutschland. Für einen Weinort mit rund 7.000 Einwohnern ist so ein Hauptsitz ungewöhnlich. Richtig war 2.",
+"quelle": "www.ziemann-gruppe.de",
+"faktencheck": "korrigiert",
+"id": "392-schallstadt/v0.9/4",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Ortsname erzählt von Unfreien",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie deutet die Gemeinde selbst den Namen Schallstadt?",
+"optionen": [
+"Der Name meint einen Ort mit Echo.",
+"Der Name meint eine Siedlung von Schmieden.",
+"Der Name meint eine Stätte, wo Hörige wohnten.",
+"Der Name meint einen ummauerten Marktort."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer „Schall“ hört, denkt an Klang, wer „Stadt“ hört, an Mauern und Markt. Die Gemeinde deutet den Namen anders: Althochdeutsch „Scalc“ steht für Schalk, Knecht oder Leibeigenen, Schallstadt also wohl für die Stätte, wo Hörige wohnten. Ganz ausgeschlossen ist aber nicht, dass ein Mann namens Scalc dahintersteckt; heute leben hier rund 7.000 Menschen in drei Ortsteilen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Ortsteile",
+"faktencheck": "korrigiert",
+"id": "392-schallstadt/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Bahnhalt mit dem Namen des Nachbarorts",
+"rang": 4,
 "familie": "B",
 "sorte": "Geschichte",
 "ort": "Schallstadt",
-"steckbrief": "Gemeinde mit den Ortsteilen Schallstadt, Wolfenweiler und Mengen, rund 7.000 Einwohner, 9 km südwestlich von Freiburg im Breisgau.",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau, mit zwei Bahnhalten.",
 "frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
 "optionen": [
-"Ein Jakobsweg ins Elsass führt über Schallstadts Gemarkung.",
-"Wolfenweiler kam einst an die Grafen von Freiburg.",
-"Im Wappen der Gemeinde schreitet ein schwarzer Bär."
+"Der Bahnhof Schallstadt liegt an der Rheintalbahn.",
+"Der Haltepunkt Ebringen liegt im Ort Ebringen.",
+"Wolfenweiler und Mengen gehören zur Gemeinde Schallstadt."
 ],
 "art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Bär wirkt glaubhaft, er ist ein beliebtes Wappentier. Das Gemeindewappen vereint aber Motive aus den Wappen der Ortsteile: ein Hufeisen, eine Weintraube und unten einen schreitenden schwarzen Wolf. Jakobsweg und Grafen von Freiburg stimmen. Die Lüge war 3.",
-"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name führt in die Irre: Wer „Haltepunkt Ebringen“ liest, sucht ihn im Nachbarort. Tatsächlich liegt er auf Schallstädter Gemeindegebiet, am Ortsrand von Wolfenweiler, und trägt nur den Namen der Nachbargemeinde. So hat Schallstadt mit rund 7.000 Einwohnern zwei Halte an der Rheintalbahn, und einer davon heißt nach dem Nachbarn. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Schallstadt",
 "faktencheck": "bestätigt",
-"id": "392-schallstadt/v0.8/3",
+"id": "392-schallstadt/v0.9/6",
 "tisch": false
 },
 {
+"facette": "LAGE",
+"charakteristikum": "kompakte Gemarkung, dicht besiedelt",
+"rang": 9,
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Schallstadt",
-"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Schallstadt bei der Bundestagswahl 2025?",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern in drei Ortsteilen, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Gemarkung der Gemeinde Schallstadt?",
 "optionen": [
-"unter 20 %",
-"20 bis unter 25 %",
-"25 bis unter 30 %",
-"30 % und mehr"
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Bei Freiburg denkt man an eine Hochburg der Grünen, das legt eine knappe Wahl nahe. In Schallstadt lag aber die CDU klar vorn: Sie holte 30,5 Prozent, die Grünen folgten als Zweite. Richtig war 4.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "392-schallstadt/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Schallstadt",
-"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
-"frage": "Der im Ortsteil Wolfenweiler geborene Kartograph Martin Waldseemüller schuf 1507 die erste Weltkarte mit dem Namen America. Wer gab sie in Auftrag?",
-"optionen": [
-"Der Herzog von Lothringen gab sie in Auftrag.",
-"Der Herzog von Württemberg gab sie in Auftrag.",
-"Der König von Portugal gab sie in Auftrag.",
-"Der Herzog von Bayern gab sie in Auftrag."
+"unter 22 km²",
+"22 bis unter 35 km²",
+"35 bis unter 50 km²",
+"50 km² und mehr"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Portugal liegt nahe, denn die Karte beruhte auf Reiseberichten Amerigo Vespuccis. Auftraggeber war aber Herzog René II. von Lothringen, mitgearbeitet hat Matthias Ringmann. Waldseemüllers Geburtshaus war vermutlich die Binzenmühle. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte",
-"faktencheck": "korrigiert",
-"id": "392-schallstadt/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Schallstadt",
-"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner leben in Schallstadt im Schnitt auf einem Quadratkilometer?",
-"optionen": [
-"unter 200",
-"200 bis unter 500",
-"500 bis unter 1.000",
-"1.000 und mehr"
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Freiburg lässt an dichte Vorstadt denken. Doch den Großteil der Gemarkung nimmt die Landwirtschaft ein, dazu kommt Wald. So leben auf jedem Quadratkilometer 356 Einwohner. Richtig war 2.",
-"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"rueckseite": "Du hattest [Option] getippt. Wer drei Ortsteile, Rebhänge und den Hohfirst vor Augen hat, schätzt leicht zu groß. Die Gemarkung misst 19,56 Quadratkilometer. Bei rund 7.000 Einwohnern sind das gut 350 Menschen je Quadratkilometer, für eine Weinbaugemeinde eine stattliche Dichte. Richtig war 1.",
+"quelle": "Wikidata P2046; Einwohner: Wikidata P1082, Stand 2025-12-31",
 "faktencheck": "bestätigt",
-"id": "392-schallstadt/v0.8/6",
+"id": "392-schallstadt/v0.9/7",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Stapfelhäuser mit Treppenfassaden",
+"rang": 8,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Schallstadt",
 "steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
-"frage": "Die Gemeinde Schallstadt hat mehrere Ortsteile. Welcher ist am frühesten sicher schriftlich belegt?",
+"frage": "Die Gemeinde nennt die Stapfelhäuser als typisch für Schallstadt. Was ist an ihnen besonders?",
 "optionen": [
-"Der Ortsteil Schallstadt ist zuerst sicher belegt.",
-"Der Ortsteil Wolfenweiler ist zuerst sicher belegt.",
-"Der Ortsteil Mengen ist zuerst sicher belegt.",
-"Der Ortsteil Leutersberg ist zuerst sicher belegt."
+"Ihre Dächer sind mit Stroh gedeckt.",
+"Ihre Fassaden enden oben treppenförmig.",
+"Ihre Fassaden sind mit Schiefer verkleidet.",
+"Sie stehen auf hölzernen Stelzen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem besonderen Haustyp denkt man zuerst an Dach oder Verkleidung, Stroh und Schiefer kennt man aus anderen Gegenden. Bei den Stapfelhäusern zählt die Fassade: Sie ist oben treppenförmig bekrönt. Die Gemeinde zählt sie zu ihren Kennzeichen; wer durch Schallstadt fährt, kann nach diesen gestuften Fassaden Ausschau halten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt",
+"faktencheck": "bestätigt",
+"id": "392-schallstadt/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "ausgezeichneter Naturlehrpfad am Bach",
+"rang": 7,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Schallstadt",
+"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
+"frage": "Im Schallstädter Ortsteil Mengen wurde ein Vorhaben als offizielles Projekt der UN-Dekade Biologische Vielfalt gewürdigt. Was war das?",
+"optionen": [
+"ein Sortengarten mit alten Obstbäumen",
+"ein Auswilderungsgehege für Störche",
+"ein Naturlehrpfad an einem renaturierten Bachlauf",
+"ein Lehrbienenstand mit Wildbienenhotel"
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Dass der Ort, der der Gemeinde den Namen gibt, auch am frühesten belegt ist, liegt nahe. Doch Mengen ist schon 776 als „Maginger marca“ genannt, drei Jahre vor Schallstadt. Für Wolfenweiler gibt es nur unsichere ältere Nennungen, sicher belegt ist es erst 873, Leutersberg erst 1347. Richtig war 3.",
-"quelle": "LEO-BW, Ortslexikon Mengen; Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Ortsteile",
+"rueckseite": "Du hattest [Option] getippt. Obstwiesen, Störche und Bienen sind typische Naturschutzprojekte am Oberrhein. Gewürdigt wurde aber der Naturlehrpfad Brunnengraben in Mengen. Ein Arbeitskreis renaturierte einen Bachlauf und setzte Nistkästen für Turmfalken und Röhren für Steinkäuze; auch Feldlerche und Laubfrosch haben dort wieder ein Zuhause. Das Projekt wurde als offizielles Projekt der UN-Dekade Biologische Vielfalt ausgezeichnet. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Na NEGATIVNACHWEISE neu: 1, 2, 4: Weg (c). Die Gemeinde-Webseite nennt als gewürdigtes Projekt genau eins, den Naturlehrpfad Brunnengraben; die Optionen 1, 2 und 4 sind erfunden.",
 "faktencheck": "korrigiert",
-"id": "392-schallstadt/v0.8/7",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Schallstadt",
-"steckbrief": "Gemeinde mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
-"frage": "Woher hat der Schallstadter Ortsteil Mengen nach der Ortsgeschichte seinen Namen?",
-"optionen": [
-"Er kommt von großen Getreidemengen.",
-"Er geht auf einen germanischen Personennamen zurück.",
-"Er geht auf ein keltisches Flusswort zurück.",
-"Er erinnert an einen römischen Gutshof."
-],
-"art": "richtig",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Beim heutigen Namen denkt man an große Mengen, etwa von Korn, das liegt nahe. Die Ortsgeschichte führt Mengen aber auf den germanischen Personennamen Mago zurück: Maginga bedeutet „bei den Leuten des Mago“. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Ortsteile",
-"faktencheck": "korrigiert",
-"id": "392-schallstadt/v0.8/8",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Schallstadt",
-"steckbrief": "Gemeinde an der Badischen Weinstraße mit rund 7.000 Einwohnern, 9 km südwestlich von Freiburg im Breisgau.",
-"frage": "Vor der Namensvereinfachung 1977 trug die Gemeinde einen Doppelnamen. Welchen?",
-"optionen": [
-"Die Gemeinde hieß Schallstadt-Mengen.",
-"Die Gemeinde hieß Mengen-Wolfenweiler.",
-"Die Gemeinde hieß Schallstadt-Leutersberg.",
-"Die Gemeinde hieß Schallstadt-Wolfenweiler."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Schallstadt-Mengen liegt nahe, weil Mengen heute dazugehört. Der Doppelname stammt aber vom Zusammenschluss von Schallstadt und Wolfenweiler; Mengen kam erst später hinzu. Danach wurde aus Schallstadt-Wolfenweiler schlicht Schallstadt. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte",
-"faktencheck": "bestätigt",
-"id": "392-schallstadt/v0.8/9",
+"id": "392-schallstadt/v0.9/9",
 "tisch": false
 }
 ],
 "anschluss_von": "391-ebringen",
 "anschluss": [
-"Einwohner: Schallstadt hat über doppelt so viele wie Ebringen.",
-"Bundestagswahl 2025: CDU in Ebringen stärker als in Schallstadt."
+"Schallstadt hat fast zweieinhalbmal so viele Einwohner wie Ebringen.",
+"Bei der Bundestagswahl 2025 wählte Ebringen noch eifriger als Schallstadt."
 ],
 "anschluesse": {
 "387-ebnet": [
@@ -6616,8 +7239,8 @@ window.QA_DATEN = {
 "Schallstadt hat gut viereinhalbmal so viele Einwohner wie Au."
 ],
 "391-ebringen": [
-"Einwohner: Schallstadt hat über doppelt so viele wie Ebringen.",
-"Bundestagswahl 2025: CDU in Ebringen stärker als in Schallstadt."
+"Schallstadt hat fast zweieinhalbmal so viele Einwohner wie Ebringen.",
+"Bei der Bundestagswahl 2025 wählte Ebringen noch eifriger als Schallstadt."
 ],
 "393-bad-krozingen": [
 "Bad Krozingen hat gut dreimal so viele Einwohner wie Schallstadt.",
@@ -6693,6 +7316,32 @@ window.QA_DATEN = {
 },
 "ags": "08315098",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 7.000 Einwohner auf 19,56 Quadratkilometern, 9 km südwestlich von Freiburg, an der Badischen Weinstraße; Gipfel Hohfirst, 496 Meter."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Drei Ortsteile: Schallstadt, Wolfenweiler und Mengen; in Wolfenweiler wurde der Kartograph Martin Waldseemüller geboren, ein Denkmal erinnert an ihn."
+},
+{
+"facette": "ALLTAG",
+"text": "Winzergemeinde am Batzenberg mit viel Gutedel; Hauptsitz des Geldtransporteurs Ziemann; Gewerbeverein gemeinsam mit Ebringen und Pfaffenweiler."
+},
+{
+"facette": "FREIZEIT",
+"text": "Markgräfler Wiiwegli, Südschwarzwald-Radweg, Badischer Weinradweg, Jakobsweg, Weinlehrpfad am Batzenberg, Skulpturengarten Bambutopia, Alemannenhalle."
+},
+{
+"facette": "INFRA",
+"text": "Zwei Bahnhalte an der Rheintalbahn, Schallstadt und Ebringen; Rehaklinik Lindenhof; Partnergemeinde Rosà in Italien."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn mit 30,5 Prozent, Wahlbeteiligung 88 Prozent, deutlich über dem Landeswert von 83,4."
+}
+],
 "km_vom_vorigen": 2.3
 },
 {
@@ -6702,189 +7351,216 @@ window.QA_DATEN = {
 "lon": 7.7025,
 "karten": [
 {
+"facette": "ALLTAG",
+"charakteristikum": "Händlerfamilie Litschgi, „Fugger des Breisgaus“",
+"rang": 3,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bad Krozingen",
-"steckbrief": "Staatlich anerkanntes Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
-"frage": "1911 schoss bei einer Bohrung in Krozingen heißes Wasser empor. Wonach suchte man bei dieser Bohrung?",
+"steckbrief": "Kurstadt mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg.",
+"frage": "Die Krozinger Händlerfamilie Litschgi ist als „Fugger des Breisgaus“ bekannt. Woher war sie im 17. Jahrhundert zugezogen?",
 "optionen": [
-"Man suchte nach einer Heilquelle für Kurgäste.",
-"Man suchte nach Trinkwasser für das Dorf.",
-"Man suchte nach silberhaltigem Erz.",
-"Man suchte nach Erdöl."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Eine Heilquelle liegt nahe, schließlich ist Bad Krozingen heute ein Heilbad. Doch gesucht wurde nach Erdöl. Stattdessen schoss bei der Bohrung kohlensäurereiches Thermalwasser empor, begleitet von einer mächtigen Dampfwolke. Daraus wurde die Nena-Quelle. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Staatlich-anerkanntes-Heilbad",
-"faktencheck": "bestätigt",
-"id": "393-bad-krozingen/v0.8/1",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bad Krozingen",
-"steckbrief": "Stadt mit rund 21.600 Einwohnern und mehreren Ortsteilen, 14 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie groß ist die Fläche der Stadt Bad Krozingen samt Ortsteilen?",
-"optionen": [
-"unter 40 km²",
-"40 bis unter 60 km²",
-"60 bis unter 90 km²",
-"90 km² und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Mit Ortsteilen wie Hausen, Tunsel und Schlatt wirkt die Stadt weitläufig, das verleitet zu großen Schätzungen. Tatsächlich misst die Fläche 35,69 Quadratkilometer. Richtig war 1.",
-"quelle": "Wikidata P2046",
-"faktencheck": "bestätigt",
-"id": "393-bad-krozingen/v0.8/2",
-"tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Bad Krozingen",
-"steckbrief": "Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Ortsburg wurde beim Bau einer Umgehungsstraße wiederentdeckt.",
-"Kloster St. Blasien hatte in Krozingen eine Propstei.",
-"Die Freiherren von Pfirt herrschten einst über Krozingen."
-],
-"art": "luege",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Der fremd klingende Name Pfirt wirkt erfunden, doch die Freiherren von Pfirt herrschten wirklich über Krozingen. Auch das Kloster St. Blasien verwaltete von seiner Krozinger Propstei aus seine Breisgauer Güter. Gelogen war die Umgehungsstraße: Erste Hinweise auf die Ortsburg kamen bei den Bauarbeiten für das neue Rathaus zutage. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Historisches-Stadtarchiv",
-"faktencheck": "korrigiert",
-"id": "393-bad-krozingen/v0.8/3",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Klassiker",
-"ort": "Bad Krozingen",
-"steckbrief": "Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
-"frage": "Welche Partei holte in Bad Krozingen bei der Bundestagswahl 2025 die zweitmeisten Zweitstimmen?",
-"optionen": [
-"Die Grünen",
-"SPD",
-"AfD",
-"CDU"
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Freiburg spricht für die Grünen, und es war knapp: Hinter der CDU mit 31,7 Prozent kam die AfD mit 16,8 Prozent, dicht gefolgt von den Grünen mit 16 und der SPD mit 15,2 Prozent. Richtig war 3.",
-"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
-"faktencheck": "bestätigt",
-"id": "393-bad-krozingen/v0.8/4",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Bad Krozingen",
-"steckbrief": "Stadt mit rund 21.600 Einwohnern und mehreren Ortsteilen, 14 km südwestlich von Freiburg im Breisgau.",
-"frage": "Um 1270 entstand im heutigen Ortsteil Schlatt ein Kloster, das zugleich ein Pflegeheim war. Für wen?",
-"optionen": [
-"Es nahm Waisenkinder aus der Umgebung auf.",
-"Es pflegte alte Witwen ohne Familie.",
-"Es versorgte Menschen mit Geisteskrankheiten.",
-"Es pflegte Menschen, die an Lepra litten."
-],
-"art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Waisenkinder liegen nahe, denn viele Klöster nahmen sie auf. Doch in Schlatt entstand ein Lazariterkloster, ein Pflegeheim für Leprakranke. Wegen wirtschaftlicher Schwierigkeiten schloss sich der Konvent später dem Johanniterorden an. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/ortsteil/Schlatt-district1534",
-"faktencheck": "korrigiert",
-"id": "393-bad-krozingen/v0.8/5",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Klassiker",
-"ort": "Bad Krozingen",
-"steckbrief": "Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
-"frage": "Wie viele Einwohner leben in Bad Krozingen im Schnitt auf einem Quadratkilometer?",
-"optionen": [
-"unter 700",
-"700 bis unter 1.000",
-"1.000 bis unter 1.500",
-"1.500 und mehr"
-],
-"art": "richtig",
-"loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe nahe Freiburg wirkt dicht bebaut. Doch zur Stadt gehören auch Ortsteile wie Schlatt mit Weinbau, Erdbeeren und Spargel. Im Schnitt kommen etwa 606 Einwohner auf einen Quadratkilometer. Richtig war 1.",
-"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
-"faktencheck": "bestätigt",
-"id": "393-bad-krozingen/v0.8/6",
-"tisch": false
-},
-{
-"familie": "A",
-"sorte": "Geschichte",
-"ort": "Bad Krozingen",
-"steckbrief": "Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
-"frage": "Das Herz-Zentrum in Bad Krozingen, heute Teil der Universitätsklinik Freiburg, eröffnete 1972. Wie hieß es ursprünglich?",
-"optionen": [
-"Es hieß Sebastian-Kneipp-Herzsanatorium.",
-"Es hieß Benedikt-Kreutz-Rehabilitationszentrum.",
-"Es hieß Johann-Peter-Hebel-Kurklinik.",
-"Es hieß Albert-Schweitzer-Herzklinik."
+"Die Familie stammte aus Tirol.",
+"Die Familie stammte aus dem Aostatal.",
+"Die Familie stammte vom Comer See.",
+"Die Familie stammte aus Graubünden."
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. Kneipp liegt nahe: Sein Name steht für Wasserkuren, und Bad Krozingen ist ein Heilbad. Doch das Haus begann als Benedikt-Kreutz-Rehabilitationszentrum. Heute prägt es den Gesundheitsstandort Bad Krozingen. Richtig war 2.",
-"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Historisches-Stadtarchiv",
-"faktencheck": "bestätigt",
-"id": "393-bad-krozingen/v0.8/7",
+"rueckseite": "Du hattest [Option] getippt. Die Litschgis kamen aus dem Aostatal. Graubünden liegt nahe, weil der Name auf -i nach Schweiz klingt und viele Alpenhändler damals nordwärts zogen. In Krozingen wurden sie eine einflussreiche Handelsfamilie. Wer die Basler Straße entlangfährt, kommt an Litschgihaus und Litschgikeller vorbei; im Litschgihaus sitzt heute ein Museum. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Historisches-Stadtarchiv; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "393-bad-krozingen/v0.9/1",
 "tisch": false
 },
 {
+"facette": "GESCHICHTE",
+"charakteristikum": "Thermalquelle bei Ölsuche gefunden",
+"rang": 1,
 "familie": "A",
 "sorte": "Geschichte",
 "ort": "Bad Krozingen",
-"steckbrief": "Stadt mit rund 21.600 Einwohnern und mehreren Ortsteilen, 14 km südwestlich von Freiburg im Breisgau.",
-"frage": "Mitte der 1960er-Jahre entstand im heutigen Ortsteil Hausen ein Wasserwerk. Wer baute es?",
+"steckbrief": "Kurstadt mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg.",
+"frage": "1911 stieß eine Bohrung in Krozingen auf warmes Wasser. Wonach hatte man eigentlich gesucht?",
 "optionen": [
-"Die damals eigenständige Gemeinde Hausen baute es.",
-"Die Gemeinde Bad Krozingen baute es.",
-"Die Stadtwerke Basel bauten es.",
-"Die Stadtwerke Freiburg bauten es."
+"Man suchte nach Steinkohle.",
+"Man suchte Thermalwasser für ein Kurbad.",
+"Man suchte nach Erdöl.",
+"Man suchte nach Silbererz."
 ],
 "art": "richtig",
-"loesung": 4,
-"rueckseite": "Du hattest [Option] getippt. Ein Wasserwerk im Dorf baut meist das Dorf selbst, das liegt nahe. Doch in Hausen bauten es die Stadtwerke Freiburg. Inzwischen liefert es auch Wasser nach Bad Krozingen und Tunsel. Richtig war 4.",
-"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/ortsteil/Hausen-district1535",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gebohrt wurde nach Erdöl, die Nena-Quelle war ein Zufallsfund. Ein geplantes Kurbad liegt nahe, weil der Ort heute Kurort ist – doch die Quelle kam vor dem Bad. Augenzeugen erzählten von einer mächtigen Dampfwolke um den Bohrturm. Aus dieser Bohrung wurde die Grundlage des Kurorts und später das „Bad“ im Ortsnamen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Staatlich-anerkanntes-Heilbad",
 "faktencheck": "bestätigt",
-"id": "393-bad-krozingen/v0.8/8",
+"id": "393-bad-krozingen/v0.9/2",
 "tisch": false
 },
 {
-"familie": "A",
+"facette": "INFRA",
+"charakteristikum": "Universitätsherzzentrum als größter Arbeitgeber",
+"rang": 2,
+"familie": "D",
 "sorte": "Geschichte",
 "ort": "Bad Krozingen",
-"steckbrief": "Heilbad mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg im Breisgau.",
-"frage": "1146 oder 1147 machte ein berühmter Prediger in Krozingen Station. Wer war es?",
+"steckbrief": "Kurstadt mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg.",
+"frage": "Welche dieser vier Einrichtungen gibt es in Bad Krozingen?",
 "optionen": [
-"Es war Bernhard von Clairvaux.",
-"Es war Franz von Assisi.",
-"Es war Albertus Magnus.",
-"Es war Meister Eckhart."
+"ein Herzzentrum",
+"eine Saline",
+"ein Kernkraftwerk",
+"ein Bergbaumuseum"
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Franz von Assisi fällt vielen zuerst ein, wenn von großen Predigern des Mittelalters die Rede ist. Wie Albertus Magnus und Meister Eckhart lebte er aber erst später. In Krozingen hielt sich damals Bernhard von Clairvaux auf. Richtig war 1.",
-"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Historisches-Stadtarchiv",
+"rueckseite": "Du hattest [Option] getippt. Richtig ist das Universitätsherzzentrum, zuerst als Benedikt-Kreutz-Rehabilitationszentrum eröffnet, heute getragen von der Universitätsklinik Freiburg. Eine Saline liegt nahe, weil viele Badeorte von Sole leben; hier ist es aber Thermalwasser. Laut Stadt ist das Herzzentrum der größte Arbeitgeber: In einem Ort mit rund 21.600 Einwohnern prägt neben der Therme auch die Herzmedizin den Alltag. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Historisches-Stadtarchiv; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "393-bad-krozingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Neumagen und Möhlin treffen sich",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Krozingen",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg.",
+"frage": "Der Neumagen fließt durch Bad Krozingen. In welchen Fluss mündet er?",
+"optionen": [
+"Er mündet direkt in den Rhein.",
+"Er mündet in die Möhlin.",
+"Er mündet in die Dreisam.",
+"Er mündet in die Elz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Neumagen mündet in die Möhlin, und erst die Möhlin erreicht bei Breisach den Rhein. Der Rhein liegt nahe, weil er der große Fluss der Ebene ist. Bad Krozingen ist damit eine Stadt an zwei Flüssen: Der Neumagen fließt durch die Kernstadt, und die Möhlin prägt auch den Ortsteil Hausen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/ortsteil/Hausen-district1535; Wassergesetz Baden-Württemberg, Anlage 1",
+"faktencheck": "korrigiert",
+"id": "393-bad-krozingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Barockbrücke für die Postkutsche",
+"rang": 4,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bad Krozingen",
+"steckbrief": "Kurstadt mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Altbundespräsident zog hochbetagt nach Bad Krozingen.",
+"Beim Rathausneubau grub man eine mittelalterliche Burg aus.",
+"Die Nepomukbrücke wurde für die Eisenbahn gebaut."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war die Eisenbahn: Die Postlinie von Thurn und Taxis zwischen Frankfurt und Basel hielt in Krozingen und zog den Bau einer neuen Brücke über den Neumagen nach sich. Ihre Statuen zieren noch heute die Nepomukbrücke. Die Bahn liegt nahe, weil der Bahnhof dem Ort später Wachstum brachte. Der Altbundespräsident war Walter Scheel, der 2009 mit 89 Jahren herzog. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/Unser-Bad-Krozingen/Historisches-Stadtarchiv; Deutsche Biographie, www.deutsche-biographie.de/dboS02595.html",
+"faktencheck": "korrigiert",
+"id": "393-bad-krozingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Ebene deutlich über 200 Metern",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Krozingen",
+"steckbrief": "Kurstadt mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg.",
+"frage": "Auf welcher Höhe über dem Meer liegt Bad Krozingen?",
+"optionen": [
+"unter 100 m",
+"100 bis unter 150 m",
+"150 bis unter 200 m",
+"200 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bad Krozingen liegt je nach Quelle auf 224 bis 233 Metern. Tiefer liegt nahe, weil man die Rheinebene für flaches Tiefland hält; doch auch die Ebene liegt hier deutlich über 200 Metern. Aus ihr heben sich nur einzelne Rebhügel wie der Schlatter Berg heraus. Richtig war 4.",
+"quelle": "GRUNDDATEN, Wikidata P2044; dewiki Infobox; Altbestand staedte.json",
 "faktencheck": "bestätigt",
-"id": "393-bad-krozingen/v0.8/9",
+"id": "393-bad-krozingen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Speckbuure-Fest im Ortsteil Tunsel",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Krozingen",
+"steckbrief": "Kurstadt mit rund 21.600 Einwohnern und mehreren Ortsteilen, 14 km südwestlich von Freiburg.",
+"frage": "Im Bad Krozinger Ortsteil Tunsel gibt es das Speckbuure-Fest. Woher hat es seinen Namen?",
+"optionen": [
+"Es heißt nach einem Spitznamen der reichen Tunseler.",
+"Es heißt nach einem alten Schlachtfest im Dorf.",
+"Es heißt nach einer Räucherei, die Speck verkaufte.",
+"Es heißt nach einem Speck-Wettessen der Bauern."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Speckbuure“ war ein liebevoll-spöttischer Übername für die wohlhabenden Tunseler. Ein Schlachtfest liegt nahe, weil Speck nach Metzgete klingt; gemeint war aber der Wohlstand. Tunsel hat sich seinen dörflichen Charakter bewahrt und ist für sein reges Vereinsleben bekannt – der alte Spott ist dort zum Festnamen geworden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/ortsteil/Tunsel-district1529",
+"faktencheck": "bestätigt",
+"id": "393-bad-krozingen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Flößerkanal zur Festung Breisach",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Krozingen",
+"steckbrief": "Kurstadt mit rund 21.600 Einwohnern, 14 km südwestlich von Freiburg.",
+"frage": "In den 1730er Jahren entstand im heutigen Ortsteil Hausen der sogenannte Litschgi-Kanal, benannt nach einem Krozinger Handelsmann. Welchen Zweck nennt die Ortsgeschichte?",
+"optionen": [
+"Er sollte die Felder bewässern.",
+"Er sollte Mühlen antreiben.",
+"Er sollte Holz zu einer Festung flößen.",
+"Er sollte Hochwasser vom Dorf ableiten."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Kanal diente der Flößerei: Mit Wasser der Möhlin trieb man Holz aus dem Schwarzwald zur Festung Breisach. Mühlen liegen nahe, weil viele Kanäle Wasserräder antrieben; die Ortsgeschichte nennt aber den Holztransport. Reste des Kanals sind noch heute an einer Bundesstraße zu sehen: Spuren aus der Zeit, als ein Krozinger Händler Holz bis zur Festung am Rhein schaffen ließ. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/ortsteil/Hausen-district1535",
+"faktencheck": "korrigiert",
+"id": "393-bad-krozingen/v0.9/9",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Lepra-Pflegeheim der Lazariter in Schlatt",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Krozingen",
+"steckbrief": "Kurstadt mit rund 21.600 Einwohnern und mehreren Ortsteilen, 14 km südwestlich von Freiburg.",
+"frage": "Um 1270 entstand im heutigen Ortsteil Schlatt ein Lazariterkloster. Wen pflegte man dort?",
+"optionen": [
+"Man pflegte dort Pestkranke.",
+"Man pflegte dort Leprakranke.",
+"Man pflegte dort Waisenkinder.",
+"Man pflegte dort Geisteskranke."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Lazariterkloster in Schlatt war ein Pflegeheim für Leprakranke. Pest liegt näher, weil sie heute als die Seuche des Mittelalters gilt; Leprakranke aber mussten abseits leben, und Orden wie die Lazariter nahmen sie auf. Viel später knüpfte man daran an: Eine neue Lazariterkommende wurde gegründet, wieder mit karitativer Ausrichtung. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bad-krozingen.de/ortsteil/Schlatt-district1534",
+"faktencheck": "korrigiert",
+"id": "393-bad-krozingen/v0.9/10",
 "tisch": false
 }
 ],
 "anschluss_von": "392-schallstadt",
 "anschluss": [
-"Einwohner: Bad Krozingen hat gut dreimal so viele wie Schallstadt.",
-"Wahlbeteiligung 2025: in Schallstadt höher als in Bad Krozingen."
+"Bad Krozingen hat gut dreimal so viele Einwohner wie Schallstadt.",
+"Schallstadt hatte 2025 eine höhere Wahlbeteiligung als Bad Krozingen."
 ],
 "anschluesse": {
 "387-ebnet": [
@@ -6908,8 +7584,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Ebringen die Grünen, in Bad Krozingen die AfD."
 ],
 "392-schallstadt": [
-"Einwohner: Bad Krozingen hat gut dreimal so viele wie Schallstadt.",
-"Wahlbeteiligung 2025: in Schallstadt höher als in Bad Krozingen."
+"Bad Krozingen hat gut dreimal so viele Einwohner wie Schallstadt.",
+"Schallstadt hatte 2025 eine höhere Wahlbeteiligung als Bad Krozingen."
 ],
 "394-heitersheim": [
 "Bad Krozingen hat fast dreieinhalbmal so viele Einwohner wie Heitersheim.",
@@ -6956,7 +7632,287 @@ window.QA_DATEN = {
 },
 "ags": "08315006",
 "ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 14 km südwestlich von Freiburg, 224 bis 233 Meter hoch; Neumagen und Möhlin fließen durchs Stadtgebiet."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Römische Siedlung, mittelalterliche Ortsburg, Thermalquelle 1911 bei einer Ölbohrung entdeckt; seit 1933 „Bad“, seit 2005 Stadt."
+},
+{
+"facette": "ALLTAG",
+"text": "Rund 21.600 Einwohner auf knapp 36 km²; Heilbad, Herzzentrum, Glas Trösch, ringsum Spargel, Gemüse und Reben."
+},
+{
+"facette": "FREIZEIT",
+"text": "Therme Vita Classica, Freizeitbad Aquarado, Museum im Litschgihaus, JOKI-Kino, Südschwarzwald-Radweg und Oberrhein-Römerradweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof an der Rheintalbahn mit Abzweig nach Staufen, dazu die Halte Bad Krozingen Ost und Oberkrozingen."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU 31,7, AfD 16,8 Prozent; Wahlbeteiligung 82,5 Prozent, knapp unter dem Landeswert."
+}
+],
 "km_vom_vorigen": 5.7
+},
+{
+"slug": "434-staufen",
+"name": "Staufen",
+"lat": 47.88139,
+"lon": 7.73139,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Tango-Museum in der Kleinstadt",
+"rang": 2,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Staufen",
+"steckbrief": "Stadt mit rund 8.400 Einwohnern, 16 km südwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Staufen?",
+"optionen": [
+"ein Museum für Tango und Bandoneons",
+"eine Skisprungschanze",
+"ein Golfplatz",
+"eine Kartbahn"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Golfplatz wirkt am sonnigen Schwarzwaldrand naheliegender als argentinische Musik. Doch im Kapuzinerhof zeigt das Tango- und Bandoneonmuseum die weltweit einzigartige Sammlung Steinhart; das Bandoneon ist ein Handzuginstrument des Tangos. Für eine Stadt mit rund 8.400 Einwohnern ist das eine Überraschung, zumal es daneben ein Keramikmuseum und ein Stadtmuseum gibt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.staufen.de/kultur+_+freizeit/museen+_+galerien/tango+und+bandoneonmuseum",
+"faktencheck": "korrigiert",
+"id": "434-staufen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Obstbrennerei Schladerer mit Sitz in Staufen",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Staufen",
+"steckbrief": "Stadt mit rund 8.400 Einwohnern, 16 km südwestlich von Freiburg im Breisgau.",
+"frage": "Welcher dieser vier Betriebe hat seinen Sitz in Staufen?",
+"optionen": [
+"eine Uhrenfabrik",
+"eine Glashütte",
+"eine Obstbrennerei",
+"eine Zigarrenfabrik"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Uhrenfabrik liegt nahe, denn Uhren gelten als typisch für den Schwarzwald. In Staufen sitzt aber die Schwarzwälder Hausbrennerei Alfred Schladerer; Besucher können sie bei Betriebsführungen kennenlernen. Zu einem Ort zwischen Weinbergen und Schwarzwald passt eine Brennerei. Neben ihr prägen mehrere Weingüter das Bild der Stadt, etwa das Weingut Peter Landmann, das ebenfalls Führungen anbietet. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.staufen.de/kultur+_+freizeit/tourismus/stadtfuehrungen",
+"faktencheck": "korrigiert",
+"id": "434-staufen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Burgberg als Namensgeber und Wahrzeichen",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Staufen",
+"steckbrief": "Stadt mit rund 8.400 Einwohnern, 16 km südwestlich von Freiburg im Breisgau.",
+"frage": "Der Name Staufen geht auf das althochdeutsche Wort „Stauf“ zurück. Worauf in der Landschaft verweist er?",
+"optionen": [
+"Auf einen Stau des Flusses Neumagen.",
+"Auf eine Geländestufe zur Rheinebene hin.",
+"Auf eine Quelle am Fuß der Berge.",
+"Auf den Bergkegel, auf dem die Burg steht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Stauf“ klingt nach Stauen, und der Neumagen fließt am Rand der Altstadt vorbei. Gemeint ist aber der Bergkegel, auf dem die Burg Staufen steht; das Wort bedeutet zugleich „Kelch“. Passend dazu führten die Herren von Staufen drei goldene Kelche auf rotem Grund im Wappen. Die Burgruine auf dem weithin sichtbaren Bergkegel ist das Erkennungszeichen beim Vorbeifahren. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.staufen.de/unsere+stadt/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "434-staufen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "drei Halte an der Münstertalbahn",
+"rang": 9,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Staufen",
+"steckbrief": "Stadt mit rund 8.400 Einwohnern, 16 km südwestlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Staufen?",
+"optionen": [
+"Halte an einer elektrischen Nebenbahn",
+"eine Rehaklinik",
+"ein Krankenhaus",
+"eine Hochschule"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Rehaklinik liegt nahe, denn am Schwarzwaldrand sind Kliniken häufig. Staufen liegt aber an der Münstertalbahn, einer Nebenbahn von Bad Krozingen nach Münstertal/Schwarzwald mit Anbindung an die Rheintalbahn von Karlsruhe nach Basel. Drei Halte – Staufen, Staufen Süd und Etzenbach – sind für eine Stadt mit rund 8.400 Einwohnern viel; die Strecke ist elektrifiziert. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Staufen_im_Breisgau; Wikidata (Bahnhöfe mit P131 = Ort); OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "434-staufen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Stadtgründung nach dem Silberboom",
+"rang": 8,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Staufen",
+"steckbrief": "Stadt mit rund 8.400 Einwohnern, 16 km südwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Staufen wurde zur Blütezeit des Silberbergbaus Stadt.",
+"Silberbergbau machte die Herren von Staufen reich.",
+"Regierungstruppen schlugen in Staufen Freischärler nieder."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Gefecht in einer Kleinstadt klingt erfunden, doch beim Struve-Putsch der Badischen Revolution schlugen Regierungssoldaten in Staufen Freischärler, bewaffnete Revolutionäre, nieder. Gelogen war die Blütezeit: Staufen wurde Stadt, als der Silberbergbau zurückging, vermutlich weil die leicht erreichbaren Adern erschöpft waren. Die Stadtgründung sollte die Wirtschaft beleben. Davon zeugt bis heute die planmäßig angelegte Altstadt mit Marktplatz und Marktstraße. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.staufen.de/unsere+stadt/stadtgeschichte; www.staufen.de/unsere+stadt/stadtgeschichte/die+revolution+von+1848_49",
+"faktencheck": "bestätigt",
+"id": "434-staufen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Kleinstadt zwischen Tal und Waldbergen",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Staufen",
+"steckbrief": "Stadt mit rund 8.400 Einwohnern, 16 km südwestlich von Freiburg im Breisgau.",
+"frage": "Zu Staufen gehören auch Schwarzwaldgipfel wie der Riesterkopf. Wie viele Einwohner leben in Staufen je Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 500",
+"500 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Waldgipfel denkt, schätzt eher wenig. Doch die Stadtfläche ist mit gut 23 Quadratkilometern klein, und darauf leben rund 8.400 Menschen: etwa 360 je Quadratkilometer. Staufen ist damit eine Kleinstadt, kein Dorf, aber auch kein dicht bebauter Vorort. Richtig war 3.",
+"quelle": "berechnet aus Wikidata P1082 (Einwohner, Stand 2025-12-31) und Wikidata P2046 (Fläche)",
+"faktencheck": "bestätigt",
+"id": "434-staufen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "historisches Freibad von 1893",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Staufen",
+"steckbrief": "Stadt mit rund 8.400 Einwohnern, 16 km südwestlich von Freiburg im Breisgau.",
+"frage": "Staufens Freibad, das Alemannenbad, eröffnete 1893. Woher kam damals das Wasser für das Becken?",
+"optionen": [
+"Aus einer warmen Quelle unter dem Bad.",
+"Aus dem Gewerbekanal, einem „kühlen Gebirgsbach“.",
+"Aus der städtischen Wasserleitung.",
+"Aus einem Brunnen am Messerschmiedfelsen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine warme Quelle liegt nahe, denn in der Gegend gibt es Thermalbäder. Ursprünglich gespeist wurde das Becken aber aus dem Gewerbekanal, einem „kühlen Gebirgsbach“. Das Bad gilt als eines der ältesten Freibäder Deutschlands und steht unter Denkmalschutz. Es liegt am Fuß des Messerschmiedfelsens – ein Stück Badegeschichte in einer Kleinstadt mit rund 8.400 Einwohnern. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.staufen.de/kultur+_+freizeit/tourismus/freibad",
+"faktencheck": "korrigiert",
+"id": "434-staufen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Burgherren mit Staufer-Namen, ohne Staufer-Blut",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Staufen",
+"steckbrief": "Stadt mit rund 8.400 Einwohnern, 16 km südwestlich von Freiburg im Breisgau.",
+"frage": "Die Herren von Staufen besaßen die Burg über dem Ort und machten ihn zur Stadt. Wie standen sie zum Herrschergeschlecht der Staufer?",
+"optionen": [
+"Sie waren eine Seitenlinie der Staufer.",
+"Die Staufer stammten von ihnen ab.",
+"Sie waren durch Heirat mit Staufern verwandt.",
+"Sie waren mit den Staufern nicht verwandt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der gleiche Name legt eine Seitenlinie nahe. Doch die Herren von Staufen waren eine im Breisgau alteingesessene Adelsfamilie, mit den Staufern nicht verwandt. Wahrscheinlich kamen sie mit Förderung der Zähringer nach Staufen, um Münstertal und Schwarzwald zu erschließen. Als die Familie erlosch, fiel die Stadt an Österreich. Wer durch Staufen fährt, fährt also durch Breisgauer, nicht schwäbische Adelsgeschichte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.staufen.de/unsere+stadt/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "434-staufen/v0.9/9",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Risse durch Erdwärmebohrung",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Staufen",
+"steckbrief": "Stadt mit rund 8.400 Einwohnern, 16 km südwestlich von Freiburg im Breisgau.",
+"frage": "In Staufen wurde gebohrt; danach hob sich die Altstadt, und viele Häuser bekamen Risse. Wofür wurde gebohrt?",
+"optionen": [
+"Für eine Erdwärme-Heizung des Rathauses.",
+"Für einen neuen Trinkwasserbrunnen.",
+"Für die Suche nach Silbererz.",
+"Für die Fundamente einer Tiefgarage."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Tiefgarage liegt nahe, denn Altstädten fehlt oft Parkraum. Gebohrt wurde aber 2007 für eine Erdwärme-Heizung des Rathauses. Danach hob sich die Altstadt, und rund 270 Häuser bekamen Risse. Anfangs hob sich der Boden um elf Millimeter im Monat, später nur noch um zwei. Für eine Kleinstadt mit rund 8.400 Einwohnern traf es den Kern: den denkmalgeschützten historischen Stadtkern. Richtig war 1.",
+"quelle": "Stuttgarter Zeitung, www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/die-geothermie-katastrophe-in-staufen-eine-stadt-in-bewegung-79004237.html; Gemeinde-Webseite (Denkmalschutz)",
+"faktencheck": "korrigiert",
+"id": "434-staufen/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": "393-bad-krozingen",
+"anschluss": [
+"Bad Krozingen hat gut zweieinhalbmal so viele Einwohner wie Staufen.",
+"Die Münstertalbahn fährt von Bad Krozingen über Staufen ins Münstertal."
+],
+"anschluesse": {
+"393-bad-krozingen": [
+"Bad Krozingen hat gut zweieinhalbmal so viele Einwohner wie Staufen.",
+"Die Münstertalbahn fährt von Bad Krozingen über Staufen ins Münstertal."
+]
+},
+"ags": "08315108",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Rund 8.400 Einwohner auf 284 Metern Höhe, 16 Kilometer südwestlich von Freiburg, am Neumagen; der Riesterkopf erreicht 762 Meter."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Erstmals belegt 770 im Lorscher Codex, Stadt seit Anfang des 14. Jahrhunderts, Burgruine auf dem Schlossberg."
+},
+{
+"facette": "ALLTAG",
+"text": "Laborgeräte von IKA, Obstbrände von Schladerer, dazu Weingüter wie Wiesler, Köpfer und Ulmann."
+},
+{
+"facette": "FREIZEIT",
+"text": "Alemannenbad, Keramikmuseum, Tango-Museum, Kletterwald und Auerbachs Kellertheater; Markgräfler Wiiwegli und Zähringer-Wanderweg führen durch Staufen."
+},
+{
+"facette": "INFRA",
+"text": "Drei Bahnhalte an der Münstertalbahn: Staufen, Staufen Süd, Etzenbach; Partnerstädte Bonneville und Kazimierz Dolny."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vor Grünen; 87,2 Prozent Wahlbeteiligung, deutlich über dem Landeswert von 83,4 Prozent."
+}
+],
+"km_vom_vorigen": 4.6
 },
 {
 "slug": "394-heitersheim",
@@ -7124,10 +8080,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "393-bad-krozingen",
-"anschluss": [
-"Einwohner: Bad Krozingen hat gut dreimal so viele wie Heitersheim."
-],
+"anschluss_von": "434-staufen",
+"anschluss": [],
 "anschluesse": {
 "389-merzhausen": [
 "Bundestagswahl 2025: In Merzhausen lagen die Grünen vorn, in Heitersheim die CDU.",
@@ -7146,7 +8100,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Schallstadt die Grünen, in Heitersheim die SPD."
 ],
 "393-bad-krozingen": [
-"Einwohner: Bad Krozingen hat gut dreimal so viele wie Heitersheim."
+"Bad Krozingen hat fast dreieinhalbmal so viele Einwohner wie Heitersheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bad Krozingen die AfD, in Heitersheim die SPD."
 ],
 "395-muellheim": [
 "Müllheim hat dreimal so viele Einwohner wie Heitersheim.",
@@ -7162,7 +8117,7 @@ window.QA_DATEN = {
 },
 "ags": "08315050",
 "ortsteil": false,
-"km_vom_vorigen": 5.9
+"km_vom_vorigen": 5.8
 },
 {
 "slug": "395-muellheim",
@@ -7917,6 +8872,260 @@ window.QA_DATEN = {
 "km_vom_vorigen": 12.8
 },
 {
+"slug": "438-gundelfingen",
+"name": "Gundelfingen",
+"lat": 48.04246,
+"lon": 7.8657,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "Silberbergbau im Ortsteil Wildtal",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gundelfingen",
+"steckbrief": "Gundelfingen hat gut 12.000 Einwohner und liegt 5 km nördlich von Freiburg im Breisgau.",
+"frage": "Im Ortsteil Wildtal lag vom 16. bis 18. Jahrhundert ein Bergwerk. Was wurde dort abgebaut?",
+"optionen": [
+"Dort wurde Steinkohle gefördert.",
+"Dort wurde Steinsalz gewonnen.",
+"Dort brach man Schiefer für Dächer.",
+"Dort wurden Silber und Blei abgebaut."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei „Bergwerk“ denken viele an Kohle wie im Ruhrgebiet. Der Schwarzwald aber war lange ein Land der Silbergruben, und oberhalb des Schümperlehofs im Waldbrunnertal holte man Silber und Blei aus dem Berg. Eine Station des Kulturpfads erinnert an die Silbermine. Für einen Ort mit gut 12.000 Einwohnern so nah an Freiburg ist das ein überraschendes Kapitel. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gundelfingen.de/unsere-gemeinde/gemeinde/geschichte",
+"faktencheck": "bestätigt",
+"id": "438-gundelfingen/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Stammsitz der Zähringer als Wahrzeichen",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gundelfingen",
+"steckbrief": "Gundelfingen hat gut 12.000 Einwohner und liegt 5 km nördlich von Freiburg im Breisgau.",
+"frage": "Die Ruine der Zähringer Burg steht auf Gundelfinger Gemarkung im Ortsteil Wildtal. Wofür steht die Burg in der Geschichte?",
+"optionen": [
+"Sie war Stammsitz eines Geschlechts von Städtegründern.",
+"Auf ihr wurde ein König gekrönt.",
+"Sie war Sommersitz von Erzbischöfen.",
+"Sie war ursprünglich ein Kloster."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Burg mit großem Namen lässt an Krönungen oder Kirchenfürsten denken. Doch sie war der Stammsitz der Zähringer, Herzöge und Städtegründer. Im Bauernkrieg wurde sie zerstört. Heute ist die Ruine auf der Gemarkung Wildtal ein Ausflugsziel von Gundelfingen: Vom Turm hat man einen Rundblick, und an Sonn- und Feiertagen weht dort eine Fahne. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gundelfingen.de/kultur-freizeit/wandern; www.gundelfingen.de/unsere-gemeinde/gemeinde/geschichte",
+"faktencheck": "korrigiert",
+"id": "438-gundelfingen/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Orientierungsläufer mit deutschen Meistertiteln",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gundelfingen",
+"steckbrief": "Gundelfingen hat gut 12.000 Einwohner und liegt 5 km nördlich von Freiburg im Breisgau.",
+"frage": "Die Gemeinde hebt eine Sparte der Gundelfinger Turnerschaft hervor: Sie holte manchen deutschen Meistertitel und nutzt dafür die Wälder ringsum. Welche Sparte nennt die Gemeinde?",
+"optionen": [
+"Mountainbike-Rennen im Gelände",
+"Orientierungslauf mit Karte und Kompass",
+"Biathlon auf Skirollern",
+"Bogenschießen auf dem Waldparcours"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wald und Meistertitel lassen an Mountainbiker denken, denn Bergradsport ist im Schwarzwald beliebt. Die Gemeinde nennt Meistertitel aber für die Orientierungsläufer der Gundelfinger Turnerschaft: Sie suchen mit Karte und Kompass Posten im Gelände und nehmen auch an Weltmeisterschaften teil. Für einen Ort mit gut 12.000 Einwohnern ist das eine seltene Nische; das Gelände liefern die Laub- und Nadelwälder ringsum. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gundelfingen.de/kultur-freizeit/portrait",
+"faktencheck": "korrigiert",
+"id": "438-gundelfingen/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "S-Bahn-Halt an der Rheintalbahn",
+"rang": 8,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Gundelfingen",
+"steckbrief": "Gundelfingen hat gut 12.000 Einwohner und liegt 5 km nördlich von Freiburg im Breisgau.",
+"frage": "Welches dieser vier Dinge gibt es in Gundelfingen?",
+"optionen": [
+"ein Weinbaumuseum",
+"einen Rheinhafen",
+"einen Bahnhof",
+"einen Verkehrsflughafen"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rebberge lassen an ein Weinbaumuseum denken, und die Nähe zu Freiburg an Hafen oder Flughafen. Tatsächlich hat Gundelfingen einen Bahnhof: Von dort fahren die Züge halbstündlich nach Freiburg. Für einen Ort mit gut 12.000 Einwohnern, der 5 km vor Freiburg liegt, ist das der kurze Draht in die Stadt. Den Rhein erreicht Gundelfingen nicht, er fließt gut 20 km weiter westlich. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gundelfingen.de/kultur-freizeit/unterkuenfte",
+"faktencheck": "korrigiert",
+"id": "438-gundelfingen/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Gemarkung von Mooswald bis Schwarzwald",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gundelfingen",
+"steckbrief": "Gundelfingen hat gut 12.000 Einwohner und liegt 5 km nördlich von Freiburg im Breisgau.",
+"frage": "Welche Landschaften liegen westlich und östlich von Gundelfingen?",
+"optionen": [
+"Im Westen das Rheinufer, im Osten der Kaiserstuhl.",
+"Im Westen Rebberge, im Osten eine weite Ebene.",
+"Auf beiden Seiten die flache Rheinebene.",
+"Im Westen der Mooswald, im Osten der Schwarzwald."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Nördlich von Freiburg denkt man an die flache Rheinebene. Doch Gundelfingen liegt am Westrand des Schwarzwaldes: Im Westen erstreckt sich in der Rheinebene der Mooswald, ideal für Radtouren, im Osten liegen Vorbergzone und Schwarzwald. An der südlichsten Stelle der Gemarkung steht auf dem Roßkopf ein Aussichtsturm. Für einen Ort mit gut 12.000 Einwohnern ist das eine weite Spanne: vom Mooswald in der Ebene bis zum Rundblick vom Turm. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gundelfingen.de/kultur-freizeit/portrait; www.gundelfingen.de/kultur-freizeit/wandern",
+"faktencheck": "korrigiert",
+"id": "438-gundelfingen/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Evangelisches Dorf im katholischen Umland",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gundelfingen",
+"steckbrief": "Gundelfingen hat gut 12.000 Einwohner und liegt 5 km nördlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Am Uhlbergweg lag einst der Landsitz eines Hofrats von Rotteck.",
+"Seit dem Kaiserreich gibt es hier eine selbständige Baptistengemeinde.",
+"Die Reformation ging an Gundelfingen vorbei."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rund um Freiburg sind viele Dörfer katholisch geprägt, darum klingt Aussage 3 glaubhaft. Doch Gundelfingen gehörte zur Markgrafschaft Baden und bekam mit der Reformation einen eigenen evangelischen Pfarrer; katholische Pfarrei wurde es erst im 20. Jahrhundert wieder. Die Baptisten sind seit dem Kaiserreich eine selbständige Gemeinde, und an Rottecks einstigen Landsitz erinnert die Rottecksruhe. Für einen Ort mit gut 12.000 Einwohnern vor Freiburg ist diese evangelische Wurzel ein Erkennungszeichen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.gundelfingen.de/unsere-gemeinde/gemeinde/geschichte; www.gundelfingen.de/kultur-freizeit/wandern",
+"faktencheck": "korrigiert",
+"id": "438-gundelfingen/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "dichte Gemeinde am Freiburger Stadtrand",
+"rang": 9,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gundelfingen",
+"steckbrief": "Gundelfingen hat gut 12.000 Einwohner und liegt 5 km nördlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner leben in Gundelfingen auf einem Quadratkilometer, gemittelt über die ganze Gemarkung?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Wohnstraßen vor Freiburg denkt, schätzt leicht höher. Doch gut 12.000 Einwohner verteilen sich auf gut 14 Quadratkilometer, das ergibt rund 850 je Quadratkilometer. Der Wert mittelt über die ganze Gemarkung, also auch über Wälder, Wiesen und Rebberge. Richtig war 2.",
+"quelle": "Wikidata P1082 (Einwohner, Stand 2025-12-31) und P2046 (Fläche); Dichte daraus berechnet",
+"faktencheck": "bestätigt",
+"id": "438-gundelfingen/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Größte Gemeinde ohne Stadtrecht",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gundelfingen",
+"steckbrief": "Gundelfingen hat gut 12.000 Einwohner und liegt 5 km nördlich von Freiburg im Breisgau.",
+"frage": "Gundelfingen liegt im Landkreis Breisgau-Hochschwarzwald. Was ist an seinem Status dort besonders?",
+"optionen": [
+"Es ist die Kreisstadt des Landkreises.",
+"Es bekam erst kürzlich das Stadtrecht.",
+"Es ist die größte Gemeinde ohne Stadtrecht.",
+"Es ist eine Große Kreisstadt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mit über 12.000 Einwohnern sind viele Orte längst Städte, darum liegt ein Stadttitel nahe. Gundelfingen aber hat kein Stadtrecht und ist die größte Gemeinde ohne Stadtrecht im Landkreis Breisgau-Hochschwarzwald; mit Heuweiler bildet es eine Verwaltungsgemeinschaft. Für den Ort heißt das: groß wie eine Kleinstadt, nur 850 Meter von der Freiburger Stadtgrenze, und doch eine Gemeinde. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gundelfingen_(Breisgau)",
+"faktencheck": "unsicher",
+"id": "438-gundelfingen/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Rosmarientanne, die eine Fichte war",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gundelfingen",
+"steckbrief": "Gundelfingen hat gut 12.000 Einwohner und liegt 5 km nördlich von Freiburg im Breisgau.",
+"frage": "Zwischen Wildtalereck und Roßkopf stand einst die „Rosmarientanne“. Nach wem war der Baum benannt?",
+"optionen": [
+"Nach der Frau eines Freiburger Wirts.",
+"Nach einer Försterstochter, die dort verunglückte.",
+"Nach einer Heiligen mit nahem Bildstock.",
+"Nach der Gattin eines Zähringer Herzogs."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Baum mit Frauennamen im Wald lässt an ein Unglück oder eine Heilige denken. Doch der Wirt der einstigen Freiburger Gaststätte „Zum Fahnenberg“ stiftete den Baum und benannte ihn nach seiner Frau. Die „Tanne“ war eine Fichte. Sie wurde aus Sicherheitsgründen gefällt; Ortsgruppen des Schwarzwaldvereins pflanzten eine Douglasie nach. Für Gundelfingen zeigt das, wie eng sein Wald mit Freiburg verbunden ist. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gundelfingen.de/kultur-freizeit/wandern",
+"faktencheck": "bestätigt",
+"id": "438-gundelfingen/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "397-hochdorf-freiburg",
+"anschluss": [
+"Gundelfingen wählte 2025 grüner als Hochdorf: 25,2 zu 17,9 Prozent.",
+"Gundelfingen hat mehr als doppelt so viele Einwohner wie Hochdorf."
+],
+"anschluesse": {
+"397-hochdorf-freiburg": [
+"Gundelfingen wählte 2025 grüner als Hochdorf: 25,2 zu 17,9 Prozent.",
+"Gundelfingen hat mehr als doppelt so viele Einwohner wie Hochdorf."
+]
+},
+"ags": "08315047",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Gut 12.000 Einwohner auf gut 14 Quadratkilometern, 5 km nördlich von Freiburg; die Gemarkung reicht vom Mooswald bis zum Roßkopf."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Die Ruine der Zähringer Burg ist das Wahrzeichen; Wildtal gehört seit 1972 dazu, und ein Kulturpfad erzählt die Ortsgeschichte."
+},
+{
+"facette": "ALLTAG",
+"text": "Erzeugermarkt auf dem Rathausplatz, Sitz der Raiffeisenbank im Breisgau, Kaltenbach Weine; früher Silberbergbau im Wildtal."
+},
+{
+"facette": "FREIZEIT",
+"text": "Obermattenbad neben dem Leichtathletikstadion, Orientierungsläufer, Zähringer-Wanderweg, Breisgau-Radwanderweg und Breisgauer Weinweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhalt an der Rheintalbahn, Straßenbahnhalt am Südrand, Gelenkklinik, Gymnasium; Partnerstädte Meung-sur-Loire, Bieruń und Scheibenberg."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU knapp vor den Grünen, Wahlbeteiligung 87,7 Prozent, gut vier Punkte über dem Landeswert."
+}
+],
+"km_vom_vorigen": 4.8
+},
+{
 "slug": "65-march",
 "name": "March",
 "lat": 48.05611,
@@ -8062,7 +9271,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "397-hochdorf-freiburg",
+"anschluss_von": "438-gundelfingen",
 "anschluss": [],
 "anschluesse": {
 "387-ebnet": [
@@ -8169,7 +9378,215 @@ window.QA_DATEN = {
 },
 "ags": "08315132",
 "ortsteil": false,
-"km_vom_vorigen": 1.6
+"km_vom_vorigen": 6.4
+},
+{
+"slug": "437-umkirch",
+"name": "Umkirch",
+"lat": 48.03278,
+"lon": 7.76361,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "römische Raststation an einer Straßenkreuzung",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Umkirch",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Unter Umkirch liegen Reste einer beachtlichen römischen Siedlung. Was war sie?",
+"optionen": [
+"Ein Legionslager zur Sicherung der Grenze.",
+"Eine Versorgungsstation an einer Straßenkreuzung.",
+"Ein Heilbad an warmen Quellen.",
+"Ein Tempelbezirk für Pilger aus der Region."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Legionslager liegt nahe, denn bei Römern am Oberrhein denkt man zuerst an Soldaten. Das römische Umkirch war aber eine Versorgungsstation an einer Straßenkreuzung, laut Gemeinde wie eine moderne Service-Station. Gefunden wurden Mühlensteine, Eisenschlacke und einfache Haushaltskeramik. Schon damals zählte die Lage an Verkehrswegen; heute nennt die Gemeinde ihre Verkehrsanbindung als Stärke. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, rundgang.umkirch.de/pois-en/das-roemische-an-umkirch",
+"faktencheck": "unsicher",
+"id": "437-umkirch/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Museum und Kraftwerk in der Schlossmühle",
+"rang": 5,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Umkirch",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern im Westen von Freiburg im Breisgau, 8 km entfernt.",
+"frage": "Welches dieser vier Dinge gibt es in Umkirch?",
+"optionen": [
+"eine Eissporthalle",
+"eine Volkssternwarte",
+"ein Museum in einer alten Mühle",
+"ein Freilichttheater"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Hafen am Rhein liegt nahe, weil der Rhein durch die Region fließt. Umkirch liegt aber nicht am Fluss; es hat sein Heimatmuseum in der Schlossmühle. Die Gemeinde kaufte die stillgelegte Mühle, ein Förderverein rettete sie vor dem Abriss. Heute dreht sich dort ein Mühlrad, geschenkt von der Partnerstadt, und ein Kraftwerk erzeugt Strom. So ist die Mühle Museum und Kraftwerk zugleich. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, rundgang.umkirch.de/pois-en/die-schlossmuehle-umkircher-museum",
+"faktencheck": "korrigiert",
+"id": "437-umkirch/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "feuchte Ebene auf dem Dreisam-Schwemmfächer",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Umkirch",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "In Umkirch liegt das Naturschutzgebiet Humbrühl-Rohrmatten. Was wird dort geschützt?",
+"optionen": [
+"Es schützt Trockenrasen an einem Lösshang.",
+"Es schützt Weinbergterrassen mit seltenen Eidechsen.",
+"Es schützt einen alten Buchenwald am Berg.",
+"Es schützt Feuchtbiotope auf einem Schwemmfächer."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Trockenrasen und Reben liegen nahe, denn der Kaiserstuhl ist nicht weit. Das Schutzgebiet liegt aber auf dem Schwemmfächer der Dreisam, also auf Kies und Sand, die der Fluss aus dem Schwarzwald abgelagert hat. Geschützt werden die Feuchtbiotope, die für diesen Schwemmfächer typisch sind. Umkirch liegt flach in der Ebene; der Mühlbach leitet dort hochstehendes Grundwasser ab. Richtig war 4.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9413/Umkirch; OpenStreetMap",
+"faktencheck": "bestätigt",
+"id": "437-umkirch/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Weltmarktführer für Bühnenausstattung im Dorf",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Umkirch",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "In Umkirch sitzt ein Betrieb, der als einer der weltweit führenden seiner Branche gilt. Welche Branche?",
+"optionen": [
+"Ausstattung für Bühnen",
+"Kuckucksuhren",
+"Sekt",
+"Modelleisenbahnen"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kuckucksuhren liegen nahe, denn der Schwarzwald beginnt gleich hinter Freiburg. In Umkirch sitzt aber Gerriets, seit 1970 mit dem Hauptsitz. Die Firma stellt Bühnenvorhänge, Projektionsflächen und Bühnentechnik her und gilt als eine der weltweit führenden ihrer Branche. Ihre Vorhänge hängen etwa in der Semperoper und der Metropolitan Opera. Für eine Gemeinde mit knapp 5.700 Einwohnern ist das bemerkenswert. Richtig war 1.",
+"quelle": "Wirtschaft im Südwesten (IHK), wirtschaft-im-suedwesten.de/?p=10087; Firmenangaben gerriets.com",
+"faktencheck": "korrigiert",
+"id": "437-umkirch/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Hohenzollernschloss, Prinzen als Rennfahrer",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Umkirch",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Ein Hohenzollern- und ein Bayern-Prinz, beide im selben Jahr in Umkirch geboren, wurden später bekannt. Womit?",
+"optionen": [
+"Beide wurden als Springreiter bekannt.",
+"Beide wurden als Autorennfahrer bekannt.",
+"Beide wurden als Schlagersänger bekannt.",
+"Beide wurden als Kunstmaler bekannt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Springreiten liegt nahe, denn Reitsport gilt als typischer Adelssport. Ferfried Prinz von Hohenzollern fuhr aber Tourenwagenrennen, Leopold Prinz von Bayern Autorennen. Prinzen passen zu Umkirch: Der Fürst von Hohenzollern besitzt hier ein Schloss mit großem Park, das laut Gemeinde der Erbprinz immer wieder bewohnt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Umkirch; Gemeinde-Webseite, www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches",
+"faktencheck": "korrigiert",
+"id": "437-umkirch/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "französische Partnerstadt Bruges, Rathaus im Wasserschloss",
+"rang": 3,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Umkirch",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Rathaus ist im Wasserschloss Büningen untergebracht.",
+"Die Partnerstadt Bruges liegt im Nachbarland Belgien.",
+"Über die Bundesstraße 31 ist Umkirch direkt an die A5 angeschlossen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Bruges denken die meisten an Brügge, das auf Französisch so heißt. Umkirchs Partnerstadt ist aber ein Bruges in Südfrankreich. Wahr sind das Rathaus im Wasserschloss Büningen und der Autobahnanschluss: Über die neu gebaute B31 gelangt man direkt auf die A5. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Das-ist-Umkirch und rundgang.umkirch.de/pois-en/die-schlossmuehle-umkircher-museum; Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9413/Umkirch",
+"faktencheck": "korrigiert",
+"id": "437-umkirch/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "kleine, dicht bewohnte Gemarkung",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Umkirch",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Umkirch?",
+"optionen": [
+"25 km² und mehr",
+"15 bis unter 25 km²",
+"10 bis unter 15 km²",
+"unter 10 km²"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine größere Spanne liegt nahe, denn Gemeinden im Umland haben oft deutlich mehr Fläche. Umkirch misst aber nur 8,72 Quadratkilometer. Der Mundenhof gehörte früher zu Umkirch; nach einer Volksabstimmung kam er zu Freiburg, Umkirch erhielt dafür den Forellenhof. Auf einen Quadratkilometer kommen rund 650 Einwohner, eher Vorort als Dorf. Richtig war 4.",
+"quelle": "Wikidata P2046; Einwohnerdichte berechnet aus Wikidata P1082, Stand 2025-12-31; Gemeinde-Webseite, www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches",
+"faktencheck": "bestätigt",
+"id": "437-umkirch/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "65-march",
+"anschluss": [
+"Die evangelische Kirchengemeinde March spaltete sich von Umkirch ab.",
+"March hat etwa doppelt so viel Fläche wie Umkirch."
+],
+"anschluesse": {
+"65-march": [
+"Die evangelische Kirchengemeinde March spaltete sich von Umkirch ab.",
+"March hat etwa doppelt so viel Fläche wie Umkirch."
+]
+},
+"ags": "08315115",
+"ortsteil": false,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Umkirch liegt flach auf dem Schwemmfächer der Dreisam, 8 km nordwestlich von Freiburg, auf rund 8,7 Quadratkilometern."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Römische Versorgungsstation, eine Marienkirche über römischen Resten, das Wasserschloss Büningen und ein Hohenzollernschloss mit großem Park."
+},
+{
+"facette": "ALLTAG",
+"text": "Knapp 5.700 Einwohner; Gewerbegebiet mit rund 80 Betrieben am westlichen Ortsrand, Firmen wie Gerriets, TRUMPF Medizin Systeme, Somont."
+},
+{
+"facette": "FREIZEIT",
+"text": "Heimatmuseum in der Schlossmühle; Sportpark mit Fußball, Tennis, Squash, Badminton und Kart, dazu Judo und Tanzsport."
+},
+{
+"facette": "INFRA",
+"text": "Bundesstraße 31a mit Ortsumfahrung und Anschluss an die A5; das Rathaus sitzt im Wasserschloss Büningen."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: CDU vorn, AfD auf Platz zwei; Wahlbeteiligung 79,7 Prozent, knapp vier Punkte unter Landesschnitt."
+}
+],
+"km_vom_vorigen": 2.9
 },
 {
 "slug": "66-gottenheim",
@@ -8377,11 +9794,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "65-march",
-"anschluss": [
-"March hat fast dreimal so viele Einwohner wie Gottenheim.",
-"Bundestagswahl 2025: In March und in Gottenheim lag die CDU vorn, mit 31,4 und 33,8 Prozent."
-],
+"anschluss_von": "437-umkirch",
+"anschluss": [],
 "anschluesse": {
 "387-ebnet": [
 "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
@@ -8480,7 +9894,7 @@ window.QA_DATEN = {
 },
 "ags": "08315043",
 "ortsteil": false,
-"km_vom_vorigen": 4.0
+"km_vom_vorigen": 3.2
 },
 {
 "slug": "67-boetzingen",

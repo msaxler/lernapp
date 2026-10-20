@@ -1,0 +1,657 @@
+ZIELORT: Umkirch (Gemeinde)
+LAGE: 8 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Umkirch
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 5683  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 8,72  [Wikidata P2046]
+  dichte_ew_km2: 652  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 219 | 206 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2820190)]
+  naechste_grossstadt: Freiburg im Breisgau, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 134 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 79224  [Wikidata P281]
+  vorwahl: 07665  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,5 %, AfD 21,2 %, SPD 15,5 %, GRÜNE 15,1 %, Die Linke 7,1 %, FDP 5,2 %; Wahlbeteiligung 79,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 79,7 %, Abstand 3,7 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+  buergermeister: Pascal Saffran — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-20]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Sportstätte: Sportpark Umkirch (soccer;tennis;squash;badminton;karting)
+  Sportstätte: DoJo (judo)
+  Sportstätte: TSC Tanzsportclub Der Freiburger Kreis e.V. (dancing)
+  Sportstätte: maxx Gesundheitszentrum
+  Gewässer: Mühlbach
+  Gewässer: Dachswanger Mühlbach
+  Betrieb: Gewerbegebiet Umkirch
+  Betrieb: Somont GmbH
+  Schutzgebiet: Humbrühl-Rohrmatten (seit 16.1)
+
+PLAN:
+  Karte 1: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 2: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 3
+  Karte 3: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 4
+  Karte 4: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 1
+  Karte 5: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 6: FACETTE INFRA (Ersatz: LAGE), Geschichte, B, Lüge an Stelle 2
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: March (Gemeinde)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 9337  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 17,79  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 201 | 219 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox]
+  naechste_grossstadt: Freiburg im Breisgau, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Haltepunkt Hugstetten  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,4 %, SPD 17,3 %, GRÜNE 17 %, AfD 14,5 %, Die Linke 6,7 %; Wahlbeteiligung 84,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 84,5 %, Abstand 1,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Ebnet, Littenweiler, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, March, Umkirch, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Kirchzarten, Stegen, Oberried, Buchenbach, Hinterzarten, Breitnau, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Umkirch):
+ID: 437-umkirch/001
+ENTITÄT: ort
+FACETTE: LAGE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Das-ist-Umkirch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 5974
+  flaechenflaeche: 8.71 [km²]
+  hoehenlage_min: 195 [m NN]
+  hoehenlage_max: 225 [m NN]
+  lage_zu_freiburg: 8 [km westlich]
+  landkreis: Breisgau-Hochschwarzwald
+  plz: 79224
+  telefon_vorwahl: 07665
+  kfz_kennzeichen: FR
+  region: Breisgau
+  regierungsbezirk: Freiburg
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 437-umkirch/002
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1087
+  erste_erwaehnung_variante: 1084/87
+  erste_erwaehnung_name: Untkilicha
+  namensherkunft: Kirche in den Wellen oder Kirche zwischen zwei Bächen
+  benannt_nach: Lage der Kirche auf einer Insel oder zwischen zwei Bächen
+GUELTIG_AB: 1087
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 437-umkirch/003
+ENTITÄT: ort
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  erfolgreicher_widerstand_gegen_eingemeindung: 1974
+  grund_widerstand: Bewahrung der Selbständigkeit gegen Freiburg
+  mundenhof_zur_stadt: 1977
+  gebietsreform: 1973
+  landkreis_wechsel: 1973
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 437-umkirch/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien / Pfarrkirche Mariä Himmelfahrt
+FACETTE: GESCHICHTE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1050-1100
+  gebaut_von: Hochstift Basel
+  superlativ: älteste Pfarrkirche des Breisgaus
+  lage: steht über Resten eines römischen Gebäudes
+  material_funde: verputzte Wand eines römischen Gebäudes
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien / Pfarrkirche Mariä Himmelfahrt
+FACETTE: GESCHICHTE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umbauten_gotik: 1352-1354
+  umbauten_barock: 1760-1765
+  barockes_aussehen_seit: 1760
+  patronatsrecht_bis: 1806
+  patronatsrecht_inhaber: Basler Bischöfe
+  patronatsrecht_endstuendung: Uebergang Breisgau an Baden
+GUELTIG_AB: 1352
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien / Pfarrkirche Mariä Himmelfahrt
+FACETTE: FREIZEIT
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9413/Umkirch | Landesportal
+EIGENSCHAFTEN:
+  patrozinium: Maria / Mariä Himmelfahrt
+  seitenaltaere: von Johann Caspar Brenzinger
+  renovierung_1956: denkmalpflegerisch
+  architektur_langhaus: 11./12. Jahrhundert
+  architektur_chor: 11./12. Jahrhundert
+  architektur_turm: 1760
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/007
+ENTITÄT: roemische_siedlung
+FACETTE: GESCHICHTE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: beachtlich
+  siedlungstyp: Versorgungsstation (wie moderne Service-Station)
+  funde_keramik: einfache Haushaltskeramik
+  datierung_keramik: 100-250 [n. Chr.]
+  entdeckung_muehlematten: 1979
+  fundort_hauptgebaeude: Marienkirche Bereich
+  fundort_periode: 1980
+GUELTIG_AB: 100
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 437-umkirch/008
+ENTITÄT: roemische_siedlung
+FACETTE: GESCHICHTE
+QUELLE: https://rundgang.umkirch.de/pois-en/das-roemische-an-umkirch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlungstyp: Versorgungsstation an Straßenkreuzung
+  funktionen: Handel, Handwerk, Landwirtschaft
+  bautypen: Holzsiedlung (äußerer Bereich), Steinbauten (Zentrum)
+  beschaeftigungen: Mühlenbetriebe, Eisenverarbeitung
+  erster_namentlich_bekannter_bewohner: A. Giamilus
+  beruf_bewohner: Töpfer
+  funde_keramik_stil: südgallisch
+  funde_zusatz: Crucibles, Eisenschlacke, Mühlensteine
+  entdeckungen: 1979 Mühlematten, 1980 Marienkirche, 1988 Bueningen, 2021 Brunnen
+  enddatum_vermutet: Limesfall 259/260
+GUELTIG_AB: 70
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 437-umkirch/009
+ENTITÄT: wasserschloss
+BEZEICHNUNG: Schloss Büningen
+FACETTE: GESCHICHTE
+QUELLE: https://rundgang.umkirch.de/pois-en/schloss-bueningen-das-rathaus-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruenglicher_kauf: 1362
+  kaeufer: Ritter Hesse Snewelin
+  verkaeufer_herkunft: Hof von Ludwig von Wigersheim
+  urspruengliche_beschreibung: Burg mit Turm, Mauern, Graben
+  vorherige_besitzer: Familie Trösche-Arra, Familie von Wigersheim
+  spaetere_besitzer: Familien Ankenreut, von Stadion, Züricher Hans Werner Äscher
+  zerstoerung_30jaehriger_krieg: ja
+  wiederaufbau_zeitraum: 1663-1669
+  wiederaufbau_bauherr: Gervasius Äscher, Freiherr zu Umkirch und Hoffenheim
+  namensvorbild: Schloss Büningen bei Basel
+  kaiser_erlaubnis: Ferdinand II.
+  besitzer_17jhd_ausgang: Friedrich von Beroldingen, Franziska Susanna von Falkenstein
+  wehranlage_entfernung_17jhd: Wassergraben und Zugbrücke
+  besitzer_1826: Herrschaft zu Kageneck
+  funktion_1826: Gasthaus im Kaufvertrag
+  folgende_funktionen: Försterhaus, Waisen-, Schul- und Schwesternhaus, Notariat, Standesamt, Museum
+  alter_in_jahren: über 750
+GUELTIG_AB: 1362
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 437-umkirch/010
+ENTITÄT: wasserschloss
+BEZEICHNUNG: Schloss Büningen
+FACETTE: ALLTAG
+QUELLE: https://rundgang.umkirch.de/pois-en/schloss-bueningen-das-rathaus-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_seit_2005: Rathaus
+  renovierung_grundlegend: ja
+  renovierung_zeitpunkt: vor 2005
+  bedeutung_fuer_ort: Sitz der Gemeindeverwaltung
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 437-umkirch/011
+ENTITÄT: schloss
+BEZEICHNUNG: Hohenzollernschloss / Schloss Hohenzollern
+FACETTE: LAGE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebaut_von: Fürst von Hohenzollern
+  baustil: 18. Jahrhundert
+  eigentumsrecht: Familie Hohenzollern
+  bewohner: Erbprinz (zeitweise)
+  ausstattung: großer Park
+  zugaenglichkeit: Privatbesitz, nicht öffentlich zugänglich
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 437-umkirch/012
+ENTITÄT: schloss
+BEZEICHNUNG: ehemaliges Hohenzollernschloss im englischen Landhausstil
+FACETTE: LAGE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: englischer Landhausstil
+  heutiger_besitzer: Privatbesitz
+  status: wiederhergestellt
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 437-umkirch/013
+ENTITÄT: park
+BEZEICHNUNG: Queen-Auguste-Victoria-Park
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  fruehere_bezeichnung: Fulwell Park
+  groesse: 11 [ha]
+  auszeichnung: Europäischer Gartenkultur-Schöpfungspreis
+  zugaenglichkeit: nicht öffentlich zugänglich
+  lage_zu_schloss: beim Hohenzollernschloss
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/014
+ENTITÄT: muehle
+BEZEICHNUNG: Schlossmühle
+FACETTE: GESCHICHTE
+QUELLE: https://rundgang.umkirch.de/pois-en/die-schlossmuehle-umkircher-museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1483
+  erste_erwaehnung_verkaeufer: Heinrich Küchly von Freiburg
+  erste_erwaehnung_kaeufer: Grafen von Tübingen
+  bestand_bis: 1570
+  neubau_jahr: ca. 1750
+  neubau_eigentuemer: Blasi Waldvogel und Catharina Spiegelhalter
+  turbinen_einbau: 1922
+  letzte_betreiber: Müller Adalbert Schneider
+  letzte_muehlennutzung: 1978
+  erwerb_durch_gemeinde: 1998
+  bedrohung_abriss: 2000
+  rettung_durch: Förderverein
+  restaurierung_zeitraum: 2002-2005
+  transformation: historisches Juwel der Gemeinde
+GUELTIG_AB: 1483
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/015
+ENTITÄT: muehle
+BEZEICHNUNG: Schlossmühle
+FACETTE: FREIZEIT
+QUELLE: https://rundgang.umkirch.de/pois-en/die-schlossmuehle-umkircher-museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heutige_funktion: Heimatmuseum
+  museum_eroeffnung_neue_location: 22. September 2006
+  museum_location: Obergeschoss
+  ausstellungskonzept: Wechselausstellungen
+  muehlrad_installation: 2009
+  muehlrad_spender: Bruges (Partnerstadt)
+  fischtreppe_installation: ja
+  kraftwerk_installation: 2015
+  kraftwerk_investoren: Stiftung, Gemeinde, Badenova
+  stromerzeugung: ja
+  solarpanels: 2019
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 437-umkirch/016
+ENTITÄT: museum
+BEZEICHNUNG: Umkircher Museum / Heimatmuseum in der Schlossmühle
+FACETTE: FREIZEIT
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Freizeit/Heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1988
+  urspruenglicher_standort: mehrere Räume im Schloss Büningen
+  fundus_umfang: Römerzeit-Funde (Mühlematten), Haushalts- und Wohnungsutensilien, Werkzeuge, Geraetschaften (Handwerk, Landwirtschaft ab 1920er), Wappengalerie Umkircher Herrschaften
+  zwischenschliessung: wegen Rathaus-Umsiedlung in Schloss Büningen
+  neue_location: Schlossmühle
+  eroeffnung_neuer_standort: 22. September 2006
+  konzept: Wechselausstellungen
+  traeger: Heimat- und Geschichtsverein
+  einrichtung_art: Gemeinde
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/017
+ENTITÄT: ortschaft
+BEZEICHNUNG: Mundenhof
+FACETTE: GESCHICHTE
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: ältester Gemarkungsteil
+  abtrennung_jahr: 1977
+  abtrennung_grund: Volksabstimmung
+  abtrennung_empfaenger: Stadt Freiburg
+  ausgleich: Umkirch erhielt Forellenhof
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/018
+ENTITÄT: ortschaft
+BEZEICHNUNG: Dachswangen
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  ortstyp: Dorf, Hof und Mühle
+  offizielle_bezeichnung: Dachswanger Mühle
+  historischer_name: Burg Dachswangen
+GUELTIG_AB: 1483
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 437-umkirch/019
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet Umkirch
+FACETTE: ALLTAG
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Das-ist-Umkirch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebe_anzahl: 80
+  lage: westlicher Ortsrand
+  expansionsphase: 1970er Jahre
+  wirtschaftsbedeutung: Nutzt Umkirchs zentrale Lage und beste Verkehrsanbindung
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/020
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Bruges
+FACETTE: POLITIK
+QUELLE: https://www.umkirch.de/Leben-in-Umkirch/Unsere-Gemeinde/Das-ist-Umkirch | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Département Gironde
+  partnerschaft_seit: 1989
+  laender_verbindung: deutsch-französisch
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 437-umkirch/021
+ENTITÄT: buergermeister
+BEZEICHNUNG: Pascal Saffran
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  partei: parteilos
+  amtsantritt: 9. Juni 2026
+  wahlstimmen_prozent: 51.5
+  wahlbeteiligung_prozent: 44.8
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 437-umkirch/022
+ENTITÄT: buergermeister
+BEZEICHNUNG: Walter Laub
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 2002
+  amtsende: 2026
+  amtsdauer: 24 Jahre
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 437-umkirch/023
+ENTITÄT: betrieb
+BEZEICHNUNG: Gerriets GmbH
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  branche: Bühnenausstattung
+  bedeutung_weltweit: führend
+  standort: Umkirch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 437-umkirch/024
+ENTITÄT: betrieb
+BEZEICHNUNG: TRUMPF Medizin Systeme GmbH + Co. KG
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  standort: Umkirch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 437-umkirch/025
+ENTITÄT: betrieb
+BEZEICHNUNG: Welte Fahrzeugbau
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  standort: Umkirch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 437-umkirch/026
+ENTITÄT: betrieb
+BEZEICHNUNG: hms-sonosystems GmbH
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  standort: Umkirch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 437-umkirch/027
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hallenbad
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  status: geschlossen seit 2020
+  status_aktuell: abgerissen
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/028
+ENTITÄT: kriegsevent
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Flugzeugabsturz
+  datum: 12. Oktober 1916
+  herkunft_flugzeug: Frankreich
+  kontext_ereignis: Luftkampf über Freiburg
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 437-umkirch/029
+ENTITÄT: lager
+BEZEICHNUNG: Kriegsgefangenenlager
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1916
+  kriegsgefangene: alliiert
+  einsatz_gefangene: Landwirtschaft
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 437-umkirch/030
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße 31a
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  verknuepfung_autobahn: A5
+  verbindung_stadt: Freiburg (Innenstadt in unter 15 Minuten erreichbar)
+  neubau_ortsumfahrung: 20. Dezember 2007
+  eroeffnung_durch: Regierungspräsident Sven von Ungern-Sternberg
+  weiterbau_b31_west: 7. September 2012
+  ziel_weiterbau: Gottenheim
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 437-umkirch/031
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Fahrradverleihsystem Frelo
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  stationen_anzahl: 2
+  standort: Umkirch
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 437-umkirch/032
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Pfarrei
+FACETTE: ALLTAG
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9413/Umkirch | Landesportal
+EIGENSCHAFTEN:
+  gruendung: 1966
+  gemeindezentrum_bau: 1971
+  abspaltung_kirchengemeinde_march: 1978
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 437-umkirch/033
+ENTITÄT: gewäßer
+BEZEICHNUNG: Mühlbach
+FACETTE: LAGE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9413/Umkirch | Landesportal
+EIGENSCHAFTEN:
+  kanalisierung: teil-kanalisiert
+  funktion_entwässerung: Ableitung hochstehenden Grundwassers
+  roemisches_zentrum: bildete Hauptstraße des römischen Ortes
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 437-umkirch/034
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Humbrühl-Rohrmatten
+FACETTE: LAGE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/9413/Umkirch | Landesportal
+EIGENSCHAFTEN:
+  schutzstatus: Naturschutz
+  beschreibung: charakteristische Feuchtbiotope des Dreisamschwemmfächers
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 437-umkirch/035
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Wilhelm Prinz von Hohenzollern
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1924
+  todestag: 2010
+  rolle: ehemaliges Oberhaupt des Hauses Hohenzollern-Sigmaringen
+  herkunft: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/036
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ferfried Prinz von Hohenzollern
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1943
+  todestag: 2022
+  rolle: Tourenwagen-Rennfahrer
+  herkunft: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1943
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/037
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Leopold Prinz von Bayern
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1943
+  rolle: ehemaliger Automobilrennfahrer
+  herkunft: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/038
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Werner Käß
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1924
+  todestag: 2022
+  rolle: Geologe, Träger der Staufermedaille
+  residenz: Umkirch
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/039
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Cécile Verny
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1969
+  rolle: Jazz-Sängerin, Frontfrau des Cécile Verny Quartets
+  residenz: Umkirch
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 437-umkirch/040
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rüdiger Tonojan
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Umkirch | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1972
+  rolle: Politiker (Bündnis 90/Die Grünen)
+  aufwachsen: Umkirch
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

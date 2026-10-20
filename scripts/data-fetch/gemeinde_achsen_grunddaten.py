@@ -401,8 +401,11 @@ def main():
             # die Stadt steht in der Einheit ("Ortsteil von Neuwied") und unter P131 des Stadtteils
             stadt = o['einheit'].split(' von ', 1)[1]
             kand = wd_claims([v['id'] for v, _, _ in gueltige(c, 'P131')])
-            traeger_qid = next(q for q, t in kand.items() if t['labels'].get('de', {}).get('value') == stadt)
-            traeger = kand[traeger_qid]
+            # ein Ort ohne Verwaltungsebene (Höllental 2026-10-20: P131 nennt nicht die Gemeinde) nimmt die erste genannte Einheit
+            traeger_qid = next((q for q, t in kand.items() if t['labels'].get('de', {}).get('value') == stadt), None)
+            traeger = kand[traeger_qid] if traeger_qid else ent[o['wikidata']]
+            if not traeger_qid:
+                traeger_qid = o['wikidata']
             traeger_c = traeger['claims']
             bezug = 'gilt für die Gemeinde %s, nicht für den Stadtteil allein' % traeger['labels']['de']['value']
             stadt_box = infobox(stadt)
@@ -414,7 +417,9 @@ def main():
         kreis = [labels[q]['labels']['de']['value'] for q in einheiten
                  if re.match(r'(Land|Stadt)kreis', labels[q]['labels'].get('de', {}).get('value', ''))]
         if ist_ortsteil and not kreis:
-            kreis = ['Stadtkreis ' + stadt]  # kreisfreie Stadt: P131 nennt keinen Kreis
+            # kreisfreie Stadt: P131 nennt keinen Kreis; ein Ortsteil einer Landgemeinde (Höllental zu Breitnau, 2026-10-20) nimmt
+            # den Landkreis aus der Infobox der Gemeinde
+            kreis = ['Landkreis ' + stadt_box['LANDKREIS']] if stadt_box.get('LANDKREIS') else ['Stadtkreis ' + stadt]
         # Die Infobox führt: Wikidata nennt unter P131 auch aufgelöste Kreise ohne Enddatum.
         if box.get('LANDKREIS'):
             e['landkreis'] = [wert(box['LANDKREIS'], 'dewiki Infobox')]

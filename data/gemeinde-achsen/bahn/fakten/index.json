@@ -166578,45 +166578,48 @@
 },
 "389-merzhausen/001": {
 "entitaet": "ort",
-"bezeichnung": "Merzhausen",
-"eigenschaften": [
-"aufbewahrt_urkunden_ort",
-"benannt_nach",
-"urkundlich_erste_erwähnung"
-],
-"berichtigungen": 0
-},
-"389-merzhausen/002": {
-"entitaet": "ort",
-"bezeichnung": "Merzhausen",
+"bezeichnung": "ort",
 "eigenschaften": [
 "entwicklung",
-"entwicklung_seit",
+"entwicklung_ab",
 "lage",
 "landkreis",
 "topographie"
 ],
 "berichtigungen": 0
 },
+"389-merzhausen/002": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"archivbestand",
+"beschreibung_1830",
+"erste_erwaehnung_detail",
+"erste_urkundliche_erwaehnung",
+"superlativ",
+"weitere_urkunden"
+],
+"berichtigungen": 0
+},
 "389-merzhausen/003": {
 "entitaet": "ort",
-"bezeichnung": "Merzhausen",
+"bezeichnung": "ort",
 "eigenschaften": [
-"gemarkungsfläche_gesamt",
-"höhenlage_maximum",
-"höhenlage_minimum",
-"landwirtschaftsfläche",
-"siedlungs_und_verkehrsfläche",
-"sonstige_flächen",
-"waldfläche",
-"wasserfläche"
+"gemarkungsflaeche",
+"hoehenlage_bis",
+"hoehenlage_von",
+"landwirtschaftsflaeche",
+"siedlungs_verkehrsflaeche",
+"waldflaeche",
+"wasserflaeche"
 ],
 "berichtigungen": 0
 },
 "389-merzhausen/004": {
-"entitaet": "jumelage_partnergemeinde",
+"entitaet": "partnerstadt",
 "bezeichnung": "Dardilly",
 "eigenschaften": [
+"bedeutung_fuer_ort",
 "jumelage_seit",
 "land",
 "region"
@@ -166624,143 +166627,298 @@
 "berichtigungen": 0
 },
 "389-merzhausen/005": {
-"entitaet": "gebäude",
-"bezeichnung": "FORUM",
+"entitaet": "schloss",
+"bezeichnung": "Jesuitenschloss",
 "eigenschaften": [
-"backstage_fläche",
-"bühne_breite",
-"bühne_tiefe",
-"catering_küche_fläche",
-"foyer_fläche",
-"großer_saal_fläche",
-"großer_saal_plätze_bankett",
-"großer_saal_plätze_konzertbestuhlung",
-"großer_saal_plätze_parlamentarisch",
-"großer_saal_stehplätze",
-"induktive_höranlage",
-"kleiner_saal_fläche",
-"kleiner_saal_plätze",
-"künstlergarderoben_fläche",
-"tonanlage"
+"aktueller_nutzer_ab",
+"bedeutung_fuer_ort",
+"erbauung",
+"erbauung_quelle",
+"erwerb_jesuiten",
+"lage",
+"nachnutzung_nach_aufloessung",
+"namensherkunft",
+"nutzung_adelssitz",
+"orden_aufloessung",
+"sanierung_schlosssaal",
+"schlosssaal_funktion_ab_2009"
 ],
 "berichtigungen": 0
 },
 "389-merzhausen/006": {
-"entitaet": "kirche",
-"bezeichnung": "Evangelische Johannesgemeinde",
+"entitaet": "weingut",
+"bezeichnung": "Stiftungsweingut Freiburg",
 "eigenschaften": [
-"anschrift",
-"gemeindebüro_adresse",
-"pfarrerin"
+"betrieb_im_schloss_ab",
+"charakteristika",
+"gruendung",
+"standort"
 ],
 "berichtigungen": 0
 },
 "389-merzhausen/007": {
-"entitaet": "kirche",
-"bezeichnung": "St. Gallus",
+"entitaet": "markt",
+"bezeichnung": "Wochenmarkt",
 "eigenschaften": [
-"kirchenbüro_adresse",
-"kirchengemeinde_teil_von",
-"konfession",
-"kooperator",
-"pastoralreferent"
+"bedeutung_fuer_ort",
+"oeffnungszeiten",
+"regularitaet",
+"standort",
+"standort_ab"
 ],
 "berichtigungen": 0
 },
 "389-merzhausen/008": {
-"entitaet": "religionszugehörigkeit",
-"bezeichnung": "religionszugehörigkeit",
+"entitaet": "fest",
+"bezeichnung": "Weihnachtsmarkt Merzhausen",
 "eigenschaften": [
-"einwohner_total",
-"evangelisch_anteil",
-"katholisch_anteil",
-"konfessionslos_anteil",
-"sonstige_anteil"
+"besonderheit",
+"charakteristika",
+"regularitaet",
+"standort",
+"standort_ab",
+"teilnehmer",
+"termin"
 ],
 "berichtigungen": 0
 },
 "389-merzhausen/009": {
-"entitaet": "religionszugehörigkeit_historisch",
-"bezeichnung": "religionszugehörigkeit historisch",
+"entitaet": "veranstaltungsort",
+"bezeichnung": "FORUM Merzhausen",
 "eigenschaften": [
-"evangelisch_anteil_1980",
-"katholisch_anteil_1980",
-"periode_bis_19_Jahrhundert",
-"protestanten_1875"
+"backstage_flaeche",
+"bedeutung_fuer_ort",
+"buehne_breite",
+"buehne_tiefe",
+"eroeffnung",
+"foyer_flaeche",
+"funktion",
+"gaerderoben_flaeche",
+"grosser_saal_flaeche",
+"grosser_saal_kapazitaet_bankett",
+"grosser_saal_kapazitaet_konzert",
+"grosser_saal_kapazitaet_parlamentarisch",
+"grosser_saal_stehplaetze",
+"hoeranlagen",
+"kleiner_saal_flaeche",
+"kleiner_saal_kapazitaet",
+"kuechenflaeche",
+"technik"
 ],
 "berichtigungen": 0
 },
 "389-merzhausen/010": {
-"entitaet": "gebäude",
-"bezeichnung": "Jesuitenschloss",
+"entitaet": "kirche",
+"bezeichnung": "St. Gallus",
 "eigenschaften": [
-"aktuelle_nutzung",
-"baujahr",
-"baujahr_quelle",
-"folgenutzung",
-"lage",
-"namensherkunft",
-"orden_aufgelöst",
-"schenkung_datum",
-"schenkung_von",
-"schlosssaal_renovierung",
-"tagungsnutzung_seit",
-"weingut_etablierung",
-"weingut_gründung"
+"adresse_kirchenbuero",
+"alte_kirche_erbauung",
+"alte_kirche_renovierung",
+"erste_erwaehnung",
+"konfession",
+"neue_kirche_erbauung"
 ],
 "berichtigungen": 0
 },
 "389-merzhausen/011": {
-"entitaet": "naturraum",
-"bezeichnung": "Schönberg",
+"entitaet": "kirche",
+"bezeichnung": "Evangelische Johannesgemeinde",
 "eigenschaften": [
-"beschreibung",
-"nutzung"
+"adresse",
+"entstehung",
+"grund_entstehung",
+"konfession"
 ],
 "berichtigungen": 0
 },
 "389-merzhausen/012": {
-"entitaet": "friedhof",
-"bezeichnung": "Friedhof Merzhausen",
+"entitaet": "kapelle",
+"bezeichnung": "Schönstattkapelle",
 "eigenschaften": [
-"einsegnungshalle_neue_orgel",
-"einsegnungshalle_neue_stühle",
-"einsegnungshalle_renovierung",
-"orgel_kosten"
+"erbauung_ab",
+"grundstein",
+"grundstein_material",
+"grundstein_weihe",
+"lage",
+"weihe",
+"weihe_person"
 ],
 "berichtigungen": 0
 },
 "389-merzhausen/013": {
-"entitaet": "baugebiet",
-"bezeichnung": "Brunnacker",
+"entitaet": "konfession_statistik",
+"bezeichnung": "konfession statistik",
 "eigenschaften": [
-"alle_wohneinheiten_vergeben",
-"architekturbüro",
-"barrierefreie_wohneinheiten",
-"baukosten_gesamt_je_wohneinheit",
-"doppelhaushälften",
-"einliegerwohnungen_möglich",
-"energiestandard",
-"erbbaurecht_laufzeit",
-"erbbauzins_regulär",
-"fläche",
-"grundstückspreis",
-"heizung",
-"lage",
-"mehrfamilienhäuser",
-"reihenhäuser",
-"vergabe_europaweit",
-"wohneinheiten_gesamt"
+"einwohner",
+"evangelisch_prozent",
+"katholisch_prozent",
+"konfessionslos_prozent",
+"sonstige_prozent",
+"stand"
 ],
 "berichtigungen": 0
 },
 "389-merzhausen/014": {
-"entitaet": "freizeitanlage",
+"entitaet": "weinbau",
+"bezeichnung": "weinbau",
+"eigenschaften": [
+"anzahl_weingueter_2020",
+"bodentyp_schoenberseite",
+"bodentyp_schwarzwaldseite",
+"charakteristika",
+"flaeche",
+"rebsorten",
+"sauregehalt_promille_bis",
+"sauregehalt_promille_von",
+"weincharakter"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/015": {
+"entitaet": "brauerei",
+"bezeichnung": "Die Brauhandwerker",
+"eigenschaften": [
+"adresse"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/016": {
+"entitaet": "weingut",
+"bezeichnung": "Weingut Andreas Dilger",
+"eigenschaften": [
+"anbaugebiet",
+"charakteristika"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/017": {
+"entitaet": "bad",
+"bezeichnung": "BürgerBad Merzhausen",
+"eigenschaften": [
+"aussenbechen_ab",
+"aussenbechen_investment",
+"ausstattung",
+"becken_hubboden",
+"becken_schwimmen_breite",
+"becken_schwimmen_laenge",
+"becken_tiefe_nichtschwimmer_standard",
+"becken_tiefe_schwimmer_max",
+"becken_tiefe_schwimmer_min",
+"bedeutung_fuer_ort",
+"betreiber_ab_2003",
+"betreiber_gruender",
+"blockheizkraftwerk_einbau",
+"blockheizkraftwerk_investment",
+"eroeffnung",
+"fernwaermenutzer",
+"fernwaermeversorgung_ab",
+"investition_bedeutung",
+"investition_eroeffnung",
+"originalname",
+"sprungtuerme"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/018": {
+"entitaet": "wanderweg",
+"bezeichnung": "Erlebnispfad Hexental",
+"eigenschaften": [
+"busanbindung",
+"charakteristika",
+"laenge",
+"verlauf_bis",
+"verlauf_von",
+"wanderverein_bezug"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/019": {
+"entitaet": "wanderweg",
+"bezeichnung": "Vogellehrpfad Hexental",
+"eigenschaften": [
+"begehbarkeit",
+"charakteristika",
+"eignung_kinderwagen",
+"form",
+"schwierigkeit"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/020": {
+"entitaet": "bürgermeister",
+"bezeichnung": "Melanie Kienle",
+"eigenschaften": [
+"amtsantritt",
+"partei",
+"wahl",
+"wahlerg_prozent"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/021": {
+"entitaet": "sportverein",
+"bezeichnung": "VfR Merzhausen",
+"eigenschaften": [
+"lage",
+"mitglieder",
+"superlativ"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/022": {
+"entitaet": "person",
+"bezeichnung": "Kurt Heynicke",
+"eigenschaften": [
+"archiv",
+"archiv_beschreibung",
+"archiv_verwalter",
+"bedeutung_fuer_ort",
+"profession",
+"todesjahr",
+"todestag_monat",
+"todestag_tag",
+"wohnzeit_merzhausen_bis",
+"wohnzeit_merzhausen_von"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/023": {
+"entitaet": "person",
+"bezeichnung": "Joachim Löw",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"geburt",
+"profession",
+"wohnort"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/024": {
+"entitaet": "person",
+"bezeichnung": "Hugo Ott",
+"eigenschaften": [
+"aktivitaet",
+"fokus",
+"profession"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/025": {
+"entitaet": "sporthalle",
+"bezeichnung": "Sporthalle Merzhausen",
+"eigenschaften": [
+"adresse",
+"ausstattung"
+],
+"berichtigungen": 0
+},
+"389-merzhausen/026": {
+"entitaet": "boule_spielfeld",
 "bezeichnung": "Bouleplatz",
 "eigenschaften": [
-"anlass_einweihung",
+"anlass",
 "baukosten",
-"betrieb",
+"betreiber",
 "einweihung",
 "finanzierung_gemeinde",
 "finanzierung_zuwendungen",
@@ -166768,105 +166926,54 @@
 ],
 "berichtigungen": 0
 },
-"389-merzhausen/015": {
-"entitaet": "hallenbad",
-"bezeichnung": "BürgerBad",
-"eigenschaften": [
-"außenbecken_hinzufügen",
-"außenbecken_investition",
-"betreiber_seit_2003",
-"blockheizkraftwerke_einbau",
-"blockheizkraftwerke_kosten",
-"energetische_sanierung",
-"energetische_sanierung_kosten",
-"eröffnung",
-"fassadensanierung_abschluss",
-"fernwärmeversorgung_objekte",
-"fernwärmeversorgung_seit",
-"gesamtsanierung_abschluss",
-"initial_investition",
-"sanierungskosten_gesamt"
-],
-"berichtigungen": 0
-},
-"389-merzhausen/016": {
-"entitaet": "infrastruktur",
-"bezeichnung": "Elektro-Ladesäule",
-"eigenschaften": [
-"betreiber",
-"lage",
-"typ"
-],
-"berichtigungen": 0
-},
-"389-merzhausen/017": {
-"entitaet": "bebauungsplan",
-"bezeichnung": "Am Reichenbach",
-"eigenschaften": [
-"rechtskraft",
-"zweck"
-],
-"berichtigungen": 0
-},
-"389-merzhausen/018": {
-"entitaet": "bebauungsplan",
-"bezeichnung": "Becherwald",
-"eigenschaften": [
-"aufstellungsbeschluss",
-"frühzeitige_öffentlichkeitsbeteiligung",
-"rechtskraft",
-"satzungsbeschluss",
-"veränderungssperre_ausläuft",
-"veränderungssperre_verlängert",
-"öffentliche_auslegung_1",
-"öffentliche_auslegung_2",
-"öffentliche_auslegung_3"
-],
-"berichtigungen": 0
-},
-"389-merzhausen/019": {
-"entitaet": "bebauungsplan",
+"389-merzhausen/027": {
+"entitaet": "wohngebiet",
 "bezeichnung": "Brunnacker",
 "eigenschaften": [
-"beschlussfassung",
-"rechtskraft"
+"charakteristika",
+"einheiten_doppelhaus",
+"einheiten_gesamt",
+"einheiten_mehrfamilie",
+"einheiten_reihenhaus",
+"energiestandard",
+"flaeche",
+"grundstueckspreise_kosten_je_we",
+"heizung",
+"lage",
+"vergabe_ab",
+"vergabe_alle_einheiten_ab"
 ],
 "berichtigungen": 0
 },
-"389-merzhausen/020": {
-"entitaet": "bebauungsplan",
-"bezeichnung": "Casinogelände / Casino II",
+"389-merzhausen/028": {
+"entitaet": "verkehr",
+"bezeichnung": "verkehr",
 "eigenschaften": [
-"abriss_casino_gebäude",
-"anlass",
-"aufstellungsbeschluss",
-"nachfolgenutzung",
-"offenlage",
-"rechtskraft",
-"satzungsbeschluss"
+"buslinie",
+"buslinie_anbindung",
+"buslinie_betreiber",
+"buslinie_strecke_bis",
+"buslinie_strecke_von",
+"busverbindung_sonntag",
+"fahrradverleih_ab",
+"fahrradverleih_stationen",
+"fahrradverleih_system",
+"ladesaeulen_elektro_ab",
+"ladesaeulen_elektro_details"
 ],
 "berichtigungen": 0
 },
-"389-merzhausen/021": {
-"entitaet": "bebauungsplan",
-"bezeichnung": "Hexentalstraße",
+"389-merzhausen/029": {
+"entitaet": "radweg",
+"bezeichnung": "Bettlerpfad",
 "eigenschaften": [
-"anlass",
-"aufstellungsbeschluss",
-"status",
-"veränderungssperre_inkrafttreten"
-],
-"berichtigungen": 0
-},
-"389-merzhausen/022": {
-"entitaet": "ort",
-"bezeichnung": "Merzhausen",
-"eigenschaften": [
-"charakterisierung_1830",
-"einwohner_1830",
-"grundbesitz_1830",
-"häuser_1830",
-"qualität_boden_1830"
+"bedeutung_fuer_ort",
+"charakteristika",
+"funktion_heute",
+"historische_funktion",
+"verlauf_bis",
+"verlauf_stationen",
+"verlauf_von"
 ],
 "berichtigungen": 0
 },
@@ -167252,526 +167359,1112 @@
 "bezeichnung": "Au",
 "eigenschaften": [
 "bundesland",
-"charakterisierung",
-"einwohner",
-"einwohner_1786",
-"einwohner_stand",
-"entfernung_freiburg_city",
-"erste_erwähnung",
-"erste_erwähnung_datum",
-"erste_erwähnung_kontext",
-"häuser_1525",
-"häuser_1786",
-"kfz_kennzeichen",
+"entfernung_freiburg_km",
 "lage",
 "landkreis",
-"landwirtschaftliche_betriebe",
-"pferdehöfe",
-"regierungsbezirk",
-"verwaltungsgemeinschaft",
-"waldbedeckung",
-"weitere_landwirtschaft"
+"regierungsbezirk"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/002": {
-"entitaet": "ereignis",
-"bezeichnung": "Schlacht bei Freiburg - Au",
+"entitaet": "ort",
+"bezeichnung": "Au",
 "eigenschaften": [
-"beschreibung",
-"datum",
-"genauigkeit",
-"kontext"
+"einwohner",
+"einwohner_maennlich",
+"einwohner_weiblich",
+"landwirtschaftliche_betriebe",
+"schwerpunkt_landwirtschaft",
+"waldflaeche_prozent",
+"weitere_viehzucht"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/003": {
-"entitaet": "wappen",
-"bezeichnung": "Wappen der Gemeinde Au",
+"entitaet": "ort",
+"bezeichnung": "Au",
 "eigenschaften": [
-"beschreibung",
-"flaggenfarben",
-"grund",
-"herkunft_hinten",
-"herkunft_vorne",
-"verleihungsdatum"
+"burghof_bezeichnung",
+"erstes_vorkommen",
+"erstes_vorkommen_quelle",
+"mittelalter_burg"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/004": {
 "entitaet": "wappen",
-"bezeichnung": "Wappen der Gemeinde Au (1899)",
+"bezeichnung": "Wappen der Gemeinde Au",
 "eigenschaften": [
+"bedeutung_fuer_ort",
 "beschreibung",
-"graveur",
-"grund_annahme",
-"jahr_annahme",
-"stempel_typ",
-"verwendungsstatus"
+"flaggenfarben",
+"heraldisches_element_links",
+"heraldisches_element_rechts",
+"neuwappen_1899",
+"verleihende_behoerde",
+"verleihung_datum",
+"vorgaenger_siegel_1",
+"vorgaenger_siegel_2"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/005": {
-"entitaet": "kirche",
-"bezeichnung": "Kapelle in Au",
+"entitaet": "burg",
+"bezeichnung": "Burg Au",
 "eigenschaften": [
-"abriss_jahr",
-"bau_jahr",
-"bau_vogt",
-"einweihung_durch",
-"einweihung_jahr",
-"instandsetzung_jahr"
+"erste_erwaehnung",
+"erwaehnung_1789",
+"status"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/006": {
-"entitaet": "kirche",
-"bezeichnung": "St. Johannes, Au (Filialkirche)",
+"entitaet": "kapelle",
+"bezeichnung": "Kapelle Au",
 "eigenschaften": [
-"errichtung_jahr",
-"konfession",
-"orgel_installation"
+"abriss",
+"bauzeit",
+"bischof_einweihung",
+"instandsetzung",
+"vogt_errichtung"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/007": {
-"entitaet": "person",
-"bezeichnung": "Hartmann von Aue",
+"entitaet": "kirche",
+"bezeichnung": "St. Johannes",
 "eigenschaften": [
-"geburtszeitraum",
-"genauigkeit",
-"herkunft_möglichkeit",
-"herkunft_vermutung",
-"profession",
-"todesjahr"
+"bereich",
+"gemeindeverband",
+"gottesdienstzeit",
+"konfession"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/008": {
-"entitaet": "person",
-"bezeichnung": "Heinrich von Au",
+"entitaet": "kirche",
+"bezeichnung": "Johanneskirche (evangelisch)",
 "eigenschaften": [
-"ereignis",
-"ereignis_jahr"
+"gemeinden_predigtbezirk",
+"gottesdienstzeit",
+"konfession",
+"ort_gottesdienst",
+"predigtbezirk"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/009": {
-"entitaet": "person",
-"bezeichnung": "Liutfried von Au",
+"entitaet": "rathaus",
+"bezeichnung": "Rathaus Au",
 "eigenschaften": [
-"nennung_jahr",
-"stand"
+"erbauung",
+"lage",
+"renovierung_erste",
+"renovierung_erweiterung"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/010": {
-"entitaet": "person",
-"bezeichnung": "Hans Konrad Nagel von der Alten Schönenstein",
+"entitaet": "schulhaus",
+"bezeichnung": "Schulhaus Au",
 "eigenschaften": [
-"ereignis",
-"ereignis_jahr"
+"errichtung",
+"renovierung_erweiterung",
+"zusatz_nach_renovierung"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/011": {
-"entitaet": "person",
-"bezeichnung": "Elmar Bitzenhofer",
+"entitaet": "friedhof",
+"bezeichnung": "Friedhof Au",
 "eigenschaften": [
-"amtszeit",
-"position"
+"erste_erwaehnung",
+"friedhofskapelle",
+"friedhofskapelle_besonderheit",
+"neuer_friedhof_anlage",
+"neuer_friedhof_einweihung"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/012": {
-"entitaet": "person",
-"bezeichnung": "Jörg Kindel",
+"entitaet": "buergerhaus",
+"bezeichnung": "Bürgerhaus Au",
 "eigenschaften": [
-"amtszeit_ab",
-"position",
-"zusatz"
+"architektur",
+"bedeutung_fuer_ort",
+"festwiese",
+"funktion",
+"grundsteinlegung",
+"kapazitaet_personen",
+"raumausstattung",
+"uebergabe"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/013": {
-"entitaet": "person",
-"bezeichnung": "Ernst-Wolfgang Böckenförde",
+"entitaet": "markt",
+"bezeichnung": "Auer Wochenmarkt",
 "eigenschaften": [
-"geburts_jahr",
-"position",
-"todes_jahr",
-"wohnort"
+"bedeutung_fuer_ort",
+"besonderheit",
+"gruendung",
+"gruendungsinitiative",
+"initial_marktbeschicker",
+"jubilaeum_2025",
+"produktsortiment",
+"spezialangebote_saisonabhaengig",
+"veranstaltungsfunktion",
+"zeitplan"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/014": {
-"entitaet": "person",
-"bezeichnung": "Natalie Lumpp",
+"entitaet": "spielplatz",
+"bezeichnung": "Spielplatz Au (Ortsmitte)",
 "eigenschaften": [
-"geburts_jahr",
-"profession",
-"verbindung_zu_au"
+"besonderheit",
+"errichtung",
+"lage"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/015": {
-"entitaet": "friedhof",
-"bezeichnung": "Friedhof Au",
+"entitaet": "spielplatz",
+"bezeichnung": "Spielplatz Au (Schloßberg)",
 "eigenschaften": [
-"ehrenmal_für",
-"erste_erwähnung",
-"friedhofskapelle_bau",
-"neuer_friedhof_anlegung"
+"lage"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/016": {
-"entitaet": "rathaus",
-"bezeichnung": "Rathaus Au",
+"entitaet": "bolzplatz",
+"bezeichnung": "Bolzplatz Au (Schloßberg)",
 "eigenschaften": [
-"erbauung_jahr",
-"erste_renovierung"
+"lage"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/017": {
-"entitaet": "schulhaus",
-"bezeichnung": "Schulhaus Au",
+"entitaet": "bolzplatz",
+"bezeichnung": "Bolzplatz Au (Feuerwehr)",
 "eigenschaften": [
-"erbauung_jahr",
-"renovierung_und_erweiterung",
-"wohnungen_zusatz"
+"lage",
+"zusatzanlage"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/018": {
-"entitaet": "feuerwehr",
-"bezeichnung": "Auer Feuerwehr",
+"entitaet": "erlebnispfad",
+"bezeichnung": "Erlebnispfad Hexental",
 "eigenschaften": [
-"erste_erwähnung"
+"attraktion",
+"inhalte",
+"initiator",
+"kernstueck",
+"laenge",
+"partner",
+"strecke",
+"thema_au_abschnitt"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/019": {
-"entitaet": "musikverein",
-"bezeichnung": "Männergesangverein \"Sängerrunde Au\"",
+"entitaet": "bruennen",
+"bezeichnung": "Zierbrunnen Au",
 "eigenschaften": [
-"gründung"
+"errichtung",
+"lage"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/020": {
 "entitaet": "verein",
-"bezeichnung": "Kriegserverein Au",
+"bezeichnung": "Männergesangverein Sängerrunde Au",
 "eigenschaften": [
-"gründung"
+"gruendung"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/021": {
-"entitaet": "musikverein",
-"bezeichnung": "Musikverein Au e.V.",
+"entitaet": "verein",
+"bezeichnung": "Musikverein Au",
 "eigenschaften": [
-"gründung"
+"gruendung"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/022": {
-"entitaet": "sportverein",
+"entitaet": "verein",
 "bezeichnung": "Sportverein Au-Wittnau",
 "eigenschaften": [
-"gründung"
+"gruendung"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/023": {
-"entitaet": "sportverein",
-"bezeichnung": "Sportschützeverein Merzhausen-Au e.V.",
+"entitaet": "verein",
+"bezeichnung": "Sportschützenverein Merzhausen-Au",
 "eigenschaften": [
-"gründung"
+"gruendung",
+"namensaenderung"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/024": {
-"entitaet": "musikgruppe",
-"bezeichnung": "Handharmonika-Club Hexental e.V.",
+"entitaet": "verein",
+"bezeichnung": "Handharmonika-Club Hexental",
 "eigenschaften": [
-"gründung"
+"gruendung"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/025": {
-"entitaet": "musikgruppe",
+"entitaet": "verein",
 "bezeichnung": "Auer Chörli",
 "eigenschaften": [
-"gründung"
+"gruendung"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/026": {
-"entitaet": "brunnen",
-"bezeichnung": "Zierbrunnen am Schloßberg",
+"entitaet": "feuerwehr",
+"bezeichnung": "Freiwillige Feuerwehr Au",
 "eigenschaften": [
-"errichtung_jahr"
+"erste_erwaehnung"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/027": {
-"entitaet": "kindergarten",
-"bezeichnung": "Kindergarten Au",
+"entitaet": "schutzgebiet",
+"bezeichnung": "UNESCO-Biosphärenpark Großes Walsertal",
 "eigenschaften": [
-"bau_jahr"
+"anerkennung",
+"typ"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/028": {
-"entitaet": "gebäude",
-"bezeichnung": "Bürgerhaus (Gemeindesaal Au)",
+"entitaet": "schutzgebiet",
+"bezeichnung": "Naturschutzgebiet Auer Ried",
 "eigenschaften": [
-"architektur",
-"ausbau_under_kirche",
-"funktion",
-"standort"
+"anerkennung",
+"typ"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/029": {
-"entitaet": "wanderweg",
-"bezeichnung": "Naturlehrpfad am Schönberg",
+"entitaet": "schutzgebiet",
+"bezeichnung": "Europaschutzgebiet Unterargenstein",
 "eigenschaften": [
-"thema"
+"anerkennung",
+"typ"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/030": {
-"entitaet": "wanderweg",
-"bezeichnung": "Hexentäler Vogellehrpfad",
+"entitaet": "kammerer",
+"bezeichnung": "Hartmann von Aue",
 "eigenschaften": [
-"thema"
+"bedeutung_fuer_ort",
+"beschreibung",
+"geburtsjahr",
+"herkunft_unsicher",
+"todesjahr",
+"verbindung_au"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/031": {
-"entitaet": "wanderweg",
-"bezeichnung": "Bettlerpfad (historischer Pfad)",
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Ernst-Wolfgang Böckenförde",
 "eigenschaften": [
-"charakterisierung",
-"durchquert_gemeinde",
-"verlauf"
+"beruf",
+"geburtsjahr",
+"todesjahr",
+"verbindung_au"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/032": {
-"entitaet": "weinberg",
-"bezeichnung": "Auer Altberg",
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Natalie Lumpp",
 "eigenschaften": [
-"erste_erwähnung_weinbau_au",
-"erste_urkundliche_erwähnung",
-"weingut"
+"beruf",
+"geburtsjahr",
+"verbindung_au"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/033": {
-"entitaet": "burg",
-"bezeichnung": "Burg in Au",
+"entitaet": "wanderweg",
+"bezeichnung": "Bettlerpfad",
 "eigenschaften": [
-"erste_erwähnung",
-"indiz",
-"status"
+"beschreibung",
+"route",
+"ueberregionalbedeutung",
+"verlauf"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/034": {
-"entitaet": "burg",
-"bezeichnung": "Burg Obhusen (abgegangen)",
+"entitaet": "weingut",
+"bezeichnung": "Weingut Wissler",
 "eigenschaften": [
-"beschreibung",
-"status"
+"bedeutung_fuer_ort",
+"erste_erwaehnung",
+"weinbaulage"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/035": {
-"entitaet": "burg",
-"bezeichnung": "Burg Au (abgegangen)",
+"entitaet": "weinbau",
+"bezeichnung": "Weinbau in Au",
 "eigenschaften": [
-"beschreibung",
-"status"
+"bedeutung_fuer_ort",
+"erste_erwaehnung",
+"erste_erwaehnung_kontext",
+"rolle_heute"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/036": {
-"entitaet": "ortschaft",
-"bezeichnung": "Witraha (abgegangen)",
+"entitaet": "schlacht",
+"bezeichnung": "Schlacht bei Freiburg",
 "eigenschaften": [
-"beschreibung",
-"status"
+"Au_rolle",
+"bedeutung_fuer_ort",
+"datum",
+"krieg"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/037": {
-"entitaet": "zinken",
-"bezeichnung": "Schönberg",
+"entitaet": "verwaltungsgemeinschaft",
+"bezeichnung": "Verwaltungsgemeinschaft Hexental",
 "eigenschaften": [
-"status"
+"gemeinden",
+"sitz"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/038": {
-"entitaet": "zinken",
-"bezeichnung": "Hof",
+"entitaet": "buergermeister",
+"bezeichnung": "Elmar Bitzenhofer",
 "eigenschaften": [
-"status"
+"amtszeit"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/039": {
-"entitaet": "geologie",
-"bezeichnung": "Oberrheingrabens Hauptverwerfung",
+"entitaet": "buergermeister",
+"bezeichnung": "Jörg Kindel",
 "eigenschaften": [
-"auswirkungen",
-"verlauf"
+"amtszeit_ab",
+"zusatzfunktion"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/040": {
-"entitaet": "verkehrsmittel",
-"bezeichnung": "Buslinie 7208",
+"entitaet": "gaestezimmer",
+"bezeichnung": "Weingut Wissler",
 "eigenschaften": [
-"betreiber",
-"strecke"
+"adresse",
+"typ"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/041": {
-"entitaet": "infrastruktur",
-"bezeichnung": "Radweg L 122",
+"entitaet": "gasthof",
+"bezeichnung": "Badischer Heldt Gasthaus zur Stube",
 "eigenschaften": [
-"alternative_route",
-"verbindung",
-"verlauf"
+"adresse",
+"kueche"
 ],
 "berichtigungen": 0
 },
 "390-au-breisgau/042": {
-"entitaet": "landstraße",
-"bezeichnung": "L 122 (Dorfstraße)",
+"entitaet": "gipfel",
+"bezeichnung": "Zitterklapfen",
 "eigenschaften": [
-"ausbau_jahre",
-"verlauf"
+"hoehe",
+"hoehe_einheit"
+],
+"berichtigungen": 0
+},
+"390-au-breisgau/043": {
+"entitaet": "gipfel",
+"bezeichnung": "Kilkaschrofen",
+"eigenschaften": [
+"hoehe",
+"hoehe_einheit"
+],
+"berichtigungen": 0
+},
+"390-au-breisgau/044": {
+"entitaet": "gipfel",
+"bezeichnung": "Ruchwannekopf",
+"eigenschaften": [
+"hoehe",
+"hoehe_einheit"
+],
+"berichtigungen": 0
+},
+"390-au-breisgau/045": {
+"entitaet": "gipfel",
+"bezeichnung": "Annalper Stecken",
+"eigenschaften": [
+"hoehe",
+"hoehe_einheit"
+],
+"berichtigungen": 0
+},
+"390-au-breisgau/046": {
+"entitaet": "gipfel",
+"bezeichnung": "Klippern",
+"eigenschaften": [
+"hoehe",
+"hoehe_einheit"
+],
+"berichtigungen": 0
+},
+"390-au-breisgau/047": {
+"entitaet": "gipfel",
+"bezeichnung": "Liegstein",
+"eigenschaften": [
+"hoehe",
+"hoehe_einheit",
+"typ"
+],
+"berichtigungen": 0
+},
+"390-au-breisgau/048": {
+"entitaet": "gipfel",
+"bezeichnung": "Mittagsfluh",
+"eigenschaften": [
+"hoehe",
+"hoehe_einheit"
+],
+"berichtigungen": 0
+},
+"390-au-breisgau/049": {
+"entitaet": "gipfel",
+"bezeichnung": "Auf der Platte",
+"eigenschaften": [
+"hoehe",
+"hoehe_einheit"
+],
+"berichtigungen": 0
+},
+"390-au-breisgau/050": {
+"entitaet": "gipfel",
+"bezeichnung": "Illenberg",
+"eigenschaften": [
+"hoehe",
+"hoehe_einheit"
 ],
 "berichtigungen": 0
 },
 "391-ebringen/001": {
-"entitaet": "",
-"bezeichnung": "",
-"eigenschaften": [],
+"entitaet": "wanderweg",
+"bezeichnung": "NatURWALDpfad",
+"eigenschaften": [
+"ausgangspunkte",
+"ausstattung",
+"co2_speicherung",
+"eigenschaft_der_gemeinde",
+"flaeche_naturwald",
+"hoehenueberschuss",
+"laenge",
+"lage",
+"zielgruppe",
+"zweck"
+],
+"berichtigungen": 0
+},
+"391-ebringen/002": {
+"entitaet": "fest",
+"bezeichnung": "Markt der schönen Dinge",
+"eigenschaften": [
+"abbau_datum",
+"abbau_uhrzeit",
+"aufbau_datum",
+"aufbau_uhrzeit",
+"termin",
+"uhrzeit",
+"veranstaltungsort"
+],
+"berichtigungen": 0
+},
+"391-ebringen/003": {
+"entitaet": "ort",
+"bezeichnung": "Ebringen",
+"eigenschaften": [
+"dialekt",
+"einwohner",
+"einwohner_zensus_jahr",
+"hoehe_max",
+"hoehe_min",
+"ist_kreisstadt",
+"lage_bundesland",
+"lage_entfernung_freiburg",
+"lage_land",
+"lage_landkreis",
+"zusatzbezeichnung_seit"
+],
+"berichtigungen": 0
+},
+"391-ebringen/004": {
+"entitaet": "berg",
+"bezeichnung": "Schönberg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"geologische_formation",
+"geologische_zuordnung",
+"hoehe",
+"lossablagerungen",
+"oberflaechen_geologie"
+],
+"berichtigungen": 0
+},
+"391-ebringen/005": {
+"entitaet": "kapelle",
+"bezeichnung": "Berghauser Kapelle zum hl. Trudpert",
+"eigenschaften": [
+"bauzeit",
+"erbauer",
+"film",
+"glocke",
+"lage",
+"nutzung",
+"orgel_einbau",
+"orgelgehaeuse",
+"renovierung_aussen",
+"renovierung_innen",
+"stationenweg",
+"wallfahrt",
+"weihe_jahr"
+],
+"berichtigungen": 0
+},
+"391-ebringen/006": {
+"entitaet": "schloss",
+"bezeichnung": "Schloss Ebringen",
+"eigenschaften": [
+"architektur_stil",
+"bauzeit",
+"bedeutung",
+"erbauer",
+"heutige_funktion",
+"ursprungliche_funktion"
+],
+"berichtigungen": 0
+},
+"391-ebringen/007": {
+"entitaet": "pfarrkirche",
+"bezeichnung": "St. Gallus und Otmar",
+"eigenschaften": [
+"grabdenkmale",
+"religion"
+],
+"berichtigungen": 0
+},
+"391-ebringen/008": {
+"entitaet": "naturschutzgebiet",
+"bezeichnung": "Jennetal",
+"eigenschaften": [
+"besonderheit",
+"besonderheit_detail",
+"oeffnung"
+],
+"berichtigungen": 0
+},
+"391-ebringen/009": {
+"entitaet": "naturschutzgebiet",
+"bezeichnung": "Berghauser Matten",
+"eigenschaften": [
+"besonderheit"
+],
+"berichtigungen": 0
+},
+"391-ebringen/010": {
+"entitaet": "denkmal",
+"bezeichnung": "Schlachtenkreuz",
+"eigenschaften": [
+"abtransport_gebeine",
+"anlass",
+"ereignis",
+"lage",
+"ursprungliche_funktion_ort",
+"wallfahrtsort_status"
+],
+"berichtigungen": 0
+},
+"391-ebringen/011": {
+"entitaet": "weinbau",
+"bezeichnung": "weinbau",
+"eigenschaften": [
+"anbauflaeche",
+"dominanz",
+"erste_urkundliche_erwaehnung",
+"flurbereinigung",
+"gruendung_winzergenossenschaft",
+"hauptweingutvereinigungen",
+"sortenspiel_um_2000",
+"zertifizierung"
+],
+"berichtigungen": 0
+},
+"391-ebringen/012": {
+"entitaet": "bahnhaltepunkt",
+"bezeichnung": "Ebringen",
+"eigenschaften": [
+"anbindung_fernverkehr",
+"anschluss_freiburg",
+"betreiber",
+"lage",
+"strecke",
+"verkehr_werktag",
+"verkehr_wochenende"
+],
+"berichtigungen": 0
+},
+"391-ebringen/013": {
+"entitaet": "bergbau",
+"bezeichnung": "bergbau",
+"eigenschaften": [
+"auswirkungen",
+"bergungstransport",
+"betriebszeitraum",
+"grund_einstellung",
+"lage",
+"rohstoff",
+"verladung",
+"wartung_schachtanlagen"
+],
+"berichtigungen": 0
+},
+"391-ebringen/014": {
+"entitaet": "freibad",
+"bezeichnung": "Franz-Josef-Bad",
+"eigenschaften": [
+"baennung_nach",
+"becken",
+"eroeffnung",
+"errichtung",
+"heizung",
+"lage",
+"nachnutzung",
+"schaedigungen",
+"wasserzufuhr"
+],
+"berichtigungen": 0
+},
+"391-ebringen/015": {
+"entitaet": "wanderweg",
+"bezeichnung": "Markgräfler Wiiwegli",
+"eigenschaften": [
+"betreiber",
+"laenge",
+"strecke"
+],
+"berichtigungen": 0
+},
+"391-ebringen/016": {
+"entitaet": "wanderweg",
+"bezeichnung": "Ebringer Brunnenweg",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"391-ebringen/017": {
+"entitaet": "wanderweg",
+"bezeichnung": "Stationenweg",
+"eigenschaften": [
+"aenderung_durch_flurbereinigung",
+"stationen",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"391-ebringen/018": {
+"entitaet": "wanderweg",
+"bezeichnung": "Himmelreich-Jakobusweg",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"391-ebringen/019": {
+"entitaet": "radweg",
+"bezeichnung": "Südschwarzwald-Radweg",
+"eigenschaften": [
+"laenge",
+"strecke",
+"typ",
+"verlauf_durch_ebringen"
+],
+"berichtigungen": 0
+},
+"391-ebringen/020": {
+"entitaet": "schule",
+"bezeichnung": "Schönbergschule",
+"eigenschaften": [
+"typ"
+],
+"berichtigungen": 0
+},
+"391-ebringen/021": {
+"entitaet": "buergermeister",
+"bezeichnung": "Hans-Peter Widmann",
+"eigenschaften": [
+"amtsantritt",
+"vorgaenger",
+"wahlresultat"
+],
+"berichtigungen": 0
+},
+"391-ebringen/022": {
+"entitaet": "ruine",
+"bezeichnung": "Schneeburg",
+"eigenschaften": [
+"anlass",
+"aufgabe",
+"geschichtlicher_ursprung",
+"lage"
+],
+"berichtigungen": 0
+},
+"391-ebringen/023": {
+"entitaet": "veranstaltung",
+"bezeichnung": "Ebringer Fastnacht",
+"eigenschaften": [
+"besonderheiten",
+"rhythmus",
+"tradition"
+],
+"berichtigungen": 0
+},
+"391-ebringen/024": {
+"entitaet": "veranstaltung",
+"bezeichnung": "Ebringer Weintage",
+"eigenschaften": [
+"ort",
+"rhythmus"
+],
+"berichtigungen": 0
+},
+"391-ebringen/025": {
+"entitaet": "veranstaltung",
+"bezeichnung": "Wein- und Sektfestival",
+"eigenschaften": [
+"ort",
+"rhythmus"
+],
+"berichtigungen": 0
+},
+"391-ebringen/026": {
+"entitaet": "veranstaltung",
+"bezeichnung": "Weihnachtsmarkt",
+"eigenschaften": [
+"ort",
+"rhythmus"
+],
+"berichtigungen": 0
+},
+"391-ebringen/027": {
+"entitaet": "religion",
+"bezeichnung": "katholisch",
+"eigenschaften": [
+"aenderung_pfarreigrenzen",
+"anlass",
+"anteile_1858",
+"anteile_1925",
+"anteile_1970",
+"anteile_2014",
+"bezeichnung",
+"kontinuitaet_reformation"
+],
+"berichtigungen": 0
+},
+"391-ebringen/028": {
+"entitaet": "klima",
+"bezeichnung": "klima",
+"eigenschaften": [
+"charakterisierung",
+"durchschnittliche_niederschlagsmenge",
+"jahresdurchschnittstemperatur",
+"max_monat",
+"max_temperatur",
+"messperiode",
+"min_monat",
+"min_temperatur",
+"trend"
+],
+"berichtigungen": 0
+},
+"391-ebringen/029": {
+"entitaet": "personengruppe",
+"bezeichnung": "Julius Schüler",
+"eigenschaften": [
+"lebenszeit",
+"parteizugehoerigkeit",
+"rolle_gemeinde",
+"rolle_landtag",
+"rolle_reichstag"
+],
+"berichtigungen": 0
+},
+"391-ebringen/030": {
+"entitaet": "personengruppe",
+"bezeichnung": "Eugen Schüler",
+"eigenschaften": [
+"ehrenburger_seit",
+"flurbereinigungen",
+"lebenszeit",
+"rolle_gemeinde"
+],
+"berichtigungen": 0
+},
+"391-ebringen/031": {
+"entitaet": "personengruppe",
+"bezeichnung": "Natascha Thoma-Widmann",
+"eigenschaften": [
+"lebenszeit_von",
+"titel"
+],
+"berichtigungen": 0
+},
+"391-ebringen/032": {
+"entitaet": "personengruppe",
+"bezeichnung": "Katrin Lang",
+"eigenschaften": [
+"lebenszeit_von",
+"titel"
+],
+"berichtigungen": 0
+},
+"391-ebringen/033": {
+"entitaet": "wappen",
+"bezeichnung": "wappen",
+"eigenschaften": [
+"belege",
+"elemente",
+"farbgebung_rebmesser_griff",
+"flaggenfarben"
+],
+"berichtigungen": 0
+},
+"391-ebringen/034": {
+"entitaet": "gemeinderat",
+"bezeichnung": "gemeinderat",
+"eigenschaften": [
+"frauenanteil",
+"wahl_2024",
+"zusammensetzung"
+],
+"berichtigungen": 0
+},
+"391-ebringen/035": {
+"entitaet": "verwaltungsgemeinschaft",
+"bezeichnung": "Vereinbarte Verwaltungsgemeinschaft",
+"eigenschaften": [
+"member"
+],
+"berichtigungen": 0
+},
+"391-ebringen/036": {
+"entitaet": "ortsteil",
+"bezeichnung": "Unterdorf",
+"eigenschaften": [
+"besonderheiten"
+],
+"berichtigungen": 0
+},
+"391-ebringen/037": {
+"entitaet": "ortsteil",
+"bezeichnung": "Mitteldorf",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"391-ebringen/038": {
+"entitaet": "ortsteil",
+"bezeichnung": "Oberdorf",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"391-ebringen/039": {
+"entitaet": "ortsteil",
+"bezeichnung": "Tirol",
+"eigenschaften": [
+"frueherer_name",
+"trennung_vom_kernort"
+],
+"berichtigungen": 0
+},
+"391-ebringen/040": {
+"entitaet": "ortsteil",
+"bezeichnung": "Talhausen",
+"eigenschaften": [
+"erste_erwaehnung",
+"laenge",
+"lage",
+"siedlungsreste_roemische_zeit"
+],
+"berichtigungen": 0
+},
+"391-ebringen/041": {
+"entitaet": "brunnen",
+"bezeichnung": "Hohbannstein",
+"eigenschaften": [
+"aufbewahrung_original",
+"besonderheit",
+"current_location",
+"typ"
+],
+"berichtigungen": 0
+},
+"391-ebringen/042": {
+"entitaet": "brunnen",
+"bezeichnung": "Unterer Sinnbrunnen",
+"eigenschaften": [
+"existenz"
+],
+"berichtigungen": 0
+},
+"391-ebringen/043": {
+"entitaet": "brunnen",
+"bezeichnung": "Oberer Sinnbrunnen",
+"eigenschaften": [
+"existenz"
+],
+"berichtigungen": 0
+},
+"391-ebringen/044": {
+"entitaet": "brunnen",
+"bezeichnung": "Talhauser Brunnen",
+"eigenschaften": [
+"existenz"
+],
+"berichtigungen": 0
+},
+"391-ebringen/045": {
+"entitaet": "brunnen",
+"bezeichnung": "Olympiabrunnen",
+"eigenschaften": [
+"alternative_bezeichnung",
+"ausstattung",
+"einweihung"
+],
+"berichtigungen": 0
+},
+"391-ebringen/046": {
+"entitaet": "brunnen",
+"bezeichnung": "Sankt-Gallen-Brunnen",
+"eigenschaften": [
+"existenz"
+],
+"berichtigungen": 0
+},
+"391-ebringen/047": {
+"entitaet": "brunnen",
+"bezeichnung": "Brunnen der vier Brüder",
+"eigenschaften": [
+"existenz"
+],
 "berichtigungen": 0
 },
 "392-schallstadt/001": {
 "entitaet": "ort",
-"bezeichnung": "Schallstadt",
+"bezeichnung": "ort",
 "eigenschaften": [
-"erste_schriftliche_erwaehnung_ort",
-"gemeindename_vereinfachung",
-"herrschaft_baden_zugehoerigkeit",
-"herrschaft_badenweiler_zugehoerigkeit",
-"namensherkunft",
-"scalcstater_marca_erwaehnung",
-"weinbau_erwaehnung",
-"zusammenschluss_mit_mengen",
-"zusammenschluss_mit_wolfenweiler"
+"einwohnerzahl",
+"gemarkungsflaeche_ha",
+"gueltig_ab",
+"hoehenlage_m",
+"kfz_kennzeichen",
+"landkreis",
+"mittlere_jahrestemperatur_celsius",
+"postleitzahl",
+"regierungsbezirk",
+"region",
+"telefon_vorwahl"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/002": {
 "entitaet": "ort",
-"bezeichnung": "Schallstadt",
+"bezeichnung": "ort",
 "eigenschaften": [
-"architektur_prägend",
-"charakter",
-"lage"
+"charakteristika_architektur",
+"einwohnerzahl",
+"genauigkeit",
+"lage",
+"nahe_landschaften",
+"ortsteile"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/003": {
-"entitaet": "ort",
+"entitaet": "gemeinde",
 "bezeichnung": "Schallstadt",
 "eigenschaften": [
-"davon_landwirtschaft",
-"davon_siedlung_verkehr",
-"davon_uebrige_nutzungen",
-"davon_wald",
-"davon_wasser",
-"einwohnerzahl",
-"gemarkungsflaeche",
-"hoehenlage",
-"landkreis",
-"mittlere_jahrestemperatur",
-"postleitzahl",
-"regierungsbezirk",
-"region",
-"stand_einwohnerzahl",
-"telefon_vorwahl"
+"erste_erwaehnung_als_scalcstater_marca",
+"erste_schriftliche_erwaehnung",
+"erwaehnungskontext",
+"fruehe_siedlungsspuren",
+"gueltig_ab",
+"namensherkunft",
+"urgeschichtliche_funde"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/004": {
-"entitaet": "ortsteil",
+"entitaet": "gemeinde",
 "bezeichnung": "Mengen",
 "eigenschaften": [
-"erste_erwaehnung",
-"jahrfeier_1200_jahre",
-"jahrfeier_1225_jahre",
-"kindergarten_100_jahre",
-"lorscher_codex_erwaehnung",
+"erste_schriftliche_erwaehnung",
+"fruehe_siedlungsspuren",
+"gueltig_ab",
 "namensherkunft",
-"siedlungsspuren",
-"stabsamt_zugehoerigkeit",
-"vereinigung_mit_schallstadt_wolfenweiler"
+"vereinigung_mit_schallstadt"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/005": {
-"entitaet": "ortsteil",
+"entitaet": "gemeinde",
 "bezeichnung": "Wolfenweiler",
 "eigenschaften": [
-"erste_sichere_erwaehnung",
-"grafen_freiburg_uebernahme",
-"jahrfeier_1200_jahre",
+"adelsgeschlecht_11_jhd",
+"erste_sichere_schriftliche_erwaehnung",
+"fruehe_siedlungsspuren",
+"gueltig_ab",
 "namensherkunft",
-"siedlungsspuren",
 "vereinigung_mit_schallstadt"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/006": {
-"entitaet": "ortsteil",
+"entitaet": "gemeinde",
 "bezeichnung": "Leutersberg",
 "eigenschaften": [
-"besonderheit",
+"einwohner",
 "erste_erwaehnung",
-"namensherkunft",
-"typ"
+"mittelalterliche_herkunft",
+"namensherkunft"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/007": {
-"entitaet": "person",
-"bezeichnung": "Martin Waldseemüller",
+"entitaet": "ortsteil",
+"bezeichnung": "Föhrenschallstadt",
 "eigenschaften": [
-"auftraggeber",
-"bedeutung",
-"beruf",
-"familienresidenz_ab_1480",
-"geburtsjahr_ungefaehr",
-"geburtsort",
-"kollaborateur",
-"vermutet_geburtshaus",
-"werk_begleitwerk",
-"werk_weltkarte_basis",
-"werk_weltkarte_besonderheit",
-"werk_weltkarte_bezeichnung",
-"werk_weltkarte_datum"
+"ersterwaehnung_als_nieder_schallstadt",
+"spaetere_bezeichnung"
 ],
 "berichtigungen": 0
 },
@@ -167779,210 +168472,494 @@
 "entitaet": "person",
 "bezeichnung": "Martin Waldseemüller",
 "eigenschaften": [
-"briefmarke_sonderausgabe",
-"jubilaeum",
-"strasse_benannt_nach"
+"bedeutung_fuer_ort",
+"beruf",
+"familienlage",
+"foerderer",
+"geburtshaus_vermutung",
+"geburtsjahr_vermutlich",
+"geburtsort",
+"hauptwerk_inhalt",
+"hauptwerk_titel",
+"kollaborateur",
+"superlativ",
+"todesjahr",
+"todesjahr_genauigkeit",
+"veroeffentlichungsdatum",
+"veroeffentlichungsort",
+"wappen_bezeichnung"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/009": {
-"entitaet": "person",
-"bezeichnung": "Johann-Philipp-Glock",
+"entitaet": "gebaeude",
+"bezeichnung": "Binzenmühle",
 "eigenschaften": [
-"bedeutung",
-"schule_benannt_nach"
+"bestand_bis_heute",
+"vermutet_geburtshaus"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/010": {
-"entitaet": "person",
-"bezeichnung": "Tim Lang",
+"entitaet": "gemeinde",
+"bezeichnung": "Rosà",
 "eigenschaften": [
-"email",
-"funktion",
-"position",
-"telefon",
-"telefon_fax"
+"groesse",
+"land",
+"partnerschaft_bekraeftigung",
+"partnerschaftsbeginn",
+"provinz"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/011": {
-"entitaet": "wappen",
-"bezeichnung": "Gemeindewappen Schallstadt",
+"entitaet": "gebaeude",
+"bezeichnung": "Gemeindewappen",
 "eigenschaften": [
-"flagge",
-"gemeinderat_beschluss",
-"gestaltung",
-"hufeisen_bedeutung",
-"symbolik",
-"verleihung_datum",
-"verleihung_durch",
-"weintraube_bedeutung",
-"wolf_bedeutung"
+"absicht",
+"annahmedatum",
+"blasonierung",
+"flaggenfarben",
+"symbole_bedeutung",
+"verleihung_behoerde",
+"verleihungsdatum"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/012": {
-"entitaet": "kirche",
-"bezeichnung": "Evangelische Kirchengemeinde Mengen",
+"entitaet": "wanderweg",
+"bezeichnung": "Jakobsweg Rothenburg-Rottenburg-Thann",
 "eigenschaften": [
-"konfession"
+"charakterisierung",
+"markierung",
+"streckenteil_schallstadt",
+"ziel",
+"zielgruppe"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/013": {
-"entitaet": "kirche",
-"bezeichnung": "Evangelische Kirchengemeinde Wolfenweiler-Schallstadt",
+"entitaet": "gebaeude",
+"bezeichnung": "Neues Rathaus",
 "eigenschaften": [
-"konfession"
+"bedeutung_fuer_ort",
+"fertigstellung"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/014": {
-"entitaet": "kirche",
-"bezeichnung": "Katholische Kirchengemeinde Freiburg-Tuniberg",
-"eigenschaften": [
-"konfession"
-],
-"berichtigungen": 0
-},
-"392-schallstadt/015": {
-"entitaet": "kirche",
-"bezeichnung": "Katholische Kirchengemeinde St. Blasius",
-"eigenschaften": [
-"konfession"
-],
-"berichtigungen": 0
-},
-"392-schallstadt/016": {
-"entitaet": "kirche",
-"bezeichnung": "Liebenzeller Gemeinschaft",
-"eigenschaften": [
-"typ"
-],
-"berichtigungen": 0
-},
-"392-schallstadt/017": {
-"entitaet": "kirche",
-"bezeichnung": "Neuapostolische Kirche",
-"eigenschaften": [
-"konfession"
-],
-"berichtigungen": 0
-},
-"392-schallstadt/018": {
-"entitaet": "kirche",
-"bezeichnung": "Mengener Dorfkirche",
-"eigenschaften": [
-"besonderheit"
-],
-"berichtigungen": 0
-},
-"392-schallstadt/019": {
 "entitaet": "gebaeude",
-"bezeichnung": "Rathaus Schallstadt",
+"bezeichnung": "Ortsmitte Schallstadt",
 "eigenschaften": [
-"besonderheit",
-"stil"
-],
-"berichtigungen": 0
-},
-"392-schallstadt/020": {
-"entitaet": "gebaeude",
-"bezeichnung": "Rathaus Schallstadt (Neubau)",
-"eigenschaften": [
-"besonderheit",
-"bezugsjahr"
-],
-"berichtigungen": 0
-},
-"392-schallstadt/021": {
-"entitaet": "gebaeude",
-"bezeichnung": "Bürger- und Kulturhaus",
-"eigenschaften": [
-"besonderheit",
-"funktion"
-],
-"berichtigungen": 0
-},
-"392-schallstadt/022": {
-"entitaet": "gebaeude",
-"bezeichnung": "Zapfenhof",
-"eigenschaften": [
-"beschreibung"
-],
-"berichtigungen": 0
-},
-"392-schallstadt/023": {
-"entitaet": "muehle",
-"bezeichnung": "Binzenmühle",
-"eigenschaften": [
-"bedeutung",
-"heute_existierend"
-],
-"berichtigungen": 0
-},
-"392-schallstadt/024": {
-"entitaet": "schule",
-"bezeichnung": "Johann-Philipp-Glock-Schule",
-"eigenschaften": [
-"benannt_nach",
-"besonderheit"
-],
-"berichtigungen": 0
-},
-"392-schallstadt/025": {
-"entitaet": "ortsmitte",
-"bezeichnung": "Neue Ortsmitte Schallstadt",
-"eigenschaften": [
+"beschreibung",
 "fertigstellung",
 "planungszeit"
 ],
 "berichtigungen": 0
 },
-"392-schallstadt/026": {
-"entitaet": "projekt",
-"bezeichnung": "Zeitzeugen-Projekt",
+"392-schallstadt/015": {
+"entitaet": "gebaeude",
+"bezeichnung": "Bürger- und Kulturhaus",
 "eigenschaften": [
-"ansprechpartner",
-"plattform",
-"vorbild",
+"bedeutung_fuer_ort"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/016": {
+"entitaet": "schule",
+"bezeichnung": "Johann-Philipp-Glock-Schule",
+"eigenschaften": [
+"erweiterung",
+"namensgeber",
+"namensgeber_eigenschaft",
+"veroeffentlichung"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/017": {
+"entitaet": "gebaeude",
+"bezeichnung": "Käppele",
+"eigenschaften": [
+"aktuelle_nutzung",
+"denkmalschutz",
+"errichtungsjahr",
+"sanierung",
+"scheune_einbau",
+"scheune_flaeche_qm",
+"scheune_nutzung",
+"schulnutzung",
+"urspruengliche_bezeichnung"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/018": {
+"entitaet": "kunstobjekt",
+"bezeichnung": "Bambutopia",
+"eigenschaften": [
+"bambusarten",
+"charakterisierung",
+"flaeche_qm",
+"gruendung",
+"lage",
+"typ"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/019": {
+"entitaet": "naturschutz_projekt",
+"bezeichnung": "Naturlehrpfad Brunnengraben",
+"eigenschaften": [
+"auszeichnung_symbolik",
+"auszeichnungs_uebergabe",
+"bedeutung_fuer_ort",
+"erfolg_insekten",
+"erfolg_vogelarten",
+"gruendung",
+"massnahmen",
+"partner",
+"schwerpunkt",
+"traeger",
+"un_dekade_auszeichnung",
+"un_dekade_kriterium"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/020": {
+"entitaet": "naturschutz_projekt",
+"bezeichnung": "Alte Obstsorten Naturlehrpfad Brunnengraben",
+"eigenschaften": [
+"anzahl",
+"beschilderung",
+"beschreibung",
+"zweck"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/021": {
+"entitaet": "flora",
+"bezeichnung": "Heimische Weidenarten Naturlehrpfad Brunnengraben",
+"eigenschaften": [
+"aspirin_verbindung",
+"beschreibung",
+"historische_nutzung",
+"kulturelle_nutzung"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/022": {
+"entitaet": "flora",
+"bezeichnung": "Einheimische Sträucher Naturlehrpfad Brunnengraben",
+"eigenschaften": [
+"anzahl_arten",
+"beschilderung",
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/023": {
+"entitaet": "weinanbau_region",
+"bezeichnung": "Batzenberg",
+"eigenschaften": [
+"anbauflaeche_ha",
+"ausrichtung",
+"bedeckung",
+"bedeutung_fuer_ort",
+"bodenschicht",
+"erhoehung_umgebung_m",
+"fernwanderweg",
+"flurbereinigung",
+"fruehe_bewirtschafter",
+"fruehe_nutzung",
+"groesse_km_breite",
+"groesse_km_laenge",
+"hoehe_m",
+"hoehenweg_beschaffenheit",
+"hoehenweg_besonderheit",
+"hoehenwweg_laenge_km",
+"markante_punkte_weinlehrpfad",
+"nachkriegsentwicklung",
+"norden_grenze",
+"osten_grenze",
+"rebflurbereinigung_bedeutung",
+"reblaus_problem",
+"rebsorte_einfuehrung",
+"rebsorte_haupttraeger",
+"sueden_grenze",
+"superlativ",
+"weinbau_geschichte",
+"weinbaugebiet_bereiche",
+"weinlehrpfad_inhalt",
+"weinlehrpfad_laenge_km",
+"westen_grenze"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/024": {
+"entitaet": "denkmal",
+"bezeichnung": "Pfropfreben-Denkmal Batzenberg",
+"eigenschaften": [
+"bedeutung",
+"jahr_erstellung",
+"lage"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/025": {
+"entitaet": "denkmal",
+"bezeichnung": "Steinhauerkreuz Batzenberg",
+"eigenschaften": [
+"bedeutung",
+"erbauer",
+"jahr_erstellung",
+"lage"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/026": {
+"entitaet": "verein",
+"bezeichnung": "Gewerbeverein Schallstadt-Ebringen-Pfaffenweiler",
+"eigenschaften": [
+"aktivitaeten",
+"branchen",
+"gegruendet",
+"mitgliederzahl",
+"schwerpunkt",
+"unternehmensgroessen",
 "ziel"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/027": {
-"entitaet": "ausstellung",
-"bezeichnung": "FundMengen",
+"entitaet": "unternehmen",
+"bezeichnung": "Ziemann Sicherheit",
 "eigenschaften": [
-"besonderheit",
-"jahr",
-"thema"
+"bedeutung_fuer_ort",
+"geschaeftsbereich_1",
+"geschaeftsbereich_2",
+"geschaeftsbereich_3",
+"marktposition",
+"sitz",
+"typ"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/028": {
-"entitaet": "wanderweg",
-"bezeichnung": "Jakobsweg",
+"entitaet": "kirche",
+"bezeichnung": "Pfarrkirche St. Martin",
 "eigenschaften": [
-"gekennzeichnung_komplett",
-"markierung",
-"nutzer",
-"pilgerziel",
-"route",
-"teilstück_schallstadt"
+"architekt",
+"bauzeit",
+"besonderheit",
+"stil"
 ],
 "berichtigungen": 0
 },
 "392-schallstadt/029": {
-"entitaet": "gemeinde",
-"bezeichnung": "Rosà",
+"entitaet": "kirche",
+"bezeichnung": "Katholische Kirche St. Blasius",
 "eigenschaften": [
-"land",
-"partnerschaft_10_jahre_jubilaeum",
-"partnerschaft_20_jahre_jubilaeum",
-"partnerschaft_start",
+"bauzeit",
+"besonderheit",
+"lage"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/030": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Kaltes Nahwärmenetz Schallstadt",
+"eigenschaften": [
+"baujahr_start",
+"funktionsweise",
+"status",
+"temperaturbereich_celsius",
+"versorgte_objekte",
+"wärmequelle"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/031": {
+"entitaet": "klinik",
+"bezeichnung": "Rehaklinik Lindenhof",
+"eigenschaften": [
+"lage",
+"spezialisierung",
 "typ"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/032": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Bahnhof Schallstadt",
+"eigenschaften": [
+"bahn",
+"bahnlinie",
+"verkehrsanbindung",
+"verkehrsverbund"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/033": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Bahnhof Ebringen",
+"eigenschaften": [
+"bahn",
+"lage",
+"offizielle_bezeichnung",
+"verkehrsanbindung"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/034": {
+"entitaet": "verkehrsinfra",
+"bezeichnung": "Mengener Tunnel",
+"eigenschaften": [
+"art",
+"geplante_fertigstellung",
+"lage",
+"projekt"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/035": {
+"entitaet": "radweg",
+"bezeichnung": "Badischer Weinradweg",
+"eigenschaften": [
+"charakter",
+"erste_station",
+"startpunkt",
+"treffpunkt_varianten",
+"typ",
+"variante_1",
+"variante_2",
+"ziel",
+"zweite_station"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/036": {
+"entitaet": "wanderweg",
+"bezeichnung": "Markgräfler Wiiwegli",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"laenge_km",
+"organisation",
+"startpunkt",
+"verlauf",
+"ziel"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/037": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Piazza Rosà",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"benannt_nach",
+"einweihung",
+"event",
+"fertigstellung",
+"former_name"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/038": {
+"entitaet": "schule",
+"bezeichnung": "Alemannenschule",
+"eigenschaften": [
+"besonderheit",
+"typ"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/039": {
+"entitaet": "gebaeude",
+"bezeichnung": "Kindergarten Am Käppele",
+"eigenschaften": [
+"lage",
+"typ"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/040": {
+"entitaet": "gebaeude",
+"bezeichnung": "Kindergarten Mengen",
+"eigenschaften": [
+"100_jaehriges_jubilaeum",
+"lage",
+"typ"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/041": {
+"entitaet": "gebaeude",
+"bezeichnung": "Evangelischer Kindergarten am Gehrenweg",
+"eigenschaften": [
+"lage",
+"typ"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/042": {
+"entitaet": "person",
+"bezeichnung": "Johann Philipp Glock",
+"eigenschaften": [
+"ehrung",
+"eigenschaft",
+"superlativ"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/043": {
+"entitaet": "person",
+"bezeichnung": "Tim Lang",
+"eigenschaften": [
+"email",
+"fax",
+"funktion",
+"telefon"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/044": {
+"entitaet": "person",
+"bezeichnung": "Sebastian Kiss",
+"eigenschaften": [
+"amtsantritt",
+"frueherer_beruf",
+"funktion",
+"gueltig_ab",
+"vorgaenger",
+"wahlbeteiligung",
+"wahlform"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/045": {
+"entitaet": "person",
+"bezeichnung": "Alexander Bartsch",
+"eigenschaften": [
+"email",
+"fax",
+"funktion",
+"telefon"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/046": {
+"entitaet": "landschaftsform",
+"bezeichnung": "Hohfirst",
+"eigenschaften": [
+"grenzmarkierung",
+"hoehe_m"
+],
+"berichtigungen": 0
+},
+"392-schallstadt/047": {
+"entitaet": "landschaftsform",
+"bezeichnung": "Hohbannstein",
+"eigenschaften": [
+"beschreibung",
+"funktion"
 ],
 "berichtigungen": 0
 },
@@ -167990,256 +168967,195 @@
 "entitaet": "ort",
 "bezeichnung": "Bad Krozingen",
 "eigenschaften": [
-"badestatus_verleihung",
+"entfernung_basel",
+"entfernung_freiburg",
+"nachbargemeiden",
+"region",
+"sichtlinien",
+"umland"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/002": {
+"entitaet": "ort",
+"bezeichnung": "Bad Krozingen",
+"eigenschaften": [
+"alamannische_besiedlung_zeit",
+"bad_titel_verleihung",
+"bahnhof_bedeutung",
+"bahnhof_eroeffnung",
+"dreissigjähriger_krieg_zerstörungen",
+"erste_urkundliche_erwahnung",
+"genauigkeit_namensherkunft",
+"grosse_kreisstadt_titel_verleihung",
+"mittelalterliche_ortsburg_bauzeit",
+"namensherkunft",
+"namensvariante_ersturkundung",
+"post_thurn_taxis",
+"roemische_besiedlung",
+"roemische_siedlungsfunde",
+"stadt_titel_verleihung",
+"thermalquelle_bohrtiefe",
+"thermalquelle_entdeckung_datum",
+"thermalquelle_name",
+"thermalquelle_umstaende",
+"verkehr_rheintalstrasse"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/003": {
+"entitaet": "ort",
+"bezeichnung": "Bad Krozingen",
+"eigenschaften": [
 "einwohner_1950",
 "einwohner_1970",
 "einwohner_1975",
 "einwohner_1985",
 "einwohner_1995",
 "einwohner_2019",
-"einwohner_2025_08_21",
-"eisenbahnanschluss",
-"erste_urkundliche_erwaehnung",
-"grenzgewasser",
-"große_kreisstadt",
-"grund_erwaehnung",
-"herz_zentrum_eroeffnung",
-"lage",
-"marktrecht",
-"ortsburg_archaeologische_ausgrabungen",
-"ortsburg_aufgabe",
-"ortsburg_errichtung",
-"postlinie_thurn_taxis",
-"praediger_bernhard_von_clairvaux_besuch",
-"roemische_siedlung_einwohner",
-"stadt_erhoehung",
-"thermalquelle_entdeckung",
-"thermalquelle_name",
-"thermalquelle_tiefe"
-],
-"berichtigungen": 0
-},
-"393-bad-krozingen/002": {
-"entitaet": "ortsteil",
-"bezeichnung": "Oberkrozingen",
-"eigenschaften": [
-"bauliche_verbindung_hauptort",
-"erste_nachweise",
-"kapelle",
-"kapelle_errichtung"
-],
-"berichtigungen": 0
-},
-"393-bad-krozingen/003": {
-"entitaet": "ortsteil",
-"bezeichnung": "Hausen",
-"eigenschaften": [
-"eingemeindung_bad_krozingen",
-"erste_urkundliche_erwaehnung",
-"grund_erwaehnung",
-"grund_zusatz",
-"grundherrschaften",
-"hochwasser_katastrophal",
-"kirche_erste_erwaehnung",
-"kirche_name",
-"kirche_neubau",
-"kirche_seelsorgebezirk",
-"lage",
-"ortsherren_spaeter",
-"ortsherren_spaetmittelalter",
-"politische_gemeinde_seit",
-"wasserversorgung_seit",
-"wasserwerk_bau",
-"wiederaufbau_ortsbild",
-"zusatz_name_seit"
-],
-"berichtigungen": 0
-},
-"393-bad-krozingen/004": {
-"entitaet": "ortsteil",
-"bezeichnung": "Tunsel",
-"eigenschaften": [
-"archaeologie_alamannisch",
-"archaeologie_urnenfelderkulturellzeit",
-"burg_herrschaft",
-"burg_uebergang",
-"eingemeindung_bad_krozingen",
-"einwohnerzahl_aktuell",
-"erste_urkundliche_erwaehnung",
-"fest_speckbuure",
-"grund_erwaehnung",
-"hochmittelalter_burg",
-"kirchliche_herrschaft_seit",
-"kloster_vollherrschaft",
-"politische_gemeinde_seit",
-"saekularisation",
-"schmidhofen_kapelle",
-"schmidhofen_wallfahrt",
-"smidhofen_erwaehnung",
-"weiler_schmidhofen"
-],
-"berichtigungen": 0
-},
-"393-bad-krozingen/005": {
-"entitaet": "ortsteil",
-"bezeichnung": "Schlatt",
-"eigenschaften": [
-"archaeologie_grabthuemler",
-"archaeologie_hallstattzeit",
-"archaeologie_hallstattzeit_entdeckung",
-"archaeologie_periode",
-"archaeologie_steinkistengraeber",
-"eingemeindung_abstimmung",
-"eingemeindung_bad_krozingen",
-"erste_urkundliche_erwaehnung",
-"groesse",
-"grund_erwaehnung",
-"grund_schliessung",
-"heiliger_fridolin_verbindung",
-"johanniterkommende_heitersheim_herrschaft",
-"landwirtschaft_sonderkultur",
-"lazariterkloster_gruendung",
-"lazariterkloster_schliessung",
-"lazariterkloster_typ",
-"lazaritkommende_neugruendung",
-"nachfolge_orden",
-"quelle_heilkraft_glaube",
-"saekularisation",
-"taufbrauch",
-"wasserversorgung_zentral",
-"weinbau_aufschwung",
-"weinbau_tradition_seit"
-],
-"berichtigungen": 0
-},
-"393-bad-krozingen/006": {
-"entitaet": "ortsburg",
-"bezeichnung": "Ortsburg Krozingen",
-"eigenschaften": [
-"aufgabe",
-"errichtung",
-"grund_wiederfund",
-"lage",
-"wiederentdeckung"
-],
-"berichtigungen": 0
-},
-"393-bad-krozingen/007": {
-"entitaet": "thermalquelle",
-"bezeichnung": "Nena-Quelle",
-"eigenschaften": [
-"beschreibung",
-"bohrung_nummer",
-"bohrung_tiefe",
-"entdeckung",
-"entdeckungsanlass",
-"wasser_anwendungen",
-"wasser_eigenschaft",
-"wasser_typ"
-],
-"berichtigungen": 0
-},
-"393-bad-krozingen/008": {
-"entitaet": "thermalbad",
-"bezeichnung": "Vita Classica",
-"eigenschaften": [
-"eroeffnung",
-"erweiterung_baedern_asiatisch",
-"erweiterung_saunaparadies",
-"erweiterung_saunaparadies_2",
-"erweiterung_saunaparadies_3",
-"erweiterung_schwimmerbecken",
-"erweiterung_wohlfuehlhaus",
-"modernisierung_umfassend",
-"premium_spas",
-"schwimmerbecken_heizung",
-"schwimmerbecken_laenge",
-"schwimmerbecken_temperatur"
-],
-"berichtigungen": 0
-},
-"393-bad-krozingen/009": {
-"entitaet": "heilbad",
-"bezeichnung": "heilbad",
-"eigenschaften": [
-"badestatus_verleihung",
-"charakterisierung",
-"erstes_badehaus",
-"hochkonjunktur",
+"einwohner_2025",
 "status"
 ],
 "berichtigungen": 0
 },
-"393-bad-krozingen/010": {
-"entitaet": "persoenlichkeit",
+"393-bad-krozingen/004": {
+"entitaet": "ort",
+"bezeichnung": "Bad Krozingen",
+"eigenschaften": [
+"freizeitbaeder",
+"musik_festival",
+"superlativ",
+"thermalbad_errichtung",
+"thermalbaeder"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/005": {
+"entitaet": "ort",
+"bezeichnung": "Bad Krozingen",
+"eigenschaften": [
+"autobahnanbindung",
+"bahnhoefe",
+"bahnstrecke",
+"bundesstrasse",
+"nahverkehr",
+"nebenstrecke"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/006": {
+"entitaet": "ort",
+"bezeichnung": "Bad Krozingen",
+"eigenschaften": [
+"gemeinderat_sitze",
+"oberbuergermeister",
+"verwaltungsgemeinschaft_partner"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/007": {
+"entitaet": "person",
+"bezeichnung": "Dorothea Schlegel",
+"eigenschaften": [
+"beruf",
+"besuch_krozingen",
+"eindruck",
+"zitat"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/008": {
+"entitaet": "person",
 "bezeichnung": "Bernhard von Clairvaux",
 "eigenschaften": [
-"aufenthalt_krozingen",
 "bedeutung",
-"funktion"
+"beruf",
+"genauigkeit_datum",
+"tätigkeit_in_krozingen"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/009": {
+"entitaet": "person",
+"bezeichnung": "Johann Heinrich von Landeck",
+"eigenschaften": [
+"bedeutung",
+"memorial",
+"rolle",
+"stiftung",
+"todesjahr"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/010": {
+"entitaet": "kirche",
+"bezeichnung": "St. Alban",
+"eigenschaften": [
+"bauzeit_erstur",
+"brand_palmsonntag",
+"brand_schaeden",
+"erste_urkundliche_erwahnung",
+"konfession",
+"restaurierung_abschluss"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/011": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Johann Heinrich von Landeck",
+"entitaet": "kirche",
+"bezeichnung": "Christuskirche",
 "eigenschaften": [
-"charakterisierung",
-"funktion",
-"schulnamenspaten",
-"stiftung",
-"tod"
+"einweihung",
+"kirchenfenster_artist",
+"kirchenfenster_bauzeit",
+"kirchenfenster_thema",
+"konfession"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/012": {
-"entitaet": "persoenlichkeit",
-"bezeichnung": "Georg Hettich",
+"entitaet": "kapelle",
+"bezeichnung": "Glöcklehofkapelle",
 "eigenschaften": [
-"besonderheit",
-"nutzung",
-"titel"
+"baustil",
+"bauzeit",
+"fresken_inhalt",
+"superlativ"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/013": {
-"entitaet": "kloster",
-"bezeichnung": "Kloster St. Gallen",
+"entitaet": "kapelle",
+"bezeichnung": "St. Fridolinskapelle",
 "eigenschaften": [
-"grund",
-"schenkung"
+"altar_stiftung",
+"erbauung",
+"nutzung",
+"sanierung"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/014": {
-"entitaet": "kloster",
-"bezeichnung": "Kloster St. Trudpert",
+"entitaet": "kapelle",
+"bezeichnung": "St. Josefskapelle",
 "eigenschaften": [
-"besitz_krozingen",
-"lage",
-"recht"
+"erbauung_grund",
+"standort"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/015": {
-"entitaet": "kloster",
-"bezeichnung": "Kloster St. Blasien",
+"entitaet": "kirche",
+"bezeichnung": "St. Leodegar",
 "eigenschaften": [
-"lage",
-"propstei_errichtung",
-"propstei_funktion",
-"propstei_lage"
+"konfession"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/016": {
 "entitaet": "kirche",
-"bezeichnung": "St.-Johannes-Kirche",
+"bezeichnung": "St. Michael",
 "eigenschaften": [
-"erste_erwaehnung",
-"lage",
-"neubau",
-"seelsorgebezirk"
+"konfession"
 ],
 "berichtigungen": 0
 },
@@ -168247,102 +169163,591 @@
 "entitaet": "kirche",
 "bezeichnung": "St. Sebastian",
 "eigenschaften": [
-"lage"
+"konfession"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/018": {
-"entitaet": "schule",
-"bezeichnung": "Johann-Heinrich-von-Landeck-Schule",
+"entitaet": "kirche",
+"bezeichnung": "St. Johannes",
 "eigenschaften": [
-"charakterisierung",
-"namensgeber",
-"typ"
+"erste_erwähnung",
+"neubau_bauzeit",
+"seelsorgebezug"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/019": {
-"entitaet": "schule",
-"bezeichnung": "Max-Planck-Realschule",
+"entitaet": "thermalquelle",
+"bezeichnung": "Nena-Quelle",
 "eigenschaften": [
-"eroeffnung"
+"bedeutung_fuer_ort",
+"bohrtiefe",
+"dampfwolke",
+"entdeckung_datum",
+"entdeckung_umstaende",
+"quellstrahl_augenzeugenberichte"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/020": {
-"entitaet": "schule",
-"bezeichnung": "Kreisgymnasium",
+"entitaet": "thermalbad",
+"bezeichnung": "Vita Classica",
 "eigenschaften": [
-"eroeffnung"
+"aussenbaecken_heizung",
+"aussenbaecken_laenge",
+"aussenbaecken_temperatur",
+"erstes_badehaus_errichtung",
+"haupteroeffnung_modernes_bad",
+"japanisches_bad_debut",
+"kohlensaeure_konzentration",
+"kohlensaeure_superlativ",
+"kur_hausarztpraxis_groesse",
+"kurhaus_architektur",
+"kurpark_groesse",
+"mineraliengehalt",
+"mineralienwasser_temperatur",
+"modernisierung_100jahr_jubilaeum",
+"neue_features_2011",
+"premium_spas_neubau",
+"saunaparadies_einweihung",
+"saunaparadies_erste_vergroesserung",
+"saunaparadies_zweite_vergroesserung",
+"schwimmer_aussenbaecken_eroeffnung",
+"wassertechnik_solar",
+"wohlfuehlhaus_einweihung",
+"yoga_studio",
+"zweites_aussenbaecken_plus_exotische_baeder"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/021": {
-"entitaet": "museum",
-"bezeichnung": "Stadtmuseum Bad Krozingen",
+"entitaet": "hallenbad",
+"bezeichnung": "Aquarado",
 "eigenschaften": [
-"besonderheit",
-"inhalte"
+"features",
+"liegewiese_groesse"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/022": {
-"entitaet": "archive",
-"bezeichnung": "Stadtarchiv Bad Krozingen",
+"entitaet": "museum",
+"bezeichnung": "Stadtmuseum im Litschgihaus",
 "eigenschaften": [
-"aelteste_archivalien",
-"beispiel_urkunde",
-"funktion"
+"ausstellungs_epochen",
+"ausstellungsinhalt",
+"historische_persoenlichkeiten",
+"oeffnungszeiten",
+"roemischer_schwerpunkt",
+"standort"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/023": {
-"entitaet": "universitaetsklinik",
-"bezeichnung": "Herz-Zentrum",
+"entitaet": "archaeologiepark",
+"bezeichnung": "archaeologiepark",
 "eigenschaften": [
-"bedeutung",
-"eroeffnung",
-"institution",
-"urspruenglicher_name"
+"ausgrabungen_zeitraum",
+"infotafeln",
+"roemischer_gutshof_epoche",
+"standort",
+"steinzeitliches_kammergrab_datum",
+"visualisierung"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/024": {
-"entitaet": "adelsgeschlecht",
-"bezeichnung": "Freiherren von Pfirt",
+"entitaet": "schloss",
+"bezeichnung": "Schloss Bad Krozingen (Renaissance-Schloss der Freiherren von Gleichenstein)",
 "eigenschaften": [
-"herrschaft_zeitraum",
-"herrschaftsgebiet"
+"erbauer",
+"park",
+"privateigentum",
+"schlosskapelle_bauzeit",
+"schlosskapelle_umgestaltung",
+"umbau_18_jahrhundert",
+"urspruengliche_funktion"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/025": {
-"entitaet": "bruennen",
-"bezeichnung": "Römerbrunnen",
+"entitaet": "sammlung",
+"bezeichnung": "Sammlung historischer Tasteninstrumente Neumeyer-Junghanns-Tracey",
 "eigenschaften": [
-"lage",
-"periode",
-"sichtbarkeit"
+"besichtigung",
+"bestaende",
+"erben_und_betreuer",
+"konzertveranstaltungen",
+"sammler",
+"standort"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/026": {
-"entitaet": "fest",
-"bezeichnung": "Speckbuure-Fest",
+"entitaet": "museum",
+"bezeichnung": "Museum im Rathaus Biengen",
 "eigenschaften": [
-"bedeutung",
-"charakterisierung",
-"ursprung"
+"eroeffnung",
+"personal",
+"schwerpunkt",
+"traeger",
+"vorbereitung_dauer"
 ],
 "berichtigungen": 0
 },
 "393-bad-krozingen/027": {
+"entitaet": "mediathek",
+"bezeichnung": "mediathek",
+"eigenschaften": [
+"bestaende",
+"standort_lage",
+"standort_seit",
+"themen"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/028": {
+"entitaet": "kulturstaette",
+"bezeichnung": "Litschgikeller",
+"eigenschaften": [
+"adresse",
+"events",
+"renovierung"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/029": {
+"entitaet": "kino",
+"bezeichnung": "JOKI-Kino",
+"eigenschaften": [
+"frueher_standort",
+"gruendung",
+"neuer_standort",
+"rollstuhlplaetze",
+"sitzplaetze",
+"standortwechsel_eroeffnung",
+"unterstuetzung",
+"verwaltung",
+"vorstellungen_rhythmus"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/030": {
+"entitaet": "universitaetsherzzentrum",
+"bezeichnung": "Universitätsherzzentrum Bad Krozingen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"eroeffnung",
+"spezialisierung",
+"traeger",
+"urspruengliche_bezeichnung"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/031": {
+"entitaet": "ortsteil",
+"bezeichnung": "Biengen",
+"eigenschaften": [
+"abgegangene_ortschaft",
+"eingemeindung_datum",
+"erste_urkundliche_erwahnung",
+"zugehoerige_weiler"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/032": {
+"entitaet": "ortsteil",
+"bezeichnung": "Hausen an der Möhlin",
+"eigenschaften": [
+"eingemeindung_datum",
+"erste_urkundliche_erwahnung",
+"hochwasser_jahr",
+"lebensbedingungen_historisch",
+"ortsvorsteher",
+"wiederaufbau_ortsbild"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/033": {
+"entitaet": "kirchengemeinde",
+"bezeichnung": "St. Johannes",
+"eigenschaften": [
+"erste_erwähnung",
+"neubau_bauzeit",
+"seelsorgebezug",
+"zentrale_funktion"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/034": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Wasserwerk Hausen",
+"eigenschaften": [
+"bauzeit_zeitraum",
+"bedeutung",
+"beschreibung",
+"erbauer",
+"versorgung_2007"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/035": {
+"entitaet": "ortsteil",
+"bezeichnung": "Tunsel",
+"eigenschaften": [
+"abgegangene_ortschaft",
+"charakteristikum",
+"eingemeindung_datum",
+"einwohner_aktuell",
+"erste_urkundliche_erwahnung",
+"kulturelle_veranstaltungen",
+"ortsvorsteher",
+"urkundliche_erwaehnung_mit_schenkung",
+"vereinsleben",
+"zugehoerige_weiler"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/036": {
+"entitaet": "kapelle",
+"bezeichnung": "Kapelle Schmidhofen",
+"eigenschaften": [
+"bedeutung",
+"erste_urkundliche_erwähnung_ort",
+"kapelle_betreuung",
+"wallfahrten"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/037": {
+"entitaet": "fest",
+"bezeichnung": "Speckbuure-Fest",
+"eigenschaften": [
+"bedeutung",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/038": {
+"entitaet": "ortsteil",
+"bezeichnung": "Schlatt",
+"eigenschaften": [
+"eingemeindung_datum",
+"entscheidung_eingemeindung",
+"erste_urkundliche_erwahnung",
+"groesse",
+"johanniter_uebernahme",
+"johanniter_zugehoerigkeit",
+"lazariterkloster_gruendung",
+"lazariterkommende_neuggruendung",
+"merkmale",
+"ortsvorsteher",
+"weingüter"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/039": {
+"entitaet": "archaeologischer_fundort",
+"bezeichnung": "archaeologischer fundort",
+"eigenschaften": [
+"beschreibung",
+"grabhügel",
+"keltische_siedlung_besonderheiten",
+"keltische_siedlung_datierung",
+"keltische_siedlung_fundjahr",
+"merowinger_steinkistengräber"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/040": {
+"entitaet": "quelle",
+"bezeichnung": "Quelle Schlatt",
+"eigenschaften": [
+"genauigkeit_heiliger",
+"heiliger_fridolin",
+"saeuglingsbad_18_jhd",
+"standort",
+"tradition_heilkraft",
+"zentralisierung_wassserversorgung"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/041": {
 "entitaet": "fest",
 "bezeichnung": "Erdbeer- und Spargelfest",
 "eigenschaften": [
-"besucher",
-"produkte",
-"zeitpunkt"
+"bedeutung",
+"spezialisierung_lokal"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/042": {
+"entitaet": "weinkultur",
+"bezeichnung": "Weinbau Schlatt",
+"eigenschaften": [
+"folge_umlegung",
+"qualitaet",
+"reblandumlegung",
+"standort",
+"tradition_beginn"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/043": {
+"entitaet": "person",
+"bezeichnung": "Fritz Raschig",
+"eigenschaften": [
+"aktivitaet_in_krozingen",
+"bedeutung_fuer_ort",
+"berufe",
+"entdeckungsfolge",
+"lebensdaten"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/044": {
+"entitaet": "person",
+"bezeichnung": "Zenta Mauriņa",
+"eigenschaften": [
+"beruf",
+"lebensdaten",
+"memorial",
+"nationalitaet",
+"verbindung_zu_krozingen"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/045": {
+"entitaet": "person",
+"bezeichnung": "Fritz Neumeyer",
+"eigenschaften": [
+"berufe",
+"hinterlegung",
+"lebensdaten",
+"sammlung_groesse",
+"sammlung_standort"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/046": {
+"entitaet": "person",
+"bezeichnung": "Rolf Junghanns",
+"eigenschaften": [
+"berufe",
+"lebensdaten",
+"rolle",
+"standort_betreuung"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/047": {
+"entitaet": "person",
+"bezeichnung": "Bradford Tracey",
+"eigenschaften": [
+"berufe",
+"lebensdaten",
+"rolle"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/048": {
+"entitaet": "person",
+"bezeichnung": "Volker Kieber",
+"eigenschaften": [
+"amt_aenderung",
+"amt_start",
+"partei",
+"wahl_2013",
+"wahl_2021"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/049": {
+"entitaet": "person",
+"bezeichnung": "Walter Scheel",
+"eigenschaften": [
+"amt",
+"amtszeit",
+"lebensdaten",
+"verbindung_zu_krozingen"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/050": {
+"entitaet": "person",
+"bezeichnung": "Oliver Baumann",
+"eigenschaften": [
+"ausbildungsort",
+"beruf",
+"geburtsjahr"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/051": {
+"entitaet": "handelsunternehmen",
+"bezeichnung": "Litschgi",
+"eigenschaften": [
+"aktivitaeten",
+"ansiedlung_ort",
+"ansiedlung_zeit",
+"epitheton_honorificum",
+"heritage",
+"herkunft"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/052": {
+"entitaet": "kanal",
+"bezeichnung": "Litschgi-Kanal",
+"eigenschaften": [
+"auftraggeber",
+"bauzeit",
+"initiator",
+"technik",
+"ueberreste_heute",
+"zweck"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/053": {
+"entitaet": "burg",
+"bezeichnung": "Krozinger Ortsburg (mittelalterlich)",
+"eigenschaften": [
+"aufgabe_periode",
+"bauzeit",
+"umbauten",
+"wiederentdeckung_anlass",
+"wiederentdeckung_datum",
+"wiederentdeckung_methode"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/054": {
+"entitaet": "burg",
+"bezeichnung": "Burg Tunsel",
+"eigenschaften": [
+"besitzer_initial",
+"erbstreit_ergebnis",
+"lage",
+"strategische_bedeutung",
+"ueberlieferung",
+"verschwinden_aus_landschaftsbild",
+"zeitraum_existenz"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/055": {
+"entitaet": "bruecke",
+"bezeichnung": "Nepomukbrücke",
+"eigenschaften": [
+"anlass_bau",
+"steinstatuen_existenz_heute",
+"verzierung"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/056": {
+"entitaet": "bahnhof",
+"bezeichnung": "Bad Krozingen",
+"eigenschaften": [
+"bahnstrecke",
+"bedeutung",
+"eroeffnung",
+"nebenbahn_zweig",
+"verkehrslinien"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/057": {
+"entitaet": "radweg",
+"bezeichnung": "Südschwarzwald-Radweg",
+"eigenschaften": [
+"durch_bad_krozingen",
+"laenge",
+"routenbeginn",
+"routenverlauf_detail",
+"routenverlauf_uebersicht",
+"typ"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/058": {
+"entitaet": "radweg",
+"bezeichnung": "Oberrhein Römer-Radweg",
+"eigenschaften": [
+"laenge",
+"region_verlauf",
+"routenpunkte"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/059": {
+"entitaet": "schulen",
+"bezeichnung": "Johann-Heinrich-von-Landeck-Schule",
+"eigenschaften": [
+"namensgeber",
+"traditionsmerkmale",
+"typ"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/060": {
+"entitaet": "schulen",
+"bezeichnung": "Max-Planck-Realschule",
+"eigenschaften": [
+"betreuung",
+"eroeffnung"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/061": {
+"entitaet": "schulen",
+"bezeichnung": "Kreisgymnasium Bad Krozingen",
+"eigenschaften": [
+"betreuung",
+"eroeffnung"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/062": {
+"entitaet": "gewässer",
+"bezeichnung": "Neumagen",
+"eigenschaften": [
+"moehlin_muendung",
+"muendung_bei_biengen",
+"typ",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/063": {
+"entitaet": "gewässer",
+"bezeichnung": "Möhlin",
+"eigenschaften": [
+"bedeutung_fuer_orte",
+"fluesserei_historie",
+"lage_geschichtlich",
+"typ"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/064": {
+"entitaet": "landschaftsschutzgebiet",
+"bezeichnung": "Landschaftsschutzgebiet Krozinger und Schlatter Berg",
+"eigenschaften": [
+"auszeichnung_jahr"
+],
+"berichtigungen": 0
+},
+"393-bad-krozingen/065": {
+"entitaet": "staedte_partnerschaften",
+"bezeichnung": "staedte partnerschaften",
+"eigenschaften": [
+"gemeinsame_eigenschaft",
+"partnerstadt_1",
+"partnerstadt_2",
+"partnerstadt_3",
+"partnerstadt_4"
 ],
 "berichtigungen": 0
 },
@@ -188090,6 +189495,3048 @@
 "sonstige",
 "wald",
 "wasser"
+],
+"berichtigungen": 0
+},
+"434-staufen/001": {
+"entitaet": "ort",
+"bezeichnung": "Staufen",
+"eigenschaften": [
+"besonderheit_stadtanlage",
+"denkmalpflege_status",
+"grund_stadtwerdung",
+"namensherkunft",
+"stadtgrundung",
+"urkundliche_ersterwahnung",
+"urkundliche_quelle"
+],
+"berichtigungen": 0
+},
+"434-staufen/002": {
+"entitaet": "ort",
+"bezeichnung": "Staufen",
+"eigenschaften": [
+"bundesland",
+"einwohner",
+"einwohner_stand",
+"fluss",
+"hoehe_norden",
+"hoehe_suedosten",
+"lage_geographisch",
+"landkreis",
+"mittelzentrum",
+"nachbarschaften",
+"region"
+],
+"berichtigungen": 0
+},
+"434-staufen/003": {
+"entitaet": "bergbau",
+"bezeichnung": "Silberbergbau",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beleg_historisch",
+"folgen",
+"grund_niedergang",
+"material",
+"niedergang",
+"zeitraum_bluetenzeit"
+],
+"berichtigungen": 0
+},
+"434-staufen/004": {
+"entitaet": "burg",
+"bezeichnung": "Burg Staufen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"besonderheit",
+"einnahmelage",
+"erbauung",
+"erbauung_genauigkeit",
+"inhaber_ursprung",
+"status",
+"wappen_inhaber"
+],
+"berichtigungen": 0
+},
+"434-staufen/005": {
+"entitaet": "familie",
+"bezeichnung": "Herren von Staufen",
+"eigenschaften": [
+"aussterben",
+"charakterisierung",
+"folge_aussterben",
+"kontinuitaet_herrschaft",
+"unterstuetzer",
+"verwandtschaft",
+"zweck_ansiedlung"
+],
+"berichtigungen": 0
+},
+"434-staufen/006": {
+"entitaet": "kirche",
+"bezeichnung": "St. Martin",
+"eigenschaften": [
+"art",
+"barocker_umbau",
+"baujahr",
+"kunsthistorische_werke",
+"neueste_restaurierung",
+"neugotik",
+"patrozinium",
+"status"
+],
+"berichtigungen": 0
+},
+"434-staufen/007": {
+"entitaet": "kirche",
+"bezeichnung": "Martin-Luther-Kirche",
+"eigenschaften": [
+"denkmalschutz",
+"erbauung",
+"gemeinde",
+"grund_erbauung",
+"konfession",
+"lage",
+"stil"
+],
+"berichtigungen": 0
+},
+"434-staufen/008": {
+"entitaet": "bad",
+"bezeichnung": "Alemannenbad",
+"eigenschaften": [
+"art",
+"aussenoert",
+"becken_modern",
+"becken_original_groesse",
+"bedeutung_fuer_ort",
+"betreiber",
+"denkmalschutz",
+"eroeffnung_erste",
+"foerderverein",
+"liegewiese",
+"oeffnung_zeitraum",
+"solarheizung",
+"wasserzufuhr_original"
+],
+"berichtigungen": 0
+},
+"434-staufen/009": {
+"entitaet": "museum",
+"bezeichnung": "Keramikmuseum Staufen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"besonderheit",
+"eroeffnung",
+"gebaeude",
+"lage",
+"sonderausstellungen",
+"studio_km",
+"triaeger",
+"werkstatt_erhaltung",
+"winterpause"
+],
+"berichtigungen": 0
+},
+"434-staufen/010": {
+"entitaet": "museum",
+"bezeichnung": "Tango- und Bandoneonmuseum Staufen",
+"eigenschaften": [
+"besonderheit",
+"dokumentation",
+"eroeffnung",
+"lage",
+"sammlung",
+"triaeger",
+"zusatzangebote"
+],
+"berichtigungen": 0
+},
+"434-staufen/011": {
+"entitaet": "theater",
+"bezeichnung": "Auerbachs Kellertheater",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"begruender",
+"begruendung",
+"bezeichnung_stil",
+"kapazitaet",
+"lage_detail",
+"standort",
+"ueberregionale_bekanntheit",
+"umzug_standort"
+],
+"berichtigungen": 0
+},
+"434-staufen/012": {
+"entitaet": "fest",
+"bezeichnung": "Staufener Musikwoche",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"begruender",
+"besonderheit",
+"gruendung",
+"programm_struktur",
+"repertoire",
+"superlativ",
+"zeitraum"
+],
+"berichtigungen": 0
+},
+"434-staufen/013": {
+"entitaet": "fest",
+"bezeichnung": "Markgräfler Weinfest",
+"eigenschaften": [
+"aussteller",
+"bedeutung_fuer_ort",
+"bestandteil",
+"charakterisierung",
+"kulinarisches",
+"musik_unterhaltung",
+"zeitraum"
+],
+"berichtigungen": 0
+},
+"434-staufen/014": {
+"entitaet": "person",
+"bezeichnung": "Johann Georg Faust",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"bekanntheit",
+"beruf",
+"historische_quellen",
+"lebensjahre",
+"legende",
+"literarische_figur",
+"resonanz_zeitgenossen",
+"todesjahr",
+"todesjahr_genauigkeit",
+"todesorte",
+"todesursache"
+],
+"berichtigungen": 0
+},
+"434-staufen/015": {
+"entitaet": "gaststaette",
+"bezeichnung": "Gasthaus zum Löwen",
+"eigenschaften": [
+"angebot_modern",
+"beruehmt_wegen",
+"denkmalschutz",
+"eigentuemer_mittelalter",
+"ersterwahnung",
+"faust_zimmer",
+"geschichte_1848",
+"kriegsbeschaedigung",
+"namensbeleg",
+"ranking"
+],
+"berichtigungen": 0
+},
+"434-staufen/016": {
+"entitaet": "ereignis",
+"bezeichnung": "Struve-Putsch",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"charakterisierung",
+"datum",
+"denkmale_erinnerung",
+"frau",
+"gefecht_dauer",
+"initiant",
+"kontext",
+"militaer_gegenseite",
+"motto",
+"nachwirkung",
+"stadtrundgang",
+"struve_strafe",
+"tote",
+"truppensraerke"
+],
+"berichtigungen": 0
+},
+"434-staufen/017": {
+"entitaet": "ereignis",
+"bezeichnung": "Bombenangriff auf Staufen",
+"eigenschaften": [
+"datum",
+"folge",
+"gebaeudebestand",
+"kontext",
+"luftwaffe_seite",
+"tote",
+"tote_aufschluesseln",
+"vermutete_grund",
+"wiederaufbau"
+],
+"berichtigungen": 0
+},
+"434-staufen/018": {
+"entitaet": "ereignis_naturphaeomen",
+"bezeichnung": "Hebungsrisse",
+"eigenschaften": [
+"auswirkungen",
+"beginn",
+"entwicklung",
+"hauser_stark_beschaedigt",
+"ursache",
+"zukunft_planung"
+],
+"berichtigungen": 0
+},
+"434-staufen/019": {
+"entitaet": "betrieb",
+"bezeichnung": "IKA-Werke",
+"eigenschaften": [
+"ansiedlung",
+"bedeutung_fuer_ort",
+"bedeutung_fuer_region",
+"branche",
+"mitarbeiter_standort",
+"volle_bezeichnung"
+],
+"berichtigungen": 0
+},
+"434-staufen/020": {
+"entitaet": "betrieb",
+"bezeichnung": "Alfred Schladerer",
+"eigenschaften": [
+"bedeutung",
+"branche",
+"geschichte_lageort",
+"location",
+"volle_bezeichnung"
+],
+"berichtigungen": 0
+},
+"434-staufen/021": {
+"entitaet": "betrieb",
+"bezeichnung": "Bilcare Research GmbH",
+"eigenschaften": [
+"ansiedlung",
+"bedeutung_fuer_ort",
+"produkt"
+],
+"berichtigungen": 0
+},
+"434-staufen/022": {
+"entitaet": "berueckstelle",
+"bezeichnung": "Bezirksamt Staufen",
+"eigenschaften": [
+"charakterisierung",
+"funktion",
+"zeit_staette"
+],
+"berichtigungen": 0
+},
+"434-staufen/023": {
+"entitaet": "begruendung",
+"bezeichnung": "Schelmenzunft Staufen",
+"eigenschaften": [
+"beschreibung",
+"fest_staufener_fasnet",
+"figur_1_beschreibung",
+"figur_1_einfuehrung",
+"figur_1_name",
+"figur_2_beschreibung",
+"figur_2_entwicklung",
+"figur_2_maskendesigner",
+"figur_2_name",
+"figur_2_schöpfer",
+"figur_3_beschreibung",
+"figur_3_name",
+"figuren_anzahl",
+"gruendung_zunft",
+"tradition"
+],
+"berichtigungen": 0
+},
+"434-staufen/024": {
+"entitaet": "fest",
+"bezeichnung": "Staufener Zeitreise – Stages",
+"eigenschaften": [
+"beginn",
+"beschreibung",
+"besonderheit",
+"bühne",
+"konzept",
+"merkmale",
+"mitwirkende",
+"veranstalter",
+"zeitpunkt"
+],
+"berichtigungen": 0
+},
+"434-staufen/025": {
+"entitaet": "verein",
+"bezeichnung": "Gewerbeverein Staufen e.V.",
+"eigenschaften": [
+"aktivitaten",
+"alter_relativ",
+"bedeutung_regional",
+"erster_vorsitz",
+"gruendung",
+"mitglieder_heute",
+"werbegemeinschaft"
+],
+"berichtigungen": 0
+},
+"434-staufen/026": {
+"entitaet": "werkstatt",
+"bezeichnung": "Fark'sche Werkstatt",
+"eigenschaften": [
+"bedeutung_historisch",
+"beruecksichtigung",
+"betreiber",
+"erhaltungsstatus",
+"gruendung",
+"maschinen",
+"oeffnung",
+"typ",
+"verwalter"
+],
+"berichtigungen": 0
+},
+"434-staufen/027": {
+"entitaet": "museum",
+"bezeichnung": "Stadtmuseum Staufen",
+"eigenschaften": [
+"aeltester_bestand",
+"bergbau_beleg",
+"freitritt",
+"funde_zeitraeume",
+"grubenlampen",
+"hindernis",
+"multimedia",
+"oeffnungszeiten",
+"schwerpunkte",
+"ueberblick_geschichte",
+"unterkunft"
+],
+"berichtigungen": 0
+},
+"434-staufen/028": {
+"entitaet": "schule",
+"bezeichnung": "Faust-Gymnasium",
+"eigenschaften": [
+"begruendung",
+"funktion",
+"lehrkraefte",
+"schueler",
+"teil_schulgeschichte",
+"traeger"
+],
+"berichtigungen": 0
+},
+"434-staufen/029": {
+"entitaet": "bruecke",
+"bezeichnung": "Gusseisenbrücke über den Neumagen",
+"eigenschaften": [
+"anderer_name",
+"anderer_name_grund",
+"besonderheit",
+"denkmalschutz",
+"material"
+],
+"berichtigungen": 0
+},
+"434-staufen/030": {
+"entitaet": "ortsteil",
+"bezeichnung": "Grunern",
+"eigenschaften": [
+"dorf_und_orte",
+"grenznaehe",
+"hoefe",
+"status"
+],
+"berichtigungen": 0
+},
+"434-staufen/031": {
+"entitaet": "ortsteil",
+"bezeichnung": "Wettelbrunn",
+"eigenschaften": [
+"gemarkungsflaechenteil",
+"status"
+],
+"berichtigungen": 0
+},
+"434-staufen/032": {
+"entitaet": "landschaftselement",
+"bezeichnung": "Schlossberg",
+"eigenschaften": [
+"beschreibung",
+"besonderheit",
+"dominanz",
+"lage",
+"namensgeber",
+"sichtbarkeit",
+"wappen"
+],
+"berichtigungen": 0
+},
+"434-staufen/033": {
+"entitaet": "landschaftselement",
+"bezeichnung": "Neumagen",
+"eigenschaften": [
+"oertliche_tradition",
+"tal",
+"typ",
+"verlauf"
+],
+"berichtigungen": 0
+},
+"434-staufen/034": {
+"entitaet": "produkt",
+"bezeichnung": "Staudeker",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beschreibung",
+"besonderheit",
+"funktion",
+"zeitpunkt"
+],
+"berichtigungen": 0
+},
+"434-staufen/035": {
+"entitaet": "bucht_bauer",
+"bezeichnung": "Bürgerverwaltung Staufen",
+"eigenschaften": [
+"buergermester_amtsbeginn",
+"buergermester_neueste",
+"buergermester_titel_vorlaeufig",
+"buergermester_wahl_datum",
+"buergermester_wahlgang",
+"buergermester_wahlresultat",
+"buergermestergeschichte"
+],
+"berichtigungen": 0
+},
+"434-staufen/036": {
+"entitaet": "flurname",
+"bezeichnung": "Messerschmiedfelsen",
+"eigenschaften": [
+"hoehe",
+"lage",
+"nutzung_historisch"
+],
+"berichtigungen": 0
+},
+"434-staufen/037": {
+"entitaet": "foerderung_tourismus",
+"bezeichnung": "StaufenGuide",
+"eigenschaften": [
+"audioguide",
+"entwickler",
+"format",
+"pois_infra",
+"pois_tourismus",
+"stadtplan",
+"technik",
+"webseite"
+],
+"berichtigungen": 0
+},
+"434-staufen/038": {
+"entitaet": "partnerstadt",
+"bezeichnung": "Bonneville",
+"eigenschaften": [
+"departement",
+"land",
+"partnerschaft_seit"
+],
+"berichtigungen": 0
+},
+"434-staufen/039": {
+"entitaet": "partnerstadt",
+"bezeichnung": "Kazimierz Dolny",
+"eigenschaften": [
+"land",
+"partnerschaft_seit",
+"woiwodschaft"
+],
+"berichtigungen": 0
+},
+"434-staufen/040": {
+"entitaet": "staedtepartnerschaft_entwicklung",
+"bezeichnung": "Dolores",
+"eigenschaften": [
+"begruendung",
+"land",
+"region",
+"status",
+"verbindendes_element",
+"zeitpunkt"
+],
+"berichtigungen": 0
+},
+"434-staufen/041": {
+"entitaet": "bahnlinie",
+"bezeichnung": "Münstertalbahn",
+"eigenschaften": [
+"anbindung",
+"elektrifizierung",
+"historische_strecke",
+"nahverkehr_tarif",
+"strecke",
+"typ",
+"verwalter"
+],
+"berichtigungen": 0
+},
+"434-staufen/042": {
+"entitaet": "denkmalobjekt",
+"bezeichnung": "Naturdenkmal – Esskastanie",
+"eigenschaften": [
+"alter",
+"art",
+"lage",
+"stammumfang",
+"superlativ"
+],
+"berichtigungen": 0
+},
+"434-staufen/043": {
+"entitaet": "wanderweg",
+"bezeichnung": "Bettlerpfad",
+"eigenschaften": [
+"laenge",
+"quelle",
+"ueberregionale_bekanntheit"
+],
+"berichtigungen": 0
+},
+"434-staufen/044": {
+"entitaet": "badisches_landesmuseum",
+"bezeichnung": "Badisches Landesmuseum – Außenstelle Südbaden",
+"eigenschaften": [
+"beherbergung",
+"funktion",
+"rolle",
+"traegerinstitution"
+],
+"berichtigungen": 0
+},
+"435-horben/001": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"bundesland",
+"entfernung_zu_freiburg",
+"lage",
+"landkreis",
+"nachbar_stadt",
+"schutzgebiet_biosphärengebiet",
+"schutzgebiet_landschaftsschutz",
+"schutzgebiet_naturpark",
+"verwaltungsgemeinschaft"
+],
+"berichtigungen": 0
+},
+"435-horben/002": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"besiedlung_herkunft",
+"dorfordnung_älteste",
+"eigene_pfarrei_seit",
+"erfolgreiche_wehrung_gegen_eingemeindung",
+"erste_erwähnung_als_dorf",
+"erste_erwähnung_als_villa",
+"genauigkeit_besiedlung"
+],
+"berichtigungen": 0
+},
+"435-horben/003": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"betriebstypen",
+"direktvermarktung",
+"gewerbegebiet",
+"handwerk_und_dienstleistung",
+"wirtschaftliche_grundlage"
+],
+"berichtigungen": 0
+},
+"435-horben/004": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"aktivitäten",
+"ferienapartments",
+"fernwanderweg",
+"nächtigungen_2009",
+"tourismus_bedeutung",
+"tourismusverein"
+],
+"berichtigungen": 0
+},
+"435-horben/005": {
+"entitaet": "klima",
+"bezeichnung": "klima",
+"eigenschaften": [
+"genauigkeit_temperatur",
+"hoehenlage_klassifizierung",
+"jahresmitteltemperatur",
+"niederschlag_hoehen",
+"niederschlag_jahresmittel_tal"
+],
+"berichtigungen": 0
+},
+"435-horben/006": {
+"entitaet": "berg",
+"bezeichnung": "Schauinsland",
+"eigenschaften": [
+"aktivitäten",
+"bedeutung_fuer_ort",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/007": {
+"entitaet": "berg",
+"bezeichnung": "Hörnle",
+"eigenschaften": [
+"hoehe",
+"lage"
+],
+"berichtigungen": 0
+},
+"435-horben/008": {
+"entitaet": "berg",
+"bezeichnung": "Eduardshöhe",
+"eigenschaften": [
+"benannt_nach",
+"fauler_titel",
+"hoehe",
+"lage_im_gelande"
+],
+"berichtigungen": 0
+},
+"435-horben/009": {
+"entitaet": "berg",
+"bezeichnung": "Illenberg",
+"eigenschaften": [
+"hoehe",
+"lage_im_gelande"
+],
+"berichtigungen": 0
+},
+"435-horben/010": {
+"entitaet": "aussichtspunkt",
+"bezeichnung": "Heibrain",
+"eigenschaften": [
+"ausblick"
+],
+"berichtigungen": 0
+},
+"435-horben/011": {
+"entitaet": "aussichtspunkt",
+"bezeichnung": "Luisenhöhe",
+"eigenschaften": [
+"benannt_nach",
+"beschreibung",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/012": {
+"entitaet": "gewaesser",
+"bezeichnung": "Bohrerbach",
+"eigenschaften": [
+"geschichtlicher_kontext",
+"name_ab_guentertal",
+"tal",
+"urspruenglicher_name",
+"ursprung"
+],
+"berichtigungen": 0
+},
+"435-horben/013": {
+"entitaet": "gewaesser",
+"bezeichnung": "Selzenbach",
+"eigenschaften": [
+"oberlauf",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/014": {
+"entitaet": "hochwasserschutz",
+"bezeichnung": "Hochwasserrückhaltebecken Bohrertal",
+"eigenschaften": [
+"baubeginn",
+"bauzeit",
+"besonderheit",
+"breite_max",
+"fertigstellung",
+"hoehe",
+"kontroverse",
+"laenge",
+"typus",
+"zweck"
+],
+"berichtigungen": 0
+},
+"435-horben/015": {
+"entitaet": "bahn",
+"bezeichnung": "Schauinslandbahn",
+"eigenschaften": [
+"bauzeit",
+"bedeutung_fuer_ort",
+"bedeutung_gaengigerweise",
+"gipfelstation_gehoert_zu",
+"talstation_gehoert_zu",
+"talstation_lage",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/016": {
+"entitaet": "rennen",
+"bezeichnung": "Schauinsland-Rennen",
+"eigenschaften": [
+"besonderheit",
+"durchfuehrung_von",
+"start_lage",
+"start_position_initial",
+"start_position_spaeter",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/017": {
+"entitaet": "kirche",
+"bezeichnung": "St. Agatha",
+"eigenschaften": [
+"erbauung_anlage",
+"erbauung_grund",
+"erbauung_jahr",
+"erhaltungszustand",
+"friedhof",
+"glocke_herkunft",
+"glocke_jahr",
+"glocke_stifter",
+"heilig_geist_taube",
+"hochaltar_altarbild_kuenstler",
+"hochaltar_altarbild_motiv",
+"hochaltar_stil",
+"innenausstattung_herkunft",
+"innenausstattung_jahr",
+"nutzung",
+"orgel_besonderheit",
+"orgel_erbauer",
+"orgel_jahr",
+"pfarrhaus_jahr",
+"portal_charakteristika",
+"portal_herkunft",
+"portal_jahr",
+"portal_kuenstler",
+"religionszugehoerigkeit",
+"seitenaltar_links_widmung",
+"seitenaltar_rechts_widmung",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/018": {
+"entitaet": "gasthof",
+"bezeichnung": "Zum Raben",
+"eigenschaften": [
+"aktueller_bau_jahr",
+"charakteristik",
+"erste_erwaehnung",
+"geschichtliche_rolle",
+"heutige_nutzung",
+"historisches_erlebnis",
+"modernisierung"
+],
+"berichtigungen": 0
+},
+"435-horben/019": {
+"entitaet": "rathaus",
+"bezeichnung": "rathaus",
+"eigenschaften": [
+"architekturstil",
+"bedeutung_fuer_ort",
+"erbauung_jahr",
+"urspruengliche_nutzung"
+],
+"berichtigungen": 0
+},
+"435-horben/020": {
+"entitaet": "historisches_bauwerk",
+"bezeichnung": "Althäusle",
+"eigenschaften": [
+"architekturstil",
+"besonderheit",
+"erbauung_circa",
+"standort",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/021": {
+"entitaet": "gesundheitsresort",
+"bezeichnung": "gesundheitsresort",
+"eigenschaften": [
+"neubau_baubeginn",
+"neubau_richtfest",
+"neubau_soft_opening",
+"typus",
+"umstritten",
+"vorgaenger",
+"vorgaenger_abriss",
+"vorgaenger_benannt_nach",
+"vorgaenger_brand",
+"vorgaenger_jahr",
+"vorgaenger_wiederaufbau"
+],
+"berichtigungen": 0
+},
+"435-horben/022": {
+"entitaet": "historisches_hotel",
+"bezeichnung": "Friedrichshof",
+"eigenschaften": [
+"benannt_nach",
+"erbauer",
+"erbauung_jahr",
+"heutiger_status",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/023": {
+"entitaet": "villa",
+"bezeichnung": "Villa Küchlin",
+"eigenschaften": [
+"architekt",
+"erbauer",
+"erbauung_jahr",
+"stil"
+],
+"berichtigungen": 0
+},
+"435-horben/024": {
+"entitaet": "ortsteil",
+"bezeichnung": "Bohrer",
+"eigenschaften": [
+"besonderheit",
+"neubaugebiet",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/025": {
+"entitaet": "ortsteil",
+"bezeichnung": "Langackern",
+"eigenschaften": [
+"neubaugebiet",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/026": {
+"entitaet": "ortsteil",
+"bezeichnung": "Katzental",
+"eigenschaften": [
+"radweg",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/027": {
+"entitaet": "ortsteil",
+"bezeichnung": "Münzenried",
+"eigenschaften": [
+"typus",
+"unterteile"
+],
+"berichtigungen": 0
+},
+"435-horben/028": {
+"entitaet": "buergermeister",
+"bezeichnung": "Benjamin Bröcker",
+"eigenschaften": [
+"amt_typ",
+"amtszeit_dauer",
+"amtszeit_von",
+"nachfolge",
+"partei",
+"wahltyp"
+],
+"berichtigungen": 0
+},
+"435-horben/029": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Karl Küchlin",
+"eigenschaften": [
+"bauten",
+"berufe",
+"bezug_zu_horben",
+"lebensdaten",
+"nationalitaet"
+],
+"berichtigungen": 0
+},
+"435-horben/030": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Marina Zwetajewa",
+"eigenschaften": [
+"bezug_zu_horben",
+"gaestinnen",
+"lebensdaten",
+"nationalitaet",
+"profession",
+"vater_titel"
+],
+"berichtigungen": 0
+},
+"435-horben/031": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Valentin Schweiger",
+"eigenschaften": [
+"buergermeister_von_horben",
+"lebensdaten",
+"partei",
+"position"
+],
+"berichtigungen": 0
+},
+"435-horben/032": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Bernd Martin",
+"eigenschaften": [
+"bezug_zu_horben",
+"geburt_jahr",
+"profession"
+],
+"berichtigungen": 0
+},
+"435-horben/033": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Gundolf Fleischer",
+"eigenschaften": [
+"geburt_jahr",
+"partei",
+"position",
+"position_sport",
+"profession"
+],
+"berichtigungen": 0
+},
+"435-horben/034": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Hortense von Gelmini",
+"eigenschaften": [
+"geburt_jahr",
+"profession"
+],
+"berichtigungen": 0
+},
+"435-horben/035": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Wilderich von Droste zu Hülshoff",
+"eigenschaften": [
+"geburt_jahr",
+"profession"
+],
+"berichtigungen": 0
+},
+"435-horben/036": {
+"entitaet": "stiftung",
+"bezeichnung": "Libertas per Veritatem",
+"eigenschaften": [
+"sitz",
+"taetigkeitsbereich",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/037": {
+"entitaet": "verein",
+"bezeichnung": "Musikverein Harmonie",
+"eigenschaften": [
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/038": {
+"entitaet": "verein",
+"bezeichnung": "Schachclub Horben",
+"eigenschaften": [
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/039": {
+"entitaet": "verein",
+"bezeichnung": "Tauziehclub Horben",
+"eigenschaften": [
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/040": {
+"entitaet": "verein",
+"bezeichnung": "Skiclub Horben",
+"eigenschaften": [
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/041": {
+"entitaet": "verein",
+"bezeichnung": "Turnverein Horben",
+"eigenschaften": [
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/042": {
+"entitaet": "verein",
+"bezeichnung": "Narrenzunft Haibraingeister",
+"eigenschaften": [
+"besonderheit",
+"brauch",
+"namensgeber",
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/043": {
+"entitaet": "feuerwehr",
+"bezeichnung": "Freiwillige Feuerwehr Horben",
+"eigenschaften": [
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/044": {
+"entitaet": "fernwanderweg",
+"bezeichnung": "Weg der Revolutionäre",
+"eigenschaften": [
+"beschilderung_durch",
+"beschilderung_seit",
+"historischer_hintergrund",
+"markierung_durch",
+"route_nach",
+"route_von",
+"teil_von"
+],
+"berichtigungen": 0
+},
+"435-horben/045": {
+"entitaet": "denkmal",
+"bezeichnung": "Denkmal beim Jägerbrunnen",
+"eigenschaften": [
+"anlass",
+"beschreibung",
+"besonderheit",
+"standort"
+],
+"berichtigungen": 0
+},
+"435-horben/046": {
+"entitaet": "historisches_ereignis",
+"bezeichnung": "Gefecht bei Günterstal",
+"eigenschaften": [
+"datum",
+"horben_rolle",
+"horbener_vorbereitung",
+"kontext",
+"ort_der_hauptaktion",
+"resultat",
+"teil_beteiligung",
+"verluste"
+],
+"berichtigungen": 0
+},
+"435-horben/047": {
+"entitaet": "historisches_ereignis",
+"bezeichnung": "Besuch Napoleon III.",
+"eigenschaften": [
+"begleitung",
+"besonderheit",
+"genauigkeit",
+"grund_des_weges",
+"jahr",
+"kontext",
+"person",
+"wohnort_bis_1838"
+],
+"berichtigungen": 0
+},
+"435-horben/048": {
+"entitaet": "historisches_ereignis",
+"bezeichnung": "Russische Truppen Befreiungskriege",
+"eigenschaften": [
+"jahr",
+"kontext",
+"route",
+"ziel"
+],
+"berichtigungen": 0
+},
+"435-horben/049": {
+"entitaet": "historisches_ereignis",
+"bezeichnung": "historisches ereignis",
+"eigenschaften": [
+"auswirkung_auf_horben",
+"folgen_1645",
+"rekultivierung",
+"rekultivierung_erfolg"
+],
+"berichtigungen": 0
+},
+"435-horben/050": {
+"entitaet": "reform",
+"bezeichnung": "Aufhebung Frondienste durch Kaiser Joseph II.",
+"eigenschaften": [
+"aktion",
+"jahr"
+],
+"berichtigungen": 0
+},
+"435-horben/051": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Naturpark Südschwarzwald",
+"eigenschaften": [
+"etablierung_zeitpunkt",
+"horben_gehoert_zu"
+],
+"berichtigungen": 0
+},
+"435-horben/052": {
+"entitaet": "infra",
+"bezeichnung": "Infrastruktur Straßen",
+"eigenschaften": [
+"durchgangsverkehr",
+"hauptzufahrt",
+"verbindung"
+],
+"berichtigungen": 0
+},
+"435-horben/053": {
+"entitaet": "infra",
+"bezeichnung": "Öffentliche Verkehrsmittel",
+"eigenschaften": [
+"buslinie_start",
+"buslinien",
+"endhaltestelle"
+],
+"berichtigungen": 0
+},
+"435-horben/054": {
+"entitaet": "infra",
+"bezeichnung": "Mitfahrbänke Horben",
+"eigenschaften": [
+"anzahl",
+"installiert_seit"
+],
+"berichtigungen": 0
+},
+"435-horben/055": {
+"entitaet": "infra",
+"bezeichnung": "Radverkehr",
+"eigenschaften": [
+"verbindung_au",
+"verbindung_freiburg",
+"verbindung_schauinsland"
+],
+"berichtigungen": 0
+},
+"435-horben/056": {
+"entitaet": "infra",
+"bezeichnung": "Grundschule Horben",
+"eigenschaften": [
+"typus",
+"zweiter_weltkrieg"
+],
+"berichtigungen": 0
+},
+"435-horben/057": {
+"entitaet": "infra",
+"bezeichnung": "Kindergarten Horben",
+"eigenschaften": [
+"typus"
+],
+"berichtigungen": 0
+},
+"435-horben/058": {
+"entitaet": "infra",
+"bezeichnung": "Gemeindehalle Horben",
+"eigenschaften": [
+"typus"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/001": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"abstand_stadtmitte",
+"einwohner",
+"hat_siedlungszaesur",
+"ist_sudlichster_stadtteil",
+"lage_geogr",
+"lage_tal",
+"siedlungszaesur_name"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/002": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"eingemeindung_jahr",
+"eingemeindung_zu",
+"ersterwahnung_form",
+"ersterwahnung_jahr",
+"ersterwahnung_kontext",
+"zweite_nennung"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/003": {
+"entitaet": "kloster",
+"bezeichnung": "\"Zisterzienserinnnenkloster Günterstal\"",
+"eigenschaften": [
+"baumeister",
+"bauphase_1",
+"bauphase_2",
+"bauphase_3",
+"bedeutung_fuer_ort",
+"benediktinerinnen_name",
+"benediktinerinnen_uebernahme_jahr",
+"besitzungen_ortschaften",
+"brand_ausmass",
+"brand_jahr",
+"burgen_besitz",
+"gruender_sage",
+"gruender_sage_genauigkeit",
+"grundung_anlass",
+"grundung_jahr",
+"grundung_person",
+"landsitze",
+"neuer_eigentumer",
+"neuer_eigentumer_jahr",
+"neuer_eigentumer_nutzung",
+"ordensname",
+"saekularisation_grund",
+"saekularisation_jahr",
+"schutzvogtei",
+"standrecht_abtissinnen",
+"wichtigste_besitztumer",
+"wiederaufbau_funktion",
+"wiederaufbau_unternehmer"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/004": {
+"entitaet": "kirche",
+"bezeichnung": "\"Liebfrauen-Kirche Günterstal\"",
+"eigenschaften": [
+"baustil",
+"erbaut",
+"kunstwerke_altar_gitter",
+"kunstwerke_altar_madonna",
+"kunstwerke_fenster",
+"kunstwerke_herkunft",
+"kunstwerke_kanzel",
+"kunstwerke_kreuz",
+"kunstwerke_kreuzweg",
+"renovierung_architekt",
+"renovierung_jahre",
+"typ",
+"vorgaenger",
+"vorgaenger_alter"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/005": {
+"entitaet": "kirche",
+"bezeichnung": "\"St. Matthias-Kirche Günterstal\"",
+"eigenschaften": [
+"abbruch_jahr",
+"ersterwahnung",
+"gruender",
+"status_alt",
+"status_neu",
+"status_neu_ab"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/006": {
+"entitaet": "denkmal",
+"bezeichnung": "\"Jägerbrunnendenkmal\"",
+"eigenschaften": [
+"beschreibung",
+"bestand_heute",
+"errichtet_durch",
+"errichtet_ort",
+"kontext"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/007": {
+"entitaet": "berg",
+"bezeichnung": "\"Schauinsland\"",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"bedeutung_fuer_stadt",
+"hoehe",
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/008": {
+"entitaet": "baum",
+"bezeichnung": "\"Waldtraut vom Mühlwald\"",
+"eigenschaften": [
+"baumart",
+"bedeutung_fuer_ort",
+"hoehe_2008",
+"hoehe_2017",
+"hoehe_2019",
+"lage",
+"messung_vorgaenger",
+"messungen_durchgefuehrt_von",
+"rang_aenderung",
+"stammumfang",
+"superlativ"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/009": {
+"entitaet": "arboretum",
+"bezeichnung": "\"Arboretum Freiburg-Günterstal\"",
+"eigenschaften": [
+"bestandteile",
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/010": {
+"entitaet": "museum",
+"bezeichnung": "\"Waldhaus Freiburg\"",
+"eigenschaften": [
+"ausstattung",
+"bedeutung_fuer_ort",
+"benachbart",
+"eroffnung",
+"eroffnung_jahreszeit",
+"lage",
+"schwerpunkt",
+"traeger",
+"zielgruppen"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/011": {
+"entitaet": "forstamt",
+"bezeichnung": "\"Forstamt Freiburg\"",
+"eigenschaften": [
+"alter_standort",
+"architektur_geschosse",
+"architektur_typ",
+"baukosten",
+"neubau_baubeginn",
+"neubau_fertigstellung",
+"neubau_funktion",
+"traeger_neubau",
+"umzug_durchfuehrt"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/012": {
+"entitaet": "villa",
+"bezeichnung": "\"Villa Wohlgemuth\"",
+"eigenschaften": [
+"bauherr",
+"baustil",
+"bauzeit",
+"besitzer_ab_1927",
+"funktion_ab_1927",
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/013": {
+"entitaet": "kloster",
+"bezeichnung": "\"Kloster St. Lioba\"",
+"eigenschaften": [
+"gruender",
+"grundung",
+"orden",
+"religion",
+"standort"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/014": {
+"entitaet": "zahlungsgruppe",
+"bezeichnung": "\"Linie 2 der Freiburger Straßenbahn\"",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"betreiber",
+"betrieb_seit",
+"haltestellen",
+"rang",
+"streckenverlauf",
+"verbindung"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/015": {
+"entitaet": "bahnstrecke",
+"bezeichnung": "\"Schauinslandbahn\"",
+"eigenschaften": [
+"bergstation",
+"buslinie_verbindung",
+"talstation"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/016": {
+"entitaet": "person",
+"bezeichnung": "\"Edith Stein\"",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beruf",
+"grabort",
+"kanonisierung",
+"klosternamen",
+"lebensjahre",
+"maedchennamen",
+"patrozinium",
+"verbindung_gasthof",
+"verbindung_guenterstal"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/017": {
+"entitaet": "person",
+"bezeichnung": "\"Maxim Gorki\"",
+"eigenschaften": [
+"aufenthalt",
+"bedeutung_fuer_ort",
+"begleitung",
+"beruf",
+"beschreibung_landschaft",
+"lebensjahre",
+"nationalitaet"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/018": {
+"entitaet": "person",
+"bezeichnung": "\"Edmund Husserl\"",
+"eigenschaften": [
+"begruendung",
+"beruf",
+"grabort",
+"lebensjahre"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/019": {
+"entitaet": "person",
+"bezeichnung": "\"Sepp Allgeier\"",
+"eigenschaften": [
+"beruf",
+"grabort",
+"lebensjahre"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/020": {
+"entitaet": "person",
+"bezeichnung": "\"Hans Filbinger\"",
+"eigenschaften": [
+"amt",
+"grabort",
+"lebensjahre",
+"wohnort"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/021": {
+"entitaet": "tal",
+"bezeichnung": "\"Bohrer-Tal\"",
+"eigenschaften": [
+"gewaesser",
+"handwerkliche_herkunft"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/022": {
+"entitaet": "hochwasserschutz",
+"bezeichnung": "\"Bohrerdamm\"",
+"eigenschaften": [
+"baukosten_gesamt",
+"breite_max",
+"fertigstellung",
+"hoehe",
+"laenge",
+"lage",
+"landesfinanzierung",
+"schutz_fuer",
+"schutz_level",
+"spatenstich"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/023": {
+"entitaet": "hochwasserschutz",
+"bezeichnung": "\"Breitmatte-Hochwasserrückhaltebecken Erweiterung\"",
+"eigenschaften": [
+"baubeginn",
+"baukosten",
+"fertigstellung",
+"lage",
+"massnahme",
+"schutz_fuer",
+"schutz_level"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/024": {
+"entitaet": "geschaeftsbetrieb",
+"bezeichnung": "\"Mez-Fabrik\"",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"gruender",
+"gruendung",
+"standort",
+"verursachte_wirkung"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/025": {
+"entitaet": "brauerei",
+"bezeichnung": "brauerei",
+"eigenschaften": [
+"beschreibung",
+"betreiber",
+"standort",
+"zeitraum"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/026": {
+"entitaet": "waisenhausstiftung",
+"bezeichnung": "\"Freiburger Waisenhausstiftung\"",
+"eigenschaften": [
+"betreiber_ab_1892",
+"erwerb_kloster",
+"standort"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/027": {
+"entitaet": "ereignis",
+"bezeichnung": "\"Gefecht bei Günterstal (Badische Revolution)\"",
+"eigenschaften": [
+"beteiligte_seite_1",
+"beteiligte_seite_2",
+"gedenkmaeler",
+"grossere_operation",
+"kontext",
+"ort_endsieg",
+"verlauf",
+"verlueste_freischarler",
+"verlueste_soldaten",
+"zeit"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/028": {
+"entitaet": "gasthof",
+"bezeichnung": "\"Gasthof Kybfelsen\"",
+"eigenschaften": [
+"bemerkung",
+"gedenkstelle",
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/029": {
+"entitaet": "gaststaette",
+"bezeichnung": "\"Gasthaus St. Valentin\"",
+"eigenschaften": [
+"funktion_ab_1789",
+"historia_vorher",
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/030": {
+"entitaet": "cafe",
+"bezeichnung": "cafe",
+"eigenschaften": [
+"eroffnung",
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/031": {
+"entitaet": "schule",
+"bezeichnung": "schule",
+"eigenschaften": [
+"ausstattung",
+"funktion_heute"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/032": {
+"entitaet": "kindergarten",
+"bezeichnung": "kindergarten",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/033": {
+"entitaet": "friedhof",
+"bezeichnung": "friedhof",
+"eigenschaften": [
+"begruebnis_bekannte",
+"grab_priester_besondere",
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/034": {
+"entitaet": "spielplatz",
+"bezeichnung": "spielplatz",
+"eigenschaften": [
+"ausstattung",
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/035": {
+"entitaet": "jugendgruppe",
+"bezeichnung": "\"Jugendgruppe Günterstal\"",
+"eigenschaften": [
+"name"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/036": {
+"entitaet": "kapelle",
+"bezeichnung": "\"St. Valentin Kapelle\"",
+"eigenschaften": [
+"abbruch",
+"erstbau",
+"lage",
+"neubau",
+"verwendung_danach",
+"verwendung_heute"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/037": {
+"entitaet": "kapelle",
+"bezeichnung": "\"Matthias-Claudius-Kapelle\"",
+"eigenschaften": [
+"entwidmung_jahr",
+"status_alt",
+"status_neu"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/038": {
+"entitaet": "gewaesser",
+"bezeichnung": "\"Günterstäler Weiher\"",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/039": {
+"entitaet": "tor",
+"bezeichnung": "\"Günterstäler Tor\"",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/040": {
+"entitaet": "wanderweg",
+"bezeichnung": "\"Schauinsland-Radweg\"",
+"eigenschaften": [
+"form",
+"streckenführung"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/041": {
+"entitaet": "fahrradverleih",
+"bezeichnung": "\"Frelo-Station\"",
+"eigenschaften": [
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/042": {
+"entitaet": "mitfahrbank",
+"bezeichnung": "mitfahrbank",
+"eigenschaften": [
+"anzahl",
+"seit",
+"standort_1",
+"standort_2"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/043": {
+"entitaet": "stadtbezirk",
+"bezeichnung": "\"Oberdorf\"",
+"eigenschaften": [
+"beschreibung",
+"grenze",
+"lage"
+],
+"berichtigungen": 0
+},
+"436-guenterstal/044": {
+"entitaet": "stadtbezirk",
+"bezeichnung": "\"Unterdorf\"",
+"eigenschaften": [
+"beschreibung",
+"laeden_geschlossen",
+"lage",
+"naechster_supermarkt",
+"wochenmarkt_versuch"
+],
+"berichtigungen": 0
+},
+"437-umkirch/001": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"einwohnerzahl",
+"flaechenflaeche",
+"hoehenlage_max",
+"hoehenlage_min",
+"kfz_kennzeichen",
+"lage_zu_freiburg",
+"landkreis",
+"plz",
+"regierungsbezirk",
+"region",
+"telefon_vorwahl"
+],
+"berichtigungen": 0
+},
+"437-umkirch/002": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"benannt_nach",
+"erste_erwaehnung",
+"erste_erwaehnung_name",
+"erste_erwaehnung_variante",
+"namensherkunft"
+],
+"berichtigungen": 0
+},
+"437-umkirch/003": {
+"entitaet": "ort",
+"bezeichnung": "ort",
+"eigenschaften": [
+"erfolgreicher_widerstand_gegen_eingemeindung",
+"gebietsreform",
+"grund_widerstand",
+"landkreis_wechsel",
+"mundenhof_zur_stadt"
+],
+"berichtigungen": 0
+},
+"437-umkirch/004": {
+"entitaet": "kirche",
+"bezeichnung": "St. Marien / Pfarrkirche Mariä Himmelfahrt",
+"eigenschaften": [
+"bauzeit",
+"gebaut_von",
+"lage",
+"material_funde",
+"superlativ"
+],
+"berichtigungen": 0
+},
+"437-umkirch/005": {
+"entitaet": "kirche",
+"bezeichnung": "St. Marien / Pfarrkirche Mariä Himmelfahrt",
+"eigenschaften": [
+"barockes_aussehen_seit",
+"patronatsrecht_bis",
+"patronatsrecht_endstuendung",
+"patronatsrecht_inhaber",
+"umbauten_barock",
+"umbauten_gotik"
+],
+"berichtigungen": 0
+},
+"437-umkirch/006": {
+"entitaet": "kirche",
+"bezeichnung": "St. Marien / Pfarrkirche Mariä Himmelfahrt",
+"eigenschaften": [
+"architektur_chor",
+"architektur_langhaus",
+"architektur_turm",
+"patrozinium",
+"renovierung_1956",
+"seitenaltaere"
+],
+"berichtigungen": 0
+},
+"437-umkirch/007": {
+"entitaet": "roemische_siedlung",
+"bezeichnung": "roemische siedlung",
+"eigenschaften": [
+"datierung_keramik",
+"entdeckung_muehlematten",
+"funde_keramik",
+"fundort_hauptgebaeude",
+"fundort_periode",
+"groesse",
+"siedlungstyp"
+],
+"berichtigungen": 0
+},
+"437-umkirch/008": {
+"entitaet": "roemische_siedlung",
+"bezeichnung": "roemische siedlung",
+"eigenschaften": [
+"bautypen",
+"beruf_bewohner",
+"beschaeftigungen",
+"enddatum_vermutet",
+"entdeckungen",
+"erster_namentlich_bekannter_bewohner",
+"funde_keramik_stil",
+"funde_zusatz",
+"funktionen",
+"siedlungstyp"
+],
+"berichtigungen": 0
+},
+"437-umkirch/009": {
+"entitaet": "wasserschloss",
+"bezeichnung": "Schloss Büningen",
+"eigenschaften": [
+"alter_in_jahren",
+"besitzer_17jhd_ausgang",
+"besitzer_1826",
+"folgende_funktionen",
+"funktion_1826",
+"kaeufer",
+"kaiser_erlaubnis",
+"namensvorbild",
+"spaetere_besitzer",
+"urspruengliche_beschreibung",
+"urspruenglicher_kauf",
+"verkaeufer_herkunft",
+"vorherige_besitzer",
+"wehranlage_entfernung_17jhd",
+"wiederaufbau_bauherr",
+"wiederaufbau_zeitraum",
+"zerstoerung_30jaehriger_krieg"
+],
+"berichtigungen": 0
+},
+"437-umkirch/010": {
+"entitaet": "wasserschloss",
+"bezeichnung": "Schloss Büningen",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"funktion_seit_2005",
+"renovierung_grundlegend",
+"renovierung_zeitpunkt"
+],
+"berichtigungen": 0
+},
+"437-umkirch/011": {
+"entitaet": "schloss",
+"bezeichnung": "Hohenzollernschloss / Schloss Hohenzollern",
+"eigenschaften": [
+"ausstattung",
+"baustil",
+"bewohner",
+"eigentumsrecht",
+"gebaut_von",
+"zugaenglichkeit"
+],
+"berichtigungen": 0
+},
+"437-umkirch/012": {
+"entitaet": "schloss",
+"bezeichnung": "ehemaliges Hohenzollernschloss im englischen Landhausstil",
+"eigenschaften": [
+"baustil",
+"heutiger_besitzer",
+"status"
+],
+"berichtigungen": 0
+},
+"437-umkirch/013": {
+"entitaet": "park",
+"bezeichnung": "Queen-Auguste-Victoria-Park",
+"eigenschaften": [
+"auszeichnung",
+"fruehere_bezeichnung",
+"groesse",
+"lage_zu_schloss",
+"zugaenglichkeit"
+],
+"berichtigungen": 0
+},
+"437-umkirch/014": {
+"entitaet": "muehle",
+"bezeichnung": "Schlossmühle",
+"eigenschaften": [
+"bedrohung_abriss",
+"bestand_bis",
+"erste_erwaehnung",
+"erste_erwaehnung_kaeufer",
+"erste_erwaehnung_verkaeufer",
+"erwerb_durch_gemeinde",
+"letzte_betreiber",
+"letzte_muehlennutzung",
+"neubau_eigentuemer",
+"neubau_jahr",
+"restaurierung_zeitraum",
+"rettung_durch",
+"transformation",
+"turbinen_einbau"
+],
+"berichtigungen": 0
+},
+"437-umkirch/015": {
+"entitaet": "muehle",
+"bezeichnung": "Schlossmühle",
+"eigenschaften": [
+"ausstellungskonzept",
+"fischtreppe_installation",
+"heutige_funktion",
+"kraftwerk_installation",
+"kraftwerk_investoren",
+"muehlrad_installation",
+"muehlrad_spender",
+"museum_eroeffnung_neue_location",
+"museum_location",
+"solarpanels",
+"stromerzeugung"
+],
+"berichtigungen": 0
+},
+"437-umkirch/016": {
+"entitaet": "museum",
+"bezeichnung": "Umkircher Museum / Heimatmuseum in der Schlossmühle",
+"eigenschaften": [
+"einrichtung_art",
+"eroeffnung_neuer_standort",
+"fundus_umfang",
+"gruendung",
+"konzept",
+"neue_location",
+"traeger",
+"urspruenglicher_standort",
+"zwischenschliessung"
+],
+"berichtigungen": 0
+},
+"437-umkirch/017": {
+"entitaet": "ortschaft",
+"bezeichnung": "Mundenhof",
+"eigenschaften": [
+"abtrennung_empfaenger",
+"abtrennung_grund",
+"abtrennung_jahr",
+"ausgleich",
+"status"
+],
+"berichtigungen": 0
+},
+"437-umkirch/018": {
+"entitaet": "ortschaft",
+"bezeichnung": "Dachswangen",
+"eigenschaften": [
+"historischer_name",
+"offizielle_bezeichnung",
+"ortstyp"
+],
+"berichtigungen": 0
+},
+"437-umkirch/019": {
+"entitaet": "gewerbegebiet",
+"bezeichnung": "Gewerbegebiet Umkirch",
+"eigenschaften": [
+"betriebe_anzahl",
+"expansionsphase",
+"lage",
+"wirtschaftsbedeutung"
+],
+"berichtigungen": 0
+},
+"437-umkirch/020": {
+"entitaet": "partnerstadt",
+"bezeichnung": "Bruges",
+"eigenschaften": [
+"laender_verbindung",
+"land",
+"partnerschaft_seit",
+"region"
+],
+"berichtigungen": 0
+},
+"437-umkirch/021": {
+"entitaet": "buergermeister",
+"bezeichnung": "Pascal Saffran",
+"eigenschaften": [
+"amtsantritt",
+"partei",
+"wahlbeteiligung_prozent",
+"wahlstimmen_prozent"
+],
+"berichtigungen": 0
+},
+"437-umkirch/022": {
+"entitaet": "buergermeister",
+"bezeichnung": "Walter Laub",
+"eigenschaften": [
+"amtsantritt",
+"amtsdauer",
+"amtsende",
+"partei"
+],
+"berichtigungen": 0
+},
+"437-umkirch/023": {
+"entitaet": "betrieb",
+"bezeichnung": "Gerriets GmbH",
+"eigenschaften": [
+"bedeutung_weltweit",
+"branche",
+"standort"
+],
+"berichtigungen": 0
+},
+"437-umkirch/024": {
+"entitaet": "betrieb",
+"bezeichnung": "TRUMPF Medizin Systeme GmbH + Co. KG",
+"eigenschaften": [
+"standort"
+],
+"berichtigungen": 0
+},
+"437-umkirch/025": {
+"entitaet": "betrieb",
+"bezeichnung": "Welte Fahrzeugbau",
+"eigenschaften": [
+"standort"
+],
+"berichtigungen": 0
+},
+"437-umkirch/026": {
+"entitaet": "betrieb",
+"bezeichnung": "hms-sonosystems GmbH",
+"eigenschaften": [
+"standort"
+],
+"berichtigungen": 0
+},
+"437-umkirch/027": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Hallenbad",
+"eigenschaften": [
+"status",
+"status_aktuell"
+],
+"berichtigungen": 0
+},
+"437-umkirch/028": {
+"entitaet": "kriegsevent",
+"bezeichnung": "kriegsevent",
+"eigenschaften": [
+"datum",
+"ereignis",
+"herkunft_flugzeug",
+"kontext_ereignis"
+],
+"berichtigungen": 0
+},
+"437-umkirch/029": {
+"entitaet": "lager",
+"bezeichnung": "Kriegsgefangenenlager",
+"eigenschaften": [
+"einsatz_gefangene",
+"gruendung_jahr",
+"kriegsgefangene"
+],
+"berichtigungen": 0
+},
+"437-umkirch/030": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Bundesstraße 31a",
+"eigenschaften": [
+"eroeffnung_durch",
+"neubau_ortsumfahrung",
+"verbindung_stadt",
+"verknuepfung_autobahn",
+"weiterbau_b31_west",
+"ziel_weiterbau"
+],
+"berichtigungen": 0
+},
+"437-umkirch/031": {
+"entitaet": "infrastruktur",
+"bezeichnung": "Fahrradverleihsystem Frelo",
+"eigenschaften": [
+"standort",
+"stationen_anzahl"
+],
+"berichtigungen": 0
+},
+"437-umkirch/032": {
+"entitaet": "kirche",
+"bezeichnung": "Evangelische Pfarrei",
+"eigenschaften": [
+"abspaltung_kirchengemeinde_march",
+"gemeindezentrum_bau",
+"gruendung"
+],
+"berichtigungen": 0
+},
+"437-umkirch/033": {
+"entitaet": "gewäßer",
+"bezeichnung": "Mühlbach",
+"eigenschaften": [
+"funktion_entwässerung",
+"kanalisierung",
+"roemisches_zentrum"
+],
+"berichtigungen": 0
+},
+"437-umkirch/034": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "Humbrühl-Rohrmatten",
+"eigenschaften": [
+"beschreibung",
+"schutzstatus"
+],
+"berichtigungen": 0
+},
+"437-umkirch/035": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Friedrich Wilhelm Prinz von Hohenzollern",
+"eigenschaften": [
+"geburtstag",
+"herkunft",
+"rolle",
+"todestag"
+],
+"berichtigungen": 0
+},
+"437-umkirch/036": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Ferfried Prinz von Hohenzollern",
+"eigenschaften": [
+"geburtstag",
+"herkunft",
+"rolle",
+"todestag"
+],
+"berichtigungen": 0
+},
+"437-umkirch/037": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Leopold Prinz von Bayern",
+"eigenschaften": [
+"geburtstag",
+"herkunft",
+"rolle"
+],
+"berichtigungen": 0
+},
+"437-umkirch/038": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Werner Käß",
+"eigenschaften": [
+"geburtstag",
+"residenz",
+"rolle",
+"todestag"
+],
+"berichtigungen": 0
+},
+"437-umkirch/039": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Cécile Verny",
+"eigenschaften": [
+"geburtstag",
+"residenz",
+"rolle"
+],
+"berichtigungen": 0
+},
+"437-umkirch/040": {
+"entitaet": "persoenlichkeit",
+"bezeichnung": "Rüdiger Tonojan",
+"eigenschaften": [
+"aufwachsen",
+"geburtstag",
+"rolle"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/001": {
+"entitaet": "ort",
+"bezeichnung": "Gundelfingen",
+"eigenschaften": [
+"bundesländer",
+"einwohner",
+"einzugsgebiet",
+"entfernung_zur_stadtgrenze_freiburg",
+"größte_gemeinde_im_landkreis_ohne_stadtrecht",
+"lage",
+"ortsteile",
+"verwaltungsgemeinschaft"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/002": {
+"entitaet": "ortsteil",
+"bezeichnung": "Wildtal",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"bevölkerungsanteil_zustimmung_zusammenschluss_gundelfingen",
+"eingemeindung_zu_gundelfingen",
+"einwohner_2015",
+"einzigartigkeit"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/003": {
+"entitaet": "burg",
+"bezeichnung": "Zähringer Burg",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"besonderheit",
+"erbaut_zeit",
+"fahne",
+"original_funktion",
+"status",
+"zerstört"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/004": {
+"entitaet": "bad",
+"bezeichnung": "Obermattenbad",
+"eigenschaften": [
+"art",
+"ausstattung",
+"bedeutung_fuer_ort",
+"besonderheit",
+"eröffnungsdatum",
+"gastronomie",
+"lage",
+"liegewiese",
+"planschbecken",
+"planschbecken_temperatur",
+"schwimmbecken_temperatur",
+"sprunganlage"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/005": {
+"entitaet": "stadion",
+"bezeichnung": "Leichtathletik-Stadion (Obermattenstadion)",
+"eigenschaften": [
+"ausstattung",
+"bedeutung_fuer_ort",
+"eröffnungsdatum",
+"finanzierung",
+"lage",
+"nutzer",
+"platzwart"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/006": {
+"entitaet": "stadion",
+"bezeichnung": "Waldstadion Gundelfingen",
+"eigenschaften": [
+"ausstattung",
+"hauptnutzung"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/007": {
+"entitaet": "kulturbau",
+"bezeichnung": "Kultur- und Vereinshaus",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"besonderheit",
+"eröffnungsdatum",
+"funktion",
+"lage",
+"nutzung"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/008": {
+"entitaet": "veranstaltungsort",
+"bezeichnung": "Kirchberghalle",
+"eigenschaften": [
+"beschreibung",
+"lage",
+"nutzung"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/009": {
+"entitaet": "markt",
+"bezeichnung": "Gundelfinger Erzeugermarkt",
+"eigenschaften": [
+"angebote",
+"bedeutung_fuer_ort",
+"beliebtheit",
+"besonderheit",
+"expansion_freitags",
+"marktbeschicker_herkunft",
+"orte",
+"regelmäßigkeit",
+"selbsterzeugte_ware",
+"start",
+"zeiten"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/010": {
+"entitaet": "kino",
+"bezeichnung": "Kommunales Kino",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"besonderheit",
+"entwicklung",
+"ort",
+"zeit"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/011": {
+"entitaet": "bildungseinrichtung",
+"bezeichnung": "Musikschule Gundelfingen",
+"eigenschaften": [
+"lage",
+"schwerpunkte",
+"schüler",
+"unterrichtsfächer"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/012": {
+"entitaet": "bildungseinrichtung",
+"bezeichnung": "Volkshochschule Gundelfingen",
+"eigenschaften": [
+"büro_lage",
+"entwicklung",
+"programm",
+"programmverteilung",
+"träger"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/013": {
+"entitaet": "grundschule",
+"bezeichnung": "Johann-Peter-Hebel-Grundschule",
+"eigenschaften": [
+"gründungsjahr",
+"lage",
+"lehrkräfte",
+"schüler"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/014": {
+"entitaet": "gymnasium",
+"bezeichnung": "Albert-Schweitzer-Gymnasium (ASG)",
+"eigenschaften": [
+"einzugsgebiet",
+"schüler_2024_2025",
+"verkehrsmittel_schüler"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/015": {
+"entitaet": "gemeinschaftsschule",
+"bezeichnung": "Albert-Schweitzer-Gemeinschaftsschule",
+"eigenschaften": [
+"art",
+"lage"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/016": {
+"entitaet": "sonderschule",
+"bezeichnung": "Friedrich-Fröbel-Schule",
+"eigenschaften": [
+"art",
+"förderschwerpunkt"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/017": {
+"entitaet": "verein",
+"bezeichnung": "Schwarzwaldverein Gundelfingen/Wildtal",
+"eigenschaften": [
+"aktivitäten",
+"besonderheit",
+"kartographie",
+"markierte_wege",
+"verteilung"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/018": {
+"entitaet": "verein",
+"bezeichnung": "Musikverein Gundelfingen",
+"eigenschaften": [
+"erfolg"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/019": {
+"entitaet": "verein",
+"bezeichnung": "Kammerorchester Gundelfingen",
+"eigenschaften": [
+"erfolg"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/020": {
+"entitaet": "verein",
+"bezeichnung": "Trachtenkapelle Heuweiler",
+"eigenschaften": [
+"beliebtheit",
+"besonderheit"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/021": {
+"entitaet": "verein",
+"bezeichnung": "Gundelfinger Turnerschaft",
+"eigenschaften": [
+"erfolg",
+"nutzung_ressourcen",
+"spezialität"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/022": {
+"entitaet": "verein",
+"bezeichnung": "Turnverein Gundelfingen (TVG)",
+"eigenschaften": [
+"erfolgsbereich"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/023": {
+"entitaet": "verein",
+"bezeichnung": "Kunstverein Gundelfingen",
+"eigenschaften": [
+"aktivitäten",
+"ausstellungsort"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/024": {
+"entitaet": "verein",
+"bezeichnung": "Deutsche Pfadfinderschaft St. Georg Gundelfingen",
+"eigenschaften": [
+"anerkennung",
+"funktion",
+"zielgruppe"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/025": {
+"entitaet": "verein",
+"bezeichnung": "Gundelfinger Theatermacher",
+"eigenschaften": [
+"aktivitäten",
+"veranstaltungsort"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/026": {
+"entitaet": "verein",
+"bezeichnung": "Schützenverein Gundelfingen 1925",
+"eigenschaften": [
+"aktivität",
+"gründungsjahr"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/027": {
+"entitaet": "kirche",
+"bezeichnung": "Evangelische Kirchengemeinde Gundelfingen",
+"eigenschaften": [
+"adresse",
+"geschichte",
+"konfession",
+"pfarrer",
+"telefon"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/028": {
+"entitaet": "kirche",
+"bezeichnung": "Katholisches Pfarramt Bruder Klaus",
+"eigenschaften": [
+"adresse",
+"geschichte",
+"geschichte_alt",
+"konfession",
+"pfarrer",
+"telefon"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/029": {
+"entitaet": "kirche",
+"bezeichnung": "CONNECT - Evangelisch. Frei. Kirche.",
+"eigenschaften": [
+"adresse",
+"konfession",
+"pastoren",
+"telefon"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/030": {
+"entitaet": "religiöse_gemeinschaft",
+"bezeichnung": "Evangelisch Freikirchliche Gemeinde, Baptisten",
+"eigenschaften": [
+"gründungsjahr",
+"status"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/031": {
+"entitaet": "infoeinrichtung",
+"bezeichnung": "Jugendzentrum Gundelfingen",
+"eigenschaften": [
+"angebote",
+"betreuung",
+"lage",
+"zielgruppe"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/032": {
+"entitaet": "wappentier",
+"bezeichnung": "Wappen Gundelfingen",
+"eigenschaften": [
+"flagge",
+"rückseite",
+"rückseite_bedeutung",
+"schildform",
+"ursprung",
+"vorderseite",
+"vorderseite_bedeutung"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/033": {
+"entitaet": "buegermeister",
+"bezeichnung": "Raphael Walz",
+"eigenschaften": [
+"amt",
+"amtszeit",
+"gemeinde",
+"wahl_erstmals",
+"weitere_funktion",
+"wiedergewählt"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/034": {
+"entitaet": "partnerstadt",
+"bezeichnung": "Meung-sur-Loire",
+"eigenschaften": [
+"besonderheit",
+"einwohner",
+"lage",
+"land",
+"partnerschaftsbeginn"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/035": {
+"entitaet": "partnerstadt",
+"bezeichnung": "Bieruń",
+"eigenschaften": [
+"deutscher_name",
+"einwohner",
+"lage",
+"land",
+"partnerschaftsbeginn"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/036": {
+"entitaet": "partnerstadt",
+"bezeichnung": "Scheibenberg",
+"eigenschaften": [
+"einwohner",
+"land",
+"partnerschaftsbeginn"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/037": {
+"entitaet": "freundschaftsstadt",
+"bezeichnung": "Ostroh",
+"eigenschaften": [
+"besonderheit",
+"beziehung",
+"freundschaftsbeginn",
+"land",
+"ukrainisch"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/038": {
+"entitaet": "bahnhof",
+"bezeichnung": "Bahnhof Gundelfingen (Breisgau)",
+"eigenschaften": [
+"bahnstrecke",
+"bedienung"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/039": {
+"entitaet": "straßenbahnhaltestelle",
+"bezeichnung": "Gundelfinger Straße",
+"eigenschaften": [
+"betreiber",
+"eröffnungsjahr",
+"lage",
+"linien"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/040": {
+"entitaet": "unternehmen",
+"bezeichnung": "Raiffeisenbank im Breisgau",
+"eigenschaften": [
+"geschäftsfeld",
+"status"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/041": {
+"entitaet": "unternehmen",
+"bezeichnung": "Gemeindewerke Gundelfingen GmbH",
+"eigenschaften": [
+"gesellschaftszweck",
+"gründungsdatum",
+"hauptgesellschafter",
+"sitz"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/042": {
+"entitaet": "feuer_und_rettung",
+"bezeichnung": "Freiwillige Feuerwehr Gundelfingen",
+"eigenschaften": [
+"abteilungen",
+"altersmannschaft_mitglieder_2021",
+"gründungsdatum_verein",
+"jugendfeuerwehr_mitglieder_2021",
+"jugendfeuerwehrwart",
+"kommandant",
+"mitglieder_2021",
+"weibliche_mitglieder_2021"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/043": {
+"entitaet": "fest",
+"bezeichnung": "Fasnet Gundelfingen",
+"eigenschaften": [
+"art",
+"guggemusikkonzert",
+"narrenumzug",
+"narrenzünfte",
+"tradition"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/044": {
+"entitaet": "wanderweg",
+"bezeichnung": "Wanderweg Gundelfingen (allgemein)",
+"eigenschaften": [
+"beschreibung",
+"besonderheit",
+"kartografie",
+"wege_markiert_schwarzwaldverein",
+"zusammenstellung"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/045": {
+"entitaet": "wanderziel",
+"bezeichnung": "Leheneck",
+"eigenschaften": [
+"höhe",
+"lage",
+"merkmal",
+"sichtpunkte",
+"wegkreuz_aufgestellt"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/046": {
+"entitaet": "wanderziel",
+"bezeichnung": "Wildtalereck",
+"eigenschaften": [
+"besonderheit",
+"höhe",
+"lage",
+"sichtpunkte"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/047": {
+"entitaet": "aussichtspunkt",
+"bezeichnung": "Roßkopf",
+"eigenschaften": [
+"bedeutung",
+"besonderheit",
+"feature",
+"grenzpunkt",
+"höhe",
+"location"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/048": {
+"entitaet": "aussichtspunkt",
+"bezeichnung": "Martinsfelsen",
+"eigenschaften": [
+"höhe",
+"lage",
+"sichtpunkte"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/049": {
+"entitaet": "berg",
+"bezeichnung": "Hasenkopf",
+"eigenschaften": [
+"besonderheit",
+"höhe"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/050": {
+"entitaet": "berg",
+"bezeichnung": "Mühleberg",
+"eigenschaften": [
+"höhe"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/051": {
+"entitaet": "waldgebiet",
+"bezeichnung": "Mooswald",
+"eigenschaften": [
+"beschreibung",
+"eignung",
+"erreichbarkeit",
+"lage"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/052": {
+"entitaet": "persönlichkeit",
+"bezeichnung": "Oskar Schellenberg",
+"eigenschaften": [
+"beruf",
+"herkunft",
+"lebensjahre"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/053": {
+"entitaet": "persönlichkeit",
+"bezeichnung": "Gustav Klaiber",
+"eigenschaften": [
+"berufe",
+"herkunft",
+"lebensjahre"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/054": {
+"entitaet": "sportler",
+"bezeichnung": "Nikolai Kornhaß",
+"eigenschaften": [
+"geburtsjahr",
+"herkunft",
+"sportart"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/055": {
+"entitaet": "sportler",
+"bezeichnung": "Oliver Hein",
+"eigenschaften": [
+"geburtsjahr",
+"herkunft",
+"sportart"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/056": {
+"entitaet": "ortscharakteristikum",
+"bezeichnung": "Schwarzwald (Gundelfingen, Ostrand)",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beschreibung",
+"lage"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/057": {
+"entitaet": "ortscharakteristikum",
+"bezeichnung": "Vorbergzone",
+"eigenschaften": [
+"bedeutung_fuer_ort",
+"beschreibung",
+"lage"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/058": {
+"entitaet": "schutzgebiet",
+"bezeichnung": "FFH-Schutzgebiet Kandelwald, Roßkopf und Zartener Becken",
+"eigenschaften": [
+"dokumentation",
+"fauna",
+"filmfestival_nominierung",
+"gebiete",
+"gundelfinger_wald",
+"schutzart"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/059": {
+"entitaet": "ortscharakteristikum",
+"bezeichnung": "Landschaftsschutz Wildtal",
+"eigenschaften": [
+"grund",
+"schutjahr",
+"umfang"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/060": {
+"entitaet": "ortscharakteristikum",
+"bezeichnung": "Kulturpfad Gundelfingen",
+"eigenschaften": [
+"anlass_schenkung",
+"dokumentation",
+"errichtung_zeitraum",
+"inhalte",
+"initiatoren",
+"stationen_aktuell",
+"stationen_initial"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/061": {
+"entitaet": "denkmal",
+"bezeichnung": "Kriegsdenkmal",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/062": {
+"entitaet": "denkmal",
+"bezeichnung": "Glückauf",
+"eigenschaften": [
+"beschreibung"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/063": {
+"entitaet": "flurname",
+"bezeichnung": "Reutebach",
+"eigenschaften": [
+"art",
+"geschichte"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/064": {
+"entitaet": "flurname",
+"bezeichnung": "Reutebachtal",
+"eigenschaften": [
+"art",
+"geschichte"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/065": {
+"entitaet": "bergwerk",
+"bezeichnung": "Silber- und Bleibergwerk Wildtal",
+"eigenschaften": [
+"abbau",
+"bedeutung_fuer_ort",
+"betriebszeit",
+"lage"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/066": {
+"entitaet": "naturdenkmal",
+"bezeichnung": "Rosmarientanne (ehemals)",
+"eigenschaften": [
+"art",
+"ersatz",
+"geschichte",
+"lage",
+"status"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/067": {
+"entitaet": "naturdenkmal",
+"bezeichnung": "Rottecksruhe (ehemals Schönehof)",
+"eigenschaften": [
+"beschreibung",
+"lage",
+"status"
+],
+"berichtigungen": 0
+},
+"438-gundelfingen/068": {
+"entitaet": "spielplatz",
+"bezeichnung": "Kinderspielplätze Gundelfingen",
+"eigenschaften": [
+"anzahl",
+"betreuung",
+"standorte"
 ],
 "berichtigungen": 0
 },

@@ -1,0 +1,51 @@
+Orte: 71-stegen 73-buchenbach 72-oberried 74-hinterzarten 75-titisee-neustadt
+== OSM-Zeugen 22:44:00
+  Overpass: HTTP Error 502: Bad Gateway - warte
+71-stegen                Gemeindegrenze 102 Objekte, 29 Zeugen im Block
+73-buchenbach            Gemeindegrenze 153 Objekte, 34 Zeugen im Block
+  Overpass: HTTP Error 502: Bad Gateway - warte
+  Overpass: HTTP Error 502: Bad Gateway - warte
+  Overpass: HTTP Error 502: Bad Gateway - warte
+72-oberried              Gemeindegrenze 239 Objekte, 41 Zeugen im Block
+  Overpass: HTTP Error 502: Bad Gateway - warte
+  Overpass: HTTP Error 502: Bad Gateway - warte
+74-hinterzarten          Gemeindegrenze 220 Objekte, 51 Zeugen im Block
+75-titisee-neustadt      Gemeindegrenze 196 Objekte, 60 Zeugen im Block
+== Gemeinde-Webseiten 22:53:25
+71-stegen            10 Gemeinde-Seiten, 0 Portal,  39947 Zeichen,   6 s 
+72-oberried          16 Gemeinde-Seiten, 0 Portal,  34404 Zeichen,  12 s 
+73-buchenbach         8 Gemeinde-Seiten, 0 Portal,  22323 Zeichen,   5 s 
+74-hinterzarten       0 Gemeinde-Seiten, 0 Portal,      0 Zeichen,   2 s 
+75-titisee-neustadt  20 Gemeinde-Seiten, 0 Portal,  77622 Zeichen,  43 s 
+== Extraktion v0.7 (Haiku) 22:54:36
+71-stegen            extraktion ein  38738  aus  11874   0.12 USD    95 s  claude-haiku-4-5-20251001
+72-oberried          extraktion ein  37471  aus   8110   0.10 USD    68 s  claude-haiku-4-5-20251001
+73-buchenbach        extraktion ein  32823  aus  12178   0.11 USD    95 s  claude-haiku-4-5-20251001
+74-hinterzarten      extraktion ein  27110  aus  12389   0.10 USD    96 s  claude-haiku-4-5-20251001
+75-titisee-neustadt  extraktion ein  61873  aus  14238   0.18 USD   111 s  claude-haiku-4-5-20251001
+zusammen: 18966 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+== Eingabe v0.9 22:58:03
+71-stegen          24463 Zeichen
+72-oberried        27892 Zeichen
+73-buchenbach      28916 Zeichen
+74-hinterzarten    36598 Zeichen
+75-titisee-neustadt   41799 Zeichen
+== Karten v0.9 (claude-opus-5-5) 22:58:03
+71-stegen            karten     ein  44036  aus  46927   1.24 USD   406 s  claude-opus-5-5
+72-oberried          karten     ein  45927  aus  49701   1.31 USD   426 s  claude-opus-5-5
+73-buchenbach        karten     ein  44176  aus  51954   1.34 USD   443 s  claude-opus-5-5
+74-hinterzarten      karten     ein  51804  aus  53906   1.44 USD   470 s  claude-opus-5-5
+75-titisee-neustadt  karten     ein  54798  aus  51686   1.42 USD   449 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 23:12:40
+71-stegen            pruefung   ein  65737  aus  11168   0.70 USD    94 s  claude-opus-5-5
+72-oberried          pruefung   ein  64538  aus  12240   0.71 USD   103 s  claude-opus-5-5
+73-buchenbach        pruefung   ein  61901  aus   7772   0.60 USD    69 s  claude-opus-5-5
+74-hinterzarten      pruefung   ein  52447  aus   6926   0.50 USD    62 s  claude-opus-5-5
+75-titisee-neustadt  pruefung   ein  97492  aus  14551   1.02 USD   127 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 23:16:22
+71-stegen            stufe2     ein 558565  aus  12273   1.36 USD   161 s  claude-opus-5-5,claude-haiku-4-5-20251001
+72-oberried          stufe2     ein 325788  aus  10252   1.09 USD   131 s  claude-opus-5-5,claude-haiku-4-5-20251001
+73-buchenbach        stufe2     ein 400188  aus  12967   1.35 USD   168 s  claude-opus-5-5,claude-haiku-4-5-20251001
+74-hinterzarten      stufe2     ein 548727  aus  12102   1.23 USD   147 s  claude-opus-5-5,claude-haiku-4-5-20251001
+75-titisee-neustadt  stufe2     ein 180841  aus   6953   0.65 USD    88 s  claude-opus-5-5,claude-haiku-4-5-20251001
+Fertig 23:21:00

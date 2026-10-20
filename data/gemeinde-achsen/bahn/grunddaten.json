@@ -1,5 +1,5 @@
 {
- "erzeugt": "2026-10-19",
+ "erzeugt": "2026-10-20",
  "katalog": [
   {
    "schluessel": "bundesland",
@@ -814,9 +814,2944 @@
   "Kettwig: hoehe_m 53 (Wikidata P2044) gegen 91 (Altbestand geo.sqlite (GeoNames 2891290))",
   "Breitnau: Wikidata P131 nennt „Landkreis Hochschwarzwald“ ohne Enddatum, Infobox „Breisgau-Hochschwarzwald“",
   "Breitnau: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
-  "Kirchzarten: geo.sqlite hat für Kreis 08315 kein Kennzeichen"
+  "Kirchzarten: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
+  "Horben: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
+  "Horben: hoehe_m 607 (Wikidata P2044) gegen 495 (Wikidata P2044)",
+  "Horben: hoehe_m 607 (Wikidata P2044) gegen 495 (Altbestand geo.sqlite (GeoNames 2899093))",
+  "Staufen: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
+  "Staufen: kfz FR (Wikidata P395) gegen FDS (Altbestand staedte.json)",
+  "Gundelfingen: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
+  "Gundelfingen: hoehe_m 266 (Wikidata P2044) gegen 235 (Wikidata P2044)",
+  "Gundelfingen: hoehe_m 266 (Wikidata P2044) gegen 235 (Altbestand geo.sqlite (GeoNames 2913713))",
+  "Umkirch: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
+  "Umkirch: hoehe_m 219 (Wikidata P2044) gegen 206 (Altbestand geo.sqlite (GeoNames 2820190))",
+  "Waldsee: geo.sqlite hat für Kreis 07338 kein Kennzeichen",
+  "Kappel: kfz FR (Wikidata P395) gegen SIM (Altbestand geo.sqlite (Kreis 07140))",
+  "Brühl: staedte.json führt den Namen mit Koordinaten 319 km entfernt",
+  "Brühl: kfz FR (Wikidata P395) gegen BRL (Altbestand kfz_kennzeichen.csv)",
+  "Oberau: kfz FR (Wikidata P395) gegen GAP (Altbestand geo.sqlite (Kreis 09180))",
+  "Haslach: kfz FR (Wikidata P395) gegen OG (Altbestand geo.sqlite (Kreis 08317))",
+  "Haslach: hoehe_m 243 (Wikidata P2044) gegen 257 (dewiki Infobox)",
+  "Sankt Georgen: hoehe_m 243 (Wikidata P2044) gegen 230 (dewiki Infobox)",
+  "Weingarten: staedte.json führt den Namen mit Koordinaten 138 km entfernt",
+  "Weingarten: kfz FR (Wikidata P395) gegen RV (Altbestand geo.sqlite (Kreis 08436))",
+  "Lehen: hoehe_m 220 (dewiki Infobox) gegen 234 (Altbestand geo.sqlite (GeoNames 2879590))"
  ],
  "orte": [
+  {
+   "slug": "439-wiehre",
+   "rolle": "ziel",
+   "name": "Wiehre",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q239511",
+   "lat": 47.98489,
+   "lon": 7.85194,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 24702,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 5.96,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 4145,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 290,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 280,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 290,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2809510)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 1
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "1 km südlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 132
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1826-02-25",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.2,
+        "CDU": 17.9,
+        "Die Linke": 16.9,
+        "SPD": 15.2,
+        "AfD": 8.8
+       },
+       "wahlbeteiligung_prozent": 85.7,
+       "gueltige_zweitstimmen": 137574
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "440-waldsee",
+   "rolle": "ziel",
+   "name": "Waldsee",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q2541892",
+   "lat": 47.98639,
+   "lon": 7.88444,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 5973,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.82,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 1239,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 300,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 300,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 310,
+      "quelle": "Altbestand geo.sqlite (GeoNames 11608691)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 3
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "3 km südöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 130
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79117"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 38.6,
+        "CDU": 17.6,
+        "SPD": 16.0,
+        "Die Linke": 15.2
+       },
+       "wahlbeteiligung_prozent": 88.7,
+       "gueltige_zweitstimmen": 3852
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "444-altstadt-freiburg",
+   "rolle": "ziel",
+   "name": "Altstadt",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q445502",
+   "lat": 47.99472,
+   "lon": 7.85,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 7770,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 1.19,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 6529,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 282,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 282,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 0
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "0 km südwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 131
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79098"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.2,
+        "CDU": 17.9,
+        "Die Linke": 16.9,
+        "SPD": 15.2,
+        "AfD": 8.8
+       },
+       "wahlbeteiligung_prozent": 85.7,
+       "gueltige_zweitstimmen": 137574
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "445-stuehlinger",
+   "rolle": "ziel",
+   "name": "Stühlinger",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q1300474",
+   "lat": 48.0011,
+   "lon": 7.83806,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 15811,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 1.74,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 9087,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 265,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 262,
+      "quelle": "Altbestand geo.sqlite (GeoNames 11611371)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 1
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "1 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 132
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.2,
+        "CDU": 17.9,
+        "Die Linke": 16.9,
+        "SPD": 15.2,
+        "AfD": 8.8
+       },
+       "wahlbeteiligung_prozent": 85.7,
+       "gueltige_zweitstimmen": 137574
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "446-neuburg-freiburg",
+   "rolle": "ziel",
+   "name": "Neuburg",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q1272617",
+   "lat": 48,
+   "lon": 7.85361,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 5567,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 1.64,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 3395,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 270,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 270,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 0
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "0 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 131
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79104",
+       "79106"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.6,
+        "CDU": 19.3,
+        "SPD": 16.8,
+        "Die Linke": 16.0,
+        "AfD": 6.2
+       },
+       "wahlbeteiligung_prozent": 83.2,
+       "gueltige_zweitstimmen": 3314
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "447-herdern",
+   "rolle": "ziel",
+   "name": "Herdern",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q1002224",
+   "lat": 48.0089,
+   "lon": 7.86278,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 12806,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.295,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 2982,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 271,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 271,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 259,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2906147)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 2
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "2 km nordöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 130
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1457-02-25",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79104"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.2,
+        "CDU": 17.9,
+        "Die Linke": 16.9,
+        "SPD": 15.2,
+        "AfD": 8.8
+       },
+       "wahlbeteiligung_prozent": 85.7,
+       "gueltige_zweitstimmen": 137574
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "448-zaehringen",
+   "rolle": "ziel",
+   "name": "Zähringen",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q247304",
+   "lat": 48.0239,
+   "lon": 7.86333,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 9429,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 3.13,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 3012,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 250,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 254,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2805299)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 3
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "3 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 129
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "ersterwaehnung": [
+     {
+      "wert": 1008,
+      "quelle": "Wikidata P1249"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1906-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Haltepunkt Freiburg-Zähringen"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79104",
+       "79106",
+       "79108"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.2,
+        "CDU": 20.3,
+        "SPD": 15.1,
+        "Die Linke": 14.1,
+        "AfD": 8.7
+       },
+       "wahlbeteiligung_prozent": 87.0,
+       "gueltige_zweitstimmen": 5707
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "449-bruehl-freiburg",
+   "rolle": "ziel",
+   "name": "Brühl",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q996913",
+   "lat": 48.0272,
+   "lon": 7.85083,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 13578,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 11.48,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 1183,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     },
+     {
+      "wert": "BRL",
+      "quelle": "Altbestand kfz_kennzeichen.csv",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 245,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 245,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 3
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "3 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 129
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79106",
+       "79108",
+       "79110"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.2,
+        "CDU": 17.9,
+        "Die Linke": 16.9,
+        "SPD": 15.2,
+        "AfD": 8.8
+       },
+       "wahlbeteiligung_prozent": 85.7,
+       "gueltige_zweitstimmen": 137574
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "450-oberau",
+   "rolle": "ziel",
+   "name": "Oberau",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q2009100",
+   "lat": 47.99056,
+   "lon": 7.86556,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 6754,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 1.28,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 5277,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     },
+     {
+      "wert": "GAP",
+      "quelle": "Altbestand geo.sqlite (Kreis 09180)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 290,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 290,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 296,
+      "quelle": "Altbestand geo.sqlite (GeoNames 11608626)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 1
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "1 km südöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 131
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79102"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 37.5,
+        "Die Linke": 18.5,
+        "SPD": 15.3,
+        "CDU": 14.9
+       },
+       "wahlbeteiligung_prozent": 88.9,
+       "gueltige_zweitstimmen": 4609
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "451-haslach-freiburg",
+   "rolle": "ziel",
+   "name": "Haslach",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q880415",
+   "lat": 47.99056,
+   "lon": 7.82028,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 22300,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 3.42,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 6520,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     },
+     {
+      "wert": "OG",
+      "quelle": "Altbestand geo.sqlite (Kreis 08317)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 243,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 257,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     },
+     {
+      "wert": 243,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2909532)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 2
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "2 km westlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 133
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1890-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79114",
+       "79115"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.2,
+        "CDU": 17.9,
+        "Die Linke": 16.9,
+        "SPD": 15.2,
+        "AfD": 8.8
+       },
+       "wahlbeteiligung_prozent": 85.7,
+       "gueltige_zweitstimmen": 137574
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "452-sankt-georgen",
+   "rolle": "ziel",
+   "name": "Sankt Georgen",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q880436",
+   "lat": 47.98111,
+   "lon": 7.80417,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 12962,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 10.67,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 1215,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 243,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 230,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     },
+     {
+      "wert": 243,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2841625)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 4
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "4 km südwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 135
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1938-04-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79111"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.2,
+        "CDU": 17.9,
+        "Die Linke": 16.9,
+        "SPD": 15.2,
+        "AfD": 8.8
+       },
+       "wahlbeteiligung_prozent": 85.7,
+       "gueltige_zweitstimmen": 137574
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "453-vauban",
+   "rolle": "ziel",
+   "name": "Vauban",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q690922",
+   "lat": 47.97583,
+   "lon": 7.82472,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 5146,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 0.41,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 12551,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 255,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 255,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 260,
+      "quelle": "Altbestand geo.sqlite (GeoNames 11594339)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 3
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "3 km südwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 134
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79100"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 46.3,
+        "Die Linke": 27.1,
+        "SPD": 10.1,
+        "CDU": 6.0
+       },
+       "wahlbeteiligung_prozent": 92.6,
+       "gueltige_zweitstimmen": 3540
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "454-weingarten-freiburg",
+   "rolle": "ziel",
+   "name": "Weingarten",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q1320270",
+   "lat": 47.99444,
+   "lon": 7.81,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 11765,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 1.63,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 7218,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     },
+     {
+      "wert": "RV",
+      "quelle": "Altbestand geo.sqlite (Kreis 08436)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 250,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 250,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 247,
+      "quelle": "Altbestand geo.sqlite (GeoNames 11608785)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 3
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "3 km westlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 134
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79114"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "AfD",
+       "anteile_prozent": {
+        "AfD": 22.7,
+        "Die Linke": 17.8,
+        "GRÜNE": 17.3,
+        "SPD": 15.2,
+        "CDU": 13.9,
+        "BSW": 6.4
+       },
+       "wahlbeteiligung_prozent": 70.7,
+       "gueltige_zweitstimmen": 4409
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "455-betzenhausen",
+   "rolle": "ziel",
+   "name": "Betzenhausen",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q850643",
+   "lat": 48.0083,
+   "lon": 7.81667,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 15535,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 2.16,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 7192,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 250,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 250,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 249,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2949659)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 3
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "3 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 132
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1908-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79110",
+       "79114"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.2,
+        "CDU": 17.9,
+        "Die Linke": 16.9,
+        "SPD": 15.2,
+        "AfD": 8.8
+       },
+       "wahlbeteiligung_prozent": 85.7,
+       "gueltige_zweitstimmen": 137574
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "456-mooswald",
+   "rolle": "ziel",
+   "name": "Mooswald",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q670176",
+   "lat": 48.0136,
+   "lon": 7.82583,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 9513,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 1.63,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 5836,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 244,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 3
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "3 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 131
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.2,
+        "CDU": 17.9,
+        "Die Linke": 16.9,
+        "SPD": 15.2,
+        "AfD": 8.8
+       },
+       "wahlbeteiligung_prozent": 85.7,
+       "gueltige_zweitstimmen": 137574
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "457-landwasser",
+   "rolle": "ziel",
+   "name": "Landwasser",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q1567584",
+   "lat": 48.0239,
+   "lon": 7.80889,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 7264,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 1.25,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 5811,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 232,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 231,
+      "quelle": "Altbestand geo.sqlite (GeoNames 11608662)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 4
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "4 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 132
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "AfD",
+       "anteile_prozent": {
+        "AfD": 21.6,
+        "CDU": 18.2,
+        "SPD": 17.1,
+        "Die Linke": 14.2,
+        "GRÜNE": 13.2,
+        "BSW": 8.2
+       },
+       "wahlbeteiligung_prozent": 75.4,
+       "gueltige_zweitstimmen": 3278
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "458-lehen-freiburg",
+   "rolle": "ziel",
+   "name": "Lehen",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q1813051",
+   "lat": 48.0175,
+   "lon": 7.80194,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 2536,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 3.38,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 750,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 220,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 234,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2879590)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 4
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "4 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 132
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-09-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 27.7,
+        "GRÜNE": 22.6,
+        "SPD": 16.9,
+        "Die Linke": 12.4,
+        "AfD": 9.1,
+        "FDP": 5.0
+       },
+       "wahlbeteiligung_prozent": 89.7,
+       "gueltige_zweitstimmen": 1652
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Bernhard Schätzle",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-20",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "459-rieselfeld",
+   "rolle": "ziel",
+   "name": "Rieselfeld",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q880427",
+   "lat": 47.9989,
+   "lon": 7.79167,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 9183,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 4.16,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 2207,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 232,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 232,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 230,
+      "quelle": "Altbestand geo.sqlite (GeoNames 11608682)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 5
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "5 km westlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 134
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79111"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.8,
+        "CDU": 14.9,
+        "SPD": 14.8,
+        "Die Linke": 14.6,
+        "AfD": 12.0
+       },
+       "wahlbeteiligung_prozent": 87.9,
+       "gueltige_zweitstimmen": 5751
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "460-dietenbach",
+   "rolle": "ziel",
+   "name": "Dietenbach",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q61722074",
+   "lat": 48.006,
+   "lon": 7.797,
+   "gemeindeschluessel": null,
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Dietenbach, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Dietenbach, nicht für den Stadtteil allein"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 4
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "4 km westlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 134
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "461-opfingen",
+   "rolle": "ziel",
+   "name": "Opfingen",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q885089",
+   "lat": 48,
+   "lon": 7.71667,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 4512,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 14.62,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 309,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 215,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 210,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 215,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2857198)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 10
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "10 km westlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 139
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1971-12-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79112"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07664"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 28.6,
+        "GRÜNE": 18.7,
+        "SPD": 16.0,
+        "AfD": 13.0,
+        "Die Linke": 8.7,
+        "FDP": 6.6
+       },
+       "wahlbeteiligung_prozent": 85.8,
+       "gueltige_zweitstimmen": 2683
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Silvia Schumacher"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-20",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "462-tiengen-freiburg",
+   "rolle": "ziel",
+   "name": "Tiengen",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q1307671",
+   "lat": 47.98333,
+   "lon": 7.71389,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 3715,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 8.38,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 443,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 220,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 223,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2822259)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 10
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "10 km westlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 140
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1973-01-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 31.5,
+        "GRÜNE": 18.4,
+        "SPD": 16.6,
+        "AfD": 13.6,
+        "Die Linke": 6.6,
+        "FDP": 5.4
+       },
+       "wahlbeteiligung_prozent": 87.3,
+       "gueltige_zweitstimmen": 2129
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Oliver Schlatter"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-20",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "463-munzingen",
+   "rolle": "ziel",
+   "name": "Munzingen",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q259852",
+   "lat": 47.96861,
+   "lon": 7.69972,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 3046,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 6.77,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 450,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 213,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 210,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2867484)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 12
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "12 km westlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 142
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1973-07-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 27.5,
+        "AfD": 17.6,
+        "GRÜNE": 17.5,
+        "SPD": 16.3,
+        "Die Linke": 7.4,
+        "FDP": 5.2
+       },
+       "wahlbeteiligung_prozent": 85.3,
+       "gueltige_zweitstimmen": 1697
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Christian Schildecker"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-20",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "464-waltershofen",
+   "rolle": "ziel",
+   "name": "Waltershofen",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q2547034",
+   "lat": 48.0239,
+   "lon": 7.72139,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 2172,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 7.58,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 287,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 200,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 202,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2814386)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 10
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "10 km westlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 137
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1972-07-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79112"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07665"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 33.2,
+        "GRÜNE": 20.1,
+        "SPD": 16.4,
+        "AfD": 11.1,
+        "Die Linke": 6.3,
+        "FDP": 5.2
+       },
+       "wahlbeteiligung_prozent": 86.6,
+       "gueltige_zweitstimmen": 1437
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Petra Zimmermann"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-20",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
   {
    "slug": "387-ebnet",
    "rolle": "ziel",
@@ -1093,6 +4028,158 @@
       "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
       "stand": "2025-02-23",
       "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "442-kappel",
+   "rolle": "ziel",
+   "name": "Kappel",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q1728696",
+   "lat": 47.96806,
+   "lon": 7.90917,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 2771,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 13.82,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 201,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     },
+     {
+      "wert": "SIM",
+      "quelle": "Altbestand geo.sqlite (Kreis 07140)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 360,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 360,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 373,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2893061)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 5
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "5 km südöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 130
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1974-07-01",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79117"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.2,
+        "CDU": 23.2,
+        "SPD": 14.0,
+        "Die Linke": 13.9,
+        "AfD": 8.5
+       },
+       "wahlbeteiligung_prozent": 95.6,
+       "gueltige_zweitstimmen": 1998
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Christoph Brender (CDU) {{Internetquelle |autor=Thomas Jäger, Lisa Petrich, Sarah Schäfer & Simone Höhl |url=https://www.badische-zeitung.de/das-sind-die-neuen-ortsvorsteher-in-sechs-freiburger-ortschaften |titel=Das sind die neuen Ortsvorsteher in sechs Freiburger Ortschaften |hrsg=Badische Zeitung |datum=2019-09-19 |abruf=2019-09-22}}"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-20",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
      }
     ],
     "kueste": [
@@ -1390,6 +4477,303 @@
       "quelle": "dewiki Infobox",
       "stand": "2026-10-17",
       "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "435-horben",
+   "rolle": "ziel",
+   "name": "Horben",
+   "einheit": "Gemeinde",
+   "wikidata": "Q515988",
+   "lat": 47.935,
+   "lon": 7.85889,
+   "gemeindeschluessel": "08315056",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1202,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 1065,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2899093)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 8.75,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 137,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 607,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 495,
+      "quelle": "Wikidata P2044",
+      "abweichend": true
+     },
+     {
+      "wert": 607,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 495,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2899093)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 7
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "7 km südlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 136
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79289"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79289"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 34.3,
+        "GRÜNE": 22.0,
+        "SPD": 15.7,
+        "AfD": 8.6,
+        "Die Linke": 7.0
+       },
+       "wahlbeteiligung_prozent": 91.4,
+       "gueltige_zweitstimmen": 805
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Benjamin Bröcker",
+       "partei": "Grüne"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-20",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "436-guenterstal",
+   "rolle": "ziel",
+   "name": "Günterstal",
+   "einheit": "Ortsteil von Freiburg im Breisgau",
+   "wikidata": "Q1561278",
+   "lat": 47.96639,
+   "lon": 7.86083,
+   "gemeindeschluessel": "08311000",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Stadtkreis Freiburg im Breisgau",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 2165,
+      "quelle": "Wikidata P1082",
+      "stand": "2024-00-00"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 15.1,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 143,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 330,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 330,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 345,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2913585)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 3
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "3 km südlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 133
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1890-02-25",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79100"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 30.4,
+        "CDU": 24.6,
+        "SPD": 16.4,
+        "Die Linke": 10.3,
+        "FDP": 6.8,
+        "AfD": 6.2
+       },
+       "wahlbeteiligung_prozent": 89.3,
+       "gueltige_zweitstimmen": 1306
+      },
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
      }
     ]
    }
@@ -1916,6 +5300,192 @@
        "Gréoux-les-Bains",
        "Esparron-de-Verdon",
        "Bojnice"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "434-staufen",
+   "rolle": "ziel",
+   "name": "Staufen",
+   "einheit": "Stadt",
+   "wikidata": "Q528062",
+   "lat": 47.88139,
+   "lon": 7.73139,
+   "gemeindeschluessel": "08315108",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 8392,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 8459,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 23.32,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 23.32,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 360,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "FDS",
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 284,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 284,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 284,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 284,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2829318)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 16
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "16 km südwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 146
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Staufen",
+       "Haltepunkt Etzenbach",
+       "Haltepunkt Staufen Süd"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79219"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79219"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07633"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 29.2,
+        "GRÜNE": 24.9,
+        "SPD": 17.0,
+        "AfD": 10.8,
+        "Die Linke": 6.7
+       },
+       "wahlbeteiligung_prozent": 87.2,
+       "gueltige_zweitstimmen": 5501
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Benjamin Bröcker",
+       "partei": "Bündnis 90/Die Grünen"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-20",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Bonneville",
+       "Kazimierz Dolny"
       ],
       "quelle": "Wikidata P190"
      }
@@ -2664,6 +6234,183 @@
    }
   },
   {
+   "slug": "438-gundelfingen",
+   "rolle": "ziel",
+   "name": "Gundelfingen",
+   "einheit": "Gemeinde",
+   "wikidata": "Q535222",
+   "lat": 48.04246,
+   "lon": 7.8657,
+   "gemeindeschluessel": "08315047",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 12146,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 11563,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2913713)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 14.29,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 850,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 266,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 235,
+      "quelle": "Wikidata P2044",
+      "abweichend": true
+     },
+     {
+      "wert": 266,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 235,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2913713)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 5
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "5 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 127
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Haltepunkt Gundelfingen"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79194"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79194"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0761"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.3,
+        "GRÜNE": 25.2,
+        "SPD": 18.2,
+        "AfD": 10.1,
+        "Die Linke": 8.2
+       },
+       "wahlbeteiligung_prozent": 87.7,
+       "gueltige_zweitstimmen": 7787
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Raphael Walz"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-20",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Meung-sur-Loire",
+       "Bieruń",
+       "Scheibenberg"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
    "slug": "65-march",
    "rolle": "ziel",
    "name": "March",
@@ -2802,6 +6549,160 @@
       "quelle": "dewiki Infobox",
       "stand": "2026-10-06",
       "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "437-umkirch",
+   "rolle": "ziel",
+   "name": "Umkirch",
+   "einheit": "Gemeinde",
+   "wikidata": "Q527982",
+   "lat": 48.03278,
+   "lon": 7.76361,
+   "gemeindeschluessel": "08315115",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 5683,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 5208,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2820190)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 8.72,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 652,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 219,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 219,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 206,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2820190)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 8
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "8 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 134
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79224"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79224"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07665"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 27.5,
+        "AfD": 21.2,
+        "SPD": 15.5,
+        "GRÜNE": 15.1,
+        "Die Linke": 7.1,
+        "FDP": 5.2
+       },
+       "wahlbeteiligung_prozent": 79.7,
+       "gueltige_zweitstimmen": 3175
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Pascal Saffran"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-20",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
      }
     ]
    }
@@ -4680,6 +8581,169 @@
    }
   },
   {
+   "slug": "433-kirchzarten",
+   "rolle": "ziel",
+   "name": "Kirchzarten",
+   "einheit": "Gemeinde",
+   "wikidata": "Q528089",
+   "lat": 47.96667,
+   "lon": 7.95,
+   "gemeindeschluessel": "08315064",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 10364,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 9730,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2890328)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 21.13,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 490,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 380,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 380,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 376,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2890328)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 8
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "8 km südöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 128
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Himmelreich",
+       "Bahnhof Kirchzarten"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79199"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79199"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07661"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 29.2,
+        "GRÜNE": 25.7,
+        "SPD": 17.0,
+        "AfD": 9.2,
+        "Die Linke": 7.6
+       },
+       "wahlbeteiligung_prozent": 89.9,
+       "gueltige_zweitstimmen": 7187
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Darius Reutter",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-19",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
    "slug": "71-stegen",
    "rolle": "ziel",
    "name": "Stegen",
@@ -5154,6 +9218,56 @@
    }
   },
   {
+   "slug": "441-hoellental",
+   "rolle": "ziel",
+   "name": "Höllental",
+   "einheit": "Ortsteil von Breitnau",
+   "wikidata": "Q301685",
+   "lat": 47.935,
+   "lon": 8.0294,
+   "gemeindeschluessel": null,
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Höllental, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Höllental, nicht für den Stadtteil allein"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 15
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "15 km südöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 127
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ]
+   }
+  },
+  {
    "slug": "74-hinterzarten",
    "rolle": "ziel",
    "name": "Hinterzarten",
@@ -5317,6 +9431,277 @@
        "Eguisheim"
       ],
       "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "432-breitnau",
+   "rolle": "ziel",
+   "name": "Breitnau",
+   "einheit": "Gemeinde",
+   "wikidata": "Q534202",
+   "lat": 47.93917,
+   "lon": 8.07917,
+   "gemeindeschluessel": "08315016",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1894,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 1903,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2944455)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 39.9,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 47,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 1018,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 968,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 1018,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 968,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2944455)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 18
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "18 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 124
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Hirschsprung",
+       "Bahnhof Posthalde",
+       "Haltepunkt Höllsteig"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79874"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79874"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07652"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 38.9,
+        "GRÜNE": 14.8,
+        "SPD": 13.6,
+        "AfD": 13.2,
+        "Die Linke": 5.9
+       },
+       "wahlbeteiligung_prozent": 87.5,
+       "gueltige_zweitstimmen": 1164
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Markus Kleiser"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-19",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "443-titisee",
+   "rolle": "ziel",
+   "name": "Titisee",
+   "einheit": "Ortsteil von Titisee-Neustadt",
+   "wikidata": "Q700097",
+   "lat": 47.89333,
+   "lon": 8.14611,
+   "gemeindeschluessel": "08315113",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Titisee-Neustadt, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "über die Gemeinde",
+      "hinweis": "gilt für die Gemeinde Titisee-Neustadt, nicht für den Stadtteil allein"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 1.3,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Titisee-Neustadt, nicht für den Stadtteil allein"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 846,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 845,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 859,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2822084)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 25
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "25 km südöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 125
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 33.0,
+        "AfD": 19.1,
+        "SPD": 15.5,
+        "GRÜNE": 11.8,
+        "Die Linke": 5.6,
+        "FDP": 5.1,
+        "BSW": 5.0
+       },
+       "wahlbeteiligung_prozent": 80.4,
+       "gueltige_zweitstimmen": 6511
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Gemeinde Titisee-Neustadt, nicht für den Stadtteil allein"
      }
     ],
     "kueste": [
@@ -77795,336 +82180,6 @@
       "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
       "stand": "2025-02-23",
       "hinweis": "gilt für die Gemeinde Essen, nicht für den Stadtteil allein"
-     }
-    ],
-    "kueste": [
-     {
-      "wert": "nein",
-      "quelle": "Altbestand geo.sqlite"
-     }
-    ]
-   }
-  },
-  {
-   "slug": "432-breitnau",
-   "rolle": "ziel",
-   "name": "Breitnau",
-   "einheit": "Gemeinde",
-   "wikidata": "Q534202",
-   "lat": 47.93917,
-   "lon": 8.07917,
-   "gemeindeschluessel": "08315016",
-   "eigenschaften": {
-    "landkreis": [
-     {
-      "wert": "Breisgau-Hochschwarzwald",
-      "quelle": "dewiki Infobox"
-     },
-     {
-      "wert": "Landkreis Breisgau-Hochschwarzwald",
-      "quelle": "Wikidata P131"
-     }
-    ],
-    "bundesland": [
-     {
-      "wert": "Baden-Württemberg",
-      "quelle": "dewiki Infobox"
-     }
-    ],
-    "einwohner": [
-     {
-      "wert": 1894,
-      "quelle": "Wikidata P1082",
-      "stand": "2025-12-31"
-     },
-     {
-      "wert": 1903,
-      "quelle": "Altbestand geo.sqlite (GeoNames 2944455)"
-     }
-    ],
-    "flaeche_km2": [
-     {
-      "wert": 39.9,
-      "quelle": "Wikidata P2046"
-     }
-    ],
-    "dichte_ew_km2": [
-     {
-      "wert": 47,
-      "quelle": "berechnet aus Einwohner und Fläche"
-     }
-    ],
-    "kfz": [
-     {
-      "wert": "FR",
-      "quelle": "Wikidata P395"
-     }
-    ],
-    "hoehe_m": [
-     {
-      "wert": 1018,
-      "quelle": "Wikidata P2044"
-     },
-     {
-      "wert": 968,
-      "quelle": "Wikidata P2044"
-     },
-     {
-      "wert": 1018,
-      "quelle": "dewiki Infobox"
-     },
-     {
-      "wert": 968,
-      "quelle": "Altbestand geo.sqlite (GeoNames 2944455)"
-     }
-    ],
-    "naechste_grossstadt": [
-     {
-      "wert": {
-       "name": "Freiburg im Breisgau",
-       "km": 18
-      },
-      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
-     }
-    ],
-    "lage": [
-     {
-      "wert": "18 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
-      "quelle": "berechnet aus Koordinaten"
-     }
-    ],
-    "km_landeshauptstadt": [
-     {
-      "wert": {
-       "name": "Stuttgart",
-       "km": 124
-      },
-      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
-     }
-    ],
-    "bahnhof": [
-     {
-      "wert": [
-       "Bahnhof Hirschsprung",
-       "Bahnhof Posthalde",
-       "Haltepunkt Höllsteig"
-      ],
-      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
-      "hinweis": "Liste nicht gesichert vollständig"
-     }
-    ],
-    "plz": [
-     {
-      "wert": [
-       "79874"
-      ],
-      "quelle": "Wikidata P281"
-     },
-     {
-      "wert": [
-       "79874"
-      ],
-      "quelle": "Altbestand geo.sqlite"
-     }
-    ],
-    "vorwahl": [
-     {
-      "wert": [
-       "07652"
-      ],
-      "quelle": "Wikidata P473"
-     }
-    ],
-    "wahl_btw25": [
-     {
-      "wert": {
-       "staerkste_partei": "CDU",
-       "anteile_prozent": {
-        "CDU": 38.9,
-        "GRÜNE": 14.8,
-        "SPD": 13.6,
-        "AfD": 13.2,
-        "Die Linke": 5.9
-       },
-       "wahlbeteiligung_prozent": 87.5,
-       "gueltige_zweitstimmen": 1164
-      },
-      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
-      "stand": "2025-02-23",
-      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
-     }
-    ],
-    "buergermeister": [
-     {
-      "wert": {
-       "name": "Markus Kleiser"
-      },
-      "quelle": "dewiki Infobox",
-      "stand": "2026-10-19",
-      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
-     }
-    ],
-    "kueste": [
-     {
-      "wert": "nein",
-      "quelle": "Altbestand geo.sqlite"
-     }
-    ]
-   }
-  },
-  {
-   "slug": "433-kirchzarten",
-   "rolle": "ziel",
-   "name": "Kirchzarten",
-   "einheit": "Gemeinde",
-   "wikidata": "Q528089",
-   "lat": 47.96667,
-   "lon": 7.95,
-   "gemeindeschluessel": "08315064",
-   "eigenschaften": {
-    "landkreis": [
-     {
-      "wert": "Breisgau-Hochschwarzwald",
-      "quelle": "dewiki Infobox"
-     },
-     {
-      "wert": "Landkreis Breisgau-Hochschwarzwald",
-      "quelle": "Wikidata P131"
-     }
-    ],
-    "bundesland": [
-     {
-      "wert": "Baden-Württemberg",
-      "quelle": "dewiki Infobox"
-     }
-    ],
-    "einwohner": [
-     {
-      "wert": 10364,
-      "quelle": "Wikidata P1082",
-      "stand": "2025-12-31"
-     },
-     {
-      "wert": 9730,
-      "quelle": "Altbestand geo.sqlite (GeoNames 2890328)"
-     }
-    ],
-    "flaeche_km2": [
-     {
-      "wert": 21.13,
-      "quelle": "Wikidata P2046"
-     }
-    ],
-    "dichte_ew_km2": [
-     {
-      "wert": 490,
-      "quelle": "berechnet aus Einwohner und Fläche"
-     }
-    ],
-    "kfz": [
-     {
-      "wert": "FR",
-      "quelle": "Wikidata P395"
-     }
-    ],
-    "hoehe_m": [
-     {
-      "wert": 380,
-      "quelle": "Wikidata P2044"
-     },
-     {
-      "wert": 380,
-      "quelle": "dewiki Infobox"
-     },
-     {
-      "wert": 376,
-      "quelle": "Altbestand geo.sqlite (GeoNames 2890328)"
-     }
-    ],
-    "naechste_grossstadt": [
-     {
-      "wert": {
-       "name": "Freiburg im Breisgau",
-       "km": 8
-      },
-      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
-     }
-    ],
-    "lage": [
-     {
-      "wert": "8 km südöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
-      "quelle": "berechnet aus Koordinaten"
-     }
-    ],
-    "km_landeshauptstadt": [
-     {
-      "wert": {
-       "name": "Stuttgart",
-       "km": 128
-      },
-      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
-     }
-    ],
-    "bahnhof": [
-     {
-      "wert": [
-       "Bahnhof Himmelreich",
-       "Bahnhof Kirchzarten"
-      ],
-      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
-      "hinweis": "Liste nicht gesichert vollständig"
-     }
-    ],
-    "plz": [
-     {
-      "wert": [
-       "79199"
-      ],
-      "quelle": "Wikidata P281"
-     },
-     {
-      "wert": [
-       "79199"
-      ],
-      "quelle": "Altbestand geo.sqlite"
-     }
-    ],
-    "vorwahl": [
-     {
-      "wert": [
-       "07661"
-      ],
-      "quelle": "Wikidata P473"
-     }
-    ],
-    "wahl_btw25": [
-     {
-      "wert": {
-       "staerkste_partei": "CDU",
-       "anteile_prozent": {
-        "CDU": 29.2,
-        "GRÜNE": 25.7,
-        "SPD": 17.0,
-        "AfD": 9.2,
-        "Die Linke": 7.6
-       },
-       "wahlbeteiligung_prozent": 89.9,
-       "gueltige_zweitstimmen": 7187
-      },
-      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
-      "stand": "2025-02-23",
-      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
-     }
-    ],
-    "buergermeister": [
-     {
-      "wert": {
-       "name": "Darius Reutter",
-       "partei": "SPD"
-      },
-      "quelle": "dewiki Infobox",
-      "stand": "2026-10-19",
-      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
      }
     ],
     "kueste": [

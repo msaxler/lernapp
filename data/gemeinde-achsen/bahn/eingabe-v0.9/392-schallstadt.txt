@@ -1,0 +1,819 @@
+ZIELORT: Schallstadt (Gemeinde)
+LAGE: 9 km südwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Schallstadt
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 6966  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 19,56  [Wikidata P2046]
+  dichte_ew_km2: 356  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 240 | 223 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2840526)]
+  naechste_grossstadt: Freiburg im Breisgau, 9 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 140 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Haltepunkt Ebringen, Haltepunkt Schallstadt  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79227  [Wikidata P281]
+  vorwahl: 07664  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30,5 %, GRÜNE 21,3 %, SPD 15,4 %, AfD 12 %, Die Linke 7,2 %, FDP 5 %; Wahlbeteiligung 88 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 88 %, Abstand 4,6 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+  buergermeister: Sebastian Kiss — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-17]
+  partnerstaedte: Rosà  [Wikidata P190]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Gipfel: Hohfirst (496 m)
+  Freizeit: Hohbannstein
+  Burg/Denkmal: Kriegerdenkmal
+  Burg/Denkmal: Waldseemüllerdenkmal
+  Burg/Denkmal: Bechtoldskirch
+  Burg/Denkmal: Frühmittelaterliche Gräber
+  Burg/Denkmal: alamannisches Gräberfeld
+  Bahnhof: Schallstadt
+  Bahnhof: Ebringen
+  Schutzgebiet: Naturlehrpfad Brunnengraben
+  Schutzgebiet: Vogelsang
+  Brauerei/Winzer: Böttchehof
+  Gewässer: Betzenbächle
+  Gewässer: Duffernbach
+  Sportstätte: Alemannenhalle
+  Radweg: Südschwarzwald-Radweg (269 km)
+  Wanderweg: Markgräfler Wiiwegli (92 km)
+  Wanderweg: Himmelreich-Jakobusweg
+
+PLAN:
+  Karte 1: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 3
+  Karte 2: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, A, wahre Option an Stelle 4
+  Karte 3: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 1
+  Karte 4: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 2
+  Karte 5: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 3
+  Karte 6: FACETTE INFRA (Ersatz: LAGE), Geschichte, B, Lüge an Stelle 2
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 1
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Ebringen (Gemeinde)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 2852  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 8,18  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 290 | 268 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2933821)]
+  naechste_grossstadt: Freiburg im Breisgau, 7 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,6 %, GRÜNE 21,2 %, SPD 14,9 %, AfD 11,1 %, Die Linke 7,8 %, FDP 5,3 %; Wahlbeteiligung 89,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 89,5 %, Abstand 6,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Ebnet, Littenweiler, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, March, Umkirch, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Kirchzarten, Stegen, Oberried, Buchenbach, Hinterzarten, Breitnau, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Schallstadt):
+ID: 392-schallstadt/001
+ENTITÄT: ort
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Zahlen-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 6941
+  gueltig_ab: 2025
+  gemarkungsflaeche_ha: 1956
+  hoehenlage_m: 280-494
+  mittlere_jahrestemperatur_celsius: 10.30
+  landkreis: Breisgau-Hochschwarzwald
+  postleitzahl: 79227
+  kfz_kennzeichen: unbekannt
+  telefon_vorwahl: 07664
+  region: Südlicher Oberrhein
+  regierungsbezirk: Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 392-schallstadt/002
+ENTITÄT: ort
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 7000
+  genauigkeit: ca.
+  lage: Nördliches Eingangstor zum Markgräflerland, an der Badischen Weinstraße
+  charakteristika_architektur: Stapfelhäuser mit treppenförmig bekrönten Fassaden
+  nahe_landschaften: Tuniberg, Kaiserstuhl, Rheinebene, Mooswald
+  ortsteile: Wolfenweiler, Schallstadt, Mengen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/003
+ENTITÄT: gemeinde
+BEZEICHNUNG: Schallstadt
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwaehnung: 779
+  erste_erwaehnung_als_scalcstater_marca: 779
+  erwaehnungskontext: Güterschenkung an Kloster Lorsch
+  gueltig_ab: 779
+  namensherkunft: Althochdeutsch "Scalc" (Schalk, Knecht, Leibeigener), Deutung "Stätte wo Hörige/Leibeigene wohnen"
+  fruehe_siedlungsspuren: Jungsteinzeit
+  urgeschichtliche_funde: 6.-8. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/004
+ENTITÄT: gemeinde
+BEZEICHNUNG: Mengen
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG: Mengen
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwaehnung: 776
+  gueltig_ab: 776
+  fruehe_siedlungsspuren: Jungsteinzeit
+  namensherkunft: Germanischer Personenname Mago mit Endung -inga/-ingas, Bedeutung "bei den Leuten des Mago"
+  vereinigung_mit_schallstadt: 1975
+  gueltig_ab: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/005
+ENTITÄT: gemeinde
+BEZEICHNUNG: Wolfenweiler
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG: Wolfenweiler
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_sichere_schriftliche_erwaehnung: 873
+  gueltig_ab: 873
+  fruehe_siedlungsspuren: Jungsteinzeit
+  namensherkunft: Personenname Wolvo/Wulf, Weiler "Weiler des Wolvo"
+  adelsgeschlecht_11_jhd: Adelsgeschlecht Wolfenweiler
+  vereinigung_mit_schallstadt: 1971
+  gueltig_ab: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/006
+ENTITÄT: gemeinde
+BEZEICHNUNG: Leutersberg
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG: Wolfenweiler
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1347
+  namensherkunft: Genitivische Bildung "Berg des Luzo"
+  mittelalterliche_herkunft: Ausbausiedlung von Wolfenweiler
+  einwohner: 200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Föhrenschallstadt
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwaehnung_als_nieder_schallstadt: 1347
+  spaetere_bezeichnung: Föhrenschallstadt
+GUELTIG_AB: 1347
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 392-schallstadt/008
+ENTITÄT: person
+BEZEICHNUNG: Martin Waldseemüller
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG: Wolfenweiler
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Kartograph
+  geburtsjahr_vermutlich: 1472-1475
+  todesjahr: 1520
+  todesjahr_genauigkeit: vermutlich
+  geburtsort: Wolfenweiler
+  hauptwerk_titel: Weltkarte mit Faltglobus und Cosmographiae Introductio
+  veroeffentlichungsdatum: 25. April 1507
+  veroeffentlichungsort: St. Dié, Lothringen
+  kollaborateur: Matthias Ringmann
+  foerderer: Herzog René II von Lothringen
+  hauptwerk_inhalt: Basierend auf Reiseberichten Amerigo Vespuccis, erste Karte mit Namen "America"
+  wappen_bezeichnung: Erste Weltkarte mit Namen "America"
+  bedeutung_fuer_ort: Namensgeber von Amerika, bedeutendste geschichtliche Persönlichkeit des Ortes
+  geburtshaus_vermutung: Binzenmühle
+  familienlage: Familie ab 1480 in Freiburg ansässig
+  superlativ: epochales Werk der Geographie
+GUELTIG_AB: 1507
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/009
+ENTITÄT: gebaeude
+BEZEICHNUNG: Binzenmühle
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG: Wolfenweiler
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vermutet_geburtshaus: Martin Waldseemüller
+  bestand_bis_heute: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 392-schallstadt/010
+ENTITÄT: gemeinde
+BEZEICHNUNG: Rosà
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Italien
+  partnerschaftsbeginn: 1991
+  partnerschaft_bekraeftigung: 1992
+  provinz: Vicenza
+  groesse: eine der größten Gemeinden der Provinz Vicenza
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gemeindewappen
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  annahmedatum: 18. Februar 1992
+  verleihung_behoerde: Landratsamt Breisgau-Hochschwarzwald
+  verleihungsdatum: 7. April 1992
+  blasonierung: Geteilt, oben gespalten von Blau und Gold, vorne silbernes Hufeisen, hinten blaue Weintraube an grünem Stiel mit grünem Blatt, unten in Silber auf grünem Dreiberg schreitender schwarzer Wolf
+  flaggenfarben: Weiß-Blau
+  symbole_bedeutung: Hufeisen und Weintraube für dörfliche Vergangenheit und Weinbau; Wolf für Wolfenweiler
+  absicht: Identität der Ortsteile Mengen, Wolfenweiler, Schallstadt heraldisch deutlich machen
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 392-schallstadt/012
+ENTITÄT: wanderweg
+BEZEICHNUNG: Jakobsweg Rothenburg-Rottenburg-Thann
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Vollständig gekennzeichnet 2011
+  streckenteil_schallstadt: führt über Schallstädter Gemarkung, mit Jakobsmuschel ausgeschildert
+  ziel: Santiago de Compostela
+  zielgruppe: Pilger aus östlichen Nachbarländern, Norden und Osten Deutschlands
+  markierung: Jakobsmuschel
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Neues Rathaus
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Wolfenweiler
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 2022
+  bedeutung_fuer_ort: Zeichen der Modernisierung
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/014
+ENTITÄT: gebaeude
+BEZEICHNUNG: Ortsmitte Schallstadt
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: Sommer 2023
+  beschreibung: neue gemeinsame Ortsmitte
+  planungszeit: langjährig
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/015
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bürger- und Kulturhaus
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: Zeichen der Modernisierung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/016
+ENTITÄT: schule
+BEZEICHNUNG: Johann-Philipp-Glock-Schule
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erweiterung: gelungene Erweiterung
+  veroeffentlichung: vor 2023
+  namensgeber: Johann Philipp Glock
+  namensgeber_eigenschaft: eine der bedeutendsten geschichtlichen Persönlichkeiten des Ortes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/017
+ENTITÄT: gebaeude
+BEZEICHNUNG: Käppele
+FACETTE: KULTUR | GESCHICHTE
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  urspruengliche_bezeichnung: St. Blasiuskapelle
+  errichtungsjahr: 1350
+  denkmalschutz: true
+  schulnutzung: 1768-1938 ca. (knapp 170 Jahre) Volksschule
+  sanierung: 1998
+  aktuelle_nutzung: Kindertagesstätte, Kunstverein mit Ausstellungsräumen
+  scheune_flaeche_qm: 160
+  scheune_einbau: Gewölbekeller, Küche
+  scheune_nutzung: Kulturverein veranstaltet Theateraufführungen, Filmvorführungen, Konzerte
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/018
+ENTITÄT: kunstobjekt
+BEZEICHNUNG: Bambutopia
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Mengen
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Skulpturengarten
+  lage: Westlicher Ortsausgang Mengen
+  gruendung: 1989
+  flaeche_qm: 8000
+  bambusarten: 27+
+  charakterisierung: Skulpturengarten in Bambuswald
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/019
+ENTITÄT: naturschutz_projekt
+BEZEICHNUNG: Naturlehrpfad Brunnengraben
+FACETTE: FREIZEIT | LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Mengen
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Na | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Arbeitskreis Naturlehrpfad Brunnengraben
+  gruendung: 2005
+  un_dekade_auszeichnung: 2014
+  un_dekade_kriterium: offizielles Projekt der UN-Dekade Biologische Vielfalt
+  auszeichnungs_uebergabe: 8. Mai 2014 durch Regierungspräsidentin Bärbel Schäfer
+  schwerpunkt: Schutz und Lebensraum gefährdeter Vögel, Insekten, Pflanzen und Bäume
+  massnahmen: einheimische Sträucher und Bäume, Nistkästen für Turmfalken, Steinkauzröhren
+  partner: NABU, BUND, Gemeinde Schallstadt, Alemannenschule Mengen
+  erfolg_vogelarten: Feldlerche, Laubfrosch
+  erfolg_insekten: Helm-Azurjungfer, seltene Libellenarten
+  auszeichnung_symbolik: Vielfalt-Baum
+  bedeutung_fuer_ort: Renaturierung entlang eines Bachlaufes
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/020
+ENTITÄT: naturschutz_projekt
+BEZEICHNUNG: Alte Obstsorten Naturlehrpfad Brunnengraben
+FACETTE: FREIZEIT | LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Mengen
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Na | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Regionale Obstsorten, Ergebnis jahrhunderterlanger Zuchtbemühungen, gepflanzt entlang Brunnengraben
+  anzahl: ca. 20 Sorten
+  beschilderung: Namensschilder
+  zweck: Erhalt genetischer Vielfalt und Aromenvielfalt
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/021
+ENTITÄT: flora
+BEZEICHNUNG: Heimische Weidenarten Naturlehrpfad Brunnengraben
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Mengen
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Na | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Weiden als Pioniere, Heimat in Weichholzauen, Anpassung an Standorte
+  kulturelle_nutzung: Weidenkätzchen für Vase, Körbe aus Korb-Weide
+  historische_nutzung: Kelten und Germanen gewannen schmerzstillende Extrakte aus Weidenrinde
+  aspirin_verbindung: Ohne Weiden gäbe es kein Aspirin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 392-schallstadt/022
+ENTITÄT: flora
+BEZEICHNUNG: Einheimische Sträucher Naturlehrpfad Brunnengraben
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Mengen
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Na | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_arten: 16
+  beschreibung: Crash-Kurs über wichtigste einheimische Sträucher
+  beschilderung: Namensschilder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/023
+ENTITÄT: weinanbau_region
+BEZEICHNUNG: Batzenberg
+FACETTE: LAGE | LANDSCHAFT | WIRTSCHAFT | ALLTAG
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Weinbau-Gewerbe/Wein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse_km_laenge: 4
+  groesse_km_breite: 1.2
+  hoehe_m: 330
+  ausrichtung: Nordosten nach Südwesten
+  osten_grenze: Schneckental mit Pfaffenweiler und Öhlinsweiler an L 125
+  norden_grenze: Schallstadt und Wolfenweiler
+  sueden_grenze: Kirchhofen und Ehrenkirchen
+  westen_grenze: Norsingen und Scherzingen an B 3
+  erhoehung_umgebung_m: 100
+  bodenschicht: starke Lössschicht
+  bedeckung: komplett unbewaldet mit Reben bepflanzt
+  anbauflaeche_ha: 376
+  superlativ: größter geschlossener Weinberg und größte geschlossene Gutedellage Deutschlands
+  weinbau_geschichte: seit Römerzeit, nachgewiesen seit 716
+  weinbaugebiet_bereiche: Markgräflerland, Südschwarzwald, Staufener Bucht, Breisgau
+  fruehe_bewirtschafter: St. Gallener Mönche
+  rebsorte_haupttraeger: Gutedelrebe
+  rebsorte_einfuehrung: 1780 unter Markgraf Karl Friedrich vom Genfersee
+  flurbereinigung: 1949-1979
+  fruehe_nutzung: neben Weinbau Waldungen, Obstanbau, Ackerbau
+  reblaus_problem: Bedrohung des Weinbaus, Neuanpflanzung resistenter Sorten
+  nachkriegsentwicklung: Gründung von Winzergenossenschaften
+  rebflurbereinigung_bedeutung: eines der ersten Gebiete Badens, Modellregion für neuen Weinbau über Landesgrenzen hinaus
+  weinlehrpfad_laenge_km: 5
+  weinlehrpfad_inhalt: Tafeln zur Weinwirtschaft und typische Rebsorten
+  markante_punkte_weinlehrpfad: Pfropfreben-Denkmal 1976, Steinhauerkreuz 1847
+  hoehenwweg_laenge_km: 4
+  hoehenweg_beschaffenheit: behindertengerecht, fast eben, landwirtschaftlicher Fahrweg
+  hoehenweg_besonderheit: fehlende Bewaldung ermöglicht sehr gute Fernsicht in Rheinebene und zum Schwarzwald
+  fernwanderweg: Markgräfler Wiiwegli
+  bedeutung_fuer_ort: seit 8. Jahrhundert Weinbau durch Mönche, fortschrittliche Winzergemeinde
+GUELTIG_AB: 716
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 392-schallstadt/024
+ENTITÄT: denkmal
+BEZEICHNUNG: Pfropfreben-Denkmal Batzenberg
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Weinbau-Gewerbe/Wein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_erstellung: 1976
+  lage: Batzenberg Weinlehrpfad
+  bedeutung: markanter Punkt am Weinlehrpfad
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/025
+ENTITÄT: denkmal
+BEZEICHNUNG: Steinhauerkreuz Batzenberg
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Weinbau-Gewerbe/Wein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_erstellung: 1847
+  erbauer: Johann Eckerle Steinhauer
+  lage: Batzenberg Weinlehrpfad
+  bedeutung: markanter Punkt am Weinlehrpfad
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/026
+ENTITÄT: verein
+BEZEICHNUNG: Gewerbeverein Schallstadt-Ebringen-Pfaffenweiler
+FACETTE: WIRTSCHAFT | ALLTAG
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Weinbau-Gewerbe/Gewerbeverein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mitgliederzahl: 120
+  gegruendet: vor 1909 (seit über 100 Jahren)
+  branchen: Handel, Handwerk, Dienstleistungen, freie Berufe, Gastronomie
+  unternehmensgroessen: Einzelunternehmer bis starker Mittelständler
+  aktivitaeten: Geschäftskontakte, unternehmerischer Austausch, Events, Vorträge, Workshops, Stammtische
+  schwerpunkt: Förderung positiver wirtschaftlicher Entwicklungen in Schallstadt, Ebringen, Pfaffenweiler
+  ziel: stabile ausgewogene Struktur kleiner und mittelständischer Betriebe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/027
+ENTITÄT: unternehmen
+BEZEICHNUNG: Ziemann Sicherheit
+FACETTE: WIRTSCHAFT | ALLTAG
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  sitz: Schallstadt
+  typ: Hauptsitz
+  geschaeftsbereich_1: Geld- und Werttransport
+  geschaeftsbereich_2: Sicherheitslogistik
+  geschaeftsbereich_3: Sicherheitsdienst
+  marktposition: zweitgrößter Anbieter in Deutschland (Geld- und Werttransport)
+  bedeutung_fuer_ort: bedeutender Wirtschaftsfaktor der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/028
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Martin
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Mengen
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1836-1841
+  architekt: Heinrich Hübsch
+  stil: klassizistische Saalkirche
+  besonderheit: hoher schlanker Turm und pyramidenförmiges Dach
+GUELTIG_AB: 1841
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/029
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Blasius
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1992-1994
+  lage: östlicher Rand Schallstadt an Gemarkungsgrenze zu Wolfenweiler
+  besonderheit: unmittelbare Nähe zum neuen Rathaus in der neuen Ortsmitte
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/030
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kaltes Nahwärmenetz Schallstadt
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  baujahr_start: 2021
+  status: in Errichtung
+  versorgte_objekte: ca. 200 Wohnungen, neues Rathaus, neue Ortsmitte
+  wärmequelle: Abwassersammler des Abwasserzweckverbandes Breisgauer Bucht
+  temperaturbereich_celsius: 12-18 (ganzjährig)
+  funktionsweise: Wärmetauscher übertragen Wärmenergie in Kaltwärmenetz, Wärmepumpenheizungen vor Ort
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/031
+ENTITÄT: klinik
+BEZEICHNUNG: Rehaklinik Lindenhof
+FACETTE: INFRA | FREIZEIT
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Fachkrankenhaus
+  spezialisierung: suchtkranke Frauen
+  lage: Südrand Schallstadt
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/032
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Schallstadt
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  bahn: Rheintalbahn
+  bahnlinie: Offenburg–Basel
+  verkehrsanbindung: Regional-Expresse und Regionalbahnen
+  verkehrsverbund: Regio-Verkehrsverbund Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/033
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Ebringen
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Wolfenweiler
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  lage: Gemeindegebiet Schallstadt, Ortsrand Wolfenweiler
+  offizielle_bezeichnung: Nachbargemeinde Ebringen
+  bahn: Rheintalbahn
+  verkehrsanbindung: vorwiegend Regionalbahnen, keine Expressverbindungen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/034
+ENTITÄT: verkehrsinfra
+BEZEICHNUNG: Mengener Tunnel
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Mengen
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  projekt: Neubaustrecke Karlsruhe-Basel
+  lage: Höhe Ortsteil Mengen, entlang A 5 im Westen Schallstadts
+  art: längerer Tunnel
+  geplante_fertigstellung: 2031
+GUELTIG_AB: geplant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/035
+ENTITÄT: radweg
+BEZEICHNUNG: Badischer Weinradweg
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Landes-Radfernweg
+  startpunkt: Grenzach-Wyhlen
+  erste_station: Bad Krozingen
+  zweite_station: Schallstadt
+  charakter: zwei Varianten ab Schallstadt
+  variante_1: Mengen, Munzingen zum Tuniberg, entlang nach Ihringen, über Kaiserstuhl zu Sasbach
+  variante_2: Rand Rheintals über Ebringen, Freiburg nach Emmendingen
+  treffpunkt_varianten: Malterdingen
+  ziel: Laudenbach im Norden Baden-Württembergs
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/036
+ENTITÄT: wanderweg
+BEZEICHNUNG: Markgräfler Wiiwegli
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Weinbau-Gewerbe/Wein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge_km: unbekannt
+  startpunkt: Freiburg
+  ziel: Weil am Rhein
+  verlauf: über Batzenberg
+  organisation: Schwarzwaldverein
+  bedeutung_fuer_ort: Fernwanderweg über Batzenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/037
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Piazza Rosà
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  former_name: Sportanlage Wolfenweiler
+  fertigstellung: Oktober 2023
+  einweihung: 18. Mai 2024
+  event: Festakt mit italienischen Gästen, Gottesdienst, Konzerte
+  benannt_nach: Partnergemeinde Rosà (Italien)
+  bedeutung_fuer_ort: Würdigung der Städtepartnerschaft mit Rosà
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/038
+ENTITÄT: schule
+BEZEICHNUNG: Alemannenschule
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Mengen
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Grundschule
+  besonderheit: beherbergt Außenstelle der Werkrealschule Jengerschule Ehrenkirchen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/039
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kindergarten Am Käppele
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kindertagesstätte
+  lage: Kernort Am Käppele
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/040
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kindergarten Mengen
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Mengen
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kindertagesstätte
+  lage: Mengen
+  100_jaehriges_jubilaeum: 2004
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/041
+ENTITÄT: gebaeude
+BEZEICHNUNG: Evangelischer Kindergarten am Gehrenweg
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Wolfenweiler
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Evangelischer Kindergarten
+  lage: Gehrenweg, Wolfenweiler
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/042
+ENTITÄT: person
+BEZEICHNUNG: Johann Philipp Glock
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG: Schallstadt
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Das-ist-Schallstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft: eine der bedeutendsten geschichtlichen Persönlichkeiten des Ortes
+  ehrung: Schule benannt nach ihm
+  superlativ: Bedeutendste geschichtliche Persönlichkeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 392-schallstadt/043
+ENTITÄT: person
+BEZEICHNUNG: Tim Lang
+FACETTE: POLITIK
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Beste-Lage/Weisch-no | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Fachbereichsleitung Bürger- und Ordnungsamt, Katastrophenschutz, Feuerschutz, Jugend
+  telefon: 07664 6109-22
+  fax: 07664 6109-91
+  email: tim.lang@schallstadt.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/044
+ENTITÄT: person
+BEZEICHNUNG: Sebastian Kiss
+FACETTE: POLITIK
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Bürgermeister
+  amtsantritt: 2020
+  gueltig_ab: 2020
+  wahlform: Wahlgang mit 50.33% der Stimmen
+  wahlbeteiligung: 54.98%
+  vorgaenger: Jörg Czybulka
+  frueherer_beruf: stellvertretender Hauptamtsleiter in Baiersbronn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 392-schallstadt/045
+ENTITÄT: person
+BEZEICHNUNG: Alexander Bartsch
+FACETTE: POLITIK | WIRTSCHAFT
+ORTSTEIL_BEZUG:
+QUELLE: https://www.schallstadt.de/de/Weinbau-Gewerbe/Gewerbeflaechen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Leitung Rechnungsamt (Kämmerei), Rechnungsamtsleiter
+  telefon: 07664 6109-41
+  fax: 07664 6109-91
+  email: rechnungsamtleiter@schallstadt.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 392-schallstadt/046
+ENTITÄT: landschaftsform
+BEZEICHNUNG: Hohfirst
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_m: 496
+  grenzmarkierung: Grenze zu Bollschweil, Hohbannstein unterhalb
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 392-schallstadt/047
+ENTITÄT: landschaftsform
+BEZEICHNUNG: Hohbannstein
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Schallstadt | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: unterhalb des Hohfirstgipfels
+  funktion: markiert Grenze zu Bollschweil
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+

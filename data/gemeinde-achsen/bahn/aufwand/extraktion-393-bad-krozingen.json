@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "393-bad-krozingen",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 39517,
- "token_ein": 29698,
- "token_aus": 21749,
+ "eingabe_zeichen": 70279,
+ "token_ein": 40095,
+ "token_aus": 21423,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 22561,
+  "cache_creation_input_tokens": 32958,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 21749,
+  "output_tokens": 21423,
   "output_tokens_details": {
-   "thinking_tokens": 16003
+   "thinking_tokens": 7830
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 22561,
+   "ephemeral_1h_input_tokens": 32958,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 21749,
+    "output_tokens": 21423,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 22561,
+    "cache_creation_input_tokens": 32958,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 22561
+     "ephemeral_1h_input_tokens": 32958
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.1545888,
- "sekunden": 162,
+ "kosten_usd": 0.17375279999999999,
+ "sekunden": 186,
  "fehler": false,
- "zeit": "2026-10-17T10:49:18"
+ "zeit": "2026-10-20T09:09:25"
 }

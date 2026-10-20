@@ -1,0 +1,862 @@
+ENTITÄT: ort
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  landkreis: Breisgau-Hochschwarzwald
+  nachbar_stadt: Freiburg im Breisgau
+  entfernung_zu_freiburg: 8 km
+  lage: am Fuße des Schauinsland-Massivs, östlich des Hexentals, auf Hochplateau am Westhang
+  schutzgebiet_naturpark: Naturpark Südschwarzwald
+  schutzgebiet_biosphärengebiet: Biosphärengebiet Südschwarzwald
+  schutzgebiet_landschaftsschutz: Landschaftsschutzgebiet Horben
+  verwaltungsgemeinschaft: Hexental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+FACETTE: GESCHICHTE | IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  besiedlung_herkunft: wahrscheinlich von Merzhausen aus
+  genauigkeit_besiedlung: vermutlich
+  erste_erwähnung_als_villa: 1265
+  erste_erwähnung_als_dorf: 1525, mit 24 Höfen in Streulage
+  eigene_pfarrei_seit: 1792 (im Rahmen des Josephinismus)
+  erfolgreiche_wehrung_gegen_eingemeindung: bis in die heutige Zeit
+  dorfordnung_älteste: 1586
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+FACETTE: ALLTAG | WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  wirtschaftliche_grundlage: Forstwirtschaft und Landwirtschaft
+  betriebstypen: Haupterwerbs- und Nebenerwerbsbetriebe
+  handwerk_und_dienstleistung: kleinere Betriebe vorhanden
+  gewerbegebiet: keine
+  direktvermarktung: teilweise durch Bauern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  tourismus_bedeutung: Fremdenverkehr hat Bedeutung
+  nächtigungen_2009: 25000
+  tourismusverein: Verein Tourismus Horben
+  aktivitäten: Wandern, Mountainbiken, Paragliding, Drachenfliegen, Downhill-Skateboarding
+  fernwanderweg: Weg der Revolutionäre (seit 2020)
+  ferienapartments: Wohnungen für Ferien auf dem Bauernhof vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: klima
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  jahresmitteltemperatur: 9.1 Grad Celsius
+  genauigkeit_temperatur: ca.
+  niederschlag_jahresmittel_tal: 900-950 mm
+  niederschlag_hoehen: 1200 mm
+  hoehenlage_klassifizierung: Vorbergzone des Schwarzwaldes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Schauinsland
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Bohrer (Talstation)
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Berg im Schwarzwald
+  bedeutung_fuer_ort: Wahrzeichen, Ausflugsziel, Ausgangspunkt für Sportaktivitäten
+  aktivitäten: Skifahren, Wandern, Paragliding, Drachenfliegen, Downhill-Skateboarding
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Hörnle
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 886 m
+  lage: im Gemeindegebiet Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Eduardshöhe
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 859 m
+  benannt_nach: Eduard Fauler
+  fauler_titel: früherer Bürgermeister von Freiburg
+  lage_im_gelande: östlicher Grenzberg Horbens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Illenberg
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 642 m
+  lage_im_gelande: westlicher Grenzberg Horbens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Heibrain
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  ausblick: weiter Rundumblick auf Schauinsland, Schönberg, Rheinebene, Kaiserstuhl, Vogesen, Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Luisenhöhe
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Langackern
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: ehemaliges Ausflugsziel mit Aussicht
+  benannt_nach: Großherzogin Luise von Preußen
+  beschreibung: weithin sichtbare Aussichtslage
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 2011 (Abriss wegen Baufälligkeit)
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Bohrerbach
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: entspringt in Horben
+  urspruenglicher_name: nach Deichelbohrern (Handwerker) benannt
+  name_ab_guentertal: Hölderlebach
+  tal: Bohrertal, gehört zur Gemarkung Horben
+  geschichtlicher_kontext: im Bohrertal Flößerei und Deichelbohrer-Handwerk betrieben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Selzenbach
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Bach
+  oberlauf: gehört zur Horbener Gemarkung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hochwasserschutz
+BEZEICHNUNG: Hochwasserrückhaltebecken Bohrertal
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Bohrer
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Staudamm
+  hoehe: 13.5 m
+  laenge: 275 m
+  breite_max: 80 m
+  bauzeit: 2020-2023
+  baubeginn: Februar 2020
+  fertigstellung: April 2023
+  zweck: Hochwasserschutz für Freiburg-Stadtteile
+  besonderheit: Projekt im Landschaftsschutzgebiet mit wertvollen Biotopen
+  kontroverse: nicht unumstritten
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2023
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bahn
+BEZEICHNUNG: Schauinslandbahn
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Bohrer
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Bergbahn
+  talstation_lage: in Ortsteil Bohrer
+  talstation_gehoert_zu: Horben
+  gipfelstation_gehoert_zu: Freiburg
+  bauzeit: 1930
+  bedeutung_fuer_ort: führte zu vergeblichem Eingemeindungsversuch
+  bedeutung_gaengigerweise: Charakteristikum, überregional bekannt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1930
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: rennen
+BEZEICHNUNG: Schauinsland-Rennen
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Bohrer
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Automobilrennen, Bergrennen
+  start_lage: Talgrund des Bohrertals
+  start_position_initial: Beginn der Großmatte
+  start_position_spaeter: Friedrichshof
+  durchfuehrung_von: 1925
+  besonderheit: überregional bekannt (ADAC-Bergrennen)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1925
+GUELTIG_BIS: 1988
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Agatha
+FACETTE: GESCHICHTE | IDENTITÄT
+ORTSTEIL_BEZUG: Dorf
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  religionszugehoerigkeit: katholisch
+  typus: Pfarrkirche
+  erbauung_jahr: 1792
+  erbauung_anlage: anstelle einer früheren Kapelle
+  erbauung_grund: Horben wurde erstmals eigenständige Pfarrei (Josephinismus)
+  portal_jahr: 1703
+  portal_kuenstler: Johann Adam Wissen
+  portal_herkunft: ursprünglich für Freiburger Heiliggeistspitalkirche
+  portal_charakteristika: barock
+  heilig_geist_taube: erinnert im Giebelfeld an Ursprung
+  innenausstattung_jahr: 1823
+  innenausstattung_herkunft: von Freiburger Heiliggeistspitalkirche
+  hochaltar_stil: barock, warme Blaugrau- und Rottöne
+  hochaltar_altarbild_kuenstler: Johannes Winterer (Waldkircher Maler)
+  hochaltar_altarbild_motiv: Pfingstwunder
+  seitenaltar_rechts_widmung: St. Agatha (Patronin)
+  seitenaltar_links_widmung: Mutter Gottes
+  glocke_jahr: 1751
+  glocke_stifter: Johann Friedrich Fridolin von Kageneck
+  glocke_herkunft: von Freiburger Heiliggeistspitalkirche
+  orgel_jahr: 1812
+  orgel_erbauer: Nikolaus Schuble (1770-1816) aus Pfaffenweiler
+  orgel_besonderheit: einzige erhaltenen Register dieses Meisters außer historischem Prospekt
+  erhaltungszustand: im Originalzustand erhalten, frisch renoviert
+  nutzung: Gottesdienste, Hochzeitskirche
+  pfarrhaus_jahr: 1791
+  friedhof: vorhanden, mit Blick ins Bohrertal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gasthof
+BEZEICHNUNG: Zum Raben
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Dorf
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1604
+  aktueller_bau_jahr: 1805
+  geschichtliche_rolle: wichtige Funktion wegen steilen Weges zum Schauinsland und nach Todtnau
+  historisches_erlebnis: 1772 Beschwerde über schlechte Bedingungen (Unterversorgung mit Essen, Überbelegung)
+  modernisierung: sorgsame Modernisierung durchgeführt
+  heutige_nutzung: Familienfeiern und Gastronomie
+  charakteristik: hat Charakter eines alten Dorfgasthofs behalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: rathaus
+FACETTE: ALLTAG | POLITIK
+ORTSTEIL_BEZUG: Dorf
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  erbauung_jahr: 1912-1913
+  urspruengliche_nutzung: Schulhaus
+  architekturstil: Schwarzwaldstil
+  bedeutung_fuer_ort: rundet Dorfzentrum ab
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_bauwerk
+BEZEICHNUNG: Althäusle
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Langackern
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Leibgedinghaus
+  erbauung_circa: um 1600
+  architekturstil: Schwarzwaldstil
+  besonderheit: Wegkreuz aus Stein in Nachbarschaft
+  standort: Abzweigung der Straße in das Selzental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gesundheitsresort
+DESIGNATION: Gesundheitsresort Langackern (am Standort Hotel Luisenhöhe)
+FACETTE: ALLTAG | INFRA
+ORTSTEIL_BEZUG: Langackern
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  vorgaenger: Hotel Luisenhöhe
+  vorgaenger_jahr: 1896
+  vorgaenger_benannt_nach: Großherzogin Luise von Preußen (badisch, geb. Prinzessin Luise von Preußen)
+  vorgaenger_brand: 1906
+  vorgaenger_wiederaufbau: 1906
+  vorgaenger_abriss: wegen veralteter Bausubstanz, 2011 begonnen
+  neubau_baubeginn: 2019
+  neubau_richtfest: September 2021
+  neubau_soft_opening: 3. August 2023
+  typus: Resort mit Gesundheitsfokus
+  umstritten: geplante Wohnhäuser für Hotelpersonal auf bisher unbebauter Wiese
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2023
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_hotel
+BEZEICHNUNG: Friedrichshof
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Bohrer
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: ehemaliges Hotel
+  benannt_nach: Friedrich I.
+  erbauung_jahr: 1896
+  erbauer: Karl Küchlin
+  heutiger_status: in Privatbesitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: villa
+BEZEICHNUNG: Villa Küchlin
+FACETTE: ALLTAG | ARCHITEKTUR
+ORTSTEIL_BEZUG: Bohrer
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  erbauung_jahr: 1923
+  erbauer: Karl Küchlin
+  architekt: Max Laeuger (Kunstprofessor und Architekt)
+  stil: Entwurf durch Kunstprofessor
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bohrer
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Weiler
+  besonderheit: Talstation Schauinslandbahn liegt hier
+  neubaugebiet: entstanden durch Nähe zu Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Langackern
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Weiler
+  neubaugebiet: entstanden durch Nähe zu Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Katzental
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Weiler
+  radweg: führt durch Katzental nach Au ins Hexental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Münzenried
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Weiler
+  unterteile: mit Gerstenhalm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Benjamin Bröcker
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  partei: Bündnis 90/Die Grünen
+  amt_typ: ehrenamtlich
+  amtszeit_von: 1. März 2019
+  amtszeit_dauer: 8 Jahre (regulär)
+  wahltyp: direkte Wahl alle acht Jahre
+  nachfolge: im November 2025 zum Bürgermeister von Staufen gewählt
+GUELTIG_AB: 2019
+GUELTIG_BIS: 2027 (geplant, unterbrochen durch Wechsel 2025)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Küchlin
+FACETTE: GESCHICHTE | IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1864-1935
+  nationalitaet: deutsch-schweizerisch
+  berufe: Unternehmer, Theaterdirektor, Mäzen
+  bezug_zu_horben: Grundbesitzer in Horben
+  bauten: Friedrichshof (1896), Villa Küchlin (1923)
+GUELTIG_AB: 1864
+GUELTIG_BIS: 1935
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Marina Zwetajewa
+FACETTE: GESCHICHTE | IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1892-1941
+  nationalitaet: russisch
+  profession: bedeutende Dichterin
+  bezug_zu_horben: verbrachte Sommer 1904 im Gasthof Engel mit Familie
+  gaestinnen: mit Eltern Iwan Wladimirowitsch Zwetajew und Marija Aleksandrowna Meyn und Schwester Anastasija Zwetajewa
+  vater_titel: Gründer des Puschkin-Museums Moskau
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Valentin Schweiger
+FACETTE: POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1900-1990
+  partei: SPD
+  position: Landtagsabgeordneter
+  buergermeister_von_horben: 1969-1975
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bernd Martin
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1940
+  profession: Historiker
+  bezug_zu_horben: ehemaliger Gemeinderat
+GUELTIG_AB: 1940
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gundolf Fleischer
+FACETTE: ALLTAG | POLITIK
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1943
+  profession: Jurist und Politiker
+  partei: CDU
+  position: Staatssekretär a. D. der Landesregierung Baden-Württemberg
+  position_sport: Präsident des Badischen Sportbundes
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hortense von Gelmini
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1947
+  profession: Orchesterdirigentin, Malerin, Schriftstellerin
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilderich von Droste zu Hülshoff
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1948
+  profession: Jurist, Autor, Stiftungsvorstand
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stiftung
+BEZEICHNUNG: Libertas per Veritatem
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: gemeinnützige Stiftung
+  taetigkeitsbereich: überregional
+  sitz: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein Harmonie
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Musikverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Schachclub Horben
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Schachclub
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Tauziehclub Horben
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Tauziehclub
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Skiclub Horben
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Skiclub
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Turnverein Horben
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Turnverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Narrenzunft Haibraingeister
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Fastnachtverein
+  besonderheit: überörtlich bekannt
+  brauch: Fastnacht/Karneval
+  namensgeber: Aussichtspunkt Heibrain
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Horben
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: freiwillige Feuerwehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Weg der Revolutionäre
+FACETTE: FREIZEIT | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  route_von: Horben
+  route_nach: Freiburg
+  beschilderung_durch: Schwarzwaldverein
+  beschilderung_seit: 2020
+  historischer_hintergrund: Badische Revolution 1848/49
+  teil_von: Wanderrouten Deutsche Revolution in Baden 1848/49
+  markierung_durch: Landeszentrale für politische Bildung Baden-Württemberg (seit 1998)
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2020
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Denkmal beim Jägerbrunnen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Gedenkstätte für zwei Soldaten gefallen im Gefecht bei Günterstal
+  anlass: Gefecht am Ostersonntag 1848 (Badische Revolution)
+  standort: beim Jägerbrunnen
+  besonderheit: noch existent
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gefecht bei Günterstal
+FACETTE: GESCHICHTE | IDENTITÄT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  datum: Ostersonntag 1848 (22. April 1848)
+  kontext: Badische Revolution 1848/49
+  horben_rolle: Operationsbasis Franz Sigels
+  teil_beteiligung: Gustav Struve mit Vorhut gegen Abordnung aus Freiburg unter Mors
+  horbener_vorbereitung: Struve rückte entgegen Sigels Befehl vor
+  ort_der_hauptaktion: Talausgang beim heutigen Sternwaldeck
+  resultat: Freischärler in Flucht geschlagen, verfolgt hinter Günterstal
+  verluste: ca. 20 Freischärler, 3 Soldaten gefallen
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1848
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Besuch Napoleon III.
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1838
+  person: späterer Kaiser der Franzosen (Napoleon III.)
+  begleitung: zwei Adjutanten
+  besonderheit: musste in Horben abwarten bis Leichenzug beendigt war
+  grund_des_weges: vermutlich Flucht nach London
+  kontext: Frankreich betrieb Auslieferung durch die Schweiz
+  wohnort_bis_1838: Schloss Arenenberg am Bodensee (Exil)
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1838
+GUELTIG_BIS: 1838
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Russische Truppen Befreiungskriege
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  jahr: Januar 1814
+  kontext: Befreiungskriege gegen Napoléon
+  route: von Freiburg durch Horben ins Wiesental
+  ziel: Rhein bei Basel zur Flucht nach Frankreich überqueren
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1814
+GUELTIG_BIS: 1814
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BESCHREIBUNG: Dreißigjähriger Krieg Schlacht bei Freiburg im Breisgau
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  auswirkung_auf_horben: Horber Berg durch umherziehende Soldaten völlig ausgeraubt
+  folgen_1645: in Horben kein Stück Vieh mehr vorhanden
+  rekultivierung: Freiburg siedelte neue Höfe im Bohrertal an
+  rekultivierung_erfolg: Höfe hielten sich nur bis Mitte des 19. Jahrhunderts
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1631
+GUELTIG_BIS: 1648
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: reform
+BEZEICHNUNG: Aufhebung Frondienste durch Kaiser Joseph II.
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1784
+  aktion: Kaiser Joseph II. hob Pflicht zu Frondiensten auf
+GUELTIG_AB: 1784
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturpark Südschwarzwald
+FACETTE: LAGE | LANDSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  horben_gehoert_zu: Horben liegt im Naturpark
+  etablierung_zeitpunkt: seit 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infra
+BEZEICHNUNG: Infrastruktur Straßen
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  hauptzufahrt: Landesstraße L 124 (Schauinslandstraße) von Freiburg-Günterstal
+  verbindung: Kreisstraße K 4955 verbindet Horben auch mit Au
+  durchgangsverkehr: wegen umgebender Berge kein Durchgangsverkehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infra
+BEZEICHNUNG: Öffentliche Verkehrsmittel
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  buslinien: VAG-Buslinie 21
+  buslinie_start: ab Endhaltestelle Straßenbahnlinie 2 in Freiburg-Günterstal über Talstation Schauinslandbahn
+  endhaltestelle: Dorfplatz Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infra
+BEZEICHNUNG: Mitfahrbänke Horben
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: vier
+  installiert_seit: 2019
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2019
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infra
+BEZEICHNUNG: Radverkehr
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  verbindung_schauinsland: von Bohrer oder über Eduardshöhe erreichbar
+  verbindung_au: Radweg durch Katzental nach Au ins Hexental
+  verbindung_freiburg: Radweg entlang L 124 mit Günterstal und Freiburger Radnetz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infra
+BEZEICHNUNG: Grundschule Horben
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Grundschule
+  zweiter_weltkrieg: vier Schulklassen in einem Klassenzimmer unterrichtet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infra
+BEZEICHNUNG: Kindergarten Horben
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: katholischer Kindergarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infra
+BEZEICHNUNG: Gemeindehalle Horben
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Horben | Wikipedia
+EIGENSCHAFTEN:
+  typus: Veranstaltungshalle für Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

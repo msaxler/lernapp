@@ -1,21 +1,21 @@
 {
  "stufe": "extraktion",
  "ort": "392-schallstadt",
- "prompt": "prompt-stufe1-v0.6.txt",
+ "prompt": "prompt-stufe1-v0.7.txt",
  "modell_wunsch": "haiku",
  "modelle": [
   "claude-haiku-4-5-20251001"
  ],
- "eingabe_zeichen": 18191,
- "token_ein": 22265,
- "token_aus": 16121,
+ "eingabe_zeichen": 54377,
+ "token_ein": 36339,
+ "token_aus": 12044,
  "usage": {
   "input_tokens": 9,
-  "cache_creation_input_tokens": 15128,
+  "cache_creation_input_tokens": 29202,
   "cache_read_input_tokens": 7128,
-  "output_tokens": 16121,
+  "output_tokens": 12044,
   "output_tokens_details": {
-   "thinking_tokens": 10742
+   "thinking_tokens": 1505
   },
   "server_tool_use": {
    "web_search_requests": 0,
@@ -23,19 +23,19 @@
   },
   "service_tier": "standard",
   "cache_creation": {
-   "ephemeral_1h_input_tokens": 15128,
+   "ephemeral_1h_input_tokens": 29202,
    "ephemeral_5m_input_tokens": 0
   },
   "inference_geo": "not_available",
   "iterations": [
    {
     "input_tokens": 9,
-    "output_tokens": 16121,
+    "output_tokens": 12044,
     "cache_read_input_tokens": 7128,
-    "cache_creation_input_tokens": 15128,
+    "cache_creation_input_tokens": 29202,
     "cache_creation": {
      "ephemeral_5m_input_tokens": 0,
-     "ephemeral_1h_input_tokens": 15128
+     "ephemeral_1h_input_tokens": 29202
     },
     "type": "message"
    }
@@ -43,8 +43,8 @@
   "speed": "standard",
   "fallback_credit": null
  },
- "kosten_usd": 0.1115828,
- "sekunden": 125,
+ "kosten_usd": 0.1193458,
+ "sekunden": 97,
  "fehler": false,
- "zeit": "2026-10-17T10:47:55"
+ "zeit": "2026-10-20T09:07:03"
 }
