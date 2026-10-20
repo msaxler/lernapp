@@ -1,0 +1,658 @@
+ENTITÄT: ort
+BEZEICHNUNG: Kappel
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 2700
+  genauigkeit: "ca."
+  lage: Osten der Stadt Freiburg, südlich der Dreisam und der Höllentalbahn
+  lage_hoehe_min: 338
+  lage_hoehe_max: 1284
+  einheit_hoehe: m
+  gemarkung_groesse: 1381
+  einheit_gemarkung: Hektar
+  zuordnung_stadt: Freiburg im Breisgau
+  eingemeindung_date: 1974-07-01
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1974
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Kappel
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7718/Kappel | Landesportal
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1272
+  form_bei_erwaehnung: Capelle
+  besiedlung_zeitraum: 10./11. Jahrhundert
+  benannt_nach: Kapelle, wahrscheinlich kleine Kirche im Ortszentrum
+  beschreibung: Wohl im 10./11. Jahrhundert besiedelt, vor 1272 Lehen der Herren von Rötteln, 1272 an Deutschen Orden, seit 14. Jahrhundert Schnewlin Gerichtsherren, ab 15. Jahrhundert Freiburger Wilhelmitenkloster, ab 1725 Abtei St. Blasien, ab 1806 badische Ämter
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1272
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Kappel im Tal
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historischer_name: Kappel im Tal oder Kapplertal
+  status_bis_1974: selbstständige Dorfgemeinde
+  grund_namensgebendes_element: Der Name rührt wahrscheinlich von einer Kapelle, einem Dorfkirchlein oder einer Hofkapelle
+  bedeutung_fuer_ort: Die Kapelle war möglicherweise die einzige Pfarrei im Dreisamtal zwischen Freiburger Münster und Galluskirche Kirchzarten, daher besondere Bedeutung
+  talsystem: Kappler Tal verzweigt sich in Großtal und Kleintal
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1974
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul
+FACETTE: GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  patrozinium: Apostel Petrus und Paulus
+  bauzeit: 1747-1749
+  geweiht: 1749
+  baustil: Barock
+  besonderheit: Die Apostel Petrus und Paulus sind Patronen, die sonst nur besonders bedeutenden Pfarrkirchen vorbehalten sind
+  superlativ: einzige mittelalterliche Pfarrei im gesamten Kirchzartener Becken mit Nebentälern
+  filiale_historisch: Littenweiler (bis 1916)
+  urspruengliche_kapelle_erwaehnung: 1275
+GUELTIG_AB: 1749
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeindewappen Kappel
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  motiv: Kapelle mit Satteldach und Turm, Kirchendach und Turmhelm in Rot, Kirchenwände weiß mit schwarzen Konturen, Fenster und Tür rot
+  erste_bezeugung: 1766
+  ausstellung_gerichtslaube: seit 1980 in der Gerichtslaube im Innenhof des Freiburger Rathauses
+  gestiftung_gerichtslaube: vom Ortschaftsrat Kappel
+  ausstellung_rheinkiesel: seit 1999 als Rheinkieselmotiv vor dem Rathaus Freiburg-Kappel
+  grund_gestiftung_rheinkiesel: 25-jähriges Eingemeindungsjubiläum
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1766
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Freiburg-Kappel
+FACETTE: INFRA | GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schenkung_date: 1966-03-07
+  schenker: Katholische Pfarrpfründe und Mesnerfond Kappel
+  vertrag_unterzeichner_buergermeister: Emil Steiert
+  vertrag_unterzeichner_pfarrer: Klamet
+  alter_friedhof_graeber: 243
+  alter_friedhof_reihen: 36
+  verwaltungsuebernahme: 1970-01-01
+  charakteristika_friedhof: simultan (Beisetzungen ohne Rücksicht auf Konfession), unmittelbar bei Kirche und Pfarrhaus
+  besonderheit: Priestergräber für verstorbene Priester ohne Kaufgebühr
+  erweiterung_jahr: ab Ende 1966
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1966
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: einsegnungshalle
+BEZEICHNUNG: Einsegnungs- und Leichenhalle Kappel
+FACETTE: INFRA | GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  planung_beginn: Ende 1960er Jahre
+  bauzeit: 1973
+  architekt: Klaus Neumann aus Merzhausen
+  finanzierung: Erlöse aus außerordentlichem Holzhieb 1969 und Gemeinderücklagen
+  besonderheit: Flachdach der Leichenhalle dient als Kirchenvorplatz
+  zuschuss_stadt_freiburg: für Neubau der Kirchentreppe
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1973
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kriegerdenkmal
+BEZEICHNUNG: Kriegerdenkmal Kappel
+FACETTE: GESCHICHTE | FREIZEIT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vertrag_date: 1953-01-22
+  bildhauer: August Storr aus Freiburg
+  kosten: 10690
+  einheit_kosten: Mark
+  komponenten: Pieta, Kranz- und Kerzenhalter, zwei Schrifttafeln mit Namen der Gefallenen der Weltkriege
+  weltkrieg_1: 1914-1918
+  weltkrieg_2: 1939-1945
+  grundstueck_schenker: Erzbischöflicher Oberstiftungsrat Freiburg (30. März 1953)
+  grundstueck_groesse: 2
+  grundstueck_einheit: Ar
+  spenden_privat: 549
+  spenden_einheit: DM
+  einweihung_date: 1954-04-17
+  buergermeister_einweihung: Goldschmidt
+  geistlicher_einweihung: Prälat Schinziger
+  gedenkfeier_jährlich: Volkstrauertag
+  spendensammlung_organisation: Volksbund Deutsche Kriegsgräberfürsorge
+  renovierung_year: 2001
+  dach_material_renovierung: Titanblechdach
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Schauinsland
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 1284
+  einheit: m
+  bedeutung_fuer_ort: Südlicher höchster Punkt der Kappler Gemarkung, am Fuße liegt Kappel
+  naturraum: Schwarzwald
+  schutzgebiet: UNESCO-Biosphärengebiet Schwarzwald
+  schutzgebiet_seit: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: tal
+BEZEICHNUNG: Großtal
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Eines der beiden Haupttäler des Kappler Tals, im oberen Teil mehrere Kilometer lang, immer enger und steiler werdend
+  siedlung_historisch: Einzelhöfe im Abststand, bis zur Herderhütte
+  baugebiet_neuzeit: Moosmatten- und Sommerackergebiet (seit 1960er Jahren)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: tal
+BEZEICHNUNG: Kleintal
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Eines der beiden Haupttäler des Kappler Tals, im oberen Teil mehrere Kilometer lang, immer enger und steiler werdend
+  siedlung_historisch: Einzelhöfe im Abststand, Sohlhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: orsteil_siedlung
+BEZEICHNUNG: Molzhofsiedlung
+FACETTE: ALLTAG
+ORTSTEIL_BEZUG: Kappel, Großtal
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Bergarbeitersiedlung
+  entstehung: 1936
+  beschreibung: lockere Einzelhofreihen im Norden des Großtals, jüngere Wohnbebauung
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: orsteil_siedlung
+BEZEICHNUNG: Bahnhofssiedlung
+FACETTE: ALLTAG | GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: um 1950
+  grund: Aufnahme von Flüchtlingen und Vertriebenen
+  lage: am Talausgang
+  beschreibung: wuchs in den 1950er Jahren durch Zuzug von Flüchtlingen und Vertriebenen
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bergwerk
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  betriebsgesellschaft: Stolberger Zink AG
+  betriebszeitraum: Ausgehendes Mittelalter bis 1954
+  rohstoff: Zink und Erze
+  bedeutung_fuer_ort: Bevölkerungszuwachs bis zur Einstellung des Bergbaus 1954, besonders vor der Jahrhundertwende
+  hinterlassenschaften: 2,4 Hektar mit Schwermetallen verseuchtes Areal (Erzwäscherei)
+  sanierungskosten_geschaetzt: 6-6.5
+  einheit_sanierungskosten: Millionen Euro
+  sanierung_status: Anfang 2017 gescheitert
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1954
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: erzwaesche
+DESIGNNUNG: Erzwäscherei Kappel
+FACETTE: WIRTSCHAFT | GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: Bergbauzeit, neuer Ortsteil am Talausgang ostwärts
+  location_strasse: Neuhäuserstraße
+  hinterlassenschaft: verseuchtes Areal mit Betriebsgebäuden
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1954
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schauinslandschule
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Grundschule
+  beschreibung: Grundschule mit Förderverein
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: Waldkindergarten Fuchsbau
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Waldkindergarten
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: Katholischer Kindergarten St. Barbara
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Katholischer Kindergarten
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Sportverein Kappel e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206744.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzende: Petra Gelfort
+  website: www.svkappel.de
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: Musikverein Kappel e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206744.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzender: Markus Riegger
+  website: www.mvkappel.de
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gesangverein
+BEZEICHNUNG: Männergesangverein Liederkranz
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206744.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzender: Torsten Albrecht
+  website: www.mgv-kappel.de
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wandergruppe
+BEZEICHNUNG: Wandergruppe Schauinsland Freiburg-Kappel e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206744.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzender: Manfred Barhofer
+  website: www.wandergruppe-schauinsland.de
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: narrenzunft
+BEZEICHNUNG: Narrenzunft Kappel e.V. "Schauinsländer Berggeister"
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206744.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  website: www.schauinslaender-berggeister.de
+  ortsname_in_zweck: Bezug zum Berg Schauinsland und "Berggeister"
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Dreisamtal-Radwanderweg
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  code: FR 1
+  beschreibung: Führt von Kappel nach Kirchzarten
+  verlauf_weitere: über Stühlinger und Haslach nach Lehen und Umkirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: FR 8 Radweg
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Verbindet Kappel mit dem Freiburger Radnetz entlang der Höllentalbahn über Littenweiler, Waldsee und die Wiehre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Südschwarzwaldradweg
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 269
+  einheit_laenge: km
+  beschreibung: Rundweg als Südschwarzwaldradweg, im Dreisamtalabschnitt identisch mit Dreisamradweg, führt von Hinterzarten über Waldshut-Tiengen und Basel nach Freiburg
+  verlauf_kappel: von Kappel nach Kirchzarten und Oberried
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Dreisamtalradweg
+FACETTE: FREIZEIT | INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: von Kappel nach Kirchzarten und Oberried
+  bemerkung: identisch mit Südschwarzwaldradweg in diesem Abschnitt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: tunnel
+BEZEICHNUNG: Kappler Tunnel
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  oeffnung: 2002
+  teil_von: B 31
+  benannt_nach_ort: Stadtteil Kappel
+  beschreibung: Teilstück der Bundesstraße 31
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2002
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: haltestelle_bahn
+BEZEICHNUNG: Haltepunkt Kappel
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau) | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Höllentalbahn
+  lage: nördlicher Rand der Kappler Gemarkung
+  stilllegung_decade: 1980er Jahre
+  aktion_nach_stilllegung: Bahnsteige entfernt
+  zukuenftige_wiedererrichtung: Diskussion im Zuge des Ausbaus der Breisgau S-Bahn
+  naechster_bahnhof: Freiburg-Littenweiler
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1989
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Kappel
+FACETTE: INFRA | POLITIK
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Großtalstraße 45, 79117 Freiburg
+  bedeutung_fuer_ort: Rathaus blieb nach Eingemeindung erhalten
+GUELTIG_AB: vor 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsvorsteher
+BEZEICHNUNG: Christoph Brender
+FACETTE: POLITIK
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206728.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Ortsvorsteher
+  sprechzeiten: Mittwochs 18-19 Uhr, nur mit Terminvereinbarung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: buecherei
+BEZEICHNUNG: Öffentliche Bücherei Kappel
+FACETTE: INFRA | KULTUR
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206744.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand: Literatur für Erwachsene, Kinderbücher und Hörbücher
+  oeffnungszeiten: Donnerstag 15-17:30 Uhr (außer Schulferien)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Reichenbach
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Talbach, fließt durch Kappler Tal
+  schwermetallbelastung: erhöhte Gehalte an Blei und Cadmium durch historischen Erzbergbau
+  belastungsgebiet_jahr: 2007 ca. 110 ha, 2016 ca. 1.060 ha erweitert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Kyburg
+FACETTE: LAGE | GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7718/Kappel | Landesportal
+EIGENSCHAFTEN:
+  lage: auf der Gemarkungsgrenze (zu Günterstal)
+  hoehe: 820
+  einheit_hoehe: m
+  bemerkung: Nähe Schlackerhütte, eine der historischen Grenzen Kappels
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Neufalkenstein
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7718/Kappel | Landesportal
+EIGENSCHAFTEN:
+  lage_vermutlich: vor dem Ausgang des Tals gegen Neuhäuser
+  besitzer_vor_1272: Herren von Rötteln (Lehen)
+  bedeutung: Kirchensatz der Peter-Pauls-Kirche kam 1272 von Neufalkenstein an das Deutschordenshaus Freiburg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: schwermetallbelastung
+FACETTE: ALLTAG | INFRASTRUKTUR
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/232781.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursache: Historischer Erzbergbau im Schwarzwald
+  schadstoffe: Schwermetalle und Arsen, insbesondere Blei, Cadmium und Zink
+  belastetes_gebiet_2007: ca. 110 ha im Kappler Tal
+  belastetes_gebiet_2016: ca. 1.060 ha (Kappler Tal und Überschwemmungsbereiche von Dreisam, Brugga und Möhlin)
+  ausbreitungsweg: natürliche Prozesse über Flüsse und Überschwemmungsbereiche
+  empfehlungen_privatanbau: Bodenuntersuchung, pH-Wert 6,5-7, bei erhöhter Belastung Bodenaustausch
+  fischkonsum: In Dreisam und Kappler Talbach keine weiteren Maßnahmen nötig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ueberschwemmungsgebiet
+FACETTE: INFRASTRUKTUR | LAGE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/232781.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gewaesser: Dreisam, Brugga, Möhlin
+  belastete_flaeche: ca. 1.060 ha (ab 2016 Detailuntersuchung)
+  schadstofftypen: Blei, Cadmium, Arsen
+  ursprung_belastung: Historischer Erzbergbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: forstrevier
+BEZEICHNUNG: Staatliches Forstrevier Kappel
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206744.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  foerster: Otmar Winterhalder
+  organisation: Forst Baden-Württemberg, Forstbezirk Hochschwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: forstrevier
+BEZEICHNUNG: Städtisches Forstrevier Kappel
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206744.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  foerster: Björn Rheinbay
+  trägerin: Stadt Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: biosphaerengebiet
+BEZEICHNUNG: UNESCO-Biosphärengebiet Schwarzwald
+FACETTE: LAGE | LANDSCHAFT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/1499826.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausdehnung_landkreise: Lörrach, Breisgau-Hochschwarzwald, Waldshut
+  kappel_status: vollständige Gemarkung Freiburg-Kappel liegt darin
+  etablierung: seit 2002
+  besonderheit: Immense Höhenunterschiede auf engstem Raum (310-1420 m)
+  ziel: Modellregion für ausgewogenes Verhältnis von menschlicher Nutzung und natürlichen Kreisläufen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2002
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortschronik
+BEZEICHNUNG: Ortschronik Kappel
+FACETTE: GESCHICHTE
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206748.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Ortschronik - Kappel im Tal
+  veroeffentlichung: 1993
+  umfang: über 360 Seiten mit 180 Bildern
+  autoren: 14 Autorinnen und Autoren, meist Kappler Bürger
+  redaktion: Prof. Dr. Wolfgang Hug und Ulrike Rödling
+  herausgeber: Stadt Freiburg im Breisgau, Ortsverwaltung Kappel
+  inhalte: Geschichte des Dorfes, Arbeits- und Lebensbedingungen, Kirche, Schule, Vereine
+  verfuegbarkeit: 1. Auflage vergriffen, Neuauflage projektiert
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1993
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: einsiedlung
+BEZEICHNUNG: Stollenhütte Kappel e.V.
+FACETTE: FREIZEIT
+ORTSTEIL_BEZUG: Kappel
+QUELLE: https://www.freiburg.de/pb/206744.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzender: Peter Schweizer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

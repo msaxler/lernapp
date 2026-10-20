@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "440-waldsee",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 24697,
+ "token_ein": 1010233,
+ "token_aus": 17515,
+ "usage": {
+  "input_tokens": 38,
+  "cache_creation_input_tokens": 63274,
+  "cache_read_input_tokens": 946921,
+  "output_tokens": 17515,
+  "output_tokens_details": {
+   "thinking_tokens": 7665
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 63274,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 6519,
+    "cache_read_input_tokens": 67964,
+    "cache_creation_input_tokens": 2212,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 2212
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.7839071999999994,
+ "sekunden": 265,
+ "fehler": false,
+ "zeit": "2026-10-20T10:40:26"
+}

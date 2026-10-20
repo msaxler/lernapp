@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2-portraet",
+ "ort": "441-hoellental",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 17186,
+ "token_ein": 296689,
+ "token_aus": 10624,
+ "usage": {
+  "input_tokens": 16,
+  "cache_creation_input_tokens": 39162,
+  "cache_read_input_tokens": 257511,
+  "output_tokens": 10624,
+  "output_tokens_details": {
+   "thinking_tokens": 5014
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 39162,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 5260,
+    "cache_read_input_tokens": 45608,
+    "cache_creation_input_tokens": 456,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 456
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.9354782000000001,
+ "sekunden": 135,
+ "fehler": false,
+ "zeit": "2026-10-20T10:40:20"
+}

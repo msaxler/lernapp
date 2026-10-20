@@ -1,2 +1,51 @@
 Orte: 439-wiehre 440-waldsee 441-hoellental 442-kappel 443-titisee
 == OSM-Zeugen 09:55:21
+439-wiehre               Gemeindegrenze 289 Objekte, 49 Zeugen im Block
+  Overpass: HTTP Error 502: Bad Gateway - warte
+  Overpass: HTTP Error 502: Bad Gateway - warte
+440-waldsee              Gemeindegrenze  72 Objekte, 30 Zeugen im Block
+  Overpass: HTTP Error 502: Bad Gateway - warte
+  Overpass: HTTP Error 502: Bad Gateway - warte
+  Overpass: HTTP Error 502: Bad Gateway - warte
+  Overpass: HTTP Error 504: Gateway Timeout - warte
+441-hoellental           nichts           0 Objekte,  0 Zeugen im Block
+442-kappel               Gemeindegrenze  45 Objekte, 18 Zeugen im Block
+443-titisee              Gemeindegrenze  94 Objekte, 23 Zeugen im Block
+== Gemeinde-Webseiten 10:09:15
+439-wiehre           20 Gemeinde-Seiten, 1 Portal,  94005 Zeichen,  40 s 
+440-waldsee          20 Gemeinde-Seiten, 1 Portal,  91998 Zeichen,  38 s 
+442-kappel           20 Gemeinde-Seiten, 1 Portal,  89915 Zeichen,  38 s 
+441-hoellental       16 Gemeinde-Seiten, 0 Portal,  35170 Zeichen,  19 s 
+443-titisee          20 Gemeinde-Seiten, 0 Portal,  77622 Zeichen,  46 s 
+== Extraktion v0.7 (Haiku) 10:12:16
+439-wiehre           extraktion ein  63195  aus   8692   0.16 USD    74 s  claude-haiku-4-5-20251001
+440-waldsee          extraktion ein  59129  aus  16974   0.19 USD   136 s  claude-haiku-4-5-20251001
+442-kappel           extraktion ein  54263  aus  11827   0.15 USD    97 s  claude-haiku-4-5-20251001
+441-hoellental       extraktion ein  35331  aus   9024   0.10 USD    77 s  claude-haiku-4-5-20251001
+443-titisee          extraktion ein  50291  aus  21886   0.20 USD   181 s  claude-haiku-4-5-20251001
+zusammen: 19534 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+== Eingabe v0.9 10:16:55
+439-wiehre         24933 Zeichen
+440-waldsee        28448 Zeichen
+442-kappel         31177 Zeichen
+441-hoellental     22779 Zeichen
+443-titisee        37551 Zeichen
+== Karten v0.9 (claude-opus-5-5) 10:16:55
+439-wiehre           karten     ein  44246  aus  43404   1.17 USD   375 s  claude-opus-5-5
+440-waldsee          karten     ein  46239  aus  47354   1.26 USD   403 s  claude-opus-5-5
+442-kappel           karten     ein  45216  aus  47580   1.26 USD   405 s  claude-opus-5-5
+441-hoellental       karten     ein  42447  aus  57397   1.43 USD   529 s  claude-opus-5-5
+443-titisee          karten     ein  51377  aus  45271   1.26 USD   422 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 10:32:00
+439-wiehre           pruefung   ein  96045  aus  10704   0.93 USD    93 s  claude-opus-5-5
+440-waldsee          pruefung   ein  97469  aus   8999   0.91 USD    91 s  claude-opus-5-5
+442-kappel           pruefung   ein  97200  aus  13278   0.99 USD   121 s  claude-opus-5-5
+441-hoellental       pruefung   ein  64422  aus  16390   0.79 USD   150 s  claude-opus-5-5
+443-titisee          pruefung   ein  93404  aus  11306   0.92 USD   103 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 10:36:01
+439-wiehre           stufe2     ein 306406  aus  15223   1.24 USD   162 s  claude-opus-5-5,claude-haiku-4-5-20251001
+440-waldsee          stufe2     ein 1010233  aus  17515   1.78 USD   265 s  claude-opus-5-5,claude-haiku-4-5-20251001
+442-kappel           stufe2     ein 287384  aus   9132   0.94 USD   124 s  claude-opus-5-5,claude-haiku-4-5-20251001
+441-hoellental       stufe2     ein 296689  aus  10624   0.94 USD   135 s  claude-opus-5-5,claude-haiku-4-5-20251001
+443-titisee          stufe2     ein 326498  aus  10147   0.95 USD   125 s  claude-opus-5-5,claude-haiku-4-5-20251001
+Fertig 10:40:48

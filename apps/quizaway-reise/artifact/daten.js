@@ -4975,6 +4975,460 @@ window.QA_DATEN = {
 "name": "Freiburg–Neuwied und Umgebung (Bahn und Auto)",
 "orte": [
 {
+"slug": "439-wiehre",
+"name": "Wiehre",
+"lat": 47.98489,
+"lon": 7.85194,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Freibad mit eigenem Damenbad",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wiehre",
+"steckbrief": "Freiburger Stadtteil mit knapp 25.000 Einwohnern, 1 km südlich der Stadtmitte.",
+"frage": "Was ist das Besondere am Lorettobad in der Wiehre?",
+"optionen": [
+"Es wird mit Thermalwasser beheizt.",
+"Zu ihm gehört ein eigenes Damenbad.",
+"Es ist ein überdachtes Hallenbad.",
+"Es liegt auf dem Gipfel des Lorettobergs."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Hallenbad läge bei einem so großen Stadtteil nahe, doch das Lorettobad ist ein Freischwimmbad. Seine Besonderheit ist das Damenbad, ein Bad nur für Frauen. Getrennte Frauenbäder kennt man vor allem aus früheren Zeiten; in der Wiehre gibt es eines bis heute, am Fuß des Lorettobergs. Richtig war 2.",
+"quelle": "Stuttgarter Zeitung; evangelisch.de (14.07.2025)“",
+"faktencheck": "korrigiert",
+"id": "439-wiehre/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Revolutionärs-Hinrichtung auf heutigem Spielplatz",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wiehre",
+"steckbrief": "Freiburger Stadtteil mit knapp 25.000 Einwohnern, 1 km südlich der Stadtmitte.",
+"frage": "Am Ort des alten Wiehre-Friedhofs ist heute ein Spielplatz. Was geschah dort am 31. Juli 1849?",
+"optionen": [
+"Ein Dreisamhochwasser riss die Gräber fort.",
+"Ein Großbrand zerstörte die Friedhofskapelle.",
+"Ein preußisches Kommando erschoss dort Revolutionäre.",
+"Der Großherzog weihte eine Grabkapelle ein."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Friedhof denkt man eher an Unglück als an Gewalt. Doch dort erschoss ein preußisches Kommando drei Teilnehmer der Badischen Revolution: Johann Maximilian Dortu aus Potsdam, Friedrich Neff und Gebhard Kromer. Dortus Grabmal steht noch; wer am Spielplatz vorbeikommt, passiert einen Erinnerungsort der Revolution. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wiehre",
+"faktencheck": "unsicher",
+"id": "439-wiehre/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Arbeitersiedlung eines Knopffabrikanten",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wiehre",
+"steckbrief": "Freiburger Stadtteil mit knapp 25.000 Einwohnern, 1 km südlich der Stadtmitte.",
+"frage": "Was verbirgt sich hinter dem Namen Knopfhäusle in der Wiehre?",
+"optionen": [
+"Ein Wirtshaus, in dem Schneider tagten.",
+"Ein Zollhäuschen am alten Stadtweg.",
+"Eine Kapelle, gestiftet von Knopfmachern.",
+"Eine Arbeitersiedlung, gebaut von einem Fabrikanten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an Schneider oder Knopfmacher denken, und ganz falsch ist das nicht: Das Knopfhäusle entstand im 19. Jahrhundert als Siedlung für die Arbeiter der Knopffabrik von Jeremias Risler. Es zählt zu den ältesten Arbeitersiedlungen Südbadens und erinnert daran, dass in der Wiehre auch Fabrikarbeiter wohnten. Richtig war 4.",
+"quelle": "Freiburger Stadtbau",
+"faktencheck": "korrigiert",
+"id": "439-wiehre/v0.9/3",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Name von den Dreisamwehren",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wiehre",
+"steckbrief": "Freiburger Stadtteil mit knapp 25.000 Einwohnern, 1 km südlich der Stadtmitte.",
+"frage": "Woher hat der Freiburger Stadtteil Wiehre seinen Namen?",
+"optionen": [
+"Von einem alten Wort für Damm.",
+"Von Wiesen, auf denen Vieh weidete.",
+"Von einem alten Wort für Weiher.",
+"Vom Namen eines adligen Dorfgründers."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wiese oder Weiher klingen ähnlich und passen zu einem Dorf vor der Stadt. Der Name kommt aber von Wuhr, einem alten Wort für Damm. Das Dorf Wiehre lag längs der Dreisam, an der Mühlen und Gewerbebetriebe standen; wer heute die Dreisam überquert, steht an dem Fluss, an dem das Dorf einst lag. Richtig war 1.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7749/Wiehre; OpenStreetMap",
+"faktencheck": "korrigiert",
+"id": "439-wiehre/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Früh eingemeindetes Doppeldorf mit Kloster",
+"rang": 9,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wiehre",
+"steckbrief": "Freiburger Stadtteil mit knapp 25.000 Einwohnern, 1 km südlich der Stadtmitte.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Wiehre wurde erst im Wirtschaftswunder eingemeindet.",
+"Noch im 17. Jahrhundert waren Adelhausen und Wiehre getrennte Gemeinden.",
+"Ein Nonnenkloster der Wiehre pflegte bedeutende Kirchenmusik."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Musikkloster klingt am ehesten erfunden. Doch das Kloster Adelhausen war im Mittelalter ein Mittelpunkt der Mystik und der liturgischen Musikpflege am Oberrhein. Gelogen ist die späte Eingemeindung: Seit 1826 gehört die Wiehre zu Freiburg; Adelhausen und Wiehre waren da schon zu einer Gemeinde vereinigt. Die Lüge war 1.",
+"quelle": "Landesportal, www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7749/Wiehre; Eingemeindung: dewiki Infobox",
+"faktencheck": "korrigiert",
+"id": "439-wiehre/v0.9/6",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Mittelstadt-Größe als Stadtteil",
+"rang": 10,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wiehre",
+"steckbrief": "Freiburger Stadtteil, 1 km südlich der Stadtmitte, knapp 6 km² groß.",
+"frage": "Wie viele Menschen leben in der Wiehre?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 10.000",
+"10.000 bis unter 20.000",
+"20.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil von knapp sechs Quadratkilometern klingt nach einem großen Dorf. Doch in der Wiehre leben 24.702 Menschen, gut 4.100 je Quadratkilometer. So viele Einwohner hat sonst eine Mittelstadt; hier wohnen sie auf engem Raum. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2024; Fläche: dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "439-wiehre/v0.9/7",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Wasserspeicher als Schlösschen getarnt",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wiehre",
+"steckbrief": "Freiburger Stadtteil mit knapp 25.000 Einwohnern, 1 km südlich der Stadtmitte.",
+"frage": "Am Bromberg oberhalb der Wiehre steht das Wasserschlössle. Was ist es eigentlich?",
+"optionen": [
+"Ein Turm der früheren Stadtbefestigung.",
+"Ein ehemaliges Jagdschlösschen des Adels.",
+"Ein als Schlösschen getarnter Wasserspeicher.",
+"Ein alter Weinkeller mit Gewölbe."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Schlösschen über der Stadt lässt an Festung oder Adel denken. Tatsächlich ist es ein Wasserhochbehälter von 1895/96, der hinter einer Schlossfassade versteckt ist. Der Ort passt: Schon früher leitete man Bergwasser vom Fuß des Bromberg zu den Brunnen der Stadt. Richtig war 3.",
+"quelle": "Universität Heidelberg (Untermann 1995); wiehre-online.de",
+"faktencheck": "korrigiert",
+"id": "439-wiehre/v0.9/8",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Kino im alten Bahnhof",
+"rang": 8,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Wiehre",
+"steckbrief": "Freiburger Stadtteil mit knapp 25.000 Einwohnern, 1 km südlich der Stadtmitte.",
+"frage": "Welches dieser vier Dinge gibt es in der Wiehre?",
+"optionen": [
+"ein Kino im früheren Bahnhofsgebäude",
+"ein Planetarium in einem Hochbunker",
+"eine Eislaufhalle in einer alten Brauerei",
+"ein Wachsfigurenkabinett in einer Mühle"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Planetarium oder Eishalle wären für einen so großen Stadtteil denkbar. Doch das Besondere ist der alte Wiehrebahnhof: Bis 1934 hielt hier die Höllentalbahn, dann wurde die Strecke verlegt und das Empfangsgebäude stand lange leer. Seit 1981 zeigt dort das Kommunale Kino Filme; es wurde für seine Arbeit ausgezeichnet. Richtig war 1.",
+"quelle": "filmportal.de; Stadt Freiburg",
+"faktencheck": "korrigiert",
+"id": "439-wiehre/v0.9/9",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Leprafriedhof unter der Unterwiehre",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wiehre",
+"steckbrief": "Freiburger Stadtteil mit knapp 25.000 Einwohnern, 1 km südlich der Stadtmitte.",
+"frage": "Bei Bauarbeiten an der Kronenstraße in der Unterwiehre fand man 2020 und 2021 Hunderte Skelette. Worauf deuten die Funde?",
+"optionen": [
+"Auf ein römisches Gräberfeld an einer Straße.",
+"Auf ein Soldatenlazarett der Napoleonischen Kriege.",
+"Auf ein alemannisches Gräberfeld des Frühmittelalters.",
+"Auf den Friedhof eines früheren Leprahauses."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei so vielen Skeletten denkt man an Krieg oder ein uraltes Gräberfeld. Die Funde stammen aber vom Friedhof des Gutleuthauses, eines Leprosoriums, das 1251 erstmals erwähnt wird. Laut Landesdenkmalpflege gehört er zu den am besten untersuchten Leprafriedhöfen im Land. Die Kranken lebten damals außerhalb der Stadtmauern, wo heute die Unterwiehre liegt. Richtig war 4.",
+"quelle": "Regierungspräsidium Stuttgart, Landesamt für Denkmalpflege",
+"faktencheck": "korrigiert",
+"id": "439-wiehre/v0.9/10",
+"tisch": false
+}
+],
+"anschluss_von": null,
+"anschluss": [],
+"anschluesse": {},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 1 km südlich der Mitte an der Dreisam, knapp 25.000 Einwohner auf knapp 6 km², Lorettoberg 385 m."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Name von den Dreisamwehren; einst die Gemeinden Adelhausen und Wiehre mit zwei Frauenklöstern, seit 1826 Teil Freiburgs."
+},
+{
+"facette": "ALLTAG",
+"text": "Knopfhäusle-Arbeitersiedlung, Brauerei Ganter auf einer alten Ölmühle, Reben des Staatsweinguts am Schlierberg, Weingut Andreas Dilger."
+},
+{
+"facette": "FREIZEIT",
+"text": "Lorettobad mit Damenbad, Hildaturm, Kommunales Kino, Minidampfbahn, Zähringer-Wanderweg und Südschwarzwald-Radweg."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Freiburg-Wiehre an der Höllentalbahn, Loretto-Krankenhaus, Max-Planck-Institut zur Erforschung von Kriminalität, Sicherheit und Recht."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025 in ganz Freiburg: Grüne vorn mit 30,2 Prozent, Wahlbeteiligung 85,7 Prozent."
+}
+]
+},
+{
+"slug": "440-waldsee",
+"name": "Waldsee",
+"lat": 47.98639,
+"lon": 7.88444,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Namensgeber war ein Eisweiher",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldsee",
+"steckbrief": "Freiburger Stadtteil mit knapp 6.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Der Stadtteil trägt den Namen eines Sees. Was war dieser Waldsee ursprünglich?",
+"optionen": [
+"Ein Weiher, aus dem man Eis gewann.",
+"Ein Fischteich der Kartäusermönche.",
+"Ein Löschteich für die Feuerwehr.",
+"Ein gefluteter Kiesabbau an der Dreisam."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Fischteich der Mönche liegt nahe, denn die Kartaus steht im Stadtteil, und Kartäuser aßen kein Fleisch. Doch das Kloster war längst aufgehoben, als die Stadt ab 1877 hier Eisweiher für eine Brauerei anlegte; 1881 kam ein größerer dritter Weiher hinzu, und alle wuchsen zum Waldsee zusammen. Solche Weiher lieferten im Winter Eis zum Kühlen. Heute ist der See ein Naherholungsgebiet und gibt dem ganzen Stadtteil mit knapp 6.000 Einwohnern den Namen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "440-waldsee/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Sportmeile an der Dreisam",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldsee",
+"steckbrief": "Freiburger Stadtteil mit knapp 6.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Das Dreisamstadion des SC Freiburg liegt in Waldsee an der Dreisam. Was schließt westlich direkt daran an?",
+"optionen": [
+"Dort liegt das Strandbad des Stadtteils.",
+"Dort liegen Sportanlagen von Universität und Vereinen.",
+"Dort liegt das Möslestadion des Stadtteils.",
+"Dort liegt der Campingplatz des Stadtteils."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Strandbad liegt nahe, denn es befindet sich ebenfalls an der Dreisam, allerdings östlich der Sportanlagen. Westlich ans Stadion schließen die Sportanlagen der Universität und der Freiburger Turnerschaft von 1844 an, des größten Sportvereins der Stadt (diesen Teilsatz nur mit Beleg verwenden, sonst streichen). Entlang der Dreisam reiht sich so Sportstätte an Sportstätte, viel für einen Stadtteil mit knapp 6.000 Einwohnern. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "440-waldsee/v0.9/2",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Pilzzucht im alten Bunker",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldsee",
+"steckbrief": "Freiburger Stadtteil mit knapp 6.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Der Hirzbergbunker entstand im Zweiten Weltkrieg als Kommandostelle des Luftschutzes. Was geschieht heute darin? 1. Ein Winzer lagert dort Wein in Fässern. 2. Er dient wieder als öffentlicher Schutzraum. 3. Eine Käserei lässt dort Käse reifen. 4. Ein Pächter züchtet dort Pilze.",
+"optionen": [
+"Ein Winzer lagert dort Wein in Fässern.",
+"Eine Band nutzt ihn als Proberaum.",
+"Eine Käserei lässt dort Käse reifen.",
+"Ein Pächter züchtet dort Pilze."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Käse oder Wein liegen nahe, denn ein Bunker hält Feuchtigkeit und Temperatur gleichmäßig. Genau das nutzt seit den 1990er-Jahren eine Pilzzucht: Der Pächter hat den Bunker vom Bund gepachtet und zieht dort verschiedene Pilzsorten. Unterhalb des Johannisheims liefert so eine ehemalige Kommandostelle des Luftschutzes heute Pilze. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "440-waldsee/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kartäuserkloster wird zum College",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldsee",
+"steckbrief": "Freiburger Stadtteil mit knapp 6.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Die Kartaus war einst ein Kartäuserkloster; erhalten ist ein barocker Prälatenbau. Was ist heute darin untergebracht?",
+"optionen": [
+"Ein College hat dort seinen Sitz.",
+"Ein Tagungshotel empfängt dort seine Gäste.",
+"Ein Museum zeigt dort Klosterkunst.",
+"Das Stadtarchiv lagert dort seine Akten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Museum liegt nahe, denn aus alten Klöstern werden oft Ausstellungshäuser. In die Kartaus aber zog 2014 das UWC Robert Bosch College; so wurde der barocke Bau wiederbelebt. Auch der Heimatschriftsteller Heinrich Hansjakob zog sich einst zum Schreiben hierher zurück. Die Kartaus gilt als markantestes historisches Gebäude von Waldsee: ein Klosterbau, in dem heute gelernt wird. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "440-waldsee/v0.9/5",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "Fast neun von zehn wählen",
+"rang": 8,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Waldsee",
+"steckbrief": "Freiburger Stadtteil mit knapp 6.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Bei der Bundestagswahl 2025 gingen in Baden-Württemberg 83,4 Prozent zur Wahl. Wie lag die Wahlbeteiligung in Waldsee im Vergleich?",
+"optionen": [
+"Unter dem Landeswert",
+"Gleich oder bis unter 3 Punkte darüber",
+"3 bis unter 6 Punkte darüber",
+"6 Punkte oder mehr darüber"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Knapp über dem Landeswert liegt nahe, denn 83,4 Prozent im Land sind schon viel. In Waldsee gingen aber 88,7 Prozent zur Wahl, 5,3 Punkte mehr als im Land. Stärkste Kraft wurden die Grünen mit 38,6 Prozent. In einem Stadtteil mit knapp 6.000 Einwohnern gingen damit fast neun von zehn Wahlberechtigten wählen. Richtig war 3.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23; Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes",
+"faktencheck": "bestätigt",
+"id": "440-waldsee/v0.9/7",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Freiburgs größtes Freibad, einst umstritten",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldsee",
+"steckbrief": "Freiburger Stadtteil mit knapp 6.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Beim Bau des Strandbads an der Dreisam gab es Proteste von katholischer Seite. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Das Bad war nur für Männer gedacht.",
+"Frauen und Männer badeten dort nicht getrennt.",
+"Die Badeordnung trennte Frauen und Männer streng.",
+"Das Bad war nur für Frauen gedacht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Bad nur für Männer liegt nahe, denn damals badeten Frauen und Männer oft getrennt. Genau das sollte hier anders sein: Das Strandbad war als Familienbad geplant, und der Freiburger Erzbischof wollte, dass die Geschlechter getrennt baden. Eröffnet wurde es 1934. Heute ist es Freiburgs größtes Freibad, und das in einem Stadtteil mit knapp 6.000 Einwohnern. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "440-waldsee/v0.9/8",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Waldkapelle mit Augenquelle",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waldsee",
+"steckbrief": "Freiburger Stadtteil mit knapp 6.000 Einwohnern, 3 km südöstlich der Stadtmitte.",
+"frage": "Im Wald auf der Nordseite von Waldsee liegt St. Ottilien, ein Ausflugslokal mit kleiner Kirche und Quelle. Wofür soll das Wasser gut sein?",
+"optionen": [
+"Es soll gegen Fieber helfen.",
+"Es soll Hautleiden lindern.",
+"Es soll Magenbeschwerden heilen.",
+"Es soll die Augen heilen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Hautleiden liegen nahe, denn bei Heilquellen denkt man oft an Bäder. Die kleine Kirche neben dem Lokal ist aber mit der Legende der heiligen Odilia aus dem Elsass verbunden, die als Patronin der Augen gilt; dem Quellwasser wird Heilkraft für die Augen nachgesagt. In der Kirche sind mittelalterliche Malereien erhalten. Für Waldsee ist St. Ottilien ein beliebtes Spazierziel im Wald. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Waldsee_(Freiburg_im_Breisgau)",
+"faktencheck": "korrigiert",
+"id": "440-waldsee/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "439-wiehre",
+"anschluss": [
+"Waldsee grenzt im Westen an die Wiehre und an Oberau.",
+"Die Wiehre hat gut viermal so viele Einwohner wie Waldsee."
+],
+"anschluesse": {
+"439-wiehre": [
+"Waldsee grenzt im Westen an die Wiehre und an Oberau.",
+"Die Wiehre hat gut viermal so viele Einwohner wie Waldsee."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Freiburger Stadtteil 3 km südöstlich der Mitte, an der Dreisam, 300 bis 310 Meter hoch, 4,8 Quadratkilometer groß."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Benannt nach dem Waldsee; markantester Altbau ist die Kartaus, bis 1783 ein Kartäuserkloster. Katholische Dreifaltigkeitskirche von 1953."
+},
+{
+"facette": "ALLTAG",
+"text": "Knapp 6.000 Einwohner; drei Wohn- und Pflegeeinrichtungen der Heiliggeistspitalstiftung, Pilzzucht im Hirzbergbunker."
+},
+{
+"facette": "FREIZEIT",
+"text": "Dreisamstadion, Möslestadion, Unistadion, Strandbad, Jugendherberge, Waldsee, Roßkopfturm, Planetenweg, Himmelreich-Jakobusweg und Südschwarzwald-Radweg."
+},
+{
+"facette": "INFRA",
+"text": "Stadtbahnlinie 1 mit vier Haltestellen, Höllentalbahn im Süden, B 31-Ost ohne Zufahrt, UWC Robert Bosch College."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: Grüne 38,6 Prozent vor CDU 17,6 Prozent, Wahlbeteiligung 88,7 Prozent, im Land 83,4 Prozent."
+}
+],
+"km_vom_vorigen": 2.4
+},
+{
 "slug": "387-ebnet",
 "name": "Ebnet",
 "lat": 47.98639,
@@ -5141,7 +5595,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": null,
+"anschluss_von": "440-waldsee",
 "anschluss": [],
 "anschluesse": {
 "388-littenweiler": [
@@ -5255,7 +5709,8 @@ window.QA_DATEN = {
 "facette": "POLITIK",
 "text": "Bundestagswahl 2025: Grüne 35,3 Prozent vor CDU 23,6 Prozent, Wahlbeteiligung 89,9 Prozent."
 }
-]
+],
+"km_vom_vorigen": 1.5
 },
 {
 "slug": "388-littenweiler",
@@ -5596,6 +6051,260 @@ window.QA_DATEN = {
 "km_vom_vorigen": 1.0
 },
 {
+"slug": "442-kappel",
+"name": "Kappel",
+"lat": 47.96806,
+"lon": 7.90917,
+"karten": [
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kapelle als mögliche Pfarrei des Tals",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kappel",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit knapp 2.800 Einwohnern, 5 km südöstlich der Stadtmitte.",
+"frage": "Kappel ist wohl nach einer Kapelle benannt. Was war sie laut Ortsgeschichte im Dreisamtal zwischen Freiburger Münster und Kirchzarten?",
+"optionen": [
+"Sie war möglicherweise die einzige Pfarrei dazwischen.",
+"Sie war nur Filiale einer größeren Nachbarpfarrei.",
+"Sie war eine Wegkapelle für Fuhrleute am Berg.",
+"Sie war die Kapelle einer Zollstation."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Kapelle denkt man an ein Kirchlein am Weg, und der Name Kappel rührt wahrscheinlich daher. Die Ortsgeschichte sieht mehr darin: Sie war möglicherweise die einzige Pfarrei im Dreisamtal zwischen Freiburger Münster und der Galluskirche in Kirchzarten. So trägt ein Stadtteil mit knapp 2.800 Einwohnern eine Kapelle im Namen, die einst über das Dorf hinaus Bedeutung hatte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/206748.html",
+"faktencheck": "unsicher",
+"id": "442-kappel/v0.9/1",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Fasnet mit Schauinsländer Berggeistern",
+"rang": 7,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kappel",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit knapp 2.800 Einwohnern, 5 km südöstlich der Stadtmitte.",
+"frage": "Kappel hat eine eigene Narrenzunft. Welchen Beinamen trägt sie?",
+"optionen": [
+"Sie nennt sich „Kappler Talhexen“.",
+"Sie nennt sich „Schauinsländer Berggeister“.",
+"Sie nennt sich „Dreisamtäler Flößer“.",
+"Sie nennt sich „Kappler Kapellenteufel“."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hexen sind in der südbadischen Fasnet weit verbreitet, darum liegen Talhexen nahe. Die Narrenzunft Kappel nennt sich aber „Schauinsländer Berggeister“: ein Bezug zum Berg Schauinsland und zu Berggeistern. Ein Stadtteil mit knapp 2.800 Einwohnern holt sich seinen Narrennamen also nicht von Freiburg, sondern vom Berg. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/206744.html",
+"faktencheck": "bestätigt",
+"id": "442-kappel/v0.9/2",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Schauinsland-Gipfel in Kappels Gemarkung",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kappel",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit knapp 2.800 Einwohnern, 5 km südöstlich der Stadtmitte.",
+"frage": "Kappels Ortskern liegt im Tal, die Gemarkung reicht weit hinauf. Wo liegt ihr höchster Punkt?",
+"optionen": [
+"Er liegt am Eichkopf.",
+"Er liegt am Ochsenberg.",
+"Er liegt am Schauinsland.",
+"Er liegt am Rappeneck."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Freiburgs Hausberg wirkt zu weit weg für einen Stadtteil, darum liegen die niedrigeren Gipfel näher. Doch die Kappler Gemarkung reicht bis an den Schauinsland: Dort liegt ihr höchster Punkt auf 1.284 Metern. Vom tiefsten Punkt auf 338 Metern reicht Kappel also bis weit hinauf in den Schwarzwald. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/206748.html",
+"faktencheck": "korrigiert",
+"id": "442-kappel/v0.9/3",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Schwermetalle aus altem Erzbergbau",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kappel",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit knapp 2.800 Einwohnern, 5 km südöstlich der Stadtmitte.",
+"frage": "Böden im Kappler Tal sind mit Blei und Cadmium belastet. Woher stammen diese Schwermetalle?",
+"optionen": [
+"Eine frühere Gerberei leitete sie in den Bach.",
+"Sie stammen aus einem Munitionsdepot im Krieg.",
+"Eine Batteriefabrik vergrub ihre Abfälle im Tal.",
+"Sie stammen aus dem historischen Erzbergbau."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Blei und Cadmium denkt man zuerst an Industrie oder Krieg. Die Ursache ist aber vor allem der historische Erzbergbau im Schwarzwald, daneben gibt es natürliche Ursachen. Vom Bergbau belastete Böden gibt es auch in den Überschwemmungsbereichen von Dreisam, Brugga und Möhlin. So wirkt der alte Erzbergbau bis heute weit über Kappel hinaus nach. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/232781.html",
+"faktencheck": "korrigiert",
+"id": "442-kappel/v0.9/4",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Kapellenwappen aus Rheinkieseln vorm Rathaus",
+"rang": 9,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kappel",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit knapp 2.800 Einwohnern, 5 km südöstlich der Stadtmitte.",
+"frage": "Vor dem Rathaus in Kappel liegt seit 1999 das Ortswappen aus Rheinkieseln. Welchen Anlass hatte das?",
+"optionen": [
+"Es erinnert an 25 Jahre Zugehörigkeit zu Freiburg.",
+"Es erinnert an 700 Jahre erste urkundliche Erwähnung.",
+"Es erinnert an 50 Jahre Ende des Bergbaus.",
+"Es erinnert an 250 Jahre erstes bezeugtes Wappen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Wappen denkt man an ein rundes Ortsjubiläum. Das Kieselmotiv war aber ein Geschenk der Stadt zum 25-jährigen Eingemeindungsjubiläum. Das Wappen zeigt eine Kapelle mit rotem Dach und Turmhelm. In der Gerichtslaube im Freiburger Rathaus hängt es ebenfalls, dort gestiftet vom Ortschaftsrat. So zeigt Kappel sein Wappen vor dem eigenen Rathaus und mitten in der Stadt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/206748.html",
+"faktencheck": "korrigiert",
+"id": "442-kappel/v0.9/5",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "B-31-Tunnel trägt Kappels Namen",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kappel",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit knapp 2.800 Einwohnern, 5 km südöstlich der Stadtmitte, südlich der Dreisam und der Höllentalbahn.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Flachdach der Leichenhalle dient als Kirchenvorplatz.",
+"Der Kappler Tunnel ist ein Tunnel der Höllentalbahn.",
+"Das Kappler Rathaus blieb nach der Eingemeindung erhalten."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Höllentalbahn verläuft nördlich von Kappel, ein Bahntunnel liegt da nahe. Der Kappler Tunnel ist aber ein Teilstück der Bundesstraße 31 und nach dem Stadtteil benannt. Wahr sind die Leichenhalle mit dem Flachdach als Kirchenvorplatz und das nach der Eingemeindung erhaltene Rathaus. Beim Vorbeifahren auf der B 31 begegnet einem Kappel also zuerst als Tunnelname. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kappel_(Freiburg_im_Breisgau)",
+"faktencheck": "unsicher",
+"id": "442-kappel/v0.9/6",
+"tisch": false
+},
+{
+"facette": "POLITIK",
+"charakteristikum": "fast vollständige Wahlbeteiligung",
+"rang": 3,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kappel",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit knapp 2.800 Einwohnern, 5 km südöstlich der Stadtmitte.",
+"frage": "Bei der Bundestagswahl 2025 lag die Wahlbeteiligung in Baden-Württemberg bei 83,4 Prozent. Wie hoch war sie in Kappel?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 88 %",
+"88 bis unter 97 %",
+"97 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil liegt oft nah am Landesschnitt, darum liegt die Spanne um 83,4 Prozent nahe. In Kappel gingen aber 95,6 Prozent zur Wahl, 12,2 Punkte mehr als im Land; stärkste Kraft wurden die Grünen mit 30,2 Prozent vor der CDU. In einem Stadtteil mit knapp 2.800 Einwohnern blieben damit nur wenige Wahlberechtigte zu Hause. Richtig war 3.",
+"quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23; Landeswert: Bundeswahlleiterin, Bundestagswahl 2025",
+"faktencheck": "bestätigt",
+"id": "442-kappel/v0.9/7",
+"tisch": false
+},
+{
+"facette": "ALLTAG",
+"charakteristikum": "Flüchtlingssiedlung am Talausgang",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kappel",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit knapp 2.800 Einwohnern, 5 km südöstlich der Stadtmitte.",
+"frage": "Am Talausgang von Kappel wuchs in den 1950er Jahren die Bahnhofssiedlung. Was führte zu diesem Wachstum?",
+"optionen": [
+"Ein Hochwasser hatte Höfe im Großtal zerstört.",
+"Hier wurden Flüchtlinge und Vertriebene aufgenommen.",
+"Ein Sanatorium brauchte Wohnungen für sein Personal.",
+"Die Stadt Freiburg verlegte eine Kaserne hierher."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name Bahnhofssiedlung lässt an Eisenbahner denken, und nach Kriegsende liegen Katastrophen oder neue Arbeitgeber nahe. Gewachsen ist die Siedlung aber durch den Zuzug von Flüchtlingen und Vertriebenen, die hier aufgenommen wurden. Das damals selbstständige Dorf bekam so einen neuen Ortsteil am Talausgang, der bis heute zum Stadtteil mit knapp 2.800 Einwohnern gehört. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/206748.html",
+"faktencheck": "korrigiert",
+"id": "442-kappel/v0.9/8",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "Stadtteil ganz im Biosphärengebiet",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kappel",
+"steckbrief": "Stadtteil von Freiburg im Breisgau mit knapp 2.800 Einwohnern, 5 km südöstlich der Stadtmitte.",
+"frage": "Das UNESCO-Biosphärengebiet Schwarzwald reicht bis nach Freiburg. Welcher Teil der Kappler Gemarkung liegt darin?",
+"optionen": [
+"Nur der Gipfelbereich des Schauinslands liegt darin.",
+"Nur der Wald oberhalb der Höfe liegt darin.",
+"Keiner, die Grenze verläuft an der Gemarkung.",
+"Die gesamte Gemarkung liegt im Biosphärengebiet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Stadtteil von Freiburg wirkt zu städtisch für ein Schutzgebiet, darum liegt ein Ausschnitt am Berg nahe. Doch die ganze Gemarkung Freiburg-Kappel gehört zum Biosphärengebiet, einer Modellregion für ein ausgewogenes Verhältnis von menschlicher Nutzung und natürlichen Kreisläufen. Auf knapp 14 Quadratkilometern leben rund 2.800 Menschen mitten in dieser Modellregion. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.freiburg.de/pb/1499826.html",
+"faktencheck": "korrigiert",
+"id": "442-kappel/v0.9/9",
+"tisch": false
+}
+],
+"anschluss_von": "388-littenweiler",
+"anschluss": [
+"Littenweiler war bis 1916 eine Filiale der Kappler Pfarrei.",
+"Kappel hat dreimal so viel Fläche wie Littenweiler."
+],
+"anschluesse": {
+"388-littenweiler": [
+"Littenweiler war bis 1916 eine Filiale der Kappler Pfarrei.",
+"Kappel hat dreimal so viel Fläche wie Littenweiler."
+]
+},
+"ags": "08311000",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Stadtteil 5 km südöstlich der Freiburger Mitte, knapp 14 Quadratkilometer, vom Tal auf gut 360 Metern bis zum Schauinsland."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Bis 1974 selbstständige Dorfgemeinde „Kappel im Tal“, erstmals 1272 urkundlich erwähnt, Barockkirche St. Peter und Paul."
+},
+{
+"facette": "ALLTAG",
+"text": "Knapp 2.800 Einwohner; der Erzbergbau endete 1954 und hinterließ Schwermetalle im Boden; Bahnhofssiedlung der Nachkriegszeit."
+},
+{
+"facette": "FREIZEIT",
+"text": "Narrenzunft Schauinsländer Berggeister, Reichenbachstadion, Kyburg, Schauinslandturm, ehemalige Bergwerksseilbahn, Dreisamtal- und Südschwarzwald-Radweg."
+},
+{
+"facette": "INFRA",
+"text": "Kappler Tunnel der B 31, früherer Haltepunkt an der Höllentalbahn, Schauinslandschule, Waldkindergarten, Postleitzahl 79117."
+},
+{
+"facette": "POLITIK",
+"text": "Bundestagswahl 2025: Wahlbeteiligung 95,6 Prozent, Grüne mit 30,2 Prozent vor der CDU mit 23,2 Prozent."
+}
+],
+"km_vom_vorigen": 1.6
+},
+{
 "slug": "389-merzhausen",
 "name": "Merzhausen",
 "lat": 47.96639,
@@ -5785,19 +6494,16 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "388-littenweiler",
-"anschluss": [
-"Merzhausen ist fast so dicht besiedelt wie Freiburgs Stadtteil Littenweiler.",
-"Bei der Bundestagswahl lagen in Merzhausen und Littenweiler Grüne vorn."
-],
+"anschluss_von": "442-kappel",
+"anschluss": [],
 "anschluesse": {
 "387-ebnet": [
 "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
 "Merzhausen hat fast doppelt so viele Einwohner wie Ebnet."
 ],
 "388-littenweiler": [
-"Merzhausen ist fast so dicht besiedelt wie Freiburgs Stadtteil Littenweiler.",
-"Bei der Bundestagswahl lagen in Merzhausen und Littenweiler Grüne vorn."
+"Kreisgrenze: Littenweiler gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Merzhausen zum Landkreis Breisgau-Hochschwarzwald.",
+"Littenweiler hat gut anderthalbmal so viele Einwohner wie Merzhausen."
 ],
 "390-au-breisgau": [
 "Merzhausen hat dreieinhalbmal so viele Einwohner wie Au."
@@ -5911,7 +6617,7 @@ window.QA_DATEN = {
 "text": "Bei der Bundestagswahl 2025 lagen die Grünen mit 33,2 Prozent vorn."
 }
 ],
-"km_vom_vorigen": 5.3
+"km_vom_vorigen": 6.0
 },
 {
 "slug": "390-au-breisgau",
@@ -13789,6 +14495,231 @@ window.QA_DATEN = {
 "km_vom_vorigen": 5.7
 },
 {
+"slug": "441-hoellental",
+"name": "Höllental",
+"lat": 47.935,
+"lon": 8.0294,
+"karten": [
+{
+"facette": "ALLTAG",
+"charakteristikum": "historisches Gasthaus mit berühmten Gästen",
+"rang": 1,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Höllental",
+"steckbrief": "Ortsteil von Breitnau, 15 Kilometer Luftlinie südöstlich von Freiburg.",
+"frage": "Das Gasthaus Sternen im Höllental hatte 1770 eine berühmte Braut zu Gast. Wer war sie?",
+"optionen": [
+"Es war die spätere Kaiserin Sisi.",
+"Es war die spätere Königin Marie Antoinette.",
+"Es war die spätere Königin Luise.",
+"Es war die spätere Zarin Katharina."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Sisi liegt nahe, weil man bei einer Brautfahrt zuerst an sie denkt, doch sie heiratete viel später. Zu Gast war Marie Antoinette auf ihrer Brautfahrt von Wien nach Paris. Später kamen Goethe, der einen Felsen im Höllental zeichnete, und Felix Mendelssohn-Bartholdy auf Hochzeitsreise. Der Sternen zeigt, was das enge Tal schon früh war: ein Weg, an dem Reisende Rast machten. Heute ist er das Hotel Hofgut Sternen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/uebersicht und www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik",
+"faktencheck": "korrigiert",
+"id": "441-hoellental/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Hirschsprung-Sage als Wahrzeichen",
+"rang": 2,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Höllental",
+"steckbrief": "Das Höllental ist ein Ortsteil von Breitnau, 15 Kilometer Luftlinie südöstlich von Freiburg.",
+"frage": "Am Hirschsprung, einer engen Stelle im Höllental, soll der Sage nach ein Hirsch über die Schlucht gesprungen sein. Wer jagte ihn?",
+"optionen": [
+"Der Sage nach jagte ihn ein Herzog.",
+"Der Sage nach jagte ihn ein Wilderer.",
+"Der Sage nach jagte ihn ein Ritter.",
+"Der Sage nach jagte ihn ein Abt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Wilderer liegt nahe, weil verbotene Jagd in Sagen oft vorkommt. Hier jagte der Sage nach ein Ritter der Burg Falkenstein, und der Hirsch entkam mit einem gewaltigen Satz über die Schlucht. Die Gemeinde hält den Sprung für nicht völlig unmöglich, weil die Schlucht damals noch sehr schmal war. Der Hirschsprung verdankt dieser Sage seinen Namen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/hoellental/hirschsprung",
+"faktencheck": "korrigiert",
+"id": "441-hoellental/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Themenweg zu Mühlen und Sägen",
+"rang": 8,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Höllental",
+"steckbrief": "Ortsteil von Breitnau, 15 Kilometer Luftlinie südöstlich von Freiburg.",
+"frage": "Der Heimatpfad führt unter anderem durch die Ravennaschlucht. Wovon erzählt dieser Themenweg vor allem?",
+"optionen": [
+"Er erzählt vom Silberbergbau in alten Stollen.",
+"Er erzählt von der Flößerei auf dem Bach.",
+"Er erzählt von Schmugglern auf alten Pfaden.",
+"Er erzählt von Mühlen und Sägemühlen am Wasser."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bergbau liegt nahe, weil der Schwarzwald für alte Silberstollen bekannt ist. Der Heimatpfad aber führt vor allem zu Mühlen und Sägemühlen: Im Löffeltal und in der Ravennaschlucht nutzten die Menschen seit dem Mittelalter die Kraft des Wassers. Der Weg verbindet Bauernhöfe und ihre Geschichte. Das passt ins steile Tal: Wo Bäche schnell herabstürzen, liegt die Kraft für Mühlräder gleich vor der Haustür. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald und www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/heimatpfad",
+"faktencheck": "korrigiert",
+"id": "441-hoellental/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "steile Bahn, anfangs mit Zahnrad",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Höllental",
+"steckbrief": "Ortsteil von Breitnau, 15 Kilometer Luftlinie südöstlich von Freiburg.",
+"frage": "Die Höllentalbahn muss zwischen Hirschsprung und Hinterzarten eine besonders steile Rampe bewältigen. Wie schafften die Züge diese Steigung anfangs?",
+"optionen": [
+"Die Züge fuhren anfangs mit Zahnradbetrieb.",
+"Seile zogen die Wagen den Hang hinauf.",
+"Pferde zogen die Wagen über die Steilstrecke.",
+"Ein Aufzug hob die Wagen stufenweise an."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Seilzug liegt nahe, weil viele Bergbahnen steile Hänge so bezwingen. Die Höllentalbahn fuhr anfangs mit Zahnradbetrieb: Auf dem steilen Abschnitt zwischen Hirschsprung und Hinterzarten griff ein Zahnrad in eine Zahnstange der Bauart Riggenbach. Ein Stück dieser Zahnstange ist heute ein Museumsstück in Berlin. Wer an der Bahn entlangfährt, sieht, wie eng sich Gleis und Fels das Tal teilen. Richtig war 1.",
+"quelle": "Museum, berlin.museum-digital.de/pdf/object/9096.pdf",
+"faktencheck": "korrigiert",
+"id": "441-hoellental/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "vom Gletscher geformtes U-Tal",
+"rang": 6,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Höllental",
+"steckbrief": "Höllental, Ortsteil von Breitnau, liegt 15 Kilometer Luftlinie südöstlich von Freiburg.",
+"frage": "Die Gemeinde Breitnau erklärt, wie das Höllental seine Gestalt bekam. Was prägte laut Gemeinde das Gesicht der Landschaft entscheidend mit?",
+"optionen": [
+"Ein Vulkanausbruch riss den Berg auseinander.",
+"Ein Gletscher brachte Schutt und Steinblöcke mit.",
+"Ein Meteorit schlug eine lange Kerbe.",
+"Wind schliff die Felsen über Jahrmillionen aus."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Vulkan liegt nahe, weil so schroffe Felswände nach gewaltiger Kraft aussehen. Laut Gemeinde wirkte die Eiszeit entscheidend mit: Der Feldberg-Gletscher, mitgeführter Gesteinsschutt und Steinblöcke prägten das Gesicht der Landschaft. In der Würm-Eiszeit lag Breitnau bis etwa zur Kirche unter Schnee und Eis. Schon lange zuvor hatte der Einbruch des Rheingrabens die Gegend neu gestaltet. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/hoellental/hirschsprung",
+"faktencheck": "korrigiert",
+"id": "441-hoellental/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "mittelalterliche Kapelle im Tal",
+"rang": 7,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Höllental",
+"steckbrief": "Ortsteil von Breitnau, 15 Kilometer Luftlinie südöstlich von Freiburg.",
+"frage": "Im Höllental steht die Kapelle St. Oswald. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kapelle wurde von einem Konstanzer Bischof geweiht.",
+"Die Kapelle war Eigenkirche der Herren von Falkenstein.",
+"Die Kapelle wurde erst in der Barockzeit erbaut."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Eigenkirche klingt fremd und darum verdächtig; gemeint ist eine Kirche im Besitz eines Grundherrn, hier der Herren von Falkenstein. Gelogen war die Barockzeit: St. Oswald wurde schon im Mittelalter geweiht, durch Bischof Hermann von Konstanz. Ihr spätgotischer Altar stammt aus der Werkstatt von Hans Baldung Grien. Den Schlüssel zur Kapelle gibt es im Hotel Hofgut Sternen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik und www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald",
+"faktencheck": "korrigiert",
+"id": "441-hoellental/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "seltenes Eibenvorkommen im Tal",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Höllental",
+"steckbrief": "Das Höllental gehört zu Breitnau und liegt 15 Kilometer Luftlinie südöstlich von Freiburg.",
+"frage": "Im Höllental stehen rund 150 alte Exemplare eines seltenen Baums, der sich dort inzwischen wieder von selbst vermehrt. Welcher?",
+"optionen": [
+"Es ist die Zirbelkiefer.",
+"Es ist der Speierling.",
+"Es ist die Elsbeere.",
+"Es ist die Europäische Eibe."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Zirbelkiefer liegt nahe, weil man seltene Bäume eher im Hochgebirge vermutet. Es ist die Europäische Eibe: Auf etwa zehn Hektar stehen rund 150 alte Eiben, gezählt im „Jahr der Eibe“ 1994. Seither sind dort viele junge Eiben von selbst nachgewachsen. Das enge Tal ist also nicht nur Verkehrsweg, sondern auch Heimat eines seltenen Baums. Richtig war 4.",
+"quelle": "Badische Zeitung, „Eiben im Höllental: Seltener Baum gibt Comeback“",
+"faktencheck": "korrigiert",
+"id": "441-hoellental/v0.9/7",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Raubritterburg am Talweg",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Höllental",
+"steckbrief": "Ortsteil von Breitnau, 15 Kilometer Luftlinie südöstlich von Freiburg.",
+"frage": "Von der Burg Falkenstein im Höllental ist nur eine Ruine geblieben. Was hat die Burg im 14. Jahrhundert zerstört?",
+"optionen": [
+"Ein Blitzschlag setzte die Burg in Brand.",
+"Bürger der Stadt Freiburg zerstörten die Burg.",
+"Ein Erdbeben ließ die Mauern einstürzen.",
+"Ein Felssturz verschüttete die Burg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Blitzschlag liegt nahe, weil Feuer vielen Burgen zum Verhängnis wurde. Die Burg fiel aber Menschen zum Opfer: Bürger der Stadt Freiburg zerstörten sie. Die Herren von Falkenstein hatten sie gebaut, um das Höllental und den Gebirgspass zu beherrschen. Die Breitnauer Dorfchronik berichtet, das Geschlecht sei zu Raubrittern herabgesunken. Richtig war 2.",
+"quelle": "Gemeinde-Webseite Buchenbach, www.buchenbach.de/p/falkensteig; Gemeinde-Webseite Breitnau, www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik",
+"faktencheck": "korrigiert",
+"id": "441-hoellental/v0.9/8",
+"tisch": false
+}
+],
+"anschluss_von": "73-buchenbach",
+"anschluss": [
+"Das Höllental reicht von Buchenbach-Himmelreich bis hinauf nach Hinterzarten."
+],
+"anschluesse": {
+"73-buchenbach": [
+"Das Höllental reicht von Buchenbach-Himmelreich bis hinauf nach Hinterzarten."
+]
+},
+"ags": null,
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Ortsteil von Breitnau, 15 Kilometer Luftlinie südöstlich von Freiburg: ein tiefes, teils schluchtartiges Tal, durchflossen vom Rotbach."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit Jahrhunderten ein Durchgangsweg: erst Saumpfad, dann Falkensteige zwischen Freiburg und Donaueschingen, heute die B 31."
+},
+{
+"facette": "ALLTAG",
+"text": "Historisches Gasthaus Hofgut Sternen, daneben eine Glasbläserei mit Riesenkuckucksuhr an der Fassade."
+},
+{
+"facette": "FREIZEIT",
+"text": "Ravennaschlucht mit Wasserfällen und Kapelle St. Oswald, Hirschdenkmal am Hirschsprung, Heimatpfad, Ausstellung zur Verkehrsgeschichte im Zollhaus."
+},
+{
+"facette": "INFRA",
+"text": "Die Höllentalbahn fährt durchs Tal und quert auf dem Ravennaviadukt die Schlucht; der Bahnhof heißt Hirschsprung."
+}
+],
+"km_vom_vorigen": 3.3
+},
+{
 "slug": "74-hinterzarten",
 "name": "Hinterzarten",
 "lat": 47.90778,
@@ -14023,11 +14954,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "73-buchenbach",
-"anschluss": [
-"Hinterzarten liegt fast doppelt so hoch wie Buchenbach: rund 885 und 450 Meter.",
-"Bundestagswahl 2025: In Buchenbach und in Hinterzarten kamen die Grünen auf Platz zwei."
-],
+"anschluss_von": "441-hoellental",
+"anschluss": [],
 "anschluesse": {
 "387-ebnet": [
 "Kreisgrenze: Ebnet gehört zum Landkreis Stadtkreis Freiburg im Breisgau, Hinterzarten zum Landkreis Breisgau-Hochschwarzwald.",
@@ -14086,7 +15014,7 @@ window.QA_DATEN = {
 "text": "Bundestagswahl 2025: CDU 35,3 Prozent vor den Grünen; Wahlbeteiligung 88,2 Prozent, fast fünf Punkte über dem Land."
 }
 ],
-"km_vom_vorigen": 9.0
+"km_vom_vorigen": 6.1
 },
 {
 "slug": "432-breitnau",
@@ -14358,6 +15286,210 @@ window.QA_DATEN = {
 "km_vom_vorigen": 3.8
 },
 {
+"slug": "443-titisee",
+"name": "Titisee",
+"lat": 47.89333,
+"lon": 8.14611,
+"karten": [
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Palmen-Spaßbad im Hochschwarzwald",
+"rang": 1,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Titisee",
+"steckbrief": "Ortsteil von Titisee-Neustadt, 25 km südöstlich von Freiburg; mit Jostal rund 2.150 Einwohner.",
+"frage": "Welches dieser vier Dinge gibt es in Titisee?",
+"optionen": [
+"eine Spielbank für Kurgäste",
+"eine Brauerei mit Ausschank",
+"ein Erlebnisbad mit echten Palmen",
+"eine Seilbahn auf einen Gipfel"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Spielbank würde zu einem Urlaubsort passen, doch Titisee setzt aufs Wasser: Im Badeparadies Schwarzwald stehen echte Palmen und Orchideen an türkisblauen Lagunen. Südsee auf rund 850 Metern – für einen kleinen Ortsteil ist ein so großes Spaß- und Wellnessbad ungewöhnlich, und es ist ein Anziehungspunkt für Freizeiturlauber. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/freizeit-kultur/attraktionen-in-titisee-neustadt/badeparadies-schwarzwald; OpenStreetMap",
+"faktencheck": "unsicher",
+"id": "443-titisee/v0.9/1",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Wintermeisterschaften auf dem zugefrorenen See",
+"rang": 4,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Titisee",
+"steckbrief": "Ortsteil von Titisee-Neustadt, 25 km südöstlich von Freiburg; mit Jostal rund 2.150 Einwohner.",
+"frage": "1925 fanden Deutsche Meisterschaften im Eisschnelllauf, Eishockey und Rodeln auf dem Titisee statt. Warum gerade dort?",
+"optionen": [
+"Titisee besaß schon ein großes Eisstadion.",
+"Der Sportverband hatte seinen Sitz am See.",
+"Das Los entschied unter mehreren Bewerberorten.",
+"Der eigentlich geplante Ort hatte zu schlechtes Wetter."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein großes Eisstadion liegt nahe, doch gelaufen wurde auf dem zugefrorenen See. Titisee sprang ein, weil der Altonaer Schlittschuhverein, der die Meisterschaften ausrichten sollte, sie wegen anhaltend schlechten Wetters zurückgeben musste. Auch am Titisee wurde es knapp: Der See fror erst kurz vorher zu, und das dünne Eis durften nur Wettkämpfer und Funktionäre betreten. Richtig war 4.",
+"quelle": "Badische Zeitung; Wintersportverein Titisee; Gemeinde-Webseite.",
+"faktencheck": "korrigiert",
+"id": "443-titisee/v0.9/2",
+"tisch": false
+},
+{
+"facette": "FREIZEIT",
+"charakteristikum": "Seestrand, wo früher ein Becken lag",
+"rang": 8,
+"familie": "D",
+"sorte": "Geschichte",
+"ort": "Titisee",
+"steckbrief": "Ortsteil von Titisee-Neustadt, 25 km südöstlich von Freiburg; mit Jostal rund 2.150 Einwohner.",
+"frage": "Welches dieser vier Dinge gibt es in Titisee direkt am See?",
+"optionen": [
+"eine Badestelle mit Strand",
+"eine Wasserski-Seilbahn",
+"eine Seebühne für Freilichttheater",
+"ein Leuchtturm an der Mole"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Seebühne kennt man von großen Seen, doch am Ufer von Titisee liegt schlicht eine Badestelle mit Strandbereich, großer Liegewiese und Beachvolleyballplätzen. Wo heute auf einer großen Sandfläche Liegestühle und Strandkörbe stehen, war früher ein Schwimmbecken. So hat der kleine Ortsteil seinen eigenen Seestrand. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/freizeit-kultur/attraktionen-in-titisee-neustadt/badestelle-titisee-freibad-neustadt",
+"faktencheck": "unsicher",
+"id": "443-titisee/v0.9/3",
+"tisch": false
+},
+{
+"facette": "INFRA",
+"charakteristikum": "Bahnknoten mit Drei-Seen-Bahn",
+"rang": 5,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Titisee",
+"steckbrief": "Ortsteil von Titisee-Neustadt, 25 km südöstlich von Freiburg; mit Jostal rund 2.150 Einwohner.",
+"frage": "Am Bahnhof Titisee hält die Höllentalbahn. Wohin fährt von dort zusätzlich eine zweite Bahn?",
+"optionen": [
+"Eine Bahn fährt nach Furtwangen.",
+"Eine Bahn fährt nach Seebrugg.",
+"Eine Bahn fährt nach St. Blasien.",
+"Eine Bahn fährt nach Todtnau."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Furtwangen oder St. Blasien wären naheliegende Ziele in der Nähe, doch die zweite Bahn ist die Drei-Seen-Bahn nach Seebrugg. Der Bahnhof Titisee liegt an der Höllentalbahn zwischen Freiburg und Donaueschingen und ist damit eine kleine Drehscheibe. Mit der Höllentalbahn strömten einst die Urlauber in Scharen nach Titisee. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten; www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
+"faktencheck": "korrigiert",
+"id": "443-titisee/v0.9/4",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "See fließt von Freiburg weg",
+"rang": 3,
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Titisee",
+"steckbrief": "Ortsteil von Titisee-Neustadt, 25 km südöstlich von Freiburg; mit Jostal rund 2.150 Einwohner.",
+"frage": "Eine Sage warnt, der Titisee könne eines Tages das Dreisamtal überfluten. Wohin fließt sein Wasser tatsächlich ab?",
+"optionen": [
+"Es fließt über die Dreisam nach Westen ab.",
+"Es fließt über die Alb nach Süden ab.",
+"Es fließt über die Gutach nach Nordosten ab.",
+"Es fließt über den Seebach zum Feldsee ab."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Dreisam liegt nahe, denn eine Sage erzählt: Die weiße Haube einer alten Frau hält den See zurück, jedes Jahr verfault ein Faden, und irgendwann würde das Dreisamtal überflutet. Tatsächlich verlässt das Wasser den See über die Gutach nach Nordosten und fließt als Wutach weiter. Obwohl Freiburg nur 25 Kilometer entfernt liegt, erreicht das Wasser des Titisees die Stadt nicht. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Titisee",
+"faktencheck": "unsicher",
+"id": "443-titisee/v0.9/5",
+"tisch": false
+},
+{
+"facette": "GESCHICHTE",
+"charakteristikum": "Gletschersee mit früher Besiedlungsspur",
+"rang": 6,
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Titisee",
+"steckbrief": "Ortsteil von Titisee-Neustadt, 25 km südöstlich von Freiburg; mit Jostal rund 2.150 Einwohner.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Am Seeausfluss fand man alte Steinsärge.",
+"Ein Traktorunglück im Eis änderte die Freigaberegeln.",
+"Der See entstand durch einen Meteoriteneinschlag."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein tiefer See inmitten von Bergen lässt an einen Krater denken, doch den Titisee schuf der Feldberg-Gletscher: Er schürfte eine tiefe Mulde ins Seebachtal. Wahr ist: Am Seeausfluss fand man im 19. Jahrhundert zwei alemannisch-fränkische Sarkophage, und auf dem zugefrorenen See wurden Deutsche Meisterschaften im Eiskunstlauf ausgetragen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite.",
+"faktencheck": "korrigiert",
+"id": "443-titisee/v0.9/6",
+"tisch": false
+},
+{
+"facette": "LAGE",
+"charakteristikum": "winziger Ortsteil am großen See",
+"rang": 7,
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Titisee",
+"steckbrief": "Ortsteil von Titisee-Neustadt, 25 km südöstlich von Freiburg; mit Jostal rund 2.150 Einwohner.",
+"frage": "Wie groß ist die Fläche des Stadtteils Titisee mit Jostal?",
+"optionen": [
+"unter 2 km²",
+"2 bis unter 10 km²",
+"10 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Ferienort am See wirkt klein, doch zum Stadtteil Titisee gehört auch das Jostal. Zusammen messen beide 2.995 Hektar, also knapp 30 Quadratkilometer, und bilden einen großen Teil der Stadt Titisee-Neustadt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/stadtteile",
+"faktencheck": "korrigiert",
+"id": "443-titisee/v0.9/7",
+"tisch": false
+}
+],
+"anschluss_von": "432-breitnau",
+"anschluss": [
+"Breitnau hat gut dreißigmal so viel Fläche wie Titisee.",
+"Wahlbeteiligung 2025: in Breitnau 87,5, in Titisee-Neustadt 80,4 Prozent."
+],
+"anschluesse": {
+"432-breitnau": [
+"Breitnau hat gut dreißigmal so viel Fläche wie Titisee.",
+"Wahlbeteiligung 2025: in Breitnau 87,5, in Titisee-Neustadt 80,4 Prozent."
+]
+},
+"ags": "08315113",
+"ortsteil": true,
+"steckbrief": [
+{
+"facette": "LAGE",
+"text": "Ortsteil von Titisee-Neustadt am Nordufer des Titisees, 25 km südöstlich von Freiburg, rund 850 Meter hoch, 1,3 km² groß."
+},
+{
+"facette": "GESCHICHTE",
+"text": "Seit 1929 trägt der Ortsteil den Namen Titisee; seit der Gemeindereform 1971 bis 1974 gehört er zu Titisee-Neustadt."
+},
+{
+"facette": "ALLTAG",
+"text": "Der Tourismus prägt die Stadt Titisee-Neustadt und stellt jeden dritten ihrer rund 4.000 Arbeitsplätze."
+},
+{
+"facette": "FREIZEIT",
+"text": "Badeparadies Schwarzwald, Badestelle am See, Adventure Golf, Märklin World, Westweg, Titisee-Rundweg und mehrere Fernradwege."
+},
+{
+"facette": "INFRA",
+"text": "Bahnhof Titisee auf 858 Metern an der Höllentalbahn zwischen Freiburg und Donaueschingen."
+}
+],
+"km_vom_vorigen": 7.1
+},
+{
 "slug": "75-titisee-neustadt",
 "name": "Titisee-Neustadt",
 "lat": 47.91222,
@@ -14570,7 +15702,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "432-breitnau",
+"anschluss_von": "443-titisee",
 "anschluss": [],
 "anschluesse": {
 "73-buchenbach": [
@@ -14617,7 +15749,7 @@ window.QA_DATEN = {
 "text": "Bei der Bundestagswahl 2025 lag die CDU mit 33 Prozent vorn, dahinter die AfD mit 19,1 Prozent."
 }
 ],
-"km_vom_vorigen": 10.5
+"km_vom_vorigen": 5.5
 },
 {
 "slug": "76-loeffingen",

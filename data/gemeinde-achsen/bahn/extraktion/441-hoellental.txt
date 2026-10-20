@@ -1,0 +1,370 @@
+ENTITÄT: tal
+BEZEICHNUNG: Höllental
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/H%C3%B6llental_(Schwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 9 km
+  lage: südlicher Schwarzwald, 18 km südöstlich von Freiburg, zwischen Hinterzarten und Buchenbach-Himmelreich
+  naturpark: Naturpark Südschwarzwald
+  fluss: Rotbach (anfangs Höllenbach genannt)
+  gebiet_anteil_breitnau: Ostteil
+  gebiet_anteil_buchenbach: Westteil (Weiler Höllsteig)
+  charakteristische_steilhaenge: bis 600 m
+  superlativ: eines der tiefsten, teilweise schluchtartigen Täler des Schwarzwaldes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_besonderheit
+BEZEICHNUNG: Hirschsprung
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+ORTSTEIL_BEZUG: Höllental
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/hoellental/hirschsprung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Sage um Ritter der Burg Falkenstein, der einen Hirsch jagte; dieser sprang über die Schlucht und entkam
+  genauigkeit_namensherkunft: vermutlich
+  urspruengliche_breite_schlucht: 9 m
+  charakteristische_breite: klammartig verengt
+  bedeutung_fuer_ort: Wahrzeichen, Namensgeber für Bahnhof und Ortsteil
+  engpass_kennzeichen: Höllenpass, aufragende Felswände bis 130 m
+  hirschdenkmal: vorhanden
+GUELTIG_AB: historisch, aber aktuell als Sehenswürdigkeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schlucht
+BEZEICHNUNG: Ravennaschlucht
+FACETTE: LAGE | FREIZEIT
+ORTSTEIL_BEZUG: Höllental/Höllsteig
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: wildromantisch
+  besonderheit: mehrere Wasserfälle (16 m und 4 m Höhe), Bistenwasserfall 50 m
+  infrastruktur: Ravennaviadukt der Höllentalbahn überquert die Schlucht
+  bedeutung_fuer_ort: touristische Hauptattraktion
+  sehenswuerdigkeiten_in_schlucht: St. Oswald-Kapelle, Glasbläserei, Riesenkuckucksuhr, Heimatpfad
+GUELTIG_AB: historisch bekannt (Name 1560 belegt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Oswald
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Steig/Höllental
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geweihung: 1148
+  gruender: Bischof Hermann von Konstanz
+  eigentümer_ursprung: Eigenkirche der Herren von Falkenstein
+  funktion_ursprung: erste Pfarrkirche Breitnaus
+  altar: spätgotischer Altar 1514-1518 aus Werkstatt Hans Baldung Grien
+  superlativ: eines der ältesten Gotteshäuser im Schwarzwald
+  bedeutung_fuer_ort: Namensgeber für Jubiläum (850 Jahre 1998), religiöses Zentrum
+GUELTIG_AB: 1148
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Zollhaus
+FACETTE: INFRASTRUKTUR | GESCHICHTE
+ORTSTEIL_BEZUG: Höllental/Höllsteig
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/hoellental/hirschsprung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nahe Hotel Hofgut Sternen
+  funktion: Ausstellung zur Verkehrsgeschichte des Höllentales mit Schautafeln
+  besonderheit: zeigt Saumpfad ab 1000 n.Chr. und historische Verkehrswege
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: herberge
+BEZEICHNUNG: Hofgut Sternen / Alter Sternen
+FACETTE: ALLTAG | FREIZEIT | GESCHICHTE
+ORTSTEIL_BEZUG: Höllental/Höllsteig
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/uebersicht | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gaeste_beruehmtheit: Marie Antoinette (1770 Brautfahrt), Goethe (1779, zeichnete Felsen im Höllental), Felix Mendelssohn-Bartholdy (1837 Hochzeitsreise)
+  bedeutung_fuer_ort: Anziehungspunkt für Besucher, historisches Gasthaus
+  nebengesllenschaftaften: beherbergt Schwarzwaldkaufladenbau mit Glasbläserei und Riesenkuckucksuhr
+GUELTIG_AB: historisch (mindestens 1770)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ruine
+BEZEICHNUNG: Burg Falkenstein
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Höllental/Falkensteig
+QUELLE: https://www.gemeinde-breitnau.de/gemeinde-breitnau/dorfchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ansiedlung_herren: 1100
+  gründung_grund: Sicherung des Weges durch Höllental
+  zerstoerung: 1390
+  grund_zerstoerung: Herren von Falkenstein durch Verarmung zu Raubrittern herabgesunken
+  bedeutung_fuer_ort: Namensgeber für Tal und Ort, Wahrzeichen, Sehenswürdigkeit
+  verkehrsgeschichte: Weg (Falkensteige) ab mindestens 12. Jahrhundert, von Zähringern erbaut, führte zwischen Freiburg und Donaueschingen
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1390
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bahn
+BEZEICHNUNG: Höllentalbahn
+FACETTE: INFRASTRUKTUR | GESCHICHTE
+ORTSTEIL_BEZUG: Höllental
+QUELLE: https://de.wikipedia.org/wiki/H%C3%B6llental_(Schwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  einweihung: 21. Mai 1887
+  anfangs_betrieb: Zahnradbetrieb
+  steigung: 1:18 (55 Promille) zwischen Himmelreich und Hinterzarten
+  hoehendifferenz: 441 m über Strecke Himmelreich–Hinterzarten
+  besonderheit: durchquert spektakuläre Klammstrecke
+  bedeutung_fuer_ort: Verkehrserschließung, Fremdenverkehr
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: bruecke
+BEZEICHNUNG: Ravennaviadukt
+FACETTE: INFRASTRUKTUR
+ORTSTEIL_BEZUG: Ravennaschlucht
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Querung Ravennaschlucht durch Höllentalbahn
+  bedeutung_fuer_ort: markante Infrastruktur, Wahrzeichen
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gewerbe
+BEZEICHNUNG: Glasbläserei
+FACETTE: ALLTAG | KULTUR
+ORTSTEIL_BEZUG: Höllental/Höllsteig
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Gebäude Schwarzwaldkaufladenbau bei Hotel Hofgut Sternen
+  zugehoerig: Riesenkuckucksuhr an Fassade installiert
+  bedeutung_fuer_ort: Kunsthandwerk, Touristenattraktion
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Riesenkuckucksuhr
+FACETTE: KULTUR | FREIZEIT
+ORTSTEIL_BEZUG: Höllental/Höllsteig
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/ravennaschlucht/st-oswald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Fassade des Schwarzwaldkaufladenbaus bei Hotel Hofgut Sternen
+  zugehoerig: Glasbläserei
+  bedeutung_fuer_ort: Sehenswürdigkeit, typisches Schwarzwald-Handwerk
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Heimatpfad (Heimatpfad Hochschwarzwald)
+FACETTE: FREIZEIT | KULTUR
+ORTSTEIL_BEZUG: Löffeltal, Ravennaschlucht, Breitnau-Region
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/heimatpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Themenweg entlang Schwarzwaldmühlen und Sägemühlen
+  geschichte: verbindet Bauernhöfe, Menschen und Geschichte seit Mittelalter
+  wasserkraft_nutzung: Löffeltal und Ravennaschlucht, Energiequelle seit Mittelalter
+  spezialgewerke: Seilerei (1. und 3. Sonntag Mai–Oktober ca. 11:00–16:00 Uhr)
+  bedeutung_fuer_ort: kulturelle Vermittlung Schwarzwälder Tradition
+  bezeichnung_alternative: Kulturweg für Schwarzwälder Geschichte
+GUELTIG_AB: historisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Türkenlouispfad
+FACETTE: FREIZEIT | GESCHICHTE
+ORTSTEIL_BEZUG: Breitnau
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/tuerkenlouispfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Geschichtslehrpfad in einmaliger Landschaft
+  geschichte: barocke Militär-Schanzenanlagen um Breitnau
+  grundlage: Konzept Schwarzwaldverein Hinterzarten-Breitnau e.V. und Verein Wälderleben e.V.
+  bedeutung_fuer_ort: Erlebnis Barock-Geschichte und Alltagsleben der Zeit
+  bezug_hist_ereignis: Schanzen 1688 durch Markgraf Ludwig Wilhelm von Baden gegen Franzosen erbaut
+GUELTIG_AB: historisch (Schanzen 1688)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Windkraftanlage
+FACETTE: INFRA
+ORTSTEIL_BEZUG: Breitnau (Hohwartsattel)
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/windkraft-und-walmdaecher | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Enercon-33 mit 3-Blatt-Rotor
+  inbetriebnahme: Mai 1992
+  rotordurchmesser: 33 m
+  erntefläche: 855 m²
+  nennleistung: 280 kW
+  nabenhöhe: 33,5 m
+  turmgewicht: 47 t
+  gondelgewicht_mit_rotor: 24,5 t
+  bedeutung_fuer_ort: Wahrzeichen, Touristenattraktion, Energieversorgung
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude_typ
+BEZEICHNUNG: Schwarzwaldhöfe mit Walmdächern
+FACETTE: LAGE | ALLTAG | KULTUR
+ORTSTEIL_BEZUG: Breitnau (Hochebene)
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/windkraft-und-walmdaecher | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur: Eindachgehöfte (Heidenhäuser), freistehendes Bauwerk in Feldflur
+  walmdach_funktion: Schutz von Mensch, Tier und Erntegut vor Kälte
+  ausrichtung_alt: ursprünglich zum Hang hin (ältere Heidenhäuser)
+  ausrichtung_neu: seit Ende 16. Jahrhundert nach Süden, Talseite (jüngere Heidenhäuser)
+  siedlung: bäuerliche Streusiedelung mit Feldflur rund um einzelne Höfe
+  anzahl_betriebe: 76 landwirtschaftliche Betriebe in Breitnau
+  davon_vollerwerb: 34
+  aeltester_nachweis: Beckenhof am Fahrenberg von 1357
+  bedeutung_fuer_ort: prägendes Landschaftsbild, typisches Schwarzwald-Merkmal, UNESCO-Kulturgut-Charakter
+  wirtschaft: Milch- und Waldwirtschaft
+GUELTIG_AB: 1357
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Rotbach
+FACETTE: LAGE
+ORTSTEIL_BEZUG: Höllental
+QUELLE: https://de.wikipedia.org/wiki/H%C3%B6llental_(Schwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  alternativname: Höllenbach (anfangs)
+  flussverlauf: durchfließt Höllental
+  bassin: Zartener Becken
+  bedeutung_fuer_ort: Wasserkraft für Gewerke (Mühlen, Sägemühlen), Besiedlung
+GUELTIG_AB: historisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geologische_struktur
+BEZEICHNUNG: Bonndorfer Graben
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/H%C3%B6llental_(Schwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Verlauf von Kaiserstuhl über Wutachschlucht, Hegau zum Bodensee
+  entstehungsprozess: tektonische Einsenkung, Rheingraben-Bruchzone
+  folge_fuer_hoellental: Höllental liegt im Verlauf dieses Grabens
+  zeit: vor 60–70 Millionen Jahren (Tertiär)
+  ereignis: Rheingraben brach ein, Land driftete auseinander, Hebungen und Verschiebungen bis Freiburger Bucht
+GUELTIG_AB: 60–70 Millionen Jahre vor heute
+GUELTIG_BIS: prägen bis heute
+IST_VERMUTLICH_AKTUELL: false (geologisch historisch)
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eiszeit / Feldberg-Gletscher
+FACETTE: GESCHICHTE | LAGE
+ORTSTEIL_BEZUG: Höllental, Breitnau
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/hoellental/hirschsprung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: Würm-Eiszeit
+  erreichte_grenze: bis etwa zur Kirche in Breitnau (Schnee und Eis)
+  einfluss: Feldberg-Gletscher mitgeführter Gesteinschutt und Steinblöcke prägten Tal-Gesicht
+  geomorphologie: U-förmiges Talerprofil mit bis 600 m hohen Steilhängen
+GUELTIG_AB: prähistorisch (Würm-Eiszeit)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sage
+BEZEICHNUNG: Hirschsprung-Sage
+FACETTE: GESCHICHTE | KULTUR
+ORTSTEIL_BEZUG: Höllental
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/hoellental/hirschsprung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: Ritter der Burg Falkenstein jagte prächtigen Hirsch; vom Hirsch verfolgt, sprang dieser mit gewaltigem Satz über die Schlucht und entkam
+  plausibilitaet: Hirschsprünge bis 10 m möglich; Schlucht war ursprünglich nur 9 m breit
+  bedeutung_fuer_ort: Namensgeber für Hirschsprung (Ort und Engagement)
+  eigenschaft_sage: benannt nach: Mut des Tieres, Verfolgungsjagd
+GUELTIG_AB: historisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: verkehrsweg
+BEZEICHNUNG: Saumpfad / Falkensteige
+FACETTE: GESCHICHTE | INFRA
+ORTSTEIL_BEZUG: Höllental
+QUELLE: https://www.gemeinde-breitnau.de/freizeit-in-breitnau/sehenswertes/hoellental/hirschsprung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Verkehrsweg zwischen Kirchzarten und Titisee
+  beginn_vermutlich: ab 1000 n.Chr.
+  alternative_bezeichnung: Falkensteige (mindestens seit 12. Jahrhundert), von Zähringern erbaut, zwischen Freiburg und Donaueschingen
+  historische_nutzung: Handelsweg, später Brautfahrt Marie Antoinette 1770
+  ausbau: 1755–1770 Ausbau Höllentalstraße; 1769–1770 Verbesserungen an Felsschlucht (übertrieben dargestellt), 1638 bereits großzügig erweitert (französische Soldaten)
+  bedeutung_fuer_ort: Grundlage für Besiedlung, Handelsknotenpunkt
+GUELTIG_AB: 1000 (Saumpfad), 12. Jahrhundert (Falkensteige)
+IST_VERMUTLICH_AKTUELL: true (heute B 31)
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: flora
+BEZEICHNUNG: Europäische Eibe
+FACETTE: LAGE | KULTUR
+ORTSTEIL_BEZUG: Höllental
+QUELLE: https://de.wikipedia.org/wiki/H%C3%B6llental_(Schwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  vorkommen: fast 150 Exemplare im Höllental
+  superlativ: einziges größeres Vorkommen Baden-Württembergs
+  kultur_bedeutung: könnte Namensgeber für Dorf Ibental und weitere Orte in der Umgebung gewesen sein
+GUELTIG_AB: prähistorisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: wind
+BEZEICHNUNG: Höllentäler Wind
+FACETTE: LAGE | ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/H%C3%B6llental_(Schwarzwald) | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Regionalwind, Bergwind
+  funktion: versorgt Freiburger Stadtzentrum mit Frischluft
+  herkunft: aus Schwarzwald, Kaltluftströmungen aus Seitentälern des Zartener Beckens, beschleunigt durch Engpass Ebnet
+  verbreitung: über Freiburger Stadtgebiet in Freiburger Bucht der Oberrheinebene
+  anteil_hoellental: nur Teil stammt aus Höllental
+GUELTIG_AB: natürlich ständig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80

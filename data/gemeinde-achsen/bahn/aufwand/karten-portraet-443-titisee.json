@@ -1,0 +1,50 @@
+{
+ "stufe": "karten-portraet",
+ "ort": "443-titisee",
+ "prompt": "prompt-karten-v0.9.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 59015,
+ "token_ein": 51377,
+ "token_aus": 45271,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 44473,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 45271,
+  "output_tokens_details": {
+   "thinking_tokens": 34237
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 44473,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 45271,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 44473,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 44473
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.2625924,
+ "sekunden": 422,
+ "fehler": false,
+ "zeit": "2026-10-20T10:30:41"
+}

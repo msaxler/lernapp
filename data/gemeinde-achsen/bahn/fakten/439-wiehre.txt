@@ -1,0 +1,500 @@
+ID: 439-wiehre/001
+ENTITÄT: ort
+BEZEICHNUNG: Wiehre
+FACETTE: LAGE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7749/Wiehre | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung: 1008
+  ersterwahnung_form: ad Adelenhusen et inde Worin
+  namensherkunft: von Wehre (Damm), mit denen die Dreisam aufgestaut wurde
+GUELTIG_AB: 1008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 439-wiehre/002
+ENTITÄT: ort
+BEZEICHNUNG: Wiehre
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7749/Wiehre | Landesportal
+EIGENSCHAFTEN:
+  historische_namensformen: Obere Wiehre (1286), Niedere Wiehre (1294)
+  gliederung_mittelalter: zwei Gemeinden - Adelhausen und Wiehre
+  unter_freiburg_gerichtsbarkeit_ab: 13. Jahrhundert
+  zerstoerung_dreigljaehriger_krieg: 1644
+  festungsbau_ab: 1677
+  festungsauflassung: 1745
+  wiederaufbau_nach: 1745
+  eingemeindung_freiburg: 1826
+  stabhalter_bis: 1876
+GUELTIG_AB: 1008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/003
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Adelhausen
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7749/Wiehre | Landesportal
+EIGENSCHAFTEN:
+  gruendung: Anfang 13. Jahrhundert
+  gruender: Kloster Waldkirch
+  orden_ab_1245: Dominikanerorden
+  orden_name: Marienkloster
+  typ: Adelskloster
+  bedeutung: Mittelpunkt der Mystik und liturgischen Musikpflege am Oberrhein
+  bedeutung_zeit: 14. Jahrhundert
+  abriss_gebaeude: 1677
+  nonnen_zug_nach: Freiburg (1677)
+  neues_kloster_freiburg: 1694
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1677
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Einbethen (Pfarrei Adelhausen)
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7749/Wiehre | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung: 1234
+  patrozinium: St. Einbethen, St. Cyriak, St. Perpetua
+  patrozinium_ersterwahnung: 1327
+  patronat_kloster_waldkirch: 1504 zu Kartäusern, dann 1665 zur Stadt Freiburg
+  neubau_nach_zerstoerung: 1756
+  name_neubau: Annakirchle
+GUELTIG_AB: 1234
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/005
+ENTITÄT: kloster
+BEZEICHNUNG: St. Katharina in der Wiehre
+FACETTE: GESCHICHTE
+QUELLE: https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/7749/Wiehre | Landesportal
+EIGENSCHAFTEN:
+  typ: Dominikanerinnekloster
+  ersterwahnung: 1297
+  zerstoerung: 1677
+GUELTIG_AB: 1297
+GUELTIG_BIS: 1677
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/006
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1894-1899
+  stil: neuromanisch
+  lage: Ecke Güntertal-/Baslerstraße (östlicher Rand Unterwiehre)
+  standort_vorher: Gelände eines Gaswerks
+  patrozinium: Johannes der Täufer
+  bedeutung_fuer_ort: stadtbildprägende Kirche, volkstümlich Wiehredom genannt
+  konfession: katholisch
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/007
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1891
+  lage: Mittelwiehre
+  bedeutung_fuer_ort: 2. evangelische Kirche Freiburgs (nach Ludwigskirche)
+  konfession: evangelisch
+  grund_errichtung: wachsende evangelische Gemeinde durch Zuzug aus Nordbaden
+GUELTIG_AB: 1891
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/008
+ENTITÄT: kirche
+BEZEICHNUNG: Maria Hilf
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1885-1889
+  typ: Kapelle
+  grund: seelsorgerliche und soziale Betreuung der Arbeiter
+  konfession: katholisch
+  lage: Oberwiehre
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/009
+ENTITÄT: kirche
+BEZEICHNUNG: Maria Hilf der Christen
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1927-1929
+  lage: Oberwiehre
+  status: Pfarrkirche
+  konfession: katholisch
+  vorher_gebaeude: 1889 gebaute Maria-Hilf-Kapelle
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/010
+ENTITÄT: bahnhof
+BEZEICHNUNG: Freiburg-Wiehre
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  linie: Höllentalbahn (Freiburg (Breisgau) Hbf–Titisee–Neustadt (Schwarzw)–Donaueschingen)
+  takt_tagsüber: Halbstundentakt
+  verlegung_trasse: 1933-1934 nach Süden
+  grund_verlegung: Hindernis für Straßenerweiterung
+  bedeutung_fuer_ort: Bahnhof ermöglicht Zuganbindung zum Schwarzwald und Freiburger Hauptbahnhof
+  grund_errichtung: Einfluss wohlhabender Bewohner (Rentner aus Nordbaden und Ruhrgebiet)
+GUELTIG_AB: Mitte 19. Jahrhundert
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/011
+ENTITÄT: betrieb
+BEZEICHNUNG: Brauerei Ganter
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_ca: um 1888
+  standort: Gelände einer alten Ölmühle an der Dreisam
+  groesse: größte Brauerei Südbadens
+  expansionen: mehrfache Erweiterungen
+  bedeutung_fuer_ort: nutzte Bahnhof Freiburg-Wiehre für Transport
+  transportmittel: brauereieigene Eisenbahnwagen, umgesetzt auf Lastwagen
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/012
+ENTITÄT: arbeitersiedlung
+BEZEICHNUNG: Knopfhäusle
+FACETTE: ALLTAG
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1868
+  gruender: Jeremias Risler (Knopffabrikant)
+  bedeutung_fuer_ort: erste geschlossene Arbeitersiedlung Badens
+  lage: Osten der Stadt
+GUELTIG_AB: 1868
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/013
+ENTITÄT: schule
+BEZEICHNUNG: Großherzoglich badisches Lehrerseminar
+FACETTE: BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1905-1907
+  lage: Oberwiehre
+  heute_name: Lycée Turenne
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/014
+ENTITÄT: schule
+BEZEICHNUNG: Volksschule Oberwiehre (Emil-Thoma-Schule)
+FACETTE: BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1915
+  lage: Oberwiehre
+  name_ab: 1920 Emil-Thoma-Schule
+GUELTIG_AB: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/015
+ENTITÄT: klinik
+BEZEICHNUNG: Loretto-Krankenhaus
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  besiedlung_ca: um Jahrhundertwende (1900er Jahre)
+  lage: Lorettoberg
+  bedeutung_fuer_ort: eine der größten Kliniken der Stadt
+  konfession: katholisch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/016
+ENTITÄT: bad
+BEZEICHNUNG: Lorettobad
+FACETTE: FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  typ: Freischwimmbad
+  besonderheit: Damenbad
+  lage: Fuß des Lorettobergs
+  charakteristikum: alt, noch beliebtes Damenbad
+GUELTIG_AB: frueher 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/017
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserschlössle
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wasserhochbehälter
+  vollendung: 1896
+  lage: Bromberg, oberhalb der Wiehre
+  besonderheit: getarnt als Schlösschen, Ausblick auf die Stadt
+  architektur_vorbild: Variante des Freiburger Stadtsiegels
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/018
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Alter Wiehrebahnhof
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  ursprüngliche_funktion: Empfangsgebäude des alten Bahnhofs
+  transformation: Kulturzentrum
+  heute_nutzung: Kommunales Kino
+  zusatz_ab_2003: Literatur-Forum Südwest
+  besonderheit: Kommunales Kino ausgezeichnet für sein Programm
+  markt: 2x wöchentlich Markt am Platz
+GUELTIG_AB: nach Bahnverlegung 1933-1934
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/019
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus der Jugend
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  architect: Friedrich Bauer
+  eroeffnung: 1966
+  lage: Uhlandstraße
+  baukosten: 4,1 Millionen D-Mark
+  besonderheit: unter Denkmalschutz
+  kunstwerk: Wandmosaik von Helmut Lutz (23 Jahre alt)
+  mosaik_material: Steine des Mühlbaches
+  renovierung: 4 Jahre, Herbst 2021 Wiedereröffnung
+  erweiterung_2021: neues Amphitheater und Boulderhalle
+  vorher_standort: frühere Uhland-Säge (wasserbetriebene Brennholzsäge)
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/020
+ENTITÄT: stadthalle
+BEZEICHNUNG: Stadthalle Wiehre
+FACETTE: KULTUR
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1954
+  besonderheit: unter Denkmalschutz
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/021
+ENTITÄT: einkaufscentrum
+BEZEICHNUNG: ZO (Zentrum Oberwiehre)
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 2004
+  lage: östlicher Teil der Wiehre (ehemaliges Messegelände)
+  inhalt: Geschäfte, Dienstleister und gastronomische Betriebe
+  veranstaltungen: Wochenmarkt, regelmäßige Floh- und Künstlermärkte
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/022
+ENTITÄT: widerstandsgruppe
+BEZEICHNUNG: Freiburger Kreis (ordoliberal)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  zeit: Drittes Reich
+  zusammensetzung: Wirtschaftswissenschaftler
+  lage_treffpunkt: Bürgerhaus nahe Christuskirche
+  bedeutung_fuer_wiehre: Wiehre war Zentrum des Widerstands in Freiburg
+  ziel: Pläne für Deutschland nach Hitler
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/023
+ENTITÄT: widerstandsgruppe
+BEZEICHNUNG: Freiburger Kreis (katholisch)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  zeit: Drittes Reich
+  lage: Wiehre
+  figuren: Dichter Reinhold Schneider, Karl Färber
+  reinhold_schneider_wohnort: Mercystraße
+  bedeutung: Wirkung weit über Freiburg hinaus
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/024
+ENTITÄT: tunnel
+BEZEICHNUNG: Sternwaldtunnel
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  bau: 1933-1934
+  grund: Verlegung der Höllentalbahn nach Süden
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/025
+ENTITÄT: tunnel
+BEZEICHNUNG: Lorettobergtunnel
+FACETTE: INFRA
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  bau: 1933-1934
+  grund: Verlegung der Höllentalbahn nach Süden
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/026
+ENTITÄT: friedhof
+BEZEICHNUNG: Wiehre-Friedhof (alt)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  historisches_ereignis: 31. Juli 1849 Hinrichtungen durch preußisches Erschießungskommando
+  hingerichtete_personen: Johann Maximilian Dortu (Revolutionär aus Potsdam), Friedrich Neff (aus Rümmingen), Gebhard Kromer (aus Bombach)
+  grund: Teilnehmer der Badischen Revolution
+  denkmal: Dortu-Grabmal erhalten
+  heutige_nutzung: Kinderspielplatz
+  gedenkfeier_seit: 2004 jährlich am 31. Juli
+GUELTIG_AB: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 439-wiehre/027
+ENTITÄT: leprosorium
+BEZEICHNUNG: Leprosorium (Wiehre)
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  ersterwahnung: 1251
+  zerstoerung: 1632
+  lage_vermutlich: Kronenstraße, Ecke Basler Straße (Unterwiehre)
+  entdeckung_funde: 2020-2021 etwa 400 Skelette bei Bauarbeiten
+  bedeutung: Funde deuten auf Leprafriedhof hin
+  besonderheit: einer der bestdokumentierten Leprafriedhöfe bundesweit (ehemaliges Gutleuthaus)
+GUELTIG_AB: 1251
+GUELTIG_BIS: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/028
+ENTITÄT: weisser
+BEZEICHNUNG: Deicheleweiher
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  typ: zwei höhenversetzt nebeneinanderliegende Weiher
+  nutzung_geschichte: seit Mittelalter Lagerung von Nadelholzstämmen (für Deicheln = Wasserrohre)
+  nutzung_zeit: bis ins 19. Jahrhundert
+  folklore: nach einer Sage soll Freiburger Klapperstorch Säuglinge von hier fischen
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 439-wiehre/029
+ENTITÄT: forschungseinrichtung
+BEZEICHNUNG: Max-Planck-Institut zur Erforschung von Kriminalität, Sicherheit und Recht
+FACETTE: BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlicher Rand Wiehre (Sternwaldeck)
+  ruf: renommiert
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 439-wiehre/030
+ENTITÄT: forschungseinrichtung
+BEZEICHNUNG: Corpus Vitrearum Deutschland
+FACETTE: BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  spezialisierung: Forschungszentrum für mittelalterliche Glasmalerei
+  lage: südlicher Rand Wiehre (nahe Max-Planck-Institut)
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 439-wiehre/031
+ENTITÄT: institution
+BEZEICHNUNG: Staatliches Weinbauinstitut Freiburg
+FACETTE: BILDUNG
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  lage: Südwesten der Unterwiehre (Merzhauser Straße)
+  besonderheit: eigene Weinberge des angegliederten Staatsweinguts Freiburg am Schlierberg (Westhang Lorettobergs)
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/032
+ENTITÄT: organisation
+BEZEICHNUNG: Badischer Landwirtschaftlicher Hauptverband
+FACETTE: WIRTSCHAFT
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  umzug: 2014 in neuen Holzbau an Merzhauser Straße
+  lage: Südwesten der Unterwiehre
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/033
+ENTITÄT: berg
+BEZEICHNUNG: Bromberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  lage: Süden der Wiehre
+  namensherkunft: von Bronnen (veralteter Begriff für Brunnen)
+  nutzung_geschichte: zur Wasserversorgung genutzt (bereits vor 1896)
+  bauwerk: Wasserschlössle 1896
+GUELTIG_AB: antik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 439-wiehre/034
+ENTITÄT: Berg
+BEZEICHNUNG: Lorettoberg
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Wiehre | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 385 m
+  bebauung_um_jahrhundertwende: prächtige Villen
+  besiedlung: katholisches Loretto-Krankenhaus
+  westseite: Schlierberg mit Weinbergen (Staatsweingut Freiburg)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

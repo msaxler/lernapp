@@ -1,0 +1,759 @@
+ZIELORT: Titisee (Ortsteil von Titisee-Neustadt)
+LAGE: Stadtteil von Titisee-Neustadt; 25 km südöstlich von Freiburg im Breisgau (Luftlinie)
+ARTIKEL: Titisee
+
+GRUNDDATEN:
+  landkreis: Landkreis Breisgau-Hochschwarzwald — GILT FÜR DIE GEMEINDE TITISEE-NEUSTADT  [Wikidata P131]
+  bundesland: Baden-Württemberg — GILT FÜR DIE GEMEINDE TITISEE-NEUSTADT  [über die Gemeinde]
+  flaeche_km2: 1,3  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE TITISEE-NEUSTADT  [Wikidata P395]
+  hoehe_m: 846 | 845 | 859  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2822084)]
+  naechste_grossstadt: Freiburg im Breisgau, 25 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 125 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33 %, AfD 19,1 %, SPD 15,5 %, GRÜNE 11,8 %, Die Linke 5,6 %, FDP 5,1 %, BSW 5 %; Wahlbeteiligung 80,4 % — GILT FÜR DIE GEMEINDE TITISEE-NEUSTADT  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 80,4 %, Abstand 3 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+ZEUGEN (OpenStreetMap, Gemeindegrenze; belegt nur, dass es die Sache gibt):
+  Bahnhof: Titisee (858 m)
+  Freizeit: Miniatur Mühle
+  Freizeit: Miniatur Schwarzwaldmühlen
+  Freizeit: Adventure Golf Titisee
+  Freizeit: Golfclub Hochschwarzwald e.V.
+  Gipfel: Feuerberg (1038 m)
+  Gipfel: Wintersberg (1063 m)
+  Gipfel: Hirschbühl (945 m)
+  Gewässer: Gutach
+  Museum: Märklin World Titisee
+  Museum: Uhren
+  Bad: Badeparadies Schwarzwald
+  Bad: Blaue Lagune
+  Schutzgebiet: Unteres Seebachtal (seit 2008)
+  Radweg: Schwarzwald-Radweg
+  Radweg: Südschwarzwald-Radweg (269 km)
+  Radweg: Schwarzwald Panorama-Radweg (282 km)
+  Radweg: Drei-Welten-Radweg (302 km)
+  Wanderweg: Westweg (Westliche Variante)
+  Wanderweg: Westweg (Östliche Variante)
+  Wanderweg: Main-Neckar-Rhein-Weg (94 km)
+  Wanderweg: Titisee-Rundweg
+  Wanderweg: Himmelreich-Jakobusweg
+
+PLAN:
+  Karte 1: FACETTE ALLTAG (Ersatz: FREIZEIT), Geschichte, D, wahre Option an Stelle 3
+  Karte 2: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, A, wahre Option an Stelle 4
+  Karte 3: FACETTE FREIZEIT (Ersatz: ALLTAG), Geschichte, D, wahre Option an Stelle 1
+  Karte 4: FACETTE INFRA (Ersatz: LAGE), Geschichte, A, wahre Option an Stelle 2
+  Karte 5: FACETTE LAGE (Ersatz: GESCHICHTE), Geschichte, A, wahre Option an Stelle 3
+  Karte 6: FACETTE GESCHICHTE (Ersatz: FREIZEIT), Geschichte, B, Lüge an Stelle 3
+  Karte 7: FACETTE LAGE, Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 1
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je ein weiteres Charakteristikum, Facette frei, Familie A, B oder D, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Breitnau (Gemeinde)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 1894  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 39,9  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 1018 | 968  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2944455)]
+  naechste_grossstadt: Freiburg im Breisgau, 18 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Hirschsprung, Bahnhof Posthalde, Haltepunkt Höllsteig  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 38,9 %, GRÜNE 14,8 %, SPD 13,6 %, AfD 13,2 %, Die Linke 5,9 %; Wahlbeteiligung 87,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  wahlbeteiligung_land: 83,4 % im Bundesland (Ort 87,5 %, Abstand 4,1 Punkte)  [Bundeswahlleiterin, Bundestagswahl 2025, alle Wahlbezirke des Landes]
+
+FAHRT: Wiehre, Waldsee, Altstadt, Stühlinger, Neuburg, Herdern, Zähringen, Brühl, Oberau, Haslach, Sankt Georgen, Vauban, Weingarten, Betzenhausen, Mooswald, Landwasser, Lehen, Rieselfeld, Dietenbach, Opfingen, Tiengen, Munzingen, Waltershofen, Ebnet, Littenweiler, Kappel, Merzhausen, Au, Horben, Günterstal, Ebringen, Schallstadt, Bad Krozingen, Staufen, Heitersheim, Müllheim, Waldkirch, Hochdorf, Gundelfingen, March, Umkirch, Gottenheim, Bötzingen, Eichstetten, Vörstetten, Reute, Teningen, Bahlingen, Riegel, Endingen, Ihringen, Breisach, Kirchzarten, Stegen, Oberried, Buchenbach, Höllental, Hinterzarten, Breitnau, Titisee, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Kayh, Altingen, Breitenholz, Entringen, Pfäffingen, Poltringen, Reusten, Ammerbuch, Tübingen, Unterjesingen, Hagelloch, Weststadt, Waldhäuser Ost, Bebenhausen, Lustnau, Pfrondorf, Südstadt, Derendingen, Weilheim, Kilchberg, Bühl, Hirschau, Dettenhausen, Kirchentellinsfurt, Kusterdingen, Gomaringen, Dußlingen, Wurmlingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Karlsbad, Remchingen, Pforzheim, Niefern-Öschelbronn, Wurmberg, Heimsheim, Rutesheim, Leonberg, Sindelfingen, Leinfelden-Echterdingen, Stuttgart, Esslingen am Neckar, Ostfildern, Denkendorf, Wendlingen am Neckar, Plochingen, Kirchheim unter Teck, Aichelberg, Ebersbach an der Fils, Uhingen, Göppingen, Eislingen/Fils, Süßen, Gingen an der Fils, Kuchen, Gruibingen, Mühlhausen im Täle, Geislingen an der Steige, Merklingen, Amstetten, Dornstadt, Ulm, Neu-Ulm, Elchingen, Leipheim, Günzburg, Offingen, Burgau, Jettingen-Scheppach, Zusmarshausen, Dinkelscherben, Adelsried, Gessertshausen, Neusäß, Gersthofen, Augsburg, Friedberg, Kissing, Mering, Dasing, Adelzhausen, Odelzhausen, Althegnenberg, Mammendorf, Maisach, Sulzemoos, Olching, Gröbenzell, Dachau, Karlsfeld, München, Geisingen, Immendingen, Engen, Singen, Radolfzell am Bodensee, Stockach, Bodman-Ludwigshafen, Überlingen, Uhldingen-Mühlhofen, Meersburg, Friedrichshafen, Eriskirch, Langenargen, Kressbronn am Bodensee, Nonnenhorn, Wasserburg (Bodensee), Lindau, Sigmarszell, Hergatz, Wangen im Allgäu, Leutkirch im Allgäu, Aitrach, Memmingen, Mindelheim, Türkheim, Bad Wörishofen, Buchloe, Igling, Landsberg am Lech, Greifenberg, Inning am Ammersee, Wörthsee, Gilching, Germering, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen, Bad Breisig, Sinzig, Remagen, Bonn, Bornheim, Brühl, Hürth, Köln, Leverkusen, Langenfeld, Düsseldorf, Ratingen, Duisburg, Mülheim an der Ruhr, Essen, Gelsenkirchen, Bochum, Dortmund, Kamen, Hamm, Ahlen, Oelde, Rheda-Wiedenbrück, Gütersloh, Bielefeld, Herford, Löhne, Bad Oeynhausen, Porta Westfalica, Minden, Bückeburg, Stadthagen, Haste, Wunstorf, Seelze, Hannover, Lehrte, Gifhorn, Wolfsburg, Oebisfelde-Weferlingen, Stendal, Rathenow, Berlin, Runkel, Weilburg, Löhnberg, Leun, Solms, Wetzlar, Lahnau, Gießen, Reiskirchen, Grünberg, Homberg (Ohm), Alsfeld, Kirchheim, Niederaula, Bad Hersfeld, Friedewald, Wildeck, Gerstungen, Herleshausen, Eisenach, Waltershausen, Gotha, Nesse-Apfelstädt, Weimar, Jena, Stadtroda, Hermsdorf, Eisenberg, Weißenfels, Bad Dürrenberg, Schkeuditz, Landsberg, Dessau-Roßlau, Coswig (Anhalt), Niemegk, Beelitz, Michendorf, Potsdam, Rheinbrohl, Leubsdorf, Unkel, Erpel, Bad Honnef, Königswinter, Troisdorf, Neustadt (Wied), Windhagen, Vettelschoß, Asbach, Hennef, Sankt Augustin, Siegburg, Lohmar, Rösrath, Leichlingen, Solingen, Hilden, Haan, Erkrath, Mettmann, Wülfrath, Wuppertal, Velbert, Heiligenhaus, Hattingen, Heisingen, Niederbieber, Segendorf, Datzeroth, Niederbreitbach, Oberbieber, Melsbach, Hardert, Ehlscheid, Kurtscheid, Roßbach, Hausen (Wied), Breitscheid, Kloster Marienhaus, Wolfenacker, Kupferdreh, Überruhr, Bergerhausen, Rellinghausen, Stadtwald, Fischlaken, Werden, Burgaltendorf, Steele, Byfang, Rüttenscheid, Bredeney, Huttrop, Kettwig
+
+FAKTEN (Zielort Titisee):
+ID: 443-titisee/001
+ENTITÄT: ort
+BEZEICHNUNG: Titisee-Neustadt
+FACETTE: LAGE | GESCHICHTE | ALLTAG | KULTUR | INFRA | POLITIK
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemarkungsflaeche: 8966 ha
+  einwohner_gesamt: 12315, gültig_ab: 2024
+  einwohner_neustadt: 9150, gültig_ab: 2024
+  einwohner_titisee_jostal: 2153, gültig_ab: 2024
+  einwohner_waldau: 373, gültig_ab: 2024
+  einwohner_schwärzenbach: 249, gültig_ab: 2024
+  einwohner_langenordnach: 228, gültig_ab: 2024
+  einwohner_rudenberg: 176, gültig_ab: 2024
+  landkreis: Breisgau-Hochschwarzwald
+  regionalverband: Südlicher Oberrhein
+  durchschnittliche_jahrestemperatur_neustadt: 6.0 °C
+  durchschnittliche_jahrestemperatur_titisee: 5.7 °C
+  jahresniederschlag_neustadt: 1210 mm
+  jahresniederschlag_titisee: 1233 mm
+  höhenlage_minimum: 845.50 m ü.d.M. (Wasserspiegel Titisee)
+  höhenlage_maximum: 1192 m ü.d.M. (Hochfirst)
+  groesste_ausdehnung_gemarkung: 14.5 km
+  groesste_ausdehnung_ortslage_neustadt: 3.5 km (Luftlinie)
+  bedeutung_fuer_ort: Tourismus prägt Stadt und stellt jeden dritten der ca. 4000 Arbeitsplätze, Millionen Übernachtungs- und Tagestouristen jährlich
+  bekannheit: weltweite Beliebtheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/002
+ENTITÄT: gewässer
+BEZEICHNUNG: Titisee
+FACETTE: LAGE | GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  fläche: 1.07 km²
+  durchschnittliche_tiefe: 20 m
+  maximale_länge: 1.8 km
+  maximale_breite: 750 m
+  tiefste_stelle: 40 m
+  wasserspiegel_hoehe: 845.50 m ü.d.M.
+  entstehung: Feldberg-Gletscher formte tiefe Mulde im Seebachtal durch Moränen
+  ausfluss: Gutach (auf 840 m ü.d.M.)
+  speisend: Seebach (vom Feldsee am Seebuck, Osthang Feldberg-Massiv)
+  lage: südlicher Schwarzwald, Baden-Württemberg, Nordufer mit Kurort Titisee (Teil Titisee-Neustadt), südwestlich Teil Hinterzartener Gemarkung
+  superlativ: größter Natursee des Schwarzwaldes
+  gefrieren: dauert lange, Kerneis mindestens 16 cm für Begehbarkeit
+  namensherkunft: alemannischer Anführer Titin (Ausbaudorf Titinshusen, heute Dittishausen) oder weiblicher Personenname Tita oder Alemannisch Teti (Kindlein) oder römischer Feldherr Titus oder Sage mit Herr Titini oder Aronstab Tittele
+  namensgebung: seit ca. 1750 in heutiger Form, 1929 Gemeindenamen für Stadtteil
+  erste_urkundliche_erwaehnung: 1050 (Kloster Allerheiligen Schaffhausen als Titinsee), 1111 (Pfarrei Saig als Dettesee)
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/003
+ENTITÄT: sage
+BEZEICHNUNG: Titisee-Sagen
+FACETTE: KULTUR | GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  tiefe: See gilt als Gewässer von unermesslicher und unmerkbarer Tiefe
+  tiefen_warnung_varianten: "Ergründest Du mich, so ersäufe ich Dich" oder "Willst Du mich messen, so will ich Dich fressen" oder "Missest du mich, so verschling ich dich"
+  versunkene_stadt: Stadt in Fluten versunken zur Strafe für Brotfrevel (Brotlaibe ausgehöhlt als Schuhe)
+  haube_sage: weiße Haube einer alten Frau hält See zurück, ein Faden verfault jährlich, irgendwann würde Dreisamtal überflutet (faktisch aber See entwässert nach Nordosten über Gutach-Wutach)
+  unterirdische_verbindung: Sage vom Zusammenhang mit Ursee
+  ähnliche_sagen: Feldsee, Mummelsee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 443-titisee/004
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Sarkophage am Titisee
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  fundstelle: zwei Sarkophage aus bearbeitetem Tuffstein unter Hügel am Ausfluss Gutach
+  fundjahr: 1840
+  alter: 700-900 n.Chr.
+  bedeutung: belegt Besiedlung im ersten Jahrtausend, zuvor Hochschwarzwald als unbesiedelt angenommen
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1840
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/005
+ENTITÄT: berg
+BEZEICHNUNG: Hochfirst
+FACETTE: LAGE
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 1192 m ü.d.M.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/006
+ENTITÄT: berg
+BEZEICHNUNG: Weißtannenhöhe
+FACETTE: LAGE
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 1190 m ü.d.M.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/007
+ENTITÄT: schanze
+BEZEICHNUNG: Hochfirstschanze
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.titisee-neustadt.de/freizeit-kultur/attraktionen-in-titisee-neustadt/skischanze | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Naturschanze
+  superlativ: größte Naturschanze Deutschlands, eine der größten Sprungschanzen der Welt
+  hill_size: 142 m
+  k_punkt: 125 m
+  standort: Schmiedsbachtal
+  baujahr_ursprünglich: 1950
+  baujahr_umbau: 2000 (Umbau für Weltcup-Tauglichkeit)
+  umbaukosten: ca. 3.5 Millionen Euro
+  grund_umbau: erfolgreiche Schwarzwaldadler (Martin Schmitt, Sven Hannawald, Dieter Thoma, Hansjörg Jäckle, Alexander Herr, Christof Duffner)
+  erster_continental_cup: Februar 2001, Eröffnungssprung Michael Möllinger
+  weltcup_skispringen_seit: Dezember 2001 (erstes Weltcup-Skispringen)
+  weltcup_wochenenden_gesamt: 15 insgesamt (2001, 2002, 2003, 2005, 2007, 2013, 2015, 2016, 2017, 2020, 2021 mit Herren und Damen, 2022 Januar und Dezember, 2024)
+  schanzenrekord_herren: 148 m (Domen Prevc, SLO, 2016)
+  schanzenrekord_damen: 138.5 m (Silje Opseth, NOR, 30. Januar 2021)
+  groesste_weite_continental_cup: 150 m (Maximilian Mechler, GER, 2011, nicht als Weltcup-Rekord anerkannt)
+  bedeutung_fuer_ort: Wahrzeichen, Trainingsstätte weltbester Skispringer, Anziehungspunkt internationaler Sportler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/008
+ENTITÄT: bad
+BEZEICHNUNG: Badeparadies Schwarzwald
+FACETTE: FREIZEIT
+QUELLE: https://www.titisee-neustadt.de/freizeit-kultur/attraktionen-in-titisee-neustadt/badeparadies-schwarzwald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  oeffnungstage: 365 Tage im Jahr
+  erlebniswelten: Palmenoase, Palais Vital, Galaxy
+  palmen: über 300 echte Palmen
+  orchideen: ca. 350
+  lagunen: zwei türkisblaue Lagunen
+  poolbar: vorhanden im Wasser
+  atmosphaere: wie in der Südsee
+  palmenoase_charakteristika: über 180 echte Südsee-Palmen, 33°C warme Lagune mit Sprudelliegen, Panoramadach ausfahrbar
+  palmenoase_altersgrenze: ab 16 Jahren und bis 3 Jahren, ausgenommen Familientage
+  palmenoase_dampfbad: Schwarzwaldnebel, 40°C
+  palmenoase_mineralbecken: vier Becken Quellen der Gesundheit (Sole, Calcium-Lithium, Selen), 36°C
+  palmenoase_textilsauna: Natura mit Blick auf Natursee
+  palmenoase_activities: Peeling, Breathwork, Aqua-Fitness, Aqua-Bingo
+  palais_vital_flaeche: 6000 m²
+  palais_vital_alter: ab 16 Jahren
+  palais_vital_typ: textilfreie Spa- und Saunawelt
+  palais_vital_themensaunen: 12 individuell gestaltete
+  palais_vital_dampfbad: vorhanden
+  palais_vital_abkühlung: Kristalldusche mit Wasserfall, zwei Tauchbecken an frischer Luft
+  palais_vital_lagune: 300 m² Vital-Lagune
+  palais_vital_mineral_pools: mehrere mineralhaltige Vital-Pools
+  palais_vital_gastronomie: Restaurant TOP (Taste of Paradise)
+  galaxy_zielgruppe: Kinder, Jugendliche, Erwachsene
+  galaxy_rutschen: 23 Hightech-Rutschen
+  galaxy_rutschen_gesamtlaenge: 1.2 km
+  galaxy_vierfach_mattenrutsche: Deutschlands längste, Kopf-an-Kopf-Rennen möglich
+  galaxy_halfpipe: weltweit größte Edelstahl-Halfpipe
+  galaxy_freefall_rutsche: bis zu 60 Grad Neigung, schwereloses Gefühl
+  galaxy_wilde_brandung: Wellen-Rauschen
+  galaxy_sprungtuermen: 3m und 1m Sprungturm mit Blick auf Galaxy und türkisfarbenes Wasser
+  bedeutung_fuer_ort: großes Spaß- und Wellnessbad, Anziehungspunkt für Freizeiturlaub
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 443-titisee/009
+ENTITÄT: freibad
+BEZEICHNUNG: Freibad Neustadt
+FACETTE: FREIZEIT
+QUELLE: https://www.titisee-neustadt.de/freizeit-kultur/attraktionen-in-titisee-neustadt/badestelle-titisee-freibad-neustadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beckengroesse: 20 × 50 m
+  beckenviefe: 0.8-3.8 m
+  kinderbecken: beheizt mit Sonnensegel
+  liegewiese: groß
+  spielplatz: für Kinder
+  gastronomie: vorhanden
+ORTSTEIL_BEZUG: Neustadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/010
+ENTITÄT: badestelle
+BEZEICHNUNG: Badestelle Titisee
+FACETTE: FREIZEIT
+QUELLE: https://www.titisee-neustadt.de/freizeit-kultur/attraktionen-in-titisee-neustadt/badestelle-titisee-freibad-neustadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eintritt: kostenlos
+  strandbereich: vorhanden
+  liegewiese: groß
+  kinderbecken: beheizt
+  beachvolleyballplaetze: vorhanden
+  umkleiden: vorhanden
+  sandfläche: groß mit Liegestühlen, Strandkörben, Sitzsäcken im Bereich ehemaliges Schwimmbecken
+  gastronomie: Villingers Strandkiosk
+  schliessflaecher: nicht vorhanden
+ORTSTEIL_BEZUG: Titisee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/011
+ENTITÄT: wald_erlebnisraum
+BEZEICHNUNG: Felsele Erlebniswald
+FACETTE: FREIZEIT | KULTUR
+QUELLE: https://www.titisee-neustadt.de/freizeit-kultur/attraktionen-in-titisee-neustadt/felsele-erlebniswald | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 2008
+  initiator: Arbeitskreis mit Bürgerinnen und Bürgern, Stadt Titisee-Neustadt, Unterstützung Naturpark Südschwarzwald
+  konzept: Waldgebiet unter Aspekt Wald erleben attraktiver machen
+  stationen: 6 Stationen mit unterschiedlichen Naturerlebnissen im Mittelpunkt
+  kletterfelsen: vorhanden, von Vereinen und Gruppen buchbar
+ORTSTEIL_BEZUG: Neustadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/012
+ENTITÄT: kirche
+BEZEICHNUNG: Jakobus-Münster
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1897
+  baustil: neugotisch
+  bauplatz: Stelle des Vorgängerbaus (katholische Kirche seit Gründung Neustadts)
+  finanzierung: zu großen Teilen durch ortsansässige Klein- und Großspenden
+  bedeutung_fuer_ort: Wahrzeichen Neustadts, Kirche der Stadt
+  konfession: katholisch
+ORTSTEIL_BEZUG: Neustadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/013
+ENTITÄT: kloster
+BEZEICHNUNG: Kapuzinerkloster (Klösterle)
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 17. Jahrhundert (ca. 1600-1699)
+  endjahr: 1803
+  grund_ende: Säkularisation
+  schicksal_ende: auf Aussterbeetat gesetzt
+  heutiger_status: noch erhalten
+  name_heute: Klösterle
+  bedeutung_fuer_ort: Zeugnis katholischer Geschichte und Kulturerbe
+ORTSTEIL_BEZUG: Neustadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 443-titisee/014
+ENTITÄT: denkmal
+BEZEICHNUNG: Schwedenkreuz
+FACETTE: GESCHICHTE | KULTUR
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Saigerberg
+  bezug_zu_ereignis: 30-jähriger Krieg, Erinnerung an Ermordung Pfarrer Anton Wehinger
+  historischer_kontext: marodierende schwedische Söldner, Mai 1638
+  opfer: Pfarrer Anton Wehinger, gefangen genommen, verwundet, mit Wasser gefüllt, durch Soldaten getötet
+  beschreibung: grausames Kriegsereignis
+  bedeutung_fuer_ort: Gedenkmal an Kriegsleid und lokale Opfer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/015
+ENTITÄT: ortsgemeinde
+BEZEICHNUNG: Neustadt
+FACETTE: GESCHICHTE | ALLTAG | POLITIK
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 13. Jahrhundert
+  gruender: Fürsten zu Fürstenberg
+  originalname: Nuwenstatt (neue Stadt)
+  verwaltungsfunktion_mittelalter: Mittelpunkt des fürstenbergischen Verwaltungs- und Gerichtsbezirks Herrschaft über Wald
+  privileg_mittelalter: Salzstadt mit eigenem Salzhandelsplatz
+  salzhandelsplatz_lage: Salzstraße, im "langen Haus"
+  gerichtsfunktion: Gerichtsort mit Hochgericht am Galgenbuck beim heutigen Friedhof
+  vorheriges_dorf: Honfirst (von Kleinadligen aus Kloster St. Gallen angelegt)
+  burg_fruehr: Burg Honvirst auf Burgkopf (heute Burgkopf benannt)
+  bauernkrieg: Bauern aus Waldau, Jostal und Umgebung beteiligt, folgten Bauernführer Hans Müller von Bulgenbach 1524-1525
+  eingemeindung: 1973 (als Teil der Fusion mit Titisee, Rudenberg, Schwärzenbach, Waldau, Langenordnach)
+  einwohner_bei_eingemeindung: 8460
+  einwohner_heute: 9584
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/016
+ENTITÄT: ortsgemeinde
+BEZEICHNUNG: Titisee
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1111 (als "titunsee") und 1150 (als "lacun titinse")
+  gemeindenamen: 1929 erhielt Stadtteil den Gemeindenamen
+  namensherkunft: alemannischer Anführer Titin, lebte in alemannischem Ausbaudorf Titinshusen (heute Dittishausen)
+  weitere_namenstheorien: weiblicher Personenname Tita oder Alemannisch Teti (Kindlein) oder römischer Feldherr Titus oder Herr Titini oder Aronstab Tittele
+  kurort_status: Norduferkurort des Sees
+  bedeutung_fuer_ort: touristisches Zentrum mit weltweiter Beliebtheit
+ORTSTEIL_BEZUG: Titisee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 443-titisee/017
+ENTITÄT: ortsgemeinde
+BEZEICHNUNG: Waldau
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1178 (päpstliche Urkunde St. Georgen)
+  siedlungstyp: reine Streusiedlung (mit Schwärzenbach, Langenordnach, Rudenberg)
+  einwohner_bei_eingemeindung: 346
+  einwohner_heute: 396
+  charakteristika: Heimatverbundenheit, guter Bürgersinn und Dorfgemeinschaft, Vereinstätigkeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/018
+ENTITÄT: ortsgemeinde
+BEZEICHNUNG: Schwärzenbach
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1316 (Fürstlich Fürstenbergisches Urkundenbuch)
+  siedlungstyp: reine Streusiedlung
+  einwohner_bei_eingemeindung: 292
+  einwohner_heute: 255
+  charakteristika: wunderschöne Aussicht, gute Kameradschaft, rege Vereinstätigkeit, Nachbarschaftshilfe
+  historisches_gasthaus: Ahorn (1455, ältestes der Stadt)
+ORTSTEIL_BEZUG: Schwärzenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/019
+ENTITÄT: ortsgemeinde
+BEZEICHNUNG: Langenordnach
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1112 (Kloster St. Peter)
+  siedlungstyp: reine Streusiedlung
+  einwohner_bei_eingemeindung: 258
+  einwohner_heute: 236
+  geographie: lang gezogen, umgeben von Wäldern und Wiesen, malerischer Bachlauf der Ordnach
+  charakteristika: Gemeinschaft und Tradition stark gelebt
+ORTSTEIL_BEZUG: Langenordnach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/020
+ENTITÄT: ortsgemeinde
+BEZEICHNUNG: Rudenberg
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1316
+  siedlungstyp: reine Streusiedlung
+  einwohner_bei_eingemeindung: 239
+  einwohner_heute: 176
+  charakteristika: Dorflandschaft mit beeindruckenden Höfen, grandioses Panorama zu Hochfirst, Feldberg, Alpenwelt der Schweiz, liebevoll als Perle oder Kleinod bezeichnet
+  siedlung_beginn: 14. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/021
+ENTITÄT: gaststaette
+BEZEICHNUNG: Ahorn
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1455
+  superlativ: ältestes Gasthaus der Stadt
+  bedeutung_fuer_ort: Zeugnis langer Gastro-Tradition
+ORTSTEIL_BEZUG: Schwärzenbach
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1455
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/022
+ENTITÄT: gaststaette
+BEZEICHNUNG: Traube
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1550
+ORTSTEIL_BEZUG: Waldau
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1550
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/023
+ENTITÄT: gaststaette
+BEZEICHNUNG: Oberes Wirtshaus
+FACETTE: GESCHICHTE | ALLTAG
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1692
+ORTSTEIL_BEZUG: Langenordnach
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1692
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/024
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Strohhutfabrik
+FACETTE: GESCHICHTE | ALLTAG | WIRTSCHAFT
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 18. Jahrhundert
+  arbeitskraefte_maximum: ca. 200 Strohflechterinnen
+  bedeutung_fuer_ort: erste Fabrik der Stadt, Beginn der Neustädter Industriegeschichte
+ORTSTEIL_BEZUG: Neustadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/025
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Tuchfabrik
+FACETTE: GESCHICHTE | ALLTAG | WIRTSCHAFT
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: erster großer Industriebetrieb Neustadts
+  baujahr_bezug: um 1885
+  produktion: Uniformstoffe für Großherzogtum Baden
+  bedeutung_fuer_ort: wegweisend für Industrialisierung
+ORTSTEIL_BEZUG: Neustadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/026
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Neustädter Uhrenfabriken
+FACETTE: GESCHICHTE | ALLTAG | WIRTSCHAFT
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_fuer_ort: Zentrum Schwarzwalduhrmacherei, Wahrzeichen lokaler Handwerkskunst
+  geschichtlicher_kontext: mehrere Fabriken als Teil der Industrialisierung
+ORTSTEIL_BEZUG: Neustadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 443-titisee/027
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Papierfabrik
+FACETTE: GESCHICHTE | ALLTAG | WIRTSCHAFT
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: einzige der aufgezählten Fabriken (Strohhut, Tuch, Uhren, Sägewerke, Schraubenfabrik, Papierfabrik), die noch heute existiert
+  bedeutung_fuer_ort: Kontinuität des Industrieerbes
+ORTSTEIL_BEZUG: Neustadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/028
+ENTITÄT: eisenbahnstrecke
+BEZEICHNUNG: Höllentalbahn
+FACETTE: INFRA | GESCHICHTE | WIRTSCHAFT
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung_bis_neustadt: 1887
+  fertigstellung_bis_donaueschingen: 1902
+  bedeutung_fuer_ort: Tourismus erlebte Aufschwung, Urlauber strömten in Scharen nach Titisee, Motor der touristischen Entwicklung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/029
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Neustadt im Schwarzwald
+FACETTE: INFRA
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnhofsnummer: 4331
+  bahnstrecke: Höllentalbahn
+  verbindung_freiburg: stündlich
+  verbindung_donaueschingen: stündlich
+  bedeutung: Verkehrsanbindung der Stadt
+ORTSTEIL_BEZUG: Neustadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/030
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Titisee
+FACETTE: INFRA
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnhofsnummer: 5876
+  bahnstrecke: Höllentalbahn
+  hoehe: 858 m
+  verbindung_freiburg: halbstündlich
+  verbindung_donaueschingen: stündlich
+  zusatzverbindung: Drei-Seen-Bahn nach Seebrugg
+  bedeutung: Verkehrsanbindung Titisees, touristische Erschließung
+ORTSTEIL_BEZUG: Titisee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 443-titisee/031
+ENTITÄT: ereignis
+BEZEICHNUNG: Großer Stadtbrand von Neustadt
+FACETTE: GESCHICHTE
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1817
+  grund: vermutlich kaiserliche Soldaten mit offenem Feuer im Stall, entzündeten Heu und anschließend Haus
+  ausmass: gesamte Stadt brannte
+  opfer: über 300 Familien obdachlos
+  verlust: älteste Häuser der Stadt zerstört
+  folgen: Wiederaufbau notwendig
+GUELTIG_AB: 1817
+GUELTIG_BIS: 1817
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/032
+ENTITÄT: ereignis
+BEZEICHNUNG: Deutsche Meisterschaften auf dem Titisee
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1925
+  disziplinen: Eisschnelllauf, Eishockey, Eisschießen, Rodeln
+  besonderheit: erstes Eishockeyspiel im Schwarzwald
+  grund_austragung: geplanter Austragungsort Altona musste wegen schlechter Wetterbedingungen zurückziehen
+  bedeutung_fuer_ort: Titisee als Austragungsort großer Sportveranstaltung etabliert
+GUELTIG_AB: 1925
+GUELTIG_BIS: 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/033
+ENTITÄT: sportungeheuer
+BEZEICHNUNG: Eishockey auf dem gefrorenen Titisee
+FACETTE: GESCHICHTE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: bis 1958
+  grund_ende: Eisstadion Hermeshof errichtet
+  beschreibung: regelmäßige Eishockeyspiele auf natürlicher Eisfläche
+  bedeutung_fuer_ort: spezifisches Freizeiterlebnis und Winterspektakel
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/034
+ENTITÄT: unfall
+BEZEICHNUNG: Traktorunglück im Eis von 1966
+FACETTE: GESCHICHTE
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  datum: 14. Januar 1966
+  ereignis: Traktor mit Schneepflug brach durch Eisdecke und versank
+  opfer: Bühlhofbauer Walter Wilde (29 Jahre alt)
+  bergung: Leiche erst zwei Wochen später gefunden
+  folgen_regelung: neue Regel eingeführt, dass nie der gesamte See freigegeben wird, sondern nur abgegrenzte Bereiche
+  bedeutung_fuer_ort: Katalysator für Sicherheitsmaßnahmen beim Eis-Freigabeverfahren
+GUELTIG_AB: 1966
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/035
+ENTITÄT: fischbestand
+BEZEICHNUNG: Raubfische des Titisees
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  arten: Zander, Seeforellen, Hechte
+  vorkommen: großer Bestand
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/036
+ENTITÄT: fischbestand
+BEZEICHNUNG: Schwarmfische des Titisees
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  arten: Felchen (Große Maräne), Rotaugen, Barsche
+  besonderheit_maraene: 1945 eingeführt (Titiseehotel hielt Fische lebendig, kippte sie aus Protest gegen französische Besatzer in den See)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/037
+ENTITÄT: fischbestand
+BEZEICHNUNG: Bodenfische des Titisees
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  arten: Karpfen, Döbel, Schleien, Aale, Quappen (Trüsche)
+  besonderheit_schleien: erreichen in schlammigen Einlaufbereichen des Seebaches Gewichte bis 2.5 kg
+  besonderheit_karpfen: nur vereinzelt, keine Rekordgewichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/038
+ENTITÄT: fischbestand
+BEZEICHNUNG: Kleinfischarten des Titisees
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  arten: Moderlieschen, Elritze, Bachneunauge
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/039
+ENTITÄT: fischbestand
+BEZEICHNUNG: Bachforellen und Saiblinge des Titisees
+FACETTE: LAGE | FREIZEIT
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  arten: Bachforellen, Saiblinge, Regenbogenforellen
+  vorkommen: in den Mündungsbereichen der Bäche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/040
+ENTITÄT: vogelbestand
+BEZEICHNUNG: Graureiher am Titisee
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  beobachtungsort: um den See beobachtbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/041
+ENTITÄT: vegetation
+BEZEICHNUNG: Brachsenkräuter des Titisees
+FACETTE: LAGE
+QUELLE: https://de.wikipedia.org/wiki/Titisee | Wikipedia
+EIGENSCHAFTEN:
+  arten: Stachelsporriges Brachsenkraut (Isoëtes echinospora), See-Brachsenkraut (Isoëtes lacustris)
+  besonderheit: seltene Arten an den Ufern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/042
+ENTITÄT: kulturelle_einrichtung
+BEZEICHNUNG: Uhrenausstellung "Zeit Zeugen – Einblicke in die Neustädter Uhrengeschichte"
+FACETTE: KULTUR | FREIZEIT
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/750-jahre-neustadt/zeitzeugen-einblicke-in-die-neustaedter-uhrengeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: 750-jähriges Stadtjubiläum Ortsteil Neustadt
+  konzept: wechselnde Ausstellung mit besonderen Uhren aus Neustadt
+  ausstellungsort: Vielfalt am Münster
+  besonderheit: spezielles Video für jede Uhr zeigt Innenleben der Uhr
+  thema: Schwarzwalduhr als materielles Kulturgut und Träger von Geschichte
+  bedeutung_fuer_ort: Vermittlung von Uhrenhandwerk und lokaler Kulturgeschichte
+ORTSTEIL_BEZUG: Neustadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 443-titisee/043
+ENTITÄT: historisches_kulturwerk
+BEZEICHNUNG: Haus Redeck
+FACETTE: GESCHICHTE | KULTUR | WIRTSCHAFT
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: angeblich Wiege der Schwarzwälder Uhrmacherei
+  zeitraum: 16. Jahrhundert
+  bedeutung_fuer_ort: Ursprungsort renommierter Schwarzwaldhandwerkstradition
+ORTSTEIL_BEZUG: Waldau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 443-titisee/044
+ENTITÄT: dorf
+BEZEICHNUNG: Honfirst
+FACETTE: GESCHICHTE
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgänger_neustadt: Dorf auf der Gemarkung vor Gründung Neustadts
+  gründer: Kleinadlige aus dem Umfeld Kloster St. Gallen
+  befestigung: vermutlich zugehörige Burg Honvirst auf Burgkopf
+  lokalname_burgkopf: Burgkopf-Name erhielt sich bis heute
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 443-titisee/045
+ENTITÄT: fusion
+BEZEICHNUNG: Gemeindereform und Fusion Titisee-Neustadt
+FACETTE: GESCHICHTE | POLITIK
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jaehre: 1971-1974
+  beteiligte_ortsteile: Neustadt und Titisee, Rudenberg, Schwärzenbach, Waldau, Langenordnach
+  resultat: Namensänderung der Stadt in Titisee-Neustadt
+  bedeutung_fuer_ort: letzte große historische Veränderung der Stadtstruktur, Vereinigung mehrerer Gemeinden
+GUELTIG_AB: 1971
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
